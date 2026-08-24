@@ -1,0 +1,12 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "c6f567c2f84f2d3976513afb4a9f11312b8a3b2f4005dcba8f751cd86bca2274",
+  "verdict": "pass",
+  "notes": [
+    "Convergence record only — the structure payload is NOT duplicated here. Downstream agents read 02_structure.json for structure and this file only to confirm convergence.",
+    "Ids are frozen as of this record: modules M1–M3, segments M1.S1 / M2.S2 / M2.S3 / M3.S4, topics T1–T9, concepts C1–C13 (chapter-continuous), objectives O1–O9 with strand_to_objective_map L1–L9. Only Agent 14 may renumber, and it must translate every surviving reference when it does.",
+    "The sha256 above is of 02_structure.json as validated. If that file changes, this record no longer describes it — re-validate rather than assuming convergence still holds.",
+    "Full verdict, per-check evidence and the non-blocking notes for Agent 13 are in 04_validation.json."
+  ]
+}

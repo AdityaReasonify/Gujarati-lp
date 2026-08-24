@@ -1,0 +1,74 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati7_ch8",
+  "chapter_name": "સાદ વરત્યો",
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "genre": "varta",
+      "genre_subform": "લોકકથા",
+      "explanation_unit": "એક ઘટના",
+      "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+      "notes": [
+        "02_structure.json cuts by the unit 01_meta.json names — explanation_unit 'એક ઘટના' — and that unit is what profiles/genres/varta.md §'Explanation unit — one ઘટના' defines. teaching_lens is identical in both files and matches the varta row in profiles/genres/_genre_index.md.",
+        "લોકકથા is a sub-form folded onto the varta profile by _genre_index.md line 228; writing root genre as the slug 'varta' with genre_subform 'લોકકથા' is the correct handling, not a genre drift.",
+        "કડી / દુહો / પદ / ટેક sub-checks are vacuous by measurement, not by omission: 01_meta.json structure_inventory records kadi=0, duha=0, pad=0, tek_occurrences=0, and 00_chapter_normalized.md carries no [[કડી]], [[દુહો]] or [[પદ]] marker anywhere. There is no verse in the unit, so no દુહો could be merged and no પદ could be split.",
+        "Not a mixed chapter: one સ્વરૂપ throughout, so the per-part unit rule does not engage.",
+        "varta.md avoid-gate 4 (spoiling the turn early) holds in the material A2 authors. topic_category 'climax' sits once, on M2.S3.T5, and none of the four preceding topic names or objectives O1–O4 names the recognition, the drawn swords or વજેસંગ's protection. O4 stops at 'ડેલી સુધી કેમ પહોંચી શક્યા'.",
+        "varta.md avoid-gate 3 (judging a sympathetic character) holds: no topic name, concept name or objective_text applies an evaluative label to જોગીદાસ. 'બહારવટિયો' is the chapter's own printed word, not an evaluation added by the plan.",
+        "avoid-gates 1, 2 and 5 are checked against explanation / summary / recall fields that do not exist yet at this stage; they bind Agents 5–7 and Agent 13, not this cut."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 7,
+      "topics": 7,
+      "segments": 5,
+      "modules": 3,
+      "concepts": 10,
+      "notes": [
+        "00_chapter_normalized.md carries exactly seven reading-scene markers, all [[ઘટના: …]], and 02_structure.json carries seven topics, one per marker. The marker strings recorded in each topic's markers[] match the printed marker order line for line.",
+        "Line-level coverage verified mechanically against 00_chapter_normalized.md: the story region runs lines 19–103, and every non-blank, non-marker line in it is claimed by exactly one topic. Zero unclaimed narrative lines, zero double-claimed lines, zero marker lines swallowed into a chunk.",
+        "Topics are in reading order: first claimed lines run 21, 41, 51, 63, 69, 83, 91 — strictly ascending.",
+        "No topic covers text no marker claims: no claimed line falls outside the story region (nothing from the header band, the પ્રવેશપેટી, the શબ્દાર્થ or રૂઢિપ્રયોગ boxes, the સ્વાધ્યાય blocks or the closing ક્રિયાવિશેષણ box).",
+        "NO સ્વાધ્યાય BLOCK BECAME A TOPIC. All fourteen verbatim_heading values in 01_meta.json's exercise_inventory were cross-checked against every module, segment, topic and concept name and against every topic's claimed line range: zero collisions. The highest line any topic claims is 103; the first [[સ્વાધ્યાય]] marker sits at line 119.",
+        "Block 2 ('જોડકાં જોડો.') reprints the story's own quotations. A2 correctly treated that as exercise text and did not fold it into any topic's cut — verified: no topic claims a line above 103.",
+        "M2.S3.T5 spans line 69 plus lines 75–79, skipping the [[ચિત્ર]] marker at line 71 and the [[પૃષ્ઠ 52]] marker at line 73. That is one ઘટના interrupted by an illustration and a page turn, not two beats; keeping it whole is correct and no cut was made at the picture or the page break.",
+        "Pre-reading opener: this chapter prints none that is a reading scene. The only opener on printed p. 50 is the teacher-addressed blue પ્રવેશપેટી ('…વિદ્યાર્થીઓને ઉપલબ્ધ કરાવવું. …બાળકોને ખાસ પરિચય કરાવવો.'), which reference/explanation_unit_map.md rule 4 classes as apparatus that feeds key_terms and ભાષા-બોધ and never becomes a topic. A2 recorded it in not_cut_as_topics with that reasoning. Excluding it is compliance, not a coverage gap — the std-10 exception (an unlabeled કવિ/લેખક-પરિચય printed FOR the student) does not exist in this std-7 chapter.",
+        "There is no in-text wrap or review block printed in this chapter, so no REVIEW topic is owed."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 7,
+      "notes": [
+        "Root objectives[] exists with seven entries; objective_id O1–O7 are unique.",
+        "Every home_topic_id resolves to a topic in this tree (M1.S1.T1, M1.S1.T2, M1.S2.T3, M2.S3.T4, M2.S3.T5, M2.S4.T6, M3.S5.T7) and all ten anchor[] ids resolve to concepts that exist in it.",
+        "strand_to_objective_map covers every legacy_id exactly once: L1→O1 … L7→O7, and each mapping agrees with the objective carrying that legacy_id. Single strand L / ભાષા અને સાહિત્ય throughout, as Gujarati literature requires.",
+        "Every topic carries objective_ids and each resolves to the registry; every concept's objective_id also resolves.",
+        "Text-grounded and chapter-specific: each objective_text names printed particulars of THIS chapter — દાદભાનું મરણ, શિહોર-ભાવનગરનો કળેળાટ, બહારવટિયાઓનું સનાન, ખરખરે જવાનો નિર્ણય, માથે પછેડી, પાંચસો જણ, હાકોટા, તલવારોની મૂઠ, જતિસ્વરૂપ. None could be pasted into another chapter of the reader.",
+        "Each serves teaching_lens 'ઘટના + પાત્ર + વળાંક': O1 and O4 on what happens, O2/O3/O6 on why a character chooses as he does, O5 on the turn itself, O7 on what the turn leaves behind.",
+        "Id grammar per reference/naming_conventions.md: M1 → M3 continuous; segments M1.S1, M1.S2, M2.S3, M2.S4, M3.S5 never restart; topics T1–T7 never restart; concepts C1–C10 chapter-continuous. Hierarchy verified programmatically against traversal position — zero mismatches.",
+        "No M1.S1.T1.P1-style objective code anywhere in the file, and no .SR{n} recall id anywhere (both regex-checked over the whole JSON).",
+        "No numbers in display text: no module, segment, topic or concept name and no objective_text contains a Latin or Gujarati digit."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "CONVERGED. Ids are frozen from this point; only Agent 14 renumbers them, and it must translate every anchor[], home_topic_id, objective_ids and depends_on reference when it does.",
+    "CONCEPT NUMBERING, for Agent 14 — the concept counter does NOT equal the topic number here, because three topics carry two concepts each (M1.S1.T2 → C2, C3; M2.S3.T5 → C6, C7; M3.S5.T7 → C9, C10). Chapter-continuous C1–C10 is the correct reading of reference/phase2_contract.md; a renumber that 'fixes' C4 back to C3 on M1.S2.T3 would break the contract.",
+    "original_chunk is empty on all seven topics BY DESIGN — agents/02_structure.md line 167 reserves the verbatim for Agent 5. This validation therefore checked the cut against each topic's source_lines_00_normalized ranges instead, which are present and exact on all seven. Agent 5 must fill every original_chunk from 00_chapter_normalized.md; global_content_rules.md rule 2 binds at ship time, not here.",
+    "FOR AGENT 5 — M2.S3.T5's verbatim is discontinuous (line 69, then lines 75–79) and its speech at line 69 ends mid-utterance as printed (''…તમે છાના રો''). Transcribe as printed; do not close the quotation and do not bridge the gap with the marker lines.",
+    "FOR AGENTS 12/13 — varta.md avoid-gate 4 binds M1.S1.T1, M1.S1.T2, M1.S2.T3 and M2.S3.T4: no explanation, summary, concept_bullet or recall answer on those four may reveal that જોગીદાસ is recognised, that swords are drawn, or that વજેસંગ protects him. A2 kept the gate intact in the names and objectives; the prose fields are where it can still be broken.",
+    "Non-blocking, uneven topic length: M2.S3.T4 is two printed sentences while M3.S5.T7 runs seven paragraphs. A2's reasoning is sound — the unit is the ઘટના, splitting T7 would yield two half-beats and merging T4 into T5 would put the concealment and the recognition in one topic and destroy the turn. Recorded for Agent 13, not a block.",
+    "Non-blocking, carried from A1 and unchanged by this cut: the printed સ્વાધ્યાય numbering jumps 3 → 5 (no block '4' on the render), so fourteen blocks are numbered 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15. Nothing in the structure depends on that numbering; Agent 10 must answer all fourteen.",
+    "Non-blocking, carried from A1: printed variance between the story text and the exercise text (story p. 52 'સાચે લખમણ જતિનો અવતાર !' vs 'જોડકાં જોડો.' p. 53 'સાચો લક્ષ્મણ જતિનો અવતાર !'), and block 15's nine-word bank against eight printed blanks. Both are printed facts, transcribed and not corrected. Agents 5 and 10 must keep each as printed in its own place.",
+    "Non-blocking provenance gap: chapter_id 'gseb_eng_gujarati7_ch8' keeps the PROVISIONAL board and medium segments flagged by reference/naming_conventions.md (VERIFY-1); chapter_master_id, subject_ref_id and publication_id remain unresolved (VERIFY-2). Not this agent's to fix and not a structural defect.",
+    "CONTEXT ROUTING — the run context supplied only no_hallucination_policy.md and global_content_rules.md, but the spec's inputs also require reference/loop_protocol.md, reference/explanation_unit_map.md, reference/phase2_contract.md, reference/naming_conventions.md and the active genre profile. Rather than guess at their contents I read each of them in full from disk at its canonical path (reference/ and profiles/genres/varta.md, profiles/genres/_genre_index.md). Nothing in this verdict rests on recalled content.",
+    "No page render was opened. 00_chapter_normalized.md answered every question this validation asked — markers, line ranges, the illustration and page-turn positions inside M2.S3.T5, and the apparatus boundaries.",
+    "This was the single pass. reference/loop_protocol.md: no iteration, no round-2 feedback file."
+  ]
+}

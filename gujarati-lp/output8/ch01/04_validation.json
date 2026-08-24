@@ -1,0 +1,70 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati8_ch1",
+  "validated": "02_structure.json",
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "explanation_unit": "એક કડી",
+      "markers_kadi": 5,
+      "topics_carrying_kadi": 5,
+      "markers_duho": 0,
+      "topics_carrying_duho": 0,
+      "markers_pad": 0,
+      "topics_carrying_pad": 0,
+      "markers_tek": 1,
+      "topics_carrying_tek": 1,
+      "notes": [
+        "01_meta.json sets explanation_unit 'એક કડી' and profiles/genres/prarthana_kavita.md sets 'one કડી of the petition' — the cut uses that unit. Five [[કડી n]] markers in 00_chapter_normalized.md, five topics carrying them, one marker each: [[કડી 1]]→M1.S2.T2, [[કડી 2]]→M1.S2.T3, [[કડી 3]]→M2.S3.T4, [[કડી 4]]→M2.S3.T5, [[કડી 5]]→M2.S4.T6. Equal.",
+        "No દુહો and no પદ exists in this chapter (01_meta.json structure_inventory duha 0, pad 0; grep of 00_chapter_normalized.md confirms zero [[દુહો …]] and zero [[પદ …]] markers). Both counts are 0 = 0, so neither the shared-topic rule nor the no-split rule can be violated here.",
+        "ટેક handling verified against the profile's structural gate: 00_chapter_normalized.md carries exactly ONE [[ટેક]] marker (the full refrain printed standalone at the head, 'જીવનજ્યોત જગાવો, / પ્રભુ હે, જીવનજ્યોત જગાવો.'). The refrain's WORDS never change — the five later occurrences are the printed shorthand 'પ્રભુ હે...' of the SAME words, confirmed by 01_meta.json's extraction_notes ('only the printed form does'). All markers being identical in wording, the profile requires exactly one topic teaching the ટેક with every later topic naming it in depends_on: M1.S1.T1 teaches it, and all five કડી topics list M1.S1.T1 in depends_on. Satisfied. The changed-words rule of urmikavya_geet.md does not engage.",
+        "01_meta.json's structure_inventory.tek_occurrences = 6 counts printed occurrences (one full + five shorthand); 00_chapter_normalized.md carries one [[ટેક]] MARKER. Different things counted, not a discrepancy — the topic count follows distinct wordings, which is one.",
+        "Not a mixed chapter. genre is single ('પ્રાર્થનાગીત'), active_genre_profiles is the single prarthana_kavita.md, and the second poem 'મંદિર તારું વિશ્વ રૂપાળું' — જયંતીલાલ આચાર્ય sits inside exercise block ten. Both the profile and explanation_unit_map.md §4 name that case explicitly as exercise-internal reading matter, never folded into this chapter's કડી chain. 02_structure.json excludes it and records why. Correct.",
+        "Profile avoid-list, structural items: 'Cutting a petition in half' — every topic's block ends at a printed કડી boundary, so each of the five કડી topics holds a complete asking-move with its own asking verbs (જમાવો/બનાવો, ભરાવો/આપો, બનાવો/ચલાવો, રચાવો/બનાવો, ઉડાવો/ઝરાવો) plus its closing refrain line, and the ટેક topic holds the refrain's own asking verb (જગાવો). No topic holds only a condition clause — notably 'વણદીવે અંધારે' and 'વણજહાજે દરિયાને' stay inside M1.S2.T3 with the petitions they ground.",
+        "Profile avoid-list, objective-level items: no objective_text moralises ('આપણે … જોઈએ' does not occur), none reads the asking as doubt, none names a religion, sect, scripture or tradition, none asserts an અલંકાર / છંદ / સમાસ label, and none flattens the vocative — O1 quotes 'પ્રભુ હે' verbatim. No digits appear in any module_name, segment_name, topic_name or objective_text (checked by regex); the objectives write 'પહેલી કડીમાં' and 'છેલ્લી કડીમાં'."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 6,
+      "topics": 6,
+      "exercise_blocks_in_source": 13,
+      "exercise_blocks_cut_as_topics": 0,
+      "notes": [
+        "Reading markers in 00_chapter_normalized.md, in printed order: [[ટેક]], [[કડી 1]], [[કડી 2]], [[કડી 3]], [[કડી 4]], [[કડી 5]] — six. Six topics, one per marker, and the plan traversal order (M1.S1.T1 → M1.S2.T2 → M1.S2.T3 → M2.S3.T4 → M2.S3.T5 → M2.S4.T6) matches the printed order exactly.",
+        "No topic covers text that no marker claims: every topic carries a source_marker and all six source_marker values are drawn from the six reading markers, with no duplicates.",
+        "No સ્વાધ્યાય block became a topic. All 13 [[સ્વાધ્યાય: …]] markers in 00_chapter_normalized.md were cross-checked against all 13 exercise_inventory entries in 01_meta.json and against every topic_name and every source_marker: zero overlap. The 13 headings — વાતચીત. / પ્રશ્નોના જવાબ લખો. / આપેલ ભાવને અનુરૂપ કાવ્યપંક્તિઓ લખો. / સરખા પ્રાસવાળા શબ્દો લખો. / ઉદાહરણ મુજબ શબ્દો લખી… / ઉદાહરણ પ્રમાણે રેખાંકિત શબ્દના સ્થાને… / યોગ્ય વિકલ્પ પસંદ કરી ખાલી જગ્યા પૂરો. / આડા-અવળા શબ્દોને યોગ્ય ક્રમમાં… / યોગ્ય શબ્દ પસંદ કરી ખાલી જગ્યા પૂરો. / કવિતા વાંચી… ✓ નિશાની કરો. / આપેલા શબ્દોને શબ્દકોશના ક્રમમાં ગોઠવો. / આપેલા ફકરાનું તમારી પ્રથમ ભાષામાં ભાષાંતર કરો. / પ્રવૃત્તિ : — are all left to Agent 10, and 02_structure.json's marker_accounting records that decision.",
+        "Pre-reading opener: the blue [[પ્રવેશપેટી]] box is correctly NOT a topic. explanation_unit_map.md §4 ('Apparatus is not a reading scene. The blue intro box, the શબ્દાર્થ box … are teacher-addressed matter: they feed key_terms, ભાષા-બોધ and Agent 10 — not topics') and agents/02_structure.md say the same, and reserve the CONCEPT pre-reading topic for std 10's unlabelled કવિ/લેખક-પરિચય paragraph printed FOR THE STUDENT. This box is teacher-addressed on its face — 'ભાવવાહી ગાન કરવું અને કરાવવું', 'વિદ્યાર્થીઓનું ધ્યાન દોરવું'. No pre-reading topic is owed by this chapter, and inventing one would have been the error.",
+        "[[શબ્દાર્થ]] (yellow gloss box) and [[ચર્ચા-વિચારણા]] ('પ્રાર્થનાનું મહત્ત્વ') are likewise apparatus, excluded with a recorded reason; prarthana_kavita.md forbids cutting the ચર્ચા-વિચારણા box as a topic.",
+        "In-text wrap: the book prints none in this chapter, so no REVIEW topic is owed. Confirmed against 00_chapter_normalized.md — nothing sits between the fifth કડી and the શબ્દાર્થ box."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 6,
+      "notes": [
+        "Root objectives[] exists with O1–O6; all six objective_id values are unique. Every home_topic_id (M1.S1.T1, M1.S2.T2, M1.S2.T3, M2.S3.T4, M2.S3.T5, M2.S4.T6) resolves to a topic node in this tree, and every anchor[] id (…C1 … …C6) resolves to a concept node in this tree. Checked programmatically, not by eye.",
+        "strand_to_objective_map covers every legacy_id exactly once: L1→O1 … L6→O6, six keys for six objectives, no gap and no repeat. Every objective carries strand 'L' / 'ભાષા અને સાહિત્ય', the single strand Gujarati literature uses.",
+        "Every topic carries objective_ids, each a single id resolving to the root registry, and each topic's concept carries the matching objective_id.",
+        "Text-grounded and chapter-specific: each objective quotes a phrase actually printed on this page — 'પ્રભુ હે' / 'જીવનજ્યોત જગાવો' (O1), ટચૂકડી આંગળીઓ, નાનકડા પગ, 'રડવડતાં શિખવાડો' (O2), 'વણદીવે અંધારે' / 'વણજહાજે દરિયાને' (O3), મનનાં ફૂલડાં / રસથી સભર / પીંછી / 'મઘમઘતાં' (O4), 'ઉરની સાંકલડી શેરી' / હૈયાના ઝરણા / સાગર (O5), 'શિખવાડો' → 'સ્થળ-સ્થળમાં વરસાવો' and 'સ્નેહશક્તિ બલિદાન નીર' (O6). None could be pasted into another chapter.",
+        "The objectives serve the teaching_lens 'યાચના + સંબોધન + આત્મબળ': O1 is the સંબોધન, O2–O5 are what is asked for and why strength rather than rescue, O6 weighs the turn from being taught to being poured out. That is the profile's own four-move account of a પ્રાર્થના, in order.",
+        "Bloom ladder rises across the chapter (Understand, Understand, Analyze, Analyze, Analyze, Evaluate) and stops at Evaluate only in the closing કડી — appropriate for std 8.",
+        "Ids match reference/naming_conventions.md: hierarchy dotted and continuous with no restart — modules M1, M2; segments M1.S1, M1.S2, M2.S3, M2.S4 (s runs 1–4 across the chapter); topics T1–T6 continuous; concepts chapter-continuous with the concept number equal to the topic number (M1.S2.T3.C3, M2.S4.T6.C6). Concepts are present under every topic, one each. No 'M1.S1.T1.P1'-style objective code appears anywhere in the file (checked by string search).",
+        "topic_type 'POEM' is the correct AUTHORED value at this stage, not a contract violation: reference/phase2_contract.md fixes the closed server enum (instructional | summary | assessment) for the EMITTED plans only and states that intermediate files (Agents 02–13) carry POEM / STORY_TELLING / CONCEPT / REVIEW, mapped by Agents 14/15 at emit. topic_category carries the finer role (introduction / core / transition / climax) and root genre carries the સ્વરૂપ, as the contract requires."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "NON-BLOCKING — uneven topic length, already self-reported by A2 and carried forward for Agent 13: the ટેક topic M1.S1.T1 holds two printed lines while every કડી topic holds three. That is the page's own shape (the refrain is printed standalone before the first કડી), not a thin cut, and the profile requires the ટેક to be taught once. Agent 12 should expect a shorter explanation there and reference it from the five કડી topics rather than re-teach it.",
+    "NON-BLOCKING — original_chunk is \"\" on all six topics. That is correct at this stage: 02_structure.json cuts, Agent 5 transcribes. The consequence for this pass is that the profile's mechanical verbatim gates (the refrain shorthand 'પ્રભુ હે...' reproduced character-for-character; figures_of_speech[].lines occurring inside original_chunk) could NOT be checked here and are not claimed as checked. They fall to Agent 5 and Agent 13. What was checkable structurally — that every topic's marker block contains an asking verb or the ટેક line — was checked and passes.",
+    "NON-BLOCKING, for Agent 13 — reference-file correction outstanding, raised by A1: the render prints the poet's name 'ત્રિભુવનદાસ પુરુસોત્તમદાસ લુહાર' with સ, while profiles/genres/prarthana_kavita.md (its provenance box) and reference/corpus/std-8_inventory.md both still print 'પુરુષોત્તમદાસ' with ષ. The rendered page wins and the transcription is right to keep પુરુસોત્તમદાસ; the two reference files should be corrected. No plan field depends on it. Likewise the corpus inventory records the author slot as \"- 'સુન્દરમ્' (ત્રિભુવનદાસ પુરુષોત્તમદાસ લુહાર)\" where the render prints only \"- 'સુન્દરમ્'\".",
+    "NON-BLOCKING, for Agents 7/12/13 — the profile's non-structural avoid gates are live but not yet instantiable, since no teaching prose exists: the first sentence of every explanation must name the asking using a word from that topic's own original_chunk (the inverse of the ઊર્મિકાવ્ય picture-first gate); no supplied imagery beyond the poem and the printed શબ્દાર્થ box; no બોધ appended to a petition; every topic carries either figures_of_speech[] or an explanation sentence naming its પ્રાસ, since સ્વાધ્યાય block four tests rhyme; and no deity is depicted in any media prompt.",
+    "NON-BLOCKING, provenance — the ids frozen here contain the PROVISIONAL 'gseb' board and 'eng' medium segments (chapter_id gseb_eng_gujarati8_ch1). Freezing at Agent 4 freezes the M/S/T/C grammar, not the VERIFY-1 board/medium resolution; if VERIFY-1 changes either segment, chapter_id and plan_id change with it and that is not a renumbering violation.",
+    "NON-BLOCKING, provenance — 01_meta.json's 'textbook' is null on purpose (the std-8 cover was not among the six supplied renders). Recorded as a gap, per no_hallucination_policy.md; Agent 11 carries it and fails soft.",
+    "CONTEXT ROUTING — the run context supplied only no_hallucination_policy.md and global_content_rules.md, but this spec also cites reference/loop_protocol.md, reference/explanation_unit_map.md, reference/phase2_contract.md, the active genre profile, and (via check 3) reference/naming_conventions.md. All five were present on disk and were read in full from the repository rather than guessed at; none was reconstructed from memory. Files read: reference/loop_protocol.md, reference/explanation_unit_map.md, reference/phase2_contract.md, reference/naming_conventions.md, profiles/genres/prarthana_kavita.md.",
+    "METHOD — no page render was opened. 00_chapter_normalized.md answered every question this pass asks, including the layout facts (the standalone ટેક couplet, the five shorthand closings, the three apparatus boxes), which A1 had already recorded in 01_meta.json's extraction_notes. Marker counts, id resolution, map coverage and the digit ban were verified programmatically against the two JSON files rather than read off by eye."
+  ]
+}

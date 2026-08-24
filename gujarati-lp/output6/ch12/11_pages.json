@@ -1,0 +1,8 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 6",
+  "textbook_url": "../Textbooks-pdf/std-6/ch-12-ajabgajabno-melo.pdf",
+  "textbook_pages": "79–84",
+  "source": "printed folio, read off renders (150 dpi) of pdf pp. 1 and 6 of the chapter PDF — page 1 prints 79 in the footer, page 6 prints 84; six rendered pages counted end to end, consistent with the manifest row (printed_start 79, pdf_start 90, pdf_end 95, 6 pages) and with 01_meta.json's extraction_notes",
+  "confidence": "high",
+  "gaps": ["textbook_url is a local path — the GSEB readers have no hosted URL"]
+}

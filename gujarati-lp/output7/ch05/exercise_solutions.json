@@ -1,0 +1,1011 @@
+{
+  "_comment": "The SECOND deliverable for ધોરણ 7, એકમ 5 'આપણે ભરોસે' (ઊર્મિકાવ્ય-ગીત, પ્રહ્લાદ પારેખ). All thirteen printed exercise blocks inventoried in 01_meta.json's exercise_inventory are answered here and nowhere else — સ્વાધ્યાય is never a teaching topic. Std 7 prints no 'સ્વાધ્યાય' banner: the numbered pink headings under the શબ્દાર્થ box ARE the blocks. The GSEB PDF is image-only, so every prompt_verbatim is Agent 1's transcription of the renders in output7/ch05/_renders (printed pp. 25-29), spot-verified against page-3 and page-4 for this file. Field languages follow the pack convention: answer, explanation, acceptable_alternatives and values_filled_for_teaching are child- and class-facing Gujarati; teacher_note carries pipeline mechanism prose in English. Granularity: blocks made of independent numbered items get one entry per printed item; the three composite blocks (શબ્દસાંકળ, કાળ-ફેરફાર ફકરો, લેખન) get one entry each, with every printed slot filled in values_filled_for_teaching. EX{n} is this pack's own consecutive counter in printed order; the book's block number is kept in teacher_note.",
+  "plan_id": "gseb_eng_gujarati7_ch5_v1",
+  "chapter_id": "gseb_eng_gujarati7_ch5",
+  "subject": "Gujarati",
+  "grade": 7,
+  "chapter_name": "આપણે ભરોસે",
+  "exercises": [
+    {
+      "exercise_id": "EX1",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "1. તમે ક્યારેય નિરાશ થયાં છો ? શા માટે ?",
+      "answer": "(એક શક્ય જવાબ) હા. ગયા વર્ષે ગણિતની કસોટીમાં મેં તૈયારી તો ખૂબ કરી હતી, પણ છેલ્લા બે દાખલા ખોટા પડ્યા. પરિણામ આવ્યું ત્યારે ધાર્યા કરતાં ઓછા ગુણ જોઈને હું બહુ નિરાશ થયો હતો.",
+      "explanation": "આ ખુલ્લો પ્રશ્ન છે અને દરેક બાળકનો અનુભવ જુદો હશે — કોઈને રમતમાં હાર્યાનું દુઃખ હશે, કોઈને ઘરની કોઈ વાતનું. જે સાચે જ બન્યું હોય તે કહેવું એ જ સાચો જવાબ છે. ગીત ગાતાં પહેલાં આ વાત નીકળે તો 'હૈયામાં હામ ધરી' પંક્તિ બાળકને પોતાની લાગે છે.",
+      "acceptable_alternatives": [
+        "મને યાદ હોય એવી નિરાશા હજી આવી નથી — એવો પ્રામાણિક જવાબ પણ ચાલે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 1. Oral opener, run before the poem is sung. Accept a one-line answer and never press a child who does not want to share a home matter.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX2",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "2. તમે નિરાશ થાઓ ત્યારે શું શું કરો છો ?",
+      "answer": "(એક શક્ય જવાબ) હું પહેલાં થોડી વાર શાંતિથી બેસી રહું છું. પછી મમ્મી સાથે કે મારા ભાઈબંધ સાથે વાત કરું છું. મન હળવું થાય એટલે ચોપડી ખોલીને, જ્યાં ભૂલ પડી હતી ત્યાંથી ફરી મંડી પડું છું.",
+      "explanation": "અહીં બાળક પોતાની રીત કહે એ જ અપેક્ષા છે. જવાબમાં બે વાત નીકળે તો સારું — કોની સાથે વાત કરે છે, અને પછી શું કરે છે. ગીતની બીજી કડી પણ એ જ ક્રમ બતાવે છે : પહેલાં હૈયામાં હામ, પછી હાથે સુકાન.",
+      "acceptable_alternatives": [
+        "હું રમવા નીકળી જાઉં છું, રમીને પાછો આવું ત્યારે મન સાફ થઈ ગયું હોય છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 2. Pairs with item 1 — run the two together as one short round.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX3",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "3. તમે ક્યારેય કોઈના ભરોસે રહ્યાં છો ? ક્યારે ?",
+      "answer": "(એક શક્ય જવાબ) હા. જૂથકાર્યમાં ચાર્ટ બનાવવાનું કામ મેં આખું મારા મિત્રના ભરોસે છોડી દીધું હતું. એ દિવસે એ ગેરહાજર રહ્યો અને અમારો ચાર્ટ અધૂરો રહી ગયો.",
+      "explanation": "આ પ્રશ્ન ગીતના મુખ્ય શબ્દ 'ભરોસો' પર બાળકનું ધ્યાન ખેંચે છે. કોઈના ભરોસે રહેવું એટલે કામ પોતાના હાથમાંથી છોડી દેવું — એ અનુભવ યાદ આવે પછી 'આપણે ભરોસે આપણે હાલીએ' પંક્તિનો અર્થ જાતે જ ખૂલે છે.",
+      "acceptable_alternatives": [
+        "મમ્મી ટિફિન ભરી આપશે એ ભરોસે હું નીકળી ગયો હતો અને એ દિવસે ટિફિન રહી ગયું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 3. Keep it to the child's own small examples; do not let it become a complaint session about family members.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX4",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "4. બીજાના ભરોસે રહીએ તો શું થાય ?",
+      "answer": "(એક શક્ય જવાબ) કામ આપણા હાથમાં રહેતું નથી. જેના ભરોસે રહ્યાં હોઈએ તે ન આવે કે ભૂલી જાય તો કામ ત્યાં ને ત્યાં અટકી પડે છે અને છેવટે નિરાશા આપણા ભાગે આવે છે. ગીતમાં પણ કવિ કહે છે : 'ખુદનો ભરોસો જેને હોય નહીં રે તેને / ખુદાનો ભરોસો નકામ;' — જેને પોતાના પર ભરોસો જ ન હોય તેને બહારનો ટેકો ઝાઝો કામ આવતો નથી.",
+      "explanation": "જવાબ ગીતની પહેલી કડીમાંથી જ મળે છે. કડી એ માણસની વાત કરે છે જેને પોતાના પર ભરોસો નથી — એ શરત આખા વાક્યની સાથે જ રહેવી જોઈએ, નહીં તો વાત આખી જુદી થઈ જાય.",
+      "acceptable_alternatives": [
+        "બીજા પર બધું છોડી દઈએ તો કામ મોડું થાય, અધૂરું રહે, ને પછી બીજા પર દોષ ઢોળવાનું જ બાકી રહે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 4. Sensitivity: 08_sensitivity.json marks this કડી. Keep the discussion on શ્રમ and આત્મબળ; the condition 'જેને ખુદનો ભરોસો નથી' must travel with any mention of ખુદા or રામ. The કડી is not a statement about either faith.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T2",
+        "M2.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX5",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "5. તમે કોઈ બાબતમાં જાતે નિર્ણય લીધો ? કેવો ?",
+      "answer": "(એક શક્ય જવાબ) હા. આ વર્ષે મેં જાતે નક્કી કર્યું કે સાંજે પહેલાં લેસન પૂરું કરવું અને પછી જ રમવા જવું. શરૂઆતના દિવસોમાં અઘરું લાગ્યું, પણ હવે ટેવ પડી ગઈ છે અને લેસન બાકી રહેતું નથી.",
+      "explanation": "'નિર્ણય જાતે લેવો' એ ગીતના 'સઢ ને સુકાનને આપણે જ હાથે સંભાળીએ' ચિત્રનું બાળકના જીવનનું રૂપ છે. જવાબમાં નિર્ણય શું હતો અને પછી શું થયું — બંને આવે તો પૂરો જવાબ ગણાય.",
+      "acceptable_alternatives": [
+        "મેં જાતે નક્કી કરીને શાળાની વક્તૃત્વ સ્પર્ધામાં નામ આપ્યું હતું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 5. This is the item that leads straight into the second કડી — hold one or two answers back to quote when the class reaches 'આપણે જ હાથે સંભાળીએ'.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S2.T3",
+        "M2.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX6",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "6. ઘરમાં થતી ચર્ચામાં તમે સહભાગી થયાં છો ? કેવી ?",
+      "answer": "(એક શક્ય જવાબ) હા. ઉનાળાની રજામાં ક્યાં ફરવા જવું એની ચર્ચામાં ઘરમાં બધાં બેઠાં હતાં ત્યારે મેં પણ મારો મત આપ્યો — મેં કહ્યું કે નાનીના ગામ જઈએ તો ખર્ચ ઓછો થાય અને રહેવાની ચિંતા પણ નહીં. મારી વાત સાંભળીને મોટાંઓએ હા પાડી.",
+      "explanation": "ચર્ચામાં ભળવું એટલે સાંભળવું અને પોતાનું કહેવું — બંને. ગીતનો ગાનાર પણ એકલો હાલી નીકળતો નથી; 'હો ભેરુ મારા' કહીને પોતાની સાથે હાલતા સૌ સાથીઓને સાદ પાડે છે.",
+      "acceptable_alternatives": [
+        "ઘરમાં નવો પંખો કયો લેવો એની વાત ચાલી ત્યારે મેં પણ મારો મત કહ્યો હતો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 6. Mapped to the ટેક topic because 'હો ભેરુ મારા' is the poem's own picture of speaking up among one's own people — not because the item quotes the poem.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX7",
+      "exercise_group": "આપેલા અર્થ મુજબની પંક્તિ કાવ્યમાંથી શોધીને લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "1. હાથમાં શક્તિ ને હૃદયમાં હિંમત રાખીને જીવનરૂપી સમુદ્રમાં આગળ ધપીએ.",
+      "answer": "બળને બાહુમાં ભરી, હૈયામાં હામ ધરી.\nસાગર મોઝારે ઝુકાવીએ;",
+      "explanation": "આપેલા અર્થના ત્રણેય ટુકડા આ જ પંક્તિઓમાં છે : 'હાથમાં શક્તિ' એટલે 'બળને બાહુમાં ભરી' (બાહુ — હાથ, બાવડું), 'હૃદયમાં હિંમત' એટલે 'હૈયામાં હામ ધરી' (હૈયું — હૃદય; હામ — હિંમત), અને 'સમુદ્રમાં આગળ ધપીએ' એટલે 'સાગર મોઝારે ઝુકાવીએ' (મોઝારે — મધ્યે, વચ્ચે). 'ઝુકાવીએ' એટલે અહીં ઝંપલાવીએ, વહાણ હંકારીએ — નમી પડીએ એવો અર્થ નથી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, item 1. The verse's own line break is kept in the answer. Watch the standing L2 hazard: children reading ઝુકાવીએ as Hindi ઝુકના turn the line upside down — say the gloss aloud once before they write.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX8",
+      "exercise_group": "આપેલા અર્થ મુજબની પંક્તિ કાવ્યમાંથી શોધીને લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "2. દોસ્ત, આપણે આપણા ભરોસે જ જીવવું જોઈએ.",
+      "answer": "હો ભેરુ મારા, આપણે ભરોસે આપણે હાલીએ...",
+      "explanation": "'દોસ્ત' માટે ગીતનો શબ્દ 'ભેરુ' છે (ભેરુ — દોસ્ત, ભાઈબંધ), અને 'આપણા ભરોસે જીવવું' માટે 'આપણે ભરોસે આપણે હાલીએ' છે. 'હાલીએ' એ 'ચાલીએ'નું તળપદું રૂપ છે — ગીતના લયનું રૂપ, ભૂલ નહીં. પંક્તિને છેડે છપાયેલા ત્રણ ટપકાં એ ગાવાનો ખેંચાવ છે : પંક્તિ ફરી ગાવાની છે એમ એ કહે છે.",
+      "acceptable_alternatives": [
+        "આપણે ભરોસે આપણે હાલીએ,"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, item 2. Either the refrain line or the poem's opening line is a correct find; the refrain line is closer because the prose meaning starts with 'દોસ્ત'.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX9",
+      "exercise_group": "આપેલા અર્થ મુજબની પંક્તિ કાવ્યમાંથી શોધીને લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "3. આપણા કામને આપણે જ કરીએ, બીજાને ભરોસે નહીં.",
+      "answer": "આપણા વહાણનાં સઢ ને સુકાનને\nઆપણે જ હાથે સંભાળીએ, - હો ભેરુ.",
+      "explanation": "'આપણા કામ' માટે ગીત વહાણનું ચિત્ર મૂકે છે — સઢ (પવન ઝીલતું કપડું) અને સુકાન (જેને મરડવાથી વહાણની દિશા બદલાય તે સાધન). એ બે જ વહાણ ચલાવે છે, અને કવિ કહે છે કે એ બંને 'આપણે જ હાથે' સંભાળવાનાં. એટલે અર્થ બરાબર બંધ બેસે છે.",
+      "acceptable_alternatives": [
+        "એનો કરવૈયો કો આપણી બહાર નહીં,\nઆપણે જ આપણે છઈએ, - હો ભેરુ."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, item 3. Both the second કડી's closing couplet and the third કડી's closing couplet answer the prose meaning; accept either. '- હો ભેરુ.' is the printed refrain shorthand at the કડી's end — a child who stops at 'સંભાળીએ,' has still copied the line correctly.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T3",
+        "M2.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX10",
+      "exercise_group": "આપેલા અર્થ મુજબની પંક્તિ કાવ્યમાંથી શોધીને લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "4. જેને પોતાના પર ભરોસો ન હોય એ માણસ ભગવાન પર ભરોસો રાખે એનો કોઈ અર્થ નથી.",
+      "answer": "ખુદનો ભરોસો જેને હોય નહીં રે તેને\nખુદાનો ભરોસો નકામ;",
+      "explanation": "'ખુદ' એટલે પોતે અને 'ખુદા' એટલે ઈશ્વર — બે પંક્તિમાં એક જ માત્રાનો ફેર છે, એટલે વાંચતી વખતે ધ્યાન રાખવું. પંક્તિ એક શરત મૂકે છે : વાત એ માણસની છે 'જેને ખુદનો ભરોસો હોય નહીં'. વચ્ચેનો 'રે' અર્થ માટે નહીં, લય માટે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, item 4. Sensitivity item (08_sensitivity.json): quote the couplet whole, never the second line alone. The કડી argues for one's own effort in the poet's own idiom, naming both ખુદા and રામ evenhandedly; it says nothing about either faith being false.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX11",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "1. આપણે ભરોસે આપણે રહીએ એટલે શું ?",
+      "answer": "આપણે ભરોસે આપણે રહીએ એટલે પોતાની જાત પર ભરોસો રાખીને હાલવું. ગીત એ વાત ચિત્ર દઈને કહે છે : 'એક મહેનતના હાથને ઝાલીએ' — ઝાલવાનો હાથ મહેનતનો, અને 'આપણા વહાણનાં સઢ ને સુકાનને / આપણે જ હાથે સંભાળીએ' — વહાણ ચલાવવાનો હાથ પણ પોતાનો. બીજા કોઈ આવીને કરી આપશે એની વાટ જોઈને બેસી રહેવાનું નથી.",
+      "explanation": "જવાબ ગીતની અંદરથી જ આપવાનો છે. 'ભરોસો' શબ્દ ગીતમાં ચાર વાર જુદી જુદી રીતે આવે છે, અને છેલ્લી કડી એનો સરવાળો કરે છે : 'આપણે જ આપણે છઈએ.'",
+      "acceptable_alternatives": [
+        "પોતાની મહેનત અને પોતાની હિંમત પર ઊભા રહેવું — ટૂંકમાં એ જ 'આપણે ભરોસે આપણે રહેવું'."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 1. Answer must be lifted from the poem, not from general talk about confidence. One quoted line is enough at std 7.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX12",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "2. આપણે બીજાની હિંમત કેવી રીતે બનીએ છીએ ?",
+      "answer": "(એક શક્ય જવાબ) જે માણસ ડગી ગયો હોય તેની પડખે ઊભા રહીએ અને 'તું કરી શકીશ' એમ કહીએ ત્યારે આપણે એની હિંમત બનીએ છીએ. વર્ગમાં કોઈને દાખલો ન આવડે ત્યારે જવાબ કહી દેવાને બદલે રીત સમજાવીએ — એથી એનો પોતાનો ભરોસો વધે છે. ગીતનો ગાનાર પણ એકલો નીકળી પડતો નથી; 'હો ભેરુ મારા' કહીને સૌ સાથીઓને સાદ પાડે છે અને સાથે લઈને હાલે છે.",
+      "explanation": "આ પ્રશ્નનો જવાબ પાઠમાં સીધો છપાયો નથી, પણ ગીતનું 'હો ભેરુ મારા' એ સાદ જ એનું ચિત્ર છે : સાથે હાલવાનું આમંત્રણ. બાળક પોતાનો દાખલો ઉમેરે એટલે જવાબ પૂરો થાય.",
+      "acceptable_alternatives": [
+        "કોઈ હારી જાય ત્યારે એની ભૂલ ગણાવવાને બદલે 'ફરી પ્રયત્ન કર' એમ કહેવું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 2. Half text, half own experience — hence a model answer. Do not accept a bare slogan; ask the child for one real instance.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX13",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "3. જાત મહેનત જિંદાબાદ એટલે ?",
+      "answer": "'જાત મહેનત જિંદાબાદ' એટલે પોતાના હાથે કરેલી મહેનતનો જયજયકાર — 'મારી પોતાની મહેનત ઘણું જીવો !' ગીતની પહેલી જ પંક્તિઓમાં એ જ વાત છે : 'એક મહેનતના હાથને ઝાલીએ.' જે હાથ મહેનત કરે છે તે જ હાથ ઝાલવા જેવો છે.",
+      "explanation": "'જાત' એટલે પોતે, 'જિંદાબાદ' એ આગત શબ્દ છે અને એનો અર્થ 'લાંબું જીવો, જય હો' થાય છે. બંને ભેગા થઈને એક નારો બને છે, જેનો ભાવ આ ગીતના ભાવ સાથે બરાબર મળે છે.",
+      "acceptable_alternatives": [
+        "પોતાનું કામ પોતાના હાથે કરવામાં જ ખરી શોભા છે — એ વાતનો નારો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 3. The same phrase returns as the chapter's final writing topic (printed block 13); answer it briefly here and let the paragraph come later.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX14",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "4. તમે બીજાને કેવી કેવી રીતે મદદરૂપ થાઓ છો ?",
+      "answer": "(એક શક્ય જવાબ) ઘરે હું નાની બહેનને લેસનમાં મદદ કરું છું અને મમ્મીને રસોડામાં થાળી-વાટકા ગોઠવી આપું છું. શાળામાં જે મિત્ર ગેરહાજર રહ્યો હોય તેને મારી નોટ આપું છું. ગલીમાં કોઈ વડીલને ભારે થેલી લઈને ચડતાં જોઉં તો થેલી ઊંચકી લઉં છું.",
+      "explanation": "આ પ્રશ્ન બાળકના પોતાના જીવન વિશે છે, એટલે એનો એક જ સાચો જવાબ નથી. બે-ત્રણ જુદી જગ્યાના દાખલા — ઘર, શાળા, પડોશ — આવે તો જવાબ ભરેલો લાગે.",
+      "acceptable_alternatives": [
+        "મને જે આવડે છે તે મિત્રને શીખવું છું — રમત હોય કે ચિત્ર."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 4. Personal item. Ask for concrete instances, not virtues.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX15",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "5. તમને કોણ કોણ હિંમત આપે છે ? કેવી રીતે ?",
+      "answer": "(એક શક્ય જવાબ) મને મમ્મી, પપ્પા, મારા શિક્ષક અને મારો ભાઈબંધ હિંમત આપે છે. કસોટીમાં ઓછા ગુણ આવ્યા ત્યારે મમ્મીએ વઢવાને બદલે કહ્યું, 'ચાલ, ક્યાં ભૂલ પડી તે સાથે જોઈએ.' શિક્ષકે મને વર્ગ સામે વાંચવાનું કામ સોંપીને મારો ડર કાઢ્યો. ભાઈબંધ રમતમાં હારીએ ત્યારે કહે છે, 'કાલે ફરી રમીશું.'",
+      "explanation": "જવાબમાં 'કોણ' અને 'કેવી રીતે' બંનેના ઉત્તર આવવા જોઈએ — નામ ગણાવીને અટકી જવાય નહીં. હિંમત આપનારનું એક વાક્ય યાદ કરીને લખાય તો જવાબ જીવતો બને છે.",
+      "acceptable_alternatives": [
+        "મોટા ભાઈ કે બહેન, દાદા-દાદી, પડોશના મિત્ર — બાળકના જીવનમાં જે ખરેખર હોય તે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 5. Personal item; accept whoever the child names. A child who names no one is not to be corrected — note it quietly and follow up.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX16",
+      "exercise_group": "કયો વિકલ્પ આપેલી કાવ્યપંક્તિના અર્થની નજીક છે ?",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "1. આપણે ભરોસે આપણે...\n(અ) આપણા ભેરુના સંગાથે\n(બ) આપણા વિશ્વાસે જ આપણે\n(ક) આપણા કામથી જ આપણે",
+      "answer": "(બ) આપણા વિશ્વાસે જ આપણે",
+      "explanation": "'ભરોસો' એટલે વિશ્વાસ, એટલે 'આપણે ભરોસે' એટલે 'આપણા પોતાના વિશ્વાસે' — વિકલ્પ (બ) એ જ કહે છે. (ક) લલચાવે છે, કેમ કે આખું ગીત મહેનતનું છે; પણ આ પંક્તિનો શબ્દ 'ભરોસે' છે, 'કામથી' નહીં — મહેનતની વાત તો પછીની પંક્તિમાં 'મહેનતના હાથને ઝાલીએ' કહીને આવે છે. (અ) ખોટો છે, કારણ કે ભેરુને ગીત સાદ પાડે છે, ભેરુના ભરોસે હાલવાનું કહેતું નથી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4, item 1. The most common std-7 slip here is (અ), from reading 'ભેરુ' as the person being relied on. The ટેક topic's misconception note (07_pitfalls.json) covers the same trap.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX17",
+      "exercise_group": "કયો વિકલ્પ આપેલી કાવ્યપંક્તિના અર્થની નજીક છે ?",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "2. બળને બાહુમાં ભરી, હૈયામાં હામ ધરી, સાગર મોઝારે ઝુકાવીએ,\n(અ) દરિયો તરવાની તાકાત હાથમાં હોવી જોઈએ.\n(બ) હાથમાં તાકાત હોય તો સરળતાથી દરિયો તરી શકાય.\n(ક) બાવડાના બળથી અને હૃદયમાં હિંમતથી દરિયા વચ્ચે ઝંપલાવીએ.",
+      "answer": "(ક) બાવડાના બળથી અને હૃદયમાં હિંમતથી દરિયા વચ્ચે ઝંપલાવીએ.",
+      "explanation": "પંક્તિમાં ત્રણ વાત છે — બાહુમાં બળ, હૈયામાં હામ, અને સાગરની વચ્ચે ઝુકાવવું. વિકલ્પ (ક)માં ત્રણેય સચવાય છે ('ઝુકાવીએ' એટલે ઝંપલાવીએ, વહાણ હંકારીએ). (બ) લલચાવે છે કેમ કે એમાં 'હાથમાં તાકાત' છે; પણ એ હૃદયની હામ ગાળી નાખે છે અને 'સરળતાથી તરી શકાય' એવું પંક્તિ ક્યાંય કહેતી નથી. (અ) પણ માત્ર તાકાતની વાત કરે છે અને પંક્તિને તરવાના નિયમમાં ફેરવી નાખે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4, item 2. The exercise reprints the verse line with a comma where the verse page prints a semicolon after 'ઝુકાવીએ' and drops the '- હો ભેરુ.' shorthand; prompt_verbatim follows the exercise page, as printed. Answer from the exercise's own wording.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX18",
+      "exercise_group": "કયો વિકલ્પ આપેલી કાવ્યપંક્તિના અર્થની નજીક છે ?",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "3. એનો કરવૈયો કો' આપણી બહાર નહીં, આપણે જ આપણે છીએ.\n(અ) એ કરનાર બીજું કોઈ નહીં, પણ આપણે પોતે જ છીએ.\n(બ) કોણ પાડે અને કોણ ઊભા કરે.\n(ક) એ કામ કરવા બહારથી બીજું કોઈ ન આવે.",
+      "answer": "(અ) એ કરનાર બીજું કોઈ નહીં, પણ આપણે પોતે જ છીએ.",
+      "explanation": "'કરવૈયો' એટલે કરી જાણનારો, અને પંક્તિ કહે છે કે એ કરનારો આપણી બહાર નથી — 'આપણે જ આપણે છીએ.' એટલે (અ) આખી પંક્તિનો અર્થ પકડે છે. (ક) લલચાવે છે કેમ કે 'આપણી બહાર નહીં' એટલો ટુકડો એમાં આવી જાય છે, પણ એ પંક્તિનો અડધો — નકારનો — ભાગ જ છે; 'આપણે જ આપણે છીએ' એ હકારનો ભાગ એમાં નથી. (બ) તો આગળની પંક્તિના 'કોણ રે ડુબાડે વળી કોણ રે ઉગારે' પ્રશ્નનું રૂપ છે, આ પંક્તિનો અર્થ નથી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4, item 3. PRINTED INCONSISTENCY, recorded not repaired (Agent 1's extraction note): the verse on printed p. 25 sets this line as 'એનો કરવૈયો કો આપણી બહાર નહીં,' and 'આપણે જ આપણે છઈએ,', while this exercise on printed p. 27 sets it as 'કો'' with an apostrophe and 'છીએ'. prompt_verbatim carries the exercise page's forms. Neither spelling is to be shown to the child as the wrong one.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX19",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરીને વાક્યમાં જરૂર હોય ત્યાં ફેરફાર કરી ફરીથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "1. દરેક પોતાનામાં હામ રાખે તો સફળ જ થાય. (હિંમત)",
+      "answer": "દરેક પોતાનામાં હિંમત રાખે તો સફળ જ થાય.",
+      "explanation": "'હામ' અને 'હિંમત' એક જ અર્થના શબ્દો છે — પાઠના શબ્દાર્થમાં જ 'હામ — હિંમત' છપાયું છે. બંને સ્ત્રીલિંગ છે અને વાક્યમાં એકસરખી જગ્યાએ બેસે છે, એટલે બીજો કશો ફેરફાર કરવો પડતો નથી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 5, item 1. The block is a synonym-substitution drill with agreement repair where needed; here no repair is needed, and noticing that is part of the task.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX20",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરીને વાક્યમાં જરૂર હોય ત્યાં ફેરફાર કરી ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "2. દરિયાકિનારે નાનાં-મોટાં બધાંને મજા આવી ગઈ. (સાગર)",
+      "answer": "સાગરકિનારે નાનાં-મોટાં બધાંને મજા આવી ગઈ.",
+      "explanation": "'દરિયો' અને 'સાગર' સમાનાર્થી છે (શબ્દાર્થ : સાગર — દરિયો). અહીં શબ્દ એકલો નથી, 'દરિયાકિનારે' એવા જોડાયેલા શબ્દમાં છે, એટલે એનો પહેલો ભાગ બદલાય છે અને 'સાગરકિનારે' થાય છે — 'સાગરકિનારે' કે 'સાગરના કિનારે', બંને ચાલે.",
+      "acceptable_alternatives": [
+        "સાગરના કિનારે નાનાં-મોટાં બધાંને મજા આવી ગઈ."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 5, item 2. This is the item where the 'જરૂર હોય ત્યાં ફેરફાર' clause first bites — the substituted word sits inside a compound.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX21",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરીને વાક્યમાં જરૂર હોય ત્યાં ફેરફાર કરી ફરીથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "3. મને મારા ભાઈ જેટલો જ વિશ્વાસ મારા મિત્ર પર છે. (ભરોસો)",
+      "answer": "મને મારા ભાઈ જેટલો જ ભરોસો મારા મિત્ર પર છે.",
+      "explanation": "'વિશ્વાસ' અને 'ભરોસો' બંને પુંલ્લિંગ છે, એટલે 'જેટલો જ' એમનું એમ રહે છે અને વાક્યમાં બીજો કોઈ ફેરફાર થતો નથી. આ 'ભરોસો' શબ્દ જ આખા ગીતનો મુખ્ય શબ્દ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 5, item 3. Point back to the poem's title while correcting this one.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX22",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરીને વાક્યમાં જરૂર હોય ત્યાં ફેરફાર કરી ફરીથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "4. અકસ્માત જોઈને મારું હૃદય દ્રવી ઊઠ્યું. (હૈયું)",
+      "answer": "અકસ્માત જોઈને મારું હૈયું દ્રવી ઊઠ્યું.",
+      "explanation": "શબ્દાર્થમાં 'હૈયું — હૃદય, ઉર' છપાયું છે. બંને શબ્દ નપુંસકલિંગ છે, એટલે 'મારું' અને 'ઊઠ્યું' એમનાં એમ રહે છે. 'દ્રવી ઊઠવું' એટલે લાગણીથી પીગળી જવું.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 5, item 4. Gloss 'દ્રવી ઊઠ્યું' before the child rewrites — it is the hardest word in the sentence, not the substituted one.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX23",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરીને વાક્યમાં જરૂર હોય ત્યાં ફેરફાર કરી ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "5. મારો વિશ્વાસ જ મારી તાકાત છે. (બળ)",
+      "answer": "મારો વિશ્વાસ જ મારું બળ છે.",
+      "explanation": "કૌંસનો શબ્દ 'બળ' એ 'તાકાત'નો સમાનાર્થી છે. 'તાકાત' સ્ત્રીલિંગ છે અને 'બળ' નપુંસકલિંગ, એટલે એની આગળનું 'મારી' બદલાઈને 'મારું' થાય છે — આ જ આ વાક્યનો 'જરૂરી ફેરફાર' છે.",
+      "acceptable_alternatives": [
+        "જો 'વિશ્વાસ'ને સ્થાને 'બળ' મૂકીએ તો : મારું બળ જ મારી તાકાત છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 5, item 5. The intended substitution is તાકાત → બળ (the synonym pair), and the લિંગ change on 'મારી' → 'મારું' is the point of the item. The alternative reading is defensible and is recorded, not preferred.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX24",
+      "exercise_group": "શબ્દસાંકળ બનાવો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "શબ્દસાંકળ બનાવો.\nઉદાહરણ : ઘડવૈયો - કરવૈયો\n________,        ________,        ________,\n________,        ________,        ________,",
+      "answer": "ઘડવૈયો - કરવૈયો - ગાવૈયો - લડવૈયો - તારવૈયો - રમવૈયો - ખેલવૈયો - નાચવૈયો",
+      "explanation": "છપાયેલા ઉદાહરણમાં 'ઘડવૈયો' અને 'કરવૈયો' બંનેને છેડે એક જ પ્રત્યય છે — '-વૈયો', જેનો અર્થ 'એ કામ કરનારો' થાય છે. પાઠના શબ્દાર્થમાં જ 'કરવૈયો — કરી જાણનારો' છપાયું છે. એટલે સાંકળ એ જ પ્રત્યય પકડીને આગળ ચલાવવાની છે : ગાનારો — ગાવૈયો, લડનારો — લડવૈયો, તારનારો — તારવૈયો.",
+      "acceptable_alternatives": [
+        "ઘડવૈયો - કરવૈયો - ગાવૈયો - લડવૈયો - તારવૈયો - કમાવૈયો - બોલવૈયો - દોડવૈયો"
+      ],
+      "values_filled_for_teaching": "છ ખાનાં આ રીતે ભરાય : (1) ગાવૈયો, (2) લડવૈયો, (3) તારવૈયો, (4) રમવૈયો, (5) ખેલવૈયો, (6) નાચવૈયો.",
+      "teacher_note": "Printed block 6. The page prints the example and six dotted slots in two rows of three, each closed by a comma. Note the shape: this is a rhyme-and-suffix chain on '-વૈયો', NOT a last-letter word chain — the printed example settles it. The suffix is productive, so accept any word a child builds on the pattern; ગાવૈયો, લડવૈયો and તારવૈયો are the ones in common use and are the safest to put on the board.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX25",
+      "exercise_group": "આપેલા ચિત્રને આધારે પ્રશ્નોના જવાબ લખો.",
+      "skill": "writing",
+      "prompt_verbatim": "1. આ ચિત્ર શાનું છે ?",
+      "answer": "આ ચિત્ર પડી ગયેલાં — ધરાશાયી થયેલાં — મકાનોનું છે. છાપેલી તસવીરમાં ઈંટ અને સિમેન્ટનાં મકાનો તૂટીને કાટમાળનો ઢગલો થઈ ગયો છે. પતરાં, લાકડાં અને ઘરવખરી કાટમાળમાં દટાયેલી દેખાય છે, અને પાછળનું એક મકાન અડધું તૂટીને ઊભું રહી ગયું છે.",
+      "explanation": "ચિત્રવર્ણનનો પહેલો પ્રશ્ન ચિત્રમાં જે દેખાય છે તે જ કહેવાનું કહે છે — શું બન્યું હશે એ પછીના પ્રશ્નનો વિષય છે. બે-ત્રણ વસ્તુ નામ દઈને ગણાવાય તો વર્ણન ચોક્કસ બને.",
+      "acceptable_alternatives": [
+        "તૂટી પડેલા મકાનના કાટમાળનું ચિત્ર છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, item 1. The block is built on a printed PHOTOGRAPH of collapsed buildings on printed p. 27 (verified on the render), not on a drawing and not on the poem. Let the class look for a full minute before anyone writes.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX26",
+      "exercise_group": "આપેલા ચિત્રને આધારે પ્રશ્નોના જવાબ લખો.",
+      "skill": "writing",
+      "prompt_verbatim": "2. ચિત્રમાં દેખાય છે એ પરિસ્થિતિ કેમ થઈ હશે ?",
+      "answer": "(એક શક્ય જવાબ) આટલાં મકાનો એકસાથે ભાંગી પડ્યાં છે એ જોતાં ધરતીકંપ થયો હશે એમ લાગે છે. ધરતી ધ્રૂજી હશે એટલે દીવાલો તૂટી પડી અને છાપરાં નીચે બેસી ગયાં.",
+      "explanation": "ચિત્રમાં કારણ છપાયું નથી, એટલે અહીં અનુમાન કરવાનું છે. જે અનુમાન ચિત્રમાં દેખાતી નિશાનીઓ સાથે બંધ બેસે તે સાચું ગણાય — એટલે જવાબમાં 'કેમ એમ લાગે છે' તે પણ કહેવું.",
+      "acceptable_alternatives": [
+        "ભારે વરસાદ કે પૂરથી પાયા બેસી ગયા હોય.",
+        "વાવાઝોડું આવ્યું હોય.",
+        "મકાન બહુ જૂનું અને જર્જરિત હોય અને એની જાતે ધસી પડ્યું હોય."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, item 2. Inference item — accept any reading the photograph supports, and ask for the evidence. Do not name a particular real disaster; the page names none.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX27",
+      "exercise_group": "આપેલા ચિત્રને આધારે પ્રશ્નોના જવાબ લખો.",
+      "skill": "writing",
+      "prompt_verbatim": "3. પડી ગયેલા મકાનના સભ્યો અત્યારે ક્યાં રહેતા હશે ?",
+      "answer": "(એક શક્ય જવાબ) એ લોકો અત્યારે રાહતછાવણીના તંબુમાં કે નજીકની શાળા અથવા સમાજવાડીમાં રહેતાં હશે. કેટલાંક કુટુંબ પોતાનાં સગાં કે પડોશીના ઘરે રહેવા ગયાં હશે, અને કોઈ તો ઘરની બહાર ખુલ્લામાં જ ખાટલો ઢાળીને પડ્યાં હશે.",
+      "explanation": "આ પણ અનુમાનનો પ્રશ્ન છે. જવાબમાં એક કરતાં વધારે જગ્યા આવે તો સારું, કેમ કે આફત પછી બધાં એક જ ઠેકાણે નથી જતાં.",
+      "acceptable_alternatives": [
+        "સરકારે ઊભા કરેલા કામચલાઉ આશ્રયસ્થાનમાં."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, item 3. Handle with care if any child in the class has lived through a displacement; keep the answer general and short.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX28",
+      "exercise_group": "આપેલા ચિત્રને આધારે પ્રશ્નોના જવાબ લખો.",
+      "skill": "writing",
+      "prompt_verbatim": "4. ઘર પડી જવાથી રોજિંદાં કાર્યમાં શા ફેરફાર થયા હશે ?",
+      "answer": "(એક શક્ય જવાબ) રસોઈ ચૂલા પર બહાર ખુલ્લામાં કરવી પડતી હશે અને પાણી ટૅન્કરમાંથી ભરવા જવું પડતું હશે. ચોપડાં-દફતર કાટમાળમાં દટાયાં હોય એટલે નિશાળ પણ ચુકાઈ જતી હશે. રાત્રે અજવાળું ન હોય, સૂવાની જગ્યા ન હોય, અને કપડાં-વાસણ માટે પણ બીજા પર આધાર રાખવો પડતો હશે.",
+      "explanation": "પ્રશ્ન 'રોજિંદાં કાર્ય' પૂછે છે, એટલે જવાબમાં રોજના કામોનાં નામ આવવાં જોઈએ — રસોઈ, પાણી, નિશાળ, ઊંઘ, નહાવા-ધોવાનું. એક-એક કામ સામે શું બદલાયું તે લખાય તો જવાબ પૂરો ગણાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, item 4. Good place for a four-line list answer rather than a paragraph.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX29",
+      "exercise_group": "આપેલા ચિત્રને આધારે પ્રશ્નોના જવાબ લખો.",
+      "skill": "writing",
+      "prompt_verbatim": "5. દોડીને નીકળી જવું પડે એવી કઈ કઈ આફતો છે ?",
+      "answer": "ધરતીકંપ, આગ, પૂર, વાવાઝોડું, ગૅસનું ગળતર અને જૂનું મકાન ધસી પડવું — આવી આફતોમાં એક ક્ષણ પણ ગુમાવ્યા વગર દોડીને બહાર નીકળી જવું પડે છે.",
+      "explanation": "આ પ્રશ્નમાં એવી આફતો ગણાવવાની છે જેમાં જગ્યા છોડવી જ પડે. વરસાદ કે ઠંડી જેવી પરિસ્થિતિમાં ઘરમાં જ સલામતી હોય છે, એટલે એ આ યાદીમાં ન આવે.",
+      "acceptable_alternatives": [
+        "સુનામી અને દરિયાનું ઊંચે ચડી આવવું — દરિયાકાંઠાના ગામોમાં."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, item 5. Keep the list short and local; the point is the difference between 'leave at once' and 'stay put' emergencies.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX30",
+      "exercise_group": "આપેલા ચિત્રને આધારે પ્રશ્નોના જવાબ લખો.",
+      "skill": "values",
+      "prompt_verbatim": "6. કુદરતી આફત આવે ત્યારે તેનાથી બચવા શું કરવું જોઈએ ?",
+      "answer": "ધરતીકંપ વખતે મજબૂત ટેબલ કે પલંગ નીચે બેસી જઈને માથું અને ગરદન ઢાંકી દેવાં; ધ્રુજારી બંધ થાય કે તરત ખુલ્લી જગ્યાએ પહોંચી જવું અને લિફ્ટને બદલે દાદરનો ઉપયોગ કરવો. પૂરમાં ઊંચી જગ્યાએ ખસી જવું અને વહેતા પાણીમાં ઊતરવું નહીં. આગ લાગે ત્યારે નીચા નમીને, નાક-મોં ભીના કપડાથી ઢાંકીને બહાર નીકળવું. ઘરમાં પાણી, બૅટરી, દોરી અને પ્રાથમિક સારવારની પેટી તૈયાર રાખવી, અને હેલ્પલાઇન 108 કે 112 પર ખબર આપવી. અફવા ફેલાવવી નહીં અને શાળા-ગામમાં થતી કવાયતમાં ધ્યાનથી ભાગ લેવો.",
+      "explanation": "આ પ્રશ્નનો જવાબ સાચી માહિતીનો છે, કલ્પનાનો નહીં. દરેક આફત સામે જુદી રીત હોય છે, એટલે એક જ સામાન્ય વાક્ય લખવાને બદલે આફત પ્રમાણે જુદી જુદી રીતો લખવી.",
+      "acceptable_alternatives": [
+        "શાળામાં થતી આપત્તિ-કવાયત (mock drill)માં શીખેલી રીતો પોતાના શબ્દોમાં લખવી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, item 6. The only item of this block whose answer is factual rather than inferential — check it against the school's own disaster-drill instructions before the class writes. The 'જોઈએ' in the answer is the printed prompt's own word, not an added exhortation.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX31",
+      "exercise_group": "ઉદાહરણ મુજબ વાક્યોને વિસ્તારો.",
+      "skill": "grammar",
+      "prompt_verbatim": "1. વરસાદ પડશે.",
+      "answer": "વરસાદ ગામમાં પડશે.\nવરસાદ અમારા ગામમાં પડશે.\nવરસાદ આજે સાંજે અમારા ગામમાં પડશે.",
+      "explanation": "ઉદાહરણમાં દરેક પગથિયે એક નવી માહિતી ઉમેરાય છે — પહેલાં ક્યાં, પછી કોના, પછી ક્યારે. મૂળ વાક્યનો કર્તા અને ક્રિયાપદ બદલાતાં નથી, માત્ર વાક્ય પહોળું થાય છે.",
+      "acceptable_alternatives": [
+        "વરસાદ ધીમે ધીમે પડશે. / વરસાદ કાલે ધીમે ધીમે પડશે. / વરસાદ કાલે સવારે અમારા ખેતરમાં ધીમે ધીમે પડશે."
+      ],
+      "values_filled_for_teaching": "વરસાદ ગામમાં પડશે. / વરસાદ અમારા ગામમાં પડશે. / વરસાદ આજે સાંજે અમારા ગામમાં પડશે.",
+      "teacher_note": "Printed block 8. The page prints three blank rule lines under each numbered sentence: the child writes three versions, each one wider than the last, following the printed શિક્ષક model (place, then whose, then when). Every filling below is one of many correct ones — mark the widening, not the words.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX32",
+      "exercise_group": "ઉદાહરણ મુજબ વાક્યોને વિસ્તારો.",
+      "skill": "grammar",
+      "prompt_verbatim": "2. રસ્તો સારો છે.",
+      "answer": "શાળાનો રસ્તો સારો છે.\nઅમારી શાળાનો રસ્તો સારો છે.\nઅમારી શાળાનો રસ્તો ચોમાસામાં પણ સારો છે.",
+      "explanation": "અહીં ઉમેરો કર્તાની આગળ થાય છે — 'રસ્તો' કયો રસ્તો છે તે પહેલાં નક્કી થાય, પછી ક્યારે સારો છે તે ઉમેરાય. વાક્યનો અર્થ દરેક પગથિયે વધારે ચોક્કસ બનતો જાય છે.",
+      "acceptable_alternatives": [
+        "ગામનો રસ્તો સારો છે. / અમારા ગામનો રસ્તો સારો છે. / અમારા ગામનો રસ્તો હમણાં જ સમારકામ પછી સારો છે."
+      ],
+      "values_filled_for_teaching": "શાળાનો રસ્તો સારો છે. / અમારી શાળાનો રસ્તો સારો છે. / અમારી શાળાનો રસ્તો ચોમાસામાં પણ સારો છે.",
+      "teacher_note": "Printed block 8. The page prints three blank rule lines under each numbered sentence: the child writes three versions, each one wider than the last, following the printed શિક્ષક model (place, then whose, then when). Every filling below is one of many correct ones — mark the widening, not the words.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX33",
+      "exercise_group": "ઉદાહરણ મુજબ વાક્યોને વિસ્તારો.",
+      "skill": "grammar",
+      "prompt_verbatim": "3. ભૂલ થઈ.",
+      "answer": "લખવામાં ભૂલ થઈ.\nમારાથી લખવામાં ભૂલ થઈ.\nમારાથી ગઈ કાલે લખવામાં એક નાની ભૂલ થઈ.",
+      "explanation": "બે શબ્દના વાક્યમાં પણ પ્રશ્ન પૂછતાં જવાં — શેમાં ભૂલ થઈ ? કોનાથી થઈ ? ક્યારે થઈ ? — એટલે વાક્ય જાતે જ વિસ્તરે છે.",
+      "acceptable_alternatives": [
+        "સરવાળામાં ભૂલ થઈ. / મારાથી સરવાળામાં ભૂલ થઈ. / મારાથી કસોટીમાં સરવાળામાં ભૂલ થઈ."
+      ],
+      "values_filled_for_teaching": "લખવામાં ભૂલ થઈ. / મારાથી લખવામાં ભૂલ થઈ. / મારાથી ગઈ કાલે લખવામાં એક નાની ભૂલ થઈ.",
+      "teacher_note": "Printed block 8. The page prints three blank rule lines under each numbered sentence: the child writes three versions, each one wider than the last, following the printed શિક્ષક model (place, then whose, then when). Every filling below is one of many correct ones — mark the widening, not the words.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX34",
+      "exercise_group": "ઉદાહરણ મુજબ વાક્યોને વિસ્તારો.",
+      "skill": "grammar",
+      "prompt_verbatim": "4. બાળકો ગાવા લાગ્યાં.",
+      "answer": "બાળકો ગીત ગાવા લાગ્યાં.\nબાળકો વર્ગમાં ગીત ગાવા લાગ્યાં.\nબાળકો સવારે વર્ગમાં તાળી પાડીને ગીત ગાવા લાગ્યાં.",
+      "explanation": "અહીં પહેલો ઉમેરો કર્મનો છે — શું ગાવા લાગ્યાં ? પછી જગ્યા, પછી સમય અને રીત. દરેક પગથિયે એક જ નવી વાત ઉમેરવી, બે નહીં.",
+      "acceptable_alternatives": [
+        "બાળકો પ્રાર્થના ગાવા લાગ્યાં. / બાળકો મેદાનમાં પ્રાર્થના ગાવા લાગ્યાં. / બાળકો સવારે મેદાનમાં હાથ જોડીને પ્રાર્થના ગાવા લાગ્યાં."
+      ],
+      "values_filled_for_teaching": "બાળકો ગીત ગાવા લાગ્યાં. / બાળકો વર્ગમાં ગીત ગાવા લાગ્યાં. / બાળકો સવારે વર્ગમાં તાળી પાડીને ગીત ગાવા લાગ્યાં.",
+      "teacher_note": "Printed block 8. The page prints three blank rule lines under each numbered sentence: the child writes three versions, each one wider than the last, following the printed શિક્ષક model (place, then whose, then when). Every filling below is one of many correct ones — mark the widening, not the words.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX35",
+      "exercise_group": "ઉદાહરણ મુજબ વાક્યોને વિસ્તારો.",
+      "skill": "grammar",
+      "prompt_verbatim": "5. હું રમ્યો.",
+      "answer": "હું મેદાનમાં રમ્યો.\nહું શાળાના મેદાનમાં રમ્યો.\nહું ગઈ કાલે સાંજે શાળાના મેદાનમાં રમ્યો.",
+      "explanation": "કર્તા 'હું' અને ક્રિયાપદ 'રમ્યો' છેક સુધી એમનાં એમ રહે છે; ફેર માત્ર ઉમેરાતી માહિતીનો છે. છોકરી લખે ત્યારે 'હું રમી' થાય, એ ધ્યાનમાં રાખવું.",
+      "acceptable_alternatives": [
+        "હું ખો-ખો રમ્યો. / હું મિત્રો સાથે ખો-ખો રમ્યો. / હું ગઈ કાલે રજાના દિવસે મિત્રો સાથે ખો-ખો રમ્યો."
+      ],
+      "values_filled_for_teaching": "હું મેદાનમાં રમ્યો. / હું શાળાના મેદાનમાં રમ્યો. / હું ગઈ કાલે સાંજે શાળાના મેદાનમાં રમ્યો.",
+      "teacher_note": "Printed block 8. The page prints three blank rule lines under each numbered sentence: the child writes three versions, each one wider than the last, following the printed શિક્ષક model (place, then whose, then when). Every filling below is one of many correct ones — mark the widening, not the words.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX36",
+      "exercise_group": "આપેલા ફકરામાં 'ગઈ કાલે'ની જગ્યાએ 'આવતી કાલે' મૂકો અને જરૂરી ફેરફાર કરીને ફકરો ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "9. આપેલા ફકરામાં 'ગઈ કાલે'ની જગ્યાએ 'આવતી કાલે' મૂકો અને જરૂરી ફેરફાર કરીને ફકરો ફરીથી લખો.\nગઈ કાલે બપોરે હું જમ્યો ન હતો. ગઈ કાલે મારે ઉપવાસ હતો. ગઈ કાલે રાત્રે અમે જમવા હોટેલમાં ગયા હતા. ગઈ કાલે હોટલથી અમે રિક્ષામાં ઘરે આવ્યા હતા.",
+      "answer": "આવતી કાલે બપોરે હું જમીશ નહીં. આવતી કાલે મારે ઉપવાસ હશે. આવતી કાલે રાત્રે અમે જમવા હોટેલમાં જઈશું. આવતી કાલે હોટલથી અમે રિક્ષામાં ઘરે આવીશું.",
+      "explanation": "'ગઈ કાલે' ભૂતકાળનો શબ્દ છે અને 'આવતી કાલે' ભવિષ્યકાળનો. એટલે માત્ર એ બે શબ્દ બદલવાથી કામ પતતું નથી — વાક્યનાં ક્રિયાપદો પણ ભૂતકાળમાંથી ભવિષ્યકાળમાં જવાં જોઈએ : 'જમ્યો ન હતો' → 'જમીશ નહીં', 'હતો' → 'હશે', 'ગયા હતા' → 'જઈશું', 'આવ્યા હતા' → 'આવીશું'. આ જ 'જરૂરી ફેરફાર' છે.",
+      "acceptable_alternatives": [
+        "આવતી કાલે બપોરે હું જમવાનો નથી. આવતી કાલે મારે ઉપવાસ રહેશે. આવતી કાલે રાત્રે અમે જમવા હોટેલમાં જવાના છીએ. આવતી કાલે હોટલથી અમે રિક્ષામાં ઘરે આવવાના છીએ."
+      ],
+      "values_filled_for_teaching": "સુધારેલો આખો ફકરો : આવતી કાલે બપોરે હું જમીશ નહીં. આવતી કાલે મારે ઉપવાસ હશે. આવતી કાલે રાત્રે અમે જમવા હોટેલમાં જઈશું. આવતી કાલે હોટલથી અમે રિક્ષામાં ઘરે આવીશું. — બદલાયેલાં ચાર ક્રિયાપદ : જમ્યો ન હતો → જમીશ નહીં, હતો → હશે, ગયા હતા → જઈશું, આવ્યા હતા → આવીશું.",
+      "teacher_note": "Printed block 9, one composite item (inventory records items: 1). The printed paragraph spells the same word two ways within four lines — 'હોટેલમાં' in the third sentence, 'હોટલથી' in the fourth (Agent 1 verified this at 7x on the render). It is printed so, and the answer keeps each as printed; do not mark a child wrong for copying either.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX37",
+      "exercise_group": "ઉદાહરણ પ્રમાણે અર્થ સ્પષ્ટ કરતું વાક્ય લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "1. અમદાવાદનો રસ્તો ક્યાં ટૂંકો છે !",
+      "answer": "અમદાવાદનો રસ્તો ઘણો લાંબો છે.",
+      "explanation": "'ક્યાં ટૂંકો છે !' એ પ્રશ્ન નથી, ના પાડવાની રીત છે — બોલનાર કહે છે કે રસ્તો ટૂંકો નથી જ. એટલે એનો સીધો અર્થ થાય : રસ્તો ઘણો લાંબો છે.",
+      "acceptable_alternatives": [
+        "અમદાવાદનો રસ્તો ટૂંકો નથી, બહુ લાંબો છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10. The printed model turns a rhetorical exclamation ('આ શું નાનું છે !') into a plain statement of what is actually meant ('આ ઘણું મોટું છે.'). The 'ક્યાં … છે !' frame is a denial, not a question — say that once before the class starts.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX38",
+      "exercise_group": "ઉદાહરણ પ્રમાણે અર્થ સ્પષ્ટ કરતું વાક્ય લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "2. બલવંત ક્યાં અભણ છે !",
+      "answer": "બલવંત ઘણો ભણેલો છે.",
+      "explanation": "'અભણ' એટલે ન ભણેલો. 'ક્યાં અભણ છે !' કહીને બોલનાર એ વાતની ના પાડે છે, એટલે સીધું વાક્ય થાય : બલવંત ભણેલો છે — અને 'ઘણો' ઉમેરવાથી ઉદાહરણ જેવો ભાર આવે છે.",
+      "acceptable_alternatives": [
+        "બલવંત અભણ નથી, સારો ભણેલો છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10. The printed model turns a rhetorical exclamation ('આ શું નાનું છે !') into a plain statement of what is actually meant ('આ ઘણું મોટું છે.'). The 'ક્યાં … છે !' frame is a denial, not a question — say that once before the class starts.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX39",
+      "exercise_group": "ઉદાહરણ પ્રમાણે અર્થ સ્પષ્ટ કરતું વાક્ય લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "3. કલ્પેશ ક્યાં ઓછું ઊંઘે છે !",
+      "answer": "કલ્પેશ ઘણું ઊંઘે છે.",
+      "explanation": "અહીં ના 'ઓછું'ની પડે છે. એટલે અર્થ ઊલટો થાય : કલ્પેશ ઓછું નહીં, ઘણું ઊંઘે છે.",
+      "acceptable_alternatives": [
+        "કલ્પેશ ઓછું નહીં, પૂરેપૂરું ઊંઘે છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10. The printed model turns a rhetorical exclamation ('આ શું નાનું છે !') into a plain statement of what is actually meant ('આ ઘણું મોટું છે.'). The 'ક્યાં … છે !' frame is a denial, not a question — say that once before the class starts.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX40",
+      "exercise_group": "ઉદાહરણ પ્રમાણે અર્થ સ્પષ્ટ કરતું વાક્ય લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "4. યોગેશ ક્યાં કુંવારો છે !",
+      "answer": "યોગેશ પરણેલો છે.",
+      "explanation": "'કુંવારો' એટલે જેનાં લગ્ન થયાં નથી તે. એની ના પડે એટલે અર્થ થાય : યોગેશનાં લગ્ન થઈ ગયાં છે, એ પરણેલો છે.",
+      "acceptable_alternatives": [
+        "યોગેશ કુંવારો નથી, એ પરણેલો છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10. The printed model turns a rhetorical exclamation ('આ શું નાનું છે !') into a plain statement of what is actually meant ('આ ઘણું મોટું છે.'). The 'ક્યાં … છે !' frame is a denial, not a question — say that once before the class starts.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX41",
+      "exercise_group": "ઉદાહરણ પ્રમાણે અર્થ સ્પષ્ટ કરતું વાક્ય લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "5. ભરત ક્યાં તોફ઼ાની છે !",
+      "answer": "ભરત ઘણો શાંત છે.",
+      "explanation": "'તોફાની' એટલે તોફાન કરનારો. એની ના પડે એટલે એનાથી ઊલટો ગુણ કહેવાય : ભરત શાંત — ડાહ્યો — છોકરો છે.",
+      "acceptable_alternatives": [
+        "ભરત તોફાની નથી, બહુ ડાહ્યો છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10. The printed model turns a rhetorical exclamation ('આ શું નાનું છે !') into a plain statement of what is actually meant ('આ ઘણું મોટું છે.'). The 'ક્યાં … છે !' frame is a denial, not a question — say that once before the class starts. Item 5 prints તોફ઼ાની with a nukta under the ફ (ફ + U+0ABC) — the only nukta in the chapter, verified at 18x. prompt_verbatim keeps it exactly as printed; the child writes તોફાની without it, and that is not an error.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX42",
+      "exercise_group": "વાક્યો વાંચો અને ભૂલ સુધારીને ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "1. વાઘ આવી અને બકરી ચાલ્યો ગયો.",
+      "answer": "વાઘ આવ્યો અને બકરી ચાલી ગઈ.",
+      "explanation": "'વાઘ' પુંલ્લિંગ છે અને 'બકરી' સ્ત્રીલિંગ, પણ છપાયેલા વાક્યમાં બંનેનાં ક્રિયાપદ અદલાબદલ થઈ ગયાં છે. વાઘ સાથે 'આવ્યો' અને બકરી સાથે 'ચાલી ગઈ' આવે ત્યારે વાક્ય સાચું બને છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11, item 1. The wrong forms are deliberate — this is an error-correction drill, not a transcription defect (Agent 1's extraction note). Read the printed sentence aloud first; the ear catches the clash before the eye does.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX43",
+      "exercise_group": "વાક્યો વાંચો અને ભૂલ સુધારીને ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "2. પંખો ફરી એટલે હવા આવ્યો.",
+      "answer": "પંખો ફર્યો એટલે હવા આવી.",
+      "explanation": "'પંખો' પુંલ્લિંગ છે એટલે 'ફર્યો', અને 'હવા' સ્ત્રીલિંગ છે એટલે 'આવી'. છપાયેલા વાક્યમાં બંને ઊંધાં મુકાયાં છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11, item 2. Same gender-agreement pattern as item 1.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX44",
+      "exercise_group": "વાક્યો વાંચો અને ભૂલ સુધારીને ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "3. થાંભલાનો પાછળ એક માણસ દેખાઈ.",
+      "answer": "થાંભલાની પાછળ એક માણસ દેખાયો.",
+      "explanation": "બે ભૂલ છે. 'પાછળ'ની આગળ 'નો' નહીં પણ 'ની' આવે — 'થાંભલાની પાછળ'. અને 'માણસ' પુંલ્લિંગ છે એટલે ક્રિયાપદ 'દેખાયો' થાય, 'દેખાઈ' નહીં.",
+      "acceptable_alternatives": [
+        "થાંભલા પાછળ એક માણસ દેખાયો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11, item 3. Two repairs in one sentence — the postposition and the verb. Ask children to underline both before rewriting.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX45",
+      "exercise_group": "વાક્યો વાંચો અને ભૂલ સુધારીને ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "4. હરેશ ગઈ કાલે અમદાવાદ જશે અને આવતી કાલે પાછો આવ્યો હતો.",
+      "answer": "હરેશ ગઈ કાલે અમદાવાદ ગયો હતો અને આવતી કાલે પાછો આવશે.",
+      "explanation": "અહીં ભૂલ કાળની છે. 'ગઈ કાલે' ભૂતકાળ માગે છે અને 'આવતી કાલે' ભવિષ્યકાળ, પણ છપાયેલા વાક્યમાં બંને ઊંધાં ગોઠવાયાં છે. ક્રિયાપદ ફેરવીએ એટલે વાક્ય સીધું થઈ જાય છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11, item 4. Same tense logic the class just used in printed block 9 — point back to it.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX46",
+      "exercise_group": "વાક્યો વાંચો અને ભૂલ સુધારીને ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "5. હિંમતથી દરિયામાં વહાણ ઝુકાવ્યો અને સામે કિનારે પહોંચી ગઈ.",
+      "answer": "હિંમતથી દરિયામાં વહાણ ઝુકાવ્યું અને સામે કિનારે પહોંચી ગયું.",
+      "explanation": "'વહાણ' નપુંસકલિંગ છે, એટલે એની સાથે 'ઝુકાવ્યું' અને 'પહોંચી ગયું' આવે. આ વાક્યના શબ્દો ગીતની બીજી અને ત્રીજી કડીના જ છે — 'સાગર મોઝારે ઝુકાવીએ', 'આપણા વહાણનાં સઢ ને સુકાન', 'કોણ લઈ જાય સામે પાર'.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11, item 5. The only item of this block built from the poem's own words — worth reading the second કડી aloud beside it.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T3",
+        "M2.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX47",
+      "exercise_group": "નીચેનાં વાક્યોને તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "1. દરિયો વિશાળ હોય છે.",
+      "answer": "The sea is vast.",
+      "explanation": "'દરિયો' એટલે સાગર, અને 'વિશાળ' એટલે ઘણો મોટો, પહોળો. ગુજરાતીનું 'હોય છે' સામાન્ય સત્ય બતાવે છે, એટલે અંગ્રેજીમાં પણ સાદો વર્તમાનકાળ વપરાય છે.",
+      "acceptable_alternatives": [
+        "The ocean is very vast.",
+        "समुद्र बहुत विशाल होता है."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 12, translation into the child's પ્રથમ ભાષા. This plan's medium of instruction is English (chapter_id gseb_eng_gujarati7_ch5, itself PROVISIONAL per 01_meta.json), so the model answer is in English — non-Gujarati script inside `answer` is expected and correct for this block alone, and is not a script defect. A school whose children's first language is Hindi, Marathi, Sindhi or another language substitutes that language — one Hindi rendering is therefore carried in acceptable_alternatives for each item, so the Devanagari script inside this block's `answer` and `acceptable_alternatives` is intended and is not a script defect.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX48",
+      "exercise_group": "નીચેનાં વાક્યોને તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "2. હું મારામાં જ વિશ્વાસ રાખું છું.",
+      "answer": "I trust myself.",
+      "explanation": "'મારામાં જ' માંનો 'જ' ભાર મૂકે છે — બીજા કોઈમાં નહીં, પોતાનામાં. અંગ્રેજીમાં એ ભાર 'myself' કે 'in myself' થી આવે છે. આ વાક્ય ગીતના 'આપણે ભરોસે આપણે હાલીએ' ભાવનું જ નાનું રૂપ છે.",
+      "acceptable_alternatives": [
+        "I have faith in myself.",
+        "I believe in myself alone.",
+        "मैं अपने आप पर ही विश्वास रखता हूँ."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 12, translation into the child's પ્રથમ ભાષા. This plan's medium of instruction is English (chapter_id gseb_eng_gujarati7_ch5, itself PROVISIONAL per 01_meta.json), so the model answer is in English — non-Gujarati script inside `answer` is expected and correct for this block alone, and is not a script defect. A school whose children's first language is Hindi, Marathi, Sindhi or another language substitutes that language — one Hindi rendering is therefore carried in acceptable_alternatives for each item, so the Devanagari script inside this block's `answer` and `acceptable_alternatives` is intended and is not a script defect.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX49",
+      "exercise_group": "નીચેનાં વાક્યોને તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "3. મને દરિયો જોવો ખૂબ જ ગમે છે.",
+      "answer": "I like watching the sea very much.",
+      "explanation": "ગુજરાતીમાં 'મને … ગમે છે' રચનામાં કર્તા 'મને' છે; અંગ્રેજીમાં એ 'I' બનીને વાક્યની આગળ આવે છે. 'ખૂબ જ' માટે 'very much' કે 'a lot' આવે.",
+      "acceptable_alternatives": [
+        "I love looking at the sea.",
+        "मुझे समुद्र देखना बहुत अच्छा लगता है."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 12, translation into the child's પ્રથમ ભાષા. This plan's medium of instruction is English (chapter_id gseb_eng_gujarati7_ch5, itself PROVISIONAL per 01_meta.json), so the model answer is in English — non-Gujarati script inside `answer` is expected and correct for this block alone, and is not a script defect. A school whose children's first language is Hindi, Marathi, Sindhi or another language substitutes that language — one Hindi rendering is therefore carried in acceptable_alternatives for each item, so the Devanagari script inside this block's `answer` and `acceptable_alternatives` is intended and is not a script defect.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX50",
+      "exercise_group": "નીચેનાં વાક્યોને તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "4. આપણે જ આપણી તાકાત છીએ.",
+      "answer": "We ourselves are our own strength.",
+      "explanation": "આ વાક્ય ગીતની છેલ્લી પંક્તિ 'આપણે જ આપણે છઈએ'નું સીધું સાદું રૂપ છે. 'આપણે જ' માંનો ભાર અંગ્રેજીમાં 'ourselves' કે 'our own' થી સચવાય છે.",
+      "acceptable_alternatives": [
+        "We are our own strength.",
+        "हम ही हमारी ताकत हैं."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 12, translation into the child's પ્રથમ ભાષા. This plan's medium of instruction is English (chapter_id gseb_eng_gujarati7_ch5, itself PROVISIONAL per 01_meta.json), so the model answer is in English — non-Gujarati script inside `answer` is expected and correct for this block alone, and is not a script defect. A school whose children's first language is Hindi, Marathi, Sindhi or another language substitutes that language — one Hindi rendering is therefore carried in acceptable_alternatives for each item, so the Devanagari script inside this block's `answer` and `acceptable_alternatives` is intended and is not a script defect.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX51",
+      "exercise_group": "નીચેનાં વાક્યોને તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "5. મને વાંચવા કરતાં ફરવાનું બહુ ગમે છે.",
+      "answer": "I like going out much more than reading.",
+      "explanation": "'કરતાં' સરખામણી બતાવે છે, એટલે અંગ્રેજીમાં 'more than' આવે. 'ફરવાનું' એટલે બહાર હરવા-ફરવા જવું — 'going out' કે 'roaming about'.",
+      "acceptable_alternatives": [
+        "I enjoy going around much more than reading.",
+        "मुझे पढ़ने से ज़्यादा घूमना अच्छा लगता है."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 12, translation into the child's પ્રથમ ભાષા. This plan's medium of instruction is English (chapter_id gseb_eng_gujarati7_ch5, itself PROVISIONAL per 01_meta.json), so the model answer is in English — non-Gujarati script inside `answer` is expected and correct for this block alone, and is not a script defect. A school whose children's first language is Hindi, Marathi, Sindhi or another language substitutes that language — one Hindi rendering is therefore carried in acceptable_alternatives for each item, so the Devanagari script inside this block's `answer` and `acceptable_alternatives` is intended and is not a script defect.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX52",
+      "exercise_group": "આપેલ વિષય પર સાત-આઠ વાક્ય લખો.",
+      "skill": "writing",
+      "prompt_verbatim": "13. આપેલ વિષય પર સાત-આઠ વાક્ય લખો.\n● 'જાત મહેનત જિંદાબાદ'",
+      "answer": "(એક શક્ય લેખન) 'જાત મહેનત જિંદાબાદ' એટલે પોતાના હાથે કરેલી મહેનતનો જયજયકાર. જે કામ આપણે જાતે કરીએ છીએ તેમાં જે મજા આવે છે, તે બીજા પાસે કરાવેલા કામમાં કદી આવતી નથી. રોજ સવારે પોતાનું દફતર જાતે ભરવું, પોતાની પથારી જાતે સંકેલવી, પોતાનાં કપડાં ગડી કરીને મૂકવાં — આવી નાની નાની જાત મહેનતથી જ મોટી મહેનતની ટેવ બંધાય છે. જાતે કરેલા કામમાં ભૂલ પડે તોય એ ભૂલ કંઈક શીખવી જાય છે. મહેનત કરનારના હાથમાં કામ હોય છે, એટલે એને પોતાના પર ભરોસો બેસે છે. 'આપણે ભરોસે' ગીતમાં કવિ પ્રહ્લાદ પારેખ પણ કહે છે : 'એક મહેનતના હાથને ઝાલીએ.' ખેતરમાં ઊભો પાક, ઘરનું ચણાયેલું ધાબું કે વર્ગમાં ટીંગાડેલો ચાર્ટ — એ બધું કોઈકના મહેનતના હાથનું ફળ છે. એટલે જ કહેવાય છે : જાત મહેનત જિંદાબાદ !",
+      "explanation": "વિષય પાઠમાંથી જ નીકળે છે, એટલે લખાણમાં ગીતની એકાદ પંક્તિ આવે તો સારું. સાત-આઠ વાક્યની ગોઠવણી સહેલી છે : પહેલાં નારાનો અર્થ, પછી પોતાના જીવનના બે-ત્રણ દાખલા, પછી પાઠનો આધાર, અને છેલ્લે એક વાક્યમાં સમાપન.",
+      "acceptable_alternatives": [
+        "ઘરકામ, ખેતીકામ કે શાળાના કામનો પોતાનો દાખલો લઈને લખાયેલું કોઈ પણ સાત-આઠ વાક્યનું લખાણ ચાલે."
+      ],
+      "values_filled_for_teaching": "લખાણનું માળખું : (1) 'જાત મહેનત જિંદાબાદ'નો અર્થ; (2) જાતે કરેલા કામની મજા; (3) રોજિંદાં ત્રણ નાનાં કામ; (4) ભૂલમાંથી શીખવાની વાત; (5) મહેનતથી બંધાતો પોતાનો ભરોસો; (6) ગીતની પંક્તિ 'એક મહેનતના હાથને ઝાલીએ'; (7) આસપાસ દેખાતું મહેનતનું ફળ; (8) સમાપન.",
+      "teacher_note": "Printed block 13, the chapter's last block — one bulleted topic, no sub-items. Model answer: the child's own examples must replace these. Keep it a piece of writing, not a slogan sheet — the paragraph earns the phrase through pictures, the way the poem does. Do not attach any government campaign or slogan to it (07_pitfalls.json, political-framing check on the closing કડી).",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M2.S2.T3",
+        "M2.S2.T4"
+      ]
+    }
+  ],
+  "coverage_report": {
+    "blocks_found": [
+      "વાતચીત",
+      "આપેલા અર્થ મુજબની પંક્તિ કાવ્યમાંથી શોધીને લખો.",
+      "પ્રશ્નોના જવાબ લખો.",
+      "કયો વિકલ્પ આપેલી કાવ્યપંક્તિના અર્થની નજીક છે ?",
+      "કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરીને વાક્યમાં જરૂર હોય ત્યાં ફેરફાર કરી ફરીથી લખો.",
+      "શબ્દસાંકળ બનાવો.",
+      "આપેલા ચિત્રને આધારે પ્રશ્નોના જવાબ લખો.",
+      "ઉદાહરણ મુજબ વાક્યોને વિસ્તારો.",
+      "આપેલા ફકરામાં 'ગઈ કાલે'ની જગ્યાએ 'આવતી કાલે' મૂકો અને જરૂરી ફેરફાર કરીને ફકરો ફરીથી લખો.",
+      "ઉદાહરણ પ્રમાણે અર્થ સ્પષ્ટ કરતું વાક્ય લખો.",
+      "વાક્યો વાંચો અને ભૂલ સુધારીને ફરીથી લખો.",
+      "નીચેનાં વાક્યોને તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "આપેલ વિષય પર સાત-આઠ વાક્ય લખો."
+    ],
+    "blocks_answered": [
+      "વાતચીત",
+      "આપેલા અર્થ મુજબની પંક્તિ કાવ્યમાંથી શોધીને લખો.",
+      "પ્રશ્નોના જવાબ લખો.",
+      "કયો વિકલ્પ આપેલી કાવ્યપંક્તિના અર્થની નજીક છે ?",
+      "કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરીને વાક્યમાં જરૂર હોય ત્યાં ફેરફાર કરી ફરીથી લખો.",
+      "શબ્દસાંકળ બનાવો.",
+      "આપેલા ચિત્રને આધારે પ્રશ્નોના જવાબ લખો.",
+      "ઉદાહરણ મુજબ વાક્યોને વિસ્તારો.",
+      "આપેલા ફકરામાં 'ગઈ કાલે'ની જગ્યાએ 'આવતી કાલે' મૂકો અને જરૂરી ફેરફાર કરીને ફકરો ફરીથી લખો.",
+      "ઉદાહરણ પ્રમાણે અર્થ સ્પષ્ટ કરતું વાક્ય લખો.",
+      "વાક્યો વાંચો અને ભૂલ સુધારીને ફરીથી લખો.",
+      "નીચેનાં વાક્યોને તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "આપેલ વિષય પર સાત-આઠ વાક્ય લખો."
+    ],
+    "unanswered": [],
+    "unmapped": [
+      {
+        "exercise_id": "EX25",
+        "exercise_group": "આપેલા ચિત્રને આધારે પ્રશ્નોના જવાબ લખો.",
+        "prompt_verbatim": "1. આ ચિત્ર શાનું છે ?",
+        "reason": "The block is built on a printed photograph of collapsed buildings and rubble, not on the poem; no કડી of 'આપણે ભરોસે' prepares a description of that image. Nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX26",
+        "exercise_group": "આપેલા ચિત્રને આધારે પ્રશ્નોના જવાબ લખો.",
+        "prompt_verbatim": "2. ચિત્રમાં દેખાય છે એ પરિસ્થિતિ કેમ થઈ હશે ?",
+        "reason": "Picture-inference item about a natural disaster in the printed photograph; the poem's સાગર is a figurative picture of life, not a disaster, and no reading scene prepares this. Nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX27",
+        "exercise_group": "આપેલા ચિત્રને આધારે પ્રશ્નોના જવાબ લખો.",
+        "prompt_verbatim": "3. પડી ગયેલા મકાનના સભ્યો અત્યારે ક્યાં રહેતા હશે ?",
+        "reason": "Picture-inference item about where a displaced family lives; no reading scene of this poem prepares it. Nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX28",
+        "exercise_group": "આપેલા ચિત્રને આધારે પ્રશ્નોના જવાબ લખો.",
+        "prompt_verbatim": "4. ઘર પડી જવાથી રોજિંદાં કાર્યમાં શા ફેરફાર થયા હશે ?",
+        "reason": "Picture-inference item about daily routines after a house collapses; no reading scene of this poem prepares it. Nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX29",
+        "exercise_group": "આપેલા ચિત્રને આધારે પ્રશ્નોના જવાબ લખો.",
+        "prompt_verbatim": "5. દોડીને નીકળી જવું પડે એવી કઈ કઈ આફતો છે ?",
+        "reason": "General-knowledge listing of emergencies attached to the printed photograph; no reading scene prepares it. Nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX30",
+        "exercise_group": "આપેલા ચિત્રને આધારે પ્રશ્નોના જવાબ લખો.",
+        "prompt_verbatim": "6. કુદરતી આફત આવે ત્યારે તેનાથી બચવા શું કરવું જોઈએ ?",
+        "reason": "Disaster-safety item attached to the printed photograph; its answer is factual safety information from outside the chapter. No reading scene prepares it, and none was missed by the cut."
+      },
+      {
+        "exercise_id": "EX31",
+        "exercise_group": "ઉદાહરણ મુજબ વાક્યોને વિસ્તારો.",
+        "prompt_verbatim": "1. વરસાદ પડશે.",
+        "reason": "વાક્યવિસ્તાર drill sentence (વરસાદ પડશે) printed only inside the exercise; it shares no word or picture with any કડી. Nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX32",
+        "exercise_group": "ઉદાહરણ મુજબ વાક્યોને વિસ્તારો.",
+        "prompt_verbatim": "2. રસ્તો સારો છે.",
+        "reason": "વાક્યવિસ્તાર drill sentence (રસ્તો સારો છે) printed only inside the exercise; no reading scene prepares it."
+      },
+      {
+        "exercise_id": "EX33",
+        "exercise_group": "ઉદાહરણ મુજબ વાક્યોને વિસ્તારો.",
+        "prompt_verbatim": "3. ભૂલ થઈ.",
+        "reason": "વાક્યવિસ્તાર drill sentence (ભૂલ થઈ) printed only inside the exercise; no reading scene prepares it."
+      },
+      {
+        "exercise_id": "EX34",
+        "exercise_group": "ઉદાહરણ મુજબ વાક્યોને વિસ્તારો.",
+        "prompt_verbatim": "4. બાળકો ગાવા લાગ્યાં.",
+        "reason": "વાક્યવિસ્તાર drill sentence (બાળકો ગાવા લાગ્યાં) printed only inside the exercise; the poem's 'ગાઈ ગાઈને' is a different picture and does not prepare this drill."
+      },
+      {
+        "exercise_id": "EX35",
+        "exercise_group": "ઉદાહરણ મુજબ વાક્યોને વિસ્તારો.",
+        "prompt_verbatim": "5. હું રમ્યો.",
+        "reason": "વાક્યવિસ્તાર drill sentence (હું રમ્યો) printed only inside the exercise; no reading scene prepares it."
+      },
+      {
+        "exercise_id": "EX36",
+        "exercise_group": "આપેલા ફકરામાં 'ગઈ કાલે'ની જગ્યાએ 'આવતી કાલે' મૂકો અને જરૂરી ફેરફાર કરીને ફકરો ફરીથી લખો.",
+        "prompt_verbatim": "9. આપેલા ફકરામાં 'ગઈ કાલે'ની જગ્યાએ 'આવતી કાલે' મૂકો અને જરૂરી ફેરફાર કરીને ફકરો ફરીથી લખો.\nગઈ કાલે બપોરે હું જમ્યો ન હતો. ગઈ કાલે મારે ઉપવાસ હતો. ગઈ કાલે રાત્રે અમે જમવા હોટેલમાં ગયા હતા. ગઈ કાલે હોટલથી અમે રિક્ષામાં ઘરે આવ્યા હતા.",
+        "reason": "કાળ-ફેરફાર paragraph (ઉપવાસ, હોટેલ, રિક્ષા) printed only inside the exercise; it has no connection to the poem's lines. Nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX37",
+        "exercise_group": "ઉદાહરણ પ્રમાણે અર્થ સ્પષ્ટ કરતું વાક્ય લખો.",
+        "prompt_verbatim": "1. અમદાવાદનો રસ્તો ક્યાં ટૂંકો છે !",
+        "reason": "'ક્યાં … છે !' rhetorical-denial drill on a sentence printed only inside the exercise (અમદાવાદનો રસ્તો); no reading scene prepares it."
+      },
+      {
+        "exercise_id": "EX38",
+        "exercise_group": "ઉદાહરણ પ્રમાણે અર્થ સ્પષ્ટ કરતું વાક્ય લખો.",
+        "prompt_verbatim": "2. બલવંત ક્યાં અભણ છે !",
+        "reason": "Rhetorical-denial drill sentence (બલવંત ક્યાં અભણ છે !) printed only inside the exercise; no reading scene prepares it."
+      },
+      {
+        "exercise_id": "EX39",
+        "exercise_group": "ઉદાહરણ પ્રમાણે અર્થ સ્પષ્ટ કરતું વાક્ય લખો.",
+        "prompt_verbatim": "3. કલ્પેશ ક્યાં ઓછું ઊંઘે છે !",
+        "reason": "Rhetorical-denial drill sentence (કલ્પેશ ક્યાં ઓછું ઊંઘે છે !) printed only inside the exercise; no reading scene prepares it."
+      },
+      {
+        "exercise_id": "EX40",
+        "exercise_group": "ઉદાહરણ પ્રમાણે અર્થ સ્પષ્ટ કરતું વાક્ય લખો.",
+        "prompt_verbatim": "4. યોગેશ ક્યાં કુંવારો છે !",
+        "reason": "Rhetorical-denial drill sentence (યોગેશ ક્યાં કુંવારો છે !) printed only inside the exercise; no reading scene prepares it."
+      },
+      {
+        "exercise_id": "EX41",
+        "exercise_group": "ઉદાહરણ પ્રમાણે અર્થ સ્પષ્ટ કરતું વાક્ય લખો.",
+        "prompt_verbatim": "5. ભરત ક્યાં તોફ઼ાની છે !",
+        "reason": "Rhetorical-denial drill sentence (ભરત ક્યાં તોફ઼ાની છે !) printed only inside the exercise; no reading scene prepares it."
+      },
+      {
+        "exercise_id": "EX42",
+        "exercise_group": "વાક્યો વાંચો અને ભૂલ સુધારીને ફરીથી લખો.",
+        "prompt_verbatim": "1. વાઘ આવી અને બકરી ચાલ્યો ગયો.",
+        "reason": "Gender-agreement repair sentence (વાઘ / બકરી) printed only inside the exercise; no reading scene prepares it."
+      },
+      {
+        "exercise_id": "EX43",
+        "exercise_group": "વાક્યો વાંચો અને ભૂલ સુધારીને ફરીથી લખો.",
+        "prompt_verbatim": "2. પંખો ફરી એટલે હવા આવ્યો.",
+        "reason": "Gender-agreement repair sentence (પંખો / હવા) printed only inside the exercise; no reading scene prepares it."
+      },
+      {
+        "exercise_id": "EX44",
+        "exercise_group": "વાક્યો વાંચો અને ભૂલ સુધારીને ફરીથી લખો.",
+        "prompt_verbatim": "3. થાંભલાનો પાછળ એક માણસ દેખાઈ.",
+        "reason": "Postposition and agreement repair sentence (થાંભલાની પાછળ) printed only inside the exercise; no reading scene prepares it."
+      },
+      {
+        "exercise_id": "EX45",
+        "exercise_group": "વાક્યો વાંચો અને ભૂલ સુધારીને ફરીથી લખો.",
+        "prompt_verbatim": "4. હરેશ ગઈ કાલે અમદાવાદ જશે અને આવતી કાલે પાછો આવ્યો હતો.",
+        "reason": "Tense-clash repair sentence (હરેશ / અમદાવાદ) printed only inside the exercise; no reading scene prepares it."
+      },
+      {
+        "exercise_id": "EX51",
+        "exercise_group": "નીચેનાં વાક્યોને તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+        "prompt_verbatim": "5. મને વાંચવા કરતાં ફરવાનું બહુ ગમે છે.",
+        "reason": "Translation drill sentence (વાંચવા કરતાં ફરવાનું ગમે છે) printed only inside the exercise; unlike the block's other four sentences it carries none of the poem's words. Nothing was missed by the cut."
+      }
+    ],
+    "_note": "blocks_found lists every verbatim_heading in 01_meta.json's exercise_inventory, in printed order, entry for entry (thirteen blocks, fifty-seven printed items, answered as fifty-two entries — the three composite blocks are answered whole with all their printed slots filled). unmapped holds the items no reading scene of THIS poem prepares: the six-item photograph block (printed block 7, built on a printed photo of collapsed buildings, not on the poem), the four pure-grammar drill blocks whose practice sentences are printed only inside the exercise (blocks 8, 9, 10 and items 1-4 of block 11), and one translation sentence (block 12, item 5). In every case the cut missed nothing: the poem has four reading scenes and these items carry none of its words. No mapping was invented for them."
+  }
+}

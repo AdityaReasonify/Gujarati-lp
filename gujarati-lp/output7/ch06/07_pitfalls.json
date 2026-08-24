@@ -1,0 +1,193 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Profile gate 9 (supplementing from general knowledge), bound to this topic's own numbers: no sentence of `explanation`, `summary`, `detailed_summary`, `important_points`, any `concept_bullets` line or any `recall_questions[].answer` states a price, weight or quantity for this scene other than the ones printed in this topic's `original_chunk` — ‘રૂપિયે કિલો’, ‘બસો ગ્રામ’, ‘સત્તર કિલો’, ‘બેચાર કિલો’. No field converts ‘રૂપિયે કિલો’ into a present-day rupee figure, remarks that jamun cost more today, or names a season, a place or a variety of જાંબુ that the page does not print.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 7 (correcting the spoken register), bound to this topic's printed forms: ‘સાવ સસ્તાં જાં...બુ!’, ‘કાંક ભાવ ઉતાર’, ‘બહુ મોંઘાં ભઈ !’, ‘દેને !’, ‘સામટાં’, ‘ઝાપટી ગયા’ and ‘રાડ પડાઈ ગઈ’ appear unmodified wherever any field quotes them, and no field contains a ‘સાચું રૂપ’ correction of them (ભઈ → ભાઈ, કાંક → કંઈક, દેને → આપને, ઝાપટી ગયા → ખાઈ ગયા as a repair rather than a gloss). Glosses live in `key_terms` in ‘શબ્દ — અર્થ’ form with the printed form as the headword.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 1 (flattening the voice into information), read through this chapter's third-person caveat: the first sentence of `explanation` has અમથાલાલ or જાંબુવાળી as its grammatical subject. An opening that presents the scene as unattributed general fact — ‘બજારમાં ભાવતાલ થતો હોય છે.’ — fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "The teacher-addressed blue પ્રવેશપેટી is not this topic's text: no field of M1.S1.T1 quotes, paraphrases or answers from ‘અહીં અમથાલાલની ભાવના અને ઇચ્છા હોવા છતાં એનું કેવું અણધાર્યું પરિણામ આવે છે તે વાંચવું ગમશે.’ as though it were the chapter's own narration, and no field describes this scene as ‘અણધાર્યું પરિણામ’ on the box's authority.",
+          "profile": "nibandh_atmaparak",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક ‘ભાવ પૂછ્યો’ અને ‘કાંક ભાવ ઉતાર’ માંના ‘ભાવ’ ને લાગણી-સ્નેહવાળો ‘ભાવ’ સમજી લે છે — અને એ જ પાઠની શબ્દાર્થ પેટીમાં ‘હેત’ નો અર્થ ‘ભાવ, સ્નેહ’ છપાયો હોવાથી ગૂંચ પાક્કી થાય છે. પછી અમથાલાલ અને જાંબુવાળી વચ્ચે કિંમતની જે રકઝક ચાલે છે એ આખું દૃશ્ય જ હાથમાંથી જતું રહે છે.",
+      "correction": "`explanation` ના પહેલા વાક્યમાં જ ‘ભાવ — કિંમત’ એમ ગ્લોસ કરો, અને ત્યાં જ ‘ભાવ ઉતાર’ એટલે ‘કિંમત ઓછી કર’ એમ બતાવો. છાપેલા ‘રૂપિયે કિલો’ અને ‘બસો ગ્રામ’ પકડીને સ્પષ્ટ કરો કે વાત ખરીદીના ભાવ ઠરાવવાની છે. `key_terms` માં છાપેલું રૂપ જ headword રાખીને એ જ ગ્લોસ રહે, અને `real_life_example` માં ‘ભાવ’ શબ્દ કિંમતના અર્થમાં એક વાર ફરી વપરાય."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "Profile gate 3 (a tacked-on બોધ or ઉપદેશ), bound to this topic's own hook: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` closes on a sentence that turns ‘અમથાલાલ એટલે એક નંબરના આળસુ !’ or ‘એમના પગે આળસ કરી’ into a rule — no ‘આપણે આળસ ન કરવી જોઈએ’, ‘આળસ ખરાબ છે’, ‘આ પાઠ આપણને શીખવે છે…’. The printed line is a description of one man, not a lesson.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 9 (supplementing from general knowledge), bound to this topic's one measure: ‘અડધો માઈલ’ is quoted as printed, and the only distance conversion any field may use is the one the chapter's own શબ્દાર્થ box prints — ‘માઈલ — આશરે પોણા બે કિલોમીટરનું અંતર’. No field states how far ટપુ's house is in metres, how long the walk takes, which town or શહેર this is, or ટપુ's age or class.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 7 (correcting the spoken register), bound to this topic's printed forms: ‘રાજીના રેડ’, ‘છેટે’, ‘વારેતહેવારે’, ‘કાંક ને કાંક’, ‘ટપુડો’ / ‘ટપુડા’ and ‘જાંબુડાં’ appear unmodified wherever quoted, and no field contains a ‘સાચું રૂપ’ correction (છેટે → દૂર, ટપુડો → ટપુ) or silently swaps the affectionate ‘ટપુડો’ for ‘ટપુ’ inside a quotation.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "‘ટપુને અમથાલાલ પર હેત’ માંના ‘હેત’ ને બાળક હિન્દીના ‘હેતુ’ (કારણ, પ્રયોજન) જેવા શબ્દ સાથે ભેળવી દે છે, ને વાંચે છે કે ટપુને મામા પાસે કંઈક કામ કે સ્વાર્થ છે. મામા-ભાણેજ વચ્ચેનું જે વહાલ પરથી આખી થેલી ભરાય છે તે જ પછી ઊડી જાય છે.",
+      "correction": "‘હેત — પ્રેમ, વહાલ’ એમ `explanation` માં જ્યાં શબ્દ પહેલી વાર આવે ત્યાં જ ગ્લોસ કરો (પાઠની પોતાની શબ્દાર્થ પેટી પણ ‘હેત — ભાવ, સ્નેહ’ છાપે છે) અને `key_terms` માં એ જ છાપેલું રૂપ headword તરીકે રાખો. પછી ‘વારેતહેવારે અમથામામા ટપુભાણિયા માટે કાંક ને કાંક મોકલે’ એ છાપેલી પંક્તિ બતાવીને દેખાડો કે હેત ક્યાં દેખાય છે — મોકલવામાં."
+    },
+    {
+      "topic_id": "M2.S3.T3",
+      "avoid_checks": [
+        {
+          "check": "Profile gate 11 (cutting a comic turn from its setup), re-checked at the content layer: this topic's `explanation` names BOTH printed halves of મગનનો વારો — the eating (‘મગને થેલીમાંથી બે જાંબુ કાઢી લીધાં’ and ‘બીજાં બે ક્યારે થેલીમાંથી નીકળીને મોંમાં ઓગળી ગયાં, એનું એને ભાન ન રહ્યું’) AND the substitution (‘વજન સરખું કરવા પેલાં ખાધેલાં જાંબુના ચાર ઠળિયા તેણે થેલીમાં નાખી દીધા’). An explanation that carries only one half fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 2 (converting the essay into a story with a moral): no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` asks or answers why મગન acted as he did in words other than the reason the page itself prints — ‘આટલાં એક કિલો જેટલાં જાંબુમાં ચાર ઠળિયા શું દેખાવાના ?’ and ‘અમથાલાલે એક કિલો જાંબુ લીધાં છે અને હવે વજનમાં ઓછાં થશે તો ખરાબ કહેવાય !’. Supplied motives (‘મગન ભૂખ્યો હતો’, ‘મગન ગરીબ હતો’, ‘મગન લોભી સ્વભાવનો હતો’) and any word that judges him as a પાત્ર (ચોર, લુચ્ચો, ખરાબ) fail.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 4 (explaining the joke, or apologising for it): at most one sentence of this topic's `explanation` talks about the humour of the four ઠળિયા, and no field contains ‘આ વાક્ય રમૂજી છે કારણ કે’, ‘અહીં લેખક મજાક કરે છે’, ‘હસવું આવે એવું છે’, ‘(મજાક)’, ‘ખરેખર તો આવું ન કરાય’, or a plain restatement of ‘હોવ્વે! એમાં શું ? લાવોને !’.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 7 (correcting the spoken register), bound to this topic's printed forms: ‘હોવ્વે!’, ‘મગનની લૂલી જરા લબક લબક થવા લાગી’, ‘આથમણે’, ‘માંડ્યો ચાલવા’ and ‘કામકાજ’ appear unmodified wherever quoted, and no field contains a ‘સાચું રૂપ’ correction (હોવ્વે! → હા, લૂલી → જીભ as a repair rather than a gloss, આથમણે → પશ્ચિમમાં inside a quotation).",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "‘વજન સરખું કરવા પેલાં ખાધેલાં જાંબુના ચાર ઠળિયા તેણે થેલીમાં નાખી દીધા’ — બાળક ઠળિયા પાછા નાખવાનું કારણ પકડી શકતું નથી, ને એને લાગે છે કે મગન કચરો ફેંકે છે કે કંઈક નિશાની મૂકે છે. જાંબુ તોલીને ‘એક કિલો’ લેવાયાં હતાં અને થેલી હલકી થાય તો પકડાઈ જવાય — એ કડી તૂટે તો પાઠમાં પાછા ને પાછા આવતા ઠળિયા નકામા લાગે અને મજા જ ન આવે.",
+      "correction": "`explanation` માં ‘ઠળિયો — ફળની અંદરનો કઠણ બી’ પહેલી વાર જ્યાં શબ્દ આવે ત્યાં ગ્લોસ કરો, અને એ જ વાક્યમાં પાઠની છાપેલી ‘વજન સરખું કરવા’ પંક્તિ પકડીને એક જ ઉપવાક્યમાં કહો કે થેલીનું વજન એટલું ને એટલું રહે એ માટે ઠળિયા પાછા નખાયા. `concept_bullets` ની એક લીટી ખાધેલાં જાંબુ અને નખાયેલા ઠળિયા — બંને પગલાં એકસાથે રાખે."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "Profile gate 11 (cutting a comic turn from its setup), re-checked at the content layer: this topic's `explanation` names BOTH printed halves of રામજીનો વારો — the eating (‘એણેય મોંમાં મેલ્યાં ને’ … ‘દાઢમાં એવાં તો ચોંટી ગયાં કે બીજાં બેચાર ખાધા વગર તેને ચેન ના પડ્યું !’) AND the substitution (‘ને વજન સરખું કરવા તેણેય ઠળિયા નાખ્યા થેલીમાં.’). An explanation that stops at the eating fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 2 (converting the essay into a story with a moral): no field asks or answers why મગન handed the bag on or why રામજી ate, in words other than the reasons the page prints — ‘આપણે વળી ક્યાં સુધી આંટો ખાવો ?’ and ‘આટલાં એક કિલો જાંબુમાં બે ઓછાં થાશે તોય શું !’. No field states that મગન planned the handover in advance, that રામજી suspected anything, or that either one is a ચોર / લોભી / ખરાબ પાત્ર.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 7 (correcting the spoken register), bound to this topic's printed forms: ‘માંહ્યલીકોર’, ‘બે’ક’, ‘મેલ્યાં’, ‘થાશે’, ‘એણેય’, ‘તેણેય’, ‘પધરાવી દીધી’, ‘મઘમઘે’, ‘યાર’ and ‘આંટો’ appear unmodified wherever quoted, and no field contains a ‘સાચું રૂપ’ correction (થાશે → થશે, મેલ્યાં → મૂક્યાં, બે’ક → બે એક inside a quotation). This topic prints ‘માંહ્યલીકોર’ while M2.S4.T5 prints ‘માંયલીકોર’; neither is normalised to the other in any field.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક રામજીવાળા ભાગને એક જુદી, નવી ઘટના તરીકે વાંચે છે — ‘હવે રામજી પણ જાંબુ ખાઈ ગયો’ — અને પાઠનું ખરું બળ, એટલે કે એ જ બે પગલાં એ જ ક્રમમાં બીજા હાથે ફરી બને છે એ, દેખાતું જ નથી. પછી પાઠ ‘એક જ મજા વારે વારે’ મટીને છૂટીછવાઈ ઘટનાઓની યાદી બની જાય છે.",
+      "correction": "`explanation` માં મગનવાળી અને રામજીવાળી પંક્તિ સામસામે મૂકો — ‘વજન સરખું કરવા પેલાં ખાધેલાં જાંબુના ચાર ઠળિયા તેણે થેલીમાં નાખી દીધા’ સામે ‘ને વજન સરખું કરવા તેણેય ઠળિયા નાખ્યા થેલીમાં.’ — અને ‘તેણેય’ માંનો ‘-ય’ બતાવીને કહો કે પાઠ પોતે જ ‘આ પણ’ કહે છે. એક `recall_questions[].answer` એ સરખાપણું બંને પંક્તિ ટાંકીને જ આપે."
+    },
+    {
+      "topic_id": "M2.S4.T5",
+      "avoid_checks": [
+        {
+          "check": "Profile gate 5 (inverting the irony), bound to this topic's two printed lines that say the opposite of what they mean — ‘ભાઈનો તો વિશ્વાસ કરાયને !’ and ‘રસ્તામાં બિચારા નાથિયાનું નાક પણ ઊંચુંનીચું થવા લાગ્યું.’: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` rewrites either line into its literal correction (‘ખરેખર તો ભાઈનો વિશ્વાસ ન કરવો જોઈએ’, ‘સાચે તો નાથિયો બિચારો નહોતો’). At std 7 the line may be pointed at and set beside what happens next in the same `original_chunk`; it is never repaired into a rule.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 11 (cutting a comic turn from its setup), re-checked at the content layer: this topic's `explanation` names all three printed steps of નાથિયાનો વારો — the eating (‘પટ કરતાંક બે જાંબુ કાઢવાં પડ્યાં’), the recognition (‘ઠળિયાય ભાળીને ચાલાક નાથિયો બધુંય સમજી ગયો’) and the escalation (‘બીજાય બેપાંચ આમતેમથી શોધીને નાખ્યા થેલીમાં’). An explanation that reports the recognition without the extra ઠળિયા fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 4 (explaining the joke, or apologising for it): at most one sentence of this topic's `explanation` talks about the humour, and no field contains ‘આ વાક્ય રમૂજી છે કારણ કે’, ‘અહીં લેખક મજાક કરે છે’, ‘હસવું આવે એવું છે’, ‘(મજાક)’, or a bare restatement of ‘આલા બાલા (અષ્ટમ્ પષ્ટમ્)’ or ‘વજનમાં ફેર પડે તો ટપુડો કાંઈ કહે ને ?’.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 7 (correcting the spoken register), bound to this topic's printed forms: ‘પટ કરતાંક’, ‘માંયલીકોર’, ‘કે’ જે’ (printed with the justification space; ‘કે’જે’ unspaced elsewhere), ‘ભાળીને’, ‘ભેળા’, ‘બેપાંચ’, ‘બીજાય’, ‘ઠળિયાય’, ‘સુપરત’, ‘કડાકૂટ’ and ‘આલા બાલા (અષ્ટમ્ પષ્ટમ્)’ appear unmodified wherever quoted, brackets and all; no field contains a ‘સાચું રૂપ’ correction or standardises માંયલીકોર to માંહ્યલીકોર.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "‘ચાલાક નાથિયો બધુંય સમજી ગયો’ વાંચીને બાળક માની લે છે કે નાથિયો ભેદ પકડીને હવે વાત સુધારશે કે કોઈને કહી દેશે. પણ પાઠમાં એ સમજણ સામી બાજુ વપરાય છે — એ પોતે ખાય છે અને ‘બીજાય બેપાંચ આમતેમથી શોધીને’ ઠળિયા ઉમેરે છે. આ પલટો ચૂકે તો પાઠનું સૌથી ઊંચું પગથિયું જ ચૂકાઈ જાય.",
+      "correction": "`explanation` માં ‘બધુંય સમજી ગયો’ પછી તરત જ ‘બીજાય બેપાંચ આમતેમથી શોધીને નાખ્યા થેલીમાં’ એ છાપેલી પંક્તિ ટાંકો, જેથી બાળક જાતે જુએ કે સમજણ કઈ દિશામાં વપરાઈ. નાથિયાને ખરાબ કે લુચ્ચો કહ્યા વગર, જે છપાયું છે તે જ કહો; ‘ભાળીને — જોઈને’ ને `key_terms` માં છાપેલા રૂપે ગ્લોસ કરો."
+    },
+    {
+      "topic_id": "M3.S5.T6",
+      "avoid_checks": [
+        {
+          "check": "Profile gate 14 (pitying or judging the speaker), bound to this topic's printed detail: no `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` mocks or pities મોંઘીમા's age, teeth or slowness. ‘બોખા મોંમાંય એક જાંબુ એવું તો ઓગળી ગયું’ and ‘મોંઘીમા ધીમે ધીમે ચાલવા લાગ્યાં’ are quoted as printed and never extended into a fresh joke; the words બિચારાં, ગરીબ ડોસી, અભણ, ‘આ ડોસી’ or any synonym must not appear about her.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 3 (a tacked-on બોધ or ઉપદેશ): no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` closes on a honesty rule drawn from ‘‘નખ્ખોદિયો નાથિયો !’’ — no ‘ચોરી ન કરવી જોઈએ’, ‘સાચું બોલવું જોઈએ’, ‘બીજાની વસ્તુ ન ખાવી જોઈએ’, ‘આ પાઠ આપણને શીખવે છે…’. મોંઘીમાનો છાપેલો વિચાર પોતાના પર આવનારી શંકાનો છે, પ્રામાણિકતાનો નહીં.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 4 (explaining the joke, or apologising for it): at most one sentence of this topic's `explanation` talks about the humour, and no field paraphrases, translates-into-standard, softens or comments on ‘હત્તારીની !’ and ‘‘નખ્ખોદિયો નાથિયો !’’ beyond a `key_terms` gloss — no ‘ડોશીમા ગુસ્સામાં ખરાબ શબ્દ બોલી ગયાં’, no ‘આવું બોલવું ન જોઈએ’, no ‘(મજાક)’.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 7 (correcting the spoken register), bound to this topic's printed forms: ‘હત્તારીની !’, ‘નખ્ખોદિયો’, ‘બોખા’, ‘બે’ક’, ‘અછતાં’, ‘બચારા’ and ‘વાત ના પૂછો’ appear unmodified wherever quoted. This topic prints ‘ડોસીને થયું’ and ‘ડોશીથી બોલી જવાયું’ within a few lines; both spellings are quoted as printed and no field normalises one to the other or notes it as a mistake.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "ઠળિયા હાથમાં આવતાં મોંઘીમા ‘‘નખ્ખોદિયો નાથિયો !’’ બોલી ઊઠે છે, ને બાળક એને પ્રામાણિકતાનો ગુસ્સો સમજી લે છે — ‘મોંઘીમાને ચોરી સામે ખોટું લાગ્યું’. પણ પાઠમાં છપાયેલો એમનો વિચાર જુદો છે : ‘હવે હું થેલી આપવા જાઉં તો જાંબુ ખાઈ ગયાની શંકા મારા ઉપર જ આવે ને ?’ — અને એ પોતે પણ એક જાંબુ ખાઈ ચૂક્યાં છે.",
+      "correction": "`explanation` માં એમનો છાપેલો વિચાર ‘શંકા મારા ઉપર જ આવે ને ?’ ટાંકીને બતાવો કે એમની ચિંતા પોતાના પર આવનારા વહેમની છે; આગળનું છાપેલું ‘બોખા મોંમાંય એક જાંબુ એવું તો ઓગળી ગયું’ પણ એ જ `explanation` માં સાથે રાખો, જેથી બંને વાત એકસાથે દેખાય. ‘હત્તારીની !’ અને ‘નખ્ખોદિયો’ ને છાપેલા રૂપે જ `key_terms` માં ગ્લોસ કરો, અને કોઈ પણ field માં પ્રામાણિકતાનો બોધ ઉમેરવો નહીં."
+    },
+    {
+      "topic_id": "M3.S6.T7",
+      "avoid_checks": [
+        {
+          "check": "Profile gate 9 (supplementing from general knowledge), bound to this chapter's withheld ending: no `explanation`, `summary`, `detailed_summary`, `important_points`, any `concept_bullets` line or any `recall_questions[].answer` states as fact that ટપુ received the થેલી, opened it, or found the ઠળિયા. The page prints only the conditional ‘…ટપુડાને મળી હશે અને જાંબુ ખાવા અંદર હાથ નાખ્યો હશે ત્યારે તેની બિચારાની શી દશા થઈ હશે !’. A model answer may offer a guess, marked as one possible answer, never as the chapter's own outcome.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 13 (losing the closing gesture or its credits): the chapter's last printed sentence — ‘ને... ને પશીએ પહોંચાડેલી એ જાંબુની થેલી જ્યારે અમથાલાલના ભાણિયા ટપુડાને મળી હશે અને જાંબુ ખાવા અંદર હાથ નાખ્યો હશે ત્યારે તેની બિચારાની શી દશા થઈ હશે !’ — stands verbatim inside this LAST topic's `original_chunk`, unshortened and with its printed spacing. This chapter prints its byline ‘- જયંતી ધોકાઈ’ at the HEAD of the chapter and prints NO attribution, source or translator credit after the text; no field may invent or append one.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 3 (a tacked-on બોધ or ઉપદેશ): the last sentence of `explanation`, of `detailed_summary` and of every `recall_questions[].answer` in this topic ends on what the printed text does — the last જાંબુ eaten, and the question the પાઠ leaves open — not on a rule. No ‘આ પાઠ આપણને શીખવે છે…’, ‘આપણે પણ … જોઈએ’, ‘બોધ એ છે કે…’, and no closing sentence about પ્રામાણિકતા, લાલચ or વિશ્વાસ that is not a verbatim quotation from this `original_chunk`.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Profile gate 7 (correcting the spoken register), bound to this topic's printed forms: ‘કે’જે’, ‘હુંયે’, ‘નાનકી’, ‘લાવને’, ‘લાવ જોઉં તો ખરી’ and ‘બિચારાની’ appear unmodified wherever quoted, and no field contains a ‘સાચું રૂપ’ correction (કે’જે → કહેજે, હુંયે → હું પણ inside a quotation).",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "પાઠનું છેલ્લું વાક્ય — ‘ટપુડાને મળી હશે અને જાંબુ ખાવા અંદર હાથ નાખ્યો હશે ત્યારે તેની બિચારાની શી દશા થઈ હશે !’ — બાળક બની ગયેલી ઘટના તરીકે વાંચે છે, ને કહે છે કે ટપુએ થેલી ખોલી ને ઠળિયા જોયા. ખરેખર પાઠ ત્યાં અટકીને વાચકને પૂછે છે; થેલી ટપુ સુધી પહોંચી કે નહીં એ પાઠ ક્યાંય કહેતો જ નથી.",
+      "correction": "`explanation` ના છેલ્લા વાક્યમાં છાપેલા ‘…હશે’ રૂપ પર આંગળી મૂકીને કહો કે આ પાઠનો પોતાનો સવાલ છે, જવાબ નથી — પાઠ ટપુડાની દશા બતાવ્યા વગર જ પૂરો થાય છે. `recall_questions[].answer` માં પણ મોડેલ જવાબ ‘મને એમ લાગે છે કે…’ એ રીતે પોતાનો અંદાજ તરીકે જ અપાય, પાઠની હકીકત તરીકે નહીં."
+    }
+  ],
+  "chapter_level": [
+    "THE THIRD-PERSON CAVEAT — profile gate 6, and the single hazard this chapter is named for in nibandh_atmaparak.md. The running narration is third person: the first sentence's subject is અમથાલાલ and there is no ‘હું’ outside characters' quoted speech and thought. Every first-person form on the page belongs to a character — રામજી's ‘યાર, હું તો અહીં જ છું’, નાથિયો's ‘લાવને પધરાવી દઉં આ મોંઘીમાને !’, મોંઘીમા's ‘શંકા મારા ઉપર જ આવે ને ?’, પશી's ‘લાવને હુંયે ચાખું...’. No field of any topic may present these as the writer's own voice, and no field may ascribe a first-person admission, confession or self-deprecation to this chapter. Applies to `explanation`, `summary`, `detailed_summary`, `concept_bullets`, `real_life_example` and every `recall_questions[].answer`. Severity: hard.",
+    "REGISTER IS THE JOKE — profile gate 7, chapter-wide, and the profile's own measured difficulty note for this chapter ('humour depends on register and repetition — L2 glossing must keep the joke'). Every printed colloquial or તળપદું form is quoted exactly as printed and glossed with the printed form as the `key_terms` headword; no field anywhere carries a ‘સાચું રૂપ’ repair. Three printed variant pairs occur inside this one chapter and NONE is normalised in any direction: માંહ્યલીકોર (M2.S3.T4) vs માંયલીકોર (M2.S4.T5); ડોસીને vs ડોશીથી (both in M3.S5.T6); અડધો માઈલ (M1.S2.T2) vs અર્ધો માઈલ (exercise block three). Severity: hard.",
+    "NO DEVICE LABELS AT STD 7 — profile gate 15 plus the std-7 genre gate (profiles/students/std-7.md §2): `figures_of_speech` is `[]` on every topic, and no field names an અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર tag. The chapter's sensory lines — ‘મીઠાં મધ જેવાં જાંબુ’, ‘મગનની લૂલી જરા લબક લબક થવા લાગી’, ‘જીભ માંહ્યલીકોર આંટા મારવા લાગી’ — are noticed by asking what the child sees or hears, never labelled. Severity: hard.",
+    "NO BIOGRAPHY FOR THE AUTHOR — profile gate 8/9. The only printed fact about the writer in this chapter is the head-of-chapter byline ‘- જયંતી ધોકાઈ’. No field states a birth year, a place, a book, a movement, an award or any other work of જયંતી ધોકાઈ, and no field attributes an intention or feeling to the writer. Severity: hard.",
+    "THE TRANSFER-COMPOSITION IS EXERCISE, NOT TEACHING — profile gate 12. All fifteen printed exercise blocks inventoried in 01_meta.json.exercise_inventory belong to the exercise deliverable and to no topic — in particular block nine, ‘તમારા જીવનમાં બનેલ રમૂજી પ્રસંગ વર્ગમાં કહો.’, which this profile calls the genre's fingerprint. No topic's `objective_text` or `explanation` describes how to write or tell a રમૂજી પ્રસંગ as a method. Severity: hard.",
+    "FIVE CARRIERS, NOT FIVE CULPRITS — profile gates 2 and 14 together. મગન, રામજી, નાથિયો, મોંઘીમા and પશી are named, described by what the page prints them doing, and never labelled ચોર, લુચ્ચા, લોભી, બેઈમાન, ખરાબ, બિચારાં or ‘આ લોકો’ in any field; no field states that a carrier planned the handover in advance, felt guilt the page does not print, or was punished. The chapter's own comic register, not a verdict on the characters, is the model (global_content_rules.md §10).",
+    "ONE WORD IN THE શબ્દાર્થ BOX IS NOT IN THE STORY — Agent 1 recorded that the printed શબ્દાર્થ box glosses ‘આસ્તેક’ but ‘આસ્તેક’ does not occur anywhere in the printed story text on folios 30–32. No topic's `key_terms`, `explanation` or any other field may present આસ્તેક as a word from this passage, and the observation is recorded, never repaired.",
+    "NAME THE CARRIERS, NEVER NUMBER THEM — global_content_rules.md §4. Display text says મગન, રામજી, નાથિયો, મોંઘીમા, પશી, or ‘પહેલા હાથે’ / ‘બીજા હાથે’ in words; never ‘વાહક 1’, ‘પ્રસંગ 3’ or ‘સ્વાધ્યાય 9’. The chapter's OWN printed quantities — એક કિલો, બસો ગ્રામ, સત્તર કિલો, અડધો માઈલ, ચાર ઠળિયા — are content, not structural references, and stay as printed. Severity: soft (structural convention, not a profile gate)."
+  ]
+}

@@ -1,0 +1,76 @@
+{
+ "M3.S5.T10": {
+  "avoid_checks": [
+   {
+    "check": "Gate 4 (spoiling the turn early): no field of this topic may name the outcome — `વીરગતિ`, `હત્યા`, `મૃત્યુ`, `શહીદ`, `જયદ્રથ`, `દુઃશાસન`, `કૃતવર્મા` must not appear in `explanation`, `summary`, `detailed_summary`, a `concept_bullets` line or any `recall_questions[].answer` — and દાદીમા કુંતીના `આશિષ` must not be framed as a farewell (`છેલ્લી વાર`, `છેલ્લા આશીર્વાદ`, `જાણે ખબર હોય કે…`).",
+    "profile": "varta",
+    "severity": "hard"
+   },
+   {
+    "check": "Gate 1 (summary-only teaching): `explanation` must add what the કૌરવોનું `‘‘લો ! એક નાનું છોકરું આપણી સામે યુદ્ધ કરશે !’’` shows about the speakers, or what `એનો રથ ચક્રવ્યૂહને ભેદવા સૌથી આગળ હતો` means for him — not list the pieces of રણવેશ that `modified_chunk` already lists.",
+    "profile": "varta",
+    "severity": "hard"
+   }
+  ],
+  "misconception": "‘‘લો ! એક નાનું છોકરું આપણી સામે યુદ્ધ કરશે !’’ — બાળક આને પાઠનું પોતાનું વર્ણન સમજી લે છે અને માની બેસે છે કે અભિમન્યુ ખરેખર નાનું બાળક હતું; જ્યારે એ જ ફકરામાં પાઠ એને ‘યુવા અભિમન્યુ’ કહે છે અને પહેલાં ‘કિશોર’ કહી ચૂક્યો છે.",
+  "correction": "પહેલાં કોણ બોલે છે એ નક્કી કરાવો — આ વાક્ય કૌરવોનું મહેણું છે, પાઠનો અભિપ્રાય નહિ. પાઠનો પોતાનો શબ્દ `યુવા` સામે મૂકીને બતાવો કે નાનું ગણી કાઢવું એ સામેવાળાની અવગણના છે; સાથે `રણવેશ`, `બખતર` અને `શિરસ્ત્રાણ` પુસ્તકના શબ્દાર્થ પ્રમાણે ગ્લોસ કરો."
+ },
+ "M3.S6.T11": {
+  "avoid_checks": [
+   {
+    "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may add a detail this chapter does not print: no count of કોઠા (the text says only `એક પછી એક કોઠા ભેદતો`, and no number appears in any `original_chunk` of this plan), no narration of રથનું પૈડું as an event (it is in the printed illustration only, never in the text), and nothing carried in from the wider મહાભારત.",
+    "profile": "varta",
+    "severity": "hard"
+   },
+   {
+    "check": "Gate 5 (no debunking or verifying a પૌરાણિક કથા): no field may weigh whether one youth could really defeat `કૌરવપક્ષના બધા જ યોદ્ધાઓ` — no `ખરેખર એવું ન બને`, no `આ તો અતિશયોક્તિ છે`, no `વૈજ્ઞાનિક રીતે…`. The પરાક્રમ is narrated as the કથા narrates it.",
+    "profile": "varta",
+    "severity": "hard"
+   }
+  ],
+  "misconception": "આગલા ટોપિકનું મહેણું તાજું હોવાથી બાળક શત્રુઓના ‘વાહ!’ અને ‘ધન્ય હો તારી જનેતાને !’ને પણ મશ્કરી સમજી લે છે, અને પાઠની સૌથી મોટી ક્ષણ — સામેની છાવણી પણ વખાણ કરવા લાગી — હાથમાંથી છૂટી જાય છે.",
+  "correction": "વક્તા સ્પષ્ટ કરો: પાઠ કહે છે `શત્રુઓ પણ` — એટલે એ જ લોકો જે હમણાં ‘નાનું છોકરું’ કહેતા હતા. `ધન્ય — વાહ, ખરેખર મહાન એવો પ્રશંસાનો ઉદ્ગાર` અને `કોઠો — ચક્રવ્યૂહનું એક એક પડ` ગ્લોસ કરીને એ વખાણને પાઠના જ શબ્દોમાં ઊભા રહેવા દો."
+ },
+ "M3.S6.T12": {
+  "avoid_checks": [
+   {
+    "check": "Gate 4 (spoiling the turn early), checked on the topics that precede this one: no topic before `M3.S6.T12` may carry `જયદ્રથ`, `દુઃશાસન`, `કૃતવર્મા`, `હત્યા`, `વીરગતિ`, `મૃત્યુ` or `શહીદ` in its `explanation`, `summary`, `detailed_summary`, any `concept_bullets` line or any `recall_questions[].answer`.",
+    "profile": "varta",
+    "severity": "hard"
+   },
+   {
+    "check": "Gate 2 (a tacked-on બોધ): the chapter states its own judgement — `યુદ્ધના બધા જ નીતિનિયમોને નેવે મૂકીને` — so no sentence of `explanation`, `summary`, `detailed_summary`, `concept_bullets` or `recall_questions[].answer` may add a rule of its own: no `આપણે નિયમો પાળવા જોઈએ`, no `આ વાર્તા આપણને શીખવે છે…`, no `બોધ એ છે કે…`.",
+    "profile": "varta",
+    "severity": "hard"
+   },
+   {
+    "check": "The six names are quoted exactly as printed (`જયદ્રથ, દ્રોણ, કૃપાચાર્ય, કર્ણ, દુઃશાસન અને કૃતવર્મા`) and no field adds an evaluative label of its own (કાયર, દુષ્ટ, પાપી, રાક્ષસ). What the chapter says they did — `નેવે મૂકીને … ભેગા મળીને … ઉપરાઉપરી ઘા મારીને` — is the whole of the plan's account.",
+    "profile": "varta",
+    "severity": "soft"
+   }
+  ],
+  "misconception": "બાળક વિચારે છે કે યુદ્ધ છે, એમાં તો આવું થાય જ — છ જણ ભેગા થઈને એક પર તૂટી પડ્યા એમાં ખાસ શું ? એટલે પાઠ પોતે જે વાત મૂકે છે — ‘યુદ્ધના બધા જ નીતિનિયમોને નેવે મૂકીને’ — તે વંચાયા છતાં કશું ખાસ લાગતું નથી.",
+  "correction": "પુસ્તકના પોતાના રૂઢિપ્રયોગથી ખોલો — `નેવે મૂકવું — ઉપેક્ષા કરવી; નિયમને બાજુએ મૂકી દેવો` — અને પાઠના શબ્દો `છ - છ યોદ્ધાઓએ ભેગા મળીને` ટાંકીને બતાવો કે અહીં યુદ્ધનો નિયમ તૂટ્યો છે. ચુકાદો પાઠે પોતે આપી દીધો છે, એટલે એની ઉપર પોતાનો બોધ ઉમેરવો નહિ."
+ },
+ "M3.S6.T13": {
+  "avoid_checks": [
+   {
+    "check": "Gate 2 (a tacked-on બોધ): the last sentence of `explanation`, of `detailed_summary` and of every `recall_questions[].answer` must stay inside this scene — યુધિષ્ઠિર, the ચક્રવ્યૂહ, the ભડવીર, the નિસાસો — and may not be a closing clause of the form `આપણે પણ … જોઈએ` / `આ વાર્તા આપણને શીખવે છે…` / `બોધ એ છે કે…`.",
+    "profile": "varta",
+    "severity": "hard"
+   },
+   {
+    "check": "The chapter ends on `‘‘ચક્રવ્યૂહ તૂટ્યો પણ આપણો ભડવીર ખૂટ્યો !’’`. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may narrate anything after it — no અર્જુનની પ્રતિજ્ઞા, no જયદ્રથવધ, no who-won-the-war. The revenge question is a printed exercise (`અર્જુને અભિમન્યુના મૃત્યુનું વેર કેવી રીતે લીધું એ અંગે તમારા વડીલોને પૂછો.`) and is answered only in `exercise_solutions.json`.",
+    "profile": "varta",
+    "severity": "hard"
+   },
+   {
+    "check": "યુધિષ્ઠિરનું વાક્ય is quoted exactly as printed wherever any field quotes it — the `પણ` intact, never smoothed to `ચક્રવ્યૂહ તૂટ્યો અને ભડવીર ખૂટ્યો`. The chapter's whole title turns on that `પણ`.",
+    "profile": "varta",
+    "severity": "soft"
+   }
+  ],
+  "misconception": "‘સદાને માટે આંખો મીંચી’ વાંચીને બાળક સમજે છે કે અભિમન્યુ સૂઈ ગયો કે આરામ કરવા લાગ્યો; એટલે પછી યુધિષ્ઠિરનો નિસાસો અને ‘ભડવીર ખૂટ્યો’ શા માટે — એ આખું વાક્ય અર્થ વગરનું બની જાય છે.",
+  "correction": "પુસ્તકના રૂઢિપ્રયોગના ખાનાનો જ અર્થ વાપરો — `આંખો મીંચી દેવી — મૃત્યુ પામવું` — અને `ખૂટ્યો (અહીં) ખોટ પડવી` ગ્લોસ સાથે યુધિષ્ઠિરનું વાક્ય ટાંકીને બતાવો કે ચક્રવ્યૂહ તૂટ્યાનો આનંદ અને ભડવીર ગુમાવ્યાનું દુઃખ એક જ વાક્યમાં સામસામે મુકાયાં છે."
+ }
+}

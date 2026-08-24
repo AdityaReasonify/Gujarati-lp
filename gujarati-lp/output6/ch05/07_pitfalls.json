@@ -1,0 +1,203 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Avoid-1 (frame re-taught as a વાર્તા), bound to this topic: no sentence of this topic's `explanation`, `summary`, `detailed_summary`, any `concept_bullets` line or any `recall_questions[].answer` asks or answers why રામુ stayed on at his friend's house, or presents દાદાજી's 'કોઈ એને વઢશો નહિ' as a character's decision. This માહિતી-ખંડ's subject is that the telling starts and what it is about — 'ઘેરથી નીકળી, પોતાનું કામકાજ પતાવી, ઘેર પાછા આવવામાં કેટલો લાભ છે તેની વાર્તા કહું.' A field that gives રામુ a motive fails.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid-10 (tacked-on બોધ), bound to this topic: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` closes on a rule of the shape 'બાળકોએ શાળા છૂટ્યા પછી સીધા ઘેર જવું જોઈએ' / 'આપણે મોડું ન કરવું જોઈએ' / 'મોટાંનું કહ્યું માનવું જોઈએ'. The only 'લાભ' claim allowed is દાદાજી's printed one, quoted and attributed to him.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid-4 (adding what the chapter does not carry), bound to this topic: no field names a person this `original_chunk` does not name. The chunk names રામુ, દાદાજી and an unnamed દોસ્ત only — and 'છેવટે ભાઈ તો દોસ્તારને ઘેર ખીચડી ને શાક જમતાં મળી આવ્યા' refers to રામુ himself, so no brother, no parents, no named friend, no school name and no reason for the delay may appear in any field.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'છેવટે ભાઈ તો દોસ્તારને ઘેર ખીચડી ને શાક જમતાં મળી આવ્યા' વાંચીને 'ભાઈ'ને રામુનો ભાઈ — એટલે કે એક નવું પાત્ર — સમજી લે છે, અને 'મળી આવ્યા' એ માનવાચક બહુવચનથી એ ભ્રમ પાકો થાય છે. પછી એને એમ લાગે છે કે શોધાશોધ પછી કોઈ બીજું જડ્યું, ને રામુ પોતે ક્યાં હતો એ સવાલ મનમાં અધૂરો રહી જાય છે.",
+      "correction": "પહેલા જ વાક્યમાં સાફ કરો કે અહીં 'ભાઈ' એ નવું પાત્ર નથી — રામુ પોતે જ છે; વડીલો નાના છોકરાને હેતથી એમ કહે છે, ને એટલે જ 'મળી આવ્યા' એવું માનવાચક રૂપ વપરાયું છે. `key_terms`માં 'ભાઈ — અહીં રામુ પોતે; નાના છોકરાને હેતથી કરાતું સંબોધન' ઉમેરો, અને પછીનાં બધાં વાક્યોમાં રામુનું જ નામ વાપરો."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "Avoid-5 (turning it into a Science lesson), bound to this topic: no `explanation`, `summary`, `detailed_summary`, `important_points`, `concept_bullets` line or `recall_questions[].answer` introduces a term this chapter does not print — વીજપ્રવાહ, વાહક, વીજવાહકતા, સ્થિર વિદ્યુત, ભેજ, વોલ્ટેજ, અર્થિંગ — and no field explains why a દોર carried the shock. What the chapter prints is the ceiling: 'આકાશમાં વીજળી ઝબૂકી અને છોકરાના હાથમાં દોર હતો ત્યાં ઝાટકો વાગ્યો.'",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid-4 (adding facts), bound to this topic's two festival words: no field adds a date, month, season or calendar fact to ઉતરાણ or ગોકુળઆઠમ beyond what the page prints — 'ઉતરાણ પર તો સહુ પતંગ ચગાવે' and the printed શબ્દાર્થ 'ગોકુળ આઠમ - જન્માષ્ટમી'. No 'જાન્યુઆરી', 'મકરસંક્રાંતિ', 'શ્રાવણ' or 'ચોમાસું' anywhere in the topic.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid-10 (tacked-on બોધ), bound to this topic: no field closes on a safety rule of the shape 'વરસાદમાં પતંગ ન ચગાવવો જોઈએ' / 'આપણે … જોઈએ' — the chunk states no such rule; it reports only 'દોર હાથમાંથી છૂટી ગયો અને છોકરો નીચે પડી ગયો !'. The hard safety obligation `08_sensitivity.json` records for this topic is met by choosing a clear-sky ઉત્તરાયણ anchor for `real_life_example`, not by appending a જોઈએ-sentence.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'ઉતરાણ પર તો સહુ પતંગ ચગાવે' વાંચીને માની લે છે કે આ બનાવ ઉતરાણને દિવસે બન્યો, અને પછીની લીટી 'લાવને ગોકુળઆઠમની રજાઓમાં પતંગ ચગાવું' પરથી કૂદી જાય છે. બે વાક્યો વચ્ચેનો આ ફેરફાર છૂટી જતાં ઝરમર વરસાદ ને ઝબૂકતી વીજળી અચાનક ક્યાંથી આવ્યાં તે એને જોડાતું નથી.",
+      "correction": "`explanation`ના પહેલા વાક્યમાં જ બે દિવસ સામસામે મૂકો — ઉતરાણ એ પતંગનો ખરો દિવસ, પણ આ છોકરાએ પતંગ ચગાવ્યો ગોકુળઆઠમની રજાઓમાં — અને `key_terms`માં પાઠના છપાયેલા શબ્દાર્થ પ્રમાણે 'ગોકુળઆઠમ — જન્માષ્ટમી' ગ્લોસ કરો. પછી જ ઝરમર વરસાદ ને વીજળીની વાત આવે, જેથી બાળકના મનમાં 'જુદો દિવસ → વરસાદ → ઝાટકો' એવો ક્રમ બંધાય."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Avoid-1 (frame re-taught as a વાર્તા), bound to this topic: no field asks or answers why રામુ interrupted, and no field presents 'ભેંસ ઉપર વીજળી પડી હતી અને ભેંસ મરી ગઈ હતી' as the chapter's most important event or as a turn in a story. The fact this ખંડ teaches is the distinction the chapter itself draws — વીજળી ભેંસ પર સીધી પડી, પણ છોકરા સુધી એ 'દોર વાટે નીચે ઊતરી આવી'.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid-5 (Science lesson), bound to this topic: no field explains how or why lightning travels down a string, and no field corrects the chapter's account. 'નક્કી વાદળમાંની વીજળી દોર વાટે નીચે ઊતરી આવી અને મને ઝાટકો મારતી ગઈ' is restated in the chapter's own words with 'વાટે — રસ્તે' glossed; nothing about ભેજ, વાહક, વીજપ્રવાહ or સ્થિર વિદ્યુત is added.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "રામુ 'એવું જ થયું ને ?' પૂછે છે અને બાળક એ સરખામણી સાચી માની લે છે. ભેંસવાળી લીટીની અસર એટલી ભારે છે કે દાદાજીના 'ના, ના'ને એ પકડતું નથી, અને છોકરાનું પણ ભેંસ જેવું જ થયું હશે એમ ધારીને આગળ વાંચે છે — બે વાક્યો વચ્ચે કોણ પૂછે છે ને કોણ નકારે છે એ દોર છૂટી જાય છે.",
+      "correction": "પહેલા વાક્યમાં કોણ પૂછે છે ને કોણ જવાબ આપે છે તે નામ સાથે કહો, અને દાદાજીના 'ના, ના'ને સાફ નકાર તરીકે મૂકો. પછી બંને બનાવ એક જ વાક્યમાં સામસામે ગોઠવો — ભેંસ પર વીજળી સીધી પડી હતી, છોકરા સુધી એ દોર વાટે ઊતરી; એટલે છોકરાને 'ઝાટકો જ વાગ્યો' અને એ 'તરત ઊભો થઈ ગયો'."
+    },
+    {
+      "topic_id": "M1.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "Avoid-10 (tacked-on બોધ), bound to this topic: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` closes on 'આપણે વીજળી સાચવીને વાપરવી જોઈએ' / 'વીજળીનો બગાડ ન કરવો જોઈએ' / 'આપણે સાવધાની રાખવી જોઈએ'. The chapter's own conditional is quoted instead and taught as the writer's move — 'જરા સાચવી-સંભાળીને કામ કરાવીએ, તો આ તાકાતવાળી વીજળી પાસે તો ઘણું કામ કરાવી શકાય.'",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid-5 (Science lesson), bound to this topic's key word: no field replaces or supplements the chapter's word 'તાકાત' with ઊર્જા, વિદ્યુતશક્તિ, વોલ્ટેજ, વૉટ or any unit or measure, and no field carries a number — this `original_chunk` prints none.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "આ ખંડની પહેલી બે લીટીઓ ડરની છે — 'ભેંસને મારી નાખી !', 'છોકરાને ઝાટકો મારતી ગઈ !' — અને બાળક ત્યાં જ અટકી જાય છે. છેલ્લા લાંબા વાક્યનો બીજો ભાગ, જ્યાં વાત ડરમાંથી કામ તરફ ફરે છે, એ છૂટી જાય છે; એટલે ખંડનો સાર 'વીજળી ખતરનાક છે' બની જાય છે અને પાઠનો આખો મુદ્દો ખોવાઈ જાય છે.",
+      "correction": "`explanation`નું પહેલું જ વાક્ય આ ફેરફાર પર મૂકો — બે દાખલા વીજળીની તાકાત બતાવે છે, ને એ જ તાકાત પાસેથી કામ લઈ શકાય. પાઠનું પોતાનું વાક્ય 'જરા સાચવી-સંભાળીને કામ કરાવીએ, તો … ઘણું કામ કરાવી શકાય' ટાંકો અને ત્યાં જ 'સાચવી-સંભાળીને — કાળજી રાખીને' ગ્લોસ કરો, જેથી 'જો … તો' ની બે ભાગવાળી ચાલ આખી બાળક સુધી પહોંચે."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "Avoid-5 (Science lesson, both halves), bound to this topic: no field names a circuit or current term the chapter does not print — પરિપથ, સર્કિટ, વીજપ્રવાહ, શૉર્ટ સર્કિટ, અર્થિંગ, ધ્રુવ — and no field re-explains 'એ જ્યાંથી નીકળે ત્યાં જ પાછી જવાની' as a scientific loop; and no field anywhere in this topic says 'ખરેખર વીજળી રાણી નથી' or 'વૈજ્ઞાનિક રીતે…'.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid-1 (frame re-taught as a વાર્તા), bound to this topic: no field presents the રાણી's 'ધક્કો મારે, ઝાટકો મારી પાડી નાખે' as a person's choice, mood or motive, and no field asks why she gets angry. The chapter states it as a habit — 'આ વીજળીરાણીની એક ખાસ ટેવ છે' — and the teaching states it as a ટેવ too.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'ઘરથી નીકળેલી વીજળીરાણી ઘેર પાછી ફરતી હોય' — અહીં 'ઘર' કોનું છે તે બાળક પકડી શકતું નથી. વાર્તા રામુના ઘેરથી શરૂ થઈ છે, એટલે એ 'ઘર'ને રામુનું કે પોતાનું ઘર સમજી લે છે, અને 'જ્યાંથી નીકળે ત્યાં જ પાછી' એ આખી ટેવ — જે પાઠની કરોડરજ્જુ છે — ખોટી જગ્યાએ ગોઠવાઈ જાય છે.",
+      "correction": "પહેલા વાક્યમાં જ 'ઘર' કોનું છે તે નક્કી કરી આપો — વીજળીરાણીનું પોતાનું ઘર, જ્યાંથી એ નીકળી હોય ત્યાં જ પાછી; રામુનું ઘર નહિ. એ ઘરનું નામ પાઠમાં આગળ આવે છે એટલો દોર જોડી રાખો, અને ત્યાં જ 'ટેવ — આદત' તથા 'આડા આવવું — વચ્ચે આવીને રસ્તો રોકવો' ગ્લોસ કરો."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "Avoid-6 (substituting a familiar equivalent), bound to this topic's two printed words: પાવરહાઉસ and ગ્રિડ appear in exactly those forms wherever any field of this topic refers to them — never as વીજમથક, વીજળી-જાળ, ટ્રાન્સફોર્મર, સબસ્ટેશન, 'power station' or 'transmission network' — and at least one of them appears in this topic's `key_terms` in 'શબ્દ — અર્થ' form, carrying the meaning the chapter's own printed શબ્દાર્થ box gives ('પાવરહાઉસ - વીજળીઘર'; 'ગ્રિડ - વીજળીના વાલમાં વપરાતી તારની જાળી, વીજળીના મથકથી તાર જોડીને કરાતી યોજના કે વ્યવસ્થા.' — quoted whole, not truncated to its second half).",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid-4 (adding facts), bound to this topic's chain: no field names a stage this chapter does not print. The word 'ફીડર' is absent from this chapter's reading text (open item carried in `04_converged.json`) and must not appear in any field; nor may સબસ્ટેશન, ટ્રાન્સફોર્મર, મીટર, વોલ્ટેજ, કિલોમીટર or કિલોવૉટ. The printed chain is the ceiling: પાવરહાઉસ → 'ખાસ તારનાં દોરડાં' → 'ગ્રિડના તાર' → 'થાંભલા ઉપર ઊંચેઊંચે' → 'ગામ-પરગામ થઈને પાવરહાઉસ પાછા'.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid-4 (adding facts), bound to the reason this chunk gives: the chapter gives exactly one reason for raising the wires — 'રાણીને રસ્તામાં કોઈ આડું આવીને ચીડવે નહિ, એટલે થાંભલા ઉપર ઊંચેઊંચે આ તાર બાંધ્યા' — and no field of this topic replaces it with an unprinted engineering or safety reason.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક આ ખંડને એકતરફી પહોંચાડવાની વાત તરીકે વાંચે છે — પાવરહાઉસમાંથી નીકળીને તાર ગામ સુધી જાય, બસ. છેલ્લા ભાગનું 'આ બધા તાર ગામ-પરગામ થઈને પાવરહાઉસ પાછા પહોંચી જાય' છૂટી જાય છે, અને પાઠનું મુખ્ય ચિત્ર — ઘેરથી નીકળી ઘેર પાછા — બંધાતું જ નથી.",
+      "correction": "`explanation`માં તારનો રસ્તો એક જ વાક્યમાં જતાં અને પાછા આવતાં — બંને દિશામાં — બતાવો, પાઠના પોતાના શબ્દો 'ગામ-પરગામ થઈને પાવરહાઉસ પાછા પહોંચી જાય' ટાંકીને. સાથે ત્યાં જ 'ગામ-પરગામ — પોતાનું ગામ ને બીજાં ગામ' અને 'થાંભલા — તાર બાંધવાના ઊંચા ટેકા' ગ્લોસ કરો."
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "Avoid-5 (Science lesson), bound to this topic's hardest line: no field corrects or re-explains 'પાવરહાઉસના વરાળ કે પેટ્રોલ એને ખાવાનું આપે, શક્તિ આપે, તાજીમાજી કરે' against science — no ટર્બાઇન, જનરેટર, બળતણ, દહન, ઊર્જા-રૂપાંતર, વીજ-ઉત્પાદન — and no sentence of the form 'ખરેખર વીજળી થાકતી નથી' or 'વૈજ્ઞાનિક રીતે…'. વરાળ and પેટ્રોલ are the only two the chapter names here; no કોલસો, પવન, સૂર્ય or ડીઝલ may be added.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid-4 (adding facts), bound to this topic's farm: no detail about અરજણભાઈ, his village, his crop, his કૂવો or the pump's size, depth or make appears in any field. The chunk gives only 'અરજણભાઈના ખેતરના પંપે', 'કૂવામાંથી પાણી કાઢી આપે' and 'આખા ખેતરને પાણી પાવું એ તો કેટલું બધું કામ !'.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "Not in the profile's avoid list, but this passage invites it: wherever a field of this topic refers to the farmer, the chapter's printed name 'અરજણભાઈ' is used and not a generic 'એક ખેડૂત' — the chapter chose to name him.",
+          "profile": "mahitiprad_gadya",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "'પાવરહાઉસના વરાળ કે પેટ્રોલ એને ખાવાનું આપે' — બાળક આ લીટીને સીધી માહિતી ગણી લે છે અને 'વીજળી પેટ્રોલ ખાય છે' એમ યાદ રાખીને ઉત્તરમાં લખી નાખે છે. આખા પાઠમાં વીજળીરાણી માણસની જેમ થાકે છે ને ખાય છે એ વાર્તાની ભાષા છે, પણ છઠ્ઠા ધોરણનું બાળક એને હકીકત તરીકે ઉપાડી લે છે.",
+      "correction": "થાક → ખાવાનું → શક્તિ → પાછી કામે — આ ચારેને એક જ વાક્યની સાંકળમાં મૂકો, જેથી બાળક જુએ કે લેખક વીજળીને માણસની જેમ કામ કરતી, થાકતી ને પાછી તાજી થતી બતાવે છે. 'થાકીને લોથપોથ થઈ જવું — ખૂબ થાકી જવું' પાઠના પોતાના છપાયેલા રૂઢિપ્રયોગ-ખાનામાંથી લો, અને 'તાજીમાજી કરે — ફરી તાજી ને શક્તિવાળી બનાવે' સાદા શબ્દોમાં એની બાજુમાં જ મૂકો — અને એક પ્રશ્ન મૂકો : 'લેખકે વીજળીને માણસની જેમ બીજાં કયાં કયાં કામ કરાવ્યાં છે ?' અલંકારનું નામ ક્યાંય ન આપો, અને પાઠની વાતને 'ખરેખર એવું નથી' કહીને સુધારો પણ નહિ."
+    },
+    {
+      "topic_id": "M2.S4.T8",
+      "avoid_checks": [
+        {
+          "check": "Avoid-4 (adding facts), bound to this topic's list: every appliance, place and activity named in any field of this topic also appears in its `original_chunk` — અમદાવાદ, 'શહેરના વીજળીના દીવા', 'બહુમાળી મકાન', લિફ્ટ, 'ઘઉં દળવાની ઘંટી'. No પંખો, ટીવી, ફ્રિજ, મોબાઇલ, કમ્પ્યૂટર, એ.સી. or સ્ટ્રીટલાઇટ is added, and no fact about અમદાવાદ (size, population, river, 'ગુજરાતનું સૌથી મોટું શહેર') that the chunk does not print.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid-9 (ranking regions or ways of life), bound to this topic's neighbour: no field of this topic ranks શહેર above ગામ or ખેતર — no વધુ આધુનિક, વધુ સુવિધાવાળું, પછાત, or a 'શહેરમાં તો…' comparison. The chapter sets અરજણભાઈનો પંપ and અમદાવાદના દીવા side by side as two કામ the same રાણી does on the same round trip, and the teaching keeps them level.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'ઘઉં દળવાની ઘંટી' — અંગ્રેજી કે હિન્દી માધ્યમનું બાળક 'ઘંટી'ને વગાડવાની ઘંટડી સમજી લે છે, કારણ કે એની પહેલી ભાષામાં એ જ ધ્વનિવાળો શબ્દ ઘંટ-ઘંટડી માટે વપરાય છે. પછી આખું વાક્ય 'વીજળી ઘંટડી વગાડી આપે છે' બની જાય છે, અને બાળક કદી પૂછતું નથી — કારણ કે વાક્ય એને સમજાયું હોય એવું જ લાગે છે.",
+      "correction": "પહેલી જ વાર 'ઘંટી — ઘઉં જેવું અનાજ દળીને લોટ બનાવવાનું સાધન' એમ ગ્લોસ કરો, અને 'ઘંટી' શબ્દ હંમેશાં 'દળવાની' સાથે જ વાપરો — 'ઘઉં દળવાની ઘંટી'. સાથે 'દળવું — અનાજ પીસીને લોટ બનાવવો' પણ ત્યાં જ મૂકો, જેથી અવાજવાળો અર્થ મનમાં ઊભો જ ન થાય."
+    },
+    {
+      "topic_id": "M2.S5.T9",
+      "avoid_checks": [
+        {
+          "check": "Avoid-10 (tacked-on બોધ), bound to this topic: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` closes on 'આપણે વીજળીના તારને કદી અડકવું ન જોઈએ' or any other '… જોઈએ' rule the chapter does not print. દાદાજી's own printed conditional is what is quoted and taught — 'એના તારને અડકીને રાણીને રોકવા માગો, તો તરત જ રાણી ગુસ્સે થાય અને તમને પછાડીને ધરતીને માર્ગે થઈને પાવરહાઉસ પાછી પહોંચી જાય અને કામ બધું અટકી જાય.' The hard safety obligation `08_sensitivity.json` records here is met by teaching that printed consequence and keeping every anchor away from wires, not by appending a rule sentence.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid-1 (frame re-taught as a વાર્તા), bound to this topic: no field treats 'આ તો ભારે જબરી રાણી !' as the story's turn, and no field asks why the children said it. The ખંડ's subject is the two things દાદાજી puts together — this રાણી works without sitting still, and stopping her stops everyone's work.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "છેલ્લા લાંબા વાક્યમાં બાળક 'ધરતીને માર્ગે થઈને' અને 'કામ બધું અટકી જાય' — બંને છોડી દે છે. એને લાગે છે કે તાર અડકનારનું પોતાનું કામ અટકે છે, અથવા વાત ત્યાં જ પતી ગઈ. રાણી પોતાનો ઠરાવેલો રસ્તો છોડીને બીજા રસ્તે ઘેર પહોંચી જાય છે, એટલે બધાનું કામ ઊભું રહી જાય છે — એ જોડાણ બંધાતું નથી.",
+      "correction": "'ધરતીને માર્ગે — જમીનના રસ્તે' એમ ત્યાં જ ગ્લોસ કરો, અને એ જ વાક્યમાં બતાવો કે રાણી તારનો પોતાનો રસ્તો છોડીને બીજા રસ્તે પાવરહાઉસ પાછી પહોંચી જાય છે. પછી 'કામ બધું અટકી જાય' કોનું કામ છે તે નામ દઈને કહો — પંપ, દીવા, લિફ્ટ, ઘંટી — જેથી છેલ્લી કડી બાળક સુધી પહોંચે."
+    },
+    {
+      "topic_id": "M2.S5.T10",
+      "avoid_checks": [
+        {
+          "check": "Avoid-10 (the chapter states its own closing appeal, so quote it), bound to this topic: this topic's `explanation`, `summary`, `detailed_summary` and every `recall_questions[].answer` attribute the closing thought to દાદાજી and stay inside his printed words — 'વીજળીરાણીની જેમ જો ઘેરથી નીકળી ઘેર પાછા આવવાનું રાખીએ, તો સારાં-સારાં કામ થઈ શકે, પણ વચ્ચે ક્યાંક ટોળટપ્પાં કરવા રોકાઈએ તો તોફાનમસ્તી કરી નુકસાન કરવાનું મન થાય.' No field extends it into an unprinted rule ('આપણે સમયસર ઘેર જવું જોઈએ', 'શિસ્ત જરૂરી છે', 'આ પાઠ આપણને શીખવે છે…').",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid-4 (adding what the chapter does not carry), bound to this closing chunk: no field says what happened to રામુ or to the children afterwards. The chunk ends on દાદાજી's sentence and reports no change in anyone — 'રામુને પોતાની ભૂલ સમજાઈ', 'રામુ સુધરી ગયો', 'બધાં છોકરાં સમજી ગયાં' or any other outcome is an addition.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'ટોળટપ્પાં' બાળક પાસે ઉકેલવા જેવો શબ્દ છે, અને એ 'ટોળું' પરથી અડસટ્ટે અર્થ બાંધે છે — 'ટોળામાં ભેગા થવું'. એટલે દાદાજીની છેલ્લી વાત 'ટોળામાં ભળવું ખરાબ' જેવી કંઈક બની જાય છે, જ્યારે પાઠનું પોતાનું છપાયેલું રૂઢિપ્રયોગ-ખાનું કહે છે કે 'ટોળટપ્પાં કરવાં - ઠઠ્ઠા મશકરી કરવી'.",
+      "correction": "પાઠના પોતાના છપાયેલા રૂઢિપ્રયોગ પ્રમાણે 'ટોળટપ્પાં કરવાં — ઠઠ્ઠા મશકરી કરવી' એમ પહેલી જ વાર ગ્લોસ કરો, અને પછી બાળકના શબ્દોમાં એક વાર ફરી કહો — વચ્ચે રસ્તામાં વાતોએ વળગી જવું. 'તોફાનમસ્તી — તોફાન ને મસ્તી' અને 'નુકસાન — ખોટ' પણ ત્યાં જ મૂકો, અને આખી લીટી દાદાજીની જ વાત તરીકે ટાંકો, પાઠનો બોધ તરીકે નહિ."
+    }
+  ],
+  "chapter_level": [
+    "આખો પાઠ વીજળીને રાણી બનાવીને ચાલે છે — એ નીકળે છે, દોડે છે, થાકે છે, ખાય છે, ગુસ્સે થાય છે ને ઘેર પાછી જાય છે. છઠ્ઠા ધોરણે આ ખૂબી બતાવવાની છે, નામ પાડવાની નહિ : 'સજીવારોપણ', 'personification' કે બીજો કોઈ અલંકાર-શબ્દ પ્લાનના કોઈ પણ ક્ષેત્રમાં ન આવે, `figures_of_speech` બધે `[]` રહે (`reference/alankar_chhand.md`નો ધોરણ-દરવાજો). બતાવવાની રીત પ્રશ્નની છે — 'લેખકે વીજળીને માણસની જેમ કયાં કયાં કામ કરાવ્યાં છે ?'",
+    "એનું સામું પાસું પણ એટલું જ કડક : પાઠની આ રાણી-વાળી વાતને વિજ્ઞાન સામે સુધારવાની નથી. 'ખરેખર વીજળી રાણી નથી', 'વૈજ્ઞાનિક રીતે…' જેવું વાક્ય ક્યાંય ન આવે, અને ટર્બાઇન, જનરેટર, વીજપ્રવાહ, પરિપથ, વોલ્ટેજ, ટ્રાન્સફોર્મર, બાષ્પીભવન જેવો પાઠમાં નહિ છપાયેલો શબ્દ પણ નહિ (પ્રોફાઇલ Avoid-5). આ ગુજરાતીનો પાઠ છે, વિજ્ઞાનનો નહિ.",
+    "પાનાની ઉપરની વાદળી પ્રવેશપેટી શિક્ષકને સંબોધીને લખાયેલી છે ('વિજ્ઞાનનો કોઈ આવિષ્કાર આપણા જીવનને કેટલું સરળ બનાવે છે તે બાબતની સમજ આપવી.'). છઠ્ઠા ધોરણનું બાળક પાઠ વાંચવાને બદલે આ પેટીમાંથી ઉત્તર ઉપાડી લે એ આ ધોરણની જાણીતી ભૂલ છે. પ્રવેશપેટીની ભાષા કે એનું 'વિજ્ઞાનનો આવિષ્કાર જીવન સરળ બનાવે છે' એ વાક્ય કોઈ `explanation`, `summary` કે recall `answer`માં ન ઊતરે.",
+    "'ફીડર' શબ્દ આ પાઠના વાચનલખાણમાં ક્યાંય નથી (`04_converged.json`માં નોંધાયેલો ખુલ્લો મુદ્દો) અને કોઈ પણ ક્ષેત્રમાં ન આવે. પાઠે છાપેલી આખી સાંકળ આટલી જ છે : પાવરહાઉસ → 'ખાસ તારનાં દોરડાં' → 'ગ્રિડના તાર' → 'થાંભલા ઉપર ઊંચેઊંચે' → 'ગામ-પરગામ થઈને પાવરહાઉસ પાછા'. વચ્ચે સબસ્ટેશન, ટ્રાન્સફોર્મર, મીટર કે બીજું કોઈ મથક ઉમેરવાનું નથી.",
+    "દ્વિતીય-ભાષાનું જોખમ આ પાઠમાં શબ્દોના રૂપનું છે : શોધાશોધ, ઝરમર ઝરમર, દોડતી-દોડતી, મોટાંમોટાં, ઊંચેઊંચે, સારાં-સારાં, ગામ-પરગામ, સાચવી-સંભાળીને, ટોળટપ્પાં, તોફાનમસ્તી, લોથપોથ, તાજીમાજી — બેવડાયેલા ને જોડિયા શબ્દો પાને પાને છે અને L2 બાળક એમના પર અટકે છે. જ્યાં આવે ત્યાં જ ગ્લોસ કરો, અને બેવડાવાનો ભાવ સાદા શબ્દોમાં કહો — 'ઘણું', 'વારંવાર', 'ચારે બાજુ'. વ્યાકરણનું નામ (દ્વિરુક્તિ, રવાનુકારી) છઠ્ઠા ધોરણે ન આપો.",
+    "પાઠ પોતાનાં બે છપાયેલાં ખાનાં આપે છે — શબ્દાર્થ (અનોખું, ગોકુળ આઠમ, કૌતુક, ઝાટકો, પાવરહાઉસ, ગ્રિડ) અને રૂઢિપ્રયોગ (થાકીને લોથપોથ થઈ જવું, ટોળટપ્પાં કરવાં). આ આઠ શબ્દોના અર્થ માટે એ ખાનાં જ પ્રમાણ છે; એનાથી ખસતો ગ્લોસ ભૂલ ગણાય, અને બીજા કોઈ શબ્દનો અર્થ 'પાઠમાં આપેલો છે' એમ કહી શકાય નહિ.",
+    "પાઠ જે બતાવે છે તે અત્યારે ચાલતું ચિત્ર છે — ખેતરનો પંપ, શહેરના દીવા, લિફ્ટ, ઘઉં દળવાની ઘંટી. કોઈ ક્ષેત્રમાં એને ભૂતકાળમાં ન મૂકો ('પહેલાં એવું થતું', 'એ જમાનામાં') — પ્રોફાઇલ Avoid-8. અને ફ્રેમને વાર્તા તરીકે ફરી ભણાવવાની નથી : પ્લાનમાં કોઈ ટૉપિક `topic_category: \"climax\"` નથી અને એ એમ જ રહે; રામુ કે દાદાજીએ 'કેમ એવું કર્યું' એવો સવાલ કે ઉત્તર કોઈ ક્ષેત્રમાં ન આવે (Avoid-1)."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+ "chapter_id": "gseb_eng_gujarati6_ch9",
+ "textbook_order": [
+  "M1.S1.T1",
+  "M1.S1.T2",
+  "M1.S2.T3",
+  "M1.S2.T4",
+  "M1.S3.T5",
+  "M1.S3.T6",
+  "M1.S4.T7",
+  "M2.S5.T8",
+  "M2.S5.T9",
+  "M2.S5.T10",
+  "M2.S6.T11",
+  "M2.S6.T12",
+  "M2.S7.T13"
+ ],
+ "source": "printed pages 55-57 read off my own renders (pdftoppm -png -r 150, pdf pp. 1-3 of ch-09-garvi-gujaratno-garbo.pdf). The chapter's reading text runs unbroken from 'દર વર્ષે નવરાત્રી આવે...' on printed page 55 to '...કેસરિયો રંગ તને લાગ્યો રે લોલ !' at the foot of printed page 57; printed page 58 onward carries only the શબ્દાર્થ box, the nineteen સ્વાધ્યાય blocks and the end-of-unit 'અલ્પવિરામ અને અવતરણચિહ્ન' grammar box, none of which are topics. The printed order therefore equals the logical order for this માહિતીપ્રદ ગદ્ય chapter - the conversation is taught in the order it is printed.",
+ "printed_page_span": "55-57",
+ "matches_logical_order": true,
+ "human_confirmation_required": true,
+ "reason": "textbook order is identical to logical order",
+ "checked": "05b_textbook_order.json matches the logical traversal exactly; the comparison was made against the rendered printed pages, not assumed"
+}

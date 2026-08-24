@@ -1,0 +1,1134 @@
+{
+  "_comment": "The SECOND deliverable for ધોરણ 7, એકમ 3 'ચક્રવ્યૂહ તૂટ્યો પણ...'. All sixteen printed exercise blocks inventoried in 01_meta.json's exercise_inventory are answered here and nowhere else - સ્વાધ્યાય is never a teaching topic. The GSEB PDF is image-only: every prompt_verbatim is Agent 1's transcription of the rendered pages in output7/ch03/_renders, spot-verified against the renders of printed pp. 15-18 for this file. Field languages follow the pack convention: answer, explanation, acceptable_alternatives and values_filled_for_teaching are child- and class-facing Gujarati; teacher_note carries pipeline mechanism prose in English. Granularity: blocks made of independent numbered questions get one entry per printed item; the four composite blocks (ઘટનાક્રમ, જોડકાં, ખાલી જગ્યા, સંજ્ઞા-કોષ્ટક) and the three single-task blocks get one entry each, with the full filled grid in values_filled_for_teaching - 66 entries covering all 102 inventoried items.",
+  "plan_id": "gseb_eng_gujarati7_ch3_v1",
+  "chapter_id": "gseb_eng_gujarati7_ch3",
+  "subject": "Gujarati",
+  "grade": 7,
+  "chapter_name": "ચક્રવ્યૂહ તૂટ્યો પણ...",
+  "exercises": [
+    {
+      "exercise_id": "EX1",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "1. તમે અભિમન્યુ વિશે આ પહેલાં શું વાંચ્યું / સાંભળ્યું છે ?",
+      "answer": "(એક શક્ય જવાબ) મેં ઘરે વડીલો પાસેથી સાંભળ્યું છે કે અભિમન્યુ અર્જુનનો દીકરો હતો અને એ નાની ઉંમરે ચક્રવ્યૂહમાં એકલો લડ્યો હતો. ટીવીની મહાભારતની ધારાવાહિકમાં પણ મેં એને જોયો છે. આજે આ પાઠમાં એની આખી કથા વાંચવા મળી.",
+      "explanation": "આ ખુલ્લો પ્રશ્ન છે. દરેક બાળકનો જવાબ જુદો હશે — કોઈએ દાદી પાસેથી સાંભળ્યું હશે, કોઈએ ટીવીમાં જોયું હશે, કોઈએ કશું જ સાંભળ્યું નહિ હોય. જે સાચે જ યાદ હોય તે કહેવું એ જ સાચો જવાબ છે.",
+      "acceptable_alternatives": [
+        "મેં આ પહેલાં અભિમન્યુ વિશે કશું સાંભળ્યું નથી; આજે પહેલી વાર જ વાંચ્યું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 1. Oral recall opener. A child who has heard nothing is answering correctly - do not push for a story. Keep TV plot details from replacing the chapter's own text when the class moves on to the reading.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX2",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "2. અભિમન્યુને ચક્રવ્યૂહ ભેદવાનું સંપૂર્ણ જ્ઞાન મળ્યું હોત તો ?",
+      "answer": "(એક શક્ય જવાબ) જો એને પૂરું જ્ઞાન મળ્યું હોત તો એ ચક્રવ્યૂહ ભેદીને પાછો બહાર નીકળવાનો રસ્તો પણ જાણતો હોત, અને સહીસલામત છાવણીમાં પાછો ફર્યો હોત. તો યુધિષ્ઠિરે નિસાસો નાખીને ‘‘ચક્રવ્યૂહ તૂટ્યો પણ આપણો ભડવીર ખૂટ્યો !’’ એમ કહેવું ન પડ્યું હોત.",
+      "explanation": "પાઠ કહે છે કે સુભદ્રા વચ્ચે સૂઈ ગયાં એટલે જ્ઞાન અધૂરું રહી ગયું — ‘તને તો ગર્ભમાંથી જ ચક્રવ્યૂહનું જ્ઞાન મળ્યું છે ! પણ પૂર્ણ નહીં !’ એ અધૂરપ જ કથાનો વળાંક છે. એટલે ‘જો પૂરું જ્ઞાન હોત તો’ એ કલ્પના કરવાની છે, પાઠમાં એનો જવાબ છપાયો નથી.",
+      "acceptable_alternatives": [
+        "પૂરું જ્ઞાન હોત તોય છ યોદ્ધાઓએ ભેગા મળીને નિયમ તોડ્યા હતા, એટલે એકલા જ્ઞાનથી બધું બદલાઈ ન પણ ગયું હોત."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 2. Counterfactual - a std-7 signature move. Accept any reasoned answer; both directions above are defensible. Do not let the discussion drift into wider Mahabharata plot the chapter never prints.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T5",
+        "M3.S6.T12",
+        "M3.S6.T13"
+      ]
+    },
+    {
+      "exercise_id": "EX3",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "3. તમને મામાના ઘરે જવું કે રોકાવું ગમે ? કેમ ?",
+      "answer": "(એક શક્ય જવાબ) હા, મને મામાના ઘરે રોકાવું બહુ ગમે. ત્યાં મામાનાં ભાઈ-બહેન સાથે આખો દિવસ રમવા મળે, મામી ભાવતી વાનગી બનાવે અને કોઈ ‘આ ન કર, પેલું ન કર’ એમ કહેતું નથી.",
+      "explanation": "પાઠમાં અભિમન્યુ પણ દ્વારિકા મામાના ઘરે જાય ત્યારે મામાનાં દીકરા - દીકરીઓ સાથે રમે છે, અને લખ્યું છે કે ‘મામાના ઘરે તો કશી રોકટોક નહિ.’ એ જ અનુભવ સાથે બાળક પોતાનો અનુભવ સરખાવે એ આ પ્રશ્નનો હેતુ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 3. Personal answer; a child with no mama's home nearby may talk about કાકા/ફોઈ/દાદીના ઘર instead - accept it.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX4",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "4. તમે તમારા ઘરે વધુ તોફાન કરો કે તમારા મામાને ઘરે ? શા માટે ?",
+      "answer": "(એક શક્ય જવાબ) હું મામાના ઘરે વધારે તોફાન કરું, કારણ કે ત્યાં કોઈ વઢતું નથી અને બધાં લાડ કરે છે. ઘરે તો ભણવાનું અને કામનું ધ્યાન રાખવું પડે છે.",
+      "explanation": "પાઠની ‘મામાના ઘરે તો કશી રોકટોક નહિ’ એ પંક્તિ સાથે આ પ્રશ્ન સીધો જોડાયેલો છે. બાળક પોતાના ઘર અને મામાના ઘરના નિયમો સરખાવીને બોલે એ જ અપેક્ષા છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 4. Pairs with item 3 - run them together as one short oral round.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX5",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "5. ‘આ કામ તારાથી નહિ થાય, તું નાનો /નાની છે.’ આવું તમને ક્યારેય કોઈ કહે છે ? કયાં કયાં કામ અંગે ?",
+      "answer": "(એક શક્ય જવાબ) હા, મને ઘણી વાર કહેવામાં આવે છે. સાઇકલ લઈને એકલા બજારમાં જવાનું, ગૅસ પર દૂધ ગરમ કરવાનું કે નાના ભાઈને સાચવવાનું કામ મને ‘તું નાનો છે’ કહીને સોંપાતું નથી. મને એ સાંભળીને થાય કે એક વાર તક તો આપો !",
+      "explanation": "કૌરવોએ પણ અભિમન્યુનો રથ આવતો જોઈને કહ્યું હતું - ‘‘લો ! એક નાનું છોકરું આપણી સામે યુદ્ધ કરશે !’’ અને અભિમન્યુએ જવાબમાં કહ્યું - ‘‘છોકરાનું પરાક્રમ જોઈ લો !’’ પોતાની ઉંમરને લીધે ઓછું અંકાવું કેવું લાગે એ બાળક અહીં પોતાના શબ્દોમાં કહે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 5. This is the emotional hinge of the chapter for a std-7 child. Let several children speak. Keep the discussion on being underestimated, not on daring unsafe things to prove a point.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S5.T10",
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX6",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "6. તમે ધનુષ્યબાણ વિશે સાંભળ્યું છે ? ટીવી સિરિયલ કે સિનેમામાં જોયું છે ? કઈ કઈ સિરિયલમાં જોયું છે ?",
+      "answer": "(એક શક્ય જવાબ) હા, મેં ધનુષ્યબાણ વિશે સાંભળ્યું છે. ટીવી પર મહાભારત અને રામાયણની ધારાવાહિકોમાં તથા તીરંદાજીની રમતમાં મેં ધનુષ્યબાણ જોયું છે.",
+      "explanation": "પાઠમાં લખ્યું છે કે ‘અભિમન્યુને પણ નાનપણથી જ પિતા અર્જુનની જેમ ધનુષ્ય - બાણ બહુ ગમે.’ બાળકે જોયેલા ધનુષ્યબાણ સાથે એ વાત જોડવાની છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 6. Accept archery seen in sport (Olympic/khel mahakumbh) as readily as a serial.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX7",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "7. તમે ધનુષ્યબાણ બનાવ્યું છે ? શામાંથી બનાવ્યું છે ?",
+      "answer": "(એક શક્ય જવાબ) હા, મેં વાંસની પાતળી સોટી વાળીને અને દોરી બાંધીને ધનુષ્ય બનાવ્યું હતું, અને સાવરણીની સળી કાપીને બાણ બનાવ્યું હતું.",
+      "explanation": "આ પ્રવૃત્તિ-પ્રશ્ન છે. પાઠના અભિમન્યુને ધનુષ્ય - બાણ ગમતાં હતાં, એટલે બાળક પોતાનો બનાવવાનો અનુભવ કહે એવી અપેક્ષા છે. જેણે બનાવ્યું ન હોય એ ‘ના’ કહે એ પણ સાચો જવાબ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 7. Safety (08_sensitivity, સુરક્ષા): keep this at description and drawing. Do not let it become a mock fight or an aiming game in class.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX8",
+      "exercise_group": "વાતચીત",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "8. અર્જુન કેમ ચક્રવ્યૂહ/યુદ્ધ સમયે અભિમન્યુની સાથે ન હતો ?",
+      "answer": "કારણ કે ત્રિગર્ત દેશના રાજા સુશર્માએ યોજના પ્રમાણે સવારે જ પોતાના સૈન્ય સાથે આવીને અર્જુનને યુદ્ધ માટે લલકાર્યો અને એને કુરુક્ષેત્રથી દૂર લઈ ગયો. ક્ષત્રિય પરંપરા પ્રમાણે લલકાર મળે તો યુદ્ધ કરવું જ પડે, એટલે અર્જુન દૂર ગયો અને ચક્રવ્યૂહ રચાયો ત્યારે એ મેદાનમાં નહોતો.",
+      "explanation": "આ પ્રશ્નનો જવાબ પાઠમાં જ છપાયેલો છે. ગુરુ દ્રોણે કહ્યું હતું - ‘‘અર્જુન તો ચક્રવ્યૂહ પણ ભેદી શકે ! એને જો યુદ્ધના મેદાનથી દૂર લઈ જવામાં આવે તો પાંડવોની હાર નિશ્ચિત !’’ સુશર્માએ એ કામ ઉપાડી લીધું. એટલે અર્જુનની ગેરહાજરી અકસ્માત નહોતી, ગોઠવેલી ચાલ હતી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 8 - the one factual question inside an otherwise oral block, so is_model_answer is false here. Explain 'ક્ષત્રિય પરંપરા' strictly as this story's plot rule (a challenge could not be refused), never as a lesson about caste duty (08_sensitivity, M2.S4.T7).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T7",
+        "M2.S4.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX9",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "9. તમને કોઈ રમત/કરતબ/કૌશલ્ય ફાવે છે ? તમે કોની પાસેથી શીખ્યાં ?",
+      "answer": "(એક શક્ય જવાબ) મને ખો-ખો રમતાં સારું ફાવે છે. હું મારી મોટી બહેન પાસેથી શીખી, અને પછી શાળામાં સાહેબે દોડવાની રીત સુધારી આપી.",
+      "explanation": "અભિમન્યુ ચક્રવ્યૂહ ભેદવાની યુક્તિ - પ્રયુક્તિઓ પોતાના મામા શ્રીકૃષ્ણ પાસેથી શીખ્યો હતો. કોઈ કૌશલ્ય કોઈક પાસેથી શીખવું પડે છે — એ વાત બાળક પોતાના અનુભવથી કહે એ આ પ્રશ્નનો હેતુ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 9. Good closing round: it also sets up the idea of half-learnt skill that the ગર્ભ episode turns on.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX10",
+      "exercise_group": "આપેલાં વાક્યોમાં રેખાંકિત શબ્દને સ્થાને કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરી જુઓ અને કયા વાક્યમાં એ શબ્દ સાચી રીતે વપરાયો છે તે વાક્યની સામે (√ ) કરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "1. અભિમન્યુ માતા જેવો નીડર, પિતા જેવો યોદ્ધો અને મામા જેવો વિચક્ષણ થશે. (બુદ્ધિમાન)\n(અ) એ એટલો બધો વિચક્ષણ છે કે એને કશું સમજાતું જ નથી.\n(બ) મારા કાકાની વિચક્ષણતાને લીધે લોકો એમને બહુ માન આપે છે.",
+      "answer": "(બ) મારા કાકાની વિચક્ષણતાને લીધે લોકો એમને બહુ માન આપે છે. (√)",
+      "explanation": "‘વિચક્ષણ’ એટલે ચતુર, બુદ્ધિમાન — શબ્દાર્થપેટીમાં એ જ અર્થ છપાયો છે. (બ)માં કાકાની બુદ્ધિમત્તાને લીધે લોકો માન આપે છે, એટલે શબ્દ સાચી જગ્યાએ બેસે છે. (અ) લલચાવે છે કારણ કે એમાં પણ ‘વિચક્ષણ’ શબ્દ છે, પણ ત્યાં કહેવાયું છે કે એને કશું સમજાતું નથી — બુદ્ધિમાન હોય એને તો સમજાય; એટલે અર્થ ઊંધો પડે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, item 1. The printed ઉદાહરણ at the head of this block is: 'ઉદાહરણ : સુભદ્રાનાં લગ્ન શ્રીકૃષ્ણના સખા અર્જુન સાથે થયાં હતાં. (મિત્ર) / (અ) હું અને મારી બહેન સરખી ઉંમરનાં છીએ એટલે કે સખા છીએ. / (બ) મારે મારા સખા સાથે દરરોજ વાત થાય છે (√)' - work the example on the board first. The stem words વિચક્ષણ, ભેદતાં, કલહ, બાણશય્યા are printed bold and underlined; the (√ ) is printed with a space inside the bracket in the heading.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX11",
+      "exercise_group": "આપેલાં વાક્યોમાં રેખાંકિત શબ્દને સ્થાને કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરી જુઓ અને કયા વાક્યમાં એ શબ્દ સાચી રીતે વપરાયો છે તે વાક્યની સામે (√ ) કરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "2. જેને ચક્રવ્યૂહ ભેદતાં આવડે એ યોદ્ધો કુશળ કહેવાય ! (તોડતાં)\n(અ) લડાઈના પાંચ કોઠા ભેદતાં તો એને આવડે છે.\n(બ) પાંચ કિલોમીટરનું અંતર ભેદતાં મને એક કલાક થયો.",
+      "answer": "(અ) લડાઈના પાંચ કોઠા ભેદતાં તો એને આવડે છે. (√)",
+      "explanation": "‘ભેદવું’ એટલે તોડવું, છેદ પાડવો. કોઠો કે વ્યૂહ તોડીને અંદર ઘૂસવું હોય ત્યાં ‘ભેદવું’ બરાબર બેસે છે, એટલે (અ) સાચું. (બ) લલચાવે છે કારણ કે ત્યાં પણ ‘પાંચ’ અને અંતરની વાત છે, પણ અંતર તોડાતું નથી — અંતર તો કપાય; ત્યાં ‘કાપતાં’ શબ્દ જોઈએ.",
+      "acceptable_alternatives": [
+        "(બ) સાચું કરવું હોય તો એને આમ લખાય : પાંચ કિલોમીટરનું અંતર કાપતાં મને એક કલાક થયો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, item 2.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX12",
+      "exercise_group": "આપેલાં વાક્યોમાં રેખાંકિત શબ્દને સ્થાને કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરી જુઓ અને કયા વાક્યમાં એ શબ્દ સાચી રીતે વપરાયો છે તે વાક્યની સામે (√ ) કરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "3. કૌરવો અને પાંડવો વચ્ચે રાજ્યના હક્ક બાબતે કલહ થયો. (લડાઈ)\n(અ) મારે મારા મિત્રો સાથે કદી પણ કલહ નથી થયો.\n(બ) આપણે સૌએ કલહથી જીવવું જોઈએ.",
+      "answer": "(અ) મારે મારા મિત્રો સાથે કદી પણ કલહ નથી થયો. (√)",
+      "explanation": "‘કલહ’ એટલે કજિયો, કંકાસ, લડાઈ — શબ્દાર્થપેટીનો પોતાનો અર્થ. કલહ ખરાબ વસ્તુ છે, એટલે ‘કદી કલહ નથી થયો’ એમ કહેવું બરાબર બેસે છે. (બ) લલચાવે છે કારણ કે વાક્ય ઉપદેશ જેવું લાગે છે, પણ ત્યાં અર્થ ઊંધો પડે છે — કલહથી નહિ, સંપથી કે હળીમળીને જીવવું જોઈએ.",
+      "acceptable_alternatives": [
+        "(બ) સાચું કરવું હોય તો : આપણે સૌએ સંપથી જીવવું જોઈએ."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, item 3. The stem prints હક્ક here while the reading text on printed p. 12 prints હક - both kept verbatim, not levelled.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX13",
+      "exercise_group": "આપેલાં વાક્યોમાં રેખાંકિત શબ્દને સ્થાને કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરી જુઓ અને કયા વાક્યમાં એ શબ્દ સાચી રીતે વપરાયો છે તે વાક્યની સામે (√ ) કરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "4. દસમા દિવસે ભીષ્મ બાણશય્યા પર પોઢ્યા. (બાણની પથારી)\n(અ) એ બેભાન થઈને કાંટામાં પડ્યો, જાણે કે બાણશય્યા પર સૂતો હોય.\n(બ) એના સ્વાગત માટે બાણશય્યા પાથરવામાં આવી.",
+      "answer": "(અ) એ બેભાન થઈને કાંટામાં પડ્યો, જાણે કે બાણશય્યા પર સૂતો હોય. (√)",
+      "explanation": "‘બાણશય્યા’ એટલે બાણની પથારી — વાગે એવી, પીડા આપે એવી પથારી. કાંટામાં પડેલા માણસ માટે એ સરખામણી બરાબર બેસે છે, એટલે (અ) સાચું. (બ) લલચાવે છે કારણ કે ‘પાથરવી’ ક્રિયા પથારી સાથે જ વપરાય છે, પણ સ્વાગત તો ફૂલથી કે ગાદલાથી થાય — બાણની પથારી પાથરીને કોઈનું સ્વાગત ન થાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, item 4.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX14",
+      "exercise_group": "પાઠને આધારે આ વાક્યો ખરાં છે ખોટાં તે કહો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "1. બલરામની બહેનનું નામ સુભદ્રા હતું.",
+      "answer": "ખરું",
+      "explanation": "પાઠની પહેલી જ પંક્તિ કહે છે - ‘બલરામ અને શ્રીકૃષ્ણને એક લાડકી બહેન. એનું નામ સુભદ્રા.’",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 1. NOTE ON THE HEADING: the page really does print 'ખરાં છે ખોટાં' without the કે - verified on the render of printed p. 15. Transcription is faithful; do not repair it in prompt_verbatim. The block does not ask the child to correct the false ones, so the answer is just ખરું/ખોટું - the correction is given in explanation as a teaching bonus.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX15",
+      "exercise_group": "પાઠને આધારે આ વાક્યો ખરાં છે ખોટાં તે કહો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "2. અભિમન્યુને ગદાયુદ્ધ કરવાનું ખૂબ ગમતું.",
+      "answer": "ખોટું",
+      "explanation": "પાઠ કહે છે કે અભિમન્યુને ‘નાનપણથી જ પિતા અર્જુનની જેમ ધનુષ્ય - બાણ બહુ ગમે.’ ગદા તો એ ઊંચકવા ગયો ત્યારે ‘હાલે જ નહિ !’ — એટલે ગદાયુદ્ધ નહિ, ધનુર્વિદ્યા એની પ્રિય હતી. સાચું વાક્ય : અભિમન્યુને ધનુષ્ય - બાણ ચલાવવાનું ખૂબ ગમતું.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 2.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX16",
+      "exercise_group": "પાઠને આધારે આ વાક્યો ખરાં છે ખોટાં તે કહો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "3. શ્રીકૃષ્ણ અભિમન્યુને યુદ્ધકલા શીખવતા હતા.",
+      "answer": "ખરું",
+      "explanation": "પાઠમાં લખ્યું છે - ‘મામા એને એ ભેદવાની યુક્તિ - પ્રયુક્તિઓ બતાવે ! અભિમન્યુ એ બધી જ યાદ રાખી લે !’ એટલે શ્રીકૃષ્ણ એને ચક્રવ્યૂહ ભેદવાની કલા શીખવતા હતા. હા, એ જ્ઞાન પૂરું નહોતું — પણ શીખવતા તો હતા જ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 3. Children who remember 'જ્ઞાન અધૂરું હતું' sometimes answer ખોટું - point them to the sentence above: incomplete teaching is still teaching.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX17",
+      "exercise_group": "પાઠને આધારે આ વાક્યો ખરાં છે ખોટાં તે કહો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "4. શ્રીકૃષ્ણએ કૌરવો અને પાંડવો વચ્ચે સુમેળ કરાવ્યો.",
+      "answer": "ખોટું",
+      "explanation": "શ્રીકૃષ્ણ કૌરવોને સમજાવવા ગયા હતા અને પાંડવોને એમનો હક આપવાની વાત કરી હતી, પણ દુર્યોધને કહી દીધું - ‘‘સોયની અણી જેટલી જમીન પણ હું પાંડવોને નહિ આપું !’’ એટલે સુમેળ થયો જ નહિ અને કુરુક્ષેત્રમાં યુદ્ધ થયું. સાચું વાક્ય : શ્રીકૃષ્ણએ સુમેળ કરાવવા પ્રયત્ન કર્યો, પણ સફળ ન થયા.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 4. Keep the answer on 'હક refused', not on one family being wicked (08_sensitivity, M2.S3.T6).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX18",
+      "exercise_group": "પાઠને આધારે આ વાક્યો ખરાં છે ખોટાં તે કહો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "5. વિજયી અભિમન્યુ આનંદ સાથે છાવણીમાં પાછો ફર્યો.",
+      "answer": "ખોટું",
+      "explanation": "અભિમન્યુ ચક્રવ્યૂહમાં એક પછી એક કોઠા ભેદતો ગયો, પણ છ યોદ્ધાઓએ ભેગા મળીને ઘા કર્યા અને એ વીરગતિ પામ્યો. એ પાછો ફર્યો જ નહિ — એટલે જ યુધિષ્ઠિરે કહ્યું, ‘‘ચક્રવ્યૂહ તૂટ્યો પણ આપણો ભડવીર ખૂટ્યો !’’ સાચું વાક્ય : અભિમન્યુ યુદ્ધમાં વીરગતિ પામ્યો અને છાવણીમાં પાછો ફરી શક્યો નહિ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 5. Say what the chapter says, plainly and briefly; do not dwell on the manner of the death (08_sensitivity, M3.S6.T12, hard).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T12",
+        "M3.S6.T13"
+      ]
+    },
+    {
+      "exercise_id": "EX19",
+      "exercise_group": "પાઠને આધારે આ વાક્યો ખરાં છે ખોટાં તે કહો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "6. ચક્રવ્યૂહમાં અભિમન્યુ સામે એકસાથે એક જ યોદ્ધો યુદ્ધ કરતો હતો.",
+      "answer": "ખોટું",
+      "explanation": "પાઠ કહે છે કે ‘યુદ્ધના બધા જ નીતિનિયમોને નેવે મૂકીને જયદ્રથ, દ્રોણ, કૃપાચાર્ય, કર્ણ, દુઃશાસન અને કૃતવર્મા એમ છ - છ યોદ્ધાઓએ ભેગા મળીને અભિમન્યુ પર હલ્લો કર્યો.’ એટલે એની સામે એક નહિ, છ યોદ્ધા એકસાથે હતા — અને એ જ નિયમભંગ હતો. સાચું વાક્ય : ચક્રવ્યૂહમાં અભિમન્યુ સામે એકસાથે છ યોદ્ધાઓ યુદ્ધ કરતા હતા.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 6. This is the block's most important item: it names the rule-break. Land it on fairness in a contest being broken, never on hating the six men (08_sensitivity, hard).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T12"
+      ]
+    },
+    {
+      "exercise_id": "EX20",
+      "exercise_group": "પાઠને આધારે કહો કે આ વાક્યો કોણ બોલી શકે ?",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "1. ‘‘મારું આ હળ ખેતીનું સાધન હોવા છતાં, એને શસ્ત્ર તરીકે પણ વાપરી શકાય.’’",
+      "answer": "બલરામ (બલુમામા)",
+      "explanation": "હળ બલરામનું છે — અભિમન્યુએ એમને જ પૂછ્યું હતું, ‘‘બલુમામા ! બલુમામા! તમારું આ હળ ખેડનું સાધન કહેવાય કે શસ્ત્ર કહેવાય ?’’ ‘મારું આ હળ’ એમ તો હળના માલિક જ કહી શકે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4, item 1. The page itself never answers the boy's question - the chapter leaves the joke standing. Here the exercise puts an answer in Balram's mouth; that is the exercise's move, not the chapter's, so do not carry it back into the reading lesson (07_pitfalls, M1.S1.T2).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX21",
+      "exercise_group": "પાઠને આધારે કહો કે આ વાક્યો કોણ બોલી શકે ?",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "2. ‘‘મારો પુત્ર એના મામા પાસેથી ધનુર્વિદ્યા શીખ્યો છે.’’",
+      "answer": "સુભદ્રા (અભિમન્યુનાં માતા)",
+      "explanation": "‘મારો પુત્ર’ અને ‘એના મામા’ — બંને એક જ વાક્યમાં કહી શકે એવી વ્યક્તિ માતા સુભદ્રા છે, કારણ કે શ્રીકૃષ્ણ અને બલરામ એનાં ભાઈ છે અને એટલે અભિમન્યુના મામા થાય. પાઠમાં પણ મામા શ્રીકૃષ્ણ જ એને શીખવે છે.",
+      "acceptable_alternatives": [
+        "અર્જુન — પિતા પણ ‘મારો પુત્ર’ અને ‘એના મામા’ કહી શકે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4, item 2. Both parents are defensible; સુભદ્રા is the tighter fit because મામા are her own brothers. Use this item to fix the relationship chain the class keeps losing (07_pitfalls, M1.S1.T1 misconception).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S2.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX22",
+      "exercise_group": "પાઠને આધારે કહો કે આ વાક્યો કોણ બોલી શકે ?",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "3. ‘‘ગુરુદેવ, આજે પાંડવ છાવણીમાં રોકકળ થવી જોઈએ.’’",
+      "answer": "દુર્યોધન",
+      "explanation": "‘ગુરુદેવ’ કહીને દ્રોણને સંબોધનાર દુર્યોધન જ છે — પાઠમાં એણે જ કહ્યું હતું, ‘‘કોઈ ચમત્કાર કરો ગુરુદેવ!’’ અને પાંડવોને નુકસાન થાય એવું ઇચ્છનાર પણ એ જ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4, item 3. Anchor on the printed vocative 'ગુરુદેવ' - that is the clue the exercise plants.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T6",
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX23",
+      "exercise_group": "પાઠને આધારે કહો કે આ વાક્યો કોણ બોલી શકે ?",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "4. ‘‘કાકાશ્રી, યુદ્ધના નિયમ તોડતાં તમને શરમ નથી આવતી ?’’",
+      "answer": "અભિમન્યુ",
+      "explanation": "જેની સામે નિયમ તૂટ્યા એ અભિમન્યુ છે — છ યોદ્ધાઓએ ભેગા મળીને એના પર હલ્લો કર્યો હતો. એ છ માં દ્રોણ અને કૃપાચાર્ય જેવા વડીલ ગુરુજનો હતા, એટલે એમને માનસૂચક ‘કાકાશ્રી’ કહીને ઠપકો આપનાર અભિમન્યુ જ હોઈ શકે. પાઠમાં એ કાકા ભીમસેનને પણ ‘કાકા’ કહે છે, એટલે વડીલને એ રીતે સંબોધવાની એની ટેવ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4, item 4. This sentence is not printed in the reading text - it is the exercise's inference item. Accept a child who says 'અભિમન્યુ' without naming which elder he addresses.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T12"
+      ]
+    },
+    {
+      "exercise_id": "EX24",
+      "exercise_group": "પાઠને આધારે કહો કે આ વાક્યો કોણ બોલી શકે ?",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "5. ‘‘મારા પૌત્રને મેં યશસ્વી બનવાના આશીર્વાદ આપીને યુદ્ધમેદાનમાં મોકલ્યો છે.’’",
+      "answer": "કુંતીજી (દાદીમા)",
+      "explanation": "પાઠમાં સ્પષ્ટ છપાયું છે - ‘દાદીમા કુંતીએ એને આશિષ આપ્યા.’ પૌત્ર એટલે દીકરાનો દીકરો; અભિમન્યુ અર્જુનનો દીકરો છે, એટલે કુંતીજી માટે એ પૌત્ર થાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4, item 5. Gloss પૌત્ર at the point of use - many L2 children read it as 'grandson' only after help.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S5.T10"
+      ]
+    },
+    {
+      "exercise_id": "EX25",
+      "exercise_group": "પાઠને આધારે કહો કે આ વાક્યો કોણ બોલી શકે ?",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "6. ‘‘મારી ઉંમર નહિ, પરાક્રમ જુઓ !’’",
+      "answer": "અભિમન્યુ",
+      "explanation": "કૌરવોએ મહેણું માર્યું હતું - ‘‘લો ! એક નાનું છોકરું આપણી સામે યુદ્ધ કરશે !’’ અને અભિમન્યુએ સામે જવાબ આપ્યો હતો - ‘‘છોકરાનું પરાક્રમ જોઈ લો !’’ આ વાક્ય એ જ જવાબનું બીજું રૂપ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4, item 6. Easiest item in the block - a good one to start with.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S5.T10",
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX26",
+      "exercise_group": "પાઠને આધારે કહો કે આ વાક્યો કોણ બોલી શકે ?",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "7. ‘‘મારા શિષ્યનો પુત્ર એના બાપ કરતાં પણ સવાયો છે !’’",
+      "answer": "ગુરુ દ્રોણ",
+      "explanation": "‘મારો શિષ્ય’ કહી શકે એ ગુરુ છે, અને પાઠમાં ગુરુ દ્રોણ જ પોતે કબૂલે છે કે ‘‘અર્જુન તો ચક્રવ્યૂહ પણ ભેદી શકે !’’ એ અર્જુનના ગુરુ છે, એટલે અર્જુનનો પુત્ર અભિમન્યુ એમના શિષ્યનો પુત્ર થાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4, item 7. Hardest item: it needs two steps - who is the ગુરુ, and whose son is અભિમન્યુ. Do it last, on the board.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T7",
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX27",
+      "exercise_group": "નીચેનાં વાક્યોને યોગ્ય ઘટનાક્રમમાં ગોઠવો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "નીચેનાં વાક્યોને યોગ્ય ઘટનાક્રમમાં ગોઠવો.\n1. ગુરુ દ્રોણે કુરુક્ષેત્રમાં ચક્રવ્યૂહ ગોઠવ્યો.\n2. અર્જુનને દૂર લઈ જવામાં કૌરવો સફળ થયા.\n3. શ્રીકૃષ્ણએ અભિમન્યુને ચક્રવ્યૂહની વિગતો સમજાવી.\n4. અભિમન્યુના મૃત્યુથી પાંડવ છાવણીમાં શોક છવાઈ ગયો.\n5. અભિમન્યુએ ગુરુ દ્રોણને હંફાવ્યા.\n6. ચક્રવ્યૂહના સમાચાર જાણીને પાંડવસેના ચિંતિત હતી.\n7. કુંતામાતાએ અભિમન્યુને આશીર્વાદ આપ્યા.\n8. અભિમન્યુએ યુદ્ધ માટે હથિયાર સજાવ્યાં.",
+      "answer": "સાચો ઘટનાક્રમ : 3, 1, 2, 6, 8, 7, 5, 4.",
+      "explanation": "પાઠ જે ક્રમે કથા કહે છે એ જ ક્રમ છે — પહેલાં બાળપણમાં શ્રીકૃષ્ણે ચક્રવ્યૂહની વિગતો સમજાવી (3), પછી યુદ્ધમાં ગુરુ દ્રોણે ચક્રવ્યૂહ રચ્યો (1), સુશર્મા અર્જુનને લલકારીને દૂર લઈ ગયો (2), એટલે પાંડવછાવણીમાં ચિંતા થઈ (6). પછી અભિમન્યુએ બીડું ઝડપીને બખતર - શિરસ્ત્રાણ સજ્યાં (8) અને દાદીમા કુંતીએ આશિષ આપ્યા (7) — પાઠમાં પણ રણવેશ પહેલાં અને આશિષ પછી છપાયા છે. પછી એણે ચક્રવ્યૂહમાં ઘૂસીને કૌરવ યોદ્ધાઓને હંફાવ્યા (5) અને છેલ્લે એની વીરગતિથી છાવણીમાં શોક છવાયો (4).",
+      "acceptable_alternatives": [
+        "7 અને 8 એકસાથે બનેલી ઘટના ગણીને કોઈ બાળક 7, 8 એવો ક્રમ મૂકે તો ચર્ચા કરવી - પાઠ રણવેશ પહેલાં ને આશિષ પછી છાપે છે, એટલે 8, 7 વધુ સાચું."
+      ],
+      "values_filled_for_teaching": "ખાના (□) માં લખવાના ક્રમાંક, ઉપરથી નીચે : વાક્ય 1 → 2, વાક્ય 2 → 3, વાક્ય 3 → 1, વાક્ય 4 → 8, વાક્ય 5 → 7, વાક્ય 6 → 4, વાક્ય 7 → 6, વાક્ય 8 → 5.\nએટલે કે ગોઠવેલો ક્રમ આ પ્રમાણે થાય :\n1. શ્રીકૃષ્ણએ અભિમન્યુને ચક્રવ્યૂહની વિગતો સમજાવી.\n2. ગુરુ દ્રોણે કુરુક્ષેત્રમાં ચક્રવ્યૂહ ગોઠવ્યો.\n3. અર્જુનને દૂર લઈ જવામાં કૌરવો સફળ થયા.\n4. ચક્રવ્યૂહના સમાચાર જાણીને પાંડવસેના ચિંતિત હતી.\n5. અભિમન્યુએ યુદ્ધ માટે હથિયાર સજાવ્યાં.\n6. કુંતામાતાએ અભિમન્યુને આશીર્વાદ આપ્યા.\n7. અભિમન્યુએ ગુરુ દ્રોણને હંફાવ્યા.\n8. અભિમન્યુના મૃત્યુથી પાંડવ છાવણીમાં શોક છવાઈ ગયો.",
+      "teacher_note": "Printed block 5, one composite ordering task with eight printed sentences, each preceded by an empty square box (□) on the render of printed pp. 15-16 - the child writes the serial number in the box, so values_filled_for_teaching gives box-by-box numbers as well as the sorted list. The eight sentences carry the book's own numbering; EX numbering is ours.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T5",
+        "M2.S4.T7",
+        "M2.S4.T8",
+        "M3.S5.T9",
+        "M3.S5.T10",
+        "M3.S6.T11",
+        "M3.S6.T13"
+      ]
+    },
+    {
+      "exercise_id": "EX28",
+      "exercise_group": "પ્રશ્નોના જવાબ આપો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "1. અભિમન્યુ મામાના ઘરે કેમ રહેતો હતો ?",
+      "answer": "કારણ કે મામાનું ઘર એને બહુ ગમતું. દ્વારિકામાં મામાનાં દીકરા - દીકરીઓ સાથે એને રમવા મળતું, ત્યાં કશી રોકટોક નહોતી, કૃષ્ણમામા એને પોતાને ખભે બેસાડતા અને વસુદેવદાદા એને કૃષ્ણમામા તથા બલરામમામાનાં પરાક્રમોની કથા સંભળાવતા. એ ખુશ થઈને તાળી પાડતો અને આખો મહેલ રાજીરાજી થઈ જતો.",
+      "explanation": "પાઠ કહે છે - ‘નાનપણમાં એ મામાના ઘરે દ્વારિકા જાય તો ત્યાં મામાનાં દીકરા - દીકરીઓ સાથે રમે. મામાના ઘરે તો કશી રોકટોક નહિ.’ એટલે કારણ પ્રેમ, રમત અને છૂટ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 6, item 1. Careful: the chapter says he WENT to Dwarika in childhood ('નાનપણમાં એ મામાના ઘરે દ્વારિકા જાય'); it never says he lived there permanently. The question's 'રહેતો હતો' is the exercise's wording - answer within what the text states and do not build a residence story around it.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX29",
+      "exercise_group": "પ્રશ્નોના જવાબ આપો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "2. પાંડવો વનમાં કેમ ગયા હતા ?",
+      "answer": "આ પાઠમાં પાંડવોના વનવાસની વાત ક્યાંય છપાયેલી નથી. પાઠ એટલું જ કહે છે કે હસ્તિનાપુરના રાજ્ય પર પાંડવોનો હક હતો, પણ કૌરવોએ એ રાજ્ય પચાવી પાડ્યું હતું અને એ હકની તકરારમાંથી કુરુક્ષેત્રનું યુદ્ધ થયું. વનવાસનું કારણ જાણવા માટે મહાભારતની બીજી કથાઓ વાંચવી કે વડીલોને પૂછવું પડે.",
+      "explanation": "આ પ્રશ્નનો ઉત્તર પાઠની બહાર છે. પાઠમાં ‘વન’ કે ‘વનવાસ’ શબ્દ એક વાર પણ આવતો નથી — એટલે પાઠને આધારે એટલું જ કહી શકાય કે કૌરવોએ પાંડવોનો હક પચાવી પાડ્યો હતો.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "FLAG - printed block 6, item 2 asks for something this chapter never narrates. The chapter's own text (printed p. 12) jumps straight from the boyhood scenes to 'કૌરવો અને પાંડવો વચ્ચે રાજ્યના હક બાબતે કલહ થયો'. Per no_hallucination_policy and 07_pitfalls chapter-level ('Nothing outside the thirteen original_chunks may enter'), the answer records the gap instead of supplying the dice-game/vanvaas story from general Mahabharata knowledge. A teacher who wants to tell that story should mark it clearly as outside this પાઠ.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX30",
+      "exercise_group": "પ્રશ્નોના જવાબ આપો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "3. પાંડવો અને કૌરવો વચ્ચે શા માટે યુદ્ધ થયું હતું ?",
+      "answer": "રાજ્યના હકની બાબતે. હસ્તિનાપુરના રાજ્ય પર પાંડવોનો હક હતો, પણ કૌરવોએ એ રાજ્ય પચાવી પાડ્યું હતું. શ્રીકૃષ્ણ કૌરવોને સમજાવવા ગયા અને પાંડવોને એમનો હક આપવાની વાત કરી, પણ દુર્યોધને કહી દીધું કે ‘‘સોયની અણી જેટલી જમીન પણ હું પાંડવોને નહિ આપું !’’ એટલે કુરુક્ષેત્રના મેદાનમાં યુદ્ધ થયું.",
+      "explanation": "પાઠમાં કારણ સીધું છપાયેલું છે — ‘કલહ’ રાજ્યના હક બાબતે થયો હતો. દુર્યોધનનું વાક્ય એ કલહને યુદ્ધ સુધી લઈ જાય છે, કારણ કે એણે સમાધાનનો છેલ્લો રસ્તો પણ બંધ કરી દીધો.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 6, item 3. Keep it on a fair claim refused - not on one side being evil by nature (08_sensitivity, M2.S3.T6).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX31",
+      "exercise_group": "પ્રશ્નોના જવાબ આપો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "4. અભિમન્યુને ચક્રવ્યૂહ તોડવાનું કોણે શીખવ્યું હતું ?",
+      "answer": "શ્રીકૃષ્ણમામાએ. પહેલું જ્ઞાન તો એને ગર્ભમાં જ મળી ગયું હતું — સુભદ્રાએ જીદ કરી ત્યારે શ્રીકૃષ્ણે એમને ચક્રવ્યૂહનું જ્ઞાન આપ્યું હતું, પણ સુભદ્રા અધવચ્ચે સૂઈ ગયાં એટલે એ અધૂરું રહી ગયું. પછી પણ મામાને નવરાશ હોય ત્યારે અભિમન્યુ ચક્રવ્યૂહની વાત કાઢતો અને મામા એને ભેદવાની યુક્તિ - પ્રયુક્તિઓ બતાવતા. તોય એને સંપૂર્ણ જ્ઞાન ન મળી શક્યું.",
+      "explanation": "પાઠનું આખું વળાંકબિંદુ આ જ છે : શીખવનાર શ્રીકૃષ્ણ, પણ શીખેલું અધૂરું. શ્રીકૃષ્ણે પોતે કહ્યું છે - ‘‘તને તો ગર્ભમાંથી જ ચક્રવ્યૂહનું જ્ઞાન મળ્યું છે ! પણ પૂર્ણ નહીં !’’ એટલે જવાબમાં ‘કોણે’ સાથે ‘કેટલું’ પણ કહેવું જરૂરી છે.",
+      "acceptable_alternatives": [
+        "શ્રીકૃષ્ણે — પણ અધૂરું; સુભદ્રા સાથે ગર્ભમાં સાંભળેલું જ્ઞાન પૂરું થયું નહોતું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 6, item 4. Do not debunk or defend the foetal-learning premise; teach it as the story tells it (08_sensitivity, chapter-level, ધર્મ).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX32",
+      "exercise_group": "પ્રશ્નોના જવાબ આપો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "5. અભિમન્યુએ કયા કયા યોદ્ધાઓનો સામનો કર્યો ?",
+      "answer": "પાઠ કહે છે કે અભિમન્યુએ જોતજોતામાં કૌરવપક્ષના બધા જ યોદ્ધાઓને હરાવી દીધા. છેલ્લે એની સામે નામ દઈને છ યોદ્ધા આવ્યા — જયદ્રથ, દ્રોણ, કૃપાચાર્ય, કર્ણ, દુઃશાસન અને કૃતવર્મા. એ છએ ભેગા મળીને એના પર હલ્લો કર્યો.",
+      "explanation": "પાઠ કૌરવપક્ષના યોદ્ધા તરીકે ભીષ્મપિતામહ, દ્રોણગુરુ, કૃપાચાર્ય, શકુનિ, શલ્ય, કર્ણ અને અશ્વત્થામાનાં નામ ગણાવે છે, પણ અભિમન્યુ સામે નામ દઈને જે છ આવે છે તે અલગ યાદી છે. જવાબમાં એ છ નામ આપવાં એ સૌથી ચોક્કસ છે.",
+      "acceptable_alternatives": [
+        "કૌરવપક્ષના બધા જ યોદ્ધાઓનો — અને છેલ્લે જયદ્રથ, દ્રોણ, કૃપાચાર્ય, કર્ણ, દુઃશાસન તથા કૃતવર્માનો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 6, item 5. The names are જોડાક્ષર-dense; write them on the board and read them aloud twice - this is the standing L2 hazard of the chapter (07_pitfalls chapter-level).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T6",
+        "M3.S6.T11",
+        "M3.S6.T12"
+      ]
+    },
+    {
+      "exercise_id": "EX33",
+      "exercise_group": "પ્રશ્નોના જવાબ આપો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "6. અર્જુનને યુદ્ધના મેદાનથી દૂર રાખવા કૌરવોએ કઈ યોજના બનાવી ?",
+      "answer": "ગુરુ દ્રોણે કહ્યું કે અર્જુનને મેદાનથી દૂર લઈ જવાય તો પાંડવોની હાર નિશ્ચિત છે. એ સાંભળીને દુર્યોધનની મદદે ત્રિગર્ત દેશનો રાજા સુશર્મા આવ્યો. એણે યોજના આપી કે ‘‘અમે અર્જુનને સવારે જ યુદ્ધ માટે લલકારીશું અને કુરુક્ષેત્રથી દૂર લઈ જશું ! ક્ષત્રિય પરંપરા પ્રમાણે એને અમારી સાથે યુદ્ધ કરવું જ પડશે !’’ બીજે દિવસે સવારે એ યોજના પ્રમાણે જ થયું.",
+      "explanation": "યોજનાની ચાવી લલકારમાં છે : એ સમયના નિયમ પ્રમાણે લલકાર મળે તો યોદ્ધાએ યુદ્ધ કરવું જ પડે, એટલે અર્જુન ના પાડી શકે નહિ. સુશર્માનું પોતાનું કારણ પણ પાઠમાં છે — ‘‘અર્જુને ભૂતકાળમાં મને અને મારા ભાઈઓને બહુ પીડ્યા છે !’’",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 6, item 6. Name Sushrma's motive as બદલો without holding it up as admirable, and keep 'ક્ષત્રિય પરંપરા' as this story's plot rule only (08_sensitivity, M2.S4.T7).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T7",
+        "M2.S4.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX34",
+      "exercise_group": "પ્રશ્નોના જવાબ આપો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "7. અભિમન્યુને જોઈને શરૂઆતમાં કૌરવોને કેવું લાગ્યું ?",
+      "answer": "કૌરવોને એ સાવ નાનો લાગ્યો અને એમણે એને હલકો ગણ્યો. એનો રથ આવતો જોઈને એમણે મહેણું માર્યું - ‘‘લો ! એક નાનું છોકરું આપણી સામે યુદ્ધ કરશે !’’ પણ થોડી જ વારમાં એનું પરાક્રમ જોઈને એ જ શત્રુઓ ‘વાહ!’ બોલી ઊઠ્યા.",
+      "explanation": "‘શરૂઆતમાં’ શબ્દ પ્રશ્નમાં જ સંકેત આપે છે કે પછી એમનો મત બદલાયો. પાઠ બંને ક્ષણ છાપે છે — પહેલાં હાંસી, પછી ‘ધન્ય હો તારી જનેતાને !’ સુધીની પ્રશંસા.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 6, item 7. The full answer needs both halves - the taunt and the turn. Do not repeat the taunt as a joke about a child's size (08_sensitivity, M3.S6.T11).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S5.T10",
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX35",
+      "exercise_group": "પ્રશ્નોના જવાબ આપો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "8. અભિમન્યુ સાતમો કોઠો પણ ભેદી શક્યો હોત તો શું થાત ?",
+      "answer": "(એક શક્ય જવાબ) જો એ છેલ્લો કોઠો પણ ભેદી શક્યો હોત તો ગુરુ દ્રોણનો રચેલો આખો ચક્રવ્યૂહ નકામો થઈ જાત, કૌરવોની યોજના ધૂળમાં મળી જાત અને પાંડવસેનાનું પલ્લું ભારે થઈ જાત. અભિમન્યુ સહીસલામત છાવણીમાં પાછો ફર્યો હોત અને અર્જુન પાછો આવત ત્યારે એને પોતાના પુત્રનું પરાક્રમ સાંભળવા મળત — શોકના બદલે છાવણીમાં આનંદ હોત.",
+      "explanation": "આ ‘જો... હોત તો ?’ પ્રકારનો કલ્પના-પ્રશ્ન છે, એટલે એનો એક જ સાચો જવાબ નથી. પાઠમાં કોઠાની સંખ્યા ગણાવી નથી — ત્યાં એટલું જ છે કે ‘એક પછી એક કોઠા ભેદતો અભિમન્યુ આગળ વધતો ગયો.’ ‘સાતમો કોઠો’ સ્વાધ્યાયનો શબ્દ છે, અને એને આધારે બાળક કલ્પના કરે એ અપેક્ષિત છે.",
+      "acceptable_alternatives": [
+        "કૌરવોએ તો નિયમ તોડીને છ જણ ભેગા થઈને હુમલો કર્યો હતો, એટલે સાતમો કોઠો ભેદાયો હોત તોય એ કપટ થાત જ - એવો જવાબ પણ ચર્ચા માટે સાચો ગણાય."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 6, item 8 - the std-7 counterfactual signature. IMPORTANT: the seven-કોઠા count comes from the exercise, not from the reading text (07_pitfalls chapter-level forbids it inside the plan). It is legitimate here because the book prints it; keep it out of the teaching explanations.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S6.T11",
+        "M3.S6.T12",
+        "M3.S6.T13"
+      ]
+    },
+    {
+      "exercise_id": "EX36",
+      "exercise_group": "પ્રશ્નોના જવાબ આપો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "9. આ પાઠનું શીર્ષક ‘‘ચક્રવ્યૂહ તૂટ્યો પણ ભડવીર ખૂટ્યો’’ એવું કેમ છે ?",
+      "answer": "કારણ કે આ શબ્દો પાઠના છેલ્લા વાક્યમાં યુધિષ્ઠિરના મોઢે બોલાયેલા છે. અભિમન્યુએ કામ તો પાર પાડ્યું — ચક્રવ્યૂહ તૂટ્યો, કૌરવોની યોજના સફળ ન થઈ. પણ એ કરવામાં પાંડવોએ પોતાનો ભડવીર ગુમાવ્યો — ‘ખૂટ્યો’ એટલે ખોટ પડી. એટલે શીર્ષક એક જ શ્વાસમાં જીત અને ખોટ બંને કહી દે છે, અને એ જ આખી કથાનો ભાવ છે.",
+      "explanation": "‘પણ’ શબ્દ શીર્ષકનો સૌથી મહત્ત્વનો શબ્દ છે : એની આગળ જીત છે અને પાછળ ખોટ. શબ્દાર્થપેટી પણ ‘ખૂટ્યો (અહીં) - ખોટ પડવી’ એમ ગ્લોસ આપે છે, એટલે અહીં ‘ખૂટ્યો’નો અર્થ ‘પૂરો થઈ ગયો’ નહિ પણ ‘એની ખોટ પડી’ એવો છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 6, item 9. Note for the class: the title bar on printed p. 11 prints only 'ચક્રવ્યૂહ તૂટ્યો પણ...' with an ellipsis; this question quotes યુધિષ્ઠિર's full sentence, which is what the ellipsis holds back. That contrast is worth showing on the board.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T13"
+      ]
+    },
+    {
+      "exercise_id": "EX37",
+      "exercise_group": "જોડકાં જોડો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "જોડકાં જોડો.\nઅ | બ\nપિતાની ગેરહાજરીમાં યુદ્ધની | એક નાના છોકરાથી હારી જઈશું ?\nઆપણે આટલા બધા યોદ્ધાઓ | પણ એ અમર થઈ ગયો.\nમામા બલરામ અને શ્રીકૃષ્ણ સાથે | યોદ્ધાઓના ચરિત્ર પર કલંક લાગ્યું.\nકૌરવોએ અભિમન્યુને કપટથી માર્યો | જવાબદારી અભિમન્યુએ લીધી.\nપાંડવસેના કટોકટીના સમયે | અભિમન્યુ દરરોજ યુદ્ધવિદ્યાની વાતો કરતો.\nઅભિમન્યુના બલિદાનથી કૌરવસેનાના કેટલાક | અભિમન્યુને મદદ ન કરી શકી.",
+      "answer": "પિતાની ગેરહાજરીમાં યુદ્ધની — જવાબદારી અભિમન્યુએ લીધી.\nઆપણે આટલા બધા યોદ્ધાઓ — એક નાના છોકરાથી હારી જઈશું ?\nમામા બલરામ અને શ્રીકૃષ્ણ સાથે — અભિમન્યુ દરરોજ યુદ્ધવિદ્યાની વાતો કરતો.\nકૌરવોએ અભિમન્યુને કપટથી માર્યો — પણ એ અમર થઈ ગયો.\nપાંડવસેના કટોકટીના સમયે — અભિમન્યુને મદદ ન કરી શકી.\nઅભિમન્યુના બલિદાનથી કૌરવસેનાના કેટલાક — યોદ્ધાઓના ચરિત્ર પર કલંક લાગ્યું.",
+      "explanation": "દરેક જોડું એક આખું વાક્ય બને એ રીતે જોડવાનું છે. ‘પિતાની ગેરહાજરીમાં’ પછી ‘જવાબદારી લીધી’ જ બેસે, કારણ કે અર્જુન દૂર હતો ત્યારે અભિમન્યુએ કહ્યું હતું ‘‘હું છું ને !’’. ‘આપણે આટલા બધા યોદ્ધાઓ’ કૌરવોના મહેણા ‘‘લો ! એક નાનું છોકરું...’’ સાથે જોડાય. ‘મામા બલરામ અને શ્રીકૃષ્ણ સાથે’ બાળપણની ચક્રવ્યૂહ-ચર્ચા સાથે જોડાય. ‘કપટથી માર્યો’ પછી ‘પણ એ અમર થઈ ગયો’ — ‘પણ’ શબ્દ વળાંક બતાવે છે. ‘પાંડવસેના કટોકટીના સમયે’ પછી ‘મદદ ન કરી શકી’, અને છેલ્લે બલિદાનથી કૌરવ યોદ્ધાઓના ચરિત્ર પર કલંક લાગ્યું — કારણ કે એમણે નિયમ તોડ્યા હતા.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "કોષ્ટકમાં લખવાના જવાબ (અ → બ) : 1 → 4, 2 → 1, 3 → 5, 4 → 2, 5 → 6, 6 → 3.",
+      "teacher_note": "Printed block 7. On the render of printed p. 16 this is a two-column bordered કોષ્ટક with headings અ and બ; the six બ-fragments are printed in a different order from their matches, so the child draws lines or writes numbers. values_filled_for_teaching gives the row-number mapping for quick correction.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T3",
+        "M3.S5.T9",
+        "M3.S5.T10",
+        "M3.S6.T12",
+        "M3.S6.T13"
+      ]
+    },
+    {
+      "exercise_id": "EX38",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરીને પ્રશ્ન બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "1. અભિમન્યુએ અદ્ભુત પરાક્રમ કર્યું. (કોણે)",
+      "answer": "કોણે અદ્ભુત પરાક્રમ કર્યું ?",
+      "explanation": "‘કોણે’ કર્તા પૂછે છે, એટલે વાક્યમાંથી કર્તા ‘અભિમન્યુએ’ કાઢીને એની જગ્યાએ ‘કોણે’ મૂકવાનું છે. બાકીનું વાક્ય જેમનું તેમ રહે અને છેડે પ્રશ્નચિહ્ન આવે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8, item 1. Point out that the -એ of અભિમન્યુએ is already inside કોણે - the child should not write 'કોણેએ'.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX39",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરીને પ્રશ્ન બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "2. શસ્ત્રો ખૂટી પડ્યાં તો અભિમન્યુએ રથના પૈડાથી પ્રહાર કર્યો. (શાનાથી)",
+      "answer": "શસ્ત્રો ખૂટી પડ્યાં તો અભિમન્યુએ શાનાથી પ્રહાર કર્યો ?",
+      "explanation": "‘શાનાથી’ સાધન પૂછે છે — કઈ વસ્તુ વડે. વાક્યમાં સાધન ‘રથના પૈડાથી’ છે, એટલે એની જગ્યાએ ‘શાનાથી’ મૂકવાનું.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8, item 2. The chariot-wheel detail is NOT in the printed reading text; it comes from the illustration on printed p. 13 and from this exercise. The task is only to frame the question - do not carry the detail back into the reading lesson.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX40",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરીને પ્રશ્ન બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "3. અભિમન્યુનું પરાક્રમ જોઈને કૌરવો દંગ રહી ગયા. (શાથી)",
+      "answer": "કૌરવો શાથી દંગ રહી ગયા ?",
+      "explanation": "‘શાથી’ કારણ પૂછે છે. વાક્યનું કારણ ‘અભિમન્યુનું પરાક્રમ જોઈને’ છે, એટલે એ આખો ભાગ કાઢીને ‘શાથી’ મૂકવાનું.",
+      "acceptable_alternatives": [
+        "અભિમન્યુનું શું જોઈને કૌરવો દંગ રહી ગયા ? - આ રચના પણ સમજાય, પણ કૌંસમાં 'શાથી' આપ્યું છે એટલે ઉપરનો જવાબ અપેક્ષિત છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8, item 3. Contrast શાનાથી (instrument) with શાથી (cause) side by side - the pair is the point of items 2 and 3.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX41",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરીને પ્રશ્ન બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "4. અભિમન્યુએ એકસાથે અનેક બાણ છોડીને આકાશમાં વાદળ જેવું બનાવી દીધું. (કેવી રીતે)",
+      "answer": "અભિમન્યુએ આકાશમાં વાદળ જેવું કેવી રીતે બનાવી દીધું ?",
+      "explanation": "‘કેવી રીતે’ પ્રકાર કે રીત પૂછે છે. વાક્યમાં રીત ‘એકસાથે અનેક બાણ છોડીને’ છે, એટલે એ ભાગને ‘કેવી રીતે’થી બદલવાનો.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8, item 4. The arrow-cloud image is the exercise's own, not the chapter's printed text.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX42",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરીને પ્રશ્ન બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "5. અભિમન્યુએ એક પછી એક બધા કૌરવ મહારથીઓને હરાવી દીધા હતા. (કોને)",
+      "answer": "અભિમન્યુએ એક પછી એક કોને હરાવી દીધા હતા ?",
+      "explanation": "‘કોને’ કર્મ પૂછે છે. વાક્યનું કર્મ ‘બધા કૌરવ મહારથીઓને’ છે, એટલે એની જગ્યાએ ‘કોને’ મૂકવાનું.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8, item 5. Together with item 1 this shows the કોણ / કોણે / કોને trio - a std-7 grammar row (લિંગ-વચન-વિભક્તિ ladder).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX43",
+      "exercise_group": "નીચેનાં વાક્યોમાં રેખાંકિત શબ્દને બદલે કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરી, જરૂરી ફેરફાર કરીને વાક્યો ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "1. એક બાણ આવ્યું અને દુશ્મનને વીંધીને નીકળી ગયું (અનેક)",
+      "answer": "અનેક બાણ આવ્યાં અને દુશ્મનને વીંધીને નીકળી ગયાં.",
+      "explanation": "‘એક’ને બદલે ‘અનેક’ મૂકતાં વચન એકવચનમાંથી બહુવચન થાય છે, એટલે ક્રિયાપદ પણ બદલવાં પડે : ‘આવ્યું’ → ‘આવ્યાં’ અને ‘નીકળી ગયું’ → ‘નીકળી ગયાં’. એ જ ‘જરૂરી ફેરફાર’ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9, item 1. The book prints this sentence without a closing full stop - kept verbatim in the prompt; the child's rewritten sentence should carry one. Underlined word: એક.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX44",
+      "exercise_group": "નીચેનાં વાક્યોમાં રેખાંકિત શબ્દને બદલે કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરી, જરૂરી ફેરફાર કરીને વાક્યો ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "2. ગઈકાલે બધા મહારથીઓ સામે અભિમન્યુ એકલો લડ્યો હતો. (લડશે)",
+      "answer": "આવતીકાલે બધા મહારથીઓ સામે અભિમન્યુ એકલો લડશે.",
+      "explanation": "‘લડ્યો હતો’ ભૂતકાળ છે અને ‘લડશે’ ભવિષ્યકાળ. કાળ બદલાય એટલે સમય બતાવતો શબ્દ પણ બદલવો પડે — ‘ગઈકાલે’ ભૂતકાળનો શબ્દ છે, એટલે એની જગ્યાએ ‘આવતીકાલે’ મૂકવું પડે.",
+      "acceptable_alternatives": [
+        "આજે બધા મહારથીઓ સામે અભિમન્યુ એકલો લડશે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9, item 2. This is the કાળ row of the std-7 ladder. The time-word swap is exactly what 'જરૂરી ફેરફાર' means - most children change only the verb. Underlined word: લડ્યો.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX45",
+      "exercise_group": "નીચેનાં વાક્યોમાં રેખાંકિત શબ્દને બદલે કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરી, જરૂરી ફેરફાર કરીને વાક્યો ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "3. વીર યોદ્ધો હવે થાક્યો છે. (યોદ્ધા)",
+      "answer": "વીર યોદ્ધા હવે થાક્યા છે.",
+      "explanation": "‘યોદ્ધો’ એકવચન છે અને ‘યોદ્ધા’ બહુવચન. કર્તા બહુવચનમાં જાય એટલે ક્રિયાપદ પણ બહુવચનમાં જાય : ‘થાક્યો છે’ → ‘થાક્યા છે’.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9, item 3. વચન agreement. Underlined word: યોદ્ધો.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX46",
+      "exercise_group": "નીચેનાં વાક્યોમાં રેખાંકિત શબ્દને બદલે કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરી, જરૂરી ફેરફાર કરીને વાક્યો ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "4. આ વેકેશનમાં મારે મહાભારત વાંચવું છે. (મહાભારત અને રામાયણ)",
+      "answer": "આ વેકેશનમાં મારે મહાભારત અને રામાયણ વાંચવાં છે.",
+      "explanation": "કર્મ એકમાંથી બે થાય એટલે ક્રિયાપદ પણ બહુવચનમાં જાય : ‘વાંચવું છે’ → ‘વાંચવાં છે’. ગુજરાતીમાં ક્રિયાપદ કર્મ સાથે મેળ ખાય એ આ વાક્યનો શીખવાનો મુદ્દો છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "UNMAPPED - printed block 9, item 4. Its content word મહાભારત appears in this chapter only in the teacher-addressed પ્રવેશપેટી, which 04_converged deliberately did not cut as a topic; no reading scene carries it, so covered_by_topics is empty and the item is recorded in coverage_report.unmapped. Underlined word: મહાભારત.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX47",
+      "exercise_group": "નીચેનાં વાક્યોમાં રેખાંકિત શબ્દને બદલે કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરી, જરૂરી ફેરફાર કરીને વાક્યો ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "5. કર્ણનો રથ તૂટી ગયો. (રથની ધજા)",
+      "answer": "કર્ણના રથની ધજા તૂટી ગઈ.",
+      "explanation": "‘રથ’ પુલ્લિંગ છે અને ‘ધજા’ સ્ત્રીલિંગ. કર્તા બદલાય એટલે બે ફેરફાર થાય : ‘કર્ણનો’ → ‘કર્ણના’ (કારણ કે હવે એ ‘રથની ધજા’ સાથે જોડાય છે) અને ક્રિયાપદ ‘તૂટી ગયો’ → ‘તૂટી ગઈ’.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9, item 5 - the hardest of the five, because two words change, not one. Do it on the board. લિંગ agreement. Underlined word: રથ.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX48",
+      "exercise_group": "નીચેનાં વાક્યોમાંથી ખોટો શબ્દ છેકી વાક્ય ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "1. બીકના માર્યા કૌરવો રણ છોડીને ભાગ્યા / ભાંગ્યા.",
+      "answer": "બીકના માર્યા કૌરવો રણ છોડીને ભાગ્યા. (‘ભાંગ્યા’ છેકવું)",
+      "explanation": "‘ભાગવું’ એટલે દોડીને નાસી જવું; ‘ભાંગવું’ એટલે તૂટવું. અહીં કૌરવો નાસી જાય છે, એટલે ‘ભાગ્યા’ સાચું. અનુસ્વારનું એક ટપકું અર્થ સાવ બદલી નાખે છે — એ જ આ સ્વાધ્યાયનો મુદ્દો છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10, item 1. અનુસ્વાર minimal pair ભાગી/ભાંગી - a measured std-7/8 grammar row. Say both words aloud, nasal and non-nasal.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX49",
+      "exercise_group": "નીચેનાં વાક્યોમાંથી ખોટો શબ્દ છેકી વાક્ય ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "2. કૌરવ યોદ્ધાઓના આંતક / આતંક સામે અભિમન્યુ અણનમ રહ્યો.",
+      "answer": "કૌરવ યોદ્ધાઓના આતંક સામે અભિમન્યુ અણનમ રહ્યો. (‘આંતક’ છેકવું)",
+      "explanation": "સાચી જોડણી ‘આતંક’ છે — અનુસ્વાર ‘ત’ પર નહિ, પણ પછીના અક્ષર પર આવે છે. ‘આંતક’ એ સાંભળવામાં સરખો લાગતો ખોટો શબ્દ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10, item 2. Pure જોડણી item; write both forms on the board and mark where the અનુસ્વાર belongs.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX50",
+      "exercise_group": "નીચેનાં વાક્યોમાંથી ખોટો શબ્દ છેકી વાક્ય ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "3. દરેક યોદ્ધાને અભિમન્યુ હરાવી / હારી શકે એવો શક્તિશાળી હતો.",
+      "answer": "દરેક યોદ્ધાને અભિમન્યુ હરાવી શકે એવો શક્તિશાળી હતો. (‘હારી’ છેકવું)",
+      "explanation": "‘હારવું’ એટલે પોતે હારી જવું; ‘હરાવવું’ એટલે બીજાને હરાવવો. વાક્યમાં કર્મ ‘દરેક યોદ્ધાને’ છે, એટલે ક્રિયા બીજા પર જાય છે — ‘હરાવી શકે’ સાચું. ‘હારી શકે’ મૂકીએ તો અર્થ ઊંધો થઈ જાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10, item 3. This is the પ્રેરક/transitive contrast in child-sized form; the -આવ- infix is the clue.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX51",
+      "exercise_group": "નીચેનાં વાક્યોમાંથી ખોટો શબ્દ છેકી વાક્ય ફરીથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "4. નિયમભંગ કરીને છ યોદ્ધાઓએ અભિમન્યુને કપટથી / બહાદુરીથી માર્યો.",
+      "answer": "નિયમભંગ કરીને છ યોદ્ધાઓએ અભિમન્યુને કપટથી માર્યો. (‘બહાદુરીથી’ છેકવું)",
+      "explanation": "વાક્યની શરૂઆતમાં જ ‘નિયમભંગ કરીને’ છે — નિયમ તોડીને કરેલું કામ બહાદુરી ન કહેવાય. પાઠ પણ કહે છે કે ‘યુદ્ધના બધા જ નીતિનિયમોને નેવે મૂકીને’ છ યોદ્ધાઓએ ભેગા મળીને હલ્લો કર્યો. એટલે ‘કપટથી’ જ બેસે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10, item 4. The one meaning-based item in a spelling block, and the chapter's moral hinge: six against one, rules set aside. Land it on fair play in a game, not on hating the six (08_sensitivity, M3.S6.T12, hard).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T12"
+      ]
+    },
+    {
+      "exercise_id": "EX52",
+      "exercise_group": "નીચેનાં વાક્યોમાંથી ખોટો શબ્દ છેકી વાક્ય ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "5. દાદીના આશીર્વાદ / આર્શીવાદ લઈને અભિમન્યુ યુદ્ધમાં ઊતર્યો.",
+      "answer": "દાદીના આશીર્વાદ લઈને અભિમન્યુ યુદ્ધમાં ઊતર્યો. (‘આર્શીવાદ’ છેકવું)",
+      "explanation": "સાચી જોડણી ‘આશીર્વાદ’ છે — ‘શી’ પછી ‘ર્વા’ આવે. ‘આર્શીવાદ’માં રેફ ખોટી જગ્યાએ ચઢી ગયો છે. પાઠમાં પણ ‘દાદીમા કુંતીએ એને આશિષ આપ્યા’ એ પ્રસંગ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10, item 5. A rephavaali જોડણી trap; show the syllable split આ-શી-ર્વા-દ.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S5.T10"
+      ]
+    },
+    {
+      "exercise_id": "EX53",
+      "exercise_group": "નીચેનાં વાક્યોમાંથી ખોટો શબ્દ છેકી વાક્ય ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "6. અભિમન્યુ નાનપણથી જ યોદ્ધો / યુદ્ધ બનવા ઇચ્છતો હતો.",
+      "answer": "અભિમન્યુ નાનપણથી જ યોદ્ધો બનવા ઇચ્છતો હતો. (‘યુદ્ધ’ છેકવું)",
+      "explanation": "‘યુદ્ધ’ એટલે લડાઈ અને ‘યોદ્ધો’ એટલે લડનાર માણસ. માણસ ‘યુદ્ધ’ ન બની શકે, ‘યોદ્ધો’ બની શકે. પાઠમાં અભિમન્યુ પોતે કહે છે - ‘‘હું પણ પિતાશ્રીના જેવો જ મહાન યોદ્ધો બનીશ !’’",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10, item 6. Easiest item; the chapter gives the answer in the boy's own printed words.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX54",
+      "exercise_group": "નીચેનાં વાક્યોમાંથી ખોટો શબ્દ છેકી વાક્ય ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "7. કૌરવોમાં અભિમન્યુને જીતવાનું સમર્થ / સામર્થ્ય નહોતું.",
+      "answer": "કૌરવોમાં અભિમન્યુને જીતવાનું સામર્થ્ય નહોતું. (‘સમર્થ’ છેકવું)",
+      "explanation": "‘સમર્થ’ વિશેષણ છે (સમર્થ યોદ્ધા) અને ‘સામર્થ્ય’ નામ છે (શક્તિ). અહીં ‘...નું ........ નહોતું’ એવી રચના છે, જ્યાં નામ જોઈએ — એટલે ‘સામર્થ્ય’ સાચું. પાઠમાં ‘સમર્થ યોદ્ધા’ એમ વિશેષણ તરીકે વપરાયું છે, એ સરખાવવા જેવું છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10, item 7. વિશેષણ vs ભાવવાચક નામ - a good bridge to blocks 15 and 16 on the next page.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX55",
+      "exercise_group": "નીચેના શબ્દોનો ઉપયોગ કરીને અભિમન્યુ વિશે સાત - આઠ લીટીમાં વર્ણન કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "નીચેના શબ્દોનો ઉપયોગ કરીને અભિમન્યુ વિશે સાત - આઠ લીટીમાં વર્ણન કરો.\nસુભદ્રા, અભિમન્યુ, નાની ઉંમર, પરાક્રમ, ચક્રવ્યૂહ, હિંમત, શોક, દ્રોણ, છળકપટ, અર્જુન, કૌરવ, પાંડવ, મહાભારત",
+      "answer": "(એક શક્ય વર્ણન)\nમહાભારતની કથાનું એક તેજસ્વી પાત્ર એટલે અભિમન્યુ. એ વીર અર્જુન અને નીડર સુભદ્રાનો પુત્ર હતો. નાનપણથી જ એને ધનુષ્ય - બાણ ગમતાં અને એ મામા શ્રીકૃષ્ણ પાસેથી ચક્રવ્યૂહ ભેદવાની યુક્તિઓ શીખતો. ગર્ભમાં જ એને ચક્રવ્યૂહનું જ્ઞાન મળ્યું હતું, પણ એ અધૂરું રહી ગયું હતું.\nકુરુક્ષેત્રમાં ગુરુ દ્રોણે ચક્રવ્યૂહ રચ્યો ત્યારે અર્જુન મેદાનમાં નહોતો. એવી કટોકટીમાં નાની ઉંમરના અભિમન્યુએ હિંમત કરીને કહ્યું - ‘‘હું છું ને !’’ અને એણે એ જવાબદારી ઉપાડી લીધી.\nએણે એક પછી એક કોઠા ભેદ્યા અને પોતાના પરાક્રમથી કૌરવ યોદ્ધાઓને હંફાવી દીધા. શરીરે ઘા પડ્યા તોય એ ડર્યો નહિ કે ડગ્યો નહિ. છેવટે છ યોદ્ધાઓએ યુદ્ધના નિયમો તોડીને છળકપટથી એના પર ભેગા મળીને હુમલો કર્યો અને એ વીરગતિ પામ્યો.\nએના જવાથી પાંડવ છાવણીમાં શોક છવાઈ ગયો. ચક્રવ્યૂહ તૂટ્યો, પણ ભડવીર ખૂટ્યો — એટલે જ આજે પણ અભિમન્યુનું નામ હિંમત અને પરાક્રમના પર્યાય તરીકે લેવાય છે.",
+      "explanation": "તેર શબ્દોની યાદી પોતે જ વર્ણનનો ક્રમ આપી દે છે — કુટુંબ (સુભદ્રા, અર્જુન), ઉંમર અને શીખેલી વિદ્યા (નાની ઉંમર, ચક્રવ્યૂહ), પરાક્રમ અને હિંમત, પછી દ્રોણ - કૌરવ - છળકપટ અને છેલ્લે શોક. બાળક એ ક્રમે લખે તો સાત - આઠ લીટી સહેલાઈથી થાય અને બધા શબ્દો વપરાઈ જાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "યાદીના તેરેય શબ્દો ઉપરના નમૂનામાં ક્યાં વપરાયા છે : મહાભારત (પહેલી લીટી), અભિમન્યુ (પહેલી લીટી), અર્જુન અને સુભદ્રા (બીજી લીટી), ચક્રવ્યૂહ (ત્રીજી લીટી), દ્રોણ (પાંચમી લીટી), નાની ઉંમર અને હિંમત (છઠ્ઠી લીટી), પરાક્રમ (સાતમી લીટી), કૌરવ (સાતમી લીટી), છળકપટ (આઠમી લીટી), પાંડવ અને શોક (નવમી લીટી).",
+      "teacher_note": "Printed block 11 - one composite writing task (items: 1). Give it as written homework after the oral blocks. Mark on two things only: all thirteen words used, and seven to eight lines. Model answer, not the answer.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S2.T5",
+        "M2.S4.T7",
+        "M3.S5.T9",
+        "M3.S5.T10",
+        "M3.S6.T11",
+        "M3.S6.T12",
+        "M3.S6.T13"
+      ]
+    },
+    {
+      "exercise_id": "EX56",
+      "exercise_group": "કૌંસમાંથી યોગ્ય વિકલ્પ પસંદ કરી ખાલી જગ્યા પૂરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "કૌંસમાંથી યોગ્ય વિકલ્પ પસંદ કરી ખાલી જગ્યા પૂરો.\n(યુદ્ધ, મહારથીઓ, દુશ્મન, હંફાવતો, અનેક, સામનો, ચક્રવ્યૂહ, અભિમન્યુ, યોદ્ધા)\n\nગુરુ દ્રોણના રચેલા ચક્રવ્યૂહમાં ........ પ્રવેશ્યો. આટલી નાની ઉંમરનો કોઈ યોદ્ધો ........ ભેદી શકે એ જોઈને ગુરુ દ્રોણ અને બીજા કૌરવ ........ આશ્ચર્યચકિત બની ગયા. અભિમન્યુ ત્વરાથી અને તીવ્રતાથી .......... કરતો હતો. પ્રતિપક્ષના ......... એક બાણ છોડીને બીજું બાણ ચઢાવે ત્યાં સુધીમાં તો અભિમન્યુ ...... બાણ છોડતો હતો. .......... તરફથી આવતાં બાણને ચુકાવતો હતો અને સતત બાણ છોડીને દુશ્મનોને .......... પણ હતો. બધી દિશાઓમાંથી આવતા બાણનો .......... કરતો અભિમન્યુ જાણે કે નૃત્ય કરતો હોય એવું લાગતું હતું.",
+      "answer": "ક્રમશઃ ખાલી જગ્યાના જવાબ : (1) અભિમન્યુ (2) ચક્રવ્યૂહ (3) મહારથીઓ (4) યુદ્ધ (5) યોદ્ધા (6) અનેક (7) દુશ્મન (8) હંફાવતો (9) સામનો.",
+      "explanation": "કૌંસમાં નવ શબ્દ છે અને ફકરામાં નવ ખાલી જગ્યા — એટલે દરેક શબ્દ એક જ વાર વપરાય છે. વાક્યની રચના જ સંકેત આપે છે : ‘પ્રવેશ્યો’ પુલ્લિંગ કર્તા માગે (અભિમન્યુ), ‘ભેદી શકે’ પછી કર્મ જોઈએ (ચક્રવ્યૂહ), ‘બીજા કૌરવ ........ આશ્ચર્યચકિત’માં બહુવચન નામ જોઈએ (મહારથીઓ), ‘ત્વરાથી અને તીવ્રતાથી ........ કરતો હતો’માં ક્રિયા સાથે જોડાતું નામ જોઈએ (યુદ્ધ), અને છેલ્લે ‘બાણનો ........ કરતો’માં ‘સામનો’ જ બેસે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ભરેલો આખો ફકરો :\nગુરુ દ્રોણના રચેલા ચક્રવ્યૂહમાં અભિમન્યુ પ્રવેશ્યો. આટલી નાની ઉંમરનો કોઈ યોદ્ધો ચક્રવ્યૂહ ભેદી શકે એ જોઈને ગુરુ દ્રોણ અને બીજા કૌરવ મહારથીઓ આશ્ચર્યચકિત બની ગયા. અભિમન્યુ ત્વરાથી અને તીવ્રતાથી યુદ્ધ કરતો હતો. પ્રતિપક્ષના યોદ્ધા એક બાણ છોડીને બીજું બાણ ચઢાવે ત્યાં સુધીમાં તો અભિમન્યુ અનેક બાણ છોડતો હતો. દુશ્મન તરફથી આવતાં બાણને ચુકાવતો હતો અને સતત બાણ છોડીને દુશ્મનોને હંફાવતો પણ હતો. બધી દિશાઓમાંથી આવતા બાણનો સામનો કરતો અભિમન્યુ જાણે કે નૃત્ય કરતો હોય એવું લાગતું હતું.",
+      "teacher_note": "Printed block 12 - one composite cloze (items: 9 blanks) with a nine-word bank; each word is used exactly once, which is the self-check to teach. The paragraph itself is the exercise's own composition, not a quotation from the reading text, though it retells the T11 scene.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T7",
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX57",
+      "exercise_group": "નીચેના શબ્દો / વાક્યખંડનો ઉપયોગ કરી વાક્ય લંબાવો. આ શબ્દો તમારા વાક્યની શરૂઆતમાં વચ્ચે કે અંતમાં આવી શકે.",
+      "skill": "grammar",
+      "prompt_verbatim": "1. પૈડું તૂટી ગયું.",
+      "answer": "(એક શક્ય જવાબ) કૌરવોના ઉપરાઉપરી પ્રહારથી અભિમન્યુના રથનું પૈડું તૂટી ગયું.",
+      "explanation": "આપેલા વાક્યખંડની આગળ ‘કોનું’ અને ‘શાથી’ ઉમેરીએ એટલે વાક્ય લંબાય છે અને ચિત્ર સ્પષ્ટ થાય છે. પાઠના નમૂના પ્રમાણે — ‘અભિમન્યુ લડ્યો.’માંથી ‘કુરુક્ષેત્રના મેદાનમાં અભિમન્યુ વીરતાપૂર્વક લડ્યો.’ — સ્થળ, રીત કે કારણ ઉમેરવાનું છે.",
+      "acceptable_alternatives": [
+        "ખાડામાં ગાડું ઊતરી જતાં એનું પૈડું તૂટી ગયું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 13, item 1. The printed ઉદાહરણ heading this block is 'ઉદાહરણ : અભિમન્યુ લડ્યો. / કુરુક્ષેત્રના મેદાનમાં અભિમન્યુ વીરતાપૂર્વક લડ્યો.' The wheel comes from the illustration on printed p. 13, not from the printed text. Any grammatical expansion is correct - these are model sentences only.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX58",
+      "exercise_group": "નીચેના શબ્દો / વાક્યખંડનો ઉપયોગ કરી વાક્ય લંબાવો. આ શબ્દો તમારા વાક્યની શરૂઆતમાં વચ્ચે કે અંતમાં આવી શકે.",
+      "skill": "grammar",
+      "prompt_verbatim": "2. મૃત્યુ પામ્યો.",
+      "answer": "(એક શક્ય જવાબ) યુદ્ધના નિયમો નેવે મુકાયા એટલે વીર અભિમન્યુ છ યોદ્ધાઓના ઘા ઝીલતાં ઝીલતાં મૃત્યુ પામ્યો.",
+      "explanation": "કર્તા (વીર અભિમન્યુ), કારણ (નિયમો નેવે મુકાયા) અને રીત (ઘા ઝીલતાં ઝીલતાં) — ત્રણેમાંથી કોઈ પણ ઉમેરો કરીએ એટલે વાક્ય લંબાય છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 13, item 2. Keep the expansion factual and brief; do not elaborate the manner of the killing beyond what the chapter states (08_sensitivity, M3.S6.T12, hard).",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S6.T12",
+        "M3.S6.T13"
+      ]
+    },
+    {
+      "exercise_id": "EX59",
+      "exercise_group": "નીચેના શબ્દો / વાક્યખંડનો ઉપયોગ કરી વાક્ય લંબાવો. આ શબ્દો તમારા વાક્યની શરૂઆતમાં વચ્ચે કે અંતમાં આવી શકે.",
+      "skill": "grammar",
+      "prompt_verbatim": "3. આખા શરીરે ઘાયલ થયેલો.",
+      "answer": "(એક શક્ય જવાબ) આખા શરીરે ઘાયલ થયેલો અભિમન્યુ તોય ન ડર્યો, ન ડગ્યો.",
+      "explanation": "આ વાક્યખંડ વિશેષણ જેવો છે, એટલે એની પાછળ કર્તા અને ક્રિયાપદ ઉમેરવાથી આખું વાક્ય બને છે. પાઠમાં પણ આ જ ભાવ છપાયો છે — ‘એના શરીર પર ઠેકઠેકાણે ઘા પડ્યા હતા. પણ ન તો એ ડર્યો, ન તો એ ડગ્યો !’",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 13, item 3. Land it on the courage, not on the wounds (08_sensitivity, M3.S6.T11).",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX60",
+      "exercise_group": "નીચેના શબ્દો / વાક્યખંડનો ઉપયોગ કરી વાક્ય લંબાવો. આ શબ્દો તમારા વાક્યની શરૂઆતમાં વચ્ચે કે અંતમાં આવી શકે.",
+      "skill": "grammar",
+      "prompt_verbatim": "4. અતિશય ક્રોધમાં આવી ગયો.",
+      "answer": "(એક શક્ય જવાબ) અર્જુને પોતાને અને પોતાના ભાઈઓને પીડ્યા હતા એ યાદ આવતાં સુશર્મા અતિશય ક્રોધમાં આવી ગયો.",
+      "explanation": "કર્તા અને કારણ ઉમેરવાથી વાક્ય લંબાય છે. પાઠમાં સુશર્માએ કહ્યું છે - ‘‘અર્જુને ભૂતકાળમાં મને અને મારા ભાઈઓને બહુ પીડ્યા છે !’’ એટલે એનું કારણ પાઠમાંથી જ મળે છે.",
+      "acceptable_alternatives": [
+        "ભાઈએ એની ચોપડી ફાડી નાખી એટલે કિશન અતિશય ક્રોધમાં આવી ગયો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 13, item 4. Name Sushrma's grudge without holding it up as admirable (08_sensitivity, M2.S4.T7).",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX61",
+      "exercise_group": "નીચેના શબ્દો / વાક્યખંડનો ઉપયોગ કરી વાક્ય લંબાવો. આ શબ્દો તમારા વાક્યની શરૂઆતમાં વચ્ચે કે અંતમાં આવી શકે.",
+      "skill": "grammar",
+      "prompt_verbatim": "5. ઝડપથી પાછો આવ્યો.",
+      "answer": "(એક શક્ય જવાબ) રિસેસનો ઘંટ વાગતાં જ કિશન મેદાનમાંથી ઝડપથી પાછો આવ્યો.",
+      "explanation": "કર્તા, સ્થળ અને સમય ઉમેરવાથી ટૂંકો વાક્યખંડ પૂરું વાક્ય બની જાય છે. વાક્યવિસ્તારના આ સ્વાધ્યાયમાં વિષય પાઠનો જ હોવો જરૂરી નથી — રોજિંદા જીવનનું વાક્ય પણ ચાલે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "UNMAPPED - printed block 13, item 5. No line of this chapter carries 'ઝડપથી પાછો આવ્યો': the chapter's Abhimanyu never comes back, and the text never narrates Arjun's return either. Rather than invent a scene, the model sentence is set in the child's own day and the item is recorded in coverage_report.unmapped.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX62",
+      "exercise_group": "નીચેના શબ્દો / વાક્યખંડનો ઉપયોગ કરી વાક્ય લંબાવો. આ શબ્દો તમારા વાક્યની શરૂઆતમાં વચ્ચે કે અંતમાં આવી શકે.",
+      "skill": "grammar",
+      "prompt_verbatim": "6. સાતમા કોઠે પહોંચ્યો.",
+      "answer": "(એક શક્ય જવાબ) એક પછી એક કોઠા ભેદતો અભિમન્યુ છેવટે સાતમા કોઠે પહોંચ્યો.",
+      "explanation": "કર્તા અને રીત ઉમેરવાથી વાક્ય લંબાય છે. પાઠમાં લખ્યું છે કે ‘એક પછી એક કોઠા ભેદતો અભિમન્યુ આગળ વધતો ગયો’ — એ જ વાક્યખંડ અહીં કામ લાગે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 13, item 6. The chapter never counts the કોઠા; 'સાતમા કોઠે' is the exercise's own number (as in block 6 item 8). Legitimate to use here because the book prints it - keep it out of the reading lesson (07_pitfalls chapter-level).",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX63",
+      "exercise_group": "નીચેના શબ્દો / વાક્યખંડનો ઉપયોગ કરી વાક્ય લંબાવો. આ શબ્દો તમારા વાક્યની શરૂઆતમાં વચ્ચે કે અંતમાં આવી શકે.",
+      "skill": "grammar",
+      "prompt_verbatim": "7. નવાઈ પામ્યા.",
+      "answer": "(એક શક્ય જવાબ) નાની ઉંમરના અભિમન્યુનું પરાક્રમ જોઈને કૌરવ યોદ્ધાઓ નવાઈ પામ્યા.",
+      "explanation": "કર્તા (કૌરવ યોદ્ધાઓ) અને કારણ (પરાક્રમ જોઈને) ઉમેરવાથી વાક્ય લંબાય છે. પાઠમાં પણ ‘એનું પરાક્રમ જોઈને શત્રુઓ પણ ‘વાહ!’ બોલી ઊઠ્યા’ એમ છપાયું છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 13, item 7. Best chapter-anchored item of the block; do it first as the class model.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX64",
+      "exercise_group": "અર્જુને અભિમન્યુના મૃત્યુનું વેર કેવી રીતે લીધું એ અંગે તમારા વડીલોને પૂછો. એ વાર્તા તમારા શબ્દોમાં લખો.",
+      "skill": "writing",
+      "prompt_verbatim": "અર્જુને અભિમન્યુના મૃત્યુનું વેર કેવી રીતે લીધું એ અંગે તમારા વડીલોને પૂછો. એ વાર્તા તમારા શબ્દોમાં લખો.",
+      "answer": "(એક શક્ય જવાબ, બાળકે ઘરેથી સાંભળીને પોતાના શબ્દોમાં લખવાનું છે)\nમેં મારાં દાદીમાને પૂછ્યું. એમણે કહ્યું કે અભિમન્યુના મૃત્યુના સમાચાર સાંભળીને અર્જુન ભાંગી પડ્યો હતો. પણ એણે રડીને બેસી ન રહેતાં પ્રતિજ્ઞા લીધી કે નિયમ તોડનારાઓને એ છોડશે નહિ, અને બીજા દિવસના યુદ્ધમાં એણે એ પ્રતિજ્ઞા પૂરી કરી.\nદાદીમાએ છેલ્લે કહ્યું કે આ કથાનો સાચો સંદેશ વેર લેવાનો નથી — સંદેશ એ છે કે અભિમન્યુએ જે નિષ્ઠાથી પોતાનું કામ પૂરું કર્યું, એ નિષ્ઠા આગળ ચલાવવી. ‘‘ચક્રવ્યૂહ તૂટ્યો પણ આપણો ભડવીર ખૂટ્યો !’’ એ યુધિષ્ઠિરના શબ્દોમાં જ આખા પરિવારનું દુઃખ સમાયેલું છે.",
+      "explanation": "આ પાઠ યુધિષ્ઠિરના વાક્ય પર જ પૂરો થાય છે — વેરની વાર્તા પાઠમાં ક્યાંય છપાયેલી નથી. એટલે આ સ્વાધ્યાય જાણીજોઈને બાળકને ઘરે મોકલે છે : વડીલો પાસેથી સાંભળીને પોતાના શબ્દોમાં લખવાનું છે. જે ઘરેથી જે રૂપ સાંભળવા મળે તે સાચું, અને દરેક બાળકનું લખાણ જુદું જ હશે.",
+      "acceptable_alternatives": [
+        "અમારા ઘરે આ કથા જાણનારું કોઈ નહોતું, એટલે મેં શાળાના પુસ્તકાલયમાંથી મહાભારતની બાળવાર્તાની ચોપડી લઈને વાંચ્યું અને એ પ્રમાણે લખ્યું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 14 - one composite home task (items: 1). 08_sensitivity chapter-level (સંઘર્ષ) governs this item: keep the frame on grief and duty carried through, never on revenge as something to celebrate. The chapter itself never narrates the revenge, so nothing here may be presented as coming from the પાઠ. Accept every family's version; some homes will tell it very differently and some not at all - the library route above is a fair alternative.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S6.T12",
+        "M3.S6.T13"
+      ]
+    },
+    {
+      "exercise_id": "EX65",
+      "exercise_group": "નીચે આપેલી સંજ્ઞાઓનું કોષ્ટકમાં વર્ગીકરણ કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "નીચે આપેલી સંજ્ઞાઓનું કોષ્ટકમાં વર્ગીકરણ કરો.\nઠંડી, ચણા, કૂદકો, ઑક્સિજન, લોખંડ, ભણતર, મરણ, કાગળ, સાકર, રાત્રિ, આશીર્વાદ, જાગરણ\n\nદ્રવ્યવાચક સંજ્ઞા | ભાવવાચક સંજ્ઞા | જાતિવાચક સંજ્ઞા\n(કોષ્ટક ખાલી છપાયેલું છે)",
+      "answer": "દ્રવ્યવાચક સંજ્ઞા : ચણા, ઑક્સિજન, લોખંડ, સાકર\nભાવવાચક સંજ્ઞા : ઠંડી, કૂદકો, ભણતર, મરણ, રાત્રિ, આશીર્વાદ, જાગરણ\nજાતિવાચક સંજ્ઞા : કાગળ",
+      "explanation": "એકમની વ્યાકરણપેટીના પોતાના નિયમો પ્રમાણે ગોઠવણ કરી છે. દ્રવ્યવાચક એ છે જેને માપી કે વજન કરી શકાય અને જેને સંખ્યાવાચક વિશેષણ કે બહુવચનનો પ્રત્યય લાગતો નથી — ‘એક ઑક્સિજન’ કે ‘સાકરો’ ન કહેવાય; ચણા, લોખંડ અને સાકર પણ વજનથી જ લેવાય, જેમ પેટીની યાદીમાં બાજરી અને સોનું છે. ભાવવાચક એ છે જેને જોઈ કે સ્પર્શી ન શકાય, ફક્ત મનથી અનુભવાય — ઠંડી (પેટીની યાદીમાં ‘ગરમી’ છે), આશીર્વાદ (યાદીમાં ‘વંદન’ છે) અને રાત્રિ (યાદીમાં ‘દિવસ’ છે). કૂદકો, ભણતર, મરણ અને જાગરણ ધાતુ પરથી બનેલાં નામ છે, એટલે ખરેખર તો એ ક્રિયાવાચક સંજ્ઞા છે; પણ છપાયેલા કોષ્ટકમાં ક્રિયાવાચકનું ખાનું જ નથી, એટલે એ ભાવવાચકના ખાનામાં મૂકાય છે. બાકી રહ્યો કાગળ — એ ગણી શકાય એવી, જાતિ દર્શાવતી વસ્તુ છે (કાગળો), એટલે જાતિવાચક.",
+      "acceptable_alternatives": [
+        "કાગળને કાપડ જેવી સામગ્રી ગણીને દ્રવ્યવાચકમાં મૂકનારા શિક્ષકો પણ છે (પેટીની યાદીમાં 'કાપડ' દ્રવ્યવાચક તરીકે છપાયું છે); એ રીતે ગોઠવીએ તો ચણા અને રાત્રિ જાતિવાચકમાં જાય.",
+        "કૂદકો, ભણતર, મરણ અને જાગરણને ક્રિયાવાચક સંજ્ઞા તરીકે અલગ ઓળખાવવાં - કોષ્ટકમાં ખાનું ન હોવાથી એ ભાવવાચકમાં લખાય, પણ ઓળખ ક્રિયાવાચકની જ છે."
+      ],
+      "values_filled_for_teaching": "ભરેલું કોષ્ટક :\nદ્રવ્યવાચક સંજ્ઞા : ચણા, ઑક્સિજન, લોખંડ, સાકર\nભાવવાચક સંજ્ઞા : ઠંડી, કૂદકો, ભણતર, મરણ, રાત્રિ, આશીર્વાદ, જાગરણ\nજાતિવાચક સંજ્ઞા : કાગળ",
+      "teacher_note": "UNMAPPED - printed block 15 (items: 12 words). The book prints the કોષ્ટક empty and prints no answer key, so this classification is ours, argued from the chapter's own વ્યાકરણપેટી examples (ગરમી, વંદન, દિવસ under ભાવવાચક; કાપડ, બાજરી, સોનું under દ્રવ્યવાચક) - the alternatives record where a teacher may reasonably differ. Not a tidy 4/4/4 split; do not force one. None of the twelve words occurs anywhere in this chapter's reading text, so covered_by_topics is empty by construction and the item is recorded in coverage_report.unmapped - this is a generic grammar drill, NOT a signal that the cut missed a scene.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX66",
+      "exercise_group": "આ એકમમાંથી શોધીને સંજ્ઞાના છ પ્રકારનાં ત્રણ-ત્રણ ઉદાહરણો લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "આ એકમમાંથી શોધીને સંજ્ઞાના છ પ્રકારનાં ત્રણ-ત્રણ ઉદાહરણો લખો.",
+      "answer": "વ્યક્તિવાચક સંજ્ઞા : અભિમન્યુ, સુભદ્રા, દ્વારિકા\nજાતિવાચક સંજ્ઞા : યોદ્ધો, રથ, ધનુષ્ય\nસમૂહવાચક સંજ્ઞા : સેના, સૈન્ય, પાંડવસેના\nદ્રવ્યવાચક સંજ્ઞા : લોઢું, ધૂળ, લોખંડ\nભાવવાચક સંજ્ઞા : પરાક્રમ, જ્ઞાન, ચતુરાઈ\nક્રિયાવાચક સંજ્ઞા : રોકટોક, હાર, મરણ",
+      "explanation": "દરેક ઉદાહરણ આ જ એકમમાંથી લીધું છે. વ્યક્તિવાચક ચોક્કસ વ્યક્તિ કે સ્થળનું નામ છે — અભિમન્યુ, સુભદ્રા, દ્વારિકા. જાતિવાચક આખી જાતિનું નામ છે — યોદ્ધો, રથ, ધનુષ્ય. સમૂહવાચક ઘણાંનો સમૂહ બતાવે છે — ‘બંને સેનાઓ સામસામે આવી ગઈ’, ‘પોતાના સૈન્ય સાથે’, ‘અર્જુન વિના પાંડવસેના લાચાર થઈ જશે’. દ્રવ્યવાચક માપી કે વજન કરી શકાય એવી સામગ્રી છે — શબ્દાર્થપેટી ‘બખતર’નો અર્થ ‘લોઢાનો પોશાક’ આપે છે, રૂઢિપ્રયોગ ‘યોજના ધૂળમાં મળવી’માં ધૂળ છે, અને પછીના સ્વાધ્યાયની યાદીમાં લોખંડ છે. ભાવવાચક જોઈ ન શકાય એવાં નામ છે — પરાક્રમ, જ્ઞાન, ‘ભાણેજની ચતુરાઈ’. ક્રિયાવાચક ધાતુ પરથી બનેલાં નામ છે — ‘કશી રોકટોક નહિ’માંથી રોકટોક, ‘પાંડવોની હાર નિશ્ચિત’માંથી હાર, અને સ્વાધ્યાયની યાદીમાંનું મરણ.",
+      "acceptable_alternatives": [
+        "વ્યક્તિવાચક : શ્રીકૃષ્ણ, બલરામ, કુરુક્ષેત્ર, હસ્તિનાપુર, દુર્યોધન",
+        "જાતિવાચક : બાણ, રાજા, મહેલ, ગુરુ, છાવણી",
+        "ભાવવાચક : પ્રતિષ્ઠા, ચિંતા, હિંમત, શોક",
+        "ક્રિયાવાચક : લડાઈ, ભણતર, જાગરણ"
+      ],
+      "values_filled_for_teaching": "છ પ્રકાર, ત્રણ-ત્રણ ઉદાહરણ, અને એ એકમમાં ક્યાં મળે તે :\n1. વ્યક્તિવાચક - અભિમન્યુ, સુભદ્રા, દ્વારિકા (પાઠનો પહેલો ફકરો)\n2. જાતિવાચક - યોદ્ધો, રથ, ધનુષ્ય (પાઠનો પહેલો ફકરો અને યુદ્ધના ફકરા)\n3. સમૂહવાચક - સેના, સૈન્ય, પાંડવસેના (કુરુક્ષેત્ર અને છાવણીના ફકરા)\n4. દ્રવ્યવાચક - લોઢું (શબ્દાર્થ : બખતર - લોઢાનો પોશાક), ધૂળ (રૂઢિપ્રયોગ : યોજના ધૂળમાં મળવી), લોખંડ (સ્વાધ્યાયની સંજ્ઞા-યાદી)\n5. ભાવવાચક - પરાક્રમ, જ્ઞાન, ચતુરાઈ (પાઠના ફકરા)\n6. ક્રિયાવાચક - રોકટોક, હાર, મરણ (પાઠના ફકરા અને સ્વાધ્યાયની યાદી)",
+      "teacher_note": "Printed block 16 (items: 6 noun types x 3 examples). The task says 'આ એકમમાંથી શોધીને', so every example must be findable inside this unit - the reading text, the શબ્દાર્થ and રૂઢિપ્રયોગ boxes, the exercises or the વ્યાકરણપેટી. દ્રવ્યવાચક is genuinely thin in the story text (a war narrative names few substances); the three given are honestly sourced and their locations are listed in values_filled_for_teaching so a teacher can check them. Run this as a page-hunt in pairs.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S1.T2",
+        "M1.S1.T3",
+        "M1.S2.T5",
+        "M2.S3.T6",
+        "M2.S4.T8",
+        "M3.S6.T11",
+        "M3.S6.T12"
+      ]
+    }
+  ],
+  "coverage_report": {
+    "blocks_found": [
+      "વાતચીત",
+      "આપેલાં વાક્યોમાં રેખાંકિત શબ્દને સ્થાને કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરી જુઓ અને કયા વાક્યમાં એ શબ્દ સાચી રીતે વપરાયો છે તે વાક્યની સામે (√ ) કરો.",
+      "પાઠને આધારે આ વાક્યો ખરાં છે ખોટાં તે કહો.",
+      "પાઠને આધારે કહો કે આ વાક્યો કોણ બોલી શકે ?",
+      "નીચેનાં વાક્યોને યોગ્ય ઘટનાક્રમમાં ગોઠવો.",
+      "પ્રશ્નોના જવાબ આપો.",
+      "જોડકાં જોડો.",
+      "કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરીને પ્રશ્ન બનાવો.",
+      "નીચેનાં વાક્યોમાં રેખાંકિત શબ્દને બદલે કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરી, જરૂરી ફેરફાર કરીને વાક્યો ફરીથી લખો.",
+      "નીચેનાં વાક્યોમાંથી ખોટો શબ્દ છેકી વાક્ય ફરીથી લખો.",
+      "નીચેના શબ્દોનો ઉપયોગ કરીને અભિમન્યુ વિશે સાત - આઠ લીટીમાં વર્ણન કરો.",
+      "કૌંસમાંથી યોગ્ય વિકલ્પ પસંદ કરી ખાલી જગ્યા પૂરો.",
+      "નીચેના શબ્દો / વાક્યખંડનો ઉપયોગ કરી વાક્ય લંબાવો. આ શબ્દો તમારા વાક્યની શરૂઆતમાં વચ્ચે કે અંતમાં આવી શકે.",
+      "અર્જુને અભિમન્યુના મૃત્યુનું વેર કેવી રીતે લીધું એ અંગે તમારા વડીલોને પૂછો. એ વાર્તા તમારા શબ્દોમાં લખો.",
+      "નીચે આપેલી સંજ્ઞાઓનું કોષ્ટકમાં વર્ગીકરણ કરો.",
+      "આ એકમમાંથી શોધીને સંજ્ઞાના છ પ્રકારનાં ત્રણ-ત્રણ ઉદાહરણો લખો."
+    ],
+    "blocks_answered": [
+      "વાતચીત",
+      "આપેલાં વાક્યોમાં રેખાંકિત શબ્દને સ્થાને કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરી જુઓ અને કયા વાક્યમાં એ શબ્દ સાચી રીતે વપરાયો છે તે વાક્યની સામે (√ ) કરો.",
+      "પાઠને આધારે આ વાક્યો ખરાં છે ખોટાં તે કહો.",
+      "પાઠને આધારે કહો કે આ વાક્યો કોણ બોલી શકે ?",
+      "નીચેનાં વાક્યોને યોગ્ય ઘટનાક્રમમાં ગોઠવો.",
+      "પ્રશ્નોના જવાબ આપો.",
+      "જોડકાં જોડો.",
+      "કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરીને પ્રશ્ન બનાવો.",
+      "નીચેનાં વાક્યોમાં રેખાંકિત શબ્દને બદલે કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરી, જરૂરી ફેરફાર કરીને વાક્યો ફરીથી લખો.",
+      "નીચેનાં વાક્યોમાંથી ખોટો શબ્દ છેકી વાક્ય ફરીથી લખો.",
+      "નીચેના શબ્દોનો ઉપયોગ કરીને અભિમન્યુ વિશે સાત - આઠ લીટીમાં વર્ણન કરો.",
+      "કૌંસમાંથી યોગ્ય વિકલ્પ પસંદ કરી ખાલી જગ્યા પૂરો.",
+      "નીચેના શબ્દો / વાક્યખંડનો ઉપયોગ કરી વાક્ય લંબાવો. આ શબ્દો તમારા વાક્યની શરૂઆતમાં વચ્ચે કે અંતમાં આવી શકે.",
+      "અર્જુને અભિમન્યુના મૃત્યુનું વેર કેવી રીતે લીધું એ અંગે તમારા વડીલોને પૂછો. એ વાર્તા તમારા શબ્દોમાં લખો.",
+      "નીચે આપેલી સંજ્ઞાઓનું કોષ્ટકમાં વર્ગીકરણ કરો.",
+      "આ એકમમાંથી શોધીને સંજ્ઞાના છ પ્રકારનાં ત્રણ-ત્રણ ઉદાહરણો લખો."
+    ],
+    "unanswered": [],
+    "unmapped": [
+      {
+        "exercise_id": "EX46",
+        "exercise_group": "નીચેનાં વાક્યોમાં રેખાંકિત શબ્દને બદલે કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરી, જરૂરી ફેરફાર કરીને વાક્યો ફરીથી લખો.",
+        "prompt_verbatim": "4. આ વેકેશનમાં મારે મહાભારત વાંચવું છે. (મહાભારત અને રામાયણ)",
+        "reason": "A વચન-agreement drill whose only content word, મહાભારત, occurs in this chapter solely inside the teacher-addressed પ્રવેશપેટી ('મહાભારતની અન્ય કથાઓ પણ વર્ગમાં કહી શકાય.'), which 04_converged deliberately left out of the topic cut as apparatus. No reading scene prepares it; no mapping invented."
+      },
+      {
+        "exercise_id": "EX61",
+        "exercise_group": "નીચેના શબ્દો / વાક્યખંડનો ઉપયોગ કરી વાક્ય લંબાવો. આ શબ્દો તમારા વાક્યની શરૂઆતમાં વચ્ચે કે અંતમાં આવી શકે.",
+        "prompt_verbatim": "5. ઝડપથી પાછો આવ્યો.",
+        "reason": "A free વાક્યવિસ્તાર frame. No line of the chapter carries a quick return: અભિમન્યુ never comes back, and the text never narrates અર્જુન's return either. The model sentence is set in the child's own day rather than inventing a scene for the chapter."
+      },
+      {
+        "exercise_id": "EX65",
+        "exercise_group": "નીચે આપેલી સંજ્ઞાઓનું કોષ્ટકમાં વર્ગીકરણ કરો.",
+        "prompt_verbatim": "નીચે આપેલી સંજ્ઞાઓનું કોષ્ટકમાં વર્ગીકરણ કરો. (ઠંડી, ચણા, કૂદકો, ઑક્સિજન, લોખંડ, ભણતર, મરણ, કાગળ, સાકર, રાત્રિ, આશીર્વાદ, જાગરણ)",
+        "reason": "A generic સંજ્ઞા classification drill attached to the chapter-final વ્યાકરણપેટી. None of the twelve printed words occurs anywhere in this chapter's reading text, so no scene prepares it. Unmapped by construction, NOT a signal that the cut missed a scene - the neighbouring block 16 ('આ એકમમાંથી શોધીને…') is the one that does map, and it maps to eight topics."
+      }
+    ],
+    "_note": "blocks_found lists all sixteen verbatim_heading values from 01_meta.json's exercise_inventory, in printed order, entry for entry. The book prints no સ્વાધ્યાય banner (std 6-8 regime): the numbered pink headings below the શબ્દાર્થ and રૂઢિપ્રયોગ boxes ARE the blocks, and our EX counter runs consecutively across the whole chapter, independent of the book's own 1-16 numbering (which is recorded in each teacher_note). Three items are unmapped and reported above rather than given an invented topic; two of the three are grammar drills whose content lies outside the reading text by design, so they are not evidence of a missed scene. Not answered here because they are printed apparatus, not tasks: the blue પ્રવેશપેટી, the શબ્દાર્થ box, the રૂઢિપ્રયોગ box and the chapter-final green વ્યાકરણપેટી 'સંજ્ઞા વિશે જાણીએ' - all four correctly kept out of exercise_inventory by Agent 1."
+  }
+}

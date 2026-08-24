@@ -1,0 +1,46 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T2",
+      "areas": ["જાતિ-ભૂમિકા"],
+      "caution": "The explanation could turn પાલુબેનની 'ઘરનાં કામ તો ખરાં જ' into a lesson that housework belongs only to women, or, in the other direction, soften away the double burden the line actually names.",
+      "guidance": "In `explanation`, name both loads exactly as the paragraph does — the paid ધંધો and the ઘરકામ/ન્યાત duties — without adding a moral about who 'should' do housework and without erasing that she alone carries both.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "areas": ["જાતિ-ભૂમિકા"],
+      "caution": "The explanation might read 'ઘરવાળાનું ટિફિન તૈયાર કરવાનું' as an unremarked norm, letting the child absorb that meal-prep is automatically a wife's job rather than noticing it as part of her workload.",
+      "guidance": "In `explanation`, describe the સાડા ત્રણ વાગ્યાની routine as the chapter states it — for the children, then the husband's ટિફિન — and let the real_life_example draw on any family member's morning task, not only a mother's, so the point stays her workload, not a rule about gender.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M3.S4.T8",
+      "areas": ["સંઘર્ષ"],
+      "caution": "The explanation or real_life_example could cast 'મ્યુનિસિપાલિટીવાળા, પોલીસ, દબાણ ખસેડવાવાળા' as villains, or frame street vendors as lawbreakers, either of which turns a real administrative hardship into a communal or moral battle the text does not stage.",
+      "guidance": "Keep the account to what પાલુબેન herself says — the goods taken, the time and money lost getting them back — and let the topic's resolution be the organising that follows in M3.S4.T9, not a verdict on who was right; no recall question should ask the child to judge the police.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M3.S4.T9",
+      "areas": ["સમુદાય"],
+      "caution": "'સેવા'ની બહેનો names a real, still-active organisation (Self Employed Women's Association); the explanation could reduce it to a vague 'કોઈ મદદ કરવા આવ્યું' or invent a founding date, city or membership fact not in the chapter's શબ્દાર્થ box or body text.",
+      "guidance": "In `explanation` and any real_life_example, keep to what the chapter states — સંઘમાં બળ છે, લાઈસન્સ, જગ્યા, કાયદાની સમજણ — and use only the name/gloss already printed in the શબ્દાર્થ box, adding nothing beyond it.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M4.S5.T10",
+      "areas": ["જાતિ-ભૂમિકા"],
+      "caution": "The explanation could turn પાલુબેનનો થાક and her waking the children to feed them into pity ('બિચારાં') rather than her own resolve, or could add an absent-father comment the text never makes — the paragraph simply does not mention other family members here.",
+      "guidance": "In `explanation`, keep the focus પાલુબેન sets herself — તોય તેમને જગાડીને ખવડાવું and પણ છોકરાંને ભણાવીશ. તો જ ઉજળા દિવસો આવશે — as her own determination, and do not speculate about anyone the paragraph does not name.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "જાતિ-ભૂમિકા",
+      "guidance": "Across every module, પાલુબેનની paid ધંધો and her unpaid ઘરકામ/childcare run as one continuous account, never separated by the text itself; teach the chapter's own picture of her day exactly as she gives it — neither adding a stereotype the chapter does not carry (that this is simply 'a woman's lot') nor softening the load she names in her own words."
+    }
+  ],
+  "none_found": false
+}

@@ -1,0 +1,167 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Gate 1 (summary-only teaching), bound to this topic: `explanation` must add something this topic's `modified_chunk` does not already carry — that the man who brings the news of the કુંવર's death is the same જોગીદાસ who is out on બહારવટું against that કુંવર's father, and that he got it himself, 'ભાવનગરની શેરીએ શેરીએ ભમીને મેં કાનોકાન વાત સાંભળી'. If every sentence of `explanation` can be replaced by `modified_chunk` with no loss, the topic fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 6 (standardising a લોકકથા's dialect), bound to this topic's printed words: wherever `explanation`, `key_terms`, `concept_bullets` or a recall `answer` quotes this topic, the forms આપા, દી', કાનોકાન, ઓચિંતાનો કાળ, માથું ફાટવા માંડ્યું, દમ નીકળી ગયો and કોપ appear exactly as printed in `original_chunk`. A gloss set beside the printed form is required; substituting મોટાભાઈ for આપા, દિવસ for દી', or માથું દુખવા લાગ્યું inside a quotation of માથું ફાટવા માંડ્યું fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 3 (judging a character the story treats with sympathy), at the point the chapter first names બહારવટિયા: no `explanation`, `real_life_example` or recall `answer` may attach an evaluative label (લૂંટારો, ગુનેગાર, ખરાબ માણસ, ક્રૂર or a synonym) to જોગીદાસ or હાદા ખુમાણ. The chapter's own word બહારવટિયો may be used and glossed; it may not be turned into a verdict on either man.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `માથું ફાટવા માંડ્યું` અને `દમ નીકળી ગયો` શબ્દશઃ વાંચે છે, એટલે એને લાગે છે કે કુંવર દાદભા પર કોઈએ હુમલો કર્યો ને એમનું માથું ફાટ્યું — જ્યારે પાઠમાં તો દરિયો પૂજીને પાછા વળતાં અચાનક માંદગીથી મરણ થાય છે. આ ભૂલ પકડાય નહિ તો આખા શોકનું કારણ જ ખોટું બંધાઈ જાય છે.",
+      "correction": "જ્યાં આ શબ્દો પહેલી જ વાર આવે ત્યાં પાઠની પોતાની રૂઢિપ્રયોગ-પેટી પ્રમાણે ગ્લોસ કરો — `માથું ફાટવું — માથું ખૂબ દુખવું`, `દમ નીકળી જવો — મરી જવું` — અને `key_terms`માં એ જ સ્વરૂપે મૂકો. પછી `explanation`માં એક વાક્યમાં ઘટના સીધી કહો : દશેરાને દી' કુંવર ભાવનગર દરિયો પૂજવા ગયા, પાછા વળતાં માથું દુખવા માંડ્યું ને શિહોર પહોંચતાં મરણ થયું. કોઈ પણ વાક્યમાં હુમલો, ઘા કે લડાઈનો શબ્દ ન વાપરો."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "Gate 2 (a tacked-on બોધ), bound to this topic's own જોવે-clause: the printed 'આપણે ના'વું જોવે' is હાદા ખુમાણનું વેણ. No sentence of `explanation`, `summary`, `detailed_summary`, `concept_bullets` or a recall `answer` may convert it, or the સનાન itself, into advice to the child — no 'આપણે પણ દુશ્મનનું માન રાખવું જોઈએ', no 'આ વાર્તા આપણને શીખવે છે…'. The clause may be quoted only as હાદા ખુમાણ's speech.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 1 (summary-only teaching): `explanation` must name what the સનાન shows and not merely repeat that the બહારવટિયા bathed — that a family standing in વેર against દાદભાના પિતા takes the death-bath on itself, in હાદા ખુમાણના પોતાના શબ્દોમાં 'એનું સનાન તો આપણનેય આવ્યું કે'વાય'.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 6 (standardising a લોકકથા's dialect): સનાન, ના'વું, જોવે, કે'વાય, દેઈ પડે, કળેળાટ, છાતીફાટ, જોદ્ધો and ફાળિયાં appear in exactly the printed form wherever this topic is quoted. `સનાન` may not be silently written as `સ્નાન` inside a quotation of હાદા ખુમાણનું વેણ (the narrator's own following sentence does print માથાબોળ સ્નાન — both stand as printed), and `દેઈ પડે` may not be replaced by `મરણ થાય` inside quotation marks.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `સનાન`ને રોજ નાહવાના સામાન્ય અર્થમાં લે છે, એટલે 'બહારવટિયાઓએ નદીમાં માથાબોળ સ્નાન કર્યું' એ પ્રસંગ એને અમસ્તો લાગે છે. મરણ નિમિત્તે નાહવાનો લોકાચાર છે એ ન સમજાય તો દુશ્મનના દીકરાના મરણનું સનાન પોતાને માથે લેવાની આખી વાત ઊડી જાય છે.",
+      "correction": "`explanation`માં પહેલી જ વાર `સનાન — અહીં મરણ નિમિત્તે નાહવાનો રિવાજ` એમ ગ્લોસ કરો અને `key_terms`માં એ જ અર્થ રાખો. પછી ક્રમ બતાવો : હાદો ખુમાણ કહે છે કે દાદભાનું મરણ થયું એટલે એનું સનાન આપણનેય આવ્યું ગણાય, અને એ કહેતાં જ સહુ ફાળિયાં પહેરીને નદીમાં માથાબોળ નાહે છે — એટલે નાહવું એ સાફ થવા માટે નહિ, શોકના રિવાજ તરીકે છે."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Gate 4 (spoiling the turn early), bound to this topic's ending: this topic closes on હાદા ખુમાણનું સૂચન 'માથે ફાળિયું ઢાંકીને છાનોમાનો ગૂડો વાળી આવજે'. Its `explanation`, `summary`, `detailed_summary` and every recall `answer` must leave that risk open — none of them may contain વરત્યો, ઓળખાઈ ગયો, ઓળખી ગયા, વજ પડ્યું, ઝળઝળિયાં or જતિનો અવતાર, and none may say that the cover did or did not hold.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 1 (summary-only teaching): `explanation` must state હાદા ખુમાણનું પોતાનું છપાયેલું કારણ for going covered — 'પાસવાનો ન સમજી શકે કે આપણે લૌકિક કરવા આવ્યા છીએ' — and not stop at reporting that he told his son to cover his head.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 3 (judging a character the story treats with sympathy): no `explanation`, `real_life_example` or recall `answer` may label હાદા ખુમાણ ડરપોક or કાયર for his hesitation, or જોગીદાસ મૂરખ or જીદ્દી for wanting to go. The text gives the hesitation as 'એને એકસામટા અનેક વિચારો આવ્યા' and the consent as 'એનું મનભંગ ન કરાય !', and the teaching uses those two lines as the motive.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `માથે ફાળિયું ઢાંકીને છાનોમાનો` જવાનું વાંચીને એમ સમજી લે છે કે જોગીદાસ છુપાઈને દુશ્મન રાજાને મારવા જાય છે — બહારવટિયો છે એટલે ઇરાદો પણ એવો જ હશે એમ પોતાની બહારની સમજ ઉમેરી દે છે. પાઠમાં ઢાંકવાનું કારણ સાવ જુદું છે.",
+      "correction": "`explanation`માં હાદા ખુમાણનું છપાયેલું કારણ સીધું ટાંકો — 'પાસવાનો ન સમજી શકે કે આપણે લૌકિક કરવા આવ્યા છીએ' — અને એની બાજુમાં જ `ખરખરો — મરણ પાછળનો શોક; દિલસોજી કરવા જવું તે` તથા `છતરાયું — ખુલ્લું, ઓળખાઈ જવાય એવું` ગ્લોસ મૂકો. એક વાક્યમાં સ્પષ્ટ કરો કે ડર મહારાજનો નથી, ડર એ છે કે રસ્તામાં જ પાસવાનો ઓળખી લે તો ઝાટકા થાય."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "Gate 4 (spoiling the turn early), bound to this topic's last printed sentence: this topic ends at 'રીત પ્રમાણે મહારાજ વજેસંગ એક પછી એક તમામને માથે હાથ દઈ છાના રાખવા લાગ્યા.' Nothing in its `explanation`, `summary` or a recall `answer` may say that the king reaches જોગીદાસ, recognises him, or that 'પાંચસો જણના સમુદાયમાં … ધાસ્તી નહોતી' turns out mistaken; the words સાદ વરત્યો, ભલો વરત્યો, પરખાય and મ્હોં ખુલ્લું belong to the next topic only.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 1 (summary-only teaching): `explanation` must add why the cover works at this moment — પાંચસો જણનો સમુદાય, બધા ખરખરે આવેલા, બધા હારમાં બેસીને રોતા — rather than restating that જોગીદાસ 'પેસી ગયો' and sat down.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 6 (standardising a લોકકથા's dialect): પેસી ગયો, પછેડી, જણ, ધાસ્તી, ડેલી, મુસદી, કણબી and કાઠી stay in the printed form wherever quoted; પછેડી may be glossed as ઓઢવાનું કપડું but not replaced by it inside a quotation, and કાઠી, કણબી and મુસદી are named as the chapter names them, never collapsed into 'ગામના લોકો'.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'હારમાં બેસીને રોવા લાગ્યા' અને મહારાજનું 'એક પછી એક તમામને માથે હાથ દઈ છાના રાખવા' — એ ખરખરાનો રિવાજ છે એ સમજતો નથી. એને લાગે છે કે મહારાજ ભીડમાં કોઈને શોધતા ફરે છે, એટલે પછી જે બને છે તે અકસ્માતે નહિ પણ તપાસથી બન્યું હોય એમ વંચાય છે.",
+      "correction": "`explanation`માં પાઠનો પોતાનો શબ્દ 'રીત પ્રમાણે' પકડીને એક વાક્યમાં રિવાજ સમજાવો : ખરખરે આવેલા સહુ ડેલી પાસે હારમાં બેસે, અને જેને ત્યાં મરણ થયું હોય તે એક પછી એક દરેકના માથે હાથ મૂકીને છાના રાખતા આગળ વધે. `key_terms`માં `ખરખરો` અને `ડેલી` ગ્લોસ કરો. 'શોધવું', 'તપાસ' કે 'નજર રાખવી' જેવો કોઈ શબ્દ મહારાજ માટે ન વાપરો."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "Gate 4 (spoiling the turn early) — this topic carries `topic_category: \"climax\"`, so the gate falls on the topics before it: M1.S1.T1, M1.S1.T2, M1.S2.T3 and M2.S3.T4 must contain none of this topic's outcome words — વરત્યો, 'ભલો વરત્યો રાજ', વજ પડ્યું, 'પ્રતાપી મ્હોં ખુલ્લું', હાકોટા પરખાય, જોગીદાસ ખુમાણ નામ પડ્યું — in `explanation`, `summary`, `detailed_summary` or any recall `answer`.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 1 (summary-only teaching), on the craft of this beat: `explanation` must keep and name the printed order — મહારાજ માથે હાથ મૂકે છે, પછી નામ દઈને સાદ કરે છે, અને પછી જોગીદાસ પછેડી ખસેડે છે — because the recognition happens while the face is still covered. An `explanation`, `summary` or recall `answer` in which the face is uncovered before the king speaks contradicts `original_chunk` and fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 6 (standardising a લોકકથા's dialect): 'ભલો વરત્યો રાજ !', 'છાના રો'', વરતું, વરતાય, પરખાય, હાકોટા, આંહી and મ્હોં are quoted exactly as printed. No field may print ઓળખ્યો in place of વરત્યો, or મોઢું in place of મ્હોં, inside quotation marks — the gloss goes beside the printed word, never over it.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `વરત્યો`ને `વર્ત્યો` — વર્તન કર્યું — સમજી લે છે, એટલે 'ભલો વરત્યો રાજ !' એને 'તમે સારું વર્તન કર્યું' જેવું વખાણ લાગે છે. પાઠનું નામ જ `સાદ વરત્યો` છે, એટલે આ એક શબ્દ ચૂક્યે વાર્તાનો આખો વળાંક — અવાજ ઓળખાયો — હાથમાંથી જતો રહે છે.",
+      "correction": "`explanation`માં પહેલી જ વાર `વરત્યો — ઓળખ્યો` એમ ગ્લોસ કરો અને `key_terms`માં એ જ અર્થ મૂકો. પછી મહારાજનો પોતાનો જવાબ ટાંકો, જ્યાં એ જ શબ્દ પાછો આવે છે — 'વરતું કેમ નહિ … પાંચસો આદમી વચ્ચે તારા હાકોટા પરખાય, તો પછી તારા વિલાપ કેમ ન વરતાય ?' — અને એક વાક્યમાં કહો કે તે ઘડીએ મોઢું તો પછેડીથી ઢંકાયેલું જ હતું; ઓળખ આંખે નહિ, કાને થઈ."
+    },
+    {
+      "topic_id": "M2.S4.T6",
+      "avoid_checks": [
+        {
+          "check": "Gate 2 (a tacked-on બોધ), at the topic that most invites it: no sentence of `explanation`, `summary`, `detailed_summary`, `concept_bullets` or a recall `answer` may close on a moral about દુશ્મની or માફી — 'દુશ્મન સાથે પણ સારો વ્યવહાર કરવો જોઈએ', 'આ વાર્તા આપણને શીખવે છે…', 'બોધ એ છે કે…'. Where the chapter states its point it does so inside વજેસંગનું વેણ ('મારા ગરાસમાં નહિ, પણ મારા દુઃખમાં ભાગ લેવા આવ્યા છે'), which is quoted as his speech and taught as the moment he chooses it.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 3 (judging a character the story treats with sympathy): no `explanation`, `real_life_example` or recall `answer` may call the રાજપૂતો who reached for their sword-hilts ઉતાવળિયા, મૂરખ or ખોટા, or વજેસંગ નબળો or ડરપોક for stopping them. Their reason is printed ('સહુને લાગ્યું કે હમણાં જોગીદાસ મહારાજને મારી પાડશે') and his is printed too; both are given as reasons, not as faults.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 1 (summary-only teaching): `explanation` must say what turned the swords back — ઠાકોરનો ઊંચો થયેલો હાથ અને એનું વેણ — and must not leave the હાથ-ઊંચો and the તલવારો-મ્યાન as two events in sequence with no cause named.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ઠાકોરના ઊંચા થયેલા હાથ અને 'જોગીદાસભાઈ' સંબોધન પરથી એમ સમજી લે છે કે અહીં જ વેર પૂરું થઈ ગયું, સંધિ થઈ ગઈ ને બહારવટું બંધ થયું. પાઠ એવું કશું કહેતો નથી — છૂટ ફક્ત આજના શોક પૂરતી છે.",
+      "correction": "`explanation`માં વજેસંગનું પોતાનું વાક્ય ટાંકો — 'આજ જોગીદાસભાઈ બાઝવા નથી આવ્યા … મારા ગરાસમાં નહિ, પણ મારા દુઃખમાં ભાગ લેવા આવ્યા છે' — અને `ગરાસ — જમીન-જાગીર`, `બાઝવું — લડવું` ગ્લોસ કરો. પછી એક વાક્યમાં હદ બાંધો : આજે લડાઈ નથી, પણ ગરાસનો ઝઘડો ત્યાં ને ત્યાં જ ઊભો છે. કોઈ ઉત્તરમાં 'વેર પૂરું થયું', 'સંધિ થઈ' કે 'બહારવટું છોડ્યું' ન લખો."
+    },
+    {
+      "topic_id": "M3.S5.T7",
+      "avoid_checks": [
+        {
+          "check": "Gate 3 (judging a character the story treats with sympathy), on this topic's hardest sentence: the printed 'આવો તપસ્વી પુરુષ નિર્દોષ રૈયતનાં માથાં વાઢી વાઢીને સાંતીડે ટીંગાડતો હશે … એ વાત ઘડીભર તો ન મનાય તેવી લાગી.' is શિહોરના લોકોના મનની વાત. No `explanation`, `summary`, `detailed_summary`, recall `answer` or exercise `answer` may state it as the plan's own account of what જોગીદાસ did, and none may label him ક્રૂર, ગુનેગાર, રાક્ષસ or દૈત્ય — the word દૈત્ય exists here only as what people had imagined ('બહારવટિયાઓને દૈત્ય જ કલ્પેલા હતા').",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 2 (a tacked-on બોધ), at the chapter's closing topic: no sentence of `explanation`, `summary`, `detailed_summary`, `concept_bullets` or a recall `answer` may close on 'આ વાર્તા આપણને શીખવે છે…' / 'આપણે પણ … જોઈએ' / 'બોધ એ છે કે…'. The chapter's own closing line is the women's printed વેણ ''સાચે લખમણ જતિનો અવતાર !'' and it is quoted as theirs, taught as what the crowd said, not restated as the lesson.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 6 (standardising a લોકકથા's dialect): થોકેથોક, હલક્યું, ચહેરા-મહોરા, દીઠા, જતિસ્વરૂપ, રૈયત, સાંતીડે, ધીસરાં, ઢાંઢા, ઘટાટોપ મેદની, વેણ and 'સાચે લખમણ જતિનો અવતાર !' appear in the printed form wherever quoted. In particular the story's form સાચે લખમણ must not be replaced by the જોડકાં block's printed form સાચો લક્ષ્મણ inside any teaching field.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'આવો તપસ્વી પુરુષ નિર્દોષ રૈયતનાં માથાં વાઢી વાઢીને સાંતીડે ટીંગાડતો હશે…' એ લાંબા વાક્યને લેખકનું નિવેદન અથવા અહીં બનેલી ઘટના સમજી લે છે, અને છેલ્લા ભાગ 'એ વાત ઘડીભર તો ન મનાય તેવી લાગી' સુધી પહોંચતાં પહેલાં જ અર્થ બાંધી લે છે. એટલે વિદાયનું આખું દૃશ્ય ઊંધું વંચાય છે.",
+      "correction": "`explanation`માં એ વાક્યને એના છેલ્લા ભાગ સાથે જ, એક જ શ્વાસે રજૂ કરો, અને સીધું કહો કે આ શિહોરના લોકોના મનની વાત છે : સામે નીચી નજરે ચાલ્યો જતો શાંત જુવાન, અને એના વિશે સાંભળેલી વાતો — બે મેળ ખાતાં નથી, ને લોકોને એ ઘડીભર માનવામાં આવતું નથી. `key_terms`માં `રૈયત — રાજ્યની પ્રજા` અને `સાંતીડું — હળ` ગ્લોસ કરો, જેથી વાક્ય ઉકેલવામાં જ બાળક અટકી ન જાય."
+    }
+  ],
+  "chapter_level": [
+    "Spoiler gate scope for this chapter: the વળાંક is M2.S3.T5 (`topic_category: \"climax\"`). Every topic printed before it — M1.S1.T1, M1.S1.T2, M1.S2.T3, M2.S3.T4 — is bound by varta gate 4, so the recognition, the words વરત્યો / 'ભલો વરત્યો રાજ' / વજ પડ્યું / પરખાય, and the outcome at the ડેલી may not appear in any of their `explanation`, `summary`, `detailed_summary` or recall `answer` fields. The per-topic checks above make this concrete where the temptation is strongest.",
+    "The blue પ્રવેશપેટી on the chapter's first printed page carries the book's own standing order — 'આ પાઠમાં વપરાયેલા તળપદા શબ્દોનો બાળકોને ખાસ પરિચય કરાવવો.' — so varta gate 6 has the textbook behind it here. Every તળપદો / period form (સાદ, વરત્યો, આપા, દી', કે'વાય, ના'વું, જોવે, જાયેં ભલે, છતરાયા, ભે, ગૂડો, ધાસ્તી, દેઈ, જણ, મ્હોં, આંહી, હાકોટા, પરખાય, છાના રો', ઢાંઢા, ધીસરાં, સાંતીડે, થોકેથોક, હલક્યું, લગરીક, સાચે લખમણ) is glossed at the point of use and quoted in the printed form; nowhere in the plan is it replaced by its માનક ગુજરાતી equivalent.",
+    "The chapter's biggest L2 stall is idiom, not vocabulary. Four રૂઢિપ્રયોગ are printed in their own box beside the શબ્દાર્થ box — માથું ફાટવું, દમ નીકળી જવો, માથે વીજળી પડવી, વજ પડવું — and all four are used inside the story itself. Each is glossed at first use in the topic where it occurs and is never read literally; they are first candidates for `key_terms` in \"શબ્દ — અર્થ\" form.",
+    "Printed variance between the story and the સ્વાધ્યાય, recorded by Agent 1 and not to be 'corrected' by anyone: the story prints ''સાચે લખમણ જતિનો અવતાર !'' and ''બીતો હોત તો આવત શા માટે રાજ ?'', while the જોડકાં block prints ''સાચો લક્ષ્મણ જતિનો અવતાર !'' and ''બીતો હોત તો આવત શા માટે રાજ !''. Teaching fields quote the story's own wording; `exercise_solutions.json` answers from the exercise's own wording. Similarly the story prints દાદભા while the ડાયરા sentence prints કુંવરદાદાભા — both stand as printed.",
+    "Sensitivity, chapter-wide (varta gate 3 and global rule 10): બહારવટું is a real Saurashtra practice and both men on this page are treated with dignity by the text — the બહારવટિયો is 'જુવાન જોગીદાસ' with a 'પ્રતાપી મ્હોં', and the મહારાજ is a father who has lost a son. No field may argue whether બહારવટું was right or wrong, turn the chapter into a lesson about crime and punishment, or hand either man a verdict. The chapter is taught as a કથા that turns on a voice being recognised.",
+    "Std-7 genre gate, at every tier (`profiles/students/std-7.md` §2): the child experiences the સ્વરૂપ and never labels it. No child-facing field names લોકકથા, વાર્તા-સ્વરૂપ, અલંકાર, છંદ or any device; `figures_of_speech` stays `[]`, and that is a complete answer, not a gap. The book's own લોકકથા label sits in the teacher-addressed પ્રવેશપેટી and in block eleven's library task, and stays there.",
+    "The chapter is a single લોકકથા throughout — one profile, `varta`, applies to all seven topics; there is no mixed-genre boundary in this unit and no verse anywhere in it."
+  ]
+}

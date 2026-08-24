@@ -1,0 +1,13 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "a3685cf66450910a04ae3f39272af82d8bb9d7b9e635373c6302f9467bcd7108",
+  "verdict": "pass",
+  "notes": [
+    "Convergence record only — the structure payload is NOT duplicated here. Downstream agents read 02_structure.json for structure and this file only to confirm convergence.",
+    "Ids are frozen as of this record: M1–M3, M1.S1–M3.S4, T1–T9, C1–C11, O1–O9 with strand_to_objective_map L1→O1 … L9→O9. Only Agent 14 renumbers M/S/T/C; O{n} and strand_to_objective_map are never renumbered.",
+    "Ran once, no loop. All three blocking checks passed on the first pass: સ્વરૂપ fidelity (unit 'એક ઘટના', varta.md, no verse in the unit), coverage (9 reading markers → 9 topics in order, 0 of 13 સ્વાધ્યાય blocks cut as topics), objectives (O1–O9 unique, all anchors and home_topic_ids resolve, ids per naming_conventions.md).",
+    "sha256 is of 02_structure.json as it stood at this pass. If that file changes afterwards, this record no longer applies and convergence must be re-established.",
+    "Full check-by-check evidence and the non-blocking notes for Agent 13 live in 04_validation.json."
+  ]
+}

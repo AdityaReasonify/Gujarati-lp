@@ -1,0 +1,206 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "The opening stage-direction `(કૌરવ અને પાંડવ કુમારો ખુલ્લા મેદાનમાં ઊભા છે. દૂર વૃક્ષો દેખાય છે.)` is the only scene-setting line the chapter prints, and it lives in this topic: it must stand in `original_chunk` character-for-character with its round brackets, and `explanation` must point at `દૂર વૃક્ષો` as the ઝાડ the પરીક્ષા will use. An `explanation` that skips the bracketed line as printing apparatus, or rewrites it as narration (`મેદાનમાં કુમારો ઊભા હતા`), fails.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "This ખંડ carries eight printed speakers. `explanation` must contain the string `દુઃશાસન` together with at least one of `દુર્યોધન`, `અર્જુન`, `યુધિષ્ઠિર`, and must report both what દુઃશાસન says he fears (`મને તો ડર છે, કદાચ પરીક્ષા તો નહીં લેવાની હોય ને ?`) and one thing another કુમાર says back to it. A one-voice summary of this exchange is a hard fail.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary` or any `recall_questions[].answer` may give a કુમાર an unspoken thought or feeling — `દુઃશાસનને લાગ્યું કે`, `બધા કુમારો ગભરાઈ ગયા હતા`, `અર્જુનને મનમાં થયું`. The only fear and the only gladness on this page are the ones spoken in `મને તો ડર છે, કદાચ પરીક્ષા તો નહીં લેવાની હોય ને ?` and `આપણું સદ્ભાગ્ય છે.`",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક કૌંસમાં છપાયેલી પહેલી લીટી `(કૌરવ અને પાંડવ કુમારો ખુલ્લા મેદાનમાં ઊભા છે. દૂર વૃક્ષો દેખાય છે.)` ને પાઠનું લખાણ ગણતું જ નથી — એને છાપકામની સૂચના માનીને કૂદી જાય છે. એટલે પછી `પેલું દૂર ઝાડ જુઓ` આવે ત્યારે ઝાડ ક્યાંથી આવ્યું તે સમજાતું નથી.",
+      "correction": "`explanation` ના પહેલા જ વાક્યમાં કૌંસવાળી લીટી વાંચીને કહો કે આ પણ પાઠનું જ લખાણ છે અને એ બતાવે છે કે કુમારો ક્યાં ઊભા છે. પછી `દૂર વૃક્ષો દેખાય છે` પર આંગળી મૂકીને કહો કે આ જ ઝાડ પર પછી પંખી બેઠેલું છે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "`ડરપોક` and `ચુગલીખોર` are ભીમ's own words inside his own turn. Wherever either string appears in `explanation`, `summary`, `detailed_summary`, `real_life_example` or a `recall_questions[].answer`, it must be attributed to ભીમ as something he says to દુરાધર; no field may use either word in the teaching voice about દુરાધર. Equally, no field may attach a judging word (`તોછડો`, `ગુસ્સાખોર`, `ખરાબ`, `ઉદ્ધત`) to ભીમ, whom દ્રોણ on this same page calls `આજ્ઞાંકિત` and `બત્રીસ-લક્ષણો`.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "All six parentheticals printed in this beat stand in `original_chunk` exactly as printed, brackets included: `(ગુરુ દ્રોણાચાર્યનો પ્રવેશ થાય છે. સૌ કુમારો વિનયપૂર્વક પ્રણામ કરે છે.)`, `(એક સાથે)`, `(ધીમા અવાજે)`, `(ઊંચા અવાજે)`, `(નકુલ તેના બંને હાથ, બે ધનુષ્ય સાથે ઊંચા કરે છે.)`, `(દુરાધર સામે બે ડગલાં ચાલીને)`. Any one of them rewritten as narration or dropped is a hard fail.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` should say what the two volume-directions show that the words alone do not — દુરાધર speaks `(ધીમા અવાજે)` and ભીમ answers `(ઊંચા અવાજે)` — because the child will be asked to perform this એકમ (`આ એકમને વર્ગમાં સંવાદ સ્વરૂપે રજૂ કરો.`).",
+          "profile": "natak_ekanki",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "`ધીમે ધીમે શું ચાડી ખાય છે ?` માં `ખાય છે` વાંચીને બાળક સમજે છે કે દુરાધર કંઈક ખાય છે. પછી ભીમ કેમ ગુસ્સે થયો એ આખી વાત ખોટી પકડાય છે.",
+      "correction": "એ પંક્તિ આવે ત્યાં જ `ચાડી ખાવી — બીજાની વાત આગળ જઈને કહી દેવી` એમ ગ્લોસ કરો, ને તરત બાજુમાં `ચુગલીખોર — ચાડી ખાનારો` મૂકો, જેથી બંને શબ્દ એક જ વાક્યમાં જોડાઈ જાય. અહીં ખાવાનું કશું નથી એ સીધું કહી દો."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "દ્રોણનું `બધાનો વારો આવશે.` and the કુમારોની ઉતાવળ must be reported, never issued at the child. No `explanation`, `summary`, `brief_summary`, `detailed_summary`, `real_life_example` or `recall_questions[].answer` may carry a second-person or first-person-plural directive built on this beat — `ધીરજ રાખો`, `આપણે ધીરજ રાખવી જોઈએ`, `વારો આવે ત્યાં સુધી રાહ જોવી જોઈએ`, `ઉતાવળ ન કરો`.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "દુર્યોધનનું `આ અન્યાય છે. પહેલો મારો વારો.` is his stated reason for wanting the first turn. No field may attach a character-judging word (`સ્વાર્થી`, `ઘમંડી`, `ઉદ્ધત`, `ખરાબ`, `બેજવાબદાર`) to him because of it; the reason is quoted and દ્રોણનો જવાબ `બધાનો વારો આવશે.` is put next to it.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "`અમે સો એ સો ભાઈઓ પક્ષીની આંખ વીંધી શકીએ એમ છીએ.` and `સો નહીં, આપણે એકસો ને પાંચેય ભાઈઓ આ કામ કરી શકીએ છીએ.` are quoted as printed and explained only from what stands here. No field may bring in Mahabharat lore to account for the count — `ધૃતરાષ્ટ્રના સો પુત્રો`, `પાંડુના પાંચ પુત્રો`, કુરુક્ષેત્ર, or who these princes later became.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "દ્રોણનો નિયમ `હું જેને આદેશ કરું તેણે પક્ષીની આંખ વીંધવાની છે` વાંચતી વખતે બાળક `જેને આદેશ કરું` એ ભાગ ગુમાવી દે છે અને સમજે છે કે બધાએ પંખીની આંખ વીંધવાની છે. પછી યુધિષ્ઠિર અને દુર્યોધનને બાણ કેમ છોડવા ન દીધું તે સમજાતું નથી.",
+      "correction": "`explanation` માં નિયમ બે ટુકડે, ટૂંકાં વાક્યોમાં કહો — નિશાન એટલે પંખીની આંખ, અને બાણ ત્યારે જ છોડવાનું જ્યારે ગુરુજી કહે. `આદેશ — હુકમ` ત્યાં જ ગ્લોસ કરો, અને એક `recall_questions[].answer` માં એ જ નિયમ ફરી બોલાય એવું રાખો."
+    },
+    {
+      "topic_id": "M1.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "This is a two-voice ખંડ: `explanation` must contain both `દ્રોણ` (or `ગુરુજી`) and `યુધિષ્ઠિર`, must report દ્રોણનો બીજો પ્રશ્ન `બોલ તને બીજું શું શું દેખાય છે ?`, and must give યુધિષ્ઠિરનો જવાબ in his own printed words `મને એ ઝાડ દેખાય છે, આપ દેખાઓ છો, સૌ ભાઈઓ પણ દેખાય છે.`",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "The closing direction `(યુધિષ્ઠિરને કશું સમજાતું નથી. તે નવાઈ પામી એક બાજુ ઊભો રહે છે.)` stands in `original_chunk` with its brackets. His puzzlement may be stated only because that direction prints it; no other interior state may be added to him or to દ્રોણ in any field.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No field of this topic may state the એકાગ્રતા/લક્ષ્ય rule as the reason દ્રોણ stops him — the words `એકાગ્રતા`, `લક્ષ્ય`, `કૌશલ્ય` are printed only in the last સંવાદ-ખંડ. Here the account stops at `તું સામે ઊભો રહે` and the printed direction.",
+          "profile": "natak_ekanki",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "`સારું સારું !` સાંભળીને બાળક માને છે કે ગુરુજીએ યુધિષ્ઠિરને શાબાશી આપી અને એની પરીક્ષા પાસ થઈ ગઈ.",
+      "correction": "`explanation` માં બતાવો કે અહીં `સારું સારું !` વખાણ નથી — તરત પછીના શબ્દો `તું સામે ઊભો રહે` છે, અને કૌંસમાં છપાયું છે `(યુધિષ્ઠિરને કશું સમજાતું નથી. તે નવાઈ પામી એક બાજુ ઊભો રહે છે.)`. એટલે બાણ છોડવાની રજા મળી નથી, એ સીધું કહી દો."
+    },
+    {
+      "topic_id": "M1.S2.T5",
+      "avoid_checks": [
+        {
+          "check": "દુર્યોધનનાં `હાસ્તો, નહીં તો હું કોને બાણ મારવાનો હતો ?` and `પછી જુઓ પંખી નીચે આવે છે કે નહીં ?` are quoted as his ઉતાવળનો સૂર. No `explanation`, summary, `real_life_example` or `recall_questions[].answer` may attach a judging word (`ઘમંડી`, `બડાઈખોર`, `ઉદ્ધત`, `સ્વાર્થી`, `ખરાબ`) to દુર્યોધન; the hurry is shown by his own lines and by દ્રોણનું `અરે ! ધીરજ રાખ.`",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "The chapter's returning question is printed differently in this ખંડ: દ્રોણ does not say `તને શું શું દેખાય છે ?` here, he asks `પહેલાં મને કહે તો ખરો, તને પંખી દેખાય છે ?` and then `બરાબર, તને ઝાડ, હું અને સૌ કુમારો દેખાય છે ?`. Any quotation of the question inside `explanation` or a recall answer for this topic uses these printed forms, not a normalised single version.",
+          "profile": "samvad_nibandh",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "`હાસ્તો` બોલચાલનો શબ્દ છે. હિન્દી કે અંગ્રેજી માધ્યમનું બાળક તેને `હાસ્ય` જેવો કોઈ શબ્દ કે કોઈનું નામ ધારીને આખા વાક્ય પરથી કૂદી જાય છે, ને દુર્યોધનનો ઉતાવળિયો સૂર પકડાતો નથી.",
+      "correction": "એ જ વાક્યમાં `હાસ્તો — હા જ તો` ગ્લોસ કરો અને કહો કે એ `હા` પર ભાર મૂકવાની બોલચાલની રીત છે. પછી `આપ આજ્ઞા આપો.` સાથે મૂકીને બતાવો કે દુર્યોધનને કેટલી ઉતાવળ છે."
+    },
+    {
+      "topic_id": "M1.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "Both directions printed inside this beat — `(કુમારોમાં હસાહસ થાય છે.)` and `(સ્વગત)` — stand in `original_chunk` with their brackets and in their printed positions. Rewriting either as narration (`બધા હસી પડ્યા`) or dropping `(સ્વગત)` from ભીમની છેલ્લી પંક્તિ is a hard fail.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No field may attach a judging word (`મૂર્ખ`, `ખાઉધરો`, `બેધ્યાન`, `બુદ્ધિ વગરનો`) to ભીમ. The laughter is on the page as a printed direction; `explanation` reports what he actually lists — `પંખી`, `બધાં વૃક્ષો`, `વૃક્ષો ઉપરનાં ફળો`, `આખું આકાશ` — and lets that list carry the humour.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` should say that `(સ્વગત)` means ભીમની પંક્તિ `કંઈક ખાવાની હરીફાઈ હોત તો મેદાન મારી જાત !` is heard by the reader and not by the other કુમારો — that is what the direction tells us and the words do not.",
+          "profile": "natak_ekanki",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "`મેદાન મારી જાત !` ને બાળક શબ્દશઃ વાંચે છે — મેદાનને મારવું, મેદાન પર ઘા કરવો — એટલે ભીમની આ મજાક હાથમાં આવતી નથી.",
+      "correction": "એ પંક્તિની બાજુમાં જ `મેદાન મારી જવું — જીતી જવું` ગ્લોસ કરો, અને ઉમેરો કે આ વાક્ય `(સ્વગત)` છે એટલે ભીમ મનમાં ને મનમાં બોલે છે; બીજા કુમારો સાંભળતા નથી, વાંચનાર સાંભળે છે."
+    },
+    {
+      "topic_id": "M1.S3.T7",
+      "avoid_checks": [
+        {
+          "check": "The four names printed here — `દીર્ઘતાલ`, `દુરોધર`, `દુરાચાર`, `દુર્મુખ` — stay exactly as printed in `original_chunk`, `explanation` and every recall answer. `દુરોધર` here is spelt differently from `દુરાધર` in the ગુરુના પ્રવેશવાળા ખંડ, and `દુરાચાર` reads like a common noun; no field may normalise either, call either a misprint, or merge the two spellings into one boy.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "The clause `એકલો અર્જુન ના, ના કહેવા હાથ હલાવે છે.` is printed inside the `બધા :` turn, not as a bracketed direction and not as અર્જુનની ઉક્તિ. It stays inside that turn in `original_chunk`, and no field may re-attribute it to અર્જુન as words he speaks.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "દ્રોણની નિરાશા is printed twice in this beat — the direction `(ખૂબ નિરાશવદને)` and the line `મારું શીખવેલું ધૂળમાં મળ્યું હોય એવું લાગે છે.` No `explanation`, summary or recall answer may add anything past these two: no `દ્રોણને ગુસ્સો આવ્યો`, no `તેમને શિષ્યો પર ભરોસો ન રહ્યો`, no `તેમને અર્જુન પર આશા હતી`.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "`મારું શીખવેલું ધૂળમાં મળ્યું હોય એવું લાગે છે` — બાળક `ધૂળમાં મળ્યું` ને ખરેખર ધૂળ સાથે ભળી ગયું એમ વાંચે છે, એટલે ગુરુજીની નિરાશા શેની છે તે પકડાતું નથી.",
+      "correction": "એ પંક્તિની બાજુમાં જ `ધૂળમાં મળવું — નકામું જવું, એળે જવું` ગ્લોસ કરો. પછી `(ખૂબ નિરાશવદને)` બતાવીને કહો કે ચારેયના સરખા જવાબ સાંભળ્યા પછી ગુરુજીને પોતાનું શીખવેલું નકામું ગયું હોય એવું લાગે છે."
+    },
+    {
+      "topic_id": "M2.S4.T8",
+      "avoid_checks": [
+        {
+          "check": "`explanation` must contain both `દ્રોણ` (or `ગુરુજી`) and `અર્જુન`, must report દ્રોણનો પ્રશ્ન `અને તને ઝાડ, હું અને આ કુમારો બધું બરાબર દેખાય છે ને ?`, and must quote અર્જુનનો જવાબ in his own printed words `મને પંખીની માત્ર લાલ આંખ જ દેખાય છે.` — the line the whole એકમ turns on.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "The direction `(અર્જુન બાણ છોડે છે. રૂના બનાવેલા પંખીની આંખ વીંધાય છે, તે નીચે પડે છે)` stands in `original_chunk` exactly as printed, including the missing પૂર્ણવિરામ before the closing bracket. Wherever `explanation`, a summary, a `recall_questions[].answer` or a media prompt describes the shot, `રૂના બનાવેલા પંખી` must be named; a field that shows or implies a live bird being struck is a hard fail.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No field may explain અર્જુનની સફળતા by anything the page does not print — `તે સૌથી હોશિયાર હતો`, `તેને પહેલેથી ખબર હતી`, `ભગવાનની કૃપા હતી`. Only his own two answers and દ્રોણનું `હાશ !` and `તને મારા આશીર્વાદ છે કે તું મહાન બાણાવળી થઈશ.` may be used.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "`હવે તો પંખી પણ આખું દેખાતું નથી` વાંચીને બાળક સમજે છે કે અર્જુનની નજર નબળી છે અથવા તેને બરાબર દેખાતું નથી. એટલે ગુરુજી કેમ રાજી થયા એ આખી વાત ઊંધી પડે છે.",
+      "correction": "`explanation` માં અર્જુનનાં બે વાક્ય સામસામે મૂકો — `હા, ગુરુજી` અને `મને પંખીની માત્ર લાલ આંખ જ દેખાય છે.` — અને સાદા શબ્દોમાં કહો કે તેની આંખ નબળી નથી; તેની નજર એક જ જગ્યાએ ચોંટી છે, બાકીનું બધું જોવાનું તેણે છોડી દીધું છે."
+    },
+    {
+      "topic_id": "M2.S4.T9",
+      "avoid_checks": [
+        {
+          "check": "The lesson's ask is દ્રોણનું, reported as his. No `explanation`, `brief_summary`, `summary`, `detailed_summary`, `real_life_example`, `publication_text` or `recall_questions[].answer` may carry a directive to the child built on this beat — `એકાગ્રતા રાખો`, `આપણે એકાગ્ર થવું જોઈએ`, `ધ્યેય નક્કી કરવું જોઈએ`, `મન એક જગ્યાએ પરોવવું જોઈએ`. દ્રોણનું `બધાં જ કાર્યો માટે લક્ષ્ય બરાબર નક્કી કરવું જ પડે` is quoted as what he says to the કુમારો.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "No authored field of this topic ends on `બોધ`, `સંદેશ`, `શિખામણ`, `ઉપદેશ`, `આપણે શીખવું જોઈએ` or a closing clause of the shape `જીવનમાં … જોઈએ`. The last words the page gives are the કુમારોનાં — `હવે અમે સૌ એકાગ્રતાની વાત બરાબર યાદ રાખીશું.` — and they are quoted as theirs, not turned into the teaching voice's summing-up.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "દ્રોણનું છેલ્લું વાક્ય is printed unfinished: `એટલે મેં આજે નક્કી કર્યું હતું કે બાણ તો ત્યારે જ છૂટશે, જ્યારે...`. The ત્રણ ટપકાં stay in `original_chunk`, and no `explanation`, summary or recall answer may complete the sentence with words the page does not print (`જ્યારે લક્ષ્ય સિવાય કશું ન દેખાય`, `જ્યારે મન એકાગ્ર થાય`). What may be said is that સૌ કુમારો cut in with `ગુરુજી, બધું જ સમજાઈ ગયું.`",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "દ્રોણનું છેલ્લું વાક્ય `બાણ તો ત્યારે જ છૂટશે, જ્યારે...` ત્રણ ટપકાં પર અટકી જાય છે. બાળક માને છે કે પુસ્તકમાં લીટી છપાવાની રહી ગઈ છે, અથવા પાનું ફાટ્યું છે — એટલે એ અધૂરાપણું જ જે કહેવા માગે છે તે ખોવાઈ જાય છે.",
+      "correction": "`explanation` માં કહો કે વાક્ય અધૂરું છપાયું છે એ જ સાચું છે — વચ્ચે જ સૌ કુમારો બોલી ઊઠે છે `ગુરુજી, બધું જ સમજાઈ ગયું.`, એટલે ગુરુજીને પૂરું કરવું પડતું નથી. સાથે બતાવો કે એ અધૂરું વાક્ય જ આ એકમનું નામ છે. અધૂરો ભાગ જાતે પૂરો કરીને ન લખો."
+    }
+  ],
+  "chapter_level": [
+    "આ એકમ છપાયો છે સંવાદ તરીકે, નાટક તરીકે નહીં: પાત્રો-પેટી નથી, પ્રવેશ/અંક-શીર્ષક નથી, પડદો નથી. પુસ્તક પોતે બે વાર `સંવાદ` શબ્દ વાપરે છે (પ્રવેશપેટી અને છેલ્લો બ્લૉક `આ એકમને વર્ગમાં સંવાદ સ્વરૂપે રજૂ કરો.`). તેથી કોઈ ટૉપિક header/પાત્રો ટૉપિક નથી અને કોઈ પણ ક્ષેત્રમાં આ કૃતિને `નાટક` કે `એકાંકી` ન કહેવી — natak_ekanki માત્ર સમજૂતી-એકમ અને રંગસૂચના-લખાણના gate માટે સાથે લોડ થયો છે.",
+    "છાપેલી વિચિત્રતાઓની નોંધ (natak_ekanki નો `printed text is never corrected` gate) — એકેય જગ્યાએ સુધારવી નહીં, ટીકા તરીકે પણ નહીં: `દુરાધર` (ગુરુના પ્રવેશવાળા ખંડમાં) સામે `દુરોધર` (ચાર કુમારોવાળા ખંડમાં); `દુરાચાર` અને `દુર્મુખ` નામ છે, દોષ નથી, અને એ બંને એક પણ પંક્તિ બોલતા નથી; `બધા :` ના વળાંકની અંદર જ ચાલતું `એકલો અર્જુન ના, ના કહેવા હાથ હલાવે છે.`; `સારું.. સારું..` માં બે ટપકાં અને `સારું... સારું,` માં ત્રણ; દુર્યોધનનું જગ્યા વગરનું `શી ખબર?` જ્યારે બાકીના પ્રશ્નચિહ્ન પહેલાં જગ્યા છે; `હવે બોલો,` પછીની બેવડી જગ્યા; અને અર્જુનવાળા ખંડની રંગસૂચનાને છેડે પૂર્ણવિરામ વગરનું `)`.",
+    "L2 standing hazard — આખો એકમ બોલચાલના રૂઢિપ્રયોગો પર ચાલે છે અને ધો. 6 નું હિન્દી/અંગ્રેજી માધ્યમનું બાળક તેમને શબ્દશઃ વાંચી લે છે: `ચાડી ખાવી`, `ધૂળમાં મળવું`, `ભોંય ભેગું કરવું`, `મેદાન મારી જવું`, `નિશાન સાધવું`, `નવાઈ પામવું`, અને બોલચાલનાં રૂપ `હાસ્તો` અને `અલ્યા`. દરેકને જ્યાં તે છપાયો છે ત્યાં જ ગ્લોસ કરવો; પુસ્તક પોતે શબ્દાર્થ-પેટી અને `નીચેના શબ્દોનો સાચો અર્થ થતો હોય તે વાક્યની સામે ✓ કરો.` બ્લૉક (જેમાં `ધૂળમાં મળવું.` છે) છાપીને કહી દે છે કે અહીં બાળક અટકે છે.",
+    "બે-પક્ષી દલીલ અહીં નથી — એક જ પ્રશ્નના જુદા જુદા જવાબ છે (04_converged.json ની નોંધ). samvad_nibandh નો `both sides fairly` નિયમ અહીં એટલો જ લાગુ પડે કે દરેક ખંડના બંને બોલનાર — ગુરુ અને એ ખંડનો કુમાર — બંનેના શબ્દો explanation માં આવે. કોઈ પણ ક્ષેત્રમાં કૌરવ વિરુદ્ધ પાંડવ એવા બે પક્ષ ઊભા ન કરવા.",
+    "મહાભારતની બહારની એક પણ હકીકત કોઈ ક્ષેત્રમાં ન આવે: કુરુક્ષેત્ર, યુદ્ધ, ધૃતરાષ્ટ્ર, કૃષ્ણ, પાત્રોનું પછીનું જીવન કે તેમનું દૈવી સ્થાન — આ નવ ખંડમાં જે છપાયું છે તેની બહાર કશું નહીં. પાઠ `તું મહાન બાણાવળી થઈશ` પર અટકે છે, સમજૂતી પણ ત્યાં જ અટકે.",
+    "એક જ પ્રશ્ન વારંવાર પાછો આવે છે — `તને શું શું દેખાય છે ?` — અને એ જ આ ગદ્યનો ટેક-જેવો આધાર છે. તે જ્યાં જ્યાં પાછો આવે ત્યાં જેમ છપાયો છે તેમ ટાંકવો (દુર્યોધનવાળા ખંડમાં તે બે અલગ પ્રશ્નમાં વહેંચાયેલો છે), તેને એક જ સરખા રૂપમાં ઢાળવો નહીં, અને તેને પોતાનો અલગ ટૉપિક ક્યારેય ન બનાવવો.",
+    "લખાણમાં છપાયેલા સંખ્યાવાચક શબ્દો — `સો એ સો ભાઈઓ`, `એકસો ને પાંચેય ભાઈઓ`, `બત્રીસ-લક્ષણો`, `બે જોડ ધનુષ્ય`, `ચાર જણા`, `બે ડગલાં` — અવતરણમાં જેમ છે તેમ રહે; global_content_rules નો `no numbers in display text` નિયમ આ છાપેલા શબ્દોને લાગુ પડતો નથી, પણ ટૉપિક-નામ કે સમજૂતીમાં `ખંડ 3`, `સ્વાધ્યાય 5` જેવા આપણા પોતાના આંકડા ક્યાંય ન લખવા — `પહેલા સંવાદ-ખંડમાં`, `છેલ્લા ખંડમાં` એમ કહેવું."
+  ]
+}

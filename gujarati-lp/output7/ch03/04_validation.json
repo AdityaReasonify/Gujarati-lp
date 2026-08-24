@@ -1,0 +1,63 @@
+{
+ "agent": "04_mapping_convergence",
+ "chapter_id": "gseb_eng_gujarati7_ch3",
+ "source": "02_structure.json",
+ "pass_number": 2,
+ "pass_kind": "revalidation after the single permitted A2 re-run",
+ "status": "pass",
+ "checks": {
+  "genre_fidelity": {
+   "pass": true,
+   "notes": [
+    "સ્વરૂપ, explanation unit and lens are unchanged from pass 1 and remain correct: 01_meta.json and 02_structure.json agree field for field — genre વાર્તા / varta.md (પૌરાણિક વીરકથા sub-form), explanation_unit 'એક ઘટના', teaching_lens 'ઘટના + પાત્ર + વળાંક', guiding_question 'ચક્રવ્યૂહ તૂટ્યો તોય યુધિષ્ઠિરે કેમ કહ્યું કે આપણો ભડવીર ખૂટ્યો ?'. A1 was correctly NOT re-run.",
+    "The કડી / દુહો / પદ / ટેક sub-rules remain vacuous and correctly so: 00_chapter_normalized.md carries zero [[કડી]], [[દુહો]], [[પદ]] and [[ટેક]] markers (re-counted: 0/0/0/0), matching 01_meta.json structure_inventory kadi=0, duha=0, pad=0, tek_occurrences=0. No દુહો shares a topic and no પદ is split because none is printed. Not a mixed chapter — no verse appears anywhere in the reading text.",
+    "The one change A2 made is licensed by the profile that demanded it. profiles/genres/varta.md, under '## Explanation unit — one ઘટના', states 'A single sentence that turns everything is its own topic' and names this chapter's closing ‘‘ચક્રવ્યૂહ તૂટ્યો પણ આપણો ભડવીર ખૂટ્યો !’’ as the instance. That sentence is now M3.S6.T13, its own topic with its own concept and its own objective. Blocking item B1 of pass 1 is RESOLVED.",
+    "The split obeys explanation_unit_map.md rule 3 (a unit that does two clearly different things may split, never for દુહો or પદ): the mass attack that breaks the rules of war (line 117, T12) and the commander's verdict on what that attack cost (line 119, T13) are two different things. Both topics declare the same twelfth marker in markers[], so no marker is swallowed and no topic sits on text no marker claims.",
+    "varta.md avoid-gate re-scan over every child-facing name and every objective_text in the re-cut file: (1) no tacked-on બોધ — pattern scan for 'શીખવે છે' / 'આપણે પણ' / 'બોધ એ છે' / 'શિખામણ' returns zero hits; O13 asks the child to derive what ‘ખૂટ્યો’ shows about યુધિષ્ઠિર's feeling, which is the author's move, not an imported moral. (2) No evaluative label applied to any character — scan for ગાંડો / મૂરખ / ખોટો / ગુનેગાર / દુષ્ટ / કાયર returns zero. (3) No debunking or verifying of the પૌરાણિક કથા — zero hits. (4) The પ્રવેશપેટી's teacher instructions stay out of the cut and are recorded in not_cut_as_topics.",
+    "Craft-label ceiling holds for std 7: no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any module, segment, topic, concept or objective name. The intro box's own 'વીરરસભરી પૌરાણિક કથા' is quoted only as genre evidence inside not_cut_as_topics, never in child-facing text."
+   ]
+  },
+  "coverage": {
+   "pass": true,
+   "scenes": 12,
+   "topics": 13,
+   "notes": [
+    "Every reading scene became a topic, in printed order, mechanically re-verified: the 12 reading-scene markers in 00_chapter_normalized.md (nine [[ઘટના: …]] + three [[સંવાદ: …]], equal to 01_meta.json structure_inventory.ghatna = 12) appear across the 13 topics' markers[] with scene-index sequence [0,1,2,3,4,5,6,7,8,9,10,11,11]. No marker is unused, no marker reference is unknown, and the sequence is monotonic — printed order is preserved.",
+    "Thirteen topics against twelve markers is correct here and is not an over-cut: the twelfth marker is deliberately carried by two topics (M3.S6.T12 and M3.S6.T13) under the varta.md turning-sentence rule, and both declare it. Markers one to eleven map 1:1 to T1–T11.",
+    "Line coverage inside the reading region (lines 27–119) is complete and disjoint, re-run after the change: every non-blank, non-marker line is claimed by exactly one topic, zero lines are double-covered, zero reading lines are uncovered, the lowest claimed line is 28 and the highest is 119. The split lands where A2 said it does — T12 holds line 117 only, T13 holds line 119 only.",
+    "The pre-topic hook is still correctly applied and survived the re-cut untouched: line 42 ('એકવાર અભિમન્યુએ શ્રીકૃષ્ણમામાને પૂછ્યું - ‘‘મામા ! ચક્રવ્યૂહ એટલે શું ?’’'), printed at the foot of the third marker's block on p. 11, opens M1.S2.T4 whose source lines read '42, 49-55' (explanation_unit_map.md rule 2).",
+    "No સ્વાધ્યાય block became a topic. All 16 exercise_inventory verbatim_headings were cross-checked against all 13 topic_name values and against every topic's claimed line range: zero collisions, exact or containment. The first [[સ્વાધ્યાય: …]] marker sits at line 130 and no topic claims any line at or beyond 120, so the apparatus region is untouched. The four apparatus blocks — પ્રવેશપેટી, શબ્દાર્થ, રૂઢિપ્રયોગ, વ્યાકરણપેટી — are correctly excluded and recorded in not_cut_as_topics.",
+    "Pre-reading opener: this chapter has NO student-facing pre-reading prose, so no opener topic exists and none is required. The only pre-reading matter is the blue [[પ્રવેશપેટી]] on printed p. 11, which is teacher-addressed ('…વર્ગમાં શિક્ષકે તેમજ વિદ્યાર્થીઓએ રજૂ કરવી.'). explanation_unit_map.md rule 4 makes the blue intro box apparatus, not a topic; a std-10-style student-addressed કવિ/લેખક-પરિચય would have been a CONCEPT topic, and this chapter prints none — its credit slot reads only '- સંકલિત'. Correctly excluded; Agent 13 should not re-raise it.",
+    "In-text wrap: none printed. The narrative ends at the યુધિષ્ઠિર sentence and the next marker is [[શબ્દાર્થ]]; there is no REVIEW box to cut. Correctly absent, and topic_type is STORY_TELLING on all thirteen."
+   ]
+  },
+  "objectives": {
+   "pass": true,
+   "count": 13,
+   "notes": [
+    "Root objectives[] exists with 13 entries, O1–O13, all objective_id values unique. Every home_topic_id resolves to a topic in this tree (13/13). Every anchor[] id resolves to a concept node in this tree (15/15 anchors across C1–C15, no dangling id). The new O13 anchors M3.S6.T13.C15 and homes on M3.S6.T13.",
+    "strand_to_objective_map covers every legacy_id exactly once: L1–L13 → O1–O13, 13 keys, keys unique, targets unique, key set equals the legacy_id set carried on objectives[] and target set equals the objective_id set. Single strand L / ભાષા અને સાહિત્ય per naming_conventions.md.",
+    "Every topic carries objective_ids and each resolves to the registry; all 13 registered objectives are referenced by a topic and none is orphaned. Every depends_on target resolves to a topic in this tree.",
+    "Each objective is text-grounded and chapter-specific — every one points at something printed on these eight pages: કુંતીજી's prediction, the હળ question, ‘‘બુદ્ધિ તો એના બાપની છે !’’, શ્રીકૃષ્ણ's definition of ચક્રવ્યૂહ, the interrupted womb-lesson, ‘‘સોયની અણી જેટલી જમીન…’’, સુશર્માનું બદલાનું કારણ, the unfinished 'હવે... ?', ‘‘હું છું ને !’’, the રણવેશ and the કૌરવોનું મહેણું, the enemies' ‘વાહ!’, the નિયમભંગ, and the closing યુધિષ્ઠિર sentence with its word ‘ખૂટ્યો’. None could be pasted into another chapter, and all serve the ઘટના + પાત્ર + વળાંક lens.",
+    "O12 was correctly narrowed to the નિયમભંગ alone and O13 added for the turning sentence, exactly as pass 1's fix prescribed. No other objective was re-authored — O1–O11 are unchanged.",
+    "Id contract holds after the re-cut. Hierarchy is dotted and continuous with no restarts (M1→M3, S1→S6, T1→T13). Concept numbering is chapter-continuous C1…C15 with every concept_id prefixed by its own topic_id — the promoted concept kept its chapter-continuous number as M3.S6.T13.C15 and was correctly NOT renumbered to .C1, per naming_conventions.md. Regex scan of the whole file: no M{m}.S{s}.T{t}.P{n}-style objective code anywhere, and no .SR{n} recall id anywhere. No .RQ{n} ids exist yet, which is correct at this stage — recall questions are Agent 12's.",
+    "No numbers in display text (global_content_rules.md rule 4): scan of every module, segment, topic and concept name for ASCII or Gujarati digits returns zero. topic_category values are descriptive throughout, with exactly one 'climax' (M3.S6.T12) and 'resolution' on M3.S6.T13.",
+    "topic_type is the authored enum STORY_TELLING throughout, which explanation_unit_map.md defines for Agents 02–13 and which Agent 14/15 map to 'instructional' at emit. Correct at this stage, not a contract breach. original_chunk is empty on all thirteen topics, which is also correct at this stage — verbatim attachment is Agent 5's declared work."
+   ]
+  }
+ },
+ "blocking": [],
+ "owner": null,
+ "notes": [
+  "PASS on the second and final permitted pass. Pass 1's single blocking item B1 — the profile-named turning sentence cut as a concept rather than a topic — is resolved exactly as prescribed, with no collateral damage: the marker-to-topic mapping, printed order, line-disjoint coverage, the line-42 hook into M1.S2.T4, the exclusion of all 16 સ્વાધ્યાય blocks and the four apparatus boxes, and objectives O1–O11 all verified unchanged and clean.",
+  "04_converged.json was written as a byte-identical copy of 02_structure.json. Ids are frozen from this moment: M1–M3, M1.S1–M3.S6, M1.S1.T1–M3.S6.T13, C1–C15, O1–O13 / L1–L13. Downstream agents must translate references, never renumber, except at Agent 14/15 where renumbering is their declared job.",
+  "Non-blocking, travels to Agent 13 (carried over from pass 1, still present): segment name 'કોઠા ભેદતું પરાક્રમ અને છેલ્લી ક્ષણ' (M3.S6) names the ending above M3.S6.T11, which a child may read before reaching the turn. varta.md avoid-gate 4 is scoped to explanation / summary / recall answer fields, so this is a note and not a block, but a segment name that does not pre-empt the turn would be better. Verified that the gate itself is clean at cut level: no topic before the climax carries an outcome word (હત્યા, વીરગતિ, મૃત્યુ, ખૂટ્યો, આંખો મીંચી) in its name, its concept names or its objective text.",
+  "Non-blocking, travels to Agent 13: segment M2.S3 holds a single topic (M2.S3.T6). A2 documents the reason — the war's whole cause, the two armies, ભીષ્મ's ten days and દ્રોણ's appointment are one continuous printed paragraph under one marker (line 71). A thin segment is a note, not a block.",
+  "Non-blocking, travels to Agent 13: topic lengths are uneven by design. M3.S6.T13 is three printed sentences, the shortest in the chapter, because the profile makes the turning sentence a topic for what it carries rather than for its length; M1.S2.T5 and M2.S4.T7 each run eleven printed lines of dialogue. A2 recorded this itself.",
+  "Non-blocking, carried forward from 01_meta.json and not an Agent 4 check: chapter_id / plan_id are PROVISIONAL pending VERIFY-1 — the gseb board segment and the eng medium segment are reasoned from the Hindi precedent, never read back from the live server. Ids freeze at convergence in their internal form; the chapter_id prefix still needs the server readback before upload. publication_id (VERIFY-2) is likewise unresolved.",
+  "Sensitivity flag for Agents 7/8/12, restated because it lands squarely on the two topics this pass changed: the hero is killed on the page by six named warriors breaking the rules of war (M3.S6.T12), the next topic is his death and the commander's lament (M3.S6.T13), and a printed exercise sends the child to elders for how અર્જુન took revenge. Flag and guide, never censor — teach the ઘટના and the વળાંક, keep every answer text-grounded, and do not let the revenge frame become the lesson.",
+  "Method note: this validation was done entirely from 00_chapter_normalized.md, 01_meta.json and 02_structure.json, with the mechanical checks (marker counts, marker-to-topic sequence, line coverage and disjointness, id resolution, regex scans) run as scripts over those files. No PNG in _renders was opened — nothing in the three checks turned on a layout or figure question that the transcription could not answer.",
+  "Context-routing note, per the run contract: the run brief handed me only no_hallucination_policy.md and global_content_rules.md, but my spec's inputs also name reference/loop_protocol.md, reference/explanation_unit_map.md, reference/phase2_contract.md (plus reference/naming_conventions.md, which those cite) and the active genre profile. Rather than guess at their contents I read them from disk at their canonical paths — profiles/genres/varta.md and the four reference files above. Every ruling in this file cites the document it comes from.",
+  "Agent 4 is now complete for this chapter and does not run again. The pipeline proceeds to Agent 5 (verbatim attachment) against 04_converged.json."
+ ]
+}

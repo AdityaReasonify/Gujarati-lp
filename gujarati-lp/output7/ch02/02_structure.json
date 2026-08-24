@@ -1,0 +1,447 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati7_ch2",
+  "plan_id": "gseb_eng_gujarati7_ch2_v1",
+  "grade": 7,
+  "chapter_name": "ત્રણ સવાલ",
+  "genre": "varta",
+  "active_genre_profiles": ["varta.md"],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "મોટા કવિ જે ત્રણ સવાલના જવાબ ન આપી શક્યા તે નાની કવિબાળા આપી શકી — તે દરબારમાં દૂધ અને દીવો શા માટે મંગાવે છે, અને એ પસંદગી વાર્તાને ક્યાં લઈ જાય છે ?",
+  "explanation_unit": "એક ઘટના",
+
+  "cut_summary": {
+    "reading_markers_in_normalized": [
+      "[[ઘટના: ભોજ રાજાના દરબારમાં કવિનું આવવું]]",
+      "[[સંવાદ: રાજાભોજ અને કવિ]]",
+      "[[ઘટના: ત્રણ સવાલ પુછાય છે]]",
+      "[[ઘટના: કવિ સપ્તાહનો સમય માગે છે અને આઠમા દિવસે દીકરી સાથે આવે છે]]",
+      "[[સંવાદ: કવિ, રાજા અને કવિબાળા — દીકરીની લાયકાત સામે સવાલ]]",
+      "[[ઘટના: પહેલો જવાબ — દૂધ અને માખણ]]",
+      "[[ઘટના: બીજો જવાબ — દીવો અને ચારે દિશા]]",
+      "[[ઘટના: ત્રીજો જવાબ — સિંહાસન અને પ્રધાનપદની અદલાબદલી]]",
+      "[[ઘટના: વળાંક પછીનું પરિણામ — બંનેને રાજસભામાં સ્થાન]]"
+    ],
+    "reading_markers_count": 9,
+    "topics": 9,
+    "segments": 4,
+    "modules": 3,
+    "concepts": 11,
+    "objectives": 9,
+    "non_topic_markers": [
+      "[[શીર્ષક-પટ્ટી]]",
+      "[[લેખક-નામ]]",
+      "[[પ્રવેશપેટી — વાદળી ખાનું, શિક્ષક-સંબોધિત; વાચનદૃશ્ય નથી, સ્વાધ્યાય નથી]]",
+      "[[ચિત્ર: રાજસભામાં કવિ અને દીકરી સિંહાસન પર બેઠેલા રાજા સમક્ષ — કોઈ કૅપ્શન છપાયેલી નથી]]",
+      "[[ચિત્ર: દરબારમાં દીવો, કવિબાળા આંગળી ચીંધીને, કવિ અને સિંહાસનસ્થ રાજા — કોઈ કૅપ્શન છપાયેલી નથી]]",
+      "[[શબ્દાર્થ — ખાનું; સ્વાધ્યાય નથી]]",
+      "[[સ્વાધ્યાય: …]] × 13",
+      "[[પાઠાંતે વ્યાકરણ-ખાનું — બૅનર 'વિરામચિહ્નો'; સ્વાધ્યાય નથી, ટૉપિક નથી]]",
+      "[[પાઠાંતે રમૂજ-ખાનું — 'જો જો હસતાં ના...'; સ્વાધ્યાય નથી, ટૉપિક નથી]]"
+    ],
+    "tek_occurrences": 0,
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0
+  },
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ભોજ રાજાના દરબારમાં કવિઓ સાથે કેવો વ્યવહાર થતો અને નવા કવિઓને શું મળતું તે પાઠની શરૂઆતની પંક્તિઓમાંથી શોધીને કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રાજા ભોજે કવિ સમક્ષ રાજસભામાં સામેલ થવા માટે કઈ શરત મૂકી તે કહીને, એ શરત લાયકાત ચકાસવાની હતી એમ સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": ["M1.S1.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રાજાએ પૂછેલા સવાલો ભગવાનના હોવા, મુખની દિશા અને કામ — એ કઈ કઈ બાબતો વિશે છે તે અલગ પાડીને કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T3",
+      "anchor": ["M1.S1.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિએ સપ્તાહનો સમય શા માટે માગ્યો હશે અને આઠમા દિવસે નાની દીકરીને સાથે કેમ લાવ્યા હશે તે પાઠને આધારે વિચારીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T4",
+      "anchor": ["M1.S2.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "''જ્ઞાન ઉંમર ઉપરથી પારખી શકાતું નથી'' એ પંક્તિ કોણ બોલે છે તે ઓળખીને, એ વાક્યથી બાળા સભામાં પોતાની લાયકાત કઈ રીતે રજૂ કરે છે તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T5",
+      "anchor": ["M1.S2.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિબાળા દરબારમાં દૂધ કેમ મંગાવે છે અને ''આ દૂધમાં માખણ છે ખરું ?'' એ સામો સવાલ સભાને ક્યાં લઈ જાય છે તે તપાસવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": ["M2.S3.T6.C6", "M2.S3.T6.C7"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દીવો સળગાવીને કવિબાળા પ્રકાશની કઈ વાત બતાવે છે અને એ પરથી ભગવાનના મુખ વિશેનો જવાબ કઈ રીતે મળે છે તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T7",
+      "anchor": ["M2.S3.T7.C8"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મહારાજ અને પ્રધાનજીને જગા બદલવાનું કહીને કવિબાળા યોગ્ય સ્થાનની વાત કઈ રીતે સમજાવે છે, અને શિયાળો-ઉનાળો કે સૂરજ-ચંદ્રનાં ઉદાહરણ એમાં શું ઉમેરે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S4.T8",
+      "anchor": ["M3.S4.T8.C9", "M3.S4.T8.C10"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રાજા ભોજ કવિ અને દીકરી બંનેને રાજસભામાં કયા કારણે સામેલ કરે છે તે પાઠના છેલ્લા સંવાદમાંથી શોધીને પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S4.T9",
+      "anchor": ["M3.S4.T9.C11"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9"
+  },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "દરબારમાં મુકાયેલી કસોટી",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "કવિનું આગમન અને રાજાની શરત",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "કવિઓનું સન્માન કરતો દરબાર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: ભોજ રાજાના દરબારમાં કવિનું આવવું]]"],
+              "source_lines_00_normalized": "18-21",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "કવિઓને પ્રોત્સાહન આપતી રાજસભાનું વાતાવરણ",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "રાજસભામાં સ્થાનની શરત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "markers": ["[[સંવાદ: રાજાભોજ અને કવિ]]"],
+              "source_lines_00_normalized": "23-28",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "લાયકાત ચકાસવા મુકાયેલી શરત",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T3",
+              "topic_name": "ભગવાન વિશેના સવાલ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": ["M1.S1.T2"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: ત્રણ સવાલ પુછાય છે]]"],
+              "source_lines_00_normalized": "30-35",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T3.C3",
+                  "concept_name": "હોવું, દિશા અને કામ — સવાલોના ત્રણ મુદ્દા",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "મુદત પછી સભામાં આવેલી નાની બાળા",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T4",
+              "topic_name": "સપ્તાહની મુદત અને દીકરી સાથે હાજરી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T3"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: કવિ સપ્તાહનો સમય માગે છે અને આઠમા દિવસે દીકરી સાથે આવે છે]]"],
+              "source_lines_00_normalized": "37-38",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T4.C4",
+                  "concept_name": "સમય માગવો અને દીકરીને સભામાં સાથે લાવવી",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T5",
+              "topic_name": "ઉંમર સામે જ્ઞાનનો દાવો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S2.T4"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "markers": ["[[સંવાદ: કવિ, રાજા અને કવિબાળા — દીકરીની લાયકાત સામે સવાલ]]"],
+              "source_lines_00_normalized": "42-44",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T5.C5",
+                  "concept_name": "ઉંમર નહીં, જ્ઞાન — બાળાનું જવાબ આપવાનું બીડું",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "સવાલ સામે સવાલ",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "દૂધ અને દીવાના જવાબ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "દૂધમાં સંતાયેલું માખણ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T3", "M1.S2.T5"],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: પહેલો જવાબ — દૂધ અને માખણ]]"],
+              "source_lines_00_normalized": "46-55",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C6",
+                  "concept_name": "સવાલનો સામનો સવાલથી — સ્તબ્ધ થઈ ગયેલી સભા",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T6.C7",
+                  "concept_name": "દેખાય નહીં છતાં હોય — વલોવ્યે તરી આવતું માખણ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T7",
+              "topic_name": "દીવાનો ચારે દિશામાં પડતો પ્રકાશ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T3", "M2.S3.T6"],
+              "objective_ids": ["O7"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: બીજો જવાબ — દીવો અને ચારે દિશા]]"],
+              "source_lines_00_normalized": "57-62, 66-68",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T7.C8",
+                  "concept_name": "સળગતા દીવાના પ્રકાશથી મળતો દિશાનો જવાબ",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "યોગ્ય સ્થાનનો જવાબ અને સભાનો સ્વીકાર",
+      "segments": [
+        {
+          "segment_id": "M3.S4",
+          "segment_name": "અદલાબદલી અને રાજસભાનું સ્વાગત",
+          "topics": [
+            {
+              "topic_id": "M3.S4.T8",
+              "topic_name": "સિંહાસન અને મંત્રીપદની અદલાબદલી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M1.S1.T3", "M2.S3.T7"],
+              "objective_ids": ["O8"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: ત્રીજો જવાબ — સિંહાસન અને પ્રધાનપદની અદલાબદલી]]"],
+              "source_lines_00_normalized": "70-75",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T8.C9",
+                  "concept_name": "જગા બદલવાની માગણી અને સભાનું ચમકી જવું",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S4.T8.C10",
+                  "concept_name": "દરેક ચીજને યોગ્ય સ્થાને રાખતું કુદરતનું નિયમન",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S4.T9",
+              "topic_name": "રાજસભામાં પિતા અને પુત્રીનું સ્વાગત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": ["M3.S4.T8"],
+              "objective_ids": ["O9"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: વળાંક પછીનું પરિણામ — બંનેને રાજસભામાં સ્થાન]]"],
+              "source_lines_00_normalized": "77-80",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T9.C11",
+                  "concept_name": "જ્ઞાનની કદર — બંનેને સભામાં મળેલું સ્થાન",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "not_cut_as_topics": [
+    "[[શીર્ષક-પટ્ટી]] '2 ત્રણ સવાલ' + [[લેખક-નામ]] '- હરીશ નાયક' — printed header furniture, not a reading scene. The author line is printed under the title bar, not at the foot of the text, so it belongs in no topic's original_chunk (note for Agent 5). The QR badge at the right of the title bar is header furniture too (reference/explanation_unit_map.md).",
+    "[[પ્રવેશપેટી]] — the blue teacher-addressed box. It is the strongest genre evidence on the page ('આ એક ચાતુર્યકથા છે.') and it prescribes the teaching (મુખરવાચન, ઉચ્ચાર, વાચનકૌશલ્ય), but it is apparatus: it feeds key_terms and ભાષા-બોધ, never a topic. Its instructions are addressed to the teacher and must not be turned into a closing બોધ in any explanation (varta.md avoid-gate 2).",
+    "[[શબ્દાર્થ]] box (printed p. 7), 8 head-words — સ્તબ્ધ, સમક્ષ, પ્રોત્સાહન, જ્ઞાન, કર્તવ્ય, નિયમન, લાયકાત, પરીક્ષા. Apparatus: it feeds key_terms and point-of-use glossing, not a topic. No રૂઢિપ્રયોગ box is printed in this chapter.",
+    "Two [[ચિત્ર]] markers (render pp. 1 and 2) — printed court illustrations carrying no caption and no text. Not topics; they are scene evidence for Agent 9.",
+    "The thirteen numbered pink exercise blocks (વાતચીત … નીચેના ફકરામાં યોગ્ય વિરામચિહ્નો મૂકો.) stay in 01_meta.json's exercise_inventory and are Agent 10's work alone. Block 9's re-worked version of the third answer and block 3's four re-punctuated quotations are exercise text, NOT alternative readings of the story — they were not folded into any topic's cut.",
+    "Chapter-final apparatus, neither cut nor inventoried as an exercise: the 'વિરામચિહ્નો' grammar table (printed p. 10), which is fed by exercise block 13 and is ભાષા-બોધ / Agent 10 matter; and the appended humour box 'જો જો હસતાં ના...' (the towel-bargain joke), which is appended fun matter and is never folded into this chapter's ઘટના chain."
+  ],
+
+  "notes": [
+    "Cut by the સ્વરૂપ's unit, not by habit: 01_meta.json sets explanation_unit 'એક ઘટના' and varta.md sets 'One plot beat per topic … follow the story's turns, not paragraph counts'. The rendered page agrees with the profile prior — prose, named પાત્રો, an ઘટના chain, a વળાંક, a પરિણામ. No disagreement with the table in agents/02_structure.md to report.",
+    "Marker count vs topic count is 1:1 and nothing was swallowed. 00_chapter_normalized.md carries NINE reading-scene markers — seven [[ઘટના: …]] plus two [[સંવાદ: …]] — and this file carries nine topics, one per marker. 01_meta.json's structure_inventory.ghatna = 7 counts only the [[ઘટના]] markers (Agent 1 says so in its own extraction note); the two [[સંવાદ]] markers are reading scenes as well and are listed in agents/02_structure.md's own marker roster, so the correct topic count is 9, not 7. Flagged here explicitly for Agent 4 so the 7-vs-9 difference is not read as a swallowed marker.",
+    "The two [[સંવાદ]] scenes were NOT merged into their neighbouring ઘટના. M1.S1.T2 (the king's condition) is the moment the test is set, and M1.S2.T5 (''જ્ઞાન ઉંમર ઉપરથી પારખી શકાતું નથી'') is the moment the daughter claims the right to answer — each is a plot beat with its own small arc, exactly what varta.md's unit asks for. Neither was cut mid-exchange; both speakers keep their printed labels.",
+    "Pre-topic hooks belong to the NEXT topic (explanation_unit_map.md rule 2). Line 28 'કવિ : ''પૂછો મહારાજ!'' રાજા ભોજે પૂછ્યા ત્રણ પ્રશ્નો.' closes M1.S1.T2 because it is the poet's reply to the શરત; the three printed questions that follow open M1.S1.T3 on their own.",
+    "Agent 5 note — M2.S3.T7's printed text is INTERRUPTED by an illustration. The second illustration marker sits at line 64, inside the દીવો scene: the topic's verbatim runs lines 57-62 and then lines 66-68, skipping the [[ચિત્ર]] marker line. It is one ઘટના, not two, and the sentence at line 66 ('મહારાજ કહે, ''દીવાનો પ્રકાશ તો ચારે દિશામાં જ પડેને !''') is the answer to the question asked at line 62. Do not cut at the picture.",
+    "Modules are the story's three large movements, not a size split: M1 sets the test and brings the child into the સભા; M2 holds the two demonstrations the child stages with objects she asks for; M3 holds the answer that asks the king himself to move, and the સભા's acceptance. Segment and topic counters run across the whole chapter and never restart (M1.S1 → M1.S2 → M2.S3 → M3.S4; T1 → T9).",
+    "topic_category 'climax' is placed on M2.S3.T6 because that is where 01_meta.json records the વળાંક and where the printed page marks it: ''આ દૂધમાં માખણ છે ખરું ?'' … 'મહારાજ જ નહીં, રાજ્યસભા આખી સ્તબ્ધ થઈ ગઈ. સવાલ સામે સવાલ હતો.' From that sentence the child, not the king, leads the court — varta.md says to name the direction-change as the climax. The third answer (M3.S4.T8) is the highest escalation but not the turn; it is marked 'core'. Note for Agents 12/13: avoid-gate 4 (no earlier topic names the outcome) therefore applies to T1–T5.",
+    "Two topics carry two concepts each; the other seven carry one. M2.S3.T6 genuinely does two separable things — the counter-question that silences the સભા, and the milk-and-butter demonstration that answers the question. M3.S4.T8 likewise — the request that the king and the પ્રધાનજી swap places (which is never actually carried out), and the generalisation to શિયાળો/ઉનાળો/ચોમાસું and સૂરજ/ચંદ્ર/તારા/આકાશ that follows it. Nowhere was a third concept needed, so the cut was not revisited.",
+    "The concept counter is chapter-continuous per reference/phase2_contract.md: C1 (T1), C2 (T2), C3 (T3), C4 (T4), C5 (T5), C6+C7 (T6), C8 (T7), C9+C10 (T8), C11 (T9). Concept number therefore stops matching topic number from T7 onward — that is the contract, not a defect.",
+    "topic_type is STORY_TELLING for all nine. Std 7 prints no child-addressed લેખક-પરિચય paragraph (that is the std-10 pattern), so there is no CONCEPT topic; the chapter prints no in-text wrap or value summary, so there is no REVIEW topic either.",
+    "difficulty is relative inside this chapter and is set by what stops a std-7 L2 reader on the page, never by craft (profiles/students/std-7.md §1–2 — the craft ceiling means no topic here is 'hard' for a device it may not name). hard: M3.S4.T8, the chapter's longest single block, તત્સમ-dense (કર્તવ્ય, નિયમન, વનરાજી, જીવજંતુ, બિરાજશો, અદલાબદલી, ઋતુનું ચક્ર) and holding one very long unbroken speech. medium: T4 (a long paragraph in which the poet's quoted speech runs on without a printed closing quotation mark), T5, T6, T7, T9 (લેવાદેવા, મૂંઝાયો, ફરજિયાત, વલોવાવું). easy: T1, T2, T3 — short printed sentences and short question turns.",
+    "depends_on records real dependence only. T3 depends on the શરત that produces the questions; T4 on the questions the poet cannot answer; T5 on the daughter's arrival; T6, T7 and T8 each on T3 because each answers one of the printed questions, and T7/T8 additionally on the answer before them because the page itself back-references it ('દૂધની જેમ દીવાની જરૂર પડશે જ.', 'તું કહે છે, ભગવાન છે તે ચારે દિશામાં છે તો…'). T9 depends on T8. T1 and T2 carry [].",
+    "Craft-label ceiling honoured: no objective, module, segment, topic or concept name in this file uses અલંકાર, છંદ, સમાસ or a સાહિત્યપ્રકાર label. The intro box's own word 'ચાતુર્યકથા' is quoted in not_cut_as_topics as evidence only and is deliberately kept out of every child-facing name (profiles/students/std-7.md §2 genre gate).",
+    "No numbers in any display name (global_content_rules.md rule 4). The ordinal words the page uses for the answers (પહેલો/બીજો/ત્રીજો) were replaced by content-descriptive names — 'દૂધમાં સંતાયેલું માખણ', 'દીવાનો ચારે દિશામાં પડતો પ્રકાશ', 'સિંહાસન અને મંત્રીપદની અદલાબદલી'. The chapter title 'ત્રણ સવાલ' is reproduced only in chapter_name and guiding_question, both provenance fields carried from 01_meta.json.",
+    "Sensitivity carried forward for Agents 8/12/13: the engine of this story is three questions about ભગવાન answered by demonstration. Teach the ચાતુર્ય and the way each object answers a question; do not turn any topic into a theology lesson, a comparative-religion note or an appended moral (global_content_rules.md rule 10, varta.md avoid-gates 2 and 5).",
+    "Uneven topic length, recorded for Agent 13 and not blocking: M1.S2.T4 is a single printed paragraph and M3.S4.T9 is two short ones, while M2.S3.T6 and M3.S4.T8 each run ten and six printed lines. The lengths follow the printed beats, and no beat was split or padded to even them out.",
+    "No teaching prose, summary or recall question was written here — explanation and real_life_example are Agent 12's, original_chunk is Agent 5's and stays empty in this file."
+  ]
+}

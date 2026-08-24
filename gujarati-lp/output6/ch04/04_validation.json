@@ -1,0 +1,92 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati6_ch4",
+  "plan_id": "gseb_eng_gujarati6_ch4_v1",
+  "grade": 6,
+  "chapter_name": "આવ્યો મેહુલો",
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "explanation_unit_meta": "એક કડી",
+      "explanation_unit_structure": "એક કડી (બંને ભાગ માટે; મુખ્ય લોકગીતમાં પ્રારંભની ત્રિપદી ટેક સહિત એક એકમ)",
+      "kadi_markers": 9,
+      "topics_carrying_kadi_markers": 9,
+      "duha_markers": 0,
+      "pad_markers": 0,
+      "notes": [
+        "01_meta.json નું explanation_unit ('એક કડી') અને 02_structure.json નો કાપ મળે છે. [[કડી …]] markers = 9 (મુખ્ય લોકગીતના 5: પ્રારંભની ત્રિપદી + ચાર કડી; જોડાયેલી 'ગાઈએ' કવિતાના 4) અને એ markers ધરાવતાં topics પણ 9 — બરાબરી છે.",
+        "રેન્ડર કરેલા પાના પરથી ફરી ગણ્યું (pdftoppm 150 dpi, પાનું 1 = છાપેલું folio 22): એક જ કૉલમ, 11 છાપેલી પંક્તિ = 3-પંક્તિની ત્રિપદી + ચાર બે-પંક્તિની કડી, દરેક કડીને અંતે 'આવ્યો...'. પાનું 6 (folio 27) પરની 'ગાઈએ' કવિતામાં 1 પ્રારંભની ટેક-પંક્તિ + ચાર બે-પંક્તિની કડી + '- ત્રિભુવન વ્યાસ'. બંને ગણતરી 00_chapter_normalized.md સાથે મળે છે.",
+        "દુહો / પદ / શેર શૂન્ય — 'બે દુહા એક topic માં' અને 'પદ ના ટુકડા' બંને નિયમ અહીં લાગુ પડતા નથી (માપેલી શૂન્યતા, ખાલી ખાનું નહીં).",
+        "ટેક (મુખ્ય લોકગીત): distinct wordings = 1; ચારેય છાપેલાં ટૂંકાણ 'આવ્યો...' અક્ષરશઃ સરખાં. lok_geet.md નો structural gate પળાયો છે — ટેક ધરાવતું એક જ topic (M1.S1.T1) અને પછીનાં ચારેય topics (T2–T5) એને depends_on માં ગણાવે છે.",
+        "ટેક (જોડાયેલી 'ગાઈએ' કવિતા): distinct wordings = 1; ટેક M2.S3.T6 માં એક જ વાર ભણાવાય છે અને T7–T9 એને depends_on માં ગણાવે છે — urmikavya_geet.md નો 'returns identical → teach once, reference after' નિયમ.",
+        "mixed chapter: બંને ભાગ પોતપોતાના એકમ હેઠળ કપાયા છે — M1 લોકગીત (lok_geet.md), M2 જોડાયેલી કવિતા (urmikavya_geet.md). કોઈ topic ના markers/source_lines બંને કૃતિઓને ભેળવતાં નથી, એટલે lok_geet.md નો 'Merging the appended poem' hard gate પળાયો છે.",
+        "avoid-lists ના structural ભાગ (lok_geet.md: unchanged-ટેક handling, appended-poem merging, names-without-numbers; urmikavya_geet.md: ટેક handling) તપાસ્યા — એકેયનો ભંગ નથી. પ્રોસ-આધારિત avoid નિયમો હજી લખાયા નથી (Agent 12/13 નું ક્ષેત્ર)."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 10,
+      "topics": 9,
+      "markers_carried_by_topics": 11,
+      "swadhyay_blocks_in_inventory": 18,
+      "swadhyay_blocks_cut_as_topics": 0,
+      "notes": [
+        "00_chapter_normalized.md ના 10 reading-scene markers ક્રમમાં topics બન્યા છે: લીટી 17→T1, 22→T2, 26→T3, 30→T4, 34→T5, 208+211→T6, 215→T7, 219→T8, 223→T9. કોઈ marker ગળાયો નથી; [[કવિતા: મેહુલો — કવિ-નામ]] (લીટી 227) છેલ્લા topic T9 માં જાય છે, એટલે topics કુલ 11 markers ધરાવે છે.",
+        "દરેક topic નું source_lines_00_normalized એના પોતાના marker ની હદમાં જ છે — કોઈ topic એવા લખાણને આવરી લેતું નથી જેને કોઈ marker દાવો કરતો ન હોય.",
+        "18 એ 18 સ્વાધ્યાય-બ્લૉક 01_meta.json ના exercise_inventory માં જ છે; એકેય verbatim_heading કોઈ topic_name કે કોઈ topic ના marker/source-lines સાથે મળતું નથી. યાંત્રિક સરખામણી પણ કરી — કોઈ જોડી નજીક પણ આવતી નથી.",
+        "apparatus બરાબર બહાર રખાયું છે: ભૂરી પ્રવેશક-પેટી, લીલી શબ્દાર્થ-પેટી, પ્રકરણ-અંતિમ 'વિશેષણ વિશે જાણીએ' પેટી અને છાપેલું મથાળું/લેખક-સ્લોટ — એકેય topic નથી.",
+        "આ પ્રકરણમાં બાળકને સંબોધિત કોઈ છાપેલો pre-reading opener નથી (ભૂરી પેટી શિક્ષક-સંબોધિત apparatus છે — agents/02_structure.md માં સ્પષ્ટ), અને કોઈ in-text wrap પણ છપાયો નથી. એટલે Check 2 ની એ બંને કલમો અહીં લાગુ પડતી નથી — ખૂટતું topic નથી.",
+        "સ્વાધ્યાય 12 અને 13 માં કાવ્યની પંક્તિ/શબ્દ ફરી છપાયાં છે; એ કસરત તરીકે જ ગણાયાં છે, કડી-સાંકળમાં ભેળવાયાં નથી — બરાબર."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 9,
+      "notes": [
+        "root objectives[] હાજર; O1–O9 unique; દરેક objective નું home_topic_id આ જ tree ના topic ને અને દરેક anchor[] id એ જ topic ના concept ને ઉકેલે છે (કોઈ dangling reference નથી).",
+        "strand_to_objective_map L1–L9 → O1–O9: દરેક legacy_id બરાબર એક વાર, અને દરેક જોડ એના objective ના legacy_id સાથે મળે છે. એકમાત્ર strand 'L' / 'ભાષા અને સાહિત્ય' — Gujarati literature માટે બરાબર.",
+        "નવેનવ topics પાસે objective_ids છે અને દરેક registry માં ઉકેલાય છે; દરેક reading scene દીઠ એક objective — 9 topics, 9 objectives.",
+        "દરેક objective_text આ પ્રકરણની છાપેલી પંક્તિ ટાંકે છે ('ઓતર ગાજ્યા ને દખ્ખણ વરસિયા રે !', 'નદી - સરોવર છલી વળ્યાં રે', 'ડેડકડી દિયે આશિષ', 'ધોરીએ લીધાં ધુરી - ધોંસરી રે', 'ગાયે લીધાં ગાનાં વાછરું રે', 'આવ રે મેહુલા આવ, મેહુલા અષાઢના રે', 'ઝબકે ઝબઝબ વીજળી રે', 'નદીએ પાણી રેલશે રે', 'ખેડૂત ખેતર ખેડશે રે') — બીજા કોઈ પ્રકરણમાં ચોંટાડી શકાય એવું એકેય નથી.",
+        "lens-સેવા: O1–O5 કંઠ + ધ્રુવપંક્તિ + લોકજીવન ને (ટેકનું પાછું આવવું, છલકાતાં પાણી, ડેડકડીનો સાદ, ધોરી-ખેડુનું કામ, ઘર તરફ વળતી યાદી); O6–O9 ચિત્ર + ભાવ + લય ને (સાદ, વાદળીનું ચિત્ર, અવાજ-શબ્દો, નદી-ધરતી, ખેડાણ-પાક).",
+        "ધો. 6 નું craft-label ceiling પળાયું છે — એકેય objective માં અલંકાર / છંદ / સમાસ / સાહિત્યપ્રકાર નું નામ નથી. O3 અને O7 'ડેડકડી' ના માધુર્ય અને અવાજ-શબ્દો પર noticing માગે છે, naming નહીં — બરાબર (પુસ્તકનો પોતાનો સ્વાધ્યાય 13 એ જ કરે છે).",
+        "objective_text શબ્દ-ગણતરી બૅન્ડ 12–30 માં: O1 25, O2 22, O3 23, O4 20, O5 21, O6 24, O7 21, O8 21, O9 18.",
+        "id-કરાર: hierarchy dotted અને chapter-continuous — M1–M2, S1–S4, T1–T9, C1–C11 (concept counter પ્રકરણ-સળંગ, topic દીઠ restart નથી); દરેક topic પાસે ઓછામાં ઓછો એક concept; ક્યાંય 'M1.S1.T1.P1' પ્રકારનો objective code નથી; ક્યાંય '.SR{n}' નથી; module/segment/topic નામોમાં કે objective_text માં એકેય અંક નથી.",
+        "કોઈ objective લોકગીતને કવિ સોંપતું નથી અને કોઈ objective 'આપણે … જોઈએ' પ્રકારનો બોધ નથી — lok_geet.md ના 'Naming an author' અને 'Tacked-on બોધ' gates નું પાલન."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "topic_type બધે 'POEM' છે — એ agents/02_structure.md §5 નું scaffolding enum (POEM / STORY_TELLING / CONCEPT / REVIEW) છે, upload-કરારનું closed enum (instructional | summary | assessment, reference/naming_conventions.md) નહીં. આ તબક્કે બરાબર છે; અનુવાદ downstream (Agent 14 / 16) નું દેવું છે. Block નથી.",
+    "02_structure.json માં M2 નું lens 'ચિત્ર + ભાવ + લય' લખાયું છે જ્યારે 01_meta.json માં 'ચિત્ર + ભાવ + અલંકાર'. reference/teaching_lens_map.md પોતે આ બે શબ્દરચનાને એક જ lens ના બે નામ ગણે છે અને ગેય ગીતમાં લય/પ્રાસ ને એ જ ત્રીજા ખાનામાં મૂકે છે; ધો. 6 માં અલંકાર નામ પાડી શકાય નહીં, એટલે 'લય' અહીં યોગ્ય પસંદગી છે. lens બદલાયું નથી — Block નથી.",
+    "જોડાયેલી કવિતાનાં છાપેલાં ટૂંકાણમાં ફક્ત વિરામચિહ્નનો ફેર છે — પહેલાં બે 'મેહુલા.' અને પછીનાં બે 'મેહુલા' (રેન્ડર કરેલા પાના 6 પર ફરી ચકાસ્યું). શબ્દો બદલાતા નથી, એટલે એક-ટેક-topic વ્યવસ્થા બરાબર છે; Agent 5 એ બંને રૂપ જેમ છપાયાં તેમ જ ઉતારવાનાં — 'સુધારવાનાં' નહીં.",
+    "structure_inventory મુજબ બંને કૃતિઓમાં ટેકના શબ્દો બદલાતા નથી. તેથી Agent 12 / Agent 7 એ 'ટેકમાં શું બદલાયું ?' પ્રકારનું વાક્ય કે પ્રશ્ન લખવાનો નથી — lok_geet.md નો hard gate, અને એ prose-તબક્કે Agent 13 તપાસશે.",
+    "original_chunk બધે ખાલી છે — agents/02_structure.md પ્રમાણે એ બરાબર છે; verbatim Agent 5 ભરે છે. તેથી Check 2 નું સ્વાધ્યાય-ક્રૉસ-ચેક topic_name + markers + source_lines પર ચલાવ્યું છે, અને એ ત્રણેય પરથી એકેય સ્વાધ્યાય-બ્લૉક topic બન્યો નથી.",
+    "M2 (T6–T9, C7–C11, O6–O9) જોડાયેલી 'ગાઈએ' કવિતાનું છે. જો પૅક-માલિક એને ન ભણાવવાનું નક્કી કરે તો આખું M2 એકસાથે કાઢી શકાય અને M1 અકબંધ રહે — પણ ત્યારે Agent 14 એ ids ફરી ક્રમાંકિત કરવા પડે. અત્યારે તે કપાયું છે એ mixed-chapter protocol પ્રમાણે યોગ્ય છે (પુસ્તક '• ગાઈએ' છાપીને વર્ગ પાસે કંઈક માગે છે).",
+    "M1.S1.T1 નું difficulty 'hard' છે અને topic_category 'introduction' — ધો. 6 માટે વાજબી (ત્રિપદી + ટેક + ઓતર/દખ્ખણ/મંડાણ જેવા તળપદા શબ્દો એક સાથે). નોંધ માત્ર, વાંધો નહીં.",
+    "chapter_id / plan_id નાં 'gseb' અને 'eng' ખાનાં VERIFY-1 સુધી provisional છે (reference/naming_conventions.md) — 02_structure.json અને 01_meta.json બંનેમાં એકસરખાં છે, એટલે અહીં કોઈ અસંગતિ નથી."
+  ],
+  "converged_written": "04_converged.json",
+  "provenance": {
+    "inputs_read": [
+      "output6/ch04/00_chapter_normalized.md",
+      "output6/ch04/01_meta.json",
+      "output6/ch04/02_structure.json",
+      "profiles/genres/lok_geet.md",
+      "profiles/genres/urmikavya_geet.md",
+      "reference/loop_protocol.md",
+      "reference/explanation_unit_map.md",
+      "reference/phase2_contract.md",
+      "reference/naming_conventions.md",
+      "reference/teaching_lens_map.md",
+      "reference/global_content_rules.md",
+      "reference/no_hallucination_policy.md",
+      "reference/teaching_voice_gu.md",
+      "author.md",
+      "agents/02_structure.md"
+    ],
+    "renders_read": "pdftoppm -png -r 150 — ch-04-avyo-mehulo.pdf, પાનાં 1, 2, 5, 6 (છાપેલા folio 22, 23, 26, 27) ફરી વાંચ્યાં: કડી-ગણતરી, ટેકનું ટૂંકાણ, 'ગાઈએ' કવિતાનું માળખું અને સ્વાધ્યાય-બ્લૉકની હદ ચકાસવા."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "chapter_id": "gseb_eng_gujarati6_ch10",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S1.T2",
+    "M1.S2.T3",
+    "M2.S3.T4",
+    "M2.S3.T5",
+    "M2.S3.T6",
+    "M2.S4.T7",
+    "M2.S4.T8",
+    "M3.S5.T9",
+    "M3.S5.T10",
+    "M3.S6.T11",
+    "M3.S6.T12"
+  ],
+  "source": "printed pages 63–64 (folio) read off the render — pdftoppm -png -r 150, page-1.png and page-2.png",
+  "notes": [
+    "The poem is printed as one continuous run of thirty lines with no blank-line stanza break. Folio 63 is set in two columns and is read DOWN each column, never across: the left column carries printed lines one to ten and the right column, below the upper illustration, carries lines eleven to twenty-one. Folio 64 carries the remaining nine lines in a single column. The topic that straddles the page break (M3.S5.T9) holds its કડી whole.",
+    "Printed order equals the logical order of 04_converged.json exactly. The list is emitted anyway so Agent 15 compares two real indexes instead of assuming they agree.",
+    "Nothing between the chapters and no apparatus enters this list: the blue પ્રવેશક box, the green શબ્દાર્થ box, the • રૂઢિપ્રયોગ pre-block, all thirteen numbered સ્વાધ્યાય blocks (the dramatisation and singing tasks included) and the chapter-final riddle box on folio 67 are all excluded."
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "varta gate 1 (summary-only teaching), bound to this beat: `explanation` must add at least one thing this topic's `modified_chunk` does not already carry — why `તો મમ્મી હસવા લાગી` (the two narrator lines that follow it, which no character speaks), or why મમ્મી sets the condition `તું બહેનને મદદ કરતો હોય તો જ હું જાઉં !` before she leaves. An `explanation` that only re-states who said what to whom fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "varta gate 3 (judging a sympathetic character): the page's own words about the boy are `ઓમ તો દરેક કામમાં આનાકાની કરનારો.` — no sentence of `explanation`, `summary`, `brief_summary`, `detailed_summary`, `real_life_example`, a `concept_bullets` line or any `recall_questions[].answer` may turn that into an evaluative label (આળસુ, નકામો, ખોટો, જિદ્દી, બેજવાબદાર or a synonym).",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "varta gate 2 (a tacked-on બોધ): no sentence of `explanation`, `summary`, `brief_summary`, `detailed_summary`, a `concept_bullets` line or any `recall_questions[].answer` may reproduce or paraphrase the blue પ્રવેશપેટી's teacher-facing sentences (`ઘરમાં સૌ સાથે મળીને એકબીજાને મદદરૂપ બને…`, `…જવાબદારી નિભાવે તે જરૂરી છે`) or close on `આપણે પણ ઘરકામમાં મદદ કરવી જોઈએ`. The opening topic is where that box gets copied.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "varta gate 4 (spoiling the turn early): this topic precedes the `topic_category: \"climax\"` topic M2.S3.T4, so none of `explanation`, `summary`, `detailed_summary`, `concept_bullets` or `recall_questions[].answer` may name the later outcome — the words ચા, આદુ, ખાંડણી, વખાણવાલાયક, કવિતા, આઇસક્રીમ must not appear here. This topic stops at `મમ્મી ભાઈ અને બહેનને ઘણી બધી શિખામણ ને સલાહ આપીને ગયાં.`",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Invention guard: the page states only `મામાની તબિયત સારી ન હતી` — no field may name the illness, narrate what happened at મામાને ઘેર, or fix a number of days other than the printed `બે-ત્રણ દિવસ`.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "`હું ને ઓમ !` સાંભળીને `તો મમ્મી હસવા લાગી` — બાળક આ હાસ્યને રાજીપો સમજી લે છે અને `મમ્મી કેમ હસવા લાગી ?` નો જવાબ 'ખુશ થઈ ગઈ' આપે છે. પછીની પંક્તિઓ `ઓમ તો દરેક કામમાં આનાકાની કરનારો.` અને `એ વળી શું સંભાળે ?` અવતરણચિહ્નોમાં નથી, એટલે એ કોણ કહે છે તે બાળકથી છૂટી જાય છે ને હાસ્ય કોના પર છે એ જ ખોવાઈ જાય છે.",
+      "correction": "`explanation` માં `તો મમ્મી હસવા લાગી` ટાંક્યા પછી તરત જ કહો કે પછીની પંક્તિઓ કોઈ પાત્ર બોલતું નથી — વાર્તા કહેનાર ઓમ વિશે કહે છે — અને બતાવો કે પોતાનાં પુસ્તકો, બૂટ કે કપડાં કદી સરખાં ન મૂકનારા ભાઈ પર મમ્મીને ભરોસો બેસતો નથી. પછી એ હાસ્યને મમ્મીની શરત `તું બહેનને મદદ કરતો હોય તો જ હું જાઉં !` સાથે જોડો, ને એક `recall_questions[].answer` આ જ વાત પાઠના શબ્દોમાં કઢાવે."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "varta gate 1 (summary-only teaching): `explanation` must carry something this topic's `modified_chunk` does not — either ઓમના મનની ગતિ in the order the page prints it (`અણગમાથી` → `કંટાળો આવ્યો` → `થોડીક ફાવટ આવી ગઈ !` → `ઓમને હાશ થઈ !`), or હીરવાની શીખવેલી ક્રમબદ્ધ રીત (પાવડરવાળું પાણી → ચોખ્ખું પાણી → કોરી જગ્યા → ઘોડો). Re-narrating that dishes were washed fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "varta gate 3 (judging a sympathetic character): the page separates two things — `કામ કરવાનું ગમતું નહોતું ને આવડતું પણ નહોતું`. No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may read `મારે શું કરવાનું છે હીર ?` as proof of a bad character (આળસુ, નફ્ફટ, ખરાબ છોકરો); not knowing how is not a fault the chapter charges him with.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "varta gate 4 (spoiling the turn early): this topic precedes the climax topic M2.S3.T4 — ચા, ઠેસી, આદુ, દૂધ, વખાણવાલાયક, કવિતા must not appear in `explanation`, `summary`, `detailed_summary`, `concept_bullets` or any `recall_questions[].answer`. The topic ends on ઓમનો પ્રશ્ન `હવે કયું કામ બાકી રહ્યું હીર ?`",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "varta gate 2 (a tacked-on બોધ): ઓમને થયેલી સમજ this chapter prints as one sentence inside his head — `મમ્મી તો આ કામ રોજેરોજ કરે છે છતાં જરાય કંટાળતી નથી.` Quote it and teach it as what the story shows; no field may re-author it as `આપણે મમ્મીને મદદ કરવી જોઈએ` or `આ વાર્તા આપણને શીખવે છે…`.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Register (ઘરેલુ વાર્તા, Language prior): the household words of this beat — ચોકડી, તબડકું, ઘોડો, પાટલી, ઓમભાઈ, ફાવટ — appear in `explanation` and `key_terms` in the same form as in `original_chunk`, glossed in Gujarati at the point of use, never replaced by a standardised or Hindi word.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "હીરવા વાસણ ધોવાની આખી રીત એક જ વાક્યસમૂહમાં કહી દે છે, ને એમાંના રોજિંદા ઘર-શબ્દો બાળક હિન્દી અર્થમાં વાંચે છે: `ચોકડીમાં` ને ચાર-ની ટોળી, `આ તબડકાંમાં` ને કશુંક અજાણ્યું, અને સૌથી વધુ `પછી હું લૂછીને ઘોડામાં મૂકી દઈશ` માંનો ઘોડો ને પ્રાણી. એટલે વાસણ માંજવાનાં પગથિયાં જ ઊકલતાં નથી અને આખો ફકરો બાળક માટે અર્થહીન બની જાય છે.",
+      "correction": "`explanation` માં હીરવાની સૂચના પગથિયાં પ્રમાણે ખોલો અને દરેક શબ્દ ત્યાં જ ગ્લોસ કરો: `ચોકડી — ઘરમાં વાસણ ધોવાની જગ્યા`, `તબડકું — વાસણ ધોવાનું પહોળું વાસણ`, `ઘોડો — વાસણ ગોઠવવાનું ઘોડું`. `key_terms` માં એ જ ત્રણ શબ્દ `શબ્દ — અર્થ` રૂપે મૂકો, ને `real_life_example` માં ઘરની ચોકડી ને ઘોડાનું એ જ ચિત્ર ફરી વાપરો, જેથી શબ્દો બીજી વાર મળે."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "varta gate 1 (summary-only teaching): `explanation` must say why ઓમ, જે `એ સાફ નહિ કરીએ તો ન ચાલે ?` કહેતો હતો, અચાનક `લાવ સાવરણી !` કહે છે — the cause on the page is હીરવાનું મહેણું `સવારે મમ્મી આગળ તો કેવી ડાહીડાહી વાતો કરતો’તો !` A retelling of the quarrel without that cause fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "varta gate 3 (judging a sympathetic character): the ટપાટપી ends in `ઓમ ફૂ.. કરતો હસી પડ્યો. હીરવા પણ હસી પડી !` — no `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may label either child (ઝઘડાળુ, જિદ્દી, આળસુ, ખરાબ ભાઈ, દાદાગીરી કરનારી બહેન) or declare one of them right and the other wrong.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "varta gate 2 (a tacked-on બોધ): this beat is the one that invites a sibling moral. No sentence of `explanation`, `summary`, `brief_summary`, `detailed_summary`, `concept_bullets` or `recall_questions[].answer` may close on `ભાઈ-બહેને ઝઘડવું ન જોઈએ` / `કામ વહેંચીને કરવું જોઈએ` — the chapter's own closing move here is the laugh, not a rule.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "varta gate 4 (spoiling the turn early): this topic still precedes the climax topic M2.S3.T4 — ચા, રસોડું-ની ધમાલ, વખાણવાલાયક, કવિતા, આઇસક્રીમ must not appear in `explanation`, `summary`, `detailed_summary` or any `recall_questions[].answer`.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Register (ઘરેલુ વાર્તા, Language prior): the joking household forms of this beat — `આ બંદા તો ઊંઘવાના !`, `ભાઈસાહેબ`, `મોં ફુલાવીને`, `ફરસ`, `વળાતું હશે` — stay as printed wherever the teaching quotes them, glossed in Gujarati and never rewritten into plain માનક ગુજરાતી.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "`અને હવે પાણીમાં બેસી ગયો !` — બાળક આ રૂઢિપ્રયોગ શબ્દશઃ વાંચે છે અને ઓમને ખરેખર પાણીમાં બેઠેલો સમજે છે (પોતું ને ભીની ફરસ આજુબાજુમાં જ છે, એટલે ભૂલ વધુ પાકી થાય છે). એથી હીરવાનું મહેણું જ ઊકલતું નથી, અને ઓમ ગુસ્સામાં સાવરણી કેમ લે છે તેની આખી કડી તૂટી જાય છે.",
+      "correction": "`explanation` માં પંક્તિ ટાંકતાં જ ગ્લોસ કરો: `પાણીમાં બેસી જવું — કહેલી વાતથી પાછા હટી જવું`, ને પછી બતાવો કે હીરવા ઓમને સવારના વચનની યાદ અપાવીને ટોણો મારે છે. `key_terms` માં એ જ રૂઢિપ્રયોગ `શબ્દ — અર્થ` રૂપે મૂકો અને એક `recall_questions[].answer` માં એ જ શબ્દોમાં પૂછો કે ઓમે સાવરણી કેમ ઉપાડી."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "varta gate 1 (summary-only teaching), on the `topic_category: \"climax\"` topic: `explanation` must carry the turn and the private doubt that this topic's `modified_chunk` drops — `હા ! હા !... અમે બનાવીશું !` સાથે `મનમાં તો એમ થયું કે ચા કોઈ દિવસ આપણે બનાવી તો નથી !` — and say that this is the same boy who opened with `મારે શું કરવાનું છે હીર ?` A list of the kitchen mishaps alone fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "varta gate 3 (judging a sympathetic character): the page records the consequence, not a verdict — `ઓમે ઉતાવળે દૂધ ભરેલો ગ્લાસ તપેલીમાં નમાવી દીધો.` … `ચાનો રંગ ભૂખરો રહ્યો.` No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may convert that into a character label (મૂરખ, બેદરકાર, ઉતાવળિયો છોકરો) — the text's own word `ઉતાવળે` may be quoted, but only of that act.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "varta gate 2 (a tacked-on બોધ): no sentence of `explanation`, `summary`, `brief_summary`, `detailed_summary`, `concept_bullets` or any `recall_questions[].answer` may close on `ભૂલમાંથી શીખવું જોઈએ` / `પ્રયત્ન કરતા રહેવું જોઈએ`. Each mistake on this page is already answered by the next printed action (ઠેસી ફેરવી, બીજા ખાનામાંથી ડબ્બા શોધ્યા, ચાખી જોઈ, એક ચમચી ખાંડ) — teach that chain instead.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Register (ઘરેલુ વાર્તા, Language prior): the kitchen nouns of this beat — ઠેસી, તિખારો, ખાંડણી ને દસ્તો, ગળણી, સાણસી, તપેલી, ભૂકી, ઊભરો — must appear in `explanation` and `key_terms` in the printed form, glossed in Gujarati where they first occur; this is the densest object-vocabulary stretch of the chapter and the L2 stall point.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "`ચામાં મરચું ને હળદર નાખીએ તો શું થાય ?` — `જાદુ થાય જાદુ !` બાળક આ 'જાદુ' ને સાચો જાદુ સમજી લે છે અને પાઠમાં ક્યાંક કશુંક જાદુઈ બન્યું છે એમ માની બેસે છે. એટલે હીરવાનું સામેનું વાક્ય `જો આ થયો જાદુ !` — જે સાચા ડબ્બા મળી આવ્યા એની મજાક છે — પણ ઊંધું વંચાય છે, અને બે બાળકોની આખી મશ્કરી હાથમાંથી છૂટી જાય છે.",
+      "correction": "`explanation` માં બંને વાક્ય જ્યાં આવે છે ત્યાં જ સાથે મૂકો ને કહો કે અહીં કશું જાદુઈ બનતું નથી: મરચું-હળદરવાળી ચાની કલ્પના પર ઓમ મજાક કરે છે, ને ડબ્બા મળી આવતાં હીરવા એ જ શબ્દ સામે વાળે છે — એટલે જ `ભાઈ-બહેન બંને હસી પડ્યાં.` એક `recall_questions[].answer` માં પાઠના શબ્દોમાં જ કઢાવો કે ઓમે `જાદુ થાય જાદુ !` ક્યારે ને શા માટે કહ્યું."
+    },
+    {
+      "topic_id": "M2.S4.T5",
+      "avoid_checks": [
+        {
+          "check": "varta gate 1 (summary-only teaching): `explanation` must say what પપ્પા are praising — `તમારો આ પ્રયાસ વખાણવાલાયક છે !` names the પ્રયાસ, and the tea itself had gone ભૂખરી and been corrected twice — and that પપ્પા then join the work themselves (`હવે રાત્રીભોજન બનાવવામાં હું પણ તમારી સાથે જોડાઈશ !`). Repeating that everyone drank tea and cooked together fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "varta gate 2 (a tacked-on બોધ): this resolution beat is where the chapter's idea most invites authoring. No sentence of `explanation`, `summary`, `brief_summary`, `detailed_summary`, `concept_bullets` or any `recall_questions[].answer` may state `સૌએ ઘરકામ વહેંચીને કરવું જોઈએ` or `સાથે મળીને કામ કરવાથી કામ સહેલું થાય છે`. The chapter puts that thought in હીરવાના પ્રશ્નમાં in the next topic — it is quoted there, not authored here.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Invention guard: the phone call is printed in four short sentences only — `હીરવાએ મમ્મીને આખા દિવસનો રિપોર્ટ સેલફોન પર આપી દીધો.` … `કહેવા લાગી કે મારે કોઈક દિવસ રજા લેવી જ પડશે.` No field may add what મમ્મી asked, what હીરવા reported, or when મમ્મી returns.",
+          "profile": "varta",
+          "severity": "soft"
+        },
+        {
+          "check": "જાતિ-ભૂમિકા, and the chapter's own method: પપ્પા joining the cooking is shown, never argued (`ત્રણે જણાંએ મળીને ભાખરી ને શાક બનાવ્યાં.`). No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may add a sentence of the shape `છોકરાઓએ પણ ઘરકામ કરવું જોઈએ` / `ઘરકામ ફક્ત સ્ત્રીઓનું નથી` — the demonstration is the teaching.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "`કહેવા લાગી કે મારે કોઈક દિવસ રજા લેવી જ પડશે. બધાં હસી પડ્યાં.` — હિન્દી કાને 'રજા' એટલે પરવાનગી, એટલે બાળક વાંચે છે કે મમ્મીએ કોઈની પરવાનગી લેવી પડશે. વાક્ય ઊંધું બેસે છે અને બધાં કેમ હસી પડ્યાં તે સમજાતું નથી — જ્યારે અહીં 'રજા' એટલે ઘરકામમાંથી એક દિવસની છુટ્ટી.",
+      "correction": "`explanation` માં આ વાક્ય ટાંકતાં જ ગ્લોસ મૂકો — `રજા — છુટ્ટી, કામમાંથી આરામનો દિવસ` — ને પછી બતાવો કે આખા દિવસનો અહેવાલ સાંભળીને મમ્મી મજાકમાં કહે છે કે હવે એ પણ એક દિવસ છુટ્ટી લેશે, એટલે જ બધાં હસી પડે છે. `key_terms` માં એ જ ગ્લોસ મૂકો; આ જ શબ્દ પછીના એકમની કવિતાની પહેલી પંક્તિમાં ફરી આવે છે, ત્યાં એને બીજી વાર મળવા દો."
+    },
+    {
+      "topic_id": "M2.S4.T6",
+      "avoid_checks": [
+        {
+          "check": "urmikavya_geet gate (slogans): the poem's own line-ends are first-person plural — `વહેંચી લઈએ`, `વઢી લઈએ`, `માણી લઈએ`, `બોલી લઈએ`, `માંગી લઈએ`. No sentence of `explanation`, `real_life_example`, `summary`, `brief_summary`, `detailed_summary`, any `concept_bullets` line or any `recall_questions[].answer` may be an authored exhortation of the shape `આપણે … જોઈએ` / `સૌએ … કરવું જોઈએ` unless those exact words stand in this topic's `original_chunk` — which they do not.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "urmikavya_geet gate (feeling before picture): the first sentence of `explanation` must name something in this poem that can be seen or done, using a word printed in this topic's `original_chunk` — કચરો, પોતું, શાક, દાળ, રોટી, વાસણ, કપડાં, દીવો, આઇસક્રીમ, લેસન. A first sentence that opens on વહેંચણી, સંપ or જવાબદારી fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "urmikavya_geet gate (skipping the craft): `explanation` must carry one sentence about how the line-ends sound together — લઈએ / દઈએ / કહીએ / કરીએ on one side and મારે / વઘારે / ધૂએ on the other — said as a sound a std-6 child can hear, with no અલંકાર or છંદ label attached.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "urmikavya_geet gate (invented craft): every `figures_of_speech[].lines` string must occur character-for-character inside this topic's `original_chunk`; `figures_of_speech: []` is the correct and complete answer for a std-6 topic, and no device name may be introduced to fill the field.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "urmikavya_geet gate (never modernise the poet): બેનબા, ભાઈલો, `બોર થાતી`, `વઢી લઈએ`, `શાક સમારે`, `દાળ વઘારે`, `કપડાં ધૂએ` stay exactly as printed wherever `explanation`, `key_terms`, `concept_bullets` or a `recall_questions[].answer` quotes them — explained as the family's own playful words, never swapped for ભાઈ/બહેન or a standardised verb.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "urmikavya_geet gate (no numbers in display text): the poem's turns are referred to as `ઓમની પહેલી વારી`, `પપ્પાની પંક્તિ`, `છેલ્લી પંક્તિ` in every display field — no `પંક્તિ 3`, `વારો 5` or `કડી 1` in `topic_name`, `explanation`, `real_life_example`, `concept_bullets`, summaries or recall prompts; numbers stay in ids only.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "varta gate 2 (a tacked-on બોધ): the poem is made up aloud and ends in `બધાં ખડખડાટ હસી પડ્યાં.` No field may present it as a chore list the child must follow, and no sentence of `explanation`, `summary`, `detailed_summary`, `concept_bullets` or `recall_questions[].answer` may close on a rule. હીરવાનો છેલ્લો પ્રશ્ન `ઘરનું કામ સાથે મળીને કરવાની કેવી મજા આવે છે નહીં ?` is quoted as her question and left as a question.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "varta gate 1 (summary-only teaching): `explanation` must add what this topic's `modified_chunk` does not — that the three make the poem up turn by turn as the last event of the day, and that its lines point back at what actually happened (`પપ્પા પાડે પગલાં તો એમને વઢી લઈએ` against ઓમનાં ભીની ફરસ પરનાં પગલાં; `બેનબા વાસણ ધૂએ` against the ચોકડીવાળી ઘટના).",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "કવિતાની ડાબી બાજુ રંગીન અક્ષરે છપાયેલાં નામ — ઓમ, પપ્પા, હીરવા — બાળક વાંચતું નથી અથવા શીર્ષક ગણી લે છે, ને આખી કવિતા એક જ જણની બોલેલી સમજી લે છે. ઓમની પહેલી વારીમાં બે પંક્તિ છે (બીજી અંદર ખસેડીને છપાઈ છે) એટલે ગૂંચ વધે છે, અને `કોને કયું કામ સોંપાયું છે ?` શોધવા જતાં કોણ શું બોલે છે તે જ ખોવાઈ જાય છે.",
+      "correction": "`explanation` ની શરૂઆતમાં જ કહો કે ડાબી બાજુનું નામ એ પંક્તિ કોણ બોલે છે તે બતાવે છે, ને ત્રણે વારાફરતી બોલે છે — ઓમ, પછી પપ્પા, પછી હીરવા, ને ફરી ઓમ; ઓમની પહેલી વારીમાં બે પંક્તિ છે. પછી બે-ત્રણ પંક્તિ વક્તાના નામ સાથે ટાંકીને બતાવો કે કોણ કોને કયું કામ સોંપે છે. એક `recall_questions[].answer` માં પાઠ પ્રમાણે વક્તા સાથે પંક્તિ જોડાવો."
+    }
+  ],
+  "chapter_level": [
+    "વાદળી પ્રવેશપેટી શિક્ષક માટે છપાયેલી છે, બાળક માટે નહીં — `ઘરમાં સૌ સાથે મળીને એકબીજાને મદદરૂપ બને…`, `…જવાબદારી નિભાવે તે જરૂરી છે.`, `જેનો મહાવરો કરાવવો.` આ પ્રકરણનો સૌથી મોટો ભય એ છે કે આખું શિક્ષણ આ પેટીના શબ્દોમાં લખાઈ જાય અને બાળક પણ દરેક જવાબ ત્યાંથી જ આપે. કોઈ પણ topic નું `explanation`, `summary` કે `recall_questions[].answer` આ પેટીની પંક્તિઓથી શરૂ કે પૂરું ન થાય.",
+    "મિશ્ર પ્રકરણ, સીમા સ્પષ્ટ: varta.md ના avoid-gates છએ topic પર લાગુ છે; urmikavya_geet.md ના કાવ્ય-gates ફક્ત M2.S4.T6 (પાત્રોએ ભેગાં મળીને રચેલી કવિતા) પર લાગુ છે. બાકીનાં પાંચ topic ગદ્ય છે — એમાં પ્રાસ, લય કે ટેકનો કોઈ દાવો ન થાય.",
+    "આખા પ્રકરણમાં ટેક/ધ્રુવપંક્તિ એકેય નથી (`01_meta.json` નું `structure_inventory.tek_occurrences` શૂન્ય છે) અને કવિતામાં કડી-વિભાજન છપાયું નથી. કોઈ પણ ક્ષેત્રમાં 'ટેક', 'ધ્રુવપંક્તિ' કે 'પહેલી કડી–બીજી કડી' જેવી રચના ઊભી ન કરવી.",
+    "કર્તા-ખાનામાં ફક્ત '- સંકલિત' છપાયું છે અને કવિતાનું પોતાનું કર્તા-ખાનું નથી. કોઈ લેખક, કવિ કે અનુવાદકનું નામ ક્યાંય ન જોડવું — `no_hallucination_policy.md` પ્રમાણે નામનું ખાનું ખાલી રહે એ સાચો જવાબ છે.",
+    "આ પ્રકરણમાં L2 બાળક તત્સમ શબ્દો પર નહીં, ઘરના રોજિંદા વસ્તુ-શબ્દો પર અટકે છે: ચોકડી, તબડકું, ઘોડો, પાટલી, ઠેસી, તિખારો, ખાંડણી ને દસ્તો, ગળણી, સાણસી, ભૂકી, ઊભરો, ફરસ, સાવરણી. એમાંના ઘણા હિન્દીમાં જુદો અર્થ ધરાવે છે અથવા હિન્દી-માધ્યમના બાળકે કદી વાંચ્યા નથી. દરેકને પહેલી વાર આવે ત્યાં જ ગુજરાતીમાં ગ્લોસ કરવો, અને એ જ શબ્દ `real_life_example` માં બીજી વાર વાપરવો.",
+    "ધોરણ 6 ની labels-ceiling આખા પ્રકરણ પર લાગુ: બાળક-સન્મુખ કોઈ ક્ષેત્રમાં સાહિત્યપ્રકાર કે અલંકાર-છંદનું નામ ન આવે (વાર્તા-તત્ત્વો, સંવાદશૈલી, અલંકાર, પ્રાસ શબ્દ તરીકે). પ્રાસ અહીં અવાજ તરીકે સંભળાવવાનો છે, નામ તરીકે નહીં.",
+    "આ પાઠ છોકરો-છોકરીના ભેદ વિશે એકેય વાક્ય કહેતો નથી — એ બતાવે છે: ઓમ વાસણ માંજે છે, પપ્પા શાક સમારે છે, કવિતામાં ભાઈલો કપડાં ધૂએ છે. શિક્ષણ પણ બતાવીને જ ચાલે; `છોકરાઓએ પણ ઘરકામ કરવું જોઈએ` જેવું વાક્ય ક્યાંય ન લખાય — એ પાઠની પોતાની રીતને ઊંધી પાડે છે.",
+    "છાપેલી વિચિત્રતાઓ જેમની તેમ છે અને એ ભૂલ નથી: પૃષ્ઠ પરનું `આ રીતે વળાતું હશે ! એણે કહ્યું.` (બંધ અવતરણચિહ્ન નિવેદકના વાક્ય પછી), અવતરણચિહ્નો વગર છપાયેલું `ચોક્કસ મદદ કરીશ !`, અને કવિતાની બે પંક્તિને છેડે પૂર્ણવિરામનો અભાવ. કોઈ ક્ષેત્રે એને સુધારવું નહીં કે એના પર કોઈ દાવો બાંધવો નહીં."
+  ]
+}

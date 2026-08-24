@@ -1,0 +1,180 @@
+{
+  "_comment": "PHASE-2 skeleton for a CBSE Hindi learning plan. Shape authority: reference/phase2_contract.md, verified against learning_plan_upload/data/V2/.../cbse_eng_englishgrammar5_ch1.json. Values here are TYPE EXAMPLES, never content to copy - see reference/no_hallucination_policy.md.",
+
+  "phase": 2,
+  "board": "cbse",
+  "subject": "Hindi",
+  "grade": 6,
+  "level": "standard",
+  "version": 1,
+  "ordering": "logical",
+  "author": "",
+
+  "chapter_id": "cbse_eng_hindi6_ch1",
+  "plan_id": "cbse_eng_hindi6_ch1_v1",
+
+  "_activate": false,
+  "medium_id": null,
+  "subject_ref_id": 84,
+  "publication_id": 1,
+  "chapter_master_id": 354,
+  "estimated_time": 1.5,
+
+  "textbook": "मल्हार | हिन्दी पाठ्यपुस्तक | कक्षा 6",
+  "textbook_url": "<the chapter PDF url>",
+  "textbook_pages": "",
+  "unit_title": "<from the reader>",
+  "unit_number": 1,
+  "topic_title": "<chapter name>",
+  "topic_number": 1,
+  "chapter_name": "<chapter name>",
+
+  "genre": "<one of profiles/genres/*.md, or 'mixed'>",
+  "teaching_lens": "<from the genre profile>",
+  "guiding_question": "<derived from THIS chapter, not from the profile>",
+
+  "english_plan_id": null,
+  "english_chapter_id": null,
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "भाषा एवं साहित्य",
+      "objective_text": "<12-30 words, a goal in Hindi, grounded in this scene>",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": { "L1": "O1" },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "<name>",
+      "brief_summary": "<1 sentence>",
+      "summary": "<2-3 sentences>",
+      "detailed_summary": "<4-6 sentences, strictly longer than summary>",
+      "important_points": ["<कीवर्ड — gloss>"],
+
+      "_poem_only": "difficult_words and overall_rhyme_scheme are emitted for काव्य modules only; omit or null for गद्य. See reference/alankar_chhand.md.",
+      "difficult_words": [
+        { "word": "<शब्द>", "meaning": "<student-friendly, concrete>", "example": "<a FRESH everyday sentence, not the poem's own line>" }
+      ],
+      "overall_rhyme_scheme": { "pattern": "<e.g. हर छंद में AABB>", "note": "<the pattern and its effect; any chapter-wide टेक>" },
+
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "<name>",
+          "brief_summary": "<1 sentence>",
+          "summary": "<2-3 sentences>",
+          "detailed_summary": "<4-6 sentences>",
+          "important_points": ["<कीवर्ड — gloss>"],
+          "recall_questions": [
+            { "id": "M1.S1.RQ1", "prompt": "<…>", "answer": "<…>", "difficulty": "easy", "bloom_level": "remember" }
+          ],
+
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "<descriptive, no numbers>",
+              "topic_type": "instructional",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+
+              "original_chunk": "<EXACT Devanagari verbatim — line breaks, मात्राएँ, नुक़्ते, कवि-छाप preserved>",
+              "modified_chunk": "<'क्या हो रहा है' + inline-gloss seed>",
+              "word_count": { "original": 0 },
+
+              "explanation": "<55-90 words: क्या हो रहा है + अर्थ + inline glosses + the deeper reading WHERE THE PASSAGE CARRIES IT>",
+              "real_life_example": "<55-90 words: ONE Indian anchor inside an 11-year-old's experience; may end on a question>",
+
+              "brief_summary": "<1 sentence>",
+              "summary": "<2-3 sentences>",
+              "detailed_summary": "<4-6 sentences>",
+              "key_terms": ["<शब्द — अर्थ>"],
+              "concept_bullets": ["<कीवर्ड — gloss>"],
+              "important_points": ["<कीवर्ड — gloss>"],
+
+              "_poem_only_topic": "figures_of_speech and rhyme_scheme are for काव्य topics; [] and null for गद्य. NEVER invent a device to fill the field.",
+              "figures_of_speech": [
+                { "device": "<अलंकार का नाम>", "lines": "<the EXACT words from this chunk>", "note": "<one line on what it does>" }
+              ],
+              "rhyme_scheme": { "pattern": "<e.g. AABB>", "rhyming_words": ["<चूमता — झूमता>"], "note": "<what the तुक does>" },
+
+              "objective_ids": ["O1"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O1",
+                  "legacy_id": "L1",
+                  "strand": "L",
+                  "strand_name": "भाषा एवं साहित्य",
+                  "objective_text": "<IDENTICAL to the root registry entry>",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M1.S1.T1",
+                  "anchor": ["M1.S1.T1.C1"],
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "_concept_id_note": "c is CHAPTER-CONTINUOUS: M1.S2.T3 carries .C3, not .C1",
+                  "concept_name": "<name>",
+                  "objective_id": "O1",
+                  "key_terms": ["<शब्द — अर्थ>"],
+                  "content": [
+                    { "type": "paragraph", "text": "<…>", "publication_text": "<controlled rewrite>" },
+                    { "type": "list", "items": ["<…>"] }
+                  ]
+                }
+              ],
+
+              "recall_questions": [
+                { "id": "M1.S1.T1.RQ1", "legacy_id": "M1.S1.T1.TR1", "prompt": "<…>", "answer": "<…>", "difficulty": "easy", "bloom_level": "remember" }
+              ],
+
+              "media": [
+                {
+                  "id": "M1.S1.T1.C1.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "<…>",
+                  "description": "<…>",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "concept_id": "M1.S1.T1.C1",
+                  "home_concept_id": "M1.S1.T1.C1",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "<how a teacher uses it; if reused, name the source frame id here>",
+                  "negative_prompt": "<…>",
+                  "generation_prompt": "<self-contained; empty ONLY when image_url is a reused frame>"
+                }
+              ],
+              "2d_tool": null,
+
+              "publication_text": "<controlled rewrite of the teaching block>",
+              "publication_chunk": "<publication-facing chunk>",
+
+              "depends_on": [],
+              "source_topic_ids": [],
+              "estimated_exchanges": "4",
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": ["image"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

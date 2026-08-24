@@ -1,0 +1,72 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "genre": "હાસ્યનિબંધ",
+      "profile": "nibandh_atmaparak.md",
+      "explanation_unit": "એક પ્રસંગ, અથવા વિચારનો એક વળાંક",
+      "kadi_markers": 0,
+      "duha_markers": 0,
+      "pad_markers": 0,
+      "tek_occurrences": 0,
+      "notes": [
+        "Explanation unit matches the profile: 01_meta.json and 02_structure.json both carry 'એક પ્રસંગ, અથવા વિચારનો એક વળાંક', which is the nibandh_atmaparak row of reference/explanation_unit_map.md (પ્રસંગ-wise / વિચારના વળાંક-wise). Genre હાસ્યનિબંધ, profile nibandh_atmaparak.md, lens 'સ્વર + પ્રસંગ + પોતાની જાત પરની નજર' — all three agree across A1 and A2.",
+        "કડી / દુહો / પદ / ટેક checks are vacuous by measurement, not by omission: structure_inventory records kadi=0, duha=0, pad=0, tek_occurrences=0 and 00_chapter_normalized.md carries no [[કડી]], [[દુહો]], [[પદ]] or ટેક marker. The chapter is prose end to end; its only verse ('હું કરું, હું કરું એ જ અજ્ઞાનતા...') is quoted inside a prose sentence and correctly sits inside T9's ઘટના rather than becoming a પદ topic.",
+        "Not a mixed chapter — genre is single-valued and every topic is cut under the one unit.",
+        "Profile avoid #2 holds structurally: no topic carries topic_category 'climax' (categories used are introduction / core / transition / resolution only).",
+        "Profile avoid #11 (never cut a comic turn from its setup) verified against the text, not just the marker count. The અખાડો/ખાડો misunderstanding and the ગોટલો / પાકી કેરી pair sit whole inside M2.S3.T5 together with the shared laugh that closes them; the entire કુસ્તી exchange — ઘસરકો, the ચીત / વાતચીત misunderstanding, the deliberate falls, the 'હું હાર્યો' negotiation and ઉસ્તાદ's astonishment — sits whole inside M2.S3.T6; the literal 'હાથમાં દંડ લઈને બેઠક પર શાંતિથી બેસી રહેવાનું' misreading stays with the હુકમ that provokes it in M3.S4.T7. No boundary falls between a setup and its પરિણામ.",
+        "Profile avoid #12 holds structurally: no objective_text describes how to write an આત્મકથા / દિનચર્યા / રમૂજી પ્રસંગ as a method, and no exercise block was taught as a topic.",
+        "Objectives carry no બોધ / ઉપદેશ formulation and none moralises the હાસ્ય; all nine stay on voice, પ્રસંગ and the writer's own admissions, which is the profile's lens."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 9,
+      "topics": 9,
+      "ghatna_markers": 9,
+      "topics_carrying_a_ghatna_marker": 9,
+      "exercise_blocks": 15,
+      "exercise_blocks_cut_as_topics": 0,
+      "pre_reading_topic": false,
+      "in_text_wrap_topic": false,
+      "notes": [
+        "Marker parity is exact and ordered: 00_chapter_normalized.md carries nine [[ઘટના: …]] markers and 02_structure.json produces nine topics whose source_marker values equal that marker list character-for-character and in printed order (verified by list equality, not by count alone). Every marker is used exactly once; no topic was created without one.",
+        "NO PRE-READING TOPIC, AND THAT IS CORRECT HERE — the check 'the pre-reading opener is a topic' is satisfied vacuously because this chapter prints no student-facing pre-reading prose. The only introductory prose is the blue પ્રવેશપેટી on printed p. 15, which A1 marked '[[પ્રવેશપેટી (શિક્ષક માટે — વાચન-દૃશ્ય નથી)]]'. Cutting rule 4 of reference/explanation_unit_map.md makes teacher-addressed apparatus a hard fail if cut as a topic, and reserves the pre-reading CONCEPT topic for the std-10 student-facing કવિ/લેખક-પરિચય shape, which std 8 does not print. A2 recorded the absence as measured; validated as measured, not as an omission.",
+        "No in-text wrap exists: the reading run ends on 'એનું નોંધવા જેવું કોઈ પરિણામ આવ્યું નહિ.' with no in-text summary or value box, so there is no wrap topic to require. The ચર્ચા-વિચારણા box sits after all thirteen numbered blocks and is apparatus, not an in-text wrap.",
+        "NO સ્વાધ્યાય BLOCK BECAME A TOPIC — cross-checked in both directions. All fifteen exercise_inventory verbatim_headings were substring-matched against every module_name, segment_name and topic_name: zero overlap. All fifteen [[સ્વાધ્યાય: …]] markers were matched against every topic's source_marker: none is used. The two pre-blocks (શબ્દસમૂહ. / રૂઢિપ્રયોગ.), all thirteen numbered blocks, the શબ્દાર્થ box and the ચર્ચા-વિચારણા box are all outside the topic tree.",
+        "No topic covers text no marker claims: every topic's claim on the text is its single source_marker, all nine of which are drawn from 00_chapter_normalized.md. original_chunk is uniformly empty at this stage (Agent 5's field), so no topic over-claims text at structure stage — Agent 5 must fill each original_chunk within its own marker's span.",
+        "Appended and exercise reading matter correctly excluded: the block-7 mock advertisement and the passages printed inside blocks 3, 4, 5, 8, 12 and 13 enter no topic, and the two uncaptioned colour illustrations (printed pp. 16 and 18) open no topic — both per cutting rule 4 and the profile's 'printed illustrations are page matter' rule."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 9,
+      "topics_with_objective_ids": 9,
+      "unresolved_home_topic_ids": 0,
+      "unresolved_anchors": 0,
+      "legacy_ids_mapped": 9,
+      "notes": [
+        "Root objectives[] holds nine entries, O1–O9, all objective_id values unique.",
+        "Every home_topic_id resolves to a topic in this tree and every anchor[] id resolves to a concept in this tree; additionally every anchor sits inside its own objective's home topic (checked programmatically, no orphans).",
+        "strand_to_objective_map covers every legacy_id exactly once — nine keys L1–L9, nine objectives, one-to-one, every target a real objective_id; single strand 'L' / 'ભાષા અને સાહિત્ય' throughout as reference/phase2_contract.md requires.",
+        "Every topic carries a non-empty objective_ids[] and each entry resolves to the registry; every concept's objective_id likewise resolves.",
+        "Text-grounded and chapter-specific: each objective quotes or names material that exists in 00_chapter_normalized.md — 'દયા આવે છે', મહેનત/પરસેવાની કબૂલાત, the વડીલ's 'પરસેવો થાય ત્યાં સુધી' શરત, ઉસ્તાદ's કુસ્તી-છેલ્લે ક્રમ, the અખાડો/ખાડો pun with ગોટલો and પાકી કેરી, ચત્તા સૂઈ જવું with 'હું હાર્યો', 'હાથમાં દંડ લઈને બેઠક પર શાંતિથી બેસી રહેવાનું', 'ભાનમાં હોય તો એવો કોઈ પણ માણસ ન કરે એવી ક્રિયા', and 'હા, દંડ-બેઠક કર્યાં' / 'હું અસત્ય નહોતો બોલ્યો'. Each quoted phrase was verified present in the transcription. None of the nine could be pasted into another chapter.",
+        "All nine serve the teaching_lens: each asks about the speaker's voice, the પ્રસંગ, or what the writer admits about himself. Objective word counts run 20–25 Gujarati words, inside the contract's 12–30 band; bloom_level is capitalised (Understand / Analyze / Evaluate) as the contract specifies; status 'taught' and theme_category null throughout.",
+        "Ids match reference/naming_conventions.md: M1–M3, S1–S5 and T1–T9 are dotted and chapter-continuous with no gaps or restarts; concepts run C1–C11 chapter-continuous (correctly NOT equal to the topic number from T3 onward, because M1.S1.T2 and M2.S3.T6 each carry two concepts); no M1.S1.T1.P1-style objective code anywhere in the file, and no .SR{n} recall id."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "AGENT 5 — learning_objectives[] is absent from every topic at this stage. reference/phase2_contract.md requires each topic to mirror its objective object inline, character-for-character identical to the root entry plus \"image_examples\": []. It is one of the 31 topic keys and is downstream authoring work, not a structural defect, so it is recorded here rather than blocked on.",
+    "AGENT 5 — original_chunk is an empty string on all nine topics. Each must be transcribed from the rendered page within its own source_marker's span, and per the profile's avoid #13 the chapter's last printed sentence ('...પણ એનું નોંધવા જેવું કોઈ પરિણામ આવ્યું નહિ.') together with the attribution line '- જ્યોતીન્દ્ર દવે' must land inside M3.S5.T9's original_chunk.",
+    "AGENT 10 / AGENT 13 — the ચર્ચા-વિચારણા box printed after block 13 carries three bullets ('સ્વસ્થ જીવનની ચાવી - વ્યાયામ', 'મારું સાહસ (હાસ્ય)', 'હાસ્ય - ઉત્તમ ઔષધ') and is marked in 00_chapter_normalized.md, but it is NOT among the fifteen exercise_inventory entries in 01_meta.json. profiles/genres/nibandh_atmaparak.md avoid #12 requires every ચર્ચા-વિચારણા bullet to appear in the exercise deliverable. It is correctly not a topic, so this does not block Agent 4; Agent 10 must still cover the box, and Agent 13 should confirm it did.",
+    "AGENT 5 / AGENT 7 — O9 asks the child to judge whether the writer's 'હું અસત્ય નહોતો બોલ્યો' claim is fair. It is text-grounded and legitimately Evaluate, but it sits one step from the profile's hard avoid #3 (a tacked-on બોધ) and global rule 1. Teach it as the craft point the chapter itself names — the કર્તા અધ્યાહાર and the વ્યંગ it enables — and never as a સત્ય-અસત્ય morality lesson. No field may close on 'આપણે સાચું બોલવું જોઈએ'.",
+    "AGENT 5 — the પરસેવો thread is the chapter's running joke and it crosses three topics: the વડીલ's શરત 'પરસેવો થાય ત્યાં સુધી' in M2.S2.T3, 'મને પરસેવો થઈ ગયો !' at the close of M3.S4.T8 (from watching only), and the same શરત returned as the answer in M3.S5.T9. A2 wired M3.S5.T9.depends_on to include M2.S2.T3, which carries the link structurally; the explanations should carry it in prose so the payoff is not orphaned. Not a cut defect — no boundary separates a setup from its own પરિણામ.",
+    "UNEVEN TOPIC LENGTH, recorded not blocked — M2.S3.T6 spans roughly 78 lines of the transcription against 4–20 for the others, because the whole કુસ્તી exchange is deliberately kept intact under profile avoid #11. A2 flagged it; keeping it whole is the correct call and the length is a note for Agent 13, not a re-cut.",
+    "CONTEXT ROUTING — the run context supplied only no_hallucination_policy.md and global_content_rules.md, but the agent spec additionally requires reference/loop_protocol.md, reference/explanation_unit_map.md, reference/phase2_contract.md, reference/naming_conventions.md and the active genre profile. All five exist on disk and were read in full from reference/ and profiles/genres/nibandh_atmaparak.md; nothing was validated against a guessed document.",
+    "No page render was opened. 00_chapter_normalized.md answered every structural question — marker set, marker order, exercise headings, the apparatus boxes and the chapter's closing sentence are all in the transcription."
+  ]
+}

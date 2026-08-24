@@ -1,0 +1,400 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati6_ch3",
+  "plan_id": "gseb_eng_gujarati6_ch3_v1",
+  "chapter_name": "બાણ તો ત્યારે જ છૂટશે...",
+  "grade": 6,
+  "level": "standard",
+  "genre": "સંવાદ",
+  "active_genre_profiles": ["samvad_nibandh.md", "natak_ekanki.md"],
+  "teaching_lens": "તર્ક + દૃષ્ટિકોણ + જવાબદારી (samvad_nibandh, પ્રમુખ) — સાથે સંવાદ + રંગસૂચના + વળાંક (natak_ekanki, સાથે લોડ; રંગસૂચના લખાણ છે અને એ જ કાપની નિશાની છે)",
+  "guiding_question": "દ્રોણ દરેક કુમારને એક જ પ્રશ્ન પૂછે છે — 'તને શું શું દેખાય છે ?' — તો બાણ છોડવાની આજ્ઞા માત્ર અર્જુનને જ કેમ મળે છે ?",
+  "explanation_unit": "એક સંવાદ-ખંડ (વાતચીતનું એક પગલું) — સીમા હંમેશાં પૂરા વક્તા-વળાંક પર; વચ્ચેથી કદી કાપવું નહીં, બંને વક્તાના શબ્દો લેબલ સહિત verbatim રાખવા, અને કૌંસની રંગસૂચના ખંડની અંદર લખાણ તરીકે જ રહે",
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કુમારો મેદાનમાં કઈ કઈ અટકળ કરે છે અને દુઃશાસનને શેનો ડર લાગે છે તે સંવાદમાંથી શોધીને પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ભીમ દુરાધર પર કેમ ગુસ્સે થાય છે અને ગુરુ દ્રોણ કયા શબ્દોથી તેને શાંત પાડે છે તે પંક્તિ બતાવીને સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": ["M1.S1.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગુરુ દ્રોણે પરીક્ષા માટે કયું નિશાન અને કયો નિયમ નક્કી કર્યો તે તેમના પોતાના શબ્દોમાંથી શોધીને કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": ["M1.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "યુધિષ્ઠિરને પંખી ઉપરાંત શું શું દેખાય છે તે તેની પંક્તિમાંથી શોધીને, ગુરુએ તેને બાણ કેમ છોડવા ન દીધું તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T4",
+      "anchor": ["M1.S2.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દુર્યોધન બાણ છોડવા કેટલો ઉતાવળો છે તે તેના જવાબોમાંથી બતાવીને, તેને શું શું દેખાય છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T5",
+      "anchor": ["M1.S2.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ભીમને પંખી, વૃક્ષો, ફળો ને આકાશ સુધી બધું દેખાય છે — આ જવાબ સાંભળીને કુમારો કેમ હસી પડે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S3.T6",
+      "anchor": ["M1.S3.T6.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ચારેય કુમારોના સરખા જવાબ પછી ગુરુ દ્રોણ કઈ પંક્તિમાં પોતાની નિરાશા બતાવે છે તે શોધીને એનો અર્થ કહેવો.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S3.T7",
+      "anchor": ["M1.S3.T7.C7"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અર્જુનનો જવાબ બીજા કુમારોના જવાબથી કઈ રીતે જુદો પડે છે તે બંને પંક્તિઓ સામસામે મૂકીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T8",
+      "anchor": ["M2.S4.T8.C8"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગુરુ દ્રોણ છેલ્લે લક્ષ્ય અને એકાગ્રતા વિશે શું કહે છે તે તેમના શબ્દોમાંથી શોધીને પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T9",
+      "anchor": ["M2.S4.T9.C9"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9"
+  },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "ગુરુ દ્રોણની અનોખી પરીક્ષા",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "ગુરુની રાહ જોતા કુમારો",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "પરીક્ષાની અટકળ ને દુઃશાસનનો ડર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "source_markers": [
+                "[[રંગસૂચના: આરંભનું દૃશ્ય]]",
+                "[[સંવાદ: પરીક્ષાની અટકળ — કુમારો મેદાનમાં]]"
+              ],
+              "source_span": "છાપેલું પાનું 14–15: આરંભની રંગસૂચના '(કૌરવ અને પાંડવ કુમારો ખુલ્લા મેદાનમાં ઊભા છે. દૂર વૃક્ષો દેખાય છે.)' થી યુધિષ્ઠિરના 'ચાલો, ચાલો, હવે હારબંધ થઈ જાઓ. જુઓ, ગુરુજી આવી રહ્યા છે.' સુધી",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "પરીક્ષાની અટકળ અને ડર",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "ગુરુનો પ્રવેશ ને ભીમની તકરાર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "source_markers": [
+                "[[રંગસૂચના: દ્રોણનો પ્રવેશ]]",
+                "[[સંવાદ: પ્રણામ, અને ભીમ-દુરાધરની તકરાર]]"
+              ],
+              "source_span": "છાપેલું પાનું 15: '(ગુરુ દ્રોણાચાર્યનો પ્રવેશ થાય છે. સૌ કુમારો વિનયપૂર્વક પ્રણામ કરે છે.)' થી ભીમના 'જી ગુરુજી ! જેવી આપની આજ્ઞા.' સુધી",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "ગુરુનું આગમન અને ભીમને શાંત પાડવો",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "પંખીની આંખ ને પહેલા વારા",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "પંખીની આંખ વીંધવાનો આદેશ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "source_markers": ["[[સંવાદ: પરીક્ષાની જાહેરાત — પંખીની આંખ]]"],
+              "source_span": "છાપેલું પાનું 15: દ્રોણના 'કુમારો, સૌ આ તરફ આવો...' થી દ્રોણના 'બધાનો વારો આવશે.' સુધી",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "પરીક્ષાનો નિયમ — આદેશ મળે તેણે જ નિશાન સાધવું",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T4",
+              "topic_name": "યુધિષ્ઠિરને ઝાડ ને સૌ ભાઈઓ દેખાય છે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": ["M1.S2.T3"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "source_markers": ["[[સંવાદ: યુધિષ્ઠિરનો વારો]]"],
+              "source_span": "છાપેલું પાનું 16: યુધિષ્ઠિરના 'ગુરુજી, મારાં ધનુષ્ય-બાણ તૈયાર છે.' થી '(યુધિષ્ઠિરને કશું સમજાતું નથી. તે નવાઈ પામી એક બાજુ ઊભો રહે છે.)' સુધી",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T4.C4",
+                  "concept_name": "યુધિષ્ઠિરની નજરમાં આખું મેદાન",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T5",
+              "topic_name": "દુર્યોધનને બધુંય ચોખ્ખું દેખાય છે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": ["M1.S2.T3"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "source_markers": ["[[સંવાદ: દુર્યોધનનો વારો]]"],
+              "source_span": "છાપેલું પાનું 16: દુર્યોધનના '(બાણ ચઢાવીને) ગુરુજી ! આજ્ઞા આપો...' થી દ્રોણના 'હવે ભીમનો વારો.' સુધી",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T5.C5",
+                  "concept_name": "દુર્યોધનની ઉતાવળ અને ચોખ્ખું દેખાતું બધું",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S3",
+          "segment_name": "એક પછી એક વારો ને ગુરુની નિરાશા",
+          "topics": [
+            {
+              "topic_id": "M1.S3.T6",
+              "topic_name": "ભીમને આખું આકાશ દેખાય છે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S2.T3"],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "source_markers": ["[[સંવાદ: ભીમનો વારો]]"],
+              "source_span": "છાપેલું પાનું 16: ભીમના 'ગુરુજી, મને ગદા ચલાવવા દો.' થી ભીમના '(સ્વગત) કંઈક ખાવાની હરીફાઈ હોત તો મેદાન મારી જાત !' સુધી",
+              "concepts": [
+                {
+                  "concept_id": "M1.S3.T6.C6",
+                  "concept_name": "ભીમની નજર ફળ ને આકાશ સુધી",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S3.T7",
+              "topic_name": "ચાર કુમારો ને ગુરુની નિરાશા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "hard",
+              "depends_on": ["M1.S2.T3"],
+              "objective_ids": ["O7"],
+              "original_chunk": "",
+              "source_markers": ["[[સંવાદ: બાકીના ચાર કુમારો, અને દ્રોણની નિરાશા]]"],
+              "source_span": "છાપેલાં પાનાં 16–17: દ્રોણના '(બીજા કુમારો સામે જોઈને) દીર્ઘતાલ, દુરોધર, દુરાચાર, દુર્મુખ...' થી 'હા, હા દેખાય છે, એકલો અર્જુન ના, ના કહેવા હાથ હલાવે છે.' સુધી",
+              "concepts": [
+                {
+                  "concept_id": "M1.S3.T7.C7",
+                  "concept_name": "એકસરખા જવાબ અને ગુરુની નિરાશા",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "બાણ છૂટે છે",
+      "segments": [
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "લાલ આંખ ને એકાગ્રતાનું રહસ્ય",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T8",
+              "topic_name": "અર્જુનને માત્ર લાલ આંખ દેખાય છે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": ["M1.S2.T3", "M1.S3.T7"],
+              "objective_ids": ["O8"],
+              "original_chunk": "",
+              "source_markers": ["[[સંવાદ: અર્જુનનો વારો — બાણ છૂટે છે]]"],
+              "source_span": "છાપેલું પાનું 17: ભીમના 'અલ્યા, અર્જુન ! તને નથી દેખાતું ?' થી દ્રોણના 'શાબાશ ! બેટા ! અર્જુન, સરસ ! ...તું મહાન બાણાવળી થઈશ.' સુધી",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T8.C8",
+                  "concept_name": "માત્ર લાલ આંખ — અને બાણ છૂટે છે",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T9",
+              "topic_name": "એકાગ્રતાનું રહસ્ય ખૂલે છે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": ["M2.S4.T8"],
+              "objective_ids": ["O9"],
+              "original_chunk": "",
+              "source_markers": ["[[સંવાદ: સમાપન — એકાગ્રતાનું રહસ્ય]]"],
+              "source_span": "છાપેલું પાનું 17: 'કૌરવ કુમારો : અમને બાણ છોડવાનો આદેશ આપ્યો હોત તો...' થી 'સૌ કુમારો : (એક સાથે) ગુરુજી, બધું જ સમજાઈ ગયું. હવે અમે સૌ એકાગ્રતાની વાત બરાબર યાદ રાખીશું.' સુધી",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T9.C9",
+                  "concept_name": "લક્ષ્ય નક્કી કરવું અને એકાગ્રતાનું કૌશલ્ય",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "counts": {
+    "modules": 2,
+    "segments": 4,
+    "topics": 9,
+    "concepts": 9,
+    "objectives": 9,
+    "reading_scene_markers_in_00": 11,
+    "reading_scene_markers_breakdown": "[[સંવાદ: …]] × 9 + [[રંગસૂચના: …]] × 2"
+  },
+
+  "notes": [
+    "કાપનો આધાર: 01_meta.json નું explanation_unit (એક સંવાદ-ખંડ = વાતચીતનું એક પગલું) અને એ જ ફાઇલના structure_inventory.ghatna = 9. નવ ટૉપિક બરાબર એ નવ સંવાદ-ખંડ છે; 00_chapter_normalized.md ના નવ [[સંવાદ: …]] માર્કર સાથે એક-એક મળે છે.",
+    "માર્કર-ગણતરી vs ટૉપિક-ગણતરી (Agent 4 માટે): વાચન-દૃશ્યના માર્કર 11 છે (9 [[સંવાદ]] + 2 [[રંગસૂચના]]) અને ટૉપિક 9. બંને રંગસૂચના-માર્કર ગળી જવાયા નથી — તે પોતાના પછીના ટૉપિકની અંદર જ રહે છે અને Agent 5 એ તેમને એ ટૉપિકના original_chunk માં જેમ છપાયા છે તેમ કૌંસ સહિત રાખવાના છે: આરંભનું '(કૌરવ અને પાંડવ કુમારો ખુલ્લા મેદાનમાં ઊભા છે. દૂર વૃક્ષો દેખાય છે.)' M1.S1.T1 માં, અને '(ગુરુ દ્રોણાચાર્યનો પ્રવેશ થાય છે. સૌ કુમારો વિનયપૂર્વક પ્રણામ કરે છે.)' M1.S1.T2 માં. કારણ: આ બંને પોતાના પછીના વક્તા-વળાંકને governing કરતી રંગસૂચના છે, અને spec નો નિયમ 'A pre-topic hook belongs to the NEXT topic' અહીં સીધો લાગુ પડે છે.",
+    "વિકલ્પ જે નકાર્યો, ખુલ્લી નોંધ તરીકે: આરંભની રંગસૂચનાને પોતાનું CONCEPT ટૉપિક બનાવી શકાત (natak_ekanki.md નો 'the પાત્રો list + opening scene-note is its own topic' નિયમ). અહીં તે નિયમ ફાયર થતો નથી કારણ કે આ એકમમાં પાત્રો-પેટી નથી, પ્રવેશ/અંક-શીર્ષક નથી, સ્થળ/સમય-લીટી નથી અને 'પડદો પડે છે' નથી — છે માત્ર એક જ લીટીની દૃશ્ય-સૂચના. એ જ કારણે natak_ekanki.md પોતે આ પ્રકરણને પોતાની near-miss હરોળમાં મૂકે છે. છતાં 'દૂર વૃક્ષો દેખાય છે' એ આખી પરીક્ષાનું ઝાડ પહેલી જ લીટીમાં મૂકી દે છે — Agent 12 એ M1.S1.T1 ના explanation માં એ તરફ આંગળી ચીંધવી.",
+    "સ્વરૂપ-priors સાથે મતભેદ (Agent 1 પાસેથી આગળ વધારેલો): પુસ્તકના પોતાના લેબલ પ્રમાણે samvad_nibandh પ્રમુખ છે, પણ એ profile નું સૌથી મજબૂત signal C (બે પક્ષની દલીલ ચકાસતો સ્વાધ્યાય-બ્લૉક) આ એકમમાં એકેય નથી, અને એનો G6 wrong-route gate છાપેલા વક્તા-લેબલ પર ફાયર થાય. તેથી કાપ natak_ekanki ના stage-beat દાણા પર કર્યો છે — જે અહીં samvad_nibandh ના 'one move of the argument' સાથે એકરૂપ થાય છે, કારણ કે દરેક ખંડ એક જ પગલું પૂરું કરે છે (પ્રશ્ન → જવાબ → ચુકાદો). Agent 4/13: આ એકમ પર બે-પક્ષી દલીલનું માળખું બળજબરીથી ન બેસાડવું; અહીં 'બે પક્ષ' નથી, એક જ પ્રશ્નના જુદા જુદા જવાબ છે.",
+    "[[ચિત્ર: …]] માર્કર M1.S1.T1 ના ગાળાની વચ્ચે (અર્જુનની 'આપણું સદ્ભાગ્ય છે.' પછી અને દુઃશાસનની 'મને તો ડર છે...' પહેલાં) બેસે છે. એ છાપેલું ચિત્ર છે, લખાણ નથી — તે T1 ને કાપતું નથી, Agent 5 એ તેને original_chunk માં ન લેવું, Agent 9 તેને વાપરી શકે.",
+    "એક જ વક્તા-લેબલ નીચે એકથી વધુ છાપેલા ફકરા ચાલે છે તે બે જગ્યાએ: M1.S3.T7 માં દ્રોણનું 'સારું, બાણ છોડશો નહીં...' + '(ખૂબ નિરાશવદને) ...' + '(બાકીના કુમારો સામે ફરીને) ...', અને M2.S4.T8 માં દ્રોણનું 'હાશ ! બેટા, તું છોડ બાણ.' + '(અર્જુન બાણ છોડે છે...)' + 'શાબાશ ! બેટા !...'. બંને એક જ વળાંકના ભાગ છે — ટૉપિકની સીમા તેમની વચ્ચેથી પસાર થતી નથી.",
+    "M2 માં એક જ સેગમેન્ટ છે — ઇરાદાપૂર્વક. પ્રકરણનું બીજું મોટું ચલન વળાંક (અર્જુનનો જવાબ) અને તેનું સમાધાન (દ્રોણનું રહસ્ય) એ બે દૃશ્ય જ છે; તેમને M1 ના નિષ્ફળ વારાઓ સાથે એક જ મૉડ્યુલમાં મૂકવાથી વળાંક ઢંકાઈ જાત.",
+    "ટૉપિકની લંબાઈ અસમાન છે: M1.S2.T4 અને M1.S2.T5 ટૂંકા (ચાર-છ વળાંક), M1.S1.T2, M1.S3.T7 અને M2.S4.T9 લાંબા. આ છાપેલી રચના જ છે — વારાઓનું ચક્ર જાણી જોઈને પુનરાવર્તિત અને ટૂંકું છપાયું છે; ખરાબ કાપ નથી.",
+    "difficulty ધોરણ 6 ના L2 વાચકને પાના પર શું અટકાવે છે તેના પરથી મૂક્યું છે, વિચારના કદ પરથી નહીં: hard = જોડાક્ષર-ગીચ કે લાંબું ભાષણ અને ગૂંચવતાં નામ (M1.S1.T2 — ચુગલીખોર, આજ્ઞાંકિત, બત્રીસ-લક્ષણો, મહાપરાક્રમી, ભાષણની અંદર જ કૌંસની સૂચનાઓ; M1.S3.T7 — દીર્ઘતાલ/દુરોધર/દુરાચાર/દુર્મુખ ચાર સરખાં લાગતાં નામ, નિરાશવદને, 'ધૂળમાં મળવું'; M2.S4.T9 — ભારપૂર્વક, લક્ષ્ય, એકાગ્રતાનું કૌશલ્ય અને અધૂરું છોડેલું વાક્ય). કોઈ પણ ટૉપિક કોઈ સાહિત્યિક લેબલને કારણે hard નથી — ધોરણ 6 માં એવું લેબલ છે જ નહીં.",
+    "objective_text માં એકેય અલંકાર/છંદ/સમાસ/સાહિત્યપ્રકારનું નામ નથી (ધોરણ 6 નું craft-label ceiling — profiles/students/std-6.md §3). બધા objective આ જ પ્રકરણની છાપેલી પંક્તિઓ પર ટકે છે અને 12–30 શબ્દની હદમાં છે.",
+    "કોઈ પણ નામમાં આંકડો નથી (મૉડ્યુલ, સેગમેન્ટ, ટૉપિક, કૉન્સેપ્ટ) — global_content_rules.md નિયમ 4.",
+    "એકેય સ્વાધ્યાય-બ્લૉક ટૉપિક બન્યો નથી (17 ક્રમાંકિત બ્લૉક Agent 10 ના). ભૂરી પ્રવેશપેટી (શિક્ષક-સંબોધિત), શબ્દાર્થ-પેટી અને એકમ-અંતિમ લીલી 'સંજ્ઞા વિશે જાણીએ' પેટી — ત્રણેય apparatus છે, ટૉપિક નથી; તે key_terms અને ભાષા-બોધ ને પોષે છે.",
+    "[[લેખક-સ્લોટ]] માં માત્ર '- સંકલિત' છપાયું છે — એ attribution slot છે, વિદ્યાર્થી માટે છપાયેલો લેખક-પરિચય ફકરો નથી; તેથી તેનું CONCEPT ટૉપિક બનાવ્યું નથી. [[શીર્ષક-પટ્ટી]] (અંક-ચોકઠું + શીર્ષક + QR બૅજ) header furniture છે.",
+    "છાપેલી જોડણી-વિસંગતિ, જેમ છે તેમ આગળ મોકલી: પાના 15 પર વક્તા-લેબલ અને ભીમના ભાષણમાં નામ 'દુરાધર' છપાયું છે, જ્યારે પાના 16 પર દ્રોણ ચાર કુમારોને બોલાવે ત્યાં 'દુરોધર' છપાયું છે. બંને જેમ છે તેમ રહેશે — સુધારવાનું નથી (natak_ekanki.md: 'The printed text is never corrected'). Agent 7 એ 07_pitfalls.json માં નોંધવું.",
+    "M2.S4.T9 માં દ્રોણનું છેલ્લું વાક્ય છાપેલી રીતે જ અધૂરું છે — 'બાણ તો ત્યારે જ છૂટશે, જ્યારે...' — અને એકમનું શીર્ષક એ જ વાક્ય છે. આ લિપ્યંતરણની ખોટ નથી; Agent 5 એ ત્રણ ટપકાં સહિત જેમ છે તેમ લેવું.",
+    "એક ટૉપિક = એક કૉન્સેપ્ટ રાખ્યું છે, અને concept counter પ્રકરણ-સળંગ છે (C1…C9), એટલે દરેક ટૉપિકનો કૉન્સેપ્ટ-આંક તેના ટૉપિક-આંક બરાબર છે (reference/phase2_contract.md નો validator-verified નિયમ).",
+    "original_chunk દરેક ટૉપિકમાં ખાલી છે — Agent 5 નું કામ. source_markers અને source_span માત્ર provenance છે અને emitted plan માં જવાનાં નથી."
+  ]
+}

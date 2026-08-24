@@ -1,0 +1,183 @@
+{
+  "_comment": "PHASE-2 skeleton for a GSEB Gujarati (દ્વિતીય ભાષા, std 6-10) learning plan. Shape authority: reference/phase2_contract.md — its mechanisms were verified against the LP2 validator during the Hindi (CBSE) run and carry over unchanged, but every CBSE VALUE is provenance, not portable: the GSEB board/medium segments and DB ids below are PROVISIONAL until VERIFY-1/VERIFY-2 resolve them against the live server. Values here are TYPE EXAMPLES, never content to copy - see reference/no_hallucination_policy.md. GSEB PDFs are image-only: original_chunk is transcribed from the rendered page, never from a text layer (reference/gujarati_verbatim.md). Keys beginning with _ are notes in this skeleton only - the emitted plan carries exactly the 32 root keys and 31 topic keys of the contract, plus the contract's own _activate.",
+
+  "phase": 2,
+  "board": "gseb",
+  "subject": "Gujarati",
+  "grade": 6,
+  "level": "standard",
+  "version": 1,
+  "ordering": "logical",
+  "author": "",
+
+  "chapter_id": "gseb_eng_gujarati6_ch1",
+  "plan_id": "gseb_eng_gujarati6_ch1_v1",
+  "_ids_note": "chapter_id = {board}_{medium}_{subject}{grade}_ch{unit_number}, all lowercase; plan_id = {chapter_id}_v{version}, no _standard_ segment, and the server assigns the real version. The medium slot is the MEDIUM OF INSTRUCTION, not the subject language, and a wrong value does not fail loudly — it uploads clean under the wrong medium column. gseb_eng_gujarati{grade}_ch{N} is PROVISIONAL: confirm both segments against the live server (VERIFY-1) before the first upload. See reference/naming_conventions.md.",
+
+  "_activate": false,
+  "medium_id": null,
+  "subject_ref_id": null,
+  "publication_id": null,
+  "chapter_master_id": null,
+  "_db_ids_note": "publication_id is REQUIRED and the server REJECTS null — the null here is an unfilled slot, not a shippable value. GSEB's publication row and every chapter_master_id are fetched from the education DB into upload_reference/chapter_master_map.json (VERIFY-2), never invented and never derived by arithmetic; CBSE's publication 1 / chapter_master 354 do not transfer. subject_ref_id and medium_id are server-injected — write null unless a real GSEB subject record is confirmed.",
+  "estimated_time": 1.5,
+
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 6",
+  "textbook_url": "../Textbooks-pdf/std-6/<chapter file>.pdf",
+  "textbook_pages": "",
+  "unit_title": "<પાઠ્યપુસ્તકમાં છપાયેલું એકમનું નામ>",
+  "unit_number": 1,
+  "topic_title": "<પાઠનું નામ>",
+  "topic_number": 1,
+  "chapter_name": "<પાઠનું નામ, ગુજરાતી લિપિમાં, છપાયું છે તે જ રીતે>",
+  "_source_note": "textbook is the reader's PRINTED title for THIS standard and textbook_url is the local PDF path until a hosted URL exists — profiles/boards/gseb_gujarati.md maps std+chapter to both, and 11_pages.json records the missing URL as a gap. textbook_pages is the printed folio range, not the pdf page range.",
+
+  "genre": "<one of profiles/genres/*.md, or 'mixed'>",
+  "teaching_lens": "<લેન્સ-સૂત્ર, ગુજરાતીમાં — genre profile માંથી>",
+  "guiding_question": "<આ જ પાઠમાંથી તારવેલો પ્રશ્ન, ગુજરાતીમાં — profile માંથી નકલ કરેલો નહીં>",
+
+  "english_plan_id": null,
+  "english_chapter_id": null,
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "<12-30 words, ગુજરાતીમાં એક ધ્યેય, આ જ દૃશ્ય પર આધારિત — બીજા કોઈ પાઠમાં બંધ બેસે નહીં>",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": { "L1": "O1" },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "<નામ — વર્ણનાત્મક, આંકડા વગર>",
+      "brief_summary": "<1 sentence>",
+      "summary": "<2-3 sentences>",
+      "detailed_summary": "<4-6 sentences, strictly longer than summary>",
+      "important_points": ["<કીવર્ડ — gloss>"],
+
+      "_poem_only": "difficult_words and overall_rhyme_scheme are emitted for કાવ્ય modules only; omit or null for ગદ્ય. See reference/alankar_chhand.md.",
+      "difficult_words": [
+        { "word": "<શબ્દ>", "meaning": "<student-friendly, concrete>", "example": "<a FRESH everyday sentence, not the poem's own line>" }
+      ],
+      "overall_rhyme_scheme": { "pattern": "<e.g. દરેક કડીમાં AABB>", "note": "<the pattern and its effect; any chapter-wide ટેક>" },
+
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "<નામ>",
+          "brief_summary": "<1 sentence>",
+          "summary": "<2-3 sentences>",
+          "detailed_summary": "<4-6 sentences>",
+          "important_points": ["<કીવર્ડ — gloss>"],
+          "recall_questions": [
+            { "id": "M1.S1.RQ1", "prompt": "<…>", "answer": "<…>", "difficulty": "easy", "bloom_level": "remember" }
+          ],
+
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "<વર્ણનાત્મક નામ, આંકડા વગર>",
+              "topic_type": "instructional",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+
+              "original_chunk": "<EXACT ગુજરાતી verbatim, transcribed from the rendered page — line breaks, માત્રા, અનુસ્વાર, ચંદ્રબિંદુ, જોડાક્ષર, ળ/લ અને શ/ષ/સ ભેદ, કવિની છાપ preserved; '.' as printed, never '।'; no Roman, no Devanagari, no transliteration>",
+              "modified_chunk": "<'શું બની રહ્યું છે' + inline-gloss seed>",
+              "word_count": { "original": 0 },
+
+              "explanation": "<55-90 words: શું બની રહ્યું છે + અર્થ + પ્રથમ વપરાશે સાથે-સાથે શબ્દાર્થ + the deeper reading WHERE THE PASSAGE CARRIES IT>",
+              "real_life_example": "<55-90 words: ONE ભારતીય દૃષ્ટાંત inside the world of a child at THIS standard; may end on a question>",
+
+              "brief_summary": "<1 sentence>",
+              "summary": "<2-3 sentences>",
+              "detailed_summary": "<4-6 sentences>",
+              "key_terms": ["<શબ્દ — અર્થ>"],
+              "concept_bullets": ["<કીવર્ડ — gloss>"],
+              "important_points": ["<કીવર્ડ — gloss>"],
+
+              "_poem_only_topic": "figures_of_speech and rhyme_scheme are for કાવ્ય topics; [] and null for ગદ્ય. NEVER invent a device to fill the field.",
+              "figures_of_speech": [
+                { "device": "<અલંકારનું નામ>", "lines": "<the EXACT words from this chunk>", "note": "<one line on what it does>" }
+              ],
+              "rhyme_scheme": { "pattern": "<e.g. AABB>", "rhyming_words": ["<ઊંચે — નીચે>"], "note": "<what the પ્રાસ does>" },
+
+              "objective_ids": ["O1"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O1",
+                  "legacy_id": "L1",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "<IDENTICAL to the root registry entry>",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M1.S1.T1",
+                  "anchor": ["M1.S1.T1.C1"],
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "_concept_id_note": "c is CHAPTER-CONTINUOUS: M1.S2.T3 carries .C3, not .C1",
+                  "concept_name": "<નામ>",
+                  "objective_id": "O1",
+                  "key_terms": ["<શબ્દ — અર્થ>"],
+                  "content": [
+                    { "type": "paragraph", "text": "<…>", "publication_text": "<controlled rewrite>" },
+                    { "type": "list", "items": ["<…>"] }
+                  ]
+                }
+              ],
+
+              "recall_questions": [
+                { "id": "M1.S1.T1.RQ1", "legacy_id": "M1.S1.T1.TR1", "prompt": "<…>", "answer": "<…>", "difficulty": "easy", "bloom_level": "remember" }
+              ],
+
+              "media": [
+                {
+                  "id": "M1.S1.T1.C1.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "<…>",
+                  "description": "<…>",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "concept_id": "M1.S1.T1.C1",
+                  "home_concept_id": "M1.S1.T1.C1",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "<how a teacher uses it; if reused, name the source frame id here>",
+                  "negative_prompt": "<the baseline in reference/field_shape_rules.md — this pack's list adds 'Devanagari script labels' beside 'Roman script labels'>",
+                  "generation_prompt": "<self-contained; narrator bar carries one line of ગુજરાતી in Gujarati script. Empty ONLY when image_url is a reused frame — no Gujarati frame pool exists yet, so every scene is authored>"
+                }
+              ],
+              "2d_tool": null,
+
+              "publication_text": "<controlled rewrite of the teaching block>",
+              "publication_chunk": "<publication-facing chunk>",
+
+              "depends_on": [],
+              "source_topic_ids": [],
+              "estimated_exchanges": "4",
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": ["image"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

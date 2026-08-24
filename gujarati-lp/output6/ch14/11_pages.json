@@ -1,0 +1,8 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 6",
+  "textbook_url": "../Textbooks-pdf/std-6/ch-14-ek-chhokro-risano.pdf",
+  "textbook_pages": "92–100",
+  "source": "printed folio, read off renders of page-1.png (folio 92) and page-9.png (folio 100) of the chapter PDF; matches manifest/board-profile row (printed pp 92–100, pdf pp 103–111) and 01_meta.json",
+  "confidence": "high",
+  "gaps": ["textbook_url is a local path — the GSEB readers have no hosted URL"]
+}

@@ -1,0 +1,60 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S2.T3",
+      "areas": ["ધર્મ"],
+      "caution": "The explanation turns 'ગરબો... શક્તિપૂજા સાથે જોડાયેલો છે' into a theology statement about who શક્તિ is or what worshipping her means, instead of the etymology-and-tradition point the parents are actually making.",
+      "guidance": "Keep the explanation on the word-history thread the chapter itself is building (ગરબો as a form of લોકનૃત્ય tied to a living શક્તિપૂજા tradition) — report that link the way the text does, without adding devotional instruction or comparing it to any other faith.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M1.S2.T4",
+      "areas": ["ધર્મ"],
+      "caution": "Describing the perforated clay pot ('છિદ્રો પાડેલો માટીનો ઘડો') risks sliding into a claim about what the ritual object 'really' represents beyond what પપ્પા says on the page.",
+      "guidance": "Stay with the concrete craft-fact papa gives — a ઘડામાં કોરેલાં છિદ્રો is called ગરબો — and let the symbolism wait for the topic where the chapter itself states it (M1.S3.T6); do not pre-empt or embellish it here.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M1.S3.T6",
+      "areas": ["ધર્મ"],
+      "caution": "'ઘડો એ બ્રહ્માંડની કલ્પના છે' and 'ગરબો એ આદ્યશક્તિ તરફના ભક્તિભાવનું પ્રતીક છે' are the chapter's own lines about a living devotional symbol; the explanation could turn them into doctrine the child is told to believe, or into material for comparing religions.",
+      "guidance": "Present the ઘડો-બ્રહ્માંડ-આદ્યશક્તિ chain as the cultural symbolism the chapter states — what the object stands for in the tradition — and stop there; no comparative-religion framing, no instruction on how to worship, and the real_life_example stays inside a child's own નવરાત્રી/મેળા experience.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M1.S4.T7",
+      "areas": ["જાતિ-ભૂમિકા"],
+      "caution": "'ગરબો મોટેભાગે સ્ત્રીઓ જ ગાય છે... ગરબી તો માત્ર પુરુષો જ ગાય છે' is the text's own description of who performs which dance; the explanation could either soften it into 'anyone can do either' (which the text does not say) or add a stereotype about why the sexes are split (which the text does not say either).",
+      "guidance": "Report the ગરબો/ગરબી gender-of-performer distinction exactly as મમ્મી states it — including 'કોઈ વાર પુરુષો એમાં જોડાય એવું બને' — as a fact about the dance forms, not as a rule about what girls or boys should do; no added justification either way.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S5.T9",
+      "areas": ["સમુદાય"],
+      "caution": "'મંજીરાંનું લોકનૃત્ય' is named in the text as belonging to 'ભાલના નળકાંઠામાં વસતા પઢારો'; the explanation could drop the community's name and generalise it to 'villagers' or 'tribal people'.",
+      "guidance": "Keep the community's own name, પઢાર, exactly as the chapter prints it, and describe the મંજીરાં-રાસ practice as their own — not a curiosity observed from outside.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S6.T11",
+      "areas": ["ક્ષેત્ર", "જાતિ-ભૂમિકા"],
+      "caution": "'સૌરાષ્ટ્રના ચોરવાડ પંથકની સ્ત્રીઓનું શ્રમહારી નૃત્ય' could be flattened into 'women dancing while they work' (a curiosity) instead of the text's own framing of કોઠાસૂઝ turning કઠોર પરિશ્રમ into art.",
+      "guidance": "Keep 'શ્રમહારી' — થાકને હરનારું — as the chapter defines it, and credit the ટિપ્પણી નૃત્યની શરૂઆતને એ સ્ત્રીઓની કોઠાસૂઝ સાથે, exactly as પપ્પા says it; treat it as the region's own working women's art form, not as something unusual to remark on.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S6.T12",
+      "areas": ["ક્ષેત્ર"],
+      "caution": "The etymology of ટિપ્પણી (a lime-tamping tool) and the night-long ભજનથી-પ્રભાતિયા arc could be generalised into 'a folk custom' instead of the specific Saurashtra building-craft origin the text gives.",
+      "guidance": "Keep the tool-to-dance origin (ચૂનો ધરબવાનું સાધન becoming a dance prop) and the overnight ભજન-થી-પ્રભાતિયું structure exactly as narrated, as the region's own logic, not as an oddity.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "ધર્મ",
+      "guidance": "નવરાત્રી, શક્તિપૂજા and આદ્યશક્તિ run through the whole chapter as a living tradition the narrator's own family practices; every explanation and real_life_example should stay inside that lived, celebratory register — dance, sound, community, word-history — and never turn into theology, comparative religion, or an assertion about what a child should believe."
+    }
+  ],
+  "none_found": false
+}

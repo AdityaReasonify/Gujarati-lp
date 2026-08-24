@@ -1,0 +1,567 @@
+{
+  "chapter_id": "gseb_eng_gujarati7_ch11",
+  "plan_id": "gseb_eng_gujarati7_ch11_v1",
+  "chapter_name": "અંધેરી નગરી",
+  "grade": 7,
+  "genre": "kathakavya",
+  "active_genre_profiles": [
+    "kathakavya.md"
+  ],
+  "explanation_unit": "એક વાર્તા-પગલું (ઘટના), સીમા હંમેશાં છાપેલી કડીના છેડે",
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "જ્યાં દરેક ચીજ એક જ ભાવે વેચાય છે એ નગરીમાં વાંક એક જણ પરથી બીજા પર કેમ સરકતો જાય છે, અને છેલ્લે શૂળીએ કોણ ચઢે છે ?",
+  "cut_accounting": {
+    "kadi_markers_in_source": 11,
+    "ghatna_markers_in_source": 10,
+    "instructional_topics": 10,
+    "topic_to_ghatna_marker_mapping": "one-to-one",
+    "kadi_markers_carried": 11,
+    "kadi_markers_uncarried": [],
+    "kadi_markers_split_across_topics": 0,
+    "printed_lines_covered": "1–56",
+    "modules": 3,
+    "segments": 6,
+    "concepts_total": 12,
+    "objectives_total": 10,
+    "exercise_blocks_cut_as_topics": 0,
+    "apparatus_blocks_cut_as_topics": 0
+  },
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9",
+    "L10": "O10"
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અંધેરી નગરીમાં ભાજી અને ખાજાં બંને એક જ ભાવે વેચાય છે એ પંક્તિ શોધીને, આવા ગામને ‘અંધેરી’ કેમ કહી હશે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગુરુ અને ચેલો ગામમાં આવ્યા પછી શિષ્ય શું લઈ આવ્યો અને ‘ખૂબ ખાટ્યો’ કહેતાં એને શાનો આનંદ હતો તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": [
+        "M1.S2.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગુરુજી અહીં રાત ન રહેવાનું કયું કારણ આપે છે અને શિષ્ય ‘ખાવાપીવા ખૂબ આંહીં’ કહીને કેમ ના પાડે છે તે બંનેની સામસામી દલીલ તારવવી.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગુરુ ગામ છોડ્યા પછી શિષ્યના દિવસો કેવા ગયા, અને ભીંત તૂટી પડતાં ડોશીની ફરિયાદ પર રાજાએ કોને સજા ઠરાવી તે ક્રમમાં કહેવું.",
+      "bloom_level": "Apply",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C4",
+        "M2.S3.T4.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વણિક ‘કડિયા તણો એમાં વાંક અપાર’ કહીને પોતાનો બચાવ કઈ રીતે કરે છે અને એની દલીલમાં શી ખામી છે તે તપાસવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કડિયો અને ગારો કરનાર બંને પોતાની ચૂક બીજા પર કઈ રીતે ઢોળે છે તે બે પંક્તિઓ સામસામી મૂકીને સાંકળનું આગલું પગલું ઓળખાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T6",
+      "anchor": [
+        "M2.S4.T6.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રાજા પખાલીને શૂળીએ જવાનું કયું કારણ આપે છે, અને પખાલી ‘રાજા છાંડો રીસ’ કહીને વાંક કોના પર નાખે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T7",
+      "anchor": [
+        "M2.S4.T7.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શૂળીનું ફળ જાડું ને મુલ્લા પાતળે અંગ હોવાથી ભૂપે શો હુકમ કર્યો, અને એ હુકમનો ભોગ જાડા જોગી કેમ બન્યા તે કારણ સાથે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S5.T8",
+      "anchor": [
+        "M2.S5.T8.C9",
+        "M2.S5.T8.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શૂળી પાસે જઈને જોગી ‘વેગે મળે વિમાન’ કેમ કહે છે, અને આ એક વાક્યથી આખી વાત કઈ રીતે ફરી જાય છે તે તપાસવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S6.T9",
+      "anchor": [
+        "M3.S6.T9.C11"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O10",
+      "legacy_id": "L10",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શૂળીએ ચઢવા ચેલો, ગુરુ અને અધિપતિ ત્રણેય કેમ તૈયાર થાય છે, અને છેલ્લે કોણ ચઢે છે એ પરથી નગરીના ન્યાય વિશે શું કહી શકાય તે મૂલવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S6.T10",
+      "anchor": [
+        "M3.S6.T10.C12"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "એક જ ભાવ વેચતી નગરી ને ગુરુની ના",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "ટકે શેર ભાજી, ટકે શેર ખાજાં",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "એક જ ભાવ વેચતી અંધેરી નગરી",
+              "topic_type": "POEM",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "ટકે શેર ભાજી, ટકે શેર ખાજાં",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: અંધેરી નગરીની ઓળખ — ગંડુ રાજા અને એક જ ભાવ",
+                "kadi_markers": [
+                  "કડી 1"
+                ],
+                "printed_lines": "1–4"
+              }
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "ગુરુની ચેતવણી ને ચેલાની હઠ",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "ચેલાની સસ્તી સુખડી",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "આટો આપીને લીધેલી સુખડી",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: ગુરુ અને ચેલો નગરીમાં આવે છે, શિષ્ય સસ્તી સુખડી લાવે છે",
+                "kadi_markers": [
+                  "કડી 2"
+                ],
+                "printed_lines": "5–8"
+              }
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "ગુરુની ના સામે ચેલાની હઠ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "રાતવાસાની ના અને એની સામેનો જવાબ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: ગુરુજીની ચેતવણી અને શિષ્યનો ઇનકાર",
+                "kadi_markers": [
+                  "કડી 3",
+                  "કડી 4"
+                ],
+                "printed_lines": "9–16"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "પડેલી ભીંત ને સરકતો વાંક",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "ભીંત પડી ને શેઠ પર સજા ઠરી",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "તજેલો ચેલો ને પડેલી ભીંત",
+              "topic_type": "POEM",
+              "topic_category": "transition",
+              "difficulty": "hard",
+              "depends_on": [
+                "M1.S2.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "ગુરુ ગયા પછીના તાજામાજા દિવસો",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T4.C5",
+                  "concept_name": "તૂટેલી ભીંત ને શેઠ પર ઠરેલી સજા",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: ગુરુ ગામ છોડે, શિષ્ય રહી પડે ને તાજોમાજો થાય; ભીંત પડતાં ચોર દબાય અને શેઠને શૂળીની સજા થાય",
+                "kadi_markers": [
+                  "કડી 5"
+                ],
+                "printed_lines": "17–28"
+              }
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "શેઠનો બચાવ — વાંક કડિયાનો",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [
+                "M2.S3.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C6",
+                  "concept_name": "‘મારો ખોડ લગાર’ નહીં એવી દલીલ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: વણિક કડિયા પર વાંક ઢોળે છે",
+                "kadi_markers": [
+                  "કડી 6"
+                ],
+                "printed_lines": "29–32"
+              }
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "કડિયાથી મુલ્લા સુધીની સાંકળ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T6",
+              "topic_name": "કડિયાથી પખાલી સુધી ખસતી ચૂક",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T5"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T6.C7",
+                  "concept_name": "એક પરથી બીજા પર સરકતો વાંક",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: કડિયો ગારો કરનાર પર, ગારો કરનાર પખાલી પર વાંક ઢોળે છે",
+                "kadi_markers": [
+                  "કડી 7"
+                ],
+                "printed_lines": "33–36"
+              }
+            },
+            {
+              "topic_id": "M2.S4.T7",
+              "topic_name": "રાજાનો હુકમ ને પખાલીનું બહાનું",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S4.T6"
+              ],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T7.C8",
+                  "concept_name": "‘રાજા છાંડો રીસ’ કહીને ખસેડેલો વાંક",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: રાજા પખાલીને શૂળીએ ચઢાવવા કહે છે, પખાલી મુલ્લા પર વાંક ઢોળે છે",
+                "kadi_markers": [
+                  "કડી 8"
+                ],
+                "printed_lines": "37–40"
+              }
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S5",
+          "segment_name": "શૂળી માટે જાડા નરની શોધ",
+          "topics": [
+            {
+              "topic_id": "M2.S5.T8",
+              "topic_name": "જાડા નરની શોધ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S4.T7"
+              ],
+              "objective_ids": [
+                "O8"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T8.C9",
+                  "concept_name": "પાતળે અંગ મુલ્લા ને જાડું શૂળીનું ફળ",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S5.T8.C10",
+                  "concept_name": "ભૂપનો હુકમ ને પકડાયેલો જોગી",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: મુલ્લા શૂળી માટે પાતળા પડે છે; ભૂપનો હુકમ — જાડા નરને શોધો; જોગી પકડાય છે",
+                "kadi_markers": [
+                  "કડી 9"
+                ],
+                "printed_lines": "41–48"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "શૂળી પાસેની યુક્તિ",
+      "segments": [
+        {
+          "segment_id": "M3.S6",
+          "segment_name": "ગુરુનો ઉપાય ને ચઢવાની હોડ",
+          "topics": [
+            {
+              "topic_id": "M3.S6.T9",
+              "topic_name": "ગુરુનો અદ્‌ભુત ઉપાય",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S2.T3",
+                "M2.S5.T8"
+              ],
+              "objective_ids": [
+                "O9"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T9.C11",
+                  "concept_name": "શૂળી નહીં, વિમાનનું બારણું",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: શિષ્ય મુદત માગે છે; ગુરુ આવીને શૂળી-વિમાનની યુક્તિ કરે છે",
+                "kadi_markers": [
+                  "કડી 10"
+                ],
+                "printed_lines": "49–52"
+              }
+            },
+            {
+              "topic_id": "M3.S6.T10",
+              "topic_name": "ચઢવાની હોડ",
+              "topic_type": "POEM",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M3.S6.T9"
+              ],
+              "objective_ids": [
+                "O10"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T10.C12",
+                  "concept_name": "હોડ જામી, ને ગુરુ-ચેલો ગાઉ પાંચ",
+                  "objective_id": "O10",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: ચઢવાની હોડ જામે છે અને રાજા પોતે શૂળીએ ચઢે છે",
+                "kadi_markers": [
+                  "કડી 11"
+                ],
+                "printed_lines": "53–56"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Marker basis. 00_chapter_normalized.md carries both marker kinds that kathakavya.md §Marking requires: eleven [[કડી n]] markers and ten [[ઘટના: …]] markers. The cut is taken from the ઘટના markers, one marker to one topic, and every topic's provenance names the marker it carries. Result: 10 instructional topics, all 11 કડી markers carried whole, 10 < 11 — kathakavya.md hard gates 1 and 2 both hold.",
+    "One ઘટના step spans two કડી and is held whole in one topic: M1.S2.T3 carries કડી 3 + કડી 4, because the ગુરુ's reason for refusing a night's stay opens in the one કડી and the શિષ્ય's refusal closes only in the next — cutting between them would end the topic between a question and its answer (kathakavya.md §Explanation unit, 'never mid-episode'). Every other step is one કડી.",
+    "The twelve-line કડી 5 stays one topic (M2.S3.T4) although it carries two beats — the ગુરુ's departure with the શિષ્ય growing fat, then the wall falling and the શેઠ being sentenced. 01_meta.json's extraction_notes record the same finding, and hard gate 1 forbids splitting a કડી to tidy the pattern. The two beats are separated as two concepts (C4, C5) rather than two topics.",
+    "M2.S5.T8 (કડી 9, eight lines) likewise carries two concepts: the મુલ્લા saved because 'ફળ જાડું શૂળી તણું, મુલ્લા પાતળે અંગ', and the ભૂપ's order producing the જોગી. The book's own સ્વાધ્યાય asks these as two separate questions ('મુલ્લાજી શૂળીએ ચઢતાં શા માટે બચી ગયા ?' and 'શૂળીએ ચઢાવવા જાડી વ્યક્તિની જરૂર કેમ પડી ?'), which is the evidence for splitting the concept and not the topic.",
+    "Blame-chain granularity follows kathakavya.md §Explanation unit exactly: 'each accusation that has its own speech is a step; where two accusations share one કડી they stay one topic.' કડી 7 holds the કડિયો's accusation and the ગારો કરનારનું accusation in one printed કડી, so M2.S4.T6 is one topic; કડી 8 holds the રાજા's order and the પખાલી's accusation, so M2.S4.T7 is one topic. No કડી was split to make the five-link chain look symmetrical.",
+    "Climax placement is a recorded disagreement with 01_meta.json, not an error. 01_meta.json's explanation_unit field says the last કડી (the રાજા himself climbing) should carry topic_category 'climax'/'resolution' together; kathakavya.md §Emphasise names this very chapter's turn as 'the ગુરુ's invention that the શૂળી is now a doorway to a વિમાન', which is કડી 10. The profile was followed: M3.S6.T9 is 'climax' and M3.S6.T10 is 'resolution'. The two sit in one segment so the trick and its result are never taught apart. Hard gate 9 holds under this placement — no topic before M3.S6.T9 names the outcome, and an added content rule for Agents 6 and 12 is that no topic before M3.S6.T10 may say who ends up on the શૂળી.",
+    "topic_type is POEM on all ten reading scenes although the cut is ઘટના-wise: the text is verse throughout and every topic needs the poem-only fields (rhyme_scheme, figures_of_speech). POEM maps to 'instructional' at Agent 14/15 emit, so nothing downstream turns on the choice. figures_of_speech is expected to stay [] at std 7 per profiles/students/std-7.md §2.",
+    "Nothing outside the verse was cut as a topic. The blue પ્રવેશપેટી on p. 71 is teacher-addressed apparatus; the શબ્દાર્થ box and the boxed રૂઢિપ્રયોગ on p. 73 feed key_terms and ભાષા-બોધ; the chapter-final grammar box 'કાળ અને સહાયકારક રૂપો' on p. 76 is Agent 10 territory; and all seventeen numbered exercise blocks stay in 01_meta.json's exercise_inventory. exercise_blocks_cut_as_topics and apparatus_blocks_cut_as_topics are both 0.",
+    "Objectives carry no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label — the std 6–8 craft ceiling (profiles/students/std-7.md §1, §2). The chapter's own પ્રાસ work is real teaching matter (સ્વાધ્યાય block 3 prints 'પ્રાસવાળા શબ્દો'), but it is left to Agent 12's one craft sentence per topic rather than being made an objective, so that every objective stays on ઘટના + પાત્ર + વળાંક.",
+    "difficulty is relative inside this chapter and set by what stops a std-7 second-language reader on the page, not by the size of the idea. hard: M1.S2.T3 (the densest patch of Dalpatram's archaic forms — આંહીં, જ્યાંહીં, વસીજે, સધ, ક્યાંહીં — across eight lines), M2.S3.T4 (twelve lines, and the metre visibly changes inside it at 'તસ્કર ખાતર પાડવા, ગયા વણિકને દ્વાર,'), M2.S5.T8 (eight lines with નિરધાર, ભૂપ પ્રસંગ, હરઘડી, રાતેમાતે). easy: M2.S3.T5, four plain lines of direct speech. No topic is hard for a craft device, because no device may be named at this standard.",
+    "depends_on records real dependence only. M2.S3.T4 depends on M1.S2.T3 because the ગુરુ leaves precisely because the શિષ્ય refused; the four blame-chain topics each depend on the link before them; M3.S6.T9 depends on both M1.S2.T3 (the ignored warning that the શિષ્ય now repents) and M2.S5.T8 (the જોગી who has just been caught); M3.S6.T10 depends on M3.S6.T9. The first three topics carry [].",
+    "Sensitivity, carried forward from 01_meta.json for Agents 6, 10 and 12: વણિક, કડિયો, ગારો કરનાર, પખાલી and મુલ્લા are occupations and a person, never the target of the satire. Segment and topic names here name the chain by what it does ('એક પરથી બીજા પર સરકતો વાંક'), and the target named anywhere downstream must be the nagari's arbitrary justice (kathakavya.md hard gate 13).",
+    "explanation_unit is recorded here in the pack's short form to match the other chapters of this run; 01_meta.json holds the full measured wording, and this file does not restate or replace it. The two agree on the unit itself — one ઘટના, bounded at printed કડી ends.",
+    "No page render was opened for this pass. 00_chapter_normalized.md answered every question the cut needed, including the stanza boundaries and the two multi-beat કડી, because Agent 1 had already measured them off the renders and recorded them in extraction_notes."
+  ]
+}

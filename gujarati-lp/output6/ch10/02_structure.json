@@ -1,0 +1,632 @@
+{
+  "chapter_id": "gseb_eng_gujarati6_ch10",
+  "plan_id": "gseb_eng_gujarati6_ch10_v1",
+  "chapter_name": "સાથી મારે બાર",
+  "grade": 6,
+  "genre": "kathakavya",
+  "active_genre_profiles": [
+    "kathakavya.md"
+  ],
+  "explanation_unit": "એક વાર્તા-પગલું (ઘટના), સીમા હંમેશાં છાપેલી કડી (પ્રાસ-જોડ)ના છેડે",
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક (ધો. 6 — પ્રાસ 'સંભળાવવો', નામ પાડવો નહીં; વક્તા કોણ છે તે દરેક વખતે ખોલવું, કેમ કે પંક્તિમાં લેબલ નથી)",
+  "guiding_question": "એકલો ધૂળો ચાર ચોર સામે કઈ રીતે ટકી ગયો, અને એના 'બાર સાથી' ખરેખર કોણ નીકળ્યા ?",
+  "cut_accounting": {
+    "kadi_markers_in_source": 15,
+    "ghatna_markers_in_source": 12,
+    "instructional_topics": 12,
+    "topic_to_ghatna_marker_mapping": "one-to-one",
+    "kadi_markers_carried": 15,
+    "kadi_markers_uncarried": [],
+    "kadi_markers_split_across_topics": 0,
+    "printed_lines_covered": "1–30",
+    "modules": 3,
+    "segments": 6,
+    "concepts_total": 12,
+    "objectives_total": 12,
+    "exercise_blocks_cut_as_topics": 0,
+    "apparatus_blocks_cut_as_topics": 0
+  },
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9",
+    "L10": "O10",
+    "L11": "O11",
+    "L12": "O12"
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ધૂળો કયા ગામનો વાણિયો હતો, કયે સમયે અને કયા ગામે જવા નીકળ્યો — એ ત્રણેય વાત કાવ્યની શરૂઆતની પંક્તિઓમાંથી શોધીને કહેવી.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રસ્તે અંધારું થતાં ધૂળો બીજી વાટે ચડીને જંગલમાં કેમ ભૂલો પડ્યો, અને એના દિલમાં થયેલો ઉચાટ કેવો હશે તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ડરી જવાને બદલે ધૂળાએ મનમાં શો વિચાર કર્યો તે 'નથી કદી હું એકલો, સાથી મારે બાર !' પંક્તિ ટાંકીને સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઝાડી સળવળતાં કેટલા ચોર સામે આવ્યા અને એમણે ધૂળા પાસે શી માગણી કરી તે એ પંક્તિઓમાંથી શોધીને કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "એકલો હોવા છતાં ધૂળાએ ચોરોને 'નથી હું એક, બાર જણા લઈ નીકળ્યો' એમ કેમ કહ્યું હશે તે વિચારીને પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ધૂળાની વાત સાંભળીને ચોરોએ 'કાલે કરજે ટાયલી !' કહીને શું જતાવ્યું, અને પછી કેટલા ચોર ઊમટી આવ્યા તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": [
+        "M2.S3.T6.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કોથળામાં ભરેલાં કાટલાં ધૂળાએ કઈ રીતે વાપર્યાં, અને 'આવા દાવ' જોઈને ચોરોને શી નવાઈ લાગી તે પંક્તિઓ પરથી કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T7",
+      "anchor": [
+        "M2.S4.T7.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "આઘુંપાછું જોયા વિના જંગ ખેલતો ધૂળો 'હવે બતાવું રંગ !' કહે છે, એ પરથી એની હિંમત વિશે શું કહી શકાય તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T8",
+      "anchor": [
+        "M2.S4.T8.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ચોરોને શાની બીક લાગી અને તેઓ કેમ એકી સાથે નાસી ગયા તે કારણ સાથે કહીને, વારતા અહીં કેવો વળાંક લે છે તે તપાસવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T9",
+      "anchor": [
+        "M3.S5.T9.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O10",
+      "legacy_id": "L10",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વાટ જડ્યા પછી ધૂળાએ પહેલાં શું કર્યું અને પછી શું કર્યું તે ક્રમમાં ગોઠવીને પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Apply",
+      "home_topic_id": "M3.S5.T10",
+      "anchor": [
+        "M3.S5.T10.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O11",
+      "legacy_id": "L11",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ધૂળાની વારતા સાંભળીને બાળકોએ એને શો પ્રશ્ન પૂછ્યો તે એમના જ શબ્દોમાં કાવ્યમાંથી શોધીને કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M3.S6.T11",
+      "anchor": [
+        "M3.S6.T11.C11"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O12",
+      "legacy_id": "L12",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ધૂળાએ ગણાવેલા સાથી ક્રમમાં ગણાવીને, હિંમત અને વિશ્વાસ વિના બાકીના બધા કેમ નકામા ઠરે તે મૂલવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S6.T12",
+      "anchor": [
+        "M3.S6.T12.C12"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "અંધારી વાટે એકલો ધૂળો",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "ઈડરથી કોટડાની વાટે",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "ઈડરથી કોટડે નીકળેલો ધૂળો",
+              "topic_type": "POEM",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "સમી સાંજની મુસાફરીની શરૂઆત",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: સમી સાંજે ઈડરથી કોટડે નીકળવું",
+                "kadi_markers": [
+                  "કડી 1"
+                ],
+                "printed_lines": "1–2"
+              }
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "અંધારે ભૂલી પડેલી વાટ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "અંધારું, બીજી વાટ ને દિલનો ઉચાટ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: અંધારામાં વાટ ભૂલવી ને દિલમાં ઉચાટ",
+                "kadi_markers": [
+                  "કડી 2"
+                ],
+                "printed_lines": "3–4"
+              }
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "હિંમતનો સંકલ્પ",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "મનમાં ધરેલી હિંમત",
+              "topic_type": "POEM",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "એકલા ન હોવાનો સંકલ્પ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: હિંમત ધરીને મનમાં 'સાથી મારે બાર'નો સંકલ્પ",
+                "kadi_markers": [
+                  "કડી 3"
+                ],
+                "printed_lines": "5–6"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "ચોરો સામે ધૂળાની ટક્કર",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "ધમકી અને સામો જવાબ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "ઝાડીમાંથી ચમકેલા ચોર",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "ચોરોની ધમકી",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: ઝાડીમાંથી ચાર ચોરનું ચમકવું ને ધમકી",
+                "kadi_markers": [
+                  "કડી 4"
+                ],
+                "printed_lines": "7–8"
+              }
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "બાર જણા સાથે હોવાનો જવાબ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S2.T3"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "ધૂળાનો હિંમતભર્યો જવાબ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: ધૂળાનો જવાબ — 'નથી હું એક, બાર જણા લઈ નીકળ્યો'",
+                "kadi_markers": [
+                  "કડી 5"
+                ],
+                "printed_lines": "9–10"
+              }
+            },
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "ટોણો ને બે વિકરાળ ચોર",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T5"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C6",
+                  "concept_name": "ચોરોનું મહેણું ને હુમલો",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: ચોરોનો ટોણો ને બે વિકરાળ ચોરનું તૂટી પડવું",
+                "kadi_markers": [
+                  "કડી 6"
+                ],
+                "printed_lines": "11–12"
+              }
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "કોથળા-કાટલાંનો જંગ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T7",
+              "topic_name": "કાટલાં ભરેલા કોથળાનો જંગ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T7.C7",
+                  "concept_name": "કોથળા-કાટલાંથી કરેલો સામનો",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: કોથળા ને કાટલાંનું જંગ",
+                "kadi_markers": [
+                  "કડી 7",
+                  "કડી 8"
+                ],
+                "printed_lines": "13–16"
+              }
+            },
+            {
+              "topic_id": "M2.S4.T8",
+              "topic_name": "ધૂળાની લલકાર",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O8"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T8.C8",
+                  "concept_name": "ડગ્યા વિના ખેલાતો જંગ",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: ધૂળાની લલકાર — 'હવે બતાવું રંગ !'",
+                "kadi_markers": [
+                  "કડી 9"
+                ],
+                "printed_lines": "17–18"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "વળાંક અને છેલ્લો ખુલાસો",
+      "segments": [
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "ચોરોની નાસભાગ ને ઘરવાપસી",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T9",
+              "topic_name": "બીકે નાસી ગયેલા ચોર",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S3.T5"
+              ],
+              "objective_ids": [
+                "O9"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T9.C9",
+                  "concept_name": "ચોરોનો ડર ને નાસભાગ",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: ચોરોનું ચોંકવું, બાર જણાનો ડર ને એકી સાથે નાસી જવું; ધૂળાનો હરખ",
+                "kadi_markers": [
+                  "કડી 10",
+                  "કડી 11"
+                ],
+                "printed_lines": "19–22"
+              }
+            },
+            {
+              "topic_id": "M3.S5.T10",
+              "topic_name": "વાટ જડી ને કામ પૂરું",
+              "topic_type": "POEM",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O10"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T10.C10",
+                  "concept_name": "કામ પતાવીને ઘરવાપસી",
+                  "objective_id": "O10",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: વાટ જડવી, ગામનું કામ પતાવી ઘરે પાછા ફરવું",
+                "kadi_markers": [
+                  "કડી 12"
+                ],
+                "printed_lines": "23–24"
+              }
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S6",
+          "segment_name": "બાળકોના પ્રશ્ને ખૂલતો ભેદ",
+          "topics": [
+            {
+              "topic_id": "M3.S6.T11",
+              "topic_name": "બાળકોનો સવાલ",
+              "topic_type": "POEM",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O11"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T11.C11",
+                  "concept_name": "બાળકોનું કુતૂહલ",
+                  "objective_id": "O11",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: બાળકોનો સવાલ — 'કોણ તમે હતા બાર ?'",
+                "kadi_markers": [
+                  "કડી 13"
+                ],
+                "printed_lines": "25–26"
+              }
+            },
+            {
+              "topic_id": "M3.S6.T12",
+              "topic_name": "બાર સાથીની ગણતરી",
+              "topic_type": "POEM",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": [
+                "M3.S6.T11",
+                "M2.S3.T5"
+              ],
+              "objective_ids": [
+                "O12"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T12.C12",
+                  "concept_name": "હિંમત અને વિશ્વાસનો ખુલાસો",
+                  "objective_id": "O12",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "provenance": {
+                "ghatna_marker": "ઘટના: ધૂળાની ગણતરી ને હિંમત-વિશ્વાસનો ખુલાસો",
+                "kadi_markers": [
+                  "કડી 14",
+                  "કડી 15"
+                ],
+                "printed_lines": "27–30"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Marker basis, corrected. 00_chapter_normalized.md carries BOTH marker kinds, as kathakavya.md §Marking requires: fifteen [[કડી n]] markers and twelve [[ઘટના: …]] markers (at source lines 27, 32, 37, 42, 47, 52, 57, 66, 71, 80, 85, 90). The cut is taken from the ઘટના markers themselves, one marker to one topic, and every topic's provenance names the marker it carries. Result: 12 instructional topics, all 15 કડી markers carried whole, 12 < 15 — kathakavya.md hard gates 1 and 2 both hold. (An earlier pass of this file claimed the ઘટના markers did not exist and derived the steps from 01_meta.json's ghatna_note instead; that claim was wrong and is withdrawn here.)",
+    "Marker-to-topic mapping is strictly one-to-one, so no regrouping note is needed. Two ઘટના steps span two કડી each and are held whole in one topic: M2.S4.T7 (કડી 7 + કડી 8 — ધૂળો swings the sack and the ચોર are left wondering 'ક્યાંથી રે ! આ વાણિયો શીખ્યો આવા દાવ ?') and M3.S5.T9 (કડી 10 + કડી 11 — the fright, the flight and ધૂળો's હરખ). M3.S6.T12 likewise runs કડી 14 + કડી 15 because ધૂળો's speech opens in the one and closes only in the other.",
+    "The children's question (M3.S6.T11) and the tally (M3.S6.T12) are two topics, not one, on the profile's own instruction for this chapter: kathakavya.md §Explanation unit says 'the closing reveal or tally is its own topic even when short', and its rule that a threat and its answer are separate steps is stated of this very poem ('the attack of the ચોર and ધૂળો's bluffing answer are two steps'). They sit in one segment so the exchange is never taught apart.",
+    "Two boundaries worth flagging for Agent 5. કડી 11 is printed lines 21–22 and its પ્રાસ pair સાથ/હાથ breaks across the page boundary (p. 63 → p. 64); the topic that carries it (M3.S5.T9) therefore straddles two printed pages and no કડી is split. And p. 63 sets the poem in two columns — lines 1–10 top-left, lines 11–21 bottom-right — read down each column, never across.",
+    "Climax placement is a recorded disagreement, not an error. 01_meta.json, read off the page, names the વળાંક as the thieves' flight and annotates that step '— વળાંક'; kathakavya.md §Emphasise instead names this ballad's turn as the bluff 'નથી કદી હું એકલો, સાથી મારે બાર !'. The chapter-measured reading was preferred, so topic_category 'climax' sits on M3.S5.T9. Agent 12 should still name the bluff at M1.S2.T3 and M2.S3.T5 as the move that causes the turn. Hard gate 9 holds under this placement: no topic before M3.S5.T9 names the outcome, and — an added content rule for Agents 6 and 12 — no topic before M3.S6.T12 may name who the બાર સાથી are.",
+    "topic_type is POEM on all twelve reading scenes although the cut is ઘટના-wise: the text is verse throughout and every topic needs the poem-only fields (rhyme_scheme, figures_of_speech). POEM and STORY_TELLING both map to 'instructional' at Agent 14/15 emit, so nothing downstream turns on the choice.",
+    "Quote balance (kathakavya.md hard gate 3) was checked topic by topic against the printed page: every topic that opens a single quote closes it inside the same topic, and four topics carry no speech quote at all. Warning for any mechanical run of that gate — M3.S5.T10 (કડી 12) reports as unbalanced under a naive apostrophe count because of the elision mark in જાવું'તું, which A1 records as content, not a speech quote.",
+    "Nothing from the apparatus or the સ્વાધ્યાય was cut as a topic: the blue પ્રવેશક box, the green શબ્દાર્થ box, the • રૂઢિપ્રયોગ pre-block, the standing bullet under the વાતચીત block, all thirteen numbered blocks (the dramatisation and singing tasks included, teacher-addressed though printed inside the numbered list), and the chapter-final riddle box on p. 67. Std 6 prints no student-facing કવિ-પરિચય paragraph and no in-text wrap, so this chapter has no CONCEPT topic and no REVIEW topic — a measured absence, not an omission.",
+    "For Agent 5: the attribution line '- રમણલાલ સોની' belongs inside the LAST topic's original_chunk (M3.S6.T12) per kathakavya.md §Explanation unit, even though it is printed under the title at the top of p. 63.",
+    "Objectives carry no craft label anywhere, per the std-6 ceiling: no અલંકાર, no છંદ, no સ્વરૂપ name, and the word પ્રાસ is deliberately absent even though the book prints a rhyme-family grid — 01_meta.json's teaching_lens says the rhyme is to be heard, not named. Every objective names ધૂળો, the ચોર, ઈડર/કોટડા, the કોથળો or the કાટલાં, or quotes a line printed in this chapter; none could be pasted into another chapter. No numeral appears in any name or objective; બાર, બે and ચાર are the poem's own words.",
+    "difficulty is relative inside this chapter and set by what stops an A1 second-language reader on the page, never by craft: hard on M2.S4.T7 (two કડી at once, the જોડાક્ષર in કૂદ્યો, વીંઝે, and the unfamiliar object-world of કાટલાં in a કોથળો), on M3.S5.T9 (two કડી across the page break, ચોંક્યા, નાઠા, હરખ્યો and the idiom હાથ બતાવ્યો) and on M3.S6.T12 (two કડી, the running tally, પાય, દશ, નકામા); easy on the two plainest opening scenes; medium elsewhere.",
+    "depends_on is [] except where the dependence is real: M2.S3.T5 says aloud the resolve first made in M1.S2.T3; M2.S3.T6 is the thieves' reply to that claim; M3.S5.T9 turns on the same claim; M3.S6.T12 answers the question asked in M3.S6.T11 and closes the claim made in M2.S3.T5.",
+    "Page renders were opened for this pass — pdftoppm -png -r 150 on all five printed pages (folio 63–67). The verse was re-counted on the page: 30 printed lines, 15 પ્રાસ-જોડ, no blank-line stanza break anywhere, two columns on p. 63, nine lines on p. 64. Pages 65–67 carry only સ્વાધ્યાય, the શબ્દાર્થ and રૂઢિપ્રયોગ boxes and the closing riddle box — no appended reading matter, so nothing was folded into the ઘટના chain."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "agent": "09_media_planning",
+  "chapter_id": "gseb_eng_gujarati7_ch10",
+  "plan_id": "gseb_eng_gujarati7_ch10_v1",
+  "genre": "varta",
+  "media": [
+    {
+      "topic_id": "M1.S1.T1",
+      "concept_id": "M1.S1.T1.C1",
+      "id": "M1.S1.T1.C1.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "જમતાં પહેલાંનું આંગણું",
+      "description": "ઘરના માણસો જમવા બેઠાં જ નથી — દગડુ ખાટલા પર બેસીને શાંતાને પૂછે છે, ગોલુ ચંદેરીની રાશ પકડીને ઊભો છે અને ગોરિયો માના આંચળે ધાવે છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M1.S1.T1.C1",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "ચિત્ર પહેલાં બતાવો, પાઠ પછી વાંચો. બાળકોને પૂછો — આ ઘરમાં પહેલાં કોણ ખાય છે ? ચંદેરી કોણ છે ને ગોરિયો કોણ ? ધાવતા વાછરડા પર આંગળી મુકાવો, જેથી 'ધાવવું'નો અર્થ ચિત્રમાંથી જ પકડાય; પછી જ દગડુના બે સવાલ વાંચો.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, moral caption or lesson banner inside the frame, humanised cartoon animal with clothing or human facial expressions, animal-charity poster framing, veterinary diagram or anatomy chart, temple or idol imagery, modern city buildings, tractor, mobile phone, an ill or lying calf, a doctor, medicine bottles, grieving faces",
+      "generation_prompt": "Late afternoon in the swept earth yard of a small one-room village house in Gujarat: an unplastered brick wall with a green painted band along its base, a thick golden thatch roof carried on rough wooden posts, a woven-rope cot standing in the open yard, a tied bundle of green fodder lying on the ground. A lean moustached man of about forty — dark indigo turban wound low, white long-sleeved village shirt, white dhoti, barefoot — sits on the edge of the cot with his hands on his knees and turns to speak to a woman of about thirty-five who stands beside the cot in a green blouse, a deep purple ankle-length skirt and a red odhani drawn over her head, silver anklets, barefoot; she is smiling as she answers him, a small brass lota in one hand. Neither of them has begun to eat. A boy of about eleven with short black hair, in a plain yellow half-sleeved shirt and blue trousers, barefoot, stands a few steps away holding the yellow rope halter of a reddish-brown cow with a soft hump; her small reddish-brown calf is pressed in under her belly, suckling, its tail lifted. Warm low sunlight, dust in the air, an unhurried and affectionate mood. A narrator bar runs across the bottom of the frame carrying one line of Gujarati text in Gujarati script, lettered exactly: ચંદેરીએ ખાઈ લીધું ? ગોરિયાએ ધાવી લીધું ? — and no other lettering appears anywhere in the image. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "concept_id": "M2.S2.T4.C7",
+      "id": "M2.S2.T4.C7.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "ભારેખમ ચહેરે તપાસતા દાક્તર",
+      "description": "ઢોરના દાક્તર આંગણામાં ઘૂંટણિયે બેસીને પડેલા ગોરિયાને તપાસે છે, પાસે એમની ખૂલી પેટી પડી છે, અને ગોલુ, દગડુ ને શાંતા એમનો ભારેખમ ચહેરો જોઈ રહ્યાં છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S2.T4.C7",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "આ ચિત્ર પર બે જ સવાલ પૂછો — દાક્તરનો ચહેરો કેમ ભારેખમ છે ? ઘરનાં ત્રણેયની આંખમાં શું દેખાય છે ? આગળ શું થાય છે એ અહીં જરાય ન કહો; ''હવે શું થશે ?'' એ સવાલ પર જ વર્ગને અટકાવો. મોડું કેમ થયું એ પૂછાય, પણ ઘરનાં માણસોને બેદરકાર કહેવાનું ટાળો — એમણે પહેલાં પોતાના ઉપાય કર્યા હતા.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, moral caption or lesson banner inside the frame, humanised cartoon animal with clothing or human facial expressions, animal-charity poster framing, veterinary diagram or anatomy chart, temple or idol imagery, modern city buildings, mobile phone, a healthy calf standing or suckling, sunrise light, wet sacks or wet cloths, any sign of recovery, weeping or shouting faces, hospital interior",
+      "generation_prompt": "Mid-morning in the swept earth yard of a small one-room village house in Gujarat: an unplastered brick wall with a green painted band along its base, a shuttered wooden window in it, a thick golden thatch roof carried on rough wooden posts, a tied bundle of green fodder lying on the ground. A small reddish-brown calf lies on its side on the cool floor of the yard, eyes shut, its flanks rising and falling fast. A bald clean-shaven animal doctor of about fifty, in a dark red shirt, dark trousers and shoes, kneels beside it with one hand laid flat on the calf's neck, his face grave and closed; his brown leather case lies open on the ground with a stethoscope spilling out of it. A boy of about eleven with short black hair, in a plain yellow half-sleeved shirt and blue trousers, barefoot, crouches at the calf's other side with one hand on its back and looks up at the doctor. Standing close behind them are a lean moustached man of about forty — dark indigo turban wound low, white long-sleeved village shirt, white dhoti, barefoot — and a woman of about thirty-five in a green blouse, a deep purple ankle-length skirt and a red odhani drawn over her head, her hands pressed together at her chest; both are listening, and nobody is speaking. Still, tense, hushed mood, flat daylight. A narrator bar runs across the bottom of the frame carrying one line of Gujarati text in Gujarati script, lettered exactly: આજની રાત આ મૂંગા ઢોર માટે ભારે છે. — and no other lettering appears anywhere in the image. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M3.S4.T6",
+      "concept_id": "M3.S4.T6.C10",
+      "id": "M3.S4.T6.C10.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "અડધી રાતે ભીનો કોથળો",
+      "description": "અડધી રાતે ચાંદનીમાં ગોલુ એકલો ગોરિયાની પીઠ પર કંતાનનો ભીનો કોથળો પાથરે છે, પાસે પાણીની બાલદી ને લોટો પડ્યાં છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M3.S4.T6.C10",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "વળાંકનું ચિત્ર છે — બતાવીને ફક્ત પૂછો કે ગોલુ અડધી રાતે આ શું કરે છે ને કેમ કરે છે. જવાબ ગોલુના પોતાના શબ્દોમાં જ છે — ''આઈએ આખી રાત જાગીને મારે કપાળે પોતાં મૂક્યાં હતાં''; 'આઈ એટલે મા' અને 'બાબા એટલે પિતા' ત્યાં જ ગ્લોસ કરો. કોઈ બોધ કે 'આપણે પણ આવું કરવું જોઈએ' ઉમેર્યા વગર અહીં જ અટકો.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, moral caption or lesson banner inside the frame, humanised cartoon animal with clothing or human facial expressions, animal-charity poster framing, veterinary diagram or anatomy chart, temple or idol imagery, modern city buildings, mobile phone, daylight or sunrise, electric lighting, adults tending the calf, a recovered calf standing or suckling, festive colours",
+      "generation_prompt": "Deep night in the swept earth yard of a small one-room village house in Gujarat, lit only by moonlight: an unplastered brick wall with a green painted band along its base, a thick golden thatch roof carried on rough wooden posts, an empty woven-rope cot pushed to one side, a tied bundle of green fodder on the ground, the house doorway behind standing dark and quiet. A small reddish-brown calf lies on its side on the floor of the yard, eyes shut. A boy of about eleven with short black hair, in a plain yellow half-sleeved shirt and blue trousers, barefoot, kneels over the calf and spreads a coarse jute sack — dark and heavy with water — across its back, smoothing it flat with both hands; a red metal bucket full of water and a small brass lota stand within his reach, a second folded sack lies on the ground beside them, and a wet patch is spreading across the floor. His eyes are heavy with sleep and he is working slowly, carefully and without a sound. Cool blue-grey moonlight, long soft shadows, a tender and private mood. A narrator bar runs across the bottom of the frame carrying one line of Gujarati text in Gujarati script, lettered exactly: એટલે આમ કોથળા ભીના કરું છું. — and no other lettering appears anywhere in the image. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    }
+  ],
+  "2d_tool": null,
+  "reuse_report": {
+    "scenes": 3,
+    "reused": 0,
+    "authored": 3,
+    "rejected": []
+  },
+  "notes": [
+    "Reuse is DORMANT in this pack. No Gujarati frame pool, no v1 Gujarati plan corpus, no rendered frame library and no shipped [reused frame: …] stamp exists, so step 1 does nothing and does it explicitly: every scene carries image_url \"\" plus a real authored self-contained generation_prompt, reused is 0, authored equals scenes, rejected is []. No Hindi or CBSE frame was borrowed and no scoring machinery was imported; no _collage.json was authored.",
+    "scenes = 3, counted the way agents/09_media_planning.md defines it — off 05_with_content.json, the topics whose available_content_types carry \"image\": M1.S1.T1, M2.S2.T4 and M3.S4.T6. FLAG FOR AGENT 13: the chapter has SEVEN reading-scene topics, so scenes (3) does not equal the topic count (7). This is not a rounding and it was not decided here — Agent 5 recorded primary_content_type null and available_content_types [] for M1.S1.T2, M2.S2.T3, M2.S3.T5 and M3.S5.T7, following Agent 2's mapping of the chapter's three printed colour illustrations. 05_with_content.json is another agent's file and is read-only here, so no media node was written for a topic that declares no image: a media node on a topic whose available_content_types is [] would be a contract inconsistency at assembly (Agents 14/15). If the one-image-per-reading-scene count is to be met at seven, the fix belongs upstream in Agent 5's content-type fields and then here, not in this file alone.",
+    "The three text-only topics do each hold a depictable moment (દફતરનો ઘા કરીને ગોરિયા પાસે પહોંચતો ગોલુ; સૂમસામ ઘર અને આકળ-વિકળ ચંદેરી; ગોળીનો ભૂક્કો ભેળવેલું બાટલીનું પાણી; માના આંચળે વળગેલો ગોરિયો), so the shortfall is a content-type gap, not a 'nothing depictable' finding. Nothing was invented to fill it.",
+    "Concept-scoped ids, chapter-continuous concept numbering: M1.S1.T1.C1.IMG1, M2.S2.T4.C7.IMG1, M3.S4.T6.C10.IMG1. For the two-concept topics the frame was hung on the concept it actually depicts — C1 (the household itself) for M1.S1.T1 and C10 (the night work with કોથળા, બાલદી અને લોટો) for M3.S4.T6. No topic-scoped id, no restarted concept number, one image per topic, no topic with two images.",
+    "PAGE RENDERS WERE OPENED, and why. 00_chapter_normalized.md carries no [[ચિત્ર: …]] markers, and Agent 5's note explicitly hands this gap to Agent 9. _renders/page-1.png, page-2.png and page-3.png were read to confirm that three colour illustrations do sit inside the reading text on printed folios 63, 64 and 65, that they land on M1.S1.T1, M2.S2.T4 and M3.S4.T6 exactly as Agent 2 reasoned, and to fix one consistent likeness for the four recurring figures across the chapter's frames. No text was re-transcribed from the renders; 00_chapter_normalized.md remains the source of truth for every Gujarati string in this file.",
+    "Likeness is held constant by REPEATING the same appearance sentences in each prompt, never by referring back: ગોલુ (about eleven, short black hair, plain yellow half-sleeved shirt, blue trousers, barefoot), દગડુ (lean, moustached, dark indigo turban wound low, white long-sleeved village shirt, white dhoti, barefoot), શાંતા (green blouse, deep purple ankle-length skirt, red odhani drawn over her head, silver anklets, barefoot), ચંદેરી (reddish-brown cow with a soft hump, yellow rope halter) and ગોરિયો (her small reddish-brown calf). Each of these is what the printed illustrations show; none is a costume the text does not place in the scene. No prompt names the chapter, a topic, a previous image or 'the same character as before'.",
+    "Setting anchoring, and the fidelity limit. The chapter prints no place name, so the yard was built from the chapter's own printed illustration and the objects the text itself names — કંતાનના કોથળા, પાણીની બાલદી, લોટો, ચોકડીનું આંગણું, પલંગ/ખાટલો, ઘાસનો પૂળો, ચંદેરી અને ગોરિયો — rather than from a slice of Gujarat the text does not choose. That is what stops the frame reading as generic-Indian: the unplastered brick wall with its green painted base band, the thick thatch on wooden posts, the woven-rope cot in the open yard, the halter and the fodder bundle. The household is named on the page as આહીર, a pastoral community, and is drawn as the page draws it — dress follows the scene, and no community's costume was bolted on for colour.",
+    "varta avoid-gate 4 (spoiling the turn) is enforced INSIDE the media node, not only in prose. M2.S2.T4's frame shows the calf still down and the doctor's face still grave; its narrator bar carries the doctor's own unanswered sentence, and its negative_prompt refuses a healthy calf, sunrise light, wet sacks and any sign of recovery. Nothing in the earlier frame or its title, description or teaching_notes names the outcome.",
+    "varta avoid-gate 2 (a tacked-on બોધ) is enforced at the climax frame: M3.S4.T6 shows the act and nothing else, its narrator bar is ગોલુ's own printed sentence, its teaching_notes stop at his stated reason, and its negative_prompt refuses a moral caption or lesson banner inside the frame. The chapter's closing open question (દાક્તરની ગોળી કે ગોલુના ભીના કોથળા) is neither depicted nor resolved anywhere in this file.",
+    "Narrator bars carry exactly three Gujarati strings, each transcribed from 00_chapter_normalized.md and each a complete printed sentence, with the printed space before the question mark preserved: 'ચંદેરીએ ખાઈ લીધું ? ગોરિયાએ ધાવી લીધું ?' (M1.S1.T1), 'આજની રાત આ મૂંગા ઢોર માટે ભારે છે.' (M2.S2.T4) and 'એટલે આમ કોથળા ભીના કરું છું.' (M3.S4.T6). No transliteration, no Devanagari, no Roman lettering, no digit in any display text; every prompt also forbids all other lettering in the frame.",
+    "2d_tool is null. This is a વાર્તા — there is no staged process and no route a child can operate, and nothing in the chapter changes in response to a manipulation. An interactive tool here would be an image with a slider bolted to it.",
+    "The blue teacher-addressed intro box on printed p. 63 was not used as a source for any frame, title, description or teaching_notes line, and its aim sentence was not converted into a caption (07_pitfalls.json, chapter_level)."
+  ]
+}

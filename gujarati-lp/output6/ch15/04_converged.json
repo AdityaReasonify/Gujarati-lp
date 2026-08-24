@@ -1,0 +1,13 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "0cd22d33bd2b44b5cecc80fcd420b15c36f18f798ae0a70b89f70dad0b96887f",
+  "verdict": "pass",
+  "notes": [
+    "CONVERGENCE RECORD, not a copy. Structure lives in 02_structure.json and is read from there; this file exists only to confirm that ids are frozen. Do not read structure out of this file.",
+    "Ids are frozen as of this record: modules M1–M4; segments M1.S1, M2.S2, M2.S3, M3.S4, M4.S5; topics M1.S1.T1 … M4.S5.T11; concepts C1–C13 chapter-continuous; objectives O1–O11 with legacy L1–L11.",
+    "Verified on the second validation pass (the first failed only because 02_structure.json did not yet exist). Full check-by-check detail is in 04_validation.json.",
+    "The eleven topics were proved to tile the chapter body exactly — zero gaps, zero overlaps, character 0 to 2312 of 2312 — via each topic's scene_span endpoints. original_chunk is empty by design at Agent 2; Agent 5 fills it verbatim and must not re-derive the cut.",
+    "All 18 સ્વાધ્યાય blocks are outside the topic tree, cross-checked with 0 matches against every module, segment, topic name and scene_span endpoint."
+  ]
+}

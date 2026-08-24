@@ -1,0 +1,86 @@
+{
+ "agent": "04_mapping_convergence",
+ "pass_number": 2,
+ "pass_note": "REVALIDATION — second and final pass under reference/loop_protocol.md. No third attempt is permitted.",
+ "chapter_id": "gseb_eng_gujarati7_ch6",
+ "chapter_name": "જો કરી જાંબુએ",
+ "grade": 7,
+ "validated": "02_structure.json",
+ "sha256_02_structure": "f1a4e4cd1606e53edcb738eb5edf2da793dc02e4e19d0a4609d4ed8efb983662",
+ "sha256_unchanged_since_pass_1": true,
+ "status": "fail",
+ "checks": {
+  "genre_fidelity": {
+   "pass": false,
+   "notes": [
+    "BLOCKING — 02_structure.json still declares the સ્વરૂપ that pass 1 rejected, and it now contradicts a CORRECTED 01_meta.json. 01_meta.json was re-run and is right: genre 'રમૂજી પ્રસંગકથા', active_genre_profiles ['nibandh_atmaparak.md'], explanation_unit the હાસ્ય-વળાંક ('દરેક વાહક એક જ topic … મજાકને તેના setup થી કદી કાપવી નહીં'), teaching_lens the lens_map row with the third-person caveat written in explicitly. 02_structure.json still carries genre 'varta', active_genre_profiles ['varta.md'], explanation_unit 'એક ઘટના', teaching_lens 'ઘટના + પાત્ર + વળાંક'.",
+    "MECHANICAL CAUSE, stated plainly because it decides what the human is being asked. A2 was never re-run. 02_structure.json is byte-identical to the artifact validated in pass 1 — sha256 f1a4e4cd1606e53edcb738eb5edf2da793dc02e4e19d0a4609d4ed8efb983662, the same value recorded in the pass-1 report, and its mtime (23:47) precedes both that report (23:57) and A1's corrected 01_meta.json (00:11). Pass 1 named owner A1 and specified 'then_A2: Re-run A2 after A1'. A1 ran and fixed its half; the A2 leg of the re-run did not execute. This is therefore not a second substantive failure of diagnosis or cutting — it is the same file failing the same check twice because it was never regenerated.",
+    "Check 1 clause 1 fails on its own terms: 'The cut uses the explanation unit named in 01_meta.json.' The unit named in 01_meta.json is now the comic turn; the unit 02_structure.json declares is 'એક ઘટના'. The two files also disagree on the active profile, which reference/global_content_rules.md rule 1 makes a hard gate — the profile that is active decides which avoid-list Agents 7/12/13 instantiate, and nibandh_atmaparak.md's હાસ્ય gates (name where the laugh lands in one clause and move on; never explain, apologise for or soften the joke; never dress it in a બોધ; gloss the printed દેશી forms at point of use; and the hard third-person check that no field may ascribe a self-deprecating 'હું' to a text whose original_chunk carries none) are not instantiated by varta.md at all. Root genre and teaching_lens also ship verbatim in the emitted plan.",
+    "WHAT SURVIVES AND MUST NOT BE RE-CUT — re-verified independently this pass, not carried over on trust. The seven-topic cut is correct under the corrected routing. 01_meta.json's own re-diagnosed explanation_unit names five carriers each holding one topic — મગન, રામજી, નાથિયો, મોંઘીમા, પશી — and 02_structure.json's T3–T7 are exactly those five, with T1 (જાંબુવાળીની અહાલેક અને ભાવતાલ) and T2 (ટપુ માટે ભરેલી થેલી) as the setup beats the chain needs. reference/explanation_unit_map.md's nibandh_atmaparak row says of this chapter by name: 'std-7 ch 6 જો કરી જાંબુએ repeats one temptation down a chain of couriers and each courier is one topic'. Setup and outcome sit inside one topic in every carrier beat (T3 lines 37-47, T4 lines 51-63), so the joke is nowhere cut from its setup. A2's re-run changes the genre slug, the profile, the unit statement, the lens and any objective wording the હાસ્ય lens sharpens — it does not re-cut.",
+    "Unit / marker arithmetic is vacuous here and clean: 00_chapter_normalized.md carries no [[કડી]], no [[દુહો]], no [[પદ]] and no ટેક (kadi = duha = pad = tek_occurrences = 0), so the કડી-equality, no-two-દુહા-share-a-topic, no-પદ-split and changed-ટેક rules do not bite. The chapter is prose end to end, one unit throughout, not mixed.",
+    "No avoid-list violation was found in the cut or the objectives as they stand, under either profile. No topic_name, segment_name, module_name, concept_name or objective_text moralises, applies an evaluative verdict (ખોટો / લોભી / ચોર) to any carrier, or closes on 'આ વાર્તા આપણને શીખવે છે…'. The turn is not spoiled inside the topic fields: topic_category 'climax' sits on M3.S5.T6 and no objective on T1–T2 names the outcome; ઠળિયા appear in O3 and O5 only where the printed page already has them, mid-chain."
+   ]
+  },
+  "coverage": {
+   "pass": true,
+   "scenes": 7,
+   "topics": 7,
+   "notes": [
+    "Re-run machine-checked this pass. All seven [[ઘટના: …]] reading markers (lines 19, 29, 35, 49, 65, 73, 79 of 00_chapter_normalized.md) became topics, in printed order, one marker to one topic; the markers[] strings on the topics match the marker roster exactly and in sequence, none claimed twice, none unclaimed.",
+    "No unclaimed reading text. Topic ranges 21-27, 31-33, 37-47, 51-63, 67-71, 75-77, 81 are non-overlapping and ascending; every line in the reading zone (19-84) outside those ranges is blank, a '---' separator or a marker line. Checked line by line — zero uncovered content lines.",
+    "No સ્વાધ્યાય block became a topic, checked two ways. (a) All fifteen verbatim_heading strings in 01_meta.json's exercise_inventory were tested for containment in both directions against every module_name, segment_name, topic_name and concept_name: zero collisions. (b) Every topic marker starts '[[ઘટના' and every source range ends at or before line 81, while the apparatus zone opens at line 85 ([[શબ્દાર્થ પેટી]]) and the fifteen [[સ્વાધ્યાય: …]] markers run from line 90 to line 209. exercise_inventory count (15) equals the printed સ્વાધ્યાય marker count (15).",
+    "The pre-reading opener is correctly NOT a topic, and its absence is not a coverage gap. The only pre-reading matter printed is the વાદળી પ્રવેશપેટી, marked by A1 as 'શિક્ષકને સંબોધિત; વાચન-દૃશ્ય નથી'; reference/explanation_unit_map.md §4 bullet 1 bars the blue intro box from being a topic. Std 7 prints no child-addressed લેખક-પરિચય paragraph — '- જયંતી ધોકાઈ' is a byline.",
+    "No in-text wrap is printed — the chapter stops on its open question — so the absence of a REVIEW topic is correct rather than a missing topic.",
+    "The three couriers were not merged: મગન, રામજી and નાથિયો each hold their own beat, which is what the repetition-with-escalation engine and O4's comparison need."
+   ],
+   "reading_scenes": 7,
+   "topics_count": 7,
+   "modules": 3,
+   "segments": 6,
+   "concepts": 8
+  },
+  "objectives": {
+   "pass": true,
+   "count": 7,
+   "notes": [
+    "Re-run machine-checked this pass. Root objectives[] holds seven entries; all seven objective_id values are unique (O1–O7).",
+    "Every home_topic_id and every anchor[] id resolves to a node in this tree — seven home_topic_ids and eight anchor ids checked against the id set rebuilt from the modules/segments/topics/concepts traversal; O5 correctly anchors both concepts of M2.S4.T5.",
+    "strand_to_objective_map covers every legacy_id exactly once: keys {L1…L7} equal the legacy_id set, values are unique and equal the objective_id set. Single strand 'L' / 'ભાષા અને સાહિત્ય' throughout, per phase2_contract.md.",
+    "Every topic carries a non-empty objective_ids and each entry resolves to the registry; every concept's objective_id resolves too.",
+    "Each objective is text-grounded and chapter-specific and could not be pasted into another chapter — each names printed particulars (જાંબુવાળીની અહાલેક, ટપુ, અડધો માઈલ, મગનના મનનો વિચાર, રામજી, નાથિયો, મોંઘીમા, પશી). Word counts run 18–22, inside the contract's 12–30 Gujarati words. The bloom ladder rises Remember → Understand → Analyze → Evaluate.",
+    "Ids match reference/naming_conventions.md. M/S/T/C were recomputed from traversal position and matched exactly — M1, M1.S1, M1.S2, M2.S3, M2.S4, M3.S5, M3.S6; T1–T7 in order; concepts chapter-continuous C1…C8 with only M2.S4.T5 carrying two (C5, C6), so the concept number legitimately stops matching the topic number from T6 on (M3.S5.T6.C7, M3.S6.T7.C8) — the contract's stated behaviour, not a defect. No topic has three concepts. No M1.S1.T1.P1-style objective code and no .SR{n} recall id appears anywhere (regex-checked).",
+    "SERVES-THE-LENS clause, re-judged against the CORRECTED lens rather than the stale one, and it holds well enough not to block. The objectives are built on printed beats, not on a genre claim, so they survive the routing change: O4 already asks the child to compare મગન's beat with રામજી's ('બંને પ્રસંગમાં કઈ વાત સરખી છે તે પંક્તિઓ સરખાવીને કહેવું'), which is precisely the repetition-with-escalation engine 01_meta.json's corrected lens names, and O7 asks for the child's own answer to the chapter's own closing question without attaching a બોધ. Recorded as a note for the A2 re-run, not as a block: no objective yet names where the laugh lands, and none should be allowed to explain the joke while adding one. None ascribes a first-person 'હું' or a writer's confession to this third-person text, so nibandh_atmaparak.md's hard third-person gate is not breached by the objectives as they stand."
+   ]
+  }
+ },
+ "blocking": [
+  {
+   "check": "genre_fidelity",
+   "owner": "A2",
+   "summary": "02_structure.json's declared સ્વરૂપ, active profile, explanation unit and teaching_lens still carry the rejected varta set and now contradict a corrected 01_meta.json. The file is byte-identical to the one that failed pass 1 — A2 was not re-run after A1's correction.",
+   "fields_to_change_in_02_structure": {
+    "genre": "'varta' → 'nibandh_atmaparak' (the roster slug; the descriptive phrase 'રમૂજી પ્રસંગકથા' belongs in genre_signals, not in root genre)",
+    "active_genre_profiles": "['varta.md'] → ['nibandh_atmaparak.md']",
+    "explanation_unit": "'એક ઘટના' → the comic turn as 01_meta.json now states it — one carrier per topic, setup and outcome together in one original_chunk",
+    "teaching_lens": "'ઘટના + પાત્ર + વળાંક' → the corrected lens from 01_meta.json, carrying its third-person caveat; do not copy reference/teaching_lens_map.md's row whole, because its 'પોતાની જાત પરની નજર' half has no purchase on a text with no 'હું' in its running prose",
+    "guiding_question": "worth replacing with 01_meta.json's re-phrased question, which asks about the repetition rather than naming the outcome — see the non-blocking note carried from pass 1"
+   },
+   "what_must_not_change": "The seven-topic cut, the marker-to-topic mapping, the id tree (M/S/T/C), the seven objectives' registry structure and strand_to_objective_map. All were re-verified as correct THIS pass under the corrected routing. Re-cutting would be a regression.",
+   "escalation": "THIS IS THE SECOND FAILURE. Per reference/loop_protocol.md and agents/04_mapping_convergence.md, no third attempt may be launched on this agent's authority — stop and surface. The judgement recorded here for the human is that the escalation clause's stated reason ('the profile or the source text needs a human eye') does NOT apply: the diagnosis question was settled at pass 1 and A1 has already corrected it. What failed is chain completion — the A2 leg of the single permitted re-run did not execute, so the same bytes were validated twice. A human deciding to run A2 once against the corrected 01_meta.json and revalidate is completing the permitted re-run, not starting a third attempt; that decision is the human's to make, not this agent's to assume."
+  }
+ ],
+ "owner": "A2",
+ "converged": false,
+ "notes": [
+  "04_converged.json was NOT written. It is emitted on pass only, so ids are NOT frozen. No downstream agent may treat 02_structure.json's ids as final until a passing validation writes the convergence record — even though the id tree itself was verified correct this pass.",
+  "Non-blocking, resolved since pass 1 and recorded so the fix is not lost: 01_meta.json's genre field now reads 'રમૂજી પ્રસંગકથા'. phase2_contract.md's root genre wants the roster slug ('nibandh_atmaparak'); the descriptive Gujarati phrase belongs in genre_signals. Minor field-shape point for Agent 13, not a block.",
+  "Non-blocking, carried from pass 1 — the guiding_question in 02_structure.json gives the ending away ('…તો ટપુડા સુધી જાંબુને બદલે ઠળિયા જ કેમ પહોંચ્યા ?') in the one chapter whose engine is a withheld punchline. 01_meta.json's re-run already replaced it with a question about the repetition; A2 should adopt that.",
+  "Non-blocking, carried from pass 1: 'આસ્તેક' is glossed in the શબ્દાર્થ box but does not occur in the printed story text on pp. 30-32. Record the gap; do not repair it by inserting the word anywhere.",
+  "Non-blocking, carried from pass 1: original_chunk is empty in every topic (correctly — it is Agent 5's field), so nothing in this chapter's verbatim has been checked by anybody yet. A1 also reports the double-render cross-check could not be run as specified and recommends a 200 dpi re-render before the verbatim is verified. That is Agent 5's gate.",
+  "Non-blocking, carried from pass 1 — printed variants must not be normalised downstream: માંહ્યલીકોર (T3, T4) vs માંયલીકોર (T5); ડોસીને / ડોશીથી (T6); અડધો માઈલ (T2) vs અર્ધો માઈલ (exercise કોઠો); and the exercise કોઠો's printed 'નાથીમાનું નાક' where the story prints નાથિયાનું. Under the corrected profile this hardens: the spoken register — 'હોવ્વે!', 'હત્તારીની !', 'નખ્ખોદિયો નાથિયો !' — is what carries the comedy and may never be tidied into માનક ગુજરાતી.",
+  "Non-blocking, carried from pass 1 — uneven topic length. M2.S4.T5 is one long printed paragraph carrying two moves (hence its two concepts); M3.S6.T7 is a single line. The lengths follow the printed beats and no beat was split or padded to even them, which is the right call.",
+  "Non-blocking, carried from pass 1 — register observation on a segment name. M2.S3 is named 'લલચાયેલા બે ભાઈબંધ'. લલચા- is not a printed word in this chapter, though it describes what the page shows happening. It is not an evaluative verdict of the ખોટો / લોભી / ચોર kind that the avoid-lists bar, so it passes; recorded only so Agent 13 can decide whether a name closer to the printed text would serve better.",
+  "Non-blocking, endorsed and strengthened under the corrected routing: the chapter's own identification is 'રમૂજી પ્રસંગ', so no explanation, summary, concept bullet or recall answer may close on 'આ વાર્તા આપણને શીખવે છે…' or 'આપણે પણ … જોઈએ'. nibandh_atmaparak.md's હાસ્ય section adds: never explain, apologise for or soften the joke.",
+  "Method — no page render was opened for this validation either. 00_chapter_normalized.md answered every structural question (marker roster, line coverage, apparatus boundaries) and the genre question turned on the two files' own declared fields, which now disagree on their face. No layout or figure question arose; re-transcription is not this agent's job."
+ ]
+}

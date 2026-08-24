@@ -1,0 +1,19 @@
+{
+  "chapter_id": "gseb_eng_gujarati7_ch2",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S1.T2",
+    "M1.S1.T3",
+    "M1.S2.T4",
+    "M1.S2.T5",
+    "M2.S3.T6",
+    "M2.S3.T7",
+    "M3.S4.T8",
+    "M3.S4.T9"
+  ],
+  "source": "printed pages 5–10 read off the renders (page-1.png … page-6.png); the teaching text runs on printed pp. 5–7 and its nine scenes appear in this order on the page",
+  "notes": [
+    "Identical to the logical traversal of 02_structure.json (M1.S1.T1 … M3.S4.T9). The chapter is printed straight through with no boxed digression inside the story, so the printed order and the logical order coincide. Emitted anyway so Agent 15 compares against an explicit index and raises human_confirmation_required on a comparison that actually happened.",
+    "Not in this list, because they are not this chapter's teaching text: the blue પ્રવેશપેટી (teacher-addressed), the two uncaptioned court illustrations, the શબ્દાર્થ box, the thirteen numbered સ્વાધ્યાય blocks (printed pp. 7–10), the chapter-final વિરામચિહ્નો grammar table (p. 10) and the appended humour box 'જો જો હસતાં ના...' (p. 10)."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": "gseb_eng_gujarati6_ch3",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S1.T2",
+    "M1.S2.T3",
+    "M1.S2.T4",
+    "M1.S2.T5",
+    "M1.S3.T6",
+    "M1.S3.T7",
+    "M2.S4.T8",
+    "M2.S4.T9"
+  ],
+  "source": "printed pages 14-17 read off the render (pdftoppm -png -r 150 over all eight pages of the chapter PDF, suspect lines re-read at 300 dpi); the સંવાદ runs top-to-bottom in a single column on printed folios 14, 15, 16 and 17, and folios 17-21 carry only the શબ્દાર્થ box, the seventeen numbered સ્વાધ્યાય blocks and the appended 'સંજ્ઞા વિશે જાણીએ' grammar box, none of which is a topic.",
+  "matches_logical_order": true,
+  "notes": [
+    "છાપેલો ક્રમ અને logical ક્રમ એકસરખા છે: આરંભની રંગસૂચનાથી શરૂ કરીને નવ સંવાદ-ખંડ પાના પર ઉપરથી નીચે એ જ ક્રમમાં છપાયા છે જે ક્રમમાં 04_converged.json ના topics ચાલે છે. Agent 15 ને ધારણા નહીં, ખરેખર થયેલી સરખામણી મળે તે માટે યાદી લખી છે.",
+    "આખો સંવાદ એક જ કૉલમમાં છપાયો છે, એટલે બે-કૉલમનું 'ઉપરથી નીચે કે ડાબેથી જમણે' વાંચવાનું જોખમ લાગુ પડતું નથી. પાનું બદલાય ત્યાં (14→15, 15→16, 16→17) વક્તા-વળાંક વચ્ચેથી કપાયો નથી.",
+    "શબ્દાર્થ-પેટી, સત્તર સ્વાધ્યાય-બ્લૉક, ભૂરી પ્રવેશપેટી અને એકમ-અંતિમ લીલી વ્યાકરણ-પેટી teaching text નથી, એટલે આ યાદીમાં નથી. વ્યાકરણ-એકમ, પૂરકવાચન કે 'આગળ વધતાં પહેલાં' જેવું કશું આ પ્રકરણની અંદર છપાયું નથી — એ પુસ્તકમાં પ્રકરણોની વચ્ચે અલગ છપાય છે."
+  ]
+}

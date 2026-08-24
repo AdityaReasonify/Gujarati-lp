@@ -1,0 +1,39 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "areas": ["ધર્મ"],
+      "caution": "The explanation turns સવિતાના દાદાની 'રાહુ નામનો રાક્ષસ સૂર્યને ગળી જાય' વાત into either the literal scientific cause of a solar eclipse or an object of mockery of a grandparent's belief.",
+      "guidance": "Present it as the traditional lore a grandparent tells (as the chapter itself frames it — 'મારા દાદા કહેતા હતા કે') and let the real_life_example stay inside the child's own home, where a દાદા-દાદી tells an old story about the sky; do not correct or debunk the belief inside the teaching text, since the chapter itself keeps that job for the class discussion and the later ચંદ્રયાન/સૂર્યયાન bridge, not for an authorial verdict.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S3.T3",
+      "areas": ["ધર્મ"],
+      "caution": "The explanation of 'નાનકડા હનુમાનનાં તોફાન' turns બાળ હનુમાનજી into a behavioural instruction — 'children who cause તોફાન get punished like this' — rather than an introduction to a well-loved mythological child character.",
+      "guidance": "Introduce હનુમાનજી as a story character the way the chapter does — playful, ચંચળ, and dear to the class — and keep any real_life_example about a child's own ચંચળતા separate from any claim about what the story character 'teaches' a child to do or not do.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S4.T6",
+      "areas": ["ધર્મ"],
+      "caution": "The explanation of ઇન્દ્રદેવનો વજ્રપ્રહાર frames a deity striking a child down with a weapon as a model of how misbehaviour should be punished, or dwells on the violence (બેહોશ, મેઘગર્જના) as the point of the passage.",
+      "guidance": "Keep the explanation on the events as the chapter narrates them — hanuman flying toward the sun, colliding with રાહુ, ઇન્દ્રનો ગુસ્સો and the strike — as the story's turning point, without drawing a punishment-for-disobedience moral the text does not state; the recall answers may ask what happened, not whether it was deserved.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "areas": ["ધર્મ"],
+      "caution": "The explanation states પવનદેવે 'હવાનો પ્રવાહ રોકી દીધો' as a literal, real-world account of how air stops, or turns દેવોની પ્રાર્થના into devotional instruction for the child.",
+      "guidance": "Keep it inside the story's own logic — a father's ગુસ્સો so great the whole world felt it, until everyone came together to make things right — and let the real_life_example stay about a parent's worry for a child, not a claim about weather or a lesson in prayer.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "ધર્મ",
+      "guidance": "This chapter is a frame story: a real classroom discussion about સૂર્યગ્રહણ carries an embedded પૌરાણિક કથા (બાળ હનુમાનજી, રાહુ, ઇન્દ્ર, પવનદેવ) that એક વિદ્યાર્થી (આદિત્ય) tells. Teach the embedded story as literature — a well-loved tale the class enjoys — never as a scientific account of eclipses or as theology to adopt. The chapter itself keeps the two voices distinct — સવિતાના દાદાની વાર્તા and later ભાસ્કરભાઈનું ચંદ્રયાન-સૂર્યયાનનું વિજ્ઞાન — and the teaching text should keep them just as distinct, letting the closing bridge (M3.S5.T8) do the work of connecting myth to real space travel without collapsing one into the other."
+    }
+  ],
+  "none_found": false
+}

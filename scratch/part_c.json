@@ -1,0 +1,55 @@
+{
+ "M2.S4.T7": {
+  "avoid_checks": [
+   {
+    "check": "સુશર્માનો હેતુ must be given in the chapter's own words — `‘‘અર્જુને ભૂતકાળમાં મને અને મારા ભાઈઓને બહુ પીડ્યા છે !’’` and `‘‘બદલો લેવાની આનાથી મોટી તક બીજી ન મળે !’’` — and no `explanation`, `concept_bullets` line or `recall_questions[].answer` may supply a motive the page does not carry (લોભ, રાજગાદી, ધન, દુર્યોધન સાથેની મિત્રતા).",
+    "profile": "varta",
+    "severity": "hard"
+   },
+   {
+    "check": "No field may attach a judgement of its own to દ્રોણ for proposing the plan (કપટી, દગાબાજ, ખરાબ ગુરુ) in `explanation`, `concept_bullets` or a `recall_questions[].answer`. At this point the chapter prints only `‘‘હું ચક્રવ્યૂહ રચવાનું વિચારી રહ્યો છું !’’` — a વ્યૂહરચના stated without comment.",
+    "profile": "varta",
+    "severity": "soft"
+   }
+  ],
+  "misconception": "બાળક એમ સમજે છે કે અર્જુન છેતરાઈને કે ડરીને દૂર ગયો; સાચી ચાવી — ‘ક્ષત્રિય પરંપરા પ્રમાણે એને અમારી સાથે યુદ્ધ કરવું જ પડશે’ — વાંચ્યા છતાં પકડાતી નથી, એટલે સુશર્માની યોજના શા માટે કામ કરી ગઈ એ સમજાતું નથી.",
+  "correction": "`લલકારવું — પડકારવું; ‘આવી જા લડવા’ એમ સામે ચાલીને કહેવું` ગ્લોસ કરીને એ જ વાક્ય તરફ આંગળી ચીંધો: આ ચાલ જૂઠાણા પર નહિ, ક્ષત્રિયના પોતાના રિવાજ પર ગોઠવાયેલી છે — લલકાર આવે તો યોદ્ધાએ લડવું જ પડે, એટલે અર્જુન ના પાડી શકે એમ નહોતો."
+ },
+ "M2.S4.T8": {
+  "avoid_checks": [
+   {
+    "check": "Gate 3 (judging a character the story treats with sympathy): no `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may fault અર્જુન for going — બેદરકાર, ભૂલ કરી, છોડીને જતો રહ્યો and their synonyms are out. The chapter has already printed the compulsion: `‘‘ક્ષત્રિય પરંપરા પ્રમાણે એને અમારી સાથે યુદ્ધ કરવું જ પડશે !’’`",
+    "profile": "varta",
+    "severity": "hard"
+   },
+   {
+    "check": "Gate 1 (summary-only teaching): `explanation` must state the consequence that makes the camp panic — `ગુરુએ ચક્રવ્યૂહ રચ્યો છે ! અર્જુન જ એનો ભેદ જાણે છે અને એ તો છે નહિ !` — and not stop at restating that સુશર્મા challenged અર્જુન and took him away.",
+    "profile": "varta",
+    "severity": "hard"
+   },
+   {
+    "check": "This topic ends on the chapter's own open question `હવે... ?`. No field of this topic may answer it by naming who steps forward; that is the next topic's ઘટના.",
+    "profile": "varta",
+    "severity": "soft"
+   }
+  ],
+  "misconception": "‘અર્જુન જ એનો ભેદ જાણે છે’ — અહીં બાળક ‘ભેદ’ને હિન્દીની જેમ ‘ફરક, તફાવત’ સમજી લે છે, એટલે વાક્યનો અર્થ જ ઊંધો બેસે છે અને પાંડવછાવણીમાં ચિંતા શા માટે છે તે સમજાતું નથી.",
+  "correction": "એ જ જગ્યાએ ગ્લોસ કરો — `ભેદ — અંદરની ગુપ્ત ચાવી; અહીં ચક્રવ્યૂહ તોડવાની રીત` — અને હમણાં જ ભણેલા `ભેદવું — તોડવું` સાથે જોડી આપો; પછી એક વાક્યમાં કહો કે એ ચાવી જાણનાર એકમાત્ર માણસ મેદાનમાં નથી, એટલે છાવણીમાં ચિંતાનો પાર નથી."
+ },
+ "M3.S5.T9": {
+  "avoid_checks": [
+   {
+    "check": "Gate 3 (judging a character the story treats with sympathy): `‘‘હું છું ને !’’` must not be presented as બડાઈ. No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may label અભિમન્યુ અભિમાની, બડાઈખોર, ઉતાવળિયો or a synonym; his own stated reason — `‘‘…જેટલું છે એટલું પણ ઓછું નથી, મને કાકા ભીમસેન અને બીજા યોદ્ધાઓ સાથ આપશે એટલે ખોટ પુરાઈ જશે !’’` — is what the explanation reasons from.",
+    "profile": "varta",
+    "severity": "hard"
+   },
+   {
+    "check": "Gate 2 (a tacked-on બોધ): no sentence of `explanation`, `summary`, `detailed_summary`, `concept_bullets` or `recall_questions[].answer` may close on a courage-rule — `આપણે પણ હિંમત રાખવી જોઈએ`, `નાના હોઈએ તોય પાછા ન પડવું જોઈએ`, `આ વાર્તા આપણને શીખવે છે…`. The chapter's own closing note here is flat: `આખરે ભારે મનથી બધાએ અભિમન્યુની વાતને વધાવી લીધી ! બીજો વિકલ્પ પણ ક્યાં હતો !`",
+    "profile": "varta",
+    "severity": "hard"
+   }
+  ],
+  "misconception": "‘‘બેટા ! આ વિનોદ કરવાનો સમય નથી !’’ — અહીં ‘વિનોદ’ને બાળક કોઈ માણસનું નામ સમજી લે છે (વર્ગમાં એ નામનું બાળક પણ હોય), એટલે વાક્યનો અર્થ ખૂલતો જ નથી અને મોટેરાં અભિમન્યુને શું કહી રહ્યાં છે એ સમજાતું નથી.",
+  "correction": "પહેલી જ વાર આવે ત્યાં `વિનોદ — મજાક, ગમ્મત` એમ ગ્લોસ કરો, અને પછી અભિમન્યુના પોતાના શબ્દો ટાંકો — `‘‘હું વિનોદ નથી કરતો હું ગંભીરતાથી કહું છું.’’` — જેથી દેખાય કે એ મજાક નહિ, ગંભીર દરખાસ્ત કરી રહ્યો છે."
+ }
+}

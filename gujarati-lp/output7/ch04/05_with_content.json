@@ -1,0 +1,500 @@
+{
+ "agent": "05_verbatim_attachment",
+ "chapter_id": "gseb_eng_gujarati7_ch4",
+ "plan_id": "gseb_eng_gujarati7_ch4_v1",
+ "grade": 7,
+ "chapter_name": "ટીપાંની સફર",
+ "genre": "mixed",
+ "active_genre_profiles": [
+  "mahitiprad_gadya.md",
+  "varta.md"
+ ],
+ "teaching_lens": "તથ્ય + પરંપરા + જિજ્ઞાસા",
+ "guiding_question": "દરિયા, નદી અને તળાવનું એક ટીપું ઊંચે વાદળ સુધી કેવી રીતે પહોંચે છે અને પાછું ક્યાં ને કેવી રીતે નીચે આવે છે — અને ગુજરાતી એ વરસવાની કેટલી જુદી જુદી રીતોને પોતાનાં નામ આપે છે ?",
+ "explanation_unit": "એક માહિતી-ખંડ",
+ "cut_summary": {
+  "reading_markers_in_normalized": [
+   "[[સંવાદ: દરિયામાંથી આવેલું ટીપું]]",
+   "[[સંવાદ: નદીવાળું ટીપું]]",
+   "[[સંવાદ: તળાવવાળું ટીપું]]",
+   "[[સંવાદ: ઇન્દ્રદેવ પાસે જવાનું અને વરસવાની બાર રીતો]]"
+  ],
+  "reading_markers_count": 4,
+  "unmarked_reading_prose": "લીટી ૧૦ — ‘અષાઢ મહિનો ચાલતો હતો…’ વાળો આખો ફકરો. પ્રવેશપેટી પછી અને પહેલા [[સંવાદ: …]] marker પહેલાં છપાયેલું વાચન-લખાણ, જેની ઉપર કોઈ marker નથી. 01_meta.json.structure_inventory.mahiti_khand_note એને પોતાનો પહેલો માહિતી-ખંડ ગણાવે છે.",
+  "topics": 6,
+  "segments": 3,
+  "modules": 2,
+  "concepts": 8,
+  "objectives": 6,
+  "quoted_turns_in_chapter": 32,
+  "mahiti_khand_measured_by_agent_1": 6,
+  "marker_to_topic_mapping": "એક-marker-એક-topic અહીં લાગુ પડતું નથી, અને એ સભાનપણે નથી લગાડ્યું. ચાર [[સંવાદ: …]] marker વક્તા બદલાય ત્યાં પડે છે; આ એકમનું explanation_unit ‘એક માહિતી-ખંડ’ છે અને mahitiprad_gadya.md નો Avoid #2 (severity: hard) ચોખ્ખું લખે છે કે વક્તા બદલાય ત્યાં કાપવાનું નહીં. 01_meta.json extraction_notes ૧૯ પણ નામ દઈને કહે છે : ‘ચાર [[સંવાદ: …]] marker વાચન-ક્રમની નિશાનીઓ છે, કાપની નિશાનીઓ નથી.’ એટલે ટૉપિક-સીમા તથ્ય-પગલાં પરથી લીધી છે અને દરેક marker ઓછામાં ઓછા એક ટૉપિકમાં ગણાયો છે : marker ૧ (દરિયા) → T2 અને T3; marker ૨ (નદી) → T3 અને T4; marker ૩ (તળાવ) → T4 અને T5; marker ૪ (ઇન્દ્રદેવ) → T6 (૧:૧). એકેય marker ગળી ગયો નથી. એક જ ટૉપિક, T1, marker વગરના છાપેલા વાચન-ફકરા (લીટી ૧૦) પર બેસે છે — એ ફકરો Agent 1 ના પોતાના માપમાં પહેલો માહિતી-ખંડ છે, એટલે એ શોધેલો ટૉપિક નથી.",
+  "non_topic_markers": [
+   "[[પૃષ્ઠ 19]] … [[પૃષ્ઠ 24]] × 6 — pagination scaffolding",
+   "‘4    ટીપાંની સફર’ + ‘- સંકલિત’ (લીટી ૩, ૫) — છાપેલી મથાળા-પટ્ટી; લેખક-સ્લોટમાં સંકલિત છે એટલે લેખક-પરિચય પેટી નથી અને CONCEPT ટૉપિક પણ નથી",
+   "[[પ્રવેશપેટી (વાદળી પેટી — શિક્ષક માટે; વાચન-દૃશ્ય નથી)]] — apparatus",
+   "[[ચિત્ર: વાદળમાં ભરાયેલાં સજીવ ટીપાં (પૃષ્ઠ 19)]] — પાનાની સામગ્રી, વાચન-દૃશ્ય નથી",
+   "[[ચિત્ર: શહેરની ઇમારતો, તળાવ અને વરસતાં વાદળાં (પૃષ્ઠ 20)]] — પાનાની સામગ્રી, વાચન-દૃશ્ય નથી",
+   "[[શબ્દાર્થ]] — ચૌદ પ્રવેશવાળી પેટી; key_terms અને point-of-use ગ્લોસને પોષે છે, ટૉપિક નથી",
+   "[[સ્વાધ્યાય: …]] × 11 — Agent 10 નો વિસ્તાર",
+   "[[વ્યાકરણપેટી: સંજ્ઞાનાં લિંગ અને પ્રકાર]] — પાઠાંતે છપાયેલી લીલી પેટી; વાચન-દૃશ્ય નથી, સ્વાધ્યાય નથી, ટૉપિક નથી"
+  ],
+  "kadi": 0,
+  "duha": 0,
+  "pad": 0,
+  "tek_occurrences": 0,
+  "ghatna": 5,
+  "mahiti_khand": 6
+ },
+ "objectives": [
+  {
+   "objective_id": "O1",
+   "legacy_id": "L1",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "વાદળમાં ભેગાં થયેલાં ટીપાં કઈ કઈ જગ્યાએથી આવ્યાં હતાં તે પાઠની પહેલી લીટીઓમાંથી શોધીને, દરિયો, તળાવ, નદી અને ખાબોચિયું — પાણીનાં આ ઘર ગણાવવાં.",
+   "bloom_level": "Remember",
+   "home_topic_id": "M1.S1.T1",
+   "anchor": [
+    "M1.S1.T1.C1"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O2",
+   "legacy_id": "L2",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "દરિયામાં ટીપાં સાથે શું શું થતું હતું — માછલી પી જવી, અમારામાંથી પ્રાણવાયુ કાઢી લેવો, મોટી માછલીનો ફુવારો — તે ટીપાની પોતાની વાત પરથી કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S1.T2",
+   "anchor": [
+    "M1.S1.T2.C2"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O3",
+   "legacy_id": "L3",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "મે મહિનાની અને મેદાનની ગરમી પડતાં દરિયાનું ને નદીનું પાણી ‘‘સાવ હલકાં થઈ ગયાં’’ ને ઊંચે જવા માંડ્યું — એ એક જ પ્રક્રિયા બંને ટીપાંની વાતમાં ઓળખાવવી.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M1.S2.T3",
+   "anchor": [
+    "M1.S2.T3.C3"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O4",
+   "legacy_id": "L4",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "કાળાંડિબાંગ વાદળામાં ભેગાં થયા પછી ટીપાંને નીચેનું કેમ કશું દેખાતું નથી, અને ‘‘સાવ શોષાઈ જઈશ’’ કહેતાં વસ્ત્રાપુરના તળાવના પાણીનું શું થાય છે તે કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S2.T4",
+   "anchor": [
+    "M1.S2.T4.C4",
+    "M1.S2.T4.C5"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O5",
+   "legacy_id": "L5",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "વાદળ પોતાની મરજીથી નહીં પણ પવન ફૂંકે ત્યાં જાય છે, હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરે છે અને ઠંડક થાય એટલે વરસે છે — આ પગલાં ક્રમમાં કહેવાં.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S3.T5",
+   "anchor": [
+    "M2.S3.T5.C6"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O6",
+   "legacy_id": "L6",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "વરસવાની બાર દેશી રીતોમાંથી પછેડિયો, નેવાધાર, મોલિયો ને ઢેફાંભાંગ શબ્દાર્થપેટીના અર્થ સાથે મેળવીને, દરેક નામ કેવો વરસાદ બતાવે છે તે કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S3.T6",
+   "anchor": [
+    "M2.S3.T6.C7",
+    "M2.S3.T6.C8"
+   ],
+   "status": "taught",
+   "theme_category": null
+  }
+ ],
+ "strand_to_objective_map": {
+  "L1": "O1",
+  "L2": "O2",
+  "L3": "O3",
+  "L4": "O4",
+  "L5": "O5",
+  "L6": "O6"
+ },
+ "modules": [
+  {
+   "module_id": "M1",
+   "module_name": "પાણી ક્યાં રહે છે અને ઊંચે કેમ ચઢે છે",
+   "segments": [
+    {
+     "segment_id": "M1.S1",
+     "segment_name": "ટીપાં ક્યાંથી આવ્યાં ને દરિયામાં કેમ રહેતાં",
+     "topics": [
+      {
+       "topic_id": "M1.S1.T1",
+       "topic_name": "અષાઢના વાદળમાં ભેગાં થયેલાં જુદી જુદી જગ્યાનાં ટીપાં",
+       "topic_type": "CONCEPT",
+       "topic_category": "introduction",
+       "difficulty": "easy",
+       "depends_on": [],
+       "objective_ids": [
+        "O1"
+       ],
+       "original_chunk": "અષાઢ મહિનો ચાલતો હતો. આકાશમાં ચારે બાજુ વાદળાં ભેગાં થયાં હતાં. ક્યારેક જ વચ્ચે સૂરજનાં કિરણો દેખાતાં હતાં. વાદળાંમાં ભેગાં થયેલાં ટીપાં વચ્ચે વાતચીત ચાલતી હતી. એકબીજાને પૂછતાં હતાં, ‘‘તું ક્યાંથી આવ્યું ?’’ બધાં જુદી જુદી જગ્યાએથી આવ્યાં હતાં. કોઈ દરિયામાંથી, કોઈ તળાવમાંથી કોઈ નદીમાંથી તો કોઈ નાનકડા ખાબોચિયામાંથી પણ આવેલું હતું.",
+       "markers": [],
+       "source_lines_00_normalized": "10",
+       "cut_boundary": "આખી લીટી ૧૦, ‘અષાઢ મહિનો ચાલતો હતો.’ થી ‘...નાનકડા ખાબોચિયામાંથી પણ આવેલું હતું.’ સુધી. આ પહેલો માહિતી-ખંડ છે (પાણી ક્યાં ક્યાં હોય છે) અને ફ્રેમનું ઊઘડવું એની જ અંદર છે. આ ફકરા પર 00_chapter_normalized.md માં કોઈ વાચન-marker છપાયો નથી — નીચે notes જુઓ.",
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T1.C1",
+         "concept_name": "દરિયો, નદી, તળાવ ને ખાબોચિયું — ટીપાં ક્યાં ક્યાંથી આવ્યાં",
+         "objective_id": "O1",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "અષાઢ મહિનો ચાલે છે અને આકાશમાં ચારે બાજુ વાદળાં ભેગાં થયાં છે; વચ્ચે વચ્ચે જ સૂરજનાં કિરણો (અજવાળાની પાતળી લીટીઓ) દેખાય છે. વાદળામાં ભેગાં થયેલાં પાણીનાં ટીપાં એકબીજાને પૂછે છે કે તું ક્યાંથી આવ્યું. જવાબમાં ખબર પડે છે કે બધાં જુદી જુદી જગ્યાએથી આવ્યાં છે — કોઈ દરિયામાંથી, કોઈ તળાવમાંથી, કોઈ નદીમાંથી તો કોઈ નાનકડા ખાબોચિયામાંથી (પાણી ભરાઈ રહે એવા નાના ખાડામાંથી) પણ આવેલું છે.",
+       "word_count": {
+        "original": 52
+       },
+       "key_terms": [
+        "અષાઢ — ચોમાસાનો પહેલો ગુજરાતી મહિનો, જ્યારે વરસાદ બેસે છે.",
+        "કિરણ — સૂરજમાંથી આવતી અજવાળાની પાતળી લીટી.",
+        "ખાબોચિયું — વરસાદનું પાણી ભરાઈ રહે એવો નાનો ખાડો.",
+        "નાનકડું — ‘નાનું’ નું વહાલ બતાવતું રૂપ; સાવ નાનું.",
+        "વાતચીત — બે કે વધુ જણ વચ્ચે થતી વાત."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      },
+      {
+       "topic_id": "M1.S1.T2",
+       "topic_name": "દરિયામાં ટીપાંનું જીવન — માછલી અને પ્રાણવાયુ",
+       "topic_type": "CONCEPT",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O2"
+       ],
+       "original_chunk": "દરિયામાંથી આવેલું ટીપું બોલ્યું,\n‘‘ભાઈ, હું તો દરિયામાંથી આવ્યું, પૂછો કેવી રીતે ?’’\n‘‘કેવી રીતે ?’’\n‘‘એ તો હું દરિયામાં આમતેમ બીજા ભાઈબંધો સાથે ફરતું હતું. અમારામાંથી કોઈને માછલી પી જતી હતી અને કાનમાંથી બહાર કાઢતી. અમારામાંથી પ્રાણવાયુ કાઢી લે એટલે અમારે પાછો મેળવી લેવો પડતો. કોઈ મોટી માછલી તો એકી સાથે અમારામાંથી લાખોને પી જાય અને પછી દરિયાની બહાર માથું કાઢી ફુવારો ઉડાડે. અમને બધાંને એ બહુ ગમતું હતું.’’",
+       "markers": [
+        "[[સંવાદ: દરિયામાંથી આવેલું ટીપું]]"
+       ],
+       "source_lines_00_normalized": "13-19",
+       "cut_boundary": "લીટી ૧૩ ‘દરિયામાંથી આવેલું ટીપું બોલ્યું,’ થી લીટી ૧૯ ‘...અમને બધાંને એ બહુ ગમતું હતું.’’’ સુધી. લીટી ૨૩ (‘‘બહુ લાંબી દરિયા જેવડી વાતો રહેવા દે...’’) આ ટૉપિકની પૂંછડી નથી — એ પછીના ટૉપિકનો પ્રવેશ-hook છે (explanation_unit_map.md કાપ-નિયમ ૨).",
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T2.C2",
+         "concept_name": "દરિયાના પાણીમાં માછલી, પ્રાણવાયુ ને ફુવારો",
+         "objective_id": "O2",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "દરિયામાંથી આવેલું ટીપું પોતાની વાત માંડે છે. એ કહે છે કે દરિયામાં એ પોતાના ભાઈબંધો (દોસ્તો) સાથે આમતેમ ફરતું હતું. વચ્ચે માછલી ટીપાંને પી જતી અને કાનમાંથી બહાર કાઢતી, અને ટીપાંમાંથી પ્રાણવાયુ (ઓક્સિજન) લઈ લે એટલે ટીપાંને એ પાછો મેળવી લેવો પડતો. મોટી માછલી તો એકી સાથે લાખો ટીપાં પી જતી અને પછી દરિયાની બહાર માથું કાઢીને ફુવારો ઉડાડતી — ટીપાંને એ બહુ ગમતું.",
+       "word_count": {
+        "original": 70
+       },
+       "key_terms": [
+        "પ્રાણવાયુ — જીવન ટકાવવા માટેનો વાયુ, ઓક્સિજન.",
+        "ભાઈબંધ — મિત્ર, દોસ્ત.",
+        "આમતેમ — આ બાજુ ને તે બાજુ, અહીંતહીં.",
+        "એકી સાથે — બધું એક જ વખતે, સાથે ને સાથે.",
+        "ફુવારો — ઊંચે ઊડતી પાણીની ધાર."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M1.S2",
+     "segment_name": "ગરમી, હલકાં ટીપાં અને કાળુંડિબાંગ વાદળું",
+     "topics": [
+      {
+       "topic_id": "M1.S2.T3",
+       "topic_name": "ગરમી પડતાં હલકાં થઈ ઊંચે ચઢતાં ટીપાં",
+       "topic_type": "CONCEPT",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [
+        "M1.S1.T1"
+       ],
+       "objective_ids": [
+        "O3"
+       ],
+       "original_chunk": "‘‘બહુ લાંબી દરિયા જેવડી વાતો રહેવા દે. અહીંયાં કેવી રીતે આવ્યું તે કહે.’’\n‘‘એ જ તો કહું છું. મે મહિનો આવ્યો અને એટલી ગરમી પડી કે ન પૂછો વાત. અમે દરિયાની સપાટી પર હવા લેવા આવ્યાં અને શું કહું કે અમારા તો રામ રમી ગયા. અમે તો સાવ હલકાં થઈ ગયાં અને હવામાં અધ્ધર જવા લાગ્યાં. ઊંચે ઊંચે જવા માંડ્યાં. જેમ ઉપર જઈએ તેમ બહુ બીક લાગવા માંડી. અમારામાંથી થોડાંક અનુભવી હતાં, એમણે કહ્યું કે બીવાની કશી જરૂર નથી. પાછાં દરિયામાં આવી જઈશું, પણ બીક તો ગઈ નહીં. હવે ઊંચે આવીને આ વાદળામાં ભરાયાં છીએ. ખબર નથી ક્યારે પાછાં ઘરે જઈશું.’’\nનદીવાળા ટીપાનું પણ આવું જ કહેવું હતું. એ બોલ્યું;\n‘‘હા, અમારે પણ બિલકુલ એવું જ થયું. અમે ડુંગર પરથી દોડતાં દોડતાં આવતાં હતાં. જરા થાક લાગ્યો એટલે મેદાનવાળા ભાગમાં જરા ધીમાં પડ્યાં. ત્યાં તો ગરમી કેટલી પડી ખબર છે ? કોઈ કહેતું હતું કે 44 ડિગ્રી ! આપણો જીવ તો અધ્ધર થઈ ગયો. અને શું કહું, થોડીક વારમાં તો અમે પણ અધ્ધર થઈ ગયાં. ઉપર ને ઉપર જવા માંડ્યાં.",
+       "markers": [
+        "[[સંવાદ: દરિયામાંથી આવેલું ટીપું]]",
+        "[[સંવાદ: નદીવાળું ટીપું]]"
+       ],
+       "source_lines_00_normalized": "23, 25, 30, 32a",
+       "cut_boundary": "લીટી ૨૩ (પ્રવેશ-hook) + આખી લીટી ૨૫ + લીટી ૩૦ + લીટી ૩૨ નો પહેલો ભાગ, ‘‘હા, અમારે પણ બિલકુલ એવું જ થયું.’ થી ‘ઉપર ને ઉપર જવા માંડ્યાં.’ સુધી. દરિયાનું અને નદીનું — બંને ટીપાંનું ઊંચે જવું એક જ પ્રક્રિયા છે એટલે એક જ ટૉપિક (01_meta.json extraction_notes ૪.૬). Agent 5 માટે : લીટી ૩૨ એક જ છાપેલો અવતરણ-વારો છે અને એ અહીં તથ્ય-પગલાની સીમાએ વહેંચાયો છે — આ ટુકડો ‘‘ થી ખૂલે છે અને એને બંધ કરતું ’’ નથી; જેમ છપાયું છે તેમ જ ઉતારવું, પોતાનું અવતરણચિહ્ન ઉમેરવું નહીં.",
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T3.C3",
+         "concept_name": "ગરમી પડે એટલે પાણી હલકું થઈ ઊંચે ચઢે",
+         "objective_id": "O3",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "બીજાં ટીપાં દરિયાવાળા ટીપાને કહે છે કે લાંબી વાતો રહેવા દે અને વાદળ સુધી પહોંચ્યું કેવી રીતે તે કહે. એ કહે છે કે મે મહિનામાં એટલી ગરમી પડી કે દરિયાની સપાટી (પાણીના ઉપરના પડ) પરનાં ટીપાં સાવ હલકાં થઈ ગયાં ને હવામાં અધ્ધર (ઊંચે) જવા લાગ્યાં; ઊંચે જતાં બીક લાગી, પણ અનુભવી ટીપાંએ હિંમત આપી. નદીવાળું ટીપું પણ બરાબર આ જ વાત કહે છે — ડુંગર પરથી દોડતું આવેલું એ મેદાનમાં ધીમું પડ્યું, ત્યાં એટલી ગરમી પડી કે એ પણ અધ્ધર થઈને ઉપર ને ઉપર જવા માંડ્યું.",
+       "word_count": {
+        "original": 170
+       },
+       "key_terms": [
+        "સપાટી — પાણીની સૌથી ઉપરની બાજુ, ઉપરનું પડ.",
+        "અધ્ધર — જમીનથી ઊંચે, હવામાં લટકતું.",
+        "અનુભવી — જેણે અગાઉ જોયું-જાણ્યું હોય એવું, જાણકાર.",
+        "ડુંગર — પહાડ, ઊંચી ટેકરી.",
+        "મેદાન — ખુલ્લી અને સપાટ જમીન."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      },
+      {
+       "topic_id": "M1.S2.T4",
+       "topic_name": "કાળાંડિબાંગ વાદળામાં ભેગાં થયેલાં ટીપાં અને શોષાઈ જતું તળાવ",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [
+        "M1.S2.T3"
+       ],
+       "objective_ids": [
+        "O4"
+       ],
+       "original_chunk": "તમારી જેમ અહીં આ કાળાંડિબાંગ વાદળાંમાં ફસાયાં છીએ. નીચેનું કશું દેખાતું નથી એટલાં ઊંચે આવી ગયાં છીએ. એમાં વળી પવન ફૂંકાય અને આ વાદળું પણ ચાલવા માંડે એટલે વધુ બીક લાગે. અમારી નદી તો ક્યાં હશે, શી ખબર !’’\nતળાવવાળું ટીપું તો આંસુનાં ટીપાં પાડવામાંથી ઊંચું નહોતું આવતું. એનું રડવાનું બંધ જ નહોતું થયું. એ તો રડમસ અવાજે બોલ્યું,\n‘‘મારે તો અહીં નથી રહેવું. મારે મારા ઘેર જવું છે. મને કોઈ મારા ઘેર લઈ જાઓ ને !’’\n‘‘તારું ઘર ક્યાં છે ?’’\n‘‘વસ્ત્રાપુરનું તળાવ.’’\n‘‘અરે ત્યાં તો હવે કોઈ નથી. તું એકલું ત્યાં જઈને શું કરીશ ? સાવ શોષાઈ જઈશ. એના કરતાં અમારી સાથે રહીશ તો સારું લાગશે. આપણે બધાં જ સાથે ક્યાંક જઈને પડીશું અને સાથે જ રહીશું.’’ એક ટીપાએ એને સમજાવવાનો પ્રયત્ન કર્યો. પણ એ માને જ નહીં.\n‘‘પણ મને તો તળાવ જ ફાવે છે. મને બીજે ક્યાંય નથી ગમતું. કોઈ મને ત્યાં લઈ જાઓ ને !’’",
+       "markers": [
+        "[[સંવાદ: નદીવાળું ટીપું]]",
+        "[[સંવાદ: તળાવવાળું ટીપું]]"
+       ],
+       "source_lines_00_normalized": "32b, 35-47",
+       "cut_boundary": "લીટી ૩૨ નો બીજો ભાગ, ‘તમારી જેમ અહીં આ કાળાંડિબાંગ વાદળાંમાં ફસાયાં છીએ.’ થી ‘અમારી નદી તો ક્યાં હશે, શી ખબર !’’’ સુધી, પછી લીટી ૩૫ થી ૪૭ સુધી આખું (તળાવવાળા ટીપાનું રડવું, ‘વસ્ત્રાપુરનું તળાવ’, ‘સાવ શોષાઈ જઈશ’ અને એનું ન માનવું). લીટી ૪૯ આમાં નથી — એ પછીનો તથ્ય-પગલું છે.",
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T4.C4",
+         "concept_name": "કાળાંડિબાંગ વાદળામાં ભેગાં થવું ને નીચેનું કશું ન દેખાવું",
+         "objective_id": "O4",
+         "key_terms": [],
+         "content": []
+        },
+        {
+         "concept_id": "M1.S2.T4.C5",
+         "concept_name": "તળાવનું પાણી શોષાઈ જવું — વસ્ત્રાપુરના તળાવની વાત",
+         "objective_id": "O4",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "નદીવાળું ટીપું કહે છે કે હવે એ કાળાંડિબાંગ (સાવ કાળાં) વાદળાંમાં ફસાયું છે; એટલું ઊંચે આવી ગયું છે કે નીચેનું કશું દેખાતું નથી અને પોતાની નદી ક્યાં હશે એની ખબર પડતી નથી. તળાવવાળું ટીપું તો રડમસ (રડવું આવી ગયું હોય એવા) અવાજે વારે વારે પોતાના ઘેર જવાનું કહે છે; એનું ઘર વસ્ત્રાપુરનું તળાવ છે. બીજું ટીપું એને સમજાવે છે કે ત્યાં હવે કોઈ નથી, એકલું જઈશ તો સાવ શોષાઈ જઈશ (પાણી ચુસાઈને ખૂટી જઈશ), એના કરતાં બધાં સાથે જ ક્યાંક જઈને પડીએ. પણ એ માનતું નથી — એને તળાવ સિવાય બીજે ક્યાંય ફાવતું નથી.",
+       "word_count": {
+        "original": 149
+       },
+       "key_terms": [
+        "કાળાંડિબાંગ — સાવ કાળાં, ઘોર કાળાં.",
+        "રડમસ — રડવું આવી ગયું હોય એવો; રડતાં રડતાં નીકળે એવો અવાજ.",
+        "શોષાઈ જવું — પાણી ચુસાઈ કે સુકાઈને ખૂટી જવું.",
+        "ફસાવું — બહાર નીકળી ન શકાય એમ ભરાઈ જવું.",
+        "ફાવવું — અનુકૂળ આવવું, ગમવું."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "M2",
+   "module_name": "વાદળ ક્યાં લઈ જાય અને વરસાદ કેવી રીતે પડે",
+   "segments": [
+    {
+     "segment_id": "M2.S3",
+     "segment_name": "પવન, ઠંડક અને વરસવાની બાર રીતો",
+     "topics": [
+      {
+       "topic_id": "M2.S3.T5",
+       "topic_name": "પવન લઈ જાય ત્યાં વાદળ, ઠંડક થાય એટલે વરસાદ",
+       "topic_type": "CONCEPT",
+       "topic_category": "transition",
+       "difficulty": "hard",
+       "depends_on": [
+        "M1.S2.T4"
+       ],
+       "objective_ids": [
+        "O5"
+       ],
+       "original_chunk": "‘‘પણ આપણને પૂછે છે કોણ ? મારેય મારા ઘેર જવું છે. આ વાદળું જ્યાં લઈ જાય ત્યાં જવાનું અને એ વાદળાનું પણ ક્યાં કશું ચાલે છે. એ પણ કહેતું હતું કે પેલા પવનકુમાર ફૂંક મારે ત્યાં જવાનું. જ્યાં હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરવાનું અને ઠંડક થાય એટલે ફરફર, ઝરમર, ટપટપ તો ક્યાંક ધોધમાર પડવાનું.’’",
+       "markers": [
+        "[[સંવાદ: તળાવવાળું ટીપું]]"
+       ],
+       "source_lines_00_normalized": "49",
+       "cut_boundary": "આખી લીટી ૪૯, ‘‘પણ આપણને પૂછે છે કોણ ?’ થી ‘...તો ક્યાંક ધોધમાર પડવાનું.’’’ સુધી. આ એક જ છાપેલો અવતરણ-વારો આખો તથ્ય-પગલું વહન કરે છે : વાદળનું પોતાનું કશું ચાલતું નથી → પવનકુમાર ફૂંક મારે ત્યાં જવાનું → જ્યાં હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરવાનું → ઠંડક થાય એટલે વરસવાનું.",
+       "concepts": [
+        {
+         "concept_id": "M2.S3.T5.C6",
+         "concept_name": "પવન લઈ જાય ત્યાં વાદળ, દબાણ ઘટે ત્યાં ઊતરાણ, ઠંડક થાય એટલે વરસાદ",
+         "objective_id": "O5",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "એક ટીપું કહે છે કે આપણને પૂછે છે કોણ — જવું તો બધાંને પોતાના ઘેર છે. વાદળું જ્યાં લઈ જાય ત્યાં જ જવાનું, અને વાદળાનું પોતાનું પણ કશું ચાલતું નથી. વાદળું જ કહેતું હતું કે પવનકુમાર (પવનને અપાયેલું નામ) ફૂંક મારે ત્યાં જવાનું, જ્યાં હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરવાનું, અને ઠંડક થાય એટલે વરસી પડવાનું — ક્યાંક ફરફર, ઝરમર કે ટપટપ (ટીપે ટીપે) તો ક્યાંક ધોધમાર (ભારે વરસાદ).",
+       "word_count": {
+        "original": 56
+       },
+       "key_terms": [
+        "પવનકુમાર — પવનને અહીં માણસનું નામ આપીને બોલાવ્યો છે; આ પાઠની રજૂઆતની રીત છે, ભૂલ નથી.",
+        "દબાણ — હવા જે ભાર કે જોર લગાવે તે.",
+        "ઠંડક — ગરમી ઓછી થઈને ઠંડું લાગવું તે.",
+        "ટપટપ — ટીપે ટીપે વરસાદ.",
+        "ધોધમાર — ભારે વરસાદ."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      },
+      {
+       "topic_id": "M2.S3.T6",
+       "topic_name": "વરસવાની બાર દેશી રીતો",
+       "topic_type": "CONCEPT",
+       "topic_category": "resolution",
+       "difficulty": "hard",
+       "depends_on": [
+        "M2.S3.T5"
+       ],
+       "objective_ids": [
+        "O6"
+       ],
+       "original_chunk": "‘‘આ વરસાદના ઇન્દ્રદેવ આપણને ક્યાં જઈને પડવું છે એ પૂછે તો કેટલું સારું, નહીં ?’’\n‘‘હા હા આપણે ઇન્દ્રદેવને જ કહીએ. ચાલો, એમની પાસે જઈએ.’’\n‘‘અરે, કોને ક્યાં પડવું છે? એ તો પહેલાં મનમાં નક્કી કરી લો. ઇન્દ્રદેવ આપણને પૂછે ને આપણે વિચાર કરતાં રહીએ. બધાં પહેલાં વિચાર કરી લો. ક્યાં પડવું છે?’’\n‘‘એ વાત સાચી. ચાલો વિચારો.’’\n‘‘અને કેવી રીતે પડવું છે એ પણ વિચારી લો.’’\n‘‘કેવી રીતે એટલે ?’’\n‘‘એટલે કે બાર રીતે વરસી શકાય છે. દરેકની મજા છે.’’\n‘‘બાર રીત કઈ કઈ ?’’\n‘‘જો, પહેલી રીત ફરફર કે ઝરમર.’’\n‘‘બીજી મને ખબર છે છાંટા. ત્રીજી ફોરાં.’’\n‘‘કરા થઈને પણ પડાય છે.’’\n‘‘પછેડિયો અને નેવાધાર પણ રીતો છે.’’\n‘‘મોલિયાની રીતે પણ પડાય છે. એ સારું કહેવાય છે.’’\n‘‘ઢેફાંભાંગ પણ એક રીત છે. એક બીજી રીત છે પણ તે મને યાદ નથી આવતી.’’\n‘‘અનરાધાર.’’\n‘‘એ તો ખરી જ. પણ આ પરથી એક બીજું નામ છે... અરધિયો.’’\n‘‘સાંબેલાધાર અને હેલી. થઈ ને બાર રીતો ! તો, દરેકે પોતાની રીત નક્કી કરવાની છે. પછી ઇન્દ્રદેવ પાસે જઈશું. ચાલો, તો બધાં નક્કી કરી લઈએ. ક્યાં પડવું અને કેવી રીતે પડવું.’’\n‘‘મને બધી રીત યાદ નથી આવતી. તો મારે શું કરવાનું ?’’\n‘‘યાદ આવે તે રીતે પડવાનું. સમજાયું ?’’",
+       "markers": [
+        "[[સંવાદ: ઇન્દ્રદેવ પાસે જવાનું અને વરસવાની બાર રીતો]]"
+       ],
+       "source_lines_00_normalized": "54-90",
+       "cut_boundary": "લીટી ૫૪ થી ૯૦ સુધી આખો ખંડ, ‘‘આ વરસાદના ઇન્દ્રદેવ...’ થી ‘યાદ આવે તે રીતે પડવાનું. સમજાયું ?’’’ સુધી. ઇન્દ્રદેવવાળો ટુકડો આ ખંડનો પ્રવેશ છે, અગાઉના ખંડની પૂંછડી નહીં; અને ફ્રેમનું સમાપન પણ આ જ ખંડની અંદર છે. બાર રીતોની આખી યાદી એક જ ટૉપિક — બાર એક-શબ્દી ટૉપિક કરવા એ કાપની ભૂલ છે (mahitiprad_gadya.md).",
+       "concepts": [
+        {
+         "concept_id": "M2.S3.T6.C7",
+         "concept_name": "વરસવાની બાર દેશી રીતોનાં નામ",
+         "objective_id": "O6",
+         "key_terms": [],
+         "content": []
+        },
+        {
+         "concept_id": "M2.S3.T6.C8",
+         "concept_name": "દરેકે ક્યાં પડવું ને કેવી રીતે પડવું તે પોતે નક્કી કરવાનું",
+         "objective_id": "O6",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "ટીપાં વિચારે છે કે વરસાદના ઇન્દ્રદેવ પોતાને પૂછે તો કેવું સારું, અને નક્કી કરે છે કે એમની પાસે જતાં પહેલાં દરેકે મનમાં નક્કી કરી લેવું — ક્યાં પડવું છે અને કેવી રીતે પડવું છે. પછી એ એકબીજાને વરસવાની બાર રીતોનાં નામ ગણાવે છે : ફરફર કે ઝરમર, છાંટા, ફોરાં, કરા, પછેડિયો, નેવાધાર, મોલિયો, ઢેફાંભાંગ, અનરાધાર, અરધિયો, સાંબેલાધાર અને હેલી. છેલ્લે એક ટીપું પૂછે છે કે એને બધી રીતો યાદ નથી આવતી તો શું કરવું, ને જવાબ મળે છે — યાદ આવે તે રીતે પડવાનું.",
+       "word_count": {
+        "original": 196
+       },
+       "key_terms": [
+        "ઇન્દ્રદેવ — વરસાદના દેવ.",
+        "પછેડિયો — પછેડી ઓઢવી પડે એવો વરસાદ.",
+        "નેવાધાર — છાપરાના નેવા ઉપરથી પાણી વહે એટલો વરસાદ.",
+        "મોલિયો — મોલ એટલે પાક; પાકને ઉપયોગી એવો વરસાદ.",
+        "ઢેફાંભાંગ — વરસાદની તીવ્રતાથી માટીનાં ઢેફાં ભાંગી જાય તેવો વરસાદ.",
+        "હેલી — સતત ચાલતો વરસાદ."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "not_cut_as_topics": [
+  "‘4    ટીપાંની સફર’ (લીટી ૩) અને ‘- સંકલિત’ (લીટી ૫) — છાપેલી મથાળા-પટ્ટીની સામગ્રી, વાચન-દૃશ્ય નથી. લેખક-સ્લોટમાં નામને બદલે ‘સંકલિત’ છપાયું છે, એટલે આ એકમમાં લેખક-પરિચય નથી અને તેથી કોઈ પરિચય-CONCEPT ટૉપિક પણ નથી. મથાળા પાસેનો QR-બૅજ header furniture છે.",
+  "[[પ્રવેશપેટી]] (લીટી ૭–૮) — વાદળી, શિક્ષક-સંબોધિત પેટી. પાના પરનો સૌથી મજબૂત સ્વરૂપ-સંકેત છે (‘આ વાર્તામાં જલચક્રને હળવી શૈલીમાં રજૂ કર્યું છે.’) અને એ જ વાક્ય mahitiprad_gadya.md પોતાના diagnosis-સંકેતોમાં ટાંકે છે, પણ એ apparatus છે : key_terms અને ભાષા-બોધને પોષે, ટૉપિક કદી નહીં. એની શિક્ષક-સૂચનાઓ (નાટ્યીકરણ, હાવભાવ સાથે વાચન) કોઈ explanation માં બોધ બનીને ન આવે.",
+  "[[ચિત્ર: વાદળમાં ભરાયેલાં સજીવ ટીપાં (પૃષ્ઠ 19)]] અને [[ચિત્ર: શહેરની ઇમારતો, તળાવ અને વરસતાં વાદળાં (પૃષ્ઠ 20)]] — mahitiprad_gadya.md મુજબ છાપેલાં ચિત્રો પાનાની સામગ્રી છે અને પોતાનો ટૉપિક કદી ખોલતાં નથી. પહેલું ચિત્ર T2/T3 ના વિસ્તારમાં અને બીજું T4 ના વિસ્તારમાં છપાયું છે — Agent 9 માટેની નોંધ, કાપ માટેની નહીં.",
+  "[[શબ્દાર્થ]] પેટી (લીટી ૯૨–૯૯), ચૌદ પ્રવેશ — પ્રાણવાયુ, ફરફર, ઝરમર, ટપટપ, ધોધમાર, કરા, ફોરાં, પછેડિયો, નેવાધાર, મોલિયો, ઢેફાંભાંગ, અનરાધાર, સાંબેલાધાર, હેલી. Apparatus : એ મુશ્કેલીનો પુરાવો છે, ગ્લોસનો સ્રોત છે, ટૉપિક નથી. mahitiprad_gadya.md નો Avoid #6 માગે છે કે T6 ના key_terms માં ઓછામાં ઓછો એક દેશી વરસાદ-શબ્દ ‘શબ્દ — અર્થ’ રૂપે આવે.",
+  "અગિયાર ક્રમાંકિત સ્વાધ્યાય-ખંડ — વાતચીત; નીચેના પ્રશ્નોના ઉત્તર લખો.; કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરીને પ્રશ્ન બનાવો.; નીચેના શબ્દોનો ઉપયોગ કરીને વાક્યો બનાવો.; નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.; નીચેના ફકરામાં કૌંસમાંથી બંધબેસતો શબ્દ મૂકી ફકરો ફરીથી લખો.; કૌંસમાંથી યોગ્ય શબ્દ પસંદ કરી ખાલી જગ્યા પૂરો.; જોડકાં જોડો.; જેને લિંગનો પ્રત્યય લાગ્યો હોય એવી સાત - સાત સંજ્ઞાઓ શોધીને લખો.; આ એકમમાંથી અવિકારી સંજ્ઞાઓની યાદી બનાવી કોઈ પણ પાંચ સંજ્ઞાઓનો વાક્યમાં પ્રયોગ કરો.; પ્રવૃત્તિ. એકેય ટૉપિક નથી — બધા 01_meta.json.exercise_inventory માં છે અને Agent 10 નો વિસ્તાર છે. પુસ્તકે ‘સ્વાધ્યાય’ બૅનર ક્યાંય છાપ્યું નથી; ખંડો ક્રમાંકિત ગુલાબી મથાળાં પરથી જ ઓળખાયા છે.",
+  "[[વ્યાકરણપેટી: સંજ્ઞાનાં લિંગ અને પ્રકાર]] (છાપેલું પાનું ૨૪) — પાઠાંતે છપાયેલી લીલી વ્યાકરણ-પેટી. વાચન-દૃશ્ય નથી, સ્વાધ્યાય નથી, ટૉપિક નથી; નવમો અને દસમો સ્વાધ્યાય-ખંડ સીધા એના પર આધારિત છે, એટલે Agent 10 એ એની જ વ્યાખ્યાઓ વાપરવી."
+ ],
+ "notes": [
+  "કાપ સ્વરૂપના એકમ પરથી લીધો છે, ટેવ પરથી નહીં : 01_meta.json નું explanation_unit ‘એક માહિતી-ખંડ’ છે, પ્રમુખ profile mahitiprad_gadya.md છે, અને એ profile તથા reference/explanation_unit_map.md બંને આ જ એકમને નામ દઈને લખે છે — ‘std-7 ch 4 ટીપાંની સફર walks the જલચક્ર’. છ ટૉપિક = Agent 1 એ પાના પરથી માપેલા છ માહિતી-ખંડ, છાપેલા ક્રમમાં.",
+  "AGENT 4 માટે — profile-prior સાથેનો એકમાત્ર ચોખ્ખો ફેર, અને એ પાનાના પક્ષે છે. agents/02_structure.md નો ‘એક marker, એક topic’ નિયમ આ એકમમાં લાગુ પડતો નથી : ચાર [[સંવાદ: …]] marker વક્તા બદલાય ત્યાં પડે છે, અને mahitiprad_gadya.md નો Avoid #2 (severity: hard, Agent 4 તપાસે છે) એ જ સીમાએ કાપવાની ના પાડે છે. 01_meta.json extraction_notes ૧૯ સ્પષ્ટ લખે છે કે એ ચાર marker ‘વાચન-ક્રમની નિશાનીઓ છે, કાપની નિશાનીઓ નથી’. કોઈ marker ગળી ગયો નથી — cut_summary.marker_to_topic_mapping માં દરેક marker કયા ટૉપિકમાં ગણાયો તે નોંધ્યું છે, અને દરેક ટૉપિકનું markers[] પોતે એ જાહેર કરે છે. છ ટૉપિક બત્રીસ અવતરણ-વારા કરતાં ચોખ્ખા ઓછા છે, એટલે Avoid #2 ની ગણતરી-કસોટી પણ પસાર થાય છે.",
+  "AGENT 4 માટે — બીજી ધ્યાન ખેંચતી વાત : M1.S1.T1 એવા છાપેલા વાચન-ફકરા પર બેસે છે જેની ઉપર 00_chapter_normalized.md માં કોઈ marker નથી (લીટી ૧૦). એ શોધેલો ટૉપિક નથી : Agent 1 ના પોતાના structure_inventory.mahiti_khand_note માં એ ‘(1) અષાઢનું આકાશ… પાણી ક્યાં ક્યાં હોય છે’ તરીકે પહેલો માહિતી-ખંડ ગણાયો છે, અને mahitiprad_gadya.md કહે છે કે ફ્રેમનું ઊઘડવું ખરો માહિતી-ખંડ છે અને એને topic_category ‘introduction’ મળે.",
+  "અગાઉના FAIL માંથી નીકળતી બધી મનાઈઓ પાળી છે (01_meta.json extraction_notes ૪) : (૧) એકેય ટૉપિક પર topic_category ‘climax’ નથી; (૨) module, segment, topic નાં નામ અને છએ objective તથ્ય પરથી ઉતાર્યાં છે — પાણી ક્યાં હોય છે, પાણી ઊંચે કેમ જાય છે, વાદળ ક્યાં લઈ જાય છે, વરસાદ ક્યારે પડે છે, વરસાદની બાર રીતો — કથા-આલેખ (લાચારી → પસંદગી, વળાંક, ઘરઝંખના) પરથી નહીં; (૩) એકેય objective ‘પાત્રે એમ કેમ કર્યું’ પૂછતું નથી; (૪) વક્તા બદલાય ત્યાં કાપ નથી; (૫) બાર રીતોની યાદી એક જ ટૉપિક (M2.S3.T6); (૬) દરિયાના અને નદીના ટીપાનું ઊંચે જવું એક જ ટૉપિક (M1.S2.T3).",
+  "topic_type : પાંચ ટૉપિક CONCEPT છે કારણ કે એ તથ્ય વહન કરે છે. એક જ ટૉપિક — M1.S2.T4 — STORY_TELLING છે, અને એ સભાન નિર્ણય છે : આખા એકમમાં એ એક જ જગ્યા છે જ્યાં ત્રીજા પુરુષનું કથન ખરેખર ફકરો ચલાવે છે (‘તળાવવાળું ટીપું તો આંસુનાં ટીપાં પાડવામાંથી ઊંચું નહોતું આવતું.’, ‘એક ટીપાએ એને સમજાવવાનો પ્રયત્ન કર્યો. પણ એ માને જ નહીં.’), તથ્ય માત્ર બોલીમાં નથી આવતું. 01_meta.json extraction_notes ૪.૭ આ જ પરવાનગી આપે છે — ‘STORY_TELLING માત્ર ત્યાં જ જ્યાં ફ્રેમ ખરેખર કથન કરે છે, અને એ પણ પ્રમુખ ન બને’ — અને છમાંથી એક પ્રમુખ નથી. એ ટૉપિકનું topic_category ‘core’ છે, ‘climax’ નહીં, અને એનાં બંને concept તથ્ય પર છે (વાદળમાં ભેગાં થવું; તળાવનું પાણી શોષાઈ જવું).",
+  "Objectives : છ ટૉપિક, છ objective, દરેકનું ઘર પોતાનો ટૉપિક અને anchor એ ટૉપિકના બધા concept. દરેક objective આ પાના પરના પોતાના શબ્દો પર ઊભું છે (ખાબોચિયું, પ્રાણવાયુ, ‘સાવ હલકાં થઈ ગયાં’, કાળાંડિબાંગ, ‘સાવ શોષાઈ જઈશ’, વસ્ત્રાપુરનું તળાવ, પવનકુમાર, હવાનું દબાણ, પછેડિયો, નેવાધાર, મોલિયો, ઢેફાંભાંગ) અને બીજા કોઈ એકમમાં બંધબેસે એવું નથી. બધાં lens ‘તથ્ય + પરંપરા + જિજ્ઞાસા’ ને સેવે છે : દરેક પોતાના પહેલા ભાગમાં એ ખંડનું તથ્ય કે પ્રક્રિયાનું પગલું નામ દે છે.",
+  "ધોરણ ૭ નો craft-label દરવાજો પળાયો છે : એકેય objective માં અલંકાર, છંદ, સમાસ કે સાહિત્યપ્રકારનું નામ નથી. આ એકમની ખરી કારીગરી — બોલતાં, રડતાં, ભાઈબંધ કહેતાં ટીપાં — સજીવારોપણ છે, પણ profiles/students/std-7.md §1 અને §2 એ નામ ધોરણ ૭ માં આપવાની ચોખ્ખી મનાઈ કરે છે (‘personification may appear in texts, treated as make-believe, not named’), એટલે એકેય objective એ નામ લેતું નથી અને એકેય objective બાળક પાસે નામ પડાવતું નથી. Agent 12 એ પણ એ કારીગરીને સુધારવાની નથી (mahitiprad_gadya.md Avoid #5).",
+  "O6 માં ‘બાર’ શબ્દ છે અને એ naming_conventions.md ના ‘no numbers in display text’ નિયમનો ભંગ નથી : એ નિયમ ક્રમાંકિત માળખાગત સંદર્ભો (‘ખંડ ૨માં’, ‘કડી 2’) ને રોકે છે, પાઠની પોતાની છાપેલી હકીકતને નહીં — mahitiprad_gadya.md ની Language પેટી આ ભેદ નામ દઈને લખે છે. પાનું પોતે ‘બાર રીતે વરસી શકાય છે’ અને ‘થઈ ને બાર રીતો !’ છાપે છે. બાકી કોઈ નામ કે objective માં આંકડો નથી.",
+  "Agent 5 માટે — એક જ છાપેલો અવતરણ-વારો બે ટૉપિકમાં વહેંચાયો છે : લીટી ૩૨. ગરમીથી ઊંચે જવાનું (M1.S2.T3) અને કાળાંડિબાંગ વાદળામાં ફસાવું (M1.S2.T4) — બે જુદાં તથ્ય-પગલાં એક જ વારામાં છે, અને mahitiprad_gadya.md ચોખ્ખું લખે છે : ‘a turn that carries two stages is split at the stage, not at the quote mark.’ કાપ ‘ઉપર ને ઉપર જવા માંડ્યાં.’ પછી છે. બંને ટુકડા જેમ છપાયા છે તેમ જ ઉતારવા — પોતાનું અવતરણચિહ્ન ઉમેરવું નહીં, ખૂટતું પૂરવું નહીં.",
+  "અસમાન ટૉપિક-લંબાઈ, નોંધ તરીકે (અટકાવ નથી) : M2.S3.T5 એક જ છાપેલો અવતરણ-વારો છે (લીટી ૪૯) જ્યારે M2.S3.T6 લીટી ૫૪ થી ૯૦ સુધી ફેલાય છે. બંને પોતપોતાનું આખું તથ્ય-પગલું વહન કરે છે, એટલે લંબાઈ સરખી કરવા માટે T6 ને તોડ્યો નથી — એને તોડવો એટલે બાર રીતોની યાદીને તોડવી, જેની profile ચોખ્ખી ના પાડે છે.",
+  "M2 માં એક જ segment છે. કારણ સામગ્રીનું છે, આળસનું નહીં : પાણીનું નીચે આવવું પાના પર એક જ સળંગ પટ્ટો છે — વાદળનું પવન સાથે જવું, દબાણ ઘટે ત્યાં ઊતરવું, ઠંડક થાય એટલે વરસવું, અને પછી વરસવાની રીતોનાં નામ. એને બે segment માં તોડતાં એક-ટૉપિકના segment બને, જે એકે ખરો સમૂહ બતાવતા નથી.",
+  "difficulty આ એકમની અંદર સાપેક્ષ છે અને ધોરણ ૭ ના બીજી-ભાષાના વાચકને પાના પર શું અટકાવે છે એના પરથી મૂકી છે, વિચારના કદ પરથી નહીં : T1 easy (ટૂંકો ફકરો, રોજિંદા શબ્દો); T2 અને T4 medium (પ્રાણવાયુ; કાળાંડિબાંગ, રડમસ, શોષાઈ જવું); T3 medium (લાંબા વારા, ‘અમારા તો રામ રમી ગયા’ જેવો રૂઢિપ્રયોગ, પણ પ્રક્રિયા બે વાર કહેવાય છે એટલે ટેકો મળે છે); T5 hard (‘હવાનું દબાણ ઓછું થાય’ જેવો અમૂર્ત ટુકડો અને એક જ વાક્યમાં ચાર રવાનુકારી શબ્દ); T6 hard (સાત-આઠ અજાણ્યા દેશી વરસાદ-શબ્દો એકસાથે — એકમનો સૌથી ભારે શબ્દભાર). difficulty ને Bloom ની ટોચ સાથે કશો સંબંધ નથી અને એ સહાય/ધોરણ/પ્રગત tier પણ નથી.",
+  "depends_on માં ખરી નિર્ભરતા જ નોંધી છે — પ્રક્રિયાની સાંકળ : T3 ને T1 જોઈએ (પાણી ક્યાં હતું તે જાણ્યા વગર એ ઊંચે કેમ ગયું એ ભણાવાય નહીં), T4 ને T3, T5 ને T4, T6 ને T5. T1 અને T2 ના [] છે : T2 દરિયાના પાણીનું બાજુનું તથ્ય-ઝૂમખું છે અને એને આગળના કશાની જરૂર નથી.",
+  "કોઈ પણ PNG રેન્ડર ખોલવો પડ્યો નથી : આખો કાપ, બધી સીમાઓ અને બધાં નામ 00_chapter_normalized.md માંથી નક્કી થયાં છે. original_chunk બધે ખાલી છે — એ Agent 5 નું કામ છે. concepts[] માં key_terms અને content ખાલી છે — એ Agent 7/12 નું કામ. આ ફાઇલમાં એકેય explanation, real_life_example, summary કે recall question લખાયું નથી.",
+  "Context routing : આ agent ના spec માં reference/naming_conventions.md, reference/phase2_contract.md અને profiles/students/std-7.md પણ inputs તરીકે ટાંક્યાં છે, જે RUN CONTEXT ની policy-યાદીમાં નહોતાં. ત્રણેય disk પર હાજર હતાં, આખાં વાંચ્યાં અને સીધાં લાગુ કર્યાં (id-વ્યાકરણ, objectives-registry નું આકાર, ધોરણ ૭ નો craft-label દરવાજો); એકેયની સામગ્રીનો અંદાજ લગાવ્યો નથી. profiles/genres/_genre_index.md સીધું વાંચ્યું નથી, જેમ RUN CONTEXT કહે છે.",
+  "Agent 5 pass. Ids, topic_name, topic_type, topic_category, difficulty, depends_on, objective_ids, markers, source_lines_00_normalized, cut_boundary, concepts, objectives, strand_to_objective_map, cut_summary and not_cut_as_topics are passed through from 02_structure.json untouched; only original_chunk, modified_chunk, word_count, key_terms and the four content-type fields were written.",
+  "04_converged.json carries no structure payload — it is a convergence record pointing at 02_structure.json (sha256 2a4df0ba9d894db60827239935b7d02dae20344830d558888181ea950d229ed5). The structure was therefore read from 02_structure.json, as that record instructs, and the sha256 was re-computed and matched before anything was attached.",
+  "concepts[].key_terms is left as the empty array Agent 2 set. reference/shabd_gloss.md and agents/05_verbatim_attachment.md put the 3–6 band on the TOPIC's key_terms; the concept-level array is not this agent's field."
+ ],
+ "verbatim_notes": [
+  "original_chunk is copied line-for-line out of 00_chapter_normalized.md and then verified against the shared 150 dpi renders: _renders/page-1.png (printed folio 19 → T1, T2 and the opening hook line of T3), page-2.png (folio 20 → the rest of T3, T4, T5) and page-3.png (folio 21 → T6). This is ગદ્ય in dialogue, so the spec's prose rule was applied — the first and last printed line of every chunk was read off the pixels, plus every line carrying an unusual printed form. No page was re-rendered.",
+  "No transcription defect was found. Every printed oddity Agent 1 recorded in extraction_notes 14 survives unchanged in the chunks and was re-confirmed on the render: ‘કાળાંડિબાંગ વાદળાંમાં’ with both અનુસ્વાર in the reading text (T4); ‘એ બોલ્યું;’ with a semicolon where the sea drop's tie has a comma (T3); ‘44 ડિગ્રી’ printed in Roman digits, not Gujarati ones (T3); and the two question marks printed WITHOUT the book's usual preceding space — ‘કોને ક્યાં પડવું છે?’ and ‘ક્યાં પડવું છે?’ in T6, beside spaced ‘કેવી રીતે ?’ everywhere else. None of these was repaired, regularised or reported as an error, because none of them is one.",
+  "The split of printed line 32 was made exactly where Agent 2's cut_boundary instructs, at the fact-step seam after ‘ઉપર ને ઉપર જવા માંડ્યાં.’ It is a single printed quoted turn, so T3's tail opens with ‘‘ and carries NO closing ’’, and T4's head carries no opening ‘‘ and closes with ’’. No quotation mark of my own was added on either side, and no word of that turn is dropped or copied twice.",
+  "Punctuation and script: the chunks carry the book's spaced ? and !, its doubled-single quotation marks ‘‘…’’, its ‘...’ ellipsis in ‘એક બીજું નામ છે... અરધિયો.’ and the GSEB full stop. The Devanagari daṇḍa U+0964 does not occur anywhere in this file, and no Devanagari character appears in any field. The only Roman characters in a Gujarati field are the printed digits of ‘44 ડિગ્રી’, which are on the page.",
+  "Line structure: a chunk is its printed paragraphs. Each printed dialogue turn is its own line inside original_chunk, joined with a single newline — no turn was reflowed into its neighbour and no blank line was carried in. T6 is nineteen printed turns and is nineteen lines.",
+  "All [[…]] markers were stripped and none entered any chunk: the six [[પૃષ્ઠ …]] lines, the printed title strip ‘4    ટીપાંની સફર’ and ‘- સંકલિત’, [[પ્રવેશપેટી]], the four [[સંવાદ: …]] reading-order markers, the two [[ચિત્ર: …]] lines, [[શબ્દાર્થ]], the eleven [[સ્વાધ્યાય: …]] blocks and the chapter-final [[વ્યાકરણપેટી: …]].",
+  "No attribution or source line was dropped, because the chapter prints none at the foot of the text. The credit slot reads ‘- સંકલિત’ and sits under the printed title bar on folio 19, above the first reading paragraph; Agent 2 recorded it in not_cut_as_topics, so it belongs to no topic's original_chunk. There is no લેખક-પરિચય, no છાપ and no source note in this unit.",
+  "key_terms follow reference/shabd_gloss.md at the std-7 row (4–6 per topic, all six topics sit inside the band). Where the chapter's own શબ્દાર્થ box glosses a word, the box's wording is used verbatim — પ્રાણવાયુ (T2), ટપટપ and ધોધમાર (T5), પછેડિયો, નેવાધાર, મોલિયો, ઢેફાંભાંગ and હેલી (T6) — which satisfies mahitiprad_gadya.md's Avoid #6 that at least one દેશી rain word reach key_terms as ‘શબ્દ — અર્થ’, glossed in the book's own words. The box has fourteen entries and was NOT emptied into the field: ફરફર, ઝરમર, કરા, ફોરાં, અનરાધાર and સાંબેલાધાર stay in the box. The rest of the list is the L2 Ring-2 recalibration — ખાબોચિયું, ભાઈબંધ, સપાટી, અધ્ધર, ડુંગર, મેદાન, રડમસ, ફાવવું — words a first-language pack would wave through.",
+  "પવનકુમાર is glossed as the text's own way of speaking — named as a device NOWHERE, per the std-7 craft-label gate in qc_checklist.md §C and profiles/students/std-7.md §1–§2 — rather than corrected, per extraction_notes 6 and mahitiprad_gadya.md Avoid #5: no chunk or modified_chunk says the drops do not really talk, and no scientific term the page does not print — બાષ્પીભવન, ઘનીકરણ, જલચક્ર — appears in any child-facing field. The book's own words are used instead: ‘સાવ હલકાં થઈ ગયાં’, ‘અધ્ધર’, ‘હવાનું દબાણ ઓછું થાય’, ‘ઠંડક થાય એટલે’. ‘વસ્ત્રાપુરનું તળાવ’ is kept by name (extraction_notes 17).",
+  "modified_chunk is a two-to-four-sentence ‘શું થઈ રહ્યું છે’ seed with the hardest words glossed in brackets at the point of use. It carries no explanation, no અલંકાર naming, no real-life link and no બોધ — those are Agent 12's. No numeral appears in it: ‘બાર રીતો’ is written as a word, and the printed ‘44 ડિગ્રી’ is left in the verbatim only.",
+  "Content types: all six topics are reading scenes carrying printed teaching text, and mahitiprad_gadya.md's Media prior is ‘one image per માહિતી-ખંડ’ — the six topics ARE Agent 1's six measured માહિતી-ખંડ — so every topic sets primary_content_type ‘image’ with available_content_types [‘image’] and null secondary and tertiary. The chapter prints two of these scenes itself (extraction_notes 16): the living droplets filling the cloud on folio 19 and the city, lake and raining clouds on folio 20. The single permitted 2d_tool the same prior mentions is Agent 9's call, not declared here.",
+  "RE-RUN after QC failure — one blocker, one field changed, nothing else touched. §C craft gate (hard): M2.S3.T5.key_terms[0] carried a named અલંકાર in a child-facing string. Second clause only was replaced — ‘આ સજીવારોપણ છે, ભૂલ નથી.’ → ‘આ પાઠની રજૂઆતની રીત છે, ભૂલ નથી.’ — using the wording A12 filed in 12_authoring.json notes[3]. The first clause (‘પવનને અહીં માણસનું નામ આપીને બોલાવ્યો છે’) is correct and stands: the craft is still taught, it is simply not labelled, which is what author.md §4 and the std 9 grade ladder require. The gloss now reads the same way A12's explanation and concept_bullets for T5 already read. Verified against the render before editing: page-2.png (folio 20, last paragraph) prints ‘પેલા પવનકુમાર ફૂંક મારે ત્યાં જવાનું’ — the original_chunk matches the page and was NOT altered. No other field in this file changed: word_count, original_chunk, modified_chunk, the other four key_terms of T5, all five other topics, ids, names, objectives, structure and the content-type fields are byte-identical to the previous run. A grep of this file for સજીવારોપણ / અલંકાર / રૂપક / personification now returns hits only inside this notes[] array (mechanism prose, dropped at merge) — zero child-facing hits. figures_of_speech is not this agent's field and remains [] on all six topics. 05b_textbook_order.json is unchanged in content and was re-emitted verbatim."
+ ]
+}

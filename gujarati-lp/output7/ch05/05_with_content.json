@@ -1,0 +1,333 @@
+{
+  "chapter_id": "gseb_eng_gujarati7_ch5",
+  "plan_id": "gseb_eng_gujarati7_ch5_v1",
+  "grade": 7,
+  "chapter_name": "આપણે ભરોસે",
+  "genre": "ઊર્મિકાવ્ય-ગીત",
+  "active_genre_profiles": [
+    "urmikavya_geet.md"
+  ],
+  "teaching_lens": "ચિત્ર + ભાવ + લય",
+  "guiding_question": "વહાણ, સઢ અને સુકાનનું ચિત્ર બતાવીને કવિ 'આપણે જ આપણે છઈએ' એ વાત સુધી કઈ રીતે લઈ જાય છે ?",
+  "explanation_unit": "એક કડી",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શરૂઆતની ગવાતી પંક્તિઓમાં કવિ કયા હાથને ઝાલવાનું કહે છે તે શોધીને, એ જ પંક્તિ ફરી ફરી ગવાય ત્યારે અવાજમાં શું થાય તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પહેલી કડીમાં એકતારો લઈને ગાનારનું ચિત્ર કઈ પંક્તિમાં આવે છે તે શોધીને, કવિ એ ભરોસાને ખોટો કેમ કહે છે તે પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બીજી કડીમાં કવિ બાહુમાં અને હૈયામાં શું ભરવાનું કહે છે તે શોધીને, વહાણનાં સઢ-સુકાન કોના હાથે રહે તે કહેવું, ને પોતે જાતે કરેલું એક કામ કહેવું.",
+      "bloom_level": "Apply",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": [
+        "M2.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ત્રીજી કડી ડુબાડનાર, ઉગારનાર અને સામે પાર લઈ જનાર વિશે જે પ્રશ્નો પૂછે છે તે ગણાવીને, છેલ્લી પંક્તિ એનો શો જવાબ આપે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": [
+        "M2.S2.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "મહેનતનો હાથ ને એકતારાનો સૂર",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "કયો હાથ ઝાલવો",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "મહેનતના હાથને ઝાલીએ",
+              "topic_type": "POEM",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "આપણે ભરોસે આપણે હાલીએ,\nહો ભેરુ મારા, આપણે ભરોસે આપણે હાલીએ...\nએક મહેનતના હાથને ઝાલીએ.\nહો ભેરુ મારા, આપણે ભરોસે આપણે હાલીએ...",
+              "source_markers": [
+                "[[ટેક]]"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "ભેરુને સાદ ને મહેનતના હાથનો સથવારો",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "ગીતની શરૂઆતની ગવાતી પંક્તિઓમાં કવિ પોતાના ભેરુ (દોસ્ત)ને સાદ પાડે છે અને કહે છે કે આપણે આપણા પોતાના ભરોસે હાલીએ (ચાલીએ). વચ્ચેની પંક્તિમાં એ કહે છે કે એક મહેનતના હાથને ઝાલીએ, એટલે કે મહેનતનો હાથ પકડીએ. 'હો ભેરુ મારા, આપણે ભરોસે આપણે હાલીએ...' એ પંક્તિ બે વાર છપાઈ છે અને ત્રણ ટપકાં સાથે અધૂરી છોડી છે, જેથી ગાનાર એને પૂરી કરે.",
+              "word_count": {
+                "original": 22,
+                "modified": 61
+              },
+              "key_terms": [
+                "ભરોસો — વિશ્વાસ, કોઈના પર મુકાતી શ્રદ્ધા",
+                "હાલીએ — ચાલીએ; 'ચાલવું' માટેનું તળપદું રૂપ, ભૂલ નથી",
+                "ભેરુ — દોસ્ત, ભાઈબંધ (તળપદો શબ્દ)",
+                "ઝાલીએ — પકડીએ, હાથમાં લઈએ",
+                "મહેનત — શ્રમ, જાતે કરેલું કામ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "એકતારે ગવાતો ઉછીનો ભરોસો",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "ખુદનો ભરોસો જેને હોય નહીં રે તેને\nખુદાનો ભરોસો નકામ;\nછો ને એ એકતારે ગાઈ ગાઈને કહે,\n'તારે ભરોસે રામ !'\nએ તો ખોટું રે ખોટું પિછાણીએ, - હો ભેરુ.",
+              "source_markers": [
+                "[[કડી 1]]"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "ખુદનો ભરોસો ન હોય ત્યાં ગવાયેલું ગાન",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "કવિ કહે છે કે જેને ખુદનો એટલે કે પોતાના પરનો ભરોસો ન હોય, તેને માટે ખુદાનો ભરોસો પણ નકામ છે. પછી એ એક ચિત્ર આપે છે — છો ને એવો માણસ એકતારો લઈને, ગાઈ ગાઈને 'તારે ભરોસે રામ !' એમ કહ્યા કરે. કડીની છેલ્લી પંક્તિમાં કવિ કહે છે કે એ વાત ખોટી છે એમ પિછાણીએ, ઓળખી લઈએ. પંક્તિને છેડે ટેકનું ટૂંકું છાપેલું રૂપ '- હો ભેરુ.' આવે છે.",
+              "word_count": {
+                "original": 30,
+                "modified": 68
+              },
+              "key_terms": [
+                "ખુદ — પોતે, જાત",
+                "ખુદા — ઈશ્વર; ફારસી-અરબીમાંથી ગુજરાતીમાં આવેલો શબ્દ",
+                "નકામ — 'નકામું'; કવિએ લય સાચવવા શબ્દનું રૂપ ટૂંકાવ્યું છે, ભૂલ નથી",
+                "એકતારો — એક જ તારવાળું ગાવાનું વાદ્ય; અહીં 'એકતારે' એટલે એકતારો વગાડતાં વગાડતાં",
+                "છો ને — 'ભલે ને'; ગીતના લયનું રૂપ છે",
+                "પિછાણીએ — ઓળખીએ, ઓળખી લઈએ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "દરિયા વચ્ચે ઝુકાવેલું વહાણ",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "સુકાન કોના હાથમાં",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "બાહુમાં બળ, હૈયામાં હામ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "બળને બાહુમાં ભરી, હૈયામાં હામ ધરી.\nસાગર મોઝારે ઝુકાવીએ;\nઆપણા વહાણનાં સઢ ને સુકાનને\nઆપણે જ હાથે સંભાળીએ, - હો ભેરુ.",
+              "source_markers": [
+                "[[કડી 2]]"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "સઢ ને સુકાન પોતાને હાથે સંભાળવાં",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "કવિ કહે છે કે બાહુમાં બળ ભરીને અને હૈયામાં હામ ધરીને સાગર મોઝારે એટલે દરિયાની વચ્ચે વહાણ ઝુકાવીએ. પછીની બે પંક્તિમાં એ કહે છે કે આપણા વહાણનાં સઢ અને સુકાન આપણે જ આપણા હાથે સંભાળીએ. કડી પણ ટેકના ટૂંકા રૂપ '- હો ભેરુ.' પર પૂરી થાય છે.",
+              "word_count": {
+                "original": 21,
+                "modified": 47
+              },
+              "key_terms": [
+                "બાહુ — હાથ, બાવડું",
+                "હૈયું — હૃદય, ઉર",
+                "હામ — હિંમત",
+                "મોઝારે — મધ્યે, વચ્ચે; 'સાગર મોઝારે' એટલે દરિયા વચ્ચે — જૂનું કાવ્ય-રૂપ છે, ભૂલ નથી",
+                "સઢ — વહાણનું મોટું કપડું, જેમાં પવન ભરાય ને વહાણ ચાલે",
+                "સુકાન — જેને મરડવાથી વહાણની દિશા બદલે છે તે સાધન"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "સામે પાર લઈ જનારો કોણ",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T1",
+                "M2.S2.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "કોણ રે ડુબાડે વળી કોણ રે ઉગારે,\nકોણ લઈ જાય સામે પાર;\nએનો કરવૈયો કો આપણી બહાર નહીં,\nઆપણે જ આપણે છઈએ, - હો ભેરુ.",
+              "source_markers": [
+                "[[કડી 3]]"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C4",
+                  "concept_name": "કરવૈયો આપણી બહાર નહીં",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "કવિ પહેલી બે પંક્તિમાં ત્રણ સવાલ પૂછે છે — કોણ ડુબાડે, કોણ ઉગારે અને કોણ સામે પાર લઈ જાય. પછીની પંક્તિમાં એ પોતે જ જવાબ આપે છે કે એનો કરવૈયો કો આપણી બહાર નથી. છેલ્લી પંક્તિ 'આપણે જ આપણે છઈએ' પર આવીને અટકે છે અને પછી '- હો ભેરુ.' આવે છે.",
+              "word_count": {
+                "original": 25,
+                "modified": 51
+              },
+              "key_terms": [
+                "ડુબાડે — ડુબાવે, પાણીમાં ડુબાડી દે",
+                "ઉગારે — બચાવે, ડૂબતાં બહાર કાઢે",
+                "સામે પાર — સામેનો કિનારો",
+                "કરવૈયો — કરી જાણનારો, કરનારો",
+                "કો — 'કોઈ'; લય સાચવવા કવિએ વાપરેલું ટૂંકું રૂપ, ભૂલ નથી",
+                "છઈએ — 'છીએ'; ગીતના લયનું જૂનું રૂપ છે, ભૂલ નથી"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "marker_accounting": {
+    "reading_text_markers_in_00": {
+      "[[ટેક]]": 1,
+      "[[કડી 1]]": 1,
+      "[[કડી 2]]": 1,
+      "[[કડી 3]]": 1
+    },
+    "topics_created": 4,
+    "tek_distinct_wordings": 1,
+    "topics_carrying_tek_marker": 1,
+    "tek_home_topic_id": "M1.S1.T1",
+    "non_topic_markers": [
+      "[[પ્રવેશપેટી (વાદળી ખાનું — શિક્ષકને સંબોધીને; સ્વાધ્યાય નથી)]] — apparatus, teacher-addressed; feeds key_terms and ભાષા-બોધ only",
+      "[[શબ્દાર્થ]] — apparatus / gloss furniture; feeds key_terms and point-of-use glosses",
+      "[[સ્વાધ્યાય: …]] ×13 — exercise_inventory in 01_meta.json, Agent 10 only"
+    ]
+  },
+  "notes": [
+    "ટેક handling, per urmikavya_geet.md's Agent-4 gate and 01_meta.json (tek_words_changed=false): the refrain's words never change, so exactly ONE topic carries the ટેક — M1.S1.T1 — and every later કડી topic lists M1.S1.T1 in depends_on. There is exactly one [[ટેક]] marker in 00_chapter_normalized.md and exactly one topic carries it. The refrain is taught once and referenced afterwards, never re-taught three more times.",
+    "JUDGEMENT, recorded for Agent 4: the opening four-line [[ટેક]] block is cut as its own topic (M1.S1.T1), separate from કડી 1. Agent 1 explicitly left this decision to Agent 2 ('The opening four lines are the ટેક block, NOT a કડી … Agent 2 decides whether the ટેક block forms its own unit'). Reason from the page: the block stands above and apart from the three કડી, it is not counted in structure_inventory.kadi (which is 3), and it carries a picture of its own that no કડી repeats — 'એક મહેનતના હાથને ઝાલીએ.' It is a reading scene, not a repetition to fold away. Consequence: topic count is 4 while structure_inventory.kadi is 3.",
+    "Refrain shorthand, for Agent 5: 01_meta.json records tek_occurrences=5 — the full line twice inside the opening ટેક block, and the printed shorthand '- હો ભેરુ.' closing each of the three કડી. Agent 1 kept the shorthand INSIDE each કડી's last line rather than emitting a separate marker for it, so the three shorthand returns are not topics and are not counted above. original_chunk must reproduce '- હો ભેરુ.' exactly as printed at the end of each કડી topic; expanding it to the full refrain line is a verbatim defect (urmikavya_geet.md avoid list).",
+    "No pre-reading opener topic, no CONCEPT topic and no REVIEW topic exist in this chapter. The blue પ્રવેશપેટી on printed p. 25 is teacher-addressed apparatus (spec §1, global_content_rules.md) and 01_meta.json's own marker line labels it 'શિક્ષકને સંબોધીને; સ્વાધ્યાય નથી'; the શબ્દાર્થ box is gloss furniture; વાતચીત is numbered exercise block one in exercise_inventory. Std 7 prints no unlabelled કવિ-પરિચય paragraph for the student (that is a std-10 shape), so the byline '- પ્રહ્લાદ પારેખ' is a byline only. No in-text wrap is printed, so nothing is REVIEW.",
+    "No page-versus-prior conflict. The profile prior for ઊર્મિકાવ્ય-ગીત is 'one કડી per topic' and the rendered page shows exactly three કડી around one unchanging refrain; urmikavya_geet.md and explanation_unit_map.md both name this very chapter's '- હો ભેરુ.' as the identical-refrain case. The page and the table agree.",
+    "Craft-label ceiling honoured: no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text — no form word at all is used, not even 'ગીત' (which the printed પ્રવેશપેટી does carry, so it would have been permissible). The objectives ask the child to notice which hand, which picture, whose hands, and what the last line answers — never to name a device. Downstream, per profiles/students/std-7.md §2, figures_of_speech[] stays [] for every topic here; that is a complete answer, not a gap. The પ્રાસ this poem carries inside each કડી (હાલીએ / ઝાલીએ / પિછાણીએ, ઝુકાવીએ / સંભાળીએ, ઉગારે / પાર / છઈએ) is available to Agent 12 as a sound observation without a label.",
+    "difficulty is set by what stops an A2 second-language reader on THIS page, not by size of idea. M1.S1.T1 is 'easy': four short lines, two of them identical, and only હાલીએ and ભેરુ are તળપદાં. M1.S1.T2 is 'hard': it is the longest કડી (five printed lines), it carries the chapter's most abstract move (ખુદનો ભરોસો → ખુદાનો ભરોસો નકામ), an unfamiliar object-world word (એકતારો, not in the printed શબ્દાર્થ box), and the constructions 'છો ને' and 'પિછાણીએ'. M2.S2.T3 and M2.S2.T4 are 'medium': both carry glossed sailing and dialect words (મોઝારે, સુકાન, હામ, કરવૈયો, છઈએ) but their sentences are short and the printed શબ્દાર્થ box already lifts five of them. No topic is hard for craft, per the std 6–7 row of the spec's table.",
+    "Module cut follows the poem's own two movements, which 01_meta.json's genre_signals record: M1 holds the call and what it turns away from (the hand of મહેનત to hold; the એકતારો singer whose borrowed trust the poet calls ખોટું); M2 holds the single sustained sea picture that the rest of the poem is built out of (બળ, હામ, સાગર, વહાણ, સઢ, સુકાન — then ડુબાડે, ઉગારે, સામે પાર). M2.S2.T4 is tagged 'climax' because the picture resolves in the poem's last line, 'આપણે જ આપણે છઈએ', which is also what the chapter's own guiding_question aims at.",
+    "Segments group topics that belong together rather than one-per-topic: M1.S1 holds the sung call and the કડી that answers it from the opposite side; M2.S2 holds the two કડી of the one boat-picture, where કડી 3's ડુબાડે / ઉગારે / સામે પાર has no scene of its own without કડી 2's વહાણ. Segment counter runs across the chapter and does not restart (M1.S1, M2.S2); concept counter is chapter-continuous and equals the topic number throughout (C1…C4), per phase2_contract.md rule 4.",
+    "depends_on carries real dependence only. Three topics list M1.S1.T1 because the identical-ટેક gate requires it — each કડી ends in the shorthand that only M1.S1.T1 has taught. M2.S2.T4 additionally lists M2.S2.T3 because its three questions are asked about the boat and the sea that કડી 2 put on the water; read alone, 'કોણ લઈ જાય સામે પાર' has no vessel. Agent 14 must translate all of these references if it renumbers.",
+    "SENSITIVITY, carried forward from 01_meta.json for Agents 5, 7, 8 and 12: M1.S1.T2 (કડી 1) dismisses passive reliance using both a Muslim and a Hindu name — 'ખુદાનો ભરોસો નકામ' and the quoted 'તારે ભરોસે રામ !'. O2 is deliberately written on the એકતારો-singer PICTURE and on the poem's own word ખોટું, and names neither divine name, so the objective keeps the teaching on શ્રમ-મહિમા and આત્મબળ. Per global_content_rules.md rule ten this કડી must never become a lesson about faith, and the એકતારો and its singer are presented with dignity.",
+    "Uneven topic length, flagged not blocking: M1.S1.T1 holds four printed lines, M1.S1.T2 five, and M2.S2.T3 and M2.S2.T4 four each (01_meta.json lines_per_kadi = [5,4,4]). The genre profile allows a કડી-unit to join or split on content; no join or split was needed here, and no કડી was merged or divided.",
+    "Two-column read-down hazard does not apply: Agent 1 recorded the verse as single-column throughout, set in the left half of the full-page boat watercolour on printed p. 25. No render was opened by this agent — 00_chapter_normalized.md and 01_meta.json answered every structural question.",
+    "chapter_id and plan_id are copied from 01_meta.json and remain PROVISIONAL (VERIFY-1: the 'gseb' board segment and the 'eng' medium segment are unconfirmed against the live server)."
+  ],
+  "convergence": {
+    "source": "04_converged.json",
+    "converged": true,
+    "verdict": "pass",
+    "structure_sha256": "6342825ae0a0e5ad13f8292d91c102b18d145c0f68f2625eef213be8800dfc6e",
+    "note": "04_converged.json is a convergence record that does not duplicate the structure payload; this file therefore carries the 02_structure.json payload it blessed, with Agent 5's fields added. Ids, names, objectives, concepts, depends_on, marker_accounting and Agent 2's notes[] are passed through untouched."
+  },
+  "agent05_notes": [
+    "VERBATIM PROVENANCE. Every original_chunk is copied character-for-character out of 00_chapter_normalized.md (block extraction, not retyping) and then verified line by line against _renders/page-1.png, printed folio 25, read at 4x LANCZOS upscale of four separate crops (the ટેક block, and each of the three કડી). All four blocks matched: line count, line breaks, અનુસ્વાર, ળ/લ, the ; and . line-ends, the space before '!', and the printed refrain shorthand.",
+    "TRANSCRIPTION DEFECT FOUND, NOT PATCHED (Agent 1 owns the fix). Printed folio 25 sets the quoted line inside typographic single quotes — ‘તારે ભરોસે રામ !’ (U+2018 … U+2019). 00_chapter_normalized.md writes it with ASCII apostrophes ('તારે ભરોસે રામ !'). Per agents/05_verbatim_attachment.md §0 a mismatch is Agent 1's defect and is reported, never silently repaired, so M1.S1.T2's original_chunk carries the ASCII form exactly as 00 has it. Gujarati letters, માત્રા, અનુસ્વાર, spacing and the space before '!' are all correct; the deviation is the quote glyph only. If Agent 1's file is corrected, this chunk must be re-copied.",
+    "REFRAIN SHORTHAND KEPT AS PRINTED. '- હો ભેરુ.' closes M1.S1.T2, M2.S2.T3 and M2.S2.T4 exactly as the page prints it, inside the કડી's last line. It is NOT expanded into 'હો ભેરુ મારા, આપણે ભરોસે આપણે હાલીએ...' — that expansion belongs to Agent 12's explanation (urmikavya_geet.md, avoid list). The two full refrain lines in the ટેક block keep their printed three-dot ellipsis.",
+    "ATTRIBUTION LINE. This chapter prints NO end-of-poem attribution line and no source note. The poet's name appears only in the page's title masthead, printed under the chapter title and above the blue પ્રવેશપેટી, as '- પ્રહ્લાદ પારેખ'. Attaching it to the last topic's original_chunk would place text where the page does not print it, so it is not attached and its absence is recorded here rather than filled in. Agent 2's own note reaches the same reading ('the byline is a byline only').",
+    "VERSE FORMS LEFT AS THE POET WROTE THEM, glossed instead of corrected: હાલીએ, ભેરુ, ઝાલીએ, નકામ, છો ને, પિછાણીએ, મોઝારે, કો, છઈએ, and the લય-carrying રે. Note that the poem's own last line prints છઈએ while the સ્વાધ્યાય's MCQ (printed folio 26) quotes the same line as છીએ, and the same block prints કો' with an apostrophe where the poem prints કો; the verse text on folio 25 is what original_chunk carries, and the exercise's spellings belong to Agent 10.",
+    "KEY TERMS. Six per topic for the three કડી and five for the ટેક — the std-7 row of reference/shabd_gloss.md sits 4–6, and the L2 bar is applied: બાહુ, સઢ, ઝાલીએ and ડુબાડે/ઉગારે are glossed although a first-language pack would wave them through. The printed શબ્દાર્થ box (folio 26: હૈયું, હામ, સાગર, મોઝારે, સુકાન, કરવૈયો) is used as evidence of what stopped the editor, not copied wholesale — સાગર is left out as Ring-1, and એકતારો, છો ને, પિછાણીએ, કો and છઈએ, which the box omits, are glossed because they stop the child. Every કાવ્ય-રૂપ is named as લય and never as an error. No રૂઢિપ્રયોગ, સમાનાર્થી or વ્યાકરણ material entered key_terms.",
+    "MODIFIED CHUNK is a plain 'શું થઈ રહ્યું છે' restatement only, two to four sentences, with the hardest words glossed inline. No ભાવ reading, no બોધ, no અલંકાર, no real-life link and no exhortation — those are Agent 12's, and the slogan gate in urmikavya_geet.md bites on this chapter's કડી 2 and કડી 3 in particular.",
+    "CONTENT TYPES. All four topics are reading scenes of the poem, so each is primary_content_type 'image' with available_content_types ['image'] — one image per કડી, per the genre profile's media prior. secondary and tertiary are null everywhere; no second medium and no 2d_tool is planned by this agent.",
+    "SENSITIVITY carried forward untouched from Agents 1–2: M1.S1.T2 names ખુદા and quotes 'તારે ભરોસે રામ !'. The gloss for ખુદા says only 'ઈશ્વર' and names the word's origin; nothing in this file frames the કડી as being about faith, and the એકતારો singer is described as a picture the poem paints, with dignity.",
+    "NOT WRITTEN BY THIS AGENT, by spec: explanation, real_life_example, summaries, figures_of_speech, recall_questions, media, difficult_words, exercise answers. concepts[].key_terms and concepts[].content are left as Agent 2 set them (empty) — the topic-level key_terms field is Agent 5's declared output, not the concept-level one."
+  ]
+}

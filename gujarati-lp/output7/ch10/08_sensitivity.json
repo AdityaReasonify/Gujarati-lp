@@ -1,0 +1,32 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "areas": ["સમુદાય"],
+      "caution": "The line 'દગડુ આહીરના ઘરમાં' names the family as આહીર; the explanation could drop the name into a generic 'farmer's family' or, worse, turn it into a lesson about caste rather than about the family's affection and contentment (સંતોષી પરિવાર).",
+      "guidance": "Keep 'આહીર' stated plainly where the text states it, and keep the explanation's real weight on ઉલ્લાસ and the family's love for ગોલુ and ગોરિયો, not on the community label itself.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M3.S4.T6",
+      "areas": ["ક્ષેત્ર", "સુરક્ષા"],
+      "caution": "ગોલુ getting up alone at night, lifting a full 'બાલદી' 'મહામુશ્કેલીએ', and laying wet 'કોથળા' (કંતાનના) on ગોરિયાની પીઠ reads, out of context, either as a home remedy a child should copy alone after dark, or as a magical cure rather than simple physical cooling.",
+      "guidance": "The explanation and real_life_example should show this as ગોલુની ચિંતા and care in the story's own terms (a wet cloth cools a fever) while making clear a child does this kind of night-time task with a grown-up, not alone — never present the wet-sack act as an instruction to imitate solo.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M3.S5.T7",
+      "areas": ["ક્ષેત્ર"],
+      "caution": "The word 'ચમત્કાર' at the recovery could be explained as the wet sacks being a magical cure that replaces the ડૉક્ટરની દવા, or, in the opposite direction, as ગોલુની care being dismissed as mere superstition next to 'real' medicine.",
+      "guidance": "Keep both voices the text itself keeps — the doctor's medicine and ગોલુની ભીના કોથળાવાળી કાળજી — as two things that helped together; the explanation should land on love and care, not on adjudicating which one 'really' cured ગોરિયો.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "સમુદાય",
+      "guidance": "Carry 'આહીર' and the family's rural courtyard details (ચોકડી, છાપરું, ગાય-વાછરડું, ખેતીકામ) exactly as the chapter names them, in every topic's teaching prose and in the summaries — never generalize into an unnamed 'ખેડૂત પરિવાર' and never add a community practice the chapter does not show."
+    }
+  ],
+  "none_found": false
+}

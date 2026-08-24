@@ -1,0 +1,13 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "f8cdfa1a60332a8554c8a17ae1fdc0fe4ba735656d56ca59f302755b06e4a0e6",
+  "verdict": "pass",
+  "notes": [
+    "Convergence record only — the structure payload is NOT duplicated here. Read 02_structure.json for the tree; read this file only to confirm that its ids are frozen.",
+    "Ids frozen at this pass: M1-M3, S1-S6, T1-T7, C1-C8 (chapter-continuous), objectives O1-O7 with strand_to_objective_map L1-L7. Only Agent 14 may renumber, and O{n} / strand_to_objective_map are never renumbered.",
+    "Validated against genre profile nibandh_atmaparak.md (હાસ્ય sub-form), explanation unit 'એક હાસ્ય-વળાંક' — one carrier per topic, setup and outcome held together. Seven [[ઘટના]] reading markers → seven topics, in printed order; no સ્વાધ્યાય block became a topic (15 inventory blocks, zero name collisions).",
+    "This validates 02_structure.json as re-run by A2 after A1's routing correction. The superseded artifact (sha256 f1a4e4cd1606e53edcb738eb5edf2da793dc02e4e19d0a4609d4ed8efb983662) and the two reports that rejected it are kept in _invalid/ and are the input to nothing.",
+    "Full check-by-check reasoning and eleven non-blocking notes for Agent 13 are in 04_validation.json."
+  ]
+}

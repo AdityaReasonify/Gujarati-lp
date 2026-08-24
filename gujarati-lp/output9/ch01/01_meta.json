@@ -1,0 +1,81 @@
+{
+  "board": "gseb",
+  "grade": 9,
+  "subject": "Gujarati",
+  "level": "standard",
+  "version": 1,
+  "chapter_id": "gseb_eng_gujarati9_ch1",
+  "plan_id": "gseb_eng_gujarati9_ch1_v1",
+  "chapter_name": "છપ્પા",
+  "unit_title": "છપ્પા",
+  "unit_number": 1,
+  "topic_number": 1,
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9",
+  "textbook_url": "../Textbooks-pdf/std-9/ch-01-chhappa.pdf",
+  "textbook_pages": "1–2",
+  "chapter_master_id": null,
+  "subject_ref_id": null,
+  "genre": "છપ્પો",
+  "genre_signals": {
+    "structure": "પદ્ય. અલગ ક્રમાંક નીચે છપાયેલા બે સ્વતંત્ર છપ્પા — પહેલો ત્રણ પંક્તિનો, બીજો ચાર પંક્તિનો; દરેક પંક્તિ બે અર્ધપંક્તિની અને અંત્યાનુપ્રાસવાળી (ટેવ–દેવ, સનાન–પાન, ઉત્પાત–વાત; કૂડેકૂડ–ઘૂડ, કરે–ધરે, ગયાં–થયા, જાણ–પહાણ). ક્યાંય ટેક કે ધ્રુવપંક્તિ નથી, કોઈ પાત્ર કે ઘટના-શૃંખલા નથી, અને બંને છપ્પા ક્રમ બદલ્યે પણ પૂરા રહે છે — એટલે એકમની લંબાઈ 'એક છપાયેલો છપ્પો' છે. છાપ 'અખા' પદ્યની અંદર જ આવે છે : 'એ તો અખા બહુ ઉત્પાત…' અને 'અખા મોટાની તો એવી જાણ…'. પદ્ય પછી સ્રોત-નોંધ '(‘અખાના છપ્પા’માંથી)'.",
+    "theme": "રૂઢિચુસ્તતા, બાહ્યાચાર અને ઢોંગ પર કટાક્ષ — બહારના દેખાવને ધર્મ માની બેસવું, અને નવી કે સાચી વાત કરનારને દબાવી દેવો. કૃતિ-પરિચય એને 'સમાજના રૂઢિચુસ્ત, ઢોંગી, બાહ્ય દેખાવવાળા લોકો પર સબળ, ધારદાર કટાક્ષ' કહે છે.",
+    "exercises": "સ્વાધ્યાય બૅનર છપાયેલું છે; નીચે ધોરણ-9ની ઉત્તર-લંબાઈની સીડી — ✓-MCQ (પાંચ), 'બે-ત્રણ વાક્યોમાં ઉત્તર લખો' (બે), 'છ-સાત વાક્યમાં ઉત્તર લખો' (બે). ભાષા-અભિવ્યક્તિ સ્વરૂપને જાતે નામ આપે છે — 'છપ્પામાં છ પદ હોય છે.' — અને 'ઘુવડ' શબ્દની પસંદગી, ઘુવડ↔સૂર્ય તથા હીરો↔પથ્થરનાં 'બે સામા છેડાનાં પ્રતીકો', ચોટદાર પંક્તિઓ કહેવત બની જવી, અને 'મોટા' શબ્દની વક્રોક્તિ — એ બધું ગણાવે છે. વિદ્યાર્થી-પ્રવૃત્તિ 'અખાના છપ્પા મેળવી કંઠસ્થ કરો.' કહે છે : કંઠસ્થ કરવા જેવો ટૂંકો, સ્વયંપૂર્ણ છપ્પો.",
+    "purpose": "અનુભવની શિખામણ દૃષ્ટાંત + ચોટ દ્વારા, અને એ પણ સીધા ઉપદેશથી નહિ પણ કટાક્ષથી. કૃતિ-પરિચય શબ્દશઃ : 'મધ્યકાલીન ગુજરાતી સાહિત્યમાં ‘જ્ઞાનના ગરવા વડલા’ તરીકે જાણીતા, જ્ઞાની કવિ અખાની આ બે છપ્પા સ્વરૂપની રચનાઓ છે. જેમાં તેમણે સમાજના રૂઢિચુસ્ત, ઢોંગી, બાહ્ય દેખાવવાળા લોકો પર સબળ, ધારદાર કટાક્ષ કર્યો છે.' — સ્વરૂપ પાનું પોતે નામ આપે છે."
+  },
+  "genre_confidence": "high",
+  "active_genre_profiles": ["duha_chhappa.md"],
+  "teaching_lens": "અનુભવની શિખામણ + દૃષ્ટાંત (અહીં કટાક્ષ-પ્રધાન)",
+  "guiding_question": "અખો રોજિંદા જીવનનાં કયાં દૃશ્યો બતાવીને ઢોંગી અને જડ લોકો પર કટાક્ષ કરે છે ?",
+  "explanation_unit": "એક છપ્પો",
+  "structure_inventory": {
+    "chhappa": 2,
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0,
+    "ghatna": 0,
+    "tek_occurrences": 0,
+    "chhap_occurrences": 2,
+    "printed_lines_per_piece": [3, 4]
+  },
+  "exercise_inventory": [
+    {
+      "group": "MCQ",
+      "items": 5,
+      "verbatim_heading": "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો :"
+    },
+    {
+      "group": "બે-ત્રણ વાક્યોમાં ઉત્તર",
+      "items": 2,
+      "verbatim_heading": "નીચેના પ્રશ્નોના બે-ત્રણ વાક્યોમાં ઉત્તર લખો :"
+    },
+    {
+      "group": "છ-સાત વાક્યમાં ઉત્તર",
+      "items": 2,
+      "verbatim_heading": "નીચેના પ્રશ્નોના છ-સાત વાક્યમાં ઉત્તર લખો :"
+    },
+    {
+      "group": "વિદ્યાર્થી-પ્રવૃત્તિ",
+      "items": 3,
+      "verbatim_heading": "વિદ્યાર્થી-પ્રવૃત્તિ"
+    }
+  ],
+  "extraction_notes": [
+    "Page 1 of the render is the proof of the chapter, not the filename: the printed number box reads 1, the title box reads છપ્પા, the author slot reads અખો with the era line (સમય : સત્તરમું શતક-પૂર્વાર્ધ), and the page-2 running footer reads ગુજરાતી (દ્વિતીય ભાષા), ધોરણ ૯. Printed folios are 1 and 2 — the full unit is 2 pages, both rendered.",
+    "The double-render cross-check could not be run as the spec describes it: the run context supplies the renders already rasterised and forbids re-running pdftoppm. The supplied PNGs are 1241×1754 (≈150 dpi A4), already above the 100 dpi level the spec flags as risky. In place of a second render, every verse line, every heading and every ambiguous glyph was re-read at 2×–5× magnification off the supplied 150 dpi pixels. The measured confusion pairs were checked individually: ધરે (not ઘરે) in 'તે આગળ લેઈ ચાંચ જ ધરે.'; ઘૂડ (not ધૂડ) in 'સામાસામી બેઠા ઘૂડ' — confirmed twice over by the શબ્દ-સમજૂતી entry 'ઘૂડ ઘુવડ'; ળ in આગળ; the અનુસ્વાર in ગયાં, ક્યાંની, ક્યાંથી, જ્યાં, ત્યાં. A genuine higher-dpi second render remains an open cross-check if the orchestrator wants one.",
+    "The page prints the verse pieces as 3 lines (piece 1) and 4 lines (piece 2), NOT as six-line છપ્પા, while the chapter's own ભાષા-અભિવ્યક્તિ states 'છપ્પામાં છ પદ હોય છે.' Each printed line carries two rhymed half-lines, so the six/eight પદ sit inside the printed lines. Line breaks are transcribed exactly as printed and were not reflowed to reach six lines.",
+    "Piece 2's first line — 'જ્યાં જોઈએ ત્યાં કૂડેકૂડ, સામાસામી બેઠા ઘૂડ' — ends with NO terminal punctuation on the page. Verified at high magnification. It is transcribed without one; do not add a full stop.",
+    "The corpus prior (reference/corpus/std-9_inventory.md, Ch 1) records the third સ્વાધ્યાય heading as 'નીચેના પ્રશ્નોના છ-સાત વાક્યોમાં ઉત્તર લખો :'. The page prints 'છ-સાત વાક્યમાં' (singular વાક્યમાં), while the second block on the same page prints 'બે-ત્રણ વાક્યોમાં' (plural). Both were re-read at high magnification. The page wins; verbatim_heading carries what the page prints. This is exactly the લખો/આપો · વાક્યમાં/વાક્યોમાં drift the board profile tells the matcher to tolerate.",
+    "The corpus genre prior for this unit (છપ્પા, દુહા-છપ્પા family, confidence HIGH) agrees with the diagnosis run here off the rendered page. No disagreement to report.",
+    "શબ્દ-સમજૂતી gloss 'ઉત્પાત દુઃખ, તોફાન, અહીં ખોટી માન્યતા': the page's glyph after દુ is a two-dot mark set at full height. It is transcribed as the વિસર્ગ ઃ (U+0A83), giving દુઃખ. At this raster it is not fully separable from a colon; the word is unaffected either way, and no other reading of the word exists.",
+    "વિદ્યાર્થી-પ્રવૃત્તિ IS inventoried as an exercise block (3 printed bullets, student-addressed, printed under its own centred heading after the numbered સ્વાધ્યાય ladder). The agent spec's not-an-exercise list names ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા but not વિદ્યાર્થી-પ્રવૃત્તિ, and the board profile lists it as the std-9 student-activity block. Agent 10 answers it; note that its first bullet ('અખાના જીવન વિશે જાણી…') asks the child to go OUTSIDE this chapter, and the no-hallucination policy binds: only what the printed કવિ-પરિચય carries may be used, and anything beyond it must be marked as research the child does, never supplied as fact.",
+    "NOT exercises and NOT topics, recorded here as apparatus: ભાષા-અભિવ્યક્તિ (5 bullets of craft commentary — 'ઘુવડ' શબ્દની પસંદગી; એકેશ્વરવાદનો મહિમા એક જ પ્રશ્નથી; 'છપ્પામાં છ પદ હોય છે' + ઘુવડ↔સૂર્ય / હીરો↔પથ્થર 'બે સામા છેડાનાં પ્રતીકો'; ચોટદાર પંક્તિઓ કહેવત બની જાય છે, with three quoted lines; 'મોટા' = વક્રોક્તિ) and શિક્ષકની ભૂમિકા (teacher-addressed prose plus 3 discussion bullets on માનવધર્મ). They are kept in 00_chapter_normalized.md under their own markers so nothing is lost, but they are neither reading scenes nor exercise items.",
+    "ભાષા-અભિવ્યક્તિ pre-names two craft terms the page itself carries: વક્રોક્તિ (for 'મોટા') and વિરોધાભાસ / 'બે સામા છેડાનાં પ્રતીકો' (ઘુવડ↔સૂર્ય, હીરો↔પથ્થર). Std 9 is the standard where naming begins, so these are fair to name downstream — but only these, and only where the lines actually carry them. Nothing else may be added to figures_of_speech from memory.",
+    "The chapter is મધ્યકાલીન ગુજરાતી and several forms will look like errors and are not: તળપદા સનાન (સ્નાન), પહાણ (પથ્થર), મૂરખ (મૂર્ખ), દેખી (જોઈને) — all four are glossed by the book's own તળપદા શબ્દો box; also લેઈ, ઘૂડ, પાણો, and the inverted 'પથ્થર એટલા પૂજે દેવ'. None of these may be modernised. The છાપ 'અખા' is verse text inside both pieces and must never be trimmed as a caption.",
+    "'ઘૂડ' in the verse vs 'ઘુવડ' in the gloss, the MCQ options and ભાષા-અભિવ્યક્તિ: both spellings are printed, in different places, and each is transcribed where it stands. This is not an inconsistency to normalise.",
+    "Mixed numeral scripts are printed content here: the chapter number box, the block numbers, the item numbers, the folios and 'A - B - C' are Latin, while the running footer prints the Gujarati numeral ૯ in 'ધોરણ ૯'. Transcribed as printed in 00_chapter_normalized.md.",
+    "textbook: the std-9 COVER is not part of this two-page render and the board profile flags it as not yet read. The value written here is transcribed from the page-2 running footer ('ગુજરાતી (દ્વિતીય ભાષા), ધોરણ ૯'), rendered with the Latin 9 to match the board profile's convention. It is a footer reading, not a cover reading — Agent 11 should record that as a gap.",
+    "chapter_id / plan_id are PROVISIONAL until VERIFY-1 (reference/naming_conventions.md): the 'gseb' board segment and the 'eng' medium segment are reasoned from the Hindi precedent, not read from the live server. The medium slot is the medium of instruction, not the subject language.",
+    "chapter_master_id and subject_ref_id stay null — no real GSEB record has been confirmed. textbook_url is a local path string; there is no hosted URL for this pack.",
+    "No QR badge, no two-column verse, no refrain shorthand and no letter-spaced verse on either page. Both renders are clean; no layout trap had to be worked around."
+  ]
+}

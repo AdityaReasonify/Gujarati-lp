@@ -1,0 +1,67 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati7_ch10",
+  "pass_number": 1,
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "explanation_unit_declared": "એક ઘટના",
+      "explanation_unit_used": "એક ઘટના",
+      "genre": "varta",
+      "notes": [
+        "01_meta.json sets explanation_unit 'એક ઘટના' (genre વાર્તા / slug varta, profile varta.md, confidence high) and 02_structure.json cuts ઘટના-wise: seven [[ઘટના: …]] markers in 00_chapter_normalized.md, seven topics, 1:1 and in printed order.",
+        "The verse-side sub-rules are vacuous and verified so: structure_inventory in 01_meta.json and cut_summary in 02_structure.json both report kadi 0, duha 0, pad 0, tek_occurrences 0, and 00_chapter_normalized.md carries no [[કડી]], [[દુહો]], [[પદ]] or refrain marker anywhere. No દુહો share, no પદ split, no ટેક occurrence to place.",
+        "Not a mixed chapter — the whole reading text pp. 63–66 is third-person prose with dialogue inside ''…'' quotes; no verse is quoted inside it, so no second unit applies.",
+        "varta.md avoid-gate 2 (tacked-on બોધ): no objective_text, topic_name, segment_name, module_name or concept_name states a moral. The blue box's instruction 'પ્રાણીઓ પ્રત્યે સંવેદનો જાગે' is explicitly held out of the cut in not_cut_as_topics.",
+        "varta.md avoid-gate 3 (judging a sympathetic character): nothing in the cut labels દગડુ, શાંતા or the family over the નજર-લાગવી / રાઈ-મીઠું / જાપ material. Concept M2.S2.T3.C6 names it neutrally as 'ઘરના પોતાના ઉપાય'.",
+        "varta.md avoid-gate 4 (spoiling the turn): topic_category climax sits on M3.S4.T6, the midnight ભીના કોથળા. None of the five preceding topic/concept/objective texts names the recovery — M2.S3.T5 is named for the state at that point ('ન ઊતરતો તાવ'), and O1–O5 stop at the medicine showing no effect.",
+        "varta.md avoid-gate 7 (inventing what the text does not contain): every topic is bounded by a marker and a line range inside 00_chapter_normalized.md; no topic reaches beyond line 58.",
+        "varta.md avoid-gate 8 is soft and correctly handled as attribution, not authorship: the header line '- શિરીષ પદ્માકર, અનુ. આશા વીરેન્દ્ર' is held in not_cut_as_topics as printed header matter, with a written instruction to Agent 5 that it is printed under the title and therefore enters no topic's original_chunk.",
+        "CRAFT-LABEL CEILING (std 7) holds: no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text or display name, including over the two comparisons the chapter carries ('મંદિરના ઘંટારવ જેવો', 'તું પણ ગોરિયાની મા જેવો જ છે')."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 7,
+      "topics": 7,
+      "notes": [
+        "Marker-to-topic mapping, in order: [[ઘટના: દગડુ આહીરનું સંતોષી ઘર…]]→M1.S1.T1, [[…ભાઈબંધી અને દગડુનો દૂધનો નિયમ]]→M1.S1.T2, [[…ગોરિયો માંદો પડે છે]]→M2.S2.T3, [[…ડૉક્ટરની તપાસ]]→M2.S2.T4, [[…શાંતાનો ઉપાય]]→M2.S3.T5, [[…અડધી રાતે ગોલુ ભીના કોથળા પાથરે છે]]→M3.S4.T6, [[…સવારે ગોરિયો સાજો]]→M3.S5.T7. Seven markers claimed, each exactly once.",
+        "Line-range coverage is contiguous and exhaustive over the reading text and stops at it: 14-18, 21-25, 28-32, 35-37, 40-44, 47-51, 54-58. Every non-blank, non-marker line from 14 to 58 of 00_chapter_normalized.md is claimed by exactly one topic; no gap, no overlap, and nothing beyond line 58 (the [[શબ્દાર્થ]] box opens at line 60).",
+        "No topic covers text no marker claims: the highest claimed line is 58 and the last ઘટના marker sits at line 53.",
+        "No સ્વાધ્યાય block became a topic. All twelve entries of 01_meta.json's exercise_inventory were cross-checked, both by verbatim_heading and by group label, against every topic_name, segment_name, module_name and concept_name — zero matches — and against the line ranges, which end at 58 while the first સ્વાધ્યાય marker is at line 66. 00_chapter_normalized.md carries twelve [[સ્વાધ્યાય: …]] markers and 01_meta.json inventories twelve blocks; all twelve are held in 02_structure.json's not_cut_as_topics for Agent 10.",
+        "The reprinted paragraph inside the seventh સ્વાધ્યાય block ('આપેલા ફકરાના આધારે પ્રશ્નોના જવાબ લખો.') is a slightly altered reprint of M2.S3.T5's text; 02_structure.json explicitly refuses to fold it into any cut, which is correct — it is exercise matter, not a second reading of the story.",
+        "Apparatus correctly excluded per explanation_unit_map.md rule 4: the teacher-addressed blue પ્રવેશપેટી, the શબ્દાર્થ box (11 heads), the રૂઢિપ્રયોગ box (4 idioms) and the chapter-final વ્યાકરણપેટી 'વાક્યના પ્રકારો' are all listed in not_cut_as_topics and none became a topic.",
+        "This unit prints no in-text wrap or review block, so no REVIEW topic is expected or present; the open question the chapter ends on is the last ઘટના itself and sits inside M3.S5.T7 with the doctor's line, which is the right cut for a text that leaves the question open."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 7,
+      "notes": [
+        "Root objectives[] exists with seven entries O1–O7; objective_id and legacy_id are both unique; strand is 'L' and strand_name 'ભાષા અને સાહિત્ય' on all seven.",
+        "strand_to_objective_map covers every legacy_id exactly once and each mapping agrees with the registry entry: L1→O1 … L7→O7.",
+        "Every home_topic_id resolves to a topic in this tree and every anchor[] id resolves to a concept in this tree; each anchor also sits inside its own home topic, and each home topic points back at its objective through objective_ids.",
+        "Every topic carries objective_ids and every concept carries objective_id; all resolve to the registry, and no objective is left unused. One objective per reading scene, seven for seven.",
+        "objective_text length is 20–25 Gujarati words on all seven, inside the 12–30 band, and each is text-grounded and chapter-specific — the two mealtime questions, the milk rule, the doctor's one-night deadline, the ગોળીનો ભૂક્કો in water, the ભીના કોથળા, the closing 'ઉપરવાળો જાણે'. None could be pasted into another chapter.",
+        "Each objective serves teaching_lens 'ઘટના + પાત્ર + વળાંક': O1 and O4 on what happens, O2/O3/O5 on why a character acts, O6 on the turn, O7 on what the ending leaves open. bloom_level runs Remember → Understand → Analyze with the Analyze rung on the વળાંક (O6) and the open ending (O7), which is where varta.md's recall prior puts it.",
+        "Id grammar per naming_conventions.md and phase2_contract.md, checked programmatically against traversal position: modules M1–M3; segments continuous across modules M1.S1, M2.S2, M2.S3, M3.S4, M3.S5; topics continuous T1–T7; concepts chapter-continuous C1–C13 and never restarting inside a topic. No gaps.",
+        "No M1.S1.T1.P1-style phase-1 objective code appears anywhere in 02_structure.json, and no '.SR{n}' recall id appears (recall ids are not authored at this stage).",
+        "global_content_rules.md 4 (no numbers in display text): no Latin or Gujarati digit appears in any module_name, segment_name, topic_name, concept_name or objective_text."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "NON-BLOCKING, for Agent 13. Check 2's clause 'the pre-reading opener is a topic' is vacuous in this unit and was not treated as a failure. The only pre-reading matter printed on p. 63 is the teacher-addressed blue પ્રવેશપેટી, which explanation_unit_map.md rule 4 classes as apparatus that never becomes a topic; there is no student-facing કવિ/લેખક-પરિચય paragraph anywhere in this unit (01_meta.json records the same), and the oral વાતચીત block is a numbered સ્વાધ્યાય block belonging to Agent 10. So this chapter correctly has seven topics, all reading scenes, and no CONCEPT opener.",
+    "NON-BLOCKING, for Agent 5. original_chunk is the empty string in all seven topics. That is by design — agents/02_structure.md states 'original_chunk stays empty; Agent 5 fills it' — so it is not a coverage failure. Agent 5 has what it needs to fill them: each topic carries its marker and an exact source_lines_00_normalized range into 00_chapter_normalized.md, and those seven ranges tile lines 14–58 without gap or overlap.",
+    "NON-BLOCKING, carried from 02_structure.json. 00_chapter_normalized.md carries no [[ચિત્ર: …]] markers, although 01_meta.json's extraction_notes record three colour illustrations inside the reading text (p. 63 the courtyard with the family, ચંદેરી and ગોરિયો; p. 64 the doctor examining the calf; p. 65 ગોલુ laying the wet sack at night). Agent 2's mapping of those to M1.S1.T1, M2.S2.T4 and M3.S4.T6 is reasoned from the meta description, not read off a marker, and Agent 9 must treat it that way. The cut does not depend on it, so it does not block.",
+    "NON-BLOCKING. Uneven topic length, as Agent 2 already reported: M2.S2.T4 is three sentences of dialogue plus one narrative line while M2.S2.T3 and M3.S5.T7 each run five paragraphs. The unit is the ઘટના, not a word count, and splitting T4 would separate the doctor's warning from the visit that carries it. Correct as cut.",
+    "NON-BLOCKING. root genre in 02_structure.json is the slug 'varta' while 01_meta.json carries the Gujarati label 'વાર્તા'. This is the intended split — phase2_contract.md wants the roster slug in root genre — and the sub-form line 'પ્રાણીકથા (અનુવાદિત વાર્તા)' is carried separately in genre_subform, correctly, since varta.md's index constraint makes both sub-forms of varta rather than profiles.",
+    "BINDING ON DOWNSTREAM AGENTS, re-stated here because ids freeze at this pass. varta.md avoid-gate 4 binds M1.S1.T1, M1.S1.T2, M2.S2.T3, M2.S2.T4 and M2.S3.T5: no explanation, summary or recall answer in those five may say that ગોરિયો recovers, that the fever comes down, or that the doctor returns satisfied.",
+    "BINDING ON DOWNSTREAM AGENTS. The chapter keeps two explanations of the recovery side by side and never resolves them — the doctor's 'દવાએ બરાબર અસર કરી' and દગડુ's 'ચમત્કાર તો થયો જ પણ એ દાક્તરની ગોળીએ કર્યો કે ગોલુના ભીના કોથળાએ એ તો ઉપરવાળો જાણે.' M3.S5.T7 is cut so both sentences sit in one topic. The open question is the chapter's ending, not a gap to close, and the family's own world (નજર લાગવી, રાઈ-મીઠું ઉતારવું, જાપ) is neither endorsed nor debunked. The household is named as આહીર, a pastoral community — name it as the page names it (global_content_rules.md 10).",
+    "NON-BLOCKING provenance, unchanged from 01_meta.json and outside this agent's three checks: chapter_master_id and subject_ref_id are null, publication_id is unset, textbook_url is a local path, and the 'gseb' and 'eng' segments of chapter_id/plan_id remain PROVISIONAL pending VERIFY-1. Ids freeze at this pass in their provisional form; a VERIFY-1 correction to the board/medium segments would have to be applied before upload.",
+    "Method note. This pass read 00_chapter_normalized.md, 01_meta.json, 02_structure.json and profiles/genres/varta.md (the active genre profile, which the spec lists as an input; it was not in the routed policy list, so it was read from disk at profiles/genres/varta.md). No page render was opened — nothing in the three checks needed a layout or figure question that the transcription could not answer. The id-grammar, objective-resolution, digit and exercise cross-checks were run programmatically over 02_structure.json rather than by eye."
+  ]
+}

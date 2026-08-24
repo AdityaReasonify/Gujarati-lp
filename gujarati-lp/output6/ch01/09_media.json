@@ -1,0 +1,74 @@
+{
+ "agent": "09_media_planning",
+ "chapter_id": "gseb_eng_gujarati6_ch1",
+ "plan_id": "gseb_eng_gujarati6_ch1_v1",
+ "media": [
+  {
+   "topic_id": "M1.S1.T1",
+   "concept_id": "M1.S1.T1.C1",
+   "id": "M1.S1.T1.C1.IMG1",
+   "type": "image",
+   "subtype": "illustration",
+   "title": "એક જ ડાળ પર સહુ પંખી",
+   "description": "એક લાંબી ડાળ પર પોપટ, હોલાં ને ચકલી ખભેખભા મળીને બેઠાં છે; બે પંખી આભમાં ઊંચે ઊડે છે ને એક પંખી પાછું એ જ ડાળ પર ઊતરે છે.",
+   "image_url": "",
+   "aspect_ratio": "16:9",
+   "home_concept_id": "M1.S1.T1.C1",
+   "objective_id": null,
+   "image_category": "illustration",
+   "teaching_notes": "ચિત્ર બતાવીને પહેલાં પુછાવો — ડાળ કેટલી ? પંખી કેટલાં ? જવાબ મળે પછી જ ટેક ગવડાવો. પછી આંગળી મૂકીને બતાવો: આ પંખી ઊંચે જાય છે, આ પાછું નીચે આવે છે — ને 'વિહરીએ કદી આભમાં ઊંચે', 'ઊડી-ઊડી કદી આવીએ નીચે' પંક્તિ સાથે જોડો. બોલનારાં પંખી પોતે છે એ વાત આ ચિત્ર પરથી પકડાવવી; 'અમે સહુ' કોણ બોલે છે તે પૂછીને ખાતરી કરવી.",
+   "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motivational poster layout, text banner with a moral, slogan lettering, unity or teamwork poster art, numerals or digits anywhere in the picture, speech bubbles, cartoon birds with human faces or clothes, caged birds, a single bird alone, bird-identification chart layout, labelled species diagram, temple or shrine imagery",
+   "generation_prompt": "A wide early-morning scene in a village square in central Gujarat: a broad old neem tree leans over the square and one long low branch stretches right across the frame. Eight small birds sit close together along that single branch, shoulder to shoulder with beaks open, calling — three green rose-ringed parakeets with red beaks, two grey-and-pink doves, three brown house sparrows. High above the treetop, in a wide pale-blue sky, two more parakeets are climbing away into the open air, and one dove is gliding back down with wings spread, about to land beside the others on the same branch. Behind the tree stands a carved wooden pigeon tower raised on a single pillar in the middle of the square, and low houses roofed with curved clay tiles, a raised stone platform running along one wall with a brass water pot on it. Dew on the leaves, first warm sunlight, cheerful mood. Along the bottom of the picture runs a narrow cream-coloured narrator bar lettered in Gujarati script carrying exactly this line and nothing else: અમે સહુ એક જ ડાળનાં પંખી. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+  },
+  {
+   "topic_id": "M1.S1.T2",
+   "concept_id": "M1.S1.T2.C3",
+   "id": "M1.S1.T2.C3.IMG1",
+   "type": "image",
+   "subtype": "illustration",
+   "title": "વરસાદમાં એક ડાળે",
+   "description": "ચોમાસાના ઝાપટામાં પલળતાં પંખી એક જ ડાળે સાથે બેઠાં છે; ડાળને છેડે બે ચકલી પાંખો ફફડાવીને ઝઘડે છે ને એક પંખી પાછું ટોળા તરફ કૂદે છે.",
+   "image_url": "",
+   "aspect_ratio": "16:9",
+   "home_concept_id": "M1.S1.T2.C3",
+   "objective_id": null,
+   "image_category": "illustration",
+   "teaching_notes": "ચિત્ર ઢાંકી રાખીને પહેલાં કડી વંચાવો, પછી ખોલો. છેડે ઝઘડતાં બે પંખી બતાવો ને પૂછો — બાકીનાં ક્યાં બેઠાં છે ? ડાળ એક જ છે એ પકડાય એટલે 'તોયે' પર આવો: ઝઘડો દેખાય છે, છતાં ડાળ છૂટતી નથી. વરસાદમાં પલળતાં પણ સાથે બેઠાં છે તે 'સુખમાં ને દુઃખમાં સાથે જ રહીએ' સાથે જોડવું. ઝઘડો ચિત્રમાં છે તે ભૂંસવો નહિ — કડી પોતે એને કબૂલે છે.",
+   "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motivational poster layout, text banner with a moral, slogan lettering, unity or teamwork poster art, numerals or digits anywhere in the picture, speech bubbles, cartoon birds with human faces or clothes, caged birds, a single bird alone, bird-identification chart layout, labelled species diagram, temple or shrine imagery, angry aggressive fight, blood, injured or dead bird, violent storm, frightening dark sky",
+   "generation_prompt": "A rain-washed afternoon at the edge of a millet field in Saurashtra: a thorny acacia tree with one thick horizontal branch across the frame, warm grey monsoon clouds behind it and a curtain of light rain falling. Along the middle of that one branch seven small birds press close together, feathers wet and puffed up, sheltering shoulder to shoulder — brown house sparrows, two grey doves and a green parakeet. At the far end of the same branch two sparrows face each other in a squabble, wings half raised and beaks open, one leaning back; a little way along a single sparrow sits turned away from the group, and another is hopping back down the branch toward the huddle. Below the branch tall bajra millet stalks bend under the rain, a bullock cart stands under a tin awning, and a wet mud path shines. Fresh greens, rain-soft light, tender rather than angry. Along the bottom of the picture runs a narrow cream-coloured narrator bar lettered in Gujarati script carrying exactly this line and nothing else: તોયે નિરંતર રહેતાં સંપી. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+  },
+  {
+   "topic_id": "M1.S2.T3",
+   "concept_id": "M1.S2.T3.C4",
+   "id": "M1.S2.T3.C4.IMG1",
+   "type": "image",
+   "subtype": "illustration",
+   "title": "ઢોળાવ પરનું ગાન ને સાથે ચાલતી કેડી",
+   "description": "લીલા ઢોળાવ પર સવારે નીચી ડાળે બેઠાં પંખી ચાંચ ખોલીને ગાય છે; નીચે વળાંક લેતી કેડી પર બે બાળકો ઊભાં રહીને ઉપર ઊડતી પંખીની હાર સામે જુએ છે.",
+   "image_url": "",
+   "aspect_ratio": "16:9",
+   "home_concept_id": "M1.S2.T3.C4",
+   "objective_id": null,
+   "image_category": "illustration",
+   "teaching_notes": "ગાન કરાવતી વખતે આ ચિત્ર બતાવો. પહેલાં ચાંચ ખોલીને ગાતાં પંખી બતાવો — 'કરીએ કુદરત-ગાન' ત્યાં જ સંભળાય છે. પછી કેડી પર આંગળી ફેરવો ને ઉપર ઊડતી હાર બતાવો: રસ્તો એક, ચાલનારાં સાથે — 'જીવન કેરા પ્રવાસનાં સંગી.' ધરતીને ખરેખર ખોળો હોતો નથી; ઢોળાવ કેવો ખોળા જેવો પહોળો લાગે છે એટલું બતાવીને અટકી જવું, કવિ ચિત્ર દોરે છે એમ કહેવું.",
+   "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motivational poster layout, text banner with a moral, slogan lettering, unity or teamwork poster art, numerals or digits anywhere in the picture, speech bubbles, cartoon birds with human faces or clothes, caged birds, a single bird alone, bird-identification chart layout, labelled species diagram, temple or shrine imagery, tribal costume as decoration, tourism brochure viewpoint, environmental awareness poster, tree-planting campaign imagery",
+   "generation_prompt": "Early morning on the green hill slopes of the Dang in south Gujarat, just after the monsoon: a wide grassy slope curves open like a shallow bowl, mist lying in the valley below and teak and mahua trees along the ridge. On a low mahua branch in the left foreground a row of small birds sit with their beaks open, singing, heads tilted up toward the light — brown sparrows, two green parakeets and a black drongo. A narrow red-earth footpath winds down the slope and away toward the far hills, and above it a loose line of birds flies the same way the path goes. On the path two village children in plain everyday shirts and skirts, cloth bags on their shoulders, have stopped and are looking up at the flock. Wet grass, clumps of bamboo, a low stone wall, first golden sunlight lying across the slope, calm and happy mood. Along the bottom of the picture runs a narrow cream-coloured narrator bar lettered in Gujarati script carrying exactly this line and nothing else: જીવન કેરા પ્રવાસનાં સંગી. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+  }
+ ],
+ "2d_tool": null,
+ "reuse_report": {
+  "scenes": 3,
+  "reused": 0,
+  "authored": 3,
+  "rejected": []
+ },
+ "notes": [
+  "Reuse (step 1) is dormant in this pack: no Gujarati frame pool, no v1 Gujarati plan corpus, no rendered frames. Every scene therefore carries image_url:\"\" and an authored, self-contained generation_prompt; no [reused frame: …] stamp appears anywhere.",
+  "scenes = 3, counted off 05_with_content.json: M1.S1.T1, M1.S1.T2 and M1.S2.T3 each carry \"image\" in available_content_types. The three સ્વાધ્યાય blocks and the શબ્દાર્થ box are not topics and get no media.",
+  "M1.S1.T1 holds two concepts (C1 ટેકનો સૂર, C2 આભમાં ઊંચે…); the one image per reading scene is homed on C1, the ટેક's own picture, and carries the flight of C2 inside the same frame — one image per topic, never two.",
+  "Media prior taken from profiles/genres/urmikavya_geet.md: one image per કડી showing THAT કડી's picture, never the moral and never the whole poem in one frame. Frame one is the branch and the birds, frame two the quarrel that does not break the branch, frame three the singing and the path.",
+  "Each narrator bar carries one exact printed Gujarati line, transcribed from the rendered page (pdftoppm -png -r 150, page 1): 'અમે સહુ એક જ ડાળનાં પંખી.', 'તોયે નિરંતર રહેતાં સંપી.', 'જીવન કેરા પ્રવાસનાં સંગી.' The refrain shorthand '- એક જ.' is not lettered into any frame, and no numeral or Roman/Devanagari lettering appears in any bar.",
+  "Setting spread across the chapter: a central-Gujarat village ચોક with a ચબૂતરો and નળિયાંવાળાં મકાન; a Saurashtra બાજરીનું ખેતર in the ચોમાસું with a બળદગાડું under a tin awning; the ડાંગ's post-monsoon hill slopes with મહુડો and વાંસ. Children in the third frame wear plain everyday clothes — no community costume is put on anyone the text does not place there.",
+  "2d_tool is null: this is a sung ગીત with no staged process and no route a child could operate, so there is nothing whose change could be named."
+ ]
+}

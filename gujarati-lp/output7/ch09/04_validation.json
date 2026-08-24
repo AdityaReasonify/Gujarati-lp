@@ -1,0 +1,64 @@
+{
+ "agent": "04_mapping_convergence",
+ "chapter_id": "gseb_eng_gujarati7_ch9",
+ "validated_file": "02_structure.json",
+ "sha256": "f58a84a68b276ab337874c62e375fc124691b8718ec9d12488496e5604b9407f",
+ "status": "pass",
+ "checks": {
+  "genre_fidelity": {
+   "pass": true,
+   "explanation_unit": "એક કડી",
+   "profile": "urmikavya_geet.md",
+   "kadi_markers": 5,
+   "kadi_topics": 5,
+   "duha_markers": 0,
+   "pad_markers": 0,
+   "tek_markers": 2,
+   "tek_distinct_wordings": 2,
+   "tek_topics": 2,
+   "notes": [
+    "The cut uses the કડી, the unit 01_meta.json names and the unit urmikavya_geet.md defines. Five [[કડી]] markers, five topics carrying them (M1.S2.T3, M2.S3.T4, M2.S3.T5, M2.S4.T6, M2.S5.T7) — equal, no કડી merged and none split.",
+    "No દુહો and no પદ marker exists in this chapter, so the merge and split gates are vacuous here rather than passed by accident.",
+    "ટેક GATE, the one that actually bites in this chapter. urmikavya_geet.md's structural rule: if the [[ટેક]] markers differ in wording, the number of ટેક-carrying topics equals the number of distinct wordings. The two printings differ — 'અલ્લક દલ્લક, ઝાંઝરઝલ્લક,' on p.57 against 'અલ્લક દલ્લક ઝાંઝર ઝલ્લક,' on p.58 (comma dropped, ઝાંઝરઝલ્લક set as two words); lines two to four identical. Two distinct wordings, two topics (M1.S2.T2, M2.S5.T8). Verified directly on page-1.png and page-2.png, not taken on trust from the transcription.",
+    "Not a mixed chapter — one સ્વરૂપ throughout, one profile active.",
+    "Nothing in the cut or the eight objectives touches the profile's avoid list: no 'આપણે … જોઈએ' exhortation, no craft label above the std-7 ceiling (no અલંકાર / છંદ / genre tag — the objectives say ચિત્ર, ભાવ, રણકો, પંક્તિ, ટેક), no political framing, no બોધ imposed on a રાસ the poem does not moralise, no scientific mechanism word, and no digit in any topic_name, module_name, segment_name or objective_text.",
+    "Sensitivity handled as the profile directs: the રાધા-કૃષ્ણ રાસલીલા is taught as a sung literary scene with its living ગરબા-રાસ tradition, never converted into a devotional or comparative-religion lesson."
+   ]
+  },
+  "coverage": {
+   "pass": true,
+   "scenes": 7,
+   "topics": 8,
+   "notes": [
+    "Seven reading-unit markers in 00_chapter_normalized.md — [[ટેક]], [[કડી 1]]…[[કડી 5]], [[ટેક (પુનરાવર્તન)]] — became seven topics in printed order: T2, T3, T4, T5, T6, T7, T8. The eighth topic, M1.S1.T1, is the pre-reading opener resting on [[શીર્ષક]] + [[કવિ-પરિચય]].",
+    "The pre-reading opener is a topic. This chapter prints no in-text wrap, so none is expected and none was invented.",
+    "NO સ્વાધ્યાય BLOCK BECAME A TOPIC — checked mechanically, not by eye. All twelve verbatim_heading strings in 01_meta.json's exercise_inventory were matched against all eight topic_name values and all eight original_chunk plans: zero hits, and the token 'સ્વાધ્યાય' appears in no topic field. marker_topic_map routes all twelve blocks to Agent 10.",
+    "No topic covers unclaimed text. marker_topic_map accounts for all thirteen marker groups; [[પ્રવેશપેટી]], [[શબ્દાર્થ]] and [[રૂઢિપ્રયોગ]] are correctly held as apparatus rather than promoted to topics.",
+    "The four Krishna–Radha paintings on pp. 57–58 carry no text and the full-page રાસલીલા picture on p. 61 belongs to exercise block ten, not to the poem — confirmed on the renders; no topic claims any of them as reading text."
+   ]
+  },
+  "objectives": {
+   "pass": true,
+   "count": 8,
+   "notes": [
+    "Root objectives[] holds O1–O8, each objective_id unique, each legacy_id L1–L8 unique. Every home_topic_id resolves to a topic in this tree and every anchor[] id resolves to a concept node in it. strand_to_objective_map covers L1–L8 exactly once, each mapping to a live objective. Every topic carries objective_ids resolving to the registry and mirrors the object inline in learning_objectives[].",
+    "One objective per topic, on the single Gujarati strand L / ભાષા અને સાહિત્ય. Bloom ladders Understand → Analyze → Evaluate; the profile caps craft vocabulary at std 7, not Bloom.",
+    "Each objective is text-grounded and could not survive a paste into another chapter — each names something printed in its own scene: ઝાંઝર and જમનાનો મલક (O2), પૂનમનો ચાંદ and ઢમ્મક ઢમ્મક (O3), the તૂટેલો હાર and the one missing મોતી (O4), the quoted line 'લીધું હોય તો આલને કાના' and ચરિતર છાનાં (O5), ગોપીજનવલ્લભ, કદંબ and the બંસી's અલ્લપ ઝલ્લપ (O6), 'ઉર તણાયે પલ્લક પલ્લક' (O7), the two ટેક printings (O8). Every quoted fragment was checked character-for-character against 00_chapter_normalized.md.",
+    "All eight serve the teaching_lens 'ચિત્ર + ભાવ + લય' and the chapter's guiding_question about the રણકતા શબ્દો.",
+    "Ids obey naming_conventions.md: M1–M2, S1–S5 and T1–T8 dotted and chapter-continuous with no gaps; concept numbers are chapter-continuous and equal their topic number throughout (M2.S3.T5.C5, not .C1); no M1.S1.T1.P1-style objective code appears anywhere in the file."
+   ]
+  }
+ },
+ "blocking": [],
+ "owner": null,
+ "notes": [
+  "REFERENCE-DATA DEFECT, not a plan defect — worth fixing upstream. profiles/genres/urmikavya_geet.md ('nine printed કડી-units, eight distinct topics') and reference/corpus/std-7_inventory.md both carry a stale prior for this chapter. The pages show SEVEN printed four-line units — three on p.57 (ટેક, કડી 1, કડી 2) and four on p.58 (કડી 3, કડી 4, કડી 5, ટેક reprinted) — six distinct. A1 and A2 both flagged the disagreement and both resolved it for the page, which is the correct call; I opened page-1.png and page-2.png and counted independently, and the page confirms 7/6. The plan is right and the two reference files are wrong. That A2's total still lands on eight topics is arithmetic coincidence (7 reading units + 1 pre-reading topic), not agreement with the prior, and A2 says so explicitly.",
+  "A1's unresolved QR-badge gap is narrowed by the render. The badge sits at the right end of the પ્રવેશપેટી box's first printed line, immediately after 'લયનું', and the sentence reads complete across the line break as 'એમાં શબ્દો, પ્રાસ, લયનું અદ્ભુત સંયોજન છે.' The gap stays recorded rather than closed — the badge still occludes page area — but it touches apparatus only, is quoted nowhere in any topic's verbatim, and has no structural consequence for the cut.",
+  "M1.S1.T1 is the thinnest topic in the chapter and A2 flagged it as such. At std 7 the [[કવિ-પરિચય]] marker is only the author slot '- બાલમુકુન્દ દવે' printed under the title, so the pre-reading topic leans on the શીર્ષક and the blue box's framing. Note for Agent 13, not a block.",
+  "Segment sizes are uneven — 1, 2, 2, 1, 2 topics across S1–S5. M1.S1 holds the pre-reading topic alone and M2.S4 holds the single કડી where કાનો takes offence and the બંસી starts. A2 recorded this as a deliberate content decision rather than repairing it to even segments, which is the right priority order. Note only.",
+  "topic_type carries the authored enum (CONCEPT on T1, POEM on T2–T8), which is correct for an intermediate file per phase2_contract.md. Agents 14/15 must map POEM and CONCEPT to 'instructional' at emit — the server rejects the authored values. Flagging so the mapping is not forgotten downstream.",
+  "original_chunk is empty on all eight topics, as expected at this stage — Agent 5 owns it. Two verbatim cautions carry forward from A1 and A2 and I confirmed both against the renders: the ટેક must be copied exactly as printed at EACH occurrence and never normalised to a single form, and the printed punctuation oddities are genuine printed content, not transcription slips — 'બધાં જડ્યાં પણ એક ખૂટે છે.' and 'રીસ ચડી ગોપીજનવલ્લભ.' end in a full stop where neighbouring lines end in '!', and 'રાસ રચ્યો છે અલ્લક દલ્લક' carries no terminal mark at all.",
+  "CONTEXT ROUTING. The run context supplied only no_hallucination_policy.md and global_content_rules.md, but my spec also requires the active genre profile, loop_protocol.md, explanation_unit_map.md, phase2_contract.md and naming_conventions.md. All five exist in the repo, so I read them from disk rather than guess at their contents. Nothing was validated against a document I could not read.",
+  "Renders were opened for one reason and it is recorded here per the run context: the 9/8-versus-7/6 unit-count disagreement between the genre profile's prior and the transcription is a layout question the transcription alone cannot settle, and it is load-bearing for both Check 1 and Check 2. page-1.png and page-2.png answered it and also let me confirm the two ટેક wordings first-hand. No other page was opened."
+ ]
+}

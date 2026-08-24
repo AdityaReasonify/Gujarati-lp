@@ -1,0 +1,278 @@
+{
+ "topics": [
+  {
+   "topic_id": "M1.S1.T1",
+   "avoid_checks": [
+    {
+     "check": "This topic carries `topic_category: \"introduction\"`, and the fact it teaches is WHY the telling happens: પૂર્વીદીદી has come from અમેરિકા during નવરાત્રી and says 'હું તો ગુજરાતનાં લોકનૃત્યો વિશે જાણકારી મેળવીને શિકાગોના એક અખબારમાં લેખ લખવાની છું !'. No sentence of `explanation`, `summary`, `detailed_summary`, any `concept_bullets` line or any `recall_questions[].answer` may ask or answer why પૂર્વી came, what ખુશાલી felt about her, or what happened 'પછી' as a story beat, and no field may name a વળાંક or call this the વાર્તાની શરૂઆત.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "Every proper noun and number in `explanation`, `summary`, `detailed_summary`, `important_points`, `concept_bullets` and `recall_questions[].answer` must be one this topic's `original_chunk` prints — નવરાત્રી, અંબેચોક, પાર્વતીમાસી, પૂર્વી, ખુશાલી, અમેરિકા, શિકાગો. Nothing about નવરાત્રી may be supplied from general knowledge: no count of days, no આસો સુદ, no માતાજીનાં નામ, no આરતી or સ્થાપના, no other town's ગરબા.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "No field may close on a culture-preservation line — 'ગરબા આપણી ઓળખ છે એટલે…', 'આપણે આપણી પરંપરા જાળવવી જોઈએ', 'આપણે પણ … જોઈએ'. The chapter's own words here are description ('આખું ગામ હિલોળે ચડે', 'રાત રળિયામણી બની જાય') and may be quoted as description only.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'એને ભારતનાં જુદાં-જુદાં લોકનૃત્યોનું બહુ જ ઘેલું છે' — બાળક 'ઘેલું' ને 'ગાંડું, મૂરખ' સમજી બેસે છે, એટલે વાક્ય પૂર્વીદીદીની મજાક ઉડાવતું લાગે છે અને એ ખરેખર શા માટે આવ્યાં છે એ વાત જ ખોવાઈ જાય છે.",
+   "correction": "જે વાક્યમાં શબ્દ આવે ત્યાં જ `ઘેલું — બહુ જ ગમવું તે, લગની` ગ્લોસ કરો અને એ જ વાક્યમાં બતાવો કે 'લોકનૃત્યોનું ઘેલું છે' એટલે 'લોકનૃત્યો બહુ જ ગમે છે'. પછી તરત પૂર્વીદીદીના પોતાના શબ્દો — જાણકારી મેળવીને લેખ લખવો છે — બાજુમાં મૂકો, જેથી બાળક જુએ કે ગમે છે માટે જ એ પૂછે છે."
+  },
+  {
+   "topic_id": "M1.S1.T2",
+   "avoid_checks": [
+    {
+     "check": "'વર્ષો પહેલાં નદીને કિનારે સંસ્કૃતિનું પારણું બંધાયું હતું' is the whole of what this chapter says about where લોકનૃત્યો began. No `explanation`, `summary`, `detailed_summary`, `important_points`, `concept_bullets` line or `recall_questions[].answer` may name a river, a civilisation, a period or a people the chunk does not print (સિંધુ, હડપ્પા, આદિમાનવ, પ્રાગૈતિહાસિક કાળ, 'નદીકિનારે સંસ્કૃતિઓ વિકસી'), and no field may turn the ખંડ into a history or social-science account of early man. It is a Gujarati chapter: teach પપ્પાનું વાક્ય and its words.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "'નૃત્યને એણે ડાન્સ કહ્યું એથી બધાં હસી પડ્યાં' — no field may present સુકેતુનો શબ્દ 'ડાન્સ' as a mistake, a ભૂલ or something to be corrected, and પપ્પાનું printed defence ('તમે સૌ હસો છો, પણ એનો સવાલ ઘણો જ મહત્ત્વનો છે !') must appear in `explanation` in the same breath as the laughter.",
+     "profile": "mahitiprad_gadya",
+     "severity": "soft"
+    },
+    {
+     "check": "'પપ્પા તો આ સાંભળીને રાજીના રેડ થઈ ગયા' — `key_terms` must carry `રાજીના રેડ — બહુ જ ખુશ` (or the same sense glossed inside `explanation` where the phrase appears), and no field may describe પપ્પા as ગુસ્સે, નારાજ or લાલ.",
+     "profile": "mahitiprad_gadya",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "'વર્ષો પહેલાં નદીને કિનારે સંસ્કૃતિનું પારણું બંધાયું હતું' — બાળક આ વાક્યને હકીકત ગણીને વાંચે છે અને નદીકિનારે કોઈએ સાચેસાચ ઘોડિયું બાંધ્યું હોય એવું ચિત્ર મનમાં ઊભું કરે છે; એટલે 'લોકનૃત્યો ક્યાંથી જન્મ્યાં' એ મુદ્દો હાથમાં આવતો જ નથી.",
+   "correction": "પહેલાં `પારણું — ઘોડિયું` ગ્લોસ કરો, પછી એ જ વાક્યને સાદી ગુજરાતીમાં ફરી કહો — 'નદીકિનારે માણસની સંસ્કૃતિ નાના બાળકની જેમ જન્મી ને ઊછરી.' કોઈ અલંકારનું નામ ન આપો; બસ પૂછો કે 'ઘોડિયામાં કોણ ઊછરે ? અહીં કોણ ઊછર્યું ?' અને પછી પપ્પાની છેલ્લી લીટી — 'માનવીના આનંદની ઊર્મિઓમાંથી જ લોકનૃત્યો જન્મ્યાં છે' — સાથે જોડી દો."
+  },
+  {
+   "topic_id": "M1.S2.T3",
+   "avoid_checks": [
+    {
+     "check": "The first sentence of `explanation` must state this માહિતી-ખંડ's fact — that ગરબો is 'ગુજરાતના અતિ પ્રાચીન લોકપ્રિય નૃત્યનો જ એક પ્રકાર' and that it is 'શક્તિપૂજા સાથે જોડાયેલો' — not that ખુશાલી could not hold back her કુતૂહલ or that પૂર્વીદીદી needs the point for her આર્ટિકલ. The children's questions may occupy at most one clause, and no field asks why ખુશાલી asked.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "Nothing may be added to 'શક્તિપૂજા' beyond what this chapter prints: no deity name the chapter does not print, no ritual, no સંપ્રદાય, no other festival, and no comparison with any other faith's practice, in `explanation`, `summary`, `detailed_summary`, `concept_bullets` or any `recall_questions[].answer`.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક 'શક્તિ' ને એના રોજિંદા અર્થમાં — તાકાત, બળ — વાંચે છે, એટલે 'શક્તિપૂજા' એટલે 'તાકાતની પૂજા' એવો અર્થ બેસી જાય છે અને મમ્મીના જવાબનો આખો સંદર્ભ ખસી જાય છે.",
+   "correction": "શબ્દ પહેલી વાર આવે એ જ વાક્યમાં `શક્તિ — અહીં માતાજી` અને `શક્તિપૂજા — માતાજીની પૂજા` ગ્લોસ કરો. પછી પાઠના પહેલા ફકરામાં આવી ગયેલી ગામની નવરાત્રી સાથે જોડીને એટલું જ કહો કે ગરબો એ પૂજા સાથે જોડાયેલો છે. પૂજા કેમ કરવી કે કોણે કરવી એ તરફ એક પણ વાક્ય ન જાય."
+  },
+  {
+   "topic_id": "M1.S2.T4",
+   "avoid_checks": [
+    {
+     "check": "The chapter's own naming must survive: `ગરબો` for the pot, `છિદ્રો` for the holes, and the printed phrase `ગરબો કોરાવ્યો` quoted in that exact form wherever `explanation`, `summary`, `detailed_summary`, `concept_bullets` or a `recall_questions[].answer` refers to it — never 'માટલું', 'મટકી' or 'કાણાંવાળો ઘડો બનાવ્યો' as a substitute. `key_terms` must carry `કોરાવ્યો` (or `કોરવું`) in `શબ્દ — અર્થ` form.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "This ખંડ prints only what a ગરબો is. No field may add why the છિદ્રો are made, how many there are, who makes it, that a દીવો is placed inside, that it is carried on the head, or any ritual around it — the દીવો enters this chapter only later through the word `ગર્ભદીપ`, and the symbolism only in પપ્પાના પછીના વાક્યમાં.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'ઘડામાં છિદ્રો પડાવીએ તેને ગરબો કોરાવ્યો એમ કહેવાય છે' — હિન્દી વાંચતું બાળક 'કોરાવ્યો' ને 'કોરું' (ખાલી, સૂકું) સાથે જોડી દે છે, એટલે 'ગરબો કોરાવ્યો' એટલે 'ઘડો ખાલી કર્યો' કે 'ઘડો સૂકવ્યો' એવો ઊંધો અર્થ બેસી જાય છે.",
+   "correction": "પહેલા જ વાક્યમાં `કોરવું — કાણાં પાડવાં` ગ્લોસ કરો અને તરત જોડી બતાવો : 'ગરબો કોરાવ્યો' એટલે 'ઘડામાં કાણાં પડાવ્યાં'. પછી `છિદ્ર — કાણું` મૂકીને પપ્પાનું આખું વાક્ય ફરી બોલાવો, જેથી શબ્દ ને ક્રિયા બંને સાથે બેસી જાય."
+  },
+  {
+   "topic_id": "M1.S3.T5",
+   "avoid_checks": [
+    {
+     "check": "The chapter prints the word-journey and nothing else: `ગર્ભદીપ` → `ગર્ભો` → `ગરબો`. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line, `key_terms` entry or `recall_questions[].answer` may introduce a language-study term the chapter does not print (સંસ્કૃત, પ્રાકૃત, અપભ્રંશ, વ્યુત્પત્તિ, તદ્ભવ, તત્સમ, ધ્વનિપરિવર્તન) or turn the ખંડ into a lesson on how words change — std 6's own ladder stops at શબ્દ, વાક્ય and જોડાક્ષર.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "No field may state when, where or by whom the word changed, or claim that any other Gujarati word came about the same way. The three printed words, in their printed order, are the whole content of this topic.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'ગર્ભો' અને 'ગરબો' બાળકને એક જ શબ્દ લાગે છે — જોડાક્ષર `ર્ભ` વંચાતો ન હોવાથી એ 'ગર્ભો' ને પણ 'ગરબો' જ વાંચે છે, ને શબ્દની આખી સફર 'એક જ શબ્દ બે વાર લખ્યો છે' બની જાય છે.",
+   "correction": "ત્રણેય શબ્દ `ગર્ભદીપ`, `ગર્ભો`, `ગરબો` ક્રમમાં લખાવીને મોટેથી બોલાવો, અને બતાવો કે 'ગર્ભો'માં `ર્ભ` જોડાક્ષર છે જ્યારે 'ગરબો'માં `ર` ને `બ` છૂટા છે. સાથે `ગર્ભ — અંદરનો ભાગ` ને `દીપ — દીવો` ગ્લોસ કરો, જેથી પહેલો શબ્દ શેમાંથી બન્યો છે એ પણ દેખાય."
+  },
+  {
+   "topic_id": "M1.S3.T6",
+   "avoid_checks": [
+    {
+     "check": "'ઘડો એ બ્રહ્માંડની કલ્પના છે' is taught as the કલ્પના the chapter states. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may explain બ્રહ્માંડ with a science account (સૂર્યમાળા, ગ્રહો, તારા, પૃથ્વીનું ભ્રમણ), and no field may correct the કલ્પના against fact ('ખરેખર ઘડો બ્રહ્માંડ નથી', 'વૈજ્ઞાનિક રીતે…').",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "No field may close on a devotional instruction — 'આપણે આદ્યશક્તિમાં શ્રદ્ધા રાખવી જોઈએ', 'ભક્તિભાવ કેળવવો જોઈએ', 'આપણે પણ … જોઈએ'. પપ્પાનું printed sentence 'ગરબો એ આદ્યશક્તિ તરફના ભક્તિભાવનું પ્રતીક છે !' may be quoted as પપ્પાની માહિતી, never converted into an instruction to the child.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'ઘડો એ બ્રહ્માંડની કલ્પના છે' ને 'ગરબો એ ભક્તિભાવનું પ્રતીક છે' — બાળક બંને વાક્યોને સીધી હકીકત તરીકે લે છે અને વિચારે છે કે ઘડો ખરેખર બ્રહ્માંડ છે; 'પ્રતીક' શબ્દ ન સમજાવાથી આખું વાક્ય કાં તો ખોટું લાગે છે, કાં તો કોરું ગોખાઈ જાય છે.",
+   "correction": "`પ્રતીક — નિશાની; નાની વસ્તુ મોટી વાત સૂચવે તે` એ ગ્લોસ પહેલા વાક્યમાં જ મૂકો. પછી પપ્પાની ત્રણ વાત ક્રમમાં ગોઠવો — `ગર્ભ — ઘડાનો અંદરનો ભાગ`, એ પોલા ભાગ પરથી આખા જગતની કલ્પના, ને એ ઘડો માતાજી તરફના ભાવની નિશાની. ખરું-ખોટું ઠરાવવા તરફ એક પણ વાક્ય ન જાય."
+  },
+  {
+   "topic_id": "M1.S4.T7",
+   "avoid_checks": [
+    {
+     "check": "'ગરબી' is taught as the chapter defines it — 'ગરબી એટલે લાકડાની માંડવડી, ગરબી એ પુરુષનૃત્યનો પ્રકાર છે' — and no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may call it 'ગરબાનો જ એક પ્રકાર', 'નાનો ગરબો' or 'ગરબા જેવું જ'. `માંડવડી`, `નરઘાં`, `દાંડિયા` and `મંજીરાં` appear in their printed forms, and `માંડવડી` appears in `key_terms` in `શબ્દ — અર્થ` form.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "Both sides of the ગરબો/ગરબી comparison get comparable detail (who sings it, what it is, its વાદ્ય where printed) and no field may carry a comparative that ranks them — વધુ જાણીતું, વધુ સારું, વધુ ખરું, મોટું/નાનું, આધુનિક કરતાં.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "મમ્મીની printed qualification 'કોઈ વાર પુરુષો એમાં જોડાય એવું બને' must travel with every statement of who sings ગરબો in `explanation`, `summary`, `detailed_summary`, `concept_bullets` and `recall_questions[].answer`; and no field may add a reason why ગરબી is sung only by પુરુષો, since the chapter gives none.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'ગરબી' શબ્દ સાંભળીને બાળક એને 'ગરબો'નું નાનું રૂપ સમજી લે છે — જેમ ઘડો-ઘડી — એટલે એ ધારી બેસે છે કે ગરબી એટલે નાનો ગરબો કે બહેનોનું નાનું ગરબા-રમવું; પાઠનો જવાબ એનાથી સાવ ઊંધો છે.",
+   "correction": "પહેલા જ વાક્યમાં `ગરબી — લાકડાની માંડવડી; પુરુષોનું નૃત્ય` એમ ગ્લોસ કરો, અને પછી બે સામસામાં વાક્ય મૂકો : ગરબો મોટેભાગે સ્ત્રીઓ ગાય, કોઈ વાર પુરુષો જોડાય; ગરબી માત્ર પુરુષો ગાય. 'નાનો ગરબો' જેવો શબ્દપ્રયોગ ક્યાંય ન આવે."
+  },
+  {
+   "topic_id": "M2.S5.T8",
+   "avoid_checks": [
+    {
+     "check": "This topic carries `topic_category: \"transition\"`, and its fact is that ગુજરાતના જુદા જુદા પ્રદેશોમાં પ્રાદેશિક લોકનૃત્યો છે, and that the book 'ગુજરાતનાં લોકનૃત્યો' is the answer પપ્પા hands over. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may ask or answer why પપ્પા decided to fetch the book, treat the moment as a વળાંક, or make સૌની નજર or પૂર્વીદીદીનો આનંદ the subject of the topic.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "The book is named exactly as printed — 'ગુજરાતનાં લોકનૃત્યો' — and nothing may be added about it in any field: no author, publisher, year, price, number of pages or contents. The only things said about the મુખપૃષ્ઠ are the printed ones — નૃત્યનું રંગીન ચિત્ર and મોટા અક્ષરોમાં લખેલું નામ.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "'ગરબો ને ગરબી તો આખા ગુજરાતની ઓળખ છે' must not become a ranking: no field may present the પ્રાદેશિક નૃત્યો that follow as smaller, lesser-known, local-only or less important than ગરબો-ગરબી.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'અમારી સૌની નજર એ પુસ્તકના મુખપૃષ્ઠ પર સ્થિર થઈ' — જોડાક્ષરવાળા તત્સમ શબ્દ `મુખપૃષ્ઠ` પર બાળક અટકે છે અને 'મુખ' પરથી 'મોઢું' સમજી લે છે, એટલે વાક્ય 'સૌ કોઈના મોઢા સામે જોવા લાગ્યાં' જેવું ખોટું બની જાય છે.",
+   "correction": "શબ્દ જ્યાં આવે ત્યાં જ `મુખપૃષ્ઠ — પુસ્તકનું પહેલું પાનું` ગ્લોસ કરો, ને એ જ વાક્યમાં એના પર શું છે એ ગણાવો — નૃત્યનું રંગીન ચિત્ર ને મોટા અક્ષરે લખેલું 'ગુજરાતનાં લોકનૃત્યો'. સાથે `સ્થિર — હાલ્યા વગરનું` પણ મૂકી દો."
+  },
+  {
+   "topic_id": "M2.S5.T9",
+   "avoid_checks": [
+    {
+     "check": "The printed names travel unchanged — `પઢાર`, `ભાલ`, `નળકાંઠો`. No `explanation`, `real_life_example`, `important_points` entry, `concept_bullets` line or `recall_questions[].answer` may replace them with 'આદિવાસી લોકો', 'ગામડાના લોકો', 'એ લોકો', 'ત્યાંની પ્રજા', nor contain પછાત, અભણ, જંગલી, 'એમની રીતભાત' or a synonym. The મંજીરાં-રાસ is described as પઢારોનું પોતાનું નૃત્ય, not as something watched from outside.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "The વાદ્ય list is exactly the printed one — મંજીરાં, એકતારો, તબલાં, કાંસીજોડ, બગલિયું — with nothing added and nothing dropped. Any description of an instrument beyond its name must be traceable to a printed line of this chapter (the printed શબ્દાર્થ box glosses only `નરઘાં`; the સ્વાધ્યાય line 'એક જ તાર છે છતાં કેવું મધુર સંગીત આપે છે !' is the only printed statement about the એકતારો). A name left unglossed is correct; an invented description is not.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "`રાસ` enters the chapter here for the first time. No field may equate it with ગરબો or ગરબી, or describe it beyond a plain gloss of the 'સમૂહમાં ગોળાકારે ફરીને કરાતું નૃત્ય' kind.",
+     "profile": "mahitiprad_gadya",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "'ભાલના નળકાંઠામાં વસતા પઢારો' — બાળક `પઢાર` ને કોઈ ગામ કે જગ્યાનું નામ સમજી લે છે, અથવા ભાલ, નળકાંઠો ને પઢાર — ત્રણેયને એક જ જગ્યાનાં જુદાં નામ ગણી લે છે; પછી 'આ નૃત્ય કોનું છે ?' એ પ્રશ્નનો જવાબ આપી શકાતો નથી.",
+   "correction": "એક જ વાક્યમાં ત્રણેય નામ ક્રમમાં જોડો ને દરેકની ઓળખ સાથે આપો : `ભાલ — ગુજરાતનો એક પ્રદેશ`, `નળકાંઠો — ભાલનો એક વિસ્તાર`, `પઢાર — ત્યાં વસતો સમુદાય`. પછી કહો કે મંજીરાંનું લોકનૃત્ય એ પઢારોનું પોતાનું નૃત્ય છે."
+  },
+  {
+   "topic_id": "M2.S5.T10",
+   "avoid_checks": [
+    {
+     "check": "The chapter puts હીંચ in the present — 'ભાલ અને કાઠિયાવાડમાં એ ઘણું જ પ્રચલિત છે !'. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may move it into the past or towards disappearance — 'પહેલાંના જમાનામાં લેવાતી', 'હવે ભાગ્યે જ જોવા મળે છે', 'જૂનું નૃત્ય'.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "`હીંચ` / `હીંચનૃત્ય` and `ગાગર` keep their printed forms wherever the teaching refers to them — no 'ગરબા જેવું નૃત્ય' as a substitute for હીંચ and no 'ઘડો' in place of `ગાગર` — and `હીંચ` appears in `key_terms` in `શબ્દ — અર્થ` form.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "The first sentence of `explanation` must name this ખંડ's fact — હાથમાં ગાગર લઈને લેવાતી હીંચ, જે ભાલ અને કાઠિયાવાડમાં પ્રચલિત છે — and not that ખુશાલીના શિક્ષક ભાલપ્રદેશના છે; the teacher and પૂર્વીદીદીનું અખબાર-વાચન may occupy at most one clause each.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "`હીંચ` શબ્દ પરથી બાળકને `હીંચકો` યાદ આવે છે અને 'હીંચ લેવી' એટલે 'હીંચકે ઝૂલવું' એવો અર્થ કરી બેસે છે; પછી હાથમાં ગાગર લઈને લેવાતી હીંચનું ચિત્ર મનમાં ઊભું જ થતું નથી.",
+   "correction": "શબ્દ પહેલી વાર આવે ત્યાં જ `હીંચ — ઝુલાવીને લેવાતું એક લોકનૃત્ય; 'હીંચ લેવી' એટલે એ નૃત્ય કરવું` ગ્લોસ કરો, અને એની સાથે જ પાઠનું પોતાનું ચિત્ર મૂકો — હાથમાં `ગાગર` લઈને ઝૂલતાં ઝૂલતાં નાચવું. પછી પૂછો કે એ દૃશ્ય કેવું દેખાતું હશે."
+  },
+  {
+   "topic_id": "M2.S6.T11",
+   "avoid_checks": [
+    {
+     "check": "The printed names stay — `સૌરાષ્ટ્ર`, `ચોરવાડ પંથક`, and the performers as the chapter names them (`સ્ત્રીઓ`, `બહેનો`). No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may substitute 'એ લોકો' or 'ત્યાંની બહેનો' as a generic, or add ગરીબ, મજૂર, અભણ, પછાત; and the origin is credited exactly as printed — 'સ્ત્રીઓની કોઠાસૂઝમાંથી જ આ ટિપ્પણી નૃત્ય જન્મ્યું છે !'.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "પપ્પાનું general sentence 'કોઈ પણ કળા તન અને મનને આનંદ આપનારી હોય છે' may be quoted as પપ્પાના શબ્દો, but no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may close on it turned into an instruction to the child — 'આપણે પણ કામ સાથે ગીત ગાવું જોઈએ', 'મહેનતથી ડરવું ન જોઈએ', 'કળા જીવનમાં જરૂરી છે'.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "`શ્રમહારી` keeps its printed form and the chapter's own gloss — 'શ્રમહારી એટલે થાકને હરનારું !' — and appears in `key_terms` in `શબ્દ — અર્થ` form; the same printed forms hold for `કોઠાસૂઝ`, `ઝાંઝ`, `શરણાઈ` and `રમઝટ`.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "`શ્રમહારી` ને બાળક `હાર` સાથે જોડી દે છે અને 'શ્રમથી હારેલું, થાકેલું' એવો અર્થ કરે છે — એટલે થાક ઉતારનારા નૃત્યની વાત ઊંધી થઈને 'થાકી ગયેલી બહેનોનું નૃત્ય' બની જાય છે.",
+   "correction": "શબ્દને ટુકડે ટુકડે ખોલો : `શ્રમ — મહેનત`, `હરવું — દૂર કરવું, લઈ લેવું`, એટલે `શ્રમહારી — થાકને હરી લેનારું` — પપ્પાના પોતાના શબ્દોમાં જ. પછી પાઠનું ચિત્ર મૂકો : હલકા કંઠે ગીત ઊપડે ને ઝાંઝ-મંજીરાં-ઢોલ-શરણાઈની રમઝટમાં કઠોર પરિશ્રમ હળવો બની જાય છે."
+  },
+  {
+   "topic_id": "M2.S6.T12",
+   "avoid_checks": [
+    {
+     "check": "The chapter's own tense split must survive: the ચૂનો-ધરબવાનું કામ is printed in the past ('જૂના જમાનાનાં મકાનોમાં … ચૂનો ધરબવામાં આવતો'), but the નૃત્ય is printed as living and famous ('એ તો આખા ભારતમાં જાણીતું બન્યું છે', printed in the preceding માહિતી-ખંડ). No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may put the ટિપ્પણી નૃત્ય itself into the past or towards extinction — 'હવે થતું નથી', 'જૂના જમાનાનું નૃત્ય', 'લુપ્ત થતું જાય છે'.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "Nothing may be added about ચૂનો, બાંધકામ or the tool beyond the printed description — 'લાંબી લાકડીના છેડે લાકડાનો ચોરસ અથવા તો લોખંડનો ગોળ ગડબો લગાડવામાં આવતો'. No સિમેન્ટ, no કૉંક્રીટ, no reason why ચૂનો was used, no measurement, and no claim about how long the practice lasted.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "`ટિપ્પણી`, `ગડબો`, `પાવડી`, `ઝાંઝ`, `શરણાઈ`, `સિંધુડો` and `પ્રભાતિયું` all keep their printed forms; `સિંધુડો` and `પ્રભાતિયું` are glossed only as far as the printed શબ્દાર્થ box glosses them ('શૂર ચડે એવા સૂરનો એક રાગ', 'સવારમાં ગાવાનું એક પ્રકારનું પદ'), and at least one of them appears in `key_terms` in `શબ્દ — અર્થ` form.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "`ટિપ્પણી` શબ્દ બાળકે શાળામાં 'નોંધ' ના અર્થમાં સાંભળ્યો હોય છે, એટલે 'ટિપ્પણી નૃત્ય' એટલે 'નોંધનું નૃત્ય' જેવું અર્થ વગરનું કશુંક બની જાય છે, અને પાઠનો પોતાનો સવાલ — 'એને ટિપ્પણી નૃત્ય કેમ કહ્યું હશે ?' — નકામો થઈ જાય છે.",
+   "correction": "પહેલા જ વાક્યમાં `ટિપ્પણી — અહીં ચૂનો ધરબવાનું સાધન` ગ્લોસ કરો અને તરત પાઠનું ચિત્ર આપો : લાંબી લાકડી, એના છેડે લાકડાનો ચોરસ કે લોખંડનો ગોળ `ગડબો`. પછી બતાવો કે એ સાધનનું નામ જ નૃત્યને મળી ગયું — એ જ પાઠના સવાલનો જવાબ છે."
+  },
+  {
+   "topic_id": "M2.S7.T13",
+   "avoid_checks": [
+    {
+     "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may close on 'આપણે આપણી સંસ્કૃતિ જાળવવી જોઈએ', 'આ પાઠ આપણને શીખવે છે…', 'આપણે પણ ગરબા રમવા જોઈએ' or any … જોઈએ clause that is not quoted from this chapter. The chapter's own closing moves are પપ્પાનું વચન — 'હું દરરોજ બપોરે ગુજરાતના એક-એક નૃત્ય વિશે તમને જરૂર કહીશ !' — and the sung ગરબાની પંક્તિ; a closing sentence takes one of those or ends on the fact.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "This topic carries `topic_category: \"resolution\"`, and what it carries is that the information is deliberately left unfinished — 'કેટલાંય !' — with a promise of more. No field may ask or answer why દાસકાકાનો ફોન came or why પપ્પા chose to leave, and no field may call this the વાર્તાનો અંત or name a વળાંક.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "The quoted line 'કેસરિયો રંગ તને લાગ્યો અલ્યા, ગરબા ! કેસરિયો રંગ તને લાગ્યો રે લોલ !' is carried exactly as printed, with `અલ્યા` and `રે લોલ` kept and never repaired. `figures_of_speech` may hold only entries quoting exact words of this topic's `original_chunk`, and `[]` is a correct answer here; no field may print an અલંકાર or છંદ label (સજીવારોપણ, રૂપક, ઉપમા, or પ્રાસ used as a label) — std 6 names no device.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "છેલ્લી ટાંકેલી પંક્તિ બાળકને તૂટેલી-ખોટી ગુજરાતી લાગે છે : 'અલ્યા, ગરબા !' પરથી એ ધારે છે કે કોઈ 'ગરબા' નામના છોકરાને બોલાવે છે, ને 'રે લોલ' ને છાપભૂલ ગણીને આખી પંક્તિ ઠેકી જાય છે.",
+   "correction": "પંક્તિ જેમ છપાઈ છે તેમ જ ટાંકો, પછી કહો કે અહીં ગરબાને જ સંબોધીને ગવાય છે — 'તને' એટલે ગરબાને. `અલ્યા — અરે !` અને `રે લોલ — ગીતની ચાલ સાચવવા ઉમેરાતો શબ્દ; એ ભૂલ નથી` એમ ગ્લોસ કરો, ને આખો વર્ગ પંક્તિ મોટેથી બોલે એવું કહો."
+  }
+ ],
+ "chapter_level": [
+  "The whole chapter is informational prose carried by a family conversation, not a વાર્તા. No field anywhere may ask why a character acted, name a વળાંક, or make a speaker's feelings the payload of a topic — every માહિતી-ખંડ's payload is a fact about ગરબો, ગરબી or a regional dance, and the speaker (પપ્પા, મમ્મી) gets at most one clause.",
+  "The chapter prints its dialogue in double quotes with no speaker label before a colon, and the narrator is an unnamed boy ('મેં પૂછ્યું'). A std-6 L2 reader loses who is speaking within two sentences, so every field that reports a fact should name its speaker once, in a clause — 'મમ્મી કહે છે…', 'પપ્પા સમજાવે છે…' — and the printed names પૂર્વીદીદી, ખુશાલી, સુકેતુ, દાસકાકા are used as printed.",
+  "The chapter deliberately prints English words inside the family's speech — ડાન્સ, આર્ટિકલ, પોઇન્ટ, 'વન મિનિટ', રેકોર્ડ, 'વાઉ', 'સો વંડરફૂલ', 'થેન્ક યુ વેરી મચ', લાઇવ, 'થેન્ક્સ અ લોટ' — and its own સ્વાધ્યાય asks the child to list them ('આ પાઠમાં કેટલાક અંગ્રેજી ભાષાના શબ્દો વપરાયા છે. એ શબ્દોની યાદી કરો અને વાક્યપ્રયોગ કરો.'). No field may call them mistakes, 'ખોટી ગુજરાતી' or something to correct — this reader speaks that way too. Keep them as printed and leave the work on them to the printed exercise.",
+  "Std 6 names no અલંકાર and no છંદ. This chapter's figurative lines — 'સંસ્કૃતિનું પારણું બંધાયું', 'પ્રકૃતિમાતાની ગોદ', 'ઘડો એ બ્રહ્માંડની કલ્પના છે', 'આખું ગામ હિલોળે ચડે', 'કેસરિયો રંગ તને લાગ્યો અલ્યા, ગરબા !' — are handled by re-saying them in simple Gujarati and asking what they show, never by naming a device.",
+  "Place and community names printed in this chapter travel in exactly their printed forms wherever the teaching mentions them — અંબેચોક, ભાલ, નળકાંઠો, પઢાર, કાઠિયાવાડ, સૌરાષ્ટ્ર, ચોરવાડ પંથક, અમેરિકા, શિકાગો. A generic substitute ('એક ગામ', 'ત્યાંના લોકો', 'એ લોકો') is a hard fail.",
+  "The chapter is the fact ceiling. Its printed શબ્દાર્થ box glosses only રળિયામણું, અચરજ, ઊર્મિ, કુતૂહલ, લોકનૃત્ય, ઉત્સવ, પારણું, ગોદ, નરઘાં, ઉમળકો, ગાગર, સિંધુડો and પ્રભાતિયું (ગડબો is printed inside the ગાગર entry with no gloss of its own). Anything about નવરાત્રી, the history of ગરબા, these regions or these instruments that is not on a printed line of this chapter — its સ્વાધ્યાય included — is invention."
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "M1.S1.T1": {
+  "avoid_checks": [
+   {
+    "check": "Gate 4 (spoiling the turn), bound to the opening topic: no sentence of `explanation`, `summary`, `detailed_summary`, any `concept_bullets` line or any `recall_questions[].answer` may name what becomes of અભિમન્યુ — the words `વીરગતિ`, `હત્યા`, `મૃત્યુ`, `શહીદ` and the names `જયદ્રથ`, `દુઃશાસન`, `કૃતવર્મા` must not appear anywhere in this topic. This topic knows only કુંતીજી's prediction and the boy's own `‘‘હું પણ પિતાશ્રીના જેવો જ મહાન યોદ્ધો બનીશ !’’`.",
+    "profile": "varta",
+    "severity": "hard"
+   },
+   {
+    "check": "Gate 1 (summary-only teaching): `explanation` must add something `modified_chunk` does not already carry — why the opening sets three models side by side (`માતા જેવો નીડર`, `પિતા જેવો યોદ્ધો`, `મામા જેવો વિચક્ષણ`), or what the દ્વારિકા childhood with `કશી રોકટોક નહિ` sets up. An `explanation` that only restates who married whom fails.",
+    "profile": "varta",
+    "severity": "hard"
+   }
+  ],
+  "misconception": "આ પાઠમાં ‘મામા’ શબ્દ વારંવાર આવે છે, પણ બાળક સંબંધોની સાંકળ પકડી શકતું નથી — સુભદ્રા બલરામ-શ્રીકૃષ્ણનાં બહેન, અર્જુનનાં પત્ની અને અભિમન્યુનાં માતા — એ એક વાક્યમાં ન બેસે તો આગળ આવતાં ‘બલુમામા’, ‘કૃષ્ણમામા’ અને પછી ‘કાકા ભીમસેન’ અલગ અલગ નામ જેવાં લાગે છે, અને આખી કથા કોણ કોનું છે એ સમજ્યા વગર વંચાય છે.",
+  "correction": "પહેલાં વાક્યોમાં જ સંબંધ ગોઠવી આપો — `મામા — માતાનો ભાઈ` એમ ગ્લોસ કરો અને એક વાક્યમાં કહો કે સુભદ્રા બલરામ-શ્રીકૃષ્ણનાં બહેન છે, એટલે એ બંને અભિમન્યુના મામા થાય; `key_terms`માં `મામા — માતાનો ભાઈ` મૂકો અને પછીના ટોપિકમાં એ જ શબ્દ આવે ત્યાં તેને ફરી વાપરો."
+ },
+ "M1.S1.T2": {
+  "avoid_checks": [
+   {
+    "check": "Gate 1 (summary-only teaching): `explanation` must add the mechanism of the joke — the same boy who could not make the ગદા budge (`હાલે જ નહિ !`) turns round and asks બલુમામા about the હળ — not merely restate that અભિમન્યુ asked a question. If `explanation` can be swapped for this topic's `modified_chunk` with no loss of information, the topic fails.",
+    "profile": "varta",
+    "severity": "hard"
+   },
+   {
+    "check": "The page never answers અભિમન્યુ's question. No sentence of `explanation`, `detailed_summary`, a `concept_bullets` line or a `recall_questions[].answer` may state that બલરામનું હળ *is* a શસ્ત્ર (or *is* only a ખેડનું સાધન); `‘‘…હળ ખેડનું સાધન કહેવાય કે શસ્ત્ર કહેવાય ?’’` stays standing as the open joke the chapter prints.",
+    "profile": "varta",
+    "severity": "soft"
+   }
+  ],
+  "misconception": "બાળક ગદા અને હળને એક જ વસ્તુ સમજી બેસે છે — ‘ગદા ઊંચકવા ગયો’ પછી તરત ‘તમારું આ હળ’ આવે છે, એટલે એને લાગે છે કે જે ઊંચકાયું નહિ એ જ હળ હશે; અને એ ભેળસેળ થતાં અભિમન્યુના સવાલમાં જે ચતુરાઈ છે તે આખી ઊડી જાય છે.",
+  "correction": "બંને ચીજ જ્યાં આવે ત્યાં જ જુદી પાડીને ગ્લોસ કરો — `ગદા — લોઢાનું ભારે, દંડ જેવું શસ્ત્ર` અને `હળ — ખેતર ખેડવાનું ઓજાર` — અને એક વાક્યમાં કહો કે બલુમામા પાસે એ બંને છે — અેટલે જ ભાણેજનો સવાલ મજાકનો બને છે."
+ },
+ "M1.S1.T3": {
+  "avoid_checks": [
+   {
+    "check": "Gate 3 (judging a character the story treats with sympathy): no `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may describe બલરામ as ગુસ્સાવાળા, ચીડિયા, નારાજ or a synonym. The text prints `બલરામ ખોટા ખોટા ગુસ્સે થાય` and closes `બધાંને ગમ્મત પડે` — the anger is play, and a field that reports it as real anger fails.",
+    "profile": "varta",
+    "severity": "hard"
+   },
+   {
+    "check": "No field may settle whose બુદ્ધિ it really is. `‘‘બુદ્ધિ તો એના બાપની છે !’’` / `‘‘બાપની નહિ, મામાની કહો !’’` is a family tease; an `explanation` or `recall_questions[].answer` that concludes અભિમન્યુ got his cleverness from શ્રીકૃષ્ણ (or from અર્જુન) states as fact what the chapter prints as a joke.",
+    "profile": "varta",
+    "severity": "soft"
+   }
+  ],
+  "misconception": "‘‘નાનામામાની !’’ કહીને શ્રીકૃષ્ણ પોતાની જ વાત કરે છે એ બાળક પકડી શકતું નથી, અને ‘બલરામ ખોટા ખોટા ગુસ્સે થાય’ વાંચીને એને લાગે છે કે મામા સાચે ગુસ્સે થયા — એટલે ઘરની મીઠી રકઝક ઝઘડો બની જાય છે.",
+  "correction": "એક વાક્યમાં ખોલો કે બે મામામાં નાના તે શ્રીકૃષ્ણ પોતે, એટલે એ ભાણેજની બુદ્ધિનો જશ પોતાને લે છે; પછી `ખોટા ખોટા ગુસ્સે થવું — સાચે ગુસ્સો ન હોય છતાં રમતમાં ગુસ્સાનો ડોળ કરવો` ગ્લોસ કરી, પાઠનું જ `બધાંને ગમ્મત પડે` ટાંકીને બતાવો કે આ મજાક છે."
+ }
+}

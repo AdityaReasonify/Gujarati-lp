@@ -1,0 +1,78 @@
+{
+  "agent": "16_publication_authoring",
+  "chapter_id": "gseb_eng_gujarati6_ch6",
+  "plan_id": "gseb_eng_gujarati6_ch6_v1",
+  "grade": 6,
+  "tier": "ધોરણ",
+  "status": "blocked_no_input",
+  "blocked_on": [
+    "output6/ch06/12_authoring.json"
+  ],
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "publication_text": null,
+      "publication_chunk": null,
+      "concept_publication": []
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "publication_text": null,
+      "publication_chunk": null,
+      "concept_publication": []
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "publication_text": null,
+      "publication_chunk": null,
+      "concept_publication": []
+    },
+    {
+      "topic_id": "M1.S2.T4",
+      "publication_text": null,
+      "publication_chunk": null,
+      "concept_publication": []
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "publication_text": null,
+      "publication_chunk": null,
+      "concept_publication": []
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "publication_text": null,
+      "publication_chunk": null,
+      "concept_publication": []
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "publication_text": null,
+      "publication_chunk": null,
+      "concept_publication": []
+    },
+    {
+      "topic_id": "M2.S4.T8",
+      "publication_text": null,
+      "publication_chunk": null,
+      "concept_publication": []
+    }
+  ],
+  "notes": [
+    "BLOCKED, NOT FAILED-OPEN. This file is emitted in the correct shape with every publication field null and every concept_publication list empty, because the required input output6/ch06/12_authoring.json does not exist.",
+    "publication_text and publication_chunk are defined by agents/16_publication_authoring.md as a register-rewrite of Agent 12's teaching block — the vocative and the direct instruction dropped, every fact, gloss and reading kept. The spec states that a publication_text which adds meaning the teaching block does not have is a bug. With no teaching block in existence, any text written here would be newly authored teaching content, not a rewrite: that is Agent 12's lane and it would be fabrication under reference/no_hallucination_policy.md rule 3 ('an empty field beats an invented one').",
+    "Verified state of the upstream at the time of this run: in 13_merged.json all 8 topics carry explanation == '' and real_life_example == '', all 11 concepts carry content == [], and summary/brief_summary/detailed_summary are empty. No source for a faithful rewrite exists anywhere in the chapter outputs.",
+    "concept_publication is [] on every topic for a structural reason, not an oversight: the spec requires exactly one entry per Agent 12 'paragraph' block, in order, never renumbered, reordered or dropped. Agent 12 produced zero paragraph blocks, so zero entries is the only index-faithful answer. Inventing content_index values would guarantee a mismatch once Agent 12 does run.",
+    "05_with_content.json / 13_merged.json modified_chunk was deliberately NOT used as a substitute source. modified_chunk is Agent 5's simplified retelling of the passage, not a teaching block; promoting it into publication_text would silently ship Agent 5's text under Agent 16's contract and would still leave explanation, real_life_example and the concept paragraphs unrepresented.",
+    "original_chunk was left untouched and was not reflowed, modernised or paraphrased anywhere in this file.",
+    "TO UNBLOCK: run agents/12_authoring.md for ch06, then re-run this agent. The topic and concept inventory that this file must be filled against is recorded below so the index-match can be checked directly.",
+    "M1.S1.T1 — concepts M1.S1.T1.C1/M1.S1.T1.C2; Agent 12 paragraph blocks available: 0; concept_publication entries emitted: 0",
+    "M1.S2.T2 — concepts M1.S2.T2.C3/M1.S2.T2.C4; Agent 12 paragraph blocks available: 0; concept_publication entries emitted: 0",
+    "M1.S2.T3 — concepts M1.S2.T3.C5; Agent 12 paragraph blocks available: 0; concept_publication entries emitted: 0",
+    "M1.S2.T4 — concepts M1.S2.T4.C6; Agent 12 paragraph blocks available: 0; concept_publication entries emitted: 0",
+    "M2.S3.T5 — concepts M2.S3.T5.C7/M2.S3.T5.C8; Agent 12 paragraph blocks available: 0; concept_publication entries emitted: 0",
+    "M2.S3.T6 — concepts M2.S3.T6.C9; Agent 12 paragraph blocks available: 0; concept_publication entries emitted: 0",
+    "M2.S4.T7 — concepts M2.S4.T7.C10; Agent 12 paragraph blocks available: 0; concept_publication entries emitted: 0",
+    "M2.S4.T8 — concepts M2.S4.T8.C11; Agent 12 paragraph blocks available: 0; concept_publication entries emitted: 0"
+  ]
+}

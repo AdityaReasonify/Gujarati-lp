@@ -1,0 +1,18 @@
+{
+  "chapter_id": "gseb_eng_gujarati7_ch8",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S1.T2",
+    "M1.S2.T3",
+    "M2.S3.T4",
+    "M2.S3.T5",
+    "M2.S4.T6",
+    "M3.S5.T7"
+  ],
+  "source": "printed pages 50-52 read off the render (_renders/page-1.png, page-2.png, page-3.png)",
+  "notes": [
+    "The printed order of the teaching text equals the logical order of 02_structure.json: the seven ઘટના appear on the page in exactly the sequence T1 → T7, with no reordering anywhere. Emitted explicitly so Agent 15 compares against a real index rather than an assumption.",
+    "Read off the render, not inferred: T1 and the first half of T2's beat sit on printed p. 50, T2 (from the કળેળાટ speech) through the opening of T5 on p. 51, and the rest of T5, T6 and T7 on p. 52. The illustration on p. 51 and the p. 51/52 page turn both fall INSIDE T5 and change nothing about the order.",
+    "Nothing between the chapters entered this list. The chapter's own apparatus — the teacher-addressed પ્રવેશપેટી, the શબ્દાર્થ box (p. 52), the રૂઢિપ્રયોગ box (p. 53), the fourteen સ્વાધ્યાય blocks (pp. 53-55) and the chapter-final ક્રિયાવિશેષણ grammar box (p. 56) — is not teaching text and holds no topic id."
+  ]
+}

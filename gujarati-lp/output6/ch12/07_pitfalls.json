@@ -1,0 +1,221 @@
+{
+ "topics": [
+  {
+   "topic_id": "M1.S1.T1",
+   "avoid_checks": [
+    {
+     "check": "Added facts: no fair is named in `explanation`, `summary`, `detailed_summary`, `concept_bullets`, `important_points` or any `recall_questions[].answer` beyond what this topic's `original_chunk` prints — it carries only the general `ગુજરાતના જુદાજુદા પ્રદેશોમાં વાર-તહેવારે મેળા ભરાય છે` and `અમદાવાદ` inside the chapter's own example sentence `અમદાવાદમાં મને એનો મેળાપ અથવા ભેટો થયો`. તરણેતર, વૌઠા, ભવનાથ, શામળાજી or any other named મેળો, and any count of Gujarat's fairs, fails.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "The fact in the first sentence: this topic's `explanation` names in its opening sentence the thing it teaches — that `મેળો` શબ્દના એક કરતાં વધારે અર્થ છે, `મેળાપ / ભેટો` and `ઘણા માણસનું એકઠા થવું`. An opening sentence that only announces the chapter's start or says `મેળા વિશે માહિતી આપી છે` fails.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "Intro-box register: no sentence of `explanation`, `real_life_example` or a `recall_questions[].answer` carries the first page's teacher-addressed blue-box wording — `ભાતીગળ લોકસંસ્કૃતિ`, `વૈવિધ્યસભર`, `આગવી પરંપરા`, `ભાષાશિક્ષણનું કાર્ય` — none of which is in this topic's `original_chunk`; the chunk's own phrase is `આગવી વિશેષતા`.",
+     "profile": "mahitiprad_gadya",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "હિન્દી-માધ્યમનું બાળક `ભેટો` ને હિન્દીના `भेंट` — ભેટ-સોગાદ — સમજી લે છે. એટલે `મેળો એટલે મેળાપ અથવા ભેટો` વાક્યમાંથી એ `મેળો એટલે ભેટ મળવી` એવો અર્થ કાઢે છે, ને શબ્દના બે અર્થ અલગ પાડવાનું આખું કામ પહેલા જ વાક્યે પડી ભાંગે છે.",
+   "correction": "`explanation`ના જે વાક્યમાં `ભેટો` પહેલી વાર આવે તે જ વાક્યમાં `ભેટો — મળી જવું, ભેટી પડવું` એમ ગ્લોસ કરો ને સાથે જ કહો કે આ ભેટ-સોગાદવાળી `ભેટ` નથી. પછી પાઠનું પોતાનું ઉદાહરણ `અમદાવાદમાં મને એનો મેળાપ અથવા ભેટો થયો` બતાવીને બંને અર્થ સામસામે મૂકો, ને `key_terms`માં `ભેટો — મળવું, મેળાપ` મૂકો."
+  },
+  {
+   "topic_id": "M1.S2.T2",
+   "avoid_checks": [
+    {
+     "check": "The printed names: wherever `explanation`, `real_life_example`, `concept_bullets`, `summary`, `detailed_summary` or a `recall_questions[].answer` locates this મેળો, it uses the chunk's own `દાહોદ જિલ્લો`, `ગરબાડા તાલુકો`, `જેસાવાડા ગામ`. A generic substitute — `ગુજરાતના એક આદિવાસી ગામમાં`, `પૂર્વ ગુજરાતના એક પછાત વિસ્તારમાં`, `ત્યાંના લોકોના ગામમાં` — fails.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "Added facts: the only timing, scale and manner facts available are this chunk's — `હોળી પછીના પાંચમા, સાતમા કે બારમા દિવસે`, `જાહેર મેદાન`, `હજારો સ્ત્રી-પુરુષો`, `ઢોલ વગાડતાં`, `નાચતાં-ગાતાં`. No added month, તિથિ, ધુળેટી, calendar date, number of days the મેળો runs, attendance figure, or community name (the chapter names `આદિવાસી પ્રજા` only in a later topic and names no sub-community at all) in any of those fields.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "A living practice stays present: every field describing this મેળો keeps the chunk's present tense `ભરાય છે` / `આવે છે`. `ભરાતો હતો`, `પહેલાં ભરાતો`, `હવે ભાગ્યે જ ભરાય છે`, or `જૂના જમાનામાં` attached to the મેળો itself, fails.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "હિન્દી કે અંગ્રેજી માધ્યમનું બાળક `ગોળ-ગધેડાનો મેળો`માંના `ગોળ` ને હિન્દીના `गोल` — ગોળાકાર — સમજી લે છે. એને લાગે છે કે મેળામાં ગધેડા ગોળ ગોળ ફરે છે. પછી ટોચે લટકતી પોટલી, પોટલીમાંનો ગોળ ને મેળાનું નામ — ત્રણેય ખોટાં બેસે છે.",
+   "correction": "`explanation`માં મેળાનું નામ પહેલી વાર બોલો ત્યાં જ `ગોળ — ખાવાનો ગળ્યો ગોળ` એમ ગ્લોસ કરો ને એક શબ્દમાં ઉમેરો કે અહીં `ગોળ` એટલે ગોળાકાર નહિ. `key_terms`માં `ગોળ — ખાવાનો ગળ્યો પદાર્થ` મૂકો. નામ કેમ પડ્યું એ પછીના ટૉપિકનું કામ છે; અહીં માત્ર શબ્દ સાફ કરો."
+  },
+  {
+   "topic_id": "M1.S2.T3",
+   "avoid_checks": [
+    {
+     "check": "The practice in its own words: `થાંભલો`, `વીંધ`, `ફટકા`, `ટોચ`, `ગોળની પોટલી` appear in exactly those printed forms wherever `explanation`, `concept_bullets`, `summary`, `detailed_summary` or a recall `answer` refers to them — no `સીડી`, `દાંડો`, `ધ્વજદંડ`, `પગથિયાં` standing in as the thing's name — and `key_terms` carries at least one of them in `શબ્દ — અર્થ` form, using the chapter's printed શબ્દાર્થ senses `વીંધ — કાણું` / `ટોચ — છેક ઉપરનો ભાગ`.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "Added facts: the only measurements are the chunk's own `20 થી 25 ફૂટ` and `ચાર પાંચ ફૂટ`, written in Gujarati words in display prose. No wood type, pole weight, number of ફટકા, weight of the `ગોળની પોટલી`, height in metres, or who erects it, in `explanation`, `summary`, `detailed_summary`, `concept_bullets`, `important_points` or a recall `answer`.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "Not a Science lesson: no field explains the pole or the climb with a term the chapter does not print — `ઘર્ષણ`, `સંતુલન`, `ગુરુત્વાકર્ષણ`, `લીસી સપાટી` — and no field corrects the practice against engineering or safety science.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક `આડા લાકડાના ફટકા બેસાડવામાં આવે છે` વાંચીને `ફટકા` ને હિન્દીના `फटका` — ફટકો, માર — સમજે છે. આગળ મેળામાં ખરેખર સોટીનો માર આવે છે એટલે આ ખોટો અર્થ એને સાચો લાગે છે, ને થાંભલા પર પગ મૂકવાનાં આડાં લાકડાં એની નજરમાંથી જ ઊડી જાય છે — પછી કોઈ થાંભલે ચઢે કઈ રીતે એ સમજાતું નથી.",
+   "correction": "`explanation`માં જે વાક્યમાં `ફટકા` આવે ત્યાં જ ગ્લોસ કરો — `ફટકા — થાંભલામાં વીંધ પાડીને બેસાડેલાં આડાં લાકડાં, જેના પર માણસ પગ મૂકીને ઊભો રહી શકે`. `key_terms`માં `વીંધ — કાણું` ને `ફટકા — આડાં લાકડાં` બંને મૂકો. આ ટૉપિકમાં `માર` શબ્દ વાપરવો જ નહિ, જેથી બે અર્થ ભેગા ન થાય."
+  },
+  {
+   "topic_id": "M1.S3.T4",
+   "avoid_checks": [
+    {
+     "check": "Not a વાર્તા: no field asks or answers why the કન્યાઓ hit, and none gives them or the જુવાનિયા a motive, feeling or decision — `કન્યાઓ ગુસ્સે થાય છે`, `તેઓ યુવાનની પરીક્ષા લેવા માગે છે`, `યુવાનને એ ગમતું નથી` all fail. The chunk states what they do (`ગીતો ગાતી વર્તૃળાકારમાં નૃત્ય કરે છે`, `સોટીઓથી માર મારીને અટકાવવા મથે છે`), not why; `explanation`, `summary`, `detailed_summary`, `concept_bullets` and every `recall_questions[].answer` stay on the what.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "The practice in its own words: `કુંવારી કન્યાઓ`, `વાંસની પટ્ટીઓ`, `સોટીઓ`, `જુવાનિયા` are used in the chunk's printed forms; `લાકડી`, `દંડો`, `સ્ટિક`, or `છોકરીઓ` standing in as the name fails, and `key_terms` carries at least one in `શબ્દ — અર્થ` form (e.g. `સોટી — પાતળી નાની લાકડી`, `કુંવારી — જેનાં લગ્ન થયાં ન હોય તેવી`).",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "No exoticising: no `explanation`, `real_life_example`, `recall_questions[].answer` or exercise `answer` prints `પછાત`, `જંગલી`, `અસભ્ય`, `આ લોકો`, `એ લોકોની રીતભાત`, `વિચિત્ર રિવાજ` or a synonym about this circle-and-stick practice.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક `સોટીઓથી માર મારીને અટકાવવા મથે છે` વાંચીને એમ સમજે છે કે મેળામાં ઝઘડો કે મારામારી થાય છે ને કન્યાઓ યુવાનો પર ગુસ્સે છે. એટલે એ જ વાક્યની સાથે ચાલતાં ઢોલ, ગીત ને વર્તૃળાકાર નૃત્ય એની નજરમાંથી નીકળી જાય છે, ને મેળાની રમત એને લડાઈ લાગે છે.",
+   "correction": "`explanation`ના જે વાક્યમાં સોટીનો માર આવે તે જ વાક્યમાં આખું ચિત્ર સાથે આપો — `ઢોલને તાલે ગીતો ગાતી ને વર્તૃળાકારમાં નૃત્ય કરતી કન્યાઓ` અટકાવે છે — જેથી બાળક જુએ કે આ મેળાની રમતનો જ ભાગ છે. સાથે `મથે છે — પ્રયત્ન કરે છે` એમ ગ્લોસ કરો, જેથી બંને પક્ષ `મથે છે` એ દેખાય."
+  },
+  {
+   "topic_id": "M1.S3.T5",
+   "avoid_checks": [
+    {
+     "check": "Not a વાર્તા: this topic keeps `topic_category: \"core\"` — it must not be turned into a climax in the prose either. No field presents the climb as the chapter's વળાંક or gives the `કોઈ ચપળ જુવાન` a name, a plan or a feeling — `તે નક્કી કરે છે`, `તેને ડર લાગતો નથી`, `આખરે તે જીતી જાય છે` fail; the chunk's `કોઈ ચપળ જુવાન` stays indefinite in `explanation`, `summary`, `detailed_summary` and every recall `answer`.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "The practice in its own words: `સડસડાટ`, `હાંસલ`, `ગાંગડા`, `અવિરત` appear in those printed forms wherever the teaching refers to them, and `key_terms` carries at least one in `શબ્દ — અર્થ` form using the chapter's own printed શબ્દાર્થ senses — `સડસડાટ — સપાટાબંધ`, `હાંસલ — મળેલું, પ્રાપ્ત`, `અવિરત — સતત, નિરંતર`.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "Added facts: the chunk gives only that he climbs, gets the પોટલી, eats the ગોળ, scatters the `ગાંગડા`, dodges everyone's eyes and jumps down. `લોકો તાળીઓ પાડે છે`, `તેને ઇનામ મળે છે`, `સૌથી પહેલો ચઢનાર જીતે છે`, or any rule of the contest, in `explanation`, `summary`, `detailed_summary`, `concept_bullets`, `important_points` or a recall `answer`, fails.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક આ ખંડને એક છોકરાની જીતની વાર્તા તરીકે વાંચે છે — `એક જુવાન ચઢ્યો, ગોળ ખાધો, વાત પૂરી` — ને છેલ્લા વાક્ય `આ ક્રિયા અવિરત ચાલુ રહે છે` નો અર્થ ચૂકી જાય છે. એટલે મેળામાં આ ચઢવા-કૂદવાનું આખો દિવસ વારે વારે ચાલ્યા કરે છે એ વાત જ ઊડી જાય છે.",
+   "correction": "`explanation`ને છેડે પાઠનું પોતાનું છેલ્લું વાક્ય પકડો — `અવિરત — અટક્યા વગર, વારે વારે` એમ ગ્લોસ કરીને કહો કે એક જુવાન નીચે કૂદે ને બીજો ચઢવા માંડે, એમ આ ચાલ્યા જ કરે છે. પાઠનું `કોઈ ચપળ જુવાન` `કોઈ` સાથે જ રાખો — નામ કે `તે છોકરો` ન કરો."
+  },
+  {
+   "topic_id": "M1.S3.T6",
+   "avoid_checks": [
+    {
+     "check": "No tacked-on બોધ: no sentence of `explanation`, `summary`, `detailed_summary`, `concept_bullets` or a `recall_questions[].answer` closes on a lesson drawn from the empty-handed youth — `હાર-જીતથી ડરવું નહિ`, `સમયસર પહોંચવું જોઈએ`, `મહેનતનું ફળ મળે જ છે` — none of which this chunk prints. The chunk's own close is રમૂજ: `કેવી મજા પડે એવી વાત !`",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "No judgement on top of the chapter's phrase: `ગધેડા જેવો પુરવાર થાય છે` is quoted as the chunk prints it and explained as the મેળાનો પોતાનો રમૂજી શબ્દપ્રયોગ. No field extends it into a verdict on the young man or on the people of the મેળો — `મૂરખ`, `નકામો`, `આળસુ`, `આ લોકો આવું જ કરે` — in `explanation`, `real_life_example` or any `recall_questions[].answer`.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "Not a વાર્તા: no field supplies a reason for his being late or a choice he made — `તે ડરી ગયો હતો`, `તેણે મોડું કર્યું`, `તે ધીમો હતો` — the chunk says only `પાછળથી થાંભલે ચઢનાર`.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક `આ કલ્પના જ કેટલી રોચક છે !` વાંચીને એમ સમજી બેસે છે કે આખો મેળો કલ્પનાની — વાર્તાની — વાત છે, ખરેખર ભરાતો નથી. અથવા `કેવી મજા પડે એવી વાત !` ને મેળામાં ઊભેલા કોઈનું બોલેલું વાક્ય ગણી લે છે, ને લેખકનો અવાજ પાત્રનો અવાજ બની જાય છે.",
+   "correction": "`explanation`માં એક વાક્યમાં સાફ કરો કે આ ઉદ્ગારો લેખકના પોતાના છે — એ આપણને મનમાં ચિત્ર જોવા કહે છે — ને `કલ્પના — મનમાં ચિત્ર ઊભું કરવું` એમ ગ્લોસ કરો. સાથે પાઠનું વર્તમાનકાળનું `મેળો ભરાય છે` પકડી રાખો, જેથી બાળકને ખબર રહે કે મેળો ખરેખર ભરાય છે."
+  },
+  {
+   "topic_id": "M2.S4.T7",
+   "avoid_checks": [
+    {
+     "check": "The chapter's own correction travels with the custom: any field that mentions the સ્વયંવર-પ્રથા or the bride-choice — `explanation`, `summary`, `detailed_summary`, `concept_bullets`, `important_points` or a `recall_questions[].answer` — carries, in that same field, the chapter's own sentence `પરંતુ હવે મેળાનો હેતુ કન્યા પસંદગીનો રહ્યો નથી.`; and the bride-choice statement keeps the chunk's `એક જમાનામાં` and its past-tense `પરણી શકતો`.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "Added facts: no other સ્વયંવર is named and no place is named for the ધજા — the chunk says only `કેટલાંક સ્થળે`. સીતા-સ્વયંવર, દ્રૌપદી-સ્વયંવર, રામાયણ, મહાભારત, or a named village that uses the ધજા, appearing in `explanation`, `summary`, `detailed_summary`, `concept_bullets` or a recall `answer`, fails.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "No ranking: no comparative in any field places the old custom below or above today — `પહેલાં પછાત રિવાજ હતો`, `હવે લોકો સુધર્યા છે`, `આધુનિક જમાનો સારો છે`. The chunk's own balance is that the આનંદ is `પહેલાં જેટલો જ અકબંધ` and only the હેતુ changed.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "The practice in its own words: `ધજા`, `સ્વયંવર-પ્રથા`, `રિવાજ`, `ઘેરો` stay in their printed forms — `ઝંડો`, `ધ્વજ`, `પરંપરા`, `ટોળું` must not stand in as the name — and `key_terms` carries at least one in `શબ્દ — અર્થ` form using the printed શબ્દાર્થ sense `સ્વયંવર — કન્યાએ પોતે વર પસંદ કરવો તે`.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક `વિજયી યુવાન કન્યાઓના ઘેરામાંથી મનપસંદ કન્યાને પરણી શકતો` વાંચીને એમ સમજે છે કે આજેય જેસાવાડાના મેળામાં જીતનાર છોકરો છોકરીને પરણી જાય છે. `એક જમાનામાં` ને `પરણી શકતો` — બંને ભૂતકાળનાં નિશાન એની નજરમાંથી નીકળી જાય છે, ને એ આજના મેળાને લગ્ન ગોઠવવાની જગ્યા સમજી બેસે છે.",
+   "correction": "`explanation`માં આ વાત આવે ત્યાં `એક જમાનામાં` શબ્દથી જ વાક્ય શરૂ કરો ને ભૂતકાળનું ક્રિયાપદ રાખો. એ જ ફકરો પાઠના પોતાના વાક્ય `પરંતુ હવે મેળાનો હેતુ કન્યા પસંદગીનો રહ્યો નથી.` પર પૂરો કરો, ને `સ્વયંવર — કન્યાએ પોતે વર પસંદ કરવો તે` એ પાઠના શબ્દાર્થ પ્રમાણે જ `key_terms`માં મૂકો."
+  },
+  {
+   "topic_id": "M2.S5.T8",
+   "avoid_checks": [
+    {
+     "check": "The community's printed name: `આદિવાસી પ્રજા` is used exactly as this chunk prints it wherever the community is referred to in `explanation`, `real_life_example`, `concept_bullets`, `summary`, `detailed_summary` or a `recall_questions[].answer`. `પછાત`, `જંગલી`, `અસભ્ય`, `આ લોકો`, `એ લોકોની રીતભાત`, an unnamed `ત્યાંના લોકો`, or an English `tribal people`, fails.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "No tacked-on બોધ: `explanation`, `summary`, `detailed_summary`, `concept_bullets` and every recall `answer` end without `આપણે આપણી સંસ્કૃતિ જાળવવી જોઈએ` or `આ પાઠ આપણને શીખવે છે…`. Where the ગૌરવ is stated it is the chunk's own `એ ગૌરવની વાત છે`, given as the લેખકની વાત.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "Added facts: the હાટ's stock is exactly the chunk's three — `કપડાં`, `આભૂષણો`, `ઘરવખરીની વસ્તુઓ`. `ચકડોળ`, `રમકડાં`, `ભજિયાં`, `જલેબી`, `ફજર-ફાળકો` — including anything that appears only in a સ્વાધ્યાય block and not in an `original_chunk` — must not enter `explanation`, `summary`, `detailed_summary`, `concept_bullets`, `important_points` or a recall `answer`.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "A living practice stays present: the chunk's `હાટ પણ ભરાય છે` and `પ્રથા જાળવી રાખી છે` stay in the present tense in every field; `પહેલાં ભરાતું હતું`, `લુપ્ત થતી પ્રથા`, `હવે ભાગ્યે જ જોવા મળે છે` fail.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક `આદિવાસી પ્રજાએ હજી પોતાની સંસ્કૃતિની ઓળખ તરીકે આવા મેળાઓની પ્રથા જાળવી રાખી છે` વાક્યમાંના `હજી` ને પકડીને એમ સમજે છે કે `એ લોકો હજી જૂની રીતે જીવે છે`. પાઠ જેને ગૌરવ કહે છે તેને બાળક પછાતપણું સમજી બેસે છે, ને પોતાના રાજ્યની વાત એને પારકા લોકોની વાત લાગે છે.",
+   "correction": "`explanation`માં પાઠનું પોતાનું વાક્ય ટાંકો ને `ગૌરવ — માન થાય, છાતી ફૂલે એવી વાત` એમ ગ્લોસ કરો; સાથે `હજી` નો અર્થ સીધો કહી દો — `આજેય જાળવી રાખી છે`. આખા ટૉપિકમાં નામ પાઠ પ્રમાણે `આદિવાસી પ્રજા` જ રાખો, `એ લોકો` નહિ, ને `આભૂષણ — ઘરેણું`, `ઘરવખરી — ઘરને લગતો સરસામાન` `key_terms`માં મૂકો."
+  },
+  {
+   "topic_id": "M2.S5.T9",
+   "avoid_checks": [
+    {
+     "check": "No tacked-on બોધ: the chunk's own closing appeal `કો’કવાર સમય કાઢીને આવા લોકમેળા માણવા જોઈએ` is the only `… જોઈએ` sentence permitted in this topic, and it is given as the લેખકની અપીલ. `આપણે આપણી સંસ્કૃતિ જાળવવી જોઈએ`, `આ પાઠ આપણને શીખવે છે…`, `આપણે પણ … જોઈએ` must not appear in `explanation`, `real_life_example`, `summary`, `detailed_summary`, `concept_bullets` or any `recall_questions[].answer`.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "No ranking: no field sets શહેર against ગામડું — `શહેરી જીવન ખરાબ છે`, `ગામડું વધુ સારું છે`, `શહેરના લોકો સંસ્કૃતિ ભૂલી ગયા છે`. The chunk states only that we are drifting away, `આપણે ભલે મેળાથી દૂર થતાં જઈએ છીએ`, and passes no verdict.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "Not a Social-Science lesson: no term the chapter does not print enters any field — `સ્થળાંતર`, `ઔદ્યોગિકીકરણ`, `આધુનિકીકરણ`, `વૈશ્વિકીકરણ`, `ગ્રામ્ય-શહેરી ભેદ`. `શહેરીકરણ` is the chunk's own word and is the only one available.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક છેલ્લી પંક્તિના `માણવા` ને `માનવા` વાંચી લે છે — `ણ` ને `ન` નો ભેદ પકડાતો નથી. એટલે `આવા લોકમેળા માણવા જોઈએ` નો અર્થ એને `લોકમેળા માનવા-સ્વીકારવા જોઈએ` થઈ જાય છે, ને લેખકનું નિમંત્રણ સૂકો ઉપદેશ બની જાય છે.",
+   "correction": "`explanation`માં પંક્તિ ટાંક્યા પછી તરત `માણવું — મજા લેવી, આનંદ લેવો` એમ ગ્લોસ કરો ને આખું વાક્ય સહેલી ગુજરાતીમાં ફરી કહો — `ક્યારેક વખત કાઢીને આવા મેળામાં જઈને મજા લેવી`. `માણવું — મજા લેવી` ને `કો’કવાર — ક્યારેક` `key_terms`માં મૂકો."
+  }
+ ],
+ "chapter_level": [
+  "આખા પાઠમાં `ળ` અને `ણ` ભારવાહી છે : `મેળો` ≠ `મેલો`, `ગોળ` ≠ `ગોલ`, `માણવા` ≠ `માનવા`, `ટોળાં`, `ઢોલ`. દ્વિતીય-ભાષાનું બાળક આ અક્ષરો સપાટ વાંચે તો એને આખું વાક્ય સાચું લાગે એવું ખોટું મળે છે — વપરાશની જગ્યાએ જ ગ્લોસ કરો ને સહેલી ગુજરાતીમાં ફરી કહો; છાપેલું રૂપ કદી સુધારવું નહિ.",
+  "આ પાઠના પોતાના શબ્દોમાં હિન્દી-ગુજરાતી ખોટા ભાઈબંધ ચાર છે અને ચારેય પાને છપાયેલા છે : `ભેટો` (हिन्दी भेंट = ભેટ-સોગાદ નહિ), `ગોળ` (गोल = ગોળાકાર નહિ), `ફટકા` (फटका = માર નહિ), `માણવા` (मानना = માનવું નહિ). આ ચાર સિવાયનો કોઈ ખોટો ભાઈબંધ આ પાઠમાં ઉમેરવો નહિ.",
+  "આ માહિતીપ્રદ / સાંસ્કૃતિક ગદ્ય છે, વાર્તા નથી : એકેય ટૉપિક `topic_category: \"climax\"` ધરાવતું નથી ને ધરાવવું પણ ન જોઈએ. આખો પાઠ વર્ણનાત્મક વર્તમાનકાળમાં ચાલે છે — `ભરાય છે`, `રોપવામાં આવે છે`, `ચઢી જાય છે`, `અવિરત ચાલુ રહે છે` — ને એ કાળ દરેક ટૉપિકમાં જળવાવો જોઈએ.",
+  "દરેક ટૉપિક માટે `figures_of_speech: []` એ સાચો ને પૂરો જવાબ છે. `ગધેડા જેવો પુરવાર થાય છે` જેવી સરખામણી અલંકારનું નામ માગતી હોય એવું લાગે, પણ ધોરણ 6ની છત પ્રમાણે અહીં કોઈ અલંકારનું નામ આપવાનું નથી — સરખામણી બતાવવી, નામ પાડવું નહિ.",
+  "પહેલા પાના પરનું ભૂરું પ્રસ્તાવના-બોક્સ (`ગુજરાત ભાતીગળ લોકસંસ્કૃતિ ધરાવતું રાજ્ય છે…`) અને પાઠને છેડે આવતું `જોડો :` ચિત્ર-બોક્સ શિક્ષકને સંબોધતી સામગ્રી છે, પાઠનું લખાણ નથી. એમાંનું કશું હકીકતના સ્રોત તરીકે વાપરી શકાય નહિ, ને ધોરણ 6નું ઊભું જોખમ એ જ છે કે બાળક ફકરાને બદલે ભૂરા બોક્સમાંથી જવાબ આપે.",
+  "પાઠમાં ખરેખરા મેળાના બે સાચા ફોટોગ્રાફ છપાયેલા છે. ફોટામાં દેખાતું કશું — કોઈ વ્યક્તિ, માણસોની સંખ્યા, દેખાતી જગ્યા કે ઇમારત — પાઠની હકીકત તરીકે કોઈ પણ શિક્ષણ-ક્ષેત્રમાં લખવું નહિ.",
+  "આ પાઠનો મુખ્ય ભાષા-ભાર પ્રથા-શબ્દો છે : `થાંભલો, વીંધ, ફટકા, ટોચ, પોટલી, સોટી, વાંસની પટ્ટી, ધજા, હાટ, આભૂષણ, ઘરવખરી, પ્રથા, સ્વયંવર`. છાપેલું શબ્દાર્થ-બોક્સ કયો શબ્દ અઘરો છે તેનો પુરાવો છે, ગ્લોસનું લખાણ નહિ; ને દરેક શબ્દ પાઠના છાપેલા રૂપમાં જ રહે — ઓળખીતો સહેલો પર્યાય તેની જગ્યાએ મુકાય નહિ."
+ ]
+}

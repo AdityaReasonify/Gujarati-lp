@@ -1,0 +1,8 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 6",
+  "textbook_url": "../Textbooks-pdf/std-6/ch-07-chokhkhaina-sardar.pdf",
+  "textbook_pages": "41–44",
+  "source": "printed folio, read off renders of pdf pp. 1 and 4 of the chapter PDF (150 dpi) — p.1 prints '41' beside the ટેક/first three કડી, p.4 prints '44' beside the closing વાક્યના પ્રકારો box; folios 42–43 not independently re-rendered but the manifest's pdf_start/pdf_end (52–55, 4 pages) and 01_meta.json's own extraction_notes (which record all four folios 41,42,43,44 read off the render) agree with this count, so the intervening two pages are counted, not re-read",
+  "confidence": "high",
+  "gaps": ["textbook_url is a local path — the GSEB readers have no hosted URL"]
+}

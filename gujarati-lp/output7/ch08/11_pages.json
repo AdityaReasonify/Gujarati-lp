@@ -1,0 +1,6 @@
+{"textbook":"ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 7",
+ "textbook_url":"../Textbooks-pdf/std-7/ch-08-saad-vartyo.pdf",
+ "textbook_pages":"50–56",
+ "source":"printed folio read directly off renders of pdf pp. 1 and 7 of the chapter PDF (page-1.png shows folio 50 under the opening illustration, page-7.png shows folio 56 under the ક્રિયાવિશેષણ box); cross-checked against manifest.json row (printed_start 50, pdf_start 63, pdf_end 69 → 7 pages, 50 through 56) and against 01_meta.json's extraction_notes, which independently recorded folios 50,51,52,53,54,55,56 across all seven rendered pages",
+ "confidence":"high",
+ "gaps":["textbook_url is a local path — the GSEB readers have no hosted URL"]}

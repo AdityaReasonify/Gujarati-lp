@@ -1,0 +1,234 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Unearned-quality gate (profile avoid 4b), scope form: this topic's `original_chunk` records only the arrival — the bus from સૂઈગામ, the અનુમતિ-પત્ર shown at the gate, the 'જય હિંદ' અભિવાદન by the બોર્ડર સિક્યુરિટી ફોર્સ jawan, the કાંટાળા તારની વાડ, and the post's name 'આ પોસ્ટનું નામ રણછોડદાસ ચેકપોસ્ટ !' — and no act of રણછોડ પગી whatsoever. So no sentence of `explanation`, `real_life_example`, any `concept_bullets` line or any `recall_questions[].answer` may attach a quality word to him (વીર, બહાદુર, મહાન, દેશભક્ત, નિષ્ઠાવાન, પરાક્રમી), and none may name a war, a year, or a deed. What this topic carries is why the telling starts here.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Invented-biography gate (profile avoid 2) bound to this topic's own facts: `explanation`, `concept_bullets` and every `recall_questions[].answer` may state about the post only what this chunk prints — 'કચ્છ સરહદે', 'સૂઈગામથી આશરે ચાલીસ કિલોમીટર દૂર', 'બોર્ડર સિક્યુરિટી ફોર્સ', 'ભારત - પાકિસ્તાન વચ્ચેની' — and may not add the year the post was built or renamed, a count of જવાનો, the fence's length, the name of the school or of any student or teacher, or a route/road the page does not print.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'પોસ્ટ' શબ્દને રોજિંદા અંગ્રેજી અર્થમાં વાંચી લે છે — ટપાલ, ટપાલઘર, કે મોબાઈલમાં મુકાતી પોસ્ટ. પહેલા જ ફકરામાં 'લશ્કરની એક પોસ્ટ આવી', 'પોસ્ટ જોવા દેવાની હા પાડી' અને 'આ પોસ્ટનું નામ રણછોડદાસ ચેકપોસ્ટ' એમ એ શબ્દ વારંવાર આવે છે, એટલે એક ખોટા અર્થ ઉપર આખું સરહદનું દૃશ્ય ઊભું થઈ જાય છે અને બાળક પોતે ક્યાં પહોંચ્યું છે એ સમજતું જ નથી.",
+      "correction": "`explanation`ના પહેલા વાક્યમાં જ 'પોસ્ટ — સરહદ પર જવાનો પહેરો ભરે તે લશ્કરી ચોકી' એમ ગ્લોસ કરો, અને પછીનાં વાક્યોમાં 'ચોકી' શબ્દ વાપરીને એ અર્થ પાકો કરો; એ જ ગ્લોસ `key_terms`માં પણ રાખો. 'ચેકપોસ્ટ'ને પણ એક વાર ચોકીના નામ તરીકે ખોલો, જેથી નામ અને જગ્યા બંને બાળક પાસે સાફ થાય."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "Invented-dialogue gate (profile avoid 1): this topic is almost entirely quoted speech. Every quotation-marked span in `explanation`, the summary family, `concept_bullets` and every `recall_questions[].answer` must be character-for-character from this `original_chunk` — ''બાળદોસ્તો ! આ છે ગુજરાતનો પાકિસ્તાન બોર્ડરને અડતો સરહદી વિસ્તાર…'', ''શું ખરેખર ?'', ''તે સાહેબ ! આ રણછોડદાસ પગી કોણ હતા ?'', ''એની પણ એક કથા છે !'' — and no new line, not even a summarising one, may be put into the સૈનિક's, મૈત્રી's or મિતાંશ's mouth.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Invented-biography gate (profile avoid 2) bound to this topic's one claim: the chunk says 'કોઈ નાગરિકના નામથી હોય એવી ગુજરાતની આ એકમાત્ર પોસ્ટ છે !'. No authored field may widen ગુજરાત to ભારત, state how many BSF posts exist, give the year the post was named, or say who gave the name — the સેના's act is printed only in the chapter's last topic and belongs there.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ધારી લે છે કે રણછોડદાસ પગી પણ સૈનિક હતા. આખું દૃશ્ય લશ્કરી ચોકીનું છે, વાત જવાન કરે છે, એટલે મન માની લે છે કે ચોકીનું નામ કોઈ શહીદ સૈનિકનું હશે. તો પછી 'કોઈ નાગરિકના નામથી હોય એવી ગુજરાતની આ એકમાત્ર પોસ્ટ છે !' વાક્યમાં નવાઈ જેવું શું છે એ સમજાતું નથી, અને પાઠનો પાયો જ ખસી જાય છે.",
+      "correction": "`explanation`માં 'નાગરિક — સેનામાં ન હોય એવો સામાન્ય પ્રજાજન' એમ ગ્લોસ કરો અને એ જ વાક્યમાં કહો કે આ ચોકીનું નામ કોઈ સૈનિકનું નહિ, પણ સેનામાં ન હોય એવા એક માણસનું છે — તેથી જ જવાન એને 'એકમાત્ર' કહે છે. `key_terms`માં 'નાગરિક' રાખો, અને એક `recall_questions[].answer`માં એ જ મુદ્દો ફરી આવે."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Hagiography gate (profile avoid 4, the profile's lead gate): the quality words here are the chapter's own — 'મહાન પરાક્રમ કરનાર વીર હતા રણછોડદાસ રબારી' and જનરલ માણેકશા's 'રણનું એક માણસનું સૈન્ય' — and may appear in `explanation` or a `recall_questions[].answer` only inside a quotation of those printed words, attributed as the chunk attributes them. No authored field may add an epithet of its own (અદ્વિતીય, દેવતુલ્ય, પૂજનીય, સર્વશ્રેષ્ઠ, આદર્શ પુરુષ, યુગપુરુષ). Because this chunk shows no act, the `explanation` must say that what the title rests on is what the જવાન tells next; it may not import the later deeds to justify the title early.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Date and person gate (profile avoids 2 and 5): this chunk carries no year — it says only 'આપણા દેશને આઝાદી મળી એના થોડાક દશકા પછીની આ વાત છે'. So no `explanation`, `concept_bullets` line or `recall_questions[].answer` of this topic may print 'ઇ.સ. 1965', 'ઈ.સ. 1971' or any other year, and none may add a fact about જનરલ માણેકશા beyond this chunk's 'ભારતના લશ્કરી વડા' — no first name, no rank history, no award, and no year or place for the remark.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'એક માણસનું સૈન્ય' બાળક શબ્દશઃ સાચું માની લે છે — કાં તો રણછોડ પગી પાસે પોતાનું સૈન્ય હતું, કાં તો એ એકલા હાથે લડીને યુદ્ધ જીત્યા. પછીના પ્રસંગોમાં એ ક્યાંય લડતા દેખાતા નથી એટલે વાત મેળ ખાતી નથી, અને પાઠનો ખરો મુદ્દો — એમની આવડત — બાળક પાસેથી છટકી જાય છે.",
+      "correction": "`explanation`માં પહેલાં જવાનનો પોતાનો જવાબ સાદી ગુજરાતીમાં ફરી કહો — 'એક લશ્કર કરે એટલું કામ એકલા રણછોડ પગીએ કર્યું હતું' — અને પછી જ 'એક માણસનું સૈન્ય' શબ્દપ્રયોગ વાપરો, એ કામનું માપ છે એમ સાફ કરીને. ક્યાંય એમ ન લખો કે એમણે એકલા લડાઈ કરી કે કોઈને હરાવ્યા. કોઈ અલંકારનું નામ ન આપો — ધોરણ સાતમાં કોઈ પણ સ્વરૂપ કે અલંકારનું નામ આપવાનું નથી."
+    },
+    {
+      "topic_id": "M1.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "Act-before-quality gate (profile avoid 4b): the chunk defines the trade by what a પગી does — 'ક્યાંથી આવ્યાં, ક્યાં ગયાં અને કેટલો સમય પહેલાંનાં આ પગલાં છે'. The `explanation` must state that doing first, and may name 'પારંગત', 'તીક્ષ્ણ નજર' or 'કોઠાસૂઝ' only after it, in the chunk's own words. An `explanation` whose first sentence is a quality word fails even if the doing appears later.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Invented-biography gate (profile avoid 2), community form: the chunk says only that the skill comes 'તીક્ષ્ણ નજરથી, કોઠાસૂઝ કે પરંપરાગત વારસાથી', and that 'રણછોડ રબારી પગલાંની છાપ પારખી લેતા એટલે લોકો એમને રણછોડ પગી તરીકે પણ ઓળખતા હતા'. No authored field may generalise that to the રબારી pastoral community (that રબારી or પગી are a caste, that all of them track, that it is 'their' work), name a training, a school or a guild of પગી, or say who taught him — the page names no teacher.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'પગી'ને અટક સમજી લે છે — જેમ 'રબારી' અટક છે તેમ 'પગી' પણ નામનો ભાગ હશે. પણ પાઠ તો ઊલટું કહે છે: પગલાં પારખવાની આવડતના કારણે લોકોએ એમને 'પગી' કહ્યા. અટક સમજી લેનાર બાળક માટે પાઠનું આખું કેન્દ્ર — એક કામની આવડત — ગાયબ થઈ જાય છે.",
+      "correction": "`key_terms`માં 'પગી — પગલાંની છાપ પારખીને ભાળ કાઢનાર' એમ કામના નામ તરીકે ગ્લોસ કરો, અને `explanation`ના છેલ્લા ભાગમાં ચૂક્યા વગર કહો કે એમનું નામ રણછોડ રબારી હતું અને આવડતના કારણે લોકો એમને 'રણછોડ પગી' કહેતા થયા. 'સગડ' અને 'પગેરું' પણ પહેલી વાર આવે ત્યાં જ ગ્લોસ કરો, જેથી કામ શું છે એ શબ્દ સાથે જ સમજાય."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "War-content gate (profile avoid 9): this is the chapter's densest conflict passage — '1200 કરતાં વધુ પાકિસ્તાની સૈનિકો', 'આપણા ઘણા સૈનિકો શહીદ થઈ ગયા હતા', 'પાકિસ્તાનના દાંત ખાટા કર્યા'. In `explanation`, `real_life_example`, the summary family, `concept_bullets` and every `recall_questions[].answer`, દુશ્મન / શત્રુ / પાકિસ્તાન and any count of losses may appear only inside a verbatim quotation of this chunk; no field may present defeating or killing as the achievement; and the `explanation` must name what this episode actually turned on — 'એ તો આ વિસ્તારના ભોમિયા !', 'સગડ ઓળખવાની ક્ષમતા અને દિશાઓના જ્ઞાનના આધારે', the તારાઓ read on an અંધારી રાત, the ઊંટ ઉપરની પાણીની ખેપો, and the કચ્છનાં ગામડાં he walked.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Invented-biography gate (profile avoid 2), figures-and-places form: the only figures and places this chunk prints are 'ઇ.સ. 1965', 'વિદ્યાકોટ બોર્ડર', '1200 કરતાં વધુ', 'દસ હજાર જેટલા સૈનિકો' and કચ્છ. No `explanation`, `concept_bullets` line or `recall_questions[].answer` may add a battle name, a further date, a regiment or unit, a distance in કિ.મી., or the name of any village in કચ્છ.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક જવાનના છેલ્લા વાક્યને — ''તો... આપણે દસ હજાર જેટલા સૈનિકો ગુમાવવાની નોબત આવી હોત.'' — બની ગયેલી ઘટના તરીકે વાંચી લે છે અને માની બેસે છે કે દસ હજાર સૈનિકો મરાયા હતા. ધોરણ સાતના બાળક પાસે 'હોત'વાળી કલ્પના અને 'હતું'વાળી હકીકત વચ્ચેનો ભેદ હજી પાકો નથી, જ્યારે પાઠ તો ઊલટું કહે છે — એ સૈનિકો ટૂંકા રસ્તે સમયસર, સહીસલામત પહોંચ્યા હતા.",
+      "correction": "`explanation`માં પહેલાં હકીકત મૂકો — રણછોડ રબારીએ દસ હજાર જેટલા સૈનિકોને ટૂંકા રસ્તેથી સમયસર યુદ્ધક્ષેત્રમાં પહોંચાડ્યા — અને પછી જ જવાનના 'ન હોત તો...' વાળા વાક્યને 'જો આમ ન બન્યું હોત તો શું થાત' એવી કલ્પના તરીકે ઓળખાવો, 'હોત' શબ્દ તરફ આંગળી ચીંધીને. કોઈ `recall_questions[].answer` એવો ન રહે જે વાંચતાં એમ લાગે કે એ નુકસાન ખરેખર થયું હતું."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "Invented-biography gate (profile avoid 2), place form: this chunk names બોરિયાબેટ and 'ત્યાં આવેલા ધોરા વિસ્તાર' and prints nothing else about either, and the chapter's શબ્દાર્થ box glosses neither. No `explanation`, `key_terms` entry, `concept_bullets` line or `recall_questions[].answer` may state what ધોરા means, which district or side of the border either lies in, how far away it is, or how long the crossing took.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "War-content gate (profile avoid 9) for this episode: 'દુશ્મનની આંખમાં ધૂળ નાખીને' is the chunk's own phrase and may be quoted as such; outside such a quotation no authored field may use દુશ્મન or શત્રુ, and no field may say રણછોડ પગી attacked, fought, or destroyed anything. What this topic names as the achievement is the ગુપ્ત માહિતી he carried back and the કૂચ it made possible — 'આપણા સૈનિકો ધોરા ઉપર કૂચ કરવામાં સફળ રહ્યા હતા'.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "આગલા યુદ્ધની વાત તાજી હોવાથી બાળક આ પ્રસંગને એ જ યુદ્ધનો આગળનો ભાગ માની લે છે — ઊંટ પણ એ જ, બાતમી પણ એ જ. પણ પાઠ અહીં જુદા યુદ્ધની વાત માંડે છે, અને જવાનનું 'પણ' એ સંકેત આપે છે. બે પ્રસંગ ભળી જાય તો પુસ્તકનું ઘટનાક્રમ ગોઠવવાનું કામ બાળક માટે અશક્ય બની જાય છે.",
+      "correction": "`explanation`ના પહેલા વાક્યમાં પાના પર છપાયેલી સાલ 'ઈ.સ. 1971' જેમની તેમ મૂકીને કહો કે આ પહેલાં કહેલા યુદ્ધ પછીનું બીજું યુદ્ધ છે, અને જવાનના 'પણ' શબ્દ તરફ ધ્યાન દોરો. એક `recall_questions[].answer`માં આ પ્રસંગ કઈ સાલનો છે એ પાના પરના શબ્દોમાં જ આવે."
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "Interiority gate (profile avoid 3): this chunk states a situation and an act — 'આપણા સૈન્ય પાસે દારૂગોળો ખૂટી ગયો' and 'છેક 50 કિ.મી. દૂરની બીજી છાવણીમાંથી ઘાયલ અવસ્થામાં ઊંટ ઉપર સમયસર દારૂગોળો લઈ આવ્યા' — and no thought, feeling, pain or decision-moment anywhere. No `explanation`, `concept_bullets` line, summary or `recall_questions[].answer` may say he વિચાર્યું / નક્કી કર્યું / ડર્યા નહિ / દર્દ સહન કર્યું / મનમાં દેશ હતો, or attribute to him any motive this chunk does not print.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Hagiography gate (profile avoid 4): 'આપણા સૈન્ય માટે હનુમાનજી બની' is the chapter's own comparison and may appear in an authored field only inside a quotation of those printed words; no authored field may extend it into devotion (ભગવાન સમાન, દેવતુલ્ય, પૂજનીય) or build a comparison of its own. 'સાચે જ પરાક્રમી યોદ્ધા કહેવાય આ તો !' is શિક્ષિકા કોમલબેન's quoted line, not the teaching's verdict — so the `explanation` must open on the situation and the act (દારૂગોળો ખૂટ્યો → એ લઈ આવ્યા), never on a quality.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "પાઠ કહે છે કે એ ઘાયલ હાલતમાં દારૂગોળો લઈ આવ્યા, પણ કેમ ગયા એ ક્યાંય કહેતું નથી. ધોરણ સાતનું બાળક એ ખાલી જગ્યા પોતાની તરફથી ભરી દે છે — 'એમને દેશભક્તિની લાગણી થઈ', 'એમણે મનમાં વિચાર્યું કે...' એમ મનની વાત ઉમેરાઈ જાય છે, જે પાના પર છે જ નહિ, અને પછી પ્રસંગ કરતાં કલ્પના મોટી થઈ જાય છે.",
+      "correction": "`explanation`માં પરિસ્થિતિ, કૃત્ય અને પરિણામ એ જ ક્રમે મૂકો — દારૂગોળો ખૂટ્યો, બીજી છાવણી પચાસ કિલોમીટર દૂર હતી, પોતે ઘાયલ હોવા છતાં ઊંટ ઉપર સમયસર લઈ આવ્યા, ને સૈન્ય લડી શક્યું. 'એ કેમ ગયા હશે ?' જેવો પ્રશ્ન `recall_questions`માં આવે તો એનો જવાબ પાના પરના સંકેત ઉપર જ ટકે — દારૂગોળા વગર સૈન્ય લડી શકે એમ નહોતું — એમના મનની વાત ઉમેર્યા વગર."
+    },
+    {
+      "topic_id": "M2.S4.T8",
+      "avoid_checks": [
+        {
+          "check": "Act-before-quality gate (profile avoid 4b): the chunk itself puts the act first and the word 'સાદગી' last. The `explanation` must do the same — the ભાથાનો ડબ્બો left behind, 'હેલિકોપ્ટર ઊભું રખાવી પગી ભાતું લેવા નીચે ઊતર્યા', 'રોટલો, મરચું અને ડુંગળી', and જનરલ માણેકશા sitting down to the same food — and may name 'સાદગી' and 'સરળતા' only after that, in the chapter's own words. An `explanation` opening on his simplicity fails.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Interiority gate (profile avoid 3): 'રણછોડ પગીની સાદગી અને સરળતા જોઈ માણેકશા પણ ભાવવિભોર થઈ ગયેલા' is printed and may be reported as printed; nothing else may be. No authored field may say what રણછોડ પગી felt about the ઢાકાની પાર્ટી, that he disliked rich food, that he was proud of his ways, or that he meant to teach anyone anything — the chunk says only that he went back down for the tin that had been made ready.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "બોધ gate (profile avoid 12): this is the chapter's most sermon-prone passage. No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` line or any `recall_questions[].answer` may close on 'આપણે પણ સાદગી રાખવી જોઈએ' / 'આ પ્રસંગ આપણને શીખવે છે…' / 'દરેક વિદ્યાર્થીએ …'. The મૂલ્ય stays where the chapter puts it — two men eating the same રોટલો.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "રોટલો, મરચું ને ડુંગળી વાંચીને બાળક માની લે છે કે રણછોડ પગી ગરીબ હતા — 'બિચારા, બીજું કંઈ પોસાય એમ નહોતું.' પણ પાઠ પોતે આગળ કહે છે કે એ '300 એકર જમીન અને 300 પશુઓના માલિક' હતા. એટલે અહીં જે દેખાય છે તે લાચારી નથી, પસંદગી છે — અને એ ભેદ ચૂકી જવાય તો પ્રસંગનું આખું મૂલ્ય ઊંધું વંચાય છે.",
+      "correction": "`explanation`માં પાના પરના શબ્દો પ્રમાણે કહો કે સાથે લઈ જવા માટે તૈયાર કરેલો ભાથાનો ડબ્બો ભુલાઈ ગયો હતો અને એ લેવા માટે જ હેલિકોપ્ટર ઊભું રખાવ્યું — એટલે એ પોતાની પસંદગીનું ભોજન હતું. 'સાદગી — દેખાડા વગરની સાદી રહેણીકરણી' એમ ગ્લોસ કરો. કોઈ પણ ક્ષેત્રમાં 'ગરીબ', 'બિચારા' કે 'પાસે કંઈ નહોતું' જેવા શબ્દો ન વાપરો."
+    },
+    {
+      "topic_id": "M3.S5.T9",
+      "avoid_checks": [
+        {
+          "check": "Invented-biography gate (profile avoid 2) bound to this topic's figures: the chunk prints 'રણછોડ પગીના માથા સાટે પચાસ હજારનું ઇનામ રાખ્યું હતું' with no currency word and no year, only 'એ સમયે'. No `explanation`, `concept_bullets` line or `recall_questions[].answer` may add a currency, a year, a claim that anyone tried to collect it or that he was attacked, a count of ઘૂસણખોરો he caught, or any medal or award — those are printed in another topic and belong there.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Reader-hazard check the profile does not list, invited by this chunk's two words: 'સવાર' here means ઊંટ ઉપર ચઢેલા/બેઠેલા ('ઊંટ ઉપર કેટલાં લોકો સવાર હતા'), not સવારનો સમય; and 'કીક' is the page's own spelling, glossed in the printed શબ્દાર્થ box as ખાડી, and is not English 'kick'. Both must be glossed at first use in `explanation` or carried in `key_terms`; no authored field may respell કીક as ક્રીક, romanise it, or use સવાર in its time sense.",
+          "profile": "charitra_prasang",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "પગલાં જોઈને ઘૂસણખોરની ઉંમર અને એણે ઊંચકેલું વજન કહી દેવું — બાળકને એ ચમત્કાર જેવું લાગે છે, જાણે રણછોડ પગી અંદાજથી કે કોઈ સિદ્ધિથી કહી દેતા હોય. એટલે પાઠની ખરી વાત — નિશાન પોતે જ પુરાવો છે, અને એ પુરાવો વાંચતાં આવડવું પડે — બાળકના હાથમાં આવતી નથી.",
+      "correction": "`explanation`માં એટલું કહો કે વજન અને ઉંમર પ્રમાણે રેતી પરનું પગલું બદલાય છે, એટલે એ જોઈને કહેવાય છે, ધારીને નહિ. પછી પુસ્તકે પોતે આપેલી મેદાનની પ્રવૃત્તિ — રેતીમાં પગલાં પાડવાં, પછી દફતર ઊંચકીને પાડવાં, ને બંનેની સરખામણી કરવી — તરફ એક વાક્યથી આંગળી ચીંધો, જેથી બાળક જાતે જોઈ શકે. 'ચમત્કાર' કે 'ધારીને કહી દેતા' જેવો શબ્દ ક્યાંય ન વાપરો."
+    },
+    {
+      "topic_id": "M3.S5.T10",
+      "avoid_checks": [
+        {
+          "check": "Invented-biography gate (profile avoid 2) — the chapter's likeliest leak point, because general knowledge about રણછોડ પગી is plentiful and almost none of it is printed here. This chunk names one film, ''ભુજઃ ધ પ્રાઈડ ઓફ ઈન્ડિયા' ફિલ્મ રિલીઝ થઈ હતી', made 'ઈ.સ. 1971ના યુદ્ધને કેન્દ્રમાં રાખીને'; 'ઈ.સ. 2007માં ગુજરાત સરકારે રણછોડ પગીનું સન્માન કર્યું હતું'; and 'ભારતીય સૈન્યે પણ એમને એક કરતાં વધુ મેડલ આપી સન્માન્યા છે'. No authored field may name a medal, a civil or padma award, a number of medals, an actor, a director, a release year, or which department of ગુજરાત સરકાર honoured him. 'એક કરતાં વધુ' stays 'એક કરતાં વધુ'.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Work-title gate (profile avoid 2, proper-noun clause): the film's name is carried exactly as printed — 'ભુજઃ ધ પ્રાઈડ ઓફ ઈન્ડિયા', with the વિસર્ગ and the plain ઓફ — wherever it appears in `explanation`, `key_terms`, the summary family or a `recall_questions[].answer`, and is never romanised back into Latin script and never respelt ઑફ. A title not appearing character-for-character in this `original_chunk` is an invented work-title.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Honour-as-consequence gate (profile avoid 4b): any `explanation` or `recall_questions[].answer` that names the સન્માન or the મેડલ must, in the same field, name at least one printed act it followed — the બાતમી brought back from the ધોરા વિસ્તાર, the દારૂગોળો carried ઘાયલ અવસ્થામાં, or the દસ હજાર સૈનિકોને ટૂંકા રસ્તેથી પહોંચાડવાનું કામ. The honour is what other people concluded about an act; it is never itself the achievement.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "પાઠ ફિલ્મનું નામ લે છે એટલે બાળક ફિલ્મને પુરાવો માની લે છે — જોયેલી કે સાંભળેલી ફિલ્મનાં દૃશ્યો રણછોડ પગીની હકીકત તરીકે જવાબમાં આવી જાય છે. પાઠ તો એટલું જ કહે છે કે એક ફિલ્મ બની અને 'એમાં રણછોડ પગીના રાષ્ટ્રપ્રેમની અને સેવાની વાત કરવામાં આવી છે.'",
+      "correction": "`explanation`માં ફિલ્મને એમના કામની કદરના એક રૂપ તરીકે મૂકો, પુરાવા તરીકે નહિ, અને એક વાક્યમાં કહો કે રણછોડ પગી વિશે આપણે જે કહીએ તે પાઠમાં લખેલું હોય તે જ. `recall_questions[].answer` પાઠનાં વાક્યો પરથી જ આપો, ફિલ્મના પ્રસંગો પરથી નહિ."
+    },
+    {
+      "topic_id": "M4.S6.T11",
+      "avoid_checks": [
+        {
+          "check": "Chronology gate (profile avoid 5): the chapter prints no life-stage head anywhere, so neither `topic_name` nor any authored field may use બાળપણ, શિક્ષણ, કારકિર્દી, લગ્નજીવન or 'જીવન અને કાર્ય' as a label. This chunk's own two dates — '21મી માર્ચ, 1936' and 'તા. 18-1-2013' — are the only ones the `explanation` may carry, and the topic must hold one movement (why he had to leave and where he came to) plus the two wishes he left, not a date-list.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Invented-biography gate (profile avoid 2), family form — the sharpest instance in the chapter, because he died in 2013 and has living relatives. The chunk prints the birth date, 'અખંડ ભારત', '300 એકર જમીન અને 300 પશુઓના માલિક', 'પાકિસ્તાનના સૈન્યના ત્રાસને લીધે', the seized શસ્ત્રો, the route 'રણમાર્ગે કચ્છ થઈ બનાસકાંઠામાં મોસાળના ગામ લિંબાળા', the death date and 'ઉંમર 77 વર્ષ'. No authored field may add a wife, children, parents, a birth village, schooling, a caste claim, an occupation before the war, or any reason for the move beyond the printed one.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Interiority gate (profile avoid 3): the chunk records two wishes — 'એમની ઇચ્છા મુજબ એમના શબના માથા પર પાઘડી પહેરાવવામાં આવેલી' and 'એમના અંતિમસંસ્કાર એમની ઇચ્છા અનુસાર એમના ખેતરમાં કરવામાં આવેલા' — and gives no reason for either. No `explanation`, `concept_bullets` line, summary or `recall_questions[].answer` may explain why he wanted them, call the પાઘડી or the ખેતર a પ્રતીક, or state what he felt about his land.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'અખંડ ભારતમાં 21મી માર્ચ, 1936 માં જન્મ્યા હતા' વાંચીને બાળક 'અખંડ ભારત'ને કોઈ ગામ કે પ્રદેશનું નામ સમજી લે છે, અથવા ઊંધું સમજીને એમને પાકિસ્તાનના માણસ માની બેસે છે. પછી 'પાકિસ્તાનના સૈન્યના ત્રાસને લીધે... રણમાર્ગે કચ્છ થઈ બનાસકાંઠામાં... આવીને વસ્યા હતા' એ વાક્યનો મેળ બેસતો નથી.",
+      "correction": "પહેલી જ વાર આવે ત્યાં `explanation`માં 'અખંડ ભારત — ભાગલા પડ્યા તે પહેલાંનું, એક હતું તે ભારત' એમ ગ્લોસ કરો, અને એટલું જ ઉમેરો કે એ જન્મ્યા ત્યારે અહીં આજની સરહદ નહોતી. `key_terms`માં 'મોસાળ — માતાનું પિયર' પણ રાખો, જેથી લિંબાળા કેમ એમનું ગામ બન્યું એ સમજાય. ભાગલા વિશે પાઠમાં ન હોય એવી કોઈ વિગત ન ઉમેરો."
+    },
+    {
+      "topic_id": "M4.S6.T12",
+      "avoid_checks": [
+        {
+          "check": "બોધ gate (profile avoid 12), at the closing topic where it bites hardest: no sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` line or any `recall_questions[].answer` may close on 'આપણે પણ … જોઈએ', 'આ પાઠ આપણને શીખવે છે…' or 'દરેક વિદ્યાર્થીએ દેશસેવા કરવી જોઈએ', and none may turn ''ભારતમાતા કી જય', 'જય હિંદ'ના અને 'જય રણછોડ' નારા' into an appeal — those slogans belong to the children in the bus and stay inside a quotation of this chunk.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Hagiography gate (profile avoid 4): ''તો બાળદોસ્તો, આવા હતા આપણા મહાન દેશભક્ત રણછોડદાસ પગી.'' is the જવાન's printed line; મહાન and દેશભક્ત may appear in an authored field only inside a quotation of it, attributed to the જવાન, and no field may add an epithet of its own. The `explanation` names the કદર — the name ''રણછોડદાસ ચેકપોસ્ટ'' and 'સામે દેખાય છે એ એમની પ્રતિમા છે' — as what the સેના concluded, and in the same field names at least one act already told that the name stands for.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'ભારતીય સેનાએ રણછોડ પગીની કદર કઈ રીતે કરી ?' પૂછાય ત્યારે બાળક ચોકીના નામને અને પ્રતિમાને જ એમની મોટાઈનું કારણ માની લે છે — 'એમનું નામ ચોકીને અપાયું એટલે એ મહાન.' પણ પાઠમાં નામ અને પ્રતિમા તો પરિણામ છે; કારણ તો પહેલાં કહેવાયેલાં કામ છે.",
+      "correction": "`explanation`માં પહેલાં સેનાએ શું કર્યું એ કહો — ચેકપોસ્ટને 'રણછોડદાસ ચેકપોસ્ટ' નામ આપ્યું અને પ્રતિમા મૂકી — અને તરત જ એ જ ફકરામાં એમાંનું ઓછામાં ઓછું એક કામ નામ દઈને જોડો (લાવેલી બાતમી, બતાવેલો ટૂંકો રસ્તો, કે ઊંટ ઉપર પહોંચાડેલો દારૂગોળો). `recall_questions[].answer`માં પણ કદરની સાથે એ કામ આવે."
+    }
+  ],
+  "chapter_level": [
+    "Script and verbatim standing hazard, chapter-wide: every quoted span keeps the page exactly as printed — the ''…'' double-quote pair, the spaced ' ?' and ' !', 'કીક' (never ક્રીક), the Latin-script islands 'બી.એસ.એફ.', 'એસ.એસ.સી.', 'કિ.મી.', the Arabic numerals and dates, and the book's own agreement in 'ત્યારે સૌના ચહેરો ઉપર રાષ્ટ્રપ્રેમની અનેરી આભા ઝળકતી હતી.' Nothing is corrected, modernised, transliterated or romanised in any authored field.",
+    "First person and the borrowed witness (profile avoids 7 and 8): the running prose of this chapter has no હું. Every હું / મેં / અમે / આપણે on these pages belongs to the જવાન, to a named child (મૈત્રી, મિતાંશ, અદ્વૈત, નિધિ, હેલી, સાક્ષી, આકાશ, આનંદ) or to શિક્ષિકા કોમલબેન, and an authored field carrying one keeps it inside quotation marks with its printed speaker. No field may claim the writer met, saw or travelled with રણછોડ પગી; the chapter prints only the author line '- ડૉ. રવજી ગાબાણી', no લેખક-પરિચય and no date for the writer, so no fact and no date may be attributed to him anywhere in the plan.",
+    "War content, chapter-wide (profile avoid 9): this is India–Pakistan conflict addressed to a std-7 second-language child. 'દુશ્મનના દાંત ખાટા કરવા' is printed in the chapter's રૂઢિપ્રયોગ box and is answered there, in the exercise deliverable, as the printed idiom it is; it never becomes the teaching's own voice. No topic's teaching may name a nation as an enemy outside a quotation of its own `original_chunk`, count losses, or present defeating or killing as the achievement. What each wartime topic names instead is the skill and the ground — સગડ, પગેરું, કોઠાસૂઝ, ભોમિયાપણું, રણ, કીક, ધોરા, બોરિયાબેટ.",
+    "Living relatives (profile Sensitivity): રણછોડ પગી died on તા. 18-1-2013 and has living family, so an invented private detail is a claim about real people. No wife, children, home, income, daily habit or religious practice enters any field of this plan. What the printed pages carry is the whole permitted record.",
+    "Community naming (profile avoid 2 with global content rule 10): the chapter's own words are 'રણછોડ રબારી' and 'રણછોડ પગી'. The રબારી pastoral community is named only as the chapter names it, never generically and never as a caste explanation of his skill; and 'પગી' is a trade word in this chapter, not a surname.",
+    "Std-7 genre gate, at every topic and every tier: the સ્વરૂપ is experienced and never labelled. No topic may use a સાહિત્યપ્રકાર, અલંકાર, છંદ or સમાસ term; `figures_of_speech` is `[]` and `rhyme_scheme` is `null` on all twelve topics, including those that quote the જવાન's speech (profile avoid 13; profiles/students/std-7.md §2 and §5.5).",
+    "Two dated wars, and deeds may not migrate between them: the page prints 'ઇ.સ. 1965ની વાત છે.' at the head of the કચ્છ episode and 'ઈ.સ. 1971ના પાકિસ્તાન સામેના યુદ્ધમાં પણ' at the head of the બોરિયાબેટ–ધોરા episode, and the દારૂગોળો episode opens on 'એ સમયે', continuing the war just named. No authored field may attach a deed to a year the chapter does not attach it to, add a third year, or merge the two wars into one.",
+    "The mixed signal Agent 1 recorded, resolved for authoring: the printed exercises carry two વાર્તા tells — 'નીચેનાં વાક્યોને પાઠના ઘટનાક્રમ મુજબ ગોઠવો.' and 'ભારતીય સેનાને રણછોડ પગીની મદદ ન મળી હોત તો ?' — while the chapter is ચરિત્ર-પ્રસંગ about a documented man. The teaching may prepare both blocks, but no authored field may treat રણછોડ પગી as a વાર્તાનું પાત્ર: nothing is added for the sake of a better story, and the counterfactual is answered as a કલ્પના, never as an event.",
+    "The standing L2 vocabulary hazard, glossed at first use in whichever topic it appears in: two families run through this chapter. The trade words an English- or Hindi-medium child has never met in print — પગી, પગેરું, સગડ, કોઠાસૂઝ, ભોમિયો, ભાથું, બાવલું, કીક, છાવણી, ઘૂસણખોર; and the English words re-spelt in Gujarati script, which are the more dangerous family because the child recognises the sound and supplies the everyday English meaning — પોસ્ટ (ટપાલ નહિ, લશ્કરી ચોકી), પાર્ટી (રાજકીય પક્ષ નહિ, ઉજવણીનું ભોજન), બોર્ડર, ચેકપોસ્ટ, પોઝિશન, હેલિકોપ્ટર, રિલીઝ, મેડલ."
+  ]
+}

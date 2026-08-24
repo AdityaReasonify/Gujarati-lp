@@ -1,0 +1,548 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati6_ch15",
+  "plan_id": "gseb_eng_gujarati6_ch15_v1",
+  "grade": 6,
+  "level": "standard",
+  "chapter_name": "લો, પાથરી મારી વાત",
+  "genre": "આત્મકથનાત્મક નિબંધ",
+  "genre_slug": "nibandh_atmaparak",
+  "active_genre_profiles": ["nibandh_atmaparak.md"],
+  "teaching_lens": "સ્વર + પ્રસંગ + પોતાની જાત પરની નજર",
+  "guiding_question": "પાલુબેન પોતાનો આખો દિવસ પોતાના જ શબ્દોમાં કહે છે — એ કહેવામાં તેઓ પોતાના વિશે શું કબૂલી લે છે ?",
+  "explanation_unit": "એક પ્રસંગ, અથવા વિચારનો એક વળાંક",
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પાલુબેન પોતાની ઓળખ કયા શબ્દોમાં આપે છે તે શોધીને, ‘કામ, કામ ને કામ’ કહેવાથી એમના દિવસનું કેવું ચિત્ર ઊભું થાય તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પાલુબેન ઊઠવાના અને સૂવાના સમય તથા વળતર વિશે જે કહે છે તે પાઠમાંથી શોધીને, અઢાર કલાક મથવું પડે છે તેનું કારણ પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": ["M1.S1.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પાલુબેન દા’ડો ઊગ્યા પહેલાં ઘરમાં કયાં કયાં કામ પતાવે છે તેની યાદી પાઠમાંથી બનાવીને, એ કામ કોના કોના માટે થાય છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": ["M2.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "માર્કેટમાં ચાલતી ‘માલની તડાતડી’ કઈ સ્થિતિ બતાવે છે તે પાઠમાંથી સમજીને, પાલુબેનને ત્યાં ચા પીવાનોય ટાઈમ કેમ નથી મળતો તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": ["M2.S2.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પાલુબેન વેળાસર ધંધો શરૂ કરવા પર કેમ ભાર મૂકે છે તે પાઠની પંક્તિઓમાંથી શોધીને, સારી બોણી થવાનું કારણ પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": ["M2.S3.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શાક તોલતાં તોલતાં પાલુબેનનું મન કઈ ચિંતામાં જાય છે તે પાઠમાંથી શોધીને, મોટાં છોકરાં અને નાનકી વિશે એમની લાગણી કેમ જુદી પડે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": ["M2.S3.T6.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "આઠેક વાગ્યાના વિરામમાં પાલુબેન પોતાના માટે શું મંગાવે અને નાનકી માટે શું રાખે તે કહીને, ‘સાહેબની ને બેનની વઢ પણ મીઠી !’ કેમ કહે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T7",
+      "anchor": ["M2.S3.T7.C7", "M2.S3.T7.C8"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દબાણ ખસેડવાવાળા આવે ત્યારે પાથરણાવાળાંને શું શું ગુમાવવું પડતું તે પાઠમાંથી ક્રમમાં કહીને, ‘આખરે નુકસાન તો અમારું જ થતું.’ વાક્યનો અર્થ સમજાવવો.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S4.T8",
+      "anchor": ["M3.S4.T8.C9"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "‘સેવા’ની બહેનોએ કઈ કઈ મદદ કરી તે પાઠમાંથી શોધીને, ‘ડગલે પગલે થતાં અપમાન બંધ થયાં.’ કહેવાથી પાલુબેનના કામમાં શું બદલાયું તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S4.T9",
+      "anchor": ["M3.S4.T9.C10"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O10",
+      "legacy_id": "L10",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રાતે થાકીને આવ્યા પછી પણ પાલુબેન છોકરાંને જગાડીને કેમ ખવડાવે છે તે કહીને, ‘છોકરાંને ભણાવીશ. તો જ ઉજળા દિવસો આવશે.’ પાછળનો એમનો નિર્ધાર સમજાવવો.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M4.S5.T10",
+      "anchor": ["M4.S5.T10.C11", "M4.S5.T10.C12"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O11",
+      "legacy_id": "L11",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પાઠના છેલ્લા શબ્દોમાં પાલુબેન પાથરણું વાળીને વિદાય લે છે — એ ક્ષણ વાંચીને, આખી વાત તેમણે કોને સંભળાવી છે તે ઓળખાવવું અને એ વિદાયનો ભાવ કહેવો.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M4.S5.T11",
+      "anchor": ["M4.S5.T11.C13"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9",
+    "L10": "O10",
+    "L11": "O11"
+  },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "પોતાની ઓળખ પોતાના શબ્દોમાં",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "ધંધો, દિનચર્યા ને દિવસનો હિસાબ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "પોતાની ઓળખ ને પાથરણાનો ધંધો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "source_markers": ["ફકરો 1"],
+              "scene_span": {
+                "starts_at": "હું પાલુબેન વશરામભાઈ.",
+                "ends_at": "ઊઠું ત્યારથી રાતે આડી પડું ત્યાં સુધી સતત કામ, કામ ને કામ."
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "પોતાના જ શબ્દોમાં અપાતી ઓળખ",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "ઓછી ઊંઘ, ઝાઝો શ્રમ ને ટૂંકું વળતર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "source_markers": ["ફકરો 2"],
+              "scene_span": {
+                "starts_at": "તમારા સૌની મીઠી ઊંઘ ચાલતી હોય ત્યારે મારે ઊઠવું પડે સવારે સાડા ત્રણ વાગે.",
+                "ends_at": "છોકરાંઓને પાલવવાનાં અને પેટનો ખાડો પૂરવા અઢાર કલાક મથવાનું."
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "દિવસનો હિસાબ — શ્રમ સામે વળતર",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "અંધારેથી ઊઘડતો કામનો દા’ડો",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ઊઠવાથી માર્કેટ સુધી",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "દા’ડો ઊગ્યા પહેલાંનું ઘરકામ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O3"],
+              "source_markers": ["ફકરો 3"],
+              "scene_span": {
+                "starts_at": "તમને એમ થશે બેન કે આટલા વહેલા શા માટે ઊઠવાનું ?",
+                "ends_at": "ઘરવાળાનું ટિફિન તૈયાર કરવાનું..."
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "અંધારામાં ઊઠીને ઘરનું કામ ને ટિફિન",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "જમાપુર માર્કેટની તડાતડી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O4"],
+              "source_markers": ["ફકરો 3"],
+              "scene_span": {
+                "starts_at": "અને ચાર વાગ્યે જમાપુર મોટી માર્કેટમાં માલ લેવા પહોંચી જવાનું.",
+                "ends_at": "ત્રણ-ચાર મણ માલ ભરવાનો, અને રિક્ષામાં દાણાપીઠ પાસેની અમારી નક્કી કરેલી જગ્યાએ પહોંચી જવાનું."
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C4",
+                  "concept_name": "માર્કેટની ખરીદી ને માલ ભરવાની ઉતાવળ",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "પાથરણું પથરાય ને ધંધો ચાલે",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "દાણાપીઠે પથરાતું પાથરણું ને દા’ડાની બોણી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O5"],
+              "source_markers": ["ફકરો 3"],
+              "scene_span": {
+                "starts_at": "છ વાગ્યા સુધીમાં તો બધો માલ પાથરણામાં ગોઠવી કાઢું.",
+                "ends_at": "વહેલી સવારના ઘરાક ભાવતાલની માથાકૂટ ન કરે એટલે બોણી સારી થાય."
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "વેળાસર પથરાતું પાથરણું ને સારી બોણી",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "શાક તોલતાં છોકરાં સાંભરે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O6"],
+              "source_markers": ["ફકરો 3"],
+              "scene_span": {
+                "starts_at": "શાક તોલતી હોઉં ને બચુડિયાનો વિચારેય આવે.",
+                "ends_at": "ચિંતા તો નાનકીની થાય."
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C6",
+                  "concept_name": "તોલતા હાથ, ઘર ભણી જતું મન",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T7",
+              "topic_name": "ટાઢા રોટલાની ચા ને નિશાળે જતાં છોકરાં",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O7"],
+              "source_markers": ["ફકરો 4"],
+              "scene_span": {
+                "starts_at": "તો, પૃથાબેન હું શું કહેતી હતી ?",
+                "ends_at": "કોકનાં છોકરાં હારુ વઢવા કોણ નવરું હોય ?"
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T7.C7",
+                  "concept_name": "સામી કીટલીની ચા ને નાનકી માટે રાખેલાં ભજિયાં",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T7.C8",
+                  "concept_name": "દોડતાં નિશાળે પહોંચતાં છોકરાં ને ‘મીઠી વઢ’",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "પહેલાંના દા’ડા ને સંઘનો સાથ",
+      "segments": [
+        {
+          "segment_id": "M3.S4",
+          "segment_name": "ખટારો, ગોડાઉન ને ‘સેવા’નો સાથ",
+          "topics": [
+            {
+              "topic_id": "M3.S4.T8",
+              "topic_name": "ખટારે ચડી જતો માલ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O8"],
+              "source_markers": ["ફકરો 5"],
+              "scene_span": {
+                "starts_at": "પૃથાબેન પહેલાંના દિવસો યાદ આવે છે.",
+                "ends_at": "આખરે નુકસાન તો અમારું જ થતું."
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T8.C9",
+                  "concept_name": "દબાણ ખસેડવાની કાર્યવાહી ને ખરાબ થતો માલ",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S4.T9",
+              "topic_name": "‘સેવા’ની બહેનોનો સાથ ને બદલાયેલા દા’ડા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": ["M3.S4.T8"],
+              "objective_ids": ["O9"],
+              "source_markers": ["ફકરો 6"],
+              "scene_span": {
+                "starts_at": "ભલું થયું કે ‘સેવા’ની બહેનોએ સામેથી અમને સાથ આપ્યો.",
+                "ends_at": "ડગલે પગલે થતાં અપમાન બંધ થયાં."
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T9.C10",
+                  "concept_name": "સંઘનું બળ, લાઈસન્સ ને બંધ થયેલાં અપમાન",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M4",
+      "module_name": "રાતનું ઘર ને પાથરણાની વિદાય",
+      "segments": [
+        {
+          "segment_id": "M4.S5",
+          "segment_name": "રાતનું રાંધણ ને છેલ્લી વિદાય",
+          "topics": [
+            {
+              "topic_id": "M4.S5.T10",
+              "topic_name": "જગાડીને ખવડાવવું ને ભણાવવાનો નિર્ધાર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O10"],
+              "source_markers": ["ફકરો 7"],
+              "scene_span": {
+                "starts_at": "પૃથાબેન એક મનની વાત કહું ?",
+                "ends_at": "પણ છોકરાંને ભણાવીશ. તો જ ઉજળા દિવસો આવશે."
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M4.S5.T10.C11",
+                  "concept_name": "થાક છતાં જગાડીને ખવડાવવું",
+                  "objective_id": "O10",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M4.S5.T10.C12",
+                  "concept_name": "ભણાવવાનો નિર્ધાર ને ઉજળા દિવસોની આશા",
+                  "objective_id": "O10",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M4.S5.T11",
+              "topic_name": "પાથરણું વાળીને લેવાતી વિદાય",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O11"],
+              "source_markers": ["ફકરો 8", "ફકરો 9", "ફકરો 10"],
+              "scene_span": {
+                "starts_at": "લો, વાતવાતમાં નવ થયા.",
+                "ends_at": "આવજો ત્યારે પૃથાબેન !"
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M4.S5.T11.C13",
+                  "concept_name": "વાત ને પાથરણું — બંને વળી જાય",
+                  "objective_id": "O11",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "marker_to_topic_map": {
+    "ફકરો 1": ["M1.S1.T1"],
+    "ફકરો 2": ["M1.S1.T2"],
+    "ફકરો 3": ["M2.S2.T3", "M2.S2.T4", "M2.S3.T5", "M2.S3.T6"],
+    "ફકરો 4": ["M2.S3.T7"],
+    "ફકરો 5": ["M3.S4.T8"],
+    "ફકરો 6": ["M3.S4.T9"],
+    "ફકરો 7": ["M4.S5.T10"],
+    "ફકરો 8": ["M4.S5.T11"],
+    "ફકરો 9": ["M4.S5.T11"],
+    "ફકરો 10": ["M4.S5.T11"]
+  },
+
+  "markers_deliberately_not_cut": [
+    "એકમ-શીર્ષક — header furniture, never original_chunk (explanation_unit_map §What the rendered page tells you).",
+    "લેખક-નામ — the printed attribution '- પૃથાબેન વ્યાસ' is not a scene; Agent 5 places printed attribution inside a topic's original_chunk per gujarati_verbatim.md, not as a topic of its own.",
+    "પ્રવેશપેટી — the blue intro box is teacher-addressed apparatus. A1's own extraction_notes call it 'never a reading scene and never a topic'; nibandh_atmaparak.md and explanation_unit_map rule 4 agree. It feeds key_terms and Agent 10 only.",
+    "ચિત્ર — the p.101 market illustration is page matter; the profile states printed illustrations 'never open a topic of their own'.",
+    "શબ્દાર્થ — the 13-gloss box is apparatus; it feeds key_terms / shabdarth, not a topic.",
+    "રૂઢિપ્રયોગ — the two-idiom pre-block is apparatus; it feeds key_terms and Agent 10.",
+    "All 18 સ્વાધ્યાય blocks inventoried in 01_meta.json.exercise_inventory — none is a topic (global_content_rules §7, explanation_unit_map rule 4, profile Avoid gate 12)."
+  ],
+
+  "counts": {
+    "modules": 4,
+    "segments": 5,
+    "topics": 11,
+    "concepts": 13,
+    "objectives": 11,
+    "reading_scene_markers_in_00": 10
+  },
+
+  "notes": [
+    "Cut by the સ્વરૂપ's unit, not by the printed paragraph. 01_meta.json gives explanation_unit 'એક પ્રસંગ, અથવા વિચારનો એક વળાંક' and nibandh_atmaparak.md names THIS chapter's cut explicitly: 'the pre-dawn ઘરકામ, the જમાપુર market buying, the spreading of the પાથરણું and the બોણી, the ઘરાક-ભાવતાલ, the દબાણ raids of the old days, the સેવા turn, the night cooking, the rolling up of the પાથરણું.' The eleven topics follow that list plus the opening self-introduction, the reflection on hours against વળતર, and the mother's-mind turn inside the market paragraph.",
+    "MARKER ACCOUNTING for Agent 4. 00_chapter_normalized.md carries ten reading-scene markers [[ફકરો 1]]…[[ફકરો 10]] and eleven topics come out of them; marker_to_topic_map above is the full mapping and no marker is swallowed. Two deliberate departures from a 1:1 mapping, both forced by the unit: (a) [[ફકરો 3]] is the chapter's one long paragraph (~180 words) and carries FOUR turns — the pre-dawn ઘરકામ, the જમાપુર buying, the spreading of the પાથરણું and the બોણી, and the turn where her mind goes to the children while she weighs vegetables — so it is cut four ways at the writer's own turns, per the profile's 'the boundary is where the attempt fails or the mood turns — not the paragraph break'. (b) [[ફકરો 8]], [[ફકરો 9]] and [[ફકરો 10]] are three one-line paragraphs that make ONE closing gesture ('લો, વાતવાતમાં નવ થયા.' … 'આવજો ત્યારે પૃથાબેન !') and are held as one resolution topic, per the profile's 'The closing gesture is its own topic.' A1's structure_inventory recorded ghatna 0 on purpose, leaving this cut to Agent 2, and paragraphs 10 as printed structure only.",
+    "Pre-topic hook rule applied once. 'તમને એમ થશે બેન કે આટલા વહેલા શા માટે ઊઠવાનું ?' introduces the pre-dawn routine and therefore OPENS M2.S2.T3; it is not the tail of the ફકરો 2 reflection (explanation_unit_map cutting rule 2). The સ્મૃતિ hook 'પૃથાબેન પહેલાંના દિવસો યાદ આવે છે.' likewise opens M3.S4.T8, per the profile's 'A remembered episode keeps its opening.'",
+    "One boundary call worth surfacing. 'ત્રણ-ચાર મણ માલ ભરવાનો, અને રિક્ષામાં દાણાપીઠ પાસેની અમારી નક્કી કરેલી જગ્યાએ પહોંચી જવાનું.' is a single printed sentence that both loads the goods and reaches the pitch. It is kept in M2.S2.T4 as the tail of the buying trip, so T5 opens cleanly at 'છ વાગ્યા સુધીમાં તો બધો માલ પાથરણામાં ગોઠવી કાઢું.' Agent 5 must not split that sentence across two original_chunks.",
+    "No disagreement with the profile prior. The rendered page (via A1's transcription) and nibandh_atmaparak.md agree on the unit, and the blue intro box names the form outright, so nothing here overrides the table.",
+    "topic_category 'climax' is used NOWHERE, per the profile's hard gate 2 ('Converting the essay into a story with a moral'). The 'સેવા' paragraph is the chapter's real turn and is marked 'transition' rather than 'climax' for exactly that reason; it is the only topic with a real depends_on (M3.S4.T9 depends on M3.S4.T8, because 'ડગલે પગલે થતાં અપમાન બંધ થયાં.' is only measurable against the raids that preceded it). Every other depends_on is [].",
+    "Concept counter is chapter-continuous, so c stops equalling t from T7 onward: T7 carries C7 and C8, T10 carries C11 and C12, and T11 therefore carries C13 rather than C11. This is phase2_contract §Id grammar ('c does not restart inside a topic either'), not an error — a validator reading naming_conventions' one-concept shorthand as a rule would mis-flag it.",
+    "Two topics carry two concepts, both under the profile's 'Where one પ્રસંગ genuinely does two separable things' clause and never a third. M2.S3.T7 separates her own snatched breakfast from the children leaving for school and the 'મીઠી વઢ' remark — which the book itself probes as a standalone question ('કોઈનાં છોકરાં હારું વઢવા કોણ નવરું હોય. આવું પાલુબેન કેમ કહેતાં હશે ?'). M4.S5.T10 separates the night feeding from the resolve 'પણ છોકરાંને ભણાવીશ. તો જ ઉજળા દિવસો આવશે.' Nine topics carry one concept each.",
+    "Std-6 craft-label gate honoured: no objective_text names an અલંકાર, છંદ, સમાસ or the સાહિત્યપ્રકાર 'આત્મકથનાત્મક નિબંધ'. Objectives ask the child to find, list, order and explain the speaker's own printed words — never to name a form (profiles/students/std-6.md §2 and §3, teaching_lens_map 'Craft-naming gate by standard').",
+    "Every objective is grounded in a line this chapter actually prints and could belong to no other chapter — બોણી, તડાતડી, 'સેવા'ની બહેનો, 'ડગલે પગલે થતાં અપમાન બંધ થયાં.', 'સાહેબની ને બેનની વઢ પણ મીઠી !'. Quoted fragments inside objective_text are copied from 00_chapter_normalized.md, including the printed spoken forms (દા’ડો, હારુ, કોકનાં) which are NOT standardised (profile Avoid gate 7).",
+    "difficulty is relative inside this chapter and set by what stops a std-6 L2 reader on the page, never by how large the idea is. hard: T4 (મણ, તડાતડી, દાણાપીઠ — an unfamiliar wholesale-market object-world), T5 (બોણી, વેળાસર, ભાવતાલની માથાકૂટ — trade register), T8 (મ્યુનિસિપાલિટીવાળા, દબાણ ખસેડવાવાળા, ખટારા, કટ્ટા, ત્રાજવું, ગોડાઉન — the densest unfamiliar world in the chapter). easy: T1, T3, T11 — short, everyday actions. The rest are medium. No topic is hard for a craft reason, which std 6 does not permit.",
+    "UNEVEN TOPIC LENGTH — flagged, not blocking. M4.S5.T11 is roughly twenty printed words while M2.S2.T4 and M3.S4.T8 run four to six times that. The short one is the chapter's closing gesture and the profile requires it to stand alone, so the unevenness is correct rather than fixable.",
+    "original_chunk is empty on every topic by design; Agent 5 fills it verbatim from 00_chapter_normalized.md. scene_span on each topic carries the first and last printed sentence of that topic's span, copied from the transcription, so Agent 5 has an unambiguous boundary and never has to re-derive the cut. The chapter's last printed sentence 'આવજો ત્યારે પૃથાબેન !' and the printed attribution '- પૃથાબેન વ્યાસ' must both land inside the LAST topic's original_chunk (profile Avoid gate 13).",
+    "No teaching prose was written here — no explanation, no real_life_example, no summary, no recall question. Those are Agents 12 and 6's.",
+    "No PNG render was opened. 00_chapter_normalized.md answered every layout question this cut needed, including the paragraph markers, the picture's position and the apparatus boundaries."
+  ]
+}

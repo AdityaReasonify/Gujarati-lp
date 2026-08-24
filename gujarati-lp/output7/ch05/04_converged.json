@@ -1,0 +1,13 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "6342825ae0a0e5ad13f8292d91c102b18d145c0f68f2625eef213be8800dfc6e",
+  "verdict": "pass",
+  "notes": [
+    "Convergence record only — the structure payload is NOT duplicated here. Downstream agents read 02_structure.json for structure and this file only to confirm that Agent 4 passed it.",
+    "Ids are frozen from this moment: M1, M2, M1.S1, M2.S2, M1.S1.T1, M1.S1.T2, M2.S2.T3, M2.S2.T4, concepts C1–C4, objectives O1–O4 and the L1–L4 map. Only Agent 14 may renumber, and it must translate every surviving reference (depends_on, anchor[], home_topic_id, objective_ids, media and recall ids).",
+    "Verified at this pass: explanation unit એક કડી with three [[કડી …]] markers and three કડી topics; one [[ટેક]] marker, one distinct refrain wording and exactly one ટેક topic (M1.S1.T1) with every later કડી topic depending on it; four reading scenes → four topics in printed order; zero સ્વાધ્યાય blocks cut as topics out of thirteen inventoried; four registered objectives with resolving home_topic_id and anchor[]; chapter-continuous M/S/T/C numbering with no P-style objective code.",
+    "chapter_id 'gseb_eng_gujarati7_ch5' and plan_id 'gseb_eng_gujarati7_ch5_v1' stay PROVISIONAL (VERIFY-1) — freezing hierarchy ids does not confirm the board and medium segments.",
+    "Non-blocking notes for Agent 13 live in 04_validation.json and are not repeated here."
+  ]
+}

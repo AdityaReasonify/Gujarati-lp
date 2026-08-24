@@ -1,0 +1,35 @@
+# -*- coding: utf-8 -*-
+import json, io
+T = {}
+
+T["M1.S2.T4"] = {
+ "avoid_checks":[
+  {"check":"Every description of ચક્રવ્યૂહ in `explanation`, `key_terms`, `concept_bullets` and `recall_questions[].answer` must stay inside the chapter's own printed definition — `યુદ્ધમાં ચક્ર આકારમાં યોદ્ધાઓ ગોઠવાઈ જઈને શત્રુને આંતરીને યુદ્ધ કરે તે ચક્રવ્યૂહ` and the શબ્દાર્થ box's `ચક્રવ્યૂહ — ચકાકારે ગોઠવેલી સૈન્ય રચના`. No count of કોઠા, no named layers, no chariots-and-elephants detail imported from the wider મહાભારત.",
+   "profile":"varta","severity":"hard"},
+  {"check":"Gate 1 (summary-only teaching): `explanation` must add what the exchange does — the boy's `‘‘મને એ શીખવો ને !’’` and શ્રીકૃષ્ણ looking at સુભદ્રા before he laughs — and not stop at repeating the definition. The chapter's own hook `‘‘કેમ હસો છો મામા ?’’` closes this topic and must be left unanswered here; the answer is the next topic's ઘટના.",
+   "profile":"varta","severity":"hard"}],
+ "misconception":"બાળક ‘ચક્રવ્યૂહ’ને કોઈ કિલ્લો, ભુલભુલામણી કે મકાન સમજી લે છે, અને ‘ભેદવું’ એટલે દરવાજો ખોલવો એવો અર્થ કરે છે; પછી આખા પાઠમાં આવતા ‘કોઠા’ પણ ઓરડા જેવા લાગે છે અને અભિમન્યુ શું કરી રહ્યો છે તે દેખાતું જ નથી.",
+ "correction":"પાઠની પોતાની વ્યાખ્યા વાપરીને પહેલા વાક્યમાં જ સ્પષ્ટ કરો કે ચક્રવ્યૂહ પથ્થરની રચના નથી — જીવતા યોદ્ધાઓ ચક્રના આકારે ગોઠવાઈ જાય એ સૈન્યરચના છે; સાથે જ `આંતરવું — વચ્ચે રોકી લેવું` અને `ભેદવું — તોડીને વચ્ચેથી નીકળી જવું` ગ્લોસ કરો."}
+
+T["M1.S2.T5"] = {
+ "avoid_checks":[
+  {"check":"Gate 5 (no debunking or verifying a પૌરાણિક કથા): no `explanation`, `concept_bullets` line, `real_life_example` or `recall_questions[].answer` may assert or deny that a child in the ગર્ભ can hear and learn — no `ખરેખર એવું ન બને`, no `વૈજ્ઞાનિક રીતે…`, and no re-framing of it as `માત્ર માન્યતા` or `કલ્પના`. The કથા is taught as the કથા tells it.",
+   "profile":"varta","severity":"hard"},
+  {"check":"Gate 3 (judging a character the story treats with sympathy): no field may blame સુભદ્રા. `‘‘…પણ તું અધવચ્ચે સૂઈ ગયેલી !’’` may be reported as the chapter reports it, but no `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may call her બેદરકાર, આળસુ or ભૂલ કરનારી, or hold her responsible for what later happens to her son.",
+   "profile":"varta","severity":"hard"},
+  {"check":"Gate 2 (a tacked-on બોધ): no sentence of `explanation`, `summary`, `detailed_summary`, `concept_bullets` or `recall_questions[].answer` may turn `અધૂરું જ્ઞાન` into a life-rule — no `અધૂરું જ્ઞાન ખતરનાક છે`, no `હંમેશાં પૂરું શીખવું જોઈએ`, no `આ વાર્તા આપણને શીખવે છે…`. The chapter states the fact (`એને ચક્રવ્યૂહને ભેદવાનું સંપૂર્ણ જ્ઞાન ન મળી શક્યું`) and never states a rule.",
+   "profile":"varta","severity":"hard"}],
+ "misconception":"બાળક અહીં અટકીને વિચારે છે કે પેટમાંનું બાળક તે કંઈ સાંભળી શકે ? — અને એક વાર ‘આવું તો બને જ નહિ’ એમ નક્કી થઈ જાય પછી એ આખી કથાને ખોટી ગણીને વાંચે છે, ને પાઠનો સાચો મુદ્દો — જ્ઞાન ‘અધૂરું’ રહી ગયું — હાથમાંથી છૂટી જાય છે.",
+ "correction":"કથાની અંદર રહીને જ સમજાવો: આ પૌરાણિક કથા છે, એ જે કહે છે તે એમ જ લેવાનું છે — સાચું-ખોટું તપાસવાનું નથી. ધ્યાન પાઠના પોતાના શબ્દો `અધૂરું` અને `સંપૂર્ણ જ્ઞાન ન મળી શક્યું` પર લઈ જાઓ, અને `ભગિની — બહેન` ગ્લોસ કરો."}
+
+T["M2.S3.T6"] = {
+ "avoid_checks":[
+  {"check":"Gate 1 (summary-only teaching): `explanation` must add cause or consequence — why the war began (`રાજ્યના હક બાબતે કલહ`, દુર્યોધનનું `‘‘સોયની અણી જેટલી જમીન પણ હું પાંડવોને નહિ આપું !’’`) and why દ્રોણને સેનાપતિ બનાવવા પડ્યા — rather than reproducing the roll-call of warriors that `modified_chunk` already carries.",
+   "profile":"varta","severity":"hard"},
+  {"check":"The two lists of યોદ્ધા are scenery, not a memory task: no `recall_questions[].question` may ask the child to name the કૌરવપક્ષ or પાંડવપક્ષ warriors, and no `concept_bullets` line may be a bare list of those names.",
+   "profile":"varta","severity":"soft"}],
+ "misconception":"‘દશમા દિવસે તેઓ બાણશય્યા પર પોઢ્યા’ વાંચીને બાળક સમજે છે કે ભીષ્મ પિતામહ થાકીને સૂઈ ગયા — ‘પોઢવું’ એટલે સૂવું જ છે ને ! એટલે એ પછી દુર્યોધનને નવા સેનાપતિ કેમ શોધવા પડ્યા એ કડી તૂટી જાય છે.",
+ "correction":"પુસ્તકનો પોતાનો શબ્દાર્થ વાપરો — `બાણશય્યા — બાણની પથારી` — અને એક વાક્યમાં કહો કે એ પથારી પર પોઢ્યા એટલે ભીષ્મ પિતામહ યુદ્ધમાંથી બહાર થઈ ગયા, ને એટલે જ દુર્યોધને ગુરુ દ્રોણને સેનાપતિ બનાવ્યા; સાથે `પલ્લું ભારે થવું — શક્તિમાં વધારો થવો, લાભની સ્થિતિમાં હોવું` ગ્લોસ કરો."}
+
+json.dump(T, io.open('/Users/aditya/Downloads/Gujarati-lp/scratch/part_b.json','w',encoding='utf-8'), ensure_ascii=False, indent=1)
+print('b ok', len(T))

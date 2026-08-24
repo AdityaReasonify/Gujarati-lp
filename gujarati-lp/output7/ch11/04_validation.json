@@ -1,0 +1,57 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "Explanation unit named in 01_meta.json is એક વાર્તા-પગલું (ઘટના) bounded at printed કડી ends; the cut in 02_structure.json uses exactly that unit — 10 topics from 10 ઘટના markers, boundaries always at a કડી end.",
+        "કડી is not the explanation unit here, so the marker-equals-topic rule for કડી does not apply; the કડી markers are instead all carried whole (11 carried, 0 split, 0 uncarried).",
+        "No દુહો and no પદ marker exists in this chapter (0 and 0), so the no-merge and no-split gates are satisfied vacuously; tek_occurrences is 0, so no changed-words ટેક topic is owed.",
+        "Not a mixed chapter — the whole reading text is one કથાકાવ્ય under one unit.",
+        "kathakavya.md avoid-list items 1, 2 and 3 (the three structural ones Agent 4 owns) all hold; no objective carries a tacked-on બોધ, an invented craft label or a community reading."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 10,
+      "topics": 10,
+      "notes": [
+        "All 10 [[ઘટના: …]] markers became topics in printed order, one-to-one, verified string-for-string against the marker list.",
+        "Pre-reading opener: none exists as a reading scene — the only pre-reading matter is the teacher-addressed પ્રવેશપેટી, which is apparatus, not a topic. No in-text wrap exists, so no REVIEW topic is owed.",
+        "No સ્વાધ્યાય block became a topic: all 17 exercise_inventory headings cross-checked against every topic_name and segment_name and against every topic's provenance — zero collisions, zero સ્વાધ્યાય provenance. exercise_blocks_cut_as_topics and apparatus_blocks_cut_as_topics are both 0 and both re-verified.",
+        "No topic covers text that no marker claims: printed_lines 1–56 are covered exactly once, contiguously, and every range is the sum of its own કડી markers' line counts."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 10,
+      "notes": [
+        "O1–O10 unique in the root registry; strand_to_objective_map maps L1–L10 to O1–O10 exactly once each with correct pairing; the single strand L / ભાષા અને સાહિત્ય is used throughout.",
+        "Every home_topic_id and every anchor[] concept id resolves to a node in this tree, and each anchor lies inside its own home topic.",
+        "Every topic carries objective_ids resolving to the registry; each objective is referenced by exactly one topic; no orphans.",
+        "Each objective is text-grounded, chapter-specific and on the teaching_lens ઘટના + પાત્ર + વળાંક.",
+        "Id contract holds: dotted, chapter-continuous hierarchy matching traversal position; concepts present on every topic; no P-style objective code; no numbers in display text."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Mechanically re-derived from 00_chapter_normalized.md, not taken on trust from 02_structure.json's own cut_accounting: 11 [[કડી n]] markers, 10 [[ઘટના: …]] markers, 0 [[દુહો]], 0 [[પદ]], 0 ટેક, 17 [[સ્વાધ્યાય: …]] blocks. Every count in cut_accounting matched the re-derivation exactly.",
+    "kathakavya.md hard gate 1 (never split a કડી) holds: the eleven કડી markers are carried by exactly one topic each, none duplicated, none uncarried, and every topic's printed_lines range equals the sum of its own કડી line counts walked from line 1 — 1–4, 5–8, 9–16, 17–28, 29–32, 33–36, 37–40, 41–48, 49–52, 53–56, total 56, agreeing with 01_meta.json's kadi_line_counts [4,4,4,4,12,4,4,4,8,4,4] re-measured off the transcription.",
+    "kathakavya.md hard gate 2 (step-wise, not કડી-wise) holds: 10 instructional topics = 10 ઘટના markers < 11 કડી markers, and the topics follow the markers in printed order one-to-one.",
+    "kathakavya.md hard gate 3 (never end mid-episode) holds: the printed doubled-single-quote pairs ‘‘ … ’’ balance inside every topic's line range (0/1/2/1/2/1/2/1/1/3 pairs, all closed). The merge of કડી 3 + કડી 4 into M1.S2.T3 is what keeps the ગુરુ's reason and the શિષ્ય's refusal in one topic; splitting there would have ended a topic between the argument and its answer.",
+    "The two multi-beat કડી are handled at the concept layer, not by splitting the stanza: the twelve-line કડી 5 (M2.S3.T4 → C4, C5) and the eight-line કડી 9 (M2.S5.T8 → C9, C10). That is the correct resolution of the tension between gate 1 and the two-beat content, and 01_meta.json's extraction_notes record the same page measurement.",
+    "No pre-reading opener topic exists, and none is expected here: the chapter's only pre-reading matter is the teacher-addressed blue પ્રવેશપેટી ('આ એક કથાકાવ્ય છે…'), which explanation_unit_map.md §Hard rules 4 and kathakavya.md both classify as apparatus rather than a reading scene. Std 7 prints no student-addressed કવિ-પરિચય paragraph of the std-10 kind. Recorded as an absence, not a block.",
+    "No in-text wrap / REVIEW topic exists, and none is expected: nothing is printed after the last verse line 'રાજા શૂળી પર રહ્યો, અંગે વેઠી આંચ.' before the શબ્દાર્થ box.",
+    "સ્વાધ્યાય containment verified in both directions: none of the seventeen verbatim_heading strings in 01_meta.json's exercise_inventory matches any topic_name or segment_name, and no topic's provenance names a સ્વાધ્યાય, શબ્દાર્થ, રૂઢિપ્રયોગ, પ્રવેશપેટી or વ્યાકરણપેટી marker. Every topic's provenance resolves to an ઘટના marker plus કડી markers only.",
+    "Objectives: O1–O10 unique; every home_topic_id resolves; every anchor concept id resolves AND sits inside its own home topic; strand_to_objective_map covers L1–L10 exactly once with correct pairs; every topic carries objective_ids that resolve; every objective is referenced by exactly one topic and none is orphaned. All ten quote or name this chapter's own matter (ભાજી-ખાજાં એક ભાવે, 'ખૂબ ખાટ્યો', 'ખાવાપીવા ખૂબ આંહીં', 'કડિયા તણો એમાં વાંક અપાર', 'રાજા છાંડો રીસ', 'ફળ જાડું શૂળી તણું', 'વેગે મળે વિમાન') and none could be pasted into another chapter. All ten sit on ઘટના + પાત્ર + વળાંક and none names an અલંકાર, છંદ or સાહિત્યપ્રકાર.",
+    "Id contract: M1–M3, S1–S6 and T1–T10 are dotted and chapter-continuous with no restart; C1–C12 is chapter-continuous across topics; every id equals its traversal position (zero mismatches); no M1.S1.T1.P1-style objective code appears anywhere in the file; no digit, Latin or Gujarati, appears in any module_name, segment_name, topic_name, concept_name or objective_text.",
+    "NOTE for Agent 14: because M2.S3.T4 and M2.S5.T8 each carry two concepts, the concept number no longer equals the topic number from C5 onward (M2.S3.T5 carries C6, M3.S6.T10 carries C12). This is correct under phase2_contract.md ('c is chapter-continuous'), but the renumber must preserve continuity across the traversal, not the one-concept-per-topic equality shown in that file's example row.",
+    "NOTE (non-blocking, recorded for Agent 13): original_chunk is \"\" on all ten topics at this stage — the cut is carried by provenance.kadi_markers plus printed_lines, which is what was validated here. Agent 5 must fill every original_chunk verbatim from the transcription and re-honour gate 1 (chunk begins at a કડી's first printed line and ends at a કડી's last).",
+    "NOTE (non-blocking, recorded for Agent 13): 02_structure.json and 01_meta.json disagree on where the climax sits — 01_meta.json's explanation_unit wording puts વળાંક and પરિણામ together on the last કડી, while 02_structure.json follows kathakavya.md §Emphasise and marks M3.S6.T9 (the ગુરુ's 'વેગે મળે વિમાન' invention) 'climax' and M3.S6.T10 'resolution'. A2 recorded the disagreement openly and followed the profile, which is the unit authority. topic_category is not one of Agent 4's three checks, so this is a note. Downstream consequence to carry: gate 9 (no spoiling the turn early) must be enforced against BOTH — no topic before M3.S6.T9 may name the outcome, and no topic before M3.S6.T10 may say who ends up on the શૂળી.",
+    "NOTE (non-blocking): topic_type is POEM on all ten topics although the cut is ઘટના-wise. Both authored values are defensible for a કથાકાવ્ય; POEM keeps the poem-only fields (rhyme_scheme, figures_of_speech) live and maps to 'instructional' at Agent 14/15 emit either way, so nothing downstream turns on it.",
+    "The blame chain (વણિક → કડિયો → ગારો કરનાર → પખાલી → મુલ્લા) is cut at the granularity kathakavya.md prescribes — each accusation carrying its own printed speech is a step, and the two accusations that share one કડી stay one topic. No કડી was split to make the chain look symmetrical. The segment and topic names name the chain by what it does, never by who the people are; kathakavya.md hard gate 13 is respected in the structure and must stay respected in Agents 6, 10 and 12.",
+    "No page render was opened for this pass: 00_chapter_normalized.md answered every layout question the checks needed (stanza boundaries, per-કડી line counts, printed quotation pairs), because Agent 1 had already measured them off the renders and recorded them."
+  ]
+}

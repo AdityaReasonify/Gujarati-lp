@@ -1,0 +1,16 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch1",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S2.T2",
+    "M1.S2.T3",
+    "M2.S3.T4",
+    "M2.S3.T5",
+    "M2.S4.T6"
+  ],
+  "source": "printed pages 1–6 read off the render (_renders/page-1.png … page-6.png); the poem in full is printed on printed page 1, ટેક couplet first and કડી one to five below it in a single column",
+  "notes": [
+    "Equals the logical traversal order of 02_structure.json exactly. Emitted anyway so Agent 15 has an explicit index rather than an assumption, and so its human_confirmation_required flag is raised on a comparison that actually happened.",
+    "Order is the order of the teaching text only. Nothing else on printed pages 1–6 enters this list: the પ્રવેશપેટી, the શબ્દાર્થ box, the thirteen exercise blocks, the second poem embedded inside the MCQ block, and the closing ચર્ચા-વિચારણા box are all excluded. No વ્યાકરણ એકમ, પૂરકવાચન piece or 'આગળ વધતાં પહેલાં' revision unit falls inside this chapter's printed range."
+  ]
+}

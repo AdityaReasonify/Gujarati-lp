@@ -1,0 +1,842 @@
+{
+ "phase": 2,
+ "board": "gseb",
+ "subject": "Gujarati",
+ "grade": 6,
+ "level": "standard",
+ "version": 1,
+ "ordering": null,
+ "chapter_id": "gseb_eng_gujarati6_ch6",
+ "plan_id": "gseb_eng_gujarati6_ch6_v1",
+ "author": "",
+ "_activate": false,
+ "medium_id": null,
+ "subject_ref_id": null,
+ "chapter_master_id": null,
+ "publication_id": 1,
+ "estimated_time": 1.5,
+ "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 6",
+ "textbook_url": "../Textbooks-pdf/std-6/ch-06-sanskare-sarjyu-swarg.pdf",
+ "textbook_pages": "34–40",
+ "unit_title": "સંસ્કારે સર્જ્યું સ્વર્ગ",
+ "unit_number": 6,
+ "topic_title": "સંસ્કારે સર્જ્યું સ્વર્ગ",
+ "topic_number": 6,
+ "chapter_name": "સંસ્કારે સર્જ્યું સ્વર્ગ",
+ "genre": "માહિતીપ્રદ ગદ્ય (સંવાદ-શૈલી)",
+ "teaching_lens": "તથ્ય + પરંપરા + જિજ્ઞાસા (mahitiprad_gadya, પ્રમુખ) — સાથે samvad_nibandh નો બે-અવાજનો gate લોડ કર્યો છે: અવતરિત વાણી કદી પરોક્ષ કથનમાં ફેરવવી નહીં, અને લેબલ વગરના વળાંકનો વક્તા બદલવો નહીં",
+ "guiding_question": "સૂકાભઠ વિસ્તારના ગામને લીલુંછમ કરવા માટે સંસ્કારે અને ગામલોકોએ ખરેખર શું શું કર્યું ?",
+ "english_plan_id": null,
+ "english_chapter_id": null,
+ "objectives": [
+  {
+   "objective_id": "O1",
+   "legacy_id": "L1",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'ગામની સિકલ ફરી ગઈ છે' એમ પુરુષોત્તમભાઈ કેમ કહે છે, અને સંસ્કાર કોણ છે — બંને વાત પાઠના શબ્દોમાં કહેવી.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S1.T1",
+   "anchor": [
+    "M1.S1.T1.C1",
+    "M1.S1.T1.C2"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O2",
+   "legacy_id": "L2",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "છોડ વાવવો અને છોડ ઉછેરવો — બંને વચ્ચે શો ફેર છે તે સમજીને, સંસ્કાર રોજ સવાર-સાંજ શું કરતો તે કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S2.T2",
+   "anchor": [
+    "M1.S2.T2.C3",
+    "M1.S2.T2.C4"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O3",
+   "legacy_id": "L3",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'જાત મહેનત ઝિંદાબાદ' અને 'પારકી આશ સદા નિરાશ' — આ બે કહેવત સંસ્કારના કામમાં કેવી રીતે ઊતરી, અને ગામનાં કોણ કોણ જોડાયાં તે કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M1.S2.T3",
+   "anchor": [
+    "M1.S2.T3.C5"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O4",
+   "legacy_id": "L4",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "પહેલા વૃક્ષારોપણમાં કેટલાં ઝાડ વાવેલાં ને કેટલાં બચ્યાં તે આંકડા શોધીને, ગામનાં જાહેર સંકુલો આજે લીલાંછમ કેમ છે તે કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S2.T4",
+   "anchor": [
+    "M1.S2.T4.C6"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O5",
+   "legacy_id": "L5",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ગામમાં કયાં નવાં ઝાડ ઊછરી શક્યાં અને સાગ, સીસમ, વાંસ જેવાં કયાં ન ઊછરી શક્યાં — બંનેનું કારણ પાઠમાંથી શોધીને કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S3.T5",
+   "anchor": [
+    "M2.S3.T5.C7",
+    "M2.S3.T5.C8"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O6",
+   "legacy_id": "L6",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "બગીચાના બોર્ડ પરનું 'નક્ષત્ર-વન' એટલે શું, એ કોની યોજના છે અને એ બગીચો ગામનાં છોકરાંને શી રીતે કામ લાગે છે તે કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S3.T6",
+   "anchor": [
+    "M2.S3.T6.C9"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O7",
+   "legacy_id": "L7",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "શાળાના મેદાનમાં ઔષધબાગ, તુલસીવન અને કિચનગાર્ડન કોની મહેનતથી થયાં, અને એથી શાળા કેવી લાગે છે તે પાઠમાંથી કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S4.T7",
+   "anchor": [
+    "M2.S4.T7.C10"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O8",
+   "legacy_id": "L8",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'સંસ્કારે સર્જ્યું છે સ્વર્ગ' એ વાક્યમાં 'સ્વર્ગ' શાને કહ્યું છે, અને ગામના પરિવારો શહેરથી પાછા કેમ આવે છે તે કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S4.T8",
+   "anchor": [
+    "M2.S4.T8.C11"
+   ],
+   "status": "taught",
+   "theme_category": null
+  }
+ ],
+ "strand_to_objective_map": {
+  "L1": "O1",
+  "L2": "O2",
+  "L3": "O3",
+  "L4": "O4",
+  "L5": "O5",
+  "L6": "O6",
+  "L7": "O7",
+  "L8": "O8"
+ },
+ "modules": [
+  {
+   "module_id": "M1",
+   "module_name": "સૂકા ગામમાં લેવાયેલો સંકલ્પ ને જોડાતું ગામ",
+   "difficult_words": [],
+   "overall_rhyme_scheme": null,
+   "segments": [
+    {
+     "segment_id": "M1.S1",
+     "segment_name": "અઢી દાયકે પાછી ફરેલી નજર",
+     "topics": [
+      {
+       "topic_id": "M1.S1.T1",
+       "topic_name": "ગામની ફરી ગયેલી સિકલ ને શ્રેય કોને",
+       "topic_type": "CONCEPT",
+       "topic_category": "introduction",
+       "difficulty": "easy",
+       "depends_on": [],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O1"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O1",
+         "legacy_id": "L1",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "'ગામની સિકલ ફરી ગઈ છે' એમ પુરુષોત્તમભાઈ કેમ કહે છે, અને સંસ્કાર કોણ છે — બંને વાત પાઠના શબ્દોમાં કહેવી.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M1.S1.T1",
+         "anchor": [
+          "M1.S1.T1.C1",
+          "M1.S1.T1.C2"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "''વાહ! અઢી દાયકામાં તો ગામની સિકલ ફરી ગઈ છે!'' પરદેશમાં પચીસેક વર્ષ રહ્યા પછી ગામમાં પાછા આવેલા પુરુષોત્તમભાઈએ સવજીભાઈને કહ્યું.\n\n''સાચી વાત છે, પશાભાઈ. આ ફેરફારનું તમામ શ્રેય સંસ્કારભાઈને જાય છે.'' સવજીભાઈએ કહ્યું.\n\n''કોણ ? પેલા આપણા ગામમાં નવા શિક્ષક આવેલા એમનો દીકરો, સંસ્કાર ને ?'' પુરુષોત્તમભાઈએ ખાતરી કરવા પૂછ્યું.\n\n''હા, એ જ. એ અહીં આવ્યો ત્યારે છઠ્ઠા ધોરણમાં હતો. યાદ આવે છે? એના પોતાના ગામમાં તો હરિયાળી હતી, પણ આપણો તો સૂકો વિસ્તાર. દર વર્ષે વૃક્ષારોપણ કરીએ તોય ઝાડ બરાબર ઊછરે નહીં. પણ, સંસ્કારે ઉછેર્યાં.''",
+       "modified_chunk": "પચીસેક વર્ષ પરદેશ રહીને પુરુષોત્તમભાઈ ગામમાં પાછા આવે છે અને જુએ છે કે ગામની સિકલ (દેખાવ) સાવ ફરી ગઈ છે. સવજીભાઈ કહે છે કે આ આખા ફેરફારનું શ્રેય (યશ) સંસ્કારભાઈને જાય છે. પુરુષોત્તમભાઈ ખાતરી કરે છે કે એ તો ગામમાં નવા આવેલા શિક્ષકનો દીકરો સંસ્કાર જ ને. સવજીભાઈ જણાવે છે કે સંસ્કાર છઠ્ઠા ધોરણમાં હતો ત્યારે અહીં આવ્યો હતો; એનું પોતાનું ગામ હરિયાળું હતું, જ્યારે આ વિસ્તાર સૂકો છે, જ્યાં દર વર્ષે વૃક્ષારોપણ કરવા છતાં ઝાડ ઊછરતાં નહોતાં — પણ સંસ્કારે એ ઝાડ ઉછેરી બતાવ્યાં.",
+       "word_count": {
+        "original": 86
+       },
+       "key_terms": [
+        "સિકલ — ચહેરો, દેખાવ; અહીં ગામનો બદલાયેલો દેખાવ",
+        "દાયકો — દસ વર્ષનો સમય; અઢી દાયકા એટલે પચીસ વર્ષ",
+        "શ્રેય — યશ, જશ; સારા કામનું મળતું માન",
+        "હરિયાળી — લીલોતરી, ચારે બાજુ લીલાં ઝાડ-છોડ",
+        "વૃક્ષારોપણ — ઝાડ વાવવાનું કામ",
+        "ઊછરવું — વાવ્યા પછી છોડનું બરાબર મોટું થવું"
+       ],
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T1.C1",
+         "concept_name": "અઢી દાયકે પાછી ફરેલી નજરે બદલાયેલું ગામ",
+         "objective_id": "O1",
+         "key_terms": [],
+         "content": []
+        },
+        {
+         "concept_id": "M1.S1.T1.C2",
+         "concept_name": "સંસ્કાર કોણ — હરિયાળા ગામથી સૂકા વિસ્તારમાં આવેલો શિક્ષકનો દીકરો",
+         "objective_id": "O1",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "",
+       "real_life_example": "",
+       "brief_summary": "",
+       "summary": "",
+       "detailed_summary": "",
+       "concept_bullets": [],
+       "important_points": [],
+       "recall_questions": [],
+       "figures_of_speech": [],
+       "rhyme_scheme": null,
+       "estimated_exchanges": "",
+       "shabdarth": [],
+       "samanarthi": [],
+       "vilom": [],
+       "vyakaran": [],
+       "media": [],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": ""
+      }
+     ]
+    },
+    {
+     "segment_id": "M1.S2",
+     "segment_name": "વાવવું નહીં, ઉછેરવું — મહેનત ને સહિયારો સાથ",
+     "topics": [
+      {
+       "topic_id": "M1.S2.T2",
+       "topic_name": "વાવેલા છોડને ઉછેરવાનો સંકલ્પ",
+       "topic_type": "CONCEPT",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [
+        "M1.S1.T1"
+       ],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O2"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O2",
+         "legacy_id": "L2",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "છોડ વાવવો અને છોડ ઉછેરવો — બંને વચ્ચે શો ફેર છે તે સમજીને, સંસ્કાર રોજ સવાર-સાંજ શું કરતો તે કહેવું.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M1.S2.T2",
+         "anchor": [
+          "M1.S2.T2.C3",
+          "M1.S2.T2.C4"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "''ભાઈ, આપણે વૃક્ષારોપણ વખતે છોડ વાવવામાં જ રસ લેતા, પણ એ છોડ ઊછરે એની દરકાર ક્યાં લેતા?'' પુરુષોત્તમભાઈએ હસતાં હસતાં કહ્યું.\n\n''બિલકુલ, સાચું. પણ આ તો જુદી માટીનો માનવી! એણે તો વાવેલા છોડને ઉછેરવાનો સંકલ્પ લીધો.'' સવજીભાઈએ સૂર પુરાવતાં કહ્યું.\n\n''વાહ! કેવો સર્જનાત્મક સંકલ્પ! અત્યારે આ લીલાંછમ ઝાડ પણ જાણે બોલે છે કે સંસ્કારે કમર કસીને કામ કર્યું છે.'' પુરુષોત્તમભાઈએ પણ તેની મહેનતને વખાણી.\n\n''હા, એ રોજ વહેલી સવારે અને સાંજે નાના નાના છોડવાની સંભાળ લેવા પહોંચી જતો. તે વખતે સાધન-સગવડો ક્યાં હતાં? જાતે જ પાણી ઉપાડી લાવતો ને છોડવાઓને પાતો. એક પણ છોડ સુકાઈ જાય તો તેનો જીવ કપાઈ જતો.'' સવજીભાઈએ સંસ્કારના પરિશ્રમનો ઉલ્લેખ કરતાં કહ્યું.",
+       "modified_chunk": "પુરુષોત્તમભાઈ કબૂલે છે કે ગામલોકો છોડ વાવવામાં જ રસ લેતા, પણ એ છોડ ઊછરે તેની દરકાર (કાળજી) રાખતા નહોતા. સવજીભાઈ કહે છે કે સંસ્કારે વાવેલા છોડને ઉછેરવાનો સંકલ્પ (પાકો નિશ્ચય) લીધો હતો. પુરુષોત્તમભાઈ એ સંકલ્પને સર્જનાત્મક કહીને એની મહેનતનાં વખાણ કરે છે. પછી સવજીભાઈ સંસ્કારના પરિશ્રમની વાત કરે છે — એ રોજ વહેલી સવારે અને સાંજે નાના છોડવાની સંભાળ લેવા પહોંચી જતો, સાધન-સગવડ ન હોવાથી જાતે પાણી ઉપાડી લાવીને છોડને પાતો, અને એક છોડ સુકાય તોય એને ખૂબ દુઃખ થતું.",
+       "word_count": {
+        "original": 107
+       },
+       "key_terms": [
+        "દરકાર — પરવા, કાળજી",
+        "સંકલ્પ — મનમાં લીધેલો પાકો નિશ્ચય",
+        "સર્જનાત્મક — નવું રચી બતાવે એવું",
+        "છોડવો — નાનો છોડ",
+        "સાધન-સગવડ — કામ કરવા માટેનાં ઓજાર અને સુવિધા",
+        "પરિશ્રમ — ખૂબ મહેનત"
+       ],
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T2.C3",
+         "concept_name": "વાવવું જુદું ને ઉછેરવું જુદું — જૂની ભૂલ સામેનો સંકલ્પ",
+         "objective_id": "O2",
+         "key_terms": [],
+         "content": []
+        },
+        {
+         "concept_id": "M1.S2.T2.C4",
+         "concept_name": "સવાર-સાંજની માવજત ને જાતે ઉપાડી લાવેલું પાણી",
+         "objective_id": "O2",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "",
+       "real_life_example": "",
+       "brief_summary": "",
+       "summary": "",
+       "detailed_summary": "",
+       "concept_bullets": [],
+       "important_points": [],
+       "recall_questions": [],
+       "figures_of_speech": [],
+       "rhyme_scheme": null,
+       "estimated_exchanges": "",
+       "shabdarth": [],
+       "samanarthi": [],
+       "vilom": [],
+       "vyakaran": [],
+       "media": [],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": ""
+      },
+      {
+       "topic_id": "M1.S2.T3",
+       "topic_name": "'જાત મહેનત ઝિંદાબાદ' અને ગામની ફરજ",
+       "topic_type": "CONCEPT",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [
+        "M1.S2.T2"
+       ],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O3"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O3",
+         "legacy_id": "L3",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "'જાત મહેનત ઝિંદાબાદ' અને 'પારકી આશ સદા નિરાશ' — આ બે કહેવત સંસ્કારના કામમાં કેવી રીતે ઊતરી, અને ગામનાં કોણ કોણ જોડાયાં તે કહેવું.",
+         "bloom_level": "Analyze",
+         "home_topic_id": "M1.S2.T3",
+         "anchor": [
+          "M1.S2.T3.C5"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "''ગામના બીજા લોકો પણ મદદ કરતા હશે ને?'' પુરુષોત્તમભાઈએ સહજ રીતે જ પૂછ્યું.\n\n''સંસ્કારની પાસે તો એક જ વાત હતી, 'જાત મહેનત ઝિંદાબાદ' અને 'પારકી આશ સદા નિરાશ.' શરૂઆતમાં તો એ એકલો જ મહેનત કરતો. પણ પછી તો શિવરામકાકા અને સરતાનકાકાએ ઘણી મદદ કરેલી. શાળાનાં શિક્ષિકા સુશીલાબેન પણ એને પ્રોત્સાહન આપતાં.''\n\n''તમે પણ એને મદદ કરતા જ હશો ને ?''\n\n''હાસ્તો ! બહારગામનો છોકરો આટલું બધું કામ કરે તો આપણી તો ફરજ થાય ને ?''",
+       "modified_chunk": "પુરુષોત્તમભાઈ પૂછે છે કે ગામના બીજા લોકો પણ મદદ કરતા હશે ને. સવજીભાઈ જવાબમાં કહે છે કે સંસ્કારની પાસે તો બે જ વાત હતી — 'જાત મહેનત ઝિંદાબાદ' અને 'પારકી આશ સદા નિરાશ.' શરૂઆતમાં એ એકલો જ મહેનત કરતો, પણ પછી શિવરામકાકા અને સરતાનકાકાએ ઘણી મદદ કરી અને શાળાનાં શિક્ષિકા સુશીલાબેન એને પ્રોત્સાહન આપતાં. છેલ્લે સવજીભાઈ કહે છે કે બહારગામનો છોકરો આટલું કામ કરે તો ગામલોકોની તો ફરજ થાય જ.",
+       "word_count": {
+        "original": 75
+       },
+       "key_terms": [
+        "પ્રોત્સાહન — હિંમત ને ઉત્સાહ વધે એવું ઉત્તેજન",
+        "શિક્ષિકા — ભણાવનારાં બહેન, સ્ત્રી-શિક્ષક",
+        "ફરજ — જે કરવું જ જોઈએ તે કામ, જવાબદારી",
+        "બહારગામનો — બીજા ગામનો, અહીંનો વતની નહીં તેવો",
+        "સહજ — સ્વાભાવિક રીતે, વગર વિચાર્યે",
+        "હાસ્તો — 'હા જ તો'; બોલચાલમાં ભારપૂર્વક 'હા' કહેવાની રીત છે, ભૂલ નથી"
+       ],
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T3.C5",
+         "concept_name": "એકલા હાથે શરૂ થયેલું કામ ને પછી જોડાયેલા ગામલોકો",
+         "objective_id": "O3",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "",
+       "real_life_example": "",
+       "brief_summary": "",
+       "summary": "",
+       "detailed_summary": "",
+       "concept_bullets": [],
+       "important_points": [],
+       "recall_questions": [],
+       "figures_of_speech": [],
+       "rhyme_scheme": null,
+       "estimated_exchanges": "",
+       "shabdarth": [],
+       "samanarthi": [],
+       "vilom": [],
+       "vyakaran": [],
+       "media": [],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": ""
+      },
+      {
+       "topic_id": "M1.S2.T4",
+       "topic_name": "એકસો દસમાંથી બચેલાં ઘેઘૂર વૃક્ષો",
+       "topic_type": "CONCEPT",
+       "topic_category": "transition",
+       "difficulty": "medium",
+       "depends_on": [
+        "M1.S2.T3"
+       ],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O4"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O4",
+         "legacy_id": "L4",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "પહેલા વૃક્ષારોપણમાં કેટલાં ઝાડ વાવેલાં ને કેટલાં બચ્યાં તે આંકડા શોધીને, ગામનાં જાહેર સંકુલો આજે લીલાંછમ કેમ છે તે કહેવું.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M1.S2.T4",
+         "anchor": [
+          "M1.S2.T4.C6"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "સવજીભાઈએ વાત આગળ ચલાવી. ''જુઓ, સામે પેલાં મોટાં ઝાડ દેખાય છે ને એ સૌથી પહેલા વૃક્ષારોપણનાં છે. એ વખતે પૂરાં એકસો દસ ઝાડ વાવેલાં. એમાંથી માત્ર સાડત્રીસ બચેલાં. જે આજે ઘેઘૂર વૃક્ષો થયાં છે.''\n\n''તમે ઝાડની સંખ્યાનો ચોક્કસ આંકડો બોલો છો એટલે લાગે છે કે સંસ્કાર સાથે તમે પણ કદમથી કદમ મેળવીને કામ કર્યું છે, સવજીભાઈ!''\n\n''ખરી વાત, શરૂઆત તો સંસ્કારે કરી, પછી મારા જેવા બે ચાર વડીલો નારાયણભાઈ, શ્રવણભાઈ, ભૂરાભાઈ અમે બધા જોડાઈ ગયેલા. ધીમે ધીમે તો દર વર્ષે વૃક્ષારોપણ વખતે વધુ ને વધુ લોકો જોડાતા ગયા. હવે તમે ગામમાં ફરશો ત્યારે જોશો કે ગામનાં બધાં જ જાહેર સંકુલો આજે લીલાંછમ છે.''",
+       "modified_chunk": "સવજીભાઈ સામે દેખાતાં મોટાં ઝાડ બતાવીને કહે છે કે એ સૌથી પહેલા વૃક્ષારોપણનાં છે. તે વખતે પૂરાં એકસો દસ ઝાડ વાવેલાં, તેમાંથી માત્ર સાડત્રીસ બચ્યાં, જે આજે ઘેઘૂર (ઘટાદાર) વૃક્ષો બન્યાં છે. પુરુષોત્તમભાઈ કહે છે કે સવજીભાઈ ઝાડની ચોક્કસ સંખ્યા બોલે છે એટલે લાગે છે કે એમણે પણ સંસ્કાર સાથે ખભેખભા મિલાવીને કામ કર્યું છે. સવજીભાઈ જણાવે છે કે શરૂઆત સંસ્કારે કરી, પછી નારાયણભાઈ, શ્રવણભાઈ, ભૂરાભાઈ જેવા વડીલો જોડાયા અને દર વર્ષે વધુ ને વધુ લોકો જોડાતા ગયા; આજે ગામનાં બધાં જાહેર સંકુલો લીલાંછમ છે.",
+       "word_count": {
+        "original": 103
+       },
+       "key_terms": [
+        "ઘેઘૂર — ખૂબ ઘટાદાર, પાંદડાંથી ભરચક",
+        "વૃક્ષ — ઝાડ માટેનો ચોપડીની ભાષાનો શબ્દ",
+        "જાહેર સંકુલ — ગામનાં સૌ વાપરે તેવાં મકાન-મેદાનવાળાં સ્થળ",
+        "લીલુંછમ — તદ્દન લીલું, લીલોતરીથી ભરેલું",
+        "વડીલ — ઉંમરમાં મોટા ને માનનીય માણસ",
+        "આંકડો — સંખ્યા, ગણતરીનો ચોક્કસ નંબર"
+       ],
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T4.C6",
+         "concept_name": "પહેલા વૃક્ષારોપણનો હિસાબ ને લીલાંછમ થયેલાં જાહેર સંકુલો",
+         "objective_id": "O4",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "",
+       "real_life_example": "",
+       "brief_summary": "",
+       "summary": "",
+       "detailed_summary": "",
+       "concept_bullets": [],
+       "important_points": [],
+       "recall_questions": [],
+       "figures_of_speech": [],
+       "rhyme_scheme": null,
+       "estimated_exchanges": "",
+       "shabdarth": [],
+       "samanarthi": [],
+       "vilom": [],
+       "vyakaran": [],
+       "media": [],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "M2",
+   "module_name": "લીલાંછમ સંકુલોથી શાળાના ઉપવન સુધી",
+   "difficult_words": [],
+   "overall_rhyme_scheme": null,
+   "segments": [
+    {
+     "segment_id": "M2.S3",
+     "segment_name": "નવી જાતો, કલમ ને નક્ષત્રનો બગીચો",
+     "topics": [
+      {
+       "topic_id": "M2.S3.T5",
+       "topic_name": "કલમ કરેલી બોરડી ને ડ્રેગનફ્રુટની ખેતી",
+       "topic_type": "CONCEPT",
+       "topic_category": "core",
+       "difficulty": "hard",
+       "depends_on": [
+        "M1.S2.T4"
+       ],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O5"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O5",
+         "legacy_id": "L5",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "ગામમાં કયાં નવાં ઝાડ ઊછરી શક્યાં અને સાગ, સીસમ, વાંસ જેવાં કયાં ન ઊછરી શક્યાં — બંનેનું કારણ પાઠમાંથી શોધીને કહેવું.",
+         "bloom_level": "Analyze",
+         "home_topic_id": "M2.S3.T5",
+         "anchor": [
+          "M2.S3.T5.C7",
+          "M2.S3.T5.C8"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "''હા, મેં પ્રવેશદ્વારે અને મંદિરમાં સરસ વનરાજી જોઈ. પણ એમાં અમુક ઝાડ તો એવાં જોયાં જે પહેલાં આપણા વિસ્તારમાં ક્યાંય જોવા જ નહોતાં મળતાં. એ કેવી રીતે થયાં?''  પુરુષોત્તમભાઈએ અહોભાવ સાથે પૂછ્યું.\n\n''ભાઈ, સંસ્કાર જેનું નામ એ સતત મથતો રહે. હવે તો એ આપણા ગામમાં જ સ્થિર થયો છે. આપણી જમીનમાં ક્યાં ક્યાં ઝાડ ઊછેરી શકાય, કયા ઝાડને કેવી માવજત આપવી જોઈએ, તે બધું જાણી લાવે છે અને પ્રયોગો કર્યા જ કરે છે. એની ધગશ અને અમારી સહિયારી મહેનત છે. ગામમાં સરગવા, પલાશ, સેવન, ગરમાળા વગેરેની સાથે ઘણા બધા લીમડા પણ ઊછરી શક્યા છે. અહીં દેશી બોરડીઓ તો હતી જ. તેના પર કલમ કરી દીધી છે. હવે બોરડીઓ પર કાંટા નથી આવતા. મીઠાં, મોટાં અને મબલખ બોર ઊતરે છે. બીજાં ફળાઉ વૃક્ષો થવા માંડ્યાં છે. ડ્રેગનફ્રુટ ખેતી પણ શરૂ થઈ છે. જો કે એણે મહેનત કરી પણ અહીં વરસાદ ઘણો ઓછો છે તેથી સાગ, સીસમ, સાજડ, વાંસ અને નાગકેસર જેવાં વૃક્ષો ઊછેરી શકાતાં નથી. આ વિસ્તાર માટે એ કામ લોઢાના ચણા ચાવવા જેવું છે.''",
+       "modified_chunk": "પુરુષોત્તમભાઈ કહે છે કે એમણે પ્રવેશદ્વારે અને મંદિરમાં સરસ વનરાજી (ઝાડપાનની હાર) જોઈ, પણ તેમાં અમુક ઝાડ એવાં હતાં જે પહેલાં આ વિસ્તારમાં ક્યાંય જોવા મળતાં નહોતાં; એ કેવી રીતે થયાં તે એ પૂછે છે. સવજીભાઈ સમજાવે છે કે સંસ્કાર સતત મથતો રહે છે — કઈ જમીનમાં કયું ઝાડ ઊછરે અને કયા ઝાડને કેવી માવજત (સંભાળ) જોઈએ તે જાણી લાવે છે અને પ્રયોગો કર્યા કરે છે. તેથી ગામમાં સરગવા, પલાશ, સેવન, ગરમાળા અને ઘણા લીમડા ઊછર્યા છે, દેશી બોરડીઓ પર કલમ કરવાથી હવે કાંટા વગરનાં મીઠાં ને મબલખ બોર ઊતરે છે, અને ડ્રેગનફ્રુટની ખેતી પણ શરૂ થઈ છે. પણ વરસાદ ઓછો હોવાથી સાગ, સીસમ, સાજડ, વાંસ અને નાગકેસર જેવાં વૃક્ષો અહીં ઊછેરી શકાતાં નથી.",
+       "word_count": {
+        "original": 164
+       },
+       "key_terms": [
+        "વનરાજી — ઝાડપાનની હાર, લીલોછમ ઝાડવાળો પ્રદેશ",
+        "અહોભાવ — વખાણ ને માનથી ભરેલો મનનો ભાવ",
+        "માવજત — સંભાળ રાખીને જતન કરવું",
+        "ધગશ — કામ કરવાની ધગધગતી લગની",
+        "કલમ કરવી — સારી જાતની ડાળ બીજા ઝાડ પર જોડીને એવું જ ફળ મેળવવું",
+        "મબલખ — પુષ્કળ, ખૂબ બધું"
+       ],
+       "concepts": [
+        {
+         "concept_id": "M2.S3.T5.C7",
+         "concept_name": "પ્રયોગોથી ઊછરેલી નવી જાતો — સરગવા, પલાશ, લીમડા ને કલમની બોરડી",
+         "objective_id": "O5",
+         "key_terms": [],
+         "content": []
+        },
+        {
+         "concept_id": "M2.S3.T5.C8",
+         "concept_name": "ઓછા વરસાદે જે ઝાડ ન ઊછરી શક્યાં તે",
+         "objective_id": "O5",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "",
+       "real_life_example": "",
+       "brief_summary": "",
+       "summary": "",
+       "detailed_summary": "",
+       "concept_bullets": [],
+       "important_points": [],
+       "recall_questions": [],
+       "figures_of_speech": [],
+       "rhyme_scheme": null,
+       "estimated_exchanges": "",
+       "shabdarth": [],
+       "samanarthi": [],
+       "vilom": [],
+       "vyakaran": [],
+       "media": [],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": ""
+      },
+      {
+       "topic_id": "M2.S3.T6",
+       "topic_name": "નક્ષત્ર-વનનો બગીચો",
+       "topic_type": "CONCEPT",
+       "topic_category": "core",
+       "difficulty": "hard",
+       "depends_on": [],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O6"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O6",
+         "legacy_id": "L6",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "બગીચાના બોર્ડ પરનું 'નક્ષત્ર-વન' એટલે શું, એ કોની યોજના છે અને એ બગીચો ગામનાં છોકરાંને શી રીતે કામ લાગે છે તે કહેવું.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M2.S3.T6",
+         "anchor": [
+          "M2.S3.T6.C9"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "''અરે ! સવજીભાઈ આ નક્ષત્ર-વન લખ્યું છે તે શું છે? '' એક બગીચાની બહારનું બોર્ડ જોઈને પુરુષોત્તમભાઈએ પૂછ્યું.\n\n''એ સરકારની યોજના છે. તેની માહિતી સંસ્કાર જ લાવ્યો હતો. આપણાં શાસ્ત્રોમાં દરેક રાશિ અને નક્ષત્રનાં વૃક્ષો બતાવ્યાં છે. તેની વાવણીનું માર્ગદર્શન પણ આપ્યું છે. તે મુજબ આ બગીચો બનાવ્યો છે.''\n\nપુરુષોત્તમભાઈ અહોભાવથી બોલી ઊઠ્યા ''અદ્ભુત !''\n\n''આ બગીચાનાં વૃક્ષોની છાયામાં બેસીને ગામનાં છોકરાં ખૂબ અભ્યાસ કરે છે અને પરીક્ષામાં ઝળહળતી સફળતા મેળવે છે.''",
+       "modified_chunk": "એક બગીચાની બહાર 'નક્ષત્ર-વન' લખેલું બોર્ડ જોઈને પુરુષોત્તમભાઈ પૂછે છે કે એ શું છે. સવજીભાઈ કહે છે કે એ સરકારની યોજના છે અને એની માહિતી પણ સંસ્કાર જ લાવ્યો હતો. આપણાં શાસ્ત્રોમાં દરેક રાશિ અને નક્ષત્રનાં વૃક્ષો બતાવ્યાં છે અને એની વાવણીનું માર્ગદર્શન પણ આપ્યું છે; તે મુજબ આ બગીચો બનાવવામાં આવ્યો છે. સાંભળીને પુરુષોત્તમભાઈ અહોભાવથી 'અદ્ભુત !' બોલી ઊઠે છે, અને સવજીભાઈ ઉમેરે છે કે આ બગીચાનાં વૃક્ષોની છાયામાં બેસીને ગામનાં છોકરાં ખૂબ અભ્યાસ કરે છે અને પરીક્ષામાં ઝળહળતી સફળતા મેળવે છે.",
+       "word_count": {
+        "original": 72
+       },
+       "key_terms": [
+        "નક્ષત્રવન — નક્ષત્રો પ્રમાણેનાં વૃક્ષોનું વન",
+        "રાશિ — જન્મના સમય પરથી નક્કી થતો બાર ભાગમાંનો એક ભાગ",
+        "યોજના — સરકારે નક્કી કરેલો કામનો કાર્યક્રમ",
+        "માર્ગદર્શન — રસ્તો બતાવવો, કેમ કરવું તે સમજાવવું",
+        "અદ્ભુત — નવાઈ પમાડે તેવું, ખૂબ સુંદર",
+        "ઝળહળતી — ખૂબ ચમકતી, ઉજળી"
+       ],
+       "concepts": [
+        {
+         "concept_id": "M2.S3.T6.C9",
+         "concept_name": "રાશિ-નક્ષત્રનાં વૃક્ષોની સરકારી યોજના ને એની છાયામાં ભણતાં છોકરાં",
+         "objective_id": "O6",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "",
+       "real_life_example": "",
+       "brief_summary": "",
+       "summary": "",
+       "detailed_summary": "",
+       "concept_bullets": [],
+       "important_points": [],
+       "recall_questions": [],
+       "figures_of_speech": [],
+       "rhyme_scheme": null,
+       "estimated_exchanges": "",
+       "shabdarth": [],
+       "samanarthi": [],
+       "vilom": [],
+       "vyakaran": [],
+       "media": [],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": ""
+      }
+     ]
+    },
+    {
+     "segment_id": "M2.S4",
+     "segment_name": "શાળાનું ઉપવન ને ગામ તરફ પાછાં પગલાં",
+     "topics": [
+      {
+       "topic_id": "M2.S4.T7",
+       "topic_name": "ઔષધબાગ, તુલસીવન ને કિચનગાર્ડનવાળી શાળા",
+       "topic_type": "CONCEPT",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O7"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O7",
+         "legacy_id": "L7",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "શાળાના મેદાનમાં ઔષધબાગ, તુલસીવન અને કિચનગાર્ડન કોની મહેનતથી થયાં, અને એથી શાળા કેવી લાગે છે તે પાઠમાંથી કહેવું.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M2.S4.T7",
+         "anchor": [
+          "M2.S4.T7.C10"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "''વિદ્યાર્થીઓએ તો શાળામાં પણ ઝાડ ઉછેર્યાં હશે ને ?''\n\n''હા, શાળાને સંસ્કારનું માર્ગદર્શન અને ગામલોકોનો સહયોગ છે. શિક્ષકો અને વિદ્યાર્થીઓની જબરી મહેનત છે. મેદાનમાં વૃક્ષો, ફૂલ-છોડ ઉપરાંત ઔષધબાગ, તુલસીવન અને કિચનગાર્ડનના કારણે શાળા તો ઉપવન જેવી લાગે છે.''",
+       "modified_chunk": "પુરુષોત્તમભાઈ પૂછે છે કે વિદ્યાર્થીઓએ શાળામાં પણ ઝાડ ઉછેર્યાં હશે ને. સવજીભાઈ કહે છે કે હા, શાળાને સંસ્કારનું માર્ગદર્શન અને ગામલોકોનો સહયોગ (સાથે મળીને અપાતી મદદ) મળે છે, અને શિક્ષકો તથા વિદ્યાર્થીઓની જબરી મહેનત છે. મેદાનમાં વૃક્ષો અને ફૂલ-છોડ ઉપરાંત ઔષધબાગ, તુલસીવન અને કિચનગાર્ડન છે, તેથી શાળા ઉપવન (સુંદર બગીચા) જેવી લાગે છે.",
+       "word_count": {
+        "original": 38
+       },
+       "key_terms": [
+        "સહયોગ — સાથે મળીને અપાતી મદદ",
+        "ઔષધબાગ — દવામાં કામ આવે તેવી વનસ્પતિનો બગીચો",
+        "તુલસીવન — તુલસીના છોડનું નાનું વન",
+        "કિચનગાર્ડન — ઘર કે શાળામાં જ શાકભાજી ઉગાડવાનો નાનો બગીચો",
+        "ઉપવન — સુંદર બગીચો",
+        "જબરી — ખૂબ મોટી, જોરદાર"
+       ],
+       "concepts": [
+        {
+         "concept_id": "M2.S4.T7.C10",
+         "concept_name": "શિક્ષકો ને વિદ્યાર્થીઓની મહેનતથી ઉપવન જેવી બનેલી શાળા",
+         "objective_id": "O7",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "",
+       "real_life_example": "",
+       "brief_summary": "",
+       "summary": "",
+       "detailed_summary": "",
+       "concept_bullets": [],
+       "important_points": [],
+       "recall_questions": [],
+       "figures_of_speech": [],
+       "rhyme_scheme": null,
+       "estimated_exchanges": "",
+       "shabdarth": [],
+       "samanarthi": [],
+       "vilom": [],
+       "vyakaran": [],
+       "media": [],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": ""
+      },
+      {
+       "topic_id": "M2.S4.T8",
+       "topic_name": "સ્વર્ગ જેવું ગામ ને પાછા ફરતા પરિવારો",
+       "topic_type": "CONCEPT",
+       "topic_category": "resolution",
+       "difficulty": "medium",
+       "depends_on": [
+        "M2.S4.T7"
+       ],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O8"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O8",
+         "legacy_id": "L8",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "'સંસ્કારે સર્જ્યું છે સ્વર્ગ' એ વાક્યમાં 'સ્વર્ગ' શાને કહ્યું છે, અને ગામના પરિવારો શહેરથી પાછા કેમ આવે છે તે કહેવું.",
+         "bloom_level": "Analyze",
+         "home_topic_id": "M2.S4.T8",
+         "anchor": [
+          "M2.S4.T8.C11"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "'' શી વાત છે ! હું તો કહીશ... સૌના સહયોગથી ખરેખર સંસ્કારે સર્જ્યું છે સ્વર્ગ ! આ જોઈને હવે શહેરના પ્રદૂષિત વાતાવરણમાં પાછા જવા મન માનતું નથી.''\n\n''પશાભાઈ ! આ વૃક્ષઉછેરના યજ્ઞકાર્યના પરિણામે આપણા ગામના ઘણા પરિવારો શહેરથી પાછા આવીને અહીં સ્થાયી થઈ રહ્યા છે. એમાં એકનો વધારો થશે તો અમને ખૂબ ગમશે.'' સવજીભાઈએ હસતાં-હસતાં કહ્યું.",
+       "modified_chunk": "બધું જોઈને પુરુષોત્તમભાઈ કહે છે કે સૌના સહયોગથી ખરેખર સંસ્કારે સ્વર્ગ સર્જ્યું છે, અને હવે શહેરના પ્રદૂષિત (ખરાબ થયેલા) વાતાવરણમાં પાછા જવાનું એમનું મન માનતું નથી. સવજીભાઈ હસતાં-હસતાં જવાબ આપે છે કે આ વૃક્ષઉછેરના યજ્ઞકાર્યને લીધે ગામના ઘણા પરિવારો શહેરથી પાછા આવીને અહીં સ્થાયી થઈ રહ્યા છે. એ ઉમેરે છે કે એમાં એકનો વધારો થશે તો ગામલોકોને ખૂબ ગમશે.",
+       "word_count": {
+        "original": 56
+       },
+       "key_terms": [
+        "પ્રદૂષિત — ખરાબ થયેલું, ગંદું બનેલું",
+        "વાતાવરણ — આજુબાજુની હવા અને પરિસ્થિતિ",
+        "યજ્ઞકાર્ય — યજ્ઞ જેવું પવિત્ર ને મોટું કામ",
+        "સ્થાયી થવું — કાયમ માટે વસવું, ત્યાં જ રહી પડવું",
+        "સર્જ્યું — સર્જન કર્યું, નવું બનાવ્યું",
+        "સ્વર્ગ — દેવોનું સુખભર્યું સ્થાન; અહીં ખૂબ સુંદર જગ્યા માટે વપરાયું છે"
+       ],
+       "concepts": [
+        {
+         "concept_id": "M2.S4.T8.C11",
+         "concept_name": "'સંસ્કારે સર્જ્યું છે સ્વર્ગ' ને શહેરથી પાછા આવતા પરિવારો",
+         "objective_id": "O8",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "",
+       "real_life_example": "",
+       "brief_summary": "",
+       "summary": "",
+       "detailed_summary": "",
+       "concept_bullets": [],
+       "important_points": [],
+       "recall_questions": [],
+       "figures_of_speech": [],
+       "rhyme_scheme": null,
+       "estimated_exchanges": "",
+       "shabdarth": [],
+       "samanarthi": [],
+       "vilom": [],
+       "vyakaran": [],
+       "media": [],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

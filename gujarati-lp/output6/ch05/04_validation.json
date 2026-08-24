@@ -1,0 +1,72 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati6_ch5",
+  "chapter_name": "વીજળીરાણી",
+  "grade": 6,
+  "level": "standard",
+  "pass_number": 1,
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "genre": "માહિતીપ્રદ ગદ્ય",
+      "active_genre_profiles": ["mahitiprad_gadya.md"],
+      "explanation_unit_declared": "એક માહિતી-ખંડ",
+      "explanation_unit_used": "એક માહિતી-ખંડ",
+      "verse_units_in_00": {"kadi": 0, "duha": 0, "pad": 0, "tek_occurrences": 0, "ghatna": 0},
+      "notes": [
+        "01_meta.json declares explanation_unit 'એક માહિતી-ખંડ' and 02_structure.json cuts on exactly that unit: all 12 [[માહિતી-ખંડ: …]] markers of 00_chapter_normalized.md are carried in topic source_markers, in printed order, and no topic span reaches text outside a marker.",
+        "No verse units exist in this chapter — 0 [[કડી]] / [[દુહો]] / [[પદ]] / [[ઘટના]] / [[દૃશ્ય]] markers in 00_chapter_normalized.md, matching 01_meta.json.structure_inventory. The દુહો-not-merged, પદ-not-split and changed-words-ટેક rules are therefore vacuously satisfied, not waived.",
+        "Not a mixed chapter: one profile, genre_confidence 'high'. The drop-the-frame test holds on the printed page — remove રામુ and દાદાજી and the પાવરહાઉસ → તારનાં દોરડાં → ગ્રિડના તાર → થાંભલા → ખેતરનો પંપ → તાજીમાજી → શહેરનાં કામ walk still stands. The blue પ્રવેશપેટી states a process first and a manner of telling second, and the સ્વાધ્યાય carries this profile's own diagnostic loanword hunt ('પાવરહાઉસ', blk 9) with no event-ordering block anywhere. A1's diagnosis and lens (તથ્ય + પરંપરા + જિજ્ઞાસા) match mahitiprad_gadya.md verbatim.",
+        "Avoid-1 (re-teaching the frame as a વાર્તા) holds structurally: no topic carries topic_category 'climax'; no topic_name, concept_name or objective_text names a વળાંક or turns on a character's choice; topic_type is CONCEPT throughout with one REVIEW (M2.S5.T10), and STORY_TELLING is deliberately unused.",
+        "Avoid-3 (cutting by page or paragraph) holds: the chapter prints 12 paragraphs and the plan cuts 10 topics, merging twice on a fact-step argument, and every topic_name/concept_name names the fact, stage or step it teaches rather than 'the next part'. The remaining field-level half of Avoid-3 (first sentence of each explanation) is Agent 12's to satisfy and is not yet authored.",
+        "Avoid-11 (માર્ગદર્શક લેખ order/addressee) is not applicable — this is the narrative-frame sub-form, not the how-to sub-form.",
+        "Avoid-12 (figures_of_speech) is not yet checkable: original_chunk and figures_of_speech are Agent 5 / Agent 12 fields and are empty by design at this stage."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 12,
+      "topics": 10,
+      "concepts": 11,
+      "exercise_blocks_in_inventory": 16,
+      "exercise_blocks_cut_as_topics": 0,
+      "notes": [
+        "All 12 [[માહિતી-ખંડ: …]] markers became topics in printed order; the marker list rebuilt from topic source_markers is character-identical to the marker list read from 00_chapter_normalized.md, with no gaps and no reordering.",
+        "Two topics carry two markers each, and both merges are argued from the profile's own explanation-unit clause 'Quoted dialogue does not create boundaries': M1.S2.T3 = રામુનો પ્રશ્ન + દાદાજીનો ઉત્તર (one fact-step — વીજળી વાદળમાંથી દોર વાટે નીચે ઊતરી — completed only by the pair), and M2.S5.T9 = છોકરાંનો ઉદ્ગાર + દાદાજીની ચેતવણી (the ઉદ્ગાર is a pre-topic hook belonging to the NEXT topic, and the fact-step completes on the warning). Neither merge fuses two stages of the process chain.",
+        "The pre-reading opener is a topic: M1.S1.T1 'રામુ મોડો આવ્યો ને દાદાજીએ વાર્તા માંડી', topic_category 'introduction'. This is the profile's own named case — 'The frame's opening is a real માહિતી-ખંડ when it sets up why the facts are being told — રામુ arriving at his friend's house and a grandfather starting to tell (std-6 ch 5)'.",
+        "The in-text wrap is a topic: M2.S5.T10, topic_type REVIEW, topic_category 'resolution' — દાદાજીનું સમાપન, again the profile's named case for this form.",
+        "No સ્વાધ્યાય block became a topic. All 16 verbatim_heading entries of 01_meta.json.exercise_inventory were cross-checked against all 10 topic_name values and all 10 source_span / source_markers plans: zero matches, and no [[સ્વાધ્યાય: …]] marker appears in any topic's source_markers. All 16 numbered blocks belong to Agent 10.",
+        "Printed apparatus is correctly excluded from the cut and is not a coverage gap: the blue teacher-addressed પ્રવેશપેટી (00 marks it 'વાચનદૃશ્ય નથી'), the શબ્દાર્થ box, the unnumbered રૂઢિપ્રયોગ bullet, the chapter-final green 'ક્રિયાપદ અને કાળ વિશે જાણીએ' grammar box and the ગોલુ-ભોલુ રમૂજ box. The [[લેખક-નામ]] slot holds only '- પ્ર. ચૂ. વૈદ્ય' — an attribution line, not a student-facing લેખક-પરિચય paragraph — so declining to make it a CONCEPT topic is correct for std 6.",
+        "The single [[ચિત્ર: …]] marker is printed page matter, not a reading scene, and correctly opens no topic ('Printed photographs … are page matter, not reading scenes').",
+        "No topic covers text that no marker claims: every source_span is quoted from inside a [[માહિતી-ખંડ]] paragraph on printed pages 28–29, and no span reaches into the શબ્દાર્થ, રૂઢિપ્રયોગ, સ્વાધ્યાય, વ્યાકરણ or રમૂજ matter."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 10,
+      "notes": [
+        "Root objectives[] exists with O1–O10, all objective_id values unique; every legacy_id L1–L10 appears in strand_to_objective_map exactly once and every target resolves to a registered objective_id.",
+        "Every home_topic_id resolves to a topic in this tree (M1.S1.T1 … M2.S5.T10) and all 11 anchor ids resolve to concepts in this tree; zero unresolved references. Every topic carries objective_ids, every one resolves to the registry, and every registered objective is pointed at by exactly one topic. Each concept's objective_id also resolves.",
+        "Objectives are text-grounded and chapter-specific — each names something printed only in this chapter (રામુ, પતંગનો દોર, ભેંસ, વીજળીરાણીની ખાસ ટેવ, પાવરહાઉસ ને ઊંચા થાંભલા, અરજણભાઈનું ખેતર, અમદાવાદ, 'જબરી રાણી', દાદાજીનું સમાપન). None could be pasted into another chapter. All ten sit in the 12–30 Gujarati-word band (measured 16–20).",
+        "The objectives serve the teaching_lens તથ્ય + પરંપરા + જિજ્ઞાસા: eight ask the child to find or explain a printed fact or stage of the process, and the two Analyze objectives (O3 ભેંસ/દોર ભેદ, O10 દાદાજીની સરખામણી) stay inside what the text itself states. No objective names an અલંકાર, છંદ or literary form — correct for std 6 and for a chapter whose craft (સજીવારોપણ) is taught by noticing, not by labelling.",
+        "Ids match reference/naming_conventions.md: modules M1–M2, segments S1–S5 and topics T1–T10 dotted and continuous with no restarts; concepts C1–C11 chapter-continuous (M2.S4.T7 legitimately carries C7 and C8 under the profile's 'two concepts in one topic, never a third' clause, which offsets every later concept number by one — that is the contract's rule, not a gap). bloom_level is capitalised as the phase-2 contract requires for objectives. No M1.S1.T1.P1-style objective code appears anywhere in the file. No digit appears in any module_name, segment_name, topic_name or concept_name.",
+        "depends_on values all resolve to topics in this tree; M1.S1.T1 and M1.S2.T2 correctly carry []."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "MEASURED CONFLICT INSIDE THE PROFILE, RESOLVED IN FAVOUR OF THE CHAPTER-SPECIFIC CLAUSE — recorded loudly for Agent 13. mahitiprad_gadya.md Avoid-2 states two tests under one hard heading: (a) an arithmetic proxy — 'in a dialogue-carried chapter, the number of topics is strictly less than the number of quoted speaker turns'; and (b) the substantive rule — 'no topic boundary falls at a change of speaker unless a fact-step also completes there'. In this chapter the quoted speaker turns number 7 and the topics number 10, so test (a) is inverted. Test (b) was checked boundary by boundary and holds at all nine boundaries. A2 surfaced this itself rather than hiding it, and this validator does not treat (a) as a block. Reason: the same profile's Explanation-unit section names THIS chapter and requires the opposite arithmetic — 'Where the prose walks a sequence, each stage is a topic … std-6 ch 5 moves પાવરહાઉસ → ગ્રિડ → ફીડર → ઘર', 'a turn that carries two stages is split at the stage, not at the quote mark', plus a frame-opening introduction topic and a frame-closing resolution topic, both named for std-6 ch 5. દાદાજીનો એક જ અવતરિત વળાંક six printed paragraphs and six fact-steps ચલાવે છે; splitting it at the stages is exactly what the profile orders, and it is the only reason topics exceed turns. Enforcing (a) here would force fewer than seven topics, i.e. would force fact-steps to be merged — the very error the Explanation-unit clause forbids. The chapter-specific clause governs the general proxy.",
+    "Boundary-by-boundary evidence for Avoid-2 test (b). Speaker actually changes at three boundaries only, and a fact-step completes at each: T1/T2 (narrator + દાદાજીની પ્રસ્તાવના → દાદાજીનું પતંગ-દૃષ્ટાંત; the fact-step 'why the telling happens' completes), T2/T3 (દાદાજી → રામુ; the ઝાટકો દૃષ્ટાંત completes), T8/T9 (દાદાજી → છોકરાં; the શહેરનાં કામની યાદી completes). The boundaries T3/T4, T4/T5, T5/T6, T6/T7 and T7/T8 all fall INSIDE one unbroken quoted turn and are cut at fact-stages, never at a quote mark. At T9/T10 the speaker does not change at all — both are દાદાજી. No boundary anywhere in the plan falls at a speaker change without a fact-step completing there.",
+    "Second measured deviation from a profile prior, and the printed page wins — carried forward from A2 and confirmed here against 00_chapter_normalized.md: the profile's Explanation-unit line records std-6 ch 5's chain as 'પાવરહાઉસ → ગ્રિડ → ફીડર → ઘર', but the word 'ફીડર' does not occur anywhere in this chapter's reading text. It occurs only inside સ્વાધ્યાય block 16's translation sentence ('ફીડરમાંથી વીજળી આપણા ઘરે આવે છે.'). A2's topic chain follows the printed stages instead. Agent 12 must not use 'ફીડર' in any teaching field (Avoid-4); Agent 10 transcribes it as printed inside the અનુવાદ block.",
+    "Non-blocking, for Agent 12: O1 asks why દાદાજી started a story instead of scolding. That is grounded in the printed line 'કોઈ એને વઢશો નહિ … વાર્તા કહું.' and is legitimate under the profile's 'Why the telling happens is itself information'. It sits close to Avoid-1's ban on asking why a character chose to act as they did, so the M1.S1.T1 explanation, summary and recall answers must frame it as why the telling happens, never as a character's decision or a turn in a plot.",
+    "Non-blocking, id contract: topics carry objective_ids but not yet the mirrored inline learning_objectives[] copy the phase-2 contract requires (same object plus image_examples: []). That mirror is Agent 12/14 work and is correctly absent from a structure-only file; flagged so it is not lost. When it is written, the two objective_text strings must stay identical character for character.",
+    "Non-blocking, uneven topic length: M1.S1.T1 and M1.S2.T2 are long printed paragraphs while M1.S2.T3 and M1.S2.T4 are short. This is the printed structure — the frame and the illustration are built first, then the process steps run short. Agent 12 must not pad a short topic's explanation with anything from outside the chapter (Avoid-4).",
+    "Non-blocking, transcription artefacts A2 recorded and Agent 5 must preserve: the closing double quotation mark is not printed at the end of રામુ's question paragraph, nor at the end of દાદાજી's final paragraph. Both are kept as printed.",
+    "Verification scope: this validator worked entirely from 00_chapter_normalized.md, 01_meta.json and 02_structure.json. No page render was opened — no layout or figure question arose that the transcription could not answer.",
+    "Context-routing note: the run context supplied no_hallucination_policy.md and global_content_rules.md, but this agent's spec also cites reference/loop_protocol.md, reference/explanation_unit_map.md, reference/phase2_contract.md and reference/naming_conventions.md. All four exist in reference/ and were read in full from disk rather than guessed at; nothing in this verdict rests on assumed contents.",
+    "Ids are frozen from this verdict. 04_converged.json is a convergence record naming 02_structure.json and its sha256, not a copy of the structure payload — downstream agents read 02_structure.json for structure and 04_converged.json only to confirm convergence."
+  ]
+}

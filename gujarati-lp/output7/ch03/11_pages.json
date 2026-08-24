@@ -1,0 +1,8 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 7",
+  "textbook_url": "../Textbooks-pdf/std-7/ch-03-chakravyuh-tutyo-pan.pdf",
+  "textbook_pages": "11–18",
+  "source": "printed folio read off renders of pdf pp. 1 and 8 of the chapter PDF (page-1.png shows folio 11 under the title/QR block, page-8.png shows folio 18 under the grammar box); cross-checked against std-7 manifest.json row for ch 3 (printed_start 11, pdf_start 24, pdf_end 31, 8 pages) and profiles/boards/gseb_gujarati.md's per-chapter table (row 3: printed pp 11–18) — all three agree",
+  "confidence": "high",
+  "gaps": ["textbook_url is a local path — the GSEB readers have no hosted URL"]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "Explanation unit used is 01_meta.json's 'સંવાદનું એક પગલું — વાંધો, સ્વીકાર, પુરાવો કે સવાલ (વારો વચ્ચેથી કપાય નહીં)', i.e. samvad_nibandh.md's argument-move. 02_structure.json carries that string verbatim in explanation_unit. The cut obeys it: no boundary falls inside a speaker turn — every topic's source_span first_turn/last_turn was re-derived from 00_chapter_normalized.md and matches character for character.",
+        "G6 (samvad_nibandh.md's wrong-route gate, 'checked at Agent 4') does NOT fire, and this was verified against the routing authority rather than accepted on A1's word. profiles/genres/_genre_index.md prints an explicit exception inside the drama branch that names this chapter by name: 'std-6 ch 14 એક છોકરો રિસાણો, which carries speaker labels and not one bracketed direction — samvad_nibandh.md is dominant and natak_ekanki.md loads alongside it for the explanation unit and for the directions-are-text gate. The book's own label decides; a performance task never does.' natak_ekanki.md's own near-miss table carries the mirror row for the same chapter and routes it to samvad_nibandh.md. A1's waiver is therefore textually grounded; the label-position speaker tags are not a reroute here.",
+        "Structure inventory records kadi 0, duha 0, pad 0, tek_occurrences 0 and stage_directions 0 — confirmed by marker scan of 00_chapter_normalized.md, which contains no [[કડી]], [[દુહો]], [[પદ]] or [[ટેક]] marker. The દુહો-merge, પદ-split and changed-words-ટેક sub-checks are vacuously satisfied, not waived.",
+        "The chapter is not 'mixed': one dominant સ્વરૂપ, one unit, one chain. active_genre_profiles lists natak_ekanki.md as the co-loaded profile exactly as the printed exception directs.",
+        "natak_ekanki.md's three (A4) structural gates were run because that profile is co-loaded. Header gate: vacuous and correctly so — this chapter prints no પાત્રો block, no સ્થળ/સમય line and no opening direction, so there is no header topic to require. Governed-pair gate: all four topic boundaries were checked; none separates a question from its answer and none begins or ends on a parenthesised direction (there are none in the chapter). Topic-inflation gate: keyed off printed stage changes, which are zero here, so it is inapplicable as written — and natak_ekanki.md is not the dominant route.",
+        "G7 (argument, not payload): every topic_name names a move or a position — ખબર/માગણી/કારણો/દરખાસ્ત/નિર્ણય — not a fact-bundle label. No reroute to mahitiprad_gadya.md is indicated.",
+        "std-6 craft-label ceiling holds: no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text, and no objective asks the child to name the form."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 5,
+      "topics": 5,
+      "notes": [
+        "Marker count against topics carrying them: 00_chapter_normalized.md prints exactly five [[સંવાદ: …]] reading-scene markers and 02_structure.json carries exactly five topics, one per marker, in printed order. No marker swallowed, no topic where no marker sits.",
+        "Turn-level coverage was recomputed independently from the transcription rather than trusted from source_span: 12 + 17 + 21 + 23 + 10 = 83 dialogue turns, which equals 01_meta.json's structure_inventory.dialogue_turns of 83. Every one of the five spans' recorded marker, first_turn, last_turn and turn_count matched the recomputation exactly. Zero speaker turns fall outside a marker stretch and zero fall inside two.",
+        "No સ્વાધ્યાય block became a topic. All fifteen exercise_inventory verbatim_headings were cross-checked programmatically against every topic_name and against every source_span (marker, pages, first_turn, last_turn): no collision, and no span reaches past the last reading turn on p. 96. The five-line nursery rhyme 'એક છોકરું  રિસાણું…' is printed inside the ઘટનાવર્ણન exercise block and no span claims it.",
+        "The શબ્દાર્થ box (p. 97) and the p. 100 ચિત્રવર્ણન illustration are outside every span — verified: zero speaker-label turns exist at or after the [[શબ્દાર્થ]] marker.",
+        "PRE-READING OPENER — the [[પ્રવેશપેટી]] blue box is correctly NOT a topic, and this is the one place where the checklist line 'the pre-reading opener is a topic' had to be adjudicated against a more specific rule. The box is teacher-addressed on its own face ('આ એકમના સ્વાધ્યાયમાં આપેલ અગાઉ શીખેલા ભાષાકીય મુદ્દાઓનો મહાવરો કરાવવો.'), and reference/explanation_unit_map.md §4 and agents/02_structure.md both name the blue intro box explicitly as apparatus that 'fails the same way' as a સ્વાધ્યાય block if cut as a topic. The 'pre-reading opener is a topic' line covers matter printed FOR THE STUDENT (std 10's unlabelled કવિ/લેખક-પરિચય paragraph). This chapter prints no such student-facing opener, so cutting the box would have been the blocking fail, not omitting it. A2's decision is upheld.",
+        "No in-text wrap is printed — the chapter ends on મહેશભાઈ's closing line and goes straight to the શબ્દાર્થ box. No REVIEW topic exists and none was invented. Correct.",
+        "Topic order follows printed reading order: p. 92 → 92–93 → 94 → 95–96 → 96."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 5,
+      "notes": [
+        "Root objectives[] holds O1–O5, all objective_id values unique. Every home_topic_id (M1.S1.T1, M1.S1.T2, M1.S2.T3, M2.S3.T4, M2.S4.T5) resolves to a node in this tree, and all eight anchor ids (C1–C8) resolve to concepts that exist.",
+        "strand_to_objective_map covers every legacy_id exactly once: L1→O1 … L5→O5, keys equal to the legacy_id set with no extras and no omissions. Single strand L / ભાષા અને સાહિત્ય throughout, as the pack requires.",
+        "Every topic carries objective_ids and every id resolves to the registry; every concept's objective_id resolves too. One sound objective anchor per reading scene, 5 for 5.",
+        "Id grammar checked mechanically: modules M1–M2, segments M1.S1, M1.S2, M2.S3, M2.S4 (counter continuous across the chapter, no restart), topics T1–T5 continuous, concepts C1–C8 chapter-continuous with no per-topic restart. No M1.S1.T1.P1-style objective code anywhere in the file, and no .SR{n} recall id.",
+        "No digit appears in any module_name, segment_name, topic_name or objective_text — global_content_rules.md rule 4 holds.",
+        "Text-grounding: each objective names printed particulars of THIS chapter (ઝલક, મનન, આજવા-નિમેટા, કરસનકાકાની વાડી, ગામડાનું આકાશ) and could not be pasted into another chapter. Each serves the teaching_lens તર્ક + દૃષ્ટિકોણ + જવાબદારી — O1 the reasons behind a request, O2 the ask, O3 comparing both sides' reasons, O4 the concession-then-counter-proposal, O5 weighing the decision the child reaches himself. Bloom spread Understand ×3, Analyze, Evaluate; objective_text word counts 23/24/20/21/21, all inside the contract's 12–30.",
+        "The samvad_nibandh recall prior (child must be able to state BOTH positions before being asked to pick) is preserved by O3, which is anchored across C4 and C5 — મમ્મી's મનામણાં and the reasons દીદી and મમ્મી give. Agent 12 inherits a cut that can satisfy it."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "NON-BLOCKING — genre value differs between the two upstream files: 01_meta.json writes \"genre\": \"સંવાદ\" (a Gujarati label) while 02_structure.json writes \"genre\": \"samvad_nibandh\" (the profile slug). reference/phase2_contract.md requires the slug in root genre, so 02_structure.json is the one to carry forward. Agents 14/15 must emit the slug, not the Gujarati word.",
+    "NON-BLOCKING — the profile prior in natak_ekanki.md's near-miss row reads this chapter as three beats (મનન રિસાય છે → the father's counter-plan → મનન decides). The cut is five, which is FINER, not coarser, and it is the correct answer here: the five topics sit 1:1 on the five printed [[સંવાદ: …]] markers, and cutting to three would swallow two markers — a blocking fail from the other direction. A2 flagged the disagreement in structure_notes; recorded, not escalated.",
+    "NON-BLOCKING — topic length is uneven: T4 holds 23 turns and T3 21, against T5's 10. A2 holds T3 as one topic because nothing inside it changes what anyone wants (મમ્મી try one મનામણું after another, મનન refuses each) and routes its two internal steps to concepts C4/C5, which is exactly what samvad_nibandh.md prescribes for a long single-move run. Sound, but Agent 12 should watch that T3's and T4's explanation prose stays inside the three-tier summary discipline at that length.",
+    "NON-BLOCKING — every topic carries topic_type STORY_TELLING. For a chapter routed to samvad_nibandh.md an argument-move is not literally a narrative ઘટના, but the authored enum offers no closer value (CONCEPT is for pre-reading and પરિચય matter, REVIEW for a wrap) and all three map to `instructional` at emit, so nothing downstream is affected. Recorded for Agent 13 only.",
+    "NON-BLOCKING — for Agent 9: only two reading-scene illustrations are printed, inside T2 (p. 93) and T4 (p. 95). T1, T3 and T5 have no printed image, so those three scenes need authored generation_prompts. The p. 100 beach illustration belongs to the final unnumbered ચિત્રવર્ણન exercise and is not a reading scene.",
+    "NON-BLOCKING — original_chunk is empty on all five topics, which is correct at this stage; Agent 5 fills it from source_span. The spans were verified accurate to the character against 00_chapter_normalized.md, so Agent 5 need not re-derive boundaries.",
+    "NON-BLOCKING — 01_meta.json's exercise_inventory (15 blocks) corrects reference/corpus/std-6_inventory.md's prior of 11. The correction is A1's, read off the page, and the coverage check used the corrected inventory. Recorded so Agent 10 does not re-inherit the stale prior.",
+    "METHOD — no page render was opened. 00_chapter_normalized.md answered every question this validation needed, including marker positions, turn counts, illustration placement and folio boundaries. Verification was done by recomputing marker stretches and turn counts from the transcription and by reading the two routing documents (profiles/genres/_genre_index.md, profiles/genres/natak_ekanki.md) directly rather than accepting A1's summary of them.",
+    "CONTEXT ROUTING — the run context supplied only no_hallucination_policy.md and global_content_rules.md, but the spec also requires reference/loop_protocol.md, reference/explanation_unit_map.md and reference/phase2_contract.md, plus the active genre profiles. Rather than guess at their contents, all of them were read from disk at their canonical paths (they exist), together with reference/naming_conventions.md and agents/02_structure.md for the id contract and the pre-reading adjudication. Nothing in this verdict rests on an unread document.",
+    "This is the single validation pass. No loop, no second round."
+  ]
+}

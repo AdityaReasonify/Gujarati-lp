@@ -1,0 +1,13 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "58b24b4f5668ce00fb0c7e8c55d8c7055e6135f1af20bd5d4bab40e7b693f0e0",
+  "verdict": "pass",
+  "notes": [
+    "This is a convergence record, not a copy of the structure. Read 02_structure.json for the tree, the objectives registry and every id; read this file only to confirm that ids are frozen.",
+    "Frozen at Agent 4 pass 1, no re-run needed: 2 modules, 5 segments, 10 topics, 11 concepts, 10 objectives (O1–O10, strand L).",
+    "All 12 [[માહિતી-ખંડ: …]] markers of 00_chapter_normalized.md are covered in printed order; 0 of the 16 સ્વાધ્યાય blocks were cut as topics.",
+    "One profile-internal conflict was resolved rather than blocked: mahitiprad_gadya.md Avoid-2's arithmetic proxy (topics < quoted speaker turns) is inverted here — 10 topics against 7 turns — because one quoted turn from દાદાજી carries six fact-steps and the same profile's Explanation-unit clause requires each stage to be its own topic. The substantive half of Avoid-2 holds at all nine boundaries. Full reasoning in 04_validation.json.",
+    "Open items travelling to Agent 13: the word 'ફીડર' is absent from this chapter's reading text and must not enter any teaching field; O1 must be taught as why the telling happens, not as a character's choice; the inline learning_objectives[] mirror is still to be written by Agent 12/14."
+  ]
+}

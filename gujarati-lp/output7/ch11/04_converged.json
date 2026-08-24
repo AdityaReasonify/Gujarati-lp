@@ -1,0 +1,11 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "f7d7ccc9b96e54fae260c436cc94d4cb3639eb1f172d71783c6a1b918c237c8f",
+  "verdict": "pass",
+  "notes": [
+    "Convergence record only — the structure payload is NOT duplicated here. Downstream agents read 02_structure.json for structure and this file only to confirm convergence.",
+    "Ids are frozen from this point: M1–M3, S1–S6, T1–T10, C1–C12, O1–O10, L1–L10. Only Agent 14 renumbers, and it must translate every surviving reference (objective anchors, home_topic_id, objective_ids, depends_on, media ids, recall ids).",
+    "Verdict from 04_validation.json: all three blocking checks pass; the notes there travel to Agent 13 and none of them blocks."
+  ]
+}

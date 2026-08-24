@@ -1,0 +1,20 @@
+{
+  "chapter_id": "gseb_eng_gujarati7_ch3",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S1.T2",
+    "M1.S1.T3",
+    "M1.S2.T4",
+    "M1.S2.T5",
+    "M2.S3.T6",
+    "M2.S4.T7",
+    "M2.S4.T8",
+    "M3.S5.T9",
+    "M3.S5.T10",
+    "M3.S6.T11",
+    "M3.S6.T12",
+    "M3.S6.T13"
+  ],
+  "source": "printed pages 11–14 read off the render (_renders/page-1.png … page-4.png); the teaching text runs continuously from the first paragraph under the title bar on p. 11 to યુધિષ્ઠિર's closing sentence on p. 14, after which the શબ્દાર્થ box, the રૂઢિપ્રયોગ box, the sixteen સ્વાધ્યાય blocks (pp. 14–18) and the chapter-final વ્યાકરણપેટી (p. 18) follow — none of which is a topic.",
+  "note": "The printed order is identical to the logical order of 04_converged.json: the chapter is a single ગદ્ય narration read front to back, with no boxed aside, no પૂરકવાચન piece and no વ્યાકરણ એકમ interrupting the teaching text. The one place where print and teaching order could have diverged is the pre-topic hook — the line ‘એકવાર અભિમન્યુએ શ્રીકૃષ્ણમામાને પૂછ્યું - ‘‘મામા ! ચક્રવ્યૂહ એટલે શું ?’’’ is printed at the foot of p. 11 inside the third marker's block but belongs to M1.S2.T4, which begins on p. 12. Even so the topic sequence does not move, because that line opens T4 and T4 already follows T3. The comparison was actually made, marker by marker, against the renders; it was not assumed."
+}

@@ -1,0 +1,39 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S2.T2",
+      "areas": ["સુરક્ષા"],
+      "caution": "The explanation or real_life_example could make flying a kite ('પતંગ ચગાવવો') in ઝરમર વરસાદ with lightning ('વીજળી ઝબૂકી') sound like an exciting thing to try, when the ઝાટકો and fall are exactly what a child should not repeat.",
+      "guidance": "Keep the explanation on what physically happened — a wet string carried the shock down from the sky — and let real_life_example anchor on ordinary, safe ઉત્તરાયણ kite-flying (a clear-sky day, ફિરકી, દોર) rather than on flying a kite once it starts raining or thundering.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "areas": ["સુરક્ષા"],
+      "caution": "The ભેંસ મરી ગઈ line is a real fact stated by the text; dwelling on it or dramatising the animal's death would turn a causal explanation of lightning's force into a scare scene.",
+      "guidance": "State it exactly as the text does — one plain sentence on why a lightning strike is powerful enough to kill — and move straight to explaining that this is what makes electricity's ઝાટકો dangerous, matching the passage's own tone.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "areas": ["સુરક્ષા"],
+      "caution": "The passage's warning ('આડા આવો... ધક્કો મારે... મારી પણ નાખે') can read as the વીજળીરાણી personification acting like an angry person, letting the explanation slide into folklore instead of the real physical fact that a live wire in your path can shock or kill.",
+      "guidance": "Keep રાણી as the text's own literary device while making the underlying fact plain in the child's words — standing in the path of a live wire is genuinely dangerous — without adding a separate warning sentence that is not in the passage.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S5.T9",
+      "areas": ["સુરક્ષા"],
+      "caution": "This is the chapter's culminating safety line ('તારને અડકીને... રોકવા માગો'); an explanation or real_life_example that stages 'what if you touched a wire' as a dare, or that turns it into a bolted-on disclaimer rather than the text's own point, both fail the passage.",
+      "guidance": "Build the explanation directly from દાદાજીની વાત — touching an electric wire is not something to try, ever — and keep any real_life_example on things the child safely does with electricity at home (a સ્વિચ, a પ્લગ) rather than on wires, tારs or થાંભલા.",
+      "severity": "hard"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "સુરક્ષા",
+      "guidance": "This chapter's single thread of caution is: do not touch an electric wire, and do not fly a kite once rain or lightning starts. Every image prompt and real_life_example across the chapter should stay on the safe side of that line — a kite on a clear day, a switch or plug at home — never a child reaching toward a wire or line, even to illustrate the danger."
+    }
+  ],
+  "none_found": false
+}

@@ -1,0 +1,14 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "b1b197cc02871d0edaea4f038ea55b1b9100ab51f1423477b9467ad485fd832b",
+  "verdict": "pass",
+  "notes": [
+    "Convergence record only — the structure payload is NOT duplicated here. Downstream agents read 02_structure.json for structure and this file only to confirm convergence.",
+    "Ids frozen at this sha256: modules M1–M3, segments M1.S1, M1.S2, M2.S3, M2.S4, M3.S5, topics T1–T7, concepts C1–C10 (chapter-continuous), objectives O1–O7 with strand_to_objective_map L1→O1 … L7→O7.",
+    "Only Agent 14 may renumber, and it must translate every home_topic_id, anchor[], objective_ids, depends_on and source_topic_ids reference when it does. O{n} and strand_to_objective_map are never renumbered.",
+    "Three topics carry two concepts each (M1.S1.T2, M2.S3.T5, M3.S5.T7), so the concept number does not equal the topic number from C4 onward. That is correct under reference/phase2_contract.md's chapter-continuous rule.",
+    "original_chunk is empty on all seven topics by design (agents/02_structure.md); Agent 5 fills each from 00_chapter_normalized.md using the topic's source_lines_00_normalized range.",
+    "Full check-by-check verdict and the non-blocking notes for Agents 5, 10, 12, 13 and 14 are in 04_validation.json."
+  ]
+}

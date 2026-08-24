@@ -1,0 +1,39 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T2",
+      "areas": ["વિકલાંગતા"],
+      "caution": "The line 'એ ચિત્રકારોના હાથ નકામા થયા છે' (glossed in key_terms as 'કામ ન આપે એવા') can tip the explanation or real_life_example into pity or into treating the painters' hands as the whole story, before the child even meets them.",
+      "guidance": "Keep the explanation on the surprise the letter itself builds toward — 'ચિત્ર મોઢેથી દોરે છે. છે ને ગજબની વાત!' — as an admiring 'નવાઈ', and let 'નકામા' stay as the letter's own word rather than becoming the teaching frame; the real_life_example should point toward skill and curiosity, not toward what the painters cannot do.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "areas": ["વિકલાંગતા"],
+      "caution": "મૃદુલ ઘોષ is a real named living person; the explanation or real_life_example could turn his accident and paralysis into a 'છતાં પણ' inspiration line, or add medical detail (extent of the injury, treatment specifics) beyond what the chapter states.",
+      "guidance": "Center the teaching on what the text centers: 'મૃદુલભાઈ હાર્યા નહીં', his 'સંકલ્પ' to revive his childhood love of painting through the mouth/foot-painters' સંસ્થા, and that he became 'કાબેલ' — the person and his skill first, not the accident; keep 'કરોડરજ્જુને ઈજા' and 'વ્હીલચેર' exactly as printed in original_chunk, and do not invent his age, the accident's cause, or any fact the chapter does not state.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "areas": ["વિકલાંગતા"],
+      "caution": "મનોજ ભિંગારે is a real named living Gujarati person who lost both hands; the explanation or a recall answer could dwell on the loss ('શિકાર', 'ગુમાવ્યા') rather than on what the text actually celebrates.",
+      "guidance": "Keep the teaching on the achievement the letter names — 'મોઢેથી ચિત્ર દોરવાનું શરૂ કર્યું', the C.N. ફાઈન આર્ટસ્ કૉલેજ ડિપ્લોમા, and that he now teaches સૈનિકોને ચિત્રો દોરતાં — the person and his craft first; do not add circumstances of the accident or his current age beyond what the chapter prints.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "areas": ["વિકલાંગતા"],
+      "caution": "The line 'એ દાન લેતા નથી, પણ... વેચે છે' is the letter's own point of pride; a real_life_example or explanation that frames the મંડળ's work as charity ('મદદ' meant as donation) misses that distinction and turns dignity into pity.",
+      "guidance": "Keep 'દાન નહિ, વેચાણ' as the point — the painters sell their own cards, calendars, bags and paintings rather than accept donations — and let the real_life_example (a gift bought and sent) reflect that same self-respect, not charity.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "વિકલાંગતા",
+      "guidance": "Across the whole letter, and in the closing empathy activity 'પગમાં કે મોંમાં પેન્સિલ પકડી તમારું મનપસંદ ચિત્ર દોરવાનો પ્રયત્ન કરો', keep the register the chapter itself uses: admiration for a real skill built through effort, never pity for a real named person's condition; let the child try the activity as a moment of empathy and appreciation for how much control and practice mouth/foot painting takes, not as a game or a challenge to be 'good' or 'bad' at."
+    }
+  ],
+  "none_found": false
+}

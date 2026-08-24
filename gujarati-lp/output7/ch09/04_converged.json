@@ -1,0 +1,14 @@
+{
+ "converged": true,
+ "source": "02_structure.json",
+ "sha256": "f58a84a68b276ab337874c62e375fc124691b8718ec9d12488496e5604b9407f",
+ "verdict": "pass",
+ "notes": [
+  "Convergence record, not a copy of the structure. Downstream agents read 02_structure.json for the structure itself and this file only to confirm that ids are frozen.",
+  "Ids are frozen from this point: M1–M2, S1–S5, T1–T8, concepts C1–C8 chapter-continuous with the concept number equal to its topic number, and objectives O1–O8 with strand_to_objective_map L1–L8. Only Agent 14 renumbers, and O{n} and strand_to_objective_map are never renumbered.",
+  "Verified against sha256 f58a84a68b276ab337874c62e375fc124691b8718ec9d12488496e5604b9407f — recompute it before trusting this record if 02_structure.json may have been touched.",
+  "Full verdict, per-check evidence and the non-blocking notes live in 04_validation.json.",
+  "Carried forward for Agent 5: original_chunk is empty on all eight topics; the ટેક must be transcribed exactly as printed at EACH of its two occurrences and never normalised to one form; and the printed punctuation oddities on pp. 57–58 are printed content, not slips.",
+  "Carried forward for Agents 14/15: topic_type holds the authored enum (CONCEPT, POEM) and must be mapped to 'instructional' at emit."
+ ]
+}

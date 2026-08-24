@@ -1,0 +1,71 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati6_ch11",
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "explanation_unit_in_meta": "એક ઘટના (varta.md)",
+      "notes": [
+        "01_meta.json names the explanation unit 'એક ઘટના' under profile varta.md; 02_structure.json carries genre slug 'varta' and cuts by ઘટના. The unit used is the unit declared.",
+        "કડી / દુહો / પદ sub-checks are vacuous, not skipped: 00_chapter_normalized.md carries zero [[કડી]], [[દુહો]] and [[પદ]] markers (grep-counted), and 01_meta.json's structure_inventory records kadi=0, duha=0, pad=0, tek_occurrences=0.",
+        "Verified on the rendered page (150 dpi, pg-05.png = printed p. 72): the family-made poem is set as eleven verse lines with coloured speaker labels (ઓમ : / પપ્પા : / હીરવા:), with NO printed કડી division, no ટેક, no ellipsis refrain-shorthand and no કર્તા box. So the કડી-equality rule cannot apply and the whole poem being one topic is right.",
+        "varta.md names this exact chapter in its Explanation-unit section: 'A complete composition printed at the end with its own speaker labels (std-6 ch 11's family-made poem) is its own topic — its ઘટના is the family composing it, and it is not re-cut કડી-wise.' M2.S4.T6 does precisely that. urmikavya_geet.md is loaded as a second profile but its 'one કડી = one topic' rule does not fire, because no કડી boundary is printed.",
+        "genre stays the singular slug 'varta' rather than 'mixed'. The render confirms A1's reason: narrative prose runs both before the poem (p. 72, 'ઓમે કહ્યું કે, ‘‘મને કવિતા સૂઝે છે.’’') and after it ('બધાં ખડખડાટ હસી પડ્યાં.'), so the verse is the last ઘટના inside the story, not an appended box.",
+        "varta.md avoid gates, checked against what exists at this stage (the cut, the names, the objectives): gate 2 — no objective, topic, segment or module name closes on a બોધ or an 'આપણે પણ … જોઈએ' line; gate 3 — nothing applies an evaluative label to ઓમ, whom the text treats with sympathy; gate 4 — no topic before the climax topic (M2.S3.T4) names the tea scene's outcome. Gates 1 and 5 bear on explanation prose that does not exist yet and pass to Agents 7 and 13.",
+        "Nothing in the cut or the objectives is drawn from the teacher-addressed blue પ્રવેશપેટી; 02_structure.json's not_cut_as_topics says so explicitly and the objective texts bear it out."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 6,
+      "topics": 6,
+      "notes": [
+        "Six [[ઘટના]] markers in 00_chapter_normalized.md (lines 12, 31, 42, 67, 124, 131) → six topics, in printed order. No marker swallowed; no topic without a marker.",
+        "A seventh reading marker, [[કવિતા: ઓમ–પપ્પા–હીરવાએ સાથે મળીને રચેલી]] (line 132), sits immediately under the sixth [[ઘટના]] marker (line 131, which has no text of its own) and carries that scene's whole text. Both are held by M2.S4.T6. One scene, not a dropped one.",
+        "Line coverage checked programmatically: the six topics' source_lines_00_normalized cover lines 13-29, 32-34, 36-40, 43-65, 68-122, 125-130, 133-149 with zero overlaps, and every non-blank, non-marker line between 13 and 149 is covered exactly once.",
+        "No topic covers text that no marker claims: the highest covered line is 149, and the exercise apparatus begins at line 155. Confirmed on the render — pg-05.png (p. 72) ends the reading text on હીરવા's closing line, and pg-06.png (p. 73) opens with the શબ્દાર્થ box followed by the numbered સ્વાધ્યાય.",
+        "No સ્વાધ્યાય block became a topic. All eighteen verbatim_heading values and all eighteen group labels in 01_meta.json's exercise_inventory were cross-checked against every module_name, segment_name, topic_name and concept_name: zero collisions.",
+        "The eighteenth block ('વર્ગમાં ત્રણ-ત્રણની જોડી બનાવી આ એકમમાં છેલ્લે જે કવિતાની રચના કરી છે, તે લયબદ્ધ રીતે રજૂ કરો.') asks the class to perform this chapter's own poem. It is still સ્વાધ્યાય and stayed out of the tree; M2.S4.T6 prepares it without replacing it.",
+        "Correctly excluded and each accounted for in not_cut_as_topics: the title band and its QR badge, the teacher-addressed blue પ્રવેશપેટી, the શબ્દાર્થ box, the ચર્ચા-વિચારણા bullet, the chapter-end 'ભજિયાં' writing box, and the two uncaptioned illustrations (both seen on the renders, pp. 68 and 69)."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 6,
+      "notes": [
+        "Root objectives[] holds O1–O6; all objective_id values unique.",
+        "Every home_topic_id resolves to a topic in this tree and every anchor[] id resolves to a concept in this tree — checked programmatically, zero unresolved.",
+        "strand_to_objective_map covers L1–L6, each legacy_id exactly once, and its values are exactly the six objective ids. Single strand L / ભાષા અને સાહિત્ય throughout, as this pack specifies for Gujarati literature.",
+        "Every topic carries objective_ids and every id resolves; every concept's objective_id resolves too.",
+        "Each objective is text-grounded and chapter-specific — વચન, વાસણનો ખડકલો, સાવરણી ને પોતું, ગેસની ઠેસી અને ચાની ભૂલો, પપ્પાની ચૂસકી ને વખાણ, વારાફરતી બોલાયેલી કવિતા — and none of the six would fit another chapter of this reader. All six serve the teaching_lens 'ઘટના + પાત્ર + વળાંક': what happened, why the character acted, what the turn shows. Lengths measured at 17–23 Gujarati words, inside the 12–30 band.",
+        "Id grammar per naming_conventions.md and phase2_contract.md: M1–M2, S1–S4, T1–T6 dotted and chapter-continuous with no restart and no gap; concepts C1–C8 chapter-continuous across topics (T4 and T6 each carry two); no M1.S1.T1.P1-style objective code anywhere in the payload (regex-checked over the whole file); no .SR{n} recall form present.",
+        "No craft label (અલંકાર, છંદ, સમાસ, સાહિત્યપ્રકાર) and no digit appears in any objective_text, topic_name, segment_name, module_name or concept_name — scanned for both ASCII and Gujarati numerals. Correct for std 6."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "No pre-reading opener topic exists, and that is correct here rather than a coverage gap. The only pre-reading matter printed is the blue પ્રવેશપેટી, which reference/explanation_unit_map.md §4 classes as teacher-addressed apparatus that feeds key_terms and Agent 10 and is never a topic; A1 marked it 'શિક્ષક માટે; વાચન-દૃશ્ય નથી, વિષય નથી'. The student-addressed કવિ/લેખક-પરિચય that becomes a CONCEPT topic is a std-10 feature and is not printed here. Recorded as a note, not a block.",
+    "No REVIEW topic, because no in-text wrap or value summary is printed. હીરવા's closing line 'ઘરનું કામ સાથે મળીને કરવાની કેવી મજા આવે છે નહીં ?' is character dialogue inside the last scene (seen on the render, p. 72) and A2 kept it there.",
+    "Hook rule applied once, correctly: lines 36-40 ('‘‘હવે એક નાનકડું કામ બાકી છે, ભાઈ !’’' … '‘‘આપણે જ્યાં જમ્યાં એ જગ્યાને વાળવી પડશે અને ત્યાં પોતું પણ કરવું પડશે !’’') sit under the second [[ઘટના]] marker but open the third scene, so M1.S2.T3 carries them while M1.S2.T2 stops at line 34. That is explanation_unit_map.md cutting rule 2, not a coverage error — the text is claimed by a marker and covered exactly once.",
+    "The same hook rule is left unapplied at two paragraph-internal boundaries, and A2 recorded why: line 122's closing 'એટલામાં પપ્પાએ બૂમ પાડી, ‘‘શું થયું ચાનું ?’’' opens T5, and line 129's closing 'ઓમે કહ્યું કે, ‘‘મને કવિતા સૂઝે છે.’’ હીરવાએ કહ્યું, ‘‘ચાલો કવિતા પણ બધાં ભેગાં મળી કરીએ.’’' opens T6, but both are printed inside the previous paragraph and breaking a printed paragraph would break the verbatim. Agent 5 should transcribe the paragraphs whole and Agent 7 should use those two sentences as bridges into the next topic. Non-blocking.",
+    "Small provenance slip in 02_structure.json's own notes, worth an Agent 13 glance: the second boundary note calls that sentence 'લીટી 130' where 00_chapter_normalized.md has it on line 129 (line 130 is blank). The topic's source_lines_00_normalized '125-130' therefore trails one blank line. Harmless to coverage.",
+    "Uneven topic length: M2.S3.T4 holds lines 68-122, about a third of the printed reading text, while M2.S4.T5 is short. Keeping both whole is right — the printed marker and 01_meta.json's ghatna_note both treat 'સાંજની ચા બનાવવાની ધમાલ' as one ઘટના — and T4's two internal moves are carried as two concepts (C4, C5). Flagged for Agent 13 on pacing, not as a defect.",
+    "The concept counter is chapter-continuous with two two-concept topics (T4 → C4+C5, T6 → C7+C8), so from C5 onward the concept number no longer equals the topic number. That is the phase2_contract behaviour; naming_conventions.md's 'concept number equals topic number' line is an example that assumes one concept per topic.",
+    "Two topics carry topic_category 'resolution' (T5, T6) under one 'climax' (T4). topic_category is free descriptive text and the printed page genuinely resolves twice — પપ્પા joining the cooking, then the three composing the poem. No block.",
+    "M2.S4.T6 carries topic_type 'POEM' while covering three prose lines (145, 147, 149) as well as the eleven verse lines. POEM is defensible — the verse is the topic's substance and its પ્રાસ-family is what std 6 hears there — and both POEM and STORY_TELLING map to 'instructional' at emit (Agent 14), so nothing downstream turns on it.",
+    "Field-shape mismatch carried forward from A1: 01_meta.json writes genre as a Gujarati description ('વાર્તા (ઘરેલુ, સંવાદપ્રધાન વાર્તા) — …') while 02_structure.json writes the roster slug 'varta'. The slug is the correct value for the plan's root genre field per phase2_contract.md and is unambiguous from active_genre_profiles. Non-blocking; the two files agree on substance.",
+    "The આઇસક્રીમ / આઈસક્રીમ disagreement A2 flagged for Agent 5 is now resolved against the page. On pg-05.png (printed p. 72) the render reads આઈસક્રીમ (long ઈ) in BOTH places — ઓમ's poem line 'ખુશ થયેલી મમ્મી પાસે આઈસક્રીમ માંગી લઈએ.' and પપ્પા's 'આઇસક્રીમ જરુર આપશે.' line, which prints 'આઈસક્રીમ જરુર આપશે.' 00_chapter_normalized.md's short ઇ is the odd one out and 01_meta.json's extraction_notes were right. Agent 5 transcribes from the render, not from 00_chapter_normalized.md, at those two words. Verbatim matter, not structure — it does not block convergence.",
+    "original_chunk is empty on all six topics. That is Agent 2's declared scope — the cut is carried by markers[] plus source_lines_00_normalized, and Agent 5 fills the verbatim. Coverage was therefore validated against the marker/line plan, not against chunk text.",
+    "Provenance of this pass: 02_structure.json was re-read at sha256 1490e28434c56099341bc346f243690cc69e9f6c64c3f97491920efac0a9baf8, which is NOT the hash recorded by the earlier 04 files in this directory (abf3149…). The earlier files validated a superseded revision of the cut — among other things its concept assignment differed (T2 → C2+C3, T4 → C5+C6). This verdict is against the current file and both 04 outputs have been rewritten.",
+    "Renders opened for this pass at 150 dpi in scratch subdir run-s6c11-04: pg-01 (p. 68, title band, પ્રવેશપેટી, opening ઘટના, two-column tail), pg-02 (p. 69, વાસણ and the sweep-mop hand-off), pg-05 (p. 72, the poem's printed layout and the closing prose), pg-06 (p. 73, શબ્દાર્થ box then the numbered સ્વાધ્યાય). Every સ્વરૂપ and coverage claim above is anchored to one of those pages or to a programmatic check over the three input files."
+  ],
+  "converged_file": {
+    "path": "04_converged.json",
+    "is_byte_copy_of": "02_structure.json",
+    "sha256": "1490e28434c56099341bc346f243690cc69e9f6c64c3f97491920efac0a9baf8",
+    "note": "Per agents/04_mapping_convergence.md: on pass, copy 02_structure.json → 04_converged.json. Ids are frozen from this moment — M1–M2, S1–S4, T1–T6, C1–C8, objectives O1–O6 with legacy L1–L6. Only Agent 14 renumbers, and O{n} / strand_to_objective_map are never renumbered."
+  }
+}

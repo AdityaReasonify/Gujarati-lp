@@ -1,0 +1,127 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Summary-only teaching (varta avoid 1). `explanation` must add what this household's two standing questions — ''ચંદેરીએ ખાઈ લીધું ?'' and ''ગોરિયાએ ધાવી લીધું ?'' asked રોજ જમતાં પહેલાં — show about દગડુ and શાંતા, beyond restating them. If `explanation` could be swapped for this topic's `modified_chunk` with no loss of information, the topic fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Standardising the household's spoken register (varta avoid 6). Wherever `explanation`, `key_terms`, `concept_bullets` or a `recall_questions[].answer` quotes શાંતા's reply, the printed forms ''હા ભઈ હા'', ''કોઈ દી''' and ''ધરવ્યા'' stand as printed and are glossed; a quotation that prints ''કોઈ દિવસ'' or ''ધરાવ્યા'' in their place fails.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ''ચંદેરીએ ખાઈ લીધું ?'' ''ગોરિયાએ ધાવી લીધું ?'' — આ બે સવાલ ઘરના માણસો વિશે પુછાયા હોય એમ વાંચે છે, કારણ કે ચંદેરી અને ગોરિયો એને માણસનાં નામ લાગે છે; અને હિન્દી 'धावना/दौड़ना'ના અવાજ પરથી 'ધાવવું'ને 'દોડવું' સમજી લે છે. એટલે 'પહેલાં અબોલ જીવ, પછી અમે' — આ ઘરની આખી ટેવ એની નજરે ચડતી જ નથી.",
+      "correction": "પહેલા જ વાક્યમાં ગ્લોસ કરો — 'ચંદેરી એટલે ઘરની ગાય, ગોરિયો એટલે એની કૂખે જન્મેલો વાછરડો', અને `key_terms`માં 'ધાવવું — માનું દૂધ પીવું' મૂકો. પછી એક વાક્યમાં બતાવો કે આ બે સવાલ ઘરના માણસો જમવા બેસે તે *પહેલાં* પુછાય છે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "A tacked-on બોધ (varta avoid 2). દગડુ's ''ચંદેરીના દૂધ પર પહેલો હક્ક એના વાછરડાનો'' is a ready-made rule and is the likeliest place in this chapter for a moral to be appended. No sentence of `explanation`, `summary`, `detailed_summary`, a `concept_bullets` line or a `recall_questions[].answer` may restate it as ''આપણે પ્રાણીઓને … જોઈએ'' / ''આ વાર્તા આપણને શીખવે છે…''; the line is taught as this one household's own નિયમ, in દગડુ's mouth.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'દફતરનો ઘા કરતોકને' — બાળક 'ઘા'ને હિન્દી 'घाव' (જખમ) સમજે છે, એટલે વાક્ય 'દફતરને નુકસાન કરીને' જેવું બની જાય છે અને ગોલુની ઉતાવળનું ચિત્ર — બેગ ફેંકી ને સીધો ભાઈબંધ પાસે — ખોવાઈ જાય છે.",
+      "correction": "'ઘા કરવો — ફેંકવું' એ જગ્યાએ જ ગ્લોસ કરો જ્યાં શબ્દ આવે છે, અને `explanation`માં એ ક્ષણ સાદા શબ્દોમાં ફરી કહો: 'નિશાળેથી આવીને દફતર ફેંક્યું ને સીધો ગોરિયા પાસે' — પછી ગોરિયાનું પૂંછડી હલાવવું જોડો."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Judging a character the story treats with sympathy (varta avoid 3). No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may apply અંધશ્રદ્ધાળુ, વહેમી, મૂરખ, ખોટું or a synonym to શાંતા for ''રાઈ-મીઠું ઉતારવાં'' / ''નજરાઈ જતાં'', or to દગડુ for ''જાપ કરવા માંડ્યા''. Both are reported as what this house did, in the chapter's own words, and no field may state that the belief is true or false.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "''ગોરિયો મૂઓ છે એવો દેખાવડો…'' — બાળક 'મૂઓ'ને 'મરી ગયો' વાંચે છે અને માની લે છે કે વાછરડું અહીં જ મરી ગયું. પછીની આખી વાર્તા — દાક્તર, દવા, રાત — એને અર્થ વગરની લાગે છે.",
+      "correction": "`key_terms`માં મૂકો કે 'મૂઓ' અહીં બોલચાલનો લાગણીવાળો શબ્દ છે, 'મરી ગયો' નહીં; અને `explanation`માં આખું વાક્ય સાદા ગુજરાતીમાં ફરી કહો — 'ગોરિયો એટલો દેખાવડો છે કે એને નજર લાગતાં વાર ન લાગે.' સાથે એટલું જ કહો કે ગોરિયો માંદો છે, અને ઘર સૂમસામ છે."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "Spoiling the turn early (varta avoid 4). This topic precedes the climax topic M3.S4.T6. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` here may contain ભીના કોથળા, કંતાનના કોથળા, પોતાં, 'તાવ ઊતરી ગયો', 'સાજો થઈ ગયો' or ચમત્કાર. The doctor's ''આજની રાત આ મૂંગા ઢોર માટે ભારે છે'' must be left unanswered in this topic.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Judging a character the story treats with sympathy (varta avoid 3). The doctor's ''કેમ આટલું મોડું કર્યું ?'' invites a verdict on the parents. No `explanation`, `real_life_example` or `recall_questions[].answer` may call દગડુ or શાંતા બેદરકાર, બેજવાબદાર, આળસુ or a synonym; the delay is reported as what happened (ઘરે પહેલાં પોતાના ઉપાય કર્યા) without a judgment.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "ડૉક્ટરની શરતવાળી વાત — ''જો એ કાલની સવાર જોવા જીવતું રહેશે તો પછી કંઈ ચિંતા નથી'' — બાળક બની ગયેલી ઘટના તરીકે વાંચે છે, અને એનો અર્થ 'ગોરિયો સવારે મરી જશે' અથવા 'ગોરિયો બચી ગયો' એવો કરી લે છે. શરત વાંચતાં ન આવડવાથી વાર્તાનો ડર જ ઓગળી જાય છે.",
+      "correction": "`explanation`માં 'જો … તો'ની રચના શબ્દ પાડ્યા વગર ખોલો: 'દાક્તર કહે છે — ખતરો આજની રાત પૂરતો છે. હજી કંઈ નક્કી નથી.' આ ડર છે, બનેલી વાત નથી — એટલું સ્પષ્ટ કરો અને પરિણામ અહીં ન કહો; ઘરની આંખોમાં ડોકાતો ''હવે શું થશે ?'' એ સવાલ પર જ ટોપિક પૂરો કરો."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "Spoiling the turn early (varta avoid 4). This topic precedes the climax topic M3.S4.T6. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` here may contain ભીના કોથળા, કંતાનના કોથળા, પોતાં, બાલદી, 'તાવ ઊતર્યો', 'સાજો' or ચમત્કાર. The topic ends on the medicine showing no effect, not on what follows.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Summary-only teaching (varta avoid 1). `explanation` must add why શાંતાની યુક્તિ was needed at all — ગોરિયો ''મોઢું ખોલવાય તૈયાર નથી થતો'' — and what ''કોઈના ગળે કોળિયો ન ઊતર્યો'' shows about the house, beyond restating that the medicine had no visible effect. Replaceable by `modified_chunk` with no loss ⇒ fail.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "''પણ કોઈના ગળે કોળિયો ન ઊતર્યો'' — બાળક આ રૂઢિપ્રયોગને શબ્દશઃ વાંચે છે અને સમજે છે કે કોઈને ગળામાં કંઈ ભરાઈ ગયું અથવા ઘરનાં માણસો પણ માંદાં પડ્યાં. ચિંતાને લીધે કોઈથી ખવાયું નહીં — એ વાત જ ચૂકી જવાય છે.",
+      "correction": "'ગળે કોળિયો ન ઊતરવો — ચિંતાને લીધે ખવાય નહીં' એ જ વાક્યની પાસે ગ્લોસ કરો, અને પહેલા ટોપિકનો 'કોળિયો' ફરી યાદ કરાવો: જે ઘરમાં અબોલ જીવને ધરવ્યા વિના કોળિયો મોઢામાં ન મુકાતો, એ જ ઘરમાં આજે કોઈથી ખવાતું નથી."
+    },
+    {
+      "topic_id": "M3.S4.T6",
+      "avoid_checks": [
+        {
+          "check": "A tacked-on બોધ (varta avoid 2). This is the વળાંક, where the moral is most likely to be appended. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may close on ''આપણે પણ … જોઈએ'' / ''આ વાર્તા આપણને શીખવે છે…'' / ''બોધ એ છે કે…''. ગોલુ's own stated reason — ''આઈએ આખી રાત જાગીને મારે કપાળે પોતાં મૂક્યાં હતાં … એ મને યાદ આવ્યું'' — is the whole account of why he does it.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Standardising the household's spoken register (varta avoid 6). ગોલુ's speech runs on ''બાબા'' and ''આઈ''. Wherever `explanation`, `key_terms`, `concept_bullets` or a `recall_questions[].answer` quotes him, both words stand in the printed form and are glossed as પિતા / મા; a quotation that prints ''પિતા'' or ''મા'' inside ગોલુ's own words fails.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "''આઈએ આખી રાત જાગીને મારે કપાળે પોતાં મૂક્યાં હતાં'' — હિન્દી વાંચતું બાળક 'આઈ'ને 'આવી' (हिन्दी 'आई') સમજે છે અને 'બાબા'ને દાદા કે કોઈ સાધુ. એટલે ગોલુનું કારણ — 'મારી માએ મારા માટે આ કર્યું હતું' — સાવ ભૂંસાઈ જાય છે, અને વાર્તાનો વળાંક કારણ વગરનો બની જાય છે.",
+      "correction": "પહેલી જ વાર આવે ત્યાં ગ્લોસ કરો — 'આઈ — મા' અને 'બાબા — પિતા' — અને `explanation`માં ગોલુનું કારણ એક વાક્યમાં સીધું મૂકો: 'મને તાવ આવ્યો ત્યારે માએ મારે કપાળે ભીનાં પોતાં મૂક્યાં હતાં, એટલે હું ગોરિયા માટે એ જ કરું છું.'"
+    },
+    {
+      "topic_id": "M3.S5.T7",
+      "avoid_checks": [
+        {
+          "check": "A tacked-on બોધ (varta avoid 2). No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may close on an abstract moral. Where the chapter's own closing thought is used, it is quoted as printed — ''ચમત્કાર તો થયો જ પણ એ દાક્તરની ગોળીએ કર્યો કે ગોલુના ભીના કોથળાએ એ તો ઉપરવાળો જાણે'' — and taught as the writer's move (ending on a question), never rewritten into a rule.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Judging a character the story treats with sympathy (varta avoid 3). The doctor returns, takes ''સંતોષનો શ્વાસ'' and says ''દવાએ બરાબર અસર કરી''. No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may call him ખોટો, બડાઈખોર, અજાણ or a synonym, or imply he is taking credit that is not his.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Closing an ending the chapter deliberately leaves open (not on the profile's avoid list; this passage invites it). No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may state which of the two cured ગોરિયો. ''દવાએ બરાબર અસર કરી'' may appear only as reported speech attributed to the ડૉક્ટર, never as the plan's own claim, and no field may add ''ખરેખર તો દવાએ જ…'' or ''ખરેખર તો ભીના કોથળાએ જ…''. Any answer to the guiding question ends on the chapter's own ''એ તો ઉપરવાળો જાણે''.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "ડૉક્ટરનું વાક્ય ''દવાએ બરાબર અસર કરી'' બાળકને વાર્તાનો જવાબ લાગે છે, એટલે એ સવાલ ત્યાં જ બંધ કરી દે છે — અને પછીની જ લીટીમાં દગડુ એ સવાલ પાછો ખોલે છે તે વંચાતું નથી. વાર્તા જે ખુલ્લા સવાલ પર પૂરી થાય છે તે જ હાથમાંથી છૂટી જાય છે.",
+      "correction": "`explanation`માં બંને વાક્યો સામસામે મૂકો — 'દાક્તર શું કહે છે' અને 'દગડુ મનમાં શું વિચારે છે' — અને પછી ટોપિક વાર્તાના પોતાના ખુલ્લા સવાલ પર જ પૂરો કરો, કોઈ એક બાજુ પસંદ કર્યા વગર. `recall_questions[].answer`માં પણ જવાબ 'બંને વાત વાર્તામાં સાથે રહે છે' એ રીતે લખો, પાઠમાં જે છપાયું છે એટલા આધારે."
+    }
+  ],
+  "chapter_level": [
+    "Whole-chapter register hazard (varta avoid 6, hard). The story runs on દગડુ આહીરના ઘરની બોલચાલ: ''હા ભઈ હા'', ''કોઈ દી''', ''દો'વાની'', ''કરતોકને'', ''ભઈસા'બ'', ''આઈ'', ''બાબા'', ''દાક્તર'', ''ગુમસુમ'', ''મૂઓ''. These are the household's speech, not errors. Gloss each at the point of use and keep the printed form inside every quotation; never replace one with its માનક ગુજરાતી equivalent, and never present one to the child as a mistake. Note that the printed શબ્દાર્થ box glosses none of them — it glosses દિનચર્યા, છાપરું, સૂમસામ, આકળવિકળ, ઊછળકૂદ, હક્ક, ગુમસૂમ, વારેઘડીએ, બાલદી, ઘંટારવ, તસતસવું — so the gloss burden for the spoken words is entirely the plan's.",
+    "The chapter keeps two accounts of the recovery side by side and cancels neither: શાંતાનું 'નજર લાગવી' અને રાઈ-મીઠું ઉતારવું, દગડુના જાપ on one side; ઢોરના દાક્તરની ગોળી on the other; and ગોલુના ભીના કોથળા between them. No field anywhere in this plan may endorse, debunk, rank or scientifically correct any of them, and no field may resolve the closing question. Present each as what that person in this house did.",
+    "The family is named on the page as આહીર — a pastoral community. Name it exactly as the page names it, wherever it is named at all, and never generically. The only attribution printed anywhere in the unit is the header line '- શિરીષ પદ્માકર, અનુ. આશા વીરેન્દ્ર'; the page states nothing else about either writer, so nothing else may be written about them.",
+    "Translator credit (varta avoid 8, soft). શિરીષ પદ્માકર is the author and આશા વીરેન્દ્ર the translator. No field may call આશા વીરેન્દ્ર the લેખિકા of the story. The header line sits in no topic's `original_chunk` (Agent 1 recorded it as printed header matter), so this is checked wherever attribution is written, not against a topic field.",
+    "Std-7 ceiling (profiles/students/std-7.md §2, genre gate for std 6–8). No અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label anywhere in the plan; `figures_of_speech` stays []. This chapter carries two vivid pictures that invite a label — the calf's ''ચસચસ અવાજ જાણે મંદિરના ઘંટારવ જેવો'' and ''સવારનો સૂરજ પોતાની સાથે નવી આશાનું કિરણ લઈને આવ્યો હતો'' — and both are to be noticed by asking what the child hears or sees, never named as ઉપમા or સજીવારોપણ.",
+    "The blue intro box on the first page is addressed to the teacher and states the unit's aim ('…આ ઉંમરના વિદ્યાર્થીઓમાં પ્રાણીઓ પ્રત્યે સંવેદનો જાગે એ અભિપ્રેત છે.'). It is not a reading scene and it is not the child's answer. No child-facing field may quote it or convert its aim sentence into the chapter's બોધ.",
+    "Script hazard for an L2 reader: the printed page is inconsistent in ઉ/ઊ and in one hyphen, and Agent 1 transcribed each place as printed — 'ગોળીનો ભૂક્કો' (વાર્તા) vs 'ગોળીનો ભુક્કો' (ફકરા-આધારિત સ્વાધ્યાય); 'તાવ ઉતરવો / ઉતરતો' vs 'તાવ ઊતર્યો / ઊતરતાં / ઊતરી'; 'આકળ-વિકળ' (વાર્તા) vs 'આકળવિકળ' (શબ્દાર્થ પેટી); 'અજ્ઞાર્થ' vs 'આજ્ઞાર્થ' in the two grammar tables. Quote each in the form printed at the place being quoted, do not harmonise across places, and never point any of them out to the child as a spelling mistake."
+  ]
+}

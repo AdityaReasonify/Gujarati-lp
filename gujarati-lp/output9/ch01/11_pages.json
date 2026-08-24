@@ -1,0 +1,11 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9",
+  "textbook_url": "../Textbooks-pdf/std-9/ch-01-chhappa.pdf",
+  "textbook_pages": "1–2",
+  "source": "printed folio, read off renders of pdf pp. 5 and 6 of the chapter PDF (page-1.png and page-2.png, both rendered pages of this 2-page unit): page 1 prints folio '1' at the bottom rule, page 2 prints folio '2' at the bottom rule with running footer 'ગુજરાતી (દ્વિતીય ભાષા), ધોરણ ૯'. Cross-checked against std-9/manifest.json row for ch-01 (printed_start:1, pdf_start:5, pdf_end:6), which agrees.",
+  "confidence": "medium",
+  "gaps": [
+    "textbook_url is a local path — the GSEB readers have no hosted URL.",
+    "textbook title is transcribed from the page-2 running footer, not from the std-9 cover — profiles/boards/gseb_gujarati.md flags the std-9 cover as not yet read/confirmed, so the title is carried from 01_meta.json/footer reading rather than a confirmed cover, per spec grading table."
+  ]
+}

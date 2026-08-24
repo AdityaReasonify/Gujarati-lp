@@ -1,0 +1,607 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati7_ch3",
+  "plan_id": "gseb_eng_gujarati7_ch3_v1",
+  "grade": 7,
+  "chapter_name": "ચક્રવ્યૂહ તૂટ્યો પણ...",
+  "genre": "varta",
+  "active_genre_profiles": ["varta.md"],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "ચક્રવ્યૂહ તૂટ્યો તોય યુધિષ્ઠિરે કેમ કહ્યું કે આપણો ભડવીર ખૂટ્યો ?",
+  "explanation_unit": "એક ઘટના",
+
+  "cut_summary": {
+    "reading_markers_in_normalized": [
+      "[[ઘટના: સુભદ્રા, અર્જુન અને અભિમન્યુનો પરિચય]]",
+      "[[ઘટના: બલરામમામાની ગદા અને હળનો વિનોદ]]",
+      "[[સંવાદ: બલરામ, શ્રીકૃષ્ણ અને અભિમન્યુ]]",
+      "[[સંવાદ: ચક્રવ્યૂહ એટલે શું ?]]",
+      "[[ઘટના: ગર્ભમાં મળેલું અધૂરું જ્ઞાન]]",
+      "[[ઘટના: કૌરવ-પાંડવ કલહ અને કુરુક્ષેત્રનું યુદ્ધ]]",
+      "[[સંવાદ: દ્રોણ, દુર્યોધન અને સુશર્માની યોજના]]",
+      "[[ઘટના: અર્જુન દૂર લઈ જવાયો — પાંડવછાવણીમાં ચિંતા]]",
+      "[[ઘટના: અભિમન્યુ બીડું ઝડપે છે]]",
+      "[[ઘટના: રણવેશ અને દાદીમાના આશિષ]]",
+      "[[ઘટના: ચક્રવ્યૂહમાં અભિમન્યુનું પરાક્રમ]]",
+      "[[ઘટના: છ યોદ્ધાઓનો નિયમભંગ અને અભિમન્યુની વીરગતિ]]"
+    ],
+    "reading_markers_count": 12,
+    "topics": 13,
+    "segments": 6,
+    "modules": 3,
+    "concepts": 15,
+    "objectives": 13,
+    "marker_to_topic_mapping": "Markers 1–11 map 1:1 to T1–T11 in printed order. Marker 12, [[ઘટના: છ યોદ્ધાઓનો નિયમભંગ અને અભિમન્યુની વીરગતિ]], is carried by TWO topics — M3.S6.T12 (line 117, the rule-breaking mass attack) and M3.S6.T13 (line 119, the closing sentence that turns everything). No marker is swallowed and no topic sits where no marker sits: both T12 and T13 declare marker 12 in their own markers[]. The split is licensed by profiles/genres/varta.md ('A single sentence that turns everything IS its own topic', naming this very chapter's closing line) and permitted by reference/explanation_unit_map.md cutting rule 3, which allows a unit to split when it does two clearly different things and forbids splitting only દુહો and પદ.",
+    "non_topic_markers": [
+      "[[પૃષ્ઠ 11]] … [[પૃષ્ઠ 18]] × 8 — pagination scaffolding",
+      "[[એકમ-ક્રમાંક]] '3'",
+      "[[શીર્ષક]] 'ચક્રવ્યૂહ તૂટ્યો પણ...'",
+      "[[લેખક-શ્રેય]] '- સંકલિત'",
+      "[[પ્રવેશપેટી]] — વાદળી ખાનું, શિક્ષક-સંબોધિત; વાચનદૃશ્ય નથી, સ્વાધ્યાય નથી",
+      "[[ચિત્ર: ગદા સાથે ઊભેલા બલરામ અને પાછળ ચક્રાકારે ગોઠવાયેલા સૈનિકો]]",
+      "[[ચિત્ર: ધનુષ્ય-બાણ સાથે ઊભેલો યુવા અભિમન્યુ]]",
+      "[[ચિત્ર: રથનું પૈડું ફેરવતો ઘવાયેલો અભિમન્યુ અને ચારે તરફ કૌરવ યોદ્ધાઓ]]",
+      "[[શબ્દાર્થ]] — ખાનું, ૨૧ શબ્દ; સ્વાધ્યાય નથી",
+      "[[રૂઢિપ્રયોગ]] — અલગ ખાનું, ચાર રૂઢિપ્રયોગ; સ્વાધ્યાય નથી",
+      "[[સ્વાધ્યાય: …]] × 16",
+      "[[વ્યાકરણપેટી: સંજ્ઞા વિશે જાણીએ]] — પાઠાંતે વ્યાકરણ-ખાનું; સ્વાધ્યાય નથી, ટૉપિક નથી"
+    ],
+    "tek_occurrences": 0,
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0,
+    "ghatna": 12
+  },
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દાદીમા કુંતીજી અભિમન્યુ વિશે શું કહેતાં હતાં એ પાઠની શરૂઆતની પંક્તિઓમાંથી શોધીને, નીડરતા, યોદ્ધાપણું અને ચતુરાઈ કોની પાસેથી આવી તે કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બલરામમામાની ગદા ન ઊંચકાયા પછી અભિમન્યુ હળ વિશે કયો સવાલ પૂછે છે, અને એ સાંભળીને બલુમામા કેમ હસી પડ્યા તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": ["M1.S1.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "‘‘બુદ્ધિ તો એના બાપની છે !’’ પછી ચાલતી બલરામ અને શ્રીકૃષ્ણની મીઠી રકઝકમાં મામાના ઘરનું વાતાવરણ કેવું દેખાય છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T3",
+      "anchor": ["M1.S1.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શ્રીકૃષ્ણ ચક્રવ્યૂહની જે સમજ આપે છે તે પોતાના શબ્દોમાં કહીને, કુશળ યોદ્ધો કોને કહેવાય એ મામાના જવાબમાંથી તારવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T4",
+      "anchor": ["M1.S2.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અભિમન્યુને ચક્રવ્યૂહનું જ્ઞાન ગર્ભમાં કઈ રીતે મળ્યું અને એ અધૂરું કેમ રહી ગયું તે સુભદ્રા-શ્રીકૃષ્ણના સંવાદમાંથી શોધીને સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T5",
+      "anchor": ["M1.S2.T5.C5", "M1.S2.T5.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કૌરવો અને પાંડવો વચ્ચે યુદ્ધ શા માટે થયું અને દુર્યોધનના કયા જવાબે સમાધાનનો રસ્તો બંધ કરી દીધો તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": ["M2.S3.T6.C7", "M2.S3.T6.C8"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગુરુ દ્રોણ ચક્રવ્યૂહ કેમ રચવા માગે છે અને સુશર્મા અર્જુનને દૂર લઈ જવાનું બીડું કયા કારણે ઝડપે છે તે તપાસવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T7",
+      "anchor": ["M2.S4.T7.C9"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સુશર્માની યોજના પાર પડ્યા પછી પાંડવછાવણીમાં ચિંતાનો પાર કેમ ન રહ્યો તે ‘હવે... ?’ એ અધૂરા સવાલને આધારે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T8",
+      "anchor": ["M2.S4.T8.C10"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "‘‘હું છું ને !’’ કહીને અભિમન્યુ કઈ દલીલોથી બધાને મનાવે છે અને એની આ પસંદગી છાવણીની સ્થિતિ કઈ રીતે બદલે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T9",
+      "anchor": ["M3.S5.T9.C11"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O10",
+      "legacy_id": "L10",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અભિમન્યુ યુદ્ધ માટે શું શું સજે છે, કોના આશિષ લે છે અને એનો રથ જોઈને કૌરવો શું બોલે છે તે પાઠમાંથી શોધીને કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M3.S5.T10",
+      "anchor": ["M3.S5.T10.C12"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O11",
+      "legacy_id": "L11",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "એક પછી એક કોઠા ભેદતા અભિમન્યુનું પરાક્રમ જોઈને શત્રુઓ પણ શું બોલી ઊઠે છે, અને એ શબ્દો એના વિશે શું કહી જાય છે તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S6.T11",
+      "anchor": ["M3.S6.T11.C13"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O12",
+      "legacy_id": "L12",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પોતાની પ્રતિષ્ઠા બચાવવા દુશ્મનોએ યુદ્ધના બધા નીતિનિયમો નેવે મૂકીને ભેગા મળીને અભિમન્યુ પર જે કર્યું તે તપાસીને એનું કારણ કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S6.T12",
+      "anchor": ["M3.S6.T12.C14"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O13",
+      "legacy_id": "L13",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "છેલ્લી ક્ષણ સુધી ઝઝૂમેલા અભિમન્યુ વિશે યુધિષ્ઠિર જે વાક્ય બોલે છે તે શોધીને, ‘ખૂટ્યો’ શબ્દથી એમની કઈ લાગણી પ્રગટે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S6.T13",
+      "anchor": ["M3.S6.T13.C15"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9",
+    "L10": "O10",
+    "L11": "O11",
+    "L12": "O12",
+    "L13": "O13"
+  },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "મામાના ઘરનું બાળપણ અને ચક્રવ્યૂહનું અધૂરું જ્ઞાન",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "દ્વારિકામાં લાડકોડભર્યું બાળપણ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "નીડર માતાનો ને બાણાવળી પિતાનો પુત્ર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: સુભદ્રા, અર્જુન અને અભિમન્યુનો પરિચય]]"],
+              "source_lines_00_normalized": "28",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "માતાની નીડરતા, પિતાનું બાણ ને મામાની ચતુરાઈનો વારસો",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "ન ઊંચકાયેલી ગદા અને હળનો સવાલ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: બલરામમામાની ગદા અને હળનો વિનોદ]]"],
+              "source_lines_00_normalized": "31",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "ભાણેજની ચતુરાઈ પકડી પાડતો હળનો સવાલ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T3",
+              "topic_name": "બુદ્ધિ કોની — મામાઓની મીઠી રકઝક",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": ["M1.S1.T2"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "markers": ["[[સંવાદ: બલરામ, શ્રીકૃષ્ણ અને અભિમન્યુ]]"],
+              "source_lines_00_normalized": "34-40",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T3.C3",
+                  "concept_name": "મામાઓની હસી-મજાકમાં ઊઘડતું દ્વારિકાનું ઘર",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "ચક્રવ્યૂહની જિજ્ઞાસા અને અધૂરો ભેદ",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T4",
+              "topic_name": "ચક્રવ્યૂહની સમજ અને કુશળ યોદ્ધો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "markers": ["[[સંવાદ: ચક્રવ્યૂહ એટલે શું ?]]"],
+              "source_lines_00_normalized": "42, 49-55",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T4.C4",
+                  "concept_name": "શત્રુને આંતરતી ચક્રાકાર સૈન્યરચના અને એને ભેદવાની કુશળતા",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T5",
+              "topic_name": "ગર્ભમાં મળેલું અધૂરું જ્ઞાન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S2.T4"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: ગર્ભમાં મળેલું અધૂરું જ્ઞાન]]"],
+              "source_lines_00_normalized": "58-68",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T5.C5",
+                  "concept_name": "સૂઈ ગયેલી માતા અને અધૂરું રહી ગયેલું જ્ઞાન",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S2.T5.C6",
+                  "concept_name": "યુક્તિ-પ્રયુક્તિઓ યાદ છતાં અધૂરો રહેલો ભેદ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "કુરુક્ષેત્રનું યુદ્ધ અને અર્જુનને દૂર કરવાની ચાલ",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "હકની તકરારમાંથી મંડાયેલું મહાયુદ્ધ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "હકની તકરારમાંથી મંડાયેલું કુરુક્ષેત્ર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: કૌરવ-પાંડવ કલહ અને કુરુક્ષેત્રનું યુદ્ધ]]"],
+              "source_lines_00_normalized": "71",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C7",
+                  "concept_name": "સોયની અણી જેટલી જમીન પણ નહીં — બંધ થયેલો સમાધાનનો રસ્તો",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T6.C8",
+                  "concept_name": "સામસામી સેનાઓ અને બાણશય્યા પછી બદલાયેલું સેનાપતિપદ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "ગુરુની વ્યૂહરચના અને લલકારની ચાલ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T7",
+              "topic_name": "ચક્રવ્યૂહની રચના અને સુશર્માની ચાલ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M2.S3.T6"],
+              "objective_ids": ["O7"],
+              "original_chunk": "",
+              "markers": ["[[સંવાદ: દ્રોણ, દુર્યોધન અને સુશર્માની યોજના]]"],
+              "source_lines_00_normalized": "74-84",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T7.C9",
+                  "concept_name": "અર્જુનને મેદાનથી દૂર કરવાની યોજના",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T8",
+              "topic_name": "લલકારીને દૂર લઈ જવાયેલો અર્જુન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": ["M2.S4.T7"],
+              "objective_ids": ["O8"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: અર્જુન દૂર લઈ જવાયો — પાંડવછાવણીમાં ચિંતા]]"],
+              "source_lines_00_normalized": "87",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T8.C10",
+                  "concept_name": "અર્જુન વિનાની છાવણીમાં ઊભો થયેલો સવાલ",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "ચક્રવ્યૂહ સામે એકલો અભિમન્યુ",
+      "segments": [
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "બીડું ઝડપીને રણવેશ સજતો અર્જુનપુત્ર",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T9",
+              "topic_name": "‘‘હું છું ને !’’ — બીડું ઝડપતો અર્જુનપુત્ર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M1.S2.T5", "M2.S4.T8"],
+              "objective_ids": ["O9"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: અભિમન્યુ બીડું ઝડપે છે]]"],
+              "source_lines_00_normalized": "92-98",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T9.C11",
+                  "concept_name": "અધૂરું જ્ઞાન છતાં આગળ આવવાની પસંદગી",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S5.T10",
+              "topic_name": "રણવેશ, આશિષ અને કૌરવોનું મહેણું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": ["M3.S5.T9"],
+              "objective_ids": ["O10"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: રણવેશ અને દાદીમાના આશિષ]]"],
+              "source_lines_00_normalized": "101-103",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T10.C12",
+                  "concept_name": "બખતર, શિરસ્ત્રાણ અને દાદીમાના આશિષ",
+                  "objective_id": "O10",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S6",
+          "segment_name": "કોઠા ભેદતું પરાક્રમ અને છેલ્લી ક્ષણ",
+          "topics": [
+            {
+              "topic_id": "M3.S6.T11",
+              "topic_name": "એક પછી એક ભેદાતા કોઠા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M3.S5.T10"],
+              "objective_ids": ["O11"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: ચક્રવ્યૂહમાં અભિમન્યુનું પરાક્રમ]]"],
+              "source_lines_00_normalized": "108-110",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T11.C13",
+                  "concept_name": "શત્રુના મોંએ પણ નીકળી પડેલી દાદ",
+                  "objective_id": "O11",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S6.T12",
+              "topic_name": "નેવે મુકાયેલા યુદ્ધના નિયમો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": ["M3.S6.T11"],
+              "objective_ids": ["O12"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: છ યોદ્ધાઓનો નિયમભંગ અને અભિમન્યુની વીરગતિ]]"],
+              "source_lines_00_normalized": "117-118",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T12.C14",
+                  "concept_name": "પ્રતિષ્ઠા બચાવવા ભેગા મળીને તૂટી પડેલા યોદ્ધાઓ",
+                  "objective_id": "O12",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S6.T13",
+              "topic_name": "છેલ્લી ક્ષણ અને યુધિષ્ઠિરનો નિસાસો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": ["M3.S6.T12"],
+              "objective_ids": ["O13"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: છ યોદ્ધાઓનો નિયમભંગ અને અભિમન્યુની વીરગતિ]]"],
+              "source_lines_00_normalized": "119",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T13.C15",
+                  "concept_name": "‘‘ચક્રવ્યૂહ તૂટ્યો પણ આપણો ભડવીર ખૂટ્યો !’’ — શીર્ષકનો અર્થ",
+                  "objective_id": "O13",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "not_cut_as_topics": [
+    "[[એકમ-ક્રમાંક]] '3' + [[શીર્ષક]] 'ચક્રવ્યૂહ તૂટ્યો પણ...' + [[લેખક-શ્રેય]] '- સંકલિત' — printed title-bar furniture, not a reading scene. The credit slot reads સંકલિત (compiled) and names no writer, so this chapter has no કવિ/લેખક-પરિચય and therefore no CONCEPT topic. The QR badge (code Z6X5U7) beside the title bar is header furniture too. Note for Agent 5: the credit line is printed under the title bar, not at the foot of the text, so it belongs in no topic's original_chunk.",
+    "[[પ્રવેશપેટી]] (printed p. 11) — the blue teacher-addressed box. It is the strongest genre evidence on the page ('આ એક વીરરસભરી પૌરાણિક કથા છે.') and it prescribes the teaching (વાચનાલયમાંથી સાહસકથાઓ મેળવીને વર્ગમાં રજૂ કરવી; મહાભારતની અન્ય કથાઓ કહેવી), but it is apparatus: it feeds key_terms and ભાષા-બોધ, never a topic. Its teacher instructions must not be turned into a closing બોધ in any explanation (varta.md avoid-gate 2).",
+    "[[શબ્દાર્થ]] box (printed p. 14), 21 head-words — સખા, વિચક્ષણ, ચક્રવ્યૂહ, ભેદવું, ભગિની, યુક્તિપ્રયુક્તિ, કલહ, સારથિ, પિતામહ, બાણશય્યા, બંદી, લલકારવું, છાવણી, બખતર, હલ્લો, ભડવીર, શિરસ્ત્રાણ, વીરગતિ, ખૂટ્યો (અહીં), પ્રતિષ્ઠા. Apparatus: it feeds key_terms and point-of-use glossing, not a topic.",
+    "[[રૂઢિપ્રયોગ]] box (printed p. 14, directly below શબ્દાર્થ), four idioms — પલ્લું ભારે થવું, યોજના ધૂળમાં મળવી, આંખો મીંચી દેવી, નેવે મૂકવું. Apparatus, not a topic; varta.md marks the std-7 રૂઢિપ્રયોગ box as the first candidate for key_terms because that is exactly where an L2 child stalls. Each of the four occurs inside a topic's own text (T6, T12, T12, T12), so they are glossed at point of first use.",
+    "Three [[ચિત્ર]] markers (printed pp. 11 and 13) — printed illustrations carrying no caption and no text. Not topics; they are scene evidence for Agent 9. The second and third sit in the two-column lower half of printed p. 13, around the T10/T11 boundary.",
+    "The sixteen numbered pink exercise blocks (વાતચીત … 'આ એકમમાંથી શોધીને સંજ્ઞાના છ પ્રકારનાં ત્રણ-ત્રણ ઉદાહરણો લખો.') stay in 01_meta.json's exercise_inventory and are Agent 10's work alone. In particular the eight sentences of 'નીચેનાં વાક્યોને યોગ્ય ઘટનાક્રમમાં ગોઠવો.' are evidence for the arc and were deliberately NOT used as the cut — varta.md states this explicitly, and two of those printed sentences (અભિમન્યુએ ગુરુ દ્રોણને હંફાવ્યા; અભિમન્યુના મૃત્યુથી પાંડવ છાવણીમાં શોક છવાઈ ગયો) are exercise paraphrase, not narration present in the chapter text.",
+    "[[વ્યાકરણપેટી: સંજ્ઞા વિશે જાણીએ]] (printed p. 18) — the chapter-final grammar box teaching દ્રવ્યવાચક, ભાવવાચક and ક્રિયાવાચક સંજ્ઞા after recapping last year's three. Teaching matter, not an exercise and not a topic; it is ભાષા-બોધ / Agent 10 matter, fed by the two grammar exercise blocks printed above it."
+  ],
+
+  "notes": [
+    "Cut by the સ્વરૂપ's unit, not by habit: 01_meta.json sets explanation_unit 'એક ઘટના' and varta.md sets 'One plot beat per topic … follow the story's turns, not paragraph counts'. The rendered page agrees with the profile prior — prose, named પાત્રો, an ઘટના chain, dialogue inside the paragraphs, two turns and a પરિણામ. No disagreement with the table in agents/02_structure.md to report, and no page was re-opened: everything below was decided from 00_chapter_normalized.md.",
+    "Nothing was swallowed and nothing was invented: 00_chapter_normalized.md carries TWELVE reading-scene markers — nine [[ઘટના: …]] plus three [[સંવાદ: …]] — and this file carries THIRTEEN topics. Markers 1–11 map 1:1 to T1–T11 in printed order; the twelfth marker is carried by two topics, M3.S6.T12 and M3.S6.T13, and both declare it in their own markers[], so no marker sits without a topic and no topic sits without a marker. The marker count still equals 01_meta.json's structure_inventory.ghatna = 12, which Agent 1 states is a count of all marked narrative blocks including the three [[સંવાદ]] beats.",
+    "RESOLVED at re-cut (was an OPEN POINT flagged for Agent 4; Agent 4 ruled for the profile). profiles/genres/varta.md, under '## Explanation unit — one ઘટના', rules that 'A single sentence that turns everything IS its own topic' and names this very chapter's closing ‘‘ચક્રવ્યૂહ તૂટ્યો પણ આપણો ભડવીર ખૂટ્યો !’’ as the instance. Agent 1 placed that sentence inside the twelfth marker, together with the rule-breaking attack; the first cut therefore carried it as concept C15 inside the marker's single topic. It is now promoted to its own topic M3.S6.T13, keeping concept id C15 re-prefixed as M3.S6.T13.C15 and carrying the SAME marker as T12. reference/explanation_unit_map.md cutting rule 3 licenses this — a unit that does two clearly different things may split, and only દુહો and પદ may never be split. The chapter's own text backs the profile three times over: that sentence is the printed [[શીર્ષક]], it is this chapter's guiding_question, and a printed exercise asks the child why the chapter carries that title. Nothing else in the cut moved: T1–T11 are untouched, module and segment counts are unchanged, and the concept total stays fifteen.",
+    "Pre-topic hook applied once (agents/02_structure.md rule 4; explanation_unit_map.md rule 2). Line 42 — ‘એકવાર અભિમન્યુએ શ્રીકૃષ્ણમામાને પૂછ્યું - ‘‘મામા ! ચક્રવ્યૂહ એટલે શું ?’’’ — is printed at the foot of the third marker's block on p. 11, but it is the question the fourth marker answers on p. 12, and the fourth marker is itself named ‘ચક્રવ્યૂહ એટલે શું ?’. It therefore opens M1.S2.T4, whose source lines are recorded as '42, 49-55'. Agent 5: T3's verbatim ends at line 40; do not carry line 42 into it, and do not drop it.",
+    "The three [[સંવાદ]] scenes were NOT merged into their neighbouring ઘટના and were not cut mid-exchange. M1.S1.T3 is the uncles' teasing over whose intelligence the boy has; M1.S2.T4 is the definition of ચક્રવ્યૂહ and the boy's request to be taught it; M2.S4.T7 is the enemy council where the plan is made. Each is a plot beat with its own small arc, and every speaker keeps the printed attribution — including the page's own inconsistency શ્રીકૃષ્ણએ કહ્યું / શ્રીકૃષ્ણે કહ્યું, which is Agent 5's to preserve, not to normalise.",
+    "Modules are the story's three large movements, not a size split. M1 is the childhood at the mama's house and the knowledge that stays incomplete — the chapter's ગૂંચ, planted long before it matters. M2 is the war, the ચક્રવ્યૂહ and the trick that removes the one man who can break it. M3 is the boy taking it on alone. Segment and topic counters run across the whole chapter and never restart (M1.S1 → M1.S2 → M2.S3 → M2.S4 → M3.S5 → M3.S6; T1 → T13).",
+    "M2.S3 holds a single topic. That is the printed shape, not an oversight: the whole cause of the war, the two armies, Bhishma's ten days and Drona's appointment are one continuous printed paragraph (line 71) and one marker. It is not padded out and it is not folded into S4, whose beats belong to the counter-plan.",
+    "topic_category after the re-cut: 'climax' on M3.S6.T12, 'resolution' on M3.S6.T13. 01_meta.json records TWO turns ('વળાંક બે વાર આવે છે') — the plan to challenge Arjun away, and the rule-breaking mass attack at the end. The first turn is carried by M2.S4.T7/T8 and is marked 'core'; the decisive turn, where the story changes direction, is the નિયમભંગ of line 117, so 'climax' sits on T12 alone. Line 119 is what follows from it — the boy fighting to his last moment, closing his eyes satisfied, and યુધિષ્ઠિર naming what the victory cost — so T13 is 'resolution'. M2.S3.T6 carries 'transition' because that is where the chapter jumps years ('વર્ષો વીત્યાં.') from Dwarka to Kurukshetra. Note for Agents 12/13: varta.md avoid-gate 4 (no earlier topic names the outcome) binds T1–T11; the outcome itself is stated in T12 and named in T13.",
+    "Two topics carry two concepts each; the other eleven carry one. M1.S2.T5 does two separable things — the womb-lesson interrupted by a sleeping mother, and the years afterwards in which the boy memorises every યુક્તિ-પ્રયુક્તિ and still never gets the full ભેદ. M2.S3.T6 likewise — why the war happened at all (હક, કલહ, ‘‘સોયની અણી જેટલી જમીન પણ હું પાંડવોને નહિ આપું !’’) and the battlefield that results, down to Bhishma's fall and Drona's appointment. The former third case, M3.S6.T12, is no longer double: its two concepts were the rule-breaking attack and the closing sentence, and the closing sentence is now a topic of its own, so T12 keeps C14 and T13 holds C15. Nowhere was a third concept wanted, so the cut was not revisited further.",
+    "The concept counter is chapter-continuous per reference/phase2_contract.md: C1 (T1), C2 (T2), C3 (T3), C4 (T4), C5+C6 (T5), C7+C8 (T6), C9 (T7), C10 (T8), C11 (T9), C12 (T10), C13 (T11), C14 (T12), C15 (T13). The promotion of C15 to its own topic re-prefixed the id to M3.S6.T13.C15 and did NOT renumber it to .C1 — the counter is chapter-continuous, never per-topic. Concept number therefore stops matching topic number from T6 onward — that is the contract, not a defect.",
+    "topic_type is STORY_TELLING for all thirteen. Std 7 prints no child-addressed લેખક-પરિચય paragraph (that is the std-10 pattern) and this chapter's credit slot reads only '- સંકલિત', so there is no CONCEPT topic; the chapter prints no in-text wrap or value summary, so there is no REVIEW topic either.",
+    "difficulty is relative inside this chapter and is set by what stops a std-7 L2 reader on the page, never by craft (profiles/students/std-7.md §1–2 — the craft ceiling means no topic here is 'hard' for a device it may not name). hard: M2.S3.T6, the chapter's longest single block, crowded with proper names (ભીષ્મપિતામહ, દ્રોણગુરુ, કૃપાચાર્ય, શકુનિ, શલ્ય, કર્ણ, અશ્વત્થામા, ધૃષ્ટદ્યુમ્ન, સાત્યકિ, દ્રુપદ, ઈરેવાન) and તત્સમ war vocabulary plus the idiom પલ્લું ભારે થવું; M3.S5.T9, one long unbroken speech turning on a double negative ('જેટલું છે એટલું પણ ઓછું નથી') with વિનોદ, લાચાર and ખોટ પુરાઈ જશે; M3.S6.T12, જોડાક્ષર-dense and carrying પ્રતિષ્ઠા, નીતિનિયમોને નેવે મૂકીને, ઉપરાઉપરી and a chain of six proper names in one sentence; and M3.S6.T13, short but carrying ઝઝૂમ્યો, નિર્ણાયક ભૂમિકા, વીરગતિ, નિસાસો and — the real stopper — ખૂટ્યો in a shifted sense the printed શબ્દાર્થ box itself has to gloss as '(અહીં) ખોટ પડવી'. medium: T1 (a long paragraph, બાણાવળી, વિચક્ષણ, રોકટોક), T4 (ચક્રવ્યૂહ, આંતરીને, ભેદતાં, કુશળ), T5 (ભગિની, અધવચ્ચે, યુક્તિ-પ્રયુક્તિ, સંપૂર્ણ), T7 (ત્રિગર્ત, બંદી, લલકારીશું, ક્ષત્રિય પરંપરા), T11 (પરાક્રમ, જનેતા, ઠેકઠેકાણે, ડગ્યો). easy: T2, T3, T8, T10 — short printed sentences, short question turns, and in T10 words the printed શબ્દાર્થ box already glosses (બખતર, શિરસ્ત્રાણ).",
+    "depends_on records real dependence only, and half the topics carry []. T3 depends on T2 because the uncles' teasing is a reply to the હળ question. T5 depends on T4 because line 58 answers the question line 55 asks ('કેમ હસો છો મામા ?'). T7 depends on T6 (the plan is made because Bhishma has fallen and Drona is now સેનાપતિ), T8 on T7 (the plan executed). T9 depends on T5 as well as T8 — the boy's own argument back-references his partial knowledge in so many words ('મને ભલે ચક્રવ્યૂહનું પૂરતું જ્ઞાન નથી, પરંતુ જેટલું છે એટલું પણ ઓછું નથી'), which is exactly the dependence agents/02_structure.md asks to be recorded. T10, T11 and T12 follow their predecessor in the same continuous action. T13 depends on T12 for the reason agents/02_structure.md names explicitly — a વળાંક depends on the ઘટના that set it up: યુધિષ્ઠિર's sentence is a response to the નિયમભંગ and the death it caused, and read without line 117 it says nothing. T1, T2, T4 and T6 carry [].",
+    "Craft-label ceiling honoured (profiles/students/std-7.md §2 genre gate; teaching_lens_map.md 'Craft-naming gate by standard'): no objective, module, segment, topic or concept name in this file uses an અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label. The intro box's own words 'વીરરસભરી પૌરાણિક કથા' are quoted in not_cut_as_topics as genre evidence only and are deliberately kept out of every child-facing name. figures_of_speech stays [] for this chapter at std 7.",
+    "No numbers in any display name (global_content_rules.md rule 4). The chapter's own ordinals and counts were replaced by content-descriptive wording — 'એક પછી એક ભેદાતા કોઠા' rather than a count of કોઠા, and O12 says 'યુદ્ધના બધા નીતિનિયમો નેવે મૂકીને ભેગા મળીને' rather than naming the six warriors the printed line counts. The digits that survive are in ids, page/line provenance and chapter_id only.",
+    "Objectives are one per topic, thirteen in all, each 12–30 Gujarati words and each grounded in a printed line of THIS chapter — the કુંતીજી sentence, the હળ question, ‘‘બુદ્ધિ તો એના બાપની છે !’’, શ્રીકૃષ્ણ's definition of ચક્રવ્યૂહ, the sleeping-mother exchange, ‘‘સોયની અણી જેટલી જમીન…’’, Sushrama's motive, the unfinished ‘હવે... ?’, ‘‘હું છું ને !’’, the રણવેશ list, ‘વાહ!’ / ‘ધન્ય હો તારી જનેતાને !’, the પ્રતિષ્ઠા motive behind the નિયમભંગ, and the closing sentence. O12 was narrowed at the re-cut to the નિયમભંગ alone so that it does not reach across into T13's scene, and the new O13 asks only about યુધિષ્ઠિર's sentence and the printed word ખૂટ્યો. None of them would fit another chapter. Bloom is Capitalised here per phase2_contract.md and ladders Remember → Understand → Analyze across the chapter without ever being capped for the tier (profiles/students/std-7.md §3).",
+    "Sensitivity carried forward for Agents 8/12/13, echoing 01_meta.json's own flag: the hero dies on the page, killed by named warriors who break the rules of war, and one printed exercise sends the child to ask elders how Arjun took revenge. Flag-and-guide, never censor — teach the ઘટના and the વળાંક, keep every answer text-grounded, and do not let the revenge frame become the lesson. This is a પૌરાણિક કથા: varta.md avoid-gate 5 forbids debunking or verifying it, and avoid-gate 2 forbids closing any field on a tacked-on બોધ. The chapter states its own meaning in યુધિષ્ઠિર's sentence; that sentence is now its own topic, M3.S6.T13 / C15 — quoted and taught, never replaced by an authored moral.",
+    "Note for Agent 5 on the shared marker: the twelfth marker's block splits at the printed paragraph break between line 117 and line 119. M3.S6.T12's verbatim is line 117 only — it ends at ‘…ઉપરાઉપરી ઘા મારીને એની હત્યા કરી.’ M3.S6.T13's verbatim is line 119 only — it begins at ‘જીવનની છેલ્લી ક્ષણ સુધી…’ and ends at the closing ‘‘ચક્રવ્યૂહ તૂટ્યો પણ આપણો ભડવીર ખૂટ્યો !’’ with its printed double quotation marks kept. The marker line itself is not verbatim and enters neither chunk, and no line of the block is dropped or copied twice.",
+    "Uneven topic length, recorded for Agent 13 and not blocking: M1.S1.T2, M2.S3.T6, M2.S4.T8, M3.S6.T12 and M3.S6.T13 are each a single printed paragraph while M1.S2.T5 and M2.S4.T7 each run eleven printed lines of dialogue. M3.S6.T13 is the shortest topic in the chapter — three printed sentences — and it is deliberately so: profiles/genres/varta.md makes the turning sentence a topic because of what it carries, not because of its length. The lengths follow the printed beats; no beat was split or padded to even them out. M2.S3.T6 is the one topic whose single paragraph is very dense, and its two concepts exist to give Agent 12 two handles on it rather than one overloaded explanation.",
+    "No teaching prose, summary or recall question was written here — explanation and real_life_example are Agent 12's, original_chunk is Agent 5's and stays empty in this file, and key_terms / content are left as empty shells on every concept."
+  ]
+}

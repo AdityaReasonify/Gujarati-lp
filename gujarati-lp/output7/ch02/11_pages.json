@@ -1,0 +1,6 @@
+{"textbook":"ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 7",
+ "textbook_url":"../Textbooks-pdf/std-7/ch-02-tran-saval.pdf",
+ "textbook_pages":"5–10",
+ "source":"printed folio read off renders of page-1.png (folio 5) and page-6.png (folio 10) of the chapter PDF; cross-checked against ../Textbooks-pdf/std-7/manifest.json row for ch-02-tran-saval.pdf (printed_start 5, pdf_start 18, pdf_end 23 -> printed_start + (pdf_end-pdf_start) = 10, agrees with the read folio)",
+ "confidence":"high",
+ "gaps":["textbook_url is a local path — the GSEB readers have no hosted URL"]}

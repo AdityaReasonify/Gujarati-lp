@@ -1,0 +1,462 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati7_ch10",
+  "plan_id": "gseb_eng_gujarati7_ch10_v1",
+  "grade": 7,
+  "chapter_name": "ભાઈબંધી",
+  "genre": "varta",
+  "genre_subform": "પ્રાણીકથા (અનુવાદિત વાર્તા)",
+  "active_genre_profiles": [
+    "varta.md"
+  ],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "ગોરિયો સાજો થયો એ ચમત્કાર દાક્તરની ગોળીએ કર્યો કે ગોલુની ભાઈબંધીએ ?",
+  "explanation_unit": "એક ઘટના",
+  "cut_summary": {
+    "reading_markers_in_normalized": [
+      "[[ઘટના: દગડુ આહીરનું સંતોષી ઘર અને બે વહાલાં — ગોલુ અને ગોરિયો]]",
+      "[[ઘટના: ગોલુ ને ગોરિયાની ભાઈબંધી અને દગડુનો દૂધનો નિયમ]]",
+      "[[ઘટના: ગોરિયો માંદો પડે છે — ઘર સૂમસામ થઈ જાય છે]]",
+      "[[ઘટના: ડૉક્ટરની તપાસ અને એની ચેતવણી]]",
+      "[[ઘટના: શાંતાનો ઉપાય — દવાવાળું પાણી, અને અસર ન દેખાવી]]",
+      "[[ઘટના: અડધી રાતે ગોલુ ભીના કોથળા પાથરે છે — વાર્તાનો વળાંક]]",
+      "[[ઘટના: સવારે ગોરિયો સાજો — ચમત્કાર દવાનો કે ભીના કોથળાનો ?]]"
+    ],
+    "reading_markers_count": 7,
+    "topics": 7,
+    "segments": 5,
+    "modules": 3,
+    "concepts": 13,
+    "objectives": 7,
+    "non_topic_markers": [
+      "શીર્ષક-લીટી '# 10 ભાઈબંધી' અને એની નીચેની લેખક-લીટી '- શિરીષ પદ્માકર, અનુ. આશા વીરેન્દ્ર' — છપાયેલી હેડર-સામગ્રી, વાચનદૃશ્ય નહીં",
+      "[[પ્રવેશપેટી (શિક્ષક માટેની વાદળી પેટી — વાચનદૃશ્ય નથી)]]",
+      "[[શબ્દાર્થ]] — પાઠ પછીની પેટી, 11 શીર્ષ-શબ્દો",
+      "[[રૂઢિપ્રયોગ]] — શબ્દાર્થ પેટી નીચેની પેટી, 4 રૂઢિપ્રયોગ",
+      "[[સ્વાધ્યાય: …]] × 12 (વાતચીત … નીચેનાં વાક્યોમાં કયો ભાવ રહેલો છે ?)",
+      "[[વ્યાકરણપેટી: વાક્યના પ્રકારો (એકમના અંતે છપાયેલી પેટી — વાચનદૃશ્ય નથી)]]"
+    ],
+    "tek_occurrences": 0,
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0,
+    "ghatna": 7
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દગડુ રોજ જમતાં પહેલાં શાંતાને કયા બે સવાલ પૂછતો તે પાઠમાંથી શોધીને, એ ટેવ ઘરમાં ચંદેરી અને ગોરિયાનું સ્થાન શું છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1",
+        "M1.S1.T1.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શાળાએથી આવીને ગોલુ પહેલાં ક્યાં પહોંચી જતો તે કહી, ચંદેરીના દૂધ પર પહેલો હક્ક કોનો છે એ દગડુના પોતાના વેણમાંથી સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C3",
+        "M1.S1.T2.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગોરિયો માંદો પડતાં ઘરમાં શું શું બંધ થઈ ગયું તે પાઠની પંક્તિઓમાંથી શોધીને, શાંતાએ દાક્તર બોલાવવાની ઉતાવળ કેમ કરી તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": [
+        "M2.S2.T3.C5",
+        "M2.S2.T3.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ડૉક્ટરે તપાસ કરીને ગોરિયા વિશે કઈ ચેતવણી આપી અને એણે કઈ મુદત બાંધી આપી તે એના પોતાના શબ્દોમાંથી શોધીને કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": [
+        "M2.S2.T4.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મોઢું ન ખોલતા ગોરિયાને ગોળી ખવડાવવા શાંતાએ કઈ યુક્તિ કરી તે વર્ણવીને, દવા આપ્યા પછીયે ઘરની ચિંતા કેમ ઓછી ન થઈ તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C8",
+        "M2.S3.T5.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અડધી રાતે ગોલુએ ગોરિયાની પીઠ પર ભીના કોથળા શા માટે પાથર્યા તે એના પોતાના જવાબમાંથી તારવીને, એ કૃત્ય વાર્તાને કઈ દિશામાં વાળે છે તે તપાસવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S4.T6",
+      "anchor": [
+        "M3.S4.T6.C10",
+        "M3.S4.T6.C11"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "તાવ ઊતર્યા પછી દાક્તર શું કહે છે અને દગડુ મનમાં શું વિચારે છે તે સરખાવીને, વાર્તા અંતે કયો સવાલ ખુલ્લો રાખે છે તે તપાસવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T7",
+      "anchor": [
+        "M3.S5.T7.C12",
+        "M3.S5.T7.C13"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "એક છાપરા નીચેનાં ચાર જીવ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "રોજની પૂછપરછવાળું સંતોષી ઘર",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "જમતાં પહેલાં પુછાતા બે સવાલ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: દગડુ આહીરનું સંતોષી ઘર અને બે વહાલાં — ગોલુ અને ગોરિયો]]"
+              ],
+              "source_lines_00_normalized": "14-18",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "આર્થિક ભીંસ છતાં આનંદથી ભરેલું દગડુ આહીરનું ઘર",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S1.T1.C2",
+                  "concept_name": "મૂંગા જીવોને ધરવ્યા વિના કોળિયો ન લેવાની ટેવ",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "દફતરનો ઘા કરીને પહોંચી જવાતી દોસ્તી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: ગોલુ ને ગોરિયાની ભાઈબંધી અને દગડુનો દૂધનો નિયમ]]"
+              ],
+              "source_lines_00_normalized": "21-25",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C3",
+                  "concept_name": "પૂંછડી હલાવતો ભાઈબંધ અને એની દિનચર્યાનો હિસાબ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S1.T2.C4",
+                  "concept_name": "ચંદેરીના દૂધ પર વાછરડાનો પહેલો હક્ક",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "ગોરિયાની માંદગી અને દવાની ન દેખાતી અસર",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "સૂમસામ ઘર અને દાક્તરની ચેતવણી",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "બે દિવસથી સૂમસામ થઈ ગયેલું ઘર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: ગોરિયો માંદો પડે છે — ઘર સૂમસામ થઈ જાય છે]]"
+              ],
+              "source_lines_00_normalized": "28-32",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C5",
+                  "concept_name": "બંધ થઈ ગયેલી બૂમાબૂમ, ઊછળકૂદ અને આકળ-વિકળ ચંદેરી",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S2.T3.C6",
+                  "concept_name": "ઘરના પોતાના ઉપાય અને દાક્તર બોલાવવાની શાંતાની માગણી",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "ભારેખમ ચહેરે અપાયેલી એક રાતની મુદત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S2.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: ડૉક્ટરની તપાસ અને એની ચેતવણી]]"
+              ],
+              "source_lines_00_normalized": "35-37",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C7",
+                  "concept_name": "કાલની સવાર સુધીની મુદત બાંધી આપતી ડૉક્ટરની વાત",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "દવાવાળું પાણી અને લાચાર રાહ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "બાટલીમાં ભરાયેલી દવા અને ન ઊતરતો તાવ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S2.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: શાંતાનો ઉપાય — દવાવાળું પાણી, અને અસર ન દેખાવી]]"
+              ],
+              "source_lines_00_normalized": "40-44",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C8",
+                  "concept_name": "ગોળીનો ભૂક્કો પાણીમાં ભેળવીને પિવડાવવાની શાંતાની યુક્તિ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T5.C9",
+                  "concept_name": "વારેઘડીએ જોવા છતાં ન દેખાતી અસર અને ગળે ન ઊતરતો કોળિયો",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "રાતના ભીના કોથળા અને સવારનો ખુલ્લો સવાલ",
+      "segments": [
+        {
+          "segment_id": "M3.S4",
+          "segment_name": "અડધી રાતે થયેલું કામ",
+          "topics": [
+            {
+              "topic_id": "M3.S4.T6",
+              "topic_name": "ગોરિયાની પીઠ પર પથરાયેલા ભીના કોથળા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T5"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: અડધી રાતે ગોલુ ભીના કોથળા પાથરે છે — વાર્તાનો વળાંક]]"
+              ],
+              "source_lines_00_normalized": "47-51",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T6.C10",
+                  "concept_name": "કંતાનના કોથળા, બાલદી અને લોટાથી ચાલતું રાતનું કામ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S4.T6.C11",
+                  "concept_name": "કપાળે મુકાયેલાં પોતાંની યાદમાંથી જડેલો ઉપાય",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "તાવ ઊતર્યા પછીની સવાર",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T7",
+              "topic_name": "માના આંચળે વળગેલો ગોરિયો અને દગડુનો સવાલ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": [
+                "M3.S4.T6"
+              ],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: સવારે ગોરિયો સાજો — ચમત્કાર દવાનો કે ભીના કોથળાનો ?]]"
+              ],
+              "source_lines_00_normalized": "54-58",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T7.C12",
+                  "concept_name": "ઘંટારવ જેવો લાગતો ધાવવાનો અવાજ અને ચંદેરીની આંખના રેલા",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S5.T7.C13",
+                  "concept_name": "દાક્તરના જવાબ સામે દગડુના મનમાં ખુલ્લો રહેતો સવાલ",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "not_cut_as_topics": [
+    "શીર્ષક-લીટી '10 ભાઈબંધી' અને એની નીચે છપાયેલી લેખક-લીટી '- શિરીષ પદ્માકર, અનુ. આશા વીરેન્દ્ર' — હેડર-સામગ્રી, વાચનદૃશ્ય નહીં. લેખક-લીટી શીર્ષકની નીચે છપાયેલી છે, પાઠના અંતે નહીં, એટલે એ કોઈ ટૉપિકના original_chunkમાં જતી નથી — Agent 5 માટેની નોંધ. varta.md avoid-gate 8 મુજબ શિરીષ પદ્માકર લેખક છે અને આશા વીરેન્દ્ર અનુવાદક; બંને લીટીઓ છપાયેલી છે તેમ જ રહે.",
+    "[[પ્રવેશપેટી]] — શિક્ષક-સંબોધિત વાદળી પેટી ('માણસ અને પ્રાણી વચ્ચે બંધાતા સ્નેહસંબંધની આ વાર્તા છે…'). પાના પરનો સૌથી મજબૂત સ્વરૂપ-સંકેત છે અને 01_meta.jsonના genre_signals.purposeનો સ્રોત છે, પણ એ apparatus છે : key_terms અને ભાષા-બોધને ખવડાવે છે, ટૉપિક કદી બનતી નથી. એની સૂચના ('પ્રાણીઓ પ્રત્યે સંવેદનો જાગે એ અભિપ્રેત છે') કોઈ explanationના અંતે બોધ બનીને ન મુકાય — varta.md avoid-gate 2.",
+    "[[શબ્દાર્થ]] પેટી, 11 શીર્ષ-શબ્દો — દિનચર્યા, છાપરું, સૂમસામ, આકળવિકળ, ઊછળકૂદ, હક્ક, ગુમસૂમ, વારેઘડીએ, બાલદી, ઘંટારવ, તસતસવું. Apparatus : key_terms અને point-of-use gloss માટે, ટૉપિક નહીં.",
+    "[[રૂઢિપ્રયોગ]] પેટી, ચાર રૂઢિપ્રયોગ — ચિંતામાં ડૂબી જવું, આંખ મળવી, ઝોકાં ખાવાં, આંસુ ધસી આવવાં. Apparatus. ચારેય પાઠનાં જ વાક્યોમાંથી આવે છે (અનુક્રમે M2.S2.T4, M3.S4.T6, M3.S4.T6, M3.S5.T7), એટલે એ પહેલા વપરાશના સ્થળે glossing માટે પ્રથમ પસંદગી છે — પણ ટૉપિક નહીં.",
+    "બાર ક્રમાંકિત સ્વાધ્યાય બ્લૉક (વાતચીત … 'નીચેનાં વાક્યોમાં કયો ભાવ રહેલો છે ? કૌંસમાંથી શોધીને લખો.') 01_meta.jsonના exercise_inventoryમાં જ રહે છે અને એ Agent 10નું જ કામ છે. સાતમા બ્લૉક ('આપેલા ફકરાના આધારે…')માં M2.S3.T5નો ફકરો સહેજ ફેરફાર સાથે ફરી છપાયો છે — એ સ્વાધ્યાય-લખાણ છે, વાર્તાનું બીજું વાચન નથી, અને એને કોઈ ટૉપિકના કાપમાં ભેળવ્યું નથી.",
+    "[[વ્યાકરણપેટી: વાક્યના પ્રકારો]] — એકમના અંતે પોતાના બૅનર નીચે છપાયેલી પેટી (નિર્દેશાર્થ, આજ્ઞાર્થ, વિધ્યર્થ વાક્ય). Apparatus / ભાષા-બોધ અને Agent 10ની સામગ્રી; વાચનદૃશ્ય નહીં, ટૉપિક નહીં. દસમો, અગિયારમો અને બારમો સ્વાધ્યાય-બ્લૉક આ પેટીને જ તપાસે છે."
+  ],
+  "notes": [
+    "Cut by the સ્વરૂપ's own unit, not by habit. 01_meta.json sets explanation_unit 'એક ઘટના' and varta.md says 'One plot beat per topic … follow the story's turns, not paragraph counts'. The rendered page agrees with agents/02_structure.md's prior row for વાર્તા — ગદ્ય, નામવાળાં પાત્રો (દગડુ, શાંતા, ગોલુ, ચંદેરી, ગોરિયો, ઢોરના ડૉક્ટર), ઘટના-સાંકળ, વળાંક, પરિણામ. No disagreement with the profile prior to report.",
+    "Marker count vs topic count is 1:1 and nothing was swallowed or invented. 00_chapter_normalized.md carries exactly SEVEN reading-scene markers, all [[ઘટના: …]], and this file carries seven topics, one per marker. 01_meta.json's structure_inventory.ghatna = 7 matches; kadi / duha / pad / tek_occurrences are all 0, and there is no verse anywhere in the unit, so no verse-side cut applies.",
+    "પ્રાણીકથા and અનુવાદિત વાર્તા are SUB-FORMS of varta, not profiles of their own (varta.md §'Index constraint'). They move the Media and Language priors — 'the animal is a character, not a device', and the translator credit is attribution, not authorship — but NOT the cut. root genre is written as the slug 'varta'; 01_meta.json's Gujarati label વાર્તા is preserved in that meta file.",
+    "topic_category 'climax' sits on M3.S4.T6 because that is where 01_meta.json records the વળાંક and where the page marks it: ગોલુ gets up at midnight, lays કંતાનના કોથળા on ગોરિયાની પીઠ and pours water from a લોટો, and then explains why — 'આઈએ આખી રાત જાગીને મારે કપાળે પોતાં મૂક્યાં હતાં … મને થયું કે કદાચ એવી રીતે ગોરિયાનો તાવ પણ ભાગી જાય તો કેવું સારું !'. NOTE FOR AGENTS 12/13 — varta.md avoid-gate 4 (no topic before the climax names the outcome) therefore binds M1.S1.T1, M1.S1.T2, M2.S2.T3, M2.S2.T4 and M2.S3.T5: none of their explanation / summary / recall text may say that ગોરિયો recovers, that the fever comes down, or that the doctor returns satisfied. The topic names above were written to keep that gate intact — M2.S3.T5 is named for the state at that point ('ન ઊતરતો તાવ'), not for what follows.",
+    "SENSITIVITY NOTE, carried forward from 01_meta.json and binding on every later agent. The chapter deliberately keeps two explanations of the recovery side by side and never resolves them — the doctor says 'દવાએ બરાબર અસર કરી' and દગડુ thinks 'ચમત્કાર તો થયો જ પણ એ દાક્તરની ગોળીએ કર્યો કે ગોલુના ભીના કોથળાએ એ તો ઉપરવાળો જાણે.' M3.S5.T7 is cut so that BOTH sentences sit inside the same topic; the open question is the chapter's ending, not a gap to close. Likewise the family's own world — 'કોઈની નજર લાગી ગઈ કે શી ખબર', શાંતાનું રાઈ-મીઠું ઉતારવું, દગડુના જાપ — is neither endorsed nor debunked by the page, and varta.md avoid-gate 3 forbids any evaluative label on this family. The household is named as આહીર, a pastoral community; name it as the page names it, never generically (global_content_rules.md 10).",
+    "A pre-topic hook belongs to the NEXT topic (explanation_unit_map.md rule 2, agents/02_structure.md §1). Line 28's opening clause 'આમ એક છાપરા નીચે આ બધા જીવ શાંતિથી રહેતા પણ…' looks like a tail of the settled-home beats, but the same sentence turns on 'પણ' into the two silent days — so it OPENS M2.S2.T3 and is not attached to M1.S1.T2. Similarly line 54's first sentence ('દીકરાને ગળે વળગાડતાં દગડુની આંખમાં આંસુ ધસી આવ્યાં…') is દગડુ's reply to what ગોલુ has just said, but Agent 1 set the marker above it: it opens M3.S5.T7 as printed, and the cut follows the printed marker.",
+    "Modules are the story's three large movements, not a size split. M1 holds the settled household and the friendship the title names; M2 holds the illness, the doctor's deadline and the medicine that shows no effect; M3 holds the midnight act and the morning it produces. Segment and topic counters run across the whole chapter and never restart (M1.S1 → M2.S2 → M2.S3 → M3.S4 → M3.S5; T1 → T7). The concept counter is chapter-continuous (C1 → C13), so it does not equal the topic number wherever a topic carries two concepts.",
+    "Two-concept topics, and why they are two and not one. M1.S1.T1 does two separable things — it draws the family (આર્થિક ભીંસ છતાં આનંદ - ઉલ્લાસ) AND it shows the daily habit that makes the animals members of it. M1.S1.T2 — the boy-and-calf friendship, and દગડુનો દૂધનો નિયમ, which is the father's rule and not the children's play. M2.S2.T3 — the house falling silent, and the two different responses it produces (રાઈ-મીઠું અને જાપ; દાક્તર બોલાવવાની માગણી). M2.S3.T5 — the trick that gets the medicine in, and the fact that it changes nothing. M3.S4.T6 — the physical act, and the memory it comes out of. M3.S5.T7 — the recovery itself, and the question the story closes on. M2.S2.T4 carries one concept: the doctor's warning is a single beat.",
+    "difficulty is relative INSIDE this chapter and is set by what stops a std-7 L2 reader on the page (agents/02_structure.md §5; profiles/students/std-7.md §1) — never by craft, which std 7 is not allowed to name. The two `hard` topics are the ones with the unfamiliar object-world and the જોડાક્ષર-dense lines: M2.S2.T3 (સૂમસામ, ઊછળકૂદ, સુધ્ધાં, આકળ-વિકળ, નજરાઈ જવું, ગુમસુમ, ભઈસા'બ, and the રાઈ-મીઠું ઉતારવાનો રિવાજ) and M3.S5.T7 (વ્યાકુળ, ચસચસ, ઘંટારવ, તસતસતા આંચળ, આંસુના રેલા, બેખબર, plus the inference the open ending asks for). M1.S1.T2 is `easy` — everyday narration with one elided form (દો'વાની). The remaining four are `medium`. difficulty is not a Bloom cap: M3.S4.T6 is `medium` and still carries the chapter's Analyze objective.",
+    "depends_on records real dependence only, so three topics carry []. M2.S2.T4 depends on M2.S2.T3 because the doctor comes only because શાંતા demands it there; M2.S3.T5 depends on M2.S2.T4 because the ગોળી exists only from that visit; M3.S4.T6 depends on M2.S3.T5 because ગોલુ acts at midnight after the medicine has visibly failed; M3.S5.T7 depends on M3.S4.T6 because the morning is the consequence of the night.",
+    "Objectives — one per reading scene, seven in all, each anchored on the concept(s) that teach it, all on the single strand L / ભાષા અને સાહિત્ય. Each is written from THIS chapter's printed lines (the two mealtime questions, the milk rule, the doctor's one-night deadline, the ગોળીનો ભૂક્કો, the ભીના કોથળા, the closing 'ઉપરવાળો જાણે') and would fit no other chapter in the book. The CRAFT-LABEL CEILING is respected: no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text — std 7 experiences the form and never names it (profiles/students/std-7.md §2, 'Genre gate for std 6–8'). This matters here because the chapter carries two comparisons a std-9 plan would label — 'મંદિરના ઘંટારવ જેવો' and 'તું પણ ગોરિયાની મા જેવો જ છે' — and neither is named anywhere in this file; the objectives ask the child only to notice what the sentence makes them picture. bloom_level is Capitalised here and runs Remember → Understand → Analyze; the ceiling is held by O6 on the વળાંક and O7 on the open ending, which is where varta.md's recall prior also puts the analyze rung.",
+    "Every objective serves the chapter's teaching_lens 'ઘટના + પાત્ર + વળાંક' (reference/teaching_lens_map.md): O1/O4 on what happens, O2/O3/O5 on why a character does what they do, O6 on the turn, O7 on what the turn leaves the reader holding.",
+    "No સ્વાધ્યાય block, no apparatus box and no page furniture was cut as a topic — the full list is in not_cut_as_topics. The twelve numbered blocks are printed with no સ્વાધ્યાય banner over them, which is the std 6–8 convention and not a defect; blocks ten, eleven and twelve test the chapter-final વ્યાકરણપેટી and are still exercise blocks, so they stay with Agent 10.",
+    "No page render was opened for this cut. 00_chapter_normalized.md carried every marker and every line break the boundaries needed, and the chapter has no two-column setting, no refrain shorthand and no verse.",
+    "GAP FOR AGENT 9 / AGENT 4, reported and not fixed here. 01_meta.json's extraction_notes record THREE colour illustrations inside the reading text (the courtyard with the family, ચંદેરી and ગોરિયો; the doctor examining the calf; ગોલુ laying the wet sack on ગોરિયો at night), but 00_chapter_normalized.md carries NO [[ચિત્ર: …]] markers for them, unlike other chapters in this run. The cut does not depend on them — none of the three sits inside a topic boundary in a way that would move it, and by their described content they fall inside M1.S1.T1, M2.S2.T4 and M3.S4.T6 respectively. Agent 9 should treat that mapping as reasoned from the meta description, not read off a marker.",
+    "Uneven topic length, carried as an honest note rather than fixed by splitting: M2.S2.T4 is three printed sentences of dialogue plus one narrative line, while M2.S2.T3 and M3.S5.T7 each run five paragraphs. The unit is the ઘટના, not a word count — T4 is one clean beat (the examination and the deadline) and splitting it would separate the warning from the visit that carries it.",
+    "Printed ઉ/ઊ and ભૂક્કો/ભુક્કો inconsistencies recorded by Agent 1 fall inside M2.S2.T4, M2.S3.T5 and M3.S5.T7. They are transcription matters for Agent 5, not cut matters; nothing in this file harmonises them and nothing in this file depends on them."
+  ]
+}

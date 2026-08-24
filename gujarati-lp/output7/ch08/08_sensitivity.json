@@ -1,0 +1,61 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S2.T3",
+      "areas": ["સંઘર્ષ"],
+      "caution": "The line 'મોલની માફક વાઢતા આવ્યા છીએ' (raiding his men like a crop) names the ongoing feud's real violence, and the explanation could let that line brand જોગીદાસ or હાદા ખુમાણ as criminals despite the text's sympathetic treatment.",
+      "guidance": "Keep the focus on હાદા ખુમાણનો નિર્ણય to risk an unarmed visit to the enemy he has wronged — the 'ખાનદાનીના મનસૂબા' phrase — and never let explanation, real_life_example or a recall answer apply a label like ગુનેગાર or ડાકુ to જોગીદાસ or his father.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "areas": ["સમુદાય", "ક્ષેત્ર"],
+      "caution": "The named communities 'કાઠી કણબી ને મુસદી' and the disguised entry ('માથા પર પછેડી ઢાંક્યા') could be flattened into a generic label or read as trickery to be judged.",
+      "guidance": "Use the community names exactly as printed — કાઠી, કણબી, મુસદી — never a generic term, and frame the disguised entry as the courage of walking unarmed into danger, not as deception.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "areas": ["સંઘર્ષ"],
+      "caution": "The recognition line 'ભલો વરત્યો રાજ !' is the chapter's turn and could be flattened into a simple 'they became friends' summary that erases the real danger જોગીદાસ was in, or dramatized into an us-versus-them framing.",
+      "guidance": "Explanation should keep the danger real — every man present could have killed him — and show that what changes is વજેસંગ recognising honour over vengeance, tying directly to the chapter's guiding question.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S4.T6",
+      "areas": ["સંઘર્ષ"],
+      "caution": "'તલવારોની મૂઠે સહુના હાથ ગયા' depicts drawn swords and a near-killing; the explanation could dwell on this as action or excitement rather than as the moment of maximum danger.",
+      "guidance": "Teach the drawn swords as the peak of risk that વજેસંગનો ઊંચો હાથ defuses, centring his line 'મારા ગરાસમાં નહિ, પણ મારા દુઃખમાં ભાગ લેવા આવ્યા છે' as the resolution — never as an invitation to picture or re-enact the sword-drawing.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M3.S5.T7",
+      "areas": ["સંઘર્ષ"],
+      "caution": "The townspeople's own words attribute graphic violence to bahaarvatiya ('નિર્દોષ રૈયતનાં માથાં વાઢી વાઢીને સાંતીડે ટીંગાડતો'), and explanation could either elaborate this violence or use it to brand જોગીદાસ a criminal, undercutting the text's own admiring close 'સાચે લખમણ જતિનો અવતાર !'.",
+      "guidance": "Teach this passage as the crowd's own astonishment at the gap between the rumoured બહારવટિયો and the જતિ-like man they actually see, without the explanation itself narrating or expanding the violent imagery.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "areas": ["ક્ષેત્ર"],
+      "caution": "The collective ritual bath after news of death ('સહુ બહારવટિયાઓએ ફાળિયાં પહેરીને નદીમાં માથાબોળ સ્નાન કર્યું') and public mourning ('છાતીફાટ વિલાપ') could be presented as a strange or dated custom rather than a living regional practice.",
+      "guidance": "Explain 'સનાન' as this community's own way of standing with a grieving family, on its own terms exactly as the chapter presents it, not as a curiosity.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "સંઘર્ષ",
+      "guidance": "Across the chapter જોગીદાસ ખુમાણ is a બહારવટિયો the text treats with dignity and the opposing વજેસંગ મહારાજ with respect; no field may call જોગીદાસ ગુનેગાર or ડાકુ, or frame વજેસંગ as merely 'the enemy' — the story's own point is that honour crosses the 'દુશ્મન' line, so teaching should carry courage, ત્યાગ and ખાનદાની, never jingoism or the wound of the feud."
+    },
+    {
+      "area": "સમુદાય",
+      "guidance": "જોગીદાસ ખુમાણ, હાદા ખુમાણ and વજેસંગ મહારાજ are real Saurashtra figures from ઝવેરચંદ મેઘાણીની લોકકથા-પરંપરા, and 'કાઠી' and 'રાજપૂત' are real named communities in the text — use their own names as printed, never a generic label, keeping the book's own respectful register."
+    },
+    {
+      "area": "ક્ષેત્ર",
+      "guidance": "The chapter's Saurashtra practices and તળપદા words — ખરખરો, સનાન, ડાયરો, ફાળિયું — are this region's own vocabulary and custom, glossed as the intro box itself instructs ('આ પાઠમાં વપરાયેલા તળપદા શબ્દોનો બાળકોને ખાસ પરિચય કરાવવો'), never modernised or treated as exotic."
+    }
+  ],
+  "none_found": false
+}

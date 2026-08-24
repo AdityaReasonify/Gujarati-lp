@@ -1,0 +1,211 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Both voices: `explanation` must name both speakers whose quoted words stand in this topic's `original_chunk` — `પુરુષોત્તમભાઈ` and `સવજીભાઈ` — and report what each says: that પુરુષોત્તમભાઈ, back after `અઢી દાયકા`, sees that `ગામની સિકલ ફરી ગઈ છે`, and that સવજીભાઈ gives the `શ્રેય` to `સંસ્કારભાઈ`. A one-voice account of this two-voice opening fails.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "No frame-as-વાર્તા: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may ask or answer why પુરુષોત્તમભાઈ came back after `પરદેશમાં પચીસેક વર્ષ`, what he decided, or what happens to him next, and no field may call this opening a વળાંક or a story's beginning. `topic_category` stays `introduction`; the topic's subject is what the two men report about the village.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "No added facts: no field may name the village, the `પરદેશ` country, a state or a district, nor give સંસ્કાર an age, a surname, a school name or a year. The chunk prints only `નવા શિક્ષક આવેલા એમનો દીકરો`, `છઠ્ઠા ધોરણમાં હતો`, `એના પોતાના ગામમાં તો હરિયાળી હતી` and `આપણો તો સૂકો વિસ્તાર`.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "No answering from the intro box: this is the chapter's opening topic, so no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may state the teacher-addressed પ્રવેશપેટી's sentence `પર્યાવરણનું જતન અને સંવર્ધન એ આપણી ફરજ છે` (or a paraphrase of it) as what this topic teaches. What this topic teaches is what the two men actually say about the changed village and about whose work it was.",
+          "profile": "mahitiprad_gadya",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક 'સંસ્કાર' ને છોકરાનું નામ નહીં, પણ 'સારા ગુણ-ટેવ' એવો ભાવવાચક શબ્દ સમજે છે — હિન્દીમાં પણ એણે એ જ અર્થ સાંભળ્યો છે. એટલે એકમનું નામ 'સંસ્કારે સર્જ્યું સ્વર્ગ' એને 'સારા સંસ્કારથી સ્વર્ગ બને' એવો ઉપદેશ લાગે છે, ને આખો પાઠ એક છોકરાની મહેનતની હકીકત છે એ જ ચુકાઈ જાય છે.",
+      "correction": "સમજૂતીના પહેલા જ વાક્યમાં 'સંસ્કાર — અહીં એ છોકરાનું નામ છે' એમ ગ્લોસ કરો અને એ ગ્લોસ `key_terms` માં પણ મૂકો. ઓળખ પાઠના પોતાના શબ્દોમાં જ આપો — નવા શિક્ષકનો દીકરો, જે ગામમાં આવ્યો ત્યારે છઠ્ઠા ધોરણમાં હતો. પછી 'આ ફેરફારનું તમામ શ્રેય સંસ્કારભાઈને જાય છે' ટાંકીને બતાવો કે શ્રેય એક માણસને મળે છે."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "No tacked-on બોધ: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may close on a sentence of the form `આપણે પણ છોડ ઉછેરવા જોઈએ` / `મહેનત કરવી જોઈએ` / `આ પાઠ આપણને શીખવે છે…`. સંસ્કારનો સંકલ્પ is reported as his, in the chunk's own words `એણે તો વાવેલા છોડને ઉછેરવાનો સંકલ્પ લીધો`, and never issued to the child.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "No preaching: no `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary` or `recall_questions[].answer` may address the child with a directive — `…વાવો`, `…સંભાળ રાખો`, `તમારે … જોઈએ`, `આપણે … જોઈએ`. પુરુષોત્તમભાઈ's own reproach `એ છોડ ઊછરે એની દરકાર ક્યાં લેતા?` stays his line, spoken about the past, and is never turned on the reader.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "No flattened opponent: no field may attach a judging word (`બેદરકાર`, `આળસુ`, `બેજવાબદાર`, `સ્વાર્થી`) to the villagers or to પુરુષોત્તમભાઈ for the old habit the chunk names — `છોડ વાવવામાં જ રસ લેતા`. The habit is stated as the chunk states it; only the habit, never the people, is weighed.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "No device named, and no craft label at std 6: `figures_of_speech` is `[]` or quotes exact words from this `original_chunk`, and no `explanation`, `concept_bullets` line, `key_terms` entry or recall `answer` may attach a label (`સજીવારોપણ`, `ઉપમા`, `અલંકાર`) to `આ લીલાંછમ ઝાડ પણ જાણે બોલે છે`. The line may be noticed sensorially — `ઝાડ જાણે શું કહેતાં હોય એવું લાગે છે ?` — and never named.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'વાવવું' અને 'ઉછેરવું' ને એક જ કામ સમજે છે. એટલે પુરુષોત્તમભાઈની આખી વાત — 'છોડ વાવવામાં જ રસ લેતા, પણ એ છોડ ઊછરે એની દરકાર ક્યાં લેતા?' — એને બે સરખા શબ્દોનું પુનરાવર્તન લાગે છે, ને સંસ્કારના સંકલ્પમાં નવું શું છે તે પકડાતું જ નથી.",
+      "correction": "પહેલા વાક્યમાં જ બંને શબ્દ સામસામે ગ્લોસ કરો — 'વાવવું — છોડ જમીનમાં મૂકવો' ને 'ઉછેરવું — વાવ્યા પછી છોડ મોટો થાય ત્યાં સુધી રોજ સંભાળ લેવી' — અને બંને `key_terms` માં મૂકો. પછી પાઠની પોતાની વિગત વાપરીને 'ઉછેરવું' શું માગે છે તે દેખાડો: રોજ વહેલી સવારે ને સાંજે પહોંચી જવું, જાતે પાણી ઉપાડી લાવવું."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "No tacked-on બોધ: the two કહેવત printed in this chunk — `'જાત મહેનત ઝિંદાબાદ'` and `'પારકી આશ સદા નિરાશ.'` — may appear in `explanation`, `summary`, `detailed_summary`, `concept_bullets` or a recall `answer` only inside their printed attribution (`સંસ્કારની પાસે તો એક જ વાત હતી`), never as advice issued to the child and never as this topic's closing sentence.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "No preaching: `આપણી તો ફરજ થાય ને ?` is સવજીભાઈ's own line. No `explanation`, `real_life_example`, `summary`, `detailed_summary` or `recall_questions[].answer` may rebuild it as a directive (`આપણે ફરજ બજાવવી જોઈએ`, `તમે પણ મદદ કરો`); check that no such field carries a second-person imperative or an `આપણે … જોઈએ` clause built on `ફરજ`.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "No added facts: the helpers are named exactly as printed — `શિવરામકાકા`, `સરતાનકાકા`, `શાળાનાં શિક્ષિકા સુશીલાબેન` — and no field may state what they did beyond `ઘણી મદદ કરેલી` / `પ્રોત્સાહન આપતાં`, nor give any of them a relationship, occupation, age or motive the chunk does not print.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "The spoken form is not an error: no `explanation`, `key_terms` entry, `concept_bullets` line or recall `answer` may replace `હાસ્તો !` with `હા`, mark it as બોલચાલની ભૂલ, or 'correct' it. If it is glossed at all it is glossed as the emphatic spoken form the chapter prints (`હાસ્તો — 'હા જ તો'`).",
+          "profile": "mahitiprad_gadya",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "'જાત મહેનત ઝિંદાબાદ' જેવું સૂત્ર બાળકને પાઠ તરફથી અપાયેલી શિખામણ લાગે છે — જાણે લેખક એને કહેતા હોય. એ વાક્ય કોનું છે તે ચુકાઈ જાય છે, ને 'કોણ કોણ જોડાયું' એ ખંડ 'મહેનત કરો' એવા ઉપદેશમાં ફેરવાઈ જાય છે.",
+      "correction": "પહેલા વાક્યમાં કહો કે આ સંસ્કારના પોતાના શબ્દો છે, જે સવજીભાઈ પુરુષોત્તમભાઈને કહી સંભળાવે છે — 'સંસ્કારની પાસે તો એક જ વાત હતી…'. પછી પાઠની જ છાપેલી કહેવત-યાદી પ્રમાણે 'જાત મહેનત — પોતાની મહેનત' ને 'પારકી આશ — બીજા ઉપર આધાર' એમ ગ્લોસ કરો, અને પછી ખંડની ખરી માહિતી આપો: શરૂમાં એ એકલો, પછી શિવરામકાકા, સરતાનકાકા ને સુશીલાબેન જોડાયાં."
+    },
+    {
+      "topic_id": "M1.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "No added numbers or facts: the only counts in any field are the chapter's own, written in Gujarati words exactly as printed — `એકસો દસ` ઝાડ વાવેલાં, `સાડત્રીસ` બચેલાં. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or recall `answer` may carry a numeral, a subtraction (`કેટલાં સુકાઈ ગયાં`), a percentage, an average, a year or a planting date; and `નારાયણભાઈ`, `શ્રવણભાઈ`, `ભૂરાભાઈ` get no role, relation or age the chunk does not print.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "Both voices: `explanation` must report both turns — સવજીભાઈ giving the count of the first વૃક્ષારોપણ, and પુરુષોત્તમભાઈ reading the exact figures as proof that સવજીભાઈ himself worked `કદમથી કદમ મેળવીને`. Naming only સવજીભાઈ's count loses the move this exchange makes.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "No frame-as-વાર્તા: `topic_category` here is `transition`, so no field may treat `માત્ર સાડત્રીસ બચેલાં` as a setback in a plot, ask what સવજીભાઈ or the વડીલો decided next, or name a વળાંક. The topic reports a count and its present result — `ગામનાં બધાં જ જાહેર સંકુલો આજે લીલાંછમ છે`.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'એકસો દસ' ને 'સાડત્રીસ' જેવા છાપેલા સંખ્યાશબ્દો પર બાળક અટકે છે — બોલચાલમાં આંકડા આવડે છે, પણ ગુજરાતી લિપિમાં લખેલો શબ્દ ઓળખાતો નથી — એટલે એ લીટી ઠેકી જાય છે, ને 'માત્ર સાડત્રીસ બચેલાં' પરથી એટલું જ સમજે છે કે મહેનત નિષ્ફળ ગઈ.",
+      "correction": "સમજૂતીના પહેલા વાક્યમાં બંને સંખ્યા શબ્દોમાં જ લખો ને દરેકની સાથે એ શું ગણે છે તે જોડો — 'એકસો દસ એટલે વાવેલાં ઝાડ, સાડત્રીસ એટલે બચીને મોટાં થયેલાં'. એ જ વાક્યમાં સવજીભાઈ જે બતાવે છે તેની સાથે બાંધો: 'સામે પેલાં મોટાં ઝાડ… આજે ઘેઘૂર વૃક્ષો થયાં છે.' 'ઘેઘૂર' ને `key_terms` માં 'શબ્દ — અર્થ' રૂપે ગ્લોસ કરો."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "Not a Science lesson: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or recall `answer` may explain `કલમ` or the failures in terms the chapter does not print — no grafting procedure, no rainfall in મિ.મી., no soil or climate classification, no `વૈજ્ઞાનિક રીતે…`. The chapter's own reason, `અહીં વરસાદ ઘણો ઓછો છે`, is the only reason given for `સાગ, સીસમ, સાજડ, વાંસ અને નાગકેસર` not growing.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "The practice keeps its own name: every plant and process word printed here — `સરગવા`, `પલાશ`, `સેવન`, `ગરમાળા`, `લીમડા`, `બોરડી`, `બોર`, `સાગ`, `સીસમ`, `સાજડ`, `વાંસ`, `નાગકેસર`, `ડ્રેગનફ્રુટ`, `કલમ` — appears in that exact printed form wherever the teaching refers to it, with no English or Hindi substitute and no romanisation of the loan `ડ્રેગનફ્રુટ`; and at least one of `કલમ કરવી`, `માવજત`, `વનરાજી`, `મબલખ` stands in `key_terms` in `શબ્દ — અર્થ` form.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "No added facts: no field may say what a `સરગવો`, `પલાશ`, `સેવન`, `ગરમાળો` or `નાગકેસર` looks like or is used for, nor where `ડ્રેગનફ્રુટ` comes from or how it tastes. The printed શબ્દાર્થ box gives only `ડ્રેગનફ્રુટ-એક ફળ, કમલમ્`; nothing outside that box and this `original_chunk` may be added.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'આ વિસ્તાર માટે એ કામ લોઢાના ચણા ચાવવા જેવું છે' — બાળક આ છાપેલા રૂઢિપ્રયોગને શબ્દશઃ વાંચે છે ને લોઢાના ચણાનું ચિત્ર મનમાં લાવે છે; વાક્યનો ખરો અર્થ, કે આ સૂકા વિસ્તારમાં એ ઝાડ ઉછેરવાં અતિ અઘરું છે, ચુકાઈ જાય છે.",
+      "correction": "જ્યાં એ વાક્ય આવે ત્યાં જ પાઠની પોતાની છાપેલી યાદી પ્રમાણે ગ્લોસ કરો — 'લોઢાના ચણા ચાવવા — ખૂબ જ અઘરું કામ કરવું' — ને એ જ વાક્યમાં કહો કે અહીં અઘરું કામ કયું છે: ઓછા વરસાદવાળા આ વિસ્તારમાં સાગ, સીસમ, સાજડ, વાંસ ને નાગકેસર ઉછેરવાં. આ રૂઢિપ્રયોગ `key_terms` માં મૂકો."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "No added facts: no field may name a `રાશિ`, a `નક્ષત્ર`, a tree belonging to either, a `શાસ્ત્ર`, or a title for the government scheme. The chunk prints only `આપણાં શાસ્ત્રોમાં દરેક રાશિ અને નક્ષત્રનાં વૃક્ષો બતાવ્યાં છે`, `તેની વાવણીનું માર્ગદર્શન પણ આપ્યું છે` and `એ સરકારની યોજના છે`; the printed શબ્દાર્થ adds only `નક્ષત્રવન-નક્ષત્રોનું વન`.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "No Science or belief verdict: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or recall `answer` may weigh the શાસ્ત્ર-based scheme for or against — no `ખરેખર નક્ષત્ર પ્રમાણે ઝાડ વાવવાથી ફરક પડતો નથી`, no astronomy or astrology aside, no `માન્યતા` judgement. The chapter reports the યોજના; the teaching reports it too.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "No fact invented out of a reported claim: સવજીભાઈ's statement that children studying in this garden's shade `પરીક્ષામાં ઝળહળતી સફળતા મેળવે છે` may appear only as his reported words. No `explanation`, `concept_bullets` line, `real_life_example` or recall `answer` may restate it as a general truth (`ઝાડની છાયામાં ભણવાથી સારાં પરિણામ આવે છે`).",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "Both voices: `explanation` must show that પુરુષોત્તમભાઈ reads the board and asks `આ નક્ષત્ર-વન લખ્યું છે તે શું છે?` and that સવજીભાઈ answers it; his `અદ્ભુત !` stays attributed to પુરુષોત્તમભાઈ.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બોર્ડ પર લખેલો 'નક્ષત્ર-વન' શબ્દ બાળકને કોઈ જગ્યાનું નામ કે જાદુઈ બગીચો લાગે છે — લખેલું છે એટલે નામ જ હશે એમ માની લે છે — ને પુરુષોત્તમભાઈ શા માટે પૂછે છે તે જ સમજાતું નથી.",
+      "correction": "પહેલા વાક્યમાં પાઠની છાપેલી શબ્દાર્થ-પેટી પ્રમાણે ગ્લોસ કરો — 'નક્ષત્રવન — નક્ષત્રોનું વન' — ને તરત સાદા શબ્દોમાં ખોલો: રાશિ ને નક્ષત્ર પ્રમાણે નક્કી થયેલાં વૃક્ષો વાવીને બનાવેલો બગીચો, જેનું બોર્ડ વાંચીને પુરુષોત્તમભાઈ પૂછે છે. 'રાશિ' ને 'યોજના' `key_terms` માં 'શબ્દ — અર્થ' રૂપે રાખો."
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "The practice keeps its own name: `ઔષધબાગ`, `તુલસીવન`, `કિચનગાર્ડન` and `ઉપવન` are used in exactly these printed forms wherever the teaching refers to them — no `દવાનો બગીચો` / `શાકભાજીનો ક્યારો` substitute, and no romanisation of the loan `કિચનગાર્ડન` — and at least one of them stands in `key_terms` in `શબ્દ — અર્થ` form, glossed at first use in `explanation`.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "No added facts: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or recall `answer` may list which વનસ્પતિ the `ઔષધબાગ` holds or which શાકભાજી the `કિચનગાર્ડન` grows. The chunk names none, and the printed વાતચીત block asks the child exactly that (`ઔષધબાગમાં કઈ કઈ વનસ્પતિ હોઈ શકે ?`); filling it in as chapter fact both invents and steals the exercise.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "No preaching: no `explanation`, `real_life_example`, `summary`, `detailed_summary` or recall `answer` may instruct the child to make a garden (`તમે પણ તમારી શાળામાં … બનાવો`, `આપણે પણ ઝાડ ઉછેરવાં જોઈએ`). `real_life_example` may describe the child's own school ground; it may not issue a task.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "એક લાંબા વાક્યમાં આવેલાં ત્રણ નામ — ઔષધબાગ, તુલસીવન ને કિચનગાર્ડન — બાળક ગામમાં ક્યાંક આવેલી જુદી જુદી જગ્યાઓ સમજે છે. ત્રણેય શાળાના મેદાનમાં જ છે એ સંબંધ તૂટે છે, એટલે 'શાળા તો ઉપવન જેવી લાગે છે' કેમ કહેવાયું તે સમજાતું નથી.",
+      "correction": "પહેલા વાક્યમાં જ કહો કે આ ત્રણેય શાળાના મેદાનમાં છે, ને દરેકને 'શબ્દ — અર્થ' રૂપે ગ્લોસ કરો ('ઔષધબાગ — દવામાં કામ આવે તેવી વનસ્પતિનો બગીચો', 'તુલસીવન — તુલસીના છોડનું નાનું વન', 'કિચનગાર્ડન — શાળામાં જ શાકભાજી ઉગાડવાનો નાનો બગીચો'). છેલ્લે 'ઉપવન — સુંદર બગીચો' ગ્લોસ કરીને પાઠનું વાક્ય ટાંકો, જેથી ત્રણ ભાગ ને આખી શાળા વચ્ચેનો સંબંધ દેખાય."
+    },
+    {
+      "topic_id": "M2.S4.T8",
+      "avoid_checks": [
+        {
+          "check": "No tacked-on બોધ — this `resolution` topic is where it bites hardest: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or recall `answer` may close on `આપણે પણ વૃક્ષો વાવવાં જોઈએ` / `પર્યાવરણનું જતન કરવું જોઈએ` / `આ પાઠ આપણને શીખવે છે…`. The chapter's own closing lines — `સૌના સહયોગથી ખરેખર સંસ્કારે સર્જ્યું છે સ્વર્ગ !` and `એમાં એકનો વધારો થશે તો અમને ખૂબ ગમશે.` — are quoted with their speakers, and the teacher-addressed પ્રવેશપેટી sentence `પર્યાવરણનું જતન અને સંવર્ધન એ આપણી ફરજ છે` is page matter, not this topic's conclusion.",
+          "profile": "mahitiprad_gadya",
+          "severity": "hard"
+        },
+        {
+          "check": "No preaching: no field may carry an imperative to the child — `વૃક્ષો વાવો`, `પર્યાવરણનું જતન કરો`, `સફાઈ રાખો`. Note that the printed સુલેખન સ્વાધ્યાય paragraph carries exactly those imperatives (`વૃક્ષો વાવો ને ચોફેર સફાઈ રાખો. આ રીતે પર્યાવરણનું જતન કરો.`); it is an exercise block, never a topic and never a source for the teaching voice.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "No guilt and no ranking: no `explanation`, `real_life_example`, `summary`, `detailed_summary` or recall `answer` may lay `શહેરના પ્રદૂષિત વાતાવરણ` at the child's, their family's or their town's door, or rank ગામ above શહેર as a way to live. પુરુષોત્તમભાઈ's `પાછા જવા મન માનતું નથી` is reported as his own wish about his own return, and the families' return is reported as the chapter reports it.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'વૃક્ષઉછેરના યજ્ઞકાર્ય' વાંચીને બાળક સમજે છે કે ગામમાં ખરેખર યજ્ઞ-હવન થયો હતો. એટલે આ ખંડનું પરિણામ — વરસો સુધી ચાલેલા વૃક્ષઉછેરને લીધે પરિવારો શહેરથી ગામમાં પાછા આવે છે — સાવ બીજી જ વાત બની જાય છે.",
+      "correction": "જ્યાં શબ્દ આવે ત્યાં જ ગ્લોસ કરો — 'યજ્ઞકાર્ય — યજ્ઞ જેવું પવિત્ર ને મોટું કામ' — ને એ જ વાક્યમાં કહો કે અહીં એ કામ વૃક્ષઉછેરનું છે, જે ઘણાં વરસ ને ઘણા લોકોએ સાથે મળીને કર્યું; આ ગ્લોસ `key_terms` માં રહે. સાથે 'સ્વર્ગ' પણ પાઠના અર્થમાં — ખૂબ સુંદર જગ્યા — ખોલો, જેથી 'સંસ્કારે સર્જ્યું છે સ્વર્ગ' શબ્દશઃ ન વંચાય."
+    }
+  ],
+  "chapter_level": [
+    "Two profiles are loaded, and only part of the second one applies. `mahitiprad_gadya` is dominant and every one of its content gates binds chapter-wide; from `samvad_nibandh` only the two-voice and register gates bind — G1 (both speakers reported), G2 (no directive to the child), G4 (quoted speech never converted to reported speech in `original_chunk`) and G5 (no guilt). G7 (`argument, not payload`) does NOT bind: this chapter is deliberately cut by fact-step, so a `topic_name` naming a fact-cluster is correct here and must not be failed.",
+    "Only two people speak in the whole chapter — `પુરુષોત્તમભાઈ` (addressed once as `પશાભાઈ`) and `સવજીભાઈ` — and twelve of the twenty-five quoted turns carry no printed attribution. No field anywhere may name a speaker for an unattributed turn beyond what a printed શ્રેયવાક્ય supports; the book leaves those open on purpose, which is why it prints the `આપેલાં વાક્યો વાંચો, વિચારો અને તે કોણ બોલતું હશે, તે લખો.` block for the child.",
+    "Seven people are named but never speak — `સંસ્કાર`, `શિવરામકાકા`, `સરતાનકાકા`, `સુશીલાબેન`, `નારાયણભાઈ`, `શ્રવણભાઈ`, `ભૂરાભાઈ`. None of them may be given a line, a thought, a motive or a scene of their own in any field; what they did is only what સવજીભાઈ reports they did.",
+    "The village, the district and the `પરદેશ` country are never named on the page, and no community is named either. Nothing may be supplied for any of them — not a real Gujarat district, not a country, not a region label — in any field of the plan (`no_hallucination_policy.md` §3).",
+    "Std-6 ceiling, chapter-wide: no craft label anywhere in child-facing text (`સજીવારોપણ`, `ઉપમા`, `અલંકાર`, `રૂપક`), even though `આ લીલાંછમ ઝાડ પણ જાણે બોલે છે` and `શાળા તો ઉપવન જેવી લાગે છે` invite one. Such lines are noticed sensorially — `એ કેવું લાગે છે ?` — and `figures_of_speech` stays `[]` unless it quotes exact printed words.",
+    "The chapter's declared L2 hazard is its own sound-pairs — `શ, ષ, સ, છ, ક્ષ, શ્ર, ર, ળ` — and the printed minimal pairs show what it costs a reader (`વાર`/`વાળ`, `નર`/`નળ`, `દર`/`દળ`, `શરત`/`સરત`). Glossing may point at the letter that changes a word's meaning, but no phonics rule is taught in teaching prose: that work belongs to the સ્વાધ્યાય blocks and to Agent 10.",
+    "The chapter deliberately prints wrong Gujarati in two સ્વાધ્યાય blocks — the `સિલક/સિકલ`-type strike-out pairs and the child's ર/ળ paragraph (`મરવા`, `સીતાફર`, `દાર`, `ભેરા`). It is printed exercise material, never an error of the book, and none of its wrong forms may be quoted into teaching prose as Gujarati.",
+    "The chapter's own counts and measures stay in Gujarati words exactly as printed (`અઢી દાયકા`, `પચીસેક વર્ષ`, `છઠ્ઠા ધોરણ`, `એકસો દસ`, `સાડત્રીસ`); no numerals appear in any display text, and no count is derived, rounded or converted (`global_content_rules.md` §4).",
+    "Both printed pictures — the drawn planting scene on the first page and the aerial garden photograph beside the નક્ષત્ર-વન passage — are page matter, not reading scenes: no field may describe them as events, and no topic may be built on them."
+  ]
+}

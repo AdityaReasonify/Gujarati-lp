@@ -1,0 +1,72 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati6_ch15",
+  "pass_number": 2,
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "explanation_unit_declared": "એક પ્રસંગ, અથવા વિચારનો એક વળાંક",
+      "explanation_unit_used": "એક પ્રસંગ, અથવા વિચારનો એક વળાંક",
+      "notes": [
+        "02_structure.json agrees with 01_meta.json on every routing field: genre 'આત્મકથનાત્મક નિબંધ', genre_slug 'nibandh_atmaparak', teaching_lens 'સ્વર + પ્રસંગ + પોતાની જાત પરની નજર', explanation_unit 'એક પ્રસંગ, અથવા વિચારનો એક વળાંક', and the same guiding_question. The rendered blue intro box names the form outright ('વિદ્યાર્થીઓને આત્મકથનાત્મક નિબંધસ્વરૂપનો પરિચય કરાવવો.'), and nibandh_atmaparak.md names this very chapter in its provenance and Explanation-unit sections. Routing is correct.",
+        "કડી / દુહો / પદ / ટેક sub-rules are vacuous here: structure_inventory reports kadi 0, duha 0, pad 0, tek_occurrences 0, and 00_chapter_normalized.md carries no [[કડી …]], [[દુહો …]] or [[પદ …]] markers. Unbroken first-person prose; not a mixed chapter.",
+        "The cut follows the unit, not the printed paragraph — verified against the text, not merely against A2's claim. [[ફકરો 3]] (the chapter's one ~180-word paragraph) is cut FOUR ways at the writer's own turns: the pre-dawn ઘરકામ (T3), the જમાપુર buying trip (T4), the spreading of the પાથરણું and the બોણી (T5), and the turn where her mind goes to the children while she weighs vegetables (T6). Each boundary is a turn of mood or attempt, per the profile's 'the boundary is where the attempt fails or the mood turns — not the paragraph break'.",
+        "[[ફકરો 8]], [[ફકરો 9]] and [[ફકરો 10]] — three one-line paragraphs — are held as ONE resolution topic (T11, 'લો, વાતવાતમાં નવ થયા.' … 'આવજો ત્યારે પૃથાબેન !'), per the profile's 'The closing gesture is its own topic.' Splitting them would have made three topics out of one gesture.",
+        "The two સ્મૃતિ / rhetorical hooks open the topics they introduce rather than closing the previous one: 'તમને એમ થશે બેન કે આટલા વહેલા શા માટે ઊઠવાનું ?' opens M2.S2.T3 and 'પૃથાબેન પહેલાંના દિવસો યાદ આવે છે.' opens M3.S4.T8. This is explanation_unit_map cutting rule 2 and the profile's 'A remembered episode keeps its opening.' Verified against the transcription.",
+        "Profile avoid gate 2 (structural half) holds: topic_category is used as introduction ×2, core ×7, transition ×1, resolution ×1 — 'climax' appears NOWHERE. The 'સેવા' paragraph, the chapter's real turn, is marked 'transition', which is the correct call for a form that has પ્રસંગ and not પ્લોટ.",
+        "Profile avoid gate 10 (structural — Agent 4) holds: no topic is cut by page, by paragraph or by a person's name, and every topic_name names a પ્રસંગ or a movement of feeling ('દા’ડો ઊગ્યા પહેલાંનું ઘરકામ', 'જમાપુર માર્કેટની તડાતડી', 'ખટારે ચડી જતો માલ', 'પાથરણું વાળીને લેવાતી વિદાય'). None is 'the next part of the chapter' and none is merely a name.",
+        "Profile avoid gate 11 is vacuous: this chapter is not routed to the હાસ્ય sub-form, so there is no comic setup/પરિણામ boundary to protect.",
+        "Objectives obey the profile's avoid list. No objective_text asks why a પાત્ર acted (gate 2), none closes on 'આ પાઠ આપણને શીખવે છે…' or 'આપણે પણ … જોઈએ' (gate 3), none pities or labels the speaker — બિચારાં / ગરીબ / અભણ / પછાત appear nowhere (gate 14), none teaches how to WRITE an આત્મકથા or a દિનચર્યા as a method (gate 12), and the printed spoken forms quoted inside them (દા’ડો, હારુ, કોકનાં, બોણી, તડાતડી) are carried unstandardised (gate 7).",
+        "No topic carries more than two concepts. Two topics carry two — M2.S3.T7 (her snatched breakfast, and the children leaving for school with the 'મીઠી વઢ' remark) and M4.S5.T10 (the night feeding, and the resolve 'છોકરાંને ભણાવીશ. તો જ ઉજળા દિવસો આવશે.') — both under the profile's 'Where one પ્રસંગ genuinely does two separable things' clause, never a third.",
+        "Global content rule 4 verified mechanically: no ASCII or Gujarati digit appears in any module_name, segment_name, topic_name, concept_name or objective_text."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 10,
+      "topics": 11,
+      "exercise_blocks_inventoried": 18,
+      "exercise_blocks_cut_as_topics": 0,
+      "notes": [
+        "All ten reading-scene markers [[ફકરો 1]]…[[ફકરો 10]] became topics, in printed order. marker_to_topic_map accounts for every one; no marker is swallowed.",
+        "Tiling verified mechanically, not asserted. Each topic's scene_span.starts_at and .ends_at were located verbatim in the whitespace-normalised chapter body (markers and the picture caption stripped). The eleven spans tile the body from character 0 to character 2312 of 2312 with ZERO gaps and ZERO overlaps — every gap_before measured 0 and the last span ends exactly at the end of the body. Therefore no topic covers text that no marker claims, and no marked text is left uncovered.",
+        "No સ્વાધ્યાય block became a topic. All 18 exercise_inventory entries in 01_meta.json were cross-checked, by whitespace-normalised heading prefix, against every module_name, segment_name, topic_name and both scene_span endpoints of all eleven topics: 0 matches. The 18 [[સ્વાધ્યાય: …]] markers in 00_chapter_normalized.md and the 18 inventory entries correspond one-to-one, and every one lies outside the topic tree — it belongs to exercise_solutions.json alone (global_content_rules §7, profile avoid gate 12).",
+        "markers_deliberately_not_cut is complete and correct: એકમ-શીર્ષક, લેખક-નામ, પ્રવેશપેટી, ચિત્ર, શબ્દાર્થ, રૂઢિપ્રયોગ and all 18 સ્વાધ્યાય blocks. The p.101 market illustration correctly opens no topic ('Printed illustrations … never open a topic of their own').",
+        "PRE-READING OPENER — the check is vacuous for this chapter, not violated. The only pre-text block is the blue પ્રવેશપેટી, which is addressed to the teacher ('વર્ગમાં … ચર્ચા કરાવવી', 'વિદ્યાર્થીઓને … પરિચય કરાવવો') and which A1's own marker labels 'વાચન-દૃશ્ય નથી'. Both the profile and explanation_unit_map rule 4 class it as apparatus. Cutting it as a topic would itself have been a fail. The chapter's વાતચીત block is NOT a pre-reading opener: it is printed after રૂઢિપ્રયોગ and is inventoried as સ્વાધ્યાય entry 1.",
+        "IN-TEXT WRAP — none exists in this chapter, so that clause is vacuous too. The chapter ends on a gesture ('ચાલો પાથરણું વાળી લઉં.' / 'આવજો ત્યારે પૃથાબેન !'), not on a review block."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 11,
+      "notes": [
+        "Root objectives[] exists with 11 entries, O1–O11, all objective_id values unique.",
+        "Every home_topic_id resolves to a node in this tree (O1→M1.S1.T1 … O11→M4.S5.T11, one home topic each, no collisions). Every anchor[] id resolves to a concept in this tree: 13 anchors across 11 objectives, matching the 13 concepts exactly.",
+        "strand_to_objective_map covers every legacy_id exactly once: L1→O1 … L11→O11, key set identical to the legacy_id set, no duplicate values, and each mapped objective's own legacy_id matches its key. Single strand 'L' / 'ભાષા અને સાહિત્ય' throughout, as Gujarati literature requires.",
+        "Every topic carries objective_ids and each resolves to the registry; all eleven point at their own home objective.",
+        "Ids match naming_conventions.md. Hierarchy dotted and continuous with no restarts: modules M1–M4; segments M1.S1, M2.S2, M2.S3, M3.S4, M4.S5 (s runs 1–5 across the chapter); topics T1–T11 (t runs 1–11 across the chapter); concepts C1–C13 chapter-continuous, so c correctly stops equalling t from T7 onward (T7 carries C7 and C8, T10 carries C11 and C12, T11 carries C13). That is phase2_contract's id grammar, not an error — a validator reading naming_conventions' one-concept-per-topic shorthand as a rule would mis-flag it, and this one did not.",
+        "No M1.S1.T1.P1-style objective code appears anywhere in the file (regex-checked over the raw JSON), and no .SR{n} recall id appears — objectives live only in the root registry as O{n}.",
+        "Every objective is text-grounded and chapter-specific and could be pasted into no other chapter: each quotes or names something this chapter alone prints — 'કામ, કામ ને કામ', અઢાર કલાક, જમાપુર, 'માલની તડાતડી', બોણી and વેળાસર, નાનકી, 'સાહેબની ને બેનની વઢ પણ મીઠી !', 'આખરે નુકસાન તો અમારું જ થતું.', 'સેવા'ની બહેનો and 'ડગલે પગલે થતાં અપમાન બંધ થયાં.', 'છોકરાંને ભણાવીશ. તો જ ઉજળા દિવસો આવશે.', and the closing વિદાય to પૃથાબેન. Every quoted fragment was checked against 00_chapter_normalized.md.",
+        "The objectives serve the teaching_lens 'સ્વર + પ્રસંગ + પોતાની જાત પરની નજર': each makes પાલુબેન the grammatical subject and asks the child to find, order or explain what SHE says, never to name a literary form. No objective_text names an અલંકાર, છંદ, સમાસ, or the term 'આત્મકથનાત્મક નિબંધ' — correct for std 6.",
+        "bloom_level spread is Understand ×5, Analyze ×4, Evaluate ×2, rising roughly with the chapter's own movement."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "SECOND PASS, and it passes. The first pass (recorded in the previous 04_validation.json) failed with owner A2 because 02_structure.json did not exist. A2 was re-run and emitted it; every check that was NOT EXECUTABLE on pass 1 has now been executed against real content. No third attempt is needed and none should be run.",
+    "original_chunk is the empty string on all eleven topics. This is correct at Agent 2 and is not a coverage gap: A2's own notes state it explicitly, and Agent 5 fills original_chunk verbatim from 00_chapter_normalized.md. Agent 4 therefore validated the CUT against scene_span, which carries the first and last printed sentence of each topic and which was proved to tile the chapter body exactly. Agent 5 inherits an unambiguous boundary and must not re-derive the cut.",
+    "CARRY-FORWARD TO AGENT 5 (profile avoid gate 13, re-checked at Agent 13): the chapter's last printed sentence 'આવજો ત્યારે પૃથાબેન !' and the printed attribution line '- પૃથાબેન વ્યાસ' must both land inside M4.S5.T11's original_chunk. Nothing in this structure prevents that; it simply has not happened yet.",
+    "CARRY-FORWARD TO AGENT 5: the printed sentence 'ત્રણ-ચાર મણ માલ ભરવાનો, અને રિક્ષામાં દાણાપીઠ પાસેની અમારી નક્કી કરેલી જગ્યાએ પહોંચી જવાનું.' is one sentence that both loads the goods and reaches the pitch. A2 kept it whole as the tail of M2.S2.T4 so that M2.S3.T5 opens cleanly at 'છ વાગ્યા સુધીમાં તો બધો માલ પાથરણામાં ગોઠવી કાઢું.' That sentence must not be split across two original_chunks.",
+    "PROVENANCE CAUTION, carried forward from A1 and confirmed here: the 'હું' of the prose is પાલુબેન વશરામભાઈ; the printed author પૃથાબેન વ્યાસ appears inside the text as the addressed listener. No downstream field may attribute પાલુબેન's experiences, feelings or resolve to પૃથાબેન. The objectives as written keep this straight.",
+    "CARRY-FORWARD, profile avoid gate 9: the chapter's printed Roman line 'SEWA - Self employed women's Assocoation' carries a typo in the source and is transcribed as printed. It is neither corrected nor expanded from outside knowledge anywhere downstream.",
+    "topic_type is 'STORY_TELLING' on all eleven topics. Not a violation: phase2_contract §topic_type states that intermediate files (Agents 02–13) carry the authored values POEM | STORY_TELLING | CONCEPT | REVIEW and that Agents 14/15 map them to the closed server enum at emit (STORY_TELLING → instructional). Flagging for Agent 14, which owns that mapping.",
+    "Root field 'genre_slug' is present in 02_structure.json and is not part of the phase-2 emit contract. Harmless in an intermediate file and useful for routing, but it must not survive into learning_plan_logical.json / learning_plan_textbook.json (global_content_rules §11). Note for Agent 14, not a block.",
+    "UNEVEN TOPIC LENGTH — recorded as a note, never a block, and A2 flagged it too. M4.S5.T11 spans roughly twenty printed words while M2.S2.T4 and M3.S4.T8 run four to six times that. The short topic is the chapter's closing gesture and the profile requires it to stand alone, so the unevenness is a consequence of correct cutting rather than a defect. Agent 12 should expect a short chunk there and not pad it.",
+    "chapter_id 'gseb_eng_gujarati6_ch15' and plan_id 'gseb_eng_gujarati6_ch15_v1' follow naming_conventions.md, including the medium-vs-subject rule (medium 'eng', subject 'gujarati') and the absence of any '_standard_' segment. The 'gseb' and 'eng' segments remain PROVISIONAL pending VERIFY-1 per that file's own warning; this is a pack-wide open item, not a ch15 defect, and Agent 4 does not block on it.",
+    "CONTEXT ROUTING GAP, recorded per the run constitution. The spec's inputs cite reference/loop_protocol.md, reference/explanation_unit_map.md and reference/phase2_contract.md, and check 3 cites reference/naming_conventions.md; none of the four was supplied in the prompt's policy list, which carried only no_hallucination_policy.md and global_content_rules.md. Rather than guess at their contents, all four were read in full from their canonical paths on disk, together with the supplied active profile profiles/genres/nibandh_atmaparak.md. Nothing in this verdict rests on a document that was not actually read.",
+    "No PNG render was opened. 00_chapter_normalized.md answered every question this validation needed — the ten paragraph markers, the picture's position, the apparatus boundaries and the eighteen સ્વાધ્યાય headings — so no layout or figure question arose that would have justified going back to the page."
+  ]
+}

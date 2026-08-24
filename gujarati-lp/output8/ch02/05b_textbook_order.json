@@ -1,0 +1,21 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch2",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S1.T2",
+    "M2.S2.T3",
+    "M2.S2.T4",
+    "M2.S2.T5",
+    "M2.S3.T6",
+    "M2.S3.T7",
+    "M2.S3.T8",
+    "M3.S4.T9"
+  ],
+  "source": "printed pages 7–10 read off the renders (page-1.png … page-4.png); the teaching text runs on printed pp. 7–10 and its nine ઘટના appear on the page in exactly this order, T1–T2 on p. 7–8, T3–T6 on p. 8, T7–T9 opening on p. 9 and T9 closing on p. 10",
+  "notes": [
+    "Identical to the logical traversal of 02_structure.json (M1.S1.T1 … M3.S4.T9). The story is printed straight through with no boxed digression inside the reading text, so the printed order and the logical order coincide. Emitted anyway so Agent 15 compares against an explicit index and raises human_confirmation_required on a comparison that actually happened.",
+    "The two printed illustrations interrupt the page but not the sequence: the અસુર picture fills the lower half of p. 7 between T1 and T2, and the આશ્રમ picture fills the lower half of p. 9 between T8 and T9. Neither splits a topic and neither reorders one.",
+    "Not in this list, because they are not this chapter's teaching text: the pink title bar with its number box and QR badge, the author slot '- 'સ્નેહરશ્મિ'', the blue teacher-addressed પ્રવેશપેટી, the two illustrations, the yellow શબ્દાર્થ box (p. 10), the 'શબ્દસમૂહ માટે એક શબ્દ' and 'રૂઢિપ્રયોગ' bullet blocks, the numbered સ્વાધ્યાય blocks running to p. 14 (including the અગસ્ત્ય and વેત્રવતી passages printed inside them, the તારાજૂથ figure and the 8×8 શબ્દચોરસ), and the chapter-final yellow ચર્ચા-વિચારણા box.",
+    "Std 8's વ્યાકરણ એકમો and પૂરકવાચન pieces sit between chapters in the reader and are not this chapter's topics; none enters this index."
+  ]
+}

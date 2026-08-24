@@ -1,0 +1,1414 @@
+{
+  "board": "gseb",
+  "genre": "patra_pravas",
+  "grade": 6,
+  "level": "standard",
+  "phase": 2,
+  "author": "",
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "પત્રનો ઉઘાડ અને કાર્ડની નવાઈ",
+      "difficult_words": [
+        {
+          "word": "પ્રિય",
+          "meaning": "વહાલું, હેતાળ",
+          "example": "દાદીમા મને 'પ્રિય દીકરા' કહીને બોલાવે છે."
+        },
+        {
+          "word": "શુભેચ્છા",
+          "meaning": "શુભ થાઓ એવી ઇચ્છા",
+          "example": "પરીક્ષા પહેલાં શિક્ષકે અમને શુભેચ્છા પાઠવી."
+        },
+        {
+          "word": "ગોઠવણ",
+          "meaning": "વ્યવસ્થા, ગોઠવવાનું કામ",
+          "example": "મેળામાં જવાની ગોઠવણ પપ્પાએ કરી."
+        },
+        {
+          "word": "પાઠવતું",
+          "meaning": "મોકલતું, પહોંચાડતું",
+          "example": "નવા વર્ષે અમે વડીલોને શુભેચ્છા પાઠવતું કાર્ડ મોકલીએ છીએ."
+        },
+        {
+          "word": "વિશેષતા",
+          "meaning": "બીજા કરતાં જુદી પડે એવી ખાસ વાત",
+          "example": "આ ઘડિયાળની વિશેષતા એ છે કે એ પાણીમાં પણ ચાલે છે."
+        },
+        {
+          "word": "નવાઈ",
+          "meaning": "અચરજ, નવું લાગે એવી વાત",
+          "example": "નાના ભાઈએ જાતે રોટલી વણી ત્યારે સૌને નવાઈ લાગી."
+        }
+      ],
+      "overall_rhyme_scheme": null,
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "ખબરઅંતર, શુભેચ્છા ને કાર્ડ પાછળની નવાઈ",
+          "topics": [
+            {
+              "media": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "id": "M1.S1.T1.C1.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "દીવાની હારે લખાતો પત્ર",
+                  "description": "દિવાળીની સાંજે સુરતના ઘરની બારીએ કોડિયાંની હાર બળે છે અને ટેબલ પર બેઠેલા મામા પત્રનું પાનું પૂરું કરે છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "home_concept_id": "M1.S1.T1.C1",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બને ત્યાં સુધી બોર્ડ પર ટેબલ, કાગળ ને બારીએ કોડિયાં દોરીને પૂછો કે આ પત્ર કોણ લખે છે ને કોને લખે છે; પછી પાના પર ઉપર જમણી બાજુ છપાયેલું સરનામું બતાવીને કહો કે એ મોકલનારનું છે, અને 'પ્રિય પ્રાચી,' બતાવીને સંબોધન ઓળખાવો.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, portrait likeness of a real named person, photographic portrait of a named artist, pity or sorrowful expressions, charity framing, donation box, collection tin, begging imagery, hospital or medical framing, motivational poster layout, text banner with a moral, inspirational quote lettering, close-up of legible handwritten letter text, digits or numerals in any lettering, devotional poster art",
+                  "generation_prompt": "A small upstairs room of a house in Surat on a Diwali evening. A row of little clay oil lamps burns along the window ledge; through the open doorway behind, a marigold torana hangs over the frame and a chalk rangoli is drawn on the floor of the passage. A middle-aged man in a plain cream cotton kurta sits at a wooden table under a warm bulb, leaning over a half-written letter on cream paper with a fountain pen in his hand; an addressed envelope lies folded beside his elbow. The writing on the paper is soft and indistinct, with no readable letters anywhere on the sheet. Through the window, low city rooftops with curved clay tiles and a dark neem tree. Warm lamp-lit mood, quiet and affectionate, an ordinary family evening. A narrator bar runs across the bottom of the frame carrying this exact Gujarati line, lettered in Gujarati script and nothing else: 'પ્રિય પ્રાચી,'. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": "A drag-and-drop letter-anatomy panel built only from lines this chapter actually prints. The screen shows an empty letter sheet with six blank slots laid out the way the page lays them out — three stacked slots at the top right (sender's name, sender's address, date), a salutation slot on the left below them, a wide body slot in the middle, and a signature slot at the bottom right. Below the sheet the chapter's own printed lines lie as loose cards in scrambled order, each reproduced character for character as printed: the sender's name line, the sender's society-area-city line, the printed date line, 'પ્રિય પ્રાચી,', one body line ('મજામાં હોઈશ, અમે સૌ મજામાં છીએ.') and '- વિવેકમામાનાં આશિષ'. The child drags each card into a slot. What changes when they do: a card dropped into the right slot locks in place and that slot's Gujarati label appears beside it — 'મોકલનારનું નામ', 'મોકલનારનું સરનામું', 'તારીખ', 'સંબોધન', 'પત્રની વાત', 'સમાપન-સહી' — while a card dropped into the wrong slot springs back and that slot shows a one-line Gujarati hint naming what belongs there. When all six cards are placed, the sheet reads top to bottom exactly as the letter is printed on the page — which is the shape the printed સ્વાધ્યાય then asks the child to produce for પ્રાચીનો જવાબી પત્ર and for the jumbled-address task. No line the chapter does not print is ever offered as a card, no 'લિ.' card exists because the page prints none, and the panel carries no lettering except these printed lines and the six Gujarati slot labels.",
+              "summary": "પત્રની ટોચે જમણી બાજુ મોકલનારનું સરનામું અને તારીખ છપાયાં છે, અને પોતાની લીટીએ સંબોધન — 'પ્રિય પ્રાચી,'. મામા પહેલાં ખબરઅંતર આપે છે કે ઘરનાં સૌ મજામાં છે. પછી સહુ તરફથી દિવાળી અને નવા વર્ષની અનેક શુભેચ્છાઓ પાઠવે છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "પત્રનું સરનામું, તારીખ ને 'પ્રિય પ્રાચી,' સંબોધન",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "પત્રની ટોચે જમણી બાજુ મોકલનારનું સરનામું છપાયું છે — વિવેક ભારતીય, વિઠ્ઠલનગર સોસાયટી, રાંદેર, સુરત. એની નીચે તારીખ છે. આ સરનામું પ્રાચીનું નથી, મામાનું છે. પત્ર જેને લખાયો છે તેનું નામ તો સંબોધનમાં આવે છે — 'પ્રિય પ્રાચી,'. પ્રિય એટલે વહાલું; ઘરના નાના સ્વજનને વડીલ આ રીતે બોલાવે છે.",
+                      "publication_text": "પત્રની ટોચે જમણી બાજુ મોકલનારનું સરનામું છપાયું છે — વિવેક ભારતીય, વિઠ્ઠલનગર સોસાયટી, રાંદેર, સુરત. એની નીચે તારીખ છે. આ સરનામું પ્રાચીનું નથી, મામાનું છે. પત્ર જેને લખાયો છે તેનું નામ તો સંબોધનમાં આવે છે — 'પ્રિય પ્રાચી,'. પ્રિય એટલે વહાલું; ઘરના નાના સ્વજનને વડીલ આ રીતે બોલાવે છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "મોકલનારનું સરનામું — પહેલાં નામ, પછી સોસાયટી-વિસ્તાર-શહેર.",
+                        "તારીખ — સરનામાની નીચે લખાય છે.",
+                        "સંબોધન — પોતાની લીટીએ, 'પ્રિય પ્રાચી,'.",
+                        "સ્વાધ્યાયમાં અસ્તવ્યસ્ત સરનામું યોગ્ય ક્રમમાં ગોઠવવાનું છે."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "concept_id": "M1.S1.T1.C2",
+                  "concept_name": "કુશળ-સમાચાર, દિવાળીની શુભેચ્છા ને ભાઈબીજની ગોઠવણ",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "સંબોધન પછી મામા સૌથી પહેલાં ખબરઅંતર આપે છે — 'મજામાં હોઈશ, અમે સૌ મજામાં છીએ.' પછી ઘરના સહુ, એટલે કે બધા, તરફથી દિવાળી અને નવા વર્ષની અનેક શુભેચ્છાઓ પાઠવે છે. છેલ્લે લખે છે કે આ વખતે ભાઈબીજને દિવસે રાજકોટ કદાચ નહીં અવાય, પણ થશે તો ગોઠવણ કરીશું.",
+                      "publication_text": "સંબોધન પછી મામા સૌથી પહેલાં ખબરઅંતર આપે છે — 'મજામાં હોઈશ, અમે સૌ મજામાં છીએ.' પછી ઘરના સહુ, એટલે કે બધા, તરફથી દિવાળી અને નવા વર્ષની અનેક શુભેચ્છાઓ પાઠવે છે. છેલ્લે લખે છે કે આ વખતે ભાઈબીજને દિવસે રાજકોટ કદાચ નહીં અવાય, પણ થશે તો ગોઠવણ કરીશું."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "કુશળ-સમાચાર — પહેલાં પોતાના ને ઘરનાના ખબર.",
+                        "શુભેચ્છા — શુભ થાઓ એવી ઇચ્છા.",
+                        "અવાય — આવી શકાય.",
+                        "ગોઠવણ — વ્યવસ્થા."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "topic_id": "M1.S1.T1",
+              "key_terms": [
+                "પ્રિય — વહાલું, હેતાળ; પત્રમાં ઘરના નાના સ્વજનને આ રીતે સંબોધાય છે.",
+                "શુભેચ્છા — શુભ થાઓ એવી ઇચ્છા",
+                "સહુ — બધા, સૌ",
+                "અવાય — આવી શકાય",
+                "ગોઠવણ — વ્યવસ્થા, ગોઠવવાનું કામ",
+                "ભાઈબીજ — દિવાળી પછી આવતો ભાઈ-બહેનનો તહેવાર"
+              ],
+              "depends_on": [],
+              "difficulty": "easy",
+              "topic_name": "પ્રિય પ્રાચીને દિવાળીની શુભેચ્છા",
+              "topic_type": "instructional",
+              "word_count": {
+                "original": 41
+              },
+              "explanation": "બાળકો, જુઓ — ઉપર જમણી બાજુનું સરનામું મોકલનારનું છે, એટલે કે વિવેકમામાનું. સુરતથી એ પોતાની ભાણી પ્રાચીને લખે છે. પત્ર જેને લખાય તેનું નામ સંબોધનમાં આવે — 'પ્રિય પ્રાચી,'. પ્રિય એટલે વહાલું; ઘરના નાના સ્વજનને વડીલ આમ જ બોલાવે. પછી ખબરઅંતર : 'મજામાં હોઈશ, અમે સૌ મજામાં છીએ.' પછી સહુ તરફથી દિવાળી ને નવા વર્ષની શુભેચ્છા, એટલે કે શુભ થાઓ એવી ઇચ્છા. છેલ્લે ભાઈબીજની ગોઠવણની, એટલે વ્યવસ્થાની વાત છે. આ ક્રમ યાદ રાખજો; સ્વાધ્યાયમાં અસ્તવ્યસ્ત સરનામું યોગ્ય ક્રમમાં ગોઠવવાનું છે.",
+              "brief_summary": "સુરતથી વિવેકમામા 'પ્રિય પ્રાચી,' કહીને ભાણી પ્રાચીને દિવાળી ને નવા વર્ષની શુભેચ્છા પાઠવે છે.",
+              "objective_ids": [
+                "O1"
+              ],
+              "modified_chunk": "સુરતના રાંદેરમાં રહેતા વિવેકમામા પોતાનું સરનામું અને તારીખ લખીને પ્રાચીને પત્ર માંડે છે. 'પ્રિય પ્રાચી,' કહીને એ પહેલાં ખબરઅંતર આપે છે — ઘરનાં બધાં મજામાં છે એમ કહે છે. પછી સહુ (બધા) તરફથી દિવાળી અને નવા વર્ષની અનેક શુભેચ્છા (શુભ થાઓ એવી ઇચ્છા) પાઠવે છે. છેલ્લે લખે છે કે ભાઈબીજને દિવસે રાજકોટ કદાચ નહીં અવાય, પણ થશે તો ગોઠવણ કરીશું.",
+              "original_chunk": "વિવેક ભારતીય\nવિઠ્ઠલનગર સોસાયટી, રાંદેર, સુરત\nતા. 18-10-22\nપ્રિય પ્રાચી,\nમજામાં હોઈશ, અમે સૌ મજામાં છીએ.\nઅમારા સહુ તરફથી તમને સૌને દિવાળી અને નવા વર્ષની અનેક શુભેચ્છાઓ !\nઆ વખતે કદાચ ભાઈબીજને દિવસે રાજકોટ નહીં અવાય, છતાં થશે તો ગોઠવણ કરીશું.",
+              "topic_category": "introduction",
+              "concept_bullets": [
+                "મોકલનારનું સરનામું — જે પત્ર લખે છે તેનું સરનામું; અહીં ઉપર જમણી બાજુ.",
+                "સંબોધન — પત્ર જેને લખાય તેને નામથી બોલાવવું; અહીં 'પ્રિય પ્રાચી,'.",
+                "કુશળ-સમાચાર — ઘરનાં સૌ મજામાં છે એવા ખબર.",
+                "શુભેચ્છા — શુભ થાઓ એવી ઇચ્છા; દિવાળી ને નવા વર્ષની."
+              ],
+              "detailed_summary": "પત્રની ટોચે જમણી બાજુ મોકલનારનું સરનામું છપાયું છે — વિવેક ભારતીય, વિઠ્ઠલનગર સોસાયટી, રાંદેર, સુરત — અને એની નીચે તારીખ. એ સરનામું પ્રાચીનું નથી, લખનાર મામાનું છે. પત્ર જેને લખાયો છે તેનું નામ સંબોધનમાં આવે છે — 'પ્રિય પ્રાચી,'. પછી મામા ખબરઅંતર આપે છે : 'મજામાં હોઈશ, અમે સૌ મજામાં છીએ.' પછી ઘરના સહુ તરફથી દિવાળી અને નવા વર્ષની અનેક શુભેચ્છાઓ પાઠવે છે. છેલ્લે લખે છે કે આ વખતે ભાઈબીજને દિવસે રાજકોટ કદાચ નહીં અવાય, પણ થશે તો ગોઠવણ કરીશું.",
+              "important_points": [
+                "પ્રિય — વહાલું; ઘરના નાના સ્વજનને વડીલ આ રીતે બોલાવે.",
+                "તારીખ — સરનામાની નીચે; પત્ર ક્યારે લખાયો તે બતાવે.",
+                "અવાય — આવી શકાય; ભાઈબીજે રાજકોટ જવાની વાત.",
+                "ગોઠવણ — વ્યવસ્થા, ગોઠવવાનું કામ."
+              ],
+              "publication_text": "ઉપર જમણી બાજુનું સરનામું મોકલનારનું છે, એટલે કે વિવેકમામાનું. સુરતથી એ પોતાની ભાણી પ્રાચીને લખે છે. પત્ર જેને લખાય તેનું નામ સંબોધનમાં આવે — 'પ્રિય પ્રાચી,'. પ્રિય એટલે વહાલું; ઘરના નાના સ્વજનને વડીલ આમ જ બોલાવે. પછી ખબરઅંતર : 'મજામાં હોઈશ, અમે સૌ મજામાં છીએ.' પછી સહુ તરફથી દિવાળી ને નવા વર્ષની શુભેચ્છા, એટલે કે શુભ થાઓ એવી ઇચ્છા. છેલ્લે ભાઈબીજની ગોઠવણની, એટલે વ્યવસ્થાની વાત છે. પત્રનો આ ક્રમ યાદ રાખવા જેવો છે; સ્વાધ્યાયમાં અસ્તવ્યસ્ત સરનામું યોગ્ય ક્રમમાં ગોઠવવાનું છે.",
+              "recall_questions": [
+                {
+                  "id": "M1.S1.T1.RQ1",
+                  "legacy_id": "M1.S1.T1.TR1",
+                  "prompt": "'પ્રિય પ્રાચી,' પછી મામા સૌથી પહેલાં શા ખબર આપે છે ? એક વાક્યમાં કહો.",
+                  "answer": "મામા લખે છે — 'મજામાં હોઈશ, અમે સૌ મજામાં છીએ.' એટલે એ પહેલાં ઘરનાં સૌ મજામાં છે એવા ખબર આપે છે.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M1.S1.T1.RQ2",
+                  "legacy_id": "M1.S1.T1.TR2",
+                  "prompt": "પત્રની ટોચે જમણી બાજુ લખેલું સરનામું કોનું છે ? તમે શા પરથી કહો છો ?",
+                  "answer": "એ મોકલનારનું, એટલે કે વિવેકમામાનું સરનામું છે. પત્ર જેને લખાયો છે તેનું નામ તો સંબોધનમાં 'પ્રિય પ્રાચી,' એમ લખેલું છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M1.S1.T1.RQ3",
+                  "legacy_id": "M1.S1.T1.TR3",
+                  "prompt": "પ્રાચી મામાને જવાબ લખે તો શરૂઆતની લીટીઓ કઈ હોય ? આ પત્રની શરૂઆત જોઈને લખો.",
+                  "answer": "એક શક્ય નમૂનો : પહેલાં પોતાનું સરનામું ને તારીખ, પછી સંબોધનમાં 'પ્રિય મામા,', પછી ખબરઅંતર — 'હું મજામાં છું, તમે સૌ મજામાં હશો.' આ પત્રમાં પણ સરનામું, તારીખ, સંબોધન ને પછી ખબર — એ જ ક્રમ છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "apply"
+                }
+              ],
+              "source_topic_ids": [],
+              "publication_chunk": "વિવેક ભારતીય\nવિઠ્ઠલનગર સોસાયટી, રાંદેર, સુરત\nતા. 18-10-22\nપ્રિય પ્રાચી,\nમજામાં હોઈશ, અમે સૌ મજામાં છીએ.\nઅમારા સહુ તરફથી તમને સૌને દિવાળી અને નવા વર્ષની અનેક શુભેચ્છાઓ !\nઆ વખતે કદાચ ભાઈબીજને દિવસે રાજકોટ નહીં અવાય, છતાં થશે તો ગોઠવણ કરીશું.\n\nઉપર જમણી બાજુનું સરનામું મોકલનારનું છે, એટલે કે વિવેકમામાનું. સુરતથી એ પોતાની ભાણી પ્રાચીને લખે છે. પત્ર જેને લખાય તેનું નામ સંબોધનમાં આવે — 'પ્રિય પ્રાચી,'. પ્રિય એટલે વહાલું; ઘરના નાના સ્વજનને વડીલ આમ જ બોલાવે. પછી ખબરઅંતર : 'મજામાં હોઈશ, અમે સૌ મજામાં છીએ.' પછી સહુ તરફથી દિવાળી ને નવા વર્ષની શુભેચ્છા, એટલે કે શુભ થાઓ એવી ઇચ્છા. છેલ્લે ભાઈબીજની ગોઠવણની, એટલે વ્યવસ્થાની વાત છે. પત્રનો આ ક્રમ યાદ રાખવા જેવો છે; સ્વાધ્યાયમાં અસ્તવ્યસ્ત સરનામું યોગ્ય ક્રમમાં ગોઠવવાનું છે.\n\nઘરના સરનામે એક કવર આવે ને ટપાલી શેરીમાં સાદ પાડે. કવર પર ઘરના નાના જણનું પોતાનું નામ લખેલું હોય. એ ઉતાવળે ખોલે ને અંદર દૂર રહેતાં માસી કે મામાના અક્ષર દેખાય. પહેલી લીટીમાં જ 'મજામાં છો ને ?' પૂછ્યું હોય. બે લીટીમાં કોઈએ ખાસ યાદ કર્યાં હોય — વાંચીને મન ભરાઈ જાય. પ્રાચીને પણ મામાનો પત્ર આ રીતે જ મળ્યો હશે.",
+              "real_life_example": "તમારા ઘરના સરનામે એક કવર આવે ને ટપાલી શેરીમાં સાદ પાડે. કવર પર તમારું પોતાનું નામ લખેલું હોય. તમે ઉતાવળે ખોલો ને અંદર દૂર રહેતાં માસી કે મામાના અક્ષર દેખાય. પહેલી લીટીમાં જ 'મજામાં છો ને ?' પૂછ્યું હોય. બે લીટીમાં કોઈએ તમને ખાસ યાદ કર્યાં — વાંચીને મન ભરાઈ જાય. પ્રાચીને પણ મામાનો પત્ર આ રીતે જ મળ્યો હશે. તમારા નામનું કવર છેલ્લે ક્યારે આવ્યું હતું ?",
+              "estimated_exchanges": "4",
+              "learning_objectives": [
+                {
+                  "objective_id": "O1",
+                  "legacy_id": "L1",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "પત્રની ટોચે છપાયેલાં સરનામું ને તારીખ અને 'પ્રિય પ્રાચી,' એ પહેલી પંક્તિ ઓળખીને, મામા શરૂઆતમાં કયા ખબર ને કઈ શુભેચ્છા લખે છે તે કહેવું.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M1.S1.T1",
+                  "anchor": [
+                    "M1.S1.T1.C1",
+                    "M1.S1.T1.C2"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "primary_content_type": "image",
+              "tertiary_content_type": null,
+              "secondary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "પ્રિય",
+                  "arth": "વહાલું, હેતાળ",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "શુભેચ્છાઓ",
+                  "arth": "શુભ થાઓ એવી ઇચ્છા",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "સહુ",
+                  "arth": "બધા, સૌ",
+                  "prakar": "તદ્ભવ"
+                },
+                {
+                  "shabd": "અવાય",
+                  "arth": "આવી શકાય",
+                  "prakar": "તદ્ભવ"
+                },
+                {
+                  "shabd": "ગોઠવણ",
+                  "arth": "વ્યવસ્થા, ગોઠવવાનું કામ",
+                  "prakar": "તદ્ભવ"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "સહુ",
+                  "samanarthi": [
+                    "સૌ",
+                    "બધા"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "નવા",
+                  "vilom": "જૂના"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "વિરામચિહ્નો",
+                  "udaharan": "પ્રિય પ્રાચી,",
+                  "note": "સંબોધનની પાછળ અલ્પવિરામ મુકાય છે. એ જ પત્રમાં 'અનેક શુભેચ્છાઓ !' પછી ઉદ્ગારચિહ્ન છે — હરખ બતાવવા. વિરામચિહ્ન બદલાય તો વાંચવાની રીત બદલાય છે."
+                }
+              ]
+            },
+            {
+              "media": [
+                {
+                  "concept_id": "M1.S1.T2.C3",
+                  "id": "M1.S1.T2.C3.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "મોંમાં પીંછી, કાર્ડ પર ફૂલ",
+                  "description": "એક ચિત્રકાર મોંમાં પીંછી પકડીને શુભેચ્છા-કાર્ડ પર ફૂલની લાલ પાંખડી પૂરી કરે છે અને એના હાથ ખોળામાં સ્થિર છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "home_concept_id": "M1.S1.T2.C3",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બને ત્યાં સુધી પાના પર છપાયેલા ફોટા તરફ ધ્યાન દોરો અને એ જ વાક્યની સાથે ગ્લોસ કરો — 'મોઢેથી દોરવું એટલે મોંમાં પીંછી પકડીને દોરવું'; પછી પૂછો કે મામાને આમાં કઈ વાત ગજબની લાગી.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, portrait likeness of a real named person, photographic portrait of a named artist, pity or sorrowful expressions, charity framing, donation box, collection tin, begging imagery, hospital or medical framing, motivational poster layout, text banner with a moral, inspirational quote lettering, close-up of legible handwritten letter text, digits or numerals in any lettering, devotional poster art",
+                  "generation_prompt": "A bright workroom in a Gujarati town: whitewashed walls, a window with a metal grille looking out onto a lane of low houses with curved clay-tile roofs and a neem branch. A young man in a plain checked shirt sits at a low slanted drawing board, his arms resting still in his lap and using no hands at all, holding a thin paintbrush between his teeth and leaning forward to finish a red petal on a small folded greeting card. Around the board: a tin of water, a palette of bright watercolour cakes, two finished flower cards standing upright to dry. Calm, absorbed concentration; the interest of the picture is the steady brushwork, and the mood is matter-of-fact, never sorrowful. Invent an ordinary anonymous face; do not depict any real, identifiable person. A narrator bar runs across the bottom of the frame carrying this exact Gujarati line, lettered in Gujarati script and nothing else: 'છે ને ગજબની વાત !'. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "summary": "મામા પ્રાચીને લખે છે કે આ વર્ષે મોકલેલું શુભેચ્છા પાઠવતું કાર્ડ એને જરુર ગમ્યું હશે. પછી એ કાર્ડ દોરનારની એક વિશેષતા તરફ પ્રાચીનું ધ્યાન દોરે છે — એ ચિત્રકારોના હાથ નકામા થયા છે અને એ ચિત્ર મોઢેથી દોરે છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C3",
+                  "concept_name": "હાથ નકામા થયા છતાં મોઢેથી દોરાયેલું કાર્ડ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "મામા લખે છે કે આ વર્ષે મોકલેલું શુભેચ્છા પાઠવતું કાર્ડ પ્રાચીને જરુર ગમ્યું હશે. પછી એ કાર્ડ દોરનારની એક વિશેષતા તરફ ધ્યાન દોરે છે. પત્રમાં લખ્યું છે કે એ ચિત્રકારોના હાથ નકામા થયા છે, એટલે હાથ કામ આપતા નથી. એ ચિત્ર મોઢેથી દોરે છે — મોંમાં પીંછી પકડીને. પાના પર છપાયેલા ફોટામાં ચિત્રકાર એ જ રીતે ફૂલ દોરે છે.",
+                      "publication_text": "મામા લખે છે કે આ વર્ષે મોકલેલું શુભેચ્છા પાઠવતું કાર્ડ પ્રાચીને જરુર ગમ્યું હશે. પછી એ કાર્ડ દોરનારની એક વિશેષતા તરફ ધ્યાન દોરે છે. પત્રમાં લખ્યું છે કે એ ચિત્રકારોના હાથ નકામા થયા છે, એટલે હાથ કામ આપતા નથી. એ ચિત્ર મોઢેથી દોરે છે — મોંમાં પીંછી પકડીને. પાના પર છપાયેલા ફોટામાં ચિત્રકાર એ જ રીતે ફૂલ દોરે છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "કાર્ડ — પહેલાં ભેટ, પછી વાતનો દોર.",
+                        "વિશેષતા — ખાસ, જુદી પડે એવી વાત.",
+                        "મોઢેથી — મોં વડે, મોંમાં પીંછી પકડીને; બોલવાની વાત નથી.",
+                        "મામાનો ઉદ્ગાર — 'છે ને ગજબની વાત !'"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "topic_id": "M1.S1.T2",
+              "key_terms": [
+                "પાઠવતું — મોકલતું, પહોંચાડતું",
+                "જરુર — ચોક્કસ, નક્કી (પાઠમાં છપાયેલી જોડણી)",
+                "વિશેષતા — બીજા કરતાં જુદી પડે એવી ખાસ વાત",
+                "નવાઈ — અચરજ, નવું લાગે એવી વાત",
+                "નકામા — કામ ન આપે એવા",
+                "મોઢેથી — મોં વડે, મોંમાં પીંછી પકડીને"
+              ],
+              "depends_on": [],
+              "difficulty": "medium",
+              "topic_name": "કાર્ડ દોરનારની નવાઈની વાત",
+              "topic_type": "instructional",
+              "word_count": {
+                "original": 56
+              },
+              "explanation": "બાળકો, જુઓ — હવે મામા પોતે મોકલેલા શુભેચ્છા-કાર્ડની વાત માંડે છે. એ લખે છે કે કાર્ડ દોરનારની એક વિશેષતા તરફ ધ્યાન દોરવું છે. વિશેષતા એટલે બીજા કરતાં જુદી પડે એવી ખાસ વાત. પત્રમાં લખ્યું છે કે એ ચિત્રકારોના હાથ નકામા થયા છે, એટલે કે હાથ કામ આપતા નથી. એ ચિત્ર મોઢેથી દોરે છે — મોંમાં પીંછી પકડીને દોરે છે. પાના પરના ફોટામાં એ જ દેખાય છે. મામા લખે છે 'છે ને ગજબની વાત !', ને પછી એ જ વાત માંડે છે.",
+              "brief_summary": "મામા લખે છે કે એમણે મોકલેલું શુભેચ્છા-કાર્ડ દોરનારા ચિત્રકારો ચિત્ર મોઢેથી દોરે છે.",
+              "objective_ids": [
+                "O2"
+              ],
+              "modified_chunk": "મામા લખે છે કે દિવાળીએ મોકલેલું શુભેચ્છા-કાર્ડ પ્રાચીને જરૂર ગમ્યું હશે. પછી એ કાર્ડ દોરનારની એક વિશેષતા (બીજા કરતાં જુદી પડે એવી ખાસ વાત) તરફ પ્રાચીનું ધ્યાન દોરે છે. જેને હાથ છે તે તો ચિત્ર દોરે, પણ આ ચિત્રકારોના હાથ નકામા થયા છે અને એ મોઢેથી ચિત્ર દોરે છે. મામાને આ વાત ગજબની લાગે છે, એટલે એ જ વાત આ પત્રમાં કરવા બેસે છે.",
+              "original_chunk": "આ વર્ષે તને લખેલું શુભેચ્છા પાઠવતું કાર્ડ જરુર ગમ્યું હશે. આ ચિત્ર દોરનારાની એક વિશેષતા તરફ તારું ધ્યાન દોરું છું. જેને હાથ છે એ તો સારું ચિત્ર દોરે પણ, નવાઈની વાત એ છે કે એ ચિત્રકારોના હાથ નકામા થયા છે. એ ચિત્ર મોઢેથી દોરે છે. છે ને ગજબની વાત !  આજે એની વાત તને કરવી છે.",
+              "topic_category": "transition",
+              "concept_bullets": [
+                "શુભેચ્છા-કાર્ડ — મામાએ પ્રાચીને આ વર્ષે મોકલેલું કાર્ડ.",
+                "વિશેષતા — બીજા કરતાં જુદી પડે એવી ખાસ વાત.",
+                "મોઢેથી દોરવું — મોંમાં પીંછી પકડીને ચિત્ર દોરવું.",
+                "'છે ને ગજબની વાત !' — મામાનો પોતાનો ઉદ્ગાર; નવાઈ બતાવે છે."
+              ],
+              "detailed_summary": "મામા લખે છે કે આ વર્ષે પ્રાચીને મોકલેલું શુભેચ્છા પાઠવતું કાર્ડ એને જરુર ગમ્યું હશે. પછી એ કાર્ડ દોરનારની એક વિશેષતા તરફ પ્રાચીનું ધ્યાન દોરે છે. પત્રમાં લખ્યું છે કે જેને હાથ છે એ તો સારું ચિત્ર દોરે, પણ આ ચિત્રકારોના હાથ નકામા થયા છે. એ ચિત્ર મોઢેથી, એટલે કે મોંમાં પીંછી પકડીને દોરે છે. મામાને આ વાત ગજબની લાગે છે અને એ લખે છે કે આજે એની જ વાત પ્રાચીને કરવી છે.",
+              "important_points": [
+                "ધ્યાન દોરવું — બીજાનું ધ્યાન કોઈ વાત તરફ ખેંચવું.",
+                "નકામા — કામ ન આપે એવા; પત્રનો પોતાનો શબ્દ.",
+                "નવાઈ — અચરજ, નવું લાગે એવી વાત.",
+                "'આજે એની વાત તને કરવી છે.' — આગળની વાતનો દોર બાંધે છે."
+              ],
+              "publication_text": "હવે મામા પોતે મોકલેલા શુભેચ્છા-કાર્ડની વાત માંડે છે. એ લખે છે કે કાર્ડ દોરનારની એક વિશેષતા તરફ ધ્યાન દોરવું છે. વિશેષતા એટલે બીજા કરતાં જુદી પડે એવી ખાસ વાત. પત્રમાં લખ્યું છે કે એ ચિત્રકારોના હાથ નકામા થયા છે, એટલે કે હાથ કામ આપતા નથી. એ ચિત્ર મોઢેથી દોરે છે — મોંમાં પીંછી પકડીને દોરે છે. પાના પરના ફોટામાં એ જ દેખાય છે. મામા લખે છે 'છે ને ગજબની વાત !', ને પછી એ જ વાત માંડે છે.",
+              "recall_questions": [
+                {
+                  "id": "M1.S1.T2.RQ1",
+                  "legacy_id": "M1.S1.T2.TR1",
+                  "prompt": "મામાએ આ વર્ષે પ્રાચીને શું મોકલ્યું હતું ?",
+                  "answer": "શુભેચ્છા પાઠવતું એક કાર્ડ. પત્રમાં લખ્યું છે — 'આ વર્ષે તને લખેલું શુભેચ્છા પાઠવતું કાર્ડ જરુર ગમ્યું હશે.'",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M1.S1.T2.RQ2",
+                  "legacy_id": "M1.S1.T2.TR2",
+                  "prompt": "'એ ચિત્ર મોઢેથી દોરે છે.' — આ વાક્યનો અર્થ પોતાના શબ્દોમાં કહો.",
+                  "answer": "એટલે એ ચિત્રકારો મોંમાં પીંછી પકડીને ચિત્ર દોરે છે. બોલીને સમજાવવાની કે મોઢે કરવાની વાત નથી. પાના પરના ફોટામાં એ જ દેખાય છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M1.S1.T2.RQ3",
+                  "legacy_id": "M1.S1.T2.TR3",
+                  "prompt": "મામાએ 'છે ને ગજબની વાત !' કેમ લખ્યું હશે ? પત્રમાંથી કારણ શોધીને કહો.",
+                  "answer": "કારણ કે એ ચિત્રકારો હાથથી નહિ, મોઢેથી ચિત્ર દોરે છે. મામાને એ રીત નવાઈ પમાડે એવી લાગી, એટલે એમણે પ્રાચીનું ધ્યાન એ તરફ દોર્યું અને એ જ વાત પત્રમાં માંડી.",
+                  "difficulty": "medium",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "source_topic_ids": [],
+              "publication_chunk": "આ વર્ષે તને લખેલું શુભેચ્છા પાઠવતું કાર્ડ જરુર ગમ્યું હશે. આ ચિત્ર દોરનારાની એક વિશેષતા તરફ તારું ધ્યાન દોરું છું. જેને હાથ છે એ તો સારું ચિત્ર દોરે પણ, નવાઈની વાત એ છે કે એ ચિત્રકારોના હાથ નકામા થયા છે. એ ચિત્ર મોઢેથી દોરે છે. છે ને ગજબની વાત !  આજે એની વાત તને કરવી છે.\n\nહવે મામા પોતે મોકલેલા શુભેચ્છા-કાર્ડની વાત માંડે છે. એ લખે છે કે કાર્ડ દોરનારની એક વિશેષતા તરફ ધ્યાન દોરવું છે. વિશેષતા એટલે બીજા કરતાં જુદી પડે એવી ખાસ વાત. પત્રમાં લખ્યું છે કે એ ચિત્રકારોના હાથ નકામા થયા છે, એટલે કે હાથ કામ આપતા નથી. એ ચિત્ર મોઢેથી દોરે છે — મોંમાં પીંછી પકડીને દોરે છે. પાના પરના ફોટામાં એ જ દેખાય છે. મામા લખે છે 'છે ને ગજબની વાત !', ને પછી એ જ વાત માંડે છે.\n\nશેરીના નાકે કુંભાર ચાકડો ફેરવતો હોય ત્યાં ઘડીક ઊભા રહેવા જેવું છે. શરૂઆતમાં તો માટીનો લોંદો જ દેખાય છે. ચાકડો ગોળ ફરે ને આંગળીઓ ધીમેથી દબાય. જોતજોતામાં એ લોંદામાંથી ઘડાની ડોક ઊંચી થાય. જોનારથી પુછાઈ જાય — 'આ આમ કેવી રીતે થયું ?' હાથ કઈ રીતે કામ કરે છે તે જોવાની આ જ નવાઈ છે. મામાને પણ કાર્ડ દોરનારની રીત જાણીને આવી નવાઈ લાગી.",
+              "real_life_example": "શેરીના નાકે કુંભાર ચાકડો ફેરવતો હોય ત્યાં ઘડીક ઊભા રહેજો. શરૂઆતમાં તો માટીનો લોંદો જ દેખાય છે. ચાકડો ગોળ ફરે ને આંગળીઓ ધીમેથી દબાય. જોતજોતામાં એ લોંદામાંથી ઘડાની ડોક ઊંચી થાય. તમારાથી પુછાઈ જાય — 'આ આમ કેવી રીતે થયું ?' હાથ કઈ રીતે કામ કરે છે તે જોવાની આ જ નવાઈ છે. મામાને પણ કાર્ડ દોરનારની રીત જાણીને આવી નવાઈ લાગી. તમે કોઈને કંઈક બનાવતાં જોઈને છેલ્લે ક્યારે થોભી ગયા હતા ?",
+              "estimated_exchanges": "4",
+              "learning_objectives": [
+                {
+                  "objective_id": "O2",
+                  "legacy_id": "L2",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "શુભેચ્છા-કાર્ડ દોરનારા ચિત્રકારોની કઈ વાતને મામા નવાઈની વાત કહે છે તે પત્રમાંથી શોધીને, 'છે ને ગજબની વાત !' કેમ લખ્યું તે સમજાવવું.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M1.S1.T2",
+                  "anchor": [
+                    "M1.S1.T2.C3"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "primary_content_type": "image",
+              "tertiary_content_type": null,
+              "secondary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "પાઠવતું",
+                  "arth": "મોકલતું, પહોંચાડતું",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "જરુર",
+                  "arth": "ચોક્કસ, નક્કી",
+                  "prakar": "આગત"
+                },
+                {
+                  "shabd": "વિશેષતા",
+                  "arth": "બીજા કરતાં જુદી પડે એવી ખાસ વાત",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "નકામા",
+                  "arth": "કામ ન આપે એવા",
+                  "prakar": "તદ્ભવ"
+                },
+                {
+                  "shabd": "નવાઈ",
+                  "arth": "અચરજ, નવું લાગે એવી વાત",
+                  "prakar": "તદ્ભવ"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "નવાઈ",
+                  "samanarthi": [
+                    "અચરજ",
+                    "આશ્ચર્ય"
+                  ]
+                }
+              ],
+              "vilom": [],
+              "vyakaran": [
+                {
+                  "bindu": "વાક્યના પ્રકારો",
+                  "udaharan": "છે ને ગજબની વાત !",
+                  "note": "આ ઉદ્ગારવાચક વાક્ય છે — નવાઈ કે હરખ બતાવે અને છેડે ઉદ્ગારચિહ્ન આવે. એ જ પત્રમાં 'એ ચિત્ર મોઢેથી દોરે છે.' વિધાનવાક્ય છે."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "ચિત્રકારોની વાત અને પત્રનું સમાપન",
+      "difficult_words": [
+        {
+          "word": "કામગીરી",
+          "meaning": "સોંપેલું કામ, ફરજ",
+          "example": "વર્ગ સાફ રાખવાની કામગીરી અમને સોંપાઈ છે."
+        },
+        {
+          "word": "સારવાર",
+          "meaning": "દરદીની માવજત, દવા-ઇલાજ",
+          "example": "દવાખાનામાં દાદાની સારવાર ચાલે છે."
+        },
+        {
+          "word": "સંસ્થા",
+          "meaning": "કોઈ કામ માટે ભેગા થયેલા માણસોનું તંત્ર",
+          "example": "અમારા ગામમાં ચોપડી આપતી એક સંસ્થા છે."
+        },
+        {
+          "word": "સંકલ્પ",
+          "meaning": "નિર્ધાર, મનમાં કરેલો પાકો નિર્ણય",
+          "example": "મેં રોજ વહેલા ઊઠવાનો સંકલ્પ કર્યો."
+        },
+        {
+          "word": "કાબેલ",
+          "meaning": "હોશિયાર, કુશળ",
+          "example": "અમારા ગામનો સુથાર બહુ કાબેલ છે."
+        },
+        {
+          "word": "મંડળ",
+          "meaning": "સાથે મળીને કામ કરતું જૂથ",
+          "example": "ગામની બહેનોનું એક ભજન-મંડળ છે."
+        },
+        {
+          "word": "ખાસિયત",
+          "meaning": "વિશિષ્ટ ગુણધર્મ",
+          "example": "આ કૂતરાની ખાસિયત એ છે કે એ ઘંટ વાગે ત્યારે જ ભસે છે."
+        },
+        {
+          "word": "આશિષ",
+          "meaning": "આશીર્વાદ, વડીલનું હેત ભરેલું વચન",
+          "example": "દાદીએ માથે હાથ મૂકીને આશિષ આપ્યા."
+        }
+      ],
+      "overall_rhyme_scheme": null,
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "મોંથી ચિત્ર દોરતા બે ચિત્રકાર",
+          "topics": [
+            {
+              "media": [
+                {
+                  "concept_id": "M2.S2.T3.C5",
+                  "id": "M2.S2.T3.C5.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "વ્હીલચેરમાં બેસીને મોંથી પેઇન્ટિંગ",
+                  "description": "વ્હીલચેરમાં બેઠેલા એક ચિત્રકાર મોંમાં લાંબી પીંછી પકડીને ઈઝલ પરના કૅન્વાસ પર વાદળી લસરકો મૂકે છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "home_concept_id": "M2.S2.T3.C5",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બને ત્યાં સુધી પાઠમાં છપાયેલો ક્રમ બોર્ડ પર ગોઠવાવો — હવાઈ-દળની કામગીરી, અકસ્માતમાં કરોડરજ્જુને ઈજા, વ્હીલચેર, સંસ્થાનો સંપર્ક, મોંથી પેઇન્ટિંગ, કાબેલ ચિત્રકાર — અને દરેક પગથિયે પૂછો કે પત્ર આ વિશે શું લખે છે.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, portrait likeness of a real named person, photographic portrait of a named artist, pity or sorrowful expressions, charity framing, donation box, collection tin, begging imagery, hospital or medical framing, motivational poster layout, text banner with a moral, inspirational quote lettering, close-up of legible handwritten letter text, digits or numerals in any lettering, devotional poster art",
+                  "generation_prompt": "A plain sunlit room with whitewashed walls and a smooth grey cement floor in an Indian home: a steel water jug and tumbler on a low stool, a window with a metal grille open onto a courtyard where a papaya tree stands. A man in his forties in a plain half-sleeved shirt sits in a wheelchair drawn up close to a tall wooden easel, his arms resting quietly on the armrests and using no hands at all, gripping a long paintbrush between his teeth as he lays a broad blue stroke across a half-finished landscape canvas. Jars of colour, a rag and a mixing tray are arranged on a low table set at wheelchair height beside him. Steady morning light, quiet working concentration; this is an ordinary artist's room and not a hospital, and nothing in the frame invites pity. Invent an ordinary anonymous face; do not depict any real, identifiable person. A narrator bar runs across the bottom of the frame carrying this exact Gujarati line, lettered in Gujarati script and nothing else: 'આજે એ કાબેલ ચિત્રકાર બન્યા છે.'. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "summary": "મૃદુલ ઘોષ ભારતીય હવાઈ-દળમાં હતા અને ત્યાં સારી કામગીરી કરતા હતા. એક ગંભીર અકસ્માતમાં કરોડરજ્જુને ઈજા થઈ, અને અનેક સારવાર છતાં એ ચાલી ન શક્યા કે હાથનો ઉપયોગ કરી ન શક્યા. મામા લખે છે કે મૃદુલભાઈ હાર્યા નહીં અને એમણે એક સંસ્થાનો સંપર્ક કર્યો.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C4",
+                  "concept_name": "અકસ્માત પછી ચાલવું ને હાથનો ઉપયોગ બંધ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "પત્રમાં પહેલા ચિત્રકારનું નામ આવે છે — મૃદુલ ઘોષ. એ ભારતીય હવાઈ-દળમાં હતા અને ત્યાં સારી કામગીરી કરતા હતા. એક ગંભીર અકસ્માતમાં એમની કરોડરજ્જુને ઈજા થઈ. અનેક પ્રકારની સારવાર છતાં એ ચાલી ન શક્યા કે હાથનો ઉપયોગ કરી ન શક્યા, અને વ્હીલચેરમાં જિંદગી ગુજારવાની નોબત આવી. મામા લખે છે કે આપણા જેવા તો નિરાશામાં સાવ ભાંગી જાય, પણ મૃદુલભાઈ હાર્યા નહીં.",
+                      "publication_text": "પત્રમાં પહેલા ચિત્રકારનું નામ આવે છે — મૃદુલ ઘોષ. એ ભારતીય હવાઈ-દળમાં હતા અને ત્યાં સારી કામગીરી કરતા હતા. એક ગંભીર અકસ્માતમાં એમની કરોડરજ્જુને ઈજા થઈ. અનેક પ્રકારની સારવાર છતાં એ ચાલી ન શક્યા કે હાથનો ઉપયોગ કરી ન શક્યા, અને વ્હીલચેરમાં જિંદગી ગુજારવાની નોબત આવી. મામા લખે છે કે આપણા જેવા તો નિરાશામાં સાવ ભાંગી જાય, પણ મૃદુલભાઈ હાર્યા નહીં."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "કામગીરી — સોંપેલું કામ, ફરજ.",
+                        "કરોડરજ્જુ — કરોડમાંથી પસાર થતું જ્ઞાનતંતુનું દોરડું.",
+                        "નોબત આવવી — સંકટનો સમય આવવો.",
+                        "ભાંગી પડવું — હિંમત હારી જવી, હતાશ થઈ જવું."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "concept_id": "M2.S2.T3.C5",
+                  "concept_name": "સંસ્થાની મદદથી મોંથી પેઇન્ટિંગ ને કાબેલ ચિત્રકાર",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "એમને નાનપણથી ચિત્રો દોરવાનો શોખ હતો, પણ દોરે કેવી રીતે ? એમણે એક સંસ્થાનો સંપર્ક કર્યો, જે હાથથી ચિત્રો ન દોરી શકે એવા ચિત્રકારોને મદદ કરે છે. એ સંસ્થા સાથે જોડાયેલા અનેક ચિત્રકારો પગથી કે મોંથી ચિત્રો દોરતા હતા. મૃદુલભાઈએ પોતાનો શોખ પુનર્જીવિત કરવાનો, એટલે કે ફરી શરૂ કરવાનો સંકલ્પ કર્યો. મોંથી પેઇન્ટિંગ કરવા પાછળ એમણે દિવસોના દિવસો કાઢ્યા અને આજે એ કાબેલ ચિત્રકાર બન્યા છે.",
+                      "publication_text": "એમને નાનપણથી ચિત્રો દોરવાનો શોખ હતો, પણ દોરે કેવી રીતે ? એમણે એક સંસ્થાનો સંપર્ક કર્યો, જે હાથથી ચિત્રો ન દોરી શકે એવા ચિત્રકારોને મદદ કરે છે. એ સંસ્થા સાથે જોડાયેલા અનેક ચિત્રકારો પગથી કે મોંથી ચિત્રો દોરતા હતા. મૃદુલભાઈએ પોતાનો શોખ પુનર્જીવિત કરવાનો, એટલે કે ફરી શરૂ કરવાનો સંકલ્પ કર્યો. મોંથી પેઇન્ટિંગ કરવા પાછળ એમણે દિવસોના દિવસો કાઢ્યા અને આજે એ કાબેલ ચિત્રકાર બન્યા છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "સંસ્થા — હાથથી ચિત્ર ન દોરી શકનારને મદદ કરે છે.",
+                        "પુનર્જીવિત — ફરી જીવતું થયેલું.",
+                        "સંકલ્પ — નિર્ધાર કરવો.",
+                        "કાબેલ — હોશિયાર, કુશળ."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "topic_id": "M2.S2.T3",
+              "key_terms": [
+                "કામગીરી — સોંપેલું કામ, ફરજ",
+                "કરોડરજ્જુ — કરોડમાંથી પસાર થતું જ્ઞાનતંતુનું દોરડું",
+                "સારવાર — દરદીની માવજત, દવા-ઇલાજ",
+                "સંસ્થા — કોઈ કામ માટે ભેગા થયેલા માણસોનું તંત્ર",
+                "પુનર્જીવિત — ફરી જીવતું થયેલું, ફરી શરૂ થયેલું",
+                "કાબેલ — હોશિયાર"
+              ],
+              "depends_on": [
+                "M1.S1.T2"
+              ],
+              "difficulty": "hard",
+              "topic_name": "મૃદુલ ઘોષ — હવાઈ-દળથી પીંછી સુધી",
+              "topic_type": "instructional",
+              "word_count": {
+                "original": 125
+              },
+              "explanation": "બાળકો, જુઓ — હવે પત્રમાં પહેલા ચિત્રકારનું નામ આવે છે : મૃદુલ ઘોષ. એ ભારતીય હવાઈ-દળમાં હતા ને ત્યાં સારી કામગીરી, એટલે કે સોંપેલું કામ, કરતા હતા. એક ગંભીર અકસ્માતમાં કરોડરજ્જુને ઈજા થઈ. અનેક સારવાર છતાં એ ચાલી ન શક્યા, હાથ પણ વાપરી ન શક્યા. મામા લખે છે — 'આપણા જેવા તો નિરાશામાં સાવ ભાંગી જાય, પણ મૃદુલભાઈ હાર્યા નહીં.' ભાંગી પડવું એટલે હિંમત હારી જવી. પછી એમણે એક સંસ્થાનો સંપર્ક કર્યો, મોંથી પેઇન્ટિંગ પાછળ દિવસોના દિવસો કાઢ્યા, ને આજે એ કાબેલ એટલે કે હોશિયાર ચિત્રકાર બન્યા છે.",
+              "brief_summary": "હવાઈ-દળના મૃદુલ ઘોષ અકસ્માત પછી સંસ્થાની મદદથી મોંથી પેઇન્ટિંગ કરીને કાબેલ ચિત્રકાર બન્યા.",
+              "objective_ids": [
+                "O3"
+              ],
+              "modified_chunk": "મૃદુલ ઘોષ ભારતીય હવાઈ-દળમાં હતા અને ત્યાં સારી કામગીરી (સોંપેલું કામ) કરતા હતા. એક ગંભીર અકસ્માતમાં એમની કરોડરજ્જુને ઈજા થઈ; ઘણી સારવાર છતાં એ ચાલી ન શક્યા કે હાથ વાપરી ન શક્યા, અને વ્હીલચેરમાં જિંદગી કાઢવાનો વારો આવ્યો. તોય એ હાર્યા નહીં — હાથથી ચિત્ર ન દોરી શકનારને મદદ કરતી એક સંસ્થાનો એમણે સંપર્ક કર્યો. એની મદદથી દિવસોના દિવસો મહેનત કરીને એ મોંથી પેઇન્ટિંગ કરતા થયા અને આજે કાબેલ (હોશિયાર) ચિત્રકાર બન્યા છે.",
+              "original_chunk": "એક ચિત્રકારનું નામ છે, મૃદુલ ઘોષ. ભાઈ મૃદુલ ભારતીય હવાઈ-દળમાં હતા. હવાઈ-દળમાં એ સારી કામગીરી કરતા હતા. એક ગંભીર અકસ્માતમાં કરોડરજ્જુને ઈજા થઈ. અનેક પ્રકારની સારવાર છતાં એ ચાલી ન શક્યા કે હાથનો ઉપયોગ કરી ન શક્યા. વ્હીલચેરમાં જિંદગી ગુજારવાની નોબત આવી. આપણા જેવા તો નિરાશામાં સાવ ભાંગી જાય, પણ મૃદુલભાઈ હાર્યા નહીં. એમને ચિત્રો દોરવાનો શોખ નાનપણથી હતો, પણ દોરે કેવી રીતે ? એમણે એક સંસ્થાનો સંપર્ક કર્યો, જે એવા ચિત્રકારોને મદદ કરે છે જે હાથથી ચિત્રો દોરી ન શકે. આ સંસ્થા સાથે જોડાયેલા એવા અનેક ચિત્રકારો હતા જે પગથી કે મોંથી ચિત્રો દોરતા હતા. પોતાના ચિત્રો દોરવાના શોખને પુનર્જીવિત કરવાનું વિચાર્યું. એમણે સંસ્થાની મદદથી પેઇન્ટિંગનો શોખ પૂરો કરવાનો સંકલ્પ કર્યો. મોંથી પેઇન્ટિંગ કરવા પાછળ દિવસોના દિવસો કાઢ્યા. આજે એ કાબેલ ચિત્રકાર બન્યા છે.",
+              "topic_category": "core",
+              "concept_bullets": [
+                "કામગીરી — સોંપેલું કામ, ફરજ; હવાઈ-દળમાં એ સારી કામગીરી કરતા.",
+                "કરોડરજ્જુ — કરોડમાંથી પસાર થતું જ્ઞાનતંતુનું દોરડું.",
+                "ભાંગી પડવું — હિંમત હારી જવી; મામાનો પોતાનો શબ્દપ્રયોગ.",
+                "કાબેલ — હોશિયાર; આજે એ કાબેલ ચિત્રકાર છે."
+              ],
+              "detailed_summary": "મૃદુલ ઘોષ ભારતીય હવાઈ-દળમાં હતા અને ત્યાં સારી કામગીરી કરતા હતા. એક ગંભીર અકસ્માતમાં કરોડરજ્જુને ઈજા થઈ. અનેક પ્રકારની સારવાર છતાં એ ચાલી ન શક્યા કે હાથનો ઉપયોગ કરી ન શક્યા, અને વ્હીલચેરમાં જિંદગી ગુજારવાની નોબત આવી. મામા લખે છે કે આપણા જેવા તો નિરાશામાં સાવ ભાંગી જાય, પણ મૃદુલભાઈ હાર્યા નહીં. નાનપણથી ચિત્રો દોરવાનો શોખ હતો, એટલે એમણે એવી સંસ્થાનો સંપર્ક કર્યો જે હાથથી ચિત્રો દોરી ન શકે એવા ચિત્રકારોને મદદ કરે છે. સંસ્થાની મદદથી શોખ પૂરો કરવાનો સંકલ્પ કરીને, મોંથી પેઇન્ટિંગ પાછળ દિવસોના દિવસો કાઢીને આજે એ કાબેલ ચિત્રકાર બન્યા છે.",
+              "important_points": [
+                "સંસ્થા — હાથથી ચિત્ર ન દોરી શકે એવા ચિત્રકારોને મદદ કરતું તંત્ર.",
+                "પુનર્જીવિત — ફરી જીવતું થયેલું; શોખ ફરી શરૂ થયો.",
+                "સંકલ્પ — નિર્ધાર કરવો, નિયમ કરવો.",
+                "નોબત આવવી — સંકટનો સમય આવવો."
+              ],
+              "publication_text": "પત્રમાં હવે પહેલા ચિત્રકારનું નામ આવે છે : મૃદુલ ઘોષ. એ ભારતીય હવાઈ-દળમાં હતા ને ત્યાં સારી કામગીરી, એટલે કે સોંપેલું કામ, કરતા હતા. એક ગંભીર અકસ્માતમાં કરોડરજ્જુને ઈજા થઈ. અનેક સારવાર છતાં એ ચાલી ન શક્યા, હાથ પણ વાપરી ન શક્યા. મામા લખે છે — 'આપણા જેવા તો નિરાશામાં સાવ ભાંગી જાય, પણ મૃદુલભાઈ હાર્યા નહીં.' ભાંગી પડવું એટલે હિંમત હારી જવી. પછી એમણે એક સંસ્થાનો સંપર્ક કર્યો, મોંથી પેઇન્ટિંગ પાછળ દિવસોના દિવસો કાઢ્યા, ને આજે એ કાબેલ એટલે કે હોશિયાર ચિત્રકાર બન્યા છે.",
+              "recall_questions": [
+                {
+                  "id": "M2.S2.T3.RQ1",
+                  "legacy_id": "M2.S2.T3.TR1",
+                  "prompt": "અકસ્માત પહેલાં મૃદુલ ઘોષ શું કરતા હતા ?",
+                  "answer": "એ ભારતીય હવાઈ-દળમાં હતા અને ત્યાં સારી કામગીરી કરતા હતા.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M2.S2.T3.RQ2",
+                  "legacy_id": "M2.S2.T3.TR2",
+                  "prompt": "'આપણા જેવા તો નિરાશામાં સાવ ભાંગી જાય' — આ વાક્યનો અર્થ પોતાના શબ્દોમાં કહો.",
+                  "answer": "મામા લખે છે કે આપણા જેવા માણસો આવા વખતે હિંમત હારી બેસે. ભાંગી પડવું એટલે હિંમત હારી જવી, હતાશ થઈ જવું — હાડકું ભાંગવાની વાત નથી. પછી મામા લખે છે કે મૃદુલભાઈ હાર્યા નહીં.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M2.S2.T3.RQ3",
+                  "legacy_id": "M2.S2.T3.TR3",
+                  "prompt": "અકસ્માત પછી મૃદુલભાઈએ કયાં કયાં પગલાં લીધાં ? પત્રમાં લખ્યા મુજબ ક્રમમાં કહો.",
+                  "answer": "પહેલાં એમણે એક સંસ્થાનો સંપર્ક કર્યો, જે હાથથી ચિત્રો ન દોરી શકે એવા ચિત્રકારોને મદદ કરે છે. પછી પોતાનો શોખ ફરી શરૂ કરવાનો સંકલ્પ કર્યો. પછી મોંથી પેઇન્ટિંગ કરવા પાછળ દિવસોના દિવસો કાઢ્યા. આજે એ કાબેલ ચિત્રકાર બન્યા છે.",
+                  "difficulty": "hard",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "source_topic_ids": [],
+              "publication_chunk": "એક ચિત્રકારનું નામ છે, મૃદુલ ઘોષ. ભાઈ મૃદુલ ભારતીય હવાઈ-દળમાં હતા. હવાઈ-દળમાં એ સારી કામગીરી કરતા હતા. એક ગંભીર અકસ્માતમાં કરોડરજ્જુને ઈજા થઈ. અનેક પ્રકારની સારવાર છતાં એ ચાલી ન શક્યા કે હાથનો ઉપયોગ કરી ન શક્યા. વ્હીલચેરમાં જિંદગી ગુજારવાની નોબત આવી. આપણા જેવા તો નિરાશામાં સાવ ભાંગી જાય, પણ મૃદુલભાઈ હાર્યા નહીં. એમને ચિત્રો દોરવાનો શોખ નાનપણથી હતો, પણ દોરે કેવી રીતે ? એમણે એક સંસ્થાનો સંપર્ક કર્યો, જે એવા ચિત્રકારોને મદદ કરે છે જે હાથથી ચિત્રો દોરી ન શકે. આ સંસ્થા સાથે જોડાયેલા એવા અનેક ચિત્રકારો હતા જે પગથી કે મોંથી ચિત્રો દોરતા હતા. પોતાના ચિત્રો દોરવાના શોખને પુનર્જીવિત કરવાનું વિચાર્યું. એમણે સંસ્થાની મદદથી પેઇન્ટિંગનો શોખ પૂરો કરવાનો સંકલ્પ કર્યો. મોંથી પેઇન્ટિંગ કરવા પાછળ દિવસોના દિવસો કાઢ્યા. આજે એ કાબેલ ચિત્રકાર બન્યા છે.\n\nપત્રમાં હવે પહેલા ચિત્રકારનું નામ આવે છે : મૃદુલ ઘોષ. એ ભારતીય હવાઈ-દળમાં હતા ને ત્યાં સારી કામગીરી, એટલે કે સોંપેલું કામ, કરતા હતા. એક ગંભીર અકસ્માતમાં કરોડરજ્જુને ઈજા થઈ. અનેક સારવાર છતાં એ ચાલી ન શક્યા, હાથ પણ વાપરી ન શક્યા. મામા લખે છે — 'આપણા જેવા તો નિરાશામાં સાવ ભાંગી જાય, પણ મૃદુલભાઈ હાર્યા નહીં.' ભાંગી પડવું એટલે હિંમત હારી જવી. પછી એમણે એક સંસ્થાનો સંપર્ક કર્યો, મોંથી પેઇન્ટિંગ પાછળ દિવસોના દિવસો કાઢ્યા, ને આજે એ કાબેલ એટલે કે હોશિયાર ચિત્રકાર બન્યા છે.\n\nસાયકલ શીખવાના પહેલા દિવસો આવા હોય છે. પાછળથી કોઈ પકડી રાખે ત્યાં સુધી બરાબર ચાલે છે. હાથ છૂટે કે તરત ડગમગી જવાય. બીજે દિવસે ફરી ફળિયામાં સાયકલ નીકળે, ફરી પડાય, ને ફરી બેસાય. આમ કેટલાય દિવસ નીકળી જાય. પછી એક સાંજે અચાનક સંતુલન હાથમાં આવી જાય છે. પત્રમાં લખ્યું છે કે મૃદુલભાઈએ મોંથી પેઇન્ટિંગ પાછળ દિવસોના દિવસો કાઢ્યા — રોજની મહેનત આવી જ હોય છે.",
+              "real_life_example": "સાયકલ શીખવાના પહેલા દિવસો યાદ કરો. પાછળથી કોઈ પકડી રાખે ત્યાં સુધી બરાબર ચાલે છે. હાથ છૂટે કે તરત ડગમગી જવાય. બીજે દિવસે ફરી ફળિયામાં સાયકલ કાઢો, ફરી પડો, ને ફરી બેસો. આમ કેટલાય દિવસ નીકળી જાય. પછી એક સાંજે અચાનક સંતુલન હાથમાં આવી જાય છે. પત્રમાં લખ્યું છે કે મૃદુલભાઈએ મોંથી પેઇન્ટિંગ પાછળ દિવસોના દિવસો કાઢ્યા — રોજની મહેનત આવી જ હોય છે. તમે રોજ મંડ્યા રહીને શું શીખ્યા છો ?",
+              "estimated_exchanges": "5",
+              "learning_objectives": [
+                {
+                  "objective_id": "O3",
+                  "legacy_id": "L3",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "મૃદુલ ઘોષને અકસ્માતમાં શું થયું, પછી સંસ્થાની મદદથી એમણે શું કર્યું અને આજે એ શું કરે છે — પત્રમાં લખાયેલી આ વિગતો ક્રમમાં કહેવી.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M2.S2.T3",
+                  "anchor": [
+                    "M2.S2.T3.C4",
+                    "M2.S2.T3.C5"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "primary_content_type": "image",
+              "tertiary_content_type": null,
+              "secondary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "કામગીરી",
+                  "arth": "સોંપેલું કામ, ફરજ",
+                  "prakar": "તદ્ભવ"
+                },
+                {
+                  "shabd": "કરોડરજ્જુ",
+                  "arth": "કરોડમાંથી પસાર થતું જ્ઞાનતંતુનું દોરડું",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "પુનર્જીવિત",
+                  "arth": "ફરી જીવતું થયેલું, ફરી શરૂ થયેલું",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "સંકલ્પ",
+                  "arth": "નિર્ધાર, મનમાં કરેલો પાકો નિર્ણય",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "કાબેલ",
+                  "arth": "હોશિયાર, કુશળ",
+                  "prakar": "આગત"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "કાબેલ",
+                  "samanarthi": [
+                    "હોશિયાર",
+                    "કુશળ"
+                  ]
+                },
+                {
+                  "shabd": "ઈજા",
+                  "samanarthi": [
+                    "ઘા",
+                    "ચોટ"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "નિરાશા",
+                  "vilom": "આશા"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "રૂઢિપ્રયોગ",
+                  "udaharan": "નિરાશામાં સાવ ભાંગી જાય",
+                  "note": "ભાંગી પડવું એટલે હિંમત હારી જવી, હતાશ થઈ જવું — હાડકું ભાંગવાની વાત નથી. રૂઢિપ્રયોગનો અર્થ શબ્દોના સીધા અર્થથી જુદો હોય છે. આ જ પડાવમાં 'નોબત આવવી' (સંકટનો સમય આવવો) અને 'સંકલ્પ કરવો' (નિર્ધાર કરવો) પણ આવે છે."
+                }
+              ]
+            },
+            {
+              "media": [
+                {
+                  "concept_id": "M2.S2.T4.C6",
+                  "id": "M2.S2.T4.C6.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "સૈનિકોને ચિત્ર દોરતાં શીખવે છે",
+                  "description": "અમદાવાદના ઊંચા ઓરડામાં સ્કેચબુક લઈને બેઠેલા સૈનિકો સામે ઊભેલા ચિત્રકાર મોંમાં કોલસી પકડીને ઈઝલ પર લસરકો દોરે છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "home_concept_id": "M2.S2.T4.C6",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બને ત્યાં સુધી પૂછો કે પત્ર મનોજભાઈ વિશે કઈ ચાર વાત લખે છે — બંને હાથ, મોઢેથી દોરવાનું, અમદાવાદની કૉલેજનો ડિપ્લોમા, અને આજનું કામ — અને દરેક જવાબ પાઠની લીટીમાંથી જ શોધાવો.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, portrait likeness of a real named person, photographic portrait of a named artist, pity or sorrowful expressions, charity framing, donation box, collection tin, begging imagery, hospital or medical framing, motivational poster layout, text banner with a moral, inspirational quote lettering, close-up of legible handwritten letter text, digits or numerals in any lettering, devotional poster art",
+                  "generation_prompt": "A bright high-ceilinged hall in Ahmedabad with tall arched windows; outside, a street of low plastered buildings and a gulmohar tree in flower. Six young soldiers in plain olive-green fatigues with no insignia sit on wooden stools with open sketchbooks on their knees, pencils in hand, all looking towards the front. A man in a plain kurta stands at a large easel facing them, both arms held quietly at his sides and using no hands at all, a stick of charcoal gripped between his teeth as he draws a bold curved line on the sheet clipped to the easel; one soldier is copying the same curve on his own page. Daylight, businesslike classroom energy, respectful and ordinary. Invent an ordinary anonymous face; do not depict any real, identifiable person, and put no lettering, badge or emblem on the uniforms. A narrator bar runs across the bottom of the frame carrying this exact Gujarati line, lettered in Gujarati script and nothing else: 'આજે તેઓ સૈનિકોને ચિત્રો દોરતાં શીખવે છે.'. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "summary": "પત્રમાં બીજા ચિત્રકારનું નામ આવે છે — મનોજ ભિંગારે, જે આપણા ગુજરાતના જ છે. એ પણ એક અકસ્માતનો શિકાર બન્યા હતા અને નાની ઉંમરે એમણે બંને હાથ ગુમાવ્યા. ચિત્રકામનો શોખ એવો જબરજસ્ત કે એમણે મોઢેથી ચિત્ર દોરવાનું શરૂ કર્યું.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C6",
+                  "concept_name": "બંને હાથ ગયા, મોઢેથી દોરીને ડિપ્લોમા ને શીખવવાનું કામ",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "પત્રમાં બીજા ચિત્રકારનું નામ આવે છે — મનોજ ભિંગારે, જે આપણા ગુજરાતના જ છે. એ પણ એક અકસ્માતનો શિકાર બન્યા હતા, એટલે કે એમને પણ અકસ્માત નડ્યો હતો. નાની ઉંમરે એમણે બંને હાથ ગુમાવ્યા. ચિત્રકામનો શોખ એવો જબરજસ્ત કે એમણે મોઢેથી ચિત્ર દોરવાનું શરૂ કર્યું. અમદાવાદની સી.એન. ફાઈન આર્ટસ્ કૉલેજમાંથી ડિપ્લોમા કર્યો, અને આજે એ સૈનિકોને ચિત્રો દોરતાં શીખવે છે.",
+                      "publication_text": "પત્રમાં બીજા ચિત્રકારનું નામ આવે છે — મનોજ ભિંગારે, જે આપણા ગુજરાતના જ છે. એ પણ એક અકસ્માતનો શિકાર બન્યા હતા, એટલે કે એમને પણ અકસ્માત નડ્યો હતો. નાની ઉંમરે એમણે બંને હાથ ગુમાવ્યા. ચિત્રકામનો શોખ એવો જબરજસ્ત કે એમણે મોઢેથી ચિત્ર દોરવાનું શરૂ કર્યું. અમદાવાદની સી.એન. ફાઈન આર્ટસ્ કૉલેજમાંથી ડિપ્લોમા કર્યો, અને આજે એ સૈનિકોને ચિત્રો દોરતાં શીખવે છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "શિકાર બનવું — ભોગ બનવું, સપડાવું.",
+                        "જબરજસ્ત — ખૂબ મોટો, જોરદાર.",
+                        "ડિપ્લોમા — ભણતર પૂરું કર્યાનું પ્રમાણપત્ર.",
+                        "'ચિત્ર' સાથે '-કાર' લાગે ને 'ચિત્રકાર' બને — સ્વાધ્યાયમાં આવા શબ્દો બનાવવાના છે."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "topic_id": "M2.S2.T4",
+              "key_terms": [
+                "શિકાર બન્યા — ભોગ બન્યા, સપડાયા",
+                "ગુમાવ્યા — ખોયા, જતા રહ્યા",
+                "જબરજસ્ત — ખૂબ મોટો, જોરદાર",
+                "ડિપ્લોમા — ભણતર પૂરું કર્યાનું પ્રમાણપત્ર",
+                "કમાલ — નવાઈ પમાડે એવું કામ",
+                "સૈનિકો — લશ્કરના જવાનો"
+              ],
+              "depends_on": [
+                "M2.S2.T3"
+              ],
+              "difficulty": "medium",
+              "topic_name": "ગુજરાતના ચિત્રકાર મનોજ ભિંગારે",
+              "topic_type": "instructional",
+              "word_count": {
+                "original": 55
+              },
+              "explanation": "બાળકો, જુઓ — હવે બીજા ચિત્રકારની વાત આવે છે : મનોજ ભિંગારે, જે આપણા ગુજરાતના જ છે. પત્રમાં લખ્યું છે કે એ પણ એક અકસ્માતનો શિકાર બન્યા હતા. શિકાર બનવું એટલે ભોગ બનવું — એમને પણ અકસ્માત નડ્યો હતો. નાની ઉંમરે એમણે બંને હાથ ગુમાવ્યા. પણ ચિત્રકામનો શોખ એવો જબરજસ્ત, એટલે કે જોરદાર, કે એમણે મોઢેથી ચિત્ર દોરવાનું શરૂ કર્યું. અમદાવાદની સી.એન. ફાઈન આર્ટસ્ કૉલેજમાંથી એમણે ડિપ્લોમા કર્યો. મામા લખે છે 'છે ને કમાલ!'. આજે એ સૈનિકોને ચિત્રો દોરતાં શીખવે છે.",
+              "brief_summary": "ગુજરાતના મનોજ ભિંગારેએ બંને હાથ ગુમાવ્યા પછી મોઢેથી ચિત્રો દોરીને કૉલેજમાંથી ડિપ્લોમા કર્યો.",
+              "objective_ids": [
+                "O4"
+              ],
+              "modified_chunk": "પત્રમાં બીજા ચિત્રકારનું નામ આવે છે — મનોજ ભિંગારે, જે આપણા ગુજરાતના જ છે. એ પણ અકસ્માતનો શિકાર બન્યા હતા અને નાની ઉંમરે એમણે બંને હાથ ગુમાવ્યા. ચિત્રકામનો શોખ એવો જબરજસ્ત (જોરદાર) કે એમણે મોઢેથી ચિત્ર દોરવાનું શરૂ કર્યું અને અમદાવાદની સી.એન. ફાઈન આર્ટસ્ કૉલેજમાંથી ડિપ્લોમા કર્યો. આજે એ સૈનિકોને ચિત્રો દોરતાં શીખવે છે.",
+              "original_chunk": "બીજા ચિત્રકાર તો આપણા ગુજરાતના જ છે. નામ એમનું મનોજ ભિંગારે. એ પણ એક અકસ્માતનો શિકાર બન્યા હતા. નાની ઉંમરે એમણે બંને હાથ ગુમાવ્યા, પણ એમને ચિત્રકામનો એવો જબરજસ્ત શોખ કે એમણે મોઢેથી ચિત્ર દોરવાનું શરૂ કર્યું. અમદાવાદની સી.એન. ફાઈન આર્ટસ્ કૉલેજમાંથી ડિપ્લોમા કર્યો ! છે ને કમાલ! આજે તેઓ સૈનિકોને ચિત્રો દોરતાં શીખવે છે.",
+              "topic_category": "core",
+              "concept_bullets": [
+                "શિકાર બનવું — ભોગ બનવું; અકસ્માત નડવો.",
+                "જબરજસ્ત — ખૂબ મોટો, જોરદાર; શોખ એવો હતો.",
+                "ડિપ્લોમા — ભણતર પૂરું કર્યાનું પ્રમાણપત્ર.",
+                "શીખવવું — આજે એ સૈનિકોને ચિત્રો દોરતાં શીખવે છે."
+              ],
+              "detailed_summary": "પત્રમાં બીજા ચિત્રકારનું નામ આવે છે — મનોજ ભિંગારે, જે આપણા ગુજરાતના જ છે. એ પણ એક અકસ્માતનો શિકાર બન્યા હતા, એટલે કે એમને પણ અકસ્માત નડ્યો હતો. નાની ઉંમરે એમણે બંને હાથ ગુમાવ્યા. ચિત્રકામનો શોખ એવો જબરજસ્ત હતો કે એમણે મોઢેથી ચિત્ર દોરવાનું શરૂ કર્યું. અમદાવાદની સી.એન. ફાઈન આર્ટસ્ કૉલેજમાંથી એમણે ડિપ્લોમા કર્યો, અને મામા લખે છે 'છે ને કમાલ!'. આજે તેઓ સૈનિકોને ચિત્રો દોરતાં શીખવે છે.",
+              "important_points": [
+                "ગુજરાત — બીજા ચિત્રકાર આપણા ગુજરાતના જ છે.",
+                "મોઢેથી — મોંમાં પીંછી પકડીને ચિત્ર દોરવું.",
+                "કમાલ — નવાઈ પમાડે એવું કામ; મામાનો ઉદ્ગાર.",
+                "સૈનિકો — લશ્કરના જવાનો."
+              ],
+              "publication_text": "પત્રમાં હવે બીજા ચિત્રકારની વાત આવે છે : મનોજ ભિંગારે, જે આપણા ગુજરાતના જ છે. પત્રમાં લખ્યું છે કે એ પણ એક અકસ્માતનો શિકાર બન્યા હતા. શિકાર બનવું એટલે ભોગ બનવું — એમને પણ અકસ્માત નડ્યો હતો. નાની ઉંમરે એમણે બંને હાથ ગુમાવ્યા. પણ ચિત્રકામનો શોખ એવો જબરજસ્ત, એટલે કે જોરદાર, કે એમણે મોઢેથી ચિત્ર દોરવાનું શરૂ કર્યું. અમદાવાદની સી.એન. ફાઈન આર્ટસ્ કૉલેજમાંથી એમણે ડિપ્લોમા કર્યો. મામા લખે છે 'છે ને કમાલ!'. આજે એ સૈનિકોને ચિત્રો દોરતાં શીખવે છે.",
+              "recall_questions": [
+                {
+                  "id": "M2.S2.T4.RQ1",
+                  "legacy_id": "M2.S2.T4.TR1",
+                  "prompt": "મનોજ ભિંગારેએ ક્યાંથી ડિપ્લોમા કર્યો ?",
+                  "answer": "અમદાવાદની સી.એન. ફાઈન આર્ટસ્ કૉલેજમાંથી.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M2.S2.T4.RQ2",
+                  "legacy_id": "M2.S2.T4.TR2",
+                  "prompt": "'એ પણ એક અકસ્માતનો શિકાર બન્યા હતા.' — આ વાક્યનો અર્થ પોતાના શબ્દોમાં કહો.",
+                  "answer": "એટલે એમને પણ એક અકસ્માત નડ્યો હતો. શિકાર બનવું એટલે ભોગ બનવું, સપડાવું — પ્રાણીના શિકારની વાત નથી.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M2.S2.T4.RQ3",
+                  "legacy_id": "M2.S2.T4.TR3",
+                  "prompt": "મનોજ ભિંગારે વિશે પત્ર જે વાતો જણાવે છે તે ક્રમમાં કહો.",
+                  "answer": "એ આપણા ગુજરાતના છે; નાની ઉંમરે એમણે બંને હાથ ગુમાવ્યા; ચિત્રકામનો શોખ જબરજસ્ત હોવાથી એમણે મોઢેથી ચિત્ર દોરવાનું શરૂ કર્યું; અમદાવાદની સી.એન. ફાઈન આર્ટસ્ કૉલેજમાંથી ડિપ્લોમા કર્યો; અને આજે એ સૈનિકોને ચિત્રો દોરતાં શીખવે છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "source_topic_ids": [],
+              "publication_chunk": "બીજા ચિત્રકાર તો આપણા ગુજરાતના જ છે. નામ એમનું મનોજ ભિંગારે. એ પણ એક અકસ્માતનો શિકાર બન્યા હતા. નાની ઉંમરે એમણે બંને હાથ ગુમાવ્યા, પણ એમને ચિત્રકામનો એવો જબરજસ્ત શોખ કે એમણે મોઢેથી ચિત્ર દોરવાનું શરૂ કર્યું. અમદાવાદની સી.એન. ફાઈન આર્ટસ્ કૉલેજમાંથી ડિપ્લોમા કર્યો ! છે ને કમાલ! આજે તેઓ સૈનિકોને ચિત્રો દોરતાં શીખવે છે.\n\nપત્રમાં હવે બીજા ચિત્રકારની વાત આવે છે : મનોજ ભિંગારે, જે આપણા ગુજરાતના જ છે. પત્રમાં લખ્યું છે કે એ પણ એક અકસ્માતનો શિકાર બન્યા હતા. શિકાર બનવું એટલે ભોગ બનવું — એમને પણ અકસ્માત નડ્યો હતો. નાની ઉંમરે એમણે બંને હાથ ગુમાવ્યા. પણ ચિત્રકામનો શોખ એવો જબરજસ્ત, એટલે કે જોરદાર, કે એમણે મોઢેથી ચિત્ર દોરવાનું શરૂ કર્યું. અમદાવાદની સી.એન. ફાઈન આર્ટસ્ કૉલેજમાંથી એમણે ડિપ્લોમા કર્યો. મામા લખે છે 'છે ને કમાલ!'. આજે એ સૈનિકોને ચિત્રો દોરતાં શીખવે છે.\n\nનવરાત્રિ પહેલાં ફળિયામાં ગરબાની તૈયારી ચાલતી હોય છે. મોટી બહેન નાનાંને હાથ પકડીને તાળીનો તાલ શીખવે છે — એક, બે, ને ત્રીજી તાળી. પહેલાં પગ ગૂંચવાય, પછી ધીરે ધીરે તાલ બેસી જાય. જે પોતે શીખ્યાં હોઈએ તે બીજાને શીખવવાની મજા જુદી છે. પત્રમાં લખ્યું છે કે મનોજભાઈ આજે સૈનિકોને ચિત્રો દોરતાં શીખવે છે.",
+              "real_life_example": "નવરાત્રિ પહેલાં ફળિયામાં ગરબાની તૈયારી ચાલતી હોય છે. મોટી બહેન નાનાંને હાથ પકડીને તાળીનો તાલ શીખવે છે — એક, બે, ને ત્રીજી તાળી. પહેલાં પગ ગૂંચવાય, પછી ધીરે ધીરે તાલ બેસી જાય. જે પોતે શીખ્યાં હોઈએ તે બીજાને શીખવવાની મજા જુદી છે. પત્રમાં લખ્યું છે કે મનોજભાઈ આજે સૈનિકોને ચિત્રો દોરતાં શીખવે છે. તમે કોઈને શું શીખવ્યું છે ?",
+              "estimated_exchanges": "4",
+              "learning_objectives": [
+                {
+                  "objective_id": "O4",
+                  "legacy_id": "L4",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "મનોજ ભિંગારે વિશે પત્ર શું શું જણાવે છે — બંને હાથ, મોઢેથી દોરવાનું, કૉલેજનો ડિપ્લોમા અને આજનું કામ — તે પોતાના શબ્દોમાં કહેવું.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M2.S2.T4",
+                  "anchor": [
+                    "M2.S2.T4.C6"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "primary_content_type": "image",
+              "tertiary_content_type": null,
+              "secondary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "શિકાર",
+                  "arth": "ભોગ; (અહીં) અકસ્માતમાં સપડાવું",
+                  "prakar": "આગત"
+                },
+                {
+                  "shabd": "ગુમાવ્યા",
+                  "arth": "ખોયા, જતા રહ્યા",
+                  "prakar": "તદ્ભવ"
+                },
+                {
+                  "shabd": "જબરજસ્ત",
+                  "arth": "ખૂબ મોટો, જોરદાર",
+                  "prakar": "આગત"
+                },
+                {
+                  "shabd": "ડિપ્લોમા",
+                  "arth": "ભણતર પૂરું કર્યાનું પ્રમાણપત્ર",
+                  "prakar": "આગત"
+                },
+                {
+                  "shabd": "કમાલ",
+                  "arth": "નવાઈ પમાડે એવું કામ",
+                  "prakar": "આગત"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "જબરજસ્ત",
+                  "samanarthi": [
+                    "જોરદાર",
+                    "ભારે"
+                  ]
+                },
+                {
+                  "shabd": "અકસ્માત",
+                  "samanarthi": [
+                    "દુર્ઘટના"
+                  ]
+                }
+              ],
+              "vilom": [],
+              "vyakaran": [
+                {
+                  "bindu": "ઉપસર્ગ-પ્રત્યય",
+                  "udaharan": "ચિત્રકાર",
+                  "note": "'ચિત્ર' શબ્દની પાછળ '-કાર' પ્રત્યય લાગે છે ને 'ચિત્રકાર' બને છે — એટલે ચિત્ર દોરનાર. સ્વાધ્યાયમાં આ જ રીતે '-કાર', '-વાન', '-તા', 'અણ-', 'પ્ર-', '-પૂર્વક' વાળા બીજા શબ્દો બનાવવાના છે."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "મંડળની ખાસિયત, ભેટ ને આશિષ",
+          "topics": [
+            {
+              "media": [
+                {
+                  "concept_id": "M2.S3.T5.C7",
+                  "id": "M2.S3.T5.C7.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "કાર્ડસ્, કેલેન્ડર ને બેંગનું વેચાણ-ટેબલ",
+                  "description": "મંડપ નીચેના વેચાણ-ટેબલ પર દોરેલાં શુભેચ્છા કાર્ડસ્, લટકતું કેલેન્ડર, ટી-શર્ટ ને પેઇન્ટિંગ છે અને એક ગ્રાહક ચીતરેલી બેંગ હાથમાં લઈને જુએ છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "home_concept_id": "M2.S3.T5.C7",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બને ત્યાં સુધી પાઠની યાદી બોર્ડ પર લખાવો — ચિત્રો, શુભેચ્છા કાર્ડસ્, કેલેન્ડર, બેંગ, ટી-શર્ટ — અને વાક્યના બંને ભાગ સાથે જ વંચાવો: દાન લેતા નથી, પણ પોતે બનાવેલું વેચે છે.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, portrait likeness of a real named person, photographic portrait of a named artist, pity or sorrowful expressions, charity framing, donation box, collection tin, begging imagery, hospital or medical framing, motivational poster layout, text banner with a moral, inspirational quote lettering, close-up of legible handwritten letter text, digits or numerals in any lettering, devotional poster art",
+                  "generation_prompt": "A craft-sale stall under a striped canvas canopy on a town ground in Gujarat, late afternoon. A long folding table is covered with a plain cloth: rows of small hand-painted flower greeting cards stand open in a wooden rack, a wall calendar with a painted landscape hangs from the canopy pole, a folded cotton T-shirt with a painted print lies at one end, and a framed painting of a village lane is propped at the back. In the foreground a customer holds up a cotton shoulder bag printed with a painted design, turning it in the light to look at it. Behind the table a young woman in a plain salwar-kameez straightens the row of cards. Busy ordinary market mood — a sales counter with money changing hands, never a charity booth: no collection box, no donation tin anywhere in the frame. Every banner, board and price card is blank cloth or blank paper with no lettering of any kind. A narrator bar runs across the bottom of the frame carrying this exact Gujarati line, lettered in Gujarati script and nothing else: 'એમની ખાસિયત છે કે એ દાન લેતા નથી'. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "summary": "મોં કે પગથી ચિત્રો દોરનારા અનેક ચિત્રકારોનું એક મંડળ છે, જે દુનિયાભરના એવા ચિત્રકારોને મદદ કરે છે. એ મંડળની ખાસિયત એ છે કે એ દાન લેતું નથી, પણ પોતે બનાવેલાં ચિત્રો, શુભેચ્છા કાર્ડસ્, કેલેન્ડર, બેંગ ને ટી-શર્ટ વેચે છે.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C7",
+                  "concept_name": "મંડળની ખાસિયત ને પત્ર સાથે મોકલેલી ભેટ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "મોં કે પગથી ચિત્રો દોરનારા આવા અનેક ચિત્રકારો છે અને એમનું એક મંડળ છે, જે દુનિયાભરના એવા ચિત્રકારોને મદદ કરે છે. મામા લખે છે કે એમની ખાસિયત એ છે કે એ દાન લેતા નથી, પણ પોતે બનાવેલાં સુંદર ચિત્રો, શુભેચ્છા કાર્ડસ્, કેલેન્ડર, બેંગ ને ટી-શર્ટ વેચે છે. આ પત્ર સાથે એમણે પ્રાચીને એવા જ એક ચિત્રકારે દોરેલું ગ્રિટિંગ કાર્ડ મોકલ્યું છે, અને પ્રાચી માટે એક બેંગ ને એક પેઇન્ટિંગ ખરીદ્યાં છે.",
+                      "publication_text": "મોં કે પગથી ચિત્રો દોરનારા આવા અનેક ચિત્રકારો છે અને એમનું એક મંડળ છે, જે દુનિયાભરના એવા ચિત્રકારોને મદદ કરે છે. મામા લખે છે કે એમની ખાસિયત એ છે કે એ દાન લેતા નથી, પણ પોતે બનાવેલાં સુંદર ચિત્રો, શુભેચ્છા કાર્ડસ્, કેલેન્ડર, બેંગ ને ટી-શર્ટ વેચે છે. આ પત્ર સાથે એમણે પ્રાચીને એવા જ એક ચિત્રકારે દોરેલું ગ્રિટિંગ કાર્ડ મોકલ્યું છે, અને પ્રાચી માટે એક બેંગ ને એક પેઇન્ટિંગ ખરીદ્યાં છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "મંડળ — સાથે મળીને કામ કરતું જૂથ.",
+                        "ખાસિયત — વિશિષ્ટ ગુણધર્મ.",
+                        "દાન — સામે કશું લીધા વગર અપાતી મદદ.",
+                        "પત્ર સાથેની ભેટ — ગ્રિટિંગ કાર્ડ, બેંગ ને પેઇન્ટિંગ."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "topic_id": "M2.S3.T5",
+              "key_terms": [
+                "મંડળ — સાથે મળીને કામ કરતું જૂથ",
+                "ખાસિયત — વિશિષ્ટ ગુણધર્મ",
+                "દાન — સામે કશું લીધા વગર અપાતી મદદ",
+                "દુનિયાભરના — આખી દુનિયાના",
+                "બેંગ — થેલી (પાઠમાં છપાયેલી જોડણી)",
+                "ધરાવતી — જેના પર છે એવી, જે ધારણ કરે છે તે"
+              ],
+              "depends_on": [
+                "M2.S2.T3",
+                "M2.S2.T4"
+              ],
+              "difficulty": "medium",
+              "topic_name": "દાન નહિ, વેચાણ — મંડળ ને પ્રાચી માટેની ભેટ",
+              "topic_type": "instructional",
+              "word_count": {
+                "original": 75
+              },
+              "explanation": "બાળકો, જુઓ — હવે પત્ર મંડળની વાત પર વળે છે. મંડળ એટલે સાથે મળીને કામ કરતું જૂથ. મોં કે પગથી ચિત્રો દોરનારા અનેક છે, ને એમનું આ મંડળ દુનિયાભરના એવા ચિત્રકારોને મદદ કરે છે. મામા લખે છે કે એમની ખાસિયત, એટલે કે વિશિષ્ટ ગુણધર્મ, એ છે કે એ દાન લેતા નથી. પોતે બનાવેલાં સુંદર ચિત્રો, શુભેચ્છા કાર્ડસ્, કેલેન્ડર, બેંગ ને ટી-શર્ટ વેચે છે. પત્ર સાથે મામાએ પ્રાચી માટે ગ્રિટિંગ કાર્ડ મોકલ્યું છે, ને એક બેંગ ને પેઇન્ટિંગ ખરીદ્યાં છે.",
+              "brief_summary": "મામા લખે છે કે ચિત્રકારોનું મંડળ દાન લેતું નથી, પોતે બનાવેલી વસ્તુઓ વેચે છે.",
+              "objective_ids": [
+                "O5"
+              ],
+              "modified_chunk": "મોં કે પગથી ચિત્ર દોરનારા આવા અનેક ચિત્રકારો છે અને એમનું એક મંડળ (સાથે મળીને કામ કરતું જૂથ) છે, જે દુનિયાભરના એવા ચિત્રકારોને મદદ કરે છે. એ મંડળની ખાસિયત (વિશિષ્ટ ગુણધર્મ) એ છે કે એ દાન લેતું નથી; પોતે બનાવેલાં ચિત્રો, શુભેચ્છા કાર્ડસ્, કેલેન્ડર, બેંગ ને ટી-શર્ટ વેચે છે. મામા લખે છે કે આ પત્ર સાથે એવા જ એક ચિત્રકારે દોરેલું ગ્રિટિંગ કાર્ડ એમણે મોકલ્યું છે. પ્રાચી માટે એમણે એવા ચિત્રકારના પેઇન્ટિંગવાળી એક સુંદર બેંગ અને એક પેઇન્ટિંગ પણ ખરીદ્યાં છે.",
+              "original_chunk": "આવા મોં કે પગથી ચિત્રો દોરનારા અનેક છે. એમનું એક મંડળ છે. જે દુનિયાભરના આવા ચિત્રકારોને મદદ કરે છે. એમની ખાસિયત છે કે એ દાન લેતા નથી, પણ એમણે બનાવેલાં સુંદર ચિત્રો,શુભેચ્છા કાર્ડસ્, કેલેન્ડર, બેંગ, ટી-શર્ટ વેચે છે. આજે આ પત્ર સાથે મેં તને એક ગ્રિટિંગ કાર્ડ પણ મોકલ્યું છે, જે એવા જ એક ચિત્રકારે દોરેલું છે. મેં તારા માટે એમનું પેઇન્ટિંગ ધરાવતી એક સુંદર બેંગ અને એક પેઇન્ટિંગ ખરીદ્યાં છે. જે તને ખૂબ ગમશે.",
+              "topic_category": "core",
+              "concept_bullets": [
+                "મંડળ — સાથે મળીને કામ કરતું જૂથ.",
+                "ખાસિયત — વિશિષ્ટ ગુણધર્મ; આ મંડળની ખાસ વાત.",
+                "દાન લેતા નથી — સામે કશું લીધા વગરની મદદ સ્વીકારતા નથી.",
+                "વેચે છે — ચિત્રો, શુભેચ્છા કાર્ડસ્, કેલેન્ડર, બેંગ, ટી-શર્ટ."
+              ],
+              "detailed_summary": "મોં કે પગથી ચિત્રો દોરનારા અનેક ચિત્રકારો છે અને એમનું એક મંડળ છે. એ મંડળ દુનિયાભરના આવા ચિત્રકારોને મદદ કરે છે. એની ખાસિયત એ છે કે એ દાન લેતું નથી; એમણે બનાવેલાં સુંદર ચિત્રો, શુભેચ્છા કાર્ડસ્, કેલેન્ડર, બેંગ અને ટી-શર્ટ વેચે છે. મામા લખે છે કે આ પત્ર સાથે એમણે પ્રાચીને એક ગ્રિટિંગ કાર્ડ પણ મોકલ્યું છે, જે એવા જ એક ચિત્રકારે દોરેલું છે. પ્રાચી માટે એમણે એ ચિત્રકારોનું પેઇન્ટિંગ ધરાવતી એક સુંદર બેંગ અને એક પેઇન્ટિંગ ખરીદ્યાં છે.",
+              "important_points": [
+                "દુનિયાભરના — આખી દુનિયાના; મંડળ એવા ચિત્રકારોને મદદ કરે છે.",
+                "ગ્રિટિંગ કાર્ડ — પત્ર સાથે પ્રાચી માટે મોકલેલી ભેટ.",
+                "બેંગ — થેલી; પાઠમાં છપાયેલી જોડણી.",
+                "ધરાવતી — જેના પર પેઇન્ટિંગ છે એવી."
+              ],
+              "publication_text": "પત્ર હવે મંડળની વાત પર વળે છે. મંડળ એટલે સાથે મળીને કામ કરતું જૂથ. મોં કે પગથી ચિત્રો દોરનારા અનેક છે, ને એમનું આ મંડળ દુનિયાભરના એવા ચિત્રકારોને મદદ કરે છે. મામા લખે છે કે એમની ખાસિયત, એટલે કે વિશિષ્ટ ગુણધર્મ, એ છે કે એ દાન લેતા નથી. પોતે બનાવેલાં સુંદર ચિત્રો, શુભેચ્છા કાર્ડસ્, કેલેન્ડર, બેંગ ને ટી-શર્ટ વેચે છે. પત્ર સાથે મામાએ પ્રાચી માટે ગ્રિટિંગ કાર્ડ મોકલ્યું છે, ને એક બેંગ ને પેઇન્ટિંગ ખરીદ્યાં છે.",
+              "recall_questions": [
+                {
+                  "id": "M2.S3.T5.RQ1",
+                  "legacy_id": "M2.S3.T5.TR1",
+                  "prompt": "ચિત્રકારોનું મંડળ શું શું વેચે છે ?",
+                  "answer": "એમણે બનાવેલાં સુંદર ચિત્રો, શુભેચ્છા કાર્ડસ્, કેલેન્ડર, બેંગ અને ટી-શર્ટ.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M2.S3.T5.RQ2",
+                  "legacy_id": "M2.S3.T5.TR2",
+                  "prompt": "મંડળની ખાસિયત શી છે ? બંને ભાગ કહો.",
+                  "answer": "એક તો એ દાન લેતું નથી. બીજું, એ પોતે બનાવેલી વસ્તુઓ વેચે છે. પત્રમાં આ બંને વાત એક જ વાક્યમાં લખેલી છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M2.S3.T5.RQ3",
+                  "legacy_id": "M2.S3.T5.TR3",
+                  "prompt": "તમારા વર્ગમાં કોઈ સરસ ચિત્ર દોરે છે. મંડળની રીતે એનું ચિત્ર બીજા સુધી કેવી રીતે પહોંચે ?",
+                  "answer": "એક શક્ય જવાબ : પત્રમાં લખ્યા મુજબ ચિત્રકારો પોતાનાં ચિત્રો, કાર્ડસ્ ને કેલેન્ડર વેચે છે. એ જ રીતે વર્ગનું ચિત્ર કાર્ડ પર મૂકીને શાળાના મેળામાં વેચી શકાય — પોતાનું બનાવેલું વેચીને.",
+                  "difficulty": "medium",
+                  "bloom_level": "apply"
+                }
+              ],
+              "source_topic_ids": [],
+              "publication_chunk": "આવા મોં કે પગથી ચિત્રો દોરનારા અનેક છે. એમનું એક મંડળ છે. જે દુનિયાભરના આવા ચિત્રકારોને મદદ કરે છે. એમની ખાસિયત છે કે એ દાન લેતા નથી, પણ એમણે બનાવેલાં સુંદર ચિત્રો,શુભેચ્છા કાર્ડસ્, કેલેન્ડર, બેંગ, ટી-શર્ટ વેચે છે. આજે આ પત્ર સાથે મેં તને એક ગ્રિટિંગ કાર્ડ પણ મોકલ્યું છે, જે એવા જ એક ચિત્રકારે દોરેલું છે. મેં તારા માટે એમનું પેઇન્ટિંગ ધરાવતી એક સુંદર બેંગ અને એક પેઇન્ટિંગ ખરીદ્યાં છે. જે તને ખૂબ ગમશે.\n\nપત્ર હવે મંડળની વાત પર વળે છે. મંડળ એટલે સાથે મળીને કામ કરતું જૂથ. મોં કે પગથી ચિત્રો દોરનારા અનેક છે, ને એમનું આ મંડળ દુનિયાભરના એવા ચિત્રકારોને મદદ કરે છે. મામા લખે છે કે એમની ખાસિયત, એટલે કે વિશિષ્ટ ગુણધર્મ, એ છે કે એ દાન લેતા નથી. પોતે બનાવેલાં સુંદર ચિત્રો, શુભેચ્છા કાર્ડસ્, કેલેન્ડર, બેંગ ને ટી-શર્ટ વેચે છે. પત્ર સાથે મામાએ પ્રાચી માટે ગ્રિટિંગ કાર્ડ મોકલ્યું છે, ને એક બેંગ ને પેઇન્ટિંગ ખરીદ્યાં છે.\n\nશાળામાં બાલમેળો ભરાય ત્યારે વર્ગને પોતાનું ટેબલ મળે છે. આગલી રાતે ઘેર બેસીને કાગળનાં ફૂલ ને રંગેલા બુકમાર્ક બનાવાય છે. બીજે દિવસે એ ટેબલ પર ગોઠવાય ને કોઈ આવીને ખરીદે. હાથમાં જે પૈસા આવે તે માગેલા નથી, પોતાના બનાવેલાના છે. એ ઘડીએ છાતી જરા ફૂલે છે. પત્રમાં લખેલા ચિત્રકારો પણ પોતાનું બનાવેલું જ વેચે છે.",
+              "real_life_example": "શાળામાં બાલમેળો ભરાય ત્યારે વર્ગને પોતાનું ટેબલ મળે છે. તમે આગલી રાતે ઘેર બેસીને કાગળનાં ફૂલ ને રંગેલા બુકમાર્ક બનાવો છો. બીજે દિવસે એ ટેબલ પર ગોઠવો ને કોઈ આવીને ખરીદે. હાથમાં જે પૈસા આવે તે માગેલા નથી, તમારા બનાવેલાના છે. એ ઘડીએ છાતી જરા ફૂલે છે. પત્રમાં લખેલા ચિત્રકારો પણ પોતાનું બનાવેલું જ વેચે છે. તમે જાતે બનાવીને શું વેચ્યું છે ?",
+              "estimated_exchanges": "4",
+              "learning_objectives": [
+                {
+                  "objective_id": "O5",
+                  "legacy_id": "L5",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "ચિત્રકારોનું મંડળ દાન લેતું નથી પણ શું શું વેચે છે તે પત્રમાંથી શોધીને, મામાએ પ્રાચી માટે શું મોકલ્યું ને શું ખરીદ્યું તે કહેવું.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M2.S3.T5",
+                  "anchor": [
+                    "M2.S3.T5.C7"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "primary_content_type": "image",
+              "tertiary_content_type": null,
+              "secondary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "મંડળ",
+                  "arth": "સાથે મળીને કામ કરતું જૂથ",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "ખાસિયત",
+                  "arth": "વિશિષ્ટ ગુણધર્મ",
+                  "prakar": "આગત"
+                },
+                {
+                  "shabd": "દાન",
+                  "arth": "સામે કશું લીધા વગર અપાતી મદદ",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "બેંગ",
+                  "arth": "થેલી",
+                  "prakar": "આગત"
+                },
+                {
+                  "shabd": "ધરાવતી",
+                  "arth": "જેના પર છે એવી, જે ધારણ કરે છે તે",
+                  "prakar": "તદ્ભવ"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "સુંદર",
+                  "samanarthi": [
+                    "સરસ",
+                    "રૂપાળું"
+                  ]
+                },
+                {
+                  "shabd": "મદદ",
+                  "samanarthi": [
+                    "સહાય"
+                  ]
+                }
+              ],
+              "vilom": [],
+              "vyakaran": [
+                {
+                  "bindu": "નામ",
+                  "udaharan": "એમનું એક મંડળ છે.",
+                  "note": "'મંડળ' એ માણસોના જૂથનું નામ છે — સમૂહવાચક નામ. એ જ પડાવમાં 'ચિત્રકારો' જાતિવાચક નામ છે. નામ કઈ જાતનું છે એ જોવાથી વાક્યનો અર્થ સાફ થાય છે."
+                }
+              ]
+            },
+            {
+              "media": [
+                {
+                  "concept_id": "M2.S3.T6.C8",
+                  "id": "M2.S3.T6.C8.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "ઘરમાં પ્રણામ",
+                  "description": "સાંજે ઘરના ઓરડામાં હીંચકે બેઠેલાં મમ્મી અને પાસે બેઠેલા પપ્પાને એક છોકરી બે હાથ જોડીને પ્રણામ કરે છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "home_concept_id": "M2.S3.T6.C8",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બને ત્યાં સુધી છેલ્લી બે લીટી મોટેથી વંચાવો અને પૂછો કે મામા આ સંદેશો કોના માટે લખે છે; પછી 'આશિષ' ને શરૂઆતના 'પ્રિય પ્રાચી,' સાથે જોડીને બતાવો કે પત્રના બંને છેડે એ જ સંબંધ બોલે છે.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, portrait likeness of a real named person, photographic portrait of a named artist, pity or sorrowful expressions, charity framing, donation box, collection tin, begging imagery, hospital or medical framing, motivational poster layout, text banner with a moral, inspirational quote lettering, close-up of legible handwritten letter text, digits or numerals in any lettering, devotional poster art",
+                  "generation_prompt": "The front room of a Gujarati home in the early evening: whitewashed walls, a polished wooden swing hanging on chains from the ceiling, a beaded toran across the doorway, a brass water pot on a shelf, warm light from a single bulb. A girl of about eleven in a simple cotton frock stands with her palms joined and her head bowed a little, greeting her mother, who sits on the swing with a steel tumbler of tea, and her father, who sits on a low wooden stool beside the swing. Both parents are smiling at her; one of them has a hand half-raised in reply. Affectionate everyday domestic mood, an ordinary evening at home, no letter and no envelope anywhere in the frame. All cloth, calendars and wall surfaces are plain with no lettering. A narrator bar runs across the bottom of the frame carrying this exact Gujarati line, lettered in Gujarati script and nothing else: 'એમને પ્રણામ કહેજે.'. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "summary": "પત્રને છેડે મામા ઘર તરફ વળે છે — 'તારાં મમ્મી અને પપ્પા મજામાં હશે. એમને પ્રણામ કહેજે.' પછી છેલ્લી લીટીમાં '- વિવેકમામાનાં આશિષ' લખીને પત્ર પૂરો થાય છે. એ લીટીમાં લખનારનું નામ પણ છે અને પ્રાચી સાથેનો સંબંધ પણ.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C8",
+                  "concept_name": "ઘરનાં માટે સંદેશો ને '- વિવેકમામાનાં આશિષ' સહી",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "પત્રને છેડે મામા ઘર તરફ વળે છે — 'તારાં મમ્મી અને પપ્પા મજામાં હશે. એમને પ્રણામ કહેજે.' પ્રણામ એટલે નમસ્કાર. પછી છેલ્લી લીટીમાં '- વિવેકમામાનાં આશિષ' લખાયું છે. આશિષ એટલે વડીલના આશીર્વાદ; એ કોઈનું નામ નથી. વડીલ ઘરના નાના સ્વજનને પત્ર લખે ત્યારે અંતે આશીર્વાદ લખે છે — અને એ જ સંબંધને લીધે શરૂઆતમાં 'પ્રિય પ્રાચી,' હતું.",
+                      "publication_text": "પત્રને છેડે મામા ઘર તરફ વળે છે — 'તારાં મમ્મી અને પપ્પા મજામાં હશે. એમને પ્રણામ કહેજે.' પ્રણામ એટલે નમસ્કાર. પછી છેલ્લી લીટીમાં '- વિવેકમામાનાં આશિષ' લખાયું છે. આશિષ એટલે વડીલના આશીર્વાદ; એ કોઈનું નામ નથી. વડીલ ઘરના નાના સ્વજનને પત્ર લખે ત્યારે અંતે આશીર્વાદ લખે છે — અને એ જ સંબંધને લીધે શરૂઆતમાં 'પ્રિય પ્રાચી,' હતું."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "પ્રણામ — નમસ્કાર.",
+                        "આશિષ — વડીલના આશીર્વાદ.",
+                        "સહી — લખનારનું નામ ને સંબંધ એક જ લીટીમાં.",
+                        "સ્વાધ્યાયમાં પ્રાચી બનીને મામાને જવાબી પત્ર લખવાનો છે."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "topic_id": "M2.S3.T6",
+              "key_terms": [
+                "તારાં — તારા; મમ્મી ને પપ્પા બંને માટે વપરાયું છે, એટલે અનુસ્વાર આવ્યો છે.",
+                "પ્રણામ — નમસ્કાર, વડીલને પગે લાગવું",
+                "કહેજે — કહી દેજે; મામા ભાણેજને હેતથી આપેલી સૂચના છે.",
+                "આશિષ — આશીર્વાદ, વડીલનું હેત ભરેલું વચન"
+              ],
+              "depends_on": [],
+              "difficulty": "easy",
+              "topic_name": "ઘરનાં માટે પ્રણામ ને મામાના આશિષ",
+              "topic_type": "instructional",
+              "word_count": {
+                "original": 12
+              },
+              "explanation": "બાળકો, જુઓ — છેલ્લે પત્ર ઘર તરફ વળે છે. મામા લખે છે : 'તારાં મમ્મી અને પપ્પા મજામાં હશે. એમને પ્રણામ કહેજે.' પ્રણામ એટલે નમસ્કાર. 'કહેજે' શબ્દ પરથી સંભળાય છે કે વડીલ ઘરના નાના સ્વજનને હેતથી કહે છે. પછી છેલ્લી લીટી આવે છે : '- વિવેકમામાનાં આશિષ'. આશિષ એટલે વડીલના આશીર્વાદ; એ કોઈનું નામ નથી. આ લીટીમાં લખનારનું નામ પણ છે ને પ્રાચી સાથેનો સંબંધ પણ. શરૂઆતમાં 'પ્રિય પ્રાચી,' હતું ને અંતે આશિષ — બંને છેડે એ જ હેત દેખાય છે.",
+              "brief_summary": "પત્રને છેડે મામા ઘરનાં માટે પ્રણામ કહેવડાવે છે ને '- વિવેકમામાનાં આશિષ' લખીને પૂરું કરે છે.",
+              "objective_ids": [
+                "O6"
+              ],
+              "modified_chunk": "પત્રને છેડે મામા ઘર તરફ વળે છે — પ્રાચીનાં મમ્મી અને પપ્પા મજામાં હશે એમ કહે છે, અને એમને પ્રણામ (નમસ્કાર) કહેવાનું પ્રાચીને કહે છે. પછી '- વિવેકમામાનાં આશિષ' લખીને પત્ર પૂરો થાય છે. આ છેલ્લી પંક્તિમાં લખનારનું નામ પણ છે અને પ્રાચી સાથેનો સંબંધ પણ.",
+              "original_chunk": "તારાં મમ્મી અને પપ્પા મજામાં હશે. એમને પ્રણામ કહેજે.\n- વિવેકમામાનાં આશિષ",
+              "topic_category": "resolution",
+              "concept_bullets": [
+                "પ્રણામ — નમસ્કાર, વડીલને પગે લાગવું.",
+                "કહેજે — કહી દેજે; મામા ભાણેજને હેતથી આપેલી સૂચના.",
+                "આશિષ — વડીલના આશીર્વાદ; એ કોઈનું નામ નથી.",
+                "સમાપન-સહી — પત્રને છેડે લખનારનું નામ ને સંબંધ."
+              ],
+              "detailed_summary": "પત્રની છેલ્લી વાત ઘરનાં માટે છે. મામા લખે છે કે પ્રાચીનાં મમ્મી અને પપ્પા મજામાં હશે, અને એમને પ્રણામ કહેવાનું પ્રાચીને કહે છે. પ્રણામ એટલે નમસ્કાર. પછી પત્ર '- વિવેકમામાનાં આશિષ' એ સહી સાથે પૂરો થાય છે. આશિષ એટલે વડીલના આશીર્વાદ — એ કોઈનું નામ નથી. પત્રની શરૂઆતના 'પ્રિય પ્રાચી,' અને અંતના આશિષ — બંને છેડે મામા અને ભાણીનો એ જ હેતાળ સંબંધ દેખાય છે.",
+              "important_points": [
+                "તારાં — મમ્મી ને પપ્પા બંને માટે; એટલે અનુસ્વાર આવ્યો છે.",
+                "'પ્રિય પ્રાચી,' ને 'આશિષ' — પત્રના બે છેડે એક જ સંબંધ.",
+                "ઘરનાં માટે સંદેશો — પત્ર પૂરો થતાં પહેલાં સૌને યાદ કરવાં.",
+                "જવાબી પત્ર — સ્વાધ્યાયમાં પ્રાચી બનીને પત્ર લખવાનો છે."
+              ],
+              "publication_text": "છેલ્લે પત્ર ઘર તરફ વળે છે. મામા લખે છે : 'તારાં મમ્મી અને પપ્પા મજામાં હશે. એમને પ્રણામ કહેજે.' પ્રણામ એટલે નમસ્કાર. 'કહેજે' શબ્દ પરથી સંભળાય છે કે વડીલ ઘરના નાના સ્વજનને હેતથી કહે છે. પછી છેલ્લી લીટી આવે છે : '- વિવેકમામાનાં આશિષ'. આશિષ એટલે વડીલના આશીર્વાદ; એ કોઈનું નામ નથી. આ લીટીમાં લખનારનું નામ પણ છે ને પ્રાચી સાથેનો સંબંધ પણ. શરૂઆતમાં 'પ્રિય પ્રાચી,' હતું ને અંતે આશિષ — બંને છેડે એ જ હેત દેખાય છે.",
+              "recall_questions": [
+                {
+                  "id": "M2.S3.T6.RQ1",
+                  "legacy_id": "M2.S3.T6.TR1",
+                  "prompt": "પત્રની છેલ્લી લીટીમાં શું લખ્યું છે ?",
+                  "answer": "'- વિવેકમામાનાં આશિષ' લખ્યું છે. એટલે વિવેકમામાના આશીર્વાદ.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M2.S3.T6.RQ2",
+                  "legacy_id": "M2.S3.T6.TR2",
+                  "prompt": "'એમને પ્રણામ કહેજે.' — મામા કોને, ને શું કહેવાનું કહે છે ?",
+                  "answer": "મામા પ્રાચીને કહે છે કે એનાં મમ્મી અને પપ્પાને પ્રણામ કહેજે. પ્રણામ એટલે નમસ્કાર.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M2.S3.T6.RQ3",
+                  "legacy_id": "M2.S3.T6.TR3",
+                  "prompt": "શરૂઆતનું 'પ્રિય પ્રાચી,' અને અંતનું 'આશિષ' — બંને પરથી લખનારનો પ્રાચી સાથેનો સંબંધ કેવો લાગે છે ?",
+                  "answer": "લખનાર પ્રાચીના મામા છે અને પ્રાચી એમની ભાણી છે. 'પ્રિય' વહાલા સ્વજનને લખાય છે, અને આશીર્વાદ વડીલ પોતાનાથી નાનાંને આપે છે. એટલે પત્રના બંને છેડે એ જ હેતાળ સંબંધ દેખાય છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "source_topic_ids": [],
+              "publication_chunk": "તારાં મમ્મી અને પપ્પા મજામાં હશે. એમને પ્રણામ કહેજે.\n- વિવેકમામાનાં આશિષ\n\nછેલ્લે પત્ર ઘર તરફ વળે છે. મામા લખે છે : 'તારાં મમ્મી અને પપ્પા મજામાં હશે. એમને પ્રણામ કહેજે.' પ્રણામ એટલે નમસ્કાર. 'કહેજે' શબ્દ પરથી સંભળાય છે કે વડીલ ઘરના નાના સ્વજનને હેતથી કહે છે. પછી છેલ્લી લીટી આવે છે : '- વિવેકમામાનાં આશિષ'. આશિષ એટલે વડીલના આશીર્વાદ; એ કોઈનું નામ નથી. આ લીટીમાં લખનારનું નામ પણ છે ને પ્રાચી સાથેનો સંબંધ પણ. શરૂઆતમાં 'પ્રિય પ્રાચી,' હતું ને અંતે આશિષ — બંને છેડે એ જ હેત દેખાય છે.\n\nમામા-માસી બે દિવસ રહીને પાછાં જાય તે સવાર જુદી હોય છે. ઘરમાં ધીમી દોડાદોડ હોય છે. બા વહેલાં ઊઠીને થેપલાં શેકે ને ડબ્બામાં ભરી આપે. બસ ઊપડવાની હોય ત્યારે ઉંબરે ઊભાં રહીને એ કહે — 'બધાંને કહેજો, ને પહોંચીને ખબર આપજો.' પછી માથે હાથ મૂકે. છૂટા પડતી વખતનું આ છેલ્લું વાક્ય જ સૌથી વધારે યાદ રહી જાય છે. મામાના પત્રનો છેડો પણ આવો જ છે.",
+              "real_life_example": "મામા-માસી બે દિવસ રહીને પાછાં જાય તે સવાર યાદ કરો. ઘરમાં ધીમી દોડાદોડ હોય છે. બા વહેલાં ઊઠીને થેપલાં શેકે ને ડબ્બામાં ભરી આપે. બસ ઊપડવાની હોય ત્યારે ઉંબરે ઊભાં રહીને એ કહે — 'બધાંને કહેજો, ને પહોંચીને ખબર આપજો.' પછી માથે હાથ મૂકે. છૂટા પડતી વખતનું આ છેલ્લું વાક્ય જ સૌથી વધારે યાદ રહી જાય છે. મામાના પત્રનો છેડો પણ આવો જ છે. તમારે ઘેર છેલ્લે કોણ આવીને ગયું ?",
+              "estimated_exchanges": "4",
+              "learning_objectives": [
+                {
+                  "objective_id": "O6",
+                  "legacy_id": "L6",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "પત્રને છેડે ઘરનાં માટે લખેલો સંદેશો અને '- વિવેકમામાનાં આશિષ' સહી વાંચીને, લખનારનો પ્રાચી સાથેનો સંબંધ કેવો છે તે કહેવું.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M2.S3.T6",
+                  "anchor": [
+                    "M2.S3.T6.C8"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "primary_content_type": "image",
+              "tertiary_content_type": null,
+              "secondary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "પ્રણામ",
+                  "arth": "નમસ્કાર, વડીલને પગે લાગવું",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "આશિષ",
+                  "arth": "આશીર્વાદ, વડીલનું હેત ભરેલું વચન",
+                  "prakar": "તદ્ભવ"
+                },
+                {
+                  "shabd": "કહેજે",
+                  "arth": "કહી દેજે",
+                  "prakar": "તદ્ભવ"
+                },
+                {
+                  "shabd": "મજામાં",
+                  "arth": "સારી તબિયતમાં, આનંદમાં",
+                  "prakar": "તદ્ભવ"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "પ્રણામ",
+                  "samanarthi": [
+                    "નમસ્કાર",
+                    "વંદન"
+                  ]
+                },
+                {
+                  "shabd": "આશિષ",
+                  "samanarthi": [
+                    "આશીર્વાદ"
+                  ]
+                }
+              ],
+              "vilom": [],
+              "vyakaran": [
+                {
+                  "bindu": "અનુસ્વાર",
+                  "udaharan": "તારાં મમ્મી અને પપ્પા",
+                  "note": "'તારાં' પર અનુસ્વાર છે, કારણ કે મમ્મી અને પપ્પા બંનેની વાત છે. એક જણ માટે 'તારા' લખાય. અનુસ્વાર શણગાર નથી, એ અર્થ બદલે છે."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "plan_id": "gseb_eng_gujarati6_ch8_v1",
+  "subject": "Gujarati",
+  "version": 1,
+  "ordering": "textbook",
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 6",
+  "_activate": false,
+  "medium_id": null,
+  "chapter_id": "gseb_eng_gujarati6_ch8",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પત્રની ટોચે છપાયેલાં સરનામું ને તારીખ અને 'પ્રિય પ્રાચી,' એ પહેલી પંક્તિ ઓળખીને, મામા શરૂઆતમાં કયા ખબર ને કઈ શુભેચ્છા લખે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1",
+        "M1.S1.T1.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શુભેચ્છા-કાર્ડ દોરનારા ચિત્રકારોની કઈ વાતને મામા નવાઈની વાત કહે છે તે પત્રમાંથી શોધીને, 'છે ને ગજબની વાત !' કેમ લખ્યું તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મૃદુલ ઘોષને અકસ્માતમાં શું થયું, પછી સંસ્થાની મદદથી એમણે શું કર્યું અને આજે એ શું કરે છે — પત્રમાં લખાયેલી આ વિગતો ક્રમમાં કહેવી.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": [
+        "M2.S2.T3.C4",
+        "M2.S2.T3.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મનોજ ભિંગારે વિશે પત્ર શું શું જણાવે છે — બંને હાથ, મોઢેથી દોરવાનું, કૉલેજનો ડિપ્લોમા અને આજનું કામ — તે પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": [
+        "M2.S2.T4.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ચિત્રકારોનું મંડળ દાન લેતું નથી પણ શું શું વેચે છે તે પત્રમાંથી શોધીને, મામાએ પ્રાચી માટે શું મોકલ્યું ને શું ખરીદ્યું તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પત્રને છેડે ઘરનાં માટે લખેલો સંદેશો અને '- વિવેકમામાનાં આશિષ' સહી વાંચીને, લખનારનો પ્રાચી સાથેનો સંબંધ કેવો છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": [
+        "M2.S3.T6.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "unit_title": "મામાનો પત્ર",
+  "topic_title": "મામાનો પત્ર",
+  "unit_number": 8,
+  "chapter_name": "મામાનો પત્ર",
+  "textbook_url": "../Textbooks-pdf/std-6/ch-08-mamano-patra.pdf",
+  "topic_number": 8,
+  "teaching_lens": "પડાવ + દૃષ્ટિ + સંબોધન — લખનાર ક્યાં થોભે છે, ત્યાં શું જુએ છે, અને કોને કહે છે; મામા-ભાણેજનો સંબંધ જ પત્રની ભાષા અને '- વિવેકમામાનાં આશિષ' સમાપનનું કારણ છે",
+  "estimated_time": 1.5,
+  "publication_id": 1,
+  "subject_ref_id": null,
+  "textbook_pages": "50–54",
+  "english_plan_id": null,
+  "guiding_question": "વિવેકમામા દિવાળીની શુભેચ્છા સાથે પ્રાચીને આ બે ચિત્રકારોની જ વાત કેમ લખે છે ?",
+  "chapter_master_id": null,
+  "english_chapter_id": null,
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6"
+  }
+}

@@ -1,0 +1,2803 @@
+{
+  "_comment": "Hand-maintained registry: chapter_id -> {chapter_master_id (required), path (required, chapter folder relative to data/), publication_id?, estimated_time?}. Keys starting with _ are ignored. See chapter_master_map.example.json.",
+  "bseap_tel_sci7_ch2": {
+    "chapter_master_id": 225,
+    "path": "V2/bseap/cbse/telugu/class_7/science/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch1": {
+    "chapter_master_id": 428,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch10": {
+    "chapter_master_id": 419,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch11": {
+    "chapter_master_id": 418,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch12": {
+    "chapter_master_id": 417,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch13": {
+    "chapter_master_id": 416,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch14": {
+    "chapter_master_id": 415,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch15": {
+    "chapter_master_id": 414,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_15",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch16": {
+    "chapter_master_id": 413,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_16",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch17": {
+    "chapter_master_id": 412,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_17",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch18": {
+    "chapter_master_id": 411,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_18",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch2": {
+    "chapter_master_id": 427,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch3": {
+    "chapter_master_id": 426,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch4": {
+    "chapter_master_id": 425,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch5": {
+    "chapter_master_id": 424,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch6": {
+    "chapter_master_id": 423,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch7": {
+    "chapter_master_id": 422,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch8": {
+    "chapter_master_id": 421,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_eng10_ch9": {
+    "chapter_master_id": 420,
+    "path": "V2/cbse/cbse/english/class_10/english/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_eng3_ch1": {
+    "chapter_master_id": 512,
+    "path": "V2/cbse/cbse/english/class_3/english/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_eng3_ch10": {
+    "chapter_master_id": 503,
+    "path": "V2/cbse/cbse/english/class_3/english/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_eng3_ch11": {
+    "chapter_master_id": 502,
+    "path": "V2/cbse/cbse/english/class_3/english/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_eng3_ch12": {
+    "chapter_master_id": 501,
+    "path": "V2/cbse/cbse/english/class_3/english/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_eng3_ch2": {
+    "chapter_master_id": 511,
+    "path": "V2/cbse/cbse/english/class_3/english/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_eng3_ch3": {
+    "chapter_master_id": 510,
+    "path": "V2/cbse/cbse/english/class_3/english/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_eng3_ch4": {
+    "chapter_master_id": 509,
+    "path": "V2/cbse/cbse/english/class_3/english/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_eng3_ch5": {
+    "chapter_master_id": 508,
+    "path": "V2/cbse/cbse/english/class_3/english/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_eng3_ch6": {
+    "chapter_master_id": 507,
+    "path": "V2/cbse/cbse/english/class_3/english/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_eng3_ch7": {
+    "chapter_master_id": 506,
+    "path": "V2/cbse/cbse/english/class_3/english/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_eng3_ch8": {
+    "chapter_master_id": 505,
+    "path": "V2/cbse/cbse/english/class_3/english/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_eng3_ch9": {
+    "chapter_master_id": 504,
+    "path": "V2/cbse/cbse/english/class_3/english/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_eng4_ch1": {
+    "chapter_master_id": 500,
+    "path": "V2/cbse/cbse/english/class_4/english/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_eng4_ch10": {
+    "chapter_master_id": 491,
+    "path": "V2/cbse/cbse/english/class_4/english/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_eng4_ch11": {
+    "chapter_master_id": 490,
+    "path": "V2/cbse/cbse/english/class_4/english/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_eng4_ch12": {
+    "chapter_master_id": 489,
+    "path": "V2/cbse/cbse/english/class_4/english/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_eng4_ch2": {
+    "chapter_master_id": 499,
+    "path": "V2/cbse/cbse/english/class_4/english/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_eng4_ch3": {
+    "chapter_master_id": 498,
+    "path": "V2/cbse/cbse/english/class_4/english/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_eng4_ch4": {
+    "chapter_master_id": 497,
+    "path": "V2/cbse/cbse/english/class_4/english/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_eng4_ch5": {
+    "chapter_master_id": 496,
+    "path": "V2/cbse/cbse/english/class_4/english/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_eng4_ch6": {
+    "chapter_master_id": 495,
+    "path": "V2/cbse/cbse/english/class_4/english/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_eng4_ch7": {
+    "chapter_master_id": 494,
+    "path": "V2/cbse/cbse/english/class_4/english/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_eng4_ch8": {
+    "chapter_master_id": 493,
+    "path": "V2/cbse/cbse/english/class_4/english/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_eng4_ch9": {
+    "chapter_master_id": 492,
+    "path": "V2/cbse/cbse/english/class_4/english/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_eng5_ch1": {
+    "chapter_master_id": 377,
+    "path": "V2/cbse/cbse/english/class_5/english/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_eng5_ch10": {
+    "chapter_master_id": 369,
+    "path": "V2/cbse/cbse/english/class_5/english/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_eng5_ch2": {
+    "chapter_master_id": 376,
+    "path": "V2/cbse/cbse/english/class_5/english/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_eng5_ch3": {
+    "chapter_master_id": 378,
+    "path": "V2/cbse/cbse/english/class_5/english/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_eng5_ch4": {
+    "chapter_master_id": 375,
+    "path": "V2/cbse/cbse/english/class_5/english/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_eng5_ch5": {
+    "chapter_master_id": 374,
+    "path": "V2/cbse/cbse/english/class_5/english/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_eng5_ch6": {
+    "chapter_master_id": 373,
+    "path": "V2/cbse/cbse/english/class_5/english/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_eng5_ch7": {
+    "chapter_master_id": 372,
+    "path": "V2/cbse/cbse/english/class_5/english/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_eng5_ch8": {
+    "chapter_master_id": 371,
+    "path": "V2/cbse/cbse/english/class_5/english/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_eng5_ch9": {
+    "chapter_master_id": 370,
+    "path": "V2/cbse/cbse/english/class_5/english/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_eng6_ch1": {
+    "chapter_master_id": 394,
+    "path": "V2/cbse/cbse/english/class_6/english/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_eng6_ch10": {
+    "chapter_master_id": 385,
+    "path": "V2/cbse/cbse/english/class_6/english/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_eng6_ch11": {
+    "chapter_master_id": 384,
+    "path": "V2/cbse/cbse/english/class_6/english/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_eng6_ch12": {
+    "chapter_master_id": 383,
+    "path": "V2/cbse/cbse/english/class_6/english/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_eng6_ch13": {
+    "chapter_master_id": 382,
+    "path": "V2/cbse/cbse/english/class_6/english/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_eng6_ch14": {
+    "chapter_master_id": 381,
+    "path": "V2/cbse/cbse/english/class_6/english/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_eng6_ch15": {
+    "chapter_master_id": 380,
+    "path": "V2/cbse/cbse/english/class_6/english/ch_15",
+    "publication_id": 1
+  },
+  "cbse_eng_eng6_ch2": {
+    "chapter_master_id": 393,
+    "path": "V2/cbse/cbse/english/class_6/english/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_eng6_ch3": {
+    "chapter_master_id": 392,
+    "path": "V2/cbse/cbse/english/class_6/english/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_eng6_ch4": {
+    "chapter_master_id": 391,
+    "path": "V2/cbse/cbse/english/class_6/english/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_eng6_ch5": {
+    "chapter_master_id": 390,
+    "path": "V2/cbse/cbse/english/class_6/english/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_eng6_ch6": {
+    "chapter_master_id": 389,
+    "path": "V2/cbse/cbse/english/class_6/english/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_eng6_ch7": {
+    "chapter_master_id": 388,
+    "path": "V2/cbse/cbse/english/class_6/english/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_eng6_ch8": {
+    "chapter_master_id": 387,
+    "path": "V2/cbse/cbse/english/class_6/english/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_eng6_ch9": {
+    "chapter_master_id": 386,
+    "path": "V2/cbse/cbse/english/class_6/english/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_eng7_ch1": {
+    "chapter_master_id": 115,
+    "path": "V2/cbse/cbse/english/class_7/english/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_eng7_ch10": {
+    "chapter_master_id": 302,
+    "path": "V2/cbse/cbse/english/class_7/english/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_eng7_ch100": {
+    "chapter_master_id": 122,
+    "path": "V2/cbse/cbse/english/class_7/english/ch_100",
+    "publication_id": 1
+  },
+  "cbse_eng_eng7_ch11": {
+    "chapter_master_id": 301,
+    "path": "V2/cbse/cbse/english/class_7/english/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_eng7_ch12": {
+    "chapter_master_id": 300,
+    "path": "V2/cbse/cbse/english/class_7/english/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_eng7_ch13": {
+    "chapter_master_id": 299,
+    "path": "V2/cbse/cbse/english/class_7/english/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_eng7_ch14": {
+    "chapter_master_id": 298,
+    "path": "V2/cbse/cbse/english/class_7/english/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_eng7_ch15": {
+    "chapter_master_id": 297,
+    "path": "V2/cbse/cbse/english/class_7/english/ch_15",
+    "publication_id": 1
+  },
+  "cbse_eng_eng7_ch2": {
+    "chapter_master_id": 116,
+    "path": "V2/cbse/cbse/english/class_7/english/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_eng7_ch3": {
+    "chapter_master_id": 129,
+    "path": "V2/cbse/cbse/english/class_7/english/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_eng7_ch4": {
+    "chapter_master_id": 293,
+    "path": "V2/cbse/cbse/english/class_7/english/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_eng7_ch5": {
+    "chapter_master_id": 296,
+    "path": "V2/cbse/cbse/english/class_7/english/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_eng7_ch6": {
+    "chapter_master_id": 294,
+    "path": "V2/cbse/cbse/english/class_7/english/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_eng7_ch7": {
+    "chapter_master_id": 295,
+    "path": "V2/cbse/cbse/english/class_7/english/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_eng7_ch8": {
+    "chapter_master_id": 304,
+    "path": "V2/cbse/cbse/english/class_7/english/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_eng7_ch9": {
+    "chapter_master_id": 303,
+    "path": "V2/cbse/cbse/english/class_7/english/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_eng8_ch1": {
+    "chapter_master_id": 443,
+    "path": "V2/cbse/cbse/english/class_8/english/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_eng8_ch10": {
+    "chapter_master_id": 434,
+    "path": "V2/cbse/cbse/english/class_8/english/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_eng8_ch11": {
+    "chapter_master_id": 433,
+    "path": "V2/cbse/cbse/english/class_8/english/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_eng8_ch12": {
+    "chapter_master_id": 432,
+    "path": "V2/cbse/cbse/english/class_8/english/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_eng8_ch13": {
+    "chapter_master_id": 431,
+    "path": "V2/cbse/cbse/english/class_8/english/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_eng8_ch14": {
+    "chapter_master_id": 430,
+    "path": "V2/cbse/cbse/english/class_8/english/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_eng8_ch15": {
+    "chapter_master_id": 429,
+    "path": "V2/cbse/cbse/english/class_8/english/ch_15",
+    "publication_id": 1
+  },
+  "cbse_eng_eng8_ch2": {
+    "chapter_master_id": 442,
+    "path": "V2/cbse/cbse/english/class_8/english/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_eng8_ch3": {
+    "chapter_master_id": 441,
+    "path": "V2/cbse/cbse/english/class_8/english/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_eng8_ch4": {
+    "chapter_master_id": 440,
+    "path": "V2/cbse/cbse/english/class_8/english/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_eng8_ch5": {
+    "chapter_master_id": 439,
+    "path": "V2/cbse/cbse/english/class_8/english/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_eng8_ch6": {
+    "chapter_master_id": 438,
+    "path": "V2/cbse/cbse/english/class_8/english/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_eng8_ch7": {
+    "chapter_master_id": 437,
+    "path": "V2/cbse/cbse/english/class_8/english/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_eng8_ch8": {
+    "chapter_master_id": 436,
+    "path": "V2/cbse/cbse/english/class_8/english/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_eng8_ch9": {
+    "chapter_master_id": 435,
+    "path": "V2/cbse/cbse/english/class_8/english/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_eng9_ch1": {
+    "chapter_master_id": 410,
+    "path": "V2/cbse/cbse/english/class_9/english/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_eng9_ch10": {
+    "chapter_master_id": 401,
+    "path": "V2/cbse/cbse/english/class_9/english/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_eng9_ch11": {
+    "chapter_master_id": 400,
+    "path": "V2/cbse/cbse/english/class_9/english/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_eng9_ch12": {
+    "chapter_master_id": 399,
+    "path": "V2/cbse/cbse/english/class_9/english/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_eng9_ch13": {
+    "chapter_master_id": 398,
+    "path": "V2/cbse/cbse/english/class_9/english/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_eng9_ch14": {
+    "chapter_master_id": 397,
+    "path": "V2/cbse/cbse/english/class_9/english/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_eng9_ch15": {
+    "chapter_master_id": 396,
+    "path": "V2/cbse/cbse/english/class_9/english/ch_15",
+    "publication_id": 1
+  },
+  "cbse_eng_eng9_ch16": {
+    "chapter_master_id": 395,
+    "path": "V2/cbse/cbse/english/class_9/english/ch_16",
+    "publication_id": 1
+  },
+  "cbse_eng_eng9_ch2": {
+    "chapter_master_id": 409,
+    "path": "V2/cbse/cbse/english/class_9/english/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_eng9_ch3": {
+    "chapter_master_id": 408,
+    "path": "V2/cbse/cbse/english/class_9/english/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_eng9_ch4": {
+    "chapter_master_id": 407,
+    "path": "V2/cbse/cbse/english/class_9/english/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_eng9_ch5": {
+    "chapter_master_id": 406,
+    "path": "V2/cbse/cbse/english/class_9/english/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_eng9_ch6": {
+    "chapter_master_id": 405,
+    "path": "V2/cbse/cbse/english/class_9/english/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_eng9_ch7": {
+    "chapter_master_id": 404,
+    "path": "V2/cbse/cbse/english/class_9/english/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_eng9_ch8": {
+    "chapter_master_id": 403,
+    "path": "V2/cbse/cbse/english/class_9/english/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_eng9_ch9": {
+    "chapter_master_id": 402,
+    "path": "V2/cbse/cbse/english/class_9/english/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar10_ch1": {
+    "chapter_master_id": 639,
+    "path": "V2/cbse/cbse/english/class_10/english_grammar/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar10_ch10": {
+    "chapter_master_id": 648,
+    "path": "V2/cbse/cbse/english/class_10/english_grammar/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar10_ch11": {
+    "chapter_master_id": 649,
+    "path": "V2/cbse/cbse/english/class_10/english_grammar/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar10_ch2": {
+    "chapter_master_id": 640,
+    "path": "V2/cbse/cbse/english/class_10/english_grammar/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar10_ch3": {
+    "chapter_master_id": 641,
+    "path": "V2/cbse/cbse/english/class_10/english_grammar/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar10_ch4": {
+    "chapter_master_id": 642,
+    "path": "V2/cbse/cbse/english/class_10/english_grammar/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar10_ch5": {
+    "chapter_master_id": 643,
+    "path": "V2/cbse/cbse/english/class_10/english_grammar/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar10_ch6": {
+    "chapter_master_id": 644,
+    "path": "V2/cbse/cbse/english/class_10/english_grammar/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar10_ch7": {
+    "chapter_master_id": 645,
+    "path": "V2/cbse/cbse/english/class_10/english_grammar/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar10_ch8": {
+    "chapter_master_id": 646,
+    "path": "V2/cbse/cbse/english/class_10/english_grammar/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar10_ch9": {
+    "chapter_master_id": 647,
+    "path": "V2/cbse/cbse/english/class_10/english_grammar/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar5_ch1": {
+    "chapter_master_id": 580,
+    "path": "V2/cbse/cbse/english/class_5/english_grammar/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar5_ch10": {
+    "chapter_master_id": 581,
+    "path": "V2/cbse/cbse/english/class_5/english_grammar/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar5_ch2": {
+    "chapter_master_id": 589,
+    "path": "V2/cbse/cbse/english/class_5/english_grammar/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar5_ch3": {
+    "chapter_master_id": 588,
+    "path": "V2/cbse/cbse/english/class_5/english_grammar/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar5_ch4": {
+    "chapter_master_id": 587,
+    "path": "V2/cbse/cbse/english/class_5/english_grammar/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar5_ch5": {
+    "chapter_master_id": 586,
+    "path": "V2/cbse/cbse/english/class_5/english_grammar/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar5_ch6": {
+    "chapter_master_id": 585,
+    "path": "V2/cbse/cbse/english/class_5/english_grammar/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar5_ch7": {
+    "chapter_master_id": 584,
+    "path": "V2/cbse/cbse/english/class_5/english_grammar/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar5_ch8": {
+    "chapter_master_id": 583,
+    "path": "V2/cbse/cbse/english/class_5/english_grammar/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar5_ch9": {
+    "chapter_master_id": 582,
+    "path": "V2/cbse/cbse/english/class_5/english_grammar/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar6_ch1": {
+    "chapter_master_id": 590,
+    "path": "V2/cbse/cbse/english/class_6/english_grammar/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar6_ch10": {
+    "chapter_master_id": 599,
+    "path": "V2/cbse/cbse/english/class_6/english_grammar/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar6_ch11": {
+    "chapter_master_id": 600,
+    "path": "V2/cbse/cbse/english/class_6/english_grammar/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar6_ch2": {
+    "chapter_master_id": 591,
+    "path": "V2/cbse/cbse/english/class_6/english_grammar/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar6_ch3": {
+    "chapter_master_id": 592,
+    "path": "V2/cbse/cbse/english/class_6/english_grammar/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar6_ch4": {
+    "chapter_master_id": 593,
+    "path": "V2/cbse/cbse/english/class_6/english_grammar/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar6_ch5": {
+    "chapter_master_id": 594,
+    "path": "V2/cbse/cbse/english/class_6/english_grammar/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar6_ch6": {
+    "chapter_master_id": 595,
+    "path": "V2/cbse/cbse/english/class_6/english_grammar/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar6_ch7": {
+    "chapter_master_id": 596,
+    "path": "V2/cbse/cbse/english/class_6/english_grammar/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar6_ch8": {
+    "chapter_master_id": 597,
+    "path": "V2/cbse/cbse/english/class_6/english_grammar/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar6_ch9": {
+    "chapter_master_id": 598,
+    "path": "V2/cbse/cbse/english/class_6/english_grammar/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar7_ch1": {
+    "chapter_master_id": 601,
+    "path": "V2/cbse/cbse/english/class_7/english_grammar/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar7_ch10": {
+    "chapter_master_id": 610,
+    "path": "V2/cbse/cbse/english/class_7/english_grammar/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar7_ch11": {
+    "chapter_master_id": 611,
+    "path": "V2/cbse/cbse/english/class_7/english_grammar/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar7_ch12": {
+    "chapter_master_id": 612,
+    "path": "V2/cbse/cbse/english/class_7/english_grammar/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar7_ch2": {
+    "chapter_master_id": 602,
+    "path": "V2/cbse/cbse/english/class_7/english_grammar/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar7_ch3": {
+    "chapter_master_id": 603,
+    "path": "V2/cbse/cbse/english/class_7/english_grammar/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar7_ch4": {
+    "chapter_master_id": 604,
+    "path": "V2/cbse/cbse/english/class_7/english_grammar/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar7_ch5": {
+    "chapter_master_id": 605,
+    "path": "V2/cbse/cbse/english/class_7/english_grammar/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar7_ch6": {
+    "chapter_master_id": 606,
+    "path": "V2/cbse/cbse/english/class_7/english_grammar/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar7_ch7": {
+    "chapter_master_id": 607,
+    "path": "V2/cbse/cbse/english/class_7/english_grammar/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar7_ch8": {
+    "chapter_master_id": 608,
+    "path": "V2/cbse/cbse/english/class_7/english_grammar/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar7_ch9": {
+    "chapter_master_id": 609,
+    "path": "V2/cbse/cbse/english/class_7/english_grammar/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar8_ch1": {
+    "chapter_master_id": 613,
+    "path": "V2/cbse/cbse/english/class_8/english_grammar/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar8_ch10": {
+    "chapter_master_id": 622,
+    "path": "V2/cbse/cbse/english/class_8/english_grammar/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar8_ch11": {
+    "chapter_master_id": 623,
+    "path": "V2/cbse/cbse/english/class_8/english_grammar/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar8_ch12": {
+    "chapter_master_id": 624,
+    "path": "V2/cbse/cbse/english/class_8/english_grammar/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar8_ch13": {
+    "chapter_master_id": 625,
+    "path": "V2/cbse/cbse/english/class_8/english_grammar/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar8_ch14": {
+    "chapter_master_id": 626,
+    "path": "V2/cbse/cbse/english/class_8/english_grammar/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar8_ch15": {
+    "chapter_master_id": 627,
+    "path": "V2/cbse/cbse/english/class_8/english_grammar/ch_15",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar8_ch2": {
+    "chapter_master_id": 614,
+    "path": "V2/cbse/cbse/english/class_8/english_grammar/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar8_ch3": {
+    "chapter_master_id": 615,
+    "path": "V2/cbse/cbse/english/class_8/english_grammar/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar8_ch4": {
+    "chapter_master_id": 616,
+    "path": "V2/cbse/cbse/english/class_8/english_grammar/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar8_ch5": {
+    "chapter_master_id": 617,
+    "path": "V2/cbse/cbse/english/class_8/english_grammar/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar8_ch6": {
+    "chapter_master_id": 618,
+    "path": "V2/cbse/cbse/english/class_8/english_grammar/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar8_ch7": {
+    "chapter_master_id": 619,
+    "path": "V2/cbse/cbse/english/class_8/english_grammar/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar8_ch8": {
+    "chapter_master_id": 620,
+    "path": "V2/cbse/cbse/english/class_8/english_grammar/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar8_ch9": {
+    "chapter_master_id": 621,
+    "path": "V2/cbse/cbse/english/class_8/english_grammar/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar9_ch1": {
+    "chapter_master_id": 628,
+    "path": "V2/cbse/cbse/english/class_9/english_grammar/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar9_ch10": {
+    "chapter_master_id": 637,
+    "path": "V2/cbse/cbse/english/class_9/english_grammar/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar9_ch11": {
+    "chapter_master_id": 638,
+    "path": "V2/cbse/cbse/english/class_9/english_grammar/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar9_ch2": {
+    "chapter_master_id": 629,
+    "path": "V2/cbse/cbse/english/class_9/english_grammar/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar9_ch3": {
+    "chapter_master_id": 630,
+    "path": "V2/cbse/cbse/english/class_9/english_grammar/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar9_ch4": {
+    "chapter_master_id": 631,
+    "path": "V2/cbse/cbse/english/class_9/english_grammar/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar9_ch5": {
+    "chapter_master_id": 632,
+    "path": "V2/cbse/cbse/english/class_9/english_grammar/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar9_ch6": {
+    "chapter_master_id": 633,
+    "path": "V2/cbse/cbse/english/class_9/english_grammar/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar9_ch7": {
+    "chapter_master_id": 634,
+    "path": "V2/cbse/cbse/english/class_9/english_grammar/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar9_ch8": {
+    "chapter_master_id": 635,
+    "path": "V2/cbse/cbse/english/class_9/english_grammar/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_englishgrammar9_ch9": {
+    "chapter_master_id": 636,
+    "path": "V2/cbse/cbse/english/class_9/english_grammar/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi10_ch1": {
+    "chapter_master_id": 457,
+    "path": "V2/cbse/cbse/english/class_10/hindi/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi10_ch10": {
+    "chapter_master_id": 448,
+    "path": "V2/cbse/cbse/english/class_10/hindi/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi10_ch11": {
+    "chapter_master_id": 447,
+    "path": "V2/cbse/cbse/english/class_10/hindi/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi10_ch12": {
+    "chapter_master_id": 446,
+    "path": "V2/cbse/cbse/english/class_10/hindi/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi10_ch13": {
+    "chapter_master_id": 445,
+    "path": "V2/cbse/cbse/english/class_10/hindi/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi10_ch14": {
+    "chapter_master_id": 444,
+    "path": "V2/cbse/cbse/english/class_10/hindi/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi10_ch2": {
+    "chapter_master_id": 456,
+    "path": "V2/cbse/cbse/english/class_10/hindi/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi10_ch3": {
+    "chapter_master_id": 455,
+    "path": "V2/cbse/cbse/english/class_10/hindi/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi10_ch4": {
+    "chapter_master_id": 454,
+    "path": "V2/cbse/cbse/english/class_10/hindi/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi10_ch5": {
+    "chapter_master_id": 453,
+    "path": "V2/cbse/cbse/english/class_10/hindi/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi10_ch6": {
+    "chapter_master_id": 452,
+    "path": "V2/cbse/cbse/english/class_10/hindi/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi10_ch7": {
+    "chapter_master_id": 451,
+    "path": "V2/cbse/cbse/english/class_10/hindi/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi10_ch8": {
+    "chapter_master_id": 450,
+    "path": "V2/cbse/cbse/english/class_10/hindi/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi10_ch9": {
+    "chapter_master_id": 449,
+    "path": "V2/cbse/cbse/english/class_10/hindi/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch1": {
+    "chapter_master_id": 475,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch10": {
+    "chapter_master_id": 466,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch11": {
+    "chapter_master_id": 465,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch12": {
+    "chapter_master_id": 464,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch13": {
+    "chapter_master_id": 463,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch14": {
+    "chapter_master_id": 462,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch15": {
+    "chapter_master_id": 461,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_15",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch16": {
+    "chapter_master_id": 460,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_16",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch17": {
+    "chapter_master_id": 459,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_17",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch18": {
+    "chapter_master_id": 458,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_18",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch2": {
+    "chapter_master_id": 474,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch3": {
+    "chapter_master_id": 473,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch4": {
+    "chapter_master_id": 472,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch5": {
+    "chapter_master_id": 471,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch6": {
+    "chapter_master_id": 470,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch7": {
+    "chapter_master_id": 469,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch8": {
+    "chapter_master_id": 468,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi3_ch9": {
+    "chapter_master_id": 467,
+    "path": "V2/cbse/cbse/english/class_3/hindi/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi4_ch1": {
+    "chapter_master_id": 488,
+    "path": "V2/cbse/cbse/english/class_4/hindi/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi4_ch10": {
+    "chapter_master_id": 479,
+    "path": "V2/cbse/cbse/english/class_4/hindi/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi4_ch11": {
+    "chapter_master_id": 478,
+    "path": "V2/cbse/cbse/english/class_4/hindi/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi4_ch12": {
+    "chapter_master_id": 477,
+    "path": "V2/cbse/cbse/english/class_4/hindi/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi4_ch13": {
+    "chapter_master_id": 476,
+    "path": "V2/cbse/cbse/english/class_4/hindi/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi4_ch2": {
+    "chapter_master_id": 487,
+    "path": "V2/cbse/cbse/english/class_4/hindi/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi4_ch3": {
+    "chapter_master_id": 486,
+    "path": "V2/cbse/cbse/english/class_4/hindi/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi4_ch4": {
+    "chapter_master_id": 485,
+    "path": "V2/cbse/cbse/english/class_4/hindi/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi4_ch5": {
+    "chapter_master_id": 484,
+    "path": "V2/cbse/cbse/english/class_4/hindi/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi4_ch6": {
+    "chapter_master_id": 483,
+    "path": "V2/cbse/cbse/english/class_4/hindi/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi4_ch7": {
+    "chapter_master_id": 482,
+    "path": "V2/cbse/cbse/english/class_4/hindi/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi4_ch8": {
+    "chapter_master_id": 481,
+    "path": "V2/cbse/cbse/english/class_4/hindi/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi4_ch9": {
+    "chapter_master_id": 480,
+    "path": "V2/cbse/cbse/english/class_4/hindi/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi5_ch1": {
+    "chapter_master_id": 366,
+    "path": "V2/cbse/cbse/english/class_5/hindi/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi5_ch10": {
+    "chapter_master_id": 357,
+    "path": "V2/cbse/cbse/english/class_5/hindi/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi5_ch11": {
+    "chapter_master_id": 356,
+    "path": "V2/cbse/cbse/english/class_5/hindi/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi5_ch12": {
+    "chapter_master_id": 355,
+    "path": "V2/cbse/cbse/english/class_5/hindi/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi5_ch2": {
+    "chapter_master_id": 365,
+    "path": "V2/cbse/cbse/english/class_5/hindi/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi5_ch3": {
+    "chapter_master_id": 364,
+    "path": "V2/cbse/cbse/english/class_5/hindi/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi5_ch4": {
+    "chapter_master_id": 363,
+    "path": "V2/cbse/cbse/english/class_5/hindi/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi5_ch5": {
+    "chapter_master_id": 362,
+    "path": "V2/cbse/cbse/english/class_5/hindi/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi5_ch6": {
+    "chapter_master_id": 361,
+    "path": "V2/cbse/cbse/english/class_5/hindi/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi5_ch7": {
+    "chapter_master_id": 360,
+    "path": "V2/cbse/cbse/english/class_5/hindi/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi5_ch8": {
+    "chapter_master_id": 359,
+    "path": "V2/cbse/cbse/english/class_5/hindi/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi5_ch9": {
+    "chapter_master_id": 358,
+    "path": "V2/cbse/cbse/english/class_5/hindi/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi6_ch1": {
+    "chapter_master_id": 354,
+    "path": "V2/cbse/cbse/english/class_6/hindi/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi6_ch10": {
+    "chapter_master_id": 345,
+    "path": "V2/cbse/cbse/english/class_6/hindi/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi6_ch11": {
+    "chapter_master_id": 344,
+    "path": "V2/cbse/cbse/english/class_6/hindi/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi6_ch12": {
+    "chapter_master_id": 343,
+    "path": "V2/cbse/cbse/english/class_6/hindi/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi6_ch13": {
+    "chapter_master_id": 342,
+    "path": "V2/cbse/cbse/english/class_6/hindi/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi6_ch2": {
+    "chapter_master_id": 353,
+    "path": "V2/cbse/cbse/english/class_6/hindi/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi6_ch3": {
+    "chapter_master_id": 352,
+    "path": "V2/cbse/cbse/english/class_6/hindi/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi6_ch4": {
+    "chapter_master_id": 351,
+    "path": "V2/cbse/cbse/english/class_6/hindi/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi6_ch5": {
+    "chapter_master_id": 350,
+    "path": "V2/cbse/cbse/english/class_6/hindi/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi6_ch6": {
+    "chapter_master_id": 349,
+    "path": "V2/cbse/cbse/english/class_6/hindi/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi6_ch7": {
+    "chapter_master_id": 348,
+    "path": "V2/cbse/cbse/english/class_6/hindi/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi6_ch8": {
+    "chapter_master_id": 347,
+    "path": "V2/cbse/cbse/english/class_6/hindi/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi6_ch9": {
+    "chapter_master_id": 253,
+    "path": "V2/cbse/cbse/english/class_6/hindi/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi7_ch1": {
+    "chapter_master_id": 247,
+    "path": "V2/cbse/cbse/english/class_7/hindi/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi7_ch10": {
+    "chapter_master_id": 254,
+    "path": "V2/cbse/cbse/english/class_7/hindi/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi7_ch2": {
+    "chapter_master_id": 143,
+    "path": "V2/cbse/cbse/english/class_7/hindi/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi7_ch3": {
+    "chapter_master_id": 248,
+    "path": "V2/cbse/cbse/english/class_7/hindi/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi7_ch4": {
+    "chapter_master_id": 144,
+    "path": "V2/cbse/cbse/english/class_7/hindi/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi7_ch5": {
+    "chapter_master_id": 249,
+    "path": "V2/cbse/cbse/english/class_7/hindi/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi7_ch6": {
+    "chapter_master_id": 250,
+    "path": "V2/cbse/cbse/english/class_7/hindi/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi7_ch7": {
+    "chapter_master_id": 251,
+    "path": "V2/cbse/cbse/english/class_7/hindi/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi7_ch8": {
+    "chapter_master_id": 252,
+    "path": "V2/cbse/cbse/english/class_7/hindi/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi7_ch9": {
+    "chapter_master_id": 367,
+    "path": "V2/cbse/cbse/english/class_7/hindi/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi8_ch1": {
+    "chapter_master_id": 292,
+    "path": "V2/cbse/cbse/english/class_8/hindi/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi8_ch10": {
+    "chapter_master_id": 283,
+    "path": "V2/cbse/cbse/english/class_8/hindi/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi8_ch2": {
+    "chapter_master_id": 291,
+    "path": "V2/cbse/cbse/english/class_8/hindi/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi8_ch3": {
+    "chapter_master_id": 290,
+    "path": "V2/cbse/cbse/english/class_8/hindi/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi8_ch4": {
+    "chapter_master_id": 289,
+    "path": "V2/cbse/cbse/english/class_8/hindi/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi8_ch5": {
+    "chapter_master_id": 288,
+    "path": "V2/cbse/cbse/english/class_8/hindi/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi8_ch6": {
+    "chapter_master_id": 287,
+    "path": "V2/cbse/cbse/english/class_8/hindi/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi8_ch7": {
+    "chapter_master_id": 286,
+    "path": "V2/cbse/cbse/english/class_8/hindi/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi8_ch8": {
+    "chapter_master_id": 285,
+    "path": "V2/cbse/cbse/english/class_8/hindi/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi8_ch9": {
+    "chapter_master_id": 284,
+    "path": "V2/cbse/cbse/english/class_8/hindi/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi9_ch1": {
+    "chapter_master_id": 557,
+    "path": "V2/cbse/cbse/english/class_9/hindi/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi9_ch10": {
+    "chapter_master_id": 568,
+    "path": "V2/cbse/cbse/english/class_9/hindi/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi9_ch11": {
+    "chapter_master_id": 567,
+    "path": "V2/cbse/cbse/english/class_9/hindi/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi9_ch12": {
+    "chapter_master_id": 566,
+    "path": "V2/cbse/cbse/english/class_9/hindi/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi9_ch2": {
+    "chapter_master_id": 559,
+    "path": "V2/cbse/cbse/english/class_9/hindi/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi9_ch3": {
+    "chapter_master_id": 558,
+    "path": "V2/cbse/cbse/english/class_9/hindi/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi9_ch4": {
+    "chapter_master_id": 562,
+    "path": "V2/cbse/cbse/english/class_9/hindi/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi9_ch5": {
+    "chapter_master_id": 561,
+    "path": "V2/cbse/cbse/english/class_9/hindi/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi9_ch6": {
+    "chapter_master_id": 560,
+    "path": "V2/cbse/cbse/english/class_9/hindi/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi9_ch7": {
+    "chapter_master_id": 565,
+    "path": "V2/cbse/cbse/english/class_9/hindi/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi9_ch8": {
+    "chapter_master_id": 564,
+    "path": "V2/cbse/cbse/english/class_9/hindi/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_hindi9_ch9": {
+    "chapter_master_id": 563,
+    "path": "V2/cbse/cbse/english/class_9/hindi/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_maths10_ch1": {
+    "chapter_master_id": 158,
+    "path": "V2/cbse/cbse/english/class_10/mathematics/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_maths10_ch10": {
+    "chapter_master_id": 167,
+    "path": "V2/cbse/cbse/english/class_10/mathematics/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_maths10_ch11": {
+    "chapter_master_id": 168,
+    "path": "V2/cbse/cbse/english/class_10/mathematics/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_maths10_ch12": {
+    "chapter_master_id": 169,
+    "path": "V2/cbse/cbse/english/class_10/mathematics/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_maths10_ch13": {
+    "chapter_master_id": 170,
+    "path": "V2/cbse/cbse/english/class_10/mathematics/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_maths10_ch14": {
+    "chapter_master_id": 171,
+    "path": "V2/cbse/cbse/english/class_10/mathematics/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_maths10_ch2": {
+    "chapter_master_id": 159,
+    "path": "V2/cbse/cbse/english/class_10/mathematics/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_maths10_ch3": {
+    "chapter_master_id": 160,
+    "path": "V2/cbse/cbse/english/class_10/mathematics/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_maths10_ch4": {
+    "chapter_master_id": 161,
+    "path": "V2/cbse/cbse/english/class_10/mathematics/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_maths10_ch5": {
+    "chapter_master_id": 162,
+    "path": "V2/cbse/cbse/english/class_10/mathematics/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_maths10_ch6": {
+    "chapter_master_id": 163,
+    "path": "V2/cbse/cbse/english/class_10/mathematics/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_maths10_ch7": {
+    "chapter_master_id": 164,
+    "path": "V2/cbse/cbse/english/class_10/mathematics/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_maths10_ch8": {
+    "chapter_master_id": 165,
+    "path": "V2/cbse/cbse/english/class_10/mathematics/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_maths10_ch9": {
+    "chapter_master_id": 166,
+    "path": "V2/cbse/cbse/english/class_10/mathematics/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_maths3_ch1": {
+    "chapter_master_id": 540,
+    "path": "V2/cbse/cbse/english/class_3/mathematics/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_maths3_ch10": {
+    "chapter_master_id": 531,
+    "path": "V2/cbse/cbse/english/class_3/mathematics/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_maths3_ch11": {
+    "chapter_master_id": 530,
+    "path": "V2/cbse/cbse/english/class_3/mathematics/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_maths3_ch12": {
+    "chapter_master_id": 529,
+    "path": "V2/cbse/cbse/english/class_3/mathematics/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_maths3_ch13": {
+    "chapter_master_id": 528,
+    "path": "V2/cbse/cbse/english/class_3/mathematics/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_maths3_ch14": {
+    "chapter_master_id": 527,
+    "path": "V2/cbse/cbse/english/class_3/mathematics/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_maths3_ch2": {
+    "chapter_master_id": 539,
+    "path": "V2/cbse/cbse/english/class_3/mathematics/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_maths3_ch3": {
+    "chapter_master_id": 538,
+    "path": "V2/cbse/cbse/english/class_3/mathematics/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_maths3_ch4": {
+    "chapter_master_id": 537,
+    "path": "V2/cbse/cbse/english/class_3/mathematics/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_maths3_ch5": {
+    "chapter_master_id": 536,
+    "path": "V2/cbse/cbse/english/class_3/mathematics/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_maths3_ch6": {
+    "chapter_master_id": 535,
+    "path": "V2/cbse/cbse/english/class_3/mathematics/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_maths3_ch7": {
+    "chapter_master_id": 534,
+    "path": "V2/cbse/cbse/english/class_3/mathematics/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_maths3_ch8": {
+    "chapter_master_id": 533,
+    "path": "V2/cbse/cbse/english/class_3/mathematics/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_maths3_ch9": {
+    "chapter_master_id": 532,
+    "path": "V2/cbse/cbse/english/class_3/mathematics/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_maths4_ch1": {
+    "chapter_master_id": 526,
+    "path": "V2/cbse/cbse/english/class_4/mathematics/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_maths4_ch10": {
+    "chapter_master_id": 517,
+    "path": "V2/cbse/cbse/english/class_4/mathematics/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_maths4_ch11": {
+    "chapter_master_id": 516,
+    "path": "V2/cbse/cbse/english/class_4/mathematics/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_maths4_ch12": {
+    "chapter_master_id": 515,
+    "path": "V2/cbse/cbse/english/class_4/mathematics/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_maths4_ch13": {
+    "chapter_master_id": 514,
+    "path": "V2/cbse/cbse/english/class_4/mathematics/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_maths4_ch14": {
+    "chapter_master_id": 513,
+    "path": "V2/cbse/cbse/english/class_4/mathematics/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_maths4_ch2": {
+    "chapter_master_id": 525,
+    "path": "V2/cbse/cbse/english/class_4/mathematics/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_maths4_ch3": {
+    "chapter_master_id": 524,
+    "path": "V2/cbse/cbse/english/class_4/mathematics/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_maths4_ch4": {
+    "chapter_master_id": 523,
+    "path": "V2/cbse/cbse/english/class_4/mathematics/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_maths4_ch5": {
+    "chapter_master_id": 522,
+    "path": "V2/cbse/cbse/english/class_4/mathematics/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_maths4_ch6": {
+    "chapter_master_id": 521,
+    "path": "V2/cbse/cbse/english/class_4/mathematics/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_maths4_ch7": {
+    "chapter_master_id": 520,
+    "path": "V2/cbse/cbse/english/class_4/mathematics/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_maths4_ch8": {
+    "chapter_master_id": 519,
+    "path": "V2/cbse/cbse/english/class_4/mathematics/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_maths4_ch9": {
+    "chapter_master_id": 518,
+    "path": "V2/cbse/cbse/english/class_4/mathematics/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_maths5_ch1": {
+    "chapter_master_id": 145,
+    "path": "V2/cbse/cbse/english/class_5/mathematics/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_maths5_ch10": {
+    "chapter_master_id": 157,
+    "path": "V2/cbse/cbse/english/class_5/mathematics/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_maths5_ch11": {
+    "chapter_master_id": 213,
+    "path": "V2/cbse/cbse/english/class_5/mathematics/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_maths5_ch12": {
+    "chapter_master_id": 212,
+    "path": "V2/cbse/cbse/english/class_5/mathematics/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_maths5_ch13": {
+    "chapter_master_id": 211,
+    "path": "V2/cbse/cbse/english/class_5/mathematics/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_maths5_ch14": {
+    "chapter_master_id": 210,
+    "path": "V2/cbse/cbse/english/class_5/mathematics/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_maths5_ch15": {
+    "chapter_master_id": 209,
+    "path": "V2/cbse/cbse/english/class_5/mathematics/ch_15",
+    "publication_id": 1
+  },
+  "cbse_eng_maths5_ch2": {
+    "chapter_master_id": 146,
+    "path": "V2/cbse/cbse/english/class_5/mathematics/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_maths5_ch3": {
+    "chapter_master_id": 147,
+    "path": "V2/cbse/cbse/english/class_5/mathematics/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_maths5_ch4": {
+    "chapter_master_id": 148,
+    "path": "V2/cbse/cbse/english/class_5/mathematics/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_maths5_ch5": {
+    "chapter_master_id": 149,
+    "path": "V2/cbse/cbse/english/class_5/mathematics/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_maths5_ch6": {
+    "chapter_master_id": 150,
+    "path": "V2/cbse/cbse/english/class_5/mathematics/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_maths5_ch7": {
+    "chapter_master_id": 151,
+    "path": "V2/cbse/cbse/english/class_5/mathematics/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_maths5_ch8": {
+    "chapter_master_id": 152,
+    "path": "V2/cbse/cbse/english/class_5/mathematics/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_maths5_ch9": {
+    "chapter_master_id": 156,
+    "path": "V2/cbse/cbse/english/class_5/mathematics/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_maths6_ch1": {
+    "chapter_master_id": 185,
+    "path": "V2/cbse/cbse/english/class_6/mathematics/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_maths6_ch10": {
+    "chapter_master_id": 194,
+    "path": "V2/cbse/cbse/english/class_6/mathematics/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_maths6_ch2": {
+    "chapter_master_id": 186,
+    "path": "V2/cbse/cbse/english/class_6/mathematics/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_maths6_ch3": {
+    "chapter_master_id": 187,
+    "path": "V2/cbse/cbse/english/class_6/mathematics/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_maths6_ch4": {
+    "chapter_master_id": 188,
+    "path": "V2/cbse/cbse/english/class_6/mathematics/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_maths6_ch5": {
+    "chapter_master_id": 189,
+    "path": "V2/cbse/cbse/english/class_6/mathematics/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_maths6_ch6": {
+    "chapter_master_id": 190,
+    "path": "V2/cbse/cbse/english/class_6/mathematics/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_maths6_ch7": {
+    "chapter_master_id": 191,
+    "path": "V2/cbse/cbse/english/class_6/mathematics/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_maths6_ch8": {
+    "chapter_master_id": 192,
+    "path": "V2/cbse/cbse/english/class_6/mathematics/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_maths6_ch9": {
+    "chapter_master_id": 193,
+    "path": "V2/cbse/cbse/english/class_6/mathematics/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_maths7_ch1": {
+    "chapter_master_id": 53,
+    "path": "V2/cbse/cbse/english/class_7/mathematics/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_maths7_ch10": {
+    "chapter_master_id": 66,
+    "path": "V2/cbse/cbse/english/class_7/mathematics/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_maths7_ch11": {
+    "chapter_master_id": 67,
+    "path": "V2/cbse/cbse/english/class_7/mathematics/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_maths7_ch12": {
+    "chapter_master_id": 68,
+    "path": "V2/cbse/cbse/english/class_7/mathematics/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_maths7_ch13": {
+    "chapter_master_id": 69,
+    "path": "V2/cbse/cbse/english/class_7/mathematics/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_maths7_ch14": {
+    "chapter_master_id": 70,
+    "path": "V2/cbse/cbse/english/class_7/mathematics/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_maths7_ch15": {
+    "chapter_master_id": 71,
+    "path": "V2/cbse/cbse/english/class_7/mathematics/ch_15",
+    "publication_id": 1
+  },
+  "cbse_eng_maths7_ch2": {
+    "chapter_master_id": 58,
+    "path": "V2/cbse/cbse/english/class_7/mathematics/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_maths7_ch3": {
+    "chapter_master_id": 59,
+    "path": "V2/cbse/cbse/english/class_7/mathematics/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_maths7_ch4": {
+    "chapter_master_id": 60,
+    "path": "V2/cbse/cbse/english/class_7/mathematics/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_maths7_ch5": {
+    "chapter_master_id": 61,
+    "path": "V2/cbse/cbse/english/class_7/mathematics/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_maths7_ch6": {
+    "chapter_master_id": 62,
+    "path": "V2/cbse/cbse/english/class_7/mathematics/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_maths7_ch7": {
+    "chapter_master_id": 63,
+    "path": "V2/cbse/cbse/english/class_7/mathematics/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_maths7_ch8": {
+    "chapter_master_id": 64,
+    "path": "V2/cbse/cbse/english/class_7/mathematics/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_maths7_ch9": {
+    "chapter_master_id": 65,
+    "path": "V2/cbse/cbse/english/class_7/mathematics/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_maths8_ch1": {
+    "chapter_master_id": 195,
+    "path": "V2/cbse/cbse/english/class_8/mathematics/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_maths8_ch10": {
+    "chapter_master_id": 204,
+    "path": "V2/cbse/cbse/english/class_8/mathematics/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_maths8_ch11": {
+    "chapter_master_id": 205,
+    "path": "V2/cbse/cbse/english/class_8/mathematics/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_maths8_ch12": {
+    "chapter_master_id": 206,
+    "path": "V2/cbse/cbse/english/class_8/mathematics/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_maths8_ch13": {
+    "chapter_master_id": 207,
+    "path": "V2/cbse/cbse/english/class_8/mathematics/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_maths8_ch14": {
+    "chapter_master_id": 208,
+    "path": "V2/cbse/cbse/english/class_8/mathematics/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_maths8_ch2": {
+    "chapter_master_id": 196,
+    "path": "V2/cbse/cbse/english/class_8/mathematics/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_maths8_ch3": {
+    "chapter_master_id": 197,
+    "path": "V2/cbse/cbse/english/class_8/mathematics/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_maths8_ch4": {
+    "chapter_master_id": 198,
+    "path": "V2/cbse/cbse/english/class_8/mathematics/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_maths8_ch5": {
+    "chapter_master_id": 199,
+    "path": "V2/cbse/cbse/english/class_8/mathematics/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_maths8_ch6": {
+    "chapter_master_id": 200,
+    "path": "V2/cbse/cbse/english/class_8/mathematics/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_maths8_ch7": {
+    "chapter_master_id": 201,
+    "path": "V2/cbse/cbse/english/class_8/mathematics/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_maths8_ch8": {
+    "chapter_master_id": 202,
+    "path": "V2/cbse/cbse/english/class_8/mathematics/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_maths8_ch9": {
+    "chapter_master_id": 203,
+    "path": "V2/cbse/cbse/english/class_8/mathematics/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_maths9_ch1": {
+    "chapter_master_id": 226,
+    "path": "V2/cbse/cbse/english/class_9/mathematics/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_maths9_ch2": {
+    "chapter_master_id": 227,
+    "path": "V2/cbse/cbse/english/class_9/mathematics/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_maths9_ch3": {
+    "chapter_master_id": 228,
+    "path": "V2/cbse/cbse/english/class_9/mathematics/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_maths9_ch4": {
+    "chapter_master_id": 229,
+    "path": "V2/cbse/cbse/english/class_9/mathematics/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_maths9_ch5": {
+    "chapter_master_id": 230,
+    "path": "V2/cbse/cbse/english/class_9/mathematics/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_maths9_ch6": {
+    "chapter_master_id": 231,
+    "path": "V2/cbse/cbse/english/class_9/mathematics/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_maths9_ch7": {
+    "chapter_master_id": 232,
+    "path": "V2/cbse/cbse/english/class_9/mathematics/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_maths9_ch8": {
+    "chapter_master_id": 233,
+    "path": "V2/cbse/cbse/english/class_9/mathematics/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_sci10_ch1": {
+    "chapter_master_id": 172,
+    "path": "V2/cbse/cbse/english/class_10/science/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_sci10_ch10": {
+    "chapter_master_id": 181,
+    "path": "V2/cbse/cbse/english/class_10/science/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_sci10_ch11": {
+    "chapter_master_id": 182,
+    "path": "V2/cbse/cbse/english/class_10/science/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_sci10_ch12": {
+    "chapter_master_id": 183,
+    "path": "V2/cbse/cbse/english/class_10/science/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_sci10_ch13": {
+    "chapter_master_id": 184,
+    "path": "V2/cbse/cbse/english/class_10/science/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_sci10_ch2": {
+    "chapter_master_id": 173,
+    "path": "V2/cbse/cbse/english/class_10/science/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_sci10_ch3": {
+    "chapter_master_id": 174,
+    "path": "V2/cbse/cbse/english/class_10/science/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_sci10_ch4": {
+    "chapter_master_id": 175,
+    "path": "V2/cbse/cbse/english/class_10/science/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_sci10_ch5": {
+    "chapter_master_id": 176,
+    "path": "V2/cbse/cbse/english/class_10/science/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_sci10_ch6": {
+    "chapter_master_id": 177,
+    "path": "V2/cbse/cbse/english/class_10/science/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_sci10_ch7": {
+    "chapter_master_id": 178,
+    "path": "V2/cbse/cbse/english/class_10/science/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_sci10_ch8": {
+    "chapter_master_id": 179,
+    "path": "V2/cbse/cbse/english/class_10/science/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_sci10_ch9": {
+    "chapter_master_id": 180,
+    "path": "V2/cbse/cbse/english/class_10/science/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_sci5_ch1": {
+    "chapter_master_id": 215,
+    "path": "V2/cbse/cbse/english/class_5/science/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_sci5_ch10": {
+    "chapter_master_id": 216,
+    "path": "V2/cbse/cbse/english/class_5/science/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_sci5_ch2": {
+    "chapter_master_id": 224,
+    "path": "V2/cbse/cbse/english/class_5/science/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_sci5_ch3": {
+    "chapter_master_id": 223,
+    "path": "V2/cbse/cbse/english/class_5/science/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_sci5_ch4": {
+    "chapter_master_id": 222,
+    "path": "V2/cbse/cbse/english/class_5/science/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_sci5_ch5": {
+    "chapter_master_id": 221,
+    "path": "V2/cbse/cbse/english/class_5/science/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_sci5_ch6": {
+    "chapter_master_id": 220,
+    "path": "V2/cbse/cbse/english/class_5/science/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_sci5_ch7": {
+    "chapter_master_id": 219,
+    "path": "V2/cbse/cbse/english/class_5/science/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_sci5_ch8": {
+    "chapter_master_id": 218,
+    "path": "V2/cbse/cbse/english/class_5/science/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_sci5_ch9": {
+    "chapter_master_id": 217,
+    "path": "V2/cbse/cbse/english/class_5/science/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_sci6_ch1": {
+    "chapter_master_id": 130,
+    "path": "V2/cbse/cbse/english/class_6/science/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_sci6_ch10": {
+    "chapter_master_id": 139,
+    "path": "V2/cbse/cbse/english/class_6/science/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_sci6_ch11": {
+    "chapter_master_id": 140,
+    "path": "V2/cbse/cbse/english/class_6/science/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_sci6_ch12": {
+    "chapter_master_id": 141,
+    "path": "V2/cbse/cbse/english/class_6/science/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_sci6_ch2": {
+    "chapter_master_id": 131,
+    "path": "V2/cbse/cbse/english/class_6/science/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_sci6_ch3": {
+    "chapter_master_id": 132,
+    "path": "V2/cbse/cbse/english/class_6/science/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_sci6_ch4": {
+    "chapter_master_id": 133,
+    "path": "V2/cbse/cbse/english/class_6/science/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_sci6_ch5": {
+    "chapter_master_id": 134,
+    "path": "V2/cbse/cbse/english/class_6/science/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_sci6_ch6": {
+    "chapter_master_id": 135,
+    "path": "V2/cbse/cbse/english/class_6/science/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_sci6_ch7": {
+    "chapter_master_id": 136,
+    "path": "V2/cbse/cbse/english/class_6/science/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_sci6_ch8": {
+    "chapter_master_id": 137,
+    "path": "V2/cbse/cbse/english/class_6/science/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_sci6_ch9": {
+    "chapter_master_id": 138,
+    "path": "V2/cbse/cbse/english/class_6/science/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_sci7_ch1": {
+    "chapter_master_id": 72,
+    "path": "V2/cbse/cbse/english/class_7/science/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_sci7_ch10": {
+    "chapter_master_id": 81,
+    "path": "V2/cbse/cbse/english/class_7/science/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_sci7_ch11": {
+    "chapter_master_id": 82,
+    "path": "V2/cbse/cbse/english/class_7/science/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_sci7_ch12": {
+    "chapter_master_id": 50,
+    "path": "V2/cbse/cbse/english/class_7/science/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_sci7_ch2": {
+    "chapter_master_id": 73,
+    "path": "V2/cbse/cbse/english/class_7/science/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_sci7_ch3": {
+    "chapter_master_id": 74,
+    "path": "V2/cbse/cbse/english/class_7/science/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_sci7_ch4": {
+    "chapter_master_id": 75,
+    "path": "V2/cbse/cbse/english/class_7/science/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_sci7_ch5": {
+    "chapter_master_id": 76,
+    "path": "V2/cbse/cbse/english/class_7/science/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_sci7_ch6": {
+    "chapter_master_id": 77,
+    "path": "V2/cbse/cbse/english/class_7/science/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_sci7_ch7": {
+    "chapter_master_id": 78,
+    "path": "V2/cbse/cbse/english/class_7/science/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_sci7_ch8": {
+    "chapter_master_id": 79,
+    "path": "V2/cbse/cbse/english/class_7/science/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_sci7_ch9": {
+    "chapter_master_id": 80,
+    "path": "V2/cbse/cbse/english/class_7/science/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_sci8_ch1": {
+    "chapter_master_id": 117,
+    "path": "V2/cbse/cbse/english/class_8/science/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_sci8_ch10": {
+    "chapter_master_id": 124,
+    "path": "V2/cbse/cbse/english/class_8/science/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_sci8_ch11": {
+    "chapter_master_id": 125,
+    "path": "V2/cbse/cbse/english/class_8/science/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_sci8_ch12": {
+    "chapter_master_id": 126,
+    "path": "V2/cbse/cbse/english/class_8/science/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_sci8_ch13": {
+    "chapter_master_id": 127,
+    "path": "V2/cbse/cbse/english/class_8/science/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_sci8_ch2": {
+    "chapter_master_id": 118,
+    "path": "V2/cbse/cbse/english/class_8/science/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_sci8_ch3": {
+    "chapter_master_id": 119,
+    "path": "V2/cbse/cbse/english/class_8/science/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_sci8_ch4": {
+    "chapter_master_id": 114,
+    "path": "V2/cbse/cbse/english/class_8/science/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_sci8_ch5": {
+    "chapter_master_id": 120,
+    "path": "V2/cbse/cbse/english/class_8/science/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_sci8_ch6": {
+    "chapter_master_id": 121,
+    "path": "V2/cbse/cbse/english/class_8/science/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_sci8_ch7": {
+    "chapter_master_id": 112,
+    "path": "V2/cbse/cbse/english/class_8/science/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_sci8_ch8": {
+    "chapter_master_id": 113,
+    "path": "V2/cbse/cbse/english/class_8/science/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_sci8_ch9": {
+    "chapter_master_id": 123,
+    "path": "V2/cbse/cbse/english/class_8/science/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_sci9_ch1": {
+    "chapter_master_id": 234,
+    "path": "V2/cbse/cbse/english/class_9/science/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_sci9_ch10": {
+    "chapter_master_id": 243,
+    "path": "V2/cbse/cbse/english/class_9/science/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_sci9_ch11": {
+    "chapter_master_id": 244,
+    "path": "V2/cbse/cbse/english/class_9/science/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_sci9_ch12": {
+    "chapter_master_id": 245,
+    "path": "V2/cbse/cbse/english/class_9/science/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_sci9_ch13": {
+    "chapter_master_id": 246,
+    "path": "V2/cbse/cbse/english/class_9/science/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_sci9_ch2": {
+    "chapter_master_id": 235,
+    "path": "V2/cbse/cbse/english/class_9/science/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_sci9_ch3": {
+    "chapter_master_id": 236,
+    "path": "V2/cbse/cbse/english/class_9/science/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_sci9_ch4": {
+    "chapter_master_id": 237,
+    "path": "V2/cbse/cbse/english/class_9/science/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_sci9_ch5": {
+    "chapter_master_id": 238,
+    "path": "V2/cbse/cbse/english/class_9/science/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_sci9_ch6": {
+    "chapter_master_id": 239,
+    "path": "V2/cbse/cbse/english/class_9/science/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_sci9_ch7": {
+    "chapter_master_id": 240,
+    "path": "V2/cbse/cbse/english/class_9/science/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_sci9_ch8": {
+    "chapter_master_id": 241,
+    "path": "V2/cbse/cbse/english/class_9/science/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_sci9_ch9": {
+    "chapter_master_id": 242,
+    "path": "V2/cbse/cbse/english/class_9/science/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch1": {
+    "chapter_master_id": 265,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch10": {
+    "chapter_master_id": 543,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch11": {
+    "chapter_master_id": 542,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch12": {
+    "chapter_master_id": 541,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch13": {
+    "chapter_master_id": 569,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch14": {
+    "chapter_master_id": 578,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch15": {
+    "chapter_master_id": 577,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_15",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch16": {
+    "chapter_master_id": 576,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_16",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch17": {
+    "chapter_master_id": 575,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_17",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch18": {
+    "chapter_master_id": 574,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_18",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch19": {
+    "chapter_master_id": 573,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_19",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch2": {
+    "chapter_master_id": 270,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch20": {
+    "chapter_master_id": 572,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_20",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch21": {
+    "chapter_master_id": 571,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_21",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch22": {
+    "chapter_master_id": 570,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_22",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch3": {
+    "chapter_master_id": 271,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch4": {
+    "chapter_master_id": 272,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch5": {
+    "chapter_master_id": 273,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch6": {
+    "chapter_master_id": 274,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch7": {
+    "chapter_master_id": 275,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch8": {
+    "chapter_master_id": 545,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_sst10_ch9": {
+    "chapter_master_id": 544,
+    "path": "V2/cbse/cbse/english/class_10/social_science/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_sst6_ch1": {
+    "chapter_master_id": 255,
+    "path": "V2/cbse/cbse/english/class_6/social_science/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_sst6_ch10": {
+    "chapter_master_id": 264,
+    "path": "V2/cbse/cbse/english/class_6/social_science/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_sst6_ch11": {
+    "chapter_master_id": 266,
+    "path": "V2/cbse/cbse/english/class_6/social_science/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_sst6_ch12": {
+    "chapter_master_id": 267,
+    "path": "V2/cbse/cbse/english/class_6/social_science/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_sst6_ch13": {
+    "chapter_master_id": 268,
+    "path": "V2/cbse/cbse/english/class_6/social_science/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_sst6_ch14": {
+    "chapter_master_id": 269,
+    "path": "V2/cbse/cbse/english/class_6/social_science/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_sst6_ch2": {
+    "chapter_master_id": 256,
+    "path": "V2/cbse/cbse/english/class_6/social_science/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_sst6_ch3": {
+    "chapter_master_id": 257,
+    "path": "V2/cbse/cbse/english/class_6/social_science/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_sst6_ch4": {
+    "chapter_master_id": 258,
+    "path": "V2/cbse/cbse/english/class_6/social_science/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_sst6_ch5": {
+    "chapter_master_id": 259,
+    "path": "V2/cbse/cbse/english/class_6/social_science/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_sst6_ch6": {
+    "chapter_master_id": 260,
+    "path": "V2/cbse/cbse/english/class_6/social_science/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_sst6_ch7": {
+    "chapter_master_id": 261,
+    "path": "V2/cbse/cbse/english/class_6/social_science/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_sst6_ch8": {
+    "chapter_master_id": 262,
+    "path": "V2/cbse/cbse/english/class_6/social_science/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_sst6_ch9": {
+    "chapter_master_id": 263,
+    "path": "V2/cbse/cbse/english/class_6/social_science/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch1": {
+    "chapter_master_id": 83,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch10": {
+    "chapter_master_id": 92,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch11": {
+    "chapter_master_id": 93,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch12": {
+    "chapter_master_id": 94,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch13": {
+    "chapter_master_id": 95,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_13",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch14": {
+    "chapter_master_id": 109,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_14",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch15": {
+    "chapter_master_id": 96,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_15",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch16": {
+    "chapter_master_id": 97,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_16",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch17": {
+    "chapter_master_id": 98,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_17",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch18": {
+    "chapter_master_id": 99,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_18",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch19": {
+    "chapter_master_id": 100,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_19",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch2": {
+    "chapter_master_id": 84,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch20": {
+    "chapter_master_id": 101,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_20",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch3": {
+    "chapter_master_id": 85,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch4": {
+    "chapter_master_id": 86,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch5": {
+    "chapter_master_id": 87,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch6": {
+    "chapter_master_id": 88,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch7": {
+    "chapter_master_id": 89,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch8": {
+    "chapter_master_id": 90,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_sst7_ch9": {
+    "chapter_master_id": 91,
+    "path": "V2/cbse/cbse/english/class_7/social_science/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_sst8_ch1": {
+    "chapter_master_id": 276,
+    "path": "V2/cbse/cbse/english/class_8/social_science/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_sst8_ch2": {
+    "chapter_master_id": 277,
+    "path": "V2/cbse/cbse/english/class_8/social_science/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_sst8_ch3": {
+    "chapter_master_id": 278,
+    "path": "V2/cbse/cbse/english/class_8/social_science/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_sst8_ch4": {
+    "chapter_master_id": 279,
+    "path": "V2/cbse/cbse/english/class_8/social_science/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_sst8_ch5": {
+    "chapter_master_id": 280,
+    "path": "V2/cbse/cbse/english/class_8/social_science/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_sst8_ch6": {
+    "chapter_master_id": 281,
+    "path": "V2/cbse/cbse/english/class_8/social_science/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_sst8_ch7": {
+    "chapter_master_id": 282,
+    "path": "V2/cbse/cbse/english/class_8/social_science/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_twau3_ch1": {
+    "chapter_master_id": 341,
+    "path": "V2/cbse/cbse/english/class_3/the_world_around_us/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_twau3_ch10": {
+    "chapter_master_id": 332,
+    "path": "V2/cbse/cbse/english/class_3/the_world_around_us/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_twau3_ch11": {
+    "chapter_master_id": 331,
+    "path": "V2/cbse/cbse/english/class_3/the_world_around_us/ch_11",
+    "publication_id": 1
+  },
+  "cbse_eng_twau3_ch12": {
+    "chapter_master_id": 330,
+    "path": "V2/cbse/cbse/english/class_3/the_world_around_us/ch_12",
+    "publication_id": 1
+  },
+  "cbse_eng_twau3_ch2": {
+    "chapter_master_id": 340,
+    "path": "V2/cbse/cbse/english/class_3/the_world_around_us/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_twau3_ch3": {
+    "chapter_master_id": 339,
+    "path": "V2/cbse/cbse/english/class_3/the_world_around_us/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_twau3_ch4": {
+    "chapter_master_id": 338,
+    "path": "V2/cbse/cbse/english/class_3/the_world_around_us/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_twau3_ch5": {
+    "chapter_master_id": 337,
+    "path": "V2/cbse/cbse/english/class_3/the_world_around_us/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_twau3_ch6": {
+    "chapter_master_id": 336,
+    "path": "V2/cbse/cbse/english/class_3/the_world_around_us/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_twau3_ch7": {
+    "chapter_master_id": 335,
+    "path": "V2/cbse/cbse/english/class_3/the_world_around_us/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_twau3_ch8": {
+    "chapter_master_id": 334,
+    "path": "V2/cbse/cbse/english/class_3/the_world_around_us/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_twau3_ch9": {
+    "chapter_master_id": 333,
+    "path": "V2/cbse/cbse/english/class_3/the_world_around_us/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_twau4_ch1": {
+    "chapter_master_id": 329,
+    "path": "V2/cbse/cbse/english/class_4/the_world_around_us/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_twau4_ch10": {
+    "chapter_master_id": 320,
+    "path": "V2/cbse/cbse/english/class_4/the_world_around_us/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_twau4_ch2": {
+    "chapter_master_id": 328,
+    "path": "V2/cbse/cbse/english/class_4/the_world_around_us/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_twau4_ch3": {
+    "chapter_master_id": 327,
+    "path": "V2/cbse/cbse/english/class_4/the_world_around_us/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_twau4_ch4": {
+    "chapter_master_id": 326,
+    "path": "V2/cbse/cbse/english/class_4/the_world_around_us/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_twau4_ch5": {
+    "chapter_master_id": 325,
+    "path": "V2/cbse/cbse/english/class_4/the_world_around_us/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_twau4_ch6": {
+    "chapter_master_id": 324,
+    "path": "V2/cbse/cbse/english/class_4/the_world_around_us/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_twau4_ch7": {
+    "chapter_master_id": 323,
+    "path": "V2/cbse/cbse/english/class_4/the_world_around_us/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_twau4_ch8": {
+    "chapter_master_id": 322,
+    "path": "V2/cbse/cbse/english/class_4/the_world_around_us/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_twau4_ch9": {
+    "chapter_master_id": 321,
+    "path": "V2/cbse/cbse/english/class_4/the_world_around_us/ch_9",
+    "publication_id": 1
+  },
+  "cbse_eng_twau5_ch1": {
+    "chapter_master_id": 319,
+    "path": "V2/cbse/cbse/english/class_5/the_world_around_us/ch_1",
+    "publication_id": 1
+  },
+  "cbse_eng_twau5_ch10": {
+    "chapter_master_id": 310,
+    "path": "V2/cbse/cbse/english/class_5/the_world_around_us/ch_10",
+    "publication_id": 1
+  },
+  "cbse_eng_twau5_ch2": {
+    "chapter_master_id": 318,
+    "path": "V2/cbse/cbse/english/class_5/the_world_around_us/ch_2",
+    "publication_id": 1
+  },
+  "cbse_eng_twau5_ch3": {
+    "chapter_master_id": 317,
+    "path": "V2/cbse/cbse/english/class_5/the_world_around_us/ch_3",
+    "publication_id": 1
+  },
+  "cbse_eng_twau5_ch4": {
+    "chapter_master_id": 316,
+    "path": "V2/cbse/cbse/english/class_5/the_world_around_us/ch_4",
+    "publication_id": 1
+  },
+  "cbse_eng_twau5_ch5": {
+    "chapter_master_id": 315,
+    "path": "V2/cbse/cbse/english/class_5/the_world_around_us/ch_5",
+    "publication_id": 1
+  },
+  "cbse_eng_twau5_ch6": {
+    "chapter_master_id": 314,
+    "path": "V2/cbse/cbse/english/class_5/the_world_around_us/ch_6",
+    "publication_id": 1
+  },
+  "cbse_eng_twau5_ch7": {
+    "chapter_master_id": 313,
+    "path": "V2/cbse/cbse/english/class_5/the_world_around_us/ch_7",
+    "publication_id": 1
+  },
+  "cbse_eng_twau5_ch8": {
+    "chapter_master_id": 312,
+    "path": "V2/cbse/cbse/english/class_5/the_world_around_us/ch_8",
+    "publication_id": 1
+  },
+  "cbse_eng_twau5_ch9": {
+    "chapter_master_id": 311,
+    "path": "V2/cbse/cbse/english/class_5/the_world_around_us/ch_9",
+    "publication_id": 1
+  },
+  "cbse_guj_sci7_ch2": {
+    "chapter_master_id": 214,
+    "path": "V2/cbse/cbse/gujarati/class_7/science/ch_2",
+    "publication_id": 1
+  }
+}

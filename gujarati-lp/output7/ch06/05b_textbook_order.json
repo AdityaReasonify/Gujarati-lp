@@ -1,0 +1,18 @@
+{
+  "chapter_id": "gseb_eng_gujarati7_ch6",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S2.T2",
+    "M2.S3.T3",
+    "M2.S3.T4",
+    "M2.S4.T5",
+    "M3.S5.T6",
+    "M3.S6.T7"
+  ],
+  "source": "printed folios 30–32 read off the render (_renders/page-1.png, page-2.png, page-3.png)",
+  "notes": [
+    "The chapter's teaching text runs unbroken from folio 30 to folio 32 and the seven [[ઘટના: …]] પ્રસંગો are printed in exactly this sequence, so textbook_order equals the logical order of 02_structure.json. Emitted explicitly so Agent 15 compares against a read index rather than an assumption.",
+    "Excluded because they are not this chapter's teaching text: the title and pink chapter-number box, the head byline ‘- જયંતી ધોકાઈ’, the QR badge on folio 30, the teacher-addressed blue પ્રવેશપેટી, the two uncaptioned illustrations (folios 30 and 31), the શબ્દાર્થ box (folio 32), all fifteen printed સ્વાધ્યાય blocks (folios 32–36) and the chapter-final green સર્વનામ grammar box (folio 36).",
+    "No વ્યાકરણ એકમ, પૂરકવાચન piece or ‘આગળ વધતાં પહેલાં’ revision unit falls inside this chapter's page range, so none had to be excluded from the index."
+  ]
+}

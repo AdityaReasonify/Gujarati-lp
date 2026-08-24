@@ -1,0 +1,172 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "This is the topic that teaches the ટેક, so the vocative must survive whole: the string `પ્રભુ હે` appears character-for-character inside `explanation`, and `explanation` also states that every later કડી prints it as the shorthand `પ્રભુ હે...` standing for the full two-line ટેક `જીવનજ્યોત જગાવો, / પ્રભુ હે, જીવનજ્યોત જગાવો.` Replacing the printed address with `ભગવાનને` or `ઈશ્વરને સંબોધીને` and dropping the poet's own words is a fail.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "The first sentence of `explanation` must name what is asked for using this ટેકનું પોતાનું ક્રિયાપદ `જગાવો` together with `જીવનજ્યોત`. A first sentence that opens on the ભાવ (`નમ્રતા`, `સમર્પણ`) or on the પ્રવેશપેટીનો તૈયાર વાક્યાંશ `પોતાનું જીવન ઉમદા બને, વિશાળ બની રહે` is a fail — the asking comes first, the feeling after.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line, or any `recall_questions[].answer` may close on an exhortation of the shape `પ્રાર્થના કરવી જોઈએ` / `રોજ પ્રાર્થના કરવી જોઈએ` / `સૌએ … જોઈએ`. The વાતચીત block's `શાળાની શરૂઆત પ્રાર્થનાથી જ કેમ થાય છે ?` pulls hard toward a prayer-is-important moral, and none of those words occur in this topic's `original_chunk`.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "`figures_of_speech` is `[]` here (the printed chapter names no device and std 8 attaches no labels), so the craft must be carried by prose instead: at least one sentence of `explanation` names this ટેકનું પુનરાવર્તન — `જીવનજ્યોત જગાવો` બંને પંક્તિમાં ફરી આવે છે — and no અલંકાર/છંદ name (`રૂપક`, `સજીવારોપણ`, `ઉપમા`) appears anywhere in the topic.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `જગાવો` ને હિન્દીના 'जगाना' પ્રમાણે 'ઊંઘમાંથી ઉઠાડવું' સમજે છે. એટલે `જીવનજ્યોત જગાવો` એ 'જ્યોતને ઉઠાડો' જેવું અર્થ વગરનું વાક્ય બની જાય છે, અને આખા ગીતની એકમાત્ર માગણી પહેલી જ પંક્તિમાં હાથમાંથી છટકી જાય છે.",
+      "correction": "`explanation`ના પહેલા વાક્યમાં જ `જગાવો — પ્રગટાવો, પેટાવો` ગ્લોસ કરો અને `key_terms`માં પણ એ જ રૂપે રાખો; પછી બતાવો કે માગણી જ્યોત પ્રગટાવવાની છે, કોઈને ઉઠાડવાની નહિ. સાથે `જીવનજ્યોત — જીવનની જ્યોતિ, જીવનનો પ્રકાશ` છપાયેલા શબ્દાર્થના શબ્દોમાં જ મૂકો."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "This is the first કડી to print the refrain shorthand, so `original_chunk` must keep its third line exactly as `અમને રડવડતાં શિખવાડો. પ્રભુ હે...` — the three printed dots kept, and the shorthand never expanded into `પ્રભુ હે, જીવનજ્યોત જગાવો.` inside `original_chunk`. The expansion may be stated only in `explanation`.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "The first sentence of `explanation` names what this કડી asks for with its own asking words — `ઝાઝું જોર જમાવો` (અથવા `શિખવાડો`) — and does not open on a description of the `ટચૂકડી આ આંગળીઓ` and `આ નાનકડા પગ`. The small hands are the ground of the asking, not the scene the topic opens with.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "`figures_of_speech` is `[]`, so at least one sentence of `explanation` must name this કડીનો પ્રાસ — `જમાવો` અને `બનાવો` — or the returning shape `અમને …તાં શિખવાડો.`, and no અલંકાર label may be attached. The printed block `સરખા પ્રાસવાળા શબ્દો લખો.` asks the child for exactly this, so the rhyme is named at point of use.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "The first printed ભાવ of `આપેલ ભાવને અનુરૂપ કાવ્યપંક્તિઓ લખો.` (`…નાની નાની આંગળીઓમાં અને … નાનકડા પગમાં એટલું બળ આપો કે … આખું વિશ્વ ફરી શકીએ`) sits on this કડી, so `explanation` or a `recall_questions[].answer` must state that meaning in the poem's own words (`ઝાઝું જોર`, `વેગે ભમતાં જગત બનાવો`) — otherwise the child cannot find the line the block asks for.",
+          "profile": "prarthana_kavita",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક `રડવડતાં` ને `રડવું` પરથી બનેલો શબ્દ સમજે છે, એટલે `અમને રડવડતાં શિખવાડો.` નો અર્થ 'અમને રડતાં શીખવો' કરી બેસે છે — અને જે કડી હાથ-પગમાં જોર માગે છે તે અચાનક રડવાની માગણી બની જાય છે.",
+      "correction": "`explanation`માં `રડવડતાં` પહેલી વાર આવે ત્યાં જ છપાયેલા શબ્દાર્થના પોતાના શબ્દોમાં ગ્લોસ કરો — `રડવડતાં — રખડતાં, દિશાના કોઈ બંધન સિવાય ફરતાં` — અને ઉપરની પંક્તિના `ભમતાં` સાથે જોડીને બતાવો કે વાત ફરવા-ભમવાની છે, રડવાની નહિ. `key_terms`માં પણ એ જ રૂપ રાખો."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` names this કડીની માગણી in its own verbs — `આંખે તેજ ભરાવો` અને `બળ બાહુમાં આપો` — and must not open on the condition (`વણદીવે અંધારે`, `વણજહાજે દરિયાને`). Opening on the dark and the shipless sea reads as though the poet described a hardship and stopped; the condition is stated second.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "Every concrete noun in any scene in `explanation` or `real_life_example` must occur in this topic's `original_chunk` or the printed શબ્દાર્થ box — અંધારું, દરિયો, આંખ, બાહુ. `હોડી`, `દીવાદાંડી`, `તોફાન`, `માછીમાર`, `સઢ` are invented scenery and fail; `જહાજ` / `વહાણ` may appear only as the gloss of `વણજહાજે`, never as a boat standing in a described scene.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `real_life_example` or any `recall_questions[].answer` may say that the poet manages without પ્રભુ or does not need him. The આપબળ reading that the printed ભાવ item (`કોઈની પણ મદદની જરૂર ન પડે એમ આપબળે…`) invites must stay a request made TO પ્રભુ — the કડીનાં ક્રિયાપદ `ભરાવો` અને `આપો` are second-person asking verbs. `પ્રભુની જરૂર નથી` / `જાતે જ કરી લેવું` is a fail.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "`figures_of_speech` is `[]`, so at least one sentence of `explanation` must name this કડીની ભાષાગત ભાત — the twice-repeated `વણ-` રૂપ (`વણદીવે`, `વણજહાજે`) અને પાછું આવતું `અમને …તાં શિખવાડો.` Do NOT assert a પ્રાસ between `ભરાવો` and `આપો`: these two line-ends do not rhyme, and naming a rhyme that is not on the page is fabrication.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `વણદીવે` અને `વણજહાજે` ને અજાણ્યા આખા શબ્દ ગણીને કૂદી જાય છે (અથવા `વણ` ને હિન્દી 'वन' સમજે છે), એટલે કડી ખાલી 'આંખમાં તેજ આપો, હાથમાં બળ આપો' જેટલી રહી જાય છે અને 'દીવા વગર' તથા 'વહાણ વગર' — જે આખી માગણીની શરત છે — તે ગુમ થઈ જાય છે.",
+      "correction": "`explanation`માં `વણ` પહેલી વાર આવે ત્યાં જ છપાયેલા શબ્દાર્થ પ્રમાણે `વણ — વગર` ગ્લોસ કરો, પછી બંને શબ્દ પાસે-પાસે ખોલો — `વણદીવે` એટલે દીવા વગર, `વણજહાજે` એટલે જહાજ વગર — અને એ પછી બંને પંક્તિ સાદા શિષ્ટ ગુજરાતીમાં ફરી કહો. `key_terms`માં `વણ` ને અલગ ઘટક તરીકે રાખો."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer` may be an exhortation of the shape `આપણે ફૂલ બનીને મઘમઘવું જોઈએ` / `સૌએ સુગંધ ફેલાવવી જોઈએ` / `સારા ગુણ કેળવવા જોઈએ`. The printed exercise `આપણે ફૂલ બનીને મઘમઘવાનું છે એટલે શું કરવાનું છે ?` belongs to Agent 10; its આપણે-phrasing must not migrate into this topic, since those words are nowhere in this topic's `original_chunk`.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "The first sentence of `explanation` names this કડીની માગણી in its own verbs — `રસથી સભર બનાવો` અથવા `પીંછી તમારી ચલાવો` — and does not open on a description of ફૂલ, બગીચો કે રંગો. A first sentence that opens on the picture fails this form's gate (the inverse of the ઊર્મિકાવ્ય picture-first rule).",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "`figures_of_speech` is `[]`, so at least one sentence of `explanation` must name this કડીનો પ્રાસ — `બનાવો` અને `ચલાવો` — and no અલંકાર label may be attached even though `મનનાં ફૂલડાં` and `પીંછી તમારી` invite `રૂપક`: std 8 notices the craft and does not name it.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `મનનાં ફૂલડાં` ને સાચાં ફૂલ અને `પીંછી` ને સાચી પીંછી સમજે છે, એટલે કડી બગીચાનાં ફૂલોને રસ ભરી દેવાની અને ચિત્ર દોરવાની વાત બની જાય છે — અને માગણી પોતાના મન વિશે છે એ વાત જ ખોવાઈ જાય છે.",
+      "correction": "`explanation`માં `મનનાં ફૂલડાં` પહેલી વાર આવે ત્યાં જ ખોલો કે અહીં ફૂલ એટલે મનમાં ઊગતા ભાવ, અને પ્રભુની પીંછી એટલે જીવનમાં રંગ પૂરનારો પ્રભુનો હાથ. પછી એક પ્રશ્ન વડે બાળકને પોતાના મન પર લાવો — 'તમારા મનમાં આજે કયું ફૂલ ઊગ્યું ?' — કોઈ અલંકારનું નામ લીધા વગર."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer` may close on `હૈયું વિશાળ રાખવું જોઈએ` / `સંકુચિત ન બનવું જોઈએ` / `મોટા મનના થવું જોઈએ`. The કડી asks પ્રભુ to widen the શેરી (`વિશાળ રચાવો`); it does not instruct the reader, and those words are not in this topic's `original_chunk`.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "The first sentence of `explanation` names this કડીની માગણી with its own verbs — `પંથ વિશાળ રચાવો` અથવા `સાગર જેવું બનાવો` — and does not open on the narrowness of `ઉરની સાંકલડી શેરી` or on the smallness of `હૈયાના ઝરણા નાનાને`; the lack is the ground of the asking, stated second.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "`figures_of_speech` is `[]`, so at least one sentence of `explanation` must name this કડીનો પ્રાસ — `રચાવો` અને `બનાવો` — with no અલંકાર label attached.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "The second printed ભાવ of `આપેલ ભાવને અનુરૂપ કાવ્યપંક્તિઓ લખો.` (`અમારા હૃદયના રસ્તાઓ તો સાવ નાના છે. હૃદયના ભાવોને વિશાળ બનાવીને…`) sits on this કડી, so `explanation` or a `recall_questions[].answer` must state that meaning in the poem's own words (`ઉરની સાંકલડી શેરીના પંથ વિશાળ રચાવો`) so the child can find the line.",
+          "profile": "prarthana_kavita",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક `ગરજંતાં` ને `ગરજ` (જરૂર, સ્વાર્થ) પરથી બનેલો શબ્દ સમજે છે, એટલે `અમને ગરજંતાં શિખવાડો.` નો અર્થ 'અમને જરૂરિયાતવાળા બનતાં શીખવો' જેવો ઊંધો થઈ જાય છે — જ્યારે કડી તો નાના ઝરણાને સાગર જેવું થવાની માગણી કરે છે.",
+      "correction": "`explanation`માં `ગરજંતાં` પહેલી વાર આવે ત્યાં જ છપાયેલા શબ્દાર્થ પ્રમાણે `ગરજંતાં — ગર્જના કરતાં` ગ્લોસ કરો, અને એ જ કડીના `સાગર` સાથે જોડીને બતાવો કે નાનું ઝરણું ધીમું વહે છે અને સાગર ગરજે છે. `key_terms`માં પણ એ જ રૂપ રાખો."
+    },
+    {
+      "topic_id": "M2.S4.T6",
+      "avoid_checks": [
+        {
+          "check": "This is the closing કડી, where the pull toward a બોધ is strongest: no sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer` may be an exhortation of the shape `બલિદાન આપવું જોઈએ` / `સૌએ સ્નેહ વહેંચવો જોઈએ` / `બીજા માટે જીવવું જોઈએ`. The કડી asks પ્રભુ — `ઉડાવો`, `ઝરાવો`, `વરસાવો` — and those exhortation words are not in this topic's `original_chunk`.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "Every concrete noun in any scene in `explanation` or `real_life_example` must occur in this topic's `original_chunk` or the printed શબ્દાર્થ box — વાદળી, આભ, નીર, ધાર, સ્થળ. `છત્રી`, `ખેતર`, `ખેડૂત`, `વીજળી`, `મોર`, `ભીની માટી` are invented monsoon scenery and fail (the cloze block's `વાદળોનો ગડગડાટ … ખેડૂતોના ઉમંગ` is exercise matter, not this topic's text).",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "`figures_of_speech` is `[]`, so at least one sentence of `explanation` must name this કડીનો પ્રાસ — `ઉડાવો` અને `ઝરાવો` — with no અલંકાર label attached even though `અમ જીવનની વાદળી` invites one.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "This કડી breaks the pattern the first four hold: its third line prints `અમને સ્થળ-સ્થળમાં વરસાવો.` where the earlier four print `અમને …તાં શિખવાડો.` At least one sentence of `explanation` must say what changed — the asking turns from being taught to being poured out. (The ટેક `પ્રભુ હે...` itself is unchanged, so this is not the profile's ટેક rule but a turn this passage carries.)",
+          "profile": "prarthana_kavita",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક `બલિદાન` ને હિન્દીના 'बलिदान' જેવો — જીવ આપી દેવો, શહીદ થવું — એ સંકુચિત અર્થમાં લે છે, એટલે છેલ્લી કડી 'મરવાની તૈયારી' માગતી હોય એવું વાંચે છે, જ્યારે છપાયેલો શબ્દાર્થ કહે છે `બલિદાન ત્યાગ`.",
+      "correction": "`explanation`માં `બલિદાન` પહેલી વાર આવે ત્યાં જ છપાયેલા શબ્દાર્થના શબ્દોમાં `બલિદાન — ત્યાગ` ગ્લોસ કરો, અને એ જ પંક્તિના `નીર`, `ધાર`, `વરસાવો` સાથે જોડીને બતાવો કે વરસવાનું છે — સ્નેહ, શક્તિ અને ત્યાગનાં નીર સ્થળ-સ્થળમાં. `key_terms`માં પણ એ જ રૂપ રાખો."
+    }
+  ],
+  "chapter_level": [
+    "The blue પ્રવેશપેટી hands the theme over ready-made — 'પોતાનું જીવન ઉમદા બને, વિશાળ બની રહે', 'નમ્રતા અને સમર્પણનો ભાવ' — and an L2 child (and an authoring agent in a hurry) will answer from the box instead of from the કડી. Every topic's `explanation`, `summary` and recall answers must be derivable from that topic's own `original_chunk`; the intro box may feed `key_terms` and provenance, never a topic's account of what the કડી asks for.",
+    "No supplied imagery, chapter-wide: this poem refuses scenes, and every concrete noun used in any scene described in an `explanation` or `real_life_example` must occur in this chapter's `original_chunk` or its printed શબ્દાર્થ box (જ્યોત, આંગળી, પગ, જગત, અંધારું, દરિયો, આંખ, બાહુ, ફૂલડાં, પીંછી, રંગ, શેરી, પંથ, ઝરણું, સાગર, વાદળી, આભ, નીર, ધાર). Inventing scenery to make an abstract પ્રાર્થના look like a પ્રકૃતિ-ગીત is a hard fail; where a કડી names nothing depictable, fewer frames is the correct answer.",
+    "Exactly one topic teaches the ટેક — M1.S1.T1 — and M1.S2.T2 … M2.S4.T6 all carry it in `depends_on`. None of the five કડી topics may teach `જીવનજ્યોત જગાવો, / પ્રભુ હે, જીવનજ્યોત જગાવો.` a second time; each names the shorthand `પ્રભુ હે...` as the returning address and points back, since the refrain's words never change in this chapter.",
+    "No numbers in display text anywhere in this plan. The chapter is cut કડી-by-કડી, so `કડી 2માં` / `પાંચમી કડી 5` is the slip waiting to happen: write `પહેલી કડીમાં`, `બીજી કડીમાં`, `છેલ્લી કડીમાં`, `ટેકની પંક્તિઓમાં`. Numbers live only in ids and provenance fields.",
+    "Std-8 ceiling holds over the whole chapter: `figures_of_speech` stays `[]` (the printed chapter names no device), and no અલંકાર, છંદ or સમાસ label — રૂપક, ઉપમા, સજીવારોપણ, પુનરુક્તિ — appears in any authored field. The craft is carried instead by naming પ્રાસ, લય and પુનરાવર્તન in plain words, which is exactly what the printed block `સરખા પ્રાસવાળા શબ્દો લખો.` asks the child for.",
+    "The poem addresses પ્રભુ throughout and the exercises ask the child about prayer directly ('તમે પ્રાર્થના કરો છો ? ક્યાં ?', 'તમારા ઘરમાં કોણ - કોણ પ્રાર્થના કરે છે ?'). No `explanation`, `real_life_example`, recall answer or discussion guidance may name a religion, sect or scripture the printed chapter does not name, compare two traditions, or require a child to profess belief; and none may state that the poet doubts પ્રભુ or that પ્રાર્થના is unnecessary. Keep the teaching on what is asked for and why.",
+    "No `media[].generation_prompt` or `negative_prompt` may describe ઈશ્વર, a deity figure or an idol as a depicted subject, however naturally the ટેક's address invites one.",
+    "Never modernise the printed text: `પ્રગટાવા` (for પ્રગટાવવા), `સાંકલડી`, `અમ`, `ટચૂકડી`, the `વણ-` compounds, the word order of `પ્રભુ હે`, the shorthand's three dots, and the intro box's printed `પુરુસોત્તમદાસ` all stay exactly as printed and are explained as લય and કાવ્યરૂપ. An L2 child already half-suspects poetic Gujarati of being 'broken'; a silent correction confirms it.",
+    "Script-level L2 hazard running through this chapter's key words: `ળ` read as `લ` and `ઘ` read as `ધ` destroy the very words the poem turns on — ઝળહળતાં, ફૂલડાં, સ્થળ-સ્થળમાં, મઘમઘતાં, ધાર. Glosses and `key_terms` must reproduce the printed form exactly, and where such a word is glossed it is worth saying the word aloud with the class rather than only printing it."
+  ]
+}

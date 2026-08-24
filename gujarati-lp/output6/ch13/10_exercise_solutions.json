@@ -1,0 +1,1416 @@
+{
+  "_comment": "The SECOND deliverable for ધોરણ 6 · એકમ 13 · સૂર્ય સુધી પહોંચાય ? Every સ્વાધ્યાય block inventoried in 01_meta.json is answered here and NOWHERE else — સ્વાધ્યાય is never a teaching topic. GSEB PDFs are image-only: every prompt_verbatim below was copied from 00_chapter_normalized.md and then re-read line by line against the rendered pages (_renders/page-3.png … page-7.png, printed folios 87–91). Std 6 prints no 'સ્વાધ્યાય' banner: the seventeen numbered pink headings under the શબ્દાર્થ box ARE the blocks. EX{n} is our consecutive counter in printed order; the book's own block number is recorded in teacher_note. The chapter is a વાર્તા-માં-વાર્તા and 07_pitfalls.json's chapter-wide no-debunking gate applies to these answers as much as to the plan: the embedded કથા is answered as a tale, never corrected against science.",
+  "plan_id": "gseb_eng_gujarati6_ch13_v1",
+  "chapter_id": "gseb_eng_gujarati6_ch13",
+  "subject": "Gujarati",
+  "grade": 6,
+  "chapter_name": "સૂર્ય સુધી પહોંચાય ?",
+  "exercises": [
+    {
+      "exercise_id": "EX1",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "હવે વર્ગમાં આગળ શી ચર્ચા થઈ હશે ?",
+      "answer": "(એક શક્ય જવાબ) વાર્તા પૂરી થયા પછી ભાસ્કરભાઈએ ચંદ્રયાનની ને સૂર્યયાનની વાત કાઢી, એટલે વર્ગમાં આગળ એની જ ચર્ચા થઈ હશે — ચંદ્રયાન ચંદ્ર સુધી કેવી રીતે જાય છે, સૂર્યયાન બનાવવું હોય તો શું શું જોઈએ, ને સૂર્ય કેટલો દૂર છે. મિહિરે પૂછેલા સૂર્યગ્રહણના પ્રશ્નની વાત પણ પાછી નીકળી હશે.",
+      "explanation": "પાઠનું છેલ્લું વાક્ય છે — ‘ભાસ્કરભાઈની સાથે આખો વર્ગ ખડખડાટ હસી પડ્યો.’ એ પછી શું થયું એ પાઠ કહેતો નથી, એટલે આ જવાબ બાળકનો પોતાનો છે. પણ એ કલ્પના પાઠે જ્યાં છોડ્યું ત્યાંથી શરૂ થવી જોઈએ : છેલ્લે ભાસ્કરભાઈએ ‘‘અત્યારે પણ વૈજ્ઞાનિકો ચંદ્રયાન દ્વારા ચંદ્ર સુધી તો પહોંચે છે.’’ એમ કહ્યું હતું, એટલે ચર્ચા એ તાંતણેથી આગળ ચાલે એ સૌથી સ્વાભાવિક છે.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) બાળકોએ હનુમાનજીની બીજી વાર્તાઓ પૂછી હશે, ને પોતે સાંભળેલી વાર્તાઓ કહેવા માંડ્યાં હશે.",
+        "(એક શક્ય જવાબ) સવિતાએ પોતાના દાદા પાસેથી સાંભળેલી બીજી વાત કહી હશે ને બીજાં બાળકોએ પણ ઘરમાં સાંભળેલી વાતો કહી હશે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, prompt 1. Oral. Take three or four answers before moving on. Hold the class to the chapter's own last beat (the ચંદ્રયાન–સૂર્યયાન bridge) rather than letting the talk drift to any space topic. Hard gate from 07_pitfalls.json chapter_level and varta.md avoid #5: do not let the discussion be steered into deciding whether the કથા 'really happened' or into correcting સવિતાના દાદાની વાત against science — the chapter deliberately keeps the tale and the science side by side.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S5.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX2",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમે એ ચર્ચામાં હો તો શું કહો ?",
+      "answer": "(એક શક્ય જવાબ) હું કહું કે મને પણ મિહિરની જેમ સવાલ થાય છે — સૂર્ય આટલો દૂર છે તો ત્યાં સુધી પહોંચવા કેવું યાન બનાવવું પડે ? ને હું સવિતાની વાત આગળ ચલાવું કે જો ચંદ્ર સુધી યાન જઈ શકે તો સૂર્ય તરફ પણ યાન મોકલી શકાય.",
+      "explanation": "આ સાવ અંગત જવાબ છે, પણ એ વર્ગની ચાલતી ચર્ચામાં બંધ બેસવો જોઈએ. પાઠમાં ચાર જુદા જુદા સૂર થયા છે — સવિતાની દાદા પાસેથી સાંભળેલી વાત, પ્રભાની શંકા, ઉષાની હનુમાનદાદાવાળી વાત ને રવિનો ‘કેવી રીતે પહોંચાય ?’ પ્રશ્ન. બાળક આમાંથી કોઈ એક સૂરમાં પોતાનો સૂર પુરાવે એ જ આ પ્રશ્નનું કામ છે.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) હું પ્રભાની જેમ પૂછું કે આટલો મોટો સૂર્ય કોઈથી ગળાય ખરો ?",
+        "(એક શક્ય જવાબ) હું કહું કે પહેલાં મિહિરના પ્રશ્નનો જવાબ પૂરો કરીએ, પછી બીજી વાત કરીએ."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, prompt 2. This is the block's own rehearsal of ચર્ચા-સંવાદ, which the blue intro box names as the unit's purpose. Accept disagreement with any character as fully correct as long as the child gives a reason. Per 07_pitfalls.json M1.S2.T2 (hard): no answer may label પ્રભા clever or ઉષા wrong — the chapter's only verdict on this scene is 'ભાસ્કરભાઈને ખૂબ આનંદ થતો હતો… વર્ગમાં વિદ્યાર્થીઓ સરસ ચર્ચા કરતા હતા.'",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S2.T2",
+        "M3.S5.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX3",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમે વર્ગમાં સાંભળી હોય એવી વાર્તાઓનાં નામ કહો.",
+      "answer": "(એક શક્ય જવાબ) મેં વર્ગમાં ‘સૂર્ય સુધી પહોંચાય ?’ વાર્તા સાંભળી છે. એ પહેલાં અમારા વર્ગમાં પંચતંત્રની ને દાદીમાની વાર્તાઓ પણ સાંભળી છે.",
+      "explanation": "દરેક બાળકનો જવાબ જુદો હશે, ને એ જ આ પ્રશ્નનો હેતુ છે. એક વાર્તાનું નામ તો દરેક બાળક પાસે તૈયાર જ છે — આજે વર્ગમાં જ સંભળાયેલી બાળ હનુમાનની આ વાર્તા. પાઠમાં ‘‘વાર્તા... વાર્તા.... વાર્તા...’’ કહીને બધાં બાળકો એક સાથે બોલવા માંડ્યાં હતાં, એ જ ઉત્સાહ અહીં વર્ગમાં પાછો લાવવાનો છે.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) મેં વર્ગમાં ‘અકબર-બીરબલ’ની વાર્તાઓ સાંભળી છે.",
+        "(એક શક્ય જવાબ) મેં વર્ગમાં ગુજરાતી પાઠ્યપુસ્તકની બીજી વાર્તાઓ સાંભળી છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, prompt 3. Purely personal recall — one or two names each, spoken, nothing written. Do NOT hand the class a list of story titles to choose from; the point is that each child names what their own classroom has actually done. Every child has at least this chapter's own story available as an answer, so no child needs to sit silent.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M2.S3.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX4",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમે વર્ગમાં કહી હોય એવી વાર્તાઓનાં નામ કહો.",
+      "answer": "(એક શક્ય જવાબ) મેં વર્ગમાં મારી દાદી પાસેથી સાંભળેલી એક વાર્તા કહી હતી. મને એનું નામ યાદ નથી, પણ એ એક ચતુર બાળક વિશેની વાર્તા હતી.",
+      "explanation": "પાઠમાં એક વિદ્યાર્થી પોતે ઊભો થઈને વાર્તા કહે છે — ‘‘સાહેબ ! સાહેબ ! આટલેથી આગળની વાર્તા હું કહું ?’’ કહીને આદિત્ય ઊભો થાય છે ને વાર્તા આગળ ચલાવે છે. આ પ્રશ્ન બાળકને એ જ જગ્યાએ મૂકે છે : સાંભળનાર નહિ, કહેનાર. જે બાળકે કદી વર્ગમાં વાર્તા કહી ન હોય એ ‘હજુ કહી નથી, પણ કહેવી છે’ એમ કહે તો એ પણ પૂરો સાચો જવાબ છે.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) મેં હજુ સુધી વર્ગમાં કોઈ વાર્તા કહી નથી, પણ મને એક વાર્તા આવડે છે ને આજે કહેવી છે.",
+        "(એક શક્ય જવાબ) મેં ઘરમાં સાંભળેલી હનુમાનજીની બીજી એક વાર્તા વર્ગમાં કહી હતી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, prompt 4. The pair with prompt 3 is deliberate: listener, then teller. This is the natural place to invite one child to actually stand and tell a short story now, exactly as આદિત્ય does in the chapter (M2.S4.T5). Treat 'હજુ કહી નથી' plus a willingness as a complete answer.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S4.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX5",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને વાર્તા સાંભળવી ગમે કે કહેવી ? કેમ ?",
+      "answer": "(એક શક્ય જવાબ) મને વાર્તા સાંભળવી વધારે ગમે, કારણ કે સાંભળતાં સાંભળતાં આગળ શું થશે એની મજા આવે છે. પણ આદિત્યની જેમ વચ્ચેથી વાર્તા ઉપાડીને કહેવાની તક મળે તો એ પણ ગમે.",
+      "explanation": "આમાં ખરો-ખોટો જવાબ છે જ નહિ; ‘કેમ ?’નો જવાબ જ ખરું કામ કરે છે. પાઠમાં બંને બાજુ છપાયેલી છે — બધાં બાળકો ‘‘વાર્તા... વાર્તા....’’ કહીને સાંભળવા માગે છે, ને આદિત્ય ઊભો થઈને કહેવા માગે છે. વાર્તા પૂરી થતાં ‘ભાસ્કરભાઈ અને વિદ્યાર્થીઓએ એના માનમાં તાળીઓ પાડી’ — એટલે કહેનારને શું મળે છે એ પણ પાઠમાં જ છે.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) મને વાર્તા કહેવી ગમે, કારણ કે બધાં ધ્યાનથી સાંભળે ને છેલ્લે તાળીઓ પાડે.",
+        "(એક શક્ય જવાબ) મને બંને ગમે — પહેલાં સાંભળું ને પછી એ જ વાર્તા ઘરે જઈને કહું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, prompt 5. Push every child past the one-word choice to the 'કેમ ?'. The idiom the chapter glosses just above these blocks — વાતમાં સૂર પુરાવવો — is worth using out loud here, because this prompt is where children join each other's answers.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M2.S4.T5",
+        "M3.S5.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX6",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "ખરેખર હનુમાનજી સૂર્યને ગળી ગયા હોત તો શું થાત ?",
+      "answer": "(એક શક્ય જવાબ) વાર્તા પ્રમાણે તો સૂર્ય એમના મોઢામાં જ રહી ગયો હોત, એટલે અજવાળું ને ગરમી બંને જતાં રહ્યાં હોત — ચારેકોર અંધારું થઈ ગયું હોત ને બધાં ગભરાઈ ગયાં હોત. પણ વાર્તા પોતે જ કહે છે કે એવું થયું નહિ : ‘છેવટે સૂર્યનો પણ છુટકારો થયો.’",
+      "explanation": "આ ‘જો… હોત તો ?’ પ્રશ્ન છે, ને એનો જવાબ વાર્તાની પોતાની દુનિયામાં રહીને જ આપવાનો છે. પાઠમાં આવી જ એક ઘટના પહેલેથી છપાયેલી છે : પવનદેવે ગુસ્સામાં ‘સમગ્ર વિશ્વમાં હવાનો પ્રવાહ જ રોકી દીધો’ ત્યારે ‘બધાંના શ્વાસ ગૂંગળાવા લાગ્યા. હાહાકાર મચી ગયો.’ એટલે વાર્તા આપણને બતાવી જ ચૂકી છે કે કુદરતની એક વસ્તુ થંભી જાય તો શું થાય — એ જ ઢાળે સૂર્યવાળો જવાબ પણ ગોઠવાય.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) દિવસ ને રાત વચ્ચેનો ફેર જ ન રહ્યો હોત, ને પવનદેવે હવા રોકી ત્યારે થયો હતો એવો હાહાકાર થયો હોત.",
+        "(એક શક્ય જવાબ) દેવી-દેવતાઓ ફરી ભેગાં થઈને હનુમાનને સમજાવવા આવ્યાં હોત ને સૂર્યને છોડાવ્યો હોત."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, prompt 6 — the chapter's counterfactual, and (per varta.md Signal C) one of the three સ્વાધ્યાય tells that route this unit to the વાર્તા profile. HARD GATE, 07_pitfalls.json chapter_level and varta.md avoid #5: answer inside the tale's logic. No answer may be steered to 'આવું ખરેખર બની જ ન શકે' or to an eclipse explanation; the chapter holds the કથા and the science side by side without either cancelling the other, and so does this block.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S4.T6",
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX7",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને ક્યું ફળ સૌથી વધુ ભાવે ? કેમ ?",
+      "answer": "(એક શક્ય જવાબ) મને કેરી સૌથી વધુ ભાવે, કારણ કે એ મીઠી હોય છે ને ઉનાળામાં બપોરે જમ્યા પછી ઘરમાં બધાં સાથે બેસીને ખાઈએ ત્યારે એની મજા જ જુદી હોય છે.",
+      "explanation": "આ અંગત પસંદનો પ્રશ્ન છે, પણ એ પાઠ સાથે સીધો બંધાયેલો છે : હનુમાનને દૂરથી દેખાયું એ ‘એકદમ પાકું ફળ’ હતું — ‘ગોળમટોળ અને લાલચટ્ટક રંગ’ — ને એ જોઈને ‘મોંમાં પાણી આવી ગયું’. બાળક પોતાનું ફળ કહે ત્યારે એ જ બે વાત પાછી કઢાવવી : ફળ કેવું દેખાય છે ને ખાવાનું મન કેમ થાય છે.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) મને જામફળ ભાવે, કારણ કે એ કડક હોય છે ને ચાવવાની મજા આવે છે.",
+        "(એક શક્ય જવાબ) મને દાડમ ભાવે, કારણ કે એના દાણા લાલચટ્ટક હોય છે ને ખાવામાં મીઠા લાગે છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, prompt 7. Use it to plant the idiom મોંમાં પાણી આવવું, which the chapter glosses in the printed રૂઢિપ્રયોગ list and actually uses in M2.S3.T4 — an L2 child reads it literally, so say it out loud with the child's own fruit attached (07_pitfalls.json chapter_level).",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX8",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને સૂર્ય સુધી પહોંચવા મળે તો ?",
+      "answer": "(એક શક્ય જવાબ) મને સૂર્ય સુધી પહોંચવા મળે તો હું ત્યાંથી પૃથ્વી કેવી દેખાય છે એ જોઉં, ને પાછો આવીને આખા વર્ગને એની વાત કરું. પણ સૂર્ય તો બહુ જ ગરમ છે, એટલે એની પાસે જવા માટે તો ખાસ સૂર્યયાન બનાવવું પડે.",
+      "explanation": "આ પ્રશ્ન સીધો પાઠના છેલ્લા ભાગમાંથી ઊગ્યો છે : ‘‘તમારામાંથી જ ભવિષ્યમાં કોઈક સૂર્યયાન બનાવીને સૂર્ય સુધી પણ પહોંચી શકશે.’’ એટલે જવાબમાં કલ્પના છૂટથી ચાલે, પણ ભાસ્કરભાઈએ મૂકેલો તાંતણો — યાન બનાવવું પડે — જવાબમાં દેખાય તો જવાબ પાઠ સાથે જોડાયેલો રહે.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) હું ત્યાં જઈને જોઉં કે સૂર્ય ખરેખર કેવડો મોટો છે, ને એની તસવીરો પાડી લાવું.",
+        "(એક શક્ય જવાબ) મને બીક લાગે, એટલે હું જાતે ન જાઉં — પણ સૂર્યયાન બનાવનારી ટુકડીમાં કામ કરું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, prompt 8. The chapter's own closing move — myth to ચંદ્રયાન to a સૂર્યયાન the children themselves might build — lands here. Keep the talk on what the child would do, not on whether Hanuman's flight was real (chapter-level no-debunking gate).",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S5.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX9",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "ઉપરના પ્રશ્નોની ચર્ચા પછી આ એકમ સંબંધિત આવા બીજા પ્રશ્નો તમારા મનમાં ઊભા થશે. તેની ચર્ચા વર્ગખંડમાં કરો.",
+      "answer": "(એક શક્ય જવાબ) આ એકમ પરથી બીજા આવા પ્રશ્નો પૂછી શકાય : ભાસ્કરભાઈએ મિહિરનો આભાર કેમ માન્યો ? આદિત્યને વચ્ચેથી વાર્તા કહેવાનું મન કેમ થયું હશે ? હનુમાનની હડપચી પરનું નિશાન કઈ રીતે રહી ગયું ? ને અમારા વર્ગમાં આવી ચર્ચા થાય તો અમે કઈ વાર્તા માગીએ ?",
+      "explanation": "આ પાઠનું છેલ્લું બુલેટ પોતે કોઈ એક પ્રશ્ન નથી — એ સૂચના છે કે ચર્ચા અહીં અટકતી નથી. પ્રવેશપેટી પણ એ જ કહે છે : ‘વર્ગખંડમાં વિદ્યાર્થીઓનાં ભાષાકૌશલ્યો ખીલવવા ‘ચર્ચા-સંવાદ’નું વાતાવરણ પૂરું પાડવું.’ એટલે અહીં જવાબ ‘બાળકોએ પોતે ઊભા કરેલા પ્રશ્નો’ જ છે — ને આખો પાઠ બતાવે છે કે એક બાળકના એક પ્રશ્નમાંથી આખો વર્ગ કેટલે દૂર પહોંચી શકે છે.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) સવિતાએ પોતાના દાદાની વાત કહી, તો તમારા ઘરમાં આકાશ વિશે કઈ વાત કહેવાય છે ?",
+        "(એક શક્ય જવાબ) ચંદ્રયાન ને સૂર્યયાનમાં શું ફેર હોય ?"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, the standing closing bullet (printed with a ● and no number). Do not skip it — it is the block's actual pedagogy: the chapter is a demonstration that one child's question (મિહિરનો પ્રશ્ન) can carry a whole lesson, and this bullet asks the class to repeat that. Collect the children's questions on the board and answer two or three; leave the rest standing.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S2.T2",
+        "M2.S4.T5",
+        "M3.S5.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX10",
+      "exercise_group": "નીચેનાં વાક્યોના જેવો અર્થ ધરાવતાં વાક્યો પાઠમાંથી શોધો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "છેક એટલે દૂર સુધી તો પહોંચી જ ન શકાય.",
+      "answer": "‘‘હાય હાય, છે...ક એટલે દૂર સુધી કેવી રીતે પહોંચાય ?’’",
+      "explanation": "આ વાક્ય રવિનું છે — ‘રવિએ પોતાની શંકા વ્યક્ત કરી.’ પ્રશ્નમાં આપેલું વાક્ય સીધું ના પાડે છે, ને પાઠનું વાક્ય એ જ વાત પ્રશ્નરૂપે પૂછે છે. ‘કેવી રીતે પહોંચાય ?’ એમ પૂછવું એટલે જ ‘પહોંચી ન શકાય’ એમ કહેવું — બોલનારને ખરેખર જવાબ જોઈતો નથી, એને નવાઈ લાગે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 2, item 1. The printed form is ‘છે...ક’ with the three dots — that spacing shows how રવિ stretches the word aloud, and 07_pitfalls.json M1.S2.T2 (hard) requires it be copied as printed and never normalised to ‘છેક’. Note the prompt sentence itself prints ‘છેક’; that difference is the book's, not an error to fix.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX11",
+      "exercise_group": "નીચેનાં વાક્યોના જેવો અર્થ ધરાવતાં વાક્યો પાઠમાંથી શોધો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "જ્યાં સુધી વાર્તા નહિ સાંભળે ત્યાં સુધી બાળકો જંપશે નહીં.",
+      "answer": "ભાસ્કરભાઈને ખ્યાલ આવી ગયો કે વ્હાલીડાં હવે વાર્તા સાંભળ્યા વગર નહિ રહે.",
+      "explanation": "‘વ્હાલીડાં’ એટલે વહાલાં બાળકો — શિક્ષક પોતાના વર્ગને લાડથી બોલાવે છે. ‘સાંભળ્યા વગર નહિ રહે’ ને ‘જંપશે નહીં’ એ બંનેનો અર્થ એક જ છે : હવે એ માન્યા વગર છોડશે નહિ. આગળના જ વાક્યમાં એની સાબિતી છપાયેલી છે — ‘‘વાર્તા... વાર્તા.... વાર્તા...’’ બધાં બાળકો એક સાથે બોલવા માંડ્યાં.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 2, item 2. વ્હાલીડાં is the chapter's own affectionate colloquial form; per 07_pitfalls.json M1.S2.T2 (hard) quote it exactly and gloss it — never swap in વહાલાં બાળકો inside the quotation, and never mark it wrong.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX12",
+      "exercise_group": "નીચેનાં વાક્યોના જેવો અર્થ ધરાવતાં વાક્યો પાઠમાંથી શોધો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "હનુમાન ખૂબ જ સારી રીતે ઊડી શકતા હતા.",
+      "answer": "એટલે ઊડવામાં તો એ એક્કા !",
+      "explanation": "‘એક્કો’ એટલે જે કામમાં સૌથી આગળ હોય તે — સૌથી હોશિયાર. પાઠ એ પહેલાં કારણ પણ આપી દે છે : ‘હનુમાનનો જન્મ પવનદેવના આશીર્વાદથી થયેલો.’ પવનના દીકરા છે, એટલે ઊડવું એમને સહજ છે. પ્રશ્નનું વાક્ય સીધી ભાષામાં એ જ કહે છે, પાઠ એ વાત એક ટૂંકા ઉદ્ગારમાં કહે છે.",
+      "acceptable_alternatives": [
+        "હનુમાનનો જન્મ પવનદેવના આશીર્વાદથી થયેલો. એટલે ઊડવામાં તો એ એક્કા !"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 2, item 3. Accept the answer with or without the preceding cause-sentence. 'એક્કા' is worth glossing aloud — an L2 child is likely to read it as the numeral એક.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX13",
+      "exercise_group": "નીચેનાં વાક્યોના જેવો અર્થ ધરાવતાં વાક્યો પાઠમાંથી શોધો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "હનુમાન તો સૂર્યને ફળ સમજીને ખાઈ ગયા.",
+      "answer": "એટલામાં તો આ નાનકડા વાનરબાળે સૂર્યને ખરેખર મોઢામાં મૂકી દીધો હતો.",
+      "explanation": "પ્રશ્નના વાક્યમાં બે વાત છે — ફળ સમજ્યા, ને ખાઈ ગયા. પાઠમાં એ બે વાત બે જગ્યાએ છપાયેલી છે : ‘હનુમાનદાદા તો સૂર્યને જ ફળ માનીને કૂદ્યા.’ ને પછી ‘એટલામાં તો આ નાનકડા વાનરબાળે સૂર્યને ખરેખર મોઢામાં મૂકી દીધો હતો.’ ‘ખાઈ ગયા’ની સૌથી નજીકનું વાક્ય બીજું છે, કારણ કે એમાં જ સૂર્ય મોઢામાં જાય છે.",
+      "acceptable_alternatives": [
+        "હનુમાનદાદા તો સૂર્યને જ ફળ માનીને કૂદ્યા."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 2, item 4. Both printed sentences are defensible; take the child's answer either way and then show the pair on the board, because together they carry the whole of the tale's rising action. Note that the reveal itself — 'ખરેખર એ ફળ નહોતું. ઊગતો સૂર્ય હતો.' — belongs to M2.S3.T4 and is the chapter's turn.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T4",
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX14",
+      "exercise_group": "નીચેનાં વાક્યોના જેવો અર્થ ધરાવતાં વાક્યો પાઠમાંથી શોધો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "બધાં દેવી-દેવતાઓએ પવનદેવને વિનંતી કરી કે આ સૃષ્ટિને બચાવી લો.",
+      "answer": "એ બધાં તરત જ પવનદેવ પાસે પહોંચ્યાં અને સૃષ્ટિને બચાવી લેવા પ્રાર્થના કરી.",
+      "explanation": "‘વિનંતી કરવી’ ને ‘પ્રાર્થના કરવી’ અહીં એક જ અર્થમાં વપરાયાં છે — કરગરીને માગવું. ‘સૃષ્ટિ’ એટલે વિશ્વ, જગત — પાઠની શબ્દાર્થ પેટીમાં એ જ ગ્લોસ છપાયેલો છે. પહેલાંનું વાક્ય કારણ આપે છે : ‘બધાં દેવી-દેવતાઓને ભય લાગ્યો કે પવનદેવની નારાજગીથી તો આખું જગત જ મરી જશે.’",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 2, item 5. The same sentence is printed again in block 6 (ઘટનાક્રમ) as one of the six events, so answering here sets up that block. Point out the pairing rather than treating it as repetition.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX15",
+      "exercise_group": "નીચેનાં પૈકી સાચાં વાક્યો સામે ખરાની નિશાની કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "હનુમાનને ભૂખ લાગ્યો હતો.\nહનુમાનને ભૂખ લાગી હતી.\nહનુમાનને ભૂખ લાગ્યું હતું.",
+      "answer": "હનુમાનને ભૂખ લાગી હતી. ✓",
+      "explanation": "‘ભૂખ’ સ્ત્રીલિંગ શબ્દ છે, એટલે એની સાથે ક્રિયાપદ પણ સ્ત્રીલિંગનું જ આવે — ‘લાગી હતી’. ‘લાગ્યો હતો’ પુલ્લિંગનું રૂપ છે ને ‘લાગ્યું હતું’ નપુંસકલિંગનું, એટલે એ બંને ખોટાં પડે. પાઠમાં આ વાક્ય જેમનું તેમ છપાયેલું છે — ‘ભાઈસાહેબને રોજની જેમ જ બરાબરની ભૂખ લાગી હતી.’ એટલે જવાબ પાઠમાંથી જ મળી જાય છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "સાચો વિકલ્પ : હનુમાનને ભૂખ લાગી હતી.",
+      "teacher_note": "Book's block 3, item 1. The tempting wrong option is ‘લાગ્યો હતો’, because the sentence's visible subject is હનુમાન (masculine) — children agree the verb with the person instead of with ભૂખ. Send them back to the printed line 'ભાઈસાહેબને … ભૂખ લાગી હતી.' and let the book settle it. Gender agreement is on the std-6 ladder; do not name વિભક્તિ, which arrives at std 7.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX16",
+      "exercise_group": "નીચેનાં પૈકી સાચાં વાક્યો સામે ખરાની નિશાની કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "આદિત્યે વાર્તાઓ કહ્યા.\nઆદિત્યે વાર્તા કહી.\nઆદિત્યે વાર્તાને કહ્યા.",
+      "answer": "આદિત્યે વાર્તા કહી. ✓",
+      "explanation": "‘વાર્તા’ સ્ત્રીલિંગ છે, એટલે ‘કહી’ આવે. પહેલો વિકલ્પ બે રીતે ખોટો પડે છે — ‘વાર્તાઓ’ બહુવચન છે ને ‘કહ્યા’ પુલ્લિંગનું રૂપ છે; સાચું થાત ‘વાર્તાઓ કહી.’ ત્રીજામાં ‘વાર્તાને’ લખવાથી વાર્તા કોઈ વ્યક્તિ હોય એવું લાગે છે, જે અહીં બંધબેસતું નથી. પાઠમાં આદિત્ય એક જ વાર્તા કહે છે — ‘આદિત્યે વાત પૂરી કરી.’",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "સાચો વિકલ્પ : આદિત્યે વાર્તા કહી.",
+      "teacher_note": "Book's block 3, item 2. Use the chapter's own line 'આદિત્ય ઊભો થયો અને વાર્તા આગળ ચલાવી.' as the model — same feminine agreement, same speaker.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX17",
+      "exercise_group": "નીચેનાં પૈકી સાચાં વાક્યો સામે ખરાની નિશાની કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "પવનદેવ ખૂબ ગુસ્સો થયા.\nપવનદેવ ખૂબ ગુસ્સો આવ્યો.\nપવનદેવને ખૂબ ગુસ્સો આવ્યો.",
+      "answer": "પવનદેવને ખૂબ ગુસ્સો આવ્યો. ✓",
+      "explanation": "‘ગુસ્સો’ નામ છે, ને ગુસ્સો કોઈને ‘આવે’ છે. એટલે જેને ગુસ્સો આવે એની પાછળ ‘-ને’ જોઈએ — ‘પવનદેવને’. પહેલા વિકલ્પમાં ‘ગુસ્સો થયા’ ખોટું બેસે છે; ત્યાં ‘પવનદેવ ખૂબ ગુસ્સે થયા’ એમ થાત. બીજા વિકલ્પમાં ‘-ને’ રહી ગયું છે, એટલે વાક્ય અધૂરું લાગે છે. પાઠ આ જ વાત બીજી રીતે કહે છે — ‘તેમના ગુસ્સાનો પાર ન રહ્યો.’",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "સાચો વિકલ્પ : પવનદેવને ખૂબ ગુસ્સો આવ્યો.",
+      "teacher_note": "Book's block 3, item 3. The near-miss ‘પવનદેવ ખૂબ ગુસ્સો થયા’ is only one letter away from the perfectly good ‘ગુસ્સે થયા’ — write both on the board so the child sees that ગુસ્સો (the noun) and ગુસ્સે (the adverbial form) take different verbs.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX18",
+      "exercise_group": "નીચેનાં પૈકી સાચાં વાક્યો સામે ખરાની નિશાની કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "ભવિષ્યમાં સૂર્યયાન સૂર્ય સુધી પહોંચી શકાશે.\nભવિષ્યમાં સૂર્યયાન દ્વારા સૂર્ય સુધી પહોંચી શકાશે.\nભવિષ્યમાં સૂર્યયાન દ્વારા સૂર્ય સુધી પહોંચી ગયા.",
+      "answer": "ભવિષ્યમાં સૂર્યયાન દ્વારા સૂર્ય સુધી પહોંચી શકાશે. ✓",
+      "explanation": "‘સૂર્યયાન’ એ સાધન છે — એના વડે પહોંચાય છે. સાધન બતાવવા માટે ‘દ્વારા’ જોઈએ, એટલે પહેલો વિકલ્પ અધૂરો પડે છે. ત્રીજો વિકલ્પ કાળ ભૂલે છે : વાક્ય ‘ભવિષ્યમાં’થી શરૂ થાય છે પણ ‘પહોંચી ગયા’ ભૂતકાળનું રૂપ છે, એટલે એક જ વાક્યમાં આગળ ને પાછળ બે જુદા સમય આવી જાય. પાઠમાં ભાસ્કરભાઈ ભવિષ્યની જ વાત કરે છે — ‘‘તમારામાંથી જ ભવિષ્યમાં કોઈક સૂર્યયાન બનાવીને સૂર્ય સુધી પણ પહોંચી શકશે.’’",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "સાચો વિકલ્પ : ભવિષ્યમાં સૂર્યયાન દ્વારા સૂર્ય સુધી પહોંચી શકાશે.",
+      "teacher_note": "Book's block 3, item 4. Explain the third option as a tense clash (કાળ — std-6 ch 5 ground), not as પ્રયોગ/voice, which std 6 has not been taught (reference/exercise_alignment.md grammar ladder: પ્રયોગ is std 8+). The chapter's own 'ચંદ્રયાન દ્વારા ચંદ્ર સુધી તો પહોંચે છે' is the model for દ્વારા.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S5.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX19",
+      "exercise_group": "નીચેનાં પૈકી સાચાં વાક્યો સામે ખરાની નિશાની કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "વર્ગમાં બાળકો અને શિક્ષકો સરસ ચર્ચા કરી.\nવર્ગમાં બાળકો અને શિક્ષકોને સરસ ચર્ચા કરી.\nવર્ગમાં બાળકો અને શિક્ષકોએ સરસ ચર્ચા કરી.",
+      "answer": "વર્ગમાં બાળકો અને શિક્ષકોએ સરસ ચર્ચા કરી. ✓",
+      "explanation": "‘ચર્ચા કરી’ એ ભૂતકાળનું વાક્ય છે, ને એવા વાક્યમાં કામ કરનારની પાછળ ‘-એ’ આવે છે. પાઠ આખો આ નિયમ બતાવ્યા કરે છે — ‘સવિતાએ દલીલ કરી.’, ‘આદિત્યે વાત પૂરી કરી.’, ‘ભાસ્કરભાઈએ પૂછ્યું’. પહેલા વિકલ્પમાં એ ‘-એ’ રહી ગયું છે. બીજા વિકલ્પમાં ‘-ને’ મુકાયું છે, જે કામ કરનારને નહિ પણ જેના પર કામ થાય એને લાગે છે, એટલે અર્થ ઊંધો પડી જાય છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "સાચો વિકલ્પ : વર્ગમાં બાળકો અને શિક્ષકોએ સરસ ચર્ચા કરી.",
+      "teacher_note": "Book's block 3, item 5. Best taught by pattern, not rule: read out four printed narration lines from the chapter (સવિતાએ, આદિત્યે, ભાસ્કરભાઈએ, રાહુએ) and let the class hear the -એ. Keep the word વિભક્તિ out of it at std 6.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX20",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરી ખાલી જગ્યા પૂરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "(લાંબો, હવાની, બળવાન, સૂર્યને, કૂદકો, પવનદેવ, પ્રહારથી)\nહનુમાનજી ખૂબ ઊંચો અને __________ કૂદકો મારી શકતા હતા.",
+      "answer": "લાંબો",
+      "explanation": "‘ઊંચો’ની જોડે બીજું વિશેષણ જોઈએ, ને કૂદકો ઊંચો પણ હોય ને લાંબો પણ. કૌંસના સાત શબ્દોમાં ‘કૂદકો’ પોતે પણ છે, પણ એ અહીં ન બેસે, કારણ કે ખાલી જગ્યા પછી ‘કૂદકો’ છપાયેલો જ છે. ‘લાંબો’ પુલ્લિંગનું રૂપ છે ને ‘કૂદકો’ પણ પુલ્લિંગ છે, એટલે બંને બરાબર બેસે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ખાલી જગ્યા : લાંબો\nઆખો પૂરેલો ફકરો — હનુમાનજી ખૂબ ઊંચો અને લાંબો કૂદકો મારી શકતા હતા. તેમનામાં ખૂબ જ તાકાત હતી. પોતે બળવાન હોવા ઉપરાંત તેમનામાં સાહસનો ગુણ પણ હતો. એકવાર તો કૂદકો મારીને હનુમાનજી છેક સૂર્ય સુધી પહોંચી ગયા હતા. એટલું જ નહીં, સૂર્યને ગળી પણ ગયા હતા ! ઇન્દ્રદેવના વજ્રના પ્રહારથી હનુમાનજી બેભાન થઈ ગયા. પોતાના વહાલા હનુમાન પર ઇન્દ્રના હુમલાની જાણ થવાથી પવનદેવ ગુસ્સે થઈ ગયા. તેમણે પૃથ્વી પર હવાની અવરજવર રોકી દીધી.",
+      "teacher_note": "Book's block 4, blank 1. The whole filled paragraph is carried here so the teacher can read it aloud in one go before the class writes. The bank has exactly seven words for seven blanks, each used once, so a word placed wrongly costs two marks — tell the children to tick off each bank word as they use it.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX21",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરી ખાલી જગ્યા પૂરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "પોતે __________ હોવા ઉપરાંત તેમનામાં સાહસનો ગુણ પણ હતો.",
+      "answer": "બળવાન",
+      "explanation": "આગળનું જ વાક્ય કહે છે — ‘તેમનામાં ખૂબ જ તાકાત હતી.’ તાકાતવાળા માણસને એક શબ્દમાં ‘બળવાન’ કહેવાય. કૌંસમાં એક જ એવો શબ્દ છે જે માણસનો ગુણ બતાવે, એટલે એ જ અહીં બેસે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ખાલી જગ્યા : બળવાન",
+      "teacher_note": "Book's block 4, blank 2. બળવાન is also the pattern word for block 16's ‘માન’/‘વાન’ game — worth naming the link when you reach that block.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX22",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરી ખાલી જગ્યા પૂરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "એકવાર તો __________ મારીને હનુમાનજી છેક સૂર્ય સુધી પહોંચી ગયા હતા.",
+      "answer": "કૂદકો",
+      "explanation": "‘મારીને’ની આગળ શું મરાય ? — કૂદકો. પાઠમાં પણ એ જ ક્રિયા છપાયેલી છે — ‘હનુમાનદાદા તો સૂર્યને જ ફળ માનીને કૂદ્યા.’ ‘કૂદકો મારવો’ એ રોજની ભાષાનો શબ્દપ્રયોગ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ખાલી જગ્યા : કૂદકો",
+      "teacher_note": "Book's block 4, blank 3.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX23",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરી ખાલી જગ્યા પૂરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "એટલું જ નહીં, __________ ગળી પણ ગયા હતા !",
+      "answer": "સૂર્યને",
+      "explanation": "‘ગળી ગયા’ — શું ગળ્યું ? સૂર્ય. કૌંસમાં ‘સૂર્યને’ એમ ‘-ને’ સાથે જ છપાયેલું છે, એટલે ખાલી જગ્યામાં એ જ રૂપ મૂકવાનું છે. પાઠમાં આ ઘટના આમ છપાયેલી છે — ‘એટલામાં તો આ નાનકડા વાનરબાળે સૂર્યને ખરેખર મોઢામાં મૂકી દીધો હતો.’",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ખાલી જગ્યા : સૂર્યને",
+      "teacher_note": "Book's block 4, blank 4. The bank supplies સૂર્યને already inflected — point that out, because a child who writes સૂર્ય has understood the meaning but not copied the bank.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX24",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરી ખાલી જગ્યા પૂરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ઇન્દ્રદેવના વજ્રના __________ હનુમાનજી બેભાન થઈ ગયા.",
+      "answer": "પ્રહારથી",
+      "explanation": "‘વજ્રના’ પછી શું ? — પ્રહાર, એટલે ઘા કે ફટકો. ને એ ઘાને લીધે બેભાન થયા, એટલે ‘-થી’ જોઈએ. કૌંસમાં એ શબ્દ ‘પ્રહારથી’ એમ પૂરેપૂરો છપાયેલો છે. પાઠમાં પણ એ જ છે — ‘ઇન્દ્રરાજાએ હનુમાન પર વજ્રથી પ્રહાર કર્યો.’",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ખાલી જગ્યા : પ્રહારથી",
+      "teacher_note": "Book's block 4, blank 5. વજ્ર is glossed in the chapter's own શબ્દાર્થ box (દધીચિ ઋષિના હાડકાનું બનેલું ઇન્દ્રનું આયુધ); use that gloss, not an outside one.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX25",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરી ખાલી જગ્યા પૂરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "પોતાના વહાલા હનુમાન પર ઇન્દ્રના હુમલાની જાણ થવાથી __________ ગુસ્સે થઈ ગયા.",
+      "answer": "પવનદેવ",
+      "explanation": "હનુમાન કોના વહાલા ? — પવનદેવના; પાઠ કહે છે કે ‘હનુમાનનો જન્મ પવનદેવના આશીર્વાદથી થયેલો.’ એટલે ગુસ્સે થનાર પણ પવનદેવ જ. પાઠનું વાક્ય છે — ‘પવનદેવને આ બનાવની જાણ થઈ. તેમના ગુસ્સાનો પાર ન રહ્યો.’",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ખાલી જગ્યા : પવનદેવ",
+      "teacher_note": "Book's block 4, blank 6.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX26",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરી ખાલી જગ્યા પૂરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "તેમણે પૃથ્વી પર __________ અવરજવર રોકી દીધી.",
+      "answer": "હવાની",
+      "explanation": "કૌંસમાં હવે એક જ શબ્દ બાકી રહે છે — ‘હવાની’ — ને એ બરાબર બેસે પણ છે : પવનદેવે હવાની અવરજવર રોકી. પાઠમાં એ આમ છપાયેલું છે — ‘પોતાની દૈવી શક્તિથી તેમણે તો સમગ્ર વિશ્વમાં હવાનો પ્રવાહ જ રોકી દીધો.’ ‘અવરજવર’ એટલે આવ-જા.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ખાલી જગ્યા : હવાની\nઆખો પૂરેલો ફકરો — હનુમાનજી ખૂબ ઊંચો અને લાંબો કૂદકો મારી શકતા હતા. તેમનામાં ખૂબ જ તાકાત હતી. પોતે બળવાન હોવા ઉપરાંત તેમનામાં સાહસનો ગુણ પણ હતો. એકવાર તો કૂદકો મારીને હનુમાનજી છેક સૂર્ય સુધી પહોંચી ગયા હતા. એટલું જ નહીં, સૂર્યને ગળી પણ ગયા હતા ! ઇન્દ્રદેવના વજ્રના પ્રહારથી હનુમાનજી બેભાન થઈ ગયા. પોતાના વહાલા હનુમાન પર ઇન્દ્રના હુમલાની જાણ થવાથી પવનદેવ ગુસ્સે થઈ ગયા. તેમણે પૃથ્વી પર હવાની અવરજવર રોકી દીધી.",
+      "teacher_note": "Book's block 4, blank 7. Close the block by reading the filled paragraph against the chapter's own paragraph (M2.S4.T7) — the exercise is a compressed retelling, and hearing the two side by side is the real comprehension check.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX27",
+      "exercise_group": "જોડકાં જોડો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અ 1. બાળકોને વર્ગમાં હનુમાનની વાર્તા સાંભળવા ન મળી હોત",
+      "answer": "બ 4. તો બાળકો નારાજ થઈ જાત.",
+      "explanation": "‘અ’નું આ વાક્ય ‘જો’ની બાજુ છે ને ‘બ’નું ચોથું વાક્ય ‘તો’ની બાજુ. પાઠમાં એની સાબિતી છે : મિહિર ‘થોડીક નારાજગી સાથે’ બોલ્યો હતો, ને પછી બધાં બાળકોએ ‘‘વાર્તા... વાર્તા....’’ કહીને માગણી કરી. વાર્તા ન મળી હોત તો એ નારાજગી આખા વર્ગની થઈ હોત.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "જોડ : અ 1 – બ 4",
+      "teacher_note": "Book's block 5, અ item 1. The whole block is one grammatical pattern — 'જો … હોત તો … હોત' — so solve item 1 with the class, name the pattern in plain words (એક વાત થઈ ન હોત તો બીજી વાત પણ થઈ ન હોત), and let them finish the rest alone. Full grid: અ 1 – બ 4 · અ 2 – બ 1 · અ 3 – બ 2 · અ 4 – બ 5 · અ 5 – બ 3",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX28",
+      "exercise_group": "જોડકાં જોડો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અ 2. રાહુએ કહ્યું ન હોત તો",
+      "answer": "બ 1. ઇન્દ્રદેવને હનુમાનના પરાક્રમની ખબર ન પડી હોત",
+      "explanation": "પાઠમાં ઇન્દ્રદેવને હનુમાનની વાત રાહુ પાસેથી જ મળી છે : ‘રાહુ તો રડતો રડતો ઇન્દ્રદેવના દરબારમાં પહોંચ્યો. એણે દેવોના રાજા ઇન્દ્રદેવને ફરિયાદ કરી.’ એ ફરિયાદ ન થઈ હોત તો ઇન્દ્રને ખબર જ ન પડત — એટલે આ બે વાક્યો કારણ ને પરિણામ તરીકે જોડાય છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "જોડ : અ 2 – બ 1",
+      "teacher_note": "Book's block 5, અ item 2. 'પરાક્રમ' does not appear in the chapter's narration — it is the exercise's own word for what Hanuman did. Gloss it here (પરાક્રમ એટલે બહાદુરીનું કામ); it comes back in block 13's પાત્રપરિચય task.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX29",
+      "exercise_group": "જોડકાં જોડો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અ 3. ભાસ્કરભાઈ જેવા શિક્ષક હોય તો",
+      "answer": "બ 2. બાળકોને ભણવાની ખૂબ મજા પડે.",
+      "explanation": "આ એક જ જોડ વર્ગખંડની બાજુની છે, વાર્તાની નહિ. પાઠ ભાસ્કરભાઈને એ જ રીતે બતાવે છે : એમણે પ્રશ્નને વઢવાને બદલે ‘‘વાહ, ચોક્કસ ચર્ચા કરીએ !’’ કહ્યું, ચર્ચા ચાલુ રખાવી, ‘ભાસ્કરભાઈને ખૂબ આનંદ થતો હતો’, ને છેલ્લે વાર્તા કહેવા દેવા ઉપરાંત આદિત્યને પણ કહેવા દીધું. એટલે ‘મજા પડે’ એ જ બંધ બેસે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "જોડ : અ 3 – બ 2",
+      "teacher_note": "Book's block 5, અ item 3. This is the block's only frame-layer pair; the other four belong to the embedded tale. Naming that split aloud helps the child keep the two layers apart (07_pitfalls.json chapter_level).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S2.T2",
+        "M3.S5.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX30",
+      "exercise_group": "જોડકાં જોડો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અ 4. અત્યારે જેમ ચંદ્ર પર જઈ શકાય છે",
+      "answer": "બ 5. તેમ ભવિષ્યમાં સૂર્ય સુધી પણ પહોંચી શકાશે.",
+      "explanation": "અહીં ‘જો… તો’ નહિ પણ ‘જેમ… તેમ’ની જોડ છે — એટલે ‘અ’માં ‘જેમ’ દેખાય ત્યાં ‘બ’માં ‘તેમ’વાળું વાક્ય શોધવાનું. અર્થ પણ પાઠના છેલ્લા ભાગમાંથી સીધો આવે છે : ‘‘અત્યારે પણ વૈજ્ઞાનિકો ચંદ્રયાન દ્વારા ચંદ્ર સુધી તો પહોંચે છે. તમારામાંથી જ ભવિષ્યમાં કોઈક સૂર્યયાન બનાવીને સૂર્ય સુધી પણ પહોંચી શકશે.’’",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "જોડ : અ 4 – બ 5",
+      "teacher_note": "Book's block 5, અ item 4. Point at the જેમ/તેમ pair as the visible clue — it is the one item in this block a child can solve from the signal words alone, which makes it a good confidence-builder to do second.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S5.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX31",
+      "exercise_group": "જોડકાં જોડો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અ 5. જ્યારે દેવી-દેવતાઓએ સમજાવ્યા",
+      "answer": "બ 3. ત્યારે માંડ પવનદેવ શાંત પડ્યા.",
+      "explanation": "આ જોડ ‘જ્યારે… ત્યારે’ની છે. પાઠ પ્રમાણે દેવી-દેવતાઓ પવનદેવ પાસે પહોંચ્યાં, પ્રાર્થના કરી, ને પવનદેવે શરત મૂકી — ‘મારા હનુમાનને પહેલાં જેવો સાજોસારો કરી દો તો જ મારી રીસ ઊતરે.’ પછી ‘બધાં દેવી-દેવતાઓએ હનુમાનને સ્વસ્થ કરી દીધા’ ત્યારે જ એમની રીસ ઊતરી. ‘માંડ’ શબ્દ એ મુશ્કેલીથી શાંત થયાની વાત કહે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "જોડ : અ 5 – બ 3\nઆખો કોઠો — અ 1 – બ 4 · અ 2 – બ 1 · અ 3 – બ 2 · અ 4 – બ 5 · અ 5 – બ 3",
+      "teacher_note": "Book's block 5, અ item 5. Close by reading the five joined sentences aloud in order; four of them retell the tale's second half, so the block doubles as a recap before block 6's ordering task.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX32",
+      "exercise_group": "નીચેનાં વાક્યોને પાઠના ઘટનાક્રમ મુજબ ગોઠવો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "હનુમાનને સાજા કરવાની ખાતરી મળતાં પવનદેવ માની ગયા.",
+      "answer": "આ ઘટના છઠ્ઠી — એટલે કે છેલ્લી — આવે.",
+      "explanation": "આ પાઠની આખી કથાનો છેડો છે. પવનદેવે શરત મૂકી હતી — ‘મારા હનુમાનને પહેલાં જેવો સાજોસારો કરી દો તો જ મારી રીસ ઊતરે.’ એ ખાતરી મળ્યા પછી જ એ માન્યા, ને પછી જ ‘છેવટે સૂર્યનો પણ છુટકારો થયો’. એટલે એની પહેલાં દેવોની વિનંતી આવવી જ પડે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "સાચો ઘટનાક્રમ (છપાયેલા ક્રમાંક પ્રમાણે) — બે, ચાર, છ, પાંચ, ત્રણ, એક.\nપહેલી : શિક્ષકે હનુમાનની વાર્તા કહેવાનું શરૂ કર્યું.\nબીજી : હનુમાને થોડે દૂર એક લાલચટ્ટાક ફળ જોયું.\nત્રીજી : રાહુએ ઇન્દ્રદેવને ફરિયાદ કરી.\nચોથી : ઇન્દ્રદેવે હનુમાનને શિક્ષા કરી.\nપાંચમી : બધાં દેવી-દેવતાઓએ પવનદેવને વિનંતી કરી કે આ સૃષ્ટિને બચાવી લો.\nછઠ્ઠી : હનુમાનને સાજા કરવાની ખાતરી મળતાં પવનદેવ માની ગયા.",
+      "teacher_note": "Book's block 6, printed sentence 1. HARD gate from 07_pitfalls.json M2.S3.T3/M2.S3.T4 and varta.md avoid #4 (spoiling the turn): if this block is done BEFORE the chapter has been read to the end, the printed sentences give away both the reveal and the ending. Run it only after the full reading. Full ordering: સાચો ઘટનાક્રમ (છપાયેલા ક્રમાંક પ્રમાણે) — બે, ચાર, છ, પાંચ, ત્રણ, એક.\nપહેલી : શિક્ષકે હનુમાનની વાર્તા કહેવાનું શરૂ કર્યું.\nબીજી : હનુમાને થોડે દૂર એક લાલચટ્ટાક ફળ જોયું.\nત્રીજી : રાહુએ ઇન્દ્રદેવને ફરિયાદ કરી.\nચોથી : ઇન્દ્રદેવે હનુમાનને શિક્ષા કરી.\nપાંચમી : બધાં દેવી-દેવતાઓએ પવનદેવને વિનંતી કરી કે આ સૃષ્ટિને બચાવી લો.\nછઠ્ઠી : હનુમાનને સાજા કરવાની ખાતરી મળતાં પવનદેવ માની ગયા.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX33",
+      "exercise_group": "નીચેનાં વાક્યોને પાઠના ઘટનાક્રમ મુજબ ગોઠવો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "શિક્ષકે હનુમાનની વાર્તા કહેવાનું શરૂ કર્યું.",
+      "answer": "આ ઘટના પહેલી આવે.",
+      "explanation": "છ પૈકી આ એક જ વાક્ય વર્ગખંડનું છે, વાર્તાની અંદરનું નહિ — ને વર્ગમાં વાર્તા શરૂ થાય પછી જ વાર્તાની અંદરની ઘટનાઓ બની શકે. પાઠમાં એ ક્ષણ આમ છપાયેલી છે : ‘પછી તો ભાસ્કરભાઈએ વાત માંડી.’",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "સાચો ઘટનાક્રમ (છપાયેલા ક્રમાંક પ્રમાણે) — બે, ચાર, છ, પાંચ, ત્રણ, એક.\nપહેલી : શિક્ષકે હનુમાનની વાર્તા કહેવાનું શરૂ કર્યું.\nબીજી : હનુમાને થોડે દૂર એક લાલચટ્ટાક ફળ જોયું.\nત્રીજી : રાહુએ ઇન્દ્રદેવને ફરિયાદ કરી.\nચોથી : ઇન્દ્રદેવે હનુમાનને શિક્ષા કરી.\nપાંચમી : બધાં દેવી-દેવતાઓએ પવનદેવને વિનંતી કરી કે આ સૃષ્ટિને બચાવી લો.\nછઠ્ઠી : હનુમાનને સાજા કરવાની ખાતરી મળતાં પવનદેવ માની ગયા.",
+      "teacher_note": "Book's block 6, printed sentence 2. Solve this one with the class first: finding the single frame-layer sentence among five tale-layer sentences is the trick that unlocks the whole ordering.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX34",
+      "exercise_group": "નીચેનાં વાક્યોને પાઠના ઘટનાક્રમ મુજબ ગોઠવો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "બધાં દેવી-દેવતાઓએ પવનદેવને વિનંતી કરી કે આ સૃષ્ટિને બચાવી લો.",
+      "answer": "આ ઘટના પાંચમી આવે.",
+      "explanation": "પવનદેવે હવા રોકી, ‘બધાંના શ્વાસ ગૂંગળાવા લાગ્યા. હાહાકાર મચી ગયો.’ — એ પછી જ દેવી-દેવતાઓ ડરીને પવનદેવ પાસે પહોંચ્યાં. એટલે આ ઘટના ઇન્દ્રની શિક્ષા પછી ને પવનદેવ માની જાય એની પહેલાં આવે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "સાચો ઘટનાક્રમ (છપાયેલા ક્રમાંક પ્રમાણે) — બે, ચાર, છ, પાંચ, ત્રણ, એક.\nપહેલી : શિક્ષકે હનુમાનની વાર્તા કહેવાનું શરૂ કર્યું.\nબીજી : હનુમાને થોડે દૂર એક લાલચટ્ટાક ફળ જોયું.\nત્રીજી : રાહુએ ઇન્દ્રદેવને ફરિયાદ કરી.\nચોથી : ઇન્દ્રદેવે હનુમાનને શિક્ષા કરી.\nપાંચમી : બધાં દેવી-દેવતાઓએ પવનદેવને વિનંતી કરી કે આ સૃષ્ટિને બચાવી લો.\nછઠ્ઠી : હનુમાનને સાજા કરવાની ખાતરી મળતાં પવનદેવ માની ગયા.",
+      "teacher_note": "Book's block 6, printed sentence 3. This same sentence is the answer-target of block 2, item 5 — cross-refer, since a child who did that block already knows where it sits in the tale.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX35",
+      "exercise_group": "નીચેનાં વાક્યોને પાઠના ઘટનાક્રમ મુજબ ગોઠવો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "હનુમાને થોડે દૂર એક લાલચટ્ટાક ફળ જોયું.",
+      "answer": "આ ઘટના બીજી આવે.",
+      "explanation": "વાર્તા શરૂ થયા પછીની આ પહેલી ઘટના છે : ‘ત્યાં અચાનક જ એમને દૂરદૂર એક નવી જ જાતનું એકદમ પાકું ફળ દેખાયું. ગોળમટોળ અને લાલચટ્ટક રંગ.’ આ જોયું એટલે જ એ કૂદ્યા, ને પછીની બધી ઘટનાઓ બની.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "સાચો ઘટનાક્રમ (છપાયેલા ક્રમાંક પ્રમાણે) — બે, ચાર, છ, પાંચ, ત્રણ, એક.\nપહેલી : શિક્ષકે હનુમાનની વાર્તા કહેવાનું શરૂ કર્યું.\nબીજી : હનુમાને થોડે દૂર એક લાલચટ્ટાક ફળ જોયું.\nત્રીજી : રાહુએ ઇન્દ્રદેવને ફરિયાદ કરી.\nચોથી : ઇન્દ્રદેવે હનુમાનને શિક્ષા કરી.\nપાંચમી : બધાં દેવી-દેવતાઓએ પવનદેવને વિનંતી કરી કે આ સૃષ્ટિને બચાવી લો.\nછઠ્ઠી : હનુમાનને સાજા કરવાની ખાતરી મળતાં પવનદેવ માની ગયા.",
+      "teacher_note": "Book's block 6, printed sentence 4. Note the spelling drift the book itself carries: લાલચટ્ટક in the body, લાલચટ્ટ in the શબ્દાર્થ box, લાલચટ્ટાક here and in block 8. Per 07_pitfalls.json chapter_level, quote whichever form the place being quoted prints and never call any of them a mistake.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX36",
+      "exercise_group": "નીચેનાં વાક્યોને પાઠના ઘટનાક્રમ મુજબ ગોઠવો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "ઇન્દ્રદેવે હનુમાનને શિક્ષા કરી.",
+      "answer": "આ ઘટના ચોથી આવે.",
+      "explanation": "રાહુની ફરિયાદ સાંભળીને ઇન્દ્ર ગુસ્સે થયા ને ‘તરત જ સૂર્યલોક પહોંચ્યા’, પછી ‘ઇન્દ્રરાજાએ હનુમાન પર વજ્રથી પ્રહાર કર્યો.’ એટલે ફરિયાદ પહેલી ને શિક્ષા પછી. ‘શિક્ષા’ એટલે અહીં સજા — પાઠની શબ્દાર્થ પેટી પોતે એ ગ્લોસ આપે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "સાચો ઘટનાક્રમ (છપાયેલા ક્રમાંક પ્રમાણે) — બે, ચાર, છ, પાંચ, ત્રણ, એક.\nપહેલી : શિક્ષકે હનુમાનની વાર્તા કહેવાનું શરૂ કર્યું.\nબીજી : હનુમાને થોડે દૂર એક લાલચટ્ટાક ફળ જોયું.\nત્રીજી : રાહુએ ઇન્દ્રદેવને ફરિયાદ કરી.\nચોથી : ઇન્દ્રદેવે હનુમાનને શિક્ષા કરી.\nપાંચમી : બધાં દેવી-દેવતાઓએ પવનદેવને વિનંતી કરી કે આ સૃષ્ટિને બચાવી લો.\nછઠ્ઠી : હનુમાનને સાજા કરવાની ખાતરી મળતાં પવનદેવ માની ગયા.",
+      "teacher_note": "Book's block 6, printed sentence 5. શિક્ષા is a false friend for an L2 child, who reads it as 'education'; the chapter's own gloss 'શિક્ષા - (અહીં) સજા' settles it, and the '(અહીં)' is worth showing — the book is saying the word means something else elsewhere.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX37",
+      "exercise_group": "નીચેનાં વાક્યોને પાઠના ઘટનાક્રમ મુજબ ગોઠવો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "રાહુએ ઇન્દ્રદેવને ફરિયાદ કરી.",
+      "answer": "આ ઘટના ત્રીજી આવે.",
+      "explanation": "ફળ જોઈને હનુમાન કૂદ્યા, રસ્તામાં રાહુ મળ્યો ને ‘હનુમાને તો પહેલાં એને જ પાડી દીધો.’ પડ્યા પછી જ ‘રાહુ તો રડતો રડતો ઇન્દ્રદેવના દરબારમાં પહોંચ્યો.’ એટલે આ ઘટના ફળ જોયા પછી ને શિક્ષા પહેલાં આવે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "સાચો ઘટનાક્રમ (છપાયેલા ક્રમાંક પ્રમાણે) — બે, ચાર, છ, પાંચ, ત્રણ, એક.\nપહેલી : શિક્ષકે હનુમાનની વાર્તા કહેવાનું શરૂ કર્યું.\nબીજી : હનુમાને થોડે દૂર એક લાલચટ્ટાક ફળ જોયું.\nત્રીજી : રાહુએ ઇન્દ્રદેવને ફરિયાદ કરી.\nચોથી : ઇન્દ્રદેવે હનુમાનને શિક્ષા કરી.\nપાંચમી : બધાં દેવી-દેવતાઓએ પવનદેવને વિનંતી કરી કે આ સૃષ્ટિને બચાવી લો.\nછઠ્ઠી : હનુમાનને સાજા કરવાની ખાતરી મળતાં પવનદેવ માની ગયા.",
+      "teacher_note": "Book's block 6, printed sentence 6. Finish by having the class read the six sentences aloud in the corrected order — that read-back is the chapter's arc in miniature and is the cheapest revision available before the written block 7.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX38",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "સવાર સવારમાં માતા અંજની ક્યાં ગયાં હશે ?",
+      "answer": "(એક શક્ય જવાબ) પાઠમાં એ લખ્યું નથી કે માતા અંજની ક્યાં ગયાં હતાં. પાઠ એટલું જ કહે છે કે હનુમાન રોજ કરતાં વહેલા જાગી ગયા હતા ને ‘એમણે આજુબાજુ જોયું તો માતા અંજની ક્યાંય દેખાયાં નહિ.’ એ કદાચ સવારના કોઈ કામે — પાણી ભરવા કે ખાવાનું લેવા — બહાર ગયાં હશે.",
+      "explanation": "પ્રશ્નમાં ‘હશે ?’ છે, ને એ શબ્દ જ કહી દે છે કે આનો ચોક્કસ જવાબ પાઠમાં નથી — અહીં કલ્પના કરવાની છે. પણ કલ્પનાનો પાયો પાઠમાં જ છે : હનુમાન ‘રોજ કરતાં સવારે વહેલા જાગી ગયા હતા’, એટલે માતા બહાર હોય એ સ્વાભાવિક છે — રોજના સમયે જાગ્યા હોત તો કદાચ મળી પણ ગયાં હોત.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) એ કદાચ હનુમાન માટે ફળ લેવા જ ગયાં હશે, કારણ કે એ દિવસે આસપાસ કોઈ વૃક્ષ પર પાકાં ફળ દેખાયાં નહોતાં."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 7, question 1. Written block, but this first item is an inference, not a retrieval. Insist that the child's answer begin by saying the chapter does not tell us — that habit is what separates an inference from an invention, and it is the same discipline reference/no_hallucination_policy.md asks of this pipeline. Do not supply a 'correct' errand.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX39",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "હનુમાનજીને સૂર્ય ફળ જેવો કેમ લાગ્યો હશે ?",
+      "answer": "કારણ કે ઊગતો સૂર્ય દેખાવમાં પાકા ફળ જેવો જ લાગતો હતો — ‘ગોળમટોળ અને લાલચટ્ટક રંગ’. વળી હનુમાનને ‘બરાબરની ભૂખ લાગી હતી’ ને આસપાસ કોઈ વૃક્ષ પર પાકાં ફળ દેખાયાં નહોતાં, એટલે દૂરદૂર દેખાયેલી એ લાલ ગોળ વસ્તુ એમને ‘એક નવી જ જાતનું એકદમ પાકું ફળ’ જ લાગી.",
+      "explanation": "જવાબ પાઠમાં બે ટુકડે પડેલો છે, ને બંને ટુકડા જોઈએ. પહેલો દેખાવનો છે — ગોળ આકાર ને લાલ રંગ. બીજો ભૂખનો છે — ભૂખ્યા માણસને ખાવાનું જ દેખાય. પાઠ એ ભૂખ પણ છપાવે છે ને એની અસર પણ : ‘અરે, મોંમાં પાણી આવી ગયું.’ પછી પાઠ પોતે જ ખુલાસો કરી દે છે — ‘ખરેખર એ ફળ નહોતું. ઊગતો સૂર્ય હતો.’",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 7, question 2. This is the motive question that carries the chapter's turn, so ask for both halves — how it looked AND how hungry he was. A child who gives only the colour has answered half. The idiom મોંમાં પાણી આવવું is glossed in the chapter's printed રૂઢિપ્રયોગ list; use it here.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX40",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "હનુમાનજી આકાશમાં કેમ ઊડ્યા ?",
+      "answer": "એ ફળ તોડીને ખાવા માટે. પાઠ કહે છે — ‘એ ફળ તોડીને ખાવાનો એમણે તો મનસૂબો કર્યો.’ ને પછી ‘હનુમાનદાદા તો સૂર્યને જ ફળ માનીને કૂદ્યા. ને પછી આકાશમાં ઊંચેને ઊંચે ઊડવા લાગ્યા.’ ઊડી શક્યા એટલા માટે કે ‘હનુમાનનો જન્મ પવનદેવના આશીર્વાદથી થયેલો. એટલે ઊડવામાં તો એ એક્કા !’",
+      "explanation": "આ પ્રશ્નમાં બે વાત સાથે પુછાઈ છે — શા માટે ઊડ્યા, ને ઊડી કઈ રીતે શક્યા. ‘મનસૂબો’ એટલે ઇરાદો, ધારણા — પાઠની શબ્દાર્થ પેટીનો શબ્દ છે. ઇરાદો ફળ ખાવાનો હતો, ને એ ઇરાદો પાર પાડવાની શક્તિ પવનદેવના આશીર્વાદમાંથી આવી. બંને વાત જવાબમાં આવે તો જવાબ પૂરો ગણાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 7, question 3. Two-part answer; mark the second part (the પવનદેવ birth line) as the part most children drop. મનસૂબો is the block-2 example word too, so this is its second meeting — exactly the recycling reference/shabd_gloss.md asks for with an L2 reader.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T4",
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX41",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "હનુમાનજીને સૂર્ય સુધી પહોંચતાં કેટલો સમય લાગ્યો હશે ?",
+      "answer": "(એક શક્ય જવાબ) પાઠમાં સમય લખ્યો નથી. પણ પાઠ કહે છે કે ‘ઊડવામાં તો એ એક્કા !’ ને ઘટનાઓ એક પછી એક ઝડપથી બને છે — રસ્તામાં રાહુ મળ્યો, એને પાડી દીધો, ને ‘એટલામાં તો આ નાનકડા વાનરબાળે સૂર્યને ખરેખર મોઢામાં મૂકી દીધો હતો.’ એટલે વાર્તા પ્રમાણે એમને બહુ થોડી જ વાર લાગી હશે.",
+      "explanation": "આ પણ ‘હશે ?’વાળો પ્રશ્ન છે — પાઠમાં કલાક કે દિવસ ક્યાંય લખ્યા નથી, એટલે કોઈ આંકડો સાચો જવાબ ન હોઈ શકે. જવાબનો આધાર પાઠનો ‘એટલામાં તો’ શબ્દ છે : એ શબ્દ જ કહે છે કે ઇન્દ્ર સૂર્યલોક પહોંચે એટલી વારમાં તો કામ પતી ગયું હતું. એટલે જવાબ ‘બહુ થોડી વારમાં’ એ દિશામાં જ જાય.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) એટલો સમય લાગ્યો હશે જેટલામાં રાહુ ઇન્દ્રદેવના દરબાર સુધી પહોંચીને ફરિયાદ કરી શક્યો — વાર્તા એ બે ઘટનાઓ સાથે સાથે બનતી બતાવે છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 7, question 4. Do NOT let a number in from outside — not from block 14's 'જુગ સહસ્ર જોજન' (which is a distance, not a time) and not from any recalled figure. The chapter gives only a pace word, એટલામાં તો, and the honest answer is built on it. This is the block's clearest no-hallucination drill.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX42",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "રાહુએ ઇન્દ્રદેવને શી ફરિયાદ કરી ? કેમ ?",
+      "answer": "રાહુએ ફરિયાદ કરી કે ‘હે ભગવાન આપે બનાવેલા નિયમ મુજબ હું ગ્રહણકાળ દરમિયાન સૂર્ય પર હુમલો કરવા જઈ રહ્યો હતો, પરંતુ એક શક્તિશાળી વાનરબાળકે મને મારીને ભગાડી દીધો. હું એને પહોંચી ન શક્યો.’ ને એણે માગ્યું — ‘તમે જ એને શિક્ષા કરો.’ ફરિયાદ કરવાનું કારણ એ કે હનુમાને એને રસ્તામાં જ પાડી દીધો હતો ને એ પોતે હનુમાનને પહોંચી શકે એમ નહોતો, એટલે એ રડતો રડતો ઇન્દ્રદેવના દરબારમાં ગયો.",
+      "explanation": "પ્રશ્નમાં બે ભાગ છે — ‘શી ફરિયાદ ?’ ને ‘કેમ ?’. પહેલા ભાગનો જવાબ પાઠમાં રાહુના પોતાના શબ્દોમાં જ છપાયેલો છે, એટલે એ અવતરણ સાથે લેવો સૌથી સારો. બીજા ભાગનો જવાબ એની આગળના વાક્યમાં છે — ‘હનુમાને તો પહેલાં એને જ પાડી દીધો.’ રાહુ પોતે હારી ગયો હતો, એટલે એણે રાજા પાસે જવું પડ્યું.",
+      "acceptable_alternatives": [
+        "રાહુએ ઇન્દ્રદેવને ફરિયાદ કરી કે ગ્રહણકાળમાં નિયમ પ્રમાણે એ સૂર્ય પર હુમલો કરવા જતો હતો ત્યાં એક શક્તિશાળી વાનરબાળકે એને મારીને ભગાડી દીધો, ને એણે એ બાળકને શિક્ષા કરવાનું કહ્યું. કારણ કે એ પોતે હનુમાનને પહોંચી શક્યો નહોતો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 7, question 5 — the block's longest answer, and the one to model on the board. Note that the chapter prints રાહુની ફરિયાદ without quotation marks around the reported speech even though it is his own words; quote it as the chapter prints it. રાહુ is glossed in the શબ્દાર્થ box; use that gloss and nothing beyond it.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX43",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "પવનદેવ શાથી ગુસ્સે થયા ?",
+      "answer": "કારણ કે ઇન્દ્રદેવે એમના હનુમાન પર વજ્રથી પ્રહાર કર્યો હતો ને ‘બાલ હનુમાન બેહોશ થઈને ધરતી પર પડ્યા.’ પાઠ કહે છે — ‘પવનદેવને આ બનાવની જાણ થઈ. તેમના ગુસ્સાનો પાર ન રહ્યો.’ ગુસ્સામાં એમણે ‘સમગ્ર વિશ્વમાં હવાનો પ્રવાહ જ રોકી દીધો.’",
+      "explanation": "‘શાથી ?’ એટલે કયા કારણથી. કારણ આગળના જ ફકરાના છેલ્લા વાક્યમાં પડ્યું છે — વજ્રનો પ્રહાર ને હનુમાનનું બેહોશ થઈને પડવું. જવાબમાં એ કારણ ને એની અસર બંને આવે તો વાત પૂરી થાય, કારણ કે પાઠમાં એ બંને સાથે જ ચાલે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 7, question 6. Per 08_sensitivity.json M2.S4.T7 (soft), keep the answer inside the story's own logic — a father's anger over his hurt child — and do not let it slide into a claim about how air or weather actually works, nor into devotional instruction.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX44",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "દેવોએ હનુમાનજીને સ્વસ્થ કેમ કરી દીધા ?",
+      "answer": "કારણ કે પવનદેવે એ જ શરત મૂકી હતી — ‘મારા હનુમાનને પહેલાં જેવો સાજોસારો કરી દો તો જ મારી રીસ ઊતરે.’ હવા થંભી જવાથી ‘બધાંના શ્વાસ ગૂંગળાવા લાગ્યા. હાહાકાર મચી ગયો’ ને દેવી-દેવતાઓને ભય લાગ્યો કે ‘આખું જગત જ મરી જશે’. સૃષ્ટિને બચાવવી હોય તો પવનદેવને મનાવવા જ પડે, ને એમને મનાવવા હનુમાનને સાજા કરવા જ પડે — એટલે દેવોએ હનુમાનને સ્વસ્થ કરી દીધા ને ઘણાં વરદાન પણ આપ્યાં.",
+      "explanation": "આ ‘કેમ ?’નો જવાબ સાંકળરૂપે છે : હવા બંધ → હાહાકાર → દેવોનો ભય → પવનદેવ પાસે પ્રાર્થના → પવનદેવની શરત → હનુમાન સાજા. વચ્ચેની એકે કડી છોડાય નહિ, નહિતર જવાબ અધૂરો લાગે. જવાબનો છેલ્લો છેડો પણ પાઠમાં જ છે — ‘છેવટે સૂર્યનો પણ છુટકારો થયો, પરંતુ હનુમાનની હડપચીમાં વજ્રના ઘાની અસર રહી ગઈ.’",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 7, question 7 — the last written question, and the one that rewards a chain answer. Draw the chain as arrows on the board before they write. હડપચી is glossed in the chapter's own box (નીચલા જડબાનો ભાગ); children like this detail, and it is the tale's one lasting mark.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX45",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દ લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ઉદાહરણ : લાલ : લાલચટ્ટાક\nકાળું",
+      "answer": "કાળું : કાળુંધબ",
+      "explanation": "ઉદાહરણમાં ‘લાલ’ સાથે એક પૂંછડિયો શબ્દ જોડાયો છે ને રંગ વધારે ઘેરો થઈ ગયો — ‘લાલચટ્ટાક’ એટલે ખૂબ લાલ. એ જ રીતે દરેક રંગ સાથે એનો પોતાનો જોડિયો શબ્દ આવે છે, ને એ જોડાયા પછી રંગ ‘બહુ જ’ થઈ જાય છે. અહીં ‘કાળું’નું એવું રૂપ ‘કાળુંધબ’ થાય. આવો શબ્દ છૂટો બોલાતો નથી — એ રંગની સાથે જ બોલાય છે.",
+      "acceptable_alternatives": [
+        "કાળુંભમ્મર",
+        "કાળુંમેશ"
+      ],
+      "values_filled_for_teaching": "કાળું : કાળુંધબ",
+      "teacher_note": "Book's block 8. The book prints NO answer key for this block, and Gujarati keeps more than one accepted intensive for several colours; the forms below are the commonly used ones and the alternatives are equally acceptable. Let a child's household form stand if it is a real one, and send the class to the શબ્દકોશ (which block 11 also uses) rather than ruling from memory. The pattern's anchor is the chapter's own 'ગોળમટોળ અને લાલચટ્ટક રંગ' in M2.S3.T4 — note the book prints લાલચટ્ટક there, લાલચટ્ટ in the શબ્દાર્થ box and લાલચટ્ટાક in this exercise; all three stay as printed.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX46",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દ લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ઉદાહરણ : લાલ : લાલચટ્ટાક\nપીળું",
+      "answer": "પીળું : પીળુંધમ્મર",
+      "explanation": "ઉદાહરણમાં ‘લાલ’ સાથે એક પૂંછડિયો શબ્દ જોડાયો છે ને રંગ વધારે ઘેરો થઈ ગયો — ‘લાલચટ્ટાક’ એટલે ખૂબ લાલ. એ જ રીતે દરેક રંગ સાથે એનો પોતાનો જોડિયો શબ્દ આવે છે, ને એ જોડાયા પછી રંગ ‘બહુ જ’ થઈ જાય છે. અહીં ‘પીળું’નું એવું રૂપ ‘પીળુંધમ્મર’ થાય. આવો શબ્દ છૂટો બોલાતો નથી — એ રંગની સાથે જ બોલાય છે.",
+      "acceptable_alternatives": [
+        "પીળુંધમક",
+        "પીળુંપચ"
+      ],
+      "values_filled_for_teaching": "પીળું : પીળુંધમ્મર",
+      "teacher_note": "Book's block 8. The book prints NO answer key for this block, and Gujarati keeps more than one accepted intensive for several colours; the forms below are the commonly used ones and the alternatives are equally acceptable. Let a child's household form stand if it is a real one, and send the class to the શબ્દકોશ (which block 11 also uses) rather than ruling from memory. The pattern's anchor is the chapter's own 'ગોળમટોળ અને લાલચટ્ટક રંગ' in M2.S3.T4 — note the book prints લાલચટ્ટક there, લાલચટ્ટ in the શબ્દાર્થ box and લાલચટ્ટાક in this exercise; all three stay as printed.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX47",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દ લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ઉદાહરણ : લાલ : લાલચટ્ટાક\nલીલું",
+      "answer": "લીલું : લીલુંછમ",
+      "explanation": "ઉદાહરણમાં ‘લાલ’ સાથે એક પૂંછડિયો શબ્દ જોડાયો છે ને રંગ વધારે ઘેરો થઈ ગયો — ‘લાલચટ્ટાક’ એટલે ખૂબ લાલ. એ જ રીતે દરેક રંગ સાથે એનો પોતાનો જોડિયો શબ્દ આવે છે, ને એ જોડાયા પછી રંગ ‘બહુ જ’ થઈ જાય છે. અહીં ‘લીલું’નું એવું રૂપ ‘લીલુંછમ’ થાય. આવો શબ્દ છૂટો બોલાતો નથી — એ રંગની સાથે જ બોલાય છે.",
+      "acceptable_alternatives": [
+        "લીલુંકચ"
+      ],
+      "values_filled_for_teaching": "લીલું : લીલુંછમ",
+      "teacher_note": "Book's block 8. The book prints NO answer key for this block, and Gujarati keeps more than one accepted intensive for several colours; the forms below are the commonly used ones and the alternatives are equally acceptable. Let a child's household form stand if it is a real one, and send the class to the શબ્દકોશ (which block 11 also uses) rather than ruling from memory. The pattern's anchor is the chapter's own 'ગોળમટોળ અને લાલચટ્ટક રંગ' in M2.S3.T4 — note the book prints લાલચટ્ટક there, લાલચટ્ટ in the શબ્દાર્થ box and લાલચટ્ટાક in this exercise; all three stay as printed.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX48",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દ લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ઉદાહરણ : લાલ : લાલચટ્ટાક\nધોળું",
+      "answer": "ધોળું : ધોળુંફક",
+      "explanation": "ઉદાહરણમાં ‘લાલ’ સાથે એક પૂંછડિયો શબ્દ જોડાયો છે ને રંગ વધારે ઘેરો થઈ ગયો — ‘લાલચટ્ટાક’ એટલે ખૂબ લાલ. એ જ રીતે દરેક રંગ સાથે એનો પોતાનો જોડિયો શબ્દ આવે છે, ને એ જોડાયા પછી રંગ ‘બહુ જ’ થઈ જાય છે. અહીં ‘ધોળું’નું એવું રૂપ ‘ધોળુંફક’ થાય. આવો શબ્દ છૂટો બોલાતો નથી — એ રંગની સાથે જ બોલાય છે.",
+      "acceptable_alternatives": [
+        "ધોળુંધબ",
+        "ધોળુંદૂધ"
+      ],
+      "values_filled_for_teaching": "ધોળું : ધોળુંફક",
+      "teacher_note": "Book's block 8. The book prints NO answer key for this block, and Gujarati keeps more than one accepted intensive for several colours; the forms below are the commonly used ones and the alternatives are equally acceptable. Let a child's household form stand if it is a real one, and send the class to the શબ્દકોશ (which block 11 also uses) rather than ruling from memory. The pattern's anchor is the chapter's own 'ગોળમટોળ અને લાલચટ્ટક રંગ' in M2.S3.T4 — note the book prints લાલચટ્ટક there, લાલચટ્ટ in the શબ્દાર્થ box and લાલચટ્ટાક in this exercise; all three stay as printed.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX49",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દ લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ઉદાહરણ : લાલ : લાલચટ્ટાક\nરાતું",
+      "answer": "રાતું : રાતુંચોળ",
+      "explanation": "ઉદાહરણમાં ‘લાલ’ સાથે એક પૂંછડિયો શબ્દ જોડાયો છે ને રંગ વધારે ઘેરો થઈ ગયો — ‘લાલચટ્ટાક’ એટલે ખૂબ લાલ. એ જ રીતે દરેક રંગ સાથે એનો પોતાનો જોડિયો શબ્દ આવે છે, ને એ જોડાયા પછી રંગ ‘બહુ જ’ થઈ જાય છે. અહીં ‘રાતું’નું એવું રૂપ ‘રાતુંચોળ’ થાય. આવો શબ્દ છૂટો બોલાતો નથી — એ રંગની સાથે જ બોલાય છે.",
+      "acceptable_alternatives": [
+        "રાતુંચટ્ટાક"
+      ],
+      "values_filled_for_teaching": "રાતું : રાતુંચોળ",
+      "teacher_note": "Book's block 8. The book prints NO answer key for this block, and Gujarati keeps more than one accepted intensive for several colours; the forms below are the commonly used ones and the alternatives are equally acceptable. Let a child's household form stand if it is a real one, and send the class to the શબ્દકોશ (which block 11 also uses) rather than ruling from memory. The pattern's anchor is the chapter's own 'ગોળમટોળ અને લાલચટ્ટક રંગ' in M2.S3.T4 — note the book prints લાલચટ્ટક there, લાલચટ્ટ in the શબ્દાર્થ box and લાલચટ્ટાક in this exercise; all three stay as printed.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX50",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દ લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ઉદાહરણ : લાલ : લાલચટ્ટાક\nભૂરું",
+      "answer": "ભૂરું : ભૂરુંભખ",
+      "explanation": "ઉદાહરણમાં ‘લાલ’ સાથે એક પૂંછડિયો શબ્દ જોડાયો છે ને રંગ વધારે ઘેરો થઈ ગયો — ‘લાલચટ્ટાક’ એટલે ખૂબ લાલ. એ જ રીતે દરેક રંગ સાથે એનો પોતાનો જોડિયો શબ્દ આવે છે, ને એ જોડાયા પછી રંગ ‘બહુ જ’ થઈ જાય છે. અહીં ‘ભૂરું’નું એવું રૂપ ‘ભૂરુંભખ’ થાય. આવો શબ્દ છૂટો બોલાતો નથી — એ રંગની સાથે જ બોલાય છે.",
+      "acceptable_alternatives": [
+        "ભૂરુંભટ"
+      ],
+      "values_filled_for_teaching": "ભૂરું : ભૂરુંભખ",
+      "teacher_note": "Book's block 8. The book prints NO answer key for this block, and Gujarati keeps more than one accepted intensive for several colours; the forms below are the commonly used ones and the alternatives are equally acceptable. Let a child's household form stand if it is a real one, and send the class to the શબ્દકોશ (which block 11 also uses) rather than ruling from memory. The pattern's anchor is the chapter's own 'ગોળમટોળ અને લાલચટ્ટક રંગ' in M2.S3.T4 — note the book prints લાલચટ્ટક there, લાલચટ્ટ in the શબ્દાર્થ box and લાલચટ્ટાક in this exercise; all three stay as printed.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX51",
+      "exercise_group": "ઉદાહરણ મુજબના બીજા પાંચ શબ્દો લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ખડખડાટ, ગણગણાટ, __________ , __________ , __________ , __________ , __________",
+      "answer": "(એક શક્ય જવાબ) ગડગડાટ, ધડધડાટ, બબડાટ, ફફડાટ, સૂસવાટ",
+      "explanation": "‘ખડખડાટ’ ને ‘ગણગણાટ’ — બંનેમાં અવાજ સંભળાય છે ને બંને ‘-આટ’માં પૂરા થાય છે. વળી બંનેમાં એક જ અક્ષરજોડી બે વાર બોલાય છે : ખડ-ખડ, ગણ-ગણ. એ જ ઢાળના બીજા શબ્દો શોધવાના છે. પાઠમાં ‘ખડખડાટ’ બે વાર છપાયો છે — ‘ખડખડાટ હસીને ભાસ્કરભાઈએ…’ ને છેલ્લે ‘આખો વર્ગ ખડખડાટ હસી પડ્યો.’ ને શબ્દાર્થ પેટીમાં ‘મેઘગર્જના-વાદળોનો ગડગડાટ’ પણ છપાયેલો છે, એટલે એક શબ્દ તો પાઠમાંથી જ મળી જાય છે.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) કડકડાટ, ઝગમગાટ, સણસણાટ, ધમધમાટ, કકળાટ"
+      ],
+      "values_filled_for_teaching": "પાંચ ખાલી જગ્યાનો એક શક્ય જવાબ : ગડગડાટ, ધડધડાટ, બબડાટ, ફફડાટ, સૂસવાટ",
+      "teacher_note": "Book's block 9 — an open list block, so any five real words of the pattern are correct. Start by harvesting ગડગડાટ from the chapter's own શબ્દાર્થ box so the class sees the pattern is already on their page. Say the words aloud and let the children hear the doubling; at std 6 the pattern is met, not labelled (chapter-level craft-vocabulary ceiling in 07_pitfalls.json).",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M3.S5.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX52",
+      "exercise_group": "આપેલા બે શબ્દોનો ઉપયોગ કરીને એક વાક્ય બનાવો.",
+      "skill": "writing",
+      "prompt_verbatim": "ઉદાહરણ : અચાનક, તોફાન\n          પવન અચાનક તોફાને ચડ્યો.\n1. કૃપા, સૂર્ય",
+      "answer": "(એક શક્ય જવાબ) પવનદેવની કૃપાથી બાલ હનુમાન સૂર્ય સુધી પહોંચ્યા.",
+      "explanation": "બંને શબ્દો એક જ વાક્યમાં આવવા જોઈએ ને વાક્યનો અર્થ પૂરો થવો જોઈએ. આ જોડી પાઠમાં લગભગ તૈયાર જ પડી છે : ‘‘બાલ હનુમાન તો પવનદેવની કૃપાથી સૂર્ય સુધી પહોંચ્યા.’’ ‘કૃપા’ એટલે મહેરબાની.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) સૂર્ય રોજ ઊગે છે એ કુદરતની આપણા પર મોટી કૃપા છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 10, pair 1. Show that the printed example itself plays on two meanings of તોફાન (a child's mischief, and a storm) — that is the block's real invitation. Accept any grammatical sentence; the chapter's own line is a model, not the required answer.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S5.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX53",
+      "exercise_group": "આપેલા બે શબ્દોનો ઉપયોગ કરીને એક વાક્ય બનાવો.",
+      "skill": "writing",
+      "prompt_verbatim": "2. તાળી, ગર્જના",
+      "answer": "(એક શક્ય જવાબ) વાર્તા પૂરી થતાં વર્ગમાં એવી તાળીઓ પડી કે જાણે વાદળોની ગર્જના થઈ.",
+      "explanation": "‘ગર્જના’ એટલે ગડગડાટ જેવો મોટો અવાજ — પાઠની શબ્દાર્થ પેટીમાં ‘મેઘગર્જના-વાદળોનો ગડગડાટ’ છપાયેલું છે. બંને શબ્દો અવાજના છે, એટલે એમને એક વાક્યમાં સરખાવીને મૂકવા સહેલા પડે. પાઠમાં તાળીઓ બે વાર પડે છે — આદિત્યના માનમાં ને મિહિર માટે.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) બહાર વાદળોની ગર્જના થઈ ને અંદર બાળકોએ તાળી પાડી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 10, pair 2. The chapter supplies both halves — the two rounds of applause (M3.S5.T8) and મેઘગર્જના (M2.S4.T6) — so this pair is the easiest of the four to anchor in the text.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S4.T6",
+        "M3.S5.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX54",
+      "exercise_group": "આપેલા બે શબ્દોનો ઉપયોગ કરીને એક વાક્ય બનાવો.",
+      "skill": "writing",
+      "prompt_verbatim": "3. હિંમત, ગ્રહણ",
+      "answer": "(એક શક્ય જવાબ) ગ્રહણ જોવા માટે મોડી રાત સુધી જાગવાની હિંમત મેં કરી.",
+      "explanation": "‘હિંમત’ એટલે બહાદુરી, ને ‘ગ્રહણ’ પાઠનો પહેલો જ વિષય છે — આચાર્યસાહેબે પ્રાર્થનાસભામાં સૂર્યગ્રહણ વિષે વાત કરી હતી. પાઠમાં ‘હિંમત’ શબ્દ ઇન્દ્રના મોઢે પણ છે : ‘‘એક નાનકડા બાળકની આટલી હિંમત ?’’ એટલે બંને શબ્દો પાઠના પોતાના છે.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) ગ્રહણ વખતે ઇન્દ્રનો સામનો કરવાની હિંમત નાનકડા હનુમાને કરી હતી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 10, pair 3. Safety note for the classroom talk this pair invites: keep it to watching the sky in general terms — do not let it turn into advice about looking at an eclipse.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX55",
+      "exercise_group": "આપેલા બે શબ્દોનો ઉપયોગ કરીને એક વાક્ય બનાવો.",
+      "skill": "writing",
+      "prompt_verbatim": "4. જગત, આશીર્વાદ",
+      "answer": "(એક શક્ય જવાબ) પવનદેવના આશીર્વાદથી જન્મેલા હનુમાનની વાત આખું જગત જાણે છે.",
+      "explanation": "‘જગત’ એટલે દુનિયા — શબ્દાર્થ પેટીમાં ‘સૃષ્ટિ-વિશ્વ, જગત’ છપાયેલું છે — ને ‘આશીર્વાદ’ એટલે આશિષ. બંને શબ્દો પાઠમાં છે : ‘હનુમાનનો જન્મ પવનદેવના આશીર્વાદથી થયેલો.’ ને ‘બધાં દેવી-દેવતાઓને ભય લાગ્યો કે… આખું જગત જ મરી જશે.’",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) વડીલોના આશીર્વાદ મળે તો જગતમાં કોઈ કામ અઘરું લાગતું નથી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 10, pair 4. Both words are printed in the chapter's own શબ્દાર્થ box, so this pair is the natural place to close the block by walking back through that box.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S4.T6",
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX56",
+      "exercise_group": "નીચે આપેલા શબ્દોના સમાન અર્થવાળા શબ્દો શબ્દકોશની મદદથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "1. સૂર્ય __________",
+      "answer": "રવિ, ભાનુ, ભાસ્કર, આદિત્ય, સવિતા, મિહિર, સૂરજ, દિનકર",
+      "explanation": "‘સૂર્ય’ના સમાનાર્થી શબ્દો ગુજરાતીમાં ઘણા છે. મજાની વાત એ છે કે આ પાઠમાં એમાંના કેટલાય શબ્દો પાત્રોનાં નામ તરીકે જ છપાયેલા છે — શિક્ષક ભાસ્કરભાઈ, ને વિદ્યાર્થીઓ મિહિર, રવિ, સવિતા ને આદિત્ય. વળી ચૌદમા સ્વાધ્યાયની પંક્તિમાં ‘ભાનુ’ શબ્દ પણ સૂર્ય માટે જ વપરાયો છે.",
+      "acceptable_alternatives": [
+        "સૂરજ",
+        "દિનકર",
+        "દિનેશ"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 11. The block explicitly sends the child to the શબ્દકોશ — dictionary use is itself the skill here (std-6 ladder, ch 6's શબ્દકોશ ક્રમ chart), so hand out dictionaries rather than dictating. One or two synonyms per word is enough at std 6. Item 1 is the chapter's hidden joke and worth ten minutes: ભાસ્કર, મિહિર, રવિ, સવિતા and આદિત્ય are all names of the sun, પ્રભા is light and ઉષા is dawn — every named character in the classroom frame carries a sun-word. Let the class discover it from the dictionary rather than being told.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S2.T2",
+        "M2.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX57",
+      "exercise_group": "નીચે આપેલા શબ્દોના સમાન અર્થવાળા શબ્દો શબ્દકોશની મદદથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "2. ચંદ્ર __________",
+      "answer": "શશી, સોમ, ચાંદો, ઇન્દુ, રજનીશ",
+      "explanation": "‘ચંદ્ર’ પાઠમાં બે વાર આવે છે — સવિતાની દલીલમાં ‘‘દૂર તો ચંદ્ર પણ છે જ ને ?’’ ને છેલ્લે ભાસ્કરભાઈની વાતમાં ‘ચંદ્રયાન દ્વારા ચંદ્ર સુધી’. શબ્દાર્થ પેટીમાં પણ સૂર્યગ્રહણની સમજૂતીમાં ચંદ્ર આવે છે.",
+      "acceptable_alternatives": [
+        "ચાંદ",
+        "નિશાકર"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 11. The block explicitly sends the child to the શબ્દકોશ — dictionary use is itself the skill here (std-6 ladder, ch 6's શબ્દકોશ ક્રમ chart), so hand out dictionaries rather than dictating. One or two synonyms per word is enough at std 6.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M3.S5.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX58",
+      "exercise_group": "નીચે આપેલા શબ્દોના સમાન અર્થવાળા શબ્દો શબ્દકોશની મદદથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "3. પ્રકાશ __________",
+      "answer": "અજવાળું, તેજ, ઉજાસ, પ્રભા",
+      "explanation": "‘પ્રકાશ’ એટલે અજવાળું. આ શબ્દ પાઠના વાંચનભાગમાં ક્યાંય છપાયો નથી, એટલે એનો જવાબ શબ્દકોશમાંથી જ લેવાનો છે — ને સ્વાધ્યાય પોતે એ જ કહે છે, ‘શબ્દકોશની મદદથી લખો’.",
+      "acceptable_alternatives": [
+        "અજવાસ",
+        "ઝળહળાટ"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 11. The block explicitly sends the child to the શબ્દકોશ — dictionary use is itself the skill here (std-6 ladder, ch 6's શબ્દકોશ ક્રમ chart), so hand out dictionaries rather than dictating. One or two synonyms per word is enough at std 6. Item 3 is the one word in this block with no anchor in the reading text (see coverage_report.unmapped). The near-miss is the character name પ્રભા, which is a sun/light word — worth showing as a curiosity, but a name in the story is not the same as the word being used in the story, and the mapping is reported rather than claimed.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX59",
+      "exercise_group": "નીચે આપેલા શબ્દોના સમાન અર્થવાળા શબ્દો શબ્દકોશની મદદથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "4. પૃથ્વી __________",
+      "answer": "ધરતી, ધરા, ભૂમિ, જમીન, વસુંધરા",
+      "explanation": "પાઠમાં ‘ધરતી’ શબ્દ વપરાયો છે — ‘બાલ હનુમાન બેહોશ થઈને ધરતી પર પડ્યા.’ ને ‘પૃથ્વી’ શબ્દ ચોથા સ્વાધ્યાયના ફકરામાં આવે છે — ‘તેમણે પૃથ્વી પર હવાની અવરજવર રોકી દીધી.’ એટલે એક જ વસ્તુ માટે બે શબ્દો બાળકની નજર સામે જ છે.",
+      "acceptable_alternatives": [
+        "ભોંય",
+        "અવનિ"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 11. The block explicitly sends the child to the શબ્દકોશ — dictionary use is itself the skill here (std-6 ladder, ch 6's શબ્દકોશ ક્રમ chart), so hand out dictionaries rather than dictating. One or two synonyms per word is enough at std 6. Item 4 teaches itself if you put the two printed sentences side by side — ધરતી in the chapter, પૃથ્વી in block 4's paragraph.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6",
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX60",
+      "exercise_group": "નીચે આપેલા શબ્દોના સમાન અર્થવાળા શબ્દો શબ્દકોશની મદદથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "5. આકાશ __________",
+      "answer": "ગગન, નભ, અંબર, વ્યોમ, આભ",
+      "explanation": "પાઠમાં ‘આકાશ’ સીધો છપાયો છે — ‘ને પછી આકાશમાં ઊંચેને ઊંચે ઊડવા લાગ્યા.’ ને સાતમા સ્વાધ્યાયનો પ્રશ્ન પણ એ જ શબ્દ વાપરે છે : ‘હનુમાનજી આકાશમાં કેમ ઊડ્યા ?’",
+      "acceptable_alternatives": [
+        "આસમાન"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 11. The block explicitly sends the child to the શબ્દકોશ — dictionary use is itself the skill here (std-6 ladder, ch 6's શબ્દકોશ ક્રમ chart), so hand out dictionaries rather than dictating. One or two synonyms per word is enough at std 6.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX61",
+      "exercise_group": "નીચે આપેલા શબ્દોના સમાન અર્થવાળા શબ્દો શબ્દકોશની મદદથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "6. હવા __________",
+      "answer": "પવન, વાયુ, વા, સમીર, અનિલ",
+      "explanation": "‘હવા’ પાઠના સૌથી મહત્ત્વના ફકરામાં છે — ‘તેમણે તો સમગ્ર વિશ્વમાં હવાનો પ્રવાહ જ રોકી દીધો. હવા વગર તો કેમ જિવાય ?’ ને એ જ વસ્તુના દેવનું નામ પણ પાઠમાં જ છે — પવનદેવ. એટલે ‘હવા’ ને ‘પવન’ એક જ કુટુંબના શબ્દો છે એ પાઠમાંથી જ પકડાય.",
+      "acceptable_alternatives": [
+        "પવન",
+        "વાયુ"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 11. The block explicitly sends the child to the શબ્દકોશ — dictionary use is itself the skill here (std-6 ladder, ch 6's શબ્દકોશ ક્રમ chart), so hand out dictionaries rather than dictating. One or two synonyms per word is enough at std 6. Item 6 closes the block neatly: the child who sees હવા = પવન also sees why the wind-god is the one who could stop the world's air.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX62",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ આપવામાં કયા શબ્દો આવી શકે ?",
+      "skill": "grammar",
+      "prompt_verbatim": "1. શું ? __________\n(અ. હું, તું, તમે / બ. મને, અમને, તમને / ક. ત્યારે, અત્યારે, તે સમયે / ડ. આ, પેલું, તે / ઈ. અહીં, ત્યાં)",
+      "answer": "ડ. આ, પેલું, તે",
+      "explanation": "‘શું ?’ પૂછીએ ત્યારે કોઈ વસ્તુ બતાવીને જવાબ અપાય — ‘આ’, ‘પેલું’, ‘તે’. પાઠમાં ઉષા ‘‘એમ ના હોય’’ કહે છે ને પ્રભા ‘‘સૂર્યને તે કોઈ ગળી શકતું હશે ?’’ — આવા શબ્દો વસ્તુ કે વાત તરફ આંગળી ચીંધે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "જોડ : 1 – ડ",
+      "teacher_note": "Book's block 12. A matching block: the five question-words on the left, five word-groups lettered અ–ઈ on the right. Answer it as recognition, NOT as a named grammar category — સર્વનામ is taught at std 7 (reference/exercise_alignment.md grammar ladder), so at std 6 the child sees which words can answer which question and no label is handed over. Full grid: 1 – ડ · 2 – ક · 3 – ઈ · 4 – અ · 5 – બ",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX63",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ આપવામાં કયા શબ્દો આવી શકે ?",
+      "skill": "grammar",
+      "prompt_verbatim": "2. ક્યારે ? __________",
+      "answer": "ક. ત્યારે, અત્યારે, તે સમયે",
+      "explanation": "‘ક્યારે ?’ સમય પૂછે છે, એટલે જવાબમાં સમય બતાવતા શબ્દો જ આવે. પાઠમાં એવા શબ્દો છે — ‘‘અત્યારે પણ વૈજ્ઞાનિકો ચંદ્રયાન દ્વારા ચંદ્ર સુધી તો પહોંચે છે.’’ ને ‘ત્યારે તે તોફાન કહેવાય.’",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "જોડ : 2 – ક",
+      "teacher_note": "Book's block 12. A matching block: the five question-words on the left, five word-groups lettered અ–ઈ on the right. Answer it as recognition, NOT as a named grammar category — સર્વનામ is taught at std 7 (reference/exercise_alignment.md grammar ladder), so at std 6 the child sees which words can answer which question and no label is handed over. Full grid: 1 – ડ · 2 – ક · 3 – ઈ · 4 – અ · 5 – બ",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T3",
+        "M3.S5.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX64",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ આપવામાં કયા શબ્દો આવી શકે ?",
+      "skill": "grammar",
+      "prompt_verbatim": "3. ક્યાં ? __________",
+      "answer": "ઈ. અહીં, ત્યાં",
+      "explanation": "‘ક્યાં ?’ જગ્યા પૂછે છે, એટલે જવાબમાં જગ્યા બતાવતા શબ્દો આવે. પાઠમાં એ વપરાયેલા છે — ‘ત્યાં અચાનક જ એમને દૂરદૂર એક નવી જ જાતનું એકદમ પાકું ફળ દેખાયું.’ ને સાતમા સ્વાધ્યાયનો પહેલો પ્રશ્ન પણ ‘ક્યાં ગયાં હશે ?’ એમ જ પૂછે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "જોડ : 3 – ઈ",
+      "teacher_note": "Book's block 12. A matching block: the five question-words on the left, five word-groups lettered અ–ઈ on the right. Answer it as recognition, NOT as a named grammar category — સર્વનામ is taught at std 7 (reference/exercise_alignment.md grammar ladder), so at std 6 the child sees which words can answer which question and no label is handed over. Full grid: 1 – ડ · 2 – ક · 3 – ઈ · 4 – અ · 5 – બ",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX65",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ આપવામાં કયા શબ્દો આવી શકે ?",
+      "skill": "grammar",
+      "prompt_verbatim": "4. કોણ ? __________",
+      "answer": "અ. હું, તું, તમે",
+      "explanation": "‘કોણ ?’ કામ કરનાર વ્યક્તિ પૂછે છે. પાઠમાં ભાસ્કરભાઈ પોતે આ પ્રશ્ન પૂછે છે — ‘‘તમારામાંથી કોને કોને આ સૂર્ય અને રાહુની વાતની ખબર છે ?’’ ને જવાબ આપતાં સવિતા કહે છે, ‘‘સાહેબ હું કહું ?’’ — એટલે ‘કોણ ?’નો જવાબ ‘હું’ થયો.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "જોડ : 4 – અ",
+      "teacher_note": "Book's block 12. A matching block: the five question-words on the left, five word-groups lettered અ–ઈ on the right. Answer it as recognition, NOT as a named grammar category — સર્વનામ is taught at std 7 (reference/exercise_alignment.md grammar ladder), so at std 6 the child sees which words can answer which question and no label is handed over. Full grid: 1 – ડ · 2 – ક · 3 – ઈ · 4 – અ · 5 – બ",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX66",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ આપવામાં કયા શબ્દો આવી શકે ?",
+      "skill": "grammar",
+      "prompt_verbatim": "5. કોને ? __________",
+      "answer": "બ. મને, અમને, તમને",
+      "explanation": "‘કોણ ?’ ને ‘કોને ?’ વચ્ચેનો ફેર જ આ બ્લૉકનું ખરું કામ છે : ‘કોણ ?’ કામ કરનારને પૂછે છે, ‘કોને ?’ જેના પર કામ થાય એને પૂછે છે. પાઠમાં મિહિર કહે છે, ‘‘મને હજુ રાહુનો જવાબ મળ્યો નથી’’ — અહીં ‘મને’ આવ્યું, ‘હું’ નહિ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "જોડ : 5 – બ\nઆખો કોઠો — 1 – ડ · 2 – ક · 3 – ઈ · 4 – અ · 5 – બ",
+      "teacher_note": "Book's block 12. A matching block: the five question-words on the left, five word-groups lettered અ–ઈ on the right. Answer it as recognition, NOT as a named grammar category — સર્વનામ is taught at std 7 (reference/exercise_alignment.md grammar ladder), so at std 6 the child sees which words can answer which question and no label is handed over. Full grid: 1 – ડ · 2 – ક · 3 – ઈ · 4 – અ · 5 – બ Close on items 4 and 5 together: 'સાહેબ હું કહું ?' against 'મને હજુ રાહુનો જવાબ મળ્યો નથી' is the pair that makes the કોણ/કોને difference audible without any terminology.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX67",
+      "exercise_group": "પુસ્તકાલયમાંથી ‘ભારતનાં વીર બાળકો’ વિશેનું પુસ્તક મેળવો અને વાંચો. તેમાંથી કોઈપણ એક વીર બાળકનો પાત્રપરિચય લખો.",
+      "skill": "writing",
+      "prompt_verbatim": "પુસ્તકાલયમાંથી ‘ભારતનાં વીર બાળકો’ વિશેનું પુસ્તક મેળવો અને વાંચો. તેમાંથી કોઈપણ એક વીર બાળકનો પાત્રપરિચય લખો.",
+      "answer": "(એક શક્ય જવાબ — આ માત્ર લખવાની ઢબ બતાવે છે; સાચી હકીકતો તો પુસ્તકાલયના પુસ્તકમાંથી જ લેવાની છે.)\nપાત્રપરિચય પાંચ મુદ્દે લખાય : (૧) એ વીર બાળકનું નામ ને એ ક્યાંનું હતું, (૨) એના ઘરની ને સમયની ટૂંકી વાત, (૩) એણે કરેલું બહાદુરીનું કામ — કઈ ઘટના, ક્યારે, કોની સામે, (૪) એ ઘટનામાં એનો કયો ગુણ દેખાયો — હિંમત, ધીરજ, બીજાને બચાવવાની ભાવના, (૫) મને એનામાં શું ગમ્યું ને હું એની પાસેથી શું શીખું.\nલખવાની ઢબનો નમૂનો, આપણા પાઠના જ પાત્ર પરથી : ‘‘નાનકડા હનુમાન બહુ ચંચળ હતા. એ જંપીને બેસતા નહિ ને એમનાં તોફાનની કંઈક ને કંઈક પ્રવૃત્તિઓ ચાલુ જ રહેતી. એક દિવસ ભૂખ્યા થયેલા હનુમાનને દૂરદૂર એક ગોળમટોળ ને લાલચટ્ટક ફળ દેખાયું ને એ તો સીધા આકાશમાં કૂદ્યા. રસ્તામાં રાહુ સામે આવ્યો તોય એ ડર્યા નહિ. મને એમની હિંમત ને એમનું કુતૂહલ ગમે છે.’’",
+      "explanation": "આ સ્વાધ્યાય પુસ્તકાલયનું કામ છે : પહેલાં પુસ્તક શોધવાનું, પછી વાંચવાનું, ને પછી લખવાનું. એટલે અહીં ‘સાચો જવાબ’ એક જ ન હોય — દરેક બાળક જુદા વીર બાળક વિશે લખશે. જે વસ્તુ બધાં માટે સરખી છે તે પાત્રપરિચયની ઢબ છે : નામ ને ઓળખ, પછી ઘટના, પછી ગુણ, ને છેલ્લે પોતાની વાત. ઉપરનો નમૂનો એ ઢબ બતાવવા પૂરતો છે — એમાં વપરાયેલી બધી હકીકતો આપણા પોતાના પાઠમાંથી લીધેલી છે, એટલે એમાં કશું ઉમેરેલું નથી.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) જે વીર બાળક વિશે લખો તેની એક જ ઘટના પસંદ કરીને એને વિગતે લખો — આખું જીવન ટૂંકમાં લખવા કરતાં એક ઘટના વિગતે લખવાથી પાત્રપરિચય વધારે જીવંત બને છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 13. HARD no-hallucination boundary: the facts of any real વીર બાળક must come from the library book the child actually reads, not from the teacher's memory and not from this file. That is why the model answer supplies the SHAPE plus a worked demonstration built only on this chapter's own printed material, and explicitly says so. Do not dictate a ready-made પાત્રપરિચય of a historical child. If the school has no such book, an alternative task is a પાત્રપરિચય of any character in this chapter — but record that substitution, because it is not what the book asked for.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S3.T3",
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX68",
+      "exercise_group": "નીચેની પંક્તિ ગાઓ. તેનો અર્થ સમજો અને લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "જુગ સહસ્ર જોજન પર ભાનુ,\nલીલ્યો તાહિ મધુર ફલ જાનુ.",
+      "answer": "અર્થ : ખૂબ ખૂબ દૂર — હજારો જોજન દૂર — રહેલા સૂર્યને (હનુમાનજી) મીઠું ફળ સમજીને ગળી ગયા.\nશબ્દે શબ્દે : ‘જુગ સહસ્ર જોજન’ એટલે ગણી ન શકાય એટલું મોટું અંતર (‘જોજન’ એ અંતરનું જૂનું માપ છે); ‘ભાનુ’ એટલે સૂર્ય; ‘તાહિ’ એટલે તેને; ‘મધુર ફલ’ એટલે મીઠું ફળ; ‘જાનુ’ એટલે જાણીને, સમજીને; ‘લીલ્યો’ એટલે ગળી ગયા.",
+      "explanation": "આ પંક્તિ આપણા પાઠની જ વાત કહે છે, પણ બીજી ભાષામાં — એટલે એના શબ્દો જુદા લાગે છે. પાઠમાં એ જ ઘટના આમ છપાયેલી છે : હનુમાનને ‘ગોળમટોળ અને લાલચટ્ટક’ પાકું ફળ દેખાયું, ‘ખરેખર એ ફળ નહોતું. ઊગતો સૂર્ય હતો’, ને છેવટે ‘આ નાનકડા વાનરબાળે સૂર્યને ખરેખર મોઢામાં મૂકી દીધો હતો.’ પંક્તિ બે વાત એકસાથે કહે છે — સૂર્ય કેટલો દૂર હતો, ને હનુમાનને એ કેવો લાગ્યો. અંતરની વાત જ પંક્તિનું જોર છે : આટલે દૂરની વસ્તુને એમણે હાથવગું ફળ ગણી લીધું.",
+      "acceptable_alternatives": [
+        "અર્થ : સૂર્ય ઘણે ઘણે દૂર હતો, છતાં હનુમાનજીએ એને મીઠું ફળ માની લીધું ને ગળી ગયા."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 14. Two things to handle carefully. (1) The couplet is NOT Gujarati — it is printed in an older north-Indian literary language, and 07_pitfalls.json's standing rule applies: quote it exactly as printed and never mark its forms as mistakes. The chapter prints it with no source line, so this file names no source either (reference/no_hallucination_policy.md); if a teacher knows where it is from, that is the teacher's addition, not the book's. (2) 'ગાઓ' is half the task — sing or chant it in chorus first, then unpack it. Do NOT turn 'જુગ સહસ્ર જોજન' into an arithmetic problem at std 6; the sense needed is 'unimaginably far', which is what the chapter's own story shows.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T4",
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX69",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "ઉદાહરણ : અર્થ - આર્થિક\nસમાજ __________",
+      "answer": "સમાજ - સામાજિક",
+      "explanation": "ઉદાહરણમાં ‘અર્થ’માંથી ‘આર્થિક’ બન્યું : પહેલો સ્વર ખેંચાયો ને છેડે ‘-ઇક’ ઉમેરાયું. એ જ ઢાળે ‘સમાજ’નો પહેલો સ્વર ખેંચાઈને ‘સા’ થાય ને છેડે ‘-ઇક’ ઉમેરાય. એટલે ‘સમાજ’માંથી ‘સામાજિક’ થાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "સમાજ - સામાજિક",
+      "teacher_note": "Book's block 15 — a derivation drill on the -ઇક suffix, which is on the std-6 ઉપસર્ગ-પ્રત્યય rung (reference/bhasha_bodh.md std-6 ladder). Teach it by ear from the printed example first: અર્થ becomes આર્થિક, so the first vowel stretches and -ઇક is added. Two of the eight words (દેવ, વિશ્વ) are printed in the chapter; the other six are not, and are reported in coverage_report.unmapped rather than given an invented mapping.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX70",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "ઉદાહરણ : અર્થ - આર્થિક\nધર્મ __________",
+      "answer": "ધર્મ - ધાર્મિક",
+      "explanation": "ઉદાહરણમાં ‘અર્થ’માંથી ‘આર્થિક’ બન્યું : પહેલો સ્વર ખેંચાયો ને છેડે ‘-ઇક’ ઉમેરાયું. એ જ ઢાળે ‘ધર્મ’માંનો ‘ધ’ ખેંચાઈને ‘ધા’ થાય ને છેડે ‘-ઇક’ આવે. એટલે ‘ધર્મ’માંથી ‘ધાર્મિક’ થાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ધર્મ - ધાર્મિક",
+      "teacher_note": "Book's block 15 — a derivation drill on the -ઇક suffix, which is on the std-6 ઉપસર્ગ-પ્રત્યય rung (reference/bhasha_bodh.md std-6 ladder). Teach it by ear from the printed example first: અર્થ becomes આર્થિક, so the first vowel stretches and -ઇક is added. Two of the eight words (દેવ, વિશ્વ) are printed in the chapter; the other six are not, and are reported in coverage_report.unmapped rather than given an invented mapping.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX71",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "ઉદાહરણ : અર્થ - આર્થિક\nમંગલ __________",
+      "answer": "મંગલ - માંગલિક",
+      "explanation": "ઉદાહરણમાં ‘અર્થ’માંથી ‘આર્થિક’ બન્યું : પહેલો સ્વર ખેંચાયો ને છેડે ‘-ઇક’ ઉમેરાયું. એ જ ઢાળે ‘મંગલ’નો પહેલો ભાગ ખેંચાઈને ‘માં’ થાય ને છેડે ‘-ઇક’ આવે. એટલે ‘મંગલ’માંથી ‘માંગલિક’ થાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "મંગલ - માંગલિક",
+      "teacher_note": "Book's block 15 — a derivation drill on the -ઇક suffix, which is on the std-6 ઉપસર્ગ-પ્રત્યય rung (reference/bhasha_bodh.md std-6 ladder). Teach it by ear from the printed example first: અર્થ becomes આર્થિક, so the first vowel stretches and -ઇક is added. Two of the eight words (દેવ, વિશ્વ) are printed in the chapter; the other six are not, and are reported in coverage_report.unmapped rather than given an invented mapping.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX72",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "ઉદાહરણ : અર્થ - આર્થિક\nનીતિ __________",
+      "answer": "નીતિ - નૈતિક",
+      "explanation": "ઉદાહરણમાં ‘અર્થ’માંથી ‘આર્થિક’ બન્યું : પહેલો સ્વર ખેંચાયો ને છેડે ‘-ઇક’ ઉમેરાયું. એ જ ઢાળે ‘નીતિ’નો પહેલો સ્વર બદલાઈને ‘નૈ’ થાય ને છેડે ‘-ઇક’ આવે. એટલે ‘નીતિ’માંથી ‘નૈતિક’ થાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "નીતિ - નૈતિક",
+      "teacher_note": "Book's block 15 — a derivation drill on the -ઇક suffix, which is on the std-6 ઉપસર્ગ-પ્રત્યય rung (reference/bhasha_bodh.md std-6 ladder). Teach it by ear from the printed example first: અર્થ becomes આર્થિક, so the first vowel stretches and -ઇક is added. Two of the eight words (દેવ, વિશ્વ) are printed in the chapter; the other six are not, and are reported in coverage_report.unmapped rather than given an invented mapping.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX73",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "ઉદાહરણ : અર્થ - આર્થિક\nદેવ __________",
+      "answer": "દેવ - દૈવિક",
+      "explanation": "ઉદાહરણમાં ‘અર્થ’માંથી ‘આર્થિક’ બન્યું : પહેલો સ્વર ખેંચાયો ને છેડે ‘-ઇક’ ઉમેરાયું. એ જ ઢાળે ‘દેવ’નો ‘દે’ બદલાઈને ‘દૈ’ થાય ને છેડે ‘-ઇક’ આવે. એટલે ‘દેવ’માંથી ‘દૈવિક’ થાય. આ શબ્દ પાઠમાં પણ છે — ‘દેવોના રાજા ઇન્દ્રદેવ’ ને ‘બધાં દેવી-દેવતાઓ’.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "દેવ - દૈવિક",
+      "teacher_note": "Book's block 15 — a derivation drill on the -ઇક suffix, which is on the std-6 ઉપસર્ગ-પ્રત્યય rung (reference/bhasha_bodh.md std-6 ladder). Teach it by ear from the printed example first: અર્થ becomes આર્થિક, so the first vowel stretches and -ઇક is added. Two of the eight words (દેવ, વિશ્વ) are printed in the chapter; the other six are not, and are reported in coverage_report.unmapped rather than given an invented mapping.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6",
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX74",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "ઉદાહરણ : અર્થ - આર્થિક\nવેદ __________",
+      "answer": "વેદ - વૈદિક",
+      "explanation": "ઉદાહરણમાં ‘અર્થ’માંથી ‘આર્થિક’ બન્યું : પહેલો સ્વર ખેંચાયો ને છેડે ‘-ઇક’ ઉમેરાયું. એ જ ઢાળે ‘વેદ’નો ‘વે’ બદલાઈને ‘વૈ’ થાય ને છેડે ‘-ઇક’ આવે. એટલે ‘વેદ’માંથી ‘વૈદિક’ થાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "વેદ - વૈદિક",
+      "teacher_note": "Book's block 15 — a derivation drill on the -ઇક suffix, which is on the std-6 ઉપસર્ગ-પ્રત્યય rung (reference/bhasha_bodh.md std-6 ladder). Teach it by ear from the printed example first: અર્થ becomes આર્થિક, so the first vowel stretches and -ઇક is added. Two of the eight words (દેવ, વિશ્વ) are printed in the chapter; the other six are not, and are reported in coverage_report.unmapped rather than given an invented mapping.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX75",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "ઉદાહરણ : અર્થ - આર્થિક\nદેહ __________",
+      "answer": "દેહ - દૈહિક",
+      "explanation": "ઉદાહરણમાં ‘અર્થ’માંથી ‘આર્થિક’ બન્યું : પહેલો સ્વર ખેંચાયો ને છેડે ‘-ઇક’ ઉમેરાયું. એ જ ઢાળે ‘દેહ’નો ‘દે’ બદલાઈને ‘દૈ’ થાય ને છેડે ‘-ઇક’ આવે. એટલે ‘દેહ’માંથી ‘દૈહિક’ થાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "દેહ - દૈહિક",
+      "teacher_note": "Book's block 15 — a derivation drill on the -ઇક suffix, which is on the std-6 ઉપસર્ગ-પ્રત્યય rung (reference/bhasha_bodh.md std-6 ladder). Teach it by ear from the printed example first: અર્થ becomes આર્થિક, so the first vowel stretches and -ઇક is added. Two of the eight words (દેવ, વિશ્વ) are printed in the chapter; the other six are not, and are reported in coverage_report.unmapped rather than given an invented mapping.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX76",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "ઉદાહરણ : અર્થ - આર્થિક\nવિશ્વ __________",
+      "answer": "વિશ્વ - વૈશ્વિક",
+      "explanation": "ઉદાહરણમાં ‘અર્થ’માંથી ‘આર્થિક’ બન્યું : પહેલો સ્વર ખેંચાયો ને છેડે ‘-ઇક’ ઉમેરાયું. એ જ ઢાળે ‘વિશ્વ’નો ‘વિ’ બદલાઈને ‘વૈ’ થાય ને છેડે ‘-ઇક’ આવે. એટલે ‘વિશ્વ’માંથી ‘વૈશ્વિક’ થાય. આ શબ્દ પાઠમાં પણ છે — ‘તેમણે તો સમગ્ર વિશ્વમાં હવાનો પ્રવાહ જ રોકી દીધો.’ ને શબ્દાર્થ પેટીમાં ‘સૃષ્ટિ-વિશ્વ, જગત’.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "વિશ્વ - વૈશ્વિક",
+      "teacher_note": "Book's block 15 — a derivation drill on the -ઇક suffix, which is on the std-6 ઉપસર્ગ-પ્રત્યય rung (reference/bhasha_bodh.md std-6 ladder). Teach it by ear from the printed example first: અર્થ becomes આર્થિક, so the first vowel stretches and -ઇક is added. Two of the eight words (દેવ, વિશ્વ) are printed in the chapter; the other six are not, and are reported in coverage_report.unmapped rather than given an invented mapping.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX77",
+      "exercise_group": "એક કાગળનો દડો બનાવો. શિક્ષક વિદ્યાર્થીઓ તરફ પીઠ ફેરવી કાગળનો દડો વિદ્યાર્થીઓ તરફ ઉછાળશે. જે વિદ્યાર્થીને દડો અડે તે વિદ્યાર્થી શબ્દને અંતે ‘માન’ કે ‘વાન’ આવે તેવો શબ્દ બોલશે.",
+      "skill": "speaking",
+      "prompt_verbatim": "એક કાગળનો દડો બનાવો. શિક્ષક વિદ્યાર્થીઓ તરફ પીઠ ફેરવી કાગળનો દડો વિદ્યાર્થીઓ તરફ ઉછાળશે. જે વિદ્યાર્થીને દડો અડે તે વિદ્યાર્થી શબ્દને અંતે ‘માન’ કે ‘વાન’ આવે તેવો શબ્દ બોલશે.\nઉદાહરણ : હનુમાન",
+      "answer": "(એક શક્ય જવાબ) ‘માન’માં પૂરા થતા શબ્દો : હનુમાન, ભગવાન, શ્રીમાન, બુદ્ધિમાન, શક્તિમાન, ગતિમાન.\n‘વાન’માં પૂરા થતા શબ્દો : બળવાન, ધનવાન, ગુણવાન, દયાવાન, રૂપવાન, ભાગ્યવાન.",
+      "explanation": "આ રમતનો નિયમ સહેલો છે : શબ્દ ‘-માન’ કે ‘-વાન’માં પૂરો થવો જોઈએ. બંને પૂંછડિયા શબ્દોનો અર્થ લગભગ એક જ છે — ‘જેની પાસે એ વસ્તુ છે તે’. ‘બળવાન’ એટલે જેની પાસે બળ છે, ‘ગુણવાન’ એટલે જેની પાસે ગુણ છે. ઉદાહરણ ‘હનુમાન’ પાઠનું જ પાત્ર છે, ને ‘ભગવાન’ પણ પાઠમાં છપાયો છે — રાહુ ઇન્દ્રને કહે છે, ‘હે ભગવાન આપે બનાવેલા નિયમ મુજબ…’. ‘બળવાન’ તો ચોથા સ્વાધ્યાયના કૌંસમાં જ પડ્યો છે.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) બીજા શબ્દો : વિદ્વાન, દાનવીર નહિ પણ ‘દયાવાન’, ‘સન્માન’ — પણ ‘સન્માન’માં ‘માન’ છેડે તો છે, છતાં એ ‘જેની પાસે એ છે’ એવો અર્થ આપતું નથી, એટલે એની ચર્ચા વર્ગમાં કરવી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 16 — an oral game, the last activity before the translation block. Run it fast and let repeats pass; the point is fluency, not a scored list. Two words come free from the children's own page: બળવાન (block 4's word bank) and ભગવાન (M2.S4.T6). Keep the teacher's back turned as the book says — that randomness is what makes every child stay ready.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S3.T3",
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX78",
+      "exercise_group": "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "1. ભાસ્કરભાઈએ આજે વાર્તા કહી.",
+      "answer": "(એક શક્ય જવાબ) Bhaskarbhai told a story today.",
+      "explanation": "વાક્ય ભૂતકાળનું છે ને એમાં કરનારની પાછળ ‘-એ’ છે — ‘ભાસ્કરભાઈએ’. અનુવાદમાં પણ ભૂતકાળ જ રહેવો જોઈએ. ‘વાર્તા કહી’ માટે પ્રથમ ભાષામાં જે રોજિંદો શબ્દપ્રયોગ હોય તે વાપરવો, શબ્દેશબ્દ ભાષાંતર નહિ. પાત્રનું નામ બદલાતું નથી — ભાસ્કરભાઈ ભાસ્કરભાઈ જ રહે.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) Today Bhaskarbhai narrated a story."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 17 — the std-6 L1-translation signature block, printed in 15/15 chapters, and always the last numbered block. The model translations below are in ENGLISH because chapter_id records the medium of instruction as English (gseb_eng_gujarati6_ch13); Roman script inside `answer` is expected here and nowhere else in this pipeline, and Agent 13 should read it as intended rather than as a script defect. A school whose children's પ્રથમ ભાષા is Hindi, Marathi, Sindhi or any other language substitutes that language — the block asks for the CHILD's first language, not for English. Accept a natural rendering over a word-for-word one.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S3.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX79",
+      "exercise_group": "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "2. વર્ગમાં બાળકોએ ચર્ચા કરી.",
+      "answer": "(એક શક્ય જવાબ) The children had a discussion in the class.",
+      "explanation": "અહીં પણ ભૂતકાળ ને ‘બાળકોએ’માંનું ‘-એ’ — એ જ ત્રીજા સ્વાધ્યાયના પાંચમા વાક્યનો નિયમ છે. પાઠમાં આ ઘટના છપાયેલી છે — ‘વર્ગમાં વિદ્યાર્થીઓ સરસ ચર્ચા કરતા હતા.’ ‘ચર્ચા કરવી’નો અનુવાદ કરતી વખતે પ્રથમ ભાષામાં એક જ શબ્દ ચાલે તો એક જ શબ્દ વાપરવો.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) The children discussed in the class."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 17 — the std-6 L1-translation signature block, printed in 15/15 chapters, and always the last numbered block. The model translations below are in ENGLISH because chapter_id records the medium of instruction as English (gseb_eng_gujarati6_ch13); Roman script inside `answer` is expected here and nowhere else in this pipeline, and Agent 13 should read it as intended rather than as a script defect. A school whose children's પ્રથમ ભાષા is Hindi, Marathi, Sindhi or any other language substitutes that language — the block asks for the CHILD's first language, not for English. Accept a natural rendering over a word-for-word one.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX80",
+      "exercise_group": "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "3. હનુમાનજી એક જ કૂદકામાં દરિયો કૂદી ગયા.",
+      "answer": "(એક શક્ય જવાબ) Hanumanji leapt across the sea in a single jump.",
+      "explanation": "‘એક જ કૂદકામાં’ — ‘જ’ શબ્દ ભાર મૂકે છે, એટલે અનુવાદમાં પણ એ ભાર (‘a single’) આવવો જોઈએ. નોંધવા જેવું એ છે કે દરિયો કૂદવાની આ ઘટના આપણા આ પાઠમાં ક્યાંય નથી — પાઠમાં તો હનુમાન સૂર્ય તરફ ઊડે છે. એટલે આ વાક્ય માત્ર અનુવાદ માટે આપેલું છે, પાઠમાંથી શોધવાનું નથી.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) Hanumanji crossed the sea in just one leap."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 17 — the std-6 L1-translation signature block, printed in 15/15 chapters, and always the last numbered block. The model translations below are in ENGLISH because chapter_id records the medium of instruction as English (gseb_eng_gujarati6_ch13); Roman script inside `answer` is expected here and nowhere else in this pipeline, and Agent 13 should read it as intended rather than as a script defect. A school whose children's પ્રથમ ભાષા is Hindi, Marathi, Sindhi or any other language substitutes that language — the block asks for the CHILD's first language, not for English. Accept a natural rendering over a word-for-word one. Item 3 carries an event that is NOT in this chapter's reading text (the sea-crossing); it is recorded in coverage_report.unmapped. Tell the class so plainly — otherwise a child hunts the chapter for a sentence that is not there, and concludes they read badly.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX81",
+      "exercise_group": "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "4. એના પ્રશ્નના લીધે આપણને સરસ વાર્તા સાંભળવા મળી.",
+      "answer": "(એક શક્ય જવાબ) Because of his question, we got to hear a lovely story.",
+      "explanation": "આ વાક્ય પાઠમાંથી લગભગ જેમનું તેમ લેવાયું છે — ભાસ્કરભાઈ કહે છે, ‘‘અને હા, મિહિરનો પણ આભાર કે એના પ્રશ્નને લીધે આપણને સરસ વાર્તા સાંભળવા મળી.’’ ‘સાંભળવા મળી’ એટલે સાંભળવાની તક મળી — અનુવાદમાં એ ‘મળવા’નો ભાવ સચવાવો જોઈએ, નહિતર વાક્ય માત્ર ‘અમે વાર્તા સાંભળી’ થઈ જાય.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) Thanks to his question, we were able to hear a lovely story."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 17 — the std-6 L1-translation signature block, printed in 15/15 chapters, and always the last numbered block. The model translations below are in ENGLISH because chapter_id records the medium of instruction as English (gseb_eng_gujarati6_ch13); Roman script inside `answer` is expected here and nowhere else in this pipeline, and Agent 13 should read it as intended rather than as a script defect. A school whose children's પ્રથમ ભાષા is Hindi, Marathi, Sindhi or any other language substitutes that language — the block asks for the CHILD's first language, not for English. Accept a natural rendering over a word-for-word one.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S5.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX82",
+      "exercise_group": "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "5. વાર્તા સાંભળવાની બાળકોની ઇચ્છા પૂર્ણ થઈ ?",
+      "answer": "(એક શક્ય જવાબ) Was the children's wish to hear a story fulfilled?",
+      "explanation": "આ પ્રશ્નાર્થ વાક્ય છે, એટલે અનુવાદમાં પણ પ્રશ્નચિહ્ન રહેવું જોઈએ. પાઠમાં એનો જવાબ પણ પડ્યો છે — બાળકોએ ‘‘વાર્તા... વાર્તા....’’ કહીને માગણી કરી, ભાસ્કરભાઈએ ‘બાળકોની માગણીનો સહર્ષ સ્વીકાર કર્યો’, ને છેલ્લે મિહિર કહે છે, ‘‘હા સાહેબ, હુંય ખુશ ને આખો વર્ગ પણ ખુશ !’’ એટલે ઇચ્છા પૂરી થઈ.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) Did the children's wish to listen to a story come true?"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 17 — the std-6 L1-translation signature block, printed in 15/15 chapters, and always the last numbered block. The model translations below are in ENGLISH because chapter_id records the medium of instruction as English (gseb_eng_gujarati6_ch13); Roman script inside `answer` is expected here and nowhere else in this pipeline, and Agent 13 should read it as intended rather than as a script defect. A school whose children's પ્રથમ ભાષા is Hindi, Marathi, Sindhi or any other language substitutes that language — the block asks for the CHILD's first language, not for English. Accept a natural rendering over a word-for-word one. Item 5 is a question sentence — check that the child keeps the question mark and the question word order in the first language. Note the chapter prints its question marks with a space before them (પૂર્ણ થઈ ?); that spacing is the book's own convention and is reproduced in every prompt_verbatim in this file.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M3.S5.T8"
+      ]
+    }
+  ],
+  "coverage_report": {
+    "blocks_found": [
+      "વાતચીત",
+      "નીચેનાં વાક્યોના જેવો અર્થ ધરાવતાં વાક્યો પાઠમાંથી શોધો.",
+      "નીચેનાં પૈકી સાચાં વાક્યો સામે ખરાની નિશાની કરો.",
+      "કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરી ખાલી જગ્યા પૂરો.",
+      "જોડકાં જોડો.",
+      "નીચેનાં વાક્યોને પાઠના ઘટનાક્રમ મુજબ ગોઠવો.",
+      "પ્રશ્નોના જવાબ લખો.",
+      "ઉદાહરણ મુજબ શબ્દ લખો.",
+      "ઉદાહરણ મુજબના બીજા પાંચ શબ્દો લખો.",
+      "આપેલા બે શબ્દોનો ઉપયોગ કરીને એક વાક્ય બનાવો.",
+      "નીચે આપેલા શબ્દોના સમાન અર્થવાળા શબ્દો શબ્દકોશની મદદથી લખો.",
+      "નીચેના પ્રશ્નોના જવાબ આપવામાં કયા શબ્દો આવી શકે ?",
+      "પુસ્તકાલયમાંથી ‘ભારતનાં વીર બાળકો’ વિશેનું પુસ્તક મેળવો અને વાંચો. તેમાંથી કોઈપણ એક વીર બાળકનો પાત્રપરિચય લખો.",
+      "નીચેની પંક્તિ ગાઓ. તેનો અર્થ સમજો અને લખો.",
+      "ઉદાહરણ મુજબ શબ્દો બનાવો.",
+      "એક કાગળનો દડો બનાવો. શિક્ષક વિદ્યાર્થીઓ તરફ પીઠ ફેરવી કાગળનો દડો વિદ્યાર્થીઓ તરફ ઉછાળશે. જે વિદ્યાર્થીને દડો અડે તે વિદ્યાર્થી શબ્દને અંતે ‘માન’ કે ‘વાન’ આવે તેવો શબ્દ બોલશે.",
+      "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો."
+    ],
+    "blocks_answered": [
+      "વાતચીત",
+      "નીચેનાં વાક્યોના જેવો અર્થ ધરાવતાં વાક્યો પાઠમાંથી શોધો.",
+      "નીચેનાં પૈકી સાચાં વાક્યો સામે ખરાની નિશાની કરો.",
+      "કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરી ખાલી જગ્યા પૂરો.",
+      "જોડકાં જોડો.",
+      "નીચેનાં વાક્યોને પાઠના ઘટનાક્રમ મુજબ ગોઠવો.",
+      "પ્રશ્નોના જવાબ લખો.",
+      "ઉદાહરણ મુજબ શબ્દ લખો.",
+      "ઉદાહરણ મુજબના બીજા પાંચ શબ્દો લખો.",
+      "આપેલા બે શબ્દોનો ઉપયોગ કરીને એક વાક્ય બનાવો.",
+      "નીચે આપેલા શબ્દોના સમાન અર્થવાળા શબ્દો શબ્દકોશની મદદથી લખો.",
+      "નીચેના પ્રશ્નોના જવાબ આપવામાં કયા શબ્દો આવી શકે ?",
+      "પુસ્તકાલયમાંથી ‘ભારતનાં વીર બાળકો’ વિશેનું પુસ્તક મેળવો અને વાંચો. તેમાંથી કોઈપણ એક વીર બાળકનો પાત્રપરિચય લખો.",
+      "નીચેની પંક્તિ ગાઓ. તેનો અર્થ સમજો અને લખો.",
+      "ઉદાહરણ મુજબ શબ્દો બનાવો.",
+      "એક કાગળનો દડો બનાવો. શિક્ષક વિદ્યાર્થીઓ તરફ પીઠ ફેરવી કાગળનો દડો વિદ્યાર્થીઓ તરફ ઉછાળશે. જે વિદ્યાર્થીને દડો અડે તે વિદ્યાર્થી શબ્દને અંતે ‘માન’ કે ‘વાન’ આવે તેવો શબ્દ બોલશે.",
+      "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો."
+    ],
+    "unanswered": [],
+    "unmapped": [
+      {
+        "exercise_ids": [
+          "EX58"
+        ],
+        "exercise_group": "નીચે આપેલા શબ્દોના સમાન અર્થવાળા શબ્દો શબ્દકોશની મદદથી લખો.",
+        "reason": "The prompt word પ્રકાશ occurs nowhere in this chapter's reading text, nor in its printed શબ્દાર્થ box or રૂઢિપ્રયોગ list, so no reading scene prepares it; the block itself sends the child to the શબ્દકોશ. The near-miss is the character name પ્રભા (a light-word), but a name used as a name is not the word in use, and mapping on that basis would be an invented mapping. Reported per agents/10_exercise_solutions.md rule 6. The block's other five items (સૂર્ય, ચંદ્ર, પૃથ્વી, આકાશ, હવા) are all printed in the reading text and are mapped."
+      },
+      {
+        "exercise_ids": [
+          "EX69",
+          "EX70",
+          "EX71",
+          "EX72",
+          "EX74",
+          "EX75"
+        ],
+        "exercise_group": "ઉદાહરણ મુજબ શબ્દો બનાવો.",
+        "reason": "સમાજ, ધર્મ, મંગલ, નીતિ, વેદ and દેહ — and the printed example word અર્થ — occur nowhere in this chapter's reading text or its શબ્દાર્થ box. This is a general -ઇક derivation drill. Only two of the block's eight items have a printed anchor and are mapped: દેવ (EX73 — ‘દેવોના રાજા ઇન્દ્રદેવ’, ‘બધાં દેવી-દેવતાઓ’) and વિશ્વ (EX76 — ‘સમગ્ર વિશ્વમાં હવાનો પ્રવાહ જ રોકી દીધો’, and ‘સૃષ્ટિ-વિશ્વ, જગત’ in the શબ્દાર્થ box)."
+      },
+      {
+        "exercise_ids": [
+          "EX80"
+        ],
+        "exercise_group": "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+        "reason": "‘હનુમાનજી એક જ કૂદકામાં દરિયો કૂદી ગયા.’ narrates a sea-crossing that this chapter's embedded કથા does not contain — its Hanuman flies toward the sun, meets રાહુ and is struck by ઇન્દ્રનું વજ્ર. The sentence is supplied by the exercise as translation material drawn from the wider Hanuman tradition, so no reading scene of this chapter prepares it. The block's other four sentences are all anchored in printed scenes and are mapped."
+      }
+    ]
+  }
+}

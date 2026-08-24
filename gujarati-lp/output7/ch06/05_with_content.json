@@ -1,0 +1,586 @@
+{
+  "agent": "05_verbatim_attachment",
+  "chapter_id": "gseb_eng_gujarati7_ch6",
+  "plan_id": "gseb_eng_gujarati7_ch6_v1",
+  "grade": 7,
+  "level": "standard",
+  "chapter_name": "જો કરી જાંબુએ",
+  "genre": "રમૂજી પ્રસંગકથા",
+  "genre_slug": "nibandh_atmaparak",
+  "active_genre_profiles": [
+    "nibandh_atmaparak.md"
+  ],
+  "teaching_lens": "સ્વર + પ્રસંગ + પોતાની જાત પરની નજર — પણ આ પાઠ પૂરતું lens નું ત્રીજું અંગ લાગુ પડતું નથી, અને એ જાણીબૂજીને. પાઠ આખો ત્રીજા પુરુષમાં છે; ચાલતા કથનમાં ‘હું’ ક્યાંય નથી, એટલે લેખકની પોતાની જાત પરની નજર કે કબૂલાત આ પાઠમાં છે જ નહીં — કોઈ પણ field માં એ આરોપવી નહીં (nibandh_atmaparak.md નો hard gate 6 અને §‘The third-person caveat’). અહીં ખરેખર કામ કરતાં બે અંગ છે. સ્વર : છાપેલો બોલચાલનો લહેકો — ‘હોવ્વે!’, ‘હત્તારીની !’, ‘‘નખ્ખોદિયો નાથિયો !’’ — જ રમૂજ ઊંચકે છે, એટલે એ રૂપો કદી માનક ગુજરાતીમાં સુધારવાં નહીં. પ્રસંગ : એક જ લાલચ પાંચ વાહકના હાથે ફરી ફરીને બને છે (પુનરાવર્તન-સાથે-વધારો), અને દરેક topic એ પુનરાવર્તનનું એક પગલું છે. હાસ્ય ક્યાં પડે છે તે એક જ ઉપવાક્યમાં કહેવું અને આગળ વધવું; મજાક સમજાવવી નહીં, હળવી કરવી નહીં, અને તેને બોધ પહેરાવવો નહીં.",
+  "guiding_question": "થેલી જેના હાથમાં જાય તે દરેક જણ એ જ દલીલથી પોતાનું મન મનાવી લે છે — આ પુનરાવર્તન જ પાઠને કઈ રીતે હસાવે છે ?",
+  "explanation_unit": "એક પ્રસંગ, અથવા વિચારનો એક વળાંક — હાસ્ય-ઉપસ્વરૂપમાં એટલે ‘એક હાસ્ય-વળાંક’. અહીં દરેક વાહક એક જ topic છે (મગન, રામજી, નાથિયો, મોંઘીમા, પશી), અને એ topic માં setup અને પરિણામ બંને સાથે જ રહે : જાંબુ ખવાયાં એ *અને* વજન સરખું કરવા ઠળિયા થેલીમાં નખાયા એ — બંને એક જ original_chunk માં. મજાકને તેના setup થી કદી કાપવી નહીં; કાપીએ તો પાઠ ‘એક જ મજાક પાંચ વાર કહેલી’ મટીને ‘ચોરીઓની યાદી’ બની જાય. પાના, ફકરા કે વ્યક્તિના નામ પર કાપવું નહીં. છેલ્લો પ્રસંગ (પશી અને ટપુડાની થેલી) એ closing gesture છે — topic_category ‘resolution’, અને પાઠનું છેલ્લું છાપેલું વાક્ય તથા લેખકની attribution લીટી એ જ છેલ્લા topic ના original_chunk ની અંદર જ રહે.",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "જાંબુવાળીની અહાલેક કયા શબ્દોમાં છપાઈ છે અને અમથાલાલે છેવટે કેટલાં જાંબુ મગાવીને ત્યાં જ ખાઈ લીધાં તે કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અમથાલાલની થેલી ટપુ સુધી જાતે કેમ ન પહોંચી તે ‘એમના પગે આળસ કરી’ એ છાપેલી પંક્તિ બતાવીને પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": [
+        "M1.S2.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મગન થેલી લઈને ચાલે છે ત્યાં જાંબુ ખવાય છે ને વજન સરખું કરવા ઠળિયા થેલીમાં પાછા મુકાય છે — આ બે પગલાં પાઠમાંથી શોધીને કહેવાં.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T3",
+      "anchor": [
+        "M2.S3.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રામજી પાસે પણ મગનવાળી જ વાત ફરી બને છે — ‘તેણેય ઠળિયા નાખ્યા’ સુધીની બંને પંક્તિઓ સરખાવીને શું સરખું છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "થેલીમાં ઠળિયા ભાળીને નાથિયો શું સમજી ગયો, અને એ પછી થેલી મોંઘીમાના હાથમાં કઈ રીતે જાય છે તે પાઠમાંથી શોધીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T5",
+      "anchor": [
+        "M2.S4.T5.C5",
+        "M2.S4.T5.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "જાંબુને બદલે હાથમાં ઠળિયા આવતાં મોંઘીમાના મોંમાંથી નીકળેલા ‘હત્તારીની !’ અને ‘નખ્ખોદિયો નાથિયો !’ શબ્દો પરથી એ ઘડીની મજા કઈ છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T6",
+      "anchor": [
+        "M3.S5.T6.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "થેલીમાં બચેલું છેલ્લું જાંબુ પણ પશીના પેટમાં જાય છે — પાઠના છેલ્લા વાક્યમાં પુછાયેલા પ્રશ્નનો પોતાનો જવાબ કારણ સાથે આપવો.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S6.T7",
+      "anchor": [
+        "M3.S6.T7.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "બજારનાં જાંબુ અને ભાણિયાની યાદ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "જાંબુવાળીનો સાદ અને ભાવતાલ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "મીઠાં મધ જેવાં જાંબુનો સાદ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "source_markers": [
+                "[[ઘટના: બજારમાં જાંબુવાળીની અહાલેક અને ભાવતાલ]]"
+              ],
+              "scene_span": {
+                "starts_at": "‘‘જાંબુ લ્યો ! મીઠાં મધ જેવાં જાંબુ ! સાવ સસ્તાં જાં...બુ!’’",
+                "ends_at": "પણ જાંબુડાં એવાં મીઠાં લાગ્યાં કે અમથાલાલ ઊભા ઊભા જ બસો ગ્રામ ઝાપટી ગયા !"
+              },
+              "original_chunk": "‘‘જાંબુ લ્યો ! મીઠાં મધ જેવાં જાંબુ ! સાવ સસ્તાં જાં...બુ!’’ અમથાલાલ બજારમાંથી પસાર થતા હતા ને તેમણે જાંબુવાળીની અહાલેક સાંભળી. અમથાલાલના મોંમાં પાણી આવી ગયું. જીભ આમતેમ કરતી બહાર ડોકિયું કાઢવા માંડી. અમથાલાલને થયું, ‘‘લાવ થોડાં જાંબુ ખાઈએ !’’ ભાવ પૂછ્યો. જાંબુવાળી કહે, ‘‘સાવ સસ્તાં છે, સાહેબ ! રૂપિયે કિલો !’’ અમથાલાલથી રાડ પડાઈ ગઈ : ‘રૂપિયે કિલો ? બહુ મોંઘાં ભઈ ! કાંક ભાવ ઉતાર તો સામટાં બેચાર કિલોનું વિચારું...’\n‘‘ના સાહેબ !... એક જ ભાવ. એક કિલો લો કે સત્તર કિલો લો. બે ભાવ નહીં.’’\n‘‘ઠીક હમણાં તો બસો ગ્રામ જ દેને !’ અમથાલાલનો ઓર્ડર છૂટ્યો !’’\nપણ જાંબુડાં એવાં મીઠાં લાગ્યાં કે અમથાલાલ ઊભા ઊભા જ બસો ગ્રામ ઝાપટી ગયા !",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "બજારનો સાદ અને ભાવતાલનો લહેકો",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "અમથાલાલ બજારમાંથી નીકળે છે ત્યાં એમને જાંબુ વેચનારી બાઈની અહાલેક (મોટા સાદે પાડેલી બૂમ) સંભળાય છે. જાંબુનું નામ સાંભળતાં જ એમના મોંમાં પાણી આવી જાય છે અને એ ભાવ પૂછે છે. રૂપિયે કિલોનો ભાવ સાંભળીને એ મોંઘું કહે છે ને ભાવ ઉતારવાનું કહે છે, પણ જાંબુવાળી એક જ ભાવ રાખે છે. છેવટે અમથાલાલ બસો ગ્રામ જાંબુ લે છે અને ત્યાં ઊભા ઊભા જ ખાઈ જાય છે.",
+              "word_count": {
+                "original": 115
+              },
+              "key_terms": [
+                "અહાલેક — મોટા સાદે પાડેલી બૂમ, ટહેલ; અહીં જાંબુ વેચનારીનો પોકાર.",
+                "રાડ — બૂમ; અચાનક મોટા અવાજે બોલી ઊઠવું તે.",
+                "ભાવ — વસ્તુની કિંમત; ‘ભાવ ઉતાર’ એટલે કિંમત ઓછી કર.",
+                "સામટાં — એકસાથે, બધાં ભેગાં.",
+                "ઝાપટી ગયા — ઝડપથી ખાઈ ગયા; બોલચાલનો તળપદો પ્રયોગ, ભૂલ નથી."
+              ],
+              "primary_content_type": "image",
+              "available_content_types": [
+                "image"
+              ],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "ટપુ માટે ભરાયેલી થેલી",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "ભાણિયા માટે લીધેલાં જાંબુ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "source_markers": [
+                "[[ઘટના: ટપુ યાદ આવે છે — એક કિલો જાંબુ અને પગની આળસ]]"
+              ],
+              "scene_span": {
+                "starts_at": "તેમને થયું - ‘‘જાંબુ છે તો ખાવા જેવાં.",
+                "ends_at": "થેલીમાં જાંબુ તો નાખ્યાં પણ અડધો માઈલ છેટે રહેતા ભાણિયાને આપવા જવામાં એમના પગે આળસ કરી."
+              },
+              "original_chunk": "તેમને થયું - ‘‘જાંબુ છે તો ખાવા જેવાં. એમાં ના નહીં. આવાં સરસ ખટમીઠાં જાંબુડાં કદાચ પછી ન પણ દેખાય.’’ અમથાલાલનો એક ભાણિયો દૂર દૂર રહે. આમ તો શહેરમાં જ ! પણ તેનું ઘર બહુ દૂર, ભાણિયાનું નામ ટપુ. અમથાલાલને આ ટપુડા પર ભારે પ્રેમ અને ટપુને અમથાલાલ પર હેત. વારેતહેવારે અમથામામા ટપુભાણિયા માટે કાંક ને કાંક મોકલે.\nજાંબુ ખાઈને અમથાલાલને ટપુ યાદ આવ્યો. લીધાં એક કિલો જાંબુ ટપુ માટે. મનમાં કહે - ‘ટપુડો કેવો રાજીના રેડ થશે... હોંશે હોંશે ખાશે.’ અમથાલાલ એટલે એક નંબરના આળસુ ! થેલીમાં જાંબુ તો નાખ્યાં પણ અડધો માઈલ છેટે રહેતા ભાણિયાને આપવા જવામાં એમના પગે આળસ કરી.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "હેત તો ખરું, પણ પગે આળસ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "જાંબુ મીઠાં લાગ્યાં એટલે અમથાલાલને પોતાનો ભાણિયો (બહેનનો દીકરો) ટપુ યાદ આવે છે. મામા-ભાણેજ વચ્ચે ભારે હેત (પ્રેમ) છે, એટલે એ ટપુ માટે એક કિલો જાંબુ લઈને થેલીમાં નાખે છે. પણ ટપુનું ઘર અડધો માઈલ છેટે (દૂર) છે અને અમથાલાલ એક નંબરના આળસુ છે, એટલે જાતે જઈને આપી આવવાનું એમને ફાવતું નથી.",
+              "word_count": {
+                "original": 103
+              },
+              "key_terms": [
+                "ભાણિયો — બહેનનો દીકરો, ભાણેજ.",
+                "હેત — પ્રેમ, વહાલ.",
+                "ખટમીઠાં — થોડાં ખાટાં ને થોડાં મીઠાં.",
+                "વારેતહેવારે — વારેવારે, પ્રસંગે પ્રસંગે.",
+                "છેટે — દૂર; તળપદો શબ્દ.",
+                "માઈલ — લંબાઈનું જૂનું માપ, આશરે પોણા બે કિલોમીટરનું અંતર."
+              ],
+              "primary_content_type": "image",
+              "available_content_types": [
+                "image"
+              ],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "એક જ લાલચ, હાથોહાથ ફરતી થેલી",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "લલચાયેલા બે ભાઈબંધ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T3",
+              "topic_name": "મગનના હાથમાં ગયેલી થેલી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "source_markers": [
+                "[[ઘટના: મગનને થેલી સોંપાય છે અને મગન પહેલા ઠળિયા નાખે છે]]"
+              ],
+              "scene_span": {
+                "starts_at": "જાંબુ ટપુને કેમ પહોંચાડવાં એનો વિચાર કરતા હતા, ત્યાં સામે જ તેમનો ખાસ ભાઈબંધ મગન મળી ગયો,",
+                "ends_at": "આગળ ગયો ત્યારે રસ્તામાં એનો જ ખાસ મિત્ર રામજી મળી ગયો."
+              },
+              "original_chunk": "જાંબુ ટપુને કેમ પહોંચાડવાં એનો વિચાર કરતા હતા, ત્યાં સામે જ તેમનો ખાસ ભાઈબંધ મગન મળી ગયો, અમથાલાલ કહે : ‘‘મગન ! તું ગામના આથમણે જાય છે ને ?’’\n‘‘હા ! હા ! બોલો, કંઈ કામકાજ ?’’\n‘‘આ જાંબુની થેલી ટપુડાને પહોંચાડવી છે ! આટલું કામ કરીશ ?’’\n‘‘હોવ્વે! એમાં શું ? લાવોને ! હમણાં જ પહોંચાડી આવું !’’\nજાંબુનું નામ સાંભળીને મગનની લૂલી જરા લબક લબક થવા લાગી. અમથાલાલે થેલી આપી.\nમગન થેલી લઈને માંડ્યો ચાલવા. થોડે દૂર જઈને પાછળ જોયું. અમથાલાલ હવે દેખાતા નહોતા. મગને થેલીમાંથી બે જાંબુ કાઢી લીધાં. મોઢામાં નાખતાં એવાં તો મીઠાં લાગ્યાં કે બીજાં બે ક્યારે થેલીમાંથી નીકળીને મોંમાં ઓગળી ગયાં, એનું એને ભાન ન રહ્યું. મગનને થયું - ‘ભારે થઈ ! અમથાલાલે એક કિલો જાંબુ લીધાં છે અને હવે વજનમાં ઓછાં થશે તો ખરાબ કહેવાય ! વજન સરખું કરવા પેલાં ખાધેલાં જાંબુના ચાર ઠળિયા તેણે થેલીમાં નાખી દીધા. આટલાં એક કિલો જેટલાં જાંબુમાં ચાર ઠળિયા શું દેખાવાના ? એ તો માંડ્યો ચાલવા. આગળ ગયો ત્યારે રસ્તામાં એનો જ ખાસ મિત્ર રામજી મળી ગયો.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T3.C3",
+                  "concept_name": "ખાધાં જાંબુ, ને વજન સરખું કરવા નખાયેલા ઠળિયા",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "થેલી ટપુ સુધી કેમ પહોંચાડવી એ વિચારતાં અમથાલાલને એમનો ભાઈબંધ (દોસ્ત) મગન મળી જાય છે, અને એ મગનને થેલી સોંપી દે છે. થોડે દૂર જઈને, અમથાલાલ દેખાતા બંધ થાય એટલે મગન થેલીમાંથી બે જાંબુ કાઢીને ખાય છે — અને પછી બીજાં બે પણ. વજન ઓછું ન લાગે એ માટે એ ખાધેલાં જાંબુના ચાર ઠળિયા (ફળની અંદરનો કઠણ બી) થેલીમાં નાખી દે છે અને આગળ ચાલવા માંડે છે.",
+              "word_count": {
+                "original": 170
+              },
+              "key_terms": [
+                "ભાઈબંધ — દોસ્ત, મિત્ર.",
+                "આથમણે — પશ્ચિમ દિશા તરફ; તળપદો શબ્દ.",
+                "હોવ્વે! — ‘હા, ચોક્કસ !’ એવો બોલચાલનો હોંકારો; લહેકાનું રૂપ છે, ભૂલ નથી.",
+                "લૂલી — જીભ; અહીં જીભમાં પાણી આવવાની વાત છે.",
+                "ઠળિયો — ફળની અંદરનો કઠણ બી.",
+                "ભાન — ખ્યાલ, સરત."
+              ],
+              "primary_content_type": "image",
+              "available_content_types": [
+                "image"
+              ],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            },
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "રામજીની દાઢે ચોંટેલાં જાંબુ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S3.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "source_markers": [
+                "[[ઘટના: રામજીને થેલી પધરાવાય છે અને એની જીભ પણ ચાલે છે]]"
+              ],
+              "scene_span": {
+                "starts_at": "- ‘‘ઓહો ! રામજી ! ઘણા દિવસે મળ્યો હોં દોસ્ત !’’",
+                "ends_at": "ને વજન સરખું કરવા તેણેય ઠળિયા નાખ્યા થેલીમાં."
+              },
+              "original_chunk": "- ‘‘ઓહો ! રામજી ! ઘણા દિવસે મળ્યો હોં દોસ્ત !’’\n- ‘‘યાર, હું તો અહીં જ છું, તું કાંઈ હમણાં તો દેખાતો જ નથી !’ એમ વાતો ચાલી. પછી મગને રામજીને કહ્યું ‘હા, કંઈ કામકાજ?’’\n‘‘આ નાનકડી થેલીમાં જાંબુ છે. અમથાલાલના ભાણિયા ટપુને તું આપી આવીશ ?’’\n- ‘‘હોવ્વે! એમાં શું, લાવ ને !’’ રામજીની જીભ પણ જાંબુનું નામ સાંભળી બોલી ઊઠી. મગને રામજીને થેલી પધરાવી દીધી ! ‘‘આપણે વળી ક્યાં સુધી આંટો ખાવો ?’’ તેને થયું.\nરામજી માંડ્યો ચાલવા. હાથમાં થેલી. થેલીમાં જાંબુ, મીઠાં - મધ જેવાં જાંબુડાં શું મઘમઘે !\nરામજીની જીભ માંહ્યલીકોર આંટા મારવા લાગી ! થયું, લાવને બે’ક ચાખું ! આટલાં એક કિલો જાંબુમાં બે ઓછાં થાશે તોય શું !\nએણેય મોંમાં મેલ્યાં ને .... દાઢમાં એવાં તો ચોંટી ગયાં કે બીજાં બેચાર ખાધા વગર તેને ચેન ના પડ્યું ! ને વજન સરખું કરવા તેણેય ઠળિયા નાખ્યા થેલીમાં.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "એ જ બે પગલાં, બીજા હાથે",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "રસ્તામાં મગનને એનો ખાસ મિત્ર રામજી મળે છે, અને વાતવાતમાં મગન થેલી રામજીને પધરાવી (સોંપી) દે છે — જેથી પોતાને આંટો (ફેરો) ન ખાવો પડે. રામજી ચાલતાં ચાલતાં જાંબુની સુગંધથી લલચાય છે અને 'બે’ક ચાખું' એમ કહીને જાંબુ મોંમાં મૂકે છે. જાંબુ દાઢમાં એવાં ચોંટે છે કે એ બીજાં બે-ચાર પણ ખાઈ જાય છે. પછી મગનની જેમ જ, વજન સરખું કરવા એ પણ ઠળિયા થેલીમાં નાખી દે છે.",
+              "word_count": {
+                "original": 143
+              },
+              "key_terms": [
+                "પધરાવવી — બીજાના હાથમાં સોંપી દેવી; અહીં પોતાનું કામ બીજા પર નાખી દેવાની મજાક છે.",
+                "આંટો — ફેરો, જવા-આવવાનું એક ચક્કર.",
+                "મઘમઘે — સુગંધ ફેલાવે, મહેકે.",
+                "માંહ્યલીકોર — અંદરની બાજુ; તળપદો શબ્દ (પાઠમાં ‘માંયલીકોર’ રૂપે પણ છપાયો છે).",
+                "બે’ક — ‘બે એક’, બે-ત્રણ જેટલાં; બોલચાલમાં ટૂંકું થયેલું રૂપ.",
+                "ચેન — નિરાંત, શાંતિ."
+              ],
+              "primary_content_type": "image",
+              "available_content_types": [
+                "image"
+              ],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "ચાલાક હાથે પકડાયેલો ભેદ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T5",
+              "topic_name": "નાથિયો બધુંય સમજી ગયો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S3.T3",
+                "M2.S3.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "source_markers": [
+                "[[ઘટના: ચાલાક નાથિયો ભેદ પકડી પાડે છે]]"
+              ],
+              "scene_span": {
+                "starts_at": "આગળ ચાલતાં તેને નાથિયો મળી ગયો.",
+                "ends_at": "દસેક ઘર વટાવે ત્યાં સામે જ હતું."
+              },
+              "original_chunk": "આગળ ચાલતાં તેને નાથિયો મળી ગયો. નાથિયો એટલે રામજીનો સગા કાકાનો દીકરો. ભાઈનો તો વિશ્વાસ કરાયને !\nનાથિયાને થેલી સુપરત કરીને કીધું : ‘‘અમથાલાલના ભાણિયા ટપુડાને થેલી પહોંચાડજે. માંયલીકોર એક કિલો જાંબુ છે. કે’ જે તારા મામાએ મોકલાવ્યાં છે.’’\nનાથિયો માંડ્યો ચાલવા. રસ્તામાં બિચારા નાથિયાનું નાક પણ ઊંચુંનીચું થવા લાગ્યું. થેલીમાંનાં મીઠાં મધ જાંબુડાંની મઘમઘતી સુવાસ તેના નાકમાં એવી ઘૂસી ગઈ કે પટ કરતાંક બે જાંબુ કાઢવાં પડ્યાં. ભારે મજા આવી ગઈ ! થેલીમાં જાંબુડાં ભેળા થોડાક ઠળિયાય ભાળીને ચાલાક નાથિયો બધુંય સમજી ગયો. તેણેય ખાધાં હતાં એટલા ઠળિયા થેલીમાં નાખી દીધા. બીજાય બેપાંચ આમતેમથી શોધીને નાખ્યા થેલીમાં. વજનમાં ફેર પડે તો ટપુડો કાંઈ કહે ને ? હજુ તો સામેની ગલી વટાવે છે ત્યાં જ તેને સામે મોંઘીમા ભટકાયાં. મોંઘીમા ટપુડાને ઘેર જતાં હતાં. નાથિયાએ વિચાર કર્યો કે ટપુડાને રૂબરૂ થેલી આપવી અને ઠળિયાની વાત નીકળી તો વળી આલા બાલા (અષ્ટમ્ પષ્ટમ્) સમજાવવું ને ... એવી બધી કડાકૂટ આપણે શા માટે કરવી ? લાવને પધરાવી દઉં આ મોંઘીમાને ! તેણે મોંઘી માને સમજાવીને થેલી સોંપી દીધી. મોંઘીમા ચાલ્યાં ટપુડાના ઘર ભણી. હવે ટપુડાનું ઘર બહુ દૂર નહોતું. દસેક ઘર વટાવે ત્યાં સામે જ હતું.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T5.C5",
+                  "concept_name": "ઠળિયા ભાળીને પકડાયેલો ભેદ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S4.T5.C6",
+                  "concept_name": "કડાકૂટ ટાળીને મોંઘીમાને પધરાવેલી થેલી",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "આગળ ચાલતાં રામજીને એના કાકાનો દીકરો નાથિયો મળે છે અને એ થેલી નાથિયાને સુપરત (સોંપી) કરી દે છે. નાથિયો પણ સુગંધથી લલચાઈને બે જાંબુ કાઢી ખાય છે, પણ થેલીમાં પહેલેથી પડેલા ઠળિયા ભાળીને (જોઈને) એ આખો ભેદ સમજી જાય છે. પોતે ખાધેલાં જાંબુના ઠળિયા તો એ નાખે જ છે, ઉપરથી બીજા બે-પાંચ ઠળિયા આમતેમથી શોધીને પણ નાખી દે છે. પછી કડાકૂટ (નકામી માથાકૂટ) ટાળવા એ થેલી ટપુડાના ઘર તરફ જતાં મોંઘીમાને સોંપી દે છે.",
+              "word_count": {
+                "original": 184
+              },
+              "key_terms": [
+                "સુપરત કરવું — સોંપી દેવું, હવાલે કરવું.",
+                "ચાલાક — ચતુર, હોશિયાર.",
+                "ભાળીને — જોઈને, નજરે ચડતાં; તળપદો શબ્દ.",
+                "ભેળા — સાથે, ભેગા.",
+                "રૂબરૂ — સામસામે, જાતે મળીને.",
+                "કડાકૂટ — નકામી માથાકૂટ, પળોજણ."
+              ],
+              "primary_content_type": "image",
+              "available_content_types": [
+                "image"
+              ],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "થેલી ટપુડાના ઘર ભણી",
+      "segments": [
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "ઠળિયાભરી થેલી અને ડોશીનો ઉદ્ગાર",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T6",
+              "topic_name": "મોંઘીમાના હાથમાં આવેલા ઠળિયા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S4.T5"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "source_markers": [
+                "[[ઘટના: મોંઘીમાના હાથમાં જાંબુને બદલે ઠળિયા આવે છે]]"
+              ],
+              "scene_span": {
+                "starts_at": "મોંઘીમા ધીમે ધીમે ચાલવા લાગ્યાં.",
+                "ends_at": "‘‘નખ્ખોદિયો નાથિયો !’’ ડોશીથી બોલી જવાયું."
+              },
+              "original_chunk": "મોંઘીમા ધીમે ધીમે ચાલવા લાગ્યાં. થોડી થોડી વારે હાથમાં લીધેલી થેલી પર હાથ ફેરવે અને નાકે અડાડતાં જાય ! મીઠાં મધ જાંબુડાં કંઈ અછતાં રહે ? થેલીમાંથી એક મોટું પોચું જાંબુ કાઢ્યું ને બોખા મોંમાંય એક જાંબુ એવું તો ઓગળી ગયું કે વાત ના પૂછો. તે તો બીજાં બે’ક ખાવા માટે થેલીમાં હાથ નાખ્યો તો જાંબુને બદલે હાથમાં આવ્યા ઠળિયા ! હત્તારીની !\nડોસીને થયું, મને છેતરવા માટે થેલી આપી કે પછી બચારા ટપુડાને છેતરવો છે ? ... એ તો ઠીક પણ હવે હું થેલી આપવા જાઉં તો જાંબુ ખાઈ ગયાની શંકા મારા ઉપર જ આવે ને ? ‘‘નખ્ખોદિયો નાથિયો !’’ ડોશીથી બોલી જવાયું.",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T6.C7",
+                  "concept_name": "થેલીમાં હાથ નાખતાં જ ખૂલી ગયેલી વાત",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "મોંઘીમા થેલી લઈને ધીમે ધીમે ચાલે છે અને વારેવારે થેલી પર હાથ ફેરવીને નાકે અડાડે છે. છેવટે એ થેલીમાંથી એક મોટું પોચું (નરમ) જાંબુ કાઢીને ખાઈ લે છે. બીજાં બે ખાવા માટે એ ફરી થેલીમાં હાથ નાખે છે ત્યારે જાંબુને બદલે હાથમાં ઠળિયા આવે છે. હવે થેલી પહોંચાડવા જાય તો જાંબુ ખાઈ ગયાની શંકા પોતાના પર જ આવશે એ વિચારે એમનાથી બોલી જવાય છે — ‘‘નખ્ખોદિયો નાથિયો !’’",
+              "word_count": {
+                "original": 104
+              },
+              "key_terms": [
+                "અછતાં રહેવું — છાનાં રહેવું, છુપાયેલાં રહેવું.",
+                "પોચું — નરમ, કૂણું.",
+                "બોખું — દાંત વગરનું; અહીં ‘બોખા મોંમાં’ એટલે દાંત વગરના મોંમાં.",
+                "હત્તારીની ! — નિરાશા કે અચરજ વખતે નીકળી જતો બોલચાલનો ઉદ્ગાર.",
+                "નખ્ખોદિયો — ગુસ્સામાં બોલાતો તળપદો ઠપકાનો શબ્દ.",
+                "શંકા — વહેમ, અવિશ્વાસ."
+              ],
+              "primary_content_type": "image",
+              "available_content_types": [
+                "image"
+              ],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S6",
+          "segment_name": "થેલીમાં બચેલું છેલ્લું જાંબુ",
+          "topics": [
+            {
+              "topic_id": "M3.S6.T7",
+              "topic_name": "પશીના પેટમાં પહોંચેલું છેલ્લું જાંબુ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M3.S5.T6"
+              ],
+              "objective_ids": [
+                "O7"
+              ],
+              "source_markers": [
+                "[[ઘટના: પશીના પેટમાં છેલ્લું જાંબુ — અને ટપુડાની થેલી]]"
+              ],
+              "scene_span": {
+                "starts_at": "તેણે પાડોશની નાનકી છોકરી પશીને થેલી આપી દીધી ને કીધું :",
+                "ends_at": "ત્યારે તેની બિચારાની શી દશા થઈ હશે !"
+              },
+              "original_chunk": "તેણે પાડોશની નાનકી છોકરી પશીને થેલી આપી દીધી ને કીધું : ‘‘જા, ટપુડાને આપી આવ ! કે’જે કે તારા મામાએ મોકલી છે. પશીએ થેલી લીધી હાથમાં - ‘‘એવું બધું તે મામાએ શું મોકલાવ્યું છે ? લાવ જોઉં તો ખરી’’ એમ વિચારી પશીએ થેલી ખોલી તો અંદર રહેલું માત્ર એક જ જાંબુ ! બાકીના બધા ઠળિયા! હવે આ એક જાંબુ પણ મારા માટે જ રહ્યું લાગે છે ! લાવને હુંયે ચાખું...’ એમ કહી છેલ્લું જાંબુ પશીના પેટમાં પહોંચી ગયું ! ને... ને પશીએ પહોંચાડેલી એ જાંબુની થેલી જ્યારે અમથાલાલના ભાણિયા ટપુડાને મળી હશે અને જાંબુ ખાવા અંદર હાથ નાખ્યો હશે ત્યારે તેની બિચારાની શી દશા થઈ હશે !",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T7.C8",
+                  "concept_name": "છેલ્લું જાંબુ અને ખુલ્લો રહી ગયેલો પ્રશ્ન",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "મોંઘીમા એ થેલી પાડોશની નાની છોકરી પશીને આપીને ટપુડાને પહોંચાડવાનું કહે છે. પશીને જોવાનું મન થાય છે, એટલે એ થેલી ખોલે છે તો અંદર માત્ર એક જ જાંબુ અને બાકી બધા ઠળિયા ! એ છેલ્લું જાંબુ પણ પશી પોતે ચાખી જાય છે. પાઠ છેલ્લે વાચકને જ પૂછે છે કે ઠળિયાભરી થેલી હાથમાં આવી હશે ત્યારે બિચારા ટપુડાની શી દશા (હાલત) થઈ હશે.",
+              "word_count": {
+                "original": 107
+              },
+              "key_terms": [
+                "પાડોશ — બાજુમાં આવેલાં ઘર; આજુબાજુ રહેનારાં.",
+                "નાનકી — નાનકડી, નાની; તળપદું રૂપ.",
+                "કે’જે — ‘કહેજે’; બોલચાલમાં ‘હ’ પડી જતાં બનેલું ટૂંકું રૂપ, ભૂલ નથી.",
+                "માત્ર — ફક્ત, કેવળ.",
+                "હુંયે — ‘હું પણ’; શબ્દને ‘-યે’ લાગતાં બનેલું બોલચાલનું રૂપ.",
+                "દશા — હાલત, સ્થિતિ."
+              ],
+              "primary_content_type": "image",
+              "available_content_types": [
+                "image"
+              ],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "marker_to_topic_map": {
+    "[[ઘટના: બજારમાં જાંબુવાળીની અહાલેક અને ભાવતાલ]]": [
+      "M1.S1.T1"
+    ],
+    "[[ઘટના: ટપુ યાદ આવે છે — એક કિલો જાંબુ અને પગની આળસ]]": [
+      "M1.S2.T2"
+    ],
+    "[[ઘટના: મગનને થેલી સોંપાય છે અને મગન પહેલા ઠળિયા નાખે છે]]": [
+      "M2.S3.T3"
+    ],
+    "[[ઘટના: રામજીને થેલી પધરાવાય છે અને એની જીભ પણ ચાલે છે]]": [
+      "M2.S3.T4"
+    ],
+    "[[ઘટના: ચાલાક નાથિયો ભેદ પકડી પાડે છે]]": [
+      "M2.S4.T5"
+    ],
+    "[[ઘટના: મોંઘીમાના હાથમાં જાંબુને બદલે ઠળિયા આવે છે]]": [
+      "M3.S5.T6"
+    ],
+    "[[ઘટના: પશીના પેટમાં છેલ્લું જાંબુ — અને ટપુડાની થેલી]]": [
+      "M3.S6.T7"
+    ]
+  },
+  "courier_topics": {
+    "મગન": "M2.S3.T3",
+    "રામજી": "M2.S3.T4",
+    "નાથિયો": "M2.S4.T5",
+    "મોંઘીમા": "M3.S5.T6",
+    "પશી": "M3.S6.T7"
+  },
+  "markers_deliberately_not_cut": [
+    "[[પાઠ-શીર્ષક]] ‘6  જો કરી જાંબુએ’ — header furniture; the chapter-number box and title never enter a topic (reference/explanation_unit_map.md §What the rendered page tells you). The QR badge printed top-right of folio 30 (code K7I8A8) is header furniture too.",
+    "[[લેખક-પરિચય]] ‘- જયંતી ધોકાઈ’ — a BYLINE printed under the title at the HEAD of the chapter, not the child-addressed લેખક-પરિચય + કૃતિ-પરિચય paragraph that opens a std-10 chapter, so it is not a CONCEPT topic (agents/02_structure.md §1). See notes for what this means for the profile's gate 13.",
+    "[[પ્રવેશપેટી]] — the વાદળી teacher-addressed box on folio 30, marked by Agent 1 on the render as ‘શિક્ષકને સંબોધિત; વાચન-દૃશ્ય નથી’. It is the chapter's strongest self-identification (‘રમૂજી પ્રસંગ’) and it prescribes the teaching, but reference/explanation_unit_map.md §4 bullet 1 and nibandh_atmaparak.md's Explanation-unit section both bar the intro box from being a topic. It feeds key_terms and ભાષા-બોધ and is Agent 10's matter.",
+    "[[શબ્દાર્થ પેટી]] on folio 32 — અહાલેક, રાડ, હેત, ભાઈબંધ, આસ્તેક, ચાલાક, માઈલ. Apparatus: evidence of difficulty, never a topic and never the source of the gloss (reference/shabd_gloss.md). Agent 1's observation that આસ્તેક is glossed but does not occur in the printed story text stands, unrepaired. No રૂઢિપ્રયોગ box is printed in this chapter.",
+    "The fifteen printed [[સ્વાધ્યાય: …]] blocks inventoried in 01_meta.json.exercise_inventory — including block nine, ‘તમારા જીવનમાં બનેલ રમૂજી પ્રસંગ વર્ગમાં કહો.’, which nibandh_atmaparak.md calls this genre's fingerprint. None is a topic (global_content_rules.md §7, explanation_unit_map.md §4, profile Avoid gate 12). Nothing inside them was folded into the cut: the ભોલુ paragraph, the કાળ-કોઠો's model sentences and the અ/બ કોઠો's cells are exercise text, not reading scenes.",
+    "[[વ્યાકરણ પેટી]] — the chapter-final લીલી box on folio 36 under the banner ‘સર્વનામ’ (the રમેશભાઈ paragraph and the seven types). Teacher-addressed ભાષા-બોધ matter that feeds the સર્વનામ exercise block; it carries no reading scene.",
+    "The two uncaptioned illustrations Agent 1 recorded (the fruit-cart market scene on folio 30, the two-men-on-a-path scene on folio 31) carry no marker line in 00_chapter_normalized.md. nibandh_atmaparak.md is explicit that printed illustrations are page matter and ‘never open a topic of their own’. Recorded here so their absence from the marker roster is not read as a swallowed marker."
+  ],
+  "counts": {
+    "modules": 3,
+    "segments": 6,
+    "topics": 7,
+    "concepts": 8,
+    "objectives": 7,
+    "reading_scene_markers_in_00": 7,
+    "courier_topics": 5,
+    "setup_topics": 2
+  },
+  "notes": [
+    "VERBATIM ATTACHED, AND RE-VERIFIED AGAINST THE RENDER. Every one of the seven original_chunks was copied from 00_chapter_normalized.md and then read back off _renders/page-1.png … page-3.png on 3×–8× LANCZOS crops of the printed text block. Because this is prose, the spec's spot-check floor (first and last line of every chunk, plus any line carrying an unusual form) was exceeded: the whole reading text on printed folios 30–32 was re-read line by line. NO mismatch was found between A1's transcription and the printed page — nothing was repaired, silently or otherwise.",
+    "A1's open item, carried forward and NOT closed here. 01_meta.json extraction_notes records 'DOUBLE-RENDER CROSS-CHECK NOT AVAILABLE AS SPECIFIED' and recommends a 200 dpi re-render before the verbatim is VERIFYed. This run was again given a single pre-rasterised 1300×1831 px (≈150 dpi) set and forbidden from re-rendering, so the same substitute was used — enlarged crops of the same PNGs. The verbatim is therefore attached and cross-checked, but the independent higher-dpi confirmation is still owed. Agent 13 should keep this open.",
+    "Chunk boundaries are the seven [[ઘટના: …]] blocks of 00_chapter_normalized.md exactly, and each chunk's first and last printed sentence was asserted against 02_structure.json's scene_span before writing. No printed setup was cut from its પરિણામ: the જાંબુ-eaten step and the ઠળિયા-put-back step sit inside one chunk for મગન (M2.S3.T3), for રામજી (M2.S3.T4), for નાથિયો (M2.S4.T5) and for મોંઘીમા (M3.S5.T6), per nibandh_atmaparak.md's gate 11 and 01_meta's explanation_unit.",
+    "Paragraph structure is kept. Where the printed page sets a topic as several paragraphs — four for M1.S1.T1, six for M2.S3.T3, seven for M2.S3.T4 — the chunk carries that many lines separated by a newline. Nothing was reflowed into one paragraph and no printed paragraph was joined or split.",
+    "The printed spoken register is carried through untouched, since it is what makes the chapter funny: ‘‘હોવ્વે!’’, લૂલી, માંહ્યલીકોર / માંયલીકોર, પટ કરતાંક, બે’ક, કે’ જે / કે’જે, બોખા, હત્તારીની !, ‘‘નખ્ખોદિયો નાથિયો !’’, ઝાપટી ગયા, રાજીના રેડ, આલા બાલા (અષ્ટમ્ પષ્ટમ્). None was standardised towards માનક ગુજરાતી in original_chunk; the standard form appears only in key_terms and modified_chunk.",
+    "The book's own punctuation inconsistencies are reproduced as printed and were each re-checked on the render: the early-closing inner single quote in ‘‘ઠીક હમણાં તો બસો ગ્રામ જ દેને !’ …, the ‘‘યાર … નથી !’ mismatch, કહ્યું ‘હા, કંઈ કામકાજ?’’ with no space before its ?, the two quotations that never close (મગનને થયું - ‘ભારે થઈ ! … કહેવાય !, and કીધું : ‘‘જા, … મોકલી છે.), the spaced ‘કે’ જે’ at a justified line start on folio 32, and બાકીના બધા ઠળિયા! with no space before its !. GSEB's spaced ‘ !’ and ‘ ?’ are preserved throughout. No Devanagari daṇḍa, no Roman and no Devanagari character occurs in any chunk — asserted programmatically over every code point, not eyeballed.",
+    "On folio 30 the closing pair after ‘રૂપિયે કિલો !’ prints with a gap between the two turned commas (!’ ’). Re-read at 8×: it is the closing double quote of a justified line, not a different mark, and it is attached as ’’ — which is what A1 transcribed. Recorded because it is the one place where the render is ambiguous at 150 dpi.",
+    "NO ATTRIBUTION LINE CLOSES THIS CHAPTER, and none was manufactured. The byline ‘- જયંતી ધોકાઈ’ is printed at the HEAD of folio 30 under the title; the render shows nothing printed after ‘ત્યારે તેની બિચારાની શી દશા થઈ હશે !’ except the શબ્દાર્થ box. M3.S6.T7's chunk therefore ends on that sentence. This is the case 04_validation.json flagged for this agent, and it is answered by the page, not by the gate's default.",
+    "Nothing from outside the reading text entered a chunk: not the pink ‘6’ number box or the title, not the QR badge (K7I8A8), not the teacher-addressed blue પ્રવેશપેટી, not the શબ્દાર્થ box on folio 32, not the two uncaptioned illustrations, not the chapter-final green સર્વનામ box on folio 36, and not one of the fifteen સ્વાધ્યાય blocks.",
+    "key_terms sit at 5–6 per topic — the std-7 row of reference/shabd_gloss.md is 4–6 and the file says 'when in doubt at std 6–7, gloss', which for an L2 reader of this chapter's તળપદી comedy means the top of the band. Ring-2 household words (ઠળિયો, પોચું, છેટે, આંટો, ભાણિયો) are glossed although a first-language pack would wave them through; Ring-1 words the child owns from speech (જાંબુ, થેલી, ઘર, જીભ) are not.",
+    "Where a printed form is તળપદું or a bent bolchaal shape, the gloss names it as such and never as an error — હોવ્વે!, બે’ક, કે’જે, હુંયે, ભાળીને, છેટે, નાનકી, ઝાપટી ગયા, નખ્ખોદિયો, હત્તારીની !. The headword is always the PRINTED form, per 01_meta's REGISTER note.",
+    "The chapter's printed શબ્દાર્થ box (અહાલેક, રાડ, હેત, ભાઈબંધ, આસ્તેક, ચાલાક, માઈલ) was used as evidence of what the book thinks is hard, not emptied into the field: six of its seven entries are distributed across the topics where those words actually occur, and આસ્તેક is deliberately absent because — as A1 recorded — it does not occur in the printed story at all. Glossing a word the child will never meet in the text would be filling a field.",
+    "The chapter prints no રૂઢિપ્રયોગ, કહેવત or સમાનાર્થી-વિરુદ્ધાર્થી block, so none of those categories could leak into key_terms. Phrase-level colour that is not a printed block (રાજીના રેડ, દાઢમાં ચોંટી જવું, પગે આળસ કરવી) was kept out of key_terms too, and is left to Agents 10 and 12.",
+    "Content types: every one of the seven topics is a reading પ્રસંગ and nibandh_atmaparak.md's Media prior is 'one image per પ્રસંગ', so all seven carry primary_content_type 'image' with available_content_types ['image']; secondary and tertiary are null everywhere because no second medium is planned. The two printed illustrations (folios 30 and 31) are page matter under the same profile and are NOT what these fields point at — Agent 9 authors all seven, since no Gujarati frame pool exists.",
+    "modified_chunk is the plain ‘શું થઈ રહ્યું છે’ seed only, three to four sentences, with the hardest word of each chunk glossed inline in brackets. It carries no ભાવ reading, no craft naming, no real-life link and no બોધ — the chapter is a હાસ્ય piece and global_content_rules rule 1 plus this profile's Avoid list put a moral out of bounds for Agent 12 as well.",
+    "Ids, names, objectives, concepts, depends_on, scene_span and every count were passed through from 02_structure.json byte-for-byte; this agent added only original_chunk, modified_chunk, word_count, key_terms and the four content-type fields."
+  ]
+}

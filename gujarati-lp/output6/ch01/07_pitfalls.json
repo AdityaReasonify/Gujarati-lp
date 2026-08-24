@@ -1,0 +1,106 @@
+{
+  "agent": "07_genre_pitfalls",
+  "chapter_id": "gseb_eng_gujarati6_ch1",
+  "plan_id": "gseb_eng_gujarati6_ch1_v1",
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Slogan gate, bound to the ટેક topic: no sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer` is an exhortation of the shape `સંપીને રહેવું જોઈએ` / `સાથે રહેવું જોઈએ` / `આપણે … જોઈએ`. The word `જોઈએ` must not occur at all in these fields — it is nowhere in this topic's `original_chunk` (`એક જ ડાળનાં પંખી, / અમે સહુ એક જ ડાળનાં પંખી. / વિહરીએ કદી આભમાં ઊંચે, / ઊડી-ઊડી કદી આવીએ નીચે, / કલ્લોલ કરતાં રહેતાં ઉમંગી.  - એક જ.`). The word `મહિમા` must not occur either: it is the blue teacher-box's word, not the poem's.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Picture before feeling: the first sentence of `explanation` must contain at least one word that occurs in this topic's `original_chunk` and can be seen or heard — `ડાળ`, `પંખી`, `આભ`, `ઊંચે`, `નીચે`, `ઊડી-ઊડી` or `કલ્લોલ`. A first sentence that opens on the ભાવ (`સંપ`, `એકતા`, `ભાઈચારો`, `સાથે રહેવાની ભાવના`) fails, however true it is.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Craft is not skipped: since `figures_of_speech` stays `[]` at std 6, `explanation` must carry exactly one sentence that makes this કડી's sound audible in its own words — the matching ending of `ઊંચે` and `નીચે`, or the doubling in `ઊડી-ઊડી`, or `ઉમંગી` chiming with the ટેક's `પંખી` — put as a sound the child hears (`સાંભળો`, `સરખો અવાજ`, `બોલી જુઓ`). No `અલંકાર`, `છંદ`, `યમક`, `પુનરુક્તિ` or any other label may appear.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Refrain-shorthand expansion belongs here and only here: `explanation` must state what the printed `- એક જ.` after `કલ્લોલ કરતાં રહેતાં ઉમંગી.` asks the singer to do — go back and sing `અમે સહુ એક જ ડાળનાં પંખી.` again — while `original_chunk` keeps `- એક જ.` exactly as printed and never spells the ટેક out inside the verbatim.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "કાવ્યની ઉપર જ છપાયેલી ભૂરી પેટીનું વાક્ય — `આ કાવ્યમાં સંપનો મહિમા ગાવામાં આવ્યો છે` — વાંચીને બાળક એ જ જવાબ ગોખી લે છે, અને ડાળ, પંખી કે `અમે સહુ એક જ ડાળનાં પંખી` ટેક સામે જોતું જ નથી. પેટી શિક્ષક માટે છપાયેલી છે, બાળક માટે નહિ.",
+      "correction": "`explanation` નું પહેલું વાક્ય ટેકનું ચિત્ર જ બતાવે — એક ડાળ, તેના પર બેઠેલાં પંખી, ને `અમે સહુ` બોલનારાં એ પંખી પોતે. પછી `આભમાં ઊંચે` જવું ને `ઊડી-ઊડી` પાછાં `નીચે` આવવું — એ ઉડાનનું ચિત્ર. સંપની વાત ચિત્ર પછી જ આવે, અને `મહિમા` શબ્દ વગર આવે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "Slogan gate, on the topic that invites it most: no sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer` turns `તોયે નિરંતર રહેતાં સંપી.` into advice — `લડવું ન જોઈએ`, `ઝઘડો ન કરવો જોઈએ`, `સંપીને રહેવું જોઈએ`, `મિત્રો સાથે સંપ રાખવો જોઈએ`. The word `જોઈએ` does not occur in these fields; it is not in this topic's `original_chunk`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Picture before feeling: the first sentence of `explanation` must name one of this કડી's own concrete words — `સુખ`, `દુઃખ`, `લડીએ`, `વઢીએ` or `જુદાં`. Opening on `સંપ`, `એકતા`, `મિત્રતાનું મૂલ્ય` or `સાથે રહેવાની ભાવના` fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Craft is not skipped: `explanation` must carry one sentence pointing at this કડી's own sound — `રહીએ` and `થઈએ` ending alike, or `સંપી` chiming with the ટેક's `પંખી` — as a sound the child hears, with no `અલંકાર` / `છંદ` / `પુનરુક્તિ` label.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `summary`, `detailed_summary` or any `recall_questions[].answer` contradicts the printed line `લડીએ, વઢીએ, કદી જુદાં જ થઈએ,` by claiming the birds never quarrel or never separate. The કડી admits both and reverses them only at `તોયે`; an account that erases the quarrel has erased the poem's turn.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "`લડીએ, વઢીએ, કદી જુદાં જ થઈએ` વાંચીને બાળક આખી કડીને ઝઘડાની વાત સમજી બેસે છે, કારણ કે `તોયે` — તોપણ — શબ્દ પકડાતો નથી. એટલે છેલ્લી પંક્તિનો વળાંક `તોયે નિરંતર રહેતાં સંપી` ખોવાઈ જાય છે અને કડી ઊંધી વંચાય છે.",
+      "correction": "જે વાક્યમાં આ પંક્તિ પહેલી વાર આવે તે જ વાક્યમાં `તોયે — તોપણ` એમ gloss કરો. પછી બે ડગલે બતાવો: પહેલી બે પંક્તિ કબૂલ કરે છે કે લડાઈ થાય છે ને કોઈ વાર જુદાં પણ પડાય છે; ત્રીજી પંક્તિ એ વાતને ફેરવે છે — ઝઘડો થાય તોય સંપ તૂટતો નથી. `નિરંતર — સતત` નો gloss પણ ત્યાં જ મૂકો."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Slogan gate, aimed at this કડી's own temptation: `કરીએ કુદરત-ગાન અમે સહુ` must not become `કુદરતનું જતન કરવું જોઈએ` / `પ્રકૃતિને બચાવવી જોઈએ` / `સૌએ સાથે મળીને રહેવું જોઈએ` in any sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer`. The word `જોઈએ` does not occur in these fields; it is not in this topic's `original_chunk`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Picture before feeling: the first sentence of `explanation` must name one of `ધરતી`, `ખોળે`, `બાળ`, `કુદરત-ગાન`, `પ્રવાસ` or `સંગી` — words that occur in this topic's `original_chunk`. Opening on `જીવનનો સંદેશ`, `સંપ`, `એકતા` or `કાવ્યનો ભાવ` fails, and so does an opening that summarises the whole poem instead of showing this કડી.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Literal reading of a figurative line: no sentence of `explanation`, `summary`, `detailed_summary` or any `recall_questions[].answer` states as fact that ધરતીને ખરેખર ખોળો છે, or that the પંખી are literally ધરતીનાં સંતાન. `ધરતીને ખોળે` must be presented as a picture the poet draws — `મા ખોળામાં બેસાડે તેમ` — never as information about the earth.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Never modernise the poet: `જીવન કેરા` is quoted exactly as printed wherever the line is quoted, and is explained as the poem's own older way of saying `જીવનનાં`. No field replaces `કેરા` with `નાં` inside a quotation of the line, and no sentence calls the form `ભૂલ`, `ખોટું` or `જૂની જોડણી`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Over-scientifying: no word naming a scientific or environmental-studies mechanism — `પર્યાવરણ`, `જૈવવિવિધતા`, `પ્રકૃતિ-સંતુલન`, `ઋતુચક્ર`, `પ્રકાશસંશ્લેષણ`, `પ્રદૂષણ` — appears in `explanation`, `real_life_example` or any `recall_questions[].answer`. Only `કુદરત` (printed in the કડી) and `પ્રકૃતિ` (printed in this chapter) may be used for this idea.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Craft is not skipped: `explanation` must carry one sentence pointing at what this કડી repeats — `અમે સહુ` standing at the end of both `ધરતીને ખોળે બાળ અમે સહુ,` and `કરીએ કુદરત-ગાન અમે સહુ` — or at `સંગી` chiming with the ટેક's `પંખી`, put as a sound the child hears, with no `અલંકાર` / `છંદ` / `પુનરુક્તિ` label. It must not assert a rhyme between `સહુ` and `સહુ`: that is the same word returning, not a rhyme.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "હિન્દી વાંચતું બાળક `બાળ` ને હિન્દીના `बाल` — વાળ — સમજી લે છે, એટલે `ધરતીને ખોળે બાળ અમે સહુ` નો અર્થ જ ખોટો બંધાય છે. ખોટો અર્થ સાંભળવામાં સાચો લાગે છે, એટલે બાળક પૂછતું પણ નથી અને આખી કડી ત્યાં જ અટકી જાય છે.",
+      "correction": "પંક્તિ મૂક્યા પછીના પહેલા જ વાક્યમાં `બાળ — બાળક` એમ gloss કરો, gloss ને પાછળ ધકેલો નહિ. પછી ચિત્ર બતાવો: મા ખોળામાં બેસાડે તેમ ધરતી સહુને ખોળે લે છે, ને એ ખોળામાં બેઠેલાં બાળક એટલે આ પંખી પોતે. `સંગી — સાથી` નો gloss પણ એ જ રીતે ત્યાં જ મૂકો."
+    }
+  ],
+  "chapter_level": [
+    "ટેક-શૉર્ટહૅન્ડ `- એક જ.` ત્રણેય કડીને અંતે છપાયું છે. તેનું અર્થ-વિસ્તરણ માત્ર M1.S1.T1 માં એક વાર થાય; M1.S1.T2 અને M1.S2.T3 તેને `depends_on` વાળા topic તરફ પાછું મોકલે — ત્યાં ફરીથી સમજાવવું નહિ. કોઈ પણ topic ના `original_chunk` માં તેને પૂરી ટેકમાં ખોલવું નહિ.",
+    "આખું કાવ્ય પ્રથમ પુરુષ બહુવચનમાં છે — `અમે સહુ`, `રહીએ`, `કરીએ`. ધો. 6 નું L2 બાળક બે પંક્તિ પછી બોલનાર કોણ છે તે ખોઈ બેસે છે, અને `અમે` ને પોતાની જાત સમજી લે છે. દરેક topic ના `explanation` માં એક વાર સ્પષ્ટ રહે કે બોલનારાં પંખી પોતે છે.",
+    "ભૂરી પ્રવેશક-પેટી (`આ કાવ્યમાં સંપનો મહિમા ગાવામાં આવ્યો છે…`) શિક્ષક-સંબોધિત apparatus છે. તેનું એક પણ વાક્ય કોઈ પણ teaching field માં ઉતારવું નહિ, અને તેની ભાષા (`મહિમા`, `સુપેરે`, `પ્રકૃતિનું ગાન કરવાની વાત`) બાળક સાથે બોલવાની ભાષા નથી.",
+    "ધો. 6 ની બે છત, tier બદલાય તોય ન ખસે: (અ) એક પણ કારીગરી-લેબલ નહિ — `અલંકાર`, `છંદ`, `સમાસ`, `સાહિત્યપ્રકાર`, `ઊર્મિકાવ્ય`, `ગીત` જેવો સ્વરૂપ-ટૅગ કોઈ teaching field માં નહિ; `પ્રાસ` શબ્દ ફક્ત ત્યારે જ, જ્યારે તે બાળકને સંભળાવવાના અવાજ તરીકે વપરાય, ઓળખ આપવાના નામ તરીકે નહિ. (બ) theme-extraction નહિ — `કેન્દ્રીય વિચાર`, `કાવ્યનો સંદેશ`, `કવિ શા માટે આ શબ્દ વાપરે છે` એવો કોઈ પ્રશ્ન કે વાક્ય નહિ.",
+    "લિપિ-જોખમ, L2 વાચક માટે: પાનું `ઊંચે` અને `ઊડી-ઊડી` માં દીર્ઘ `ઊ` છાપે છે પણ `ઉમંગી` માં હ્રસ્વ `ઉ`; `ડાળનાં`, `ખોળે` માં `ળ` છે, `લ` નહિ; `કલ્લોલ` નો `લ્લ` જોડાક્ષર અને `દુઃખમાં` નો વિસર્ગ અકબંધ છે. હિન્દી ટેવે વાંચતું બાળક આ ભેદ ભૂંસી નાખે છે — દરેક અવતરણમાં આ સ્વરૂપો જેમ છપાયાં છે તેમ જ રહે.",
+    "સ્વાધ્યાયના શબ્દ-બદલીના બ્લોકમાં કાવ્યની પંક્તિઓ જુદી જોડણી-વિરામચિહ્નો સાથે ફરી છપાઈ છે (`કુદરતગાન`, `દુઃખ માં`, `પ્રવાસ નાં`, અલ્પવિરામ વગર). કોઈ પણ teaching field માં પંક્તિ ટાંકતી વખતે કાવ્યના પાના પરનું જ રૂપ વાપરવું, એ બ્લોકનું નહિ."
+  ]
+}

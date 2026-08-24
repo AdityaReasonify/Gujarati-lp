@@ -1,0 +1,36 @@
+{
+  "topics": [
+    {
+      "topic_id": "M2.S3.T5",
+      "areas": ["વિકલાંગતા"],
+      "caution": "The line 'મારો ખોડ લગાર' is the idiom for 'not my fault at all,' but the key_terms gloss 'ખોડ — શારીરિક ખામી' could get taught to the child as if the વણિક is talking about a physical disability rather than about blame.",
+      "guidance": "In the explanation, keep 'ખોડ' to its idiomatic sense here — ભૂલ, વાંક (fault) — and do not build the real_life_example around a person's physical condition or disability.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "areas": ["ધર્મ"],
+      "caution": "The blame moves onto 'મુલ્લા' right after the પખાલી's excuse; if the explanation lingers on his religious title instead of treating him as simply the next name the chain lands on, it can read as the satire singling out a religious figure.",
+      "guidance": "Explain 'મુલ્લા' the same way as 'કડિયો' or 'પખાલી' before him — one more person doing ordinary work in the town whom the chain of excuses happens to reach — and keep the real_life_example about blame passing person-to-person (like children blaming each other for a broken toy), never about religion.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S5.T8",
+      "areas": ["ધર્મ"],
+      "caution": "'મુલ્લાજીને મારવા' and his being led to the શૂળી is the sharpest point of the chain landing on a named religious figure; any comment in the explanation on his faith or his role as a religious teacher would misrepresent the poem's satire as targeting religion.",
+      "guidance": "Keep the explanation on the absurdity of the king's rule — any well-fed man will do, so the guards go looking for one — and the arbitrariness of the punishment, not on who the મુલ્લા is or what he believes; the recall prompt should stay on 'the wrong person got blamed,' not on religion.",
+      "severity": "hard"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "સંઘર્ષ",
+      "guidance": "The whole કથાકાવ્ય is a person-versus-unjust-ruler satire carried by a chain of blame that ends at a શૂળી; keep every topic's explanation on the injustice and the comic absurdity of the king's rule ('ગંડુ રાજા'), never make the mechanics of the execution device graphic or dwell on it, and never let the teaching read as if capital punishment is being endorsed as a real solution — the poem's own ending (the king himself impaled) is the joke, not a lesson to draw out further."
+    },
+    {
+      "area": "સુરક્ષા",
+      "guidance": "સ્વાધ્યાયનું 'આ કથાકાવ્યને નાટક સ્વરૂપે ભજવો' પ્રવૃત્તિ (block 14) has the class act the poem out; the exercise guidance should say to mime the શૂળી/execution moment symbolically — no sticks, ropes, or any prop aimed at a classmate — the same way children already play-act with make-believe swords, never anything that could actually hurt someone."
+    }
+  ],
+  "none_found": false
+}

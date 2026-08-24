@@ -1,0 +1,1450 @@
+{
+  "phase": 2,
+  "board": "gseb",
+  "subject": "Gujarati",
+  "grade": 7,
+  "level": "standard",
+  "version": 1,
+  "chapter_id": "gseb_eng_gujarati7_ch4",
+  "plan_id": "gseb_eng_gujarati7_ch4_v1",
+  "chapter_name": "ટીપાંની સફર",
+  "unit_title": "ટીપાંની સફર",
+  "unit_number": 4,
+  "topic_title": "ટીપાંની સફર",
+  "topic_number": 4,
+  "genre": "mixed",
+  "teaching_lens": "તથ્ય + પરંપરા + જિજ્ઞાસા",
+  "guiding_question": "દરિયા, નદી અને તળાવનું એક ટીપું ઊંચે વાદળ સુધી કેવી રીતે પહોંચે છે અને પાછું ક્યાં ને કેવી રીતે નીચે આવે છે — અને ગુજરાતી એ વરસવાની કેટલી જુદી જુદી રીતોને પોતાનાં નામ આપે છે ?",
+  "author": "",
+  "_activate": false,
+  "medium_id": null,
+  "subject_ref_id": null,
+  "english_plan_id": null,
+  "english_chapter_id": null,
+  "estimated_time": 1.5,
+  "publication_id": 1,
+  "chapter_master_id": null,
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 7",
+  "textbook_url": "../Textbooks-pdf/std-7/ch-04-tipani-safar.pdf",
+  "textbook_pages": "19–24",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વાદળમાં ભેગાં થયેલાં ટીપાં કઈ કઈ જગ્યાએથી આવ્યાં હતાં તે પાઠની પહેલી લીટીઓમાંથી શોધીને, દરિયો, તળાવ, નદી અને ખાબોચિયું — પાણીનાં આ ઘર ગણાવવાં.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દરિયામાં ટીપાં સાથે શું શું થતું હતું — માછલી પી જવી, અમારામાંથી પ્રાણવાયુ કાઢી લેવો, મોટી માછલીનો ફુવારો — તે ટીપાની પોતાની વાત પરથી કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મે મહિનાની અને મેદાનની ગરમી પડતાં દરિયાનું ને નદીનું પાણી ‘‘સાવ હલકાં થઈ ગયાં’’ ને ઊંચે જવા માંડ્યું — એ એક જ પ્રક્રિયા બંને ટીપાંની વાતમાં ઓળખાવવી.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કાળાંડિબાંગ વાદળામાં ભેગાં થયા પછી ટીપાંને નીચેનું કેમ કશું દેખાતું નથી, અને ‘‘સાવ શોષાઈ જઈશ’’ કહેતાં વસ્ત્રાપુરના તળાવના પાણીનું શું થાય છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T4",
+      "anchor": [
+        "M1.S2.T4.C4",
+        "M1.S2.T4.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વાદળ પોતાની મરજીથી નહીં પણ પવન ફૂંકે ત્યાં જાય છે, હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરે છે અને ઠંડક થાય એટલે વરસે છે — આ પગલાં ક્રમમાં કહેવાં.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વરસવાની બાર દેશી રીતોમાંથી પછેડિયો, નેવાધાર, મોલિયો ને ઢેફાંભાંગ શબ્દાર્થપેટીના અર્થ સાથે મેળવીને, દરેક નામ કેવો વરસાદ બતાવે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": [
+        "M2.S3.T6.C7",
+        "M2.S3.T6.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "પાણી ક્યાં રહે છે અને ઊંચે કેમ ચઢે છે",
+      "difficult_words": [
+        {
+          "word": "અષાઢ",
+          "meaning": "ચોમાસાનો પહેલો ગુજરાતી મહિનો, જ્યારે વરસાદ બેસે છે.",
+          "example": "અષાઢ બેસતાં જ ખેડૂતો વાવણીની તૈયારીમાં લાગી જાય છે."
+        },
+        {
+          "word": "ખાબોચિયું",
+          "meaning": "વરસાદનું પાણી ભરાઈ રહે એવો નાનો ખાડો.",
+          "example": "નિશાળના મેદાનમાં ભરાયેલા ખાબોચિયામાં નાનાં બાળકો કાગળની હોડી તરતી મૂકે છે."
+        },
+        {
+          "word": "પ્રાણવાયુ",
+          "meaning": "જીવન ટકાવવા માટેનો વાયુ, ઓક્સિજન.",
+          "example": "ઝાડ-પાન આપણને પ્રાણવાયુ આપે છે, એટલે એમને કાપતાં પહેલાં બે વાર વિચારવું."
+        },
+        {
+          "word": "ભાઈબંધ",
+          "meaning": "મિત્ર, દોસ્ત.",
+          "example": "રિસેસમાં મારો ભાઈબંધ પોતાના ડબ્બામાંથી અડધો ખાખરો મને આપે છે."
+        },
+        {
+          "word": "અધ્ધર",
+          "meaning": "જમીનથી ઊંચે, હવામાં લટકતું.",
+          "example": "દોરી તૂટતાં ફુગ્ગો અધ્ધર ને અધ્ધર જતો રહ્યો."
+        },
+        {
+          "word": "રડમસ",
+          "meaning": "રડવું આવી ગયું હોય એવો અવાજ કે ચહેરો.",
+          "example": "લખોટી ખોવાઈ ગઈ એટલે નાનો ભાઈ રડમસ અવાજે મને શોધવા બોલાવવા આવ્યો."
+        },
+        {
+          "word": "શોષાવું",
+          "meaning": "પાણી ચુસાઈ કે સુકાઈને ખૂટી જવું.",
+          "example": "તડકામાં મૂકેલી ભીની ચાદરનું પાણી બપોર થતાં સુધીમાં શોષાઈ ગયું."
+        }
+      ],
+      "overall_rhyme_scheme": null,
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "ટીપાં ક્યાંથી આવ્યાં ને દરિયામાં કેમ રહેતાં",
+          "topics": [
+            {
+              "media": [
+                {
+                  "id": "M1.S1.T1.C1.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "વાદળમાં ટીપાંની ઓળખાણ",
+                  "description": "અષાઢના વાદળની અંદર ગોળ ફરતે ઊભેલાં સજીવ ટીપાં એકબીજાને પૂછે છે, ને વાદળના એક ચીરામાંથી નીચે દરિયો, નદી, તળાવ ને નાનકડું ખાબોચિયું ઝાંખાં દેખાય છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "concept_id": "M1.S1.T1.C1",
+                  "home_concept_id": "M1.S1.T1.C1",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બન્યા પહેલાં પણ વર્ગને પૂછો — વાદળમાં ભેગાં થયેલાં આ ટીપાં ક્યાં ક્યાંથી આવ્યાં હશે ? જવાબમાં પાઠનાં ચારેય નામ — દરિયો, તળાવ, નદી ને નાનકડું ખાબોચિયું — બાળકો પાસે જ બોલાવો, પાંચમું નામ ઉમેરવા દેવું નહીં.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, numerals or digits anywhere in the frame, water-cycle science diagram, labelled arrows or callouts, infographic chart, comic-strip speech bubbles, motivational poster layout, text banner with a moral, moral lesson panel, map of the world, deity figure",
+                  "generation_prompt": "Inside a thick monsoon cloud high over the Gujarat coast at the opening of the rainy season: dense grey-white vapour piled in soft billows, and a few thin gold sun-rays slipping through one narrow gap. Eight living water drops float in a loose ring, turned towards one another in the middle of a conversation; one leans forward with a hand lifted, asking, and the others look back at it with open, curious faces. The water drops are palm-sized living characters: rounded translucent blue-grey teardrop bodies with a soft glassy sheen, large round dark eyes, small expressive mouths, and thin simple arms and hands; they wear no clothes and have no hair. Far below, through the gap, very small and hazy: a strip of sea with two wooden fishing boats, a river coming down from low brown hills, a village tank with stone steps, and a puddle standing in a mud lane. Fresh, curious, slightly excited mood; cool grey-blue light with warm streaks. Along the bottom edge a plain cream narrator bar lettered in Gujarati script with exactly this line and nothing else: તું ક્યાંથી આવ્યું ? Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "summary": "અષાઢ ચાલે છે, આકાશમાં ચારે બાજુ વાદળાં ભેગાં થયાં છે અને સૂરજનાં કિરણો ક્યારેક જ વચ્ચે દેખાય છે. એ વાદળામાં ભરાયેલાં ટીપાં એકબીજાને પૂછે છે કે તું ક્યાંથી આવ્યું. જવાબમાં પાણીનાં ચાર ઘર સામે આવે છે — દરિયો, તળાવ, નદી અને નાનકડું ખાબોચિયું.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "દરિયો, નદી, તળાવ ને ખાબોચિયું — ટીપાં ક્યાં ક્યાંથી આવ્યાં",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "અષાઢ એટલે ચોમાસાનો પહેલો ગુજરાતી મહિનો, જ્યારે વરસાદ બેસે છે. એટલે જ પાઠના પહેલા ફકરામાં આકાશ ચારે બાજુ વાદળાંથી ભરેલું છે અને સૂરજનાં કિરણો — અજવાળાની પાતળી લીટીઓ — ક્યારેક જ વચ્ચે દેખાય છે.",
+                      "publication_text": "અષાઢ એટલે ચોમાસાનો પહેલો ગુજરાતી મહિનો, જ્યારે વરસાદ બેસે છે. એટલે જ પાઠના પહેલા ફકરામાં આકાશ ચારે બાજુ વાદળાંથી ભરેલું છે અને સૂરજનાં કિરણો — અજવાળાની પાતળી લીટીઓ — ક્યારેક જ વચ્ચે દેખાય છે."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "એ વાદળામાં ભરાયેલાં ટીપાં એકબીજાને પૂછે છે કે તું ક્યાંથી આવ્યું, ને એ સવાલના જવાબમાં આ ખંડનું તથ્ય મળે છે : એક જ વાદળામાં ભેગું થયેલું પાણી ચાર જુદી જુદી જગ્યાએથી આવ્યું છે. પાઠ આ ચાર જ જગ્યા ગણાવે છે, પાંચમી નહીં.",
+                      "publication_text": "એ વાદળામાં ભરાયેલાં ટીપાં એકબીજાને પૂછે છે કે તું ક્યાંથી આવ્યું, ને એ સવાલના જવાબમાં આ ખંડનું તથ્ય મળે છે : એક જ વાદળામાં ભેગું થયેલું પાણી ચાર જુદી જુદી જગ્યાએથી આવ્યું છે. પાઠ આ ચાર જ જગ્યા ગણાવે છે, પાંચમી નહીં."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "દરિયો — સૌથી મોટું અને ખારું પાણી.",
+                        "તળાવ — ગામ કે શહેરની વચ્ચે ભરાઈ રહેતું પાણી.",
+                        "નદી — ડુંગર પરથી વહેતું આવતું પાણી.",
+                        "નાનકડું ખાબોચિયું — વરસાદનું પાણી ભરાઈ રહે એવો નાનો ખાડો."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "topic_id": "M1.S1.T1",
+              "key_terms": [
+                "અષાઢ — ચોમાસાનો પહેલો ગુજરાતી મહિનો, જ્યારે વરસાદ બેસે છે.",
+                "કિરણ — સૂરજમાંથી આવતી અજવાળાની પાતળી લીટી.",
+                "ખાબોચિયું — વરસાદનું પાણી ભરાઈ રહે એવો નાનો ખાડો.",
+                "નાનકડું — ‘નાનું’ નું વહાલ બતાવતું રૂપ; સાવ નાનું.",
+                "વાતચીત — બે કે વધુ જણ વચ્ચે થતી વાત."
+              ],
+              "depends_on": [],
+              "difficulty": "easy",
+              "topic_name": "અષાઢના વાદળમાં ભેગાં થયેલાં જુદી જુદી જગ્યાનાં ટીપાં",
+              "topic_type": "CONCEPT",
+              "word_count": {
+                "original": 52
+              },
+              "explanation": "બાળકો, જુઓ — અષાઢના એક જ વાદળામાં ભેગું થયેલું પાણી ચાર જુદી જુદી જગ્યાએથી આવ્યું છે : દરિયામાંથી, તળાવમાંથી, નદીમાંથી અને નાનકડા ખાબોચિયામાંથી. અષાઢ એટલે ચોમાસાનો પહેલો ગુજરાતી મહિનો, જ્યારે વરસાદ બેસે છે. એટલે જ આકાશ ચારે બાજુ વાદળાંથી ભરેલું છે અને સૂરજનાં કિરણો ક્યારેક જ વચ્ચે દેખાય છે. ખાબોચિયું એટલે વરસાદનું પાણી ભરાઈ રહે એવો નાનો ખાડો — સાવ નાની જગ્યાનું પાણી પણ ઉપર પહોંચે છે. પાઠ આ યાદી ટીપાંને એકબીજાને પૂછતાં બતાવીને આપણી સામે મૂકે છે.",
+              "brief_summary": "અષાઢના વાદળામાં ભેગાં થયેલાં ટીપાં એકબીજાને પૂછે છે ત્યારે ખબર પડે છે કે એ દરિયો, તળાવ, નદી અને નાનકડું ખાબોચિયું — એમ ચાર જુદી જુદી જગ્યાએથી આવ્યાં છે.",
+              "objective_ids": [
+                "O1"
+              ],
+              "modified_chunk": "અષાઢ મહિનો ચાલે છે અને આકાશમાં ચારે બાજુ વાદળાં ભેગાં થયાં છે; વચ્ચે વચ્ચે જ સૂરજનાં કિરણો (અજવાળાની પાતળી લીટીઓ) દેખાય છે. વાદળામાં ભેગાં થયેલાં પાણીનાં ટીપાં એકબીજાને પૂછે છે કે તું ક્યાંથી આવ્યું. જવાબમાં ખબર પડે છે કે બધાં જુદી જુદી જગ્યાએથી આવ્યાં છે — કોઈ દરિયામાંથી, કોઈ તળાવમાંથી, કોઈ નદીમાંથી તો કોઈ નાનકડા ખાબોચિયામાંથી (પાણી ભરાઈ રહે એવા નાના ખાડામાંથી) પણ આવેલું છે.",
+              "original_chunk": "અષાઢ મહિનો ચાલતો હતો. આકાશમાં ચારે બાજુ વાદળાં ભેગાં થયાં હતાં. ક્યારેક જ વચ્ચે સૂરજનાં કિરણો દેખાતાં હતાં. વાદળાંમાં ભેગાં થયેલાં ટીપાં વચ્ચે વાતચીત ચાલતી હતી. એકબીજાને પૂછતાં હતાં, ‘‘તું ક્યાંથી આવ્યું ?’’ બધાં જુદી જુદી જગ્યાએથી આવ્યાં હતાં. કોઈ દરિયામાંથી, કોઈ તળાવમાંથી કોઈ નદીમાંથી તો કોઈ નાનકડા ખાબોચિયામાંથી પણ આવેલું હતું.",
+              "topic_category": "introduction",
+              "concept_bullets": [
+                "અષાઢ — ચોમાસાનો પહેલો ગુજરાતી મહિનો, જ્યારે વરસાદ બેસે છે.",
+                "પાણીનાં ચાર ઘર — દરિયો, તળાવ, નદી અને નાનકડું ખાબોચિયું.",
+                "ખાબોચિયું — વરસાદનું પાણી ભરાઈ રહે એવો નાનો ખાડો; સાવ નાની જગ્યાનું પાણી પણ વાદળામાં પહોંચે છે.",
+                "કિરણ — સૂરજમાંથી આવતી અજવાળાની પાતળી લીટી; વાદળાં વચ્ચે એ ક્યારેક જ દેખાય છે."
+              ],
+              "detailed_summary": "પાઠની શરૂઆત અષાઢથી થાય છે, એટલે કે ચોમાસાના પહેલા ગુજરાતી મહિનાથી. આકાશમાં ચારે બાજુ વાદળાં ભેગાં થયાં છે અને વચ્ચે ક્યારેક જ સૂરજનાં કિરણો દેખાય છે. એ વાદળામાં ભરાયેલાં પાણીનાં ટીપાં વચ્ચે વાતચીત ચાલે છે અને એ એકબીજાને પૂછે છે કે તું ક્યાંથી આવ્યું. જવાબ પરથી ખબર પડે છે કે બધાં જુદી જુદી જગ્યાએથી આવ્યાં છે — કોઈ દરિયામાંથી, કોઈ તળાવમાંથી, કોઈ નદીમાંથી તો કોઈ નાનકડા ખાબોચિયામાંથી. આમ, સાવ નાની જગ્યાનું પાણી પણ એ જ વાદળામાં પહોંચ્યું છે. ટીપાંને માણસની જેમ બોલતાં બતાવવાં એ આ પાઠની રજૂઆતની રીત છે.",
+              "important_points": [
+                "એક વાદળું, ચાર જગ્યા — જુદે જુદેથી આવેલું પાણી એક જ વાદળામાં ભેગું થયું છે.",
+                "વાદળિયું આકાશ — ચારે બાજુ વાદળાં ને વચ્ચે ક્યારેક જ કિરણો; ચોમાસાની ઓળખ.",
+                "બોલતાં ટીપાં — પાઠ ટીપાંને માણસની જેમ એકબીજાને પૂછતાં બતાવે છે.",
+                "લિંગનો પ્રત્યય — ટીપું, વાદળું, ખાબોચિયું; સ્વાધ્યાય આવી સંજ્ઞાઓ લિંગ પ્રમાણે છૂટી પાડવાનું કહેશે."
+              ],
+              "publication_text": "અષાઢના એક જ વાદળામાં ભેગું થયેલું પાણી ચાર જુદી જુદી જગ્યાએથી આવ્યું છે : દરિયામાંથી, તળાવમાંથી, નદીમાંથી અને નાનકડા ખાબોચિયામાંથી. અષાઢ એટલે ચોમાસાનો પહેલો ગુજરાતી મહિનો, જ્યારે વરસાદ બેસે છે. એટલે જ આકાશ ચારે બાજુ વાદળાંથી ભરેલું છે અને સૂરજનાં કિરણો ક્યારેક જ વચ્ચે દેખાય છે. ખાબોચિયું એટલે વરસાદનું પાણી ભરાઈ રહે એવો નાનો ખાડો — સાવ નાની જગ્યાનું પાણી પણ ઉપર પહોંચે છે. પાઠ આ યાદી ટીપાંને એકબીજાને પૂછતાં બતાવીને આપણી સામે મૂકે છે.",
+              "recall_questions": [
+                {
+                  "id": "M1.S1.T1.RQ1",
+                  "legacy_id": "M1.S1.T1.TR1",
+                  "prompt": "વાદળામાં ભેગાં થયેલાં ટીપાં કઈ કઈ જગ્યાએથી આવ્યાં હતાં ? ચારેય જગ્યા લખો.",
+                  "answer": "કોઈ દરિયામાંથી, કોઈ તળાવમાંથી, કોઈ નદીમાંથી તો કોઈ નાનકડા ખાબોચિયામાંથી આવેલું હતું.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M1.S1.T1.RQ2",
+                  "legacy_id": "M1.S1.T1.TR2",
+                  "prompt": "પાઠના પહેલા ફકરામાં આકાશ કેવું દેખાય છે, ને એ પરથી ઋતુ કઈ છે તે કેમ કહી શકાય ?",
+                  "answer": "આકાશમાં ચારે બાજુ વાદળાં ભેગાં થયાં હતાં અને સૂરજનાં કિરણો ક્યારેક જ વચ્ચે દેખાતાં હતાં. પાઠ કહે છે કે અષાઢ મહિનો ચાલતો હતો, ને અષાઢ ચોમાસાનો પહેલો ગુજરાતી મહિનો છે — એટલે આ ચોમાસાનું આકાશ છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M1.S1.T1.RQ3",
+                  "legacy_id": "M1.S1.T1.TR3",
+                  "prompt": "પાઠે ગણાવેલી ચાર જગ્યાઓમાંથી કઈ કઈ તમારા ગામ કે શહેરની આજુબાજુ છે ? એક જગ્યાનું નામ લઈને લખો.",
+                  "answer": "(એક શક્ય ઉત્તર) પાઠ દરિયો, તળાવ, નદી અને નાનકડું ખાબોચિયું — આ ચાર જગ્યા ગણાવે છે. વરસાદ પડ્યા પછી શેરીમાં ભરાઈ રહેતું ખાબોચિયું તો લગભગ બધાંએ જોયું હોય છે, ને ઘણાં ગામની પાસે તળાવ કે નદી પણ હોય છે. જવાબ પોતાની આજુબાજુ જે હોય તે નામ લઈને લખવો.",
+                  "difficulty": "medium",
+                  "bloom_level": "apply"
+                }
+              ],
+              "source_topic_ids": [],
+              "publication_chunk": "અષાઢ મહિનો ચાલતો હતો. આકાશમાં ચારે બાજુ વાદળાં ભેગાં થયાં હતાં. ક્યારેક જ વચ્ચે સૂરજનાં કિરણો દેખાતાં હતાં. વાદળાંમાં ભેગાં થયેલાં ટીપાં વચ્ચે વાતચીત ચાલતી હતી. એકબીજાને પૂછતાં હતાં, ‘‘તું ક્યાંથી આવ્યું ?’’ બધાં જુદી જુદી જગ્યાએથી આવ્યાં હતાં. કોઈ દરિયામાંથી, કોઈ તળાવમાંથી કોઈ નદીમાંથી તો કોઈ નાનકડા ખાબોચિયામાંથી પણ આવેલું હતું.\n\nઅષાઢના એક જ વાદળામાં ભેગું થયેલું પાણી ચાર જુદી જુદી જગ્યાએથી આવ્યું છે : દરિયામાંથી, તળાવમાંથી, નદીમાંથી અને નાનકડા ખાબોચિયામાંથી. અષાઢ એટલે ચોમાસાનો પહેલો ગુજરાતી મહિનો, જ્યારે વરસાદ બેસે છે. એટલે જ આકાશ ચારે બાજુ વાદળાંથી ભરેલું છે અને સૂરજનાં કિરણો ક્યારેક જ વચ્ચે દેખાય છે. ખાબોચિયું એટલે વરસાદનું પાણી ભરાઈ રહે એવો નાનો ખાડો — સાવ નાની જગ્યાનું પાણી પણ ઉપર પહોંચે છે. પાઠ આ યાદી ટીપાંને એકબીજાને પૂછતાં બતાવીને આપણી સામે મૂકે છે.\n\nસવારે ગામની દૂધમંડળીએ કોઈના ઘરેથી એક જ ડોલ દૂધ આવે છે, કોઈને ત્યાંથી બે બેડાં, ને કોઈ છેક ખેતરવાળા ઘરેથી સાઇકલ પર દૂધ લઈને આવે છે. વારાફરતી બધું દૂધ એક જ મોટા કૅનમાં ઠલવાય છે, ને પછી કોનું કયું એ કળાતું જ નથી. પાઠના વાદળામાં પણ બરાબર એવું જ થયું છે — જુદી જુદી જગ્યાનું પાણી એક જ વાદળામાં ભેગું થયું છે.",
+              "real_life_example": "સવારે ગામની દૂધમંડળીએ જઈને બે ઘડી ઊભા રહો. કોઈના ઘરેથી એક જ ડોલ આવે, કોઈને ત્યાંથી બે બેડાં, ને કોઈ છેક ખેતરવાળા ઘરેથી સાઇકલ પર દૂધ લઈને આવે. વારાફરતી બધું દૂધ એક જ મોટા કૅનમાં ઠલવાય છે, ને પછી કોનું કયું એ કળાતું જ નથી. પાઠના વાદળામાં પણ બરાબર એવું જ થયું છે — જુદી જુદી જગ્યાનું પાણી એક જ વાદળામાં ભેગું થયું છે. તમારા ઘરનું પાણી રોજ ક્યાંથી આવે છે?",
+              "estimated_exchanges": "4",
+              "learning_objectives": [
+                {
+                  "objective_id": "O1",
+                  "legacy_id": "L1",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "વાદળમાં ભેગાં થયેલાં ટીપાં કઈ કઈ જગ્યાએથી આવ્યાં હતાં તે પાઠની પહેલી લીટીઓમાંથી શોધીને, દરિયો, તળાવ, નદી અને ખાબોચિયું — પાણીનાં આ ઘર ગણાવવાં.",
+                  "bloom_level": "Remember",
+                  "home_topic_id": "M1.S1.T1",
+                  "anchor": [
+                    "M1.S1.T1.C1"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "primary_content_type": "image",
+              "tertiary_content_type": null,
+              "secondary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "અષાઢ",
+                  "arth": "ચોમાસાનો પહેલો ગુજરાતી મહિનો, જ્યારે વરસાદ બેસે છે",
+                  "prakar": "તદ્ભવ"
+                },
+                {
+                  "shabd": "કિરણ",
+                  "arth": "સૂરજમાંથી આવતી અજવાળાની પાતળી લીટી",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "ખાબોચિયું",
+                  "arth": "વરસાદનું પાણી ભરાઈ રહે એવો નાનો ખાડો",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "ટીપું",
+                  "arth": "પાણીનો સાવ નાનો કણ, બુંદ",
+                  "prakar": "દેશ્ય"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "આકાશ",
+                  "samanarthi": [
+                    "ગગન",
+                    "આભ"
+                  ]
+                },
+                {
+                  "shabd": "વાદળું",
+                  "samanarthi": [
+                    "મેઘ"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "ભેગાં",
+                  "vilom": "છૂટાં"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "જાતિ",
+                  "udaharan": "ટીપું, વાદળું, ખાબોચિયું, નાનકડું",
+                  "note": "આ બધાં નામને છેડે ‘ઉં’ પ્રત્યય લાગ્યો છે, એટલે એ નપુંસકલિંગ છે — પાઠને અંતે છપાયેલી પેટી લિંગને આ જ રીતે ઓળખાવે છે. ‘ટીપું’ એકવચન છે ને ‘ટીપાં’ બહુવચન, એટલે સાથેનું ક્રિયાપદ પણ ‘આવેલું હતું’ અને ‘આવ્યાં હતાં’ એમ બદલાય છે."
+                }
+              ]
+            },
+            {
+              "media": [
+                {
+                  "id": "M1.S1.T2.C2.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "દરિયામાં ટીપું ને માછલી",
+                  "description": "દરિયાના ભૂરા પાણીમાં માછલીઓ વચ્ચે ફરતાં ટીપાં, એક માછલીના કાનમાંથી બહાર નીકળતું હસતું ટીપું, ને દૂર માથું બહાર કાઢીને ફુવારો ઉડાડતી મોટી માછલી.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "concept_id": "M1.S1.T2.C2",
+                  "home_concept_id": "M1.S1.T2.C2",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "આ ચિત્ર દરિયામાં ટીપાંની મજા બતાવે છે; બાળકોને પૂછો કે માછલી ટીપાનું શું કરે છે અને પ્રાણવાયુ કોને કહેવાય — જવાબ છાપેલી શબ્દાર્થપેટીના શબ્દોમાં જ લેવો, અને માછલીનું નામ પાડવાની જરૂર નથી.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, numerals or digits anywhere in the frame, water-cycle science diagram, labelled arrows or callouts, infographic chart, comic-strip speech bubbles, motivational poster layout, text banner with a moral, moral lesson panel, named whale shark or dolphin species, aquarium glass, scuba diver, coral-reef postcard styling",
+                  "generation_prompt": "Underwater in the shallow sunlit sea just off a Gujarat coast: bright blue-green water, shafts of light coming down, pale sand and a few rounded stones below. A shoal of small silver fish drifts through the middle of the frame and living water drops swim happily among them; one small fish has just taken a drop into its mouth while another drop is slipping out from the gill slit behind the fish's head, unhurt and grinning. The water drops are palm-sized living characters: rounded translucent blue-grey teardrop bodies with a soft glassy sheen, large round dark eyes, small expressive mouths, and thin simple arms and hands; they wear no clothes and have no hair. In the distance, seen through the water, one very large dark fish has pushed its head above the surface and thrown up a tall white spout; the black hull of a wooden fishing boat floats overhead. Playful, warm, friendly mood. Along the bottom edge a plain cream narrator bar lettered in Gujarati script with exactly this line and nothing else: હું તો દરિયામાંથી આવ્યું. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "summary": "દરિયામાંથી આવેલું ટીપું કહે છે કે એ ભાઈબંધો સાથે દરિયામાં આમતેમ ફરતું હતું. માછલી ટીપાંને પી જતી ને કાનમાંથી બહાર કાઢતી, ને પાણીમાંનો પ્રાણવાયુ લઈ લે એટલે ટીપાંને એ પાછો મેળવી લેવો પડતો. મોટી માછલી લાખો ટીપાં પી જતી ને દરિયાની બહાર માથું કાઢી ફુવારો ઉડાડતી, ને ટીપાંને એ બહુ ગમતું હતું.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "દરિયાના પાણીમાં માછલી, પ્રાણવાયુ ને ફુવારો",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "દરિયામાંથી આવેલું ટીપું પોતાના ઘરની વાત માંડે છે, ને એ વાતમાં દરિયાના પાણીનું તથ્ય મળે છે : પાણી અને એમાં રહેતાં જીવ સાથે જ રહે છે. ટીપું ભાઈબંધો — એટલે દોસ્તો — સાથે આમતેમ ફરતું હતું.",
+                      "publication_text": "દરિયામાંથી આવેલું ટીપું પોતાના ઘરની વાત માંડે છે, ને એ વાતમાં દરિયાના પાણીનું તથ્ય મળે છે : પાણી અને એમાં રહેતાં જીવ સાથે જ રહે છે. ટીપું ભાઈબંધો — એટલે દોસ્તો — સાથે આમતેમ ફરતું હતું."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "માછલી ટીપાંને પી જતી અને કાનમાંથી બહાર કાઢતી. પાણીમાંનો પ્રાણવાયુ, એટલે કે જીવન ટકાવવા માટેનો વાયુ ઓક્સિજન, માછલી લઈ લે એટલે ટીપાંને એ પાછો મેળવી લેવો પડતો. પાઠ માછલીનું નામ ક્યાંય આપતો નથી — એ ફક્ત ‘કોઈ મોટી માછલી’ કહે છે.",
+                      "publication_text": "માછલી ટીપાંને પી જતી અને કાનમાંથી બહાર કાઢતી. પાણીમાંનો પ્રાણવાયુ, એટલે કે જીવન ટકાવવા માટેનો વાયુ ઓક્સિજન, માછલી લઈ લે એટલે ટીપાંને એ પાછો મેળવી લેવો પડતો. પાઠ માછલીનું નામ ક્યાંય આપતો નથી — એ ફક્ત ‘કોઈ મોટી માછલી’ કહે છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "ટીપું ભાઈબંધો સાથે દરિયામાં આમતેમ ફરે છે.",
+                        "માછલી ટીપાંને પી જાય છે ને કાનમાંથી બહાર કાઢે છે.",
+                        "માછલી પ્રાણવાયુ લઈ લે એટલે ટીપાંને એ પાછો મેળવી લેવો પડે છે.",
+                        "મોટી માછલી લાખો ટીપાં પી જાય છે ને પછી ફુવારો ઉડાડે છે."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "topic_id": "M1.S1.T2",
+              "key_terms": [
+                "પ્રાણવાયુ — જીવન ટકાવવા માટેનો વાયુ, ઓક્સિજન.",
+                "ભાઈબંધ — મિત્ર, દોસ્ત.",
+                "આમતેમ — આ બાજુ ને તે બાજુ, અહીંતહીં.",
+                "એકી સાથે — બધું એક જ વખતે, સાથે ને સાથે.",
+                "ફુવારો — ઊંચે ઊડતી પાણીની ધાર."
+              ],
+              "depends_on": [],
+              "difficulty": "medium",
+              "topic_name": "દરિયામાં ટીપાંનું જીવન — માછલી અને પ્રાણવાયુ",
+              "topic_type": "CONCEPT",
+              "word_count": {
+                "original": 70
+              },
+              "explanation": "આ ખંડનું તથ્ય એ છે કે દરિયાનું પાણી અને એમાં રહેતાં જીવ સાથે જ રહે છે. દરિયામાંથી આવેલું ટીપું કહે છે કે એ ભાઈબંધો — એટલે દોસ્તો — સાથે આમતેમ ફરતું હતું. વચ્ચે માછલી ટીપાંને પી જતી ને કાનમાંથી બહાર કાઢતી, ને પાણીમાંનો પ્રાણવાયુ, એટલે કે જીવન ટકાવવા માટેનો વાયુ ઓક્સિજન, લઈ લે એટલે ટીપાંને એ પાછો મેળવી લેવો પડતો. મોટી માછલી લાખો ટીપાં પી જાય ને ફુવારો ઉડાડે. ને ટીપું પોતે કહે છે : ‘‘અમને બધાંને એ બહુ ગમતું હતું.’’",
+              "brief_summary": "દરિયામાંથી આવેલું ટીપું પોતાના ઘરની વાત કરે છે — માછલી ટીપાંને પી જાય, પ્રાણવાયુ લઈ લે ને મોટી માછલી ફુવારો ઉડાડે, ને છતાં ટીપાંને એ બધું ગમતું હતું.",
+              "objective_ids": [
+                "O2"
+              ],
+              "modified_chunk": "દરિયામાંથી આવેલું ટીપું પોતાની વાત માંડે છે. એ કહે છે કે દરિયામાં એ પોતાના ભાઈબંધો (દોસ્તો) સાથે આમતેમ ફરતું હતું. વચ્ચે માછલી ટીપાંને પી જતી અને કાનમાંથી બહાર કાઢતી, અને ટીપાંમાંથી પ્રાણવાયુ (ઓક્સિજન) લઈ લે એટલે ટીપાંને એ પાછો મેળવી લેવો પડતો. મોટી માછલી તો એકી સાથે લાખો ટીપાં પી જતી અને પછી દરિયાની બહાર માથું કાઢીને ફુવારો ઉડાડતી — ટીપાંને એ બહુ ગમતું.",
+              "original_chunk": "દરિયામાંથી આવેલું ટીપું બોલ્યું,\n‘‘ભાઈ, હું તો દરિયામાંથી આવ્યું, પૂછો કેવી રીતે ?’’\n‘‘કેવી રીતે ?’’\n‘‘એ તો હું દરિયામાં આમતેમ બીજા ભાઈબંધો સાથે ફરતું હતું. અમારામાંથી કોઈને માછલી પી જતી હતી અને કાનમાંથી બહાર કાઢતી. અમારામાંથી પ્રાણવાયુ કાઢી લે એટલે અમારે પાછો મેળવી લેવો પડતો. કોઈ મોટી માછલી તો એકી સાથે અમારામાંથી લાખોને પી જાય અને પછી દરિયાની બહાર માથું કાઢી ફુવારો ઉડાડે. અમને બધાંને એ બહુ ગમતું હતું.’’",
+              "topic_category": "core",
+              "concept_bullets": [
+                "પ્રાણવાયુ — જીવન ટકાવવા માટેનો વાયુ, ઓક્સિજન; પાણીમાં રહેતાં જીવને એ કામ લાગે છે.",
+                "ભાઈબંધ — મિત્ર, દોસ્ત; ટીપું દરિયામાં ભાઈબંધો સાથે ફરતું હતું.",
+                "ફુવારો — ઊંચે ઊડતી પાણીની ધાર; મોટી માછલી માથું બહાર કાઢીને ઉડાડે છે.",
+                "આમતેમ — આ બાજુ ને તે બાજુ, અહીંતહીં."
+              ],
+              "detailed_summary": "દરિયામાંથી આવેલું ટીપું બીજાં ટીપાંને પોતાની વાત માંડે છે. એ કહે છે કે દરિયામાં એ પોતાના ભાઈબંધો સાથે આમતેમ ફરતું હતું. ત્યાં માછલી ટીપાંને પી જતી અને કાનમાંથી બહાર કાઢતી. પાણીમાંનો પ્રાણવાયુ — જીવન ટકાવવા માટેનો વાયુ, ઓક્સિજન — માછલી લઈ લે એટલે ટીપાંને એ પાછો મેળવી લેવો પડતો. કોઈ મોટી માછલી તો એકી સાથે લાખો ટીપાં પી જતી અને પછી દરિયાની બહાર માથું કાઢીને ફુવારો ઉડાડતી. આ બધું છતાં ટીપું પોતે કહે છે કે અમને બધાંને એ બહુ ગમતું હતું — એટલે આ આફતની નહીં, દરિયામાં સાથે રહેવાની વાત છે.",
+              "important_points": [
+                "દરિયો એટલે ઘર — પાણી અને એમાં રહેતાં જીવ સાથે જ રહે છે.",
+                "લાખો ટીપાં — પાઠ સંખ્યા આટલી જ કહે છે, ને માછલીનું નામ ક્યાંય આપતો નથી.",
+                "ટીપાંનો પોતાનો અભિપ્રાય — ‘‘અમને બધાંને એ બહુ ગમતું હતું.’’",
+                "વાક્યપ્રયોગ — પ્રાણવાયુ, દરિયો, તળાવ જેવા શબ્દોથી વાક્યો બનાવવાનું કામ સ્વાધ્યાયમાં આવે છે."
+              ],
+              "publication_text": "આ ખંડનું તથ્ય એ છે કે દરિયાનું પાણી અને એમાં રહેતાં જીવ સાથે જ રહે છે. દરિયામાંથી આવેલું ટીપું કહે છે કે એ ભાઈબંધો — એટલે દોસ્તો — સાથે આમતેમ ફરતું હતું. વચ્ચે માછલી ટીપાંને પી જતી ને કાનમાંથી બહાર કાઢતી, ને પાણીમાંનો પ્રાણવાયુ, એટલે કે જીવન ટકાવવા માટેનો વાયુ ઓક્સિજન, લઈ લે એટલે ટીપાંને એ પાછો મેળવી લેવો પડતો. મોટી માછલી લાખો ટીપાં પી જાય ને ફુવારો ઉડાડે. ને ટીપું પોતે કહે છે : ‘‘અમને બધાંને એ બહુ ગમતું હતું.’’",
+              "recall_questions": [
+                {
+                  "id": "M1.S1.T2.RQ1",
+                  "legacy_id": "M1.S1.T2.TR1",
+                  "prompt": "દરિયામાં માછલી ટીપાં સાથે શું શું કરતી હતી ? બે વાત લખો.",
+                  "answer": "માછલી ટીપાંને પી જતી હતી અને કાનમાંથી બહાર કાઢતી હતી. ટીપાંમાંથી પ્રાણવાયુ પણ કાઢી લેતી, એટલે ટીપાંને એ પાછો મેળવી લેવો પડતો.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M1.S1.T2.RQ2",
+                  "legacy_id": "M1.S1.T2.TR2",
+                  "prompt": "‘પ્રાણવાયુ’ એટલે શું, ને દરિયાનાં ટીપાંની વાતમાં એ ક્યાં આવે છે ?",
+                  "answer": "પ્રાણવાયુ એટલે જીવન ટકાવવા માટેનો વાયુ, ઓક્સિજન. ટીપું કહે છે કે માછલી ‘‘અમારામાંથી પ્રાણવાયુ કાઢી લે એટલે અમારે પાછો મેળવી લેવો પડતો.’’",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M1.S1.T2.RQ3",
+                  "legacy_id": "M1.S1.T2.TR3",
+                  "prompt": "આ આખી વાત ટીપાંને કેવી લાગતી હતી ? પાઠનું જે વાક્ય એ કહી દે છે તે શોધીને લખો.",
+                  "answer": "ટીપાંને એ બધું ગમતું હતું. પાઠનું વાક્ય છે — ‘‘અમને બધાંને એ બહુ ગમતું હતું.’’ એટલે આ ડરની નહીં, દરિયામાં સાથે રહેવાની મજાની વાત છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                }
+              ],
+              "source_topic_ids": [],
+              "publication_chunk": "દરિયામાંથી આવેલું ટીપું બોલ્યું,\n‘‘ભાઈ, હું તો દરિયામાંથી આવ્યું, પૂછો કેવી રીતે ?’’\n‘‘કેવી રીતે ?’’\n‘‘એ તો હું દરિયામાં આમતેમ બીજા ભાઈબંધો સાથે ફરતું હતું. અમારામાંથી કોઈને માછલી પી જતી હતી અને કાનમાંથી બહાર કાઢતી. અમારામાંથી પ્રાણવાયુ કાઢી લે એટલે અમારે પાછો મેળવી લેવો પડતો. કોઈ મોટી માછલી તો એકી સાથે અમારામાંથી લાખોને પી જાય અને પછી દરિયાની બહાર માથું કાઢી ફુવારો ઉડાડે. અમને બધાંને એ બહુ ગમતું હતું.’’\n\nઆ ખંડનું તથ્ય એ છે કે દરિયાનું પાણી અને એમાં રહેતાં જીવ સાથે જ રહે છે. દરિયામાંથી આવેલું ટીપું કહે છે કે એ ભાઈબંધો — એટલે દોસ્તો — સાથે આમતેમ ફરતું હતું. વચ્ચે માછલી ટીપાંને પી જતી ને કાનમાંથી બહાર કાઢતી, ને પાણીમાંનો પ્રાણવાયુ, એટલે કે જીવન ટકાવવા માટેનો વાયુ ઓક્સિજન, લઈ લે એટલે ટીપાંને એ પાછો મેળવી લેવો પડતો. મોટી માછલી લાખો ટીપાં પી જાય ને ફુવારો ઉડાડે. ને ટીપું પોતે કહે છે : ‘‘અમને બધાંને એ બહુ ગમતું હતું.’’\n\nસાંજે શેરીમાં ક્રિકેટ રમવા ઊભેલા નાના છોકરાનો દાવ છેલ્લે આવે છે. મોટા છોકરાં એને બૉલ લેવા છેક નાકા સુધી દોડાવે છે, ને બૅટ હાથમાં આવે ત્યાં તો અંધારું થઈ જાય છે. તોય બીજા દિવસે સાંજે એ જ થાંભલા પાસે એ પાછો ઊભો હોય છે, કારણ કે મજા એ શેરીમાં જ છે. દરિયાનું ટીપું પણ પોતાના ઘરની આ ધમાલ વિશે એ જ કહે છે.",
+              "real_life_example": "સાંજે શેરીમાં ક્રિકેટ રમવા ઊભા રહો ને તમે નાના હો, તો દાવ છેલ્લે આવે. મોટા છોકરાં તમને બૉલ લેવા છેક નાકા સુધી દોડાવે, ને બૅટ હાથમાં આવે ત્યાં તો અંધારું થઈ જાય. તોય બીજા દિવસે સાંજે તમે એ જ થાંભલા પાસે પાછા ઊભા હો છો, કારણ કે મજા એ શેરીમાં જ છે. દરિયાનું ટીપું પણ પોતાના ઘરની આ ધમાલ વિશે એ જ કહે છે. તમારી શેરીની કઈ રમત તમને સૌથી વધારે ગમે છે?",
+              "estimated_exchanges": "4",
+              "learning_objectives": [
+                {
+                  "objective_id": "O2",
+                  "legacy_id": "L2",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "દરિયામાં ટીપાં સાથે શું શું થતું હતું — માછલી પી જવી, અમારામાંથી પ્રાણવાયુ કાઢી લેવો, મોટી માછલીનો ફુવારો — તે ટીપાની પોતાની વાત પરથી કહેવું.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M1.S1.T2",
+                  "anchor": [
+                    "M1.S1.T2.C2"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "primary_content_type": "image",
+              "tertiary_content_type": null,
+              "secondary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "પ્રાણવાયુ",
+                  "arth": "જીવન ટકાવવા માટેનો વાયુ, ઓક્સિજન",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "ભાઈબંધ",
+                  "arth": "મિત્ર, દોસ્ત",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "આમતેમ",
+                  "arth": "આ બાજુ ને તે બાજુ, અહીંતહીં",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "લાખો",
+                  "arth": "ગણી ન શકાય એટલાં ઘણાં",
+                  "prakar": "તદ્ભવ"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "ભાઈબંધ",
+                  "samanarthi": [
+                    "મિત્ર",
+                    "દોસ્ત",
+                    "ગોઠિયો"
+                  ]
+                },
+                {
+                  "shabd": "દરિયો",
+                  "samanarthi": [
+                    "સાગર",
+                    "સમુદ્ર"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "મોટી",
+                  "vilom": "નાની"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "નામ",
+                  "udaharan": "દરિયો, માછલી, ભાઈબંધ, ફુવારો",
+                  "note": "આ ચારેય જાતિવાચક નામ છે — એક જ જાતની બધી વસ્તુ કે બધા જીવને લાગુ પડે એવાં નામ. નામ ઓળખાય એટલે એનું લિંગ પણ ઓળખાય : ‘દરિયો’ પુંલ્લિંગ છે ને ‘માછલી’ સ્ત્રીલિંગ."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "ગરમી, હલકાં ટીપાં અને કાળુંડિબાંગ વાદળું",
+          "topics": [
+            {
+              "media": [
+                {
+                  "id": "M1.S2.T3.C3.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "ગરમીમાં ઊંચે ચઢતાં ટીપાં",
+                  "description": "ધોમ ધખતી ગરમીમાં ખુલ્લા મેદાનમાં ધીમે વહેતી નદીના પાણી પરથી હલકાં થઈને હારબંધ ઊંચે ચઢતાં ટીપાં, ને એક અનુભવી ટીપું બીતાં ટીપાંને ધીરજ આપે છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "concept_id": "M1.S2.T3.C3",
+                  "home_concept_id": "M1.S2.T3.C3",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર જોતાં પહેલાં પૂછો — ગરમી પડી એટલે ટીપાંનું શું થયું ? પાઠના જ શબ્દો ‘સાવ હલકાં થઈ ગયાં’ ને ‘હવામાં અધ્ધર જવા લાગ્યાં’ બોલાવો, અને એની જગ્યાએ બીજો કોઈ શબ્દ મૂકવો નહીં.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, numerals or digits anywhere in the frame, water-cycle science diagram, labelled arrows or callouts, infographic chart, comic-strip speech bubbles, motivational poster layout, text banner with a moral, moral lesson panel, steam or vapour clouds drawn as laboratory smoke, thermometer, sun with a drawn face, desert dunes",
+                  "generation_prompt": "A blazing summer noon on an open plain in Gujarat, just before the rains break: dry pale-brown earth, a shallow river moving slowly and thinly across the flat ground, low rocky hills behind it, a single thorny babul tree giving almost no shade, and a small tin-roofed hut far off under a bleached white sky with visible heat shimmer. Living water drops are lifting off the surface of the shallow water and rising in a wavering line into the air, arms out, several of them looking down with wide frightened eyes, while one older drop higher up turns back towards them with a calm face and an open steadying palm. The water drops are palm-sized living characters: rounded translucent blue-grey teardrop bodies with a soft glassy sheen, large round dark eyes, small expressive mouths, and thin simple arms and hands; they wear no clothes and have no hair. Hot, breathless, anxious mood; bright bleached light. Along the bottom edge a plain cream narrator bar lettered in Gujarati script with exactly this line and nothing else: અમે તો સાવ હલકાં થઈ ગયાં. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "summary": "દરિયાનું ટીપું કહે છે કે મે મહિનાની ગરમીમાં એ સપાટી પર હવા લેવા આવ્યું ને સાવ હલકું થઈને હવામાં અધ્ધર જવા લાગ્યું. ઊંચે જતાં એને બીક લાગી, પણ અનુભવી ટીપાંએ કહ્યું કે બીવાની કશી જરૂર નથી. નદીવાળું ટીપું પણ મેદાનની ગરમીની બરાબર એ જ વાત કરે છે — પ્રક્રિયા બંને વખતે એક જ છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "ગરમી પડે એટલે પાણી હલકું થઈ ઊંચે ચઢે",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "આ ખંડ પાઠનું સૌથી મોટું પગલું આપે છે, ને એ પાઠના પોતાના શબ્દોમાં જ છે : ગરમી પડે એટલે પાણી ‘‘સાવ હલકાં થઈ’’ જાય છે અને ‘‘હવામાં અધ્ધર’’ જવા લાગે છે. અધ્ધર એટલે જમીનથી ઊંચે, હવામાં લટકતું.",
+                      "publication_text": "આ ખંડ પાઠનું સૌથી મોટું પગલું આપે છે, ને એ પાઠના પોતાના શબ્દોમાં જ છે : ગરમી પડે એટલે પાણી ‘‘સાવ હલકાં થઈ’’ જાય છે અને ‘‘હવામાં અધ્ધર’’ જવા લાગે છે. અધ્ધર એટલે જમીનથી ઊંચે, હવામાં લટકતું."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "દરિયાનું ટીપું મે મહિનાની ગરમીની વાત કરે છે અને નદીવાળું ટીપું મેદાનવાળા ભાગની ગરમીની. બંનેની જગ્યા જુદી છે, પણ પગલું એક જ છે — ગરમી, પછી હલકાં થવું, પછી ઊંચે ને ઊંચે જવું. પાઠ એક જ વાત બે ટીપાંના મોઢે કહેવડાવે છે, એટલે એ બરાબર બેસી જાય છે.",
+                      "publication_text": "દરિયાનું ટીપું મે મહિનાની ગરમીની વાત કરે છે અને નદીવાળું ટીપું મેદાનવાળા ભાગની ગરમીની. બંનેની જગ્યા જુદી છે, પણ પગલું એક જ છે — ગરમી, પછી હલકાં થવું, પછી ઊંચે ને ઊંચે જવું. પાઠ એક જ વાત બે ટીપાંના મોઢે કહેવડાવે છે, એટલે એ બરાબર બેસી જાય છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "ગરમી પડી — દરિયામાં અને મેદાનમાં, બંને જગ્યાએ.",
+                        "ટીપાં સાવ હલકાં થઈ ગયાં.",
+                        "ટીપાં હવામાં અધ્ધર જવા લાગ્યાં.",
+                        "ઊંચે ને ઊંચે જતાં બીક લાગી, ને અનુભવી ટીપાંએ હિંમત આપી."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "topic_id": "M1.S2.T3",
+              "key_terms": [
+                "સપાટી — પાણીની સૌથી ઉપરની બાજુ, ઉપરનું પડ.",
+                "અધ્ધર — જમીનથી ઊંચે, હવામાં લટકતું.",
+                "અનુભવી — જેણે અગાઉ જોયું-જાણ્યું હોય એવું, જાણકાર.",
+                "ડુંગર — પહાડ, ઊંચી ટેકરી.",
+                "મેદાન — ખુલ્લી અને સપાટ જમીન."
+              ],
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "difficulty": "medium",
+              "topic_name": "ગરમી પડતાં હલકાં થઈ ઊંચે ચઢતાં ટીપાં",
+              "topic_type": "CONCEPT",
+              "word_count": {
+                "original": 170
+              },
+              "explanation": "બાળકો, પાઠનું સૌથી મોટું પગલું અહીં છે : ગરમી પડે એટલે પાણી ‘‘સાવ હલકાં થઈ’’ જાય છે ને ‘‘હવામાં અધ્ધર’’ જવા લાગે છે. અધ્ધર એટલે જમીનથી ઊંચે, હવામાં લટકતું. વચ્ચે દરિયાનું ટીપું બોલી ઊઠે છે ‘‘અમારા તો રામ રમી ગયા’’ — એટલે અમારું તો આવી બન્યું, અમે તો ખલાસ; આ રૂઢિપ્રયોગ છે, રામની વાત નથી. પછી નદીવાળું ટીપું મેદાનની ગરમીની એ જ વાત કરે છે. બે જુદાં ટીપાં, પણ પગલું એક જ.",
+              "brief_summary": "ગરમી પડતાં દરિયાનું ને નદીનું પાણી સાવ હલકું થઈને હવામાં અધ્ધર જવા લાગે છે અને ઊંચે ને ઊંચે ચઢી જાય છે.",
+              "objective_ids": [
+                "O3"
+              ],
+              "modified_chunk": "બીજાં ટીપાં દરિયાવાળા ટીપાને કહે છે કે લાંબી વાતો રહેવા દે અને વાદળ સુધી પહોંચ્યું કેવી રીતે તે કહે. એ કહે છે કે મે મહિનામાં એટલી ગરમી પડી કે દરિયાની સપાટી (પાણીના ઉપરના પડ) પરનાં ટીપાં સાવ હલકાં થઈ ગયાં ને હવામાં અધ્ધર (ઊંચે) જવા લાગ્યાં; ઊંચે જતાં બીક લાગી, પણ અનુભવી ટીપાંએ હિંમત આપી. નદીવાળું ટીપું પણ બરાબર આ જ વાત કહે છે — ડુંગર પરથી દોડતું આવેલું એ મેદાનમાં ધીમું પડ્યું, ત્યાં એટલી ગરમી પડી કે એ પણ અધ્ધર થઈને ઉપર ને ઉપર જવા માંડ્યું.",
+              "original_chunk": "‘‘બહુ લાંબી દરિયા જેવડી વાતો રહેવા દે. અહીંયાં કેવી રીતે આવ્યું તે કહે.’’\n‘‘એ જ તો કહું છું. મે મહિનો આવ્યો અને એટલી ગરમી પડી કે ન પૂછો વાત. અમે દરિયાની સપાટી પર હવા લેવા આવ્યાં અને શું કહું કે અમારા તો રામ રમી ગયા. અમે તો સાવ હલકાં થઈ ગયાં અને હવામાં અધ્ધર જવા લાગ્યાં. ઊંચે ઊંચે જવા માંડ્યાં. જેમ ઉપર જઈએ તેમ બહુ બીક લાગવા માંડી. અમારામાંથી થોડાંક અનુભવી હતાં, એમણે કહ્યું કે બીવાની કશી જરૂર નથી. પાછાં દરિયામાં આવી જઈશું, પણ બીક તો ગઈ નહીં. હવે ઊંચે આવીને આ વાદળામાં ભરાયાં છીએ. ખબર નથી ક્યારે પાછાં ઘરે જઈશું.’’\nનદીવાળા ટીપાનું પણ આવું જ કહેવું હતું. એ બોલ્યું;\n‘‘હા, અમારે પણ બિલકુલ એવું જ થયું. અમે ડુંગર પરથી દોડતાં દોડતાં આવતાં હતાં. જરા થાક લાગ્યો એટલે મેદાનવાળા ભાગમાં જરા ધીમાં પડ્યાં. ત્યાં તો ગરમી કેટલી પડી ખબર છે ? કોઈ કહેતું હતું કે 44 ડિગ્રી ! આપણો જીવ તો અધ્ધર થઈ ગયો. અને શું કહું, થોડીક વારમાં તો અમે પણ અધ્ધર થઈ ગયાં. ઉપર ને ઉપર જવા માંડ્યાં.",
+              "topic_category": "core",
+              "concept_bullets": [
+                "ગરમી — ગરમી પડે એટલે પાણી ‘‘સાવ હલકાં’’ થઈ જાય છે.",
+                "અધ્ધર — જમીનથી ઊંચે, હવામાં લટકતું; હલકાં થયેલાં ટીપાં હવામાં અધ્ધર જવા લાગે છે.",
+                "સપાટી — પાણીની સૌથી ઉપરની બાજુ; ટીપાં ત્યાં હવા લેવા આવ્યાં હતાં.",
+                "એક જ પગલું — દરિયાના ટીપાની ને નદીવાળા ટીપાની વાત જુદી, પણ પ્રક્રિયા એક જ."
+              ],
+              "detailed_summary": "બીજાં ટીપાં દરિયાવાળા ટીપાને કહે છે કે લાંબી વાતો રહેવા દે અને વાદળ સુધી પહોંચ્યું કેવી રીતે તે કહે. એ કહે છે કે મે મહિનામાં એટલી ગરમી પડી કે દરિયાની સપાટી પર હવા લેવા આવેલાં ટીપાં સાવ હલકાં થઈ ગયાં અને હવામાં અધ્ધર જવા લાગ્યાં. ઊંચે ને ઊંચે જતાં એમને બીક લાગવા માંડી, ને અનુભવી ટીપાંએ કહ્યું કે બીવાની કશી જરૂર નથી, પાછાં દરિયામાં આવી જઈશું. તોય બીક ગઈ નહીં અને હવે એ વાદળામાં ભરાયાં છે. પછી નદીવાળું ટીપું બરાબર આ જ વાત કરે છે : ડુંગર પરથી દોડતું આવેલું એ મેદાનમાં ધીમું પડ્યું, ત્યાં એટલી ગરમી પડી કે એ પણ અધ્ધર થઈને ઉપર ને ઉપર જવા માંડ્યું. બે જુદાં ટીપાંની વાત, પણ પગલું એક જ.",
+              "important_points": [
+                "રામ રમી ગયા — આવી બન્યું, ખલાસ થઈ ગયા; આ રૂઢિપ્રયોગ છે, રામની વાત નથી.",
+                "ઊંચે જતાં બીક — અનુભવી ટીપાંએ કહ્યું કે બીવાની કશી જરૂર નથી.",
+                "બે વાર એક જ વાત — પાઠ પ્રક્રિયા બે જુદાં ટીપાંના મોઢે બે વાર કહેવડાવે છે, એટલે એ યાદ રહી જાય છે.",
+                "ડુંગરથી મેદાન — નદીનું પાણી ડુંગર પરથી દોડતું આવે છે ને મેદાનમાં ધીમું પડે છે."
+              ],
+              "publication_text": "પાઠનું સૌથી મોટું પગલું અહીં છે : ગરમી પડે એટલે પાણી ‘‘સાવ હલકાં થઈ’’ જાય છે ને ‘‘હવામાં અધ્ધર’’ જવા લાગે છે. અધ્ધર એટલે જમીનથી ઊંચે, હવામાં લટકતું. વચ્ચે દરિયાનું ટીપું બોલી ઊઠે છે ‘‘અમારા તો રામ રમી ગયા’’ — એટલે અમારું તો આવી બન્યું, અમે તો ખલાસ; આ રૂઢિપ્રયોગ છે, રામની વાત નથી. પછી નદીવાળું ટીપું મેદાનની ગરમીની એ જ વાત કરે છે. બે જુદાં ટીપાં, પણ પગલું એક જ.",
+              "recall_questions": [
+                {
+                  "id": "M1.S2.T3.RQ1",
+                  "legacy_id": "M1.S2.T3.TR1",
+                  "prompt": "ગરમી પડી ત્યારે દરિયાની સપાટી પરનાં ટીપાંનું શું થયું ? પાઠના શબ્દોમાં લખો.",
+                  "answer": "‘‘અમે તો સાવ હલકાં થઈ ગયાં અને હવામાં અધ્ધર જવા લાગ્યાં. ઊંચે ઊંચે જવા માંડ્યાં.’’",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M1.S2.T3.RQ2",
+                  "legacy_id": "M1.S2.T3.TR2",
+                  "prompt": "દરિયાના ટીપાની વાત ને નદીવાળા ટીપાની વાત — બેમાં કઈ વાત સરખી છે ? બંનેમાંથી એક-એક વાક્ય શોધીને લખો.",
+                  "answer": "બંનેમાં ગરમી પડી ને બંને અધ્ધર થઈને ઊંચે ચઢી ગયાં — પગલું એક જ છે. દરિયાનું ટીપું કહે છે ‘‘અમે તો સાવ હલકાં થઈ ગયાં અને હવામાં અધ્ધર જવા લાગ્યાં.’’ અને નદીવાળું ટીપું કહે છે ‘‘થોડીક વારમાં તો અમે પણ અધ્ધર થઈ ગયાં. ઉપર ને ઉપર જવા માંડ્યાં.’’",
+                  "difficulty": "hard",
+                  "bloom_level": "analyze"
+                },
+                {
+                  "id": "M1.S2.T3.RQ3",
+                  "legacy_id": "M1.S2.T3.TR3",
+                  "prompt": "ઊંચે જતાં ટીપાંને બીક લાગી ત્યારે અનુભવી ટીપાંએ એમને શું કહ્યું ?",
+                  "answer": "એમણે કહ્યું કે બીવાની કશી જરૂર નથી, પાછાં દરિયામાં આવી જઈશું. તોય પાઠ કહે છે કે ‘‘બીક તો ગઈ નહીં.’’",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                }
+              ],
+              "source_topic_ids": [],
+              "publication_chunk": "‘‘બહુ લાંબી દરિયા જેવડી વાતો રહેવા દે. અહીંયાં કેવી રીતે આવ્યું તે કહે.’’\n‘‘એ જ તો કહું છું. મે મહિનો આવ્યો અને એટલી ગરમી પડી કે ન પૂછો વાત. અમે દરિયાની સપાટી પર હવા લેવા આવ્યાં અને શું કહું કે અમારા તો રામ રમી ગયા. અમે તો સાવ હલકાં થઈ ગયાં અને હવામાં અધ્ધર જવા લાગ્યાં. ઊંચે ઊંચે જવા માંડ્યાં. જેમ ઉપર જઈએ તેમ બહુ બીક લાગવા માંડી. અમારામાંથી થોડાંક અનુભવી હતાં, એમણે કહ્યું કે બીવાની કશી જરૂર નથી. પાછાં દરિયામાં આવી જઈશું, પણ બીક તો ગઈ નહીં. હવે ઊંચે આવીને આ વાદળામાં ભરાયાં છીએ. ખબર નથી ક્યારે પાછાં ઘરે જઈશું.’’\nનદીવાળા ટીપાનું પણ આવું જ કહેવું હતું. એ બોલ્યું;\n‘‘હા, અમારે પણ બિલકુલ એવું જ થયું. અમે ડુંગર પરથી દોડતાં દોડતાં આવતાં હતાં. જરા થાક લાગ્યો એટલે મેદાનવાળા ભાગમાં જરા ધીમાં પડ્યાં. ત્યાં તો ગરમી કેટલી પડી ખબર છે ? કોઈ કહેતું હતું કે 44 ડિગ્રી ! આપણો જીવ તો અધ્ધર થઈ ગયો. અને શું કહું, થોડીક વારમાં તો અમે પણ અધ્ધર થઈ ગયાં. ઉપર ને ઉપર જવા માંડ્યાં.\n\nપાઠનું સૌથી મોટું પગલું અહીં છે : ગરમી પડે એટલે પાણી ‘‘સાવ હલકાં થઈ’’ જાય છે ને ‘‘હવામાં અધ્ધર’’ જવા લાગે છે. અધ્ધર એટલે જમીનથી ઊંચે, હવામાં લટકતું. વચ્ચે દરિયાનું ટીપું બોલી ઊઠે છે ‘‘અમારા તો રામ રમી ગયા’’ — એટલે અમારું તો આવી બન્યું, અમે તો ખલાસ; આ રૂઢિપ્રયોગ છે, રામની વાત નથી. પછી નદીવાળું ટીપું મેદાનની ગરમીની એ જ વાત કરે છે. બે જુદાં ટીપાં, પણ પગલું એક જ.\n\nગિરનારની તળેટીએથી ઉપર જોઈએ તો પગથિયાં છેક વાદળાં સુધી ચઢતાં લાગે છે. ચઢવા માંડીએ ત્યારે પહેલાં તો મજા આવે છે, પણ અડધે પહોંચીને નીચે નજર જાય ને પગ ધ્રૂજવા માંડે છે. સાથે ચઢતાં કોઈ મોટેરાં કહે, ‘બે ઘડી બેસ, પાણી પી લે, પહોંચી જવાશે’ — ને હિંમત પાછી આવે છે. ઊંચે જતાં બીતાં ટીપાંને અનુભવી ટીપાંએ પણ આવો જ હોંકારો આપ્યો હતો.",
+              "real_life_example": "ગિરનારની તળેટીએ ઊભા રહીને ઉપર જુઓ તો પગથિયાં છેક વાદળાં સુધી ચઢતાં લાગે. ચઢવા માંડો ત્યારે પહેલાં તો મજા આવે, પણ અડધે પહોંચીને નીચે નજર જાય ને પગ ધ્રૂજવા માંડે. સાથે ચઢતાં કોઈ મોટેરાં કહે, ‘બે ઘડી બેસ, પાણી પી લે, પહોંચી જવાશે’ — ને હિંમત પાછી આવે. ઊંચે જતાં બીતાં ટીપાંને અનુભવી ટીપાંએ પણ આવો જ હોંકારો આપ્યો હતો. તમે સૌથી ઊંચે ક્યાં ચઢ્યાં છો?",
+              "estimated_exchanges": "5",
+              "learning_objectives": [
+                {
+                  "objective_id": "O3",
+                  "legacy_id": "L3",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "મે મહિનાની અને મેદાનની ગરમી પડતાં દરિયાનું ને નદીનું પાણી ‘‘સાવ હલકાં થઈ ગયાં’’ ને ઊંચે જવા માંડ્યું — એ એક જ પ્રક્રિયા બંને ટીપાંની વાતમાં ઓળખાવવી.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M1.S2.T3",
+                  "anchor": [
+                    "M1.S2.T3.C3"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "primary_content_type": "image",
+              "tertiary_content_type": null,
+              "secondary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "અધ્ધર",
+                  "arth": "જમીનથી ઊંચે, હવામાં લટકતું",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "ડુંગર",
+                  "arth": "પહાડ, ઊંચી ટેકરી",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "મેદાન",
+                  "arth": "ખુલ્લી અને સપાટ જમીન",
+                  "prakar": "આગત"
+                },
+                {
+                  "shabd": "અનુભવી",
+                  "arth": "જેણે અગાઉ જોયું-જાણ્યું હોય એવું, જાણકાર",
+                  "prakar": "તત્સમ"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "ડુંગર",
+                  "samanarthi": [
+                    "પહાડ",
+                    "પર્વત"
+                  ]
+                },
+                {
+                  "shabd": "બીક",
+                  "samanarthi": [
+                    "ડર",
+                    "ભય"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "હલકાં",
+                  "vilom": "ભારે"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "રૂઢિપ્રયોગ",
+                  "udaharan": "અમારા તો રામ રમી ગયા",
+                  "note": "શબ્દોના સીધા અર્થ પ્રમાણે અહીં કોઈ રમતની વાત નથી. ‘રામ રમી જવા’ એટલે આવી બનવું, ખલાસ થઈ જવું. રૂઢિપ્રયોગનો અર્થ એના શબ્દોના સીધા અર્થથી હંમેશાં જુદો હોય છે, એટલે એ આખો ને આખો શીખવો પડે."
+                }
+              ]
+            },
+            {
+              "media": [
+                {
+                  "id": "M1.S2.T4.C5.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "કાળા વાદળમાં રડતું ટીપું",
+                  "description": "કાળાભૂરા વાદળની અંદર ખીચોખીચ ભરાયેલાં ટીપાં વચ્ચે એક ટીપું રડે છે ને બીજું ટીપું ખભે હાથ મૂકીને એને હેતથી સમજાવે છે; નીચેનું કશું દેખાતું નથી.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "concept_id": "M1.S2.T4.C5",
+                  "home_concept_id": "M1.S2.T4.C5",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "આ ચિત્ર તળાવવાળા ટીપાની ઉદાસી બતાવે છે; વર્ગને પૂછો કે એને શું થાય છે ને બીજું ટીપું એને શું કહે છે — ટીપાને કોઈ લેબલ આપ્યા વગર એની લાગણી હેતથી સમજાવો, અને એનું ઘર પાઠમાં છપાયેલા નામે જ ઓળખાવો.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, numerals or digits anywhere in the frame, water-cycle science diagram, labelled arrows or callouts, infographic chart, comic-strip speech bubbles, motivational poster layout, text banner with a moral, moral lesson panel, any landscape or lake visible below the cloud, cartoon lightning bolt, mocking or comical crying face, tears drawn as gags, emoji faces",
+                  "generation_prompt": "Deep inside an enormous blue-black storm cloud, packed tight with living water drops crowded shoulder to shoulder; the whole cloud is streaming sideways in a strong wind, its edges torn into ribbons, and below there is only more dark cloud — no land, no water, nothing visible at all. In the centre one small drop is crying, real tears running down its glassy body and both hands pressed to its face; a second drop beside it has an arm around its shoulder and is speaking to it gently, while two more look on with soft, worried, kind faces. The water drops are palm-sized living characters: rounded translucent blue-grey teardrop bodies with a soft glassy sheen, large round dark eyes, small expressive mouths, and thin simple arms and hands; they wear no clothes and have no hair. Dim blue light, tender and homesick mood, treated with sympathy and never as a joke. Along the bottom edge a plain cream narrator bar lettered in Gujarati script with exactly this line and nothing else: મારે મારા ઘેર જવું છે. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "summary": "ઊંચે ચઢેલાં ટીપાં કાળાંડિબાંગ વાદળાંમાં ફસાયાં છે અને એટલાં ઊંચે છે કે નીચેનું કશું દેખાતું નથી; પોતાની નદી ક્યાં હશે એની પણ ખબર નથી. તળાવવાળું ટીપું રડમસ અવાજે વસ્ત્રાપુરના તળાવે જવાનું માગે છે. બીજું ટીપું કહે છે કે ત્યાં હવે કોઈ નથી, એકલું જઈશ તો સાવ શોષાઈ જઈશ — બધાં સાથે જ ક્યાંક જઈને પડીએ.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T4.C4",
+                  "concept_name": "કાળાંડિબાંગ વાદળામાં ભેગાં થવું ને નીચેનું કશું ન દેખાવું",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "ઊંચે ચઢેલાં ટીપાં હવે કાળાંડિબાંગ — સાવ કાળાં — વાદળાંમાં ભેગાં થયાં છે. પાઠ ઊંચાઈ માપથી નહીં, એક ચિત્રથી બતાવે છે : ‘‘નીચેનું કશું દેખાતું નથી એટલાં ઊંચે આવી ગયાં છીએ.’’ એટલે જ ટીપાંને પોતાની નદી ક્યાં રહી ગઈ એની ખબર રહેતી નથી.",
+                      "publication_text": "ઊંચે ચઢેલાં ટીપાં હવે કાળાંડિબાંગ — સાવ કાળાં — વાદળાંમાં ભેગાં થયાં છે. પાઠ ઊંચાઈ માપથી નહીં, એક ચિત્રથી બતાવે છે : ‘‘નીચેનું કશું દેખાતું નથી એટલાં ઊંચે આવી ગયાં છીએ.’’ એટલે જ ટીપાંને પોતાની નદી ક્યાં રહી ગઈ એની ખબર રહેતી નથી."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "એમાં પવન ફૂંકાય ને વાદળું પોતે ચાલવા માંડે એટલે બીક વધે છે. આ બીક ટીપાં પોતે જ કહે છે, ને એ પરથી આપણને ખબર પડે છે કે એ કેટલાં ઊંચે પહોંચ્યાં છે.",
+                      "publication_text": "એમાં પવન ફૂંકાય ને વાદળું પોતે ચાલવા માંડે એટલે બીક વધે છે. આ બીક ટીપાં પોતે જ કહે છે, ને એ પરથી આપણને ખબર પડે છે કે એ કેટલાં ઊંચે પહોંચ્યાં છે."
+                    }
+                  ]
+                },
+                {
+                  "concept_id": "M1.S2.T4.C5",
+                  "concept_name": "તળાવનું પાણી શોષાઈ જવું — વસ્ત્રાપુરના તળાવની વાત",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "તળાવવાળા ટીપાનું ઘર વસ્ત્રાપુરનું તળાવ છે અને એ રડમસ અવાજે ત્યાં પાછા જવાનું માગે છે. બીજું ટીપું જવાબ આપે છે, ‘‘અરે ત્યાં તો હવે કોઈ નથી.’’ અહીં ‘કોઈ’ એટલે કોઈ માણસ નહીં — ત્યાં હવે પાણીનું એકેય ટીપું નથી.",
+                      "publication_text": "તળાવવાળા ટીપાનું ઘર વસ્ત્રાપુરનું તળાવ છે અને એ રડમસ અવાજે ત્યાં પાછા જવાનું માગે છે. બીજું ટીપું જવાબ આપે છે, ‘‘અરે ત્યાં તો હવે કોઈ નથી.’’ અહીં ‘કોઈ’ એટલે કોઈ માણસ નહીં — ત્યાં હવે પાણીનું એકેય ટીપું નથી."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "એટલે જ ચેતવણી અપાય છે કે એકલું ત્યાં જઈશ તો ‘‘સાવ શોષાઈ જઈશ’’ — શોષાઈ જવું એટલે પાણી ચુસાઈ કે સુકાઈને ખૂટી જવું. બદલામાં બીજું ટીપું સાથે રહેવાનું કહે છે : બધાં સાથે જ ક્યાંક જઈને પડીશું.",
+                      "publication_text": "એટલે જ ચેતવણી અપાય છે કે એકલું ત્યાં જઈશ તો ‘‘સાવ શોષાઈ જઈશ’’ — શોષાઈ જવું એટલે પાણી ચુસાઈ કે સુકાઈને ખૂટી જવું. બદલામાં બીજું ટીપું સાથે રહેવાનું કહે છે : બધાં સાથે જ ક્યાંક જઈને પડીશું."
+                    }
+                  ]
+                }
+              ],
+              "topic_id": "M1.S2.T4",
+              "key_terms": [
+                "કાળાંડિબાંગ — સાવ કાળાં, ઘોર કાળાં.",
+                "રડમસ — રડવું આવી ગયું હોય એવો; રડતાં રડતાં નીકળે એવો અવાજ.",
+                "શોષાઈ જવું — પાણી ચુસાઈ કે સુકાઈને ખૂટી જવું.",
+                "ફસાવું — બહાર નીકળી ન શકાય એમ ભરાઈ જવું.",
+                "ફાવવું — અનુકૂળ આવવું, ગમવું."
+              ],
+              "depends_on": [
+                "M1.S2.T3"
+              ],
+              "difficulty": "medium",
+              "topic_name": "કાળાંડિબાંગ વાદળામાં ભેગાં થયેલાં ટીપાં અને શોષાઈ જતું તળાવ",
+              "topic_type": "STORY_TELLING",
+              "word_count": {
+                "original": 149
+              },
+              "explanation": "હવે ટીપાં એટલાં ઊંચે પહોંચ્યાં છે કે ‘‘નીચેનું કશું દેખાતું નથી’’ — કાળાંડિબાંગ, એટલે સાવ કાળાં, વાદળાંમાં એ ભરાયાં છે ને પોતાની નદી ક્યાં રહી ગઈ એની ખબર રહેતી નથી. તળાવવાળું ટીપું રડમસ, એટલે રડવું આવી ગયું હોય એવા, અવાજે વસ્ત્રાપુરના તળાવે જવાનું માગે છે. સામેથી જવાબ મળે છે, ‘‘અરે ત્યાં તો હવે કોઈ નથી.’’ અહીં ‘કોઈ’ એટલે કોઈ માણસ નહીં, પાણીનું એકેય ટીપું નહીં — એટલે જ ચેતવણી છે કે એકલું જઈશ તો સાવ શોષાઈ જઈશ.",
+              "brief_summary": "ઊંચે ચઢેલાં ટીપાં કાળાંડિબાંગ વાદળાંમાં ભરાયાં છે, નીચેનું કશું દેખાતું નથી, ને તળાવવાળા ટીપાને ચેતવણી મળે છે કે એકલું ઘેર જશે તો સાવ શોષાઈ જશે.",
+              "objective_ids": [
+                "O4"
+              ],
+              "modified_chunk": "નદીવાળું ટીપું કહે છે કે હવે એ કાળાંડિબાંગ (સાવ કાળાં) વાદળાંમાં ફસાયું છે; એટલું ઊંચે આવી ગયું છે કે નીચેનું કશું દેખાતું નથી અને પોતાની નદી ક્યાં હશે એની ખબર પડતી નથી. તળાવવાળું ટીપું તો રડમસ (રડવું આવી ગયું હોય એવા) અવાજે વારે વારે પોતાના ઘેર જવાનું કહે છે; એનું ઘર વસ્ત્રાપુરનું તળાવ છે. બીજું ટીપું એને સમજાવે છે કે ત્યાં હવે કોઈ નથી, એકલું જઈશ તો સાવ શોષાઈ જઈશ (પાણી ચુસાઈને ખૂટી જઈશ), એના કરતાં બધાં સાથે જ ક્યાંક જઈને પડીએ. પણ એ માનતું નથી — એને તળાવ સિવાય બીજે ક્યાંય ફાવતું નથી.",
+              "original_chunk": "તમારી જેમ અહીં આ કાળાંડિબાંગ વાદળાંમાં ફસાયાં છીએ. નીચેનું કશું દેખાતું નથી એટલાં ઊંચે આવી ગયાં છીએ. એમાં વળી પવન ફૂંકાય અને આ વાદળું પણ ચાલવા માંડે એટલે વધુ બીક લાગે. અમારી નદી તો ક્યાં હશે, શી ખબર !’’\nતળાવવાળું ટીપું તો આંસુનાં ટીપાં પાડવામાંથી ઊંચું નહોતું આવતું. એનું રડવાનું બંધ જ નહોતું થયું. એ તો રડમસ અવાજે બોલ્યું,\n‘‘મારે તો અહીં નથી રહેવું. મારે મારા ઘેર જવું છે. મને કોઈ મારા ઘેર લઈ જાઓ ને !’’\n‘‘તારું ઘર ક્યાં છે ?’’\n‘‘વસ્ત્રાપુરનું તળાવ.’’\n‘‘અરે ત્યાં તો હવે કોઈ નથી. તું એકલું ત્યાં જઈને શું કરીશ ? સાવ શોષાઈ જઈશ. એના કરતાં અમારી સાથે રહીશ તો સારું લાગશે. આપણે બધાં જ સાથે ક્યાંક જઈને પડીશું અને સાથે જ રહીશું.’’ એક ટીપાએ એને સમજાવવાનો પ્રયત્ન કર્યો. પણ એ માને જ નહીં.\n‘‘પણ મને તો તળાવ જ ફાવે છે. મને બીજે ક્યાંય નથી ગમતું. કોઈ મને ત્યાં લઈ જાઓ ને !’’",
+              "topic_category": "core",
+              "concept_bullets": [
+                "કાળાંડિબાંગ — સાવ કાળાં, ઘોર કાળાં; એવાં વાદળાંમાં ટીપાં ભરાયાં છે.",
+                "એટલાં ઊંચે — ‘‘નીચેનું કશું દેખાતું નથી’’; પોતાની નદી ક્યાં છે એની ખબર રહેતી નથી.",
+                "શોષાઈ જવું — પાણી ચુસાઈ કે સુકાઈને ખૂટી જવું.",
+                "ફસાવું — બહાર નીકળી ન શકાય એમ ભરાઈ જવું."
+              ],
+              "detailed_summary": "નદીવાળું ટીપું કહે છે કે હવે એ કાળાંડિબાંગ વાદળાંમાં ફસાયું છે. એ એટલું ઊંચે આવી ગયું છે કે નીચેનું કશું દેખાતું નથી, ને પવન ફૂંકાય અને વાદળું ચાલવા માંડે એટલે વધુ બીક લાગે છે; પોતાની નદી ક્યાં હશે એની પણ ખબર નથી. તળાવવાળું ટીપું તો રડવાનું બંધ જ કરતું નથી અને રડમસ અવાજે વારે વારે પોતાના ઘેર જવાનું માગે છે — એનું ઘર વસ્ત્રાપુરનું તળાવ છે. બીજું ટીપું એને સમજાવે છે કે ત્યાં તો હવે કોઈ નથી, એટલે કે પાણીનું એકેય ટીપું નથી, ને એકલું જઈશ તો સાવ શોષાઈ જઈશ. એ ટીપું આગળ કહે છે કે બધાં સાથે જ ક્યાંક જઈને પડીશું ને સાથે જ રહીશું. તળાવવાળા ટીપાને તોય તળાવ સિવાય બીજે ક્યાંય ફાવતું નથી.",
+              "important_points": [
+                "‘કોઈ નથી’ — એટલે ત્યાં હવે પાણીનું એકેય ટીપું નથી; માણસની વાત નથી.",
+                "વસ્ત્રાપુરનું તળાવ — તળાવવાળા ટીપાનું ઘર; પાઠ એને આ જ નામે ઓળખાવે છે.",
+                "રડમસ અવાજ — રડવું આવી ગયું હોય એવો અવાજ; પાઠ ટીપાની લાગણી અવાજ પરથી બતાવે છે.",
+                "સાથે રહેવાની વાત — બીજું ટીપું કહે છે કે બધાં સાથે જ ક્યાંક જઈને પડીશું."
+              ],
+              "publication_text": "હવે ટીપાં એટલાં ઊંચે પહોંચ્યાં છે કે ‘‘નીચેનું કશું દેખાતું નથી’’ — કાળાંડિબાંગ, એટલે સાવ કાળાં, વાદળાંમાં એ ભરાયાં છે ને પોતાની નદી ક્યાં રહી ગઈ એની ખબર રહેતી નથી. તળાવવાળું ટીપું રડમસ, એટલે રડવું આવી ગયું હોય એવા, અવાજે વસ્ત્રાપુરના તળાવે જવાનું માગે છે. સામેથી જવાબ મળે છે, ‘‘અરે ત્યાં તો હવે કોઈ નથી.’’ અહીં ‘કોઈ’ એટલે કોઈ માણસ નહીં, પાણીનું એકેય ટીપું નહીં — એટલે જ ચેતવણી છે કે એકલું જઈશ તો સાવ શોષાઈ જઈશ.",
+              "recall_questions": [
+                {
+                  "id": "M1.S2.T4.RQ1",
+                  "legacy_id": "M1.S2.T4.TR1",
+                  "prompt": "તળાવવાળા ટીપાનું ઘર ક્યાં હતું ?",
+                  "answer": "વસ્ત્રાપુરનું તળાવ.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M1.S2.T4.RQ2",
+                  "legacy_id": "M1.S2.T4.TR2",
+                  "prompt": "‘‘અરે ત્યાં તો હવે કોઈ નથી.’’ — આ વાક્યમાં ‘કોઈ’ એટલે શું, ને એટલે તળાવવાળા ટીપાને શી ચેતવણી અપાય છે ?",
+                  "answer": "‘કોઈ નથી’ એટલે ત્યાં હવે પાણીનું એકેય ટીપું નથી, માણસની વાત નથી. એટલે બીજું ટીપું ચેતવે છે કે એકલું ત્યાં જઈશ તો ‘‘સાવ શોષાઈ જઈશ’’ — પાણી ચુસાઈને ખૂટી જઈશ.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M1.S2.T4.RQ3",
+                  "legacy_id": "M1.S2.T4.TR3",
+                  "prompt": "ટીપાં કેટલાં ઊંચે પહોંચ્યાં છે એની ખાતરી પાઠના કયા વાક્ય પરથી થાય છે ?",
+                  "answer": "‘‘નીચેનું કશું દેખાતું નથી એટલાં ઊંચે આવી ગયાં છીએ.’’ એની સાથે જ આવે છે — ‘‘અમારી નદી તો ક્યાં હશે, શી ખબર !’’",
+                  "difficulty": "medium",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "source_topic_ids": [],
+              "publication_chunk": "તમારી જેમ અહીં આ કાળાંડિબાંગ વાદળાંમાં ફસાયાં છીએ. નીચેનું કશું દેખાતું નથી એટલાં ઊંચે આવી ગયાં છીએ. એમાં વળી પવન ફૂંકાય અને આ વાદળું પણ ચાલવા માંડે એટલે વધુ બીક લાગે. અમારી નદી તો ક્યાં હશે, શી ખબર !’’\nતળાવવાળું ટીપું તો આંસુનાં ટીપાં પાડવામાંથી ઊંચું નહોતું આવતું. એનું રડવાનું બંધ જ નહોતું થયું. એ તો રડમસ અવાજે બોલ્યું,\n‘‘મારે તો અહીં નથી રહેવું. મારે મારા ઘેર જવું છે. મને કોઈ મારા ઘેર લઈ જાઓ ને !’’\n‘‘તારું ઘર ક્યાં છે ?’’\n‘‘વસ્ત્રાપુરનું તળાવ.’’\n‘‘અરે ત્યાં તો હવે કોઈ નથી. તું એકલું ત્યાં જઈને શું કરીશ ? સાવ શોષાઈ જઈશ. એના કરતાં અમારી સાથે રહીશ તો સારું લાગશે. આપણે બધાં જ સાથે ક્યાંક જઈને પડીશું અને સાથે જ રહીશું.’’ એક ટીપાએ એને સમજાવવાનો પ્રયત્ન કર્યો. પણ એ માને જ નહીં.\n‘‘પણ મને તો તળાવ જ ફાવે છે. મને બીજે ક્યાંય નથી ગમતું. કોઈ મને ત્યાં લઈ જાઓ ને !’’\n\nહવે ટીપાં એટલાં ઊંચે પહોંચ્યાં છે કે ‘‘નીચેનું કશું દેખાતું નથી’’ — કાળાંડિબાંગ, એટલે સાવ કાળાં, વાદળાંમાં એ ભરાયાં છે ને પોતાની નદી ક્યાં રહી ગઈ એની ખબર રહેતી નથી. તળાવવાળું ટીપું રડમસ, એટલે રડવું આવી ગયું હોય એવા, અવાજે વસ્ત્રાપુરના તળાવે જવાનું માગે છે. સામેથી જવાબ મળે છે, ‘‘અરે ત્યાં તો હવે કોઈ નથી.’’ અહીં ‘કોઈ’ એટલે કોઈ માણસ નહીં, પાણીનું એકેય ટીપું નહીં — એટલે જ ચેતવણી છે કે એકલું જઈશ તો સાવ શોષાઈ જઈશ.\n\nમેળામાં ભીડ વધે ત્યારે એક ઘડી માટે પકડેલો હાથ છૂટી જાય છે. આજુબાજુ બધા અજાણ્યા ચહેરા, ઢોલનો અવાજ, ને કઈ બાજુથી અંદર આવ્યાં હતાં એ પણ યાદ રહેતું નથી. પાસે ઊભેલું કોઈ કહે, ‘અહીં જ ઊભા રહો, સાથે જ શોધીશું.’ વાદળામાં ઊંચે પહોંચેલાં ટીપાંને પણ બરાબર આવું જ થયું છે — પોતાનું ઘર ક્યાં છે એની ખબર નથી, ને બીજાં ટીપાં કહે છે કે સાથે રહીશું.",
+              "real_life_example": "મેળામાં ભીડ વધે ત્યારે એક ઘડી માટે પકડેલો હાથ છૂટી જાય છે. આજુબાજુ બધા અજાણ્યા ચહેરા, ઢોલનો અવાજ, ને કઈ બાજુથી અંદર આવ્યાં હતાં એ પણ યાદ ન રહે. પાસે ઊભેલું કોઈ કહે, ‘અહીં જ ઊભા રહો, સાથે જ શોધીશું.’ વાદળામાં ઊંચે પહોંચેલાં ટીપાંને પણ બરાબર આવું જ થયું છે — પોતાનું ઘર ક્યાં છે એની ખબર નથી, ને બીજાં ટીપાં કહે છે કે સાથે રહીશું. તમે કદી ભીડમાં આવી રીતે અટવાયાં છો?",
+              "estimated_exchanges": "4",
+              "learning_objectives": [
+                {
+                  "objective_id": "O4",
+                  "legacy_id": "L4",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "કાળાંડિબાંગ વાદળામાં ભેગાં થયા પછી ટીપાંને નીચેનું કેમ કશું દેખાતું નથી, અને ‘‘સાવ શોષાઈ જઈશ’’ કહેતાં વસ્ત્રાપુરના તળાવના પાણીનું શું થાય છે તે કહેવું.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M1.S2.T4",
+                  "anchor": [
+                    "M1.S2.T4.C4",
+                    "M1.S2.T4.C5"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "primary_content_type": "image",
+              "tertiary_content_type": null,
+              "secondary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "કાળાંડિબાંગ",
+                  "arth": "સાવ કાળાં, ઘોર કાળાં",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "રડમસ",
+                  "arth": "રડવું આવી ગયું હોય એવો અવાજ",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "શોષાઈ જવું",
+                  "arth": "પાણી ચુસાઈ કે સુકાઈને ખૂટી જવું",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "ફાવવું",
+                  "arth": "અનુકૂળ આવવું, ગમવું",
+                  "prakar": "દેશ્ય"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "તળાવ",
+                  "samanarthi": [
+                    "સરોવર"
+                  ]
+                },
+                {
+                  "shabd": "આંસુ",
+                  "samanarthi": [
+                    "અશ્રુ"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "કાળાં",
+                  "vilom": "ધોળાં"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "વિરામચિહ્નો",
+                  "udaharan": "‘‘મારે તો અહીં નથી રહેવું. મારે મારા ઘેર જવું છે. મને કોઈ મારા ઘેર લઈ જાઓ ને !’’",
+                  "note": "બોલી બેવડા અવતરણચિહ્નમાં મુકાય છે, એટલે વાંચતાં જ ખબર પડે કે આ કોઈનું બોલેલું છે. છેડે ઉદ્ગારચિહ્ન છે, એટલે વાક્ય લાગણી સાથે બોલાયું છે. પાઠમાં પ્રશ્નવિરામ પણ છે — ‘‘તારું ઘર ક્યાં છે ?’’"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "વાદળ ક્યાં લઈ જાય અને વરસાદ કેવી રીતે પડે",
+      "difficult_words": [
+        {
+          "word": "દબાણ",
+          "meaning": "હવા કે પાણી જે ભાર કે જોર લગાવે તે.",
+          "example": "સાઇકલના ટાયરમાં હવાનું દબાણ ઓછું હોય તો પૅડલ મારતાં વધારે જોર પડે છે."
+        },
+        {
+          "word": "ઠંડક",
+          "meaning": "ગરમી ઓછી થઈને ઠંડું લાગવું તે.",
+          "example": "વડલાના છાંયડામાં બેસતાં જ કેવી ઠંડક લાગે છે !"
+        },
+        {
+          "word": "પછેડિયો",
+          "meaning": "પછેડી ઓઢવી પડે એવો વરસાદ.",
+          "example": "સવારથી પછેડિયો ચાલુ છે, એટલે માથે કંઈક ઓઢ્યા વગર બહાર ન નીકળતાં."
+        },
+        {
+          "word": "નેવાધાર",
+          "meaning": "છાપરાના નેવા ઉપરથી પાણી વહે એટલો વરસાદ.",
+          "example": "કાલે રાતે નેવાધાર પડ્યો ને છાપરેથી પાણીની આખી ધાર પડતી હતી."
+        },
+        {
+          "word": "મોલિયો",
+          "meaning": "મોલ એટલે પાક; પાકને ઉપયોગી એવો વરસાદ.",
+          "example": "આ વખતે મોલિયો સમયસર આવ્યો, એટલે ખેતરમાં ઊભો પાક લહેરાય છે."
+        },
+        {
+          "word": "ઢેફાંભાંગ",
+          "meaning": "વરસાદની તીવ્રતાથી માટીનાં ઢેફાં ભાંગી જાય તેવો વરસાદ.",
+          "example": "ઢેફાંભાંગ પડ્યા પછી ખેતરની માટી પોચી થઈ ગઈ."
+        },
+        {
+          "word": "હેલી",
+          "meaning": "સતત ચાલતો વરસાદ.",
+          "example": "ત્રણ દિવસથી હેલી બેઠી છે, એટલે કપડાં સુકાતાં જ નથી."
+        }
+      ],
+      "overall_rhyme_scheme": null,
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "પવન, ઠંડક અને વરસવાની બાર રીતો",
+          "topics": [
+            {
+              "media": [
+                {
+                  "id": "M2.S3.T5.C6.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "પવન વાદળને લઈ જાય ને વરસાદ પડે",
+                  "description": "પવન વાદળને ખેંચીને ગામ ઉપર લઈ આવે છે ને ઠંડક થતાં એક બાજુ ઝરમર ને બીજી બાજુ ધોધમાર વરસાદ છેક જમીન સુધી પહોંચે છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "concept_id": "M2.S3.T5.C6",
+                  "home_concept_id": "M2.S3.T5.C6",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્રમાં પવન વાદળને ખેંચી જાય છે એ બતાવીને પૂછો — વાદળ ક્યાં જાય એ કોણ નક્કી કરે છે ? પછી ફરફર, ઝરમર, ટપટપ ને ધોધમાર — ચારેય શબ્દ પાઠના રૂપમાં જ બોલાવો ને હાવભાવ સાથે કહેવડાવો.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, numerals or digits anywhere in the frame, water-cycle science diagram, labelled arrows or callouts, infographic chart, comic-strip speech bubbles, motivational poster layout, text banner with a moral, moral lesson panel, a boy or human figure personifying the wind, deity figure, halo, temple calendar art, rainbow postcard styling",
+                  "generation_prompt": "A wide view of a dark rain cloud sliding low across the sky above a farming village in Gujarat, pushed sideways by a strong wind: neem branches bent one way with their leaves streaming, dust lifting off the lane, a cloth on a line snapping straight. Below stand low houses roofed with curved clay tiles and a raised stone platform running along one wall, a white pigeon-tower on a single pillar in the open square, and a green millet field beyond the last house. The cloud's underside sags towards the ground and the first rain has begun — fine misty drizzle over the lane on one side of the frame, heavier straight silver lines over the field on the other. Living water drops slide down the cloud's underside with the falling water, arms spread, delighted. The water drops are palm-sized living characters: rounded translucent blue-grey teardrop bodies with a soft glassy sheen, large round dark eyes, small expressive mouths, and thin simple arms and hands; they wear no clothes and have no hair. Cool, relieved, joyful mood; the wind is shown only by what it moves. Along the bottom edge a plain cream narrator bar lettered in Gujarati script with exactly this line and nothing else: આ વાદળું જ્યાં લઈ જાય ત્યાં જવાનું. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": "બાળક જાતે ચલાવે એવું એક જ ઇન્ટરેક્ટિવ ચિત્ર — ‘ટીપું ક્યાં જાય છે ?’. પડદા પર નીચે ડાબી બાજુ દરિયો, નદી, તળાવ ને નાનકડું ખાબોચિયું; ઉપર ખુલ્લું આકાશ. પહેલું : બાળક ‘ગરમી’ની પટ્ટી ઓછીથી વધારે તરફ ખેંચે — ગરમી વધે તેમ પાણી પરથી ટીપાં હલકાં થઈને હવામાં અધ્ધર ચઢવા માંડે છે ને ઉપર જઈને વાદળું બંધાય છે; પટ્ટી પાછી ઓછી કરે તો ટીપાં ચઢવાનું બંધ કરી દે છે, એટલે બાળક પોતે જુએ છે કે ચઢવાનું ગરમી સાથે બંધાયેલું છે. બીજું : પછી બાળક ‘પવન’નું બટન દબાવે ને દિશા બદલે — વાદળું જે બાજુ પવન ફૂંકાય તે જ બાજુ સરકે છે; ડુંગર તરફ, ગામ તરફ કે ખેતર તરફ. વાદળું ક્યાં પહોંચે એ બાળકના પવન પરથી નક્કી થાય, ટીપાંની ઇચ્છા પરથી નહીં. ત્રીજું : જ્યાં હવાનું દબાણ ઓછું બતાવ્યું હોય ત્યાં વાદળું પહોંચે અથવા બાળક ‘ઠંડક’ની પટ્ટી ખેંચે — વાદળું નીચે ઊતરે છે ને વરસાદ પડવા માંડે છે. ચોથું : પછી બાળક ‘કેવી રીતે પડવું ?’ માંથી પાઠમાં છપાયેલી રીતોમાંથી એક પસંદ કરે — ફરફર કે ઝરમર, છાંટા, ફોરાં, કરા, પછેડિયો, નેવાધાર, મોલિયો, ઢેફાંભાંગ, અનરાધાર, અરધિયો, સાંબેલાધાર, હેલી — અને ચિત્રમાં વરસાદનો દેખાવ ને અવાજ તે પ્રમાણે બદલાય : ઝરમરમાં ઝીણી છાંટ, નેવાધારમાં છાપરાના નેવેથી વહેતું પાણી, ઢેફાંભાંગમાં ખેતરનાં ઢેફાં ભાંગતાં, ધોધમારમાં જાડી ધાર. જે બે નામ પાઠની શબ્દાર્થપેટીમાં ગ્લોસ થયાં નથી તેમની સામે કશું ચિત્ર-સમજૂતી બતાવવી નહીં, ફક્ત નામ જ રહે. છેલ્લે : ટીપું જ્યાં પડ્યું ત્યાંથી બાળક ફરી ‘ગરમી’ની પટ્ટી ખેંચી શકે, એટલે એ જાતે જુએ કે સફર ફરી ત્યાંથી જ શરૂ થાય છે. પડદા પરના બધા શબ્દો પાઠના પોતાના શબ્દો જ રહે — ગરમી, હલકાં, અધ્ધર, વાદળું, પવન, દબાણ ઓછું, ઠંડક; વરાળ, બાષ્પીભવન, ઘનીકરણ કે જલચક્ર જેવો કોઈ શબ્દ પડદા પર ન આવે, કોઈ આંકડો ન બતાવવો, અને ઇન્દ્રદેવનું કોઈ ચિત્ર કે પાત્ર પડદા પર ન મૂકવું.",
+              "summary": "એક ટીપું કહે છે કે આપણને પૂછે છે કોણ — વાદળું જ્યાં લઈ જાય ત્યાં જ જવાનું, ને વાદળાનું પોતાનું પણ કશું ચાલતું નથી. વાદળું જ કહેતું હતું કે પવનકુમાર ફૂંક મારે ત્યાં જવાનું, જ્યાં હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરવાનું અને ઠંડક થાય એટલે વરસી પડવાનું. વરસાદ ક્યાંક ફરફર, ઝરમર કે ટપટપ હોય છે તો ક્યાંક ધોધમાર.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C6",
+                  "concept_name": "પવન લઈ જાય ત્યાં વાદળ, દબાણ ઘટે ત્યાં ઊતરાણ, ઠંડક થાય એટલે વરસાદ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "આ ખંડ એક જ વારામાં આખો ક્રમ આપી દે છે. પહેલી વાત : વાદળનું પોતાનું કશું ચાલતું નથી. પવનકુમાર એટલે પવન — પાઠમાં એને માણસનું નામ દઈને બોલાવ્યો છે — ને એ ફૂંક મારે ત્યાં જ વાદળું જાય છે.",
+                      "publication_text": "આ ખંડ એક જ વારામાં આખો ક્રમ આપી દે છે. પહેલી વાત : વાદળનું પોતાનું કશું ચાલતું નથી. પવનકુમાર એટલે પવન — પાઠમાં એને માણસનું નામ દઈને બોલાવ્યો છે — ને એ ફૂંક મારે ત્યાં જ વાદળું જાય છે."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "પછીનું પગલું છે : ‘‘જ્યાં હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરવાનું.’’ દબાણ એટલે હવા જે ભાર કે જોર લગાવે તે. અને છેલ્લું પગલું છે : ‘‘ઠંડક થાય એટલે’’ વરસી પડવાનું. વરસાદ કેવો પડશે એ પણ પાઠ સાથે જ કહી દે છે — ક્યાંક ફરફર, ઝરમર કે ટપટપ, તો ક્યાંક ધોધમાર.",
+                      "publication_text": "પછીનું પગલું છે : ‘‘જ્યાં હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરવાનું.’’ દબાણ એટલે હવા જે ભાર કે જોર લગાવે તે. અને છેલ્લું પગલું છે : ‘‘ઠંડક થાય એટલે’’ વરસી પડવાનું. વરસાદ કેવો પડશે એ પણ પાઠ સાથે જ કહી દે છે — ક્યાંક ફરફર, ઝરમર કે ટપટપ, તો ક્યાંક ધોધમાર."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "પવન ફૂંકે ત્યાં વાદળું જાય.",
+                        "હવાનું દબાણ ઓછું થાય ત્યાં ટીપાં નીચે ઊતરે.",
+                        "ઠંડક થાય એટલે વરસાદ પડે.",
+                        "વરસાદ ક્યાંક ફરફર, ઝરમર કે ટપટપ, તો ક્યાંક ધોધમાર."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "topic_id": "M2.S3.T5",
+              "key_terms": [
+                "પવનકુમાર — પવનને અહીં માણસનું નામ આપીને બોલાવ્યો છે; આ પાઠની રજૂઆતની રીત છે, ભૂલ નથી.",
+                "દબાણ — હવા જે ભાર કે જોર લગાવે તે.",
+                "ઠંડક — ગરમી ઓછી થઈને ઠંડું લાગવું તે.",
+                "ટપટપ — ટીપે ટીપે વરસાદ.",
+                "ધોધમાર — ભારે વરસાદ."
+              ],
+              "depends_on": [
+                "M1.S2.T4"
+              ],
+              "difficulty": "hard",
+              "topic_name": "પવન લઈ જાય ત્યાં વાદળ, ઠંડક થાય એટલે વરસાદ",
+              "topic_type": "CONCEPT",
+              "word_count": {
+                "original": 56
+              },
+              "explanation": "આ ખંડમાં આખો ક્રમ એક જ વારામાં આવી જાય છે, ને એની પહેલી વાત છે : વાદળનું પોતાનું કશું ચાલતું નથી. પવનકુમાર એટલે પવન — અહીં પવનને માણસનું નામ દઈને બોલાવ્યો છે — ને એ ‘‘ફૂંક મારે ત્યાં જવાનું’’. પછી ‘‘જ્યાં હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરવાનું’’; દબાણ એટલે હવા જે ભાર લગાવે તે. અને છેલ્લે ‘‘ઠંડક થાય એટલે’’ વરસી પડવાનું — ક્યાંક ફરફર, ઝરમર કે ટપટપ, તો ક્યાંક ધોધમાર. આવા અવાજવાળા શબ્દોનાં જોડકાં સ્વાધ્યાયમાં જોડવાનાં આવશે.",
+              "brief_summary": "વાદળનું પોતાનું કશું ચાલતું નથી — પવન ફૂંકે ત્યાં એ જાય છે, હવાનું દબાણ ઓછું થાય ત્યાં ટીપાં નીચે ઊતરે છે અને ઠંડક થાય એટલે વરસાદ પડે છે.",
+              "objective_ids": [
+                "O5"
+              ],
+              "modified_chunk": "એક ટીપું કહે છે કે આપણને પૂછે છે કોણ — જવું તો બધાંને પોતાના ઘેર છે. વાદળું જ્યાં લઈ જાય ત્યાં જ જવાનું, અને વાદળાનું પોતાનું પણ કશું ચાલતું નથી. વાદળું જ કહેતું હતું કે પવનકુમાર (પવનને અપાયેલું નામ) ફૂંક મારે ત્યાં જવાનું, જ્યાં હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરવાનું, અને ઠંડક થાય એટલે વરસી પડવાનું — ક્યાંક ફરફર, ઝરમર કે ટપટપ (ટીપે ટીપે) તો ક્યાંક ધોધમાર (ભારે વરસાદ).",
+              "original_chunk": "‘‘પણ આપણને પૂછે છે કોણ ? મારેય મારા ઘેર જવું છે. આ વાદળું જ્યાં લઈ જાય ત્યાં જવાનું અને એ વાદળાનું પણ ક્યાં કશું ચાલે છે. એ પણ કહેતું હતું કે પેલા પવનકુમાર ફૂંક મારે ત્યાં જવાનું. જ્યાં હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરવાનું અને ઠંડક થાય એટલે ફરફર, ઝરમર, ટપટપ તો ક્યાંક ધોધમાર પડવાનું.’’",
+              "topic_category": "transition",
+              "concept_bullets": [
+                "પવનકુમાર — પવન; અહીં પવનને માણસનું નામ દઈને બોલાવ્યો છે.",
+                "દબાણ — હવા જે ભાર કે જોર લગાવે તે; દબાણ ઓછું થાય ત્યાં ટીપાં નીચે ઊતરે છે.",
+                "ઠંડક — ગરમી ઓછી થઈને ઠંડું લાગવું તે; ઠંડક થાય એટલે વરસાદ પડે છે.",
+                "ટપટપ — ટીપે ટીપે વરસાદ; ધોધમાર એટલે ભારે વરસાદ."
+              ],
+              "detailed_summary": "તળાવવાળા ટીપાની જીદ સામે બીજું ટીપું કહે છે કે આપણને પૂછે છે કોણ — જવું તો બધાંને પોતાના ઘેર છે. વાદળું જ્યાં લઈ જાય ત્યાં જ જવાનું, અને વાદળાનું પોતાનું પણ કશું ચાલતું નથી. વાદળું જ કહેતું હતું કે પવનકુમાર ફૂંક મારે ત્યાં જવાનું; પવનકુમાર એટલે પવન, જેને અહીં માણસનું નામ દઈને બોલાવ્યો છે. પછીનું પગલું છે — જ્યાં હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરવાનું. અને છેલ્લું પગલું છે — ઠંડક થાય એટલે વરસી પડવાનું, ક્યાંક ફરફર, ઝરમર કે ટપટપ તો ક્યાંક ધોધમાર. આખો ક્રમ આ એક જ વારામાં પૂરો થઈ જાય છે.",
+              "important_points": [
+                "ક્રમ — પવન ફૂંકે ત્યાં વાદળું, દબાણ ઘટે ત્યાં ઊતરાણ, ઠંડક થાય એટલે વરસાદ.",
+                "વાદળનું કશું ચાલતું નથી — ટીપાં કહે છે કે વાદળાનું પણ ધાર્યું થતું નથી.",
+                "ફરફર, ઝરમર, ટપટપ, ધોધમાર — એક જ વાક્યમાં વરસાદનાં ચાર જુદાં રૂપ.",
+                "જોડકાં — આવા અવાજ પરથી બનેલા શબ્દોનાં જોડકાં જોડવાનું કામ સ્વાધ્યાયમાં આવે છે."
+              ],
+              "publication_text": "આ ખંડમાં આખો ક્રમ એક જ વારામાં આવી જાય છે, ને એની પહેલી વાત છે : વાદળનું પોતાનું કશું ચાલતું નથી. પવનકુમાર એટલે પવન — અહીં પવનને માણસનું નામ દઈને બોલાવ્યો છે — ને એ ‘‘ફૂંક મારે ત્યાં જવાનું’’. પછી ‘‘જ્યાં હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરવાનું’’; દબાણ એટલે હવા જે ભાર લગાવે તે. અને છેલ્લે ‘‘ઠંડક થાય એટલે’’ વરસી પડવાનું — ક્યાંક ફરફર, ઝરમર કે ટપટપ, તો ક્યાંક ધોધમાર. આવા અવાજવાળા શબ્દોનાં જોડકાં સ્વાધ્યાયમાં પણ આવે છે.",
+              "recall_questions": [
+                {
+                  "id": "M2.S3.T5.RQ1",
+                  "legacy_id": "M2.S3.T5.TR1",
+                  "prompt": "વાદળું ક્યાં જશે એ કોણ નક્કી કરે છે ? પાઠનો શબ્દ વાપરીને લખો.",
+                  "answer": "પવન. પાઠ કહે છે — ‘‘પેલા પવનકુમાર ફૂંક મારે ત્યાં જવાનું.’’ પવનકુમાર એટલે પવન, જેને અહીં માણસનું નામ દઈને બોલાવ્યો છે.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M2.S3.T5.RQ2",
+                  "legacy_id": "M2.S3.T5.TR2",
+                  "prompt": "ટીપાં ક્યારે નીચે ઊતરે છે ને ક્યારે વરસી પડે છે ? પાઠના શબ્દોમાં ક્રમ કહો.",
+                  "answer": "‘‘જ્યાં હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરવાનું અને ઠંડક થાય એટલે ફરફર, ઝરમર, ટપટપ તો ક્યાંક ધોધમાર પડવાનું.’’ એટલે પહેલાં દબાણ ઓછું થાય ત્યાં ઊતરાણ, ને પછી ઠંડક થાય એટલે વરસાદ.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M2.S3.T5.RQ3",
+                  "legacy_id": "M2.S3.T5.TR3",
+                  "prompt": "આજે તમારે ત્યાં જે વરસાદ પડે છે એને પાઠના આ ચાર શબ્દોમાંથી કયો શબ્દ બંધ બેસે — ફરફર, ઝરમર, ટપટપ કે ધોધમાર ? કારણ સાથે લખો.",
+                  "answer": "(એક શક્ય ઉત્તર) સાવ ઝીણી છાંટ પડતી હોય તો એને ફરફર કે ઝરમર કહેવાય, ટીપે ટીપે પડતો હોય તો ટપટપ, ને ભારે પડતો હોય તો ધોધમાર. પાઠ આ ચારેય શબ્દ એક જ વાક્યમાં ગણાવે છે — ‘‘ઠંડક થાય એટલે ફરફર, ઝરમર, ટપટપ તો ક્યાંક ધોધમાર પડવાનું.’’ જવાબમાં આજે બહાર જેવો વરસાદ હોય તે શબ્દ પસંદ કરીને કારણ લખવું.",
+                  "difficulty": "medium",
+                  "bloom_level": "apply"
+                }
+              ],
+              "source_topic_ids": [],
+              "publication_chunk": "‘‘પણ આપણને પૂછે છે કોણ ? મારેય મારા ઘેર જવું છે. આ વાદળું જ્યાં લઈ જાય ત્યાં જવાનું અને એ વાદળાનું પણ ક્યાં કશું ચાલે છે. એ પણ કહેતું હતું કે પેલા પવનકુમાર ફૂંક મારે ત્યાં જવાનું. જ્યાં હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરવાનું અને ઠંડક થાય એટલે ફરફર, ઝરમર, ટપટપ તો ક્યાંક ધોધમાર પડવાનું.’’\n\nઆ ખંડમાં આખો ક્રમ એક જ વારામાં આવી જાય છે, ને એની પહેલી વાત છે : વાદળનું પોતાનું કશું ચાલતું નથી. પવનકુમાર એટલે પવન — અહીં પવનને માણસનું નામ દઈને બોલાવ્યો છે — ને એ ‘‘ફૂંક મારે ત્યાં જવાનું’’. પછી ‘‘જ્યાં હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરવાનું’’; દબાણ એટલે હવા જે ભાર લગાવે તે. અને છેલ્લે ‘‘ઠંડક થાય એટલે’’ વરસી પડવાનું — ક્યાંક ફરફર, ઝરમર કે ટપટપ, તો ક્યાંક ધોધમાર. આવા અવાજવાળા શબ્દોનાં જોડકાં સ્વાધ્યાયમાં પણ આવે છે.\n\nઉત્તરાયણે કોઈનો પતંગ કપાય ને દોર છૂટી જાય, પછી એ પતંગનું પોતાનું કશું ચાલતું નથી. પવન જ્યાં લઈ જાય ત્યાં જ એ જાય — ક્યારેક સામેના ધાબે, ક્યારેક ઝાડની ડાળે, તો ક્યારેક છેક શેરીના નાકે. નીચે છોકરાં દોડ્યા કરે, પણ પતંગ ક્યાં પડશે એ તો પવન જ નક્કી કરે છે. પાઠનું વાદળું પણ બરાબર એ જ કહે છે.",
+              "real_life_example": "ઉત્તરાયણે કોઈનો પતંગ કપાય ને દોર છૂટી જાય, પછી એ પતંગનું પોતાનું કશું ચાલતું નથી. પવન જ્યાં લઈ જાય ત્યાં જ એ જાય — ક્યારેક સામેના ધાબે, ક્યારેક ઝાડની ડાળે, તો ક્યારેક છેક શેરીના નાકે. નીચે છોકરાં દોડ્યા કરે, પણ પતંગ ક્યાં પડશે એ તો પવન જ નક્કી કરે છે. પાઠનું વાદળું પણ બરાબર એ જ કહે છે. કપાયેલો પતંગ પકડવા તમે કદી દોડ્યાં છો?",
+              "estimated_exchanges": "5",
+              "learning_objectives": [
+                {
+                  "objective_id": "O5",
+                  "legacy_id": "L5",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "વાદળ પોતાની મરજીથી નહીં પણ પવન ફૂંકે ત્યાં જાય છે, હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરે છે અને ઠંડક થાય એટલે વરસે છે — આ પગલાં ક્રમમાં કહેવાં.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M2.S3.T5",
+                  "anchor": [
+                    "M2.S3.T5.C6"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "primary_content_type": "image",
+              "tertiary_content_type": null,
+              "secondary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "પવનકુમાર",
+                  "arth": "પવન; અહીં પવનને માણસનું નામ દઈને બોલાવ્યો છે",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "દબાણ",
+                  "arth": "હવા જે ભાર કે જોર લગાવે તે",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "ઠંડક",
+                  "arth": "ગરમી ઓછી થઈને ઠંડું લાગવું તે",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "ટપટપ",
+                  "arth": "ટીપે ટીપે વરસાદ",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "ધોધમાર",
+                  "arth": "ભારે વરસાદ",
+                  "prakar": "દેશ્ય"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "પવન",
+                  "samanarthi": [
+                    "વાયુ",
+                    "હવા"
+                  ]
+                },
+                {
+                  "shabd": "ઠંડક",
+                  "samanarthi": [
+                    "ટાઢક",
+                    "શીતળતા"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "ઠંડક",
+                  "vilom": "ગરમી"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "દ્વિરુક્ત / રવાનુકારી શબ્દો",
+                  "udaharan": "ફરફર, ઝરમર, ટપટપ",
+                  "note": "આ ત્રણેય શબ્દ અવાજ પરથી બન્યા છે અને એમાં એક જ ટુકડો બે વાર આવે છે. મોટેથી બોલી જુઓ — વરસાદ કેવો પડે છે એ કાનમાં જ સંભળાય છે. સ્વાધ્યાયનાં જોડકાં આવા જ શબ્દોને એની જગ્યા સાથે જોડવાનું કહે છે."
+                }
+              ]
+            },
+            {
+              "media": [
+                {
+                  "id": "M2.S3.T6.C7.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "વરસવાની રીતો નક્કી કરતાં ટીપાં",
+                  "description": "વાદળની અંદર ગોળ વળીને ઊભેલાં ટીપાં હાવભાવ કરીને પોતપોતાની વરસવાની રીત નક્કી કરે છે, ને નીચે વાદળના ચીરામાંથી ખેતર પર પહેલો વરસાદ પડતો દેખાય છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "concept_id": "M2.S3.T6.C7",
+                  "home_concept_id": "M2.S3.T6.C7",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બતાવીને દરેક બાળક પાસે એક રીત પસંદ કરાવો ને હાવભાવ સાથે બોલાવો; પાઠમાં છપાયેલાં નામ જ વાપરવાં, અને ઇન્દ્રદેવ વિશે પાઠ કહે છે એથી વધારે કશું ઉમેરવું નહીં.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, numerals or digits anywhere in the frame, water-cycle science diagram, labelled arrows or callouts, infographic chart, comic-strip speech bubbles, motivational poster layout, text banner with a moral, moral lesson panel, any deity figure or idol, halo, throne, devotional poster art, lettered list of rain names, chart of rain types, twelve numbered panels",
+                  "generation_prompt": "Inside a grey-blue rain cloud, a ring of living water drops in an animated huddle, each acting out the way it wants to fall: one flutters its fingertips downward like a fine sprinkle, one braces both arms wide and straight for a heavy pour, one has curled into a small hard ball, one tips forward as if pouring off the edge of a roof, while one at the front counts on its fingers and another shrugs with an embarrassed grin, unable to remember. The water drops are palm-sized living characters: rounded translucent blue-grey teardrop bodies with a soft glassy sheen, large round dark eyes, small expressive mouths, and thin simple arms and hands; they wear no clothes and have no hair. Through one wide break in the cloud floor, far below, a cotton field in Saurashtra with dark wet soil and a small hut roofed with curved clay tiles at its edge, the first water just beginning to run off the eaves. Lively, arguing, cheerful mood; soft light from the break below. Along the bottom edge a plain cream narrator bar lettered in Gujarati script with exactly this line and nothing else: બાર રીતે વરસી શકાય છે. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "summary": "ટીપાં નક્કી કરે છે કે વરસાદના દેવ ઇન્દ્રદેવ પાસે જતાં પહેલાં દરેકે મનમાં ઠરાવી લેવું — ક્યાં પડવું છે ને કેવી રીતે પડવું છે. પછી એ એકબીજાને વરસવાની બાર દેશી રીતોનાં નામ ગણાવે છે, અને યાદી પૂરી થતાં એક ટીપું કબૂલે છે કે એને બધી રીતો યાદ નથી આવતી.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C7",
+                  "concept_name": "વરસવાની બાર દેશી રીતોનાં નામ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "આ ખંડનું તથ્ય ભાષાનું છે : ગુજરાતીએ વરસવાની જુદી જુદી રીતોને બાર જુદાં નામ આપ્યાં છે, ને દરેક નામ પાછળ એક ચિત્ર ઊભું છે. પાઠના અંતે છપાયેલી શબ્દાર્થપેટી આમાંનાં ઘણાં નામનો અર્થ પોતે જ આપી દે છે.",
+                      "publication_text": "આ ખંડનું તથ્ય ભાષાનું છે : ગુજરાતીએ વરસવાની જુદી જુદી રીતોને બાર જુદાં નામ આપ્યાં છે, ને દરેક નામ પાછળ એક ચિત્ર ઊભું છે. પાઠના અંતે છપાયેલી શબ્દાર્થપેટી આમાંનાં ઘણાં નામનો અર્થ પોતે જ આપી દે છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "ફરફર કે ઝરમર — વરસાદની ઝીણી છાંટ; એક જ રીતનાં બે નામ.",
+                        "છાંટા અને ફોરાં — ફોરાં એટલે છાંટાથી મોટાં ટીપાં.",
+                        "કરા — આકાશમાંથી પડતા કુદરતી બરફના કકડા.",
+                        "પછેડિયો — પછેડી ઓઢવી પડે એવો વરસાદ.",
+                        "નેવાધાર — છાપરાના નેવા ઉપરથી પાણી વહે એટલો વરસાદ.",
+                        "મોલિયો — મોલ એટલે પાક, પાકને ઉપયોગી એવો વરસાદ.",
+                        "ઢેફાંભાંગ — વરસાદની તીવ્રતાથી માટીનાં ઢેફાં ભાંગી જાય તેવો વરસાદ.",
+                        "અનરાધાર — સતત એકધારો પડતો વરસાદ; અરધિયો એ જ પરથી ઊતરેલું બીજું નામ છે એમ પાત્ર પોતે કહે છે.",
+                        "સાંબેલાધાર — મોટી ધારે પડતો વરસાદ.",
+                        "હેલી — સતત ચાલતો વરસાદ."
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "યાદી ‘‘થઈ ને બાર રીતો !’’ કહીને પૂરી થાય છે — ‘ફરફર કે ઝરમર’ એક જ રીતનાં બે નામ છે, એટલે ગણતરી બરાબર બાર થાય છે. સ્વાધ્યાય તમારી પાસે આ બધી રીતોનાં નામ માગશે, એટલે નામ સાથે એનું ચિત્ર પણ યાદ રાખજો.",
+                      "publication_text": "યાદી ‘‘થઈ ને બાર રીતો !’’ કહીને પૂરી થાય છે — ‘ફરફર કે ઝરમર’ એક જ રીતનાં બે નામ છે, એટલે ગણતરી બરાબર બાર થાય છે. સ્વાધ્યાય આ બધી રીતોનાં નામ માગે છે, એટલે દરેક નામ સાથે એનું ચિત્ર પણ યાદ રાખવાનું છે."
+                    }
+                  ]
+                },
+                {
+                  "concept_id": "M2.S3.T6.C8",
+                  "concept_name": "દરેકે ક્યાં પડવું ને કેવી રીતે પડવું તે પોતે નક્કી કરવાનું",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "નામ ગણતાં પહેલાં ટીપાં એક વાત નક્કી કરે છે : ઇન્દ્રદેવ પાસે જતાં પહેલાં દરેકે મનમાં ઠરાવી લેવાનું છે કે ક્યાં પડવું છે અને કેવી રીતે પડવું છે. ઇન્દ્રદેવ વરસાદના દેવ છે, ને એમને પૂછવા જવાની આ કલ્પના પણ બોલતાં ટીપાં જેવી જ વાર્તાની મજા છે.",
+                      "publication_text": "નામ ગણતાં પહેલાં ટીપાં એક વાત નક્કી કરે છે : ઇન્દ્રદેવ પાસે જતાં પહેલાં દરેકે મનમાં ઠરાવી લેવાનું છે કે ક્યાં પડવું છે અને કેવી રીતે પડવું છે. ઇન્દ્રદેવ વરસાદના દેવ છે, ને એમને પૂછવા જવાની આ કલ્પના પણ બોલતાં ટીપાં જેવી જ વાર્તાની મજા છે."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "છેલ્લે એક ટીપું કબૂલે છે કે એને બધી રીતો યાદ નથી આવતી. જવાબ સાવ સહેલો મળે છે અને એ જ પાઠનું છેલ્લું વાક્ય છે : ‘‘યાદ આવે તે રીતે પડવાનું. સમજાયું ?’’ પાઠ આ હળવા વાક્યથી જ પૂરો થાય છે.",
+                      "publication_text": "છેલ્લે એક ટીપું કબૂલે છે કે એને બધી રીતો યાદ નથી આવતી. જવાબ સાવ સહેલો મળે છે અને એ જ પાઠનું છેલ્લું વાક્ય છે : ‘‘યાદ આવે તે રીતે પડવાનું. સમજાયું ?’’ પાઠ આ હળવા વાક્યથી જ પૂરો થાય છે."
+                    }
+                  ]
+                }
+              ],
+              "topic_id": "M2.S3.T6",
+              "key_terms": [
+                "ઇન્દ્રદેવ — વરસાદના દેવ.",
+                "પછેડિયો — પછેડી ઓઢવી પડે એવો વરસાદ.",
+                "નેવાધાર — છાપરાના નેવા ઉપરથી પાણી વહે એટલો વરસાદ.",
+                "મોલિયો — મોલ એટલે પાક; પાકને ઉપયોગી એવો વરસાદ.",
+                "ઢેફાંભાંગ — વરસાદની તીવ્રતાથી માટીનાં ઢેફાં ભાંગી જાય તેવો વરસાદ.",
+                "હેલી — સતત ચાલતો વરસાદ."
+              ],
+              "depends_on": [
+                "M2.S3.T5"
+              ],
+              "difficulty": "hard",
+              "topic_name": "વરસવાની બાર દેશી રીતો",
+              "topic_type": "CONCEPT",
+              "word_count": {
+                "original": 196
+              },
+              "explanation": "બાળકો, આ ખંડનો ખજાનો ભાષા છે : ગુજરાતીએ વરસવાની જુદી જુદી રીતોને બાર જુદાં નામ આપ્યાં છે, ને દરેક નામ પાછળ એક આખું ચિત્ર ઊભું છે. પછેડિયો એટલે પછેડી ઓઢવી પડે એવો વરસાદ, નેવાધાર એટલે છાપરાના નેવા ઉપરથી પાણી વહે એટલો વરસાદ, ને મોલિયો — મોલ એટલે પાક — પાકને ઉપયોગી એવો વરસાદ. ટીપાં આ યાદી વરસાદના દેવ ઇન્દ્રદેવને કહેવા માટે ગણે છે; બોલતાં ટીપાંની જેમ એ પણ વાર્તાની જ મજા છે. છેલ્લે ‘‘થઈ ને બાર રીતો !’’ કહીને યાદી પૂરી થાય છે.",
+              "brief_summary": "ટીપાં ઇન્દ્રદેવ પાસે જતાં પહેલાં નક્કી કરવાનું ઠરાવે છે કે ક્યાં પડવું ને કેવી રીતે પડવું, ને એ સાથે વરસવાની બાર દેશી રીતોનાં નામ ગણાવે છે.",
+              "objective_ids": [
+                "O6"
+              ],
+              "modified_chunk": "ટીપાં વિચારે છે કે વરસાદના ઇન્દ્રદેવ પોતાને પૂછે તો કેવું સારું, અને નક્કી કરે છે કે એમની પાસે જતાં પહેલાં દરેકે મનમાં નક્કી કરી લેવું — ક્યાં પડવું છે અને કેવી રીતે પડવું છે. પછી એ એકબીજાને વરસવાની બાર રીતોનાં નામ ગણાવે છે : ફરફર કે ઝરમર, છાંટા, ફોરાં, કરા, પછેડિયો, નેવાધાર, મોલિયો, ઢેફાંભાંગ, અનરાધાર, અરધિયો, સાંબેલાધાર અને હેલી. છેલ્લે એક ટીપું પૂછે છે કે એને બધી રીતો યાદ નથી આવતી તો શું કરવું, ને જવાબ મળે છે — યાદ આવે તે રીતે પડવાનું.",
+              "original_chunk": "‘‘આ વરસાદના ઇન્દ્રદેવ આપણને ક્યાં જઈને પડવું છે એ પૂછે તો કેટલું સારું, નહીં ?’’\n‘‘હા હા આપણે ઇન્દ્રદેવને જ કહીએ. ચાલો, એમની પાસે જઈએ.’’\n‘‘અરે, કોને ક્યાં પડવું છે? એ તો પહેલાં મનમાં નક્કી કરી લો. ઇન્દ્રદેવ આપણને પૂછે ને આપણે વિચાર કરતાં રહીએ. બધાં પહેલાં વિચાર કરી લો. ક્યાં પડવું છે?’’\n‘‘એ વાત સાચી. ચાલો વિચારો.’’\n‘‘અને કેવી રીતે પડવું છે એ પણ વિચારી લો.’’\n‘‘કેવી રીતે એટલે ?’’\n‘‘એટલે કે બાર રીતે વરસી શકાય છે. દરેકની મજા છે.’’\n‘‘બાર રીત કઈ કઈ ?’’\n‘‘જો, પહેલી રીત ફરફર કે ઝરમર.’’\n‘‘બીજી મને ખબર છે છાંટા. ત્રીજી ફોરાં.’’\n‘‘કરા થઈને પણ પડાય છે.’’\n‘‘પછેડિયો અને નેવાધાર પણ રીતો છે.’’\n‘‘મોલિયાની રીતે પણ પડાય છે. એ સારું કહેવાય છે.’’\n‘‘ઢેફાંભાંગ પણ એક રીત છે. એક બીજી રીત છે પણ તે મને યાદ નથી આવતી.’’\n‘‘અનરાધાર.’’\n‘‘એ તો ખરી જ. પણ આ પરથી એક બીજું નામ છે... અરધિયો.’’\n‘‘સાંબેલાધાર અને હેલી. થઈ ને બાર રીતો ! તો, દરેકે પોતાની રીત નક્કી કરવાની છે. પછી ઇન્દ્રદેવ પાસે જઈશું. ચાલો, તો બધાં નક્કી કરી લઈએ. ક્યાં પડવું અને કેવી રીતે પડવું.’’\n‘‘મને બધી રીત યાદ નથી આવતી. તો મારે શું કરવાનું ?’’\n‘‘યાદ આવે તે રીતે પડવાનું. સમજાયું ?’’",
+              "topic_category": "resolution",
+              "concept_bullets": [
+                "બાર રીતો — ગુજરાતીએ વરસવાની જુદી જુદી રીતોને આપેલાં બાર નામ.",
+                "પછેડિયો — પછેડી ઓઢવી પડે એવો વરસાદ.",
+                "નેવાધાર — છાપરાના નેવા ઉપરથી પાણી વહે એટલો વરસાદ.",
+                "મોલિયો — મોલ એટલે પાક; પાકને ઉપયોગી એવો વરસાદ."
+              ],
+              "detailed_summary": "ટીપાં વિચારે છે કે વરસાદના દેવ ઇન્દ્રદેવ પોતાને પૂછે તો કેટલું સારું, ને એમની પાસે જવાનું ઠરાવે છે. પણ પહેલાં દરેકે મનમાં નક્કી કરી લેવાનું છે કે ક્યાં પડવું છે અને કેવી રીતે પડવું છે. પછી ટીપાં એકબીજાને વરસવાની બાર રીતોનાં નામ ગણાવે છે : ફરફર કે ઝરમર, છાંટા, ફોરાં, કરા, પછેડિયો, નેવાધાર, મોલિયો, ઢેફાંભાંગ, અનરાધાર, અરધિયો, સાંબેલાધાર અને હેલી. યાદી પૂરી થતાં દરેકે પોતાની રીત નક્કી કરવાની થાય છે. છેલ્લે એક ટીપું કબૂલે છે કે એને બધી રીતો યાદ નથી આવતી, ને એને સાવ સહેલો જવાબ મળે છે — યાદ આવે તે રીતે પડવાનું. પાઠ આ હળવા વાક્યથી જ પૂરો થાય છે.",
+              "important_points": [
+                "આખી યાદી — ફરફર કે ઝરમર, છાંટા, ફોરાં, કરા, પછેડિયો, નેવાધાર, મોલિયો, ઢેફાંભાંગ, અનરાધાર, અરધિયો, સાંબેલાધાર, હેલી.",
+                "ઇન્દ્રદેવ — વરસાદના દેવ; ટીપાં એમને પોતાની પસંદ કહેવા જવાનું વિચારે છે.",
+                "દરેકે પોતે નક્કી કરવાનું — ક્યાં પડવું અને કેવી રીતે પડવું.",
+                "પાઠનું છેલ્લું વાક્ય — ‘‘યાદ આવે તે રીતે પડવાનું. સમજાયું ?’’"
+              ],
+              "publication_text": "આ ખંડનો ખજાનો ભાષા છે : ગુજરાતીએ વરસવાની જુદી જુદી રીતોને બાર જુદાં નામ આપ્યાં છે, ને દરેક નામ પાછળ એક આખું ચિત્ર ઊભું છે. પછેડિયો એટલે પછેડી ઓઢવી પડે એવો વરસાદ, નેવાધાર એટલે છાપરાના નેવા ઉપરથી પાણી વહે એટલો વરસાદ, ને મોલિયો — મોલ એટલે પાક — પાકને ઉપયોગી એવો વરસાદ. ટીપાં આ યાદી વરસાદના દેવ ઇન્દ્રદેવને કહેવા માટે ગણે છે; બોલતાં ટીપાંની જેમ એ પણ વાર્તાની જ મજા છે. છેલ્લે ‘‘થઈ ને બાર રીતો !’’ કહીને યાદી પૂરી થાય છે.",
+              "recall_questions": [
+                {
+                  "id": "M2.S3.T6.RQ1",
+                  "legacy_id": "M2.S3.T6.TR1",
+                  "prompt": "વરસવાની બાર રીતોનાં નામ પાઠમાં છપાયાં છે તેમ જ ક્રમમાં લખો.",
+                  "answer": "ફરફર કે ઝરમર, છાંટા, ફોરાં, કરા, પછેડિયો, નેવાધાર, મોલિયો, ઢેફાંભાંગ, અનરાધાર, અરધિયો, સાંબેલાધાર અને હેલી. ‘ફરફર કે ઝરમર’ એક જ રીતનાં બે નામ છે, એટલે યાદી બરાબર બાર થાય છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M2.S3.T6.RQ2",
+                  "legacy_id": "M2.S3.T6.TR2",
+                  "prompt": "પછેડિયો, નેવાધાર, મોલિયો ને ઢેફાંભાંગ — આ ચાર નામ પરથી કયો વરસાદ કેવો હશે તે શબ્દાર્થપેટીના અર્થ સાથે મેળવીને લખો.",
+                  "answer": "પછેડિયો — પછેડી ઓઢવી પડે એવો વરસાદ. નેવાધાર — છાપરાના નેવા ઉપરથી પાણી વહે એટલો વરસાદ. મોલિયો — મોલ એટલે પાક, પાકને ઉપયોગી એવો વરસાદ. ઢેફાંભાંગ — વરસાદની તીવ્રતાથી માટીનાં ઢેફાં ભાંગી જાય તેવો વરસાદ. ચારેય નામ પાછળ એક ચિત્ર છે, ને એ ચિત્ર પરથી જ ખબર પડે છે કે વરસાદ કેટલો પડે છે.",
+                  "difficulty": "hard",
+                  "bloom_level": "analyze"
+                },
+                {
+                  "id": "M2.S3.T6.RQ3",
+                  "legacy_id": "M2.S3.T6.TR3",
+                  "prompt": "એક ટીપાને બધી રીતો યાદ નથી આવતી ત્યારે એને શો જવાબ મળે છે ?",
+                  "answer": "એને કહેવામાં આવે છે — ‘‘યાદ આવે તે રીતે પડવાનું. સમજાયું ?’’ પાઠ આ જ વાક્યથી પૂરો થાય છે.",
+                  "difficulty": "easy",
+                  "bloom_level": "understand"
+                }
+              ],
+              "source_topic_ids": [],
+              "publication_chunk": "‘‘આ વરસાદના ઇન્દ્રદેવ આપણને ક્યાં જઈને પડવું છે એ પૂછે તો કેટલું સારું, નહીં ?’’\n‘‘હા હા આપણે ઇન્દ્રદેવને જ કહીએ. ચાલો, એમની પાસે જઈએ.’’\n‘‘અરે, કોને ક્યાં પડવું છે? એ તો પહેલાં મનમાં નક્કી કરી લો. ઇન્દ્રદેવ આપણને પૂછે ને આપણે વિચાર કરતાં રહીએ. બધાં પહેલાં વિચાર કરી લો. ક્યાં પડવું છે?’’\n‘‘એ વાત સાચી. ચાલો વિચારો.’’\n‘‘અને કેવી રીતે પડવું છે એ પણ વિચારી લો.’’\n‘‘કેવી રીતે એટલે ?’’\n‘‘એટલે કે બાર રીતે વરસી શકાય છે. દરેકની મજા છે.’’\n‘‘બાર રીત કઈ કઈ ?’’\n‘‘જો, પહેલી રીત ફરફર કે ઝરમર.’’\n‘‘બીજી મને ખબર છે છાંટા. ત્રીજી ફોરાં.’’\n‘‘કરા થઈને પણ પડાય છે.’’\n‘‘પછેડિયો અને નેવાધાર પણ રીતો છે.’’\n‘‘મોલિયાની રીતે પણ પડાય છે. એ સારું કહેવાય છે.’’\n‘‘ઢેફાંભાંગ પણ એક રીત છે. એક બીજી રીત છે પણ તે મને યાદ નથી આવતી.’’\n‘‘અનરાધાર.’’\n‘‘એ તો ખરી જ. પણ આ પરથી એક બીજું નામ છે... અરધિયો.’’\n‘‘સાંબેલાધાર અને હેલી. થઈ ને બાર રીતો ! તો, દરેકે પોતાની રીત નક્કી કરવાની છે. પછી ઇન્દ્રદેવ પાસે જઈશું. ચાલો, તો બધાં નક્કી કરી લઈએ. ક્યાં પડવું અને કેવી રીતે પડવું.’’\n‘‘મને બધી રીત યાદ નથી આવતી. તો મારે શું કરવાનું ?’’\n‘‘યાદ આવે તે રીતે પડવાનું. સમજાયું ?’’\n\nઆ ખંડનો ખજાનો ભાષા છે : ગુજરાતીએ વરસવાની જુદી જુદી રીતોને બાર જુદાં નામ આપ્યાં છે, ને દરેક નામ પાછળ એક આખું ચિત્ર ઊભું છે. પછેડિયો એટલે પછેડી ઓઢવી પડે એવો વરસાદ, નેવાધાર એટલે છાપરાના નેવા ઉપરથી પાણી વહે એટલો વરસાદ, ને મોલિયો — મોલ એટલે પાક — પાકને ઉપયોગી એવો વરસાદ. ટીપાં આ યાદી વરસાદના દેવ ઇન્દ્રદેવને કહેવા માટે ગણે છે; બોલતાં ટીપાંની જેમ એ પણ વાર્તાની જ મજા છે. છેલ્લે ‘‘થઈ ને બાર રીતો !’’ કહીને યાદી પૂરી થાય છે.\n\nચોમાસાની એક જ સવારે નિશાળના પતરાના છાપરા નીચે ઊભા રહીએ તો વરસાદ કેટલી વાર બદલાય છે એ સંભળાય છે. પહેલાં એવો ઝીણો કે અવાજ જ ન થાય, પછી ટપ-ટપ, ને પછી એવો કે સામેવાળાનું બોલ્યું પણ ન સંભળાય. ત્રણેય વરસાદ છે, પણ ત્રણેય સાવ જુદા — ને એટલે જ ગુજરાતીએ દરેકને પોતાનું નામ આપ્યું છે.",
+              "real_life_example": "ચોમાસાની એક જ સવારે વરસાદ કેટલી વાર બદલાય છે એ નિશાળના પતરાના છાપરા નીચે ઊભા રહીને સાંભળી જુઓ. પહેલાં એવો ઝીણો કે અવાજ જ ન થાય, પછી ટપ-ટપ, ને પછી એવો કે સામેવાળાનું બોલ્યું પણ ન સંભળાય. ત્રણેય વરસાદ છે, પણ ત્રણેય સાવ જુદા — ને એટલે જ ગુજરાતીએ દરેકને પોતાનું નામ આપ્યું છે. આજે તમારે ત્યાં જે વરસાદ પડે છે એને તમે કયું નામ આપશો?",
+              "estimated_exchanges": "6",
+              "learning_objectives": [
+                {
+                  "objective_id": "O6",
+                  "legacy_id": "L6",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "વરસવાની બાર દેશી રીતોમાંથી પછેડિયો, નેવાધાર, મોલિયો ને ઢેફાંભાંગ શબ્દાર્થપેટીના અર્થ સાથે મેળવીને, દરેક નામ કેવો વરસાદ બતાવે છે તે કહેવું.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M2.S3.T6",
+                  "anchor": [
+                    "M2.S3.T6.C7",
+                    "M2.S3.T6.C8"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "primary_content_type": "image",
+              "tertiary_content_type": null,
+              "secondary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "પછેડિયો",
+                  "arth": "પછેડી ઓઢવી પડે એવો વરસાદ",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "નેવાધાર",
+                  "arth": "છાપરાના નેવા ઉપરથી પાણી વહે એટલો વરસાદ",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "મોલિયો",
+                  "arth": "મોલ એટલે પાક; પાકને ઉપયોગી એવો વરસાદ",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "ઢેફાંભાંગ",
+                  "arth": "વરસાદની તીવ્રતાથી માટીનાં ઢેફાં ભાંગી જાય તેવો વરસાદ",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "હેલી",
+                  "arth": "સતત ચાલતો વરસાદ",
+                  "prakar": "દેશ્ય"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "વરસાદ",
+                  "samanarthi": [
+                    "મેઘ",
+                    "વર્ષા"
+                  ]
+                },
+                {
+                  "shabd": "મજા",
+                  "samanarthi": [
+                    "આનંદ",
+                    "મોજ"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "પહેલી",
+                  "vilom": "છેલ્લી"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "કાળ",
+                  "udaharan": "પછી ઇન્દ્રદેવ પાસે જઈશું.",
+                  "note": "‘જઈશું’ ભવિષ્યકાળનું રૂપ છે — કામ હજી થવાનું બાકી છે. એની બાજુમાં જ ‘ચાલો, તો બધાં નક્કી કરી લઈએ.’ આવે છે, જે સૂચન બતાવે છે. એક જ ફકરામાં બંને રૂપ સાથે વાંચી જુઓ, એટલે ફેર પકડાઈ જશે."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

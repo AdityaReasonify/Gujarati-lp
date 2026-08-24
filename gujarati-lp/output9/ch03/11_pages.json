@@ -1,0 +1,11 @@
+{
+  "textbook": null,
+  "textbook_url": "../Textbooks-pdf/std-9/ch-03-jyan-jyan-vase-ek-gujarati.pdf",
+  "textbook_pages": "8–10",
+  "source": "printed folio read off renders: page-1.png bottom margin reads '8', page-3.png bottom margin reads '10' (running foot on both: 'ગુજરાતી (દ્વિતીય ભાષા), ધોરણ ૯'). Chapter is 3 pdf pages (page-1..page-3), so folios 8, 9, 10 — cross-checked against manifest.json (chapter 3: printed_start 8, pdf_start 12, pdf_end 14) and profiles/boards/gseb_gujarati.md std-9 offset (N+4: 8+4=12 ✓), both of which agree with the folio read.",
+  "confidence": "medium",
+  "gaps": [
+    "textbook_url is a local path — the GSEB readers have no hosted URL",
+    "textbook is carried as null from 01_meta.json: the std-9 cover has not been read/confirmed anywhere in this pipeline (per profiles/boards/gseb_gujarati.md), so no cover title can be asserted here. The running foot on this chapter's own pages ('ગુજરાતી (દ્વિતીય ભાષા), ધોરણ ૯') is a running foot, not the cover, and was left out of this field per 01_meta.json's own note."
+  ]
+}

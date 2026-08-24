@@ -1,0 +1,399 @@
+{
+  "phase": 2,
+  "board": "gseb",
+  "grade": 6,
+  "subject": "Gujarati",
+  "level": "standard",
+  "chapter_id": "gseb_eng_gujarati6_ch12",
+  "plan_id": "gseb_eng_gujarati6_ch12_v1",
+  "chapter_name": "અજબગજબનો મેળો",
+  "unit_title": "અજબગજબનો મેળો",
+  "unit_number": 12,
+  "genre": "mahitiprad_gadya",
+  "teaching_lens": "તથ્ય + પરંપરા + જિજ્ઞાસા",
+  "guiding_question": "જેસાવાડાના મેદાનમાં રોપાયેલો એક થાંભલો અને એની ટોચે બાંધેલી ગોળની પોટલી — આ એક રિવાજ આપણને આપણી લોકસંસ્કૃતિ વિશે શું કહી જાય છે ?",
+  "explanation_unit": "એક માહિતી-ખંડ",
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પાઠમાં આપેલા ‘મેળો’ શબ્દના મેળાપ-ભેટો અને લોકોના એકઠા થવા — એ બંને અર્થ ઉદાહરણ સાથે અલગ પાડીને કહેવા.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "જેસાવાડા ગામનો ગોળ-ગધેડાનો મેળો કયા દિવસે ભરાય છે અને ત્યાં લોકો કેવી રીતે આવે છે તે પાઠમાંથી શોધીને કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": ["M1.S2.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મેદાનની વચ્ચે થાંભલો રોપવો, આડા ફટકા બેસાડવા ને ટોચે ગોળની પોટલી લટકાવવી — આ તૈયારી ક્રમમાં ગોઠવીને પોતાના શબ્દોમાં કહેવી.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": ["M1.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "થાંભલાની આજુબાજુ કન્યાઓ હાથમાં શું લઈને શું કરે છે, અને ચઢતા જુવાનને તેઓ કઈ રીતે અટકાવે છે તે કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S3.T4",
+      "anchor": ["M1.S3.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સોટીઓનો માર ખાધા પછી પણ ટોચે પહોંચેલો ચપળ જુવાન ગોળની પોટલી મળતાં શું શું કરે છે તે ક્રમમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S3.T5",
+      "anchor": ["M1.S3.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મોડા ચઢનાર યુવાનને ટોચે પોટલી ન મળે ત્યારે તે ‘ગધેડા જેવો’ કેમ કહેવાય છે તે પોતાના શબ્દોમાં સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S3.T6",
+      "anchor": ["M1.S3.T6.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મેળાનું નામ ‘ગોળ-ગધેડાનો મેળો’ કેમ પડ્યું તે કહેવું, ને એક જમાનાનો કન્યા-પસંદગીનો રિવાજ હવે રહ્યો નથી એ પણ નોંધવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T7",
+      "anchor": ["M2.S4.T7.C7", "M2.S4.T7.C8"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મેળાના હાટમાં કઈ કઈ વસ્તુઓ મળે છે તે ગણાવીને, આદિવાસી પ્રજાએ આ પ્રથા જાળવી એને પાઠ ‘ગૌરવની વાત’ કેમ કહે છે તે વિચારવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S5.T8",
+      "anchor": ["M2.S5.T8.C9", "M2.S5.T8.C10"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પાઠને છેડે શહેરીકરણના યુગમાં પણ લોકમેળા માણવાની જે વાત કહી છે તે સમજીને, પોતે જોયેલા મેળા વિશે વાત કરવી.",
+      "bloom_level": "Apply",
+      "home_topic_id": "M2.S5.T9",
+      "anchor": ["M2.S5.T9.C11"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "strand_to_objective_map": {
+    "L1": "O1", "L2": "O2", "L3": "O3", "L4": "O4", "L5": "O5",
+    "L6": "O6", "L7": "O7", "L8": "O8", "L9": "O9"
+  },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "મેળાની ઓળખ ને જેસાવાડાનો રિવાજ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "‘મેળો’ શબ્દના અર્થ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "મેળાપ, ભેટો ને લોકોનું એકઠા થવું",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "‘મેળો’ શબ્દના અર્થ",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "મેદાનની વચ્ચે ઊભો થતો થાંભલો",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "હોળી પછી ભરાતો જેસાવાડાનો મેળો",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "હોળી પછીનો દિવસ ને ઢોલ સાથે આવતાં ટોળાં",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "થાંભલો, ફટકા ને ટોચે ગોળની પોટલી",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S2.T2"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "થાંભલો, આડા ફટકા ને ટોચની પોટલી",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S3",
+          "segment_name": "ગોળની પોટલી માટેની હોડ",
+          "topics": [
+            {
+              "topic_id": "M1.S3.T4",
+              "topic_name": "કન્યાઓનું વર્તુળ ને સોટીઓનો પહેરો",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M1.S2.T3"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S3.T4.C4",
+                  "concept_name": "કન્યાઓનું નૃત્ય ને સોટીઓથી અટકાવવું",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S3.T5",
+              "topic_name": "સડસડાટ ચઢીને ગોળ ઉડાડતો જુવાન",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S3.T4"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S3.T5.C5",
+                  "concept_name": "ટોચે પહોંચીને ગોળ ઉડાડવો",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S3.T6",
+              "topic_name": "ખાલી થાંભલો ને ગોળ વિનાનો યુવાન",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M1.S3.T5"],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S3.T6.C6",
+                  "concept_name": "પોટલી અદૃશ્ય ને ‘ગધેડા જેવો’ પુરવાર",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "નામનું રહસ્ય ને લોકમેળાની ઓળખ",
+      "segments": [
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "નામ પાછળનું કારણ ને જૂનો રિવાજ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T7",
+              "topic_name": "ગધેડા જેવો માર ને સ્વયંવરની યાદ",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M1.S3.T4", "M1.S3.T6"],
+              "objective_ids": ["O7"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T7.C7",
+                  "concept_name": "નામ પાછળનું કારણ — ગધેડા જેવો માર",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S4.T7.C8",
+                  "concept_name": "સ્વયંવરની યાદ ને હવે બદલાયેલો હેતુ",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S5",
+          "segment_name": "હાટ, ગૌરવ ને આજની અપીલ",
+          "topics": [
+            {
+              "topic_id": "M2.S5.T8",
+              "topic_name": "હાટની વસ્તુઓ ને સંસ્કૃતિની ઓળખ",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O8"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T8.C9",
+                  "concept_name": "હાટ ને મેળાનાં બીજાં આકર્ષણ",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S5.T8.C10",
+                  "concept_name": "સંસ્કૃતિની ઓળખ તરીકે જળવાયેલી પ્રથા",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S5.T9",
+              "topic_name": "સમય કાઢીને લોકમેળા માણવાની વાત",
+              "topic_type": "CONCEPT",
+              "topic_category": "resolution",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O9"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T9.C11",
+                  "concept_name": "શહેરીકરણ વચ્ચે લોકમેળા માણવાની વાત",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "marker_map": {
+    "_note": "00_chapter_normalized.md ના વાચન-માર્કર અને ટૉપિક વચ્ચેનો નકશો. વાચન-માર્કર પાંચ છે (માહિતી-ખંડ 1–5); એકેય માર્કર ગળી ગયો નથી અને એકેય ટૉપિક માર્કરની બહાર ઊભો કર્યો નથી. માહિતી-ખંડ 2 ને એજન્ટ 1ની પોતાની નોંધ મુજબ તથ્ય-પગલાંમાં કાપ્યો છે.",
+    "[[માહિતી-ખંડ 1: ‘મેળો’ શબ્દના અર્થ]]": ["M1.S1.T1"],
+    "[[માહિતી-ખંડ 2: જેસાવાડાના ગોળ-ગધેડાના મેળામાં શું થાય છે]]": ["M1.S2.T2", "M1.S2.T3", "M1.S3.T4", "M1.S3.T5", "M1.S3.T6"],
+    "[[માહિતી-ખંડ 3: મેળાનું નામ કેમ પડ્યું, અને સ્વયંવર-પ્રથાની યાદ]]": ["M2.S4.T7"],
+    "[[માહિતી-ખંડ 4: મેળાનાં બીજાં આકર્ષણ અને હાટ]]": ["M2.S5.T8"],
+    "[[માહિતી-ખંડ 5: આજના યુગમાં લોકમેળા માણવાની વાત]]": ["M2.S5.T9"],
+    "not_topics": {
+      "[[શીર્ષક]] / [[કર્તા-નિર્દેશ]]": "શીર્ષક ને ‘- સંકલિત’ — પાનાની સામગ્રી, વાચન-દૃશ્ય નહિ.",
+      "[[પ્રવેશપેટી]]": "વાદળી પ્રવેશપેટી શિક્ષકને સંબોધતું ઉપકરણ છે — ટૉપિક નહિ (એજન્ટ સ્પેક §1, apparatus).",
+      "[[છબિ]] × 2": "પૃષ્ઠ 79ના બે વાસ્તવિક ફોટોગ્રાફ — પ્રોફાઇલ મુજબ પાનાની સામગ્રી, પોતાનો ટૉપિક કદી નહિ.",
+      "[[શબ્દાર્થ]]": "શબ્દાર્થ-બોક્સ — key_terms ને ભાષા-બોધનું ખાતર, ટૉપિક નહિ.",
+      "[[સ્વાધ્યાય: …]] × 17": "બધા ક્રમાંકિત બ્લૉક એજન્ટ 10ના exercise_solutions.json ના છે — એકેય ટૉપિક નથી.",
+      "[[બોક્સ: જોડો :]]": "ક્રમાંક વગરની ચિત્ર-જોડકાં પ્રવૃત્તિ, સ્વાધ્યાય-યાદીના અંત-ટપકા પછી — appended matter, ટૉપિક નહિ."
+    }
+  },
+
+  "notes": [
+    "કાપનો એકમ: **એક માહિતી-ખંડ** (01_meta.json + reference/explanation_unit_map.md + profiles/genres/mahitiprad_gadya.md). રેન્ડર કરેલાં પાનાં 79–80 જાતે વાંચીને ચકાસ્યું — સળંગ ગદ્ય, પાંચ છપાયેલા ફકરા, પદ્ય નહિ, સંવાદ નહિ, વાર્તા-ફ્રેમ નહિ. પ્રોફાઇલના prior અને છપાયેલા પાના વચ્ચે **કોઈ વિરોધ નથી**.",
+    "**માહિતી-ખંડ 2 ને પાંચ તથ્ય-પગલાંમાં કાપ્યો છે** (T2–T6). આ એજન્ટ 1ની પોતાની નોંધનો સ્વીકારેલો હવાલો છે: 01_meta.json.structure_inventory.note કહે છે — ‘બીજો ફકરો સૌથી લાંબો છે અને તેની અંદર અનેક તથ્ય-પગલાં … છે — તેને વધુ ઝીણા તથ્ય-પગલાંમાં કાપવું કે નહિ તે એજન્ટ 2નું કામ છે.’ પ્રોફાઇલનો નિયમ ‘Where the prose walks a sequence, each stage is a topic … The stage is the boundary, not the paragraph’ અને hard gate #3 (‘Cutting by page or paragraph’) બંને આ કાપ માગે છે: આખા ફકરાને એક ટૉપિક રાખવો એટલે ફકરા પ્રમાણે કાપવું. પગલાં: (ક) ક્યાં-ક્યારે-કોણ, (ખ) થાંભલો·ફટકા·પોટલીની તૈયારી, (ગ) કન્યાઓનું વર્તુળ ને સોટીઓ, (ઘ) ટોચે પહોંચનાર, (ઙ) ખાલી થાંભલો ને ‘ગધેડા જેવો’. પાંચેય લગભગ સરખી લંબાઈના છે.",
+    "**માર્કર-ગણતરી એજન્ટ 4 માટે:** વાચન-માર્કર 5, ટૉપિક 9. એકેય માર્કર ગળ્યો નથી; એકેય ટૉપિક એવો નથી જેની નીચે માર્કરનું લખાણ ન હોય. ઉપરનો `marker_map` એક-એક ટૉપિકને તેના માર્કર સાથે જોડે છે.",
+    "**એકેય ટૉપિક `topic_category: \"climax\"` ધરાવતો નથી** — mahitiprad_gadya hard gate #1 (‘Re-teaching the frame as a વાર્તા’). T6 (ગોળ વિનાનો યુવાન) લખાણનું સૌથી રમૂજી બિંદુ છે, છતાં તે `core` છે, `climax` નહિ: અહીં કોઈ પાત્ર નિર્ણય લેતું નથી અને કોઈ વળાંક નથી.",
+    "**hard gate #8 પળાયો છે:** સ્વયંવર-પ્રથાનો ઉલ્લેખ અને પાઠનું પોતાનું સુધારણ-વાક્ય ‘પરંતુ હવે મેળાનો હેતુ કન્યા પસંદગીનો રહ્યો નથી.’ બંને **એક જ ટૉપિક** M2.S4.T7 માં છે (અને O7 પોતે પણ એ સુધારણ વહન કરે છે). એજન્ટ 12/5 એ આ બે વાક્યોને જુદા ટૉપિકમાં ન વહેંચવાં.",
+    "**એજન્ટ 6 માટે:** આ પ્રદર્શનાત્મક ગદ્ય છે — `figures_of_speech: []` અને `rhyme_scheme: null` એ સાચા, પૂરા જવાબ છે (hard gate #12; 01_meta.json નું structure_inventory કડી/દુહો/પદ/શેર/ટેક બધું 0 નોંધે છે).",
+    "**ધોરણ 6ની craft-label ceiling:** એકેય objective_text માં અલંકાર, છંદ, સમાસ કે સાહિત્યપ્રકારનું નામ નથી — પાનું પોતે પણ એવું કોઈ નામ છાપતું નથી.",
+    "**concept counter:** `c` પ્રકરણ-સળંગ છે. T7 અને T8 બે-બે concept ધરાવે છે (T7: નામનું કારણ + સ્વયંવરની યાદ; T8: હાટ + સંસ્કૃતિની ઓળખ — પ્રોફાઇલ કહે છે ‘two concepts in one topic, never a third’), તેથી T8થી આગળ `c` `t` કરતાં મોટો થાય છે (T9 → C11). આ chapter-continuous નિયમનું સીધું પરિણામ છે; એજન્ટ 14 ના renumber વખતે ધ્યાનમાં રાખવું.",
+    "**pre-topic hook:** ‘આજે આપણે એક વિશિષ્ટ મેળાનો પરિચય મેળવીએ.’ — આ વાક્ય માહિતી-ખંડ 1નું છેલ્લું છપાયેલું વાક્ય છે અને પછીના કોઈ એક તથ્ય-પગલાનું નહિ પણ આખા બાકીના પાઠનું આમંત્રણ છે, તેથી T1માં જ રાખ્યું છે (T1 = `introduction`). એજન્ટ 5 original_chunk કાપતી વખતે આ સીમા પાળે.",
+    "**અસમાન લંબાઈ, ઇરાદાપૂર્વક:** M2.S5.T9 એક જ છપાયેલા વાક્યનો ટૉપિક છે — સૌથી ટૂંકો. પ્રોફાઇલ સ્પષ્ટ કહે છે: ‘The frame’s closing likewise. std-6 ch 12 ends on an appeal to go and see a લોકમેળો; that is its own small topic, topic_category: \"resolution\".’ આ ટૂંકાઈ ખામી નથી.",
+    "**પાતળા સેગમેન્ટ:** M1.S1 અને M2.S4 એક-એક ટૉપિક ધરાવે છે. ‘મેળો’ શબ્દની ઓળખ અને નામ પાછળનું કારણ — બંને પોતાના તથ્ય-ગુચ્છ છે અને બીજા કોઈ ટૉપિક સાથે સાચી રીતે બંધાતા નથી; જબરદસ્તીથી ભેળવવા કરતાં અલગ રાખ્યા છે.",
+    "**topic_type:** નવેય ટૉપિક લેખિત authored enum માં `CONCEPT` છે (પદ્ય નથી, વાર્તા નથી, in-text wrap નથી). એજન્ટ 14/15 એને `instructional` માં મૅપ કરે — reference/phase2_contract.md નું topic_type કોષ્ટક.",
+    "**difficulty** પ્રકરણની અંદર સાપેક્ષ છે અને L2 વાચકને પાના પર શું અટકાવે છે તેનાથી નક્કી કરી છે — શબ્દભાર ને જોડાક્ષર, વિચારનું કદ નહિ: hard = T4 (કુંવારી, વાંસની પટ્ટીઓ, વર્તૃળાકારમાં નૃત્ય, સોટીઓ), T6 (ધાંધલ-ધમાલ, અદૃશ્ય, પુરવાર + રમૂજનો વળાંક), T7 (સ્વયંવર-પ્રથા, અકબંધ, ઘેરો); easy = T1, T2, T9. કોઈ ટૉપિક ‘craft’ને કારણે hard નથી — ધોરણ 6માં એ શક્ય જ નથી.",
+    "**depends_on** માત્ર સાચી નિર્ભરતા નોંધે છે — લખાણમાં પાછળ ઇશારો કરતા શબ્દો: T4 ‘આ થાંભલાની આજુબાજુ’ → T3; T5 ‘આ સોટીઓનો માર ખાઈને પણ’ → T4; T6 ‘આ બધી ધાંધલ-ધમાલમાં … પોટલી … અદૃશ્ય’ → T5; T7નું નામ-કારણ સોટીઓના માર (T4) ને ‘ગધેડા’ની ઓળખ (T6) પર ઊભું છે. T1, T2, T8, T9 માટે `[]` સાચો જવાબ છે.",
+    "**સ્વાધ્યાય કઈ રીતે તૈયાર થાય છે (એજન્ટ 10/12 માટે માત્ર નોંધ, અહીં કોઈ બ્લૉક ટૉપિક બન્યો નથી):** માહિતી-ખંડ પ્રમાણેનો કાપ પોતે જ બ્લૉક 4ના તથ્ય-પ્રશ્નો (‘ગોળ-ગધેડાના મેળાની વિશેષતા શી છે ?’, ‘સ્વયંવર એટલે શું ?’) તૈયાર કરે છે; T5નું ‘સડસડાટ’ બ્લૉક 10ના રવાનુકારી શબ્દ-શિકારને; T9નું બંધ-આમંત્રણ બ્લૉક 15 (‘મેં જોયેલો મેળો’)ને.",
+    "**સંવેદનશીલતા (એજન્ટ 8 માટે આગોતરી નોંધ):** T8માં ‘આદિવાસી પ્રજા’ પાઠનો પોતાનો છપાયેલો શબ્દ છે અને પાઠ પોતે એને ‘ગૌરવની વાત’ કહે છે — એ જ ગૌરવનો સૂર જાળવવો, સામાન્ય પર્યાય વાપરવો નહિ (global_content_rules §10, profile hard gate #7). ‘જેસાવાડા ગામ’, ‘ગરબાડા તાલુકો’, ‘દાહોદ જિલ્લો’ છપાયેલાં નામ છે અને એ જ રૂપે વપરાય.",
+    "એજન્ટ 2 એ કોઈ teaching prose લખી નથી: `explanation`, `real_life_example`, summaries, recall questions — બધું ખાલી છે; `original_chunk` પણ ખાલી છે (એજન્ટ 5નું કામ)."
+  ]
+}

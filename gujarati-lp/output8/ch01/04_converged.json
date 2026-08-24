@@ -1,0 +1,13 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "db67ca81bdf004e4a3a59a01594d2421c59d0a78c4cf1fcbfb247591dcce899e",
+  "verdict": "pass",
+  "notes": [
+    "Convergence record, not a copy. Downstream agents read 02_structure.json for the structure itself and this file only to confirm that the structure passed Agent 4 and that its ids are frozen.",
+    "Ids are frozen from this moment: modules M1–M2, segments M1.S1 / M1.S2 / M2.S3 / M2.S4, topics M1.S1.T1 … M2.S4.T6, concepts chapter-continuous C1–C6, objectives O1–O6 with strand_to_objective_map L1→O1 … L6→O6. Only Agent 14 renumbers M/S/T/C, translating every surviving reference; O{n} and strand_to_objective_map are never renumbered.",
+    "The sha256 above is of the exact bytes of 02_structure.json at the moment of validation. If that file changes, this convergence record no longer describes it and Agent 4 must run again.",
+    "Verdict pass on all three blocking checks — સ્વરૂપ fidelity, coverage, objectives and the phase-2 id contract. Six reading markers, six topics, thirteen સ્વાધ્યાય blocks and three apparatus boxes correctly excluded. Full reasoning and the non-blocking notes for Agent 13 are in 04_validation.json.",
+    "The chapter_id / plan_id carried in the frozen structure hold the PROVISIONAL 'gseb' board and 'eng' medium segments pending VERIFY-1. Resolving those segments is not a renumbering and does not reopen this convergence."
+  ]
+}

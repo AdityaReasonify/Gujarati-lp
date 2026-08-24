@@ -1,0 +1,71 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati6_ch6",
+  "grade": 6,
+  "chapter_name": "સંસ્કારે સર્જ્યું સ્વર્ગ",
+  "validated_source": "02_structure.json",
+  "validated_source_sha256": "f55067b7e37c9e2695914a976007e4863f0b928c58a93119efde74223ac5418c",
+  "run": "single pass (reference/loop_protocol.md — Agent 4 runs once)",
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "explanation_unit_declared_01_meta": "એક માહિતી-ખંડ (તથ્ય-ગુચ્છ)",
+      "explanation_unit_used_02_structure": "એક માહિતી-ખંડ (તથ્ય-ગુચ્છ)",
+      "active_genre_profiles": ["mahitiprad_gadya.md", "samvad_nibandh.md"],
+      "notes": [
+        "The cut uses the unit named in 01_meta.json. mahitiprad_gadya.md is dominant and its unit is 'one માહિતી-ખંડ'; all eight topics are fact-clusters, none is a speaker turn, a paragraph or a page.",
+        "Verse units do not arise: 00_chapter_normalized.md carries zero [[કડી]], zero [[દુહો]], zero [[પદ]] and zero [[ટેક]] markers, and 01_meta.json records the same measured zeros. The 'no two દુહા share a topic', 'no પદ is split' and 'changed-words ટેક' rules are vacuously satisfied.",
+        "mahitiprad_gadya.md avoid-gate 2 (structural, checked here): 25 quoted speaker turns in the reading body against 8 topics — 8 < 25 holds. Every topic spans two or more turns (T6 spans four), so no boundary is a bare change of speaker; each boundary also closes a fact-step ('સંસ્કારે ઉછેર્યાં', the daily watering, 'આપણી તો ફરજ થાય ને ?', 'બધાં જ જાહેર સંકુલો આજે લીલાંછમ છે', 'લોઢાના ચણા ચાવવા જેવું છે', the exam success under the garden's shade, 'શાળા તો ઉપવન જેવી લાગે છે').",
+        "mahitiprad_gadya.md avoid-gate 1 (structural half): no topic carries topic_category 'climax' — the four values used are introduction / core / transition / resolution. No objective asks why a character chose to act or names a વળાંક.",
+        "mahitiprad_gadya.md avoid-gate 3 (structural half): every topic_name names the fact-step it teaches (કલમ કરેલી બોરડી ને ડ્રેગનફ્રુટની ખેતી, નક્ષત્ર-વનનો બગીચો, ઔષધબાગ-તુલસીવન-કિચનગાર્ડનવાળી શાળા…); none is a positional label. The field-level half of this gate — first sentence of each explanation — cannot be checked at Agent 4 because Agent 2 writes no explanation by design; it belongs to Agent 13.",
+        "samvad_nibandh.md G6 (wrong-route gate, explicitly assigned to Agent 4): zero lines in the reading body use a speaker name in label position, and there are zero parenthetical stage directions (01_meta rangsuchna_total_parentheticals = 0; independent grep of 00_chapter_normalized.md finds label-position colons only inside the HTML provenance comment and inside 'ઉદાહરણ :' lines of the સ્વાધ્યાય). No reroute to natak_ekanki.md.",
+        "samvad_nibandh.md G7 (argument-not-payload) is satisfied in the direction it is written: the topics ARE separable by what they inform about, which is precisely why mahitiprad_gadya.md is the route taken and not the other way round.",
+        "Objectives carry no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label — the std-6 craft-label ceiling holds.",
+        "No digits in any module_name, segment_name, topic_name or concept_name; numbers appear only in ids and in provenance fields. Chapter-own quantities in objective_text are written in Gujarati words ('એકસો દસ', 'સાડત્રીસ', 'અઢી દાયકા'), which is chapter fact, not structural numbering."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 8,
+      "topics": 8,
+      "modules": 2,
+      "segments": 4,
+      "concepts": 11,
+      "notes": [
+        "Eight [[સંવાદ: …]] reading markers in 00_chapter_normalized.md (lines 23, 34, 43, 52, 59, 64, 75, 80) against eight topics, each topic carrying exactly one marker, in printed order — verified by string equality of the marker list against the topic markers[] sequence. No marker swallowed, no topic invented where no marker sits.",
+        "Line-range provenance is complete and gap-free across the whole reading body (lines 24–83). Each topic's source_lines_00_normalized begins on the line immediately after its marker. M2.S3.T6 is the one split range (65-67 + 71-73) because the printed photograph on page 36 interrupts the column; the [[ચિત્ર]] marker line 69 is correctly skipped and reading order is preserved.",
+        "No pre-reading opener exists to cover. The only pre-chapter prose is the blue [[પ્રવેશપેટી]], which 00_chapter_normalized.md itself marks 'શિક્ષક-સંબોધિત; વાચન-દૃશ્ય નથી' — teacher-addressed apparatus, which reference/explanation_unit_map.md rule 4 excludes from topics. A2 recorded it under not_cut_as_topics rather than dropping it silently. Correct, not a gap.",
+        "No in-text wrap block exists. M2.S4.T8 is the closing scene but is typed CONCEPT / resolution rather than REVIEW because it introduces two new facts (the unwillingness to return to the city's polluted air; families resettling back in the village) instead of summarising. A2 flagged the judgement for review; it stands.",
+        "No સ્વાધ્યાય block became a topic. All sixteen exercise_inventory verbatim_headings were cross-checked against every module_name, segment_name, topic_name and concept_name — zero collisions in either direction. No topic claims any line at or after line 85, where the શબ્દાર્થ box and then the sixteen સ્વાધ્યાય blocks begin; every topic marker is a [[સંવાદ]] marker.",
+        "Apparatus correctly excluded and documented: title strip, author slot, QR badge, પ્રવેશપેટી, the શબ્દાર્થ box, the રૂઢિપ્રયોગ and કહેવત bullet lists, the two printed images, and the chapter-final yellow 'ગુજરાતી શબ્દકોશ ક્રમ' reference box. The two કહેવત are also quoted inside the reading body and sit there as part of M1.S2.T3's span, which is right.",
+        "01_meta.json's structure_inventory.ghatna = 10 against 8 topics is a reconciled difference, not a coverage gap: A1 recorded ten printed fact-blocks as a note on printed structure ('કાપ Agent 2 નું કામ છે'), and blocks (1)+(2) sit under one [[સંવાદ]] marker as do (3)+(4). A2 honoured the one-marker-one-topic rule and carried the inner distinction into concepts (C1/C2 in M1.S1.T1, C3/C4 in M1.S2.T2). No fact-step is lost."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 8,
+      "notes": [
+        "Root objectives[] exists with eight entries; objective_id O1–O8 all unique, legacy_id L1–L8 all unique.",
+        "Every home_topic_id resolves to a topic in this tree and every anchor[] id resolves to a concept in this tree (11 concepts, all reachable).",
+        "strand_to_objective_map covers every legacy_id exactly once and maps L{n} → O{n} consistently with the registry. Single strand 'L' / 'ભાષા અને સાહિત્ય' throughout.",
+        "Every topic carries a non-empty objective_ids[]; every id in it resolves to the registry, as does every concept-level objective_id. No objective is orphaned — all eight are pointed at.",
+        "Each objective is text-grounded and could fit no other chapter: it names this chapter's printed matter — સિકલ, સંકલ્પ, 'જાત મહેનત ઝિંદાબાદ' / 'પારકી આશ સદા નિરાશ', એકસો દસ / સાડત્રીસ, સાગ-સીસમ-વાંસ, નક્ષત્ર-વન, ઔષધબાગ-તુલસીવન-કિચનગાર્ડન, 'સંસ્કારે સર્જ્યું છે સ્વર્ગ'. objective_text lengths run 18–24 words, inside the 12–30 band. bloom_level is Capitalised: five Understand, three Analyze.",
+        "Each objective serves the declared teaching_lens (તથ્ય + પરંપરા + જિજ્ઞાસા): every one asks the child to find and state what the text reports was actually done, not to moralise about it.",
+        "Id grammar per reference/naming_conventions.md: M1, M2; segments M1.S1, M1.S2, M2.S3, M2.S4 (continuous, never restarting); topics T1–T8 continuous; concepts C1–C11 chapter-continuous across topics, so the concept number does not equal the topic number where a topic holds two concepts — which is what reference/phase2_contract.md requires. Zero M{m}.S{s}.T{t}.P{n}-style objective codes anywhere in the file; zero '.SR{n}' recall ids."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "NON-BLOCKING, carried to Agent 13 — the genre diagnosis is still an open question that both A1 and A2 raised in the open. 01_meta.json records genre_confidence 'low' and explicitly says the explanation unit would change to 'એક દલીલ-પગલું' if the orchestrator made samvad_nibandh dominant. The run context resolved mahitiprad_gadya.md as dominant with samvad_nibandh.md's two-voice gate loaded alongside, and A2 cut on that resolution. I did not treat this as a Check-1 block: the cut matches the unit actually named in 01_meta.json, and it is defensible against samvad_nibandh.md's own near-miss test — the dialogue here delivers a fact payload, પુરુષોત્તમભાઈ asks and never holds a contrary position, and nothing is disputed between the two speakers. Worth a human eye once, because samvad_nibandh.md names this exact chapter as its anchor and quotes the chapter's own blue box, 'આ સંવાદ પ્રકારનો એકમ છે.'",
+    "The consequence of that open question is small and A2 measured it: the eight topic boundaries also fall between samvad_nibandh.md's four argument moves (T1 સ્થાપના, T2–T3 પડકાર/પ્રશ્ન, T4–T7 પુરાવો, T8 માગણી), so a later re-route would not move a single boundary. Only the module/segment names and the emphasis of the objectives would need re-weighting.",
+    "O2's objective_text compresses the chapter's printed 'રોજ વહેલી સવારે અને સાંજે' to 'રોજ સવાર-સાંજ'. Same fact, no invention, and no proper noun or technical term is involved — but downstream authoring should carry the printed wording, not the compression.",
+    "Uneven topic weight, as A2 already noted: M1.S1 holds a single topic, M2.S3.T5 holds the chapter's longest single paragraph (one speaker turn, eight-plus unfamiliar tree names), M2.S4.T7 holds only two turns. This is the printed page's own shape; evening it out would have split a fact-step. Recorded, not blocked.",
+    "original_chunk is empty on all eight topics and concepts[] carry empty key_terms and content shells. That is correct at this stage — agents/02_structure.md specifies exactly this and assigns the verbatim to Agent 5. The verbatim gate is therefore NOT yet satisfied for this chapter and must be enforced at Agent 5 against the renders.",
+    "Provenance: validated entirely against 00_chapter_normalized.md, 01_meta.json and 02_structure.json. No PNG in _renders was opened — every question raised by the three checks (marker counts, line-range coverage, the page-36 photograph interrupting M2.S3.T6's column, the absence of speaker labels and stage directions) was already answered by A1's transcription and its inline layout notes.",
+    "Ids are frozen from this pass. Agent 14 renumbers along the traversal and must translate every surviving reference; O{n} and strand_to_objective_map are not renumbered.",
+    "This chapter directory was RESUMED: 04_validation.json and 04_converged.json from an earlier pass predated the current 02_structure.json (18:27 against 22:03). Both were rewritten against the current file, whose sha256 is recorded above. The earlier 04_converged.json was a full copy of the structure payload; it is now a convergence record, per the run contract."
+  ]
+}

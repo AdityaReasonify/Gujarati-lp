@@ -1,0 +1,279 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "`વાણિયો` in 'એક ઈડરનો વાણિયો, ધૂળો એનું નામ,' names ધૂળાનું કામ (વેપાર), never a community. No sentence of `explanation`, `real_life_example`, `summary`, `detailed_summary`, any `concept_bullets` line or any `recall_questions[].answer` attaches a trait to વાણિયા/વેપારીઓ as a group (કંજૂસ, બીકણ, હિસાબી, ચતુર) or uses the word as a caste name. The only facts about him that may be stated are the four this `original_chunk` prints: ઈડર, ધૂળો, સમી સાંજ, કોટડે ગામ.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "The first sentence of `explanation` names ધૂળો, વાણિયો, નીકળ્યો or કોટડે — a character or an action printed in this `original_chunk`. A first sentence that opens on the નામ–ગામ પ્રાસ, on લય, or on any craft term is a fail; the નામ–ગામ pair may be said aloud in at most one sentence, and only after the child knows who is walking where.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "No field states a reason for the journey (વેપાર, ઉઘરાણી, માલ લેવા) — this `original_chunk` prints only 'નીકળ્યો જવા કોટડે ગામ !' and gives no purpose. `explanation` and every `recall_questions[].answer` stop at what is printed.",
+          "profile": "kathakavya",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "'એક ઈડરનો વાણિયો, ધૂળો એનું નામ,' — આ પંક્તિમાં 'છે' લખાયું નથી. બીજી ભાષામાં ભણતું બાળક એટલે બે જુદા માણસ ગણી લે છે : એક વાણિયો ને બીજો ધૂળો નામનો કોઈ. પછી આખા કાવ્યમાં કોણ ચાલે છે, કોણ ભૂલો પડે છે ને કોણ લડે છે એ ગૂંચવાઈ જાય છે.",
+      "correction": "પહેલા જ વાક્યમાં ખોલો કે માણસ એક જ છે : 'વાણિયો' એ ધૂળાનું કામ બતાવે છે — વેપાર કરનાર — ને 'ધૂળો' એ એનું નામ છે. `key_terms` માં 'વાણિયો — વેપાર કરનાર માણસ' રાખો, અને પછી આખા એકમમાં એને 'ધૂળો' કહીને જ બોલાવો, જેથી બાળક એક જ પાત્ર પકડી રાખે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "`explanation` quotes at least one phrase character-for-character from this `original_chunk` — 'ચડિયો બીજી વાટ' or 'દિલમાં થયો ઉચાટ' — and adds what `modified_chunk` does not already say: that the અંધારું is what puts him on the wrong વાટ, and that the ઉચાટ is the એકલા-અંધારાની ચિંતા, not the walking. If `explanation` could be swapped for `modified_chunk` with nothing lost, the topic fails.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "`ચડિયો` appears in that printed form wherever any field quotes this line — never repaired to `ચડ્યો` inside a quotation — and `વાટ` is glossed with the chapter's own શબ્દાર્થ wording ('વાટ - રસ્તો') rather than replaced by રસ્તો in the quoted line.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "No field turns 'જંગલમાં ભૂલો પડ્યો' into a warning about going out at night or about jungles being dangerous; the topic reports what happened to ધૂળો, not what children should do.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "`ઉચાટ` બાળક માટે તદ્દન નવો શબ્દ છે. અંગ્રેજી કે હિન્દી માધ્યમનું બાળક એને 'ઊંચું' જેવા સાંભળેલા શબ્દ સાથે જોડી દે છે અને 'દિલમાં થયો ઉચાટ'ને 'દિલ ઊંચું થયું, હરખ થયો' એવો સાવ ઊંધો અર્થ આપી બેસે છે — એટલે અંધારી વાટનો ડર જ ઊડી જાય છે.",
+      "correction": "જે વાક્યમાં `ઉચાટ` પહેલી વાર આવે તે જ વાક્યમાં એને ગ્લોસ કરો — 'ઉચાટ — ચિંતા, ફિકર' — પુસ્તકની પોતાની શબ્દાર્થ-પેટીના શબ્દોમાં જ. પછી પુસ્તકના રૂઢિપ્રયોગ-બ્લૉકનું 'દિલમાં ઉચાટ થવો — ડર લાગવો' વાપરીને એક વાક્યમાં કહો કે અંધારે, જંગલમાં, એકલા ધૂળાને ડર લાગ્યો."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "This topic carries the title line 'નથી કદી હું એકલો, સાથી મારે બાર !' and must leave it unresolved. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` names હિંમત, વિશ્વાસ, હાથ, આંખો, પાય, કાટલાં or કોથળો as the twelve, and none says that ધૂળો is bluffing or that the ચોર will run away. Here the line is a claim ધૂળો makes to himself, and the child is left wanting the answer.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "The topic is about હિંમત, so the tacked-on બોધ gate bites hardest here: no `explanation`, `summary`, `detailed_summary`, `concept_bullets`, `important_points` or `recall_questions[].answer` may contain a sentence of the shape 'આપણે પણ હિંમત રાખવી જોઈએ' / 'આ કાવ્ય આપણને શીખવે છે' / 'બોધ એ છે કે', unless those exact words are quoted from this chapter's own printed lines — and they are not printed anywhere in it.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` names who is speaking. 'નથી કદી હું એકલો, સાથી મારે બાર !' is inside single quotes but has no speaker tag; the printed clue is 'મનમાં કર્યો વિચાર', so every field that reports this line says ધૂળો is saying it to himself, not aloud to anyone.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'સાથી મારે બાર' — હિન્દી વાંચતું બાળક `મારે`ને હિન્દીના 'मारे' (મારવું) અને `બાર`ને હિન્દીના 'बार' (વખત) તરીકે વાંચે છે, એટલે પંક્તિ 'સાથી બાર વખત મારે છે' જેવી કશીક ઊંધી વાત બની જાય છે. કાવ્યનું મથાળું જ આ પંક્તિ છે, એટલે એક જ ભૂલ આખા પાઠનું બારણું બંધ કરી દે છે.",
+      "correction": "પહેલા વાક્યમાં જ બંને શબ્દ ગ્લોસ કરો — 'મારે — મારી પાસે' અને 'બાર — બારની સંખ્યા' — અને પછી આખી પંક્તિ સાદી બોલચાલની ગુજરાતીમાં ફરી કહો : 'હું ક્યારેય એકલો નથી, મારી પાસે તો બાર સાથી છે.' બંને શબ્દ `key_terms` માં પણ મૂકો, કેમ કે એ જ પાઠનું નામ છે."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "The threat 'ખબરદાર ! જે હોય તે આપી દે આ વાર' is spoken by the ચોરો — this `original_chunk` names only 'ચોરો ચાર' and no one else. No `explanation`, `recall_questions[].answer` or `concept_bullets` line gives one of them a name, a સરદાર, a leader, or a described face; and none adds a weapon, a horse or a lamp that the printed lines do not carry.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "The first sentence of `explanation` names ઝાડી, ચોરો or the act ચમક્યા — something printed in this `original_chunk`. Opening on the વાર–ચાર પ્રાસ or on લય is a fail; the rhyme, if said at all, comes after the ambush is clear and takes one sentence.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "`આ વાર` is glossed as 'આ વખતે, અત્યારે જ' at first use. A child with Hindi in the room reads વાર as 'ઘા / હુમલો', which turns a demand into a blow; the gloss must sit in the same sentence as the quoted phrase, not in a list further down.",
+          "profile": "kathakavya",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "`ચમક્યા` હિન્દીના 'चमकना' જેવો દેખાય છે, એટલે બાળક 'ચમક્યા ચોરો ચાર'ને 'ચાર ચોર ચમક્યા — ઝગમગ્યા' એમ વાંચે છે. પછી ઝાડી કેમ સળવળી ને અચાનક શું થયું એ પકડાતું નથી, ને ઓચિંતા ઘેરાઈ જવાની બીક પંક્તિમાંથી ઊડી જાય છે.",
+      "correction": "જે વાક્યમાં `ચમક્યા` પહેલી વાર આવે ત્યાં જ ગ્લોસ કરો — 'ચમક્યા — અચાનક બહાર દેખાયા' — અને એ પહેલાં 'ઝાડી સળવળી' બતાવો : પહેલાં ઝાડ-ઝાંખરાં હાલ્યાં, પછી એમાંથી ચાર ચોર ઓચિંતા બહાર આવ્યા. એક `recall_questions[].prompt` આ ક્રમ પર જ પૂછો — પહેલાં શું થયું, પછી શું થયું."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "'બાર જણા લઈ નીકળ્યો' stays unexplained in this topic. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` names હિંમત, વિશ્વાસ, કાટલાં or કોથળો as the બાર જણા, and none states that the ચોર got frightened or ran away — that is the તાળો the last topic opens and the turn the climax topic carries.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "`અલ્યા` and `કાંક` appear in their printed form wherever any field quotes 'અલ્યા, નથી હું એક' or 'કરજો કાંક વિવેક !' — never swapped for અરે or કંઈક inside the quotation. They are glossed beside the quote as the poem's own બોલચાલના શબ્દો, not marked as mistakes.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "The topic reports ધૂળાનો જવાબ, not a rule about how to face danger: no field ends on a sentence of the shape 'આપણે પણ ડર્યા વગર જવાબ આપવો જોઈએ' or 'હિંમતથી બોલવું જોઈએ' unless those exact words are printed in this chapter.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'કરજો કાંક વિવેક !' — `વિવેક` બાળકોમાં ખૂબ સાંભળેલું નામ છે, એટલે બાળક એને કોઈ માણસનું નામ ગણી લે છે અને 'અલ્યા'ને પણ સંબોધન સમજીને એમ વાંચે છે કે ધૂળો સાચે જ કોઈને બોલાવે છે. એટલે 'નથી હું એક'નો આખો દાવ — એકલા માણસનો હિંમતભર્યો જવાબ — ઊલટો સમજાય છે.",
+      "correction": "પહેલા વાક્યમાં જ `વિવેક`ને શબ્દ તરીકે ખોલો — 'વિવેક — સમજપૂર્વકનું, મર્યાદાવાળું વર્તન' — અને આખી પંક્તિ સાદી ગુજરાતીમાં ફરી કહો : 'થોડી સમજ રાખજો, થોડી મર્યાદા રાખજો.' સાથે 'અલ્યા — અરે !' એટલું જ ગ્લોસ કરો, ને સ્પષ્ટ કહો કે ધૂળો ચોરોને જ કહે છે, બીજા કોઈને નહીં."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "'કાલે કરજે ટાયલી ! આજે દઈ દે માલ !' carries no printed speaker tag; the tag arrives only in the next line, 'એવું બોલી ઊમટ્યા ચોરો બે વિકરાળ !'. Every `explanation`, `concept_bullets` line and `recall_questions[].answer` that reports this speech attributes it to the ચોરો. Attributing it to ધૂળો — who spoke last in the previous topic — is a fail, and so is inventing a fifth speaker.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "`ટાયલી` is kept as printed and glossed with the chapter's own રૂઢિપ્રયોગ wording, 'ટાયલી કરવી — નકામી દોઢડહાપણની વાત કરવી'; and `વિકરાળ` with its own શબ્દાર્થ wording, 'વિકરાળ — ડરામણું'. No field replaces either word inside a quoted line.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "The count is the poem's: 'ચમક્યા ચોરો ચાર' in the previous topic and 'ઊમટ્યા ચોરો બે વિકરાળ' here name the same four men, two of whom rush in. No `explanation`, `summary` or `recall_questions[].answer` states a total of છ ચોર or adds new thieves.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "આગલી કડીમાં 'ચમક્યા ચોરો ચાર' આવ્યું ને અહીં 'ઊમટ્યા ચોરો બે વિકરાળ' આવે છે. બાળક બંને આંકડા ભેગા કરીને છ ચોર ગણી લે છે — પુસ્તકનો ખરું-ખોટું બ્લૉક પોતે આ જ ભૂલ પકડવા માટે એક વાક્ય મૂકે છે. પછી 'બાર જણા' સામે કેટલા હતા એ આખો હિસાબ ખોટો પડે છે.",
+      "correction": "`explanation` માં એક વાક્યે ચોખ્ખું કરો કે ચોર ચાર જ છે, ને એ ચારમાંથી બે ધૂળા પર તૂટી પડે છે. એક `recall_questions[].prompt` સીધો આના પર જ રાખો — 'ચોર કુલ કેટલા હતા ? એમાંથી કેટલા ધૂળા પર ધસી આવ્યા ?' — જેથી બાળક પોતે ગણીને ચાર ને બે છૂટા પાડે."
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "`કાટલું` is glossed with the chapter's own શબ્દાર્થ wording — 'કાટલું - વજન; અમુક નક્કી વજનનું તોલવાનું સાધન' — and no `explanation`, `key_terms`, `concept_bullets` line, summary or `recall_questions[].answer` states a ગ્રામ, કિલો or રતલ value for the ચાર કાટલાં, nor says how heavy the કોથળો was. The chapter prints no weight.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "'ક્યાંથી રે ! આ વાણિયો શીખ્યો આવા દાવ ?' is the ચોરોની નવાઈ, printed as their line. No field may turn it into a claim about વાણિયા or વેપારીઓ as a group — that they do not fight, that they are timid, that trade makes a man clever. The surprise named is the surprise about ધૂળો, this one man.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "`ખાળે`, `સબોસબ` and `ધબોધબ` appear in their printed form wherever quoted, and `ખાળે` is glossed with the chapter's own શબ્દાર્થ wording 'ખાળે - અટકાવે'. No field replaces them with માનક equivalents inside a quoted line or calls them mistakes.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'એમના ધૂળો ખાળે ઘાવ' — `ખાળે` બાળકને 'ખાવું' પરથી બનેલો શબ્દ લાગે છે, એટલે એ વાંચે છે કે 'ધૂળો ઘા ખાય છે', એટલે કે માર ખાય છે. આનાથી આખું ચિત્ર ઊંધું થઈ જાય છે : જે પંક્તિમાં ધૂળો ચોરોના ઘા રોકી લે છે તે જ પંક્તિમાં બાળક ધૂળાને હારતો જુએ છે.",
+      "correction": "જે વાક્યમાં પંક્તિ ટાંકો ત્યાં જ પુસ્તકની શબ્દાર્થ-પેટીના શબ્દોમાં ગ્લોસ કરો — 'ખાળે — અટકાવે' — અને પંક્તિ ફરી સાદી ગુજરાતીમાં કહો : 'ચોરો ઘા કરે છે, પણ ધૂળો એ ઘા વચ્ચેથી જ રોકી લે છે.' `key_terms` માં પણ 'ખાળે — અટકાવે, રોકે' રાખો."
+    },
+    {
+      "topic_id": "M2.S4.T8",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` names ધૂળો, જંગ or the act of his calling out — something printed in this `original_chunk`. A first sentence that opens on the જંગ–રંગ પ્રાસ, on લય or on any craft word is a fail; one craft sentence at most, and only after the fight is clear.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "'હું નહિ એકલો, હવે બતાવું રંગ !' is repeated here from the earlier કડી and still stays unresolved: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` names હિંમત, વિશ્વાસ or the કાટલાં-કોથળાની ગણતરી as the answer, and none says the ચોર are about to run.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "`નહિ` appears as printed wherever this line is quoted — never repaired to નથી or નહીં inside the quotation — and is glossed beside the quote as કવિતાનું ટૂંકું રૂપ, not flagged as an error.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'હવે બતાવું રંગ !' — `રંગ` બાળક રંગ-કલર તરીકે વાંચે છે, એટલે ધૂળાની લલકાર 'હવે હું તમને કોઈ રંગ દેખાડું' જેવી અર્થ વગરની વાત બની જાય છે, અને લડતાં લડતાં મારેલી આ બડાઈનો જોશ પકડાતો નથી.",
+      "correction": "'રંગ બતાવવો' આખા શબ્દજૂથ તરીકે એક જ વાર ગ્લોસ કરો — 'પોતાની ખરી તાકાત ને આવડત દેખાડવી' — અને પંક્તિ ફરી કહો : 'હવે તમને ખબર પડશે કે હું શું કરી શકું છું.' આ પંક્તિ ધૂળો લડતાં લડતાં મોટેથી બોલે છે એ પણ કહો, જેથી બાળકને એનો જોશ સંભળાય."
+    },
+    {
+      "topic_id": "M3.S5.T9",
+      "avoid_checks": [
+        {
+          "check": "This topic carries `topic_category: \"climax\"`, so the gate is on the topics before it: in M1.S1.T1 through M2.S4.T8 no `explanation`, `summary`, `detailed_summary` or `recall_questions[].answer` may say that the ચોર got frightened, that they નાઠા, or that ધૂળો won — and none may name હિંમત અને વિશ્વાસ as the બાર સાથી. The words નાઠા, બી ગયા, ભાગી ગયા and હરખ્યો first appear here.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "The thieves running away invites a moral hardest: no `explanation`, `summary`, `detailed_summary`, `concept_bullets`, `important_points` or `recall_questions[].answer` may contain 'હિંમતથી બધું જીતાય', 'આપણે પણ ડરવું ન જોઈએ', 'આ કાવ્ય શીખવે છે' or any 'બોધ એ છે કે' sentence. This chapter prints no such line; what it prints is ધૂળાનો હરખ — 'વાહ ! મેં ઠીક બતાવ્યો હાથ !'",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "'બાર જણા જો છૂટશે, થશે આપણી ઘોર !' is what the ચોરો think — the printed clue is 'એમ વિચારી બી ગયા'. Every field that reports this line attributes it to the ચોરો and not to ધૂળો, and no field states that બાર જણ actually existed or were hiding nearby.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'મેં ઠીક બતાવ્યો હાથ !' — બાળક શબ્દેશબ્દ વાંચીને સમજે છે કે ધૂળાએ કોઈને પોતાનો હાથ દેખાડ્યો, હાથ ઊંચો કર્યો. પુસ્તકે એટલે જ 'હાથ બતાવ્યો' રૂઢિપ્રયોગ તરીકે અલગ છાપ્યો છે — એ ન સમજાય તો ધૂળાના હરખનું કારણ જ ખોવાઈ જાય છે.",
+      "correction": "પુસ્તકના પોતાના રૂઢિપ્રયોગ-બ્લૉકના શબ્દોમાં જ ગ્લોસ કરો — 'હાથ બતાવ્યો — તાકાતનો પરચો બતાવવો, આવડત બતાવવી' — અને એ જ વાક્યમાં કહો કે ધૂળો રાજી થાય છે કે મેં એમને મારી આવડત બરાબર દેખાડી દીધી. `key_terms` માં આખો રૂઢિપ્રયોગ મૂકો, છૂટો શબ્દ 'હાથ' નહીં."
+    },
+    {
+      "topic_id": "M3.S5.T10",
+      "avoid_checks": [
+        {
+          "check": "`જાવું'તું` appears with its printed apostrophe exactly as on the page wherever any field quotes 'જાવું'તું જે ગામ' — never expanded to જવું હતું inside the quotation, and never marked as a છાપભૂલ. `વળતો` is likewise kept and glossed as પાછો ફરતો rather than replaced.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` quotes a phrase character-for-character from this `original_chunk` — 'વાટ જડી' or 'પૂરું કરીને કામ' — and adds what `modified_chunk` does not: that the વાટ is found only after the ચોર are gone, so the journey that broke in the second કડી is finished here. If `explanation` merely retells `modified_chunk`, the topic fails.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "No field states what ધૂળાનું કામ કોટડે was, whom he met there, or how long he stayed. The printed lines say only 'પૂરું કરીને કામ' — and the શબ્દાર્થ-પેટીનું 'રોકાણ' કાવ્યની કોઈ પંક્તિમાં નથી, so it may not be quoted as a line-word.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'જાવું'તું' — વચ્ચે છપાયેલા અપોસ્ટ્રોફીને લીધે બાળક એને છાપભૂલ ગણે છે અથવા ઉકેલી જ શકતું નથી, ને પંક્તિ ત્યાં જ અટકી પડે છે. એટલે 'જે ગામ જવું હતું ત્યાં પહોંચ્યો' એ સીધીસાદી વાત — આખા સફરનું પૂરું થવું — બાળક સુધી પહોંચતી નથી.",
+      "correction": "એક વાક્યમાં ખોલો કે બોલચાલમાં 'જવું હતું' ટૂંકું થઈને 'જાવું'તું' બોલાય છે, ને કવિએ એ બોલાય છે એમ જ લખ્યું છે — ભૂલ નથી. `key_terms` માં 'જાવું'તું — જવું હતું' રાખો, પણ પંક્તિ ટાંકો ત્યાં છાપેલું રૂપ જ રહેવા દો."
+    },
+    {
+      "topic_id": "M3.S6.T11",
+      "avoid_checks": [
+        {
+          "check": "'કોણ તમે હતા બાર ?' ગણાવો નામ.' is asked by 'બાળ તમામ' — the only questioners this `original_chunk` names. No `explanation`, `concept_bullets` line or `recall_questions[].answer` may name a particular child, a teacher, ગામનાં માણસો, or the poet as the asker, and none may say where or when they asked.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "`વારતા` and `તમામ` appear in their printed form wherever quoted, and `વારતા` is glossed as કવિતામાં વપરાયેલું વાર્તાનું રૂપ — never corrected to વાર્તા inside the quoted line and never called a મુદ્રણદોષ.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "The children's question is the door to the next topic, so it stays open here: no field in this topic lists હાથ, આંખો, પાય, કાટલાં, કોથળો, હિંમત or વિશ્વાસ as the answer. The `explanation` may say that ધૂળો is about to count them, and stop there.",
+          "profile": "kathakavya",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "'ધૂળાની આ વારતા' — હિન્દી જાણતું બાળક `વારતા`ને હિન્દીના 'वार्ता' (વાતચીત) જેવો શબ્દ સમજે છે, અથવા એને વાર્તાની જોડણીભૂલ ગણી લે છે. બંને રીતે એને એ સમજાતું નથી કે અહીં તો ધૂળાની આખી બનેલી ઘટના — વાર્તા — સાંભળીને બાળકો સવાલ પૂછે છે.",
+      "correction": "પહેલા વાક્યમાં જ ગ્લોસ કરો — 'વારતા — વાર્તા' — અને એટલું ઉમેરો કે કવિતામાં ગાવા-બોલવાની ચાલ સાચવવા કવિ આમ લખે છે, એ ભૂલ નથી. પછીના વાક્યોમાં 'વાર્તા' શબ્દ વાપરીને કહો કે બનેલી આખી વાત સાંભળીને બાળકોને કુતૂહલ થયું ને એમણે ધૂળાને પૂછ્યું."
+    },
+    {
+      "topic_id": "M3.S6.T12",
+      "avoid_checks": [
+        {
+          "check": "The poem prints its own શીખ in ધૂળાના શબ્દોમાં — 'એ બે વિના બીજા બધા થાય નકામા ખાસ !'. That line is quoted and named as ધૂળાનું પોતાનું કહેવું. No `explanation`, `summary`, `detailed_summary`, `concept_bullets`, `important_points` or `recall_questions[].answer` may add a બોધ of its own — no 'આપણે પણ હિંમત અને વિશ્વાસ રાખવાં જોઈએ', no 'આ કાવ્ય આપણને શીખવે છે', no 'જીવનમાં' closing clause.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "`કાટલાં` is glossed with the chapter's own શબ્દાર્થ wording ('વજન; અમુક નક્કી વજનનું તોલવાનું સાધન') and no field states a ગ્રામ or કિલો value for the ચાર કાટલાં. `પાય` is glossed with the box's own 'પાય - પગ', and `દશ` is kept as printed wherever the line is quoted, never rewritten as દસ inside the quotation.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "The attribution line '- રમણલાલ સોની' printed at the end of this `original_chunk` is the poet's name, not part of ધૂળાની speech: no `explanation`, `summary` or `recall_questions[].answer` treats it as a spoken line or names રમણલાલ સોની as a character in the story.",
+          "profile": "kathakavya",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "આખા કાવ્યમાં 'બાર જણા' સંભળાયા પછી બાળક બાર માણસોની રાહ જુએ છે. અહીં હાથ, આંખો ને પાય ગણાય છે ત્યાં જ એ ગૂંચવાય છે, અને છેલ્લે 'હિંમત અને વિશ્વાસ'ને પણ કોથળામાં પડેલી બે વસ્તુ કે બે માણસ ગણી લે છે — એટલે કાવ્યની આખી ગમ્મત ને આખો ખુલાસો હાથમાંથી સરી જાય છે.",
+      "correction": "કાવ્યના પોતાના શબ્દોમાં ક્રમસર ગણાવો — બે હાથ, બે આંખો, બે પાય (પાય — પગ), ચાર કાટલાં — ને એક વાક્યે કહો કે આ બધું તો ધૂળાનું પોતાનું જ છે, બહારથી આવેલા માણસો નથી. પછી ધીમેથી ખોલો કે છેલ્લા બે સાથી હાથમાં પકડાય એવા નથી : હિંમત ને વિશ્વાસ ધૂળાના મનમાં હતાં. એક `recall_questions[].prompt` આ જ પર રાખો — 'ધૂળાના બાર સાથીમાંથી કયા બે હાથમાં પકડી ન શકાય ?'"
+    }
+  ],
+  "chapter_level": [
+    "પાના પરની ભૂરી પ્રવેશક-પેટી શિક્ષકને સંબોધીને લખાયેલી છે અને એ આખી વાર્તા અગાઉથી કહી દે છે ('ચોર સામે ઝઝૂમી તેમને ભગાડે છે'). કોઈ પણ topic નું `explanation`, `summary` કે `detailed_summary` એ પેટીમાંથી બાંધવું નહીં; અને એના શબ્દો — વણિક, ઝઝૂમી, બુદ્ધિપૂર્વક — કાવ્યના શબ્દો નથી, કાવ્ય તો 'વાણિયો' ને 'ખેલે જંગ' કહે છે.",
+    "આખા કાવ્યમાં વક્તાનું એકેય લેબલ છપાયું નથી — વક્તા માત્ર 'કહે', 'બોલે', 'પૂછે' અને એકવડાં અવતરણચિહ્નોમાં જ ઓળખાય છે. દરેક topic માં જ્યાં અવતરણ આવે ત્યાં `explanation` એ કહે જ કે આ કોણ બોલે છે; બીજી ભાષામાં ભણતું બાળક એકલું વાંચે ત્યારે વક્તા બદલાયો એ પકડી શકતું નથી.",
+    "કાવ્યની 'લાગે-ખોટી-પણ-સાચી' છાપેલી રૂપાવલિ — ચડિયો, અલ્યા, કાંક, નહિ, વારતા, દશ, પાય, બી ગયા, સબોસબ, ધબોધબ, આઘુંપાછું અને અપોસ્ટ્રોફીવાળું જાવું'તું — બધી જ કવિની પોતાની છે. જ્યાં પંક્તિ ટાંકો ત્યાં છાપેલું રૂપ જ રહે; અર્થ બાજુમાં ગ્લોસ કરો, શબ્દ બદલો નહીં, અને ધો. 6 ને છાજે એ રીતે 'ગાનારો આમ બોલે છે' એમ કહો, 'કાવ્યસ્વાતંત્ર્ય' જેવો શબ્દ વાપરો નહીં.",
+    "પુસ્તકની પોતાની લીલી શબ્દાર્થ-પેટી (વાટ, ઉચાટ, વિકરાળ, કાટલું, ભયાનક, જંગ, પાય, સબોસબ, ખાળે, રોકાણ) અને એની નીચેનો રૂઢિપ્રયોગ-બ્લૉક (ટાયલી કરવી, હાથ બતાવ્યો, દિલમાં ઉચાટ થવો) આ શબ્દોના ગ્લોસની ભાષા નક્કી કરે છે — એ જ શબ્દોમાં ગ્લોસ કરો. નોંધ : 'રોકાણ' પેટીમાં છપાયું છે પણ કાવ્યની એકેય પંક્તિમાં નથી, એટલે એને કાવ્યનો શબ્દ ગણીને ટાંકવો નહીં.",
+    "આ પાઠ ભણતું બાળક હિન્દી પણ જાણે છે, અને પાઠનું નામ જ ત્યાં ભૂલાવે છે : 'સાથી મારે બાર' માં `મારે` એ હિન્દીનું 'मारे' નથી પણ 'મારી પાસે' છે, ને `બાર` એ 'बार' (વખત) નથી પણ બારની સંખ્યા છે. યોજનામાં મથાળું પહેલી વાર આવે ત્યાં જ આખી પંક્તિ સાદી ગુજરાતીમાં ફરી કહેવી.",
+    "ધૂળાનું 'વાણિયો' હોવું એ એનું કામ છે — વેપાર કરનાર — સમુદાયનું લેબલ નહીં. કાવ્યની અંદર ચોરો પોતે 'આ વાણિયો શીખ્યો આવા દાવ ?' કહીને નવાઈ પામે છે; એ નવાઈ આ એક માણસ ધૂળા વિશે છે. કોઈ પણ ખાનામાં વાણિયા કે વેપારીઓ વિશે સામાન્ય લક્ષણ જોડવું નહીં.",
+    "ધો. 6 ની ટોચમર્યાદા આખા પાઠમાં લાગુ : પ્રાસ સંભળાવવાનો છે, નામ પાડવાનો નથી — નામ-ગામ, વાટ-ઉચાટ, વિચાર-બાર, ચાર-વાર, જંગ-રંગ જોડ મોટેથી બોલાવો, પણ અલંકાર કે છંદનું એકેય લેબલ ક્યાંય નહીં. પ્રાસની વાત ઘટના સ્પષ્ટ થયા પછી, એક જ વાક્યમાં.",
+    "આ મિશ્ર એકમ નથી — આખું એકમ એક જ કૃતિ છે અને આખા એકમ પર એક જ profile લાગુ પડે છે : `kathakavya`. પુસ્તક પોતે 'કથાકાવ્ય' ને 'કથાગીત' બંને લેબલ વાપરે છે, પણ બંને આ જ profile પર જાય છે.",
+    "સ્વાધ્યાયનો એકેય બ્લૉક topic નથી — પદ્ય→ગદ્ય પુનર્કથન, ખરું-ખોટું, પંક્તિ-શોધ, પ્રાસ-જાળી, વિરામચિહ્ન, અનુવાદ, નાટ્યીકરણ ને સમૂહગાન બધું જ `exercise_solutions.json` નું કામ છે. ખાસ કરીને પુનર્કથન-બ્લૉકનો નમૂનારૂપ ઉત્તર કોઈ topic ના `explanation`, `summary` કે `detailed_summary` માં ઊતરવો ન જોઈએ."
+  ]
+}

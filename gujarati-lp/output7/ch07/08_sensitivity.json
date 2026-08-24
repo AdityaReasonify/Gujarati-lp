@@ -1,0 +1,64 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S2.T3",
+      "areas": ["સંઘર્ષ"],
+      "caution": "The explanation could inflate 'એક લશ્કર જેટલું કામ' and 'મહાન પરાક્રમ' into a superlative claim about the man himself rather than the introduction to his war-service that this line is.",
+      "guidance": "Keep the explanation to what the sentence itself states — one man doing a force's worth of work — and let the specific act (in the topics that follow) carry the praise; do not add a hero epithet here.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "areas": ["સંઘર્ષ"],
+      "caution": "The explanation or real_life_example could dwell on enemy troop counts ('1200 કરતાં વધુ પાકિસ્તાની સૈનિકો'), the 'શહીદ' line, or the idiom 'પાકિસ્તાનના દાંત ખાટા કર્યા' as if the loss count were the achievement, tipping into jingoism.",
+      "guidance": "Center the explanation on what રણછોડ પગી actually did — reading સગડ, gathering બાતમી, guiding ten thousand soldiers by the stars — and quote 'દાંત ખાટા કરવા' only as the text's own idiom, never restated as praise for enemy losses; 'શહીદ' stays the text's respectful word for India's own soldiers, not a count to elaborate.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "areas": ["સંઘર્ષ"],
+      "caution": "'દુશ્મનની આંખમાં ધૂળ નાખીને' is printed idiom; an authored field could repeat 'દુશ્મન' outside the quotation to narrate the deception as combat drama.",
+      "guidance": "Quote the idiom as printed where needed and otherwise describe the act in neutral terms — carrying secret troop information across so the army could march on ધોરા — without adding 'દુશ્મન' language of your own.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "areas": ["સંઘર્ષ"],
+      "caution": "The explanation could dramatize રણછોડ પગીની ઈજા or narrate 'દુશ્મન સામે મર્દાનગીથી લડી શક્યું' as a glorified battle scene rather than reporting the supply run.",
+      "guidance": "State plainly what he did — travelled 50 km ઘાયલ અવસ્થામાં to bring ammunition on time — and let 'મર્દાનગી' stay the text's own word for the army's fight, not an invented battle scene.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M3.S5.T9",
+      "areas": ["સંઘર્ષ"],
+      "caution": "The 'પચાસ હજારનું ઇનામ' on his head could be narrated as suspenseful danger-for-its-own-sake rather than as evidence of how effective his tracking was.",
+      "guidance": "Use the bounty fact only to show why his tracking mattered to the enemy, then move to the concrete skill — reading ઊંટના પગનાં નિશાન for headcount, age and load — as the actual point of the topic.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M4.S6.T11",
+      "areas": ["સંઘર્ષ"],
+      "caution": "This topic states a real death (તા. 18-1-2013) and a forced move under 'ત્રાસ' from the Pakistani military; an authored field could invent his feelings at the move or at death, or dramatize the funeral beyond what is printed.",
+      "guidance": "State only what is printed — the persecution behind the move to લિંબાળા, his age at death, the પાઘડી and the burial in his own field as his stated wish — with no invented interior state and no added detail to the funeral scene; he has living family, so nothing beyond the page is added.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M4.S6.T12",
+      "areas": ["સંઘર્ષ"],
+      "caution": "The closing slogans 'ભારતમાતા કી જય', 'જય હિંદ', 'જય રણછોડ' and 'રાષ્ટ્રપ્રેમની અનેરી આભા' could be extended in the explanation into an exhortation telling the child to feel patriotic, rather than reported as what the students did.",
+      "guidance": "Report the students' own closing moment — the slogans they raised and the memorial they visited — as the chapter's own scene; do not append a sentence urging the child to feel or do the same.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "સમુદાય",
+      "guidance": "Use the chapter's own name for the community — 'રણછોડ રબારી' / 'રબારી' — wherever a topic or teaching field refers to him or his origins; never a generic label like 'tribal' or 'nomadic caste'."
+    },
+    {
+      "area": "ક્ષેત્ર",
+      "guidance": "Teach the Kutch–Banaskantha border geography — રણ, ક્રીક, the ચેકપોસ્ટ — as the intro box's own promised 'અજાણ્યા ભૂ-પ્રદેશનો પરિચય', real content in its own right, never as an exotic aside to the war story."
+    }
+  ],
+  "none_found": false
+}

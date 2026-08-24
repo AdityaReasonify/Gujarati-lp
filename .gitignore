@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+._*
+**/*._*
+
+# Python cache & artifacts
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments & Secrets
+.env
+*.env
+.venv/
+venv/
+ENV/
+
+# Logs
+*.log
+**/*.log
+auto-resume.log
+auto-resume.stderr.log
+auto-resume.stdout.log
+supervisor.log
+supervisor-agents.log

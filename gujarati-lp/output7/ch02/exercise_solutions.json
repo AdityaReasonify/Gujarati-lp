@@ -1,0 +1,795 @@
+{
+  "_comment": "The SECOND deliverable for gseb_eng_gujarati7_ch2 ('ત્રણ સવાલ'). Every one of the thirteen સ્વાધ્યાય blocks inventoried in 01_meta.json is answered here and NOWHERE else — સ્વાધ્યાય is never a teaching topic. The GSEB PDF is image-only: prompt_verbatim is transcribed from 00_chapter_normalized.md and re-verified against the rendered pages (_renders/page-3.png … page-6.png = printed pp. 7–10). See reference/exercise_alignment.md and agents/10_exercise_solutions.md.",
+  "plan_id": "gseb_eng_gujarati7_ch2_v1",
+  "chapter_id": "gseb_eng_gujarati7_ch2",
+  "subject": "Gujarati",
+  "grade": 7,
+  "chapter_name": "ત્રણ સવાલ",
+  "exercises": [
+    {
+      "exercise_id": "EX1",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમે કોને કોને પ્રશ્ન પૂછો છો ?",
+      "answer": "(એક શક્ય જવાબ) હું ઘરે મમ્મી, પપ્પા, દાદા-દાદી અને મોટા ભાઈ-બહેનને પ્રશ્ન પૂછું છું. નિશાળમાં જે ન સમજાય તે શિક્ષકને પૂછું છું અને રમતાં-રમતાં મિત્રોને પણ પૂછું છું. કોઈ વાર દુકાનદારને કે પડોશીને પણ પૂછવું પડે છે.",
+      "explanation": "આ પ્રશ્નનો જવાબ દરેક બાળકનો પોતાનો છે, એટલે વર્ગમાં જુદા જુદા જવાબ આવશે અને એ બધા સાચા છે. પાઠ સાથે એની સાંધ એ છે કે આખી વાર્તા જ પૂછવા ઉપર ચાલે છે — રાજા ભોજ કવિને પૂછે છે, અને કવિબાળા સામે મહારાજને પૂછે છે.",
+      "acceptable_alternatives": [
+        "શિક્ષક, મિત્રો અને ઘરના મોટા સભ્યો",
+        "મમ્મી-પપ્પા, ભાઈ-બહેન, પડોશી, દુકાનદાર"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 1 — oral. Let four or five children answer aloud in one sentence each; do not ask for it in writing. Accept any honest list; the point is to get every child speaking a full Gujarati sentence.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T3",
+        "M1.S2.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX2",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "કોઈ મુશ્કેલીના સમયે તમે તમારા પરિવારને મદદરૂપ થયા છો ? ક્યારે ?",
+      "answer": "(એક શક્ય જવાબ) હા. એક વાર મમ્મીને તાવ આવ્યો ત્યારે મેં નાની બહેનને તૈયાર કરીને નિશાળે મોકલી અને ઘરનું થોડું કામ કરી આપ્યું. બીજી વાર પપ્પાની દુકાને ભીડ હતી ત્યારે હું સાંજે ત્યાં જઈને ચીજો ગોઠવવામાં મદદ કરી આવ્યો.",
+      "explanation": "આ પણ પોતાના અનુભવનો પ્રશ્ન છે. પાઠમાં પણ મુશ્કેલી ઘરમાં આવે છે — કવિ પાસે જવાબ નથી અને તે મૂંઝાય છે — ત્યારે ઘરની નાની દીકરી સામે ચાલીને મદદે આવે છે; કવિ પોતે સભામાં કહે છે, 'હું મૂંઝાયો ત્યારે દીકરીએ જ કહ્યું કે જવાબ ભરી સભામાં હું આપીશ.'",
+      "acceptable_alternatives": [
+        "બીમારીમાં ઘરકામમાં મદદ કરી",
+        "નાના ભાઈ-બહેનને સાચવ્યાં",
+        "ખેતરે કે દુકાને હાથ બટાવ્યો"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 2 — oral. Keep it to one concrete incident per child, in past tense; it is good practice for the past forms the chapter is full of.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T4",
+        "M3.S4.T9"
+      ]
+    },
+    {
+      "exercise_id": "EX3",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "આપણને મૂંઝવતા સવાલનો ઉકેલ મળે ત્યારે કેવો અનુભવ થાય છે ?",
+      "answer": "(એક શક્ય જવાબ) મન એકદમ હળવું થઈ જાય છે. જે વાત આગલા દિવસ સુધી ગૂંચવતી હતી તે અચાનક સાવ સહેલી લાગવા માંડે છે, અને એ જવાબ બીજાને કહી બતાવવાનું મન થાય છે. મને દાખલો આવડી જાય ત્યારે એવો જ આનંદ થાય છે.",
+      "explanation": "જવાબ મળે ત્યારે થતા આનંદનું ચિત્ર પાઠ પોતે જ આપે છે — કવિબાળાના જવાબ સાંભળીને આખી રાજસભા 'વાહ! વાહ!' બોલી ઊઠે છે, અને એ પણ એક વાર નહીં, બે વાર. મૂંઝવણ પછી મળેલા ઉકેલનો આનંદ સભાના એ ઉદ્ગારમાં સંભળાય છે.",
+      "acceptable_alternatives": [
+        "રાજી થવાય, હળવાશ લાગે",
+        "આત્મવિશ્વાસ વધે અને બીજા સવાલ ઉકેલવાનું મન થાય"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 3 — oral. Link the children's words back to the printed 'વાહ! વાહ!' so the feeling word they choose is anchored in the text.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S3.T6",
+        "M2.S3.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX4",
+      "exercise_group": "વાતચીત",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "જો કવિબાળાએ ત્રણ સવાલના જવાબ ન આપ્યા હોત તો ?",
+      "answer": "(એક શક્ય જવાબ) તો કવિની શરત પ્રમાણેની મુદત પૂરી થઈ જાત અને તેમને રાજસભામાં સ્થાન ન મળત. કવિએ પોતે કહ્યું હતું, 'આઠમા દિવસે જવાબ સાથે હાજર થઈશ, અથવા કદી નહીં આવું' — એટલે તે દરબાર છોડીને ચાલ્યા જાત. અને દીકરીએ કહેલી વાત, 'જ્ઞાન ઉંમર ઉપરથી પારખી શકાતું નથી,' સભા સામે સાબિત થયા વગરની રહી જાત.",
+      "explanation": "આ 'જો… હોત તો ?' પ્રકારનો સવાલ છે : વાર્તા જે થયું તે કહે છે, અને અહીં આપણે વિચારવાનું છે કે ન થયું હોત તો શું. જવાબ કલ્પનાનો હોવા છતાં પાઠમાંથી જ ઊભો કરવાનો છે — રાજાની શરત, કવિનું વચન અને બાળાનો દાવો, એ ત્રણેય પાઠમાં લખેલાં છે.",
+      "acceptable_alternatives": [
+        "રાજાની શરત પૂરી ન થાત, એટલે કવિને સભામાં સ્થાન ન મળત",
+        "કવિનું વચન પ્રમાણે તેમને દરબારમાં પાછા ન આવવું પડત"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 4 — the std-7 counterfactual. Push the children to build the answer out of three printed things (the king's condition, the poet's promise, the girl's claim) rather than free invention.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T2",
+        "M3.S4.T9"
+      ]
+    },
+    {
+      "exercise_id": "EX5",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "આ પાઠના ત્રણ સવાલોના જવાબમાંથી તમને કયો જવાબ ગમ્યો ? કેમ ?",
+      "answer": "(એક શક્ય જવાબ) મને દૂધ અને માખણવાળો પહેલો જવાબ સૌથી વધારે ગમ્યો. કારણ કે એમાં કવિબાળા બોલવાને બદલે સભાની સામે દૂધ મંગાવે છે અને મહારાજ પાસે જ કબૂલ કરાવે છે કે દૂધમાં માખણ તો છે જ, પણ દેખાતું નથી. જવાબ સાંભળતાં જ સમજાઈ જાય એવો છે.",
+      "explanation": "અહીં પસંદગી તમારી છે, પણ 'કેમ ?'નું કારણ પાઠમાંથી આપવાનું છે. ત્રણેય જવાબ જુદી જુદી રીતે કામ કરે છે — પહેલો દૂધમાં સંતાયેલા માખણ પરથી, બીજો દીવાના ચારે દિશામાં પડતા પ્રકાશ પરથી, અને ત્રીજો સિંહાસન અને મંત્રીપદની અદલાબદલી માગીને. જે જવાબ તમને સૌથી વધુ સ્પષ્ટ લાગ્યો તે કહો.",
+      "acceptable_alternatives": [
+        "દીવાવાળો જવાબ, કારણ કે એક જ દીવો આખા દરબારને અજવાળે છે એ નજરે દેખાય છે",
+        "સિંહાસનવાળો ત્રીજો જવાબ, કારણ કે એમાં તે મહારાજને પોતાને ઊભા થવાનું કહી બતાવે છે"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 5 — oral. Insist on the 'કેમ ?' half; a bare choice is only half the answer.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S3.T6",
+        "M2.S3.T7",
+        "M3.S4.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX6",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને કોઈ સવાલનો જવાબ ન મળે ત્યારે જવાબ મેળવવા તમે શું કરો છો ?",
+      "answer": "(એક શક્ય જવાબ) પહેલાં હું જાતે ફરી વાંચીને વિચારું છું. તોય ન સૂઝે તો શિક્ષકને કે ઘરે મોટા ભાઈને પૂછું છું, શબ્દકોશ કે પુસ્તકમાં જોઉં છું, અને મિત્ર સાથે બેસીને ચર્ચા કરું છું. થોડો સમય લઈને ફરી વિચારવાથી પણ ઘણી વાર જવાબ મળી જાય છે.",
+      "explanation": "પાઠમાં કવિ પણ આ જ કરે છે — જવાબ ન હોવાથી તે થોડીક ક્ષણો શાંત રહે છે અને પછી એક સપ્તાહનો સમય માગે છે. જવાબ ન આવડે ત્યારે વિચારવા માટે સમય માગવો એ પણ એક રીત છે, અને એ વાર્તા આપણને કરી બતાવે છે.",
+      "acceptable_alternatives": [
+        "શિક્ષક કે વડીલને પૂછું",
+        "પુસ્તક-શબ્દકોશમાં શોધું",
+        "મિત્રો સાથે ચર્ચા કરું"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 6 — oral, and the natural bridge into printed block 4. Note the poet's own strategy (asking for time) as one legitimate answer.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX7",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "રાજાના દરબારમાં કેવા લોકોનું સન્માન થતું હતું ?",
+      "answer": "રાજા ભોજના દરબારમાં કવિઓનું સન્માન થતું હતું, અને નવા કવિઓને પણ ત્યાં પ્રોત્સાહન મળતું હતું.",
+      "explanation": "પાઠની પહેલી જ બે લીટીઓમાં આ લખેલું છે — 'ભોજ રાજાના દરબારમાં કવિઓનું હંમેશા સન્માન થતું. નવા કવિઓને પ્રોત્સાહન મળતું.' આ ટેવ દરબારની હતી, એટલે જ એક નવો કવિ કશી ઓળખાણ વગર આશા લઈને રાજા સમક્ષ હાજર થઈ શકે છે.",
+      "acceptable_alternatives": [
+        "કવિઓનું",
+        "કવિઓનું — નવા કવિઓને પણ ઉત્તેજન મળતું"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, item 1. Written, one sentence. The words સન્માન and પ્રોત્સાહન are both in the શબ્દાર્થ box; ask children to use them in the answer.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX8",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "રાજા દ્વારા પુછાયેલા પ્રશ્નો શેના વિશેના હતા ?",
+      "answer": "રાજાએ પૂછેલા ત્રણેય પ્રશ્નો ભગવાન વિશેના હતા — ભગવાન છે કે નહીં અને છે તો દેખાતા કેમ નથી; ભગવાન છે તો તેનું મોઢું કઈ દિશામાં છે; અને ભગવાન છે તો તેનું કામ શું છે.",
+      "explanation": "ત્રણેય સવાલ રાજા ભોજના જ છે — છપાયેલા 'પહેલો', 'બીજો', 'ત્રીજો' શબ્દો સવાલનો ક્રમ બતાવે છે, બોલનારનું નામ નથી. પહેલો સવાલ 'હોવા' વિશે છે, અને પછીના બે 'ભગવાન જો છે તો…' કહીને એની ઉપર ચણાય છે : પહેલાં દિશા, પછી કામ. દરબારમાં આ સવાલો કવિની લાયકાતની કસોટી તરીકે મુકાયા છે.",
+      "acceptable_alternatives": [
+        "ભગવાન વિશેના",
+        "ભગવાનના હોવા વિશે, તેના મુખની દિશા વિશે અને તેના કામ વિશે"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, item 2. Keep the answer descriptive — the question asks what the three questions were about, not whether God exists; do not let the class turn it into a debate about belief.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX9",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "રાજાના સવાલના જવાબ આપવા માટે કવિએ સપ્તાહનો સમય શાથી માંગ્યો હશે ?",
+      "answer": "કારણ કે કવિ પાસે એ ત્રણમાંના એકેય સવાલનો જવાબ ન હતો. જવાબ શાંતિથી વિચારવા અને શોધવા માટે તેમને સમય જોઈતો હતો, એટલે તેમણે એક સપ્તાહનો સમય માગ્યો હશે.",
+      "explanation": "પાઠ પોતે કહે છે, 'કવિ પાસે આ ત્રણમાંના એકેય સવાલનો જવાબ ન હતો.' પ્રશ્નમાં 'હશે' છે, એટલે અહીં અનુમાન કરવાનું છે. એ સપ્તાહમાં કવિએ શું કર્યું તે વાર્તા કહેતી જ નથી; આપણને એટલી જ ખબર છે કે તેમણે વચન આપ્યું — 'આઠમા દિવસે જવાબ સાથે હાજર થઈશ, અથવા કદી નહીં આવું' — અને આઠમા દિવસે તે સભામાં આવ્યા.",
+      "acceptable_alternatives": [
+        "જવાબ ન આવડતા હોવાથી વિચારવા-શોધવા સમય જોઈતો હતો"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, item 3. Watch for the invented answer 'કવિએ સાત દિવસમાં જવાબ શોધીને દીકરીને શીખવી દીધા' — the story never says that; the empty week is deliberate. Also do not let the class call the poet foolish for not knowing.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX10",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "કવિબાળાએ સવાલોના જવાબ માટે કઈ - કઈ વસ્તુઓ દરબારમાં મંગાવી ? કેમ ?",
+      "answer": "કવિબાળાએ બે વસ્તુઓ મંગાવી — પહેલાં દૂધ ભરેલું વાસણ અને પછી એક દીવો. દૂધ એટલા માટે મંગાવ્યું કે દૂધમાં માખણ હોવા છતાં દેખાતું નથી, એ સભાને બતાવીને તે 'દેખાતા કેમ નથી ?' એ સવાલનો જવાબ આપી શકે. દીવો એટલા માટે મંગાવ્યો કે સળગતા દીવાનો પ્રકાશ ચારે દિશામાં પડે છે, એ બતાવીને તે મુખની દિશાવાળા સવાલનો જવાબ આપી શકે.",
+      "explanation": "કવિબાળા જવાબ સીધો બોલી દેતી નથી; તે સભાની વચ્ચે વસ્તુ મુકાવે છે અને બધા પોતાની આંખે જુએ એવું ઉદાહરણ ઊભું કરે છે. એટલે જ તે કહે છે, 'કદાચ દૂધમાં જવાબ સમાયો હશે' અને પછી 'દૂધની જેમ દીવાની જરૂર પડશે જ.' આ દેખાડીને સમજાવવાની રીત જ એની ચતુરાઈ છે.",
+      "acceptable_alternatives": [
+        "દૂધ ભરેલું વાસણ અને દીવો",
+        "દૂધ — માખણ દેખાતું નથી એ બતાવવા; દીવો — પ્રકાશ ચારે દિશામાં પડે છે એ બતાવવા"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, item 4 — two-part answer (what, and why). Insist on both halves; many children will stop at the list.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T6",
+        "M2.S3.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX11",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "દીવાથી પ્રકાશિત થયેલો દરબાર કઈ બાબતને સ્પષ્ટ કરતો હતો ?",
+      "answer": "દીવો સળગ્યો ત્યારે એનો પ્રકાશ દરબારમાં ચારે દિશામાં પડ્યો — એ સૌએ નજરે જોયું. કવિબાળાએ એ જ દેખાતી વાત પરથી કહ્યું કે જે રીતે દીવાનો પ્રકાશ ચારે દિશામાં પડે છે, એ જ રીતે ભગવાનનું મુખ ચારે દિશામાં છે અને તે ચારે બાજુ જુએ છે.",
+      "explanation": "અહીંનો જવાબ કવિબાળાની ઉપમા છે : સભા પોતાની આંખે જે જુએ છે — એક જ દીવો, પણ અજવાળું ચારે તરફ — એના ઉપર તે પોતાનો જવાબ ગોઠવે છે. મહારાજ પોતે જ પહેલાં કબૂલ કરે છે, 'દીવાનો પ્રકાશ તો ચારે દિશામાં જ પડેને !' એટલે પછી જવાબની ના પાડી શકાય એમ રહેતું નથી.",
+      "acceptable_alternatives": [
+        "કે પ્રકાશ એક જ જગ્યાએથી ચારે દિશામાં ફેલાય છે",
+        "કવિબાળાના બીજા જવાબને — ભગવાનનું મુખ ચારે દિશામાં છે"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, item 5. Keep the framing 'કવિબાળાએ કહ્યું…' — the sentence is her comparison inside the story, not a doctrinal statement to assert.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX12",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "કવિબાળાના જવાબ સાંભળ્યા બાદ રાજાએ કોનું - કોનું સન્માન કર્યું ?",
+      "answer": "રાજા ભોજે બંનેનું સન્માન કર્યું — કવિનું અને કવિબાળાનું. તેમણે પહેલાં કહ્યું, 'હું તારા પિતાજીને રાજસભામાં સામેલ કરું છું,' અને પછી કવિની વિનંતી સાંભળીને દીકરીને પણ સામેલ કરી : 'રાજસભા બન્નેનું સ્વાગત કરે છે.'",
+      "explanation": "સન્માન બે વારમાં થાય છે. પહેલાં રાજા દીકરીને 'શાબાશ દીકરી, શાબાશ !' કહીને પિતાને સભામાં લે છે; પછી કવિ પોતે કહે છે કે જવાબ તો દીકરીના હતા, અને ત્યારે રાજા દીકરીને પણ સભામાં સ્થાન આપે છે. એટલે જવાબ 'બંનેનું' છે, એકલા કવિનું નહીં.",
+      "acceptable_alternatives": [
+        "કવિનું અને તેમની દીકરી કવિબાળાનું",
+        "પિતા અને પુત્રી બંનેનું"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, item 6. The daughter is seated in the રાજસભા in her own right, not as her father's companion — keep that in the answer.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S4.T9"
+      ]
+    },
+    {
+      "exercise_id": "EX13",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "બીજા પ્રશ્નના જવાબમાં તમે કયું ઉદાહરણ આપી શકો ?",
+      "answer": "(એક શક્ય જવાબ) દીવાની જગ્યાએ હું ફૂલની સુગંધનું ઉદાહરણ આપું : ફૂલ એક જ જગ્યાએ હોય, પણ એની સુગંધ ચારે બાજુ ફેલાય છે. બીજું ઉદાહરણ શાળાની ઘંટડીનું — ઘંટ એક ખૂણે વાગે છે, પણ એનો અવાજ આખી શાળામાં, ચારે દિશામાં પહોંચે છે.",
+      "explanation": "અહીં તમારે કવિબાળાની રીત વાપરવાની છે — એક જ જગ્યાએથી ચારે દિશામાં ફેલાતી હોય એવી, રોજ જોવા મળતી વસ્તુ પસંદ કરો, જેમ તેણે દીવો પસંદ કર્યો હતો. જે ઉદાહરણ સભાની જેમ વર્ગ પણ નજરે જોઈ શકે તે સૌથી સારું.",
+      "acceptable_alternatives": [
+        "ચૂલા કે સગડીની ગરમી ચારે બાજુ ફેલાય છે",
+        "રેડિયો કે માઇકનો અવાજ ચારે દિશામાં પહોંચે છે",
+        "અગરબત્તીની સુગંધ આખા ઓરડામાં ફેલાય છે"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, item 7 — open-ended, so several answers are right. Test each child's example against one rule: does it spread from a single point in every direction?",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S3.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX14",
+      "exercise_group": "નીચેનાં વાક્યો કોણ બોલ્યું હશે એ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "''મહારાજ ! એક સપ્તાહનો સમય આપો.''",
+      "answer": "આ વાક્ય કવિ બોલ્યા હશે.",
+      "explanation": "ત્રણ સવાલ સાંભળ્યા પછી કવિ પાસે એકેય જવાબ ન હતો; તે થોડીક ક્ષણો શાંત રહીને પછી મુદત માગે છે. પાઠમાં એ જ વાત આ રીતે છપાઈ છે : 'મહારાજ, મને એક સપ્તાહનો સમય આપો.' સમય માગવાની જરૂર કવિને જ હતી, બીજા કોઈને નહીં.",
+      "acceptable_alternatives": [
+        "કવિ",
+        "કવિરાજ"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 1. Note for the teacher: the exercise prints ''મહારાજ ! એક સપ્તાહનો સમય આપો.'' while the story prints ''મહારાજ, મને એક સપ્તાહનો સમય આપો.'' — the wording is trimmed in the exercise. Accept either as the child's citation.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX15",
+      "exercise_group": "નીચેનાં વાક્યો કોણ બોલ્યું હશે એ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "''આવડી નાનકડી બાળા !''",
+      "answer": "આ વાક્ય રાજા ભોજ (મહારાજ) બોલ્યા હશે.",
+      "explanation": "કવિ કહે છે કે જવાબ તેમની દીકરી આપશે, ત્યારે રાજા નવાઈ પામીને આ બોલે છે — આટલી નાની બાળા ભરી સભામાં જવાબ આપશે ? એ પછી તરત દીકરી સામે જવાબ વાળે છે, 'મહારાજ, જ્ઞાન ઉંમર ઉપરથી પારખી શકાતું નથી. આપ પ્રશ્નો પૂછો.' એટલે બોલનાર રાજા જ છે.",
+      "acceptable_alternatives": [
+        "રાજા",
+        "મહારાજ",
+        "રાજા ભોજ"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 2. The exercise prints an exclamation mark; the story prints ''આવડી નાનકડી બાળા ?'' with a question mark. Worth showing the class — the mark changes surprise into a question, and this chapter is the punctuation chapter.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX16",
+      "exercise_group": "નીચેનાં વાક્યો કોણ બોલ્યું હશે એ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "''જવાબ આ મારી દીકરી આપશે !''",
+      "answer": "આ વાક્ય કવિ બોલ્યા હશે.",
+      "explanation": "આઠમા દિવસે કવિ પોતાની નાની દીકરીને સાથે લઈને સભામાં આવે છે, અને રાજા 'જવાબ આપો, કવિરાજ !' કહે ત્યારે કવિ આ વાક્ય બોલે છે. 'મારી દીકરી' શબ્દ જ કહી દે છે કે બોલનાર પિતા — એટલે કે કવિ — છે.",
+      "acceptable_alternatives": [
+        "કવિ",
+        "કવિરાજ",
+        "દીકરીના પિતા"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 3. Point at the possessive 'મારી' as the clue; that is the skill this block trains.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX17",
+      "exercise_group": "નીચેનાં વાક્યો કોણ બોલ્યું હશે એ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "''કદાચ, દૂધમાં જ જવાબ સમાયો હશે.''",
+      "answer": "આ વાક્ય કવિબાળા બોલી હશે.",
+      "explanation": "મહારાજ પૂછે છે કે જવાબ આપવાનો છે, દૂધની શી જરૂર ? ત્યારે કવિબાળા આ કહીને દૂધ મંગાવે છે. પાઠમાં એ 'કદાચ દૂધમાં જવાબ સમાયો હશે. દૂધ મંગાવો.' એમ છપાયું છે. પછી એ જ દૂધમાંથી તે પહેલો જવાબ કાઢી બતાવે છે.",
+      "acceptable_alternatives": [
+        "કવિબાળા",
+        "કવિની દીકરી",
+        "કવિપુત્રી"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 4. The exercise adds a comma and the emphatic 'જ' that the story does not print — read both aloud and let the class hear the difference.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX18",
+      "exercise_group": "તમને મૂંઝવતો પ્રશ્ન વર્ગ સમક્ષ રજૂ કરો અને ચર્ચા કરી જવાબ મેળવો.",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને મૂંઝવતો પ્રશ્ન વર્ગ સમક્ષ રજૂ કરો અને ચર્ચા કરી જવાબ મેળવો.",
+      "answer": "(એક શક્ય રજૂઆત) 'મને એ સવાલ મૂંઝવે છે કે વરસાદ પડે ત્યારે વીજળી પહેલાં દેખાય છે અને ગડગડાટ પછી કેમ સંભળાય છે ?' — વર્ગમાં ચર્ચા થાય : કોઈ કહે કે અજવાળું ઝડપથી આવે છે, કોઈ કહે કે અવાજ ધીમે આવે છે. છેવટે વર્ગ સાથે મળીને જવાબ ગોઠવે : પ્રકાશ અવાજ કરતાં ઘણો ઝડપી છે, એટલે વીજળી પહેલાં દેખાય છે અને ગડગડાટ પછી સંભળાય છે.",
+      "explanation": "આ પ્રવૃત્તિમાં જવાબ કરતાં રીત વધારે અગત્યની છે : પોતાનો સવાલ ચોખ્ખા વાક્યમાં સભા સામે મૂકવો, બીજાની વાત સાંભળવી, અને પછી સૌ સાથે મળીને જવાબ ગોઠવવો. પાઠમાં પણ સવાલ ભરી સભામાં પુછાય છે અને જવાબ સભાની સામે જ ગોઠવાય છે.",
+      "acceptable_alternatives": [
+        "કોઈ પણ પ્રામાણિક સવાલ ચાલે — વિજ્ઞાનનો, ભાષાનો, રોજિંદા જીવનનો",
+        "જવાબ ન મળે તો 'હજી શોધવાનું બાકી છે' એમ કહેવું એ પણ સાચી રજૂઆત છે"
+      ],
+      "values_filled_for_teaching": "વર્ગ-ચર્ચાનું માળખું : (1) બાળક પોતાનો સવાલ એક વાક્યમાં બોલે; (2) બે-ત્રણ બાળકો પોતાનું અનુમાન કહે; (3) શિક્ષક પાસે કે પુસ્તકમાં ચકાસણી; (4) છેલ્લે એક વાક્યમાં જવાબ નોંધવો.",
+      "teacher_note": "Printed block 4 — one child-addressed activity, no single right answer. Run it in fifteen minutes with four or five questions on the board. Accept 'we could not settle it today' as an honest outcome; do not manufacture an answer.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T3",
+        "M1.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX19",
+      "exercise_group": "આપેલ ફકરાને આધારે એકબીજાને પ્રશ્ન પૂછી જવાબ મેળવો. (જોડીકાર્ય)",
+      "skill": "speaking",
+      "prompt_verbatim": "આપેલ ફકરાને આધારે એકબીજાને પ્રશ્ન પૂછી જવાબ મેળવો. (જોડીકાર્ય)\n\n'કાગડો ખરેખર ખૂબ હોશિયાર પક્ષી છે. પણ તેનેય છેતરનારા પડ્યા છે હોં ! કાગડાના માળામાં કોયલ પોતાનાં ઈંડાં ચોરીછૂપીથી મૂકે છે. કોયલનાં ઈંડાં સહેજ નાનાં હોય છે પણ રંગરૂપે કાગડાનાં ઈંડાં જેવાં જ હોય છે. કાગડો અને કાગડી વારાફરતી આ ઈંડાંને સેવે છે. એમાંથી બચ્ચાં નીકળે એને એ જાણે પોતાનાં જ બચ્ચાં હોય તેવી રીતે ઉછેરે છે. બચ્ચાં બોલતાં થાય એટલે કૂ... કૂ... કરતાં ઊડી જાય છે.'\n\nઉદાહરણ : કાગડો શા માટે હોશિયાર પક્ષી કહેવાય છે ?",
+      "answer": "(છપાયેલા ઉદાહરણનો જવાબ) ફકરો કહે છે કે કાગડો ખરેખર ખૂબ હોશિયાર પક્ષી છે; પણ એ હોશિયારીનું કારણ ફકરામાં લખ્યું નથી. ફકરો તો ઊલટું એ બતાવે છે કે આટલા હોશિયાર કાગડાનેય કોયલ છેતરી જાય છે.\n\n(જોડીકાર્ય માટે બીજા પ્રશ્નો અને જવાબ) કાગડાના માળામાં પોતાનાં ઈંડાં કોણ મૂકે છે ? — કોયલ. કોયલ ઈંડાં કેવી રીતે મૂકે છે ? — ચોરીછૂપીથી. કોયલનાં ઈંડાં કેવાં હોય છે ? — સહેજ નાનાં, પણ રંગરૂપે કાગડાનાં ઈંડાં જેવાં જ. ઈંડાંને કોણ સેવે છે ? — કાગડો અને કાગડી વારાફરતી. બચ્ચાંને કાગડો કેવી રીતે ઉછેરે છે ? — જાણે પોતાનાં જ બચ્ચાં હોય તેવી રીતે. બચ્ચાં ક્યારે ઊડી જાય છે ? — બોલતાં થાય એટલે, કૂ... કૂ... કરતાં.",
+      "explanation": "આ ખંડમાં જવાબ કરતાં પ્રશ્ન બનાવવાનું કામ મોટું છે. ફકરાના દરેક વાક્યમાંથી એક પ્રશ્ન નીકળી શકે — કોણ, શું, કેવી રીતે, ક્યારે એવા શબ્દોથી શરૂ કરો. જોડીમાં એક બાળક પૂછે અને બીજું ફકરામાંથી જ જવાબ આપે; જવાબ ફકરાની બહારથી ન લાવવો.",
+      "acceptable_alternatives": [
+        "કોયલનાં બચ્ચાં કાગડાના માળામાં કેમ ઊછરે છે ? — કારણ કે કોયલ પોતાનાં ઈંડાં ત્યાં મૂકી જાય છે",
+        "કાગડાને કોણ છેતરે છે ? — કોયલ"
+      ],
+      "values_filled_for_teaching": "જોડીકાર્ય માટે તૈયાર પ્રશ્ન-જવાબ : (1) કાગડાના માળામાં કોણ ઈંડાં મૂકે છે ? — કોયલ. (2) કોયલ ઈંડાં કેવી રીતે મૂકે છે ? — ચોરીછૂપીથી. (3) કોયલનાં ઈંડાં કેવાં હોય છે ? — સહેજ નાનાં પણ રંગરૂપે કાગડાનાં જેવાં જ. (4) ઈંડાંને કોણ સેવે છે ? — કાગડો અને કાગડી વારાફરતી. (5) બચ્ચાં ક્યારે ઊડી જાય છે ? — બોલતાં થાય એટલે.",
+      "teacher_note": "Printed block 5, tagged (જોડીકાર્ય). The paragraph is self-contained and is not part of the chapter's story — the pair work is about forming questions, which the court scenes model. Give each pair five minutes: three questions each way, answers only from the printed paragraph.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX20",
+      "exercise_group": "નીચે આપેલો ફકરો વાંચી યોગ્ય સુધારા કરીને લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "નીચે આપેલો ફકરો વાંચી યોગ્ય સુધારા કરીને લખો.\n\nખમેરિકામાં ખવકાશ વિષયક ખધિકૃત પુસ્તકો ખઢળક પ્રમાણમાં લખવામાં આવે છે. ખવકાશયાત્રીઓને ખવકાશી સાહસો અને એલદિલીનાં પુસ્તકો લઅનાર લેઅક જિન પિયર હેરિસનનાં પુસ્તકો ખચૂક વાંચવાં પડે છે, ખને અરેઅર વાંચવાં જ જોઈએ.",
+      "answer": "અમેરિકામાં અવકાશ વિષયક અધિકૃત પુસ્તકો અઢળક પ્રમાણમાં લખવામાં આવે છે. અવકાશયાત્રીઓને અવકાશી સાહસો અને એલદિલીનાં પુસ્તકો લખનાર લેખક જિન પિયર હેરિસનનાં પુસ્તકો અચૂક વાંચવાં પડે છે, અને ખરેખર વાંચવાં જ જોઈએ.",
+      "explanation": "આખા ફકરામાં એક જ જાતની ભૂલ જાણી જોઈને છાપી છે : જ્યાં 'અ' જોઈએ ત્યાં 'ખ' છપાયો છે અને જ્યાં 'ખ' જોઈએ ત્યાં 'અ' છપાયો છે. એટલે ખમેરિકામાં → અમેરિકામાં, ખવકાશ → અવકાશ, ખધિકૃત → અધિકૃત, ખઢળક → અઢળક, ખવકાશયાત્રીઓને → અવકાશયાત્રીઓને, ખવકાશી → અવકાશી, ખચૂક → અચૂક, ખને → અને; અને સામે લઅનાર → લખનાર, લેઅક → લેખક, અરેઅર → ખરેખર. શબ્દ મોટેથી બોલી જુઓ — ખોટો અક્ષર કાને તરત પકડાય છે.",
+      "acceptable_alternatives": [
+        "'અ' અને 'ખ' અદલાબદલ થયા છે એટલું ઓળખી બતાવવું એ પણ સાચી શરૂઆત છે"
+      ],
+      "values_filled_for_teaching": "સુધારેલો આખો ફકરો : અમેરિકામાં અવકાશ વિષયક અધિકૃત પુસ્તકો અઢળક પ્રમાણમાં લખવામાં આવે છે. અવકાશયાત્રીઓને અવકાશી સાહસો અને એલદિલીનાં પુસ્તકો લખનાર લેખક જિન પિયર હેરિસનનાં પુસ્તકો અચૂક વાંચવાં પડે છે, અને ખરેખર વાંચવાં જ જોઈએ. — બદલાયેલા અગિયાર શબ્દો : અમેરિકામાં, અવકાશ, અધિકૃત, અઢળક, અવકાશયાત્રીઓને, અવકાશી, લખનાર, લેખક, અચૂક, અને, ખરેખર.",
+      "teacher_note": "Printed block 6. Verified against render page-4: the book prints 'અરેઅર' (not 'અરેખર') and 'લઅનાર લેઅક' — 00_chapter_normalized.md transcribes that word as 'અરેખર', which is an Agent 1 transcription slip; prompt_verbatim here follows the render. One printed word is NOT part of the અ/ખ pattern and is left untouched in the corrected paragraph: 'એલદિલીનાં' (the render was checked at 6x; it is printed exactly so). It is not a word we can repair with confidence, so do not mark a child wrong either way on it. Also note the deliberate errors never touch correctly printed 'લખવામાં' and 'આવે' — so the child must judge word by word, not swap every અ and ખ.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX21",
+      "exercise_group": "નીચેનાં વાક્યોનો પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "કારતક અને માગશર આ બે મહિના હેમંત ઋતુના હોય છે.",
+      "answer": "Kartak and Magshar — these two months belong to the Hemant (early winter) season.",
+      "explanation": "કારતક અને માગશર એ વિક્રમ સંવતના મહિનાનાં નામ છે અને હેમંત ઋતુ એ ગુજરાતી છ ઋતુઓમાંની એક — એટલે અનુવાદમાં નામ એમનાં એમ રહે છે અને વાક્યની રચના પ્રથમ ભાષા પ્રમાણે બદલાય છે.",
+      "acceptable_alternatives": [
+        "Kartak and Magshar are the two months of the Hemant season.",
+        "The months of Kartak and Magshar fall in the Hemant (early-winter) season."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, translation into the child's પ્રથમ ભાષા. This plan's medium of instruction is English (chapter_id gseb_eng_gujarati7_ch2), so the model answer is in English — non-Gujarati script inside `answer` is expected and correct for this block only. A school whose children's first language is Hindi, Marathi, Sindhi or another language substitutes that language; the Gujarati month names (કારતક, માગશર…) and season names are proper nouns and are transliterated, never replaced.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX22",
+      "exercise_group": "નીચેનાં વાક્યોનો પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "પોષ અને મહા આ બે મહિના શિશિર ઋતુના હોય છે.",
+      "answer": "Posh and Maha — these two months belong to the Shishir (winter) season.",
+      "explanation": "અહીં પણ મહિનાનાં નામ યથાવત્ રહે છે; 'આ બે મહિના' માટે અંગ્રેજીમાં 'these two months' આવે અને 'હોય છે' માટે 'belong to' જેવો ચાલુ કાળનો પ્રયોગ વપરાય.",
+      "acceptable_alternatives": [
+        "Posh and Maha are the two months of the Shishir season.",
+        "The months of Posh and Maha fall in the Shishir (winter) season."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, translation into the child's પ્રથમ ભાષા. This plan's medium of instruction is English (chapter_id gseb_eng_gujarati7_ch2), so the model answer is in English — non-Gujarati script inside `answer` is expected and correct for this block only. A school whose children's first language is Hindi, Marathi, Sindhi or another language substitutes that language; the Gujarati month names (કારતક, માગશર…) and season names are proper nouns and are transliterated, never replaced.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX23",
+      "exercise_group": "નીચેનાં વાક્યોનો પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "ફાગણ અને ચૈત્ર આ બે મહિના વસંત ઋતુના હોય છે.",
+      "answer": "Fagan and Chaitra — these two months belong to the Vasant (spring) season.",
+      "explanation": "વસંતને અંગ્રેજીમાં spring કહે છે; ઋતુનું ગુજરાતી નામ પણ કૌંસમાં રાખવાથી બંને ભાષાનો શબ્દ સાથે શીખાય છે.",
+      "acceptable_alternatives": [
+        "Fagan and Chaitra are the two months of the Vasant season.",
+        "The months of Fagan and Chaitra fall in the Vasant (spring) season."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, translation into the child's પ્રથમ ભાષા. This plan's medium of instruction is English (chapter_id gseb_eng_gujarati7_ch2), so the model answer is in English — non-Gujarati script inside `answer` is expected and correct for this block only. A school whose children's first language is Hindi, Marathi, Sindhi or another language substitutes that language; the Gujarati month names (કારતક, માગશર…) and season names are proper nouns and are transliterated, never replaced.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX24",
+      "exercise_group": "નીચેનાં વાક્યોનો પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "વૈશાખ અને જેઠ આ બે મહિના ગ્રીષ્મ ઋતુના હોય છે.",
+      "answer": "Vaishakh and Jeth — these two months belong to the Grishma (summer) season.",
+      "explanation": "ગ્રીષ્મ એટલે ઉનાળો, અંગ્રેજીમાં summer. વાક્યનો ઢાંચો આગલાં વાક્યો જેવો જ રહે છે.",
+      "acceptable_alternatives": [
+        "Vaishakh and Jeth are the two months of the Grishma season.",
+        "The months of Vaishakh and Jeth fall in the Grishma (summer) season."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, translation into the child's પ્રથમ ભાષા. This plan's medium of instruction is English (chapter_id gseb_eng_gujarati7_ch2), so the model answer is in English — non-Gujarati script inside `answer` is expected and correct for this block only. A school whose children's first language is Hindi, Marathi, Sindhi or another language substitutes that language; the Gujarati month names (કારતક, માગશર…) and season names are proper nouns and are transliterated, never replaced.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX25",
+      "exercise_group": "નીચેનાં વાક્યોનો પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "અષાઢ અને શ્રાવણ આ બે મહિના વર્ષા ઋતુના હોય છે.",
+      "answer": "Ashadh and Shravan — these two months belong to the Varsha (monsoon) season.",
+      "explanation": "વર્ષા એટલે ચોમાસું; અંગ્રેજીમાં એ માટે rainy season કે monsoon બંને ચાલે.",
+      "acceptable_alternatives": [
+        "Ashadh and Shravan are the two months of the Varsha season.",
+        "The months of Ashadh and Shravan fall in the rainy season."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, translation into the child's પ્રથમ ભાષા. This plan's medium of instruction is English (chapter_id gseb_eng_gujarati7_ch2), so the model answer is in English — non-Gujarati script inside `answer` is expected and correct for this block only. A school whose children's first language is Hindi, Marathi, Sindhi or another language substitutes that language; the Gujarati month names (કારતક, માગશર…) and season names are proper nouns and are transliterated, never replaced.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX26",
+      "exercise_group": "નીચેનાં વાક્યોનો પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "ભાદરવો અને આસો આ બે મહિના શરદ ઋતુના હોય છે.",
+      "answer": "Bhadarvo and Aso — these two months belong to the Sharad (autumn) season.",
+      "explanation": "શરદ ઋતુ ચોમાસા પછી આવે છે; અંગ્રેજીમાં autumn. છયે વાક્યો સાથે વાંચતાં ગુજરાતી છ ઋતુઓનું આખું ચક્ર મળી રહે છે.",
+      "acceptable_alternatives": [
+        "Bhadarvo and Aso are the two months of the Sharad season.",
+        "The months of Bhadarvo and Aso fall in the Sharad (autumn) season."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, translation into the child's પ્રથમ ભાષા. This plan's medium of instruction is English (chapter_id gseb_eng_gujarati7_ch2), so the model answer is in English — non-Gujarati script inside `answer` is expected and correct for this block only. A school whose children's first language is Hindi, Marathi, Sindhi or another language substitutes that language; the Gujarati month names (કારતક, માગશર…) and season names are proper nouns and are transliterated, never replaced.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX27",
+      "exercise_group": "ચાલો, થોડી જીભની કસરત કરી લઈએ...",
+      "skill": "listening",
+      "prompt_verbatim": "ટપુ ટપાલીએ ટપાલપેટીની ટપાલ ટોડરમલદાસને ત્યાં આપી.",
+      "answer": "આ વાક્ય લખવાનું નથી, બોલવાનું છે. પહેલાં ધીમે ધીમે અને ચોખ્ખું બોલો, પછી ધીરે ધીરે ઝડપ વધારીને એકી શ્વાસે ત્રણ વાર બોલો — 'ટ' વર્ણ બરાબર સંભળાવો જોઈએ. અહીં 'ટ' વર્ણવાળા શબ્દો છે : ટપુ, ટપાલી, ટપાલપેટી, ટપાલ, ટોડરમલદાસ.",
+      "explanation": "જીભની કસરતનો હેતુ એક જ વર્ણને વારંવાર ઉચ્ચારીને જીભ કેળવવાનો છે. 'ટ' એ મૂર્ધન્ય વર્ણ છે — જીભની ટોચ તાળવે અડે ત્યારે બોલાય છે — અને એ જ વર્ણ આખા વાક્યમાં ફરી ફરી આવે છે, એટલે ઝડપથી બોલતાં જીભ થોથવાય છે. ધીમેથી શરૂ કરીને ઝડપ વધારવી એ જ સાચી રીત છે.",
+      "acceptable_alternatives": [
+        "જોડીમાં સામસામે બોલવું",
+        "શિક્ષક બોલે અને આખો વર્ગ પાછળ ઝીલે"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8 — pure pronunciation practice; there is no written answer to mark. Do it chorally first, then two or three volunteers at speed. Listen for the retroflex contact, not for speed alone.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX28",
+      "exercise_group": "ચાલો, થોડી જીભની કસરત કરી લઈએ...",
+      "skill": "listening",
+      "prompt_verbatim": "ઠીંગણા ઠિચૂકભાઈએ ઠામે - ઠામથી ઠળિયા એકઠા કર્યા હતા.",
+      "answer": "આ વાક્ય લખવાનું નથી, બોલવાનું છે. પહેલાં ધીમે ધીમે અને ચોખ્ખું બોલો, પછી ધીરે ધીરે ઝડપ વધારીને એકી શ્વાસે ત્રણ વાર બોલો — 'ઠ' વર્ણ બરાબર સંભળાવો જોઈએ. અહીં 'ઠ' વર્ણવાળા શબ્દો છે : ઠીંગણા, ઠિચૂકભાઈ, ઠામે-ઠામ, ઠળિયા, એકઠા.",
+      "explanation": "જીભની કસરતનો હેતુ એક જ વર્ણને વારંવાર ઉચ્ચારીને જીભ કેળવવાનો છે. 'ઠ' એ મૂર્ધન્ય વર્ણ છે — જીભની ટોચ તાળવે અડે ત્યારે બોલાય છે — અને એ જ વર્ણ આખા વાક્યમાં ફરી ફરી આવે છે, એટલે ઝડપથી બોલતાં જીભ થોથવાય છે. ધીમેથી શરૂ કરીને ઝડપ વધારવી એ જ સાચી રીત છે.",
+      "acceptable_alternatives": [
+        "જોડીમાં સામસામે બોલવું",
+        "શિક્ષક બોલે અને આખો વર્ગ પાછળ ઝીલે"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8 — pure pronunciation practice; there is no written answer to mark. Do it chorally first, then two or three volunteers at speed. Listen for the retroflex contact, not for speed alone.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX29",
+      "exercise_group": "ચાલો, થોડી જીભની કસરત કરી લઈએ...",
+      "skill": "listening",
+      "prompt_verbatim": "ડાહ્યાલાલ ડગલે-ડગલે ડોલતા-ડોલતા ડાકોર પહોંચશે.",
+      "answer": "આ વાક્ય લખવાનું નથી, બોલવાનું છે. પહેલાં ધીમે ધીમે અને ચોખ્ખું બોલો, પછી ધીરે ધીરે ઝડપ વધારીને એકી શ્વાસે ત્રણ વાર બોલો — 'ડ' વર્ણ બરાબર સંભળાવો જોઈએ. અહીં 'ડ' વર્ણવાળા શબ્દો છે : ડાહ્યાલાલ, ડગલે-ડગલે, ડોલતા-ડોલતા, ડાકોર.",
+      "explanation": "જીભની કસરતનો હેતુ એક જ વર્ણને વારંવાર ઉચ્ચારીને જીભ કેળવવાનો છે. 'ડ' એ મૂર્ધન્ય વર્ણ છે — જીભની ટોચ તાળવે અડે ત્યારે બોલાય છે — અને એ જ વર્ણ આખા વાક્યમાં ફરી ફરી આવે છે, એટલે ઝડપથી બોલતાં જીભ થોથવાય છે. ધીમેથી શરૂ કરીને ઝડપ વધારવી એ જ સાચી રીત છે.",
+      "acceptable_alternatives": [
+        "જોડીમાં સામસામે બોલવું",
+        "શિક્ષક બોલે અને આખો વર્ગ પાછળ ઝીલે"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8 — pure pronunciation practice; there is no written answer to mark. Do it chorally first, then two or three volunteers at speed. Listen for the retroflex contact, not for speed alone.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX30",
+      "exercise_group": "ચાલો, થોડી જીભની કસરત કરી લઈએ...",
+      "skill": "listening",
+      "prompt_verbatim": "ઢોલીડો ઢમ ઢમ ઢોલ વગાડે અને ઢબુ ઢીંગલી ગીતો ગાય.",
+      "answer": "આ વાક્ય લખવાનું નથી, બોલવાનું છે. પહેલાં ધીમે ધીમે અને ચોખ્ખું બોલો, પછી ધીરે ધીરે ઝડપ વધારીને એકી શ્વાસે ત્રણ વાર બોલો — 'ઢ' વર્ણ બરાબર સંભળાવો જોઈએ. અહીં 'ઢ' વર્ણવાળા શબ્દો છે : ઢોલીડો, ઢમ ઢમ, ઢોલ, ઢબુ, ઢીંગલી.",
+      "explanation": "જીભની કસરતનો હેતુ એક જ વર્ણને વારંવાર ઉચ્ચારીને જીભ કેળવવાનો છે. 'ઢ' એ મૂર્ધન્ય વર્ણ છે — જીભની ટોચ તાળવે અડે ત્યારે બોલાય છે — અને એ જ વર્ણ આખા વાક્યમાં ફરી ફરી આવે છે, એટલે ઝડપથી બોલતાં જીભ થોથવાય છે. ધીમેથી શરૂ કરીને ઝડપ વધારવી એ જ સાચી રીત છે.",
+      "acceptable_alternatives": [
+        "જોડીમાં સામસામે બોલવું",
+        "શિક્ષક બોલે અને આખો વર્ગ પાછળ ઝીલે"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8 — pure pronunciation practice; there is no written answer to mark. Do it chorally first, then two or three volunteers at speed. Listen for the retroflex contact, not for speed alone.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX31",
+      "exercise_group": "આપેલો ફકરો વાંચીને સૂચના પ્રમાણે જવાબ લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "આપેલો ફકરો વાંચીને સૂચના પ્રમાણે જવાબ લખો.\n\nમહારાજ ! હું કવિપુત્રી માત્ર પ્રશ્નનો જવાબ આપી રહી છું. જેમ આપનું સ્થાન સિંહાસને ઉચ્ચપદે છે અને પ્રધાનજીનું સ્થાન મંત્રીપદે છે, તેમ જ ભગવાનનું કામ દરેક વાત, દરેક ચીજ, દરેક મનુષ્યને યોગ્ય સ્થાને રાખવાનું છે. માત્ર માનવી, જીવજંતુ, પશુપંખી કે વનરાજી જ નહિ, ભગવાનનું કામ સૂર્ય, ચંદ્ર, તારા, આકાશને પણ યોગ્ય સ્થાને ગોઠવી રાખવાનું છે. જમીન, સમુદ્ર, હવા, પ્રકાશ બધું જ યોગ્ય સ્થાને છે. હજારો વર્ષોથી સવાર - સાંજ, રાત નિયમ મુજબ થતાં જ રહે છે.\n\n1. સિંહની આકૃતિવાળું આસન એટલે...",
+      "answer": "સિંહાસન",
+      "explanation": "શબ્દ પોતે જ પોતાનો અર્થ કહી દે છે : સિંહ + આસન = સિંહાસન, એટલે સિંહની આકૃતિવાળું આસન. ફકરામાં એ જ શબ્દ 'આપનું સ્થાન સિંહાસને ઉચ્ચપદે છે' એ વાક્યમાં વપરાયો છે, અને પાઠમાં રાજા એના પર બિરાજે છે.",
+      "acceptable_alternatives": [
+        "રાજગાદી",
+        "રાજાનું આસન"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9, item 1 — a શબ્દસમૂહ માટે એક શબ્દ item. Have children find the word inside the printed paragraph rather than recalling it.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S4.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX32",
+      "exercise_group": "આપેલો ફકરો વાંચીને સૂચના પ્રમાણે જવાબ લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "2. નીચેનામાંથી ક્યો શબ્દ અલગ પડે છે ?\n\n(અ) દરિયો        (બ) સરોવર      (ક) સાગર       (ડ) સમુદ્ર",
+      "answer": "(બ) સરોવર",
+      "explanation": "દરિયો, સાગર અને સમુદ્ર — આ ત્રણેય એક જ વસ્તુનાં નામ છે, એટલે કે સમાનાર્થી શબ્દો છે : ખારા પાણીનો વિશાળ જળરાશિ. સરોવર એટલે મીઠા પાણીનું તળાવ, જે જમીન વચ્ચે હોય છે — એટલે એ અલગ પડે છે. બાળકને (ડ) સમુદ્ર લલચાવે છે, કારણ કે એ સૌથી અઘરો કે ચોપડીનો શબ્દ લાગે છે; પણ અહીં અઘરો શબ્દ નહીં, જુદા અર્થવાળો શબ્દ શોધવાનો છે, અને ફકરામાં પણ 'જમીન, સમુદ્ર, હવા' એમ સમુદ્ર જ છપાયો છે.",
+      "acceptable_alternatives": [
+        "સરોવર"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9, item 2. Ask 'કેમ ?' after the choice — the reason (three synonyms for the sea, one for a lake) is the actual learning here.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S4.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX33",
+      "exercise_group": "આપેલો ફકરો વાંચીને સૂચના પ્રમાણે જવાબ લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "3. 'વૃક્ષોની લાંબી હાર' માટે ફકરામાં કયો શબ્દ વપરાયો છે ?",
+      "answer": "વનરાજી",
+      "explanation": "ફકરામાં લખ્યું છે — 'માત્ર માનવી, જીવજંતુ, પશુપંખી કે વનરાજી જ નહિ…'. વન એટલે જંગલ અને રાજી એટલે હાર; એટલે વનરાજી એટલે વૃક્ષોની લાંબી હાર. જવાબ ફકરાની બહારથી લાવવાનો નથી, ફકરામાંથી જ શોધવાનો છે.",
+      "acceptable_alternatives": [
+        "વનરાજી (વૃક્ષોની હાર)"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9, item 3. This is a find-it-in-the-text item; insist the child underlines the word in the paragraph before writing it.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S4.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX34",
+      "exercise_group": "આપેલો ફકરો વાંચીને સૂચના પ્રમાણે જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "4. કવિપુત્રી કોને સંબોધન કરી રહી છે ?",
+      "answer": "કવિપુત્રી મહારાજને — એટલે કે રાજા ભોજને — સંબોધન કરી રહી છે.",
+      "explanation": "ફકરાનો પહેલો શબ્દ જ 'મહારાજ !' છે, અને પછી 'આપનું સ્થાન સિંહાસને ઉચ્ચપદે છે' એમ માનવાચક 'આપ' વપરાયું છે. સંબોધન પછી આશ્ચર્યવિરામ મુકાયો છે, એટલે કોને કહેવાય છે તે પહેલી નજરે જ પકડાય છે.",
+      "acceptable_alternatives": [
+        "રાજા ભોજને",
+        "મહારાજને"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9, item 4. Use it to show how a સંબોધન is marked in print — the chapter's grammar focus is punctuation.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S4.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX35",
+      "exercise_group": "આપેલો ફકરો વાંચીને સૂચના પ્રમાણે જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "5 ભગવાનનું કામ શું છે ?",
+      "answer": "ફકરા પ્રમાણે ભગવાનનું કામ દરેક વાત, દરેક ચીજ અને દરેક મનુષ્યને યોગ્ય સ્થાને રાખવાનું છે. માત્ર માનવી, જીવજંતુ, પશુપંખી કે વનરાજી જ નહિ, સૂર્ય, ચંદ્ર, તારા અને આકાશને પણ યોગ્ય સ્થાને ગોઠવી રાખવાનું કામ ભગવાનનું છે — એટલે જ હજારો વર્ષોથી સવાર-સાંજ અને રાત નિયમ મુજબ થતાં જ રહે છે.",
+      "explanation": "આ કવિપુત્રીનો ત્રીજા સવાલનો જવાબ છે, અને તે એક ઉપમા ઉપર ઊભો છે : જેમ રાજાનું સ્થાન સિંહાસન છે અને પ્રધાનજીનું સ્થાન મંત્રીપદ, તેમ સૃષ્ટિની દરેક ચીજનું પોતાનું સ્થાન છે. જવાબ ફકરાના શબ્દોમાં જ લખવો — 'યોગ્ય સ્થાને રાખવાનું' એ મુખ્ય શબ્દો છે.",
+      "acceptable_alternatives": [
+        "દરેક ચીજ અને દરેક જીવને એના યોગ્ય સ્થાને રાખવાનું અને ગોઠવી રાખવાનું"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9, item 5 (the book prints '5' without the full stop the other items carry). Keep the answer inside the paragraph's own words — it reports what કવિપુત્રી says in the story, and is not a statement of doctrine for the class to argue.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S4.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX36",
+      "exercise_group": "તમારા વર્ગખંડમાં બોર્ડ (કાળું પાટિયું)કઈ દિશામાં છે ? તે પરથી તમારી ડાબી, જમણી, આાગળ અને પાછળની દિશા લખો. શિક્ષકની મદદથી ખૂણા અને દિશાઓની માહિતી મેળવો.",
+      "skill": "writing",
+      "prompt_verbatim": "તમારા વર્ગખંડમાં બોર્ડ (કાળું પાટિયું)કઈ દિશામાં છે ? તે પરથી તમારી ડાબી, જમણી, આાગળ અને પાછળની દિશા લખો. શિક્ષકની મદદથી ખૂણા અને દિશાઓની માહિતી મેળવો.",
+      "answer": "(એક શક્ય જવાબ) અમારા વર્ગખંડમાં બોર્ડ પૂર્વ દિશામાં છે. બોર્ડ સામે જોઈને બેસીએ ત્યારે અમારી આગળ પૂર્વ દિશા આવે, પાછળ પશ્ચિમ દિશા આવે, ડાબી બાજુ ઉત્તર દિશા આવે અને જમણી બાજુ દક્ષિણ દિશા આવે.\n\nશિક્ષક પાસેથી મળતી માહિતી : ચાર મુખ્ય દિશા — પૂર્વ, પશ્ચિમ, ઉત્તર, દક્ષિણ. બે દિશાઓ વચ્ચેના ચાર ખૂણા — ઈશાન (ઉત્તર-પૂર્વ), અગ્નિ (દક્ષિણ-પૂર્વ), નૈઋત્ય (દક્ષિણ-પશ્ચિમ) અને વાયવ્ય (ઉત્તર-પશ્ચિમ).",
+      "explanation": "જવાબ દરેક વર્ગખંડનો જુદો આવશે, કારણ કે બોર્ડ કઈ દિશામાં છે તે દરેક ઓરડામાં જુદું હોય. રીત એક જ છે : સવારે સૂરજ જે બાજુ ઊગે તે પૂર્વ; એ નક્કી થયા પછી બાકીની દિશા આપોઆપ ગોઠવાઈ જાય. બોર્ડ સામે ઊભા રહીને આગળ કઈ દિશા છે તે લખો, પછી પાછળ, ડાબી અને જમણી લખો. પાઠમાં પણ દિશાની વાત આવે છે — દીવાનો પ્રકાશ ચારે દિશામાં પડે છે.",
+      "acceptable_alternatives": [
+        "બોર્ડ ઉત્તરમાં હોય તો : આગળ ઉત્તર, પાછળ દક્ષિણ, ડાબે પશ્ચિમ, જમણે પૂર્વ",
+        "બોર્ડ પશ્ચિમમાં હોય તો : આગળ પશ્ચિમ, પાછળ પૂર્વ, ડાબે દક્ષિણ, જમણે ઉત્તર"
+      ],
+      "values_filled_for_teaching": "કોષ્ટક ભરવાની રીત : બોર્ડની દિશા = ___ ; આગળ = બોર્ડની દિશા ; પાછળ = એની સામેની દિશા ; ડાબી બાજુ અને જમણી બાજુ = બાકીની બે દિશા. ચાર ખૂણા : ઈશાન, અગ્નિ, નૈઋત્ય, વાયવ્ય.",
+      "teacher_note": "Printed block 10 — teacher-assisted, and the answer depends on the actual room, so the model answer above assumes a board on the east wall. Do it standing: face the board together, fix પૂર્વ from the sunrise side, then let the children write the four directions and the four ખૂણા in their notebooks.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S3.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX37",
+      "exercise_group": "દૂધમાંથી માખણ બનવાની પ્રક્રિયા લખો.",
+      "skill": "writing",
+      "prompt_verbatim": "દૂધમાંથી માખણ બનવાની પ્રક્રિયા લખો.",
+      "answer": "દૂધને પહેલાં ગરમ કરીને હૂંફાળું થવા દેવાય છે. હૂંફાળા દૂધમાં થોડું મેળવણ નાખીને ઢાંકી રાખવાથી થોડા કલાકે દૂધ જામી જાય છે અને દહીં બને છે. પછી એ દહીંમાં પાણી ઉમેરીને રવૈયા કે વલોણાથી વલોવવામાં આવે છે. વલોવાતાં દહીંમાંથી છાશ છૂટી પડે છે અને માખણ હલકું હોવાથી ઉપર તરી આવે છે. છેલ્લે ઉપર તરી આવેલું માખણ હાથે ભેગું કરીને કાઢી લેવાય છે.",
+      "explanation": "આ પ્રક્રિયાનું હાડપિંજર પાઠ પોતે જ આપી દે છે — કવિબાળા કહે છે, 'દૂધમાંથી દહીં બને, છાશ બને, જ્યારે છાશ વલોવાતી હોય છે ત્યારે જ ઉપર માખણ તરી આવે છે અને દેખાય છે.' એટલે ક્રમ આ રહ્યો : દૂધ → દહીં → વલોણું → છાશ અને માખણ. લખતી વખતે દરેક પગલું ક્રમમાં અને એક-એક વાક્યમાં લખવું.",
+      "acceptable_alternatives": [
+        "ટૂંકમાં : દૂધ ગરમ કરી મેળવણ નાખવું → દહીં જામે → દહીં વલોવવું → છાશ છૂટી પડે → માખણ ઉપર તરી આવે → માખણ કાઢી લેવું"
+      ],
+      "values_filled_for_teaching": "ક્રમનાં પગલાં : (1) દૂધ ગરમ કરવું, (2) હૂંફાળા દૂધમાં મેળવણ નાખવું, (3) દહીં જામવા દેવું, (4) દહીં વલોવવું, (5) છાશ છૂટી પડે અને માખણ ઉપર તરી આવે, (6) માખણ ભેગું કરી લેવું.",
+      "teacher_note": "Printed block 11 — process writing. Anchor it in the girl's own printed sentence first, then let children add the household steps they have watched at home. Marking should follow the order of steps, not the number of words.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX38",
+      "exercise_group": "તમને ગમતી ચાતુર્યની બે વાર્તાઓ વાંચીને રજૂ કરો.",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને ગમતી ચાતુર્યની બે વાર્તાઓ વાંચીને રજૂ કરો.",
+      "answer": "(એક શક્ય રજૂઆત) મેં પુસ્તકાલયમાંથી બે ચાતુર્યકથાઓ વાંચી — એક બીરબલની અને એક તેનાલીરામની. બંનેમાં પાત્ર બુદ્ધિથી મુશ્કેલી ઉકેલે છે, જેમ આ પાઠમાં કવિબાળા દૂધ અને દીવો મંગાવીને ઉકેલે છે. રજૂ કરતી વખતે મેં પહેલાં મુશ્કેલી શી હતી તે કહ્યું, પછી પાત્રે શું કર્યું તે કહ્યું, અને છેલ્લે વળાંક કહ્યો.",
+      "explanation": "આ પ્રવૃત્તિમાં વાર્તા તમે પસંદ કરવાની છે, એટલે વર્ગમાં જુદી જુદી વાર્તાઓ આવશે. રજૂઆતનું માળખું પાઠમાંથી જ મળે છે : પહેલાં પ્રશ્ન કે મુશ્કેલી, પછી ચતુરાઈભરી રીત, અને છેલ્લે પરિણામ. ચાતુર્યકથા એટલે એવી વાર્તા જેમાં જીત તાકાતથી નહીં, બુદ્ધિથી મળે છે.",
+      "acceptable_alternatives": [
+        "અકબર-બીરબલની વાર્તાઓ",
+        "તેનાલીરામની વાર્તાઓ",
+        "પંચતંત્રની બુદ્ધિચાતુર્યની વાર્તાઓ",
+        "ઘરે દાદા-દાદી પાસેથી સાંભળેલી કોઈ પણ ચતુરાઈની વાર્તા"
+      ],
+      "values_filled_for_teaching": "રજૂઆતનું માળખું : (1) વાર્તાનું નામ અને ક્યાંથી વાંચી; (2) મુશ્કેલી શી હતી; (3) પાત્રે કઈ ચતુરાઈ કરી; (4) અંતે શું થયું; (5) તમને શું ગમ્યું.",
+      "teacher_note": "Printed block 12 — a library/reading activity, so the child's own choice is the answer; the titles above are only suggestions to unblock a child who cannot pick one. Give two or three minutes per child and ask the class to name the ચતુરાઈ in each tale.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S3.T6",
+        "M2.S3.T7",
+        "M3.S4.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX39",
+      "exercise_group": "નીચેના ફકરામાં યોગ્ય વિરામચિહ્નો મૂકો.",
+      "skill": "grammar",
+      "prompt_verbatim": "નીચેના ફકરામાં યોગ્ય વિરામચિહ્નો મૂકો.\n\nજંગલની એક હોટલમાં બધાં રોકાયાં હતાં રાત પડી અને અચાનક લાઇટ જતી રહી સિંહની ત્રાડથી બાળકો થથરી ઊઠ્યાં કરણ પીયૂષ અને રાગિણીએ તો આંખો બંધ કરી દીધી કરણ કહે દાદા સિંહ કેટલેક દૂર હશે દાદા બોલ્યા બાળકો તમે ચિંતા કરો મા ત્યાં તો લાઇટ આાવી ગઈ છોકરાં એકદમ ખુશ થઈ ગયાં",
+      "answer": "જંગલની એક હોટલમાં બધાં રોકાયાં હતાં. રાત પડી અને અચાનક લાઇટ જતી રહી. સિંહની ત્રાડથી બાળકો થથરી ઊઠ્યાં. કરણ, પીયૂષ અને રાગિણીએ તો આંખો બંધ કરી દીધી. કરણ કહે, ''દાદા, સિંહ કેટલેક દૂર હશે ?'' દાદા બોલ્યા, ''બાળકો, તમે ચિંતા કરો મા.'' ત્યાં તો લાઇટ આવી ગઈ. છોકરાં એકદમ ખુશ થઈ ગયાં.",
+      "explanation": "દરેક પૂરા થતા વિધાનને અંતે પૂર્ણવિરામ મુકાય છે. 'કરણ, પીયૂષ અને રાગિણી' — યાદીમાં નામ છૂટાં પાડવા અલ્પવિરામ મુકાય છે, અને છેલ્લા બે નામ વચ્ચે 'અને' આવે ત્યાં અલ્પવિરામ મુકાતો નથી. 'કરણ કહે,' અને 'દાદા બોલ્યા,' પછી અલ્પવિરામ મૂકીને બોલાયેલું વાક્ય અવતરણચિહ્નમાં મુકાય છે. 'સિંહ કેટલેક દૂર હશે' એ સવાલ છે, એટલે એને અંતે પ્રશ્નવિરામ આવે; 'દાદા' અને 'બાળકો' સંબોધન છે, એટલે એમની પાછળ અલ્પવિરામ આવે.",
+      "acceptable_alternatives": [
+        "'દાદા ! સિંહ કેટલેક દૂર હશે ?' — સંબોધન પછી આશ્ચર્યવિરામ મૂકે તો પણ ચાલે",
+        "એકવડાં અવતરણચિહ્ન ' ' વાપરે તો પણ ચાલે, જો આખા ફકરામાં એકસરખાં વાપરે"
+      ],
+      "values_filled_for_teaching": "મુકાયેલાં ચિહ્નો : પૂર્ણવિરામ (.) — રોકાયાં હતાં / જતી રહી / થથરી ઊઠ્યાં / કરી દીધી / ચિંતા કરો મા / આવી ગઈ / ખુશ થઈ ગયાં પછી. અલ્પવિરામ (,) — કરણ, પીયૂષ પછી; કરણ કહે, અને દાદા બોલ્યા, પછી; સંબોધન દાદા, અને બાળકો, પછી. પ્રશ્નવિરામ (?) — 'સિંહ કેટલેક દૂર હશે' પછી. અવતરણચિહ્ન ('' '') — બોલાયેલાં બે વાક્યોની આસપાસ.",
+      "teacher_note": "Printed block 13, and the chapter's language target — the chapter-final વિરામચિહ્નો table (printed page 10) is the reference the children should keep open while doing it. Two notes: the book prints 'આાવી' with a doubled matra, corrected to 'આવી' in the answer; and the readers print doubled inverted commas '' '' rather than typographic quotes, which the answer follows. Mark step by step — full stops first, then the સંબોધન commas, then the question mark, then the quotation marks.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2",
+        "M1.S1.T3",
+        "M1.S2.T5"
+      ]
+    }
+  ],
+  "coverage_report": {
+    "blocks_found": [
+      "વાતચીત",
+      "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "નીચેનાં વાક્યો કોણ બોલ્યું હશે એ લખો.",
+      "તમને મૂંઝવતો પ્રશ્ન વર્ગ સમક્ષ રજૂ કરો અને ચર્ચા કરી જવાબ મેળવો.",
+      "આપેલ ફકરાને આધારે એકબીજાને પ્રશ્ન પૂછી જવાબ મેળવો. (જોડીકાર્ય)",
+      "નીચે આપેલો ફકરો વાંચી યોગ્ય સુધારા કરીને લખો.",
+      "નીચેનાં વાક્યોનો પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "ચાલો, થોડી જીભની કસરત કરી લઈએ...",
+      "આપેલો ફકરો વાંચીને સૂચના પ્રમાણે જવાબ લખો.",
+      "તમારા વર્ગખંડમાં બોર્ડ (કાળું પાટિયું)કઈ દિશામાં છે ? તે પરથી તમારી ડાબી, જમણી, આાગળ અને પાછળની દિશા લખો. શિક્ષકની મદદથી ખૂણા અને દિશાઓની માહિતી મેળવો.",
+      "દૂધમાંથી માખણ બનવાની પ્રક્રિયા લખો.",
+      "તમને ગમતી ચાતુર્યની બે વાર્તાઓ વાંચીને રજૂ કરો.",
+      "નીચેના ફકરામાં યોગ્ય વિરામચિહ્નો મૂકો."
+    ],
+    "blocks_answered": [
+      "વાતચીત",
+      "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "નીચેનાં વાક્યો કોણ બોલ્યું હશે એ લખો.",
+      "તમને મૂંઝવતો પ્રશ્ન વર્ગ સમક્ષ રજૂ કરો અને ચર્ચા કરી જવાબ મેળવો.",
+      "આપેલ ફકરાને આધારે એકબીજાને પ્રશ્ન પૂછી જવાબ મેળવો. (જોડીકાર્ય)",
+      "નીચે આપેલો ફકરો વાંચી યોગ્ય સુધારા કરીને લખો.",
+      "નીચેનાં વાક્યોનો પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "ચાલો, થોડી જીભની કસરત કરી લઈએ...",
+      "આપેલો ફકરો વાંચીને સૂચના પ્રમાણે જવાબ લખો.",
+      "તમારા વર્ગખંડમાં બોર્ડ (કાળું પાટિયું)કઈ દિશામાં છે ? તે પરથી તમારી ડાબી, જમણી, આાગળ અને પાછળની દિશા લખો. શિક્ષકની મદદથી ખૂણા અને દિશાઓની માહિતી મેળવો.",
+      "દૂધમાંથી માખણ બનવાની પ્રક્રિયા લખો.",
+      "તમને ગમતી ચાતુર્યની બે વાર્તાઓ વાંચીને રજૂ કરો.",
+      "નીચેના ફકરામાં યોગ્ય વિરામચિહ્નો મૂકો."
+    ],
+    "unanswered": [],
+    "unmapped": [
+      {
+        "exercise_id": "EX20",
+        "exercise_group": "નીચે આપેલો ફકરો વાંચી યોગ્ય સુધારા કરીને લખો.",
+        "reason": "The paragraph to be repaired (અમેરિકા / અવકાશ / જિન પિયર હેરિસન) is printed only inside the exercise and has no connection to any scene of the story; the block trains letter-level proof-reading of અ and ખ. No reading topic prepares it, and none was missed by the cut."
+      },
+      {
+        "exercise_id": "EX27",
+        "exercise_group": "ચાલો, થોડી જીભની કસરત કરી લઈએ...",
+        "reason": "Tongue-twister on 'ટ' — a pure articulation drill with no link to the chapter's reading text; nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX28",
+        "exercise_group": "ચાલો, થોડી જીભની કસરત કરી લઈએ...",
+        "reason": "Tongue-twister on 'ઠ' — a pure articulation drill with no link to the chapter's reading text; nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX29",
+        "exercise_group": "ચાલો, થોડી જીભની કસરત કરી લઈએ...",
+        "reason": "Tongue-twister on 'ડ' — a pure articulation drill with no link to the chapter's reading text; nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX30",
+        "exercise_group": "ચાલો, થોડી જીભની કસરત કરી લઈએ...",
+        "reason": "Tongue-twister on 'ઢ' — a pure articulation drill with no link to the chapter's reading text; nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX21",
+        "exercise_group": "નીચેનાં વાક્યોનો પ્રથમ ભાષામાં અનુવાદ કરો.",
+        "reason": "The six અનુવાદ sentences are a ઋતુ-and-month list printed only in the exercise; they belong to no scene of the story, so covered_by_topics is empty by construction, not because the cut missed a scene."
+      },
+      {
+        "exercise_id": "EX22",
+        "exercise_group": "નીચેનાં વાક્યોનો પ્રથમ ભાષામાં અનુવાદ કરો.",
+        "reason": "The six અનુવાદ sentences are a ઋતુ-and-month list printed only in the exercise; they belong to no scene of the story, so covered_by_topics is empty by construction, not because the cut missed a scene."
+      },
+      {
+        "exercise_id": "EX23",
+        "exercise_group": "નીચેનાં વાક્યોનો પ્રથમ ભાષામાં અનુવાદ કરો.",
+        "reason": "The six અનુવાદ sentences are a ઋતુ-and-month list printed only in the exercise; they belong to no scene of the story, so covered_by_topics is empty by construction, not because the cut missed a scene."
+      },
+      {
+        "exercise_id": "EX24",
+        "exercise_group": "નીચેનાં વાક્યોનો પ્રથમ ભાષામાં અનુવાદ કરો.",
+        "reason": "The six અનુવાદ sentences are a ઋતુ-and-month list printed only in the exercise; they belong to no scene of the story, so covered_by_topics is empty by construction, not because the cut missed a scene."
+      },
+      {
+        "exercise_id": "EX25",
+        "exercise_group": "નીચેનાં વાક્યોનો પ્રથમ ભાષામાં અનુવાદ કરો.",
+        "reason": "The six અનુવાદ sentences are a ઋતુ-and-month list printed only in the exercise; they belong to no scene of the story, so covered_by_topics is empty by construction, not because the cut missed a scene."
+      },
+      {
+        "exercise_id": "EX26",
+        "exercise_group": "નીચેનાં વાક્યોનો પ્રથમ ભાષામાં અનુવાદ કરો.",
+        "reason": "The six અનુવાદ sentences are a ઋતુ-and-month list printed only in the exercise; they belong to no scene of the story, so covered_by_topics is empty by construction, not because the cut missed a scene."
+      }
+    ],
+    "_note": "blocks_found lists all thirteen entries of 01_meta.json exercise_inventory, verbatim and in printed order; blocks_answered matches it entry for entry and unanswered is empty. Item counts per block (6, 7, 4, 1, 1, 1, 6, 4, 5, 1, 1, 1, 1) sum to 39, and exercises[] carries EX1–EX39 in printed order. EX{n} is this pipeline's consecutive counter; the book's own printed block numbers 1.–13. are recorded in each teacher_note. unmapped holds the eleven items whose text is printed only inside the exercise and belongs to no reading scene — the error-correction paragraph, the four tongue-twisters and the six અનુવાદ sentences. Nothing in that list signals a missed scene; it is reported, not repaired with an invented mapping."
+  }
+}

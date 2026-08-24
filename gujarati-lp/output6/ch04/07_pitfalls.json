@@ -1,0 +1,193 @@
+{
+  "agent": "07_genre_pitfalls",
+  "chapter_id": "gseb_eng_gujarati6_ch4",
+  "plan_id": "gseb_eng_gujarati6_ch4_v1",
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "No `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, `publication_text`, `figures_of_speech[].note`, any `concept_bullets`/`important_points` line or any `recall_questions[].prompt`/`.answer` of this topic contains a personal name in the role of the song's composer, or the words કવિએ / કવિની attached to such a name — including ત્રિભુવન વ્યાસ, whose name is printed only under the appended 'ગાઈએ' poem (M2.S4.T9). The chapter's author slot prints `- લોકગીત`; a named composer for `આવ્યો ધરતીનો ધણી મેહુલો રે !` is invention.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "This is the chapter's single ટેક topic and all four printed shorthands `આવ્યો...` are character-for-character identical (`01_meta.json` → `structure_inventory.tek_note`). No `explanation`, `concept_bullets` line, `important_points` line, `recall_questions[].prompt` or `recall_questions[].answer` here may contain બદલા / બદલાય / બદલાયા / બદલાયું / ફેરફાર / નવા શબ્દો in a sentence that also names ટેક or ધ્રુવપંક્તિ. The explanation says what `આવ્યો ધરતીનો ધણી મેહુલો રે !` means and why the whole class comes back to it, and stops there.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Every string left of the em-dash in this topic's `key_terms` occurs character-for-character inside `ઓતર ગાજ્યા ને દખ્ખણ વરસિયા રે ! / મેહુલે માંડ્યાં મંડાણ. / આવ્યો ધરતીનો ધણી મેહુલો રે !` — `ઓતર — ઉત્તર દિશા`, `દખ્ખણ — દક્ષિણ દિશા`, `મંડાણ — શરૂઆત`, `મેહુલો — વરસાદ`, never the reverse direction. No quoted run of three or more words in `explanation` replaces ઓતર/દખ્ખણ with ઉત્તર/દક્ષિણ or drops the `રે !`, and no field calls `રે !` extra, meaningless, filler or unnecessary — it is what holds the ઢાળ for a group singing together.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No field states as fact that the rain owns the earth or that ધરતી has a ધણી. Every `explanation`, `concept_bullets` line or `recall_questions[].answer` sentence touching `આવ્યો ધરતીનો ધણી મેહુલો રે !` keeps the song's own frame — 'ગીત વરસાદને ધરતીનો ધણી કહે છે' — and not the flat assertion 'વરસાદ ધરતીનો ધણી છે'.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'મેહુલો' ને છોકરાનું નામ (મેહુલ) સમજે છે, એટલે 'આવ્યો ધરતીનો ધણી મેહુલો રે !' એને કોઈ માણસ ગામમાં આવ્યાની વાત લાગે છે અને આખું ગીત વરસાદનું છે એ પકડાતું જ નથી; ઉપરથી 'ધણી' ને હિન્દીના 'धनी' જેવો — પૈસાદાર — સમજી લે છે.",
+      "correction": "પહેલા જ વાક્યમાં 'મેહુલો — વરસાદ' એમ ગ્લોસ કરો (છાપેલી શબ્દાર્થ-પેટી પણ એ જ કહે છે), પછી બતાવો કે ગીત વરસાદને માણસની જેમ સામે ઊભો રાખીને બોલાવે છે — તેથી એને 'ધરતીનો ધણી', એટલે ધરતીને સાચવનારો, કહ્યો છે. 'ઓતર — ઉત્તર દિશા', 'દખ્ખણ — દક્ષિણ દિશા', 'મંડાણ — શરૂઆત' પણ જ્યાં આવે ત્યાં જ ગ્લોસ કરો."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "`original_chunk` keeps `માછલી કરે હિલોળ, આવ્યો...` with the printed three-dot shorthand and never expands it into the full ટેક line; the expansion belongs in `explanation` only. This topic lists `M1.S1.T1` in `depends_on`, so its `explanation` may spend at most one clause on the singers coming back to the ટેક and must spend the rest on નદી - સરોવર and માછલી — no second teaching of what ધરતીનો ધણી means, and no `recall_questions[].prompt` asking what the ટેક changed.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "`key_terms` carry `છલી વળ્યાં — છલકાઈ ગયાં` and `હિલોળ — તરંગનો ઉછાળો, (અહીં) ગમ્મત` in that direction, matching the printed શબ્દાર્થ box; no quoted run of three or more words in `explanation` replaces છલી વળ્યાં with છલકાયાં inside `નદી - સરોવર છલી વળ્યાં રે`, and the printed spaced form `નદી - સરોવર` is reproduced as set.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'છલી વળ્યાં' ને 'ઢોળાઈ ગયું, ખાલી થઈ ગયું' સમજે છે, એટલે એને લાગે છે કે નદી-સરોવરમાં પાણી રહ્યું જ નહીં — સ્વાધ્યાયના ખરાં-ખોટાં ભાગનું છેલ્લું વિધાન બરાબર આ જ ભૂલ પકડવા મુકાયું છે.",
+      "correction": "'છલી વળ્યાં — કાંઠા સુધી ભરાઈને છલકાઈ ગયાં' એમ જ્યાં શબ્દ આવે ત્યાં જ ગ્લોસ કરો અને એક ટૂંકા વાક્યમાં કહો કે પાણી વધ્યું છે, ઘટ્યું નથી; પછી 'હિલોળ' ને પાણી વધતાં માછલી ઊછળીને ગમ્મત કરે એ ચિત્ર સાથે જ સમજાવો."
+    },
+    {
+      "topic_id": "M1.S1.T3",
+      "avoid_checks": [
+        {
+          "check": "`original_chunk` keeps ડેડકડી exactly as printed and `key_terms` carry `ડેડકડી — દેડકી` in that direction. No `explanation`, `concept_bullets` line, `important_points` line or `recall_questions[].answer` calls the form wrong, broken, mis-spelt or 'ખોટું', and no quoted run of three or more words substitutes દેડકી inside `ડેડકડી દિયે આશિષ, આવ્યો...`. The chapter's own numbered block on this word says the form creates માધુર્ય.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No field states as fact that the frog gives a blessing, or that its આશિષ brings or increases the rain. Every sentence touching `ડેડકડી દિયે આશિષ` keeps the song's frame — 'ગીત એના અવાજને આશિષ કહે છે' — with `આશિષ — આશીર્વાદ` glossed at point of use.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "`key_terms` here repeat `છલી વળ્યાં — છલકાઈ ગયાં` only if it is glossed again at point of use; the printed line is `ખાડા ખાબોચિયાં છલી વળ્યાં રે` and no `explanation` quotes it with ખાબોચિયાં replaced by ખાડા-ખાડિયાં or any standardised form. ખાબોચિયું is not in the printed શબ્દાર્થ box and still needs a point-of-use gloss for this reader.",
+          "profile": "lok_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક 'ડેડકડી' ને છાપભૂલ કે ખોટો શબ્દ ગણે છે — એને તો 'દેડકી' આવડે છે — એટલે મનમાં શબ્દ સુધારીને વાંચે છે, અને ગીતની આ મીઠી રીત એની નજરમાંથી નીકળી જાય છે.",
+      "correction": "'ડેડકડી — દેડકી' જ્યાં આવે ત્યાં જ ગ્લોસ કરો અને એક વાક્યમાં કહો કે ગાનારાં એને આમ જ ગાય છે, કેમ કે એમ બોલવામાં વધારે મીઠું લાગે છે; 'ગાય — ગાવલડી' જેવું બીજું ઉદાહરણ સાથે આપો જેથી બાળક એને ભૂલ નહીં પણ ગીતની રીત ગણે."
+    },
+    {
+      "topic_id": "M1.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets`/`important_points` line or any `recall_questions[].answer` is an exhortation of the shape 'આપણે … જોઈએ' / '…કરવું જોઈએ' — specifically no ખેડૂતના શ્રમનું ગૌરવ, મહેનતનું મૂલ્ય or અન્નદાતાનો આભાર closing. Those words occur nowhere in `ધોરીએ લીધાં ધુરી - ધોંસરી રે / ખેડુએ લીધી બેવડી રાશ, આવ્યો...`. Poster test: if this topic's last sentence would still read fine with the કડી deleted, it is wrong.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "`key_terms` carry `ધોરી — બળદ`, `ખેડુ — ખેડૂત`, `રાશ — બળદને બાંધવામાં આવતું રાંઢવું`, `બેવડી — બે છેડા ભેગા કરેલું` in that direction, matching the printed શબ્દાર્થ box; no quoted run of three or more words in `explanation` replaces ખેડુ with ખેડૂત inside `ખેડુએ લીધી બેવડી રાશ`. The માનક form stands only on the right of the gloss — which is exactly the direction the chapter's own standard-word→તળપદો-word block asks the child to work in.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "ધુરી, ધોંસરી અને બેવડી રાશ બાળકે કદી જોયાં નથી; એ ત્રણેય અજાણ્યા શબ્દો કૂદી જાય છે અને કડીમાંથી એને ફક્ત 'વરસાદ આવ્યો' એટલું જ પકડાય છે — ખેતરે ઊપડતાં ધોરી ને ખેડુનું ચિત્ર દેખાતું જ નથી.",
+      "correction": "દરેક વસ્તુ શું કામ કરે છે એ એક-એક ટૂંકા શબ્દસમૂહમાં જ્યાં આવે ત્યાં કહો — 'ધુરી-ધોંસરી — બળદની ડોકે મુકાતું લાકડું, જેથી હળ કે ગાડું જોડાય', 'રાશ — બળદને દોરવાનું દોરડું' — અને પાના પરના ચિત્રમાં છત્રી ઓઢીને બે ધોરી સાથે ખેતરે જતા ખેડુ તરફ આંગળી ચીંધો; સાથે એટલું જ ઉમેરો કે અહીં કામ પૂરું નથી થતું, હમણાં જ ઊપડે છે."
+    },
+    {
+      "topic_id": "M1.S2.T5",
+      "avoid_checks": [
+        {
+          "check": "No `explanation`, `real_life_example`, summary-family field, `concept_bullets`/`important_points` line or `recall_questions[].answer` states a rule about whose work looking after children is, and none ends on an 'આપણે … જોઈએ' clause about માતાનો પ્રેમ, ઘરની ફરજ or કુટુંબ. `ગાયે લીધાં ગાનાં વાછરું રે / અસતરીએ લીધાં નાનાં બાળ, આવ્યો...` is one more item in the song's list of who gathers what as the rain lands, in the same rhythm as ધોરી and ખેડુ — describe the picture, prescribe nothing.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "`original_chunk` keeps `ગાનાં` and `અસતરીએ` exactly as printed and `key_terms` carry `અસતરી — સ્ત્રી` in that direction; no field calls either form a misprint or replaces it inside a quoted run of the line. This is the last કડી, so the printed shorthand `આવ્યો...` stays unexpanded inside `original_chunk` here too.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'લીધાં' ને 'લઈને ચાલ્યાં ગયાં' સમજે છે, એટલે એને લાગે છે કે અસતરી બાળકોને લઈને ક્યાંક નીકળી પડી છે — સ્વાધ્યાયના ખરાં-ખોટાં ભાગમાં સ્ત્રીઓ બાળકોને ઘરે મૂકીને ખેતરે જવાનું વિધાન આ જ ગૂંચ પકડવા મુકાયું છે — અને યાદીની આખી ભાત, કે દરેક જણ પોતાનું પોતાની પાસે લે છે, ખૂટી જાય છે.",
+      "correction": "'લીધાં' ને 'પોતાની પાસે લીધાં' એમ ખોલો અને આગલી કડી સાથે સાંકળીને બતાવો — ધોરીએ લીધાં, ખેડુએ લીધી, ગાયે લીધાં, અસતરીએ લીધાં — મેહુલો આવતાં દરેક પોતાનું પોતાની પાસે લે છે; 'અસતરી — સ્ત્રી' અને 'વાછરું — ગાયનું બચ્ચું' જ્યાં આવે ત્યાં જ ગ્લોસ કરો."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` names something in this કડી that can be seen or heard, using a word that occurs in `આવ રે મેહુલા આવ, મેહુલા અષાઢના રે / ઘેરી ઘેરી વાદળી જળે ભરી રે / વરસી ઝરમર જાય.... મેહુલા.` — વાદળી, જળ, ઝરમર. A first sentence that opens on the ભાવ instead (વરસાદની રાહ, ઝંખના, આનંદ) is a fail.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No word naming a scientific mechanism — બાષ્પીભવન, જલચક્ર, ઘનીભવન, વરાળ, ભેજ — appears in `explanation`, `concept_bullets` or a `recall_questions[].answer`; none of them occurs in this chapter's text or in its printed શબ્દાર્થ box. `ઘેરી ઘેરી વાદળી જળે ભરી રે` is the picture of one heavy cloud, not a lesson on how clouds form.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "`original_chunk` reproduces the printed refrain shorthand `.... મેહુલા.` exactly as set, four dots and full stop included (`01_meta.json` → `structure_inventory.appended_gaie_poem` records that the page prints the later two shorthands without the full stop); expanding it into `આવ રે મેહુલા આવ, મેહુલા અષાઢના રે` inside `original_chunk` is a verbatim defect — that expansion belongs in `explanation`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'અષાઢ' ને કોઈ જગ્યા કે માણસનું નામ ગણે છે, એટલે 'મેહુલા અષાઢના રે' એને 'અષાઢ ગામનો મેહુલ' જેવું લાગે છે અને કવિતા કઈ ઋતુને સાદ પાડે છે એ વાત જ હાથમાંથી જાય છે.",
+      "correction": "પહેલી જ વાર 'અષાઢ — ચોમાસાનો પહેલો મહિનો' એમ ગ્લોસ કરો અને એક વાક્યમાં કહો કે કવિતા વરસાદને એના પોતાના મહિનાના નામથી બોલાવે છે; 'ઝરમર — ધીમે ધીમે વરસવું' પણ ત્યાં જ ખોલો, અને શાળા શરૂ થાય એ દિવસોના પહેલા વરસાદ સાથે સાંકળો."
+    },
+    {
+      "topic_id": "M2.S3.T7",
+      "avoid_checks": [
+        {
+          "check": "This topic carries either a non-empty `figures_of_speech[]` or an `explanation` sentence naming the repeated sound of `ઝબઝબ` and `ધમધમ` — in std-6 words (અવાજ-શબ્દ, બેવડાતો શબ્દ, પુનરાવર્તન), never an અલંકાર or છંદ label, which std 6 has not opened. A topic with `[]` and no sound sentence is half-taught, and this કડી is made of nothing else.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation` or `recall_questions[].answer` sentence explains વીજળી as electricity or gives its cause — વીજપ્રવાહ, વિદ્યુત, વીજભાર, વાદળોનું ઘર્ષણ occur nowhere in this chapter's text or its શબ્દાર્થ box. `ઝબકે ઝબઝબ વીજળી રે / વાદળ ધમધમ થાય` is the flash and the noise of the sky before rain.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Every `figures_of_speech[].lines` string appears character-for-character inside this topic's `original_chunk`; `[]` together with a sentence on ઝબઝબ/ધમધમ is a complete and correct answer.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'ઝબઝબ' ને 'ધમધમ' ને અર્થ વગરના, કૂદી જવાના શબ્દો ગણે છે — શબ્દકોશમાં શોધ્યે મળે એવા લાગતા નથી — અને પછી કડીમાં એને કશું બચતું જ નથી, જ્યારે આખી કડી છે જ આ બે અવાજોની.",
+      "correction": "બંને શબ્દોને ચિત્ર-અવાજ તરીકે ખોલો — 'ઝબઝબ — વારેવારે થતો ઝબકારો', 'ધમધમ — ગડગડાટ' — અને બાળક પાસે એ મોટેથી બોલાવડાવો; એક વાક્યમાં કહો કે આ શબ્દો બોલતાં જ વરસાદ પહેલાંનું આકાશ સંભળાય છે, એટલે એ કડીની શોભા નહીં, કડીની વાત છે."
+    },
+    {
+      "topic_id": "M2.S4.T8",
+      "avoid_checks": [
+        {
+          "check": "No field states as fact that the earth drowns, or that a flood comes: `ધરતી ડૂબ ડૂબ થાય` is the poem's image for water everywhere, and every `explanation` or `recall_questions[].answer` sentence about it keeps that frame. No flood danger, damage or safety advice that the poem does not print enters any field.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No mechanism word — જલચક્ર, બાષ્પીભવન, પૂરનિયંત્રણ, જળસંચય — appears in `explanation`, `concept_bullets` or a `recall_questions[].answer`; `નદીએ પાણી રેલશે રે` is the picture of a river filling and running over, not a lesson on rivers.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'રેલશે' ને 'રેલાયું, વહી ગયું' એમ થઈ ગયેલી વાત તરીકે વાંચે છે, એટલે એને લાગે છે કે વરસાદ પડી ચૂક્યો છે; ખરેખર કવિતા હજી મેહુલાને બોલાવે છે અને 'તું આવીશ તો શું શું થશે' એ કહે છે.",
+      "correction": "'રેલશે — વહેશે, હજી થવાનું છે' એમ ખોલો અને પહેલી કડીના 'આવ રે મેહુલા આવ' સાથે જોડીને એક વાક્યમાં કહો કે આખી કવિતા વરસાદને બોલાવવાની છે; 'ડૂબ ડૂબ થાય' ને ચારેકોર પાણી પાણી થઈ જવાના ચિત્ર તરીકે જ રાખો."
+    },
+    {
+      "topic_id": "M2.S4.T9",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets`/`important_points` line or any `recall_questions[].answer` is an exhortation of the shape 'આપણે … જોઈએ' — no ખેડૂતનો આભાર માનવો જોઈએ, no અન્નનું મૂલ્ય સમજવું જોઈએ, no મહેનત કરવી જોઈએ. This is the chapter's closing topic and the pull is strongest here; those words occur nowhere in `ખેડૂત ખેતર ખેડશે રે / કપાસ ને કણ થાય.... મેહુલા`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "`- ત્રિભુવન વ્યાસ` is printed under this poem alone. No field of this topic attaches that name to `આવ્યો મેહુલો`, to the word લોકગીત, or to the line `આવ્યો ધરતીનો ધણી મેહુલો રે !`, and no field of any M1 topic names him at all — the લોકગીતનો author slot prints `- લોકગીત`.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'કપાસ ને કણ' માં બાળક 'ને' ને હિન્દીના 'को' જેવો જોડનારો નહીં પણ કર્મ બતાવનારો શબ્દ સમજે છે અને 'કણ' ને ધૂળનો ઝીણો કણ ગણે છે, એટલે ખેતર શું આપશે એ આખી વાત પંક્તિમાંથી નીકળી જાય છે.",
+      "correction": "એક જ વાક્યમાં ખોલો કે અહીં 'ને' એટલે 'અને' અને 'કણ' એટલે અનાજનો દાણો, તેથી પંક્તિ ખેતરમાં થનારી બે વસ્તુ — કપાસ અને અનાજ — ગણાવે છે; 'ખેડશે — હળ ચલાવીને જમીન તૈયાર કરશે' પણ ત્યાં જ ગ્લોસ કરો."
+    }
+  ],
+  "chapter_level": [
+    "Mixed chapter, and the two parts blur because both are about rain and both use the word મેહુલો. M1.* topics are the unsigned લોકગીત (profile `lok_geet`); M2.* topics are the separate poem 'મેહુલો' by ત્રિભુવન વ્યાસ printed in the yellow 'ગાઈએ' box (profile `urmikavya_geet`). No field of an M1 topic may quote a line, key term, figure or rhyme from the M2 poem, and no field of an M2 topic may quote the લોકગીતની ટેક `આવ્યો ધરતીનો ધણી મેહુલો રે !` or the entries of the લોકગીતની printed શબ્દાર્થ box. Each profile's avoid list binds its own part only.",
+    "`મેહુલો` is this chapter's biggest second-language trap: it reads as the boy's name મેહુલ, and the appended poem's vocative `મેહુલા` reads as that name being called. Every topic that uses the word in a teaching field carries the gloss `મેહુલો — વરસાદ` at its first use in that topic, in both parts.",
+    "The chapter prints its own શબ્દાર્થ box — ઓતર, દખ્ખણ, મંડાણ, મેહુલો, છલી વળ્યાં, હિલોળ, ડેડકડી, ધોરી, આશિષ, ખેડુ, બેવડી, રાશ, અસતરી — and corrects none of them; the printed તળપદો form always stands to the left of the em-dash in `key_terms`, the માનક word only to the right. That box is the editor's floor, not this reader's: અષાઢ, ધુરી-ધોંસરી, ખાબોચિયું, વાછરું, ઝરમર, કપાસ, કણ stop an L2 std-6 child just as hard and are glossed at point of use.",
+    "The sentence `આપણે કૃષકના શ્રમનું ગૌરવ કરવું જોઈએ.` is printed inside a numbered સ્વાધ્યાય block as substitution-drill material. It is not a line of either poem: it belongs to Agent 10's exercise answer, and neither it nor any near-variant may surface in a teaching field of any topic.",
+    "The chapter is apparatus-heavy — a teacher-addressed blue intro box and a chapter-final green વિશેષણ box. Their sentences ('લોકગીતના કોઈ કવિ હોતા નથી.', 'વરસાદને યોગ્ય રીતે જ ધરતીનો ધણી કહી…') are evidence for the plan, not child-facing text to lift; a std-6 reader's standing error is to answer from the intro box instead of from the કડી, so every explanation starts from what the printed lines show.",
+    "No numbers in display text anywhere in this chapter's teaching fields: 'પ્રારંભની ત્રિપદીમાં', 'બીજી કડીમાં', 'સ્વાધ્યાયનો પહેલો ભાગ' — never 'કડી 2' or 'સ્વાધ્યાય 13'. Numbers survive only in ids and provenance fields."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "media": [
+    {
+      "topic_id": "M1.S1.T1",
+      "concept_id": "M1.S1.T1.C1",
+      "id": "M1.S1.T1.C1.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "મેળામાં થતો મેળાપ",
+      "description": "ગામના ખુલ્લા મેદાનમાં ભરાયેલા મેળામાં ઘણાબધા લોકો એકઠા થયા છે ને વચ્ચે બે સ્ત્રીઓ મળીને ભેટી પડે છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M1.S1.T1.C1",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "ચિત્ર બને ત્યાં સુધી બાળકોને પૂછો — ‘આ ચિત્રમાં કેટલા લોકો ભેગા થયા છે?’ ને પછી વચ્ચેની બે સ્ત્રીઓ પર આંગળી મૂકીને પૂછો, ‘આ બે જણ શું કરે છે?’ આમ ‘મેળો’ના બંને અર્થ — મેળાપ કે ભેટો, અને ઘણા માણસનું એકઠા થવું — એક જ ચિત્રમાંથી કઢાવો. ‘ભેટો’ એટલે ભેટ-સોગાદ નહિ, મળી જવું એ અહીં જ સાફ કરી દો. કોઈ મેળાનું નામ પાડવું નહિ; પાઠ અહીં એકેય મેળાનું નામ છાપતો નથી.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, tourism brochure poster, festival advertisement banner, signboards or hoardings of any kind, giant ferris wheel or carnival rides, food stalls, toy stalls, temple procession, idol or deity imagery, heavy mirror-work costume display, moral caption or slogan lettering, numerals or digits anywhere in the picture",
+      "generation_prompt": "A large village fair on open ground in Gujarat on a bright afternoon in the dry season. The ground is bare packed brown earth with a big neem tree at one edge and low wooded hills far behind. A dense, cheerful crowd of village families of every age spreads across the ground — grandparents walking slowly, parents carrying cloth bundles, teenagers in groups, a small child riding on his father's shoulders. In the foreground, in the middle of that crowd, two village women have just met: one has arrived with a cloth bundle balanced on her head and is lowering it, the other has caught both her hands, and they lean into a warm embrace, laughing, while a boy of about ten tugs at one woman's sleeve. At the far edge of the ground a red-and-white state transport bus has halted on the dirt road and passengers are stepping down with bundles; two bullock carts and one small three-wheeler goods carrier stand parked under the tree; the curved clay-tile roofs of a village show beyond them. Everyday rural Gujarati clothes, worn and simple: the women in printed chaniyo-choli with a plain cotton odhani drawn over the head, the men in white shirts and dhotis with coloured cloths tied round their heads; no ornate mirror-work costume, no stalls, no rides, no signboards anywhere. Warm dusty light, happy noise. Across the bottom of the picture runs a narrow illustrated narrator bar carrying one line of hand-lettered Gujarati text, in Gujarati script, reading exactly: મેળો એટલે મેળાપ અથવા ભેટો — this is the only text anywhere in the image. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M1.S3.T4",
+      "concept_id": "M1.S3.T4.C4",
+      "id": "M1.S3.T4.C4.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "કન્યાઓનું વર્તુળ ને થાંભલે ચડતો જુવાન",
+      "description": "થાંભલાની આજુબાજુ કન્યાઓ વાંસની પટ્ટીઓ લઈને ઢોલને તાલે ગોળ ફરતાં ગીત ગાય છે ને વચમાં થઈને પહોંચેલો જુવાન થાંભલે ચડવા મથે છે.",
+      "teaching_notes": "ચિત્ર બને ત્યાં સુધી બોર્ડ પર થાંભલો દોરીને આજુબાજુ કૂંડાળું દોરો ને પૂછો — ‘કન્યાઓના હાથમાં શું છે? ઢોલ ક્યાં વાગે છે? જુવાન ક્યાં ઊભો છે?’ સોટીનો માર બતાવતી વખતે એ જ વાક્યમાં ઢોલ, ગીત ને નૃત્ય પણ સાથે રાખો, જેથી બાળક આને મેળાની રમત સમજે, ઝઘડો નહિ. પાઠના જ શબ્દો — કુંવારી કન્યાઓ, વાંસની પટ્ટીઓ, સોટીઓ, જુવાનિયા — વાપરો; ‘લાકડી’ કે ‘છોકરીઓ’ મૂકી દેવું નહિ.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M1.S3.T4.C4",
+      "objective_id": null,
+      "image_category": "illustration",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, angry or violent brawl, weapons, blood or injury, exoticised or costume-display tribal dress, tourism brochure poster, museum diorama, moral caption or slogan lettering, numerals or digits anywhere in the picture",
+      "generation_prompt": "A village fair on a wide dusty public ground in eastern Gujarat on a hot bright afternoon a few days after Holi. In the middle of the ground stands a tall straight wooden pole, about twenty-five feet high, planted upright in the earth; short cross-pieces of wood are driven through holes bored in it at intervals, like pegs a person can stand on, and a small cloth bundle of jaggery is tied right at the top. Around the pole a wide ring of unmarried young village women dances in a circle, each holding a long thin strip of split bamboo, mouths open in song, stepping to the beat of two men playing dhol drums slung at their waists just outside the ring. A lean teenage boy in a plain white vest and a knee-length dhoti with a red cloth tied at his waist has slipped between two of the dancers and reached the pole: both arms wrapped round it, one bare foot up on a peg, his body pulling upward. Two of the young women lean in and reach across with their bamboo strips to tap him back, and everyone in the ring is laughing — this is the game of the fair, not a fight: no anger, no weapons, no injury. Behind them a large crowd of villagers watches and claps. Dry brown ground, dust rising round the dancers' feet, a flame-of-the-forest tree in orange bloom at one edge, low forested hills on the horizon. Everyday festive rural clothes: the young women in printed chaniyo-choli with a plain cotton odhani knotted at the waist so it does not swing, the watching men in white shirts, dhotis and coloured head-cloths. Across the bottom of the picture runs a narrow illustrated narrator bar carrying one line of hand-lettered Gujarati text, in Gujarati script, reading exactly: થાંભલાની આજુબાજુ કન્યાઓનું નૃત્ય, ને થાંભલે ચડવા મથતા જુવાનિયા — this is the only text anywhere in the image. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "concept_id": "M2.S4.T7.C7",
+      "id": "M2.S4.T7.C7.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "થાંભલાની ટોચે ફરકતી ધજા",
+      "description": "કેટલાંક સ્થળે ગોળની પોટલીને બદલે મુકાતી ધજા સુધી પહોંચેલો જુવાન ટોચના ફટકા પર ઊભો રહીને ધજા ફરકાવે છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S4.T7.C7",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "ચિત્ર બને ત્યાં સુધી પૂછો — ‘ટોચે ગોળની પોટલી નથી, તો શું છે?’ પાઠનું વાક્ય ‘કેટલાંક સ્થળે … ધજા મૂકવામાં આવે છે’ વાંચી સંભળાવો ને ‘ધજા’ શબ્દ પાઠના રૂપમાં જ રાખો, ‘ઝંડો’ કે ‘ધ્વજ’ નહિ. ધજા ફરકાવનારની વાત નીકળે ત્યારે ‘એક જમાનામાં’ ને ‘પરણી શકતો’ એ બંને ભૂતકાળનાં નિશાન બતાવો ને એ જ શ્વાસે પાઠનું પોતાનું વાક્ય ઉમેરો — ‘પરંતુ હવે મેળાનો હેતુ કન્યા પસંદગીનો રહ્યો નથી.’ ચિત્રમાં લગ્ન કે વરકન્યાનું કોઈ દૃશ્ય નથી, ને હોવું પણ ન જોઈએ.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, wedding ceremony, bride and groom, garland exchange, couple posing together, religious flag on a temple spire, idol or deity imagery, patriotic national flag, victory-trophy or medal imagery, exoticised costume display, moral caption or slogan lettering, numerals or digits anywhere in the picture",
+      "generation_prompt": "Seen from below, looking up at the top of a very tall wooden pole standing in the middle of a village fair ground in eastern Gujarat, against a bright pale afternoon sky. A small triangular cloth flag in red and saffron is tied at the very top of the pole and snaps in the wind. A lean teenage boy in a plain white vest and a knee-length dhoti with a red cloth tied at his waist has climbed all the way up: one arm hooked round the pole, both bare feet braced on the short wooden cross-peg driven through it, his free hand stretched above him gripping the flag's short staff, his face grinning and out of breath, hair and the loose end of the waist cloth blowing sideways. Far below him and small in the frame, a ring of young women holding thin split-bamboo strips still circles the foot of the pole, two men play dhol drums at the edge of the ring, and a crowd of villagers looks up with raised hands and open mouths. Dry brown open ground, dust in the air, a flame-of-the-forest tree in orange bloom at one edge, low forested hills far behind. Everyday festive rural clothes, plain and worn; no ceremony of any kind is taking place — one boy at the top, a flag, and a watching crowd, nothing else. Across the bottom of the picture runs a narrow illustrated narrator bar carrying one line of hand-lettered Gujarati text, in Gujarati script, reading exactly: કેટલાંક સ્થળે ગોળની પોટલીને બદલે ધજા મૂકવામાં આવે છે — this is the only text anywhere in the image. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M2.S5.T8",
+      "concept_id": "M2.S5.T8.C9",
+      "id": "M2.S5.T8.C9.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "મેળામાં ભરાયેલી હાટ",
+      "description": "મેદાનની કોરે ભરાયેલી હાટમાં કપડાં, આભૂષણો ને ઘરવખરીની વસ્તુઓ પાથરેલી છે ને લોકો ખરીદી કરે છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S5.T8.C9",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "ચિત્ર બને ત્યાં સુધી બાળકોને પાઠમાંથી જ ત્રણ વસ્તુ શોધવા કહો — કપડાં, આભૂષણો ને ઘરવખરીની વસ્તુઓ — ને ‘હાટ એટલે શું?’ પુછાવો; જવાબ પાના પરથી જ આવે, ચકડોળ કે ખાવાની વસ્તુઓ ઉમેરાય નહિ. પછી પાઠનું વાક્ય ટાંકીને ‘હજી … પ્રથા જાળવી રાખી છે’ પર ભાર મૂકો — આ આજેય ભરાતો મેળો છે, ભૂતકાળની વાત નહિ — ને સમાજનું નામ પાઠ પ્રમાણે ‘આદિવાસી પ્રજા’ જ રાખો.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, ferris wheel or carnival rides, food stalls, sweets or fried snacks, toy stalls, balloons, shop signboards or price boards, tourism brochure poster, exoticised costume display, poverty-tourism framing, moral caption or slogan lettering, numerals or digits anywhere in the picture",
+      "generation_prompt": "A row of open-air market stalls along the edge of a village fair ground in eastern Gujarat, late on a hot dry afternoon. The stalls are simple: cloth awnings stretched over split-bamboo poles, and goods spread out on sheets on the ground. On the first sheet, folded printed cloth and stacked new clothes in stripes and small floral prints. On the second, ornaments laid out on a red cloth — white-metal bangles, anklets, hair ornaments and neck pieces. On the third, household goods: brass and steel pots, round earthen water pots, cane baskets, brooms, coils of rope, a hand balance with brass pans. A village woman holds up a length of cloth to the light to look through it while an older woman beside her feels the edge between her fingers; a seller sits cross-legged behind his sheet, weighing something on the hand balance; a small girl stands holding her mother's finger and staring at the bangles. Behind and beyond the stalls, small in the distance, the tall wooden pole of the fair rises out of a crowd. Everyday rural Gujarati clothes, plain and worn: chaniyo-choli with a cotton odhani for the women, white shirts, dhotis and coloured head-cloths for the men. Dusty golden light, long shadows, low forested hills on the horizon. No food, no toys, no rides and no signboards anywhere in the picture. Across the bottom of the picture runs a narrow illustrated narrator bar carrying one line of hand-lettered Gujarati text, in Gujarati script, reading exactly: મેળામાં હાટ પણ ભરાય છે — this is the only text anywhere in the image. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    }
+  ],
+  "2d_tool": {
+    "topic_id": "M1.S2.T3",
+    "spec": "A single drag-and-drop stage-builder for the ગોળ-ગધેડાનો મેળો, built ONLY from stages this chapter prints, in the printed order. The screen shows an empty brown fair ground with a bar of six shuffled Gujarati stage cards below it: ‘મેદાનની વચ્ચોવચ લાકડાનો થાંભલો રોપાય છે.’ / ‘થાંભલા પર વીંધ પાડીને આડા લાકડાના ફટકા બેસાડાય છે.’ / ‘ટોચ પર ગોળની પોટલી લટકાવવામાં આવે છે.’ / ‘થાંભલાની આજુબાજુ કન્યાઓ વાંસની પટ્ટીઓ લઈને ઢોલને તાલે નૃત્ય કરે છે.’ / ‘જુવાનિયા વચમાં થઈને થાંભલે ચડવા મથે છે ને કન્યાઓ સોટીઓથી અટકાવવા મથે છે.’ / ‘ચપળ જુવાન ટોચે પહોંચીને ગોળની પોટલી હાંસલ કરે છે ને ગોળ ઉડાડે છે.’ WHAT THE CHILD MANIPULATES: they drag one card at a time onto the ground. WHAT CHANGES: each correctly placed card draws its own stage into the picture and the picture cannot show a later stage before an earlier one — drop the climbing card before the ફટકા card and the boy slides straight back down a smooth pole, and the tool answers with the chapter's own sentence ‘તેના પર વીંધ પાડી માણસ ઊભો રહી શકે તેવા ચાર પાંચ ફૂટના આડા લાકડાના ફટકા બેસાડવામાં આવે છે.’; drop the ગોળ-hansal card before the પોટલી card and the pole top is bare, answered with ‘થાંભલાની ટોચ પર ગોળની પોટલી લટકાવવામાં આવે છે.’ SECOND CONTROL: once all six are placed, a ‘ફરી એક વાર’ button replays the climb — the chapter's ‘આ ક્રિયા અવિરત ચાલુ રહે છે’ — and on the replay the top of the pole is empty, the late climber comes down without ગોળ, and the tool shows the chapter's line ‘પાછળથી થાંભલે ચઢનાર ગોળ વિનાનો યુવાન ગધેડા જેવો પુરવાર થાય છે.’ so the child discovers the fair's name from the sequence rather than being told it. Every label, sentence and button is Gujarati script only; no digits appear in any label the child sees; no score, no timer, no marks, and no bride-choice element anywhere in the tool. Wrong drops are never scored as failure — the tool simply shows what the missing stage would have supplied."
+  },
+  "reuse_report": {
+    "scenes": 4,
+    "reused": 0,
+    "authored": 4,
+    "rejected": []
+  }
+}

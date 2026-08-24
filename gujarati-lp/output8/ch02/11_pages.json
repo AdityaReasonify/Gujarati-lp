@@ -1,0 +1,8 @@
+{
+ "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 8",
+ "textbook_url": "../Textbooks-pdf/std-8/ch-02-tyagvir-dadhichi.pdf",
+ "textbook_pages": "7–14",
+ "source": "printed folio, read off renders of pdf pp. 1 and 8 of the chapter PDF (page-1.png shows folio 7, page-8.png shows folio 14); cross-checked against std-8 manifest.json row (printed_start 7, pdf_start 19, pdf_end 26 = 8 pages) and against 01_meta.json extraction_notes, which independently recorded the same run of folios 7–14",
+ "confidence": "medium",
+ "gaps": ["textbook_url is a local path — the GSEB readers have no hosted URL", "textbook title is carried from 01_meta.json's chapter/genre context as the standard series title, not read off a std-8 cover — profiles/boards/gseb_gujarati.md states the std-8 cover has not been read yet, so the exact printed cover wording is unconfirmed"]
+}

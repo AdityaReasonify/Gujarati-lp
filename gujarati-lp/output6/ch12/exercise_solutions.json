@@ -1,0 +1,870 @@
+{
+  "_comment": "The SECOND deliverable for ધોરણ 6 · એકમ 12 · અજબગજબનો મેળો. Every સ્વાધ્યાય block inventoried in 01_meta.json is answered here and NOWHERE else — સ્વાધ્યાય is never a teaching topic. GSEB PDFs are image-only: every prompt_verbatim below was copied from 00_chapter_normalized.md and then re-read line by line against the rendered pages (_renders/page-2.png … page-6.png, printed folios 80–84). Std 6 prints no 'સ્વાધ્યાય' banner: the seventeen numbered pink headings under the શબ્દાર્થ box ARE the blocks. EX{n} is our consecutive counter in printed order; the book's own block number is recorded in teacher_note.",
+
+  "plan_id": "gseb_eng_gujarati6_ch12_v1",
+  "chapter_id": "gseb_eng_gujarati6_ch12",
+  "subject": "Gujarati",
+  "grade": 6,
+  "chapter_name": "અજબગજબનો મેળો",
+
+  "exercises": [
+    {
+      "exercise_id": "EX1",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "આ મેળામાં તમને શું ગમ્યું ? કેમ ?",
+      "answer": "(એક શક્ય જવાબ) મને આ મેળામાં થાંભલે ચઢવાની હોડ સૌથી વધુ ગમી. મેદાનની વચ્ચોવચ ઊંચો લાકડાનો થાંભલો રોપાય છે, એની ટોચે ગોળની પોટલી બાંધેલી હોય છે, ને એ પોટલી સુધી પહોંચવા જુવાનિયા મથે છે. મને એ ગમ્યું કારણ કે એમાં ચપળતા પણ જોઈએ ને હિંમત પણ જોઈએ.",
+      "explanation": "જવાબ પોતાની પસંદનો છે, પણ પસંદ પાઠમાં જે છપાયું છે તેમાંથી જ લેવાની છે — થાંભલો, ટોચે બાંધેલી ગોળની પોટલી, ઢોલને તાલે ગાતી-નાચતી કન્યાઓ, હાટ. બાળક જે વસ્તુ પસંદ કરે તેની સાથે 'કેમ ?'નો જવાબ પાઠની લીટીમાંથી બતાવવો.",
+      "acceptable_alternatives": [
+        "મને કન્યાઓનું વર્તુળાકાર નૃત્ય ગમ્યું, કારણ કે એ ઢોલને તાલે ગીતો ગાતી ગાતી નાચે છે.",
+        "મને હાટ ગમી, કારણ કે એમાં કપડાં, આભૂષણો ને ઘરવખરીની વસ્તુઓ મળે છે.",
+        "મને મેળાનું નામ ગમ્યું, કારણ કે એ નામ પાછળનું કારણ સાંભળીને હસવું આવે છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, prompt 1. Oral block — take answers around the class before anything is written. Every answer must be tied back to a printed line, otherwise the child answers from the blue intro box instead of the chapter. Safety: keep the talk on watching and describing the contest; do not let it turn into 'let us try climbing / hitting' (08_sensitivity.json, M1.S3.T4–T5, hard).",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S2.T3", "M1.S3.T4", "M1.S3.T5"]
+    },
+    {
+      "exercise_id": "EX2",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને આ મેળામાં જવાનું ગમે ? કેમ ?",
+      "answer": "(એક શક્ય જવાબ) હા, મને આ મેળામાં જવાનું ગમે. આજુબાજુનાં ગામડાંમાંથી હજારો સ્ત્રી-પુરુષો ઢોલ વગાડતાં અને નાચતાં-ગાતાં આવે છે, થાંભલે ચઢવાની હોડ ચાલે છે ને હાટ પણ ભરાય છે — એ બધું નજરે જોવાની મજા આવે.",
+      "explanation": "પાઠ પોતે જ છેલ્લે કહે છે કે 'કો'કવાર સમય કાઢીને આવા લોકમેળા માણવા જોઈએ.' જવાબમાં એ જ વાત બાળકના પોતાના શબ્દોમાં આવે. 'ના' કહેનાર બાળક પણ ખોટું નથી — એણે માત્ર કારણ કહેવાનું છે.",
+      "acceptable_alternatives": [
+        "ના, મને બહુ ભીડ ન ગમે, પણ મેળા વિશે વાંચવાનું ને જોવાનું ગમે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, prompt 2. Accept a 'ના' answer with a reason as fully correct; the block is oral fluency, not agreement.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S2.T2", "M2.S5.T9"]
+    },
+    {
+      "exercise_id": "EX3",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને કોની સાથે મેળામાં જવું ગમે ?",
+      "answer": "(એક શક્ય જવાબ) મને મારા ઘરના સૌની સાથે — બા, બાપા, દાદા ને નાની બહેન સાથે — મેળામાં જવું ગમે. સાથે મારા બે-ત્રણ ભાઈબંધ પણ હોય તો વધારે મજા આવે.",
+      "explanation": "આ સાવ અંગત જવાબ છે. પાઠમાં લખ્યું છે કે મેળામાં 'ઘણા માણસનું એકઠા થવું' થાય છે ને આજુબાજુનાં ગામડાંમાંથી લોકો સાથે મળીને આવે છે — એટલે 'સાથે જવું' એ મેળાનો સ્વભાવ છે, એ વાત જવાબમાં ઊતરે તો સારું.",
+      "acceptable_alternatives": [
+        "મને મારા મિત્રો સાથે જવું ગમે.",
+        "મને દાદા-દાદી સાથે જવું ગમે, કારણ કે એ મને જૂની વાતો કહે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, prompt 3. Purely personal; one sentence is enough. Use it to practise the postposition 'સાથે'.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S1.T1"]
+    },
+    {
+      "exercise_id": "EX4",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને મેળામાં શું શું ગમે ?",
+      "answer": "(એક શક્ય જવાબ) મને મેળામાં ઢોલનો અવાજ ગમે, નાચતાં-ગાતાં આવતાં લોકો ગમે, ચકડોળ ગમે અને હાટમાં ગોઠવેલી વસ્તુઓ જોવાની ગમે.",
+      "explanation": "'શું શું' પૂછ્યું છે એટલે એકથી વધારે વસ્તુ ગણાવવાની છે. પાઠમાંથી ઢોલ, નાચતાં-ગાતાં લોકો, થાંભલાની હોડ, હાટ, કપડાં, આભૂષણો ને ઘરવખરી — આટલું સીધું મળે છે; ચકડોળ સ્વાધ્યાયના જ એક વાક્યમાં છપાયું છે.",
+      "acceptable_alternatives": [
+        "મને થાંભલે ચઢવાની હોડ જોવાની ને ગોળના ગાંગડા ઊડતા જોવાનું ગમે.",
+        "મને હાટમાં ફરવાનું ને ખાવાનું ગમે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, prompt 4. Push for a list, not one word — this prompt is where the chapter's practice-words (ઢોલ, હાટ, પોટલી, થાંભલો) come back into the child's own speech.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S2.T2", "M2.S5.T8"]
+    },
+    {
+      "exercise_id": "EX5",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને મેળામાંથી શું ખરીદવું ગમે ? કેમ ?",
+      "answer": "(એક શક્ય જવાબ) મને મેળાની હાટમાંથી ઘરવખરીની કોઈ વસ્તુ ખરીદવી ગમે — જેમ કે નાની ટોપલી કે માટીનું વાસણ. કારણ કે એ ઘરમાં રોજ કામ આવે ને મેળાની યાદ પણ રહે.",
+      "explanation": "પાઠ કહે છે કે મેળામાં હાટ ભરાય છે, 'જેમાં કપડાં, આભૂષણો ઉપરાંત ઘરવખરીની વસ્તુઓ પણ મળે છે.' એટલે ખરીદીની યાદી પાઠમાંથી જ મળે છે; 'કેમ ?'નો જવાબ બાળકનો પોતાનો રહે.",
+      "acceptable_alternatives": [
+        "મને કપડાં ખરીદવાં ગમે, કારણ કે મેળામાં જુદી જુદી ભાતનાં કપડાં મળે છે.",
+        "મને આભૂષણ — ઘરેણું — જોવું ને ખરીદવું ગમે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, prompt 5. Gloss ઘરવખરી — ઘરને લગતો સરસામાન and આભૂષણ — ઘરેણું from the chapter's own શબ્દાર્થ box while the answers are being taken.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M2.S5.T8"]
+    },
+    {
+      "exercise_id": "EX6",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમે છેલ્લે ક્યા મેળામાં ગયા હતા ?",
+      "answer": "(એક શક્ય જવાબ) હું છેલ્લે અમારા ગામમાં ભરાતા મેળામાં ગયો હતો. ત્યાં ઢોલ વાગતાં હતાં, ચકડોળ ફરતું હતું ને હાટમાં બહુ બધી વસ્તુઓ વેચાતી હતી.",
+      "explanation": "આ જવાબ દરેક બાળકનો જુદો હશે — એ જ આ પ્રશ્નનો હેતુ છે. પાઠ કહે છે કે 'ગુજરાતના જુદાજુદા પ્રદેશોમાં વાર-તહેવારે મેળા ભરાય છે', એટલે બાળક પોતાના પ્રદેશના મેળાનું નામ કહે ત્યાં જ પાઠની આ લીટી સાચી પડતી બતાવવી.",
+      "acceptable_alternatives": [
+        "હું કોઈ મેળામાં ગયો નથી, પણ ઘરના લોકો પાસેથી અમારા વિસ્તારના મેળાની વાત સાંભળી છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, prompt 6. Let children name the fair their own town or village keeps; do NOT supply a list of famous Gujarat fairs — the chapter names only the જેસાવાડા મેળો, and adding others is an added fact (07_pitfalls.json, M1.S1.T1, hard).",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S1.T1"]
+    },
+    {
+      "exercise_id": "EX7",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "એ મેળાનું શું મહત્ત્વ છે ?",
+      "answer": "(એક શક્ય જવાબ) અમારા મેળામાં આજુબાજુનાં ગામનાં લોકો એક જગ્યાએ ભેગાં થાય છે, સાથે આનંદ કરે છે અને પોતાની જૂની રીતરસમ સાચવે છે. પાઠ કહે છે તેમ, આવા મેળા દ્વારા લોકો પોતાની સંસ્કૃતિની ઓળખ જાળવી રાખે છે — એ જ મેળાનું સૌથી મોટું મહત્ત્વ છે.",
+      "explanation": "પાઠનું પોતાનું વાક્ય છે : 'આદિવાસી પ્રજાએ હજી પોતાની સંસ્કૃતિની ઓળખ તરીકે આવા મેળાઓની પ્રથા જાળવી રાખી છે એ ગૌરવની વાત છે.' મહત્ત્વનો જવાબ ત્યાંથી નીકળે છે — લોકોનું એકઠા થવું, આનંદ ને પોતાની ઓળખ સાચવવી.",
+      "acceptable_alternatives": [
+        "મેળામાં ઘણા લોકો એકઠા થાય છે ને એકબીજાને મળે છે — એ જ મેળાનું મહત્ત્વ છે.",
+        "મેળાથી ગામની હાટ ચાલે છે ને લોકોને જરૂરી વસ્તુઓ મળે છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, prompt 7. Keep the register the chapter sets — ગૌરવની વાત. A community's fair is its own identity, never a curiosity (global_content_rules.md §10).",
+      "is_model_answer": true,
+      "covered_by_topics": ["M2.S5.T8", "M2.S5.T9"]
+    },
+    {
+      "exercise_id": "EX8",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "ઉપરના પ્રશ્નોની ચર્ચા પછી આ એકમ સંબંધિત આવા બીજા પ્રશ્નો તમારા મનમાં ઊભા થશે. તેની ચર્ચા વર્ગખંડમાં કરો.",
+      "answer": "(એક શક્ય જવાબ — બાળકોના મનમાં ઊભા થાય એવા પ્રશ્નો) થાંભલો કેટલો ઊંચો હોય ? એની ટોચે પોટલી કોણ બાંધતું હશે ? કન્યાઓ હાથમાં શું લઈને નાચે છે ? જે જુવાન ગોળ સુધી ન પહોંચે એનું શું થાય ? આ મેળો વરસમાં ક્યારે ભરાય ? આપણા ગામનો મેળો આનાથી કઈ રીતે જુદો છે ?",
+      "explanation": "આ ક્રમાંક વગરનું ટપકું આખા વાતચીત-ખંડનું સરવૈયું છે : બાળકોએ પોતે નવા પ્રશ્નો ઊભા કરવાના છે. ઉપર આપેલા નમૂનાના પ્રશ્નોના જવાબ પાઠમાં જ છે — વીસથી પચીસ ફૂટ ઊંચો થાંભલો, વાંસની પટ્ટીઓ, હોળી પછીના પાંચમા, સાતમા કે બારમા દિવસે ભરાતો મેળો — એટલે ચર્ચા પાછી પાના પર જ વળે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 1, the standing bullet printed under the seven numbered prompts (01_meta.json records this block as items: 7, counting only the numbered prompts). Run it as a whole-class round: each child asks one new question, the class hunts the printed line that answers it. Questions the chapter does not answer are left open, not filled from general knowledge.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S2.T2", "M1.S2.T3", "M1.S3.T4"]
+    },
+
+    {
+      "exercise_id": "EX9",
+      "exercise_group": "વાક્યના યોગ્ય બે ભાગ જોડીને સાચાં વાક્યો બનાવો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અ 1. જેસાવાડા ગામ દાહોદ જિલ્લાના",
+      "answer": "જેસાવાડા ગામ દાહોદ જિલ્લાના ગરબાડા તાલુકામાં આવેલું છે. (અ-1 + બ-3)",
+      "explanation": "પાઠનું પહેલું જ વાક્ય કહે છે : 'દાહોદ જિલ્લાના ગરબાડા તાલુકાના જેસાવાડા ગામે ભરાતો ગોળ-ગધેડાનો મેળો ઘણો જ લોકપ્રિય છે.' જિલ્લા પછી તાલુકો ને તાલુકા પછી ગામ — સરનામાનો આ ક્રમ જ સાચી જોડ બતાવી દે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "અ-1 → બ-3",
+      "teacher_note": "Book's block 2, અ-1. Show the district → taluka → village ladder on the board once; it makes all five joins easier to defend.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M1.S2.T2"]
+    },
+    {
+      "exercise_id": "EX10",
+      "exercise_group": "વાક્યના યોગ્ય બે ભાગ જોડીને સાચાં વાક્યો બનાવો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અ 2. એ બિચારો ગધેડાની જેમ માર ખાય છે પરંતુ",
+      "answer": "એ બિચારો ગધેડાની જેમ માર ખાય છે પરંતુ ગોળ સુધી નથી પહોંચતો. (અ-2 + બ-5)",
+      "explanation": "'પરંતુ' આગળના ભાગની ઊલટી વાત માગે છે : માર તો ખાધો, પણ ફળ ન મળ્યું. પાઠમાં પણ એ જ સ્થિતિ છે — 'પાછળથી થાંભલે ચઢનાર ગોળ વિનાનો યુવાન ગધેડા જેવો પુરવાર થાય છે.' બ-4 ('સૌથી પહેલાં એ જ ગોળ ખાશે') લલચાવે છે, પણ એ સફળતાની વાત છે, એટલે 'પરંતુ' પછી બેસે નહિ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "અ-2 → બ-5",
+      "teacher_note": "Book's block 2, અ-2. The connective પરંતુ is the whole clue — teach it as the signal that the second half must turn against the first.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M1.S3.T6", "M2.S4.T7"]
+    },
+    {
+      "exercise_id": "EX11",
+      "exercise_group": "વાક્યના યોગ્ય બે ભાગ જોડીને સાચાં વાક્યો બનાવો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અ 3. ભીમસિંહ બહુ ચપળ યુવાન છે એટલે",
+      "answer": "ભીમસિંહ બહુ ચપળ યુવાન છે એટલે સૌથી પહેલાં એ જ ગોળ ખાશે. (અ-3 + બ-4)",
+      "explanation": "'એટલે' કારણ પછીનું પરિણામ માગે છે. પાઠ કહે છે : 'આ સોટીઓનો માર ખાઈને પણ કોઈ ચપળ જુવાન થાંભલા પર સડસડાટ ચઢી જાય છે અને છેક ટોચે બાંધેલી ગોળની પોટલી હાંસલ કરી લે છે.' ચપળ હોવું એ કારણ, પહેલાં ગોળ ખાવો એ પરિણામ. શબ્દાર્થ પણ કહે છે : ચપળ - હોશિયાર, ચાલાક, ચંચળ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "અ-3 → બ-4",
+      "teacher_note": "Book's block 2, અ-3. એટલે = cause→result, પરંતુ = contrast: pairing these two joins side by side is the cleanest way to teach both connectives.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M1.S3.T5"]
+    },
+    {
+      "exercise_id": "EX12",
+      "exercise_group": "વાક્યના યોગ્ય બે ભાગ જોડીને સાચાં વાક્યો બનાવો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અ 4. બધી કન્યાઓ બુધાભાઈને મારતી જાય",
+      "answer": "બધી કન્યાઓ બુધાભાઈને મારતી જાય અને સાથે સાથે હસતી પણ જાય. (અ-4 + બ-1)",
+      "explanation": "'મારતી જાય' પછી 'અને … પણ જાય' એ જ રચના ચાલુ રહે એવો ભાગ જોઈએ. પાઠમાં કન્યાઓ ગીતો ગાતી, નાચતી ને સોટીઓથી અટકાવતી બતાવી છે — એ મારપીટ ગુસ્સાની નથી, મેળાની રમતનો ભાગ છે; એટલે 'હસતી પણ જાય' બરાબર બેસે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "અ-4 → બ-1",
+      "teacher_note": "Book's block 2, અ-4. Say once, plainly, that this is a supervised once-a-year village contest and not something to copy in the classroom (08_sensitivity.json, M1.S3.T4, hard).",
+      "is_model_answer": false,
+      "covered_by_topics": ["M1.S3.T4"]
+    },
+    {
+      "exercise_id": "EX13",
+      "exercise_group": "વાક્યના યોગ્ય બે ભાગ જોડીને સાચાં વાક્યો બનાવો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અ 5. આ સ્વયંવરમાં કન્યાઓ અને યુવાનોને",
+      "answer": "આ સ્વયંવરમાં કન્યાઓ અને યુવાનોને પરસ્પર પસંદગી કરવાની તક મળતી. (અ-5 + બ-2)",
+      "explanation": "બાકી રહેલો એક જ ભાગ આ છે, ને અર્થ પણ પૂરો બેસે છે : 'એક જમાનામાં ગોળ ખાનાર કે ધજા ફરકાવનાર વિજયી યુવાન કન્યાઓના ઘેરામાંથી મનપસંદ કન્યાને પરણી શકતો.' વાક્યનું ક્રિયાપદ 'મળતી' ભૂતકાળનું છે — એ પણ સૂચવે છે કે આ જૂના જમાનાની વાત છે; પાઠ પોતે કહે છે કે 'હવે મેળાનો હેતુ કન્યા પસંદગીનો રહ્યો નથી.'",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "અ-5 → બ-2",
+      "teacher_note": "Book's block 2, અ-5. Always finish this join with the chapter's own correction sentence — હવે મેળાનો હેતુ કન્યા પસંદગીનો રહ્યો નથી — or the child leaves thinking bride-choice-by-contest is current practice (08_sensitivity.json, M2.S4.T7).",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S4.T7"]
+    },
+
+    {
+      "exercise_id": "EX14",
+      "exercise_group": "વાક્યમાં શબ્દો આડાઅવળા થઈ ગયા છે, તેમને યોગ્ય રીતે ગોઠવીને વાક્યો ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "મેળામાં યુવાનોને ગોળગધેડાના છે દોડતા મજા આવે જેસાવાડાના જોવાની બહુ.",
+      "answer": "જેસાવાડાના ગોળગધેડાના મેળામાં દોડતા યુવાનોને જોવાની બહુ મજા આવે છે.",
+      "explanation": "ગુજરાતી વાક્યમાં પહેલાં જગ્યા (જેસાવાડાના ગોળગધેડાના મેળામાં), પછી કોને (દોડતા યુવાનોને), પછી ક્રિયા (જોવાની બહુ મજા આવે છે) એ ક્રમે ગોઠવાય. છપાયેલા બધા શબ્દો વપરાયા છે, એકે નવો ઉમેર્યો નથી.",
+      "acceptable_alternatives": [
+        "જેસાવાડાના ગોળગધેડાના મેળામાં દોડતા યુવાનોને જોવાની બહુ મજા આવે છે ."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 3, item 1. Rule for the whole block: every printed word is used exactly once, and nothing is added. Have children tick off each word as they place it.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M1.S2.T2", "M1.S3.T4"]
+    },
+    {
+      "exercise_id": "EX15",
+      "exercise_group": "વાક્યમાં શબ્દો આડાઅવળા થઈ ગયા છે, તેમને યોગ્ય રીતે ગોઠવીને વાક્યો ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "આકર્ષણ મેળામાં પણ જેવા હોય ચકડોળ બીજાં છે.",
+      "answer": "મેળામાં ચકડોળ જેવા બીજાં આકર્ષણ પણ હોય છે.",
+      "explanation": "'જેવા' પહેલાં એનું ઉદાહરણ (ચકડોળ) આવે અને પછી જેની વાત છે તે (બીજાં આકર્ષણ) આવે. પાઠનું વાક્ય પણ આ જ ઢાંચામાં છે : 'ખાસ પ્રકારની રમતો ઉપરાંત બીજાં ઘણાં આકર્ષણ હોય છે.'",
+      "acceptable_alternatives": [
+        "મેળામાં ચકડોળ જેવા બીજાં પણ આકર્ષણ હોય છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 3, item 2. Point back to the chapter's own sentence about બીજાં ઘણાં આકર્ષણ — the exercise sentence is built on it.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S5.T8"]
+    },
+    {
+      "exercise_id": "EX16",
+      "exercise_group": "વાક્યમાં શબ્દો આડાઅવળા થઈ ગયા છે, તેમને યોગ્ય રીતે ગોઠવીને વાક્યો ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "ન મેળામાં જવા માટે પણ જઈ થયો શક્યો ફુલદીપ તૈયાર.",
+      "answer": "ફુલદીપ મેળામાં જવા માટે તૈયાર થયો પણ જઈ ન શક્યો.",
+      "explanation": "કર્તા (ફુલદીપ) પહેલો, પછી હેતુ (મેળામાં જવા માટે), પછી પહેલી ક્રિયા (તૈયાર થયો), ને 'પણ' પછી ઊલટી વાત (જઈ ન શક્યો). નકારનો 'ન' ક્રિયાપદની બરાબર આગળ બેસે છે — 'ન શક્યો'.",
+      "acceptable_alternatives": [
+        "ફુલદીપ મેળામાં જવા માટે તૈયાર તો થયો પણ જઈ ન શક્યો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 3, item 3. Good place to fix where the negative particle ન stands in Gujarati — before the verb, not at the end of the sentence.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M1.S1.T1"]
+    },
+    {
+      "exercise_id": "EX17",
+      "exercise_group": "વાક્યમાં શબ્દો આડાઅવળા થઈ ગયા છે, તેમને યોગ્ય રીતે ગોઠવીને વાક્યો ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "ખાઈને ગોળ સુધી ખરા પહોંચ્યા સાત-આઠ ડાહ્યાભાઈ સોટીઓ.",
+      "answer": "ડાહ્યાભાઈ સાત-આઠ સોટીઓ ખાઈને ગોળ સુધી પહોંચ્યા ખરા.",
+      "explanation": "કર્તા (ડાહ્યાભાઈ), પછી શું ખાધું (સાત-આઠ સોટીઓ ખાઈને), પછી ક્યાં પહોંચ્યા (ગોળ સુધી પહોંચ્યા). છેલ્લે આવતો 'ખરા' ભાર મૂકે છે — 'પહોંચ્યા તો ખરા'. પાઠમાં પણ એ જ ઘટના છે : 'આ સોટીઓનો માર ખાઈને પણ કોઈ ચપળ જુવાન … ગોળની પોટલી હાંસલ કરી લે છે.'",
+      "acceptable_alternatives": [
+        "ડાહ્યાભાઈ સાત-આઠ સોટીઓ ખાઈને ગોળ સુધી તો પહોંચ્યા ખરા."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 3, item 4. 'સોટીઓ ખાવી' is the idiom for taking a beating — gloss it once, otherwise an L2 child reads it as eating something.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M1.S3.T4", "M1.S3.T5"]
+    },
+    {
+      "exercise_id": "EX18",
+      "exercise_group": "વાક્યમાં શબ્દો આડાઅવળા થઈ ગયા છે, તેમને યોગ્ય રીતે ગોઠવીને વાક્યો ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "સૌથી પહોંચી વિચાર્યું કે પહેલાં ગોળ સુધી જાય માલતીએ તો સારું રાજુ.",
+      "answer": "માલતીએ વિચાર્યું કે રાજુ સૌથી પહેલાં ગોળ સુધી પહોંચી જાય તો સારું.",
+      "explanation": "આ સંયુક્ત વાક્ય છે : પહેલો ભાગ 'માલતીએ વિચાર્યું કે', ને 'કે' પછીનો બીજો ભાગ એણે શું વિચાર્યું તે. 'તો સારું' હંમેશાં છેલ્લે આવે છે.",
+      "acceptable_alternatives": [
+        "માલતીએ વિચાર્યું કે રાજુ ગોળ સુધી સૌથી પહેલાં પહોંચી જાય તો સારું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 3, item 5. Longest sentence of the block — let children first find the two halves around 'કે', then order each half.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M1.S3.T5"]
+    },
+
+    {
+      "exercise_id": "EX19",
+      "exercise_group": "નીચેના પ્રશ્નોના ઉત્તર લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "ગોળ-ગધેડાના મેળાની વિશેષતા શી છે ?",
+      "answer": "આ મેળાની વિશેષતા થાંભલા પરની હોડ છે. મેળાના દિવસે મેદાનની વચ્ચોવચ વીસથી પચીસ ફૂટ ઊંચો લાકડાનો થાંભલો રોપવામાં આવે છે, એમાં વીંધ પાડીને ચાર-પાંચ ફૂટના આડા લાકડાના ફટકા બેસાડવામાં આવે છે અને ટોચ પર ગોળની પોટલી લટકાવવામાં આવે છે. થાંભલાની આજુબાજુ કુંવારી કન્યાઓ હાથમાં વાંસની પટ્ટીઓ લઈને ઢોલને તાલે ગીતો ગાતી વર્તુળાકારમાં નૃત્ય કરે છે અને થાંભલે ચઢતા યુવાનને સોટીઓથી માર મારીને અટકાવવા મથે છે. જે ચપળ જુવાન એ માર ખાઈને પણ સડસડાટ ચઢી જાય તે ટોચની ગોળની પોટલી હાંસલ કરી લે છે, ગોળ ખાતો જાય છે ને ગાંગડા ચારે બાજુ ઉડાડે છે. આ ક્રિયા અવિરત ચાલુ રહે છે.",
+      "explanation": "જવાબ આખેઆખો પાઠના બીજા ફકરામાંથી આવે છે. 'વિશેષતા શી છે ?' એટલે 'આ મેળામાં એવું શું થાય છે જે બીજે નથી થતું ?' — એટલે થાંભલો, ટોચે બાંધેલી ગોળની પોટલી, કન્યાઓનું નૃત્ય ને સોટીઓનો પહેરો, ને ચઢવાની હોડ — આટલું આવવું જ જોઈએ. મેળામાં હાટ ભરાય છે એ સાચું છે, પણ એ તો બીજા મેળામાં પણ હોય; એ આ મેળાની 'વિશેષતા' નથી.",
+      "acceptable_alternatives": [
+        "આ મેળામાં ઊંચા થાંભલાની ટોચે ગોળની પોટલી બાંધવામાં આવે છે; કન્યાઓ સોટીઓથી અટકાવવા મથે છે અને ચપળ જુવાન માર ખાઈને પણ ચઢી જઈને ગોળ મેળવે છે — એ જ આ મેળાની વિશેષતા છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 4, question 1. Measurements are written out in Gujarati words, as the pack's display-text rule requires; the page itself prints them as figures. Do not add a month, a date, a crowd figure or a community name — the chapter carries none of them here (07_pitfalls.json, M1.S2.T2/T3, hard).",
+      "is_model_answer": false,
+      "covered_by_topics": ["M1.S2.T3", "M1.S3.T4", "M1.S3.T5", "M1.S3.T6"]
+    },
+    {
+      "exercise_id": "EX20",
+      "exercise_group": "નીચેના પ્રશ્નોના ઉત્તર લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "આ મેળામાં કન્યાની પસંદગી કોણ કરી શકતું ?",
+      "answer": "એક જમાનામાં ગોળ ખાનાર કે ધજા ફરકાવનાર વિજયી યુવાન કન્યાઓના ઘેરામાંથી પોતાની મનપસંદ કન્યાને પરણી શકતો — એટલે કન્યાની પસંદગી એ વિજયી યુવાન કરી શકતો. પરંતુ હવે મેળાનો હેતુ કન્યા પસંદગીનો રહ્યો નથી.",
+      "explanation": "પાઠ આ વાત ભૂતકાળમાં જ કહે છે : 'એક જમાનામાં … પરણી શકતો.' એટલે જવાબ પણ ભૂતકાળમાં લખાય. ને પાઠ પોતે તરત જ સુધારો પણ છાપે છે — 'હાલમાં આ મેળાનો આનંદ પહેલાં જેટલો જ અકબંધ છે. પરંતુ હવે મેળાનો હેતુ કન્યા પસંદગીનો રહ્યો નથી.' એ સુધારો જવાબમાં સાથે જ લખવો, નહિ તો અર્થ ઊલટો બેસે.",
+      "acceptable_alternatives": [
+        "જૂના જમાનામાં જે યુવાન ગોળ ખાતો કે ધજા ફરકાવતો, એ વિજયી યુવાન કન્યાઓના ઘેરામાંથી પોતાની મનપસંદ કન્યાને પસંદ કરી શકતો; આજે એવું નથી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 4, question 2. The second sentence of the answer is not optional — the chapter's own correction must travel with the old custom every time it is mentioned (08_sensitivity.json M2.S4.T7; genre avoid-list item 8, hard).",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S4.T7"]
+    },
+    {
+      "exercise_id": "EX21",
+      "exercise_group": "નીચેના પ્રશ્નોના ઉત્તર લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "સ્વયંવર એટલે શું ?",
+      "answer": "સ્વયંવર એટલે કન્યાએ પોતે વર પસંદ કરવો તે, અને તે માટે યોજાતો સમારંભ.",
+      "explanation": "આ અર્થ પાઠના પોતાના શબ્દાર્થ-બોક્સમાં જ છપાયો છે : 'સ્વયંવર - કન્યાએ પોતે વર પસંદ કરવો તે, તે માટેનો સમારંભ.' પાઠમાં આ શબ્દ ક્યાં આવ્યો એ પણ સાથે બતાવવું — 'આ રિવાજ જૂના જમાનાની સ્વયંવર-પ્રથાની યાદ અપાવે છે.' એટલે કે મેળાની આ રમત જૂની સ્વયંવર-પ્રથાની યાદ અપાવે છે, પણ મેળો પોતે સ્વયંવર નથી.",
+      "acceptable_alternatives": [
+        "કન્યા પોતે પોતાનો વર પસંદ કરે એ પ્રથાને સ્વયંવર કહે છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 4, question 3. The printed શબ્દાર્થ box is evidence that this word is hard and it also supplies the answer — quote it as printed rather than paraphrasing (bhasha_bodh.md, the printed-glossary trap).",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S4.T7"]
+    },
+
+    {
+      "exercise_id": "EX22",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દો વડે નીચેના સંવાદમાં ખાલી જગ્યા પૂરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "(કેટલાંક, વેચાતાં, ખરીદી, માર, મેળાનું, બદલામાં, મેળામાં)\nગોળગધેડાના ________ નામ સાંભળીએ એટલે પહેલાં તો આપણને એવું જ થાય કે અહીં ગોળ અને ગધેડાનો વેપાર થતો હશે. જેમ ________ સ્થળોએ ઊંટ વેચાય છે એમ અહીં ગધેડાં ________ હશે. કોઈને વળી એમ પણ થાય કે ગોળના ________ ગધેડાં મળતાં હશે ! એટલે કે જે ગધેડો ખરીદવો હોય એના વજન જેટલો ગોળ આપીએ તો ગધેડો ________ શકાય ! આમ તો ________ બહુ બધી વસ્તુઓનું ખરીદ વેચાણ થતું હોય છે, પરંતુ ગોળ-ગધેડાનો મેળો રૂબરૂ જોઈએ ત્યારે ખબર પડે છે કે અહીં તો ગોળ ખાવાનો છે અને ગધેડાની જેમ મેથીપાક પણ ખાવાનો છે. યુવાનો હોંશે હોંશે ________ પણ ખાય એ જોવાની ખૂબ મજા આવી જાય.",
+      "answer": "ક્રમમાં : (1) મેળાનું (2) કેટલાંક (3) વેચાતાં (4) બદલામાં (5) ખરીદી (6) મેળામાં (7) માર",
+      "explanation": "દરેક ખાલી જગ્યા આગળ-પાછળના શબ્દ પરથી નક્કી થાય છે. 'ગોળગધેડાના ___ નામ' — નામ કોનું ? મેળાનું. 'જેમ ___ સ્થળોએ' — કેટલાંક એટલે થોડાંક સ્થળે. 'ગધેડાં ___ હશે' — વેચાય છેની વાત ચાલે છે એટલે વેચાતાં. 'ગોળના ___ ગધેડાં મળતાં હશે' — ગોળ આપીને ગધેડું લેવાની વાત, એટલે બદલામાં. 'ગધેડો ___ શકાય' — ખરીદી શકાય. 'આમ તો ___ બહુ બધી વસ્તુઓનું ખરીદ વેચાણ' — મેળામાં. અને છેલ્લે 'યુવાનો હોંશે હોંશે ___ પણ ખાય' — અહીં 'મેથીપાક ખાવો' એટલે માર ખાવો, એટલે માર. આ આખો ફકરો મેળાના નામની ગમ્મત સમજાવે છે — પાઠ પણ કહે છે કે નામ પડ્યું છે કારણ કે 'ગોળ લેવા માટે ગધેડા જેવો માર ખાવો પડે છે.'",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ગોળગધેડાના મેળાનું નામ સાંભળીએ એટલે પહેલાં તો આપણને એવું જ થાય કે અહીં ગોળ અને ગધેડાનો વેપાર થતો હશે. જેમ કેટલાંક સ્થળોએ ઊંટ વેચાય છે એમ અહીં ગધેડાં વેચાતાં હશે. કોઈને વળી એમ પણ થાય કે ગોળના બદલામાં ગધેડાં મળતાં હશે ! એટલે કે જે ગધેડો ખરીદવો હોય એના વજન જેટલો ગોળ આપીએ તો ગધેડો ખરીદી શકાય ! આમ તો મેળામાં બહુ બધી વસ્તુઓનું ખરીદ વેચાણ થતું હોય છે, પરંતુ ગોળ-ગધેડાનો મેળો રૂબરૂ જોઈએ ત્યારે ખબર પડે છે કે અહીં તો ગોળ ખાવાનો છે અને ગધેડાની જેમ મેથીપાક પણ ખાવાનો છે. યુવાનો હોંશે હોંશે માર પણ ખાય એ જોવાની ખૂબ મજા આવી જાય.",
+      "teacher_note": "Book's block 5. Seven blanks, seven bank words, each used exactly once — the paragraph is one continuous text, so it is answered as one item. 'મેથીપાક ખાવો' is the idiom for taking a beating; gloss it before the blanks are filled or the last blank will not be found.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M1.S2.T2", "M2.S4.T7", "M2.S5.T8"]
+    },
+
+    {
+      "exercise_id": "EX23",
+      "exercise_group": "નીચેનો સંવાદ પૂર્ણ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "(મેળામાં જઈએ ત્યારે બરાબર તૈયાર તો થવું જોઈએ ને, એટલે પાણીની બોટલ લઈ લેજે, મારી ગાય બીમાર છે એટલે એનું કામ પણ કરવું પડે ને, ગાય પણ આપણા ઘરના સભ્ય જેવી ગણાય, હું સમજી નહીં, હું જરાક તૈયાર થઈ જાઉં)\nમીના : અલી રમીલા, જલદી કર. આપણે મેળામાં સમયસર પહોંચવાનું છે.\nરમીલા : ઘડીક ઊભી તો રહે. ________ . ________ ?\nમીના : તો અત્યાર સુધી શું કરતી હતી ? હજુ કેટલું તૈયાર થવાનું બાકી છે ?\nરમીલા : એમ નહીં ________\nમીના : હા, એ સાચું. ગાય છે તો આપણે છીએ ________\nરમીલા : તારે કશું ખાવું છે ? મેળા સુધી ચાલતાં જઈશું એટલે ભૂખ લાગશે.\nમીના : હું તો દૂધ પીને નીકળી છું. ભૂખ તો નહીં લાગે, પણ તરસ લાગશે ________\nરમીલા : બધું જ તૈયાર છે. પાણીની બે બોટલ પણ લીધી છે. તું ખાલી તૈયાર થઈને નીકળી છે, હું પૂરી તૈયારી કરીને નીકળીશ.\nમીના : એટલે ? ________\nરમીલા : એટલે એમ કે, આખા દિવસ દરમિયાન જે જરૂર પડશે તે બધું લઈને જ ઘરેથી જવાનું.",
+      "answer": "ક્રમમાં : (1) હું જરાક તૈયાર થઈ જાઉં (2) મેળામાં જઈએ ત્યારે બરાબર તૈયાર તો થવું જોઈએ ને (3) મારી ગાય બીમાર છે એટલે એનું કામ પણ કરવું પડે ને (4) ગાય પણ આપણા ઘરના સભ્ય જેવી ગણાય (5) એટલે પાણીની બોટલ લઈ લેજે (6) હું સમજી નહીં",
+      "explanation": "દરેક ખાલી જગ્યાની આગળ-પાછળનું વાક્ય જ જવાબ પકડાવે છે. પહેલી જગ્યા પછી પૂર્ણવિરામ છપાયું છે એટલે ત્યાં વિધાન આવે — 'હું જરાક તૈયાર થઈ જાઉં'; બીજી જગ્યા પછી પ્રશ્નચિહ્ન છપાયું છે એટલે ત્યાં 'ને ?'વાળું પ્રશ્નવાક્ય જ બેસે — 'મેળામાં જઈએ ત્યારે બરાબર તૈયાર તો થવું જોઈએ ને ?'. 'એમ નહીં' પછી રમીલા પોતાનું કારણ આપે છે — ગાય બીમાર છે. મીના એ કારણ સ્વીકારીને 'હા, એ સાચું' કહે છે, એટલે ત્યાં ગાય વિશેનું વાક્ય આવે. તરસની વાત પછી પાણીની બોટલવાળું વાક્ય આવે, ને છેલ્લે 'એટલે ?' પછી 'હું સમજી નહીં' — કારણ કે રમીલા પછીના વાક્યમાં 'એટલે એમ કે…' કહીને સમજાવે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "રમીલા : ઘડીક ઊભી તો રહે. હું જરાક તૈયાર થઈ જાઉં . મેળામાં જઈએ ત્યારે બરાબર તૈયાર તો થવું જોઈએ ને ?\nરમીલા : એમ નહીં મારી ગાય બીમાર છે એટલે એનું કામ પણ કરવું પડે ને\nમીના : હા, એ સાચું. ગાય છે તો આપણે છીએ ગાય પણ આપણા ઘરના સભ્ય જેવી ગણાય\nમીના : હું તો દૂધ પીને નીકળી છું. ભૂખ તો નહીં લાગે, પણ તરસ લાગશે એટલે પાણીની બોટલ લઈ લેજે\nમીના : એટલે ? હું સમજી નહીં",
+      "teacher_note": "Book's block 6. DEFECT NOTE for Agent 13: 01_meta.json's exercise_inventory records this block as items: 5, but the rendered page (folio 82) prints SIX blanks — two on રમીલા's first line — and the bracket supplies exactly six phrases. All six are answered above; the inventory count is one short. Do not renumber the book. Run it as a paired reading aloud once the blanks are filled; the punctuation printed after each blank (. and ?) is the strongest clue and is worth teaching explicitly.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M1.S1.T1", "M2.S5.T9"]
+    },
+
+    {
+      "exercise_id": "EX24",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દો બનાવીને લખો અને બંને શબ્દો પરથી વાક્યો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "1. મહાન",
+      "answer": "મહાન - મહાનતા\nમાણસને મહાન એનું કામ બનાવે છે.\nએમની મહાનતાની વાત આખા ગામમાં થાય છે.",
+      "explanation": "ઉદાહરણ 'વિશિષ્ટ-વિશિષ્ટતા' છે : વિશેષણને છેડે '-તા' લગાડીએ એટલે એનું ભાવવાચક નામ બને. એ જ રીતે મહાન + તા = મહાનતા. પહેલું વાક્ય વિશેષણ સાથે (મહાન) ને બીજું નામ સાથે (મહાનતા) બનાવવાનું છે — ઉદાહરણમાં પણ એ જ બે વાક્યો છપાયાં છે.",
+      "acceptable_alternatives": [
+        "મહાનતાને બદલે 'મહત્તા' પણ સાચો શબ્દ છે, પણ '-તા' પ્રત્યયનો ઢાંચો બતાવવા 'મહાનતા' રાખવું."
+      ],
+      "values_filled_for_teaching": "મહાન → મહાનતા",
+      "teacher_note": "Book's block 7, item 1. The whole block drills one derivational suffix: વિશેષણ + તા = ભાવવાચક નામ. Std 6 has met derivational suffixes but NOT સંધિ, સમાસ, કૃદંત or નિપાત — do not name those categories here (exercise_alignment.md grammar ladder).",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S1.T1"]
+    },
+    {
+      "exercise_id": "EX25",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દો બનાવીને લખો અને બંને શબ્દો પરથી વાક્યો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "2. માનવ",
+      "answer": "માનવ - માનવતા\nમેળામાં આવેલો દરેક જણ પહેલાં તો માનવ છે.\nકોઈને મદદ કરવી એ માનવતા છે.",
+      "explanation": "માનવ + તા = માનવતા. અહીં મૂળ શબ્દ નામ છે ને એના પરથી ભાવવાચક નામ બને છે — 'માણસપણું'. બંને શબ્દોનાં જુદાં જુદાં વાક્યો બનાવવાં.",
+      "acceptable_alternatives": [
+        "માનવ - માનવતા : ભારત માનવતાનો દેશ ગણાય છે."
+      ],
+      "values_filled_for_teaching": "માનવ → માનવતા",
+      "teacher_note": "Book's block 7, item 2.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S1.T1"]
+    },
+    {
+      "exercise_id": "EX26",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દો બનાવીને લખો અને બંને શબ્દો પરથી વાક્યો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "3. કઠોર",
+      "answer": "કઠોર - કઠોરતા\nએનો અવાજ સાંભળીને લાગ્યું કે એ કઠોર માણસ છે.\nવડીલની કઠોરતા પાછળ પણ પ્રેમ છુપાયેલો હોય છે.",
+      "explanation": "કઠોર + તા = કઠોરતા. 'કઠોર' એટલે કઠણ, કડક. અહીં પણ પહેલું વાક્ય વિશેષણ સાથે ને બીજું નામ સાથે.",
+      "acceptable_alternatives": [
+        "કઠોર - કઠોરતા : ઉનાળામાં જમીન કઠોર થઈ જાય છે."
+      ],
+      "values_filled_for_teaching": "કઠોર → કઠોરતા",
+      "teacher_note": "Book's block 7, item 3.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S1.T1"]
+    },
+    {
+      "exercise_id": "EX27",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દો બનાવીને લખો અને બંને શબ્દો પરથી વાક્યો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "4. ઉદાર",
+      "answer": "ઉદાર - ઉદારતા\nમારા મિત્રનું મન બહુ ઉદાર છે.\nએની ઉદારતાને લીધે બધાં એને ચાહે છે.",
+      "explanation": "ઉદાર + તા = ઉદારતા. 'ઉદાર' એટલે મોટા મનનું, આપી જાણનારું.",
+      "acceptable_alternatives": [
+        "ઉદાર - ઉદારતા : ગામના લોકોએ ઉદારતાથી મેળાની તૈયારીમાં મદદ કરી."
+      ],
+      "values_filled_for_teaching": "ઉદાર → ઉદારતા",
+      "teacher_note": "Book's block 7, item 4.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S1.T1"]
+    },
+    {
+      "exercise_id": "EX28",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દો બનાવીને લખો અને બંને શબ્દો પરથી વાક્યો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "5. વીર",
+      "answer": "વીર - વીરતા\nએ છોકરો સાચે જ વીર છે.\nએની વીરતાની વાત આખા ગામમાં ફેલાઈ ગઈ.",
+      "explanation": "વીર + તા = વીરતા. પાઠના શબ્દાર્થ-બોક્સમાં 'મરદ - વીર પુરુષ, બહાદુર' છપાયું છે, એટલે આ શબ્દ પાઠમાંથી જ ઓળખાય છે.",
+      "acceptable_alternatives": [
+        "વીર - વીરતા : વીરતા એટલે માત્ર લડવું નહિ, સાચું કરવાની હિંમત પણ."
+      ],
+      "values_filled_for_teaching": "વીર → વીરતા",
+      "teacher_note": "Book's block 7, item 5. Link back to the શબ્દાર્થ box entry મરદ - વીર પુરુષ, બહાદુર so the word is met twice.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S1.T1"]
+    },
+
+    {
+      "exercise_id": "EX29",
+      "exercise_group": "ઉદાહરણ મુજબ બીજા પાંચ શબ્દોની યાદી કરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ઉદાહરણ : નગર - નગરવાસી",
+      "answer": "(એક શક્ય યાદી) ગામ - ગામવાસી, વન - વનવાસી, દેશ - દેશવાસી, શહેર - શહેરવાસી, પુર - પુરવાસી",
+      "explanation": "ઉદાહરણમાં જગ્યાના નામને છેડે '-વાસી' લાગે છે ને 'ત્યાં રહેનાર' એવો અર્થ મળે છે : નગર + વાસી = નગરમાં વસનાર. પાઠમાં પણ આ જ પ્રત્યય ધરાવતો શબ્દ છપાયો છે — 'આદિવાસી પ્રજા'. એટલે બાળક પોતાની યાદી બનાવે ત્યારે જગ્યાનું નામ પસંદ કરે, પછી '-વાસી' જોડે.",
+      "acceptable_alternatives": [
+        "ગિરિ - ગિરિવાસી",
+        "સ્વર્ગ - સ્વર્ગવાસી",
+        "રાજ્ય - રાજ્યવાસી"
+      ],
+      "values_filled_for_teaching": "ગામ - ગામવાસી / વન - વનવાસી / દેશ - દેશવાસી / શહેર - શહેરવાસી / પુર - પુરવાસી",
+      "teacher_note": "Book's block 8. The page prints only two ruled lines, so the five words go on those lines. Any five defensible -વાસી words are correct; the list above is one possible set.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M2.S5.T8"]
+    },
+
+    {
+      "exercise_id": "EX30",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરીને ખાલી જગ્યા પૂરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "એમના ઘરમાં બધાં મળીને ચાર જણ ________ હતાં.",
+      "answer": "ખાનાર — એમના ઘરમાં બધાં મળીને ચાર જણ ખાનાર હતાં.",
+      "explanation": "'ચાર જણ' પછી 'જમનારા કેટલા' એ વાત આવે છે, એટલે 'ખાનાર' બેસે. કૌંસના પાંચેય શબ્દો '-નાર' પ્રત્યયવાળા છે — એટલે 'એ કામ કરનાર વ્યક્તિ'. પાઠમાં પણ આ જ પ્રત્યય છે : 'ગોળ ખાનાર કે ધજા ફરકાવનાર વિજયી યુવાન', 'થાંભલે ચઢનાર'.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ખાનાર",
+      "teacher_note": "Book's block 9, item 1. Do the whole block by elimination: each of the five bank words is used exactly once.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S4.T7", "M1.S3.T6"]
+    },
+    {
+      "exercise_id": "EX31",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરીને ખાલી જગ્યા પૂરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "મારી સાથે ________ દાદાની ઝડપ જબરી હતી.",
+      "answer": "ચાલનાર — મારી સાથે ચાલનાર દાદાની ઝડપ જબરી હતી.",
+      "explanation": "'ઝડપ' શબ્દ ચાલવાની વાત તરફ લઈ જાય છે : સાથે ચાલનાર દાદા. 'ચાલનાર' એટલે ચાલનારી વ્યક્તિ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ચાલનાર",
+      "teacher_note": "Book's block 9, item 2.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S4.T7"]
+    },
+    {
+      "exercise_id": "EX32",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરીને ખાલી જગ્યા પૂરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "સવારે વહેલાં ________ લોકો બધે જ સમયસર પહોંચે છે.",
+      "answer": "ઊઠનાર — સવારે વહેલાં ઊઠનાર લોકો બધે જ સમયસર પહોંચે છે.",
+      "explanation": "'સવારે વહેલાં' સાથે 'ઊઠવું' જ જોડાય, એટલે 'ઊઠનાર'. કૌંસમાં આ શબ્દ 'ઊઠનાર' રૂપે છપાયો છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ઊઠનાર",
+      "teacher_note": "Book's block 9, item 3.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S4.T7"]
+    },
+    {
+      "exercise_id": "EX33",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરીને ખાલી જગ્યા પૂરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "મધુર ગીત ________ છોકરી મારા જેવડી જ હતી.",
+      "answer": "ગાનાર — મધુર ગીત ગાનાર છોકરી મારા જેવડી જ હતી.",
+      "explanation": "'ગીત' સાથે 'ગાવું' જોડાય, એટલે 'ગાનાર'. પાઠમાં પણ કન્યાઓ 'ઢોલને તાલે ગીતો ગાતી' નૃત્ય કરે છે — એ જ ક્રિયાનું '-નાર'વાળું રૂપ અહીં છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ગાનાર",
+      "teacher_note": "Book's block 9, item 4.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M1.S3.T4"]
+    },
+    {
+      "exercise_id": "EX34",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરીને ખાલી જગ્યા પૂરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "જીવનમાં ધીરજ ________ હંમેશાં સફળ થાય છે.",
+      "answer": "રાખનાર — જીવનમાં ધીરજ રાખનાર હંમેશાં સફળ થાય છે.",
+      "explanation": "'ધીરજ' સાથે 'રાખવી' જ જોડાય, એટલે 'રાખનાર'. બાકીના ચાર શબ્દો બીજાં વાક્યોમાં વપરાઈ ગયા છે, એટલે આ છેલ્લી જગ્યાએ આ એક જ શબ્દ બચે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "રાખનાર",
+      "teacher_note": "Book's block 9, item 5.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S4.T7"]
+    },
+
+    {
+      "exercise_id": "EX35",
+      "exercise_group": "આ પાઠમાં એક સ્થાને ‘સડસડાટ’ શબ્દ વપરાયો છે. સડસડાટ એટલે સપાટાબંધ, ખૂબ ઝડપથી આ પ્રકારના બીજા શબ્દો આપણે બોલતાં, સાંભળતાં કે વાંચતાં હોઈએ છીએ. આવા શબ્દો શોધીને લખો અને તેના આધારે વાક્ય બનાવો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ઉદાહરણ : કડકડાટ : તે સો એકડા કડકડાટ બોલી ગઈ.",
+      "answer": "(એક શક્ય યાદી)\nધડધડાટ : એ છોકરો આખી કવિતા ધડધડાટ બોલી ગયો.\nખળખળાટ : નદીનું પાણી ખળખળાટ વહી રહ્યું હતું.\nગડગડાટ : વરસાદ પહેલાં વાદળાં ગડગડાટ કરવા લાગ્યાં.\nફડફડાટ : પવનમાં ધજા ફડફડાટ ફરકતી હતી.\nબડબડાટ : એ મનમાં ને મનમાં બડબડાટ કરતો હતો.",
+      "explanation": "આ બધા શબ્દો અવાજ કે ઝડપ સંભળાવે એવા શબ્દો છે — એક જ અક્ષરજૂથ બે વાર આવે ને છેડે '-આટ' લાગે : સડ + સડ + આટ = સડસડાટ. પાઠમાં આ શબ્દ ક્યાં આવ્યો એ બતાવવું : 'કોઈ ચપળ જુવાન થાંભલા પર સડસડાટ ચઢી જાય છે.' શબ્દાર્થ-બોક્સ પણ કહે છે : 'સડસડાટ - સપાટાબંધ, રેલાની પેઠે.'",
+      "acceptable_alternatives": [
+        "ચમચમાટ, સનસનાટ, ધબધબાટ, ઝરમર, ઢમઢમ — બાળક શોધે તે કોઈ પણ આવો શબ્દ, જો સાથે વાક્ય બનાવે તો સાચો."
+      ],
+      "values_filled_for_teaching": "ધડધડાટ, ખળખળાટ, ગડગડાટ, ફડફડાટ, બડબડાટ (દરેક સાથે એક-એક વાક્ય)",
+      "teacher_note": "Book's block 10. This is a દ્વિરુક્ત/રવાનુકારી word hunt. Read the words aloud — the sound is the whole point, and it is the fastest way for an L2 child to feel why the word exists. Any word the child genuinely finds counts; the list above is one possible set.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S3.T5"]
+    },
+
+    {
+      "exercise_id": "EX36",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દો બનાવીને વાંચો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ઉદાહરણ : પોટલો - પોટલી\nગોટલો ________        કોથળો ________        ________        ________\n________ ઓટલી        ઓરડો ________        ________        ________",
+      "answer": "ગોટલો - ગોટલી, કોથળો - કોથળી, ઓટલો - ઓટલી, ઓરડો - ઓરડી. બાકીના ચાર ખાનામાં બાળક પોતાની જોડ લખે — જેમ કે ટોપલો - ટોપલી, થેલો - થેલી, ડબ્બો - ડબ્બી, દોરો - દોરી.",
+      "explanation": "ઉદાહરણ 'પોટલો - પોટલી' બતાવે છે કે '-ો'વાળા મોટા શબ્દને '-ી' કરીએ એટલે એનું નાનું રૂપ મળે : પોટલો મોટો, પોટલી નાની. એટલે ગોટલો → ગોટલી, કોથળો → કોથળી, ઓરડો → ઓરડી; ને ઊંધું ચાલીએ તો ઓટલી → ઓટલો. પાઠમાં 'ગોળની પોટલી' છપાયું છે — એ જ શબ્દ પરથી આખો બ્લૉક ઊભો થયો છે.",
+      "acceptable_alternatives": [
+        "ખાટલો - ખાટલી",
+        "લોટો - લોટી",
+        "પાવડો - પાવડી"
+      ],
+      "values_filled_for_teaching": "પહેલી હાર : ગોટલો - ગોટલી | કોથળો - કોથળી | (બાળકની જોડ) ટોપલો - ટોપલી | (બાળકની જોડ) થેલો - થેલી\nબીજી હાર : ઓટલો - ઓટલી | ઓરડો - ઓરડી | (બાળકની જોડ) ડબ્બો - ડબ્બી | (બાળકની જોડ) દોરો - દોરી",
+      "teacher_note": "Book's block 11. Verified against the render (folio 83): the grid is two rows of four cells; four cells carry a printed word (ગોટલો, કોથળો, ઓટલી, ઓરડો) and four are wholly blank for the child's own pairs — note that ઓટલી is printed in the SECOND position of its cell, so that cell runs -ી → -ો. Read the finished pairs aloud, as the heading asks (…બનાવીને વાંચો).",
+      "is_model_answer": false,
+      "covered_by_topics": ["M1.S2.T3", "M1.S3.T5"]
+    },
+
+    {
+      "exercise_id": "EX37",
+      "exercise_group": "ઉદાહરણ મુજબ બીજા પાંચ શબ્દો લખો અને વાક્યપ્રયોગ કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "ઉદાહરણ : નાચતાં-ગાતાં\nસ્ત્રી - પુરુષો આનંદથી નાચતાં-ગાતાં આવે છે.",
+      "answer": "(એક શક્ય યાદી)\nહસતાં-રમતાં : બાળકો હસતાં-રમતાં શાળાએ પહોંચ્યાં.\nદોડતાં-કૂદતાં : છોકરાં દોડતાં-કૂદતાં મેદાનમાં આવ્યાં.\nખાતાં-પીતાં : અમે ખાતાં-પીતાં વાતો કરતાં હતાં.\nજોતાં-જોતાં : જોતાં-જોતાં આખો મેળો પૂરો થઈ ગયો.\nચાલતાં-ચાલતાં : ચાલતાં-ચાલતાં અમે મેળા સુધી પહોંચી ગયાં.",
+      "explanation": "ઉદાહરણમાં બે ક્રિયા સાથે સાથે થાય છે એ બતાવવા બે શબ્દો જોડીને લખાયા છે — 'નાચતાં-ગાતાં'. પાઠનું આખું વાક્ય છે : 'આ મેળામાં આજુબાજુનાં ગામડાંમાંથી હજારો સ્ત્રી-પુરુષો ઢોલ વગાડતાં વગાડતાં અને આનંદથી નાચતાં-ગાતાં આવે છે.' એટલે નવી જોડ બનાવતી વખતે પણ બંને ક્રિયા એકસાથે થતી હોય એવી પસંદ કરવી.",
+      "acceptable_alternatives": [
+        "ગાતાં-બજાવતાં : લોકો ગાતાં-બજાવતાં મેળામાં આવ્યાં.",
+        "રડતાં-રડતાં : એ રડતાં-રડતાં ઘરે પહોંચ્યો."
+      ],
+      "values_filled_for_teaching": "હસતાં-રમતાં, દોડતાં-કૂદતાં, ખાતાં-પીતાં, જોતાં-જોતાં, ચાલતાં-ચાલતાં (દરેક સાથે એક-એક વાક્ય)",
+      "teacher_note": "Book's block 12. Keep the answer at the level std 6 has actually reached — pairs of simultaneous actions. Do not name these as કૃદંત; that category is not taught at std 6 (exercise_alignment.md grammar ladder).",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S2.T2"]
+    },
+
+    {
+      "exercise_id": "EX38",
+      "exercise_group": "નીચે આપેલા શબ્દોના સમાન અર્થવાળા બે-બે શબ્દો કૌંસમાંથી શોધીને લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "દિલ ________ ________",
+      "answer": "દિલ - મન, ચિત્ત",
+      "explanation": "કૌંસમાં દસ શબ્દો છે ને પાંચ જોડ બનાવવાની છે — એટલે દરેક શબ્દ એક જ વાર વપરાય. 'દિલ' એટલે હૃદય, અંતર; એ જ અર્થના શબ્દો છે 'મન' અને 'ચિત્ત'.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "દિલ → મન, ચિત્ત",
+      "teacher_note": "Book's block 13, row 1. Note for Agent 13: this whole block's words (દિલ, શ્રદ્ધા, કાળ, મૃત્યુ, સૂર્ય and all ten bank words) occur nowhere in this chapter's reading text — it is a general vocabulary battery, so its five items are recorded in coverage_report.unmapped rather than given an invented topic mapping.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX39",
+      "exercise_group": "નીચે આપેલા શબ્દોના સમાન અર્થવાળા બે-બે શબ્દો કૌંસમાંથી શોધીને લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "શ્રદ્ધા ________ ________",
+      "answer": "શ્રદ્ધા - વિશ્વાસ, આસ્થા",
+      "explanation": "'શ્રદ્ધા' એટલે ભરોસો. 'વિશ્વાસ' ને 'આસ્થા' બંને એ જ અર્થના શબ્દો છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "શ્રદ્ધા → વિશ્વાસ, આસ્થા",
+      "teacher_note": "Book's block 13, row 2.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX40",
+      "exercise_group": "નીચે આપેલા શબ્દોના સમાન અર્થવાળા બે-બે શબ્દો કૌંસમાંથી શોધીને લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "કાળ ________ ________",
+      "answer": "કાળ - વખત, સમય",
+      "explanation": "અહીં 'કાળ' એટલે વખત — સમય. કૌંસમાંથી 'વખત' ને 'સમય' બંને એ જ અર્થના છે. ('કાળ'નો બીજો અર્થ મૃત્યુ પણ થાય, પણ એ અર્થના શબ્દો — મરણ, મોત — બીજી હારમાં વપરાવાના છે, એટલે અહીં નહિ.)",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "કાળ → વખત, સમય",
+      "teacher_note": "Book's block 13, row 3. The કાળ/મૃત્યુ overlap is the one real trap in this block — solve rows 3 and 4 together, not separately.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX41",
+      "exercise_group": "નીચે આપેલા શબ્દોના સમાન અર્થવાળા બે-બે શબ્દો કૌંસમાંથી શોધીને લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "મૃત્યુ ________ ________",
+      "answer": "મૃત્યુ - મરણ, મોત",
+      "explanation": "'મૃત્યુ' એટલે અવસાન. કૌંસમાંથી 'મરણ' ને 'મોત' બંને એ જ અર્થના શબ્દો છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "મૃત્યુ → મરણ, મોત",
+      "teacher_note": "Book's block 13, row 4.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX42",
+      "exercise_group": "નીચે આપેલા શબ્દોના સમાન અર્થવાળા બે-બે શબ્દો કૌંસમાંથી શોધીને લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "સૂર્ય ________ ________",
+      "answer": "સૂર્ય - રવિ, ભાસ્કર",
+      "explanation": "'સૂર્ય'ના પર્યાયો કૌંસમાં 'રવિ' ને 'ભાસ્કર' છે. બાકીના આઠ શબ્દો બીજી ચાર હારમાં વપરાઈ ગયા છે, એટલે આ બે જ બચે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "સૂર્ય → રવિ, ભાસ્કર",
+      "teacher_note": "Book's block 13, row 5. Ten bank words, five rows of two — finishing by elimination is a legitimate strategy and worth showing.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+
+    {
+      "exercise_id": "EX43",
+      "exercise_group": "નીચે આપેલાં નામો પરથી યોગ્ય વિશેષણ બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "ગુજરાત ________",
+      "answer": "ગુજરાત - ગુજરાતી",
+      "explanation": "છપાયેલું ઉદાહરણ 'જંગલ - જંગલી' છે : નામને છેડે પ્રત્યય લગાડીએ એટલે વિશેષણ બને. ગુજરાત + ઈ = ગુજરાતી — એટલે 'ગુજરાતનું'. પાઠનું પહેલું જ વાક્ય 'ગુજરાતના જુદાજુદા પ્રદેશોમાં વાર-તહેવારે મેળા ભરાય છે' આ શબ્દ સાથે જોડાય છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ગુજરાત → ગુજરાતી",
+      "teacher_note": "Book's block 14, left column row 2. જંગલ - જંગલી is printed as the worked example and is not a blank.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M1.S1.T1"]
+    },
+    {
+      "exercise_id": "EX44",
+      "exercise_group": "નીચે આપેલાં નામો પરથી યોગ્ય વિશેષણ બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "મહેનત ________",
+      "answer": "મહેનત - મહેનતુ",
+      "explanation": "મહેનત + ઉ = મહેનતુ, એટલે 'મહેનત કરનારું'. અહીં પ્રત્યય '-ઈ' નહિ પણ '-ઉ' લાગે છે — એટલે દરેક નામ સાથે એક જ પ્રત્યય નથી ચાલતો, એ આ બ્લૉકનો ખરો પાઠ છે.",
+      "acceptable_alternatives": [
+        "મહેનતી"
+      ],
+      "values_filled_for_teaching": "મહેનત → મહેનતુ",
+      "teacher_note": "Book's block 14, left column row 3. Both મહેનતુ and મહેનતી are current; accept either.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX45",
+      "exercise_group": "નીચે આપેલાં નામો પરથી યોગ્ય વિશેષણ બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "દયા ________",
+      "answer": "દયા - દયાળુ",
+      "explanation": "દયા + આળુ = દયાળુ, એટલે 'દયા રાખનારું'. અહીં ત્રીજો પ્રત્યય '-આળુ' આવ્યો.",
+      "acceptable_alternatives": [
+        "દયાવાન"
+      ],
+      "values_filled_for_teaching": "દયા → દયાળુ",
+      "teacher_note": "Book's block 14, right column row 1.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX46",
+      "exercise_group": "નીચે આપેલાં નામો પરથી યોગ્ય વિશેષણ બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "આળસ ________",
+      "answer": "આળસ - આળસુ",
+      "explanation": "આળસ + ઉ = આળસુ, એટલે 'આળસ કરનારું'. 'મહેનતુ'ની બરાબર સામેનો શબ્દ — બંને એક જ પ્રત્યય લે છે.",
+      "acceptable_alternatives": [
+        "આળસી"
+      ],
+      "values_filled_for_teaching": "આળસ → આળસુ",
+      "teacher_note": "Book's block 14, right column row 2. Pair it aloud with મહેનતુ — same suffix, opposite meaning.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX47",
+      "exercise_group": "નીચે આપેલાં નામો પરથી યોગ્ય વિશેષણ બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "ભારત ________",
+      "answer": "ભારત - ભારતીય",
+      "explanation": "ભારત + ઈય = ભારતીય, એટલે 'ભારતનું'. 'ગુજરાત - ગુજરાતી'ની જેમ આ પણ દેશ કે પ્રદેશના નામ પરથી બનેલું વિશેષણ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ભારત → ભારતીય",
+      "teacher_note": "Book's block 14, right column row 3. Put all five answers on the board together at the end so the four different suffixes (-ી, -ુ, -આળુ, -ીય) are visible side by side.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+
+    {
+      "exercise_id": "EX48",
+      "exercise_group": "‘મેં જોયેલો મેળો’ - વિશે દસેક વાક્યો લખો.",
+      "skill": "writing",
+      "prompt_verbatim": "‘મેં જોયેલો મેળો’ - વિશે દસેક વાક્યો લખો.",
+      "answer": "(એક શક્ય નિબંધ)\nગયા વરસે હું અમારા ગામમાં ભરાતા મેળામાં ગયો હતો. મેળો ગામની બહાર મોટા મેદાનમાં ભરાયો હતો. સવારથી જ આજુબાજુનાં ગામડાંમાંથી લોકો આવવા લાગ્યાં હતાં. કેટલાક લોકો ઢોલ વગાડતાં વગાડતાં ને ગીતો ગાતાં ગાતાં આવતાં હતાં. મેદાનમાં એક બાજુ ચકડોળ ફરતું હતું ને બીજી બાજુ હાટ ભરાઈ હતી. હાટમાં કપડાં, આભૂષણો ને ઘરવખરીની વસ્તુઓ વેચાતી હતી. મેં ત્યાંથી એક નાની ટોપલી ખરીદી. બપોરે અમે સૌએ સાથે બેસીને ખાધું. સાંજ સુધી ઢોલનો અવાજ ને લોકોનો કલબલાટ ચાલુ રહ્યો. ઘરે પાછા ફરતી વખતે મને થયું કે આવા મેળા આપણી પોતાની ઓળખ છે, એટલે એને સાચવવા જોઈએ.",
+      "explanation": "આ બાળકના પોતાના અનુભવનું લખાણ છે, એટલે દરેકનું જુદું હશે. પણ ઢાંચો પાઠમાંથી જ ઉછીનો લેવો : ક્યાં ને ક્યારે ભરાયો, કોણ કોણ આવ્યું ને કઈ રીતે આવ્યું, ત્યાં શું શું જોયું, હાટમાં શું મળ્યું, ને છેલ્લે તમને શું લાગ્યું. પાઠનું છેલ્લું વાક્ય — 'કો'કવાર સમય કાઢીને આવા લોકમેળા માણવા જોઈએ' — છેલ્લા વાક્યની દિશા બતાવે છે.",
+      "acceptable_alternatives": [
+        "જે બાળક કોઈ મેળામાં ગયું ન હોય તે ટીવી પર કે ઘરના લોકો પાસેથી સાંભળેલા મેળા વિશે લખી શકે, પણ એ વાત લખાણમાં કહી દેવી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 15. This is the composition the whole chapter prepares. Build the ten sentences on the board as points first (ક્યાં – ક્યારે – કોણ – શું જોયું – શું ખરીદ્યું – શું લાગ્યું), then let each child write their own. Children should write about a fair they actually know; do not hand out a famous fair's name for them to copy.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S1.T1", "M2.S5.T8", "M2.S5.T9"]
+    },
+
+    {
+      "exercise_id": "EX49",
+      "exercise_group": "વિદ્યાર્થીઓનાં બે જૂથ બનાવો. પહેલા જૂથને એક શબ્દ બોલવા કહો. બોલેલા શબ્દના છેલ્લા અક્ષર પરથી બીજું જૂથ નવો શબ્દ બોલે.",
+      "skill": "speaking",
+      "prompt_verbatim": "ઉદાહરણ : ગુજરાત - તલવાર - રક્ષાબંધન - ________ - ________ - ________ - ________",
+      "answer": "(એક શક્ય સાંકળ) ગુજરાત - તલવાર - રક્ષાબંધન - નગર - રમત - તળાવ - વરસાદ",
+      "explanation": "રમતનો નિયમ એક જ છે : આગલા શબ્દનો છેલ્લો અક્ષર એ પછીના શબ્દનો પહેલો અક્ષર બને. ગુજરાત → 'ત' → તલવાર → 'ર' → રક્ષાબંધન → 'ન' → નગર → 'ર' → રમત → 'ત' → તળાવ → 'વ' → વરસાદ. બોલાયેલો શબ્દ ફરી ન બોલાય, ને શબ્દ સાચી જોડણીએ લખાવો જોઈએ.",
+      "acceptable_alternatives": [
+        "નદી - દીવો - વરસાદ - દરિયો",
+        "નકશો - શાળા - ળ… ન બને ત્યારે જૂથ પાસ કરે અને બીજું જૂથ નવો શબ્દ મૂકે."
+      ],
+      "values_filled_for_teaching": "ગુજરાત - તલવાર - રક્ષાબંધન - નગર - રમત - તળાવ - વરસાદ",
+      "teacher_note": "Book's block 16, an અંતાક્ષરી group activity — any valid chain is correct, so the four printed blanks have many right fillings. Agree beforehand what counts when a word ends in ળ, ણ or a vowel-final syllable. This block is a pure word game and is recorded in coverage_report.unmapped: no reading scene prepares it.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+
+    {
+      "exercise_id": "EX50",
+      "exercise_group": "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "અમે મિત્રો દાહોદ જિલ્લાના પ્રવાસમાં જઈને આવ્યા.",
+      "answer": "We friends went on a trip to Dahod district and came back.",
+      "explanation": "'પ્રવાસમાં જઈને આવ્યા' એટલે જઈને પાછા ફર્યા — બંને ક્રિયા સાથે આવે છે, એટલે અંગ્રેજીમાં પણ 'went … and came back' રાખવું. 'દાહોદ જિલ્લો' એ પાઠમાં છપાયેલું નામ છે, એટલે અનુવાદમાં પણ એ નામ એમનું એમ રહે.",
+      "acceptable_alternatives": [
+        "My friends and I went on a trip to Dahod district and returned."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 17, sentence 1. The medium of instruction recorded in chapter_id is English, so the model translation is in English — NON-GUJARATI SCRIPT IS EXPECTED IN THE ANSWER FIELD OF EX50–EX54 and is not a script defect (Agent 13, please read it as intended). A school whose children's પ્રથમ ભાષા is Hindi, Marathi, Sindhi or any other language substitutes that language; the task asks for the child's own first language, not for English.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S2.T2"]
+    },
+    {
+      "exercise_id": "EX51",
+      "exercise_group": "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "મેળામાં નાચતા લોકોને જોઈને અમને પણ નાચવાનું મન થયું.",
+      "answer": "Watching the people dancing at the fair, we too felt like dancing.",
+      "explanation": "'મન થયું' એટલે ઇચ્છા થઈ — અંગ્રેજીમાં 'felt like'. 'પણ' શબ્દનો ભાર 'we too'માં સચવાય છે.",
+      "acceptable_alternatives": [
+        "Seeing the people dancing at the fair, we also wanted to dance."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 17, sentence 2. Non-Gujarati script in the answer is expected here — see EX50's note.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S2.T2", "M1.S3.T4"]
+    },
+    {
+      "exercise_id": "EX52",
+      "exercise_group": "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "મનગમતી યુવતી સાથે લગ્ન કરવા માગતા યુવાનો મેળામાં દોડાદોડ કરતા હતા.",
+      "answer": "The young men who wanted to marry the girl of their choice were running about at the fair.",
+      "explanation": "'મનગમતી' એટલે મનને ગમે તેવી — પસંદગીની; અંગ્રેજીમાં 'of their choice'. વાક્ય ભૂતકાળનું છે, ને પાઠ પણ આ રિવાજને 'એક જમાનામાં'નો કહે છે — આજે મેળાનો હેતુ કન્યા પસંદગીનો રહ્યો નથી.",
+      "acceptable_alternatives": [
+        "Young men who wished to marry the girl they liked were rushing about at the fair."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 17, sentence 3. Non-Gujarati script expected — see EX50's note. When this sentence is read out, repeat the chapter's own correction so the past tense is not read as present practice (08_sensitivity.json, M2.S4.T7).",
+      "is_model_answer": true,
+      "covered_by_topics": ["M2.S4.T7"]
+    },
+    {
+      "exercise_id": "EX53",
+      "exercise_group": "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "ગુજરાત રાજ્યની આખી પૂર્વી સીમામાં મોટેભાગે આદિવાસી લોકો રહે છે.",
+      "answer": "Adivasi people live along most of the entire eastern border of Gujarat state.",
+      "explanation": "'સીમા' એટલે હદ, કિનારો; 'મોટેભાગે' એટલે મુખ્યત્વે. પાઠ પણ 'આદિવાસી પ્રજા'ની વાત કરે છે — એ સમુદાયનું પોતાનું નામ છે, એટલે અનુવાદમાં પણ એ નામ એમનું એમ રાખવું, કોઈ સામાન્ય શબ્દ મૂકવો નહિ.",
+      "acceptable_alternatives": [
+        "Adivasi people mostly live all along the eastern boundary of the state of Gujarat."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 17, sentence 4. Non-Gujarati script expected — see EX50's note. Keep the community's own name 'Adivasi' in the translation; a generic substitute such as 'tribal people' is a hard failure (global_content_rules.md §10; genre avoid-list item 7).",
+      "is_model_answer": true,
+      "covered_by_topics": ["M2.S5.T8"]
+    },
+    {
+      "exercise_id": "EX54",
+      "exercise_group": "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "એક જ રાજ્યના જુદા જુદા પ્રદેશોનાં નૃત્યોમાં ઘણી વિવિધતા છે.",
+      "answer": "There is a great deal of variety in the dances of the different regions of a single state.",
+      "explanation": "'એક જ રાજ્ય' પરનો ભાર — 'a single state' — સાચવવો, કારણ કે વાક્યની ગમ્મત એ જ છે કે એક રાજ્યની અંદર જ આટલી વિવિધતા છે. પાઠનું પહેલું વાક્ય પણ કહે છે : 'ગુજરાતના જુદાજુદા પ્રદેશોમાં વાર-તહેવારે મેળા ભરાય છે.'",
+      "acceptable_alternatives": [
+        "The dances of different regions within one and the same state show great variety."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Book's block 17, sentence 5 — the last numbered block of the chapter. Non-Gujarati script expected — see EX50's note.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S1.T1", "M2.S5.T8"]
+    }
+  ],
+
+  "coverage_report": {
+    "blocks_found": [
+      "વાતચીત",
+      "વાક્યના યોગ્ય બે ભાગ જોડીને સાચાં વાક્યો બનાવો.",
+      "વાક્યમાં શબ્દો આડાઅવળા થઈ ગયા છે, તેમને યોગ્ય રીતે ગોઠવીને વાક્યો ફરીથી લખો.",
+      "નીચેના પ્રશ્નોના ઉત્તર લખો.",
+      "કૌંસમાં આપેલા શબ્દો વડે નીચેના સંવાદમાં ખાલી જગ્યા પૂરો.",
+      "નીચેનો સંવાદ પૂર્ણ કરો.",
+      "ઉદાહરણ મુજબ શબ્દો બનાવીને લખો અને બંને શબ્દો પરથી વાક્યો બનાવો.",
+      "ઉદાહરણ મુજબ બીજા પાંચ શબ્દોની યાદી કરો.",
+      "કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરીને ખાલી જગ્યા પૂરો.",
+      "આ પાઠમાં એક સ્થાને ‘સડસડાટ’ શબ્દ વપરાયો છે. સડસડાટ એટલે સપાટાબંધ, ખૂબ ઝડપથી આ પ્રકારના બીજા શબ્દો આપણે બોલતાં, સાંભળતાં કે વાંચતાં હોઈએ છીએ. આવા શબ્દો શોધીને લખો અને તેના આધારે વાક્ય બનાવો.",
+      "ઉદાહરણ મુજબ શબ્દો બનાવીને વાંચો.",
+      "ઉદાહરણ મુજબ બીજા પાંચ શબ્દો લખો અને વાક્યપ્રયોગ કરો.",
+      "નીચે આપેલા શબ્દોના સમાન અર્થવાળા બે-બે શબ્દો કૌંસમાંથી શોધીને લખો.",
+      "નીચે આપેલાં નામો પરથી યોગ્ય વિશેષણ બનાવો.",
+      "‘મેં જોયેલો મેળો’ - વિશે દસેક વાક્યો લખો.",
+      "વિદ્યાર્થીઓનાં બે જૂથ બનાવો. પહેલા જૂથને એક શબ્દ બોલવા કહો. બોલેલા શબ્દના છેલ્લા અક્ષર પરથી બીજું જૂથ નવો શબ્દ બોલે.",
+      "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો."
+    ],
+    "blocks_answered": [
+      "વાતચીત",
+      "વાક્યના યોગ્ય બે ભાગ જોડીને સાચાં વાક્યો બનાવો.",
+      "વાક્યમાં શબ્દો આડાઅવળા થઈ ગયા છે, તેમને યોગ્ય રીતે ગોઠવીને વાક્યો ફરીથી લખો.",
+      "નીચેના પ્રશ્નોના ઉત્તર લખો.",
+      "કૌંસમાં આપેલા શબ્દો વડે નીચેના સંવાદમાં ખાલી જગ્યા પૂરો.",
+      "નીચેનો સંવાદ પૂર્ણ કરો.",
+      "ઉદાહરણ મુજબ શબ્દો બનાવીને લખો અને બંને શબ્દો પરથી વાક્યો બનાવો.",
+      "ઉદાહરણ મુજબ બીજા પાંચ શબ્દોની યાદી કરો.",
+      "કૌંસમાં આપેલા શબ્દોનો ઉપયોગ કરીને ખાલી જગ્યા પૂરો.",
+      "આ પાઠમાં એક સ્થાને ‘સડસડાટ’ શબ્દ વપરાયો છે. સડસડાટ એટલે સપાટાબંધ, ખૂબ ઝડપથી આ પ્રકારના બીજા શબ્દો આપણે બોલતાં, સાંભળતાં કે વાંચતાં હોઈએ છીએ. આવા શબ્દો શોધીને લખો અને તેના આધારે વાક્ય બનાવો.",
+      "ઉદાહરણ મુજબ શબ્દો બનાવીને વાંચો.",
+      "ઉદાહરણ મુજબ બીજા પાંચ શબ્દો લખો અને વાક્યપ્રયોગ કરો.",
+      "નીચે આપેલા શબ્દોના સમાન અર્થવાળા બે-બે શબ્દો કૌંસમાંથી શોધીને લખો.",
+      "નીચે આપેલાં નામો પરથી યોગ્ય વિશેષણ બનાવો.",
+      "‘મેં જોયેલો મેળો’ - વિશે દસેક વાક્યો લખો.",
+      "વિદ્યાર્થીઓનાં બે જૂથ બનાવો. પહેલા જૂથને એક શબ્દ બોલવા કહો. બોલેલા શબ્દના છેલ્લા અક્ષર પરથી બીજું જૂથ નવો શબ્દ બોલે.",
+      "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો."
+    ],
+    "unanswered": [],
+    "unmapped": [
+      {
+        "exercise_ids": ["EX38", "EX39", "EX40", "EX41", "EX42"],
+        "exercise_group": "નીચે આપેલા શબ્દોના સમાન અર્થવાળા બે-બે શબ્દો કૌંસમાંથી શોધીને લખો.",
+        "reason": "None of this block's words occurs anywhere in the chapter's reading text: neither the five prompt words (દિલ, શ્રદ્ધા, કાળ, મૃત્યુ, સૂર્ય) nor any of the ten bank words (રવિ, મન, મરણ, વખત, વિશ્વાસ, મોત, સમય, આસ્થા, ચિત્ત, ભાસ્કર) appears in any original_chunk or in the chapter's printed શબ્દાર્થ box. It is a general સમાનાર્થી battery, so no reading scene prepares it. Reported rather than mapped (agents/10_exercise_solutions.md rule 6)."
+      },
+      {
+        "exercise_ids": ["EX44", "EX45", "EX46", "EX47"],
+        "exercise_group": "નીચે આપેલાં નામો પરથી યોગ્ય વિશેષણ બનાવો.",
+        "reason": "મહેનત, દયા, આળસ, ભારત (and the printed example જંગલ) occur nowhere in this chapter's reading text or its શબ્દાર્થ box. Only the fifth item of the block, ગુજરાત → ગુજરાતી (EX43), has a printed anchor — 'ગુજરાતના જુદાજુદા પ્રદેશોમાં વાર-તહેવારે મેળા ભરાય છે' — and is mapped to M1.S1.T1. The remaining four are a general derivation drill."
+      },
+      {
+        "exercise_ids": ["EX49"],
+        "exercise_group": "વિદ્યાર્થીઓનાં બે જૂથ બનાવો. પહેલા જૂથને એક શબ્દ બોલવા કહો. બોલેલા શબ્દના છેલ્લા અક્ષર પરથી બીજું જૂથ નવો શબ્દ બોલે.",
+        "reason": "An અંતાક્ષરી group word-game. Its rule is about the last અક્ષર of any Gujarati word and its chain can be built without the chapter at all; the printed example word ગુજરાત is incidental. No reading scene prepares it, so it is reported rather than given an invented mapping."
+      }
+    ],
+    "_note": "blocks_found lists all seventeen entries of 01_meta.json.exercise_inventory, verbatim and in printed order; blocks_answered matches it entry for entry and unanswered is empty. Std 6 prints no સ્વાધ્યાય banner — the numbered pink headings under the શબ્દાર્થ box ARE the blocks. Two pieces of printed matter are deliberately NOT answered here, in agreement with the inventory and with profiles/genres/mahitiprad_gadya.md: the blue પ્રવેશપેટી on folio 79, and the un-numbered '● જોડો :' picture-matching box on folio 84, which is printed BELOW the pink end-dot that closes the numbered સ્વાધ્યાય list and carries no printed ornament names on the page (appended matter, not an exercise). Fifty-four exercise entries cover all seventeen blocks; blocks whose items are one continuous text (the cloze paragraph, the dialogue, the -ો/-ી grid) are answered as one entry each with every blank filled in values_filled_for_teaching."
+  }
+}

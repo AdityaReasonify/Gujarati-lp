@@ -1,0 +1,437 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati7_ch8",
+  "plan_id": "gseb_eng_gujarati7_ch8_v1",
+  "grade": 7,
+  "chapter_name": "સાદ વરત્યો",
+  "genre": "varta",
+  "genre_subform": "લોકકથા",
+  "active_genre_profiles": [
+    "varta.md"
+  ],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "દુશ્મનના ડાયરામાં હથિયાર વગર, મોઢું ઢાંકીને બેઠેલા જોગીદાસનો સાદ ઓળખાય છે તે ક્ષણ વાર્તાને કઈ દિશામાં વાળી દે છે ?",
+  "explanation_unit": "એક ઘટના",
+  "cut_summary": {
+    "reading_markers_in_normalized": [
+      "[[ઘટના: શોકના સમાચાર ડુંગરામાં પહોંચે છે]]",
+      "[[ઘટના: શિહોર-ભાવનગરનો કળેળાટ અને બહારવટિયાઓનું સનાન]]",
+      "[[ઘટના: ખરખરે જવાનો નિર્ણય અને છાનામાના જવાનો મનસૂબો]]",
+      "[[ઘટના: કુંડલાના ડાયરા સાથે શિહોરના દરબારગઢમાં પ્રવેશ]]",
+      "[[ઘટના: સાદ વરતાય છે — વાર્તાનો વળાંક]]",
+      "[[ઘટના: તલવારો ખેંચાય છે અને વજેસંગ રાજપૂતોને વારે છે]]",
+      "[[ઘટના: રામરામ કરીને જોગીદાસની વિદાય અને લોકોનો અહોભાવ]]"
+    ],
+    "reading_markers_count": 7,
+    "topics": 7,
+    "segments": 5,
+    "modules": 3,
+    "concepts": 10,
+    "objectives": 7,
+    "non_topic_markers": [
+      "[[પૃષ્ઠ 50]] … [[પૃષ્ઠ 56]] — page furniture",
+      "શીર્ષક-પટ્ટી '8 સાદ વરત્યો' + લેખક-નામ '- ઝવેરચંદ મેઘાણી' (QR બૅજ સહિત) — header furniture",
+      "[[પ્રવેશપેટી — શિક્ષક માટેની વાદળી પેટી; પાઠનું વાચન-લખાણ નથી]]",
+      "[[ચિત્ર: ઘોડેસવારો અને પાઘડીધારી પુરુષનું જળરંગ ચિત્ર — પૃષ્ઠ 50]]",
+      "[[ચિત્ર: દરબારગઢની ડેલી પાસે હારમાં બેઠેલા શોકગ્રસ્ત મહેમાનો — પૃષ્ઠ 51]]",
+      "[[શબ્દાર્થ — પાઠ પછીની પેટી, પૃષ્ઠ 52]]",
+      "[[રૂઢિપ્રયોગ — શબ્દાર્થ પેટી નીચેની પેટી, પૃષ્ઠ 53]]",
+      "[[સ્વાધ્યાય: …]] × 14 (છપાયેલા ક્રમાંક 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15)",
+      "[[પાઠાંતે વ્યાકરણ-ખાનું — બૅનર 'ક્રિયાવિશેષણ', પૃષ્ઠ 56]]"
+    ],
+    "tek_occurrences": 0,
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "જોગીદાસ પોતાના બાપ હાદા ખુમાણને ડુંગરામાં કયા સમાચાર સંભળાવે છે અને દાદભાનું મરણ કેવી રીતે થયું તે પાઠની પંક્તિઓમાંથી શોધીને કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શિહોર-ભાવનગરમાં થતા કળેળાટનું વર્ણન વાંચીને, દુશ્મનના દીકરાનું સનાન બહારવટિયાઓએ કેમ લીધું તે હાદા ખુમાણના પોતાના વેણમાંથી સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2",
+        "M1.S1.T2.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "હાદા ખુમાણને ખરખરે જવામાં કયું જોખમ દેખાયું અને છતાં એમણે જવાની હા કેમ પાડી તે એમના મનમાં ચાલતા વિચારોમાંથી તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કુંડલાના ડાયરા સાથે માથે પછેડી ઢાંકીને જોગીદાસ દરબારગઢની ડેલી સુધી કેમ પહોંચી શક્યા તે પાઠના શબ્દોના આધારે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પાંચસો જણ વચ્ચે ઢાંકેલા મોઢે બેઠેલા જોગીદાસને વજેસંગ મહારાજે શાના પરથી ઓળખ્યા, અને એ ક્ષણ પછી વાર્તા કઈ દિશામાં વળે છે તે તપાસવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C6",
+        "M2.S3.T5.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "તલવારોની મૂઠે સહુના હાથ ગયા ત્યારે વજેસંગ મહારાજે રાજપૂતોને કયા વેણથી વાર્યા અને એ વેણમાં જોગીદાસ વિશે શું કહેવાયું તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T6",
+      "anchor": [
+        "M2.S4.T6.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બહારવટિયાને દૈત્ય માનનારા શિહોરના લોકોએ જુવાન જોગીદાસને જોઈને શું અનુભવ્યું અને એમનું છેલ્લું વેણ એ ફેરફારને કેવી રીતે બતાવે છે તે તપાસવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T7",
+      "anchor": [
+        "M3.S5.T7.C9",
+        "M3.S5.T7.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "શોકના સમાચાર અને ખાનદાનીનો મનસૂબો",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "મીતીઆળાના ડુંગરામાં આવેલા સમાચાર",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "ડુંગરામાં પહોંચેલા શોકના સમાચાર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: શોકના સમાચાર ડુંગરામાં પહોંચે છે]]"
+              ],
+              "source_lines_00_normalized": "21-33",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "બહારવટે રઝળતા દીકરાએ આણેલા મરણના સમાચાર",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "શિહોરનો કળેળાટ અને બહારવટિયાઓનું સનાન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: શિહોર-ભાવનગરનો કળેળાટ અને બહારવટિયાઓનું સનાન]]"
+              ],
+              "source_lines_00_normalized": "41-47",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "ઘરેઘર થતો છાતીફાટ કળેળાટ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S1.T2.C3",
+                  "concept_name": "દુશ્મનના મરણનું સનાન લેવાનો લોકાચાર",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "હાદા ખુમાણનો નિર્ણય",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "ખરખરે જવાનો ખાનદાન નિર્ણય",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: ખરખરે જવાનો નિર્ણય અને છાનામાના જવાનો મનસૂબો]]"
+              ],
+              "source_lines_00_normalized": "51-59",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C4",
+                  "concept_name": "જોખમ અને ખાનદાની વચ્ચે તોળાતો બાપનો નિર્ણય",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "ઢાંકેલા મોઢે ડાયરામાં અને વરતાયેલો સાદ",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "શિહોરના દરબારગઢની ડેલી પાસે",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "ડાયરામાં ભળી ગયેલો બહારવટિયો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "easy",
+              "depends_on": [
+                "M1.S2.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: કુંડલાના ડાયરા સાથે શિહોરના દરબારગઢમાં પ્રવેશ]]"
+              ],
+              "source_lines_00_normalized": "63-65",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C5",
+                  "concept_name": "પાંચસો જણના સમુદાયમાં ઢંકાયેલી ઓળખ",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "ઢાંકેલા મોઢે વરતાયેલો સાદ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: સાદ વરતાય છે — વાર્તાનો વળાંક]]"
+              ],
+              "source_lines_00_normalized": "69, 75-79",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C6",
+                  "concept_name": "માથે હાથ મૂકતાં નામ પડવાની ક્ષણ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T5.C7",
+                  "concept_name": "હાકોટા અને વિલાપ પરથી પરખાતું ગળું",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "તલવારો સામે ઠાકોરનું વેણ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T6",
+              "topic_name": "ખેંચાયેલી તલવારો અને ઠાકોરનો ઊંચો હાથ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T5"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: તલવારો ખેંચાય છે અને વજેસંગ રાજપૂતોને વારે છે]]"
+              ],
+              "source_lines_00_normalized": "83-87",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T6.C8",
+                  "concept_name": "દુઃખમાં ભાગ લેવા આવેલા મહેમાન તરીકેની ઓળખાણ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "વિદાય અને લોકોના મનમાં બદલાયેલો બહારવટિયો",
+      "segments": [
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "બજારે ઊમટેલી મેદની",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T7",
+              "topic_name": "શિહોરની બજારે અહોભાવની નજર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: રામરામ કરીને જોગીદાસની વિદાય અને લોકોનો અહોભાવ]]"
+              ],
+              "source_lines_00_normalized": "91-103",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T7.C9",
+                  "concept_name": "રામરામ કરીને નીચી નજરે નીકળી જવું",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S5.T7.C10",
+                  "concept_name": "દૈત્યની કલ્પના સામે દેખાયેલું જતિસ્વરૂપ",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "not_cut_as_topics": [
+    "શીર્ષક-પટ્ટી '8 સાદ વરત્યો' અને એની નીચેની લેખક-લીટી '- ઝવેરચંદ મેઘાણી', તથા શીર્ષક-લીટી પરનો QR બૅજ (W9C8Y4) — છપાયેલી હેડર-સામગ્રી, વાચનદૃશ્ય નહીં (reference/explanation_unit_map.md, 'Header furniture is not text'). લેખક-લીટી શીર્ષકની નીચે છપાયેલી છે, પાઠના અંતે નહીં, એટલે એ કોઈ ટૉપિકના original_chunkમાં જતી નથી — Agent 5 માટેની નોંધ.",
+    "[[પ્રવેશપેટી]] — શિક્ષક-સંબોધિત વાદળી પેટી (પૃષ્ઠ 50). પાના પરનો સૌથી મજબૂત સ્વરૂપ-સંકેત છે ('તેમણે શૌર્ય અને સ્વાર્પણની લોકકથાઓ પણ આપી છે. તેમાંની જ આ એક કથા છે.') અને એ જ પેટી તળપદા શબ્દો શીખવવાનો આદેશ આપે છે, પણ એ apparatus છે : એ key_terms અને ભાષા-બોધને ખવડાવે છે, ટૉપિક કદી બનતી નથી. એની સૂચનાઓ કોઈ explanationના અંતે બોધ બનીને ન મુકાય (varta.md avoid-gate 2).",
+    "[[શબ્દાર્થ]] પેટી (પૃષ્ઠ 52), 25 શીર્ષ-શબ્દો — સાદ, વરત્યો, બહારવટિયો, શોક, ગુજરી જવું, કોપ, છાતીફાટ રડવું, કળેળાટ, સનાન, ફાળિયું, ખરખરો, લગરીક, છતરાયું, ભે, ગૂડો, જણ, ધાસ્તી, બાઝવું, જતિ, સાંતીડું, ઢાંઢા, વેણ, મનસૂબો, પાસવાન, આપા. Apparatus : key_terms અને point-of-use gloss માટે, ટૉપિક નહીં.",
+    "[[રૂઢિપ્રયોગ]] પેટી (પૃષ્ઠ 53), ચાર રૂઢિપ્રયોગ — માથું ફાટવું, દમ નીકળી જવો, માથે વીજળી પડવી, વજ પડવું. Apparatus. ચારેય પાઠના જ વાક્યોમાંથી આવે છે (પૃષ્ઠ 50 અને 52), એટલે એ પહેલા વપરાશના સ્થળે glossing માટે પ્રથમ પસંદગી છે — પણ ટૉપિક નહીં.",
+    "બે [[ચિત્ર]] માર્કર (પૃષ્ઠ 50 અને 51) — કૅપ્શન વગરનાં પાઠ-દૃશ્યોનાં ચિત્રો. ટૉપિક નહીં; Agent 9 માટે દૃશ્ય-પુરાવો. પૃષ્ઠ 51નું ચિત્ર M2.S3.T5ના છપાયેલા લખાણ વચ્ચે આવે છે — ત્યાં કાપ ન મૂકવો (નીચેની નોંધ જુઓ).",
+    "ચૌદ ક્રમાંકિત સ્વાધ્યાય બ્લૉક (વાતચીત … કૌંસમાં આપેલા શબ્દોથી ખાલી જગ્યા પૂરી ફકરાનું વાચન કરો.) 01_meta.jsonના exercise_inventoryમાં જ રહે છે અને એ Agent 10નું જ કામ છે. બ્લૉક 2 ('જોડકાં જોડો.')માં પાઠનાં જ અવતરણો ફરી છપાયાં છે — એ સ્વાધ્યાય-લખાણ છે, વાર્તાનું બીજું વાચન નથી, અને એને કોઈ ટૉપિકના કાપમાં ભેળવ્યું નથી.",
+    "પાઠાંતે લીલું વ્યાકરણ-ખાનું, બૅનર 'ક્રિયાવિશેષણ' (પૃષ્ઠ 56) — રીત, કારણ, સ્થાન, સમયના ક્રિયાવિશેષણ પરનું આખું શિક્ષણ-ગદ્ય. Apparatus / ભાષા-બોધ અને Agent 10ની સામગ્રી; વાચનદૃશ્ય નહીં, ટૉપિક નહીં."
+  ],
+  "notes": [
+    "Cut by the સ્વરૂપ's own unit, not by habit. 01_meta.json sets explanation_unit 'એક ઘટના' અને varta.md કહે છે 'One plot beat per topic … follow the story's turns, not paragraph counts'. The rendered page agrees with agents/02_structure.md's prior row for વાર્તા — ગદ્ય, નામવાળાં પાત્રો, ઘટના-સાંકળ, વળાંક, પરિણામ. No disagreement with the profile prior to report.",
+    "Marker count vs topic count is 1:1 and nothing was swallowed or invented. 00_chapter_normalized.md carries exactly SEVEN reading-scene markers, all [[ઘટના: …]], and this file carries seven topics, one per marker. 01_meta.json's structure_inventory.ghatna = 7 matches. There are no [[સંવાદ]] markers in this chapter: the speech sits inside the narrative paragraphs in ''…'' with narrator ties, which is exactly why Agent 1 routed the chapter to varta.md rather than natak_ekanki.md / samvad_nibandh.md.",
+    "લોકકથા is a SUB-FORM of varta, not a profile of its own (varta.md §'Index constraint', teaching_lens_map.md §Roster note). The book's own label — 'શૌર્ય અને સ્વાર્પણની લોકકથાઓ… તેમાંની જ આ એક કથા છે' — therefore changes the Language and Media priors (Saurashtra oral register, glossed and never standardised) but NOT the cut: 'A લોકકથા is cut by ઘટના exactly as a ટૂંકીવાર્તા is.' root genre is written as the slug 'varta'; 01_meta.json's Gujarati label લોકકથા is preserved as the sub-form.",
+    "topic_category 'climax' sits on M2.S3.T5 because that is where 01_meta.json records the વળાંક and where the page marks it: ''છાના રો', જોગીદાસ ખુમાણ! તમે છાના રો'' … ''ભલો વરત્યો રાજ !''. From that sentence the enemy stops being an enemy. NOTE FOR AGENTS 12/13 — varta.md avoid-gate 4 (no topic before the climax names the outcome) therefore binds M1.S1.T1, M1.S1.T2, M1.S2.T3 and M2.S3.T4: none of their explanation / summary / recall text may say that જોગીદાસ is recognised, that the તલવારો are drawn, or that વજેસંગ protects him. The topic names above were written to keep that gate intact.",
+    "AGENT 5 NOTE — M2.S3.T5's printed text is INTERRUPTED by an illustration and a page break. Its verbatim runs line 69 ('ચાલતાં ચાલતાં … તમે છાના રો''), then skips the [[ચિત્ર]] marker (line 71) and the [[પૃષ્ઠ 52]] marker (line 73), and resumes at lines 75-79 ('જોગીદાસ ખુમાણ' એટલું નામ પડતાં … 'તો પછી તારા વિલાપ કેમ ન વરતાય ?''). It is ONE ઘટના — the naming and the reply 'ભલો વરત્યો રાજ !' are the same beat — so do not cut at the picture or at the page turn. Agent 1 also records that the speech at line 69 ends mid-utterance as printed ('તમે છાના રો''); transcribe as printed, do not close the quotation.",
+    "A pre-topic hook belongs to the NEXT topic (explanation_unit_map.md rule 2). Line 45 ends with જોગીદાસ's ''બાપુ ! એક વાત પૂછું ?'' and line 47 with હાદા ખુમાણ's ''ભલે બાપ !'' — both close M1.S1.T2, because they are the સનાન scene's own tail. The actual question, line 51 ''આપણે મહારાજના મોઢા સુધી ખરખરે ન જઈ આવવું જોવે ?'', OPENS M1.S2.T3: it is the proposal the whole decision-beat turns on, not the tail of the bathing beat.",
+    "Modules are the story's three large movements, not a size split. M1 holds the news reaching the hills and the decision it forces; M2 holds everything inside the દરબારગઢ — the concealed entry, the recognition, and the drawn swords; M3 holds the departure and what the town's people are left seeing. Segment and topic counters run across the whole chapter and never restart (M1.S1 → M1.S2 → M2.S3 → M2.S4 → M3.S5; T1 → T7). The concept counter is chapter-continuous (C1 → C10), so it does not equal the topic number wherever a topic carries two concepts.",
+    "Two-concept topics, and why they are two and not one. M1.S1.T2 does two separable things — it describes the town's grief AND it shows the outlaws taking the dead enemy's સનાન on themselves. M2.S3.T5 does two — the naming itself, and વજેસંગ's reason for knowing the voice ('પાંચસો આદમી વચ્ચે તારા હાકોટા પરખાય'). M3.S5.T7 does two — the silent departure, and the crowd's changed picture of what a બહારવટિયો is. Every other topic carries one.",
+    "difficulty is relative INSIDE this chapter and is set by what stops a std-7 L2 reader on the page (agents/02_structure.md §5; profiles/students/std-7.md §1). The three `hard` topics are the તળપદા-dense ones: M1.S1.T2 (સનાન, કળેળાટ, છાતીફાટ, દેઈ પડે, કે'વાય, ના'વું — an unfamiliar mourning-custom world), M1.S2.T3 (the longest single paragraph in the chapter, carrying ખોફ, મોલની માફક વાઢતા, છતરાયા, ભે, પાસવાન, લૌકિક, ગૂડો), and M3.S5.T7 (સાંતીડે ટીંગાડતો, ધડનાં ધીસરાં, ઢાંઢા, ઘટાટોપ મેદની, જતિસ્વરૂપ). M2.S3.T4 is `easy` — plain past-tense narration with one hard word. Craft never sets difficulty at this standard, and difficulty is not a Bloom cap.",
+    "depends_on records real dependence only, so four topics carry []. M2.S3.T4 depends on M1.S2.T3 because the covered head is the execution of the plan હાદા ખુમાણ lays down there; M2.S3.T5 depends on M2.S3.T4 because a recognition only means something once the face is hidden; M2.S4.T6 depends on M2.S3.T5 because the swords come out of the spoken name.",
+    "Objectives — one per reading scene, seven in all, each anchored on the concept(s) that teach it, all on the single strand L / ભાષા અને સાહિત્ય. Each is written from THIS chapter's printed lines (the સનાન, the 'જાયેં ભલે', the પછેડી, the હાકોટા, the closing વેણ) and would fit no other chapter in the book. The CRAFT-LABEL CEILING is respected: no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text — std 7 experiences the form and never names it (profiles/students/std-7.md §2, 'Genre gate for std 6–8'). bloom_level is Capitalised here and runs Remember → Understand → Analyze; the ceiling is held by the two Analyze objectives, O3 on the father's weighing of risk and O5 on the વળાંક itself, which is where varta.md's recall prior also puts the analyze rung.",
+    "Every objective serves the chapter's teaching_lens 'ઘટના + પાત્ર + વળાંક' (reference/teaching_lens_map.md): O1/O4 on what happens, O2/O3/O6 on why a character chooses as he does, O5 on the turn, O7 on what the turn leaves behind.",
+    "No સ્વાધ્યાય block, no apparatus box and no page furniture was cut as a topic — the full list is in not_cut_as_topics. Agent 1's PRINTED NUMBERING DEFECT stands and is not this agent's to fix: the printed blocks run 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 with no block 4 anywhere on the render. Nothing in this cut depends on that numbering.",
+    "No page render was opened for this cut. 00_chapter_normalized.md carried every marker, every line break and every layout note (the two [[ચિત્ર]] positions, the page turn inside M2.S3.T5) that the boundaries needed.",
+    "Uneven topic length, carried as an honest note rather than fixed by splitting: M2.S3.T4 is two printed sentences while M3.S5.T7 runs seven paragraphs. The unit is the ઘટના, not a word count — T4 is one clean beat (the concealed entry) and T7 is one long consequence beat (the departure through the crowd). Splitting T7 would produce two half-beats with no arc of their own, and merging T4 into T5 would put the concealment and the recognition in the same topic and destroy the turn."
+  ]
+}

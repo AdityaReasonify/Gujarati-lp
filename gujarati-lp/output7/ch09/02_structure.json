@@ -1,0 +1,518 @@
+{
+ "agent": "02_structure",
+ "chapter_id": "gseb_eng_gujarati7_ch9",
+ "plan_id": "gseb_eng_gujarati7_ch9_v1",
+ "chapter_name": "અલ્લક દલ્લક",
+ "grade": 7,
+ "genre": "urmikavya_geet",
+ "teaching_lens": "ચિત્ર + ભાવ + લય",
+ "guiding_question": "અલ્લક, ઝલ્લક, ઢમ્મક, છલ્લક જેવા રણકતા શબ્દો દ્વારા કવિ જમનાકાંઠાની રાસની રાત આપણી નજર અને કાન સામે કઈ રીતે ઊભી કરે છે ?",
+ "explanation_unit": "એક કડી",
+ "objectives": [
+  {
+   "objective_id": "O1",
+   "legacy_id": "L1",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "કાવ્યના મથાળે છપાયેલું કવિનું નામ અને શીર્ષકના રણકતા શબ્દો વાંચીને, આ ગીત કઈ રાતનું અને કોના વિશેનું હશે તે અનુમાનથી કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S1.T1",
+   "anchor": [
+    "M1.S1.T1.C1"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O2",
+   "legacy_id": "L2",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ટેકની પંક્તિઓમાં ઝાંઝર, જમનાનો મલક અને રાધાનું ઝળકતું મુખડું — આ ત્રણ ચિત્રો શોધીને, ઝલ્લક ઝલ્લક શબ્દ સાંભળતાં કેવું દૃશ્ય દેખાય તે કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S2.T2",
+   "anchor": [
+    "M1.S2.T2.C2"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O3",
+   "legacy_id": "L3",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "પૂનમનો ચાંદ, ચગેલો રાસ અને ઢમ્મક ઢમ્મક વાગતું ઢોલક — આ પંક્તિઓમાં શું આંખે દેખાય છે અને શું કાને સંભળાય છે તે અલગ પાડીને કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M1.S2.T3",
+   "anchor": [
+    "M1.S2.T3.C3"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O4",
+   "legacy_id": "L4",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "રાધિકાનો હાર તૂટતાં શું શું બન્યું તે ક્રમમાં કહીને, બધાં મોતી જડ્યાં છતાં એ કેમ રડે છે તે પંક્તિમાંથી સમજાવવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S3.T4",
+   "anchor": [
+    "M2.S3.T4.C4"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O5",
+   "legacy_id": "L5",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'લીધું હોય તો આલને કાના' પંક્તિ કોણ, કોને અને કયા સૂરમાં કહે છે તે નક્કી કરીને, ચરિતર છાનાં નથી કહેવા પાછળનો ભાવ કહેવો.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S3.T5",
+   "anchor": [
+    "M2.S3.T5.C5"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O6",
+   "legacy_id": "L6",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "કાનાને રીસ ચડ્યા પછી એ ક્યાં જઈને શું કરે છે તે પંક્તિઓમાંથી શોધીને, બંસીના અલ્લપ ઝલ્લપ સૂરથી કદંબ નીચેનું વાતાવરણ કેવું બદલાય છે તે કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S4.T6",
+   "anchor": [
+    "M2.S4.T6.C6"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O7",
+   "legacy_id": "L7",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "રાધા અધીરા ચિત્તે દોડે છે એ પંક્તિ સાથે ઉર તણાયે પલ્લક પલ્લક જોડીને, સૂર સાંભળીને મન ખેંચાવું એટલે શું તે પોતાના શબ્દોમાં કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S5.T7",
+   "anchor": [
+    "M2.S5.T7.C7"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O8",
+   "legacy_id": "L8",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ગીતના આરંભની અને અંતની ટેક-પંક્તિઓ સામસામે મૂકીને શબ્દોમાં શું સરખું રહ્યું તે તપાસવું, અને ફરી એ જ રણકે ગીત પૂરું થવાથી ગાવામાં શી મજા આવે તે કહેવું.",
+   "bloom_level": "Evaluate",
+   "home_topic_id": "M2.S5.T8",
+   "anchor": [
+    "M2.S5.T8.C8"
+   ],
+   "status": "taught",
+   "theme_category": null
+  }
+ ],
+ "strand_to_objective_map": {
+  "L1": "O1",
+  "L2": "O2",
+  "L3": "O3",
+  "L4": "O4",
+  "L5": "O5",
+  "L6": "O6",
+  "L7": "O7",
+  "L8": "O8"
+ },
+ "modules": [
+  {
+   "module_id": "M1",
+   "module_name": "જમનાકાંઠે ચાંદનીની રાત",
+   "segments": [
+    {
+     "segment_id": "M1.S1",
+     "segment_name": "ગીતનો પ્રવેશ",
+     "topics": [
+      {
+       "topic_id": "M1.S1.T1",
+       "topic_name": "કવિ બાલમુકુન્દ દવે અને રાસની રાત",
+       "topic_type": "CONCEPT",
+       "topic_category": "introduction",
+       "difficulty": "easy",
+       "depends_on": [],
+       "objective_ids": [
+        "O1"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O1",
+         "legacy_id": "L1",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "કાવ્યના મથાળે છપાયેલું કવિનું નામ અને શીર્ષકના રણકતા શબ્દો વાંચીને, આ ગીત કઈ રાતનું અને કોના વિશેનું હશે તે અનુમાનથી કહેવું.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M1.S1.T1",
+         "anchor": [
+          "M1.S1.T1.C1"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T1.C1",
+         "concept_name": "ગીતના કવિ અને ગીતનો મિજાજ",
+         "objective_id": "O1",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M1.S2",
+     "segment_name": "ઝાંઝરના રણકે ઊઘડતી રાત",
+     "topics": [
+      {
+       "topic_id": "M1.S2.T2",
+       "topic_name": "જમનાનો રઢિયાળો મલક અને રાધાનું મુખડું",
+       "topic_type": "POEM",
+       "topic_category": "introduction",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O2"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O2",
+         "legacy_id": "L2",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "ટેકની પંક્તિઓમાં ઝાંઝર, જમનાનો મલક અને રાધાનું ઝળકતું મુખડું — આ ત્રણ ચિત્રો શોધીને, ઝલ્લક ઝલ્લક શબ્દ સાંભળતાં કેવું દૃશ્ય દેખાય તે કહેવું.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M1.S2.T2",
+         "anchor": [
+          "M1.S2.T2.C2"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T2.C2",
+         "concept_name": "રણકતા શબ્દોથી ઊભું થતું જમનાકાંઠાનું ચિત્ર",
+         "objective_id": "O2",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      },
+      {
+       "topic_id": "M1.S2.T3",
+       "topic_name": "પૂનમનો ચાંદ અને ચગેલો રાસ",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "easy",
+       "depends_on": [],
+       "objective_ids": [
+        "O3"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O3",
+         "legacy_id": "L3",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "પૂનમનો ચાંદ, ચગેલો રાસ અને ઢમ્મક ઢમ્મક વાગતું ઢોલક — આ પંક્તિઓમાં શું આંખે દેખાય છે અને શું કાને સંભળાય છે તે અલગ પાડીને કહેવું.",
+         "bloom_level": "Analyze",
+         "home_topic_id": "M1.S2.T3",
+         "anchor": [
+          "M1.S2.T3.C3"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T3.C3",
+         "concept_name": "ચાંદનીમાં ચગતો રાસ અને ઢોલકનો તાલ",
+         "objective_id": "O3",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "M2",
+   "module_name": "તૂટેલા હારથી બંસીના સૂર સુધી",
+   "segments": [
+    {
+     "segment_id": "M2.S3",
+     "segment_name": "તૂટેલો હાર, ખૂટતું મોતી",
+     "topics": [
+      {
+       "topic_id": "M2.S3.T4",
+       "topic_name": "તૂટ્યો હાર, રુએ રાધિકા",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O4"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O4",
+         "legacy_id": "L4",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "રાધિકાનો હાર તૂટતાં શું શું બન્યું તે ક્રમમાં કહીને, બધાં મોતી જડ્યાં છતાં એ કેમ રડે છે તે પંક્તિમાંથી સમજાવવું.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M2.S3.T4",
+         "anchor": [
+          "M2.S3.T4.C4"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M2.S3.T4.C4",
+         "concept_name": "હાર તૂટતાં અને એક મોતી ખૂટતાં જન્મતું રુદન",
+         "objective_id": "O4",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      },
+      {
+       "topic_id": "M2.S3.T5",
+       "topic_name": "આલને કાના, મારું મોતી",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "hard",
+       "depends_on": [
+        "M2.S3.T4"
+       ],
+       "objective_ids": [
+        "O5"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O5",
+         "legacy_id": "L5",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "'લીધું હોય તો આલને કાના' પંક્તિ કોણ, કોને અને કયા સૂરમાં કહે છે તે નક્કી કરીને, ચરિતર છાનાં નથી કહેવા પાછળનો ભાવ કહેવો.",
+         "bloom_level": "Analyze",
+         "home_topic_id": "M2.S3.T5",
+         "anchor": [
+          "M2.S3.T5.C5"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M2.S3.T5.C5",
+         "concept_name": "રાધાની ઉક્તિ — માગણી અને મીઠો આરોપ",
+         "objective_id": "O5",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M2.S4",
+     "segment_name": "કાનાની રીસ અને કદંબની છાયા",
+     "topics": [
+      {
+       "topic_id": "M2.S4.T6",
+       "topic_name": "રીસ ચડી, કદંબ નીચે બંસી",
+       "topic_type": "POEM",
+       "topic_category": "climax",
+       "difficulty": "hard",
+       "depends_on": [
+        "M2.S3.T5"
+       ],
+       "objective_ids": [
+        "O6"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O6",
+         "legacy_id": "L6",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "કાનાને રીસ ચડ્યા પછી એ ક્યાં જઈને શું કરે છે તે પંક્તિઓમાંથી શોધીને, બંસીના અલ્લપ ઝલ્લપ સૂરથી કદંબ નીચેનું વાતાવરણ કેવું બદલાય છે તે કહેવું.",
+         "bloom_level": "Analyze",
+         "home_topic_id": "M2.S4.T6",
+         "anchor": [
+          "M2.S4.T6.C6"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M2.S4.T6.C6",
+         "concept_name": "રીસમાં દોડી જતો કાનો અને દૂરથી સંભળાતી બંસી",
+         "objective_id": "O6",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M2.S5",
+     "segment_name": "સૂરમાં ભળતું ઉર",
+     "topics": [
+      {
+       "topic_id": "M2.S5.T7",
+       "topic_name": "અધીરે ચિત્તે દોડતી રાધા",
+       "topic_type": "POEM",
+       "topic_category": "resolution",
+       "difficulty": "medium",
+       "depends_on": [
+        "M2.S4.T6"
+       ],
+       "objective_ids": [
+        "O7"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O7",
+         "legacy_id": "L7",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "રાધા અધીરા ચિત્તે દોડે છે એ પંક્તિ સાથે ઉર તણાયે પલ્લક પલ્લક જોડીને, સૂર સાંભળીને મન ખેંચાવું એટલે શું તે પોતાના શબ્દોમાં કહેવું.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M2.S5.T7",
+         "anchor": [
+          "M2.S5.T7.C7"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M2.S5.T7.C7",
+         "concept_name": "અધીરું ચિત્ત અને સૂરમાં તણાતું ઉર",
+         "objective_id": "O7",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      },
+      {
+       "topic_id": "M2.S5.T8",
+       "topic_name": "ફરી ઝળકે એ જ મુખડું",
+       "topic_type": "POEM",
+       "topic_category": "resolution",
+       "difficulty": "easy",
+       "depends_on": [
+        "M1.S2.T2"
+       ],
+       "objective_ids": [
+        "O8"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O8",
+         "legacy_id": "L8",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "ગીતના આરંભની અને અંતની ટેક-પંક્તિઓ સામસામે મૂકીને શબ્દોમાં શું સરખું રહ્યું તે તપાસવું, અને ફરી એ જ રણકે ગીત પૂરું થવાથી ગાવામાં શી મજા આવે તે કહેવું.",
+         "bloom_level": "Evaluate",
+         "home_topic_id": "M2.S5.T8",
+         "anchor": [
+          "M2.S5.T8.C8"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M2.S5.T8.C8",
+         "concept_name": "ફરી એ જ ટેક — ગીતનું પાછું વળવું",
+         "objective_id": "O8",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "marker_topic_map": {
+  "[[શીર્ષક]]": "M1.S1.T1 (chapter title, carried with the pre-reading topic; not a reading unit of its own)",
+  "[[કવિ-પરિચય]]": "M1.S1.T1",
+  "[[પ્રવેશપેટી]]": "APPARATUS — blue intro box, not a topic; feeds key_terms / ભાષા-બોધ",
+  "[[ટેક]]": "M1.S2.T2",
+  "[[કડી 1]]": "M1.S2.T3",
+  "[[કડી 2]]": "M2.S3.T4",
+  "[[કડી 3]]": "M2.S3.T5",
+  "[[કડી 4]]": "M2.S4.T6",
+  "[[કડી 5]]": "M2.S5.T7",
+  "[[ટેક (પુનરાવર્તન)]]": "M2.S5.T8",
+  "[[શબ્દાર્થ]]": "APPARATUS — not a topic",
+  "[[રૂઢિપ્રયોગ]]": "APPARATUS — not a topic; 'ઉર તણાવું' is glossed at point of use in M2.S5.T7",
+  "[[સ્વાધ્યાય: …]] ×12": "AGENT 10 — exercise_solutions.json; no સ્વાધ્યાય block is a topic"
+ },
+ "notes": [
+  "COUNT DISAGREEMENT WITH THE PROFILE PRIOR, resolved for the page. profiles/genres/urmikavya_geet.md and reference/corpus/std-7_inventory.md both say this chapter prints 'nine printed કડી-units, eight distinct topics'. 00_chapter_normalized.md, transcribed from the renders, shows SEVEN printed four-line units — the ટેક, five કડી, and the ટેક reprinted as the closing unit (six distinct). The page wins (agents/02_structure.md §1), so the cut has 7 reading-scene topics, not 9. Total topics still comes to eight because a pre-reading CONCEPT topic sits in front — the same number by a different route, which should not be read as agreement with the prior.",
+  "ટેક HANDLING. Two [[ટેક]] markers, so two topics (M1.S2.T2, M2.S5.T8) — one marker, one topic. Their wording differs ONLY in punctuation and word-spacing: 'અલ્લક દલ્લક, ઝાંઝરઝલ્લક,' at the opening against 'અલ્લક દલ્લક ઝાંઝર ઝલ્લક,' at the close; lines two to four are identical. Agent 1 records this as words-changed. It is not a semantic change and no new claim is made, so M2.S5.T8's teaching is the RETURN — the song coming back to the sound it started on — and O8 asks the child what stayed the SAME. Agent 12 must not manufacture a change in meaning out of a missing comma.",
+  "M2.S5.T8 carries depends_on ['M1.S2.T2'] — the ring only reads as a ring against the first printing of the ટેક.",
+  "PRE-READING TOPIC. M1.S1.T1 rests on the [[કવિ-પરિચય]] marker, which at std 7 is only the author slot '- બાલમુકુન્દ દવે' printed under the title. It is the thinnest topic in the chapter and is flagged as such. The [[પ્રવેશપેટી]] blue box, the [[શબ્દાર્થ]] box and the [[રૂઢિપ્રયોગ]] box are apparatus and are NOT topics; all twelve numbered સ્વાધ્યાય blocks stay with Agent 10.",
+  "DIFFICULTY is set by what stops a std-7 L2 reader on the page, never by craft. hard = M2.S3.T5 (તળપદાં આલને / ચરિતર / છાનાં, plus an unmarked quoted utterance the child must attribute) and M2.S4.T6 (the જોડાક્ષર-dense ગોપીજનવલ્લભ and કદંબછાયા, a subject that shifts inside the કડી, and the coined અલ્લપ ઝલ્લપ). easy = M1.S1.T1, M1.S2.T3, M2.S5.T8.",
+  "OBJECTIVES observe the std 6–8 craft-label ceiling (profiles/students/std-7.md §1: no અલંકાર / છંદ / સમાસ / genre tag at std 7). ટેક, ચિત્ર, ભાવ, લય and રણકો are used because they are the allowed vocabulary; the echo-words are treated as content the child notices, never as a named device. Bloom is not capped — the ladder reaches Analyze and Evaluate.",
+  "Every objective is tied to the chapter's teaching_lens 'ચિત્ર + ભાવ + લય' and to its guiding_question about the રણકતા શબ્દો, and each names something printed in its own scene, so none of them would fit another chapter.",
+  "original_chunk is empty everywhere — Agent 5's work. Two verbatim cautions for it: the ટેક must be copied exactly as printed at EACH occurrence and never normalised to one form, and the printed punctuation oddities Agent 1 recorded ('બધાં જડ્યાં પણ એક ખૂટે છે.' and 'રીસ ચડી ગોપીજનવલ્લભ.' ending in a full stop, 'રાસ રચ્યો છે અલ્લક દલ્લક' with no terminal mark) are printed content, not transcription slips.",
+  "Segment sizes are uneven (1, 2, 2, 1, 2 topics). M1.S1 holds the pre-reading topic alone and M2.S4 holds the કડી where કાનો takes offence and the બંસી starts — a single movement that belongs with neither neighbour. Recorded, not repaired.",
+  "No PNG was opened. 00_chapter_normalized.md answered every question the cut needed: the seven unit markers, the two ટેક wordings, and the note that the four Krishna–Radha paintings on pp. 57–58 carry no text and that the full-page રાસલીલા picture on p. 61 belongs to an exercise, not to the poem."
+ ]
+}

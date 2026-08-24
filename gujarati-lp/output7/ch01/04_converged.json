@@ -1,0 +1,13 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "a6ad94306f260857f220c898c0d4e0eeb1dfe0665a62ec5f6d49370e2f7e80a8",
+  "verdict": "pass",
+  "notes": [
+    "Convergence record only — the structure payload is NOT duplicated here. Read 02_structure.json for the tree; read this file only to confirm that the tree converged and that its ids are frozen.",
+    "Ids frozen at this pass: M1, M2; M1.S1, M1.S2, M2.S3; M1.S1.T1, M1.S2.T2, M1.S2.T3, M2.S3.T4, M2.S3.T5; concepts C1–C5, chapter-continuous with the concept number equal to the topic number; objectives O1–O5 with legacy_ids L1–L5. Only Agent 14 renumbers the M/S/T/C tree, and O{n} plus strand_to_objective_map are never renumbered.",
+    "All three blocking checks passed on the single pass: સ્વરૂપ fidelity (ઊર્મિકાવ્ય-ગીત, unit એક કડી, four કડી markers against four કડી-carrying topics, identical-refrain ટેક gate satisfied with one ટેક topic and depends_on on the other four), coverage (five printed reading scenes to five topics in printed order, zero of the fourteen સ્વાધ્યાય blocks cut as a topic), and objectives with the phase-2 id contract.",
+    "Non-blocking notes travel in 04_validation.json and are addressed to Agents 5, 7, 12, 13 and 14 — the std-7 figures_of_speech gate against the profile's craft requirement, the sung-લય thinness in the objectives, O5's bloom label, the frozen-but-provisional chapter_id, and the POEM → instructional mapping owed at emit.",
+    "chapter_id 'gseb_eng_gujarati7_ch1' and plan_id 'gseb_eng_gujarati7_ch1_v1' are frozen in PROVISIONAL form pending VERIFY-1; correcting them later changes those two strings only, never the tree."
+  ]
+}

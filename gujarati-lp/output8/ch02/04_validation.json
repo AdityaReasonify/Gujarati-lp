@@ -1,0 +1,60 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati8_ch2",
+  "grade": 8,
+  "chapter_name": "ત્યાગવીર દધીચિ",
+  "genre": "varta",
+  "explanation_unit": "એક ઘટના (વાર્તાનું એક પગલું)",
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "explanation_unit_used": "ઘટના",
+      "kadi": 0,
+      "duha": 0,
+      "pad": 0,
+      "tek_occurrences": 0,
+      "notes": [
+        "01_meta.json names the explanation unit as એક ઘટના (વાર્તાનું એક પગલું) and 02_structure.json cuts on exactly that unit: nine topics, each carrying exactly one [[ઘટના: …]] marker, none merged and none split.",
+        "The કડી / દુહો / પદ / ટેક clauses of this check are not applicable and are not silently skipped: 00_chapter_normalized.md carries zero [[કડી]], [[દુહો]], [[પદ]] and zero ટેક occurrences, and page-1 confirms unbroken prose. 01_meta.json records the same zeros as a measured absence.",
+        "Not a mixed chapter — one સ્વરૂપ (varta, પૌરાણિક કથા sub-form) runs end to end, so the per-part unit rule does not engage.",
+        "varta.md avoid gates hold across the cut and the objectives. Gate 2 (tacked-on બોધ): no objective closes on an abstract moral; O9 restates the book's own printed question (દધીચિને ત્યાગવીર કેમ કહ્યા હશે ?) and asks for it to be answered from the ઋષિ's own printed words. Gate 4 (spoiling the turn): no topic or concept name before the climax topic names the outcome — M2.S2.T3.C5 quotes વિષ્ણુ's own condition as printed at that point in the text, which is not the outcome. Gate 5 (no debunking): nothing in the tree asserts the events did or did not happen. Gate 3: no evaluative label is applied to any character.",
+        "topic_category places climax on M3.S4.T9, the topic holding ''હવે કૃપા કરી વિલંબ ન કરો. મારાં અસ્થિનો સ્વીકાર કરો.'' — the turn 01_meta.json ordered kept whole. It is not split across topics and is not opened early."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 9,
+      "topics": 9,
+      "notes": [
+        "Nine [[ઘટના: …]] markers stand in 00_chapter_normalized.md at lines 30, 35, 38, 41, 44, 47, 50, 53 and 58. Nine topics carry them, one marker each, in printed order T1→T9. Marker set and topic set are equal — no scene dropped, no topic claiming text no marker covers.",
+        "No સ્વાધ્યાય block became a topic. All fifteen exercise_inventory groups in 01_meta.json correspond one-to-one with the fifteen [[સ્વાધ્યાય: …]] markers in 00_chapter_normalized.md, and none of them appears among the nine topic markers or topic names. The two independent passages printed inside the સ્વાધ્યાય (the અગસ્ત્ય comprehension paragraph, the વેત્રવતી/વિદિશા translation paragraph), the તારાજૂથ figure and the 8×8 શબ્દચોરસ are likewise held out as Agent 10 material.",
+        "No pre-reading topic exists, and that is correct rather than a gap. page-1.png was opened to settle this layout question, because the transcription alone could not show whether any student-addressed pre-reading prose sits outside the blue box: the page carries only the pink title bar with the number box and the QR badge, the author slot '- 'સ્નેહરશ્મિ'', the blue intro box, then the first ઘટના paragraph and the printed illustration. The blue box is teacher-addressed on its own wording ('…પરિચય વિદ્યાર્થીઓને આપવો તેમજ … વિદ્યાર્થીઓને અવગત કરવા'), which reference/explanation_unit_map.md classes as apparatus feeding key_terms and ભાષા-બોધ, not a topic. Std 8 prints no student-facing કવિ/લેખક-પરિચય paragraph — that is the std-10 pattern. Authoring an opener topic here would have meant composing a reading scene the book does not print, so the absence is recorded rather than filled.",
+        "No in-text wrap topic exists either: no summary or value paragraph is printed inside the reading text. The chapter-final yellow ચર્ચા-વિચારણા box ('• ત્યાગનો આનંદ / ત્યાગનો મહિમા') is a discussion cue in the apparatus band, not an in-text wrap, and is correctly not cut as a REVIEW topic.",
+        "The 9-vs-10 discrepancy between 02_structure.json's nine topics and 01_meta.json's structure_inventory.ghatna = 10 was checked against the page and is not a dropped scene. Agent 1's own ghatna_note counts દધીચિ's decision and the દેહત્યાગ/વૃત્ર-વધ as steps 9 and 10, but both sit inside one printed paragraph under a single marker at line 59, and 01_meta.json's own explanation_unit forbids splitting the વળાંક across two topics. Following the marker is the correct reading of Agent 1's instruction."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 9,
+      "notes": [
+        "Root objectives[] holds O1–O9, all objective_id values unique. Every home_topic_id (M1.S1.T1, M1.S1.T2, M2.S2.T3, M2.S2.T4, M2.S2.T5, M2.S3.T6, M2.S3.T7, M2.S3.T8, M3.S4.T9) resolves to a node in this tree, and all thirteen anchor[] ids resolve to concepts that live inside their own home topic.",
+        "strand_to_objective_map covers L1–L9 exactly once each, mapping to O1–O9 with no duplicate or orphan. Single strand L / ભાષા અને સાહિત્ય throughout, as Gujarati literature requires.",
+        "Every one of the nine topics carries objective_ids, each resolving to the root registry; every concept's objective_id resolves to the same registry as its topic's.",
+        "Each objective is chapter-specific and could not be pasted elsewhere: they name વૃત્ર's birth changes, the comparisons his body is described through, વિષ્ણુ's single condition, ઇંદ્ર's question, the ભોગનાં સગાં / વિરલા contrast, the vehicles the દેવો travel on, the શીતળતા-તેજ-ફોરમ signs that identify the આશ્રમ, the ઋષિ's conduct on opening his eyes, and why he calls himself સદ્ભાગી. Each serves the teaching_lens ઘટના + પાત્ર + વળાંક — event recall, motive, and at O9 the turn — and the Bloom ladder rises from Remember at the opening beat to Evaluate at the climax.",
+        "Id contract holds against reference/naming_conventions.md and reference/phase2_contract.md, verified programmatically: modules M1–M3 continuous; segments continuous across the chapter M1.S1 → M2.S2 → M2.S3 → M3.S4 with no restart; topics T1–T9 continuous; concepts C1–C13 chapter-continuous and never restarting inside a topic. No M1.S1.T1.P1-style objective code appears anywhere in the file. No module, segment, topic, concept or objective name contains a digit in either Latin or Gujarati numerals."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Verdict: pass. 02_structure.json is promoted; ids are frozen from this point and only Agent 14 may renumber them.",
+    "Non-blocking, for Agent 13: topic length is very uneven. M2.S2.T4 is a single printed sentence and M2.S3.T8 three short ones, while M1.S1.T2 and M3.S4.T9 are each a full long paragraph. The unevenness follows the printed વાર્તા-પગલાં; Agent 2 correctly declined to split or merge a beat to even them out.",
+    "Non-blocking, for Agent 13: M3 holds only one topic, and that topic carries both the climax and the resolution. This is a consequence of the chapter printing the ઋષિ's decision, his દેહત્યાગ, વૃત્ર's death and the closing કલ્યાણ line inside one paragraph — not a sizing defect. No separate resolution topic is possible without splitting the turn.",
+    "Non-blocking, for Agent 12 and Agent 13: varta.md gate 4 needs watching in the prose that has not been written yet. વિષ્ણુ himself names 'મહાત્યાગી પુરુષ' in T3 and 'દધીચિ ઋષિ' in T5 in the printed text, so those words may be quoted there — but unpacking them into 'he will give his own body' would open the turn before M3.S4.T9. Agent 2 already flagged this; it is confirmed here.",
+    "Non-blocking, for Agent 5: original_chunk is empty across all nine topics and key_terms/content are empty shells. That is the declared division of labour, not a defect at this gate — Agent 5 fills the verbatim and Agent 12 the teaching prose. Each topic's verbatim is one continuous printed paragraph on one line of 00_chapter_normalized.md, so no chunk is broken by an illustration or a marker.",
+    "Non-blocking, for Agent 13: 01_meta.json still carries textbook: null and a provisional chapter_id under VERIFY-1, and 11_pages.json records the missing hosted textbook URL. These are honest recorded gaps outside this gate's three checks and do not affect the structure verdict.",
+    "Context routing note: the run context supplied only no_hallucination_policy.md and global_content_rules.md, but this agent's spec also cites loop_protocol.md, explanation_unit_map.md, phase2_contract.md and naming_conventions.md. All four exist in reference/ and were read in full from disk rather than guessed at, along with the active genre profile profiles/genres/varta.md; nothing in this verdict rests on recalled contents of a document that was not read."
+  ]
+}

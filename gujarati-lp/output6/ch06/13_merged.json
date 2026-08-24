@@ -1,0 +1,1871 @@
+{
+  "phase": 2,
+  "board": "gseb",
+  "subject": "Gujarati",
+  "grade": 6,
+  "level": "standard",
+  "version": 1,
+  "chapter_id": "gseb_eng_gujarati6_ch6",
+  "plan_id": "gseb_eng_gujarati6_ch6_v1",
+  "chapter_name": "સંસ્કારે સર્જ્યું સ્વર્ગ",
+  "unit_title": "સંસ્કારે સર્જ્યું સ્વર્ગ",
+  "unit_number": 6,
+  "topic_title": "સંસ્કારે સર્જ્યું સ્વર્ગ",
+  "topic_number": 6,
+  "genre": "માહિતીપ્રદ ગદ્ય (સંવાદ-શૈલી)",
+  "teaching_lens": "તથ્ય + પરંપરા + જિજ્ઞાસા (mahitiprad_gadya, પ્રમુખ) — સાથે samvad_nibandh નો બે-અવાજનો gate લોડ કર્યો છે: અવતરિત વાણી કદી પરોક્ષ કથનમાં ફેરવવી નહીં, અને લેબલ વગરના વળાંકનો વક્તા બદલવો નહીં",
+  "guiding_question": "સૂકાભઠ વિસ્તારના ગામને લીલુંછમ કરવા માટે સંસ્કારે અને ગામલોકોએ ખરેખર શું શું કર્યું ?",
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 6",
+  "textbook_url": "../Textbooks-pdf/std-6/ch-06-sanskare-sarjyu-swarg.pdf",
+  "textbook_pages": "34–40",
+  "author": "",
+  "_activate": false,
+  "ordering": null,
+  "medium_id": null,
+  "subject_ref_id": null,
+  "english_plan_id": null,
+  "english_chapter_id": null,
+  "chapter_master_id": null,
+  "publication_id": 1,
+  "estimated_time": 1.5,
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'ગામની સિકલ ફરી ગઈ છે' એમ પુરુષોત્તમભાઈ કેમ કહે છે, અને સંસ્કાર કોણ છે — બંને વાત પાઠના શબ્દોમાં કહેવી.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1",
+        "M1.S1.T1.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "છોડ વાવવો અને છોડ ઉછેરવો — બંને વચ્ચે શો ફેર છે તે સમજીને, સંસ્કાર રોજ સવાર-સાંજ શું કરતો તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": [
+        "M1.S2.T2.C3",
+        "M1.S2.T2.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'જાત મહેનત ઝિંદાબાદ' અને 'પારકી આશ સદા નિરાશ' — આ બે કહેવત સંસ્કારના કામમાં કેવી રીતે ઊતરી, અને ગામનાં કોણ કોણ જોડાયાં તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પહેલા વૃક્ષારોપણમાં કેટલાં ઝાડ વાવેલાં ને કેટલાં બચ્યાં તે આંકડા શોધીને, ગામનાં જાહેર સંકુલો આજે લીલાંછમ કેમ છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T4",
+      "anchor": [
+        "M1.S2.T4.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગામમાં કયાં નવાં ઝાડ ઊછરી શક્યાં અને સાગ, સીસમ, વાંસ જેવાં કયાં ન ઊછરી શક્યાં — બંનેનું કારણ પાઠમાંથી શોધીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C7",
+        "M2.S3.T5.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બગીચાના બોર્ડ પરનું 'નક્ષત્ર-વન' એટલે શું, એ કોની યોજના છે અને એ બગીચો ગામનાં છોકરાંને શી રીતે કામ લાગે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": [
+        "M2.S3.T6.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શાળાના મેદાનમાં ઔષધબાગ, તુલસીવન અને કિચનગાર્ડન કોની મહેનતથી થયાં, અને એથી શાળા કેવી લાગે છે તે પાઠમાંથી કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T7",
+      "anchor": [
+        "M2.S4.T7.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'સંસ્કારે સર્જ્યું છે સ્વર્ગ' એ વાક્યમાં 'સ્વર્ગ' શાને કહ્યું છે, અને ગામના પરિવારો શહેરથી પાછા કેમ આવે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T8",
+      "anchor": [
+        "M2.S4.T8.C11"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "સૂકા ગામમાં લેવાયેલો સંકલ્પ ને જોડાતું ગામ",
+      "difficult_words": [
+        {
+          "word": "સિકલ",
+          "meaning": "ચહેરો, દેખાવ",
+          "example": "નવો રંગ થતાં અમારા વર્ગખંડની સિકલ જ ફરી ગઈ."
+        },
+        {
+          "word": "શ્રેય",
+          "meaning": "યશ, જશ; સારા કામનું મળતું માન",
+          "example": "શાળાની સફાઈનું શ્રેય આખા વર્ગને મળ્યું."
+        },
+        {
+          "word": "હરિયાળી",
+          "meaning": "લીલોતરી, ચારે બાજુ લીલાં ઝાડ-છોડ",
+          "example": "ચોમાસા પછી ડુંગર પર હરિયાળી છવાઈ જાય છે."
+        },
+        {
+          "word": "દરકાર",
+          "meaning": "પરવા, કાળજી",
+          "example": "દાદી ઘરના તુલસી-ક્યારાની બહુ દરકાર રાખે છે."
+        },
+        {
+          "word": "સંકલ્પ",
+          "meaning": "મનમાં લીધેલો પાકો નિશ્ચય",
+          "example": "મેં રોજ વહેલા ઊઠવાનો સંકલ્પ લીધો છે."
+        },
+        {
+          "word": "પરિશ્રમ",
+          "meaning": "ખૂબ મહેનત",
+          "example": "એના પરિશ્રમથી જ બગીચો આટલો સરસ થયો."
+        },
+        {
+          "word": "ઘેઘૂર",
+          "meaning": "ખૂબ ઘટાદાર, પાંદડાંથી ભરચક",
+          "example": "ઘેઘૂર વડલા નીચે આખું ટોળું બેસી શકે છે."
+        },
+        {
+          "word": "વડીલ",
+          "meaning": "ઉંમરમાં મોટા ને માનનીય માણસ",
+          "example": "ફળિયાના વડીલો સાંજે ઓટલે ભેગા થાય છે."
+        }
+      ],
+      "overall_rhyme_scheme": null,
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "અઢી દાયકે પાછી ફરેલી નજર",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "ગામની ફરી ગયેલી સિકલ ને શ્રેય કોને",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O1",
+                  "legacy_id": "L1",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "'ગામની સિકલ ફરી ગઈ છે' એમ પુરુષોત્તમભાઈ કેમ કહે છે, અને સંસ્કાર કોણ છે — બંને વાત પાઠના શબ્દોમાં કહેવી.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M1.S1.T1",
+                  "anchor": [
+                    "M1.S1.T1.C1",
+                    "M1.S1.T1.C2"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "''વાહ! અઢી દાયકામાં તો ગામની સિકલ ફરી ગઈ છે!'' પરદેશમાં પચીસેક વર્ષ રહ્યા પછી ગામમાં પાછા આવેલા પુરુષોત્તમભાઈએ સવજીભાઈને કહ્યું.\n\n''સાચી વાત છે, પશાભાઈ. આ ફેરફારનું તમામ શ્રેય સંસ્કારભાઈને જાય છે.'' સવજીભાઈએ કહ્યું.\n\n''કોણ ? પેલા આપણા ગામમાં નવા શિક્ષક આવેલા એમનો દીકરો, સંસ્કાર ને ?'' પુરુષોત્તમભાઈએ ખાતરી કરવા પૂછ્યું.\n\n''હા, એ જ. એ અહીં આવ્યો ત્યારે છઠ્ઠા ધોરણમાં હતો. યાદ આવે છે? એના પોતાના ગામમાં તો હરિયાળી હતી, પણ આપણો તો સૂકો વિસ્તાર. દર વર્ષે વૃક્ષારોપણ કરીએ તોય ઝાડ બરાબર ઊછરે નહીં. પણ, સંસ્કારે ઉછેર્યાં.''",
+              "modified_chunk": "પચીસેક વર્ષ પરદેશ રહીને પુરુષોત્તમભાઈ ગામમાં પાછા આવે છે અને જુએ છે કે ગામની સિકલ (દેખાવ) સાવ ફરી ગઈ છે. સવજીભાઈ કહે છે કે આ આખા ફેરફારનું શ્રેય (યશ) સંસ્કારભાઈને જાય છે. પુરુષોત્તમભાઈ ખાતરી કરે છે કે એ તો ગામમાં નવા આવેલા શિક્ષકનો દીકરો સંસ્કાર જ ને. સવજીભાઈ જણાવે છે કે સંસ્કાર છઠ્ઠા ધોરણમાં હતો ત્યારે અહીં આવ્યો હતો; એનું પોતાનું ગામ હરિયાળું હતું, જ્યારે આ વિસ્તાર સૂકો છે, જ્યાં દર વર્ષે વૃક્ષારોપણ કરવા છતાં ઝાડ ઊછરતાં નહોતાં — પણ સંસ્કારે એ ઝાડ ઉછેરી બતાવ્યાં.",
+              "publication_chunk": "''વાહ! અઢી દાયકામાં તો ગામની સિકલ ફરી ગઈ છે!'' પરદેશમાં પચીસેક વર્ષ રહ્યા પછી ગામમાં પાછા આવેલા પુરુષોત્તમભાઈએ સવજીભાઈને કહ્યું.\n\n''સાચી વાત છે, પશાભાઈ. આ ફેરફારનું તમામ શ્રેય સંસ્કારભાઈને જાય છે.'' સવજીભાઈએ કહ્યું.\n\n''કોણ ? પેલા આપણા ગામમાં નવા શિક્ષક આવેલા એમનો દીકરો, સંસ્કાર ને ?'' પુરુષોત્તમભાઈએ ખાતરી કરવા પૂછ્યું.\n\n''હા, એ જ. એ અહીં આવ્યો ત્યારે છઠ્ઠા ધોરણમાં હતો. યાદ આવે છે? એના પોતાના ગામમાં તો હરિયાળી હતી, પણ આપણો તો સૂકો વિસ્તાર. દર વર્ષે વૃક્ષારોપણ કરીએ તોય ઝાડ બરાબર ઊછરે નહીં. પણ, સંસ્કારે ઉછેર્યાં.''\n\n'સંસ્કાર' અહીં કોઈ ગુણનું નામ નથી, છોકરાનું નામ છે. પરદેશથી પાછા આવેલા પુરુષોત્તમભાઈ કહે છે કે ગામની સિકલ, એટલે દેખાવ, સાવ ફરી ગઈ છે. સવજીભાઈ જવાબમાં એ આખા ફેરફારનું બધું શ્રેય, એટલે યશ, સંસ્કારભાઈને આપે છે. પુરુષોત્તમભાઈ ખાતરી કરે છે કે એ તો નવા શિક્ષકનો દીકરો ને ? સવજીભાઈ કહે છે કે એ આવ્યો ત્યારે છઠ્ઠા ધોરણમાં હતો. એના પોતાના ગામમાં હરિયાળી હતી, પણ આ વિસ્તાર સૂકો છે.\n\nઉનાળુ વેકેશન પૂરું થાય ને નિશાળ ફરી ખૂલે, ત્યારે પહેલી નજરે જ ફેર દેખાય છે. મેદાન સાફ થયેલું હોય, ઓટલો નવો રંગેલો હોય, ને હંમેશાં અટકતો ઝાંપો હવે સહેલાઈથી ખૂલે. મનમાં તરત થાય કે આ બધું કોણે કર્યું હશે. પછી ખબર પડે કે રજામાં કોઈક રોજ આવતું હતું. પુરુષોત્તમભાઈને પણ ગામ જોઈને આવી જ નવાઈ લાગી.",
+              "word_count": {
+                "original": 86
+              },
+              "key_terms": [
+                "સિકલ — ચહેરો, દેખાવ; અહીં ગામનો બદલાયેલો દેખાવ",
+                "દાયકો — દસ વર્ષનો સમય; અઢી દાયકા એટલે પચીસ વર્ષ",
+                "શ્રેય — યશ, જશ; સારા કામનું મળતું માન",
+                "હરિયાળી — લીલોતરી, ચારે બાજુ લીલાં ઝાડ-છોડ",
+                "વૃક્ષારોપણ — ઝાડ વાવવાનું કામ",
+                "ઊછરવું — વાવ્યા પછી છોડનું બરાબર મોટું થવું"
+              ],
+              "explanation": "બાળકો, જુઓ — 'સંસ્કાર' અહીં કોઈ ગુણનું નામ નથી, છોકરાનું નામ છે. પરદેશથી પાછા આવેલા પુરુષોત્તમભાઈ કહે છે કે ગામની સિકલ, એટલે દેખાવ, સાવ ફરી ગઈ છે. સવજીભાઈ જવાબમાં એ આખા ફેરફારનું બધું શ્રેય, એટલે યશ, સંસ્કારભાઈને આપે છે. પુરુષોત્તમભાઈ ખાતરી કરે છે કે એ તો નવા શિક્ષકનો દીકરો ને ? સવજીભાઈ કહે છે કે એ આવ્યો ત્યારે છઠ્ઠા ધોરણમાં હતો. એના પોતાના ગામમાં હરિયાળી હતી, પણ આ વિસ્તાર સૂકો છે.",
+              "real_life_example": "ઉનાળુ વેકેશન પૂરું થાય ને નિશાળે પાછા જાઓ, ત્યારે પહેલી નજરે જ ફેર દેખાય છે. મેદાન સાફ થયેલું હોય, ઓટલો નવો રંગેલો હોય, ને હંમેશાં અટકતો ઝાંપો હવે સહેલાઈથી ખૂલે. મનમાં તરત થાય કે આ બધું કોણે કર્યું હશે. પછી ખબર પડે કે રજામાં કોઈક રોજ આવતું હતું. પુરુષોત્તમભાઈને પણ ગામ જોઈને આવી જ નવાઈ લાગી. તમે લાંબા વખતે કઈ જગ્યાએ ગયા હો ને એ સાવ બદલાયેલી લાગી હોય ?",
+              "publication_text": "'સંસ્કાર' અહીં કોઈ ગુણનું નામ નથી, છોકરાનું નામ છે. પરદેશથી પાછા આવેલા પુરુષોત્તમભાઈ કહે છે કે ગામની સિકલ, એટલે દેખાવ, સાવ ફરી ગઈ છે. સવજીભાઈ જવાબમાં એ આખા ફેરફારનું બધું શ્રેય, એટલે યશ, સંસ્કારભાઈને આપે છે. પુરુષોત્તમભાઈ ખાતરી કરે છે કે એ તો નવા શિક્ષકનો દીકરો ને ? સવજીભાઈ કહે છે કે એ આવ્યો ત્યારે છઠ્ઠા ધોરણમાં હતો. એના પોતાના ગામમાં હરિયાળી હતી, પણ આ વિસ્તાર સૂકો છે.",
+              "brief_summary": "પરદેશથી પાછા આવેલા પુરુષોત્તમભાઈને ગામની સિકલ સાવ ફરી ગયેલી લાગે છે, ને સવજીભાઈ એનું બધું શ્રેય સંસ્કારભાઈને આપે છે.",
+              "summary": "પચીસેક વર્ષ પરદેશ રહીને પુરુષોત્તમભાઈ ગામમાં પાછા આવે છે ને કહે છે કે અઢી દાયકામાં ગામની સિકલ ફરી ગઈ છે. સવજીભાઈ જવાબમાં આ ફેરફારનું તમામ શ્રેય સંસ્કારભાઈને આપે છે. પુરુષોત્તમભાઈ ખાતરી કરે છે કે એ તો ગામમાં નવા આવેલા શિક્ષકનો દીકરો સંસ્કાર જ ને.",
+              "detailed_summary": "પરદેશમાં પચીસેક વર્ષ રહ્યા પછી પુરુષોત્તમભાઈ ગામમાં પાછા આવે છે ને પહેલી નજરે જ કહી ઊઠે છે કે અઢી દાયકામાં તો ગામની સિકલ ફરી ગઈ છે. સવજીભાઈ એ વાત સ્વીકારીને આ આખા ફેરફારનું તમામ શ્રેય સંસ્કારભાઈને આપે છે. પુરુષોત્તમભાઈ ખાતરી કરવા પૂછે છે કે એ તો ગામમાં નવા આવેલા શિક્ષકનો દીકરો સંસ્કાર જ ને. સવજીભાઈ કહે છે કે હા, એ અહીં આવ્યો ત્યારે છઠ્ઠા ધોરણમાં હતો. સંસ્કારના પોતાના ગામમાં હરિયાળી હતી, જ્યારે આ ગામનો વિસ્તાર સૂકો છે. અહીં દર વર્ષે વૃક્ષારોપણ થતું તોય ઝાડ બરાબર ઊછરતાં નહીં, પણ સંસ્કારે એ ઝાડ ઉછેરી બતાવ્યાં.",
+              "concept_bullets": [
+                "સંસ્કાર — અહીં એ છોકરાનું નામ છે, કોઈ ગુણનું નામ નથી.",
+                "સિકલ — ચહેરો, દેખાવ; અહીં આખા ગામનો બદલાયેલો દેખાવ.",
+                "શ્રેય — યશ, જશ; સવજીભાઈ એ સંસ્કારભાઈને આપે છે.",
+                "સૂકો વિસ્તાર — જ્યાં દર વર્ષે વાવવા છતાં ઝાડ ઊછરતાં નહોતાં."
+              ],
+              "important_points": [
+                "પુરુષોત્તમભાઈ — પરદેશમાં પચીસેક વર્ષ રહીને ગામમાં પાછા આવેલા.",
+                "સવજીભાઈ — ગામમાં જ રહેલા, જે ફેરફારની વાત માંડે છે.",
+                "હરિયાળી — લીલોતરી; સંસ્કારના પોતાના ગામમાં એ હતી.",
+                "વૃક્ષારોપણ — ઝાડ વાવવાનું કામ; અહીં દર વર્ષે થતું, છતાં ઝાડ ઊછરતાં નહીં."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "અઢી દાયકે પાછી ફરેલી નજરે બદલાયેલું ગામ",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "પુરુષોત્તમભાઈ પરદેશમાં પચીસેક વર્ષ રહ્યા પછી ગામમાં પાછા આવે છે. પાછા આવતાંવેંત એમના મોઢેથી નીકળે છે કે અઢી દાયકામાં તો ગામની સિકલ ફરી ગઈ છે. સિકલ એટલે ચહેરો કે દેખાવ — અહીં આખા ગામનો દેખાવ. સવજીભાઈ એ વાત સ્વીકારે છે ને કહે છે કે આ ફેરફારનું તમામ શ્રેય, એટલે યશ, સંસ્કારભાઈને જાય છે.",
+                      "publication_text": "પુરુષોત્તમભાઈ પરદેશમાં પચીસેક વર્ષ રહ્યા પછી ગામમાં પાછા આવે છે. પાછા આવતાંવેંત એમના મોઢેથી નીકળે છે કે અઢી દાયકામાં તો ગામની સિકલ ફરી ગઈ છે. સિકલ એટલે ચહેરો કે દેખાવ — અહીં આખા ગામનો દેખાવ. સવજીભાઈ એ વાત સ્વીકારે છે ને કહે છે કે આ ફેરફારનું તમામ શ્રેય, એટલે યશ, સંસ્કારભાઈને જાય છે."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "અહીં બે જ જણ વાત કરે છે — બહારથી આવેલા પુરુષોત્તમભાઈ ને ગામમાં જ રહેલા સવજીભાઈ. એક જુએ છે ને નવાઈ પામે છે, બીજો સમજાવે છે કે આ બદલાવ કોના કામનું ફળ છે.",
+                      "publication_text": "અહીં બે જ જણ વાત કરે છે — બહારથી આવેલા પુરુષોત્તમભાઈ ને ગામમાં જ રહેલા સવજીભાઈ. એક જુએ છે ને નવાઈ પામે છે, બીજો સમજાવે છે કે આ બદલાવ કોના કામનું ફળ છે."
+                    }
+                  ]
+                },
+                {
+                  "concept_id": "M1.S1.T1.C2",
+                  "concept_name": "સંસ્કાર કોણ — હરિયાળા ગામથી સૂકા વિસ્તારમાં આવેલો શિક્ષકનો દીકરો",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "'સંસ્કાર' અહીં કોઈ સારા ગુણનું નામ નથી, છોકરાનું નામ છે. પાઠ એની ઓળખ પોતાના જ શબ્દોમાં આપે છે: ગામમાં નવા આવેલા શિક્ષકનો દીકરો, જે અહીં આવ્યો ત્યારે છઠ્ઠા ધોરણમાં હતો.",
+                      "publication_text": "'સંસ્કાર' અહીં કોઈ સારા ગુણનું નામ નથી, છોકરાનું નામ છે. પાઠ એની ઓળખ પોતાના જ શબ્દોમાં આપે છે: ગામમાં નવા આવેલા શિક્ષકનો દીકરો, જે અહીં આવ્યો ત્યારે છઠ્ઠા ધોરણમાં હતો."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "એના પોતાના ગામમાં હરિયાળી, એટલે લીલોતરી, હતી.",
+                        "આ ગામનો વિસ્તાર સૂકો છે.",
+                        "અહીં દર વર્ષે વૃક્ષારોપણ થતું, તોય ઝાડ બરાબર ઊછરતાં નહીં.",
+                        "એ જ ઝાડ સંસ્કારે ઉછેરી બતાવ્યાં."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M1.S1.T1.RQ1",
+                  "legacy_id": "M1.S1.T1.TR1",
+                  "prompt": "ગામમાં પાછા આવીને પુરુષોત્તમભાઈ પહેલું વાક્ય શું બોલે છે ?",
+                  "answer": "એ બોલે છે કે વાહ, અઢી દાયકામાં તો ગામની સિકલ ફરી ગઈ છે. 'સિકલ' એટલે દેખાવ.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M1.S1.T1.RQ2",
+                  "legacy_id": "M1.S1.T1.TR2",
+                  "prompt": "સવજીભાઈ ગામના ફેરફારનું શ્રેય કોને આપે છે, ને એ કોણ છે ?",
+                  "answer": "એ બધું શ્રેય સંસ્કારભાઈને આપે છે. સંસ્કાર ગામમાં નવા આવેલા શિક્ષકનો દીકરો છે, ને એ અહીં આવ્યો ત્યારે છઠ્ઠા ધોરણમાં હતો.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M1.S1.T1.RQ3",
+                  "legacy_id": "M1.S1.T1.TR3",
+                  "prompt": "સંસ્કારના પોતાના ગામ અને આ ગામ વચ્ચે પાઠમાં કયો ફેર બતાવ્યો છે ? બે વાત કહો.",
+                  "answer": "એના પોતાના ગામમાં હરિયાળી હતી, જ્યારે આ વિસ્તાર સૂકો છે. બીજી વાત એ કે અહીં દર વર્ષે વૃક્ષારોપણ કરવા છતાં ઝાડ બરાબર ઊછરતાં નહોતાં.",
+                  "difficulty": "medium",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "estimated_exchanges": "4",
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "સિકલ",
+                  "arth": "ચહેરો, દેખાવ; અહીં ગામનો બદલાયેલો દેખાવ",
+                  "prakar": "આગત"
+                },
+                {
+                  "shabd": "શ્રેય",
+                  "arth": "યશ, જશ; સારા કામનું મળતું માન",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "હરિયાળી",
+                  "arth": "લીલોતરી, ચારે બાજુ લીલાં ઝાડ-છોડ",
+                  "prakar": "તદ્ભવ"
+                },
+                {
+                  "shabd": "વૃક્ષારોપણ",
+                  "arth": "ઝાડ વાવવાનું કામ",
+                  "prakar": "તત્સમ"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "શ્રેય",
+                  "samanarthi": [
+                    "યશ",
+                    "જશ"
+                  ]
+                },
+                {
+                  "shabd": "હરિયાળી",
+                  "samanarthi": [
+                    "લીલોતરી"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "સૂકો",
+                  "vilom": "લીલો"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "વિશેષણ",
+                  "udaharan": "સૂકો વિસ્તાર",
+                  "note": "'સૂકો' શબ્દ 'વિસ્તાર' કેવો છે તે બતાવે છે, એટલે એ વિશેષણ છે. પાઠમાં 'નવા શિક્ષક' પણ એવી જ જોડ છે — પહેલાં વિશેષણ, પછી નામ."
+                }
+              ],
+              "media": [
+                {
+                  "id": "M1.S1.T1.C1.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "બદલાયેલી શેરી સામે બે જણ",
+                  "description": "ગામની શેરીમાં ઊભેલા બે માણસ — એક જણ ચાલતાં અટકીને હાથ ઊંચો કરી બંને બાજુ છાયા ફેલાવતાં મોટાં ઝાડ જોઈ રહ્યો છે, બીજો એ તરફ આંગળી ચીંધીને વાત કરે છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "concept_id": "M1.S1.T1.C1",
+                  "home_concept_id": "M1.S1.T1.C1",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બન્યા પહેલાં આ દૃશ્ય શબ્દોમાં ઊભું કરો — બાળકોને પૂછો કે જે માણસ વરસો પછી પોતાના ગામમાં પાછો આવે તેની નજર સુધી શું બદલાયેલું દેખાય; પછી 'સિકલ — ચહેરો, દેખાવ' ગ્લોસ કરીને પાઠનું પહેલું વાક્ય વાંચી સંભળાવો. ચિત્રમાં બંને માણસ સાથે જ છે — કહેનાર કોણ અને જવાબ આપનાર કોણ, એ આંગળી ચીંધીને અલગ અલગ દેખાડો.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motivational poster layout, text banner with a moral, environmental-awareness campaign poster, tree-plantation event banner with logos, before-and-after split panel, arrows or callout labels, science diagram, government or NGO publicity photograph styling, caricatured or scolding expressions, drone or top-down aerial view, desert wasteland, ruined or abandoned houses, city skyline, farewell or arrival ceremony, garlands and welcome banner",
+                  "generation_prompt": "Late morning in a dry-country village in Gujarat, western India: low houses roofed with curved clay tiles, a raised stone otlo platform running along each front wall, a whitewashed chabutro standing on its post in the open chowk, pale stony ground underfoot and open scrub land at the far edge. Two elderly men stand together in the middle of a shaded village lane. a man of about sixty with medium brown skin, grey hair combed straight back, a thick grey moustache and steel-rimmed spectacles, wearing a pale blue half-sleeve cotton shirt tucked into grey trousers, brown leather sandals and a small tan cloth bag on one shoulder has stopped mid-step and half turned, one hand lifted open-palmed in astonishment, his head tilted back to look up at a row of very large leafy trees whose branches meet over the lane. Beside him, close enough that their shoulders almost touch, a man of about sixty-five with medium brown skin, short white hair, a clipped white moustache and a lined weathered face, wearing a plain white half-sleeve cotton shirt over a white dhoti, rubber slippers, and a folded white cloth resting on one shoulder points down the lane with a calm, pleased expression, explaining. Thick green foliage throws moving patches of shade on the pale stony ground; a bullock cart is parked under a tin awning, a brass pot stands on a nearby otlo, and two hens peck near a low wall. Far behind the trees the land opens out bare, pale and dry to the horizon, so the difference between the leafy lane and the open country is visible in one glance. Clear bright daylight, warm greens and dust-cream tones. A narrow cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati script, and no other lettering appears anywhere in the picture: «અઢી દાયકામાં તો ગામની સિકલ ફરી ગઈ છે !». Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "વાવવું નહીં, ઉછેરવું — મહેનત ને સહિયારો સાથ",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "વાવેલા છોડને ઉછેરવાનો સંકલ્પ",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O2",
+                  "legacy_id": "L2",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "છોડ વાવવો અને છોડ ઉછેરવો — બંને વચ્ચે શો ફેર છે તે સમજીને, સંસ્કાર રોજ સવાર-સાંજ શું કરતો તે કહેવું.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M1.S2.T2",
+                  "anchor": [
+                    "M1.S2.T2.C3",
+                    "M1.S2.T2.C4"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "''ભાઈ, આપણે વૃક્ષારોપણ વખતે છોડ વાવવામાં જ રસ લેતા, પણ એ છોડ ઊછરે એની દરકાર ક્યાં લેતા?'' પુરુષોત્તમભાઈએ હસતાં હસતાં કહ્યું.\n\n''બિલકુલ, સાચું. પણ આ તો જુદી માટીનો માનવી! એણે તો વાવેલા છોડને ઉછેરવાનો સંકલ્પ લીધો.'' સવજીભાઈએ સૂર પુરાવતાં કહ્યું.\n\n''વાહ! કેવો સર્જનાત્મક સંકલ્પ! અત્યારે આ લીલાંછમ ઝાડ પણ જાણે બોલે છે કે સંસ્કારે કમર કસીને કામ કર્યું છે.'' પુરુષોત્તમભાઈએ પણ તેની મહેનતને વખાણી.\n\n''હા, એ રોજ વહેલી સવારે અને સાંજે નાના નાના છોડવાની સંભાળ લેવા પહોંચી જતો. તે વખતે સાધન-સગવડો ક્યાં હતાં? જાતે જ પાણી ઉપાડી લાવતો ને છોડવાઓને પાતો. એક પણ છોડ સુકાઈ જાય તો તેનો જીવ કપાઈ જતો.'' સવજીભાઈએ સંસ્કારના પરિશ્રમનો ઉલ્લેખ કરતાં કહ્યું.",
+              "modified_chunk": "પુરુષોત્તમભાઈ કબૂલે છે કે ગામલોકો છોડ વાવવામાં જ રસ લેતા, પણ એ છોડ ઊછરે તેની દરકાર (કાળજી) રાખતા નહોતા. સવજીભાઈ કહે છે કે સંસ્કારે વાવેલા છોડને ઉછેરવાનો સંકલ્પ (પાકો નિશ્ચય) લીધો હતો. પુરુષોત્તમભાઈ એ સંકલ્પને સર્જનાત્મક કહીને એની મહેનતનાં વખાણ કરે છે. પછી સવજીભાઈ સંસ્કારના પરિશ્રમની વાત કરે છે — એ રોજ વહેલી સવારે અને સાંજે નાના છોડવાની સંભાળ લેવા પહોંચી જતો, સાધન-સગવડ ન હોવાથી જાતે પાણી ઉપાડી લાવીને છોડને પાતો, અને એક છોડ સુકાય તોય એને ખૂબ દુઃખ થતું.",
+              "publication_chunk": "''ભાઈ, આપણે વૃક્ષારોપણ વખતે છોડ વાવવામાં જ રસ લેતા, પણ એ છોડ ઊછરે એની દરકાર ક્યાં લેતા?'' પુરુષોત્તમભાઈએ હસતાં હસતાં કહ્યું.\n\n''બિલકુલ, સાચું. પણ આ તો જુદી માટીનો માનવી! એણે તો વાવેલા છોડને ઉછેરવાનો સંકલ્પ લીધો.'' સવજીભાઈએ સૂર પુરાવતાં કહ્યું.\n\n''વાહ! કેવો સર્જનાત્મક સંકલ્પ! અત્યારે આ લીલાંછમ ઝાડ પણ જાણે બોલે છે કે સંસ્કારે કમર કસીને કામ કર્યું છે.'' પુરુષોત્તમભાઈએ પણ તેની મહેનતને વખાણી.\n\n''હા, એ રોજ વહેલી સવારે અને સાંજે નાના નાના છોડવાની સંભાળ લેવા પહોંચી જતો. તે વખતે સાધન-સગવડો ક્યાં હતાં? જાતે જ પાણી ઉપાડી લાવતો ને છોડવાઓને પાતો. એક પણ છોડ સુકાઈ જાય તો તેનો જીવ કપાઈ જતો.'' સવજીભાઈએ સંસ્કારના પરિશ્રમનો ઉલ્લેખ કરતાં કહ્યું.\n\nવાવવું એટલે છોડ જમીનમાં મૂકવો, ને ઉછેરવું એટલે એ મોટો થાય ત્યાં સુધી રોજ સંભાળ લેવી. પુરુષોત્તમભાઈ કહે છે કે ગામલોકો વાવવામાં જ રસ લેતા, પણ છોડ ઊછરે એની દરકાર, એટલે કાળજી, રાખતા નહીં. સવજીભાઈ કહે છે કે સંસ્કારે વાવેલા છોડને ઉછેરવાનો સંકલ્પ, એટલે પાકો નિશ્ચય, લીધો. પછી એ સંસ્કારના પરિશ્રમની વિગત આપે છે — રોજ વહેલી સવારે ને સાંજે પહોંચી જવું, જાતે પાણી ઉપાડી લાવવું, ને એક છોડ સુકાય તોય જીવ કપાઈ જવો.\n\nવહેલી સવારે શેરીમાં ઘંટડીનો અવાજ આવે ને ભરવાડકાકાનું ધણ નીકળે. સાંજ પડ્યે એ જ ધણ ધૂળ ઉડાડતું પાછું વળે. કાકા રોજ સવારે ને રોજ સાંજે એની સાથે ને સાથે. એક બકરીનું બચ્ચું પાછળ રહી જાય તો કાકા ઊભા રહી જાય, ને એને તેડીને આગળ ચાલે. પાઠમાં સંસ્કારની જે રોજની સંભાળની વાત છે તે આવી જ છે.",
+              "word_count": {
+                "original": 107
+              },
+              "key_terms": [
+                "દરકાર — પરવા, કાળજી",
+                "સંકલ્પ — મનમાં લીધેલો પાકો નિશ્ચય",
+                "સર્જનાત્મક — નવું રચી બતાવે એવું",
+                "છોડવો — નાનો છોડ",
+                "સાધન-સગવડ — કામ કરવા માટેનાં ઓજાર અને સુવિધા",
+                "પરિશ્રમ — ખૂબ મહેનત"
+              ],
+              "explanation": "વાવવું એટલે છોડ જમીનમાં મૂકવો, ને ઉછેરવું એટલે એ મોટો થાય ત્યાં સુધી રોજ સંભાળ લેવી. પુરુષોત્તમભાઈ કહે છે કે ગામલોકો વાવવામાં જ રસ લેતા, પણ છોડ ઊછરે એની દરકાર, એટલે કાળજી, રાખતા નહીં. સવજીભાઈ કહે છે કે સંસ્કારે વાવેલા છોડને ઉછેરવાનો સંકલ્પ, એટલે પાકો નિશ્ચય, લીધો. પછી એ સંસ્કારના પરિશ્રમની વિગત આપે છે — રોજ વહેલી સવારે ને સાંજે પહોંચી જવું, જાતે પાણી ઉપાડી લાવવું, ને એક છોડ સુકાય તોય જીવ કપાઈ જવો.",
+              "real_life_example": "વહેલી સવારે શેરીમાં ઘંટડીનો અવાજ આવે ને ભરવાડકાકાનું ધણ નીકળે. સાંજ પડ્યે એ જ ધણ ધૂળ ઉડાડતું પાછું વળે. કાકા રોજ સવારે ને રોજ સાંજે એની સાથે ને સાથે. એક બકરીનું બચ્ચું પાછળ રહી જાય તો કાકા ઊભા રહી જાય, ને એને તેડીને આગળ ચાલે. પાઠમાં સંસ્કારની જે રોજની સંભાળની વાત છે તે આવી જ છે. તમારા ઘરમાં કે શેરીમાં રોજ ને રોજ કોણ કોની સંભાળ લે છે ?",
+              "publication_text": "વાવવું એટલે છોડ જમીનમાં મૂકવો, ને ઉછેરવું એટલે એ મોટો થાય ત્યાં સુધી રોજ સંભાળ લેવી. પુરુષોત્તમભાઈ કહે છે કે ગામલોકો વાવવામાં જ રસ લેતા, પણ છોડ ઊછરે એની દરકાર, એટલે કાળજી, રાખતા નહીં. સવજીભાઈ કહે છે કે સંસ્કારે વાવેલા છોડને ઉછેરવાનો સંકલ્પ, એટલે પાકો નિશ્ચય, લીધો. પછી એ સંસ્કારના પરિશ્રમની વિગત આપે છે — રોજ વહેલી સવારે ને સાંજે પહોંચી જવું, જાતે પાણી ઉપાડી લાવવું, ને એક છોડ સુકાય તોય જીવ કપાઈ જવો.",
+              "brief_summary": "ગામલોકો છોડ વાવીને અટકી જતા, પણ સંસ્કારે વાવેલા છોડને ઉછેરવાનો સંકલ્પ લીધો ને રોજ સવાર-સાંજ એની સંભાળ લીધી.",
+              "summary": "પુરુષોત્તમભાઈ કબૂલે છે કે ગામલોકો વૃક્ષારોપણ વખતે છોડ વાવવામાં જ રસ લેતા, પણ એ છોડ ઊછરે એની દરકાર રાખતા નહોતા. સવજીભાઈ કહે છે કે સંસ્કારે વાવેલા છોડને ઉછેરવાનો સંકલ્પ લીધો, ને પુરુષોત્તમભાઈ એ સંકલ્પને સર્જનાત્મક કહીને એની મહેનતનાં વખાણ કરે છે. પછી સવજીભાઈ એના પરિશ્રમની વિગત આપે છે.",
+              "detailed_summary": "પુરુષોત્તમભાઈ હસતાં હસતાં કબૂલે છે કે વૃક્ષારોપણ વખતે ગામલોકો છોડ વાવવામાં જ રસ લેતા, પણ એ છોડ ઊછરે એની દરકાર રાખતા નહોતા. સવજીભાઈ સૂર પુરાવીને કહે છે કે સંસ્કાર જુદી માટીનો માનવી છે, ને એણે વાવેલા છોડને ઉછેરવાનો સંકલ્પ લીધો. પુરુષોત્તમભાઈ એ સંકલ્પને સર્જનાત્મક કહે છે ને લીલાંછમ ઝાડ સામે જોઈને એની મહેનતને વખાણે છે. પછી સવજીભાઈ સંસ્કારના પરિશ્રમની વિગત આપે છે: એ રોજ વહેલી સવારે અને સાંજે નાના નાના છોડવાની સંભાળ લેવા પહોંચી જતો. તે વખતે સાધન-સગવડ નહોતાં, એટલે એ જાતે પાણી ઉપાડી લાવીને છોડવાઓને પાતો. એક પણ છોડ સુકાઈ જાય તો એનો જીવ કપાઈ જતો.",
+              "concept_bullets": [
+                "વાવવું — છોડ જમીનમાં મૂકવો; એક દિવસનું કામ.",
+                "ઉછેરવું — વાવ્યા પછી છોડ મોટો થાય ત્યાં સુધી રોજ સંભાળ લેવી.",
+                "દરકાર — પરવા, કાળજી; ગામલોકો પહેલાં એ રાખતા નહોતા.",
+                "સંકલ્પ — મનમાં લીધેલો પાકો નિશ્ચય; સંસ્કારે એ ઉછેરવાનો લીધો."
+              ],
+              "important_points": [
+                "સર્જનાત્મક — નવું રચી બતાવે એવું; પુરુષોત્તમભાઈ સંકલ્પને એવો કહે છે.",
+                "સવાર-સાંજ — સંસ્કાર રોજ બે વખત છોડવાની સંભાળ લેવા પહોંચી જતો.",
+                "સાધન-સગવડ — કામનાં ઓજાર ને સુવિધા; તે વખતે એ નહોતાં.",
+                "જીવ કપાઈ જવો — ખૂબ દુઃખ થવું; એક છોડ સુકાય તોય એને એવું થતું."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C3",
+                  "concept_name": "વાવવું જુદું ને ઉછેરવું જુદું — જૂની ભૂલ સામેનો સંકલ્પ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "આ ખંડ બે શબ્દોનો ફેર ખોલે છે. વાવવું એટલે છોડ જમીનમાં મૂકવો — એ એક દિવસનું કામ. ઉછેરવું એટલે એ છોડ મોટો થાય ત્યાં સુધી રોજ સંભાળ લેવી — એ વરસોનું કામ. પુરુષોત્તમભાઈ કહે છે કે ગામલોકો પહેલા કામમાં જ રસ લેતા ને બીજા કામની દરકાર, એટલે કાળજી, રાખતા નહોતા.",
+                      "publication_text": "આ ખંડ બે શબ્દોનો ફેર ખોલે છે. વાવવું એટલે છોડ જમીનમાં મૂકવો — એ એક દિવસનું કામ. ઉછેરવું એટલે એ છોડ મોટો થાય ત્યાં સુધી રોજ સંભાળ લેવી — એ વરસોનું કામ. પુરુષોત્તમભાઈ કહે છે કે ગામલોકો પહેલા કામમાં જ રસ લેતા ને બીજા કામની દરકાર, એટલે કાળજી, રાખતા નહોતા."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "સવજીભાઈ કહે છે કે સંસ્કારે વાવેલા છોડને ઉછેરવાનો સંકલ્પ લીધો. સંકલ્પ એટલે મનમાં લીધેલો પાકો નિશ્ચય. પુરુષોત્તમભાઈ એને સર્જનાત્મક સંકલ્પ કહે છે, ને લીલાંછમ ઝાડ સામે જોઈને કહે છે કે એ જાણે બોલતાં હોય. ઝાડ સાચે બોલતાં નથી — પણ એમને જોઈને એવું લાગે છે. તમને એ ઝાડ જોઈને શું સંભળાતું હોય એવું લાગે ?",
+                      "publication_text": "સવજીભાઈ કહે છે કે સંસ્કારે વાવેલા છોડને ઉછેરવાનો સંકલ્પ લીધો. સંકલ્પ એટલે મનમાં લીધેલો પાકો નિશ્ચય. પુરુષોત્તમભાઈ એને સર્જનાત્મક સંકલ્પ કહે છે, ને લીલાંછમ ઝાડ સામે જોઈને કહે છે કે એ જાણે બોલતાં હોય. ઝાડ સાચે બોલતાં નથી — પણ એમને જોઈને એવું લાગે છે."
+                    }
+                  ]
+                },
+                {
+                  "concept_id": "M1.S2.T2.C4",
+                  "concept_name": "સવાર-સાંજની માવજત ને જાતે ઉપાડી લાવેલું પાણી",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "સવજીભાઈ ઉછેરવાનું કામ કેવું હતું તે વિગતે કહે છે. એમાં કોઈ મોટી વાત નથી, રોજની નાની નાની વાત છે.",
+                      "publication_text": "સવજીભાઈ ઉછેરવાનું કામ કેવું હતું તે વિગતે કહે છે. એમાં કોઈ મોટી વાત નથી, રોજની નાની નાની વાત છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "એ રોજ વહેલી સવારે અને સાંજે છોડવાની સંભાળ લેવા પહોંચી જતો.",
+                        "તે વખતે સાધન-સગવડો નહોતાં.",
+                        "એ જાતે જ પાણી ઉપાડી લાવતો ને છોડવાઓને પાતો.",
+                        "એક પણ છોડ સુકાઈ જાય તો એનો જીવ કપાઈ જતો, એટલે એને ખૂબ દુઃખ થતું."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M1.S2.T2.RQ1",
+                  "legacy_id": "M1.S2.T2.TR1",
+                  "prompt": "સંસ્કાર રોજ સવારે અને સાંજે શું કરતો ? પાઠમાંથી બે વાત કહો.",
+                  "answer": "એ રોજ વહેલી સવારે અને સાંજે નાના નાના છોડવાની સંભાળ લેવા પહોંચી જતો, ને જાતે જ પાણી ઉપાડી લાવીને છોડવાઓને પાતો.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M1.S2.T2.RQ2",
+                  "legacy_id": "M1.S2.T2.TR2",
+                  "prompt": "'છોડ વાવવો' અને 'છોડ ઉછેરવો' — બંનેમાં શો ફેર છે ?",
+                  "answer": "વાવવું એટલે છોડ જમીનમાં મૂકવો, જે એક દિવસનું કામ છે. ઉછેરવું એટલે એ છોડ મોટો થાય ત્યાં સુધી રોજ સંભાળ લેવી. પુરુષોત્તમભાઈ કહે છે કે ગામલોકો વાવવામાં જ રસ લેતા ને ઊછરવાની દરકાર રાખતા નહોતા.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M1.S2.T2.RQ3",
+                  "legacy_id": "M1.S2.T2.TR3",
+                  "prompt": "'એક પણ છોડ સુકાઈ જાય તો તેનો જીવ કપાઈ જતો' — આ વાક્ય પરથી સંસ્કાર વિશે શું જાણવા મળે છે ?",
+                  "answer": "એ પરથી જાણવા મળે છે કે એને છોડ સાથે ખૂબ લગાવ હતો. 'જીવ કપાઈ જવો' એટલે ખૂબ દુઃખી થવું, એટલે એક છોડ સુકાય તોય એને ખૂબ દુઃખ થતું.",
+                  "difficulty": "medium",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "estimated_exchanges": "4",
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "દરકાર",
+                  "arth": "પરવા, કાળજી",
+                  "prakar": "આગત"
+                },
+                {
+                  "shabd": "સંકલ્પ",
+                  "arth": "મનમાં લીધેલો પાકો નિશ્ચય",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "સર્જનાત્મક",
+                  "arth": "નવું રચી બતાવે એવું",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "પરિશ્રમ",
+                  "arth": "ખૂબ મહેનત",
+                  "prakar": "તત્સમ"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "સંકલ્પ",
+                  "samanarthi": [
+                    "નિશ્ચય"
+                  ]
+                },
+                {
+                  "shabd": "દરકાર",
+                  "samanarthi": [
+                    "પરવા",
+                    "કાળજી"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "સવાર",
+                  "vilom": "સાંજ"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "દ્વિરુક્ત શબ્દો",
+                  "udaharan": "નાના નાના છોડવા",
+                  "note": "'નાના નાના' માં એક જ શબ્દ બે વાર આવે છે. આવા બેવડાતા શબ્દોને દ્વિરુક્ત શબ્દો કહે છે. પાઠમાં 'હસતાં હસતાં' પણ એવો જ છે."
+                }
+              ],
+              "media": [
+                {
+                  "id": "M1.S2.T2.C4.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "પરોઢે છોડવાઓને પાતો છોકરો",
+                  "description": "વહેલી સવારે એક છોકરો બેડામાંથી જાતે ઉપાડી લાવેલું પાણી ઘૂંટણ-જેવડા નાના છોડવાની ક્યારીમાં ધીરેથી રેડે છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "concept_id": "M1.S2.T2.C4",
+                  "home_concept_id": "M1.S2.T2.C4",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "આ દૃશ્યથી 'વાવવું' અને 'ઉછેરવું' વચ્ચેનો ફેર દેખાડો — બાળકોને પૂછો કે આમાં છોડ વાવવાનું કામ ચાલે છે કે બીજું કંઈક ? જે દેખાય તે — બેડાં, પરોઢનું અજવાળું, નાના છોડવા — તે બોલાવીને પછી પાઠની એ લીટી વાંચો જેમાં આ જ વાત લખી છે. શિખામણ નહીં, માત્ર મહેનતની વિગત જ બતાવો.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motivational poster layout, text banner with a moral, environmental-awareness campaign poster, tree-plantation event banner with logos, before-and-after split panel, arrows or callout labels, science diagram, government or NGO publicity photograph styling, caricatured or scolding expressions, drone or top-down aerial view, modern drip irrigation, garden hose, motor pump, plastic watering can, tractor, nursery polybags, adult supervising with folded arms",
+                  "generation_prompt": "First light in a dry-country village in Gujarat, western India: low houses roofed with curved clay tiles, a raised stone otlo platform running along each front wall, a whitewashed chabutro standing on its post in the open chowk, pale stony ground underfoot and open scrub land at the far edge, on a bare stony patch of open ground at the edge of the houses where about twenty knee-high saplings stand in two uneven rows, each in its own shallow ring of scooped earth and each tied to a thin bamboo stake. a boy of about twelve with medium brown skin, short black hair and a thin build, in a plain white half-sleeve school shirt and faded khaki half-pants, barefoot is crouched on his heels beside one sapling, tilting a heavy round brass water pot with both hands so a thin stream of water falls into the earth ring and darkens the dry soil. A second brass pot, still full, stands on a coil of cloth on the ground beside him, and the shoulder of his shirt is wet. His face is absorbed, close to the small plant. There is no pipe, no pump and no tap anywhere in the frame. Long low shadows, pale gold early sunlight, a dusty pink and grey sky, a single leafless tree and open scrub behind him. A narrow cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati script, and no other lettering appears anywhere in the picture: «જાતે જ પાણી ઉપાડી લાવતો ને છોડવાઓને પાતો.». Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "'જાત મહેનત ઝિંદાબાદ' અને ગામની ફરજ",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S2.T2"
+              ],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O3",
+                  "legacy_id": "L3",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "'જાત મહેનત ઝિંદાબાદ' અને 'પારકી આશ સદા નિરાશ' — આ બે કહેવત સંસ્કારના કામમાં કેવી રીતે ઊતરી, અને ગામનાં કોણ કોણ જોડાયાં તે કહેવું.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M1.S2.T3",
+                  "anchor": [
+                    "M1.S2.T3.C5"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "''ગામના બીજા લોકો પણ મદદ કરતા હશે ને?'' પુરુષોત્તમભાઈએ સહજ રીતે જ પૂછ્યું.\n\n''સંસ્કારની પાસે તો એક જ વાત હતી, 'જાત મહેનત ઝિંદાબાદ' અને 'પારકી આશ સદા નિરાશ.' શરૂઆતમાં તો એ એકલો જ મહેનત કરતો. પણ પછી તો શિવરામકાકા અને સરતાનકાકાએ ઘણી મદદ કરેલી. શાળાનાં શિક્ષિકા સુશીલાબેન પણ એને પ્રોત્સાહન આપતાં.''\n\n''તમે પણ એને મદદ કરતા જ હશો ને ?''\n\n''હાસ્તો ! બહારગામનો છોકરો આટલું બધું કામ કરે તો આપણી તો ફરજ થાય ને ?''",
+              "modified_chunk": "પુરુષોત્તમભાઈ પૂછે છે કે ગામના બીજા લોકો પણ મદદ કરતા હશે ને. સવજીભાઈ જવાબમાં કહે છે કે સંસ્કારની પાસે તો બે જ વાત હતી — 'જાત મહેનત ઝિંદાબાદ' અને 'પારકી આશ સદા નિરાશ.' શરૂઆતમાં એ એકલો જ મહેનત કરતો, પણ પછી શિવરામકાકા અને સરતાનકાકાએ ઘણી મદદ કરી અને શાળાનાં શિક્ષિકા સુશીલાબેન એને પ્રોત્સાહન આપતાં. છેલ્લે સવજીભાઈ કહે છે કે બહારગામનો છોકરો આટલું કામ કરે તો ગામલોકોની તો ફરજ થાય જ.",
+              "publication_chunk": "''ગામના બીજા લોકો પણ મદદ કરતા હશે ને?'' પુરુષોત્તમભાઈએ સહજ રીતે જ પૂછ્યું.\n\n''સંસ્કારની પાસે તો એક જ વાત હતી, 'જાત મહેનત ઝિંદાબાદ' અને 'પારકી આશ સદા નિરાશ.' શરૂઆતમાં તો એ એકલો જ મહેનત કરતો. પણ પછી તો શિવરામકાકા અને સરતાનકાકાએ ઘણી મદદ કરેલી. શાળાનાં શિક્ષિકા સુશીલાબેન પણ એને પ્રોત્સાહન આપતાં.''\n\n''તમે પણ એને મદદ કરતા જ હશો ને ?''\n\n''હાસ્તો ! બહારગામનો છોકરો આટલું બધું કામ કરે તો આપણી તો ફરજ થાય ને ?''\n\n'જાત મહેનત ઝિંદાબાદ' ને 'પારકી આશ સદા નિરાશ' — આ બે વાત સંસ્કારના પોતાના શબ્દો છે, જે સવજીભાઈ કહી સંભળાવે છે. જાત મહેનત એટલે પોતાની મહેનત, ને પારકી આશ એટલે બીજા ઉપર રાખેલો આધાર. પુરુષોત્તમભાઈ પૂછે છે કે ગામના બીજા લોકો પણ મદદ કરતા હશે ને ? સવજીભાઈ કહે છે કે શરૂઆતમાં તો એ એકલો જ મહેનત કરતો. પછી શિવરામકાકા ને સરતાનકાકાએ ઘણી મદદ કરી, ને શિક્ષિકા સુશીલાબેન એને પ્રોત્સાહન, એટલે ઉત્તેજન, આપતાં.\n\nશેરીમાં નવો છોકરો રહેવા આવે ને પહેલા દિવસે એકલો બૅટ લઈને ઊભો હોય. થોડી વારે એક જણ ફિલ્ડિંગમાં જાય, પછી બીજો બોલિંગ કરવા આવે, ને છેલ્લે થાંભલાનું સ્ટમ્પ પણ ગોઠવાઈ જાય. શરૂઆત તો એકલાએ કરી હતી, પણ રમત આખી શેરીની થઈ ગઈ. પાઠમાં પણ સંસ્કારે એકલા હાથે શરૂ કરેલું કામ પછી ગામનું બની ગયું.",
+              "word_count": {
+                "original": 75
+              },
+              "key_terms": [
+                "પ્રોત્સાહન — હિંમત ને ઉત્સાહ વધે એવું ઉત્તેજન",
+                "શિક્ષિકા — ભણાવનારાં બહેન, સ્ત્રી-શિક્ષક",
+                "ફરજ — જે કરવું જ જોઈએ તે કામ, જવાબદારી",
+                "બહારગામનો — બીજા ગામનો, અહીંનો વતની નહીં તેવો",
+                "સહજ — સ્વાભાવિક રીતે, વગર વિચાર્યે",
+                "હાસ્તો — 'હા જ તો'; બોલચાલમાં ભારપૂર્વક 'હા' કહેવાની રીત છે, ભૂલ નથી"
+              ],
+              "explanation": "'જાત મહેનત ઝિંદાબાદ' ને 'પારકી આશ સદા નિરાશ' — આ બે વાત સંસ્કારના પોતાના શબ્દો છે, જે સવજીભાઈ કહી સંભળાવે છે. જાત મહેનત એટલે પોતાની મહેનત, ને પારકી આશ એટલે બીજા ઉપર રાખેલો આધાર. પુરુષોત્તમભાઈ પૂછે છે કે ગામના બીજા લોકો પણ મદદ કરતા હશે ને ? સવજીભાઈ કહે છે કે શરૂઆતમાં તો એ એકલો જ મહેનત કરતો. પછી શિવરામકાકા ને સરતાનકાકાએ ઘણી મદદ કરી, ને શિક્ષિકા સુશીલાબેન એને પ્રોત્સાહન, એટલે ઉત્તેજન, આપતાં.",
+              "real_life_example": "શેરીમાં નવો છોકરો રહેવા આવે ને પહેલા દિવસે એકલો બૅટ લઈને ઊભો હોય. થોડી વારે એક જણ ફિલ્ડિંગમાં જાય, પછી બીજો બોલિંગ કરવા આવે, ને છેલ્લે થાંભલાનું સ્ટમ્પ પણ ગોઠવાઈ જાય. શરૂઆત તો એકલાએ કરી હતી, પણ રમત આખી શેરીની થઈ ગઈ. પાઠમાં પણ સંસ્કારે એકલા હાથે શરૂ કરેલું કામ પછી ગામનું બની ગયું. તમારી શેરીની રમતમાં સૌથી પહેલાં કોણ આવીને ઊભું રહે છે ?",
+              "publication_text": "'જાત મહેનત ઝિંદાબાદ' ને 'પારકી આશ સદા નિરાશ' — આ બે વાત સંસ્કારના પોતાના શબ્દો છે, જે સવજીભાઈ કહી સંભળાવે છે. જાત મહેનત એટલે પોતાની મહેનત, ને પારકી આશ એટલે બીજા ઉપર રાખેલો આધાર. પુરુષોત્તમભાઈ પૂછે છે કે ગામના બીજા લોકો પણ મદદ કરતા હશે ને ? સવજીભાઈ કહે છે કે શરૂઆતમાં તો એ એકલો જ મહેનત કરતો. પછી શિવરામકાકા ને સરતાનકાકાએ ઘણી મદદ કરી, ને શિક્ષિકા સુશીલાબેન એને પ્રોત્સાહન, એટલે ઉત્તેજન, આપતાં.",
+              "brief_summary": "સંસ્કાર શરૂઆતમાં એકલો જ મહેનત કરતો, પણ પછી શિવરામકાકા, સરતાનકાકા ને શિક્ષિકા સુશીલાબેન એની સાથે જોડાયાં.",
+              "summary": "પુરુષોત્તમભાઈ પૂછે છે કે ગામના બીજા લોકો પણ મદદ કરતા હશે ને. સવજીભાઈ કહે છે કે સંસ્કારની પાસે તો 'જાત મહેનત ઝિંદાબાદ' ને 'પારકી આશ સદા નિરાશ' એ જ વાત હતી, એટલે શરૂઆતમાં એ એકલો જ મહેનત કરતો. પછી શિવરામકાકા ને સરતાનકાકાએ મદદ કરી ને શિક્ષિકા સુશીલાબેન એને પ્રોત્સાહન આપતાં.",
+              "detailed_summary": "પુરુષોત્તમભાઈ સહજ રીતે પૂછે છે કે ગામના બીજા લોકો પણ મદદ કરતા હશે ને. જવાબમાં સવજીભાઈ સંસ્કારના પોતાના શબ્દો ટાંકે છે — 'જાત મહેનત ઝિંદાબાદ' અને 'પારકી આશ સદા નિરાશ.' આ કહેવતોને લીધે શરૂઆતમાં એ એકલો જ મહેનત કરતો હતો. પણ પછી શિવરામકાકા અને સરતાનકાકાએ ઘણી મદદ કરી, ને શાળાનાં શિક્ષિકા સુશીલાબેન એને પ્રોત્સાહન આપતાં. પુરુષોત્તમભાઈ પૂછે છે કે તમે પણ મદદ કરતા જ હશો ને, ત્યારે સવજીભાઈ 'હાસ્તો !' કહીને ઉમેરે છે કે બહારગામનો છોકરો આટલું બધું કામ કરે તો ગામલોકોની તો ફરજ થાય.",
+              "concept_bullets": [
+                "જાત મહેનત — પોતાની મહેનત; આ સંસ્કારના પોતાના શબ્દો છે.",
+                "પારકી આશ — બીજા ઉપર રાખેલો આધાર.",
+                "એકલો — શરૂઆતમાં સંસ્કાર એકલો જ મહેનત કરતો હતો.",
+                "પ્રોત્સાહન — હિંમત ને ઉત્સાહ વધે એવું ઉત્તેજન; સુશીલાબેન એ આપતાં."
+              ],
+              "important_points": [
+                "શિવરામકાકા ને સરતાનકાકા — આ બંનેએ સંસ્કારને ઘણી મદદ કરેલી.",
+                "સુશીલાબેન — શાળાનાં શિક્ષિકા, જે એને પ્રોત્સાહન આપતાં.",
+                "બહારગામનો — બીજા ગામનો; સંસ્કાર માટે સવજીભાઈ એ શબ્દ વાપરે છે.",
+                "હાસ્તો — 'હા જ તો'; ભારપૂર્વક 'હા' કહેવાની બોલચાલની રીત છે, ભૂલ નથી."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C5",
+                  "concept_name": "એકલા હાથે શરૂ થયેલું કામ ને પછી જોડાયેલા ગામલોકો",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "પુરુષોત્તમભાઈ પૂછે છે કે ગામના બીજા લોકો પણ મદદ કરતા હશે ને. જવાબમાં સવજીભાઈ સંસ્કારના પોતાના શબ્દો કહી સંભળાવે છે — 'જાત મહેનત ઝિંદાબાદ' અને 'પારકી આશ સદા નિરાશ.' જાત મહેનત એટલે પોતાની મહેનત, ને પારકી આશ એટલે બીજા ઉપર રાખેલો આધાર. આ બે વાત સંસ્કારની હતી, એટલે શરૂઆતમાં એ એકલો જ મહેનત કરતો.",
+                      "publication_text": "પુરુષોત્તમભાઈ પૂછે છે કે ગામના બીજા લોકો પણ મદદ કરતા હશે ને. જવાબમાં સવજીભાઈ સંસ્કારના પોતાના શબ્દો કહી સંભળાવે છે — 'જાત મહેનત ઝિંદાબાદ' અને 'પારકી આશ સદા નિરાશ.' જાત મહેનત એટલે પોતાની મહેનત, ને પારકી આશ એટલે બીજા ઉપર રાખેલો આધાર. આ બે વાત સંસ્કારની હતી, એટલે શરૂઆતમાં એ એકલો જ મહેનત કરતો."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "શરૂઆતમાં સંસ્કાર એકલો જ મહેનત કરતો હતો.",
+                        "પછી શિવરામકાકા અને સરતાનકાકાએ ઘણી મદદ કરેલી.",
+                        "શાળાનાં શિક્ષિકા સુશીલાબેન એને પ્રોત્સાહન આપતાં.",
+                        "સવજીભાઈ કહે છે કે બહારગામનો છોકરો આટલું કામ કરે તો પોતાની ફરજ થાય."
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "'હાસ્તો !' એ સવજીભાઈની બોલચાલની ભાષા છે — 'હા જ તો' કહેવાની ભારપૂર્વકની રીત. એ લખાણની ભૂલ નથી; આપણે ઘરમાં પણ એવું જ બોલીએ છીએ.",
+                      "publication_text": "'હાસ્તો !' એ સવજીભાઈની બોલચાલની ભાષા છે — 'હા જ તો' કહેવાની ભારપૂર્વકની રીત. એ લખાણની ભૂલ નથી; ઘરની બોલચાલમાં પણ એવું જ બોલાય છે."
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M1.S2.T3.RQ1",
+                  "legacy_id": "M1.S2.T3.TR1",
+                  "prompt": "સંસ્કારની પાસે કઈ બે વાત હતી ? જેમ છપાયું છે તેમ લખો.",
+                  "answer": "'જાત મહેનત ઝિંદાબાદ' અને 'પારકી આશ સદા નિરાશ.' — આ બે વાત સંસ્કારની પોતાની હતી.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M1.S2.T3.RQ2",
+                  "legacy_id": "M1.S2.T3.TR2",
+                  "prompt": "શરૂઆતમાં સંસ્કાર એકલો કેમ મહેનત કરતો હતો ?",
+                  "answer": "કારણ કે એની પાસે 'જાત મહેનત ઝિંદાબાદ' ને 'પારકી આશ સદા નિરાશ' એ જ વાત હતી. જાત મહેનત એટલે પોતાની મહેનત, એટલે એ બીજા ઉપર આધાર રાખ્યા વગર જાતે કામે લાગ્યો.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M1.S2.T3.RQ3",
+                  "legacy_id": "M1.S2.T3.TR3",
+                  "prompt": "સવજીભાઈ પોતે સંસ્કારને મદદ કરવા પાછળ કયું કારણ આપે છે ?",
+                  "answer": "એ કહે છે કે બહારગામનો છોકરો આટલું બધું કામ કરે તો પોતાની તો ફરજ થાય. એટલે એમને એ ગામલોકોની જવાબદારી લાગી.",
+                  "difficulty": "medium",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "estimated_exchanges": "4",
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "પ્રોત્સાહન",
+                  "arth": "હિંમત ને ઉત્સાહ વધે એવું ઉત્તેજન",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "ફરજ",
+                  "arth": "જે કરવું જ જોઈએ તે કામ, જવાબદારી",
+                  "prakar": "આગત"
+                },
+                {
+                  "shabd": "શિક્ષિકા",
+                  "arth": "ભણાવનારાં બહેન, સ્ત્રી-શિક્ષક",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "હાસ્તો",
+                  "arth": "'હા જ તો'; ભારપૂર્વક 'હા' કહેવાની બોલચાલની રીત",
+                  "prakar": "દેશ્ય"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "ફરજ",
+                  "samanarthi": [
+                    "જવાબદારી"
+                  ]
+                },
+                {
+                  "shabd": "સહજ",
+                  "samanarthi": [
+                    "સ્વાભાવિક"
+                  ]
+                }
+              ],
+              "vilom": [],
+              "vyakaran": [
+                {
+                  "bindu": "કહેવત",
+                  "udaharan": "પારકી આશ સદા નિરાશ",
+                  "note": "થોડા શબ્દોમાં અનુભવની આખી વાત કહી દે એવા વાક્યને કહેવત કહે છે. પાઠની છાપેલી યાદી પ્રમાણે એનો અર્થ છે — બીજા ઉપર આધાર રાખવો નકામો છે."
+                }
+              ],
+              "media": [
+                {
+                  "id": "M1.S2.T3.C5.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "એકલા હાથ સાથે જોડાયેલા હાથ",
+                  "description": "છોકરો ખાડો ખોદીને છોડ મૂકે છે ત્યાં જ બે વડીલ કોદાળી ને તગારું લઈને જોડાય છે અને શિક્ષિકાબહેન થોડાં વિદ્યાર્થીઓ સાથે પાણી લઈને આવે છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "concept_id": "M1.S2.T3.C5",
+                  "home_concept_id": "M1.S2.T3.C5",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર શબ્દોમાં ઊભું કરીને બાળકોને ગણાવો કે આ દૃશ્યમાં કેટલા જણ કામ કરે છે, અને પછી પાઠની લીટી વાંચો જેમાં શરૂઆતની એકલતા અને પછી જોડાયેલાં નામ આવે છે. નામ પાઠ પ્રમાણે જ બોલો — શિવરામકાકા, સરતાનકાકા અને શિક્ષિકા સુશીલાબેન — અને એમણે શું કર્યું એ વિશે પાઠમાં જે લખ્યું છે એથી વધુ કશું ઉમેરવું નહીં.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motivational poster layout, text banner with a moral, environmental-awareness campaign poster, tree-plantation event banner with logos, before-and-after split panel, arrows or callout labels, science diagram, government or NGO publicity photograph styling, caricatured or scolding expressions, drone or top-down aerial view, slogan on a wall or placard, ribbon-cutting ceremony, crowd rally, uniformed volunteers with matching caps, leader addressing a gathering, folded hands group photograph",
+                  "generation_prompt": "Mid-morning on an open patch of dry stony ground at the edge of a dry-country village in Gujarat, western India: low houses roofed with curved clay tiles, a raised stone otlo platform running along each front wall, a whitewashed chabutro standing on its post in the open chowk, pale stony ground underfoot and open scrub land at the far edge. a boy of about twelve with medium brown skin, short black hair and a thin build, in a plain white half-sleeve school shirt and faded khaki half-pants, barefoot kneels at the centre of the frame, lowering a small sapling into a freshly dug pit, loose brown earth heaped beside it. Two elderly men have just joined him and are already at work: one, with a white moustache and a checked cotton shirt and dhoti, swings a kodali to open a second pit a few steps away; the other, in a cream kurta and dhoti with a cloth wound round his head against the sun, carries an iron tagaru of earth on his hip. A woman schoolteacher of about thirty-five in a plain green cotton saree stands a little behind them with three children in plain school uniforms, one child holding a brass pot of water with both hands; the teacher's hand is raised in an encouraging gesture and she is smiling as she speaks. Four freshly planted saplings with bamboo stakes stand in a line behind the group. Bright hot daylight, dust in the air, warm ochres and greens. A narrow cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati script, and no other lettering appears anywhere in the picture: «પણ પછી તો શિવરામકાકા અને સરતાનકાકાએ ઘણી મદદ કરેલી.». Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T4",
+              "topic_name": "એકસો દસમાંથી બચેલાં ઘેઘૂર વૃક્ષો",
+              "topic_type": "CONCEPT",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S2.T3"
+              ],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O4"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O4",
+                  "legacy_id": "L4",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "પહેલા વૃક્ષારોપણમાં કેટલાં ઝાડ વાવેલાં ને કેટલાં બચ્યાં તે આંકડા શોધીને, ગામનાં જાહેર સંકુલો આજે લીલાંછમ કેમ છે તે કહેવું.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M1.S2.T4",
+                  "anchor": [
+                    "M1.S2.T4.C6"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "સવજીભાઈએ વાત આગળ ચલાવી. ''જુઓ, સામે પેલાં મોટાં ઝાડ દેખાય છે ને એ સૌથી પહેલા વૃક્ષારોપણનાં છે. એ વખતે પૂરાં એકસો દસ ઝાડ વાવેલાં. એમાંથી માત્ર સાડત્રીસ બચેલાં. જે આજે ઘેઘૂર વૃક્ષો થયાં છે.''\n\n''તમે ઝાડની સંખ્યાનો ચોક્કસ આંકડો બોલો છો એટલે લાગે છે કે સંસ્કાર સાથે તમે પણ કદમથી કદમ મેળવીને કામ કર્યું છે, સવજીભાઈ!''\n\n''ખરી વાત, શરૂઆત તો સંસ્કારે કરી, પછી મારા જેવા બે ચાર વડીલો નારાયણભાઈ, શ્રવણભાઈ, ભૂરાભાઈ અમે બધા જોડાઈ ગયેલા. ધીમે ધીમે તો દર વર્ષે વૃક્ષારોપણ વખતે વધુ ને વધુ લોકો જોડાતા ગયા. હવે તમે ગામમાં ફરશો ત્યારે જોશો કે ગામનાં બધાં જ જાહેર સંકુલો આજે લીલાંછમ છે.''",
+              "modified_chunk": "સવજીભાઈ સામે દેખાતાં મોટાં ઝાડ બતાવીને કહે છે કે એ સૌથી પહેલા વૃક્ષારોપણનાં છે. તે વખતે પૂરાં એકસો દસ ઝાડ વાવેલાં, તેમાંથી માત્ર સાડત્રીસ બચ્યાં, જે આજે ઘેઘૂર (ઘટાદાર) વૃક્ષો બન્યાં છે. પુરુષોત્તમભાઈ કહે છે કે સવજીભાઈ ઝાડની ચોક્કસ સંખ્યા બોલે છે એટલે લાગે છે કે એમણે પણ સંસ્કાર સાથે ખભેખભા મિલાવીને કામ કર્યું છે. સવજીભાઈ જણાવે છે કે શરૂઆત સંસ્કારે કરી, પછી નારાયણભાઈ, શ્રવણભાઈ, ભૂરાભાઈ જેવા વડીલો જોડાયા અને દર વર્ષે વધુ ને વધુ લોકો જોડાતા ગયા; આજે ગામનાં બધાં જાહેર સંકુલો લીલાંછમ છે.",
+              "publication_chunk": "સવજીભાઈએ વાત આગળ ચલાવી. ''જુઓ, સામે પેલાં મોટાં ઝાડ દેખાય છે ને એ સૌથી પહેલા વૃક્ષારોપણનાં છે. એ વખતે પૂરાં એકસો દસ ઝાડ વાવેલાં. એમાંથી માત્ર સાડત્રીસ બચેલાં. જે આજે ઘેઘૂર વૃક્ષો થયાં છે.''\n\n''તમે ઝાડની સંખ્યાનો ચોક્કસ આંકડો બોલો છો એટલે લાગે છે કે સંસ્કાર સાથે તમે પણ કદમથી કદમ મેળવીને કામ કર્યું છે, સવજીભાઈ!''\n\n''ખરી વાત, શરૂઆત તો સંસ્કારે કરી, પછી મારા જેવા બે ચાર વડીલો નારાયણભાઈ, શ્રવણભાઈ, ભૂરાભાઈ અમે બધા જોડાઈ ગયેલા. ધીમે ધીમે તો દર વર્ષે વૃક્ષારોપણ વખતે વધુ ને વધુ લોકો જોડાતા ગયા. હવે તમે ગામમાં ફરશો ત્યારે જોશો કે ગામનાં બધાં જ જાહેર સંકુલો આજે લીલાંછમ છે.''\n\nપહેલા વૃક્ષારોપણમાં પૂરાં એકસો દસ ઝાડ વાવેલાં ને એમાંથી માત્ર સાડત્રીસ બચેલાં. એકસો દસ એટલે વાવેલાં ઝાડ, ને સાડત્રીસ એટલે બચીને મોટાં થયેલાં ઝાડ. સવજીભાઈ સામે દેખાતાં એ જ ઝાડ બતાવે છે, જે આજે ઘેઘૂર, એટલે પાંદડાંથી ભરચક, વૃક્ષો થયાં છે. પુરુષોત્તમભાઈ આ ચોક્કસ આંકડો પકડી પાડે છે ને કહે છે કે તમે પણ કદમથી કદમ મેળવીને કામ કર્યું છે. સવજીભાઈ કબૂલે છે કે શરૂઆત સંસ્કારે કરી, પછી વડીલો જોડાયા.\n\nઉત્તરાયણની સાંજે ધાબા પરથી નીચે ઊતરાય ત્યારે ફિરકી હાથમાં હોય ને આંગળીઓ છોલાયેલી હોય. કોઈ પૂછે તો જવાબ તરત આવે — કેટલા પતંગ ચગ્યા, કેટલા કપાયા, ને છેલ્લે કયો બચ્યો. એ બધું બરાબર યાદ રહે છે, કારણ કે દોર આખો દિવસ પોતાના જ હાથમાં હતી. પુરુષોત્તમભાઈ પણ સવજીભાઈનો ચોક્કસ આંકડો સાંભળીને એ જ પકડી પાડે છે.",
+              "word_count": {
+                "original": 103
+              },
+              "key_terms": [
+                "ઘેઘૂર — ખૂબ ઘટાદાર, પાંદડાંથી ભરચક",
+                "વૃક્ષ — ઝાડ માટેનો ચોપડીની ભાષાનો શબ્દ",
+                "જાહેર સંકુલ — ગામનાં સૌ વાપરે તેવાં મકાન-મેદાનવાળાં સ્થળ",
+                "લીલુંછમ — તદ્દન લીલું, લીલોતરીથી ભરેલું",
+                "વડીલ — ઉંમરમાં મોટા ને માનનીય માણસ",
+                "આંકડો — સંખ્યા, ગણતરીનો ચોક્કસ નંબર"
+              ],
+              "explanation": "પહેલા વૃક્ષારોપણમાં પૂરાં એકસો દસ ઝાડ વાવેલાં ને એમાંથી માત્ર સાડત્રીસ બચેલાં. એકસો દસ એટલે વાવેલાં ઝાડ, ને સાડત્રીસ એટલે બચીને મોટાં થયેલાં ઝાડ. સવજીભાઈ સામે દેખાતાં એ જ ઝાડ બતાવે છે, જે આજે ઘેઘૂર, એટલે પાંદડાંથી ભરચક, વૃક્ષો થયાં છે. પુરુષોત્તમભાઈ આ ચોક્કસ આંકડો પકડી પાડે છે ને કહે છે કે તમે પણ કદમથી કદમ મેળવીને કામ કર્યું છે. સવજીભાઈ કબૂલે છે કે શરૂઆત સંસ્કારે કરી, પછી વડીલો જોડાયા.",
+              "real_life_example": "ઉત્તરાયણની સાંજે ધાબા પરથી નીચે ઊતરો ત્યારે ફિરકી હાથમાં હોય ને આંગળીઓ છોલાયેલી હોય. કોઈ પૂછે તો તમે તરત કહી દો — કેટલા પતંગ ચગ્યા, કેટલા કપાયા, ને છેલ્લે કયો બચ્યો. એ બધું બરાબર યાદ રહે છે, કારણ કે દોર આખો દિવસ તમારા પોતાના હાથમાં હતી. પુરુષોત્તમભાઈ પણ સવજીભાઈનો ચોક્કસ આંકડો સાંભળીને એ જ પકડી પાડે છે. તમે જાતે કરેલા કામની કઈ ગણતરી તમને આજેય બરાબર યાદ છે ?",
+              "publication_text": "પહેલા વૃક્ષારોપણમાં પૂરાં એકસો દસ ઝાડ વાવેલાં ને એમાંથી માત્ર સાડત્રીસ બચેલાં. એકસો દસ એટલે વાવેલાં ઝાડ, ને સાડત્રીસ એટલે બચીને મોટાં થયેલાં ઝાડ. સવજીભાઈ સામે દેખાતાં એ જ ઝાડ બતાવે છે, જે આજે ઘેઘૂર, એટલે પાંદડાંથી ભરચક, વૃક્ષો થયાં છે. પુરુષોત્તમભાઈ આ ચોક્કસ આંકડો પકડી પાડે છે ને કહે છે કે તમે પણ કદમથી કદમ મેળવીને કામ કર્યું છે. સવજીભાઈ કબૂલે છે કે શરૂઆત સંસ્કારે કરી, પછી વડીલો જોડાયા.",
+              "brief_summary": "પહેલા વૃક્ષારોપણનાં એકસો દસ ઝાડમાંથી સાડત્રીસ બચ્યાં, ને એ આજે ઘેઘૂર વૃક્ષો બનીને સામે ઊભાં છે.",
+              "summary": "સવજીભાઈ સામે દેખાતાં મોટાં ઝાડ બતાવીને કહે છે કે એ સૌથી પહેલા વૃક્ષારોપણનાં છે; તે વખતે પૂરાં એકસો દસ ઝાડ વાવેલાં ને એમાંથી માત્ર સાડત્રીસ બચેલાં. પુરુષોત્તમભાઈ કહે છે કે આટલો ચોક્કસ આંકડો બોલો છો, એટલે તમે પણ કદમથી કદમ મેળવીને કામ કર્યું છે. સવજીભાઈ કહે છે કે શરૂઆત સંસ્કારે કરી ને પછી વડીલો જોડાતા ગયા.",
+              "detailed_summary": "સવજીભાઈ વાત આગળ ચલાવીને સામે દેખાતાં મોટાં ઝાડ બતાવે છે ને કહે છે કે એ સૌથી પહેલા વૃક્ષારોપણનાં છે. તે વખતે પૂરાં એકસો દસ ઝાડ વાવેલાં, જેમાંથી માત્ર સાડત્રીસ બચેલાં; એ જ આજે ઘેઘૂર વૃક્ષો થયાં છે. પુરુષોત્તમભાઈ કહે છે કે સવજીભાઈ ઝાડની સંખ્યાનો આટલો ચોક્કસ આંકડો બોલે છે, એટલે લાગે છે કે એમણે પણ સંસ્કાર સાથે કદમથી કદમ મેળવીને કામ કર્યું છે. સવજીભાઈ એ વાત સ્વીકારે છે ને કહે છે કે શરૂઆત તો સંસ્કારે કરી. પછી નારાયણભાઈ, શ્રવણભાઈ ને ભૂરાભાઈ જેવા વડીલો જોડાઈ ગયા, ને દર વર્ષે વૃક્ષારોપણ વખતે વધુ ને વધુ લોકો જોડાતા ગયા. આજે ગામનાં બધાં જ જાહેર સંકુલો લીલાંછમ છે.",
+              "concept_bullets": [
+                "એકસો દસ — પહેલા વૃક્ષારોપણમાં વાવેલાં ઝાડ.",
+                "સાડત્રીસ — એમાંથી બચીને મોટાં થયેલાં ઝાડ.",
+                "ઘેઘૂર — ખૂબ ઘટાદાર, પાંદડાંથી ભરચક; આજે એ ઝાડ એવાં છે.",
+                "કદમથી કદમ મેળવવાં — સાથે મળીને કામ કરવું."
+              ],
+              "important_points": [
+                "આંકડો — સંખ્યા; ચોક્કસ આંકડો બોલવો એ સાથે કામ કર્યાની નિશાની છે.",
+                "વડીલો — નારાયણભાઈ, શ્રવણભાઈ ને ભૂરાભાઈ પછીથી જોડાયા.",
+                "દર વર્ષે — વૃક્ષારોપણ વખતે વધુ ને વધુ લોકો જોડાતા ગયા.",
+                "જાહેર સંકુલ — ગામનાં સૌ વાપરે તેવાં સ્થળ; આજે એ બધાં લીલાંછમ છે."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T4.C6",
+                  "concept_name": "પહેલા વૃક્ષારોપણનો હિસાબ ને લીલાંછમ થયેલાં જાહેર સંકુલો",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "સવજીભાઈ સામે દેખાતાં મોટાં ઝાડ બતાવીને પહેલા વૃક્ષારોપણનો હિસાબ આપે છે. તે વખતે પૂરાં એકસો દસ ઝાડ વાવેલાં, ને એમાંથી માત્ર સાડત્રીસ બચેલાં. એકસો દસ એટલે વાવેલાં ઝાડ, સાડત્રીસ એટલે બચીને મોટાં થયેલાં ઝાડ. એ જ સાડત્રીસ આજે ઘેઘૂર, એટલે પાંદડાંથી ભરચક, વૃક્ષો બનીને સામે ઊભાં છે.",
+                      "publication_text": "સવજીભાઈ સામે દેખાતાં મોટાં ઝાડ બતાવીને પહેલા વૃક્ષારોપણનો હિસાબ આપે છે. તે વખતે પૂરાં એકસો દસ ઝાડ વાવેલાં, ને એમાંથી માત્ર સાડત્રીસ બચેલાં. એકસો દસ એટલે વાવેલાં ઝાડ, સાડત્રીસ એટલે બચીને મોટાં થયેલાં ઝાડ. એ જ સાડત્રીસ આજે ઘેઘૂર, એટલે પાંદડાંથી ભરચક, વૃક્ષો બનીને સામે ઊભાં છે."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "પુરુષોત્તમભાઈ આ ચોક્કસ આંકડા પર જ ધ્યાન આપે છે. એ કહે છે કે તમે ઝાડની સંખ્યાનો આટલો ચોક્કસ આંકડો બોલો છો, એટલે લાગે છે કે તમે પણ સંસ્કાર સાથે કદમથી કદમ મેળવીને કામ કર્યું છે. કદમથી કદમ મેળવવાં એટલે સાથે મળીને કામ કરવું.",
+                      "publication_text": "પુરુષોત્તમભાઈ આ ચોક્કસ આંકડા પર જ ધ્યાન આપે છે. એ કહે છે કે તમે ઝાડની સંખ્યાનો આટલો ચોક્કસ આંકડો બોલો છો, એટલે લાગે છે કે તમે પણ સંસ્કાર સાથે કદમથી કદમ મેળવીને કામ કર્યું છે. કદમથી કદમ મેળવવાં એટલે સાથે મળીને કામ કરવું."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "શરૂઆત તો સંસ્કારે કરી.",
+                        "પછી નારાયણભાઈ, શ્રવણભાઈ ને ભૂરાભાઈ જેવા વડીલો જોડાઈ ગયા.",
+                        "દર વર્ષે વૃક્ષારોપણ વખતે વધુ ને વધુ લોકો જોડાતા ગયા.",
+                        "આજે ગામનાં બધાં જ જાહેર સંકુલો લીલાંછમ છે."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M1.S2.T4.RQ1",
+                  "legacy_id": "M1.S2.T4.TR1",
+                  "prompt": "સૌથી પહેલા વૃક્ષારોપણમાં કેટલાં ઝાડ વાવેલાં ને કેટલાં બચેલાં ? શબ્દોમાં લખો.",
+                  "answer": "તે વખતે પૂરાં એકસો દસ ઝાડ વાવેલાં, ને એમાંથી માત્ર સાડત્રીસ બચેલાં. એ સાડત્રીસ આજે ઘેઘૂર વૃક્ષો થયાં છે.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M1.S2.T4.RQ2",
+                  "legacy_id": "M1.S2.T4.TR2",
+                  "prompt": "સવજીભાઈ ચોક્કસ આંકડો બોલે છે, એ સાંભળીને પુરુષોત્તમભાઈને શું લાગે છે ?",
+                  "answer": "એમને લાગે છે કે સવજીભાઈએ પણ સંસ્કાર સાથે કદમથી કદમ મેળવીને કામ કર્યું છે, એટલે સાથે મળીને કામ કર્યું છે. જેણે જાતે કામ કર્યું હોય તેને જ આવો ચોક્કસ આંકડો યાદ રહે.",
+                  "difficulty": "medium",
+                  "bloom_level": "analyze"
+                },
+                {
+                  "id": "M1.S2.T4.RQ3",
+                  "legacy_id": "M1.S2.T4.TR3",
+                  "prompt": "ગામમાં કામ કરનારાઓની સંખ્યા વરસો સાથે કેવી રીતે બદલાઈ ?",
+                  "answer": "શરૂઆત સંસ્કારે એકલાએ કરી. પછી નારાયણભાઈ, શ્રવણભાઈ ને ભૂરાભાઈ જેવા વડીલો જોડાયા, ને દર વર્ષે વૃક્ષારોપણ વખતે વધુ ને વધુ લોકો જોડાતા ગયા.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                }
+              ],
+              "estimated_exchanges": "4",
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "ઘેઘૂર",
+                  "arth": "ખૂબ ઘટાદાર, પાંદડાંથી ભરચક",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "સંકુલ",
+                  "arth": "મકાન-મેદાનવાળું સ્થળ; જાહેર સંકુલ એટલે સૌ વાપરે તેવું સ્થળ",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "વડીલ",
+                  "arth": "ઉંમરમાં મોટા ને માનનીય માણસ",
+                  "prakar": "તદ્ભવ"
+                },
+                {
+                  "shabd": "કદમ",
+                  "arth": "પગલું",
+                  "prakar": "આગત"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "વૃક્ષ",
+                  "samanarthi": [
+                    "ઝાડ"
+                  ]
+                },
+                {
+                  "shabd": "આંકડો",
+                  "samanarthi": [
+                    "સંખ્યા"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "વધુ",
+                  "vilom": "ઓછું"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "વિરામચિહ્નો",
+                  "udaharan": "નારાયણભાઈ, શ્રવણભાઈ, ભૂરાભાઈ",
+                  "note": "એક જ વાક્યમાં નામની યાદી આવે ત્યારે દરેક નામ પછી અલ્પવિરામ મુકાય છે. એ વાંચતી વખતે જરા થોભવાનું કહે છે."
+                }
+              ],
+              "media": [
+                {
+                  "id": "M1.S2.T4.C6.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "પહેલા વૃક્ષારોપણનાં ઘેઘૂર ઝાડ",
+                  "description": "સવજીભાઈ સામે દેખાતાં ઘેઘૂર વૃક્ષો તરફ આંગળી ચીંધે છે અને પુરુષોત્તમભાઈ છાયામાં ઊભા રહીને એ તરફ જુએ છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "concept_id": "M1.S2.T4.C6",
+                  "home_concept_id": "M1.S2.T4.C6",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર વડે બંને વાત જોડો — સવજીભાઈ જે ઝાડ બતાવે છે તે સૌથી પહેલા વૃક્ષારોપણનાં છે, અને પુરુષોત્તમભાઈ એમના ચોક્કસ આંકડા સાંભળીને કહે છે કે તમે પણ કદમથી કદમ મેળવીને કામ કર્યું છે. બાળકોને ઝાડની ઘટા જોવડાવીને 'ઘેઘૂર' શબ્દ ત્યાં જ ગ્લોસ કરો.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motivational poster layout, text banner with a moral, environmental-awareness campaign poster, tree-plantation event banner with logos, before-and-after split panel, arrows or callout labels, science diagram, government or NGO publicity photograph styling, caricatured or scolding expressions, drone or top-down aerial view, counting or numbering of trees, tally marks, chart or graph, forest reserve signage, dead or withered trees in the foreground, memorial plaque",
+                  "generation_prompt": "Afternoon at the edge of the chowk in a dry-country village in Gujarat, western India: low houses roofed with curved clay tiles, a raised stone otlo platform running along each front wall, a whitewashed chabutro standing on its post in the open chowk, pale stony ground underfoot and open scrub land at the far edge. In the middle distance stands a group of very large old trees with thick dark trunks and dense spreading crowns that throw a wide pool of deep shade across the open ground. In the foreground, seen from slightly behind and to one side, a man of about sixty-five with medium brown skin, short white hair, a clipped white moustache and a lined weathered face, wearing a plain white half-sleeve cotton shirt over a white dhoti, rubber slippers, and a folded white cloth resting on one shoulder has stopped walking and is pointing straight at those trees with his whole arm extended, his face turned toward his companion. Next to him a man of about sixty with medium brown skin, grey hair combed straight back, a thick grey moustache and steel-rimmed spectacles, wearing a pale blue half-sleeve cotton shirt tucked into grey trousers, brown leather sandals and a small tan cloth bag on one shoulder follows the pointing hand with his eyes, one hand resting on his own chest, his expression impressed and thoughtful. Between them and the trees lie the ordinary things of the chowk: a whitewashed chabutro on its post, a hand pump with a puddle around its base, a cot leaning against a wall, a red-and-white state transport bus parked far off with a blank destination board. Strong afternoon light, deep tree shadow, warm dust-cream ground against heavy green. A narrow cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati script, and no other lettering appears anywhere in the picture: «સામે પેલાં મોટાં ઝાડ સૌથી પહેલા વૃક્ષારોપણનાં છે.». Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "લીલાંછમ સંકુલોથી શાળાના ઉપવન સુધી",
+      "difficult_words": [
+        {
+          "word": "વનરાજી",
+          "meaning": "ઝાડપાનની હાર, લીલોછમ ઝાડવાળો પ્રદેશ",
+          "example": "બારીમાંથી દૂરની વનરાજી દેખાય છે."
+        },
+        {
+          "word": "અહોભાવ",
+          "meaning": "વખાણ ને માનથી ભરેલો મનનો ભાવ",
+          "example": "એનું ચિત્ર જોઈને સૌ અહોભાવથી જોતાં રહ્યાં."
+        },
+        {
+          "word": "મબલખ",
+          "meaning": "પુષ્કળ, ખૂબ બધું",
+          "example": "આ વર્ષે અમારા આંબે મબલખ કેરી આવી છે."
+        },
+        {
+          "word": "ધગશ",
+          "meaning": "કામ કરવાની ધગધગતી લગની",
+          "example": "એની ધગશ જોઈને શિક્ષક પણ રાજી થયા."
+        },
+        {
+          "word": "માવજત",
+          "meaning": "સંભાળ રાખીને જતન કરવું",
+          "example": "ગાયની માવજત દાદા જાતે કરે છે."
+        },
+        {
+          "word": "ઉપવન",
+          "meaning": "સુંદર બગીચો",
+          "example": "શિયાળામાં એ ટેકરી આખી ઉપવન જેવી લાગે છે."
+        },
+        {
+          "word": "સહયોગ",
+          "meaning": "સાથે મળીને અપાતી મદદ",
+          "example": "સૌના સહયોગથી નાટકની તૈયારી બે દિવસમાં થઈ ગઈ."
+        },
+        {
+          "word": "પ્રદૂષિત",
+          "meaning": "ખરાબ થયેલું, ગંદું બનેલું",
+          "example": "કચરો નાખવાથી તળાવનું પાણી પ્રદૂષિત થયું."
+        }
+      ],
+      "overall_rhyme_scheme": null,
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "નવી જાતો, કલમ ને નક્ષત્રનો બગીચો",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "કલમ કરેલી બોરડી ને ડ્રેગનફ્રુટની ખેતી",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M1.S2.T4"
+              ],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O5"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O5",
+                  "legacy_id": "L5",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "ગામમાં કયાં નવાં ઝાડ ઊછરી શક્યાં અને સાગ, સીસમ, વાંસ જેવાં કયાં ન ઊછરી શક્યાં — બંનેનું કારણ પાઠમાંથી શોધીને કહેવું.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M2.S3.T5",
+                  "anchor": [
+                    "M2.S3.T5.C7",
+                    "M2.S3.T5.C8"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "''હા, મેં પ્રવેશદ્વારે અને મંદિરમાં સરસ વનરાજી જોઈ. પણ એમાં અમુક ઝાડ તો એવાં જોયાં જે પહેલાં આપણા વિસ્તારમાં ક્યાંય જોવા જ નહોતાં મળતાં. એ કેવી રીતે થયાં?''  પુરુષોત્તમભાઈએ અહોભાવ સાથે પૂછ્યું.\n\n''ભાઈ, સંસ્કાર જેનું નામ એ સતત મથતો રહે. હવે તો એ આપણા ગામમાં જ સ્થિર થયો છે. આપણી જમીનમાં ક્યાં ક્યાં ઝાડ ઊછેરી શકાય, કયા ઝાડને કેવી માવજત આપવી જોઈએ, તે બધું જાણી લાવે છે અને પ્રયોગો કર્યા જ કરે છે. એની ધગશ અને અમારી સહિયારી મહેનત છે. ગામમાં સરગવા, પલાશ, સેવન, ગરમાળા વગેરેની સાથે ઘણા બધા લીમડા પણ ઊછરી શક્યા છે. અહીં દેશી બોરડીઓ તો હતી જ. તેના પર કલમ કરી દીધી છે. હવે બોરડીઓ પર કાંટા નથી આવતા. મીઠાં, મોટાં અને મબલખ બોર ઊતરે છે. બીજાં ફળાઉ વૃક્ષો થવા માંડ્યાં છે. ડ્રેગનફ્રુટ ખેતી પણ શરૂ થઈ છે. જો કે એણે મહેનત કરી પણ અહીં વરસાદ ઘણો ઓછો છે તેથી સાગ, સીસમ, સાજડ, વાંસ અને નાગકેસર જેવાં વૃક્ષો ઊછેરી શકાતાં નથી. આ વિસ્તાર માટે એ કામ લોઢાના ચણા ચાવવા જેવું છે.''",
+              "modified_chunk": "પુરુષોત્તમભાઈ કહે છે કે એમણે પ્રવેશદ્વારે અને મંદિરમાં સરસ વનરાજી (ઝાડપાનની હાર) જોઈ, પણ તેમાં અમુક ઝાડ એવાં હતાં જે પહેલાં આ વિસ્તારમાં ક્યાંય જોવા મળતાં નહોતાં; એ કેવી રીતે થયાં તે એ પૂછે છે. સવજીભાઈ સમજાવે છે કે સંસ્કાર સતત મથતો રહે છે — કઈ જમીનમાં કયું ઝાડ ઊછરે અને કયા ઝાડને કેવી માવજત (સંભાળ) જોઈએ તે જાણી લાવે છે અને પ્રયોગો કર્યા કરે છે. તેથી ગામમાં સરગવા, પલાશ, સેવન, ગરમાળા અને ઘણા લીમડા ઊછર્યા છે, દેશી બોરડીઓ પર કલમ કરવાથી હવે કાંટા વગરનાં મીઠાં ને મબલખ બોર ઊતરે છે, અને ડ્રેગનફ્રુટની ખેતી પણ શરૂ થઈ છે. પણ વરસાદ ઓછો હોવાથી સાગ, સીસમ, સાજડ, વાંસ અને નાગકેસર જેવાં વૃક્ષો અહીં ઊછેરી શકાતાં નથી.",
+              "publication_chunk": "''હા, મેં પ્રવેશદ્વારે અને મંદિરમાં સરસ વનરાજી જોઈ. પણ એમાં અમુક ઝાડ તો એવાં જોયાં જે પહેલાં આપણા વિસ્તારમાં ક્યાંય જોવા જ નહોતાં મળતાં. એ કેવી રીતે થયાં?''  પુરુષોત્તમભાઈએ અહોભાવ સાથે પૂછ્યું.\n\n''ભાઈ, સંસ્કાર જેનું નામ એ સતત મથતો રહે. હવે તો એ આપણા ગામમાં જ સ્થિર થયો છે. આપણી જમીનમાં ક્યાં ક્યાં ઝાડ ઊછેરી શકાય, કયા ઝાડને કેવી માવજત આપવી જોઈએ, તે બધું જાણી લાવે છે અને પ્રયોગો કર્યા જ કરે છે. એની ધગશ અને અમારી સહિયારી મહેનત છે. ગામમાં સરગવા, પલાશ, સેવન, ગરમાળા વગેરેની સાથે ઘણા બધા લીમડા પણ ઊછરી શક્યા છે. અહીં દેશી બોરડીઓ તો હતી જ. તેના પર કલમ કરી દીધી છે. હવે બોરડીઓ પર કાંટા નથી આવતા. મીઠાં, મોટાં અને મબલખ બોર ઊતરે છે. બીજાં ફળાઉ વૃક્ષો થવા માંડ્યાં છે. ડ્રેગનફ્રુટ ખેતી પણ શરૂ થઈ છે. જો કે એણે મહેનત કરી પણ અહીં વરસાદ ઘણો ઓછો છે તેથી સાગ, સીસમ, સાજડ, વાંસ અને નાગકેસર જેવાં વૃક્ષો ઊછેરી શકાતાં નથી. આ વિસ્તાર માટે એ કામ લોઢાના ચણા ચાવવા જેવું છે.''\n\nસંસ્કાર જમીન ને ઝાડ વિશે જાણી લાવે છે ને પ્રયોગો કર્યા કરે છે, એટલે ગામમાં નવી જાતનાં ઝાડ ઊછર્યાં છે. પુરુષોત્તમભાઈ પ્રવેશદ્વારે ને મંદિરમાં વનરાજી, એટલે લીલોછમ ઝાડપાનવાળો પ્રદેશ, જુએ છે ને પૂછે છે કે આ કેવી રીતે થયું. સવજીભાઈ કહે છે કે સરગવા, પલાશ, સેવન, ગરમાળા ને લીમડા ઊછર્યા છે. દેશી બોરડીઓ પર કલમ કરવાથી હવે કાંટા વગરનાં મબલખ, એટલે પુષ્કળ, બોર ઊતરે છે.\n\nઘરે પહેલી વાર જાતે રોટલી વણવા બેસાય ત્યારે પહેલી રોટલી વાંકીચૂકી થાય છે. બીજી થોડી સારી, ત્રીજી એથી સારી — ને એક દિવસ તવા પર એ ફૂલીને ગોળ થઈ જાય. છતાં ઢોકળાં ઉતારવાનું હજી ય ન ફાવે, એટલે એ કામ ઘરમાં મોટેરાં પાસે જ રહે. પાઠમાં પણ અમુક ઝાડ ઊછરી શક્યાં ને અમુક ન ઊછરી શક્યાં.",
+              "word_count": {
+                "original": 164
+              },
+              "key_terms": [
+                "વનરાજી — ઝાડપાનની હાર, લીલોછમ ઝાડવાળો પ્રદેશ",
+                "અહોભાવ — વખાણ ને માનથી ભરેલો મનનો ભાવ",
+                "માવજત — સંભાળ રાખીને જતન કરવું",
+                "ધગશ — કામ કરવાની ધગધગતી લગની",
+                "કલમ કરવી — સારી જાતની ડાળ બીજા ઝાડ પર જોડીને એવું જ ફળ મેળવવું",
+                "મબલખ — પુષ્કળ, ખૂબ બધું"
+              ],
+              "explanation": "સંસ્કાર જમીન ને ઝાડ વિશે જાણી લાવે છે ને પ્રયોગો કર્યા કરે છે, એટલે ગામમાં નવી જાતનાં ઝાડ ઊછર્યાં છે. પુરુષોત્તમભાઈ પ્રવેશદ્વારે ને મંદિરમાં વનરાજી, એટલે લીલોછમ ઝાડપાનવાળો પ્રદેશ, જુએ છે ને પૂછે છે કે આ કેવી રીતે થયું. સવજીભાઈ કહે છે કે સરગવા, પલાશ, સેવન, ગરમાળા ને લીમડા ઊછર્યા છે. દેશી બોરડીઓ પર કલમ કરવાથી હવે કાંટા વગરનાં મબલખ, એટલે પુષ્કળ, બોર ઊતરે છે.",
+              "real_life_example": "ઘરે પહેલી વાર જાતે રોટલી વણવા બેસો ત્યારે પહેલી રોટલી વાંકીચૂકી થાય છે. બીજી થોડી સારી, ત્રીજી એથી સારી — ને એક દિવસ તવા પર એ ફૂલીને ગોળ થઈ જાય. છતાં ઢોકળાં ઉતારવાનું હજી ય ન ફાવે, એટલે એ કામ ઘરમાં મોટેરાં પાસે જ રહે. પાઠમાં પણ અમુક ઝાડ ઊછરી શક્યાં ને અમુક ન ઊછરી શક્યાં. તમને રસોડામાં કઈ વસ્તુ સૌથી પહેલી ફાવી હતી ?",
+              "publication_text": "સંસ્કાર જમીન ને ઝાડ વિશે જાણી લાવે છે ને પ્રયોગો કર્યા કરે છે, એટલે ગામમાં નવી જાતનાં ઝાડ ઊછર્યાં છે. પુરુષોત્તમભાઈ પ્રવેશદ્વારે ને મંદિરમાં વનરાજી, એટલે લીલોછમ ઝાડપાનવાળો પ્રદેશ, જુએ છે ને પૂછે છે કે આ કેવી રીતે થયું. સવજીભાઈ કહે છે કે સરગવા, પલાશ, સેવન, ગરમાળા ને લીમડા ઊછર્યા છે. દેશી બોરડીઓ પર કલમ કરવાથી હવે કાંટા વગરનાં મબલખ, એટલે પુષ્કળ, બોર ઊતરે છે.",
+              "brief_summary": "સંસ્કારના પ્રયોગોથી ગામમાં નવી જાતનાં ઝાડ ને કલમ કરેલી બોરડીઓ ઊછરી, પણ ઓછા વરસાદને લીધે સાગ-સીસમ જેવાં ઝાડ ઊછરી શકતાં નથી.",
+              "summary": "પુરુષોત્તમભાઈ પ્રવેશદ્વારે ને મંદિરમાં એવાં ઝાડ જુએ છે જે પહેલાં આ વિસ્તારમાં ક્યાંય નહોતાં, ને પૂછે છે કે એ કેવી રીતે થયાં. સવજીભાઈ કહે છે કે સંસ્કાર જાણી લાવે છે ને પ્રયોગો કર્યા કરે છે, એટલે સરગવા, પલાશ, સેવન, ગરમાળા ને લીમડા ઊછર્યા ને બોરડીઓ પર કલમ થઈ. પણ વરસાદ ઓછો હોવાથી સાગ, સીસમ, સાજડ, વાંસ ને નાગકેસર ઊછેરી શકાતાં નથી.",
+              "detailed_summary": "પુરુષોત્તમભાઈ અહોભાવ સાથે કહે છે કે એમણે પ્રવેશદ્વારે ને મંદિરમાં સરસ વનરાજી જોઈ, પણ એમાં અમુક ઝાડ એવાં હતાં જે પહેલાં આ વિસ્તારમાં ક્યાંય જોવા મળતાં નહોતાં. સવજીભાઈ કહે છે કે સંસ્કાર સતત મથતો રહે છે ને હવે ગામમાં જ સ્થિર થયો છે. કઈ જમીનમાં કયું ઝાડ ઊછરે ને કયા ઝાડને કેવી માવજત આપવી પડે તે એ જાણી લાવે છે ને પ્રયોગો કર્યા કરે છે. એની ધગશ ને ગામલોકોની સહિયારી મહેનતથી સરગવા, પલાશ, સેવન, ગરમાળા ને ઘણા લીમડા ઊછરી શક્યા છે. અહીં દેશી બોરડીઓ તો હતી જ; તેના પર કલમ કરવાથી હવે કાંટા આવતા નથી ને મીઠાં, મોટાં ને મબલખ બોર ઊતરે છે, ને ડ્રેગનફ્રુટની ખેતી પણ શરૂ થઈ છે. પણ અહીં વરસાદ ઘણો ઓછો છે, તેથી સાગ, સીસમ, સાજડ, વાંસ ને નાગકેસર જેવાં વૃક્ષો ઊછેરવાં આ વિસ્તાર માટે લોઢાના ચણા ચાવવા જેવું અઘરું કામ છે.",
+              "concept_bullets": [
+                "વનરાજી — ઝાડપાનની હાર, લીલોછમ ઝાડવાળો પ્રદેશ.",
+                "કલમ કરવી — સારી જાતની ડાળ બીજા ઝાડ પર જોડીને એવું જ ફળ મેળવવું.",
+                "મબલખ — પુષ્કળ; કલમ પછી બોરડીઓ પર એવાં બોર ઊતરે છે.",
+                "ધગશ — કામ કરવાની ધગધગતી લગની; સંસ્કારમાં એ છે."
+              ],
+              "important_points": [
+                "પ્રયોગ — સંસ્કાર જાણી લાવીને નવા નવા પ્રયોગો કર્યા કરે છે.",
+                "માવજત — સંભાળ રાખીને જતન કરવું; કયા ઝાડને કેવી, તે એ જાણી લાવે છે.",
+                "ઊછર્યાં — સરગવા, પલાશ, સેવન, ગરમાળા ને ઘણા લીમડા.",
+                "લોઢાના ચણા ચાવવા — ખૂબ જ અઘરું કામ કરવું."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C7",
+                  "concept_name": "પ્રયોગોથી ઊછરેલી નવી જાતો — સરગવા, પલાશ, લીમડા ને કલમની બોરડી",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "પુરુષોત્તમભાઈ પ્રવેશદ્વારે ને મંદિરમાં વનરાજી જુએ છે — વનરાજી એટલે ઝાડપાનની હાર. એમાં અમુક ઝાડ એવાં છે જે પહેલાં આ વિસ્તારમાં ક્યાંય જોવા મળતાં નહોતાં, એટલે એ પૂછે છે કે એ કેવી રીતે થયાં. સવજીભાઈ કહે છે કે સંસ્કાર સતત મથતો રહે છે ને હવે ગામમાં જ સ્થિર થયો છે. કઈ જમીનમાં કયું ઝાડ ઊછરે ને કયા ઝાડને કેવી માવજત આપવી પડે તે એ જાણી લાવે છે ને પ્રયોગો કર્યા કરે છે.",
+                      "publication_text": "પુરુષોત્તમભાઈ પ્રવેશદ્વારે ને મંદિરમાં વનરાજી જુએ છે — વનરાજી એટલે ઝાડપાનની હાર. એમાં અમુક ઝાડ એવાં છે જે પહેલાં આ વિસ્તારમાં ક્યાંય જોવા મળતાં નહોતાં, એટલે એ પૂછે છે કે એ કેવી રીતે થયાં. સવજીભાઈ કહે છે કે સંસ્કાર સતત મથતો રહે છે ને હવે ગામમાં જ સ્થિર થયો છે. કઈ જમીનમાં કયું ઝાડ ઊછરે ને કયા ઝાડને કેવી માવજત આપવી પડે તે એ જાણી લાવે છે ને પ્રયોગો કર્યા કરે છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "ગામમાં સરગવા, પલાશ, સેવન, ગરમાળા ને ઘણા લીમડા ઊછરી શક્યા છે.",
+                        "અહીં દેશી બોરડીઓ તો હતી જ; તેના પર કલમ કરી દીધી છે.",
+                        "હવે બોરડીઓ પર કાંટા આવતા નથી ને મીઠાં, મોટાં ને મબલખ બોર ઊતરે છે.",
+                        "બીજાં ફળાઉ વૃક્ષો થવા માંડ્યાં છે ને ડ્રેગનફ્રુટની ખેતી પણ શરૂ થઈ છે."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "concept_id": "M2.S3.T5.C8",
+                  "concept_name": "ઓછા વરસાદે જે ઝાડ ન ઊછરી શક્યાં તે",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "બધું જ ફાવ્યું નથી. સવજીભાઈ કહે છે કે અહીં વરસાદ ઘણો ઓછો છે, તેથી સાગ, સીસમ, સાજડ, વાંસ ને નાગકેસર જેવાં વૃક્ષો ઊછેરી શકાતાં નથી. પાઠ કારણ એક જ આપે છે — ઓછો વરસાદ.",
+                      "publication_text": "બધું જ ફાવ્યું નથી. સવજીભાઈ કહે છે કે અહીં વરસાદ ઘણો ઓછો છે, તેથી સાગ, સીસમ, સાજડ, વાંસ ને નાગકેસર જેવાં વૃક્ષો ઊછેરી શકાતાં નથી. પાઠ કારણ એક જ આપે છે — ઓછો વરસાદ."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "એ પછી પાઠમાં એક રૂઢિપ્રયોગ આવે છે: 'આ વિસ્તાર માટે એ કામ લોઢાના ચણા ચાવવા જેવું છે.' લોઢાના ચણા ચાવવા એટલે ખૂબ જ અઘરું કામ કરવું. અહીં અઘરું કામ કયું ? ઓછા વરસાદવાળા આ વિસ્તારમાં સાગ, સીસમ, સાજડ, વાંસ ને નાગકેસર ઉછેરવાં તે.",
+                      "publication_text": "એ પછી પાઠમાં એક રૂઢિપ્રયોગ આવે છે: 'આ વિસ્તાર માટે એ કામ લોઢાના ચણા ચાવવા જેવું છે.' લોઢાના ચણા ચાવવા એટલે ખૂબ જ અઘરું કામ કરવું. અહીં અઘરું કામ એટલે ઓછા વરસાદવાળા આ વિસ્તારમાં સાગ, સીસમ, સાજડ, વાંસ ને નાગકેસર ઉછેરવાં તે."
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M2.S3.T5.RQ1",
+                  "legacy_id": "M2.S3.T5.TR1",
+                  "prompt": "ગામમાં કયાં કયાં ઝાડ ઊછરી શક્યાં છે ? પાઠમાંથી શોધીને લખો.",
+                  "answer": "ગામમાં સરગવા, પલાશ, સેવન, ગરમાળા વગેરેની સાથે ઘણા બધા લીમડા પણ ઊછરી શક્યા છે. બોરડીઓ પર કલમ થઈ છે ને ડ્રેગનફ્રુટની ખેતી પણ શરૂ થઈ છે.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M2.S3.T5.RQ2",
+                  "legacy_id": "M2.S3.T5.TR2",
+                  "prompt": "કલમ કર્યા પછી બોરડીઓમાં શો ફેર પડ્યો ?",
+                  "answer": "કલમ કર્યા પછી બોરડીઓ પર કાંટા આવતા નથી, ને એના પર મીઠાં, મોટાં અને મબલખ બોર ઊતરે છે. 'મબલખ' એટલે પુષ્કળ.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M2.S3.T5.RQ3",
+                  "legacy_id": "M2.S3.T5.TR3",
+                  "prompt": "કયાં વૃક્ષો અહીં ઊછેરી શકાતાં નથી, ને પાઠ એનું શું કારણ આપે છે ?",
+                  "answer": "સાગ, સીસમ, સાજડ, વાંસ અને નાગકેસર જેવાં વૃક્ષો અહીં ઊછેરી શકાતાં નથી. પાઠ કારણ એક જ આપે છે — અહીં વરસાદ ઘણો ઓછો છે. એટલે જ સવજીભાઈ કહે છે કે એ કામ લોઢાના ચણા ચાવવા જેવું છે.",
+                  "difficulty": "hard",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "estimated_exchanges": "5",
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "વનરાજી",
+                  "arth": "ઝાડપાનની હાર, લીલોછમ ઝાડવાળો પ્રદેશ",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "અહોભાવ",
+                  "arth": "વખાણ ને માનથી ભરેલો મનનો ભાવ",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "મબલખ",
+                  "arth": "પુષ્કળ, ખૂબ બધું",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "ધગશ",
+                  "arth": "કામ કરવાની ધગધગતી લગની",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "ડ્રેગનફ્રુટ",
+                  "arth": "એક ફળ, કમલમ્",
+                  "prakar": "આગત"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "મબલખ",
+                  "samanarthi": [
+                    "પુષ્કળ"
+                  ]
+                },
+                {
+                  "shabd": "માવજત",
+                  "samanarthi": [
+                    "સંભાળ",
+                    "જતન"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "ઓછો",
+                  "vilom": "વધારે"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "રૂઢિપ્રયોગ",
+                  "udaharan": "લોઢાના ચણા ચાવવા",
+                  "note": "શબ્દોના સીધા અર્થથી જુદો જ અર્થ આપે એવા શબ્દસમૂહને રૂઢિપ્રયોગ કહે છે. અહીં કોઈ સાચે લોઢાના ચણા ચાવતું નથી; પાઠની છાપેલી યાદી પ્રમાણે એનો અર્થ છે — ખૂબ જ અઘરું કામ કરવું."
+                }
+              ],
+              "media": [
+                {
+                  "id": "M2.S3.T5.C7.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "કલમ કરેલી બોરડી ને મબલખ બોર",
+                  "description": "દેશી બોરડી પર કલમ કરતો માણસ — જોડેલી ડાળને કપડાની પટ્ટીથી બાંધે છે, બાજુમાં મોટાં બોરથી ભરેલું છાબડું પડ્યું છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "concept_id": "M2.S3.T5.C7",
+                  "home_concept_id": "M2.S3.T5.C7",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "આ ચિત્ર થકી 'કલમ કરવી' શબ્દ જ્યાં આવે ત્યાં જ ગ્લોસ કરો — 'સારી જાતની ડાળ બીજા ઝાડ પર જોડવી'. બાળકોને ફક્ત એટલું જ દેખાડો જે પાઠમાં લખ્યું છે — કાંટા નથી આવતા અને બોર મીઠાં, મોટાં ને મબલખ ઉતરે છે; કલમની રીત સમજાવવા બેસવાની જરૂર નથી.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motivational poster layout, text banner with a moral, environmental-awareness campaign poster, tree-plantation event banner with logos, before-and-after split panel, arrows or callout labels, science diagram, government or NGO publicity photograph styling, caricatured or scolding expressions, drone or top-down aerial view, grafting procedure diagram, numbered step panels, laboratory or greenhouse, nursery catalogue photograph, close-up of thorns, exotic fruit display, market stall",
+                  "generation_prompt": "Bright morning in a village orchard plot on the dry stony outskirts of a Gujarat village. In the foreground a man of about forty with medium brown skin, short black hair, a trimmed black moustache and a thin build, in a faded olive half-sleeve shirt with the sleeves rolled up, khaki work trousers and rubber slippers, a thin cotton towel knotted at his waist crouches on one knee beside a short, sturdy, wide-branched bordi jujube tree, binding a joined shoot to a cut stem with a narrow strip of cloth, his fingers close to the join and his head bent in concentration. A shallow cane basket at his feet is heaped with big round pale-yellow-brown bor. Two more bordi trees stand behind him, their branches bending under clustered fruit. Further back, in loose rows, grow young slender drumstick trees with feathery leaves and long hanging pods, a flame-of-the-forest tree with orange blossom and several neem trees with dense small leaves. Beyond the last row the ground turns pale, hard and empty under a wide sun-bleached sky. A knotted cloth bundle and a steel water pot rest in the shade of a trunk. Clear hot light, dusty greens, ochre soil. A narrow cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati script, and no other lettering appears anywhere in the picture: «હવે બોરડીઓ પર કાંટા નથી આવતા.». Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "નક્ષત્ર-વનનો બગીચો",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O6"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O6",
+                  "legacy_id": "L6",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "બગીચાના બોર્ડ પરનું 'નક્ષત્ર-વન' એટલે શું, એ કોની યોજના છે અને એ બગીચો ગામનાં છોકરાંને શી રીતે કામ લાગે છે તે કહેવું.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M2.S3.T6",
+                  "anchor": [
+                    "M2.S3.T6.C9"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "''અરે ! સવજીભાઈ આ નક્ષત્ર-વન લખ્યું છે તે શું છે? '' એક બગીચાની બહારનું બોર્ડ જોઈને પુરુષોત્તમભાઈએ પૂછ્યું.\n\n''એ સરકારની યોજના છે. તેની માહિતી સંસ્કાર જ લાવ્યો હતો. આપણાં શાસ્ત્રોમાં દરેક રાશિ અને નક્ષત્રનાં વૃક્ષો બતાવ્યાં છે. તેની વાવણીનું માર્ગદર્શન પણ આપ્યું છે. તે મુજબ આ બગીચો બનાવ્યો છે.''\n\nપુરુષોત્તમભાઈ અહોભાવથી બોલી ઊઠ્યા ''અદ્ભુત !''\n\n''આ બગીચાનાં વૃક્ષોની છાયામાં બેસીને ગામનાં છોકરાં ખૂબ અભ્યાસ કરે છે અને પરીક્ષામાં ઝળહળતી સફળતા મેળવે છે.''",
+              "modified_chunk": "એક બગીચાની બહાર 'નક્ષત્ર-વન' લખેલું બોર્ડ જોઈને પુરુષોત્તમભાઈ પૂછે છે કે એ શું છે. સવજીભાઈ કહે છે કે એ સરકારની યોજના છે અને એની માહિતી પણ સંસ્કાર જ લાવ્યો હતો. આપણાં શાસ્ત્રોમાં દરેક રાશિ અને નક્ષત્રનાં વૃક્ષો બતાવ્યાં છે અને એની વાવણીનું માર્ગદર્શન પણ આપ્યું છે; તે મુજબ આ બગીચો બનાવવામાં આવ્યો છે. સાંભળીને પુરુષોત્તમભાઈ અહોભાવથી 'અદ્ભુત !' બોલી ઊઠે છે, અને સવજીભાઈ ઉમેરે છે કે આ બગીચાનાં વૃક્ષોની છાયામાં બેસીને ગામનાં છોકરાં ખૂબ અભ્યાસ કરે છે અને પરીક્ષામાં ઝળહળતી સફળતા મેળવે છે.",
+              "publication_chunk": "''અરે ! સવજીભાઈ આ નક્ષત્ર-વન લખ્યું છે તે શું છે? '' એક બગીચાની બહારનું બોર્ડ જોઈને પુરુષોત્તમભાઈએ પૂછ્યું.\n\n''એ સરકારની યોજના છે. તેની માહિતી સંસ્કાર જ લાવ્યો હતો. આપણાં શાસ્ત્રોમાં દરેક રાશિ અને નક્ષત્રનાં વૃક્ષો બતાવ્યાં છે. તેની વાવણીનું માર્ગદર્શન પણ આપ્યું છે. તે મુજબ આ બગીચો બનાવ્યો છે.''\n\nપુરુષોત્તમભાઈ અહોભાવથી બોલી ઊઠ્યા ''અદ્ભુત !''\n\n''આ બગીચાનાં વૃક્ષોની છાયામાં બેસીને ગામનાં છોકરાં ખૂબ અભ્યાસ કરે છે અને પરીક્ષામાં ઝળહળતી સફળતા મેળવે છે.''\n\nબગીચાની બહારના બોર્ડ પર લખેલું 'નક્ષત્ર-વન' એટલે નક્ષત્રોનું વન. એ વાંચીને પુરુષોત્તમભાઈ પૂછે છે કે આ શું છે. સવજીભાઈ જવાબ આપે છે કે એ સરકારની યોજના છે, ને એની માહિતી સંસ્કાર જ લાવ્યો હતો. આપણાં શાસ્ત્રોમાં દરેક રાશિ ને નક્ષત્રનાં વૃક્ષો બતાવ્યાં છે ને એની વાવણીનું માર્ગદર્શન પણ આપ્યું છે. તે મુજબ આ બગીચો બનાવ્યો છે. સાંભળીને પુરુષોત્તમભાઈ અહોભાવથી 'અદ્ભુત !' બોલી ઊઠે છે.\n\nબસ-સ્ટૅન્ડે ઊભા હોઈએ ને બસના આગળના પાટિયા પર એવું નામ વંચાય જે કદી સાંભળ્યું ન હોય. અક્ષર તો વાંચી શકાય, પણ એ કઈ જગ્યા છે તે ખબર ન પડે. પછી બાજુમાં ઊભેલા મોટેરાંને પુછાય કે આ ગામ ક્યાં આવ્યું. જવાબ મળે ત્યારે નકશો મનમાં ગોઠવાઈ જાય. પુરુષોત્તમભાઈ પણ બોર્ડ વાંચીને એ જ રીતે પૂછે છે.",
+              "word_count": {
+                "original": 72
+              },
+              "key_terms": [
+                "નક્ષત્રવન — નક્ષત્રો પ્રમાણેનાં વૃક્ષોનું વન",
+                "રાશિ — જન્મના સમય પરથી નક્કી થતો બાર ભાગમાંનો એક ભાગ",
+                "યોજના — સરકારે નક્કી કરેલો કામનો કાર્યક્રમ",
+                "માર્ગદર્શન — રસ્તો બતાવવો, કેમ કરવું તે સમજાવવું",
+                "અદ્ભુત — નવાઈ પમાડે તેવું, ખૂબ સુંદર",
+                "ઝળહળતી — ખૂબ ચમકતી, ઉજળી"
+              ],
+              "explanation": "બગીચાની બહારના બોર્ડ પર લખેલું 'નક્ષત્ર-વન' એટલે નક્ષત્રોનું વન. એ વાંચીને પુરુષોત્તમભાઈ પૂછે છે કે આ શું છે. સવજીભાઈ જવાબ આપે છે કે એ સરકારની યોજના છે, ને એની માહિતી સંસ્કાર જ લાવ્યો હતો. આપણાં શાસ્ત્રોમાં દરેક રાશિ ને નક્ષત્રનાં વૃક્ષો બતાવ્યાં છે ને એની વાવણીનું માર્ગદર્શન પણ આપ્યું છે. તે મુજબ આ બગીચો બનાવ્યો છે. સાંભળીને પુરુષોત્તમભાઈ અહોભાવથી 'અદ્ભુત !' બોલી ઊઠે છે.",
+              "real_life_example": "બસ-સ્ટૅન્ડે ઊભા હો ને બસના આગળના પાટિયા પર એવું નામ વંચાય જે તમે કદી સાંભળ્યું ન હોય. અક્ષર તો વાંચી શકાય, પણ એ કઈ જગ્યા છે તે ખબર ન પડે. તમે તરત બાજુમાં ઊભેલા મોટેરાંને પૂછો કે આ ગામ ક્યાં આવ્યું. જવાબ મળે ત્યારે નકશો મનમાં ગોઠવાઈ જાય. પુરુષોત્તમભાઈ પણ બોર્ડ વાંચીને એ જ રીતે પૂછે છે. તમે છેલ્લે કયું પાટિયું વાંચીને કોઈને પૂછ્યું હતું ?",
+              "publication_text": "બગીચાની બહારના બોર્ડ પર લખેલું 'નક્ષત્ર-વન' એટલે નક્ષત્રોનું વન. એ વાંચીને પુરુષોત્તમભાઈ પૂછે છે કે આ શું છે. સવજીભાઈ જવાબ આપે છે કે એ સરકારની યોજના છે, ને એની માહિતી સંસ્કાર જ લાવ્યો હતો. આપણાં શાસ્ત્રોમાં દરેક રાશિ ને નક્ષત્રનાં વૃક્ષો બતાવ્યાં છે ને એની વાવણીનું માર્ગદર્શન પણ આપ્યું છે. તે મુજબ આ બગીચો બનાવ્યો છે. સાંભળીને પુરુષોત્તમભાઈ અહોભાવથી 'અદ્ભુત !' બોલી ઊઠે છે.",
+              "brief_summary": "બગીચા બહારનું 'નક્ષત્ર-વન'નું બોર્ડ વાંચીને પુરુષોત્તમભાઈ પૂછે છે, ને સવજીભાઈ કહે છે કે એ સરકારની યોજના છે.",
+              "summary": "એક બગીચાની બહાર 'નક્ષત્ર-વન' લખેલું બોર્ડ જોઈને પુરુષોત્તમભાઈ પૂછે છે કે એ શું છે. સવજીભાઈ કહે છે કે એ સરકારની યોજના છે ને એની માહિતી સંસ્કાર જ લાવ્યો હતો. આપણાં શાસ્ત્રોમાં દરેક રાશિ ને નક્ષત્રનાં વૃક્ષો બતાવ્યાં છે ને એની વાવણીનું માર્ગદર્શન પણ આપ્યું છે; તે મુજબ આ બગીચો બન્યો છે.",
+              "detailed_summary": "એક બગીચાની બહારનું બોર્ડ જોઈને પુરુષોત્તમભાઈ પૂછે છે કે આ 'નક્ષત્ર-વન' લખ્યું છે તે શું છે. સવજીભાઈ જવાબ આપે છે કે એ સરકારની યોજના છે, ને એની માહિતી સંસ્કાર જ લાવ્યો હતો. એ સમજાવે છે કે આપણાં શાસ્ત્રોમાં દરેક રાશિ અને નક્ષત્રનાં વૃક્ષો બતાવ્યાં છે, ને તેની વાવણીનું માર્ગદર્શન પણ આપ્યું છે. તે મુજબ આ બગીચો બનાવ્યો છે. સાંભળીને પુરુષોત્તમભાઈ અહોભાવથી 'અદ્ભુત !' બોલી ઊઠે છે. સવજીભાઈ ઉમેરે છે કે આ બગીચાનાં વૃક્ષોની છાયામાં બેસીને ગામનાં છોકરાં ખૂબ અભ્યાસ કરે છે અને પરીક્ષામાં ઝળહળતી સફળતા મેળવે છે.",
+              "concept_bullets": [
+                "નક્ષત્ર-વન — નક્ષત્રોનું વન; બગીચા બહારના બોર્ડ પર એ લખેલું છે.",
+                "યોજના — સરકારે નક્કી કરેલો કામનો કાર્યક્રમ.",
+                "રાશિ — જન્મના સમય પરથી નક્કી થતો બાર ભાગમાંનો એક ભાગ.",
+                "માર્ગદર્શન — રસ્તો બતાવવો; વાવણીનું માર્ગદર્શન શાસ્ત્રોમાં આપેલું છે."
+              ],
+              "important_points": [
+                "બોર્ડ — બગીચાની બહાર લખેલું પાટિયું, જે વાંચીને પ્રશ્ન થાય છે.",
+                "માહિતી — આ યોજનાની ખબર સંસ્કાર જ લાવ્યો હતો.",
+                "અદ્ભુત — નવાઈ પમાડે તેવું; સાંભળીને પુરુષોત્તમભાઈ એમ બોલી ઊઠે છે.",
+                "છાયા — બગીચાનાં વૃક્ષોની છાયામાં બેસીને ગામનાં છોકરાં અભ્યાસ કરે છે."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C9",
+                  "concept_name": "રાશિ-નક્ષત્રનાં વૃક્ષોની સરકારી યોજના ને એની છાયામાં ભણતાં છોકરાં",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "એક બગીચાની બહાર બોર્ડ પર 'નક્ષત્ર-વન' લખેલું છે. નક્ષત્રવન એટલે નક્ષત્રોનું વન. લખેલું વાંચી શકાય છે, પણ એ શું છે તે સમજાતું નથી — એટલે પુરુષોત્તમભાઈ સવજીભાઈને પૂછે છે.",
+                      "publication_text": "એક બગીચાની બહાર બોર્ડ પર 'નક્ષત્ર-વન' લખેલું છે. નક્ષત્રવન એટલે નક્ષત્રોનું વન. લખેલું વાંચી શકાય છે, પણ એ શું છે તે સમજાતું નથી — એટલે પુરુષોત્તમભાઈ સવજીભાઈને પૂછે છે."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "સવજીભાઈ જવાબ આપે છે કે એ સરકારની યોજના છે, ને એની માહિતી સંસ્કાર જ લાવ્યો હતો. આપણાં શાસ્ત્રોમાં દરેક રાશિ અને નક્ષત્રનાં વૃક્ષો બતાવ્યાં છે, ને તેની વાવણીનું માર્ગદર્શન પણ આપ્યું છે. તે મુજબ આ બગીચો બનાવ્યો છે. એટલે નક્ષત્ર-વન એ જૂની પરંપરા પ્રમાણે નક્કી થયેલાં વૃક્ષો વાવીને બનેલો સાચો બગીચો છે, કોઈ જગ્યાનું નામ નથી.",
+                      "publication_text": "સવજીભાઈ જવાબ આપે છે કે એ સરકારની યોજના છે, ને એની માહિતી સંસ્કાર જ લાવ્યો હતો. આપણાં શાસ્ત્રોમાં દરેક રાશિ અને નક્ષત્રનાં વૃક્ષો બતાવ્યાં છે, ને તેની વાવણીનું માર્ગદર્શન પણ આપ્યું છે. તે મુજબ આ બગીચો બનાવ્યો છે. એટલે નક્ષત્ર-વન એ જૂની પરંપરા પ્રમાણે નક્કી થયેલાં વૃક્ષો વાવીને બનેલો સાચો બગીચો છે, કોઈ જગ્યાનું નામ નથી."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "સાંભળીને પુરુષોત્તમભાઈ અહોભાવથી 'અદ્ભુત !' બોલી ઊઠે છે. પછી સવજીભાઈ ઉમેરે છે કે આ બગીચાનાં વૃક્ષોની છાયામાં બેસીને ગામનાં છોકરાં ખૂબ અભ્યાસ કરે છે અને પરીક્ષામાં ઝળહળતી સફળતા મેળવે છે. આ સવજીભાઈના પોતાના શબ્દો છે, જેમાં ગામના બગીચા માટેનો એમનો હરખ સંભળાય છે.",
+                      "publication_text": "સાંભળીને પુરુષોત્તમભાઈ અહોભાવથી 'અદ્ભુત !' બોલી ઊઠે છે. પછી સવજીભાઈ ઉમેરે છે કે આ બગીચાનાં વૃક્ષોની છાયામાં બેસીને ગામનાં છોકરાં ખૂબ અભ્યાસ કરે છે અને પરીક્ષામાં ઝળહળતી સફળતા મેળવે છે. આ સવજીભાઈના પોતાના શબ્દો છે, જેમાં ગામના બગીચા માટેનો એમનો હરખ સંભળાય છે."
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M2.S3.T6.RQ1",
+                  "legacy_id": "M2.S3.T6.TR1",
+                  "prompt": "પુરુષોત્તમભાઈએ બગીચાની બહાર બોર્ડ પર શું લખેલું જોયું, ને એમણે શું પૂછ્યું ?",
+                  "answer": "એમણે બોર્ડ પર 'નક્ષત્ર-વન' લખેલું જોયું, ને સવજીભાઈને પૂછ્યું કે આ નક્ષત્ર-વન લખ્યું છે તે શું છે.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M2.S3.T6.RQ2",
+                  "legacy_id": "M2.S3.T6.TR2",
+                  "prompt": "નક્ષત્ર-વનનો બગીચો કઈ રીતે બનાવ્યો છે ? સવજીભાઈના જવાબ પરથી કહો.",
+                  "answer": "એ સરકારની યોજના છે ને એની માહિતી સંસ્કાર લાવ્યો હતો. આપણાં શાસ્ત્રોમાં દરેક રાશિ અને નક્ષત્રનાં વૃક્ષો બતાવ્યાં છે ને તેની વાવણીનું માર્ગદર્શન પણ આપ્યું છે; તે મુજબ આ બગીચો બનાવ્યો છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M2.S3.T6.RQ3",
+                  "legacy_id": "M2.S3.T6.TR3",
+                  "prompt": "તમારી શાળા કે ગામમાં કોઈ પાટિયું કે બોર્ડ વાંચીને તમને પ્રશ્ન થયો હોય એવો પ્રસંગ લખો.",
+                  "answer": "આ એક શક્ય ઉત્તર છે: એક વાર બગીચાના દરવાજે 'સમય' લખેલું પાટિયું વાંચ્યું, પણ સમજાયું નહીં કે એ ખૂલવાનો સમય છે કે બંધ થવાનો. મેં ત્યાં બેઠેલા કાકાને પૂછ્યું ત્યારે ખબર પડી. પુરુષોત્તમભાઈએ પણ બોર્ડ વાંચીને એવી જ રીતે સવજીભાઈને પૂછ્યું હતું.",
+                  "difficulty": "medium",
+                  "bloom_level": "apply"
+                }
+              ],
+              "estimated_exchanges": "4",
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "નક્ષત્ર-વન",
+                  "arth": "નક્ષત્રોનું વન",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "રાશિ",
+                  "arth": "જન્મના સમય પરથી નક્કી થતો બાર ભાગમાંનો એક ભાગ",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "યોજના",
+                  "arth": "સરકારે નક્કી કરેલો કામનો કાર્યક્રમ",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "અદ્ભુત",
+                  "arth": "નવાઈ પમાડે તેવું, ખૂબ સુંદર",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "ઝળહળતી",
+                  "arth": "ખૂબ ચમકતી, ઊજળી",
+                  "prakar": "દેશ્ય"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "માહિતી",
+                  "samanarthi": [
+                    "જાણકારી",
+                    "ખબર"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "બહાર",
+                  "vilom": "અંદર"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "જોડાક્ષર",
+                  "udaharan": "નક્ષત્ર",
+                  "note": "'ક્ષ' એ મૂળાક્ષર નથી, જોડાક્ષર છે — ક્ + ષ. 'નક્ષત્ર' માં 'ત્ર' પણ જોડાક્ષર છે — ત્ + ર. પાઠમાં 'શાસ્ત્રો' ને 'અદ્ભુત' પણ જોડાક્ષરવાળા શબ્દો છે."
+                }
+              ],
+              "media": [
+                {
+                  "id": "M2.S3.T6.C9.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "બોર્ડ વાંચીને પૂછાયેલો સવાલ",
+                  "description": "બગીચાની બહાર લખેલું બોર્ડ વાંચતા બે માણસ, અને પાછળ વૃક્ષોની છાયામાં ચોપડીઓ લઈને બેઠેલાં છોકરાં.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "concept_id": "M2.S3.T6.C9",
+                  "home_concept_id": "M2.S3.T6.C9",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્રમાં બોર્ડ તરફ આંગળી ચીંધીને બાળકોને પૂછો કે લખેલું વાંચ્યા પછી તમને શું પૂછવાનું મન થાય ? પછી પાઠની છાપેલી શબ્દાર્થ-પેટી પ્રમાણે 'નક્ષત્રવન — નક્ષત્રોનું વન' ગ્લોસ કરો અને સવજીભાઈનો જવાબ જેટલો છે એટલો જ કહો — એ સરકારની યોજના છે; કયા રાશિનાં કયાં વૃક્ષ એ પાઠમાં નથી, માટે ઉમેરવું નહીં.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motivational poster layout, text banner with a moral, environmental-awareness campaign poster, tree-plantation event banner with logos, before-and-after split panel, arrows or callout labels, science diagram, government or NGO publicity photograph styling, caricatured or scolding expressions, drone or top-down aerial view, zodiac wheel, horoscope chart, astrology symbols, constellation map, star chart in the sky, deity idol, halo, temple calendar art, glowing magical light, aerial map of the garden",
+                  "generation_prompt": "Late morning at the entrance of a well-kept village garden in a dry part of Gujarat, seen at eye level from the lane outside. A rectangular painted board on two short iron posts stands beside a low gate in a whitewashed boundary wall. a man of about sixty with medium brown skin, grey hair combed straight back, a thick grey moustache and steel-rimmed spectacles, wearing a pale blue half-sleeve cotton shirt tucked into grey trousers, brown leather sandals and a small tan cloth bag on one shoulder stands close to the board, leaning slightly forward with one hand raised toward it and his eyebrows lifted, in the middle of asking a question. Beside him a man of about sixty-five with medium brown skin, short white hair, a clipped white moustache and a lined weathered face, wearing a plain white half-sleeve cotton shirt over a white dhoti, rubber slippers, and a folded white cloth resting on one shoulder has turned toward him, one hand open, beginning to answer. Through the open gate behind them a circular garden is visible at ground level: a round paved centre with narrow footpaths radiating outward, low clipped hedges, and rings of young and middle-sized trees of many different kinds. Under one broad tree in the mid-distance, four children in plain school uniforms sit cross-legged on the ground in the shade with open notebooks and a cloth bag between them, one reading aloud. Clear morning light, dappled shade, fresh greens against a pale sky. A narrow cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati script: «આ નક્ષત્ર-વન લખ્યું છે તે શું છે ?». The only other lettering anywhere in the picture is on the garden board, which carries exactly these two Gujarati words in Gujarati script and nothing else: «નક્ષત્ર-વન». Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "શાળાનું ઉપવન ને ગામ તરફ પાછાં પગલાં",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T7",
+              "topic_name": "ઔષધબાગ, તુલસીવન ને કિચનગાર્ડનવાળી શાળા",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O7"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O7",
+                  "legacy_id": "L7",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "શાળાના મેદાનમાં ઔષધબાગ, તુલસીવન અને કિચનગાર્ડન કોની મહેનતથી થયાં, અને એથી શાળા કેવી લાગે છે તે પાઠમાંથી કહેવું.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M2.S4.T7",
+                  "anchor": [
+                    "M2.S4.T7.C10"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "''વિદ્યાર્થીઓએ તો શાળામાં પણ ઝાડ ઉછેર્યાં હશે ને ?''\n\n''હા, શાળાને સંસ્કારનું માર્ગદર્શન અને ગામલોકોનો સહયોગ છે. શિક્ષકો અને વિદ્યાર્થીઓની જબરી મહેનત છે. મેદાનમાં વૃક્ષો, ફૂલ-છોડ ઉપરાંત ઔષધબાગ, તુલસીવન અને કિચનગાર્ડનના કારણે શાળા તો ઉપવન જેવી લાગે છે.''",
+              "modified_chunk": "પુરુષોત્તમભાઈ પૂછે છે કે વિદ્યાર્થીઓએ શાળામાં પણ ઝાડ ઉછેર્યાં હશે ને. સવજીભાઈ કહે છે કે હા, શાળાને સંસ્કારનું માર્ગદર્શન અને ગામલોકોનો સહયોગ (સાથે મળીને અપાતી મદદ) મળે છે, અને શિક્ષકો તથા વિદ્યાર્થીઓની જબરી મહેનત છે. મેદાનમાં વૃક્ષો અને ફૂલ-છોડ ઉપરાંત ઔષધબાગ, તુલસીવન અને કિચનગાર્ડન છે, તેથી શાળા ઉપવન (સુંદર બગીચા) જેવી લાગે છે.",
+              "publication_chunk": "''વિદ્યાર્થીઓએ તો શાળામાં પણ ઝાડ ઉછેર્યાં હશે ને ?''\n\n''હા, શાળાને સંસ્કારનું માર્ગદર્શન અને ગામલોકોનો સહયોગ છે. શિક્ષકો અને વિદ્યાર્થીઓની જબરી મહેનત છે. મેદાનમાં વૃક્ષો, ફૂલ-છોડ ઉપરાંત ઔષધબાગ, તુલસીવન અને કિચનગાર્ડનના કારણે શાળા તો ઉપવન જેવી લાગે છે.''\n\nઔષધબાગ, તુલસીવન ને કિચનગાર્ડન — આ ત્રણેય શાળાના એક જ મેદાનમાં છે. ઔષધબાગ એટલે દવામાં કામ આવે તેવી વનસ્પતિનો બગીચો, તુલસીવન એટલે તુલસીના છોડનું નાનું વન, ને કિચનગાર્ડન એટલે શાકભાજી ઉગાડવાનો નાનો બગીચો. પુરુષોત્તમભાઈ પૂછે છે કે વિદ્યાર્થીઓએ શાળામાં પણ ઝાડ ઉછેર્યાં હશે ને ? સવજીભાઈ કહે છે કે હા — શાળાને સંસ્કારનું માર્ગદર્શન ને ગામલોકોનો સહયોગ છે, ને શિક્ષકો તથા વિદ્યાર્થીઓની જબરી મહેનત છે. તેથી શાળા ઉપવન, એટલે સુંદર બગીચો, જેવી લાગે છે.\n\nતહેવાર નજીક આવે ત્યારે આખો મહોલ્લો કામે લાગી જાય છે. કોઈ ઓટલો ધુએ, કોઈ તોરણ બાંધે, રહીમચાચા ઘરેથી સીડી લઈ આવે, ને છોકરાં નીચે ઊભાં રહીને એ સીડી પકડી રાખે. સાંજ પડે ત્યારે એ જ સાંકડી શેરી સાવ જુદી લાગે છે — જાણે કોઈ નવી જગ્યાએ આવી ગયા હોઈએ. પાઠમાં પણ સૌની ભેગી મહેનતથી શાળા ઉપવન જેવી લાગે છે.",
+              "word_count": {
+                "original": 38
+              },
+              "key_terms": [
+                "સહયોગ — સાથે મળીને અપાતી મદદ",
+                "ઔષધબાગ — દવામાં કામ આવે તેવી વનસ્પતિનો બગીચો",
+                "તુલસીવન — તુલસીના છોડનું નાનું વન",
+                "કિચનગાર્ડન — ઘર કે શાળામાં જ શાકભાજી ઉગાડવાનો નાનો બગીચો",
+                "ઉપવન — સુંદર બગીચો",
+                "જબરી — ખૂબ મોટી, જોરદાર"
+              ],
+              "explanation": "ઔષધબાગ, તુલસીવન ને કિચનગાર્ડન — આ ત્રણેય શાળાના એક જ મેદાનમાં છે. ઔષધબાગ એટલે દવામાં કામ આવે તેવી વનસ્પતિનો બગીચો, તુલસીવન એટલે તુલસીના છોડનું નાનું વન, ને કિચનગાર્ડન એટલે શાકભાજી ઉગાડવાનો નાનો બગીચો. પુરુષોત્તમભાઈ પૂછે છે કે વિદ્યાર્થીઓએ શાળામાં પણ ઝાડ ઉછેર્યાં હશે ને ? સવજીભાઈ કહે છે કે હા — શાળાને સંસ્કારનું માર્ગદર્શન ને ગામલોકોનો સહયોગ છે, ને શિક્ષકો તથા વિદ્યાર્થીઓની જબરી મહેનત છે. તેથી શાળા ઉપવન, એટલે સુંદર બગીચો, જેવી લાગે છે.",
+              "real_life_example": "તહેવાર નજીક આવે ત્યારે આખો મહોલ્લો કામે લાગી જાય છે. કોઈ ઓટલો ધુએ, કોઈ તોરણ બાંધે, રહીમચાચા ઘરેથી સીડી લઈ આવે, ને છોકરાં નીચે ઊભાં રહીને એ સીડી પકડી રાખે. સાંજ પડે ત્યારે એ જ સાંકડી શેરી સાવ જુદી લાગે છે — જાણે કોઈ નવી જગ્યાએ આવી ગયા હોઈએ. પાઠમાં પણ સૌની ભેગી મહેનતથી શાળા ઉપવન જેવી લાગે છે. તમારી શેરી કે શાળાનું મેદાન સૌથી વધારે કોણ સંભાળે છે ?",
+              "publication_text": "ઔષધબાગ, તુલસીવન ને કિચનગાર્ડન — આ ત્રણેય શાળાના એક જ મેદાનમાં છે. ઔષધબાગ એટલે દવામાં કામ આવે તેવી વનસ્પતિનો બગીચો, તુલસીવન એટલે તુલસીના છોડનું નાનું વન, ને કિચનગાર્ડન એટલે શાકભાજી ઉગાડવાનો નાનો બગીચો. પુરુષોત્તમભાઈ પૂછે છે કે વિદ્યાર્થીઓએ શાળામાં પણ ઝાડ ઉછેર્યાં હશે ને ? સવજીભાઈ કહે છે કે હા — શાળાને સંસ્કારનું માર્ગદર્શન ને ગામલોકોનો સહયોગ છે, ને શિક્ષકો તથા વિદ્યાર્થીઓની જબરી મહેનત છે. તેથી શાળા ઉપવન, એટલે સુંદર બગીચો, જેવી લાગે છે.",
+              "brief_summary": "શાળાના મેદાનમાં વૃક્ષો ને ફૂલ-છોડ ઉપરાંત ઔષધબાગ, તુલસીવન ને કિચનગાર્ડન છે, તેથી શાળા ઉપવન જેવી લાગે છે.",
+              "summary": "પુરુષોત્તમભાઈ પૂછે છે કે વિદ્યાર્થીઓએ શાળામાં પણ ઝાડ ઉછેર્યાં હશે ને. સવજીભાઈ કહે છે કે શાળાને સંસ્કારનું માર્ગદર્શન ને ગામલોકોનો સહયોગ મળે છે, ને શિક્ષકો તથા વિદ્યાર્થીઓની જબરી મહેનત છે. મેદાનમાં વૃક્ષો ને ફૂલ-છોડ ઉપરાંત ઔષધબાગ, તુલસીવન અને કિચનગાર્ડન છે, તેથી શાળા ઉપવન જેવી લાગે છે.",
+              "detailed_summary": "પુરુષોત્તમભાઈ પૂછે છે કે વિદ્યાર્થીઓએ તો શાળામાં પણ ઝાડ ઉછેર્યાં હશે ને. સવજીભાઈ હા પાડે છે ને કહે છે કે શાળાને સંસ્કારનું માર્ગદર્શન અને ગામલોકોનો સહયોગ મળે છે. એ ઉમેરે છે કે શિક્ષકો અને વિદ્યાર્થીઓની જબરી મહેનત છે. શાળાના મેદાનમાં વૃક્ષો અને ફૂલ-છોડ ઉપરાંત ઔષધબાગ, તુલસીવન અને કિચનગાર્ડન છે. આ ત્રણેય એક જ મેદાનમાં હોવાથી આખી શાળા ઉપવન જેવી, એટલે સુંદર બગીચા જેવી, લાગે છે.",
+              "concept_bullets": [
+                "ઔષધબાગ — દવામાં કામ આવે તેવી વનસ્પતિનો બગીચો.",
+                "તુલસીવન — તુલસીના છોડનું નાનું વન.",
+                "કિચનગાર્ડન — શાળામાં જ શાકભાજી ઉગાડવાનો નાનો બગીચો.",
+                "ઉપવન — સુંદર બગીચો; આખી શાળા એવી લાગે છે."
+              ],
+              "important_points": [
+                "એક જ મેદાન — આ ત્રણેય જુદી જગ્યાએ નથી, શાળાના મેદાનમાં જ છે.",
+                "સહયોગ — સાથે મળીને અપાતી મદદ; ગામલોકોનો સહયોગ શાળાને છે.",
+                "માર્ગદર્શન — શાળાને સંસ્કારનું માર્ગદર્શન મળે છે.",
+                "જબરી મહેનત — શિક્ષકો ને વિદ્યાર્થીઓની મહેનત માટે વપરાયેલો શબ્દ."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T7.C10",
+                  "concept_name": "શિક્ષકો ને વિદ્યાર્થીઓની મહેનતથી ઉપવન જેવી બનેલી શાળા",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "પુરુષોત્તમભાઈ પૂછે છે કે વિદ્યાર્થીઓએ શાળામાં પણ ઝાડ ઉછેર્યાં હશે ને. સવજીભાઈ હા પાડે છે ને ત્રણ વાત જોડે છે — શાળાને સંસ્કારનું માર્ગદર્શન છે, ગામલોકોનો સહયોગ છે, ને શિક્ષકો તથા વિદ્યાર્થીઓની જબરી મહેનત છે.",
+                      "publication_text": "પુરુષોત્તમભાઈ પૂછે છે કે વિદ્યાર્થીઓએ શાળામાં પણ ઝાડ ઉછેર્યાં હશે ને. સવજીભાઈ હા પાડે છે ને ત્રણ વાત જોડે છે — શાળાને સંસ્કારનું માર્ગદર્શન છે, ગામલોકોનો સહયોગ છે, ને શિક્ષકો તથા વિદ્યાર્થીઓની જબરી મહેનત છે."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "શાળાના મેદાનમાં શું શું છે તે જુઓ. વૃક્ષો ને ફૂલ-છોડ તો છે જ, ને એની સાથે ત્રણ વસ્તુ વધારે છે. આ ત્રણેય ગામમાં જુદી જુદી જગ્યાએ નથી — શાળાના એ જ મેદાનમાં છે.",
+                      "publication_text": "શાળાના મેદાનમાં વૃક્ષો ને ફૂલ-છોડ તો છે જ, ને એની સાથે ત્રણ વસ્તુ વધારે છે. આ ત્રણેય ગામમાં જુદી જુદી જગ્યાએ નથી — શાળાના એ જ મેદાનમાં છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "ઔષધબાગ — દવામાં કામ આવે તેવી વનસ્પતિનો બગીચો.",
+                        "તુલસીવન — તુલસીના છોડનું નાનું વન.",
+                        "કિચનગાર્ડન — શાકભાજી ઉગાડવાનો નાનો બગીચો.",
+                        "આ બધાંને લીધે શાળા ઉપવન, એટલે સુંદર બગીચા, જેવી લાગે છે."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M2.S4.T7.RQ1",
+                  "legacy_id": "M2.S4.T7.TR1",
+                  "prompt": "શાળાના મેદાનમાં વૃક્ષો ને ફૂલ-છોડ ઉપરાંત બીજું શું શું છે ?",
+                  "answer": "મેદાનમાં ઔષધબાગ, તુલસીવન અને કિચનગાર્ડન પણ છે.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M2.S4.T7.RQ2",
+                  "legacy_id": "M2.S4.T7.TR2",
+                  "prompt": "સવજીભાઈ કેમ કહે છે કે શાળા તો ઉપવન જેવી લાગે છે ?",
+                  "answer": "કારણ કે એક જ મેદાનમાં વૃક્ષો, ફૂલ-છોડ, ઔષધબાગ, તુલસીવન ને કિચનગાર્ડન છે. 'ઉપવન' એટલે સુંદર બગીચો. આ બધું સંસ્કારના માર્ગદર્શન, ગામલોકોના સહયોગ ને શિક્ષકો-વિદ્યાર્થીઓની જબરી મહેનતથી થયું છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M2.S4.T7.RQ3",
+                  "legacy_id": "M2.S4.T7.TR3",
+                  "prompt": "તમારી શાળાના મેદાનમાં અત્યારે શું શું છે તે યાદ કરીને લખો.",
+                  "answer": "આ એક શક્ય ઉત્તર છે: અમારા મેદાનમાં એક મોટો લીમડો, પ્રાર્થના માટેની જગ્યા ને ખૂણામાં થોડા ફૂલ-છોડનાં કૂંડાં છે. પાઠની શાળામાં તો મેદાનમાં ઔષધબાગ, તુલસીવન ને કિચનગાર્ડન પણ છે, એટલે એ ઉપવન જેવી લાગે છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "apply"
+                }
+              ],
+              "estimated_exchanges": "3",
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "ઉપવન",
+                  "arth": "સુંદર બગીચો",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "સહયોગ",
+                  "arth": "સાથે મળીને અપાતી મદદ",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "તુલસીવન",
+                  "arth": "તુલસીના છોડનું નાનું વન",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "કિચનગાર્ડન",
+                  "arth": "ઘર કે શાળામાં જ શાકભાજી ઉગાડવાનો નાનો બગીચો",
+                  "prakar": "આગત"
+                },
+                {
+                  "shabd": "જબરી",
+                  "arth": "ખૂબ મોટી, જોરદાર",
+                  "prakar": "દેશ્ય"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "સહયોગ",
+                  "samanarthi": [
+                    "સાથ",
+                    "મદદ"
+                  ]
+                }
+              ],
+              "vilom": [],
+              "vyakaran": [
+                {
+                  "bindu": "વાક્યના પ્રકારો",
+                  "udaharan": "વિદ્યાર્થીઓએ તો શાળામાં પણ ઝાડ ઉછેર્યાં હશે ને ?",
+                  "note": "આ વાક્ય કંઈક પૂછે છે, એટલે એ પ્રશ્નાર્થ વાક્ય છે ને છેડે પ્રશ્નચિહ્ન આવે છે. સવજીભાઈનો જવાબ કંઈક જણાવે છે, એટલે એ વિધાનવાક્ય છે."
+                }
+              ],
+              "media": [
+                {
+                  "id": "M2.S4.T7.C10.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "શાળાના મેદાનનું ઉપવન",
+                  "description": "શાળાના મેદાનમાં શિક્ષકો અને વિદ્યાર્થીઓ સાથે મળીને ઝાડ-છોડની સંભાળ લે છે — કોઈ પાણી રેડે છે, કોઈ નીંદે છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "concept_id": "M2.S4.T7.C10",
+                  "home_concept_id": "M2.S4.T7.C10",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર દેખાડીને બાળકોને બતાવો કે ઔષધબાગ, તુલસીવન અને કિચનગાર્ડન — ત્રણેય આ એક જ મેદાનમાં છે, તેથી આખી શાળા ઉપવન જેવી લાગે છે. ઔષધબાગમાં કઈ વનસ્પતિ છે એ પાઠમાં લખ્યું નથી — એ સવાલ બાળકો માટે છોડો, જાતે જવાબ ન આપો.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motivational poster layout, text banner with a moral, environmental-awareness campaign poster, tree-plantation event banner with logos, before-and-after split panel, arrows or callout labels, science diagram, government or NGO publicity photograph styling, caricatured or scolding expressions, drone or top-down aerial view, labelled garden beds, name plates on plants, signboard on the school building, identifiable named vegetables in close-up, prize-giving or inspection visit, children posing in a row for a photograph",
+                  "generation_prompt": "Bright morning in the compound of a small government primary school in a dry part of Gujarat: a single-storey whitewashed building with a tiled verandah along its front, and a wide swept earth ground in front of it. Along one side of the ground, young leafy trees and beds of flowering plants line a low stone border. A raised square brick tulsi platform stands near the verandah with several tulsi plants growing in it, and a girl of about ten in a plain blue-and-white uniform tips water into it from a small steel pot. Nearby, a teacher of about forty in a plain cream cotton saree kneels with three children around a shallow bed of small green herb plants, pressing the earth around one plant with both hands while a boy holds a rusty trowel. On the far side of the ground a fenced patch of neat low seedling rows is enclosed by a knee-high split-bamboo fence, and two boys carry a full bucket of water between them toward it, walking carefully. Cloth school bags hang on verandah pegs; a bell hangs from a bracket. No lettering appears on the building or on any bed. Clear morning light, fresh greens, cream and ochre walls. A narrow cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati script, and no other lettering appears anywhere in the picture: «શાળા તો ઉપવન જેવી લાગે છે.». Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T8",
+              "topic_name": "સ્વર્ગ જેવું ગામ ને પાછા ફરતા પરિવારો",
+              "topic_type": "CONCEPT",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S4.T7"
+              ],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O8"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O8",
+                  "legacy_id": "L8",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "'સંસ્કારે સર્જ્યું છે સ્વર્ગ' એ વાક્યમાં 'સ્વર્ગ' શાને કહ્યું છે, અને ગામના પરિવારો શહેરથી પાછા કેમ આવે છે તે કહેવું.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M2.S4.T8",
+                  "anchor": [
+                    "M2.S4.T8.C11"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "'' શી વાત છે ! હું તો કહીશ... સૌના સહયોગથી ખરેખર સંસ્કારે સર્જ્યું છે સ્વર્ગ ! આ જોઈને હવે શહેરના પ્રદૂષિત વાતાવરણમાં પાછા જવા મન માનતું નથી.''\n\n''પશાભાઈ ! આ વૃક્ષઉછેરના યજ્ઞકાર્યના પરિણામે આપણા ગામના ઘણા પરિવારો શહેરથી પાછા આવીને અહીં સ્થાયી થઈ રહ્યા છે. એમાં એકનો વધારો થશે તો અમને ખૂબ ગમશે.'' સવજીભાઈએ હસતાં-હસતાં કહ્યું.",
+              "modified_chunk": "બધું જોઈને પુરુષોત્તમભાઈ કહે છે કે સૌના સહયોગથી ખરેખર સંસ્કારે સ્વર્ગ સર્જ્યું છે, અને હવે શહેરના પ્રદૂષિત (ખરાબ થયેલા) વાતાવરણમાં પાછા જવાનું એમનું મન માનતું નથી. સવજીભાઈ હસતાં-હસતાં જવાબ આપે છે કે આ વૃક્ષઉછેરના યજ્ઞકાર્યને લીધે ગામના ઘણા પરિવારો શહેરથી પાછા આવીને અહીં સ્થાયી થઈ રહ્યા છે. એ ઉમેરે છે કે એમાં એકનો વધારો થશે તો ગામલોકોને ખૂબ ગમશે.",
+              "publication_chunk": "'' શી વાત છે ! હું તો કહીશ... સૌના સહયોગથી ખરેખર સંસ્કારે સર્જ્યું છે સ્વર્ગ ! આ જોઈને હવે શહેરના પ્રદૂષિત વાતાવરણમાં પાછા જવા મન માનતું નથી.''\n\n''પશાભાઈ ! આ વૃક્ષઉછેરના યજ્ઞકાર્યના પરિણામે આપણા ગામના ઘણા પરિવારો શહેરથી પાછા આવીને અહીં સ્થાયી થઈ રહ્યા છે. એમાં એકનો વધારો થશે તો અમને ખૂબ ગમશે.'' સવજીભાઈએ હસતાં-હસતાં કહ્યું.\n\nપુરુષોત્તમભાઈ કહે છે કે સૌના સહયોગથી ખરેખર સંસ્કારે સ્વર્ગ સર્જ્યું છે — અહીં સ્વર્ગ એટલે ખૂબ સુંદર જગ્યા. એ ઉમેરે છે કે હવે શહેરના પ્રદૂષિત, એટલે ખરાબ થયેલા, વાતાવરણમાં પાછા જવા એમનું મન માનતું નથી. સવજીભાઈ હસતાં-હસતાં જવાબ આપે છે કે વૃક્ષઉછેરનું આ કામ યજ્ઞકાર્ય, એટલે યજ્ઞ જેવું પવિત્ર ને મોટું કામ, છે. એને લીધે ગામના ઘણા પરિવારો શહેરથી પાછા આવીને અહીં સ્થાયી થઈ રહ્યા છે.\n\nસાંજે દરિયાકિનારે ભીની રેતીમાં પગ મુકાય ને મોજું આવીને પગ ફરતે ઠંડું પાણી મૂકી જાય. ઘરેથી નીકળતી વખતે નક્કી કરેલું હોય કે થોડી વારમાં પાછા વળીશું, પણ સૂરજ ઢળે ત્યારે પણ ત્યાંથી ખસવાનું મન થતું નથી. બસમાં બેઠા પછીયે મન તો કિનારે જ રહી જાય. પુરુષોત્તમભાઈને પણ ગામ જોઈને પાછા જવાનું મન થતું નથી.",
+              "word_count": {
+                "original": 56
+              },
+              "key_terms": [
+                "પ્રદૂષિત — ખરાબ થયેલું, ગંદું બનેલું",
+                "વાતાવરણ — આજુબાજુની હવા અને પરિસ્થિતિ",
+                "યજ્ઞકાર્ય — યજ્ઞ જેવું પવિત્ર ને મોટું કામ",
+                "સ્થાયી થવું — કાયમ માટે વસવું, ત્યાં જ રહી પડવું",
+                "સર્જ્યું — સર્જન કર્યું, નવું બનાવ્યું",
+                "સ્વર્ગ — દેવોનું સુખભર્યું સ્થાન; અહીં ખૂબ સુંદર જગ્યા માટે વપરાયું છે"
+              ],
+              "explanation": "પુરુષોત્તમભાઈ કહે છે કે સૌના સહયોગથી ખરેખર સંસ્કારે સ્વર્ગ સર્જ્યું છે — અહીં સ્વર્ગ એટલે ખૂબ સુંદર જગ્યા. એ ઉમેરે છે કે હવે શહેરના પ્રદૂષિત, એટલે ખરાબ થયેલા, વાતાવરણમાં પાછા જવા એમનું મન માનતું નથી. સવજીભાઈ હસતાં-હસતાં જવાબ આપે છે કે વૃક્ષઉછેરનું આ કામ યજ્ઞકાર્ય, એટલે યજ્ઞ જેવું પવિત્ર ને મોટું કામ, છે. એને લીધે ગામના ઘણા પરિવારો શહેરથી પાછા આવીને અહીં સ્થાયી થઈ રહ્યા છે.",
+              "real_life_example": "સાંજે દરિયાકિનારે ભીની રેતીમાં પગ મૂકો ને મોજું આવીને પગ ફરતે ઠંડું પાણી મૂકી જાય. ઘરેથી નીકળતી વખતે નક્કી કરેલું હોય કે થોડી વારમાં પાછા વળીશું, પણ સૂરજ ઢળે ત્યારે પણ ત્યાંથી ખસવાનું મન થતું નથી. બસમાં બેઠા પછીયે મન તો કિનારે જ રહી જાય. પુરુષોત્તમભાઈને પણ ગામ જોઈને પાછા જવાનું મન થતું નથી. તમને એવી કઈ જગ્યા છે જ્યાંથી ઊઠવાનું મન થતું નથી ?",
+              "publication_text": "પુરુષોત્તમભાઈ કહે છે કે સૌના સહયોગથી ખરેખર સંસ્કારે સ્વર્ગ સર્જ્યું છે — અહીં સ્વર્ગ એટલે ખૂબ સુંદર જગ્યા. એ ઉમેરે છે કે હવે શહેરના પ્રદૂષિત, એટલે ખરાબ થયેલા, વાતાવરણમાં પાછા જવા એમનું મન માનતું નથી. સવજીભાઈ હસતાં-હસતાં જવાબ આપે છે કે વૃક્ષઉછેરનું આ કામ યજ્ઞકાર્ય, એટલે યજ્ઞ જેવું પવિત્ર ને મોટું કામ, છે. એને લીધે ગામના ઘણા પરિવારો શહેરથી પાછા આવીને અહીં સ્થાયી થઈ રહ્યા છે.",
+              "brief_summary": "ગામ જોઈને પુરુષોત્તમભાઈ કહે છે કે સૌના સહયોગથી સંસ્કારે સ્વર્ગ સર્જ્યું છે, ને એમનું પાછા જવાનું મન થતું નથી.",
+              "summary": "બધું જોયા પછી પુરુષોત્તમભાઈ કહે છે કે સૌના સહયોગથી ખરેખર સંસ્કારે સ્વર્ગ સર્જ્યું છે, ને હવે શહેરના પ્રદૂષિત વાતાવરણમાં પાછા જવા એમનું મન માનતું નથી. સવજીભાઈ હસતાં-હસતાં કહે છે કે વૃક્ષઉછેરના આ યજ્ઞકાર્યને લીધે ગામના ઘણા પરિવારો શહેરથી પાછા આવીને અહીં સ્થાયી થઈ રહ્યા છે.",
+              "detailed_summary": "ગામનું બધું જોયા પછી પુરુષોત્તમભાઈ કહી ઊઠે છે કે સૌના સહયોગથી ખરેખર સંસ્કારે સર્જ્યું છે સ્વર્ગ. અહીં 'સ્વર્ગ' શબ્દ ખૂબ સુંદર જગ્યા માટે વપરાયો છે. એ ઉમેરે છે કે આ જોઈને હવે શહેરના પ્રદૂષિત વાતાવરણમાં પાછા જવા એમનું મન માનતું નથી. જવાબમાં સવજીભાઈ હસતાં-હસતાં કહે છે કે વૃક્ષઉછેરનું આ કામ યજ્ઞકાર્ય જેવું છે, એટલે યજ્ઞ જેવું પવિત્ર ને મોટું કામ. એના પરિણામે ગામના ઘણા પરિવારો શહેરથી પાછા આવીને અહીં સ્થાયી થઈ રહ્યા છે. છેલ્લે એ કહે છે કે એમાં એકનો વધારો થશે તો ગામલોકોને ખૂબ ગમશે.",
+              "concept_bullets": [
+                "સ્વર્ગ — દેવોનું સુખભર્યું સ્થાન; અહીં ખૂબ સુંદર જગ્યા માટે વપરાયું છે.",
+                "યજ્ઞકાર્ય — યજ્ઞ જેવું પવિત્ર ને મોટું કામ; અહીં એ કામ વૃક્ષઉછેરનું છે.",
+                "પ્રદૂષિત — ખરાબ થયેલું; શહેરના વાતાવરણ માટે વપરાયું છે.",
+                "સ્થાયી થવું — કાયમ માટે વસવું, ત્યાં જ રહી પડવું."
+              ],
+              "important_points": [
+                "સૌનો સહયોગ — પુરુષોત્તમભાઈ સ્વર્ગ સર્જાયાનું શ્રેય સૌના સહયોગને પણ આપે છે.",
+                "મન માનતું નથી — પુરુષોત્તમભાઈની પોતાની વાત છે, પોતાના પાછા જવા વિશે.",
+                "પરિવારો — ઘણા પરિવારો શહેરથી પાછા આવીને ગામમાં સ્થાયી થઈ રહ્યા છે.",
+                "એકનો વધારો — સવજીભાઈ હસતાં-હસતાં પુરુષોત્તમભાઈને એમાં ગણી લે છે."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T8.C11",
+                  "concept_name": "'સંસ્કારે સર્જ્યું છે સ્વર્ગ' ને શહેરથી પાછા આવતા પરિવારો",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "ગામનું બધું જોયા પછી પુરુષોત્તમભાઈ કહી ઊઠે છે — 'સૌના સહયોગથી ખરેખર સંસ્કારે સર્જ્યું છે સ્વર્ગ !' અહીં સ્વર્ગ એટલે દેવોનું સ્થાન નહીં; ખૂબ સુંદર જગ્યા માટે એ શબ્દ વપરાયો છે. એ સાથે એ ઉમેરે છે કે હવે શહેરના પ્રદૂષિત, એટલે ખરાબ થયેલા, વાતાવરણમાં પાછા જવા એમનું મન માનતું નથી. આ એમની પોતાની વાત છે, પોતાના પાછા જવા વિશે.",
+                      "publication_text": "ગામનું બધું જોયા પછી પુરુષોત્તમભાઈ કહી ઊઠે છે — 'સૌના સહયોગથી ખરેખર સંસ્કારે સર્જ્યું છે સ્વર્ગ !' અહીં સ્વર્ગ એટલે દેવોનું સ્થાન નહીં; ખૂબ સુંદર જગ્યા માટે એ શબ્દ વપરાયો છે. એ સાથે એ ઉમેરે છે કે હવે શહેરના પ્રદૂષિત, એટલે ખરાબ થયેલા, વાતાવરણમાં પાછા જવા એમનું મન માનતું નથી. આ એમની પોતાની વાત છે, પોતાના પાછા જવા વિશે."
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "સવજીભાઈ હસતાં-હસતાં જવાબ આપે છે. એ કહે છે કે વૃક્ષઉછેરનું આ કામ યજ્ઞકાર્ય જેવું છે — યજ્ઞ જેવું પવિત્ર ને મોટું કામ. ગામમાં કોઈ યજ્ઞ થયો નહોતો; આ કામ તો વરસો સુધી ઘણા લોકોએ સાથે મળીને કરેલા વૃક્ષઉછેરનું છે.",
+                      "publication_text": "સવજીભાઈ હસતાં-હસતાં જવાબ આપે છે. એ કહે છે કે વૃક્ષઉછેરનું આ કામ યજ્ઞકાર્ય જેવું છે — યજ્ઞ જેવું પવિત્ર ને મોટું કામ. ગામમાં કોઈ યજ્ઞ થયો નહોતો; આ કામ તો વરસો સુધી ઘણા લોકોએ સાથે મળીને કરેલા વૃક્ષઉછેરનું છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "એ કામના પરિણામે ગામના ઘણા પરિવારો શહેરથી પાછા આવે છે.",
+                        "એ પરિવારો હવે ગામમાં જ સ્થાયી થઈ રહ્યા છે.",
+                        "સવજીભાઈ કહે છે કે એમાં એકનો વધારો થશે તો અમને ખૂબ ગમશે.",
+                        "એ વાક્યથી એ પુરુષોત્તમભાઈને હસતાં-હસતાં ગામમાં રહી જવાનું નોતરું આપે છે."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M2.S4.T8.RQ1",
+                  "legacy_id": "M2.S4.T8.TR1",
+                  "prompt": "ગામ જોયા પછી પુરુષોત્તમભાઈ શું બોલી ઊઠે છે ?",
+                  "answer": "એ બોલી ઊઠે છે કે સૌના સહયોગથી ખરેખર સંસ્કારે સર્જ્યું છે સ્વર્ગ. અહીં 'સ્વર્ગ' એટલે ખૂબ સુંદર જગ્યા.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M2.S4.T8.RQ2",
+                  "legacy_id": "M2.S4.T8.TR2",
+                  "prompt": "'વૃક્ષઉછેરનું યજ્ઞકાર્ય' એટલે અહીં કયું કામ ? સવજીભાઈના શબ્દો પરથી કહો.",
+                  "answer": "એ કામ વૃક્ષ ઉછેરવાનું છે. 'યજ્ઞકાર્ય' એટલે યજ્ઞ જેવું પવિત્ર ને મોટું કામ — ગામમાં કોઈ યજ્ઞ થયો નહોતો. વરસો સુધી ઘણા લોકોએ સાથે મળીને ઝાડ ઉછેર્યાં, એને સવજીભાઈ યજ્ઞકાર્ય કહે છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M2.S4.T8.RQ3",
+                  "legacy_id": "M2.S4.T8.TR3",
+                  "prompt": "સવજીભાઈ કહે છે કે 'એમાં એકનો વધારો થશે તો અમને ખૂબ ગમશે.' — એ કોની વાત કરે છે ?",
+                  "answer": "એ પુરુષોત્તમભાઈની વાત કરે છે. ઘણા પરિવારો શહેરથી પાછા આવીને ગામમાં સ્થાયી થઈ રહ્યા છે, ને પુરુષોત્તમભાઈ પણ રહી જાય તો એ પરિવારોમાં એકનો વધારો થાય. એટલે એ હસતાં-હસતાં એમને ગામમાં રહી જવાનું નોતરું આપે છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "estimated_exchanges": "4",
+              "figures_of_speech": [],
+              "rhyme_scheme": null,
+              "shabdarth": [
+                {
+                  "shabd": "પ્રદૂષિત",
+                  "arth": "ખરાબ થયેલું, ગંદું બનેલું",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "યજ્ઞકાર્ય",
+                  "arth": "યજ્ઞ જેવું પવિત્ર ને મોટું કામ",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "સ્વર્ગ",
+                  "arth": "દેવોનું સુખભર્યું સ્થાન; અહીં ખૂબ સુંદર જગ્યા માટે વપરાયું છે",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "વાતાવરણ",
+                  "arth": "આજુબાજુની હવા અને પરિસ્થિતિ",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "સ્થાયી",
+                  "arth": "કાયમ માટે રહી પડેલું",
+                  "prakar": "તત્સમ"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "પરિવાર",
+                  "samanarthi": [
+                    "કુટુંબ"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "શહેર",
+                  "vilom": "ગામ"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "કાળ",
+                  "udaharan": "એમાં એકનો વધારો થશે તો અમને ખૂબ ગમશે.",
+                  "note": "'થશે' ને 'ગમશે' — બંને ક્રિયાપદ હજી બનવાની વાત કરે છે, એટલે આ ભવિષ્યકાળનું વાક્ય છે. એ જ ખંડમાં 'આવીને સ્થાયી થઈ રહ્યા છે' વર્તમાનકાળ બતાવે છે."
+                }
+              ],
+              "media": [
+                {
+                  "id": "M2.S4.T8.C11.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "શહેરથી પાછા આવતું કુટુંબ",
+                  "description": "લીલીછમ શેરીમાં બંને માણસ વાત કરતાં ઊભા છે અને પાછળ એક કુટુંબ સામાન લઈને બસમાંથી ઉતરીને ગામમાં પ્રવેશે છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "concept_id": "M2.S4.T8.C11",
+                  "home_concept_id": "M2.S4.T8.C11",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "છેલ્લા ખંડનું પરિણામ ચિત્રમાં જ દેખાડો — વરસો સુધી ચાલેલા વૃક્ષઉછેરને લીધે ઘણા પરિવારો શહેરથી પાછા આવીને વસે છે. ગામ ઊંચું ને શહેર નીચું — એવું કોઈ તારણ કાઢ્યા વગર, પાઠ જેટલું કહે છે એટલું જ કહો.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motivational poster layout, text banner with a moral, environmental-awareness campaign poster, tree-plantation event banner with logos, before-and-after split panel, arrows or callout labels, science diagram, government or NGO publicity photograph styling, caricatured or scolding expressions, drone or top-down aerial view, city skyline, factory chimneys or smog, luxury car, airport, welcome banner or garlands, before-and-after comparison of village and city, sad or shamed expressions",
+                  "generation_prompt": "Warm late afternoon in a green lane of a dry-country village in Gujarat, western India: low houses roofed with curved clay tiles, a raised stone otlo platform running along each front wall, a whitewashed chabutro standing on its post in the open chowk, pale stony ground underfoot and open scrub land at the far edge, the lane now shaded end to end by full-grown leafy trees. In the foreground on the left, a man of about sixty with medium brown skin, grey hair combed straight back, a thick grey moustache and steel-rimmed spectacles, wearing a pale blue half-sleeve cotton shirt tucked into grey trousers, brown leather sandals and a small tan cloth bag on one shoulder stands with a man of about sixty-five with medium brown skin, short white hair, a clipped white moustache and a lined weathered face, wearing a plain white half-sleeve cotton shirt over a white dhoti, rubber slippers, and a folded white cloth resting on one shoulder, the two of them half turned toward each other in the middle of talking; the older man in white is laughing gently, and the man in the pale blue shirt has his hand on his companion's forearm, looking back down the lane. In the middle distance a red-and-white state transport bus with a blank destination board has pulled up at the mouth of the lane, and a family is stepping down from it: a man carrying a tin trunk on his shoulder, a woman in a plain cotton saree with a bedroll under one arm, a small boy holding a cloth bag with both hands and staring up at the big trees, and a girl of about nine already running ahead into the shade. Two neighbours walk out from an otlo to meet them. Long golden light through the leaves, dappled shadow on the ground, deep greens and warm cream walls. A narrow cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati script, and no other lettering appears anywhere in the picture: «ઘણા પરિવારો શહેરથી પાછા આવીને અહીં સ્થાયી થઈ રહ્યા છે.». Soft digital watercolour, vibrant textbook illustration style, 16:9."
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

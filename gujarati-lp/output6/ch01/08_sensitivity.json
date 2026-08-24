@@ -1,0 +1,16 @@
+{
+  "agent": "08_sensitivity_safety",
+  "chapter_id": "gseb_eng_gujarati6_ch1",
+  "plan_id": "gseb_eng_gujarati6_ch1_v1",
+  "topics": [],
+  "chapter_level": [],
+  "none_found": true,
+  "review_notes": [
+    "Reviewed all three topics (M1.S1.T1, M1.S1.T2, M1.S2.T3) against original_chunk and key_terms in 05_with_content.json, plus 01_meta.json's genre_signals/exercise_inventory and 04_converged.json's structure notes. Checked for all seven areas: ધર્મ, સમુદાય, ક્ષેત્ર, વિકલાંગતા, સંઘર્ષ, જાતિ-ભૂમિકા, સુરક્ષા.",
+    "The chapter is a bird-voiced બાળગીત about સંપ (unity/togetherness): birds on one branch, flying up into the sky and back down, quarrelling ('લડીએ, વઢીએ') yet staying bonded ('નિરંતર રહેતાં સંપી'), and calling themselves fellow travellers of life on the earth's lap. No named religion, community, region-specific custom, disability, war/conflict, or gendered division of roles appears anywhere in the verbatim text or key_terms.",
+    "M1.S1.T2's 'લડીએ, વઢીએ, કદી જુદાં જ થઈએ' is ordinary sibling/friend squabbling used as the poem's own contrast device (disagreement vs. lasting સંપ) — not a સંઘર્ષ or જાતિ-ભૂમિકા matter; it is the very point the objective (O2) already teaches, not something needing a separate caution.",
+    "No physical activity in the poem (flying is the birds' own, metaphorical) that a child could literally imitate unsafely — no climbing, fire, weapons, or water peril as in the સુરક્ષા examples in the spec table. Judged not to warrant a સુરક્ષા flag.",
+    "The blue intro box's teacher-addressed framing ('સંપનો મહિમા', 'સંગી-ઉમંગી જેવા પ્રાસયુક્ત શબ્દો') and the group-riddle exercise (પશુ-પંખીઓનાં ઉખાણાં) carry nothing sensitive either.",
+    "This is a genuinely clean chapter per the spec's own example category (a હાસ્યનિબંધ or similar with nothing to flag) — emitting none_found: true rather than manufacturing a flag by reflex, per the spec's 'do not flag by reflex' instruction."
+  ]
+}

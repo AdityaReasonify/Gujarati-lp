@@ -1,0 +1,6 @@
+{"textbook":"ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 7",
+ "textbook_url":"../Textbooks-pdf/std-7/ch-06-jo-kari-jambue.pdf",
+ "textbook_pages":"30–36",
+ "source":"printed folio read off renders of pdf pp. 1 and 7 of the chapter PDF (footer prints 30 on the first page, 36 on the last); cross-checked against manifest.json row for chapter 6 (printed_start 30, pdf_start 43, pdf_end 49, 7 pages) and the std-7 offset of +13 in profiles/boards/gseb_gujarati.md — all three agree",
+ "confidence":"high",
+ "gaps":["textbook_url is a local path — the GSEB readers have no hosted URL"]}

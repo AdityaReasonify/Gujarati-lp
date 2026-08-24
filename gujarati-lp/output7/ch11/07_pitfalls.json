@@ -1,0 +1,217 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Old measure and coin gate (profile avoid 12). `ટકે શેર ભાજી ટકે શેર ખાજાં.` is this topic's whole joke, so `ટકો`, `શેર` and `ખાજું` must be glossed in `explanation` or `key_terms` with the chapter's own printed શબ્દાર્થ wording — `ટકો — ત્રણ પૈસા`, `શેર — મણનો ચાળીસમો ભાગ (500 ગ્રામ)`, `ખાજું — મેંદાની એક વાનગી`. No field of this topic may state a rupee price, a kilogram weight or a 'today it would cost…' figure the chapter does not print.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Tacked-on બોધ gate (profile avoid 5). This topic's last line prints `કદી સારી બૂરી ન વેચે વિવેકે.` and invites a moral about વિવેક. No sentence of `explanation`, `summary`, `detailed_summary`, any `concept_bullets` line, `important_points` or any `recall_questions[].answer` may take the shape `આપણે પણ … જોઈએ` / `આ કાવ્ય આપણને શીખવે છે…` / `બોધ એ છે કે…`; the line is reported as what this નગરી does — one price for ભાજી and for ખાજાં, no સારી-બૂરીનો ભેદ — not as advice to the child.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Spoiling the turn gate (profile avoid 9), bound to the introduction topic. `ગંડુ રાજા` appears here and the payoff is the king on the શૂળી in `M3.S6.T10`. No `explanation`, `summary`, `detailed_summary` or `recall_questions[].answer` of this topic may contain `શૂળી`, `વિમાન`, `ગુરુનો ઉપાય` or any statement that the રાજા himself ends up on the શૂળી.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Archaic form gate (profile avoid 11), bound to the first printed word. `પુરી` in `પુરી એક અંધેરી ને ગંડુ રાજા,` must appear in that same form wherever the teaching quotes the line and must be glossed with the printed box's own wording `પુરી — એક નગરી`; no field may silently replace it with `નગરી` inside a quotation, and none may treat it as the food.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "હિન્દી-અંગ્રેજી માધ્યમનું બાળક `ભાવ` શબ્દને હિન્દીના 'ભાવ = લાગણી' તરીકે વાંચે છે, એટલે `બધી ચીજ વેચાય ત્યાં ભાવ એકે,` એને 'બધું એક જ લાગણીથી વેચાય છે' જેવું કંઈક લાગે છે. વાક્ય સાંભળવામાં બરાબર લાગે છે એટલે એ પૂછતું પણ નથી — અને એક જ કિંમતવાળી નગરીની આખી મજાક હાથમાંથી નીકળી જાય છે.",
+      "correction": "`ભાવ`ને પહેલી જ વાર `ભાવ — કિંમત` એમ ગ્લોસ કરો, એ જ વાક્યમાં જ્યાં પંક્તિ ટાંકો છો. પછી પંક્તિ સાદી ગુજરાતીમાં ફરી કહો : અહીં ભાજી ને ખાજાં બંનેની કિંમત સરખી છે. `ભાવ` શબ્દ `key_terms`માં પણ મૂકો, જેથી પછીના topicમાં એ ફરી મળે."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "Inventing a speaker gate (profile avoid 10). This કડી carries one tagged speech — `ગુરુ પાસે જઈને કહે, ‘‘ખૂબ ખાટ્યો.’’` — and its `કહે` belongs to `શિષ્ય પેલો`. Every `explanation`, `recall_questions[].answer` or `concept_bullets` line that reports who says `‘‘ખૂબ ખાટ્યો.’’` must name the શિષ્ય / ચેલો; no field may hand the line to the ગુરુ, to a shopkeeper, or to any character not printed in this or an earlier topic's `original_chunk` (the chapter's printed speaker-attribution block is scored on exactly this).",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Prose-summarising gate (profile avoid 4). `modified_chunk` already narrates the swap. `explanation` must quote at least one phrase character-for-character from this `original_chunk` (`લીધી સુખડી હાટથી આપી આટો` or `‘‘ખૂબ ખાટ્યો.’’`) and add what `modified_chunk` does not carry — why the શિષ્ય believes he has profited, i.e. that plain આટો and sweet સુખડી cost the same in this નગરી. If `explanation` could be swapped for `modified_chunk` with nothing lost, the topic fails.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Dignity of the begging round (not on the profile's list; `reference/global_content_rules.md` rule 10). `ગયો ગામમાં માગવા શિષ્ય પેલો` is a જોગી-શિષ્યની ભિક્ષા, part of his way of life. No `explanation`, `real_life_example` or recall `answer` may present it as શરમજનક, as ગરીબી, or as ભીખ in a pitying sense; it is reported as what a શિષ્ય does.",
+          "profile": "kathakavya",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક `‘‘ખૂબ ખાટ્યો.’’`માં `ખાટ્યો` સાંભળીને હિન્દીના 'ખટ્ટા' યાદ કરે છે અને સમજે છે કે સુખડી ખાટી નીકળી, અથવા શિષ્યે કંઈક ખાધું. એટલે કડીની આખી મજા — 'મને તો બહુ ફાયદો થયો !' — ઊંધી પડી જાય છે અને શિષ્ય શા માટે આ નગરીમાં રોકાવા માગે છે તે પછીની કડીમાં સમજાતું નથી.",
+      "correction": "જ્યાં `‘‘ખૂબ ખાટ્યો.’’` ટાંકો ત્યાં જ પુસ્તકના શબ્દાર્થની પોતાની ભાષામાં ગ્લોસ કરો : `ખાટવું — ફાયદો મેળવવો`. પછી સોદો પકડમાં આવે એમ કહો — શિષ્યે `આટો` (લોટ) આપ્યો ને સામે `સુખડી` લીધી, ને એ ખુશ થઈને ગુરુ પાસે દોડી ગયો. `હાટ — દુકાન` અને `આટો — લોટ` પણ એ જ વાક્યમાં ગ્લોસ કરો."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Numbers-in-display-text gate (profile avoid 14). This topic's `original_chunk` spans two printed કડી (`કડી 3` and `કડી 4`). No `topic_name`, `explanation`, `real_life_example`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[]` stem or answer may contain a digit or the form `કડી 3` / `કડી 4`; say `ત્રીજી કડીમાં`, `ચોથી કડીમાં`, `પછીની કડીમાં`.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Tacked-on બોધ gate (profile avoid 5). This is the topic where the ગુરુ warns and the શિષ્ય refuses, and the chapter's own oral block separately asks `વડીલોની વાત શા માટે માનવી જોઈએ ?`. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may end on `વડીલોની વાત માનવી જોઈએ` or any `આપણે પણ … જોઈએ` clause; the warning is reported as the ગુરુ's own reason inside the story, quoting `હશે ચોરને શાહનો ન્યાય એકે,`. Answering that oral prompt is `exercise_solutions.json`'s job, never this topic's.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Modernising-the-poet gate (profile avoid 11). This topic holds the chapter's densest cluster of Dalpatram forms — `આંહીં`, `જ્યાંહીં`, `ક્યાંહીં`, `વસીજે`, `સધ`, `તજી તેહ`. Each must appear in exactly that form wherever the teaching quotes it and be glossed rather than replaced (`વસીજે — રહીએ, રોકાઈએ`; `સધ — તરત જ, અત્યારે`; `જ્યાંહીં — જ્યાં`; `ક્યાંહીં — ક્યાં`, the printed શબ્દાર્થ box's own wording). No field may print `વસીએ` or `જ્યાં` inside a quotation of these lines, and none may call the printed forms a mistake — the box itself spells `આંહી` / `જ્યાંહી` differently from the verse's `આંહીં` / `જ્યાંહીં`, and neither place is corrected.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "ધોરણ ૭નું દ્વિતીય-ભાષાનું બાળક `વસીજે`, `સધ`, `જ્યાંહીં`, `ક્યાંહીં` જોઈને માને છે કે છાપવામાં ભૂલ થઈ છે — 'વસીએ' લખવાનું હતું, 'જ્યાં' લખવાનું હતું. એક વાર ભાષાને 'ખોટી' માની લે પછી એ અર્થ શોધવાનું જ છોડી દે છે, અને ગુરુની ચેતવણી શું છે એ કડી વંચાયા વગર જ પસાર થઈ જાય છે.",
+      "correction": "પહેલા વાક્યમાં જ કહો કે આ દલપતરામના જમાનાની જૂની ગુજરાતી છે, ભૂલ નથી. પછી દરેક શબ્દ વપરાય ત્યાં જ પુસ્તકના શબ્દાર્થની ભાષામાં ગ્લોસ કરો : `વસીજે — રહીએ, રોકાઈએ`, `સધ — તરત જ`, `જ્યાંહીં — જ્યાં`, `ક્યાંહીં — ક્યાં`. પંક્તિ પહેલાં જેમ છપાઈ છે તેમ જ ટાંકો, પછી એ જ વાત આજની સાદી ગુજરાતીમાં ફરી કહો; આ ત્રણ-ચાર શબ્દો `key_terms`માં મૂકો."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "Prose-summarising gate (profile avoid 4), and this is the topic where it bites hardest — the printed twelve-line કડી, and the chapter's own verse→prose retelling task sits over exactly this stretch. `explanation` must quote at least one phrase character-for-character from this `original_chunk` (`રહ્યા શિષ્યજી તો ત્યહાં દિન ઝાઝા`, `તહાં ભીંત તૂટી પડી, ચોર દબાયા ચાર.` or `શૂળી ઠરાવી શેઠને, ડોશીની સુણી દાદ.`) and must add what `modified_chunk` does not already carry — why the ગુરુ walks away instead of staying, and how a wall that fell on housebreakers becomes the શેઠ's crime. The model answer for the printed retelling block belongs to `exercise_solutions.json` and may never be reused as this topic's `explanation`, `summary` or `detailed_summary`.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Craft-displacing-the-story gate (profile avoid 6), plus the std-7 label ceiling. The printed line length changes inside this કડી at `તસ્કર ખાતર પાડવા, ગયા વણિકને દ્વાર,` and the book names no છંદ anywhere. The first sentence of `explanation` must name a character or an action from this `original_chunk` (ગુરુ, શિષ્ય, ભીંત, ચોર, શેઠ, ડોશી) and must not open on લય, છંદ, પ્રાસ or અલંકાર; at most one craft sentence in the whole topic, and no field anywhere may name a છંદ or an અલંકાર, since none is printed and std 7 attaches no such labels.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `ખાતર` શબ્દ ખેતરના ખાતર તરીકે ઓળખે છે, એટલે `તસ્કર ખાતર પાડવા, ગયા વણિકને દ્વાર,` વાંચીને એને સમજાતું નથી કે ચોર શેઠના ઘરે શું કરવા ગયા હતા. કારણ ખોવાઈ જાય એટલે પછીની આખી સાંકળ — ભીંત કેમ પડી, શેઠનો વાંક કેમ ગણાયો — હવામાં લટકી જાય છે.",
+      "correction": "પુસ્તકે પોતે જ છાપેલા રૂઢિપ્રયોગને પહેલી વાર જ વાપરો : `ખાતર પાડવું — ચોરી કરવી`. પછી ઘટના સાદી ગુજરાતીમાં કહો — ચોર રાતે વણિકના ઘરની ભીંત ખોદતા હતા, એ જ ભીંત એમના પર પડી. `તસ્કર — ચોર`, `વણિક — વેપારી`, `નૃપ — રાજા` પણ એ જ પ્રવાહમાં ગ્લોસ કરો, અને `ખાતર પાડવું` `key_terms`માં મૂકો."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "Couplet-as-self-contained-advice gate (profile avoid 8). This topic is two printed couplets and the second, `ખરેખર એમાં નથી, મારો ખોડ લગાર.`, reads like a maxim about people who dodge blame. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may present it as a general rule about human nature; `explanation` must name the event the couplet advances — the શેઠ standing before the રાજા and pushing the શૂળી's sentence onto the કડિયો.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Inventing a speaker gate (profile avoid 10). Only one speech in this `original_chunk` carries a printed tag — `વણિક કહે, ‘‘કડિયા તણો એમાં વાંક અપાર,`. The opening couplet `‘‘એવું ઘર કેવું ચણ્યું, ખૂન થયાં તે ઠાર,` is in quotation marks with no printed speaker. Any field that names who speaks it may name only a character already printed in this or an earlier topic's `original_chunk`, and must not present the attribution as something the poem states in words; the printed speaker-attribution block is answered in `exercise_solutions.json`, and its answer and this topic's must not contradict each other.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Community-and-trade gate (profile avoid 13). The વણિક is the first link of the blame chain. No `explanation`, `real_life_example`, `summary`, `detailed_summary`, recall `answer` or `concept_bullets` line may attach a trait to વેપારીઓ / વણિક as a group (clever, stingy, blame-shifting) or present the trade as the poem's target; where a target is named it is the નગરીનો વિવેક વગરનો ન્યાય, and the શેઠ is named as one more person caught by it.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `ખૂન થયાં તે ઠાર` વાંચીને હિન્દીના 'ખૂન = લોહી' પ્રમાણે સમજે છે, અથવા સમજે છે કે શેઠે ચારેય ચોરને મારી નાખ્યા. એટલે એને લાગે છે કે શેઠને સજા થઈ એ તો બરાબર જ છે — અને પાઠની આખી મજાક, કે અહીં કોઈનો વાંક ન હોવા છતાં સજા ઠરી જાય છે, ઓગળી જાય છે.",
+      "correction": "જ્યાં પંક્તિ ટાંકો ત્યાં જ `ખૂન — મરણ, હત્યા` ગ્લોસ કરો અને એ જ વાક્યમાં કહો કે મરનારા કોણ છે — ભીંત નીચે દબાયેલા ચાર ચોર. પછી સાદું વાક્ય મૂકો : શેઠે કોઈને માર્યા નથી, એનું ઘર પડ્યું છે; તોય સજા એને ઠરી. `અપાર — પુષ્કળ` અને `લગાર — જરા પણ` પણ પુસ્તકના શબ્દાર્થની ભાષામાં ગ્લોસ કરો."
+    },
+    {
+      "topic_id": "M2.S4.T6",
+      "avoid_checks": [
+        {
+          "check": "Community-and-trade gate (profile avoid 13), bound to the occupational chain that runs through this કડી. `કડિયો`, `ગારો કરનાર` and `પખાલી` are trades, and the શબ્દાર્થ box defines `પખાલી` as `પખાલ (ચામડાનો થેલો)માં પાણી આપનાર`. No `explanation`, `real_life_example`, `summary`, `detailed_summary`, recall `answer` or `concept_bullets` line may say or imply that કારીગરો, મજૂરો or any one of these trades is careless, dishonest or the poem's target, and none may attach a trait to the community a trade belongs to; each is named as one more innocent person the sentence slides onto.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Modernising-the-poet gate (profile avoid 11), with this chapter's printed discrepancy. The verse prints `મારી ચૂક ન લેશ.` while the chapter's own ordering block prints the same line as `મારી ચૂક ના લેશ.`. Every quotation of the line in `explanation`, `summary`, `detailed_summary` or a recall `answer` uses the verse's `ન લેશ`; neither printed form is corrected anywhere, and `ચૂક`, `વિશેષ`, `લેશ` and `ઉચ્ચાર` appear in their printed forms and are glossed rather than replaced.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `પાણી થયું વિશેષ` માં `વિશેષ`ને હિન્દીના 'ખાસ' અર્થમાં લે છે — 'પાણી ખાસ થઈ ગયું' — અને ગારો કરનારનું બહાનું શું છે એ જ પકડાતું નથી. બહાનું ન સમજાય તો વાંક પખાલી પર કેમ ખસ્યો એ કડી બિનજરૂરી લાગે છે અને સાંકળ તૂટી જાય છે.",
+      "correction": "`વિશેષ — વધારે, જોઈએ એના કરતાં વધુ` એ જ વાક્યમાં ગ્લોસ કરો જ્યાં પંક્તિ ટાંકો છો, અને પછી બહાનું બાળકના શબ્દોમાં ફરી કહો : ગારો કરનાર કહે છે કે માટીમાં પાણી વધારે પડી ગયું, એટલે વાંક પાણી લાવનાર પખાલીનો. `ચૂક — ભૂલ` પણ સાથે જ ગ્લોસ કરો અને બંને શબ્દો `key_terms`માં મૂકો."
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "Community gate (profile avoid 13), at its sharpest point in the chapter. `‘‘મુલ્લા નીસર્યા મારગે, મેં જોયું તે દિશ,` puts a religious figure into the blame chain. No `explanation`, `real_life_example`, `summary`, `detailed_summary`, recall `answer` or `concept_bullets` line may present the મુલ્લા or the community he belongs to as the poem's target, attach any trait to that community, or repeat the પખાલી's claim as though looking at a passer-by could really spill water; the excuse is named as the પખાલી's બહાનું and the target named is the નગરીનો આપખુદ, વિવેક વગરનો ન્યાય.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Inventing a speaker gate (profile avoid 10). The first couplet is tagged `પુરપતિ કહે પખાલીને`; the second couplet is in quotation marks with no tag and is the પખાલી answering the person who has just addressed him. Any field naming the speaker of `‘‘મુલ્લા નીસર્યા મારગે…’’` must name the પખાલી; the મુલ્લા does not speak anywhere in this chapter, so no `explanation`, recall `answer` or `concept_bullets` line may give him a line or a reply.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક પખાલીના બહાનાને સાચું કારણ માની લે છે — એટલે કે રસ્તે મુલ્લા સામે મળે તો ખરેખર પાણી ઢોળાઈ જાય. એક વાર એ સાચું માની લે પછી પાઠની મજાક તો જાય જ છે, ને સાથે એક ખોટી માન્યતા પણ ઘર કરી જાય છે.",
+      "correction": "પંક્તિ ટાંક્યા પછી તરત, બાળકના પોતાના શબ્દોમાં, કહો કે આ પખાલીનું બહાનું છે — સામે કોઈ નીકળે એટલે પાણી ઢોળાય નહીં. પછી એક વાક્યમાં હસવા જેવી વાત પકડાવો : આ નગરીમાં આવું બહાનું પણ ચાલી જાય છે, ને વાંક વળી નવા માણસ પર જઈ પડે છે. મુલ્લા વિશે બીજું કશું ન કહો — એ સાંકળની આગલી નિર્દોષ કડી છે, એટલું જ. `નીસર્યા — નીકળ્યા`, `દિશ — દિશા`, `છાંડો — છોડો`, `રીસ — ગુસ્સો` વપરાય ત્યાં જ ગ્લોસ કરો."
+    },
+    {
+      "topic_id": "M2.S5.T8",
+      "avoid_checks": [
+        {
+          "check": "Spoiling the turn gate (profile avoid 9), on the topic immediately before the climax. The જોગી is seized here and the rescue is `M3.S6.T9`'s. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` of this topic may contain `વિમાન`, may say that the ગુરુ comes back or saves him, or may say that the રાજા himself climbs the શૂળી; the topic closes on `જોતા જોતા એ જડ્યો, જોગી જાડે અંગ,`.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Prose-summarising gate (profile avoid 4), and the comedy is the teaching here. `explanation` must quote `ફળ જાડું શૂળી તણું, મુલ્લા પાતળે અંગ,` character-for-character and add what `modified_chunk` does not carry — that the sentence now turns on the size of a body instead of on who did anything, which is what makes the line funny and uncomfortable at once. A retelling of the events with no such sentence fails.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `ફળ જાડું શૂળી તણું` માં `ફળ`ને ખાવાનું ફળ સમજે છે અને પંક્તિનો કોઈ અર્થ બેસતો નથી — શૂળીને ફળ કેવું ? એટલે મુલ્લા શા માટે બચી ગયા અને પછી જાડા માણસની શોધ કેમ ચાલી, એ આખો રમૂજી વળાંક હાથમાં આવતો નથી.",
+      "correction": "`ફળ`ને પહેલી જ વાર `શૂળીની અણી, એનો ઉપરનો ભાગ` તરીકે ગ્લોસ કરો, અને પુસ્તકના શબ્દાર્થની પોતાની ભાષા વાપરીને શૂળી શું છે તે યાદ કરાવો : `અણીવાળો મોટો જાડો સળિયો`. પછી પંક્તિ સાદી ગુજરાતીમાં ફરી કહો — શૂળીની અણી જાડી છે ને મુલ્લાનું શરીર પાતળું છે, એટલે એ બંધબેસતા નથી. `ફળ` અને `પાતળે અંગ` `key_terms`માં મૂકો."
+    },
+    {
+      "topic_id": "M3.S6.T9",
+      "avoid_checks": [
+        {
+          "check": "Spoiling the turn gate (profile avoid 9), stated here because this topic carries `topic_category: \"climax\"` and the gate is on the topics before it. No topic from `M1.S1.T1` to `M2.S5.T8` may name `વિમાન`, the ગુરુની યુક્તિ, `ઉગારિયો`/`ઉપાય` as a rescue, or the રાજાનું શૂળીએ ચઢવું in its `explanation`, `summary`, `detailed_summary` or any `recall_questions[].answer`; the first mention of any of these in the whole plan is in this topic.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Inventing a speaker gate (profile avoid 10). The speech `‘‘ભૂપ સુણ કાન, / આ અવસર શૂળીએ ચઢે, વેગે મળે વિમાન.’’` is tagged only as `જોગી શૂળી પાસે જઈ કહે`, and the same કડી has already named both `ગુરુ` and `શિષ્ય`. Whatever character a field names as its speaker must be one printed in this topic's own `original_chunk`, the same character must be named in `explanation`, `summary` and every recall `answer`, and it must not contradict the answer given in `exercise_solutions.json` for the printed speaker-attribution block.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Prose-summarising gate (profile avoid 4) on the turn itself. `explanation` must quote `આ અવસર શૂળીએ ચઢે, વેગે મળે વિમાન.` character-for-character and add the motive `modified_chunk` leaves out — the ગુરુ does not argue with the રાજાના ન્યાય, he makes the શૂળી something everyone wants. Exactly one topic in the plan says this, and it is this one.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `વેગે મળે વિમાન` ને પાઠની સાચી વાત તરીકે લે છે — કાં તો માને છે કે ખરેખર કોઈ ઇનામ મળવાનું છે, કાં તો `વિમાન` એટલે આજનું હવાઈજહાજ સમજીને પ્લેન ક્યાંથી આવશે એ વિચારવા બેસી જાય છે. બંને રીતે વળાંક ચૂકી જવાય છે, કારણ કે આ વાક્ય માહિતી નથી — ફાંદો છે.",
+      "correction": "પંક્તિ ટાંકતાં પહેલાં કવિના પોતાના શબ્દો બતાવો — `ગુરુએ આવી ઉગારિયો અદ્‌ભુત કરી ઉપાય` — અને કહો કે હવે જે બોલાય છે તે ઉપાય છે, બચાવવાની યુક્તિ છે. પછી પંક્તિ ટાંકો ને પૂછો : આ સાચું હશે ? `વિમાન` શું છે એની કોઈ સમજૂતી પાઠ છાપતો નથી, એટલે એને આજના હવાઈજહાજ તરીકે સમજાવવું નહીં — વાત એટલી જ કે લાલચ એવી મુકાઈ કે બધાને શૂળીએ ચઢવાનું મન થાય. `મુદત — વધારે સમય`, `ઉગારિયો — બચાવ્યો`, `અવસર — સમય`, `વેગે — ઝડપથી` વપરાય ત્યાં જ ગ્લોસ કરો."
+    },
+    {
+      "topic_id": "M3.S6.T10",
+      "avoid_checks": [
+        {
+          "check": "Tacked-on બોધ gate (profile avoid 5), on the topic where it is hardest to resist. The chapter's blue intro box says the poem carries a શીખ, but the verse prints no શીખ line of its own — the last printed line is `રાજા શૂળી પર રહ્યો, અંગે વેઠી આંચ.`. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line, `important_points` entry or `recall_questions[].answer` may contain `આ કાવ્ય આપણને શીખવે છે…`, `બોધ એ છે કે…` or an `આપણે પણ … જોઈએ` clause, and none may quote a શીખ as the poet's since the poem prints none; the ending is reported as what happens. The oral prompts `વડીલોની વાત શા માટે માનવી જોઈએ ?` and `વિચાર્યા વિના કામ કરીએ તો કેવાં પરિણામ આવે ?` are answered only in `exercise_solutions.json`.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Craft-displacing-the-story gate (profile avoid 6). This કડી's rhymes `આપ–પ્રતાપ` and `પાંચ–આંચ` are also seed words in the chapter's printed rhyme-hunt block, so a rhyme-first opening is a live temptation. The first sentence of `explanation` must name a character or an action from this `original_chunk` (ચેલો, ગુરુ, અધિપતિ, રાજા, the હોડ, the ચઢવું), not પ્રાસ, લય, છંદ or અલંકાર; at most one craft sentence in the topic, placed after the event is clear, and it may say the rhyme aloud without naming any અલંકાર or છંદ.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        },
+        {
+          "check": "Old measure gate (profile avoid 12). `ગુરુ ચેલાને ગામથી, પહોંચાડ્યા ગાઉ પાંચ,` — `ગાઉ` is glossed in the printed box only as `અંતરનું એક માપ`. No `explanation`, `summary`, `detailed_summary`, `real_life_example` or recall `answer` may convert it into kilometres or miles or state how far five ગાઉ is; the box's own wording is what the teaching uses.",
+          "profile": "kathakavya",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `‘‘હું આપ,’’` માં `આપ`ને હિન્દીના માનવાચક 'આપ' (એટલે 'તમે') તરીકે વાંચે છે. એટલે એને લાગે છે કે ગુરુ ચેલાને આગળ ધકેલે છે — 'તું ચઢ' — અને ચઢવા માટે બે જણ વચ્ચે હોડ જામી છે એ જ દેખાતું નથી. હોડ ન દેખાય તો રાજા શા માટે વચ્ચે કૂદી પડ્યો એ સમજાતું નથી, ને પાઠનો છેલ્લો ને સૌથી મોટો વિનોદ ખોવાઈ જાય છે.",
+      "correction": "પુસ્તકના શબ્દાર્થની પોતાની નોંધ વાપરો — `આપ — હું, પોતે` — અને એ જ વાક્યમાં ગ્લોસ કરો જ્યાં પંક્તિ ટાંકો છો. પછી ત્રણેયનું બોલવું સાદી ગુજરાતીમાં એક પછી એક ફરી કહો : ચેલો કહે 'હું ચઢું', ગુરુ કહે 'હું પોતે ચઢું', ને એ સાંભળીને રાજા કહે 'અમે ચઢીશું'. `આપ` `key_terms`માં મૂકો."
+    }
+  ],
+  "chapter_level": [
+    "The whole chapter is nineteenth-century દલપતરામ Gujarati and the printed blue intro box orders the teaching to point at it: 'એમાં આવતા ગુજરાતી ભાષાના જૂના શબ્દો તરફ વિદ્યાર્થીઓનું ખાસ ધ્યાન દોરવું.' At std 7 an L2 reader treats these forms as spelling mistakes and stops reading for sense. Every archaic or elided form present in a topic's original_chunk — ત્યહાં, તહાં, આંહીં, જ્યાંહીં, ક્યાંહીં, વસીજે, સધ, તણો, નીસર્યા, છાંડો, દિશ, ઝાઝા, રાતેમાતે, પુરી, ભૂપ, નૃપ — is quoted in its printed form, glossed at the point of use in 'શબ્દ — અર્થ' form, and named as જૂની ગુજરાતી rather than corrected (profile avoid 11).",
+    "The king is named five different ways across the chapter — રાજા (first કડી), નૃપ, પુરપતિ, ભૂપ, અધિપતિ — and the printed શબ્દાર્થ box glosses only 'નૃપ — રાજા, અધિપતિ, ભૂપ', leaving પુરપતિ unglossed. An L2 child reads them as five different characters and the blame chain stops making sense. Wherever one of these names first appears in a topic, that topic says in plain Gujarati that it is the same રાજા.",
+    "Sensitivity, chapter-wide (profile avoid 13). The blame chain runs વણિક → કડિયો → ગારો કરનાર → પખાલી → મુલ્લા. Four of these are occupations and one is a religious title; not one of them is the poem's target and not one of them is guilty. No teaching field anywhere in the plan attaches a trait to any of these trades or to any community, and where the satire's target is named it is the નગરીનો આપખુદ, વિવેક વગરનો ન્યાય. The reflex failure to watch for in a Gujarati pack is the વેપારી stereotype at the head of the chain.",
+    "Register, chapter-wide. The engine of the poem is an execution device and the printed શબ્દાર્થ box defines શૂળી in full, so the dark-comic tone is the book's own and is neither softened away nor dwelt on. The child may laugh; no explanation, summary or recall answer turns the શૂળી into a gruesome description or into a lesson about punishment.",
+    "Std 7 attaches no craft labels (profile avoid 6, and the std-7 genre gate). The line length changes mid-poem and the book prints no છંદ name, so no છંદ and no અલંકાર may be named anywhere in the plan and figures_of_speech stays []. પ્રાસ may be heard and said aloud — the chapter's own rhyme-hunt block makes the rhyme the lesson's material — in at most one sentence per topic, placed after the event is clear.",
+    "Two lines are printed differently in the poem and in the exercises, and neither place is corrected: the verse prints 'નહીં યોગ્ય આંહીં રહ્યો રાતવાસો.' while the ભાવાર્થ block prints 'રહ્યે'; the verse prints 'મારી ચૂક ન લેશ.' while the ઘટનાક્રમ block prints 'ના લેશ'. Teaching fields quote the verse's form; exercise_solutions.json answers from the exercise's printed form."
+  ]
+}

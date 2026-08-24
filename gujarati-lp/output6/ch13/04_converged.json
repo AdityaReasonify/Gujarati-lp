@@ -1,0 +1,12 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "88179292ba124d4455d9254758b9d2b0371a384f904b520bee5335e7050c2b23",
+  "verdict": "pass",
+  "notes": [
+    "Convergence record only — the structure payload is NOT duplicated here. Read 02_structure.json for the tree, the root objectives[] registry and strand_to_objective_map; read this file only to confirm convergence and to verify the frozen source hash.",
+    "Ids are frozen from this moment: M1(S1,S2), M2(S3,S4), M3(S5); topics M1.S1.T1 … M3.S5.T8; concepts C1 … C11 chapter-continuous; objectives O1 … O8 with L1 … L8. Only Agent 14 may renumber M/S/T/C, and O{n} / strand_to_objective_map are never renumbered.",
+    "Verdict detail, all three blocking checks and every non-blocking note live in 04_validation.json.",
+    "Two items downstream must honour: (a) M3.S5.T8 carries TWO reading markers, so Agent 5 copies both spans — 00_chapter_normalized.md line 48 and lines 52-54 — into its original_chunk, in that order; (b) topic_type is the authored enum STORY_TELLING and Agents 14/15 map it to instructional at emit."
+  ]
+}

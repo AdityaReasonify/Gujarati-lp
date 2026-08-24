@@ -1,0 +1,76 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati6_ch10",
+  "std": 6,
+  "chapter": 10,
+  "run": "revalidation after A2 re-cut (02_structure.json rewritten 04:44; earlier pass validated sha d86880eb…)",
+  "validated_file": "02_structure.json",
+  "sha256": "fb61f516b7beee044d3c69ab06b90a81c4eed98f75898fb2a871301461c81d92",
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "genre": "kathakavya",
+      "explanation_unit": "એક વાર્તા-પગલું (ઘટના), સીમા છાપેલી કડી (પ્રાસ-જોડ)ના છેડે",
+      "kadi_markers": 15,
+      "kadi_markers_carried": 15,
+      "kadi_markers_split_across_topics": 0,
+      "ghatna_markers": 12,
+      "instructional_topics": 12,
+      "topic_to_ghatna_mapping": "one-to-one, in printed order",
+      "duha_markers": 0,
+      "pad_markers": 0,
+      "tek_occurrences": 0,
+      "mixed_chapter": false,
+      "notes": [
+        "The cut uses the unit named in 01_meta.json — ઘટના (વાર્તા-પગલું), boundaries at printed કડી ends — not the કડી. The spec's 'કડી markers equal topics' rule therefore does not apply; kathakavya.md's two structural gates apply instead and both hold.",
+        "Gate 1 (never split a કડી): all fifteen [[કડી n]] markers are carried, each by exactly one topic, in printed order કડી 1…કડી 15 with no duplicate and none uncarried. Each topic's kadi_markers set equals exactly the set the source assigns to its ઘટના marker. provenance printed_lines run 1–2, 3–4, 5–6, 7–8, 9–10, 11–12, 13–16, 17–18, 19–22, 23–24, 25–26, 27–30 — contiguous over lines 1–30, no gap, no overlap.",
+        "Gate 2 (not કડી-wise): twelve instructional topics equal the twelve [[ઘટના: …]] markers (source lines 27, 32, 37, 42, 47, 52, 57, 66, 71, 80, 85, 90) and are strictly fewer than the fifteen કડી. Every topic's ghatna_marker string matches its source marker character-for-character and in the same order.",
+        "Three ઘટના steps span two કડી each and are held whole in one topic — M2.S4.T7 (કડી 7+8), M3.S5.T9 (કડી 10+11), M3.S6.T12 (કડી 14+15). This is the source's own grouping, not A2 regrouping: the earlier structure's split/merge pair is gone and the mapping is now strictly one-to-one.",
+        "દુહો, પદ and ટેક are all zero here — measured in 01_meta.json and confirmed by marker count and by the rendered pages — so the no-merged-દુહો, no-split-પદ and changed-words-ટેક rules are vacuous, not skipped.",
+        "avoid list checked against the cut and the objectives. No numeral (Latin or Gujarati) appears in any module_name, segment_name, topic_name, concept_name or objective_text — gate 14 holds; બાર, બે, ચાર are the poem's own Gujarati words. No અલંકાર, છંદ, પ્રાસ, લય or સ્વરૂપ label appears in any objective, as the std-6 ceiling and 01_meta.json's teaching_lens require. No objective carries an appended બોધ (gate 5) — O12 restates the poet's own printed line 'એ બે વિના બીજા બધા થાય નકામા ખાસ !'. Gate 9 holds under A2's climax placement: no objective before M3.S5.T9 names the flight or the tally, and none before M3.S6.T12 names who the બાર સાથી are.",
+        "Every line quoted inside an objective was checked against 00_chapter_normalized.md: 'નથી કદી હું એકલો, સાથી મારે બાર !' (O3), 'કાલે કરજે ટાયલી !' (O6), 'આવા દાવ' (O7), 'હવે બતાવું રંગ !' (O8) all appear character-for-character in the verse."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 12,
+      "topics": 12,
+      "exercise_blocks": 13,
+      "exercise_blocks_cut_as_topics": 0,
+      "apparatus_blocks_cut_as_topics": 0,
+      "notes": [
+        "All twelve reading scenes marked in 00_chapter_normalized.md became topics, in printed order, one to one. No topic covers text that no marker claims — every provenance points at કડી 1–15 only, and the twelve topics together cover printed lines 1–30 exactly once.",
+        "No સ્વાધ્યાય block became a topic. All thirteen verbatim_heading entries in 01_meta.json exercise_inventory were cross-checked against every module_name, segment_name, topic_name, concept_name and every topic's provenance: zero collisions in either direction, and no provenance entry points outside the verse. The dramatisation block and the singing block — teacher-addressed but printed inside the numbered list — are likewise absent from the cut.",
+        "Apparatus correctly excluded: the blue પ્રવેશક box, the green શબ્દાર્થ box, the • રૂઢિપ્રયોગ pre-block, the standing bullet under વાતચીત, and the chapter-final ઉખાણા box. explanation_unit_map.md rule 4 and kathakavya.md both class these as teacher-addressed matter.",
+        "The 'pre-reading opener is a topic' check is vacuous in this chapter rather than failed: std 6 prints no student-facing કવિ-પરિચય or કૃતિ-પરિચય paragraph, and the only pre-reading prose is the teacher-addressed blue box, which rule 4 forbids as a topic. There is no in-text wrap either, so no REVIEW topic is expected.",
+        "Verified against the rendered pages (pdftoppm -png -r 150, all five printed pages, folio 63–67). p. 63: two columns, lines 1–10 top-left and lines 11–21 bottom-right, read down each column; the poem runs continuously with no blank-line stanza break, so કડી = printed પ્રાસ-જોડ as A1 recorded. p. 64: the remaining nine lines (22–30), then the શબ્દાર્થ box, the રૂઢિપ્રયોગ pre-block and સ્વાધ્યાય block one. pp. 65–67: numbered blocks two through thirteen, then the closing riddle box. No appended reading matter anywhere — no second poem, no embedded play-text — so nothing was wrongly left out of the ઘટના chain and nothing was wrongly folded into it.",
+        "The પ્રાસ pair સાથ/હાથ breaks across the p. 63 → p. 64 page boundary, confirmed on the renders. M3.S5.T9 (lines 19–22) therefore straddles two printed pages while still carrying કડી 10 and કડી 11 whole — a page break, not a split કડી."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 12,
+      "notes": [
+        "Root objectives[] present; O1–O12 unique; L1–L12 unique; strand_to_objective_map has twelve entries covering every legacy_id exactly once and mapping onto exactly the twelve registered objective_ids. Single strand L / ભાષા અને સાહિત્ય throughout.",
+        "Every home_topic_id resolves to a topic in this tree and every anchor[] id resolves to a concept in it — zero unresolved. Every objective's home topic carries that objective in its objective_ids. Every topic carries objective_ids and each resolves to the registry; every concept's objective_id resolves too. All depends_on ids resolve.",
+        "Id contract holds: modules M1–M3 in order; segments M1.S1, M1.S2, M2.S3, M2.S4, M3.S5, M3.S6 — s continuous 1–6 across the chapter and never restarting inside a module; topics T1–T12 continuous; every concept_id equals its topic number, M1.S1.T1.C1 … M3.S6.T12.C12, the chapter-continuous form the validator checks exactly. Exactly one concept per topic. No M1.S1.T1.P1-style objective code appears anywhere in the file.",
+        "Each objective is text-grounded and chapter-specific — every one names ધૂળો, the ચોર, ઈડર/કોટડા, the કોથળો or the કાટલાં, or quotes a line printed in this chapter; none could be pasted into another chapter. Every objective_text falls inside the 12–30 word band. The Bloom ladder runs Remember → Understand → Analyze → Apply → Evaluate and each objective serves the ઘટના + પાત્ર + વળાંક lens: what happened, who said it, and where the story turns."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Re-run outcome: this is the second Agent-4 pass on this chapter. The first passed an earlier 02_structure.json (sha d86880eb…, five segments, one split/merge pair between markers and topics). A2 has since rewritten the file (sha fb61f516…, six segments, strictly one-to-one marker-to-topic mapping) and corrected its own notes[0], which previously claimed the source carried no [[ઘટના: …]] markers. Both the earlier non-blocking findings are therefore resolved in the current file, and this pass validates the current file from scratch rather than inheriting the earlier verdict.",
+    "NON-BLOCKING, for Agent 5 / Agent 12: O5 quotes 'નથી હું એક, બાર જણા લઈ નીકળ્યો', which is not one contiguous printed string — it joins the end of printed line 9 to the start of line 10 and drops the vocative 'અલ્યા,'. The wording of each half is unchanged, and objective_text is not a verbatim field, so nothing is blocked; but where the teaching quotes this speech it should quote a printed line whole ('કહે ધૂળો એ ચોરને : \\'અલ્યા, નથી હું એક,') rather than the joined form. The same joined string appears in the source's own [[ઘટના: …]] marker, which is scaffolding and not printed text.",
+    "NON-BLOCKING: climax placement remains a recorded disagreement, not an error. kathakavya.md §Emphasise names this ballad's turn as the bluff 'નથી કદી હું એકલો, સાથી મારે બાર !'; 01_meta.json, read off the page, names the વળાંક as the thieves' flight. A2 preferred the chapter-measured reading and put topic_category 'climax' on M3.S5.T9, stating the disagreement openly in notes[4]. topic_category is free text per phase2_contract.md and gate 9 holds under that placement. Agents 6 and 12 must honour A2's added rule that no topic before M3.S6.T12 may name who the બાર સાથી are.",
+    "NON-BLOCKING: topic_type 'POEM' on all twelve reading scenes is correct, not a defect, even though the cut is ઘટના-wise. POEM | STORY_TELLING | CONCEPT | REVIEW is the authored enum for the intermediate files of Agents 02–13, POEM and STORY_TELLING both map to 'instructional' at Agent 14/15 emit, and POEM carries the rhyme_scheme / figures_of_speech fields this verse chapter needs.",
+    "NON-BLOCKING: nine of the twelve topics carry exactly one કડી, which reads close to a કડી-wise cut. It is not one — the count gate holds (12 topics against 12 ઘટના and 15 કડી) and the grouping is the source's own marker grouping, not a per-કડી default. kathakavya.md says of this very chapter that 'the attack of the ચોર and ધૂળો's bluffing answer are two steps even though they sit close together': this ballad's narrative steps genuinely sit at couplet granularity, and the three two-કડી topics are where they do not.",
+    "DEFERRED, not checkable at this stage: kathakavya.md hard gate 3 (single-quote balance inside each topic's original_chunk) cannot be run here because original_chunk is \"\" throughout 02_structure.json by design — Agent 5 attaches the verbatim. A2 reports having checked the balance topic by topic against the printed page; the gate still passes to Agents 5 and 13 for a check against the attached text. A2's warning in notes[6] is correct and must be honoured by any mechanical run of it: the apostrophe in જાવું'તું (M3.S5.T10, printed line 23) is an elision mark and content, not a speech quote, so that topic will report as unbalanced under a naive count.",
+    "NON-BLOCKING, for Agent 5: the attribution line '- રમણલાલ સોની' is printed at the HEAD of the chapter on p. 63, under the title and to the right, not at the foot of the poem — confirmed on the render, and A1 records this in the કવિ-સ્લોટ marker. kathakavya.md §Explanation unit says the attribution belongs inside the LAST topic's original_chunk, and A2's notes[8] passes that instruction on. Agent 5 should settle the placement against reference/gujarati_verbatim.md for a head-printed poet slot rather than applying the foot-printed rule mechanically. Structural either way; flagged so it is decided rather than defaulted.",
+    "NON-BLOCKING: root genre is the slug 'kathakavya' in 02_structure.json where 01_meta.json records the printed label 'કથાકાવ્ય / કથાગીત'. The slug is what the profile's cross-file constraint requires and what active_genre_profiles resolves against; the printed label stays available in 01_meta.json for Agent 16. Flagged only because Agent 14 emits root genre.",
+    "04_converged.json is, per this agent's spec, a byte-identical copy of 02_structure.json (sha fb61f516…). It replaces the earlier pass's pointer-style convergence record, which was not a copy. Ids are frozen from this pass; Agent 14 renumbers, nothing else does.",
+    "Page renders for this pass live in the run's own scratch subdir (run-s6c10-04) and are not written into the output directory."
+  ]
+}

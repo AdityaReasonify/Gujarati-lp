@@ -1,0 +1,54 @@
+{
+  "topics": [
+    {
+      "topic_id": "M2.S3.T6",
+      "areas": ["સંઘર્ષ"],
+      "caution": "The explanation of 'કૌરવો અને પાંડવો વચ્ચે રાજ્યના હક બાબતે કલહ' or Duryodhan's line 'સોયની અણી જેટલી જમીન પણ હું પાંડવોને નહિ આપું' could be pitched as one family/side being simply evil, turning a rightful-claim dispute into a communal us-vs-them lesson.",
+      "guidance": "Keep the explanation and real_life_example anchored on 'હક' — a fair claim refused — not on hating the Kauravas as a group; a child's real_life_example should stay in the register of a fair share denied (a shared toy, a family property dispute settled by elders), not a battle to be cheered.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "areas": ["સંઘર્ષ"],
+      "caution": "Sushrma's line 'બદલો લેવાની આનાથી મોટી તક બીજી ન મળે' and the phrase 'ક્ષત્રિય પરંપરા પ્રમાણે એને અમારી સાથે યુદ્ધ કરવું જ પડશે' risk two things: revenge being taught as admirable, and the custom being generalised into a caste-hierarchy lesson.",
+      "guidance": "Explain 'ક્ષત્રિય પરંપરા' strictly as this story's plot rule — a challenge once given could not be refused — never as an endorsement of caste-based duty; and explanation should name Sushrma's motive as બદલો (grudge) without holding it up as something to admire.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M3.S6.T11",
+      "areas": ["સંઘર્ષ"],
+      "caution": "'એના શરીર પર ઠેકઠેકાણે ઘા પડ્યા હતા' could be dwelt on for its gore, or the taunt 'એક નાનું છોકરું આપણી સામે યુદ્ધ કરશે!' repeated as a joke about the child's size.",
+      "guidance": "The explanation should land on 'ન તો એ ડર્યો, ન તો એ ડગ્યો' — courage that did not break — not on the wounds themselves; the real_life_example should be a child persisting at something hard despite being underestimated, never a re-enactment of the injuries.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M3.S6.T12",
+      "areas": ["સંઘર્ષ"],
+      "caution": "'છ - છ યોદ્ધાઓએ ભેગા મળીને અભિમન્યુ પર હલ્લો કર્યો અને ઉપરાઉપરી ઘા મારીને એની હત્યા કરી' is the chapter's most graphic line; it could be softened into a vague 'they defeated him,' erasing the point of the topic, or told with relish, or framed as 'the enemy side is cruel' rather than 'breaking a rule is wrong.'",
+      "guidance": "explanation and any recall answer should name exactly what the text names — 'નીતિનિયમોને નેવે મૂકીને' six warriors together against one — and land the lesson on fairness in a contest (a game, a match) being broken, never on hating the six named warriors as people; do not elaborate the manner of the killing beyond what 00_chapter_normalized.md states.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M3.S6.T13",
+      "areas": ["સંઘર્ષ"],
+      "caution": "Yudhishthir's 'ચક્રવ્યૂહ તૂટ્યો પણ આપણો ભડવીર ખૂટ્યો' and 'વીરગતિ' could be turned into a lesson that dying in battle is the goal to admire, or the real_life_example could ask a child to imagine losing someone.",
+      "guidance": "Keep the explanation on 'નિર્ણાયક ભૂમિકા નિભાવી છે એવા સંતોષ' — Abhimanyu did what mattered and was missed — and let the real_life_example be about a teammate's contribution being sorely missed after they can no longer play, not about death itself.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "ધર્મ",
+      "guidance": "This is a પૌરાણિક વાર્તા (the chapter's own પ્રવેશપેટી calls it 'વીરરસભરી પૌરાણિક કથા') carried through Krishna and Balram as family — Krishna teasing his sister Subhadra, Balram play-acting anger. Teach it as itihasa-purana literature — a story with named characters, an event chain, a turning line — never as theology: do not comment on Krishna's divinity or avatarhood, do not turn the mama-bhanej banter (M1.S1.T3, M1.S2.T5) into devotional instruction, and do not debunk or defend the story's supernatural premise (chakravyuh formations, foetal learning)."
+    },
+    {
+      "area": "સંઘર્ષ",
+      "guidance": "Exercise 14 ('અર્જુને અભિમન્યુના મૃત્યુનું વેર કેવી રીતે લીધું એ અંગે તમારા વડીલોને પૂછો') sends the child home to ask elders how Arjun avenged Abhimanyu's death. Agent 10's model answer, and any real_life_example touching this, should keep the frame on grief and duty carried through, not on revenge as something to celebrate — the text itself never narrates the revenge, only Yudhishthir's sigh."
+    },
+    {
+      "area": "સુરક્ષા",
+      "guidance": "The chapter is built on hand weapons — ગદા, ધનુષ્ય-બાણ, બખતર-શિરસ્ત્રાણ, ચક્રવ્યૂહ combat. Any real_life_example or activity idea should stay inside storytelling (retelling, acting out dialogue, drawing the scene) and should not invite a child to mock-fight with sticks or toy weapons to 'be Abhimanyu.'"
+    }
+  ],
+  "none_found": false
+}

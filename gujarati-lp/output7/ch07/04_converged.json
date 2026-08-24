@@ -1,0 +1,12 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "f1dbf7f253501f8dfbee11e6f58d2654f283cc1317911dcbbcc85df5350718d9",
+  "verdict": "pass",
+  "notes": [
+    "Convergence record only — the structure payload is NOT duplicated here. Read 02_structure.json for the tree; read this file only to confirm convergence.",
+    "Ids are frozen from this pass: M1–M4, S1–S6, T1–T12, C1–C16, O1–O12 with L1–L12. Only Agent 14 renumbers, and O{n} / strand_to_objective_map are not renumbered.",
+    "Single validation pass per reference/loop_protocol.md. status pass, blocking [], owner null — no re-run of A1 or A2 was needed.",
+    "sha256 is of 02_structure.json as it stood at this pass; if that file changes, this record is stale and the gate must be re-run."
+  ]
+}

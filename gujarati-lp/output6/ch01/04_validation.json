@@ -1,0 +1,92 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati6_ch1",
+  "plan_id": "gseb_eng_gujarati6_ch1_v1",
+  "grade": 6,
+  "chapter_name": "એક જ ડાળનાં પંખી",
+  "genre": "urmikavya_geet",
+  "explanation_unit": "એક કડી",
+  "validated_input": "output6/ch01/02_structure.json",
+  "pass_number": 1,
+
+  "status": "pass",
+
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "explanation_unit_from_meta": "એક કડી",
+      "kadi_markers_in_normalized": 3,
+      "topics_carrying_kadi_marker": 3,
+      "tek_markers_in_normalized": 1,
+      "tek_wordings_distinct": 1,
+      "topics_carrying_tek_marker": 1,
+      "duha_markers": 0,
+      "pad_markers": 0,
+      "notes": [
+        "explanation_unit 'એક કડી' રેન્ડર કરેલા પાના સાથે મળે છે — પાનું 1 પર બે પંક્તિની ટેક પછી ત્રણ-ત્રણ પંક્તિની ત્રણ કડી, દરેકને અંતે જમણી બાજુ '- એક જ.' શૉર્ટહૅન્ડ. કવિ-સ્લોટમાં નામ ('- શાન્તિલાલ શાહ'), વર્સમાં છાપ નથી, રદીફ નથી, ચૌદ પંક્તિ નથી — urmikavya_geet જ સાચું routing છે.",
+        "કડી-marker અને કડી carry કરતાં topics બરાબર બરાબર: 3 = 3 (M1.S1.T1 ← [[કડી 1]], M1.S1.T2 ← [[કડી 2]], M1.S2.T3 ← [[કડી 3]]).",
+        "ટેક structural gate (profiles/genres/urmikavya_geet.md, 'ટેક handling, structural — checked at Agent 4') પળાયો છે: ટેકના શબ્દો ક્યાંય બદલાતા નથી (distinct wordings = 1), એટલે બરાબર એક topic ટેક carry કરે છે (M1.S1.T1) અને પછીની બંને કડી-topics — M1.S1.T2, M1.S2.T3 — એ topic ને depends_on માં ગણાવે છે. ચકાસ્યું.",
+        "કોઈ દુહો કે પદ marker નથી, એટલે 'બે દુહા એક topic માં' અને 'પદ ભાગ્યું' બંને ગેટ લાગુ પડતા નથી; મિશ્ર પ્રકરણ પણ નથી — એક જ સ્વરૂપ, એક જ profile.",
+        "avoid-list (structural) સામે ચકાસ્યું: (અ) કોઈ objective_text સૂત્ર-ઘાટનું 'આપણે … જોઈએ' નથી; (બ) કોઈ module/segment/topic/concept name માં અંક નથી; (ક) objective_text માં અંક નથી — 'બીજી કડીમાં', 'છેલ્લી કડીનું' શબ્દ-રૂપ વપરાયાં છે; (ડ) ધો. 6 નું craft-label ceiling પળાયું છે — એક પણ અલંકાર / છંદ / સમાસ / સાહિત્યપ્રકારનું નામ નથી; માત્ર 'ટેક' અને 'કડી' વપરાયા છે, જેને ધો. 6–8 માટે મંજૂરી છે; (ઈ) કોઈ રાજકીય કે વૈજ્ઞાનિક-પરિભાષાનું framing નથી.",
+        "original_chunk ત્રણેય topics માં ખાલી છે — Agent 2 ના spec મુજબ સાચું; એટલે refrain-shorthand નું verbatim-વિસ્તરણ અહીં થયું જ નથી. એ ગેટ Agent 5 પર ચકાસાશે."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 4,
+      "topics": 3,
+      "markers_carried_by_topics": 4,
+      "exercise_inventory_entries": 13,
+      "exercise_blocks_cut_as_topics": 0,
+      "notes": [
+        "00_chapter_normalized.md ના reading-scene markers ચાર છે — [[ટેક]], [[કડી 1]], [[કડી 2]], [[કડી 3]] — અને ચારેય topics માં carry થયા છે (M1.S1.T1 બંને પહેલા markers ને પોતાના `markers` માં ગણાવે છે). એકેય marker ગળી ગયો નથી અને marker વગરનું એકેય topic નથી. ક્રમ પણ પાનાનો જ છે.",
+        "scenes 4 સામે topics 3 — આ ઘટાડો ટેક-fold ને કારણે છે, ગુમાવેલા લખાણને કારણે નહિ. agents/02_structure.md નો ચકાસાતો નિયમ ('An identical ટેક is taught at first occurrence and referenced after; it never becomes a topic of its own') અને એ જ spec ના કોષ્ટકની શરત ('the ધ્રુવપંક્તિ is quoted inside its કડી, never cut from what it asks for') બંને આ જ કાપ માગે છે. ટેકને અલગ topic બનાવવું spec-વિરુદ્ધ થાત.",
+        "topic-wise source_lines પાનાના કાવ્ય-ભાગની અંદર જ છે: M1.S1.T1 = 17-24, M1.S1.T2 = 26-29, M1.S2.T3 = 31-34. કાવ્ય લીટી 17–34 વચ્ચે છે; સ્વાધ્યાય લીટી 42 થી શરૂ થાય છે. કોઈ topic એવા લખાણને આવરી લેતું નથી જેને કોઈ marker દાવો ન કરતો હોય.",
+        "સ્વાધ્યાય cross-check — 01_meta.json ના exercise_inventory ના તેરેય verbatim_heading સામે ત્રણેય topic_name અને ત્રણેય topics ના markers/source_lines ચકાસ્યાં: એક પણ મેળ નથી. કોઈ સ્વાધ્યાય બ્લોક topic બન્યો નથી. તેરેય બ્લોક 02_structure.json ના not_cut_as_topics માં નામજોગ નોંધાયા છે અને Agent 10 ના ક્ષેત્રમાં જ રહે છે.",
+        "apparatus પણ topic બન્યું નથી અને એ સાચું છે — ભૂરી પ્રવેશક-પેટી (શિક્ષક-સંબોધિત: 'બાળકોને કરાવવું', 'પરિચિત કરવાં') અને શબ્દાર્થ-પેટી બંને not_cut_as_topics માં છે.",
+        "પ્રકરણ-અંતિમ 'અમે એક જ...' ચોકઠું — રેન્ડર કરેલા પાના 5 પર ક્રમાંકિત સ્વાધ્યાય-ક્રમની બહાર છપાયેલી appended પ્રવૃત્તિ-પેટી છે. topic બન્યું નથી (સાચું) અને Agent 10 માટે નોંધાયેલું છે.",
+        "in-text wrap (REVIEW topic) આ પ્રકરણમાં છપાયો જ નથી — પાનાં 1–5 રેન્ડરથી ચકાસ્યું. તેથી REVIEW topic ની ગેરહાજરી measured gap છે, coverage-ખામી નથી.",
+        "appended reading matter ('ગાઈએ' પેટી, બીજું કાવ્ય, exercise ની અંદર છપાયેલી બીજા કવિની પંક્તિઓ) એકેય નથી — રેન્ડર કરેલાં પાનાં 1–5 પર માત્ર કાવ્ય, શબ્દાર્થ-પેટી, તેર સ્વાધ્યાય બ્લોક અને અંતિમ ચોકઠું છે. એટલે કડી-સાંકળમાં કશું ભેળવવાનું આવ્યું નથી.",
+        "સ્વાધ્યાય બ્લોક 10 કાવ્યની પંક્તિઓ ફરી છાપે છે (જુદી જોડણી/વિરામચિહ્નો સાથે — 'કુદરતગાન', 'દુઃખ માં', 'પ્રવાસ નાં'). એને reading scene તરીકે ગણી નથી અને કડી-સાંકળમાં ભેળવી નથી — સાચું."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 3,
+      "unique_objective_ids": true,
+      "home_topic_ids_resolve": true,
+      "anchor_ids_resolve": true,
+      "strand_map_covers_every_legacy_id_once": true,
+      "every_topic_has_resolvable_objective_ids": true,
+      "notes": [
+        "ત્રણ objectives, ત્રણ objective_id (O1, O2, O3) — બધા અનન્ય. ત્રણ reading-scene topics સામે એક-એક text-grounded anchor.",
+        "home_topic_id ત્રણેય આ જ વૃક્ષમાં ઊકલે છે: O1 → M1.S1.T1, O2 → M1.S1.T2, O3 → M1.S2.T3.",
+        "anchor[] ના ચારેય concept-id ઊકલે છે: M1.S1.T1.C1, M1.S1.T1.C2 (O1), M1.S1.T2.C3 (O2), M1.S2.T3.C4 (O3).",
+        "strand_to_objective_map દરેક legacy_id ને બરાબર એક વાર આવરે છે: L1→O1, L2→O2, L3→O3; objectives માં પણ L1, L2, L3 જ છે — બંને દિશામાં મેળ.",
+        "ત્રણેય topics પાસે objective_ids છે અને દરેક registry માં ઊકલે છે: T1 ['O1'], T2 ['O2'], T3 ['O3'].",
+        "text-grounded ચકાસણી — દરેક objective આ પાનાની છપાયેલી પંક્તિ ટાંકે છે અને એ પંક્તિઓ રેન્ડર કરેલા પાના 1 પર જોઈ છે: 'અમે સહુ એક જ ડાળનાં પંખી' (O1), 'નિરંતર રહેતાં સંપી' (O2), 'ધરતીને ખોળે બાળ અમે સહુ' અને 'જીવન કેરા પ્રવાસનાં સંગી' (O3). ત્રણેયમાંથી એકેય બીજા પ્રકરણમાં ચોંટાડી શકાય એવું નથી.",
+        "teaching_lens ('ચિત્ર + ભાવ + લય-પ્રાસ') ને ત્રણેય objectives સેવે છે — ચિત્ર પહેલાં, ભાવ પછી (O1 કલ્લોલનું ચિત્ર, O2 લડાઈ છતાં સાથનું ચિત્ર-થી-ભાવ, O3 ધરતીના ખોળાનું ચિત્ર).",
+        "bloom_level Capitalised છે અને ચઢતો ક્રમ છે: Understand → Analyze → Apply. strand ત્રણેયમાં 'L' / 'ભાષા અને સાહિત્ય'; status 'taught'; theme_category null.",
+        "objective_text લંબાઈ 12–30 શબ્દોની બૅન્ડમાં — ગણી જોઈ: O1 = 23, O2 = 19, O3 = 21 શબ્દ.",
+        "id-વ્યાકરણ (reference/naming_conventions.md) ચકાસ્યું: M1; M1.S1, M1.S2 — segment counter સળંગ; T1, T2, T3 — topic counter આખા પ્રકરણમાં સળંગ અને S2 માં પુનઃશરૂ થતો નથી; concepts C1, C2, C3, C4 — chapter-continuous. પહેલા topic માં બે concepts હોવાથી concept-અંક topic-અંક બરાબર નથી, જે 'one concept per topic' ન હોય ત્યારે માન્ય છે. ક્યાંય 'M1.S1.T1.P1' ઘાટનો objective-કોડ નથી."
+      ]
+    }
+  },
+
+  "blocking": [],
+  "owner": null,
+
+  "notes": [
+    "M1.S2 માં એક જ topic છે (M1.S2.T3). નવ પંક્તિના ગીતમાં segment-કાપ અસમતોલ દેખાય છે, પણ કાવ્યનો વળાંક — ડાળથી ધરતીના ખોળા અને 'જીવન કેરા પ્રવાસ' સુધી — ત્યાં જ છે. Agent 2 એ પોતે આ નોંધ્યું છે. Blocking નથી; Agent 13 સુધી પ્રવાસ કરે.",
+    "teaching_lens નો ત્રીજો ખાનો 'લય-પ્રાસ' છે, પણ એકેય objective_text લય કે પ્રાસને સ્પર્શતું નથી — ત્રણેય ચિત્ર અને ભાવ પર છે. profile મુજબ ત્રણેય ખાના દરેક વખતે વાપરવાના નથી, એટલે આ blocking નથી; પણ પાનું પોતે પ્રાસ પર ભાર મૂકે છે (ભૂરી પેટી 'સંગી-ઉમંગી જેવા પ્રાસયુક્ત શબ્દો' કહે છે અને સ્વાધ્યાયનો શબ્દજોડ-બ્લોક સંપ/સંપીલું, સંગ/સંગી માગે છે). Agent 7/12 એ ઓછામાં ઓછા એક topic ના explanation માં ઉમંગી–સંપી–સંગી નો અવાજ સંભળાવવો — ધો. 6 એટલે 'પ્રાસ' લેબલ નહિ, અવાજ તરીકે (profiles/genres/urmikavya_geet.md નો 'Skipping the craft' ગેટ Agent 13 પર બિટે છે).",
+    "આ પ્રકરણમાં બાળક માટે છપાયેલો pre-reading opener એકેય નથી — પાનું 1 પર શીર્ષક, કવિ-નામની પંક્તિ, ભૂરી (શિક્ષક-સંબોધિત) પેટી અને સીધું કાવ્ય છે; ધો. 10 જેવો કવિ-પરિચય / કૃતિ-પરિચય ફકરો છપાયો જ નથી. તેથી CONCEPT-opener topic ની ગેરહાજરી measured gap છે, coverage-ખામી નથી — એને પૂરવા opener રચવો એ hallucination થાત (reference/no_hallucination_policy.md).",
+    "કવિ વિશે એક પણ હકીકત (જન્મવર્ષ, સંગ્રહ, પુરસ્કાર) plan માં જઈ શકે નહિ — પાનું માત્ર '- શાન્તિલાલ શાહ' નામ છાપે છે. Agent 7/12 માટે ચેતવણી.",
+    "કવિ-નામ કાવ્યની ઉપર જમણી બાજુ છપાયું છે, અંતે નહિ (રેન્ડરથી ખાતરી) — એટલે explanation_unit_map.md નો 'છપાયેલી — કવિનું નામ પંક્તિ છેલ્લા topic ના original_chunk માં' નિયમ અહીં લાગુ પડતો નથી. Agent 5 એ તેને કોઈ original_chunk માં ન લેવું. Agent 2 ની આ નોંધ સાચી છે.",
+    "Agent 5 માટે બે verbatim-ચેતવણી, ચકાસાયેલી: (અ) છપાયેલી શૉર્ટહૅન્ડ '- એક જ.' જેમ છપાઈ છે તેમ જ original_chunk માં જવી, વિસ્તરણ explanation નું કામ; (બ) verbatim કાવ્યના પાના (પાનું 1) પરથી જ લેવો — સ્વાધ્યાય બ્લોક 10 ત્યાં ને ત્યાં જુદી જોડણી અને વિરામચિહ્નો છાપે છે, અને ત્રીજી કડીની બીજી પંક્તિ 'કરીએ કુદરત-ગાન અમે સહુ' ને અંતે કાવ્યમાં અલ્પવિરામ છપાયું જ નથી.",
+    "01_meta.json નું `genre` ક્ષેત્ર ગુજરાતી લેબલ 'ઊર્મિકાવ્ય-ગીત' રાખે છે જ્યારે 02_structure.json અને phase-2 contract slug 'urmikavya_geet' માગે છે; 02_structure.json માં slug સાચો છે, એટલે emit પર જોખમ નથી. Agent 14/15 એ root `genre` slug જ મોકલવો — નોંધ માત્ર, blocking નથી.",
+    "chapter_master_id, publication_id, subject_ref_id, medium_id અને chapter_id/plan_id ના 'gseb'/'eng' segments VERIFY-1/VERIFY-2 સુધી provisional/null છે. Agent 4 નું ક્ષેત્ર નથી અને upload પહેલાં ઉકેલવાનું છે — સપાટી પર લાવ્યું છે, blocking નથી.",
+    "ids આ ક્ષણથી frozen છે: 04_converged.json = 02_structure.json ની હૂબહૂ નકલ (byte-identical). Agent 14 જ ફરીથી ક્રમાંક બદલી શકે, અને ત્યારે દરેક જીવતો સંદર્ભ — anchor[], home_topic_id, objective_ids, depends_on — સાથે અનુવાદવો પડશે.",
+    "ચકાસણી ફરીથી-રેન્ડર કરેલા પાનાં 1–5 (pdftoppm -png -r 150) સામે થઈ છે, માત્ર અગાઉના agents ની JSON સામે નહિ — કાવ્યની રચના (ટેક + ત્રણ કડી, ત્રણેયને અંતે '- એક જ.'), એક-કૉલમ છપાઈ, અને પાનાં 2–5 પર માત્ર apparatus + સ્વાધ્યાય, બધું જ પાના પરથી ખાતરી કરેલું છે.",
+    "આ Agent 4 નો પહેલો અને એકમાત્ર પાસ છે (reference/loop_protocol.md — કોઈ લૂપ નહિ). status 'pass', એટલે કોઈ agent ને ફરીથી ચલાવવાનો નથી."
+  ]
+}

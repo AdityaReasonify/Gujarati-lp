@@ -1,0 +1,488 @@
+{
+  "agent": "05_verbatim_attachment",
+  "chapter_id": "gseb_eng_gujarati8_ch1",
+  "plan_id": "gseb_eng_gujarati8_ch1_v1",
+  "grade": 8,
+  "chapter_name": "જીવનજ્યોત",
+  "genre": "પ્રાર્થનાગીત",
+  "active_genre_profiles": [
+    "prarthana_kavita.md"
+  ],
+  "explanation_unit": "એક કડી",
+  "teaching_lens": "યાચના + સંબોધન + આત્મબળ",
+  "guiding_question": "કવિ પ્રભુ પાસે રક્ષણ નહિ પણ રડવડતાં, ઝળહળતાં, મઘમઘતાં અને ગરજંતાં શીખવાની શક્તિ કેમ માગે છે ?",
+  "marker_accounting": {
+    "reading_markers_in_source": [
+      "[[ટેક]]",
+      "[[કડી 1]]",
+      "[[કડી 2]]",
+      "[[કડી 3]]",
+      "[[કડી 4]]",
+      "[[કડી 5]]"
+    ],
+    "reading_markers_count": 6,
+    "topics_cut": 6,
+    "topic_id_per_marker": {
+      "[[ટેક]]": "M1.S1.T1",
+      "[[કડી 1]]": "M1.S2.T2",
+      "[[કડી 2]]": "M1.S2.T3",
+      "[[કડી 3]]": "M2.S3.T4",
+      "[[કડી 4]]": "M2.S3.T5",
+      "[[કડી 5]]": "M2.S4.T6"
+    },
+    "markers_deliberately_not_cut_as_topics": {
+      "[[પ્રવેશપેટી]]": "apparatus — the blue teacher-addressed intro box ('...ભાવવાહી ગાન કરવું અને કરાવવું', '...વિદ્યાર્થીઓનું ધ્યાન દોરવું'). Feeds key_terms and the ભાષા-બોધ, never a reading scene.",
+      "[[શબ્દાર્થ]]": "apparatus — the yellow gloss box. Feeds key_terms / shabdarth.",
+      "[[ચર્ચા-વિચારણા]]": "teacher-run class-discussion box ('પ્રાર્થનાનું મહત્ત્વ'); prarthana_kavita.md forbids cutting it as a topic.",
+      "[[સ્વાધ્યાય: …]] (13 blocks)": "exercise matter — exercise_inventory in 01_meta.json, Agent 10 territory. Includes block ten's embedded poem 'મંદિર તારું વિશ્વ રૂપાળું' — exercise-internal reading matter, never folded into this chapter's કડી chain."
+    }
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ 'પ્રભુ હે' કહીને કોને સંબોધે છે અને 'જીવનજ્યોત જગાવો' શબ્દોમાં શું માગે છે તે ટેકની પંક્તિઓમાંથી શોધીને કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પહેલી કડીમાં કવિ ટચૂકડી આંગળીઓ અને નાનકડા પગ માટે શું માગે છે તે શોધીને, 'રડવડતાં શિખવાડો'નો અર્થ પોતાના શબ્દોમાં કહેવો.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": [
+        "M1.S2.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'વણદીવે અંધારે' અને 'વણજહાજે દરિયાને' પંક્તિઓમાં કઈ મુશ્કેલી બતાવી છે તે ઓળખી, કવિ એ સામે તેજ ને બળ કેમ માગે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મનનાં ફૂલડાંને રસથી સભર બનાવવાની અને પ્રભુની પીંછીથી જીવનના રંગો પ્રગટાવવાની માગણી પરથી 'મઘમઘતાં' થવું એટલે શું તે વિચારીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઉરની સાંકલડી શેરીને વિશાળ પંથ અને હૈયાના નાના ઝરણાને સાગર બનાવવાની માગણી પરથી કવિ કેવું હૈયું ઝંખે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "છેલ્લી કડીમાં 'શિખવાડો'ને બદલે 'સ્થળ-સ્થળમાં વરસાવો' કેમ આવે છે તે તપાસી, સ્નેહશક્તિ બલિદાન નીરની ધાર વરસાવવાની માગણીનું મૂલ્ય આંકવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S4.T6",
+      "anchor": [
+        "M2.S4.T6.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "પ્રભુને સંબોધન અને બળની માગણી",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "પ્રભુ હે — સંબોધનની ટેક",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "જીવનજ્યોત જગાવો",
+              "topic_type": "POEM",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "source_marker": "[[ટેક]]",
+              "original_chunk": "- 'સુન્દરમ્'\nજીવનજ્યોત જગાવો,\nપ્રભુ હે, જીવનજ્યોત જગાવો.",
+              "modified_chunk": "કવિ પ્રભુને સીધું સંબોધીને એક જ માગણી કરે છે — અમારા જીવનની જ્યોત જગાવો, એટલે કે જીવનનો દીવો પ્રગટાવો. આ બે પંક્તિ આખા ગીતની ટેક છે. તેથી પછીની દરેક કડી પૂરી થતાં ટૂંકું સંબોધન 'પ્રભુ હે...' ફરી પાછું આવે છે.",
+              "word_count": {
+                "original": 8
+              },
+              "key_terms": [
+                "જીવનજ્યોત — જીવનની જ્યોતિ, જીવનનો પ્રકાશ",
+                "જ્યોત — દીવાની જ્યોત, પ્રગટેલો પ્રકાશ",
+                "જગાવો — પ્રગટાવો, પેટાવો",
+                "પ્રભુ હે — 'હે પ્રભુ' માટે; ગીતના લય માટે કવિએ શબ્દોનો ક્રમ બદલ્યો છે, એ ભૂલ નથી"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "સંબોધન અને ટેકની યાચના",
+                  "objective_id": "O1",
+                  "key_terms": [
+                    "જીવનજ્યોત — જીવનની જ્યોતિ, જીવનનો પ્રકાશ",
+                    "જ્યોત — દીવાની જ્યોત, પ્રગટેલો પ્રકાશ",
+                    "જગાવો — પ્રગટાવો, પેટાવો",
+                    "પ્રભુ હે — 'હે પ્રભુ' માટે; ગીતના લય માટે કવિએ શબ્દોનો ક્રમ બદલ્યો છે, એ ભૂલ નથી"
+                  ],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "નાનાં અંગોમાં ઝાઝું જોર",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "ટચૂકડી આંગળીઓમાં ઝાઝું જોર",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O2"
+              ],
+              "source_marker": "[[કડી 1]]",
+              "original_chunk": "ટચૂકડી આ આંગળીઓમાં ઝાઝું જોર જમાવો,\nઆ નાનકડા પગને વેગે ભમતાં જગત બનાવો;\nઅમને રડવડતાં શિખવાડો. પ્રભુ હે...",
+              "modified_chunk": "કવિ પોતાની નાની આંગળીઓ અને નાનકડા પગ પ્રભુ સામે ધરે છે. તે માગે છે કે આ ટચૂકડી (ઘણી નાની) આંગળીઓમાં ઝાઝું (વધારે) જોર આવે અને પગ વેગે (ઝડપથી) ભમીને આખું જગત ફરી શકે. કડીની છેલ્લી પંક્તિમાં માગણી છે — અમને રડવડતાં, એટલે કે દિશાના કોઈ બંધન વગર ફરતાં, શીખવો. પછી 'પ્રભુ હે...' આવીને કડી પૂરી થાય છે.",
+              "word_count": {
+                "original": 18
+              },
+              "key_terms": [
+                "ટચૂકડી — ઘણી નાની",
+                "ઝાઝું — વધુ, વિશેષ",
+                "વેગે — ગતિથી, ઝડપથી; અહીં જુસ્સાથી",
+                "ભમતાં — ફરતાં, રખડતાં",
+                "રડવડતાં — રખડતાં; અહીં દિશાના કોઈ બંધન સિવાય ફરતાં"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "નાનાં અંગોમાં માગેલું બળ",
+                  "objective_id": "O2",
+                  "key_terms": [
+                    "ટચૂકડી — ઘણી નાની",
+                    "ઝાઝું — વધુ, વિશેષ",
+                    "વેગે — ગતિથી, ઝડપથી; અહીં જુસ્સાથી",
+                    "ભમતાં — ફરતાં, રખડતાં",
+                    "રડવડતાં — રખડતાં; અહીં દિશાના કોઈ બંધન સિવાય ફરતાં"
+                  ],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "વણદીવે અંધારે ઝળહળતાં",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "source_marker": "[[કડી 2]]",
+              "original_chunk": "વણદીવે અંધારે જોવા આંખે તેજ ભરાવો,\nવણજહાજે દરિયાને તરવા બળ બાહુમાં આપો;\nઅમને ઝળહળતાં શિખવાડો. પ્રભુ હે...",
+              "modified_chunk": "અહીં કવિ બે મુશ્કેલી મૂકે છે — વણદીવે એટલે દીવા વગર અંધારામાં જોવાનું, અને વણજહાજે એટલે વહાણ વગર દરિયો તરવાનું. એની સામે તે પ્રભુ પાસે આંખમાં તેજ (પ્રકાશ) અને બાહુમાં (બાવડામાં) બળ માગે છે. કડી પૂરી થાય છે 'અમને ઝળહળતાં શિખવાડો.' પર — એટલે અમને પ્રકાશતાં શીખવો — અને પછી 'પ્રભુ હે...' આવે છે.",
+              "word_count": {
+                "original": 17
+              },
+              "key_terms": [
+                "વણ — વગર, વિના",
+                "વણદીવે — દીવા વગર; 'વણ' જોડીને કવિએ બનાવેલો શબ્દ, ભૂલ નથી",
+                "વણજહાજે — વહાણ વગર, જહાજ વગર",
+                "તેજ — પ્રકાશ",
+                "બાહુ — બાવડું, હાથ",
+                "ઝળહળતાં — પ્રકાશતાં, ઝગમગતાં"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "સાધન વગર પણ પાર ઊતરવાનું બળ",
+                  "objective_id": "O3",
+                  "key_terms": [
+                    "વણ — વગર, વિના",
+                    "વણદીવે — દીવા વગર; 'વણ' જોડીને કવિએ બનાવેલો શબ્દ, ભૂલ નથી",
+                    "વણજહાજે — વહાણ વગર, જહાજ વગર",
+                    "તેજ — પ્રકાશ",
+                    "બાહુ — બાવડું, હાથ",
+                    "ઝળહળતાં — પ્રકાશતાં, ઝગમગતાં"
+                  ],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "અંતરના વિસ્તારથી વરસી જવા સુધી",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "મનનાં ફૂલ અને ઉરની શેરી",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "મનનાં ફૂલડાં મઘમઘતાં",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "source_marker": "[[કડી 3]]",
+              "original_chunk": "ઊગતાં અમ મનનાં ફૂલડાંને રસથી સભર બનાવો,\nજીવનના રંગો પ્રગટાવા પીંછી તમારી ચલાવો;\nઅમને મઘમઘતાં શિખવાડો. પ્રભુ હે...",
+              "modified_chunk": "કવિ પોતાના મનને હમણાં જ ઊગતાં ફૂલડાં (નાનાં ફૂલ) કહે છે અને પ્રભુને એ ફૂલોને રસથી સભર (ભરપૂર) બનાવવા કહે છે. પછી માગણી છે કે પ્રભુ પોતાની પીંછી ચલાવીને જીવનમાં રંગો પ્રગટાવે. કડીની છેલ્લી માગણી છે — અમને મઘમઘતાં, એટલે સુગંધ ફેલાવતાં, શીખવો; અને પછી 'પ્રભુ હે...' ફરી આવે છે.",
+              "word_count": {
+                "original": 18
+              },
+              "key_terms": [
+                "ફૂલડાં — નાનાં ફૂલ; 'ફૂલ' પરથી બનેલું લાડનું રૂપ, ગીતના લય માટે વપરાયું છે",
+                "સભર — ભરપૂર, પૂરેપૂરું ભરેલું",
+                "પ્રગટાવા — 'પ્રગટાવવા' માટે; લય સાચવવા કવિએ શબ્દ થોડો ટૂંકો કર્યો છે",
+                "પીંછી — રંગ કરવાનું નાનું બ્રશ",
+                "મઘમઘતાં — ખુશબો ફેલાવતાં, મહેકતાં"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "અંતરની સુગંધની માગણી",
+                  "objective_id": "O4",
+                  "key_terms": [
+                    "ફૂલડાં — નાનાં ફૂલ; 'ફૂલ' પરથી બનેલું લાડનું રૂપ, ગીતના લય માટે વપરાયું છે",
+                    "સભર — ભરપૂર, પૂરેપૂરું ભરેલું",
+                    "પ્રગટાવા — 'પ્રગટાવવા' માટે; લય સાચવવા કવિએ શબ્દ થોડો ટૂંકો કર્યો છે",
+                    "પીંછી — રંગ કરવાનું નાનું બ્રશ",
+                    "મઘમઘતાં — ખુશબો ફેલાવતાં, મહેકતાં"
+                  ],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "ઉરની સાંકલડી શેરી વિશાળ",
+              "topic_type": "POEM",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "source_marker": "[[કડી 4]]",
+              "original_chunk": "ઉરની સાંકલડી શેરીના પંથ વિશાળ રચાવો,\nહૈયાના ઝરણા નાનાને સાગર જેવું બનાવો;\nઅમને ગરજંતાં શિખવાડો. પ્રભુ હે...",
+              "modified_chunk": "કવિ કહે છે કે તેમના ઉર (હૃદય)ની શેરી સાંકલડી એટલે સાંકડી છે, અને પ્રભુને એ શેરીના પંથ (માર્ગ) વિશાળ કરી આપવા કહે છે. બીજી પંક્તિમાં તે હૈયાના નાના ઝરણાને સાગર જેવું મોટું બનાવવાનું માગે છે. કડીને અંતે માગણી છે — અમને ગરજંતાં, એટલે ગર્જના કરતાં, શીખવો — અને પછી 'પ્રભુ હે...' આવે છે.",
+              "word_count": {
+                "original": 17
+              },
+              "key_terms": [
+                "ઉર — હૃદય, હૈયું",
+                "સાંકલડી — સાંકડી; ગીતના લય માટે વપરાયેલું રૂપ",
+                "પંથ — માર્ગ, રસ્તો",
+                "વિશાળ — બહુ મોટું, પહોળું",
+                "ઝરણા — પહાડ કે જમીનમાંથી નીકળતી પાણીની પાતળી ધારા",
+                "ગરજંતાં — ગર્જના કરતાં"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "સાંકડા હૈયાને વિશાળ કરવાની માગણી",
+                  "objective_id": "O5",
+                  "key_terms": [
+                    "ઉર — હૃદય, હૈયું",
+                    "સાંકલડી — સાંકડી; ગીતના લય માટે વપરાયેલું રૂપ",
+                    "પંથ — માર્ગ, રસ્તો",
+                    "વિશાળ — બહુ મોટું, પહોળું",
+                    "ઝરણા — પહાડ કે જમીનમાંથી નીકળતી પાણીની પાતળી ધારા",
+                    "ગરજંતાં — ગર્જના કરતાં"
+                  ],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "સ્નેહની ધાર સ્થળ-સ્થળમાં",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T6",
+              "topic_name": "જીવનની વાદળી સ્થળ-સ્થળમાં વરસે",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [
+                "M1.S1.T1",
+                "M1.S2.T2"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "source_marker": "[[કડી 5]]",
+              "original_chunk": "અમ જીવનની વાદળી નાની આભ વિશે જ ઉડાવો,\nસ્નેહશક્તિ બલિદાન નીરથી ભરચક ધાર ઝરાવો;\nઅમને સ્થળ-સ્થળમાં વરસાવો. પ્રભુ હે...",
+              "modified_chunk": "છેલ્લી કડીમાં કવિ પોતાના જીવનને નાની વાદળી કહે છે અને પ્રભુને એ વાદળીને આભ (આકાશ)માં ઉડાવવા કહે છે. પછી માગે છે કે એમાં સ્નેહ, શક્તિ અને બલિદાન (ત્યાગ)નાં નીર (પાણી) ભરચક ભરાય અને એની ધાર ઝરે. અહીં છેલ્લી પંક્તિ બદલાય છે — 'શિખવાડો'ને બદલે 'અમને સ્થળ-સ્થળમાં વરસાવો.' આવે છે, અને પછી 'પ્રભુ હે...' આવે છે.",
+              "word_count": {
+                "original": 19
+              },
+              "key_terms": [
+                "અમ — 'અમારું, અમારા' માટે; કવિતામાં વપરાતું ટૂંકું રૂપ",
+                "આભ — આકાશ",
+                "બલિદાન — ત્યાગ",
+                "નીર — પાણી, જળ",
+                "ભરચક — છલોછલ, પૂરેપૂરું ભરેલું",
+                "સ્થળ-સ્થળમાં — જગ્યાએ-જગ્યાએ, ઠેર-ઠેર"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T6.C6",
+                  "concept_name": "પોતાનું સર્વસ્વ વરસાવી દેવાની યાચના",
+                  "objective_id": "O6",
+                  "key_terms": [
+                    "અમ — 'અમારું, અમારા' માટે; કવિતામાં વપરાતું ટૂંકું રૂપ",
+                    "આભ — આકાશ",
+                    "બલિદાન — ત્યાગ",
+                    "નીર — પાણી, જળ",
+                    "ભરચક — છલોછલ, પૂરેપૂરું ભરેલું",
+                    "સ્થળ-સ્થળમાં — જગ્યાએ-જગ્યાએ, ઠેર-ઠેર"
+                  ],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Agent 5 attached original_chunk, modified_chunk, word_count, key_terms and the four content-type fields to all six topics. Ids, names, objectives, structure, difficulty, depends_on and the concept layer are passed through from 02_structure.json untouched; only concepts[].key_terms (empty in the frozen structure) was filled, mirroring the topic-level list, since every topic here carries exactly one concept.",
+    "Source of the verbatim: 00_chapter_normalized.md, copied character-for-character by script (the blocks were sliced out of the file, not retyped), then verified line by line against _renders/page-1.png — the whole poem is printed on printed page 1. Every line of the ટેક and of all five કડી was re-read at 3x–7x LANCZOS enlargement. NO TRANSCRIPTION DEFECT FOUND: 00_chapter_normalized.md matches the render on every line, including the checks Agent 1 flagged — ઊગતાં is long ઊ while ઉરની and ઉડાવો are short ઉ; સાંકલડી carries લ, not ળ; ઝરણા carries no અનુસ્વાર while મનનાં, ફૂલડાંને and ગરજંતાં do; શિખવાડો is short શિ. The શબ્દાર્થ box at the top of printed page 2 was re-read at 2x and also matches.",
+    "ATTRIBUTION PLACEMENT — a deliberate departure from the spec's default, recorded rather than silently resolved. agents/05_verbatim_attachment.md §1 says the attribution line belongs to the LAST topic of the poem. On this page the byline is NOT printed after the poem: page-1.png prints it in the title block, right-aligned under the pink title bar and above the blue પ્રવેશપેટી, as \"- 'સુન્દરમ્'\". Putting it on the last topic would place printed text where the page does not print it, so it is attached at the HEAD of M1.S1.T1 — the first topic of the poem — in printed order. With the teacher-addressed intro box stripped as apparatus, the byline sits immediately above the ટેક exactly as it does in 00_chapter_normalized.md. No source note ('...માંથી') is printed anywhere in this chapter, so none is attached.",
+    "The full name 'ત્રિભુવનદાસ પુરુસોત્તમદાસ લુહાર' is printed only inside the blue પ્રવેશપેટી, which Agent 2 excluded as apparatus; it is therefore in no original_chunk. Agent 1's flag stands unchanged and unrepaired: the render prints પુરુસોત્તમદાસ with સ, contradicting reference/corpus/std-8_inventory.md and profiles/genres/prarthana_kavita.md, which both record પુરુષોત્તમદાસ. Not Agent 5's file to fix.",
+    "The refrain shorthand 'પ્રભુ હે...' is reproduced exactly as printed at the close of all five કડી and is NOT expanded into the full ટેક — per prarthana_kavita.md and reference/gujarati_verbatim.md, the expansion belongs to Agent 12's explanation only. Agent 1's typographic flag is carried forward: at 150 dpi three full stops cannot be told apart from a single U+2026 ellipsis glyph, and the three-period form follows Agent 1's transcription and the corpus inventory. Purely typographic; flagged for honesty, not repaired.",
+    "Verse structure preserved: the ટેક is two lines, every કડી is three lines, the comma / semicolon / full-stop line endings the page sets are kept, and nothing is reflowed into a paragraph. The GSEB spaced-punctuation habit does not occur inside the poem itself (no ? or ! in these lines). No '।' daṇḍa, no Roman and no Devanagari character appears in any attached field.",
+    "modified_chunk is a plain 'શું થઈ રહ્યું છે' restatement of two to four sentences with the hardest words glossed inline — seed material for Agent 12, not the teaching. It carries no ભાવ reading, no અલંકાર, no real-life link and no બોધ; per prarthana_kavita.md's hard gate no sentence takes the 'આપણે … જોઈએ' exhortation shape. Each one names what this કડી asks for, in the poem's own asking verb.",
+    "key_terms sit at 4–6 per topic, the std-8 row of reference/shabd_gloss.md inside the fixed 3–6 band, in 'શબ્દ — અર્થ' form with an em dash. The printed શબ્દાર્થ box was used as evidence of what the book thinks is hard, never emptied into the field: it carries about twenty-three entries and only the ones this topic actually needs were taken, at the sense the box marks with (અહીં) — વેગ and રડવડતાં both carry their (અહીં) sense. Ring-2 and કાવ્ય-રૂપ words the box leaves out were added at the L2 bar: ભમતાં, વણદીવે, વણજહાજે, પ્રગટાવા, ફૂલડાં, સાંકલડી, ભરચક, અમ, સ્થળ-સ્થળમાં, ઝરણા, વિશાળ, પીંછી, જગાવો, જ્યોત. Poetic licence is named as licence, never as an error — પ્રગટાવા, સાંકલડી, ફૂલડાં, અમ and the vocative inversion 'પ્રભુ હે'. No રૂઢિપ્રયોગ, સમાનાર્થી or વિરુદ્ધાર્થી material entered key_terms; those belong to Agent 10 and the ભાષા-બોધ fields.",
+    "Content types: all six topics are reading scenes and each is set primary_content_type 'image', available_content_types ['image'], secondary and tertiary null — one image per reading scene, per global_content_rules.md §9 and prarthana_kavita.md's media prior ('one image per કડી ... it shows the concrete thing the petition names, never the petition's meaning'). The ટેક topic is given a frame because the profile's condition is met: the address names something new and depictable — the જીવનજ્યોત itself, which appears in no other topic. Agent 9 owns the final call and may drop that frame; it also owns the profile's 'do not draw ઈશ્વર' gate. No 2d_tool is proposed — the profile records that this form needs none.",
+    "05b_textbook_order.json is emitted and equals the logical traversal order exactly. Per reference/phase2_contract.md this must raise human_confirmation_required at Agent 15 on a comparison that actually happened — it did: the printed order was read off page-1.png, where the ટેક couplet is printed first and the five કડી follow in order down a single column.",
+    "Not attached, deliberately: the blue પ્રવેશપેટી, the yellow શબ્દાર્થ box, the closing ચર્ચા-વિચારણા box, all thirteen exercise blocks, and the second poem 'મંદિર તારું વિશ્વ રૂપાળું' - જયંતીલાલ આચાર્ય embedded inside the MCQ block. None of them is a topic's chunk; the exercise matter is Agent 10's.",
+    "Context routing gap, reported not guessed: the spec's §3 cites reference/field_shape_rules.md for the key_terms band and this agent was not routed that document. It was read directly from the repo rather than assumed — it fixes the band at 3–6 per topic, which is what was authored to."
+  ],
+  "notes_from_02_structure": [
+    "Cut by the સ્વરૂપ's unit, not by habit: 01_meta.json sets explanation_unit 'એક કડી' and prarthana_kavita.md sets 'one કડી of the petition'. The page agrees with the profile prior — no disagreement to report on the unit itself.",
+    "Six reading markers in 00_chapter_normalized.md, six topics, one marker each. No marker swallowed, no topic invented where no marker sits.",
+    "ટેક handling: 00_chapter_normalized.md carries exactly ONE [[ટેક]] marker — the full refrain printed standalone at the head of the poem ('જીવનજ્યોત જગાવો, / પ્રભુ હે, જીવનજ્યોત જગાવો.'). Its WORDS never change (01_meta.json extraction_notes confirm: only the printed form varies, full vs the shorthand 'પ્રભુ હે...'). So exactly one topic teaches the ટેક — M1.S1.T1 — and every કડી topic carries M1.S1.T1 in depends_on because each કડી closes on the printed shorthand. The five shorthand occurrences are NOT separate topics.",
+    "The printed refrain shorthand 'પ્રભુ હે...' is deliberately left untouched here: it is not expanded, and it stays inside its own કડી's block. Agent 5 copies it character-for-character into original_chunk; the expansion belongs in Agent 12's explanation only.",
+    "No petition is cut in half. Every topic's block ends at a printed કડી boundary, so every topic carries at least one asking verb of this poem (જગાવો / જમાવો / બનાવો / ભરાવો / આપો / ચલાવો / રચાવો / ઉડાવો / ઝરાવો / વરસાવો / શિખવાડો) plus the refrain shorthand. No topic holds only a condition clause.",
+    "M1.S2 groups કડી one and two because both ask for BODILY power against a lack — આંગળી/પગ, then આંખ/બાહુ. M2.S3 groups કડી three and four because both ask for the INNER self to grow — મનનાં ફૂલડાં, then ઉર/હૈયું. M2.S4 stands alone because the fifth કડી turns the asking outward.",
+    "The fifth કડી breaks the poem's own refrain-line pattern: the first four close 'અમને …તાં શિખવાડો.' and it closes 'અમને સ્થળ-સ્થળમાં વરસાવો.' That is real dependence on where the pattern was set, so M2.S4.T6 lists M1.S2.T2 alongside the ટેક topic in depends_on. This is also why it is categorised climax rather than core.",
+    "Difficulty is set by what stops an A2+ L2 reader on THIS page, relative inside this chapter, never by craft. hard = M1.S2.T3 (the વણ- privative compounds વણદીવે / વણજહાજે, the chapter's hardest word-forms) and M2.S4.T6 (the તત્સમ chain 'સ્નેહશક્તિ બલિદાન નીર' plus the pattern break the page itself sets). easy = the ટેક and the first કડી, whose vocabulary the printed શબ્દાર્થ box already covers.",
+    "No અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text — std 8 experiences the form and never names it (profiles/students/std-8.md §1: 'Name it after you've met it'). The objectives ask the child to notice and to weigh, never to label. Where craft is served, it is served as pattern work the page itself sets: the refrain shape (O1, O6) and the change from 'શિખવાડો' to 'વરસાવો' (O6).",
+    "Every objective is grounded in a phrase that is actually printed in this chapter and could belong to no other chapter. Digits appear only in ids and provenance fields; display text uses 'પહેલી કડીમાં' and 'છેલ્લી કડીમાં'.",
+    "No REVIEW topic exists in this chapter: the book prints no in-text wrap. The closing ચર્ચા-વિચારણા box ('પ્રાર્થનાનું મહત્ત્વ') is a teacher-run discussion, which prarthana_kavita.md forbids cutting as a topic; the blue પ્રવેશપેટી is teacher-addressed apparatus ('...કરવું અને કરાવવું', '...ધ્યાન દોરવું'), not the std-10-style student-facing પરિચય paragraph, so it gets no CONCEPT topic either. Both are flagged for Agents 10/12 as key_terms and guidance sources.",
+    "Exercise block ten's embedded second poem 'મંદિર તારું વિશ્વ રૂપાળું' — જયંતીલાલ આચાર્ય is NOT folded into this chapter's કડી chain, per the profile and Agent 1's own note. It is exercise-internal reading matter for Agent 10.",
+    "Uneven topic length, carried for Agent 4 and Agent 13: the ટેક topic is two printed lines while every કડી topic is three. That is the page's own shape, not a thin cut — the refrain is printed standalone before the first કડી and is the poem's address, so it earns its topic. Agent 12 should expect a shorter explanation there and reference it, not re-teach it, from the five કડી topics.",
+    "One concept per topic throughout. No topic here does two separable things — each કડી is one asking-move that closes on its own refrain line, so a second concept would have meant a wrong cut.",
+    "No page render was opened. 00_chapter_normalized.md answered every question about the cut, including the layout facts (standalone ટેક couplet, the five shorthand closings, the apparatus boxes), which Agent 1 had already recorded in its extraction_notes."
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "G1 — both voices. `explanation` must name BOTH printed speaker labels of this topic, `ઝલક` and `વનિતાબેન`, and report what each one says: ઝલક's news and ask (`આજે સ્કૂલમાં નોટિસ આવી હતી.`, `આજવા - નિમેટા`, `તો હું જઉં ને ?`) and વનિતાબેન's own two contributions — the memory she supplies (`એ તો વડોદરા પાસે છે ને ?`, `આપણે મોહનકાકા સાથે ગયાં હતાં ?`) and the deferral she closes on (`હમણાં તારા પપ્પા જોડે વાત કરી લઈએ.`). An `explanation` that reports only ઝલક's trip news and leaves મમ્મી as a listener is a one-voice summary of a two-voice passage: hard fail.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "G1 decidability note for this chapter — the printed speaker label is the string that must appear. `મમ્મી` alone does not satisfy the check for `વનિતાબેન`; the label as printed must occur at least once in `explanation`.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "G2 — no preaching. This is the trip-announcement topic, and the સ્વાધ્યાય prints the ready-made moral right next to it (`પ્રવાસમાં જતાં પહેલાં પૂરતી તૈયારી કરી લેવી જોઈએ.` in the જોડકાં block). No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary` or any `recall_questions[].answer` may carry a preparation- or permission-rule of the shape `તૈયારી કરવી જોઈએ`, `રજા માગીને જ જવું જોઈએ`, `આપણે … જોઈએ` or a second-person `…કરો` directive. What મમ્મી does is reported (`પપ્પા જોડે વાત કરી લઈએ`), never issued to the child.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "No supplied narrator. No `explanation`, `real_life_example`, `brief_summary`, `summary` or `detailed_summary` may state an unspoken interior state for ઝલક or વનિતાબેન (`ઝલક ખૂબ ઉત્સાહમાં હતી`, `મમ્મીને ચિંતા થઈ`, `મમ્મીએ મનમાં વિચાર્યું`). The only feeling available on this page is the one મમ્મી herself speaks — `બેનબા બહુ ખુશ છે ને કાંઈ ?` — and it may be reported only as her spoken line.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "The printed text is never corrected. This topic's `original_chunk` prints `ભાઈલુ` in `અને ભાઈલુ તો હતો જ નહીં.` while every later topic prints `ભઈલું`; it also prints the spaced hyphens `હાથ - પગ` and `આજવા - નિમેટા`. No field may normalise either spelling to the other or close the spacing, and no field may describe the variation to the child as a mistake of the book.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "Intro-box gate (not a profile item; this chapter's own hazard). The પ્રવેશપેટી sentences (`પરિવારમાં કોઈ ને કોઈ બાબતે બાળકોમાં રિસામણાં - મનામણાં તો થતાં જ રહે છે.`, `માતા-પિતાની ભૂમિકા આવે વખતે શી હોય એ પણ અહીં દર્શાવવામાં આવ્યું છે.`) are teacher-addressed apparatus. No sentence of this topic's `explanation` or any `recall_questions[].answer` may be a restatement of them; the opening topic must be answerable from ઝલક's and મમ્મીની printed turns alone.",
+          "profile": "samvad_nibandh",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "ઝલક પોતાના નાના ભાઈને 'ભઈલું' કહીને બોલાવે છે, અહીં પહેલા પાને એ જ શબ્દ 'ભાઈલુ' છપાયો છે, અને વક્તાનું નામ તો 'મનન' છપાય છે. બાળક 'ભાઈલુ'ને કોઈ ત્રીજા માણસનું નામ સમજી બેસે છે, એટલે 'અને ભાઈલુ તો હતો જ નહીં' વાક્ય કોણ ક્યાં નહોતું એની ગૂંચ બની જાય છે અને આખા પાઠમાં 'ભઈલું' કોણ છે એ છેક સુધી પકડાતું નથી.",
+      "correction": "શબ્દ પહેલી વાર આવે ત્યાં જ `explanation`માં ગ્લોસ કરો — 'ભઈલું — નાનો ભાઈ; આ પાઠમાં એ મનન છે' — અને એટલું ઉમેરો કે પુસ્તકમાં એક જગ્યાએ 'ભાઈલુ' અને બીજે 'ભઈલું' છપાયું છે, પણ વ્યક્તિ એક જ છે. આ જ ગ્લોસ `key_terms`માં મૂકો અને પછીના વાક્યમાં 'ભઈલું' શબ્દ ફરી વાપરો, જેથી બાળક એને 'મનન' નામ સાથે જોડી શકે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "G1 — both voices, and here there are four. `explanation` must name all four printed speaker labels of this topic — `મહેશભાઈ`, `મનન`, `ઝલક`, `વનિતાબેન` — and report what each contributes. A version in which ઝલક describes આજવા-નિમેટા and the other three are silent is a hard fail.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "No reassigned speech. Each description in this beat belongs to a named speaker and no field may hand it to another: the attractions list (`ત્યાં મોટું સરોવર છે`, `મોટો બગીચો`, `લપસણી, હીંચકા`, `જુદીજુદી રાઈડ્સ`, `સરસ લાઈટિંગ`, `મ્યુઝિકલ ફાઉન્ટેન`) is ઝલક's; the explanation of the fountain (`એની પાણીની સેર સંગીતના સૂરની સાથે ઊંચી-નીચી થાય`) is મહેશભાઈ's; the coloured light (`એની પર જુદા જુદા રંગનો પ્રકાશ પણ ફેંકાય`) is વનિતાબેન's. Saying `ઝલક બધું સમજાવે છે` or crediting પપ્પા with the whole account fails.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "G7 — argument, not payload. This topic is a move, not a places-to-see list. The last sentence of `explanation` must land on મનનની માગણી (`મારે પણ દીદી સાથે જવું છે.`) together with the two refusals it meets (`ભઈલું,  આ તો મારી સ્કૂલનો પ્રવાસ છે. તારાથી ના અવાય.` and `બેટા, તારી સ્કૂલમાંથી પ્રવાસ જાય, ત્યારે તું જજે.`), not on the attractions. Likewise `topic_name`, `brief_summary` and `summary` must name the demand-and-refusal, never read as a fact-bundle label about આજવા-નિમેટા.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "G2 — no preaching. The fountain/light description invites a tacked-on rule about screens, city amusement or wanting things. No field may end on `આપણે … જોઈએ`, `જીદ ન કરવી જોઈએ` or any second-person directive; મનનની માગણી is reported as his line.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "Register gate (not a profile item; this chapter's own hazard, and its exercise block 8 makes it the task). The English loanwords printed in Gujarati script in this topic — `રાઈડ્સ`, `લાઈટિંગ`, `મ્યુઝિકલ ફાઉન્ટેન`, `મ્યુઝિકલ ફાઉન્ટેન્સ`, `ડાન્સ` — must stay in `original_chunk` and `modified_chunk` as printed and be glossed at point of use in `explanation` or `key_terms`. Silently replacing them with ફુવારા / નૃત્ય / રોશની deletes the very words the સ્વાધ્યાય asks the child to list.",
+          "profile": "samvad_nibandh",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "આ ભાગમાં ના પાડવાનું રૂપ 'તારાથી ના અવાય', 'ના કેમ અવાય ?', 'તારાથી ના અવાય' એમ ત્રણ વાર આવે છે. હિન્દી-માધ્યમના બાળક પાસે આ 'અવાય' રૂપ નથી, એટલે એ એને 'આવ્યો નહીં' કે 'આવવાની ના પાડી' એમ ભૂતકાળની વાત સમજી લે છે. પરિણામે અહીં કોણ કોને ના પાડે છે એ ખૂટી જાય છે અને મનનની માગણી પર જે ઇનકાર આવે છે એ જ પકડાતો નથી.",
+      "correction": "`explanation`માં એ પંક્તિ સાદા ગુજરાતીમાં તરત ફરી કહો — 'તારાથી ના અવાય એટલે તું આવી ન શકે' — અને એ જ રીતે મમ્મીની પંક્તિ પણ ફરી કહો: 'તારાથી દીદીના સ્કૂલના પ્રવાસમાં ન જવાય એટલે તું જઈ ન શકે.' વ્યાકરણનું કોઈ નામ આપ્યા વગર આ સાદું રૂપ બે વાર વાપરો, અને સાથે એ પણ કહો કે ના પાડનાર દીદી અને મમ્મી બંને છે."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "G1 — both voices, and here the two refusing voices give DIFFERENT reasons that must not be merged. `explanation` must name `મનન`, `વનિતાબેન` and `ઝલક`, and must report ઝલક's reason (`પછી આખો દિવસ મારે તને સાચવ્યા કરવાનો ?`, `અજાણી જગ્યાએ તું ક્યાંક જતો રહે તો ?`) separately from મમ્મીની (`સ્કૂલના પ્રવાસમાં શિક્ષકો એમના વિદ્યાર્થીઓનું ધ્યાન રાખે કે બહારના છોકરાઓનું ? એ લોકો એવી રીતે બહારનાં બાળકોને ન લઈ જઈ શકે.`). Attributing either reason to the wrong speaker, or reporting one reason for 'ઘરનાં', is a hard fail.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "G3 — no flattened opponent. No `explanation`, `real_life_example`, `summary`, `brief_summary`, `detailed_summary` or `recall_questions[].answer` may attach a character-judging word to a named speaker: not `જીદ્દી`, `હઠીલો`, `નાદાન`, `બગડેલો`, `ખરાબ`, `સ્વાર્થી`, `અળવીતરો`, `સમજણ વગરનો` to મનન, and not `કડક`, `નિર્દય`, `પક્ષપાતી` to વનિતાબેન or ઝલક. મનનનું કારણ must be stated as his reason in his own words (`મને પણ દીદીની સાથે મજા કરવી છે.`, `તને તો બસ દીદી જ વહાલી છે.`). ઝલકની પંક્તિ `ખોટી જીદ ન કર.` may be quoted as her line, attributed to her; it may never be adopted as the teaching voice's verdict on મનન.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "G2 / no tacked-on બોધ. This is the topic the whole chapter's title pulls towards a moral. No field — `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` line or any `recall_questions[].answer` — may end on `રિસાવું ન જોઈએ`, `જીદ ન કરવી જોઈએ`, `માતા-પિતાનું કહ્યું માનવું જોઈએ`, `આપણે … જોઈએ` or any `…જોઈએ` clause, and none may carry `બોધ`, `સંદેશ` or `શિખામણ` as a heading word. The વાતચીત prompt `કોઈ વસ્તુ મેળવવા માટે રિસાવું જોઈએ કે નહીં ? કેમ ?` belongs to Agent 10; its answer must not be pre-issued here.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "G5 — no guilt. `real_life_example` must land on one thing a std-6 child can actually do this week — say the reason out loud, ask for a different plan — and must not describe the child as the one who upsets the house. No field may say that રિસાવું ઘરનાંને દુઃખ પહોંચાડે છે, that રિસાયેલું બાળક ખરાબ છે, or attribute a consequence the child cannot prevent.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "No supplied narrator. મમ્મીની offers (`આજે સાંજે તારા માટે શું બનાવું ?`, `આપણે બહાર જવું છે ?`, `આજે રાત્રે સરસ પિક્ચર ચાલુ કરીએ. હું તને ચીઝ પોપકોર્ન ફોડી આપીશ.`) must be reported as what she says. No field may supply her unspoken motive (`મમ્મી થાકી ગઈ હતી`, `મમ્મીને લાગ્યું કે`) or મનનનું unspoken interior (`મનનને અંદરથી પસ્તાવો થયો`). The only judgement of મનન available on the page is મમ્મીની spoken `મનન, આ તું કેવી વાત કરે છે ?`.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક પાસે 'રીસ' અને 'મનામણાં' જોડકા તરીકે નથી. એટલે મમ્મીની 'આજે સાંજે તારા માટે શું બનાવું ?', 'આપણે બહાર જવું છે ?', 'આજે રાત્રે સરસ પિક્ચર ચાલુ કરીએ. હું તને ચીઝ પોપકોર્ન ફોડી આપીશ.' જેવી પંક્તિઓને એ 'મમ્મીએ હાર માની લીધી' કે 'મમ્મી લાલચ આપે છે' એમ વાંચે છે, અને આ આખો ભાગ મનામણાંનો છે એ સમજાતું નથી — જ્યારે મનન દરેક વાતની ના પાડે છે એ રીસ છે.",
+      "correction": "`explanation`માં પહેલી વાર જ બંને શબ્દ સાથે ગ્લોસ કરો — 'રીસ — ગુસ્સે થઈને બોલવાનું ને જમવાનું બંધ કરી દેવું' અને 'મનામણાં — રિસાયેલાને પ્રેમથી મનાવવું' — અને પછી પાઠની બે પંક્તિ સામસામે મૂકીને બતાવો: મનનની 'મારે કોઈની વાત સાંભળવી જ નથી ને.' એ રીસ છે, અને મમ્મીની પિક્ચર-પોપકોર્નવાળી પંક્તિ મનામણાં છે. આ બંને શબ્દ `key_terms`માં જોડીને મૂકો."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "G1 — both voices. `explanation` must name `મહેશભાઈ` and `મનન` and report both sides of the exchange: પપ્પાની concession and offer (`તારી વાત તો સાચી છે બેટા.`, `દીદી ભલે પ્રવાસમાં જતી. હું તને ક્યાંક લઈ જાઉં તો ?`, `આપણે કરસનકાકાની વાડીએ જઈએ તો કેવું ?`) AND મનનના પ્રશ્નો, which are what keep the offer alive (`ક્યાં લઈ જશો પપ્પા ?`, `એ પપ્પા આ કરસનકાકા કોણ છે ?`, `પણ હું પડી જાઉં તો ?`, `ખરેખર, પપ્પા ?`). A version in which પપ્પા describe the વાડી and મનન only listens is a one-voice summary: hard fail.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "No supplied narrator, nothing offstage invented. No field may supply પપ્પાનો unspoken motive — `પપ્પાએ મનનનું ધ્યાન બીજે વાળ્યું`, `પપ્પાએ યુક્તિ કરી`, `પપ્પા જાણતા હતા કે` — or say that પપ્પા છેતરે છે. Only what is spoken is available: the concession `તારી વાત તો સાચી છે બેટા.`, the request `પહેલાં મારી વાત તો પૂરી સાંભળ.`, the reassurance `અરે બેટા, હું તારી સાથે જ હોવાનો ને !`. Nor may any field add anything about કરસનકાકા beyond the two printed facts (`એ મારા મિત્ર છે. અમે સાથે ભણતા.`) and the વાડીનું printed description.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "G2 — no preaching, and no village-versus-city rule. `આપણે કરસનકાકાની વાડીએ જઈએ તો કેવું ?` is પપ્પાની દરખાસ્ત, reported as theirs. No field may convert it into `ગામડે જવું જોઈએ`, `ગામડું શહેર કરતાં સારું છે`, `બાળકોએ કુદરત માણવી જોઈએ` or any second-person `…કરો` directive.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "The printed text is never corrected. `તો તો ખૂબ મજ્જા પડશે.` keeps `મજ્જા` exactly as printed in `original_chunk`; `તું કોઈ દિવસ ઝાડ પર ચડ્યો નથી.` and `તું ઝાડ પર ચડી શકીશ.` keep `ડ` (not `ઢ`); the double space in `તમે દીદીના  ટીચરને વાત કરશો ?` stays. No field may normalise these, and no field may present `મજ્જા` to the child as a spelling error — if it is glossed at all, it is glossed as the emphatic spoken form of `મજા`.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'તો જ્યારે તારે બે દિવસની રજા આવે ત્યારે ઊપડીએ.' — હિન્દી વાંચતું બાળક 'રજા'ને માત્ર 'પરવાનગી' સમજે છે, એટલે વાક્ય 'બે દિવસની પરવાનગી મળે ત્યારે' જેવું બની જાય છે. પપ્પાની આખી દરખાસ્ત ક્યારે પાર પડવાની છે એ જ ખોરવાઈ જાય છે, અને પાઠના છેલ્લા ભાગમાં મનન પોતે 'મારે રજા હશે ત્યારે' કહે છે ત્યાં ફરી એ જ ગૂંચ ઊભી થાય છે.",
+      "correction": "શબ્દ પહેલી વાર આવે ત્યાં જ `explanation`માં ગ્લોસ કરો — 'રજા — શાળા બંધ હોય તે દિવસ, છુટ્ટી' — અને પપ્પાની પંક્તિ સાદા શબ્દોમાં ફરી કહો: 'બે દિવસ શાળા બંધ હોય ત્યારે આપણે નીકળીશું.' આ જ ગ્લોસ `key_terms`માં મૂકો, જેથી છેલ્લા ભાગમાં મનનની 'મારે રજા હશે ત્યારે' પંક્તિ પણ ખૂલી જાય."
+    },
+    {
+      "topic_id": "M2.S4.T5",
+      "avoid_checks": [
+        {
+          "check": "G1 — all four voices speak in this closing beat. `explanation` must name `વનિતાબેન`, `મનન`, `ઝલક` and `મહેશભાઈ`, and must report મમ્મીની આકાશવાળી વાત, ઝલકની `હું પણ આવીશ.`, પપ્પાનો પ્રશ્ન `દીદીને સાથે લઈ જઈશું ?` and મનનનો પોતાનો નિર્ણય. Dropping ઝલકની એક-લીટીની offer removes the thing મનનનો નિર્ણય answers: hard fail.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "Nothing offstage invented. The chapter stops at `જોયું ? મારો દીકરો કેટલો સમજદાર છે !` — the trip has NOT happened. No `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary` or `recall_questions[].answer` may narrate anything after that line: no `પછી બધાં કરસનકાકાની વાડીએ ગયાં`, no `મનને ઝાડ પર ચડીને મજા કરી`, no account of ઝલકનો પ્રવાસ. Every statement must be traceable to a spoken line inside this topic's `original_chunk`.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No tacked-on બોધ. The resolution pulls hard towards a sibling-love moral, and the અનુવાદ block even prints one ready-made (`ભાઈબહેનનો પ્રેમ જોઈ મમ્મી-પપ્પા ખૂબ ખુશ થયાં.`). No field may end on `ભાઈ-બહેને પ્રેમથી રહેવું જોઈએ`, `સંપથી રહેવું જોઈએ`, `જીદ છોડવી જોઈએ` or any `…જોઈએ` clause, and none may carry `બોધ`, `સંદેશ`, `શિખામણ` or `ઉપદેશ`. What the text lands on is મનનનો પોતાનો નિર્ણય, reported as his: `મેં નક્કી કરી લીધું.`",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "G3 — no flattened opponent, retrospectively. Now that મનન has decided, no field may re-describe his earlier રીસ as an error — `આખરે મનનને પોતાની ભૂલ સમજાઈ`, `મનનની જીદ ખોટી હતી`, `મનન સુધરી ગયો`. The page says only what પપ્પા say (`મારો દીકરો કેટલો સમજદાર છે !`), and that must be attributed to મહેશભાઈ, not issued as the teaching voice's verdict on the child.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "G2 — no preaching. મમ્મીની ગામડાના આકાશવાળી પંક્તિ invites a light-pollution or city-versus-village rule. No field may turn `પણ ગામડાની વાડીમાં બધે લાઈટો ન હોય.` into `રાત્રે લાઈટો બંધ કરવી જોઈએ` or any second-person `…કરો` directive; મમ્મી's point is reported as hers.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "મમ્મીની પંક્તિમાં 'તારા' બે વાર આવે છે — 'તમને આખું આકાશ. તારા એવું બધું એટલું સરસ ન દેખાય' અને 'તારા કેટલા નજીક આવી ગયા છે !' — જ્યારે એ જ અક્ષરો પાઠમાં બીજે 'તારા પપ્પા જોડે વાત કરી લઈએ', 'તારા માટે શું બનાવું ?'માં જુદો અર્થ આપે છે. બાળક અહીંના 'તારા'ને પણ 'તારું, તારી માલિકીનું' સમજી લે છે, એટલે આકાશની આખી વાત અર્થ વગરની બની જાય છે અને મનન શા પરથી ગામડે જવા તૈયાર થાય છે એ ખૂટી જાય છે.",
+      "correction": "મમ્મીની વાત શરૂ થાય ત્યાં જ `explanation`માં ગ્લોસ કરો — 'તારા — રાત્રે આકાશમાં ચમકતા તારલા' — અને એટલું ઉમેરો કે એ જ શબ્દ 'તારા પપ્પા'માં જુદો અર્થ આપે છે. પછી મમ્મીની પંક્તિ સાદા ગુજરાતીમાં ફરી કહો: 'ગામડે લાઈટો ન હોય એટલે તારલા વધારે ચમકતા દેખાય.' `key_terms`માં 'તારા — આકાશના તારલા' મૂકો."
+    }
+  ],
+  "chapter_level": [
+    "ROUTING, and which gates actually bite. `samvad_nibandh` is dominant and `natak_ekanki` is loaded alongside per the printed exception recorded in 01_meta.json. Two consequences for Agent 13: (a) `samvad_nibandh`'s G6 wrong-route gate — 'a label-position speaker tag forces a reroute to natak_ekanki' — is WAIVED for this chapter and must not fire, even though every line here begins `ઝલક :` / `વનિતાબેન :` / `મહેશભાઈ :` / `મનન :`; (b) `natak_ekanki`'s રંગસૂચના gates and its header-topic gate have nothing to bite on, because this chapter prints ZERO bracketed stage directions, no `પાત્રો` box, no `પ્રવેશ`/`અંક` header and no `પડદો` line. An absent રંગસૂચના here is not a dropped one. The natak gates that DO apply are: no supplied narrator, no reassigned speech, no tacked-on બોધ, nothing offstage invented, and the printed text is never corrected.",
+    "G1 DECIDABILITY. The four printed speaker labels are `ઝલક`, `વનિતાબેન`, `મહેશભાઈ`, `મનન`. In the dialogue the children call the parents `મમ્મી` and `પપ્પા`, so `મમ્મી` alone never satisfies G1 for `વનિતાબેન`, nor `પપ્પા` for `મહેશભાઈ`; the printed label string must occur in `explanation` at least once per topic in which that speaker holds a turn.",
+    "L2 HAZARD, chapter-wide — the sentence-final `ને`. Spoken Gujarati's agreement tag runs through every page here: `સાંભળે છે ?` … `તો હું જઉં ને ?`, `એ તો વડોદરા પાસે છે ને ?`, `હેં ને પપ્પા.`, `બરાબરને ?`, `હું તારી સાથે જ હોવાનો ને !`, `આજે હું તારી વાત માનવાનો જ નથી ને.`, `તું પૂછ્યા વગર જ ના પાડી દે છે ને...`. A Hindi-reading child takes `ને` for the dative *को* and the sentence stops parsing. Gloss it ONCE, at its first appearance, as the spoken tag that asks for agreement (`ને ? — ખરું ને ?, હા કે ના ?`) and never treat it as an error or a missing word. Do not repeat this gloss in every topic.",
+    "L2 HAZARD, chapter-wide — the English loanwords are the chapter's own register and one of its tasks. `સ્કૂલ`, `નોટિસ`, `ટીચર`, `રાઈડ્સ`, `લાઈટિંગ`, `લાઈટો`, `મ્યુઝિકલ ફાઉન્ટેન`, `મ્યુઝિકલ ફાઉન્ટેન્સ`, `ડાન્સ`, `પિક્ચર`, `ચીઝ પોપકોર્ન`, `ઑફિસ`, `બાઇક`, `બેટ બોલ` are printed in Gujarati script throughout, and સ્વાધ્યાય block 8 asks the child to list them and give their meaning in their first language. Keep them exactly as printed everywhere, gloss at point of use, and never quietly substitute a Gujarati equivalent in `modified_chunk` or `explanation` — doing so removes the material the exercise runs on.",
+    "PRINTED-AS-IS. Kept exactly as printed, never normalised and never described to the child as mistakes of the book: `ભાઈલુ` on the first page against `ભઈલું` everywhere else; `મજ્જા`; both `નહિ` and `નહીં`; the double spaces inside `ભઈલું,  હું છે ને`, `દીદીના  ટીચરને`; the spaced hyphens `હાથ - પગ`, `આજવા - નિમેટા`, `રિસામણાં - મનામણાં`; the space before `?` and `!` that GSEB sets; `ચડ્યો`/`ચડી` with `ડ`. The chapter uses the full stop throughout and no Devanagari daṇḍa may be introduced anywhere.",
+    "સ્વાધ્યાય IS NEVER A TOPIC — and this chapter has a trap. The five-line rhyme that opens `'એક છોકરું  રિસાણું` and ends `અરરર માડી !'` (printed across five lines, with its double space, in 00_chapter_normalized.md) sits INSIDE exercise block 5, not in the chapter text, even though it echoes the chapter's title. No topic's `original_chunk`, `explanation`, summary or `recall_questions[].answer` may quote a line of it or present it as a કડી of the lesson; it belongs to Agent 10 alone. `structure_inventory.kadi` is 0 and must stay 0.",
+    "THE INTRO BOX IS APPARATUS, NOT AN ANSWER. The પ્રવેશપેટી is teacher-addressed (`આ એકમના સ્વાધ્યાયમાં આપેલ અગાઉ શીખેલા ભાષાકીય મુદ્દાઓનો મહાવરો કરાવવો.`) and it hands out the chapter's theme ready-made (`રિસામણાં - મનામણાં`, `માતા-પિતાની ભૂમિકા`, `જે વાત પણ ઘણી પ્રેરક છે.`). A std-6 reader's commonest move is to answer from that blue box instead of from the dialogue. No topic's teaching prose may be a restatement of it; every claim must be traceable to a printed turn.",
+    "BOTH SIDES, AND THE ORDER. This is the ordering constraint the સંવાદ form exists to protect and the સ્વાધ્યાય tests directly (`પાઠના આધારે કહો કે નીચેનાં વાક્યો કોણ બોલી શકે ?`; `નીચેનાં વાક્યો વાંચો. એ પરથી નક્કી કરો કે આ વાક્યમાં રીસ છે કે મનામણાં છે.`). Across the plan, મનનની માગણી and its reason must be statable by the child BEFORE any topic or segment-level question asks who was right; and no root-level field — `brief_summary`, `summary`, `detailed_summary`, `publication_text` — may present મનનનું રિસાવું as simply wrong or ઘરનાંનું ના પાડવું as unkind. Both sides give reasons on this page, and the chapter itself resolves by મનન's own decision, not by anyone being defeated.",
+    "NO CHAPTER-LEVEL MORAL. The whole unit pulls towards `રિસાવું ન જોઈએ` — it is what the title, the વાતચીત prompt `કોઈ વસ્તુ મેળવવા માટે રિસાવું જોઈએ કે નહીં ? કેમ ?` and the અનુવાદ sentence `પ્રવાસમાં જવાનું ન મળે એટલે રિસાઈ ન જવાય.` all invite. Those are Agent 10's items. No root-level summary or `publication_text` may end on a `…જોઈએ` clause or carry `બોધ` / `સંદેશ` / `શિખામણ`."
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Summary-only teaching (varta avoid 1): `explanation` must not be replaceable by this topic's `modified_chunk`. Beyond the two printed sentences 'ભોજ રાજાના દરબારમાં કવિઓનું હંમેશા સન્માન થતું' and 'નવા કવિઓને પ્રોત્સાહન મળતું', it must say what that habit does for the story — why a poet can walk in 'આશા લઈને' and expect to be heard. An `explanation` that only re-says the two sentences fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Spoiling the turn (varta avoid 4): the climax topic is M2.S3.T6, so no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line, `real_life_example` or `recall_questions[].answer` of this topic may contain દૂધ, માખણ, દીવો, પ્રકાશ, સિંહાસન, પ્રધાનજી, અદલાબદલી, કવિબાળા, દીકરી or 'રાજસભામાં સામેલ' — none of these is in this topic's `original_chunk`, which reaches only as far as 'એક કવિ આશા લઈને રાજા ભોજ સમક્ષ હાજર થયા.'",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'એક કવિ આશા લઈને રાજા ભોજ સમક્ષ હાજર થયા' વાંચીને બાળક ઘણા કવિઓ આવ્યા એમ સમજી લે છે, કેમ કે 'હાજર થયા' એને બહુવચન લાગે છે; પછી આગળ 'કવિ :' કરીને એક જ માણસ બોલે ત્યાં એ ગૂંચવાય છે.",
+      "correction": "`explanation`ના પહેલા જ વાક્યમાં ચોખવટ કરો કે આવનાર 'એક જ કવિ' છે, અને 'હાજર થયા' એ માન આપવા વપરાતું રૂપ છે — જેમ એક જ શિક્ષક માટે 'શિક્ષક આવ્યા' કહેવાય તેમ; પછી કહો કે આખા પાઠમાં એ જ એક કવિની વાત ચાલે છે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "Summary-only teaching (varta avoid 1): `explanation` must carry the narrator's own motive sentence 'આ લાયકાત અને પરીક્ષાનો પ્રશ્ન હતો' and say what it makes of the શરત — that ભોજ is testing worth, not merely bargaining. An `explanation` that only restates 'અમારા ત્રણ સવાલના જવાબ આપો તો તમને રાજસભામાં સામેલ કરીએ' plus 'પૂછો મહારાજ!' adds nothing to `modified_chunk` and fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Spoiling the turn (varta avoid 4): 'રાજસભામાં સામેલ કરીએ' may be quoted here because it is the શરત printed in this topic's `original_chunk`, but no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may state that the કવિ or his દીકરી in fact gets that place, nor contain દૂધ, માખણ, દીવો, પ્રકાશ, સિંહાસન, અદલાબદલી, કવિબાળા or દીકરી.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Tacked-on બોધ (varta avoid 2): no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may close on 'લાયકાત વગર કશું મળતું નથી' / 'આપણે પણ મહેનત કરવી જોઈએ' or any 'આ વાર્તા આપણને શીખવે છે…' sentence. લાયકાત and પરીક્ષા are the narrator's words about this દરબાર's rule, not a rule for the child.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'લાયકાત' અને 'પરીક્ષા' વાંચીને બાળક નિશાળની લેખિત પરીક્ષા સમજી લે છે — જાણે કવિને કાગળ-પેન આપીને પેપર લખાવવાનું હોય; ભરી સભામાં, રાજા સામે, બોલીને ત્યાં ને ત્યાં અપાતી કસોટી છે એ છટકી જાય છે.",
+      "correction": "પાઠની શબ્દાર્થ પેટીના પોતાના શબ્દોમાં જ 'પરીક્ષા — કસોટી' અને 'લાયકાત — યોગ્યતા' વપરાય ત્યાં જ ગ્લોસ કરો, અને પછી 'આ લાયકાત અને પરીક્ષાનો પ્રશ્ન હતો' એ વાર્તાનું જ વાક્ય ટાંકીને કહો કે આ કસોટી ભરી સભામાં, બોલીને, તરત આપવાની છે."
+    },
+    {
+      "topic_id": "M1.S1.T3",
+      "avoid_checks": [
+        {
+          "check": "Summary-only teaching (varta avoid 1): `explanation` must add the shape of the three questions — the first asks હોવું ('ભગવાન છે કે નહીં ? છે તો દેખાતા કેમ નથી ?'), and the next two are built on it, each opening 'ભગવાન જો છે તો…' to ask દિશા and then કામ. Re-listing the three questions is `modified_chunk` and fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Spoiling the turn (varta avoid 4): this topic sets the questions and must not answer them — no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may contain દૂધ, માખણ, દીવો, પ્રકાશ, 'ચારે દિશામાં', સિંહાસન, અદલાબદલી, કવિબાળા or દીકરી.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Tacked-on બોધ (varta avoid 2): no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may close on 'ભગવાનમાં શ્રદ્ધા રાખવી જોઈએ' or any 'આપણે પણ … જોઈએ' clause. The three questions are the કસોટી the story runs on.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Belief handled as the profile's Sensitivity paragraph orders for exactly this chapter ('God-questions as the engine of a wit tale', std-7 ch 2 — do not turn a story into a debate about belief): no field of this topic may argue that ભગવાન છે or નથી, nor compare faiths. The fields report that રાજા ભોજ asked these three, and stop there.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "'પહેલો :', 'બીજો :', 'ત્રીજો :' પણ 'રાજાભોજ :' અને 'કવિ :'ની જેમ ડાબી કિનારે નામ અને ગુરુવિરામના રૂપમાં જ છપાયા છે, એટલે બાળક એમને ત્રણ જુદા બોલનારા સમજી બેસે છે — જાણે ત્રણ જણ વારાફરતી સવાલ પૂછતા હોય.",
+      "correction": "`explanation`માં કહી દો કે ત્રણેય સવાલ રાજા ભોજના જ છે અને 'પહેલો', 'બીજો', 'ત્રીજો' એ સવાલનો ક્રમ બતાવે છે, બોલનારનું નામ નથી; પછી ત્રણેયને ક્રમમાં ફરી કહી બતાવો — ભગવાન છે કે નહીં, મોઢું કઈ દિશામાં, અને કામ શું."
+    },
+    {
+      "topic_id": "M1.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "Summary-only teaching (varta avoid 1): `explanation` must add what the printed beat withholds and what it shows — the કવિ has no answer ('કવિ પાસે આ ત્રણમાંના એકેય સવાલનો જવાબ ન હતો'), stays silent 'થોડીક ક્ષણો', and stakes everything on 'આઠમા દિવસે જવાબ સાથે હાજર થઈશ, અથવા કદી નહીં આવું.' A restatement of the week and the eighth day fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Spoiling the turn (varta avoid 4): the દીકરી may be named because 'પોતાની નાની સરખી દીકરી સાથે' is in this `original_chunk`, but no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may say that she will answer, nor contain દૂધ, માખણ, દીવો, પ્રકાશ, સિંહાસન, અદલાબદલી or 'રાજસભામાં સામેલ'.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Judging a sympathetic character (varta avoid 3): no `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may apply અજ્ઞાની, મૂરખ, નબળા, ખોટા, ડરપોક or a synonym to the કવિ for having no answer, nor call his week's delay a બહાનું. The story keeps him sympathetic — he keeps his word and returns on the eighth day.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "આઠમા દિવસ સુધીનું અઠવાડિયું વાર્તા ખાલી છોડે છે, ને બાળક એ ખાલી જગ્યા જાતે ભરી દે છે — 'કવિએ સાત દિવસમાં જવાબ શોધી કાઢ્યા અને દીકરીને શીખવી દીધા' — જે વાત પાઠમાં ક્યાંય લખી નથી.",
+      "correction": "`explanation`માં ચોખ્ખું કહો કે એ સાત દિવસમાં શું થયું તે વાર્તા કહેતી જ નથી; આપણને એટલી જ ખબર છે કે આઠમા દિવસે કવિ પોતાની નાની દીકરીને સાથે લઈને સભામાં આવ્યા — અને એ ન કહેવાયેલી વાત જ વાર્તાની મજા છે."
+    },
+    {
+      "topic_id": "M1.S2.T5",
+      "avoid_checks": [
+        {
+          "check": "Tacked-on બોધ (varta avoid 2): the chapter states its own idea here, so it is quoted and taught as the બાળા's spoken line — 'જ્ઞાન ઉંમર ઉપરથી પારખી શકાતું નથી.' No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may re-author it as 'આપણે નાનાંને ઓછાં ન આંકવાં જોઈએ' / 'આ વાર્તા આપણને શીખવે છે…' or any other … જોઈએ clause.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Judging a sympathetic character (varta avoid 3): the રાજા's 'આવડી નાનકડી બાળા ?' is નવાઈ, and no `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may label him અહંકારી, અન્યાયી, ખોટો or a synonym for asking it — nor call the કવિ સ્વાર્થી for putting his daughter forward.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Spoiling the turn (varta avoid 4): no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may contain દૂધ, માખણ, દીવો, પ્રકાશ, 'ચારે દિશામાં', સિંહાસન, પ્રધાનજી, અદલાબદલી or 'રાજસભામાં સામેલ' — the climax topic M2.S3.T6 is still ahead.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'જ્ઞાન ઉંમર ઉપરથી પારખી શકાતું નથી' વાક્ય વાંચીને બાળક એને આખા પાઠનો સાર માની લે છે અને ત્યાં જ અટકી જાય છે; બાળાએ હજી કશું કરી બતાવ્યું નથી એ ધ્યાનમાં જ આવતું નથી.",
+      "correction": "આ વાક્યને બાળાનો દાવો કહો, પાઠનો સાર નહીં — તે ભરી સભામાં આટલું કહે છે અને સાથે જ 'આપ પ્રશ્નો પૂછો' કહીને સામેથી કસોટી માગે છે; `explanation` અહીં પૂરી ન કરો, પણ કહો કે એણે કહેલી વાત સાચી છે કે નહીં તે હજી કરી બતાવવાનું બાકી છે."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "Summary-only teaching, in this chapter's ચાતુર્યકથા form where the demonstration IS the turn (varta avoid 1): `explanation` must keep the બાળા's counter-question in her own words — 'મહારાજ ! આ દૂધમાં માખણ છે ખરું ?' — and the step that follows it, 'તો તે કાઢીને બતાવો જોઈએ.' An `explanation` that jumps straight to 'દૂધમાં માખણ દેખાતું નથી તેમ ભગવાન દેખાતા નથી' has paraphrased the demonstration away and fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Judging a sympathetic character (varta avoid 3): 'મહારાજ પાછા શાંત થઈ ગયા. વિચારવા લાગ્યા.' — no `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may say the રાજા હાર્યા, or label him મૂરખ, અજ્ઞાની, ખોટો or a synonym. The printed reaction of the room is 'સ્તબ્ધ' and then 'વાહ! વાહ!', not mockery.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Tacked-on બોધ (varta avoid 2): no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may close on 'ભગવાન સૌમાં છે, શ્રદ્ધા રાખવી જોઈએ' or any 'આપણે પણ … જોઈએ' sentence. The છેલ્લી પંક્તિ of each such field must stay on દૂધ, માખણ, છાશ, વલોણું or the સભા in this scene.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Belief and science, per the profile's Sensitivity paragraph for this very chapter: no field may state whether ભગવાન છે કે નથી, and none may correct the દૂધ-માખણ દૃષ્ટાંત against science ('વૈજ્ઞાનિક રીતે માખણ એટલે ચરબીના કણો…'). The દૃષ્ટાંત is taught as the બાળા's way of showing, not as a claim to verify.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "'દૂધમાં માખણ છે' અક્ષરશઃ સમજીને બાળક માને છે કે દૂધ હલાવતાં જ માખણ નીકળી આવે; વચ્ચેનાં દહીં, છાશ ને વલોણું ગુમ થઈ જાય છે — અને એ ગુમ થતાં જ બાળાનો 'છે છતાં દેખાતું નથી' વાળો જવાબ કેમ ચાલે છે તે સમજાતું નથી.",
+      "correction": "બાળાના પોતાના શબ્દોમાં આખી સાંકળ ગોઠવીને બતાવો — દૂધ → દહીં → છાશ → વલોવવું → ઉપર તરી આવતું માખણ — અને 'વલોવવું' વપરાય ત્યાં જ ગ્લોસ કરો; પછી કહો કે વલોવ્યા વગર માખણ હોય તો છે જ, પણ દેખાતું નથી."
+    },
+    {
+      "topic_id": "M2.S3.T7",
+      "avoid_checks": [
+        {
+          "check": "Summary-only teaching, demonstration form (varta avoid 1): `explanation` must keep the two moves the page prints — the બાળા asks for a lamp and lights it ('છોકરીએ દીવો સળગાવી દીધો'), then puts the question 'દીવાનો પ્રકાશ કઈ દિશામાં પડે છે ?' to the રાજા. An `explanation` that states only 'ભગવાનનું મુખ ચારે દિશામાં છે' drops the demonstration and fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Tacked-on બોધ (varta avoid 2): no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may turn 'બધે નજર નાખે છે, બધી નજર રાખે છે' into 'આપણે પણ ચારે બાજુ ધ્યાન રાખવું જોઈએ' or any … જોઈએ clause; the line stays the બાળા's account of ભગવાનનું મુખ.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Judging a sympathetic character (varta avoid 3): no `explanation`, `concept_bullets` line or `recall_questions[].answer` may present the રાજા's 'દીવો ?' as ટોણો, મૂર્ખતા or દોષ; it is his puzzlement, and the story keeps him respectful throughout.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક માને છે કે 'પ્રકાશ ચારે દિશામાં પડે' એ જવાબ કવિબાળાએ આપ્યો; ખરેખર એ વાક્ય મહારાજ પોતે બોલે છે — અને ચાતુર્ય તો એ જ છે કે જવાબ રાજાના જ મોઢે બોલાવ્યો.",
+      "correction": "`explanation`માં બોલનારનું નામ દઈને ટાંકો — 'દીવાનો પ્રકાશ તો ચારે દિશામાં જ પડેને !' એ મહારાજનું વાક્ય છે — અને પછી બતાવો કે બાળા દીવો સળગાવીને માત્ર સવાલ પૂછે છે, જવાબ રાજા આપે છે, ને બાળા એ જ જવાબને ભગવાનના મુખ સાથે જોડી દે છે."
+    },
+    {
+      "topic_id": "M3.S4.T8",
+      "avoid_checks": [
+        {
+          "check": "Summary-only teaching, demonstration form (varta avoid 1): `explanation` must keep the request itself and the reaction to it — 'આપ જરા ઊભા થઈને પ્રધાનજીની જગાએ બેસશો ?' and 'મહારાજ અને પ્રધાનજી બંને ચમકી ગયા.' An `explanation` that states only 'ભગવાનનું કામ દરેકને યોગ્ય સ્થાને રાખવાનું છે' has thrown the demonstration away and fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Tacked-on બોધ (varta avoid 2): the chapter's own conclusion is the બાળા's spoken sentence — 'કુદરતના આ નિયમનનું કામ ભગવાનનું છે' — and it is quoted as hers. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may convert it into 'સૌએ પોતાના સ્થાને રહેવું જોઈએ' or any other … જોઈએ clause.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Judging a sympathetic character (varta avoid 3): 'મહારાજ અને પ્રધાનજી બંને ચમકી ગયા' and the રાજા's 'તારી આ વાત વધારે પડતી છે' — no `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may label either man ડરપોક, અહંકારી, મૂરખ or a synonym for that reaction.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Belief and science, per the profile's Sensitivity paragraph for this chapter: no field may explain શિયાળો-ઉનાળો-ચોમાસું or સૂરજ, ચંદ્ર, તારા by their scientific cause, nor assert that the બાળા's account of કુદરતનું નિયમન is right or wrong. Her list is reported as the answer she gives in the સભા.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "'દરેક ચીજ યોગ્ય સ્થાને' સાંભળીને બાળક એને માણસો પરનો નિયમ બનાવી દે છે — 'જે જ્યાં છે ત્યાં જ રહેવું, જગા બદલાય નહીં' — જ્યારે બાળા તો કુદરતની ગોઠવણની વાત કરે છે, અને સિંહાસનની અદલાબદલી તો સભામાં કરી બતાવેલી એક રીત માત્ર છે.",
+      "correction": "`explanation` બાળાની પોતાની યાદીમાં જ રહે — શિયાળો, ઉનાળો, ચોમાસું, સૂરજ, ચંદ્ર, તારા, જમીન, સમુદ્ર, હવા — અને સિંહાસનવાળી માગણીને 'સમજાવવા માટે કરી બતાવેલી વાત' તરીકે જ ઓળખાવો; માણસે પોતાની જગા ન બદલવી એવો કોઈ નિયમ ક્યાંય ન લખો."
+    },
+    {
+      "topic_id": "M3.S4.T9",
+      "avoid_checks": [
+        {
+          "check": "Summary-only teaching (varta avoid 1): `explanation` must add the motive the ending turns on — the કવિ himself asks for his daughter's place and gives his reason aloud, 'આ ત્રણેય સવાલના જવાબ મને તો આવડતા જ ન હતા. હું મૂંઝાયો ત્યારે દીકરીએ જ કહ્યું…' A restatement of who was admitted to the રાજસભા fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Tacked-on બોધ (varta avoid 2): the closing idea is રાજા ભોજ's spoken line — 'જ્ઞાનને ઉંમર સાથે લેવાદેવા નથી' — quoted as his and attributed to him. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may append 'આ વાર્તા આપણને શીખવે છે કે…', 'બોધ એ છે કે…' or an 'આપણે પણ … જોઈએ' sentence after it.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Judging a sympathetic character (varta avoid 3): the કવિ's own admission 'મને તો આવડતા જ ન હતા' is honesty in open court; no `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may label him મૂરખ, અભણ, નિષ્ફળ, ખોટો or say he took credit that was not his.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "પાઠનું છેલ્લું અને સૌથી અગત્યનું વાક્ય 'જ્ઞાનને ઉંમર સાથે લેવાદેવા નથી' બાળક 'લેવું-દેવું' જેવું વાંચી લે છે અને અર્થ અધૂરો કે ઊંધો પકડે છે.",
+      "correction": "'લેવાદેવા નથી — કશો સંબંધ નથી' એમ વપરાય ત્યાં જ ગ્લોસ કરો અને આખું વાક્ય સહેલા ગુજરાતીમાં ફરી કહો — 'જ્ઞાનને ઉંમર સાથે કશો સંબંધ નથી' — સાથે એ પણ કહો કે આ વાક્ય રાજા ભોજ પોતે બોલે છે."
+    }
+  ],
+  "chapter_level": [
+    "Belief is the engine of this ચાતુર્યકથા, not its subject — varta.md's Sensitivity paragraph names this chapter by hand ('God-questions as the engine of a wit tale', std-7 ch 2). Across every topic, no field argues that ભગવાન છે or નથી, compares faiths, or verifies the three દૃષ્ટાંતો (દૂધ-માખણ, દીવો-પ્રકાશ, ઋતુચક્ર) against science. Teach the ચાતુર્ય and the દૃષ્ટાંત; report the answers as the ones the બાળા gives in the સભા.",
+    "The whole unit is printed as narrator prose interrupted by flush-left speaker labels — 'રાજાભોજ :', 'કવિ :', 'મહારાજ :', 'કવિબાળા :', 'કવિપુત્રી કહે,' — and the three questions carry the same shape ('પહેલો :', 'બીજો :', 'ત્રીજો :') without being speakers. Losing track of who is talking is this chapter's standing L2 hazard, and the સ્વાધ્યાય block 'નીચેનાં વાક્યો કોણ બોલ્યું હશે એ લખો.' tests exactly it, so every quoted line in the teaching names its speaker.",
+    "One girl is printed under six labels — કવિબાળા, કવિપુત્રી, છોકરી, બાળા, દીકરી, and the vocative 'બાલિકે !' — and one boy-king under two, રાજા ભોજ and મહારાજ. An L2 child reads them as different people. Fix the naming once, early, and then use the page's own words wherever they are quoted.",
+    "Printed forms that look like mistakes and are not: the vocative 'બાલિકે !', 'કવિરાજ !', 'બિરાજશો', 'પડેને !', 'હંમેશા', 'નહિ' standing beside 'નહીં', and the single 'રાજ્યસભા' among many 'રાજસભા'. Wherever the teaching quotes these, it quotes them as printed and glosses rather than corrects (reference/gujarati_verbatim.md); no field may call any of them a spelling error.",
+    "Std-7 ceiling (profiles/students/std-7.md §2): the સ્વરૂપ is experienced, never labelled. 'ચાતુર્યકથા' is the blue teacher-box's word and does not become a genre tag handed to the child to memorise, no અલંકાર/છંદ/સાહિત્યપ્રકાર terms appear anywhere, and questions stop at motive inference and in-character hypotheticals — the shape the book itself uses in 'જો કવિબાળાએ ત્રણ સવાલના જવાબ ન આપ્યા હોત તો ?'"
+  ]
+}

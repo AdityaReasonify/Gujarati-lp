@@ -1,0 +1,568 @@
+{
+  "agent": "05_verbatim_attachment",
+  "chapter_id": "gseb_eng_gujarati7_ch8",
+  "plan_id": "gseb_eng_gujarati7_ch8_v1",
+  "grade": 7,
+  "chapter_name": "સાદ વરત્યો",
+  "genre": "varta",
+  "genre_subform": "લોકકથા",
+  "active_genre_profiles": [
+    "varta.md"
+  ],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "દુશ્મનના ડાયરામાં હથિયાર વગર, મોઢું ઢાંકીને બેઠેલા જોગીદાસનો સાદ ઓળખાય છે તે ક્ષણ વાર્તાને કઈ દિશામાં વાળી દે છે ?",
+  "explanation_unit": "એક ઘટના",
+  "cut_summary": {
+    "reading_markers_in_normalized": [
+      "[[ઘટના: શોકના સમાચાર ડુંગરામાં પહોંચે છે]]",
+      "[[ઘટના: શિહોર-ભાવનગરનો કળેળાટ અને બહારવટિયાઓનું સનાન]]",
+      "[[ઘટના: ખરખરે જવાનો નિર્ણય અને છાનામાના જવાનો મનસૂબો]]",
+      "[[ઘટના: કુંડલાના ડાયરા સાથે શિહોરના દરબારગઢમાં પ્રવેશ]]",
+      "[[ઘટના: સાદ વરતાય છે — વાર્તાનો વળાંક]]",
+      "[[ઘટના: તલવારો ખેંચાય છે અને વજેસંગ રાજપૂતોને વારે છે]]",
+      "[[ઘટના: રામરામ કરીને જોગીદાસની વિદાય અને લોકોનો અહોભાવ]]"
+    ],
+    "reading_markers_count": 7,
+    "topics": 7,
+    "segments": 5,
+    "modules": 3,
+    "concepts": 10,
+    "objectives": 7,
+    "non_topic_markers": [
+      "[[પૃષ્ઠ 50]] … [[પૃષ્ઠ 56]] — page furniture",
+      "શીર્ષક-પટ્ટી '8 સાદ વરત્યો' + લેખક-નામ '- ઝવેરચંદ મેઘાણી' (QR બૅજ સહિત) — header furniture",
+      "[[પ્રવેશપેટી — શિક્ષક માટેની વાદળી પેટી; પાઠનું વાચન-લખાણ નથી]]",
+      "[[ચિત્ર: ઘોડેસવારો અને પાઘડીધારી પુરુષનું જળરંગ ચિત્ર — પૃષ્ઠ 50]]",
+      "[[ચિત્ર: દરબારગઢની ડેલી પાસે હારમાં બેઠેલા શોકગ્રસ્ત મહેમાનો — પૃષ્ઠ 51]]",
+      "[[શબ્દાર્થ — પાઠ પછીની પેટી, પૃષ્ઠ 52]]",
+      "[[રૂઢિપ્રયોગ — શબ્દાર્થ પેટી નીચેની પેટી, પૃષ્ઠ 53]]",
+      "[[સ્વાધ્યાય: …]] × 14 (છપાયેલા ક્રમાંક 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15)",
+      "[[પાઠાંતે વ્યાકરણ-ખાનું — બૅનર 'ક્રિયાવિશેષણ', પૃષ્ઠ 56]]"
+    ],
+    "tek_occurrences": 0,
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "જોગીદાસ પોતાના બાપ હાદા ખુમાણને ડુંગરામાં કયા સમાચાર સંભળાવે છે અને દાદભાનું મરણ કેવી રીતે થયું તે પાઠની પંક્તિઓમાંથી શોધીને કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શિહોર-ભાવનગરમાં થતા કળેળાટનું વર્ણન વાંચીને, દુશ્મનના દીકરાનું સનાન બહારવટિયાઓએ કેમ લીધું તે હાદા ખુમાણના પોતાના વેણમાંથી સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2",
+        "M1.S1.T2.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "હાદા ખુમાણને ખરખરે જવામાં કયું જોખમ દેખાયું અને છતાં એમણે જવાની હા કેમ પાડી તે એમના મનમાં ચાલતા વિચારોમાંથી તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કુંડલાના ડાયરા સાથે માથે પછેડી ઢાંકીને જોગીદાસ દરબારગઢની ડેલી સુધી કેમ પહોંચી શક્યા તે પાઠના શબ્દોના આધારે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પાંચસો જણ વચ્ચે ઢાંકેલા મોઢે બેઠેલા જોગીદાસને વજેસંગ મહારાજે શાના પરથી ઓળખ્યા, અને એ ક્ષણ પછી વાર્તા કઈ દિશામાં વળે છે તે તપાસવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C6",
+        "M2.S3.T5.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "તલવારોની મૂઠે સહુના હાથ ગયા ત્યારે વજેસંગ મહારાજે રાજપૂતોને કયા વેણથી વાર્યા અને એ વેણમાં જોગીદાસ વિશે શું કહેવાયું તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T6",
+      "anchor": [
+        "M2.S4.T6.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બહારવટિયાને દૈત્ય માનનારા શિહોરના લોકોએ જુવાન જોગીદાસને જોઈને શું અનુભવ્યું અને એમનું છેલ્લું વેણ એ ફેરફારને કેવી રીતે બતાવે છે તે તપાસવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T7",
+      "anchor": [
+        "M3.S5.T7.C9",
+        "M3.S5.T7.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "શોકના સમાચાર અને ખાનદાનીનો મનસૂબો",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "મીતીઆળાના ડુંગરામાં આવેલા સમાચાર",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "ડુંગરામાં પહોંચેલા શોકના સમાચાર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "''બાપુ! ગજબ થઈ ગયો.''\nજોગીદાસે બહારવટે રઝળતાં રઝળતાં એક દિવસ મીતીઆળાના ડુંગરામાં પોતાના બાપ હાદા ખુમાણને શોકના સમાચાર સંભળાવ્યા.\n''શું થયું આપા ?''\n''મહારાજ વજેસંગના કુંવર દાદભા ગુજરી ગયા.''\n''અરરર ! દાદભા જેવો દીકરો ઝડપાઈ ગયો ? શું થયું ? ઓચિંતાનો કાળ ક્યાંથી આવ્યો ?''\n''ભાવનગરની શેરીએ શેરીએ ભમીને મેં કાનોકાન વાત સાંભળી કે શિહોરથી દશેરાને દી' નાનલબા રાણીએ કુંવરને ભાવનગર દરિયો પૂજવા બોલાવ્યા અને કુંવર દરિયો પૂજીને પાછા વળ્યા ત્યારે કુંવરનું માથું ફાટવા માંડ્યું. શિહોર ભેળા થયા ત્યાં તો જીભ ઝલાઈ ગઈ ને દમ નીકળી ગયો.\n''કોપ થયો, મહારાજને માથે આધેડ અવસ્થાએ વીજળી પડ્યા જેવું થયું આપા !''",
+              "modified_chunk": "જોગીદાસ બહારવટે — રાજ સામે બંડ પોકારીને — રઝળતાં રઝળતાં એક દિવસ મીતીઆળાના ડુંગરામાં પોતાના પિતા હાદા ખુમાણ પાસે આવે છે અને શોકના સમાચાર સંભળાવે છે. એ કહે છે કે મહારાજ વજેસંગના કુંવર દાદભા ગુજરી ગયા, એટલે કે મરણ પામ્યા. ભાવનગરની શેરીએ શેરીએ ફરીને જોગીદાસે જાતે સાંભળેલી વાત પ્રમાણે દશેરાના દિવસે કુંવર ભાવનગર દરિયો પૂજવા ગયા હતા, પાછા વળતાં માથું દુખવા લાગ્યું અને શિહોર પહોંચતાં જ એમનું મરણ થયું. બંનેને લાગે છે કે આધેડ ઉંમરે મહારાજ પર જાણે વીજળી પડી હોય એવું ભારે દુઃખ આવી પડ્યું છે.",
+              "word_count": {
+                "original": 99,
+                "modified": 87
+              },
+              "key_terms": [
+                "બહારવટે — રાજ સામે બંડ પોકારીને, ગામ છોડીને રઝળવું તે; એમ કરનારો માણસ 'બહારવટિયો'.",
+                "આપા — મોટા ભાઈ; મોટા માણસને માન આપવા વપરાતો તળપદો શબ્દ.",
+                "ગુજરી જવું — મરી જવું.",
+                "કાનોકાન — પોતાના કાને, જાતે સાંભળીને.",
+                "દમ નીકળી જવો — મરી જવું; આ પાઠનો રૂઢિપ્રયોગ છે.",
+                "કોપ — ક્રોધ, રોષ; (અહીં) ભારે આફત ઊતરી પડી હોય એવો ભાવ."
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "markers": [
+                "[[ઘટના: શોકના સમાચાર ડુંગરામાં પહોંચે છે]]"
+              ],
+              "source_lines_00_normalized": "21-33",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "બહારવટે રઝળતા દીકરાએ આણેલા મરણના સમાચાર",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "શિહોરનો કળેળાટ અને બહારવટિયાઓનું સનાન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "''વીજળી પડ્યાની તો શી વાત કરું બાપુ ! શિહોર ભાવનગરની શેરીએ શેરીએ છાતીફાટ વિલાપ થાય છે. વસતીના ઘરે ઘરમાં પચીસ વરસનો જુવાન જોદ્ધો મરી ગયો હોય એવો કળેળાટ થાય છે.''\n''આપા ! બાપ ! દાદભાની દેઈ પડે એનું સનાન તો આપણનેય આવ્યું કે'વાય, આપણે ના'વું જોવે.''\nસહુ બહારવટિયાઓએ ફાળિયાં પહેરીને નદીમાં માથાબોળ સ્નાન કર્યું. પછી જુવાન જોગીદાસે વાત ઉચ્ચારી : ''બાપુ ! એક વાત પૂછું ?''\n''ભલે બાપ !''",
+              "modified_chunk": "જોગીદાસ કહે છે કે શિહોર અને ભાવનગરની શેરીએ શેરીએ છાતીફાટ — મોટેથી — રડવાનું ચાલે છે, અને ઘરેઘર એવો કળેળાટ એટલે કે કકળાટ થાય છે જાણે પોતાના ઘરનો જુવાન દીકરો ગયો હોય. હાદો ખુમાણ કહે છે કે દાદભાનું મરણ થયું એટલે એનું સનાન, એટલે મરણ નિમિત્તે નાહવાનો રિવાજ, આપણને પણ આવ્યું ગણાય; માટે આપણે નાહવું જોઈએ. બધા બહારવટિયા ફાળિયાં — ટૂંકાં ધોતિયાં — પહેરીને નદીમાં માથાબોળ સ્નાન કરે છે. પછી જુવાન જોગીદાસ પિતાની રજા માગીને એક વાત પૂછવા માંડે છે.",
+              "word_count": {
+                "original": 69,
+                "modified": 80
+              },
+              "key_terms": [
+                "છાતીફાટ રડવું — મોટેથી, છાતી ફાટી જાય એમ રડવું.",
+                "કળેળાટ — કકળાટ; (અહીં) મોટા અવાજે થતું રડવું.",
+                "સનાન — (અહીં) મરણ નિમિત્તે નાહવું તે, સ્નાન.",
+                "ફાળિયું — ફેંટો, ટૂંકું ધોતિયું.",
+                "દેઈ — દેહ, શરીર; 'દેઈ પડે' એટલે મરણ થાય — તળપદો પ્રયોગ છે, ભૂલ નથી.",
+                "જોદ્ધો — યોદ્ધો, લડવૈયો."
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "markers": [
+                "[[ઘટના: શિહોર-ભાવનગરનો કળેળાટ અને બહારવટિયાઓનું સનાન]]"
+              ],
+              "source_lines_00_normalized": "41-47",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "ઘરેઘર થતો છાતીફાટ કળેળાટ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S1.T2.C3",
+                  "concept_name": "દુશ્મનના મરણનું સનાન લેવાનો લોકાચાર",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "હાદા ખુમાણનો નિર્ણય",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "ખરખરે જવાનો ખાનદાન નિર્ણય",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "''આપણે મહારાજના મોઢા સુધી ખરખરે ન જઈ આવવું જોવે ?''\nહાદો ખુમાણ લગરીક હોઠ મલકાવીને વિચારે ચડી ગયા. એને એકસામટા અનેક વિચારો આવ્યા. ઠાકોર વજેસંગ, જેની સામે આપણે મોટો ખોફ જગાવ્યો છે, એની રૂબરૂ ખરખરે જવું ? જેના માણસોને આપણે મોલની માફક વાઢતા આવ્યા છીએ તે આપણને જીવતા મેલી દેશે ! જે આપણને ઠાર મારવા હજારોની ફોજ ફેરવે છે, એ આપણને ખરખરો કર્યા પછી પાછા આવવા દેશે ? પણ મારો જોગો તો જોગી જેવો છે. એને ખાનદાનીના મનસૂબા ઊપડે છે. એનું મનભંગ ન કરાય !\n''જાયેં ભલે. પણ છતરાયા નથી જાવું આપા ! દરબારગઢમાં દાખલ થયા પછી મહારાજની તો મને ભે નથી. પણ જો પ્રથમથી જ જાણ થાય તો પછી ઝાટકાની જ મેળ થાય, કેમ કે પાસવાનો ન સમજી શકે કે આપણે લૌકિક કરવા આવ્યા છીએ.''\n''ત્યારે બાપુ ?''\n''કુંડલાનો ડાયરો જાય એની સાથે તું પણ માથે ફાળિયું ઢાંકીને છાનોમાનો ગૂડો વાળી આવજે. બીજું તો શું થાય ?''",
+              "modified_chunk": "જોગીદાસ પિતાને પૂછે છે કે મહારાજના મોઢા સુધી ખરખરે — મરણ પછી દિલસોજી કરવા — જઈ આવવું જોઈએ કે નહિ. હાદો ખુમાણ થોડું મલકીને વિચારે ચડે છે : જે ઠાકોર વજેસંગ સામે એમણે વેર બાંધ્યું છે અને જેની ફોજ એમને મારવા ફરે છે, એની રૂબરૂ જવું જોખમભર્યું છે. તોય દીકરાને ખાનદાનીના મનસૂબા એટલે કે વિચાર જાગ્યા છે, એટલે એ ના પાડતા નથી. એ કહે છે કે છતરાયા — ઉઘાડા થઈને — નથી જવું; કુંડલાના ડાયરા સાથે માથે ફાળિયું ઢાંકીને છાનામાના ગૂડો વાળી આવવો.",
+              "word_count": {
+                "original": 148,
+                "modified": 83
+              },
+              "key_terms": [
+                "ખરખરો — મરણ પાછળનો શોક, સંતાપ; (અહીં) મરણ પછી દિલસોજી કરવા જવું તે.",
+                "છતરાયું — છત્તું, ખુલ્લું; 'છતરાયા નથી જાવું' એટલે ઓળખાઈ જવાય એ રીતે નથી જવું.",
+                "ભે — ભય, બીક; તળપદો શબ્દ.",
+                "પાસવાન — હજૂરિયો; રાજાની પાસે રહેનારો માણસ.",
+                "ગૂડો — મરનારને રોવા જવું તે.",
+                "મનસૂબો — વિચાર, ઇરાદો."
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "markers": [
+                "[[ઘટના: ખરખરે જવાનો નિર્ણય અને છાનામાના જવાનો મનસૂબો]]"
+              ],
+              "source_lines_00_normalized": "51-59",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C4",
+                  "concept_name": "જોખમ અને ખાનદાની વચ્ચે તોળાતો બાપનો નિર્ણય",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "ઢાંકેલા મોઢે ડાયરામાં અને વરતાયેલો સાદ",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "શિહોરના દરબારગઢની ડેલી પાસે",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "ડાયરામાં ભળી ગયેલો બહારવટિયો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "easy",
+              "depends_on": [
+                "M1.S2.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "કુંવરદાદાભાને ખરખરે કુંડલાના કાઠી કણબી ને મુસદી તમામ શિહોર ચાલ્યા. તેમાં બહારવટિયો જોગીદાસ પણ પેસી ગયો. માથા પર પછેડી ઢાંક્યા પછી એ પાંચસો જણના સમુદાયમાં કોણ છે તે ઓળખવાની તો ધાસ્તી નહોતી. દરબારગઢની ડેલી પાસે સહુ હારમાં બેસીને રોવા લાગ્યા.\nરીત પ્રમાણે મહારાજ વજેસંગ એક પછી એક તમામને માથે હાથ દઈ છાના રાખવા લાગ્યા.",
+              "modified_chunk": "કુંવર દાદભાના ખરખરે કુંડલાના કાઠી, કણબી અને મુસદી બધા શિહોર જવા નીકળે છે, અને એ ટોળામાં બહારવટિયો જોગીદાસ પણ ભળી જાય છે. માથા પર પછેડી — ઓઢવાનું કપડું — ઢાંકી લીધા પછી પાંચસો જણના સમુદાયમાં એ કોણ છે તે ઓળખાઈ જવાની ધાસ્તી રહેતી નથી. દરબારગઢની ડેલી પાસે સહુ હારમાં બેસીને રડે છે, અને રિવાજ પ્રમાણે મહારાજ વજેસંગ એક પછી એક બધાના માથે હાથ મૂકીને છાના રાખતા આગળ વધે છે.",
+              "word_count": {
+                "original": 54,
+                "modified": 69
+              },
+              "key_terms": [
+                "ડાયરો — ગામના માણસોની બેઠક કે મંડળ; (અહીં) કુંડલાથી સાથે નીકળેલો સમુદાય.",
+                "પછેડી — ખભે કે માથે ઓઢવાનું કપડું.",
+                "જણ — વ્યક્તિ, આદમી.",
+                "ધાસ્તી — ડર, દહેશત.",
+                "ડેલી — મોટા મકાન કે ગઢનો દરવાજો.",
+                "મુસદી — રાજકારભારમાં કુશળ માણસ, કારભારી."
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "markers": [
+                "[[ઘટના: કુંડલાના ડાયરા સાથે શિહોરના દરબારગઢમાં પ્રવેશ]]"
+              ],
+              "source_lines_00_normalized": "63-65",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C5",
+                  "concept_name": "પાંચસો જણના સમુદાયમાં ઢંકાયેલી ઓળખ",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "ઢાંકેલા મોઢે વરતાયેલો સાદ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "ચાલતાં ચાલતાં બરાબર જોગીદાસની પાસે પહોંચ્યા, માથે હાથ મૂકીને મહારાજે સાદ કર્યો, 'છાના રો', જોગીદાસ ખુમાણ! તમે છાના રો'\n'જોગીદાસ ખુમાણ' એટલું નામ પડતાં તો શિહોર ઉપર જાણે વજ પડ્યું.\nહાંફળાફાંફળા બનીને તમામ મહેમાનો આમતેમ જોવા લાગ્યા. સહુએ પોતપોતાની તલવાર સંભાળી અને આંહી બહારવટિયાએ પછેડી ખસેડીને પોતાનું પ્રતાપી મ્હોં ખુલ્લું કર્યું. બહારવટિયો એટલું જ બોલ્યો કે ''ભલો વરત્યો રાજ !''\n''વરતું કેમ નહિ જોગીદાસ ખુમાણ ! કાઠિયાવાડમાં તો તારું ગળું ક્યાં અજાણ્યું છે ? પાંચસો આદમી વચ્ચે તારા હાકોટા પરખાય, તો પછી તારા વિલાપ કેમ ન વરતાય ?''",
+              "modified_chunk": "ચાલતાં ચાલતાં મહારાજ વજેસંગ બરાબર જોગીદાસ પાસે પહોંચે છે, એમના માથે હાથ મૂકે છે અને નામ દઈને છાના રહેવાનું કહે છે. 'જોગીદાસ ખુમાણ' એટલું નામ સંભળાતાં જ આખા શિહોર પર જાણે વજ પડ્યું હોય એવો આઘાત ફેલાય છે, અને મહેમાનો હાંફળાફાંફળા એટલે કે બાવરા બનીને પોતપોતાની તલવાર સંભાળે છે. જોગીદાસ પછેડી ખસેડીને પોતાનું મોઢું ખુલ્લું કરે છે અને એટલું જ કહે છે — તમે બરાબર વરત્યા, એટલે કે ઓળખ્યો. મહારાજ જવાબમાં કહે છે કે કાઠિયાવાડમાં એનું ગળું અજાણ્યું નથી : પાંચસો માણસ વચ્ચે એના હાકોટા એટલે કે લલકાર પરખાય, તો રડવાનો અવાજ કેમ ન ઓળખાય ?",
+              "word_count": {
+                "original": 88,
+                "modified": 96
+              },
+              "key_terms": [
+                "સાદ — અવાજ, સૂર.",
+                "વરત્યો — ઓળખ્યો; 'ભલો વરત્યો' એટલે બરાબર ઓળખ્યો.",
+                "વજ પડવું — ભયંકર આઘાત લાગવો; આ પાઠનો રૂઢિપ્રયોગ છે.",
+                "હાંફળાફાંફળા — ગભરાઈને દોડાદોડ કરતા, બાવરા બનેલા.",
+                "હાકોટા — મોટા અવાજે પડાતી બૂમ, લલકાર.",
+                "પરખાવું — ઓળખાઈ જવું."
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "markers": [
+                "[[ઘટના: સાદ વરતાય છે — વાર્તાનો વળાંક]]"
+              ],
+              "source_lines_00_normalized": "69, 75-79",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C6",
+                  "concept_name": "માથે હાથ મૂકતાં નામ પડવાની ક્ષણ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T5.C7",
+                  "concept_name": "હાકોટા અને વિલાપ પરથી પરખાતું ગળું",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "તલવારો સામે ઠાકોરનું વેણ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T6",
+              "topic_name": "ખેંચાયેલી તલવારો અને ઠાકોરનો ઊંચો હાથ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T5"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "''બહારવટિયો ! બહારવટિયો ! બહારવટિયો ! એમ હાકોટા થવા લાગ્યા. સહુને લાગ્યું કે હમણાં જોગીદાસ મહારાજને મારી પાડશે. તલવારોની મૂઠે સહુના હાથ ગયા, ત્યાં તો ઠાકોરનો હાથ ઊંચો થયો. એણે સાદ દીધો કે ''રાજપૂતો ! આજ જોગીદાસભાઈ બાઝવા નથી આવ્યા, દીકરો ફાટી પડ્યો છે એને અફસોસે આવ્યા છે. મારા ગરાસમાં નહિ, પણ મારા દુઃખમાં ભાગ લેવા આવ્યા છે.''\nમહારાજ ગળગળા થયા. જોગીદાસની આંખોમાં પણ ઝળઝળિયાં આવ્યાં. માણસોએ અરધી ખેંચેલી તલવારો મ્યાન કરતાં કરતાં અગાઉ કદી ન જોયેલું ને સાંભળેલું એવું નજરે દીઠું. મહારાજ બોલ્યા ''જોગીદાસ, બીશો મા હોં !''\n''બીતો હોત તો આવત શા માટે રાજ ?''",
+              "modified_chunk": "ચારેકોરથી 'બહારવટિયો ! બહારવટિયો !' એવા હાકોટા થવા લાગે છે. સહુને લાગે છે કે જોગીદાસ હમણાં મહારાજને મારી પાડશે, એટલે બધાના હાથ તલવારની મૂઠ — હાથા — પર જાય છે. ત્યાં જ ઠાકોરનો હાથ ઊંચો થાય છે અને એ રાજપૂતોને વારે છે : જોગીદાસભાઈ આજે બાઝવા એટલે કે લડવા નથી આવ્યા, દીકરો ફાટી પડ્યો છે એના અફસોસે આવ્યા છે; મારા ગરાસ — જમીન-જાગીર — માટે નહિ, પણ મારા દુઃખમાં ભાગ લેવા આવ્યા છે. મહારાજ ગળગળા થાય છે, જોગીદાસની આંખોમાં પણ ઝળઝળિયાં આવે છે અને લોકો અરધી ખેંચેલી તલવારો પાછી મ્યાન કરે છે.",
+              "word_count": {
+                "original": 97,
+                "modified": 92
+              },
+              "key_terms": [
+                "બાઝવું — લડવું, ટંટો કરવો.",
+                "ફાટી પડવું — (અહીં) અચાનક મરણ પામવું.",
+                "ગરાસ — રાજા કે દરબાર પાસેની જમીન-જાગીર.",
+                "મૂઠ — તલવારનો હાથો, જ્યાંથી તલવાર પકડાય છે.",
+                "ગળગળા થવું — બોલતાં બોલતાં રડવું આવી જાય એવા થઈ જવું.",
+                "ઝળઝળિયાં — આંખમાં ભરાઈ આવેલાં આંસુ."
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "markers": [
+                "[[ઘટના: તલવારો ખેંચાય છે અને વજેસંગ રાજપૂતોને વારે છે]]"
+              ],
+              "source_lines_00_normalized": "83-87",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T6.C8",
+                  "concept_name": "દુઃખમાં ભાગ લેવા આવેલા મહેમાન તરીકેની ઓળખાણ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "વિદાય અને લોકોના મનમાં બદલાયેલો બહારવટિયો",
+      "segments": [
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "બજારે ઊમટેલી મેદની",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T7",
+              "topic_name": "શિહોરની બજારે અહોભાવની નજર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "સહુ ડાયરાની સાથે ખાઈપી, મહારાજને રામરામ કરી પાછા જોગીદાસ ચાલી નીકળ્યા.\nબહારવટિયાને નજરે જોઈ લેવા શિહોરની બજારે થોકેથોક માણસ હલક્યું હતું.\nબહારવટિયાના ચહેરા-મહોરા જેણે કદી દીઠા ન હતા તેમણે તો બહારવટિયાઓને દૈત્ય જ કલ્પેલા હતા, પણ તે ટાણે લોકોએ જુવાન જોગીદાસનું જતિસ્વરૂપ આંખો ભરી ભરીને પી લીધું.\nઆવો તપસ્વી પુરુષ નિર્દોષ રૈયતનાં માથાં વાઢી વાઢીને સાંતીડે ટીંગાડતો હશે. એનાં ધડનાં ધીસરાં કરીને ઢાંઢાને ગામ ભણી હાંકી મેલી રાજ્યની સોના સરખી સીમ ઉજ્જડ કરી મેલતો હશે, એ વાત ઘડીભર તો ન મનાય તેવી લાગી.\nઘટાટોપ મેદની વચ્ચે થઈને કોઈની પણ સામે નજર કર્યા વિના બહારવટિયો ચાલ્યો ગયો.\nજુવાન જોગીદાસની નજર જાણે દુનિયા કરતાં પાતાળની અંદર વધુ પડતી હોય તેમ એ એકધ્યાની યોગીની માફક નીચે જ આંખો નોંધીને નીકળી ગયો.\nઅનેક બાઈઓનાં મોંમાંથી અહોભાવનું વેણ નીકળી પડ્યું કે ''સાચે લખમણ જતિનો અવતાર !''",
+              "modified_chunk": "ડાયરાની સાથે ખાઈપીને, મહારાજને રામરામ કરીને જોગીદાસ પાછા ચાલી નીકળે છે. બહારવટિયાને નજરે જોઈ લેવા શિહોરની બજારમાં થોકેથોક માણસ ઊમટે છે. જેમણે બહારવટિયાનું મોઢું કદી જોયું નહોતું તેમણે તો બહારવટિયાઓને દૈત્ય જ કલ્પ્યા હતા, પણ તે વખતે લોકોને જુવાન જોગીદાસનું જતિ — તપસ્વી — જેવું રૂપ દેખાય છે, અને આવો માણસ નિર્દોષ રૈયત એટલે કે પ્રજા પર આટલો ક્રૂર હશે એ વાત ઘડીભર માનવામાં આવતી નથી. જોગીદાસ કોઈની સામે નજર કર્યા વિના, નીચે આંખો ઢાળીને ભીડ વચ્ચેથી ચાલ્યો જાય છે, અને અનેક બાઈઓના મોંમાંથી અહોભાવનું વેણ નીકળી પડે છે.",
+              "word_count": {
+                "original": 131,
+                "modified": 89
+              },
+              "key_terms": [
+                "જતિ — વૈરાગી, તપસ્વી, સન્યાસી.",
+                "રૈયત — રાજ્યની પ્રજા, સામાન્ય લોકો.",
+                "સાંતીડું — હળ; બે બળદ અને હળનું એકમ.",
+                "ઢાંઢા — બળદો; તળપદો શબ્દ.",
+                "અહોભાવ — ભારે માન અને આદરની લાગણી.",
+                "વેણ — (અહીં) વચન, બોલ."
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "markers": [
+                "[[ઘટના: રામરામ કરીને જોગીદાસની વિદાય અને લોકોનો અહોભાવ]]"
+              ],
+              "source_lines_00_normalized": "91-103",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T7.C9",
+                  "concept_name": "રામરામ કરીને નીચી નજરે નીકળી જવું",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S5.T7.C10",
+                  "concept_name": "દૈત્યની કલ્પના સામે દેખાયેલું જતિસ્વરૂપ",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "not_cut_as_topics": [
+    "શીર્ષક-પટ્ટી '8 સાદ વરત્યો' અને એની નીચેની લેખક-લીટી '- ઝવેરચંદ મેઘાણી', તથા શીર્ષક-લીટી પરનો QR બૅજ (W9C8Y4) — છપાયેલી હેડર-સામગ્રી, વાચનદૃશ્ય નહીં (reference/explanation_unit_map.md, 'Header furniture is not text'). લેખક-લીટી શીર્ષકની નીચે છપાયેલી છે, પાઠના અંતે નહીં, એટલે એ કોઈ ટૉપિકના original_chunkમાં જતી નથી — Agent 5 માટેની નોંધ.",
+    "[[પ્રવેશપેટી]] — શિક્ષક-સંબોધિત વાદળી પેટી (પૃષ્ઠ 50). પાના પરનો સૌથી મજબૂત સ્વરૂપ-સંકેત છે ('તેમણે શૌર્ય અને સ્વાર્પણની લોકકથાઓ પણ આપી છે. તેમાંની જ આ એક કથા છે.') અને એ જ પેટી તળપદા શબ્દો શીખવવાનો આદેશ આપે છે, પણ એ apparatus છે : એ key_terms અને ભાષા-બોધને ખવડાવે છે, ટૉપિક કદી બનતી નથી. એની સૂચનાઓ કોઈ explanationના અંતે બોધ બનીને ન મુકાય (varta.md avoid-gate 2).",
+    "[[શબ્દાર્થ]] પેટી (પૃષ્ઠ 52), 25 શીર્ષ-શબ્દો — સાદ, વરત્યો, બહારવટિયો, શોક, ગુજરી જવું, કોપ, છાતીફાટ રડવું, કળેળાટ, સનાન, ફાળિયું, ખરખરો, લગરીક, છતરાયું, ભે, ગૂડો, જણ, ધાસ્તી, બાઝવું, જતિ, સાંતીડું, ઢાંઢા, વેણ, મનસૂબો, પાસવાન, આપા. Apparatus : key_terms અને point-of-use gloss માટે, ટૉપિક નહીં.",
+    "[[રૂઢિપ્રયોગ]] પેટી (પૃષ્ઠ 53), ચાર રૂઢિપ્રયોગ — માથું ફાટવું, દમ નીકળી જવો, માથે વીજળી પડવી, વજ પડવું. Apparatus. ચારેય પાઠના જ વાક્યોમાંથી આવે છે (પૃષ્ઠ 50 અને 52), એટલે એ પહેલા વપરાશના સ્થળે glossing માટે પ્રથમ પસંદગી છે — પણ ટૉપિક નહીં.",
+    "બે [[ચિત્ર]] માર્કર (પૃષ્ઠ 50 અને 51) — કૅપ્શન વગરનાં પાઠ-દૃશ્યોનાં ચિત્રો. ટૉપિક નહીં; Agent 9 માટે દૃશ્ય-પુરાવો. પૃષ્ઠ 51નું ચિત્ર M2.S3.T5ના છપાયેલા લખાણ વચ્ચે આવે છે — ત્યાં કાપ ન મૂકવો (નીચેની નોંધ જુઓ).",
+    "ચૌદ ક્રમાંકિત સ્વાધ્યાય બ્લૉક (વાતચીત … કૌંસમાં આપેલા શબ્દોથી ખાલી જગ્યા પૂરી ફકરાનું વાચન કરો.) 01_meta.jsonના exercise_inventoryમાં જ રહે છે અને એ Agent 10નું જ કામ છે. બ્લૉક 2 ('જોડકાં જોડો.')માં પાઠનાં જ અવતરણો ફરી છપાયાં છે — એ સ્વાધ્યાય-લખાણ છે, વાર્તાનું બીજું વાચન નથી, અને એને કોઈ ટૉપિકના કાપમાં ભેળવ્યું નથી.",
+    "પાઠાંતે લીલું વ્યાકરણ-ખાનું, બૅનર 'ક્રિયાવિશેષણ' (પૃષ્ઠ 56) — રીત, કારણ, સ્થાન, સમયના ક્રિયાવિશેષણ પરનું આખું શિક્ષણ-ગદ્ય. Apparatus / ભાષા-બોધ અને Agent 10ની સામગ્રી; વાચનદૃશ્ય નહીં, ટૉપિક નહીં."
+  ],
+  "notes": [
+    "VERBATIM PROVENANCE — every original_chunk was copied programmatically out of 00_chapter_normalized.md by explicit line number (no line was retyped), then the copied text was cross-checked character by character against the 150 dpi renders _renders/page-1.png (printed p. 50), page-2.png (p. 51) and page-3.png (p. 52). The three story pages were read in full. No mismatch was found between Agent 1's transcription and the printed page; nothing was repaired, and there is no transcription defect to report.",
+    "Line ranges used, exactly as 02_structure.json's source_lines_00_normalized specify: M1.S1.T1 = 21,23,25,27,29,31,33 · M1.S1.T2 = 41,43,45,47 · M1.S2.T3 = 51,53,55,57,59 · M2.S3.T4 = 63,65 · M2.S3.T5 = 69 then 75,77,79 · M2.S4.T6 = 83,85,87 · M3.S5.T7 = 91,93,95,97,99,101,103. Every [[…]] scaffolding line was stripped: the two [[ચિત્ર]] markers (lines 35, 71), the [[પૃષ્ઠ]] markers (73 and the rest), the [[ઘટના: …]] reading markers and every [[સ્વાધ્યાય: …]] block. Printed paragraphs are kept as separate lines inside the chunk; no paragraph was reflowed or joined.",
+    "M2.S3.T5 is discontinuous by design, as Agent 2 and Agent 4 both flagged. Its verbatim runs line 69, skips the illustration marker and the page turn to printed p. 52, and resumes at 75-79. The render confirms it is ONE beat: the naming and the reply 'ભલો વરત્યો રાજ !' sit on either side of the picture, not on either side of a cut. The speech at line 69 ends mid-utterance as printed — ''છાના રો', જોગીદાસ ખુમાણ! તમે છાના રો''' — and the quotation is left open exactly as the page prints it.",
+    "Two further printed irregularities are carried as printed and NOT repaired. (a) Line 83 opens a '' quotation on ''બહારવટિયો ! બહારવટિયો ! બહારવટિયો !' that the page never closes before the narration resumes. (b) The story text at printed p. 52 reads ''સાચે લખમણ જતિનો અવતાર !'' while the 'જોડકાં જોડો.' exercise at p. 53 reprints it as ''સાચો લક્ષ્મણ જતિનો અવતાર !''. M3.S5.T7's original_chunk carries the STORY form; the exercise form belongs to Agent 10 in its own place. Both readings were checked on the render.",
+    "NO ATTRIBUTION OR SOURCE LINE ENTERS ANY original_chunk, and this is a fact about the page, not an omission. The author line '- ઝવેરચંદ મેઘાણી' is printed under the title at the head of printed p. 50, not at the foot of the piece, and the chapter prints no closing source note; the mention of 'સૌરાષ્ટ્રની રસધાર' sits inside the teacher-addressed blue પ્રવેશપેટી, which is apparatus. So M3.S5.T7 ends on the story's own last line, as the render shows.",
+    "key_terms sit at 6 per topic — the top of reference/shabd_gloss.md's std-7 band (4-6) — because this is a તળપદા-dense લોકકથા whose own પ્રવેશપેટી instructs the teacher to introduce its dialect words, and because the L2 bar sits lower. Each entry is 'શબ્દ — અર્થ' with an em dash. The chapter's printed શબ્દાર્થ box (25 head-words) and રૂઢિપ્રયોગ box (4 idioms) were used as evidence of what the book thinks is hard, never emptied into the field: the boxes' 29 entries produced 25 of the 42 entries here, each placed on the topic where the word is actually used, and the other 17 are Ring-2 words the boxes leave out — કાનોકાન, દેઈ, જોદ્ધો, ડાયરો, પછેડી, ડેલી, મુસદી, હાંફળાફાંફળા, હાકોટા, પરખાવું, ફાટી પડવું, ગરાસ, મૂઠ, ગળગળા થવું, ઝળઝળિયાં, રૈયત, અહોભાવ. Two box head-words were deliberately left out — શોક and લગરીક — because neither is where a std-7 L2 reader stalls in the beat it sits in; a 25-entry box is not a 25-item field. Of the four printed રૂઢિપ્રયોગ, દમ નીકળી જવો and વજ પડવું are taken as key_terms at their point of use, while માથું ફાટવું and માથે વીજળી પડવી are left to Agent 12 for point-of-use glossing in M1.S1.T1, whose original_chunk carries both ('કુંવરનું માથું ફાટવા માંડ્યું', 'વીજળી પડ્યા જેવું થયું') and whose six slots were already full.",
+    "Where the sense is passage-specific the gloss follows the book's own habit and marks it '(અહીં)' — કોપ, કળેળાટ, સનાન, ખરખરો, ડાયરો, ફાટી પડવું, વેણ. તળપદા and જૂનાં રૂપો are named as dialect, never as error (ભે, ઢાંઢા, દેઈ, આપા), per varta.md avoid-gate 6 and reference/shabd_gloss.md.",
+    "modified_chunk is a two-to-four-sentence 'શું થઈ રહ્યું છે' seed in simple શિષ્ટ ગુજરાતી with the hardest words glossed inline, and nothing more: no motive reading, no craft, no ભાવ, no real-life anchor, no બોધ. Those belong to Agent 12. The તળપદો word is kept and glossed beside itself rather than replaced by its માનક form, so the seed never standardises the લોકકથા's register.",
+    "varta.md avoid-gate 4 (do not spoil the turn) was held inside this agent's own fields too: the modified_chunk of M1.S1.T1, M1.S1.T2, M1.S2.T3 and M2.S3.T4 says nothing about જોગીદાસ being recognised, about swords being drawn, or about વજેસંગ shielding him. M2.S3.T4's seed stops at the row of mourners and the raja moving down the line.",
+    "Content types: all seven topics are reading scenes of a વાર્તા and each carries exactly one image under varta.md's media prior ('one image per ઘટના, showing the moment'), so primary_content_type is 'image' and available_content_types is ['image'] on all seven. secondary and tertiary are null everywhere — no second medium is planned, and varta.md notes a story rarely needs a 2d_tool.",
+    "Structure is frozen and passed through untouched: chapter_id, plan_id, genre, genre_subform, teaching_lens, guiding_question, explanation_unit, cut_summary, all seven objectives and strand_to_objective_map, all module/segment/topic ids and names, topic_type, topic_category, difficulty, depends_on, objective_ids, markers, source_lines_00_normalized, and every concept with its empty key_terms and content arrays. Agent 12 fills the concepts; this agent added fields only, renamed nothing and reordered nothing.",
+    "02_structure.json's own notes[] and not_cut_as_topics[] are carried forward verbatim so Agent 13 can still audit the cut against them. 04_converged.json holds no payload — it is a convergence record pointing at 02_structure.json — so this file is the structure payload plus the attached text, which is what 'converged plus the new fields' means for this chapter.",
+    "word_count.original is measured on the attached chunk (whitespace tokens), not estimated: T1 99, T2 69, T3 148, T4 54, T5 88, T6 97, T7 131 — 686 words of verbatim across the seven topics. The spread is the ઘટના's, not a defect: M2.S3.T4 is the two-sentence concealed-entry beat and M1.S2.T3 is the long decision paragraph. word_count.modified is recorded beside it for Agent 13's ratio check."
+  ]
+}

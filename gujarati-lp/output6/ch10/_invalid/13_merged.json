@@ -1,0 +1,2716 @@
+{
+ "phase": 2,
+ "board": "gseb",
+ "subject": "Gujarati",
+ "grade": 6,
+ "level": "standard",
+ "version": 1,
+ "chapter_id": "gseb_eng_gujarati6_ch10",
+ "plan_id": "gseb_eng_gujarati6_ch10_v1",
+ "chapter_name": "સાથી મારે બાર",
+ "unit_title": "સાથી મારે બાર",
+ "unit_number": 10,
+ "topic_title": "સાથી મારે બાર",
+ "topic_number": 10,
+ "genre": "kathakavya",
+ "teaching_lens": "ઘટના + પાત્ર + વળાંક (ધો. 6 — પ્રાસ 'સંભળાવવો', નામ પાડવો નહીં; વક્તા કોણ છે તે દરેક વખતે ખોલવું, કેમ કે પંક્તિમાં લેબલ નથી)",
+ "guiding_question": "એકલો ધૂળો ચાર ચોર સામે કઈ રીતે ટકી ગયો, અને એના 'બાર સાથી' ખરેખર કોણ નીકળ્યા ?",
+ "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 6",
+ "textbook_url": "../Textbooks-pdf/std-6/ch-10-sathi-mare-bar.pdf",
+ "textbook_pages": "63–67",
+ "author": "",
+ "_activate": false,
+ "medium_id": null,
+ "subject_ref_id": null,
+ "english_plan_id": null,
+ "english_chapter_id": null,
+ "estimated_time": 1.5,
+ "publication_id": 1,
+ "chapter_master_id": null,
+ "objectives": [
+  {
+   "objective_id": "O1",
+   "legacy_id": "L1",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ધૂળો કયા ગામનો વાણિયો હતો, કયે સમયે અને કયા ગામે જવા નીકળ્યો — એ ત્રણેય વાત કાવ્યની શરૂઆતની પંક્તિઓમાંથી શોધીને કહેવી.",
+   "bloom_level": "Remember",
+   "home_topic_id": "M1.S1.T1",
+   "anchor": [
+    "M1.S1.T1.C1"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O2",
+   "legacy_id": "L2",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "રસ્તે અંધારું થતાં ધૂળો બીજી વાટે ચડીને જંગલમાં કેમ ભૂલો પડ્યો, અને એના દિલમાં થયેલો ઉચાટ કેવો હશે તે સમજાવવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S1.T2",
+   "anchor": [
+    "M1.S1.T2.C2"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O3",
+   "legacy_id": "L3",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ડરી જવાને બદલે ધૂળાએ મનમાં શો વિચાર કર્યો તે 'નથી કદી હું એકલો, સાથી મારે બાર !' પંક્તિ ટાંકીને સમજાવવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S2.T3",
+   "anchor": [
+    "M1.S2.T3.C3"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O4",
+   "legacy_id": "L4",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ઝાડી સળવળતાં કેટલા ચોર સામે આવ્યા અને એમણે ધૂળા પાસે શી માગણી કરી તે એ પંક્તિઓમાંથી શોધીને કહેવું.",
+   "bloom_level": "Remember",
+   "home_topic_id": "M2.S3.T4",
+   "anchor": [
+    "M2.S3.T4.C4"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O5",
+   "legacy_id": "L5",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "એકલો હોવા છતાં ધૂળાએ ચોરોને 'નથી હું એક, બાર જણા લઈ નીકળ્યો' એમ કેમ કહ્યું હશે તે વિચારીને પોતાના શબ્દોમાં કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S3.T5",
+   "anchor": [
+    "M2.S3.T5.C5"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O6",
+   "legacy_id": "L6",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ધૂળાની વાત સાંભળીને ચોરોએ 'કાલે કરજે ટાયલી !' કહીને શું જતાવ્યું, અને પછી કેટલા ચોર ઊમટી આવ્યા તે કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S3.T6",
+   "anchor": [
+    "M2.S3.T6.C6"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O7",
+   "legacy_id": "L7",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "કોથળામાં ભરેલાં કાટલાં ધૂળાએ કઈ રીતે વાપર્યાં, અને 'આવા દાવ' જોઈને ચોરોને શી નવાઈ લાગી તે પંક્તિઓ પરથી કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S4.T7",
+   "anchor": [
+    "M2.S4.T7.C7"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O8",
+   "legacy_id": "L8",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "આઘુંપાછું જોયા વિના જંગ ખેલતો ધૂળો 'હવે બતાવું રંગ !' કહે છે, એ પરથી એની હિંમત વિશે શું કહી શકાય તે તારવવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S4.T8",
+   "anchor": [
+    "M2.S4.T8.C8"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O9",
+   "legacy_id": "L9",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ચોરોને શાની બીક લાગી અને તેઓ કેમ એકી સાથે નાસી ગયા તે કારણ સાથે કહીને, વારતા અહીં કેવો વળાંક લે છે તે તપાસવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M3.S5.T9",
+   "anchor": [
+    "M3.S5.T9.C9"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O10",
+   "legacy_id": "L10",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "વાટ જડ્યા પછી ધૂળાએ પહેલાં શું કર્યું અને પછી શું કર્યું તે ક્રમમાં ગોઠવીને પોતાના શબ્દોમાં કહેવું.",
+   "bloom_level": "Apply",
+   "home_topic_id": "M3.S5.T10",
+   "anchor": [
+    "M3.S5.T10.C10"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O11",
+   "legacy_id": "L11",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ધૂળાની વારતા સાંભળીને બાળકોએ એને શો પ્રશ્ન પૂછ્યો તે એમના જ શબ્દોમાં કાવ્યમાંથી શોધીને કહેવું.",
+   "bloom_level": "Remember",
+   "home_topic_id": "M3.S6.T11",
+   "anchor": [
+    "M3.S6.T11.C11"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O12",
+   "legacy_id": "L12",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ધૂળાએ ગણાવેલા સાથી ક્રમમાં ગણાવીને, હિંમત અને વિશ્વાસ વિના બાકીના બધા કેમ નકામા ઠરે તે મૂલવવું.",
+   "bloom_level": "Evaluate",
+   "home_topic_id": "M3.S6.T12",
+   "anchor": [
+    "M3.S6.T12.C12"
+   ],
+   "status": "taught",
+   "theme_category": null
+  }
+ ],
+ "strand_to_objective_map": {
+  "L1": "O1",
+  "L2": "O2",
+  "L3": "O3",
+  "L4": "O4",
+  "L5": "O5",
+  "L6": "O6",
+  "L7": "O7",
+  "L8": "O8",
+  "L9": "O9",
+  "L10": "O10",
+  "L11": "O11",
+  "L12": "O12"
+ },
+ "modules": [
+  {
+   "module_id": "M1",
+   "module_name": "અંધારી વાટે એકલો ધૂળો",
+   "segments": [
+    {
+     "segment_id": "M1.S1",
+     "segment_name": "ઈડરથી કોટડાની વાટે",
+     "topics": [
+      {
+       "topic_id": "M1.S1.T1",
+       "topic_name": "ઈડરથી કોટડે નીકળેલો ધૂળો",
+       "topic_type": "POEM",
+       "topic_category": "introduction",
+       "difficulty": "easy",
+       "depends_on": [],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O1"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O1",
+         "legacy_id": "L1",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "ધૂળો કયા ગામનો વાણિયો હતો, કયે સમયે અને કયા ગામે જવા નીકળ્યો — એ ત્રણેય વાત કાવ્યની શરૂઆતની પંક્તિઓમાંથી શોધીને કહેવી.",
+         "bloom_level": "Remember",
+         "home_topic_id": "M1.S1.T1",
+         "anchor": [
+          "M1.S1.T1.C1"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "એક ઈડરનો વાણિયો, ધૂળો એનું નામ,\nસમી સાંજનો નીકળ્યો જવા કોટડે ગામ !",
+       "modified_chunk": "ઈડર ગામનો એક વાણિયો છે. વાણિયો એટલે વેપાર કરનાર માણસ. એનું નામ ધૂળો છે. સમી સાંજે, એટલે કે દિવસ આથમવાની વેળાએ, એ કોટડા ગામે જવા માટે ઘરેથી નીકળે છે.",
+       "word_count": {
+        "original": 13
+       },
+       "key_terms": [
+        "વાણિયો — વેપાર કરનાર માણસ, વેપારી.",
+        "સમી સાંજ — સાંજ ઢળવાની વેળા, દિવસ આથમવાનો વખત.",
+        "કોટડે — 'કોટડા ગામે'; કવિએ લય સાચવવા શબ્દનું ટૂંકું રૂપ વાપર્યું છે, ભૂલ નથી.",
+        "નીકળ્યો — ઘરેથી જવા માટે રવાના થયો.",
+        "ઈડર — ધૂળાનું પોતાનું ગામ, જ્યાંથી એ નીકળે છે."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "બાળકો, જુઓ — ધૂળો ને વાણિયો બે જુદા માણસ નથી, એક જ છે. 'ધૂળો એનું નામ' કહીને કવિ એનું નામ આપે છે, ને 'વાણિયો' એનું કામ બતાવે છે — વેપાર કરનાર. એ ઈડરનો છે અને કોટડે ગામ જવા નીકળે છે. 'સમી સાંજનો નીકળ્યો' એટલે દિવસ આથમવાની વેળાએ નીકળ્યો. આગળ અજવાળું ઘટતું જવાનું છે. પંક્તિના છેડે 'નામ' ને 'ગામ' સરખા સંભળાય છે — સ્વાધ્યાયમાં આવા સરખા સંભળાતા શબ્દો મૂકીને મોટેથી વાંચવાના આવશે.",
+       "real_life_example": "સાંજે દીવાબત્તીનું ટાણું થાય ને બા કહે — 'આ ડબ્બો દાદીને આપી આવ.' તમે ચંપલ પહેરીને શેરીમાં નીકળો છો. શેરીના દીવા હમણાં જ થયા હોય, ને આકાશ ભૂરું-કાળું થતું જાય. પગ જાતે જ ઝડપી ચાલે, કેમ કે અંધારું થાય તે પહેલાં પહોંચી જવું છે. ધૂળો પણ બરાબર આવી જ ઘડીએ ઘરેથી નીકળે છે. તમે સાંજે છેલ્લે કયા કામે ઘરેથી નીકળ્યા હતા ?",
+       "brief_summary": "ઈડરનો વાણિયો ધૂળો સમી સાંજે કોટડે ગામ જવા ઘરેથી નીકળે છે.",
+       "summary": "કથાગીતની શરૂઆતમાં કવિ પાત્રનો પરિચય આપે છે. ઈડરના એક વાણિયાનું નામ ધૂળો છે. દિવસ આથમવાની વેળાએ એ કોટડે ગામ જવા ઘરેથી નીકળે છે.",
+       "detailed_summary": "કથાગીતની પહેલી પંક્તિઓ પાત્ર અને પ્રવાસ બન્ને એકસાથે ખોલી આપે છે. 'એક ઈડરનો વાણિયો, ધૂળો એનું નામ' — અહીં માણસ એક જ છે. 'વાણિયો' એનું કામ બતાવે છે અને 'ધૂળો' એ એનું નામ છે. એ ઈડરથી કોટડે ગામ જવા નીકળે છે. નીકળવાની વેળા 'સમી સાંજ' છે, એટલે આગળ ચાલતાં અજવાળું ઘટતું જવાનું છે.",
+       "concept_bullets": [
+        "વાણિયો — વેપાર કરનાર માણસ; અહીં એ ધૂળાનું કામ છે, નામ નહિ.",
+        "સમી સાંજ — દિવસ આથમવાની વેળા; ધૂળો બરાબર ત્યારે નીકળે છે.",
+        "કોટડે — 'કોટડા ગામે'; કવિએ લય સાચવવા ટૂંકું રૂપ વાપર્યું છે, ભૂલ નથી.",
+        "ઈડર — ધૂળાનું પોતાનું ગામ, જ્યાંથી એ નીકળે છે."
+       ],
+       "important_points": [
+        "એક જ માણસ — 'વાણિયો' ને 'ધૂળો' બે જુદા માણસ નથી.",
+        "ઈડરથી કોટડે — નીકળવાનું ગામ ને પહોંચવાનું ગામ, બન્ને શરૂઆતમાં જ કહેવાયાં છે.",
+        "સાંજની વેળા — મુસાફરી શરૂ થાય ત્યારે અજવાળું ઘટતું જાય છે.",
+        "કારણ કહેવાયું નથી — ધૂળો શા માટે જાય છે તે કાવ્ય કહેતું નથી."
+       ],
+       "recall_questions": [
+        {
+         "id": "M1.S1.T1.RQ1",
+         "legacy_id": "M1.S1.T1.TR1",
+         "prompt": "ધૂળો કયા ગામનો હતો અને કયા ગામે જવા નીકળ્યો ? શરૂઆતની પંક્તિઓમાંથી શોધીને કહો.",
+         "answer": "ધૂળો ઈડરનો વાણિયો હતો. એ કોટડે ગામ જવા નીકળ્યો હતો.",
+         "difficulty": "easy",
+         "bloom_level": "remember"
+        },
+        {
+         "id": "M1.S1.T1.RQ2",
+         "legacy_id": "M1.S1.T1.TR2",
+         "prompt": "'સમી સાંજનો નીકળ્યો' — એટલે ધૂળો કઈ વેળાએ નીકળ્યો ? એ વેળા કેવી હોય ?",
+         "answer": "સમી સાંજ એટલે દિવસ આથમવાની વેળા. એ વખતે અજવાળું ધીરે ધીરે ઘટતું જાય છે.",
+         "difficulty": "easy",
+         "bloom_level": "understand"
+        },
+        {
+         "id": "M1.S1.T1.RQ3",
+         "legacy_id": "M1.S1.T1.TR3",
+         "prompt": "'નામ' ને 'ગામ' મોટેથી બોલી જુઓ. બન્ને કેવા સંભળાય છે ? આવો બીજો શબ્દ કહો.",
+         "answer": "બન્ને શબ્દોના છેડા સરખા સંભળાય છે. 'કામ' પણ એવો જ સંભળાય છે.",
+         "difficulty": "medium",
+         "bloom_level": "apply"
+        }
+       ],
+       "estimated_exchanges": "4",
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T1.C1",
+         "concept_name": "સમી સાંજની મુસાફરીની શરૂઆત",
+         "objective_id": "O1",
+         "key_terms": [],
+         "content": [
+          {
+           "type": "paragraph",
+           "text": "કથાગીતની શરૂઆતમાં કવિ પાત્ર અને પ્રવાસ સાથે જ મૂકી આપે છે. ઈડરના એક વાણિયાનું નામ ધૂળો છે — 'વાણિયો' એનું કામ બતાવે છે, 'ધૂળો' એનું નામ છે. એ સમી સાંજે, એટલે દિવસ આથમવાની વેળાએ, કોટડે ગામ જવા નીકળે છે.",
+           "publication_text": ""
+          },
+          {
+           "type": "list",
+           "items": [
+            "પાત્ર — ધૂળો, ઈડરનો વાણિયો.",
+            "ક્યાંથી ક્યાં — ઈડરથી કોટડે ગામ.",
+            "કઈ વેળાએ — સમી સાંજે, દિવસ આથમવાની ઘડીએ."
+           ]
+          }
+         ]
+        }
+       ],
+       "media": [
+        {
+         "concept_id": "M1.S1.T1.C1",
+         "id": "M1.S1.T1.C1.IMG1",
+         "type": "image",
+         "subtype": "illustration",
+         "title": "સમી સાંજે ગામ છોડતો ધૂળો",
+         "description": "સૂરજ ઢળે છે ત્યારે ખભે મોટો કોથળો લઈને ધૂળો ગામના છેલ્લા ઓટલા પરથી ઊતરીને ધૂળિયા રસ્તે પગ મૂકે છે.",
+         "image_url": "",
+         "aspect_ratio": "16:9",
+         "home_concept_id": "M1.S1.T1.C1",
+         "objective_id": null,
+         "image_category": "illustration",
+         "teaching_notes": "ચિત્ર બને ત્યાં સુધી વર્ગને પૂછો — સાંજ ઢળે ને કોઈ ગામ છોડીને ચાલતો નીકળે, ત્યારે રસ્તે શું શું દેખાતું હશે ? જવાબ લીધા પછી પહેલી બે પંક્તિ મોટેથી વંચાવો અને ખોલો કે ચાલનાર માણસ એક જ છે.",
+         "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motorbikes, electric poles, wristwatches, motivational poster layout, text banner with a moral, multi-panel comic grid, speech balloons, numerals or digits in any lettering, caste or community markers on any figure, swords knives or firearms, blood or wounds, thieves running away, any victory pose or celebration, any counted chart or diagram of twelve companions, brass weights laid out as a numbered tally",
+         "generation_prompt": "Dusk at the edge of a small Gujarati market town, the sky deep orange behind low houses roofed with curved clay tiles. Dhulo is a lean middle-aged Gujarati trader: dark skin, a grey-flecked moustache, a plain white cotton kediyu and dhoti, a small red-and-white checked turban, worn leather mojdi sandals, and a bulging brown jute sack slung over his right shoulder. He has just stepped down off the last raised stone otlo of the lane onto the open dusty cart road, one foot already on the road, his free hand steadying the sack strap, his face turned ahead down the road that runs out between thorn hedges toward low dark hills. Behind him a whitewashed chabutro stands in the little square with pigeons settling on it for the night, a shopkeeper is lowering a wooden shutter, and a woman carries a brass matlu up the lane. Long shadows, warm ochre and dusty rose light, the calm of a day closing. Soft digital watercolour, vibrant textbook illustration style, 16:9. A narrow cream narrator bar runs along the bottom edge of the frame, lettered in Gujarati script with exactly this one line and nothing else: «સમી સાંજનો નીકળ્યો જવા કોટડે ગામ !»"
+        }
+       ],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": "",
+       "figures_of_speech": [],
+       "rhyme_scheme": {
+        "pattern": "બે પંક્તિની એક જોડ; બન્ને પંક્તિના છેડાના શબ્દ સરખા સંભળાય છે.",
+        "rhyming_words": [
+         "નામ — ગામ"
+        ],
+        "note": "પહેલી પંક્તિ 'નામ' પર પૂરી થાય છે ને બીજી 'ગામ' પર. બન્ને છેડા કાનને સરખા લાગે છે, એટલે વાત ગાતાં ગાતાં આગળ ચાલે એવી બને છે."
+       },
+       "shabdarth": [
+        {
+         "shabd": "વાણિયો",
+         "arth": "વેપાર કરનાર માણસ, વેપારી",
+         "prakar": "તદ્ભવ"
+        },
+        {
+         "shabd": "સમી સાંજ",
+         "arth": "સાંજ ઢળવાની વેળા, દિવસ આથમવાનો વખત",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "કોટડે",
+         "arth": "કોટડા ગામે",
+         "prakar": "કાવ્ય-રૂપ"
+        },
+        {
+         "shabd": "નીકળ્યો",
+         "arth": "ઘરેથી જવા માટે રવાના થયો",
+         "prakar": "તદ્ભવ"
+        }
+       ],
+       "samanarthi": [
+        {
+         "shabd": "વાણિયો",
+         "samanarthi": [
+          "વેપારી"
+         ]
+        }
+       ],
+       "vilom": [
+        {
+         "shabd": "સાંજ",
+         "vilom": "સવાર"
+        }
+       ],
+       "vyakaran": [
+        {
+         "bindu": "નામ",
+         "udaharan": "એક ઈડરનો વાણિયો, ધૂળો એનું નામ,",
+         "note": "'ધૂળો', 'ઈડર' ને 'કોટડે' — આ કોઈ એક જ માણસનું કે એક જ ગામનું નામ છે, એટલે એ વ્યક્તિવાચક નામ કહેવાય. 'ગામ' શબ્દ તો કોઈ પણ ગામને લાગુ પડે, એટલે એ જાતિવાચક નામ કહેવાય."
+        }
+       ]
+      },
+      {
+       "topic_id": "M1.S1.T2",
+       "topic_name": "અંધારે ભૂલી પડેલી વાટ",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "easy",
+       "depends_on": [],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O2"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O2",
+         "legacy_id": "L2",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "રસ્તે અંધારું થતાં ધૂળો બીજી વાટે ચડીને જંગલમાં કેમ ભૂલો પડ્યો, અને એના દિલમાં થયેલો ઉચાટ કેવો હશે તે સમજાવવું.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M1.S1.T2",
+         "anchor": [
+          "M1.S1.T2.C2"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "રસ્તે અંધારું થયું, ચડિયો બીજી વાટ,\nજંગલમાં ભૂલો પડ્યો, દિલમાં થયો ઉચાટ.",
+       "modified_chunk": "રસ્તામાં અંધારું થઈ ગયું. અંધારામાં ધૂળો બીજી વાટે, એટલે કે બીજા રસ્તે, ચડી ગયો. જંગલમાં એ રસ્તો ભૂલી પડ્યો. એના દિલમાં ઉચાટ થયો — ઉચાટ એટલે ચિંતા ને ફિકર.",
+       "word_count": {
+        "original": 12
+       },
+       "key_terms": [
+        "વાટ — રસ્તો.",
+        "ચડિયો — 'ચડ્યો'; કવિતામાં લય સાચવવા વપરાયેલું જૂનું રૂપ છે, ભૂલ નથી.",
+        "ભૂલો પડ્યો — રસ્તો ભૂલી ગયો.",
+        "ઉચાટ — ચિંતા, ફિકર.",
+        "દિલ — હૈયું, મન."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "ધૂળો ચાલતો હતો ત્યાં રસ્તે અંધારું થઈ ગયું. અંધારું થયું એટલે જ એ 'ચડિયો બીજી વાટ' — વાટ એટલે રસ્તો, ને એ બીજા રસ્તે ચાલવા લાગ્યો. કવિ 'ચડિયો' લખે છે; ગાનારો આમ જ બોલે છે, એ ભૂલ નથી. પછી એ જંગલમાં ભૂલો પડ્યો ને 'દિલમાં થયો ઉચાટ' — ઉચાટ એટલે ચિંતા, ફિકર. પુસ્તક કહે છે તેમ દિલમાં ઉચાટ થવો એટલે ડર લાગવો. એકલા, અંધારે, જંગલમાં — ધૂળાને એ ડર લાગ્યો.",
+       "real_life_example": "ગામના મેળામાં ચકડોળ જોવામાં તમે થોડી વાર ઊભા રહી જાઓ. પાછળ ફરીને જુઓ ત્યાં મોટાનો હાથ છૂટી ગયો હોય. ચારે બાજુ અજાણ્યા ચહેરા, ઢોલનો અવાજ, ને બહાર નીકળવાનો રસ્તો કઈ બાજુ છે તે જ સમજાય નહિ. પેટમાં એક ફાળ પડે છે — બરાબર એ જ ઉચાટ છે. જંગલમાં ધૂળાના દિલમાં પણ આવો જ ઉચાટ થયો હતો. તમે કદી આવી રીતે ભૂલા પડ્યા છો ?",
+       "brief_summary": "અંધારું થતાં ધૂળો બીજી વાટે ચડી જાય છે, જંગલમાં ભૂલો પડે છે ને એના દિલમાં ઉચાટ થાય છે.",
+       "summary": "રસ્તે અંધારું થઈ જતાં ધૂળો સાચી વાટ ચૂકી જાય છે. બીજા રસ્તે ચાલવા લાગતાં એ જંગલમાં ભૂલો પડે છે. એકલા ને અંધારે હોવાથી એના દિલમાં ઉચાટ એટલે કે ડર થાય છે.",
+       "detailed_summary": "ધૂળો નીકળ્યો તો ખરો, પણ રસ્તે અંધારું થઈ ગયું. અંધારામાં સાચી વાટ ઓળખાય નહિ, એટલે એ 'ચડિયો બીજી વાટ' — બીજા રસ્તે ચાલવા લાગ્યો. એ રસ્તો એને જંગલમાં લઈ ગયો ને ત્યાં એ ભૂલો પડ્યો. 'દિલમાં થયો ઉચાટ' એટલે એના મનમાં ચિંતા થઈ, ડર લાગ્યો. અહીં કોઈ બોલતું નથી; આ પંક્તિઓમાં માત્ર ઘટના જ બને છે.",
+       "concept_bullets": [
+        "વાટ — રસ્તો; 'વાટે ચડવું' એટલે એ રસ્તે ચાલવા લાગવું.",
+        "ચડિયો — 'ચડ્યો'; ગાનારો આમ બોલે છે, એ ભૂલ નથી.",
+        "ભૂલો પડ્યો — રસ્તો ભૂલી ગયો, ખોટે રસ્તે જતો રહ્યો.",
+        "ઉચાટ — ચિંતા, ફિકર; દિલમાં ઉચાટ થવો એટલે ડર લાગવો."
+       ],
+       "important_points": [
+        "કારણ પહેલાં — અંધારું થયું, પછી જ વાટ બદલાઈ.",
+        "જગ્યા બદલાઈ — રસ્તો હવે જંગલમાં જઈ પડ્યો છે.",
+        "મનની હાલત — ધૂળાના દિલમાં ઉચાટ થાય છે.",
+        "કોઈ બોલતું નથી — અહીં માત્ર ઘટના બને છે."
+       ],
+       "recall_questions": [
+        {
+         "id": "M1.S1.T2.RQ1",
+         "legacy_id": "M1.S1.T2.TR1",
+         "prompt": "ધૂળો ક્યાં ભૂલો પડ્યો, અને એના દિલમાં શું થયું ?",
+         "answer": "એ જંગલમાં ભૂલો પડ્યો. એના દિલમાં ઉચાટ એટલે કે ડર થયો.",
+         "difficulty": "easy",
+         "bloom_level": "remember"
+        },
+        {
+         "id": "M1.S1.T2.RQ2",
+         "legacy_id": "M1.S1.T2.TR2",
+         "prompt": "'ચડિયો બીજી વાટ' — ધૂળો બીજી વાટે કેમ ચડી ગયો ?",
+         "answer": "કેમ કે રસ્તે અંધારું થઈ ગયું હતું. અંધારામાં સાચી વાટ ઓળખાઈ નહિ, એટલે એ બીજા રસ્તે ચાલવા લાગ્યો.",
+         "difficulty": "medium",
+         "bloom_level": "understand"
+        },
+        {
+         "id": "M1.S1.T2.RQ3",
+         "legacy_id": "M1.S1.T2.TR3",
+         "prompt": "અહીં પહેલાં શું બન્યું ને પછી શું બન્યું ? ક્રમમાં ત્રણ વાત કહો.",
+         "answer": "પહેલાં રસ્તે અંધારું થયું. પછી ધૂળો બીજી વાટે ચડી ગયો. પછી એ જંગલમાં ભૂલો પડ્યો ને એના દિલમાં ઉચાટ થયો.",
+         "difficulty": "medium",
+         "bloom_level": "analyze"
+        }
+       ],
+       "estimated_exchanges": "4",
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T2.C2",
+         "concept_name": "અંધારું, બીજી વાટ ને દિલનો ઉચાટ",
+         "objective_id": "O2",
+         "key_terms": [],
+         "content": [
+          {
+           "type": "paragraph",
+           "text": "રસ્તે અંધારું થઈ જવાથી ધૂળો સાચી વાટ ચૂકી જાય છે ને બીજા રસ્તે ચાલવા લાગે છે. 'વાટે ચડવું' એટલે એ રસ્તે ચાલવા લાગવું, ઊંચે ચડવું નહિ. એ રસ્તો એને જંગલમાં લઈ જાય છે, ને ત્યાં ભૂલો પડતાં એના દિલમાં ઉચાટ એટલે કે ચિંતા થાય છે.",
+           "publication_text": ""
+          },
+          {
+           "type": "list",
+           "items": [
+            "પહેલાં — રસ્તે અંધારું થયું.",
+            "પછી — ધૂળો બીજી વાટે ચડી ગયો.",
+            "છેલ્લે — જંગલમાં ભૂલો પડ્યો ને દિલમાં ઉચાટ થયો."
+           ]
+          }
+         ]
+        }
+       ],
+       "media": [
+        {
+         "concept_id": "M1.S1.T2.C2",
+         "id": "M1.S1.T2.C2.IMG1",
+         "type": "image",
+         "subtype": "illustration",
+         "title": "બે કેડી વચ્ચે થંભેલો ધૂળો",
+         "description": "અંધારું થઈ ગયા પછી જંગલમાં બે ફાંટા પડતી કેડી પાસે ધૂળો અટકી જઈને ચિંતાતુર ચહેરે પાછળ જુએ છે.",
+         "image_url": "",
+         "aspect_ratio": "16:9",
+         "home_concept_id": "M1.S1.T2.C2",
+         "objective_id": null,
+         "image_category": "illustration",
+         "teaching_notes": "ચિત્ર બને ત્યાં સુધી આંખ મીંચાવીને સંભળાવો — અંધારું, બે રસ્તા, પાસે કોઈ નહીં; પછી પૂછો કે 'ઉચાટ' શબ્દ અહીં શી રીતે વરતાય છે, અને એ ઘડીની મુખમુદ્રા બાળકો પાસે કરાવો.",
+         "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motorbikes, electric poles, wristwatches, motivational poster layout, text banner with a moral, multi-panel comic grid, speech balloons, numerals or digits in any lettering, caste or community markers on any figure, swords knives or firearms, blood or wounds, thieves running away, any victory pose or celebration, any counted chart or diagram of twelve companions, brass weights laid out as a numbered tally",
+         "generation_prompt": "Night in a dry scrub forest in Gujarat: thorny babul and khakhra trees, a cactus hedge, stony ground, and a faint cart track that forks into two barely visible paths among the bushes. Dhulo is a lean middle-aged Gujarati trader: dark skin, a grey-flecked moustache, a plain white cotton kediyu and dhoti, a small red-and-white checked turban, worn leather mojdi sandals, and a bulging brown jute sack slung over his right shoulder. He has stopped dead where the track forks, weight on one leg, one hand gripping the sack strap and the other half-raised, head turned back over his shoulder, his eyebrows drawn together in plain worry. Thin moonlight through the branches, the first stars, a nightjar on a low bough, deep blue and grey-green shadow all around, no lamp and no house light anywhere on the horizon. Soft digital watercolour, vibrant textbook illustration style, 16:9. A narrow cream narrator bar runs along the bottom edge of the frame, lettered in Gujarati script with exactly this one line and nothing else: «જંગલમાં ભૂલો પડ્યો, દિલમાં થયો ઉચાટ.»"
+        }
+       ],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": "",
+       "figures_of_speech": [],
+       "rhyme_scheme": {
+        "pattern": "બે પંક્તિની એક જોડ; બન્ને પંક્તિના છેડાના શબ્દ સરખા સંભળાય છે.",
+        "rhyming_words": [
+         "વાટ — ઉચાટ"
+        ],
+        "note": "'વાટ' ને 'ઉચાટ' બન્નેના છેડા સરખા સંભળાય છે. બહાર ખોવાયેલો રસ્તો ને અંદર થયેલી ચિંતા — બન્ને એક જ અવાજે પૂરાં થાય છે."
+       },
+       "shabdarth": [
+        {
+         "shabd": "વાટ",
+         "arth": "રસ્તો",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "ચડિયો",
+         "arth": "ચડ્યો; અહીં 'એ રસ્તે ચાલવા લાગ્યો'",
+         "prakar": "કાવ્ય-રૂપ"
+        },
+        {
+         "shabd": "ઉચાટ",
+         "arth": "ચિંતા, ફિકર",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "દિલ",
+         "arth": "હૈયું, મન",
+         "prakar": "આગત"
+        }
+       ],
+       "samanarthi": [
+        {
+         "shabd": "વાટ",
+         "samanarthi": [
+          "રસ્તો",
+          "મારગ"
+         ]
+        },
+        {
+         "shabd": "ઉચાટ",
+         "samanarthi": [
+          "ચિંતા",
+          "ફિકર"
+         ]
+        }
+       ],
+       "vilom": [
+        {
+         "shabd": "અંધારું",
+         "vilom": "અજવાળું"
+        }
+       ],
+       "vyakaran": [
+        {
+         "bindu": "કાળ",
+         "udaharan": "રસ્તે અંધારું થયું, ચડિયો બીજી વાટ,",
+         "note": "'થયું', 'ચડિયો' ને 'પડ્યો' — આ ત્રણેય ક્રિયાપદ બની ગયેલી વાત કહે છે, એટલે આ પંક્તિઓ ભૂતકાળમાં છે. કથાગીતની આખી વારતા આમ ભૂતકાળમાં જ ચાલે છે."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M1.S2",
+     "segment_name": "હિંમતનો સંકલ્પ",
+     "topics": [
+      {
+       "topic_id": "M1.S2.T3",
+       "topic_name": "મનમાં ધરેલી હિંમત",
+       "topic_type": "POEM",
+       "topic_category": "transition",
+       "difficulty": "medium",
+       "depends_on": [],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O3"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O3",
+         "legacy_id": "L3",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "ડરી જવાને બદલે ધૂળાએ મનમાં શો વિચાર કર્યો તે 'નથી કદી હું એકલો, સાથી મારે બાર !' પંક્તિ ટાંકીને સમજાવવું.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M1.S2.T3",
+         "anchor": [
+          "M1.S2.T3.C3"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "પણ હિંમત એણે ધરી, મનમાં કર્યો વિચાર,\n'નથી કદી હું એકલો, સાથી મારે બાર !'",
+       "modified_chunk": "ધૂળો ડરી જવાને બદલે હિંમત ધરે છે. હિંમત ધરવી એટલે મન મક્કમ કરવું. પછી એ મનમાં એક વિચાર કરે છે. પોતાની જાતને એ કહે છે કે હું કદી એકલો નથી, મારી પાસે તો બાર સાથી છે.",
+       "word_count": {
+        "original": 15
+       },
+       "key_terms": [
+        "હિંમત ધરી — હિંમત રાખી, મન મક્કમ કર્યું.",
+        "કદી — ક્યારેય.",
+        "સાથી — સાથે રહેનાર, ભેરુ.",
+        "મારે — અહીં 'મારી પાસે' એવા અર્થમાં આવ્યું છે.",
+        "વિચાર — મનમાં આવેલી વાત."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "જંગલમાં ભૂલો પડેલો ધૂળો ડરી જતો નથી. કવિ કહે છે 'પણ હિંમત એણે ધરી' — હિંમત ધરવી એટલે મન મક્કમ કરવું. પછી 'મનમાં કર્યો વિચાર', એટલે એ મનમાં જ વિચારે છે : 'નથી કદી હું એકલો, સાથી મારે બાર !' અહીં 'મારે' એટલે 'મારી પાસે', ને 'બાર' એટલે બારની સંખ્યા. સાદી ગુજરાતીમાં — મારી પાસે તો બાર સાથી છે. આ વાત એ કોઈને કહેતો નથી, પોતાની જાતને કહે છે.",
+       "real_life_example": "નિશાળ છૂટવાની ઘડીએ જ વરસાદ તૂટી પડે, ને છત્રી ઘરે રહી ગઈ હોય. પહેલાં તો થાય કે અહીં જ ઊભા રહીએ. પછી તમે દફતર માથે મૂકો, એક ઊંડો શ્વાસ લો ને પલળતાં પલળતાં ઘર ભણી દોડો. બહાર કંઈ બદલાયું નથી — બદલાયું છે ફક્ત તમારું મન. જંગલમાં ધૂળો પણ આમ જ મન મક્કમ કરે છે. તમે એવી કઈ ઘડીએ મન મક્કમ કર્યું હતું ?",
+       "brief_summary": "ભૂલો પડ્યા પછી ધૂળો હિંમત ધરે છે ને મનમાં વિચારે છે કે એ કદી એકલો નથી.",
+       "summary": "જંગલમાં ભૂલો પડ્યા પછી ધૂળો ડરી જવાને બદલે હિંમત ધરે છે. એ મનમાં જ એક વિચાર કરે છે — 'નથી કદી હું એકલો, સાથી મારે બાર !' આ શબ્દો એ પોતાની જાતને કહે છે.",
+       "detailed_summary": "આગલી પંક્તિઓનો ઉચાટ અહીં પલટાય છે. ધૂળો ડરી જવાને બદલે 'હિંમત એણે ધરી', એટલે મન મક્કમ કરે છે. પછી એ 'મનમાં કર્યો વિચાર' — બોલતો નથી, મનમાં જ વિચારે છે. એનો વિચાર છે : 'નથી કદી હું એકલો, સાથી મારે બાર !' અહીં 'મારે' એટલે 'મારી પાસે' ને 'બાર' એટલે બારની સંખ્યા. એ બાર સાથી કોણ છે તે આ ઘડીએ કાવ્યમાં કહેવાયું નથી.",
+       "concept_bullets": [
+        "હિંમત ધરી — ડર છોડીને મન મક્કમ કર્યું.",
+        "મારે — અહીં 'મારી પાસે' એ અર્થમાં આવ્યું છે.",
+        "બાર — બારની સંખ્યા; 'બહાર' કે 'બારણું' નહિ.",
+        "કદી — ક્યારેય."
+       ],
+       "important_points": [
+        "પલટો — ઉચાટ પછી તરત હિંમત આવે છે.",
+        "મનમાં — આ વાત ધૂળો પોતાની જાતને કહે છે, કોઈને નહિ.",
+        "સાદી ગુજરાતીમાં — મારી પાસે તો બાર સાથી છે.",
+        "સવાલ ખુલ્લો — બાર સાથી કોણ છે તે હજી કહેવાયું નથી."
+       ],
+       "recall_questions": [
+        {
+         "id": "M1.S2.T3.RQ1",
+         "legacy_id": "M1.S2.T3.TR1",
+         "prompt": "ભૂલો પડ્યા પછી ધૂળાએ મનમાં શો વિચાર કર્યો ? કાવ્યની પંક્તિ બોલો.",
+         "answer": "એણે વિચાર્યું — 'નથી કદી હું એકલો, સાથી મારે બાર !'",
+         "difficulty": "easy",
+         "bloom_level": "remember"
+        },
+        {
+         "id": "M1.S2.T3.RQ2",
+         "legacy_id": "M1.S2.T3.TR2",
+         "prompt": "'સાથી મારે બાર' — આ પંક્તિ સાદી ગુજરાતીમાં કહો. 'મારે' એટલે શું ?",
+         "answer": "'મારે' એટલે 'મારી પાસે'. પંક્તિનો અર્થ થાય — મારી પાસે બાર સાથી છે.",
+         "difficulty": "medium",
+         "bloom_level": "understand"
+        },
+        {
+         "id": "M1.S2.T3.RQ3",
+         "legacy_id": "M1.S2.T3.TR3",
+         "prompt": "આ શબ્દો ધૂળો કોને કહે છે ? કઈ પંક્તિ પરથી તમે એ કહી શકો ?",
+         "answer": "એ પોતાની જાતને કહે છે. 'મનમાં કર્યો વિચાર' પરથી ખબર પડે છે કે એ મનમાં જ બોલે છે.",
+         "difficulty": "medium",
+         "bloom_level": "analyze"
+        }
+       ],
+       "estimated_exchanges": "4",
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T3.C3",
+         "concept_name": "એકલા ન હોવાનો સંકલ્પ",
+         "objective_id": "O3",
+         "key_terms": [],
+         "content": [
+          {
+           "type": "paragraph",
+           "text": "જંગલમાં ભૂલા પડેલા ધૂળાની આ ઘડી છે. એ ડરી જવાને બદલે હિંમત ધરે છે, એટલે મન મક્કમ કરે છે. પછી મનમાં જ વિચારે છે — 'નથી કદી હું એકલો, સાથી મારે બાર !' અહીં 'મારે' એટલે 'મારી પાસે' ને 'બાર' એટલે બારની સંખ્યા.",
+           "publication_text": ""
+          },
+          {
+           "type": "list",
+           "items": [
+            "શું કર્યું — ડરવાને બદલે હિંમત ધરી.",
+            "શું વિચાર્યું — પોતે કદી એકલો નથી.",
+            "કોને કહ્યું — કોઈને નહિ, પોતાની જાતને."
+           ]
+          }
+         ]
+        }
+       ],
+       "media": [
+        {
+         "concept_id": "M1.S2.T3.C3",
+         "id": "M1.S2.T3.C3.IMG1",
+         "type": "image",
+         "subtype": "illustration",
+         "title": "ટટ્ટાર ઊભેલો ધૂળો",
+         "description": "જંગલની ખુલ્લી જગ્યાએ કોથળો નીચે મૂકી, છાતી કાઢીને, સ્થિર નજરે ધૂળો મનમાં કંઈક નક્કી કરતો ઊભો છે.",
+         "image_url": "",
+         "aspect_ratio": "16:9",
+         "home_concept_id": "M1.S2.T3.C3",
+         "objective_id": null,
+         "image_category": "illustration",
+         "teaching_notes": "ડરેલા ચહેરાવાળી આગલી ઘડી સાથે આ ચિત્ર સામસામે મૂકીને પૂછો — શરીરમાં શું બદલાયું ? પછી બીજી પંક્તિ એક બાળક પાસે મોટેથી બોલાવો અને ખોલો કે એ ધૂળો પોતે બોલે છે.",
+         "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motorbikes, electric poles, wristwatches, motivational poster layout, text banner with a moral, multi-panel comic grid, speech balloons, numerals or digits in any lettering, caste or community markers on any figure, swords knives or firearms, blood or wounds, thieves running away, any victory pose or celebration, any counted chart or diagram of twelve companions, brass weights laid out as a numbered tally, ghostly companions, imaginary figures standing beside him",
+         "generation_prompt": "A small moonlit clearing in a dry Gujarati scrub forest at night, ringed by thorny babul bushes, a stony path running through it, one broad-trunked pipal tree at the edge. Dhulo is a lean middle-aged Gujarati trader: dark skin, a grey-flecked moustache, a plain white cotton kediyu and dhoti, a small red-and-white checked turban, worn leather mojdi sandals, and a bulging brown jute sack slung over his right shoulder. Here he has set the jute sack down on the ground beside his feet and stands straight and still in the gap of moonlight, shoulders squared, chin lifted, chest out, both hands loose at his sides, his eyes steady and calm as if he has just settled something in his own mind. Silver-blue moonlight on his white clothes, warm shadow behind, the forest quiet. Soft digital watercolour, vibrant textbook illustration style, 16:9. A narrow cream narrator bar runs along the bottom edge of the frame, lettered in Gujarati script with exactly this one line and nothing else: «'નથી કદી હું એકલો, સાથી મારે બાર !'»"
+        }
+       ],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": "",
+       "figures_of_speech": [],
+       "rhyme_scheme": {
+        "pattern": "બે પંક્તિની એક જોડ; બન્ને પંક્તિના છેડાના શબ્દ સરખા સંભળાય છે.",
+        "rhyming_words": [
+         "વિચાર — બાર"
+        ],
+        "note": "'વિચાર' ને 'બાર' બન્નેના છેડા સરખા સંભળાય છે. વિચાર પર પંક્તિ પૂરી થાય ને તરત 'બાર' આવે, એટલે બન્ને કાનમાં જોડાઈ જાય છે."
+       },
+       "shabdarth": [
+        {
+         "shabd": "હિંમત",
+         "arth": "ડર છોડીને મન મક્કમ કરવું તે",
+         "prakar": "આગત"
+        },
+        {
+         "shabd": "કદી",
+         "arth": "ક્યારેય",
+         "prakar": "તદ્ભવ"
+        },
+        {
+         "shabd": "સાથી",
+         "arth": "સાથે રહેનાર, ભેરુ",
+         "prakar": "તદ્ભવ"
+        },
+        {
+         "shabd": "મારે",
+         "arth": "મારી પાસે",
+         "prakar": "કાવ્ય-રૂપ"
+        },
+        {
+         "shabd": "વિચાર",
+         "arth": "મનમાં આવેલી વાત",
+         "prakar": "તત્સમ"
+        }
+       ],
+       "samanarthi": [
+        {
+         "shabd": "હિંમત",
+         "samanarthi": [
+          "હામ",
+          "બહાદુરી"
+         ]
+        },
+        {
+         "shabd": "સાથી",
+         "samanarthi": [
+          "ભેરુ",
+          "સંગાથી"
+         ]
+        }
+       ],
+       "vilom": [
+        {
+         "shabd": "હિંમત",
+         "vilom": "બીક"
+        }
+       ],
+       "vyakaran": [
+        {
+         "bindu": "વિરામચિહ્નો",
+         "udaharan": "'નથી કદી હું એકલો, સાથી મારે બાર !'",
+         "note": "આખી પંક્તિ એકવડા અવતરણચિહ્નમાં મુકાઈ છે, એટલે એ કોઈના પોતાના શબ્દો છે. છેડે ઉદ્ગારચિહ્ન છે, એટલે એ મક્કમ અવાજે કહેવાયેલી વાત છે."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "difficult_words": [
+    {
+     "word": "વાણિયો",
+     "meaning": "વેપાર કરનાર માણસ, વેપારી",
+     "example": "શેરીના નાકે બેસતા વાણિયો રોજ સવારે દુકાન ખોલે છે."
+    },
+    {
+     "word": "સમી સાંજ",
+     "meaning": "સાંજ ઢળવાની વેળા, દિવસ આથમવાનો વખત",
+     "example": "સમી સાંજે બા આંગણામાં દીવો મૂકે છે."
+    },
+    {
+     "word": "વાટ",
+     "meaning": "રસ્તો",
+     "example": "ખેતરે જવાની વાટ કૂવા પાસેથી નીકળે છે."
+    },
+    {
+     "word": "ચડિયો",
+     "meaning": "ચડ્યો; અહીં 'એ રસ્તે ચાલવા લાગ્યો'",
+     "example": "કવિતાના ગાનારા 'ચડ્યો'ને બદલે 'ચડિયો' બોલે છે."
+    },
+    {
+     "word": "ઉચાટ",
+     "meaning": "ચિંતા, ફિકર",
+     "example": "પરિણામ આવવાનું હોય તે દિવસે મનમાં ઉચાટ રહે છે."
+    },
+    {
+     "word": "હિંમત ધરવી",
+     "meaning": "ડર છોડીને મન મક્કમ કરવું",
+     "example": "પહેલી વાર સ્ટેજ પર બોલવા હિંમત ધરવી પડે છે."
+    },
+    {
+     "word": "કદી",
+     "meaning": "ક્યારેય",
+     "example": "એ કદી કોઈને ખાલી હાથે પાછો મોકલતો નથી."
+    }
+   ],
+   "overall_rhyme_scheme": "આખું કાવ્ય બબ્બે પંક્તિની જોડમાં ચાલે છે, ને દરેક જોડની બન્ને પંક્તિના છેડાના શબ્દ સરખા સંભળાય છે. ક્યાંય પાછી આવતી ટેક નથી — દરેક જોડ વારતાને એક ડગલું આગળ લઈ જાય છે. આ ભાગની જોડ છે નામ — ગામ, વાટ — ઉચાટ, વિચાર — બાર; મોટેથી બોલો તો કાનમાં ઝૂલો બેસે છે ને પંક્તિ યાદ રહી જાય છે."
+  },
+  {
+   "module_id": "M2",
+   "module_name": "ચોરો સામે ધૂળાની ટક્કર",
+   "segments": [
+    {
+     "segment_id": "M2.S3",
+     "segment_name": "ધમકી અને સામો જવાબ",
+     "topics": [
+      {
+       "topic_id": "M2.S3.T4",
+       "topic_name": "ઝાડીમાંથી ચમકેલા ચોર",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O4"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O4",
+         "legacy_id": "L4",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "ઝાડી સળવળતાં કેટલા ચોર સામે આવ્યા અને એમણે ધૂળા પાસે શી માગણી કરી તે એ પંક્તિઓમાંથી શોધીને કહેવું.",
+         "bloom_level": "Remember",
+         "home_topic_id": "M2.S3.T4",
+         "anchor": [
+          "M2.S3.T4.C4"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "એવે ઝાડી સળવળી, ચમક્યા ચોરો ચાર,\n'ખબરદાર ! જે હોય તે આપી દે આ વાર'",
+       "modified_chunk": "એ જ વખતે ઝાડી સળવળી, એટલે કે ઝાડ-ઝાંખરાં હાલ્યાં. એમાંથી ચાર ચોર અચાનક બહાર દેખાયા. તેઓ ધૂળાને ધમકી આપતાં પોકારે છે કે સાવધાન ! તારી પાસે જે કંઈ હોય તે અત્યારે જ આપી દે.",
+       "word_count": {
+        "original": 15
+       },
+       "key_terms": [
+        "એવે — 'એટલામાં, એ જ વખતે'; લય માટે વપરાયેલું ટૂંકું રૂપ છે.",
+        "ઝાડી — ઝાડ-ઝાંખરાંનું ગીચ ઝુંડ.",
+        "સળવળી — હાલી, ખખડી.",
+        "ચમક્યા — અચાનક બહાર દેખાયા.",
+        "ખબરદાર — 'સાવધાન !' — ધમકી આપતો પોકાર.",
+        "આ વાર — આ વખતે, અત્યારે જ."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "'એવે ઝાડી સળવળી' — એટલામાં ઝાડ-ઝાંખરાં હાલ્યાં, ને એમાંથી 'ચમક્યા ચોરો ચાર'. ચમક્યા એટલે અચાનક બહાર દેખાયા, ઝગમગ્યા નહિ. પહેલાં ઝાડી હાલી, પછી જ ચાર ચોર ઓચિંતા સામે આવ્યા. પછી એ ચોરો પોકારે છે : 'ખબરદાર ! જે હોય તે આપી દે આ વાર' — ખબરદાર એટલે સાવધાન, ને આ વાર એટલે આ વખતે, અત્યારે જ. બોલનારા ચોરો છે, ધૂળો નહિ. એ એકલો છે ને સામે ચાર જણ છે.",
+       "real_life_example": "સંતાકૂકડીમાં દાવ આપનારો શોધતો હોય ને તમે ઓટલા પાછળ સંતાયા હો. શ્વાસ રોકીને બેઠા હો, ને ચારે બાજુ સાવ શાંતિ હોય. અચાનક પાછળથી પાંદડાં ખખડે ને 'થપ્પો !'ની બૂમ પડે. છાતી એક ધબકારો ચૂકી જાય, ને પછી હસવું આવે. કાવ્યમાં ધૂળા સામે પણ ચાર ચોર બરાબર આમ જ ઓચિંતા આવી ઊભા. તમને છેલ્લે કઈ વાતે આવો ઓચિંતો ઝટકો લાગ્યો હતો ?",
+       "brief_summary": "ઝાડી સળવળે છે ને એમાંથી ચાર ચોર ઓચિંતા બહાર આવીને ધૂળાને ધમકી આપે છે.",
+       "summary": "ધૂળો જંગલમાં હતો ત્યાં ઝાડી સળવળી. એમાંથી ચાર ચોર અચાનક બહાર આવ્યા. એ ચોરો ધમકી આપીને કહે છે કે ધૂળા પાસે જે હોય તે અત્યારે જ આપી દે.",
+       "detailed_summary": "આ પંક્તિઓમાં ઘટના ઝડપથી પલટાય છે. પહેલાં 'એવે ઝાડી સળવળી' — ઝાડ-ઝાંખરાં હાલ્યાં. પછી 'ચમક્યા ચોરો ચાર', એટલે ચાર ચોર અચાનક બહાર દેખાયા. એ ચોરો પોકારે છે : 'ખબરદાર ! જે હોય તે આપી દે આ વાર'. ખબરદાર એટલે સાવધાન, ને 'આ વાર' એટલે આ વખતે, અત્યારે જ. ધમકી આપનારા ચોરો છે, ને સામે ધૂળો સાવ એકલો છે.",
+       "concept_bullets": [
+        "ઝાડી — ઝાડ-ઝાંખરાંનું ગીચ ઝુંડ.",
+        "સળવળી — હાલી, ખખડી.",
+        "ચમક્યા — અચાનક બહાર દેખાયા; ઝગમગ્યા એવો અર્થ અહીં નથી.",
+        "આ વાર — આ વખતે, અત્યારે જ."
+       ],
+       "important_points": [
+        "ક્રમ — પહેલાં ઝાડી હાલી, પછી ચોર દેખાયા.",
+        "સંખ્યા — ચોર ચાર છે.",
+        "બોલનાર — ધમકી ચોરો આપે છે, ધૂળો નહિ.",
+        "માગણી — જે હોય તે અત્યારે જ આપી દેવાનું કહે છે."
+       ],
+       "recall_questions": [
+        {
+         "id": "M2.S3.T4.RQ1",
+         "legacy_id": "M2.S3.T4.TR1",
+         "prompt": "ઝાડીમાંથી કોણ બહાર આવ્યું, ને કેટલા જણ હતા ?",
+         "answer": "ઝાડીમાંથી ચોર બહાર આવ્યા. એ ચાર જણ હતા.",
+         "difficulty": "easy",
+         "bloom_level": "remember"
+        },
+        {
+         "id": "M2.S3.T4.RQ2",
+         "legacy_id": "M2.S3.T4.TR2",
+         "prompt": "આ પંક્તિઓમાં પહેલાં શું થયું ને પછી શું થયું ?",
+         "answer": "પહેલાં ઝાડી સળવળી, એટલે ઝાડ-ઝાંખરાં હાલ્યાં. પછી એમાંથી ચાર ચોર અચાનક બહાર આવ્યા.",
+         "difficulty": "easy",
+         "bloom_level": "understand"
+        },
+        {
+         "id": "M2.S3.T4.RQ3",
+         "legacy_id": "M2.S3.T4.TR3",
+         "prompt": "'ખબરદાર ! જે હોય તે આપી દે આ વાર' — આ કોણ બોલે છે, ને એનો અર્થ શો ?",
+         "answer": "આ ચોરો બોલે છે. એનો અર્થ થાય — સાવધાન, તારી પાસે જે હોય તે અત્યારે જ આપી દે.",
+         "difficulty": "medium",
+         "bloom_level": "analyze"
+        }
+       ],
+       "estimated_exchanges": "4",
+       "concepts": [
+        {
+         "concept_id": "M2.S3.T4.C4",
+         "concept_name": "ચોરોની ધમકી",
+         "objective_id": "O4",
+         "key_terms": [],
+         "content": [
+          {
+           "type": "paragraph",
+           "text": "જંગલમાં ચાલતા ધૂળા સામે ઓચિંતી આફત આવે છે. પહેલાં ઝાડી સળવળે છે, એટલે ઝાડ-ઝાંખરાં હાલે છે. પછી એમાંથી ચાર ચોર અચાનક બહાર દેખાય છે ને ધમકી આપે છે કે 'આ વાર', એટલે અત્યારે જ, જે હોય તે આપી દે.",
+           "publication_text": ""
+          },
+          {
+           "type": "list",
+           "items": [
+            "શું હાલ્યું — ઝાડી, એટલે ઝાડ-ઝાંખરાંનું ગીચ ઝુંડ.",
+            "કોણ નીકળ્યા — ચાર ચોર, અચાનક.",
+            "શું કહ્યું — જે હોય તે અત્યારે જ આપી દે."
+           ]
+          }
+         ]
+        }
+       ],
+       "media": [
+        {
+         "concept_id": "M2.S3.T4.C4",
+         "id": "M2.S3.T4.C4.IMG1",
+         "type": "image",
+         "subtype": "illustration",
+         "title": "ઝાડી સળવળી ને ચાર ચોર",
+         "description": "ગીચ ઝાડી હાલે છે ને ચાર ચોર એકસાથે બહાર નીકળીને ધૂળાને ઘેરી વળે છે.",
+         "image_url": "",
+         "aspect_ratio": "16:9",
+         "home_concept_id": "M2.S3.T4.C4",
+         "objective_id": null,
+         "image_category": "illustration",
+         "teaching_notes": "ચિત્ર બને ત્યાં સુધી એક બાળક પાસે ઝાડીનો સળવળાટ ને બીજા પાસે 'ખબરદાર !' બોલાવો; પછી પૂછો કે આ વાક્ય કોણ બોલે છે — પંક્તિમાં કોઈ નામ લખ્યું નથી તે બતાવો.",
+         "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motorbikes, electric poles, wristwatches, motivational poster layout, text banner with a moral, multi-panel comic grid, speech balloons, numerals or digits in any lettering, caste or community markers on any figure, swords knives or firearms, blood or wounds, thieves running away, any victory pose or celebration, any counted chart or diagram of twelve companions, brass weights laid out as a numbered tally",
+         "generation_prompt": "Night on a stony forest track in dry Gujarati scrub, thorn bushes crowding both sides, moonlight falling in patches. A dense thicket on the left is parting, its branches still swinging, as four men step out of it and close in a loose half-circle around a lone traveller on the path. The four thieves are lean bare-chested young men in dusty knee-length dhotis with plain cotton head-cloths, bare-handed and carrying no weapons of any kind, with no community, caste or tribal markings on them. The nearest one has stopped a stride away with his palm thrust out and his mouth open in a shout; the second is coming through the bushes; two more stand behind them at the edge of the moonlight. Dhulo is a lean middle-aged Gujarati trader: dark skin, a grey-flecked moustache, a plain white cotton kediyu and dhoti, a small red-and-white checked turban, worn leather mojdi sandals, and a bulging brown jute sack slung over his right shoulder. He has swung round to face them, both hands closed on the sack, feet planted, startled but not cowering. Cold moonlight, sharp shadows, high tension. Soft digital watercolour, vibrant textbook illustration style, 16:9. A narrow cream narrator bar runs along the bottom edge of the frame, lettered in Gujarati script with exactly this one line and nothing else: «'ખબરદાર ! જે હોય તે આપી દે આ વાર'»"
+        }
+       ],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": "",
+       "figures_of_speech": [],
+       "rhyme_scheme": {
+        "pattern": "બે પંક્તિની એક જોડ; બન્ને પંક્તિના છેડાના શબ્દ સરખા સંભળાય છે.",
+        "rhyming_words": [
+         "ચાર — વાર"
+        ],
+        "note": "'ચાર' ને 'વાર' બન્નેના છેડા સરખા સંભળાય છે. ધમકી ટૂંકી ને ઝડપી લાગે એમાં આ સરખો અવાજ મદદ કરે છે."
+       },
+       "shabdarth": [
+        {
+         "shabd": "એવે",
+         "arth": "એટલામાં, એ જ વખતે",
+         "prakar": "કાવ્ય-રૂપ"
+        },
+        {
+         "shabd": "ઝાડી",
+         "arth": "ઝાડ-ઝાંખરાંનું ગીચ ઝુંડ",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "સળવળી",
+         "arth": "હાલી, ખખડી",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "ચમક્યા",
+         "arth": "અચાનક બહાર દેખાયા",
+         "prakar": "તદ્ભવ"
+        },
+        {
+         "shabd": "ખબરદાર",
+         "arth": "સાવધાન; ધમકી આપતો પોકાર",
+         "prakar": "આગત"
+        }
+       ],
+       "samanarthi": [
+        {
+         "shabd": "વાર",
+         "samanarthi": [
+          "વખત",
+          "વેળા"
+         ]
+        }
+       ],
+       "vilom": [],
+       "vyakaran": [
+        {
+         "bindu": "જોડાક્ષર",
+         "udaharan": "એવે ઝાડી સળવળી, ચમક્યા ચોરો ચાર,",
+         "note": "'ચમક્યા' શબ્દમાં ક્ અને ય ભેગા થઈને 'ક્ય' જોડાક્ષર બન્યો છે. જોડાક્ષર છૂટો પાડીને બોલી જુઓ — ચ + મ + ક્ + યા."
+        }
+       ]
+      },
+      {
+       "topic_id": "M2.S3.T5",
+       "topic_name": "બાર જણા સાથે હોવાનો જવાબ",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [
+        "M1.S2.T3"
+       ],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O5"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O5",
+         "legacy_id": "L5",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "એકલો હોવા છતાં ધૂળાએ ચોરોને 'નથી હું એક, બાર જણા લઈ નીકળ્યો' એમ કેમ કહ્યું હશે તે વિચારીને પોતાના શબ્દોમાં કહેવું.",
+         "bloom_level": "Analyze",
+         "home_topic_id": "M2.S3.T5",
+         "anchor": [
+          "M2.S3.T5.C5"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "કહે ધૂળો એ ચોરને : 'અલ્યા, નથી હું એક,\nબાર જણા લઈ નીકળ્યો, કરજો કાંક વિવેક !'",
+       "modified_chunk": "ધૂળો ચોરોને સામો જવાબ આપે છે. એ કહે છે કે અરે, હું એકલો નથી. મારી સાથે બાર જણ છે એમ કહીને એ ચોરોને ચેતવે છે કે થોડો વિવેક રાખજો — વિવેક એટલે સમજપૂર્વકનું, મર્યાદાવાળું વર્તન.",
+       "word_count": {
+        "original": 17
+       },
+       "key_terms": [
+        "અલ્યા — 'અરે !'; સામેવાળાને બોલાવવાનો બોલચાલનો શબ્દ.",
+        "જણા — માણસો, વ્યક્તિઓ.",
+        "કાંક — 'કંઈક'; તળપદો શબ્દ છે.",
+        "વિવેક — સમજપૂર્વકનું વર્તન, મર્યાદા.",
+        "કરજો — 'કરો' કહેવાની આદરવાળી રીત."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "'કહે ધૂળો એ ચોરને' — હવે બોલનારો ધૂળો છે, ને એ ચોરોને જ કહે છે. એ કહે છે 'અલ્યા, નથી હું એક' — અલ્યા એટલે અરે, સામેવાળાને બોલાવવાનો બોલચાલનો શબ્દ. પછી કહે છે 'બાર જણા લઈ નીકળ્યો, કરજો કાંક વિવેક !' કાંક એટલે કંઈક, ને વિવેક એટલે સમજ ને મર્યાદા — એ કોઈ માણસનું નામ નથી. એટલે વાત થાય : થોડી સમજ રાખજો. એકલો ધૂળો આ જવાબ ડર્યા વગર આપે છે.",
+       "real_life_example": "ઉત્તરાયણે ધાબા પર તમે એકલા હો ને સામેના ધાબે ચાર-પાંચ જણ પતંગ લઈને ઊભા હોય. એ લોકો બૂમ પાડે — 'લે, પેચ લડાવ !' અંદરથી થોડું ધડકે, પણ તમે દોર બરાબર પકડીને મોટા અવાજે સામે જવાબ આપો છો. હાથ ઢીલો પડતો નથી, ને અવાજ પણ નહિ. ધૂળો પણ ચાર ચોર સામે અવાજ મક્કમ રાખીને જ બોલે છે. તમે એકલા હો ને સામે ઘણા હોય, ત્યારે શું કરો ?",
+       "brief_summary": "ધૂળો ચોરોને ડર્યા વગર કહે છે કે એ એકલો નથી, બાર જણા લઈને નીકળ્યો છે.",
+       "summary": "ધમકી સાંભળીને ધૂળો ચૂપ રહેતો નથી. એ ચોરોને જ સામો જવાબ આપે છે કે એ એકલો નથી ને બાર જણા લઈને નીકળ્યો છે. સાથે એ કહે છે કે થોડી સમજ ને મર્યાદા રાખજો.",
+       "detailed_summary": "અહીં પહેલી વાર ધૂળો મોટેથી બોલે છે. 'કહે ધૂળો એ ચોરને' — એ ચોરોને જ સંભળાવે છે. એનો જવાબ છે : 'અલ્યા, નથી હું એક, બાર જણા લઈ નીકળ્યો, કરજો કાંક વિવેક !' અલ્યા એટલે અરે, ને કાંક એટલે કંઈક. વિવેક એટલે સમજપૂર્વકનું, મર્યાદાવાળું વર્તન — એ કોઈ માણસનું નામ નથી. એકલો હોવા છતાં એ પોતાની સાથે બાર જણા હોવાનું કહે છે.",
+       "concept_bullets": [
+        "અલ્યા — 'અરે !'; સામેવાળાને બોલાવવાનો બોલચાલનો શબ્દ.",
+        "કાંક — 'કંઈક'; આ તળપદો શબ્દ છે, ભૂલ નથી.",
+        "વિવેક — સમજપૂર્વકનું, મર્યાદાવાળું વર્તન; માણસનું નામ નહિ.",
+        "જણા — માણસો, વ્યક્તિઓ."
+       ],
+       "important_points": [
+        "બોલનાર — આ વખતે ધૂળો બોલે છે.",
+        "કોને — ચોરોને જ, બીજા કોઈને નહિ.",
+        "શું કહ્યું — હું એકલો નથી, બાર જણા સાથે લઈને નીકળ્યો છું.",
+        "કેવી રીતે — ડર્યા વગર, મક્કમ અવાજે."
+       ],
+       "recall_questions": [
+        {
+         "id": "M2.S3.T5.RQ1",
+         "legacy_id": "M2.S3.T5.TR1",
+         "prompt": "આ પંક્તિઓમાં કોણ બોલે છે, ને કોને કહે છે ? કઈ પંક્તિ પરથી કહો છો ?",
+         "answer": "ધૂળો બોલે છે ને ચોરોને કહે છે. 'કહે ધૂળો એ ચોરને' પંક્તિ પરથી એ ખબર પડે છે.",
+         "difficulty": "easy",
+         "bloom_level": "remember"
+        },
+        {
+         "id": "M2.S3.T5.RQ2",
+         "legacy_id": "M2.S3.T5.TR2",
+         "prompt": "'કરજો કાંક વિવેક !' — આ વાક્યનો અર્થ સાદી ગુજરાતીમાં કહો.",
+         "answer": "એનો અર્થ થાય — થોડી સમજ રાખજો, થોડી મર્યાદા રાખજો. 'વિવેક' અહીં કોઈ માણસનું નામ નથી.",
+         "difficulty": "medium",
+         "bloom_level": "understand"
+        },
+        {
+         "id": "M2.S3.T5.RQ3",
+         "legacy_id": "M2.S3.T5.TR3",
+         "prompt": "ધૂળો ખરેખર એકલો હતો. તો પણ એણે ચોરોને એવો જવાબ કેમ આપ્યો હશે ? તમારા શબ્દોમાં કહો.",
+         "answer": "એ ડરી જવા માગતો નહોતો. ચોરો સામે નબળો ન દેખાય એટલે એણે મક્કમ અવાજે કહ્યું કે એ એકલો નથી. પોતાની સાથે બાર જણા છે એમ કહીને એ ચોરોને થોભાવવા માગે છે.",
+         "difficulty": "hard",
+         "bloom_level": "analyze"
+        }
+       ],
+       "estimated_exchanges": "5",
+       "concepts": [
+        {
+         "concept_id": "M2.S3.T5.C5",
+         "concept_name": "ધૂળાનો હિંમતભર્યો જવાબ",
+         "objective_id": "O5",
+         "key_terms": [],
+         "content": [
+          {
+           "type": "paragraph",
+           "text": "ધમકી પછી ધૂળાનો જવાબ આવે છે. 'કહે ધૂળો એ ચોરને' પરથી ખબર પડે છે કે હવે બોલનારો ધૂળો છે. એ કહે છે કે પોતે એકલો નથી, બાર જણા લઈને નીકળ્યો છે, અને સામેવાળાએ થોડી સમજ ને મર્યાદા રાખવી.",
+           "publication_text": ""
+          },
+          {
+           "type": "list",
+           "items": [
+            "કોણ બોલે છે — ધૂળો.",
+            "કોને કહે છે — ચોરોને.",
+            "શું કહે છે — હું એક નથી, બાર જણા સાથે છે."
+           ]
+          }
+         ]
+        }
+       ],
+       "media": [
+        {
+         "concept_id": "M2.S3.T5.C5",
+         "id": "M2.S3.T5.C5.IMG1",
+         "type": "image",
+         "subtype": "illustration",
+         "title": "સામો જવાબ આપતો ધૂળો",
+         "description": "ચાર ચોરની સામે એક ડગલું આગળ મૂકી, હથેળી ઊંચી કરીને ધૂળો સ્વસ્થતાથી કંઈક કહી રહ્યો છે.",
+         "image_url": "",
+         "aspect_ratio": "16:9",
+         "home_concept_id": "M2.S3.T5.C5",
+         "objective_id": null,
+         "image_category": "illustration",
+         "teaching_notes": "આ ઘડીએ વર્ગને પૂછો — ધૂળાનો અવાજ ધીમો હશે કે મક્કમ ? બે-ત્રણ બાળકો પાસે જુદી જુદી રીતે બોલાવી જુઓ કે કઈ રીતે બોલ્યે ચોર થોભે.",
+         "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motorbikes, electric poles, wristwatches, motivational poster layout, text banner with a moral, multi-panel comic grid, speech balloons, numerals or digits in any lettering, caste or community markers on any figure, swords knives or firearms, blood or wounds, thieves running away, any victory pose or celebration, any counted chart or diagram of twelve companions, brass weights laid out as a numbered tally, extra companions or helpers standing with the traveller",
+         "generation_prompt": "Night on a stony forest track in dry Gujarati scrub, four men standing in a loose half-circle around a lone traveller, thorn bushes and moonlight patches all round. The four thieves are lean bare-chested young men in dusty knee-length dhotis with plain cotton head-cloths, bare-handed and carrying no weapons of any kind, with no community, caste or tribal markings on them. They are listening: the nearest has checked his step and leans back slightly, another glances sideways at his companion, a third frowns. Dhulo is a lean middle-aged Gujarati trader: dark skin, a grey-flecked moustache, a plain white cotton kediyu and dhoti, a small red-and-white checked turban, worn leather mojdi sandals, and a bulging brown jute sack slung over his right shoulder. He has taken one small step toward them instead of back, the sack still on his shoulder, his free palm raised open and steady at chest height, mouth open in mid-sentence, his face unafraid and almost amused. Cold moonlight on white cotton, the balance of the moment tipping. Soft digital watercolour, vibrant textbook illustration style, 16:9. A narrow cream narrator bar runs along the bottom edge of the frame, lettered in Gujarati script with exactly this one line and nothing else: «બાર જણા લઈ નીકળ્યો, કરજો કાંક વિવેક !»"
+        }
+       ],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": "",
+       "figures_of_speech": [],
+       "rhyme_scheme": {
+        "pattern": "બે પંક્તિની એક જોડ; બન્ને પંક્તિના છેડાના શબ્દ સરખા સંભળાય છે.",
+        "rhyming_words": [
+         "એક — વિવેક"
+        ],
+        "note": "'એક' ને 'વિવેક' બન્નેના છેડા સરખા સંભળાય છે. 'હું એક નથી' ને 'વિવેક રાખજો' એક જ અવાજે પૂરાં થાય છે, એટલે જવાબ વધુ કડક લાગે છે."
+       },
+       "shabdarth": [
+        {
+         "shabd": "અલ્યા",
+         "arth": "અરે; સામેવાળાને બોલાવવાનો બોલચાલનો શબ્દ",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "જણા",
+         "arth": "માણસો, વ્યક્તિઓ",
+         "prakar": "તદ્ભવ"
+        },
+        {
+         "shabd": "કાંક",
+         "arth": "કંઈક",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "વિવેક",
+         "arth": "સમજપૂર્વકનું, મર્યાદાવાળું વર્તન",
+         "prakar": "તત્સમ"
+        },
+        {
+         "shabd": "કરજો",
+         "arth": "કરો; આદર સાથે કહેવાની રીત",
+         "prakar": "તદ્ભવ"
+        }
+       ],
+       "samanarthi": [
+        {
+         "shabd": "જણા",
+         "samanarthi": [
+          "માણસો",
+          "વ્યક્તિઓ"
+         ]
+        },
+        {
+         "shabd": "વિવેક",
+         "samanarthi": [
+          "સમજ",
+          "મર્યાદા"
+         ]
+        }
+       ],
+       "vilom": [],
+       "vyakaran": [
+        {
+         "bindu": "વિરામચિહ્નો",
+         "udaharan": "'અલ્યા, નથી હું એક,",
+         "note": "'અલ્યા' પછી અલ્પવિરામ મુકાયો છે. સામેવાળાને બોલાવીએ ત્યારે એ શબ્દ પછી અલ્પવિરામ આવે છે — વાંચતી વખતે ત્યાં જરાક થોભવાનું."
+        }
+       ]
+      },
+      {
+       "topic_id": "M2.S3.T6",
+       "topic_name": "ટોણો ને બે વિકરાળ ચોર",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [
+        "M2.S3.T5"
+       ],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O6"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O6",
+         "legacy_id": "L6",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "ધૂળાની વાત સાંભળીને ચોરોએ 'કાલે કરજે ટાયલી !' કહીને શું જતાવ્યું, અને પછી કેટલા ચોર ઊમટી આવ્યા તે કહેવું.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M2.S3.T6",
+         "anchor": [
+          "M2.S3.T6.C6"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "'કાલે કરજે ટાયલી ! આજે દઈ દે માલ !'\nએવું બોલી ઊમટ્યા ચોરો બે વિકરાળ !",
+       "modified_chunk": "ચોરો ધૂળાની વાત માનતા નથી. તેઓ ટોણો મારે છે કે ટાયલી, એટલે નકામી દોઢડહાપણવાળી વાત, કાલે કરજે; આજે તો માલ આપી દે. એટલું બોલીને એમાંના બે વિકરાળ ચોર ધૂળા પર તૂટી પડે છે. વિકરાળ એટલે ડરામણું.",
+       "word_count": {
+        "original": 16
+       },
+       "key_terms": [
+        "ટાયલી — નકામી ને દોઢડહાપણવાળી વાત.",
+        "માલ — સામાન, વસ્તુ; અહીં ધૂળા પાસેનો માલસામાન.",
+        "દઈ દે — આપી દે.",
+        "ઊમટ્યા — એકસાથે ધસી આવ્યા, તૂટી પડ્યા.",
+        "વિકરાળ — ડરામણું, ભયાનક."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "'કાલે કરજે ટાયલી ! આજે દઈ દે માલ !' — આ ચોરોનું બોલવું છે, ધૂળાનું નહિ. પછીની પંક્તિ 'એવું બોલી ઊમટ્યા' કહીને એ ખોલી આપે છે. ટાયલી કરવી એટલે નકામી દોઢડહાપણની વાત કરવી; ચોરો કહે છે — કાલે વાતો કરજે, આજે માલ આપી દે. પછી 'ચોરો બે વિકરાળ' ઊમટ્યા, એટલે બે જણ ધસી આવ્યા. વિકરાળ એટલે ડરામણું. ચોર તો ચાર જ છે — એમાંથી બે તૂટી પડે છે.",
+       "real_life_example": "રિસેસમાં તમે નવો દડો લઈને શેરીના ખૂણે રમતા હો. મોટા છોકરા આવીને કહે — 'બહુ ડાહ્યો ના થા, દડો આપી દે.' એ કહેતાં કહેતાં જ બેમાંથી બે જણ પાસે આવીને ઊભા રહી જાય. હાથ પરસેવે ભીના થાય ને દડો છાતીએ ચંપાય. ચોરો ધૂળા સામે બરાબર આવી જ રીતે બોલીને ધસી આવે છે. તમારી પાસેથી કોઈએ આમ કંઈ માગ્યું હોય એવું બન્યું છે ?",
+       "brief_summary": "ચોરો ધૂળાની વાત ઉડાવીને માલ માગે છે ને એમાંથી બે ચોર એના પર ધસી આવે છે.",
+       "summary": "ધૂળાની વાત સાંભળીને ચોરો એને ટોણો મારે છે. એ કહે છે કે નકામી વાતો કાલે કરજે, આજે તો માલ આપી દે. એટલું બોલીને ચાર ચોરમાંથી બે ધૂળા પર ધસી આવે છે.",
+       "detailed_summary": "ધૂળાનો જવાબ સાંભળીને ચોરો માનતા નથી. એ ટોણો મારે છે : 'કાલે કરજે ટાયલી ! આજે દઈ દે માલ !' ટાયલી કરવી એટલે નકામી દોઢડહાપણની વાત કરવી. બોલનારા ચોરો છે — 'એવું બોલી ઊમટ્યા' પંક્તિ એ સ્પષ્ટ કરે છે. પછી 'ચોરો બે વિકરાળ' ઊમટ્યા, એટલે એમાંથી બે જણ એકસાથે ધસી આવ્યા. ચોર કુલ ચાર જ છે; નવા ચોર ઉમેરાયા નથી.",
+       "concept_bullets": [
+        "ટાયલી કરવી — નકામી દોઢડહાપણની વાત કરવી.",
+        "માલ — સામાન, વસ્તુ; અહીં ધૂળા પાસેનો માલસામાન.",
+        "ઊમટ્યા — એકસાથે ધસી આવ્યા, તૂટી પડ્યા.",
+        "વિકરાળ — ડરામણું."
+       ],
+       "important_points": [
+        "બોલનાર — ટોણો ચોરો મારે છે, ધૂળો નહિ.",
+        "ગણતરી — ચોર કુલ ચાર; એમાંથી બે ધસી આવે છે.",
+        "માગણી — વાતો બંધ કરીને માલ આપી દેવાનું કહે છે.",
+        "ઝડપ — બોલવાનું ને ધસવાનું બન્ને એકસાથે થાય છે."
+       ],
+       "recall_questions": [
+        {
+         "id": "M2.S3.T6.RQ1",
+         "legacy_id": "M2.S3.T6.TR1",
+         "prompt": "'કાલે કરજે ટાયલી ! આજે દઈ દે માલ !' — આ કોણ બોલે છે ?",
+         "answer": "આ ચોરો બોલે છે. પછીની પંક્તિ 'એવું બોલી ઊમટ્યા ચોરો બે વિકરાળ !' પરથી એ ખબર પડે છે.",
+         "difficulty": "easy",
+         "bloom_level": "remember"
+        },
+        {
+         "id": "M2.S3.T6.RQ2",
+         "legacy_id": "M2.S3.T6.TR2",
+         "prompt": "ચોર કુલ કેટલા હતા ? એમાંથી કેટલા ધૂળા પર ધસી આવ્યા ?",
+         "answer": "ચોર કુલ ચાર હતા. એમાંથી બે ધૂળા પર ધસી આવ્યા. નવા ચોર ઉમેરાયા નથી.",
+         "difficulty": "medium",
+         "bloom_level": "understand"
+        },
+        {
+         "id": "M2.S3.T6.RQ3",
+         "legacy_id": "M2.S3.T6.TR3",
+         "prompt": "'ટાયલી કરવી' એટલે શું ? ચોરો ધૂળાને એમ કેમ કહે છે ?",
+         "answer": "ટાયલી કરવી એટલે નકામી દોઢડહાપણની વાત કરવી. ધૂળાની 'બાર જણા'વાળી વાત ચોરોને નકામી લાગે છે, એટલે એ કહે છે કે એવી વાતો કાલે કરજે.",
+         "difficulty": "medium",
+         "bloom_level": "analyze"
+        }
+       ],
+       "estimated_exchanges": "4",
+       "concepts": [
+        {
+         "concept_id": "M2.S3.T6.C6",
+         "concept_name": "ચોરોનું મહેણું ને હુમલો",
+         "objective_id": "O6",
+         "key_terms": [],
+         "content": [
+          {
+           "type": "paragraph",
+           "text": "ધૂળાના જવાબની ચોરો પર અસર થતી નથી. એ ટોણો મારીને કહે છે કે નકામી વાતો કાલે કરજે ને આજે માલ આપી દે. એટલું બોલીને ચાર ચોરમાંથી બે જણ એકસાથે ધૂળા પર ધસી આવે છે.",
+           "publication_text": ""
+          },
+          {
+           "type": "list",
+           "items": [
+            "કોણ બોલે છે — ચોરો.",
+            "શું કહે છે — વાતો બંધ કર, માલ આપી દે.",
+            "કેટલા ધસી આવે છે — ચારમાંથી બે."
+           ]
+          }
+         ]
+        }
+       ],
+       "media": [
+        {
+         "concept_id": "M2.S3.T6.C6",
+         "id": "M2.S3.T6.C6.IMG1",
+         "type": "image",
+         "subtype": "illustration",
+         "title": "ટોણો ને બે વિકરાળ ચોર",
+         "description": "મશ્કરી કરતાં બે ચોર એકસાથે ધૂળા તરફ ધસી આવે છે ને બાકીના બે પાછળ જ ઊભા છે.",
+         "image_url": "",
+         "aspect_ratio": "16:9",
+         "home_concept_id": "M2.S3.T6.C6",
+         "objective_id": null,
+         "image_category": "illustration",
+         "teaching_notes": "બે જૂથ પાડીને પહેલી પંક્તિ ચોરના અવાજે અને બીજી પંક્તિ કહેનારના અવાજે બોલાવો; 'ટાયલી કરવી'નો અર્થ અહીં જ ખોલો.",
+         "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motorbikes, electric poles, wristwatches, motivational poster layout, text banner with a moral, multi-panel comic grid, speech balloons, numerals or digits in any lettering, caste or community markers on any figure, swords knives or firearms, blood or wounds, thieves running away, any victory pose or celebration, any counted chart or diagram of twelve companions, brass weights laid out as a numbered tally, gory violence, glorified combat stance, martial-arts choreography",
+         "generation_prompt": "Night on a stony forest track in dry Gujarati scrub, moonlight in patches, thorn bushes close on both sides. Two young men have just launched themselves forward at a lone traveller, one of them jeering with his head thrown back and both arms flung out, the other lunging low with grabbing hands; two more of their companions stay back near the bushes, watching. The four thieves are lean bare-chested young men in dusty knee-length dhotis with plain cotton head-cloths, bare-handed and carrying no weapons of any kind, with no community, caste or tribal markings on them. Dhulo is a lean middle-aged Gujarati trader: dark skin, a grey-flecked moustache, a plain white cotton kediyu and dhoti, a small red-and-white checked turban, worn leather mojdi sandals, and a bulging brown jute sack slung over his right shoulder. He is braced side-on with his knees bent, swinging the heavy jute sack up off his shoulder and back behind him, jaw set. Dust kicking up off the stones, cloth and dhoti-ends flying, cold moonlight, lively adventure energy rather than brutality. Soft digital watercolour, vibrant textbook illustration style, 16:9. A narrow cream narrator bar runs along the bottom edge of the frame, lettered in Gujarati script with exactly this one line and nothing else: «'કાલે કરજે ટાયલી ! આજે દઈ દે માલ !'»"
+        }
+       ],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": "",
+       "figures_of_speech": [],
+       "rhyme_scheme": {
+        "pattern": "બે પંક્તિની એક જોડ; બન્ને પંક્તિના છેડાના શબ્દ સરખા સંભળાય છે.",
+        "rhyming_words": [
+         "માલ — વિકરાળ"
+        ],
+        "note": "'માલ' ને 'વિકરાળ' કાનને સરખા લાગે છે, પણ લખવામાં એકમાં 'લ' છે ને બીજામાં 'ળ' — એટલે અવાજ પૂરેપૂરો સરખો નથી, છતાં ગાતી વખતે બેસી જાય છે."
+       },
+       "shabdarth": [
+        {
+         "shabd": "ટાયલી",
+         "arth": "નકામી ને દોઢડહાપણવાળી વાત",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "માલ",
+         "arth": "સામાન, વસ્તુ",
+         "prakar": "આગત"
+        },
+        {
+         "shabd": "ઊમટ્યા",
+         "arth": "એકસાથે ધસી આવ્યા, તૂટી પડ્યા",
+         "prakar": "તદ્ભવ"
+        },
+        {
+         "shabd": "વિકરાળ",
+         "arth": "ડરામણું",
+         "prakar": "તત્સમ"
+        },
+        {
+         "shabd": "કાલે",
+         "arth": "આવતી કાલે",
+         "prakar": "તદ્ભવ"
+        }
+       ],
+       "samanarthi": [
+        {
+         "shabd": "માલ",
+         "samanarthi": [
+          "સામાન",
+          "વસ્તુ"
+         ]
+        },
+        {
+         "shabd": "વિકરાળ",
+         "samanarthi": [
+          "ડરામણું",
+          "ભયાનક"
+         ]
+        }
+       ],
+       "vilom": [
+        {
+         "shabd": "કાલે",
+         "vilom": "આજે"
+        }
+       ],
+       "vyakaran": [
+        {
+         "bindu": "વાક્યના પ્રકારો",
+         "udaharan": "'કાલે કરજે ટાયલી ! આજે દઈ દે માલ !'",
+         "note": "બન્ને વાક્યના છેડે ઉદ્ગારચિહ્ન છે. અહીં એ મોટા અવાજે અપાયેલા હુકમનો ભાવ બતાવે છે — ધીમે બોલાયેલી વાત નથી."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M2.S4",
+     "segment_name": "કોથળા-કાટલાંનો જંગ",
+     "topics": [
+      {
+       "topic_id": "M2.S4.T7",
+       "topic_name": "કાટલાં ભરેલા કોથળાનો જંગ",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "hard",
+       "depends_on": [],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O7"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O7",
+         "legacy_id": "L7",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "કોથળામાં ભરેલાં કાટલાં ધૂળાએ કઈ રીતે વાપર્યાં, અને 'આવા દાવ' જોઈને ચોરોને શી નવાઈ લાગી તે પંક્તિઓ પરથી કહેવું.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M2.S4.T7",
+         "anchor": [
+          "M2.S4.T7.C7"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "ધૂળો કૂદ્યો, કોથળો વીંઝે સબોસબ !\nહતાં કોથળે કાટલાં, વાગે ધબોધબ,\nચોરો ખીજ્યા - એમના ધૂળો ખાળે ઘાવ,\nક્યાંથી રે ! આ વાણિયો શીખ્યો આવા દાવ ?",
+       "modified_chunk": "ધૂળો કૂદે છે અને પોતાનો કોથળો સબોસબ વીંઝે છે — સબોસબ એટલે ઉપરાછાપરી. કોથળામાં તોલવાનાં કાટલાં ભરેલાં હતાં, એટલે ચોરોને ધબોધબ વાગે છે. ચોરો ખિજાય છે, પણ એમના ઘા ધૂળો ખાળે છે, એટલે કે અટકાવી દે છે. ચોરોને નવાઈ લાગે છે કે આ વાણિયો આવા દાવ ક્યાંથી શીખ્યો હશે.",
+       "word_count": {
+        "original": 27
+       },
+       "key_terms": [
+        "કોથળો — સામાન ભરવાની મોટી થેલી.",
+        "કાટલું — વજન; અમુક નક્કી વજનનું તોલવાનું સાધન.",
+        "વીંઝે — જોરથી ઘુમાવીને મારે.",
+        "સબોસબ — ઉપરાછાપરી, એક પછી એક.",
+        "ખાળે — અટકાવે, રોકે.",
+        "દાવ — લડવાની આવડત, પેંતરો."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "'ધૂળો કૂદ્યો, કોથળો વીંઝે સબોસબ !' — વીંઝે એટલે જોરથી ઘુમાવે, ને સબોસબ એટલે ઉપરાછાપરી. કોથળામાં કાટલાં હતાં — કાટલું એટલે તોલવાનું વજન — એટલે 'વાગે ધબોધબ'. ચોરો ખિજાય છે ને ઘા કરે છે, પણ 'ધૂળો ખાળે ઘાવ'. ખાળે એટલે અટકાવે : ધૂળો માર ખાતો નથી, એ ઘા વચ્ચેથી જ રોકી લે છે. ચોરો નવાઈ પામીને પૂછે છે : 'આ વાણિયો શીખ્યો આવા દાવ ?' — નવાઈ આ એક માણસ વિશે છે.",
+       "real_life_example": "નવરાત્રિમાં રાસ રમતાં સામેવાળો દાંડિયો લઈને સામે આવે છે. એ મારે ને તમે તાલમાં જ સામો દાંડિયો અડાડો — ટક, ટક, ટક. હાથ જરાક મોડો પડે તો તાલ તૂટે, ને બરાબર પડે તો આખું કૂંડાળું સાથે ઝૂમે. જોનારાં કહે — 'આ છોકરું ક્યાં શીખ્યું ?' ધૂળો પણ ચોરોના ઘા આમ જ વખતસર ખાળી લે છે. તમે એવું શું ઝડપથી કરી શકો છો ?",
+       "brief_summary": "ધૂળો કાટલાં ભરેલો કોથળો વીંઝીને ચોરોના ઘા ખાળે છે ને ચોરો નવાઈ પામે છે.",
+       "summary": "ધૂળો કૂદીને પોતાનો કોથળો ઉપરાછાપરી ઘુમાવે છે. કોથળામાં તોલવાનાં કાટલાં હતાં, એટલે એ ધબોધબ વાગે છે. ચોરો ખિજાઈને ઘા કરે છે, પણ ધૂળો એ ઘા અટકાવી લે છે.",
+       "detailed_summary": "અહીં જંગ શરૂ થાય છે. 'ધૂળો કૂદ્યો, કોથળો વીંઝે સબોસબ !' — વીંઝવું એટલે જોરથી ઘુમાવવું, ને સબોસબ એટલે ઉપરાછાપરી. કોથળામાં કાટલાં એટલે કે તોલવાનાં વજન હતાં, એટલે એ 'વાગે ધબોધબ'. ધૂળા પાસે જે રોજનું હતું તે જ અહીં કામ લાગે છે. ચોરો ખિજાઈને ઘા કરે છે, પણ 'ધૂળો ખાળે ઘાવ' — એ ઘા અટકાવી લે છે. છેલ્લે ચોરો પોતે નવાઈ પામીને પૂછે છે કે આ માણસ આવા દાવ ક્યાંથી શીખ્યો.",
+       "concept_bullets": [
+        "કોથળો — સામાન ભરવાની મોટી થેલી.",
+        "કાટલું — વજન; અમુક નક્કી વજનનું તોલવાનું સાધન.",
+        "વીંઝે — જોરથી ઘુમાવે.",
+        "ખાળે — અટકાવે, રોકે; 'ઘા ખાય છે' એવો અર્થ નથી."
+       ],
+       "important_points": [
+        "હાથમાં જે હતું — ધૂળો પોતાનો કોથળો જ વાપરે છે.",
+        "અવાજ — સબોસબ ને ધબોધબ, બન્ને અવાજ પરથી બનેલા શબ્દ છે.",
+        "ધૂળો હારતો નથી — એ ચોરોના ઘા અટકાવી લે છે.",
+        "નવાઈ — ચોરો આ એક માણસની આવડત જોઈને ચકિત થાય છે."
+       ],
+       "recall_questions": [
+        {
+         "id": "M2.S4.T7.RQ1",
+         "legacy_id": "M2.S4.T7.TR1",
+         "prompt": "ધૂળાએ ચોરો સામે શું વાપર્યું ? એમાં શું ભરેલું હતું ?",
+         "answer": "એણે પોતાનો કોથળો વાપર્યો. કોથળામાં તોલવાનાં કાટલાં ભરેલાં હતાં.",
+         "difficulty": "easy",
+         "bloom_level": "remember"
+        },
+        {
+         "id": "M2.S4.T7.RQ2",
+         "legacy_id": "M2.S4.T7.TR2",
+         "prompt": "'એમના ધૂળો ખાળે ઘાવ' — આ પંક્તિનો અર્થ શો ? 'ખાળે' એટલે શું ?",
+         "answer": "'ખાળે' એટલે અટકાવે. પંક્તિનો અર્થ થાય — ચોરો ઘા કરે છે, પણ ધૂળો એ ઘા વચ્ચેથી જ રોકી લે છે. એ માર ખાતો નથી.",
+         "difficulty": "medium",
+         "bloom_level": "understand"
+        },
+        {
+         "id": "M2.S4.T7.RQ3",
+         "legacy_id": "M2.S4.T7.TR3",
+         "prompt": "'ક્યાંથી રે ! આ વાણિયો શીખ્યો આવા દાવ ?' — આ કોણ પૂછે છે, ને એમને શાની નવાઈ લાગી ?",
+         "answer": "આ ચોરો પૂછે છે. એમને એ વાતની નવાઈ લાગી કે ધૂળો આ રીતે એમના ઘા અટકાવી શકે છે ને સામનો કરી શકે છે.",
+         "difficulty": "hard",
+         "bloom_level": "analyze"
+        }
+       ],
+       "estimated_exchanges": "5",
+       "concepts": [
+        {
+         "concept_id": "M2.S4.T7.C7",
+         "concept_name": "કોથળા-કાટલાંથી કરેલો સામનો",
+         "objective_id": "O7",
+         "key_terms": [],
+         "content": [
+          {
+           "type": "paragraph",
+           "text": "ધૂળો કૂદીને પોતાનો કોથળો ઉપરાછાપરી ઘુમાવે છે. કોથળામાં તોલવાનાં કાટલાં ભરેલાં હતાં, એટલે એ ધબોધબ વાગે છે. ચોરો ખિજાઈને ઘા કરે છે, પણ ધૂળો એ ઘા અટકાવી લે છે — 'ખાળે' એટલે અટકાવે. ધૂળા પાસે જે રોજનું હતું તે જ અહીં કામ લાગે છે.",
+           "publication_text": ""
+          },
+          {
+           "type": "list",
+           "items": [
+            "શું વાપર્યું — કાટલાં ભરેલો પોતાનો કોથળો.",
+            "કેવી રીતે — કૂદીને, ઉપરાછાપરી ઘુમાવીને.",
+            "શું થયું — ચોરોના ઘા અટકી ગયા ને ચોરો નવાઈ પામ્યા."
+           ]
+          }
+         ]
+        }
+       ],
+       "media": [
+        {
+         "concept_id": "M2.S4.T7.C7",
+         "id": "M2.S4.T7.C7.IMG1",
+         "type": "image",
+         "subtype": "illustration",
+         "title": "સબોસબ વીંઝાતો કોથળો",
+         "description": "ધૂળો કૂદીને કાટલાંવાળો કોથળો ઘુમાવે છે ને ચોરો નવાઈ સાથે પાછા હટી જાય છે.",
+         "image_url": "",
+         "aspect_ratio": "16:9",
+         "home_concept_id": "M2.S4.T7.C7",
+         "objective_id": null,
+         "image_category": "illustration",
+         "teaching_notes": "'સબોસબ' ને 'ધબોધબ' મોઢેથી બોલાવીને અવાજ સંભળાવો, પણ વર્ગમાં કોઈ ખરેખર થેલી કે વસ્તુ વીંઝે નહીં — માત્ર અભિનય. પછી પૂછો કે ધૂળા પાસે લડવાની વસ્તુ ક્યાંથી નીકળી.",
+         "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motorbikes, electric poles, wristwatches, motivational poster layout, text banner with a moral, multi-panel comic grid, speech balloons, numerals or digits in any lettering, caste or community markers on any figure, swords knives or firearms, blood or wounds, thieves running away, any victory pose or celebration, any counted chart or diagram of twelve companions, brass weights laid out as a numbered tally, gory violence, glorified combat stance, martial-arts choreography",
+         "generation_prompt": "Night on a stony forest track in dry Gujarati scrub, moonlight in patches. A lone traveller is caught mid-leap, both feet off the ground, whirling a heavy brown jute sack out at the full stretch of his arm; the shapes of round brass trading weights bulge hard against the cloth of the swinging sack and one has slipped out and is tumbling through the air. Dhulo is a lean middle-aged Gujarati trader: dark skin, a grey-flecked moustache, a plain white cotton kediyu and dhoti, a small red-and-white checked turban, worn leather mojdi sandals, and a bulging brown jute sack slung over his right shoulder. Two young men are stumbling backwards away from the swing, arms up over their heads, eyes wide with astonishment rather than pain; two others behind them have frozen open-mouthed. The four thieves are lean bare-chested young men in dusty knee-length dhotis with plain cotton head-cloths, bare-handed and carrying no weapons of any kind, with no community, caste or tribal markings on them. Dust in the air, dhoti-ends and the sack's mouth flying, cold moonlight and warm ochre dust, lively action with no injury shown. Soft digital watercolour, vibrant textbook illustration style, 16:9. A narrow cream narrator bar runs along the bottom edge of the frame, lettered in Gujarati script with exactly this one line and nothing else: «ધૂળો કૂદ્યો, કોથળો વીંઝે સબોસબ !»"
+        }
+       ],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": "",
+       "figures_of_speech": [],
+       "rhyme_scheme": {
+        "pattern": "બે પ્રાસ-જોડ, એક પછી એક; દરેક જોડની બન્ને પંક્તિના છેડા સરખા સંભળાય છે.",
+        "rhyming_words": [
+         "સબોસબ — ધબોધબ",
+         "ઘાવ — દાવ"
+        ],
+        "note": "પહેલી જોડમાં અવાજવાળા બે શબ્દ સામસામે આવે છે, એટલે ધમાચકડી કાને પડે છે. બીજી જોડમાં 'ઘાવ' ને 'દાવ' સરખા સંભળાય છે, ને ચોરોની નવાઈ ત્યાં જ અટકે છે."
+       },
+       "shabdarth": [
+        {
+         "shabd": "કોથળો",
+         "arth": "સામાન ભરવાની મોટી થેલી",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "કાટલું",
+         "arth": "વજન; અમુક નક્કી વજનનું તોલવાનું સાધન",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "વીંઝે",
+         "arth": "જોરથી ઘુમાવે",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "ખાળે",
+         "arth": "અટકાવે, રોકે",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "દાવ",
+         "arth": "લડવાની આવડત, પેંતરો",
+         "prakar": "દેશ્ય"
+        }
+       ],
+       "samanarthi": [
+        {
+         "shabd": "કોથળો",
+         "samanarthi": [
+          "થેલો"
+         ]
+        },
+        {
+         "shabd": "દાવ",
+         "samanarthi": [
+          "પેંતરો",
+          "આવડત"
+         ]
+        }
+       ],
+       "vilom": [],
+       "vyakaran": [
+        {
+         "bindu": "દ્વિરુક્ત / રવાનુકારી શબ્દો",
+         "udaharan": "હતાં કોથળે કાટલાં, વાગે ધબોધબ,",
+         "note": "'સબોસબ' ને 'ધબોધબ' અવાજ પરથી બનેલા શબ્દ છે. બોલી જુઓ તો કાટલાં વાગવાનો અવાજ જ સંભળાય — એટલે વાંચતાં દૃશ્ય સંભળાય પણ છે."
+        }
+       ]
+      },
+      {
+       "topic_id": "M2.S4.T8",
+       "topic_name": "ધૂળાની લલકાર",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O8"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O8",
+         "legacy_id": "L8",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "આઘુંપાછું જોયા વિના જંગ ખેલતો ધૂળો 'હવે બતાવું રંગ !' કહે છે, એ પરથી એની હિંમત વિશે શું કહી શકાય તે તારવવું.",
+         "bloom_level": "Analyze",
+         "home_topic_id": "M2.S4.T8",
+         "anchor": [
+          "M2.S4.T8.C8"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "આઘુંપાછું ના જુએ, ધૂળો ખેલે જંગ,\nબોલે : 'હું નહિ એકલો, હવે બતાવું રંગ !'",
+       "modified_chunk": "ધૂળો હવે આઘુંપાછું જોયા વગર લડે છે. જંગ એટલે યુદ્ધ; એ જંગ ખેલી રહ્યો છે. લડતાં લડતાં એ લલકારે છે કે હું એકલો નથી, હવે તમને મારો રંગ બતાવું છું.",
+       "word_count": {
+        "original": 15
+       },
+       "key_terms": [
+        "આઘુંપાછું — આગળ-પાછળનું; આઘુંપાછું ના જુએ એટલે વિચાર કર્યા વગર મંડી પડે.",
+        "જંગ — યુદ્ધ, લડાઈ.",
+        "ખેલે — ખેલે છે, લડે છે.",
+        "નહિ — 'નથી'; કવિતામાં વપરાતું ટૂંકું રૂપ છે.",
+        "રંગ બતાવવો — પોતાની ખરી તાકાત ને આવડત દેખાડવી."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "'આઘુંપાછું ના જુએ, ધૂળો ખેલે જંગ' — આઘુંપાછું ના જોવું એટલે વિચાર કર્યા વગર મંડી પડવું, ને જંગ એટલે લડાઈ. લડતાં લડતાં એ મોટેથી બોલે છે : 'હું નહિ એકલો, હવે બતાવું રંગ !' અહીં 'નહિ' એટલે 'નથી' — ગાનારો આમ બોલે છે, એ ભૂલ નથી. ને 'રંગ બતાવવો' આખા શબ્દજૂથનો અર્થ છે પોતાની ખરી તાકાત ને આવડત દેખાડવી. એટલે એ કહે છે : હવે તમને ખબર પડશે કે હું શું કરી શકું છું.",
+       "real_life_example": "શેરીમાં દોરડા-કૂદમાં તમારો વારો આવે ને બધાં ગણવા માંડે. પગ થાકે, શ્વાસ ચડે, ને દોરડું ફેરવનારાં ઝડપ વધારતાં જાય. બાજુમાં ઊભેલાં કહે — 'હવે અટકી જશે.' તમે અટકવાને બદલે વધારે ટટ્ટાર થાઓ ને મોટેથી બોલો — 'હજી ગણો !' પછીના દરેક કૂદકે અવાજ મોટો થતો જાય. ધૂળો પણ લડતાં લડતાં આમ જ મોટેથી લલકારે છે. તમે ક્યારે 'હજી એક વાર' કહીને મંડ્યા રહ્યા હતા ?",
+       "brief_summary": "ધૂળો પાછું જોયા વગર જંગ ખેલે છે ને મોટેથી લલકારે છે કે એ એકલો નથી.",
+       "summary": "ધૂળો હવે આગળ-પાછળનો વિચાર કરતો નથી ને લડાઈમાં મંડી પડે છે. લડતાં લડતાં એ મોટેથી બોલે છે કે એ એકલો નથી. સાથે એ કહે છે કે હવે પોતાની ખરી આવડત દેખાડશે.",
+       "detailed_summary": "આ પંક્તિઓમાં ધૂળાનો જોશ સંભળાય છે. 'આઘુંપાછું ના જુએ, ધૂળો ખેલે જંગ' — એટલે એ વિચાર કર્યા વગર લડાઈમાં મંડી પડે છે. લડતાં લડતાં એ મોટેથી બોલે છે : 'હું નહિ એકલો, હવે બતાવું રંગ !' 'નહિ' એટલે 'નથી'; ગાનારો આમ બોલે છે, ને એ ભૂલ નથી. 'રંગ બતાવવો' એટલે પોતાની ખરી તાકાત ને આવડત દેખાડવી. બોલનારો ધૂળો પોતે છે, ને એ આ વાત ચોરોને સંભળાવે છે.",
+       "concept_bullets": [
+        "આઘુંપાછું ના જુએ — વિચાર કર્યા વગર મંડી પડે.",
+        "જંગ — યુદ્ધ, લડાઈ.",
+        "નહિ — 'નથી'; કવિતામાં વપરાતું ટૂંકું રૂપ છે.",
+        "રંગ બતાવવો — પોતાની ખરી તાકાત ને આવડત દેખાડવી."
+       ],
+       "important_points": [
+        "બોલનાર — આ લલકાર ધૂળાની છે.",
+        "કેવી રીતે — લડતાં લડતાં, મોટા અવાજે.",
+        "શબ્દજૂથ — 'રંગ બતાવવો' આખું સાથે લેવાનું; રંગ એટલે કલર નહિ.",
+        "ખુલાસો બાકી — એ એકલો કેમ નથી તે હજી કહેવાયું નથી."
+       ],
+       "recall_questions": [
+        {
+         "id": "M2.S4.T8.RQ1",
+         "legacy_id": "M2.S4.T8.TR1",
+         "prompt": "લડતાં લડતાં ધૂળો શું બોલે છે ? કાવ્યની પંક્તિ કહો.",
+         "answer": "એ બોલે છે — 'હું નહિ એકલો, હવે બતાવું રંગ !'",
+         "difficulty": "easy",
+         "bloom_level": "remember"
+        },
+        {
+         "id": "M2.S4.T8.RQ2",
+         "legacy_id": "M2.S4.T8.TR2",
+         "prompt": "'રંગ બતાવવો' એટલે શું ? અહીં રંગ એટલે કલર છે કે બીજું કંઈ ?",
+         "answer": "'રંગ બતાવવો' એટલે પોતાની ખરી તાકાત ને આવડત દેખાડવી. અહીં રંગ એટલે કલર નથી; આખું શબ્દજૂથ સાથે લેવાનું છે.",
+         "difficulty": "medium",
+         "bloom_level": "understand"
+        },
+        {
+         "id": "M2.S4.T8.RQ3",
+         "legacy_id": "M2.S4.T8.TR3",
+         "prompt": "'આઘુંપાછું ના જુએ' પરથી ધૂળાની હિંમત વિશે તમે શું કહી શકો ?",
+         "answer": "એ પરથી કહી શકાય કે ધૂળો ડગ્યા વગર સામનો કરે છે. એ પાછળ હટવાનું કે ભાગવાનું વિચારતો નથી, પણ મંડ્યો રહે છે.",
+         "difficulty": "hard",
+         "bloom_level": "analyze"
+        }
+       ],
+       "estimated_exchanges": "4",
+       "concepts": [
+        {
+         "concept_id": "M2.S4.T8.C8",
+         "concept_name": "ડગ્યા વિના ખેલાતો જંગ",
+         "objective_id": "O8",
+         "key_terms": [],
+         "content": [
+          {
+           "type": "paragraph",
+           "text": "ધૂળો હવે આગળ-પાછળનો વિચાર કરતો નથી ને લડાઈમાં મંડી પડે છે. લડતાં લડતાં એ મોટેથી લલકારે છે કે પોતે એકલો નથી ને હવે પોતાની ખરી આવડત દેખાડશે. 'રંગ બતાવવો' આખા શબ્દજૂથનો અર્થ એ જ છે.",
+           "publication_text": ""
+          },
+          {
+           "type": "list",
+           "items": [
+            "શું કરે છે — પાછું જોયા વગર જંગ ખેલે છે.",
+            "શું બોલે છે — 'હું નહિ એકલો, હવે બતાવું રંગ !'",
+            "કોને સંભળાવે છે — ચોરોને."
+           ]
+          }
+         ]
+        }
+       ],
+       "media": [
+        {
+         "concept_id": "M2.S4.T8.C8",
+         "id": "M2.S4.T8.C8.IMG1",
+         "type": "image",
+         "subtype": "illustration",
+         "title": "રંગ બતાવવાની લલકાર",
+         "description": "મેદાન વચ્ચે પગ જમાવીને ઊભેલો ધૂળો લલકારે છે ને ચોરો અંધારાની કોરે સાચવીને આંટા મારે છે.",
+         "image_url": "",
+         "aspect_ratio": "16:9",
+         "home_concept_id": "M2.S4.T8.C8",
+         "objective_id": null,
+         "image_category": "illustration",
+         "teaching_notes": "'જંગ ખેલવો' ને 'રંગ બતાવવો' — બંને રૂઢિપ્રયોગ ચિત્ર સામે રાખીને સમજાવો : આ હિંમતની વાત છે, મારવાની નહીં.",
+         "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motorbikes, electric poles, wristwatches, motivational poster layout, text banner with a moral, multi-panel comic grid, speech balloons, numerals or digits in any lettering, caste or community markers on any figure, swords knives or firearms, blood or wounds, thieves running away, any victory pose or celebration, any counted chart or diagram of twelve companions, brass weights laid out as a numbered tally, gory violence, glorified combat stance, martial-arts choreography",
+         "generation_prompt": "Night on a stony forest track in dry Gujarati scrub, thorn bushes ringing a small open patch of ground, hard moonlight in the middle and deep shadow at the edges. Dhulo is a lean middle-aged Gujarati trader: dark skin, a grey-flecked moustache, a plain white cotton kediyu and dhoti, a small red-and-white checked turban, worn leather mojdi sandals, and a bulging brown jute sack slung over his right shoulder. He stands planted square in the centre of the moonlit patch, feet apart, the heavy jute sack gripped low and ready at his side, his head up and mouth open in a loud call, his whole body confident and unhurried. The four thieves are lean bare-chested young men in dusty knee-length dhotis with plain cotton head-cloths, bare-handed and carrying no weapons of any kind, with no community, caste or tribal markings on them. They are circling him warily at the rim of the shadow, keeping their distance, one half-crouched, one looking sideways at another. Silver moonlight on white cotton, dust hanging in the air, a charged stand-off. Soft digital watercolour, vibrant textbook illustration style, 16:9. A narrow cream narrator bar runs along the bottom edge of the frame, lettered in Gujarati script with exactly this one line and nothing else: «'હું નહિ એકલો, હવે બતાવું રંગ !'»"
+        }
+       ],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": "",
+       "figures_of_speech": [],
+       "rhyme_scheme": {
+        "pattern": "બે પંક્તિની એક જોડ; બન્ને પંક્તિના છેડાના શબ્દ સરખા સંભળાય છે.",
+        "rhyming_words": [
+         "જંગ — રંગ"
+        ],
+        "note": "'જંગ' ને 'રંગ' બન્નેના છેડા સરખા સંભળાય છે. લડાઈ ને લલકાર એક જ અવાજે પૂરાં થાય છે, એટલે પંક્તિમાં જોશ સંભળાય છે."
+       },
+       "shabdarth": [
+        {
+         "shabd": "આઘુંપાછું",
+         "arth": "આગળ-પાછળનું; આઘુંપાછું ના જુએ એટલે વિચાર કર્યા વગર મંડી પડે",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "જંગ",
+         "arth": "યુદ્ધ, લડાઈ",
+         "prakar": "આગત"
+        },
+        {
+         "shabd": "ખેલે",
+         "arth": "ખેલે છે, લડે છે",
+         "prakar": "તદ્ભવ"
+        },
+        {
+         "shabd": "નહિ",
+         "arth": "નથી",
+         "prakar": "કાવ્ય-રૂપ"
+        },
+        {
+         "shabd": "રંગ બતાવવો",
+         "arth": "પોતાની ખરી તાકાત ને આવડત દેખાડવી",
+         "prakar": "દેશ્ય"
+        }
+       ],
+       "samanarthi": [
+        {
+         "shabd": "જંગ",
+         "samanarthi": [
+          "યુદ્ધ",
+          "લડાઈ"
+         ]
+        }
+       ],
+       "vilom": [],
+       "vyakaran": [
+        {
+         "bindu": "વિશેષણ",
+         "udaharan": "બોલે : 'હું નહિ એકલો, હવે બતાવું રંગ !'",
+         "note": "'એકલો' એ વિશેષણ છે ને એ ધૂળા વિશે કહેવાયું છે, એટલે 'એકલો' રૂપ આવ્યું. બહેન માટે 'એકલી' ને બાળક માટે 'એકલું' બોલાય — વિશેષણ સાથેના નામ પ્રમાણે બદલાય છે."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "difficult_words": [
+    {
+     "word": "ઝાડી",
+     "meaning": "ઝાડ-ઝાંખરાંનું ગીચ ઝુંડ",
+     "example": "દડો ઝાડીમાં પડ્યો એટલે શોધતાં વાર લાગી."
+    },
+    {
+     "word": "ચમક્યા",
+     "meaning": "અચાનક બહાર દેખાયા",
+     "example": "પડદા પાછળથી નાનો ભાઈ ચમક્યો ને બધા હસી પડ્યાં."
+    },
+    {
+     "word": "વિવેક",
+     "meaning": "સમજપૂર્વકનું, મર્યાદાવાળું વર્તન",
+     "example": "શિક્ષક વર્ગમાં આવે ત્યારે અમે ઊભા થઈને વિવેક બતાવીએ છીએ."
+    },
+    {
+     "word": "ટાયલી કરવી",
+     "meaning": "નકામી દોઢડહાપણની વાત કરવી",
+     "example": "કામ કરવાને બદલે એ આખો દિવસ ટાયલી કરતો રહ્યો."
+    },
+    {
+     "word": "વિકરાળ",
+     "meaning": "ડરામણું",
+     "example": "ચિત્રમાં દોરેલો રાક્ષસ સાવ વિકરાળ લાગતો હતો."
+    },
+    {
+     "word": "કાટલું",
+     "meaning": "વજન; અમુક નક્કી વજનનું તોલવાનું સાધન",
+     "example": "શાકવાળા ભાઈ ત્રાજવામાં કાટલું મૂકીને શાક તોલે છે."
+    },
+    {
+     "word": "ખાળે",
+     "meaning": "અટકાવે, રોકે",
+     "example": "દરવાજો બંધ કરીને એણે પાણીને ઓરડામાં આવતું ખાળ્યું."
+    },
+    {
+     "word": "રંગ બતાવવો",
+     "meaning": "પોતાની ખરી તાકાત ને આવડત દેખાડવી",
+     "example": "છેલ્લી મૅચમાં અમારી ટીમે સાચે જ રંગ બતાવ્યો."
+    }
+   ],
+   "overall_rhyme_scheme": "આ ભાગમાં પણ બબ્બે પંક્તિની જોડ જ ચાલે છે : ચાર — વાર, એક — વિવેક, માલ — વિકરાળ, સબોસબ — ધબોધબ, ઘાવ — દાવ, જંગ — રંગ. 'માલ' ને 'વિકરાળ' કાનને સરખા લાગે છે, પણ લખવામાં એકમાં 'લ' છે ને બીજામાં 'ળ' — એટલે અવાજ પૂરેપૂરો સરખો નથી. 'સબોસબ' ને 'ધબોધબ' અવાજ પરથી બનેલા શબ્દ છે, એટલે લડાઈની પંક્તિઓ સંભળાય પણ છે."
+  },
+  {
+   "module_id": "M3",
+   "module_name": "વળાંક અને છેલ્લો ખુલાસો",
+   "segments": [
+    {
+     "segment_id": "M3.S5",
+     "segment_name": "ચોરોની નાસભાગ ને ઘરવાપસી",
+     "topics": [
+      {
+       "topic_id": "M3.S5.T9",
+       "topic_name": "બીકે નાસી ગયેલા ચોર",
+       "topic_type": "POEM",
+       "topic_category": "climax",
+       "difficulty": "hard",
+       "depends_on": [
+        "M2.S3.T5"
+       ],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O9"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O9",
+         "legacy_id": "L9",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "ચોરોને શાની બીક લાગી અને તેઓ કેમ એકી સાથે નાસી ગયા તે કારણ સાથે કહીને, વારતા અહીં કેવો વળાંક લે છે તે તપાસવું.",
+         "bloom_level": "Analyze",
+         "home_topic_id": "M3.S5.T9",
+         "anchor": [
+          "M3.S5.T9.C9"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "ચોરો ચોંક્યા, એકમાં હોય આટલું જોર,\nબાર જણા જો છૂટશે, થશે આપણી ઘોર !\nએમ વિચારી બી ગયા, નાઠા એકી સાથ,\nધૂળો હરખ્યો : વાહ ! મેં ઠીક બતાવ્યો હાથ !",
+       "modified_chunk": "ચોરો ચોંકી ઊઠે છે કે એક જ માણસમાં આટલું જોર છે. તેઓ વિચારે છે કે બાર જણ છૂટશે તો આપણી ઘોર થશે, એટલે કે આપણું આવી બનશે. એમ વિચારીને તેઓ બી જાય છે અને એકી સાથે નાસી જાય છે. ધૂળો હરખાય છે — હરખવું એટલે રાજી થવું.",
+       "word_count": {
+        "original": 31
+       },
+       "key_terms": [
+        "ચોંક્યા — ચમકી ગયા, અચાનક નવાઈ પામ્યા.",
+        "જોર — તાકાત, બળ.",
+        "છૂટશે — છૂટા થઈને સામે આવશે.",
+        "ઘોર — 'આપણી ઘોર થશે' એટલે આપણું આવી બનશે, ખરાબ હાલ થશે.",
+        "નાઠા — નાસી ગયા, ભાગી છૂટ્યા.",
+        "હરખ્યો — રાજી થયો, હરખ પામ્યો."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "'ચોરો ચોંક્યા, એકમાં હોય આટલું જોર' — ચોંક્યા એટલે ચમકી ગયા. અહીં આખી વાત પલટાય છે. પછી એ મનમાં વિચારે છે : 'બાર જણા જો છૂટશે, થશે આપણી ઘોર !' આપણી ઘોર થશે એટલે આપણું આવી બનશે. આ ડર ચોરોનો પોતાનો છે. 'એમ વિચારી બી ગયા, નાઠા એકી સાથ' — ચોરો એકસાથે નાસી ગયા. ધૂળો હરખાય છે : 'મેં ઠીક બતાવ્યો હાથ !' હાથ બતાવ્યો એટલે પોતાની આવડતનો પરચો બતાવ્યો.",
+       "real_life_example": "દરિયાકિનારે પહેલી વાર પાણીમાં પગ મૂકો ત્યારે સામેથી મોટું મોજું ધસી આવતું દેખાય છે. પગ રેતીમાં જમાવીને તમે ઊભા રહો છો. મોજું આવે, ઘૂંટણ સુધી પલાળે ને પછી ફીણ મૂકતું પાછું ખેંચાઈ જાય. જે ધસી આવ્યું હતું તે જ પાછું ગયું, ને તમે ત્યાં જ હસતા ઊભા છો. ધૂળાની આ ઘડી પણ બરાબર આવી છે. તમે એવું ક્યારે અનુભવ્યું છે ?",
+       "brief_summary": "ધૂળાની હિંમત જોઈને ચોરો ડરી જાય છે ને એકસાથે નાસી જાય છે, ને ધૂળો હરખાય છે.",
+       "summary": "એક જ માણસમાં આટલું જોર જોઈને ચોરો ચમકી જાય છે. એમને થાય છે કે બાર જણા છૂટા થશે તો પોતાનું આવી બનશે. એ ડરથી ચારેય એકસાથે નાસી જાય છે ને ધૂળો રાજી થાય છે.",
+       "detailed_summary": "આ કાવ્યનો વળાંક છે. 'ચોરો ચોંક્યા, એકમાં હોય આટલું જોર' — એક જ માણસમાં આટલી તાકાત જોઈને ચોરો ચમકી જાય છે. પછી એ મનમાં વિચારે છે : 'બાર જણા જો છૂટશે, થશે આપણી ઘોર !' એટલે બાકીના સાથી પણ સામે આવશે તો પોતાનું આવી બનશે. આ ડર ચોરોના મનમાં જ ઊભો થયો છે. 'એમ વિચારી બી ગયા, નાઠા એકી સાથ' — ને ધૂળો હરખાય છે કે મેં મારી આવડતનો પરચો બરાબર બતાવી દીધો.",
+       "concept_bullets": [
+        "ચોંક્યા — ચમકી ગયા, અચાનક નવાઈ પામ્યા.",
+        "ઘોર — 'આપણી ઘોર થશે' એટલે આપણું આવી બનશે.",
+        "નાઠા — નાસી ગયા, ભાગી છૂટ્યા.",
+        "હાથ બતાવ્યો — તાકાતનો પરચો બતાવવો, આવડત બતાવવી."
+       ],
+       "important_points": [
+        "વળાંક — ધમકી આપનારા પોતે જ ડરી જાય છે.",
+        "કોનો વિચાર — 'બાર જણા જો છૂટશે' એ ચોરોના મનની વાત છે.",
+        "કેવી રીતે ગયા — એકી સાથ, એટલે બધા એકસાથે.",
+        "ધૂળાનો હરખ — 'મેં ઠીક બતાવ્યો હાથ !' એ એના રાજી થવાના શબ્દો છે."
+       ],
+       "recall_questions": [
+        {
+         "id": "M3.S5.T9.RQ1",
+         "legacy_id": "M3.S5.T9.TR1",
+         "prompt": "ચોરોએ શું જોઈને ચમકી જવાનું થયું ? એ પછી એમણે શું કર્યું ?",
+         "answer": "એક જ માણસમાં આટલું જોર જોઈને એ ચમકી ગયા. પછી ડરીને એ બધા એકસાથે નાસી ગયા.",
+         "difficulty": "medium",
+         "bloom_level": "remember"
+        },
+        {
+         "id": "M3.S5.T9.RQ2",
+         "legacy_id": "M3.S5.T9.TR2",
+         "prompt": "'મેં ઠીક બતાવ્યો હાથ !' — ધૂળો આમ કેમ કહે છે ? 'હાથ બતાવ્યો' એટલે શું ?",
+         "answer": "'હાથ બતાવ્યો' એટલે તાકાતનો પરચો બતાવવો, આવડત બતાવવી. ધૂળો રાજી થાય છે કે એણે ચોરોને પોતાની આવડત બરાબર દેખાડી દીધી.",
+         "difficulty": "medium",
+         "bloom_level": "understand"
+        },
+        {
+         "id": "M3.S5.T9.RQ3",
+         "legacy_id": "M3.S5.T9.TR3",
+         "prompt": "ચોર કેમ નાસી ગયા ? કઈ પંક્તિ પરથી તમે એ કારણ કહી શકો ?",
+         "answer": "'બાર જણા જો છૂટશે, થશે આપણી ઘોર !' પંક્તિ પરથી કારણ મળે છે. ચોરોને બીક લાગી કે બાકીના સાથી પણ સામે આવશે તો પોતાનું આવી બનશે. એ ડરથી એ નાસી ગયા.",
+         "difficulty": "hard",
+         "bloom_level": "analyze"
+        }
+       ],
+       "estimated_exchanges": "5",
+       "concepts": [
+        {
+         "concept_id": "M3.S5.T9.C9",
+         "concept_name": "ચોરોનો ડર ને નાસભાગ",
+         "objective_id": "O9",
+         "key_terms": [],
+         "content": [
+          {
+           "type": "paragraph",
+           "text": "એક જ માણસમાં આટલું જોર જોઈને ચોરો ચમકી જાય છે. એમને મનમાં થાય છે કે બાકીના બાર જણા છૂટા થશે તો પોતાનું આવી બનશે. એ ડરથી એ બધા એકસાથે નાસી જાય છે. ધૂળો રાજી થાય છે કે એણે પોતાની આવડતનો પરચો બરાબર બતાવી દીધો.",
+           "publication_text": ""
+          },
+          {
+           "type": "list",
+           "items": [
+            "ચોરોને શું થયું — ચમકી ગયા, પછી ડરી ગયા.",
+            "શાની બીક લાગી — બાર જણા સામે આવશે એની.",
+            "પછી શું કર્યું — બધા એકસાથે નાસી ગયા."
+           ]
+          }
+         ]
+        }
+       ],
+       "media": [
+        {
+         "concept_id": "M3.S5.T9.C9",
+         "id": "M3.S5.T9.C9.IMG1",
+         "type": "image",
+         "subtype": "illustration",
+         "title": "ચોર નાઠા ને ધૂળો હરખ્યો",
+         "description": "ચારેય ચોર પીઠ ફેરવીને ઝાડીમાં નાસી જાય છે ને ખાલી કેડી પર ધૂળો હરખાઈને હસે છે.",
+         "image_url": "",
+         "aspect_ratio": "16:9",
+         "home_concept_id": "M3.S5.T9.C9",
+         "objective_id": null,
+         "image_category": "illustration",
+         "teaching_notes": "કાવ્યનો વળાંક અહીં છે — ચિત્ર બને ત્યાં સુધી બાળકોને પૂછો કે ચોરોને બીક મારની લાગી કે વિચારની ? જવાબ પંક્તિમાંથી જ શોધાવો.",
+         "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motorbikes, electric poles, wristwatches, motivational poster layout, text banner with a moral, multi-panel comic grid, speech balloons, numerals or digits in any lettering, caste or community markers on any figure, swords knives or firearms, blood or wounds, any counted chart or diagram of twelve companions, brass weights laid out as a numbered tally, gory violence, glorified combat stance, martial-arts choreography, thieves lying injured on the ground",
+         "generation_prompt": "Night on a stony forest track in dry Gujarati scrub, moonlight in patches. Four young men are running away hard into the dark thorn bushes with their backs to the viewer, elbows up, one of them twisting his head round to look behind him with a scared face, their head-cloths coming loose. The four thieves are lean bare-chested young men in dusty knee-length dhotis with plain cotton head-cloths, bare-handed and carrying no weapons of any kind, with no community, caste or tribal markings on them. In the middle of the emptied track stands the traveller alone. Dhulo is a lean middle-aged Gujarati trader: dark skin, a grey-flecked moustache, a plain white cotton kediyu and dhoti, a small red-and-white checked turban, worn leather mojdi sandals, and a bulging brown jute sack slung over his right shoulder. He has lowered the jute sack to the ground beside him and is wiping his forehead with the back of his hand, grinning wide with relief and delight, his turban slightly askew. Moonlight, settling dust, the forest quiet again, a warm happy beat after a scare. Soft digital watercolour, vibrant textbook illustration style, 16:9. A narrow cream narrator bar runs along the bottom edge of the frame, lettered in Gujarati script with exactly this one line and nothing else: «ધૂળો હરખ્યો : વાહ ! મેં ઠીક બતાવ્યો હાથ !»"
+        }
+       ],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": "",
+       "figures_of_speech": [],
+       "rhyme_scheme": {
+        "pattern": "બે પ્રાસ-જોડ, એક પછી એક; દરેક જોડની બન્ને પંક્તિના છેડા સરખા સંભળાય છે.",
+        "rhyming_words": [
+         "જોર — ઘોર",
+         "સાથ — હાથ"
+        ],
+        "note": "પહેલી જોડમાં 'જોર' ને 'ઘોર' સરખા સંભળાય છે — તાકાત ને બીક સામસામે મુકાય છે. બીજી જોડમાં 'સાથ' ને 'હાથ' સરખા સંભળાય છે, ને વાત ધૂળાના હરખ પર પૂરી થાય છે."
+       },
+       "shabdarth": [
+        {
+         "shabd": "ચોંક્યા",
+         "arth": "ચમકી ગયા, અચાનક નવાઈ પામ્યા",
+         "prakar": "તદ્ભવ"
+        },
+        {
+         "shabd": "જોર",
+         "arth": "તાકાત, બળ",
+         "prakar": "આગત"
+        },
+        {
+         "shabd": "ઘોર",
+         "arth": "'આપણી ઘોર થશે' એટલે આપણું આવી બનશે",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "નાઠા",
+         "arth": "નાસી ગયા, ભાગી છૂટ્યા",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "હરખ્યો",
+         "arth": "રાજી થયો, હરખ પામ્યો",
+         "prakar": "તદ્ભવ"
+        }
+       ],
+       "samanarthi": [
+        {
+         "shabd": "જોર",
+         "samanarthi": [
+          "તાકાત",
+          "બળ"
+         ]
+        },
+        {
+         "shabd": "હરખ્યો",
+         "samanarthi": [
+          "રાજી થયો"
+         ]
+        }
+       ],
+       "vilom": [],
+       "vyakaran": [
+        {
+         "bindu": "રૂઢિપ્રયોગ",
+         "udaharan": "ધૂળો હરખ્યો : વાહ ! મેં ઠીક બતાવ્યો હાથ !",
+         "note": "'હાથ બતાવ્યો' રૂઢિપ્રયોગ છે — તાકાતનો પરચો બતાવવો, આવડત બતાવવી. રૂઢિપ્રયોગનો અર્થ છૂટા શબ્દોના સીધા અર્થથી જુદો હોય છે, એટલે અહીં ધૂળાએ કોઈને હાથ દેખાડ્યો એવો અર્થ નથી."
+        }
+       ]
+      },
+      {
+       "topic_id": "M3.S5.T10",
+       "topic_name": "વાટ જડી ને કામ પૂરું",
+       "topic_type": "POEM",
+       "topic_category": "resolution",
+       "difficulty": "medium",
+       "depends_on": [],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O10"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O10",
+         "legacy_id": "L10",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "વાટ જડ્યા પછી ધૂળાએ પહેલાં શું કર્યું અને પછી શું કર્યું તે ક્રમમાં ગોઠવીને પોતાના શબ્દોમાં કહેવું.",
+         "bloom_level": "Apply",
+         "home_topic_id": "M3.S5.T10",
+         "anchor": [
+          "M3.S5.T10.C10"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "વાટ જડી, ધૂળો ગયો, જાવું'તું જે ગામ,\nવળતો એ ઘરે ગયો પૂરું કરીને કામ !",
+       "modified_chunk": "ચોર ભાગી ગયા પછી ધૂળાને વાટ જડી જાય છે, એટલે કે સાચો રસ્તો મળી જાય છે. જે ગામે જવું હતું ત્યાં એ પહોંચે છે. પોતાનું કામ પૂરું કરીને પછી એ વળતો ઘરે આવે છે.",
+       "word_count": {
+        "original": 15
+       },
+       "key_terms": [
+        "જડી — મળી ગઈ, હાથ લાગી.",
+        "વાટ — રસ્તો.",
+        "જાવું'તું — 'જવું હતું'; બોલચાલમાં 'હતું' ટૂંકું થઈને આમ બોલાય છે, ભૂલ નથી.",
+        "વળતો — પાછો ફરતો, પરત આવતો.",
+        "પૂરું કરીને — પતાવીને, આટોપીને."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "ચોર ગયા પછી જ 'વાટ જડી' — વાટ એટલે રસ્તો, ને જડી એટલે મળી ગઈ. જે વાટ અંધારે ખોવાઈ ગઈ હતી તે હવે હાથ લાગે છે, ને 'જાવું'તું જે ગામ' ત્યાં ધૂળો પહોંચે છે. બોલચાલમાં 'જવું હતું' ટૂંકું થઈને 'જાવું'તું' બોલાય છે; કવિએ બોલાય છે એમ જ લખ્યું છે, એ ભૂલ નથી. પછી 'વળતો એ ઘરે ગયો પૂરું કરીને કામ !' — વળતો એટલે પાછો ફરતો. શું કામ હતું તે કાવ્ય કહેતું નથી.",
+       "real_life_example": "વેકેશનમાં મામાના ગામ જવા બસ-સ્ટૅન્ડે ઊભા હો ને બસ મોડી પડે. તડકો ચડે, પાણીની બોટલ ખાલી થાય, ને એક વાર તો થાય કે આજે નહિ જવાય. પછી દૂરથી બસ દેખાય, તમે બારી પાસેની સીટ પકડો ને ગામ પહોંચી જાઓ. અધૂરી રહી ગયેલી મુસાફરી પૂરી થાય ત્યારે જે ટાઢક વળે છે, એ જ ટાઢક ધૂળાને વાટ જડી ત્યારે વળી હશે. તમારી કઈ મુસાફરી આમ અટકીને પૂરી થઈ હતી ?",
+       "brief_summary": "ચોર ગયા પછી ધૂળાને વાટ જડે છે, એ ગામે પહોંચીને કામ પતાવે છે ને ઘરે પાછો ફરે છે.",
+       "summary": "ચોરોના ગયા પછી ધૂળાને ખોવાયેલો રસ્તો મળી જાય છે. જે ગામે જવું હતું ત્યાં એ પહોંચે છે. કામ પતાવીને એ પાછો ઘરે આવે છે.",
+       "detailed_summary": "અહીં અધૂરી રહી ગયેલી મુસાફરી પૂરી થાય છે. ચોર નાસી ગયા પછી જ 'વાટ જડી' — એટલે અંધારે ખોવાયેલો રસ્તો હવે મળી જાય છે. 'જાવું'તું જે ગામ' ત્યાં ધૂળો પહોંચે છે; બોલચાલમાં 'જવું હતું' ટૂંકું થઈને આમ બોલાય છે. પછી 'વળતો એ ઘરે ગયો પૂરું કરીને કામ !' — એ કામ પતાવીને ઘરે પાછો ફરે છે. શું કામ હતું, કોને મળ્યો કે કેટલું રોકાયો તે કાવ્ય કહેતું નથી.",
+       "concept_bullets": [
+        "જડી — મળી ગઈ, હાથ લાગી.",
+        "જાવું'તું — 'જવું હતું'; બોલચાલમાં 'હતું' ટૂંકું થઈને આમ બોલાય છે, ભૂલ નથી.",
+        "વળતો — પાછો ફરતો, પરત આવતો.",
+        "વાટ — રસ્તો; અહીં એ જ વાટ છે જે અંધારે ખોવાઈ હતી."
+       ],
+       "important_points": [
+        "ક્રમ — પહેલાં ચોર ગયા, પછી જ વાટ જડી.",
+        "મુસાફરી પૂરી — જે ગામે જવું હતું ત્યાં ધૂળો પહોંચ્યો.",
+        "ઘરવાપસી — કામ પતાવીને એ પાછો ઘરે આવે છે.",
+        "કાવ્ય ચૂપ છે — કામ શું હતું તે ક્યાંય કહેવાયું નથી."
+       ],
+       "recall_questions": [
+        {
+         "id": "M3.S5.T10.RQ1",
+         "legacy_id": "M3.S5.T10.TR1",
+         "prompt": "વાટ જડ્યા પછી ધૂળાએ પહેલાં શું કર્યું ને પછી શું કર્યું ? ક્રમમાં કહો.",
+         "answer": "પહેલાં એ જે ગામે જવું હતું ત્યાં પહોંચ્યો. પછી ત્યાંનું કામ પતાવ્યું. છેલ્લે એ પાછો ઘરે આવ્યો.",
+         "difficulty": "medium",
+         "bloom_level": "apply"
+        },
+        {
+         "id": "M3.S5.T10.RQ2",
+         "legacy_id": "M3.S5.T10.TR2",
+         "prompt": "'જાવું'તું' — આ શબ્દ કેમ આમ લખાયો છે ? એનો અર્થ શો ?",
+         "answer": "એનો અર્થ 'જવું હતું' થાય. બોલચાલમાં 'હતું' ટૂંકું થઈને 'તું' બોલાય છે, ને કવિએ બોલાય છે એમ જ લખ્યું છે. એ છાપભૂલ નથી.",
+         "difficulty": "medium",
+         "bloom_level": "understand"
+        },
+        {
+         "id": "M3.S5.T10.RQ3",
+         "legacy_id": "M3.S5.T10.TR3",
+         "prompt": "ધૂળાનું કોટડે શું કામ હતું ? કાવ્યમાંથી જવાબ મળે છે કે નહિ ?",
+         "answer": "કાવ્યમાંથી એનો જવાબ મળતો નથી. કાવ્ય માત્ર 'પૂરું કરીને કામ' એટલું જ કહે છે; કામ શું હતું તે ક્યાંય લખ્યું નથી.",
+         "difficulty": "medium",
+         "bloom_level": "analyze"
+        }
+       ],
+       "estimated_exchanges": "4",
+       "concepts": [
+        {
+         "concept_id": "M3.S5.T10.C10",
+         "concept_name": "કામ પતાવીને ઘરવાપસી",
+         "objective_id": "O10",
+         "key_terms": [],
+         "content": [
+          {
+           "type": "paragraph",
+           "text": "ચોરોના ગયા પછી ધૂળાને ખોવાયેલી વાટ મળી જાય છે. જે ગામે જવું હતું ત્યાં એ પહોંચે છે ને કામ પતાવીને પાછો ઘરે આવે છે. બીજી પંક્તિઓમાં તૂટી ગયેલી મુસાફરી અહીં પૂરી થાય છે.",
+           "publication_text": ""
+          },
+          {
+           "type": "list",
+           "items": [
+            "પહેલાં — વાટ જડી.",
+            "પછી — ધૂળો ધારેલા ગામે પહોંચ્યો.",
+            "છેલ્લે — કામ પતાવીને ઘરે પાછો ફર્યો."
+           ]
+          }
+         ]
+        }
+       ],
+       "media": [
+        {
+         "concept_id": "M3.S5.T10.C10",
+         "id": "M3.S5.T10.C10.IMG1",
+         "type": "image",
+         "subtype": "illustration",
+         "title": "કામ પતાવીને ઘરે પાછો",
+         "description": "સવારના તડકામાં કોથળો હાથમાં ઝાલીને ધૂળો પોતાની શેરીમાં પોતાના ઘરના ઓટલા તરફ પાછો ફરે છે.",
+         "image_url": "",
+         "aspect_ratio": "16:9",
+         "home_concept_id": "M3.S5.T10.C10",
+         "objective_id": null,
+         "image_category": "illustration",
+         "teaching_notes": "ચિત્ર બને ત્યાં સુધી બાળકો પાસે કહેવડાવો કે રાતની આખી સફર પછી ઘરના ઓટલે પહોંચતાં કેવું લાગે; અને 'જાવું'તું'ની અપોસ્ટ્રોફી બોર્ડ પર લખીને બતાવો.",
+         "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motorbikes, electric poles, wristwatches, motivational poster layout, text banner with a moral, multi-panel comic grid, speech balloons, numerals or digits in any lettering, caste or community markers on any figure, swords knives or firearms, blood or wounds, any counted chart or diagram of twelve companions, brass weights laid out as a numbered tally",
+         "generation_prompt": "Bright early morning in a narrow lane of a small Gujarati town: low houses roofed with curved clay tiles, raised stone otla running along the walls, a tulsi pot in one doorway, a shared hand-pump where a neighbour is filling a brass matlu, a bullock cart creaking past the far end of the lane. Dhulo is a lean middle-aged Gujarati trader: dark skin, a grey-flecked moustache, a plain white cotton kediyu and dhoti, a small red-and-white checked turban, worn leather mojdi sandals, and a bulging brown jute sack slung over his right shoulder. Here the jute sack is carried down in his left hand instead of on his shoulder, and he is walking up the lane toward the otlo of his own house, one foot lifting to the step, tired and easy, a small satisfied smile, dust on his clothes. A woman at the next doorway lifts her hand in greeting; a dog stretches on a warm step. Clear golden morning light, long soft shadows, a calm homecoming mood. Soft digital watercolour, vibrant textbook illustration style, 16:9. A narrow cream narrator bar runs along the bottom edge of the frame, lettered in Gujarati script with exactly this one line and nothing else: «વળતો એ ઘરે ગયો પૂરું કરીને કામ !»"
+        }
+       ],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": "",
+       "figures_of_speech": [],
+       "rhyme_scheme": {
+        "pattern": "બે પંક્તિની એક જોડ; બન્ને પંક્તિના છેડાના શબ્દ સરખા સંભળાય છે.",
+        "rhyming_words": [
+         "ગામ — કામ"
+        ],
+        "note": "'ગામ' ને 'કામ' બન્નેના છેડા સરખા સંભળાય છે. પહોંચવાનું ઠેકાણું ને પતાવવાનું કામ એક જ અવાજે પૂરાં થાય છે, એટલે વાત ગોઠવાઈ ગઈ હોય એવું લાગે છે."
+       },
+       "shabdarth": [
+        {
+         "shabd": "જડી",
+         "arth": "મળી ગઈ, હાથ લાગી",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "વાટ",
+         "arth": "રસ્તો",
+         "prakar": "દેશ્ય"
+        },
+        {
+         "shabd": "જાવું'તું",
+         "arth": "જવું હતું",
+         "prakar": "કાવ્ય-રૂપ"
+        },
+        {
+         "shabd": "વળતો",
+         "arth": "પાછો ફરતો, પરત આવતો",
+         "prakar": "તદ્ભવ"
+        }
+       ],
+       "samanarthi": [
+        {
+         "shabd": "જડી",
+         "samanarthi": [
+          "મળી",
+          "લાધી"
+         ]
+        }
+       ],
+       "vilom": [],
+       "vyakaran": [
+        {
+         "bindu": "કાળ",
+         "udaharan": "વાટ જડી, ધૂળો ગયો, જાવું'તું જે ગામ,",
+         "note": "'જાવું'તું' એ 'જવું હતું'નું બોલચાલનું ટૂંકું રૂપ છે ને એ ભૂતકાળ બતાવે છે. 'જડી' ને 'ગયો' પણ ભૂતકાળનાં જ રૂપ છે."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M3.S6",
+     "segment_name": "બાળકોના પ્રશ્ને ખૂલતો ભેદ",
+     "topics": [
+      {
+       "topic_id": "M3.S6.T11",
+       "topic_name": "બાળકોનો સવાલ",
+       "topic_type": "POEM",
+       "topic_category": "transition",
+       "difficulty": "medium",
+       "depends_on": [],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O11"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O11",
+         "legacy_id": "L11",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "ધૂળાની વારતા સાંભળીને બાળકોએ એને શો પ્રશ્ન પૂછ્યો તે એમના જ શબ્દોમાં કાવ્યમાંથી શોધીને કહેવું.",
+         "bloom_level": "Remember",
+         "home_topic_id": "M3.S6.T11",
+         "anchor": [
+          "M3.S6.T11.C11"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "ધૂળાની આ વારતા જાણી પૂછે બાળ તમામ:\n'કોણ તમે હતા બાર ?' ગણાવો નામ.",
+       "modified_chunk": "ધૂળાની આ વારતા બધાં બાળકો જાણે છે. વારતા એટલે વાર્તા. સાંભળીને એમને કુતૂહલ થાય છે. તેઓ ધૂળાને પૂછે છે કે તમારી સાથેના બાર કોણ હતા, એમનાં નામ ગણાવો.",
+       "word_count": {
+        "original": 14
+       },
+       "key_terms": [
+        "વારતા — 'વાર્તા'; કવિતામાં લય સાચવવા વપરાયેલું રૂપ છે, ભૂલ નથી.",
+        "તમામ — બધાં, સૌ.",
+        "જાણી — જાણીને, સાંભળીને.",
+        "બાળ — બાળકો.",
+        "ગણાવો — એક પછી એક ગણીને કહો."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "'ધૂળાની આ વારતા જાણી પૂછે બાળ તમામ' — વારતા એટલે વાર્તા. કવિતાની ચાલ સાચવવા કવિ આમ લખે છે, એ ભૂલ નથી. તમામ એટલે બધાં. બનેલી આખી વાત સાંભળીને બાળકોને કુતૂહલ થાય છે. પૂછનારાં એ બાળકો જ છે, બીજું કોઈ નહિ. એ પૂછે છે : 'કોણ તમે હતા બાર ?' ગણાવો નામ. એટલે — તમારા બાર સાથી કોણ કોણ, એક પછી એક ગણાવો. જવાબ હવે ધૂળો પોતે આપવાનો છે.",
+       "real_life_example": "રાતે આંગણામાં ખાટલો ઢાળીને દાદી વાત માંડે. વાત પૂરી થાય કે તરત તમારા સવાલ શરૂ થાય — 'પછી શું થયું ? એ કોણ હતું ? નામ તો કહો !' દાદી હસીને કહે, 'ઊભા રહો, કહું છું.' એ ઘડીની રાહ જોવાની મજા જ જુદી હોય છે. ધૂળાની વાત સાંભળીને બાળકોને પણ બરાબર આવું જ કુતૂહલ થાય છે. તમે છેલ્લે કઈ વાત સાંભળીને આવા સવાલ પૂછ્યા હતા ?",
+       "brief_summary": "ધૂળાની વારતા સાંભળીને બધાં બાળકો એને પૂછે છે કે એના બાર સાથી કોણ હતા.",
+       "summary": "ધૂળાની આખી વારતા સાંભળીને બાળકોને કુતૂહલ થાય છે. બધાં બાળકો એને પૂછે છે કે એ બાર કોણ હતા. એ કહે છે કે એમનાં નામ એક પછી એક ગણાવો.",
+       "detailed_summary": "કાવ્યની આ પંક્તિઓમાં પ્રશ્ન ઊભો થાય છે. 'ધૂળાની આ વારતા જાણી પૂછે બાળ તમામ' — વારતા એટલે વાર્તા, ને તમામ એટલે બધાં. બનેલી આખી વાત સાંભળીને બાળકોને કુતૂહલ થાય છે. પૂછનારાં એ બાળકો જ છે; બીજું કોઈ પૂછતું નથી. એમનો સવાલ છે : 'કોણ તમે હતા બાર ?' ગણાવો નામ. જવાબ હવે ધૂળો પોતે આપવાનો છે.",
+       "concept_bullets": [
+        "વારતા — 'વાર્તા'; કવિતાની ચાલ સાચવવા વપરાયેલું રૂપ છે, ભૂલ નથી.",
+        "તમામ — બધાં, સૌ.",
+        "ગણાવો — એક પછી એક ગણીને કહો.",
+        "બાળ — બાળકો; સવાલ પૂછનારાં એ જ છે."
+       ],
+       "important_points": [
+        "કોણ પૂછે છે — બાળકો, ને એ પણ બધાં.",
+        "શું પૂછે છે — તમારા બાર સાથી કોણ હતા.",
+        "કેવી રીતે — નામ એક પછી એક ગણાવવાનું કહે છે.",
+        "જવાબ બાકી — હવે ધૂળો પોતે ગણાવવાનો છે."
+       ],
+       "recall_questions": [
+        {
+         "id": "M3.S6.T11.RQ1",
+         "legacy_id": "M3.S6.T11.TR1",
+         "prompt": "ધૂળાની વારતા સાંભળીને બાળકોએ એને શું પૂછ્યું ? એમના જ શબ્દોમાં કહો.",
+         "answer": "એમણે પૂછ્યું — 'કોણ તમે હતા બાર ?' ગણાવો નામ.",
+         "difficulty": "easy",
+         "bloom_level": "remember"
+        },
+        {
+         "id": "M3.S6.T11.RQ2",
+         "legacy_id": "M3.S6.T11.TR2",
+         "prompt": "'વારતા' શબ્દ આમ કેમ લખાયો છે ? એનો અર્થ શો ?",
+         "answer": "'વારતા' એટલે વાર્તા. કવિતાની ગાવા-બોલવાની ચાલ સાચવવા કવિ આ રૂપ વાપરે છે. એ જોડણીભૂલ નથી.",
+         "difficulty": "medium",
+         "bloom_level": "understand"
+        },
+        {
+         "id": "M3.S6.T11.RQ3",
+         "legacy_id": "M3.S6.T11.TR3",
+         "prompt": "બાળકોને આવો સવાલ પૂછવાનું કેમ મન થયું હશે ? તમારા શબ્દોમાં કહો.",
+         "answer": "કેમ કે આખી વારતામાં 'બાર જણા'ની વાત વારે વારે આવે છે, પણ એ કોણ હતા તે ક્યાંય કહેવાયું નથી. એટલે બાળકોને કુતૂહલ થાય છે ને એ નામ ગણાવવાનું કહે છે.",
+         "difficulty": "medium",
+         "bloom_level": "analyze"
+        }
+       ],
+       "estimated_exchanges": "3",
+       "concepts": [
+        {
+         "concept_id": "M3.S6.T11.C11",
+         "concept_name": "બાળકોનું કુતૂહલ",
+         "objective_id": "O11",
+         "key_terms": [],
+         "content": [
+          {
+           "type": "paragraph",
+           "text": "ધૂળાની આખી વારતા સાંભળીને બાળકોને કુતૂહલ થાય છે. 'વારતા' એટલે વાર્તા; કવિતાની ચાલ સાચવવા કવિ આમ લખે છે. બધાં બાળકો ધૂળાને પૂછે છે કે એના બાર સાથી કોણ હતા, ને એમનાં નામ એક પછી એક ગણાવવાનું કહે છે.",
+           "publication_text": ""
+          },
+          {
+           "type": "list",
+           "items": [
+            "કોણ પૂછે છે — બધાં બાળકો.",
+            "શું પૂછે છે — 'કોણ તમે હતા બાર ?'",
+            "શું માગે છે — નામ ગણાવવાનું."
+           ]
+          }
+         ]
+        }
+       ],
+       "media": [
+        {
+         "concept_id": "M3.S6.T11.C11",
+         "id": "M3.S6.T11.C11.IMG1",
+         "type": "image",
+         "subtype": "illustration",
+         "title": "ઓટલે પૂછતાં બાળકો",
+         "description": "ઘરના ઓટલા પાસે બેસીને ટોળે વળેલાં બાળકો આતુરતાથી ધૂળાને સવાલ પૂછે છે.",
+         "image_url": "",
+         "aspect_ratio": "16:9",
+         "home_concept_id": "M3.S6.T11.C11",
+         "objective_id": null,
+         "image_category": "illustration",
+         "teaching_notes": "પ્રશ્ન બાળકો પૂછે છે — માટે આ પંક્તિ આખા વર્ગ પાસે એકસાથે પુછાવો ને જવાબ એક બાળક પાસે રખાવો; જવાબ આવતી ઘડીએ જ ખોલવો.",
+         "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motorbikes, electric poles, wristwatches, motivational poster layout, text banner with a moral, multi-panel comic grid, speech balloons, numerals or digits in any lettering, caste or community markers on any figure, swords knives or firearms, blood or wounds, any counted chart or diagram of twelve companions, brass weights laid out as a numbered tally",
+         "generation_prompt": "Late afternoon on the raised stone otlo of a small house in a Gujarati town lane, walls washed pale blue, curved clay tiles above, a neem tree throwing dappled shade. Dhulo is a lean middle-aged Gujarati trader: dark skin, a grey-flecked moustache, a plain white cotton kediyu and dhoti, a small red-and-white checked turban, worn leather mojdi sandals, and a bulging brown jute sack slung over his right shoulder. He sits cross-legged on the otlo with his back to the wall, the brown jute sack propped against the wall beside him, hands open on his knees, smiling as he listens. Seven or eight children of about eleven, in ordinary everyday cotton clothes and plain school uniforms, are crowded on the step and the ground in front of him, all leaning in: one girl kneels with both hands cupped as she asks, a boy tugs the edge of his dhoti, another sits chin on fists, every face bright with curiosity. Warm afternoon light, dappled leaf shadow, an easy neighbourly scene. Soft digital watercolour, vibrant textbook illustration style, 16:9. A narrow cream narrator bar runs along the bottom edge of the frame, lettered in Gujarati script with exactly this one line and nothing else: «'કોણ તમે હતા બાર ?' ગણાવો નામ.»"
+        }
+       ],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": "",
+       "figures_of_speech": [],
+       "rhyme_scheme": {
+        "pattern": "બે પંક્તિની એક જોડ; બન્ને પંક્તિના છેડાના શબ્દ સરખા સંભળાય છે.",
+        "rhyming_words": [
+         "તમામ — નામ"
+        ],
+        "note": "'તમામ' ને 'નામ' બન્નેના છેડા સરખા સંભળાય છે. બધાં પૂછે છે ને નામ માગે છે — સવાલ એક જ અવાજે પૂરો થાય છે."
+       },
+       "shabdarth": [
+        {
+         "shabd": "વારતા",
+         "arth": "વાર્તા",
+         "prakar": "કાવ્ય-રૂપ"
+        },
+        {
+         "shabd": "તમામ",
+         "arth": "બધાં, સૌ",
+         "prakar": "આગત"
+        },
+        {
+         "shabd": "બાળ",
+         "arth": "બાળકો",
+         "prakar": "તત્સમ"
+        },
+        {
+         "shabd": "ગણાવો",
+         "arth": "એક પછી એક ગણીને કહો",
+         "prakar": "તદ્ભવ"
+        },
+        {
+         "shabd": "જાણી",
+         "arth": "જાણીને, સાંભળીને",
+         "prakar": "તદ્ભવ"
+        }
+       ],
+       "samanarthi": [
+        {
+         "shabd": "તમામ",
+         "samanarthi": [
+          "બધાં",
+          "સૌ"
+         ]
+        },
+        {
+         "shabd": "વારતા",
+         "samanarthi": [
+          "વાર્તા",
+          "કથા"
+         ]
+        }
+       ],
+       "vilom": [],
+       "vyakaran": [
+        {
+         "bindu": "વિરામચિહ્નો",
+         "udaharan": "'કોણ તમે હતા બાર ?' ગણાવો નામ.",
+         "note": "સવાલના છેડે પ્રશ્નચિહ્ન છે, ને આખો સવાલ એકવડા અવતરણચિહ્નમાં મુકાયો છે — એટલે એ બાળકોના પોતાના શબ્દો છે. સ્વાધ્યાયમાં આવાં ચિહ્નો વાક્યમાં મૂકવાનું કામ આવશે."
+        }
+       ]
+      },
+      {
+       "topic_id": "M3.S6.T12",
+       "topic_name": "બાર સાથીની ગણતરી",
+       "topic_type": "POEM",
+       "topic_category": "resolution",
+       "difficulty": "hard",
+       "depends_on": [
+        "M3.S6.T11",
+        "M2.S3.T5"
+       ],
+       "source_topic_ids": [],
+       "objective_ids": [
+        "O12"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O12",
+         "legacy_id": "L12",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "ધૂળાએ ગણાવેલા સાથી ક્રમમાં ગણાવીને, હિંમત અને વિશ્વાસ વિના બાકીના બધા કેમ નકામા ઠરે તે મૂલવવું.",
+         "bloom_level": "Evaluate",
+         "home_topic_id": "M3.S6.T12",
+         "anchor": [
+          "M3.S6.T12.C12"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "ધૂળો કહે : 'આ હાથ બે, બે આંખો, બે પાય,\nચાર કાટલાં - કોથળો મળી, એમ દશ થાય !\nછેલ્લા સાથી બે ખરા - હિંમત અને વિશ્વાસ\nએ બે વિના બીજા બધા થાય નકામા ખાસ !'\n- રમણલાલ સોની",
+       "modified_chunk": "ધૂળો હવે પોતાના સાથી ગણાવે છે — બે હાથ, બે આંખો ને બે પાય એટલે કે બે પગ. એમાં ચાર કાટલાં અને એક કોથળો ભેગા કરીએ તો દશ થાય. છેલ્લા બે સાચા સાથી તે હિંમત અને વિશ્વાસ. એ કહે છે કે આ બે ન હોય તો બાકીના બધા સાથી નકામા થઈ જાય.",
+       "word_count": {
+        "original": 39
+       },
+       "key_terms": [
+        "પાય — પગ.",
+        "કાટલાં — તોલવાનાં વજનિયાં.",
+        "મળી — ભેગાં કરીને, બધું સાથે ગણીને.",
+        "દશ — દસ; કવિતામાં વપરાતું જૂનું રૂપ છે.",
+        "ખરા — સાચા, અસલી.",
+        "નકામા — કશા કામના નહિ, નિરર્થક."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ],
+       "explanation": "હવે ધૂળો ગણાવે છે : 'આ હાથ બે, બે આંખો, બે પાય' — પાય એટલે પગ. પછી 'ચાર કાટલાં - કોથળો મળી, એમ દશ થાય !' કાટલું એટલે તોલવાનું વજન, ને દશ એટલે દસ. જુઓ, આ બધું તો ધૂળાનું પોતાનું જ છે; બહારથી આવેલા માણસો નથી. છેલ્લા બે હાથમાં પકડાય એવા નથી — 'છેલ્લા સાથી બે ખરા - હિંમત અને વિશ્વાસ'. વિશ્વાસ એટલે ભરોસો. ધૂળો પોતે જ કહે છે 'એ બે વિના બીજા બધા થાય નકામા ખાસ !'",
+       "real_life_example": "બા બાંધણીની ચૂંદડી પટારામાંથી કાઢે ત્યારે એ ગાંઠે ગાંઠે બંધાયેલી હોય. જોતાં તો એ સાદું કપડું જ લાગે. પછી બા એક પછી એક ગાંઠ છોડે, ને કપડું ખૂલતાં ટપકે ટપકે આખી ભાત ઊઘડી આવે. જે અંદર જ હતું તે હવે દેખાય છે. ધૂળાના બાર સાથી પણ આખો વખત એની પાસે જ હતા, ને છેક છેલ્લે ખૂલે છે. તમારી પાસે એવું શું છે જે તમે રોજ વાપરો છો પણ ગણતા નથી ?",
+       "brief_summary": "ધૂળો પોતાના બાર સાથી ગણાવે છે ને કહે છે કે હિંમત અને વિશ્વાસ વિના બાકીના બધા નકામા છે.",
+       "summary": "ધૂળો એક પછી એક પોતાના સાથી ગણાવે છે — બે હાથ, બે આંખો, બે પાય, ચાર કાટલાં ને કોથળો; એમ દશ થાય. છેલ્લા બે સાથી હિંમત અને વિશ્વાસ છે. ધૂળો પોતે કહે છે કે એ બે વિના બાકીના બધા નકામા ઠરે.",
+       "detailed_summary": "કાવ્યનો ખુલાસો અહીં આવે છે. ધૂળો ગણાવે છે : 'આ હાથ બે, બે આંખો, બે પાય, ચાર કાટલાં - કોથળો મળી, એમ દશ થાય !' પાય એટલે પગ ને કાટલું એટલે તોલવાનું વજન. આ દશેય વસ્તુ ધૂળાની પોતાની જ છે; કોઈ બહારના માણસો નથી. પછી એ કહે છે : 'છેલ્લા સાથી બે ખરા - હિંમત અને વિશ્વાસ'. આ બે હાથમાં પકડાય એવા નથી, એ ધૂળાના મનમાં હતા. છેલ્લે એ પોતે જ કહે છે કે એ બે વિના બીજા બધા નકામા ઠરે.",
+       "concept_bullets": [
+        "પાય — પગ.",
+        "કાટલાં — વજન; અમુક નક્કી વજનનું તોલવાનું સાધન.",
+        "દશ — દસ; કવિતામાં વપરાતું જૂનું રૂપ છે.",
+        "વિશ્વાસ — ભરોસો; હાથમાં પકડાય એવી વસ્તુ નથી."
+       ],
+       "important_points": [
+        "ગણતરી — બે હાથ, બે આંખો, બે પાય, ચાર કાટલાં ને કોથળો; એમ દશ.",
+        "પોતાનું જ — આ બધું ધૂળા પાસે પહેલેથી હતું.",
+        "છેલ્લા બે — હિંમત અને વિશ્વાસ, જે હાથમાં પકડાય એવા નથી.",
+        "કવિનું નામ — છેડે છપાયેલું '- રમણલાલ સોની' કવિનું નામ છે, ધૂળાનું બોલવું નથી."
+       ],
+       "recall_questions": [
+        {
+         "id": "M3.S6.T12.RQ1",
+         "legacy_id": "M3.S6.T12.TR1",
+         "prompt": "ધૂળાએ પોતાના સાથી ક્રમમાં ગણાવ્યા છે. કાવ્યના આધારે એ ગણાવો.",
+         "answer": "બે હાથ, બે આંખો, બે પાય, ચાર કાટલાં ને કોથળો — એ મળીને દશ થાય. છેલ્લા બે સાથી હિંમત અને વિશ્વાસ છે.",
+         "difficulty": "medium",
+         "bloom_level": "remember"
+        },
+        {
+         "id": "M3.S6.T12.RQ2",
+         "legacy_id": "M3.S6.T12.TR2",
+         "prompt": "ધૂળાના બાર સાથીમાંથી કયા બે હાથમાં પકડી ન શકાય ? એ ક્યાં હતા ?",
+         "answer": "હિંમત અને વિશ્વાસ હાથમાં પકડી ન શકાય. એ બે ધૂળાના મનમાં હતાં.",
+         "difficulty": "medium",
+         "bloom_level": "understand"
+        },
+        {
+         "id": "M3.S6.T12.RQ3",
+         "legacy_id": "M3.S6.T12.TR3",
+         "prompt": "'એ બે વિના બીજા બધા થાય નકામા ખાસ !' — ધૂળો આમ કેમ કહે છે ? તમારા શબ્દોમાં કહો.",
+         "answer": "કારણ કે હાથ, આંખો, પાય, કાટલાં ને કોથળો ધૂળા પાસે પહેલેથી હતાં જ. પણ જંગલમાં એણે હિંમત ધરી ને પોતાના પર ભરોસો રાખ્યો, ત્યારે જ એ બધું કામ લાગ્યું. એ બે ન હોત તો બાકીનું પડ્યું રહેત. આ વાત ધૂળો પોતે કહે છે.",
+         "difficulty": "hard",
+         "bloom_level": "evaluate"
+        }
+       ],
+       "estimated_exchanges": "5",
+       "concepts": [
+        {
+         "concept_id": "M3.S6.T12.C12",
+         "concept_name": "હિંમત અને વિશ્વાસનો ખુલાસો",
+         "objective_id": "O12",
+         "key_terms": [],
+         "content": [
+          {
+           "type": "paragraph",
+           "text": "ધૂળો પોતાના સાથી એક પછી એક ગણાવે છે — બે હાથ, બે આંખો, બે પાય, ચાર કાટલાં ને કોથળો. એ મળીને દશ થાય. આ બધું ધૂળાનું પોતાનું જ છે. છેલ્લા બે સાથી હિંમત અને વિશ્વાસ છે, ને એ હાથમાં પકડાય એવા નથી.",
+           "publication_text": ""
+          },
+          {
+           "type": "list",
+           "items": [
+            "હાથમાં પકડાય એવા — બે હાથ, બે આંખો, બે પાય, ચાર કાટલાં, કોથળો.",
+            "કુલ — એ મળીને દશ થાય.",
+            "ન પકડાય એવા — હિંમત અને વિશ્વાસ, જે ધૂળાના મનમાં હતા."
+           ]
+          }
+         ]
+        }
+       ],
+       "media": [
+        {
+         "concept_id": "M3.S6.T12.C12",
+         "id": "M3.S6.T12.C12.IMG1",
+         "type": "image",
+         "subtype": "illustration",
+         "title": "ખુલ્લા હાથ બતાવતો ધૂળો",
+         "description": "ઓટલે બેઠેલો ધૂળો બાળકો સામે પોતાના બે ખુલ્લા હાથ ધરે છે ને પાસે કોથળો ને કાટલાં મૂકેલાં છે.",
+         "image_url": "",
+         "aspect_ratio": "16:9",
+         "home_concept_id": "M3.S6.T12.C12",
+         "objective_id": null,
+         "image_category": "illustration",
+         "teaching_notes": "ચિત્ર બને ત્યાં સુધી બાળકો પાસે જ પોતાના હાથ, આંખ ને પગ બતાવડાવીને ગણતરી કરાવો; છેલ્લા બે સાથી ચિત્રમાં દેખાતા નથી તે વાત અહીં જ ખોલો.",
+         "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motorbikes, electric poles, wristwatches, motivational poster layout, text banner with a moral, multi-panel comic grid, speech balloons, numerals or digits in any lettering, caste or community markers on any figure, swords knives or firearms, blood or wounds, personified figures representing courage or trust, glowing spirit companions, any chart or infographic of the count",
+         "generation_prompt": "Late afternoon on the raised stone otlo of a small house in a Gujarati town lane, pale blue wall, curved clay tiles above, dappled neem shade. Dhulo is a lean middle-aged Gujarati trader: dark skin, a grey-flecked moustache, a plain white cotton kediyu and dhoti, a small red-and-white checked turban, worn leather mojdi sandals, and a bulging brown jute sack slung over his right shoulder. He sits on the otlo leaning forward toward the children with both hands held up open and empty, palms turned out at his own eye level, his face warm and mock-serious as he explains. Laid out on the stone beside him are the brown jute sack with its mouth open and four round brass trading weights set out in a row. Seven or eight children of about eleven in ordinary cotton clothes and plain school uniforms sit close in front of him: one holds up her own two open hands copying him, one looks down at his own feet, one points at the brass weights, all of them delighted. Warm golden afternoon light, leaf shadow, the pleasure of a good answer. Soft digital watercolour, vibrant textbook illustration style, 16:9. A narrow cream narrator bar runs along the bottom edge of the frame, lettered in Gujarati script with exactly this one line and nothing else: «છેલ્લા સાથી બે ખરા - હિંમત અને વિશ્વાસ»"
+        }
+       ],
+       "2d_tool": null,
+       "publication_text": "",
+       "publication_chunk": "",
+       "figures_of_speech": [],
+       "rhyme_scheme": {
+        "pattern": "બે પ્રાસ-જોડ, એક પછી એક; દરેક જોડની બન્ને પંક્તિના છેડા સરખા સંભળાય છે.",
+        "rhyming_words": [
+         "પાય — થાય",
+         "વિશ્વાસ — ખાસ"
+        ],
+        "note": "પહેલી જોડમાં 'પાય' ને 'થાય' સરખા સંભળાય છે, એટલે ગણતરી ગાતાં ગાતાં ચાલે છે. છેલ્લી જોડમાં 'વિશ્વાસ' ને 'ખાસ' સરખા સંભળાય છે, ને કાવ્ય ત્યાં જ પૂરું થાય છે."
+       },
+       "shabdarth": [
+        {
+         "shabd": "પાય",
+         "arth": "પગ",
+         "prakar": "કાવ્ય-રૂપ"
+        },
+        {
+         "shabd": "દશ",
+         "arth": "દસ",
+         "prakar": "કાવ્ય-રૂપ"
+        },
+        {
+         "shabd": "વિશ્વાસ",
+         "arth": "ભરોસો",
+         "prakar": "તત્સમ"
+        },
+        {
+         "shabd": "ખરા",
+         "arth": "સાચા, અસલી",
+         "prakar": "તદ્ભવ"
+        },
+        {
+         "shabd": "નકામા",
+         "arth": "કશા કામના નહિ",
+         "prakar": "તદ્ભવ"
+        }
+       ],
+       "samanarthi": [
+        {
+         "shabd": "પાય",
+         "samanarthi": [
+          "પગ"
+         ]
+        },
+        {
+         "shabd": "વિશ્વાસ",
+         "samanarthi": [
+          "ભરોસો",
+          "શ્રદ્ધા"
+         ]
+        }
+       ],
+       "vilom": [
+        {
+         "shabd": "છેલ્લા",
+         "vilom": "પહેલા"
+        }
+       ],
+       "vyakaran": [
+        {
+         "bindu": "વચન",
+         "udaharan": "ધૂળો કહે : 'આ હાથ બે, બે આંખો, બે પાય,",
+         "note": "એક હોય ત્યારે 'આંખ' ને 'કાટલું', ને એકથી વધારે હોય ત્યારે 'આંખો' ને 'કાટલાં' — શબ્દનું રૂપ સંખ્યા પ્રમાણે બદલાય છે."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "difficult_words": [
+    {
+     "word": "ચોંક્યા",
+     "meaning": "ચમકી ગયા, અચાનક નવાઈ પામ્યા",
+     "example": "અચાનક વીજળી થતાં નાનાં બાળકો ચોંકી ગયાં."
+    },
+    {
+     "word": "ઘોર",
+     "meaning": "'આપણી ઘોર થશે' એટલે આપણું આવી બનશે",
+     "example": "વરસાદમાં પલળીને આવ્યા તો આજે ઘોર થશે એમ એને લાગ્યું."
+    },
+    {
+     "word": "નાઠા",
+     "meaning": "નાસી ગયા, ભાગી છૂટ્યા",
+     "example": "ઘંટ વાગતાં જ છોકરાં મેદાન તરફ નાઠાં."
+    },
+    {
+     "word": "હાથ બતાવવો",
+     "meaning": "તાકાતનો પરચો બતાવવો, આવડત બતાવવી",
+     "example": "દોડની હરીફાઈમાં એણે સૌને હાથ બતાવી દીધો."
+    },
+    {
+     "word": "વળતો",
+     "meaning": "પાછો ફરતો, પરત આવતો",
+     "example": "બજારેથી વળતો હું દાદીના ઘરે થઈને આવ્યો."
+    },
+    {
+     "word": "જાવું'તું",
+     "meaning": "જવું હતું",
+     "example": "બોલચાલમાં આપણે 'જવું હતું'ને બદલે 'જાવું'તું' બોલી નાખીએ છીએ."
+    },
+    {
+     "word": "વારતા",
+     "meaning": "વાર્તા",
+     "example": "કવિતામાં લય સાચવવા કવિ 'વાર્તા'ને બદલે 'વારતા' લખે છે."
+    },
+    {
+     "word": "પાય",
+     "meaning": "પગ",
+     "example": "જૂનાં ગીતોમાં 'પગ'ને બદલે 'પાય' શબ્દ સાંભળવા મળે છે."
+    }
+   ],
+   "overall_rhyme_scheme": "છેલ્લા ભાગની જોડ છે જોર — ઘોર, સાથ — હાથ, ગામ — કામ, તમામ — નામ, પાય — થાય, વિશ્વાસ — ખાસ. અહીં પણ કોઈ પંક્તિ પાછી આવતી નથી; દરેક જોડ વારતાને પૂરી થવા તરફ લઈ જાય છે. છેલ્લી જોડ 'વિશ્વાસ' ને 'ખાસ' પર પૂરી થાય છે, એટલે કાવ્ય ત્યાં જ અટકે છે ને છેલ્લી વાત કાનમાં રહી જાય છે."
+  }
+ ]
+}

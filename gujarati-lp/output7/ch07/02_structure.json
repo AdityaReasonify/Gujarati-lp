@@ -1,0 +1,662 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati7_ch7",
+  "plan_id": "gseb_eng_gujarati7_ch7_v1",
+  "grade": 7,
+  "chapter_name": "એક માણસનું સૈન્ય",
+  "genre": "ચરિત્ર-પ્રસંગ",
+  "active_genre_profiles": [
+    "charitra_prasang.md"
+  ],
+  "teaching_lens": "પ્રસંગ + સ્વભાવ + મૂલ્ય",
+  "guiding_question": "એકલા રણછોડ પગીએ સરહદ પર એવું તે શું કરી બતાવ્યું કે જનરલ માણેકશાએ એમને 'એક માણસનું સૈન્ય' કહ્યા ?",
+  "explanation_unit": "એક જીવન-પ્રસંગ",
+  "cut_summary": {
+    "reading_markers_in_normalized": [
+      "[[ઘટના: સૂઈગામથી ઊપડેલી બસ લશ્કરી પોસ્ટ પર પહોંચે છે]]",
+      "[[ઘટના: સૈનિક સરહદ અને પોસ્ટનું નામ સમજાવે છે]]",
+      "[[ઘટના: 'એક માણસનું સૈન્ય' નામ ક્યાંથી આવ્યું]]",
+      "[[ઘટના: પગી એટલે શું]]",
+      "[[ઘટના: ઈ.સ. 1965ના યુદ્ધમાં રણછોડ રબારીની કામગીરી]]",
+      "[[ઘટના: ઈ.સ. 1971ના યુદ્ધમાં બોરિયાબેટથી ધોરા સુધીની ગુપ્ત માહિતી]]",
+      "[[ઘટના: ખૂટેલો દારૂગોળો ઘાયલ અવસ્થામાં ઊંટ ઉપર પહોંચાડ્યો]]",
+      "[[ઘટના: ઢાકાની પાર્ટીનું નિમંત્રણ અને રોટલો-ડુંગળીનું ભોજન]]",
+      "[[ઘટના: પાકિસ્તાનનું ઇનામ અને પગલાં ઉકેલવાની આવડત]]",
+      "[[ઘટના: ફિલ્મ અને સન્માન]]",
+      "[[ઘટના: જન્મ, લિંબાળા આવીને વસવું, અવસાન અને અંતિમસંસ્કાર]]",
+      "[[ઘટના: ચેકપોસ્ટને અપાયેલી અંજલિ અને પ્રવાસનું સમાપન]]"
+    ],
+    "reading_markers_count": 12,
+    "topics": 12,
+    "segments": 6,
+    "modules": 4,
+    "concepts": 16,
+    "objectives": 12,
+    "non_topic_markers": [
+      "[[પ્રવેશપેટી]]",
+      "[[ચિત્ર: સરહદ પર પગલાં તપાસતા પગી, ઊંટ અને કાંટાળા તારની વાડ — છપાયેલા પાના 37 પર]]",
+      "[[ચિત્ર: સૈનિક વિદ્યાર્થીઓ અને શિક્ષિકાને પોસ્ટ પર વાત કરે છે; ઊંટ પર જવાન — છપાયેલા પાના 39 પર]]",
+      "[[ચિત્ર: ફૂલહારથી શણગારેલી રણછોડ પગીની પ્રતિમા — છપાયેલા પાના 40 પર]]",
+      "[[શબ્દાર્થ]]",
+      "[[રૂઢિપ્રયોગ]]",
+      "[[સ્વાધ્યાય: …]] × 17",
+      "[[ઉખાણું-પેટી — પાઠ પછીની મનોરંજન-પેટી, સ્વાધ્યાય નહિ]]"
+    ],
+    "ghatna": 12,
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0,
+    "tek_occurrences": 0
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સૂઈગામથી ઊપડેલી બસ કઈ સરહદી ચોકીએ પહોંચી અને ત્યાં જવાની રજા મેળવવા શિક્ષકોએ શું બતાવવું પડ્યું તે પાઠમાંથી શોધીને કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સૈનિકે બતાવેલી કાંટાળા તારની વાડ કઈ બે બાજુ જુદી પાડે છે, અને આ ચોકી કોના નામે ઓળખાય છે તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2",
+        "M1.S1.T2.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "જનરલ માણેકશાએ રણછોડ પગીને એક માણસના સૈન્ય તરીકે કેમ ઓળખાવ્યા તે સૈનિકના જવાબમાંથી શોધીને પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પગી કોને કહેવાય અને પગલાંની છાપ પરથી પગી કઈ કઈ વાત જાણી લે છે તે સૈનિકે આપેલી સમજૂતીમાંથી કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T4",
+      "anchor": [
+        "M1.S2.T4.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કચ્છની સરહદે રણછોડ પગીએ બાતમી, પાણીની ખેપ અને દિશાના જ્ઞાનથી કઈ મદદ કરી તે શોધીને, એ મદદ કેમ નિર્ણાયક બની તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C6",
+        "M2.S3.T5.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રણછોડ પગી બોરિયાબેટથી ઊંટ ઉપર ક્યાં ગયા અને ધોરા વિસ્તારમાંથી કઈ ગુપ્ત માહિતી લાવીને સૈન્યને પહોંચાડી તે પાઠમાંથી કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": [
+        "M2.S3.T6.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સૈન્ય પાસે દારૂગોળો ખૂટ્યો ત્યારે રણછોડ પગીએ શું કર્યું અને ઘાયલ હાલતમાં કરેલી એ ખેપ કેટલી જોખમી હતી તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T7",
+      "anchor": [
+        "M2.S4.T7.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઢાકાની પાર્ટીમાં જતાં પહેલાં રણછોડ પગીએ હેલિકોપ્ટર કેમ ઊભું રખાવ્યું તે કહીને, રોટલા-ડુંગળીના ભાથાનો એ પ્રસંગ એમના સ્વભાવ વિશે શું બતાવે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T8",
+      "anchor": [
+        "M2.S4.T8.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઊંટના અને માણસના પગનાં નિશાન પરથી રણછોડ પગી કઈ કઈ વિગત કહી દેતા તે શોધીને, સરહદ પર એ આવડત કેમ કીમતી હતી તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T9",
+      "anchor": [
+        "M3.S5.T9.C11",
+        "M3.S5.T9.C12"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O10",
+      "legacy_id": "L10",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રણછોડ પગીના રાષ્ટ્રપ્રેમ અને સેવાની કદર ફિલ્મ દ્વારા, રાજ્ય સરકારે અને સેનાએ કઈ કઈ રીતે કરી તે પાઠમાંથી શોધીને કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M3.S5.T10",
+      "anchor": [
+        "M3.S5.T10.C13"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O11",
+      "legacy_id": "L11",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રણછોડ પગી કયા રણમાર્ગે બનાસકાંઠાના મોસાળના ગામ લિંબાળા આવીને વસ્યા અને એમની કઈ બે ઇચ્છા પાળવામાં આવી તે પાઠમાંથી કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M4.S6.T11",
+      "anchor": [
+        "M4.S6.T11.C14",
+        "M4.S6.T11.C15"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O12",
+      "legacy_id": "L12",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સૂઈગામ પાસેની ચેકપોસ્ટને રણછોડદાસનું નામ કેમ અપાયું તે કહીને, નામ આપવું એ કદર કરવાની કઈ રીત છે તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M4.S6.T12",
+      "anchor": [
+        "M4.S6.T12.C16"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9",
+    "L10": "O10",
+    "L11": "O11",
+    "L12": "O12"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "સરહદની ચોકી અને એક નામનો સવાલ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "ચેકપોસ્ટ સુધી પહોંચેલો શાળાપ્રવાસ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "સૂઈગામથી સરહદી ચોકી સુધીનો પ્રવાસ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: સૂઈગામથી ઊપડેલી બસ લશ્કરી પોસ્ટ પર પહોંચે છે]]"
+              ],
+              "source_lines_00_normalized": "12-14",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "શાળાપ્રવાસ પહોંચે છે તે સરહદી ચોકી",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "તારની વાડ અને નાગરિકના નામની ચોકી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: સૈનિક સરહદ અને પોસ્ટનું નામ સમજાવે છે]]"
+              ],
+              "source_lines_00_normalized": "19-29",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "કાંટાળી વાડની બે બાજુનો સરહદી વિસ્તાર",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S1.T2.C3",
+                  "concept_name": "નાગરિકના નામે ઓળખાતી ગુજરાતની એકમાત્ર ચોકી",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "એકલા માણસનું સૈન્ય અને પગી કોને કહેવાય",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "એકલા માણસે લશ્કર જેટલું કામ કર્યું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: 'એક માણસનું સૈન્ય' નામ ક્યાંથી આવ્યું]]"
+              ],
+              "source_lines_00_normalized": "32-36",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C4",
+                  "concept_name": "એક લશ્કર જેટલું કામ કરનાર એકલો માણસ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T4",
+              "topic_name": "પગલાં પારખનારને પગી કહે છે",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: પગી એટલે શું]]"
+              ],
+              "source_lines_00_normalized": "39-41",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T4.C5",
+                  "concept_name": "સગડ ઓળખીને પગેરું કાઢવાની આવડત",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "યુદ્ધભૂમિ પર બજાવેલી સેવા",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "રણમાં દોરેલા રસ્તા અને લાવેલી બાતમી",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "કચ્છની સરહદે ભોમિયો બનીને આપેલી બાતમી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: ઈ.સ. 1965ના યુદ્ધમાં રણછોડ રબારીની કામગીરી]]"
+              ],
+              "source_lines_00_normalized": "44-54",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C6",
+                  "concept_name": "કચ્છની સરહદે ઊભી થયેલી કપરી સ્થિતિ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T5.C7",
+                  "concept_name": "બાતમી, પાણીની ખેપ અને તારાઓથી બતાવેલો ટૂંકો રસ્તો",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "બોરિયાબેટથી ધોરા સુધીની ગુપ્ત ખેપ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: ઈ.સ. 1971ના યુદ્ધમાં બોરિયાબેટથી ધોરા સુધીની ગુપ્ત માહિતી]]"
+              ],
+              "source_lines_00_normalized": "57",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C8",
+                  "concept_name": "ઊંટ ઉપર જઈને લાવેલી ગુપ્ત માહિતી",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "દારૂગોળાની ખેપ અને ભાથાનો ડબ્બો",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T7",
+              "topic_name": "ઘાયલ હાલતમાં ઊંટ ઉપર પહોંચાડેલો દારૂગોળો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T6"
+              ],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: ખૂટેલો દારૂગોળો ઘાયલ અવસ્થામાં ઊંટ ઉપર પહોંચાડ્યો]]"
+              ],
+              "source_lines_00_normalized": "60-62",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T7.C9",
+                  "concept_name": "ઘાયલ હાલતમાં પહોંચાડેલો દારૂગોળો",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T8",
+              "topic_name": "હેલિકોપ્ટર ઊભું રખાવીને લીધેલું ભાથું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S4.T7"
+              ],
+              "objective_ids": [
+                "O8"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: ઢાકાની પાર્ટીનું નિમંત્રણ અને રોટલો-ડુંગળીનું ભોજન]]"
+              ],
+              "source_lines_00_normalized": "65-69",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T8.C10",
+                  "concept_name": "રોટલો, મરચું ને ડુંગળીના ભાથાની સાદગી",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "પારખવાની આવડત અને મળેલી કદર",
+      "segments": [
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "નિશાન ઉકેલવાની ચોકસાઈ અને થયેલી કદર",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T9",
+              "topic_name": "માથા સાટે ઇનામ અને નિશાન ઉકેલવાની ચોકસાઈ",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O9"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: પાકિસ્તાનનું ઇનામ અને પગલાં ઉકેલવાની આવડત]]"
+              ],
+              "source_lines_00_normalized": "72",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T9.C11",
+                  "concept_name": "એમના માથા સાટે રખાયેલું ઇનામ",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S5.T9.C12",
+                  "concept_name": "નિશાન પરથી ઉંમર અને વજન કહી દેવાની ચોકસાઈ",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S5.T10",
+              "topic_name": "ફિલ્મ અને મળેલાં સન્માન",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O10"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: ફિલ્મ અને સન્માન]]"
+              ],
+              "source_lines_00_normalized": "75-81",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T10.C13",
+                  "concept_name": "ફિલ્મ, રાજ્યનું સન્માન અને મળેલા મેડલ",
+                  "objective_id": "O10",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M4",
+      "module_name": "લિંબાળાનું ઘર અને સેનાની અંજલિ",
+      "segments": [
+        {
+          "segment_id": "M4.S6",
+          "segment_name": "મોસાળના ગામથી ચોકીના નામ સુધી",
+          "topics": [
+            {
+              "topic_id": "M4.S6.T11",
+              "topic_name": "લિંબાળા આવીને વસવું અને છેલ્લી ઇચ્છા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O11"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: જન્મ, લિંબાળા આવીને વસવું, અવસાન અને અંતિમસંસ્કાર]]"
+              ],
+              "source_lines_00_normalized": "86-88",
+              "concepts": [
+                {
+                  "concept_id": "M4.S6.T11.C14",
+                  "concept_name": "રણમાર્ગે કચ્છ થઈ મોસાળના ગામે આવીને વસવું",
+                  "objective_id": "O11",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M4.S6.T11.C15",
+                  "concept_name": "પાઘડી અને પોતાના ખેતરમાં અંતિમસંસ્કારની ઇચ્છા",
+                  "objective_id": "O11",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M4.S6.T12",
+              "topic_name": "ચેકપોસ્ટના નામમાં અપાયેલી અંજલિ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "easy",
+              "depends_on": [
+                "M1.S1.T2"
+              ],
+              "objective_ids": [
+                "O12"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: ચેકપોસ્ટને અપાયેલી અંજલિ અને પ્રવાસનું સમાપન]]"
+              ],
+              "source_lines_00_normalized": "91-97",
+              "concepts": [
+                {
+                  "concept_id": "M4.S6.T12.C16",
+                  "concept_name": "પરાક્રમની કદરરૂપે ચોકીને અપાયેલું નામ",
+                  "objective_id": "O12",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "not_cut_as_topics": [
+    "શીર્ષક-પટ્ટી '7 એક માણસનું સૈન્ય' અને લેખક-લીટી '- ડૉ. રવજી ગાબાણી' — છપાયેલી header furniture. Not a reading scene; the author line sits under the title bar, so it belongs in no topic's original_chunk (note for Agent 5). The QR badge at the top right of printed p. 37 (code Z9A4A1, read but not transcribed by Agent 1) is header furniture too — reference/explanation_unit_map.md.",
+    "[[પ્રવેશપેટી]] — the blue teacher-addressed intro box on printed p. 37. It is the chapter's strongest genre evidence ('આ ગુજરાતના એક વીર સપૂતની સાહસકથા છે.') and it names the second payload ('એક અજાણ્યા ભૂ-પ્રદેશનો પરિચય'), but it is apparatus: it feeds key_terms and ભાષા-બોધ, never a topic. Its instructions are addressed to the teacher and must not be turned into a closing બોધ in any explanation (charitra_prasang.md avoid-gate 12).",
+    "[[શબ્દાર્થ]] box (printed p. 41), 16 head-words — પંથ, ઊભડક, હેમખેમ, બાવલું, ભાથું, મશગૂલ, ભાવવિભોર, પગેરું શોધવું, સગડ, કોઠાસૂઝ, પગી, હરકત, નિષ્ઠાવાન, કદર, કીક, અંજલિ આપવી. Apparatus: evidence of difficulty and a feed for point-of-use glossing, never a topic and never the source of a gloss (reference/shabd_gloss.md).",
+    "[[રૂઢિપ્રયોગ]] pre-block printed directly under the શબ્દાર્થ box (six idioms). Apparatus, not an exercise row and not a topic. It carries the chapter's only printed 'દુશ્મન' idiom ('દુશ્મનના દાંત ખાટા કરવા'); that wording is quotable only as printed apparatus, never as authored prose (charitra_prasang.md avoid-gate 9).",
+    "Three [[ચિત્ર]] markers (printed pp. 37, 39, 40). No captions are printed; they are scene evidence for Agent 9, not topics. Agent 5 note: the second ચિત્ર marker (line 48) sits INSIDE M2.S3.T5's ઘટના — that topic's verbatim runs lines 44-46 and then 50-54, skipping the marker line. Do not cut at the picture. The third ચિત્ર marker (line 83) sits between M3.S5.T10 and M4.S6.T11 and belongs to neither chunk.",
+    "The seventeen numbered pink સ્વાધ્યાય blocks (વાતચીત … નીચેના ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.) stay in 01_meta.json's exercise_inventory and are Agent 10's work alone. Two of them print whole paragraphs that are NOT this chapter's reading matter and were not folded into the ઘટના chain: the અનુલેખન paragraph (લોંગેવાલા, મેજર કુલદીપસિંહ ચાંદપુરી) is a different battle with different people, and the અનુવાદ paragraph (સાબર અને એનાં શિંગડાં) is an unrelated text.",
+    "[[ઉખાણું-પેટી]] — the chapter-final riddle box ('એમના સસરા અને મારા સસરા સગા બાપ-દીકરો થાય.') is appended fun matter, never a topic. Agent 1 measured that this chapter prints NO green grammar box, NO ભાષા-અભિવ્યક્તિ block and NO ચર્ચા-વિચારણા box; that absence is recorded, not overlooked."
+  ],
+  "notes": [
+    "Cut by the સ્વરૂપ's unit, not by habit. 01_meta.json sets explanation_unit 'એક જીવન-પ્રસંગ' and charitra_prasang.md sets 'one episode that shows one quality — or one printed person-section'. The rendered page prints NO section headings and NO person-heads, so the person-section half of the rule does not apply here and the episode half does. No disagreement with the prior table in agents/02_structure.md to report.",
+    "Marker-to-topic is 1:1 and nothing was swallowed or invented. 00_chapter_normalized.md carries TWELVE [[ઘટના: …]] reading markers and this file carries twelve topics, one per marker; 01_meta.json's structure_inventory.ghatna = 12 matches exactly. Agent 1 flagged its segmentation as 'a reading, not a printed division' and left the cut to me: I walked every boundary against the પરિસ્થિતિ → કૃત્ય → પરિણામ test and kept all twelve — each marker opens a new situation or a new act, and none of them splits an act from what followed it.",
+    "The frame is a topic, twice, and deliberately. charitra_prasang.md names this exact chapter: 'std-7 ch 7's school study-tour reaching the રણછોડદાસ ચેકપોસ્ટ — the only BSF post named after a civilian — is a topic (topic_category: introduction), because why the telling happens is part of the argument.' M1.S1.T1 and M1.S1.T2 hold that arrival, and M4.S6.T12 holds the closing frame as resolution.",
+    "The જવાન's handover line is not a topic. ''એની પણ એક કથા છે !'' closes M1.S1.T2 because it answers મિતાંશનો સવાલ; the eager-children sentence at line 32 opens M1.S2.T3 on its own (pre-topic-hook rule, reference/explanation_unit_map.md rule 2).",
+    "The long quoted narration was NOT allowed to create boundaries. The જવાન's account runs in quotation marks from M1.S2.T3 to M4.S6.T12 with the children's questions breaking into it; the cut follows the episode, never the quotation mark (charitra_prasang.md, 'A quoted narration block does not create boundaries').",
+    "Two concepts only where a topic genuinely does two separable things — M1.S1.T2 (the તારની વાડ as ભૂ-પ્રદેશ, and the post's unique naming), M2.S3.T5 (the situation on the border, and the three things he actually did), M3.S5.T9 (the price on his head, and the precision of his reading), M4.S6.T11 (the journey to લિંબાળા, and the two wishes kept at the end). The other eight topics carry one concept each. The concept counter is chapter-continuous, C1 → C16.",
+    "depends_on records real dependence only, three edges in all: M2.S4.T7 depends on M2.S3.T6 (the teacher's 'એ વખતે શું થયું હતું એ વિગતે કહોને !' points back to the same યુદ્ધ M2.S3.T6 opened); M2.S4.T8 depends on M2.S4.T7 ('આપણા ત્યારના લશ્કરી વડા જનરલ માણેકશાને આ વાતની ખબર મળી' — 'આ વાત' is the દારૂગોળો ખેપ); M4.S6.T12 depends on M1.S1.T2 (the post's name is stated there and its reason is given only here). All other topics carry [].",
+    "Craft-label ceiling observed (agents/02_structure.md §4; profiles/students/std-7.md §2 genre gate). No objective names an અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર — the intro box's own word સાહસકથા is deliberately kept out of the objectives, and no objective asks the child to name a form. The objectives ask the child to find, tell and explain from the printed lines.",
+    "Sensitivity carried into the objectives, not left for Agent 8 alone (charitra_prasang.md avoid-gate 9; 01_meta.json's sensitivity flag). No objective_text, topic_name, segment_name, module_name or concept_name in this file contains દુશ્મન, શત્રુ, a nation's name, or a count of losses; every wartime topic's objective names the skill or the terrain the episode actually turned on — બાતમી, પાણીની ખેપ, દિશાનું જ્ઞાન, ઊંટની ખેપ, નિશાન ઉકેલવાની ચોકસાઈ. M3.S5.T9's topic_name and concept name state the ઇનામ in the passive ('માથા સાટે રખાયેલું ઇનામ') for the same reason.",
+    "Avoid-gate 5 observed: no topic_name uses a life-stage label. M4.S6.T11 covers જન્મ, વસવાટ and અંતિમસંસ્કાર under 'લિંબાળા આવીને વસવું અને છેલ્લી ઇચ્છા' — the page prints no બાળપણ / શિક્ષણ / કારકિર્દી / જીવન અને કાર્ય head, so none is used. No name and no objective carries a digit (reference/global_content_rules.md rule 4); the two war years live only in the markers and in provenance, never in display text, and the two war episodes are told apart by place (કચ્છની સરહદ vs બોરિયાબેટ-ધોરા) rather than by year.",
+    "Uneven topic length, flagged for Agents 5, 12 and 13. M2.S3.T5 spans eleven printed lines and holds the chapter's densest paragraph, while M2.S3.T6 and M3.S5.T9 are each a single printed paragraph. The unevenness is the page's, not the cut's — merging T6 into T5 would fuse two separate wars and splitting T5 would cut the act from its પરિણામ. difficulty 'hard' on M2.S3.T5 and M4.S6.T11 records where the reading actually stops a std-7 L2 child: T5 for its length and its વ્યૂહાત્મક પોઝિશન / છૂપી હરકતો / વળતો હુમલો cluster, T11 for one very long multi-clause sentence carrying ત્રાસ, શસ્ત્રો છીનવીને and રણમાર્ગે at once. Neither is 'hard' for any craft reason — no topic here may be hard for a device it is not allowed to name.",
+    "difficulty is relative inside this chapter and is not a Bloom cap: the easy topics (T1, T2, T3, T10, T12) still carry Understand and Analyze objectives, and the recall ladder Agent 12 builds on them is expected to reach motive inference, which profiles/students/std-7.md §2 names as this standard's ceiling.",
+    "M3 holds a single segment (M3.S5) because the chapter gives it only two topics — the skill stated plainly and the કદર that followed. Segment and topic counters run across the whole chapter and never restart (M1.S1 → M1.S2 → M2.S3 → M2.S4 → M3.S5 → M4.S6; T1 → T12).",
+    "topic_type CONCEPT is used three times and each time for printed matter that states a fact rather than narrating an act: M1.S2.T4 (the definition of પગી, given as an answer to નિધિનો સવાલ), M3.S5.T9 (what his reading of નિશાન could actually deliver) and M3.S5.T10 (the ફિલ્મ and the સન્માન — charitra_prasang.md's 'a dated facts-cluster is a legitimate topic where the chapter is built of facts'). Everything else is STORY_TELLING. No REVIEW topic is set: the chapter's closing wrap sentence ('તો બાળદોસ્તો, આવા હતા…') sits inside M4.S6.T12's narrative and does not stand as a separate printed wrap — flagged here so Agent 13 can see the choice was made, not missed.",
+    "Genre tension recorded by Agent 1 was re-checked at the cut and does not change it. The સ્વાધ્યાય carries two વાર્તા tells (the ઘટનાક્રમ ordering block and the std-7 counterfactual), but cutting by ઘટના and cutting by જીવન-પ્રસંગ land on the same twelve boundaries here, because every ઘટના in this chapter is an episode of one real man's life. The ordering block is prepared by the topics that hold one whole પ્રસંગ each; the counterfactual ('ભારતીય સેનાને રણછોડ પગીની મદદ ન મળી હોત તો ?') is prepared by M2.S3.T5, whose printed close states exactly what was at stake.",
+    "original_chunk is left empty in every topic; Agent 5 fills it from the renders. source_lines_00_normalized is provenance for that transcription, not text."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "_comment": "The SECOND deliverable. Every સ્વાધ્યાય block inventoried in 01_meta.json is answered here and NOWHERE else — સ્વાધ્યાય is never a teaching topic. GSEB PDFs are image-only: prompt_verbatim is transcribed from the rendered page, never from a text layer. See reference/exercise_alignment.md and agents/10_exercise_solutions.md.",
+
+  "plan_id": "gseb_eng_gujarati6_ch1_v1",
+  "chapter_id": "gseb_eng_gujarati6_ch1",
+  "subject": "Gujarati",
+  "grade": 6,
+  "chapter_name": "<chapter name, Gujarati script, exactly as printed — e.g. એક જ ડાળનાં પંખી>",
+
+  "exercises": [
+    {
+      "exercise_id": "EX1",
+      "exercise_group": "વાતચીત",
+      "skill": "reading comprehension|vocabulary|grammar|literary device|speaking|listening|writing|values",
+      "prompt_verbatim": "<the book's EXACT Gujarati wording, options included — printed spacing, the spaced '?', a trailing ':' and the full stop '.' as the reader prints it; never a danda>",
+      "answer": "<the answer, in Gujarati>",
+      "explanation": "<why this is right — and for a ખરું (✓) કરો / બહુવિકલ્પ item, why the tempting wrong option is wrong>",
+      "acceptable_alternatives": ["<other defensible answers>"],
+      "values_filled_for_teaching": "<filled table/grid/blank values where the book leaves them empty; null if not applicable>",
+      "teacher_note": "<how to run it in class; keep the book's own printed block number here when it matters — EX{n} is our consecutive counter, not the book's>",
+      "is_model_answer": false,
+      "covered_by_topics": ["M1.S1.T1"]
+    }
+  ],
+
+  "coverage_report": {
+    "blocks_found": ["વાતચીત", "કવિતામાંથી ઉદાહરણ મુજબ પંક્તિ શોધીને લખો.", "કાવ્યપંક્તિના સૌથી નજીકના અર્થ સામે ખરું (✓) કરો.", "કાવ્યને આધારે નીચેનાં વાક્યો ખરાં છે કે ખોટાં તે જણાવો. વાક્ય ખોટું હોય તો સુધારીને સાચું વાક્ય લખો.", "નીચેના ફકરામાં ખાલી જગ્યા પૂરો.", "પ્રશ્નોના જવાબ લખો.", "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો."],
+    "blocks_answered": ["વાતચીત", "કવિતામાંથી ઉદાહરણ મુજબ પંક્તિ શોધીને લખો.", "કાવ્યપંક્તિના સૌથી નજીકના અર્થ સામે ખરું (✓) કરો.", "કાવ્યને આધારે નીચેનાં વાક્યો ખરાં છે કે ખોટાં તે જણાવો. વાક્ય ખોટું હોય તો સુધારીને સાચું વાક્ય લખો.", "નીચેના ફકરામાં ખાલી જગ્યા પૂરો.", "પ્રશ્નોના જવાબ લખો.", "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો."],
+    "unanswered": [],
+    "unmapped": [],
+    "_note": "unmapped is an exercise that maps to no reading scene — a signal the cut missed a scene. Report it; never invent a mapping. blocks_found lists EVERY heading in 01_meta.json's exercise_inventory, verbatim and in printed order, and must match it entry for entry — the seven above are the first seven of std-6 ch 1's thirteen printed blocks, shown as a shape. Most GSEB readers print no 'સ્વાધ્યાય' banner: the numbered headings below the શબ્દાર્થ box ARE the blocks, re-worded per chapter, so never assume a heading list."
+  }
+}

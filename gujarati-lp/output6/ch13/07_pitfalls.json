@@ -1,0 +1,169 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, any `concept_bullets` line, `summary`, `detailed_summary` or any `recall_questions[].answer` may confirm or correct સવિતાના દાદાની વાત — ‘‘મારા દાદા કહેતા હતા કે રાહુ નામનો રાક્ષસ સૂર્યને થોડો સમય માટે ગળી જાય એટલે સૂર્યગ્રહણ થાય.’’ — against science: no clause of the shape ‘ખરેખર એવું ન બને’, ‘વૈજ્ઞાનિક રીતે તો ચંદ્ર આડે આવે છે’, ‘આ માન્યતા ખોટી છે’, and equally no ‘આ સાચી વાત છે’. The belief is reported speech and is taught as what સવિતા says her grandfather said. The dictionary gloss already in this topic's `key_terms` (`સૂર્યગ્રહણ — ચંદ્ર આડે આવવાથી સૂર્યનું બિંબ ઢંકાઈ જાય તે`) is a word meaning, not a correction of the tale, and is not a breach.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may attach an evaluative label to સવિતા or to her દાદા — અંધશ્રદ્ધાળુ, ભોળી, ખોટી, અજ્ઞાન, મૂરખ or any synonym. The chapter shows a girl raising her hand and being nodded at (‘‘સાહેબ હું કહું ?’’ … ભાસ્કરભાઈએ હકારમાં માથું હલાવ્યું), i.e. it treats her with sympathy; she may be described only by what she does — હાથ ઊંચો કરીને દાદાની સાંભળેલી વાત વર્ગમાં કહે છે.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક સવિતાના દાદાની વાત — ‘રાહુ નામનો રાક્ષસ સૂર્યને ગળી જાય એટલે સૂર્યગ્રહણ થાય’ — ને પાઠે પોતે આપેલી સૂર્યગ્રહણની સમજૂતી માની લે છે. વાત કોણ કહે છે એ બે વાક્યમાં જ ખોવાઈ જાય છે, એટલે એ સવિતાના દાદાની સાંભળેલી વાત છે એ પકડાતું નથી.",
+      "correction": "explanation ના પહેલા જ વાક્યમાં કહેનારનું નામ મૂકો — ‘સવિતા ઊભી થઈને કહે છે, ને એ પોતે જ કહે છે કે મારા દાદા કહેતા હતા…’ — જેથી વાત કોની છે એ પકડાય. પછી એ વાતને સાચી કે ખોટી ઠરાવ્યા વગર જ આગળ વધો; સૂર્યગ્રહણનો શબ્દાર્થ key_terms ની ગ્લોસ પૂરતો રાખો."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "Wherever the teaching quotes this topic's colloquial words they must appear in the printed form and be glossed, never swapped for their માનક ગુજરાતી equivalents inside the quotation: ‘અલી’ (not ‘ઓ છોકરી’), ‘વ્હાલીડાં’ (not ‘વહાલાં બાળકો’), ‘કહોને’, ‘હા વળી’, ‘હાય હાય’, ‘છે...ક’. Testable on `explanation`, `concept_bullets`, `key_terms` and `recall_questions[].answer`: any quoted string attributed to પ્રભા, ઉષા, રવિ, મિહિર or ભાસ્કરભાઈ must match this topic's `original_chunk` character-for-character, and no field may call any of these forms a mistake.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may attach an evaluative label to the arguing children: મિહિરની printed ‘થોડીક નારાજગી’ must not be re-described as જિદ્દ, ઉદ્ધતાઈ, ખોટું વર્તન or અધીરાઈનો દોષ; ઉષાની ‘‘એકવાર હનુમાનદાદા પણ આખો સૂર્ય ગળી ગયા હતા’’ must not be called ખોટી, અંધશ્રદ્ધા or ભૂલ; પ્રભાનું ‘‘એમ ના હોય’’ must not be called ડહાપણ or હોશિયારી over the others. The chapter's own verdict on this scene is printed — ‘ભાસ્કરભાઈને ખૂબ આનંદ થતો હતો… વર્ગમાં વિદ્યાર્થીઓ સરસ ચર્ચા કરતા હતા’ — and that is the only evaluation available.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "‘‘અલી, એમ ના હોય, સૂર્યને તે કોઈ ગળી શકતું હશે ?’’ વાંચીને બાળક ‘અલી’ ને કોઈનું નામ સમજી બેસે છે. એટલે વર્ગમાં એક નવું પાત્ર ઉમેરાઈ જાય છે અને આ વાક્ય પ્રભા બોલી છે એ વાત ખોવાઈ જાય છે.",
+      "correction": "explanation માં આ વાક્ય પહેલી વાર આવે ત્યાં જ ગ્લોસ કરો — ‘અલી એ સંબોધન છે, નામ નથી; બહેનપણીને બોલાવવાનો તળપદો શબ્દ છે’ — અને એ જ વાક્યમાં ‘પ્રભા બોલી’ એમ કહી બોલનારનું નામ સાથે જ મૂકી દો. ‘અલી’ ને પાઠના શબ્દરૂપે જ રહેવા દો, બદલો નહિ."
+    },
+    {
+      "topic_id": "M2.S3.T3",
+      "avoid_checks": [
+        {
+          "check": "This topic's `original_chunk` prints the chapter's own moral inside ભાસ્કરભાઈની વાણી — ‘બાળકોની પ્રવૃત્તિઓ કે રમતથી ક્યારેક નાનું કે મોટું નુકસાન થાય ત્યારે તે તોફાન કહેવાય.’ and ‘ભાઈ! તોફાન તો ન જ કરાય ને !’. These may be quoted, in quotation marks, as ભાસ્કરભાઈના પોતાના શબ્દો. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may add a moral of its own on top of them — no sentence of the form ‘આ વાર્તા આપણને શીખવે છે…’, ‘આપણે તોફાન ન કરવાં જોઈએ’, ‘બોધ એ છે કે…’ that is not this verbatim quotation.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "This topic ends at ‘એમાંની એક વાર્તા આજે તમને સંભળાવું!’ — the tale has not started. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` of this topic may name ફળ, ઊગતો સૂર્ય, રાહુ, ઇન્દ્ર, વજ્ર, પવનદેવનું વરદાન or હડપચી, i.e. anything that belongs to M2.S3.T4, M2.S4.T6 or M2.S4.T7. The only content available here is: હનુમાનદાદા નાના હતા ત્યારે જંપીને ન બેસતા, તોફાનની વ્યાખ્યા, ‘નાનકડા હનુમાનનાં તોફાન તો ગજબનાં’, અને વાર્તા સંભળાવવાની જાહેરાત.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "વચ્ચે આવતું ‘‘ભાઈ! તોફાન તો ન જ કરાય ને !’’ વાંચીને બાળક એને આખા પાઠનો બોધ સમજી બેસે છે, ને વાર્તા શરૂ પણ થઈ નથી ત્યાં જ ‘આ પાઠ તોફાન ન કરવાનું શીખવે છે’ એવો જવાબ તૈયાર કરી લે છે.",
+      "correction": "explanation માં એ વાક્યને અવતરણમાં જ, ભાસ્કરભાઈના પોતાના શબ્દો તરીકે મૂકો, અને કહો કે સાહેબ વાર્તા માંડતાં પહેલાં ‘તોફાન’ શબ્દનો અર્થ સમજાવી લે છે. પછી છેલ્લા વાક્ય ‘એમાંની એક વાર્તા આજે તમને સંભળાવું!’ પર જ અટકો — વાર્તા હવે શરૂ થાય છે એટલું જ કહો, એનો સાર નહિ."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "This topic carries `topic_category: \"climax\"`, and its turn is the last two sentences — ‘ખરેખર એ ફળ નહોતું. ઊગતો સૂર્ય હતો.’ No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` of M1.S1.T1, M1.S2.T2 or M2.S3.T3 may equate ફળ with સૂર્ય or reproduce the reveal words ‘ફળ નહોતું’ / ‘ઊગતો સૂર્ય’. Quoting ઉષાનું printed વાક્ય ‘‘એકવાર હનુમાનદાદા પણ આખો સૂર્ય ગળી ગયા હતા.’’ from M1.S2.T2's own `original_chunk` is not a breach — the tale's ending is not the reveal that is being protected; the ફળ-સૂર્ય identity is.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` must carry something this topic's `modified_chunk` does not: that the writer keeps the fruit's identity back until two short sentences at the end and, before that, gives us ભૂખ, ‘કોઈ વૃક્ષ પર પાકાં ફળ દેખાયાં નહિ’ and ‘મોંમાં પાણી આવી ગયું’ — so the reader looks at the સૂર્ય with હનુમાનની ભૂખી નજરે. If `explanation` could be replaced by `modified_chunk` with no loss of information, the topic fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may apply an evaluative label to નાનકડા હનુમાન — લોભી, ખાઉધરો, મૂરખ, ગુનેગાર, ખોટું કરનાર or any synonym. The passage shows a hungry child who woke early and found માતા અંજની missing; ‘તોફાન’ is the chapter's own affectionate word (‘નાનકડા હનુમાનનાં તોફાન તો ગજબનાં’) and may be used only in that printed sense.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No field of this topic may correct the કથા against science at the reveal: no sentence asserting ‘સૂર્ય ફળ નથી, એ તો તારો છે’, ‘આટલે દૂર કૂદીને પહોંચાય નહિ’, ‘ખરેખર એવું ન બને’. ‘ખરેખર એ ફળ નહોતું. ઊગતો સૂર્ય હતો.’ is the tale's own turn and is taught as the tale's turn, inside the tale's world.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "‘‘ભાઈસાહેબને રોજની જેમ જ બરાબરની ભૂખ લાગી હતી.’’ વાંચીને બાળક ‘ભાઈસાહેબ’ ને કોઈ નવું પાત્ર — કોઈ મોટા ભાઈ કે સાહેબ — સમજી બેસે છે. એટલે ભૂખ કોને લાગી ને ફળ કોણે જોયું એ આખી કડી તૂટી જાય છે.",
+      "correction": "explanation માં એ વાક્ય પહેલી વાર આવે ત્યાં જ ગ્લોસ કરો — ‘ભાઈસાહેબ એટલે અહીં નાનકડા હનુમાન જ; લેખક લાડમાં એમને એમ કહે છે’ — અને પછીના વાક્યમાં ફરી ‘નાનકડા હનુમાન’ નામ વાપરો, જેથી બાળકને આખા ફકરામાં એક જ પાત્ર દેખાય."
+    },
+    {
+      "topic_id": "M2.S4.T5",
+      "avoid_checks": [
+        {
+          "check": "This topic's `original_chunk` is only a request and a yes. `explanation` must therefore add what `modified_chunk` cannot: that the teller changes hands here — અત્યાર સુધી ભાસ્કરભાઈ કહેતા હતા, હવે વિદ્યાર્થી આદિત્ય ઊભો થઈને કહે છે — and that ભાસ્કરભાઈ ‘‘હા ! હા ! કહેને !’’ કહીને રાજી થઈને જગ્યા આપે છે. An `explanation` that only restates ‘આદિત્યે પૂછ્યું અને સાહેબે હા પાડી’ fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may turn this hand-over into a rule — no sentence of the form ‘શિક્ષકે વિદ્યાર્થીઓને તક આપવી જોઈએ’, ‘આપણે પણ હિંમત કરીને બોલવું જોઈએ’, ‘આ વાર્તા આપણને શીખવે છે…’. What happened is reported: આદિત્યે માગ્યું, સાહેબે હા પાડી, આદિત્ય ઊભો થયો.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ધ્યાનમાં લેતું નથી કે અહીંથી વાર્તા કહેનાર બદલાયો છે. એટલે પછીનો આખો ભાગ પણ ભાસ્કરભાઈ કહે છે એમ વાંચે છે, અને ‘આદિત્યે વાત પૂરી કરી’ સુધી પહોંચે ત્યારે આદિત્ય ક્યાંથી આવ્યો એ સમજાતું નથી.",
+      "correction": "explanation માં સાફ શબ્દોમાં કહો કે અહીં સુધીની વાર્તા ભાસ્કરભાઈ કહેતા હતા ને હવે આદિત્ય ઊભો થઈને આગળ કહે છે. ‘‘સાહેબ ! સાહેબ ! આટલેથી આગળની વાર્તા હું કહું ?’’ એ વાક્ય અવતરણમાં ટાંકીને ‘અહીં ‘હું’ એટલે આદિત્ય’ એમ પકડાવો, અને ‘આટલેથી — અહીંથી’ ગ્લોસ સાથે રાખો."
+    },
+    {
+      "topic_id": "M2.S4.T6",
+      "avoid_checks": [
+        {
+          "check": "No `explanation`, `real_life_example`, `concept_bullets` line, `summary`, `detailed_summary` or `recall_questions[].answer` may assert that this topic's events did or did not happen, or correct them against science: no clause about હનુમાનનું આકાશમાં ઊડવું, રાહુનો printed નિયમ ‘ગ્રહણકાળ દરમિયાન સૂર્ય પર હુમલો કરવા’, ઇન્દ્રનું વજ્ર or સૂર્યલોક of the shape ‘ખરેખર એવું ન બને’, ‘વૈજ્ઞાનિક રીતે…’, ‘આ તો કલ્પના છે’. The કથા is narrated as કથા, from inside its own world.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` must add motive and consequence that `modified_chunk` only lists as events: why હનુમાને રાહુને પહેલાં જ પાડી દીધો (‘એ પણ સૂર્યને ગળી જવા જ ઘરેથી નીકળેલો’ — બંને એક જ સૂર્ય તરફ જતા હતા), and why ઇન્દ્ર છંછેડાયા (‘‘એક નાનકડા બાળકની આટલી હિંમત ?’’). An `explanation` interchangeable with `modified_chunk` fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "The printed line ‘ભયંકર  જાણે ભયંકર મેઘગર્જના થઈ.’ carries a doubled word and a double space exactly as the page prints it. Wherever `explanation`, `concept_bullets` or a `recall_questions[].answer` quotes the વજ્રપ્રહાર moment it must either quote this string as printed or paraphrase it without quotation — no field may print a silently mended version, and no field may call the line a misprint or supply a missing word.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "‘‘તમે જ એને શિક્ષા કરો.’’ માં બાળક ‘શિક્ષા’ ને હિન્દીના ‘शिक्षा’ (ભણતર, શીખ) જેવો શબ્દ સમજી લે છે. એટલે રાહુ ઇન્દ્રદેવ પાસે હનુમાનને ભણાવવાનું કે સમજાવવાનું માગે છે એવો ઊંધો અર્થ બેસી જાય છે અને પછીનો વજ્રપ્રહાર કારણ વગરનો લાગે છે.",
+      "correction": "explanation માં એ વાક્ય આવે ત્યાં જ ‘શિક્ષા — અહીં સજા’ એમ ગ્લોસ કરો (key_terms માં આ ગ્લોસ છે જ), અને તરત પછીના વાક્યમાં ‘સજા’ શબ્દ ફરી વાપરો — ‘રાહુ સજા માગે છે, ને ગુસ્સે થયેલા ઇન્દ્ર વજ્ર ઉગામે છે’ — જેથી કારણ ને પરિણામ જોડાઈ જાય."
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may close on an abstract moral drawn from પવનદેવના ગુસ્સા કે વરદાનમાંથી — no sentence of the form ‘આપણે ગુસ્સો ન કરવો જોઈએ’, ‘માતાપિતાનો પ્રેમ સૌથી મોટો હોય છે’, ‘આ વાર્તા આપણને શીખવે છે…’, ‘બોધ એ છે કે…’. This topic states no moral of its own, so none may be supplied.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No field of this topic may verify or debunk what happens here: no sentence saying કે આખા વિશ્વમાં હવાનો પ્રવાહ રોકી શકાય નહિ, કે વરદાનથી કોઈ સાજું ન થાય, કે ‘વૈજ્ઞાનિક રીતે…’. પવનદેવે હવા રોકી, દેવોએ પ્રાર્થના કરી, હનુમાનને વરદાન મળ્યાં — આ કથાની ઘટનાઓ છે અને કથા તરીકે જ કહેવાય છે.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` must add the causal chain that `modified_chunk` merely lists in sequence: પવનદેવે હવા રોકી *એટલે* સૃષ્ટિ ગૂંગળાઈ, *એટલે* દેવો પ્રાર્થના કરવા આવ્યા, અને દેવોએ હનુમાનને સાજા કર્યા *કારણ કે* પવનદેવે શરત મૂકી — ‘મારા હનુમાનને પહેલાં જેવો સાજોસારો કરી દો તો જ મારી રીસ ઊતરે’. An `explanation` that reports the same events without naming this ‘એટલે / તો જ’ chain fails.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક એમ સમજે છે કે દેવી-દેવતાઓને દયા આવી એટલે એમણે હનુમાનને સાજા કરી વરદાન આપ્યાં — જાણે તોફાનનું ઇનામ મળ્યું હોય. વચ્ચેની કડી — પવનદેવે હવા રોકી અને પછી શરત મૂકી — બે-ત્રણ વાક્યની વચ્ચે છૂટી જાય છે.",
+      "correction": "explanation નાં પહેલાં બે વાક્યોમાં આખી સાંકળ ક્રમમાં જ મૂકો : પવનદેવે હવા રોકી → બધાંના શ્વાસ ગૂંગળાવા લાગ્યા → દેવો પવનદેવ પાસે પ્રાર્થના કરવા ગયા → પવનદેવે શરત મૂકી ‘મારા હનુમાનને પહેલાં જેવો સાજોસારો કરી દો તો જ મારી રીસ ઊતરે’ → ત્યારે દેવોએ સાજા કર્યા. વરદાન એ શરતનું પરિણામ છે, એ શબ્દોમાં કહો."
+    },
+    {
+      "topic_id": "M3.S5.T8",
+      "avoid_checks": [
+        {
+          "check": "ભાસ્કરભાઈનું છેલ્લું વાક્ય ‘તમારામાંથી જ ભવિષ્યમાં કોઈક સૂર્યયાન બનાવીને સૂર્ય સુધી પણ પહોંચી શકશે.’ is his speech to his own class and must stay inside quotation marks, attributed to him. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may re-issue it as advice to the reader — no ‘આપણે પણ મોટાં સપનાં જોવાં જોઈએ’, ‘મહેનત કરવી જોઈએ’, ‘પ્રશ્ન પૂછતાં રહેવું જોઈએ’, ‘આ વાર્તા આપણને શીખવે છે…’. The same holds for the thanks to મિહિર: it is reported (‘મિહિરનો પણ આભાર કે એના પ્રશ્નને લીધે આપણને સરસ વાર્તા સાંભળવા મળી’), not converted into a rule about asking questions.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "This topic prints કથા and વિજ્ઞાન in one breath — ‘બાલ હનુમાન તો પવનદેવની કૃપાથી સૂર્ય સુધી પહોંચ્યા. અત્યારે પણ વૈજ્ઞાનિકો ચંદ્રયાન દ્વારા ચંદ્ર સુધી તો પહોંચે છે.’ No field may let either cancel the other: no sentence of the shape ‘એ તો માત્ર વાર્તા હતી, સાચું તો વિજ્ઞાન છે’, ‘વિજ્ઞાને સાબિત કરી દીધું છે કે…’, or conversely ‘ચંદ્રયાનથી વાર્તા સાચી ઠરે છે’. Both sentences are reported as ભાસ્કરભાઈએ કહ્યાં તેમ, in the printed order, side by side.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "ભાસ્કરભાઈના છેલ્લા ભાષણમાં ‘પવનદેવની કૃપા’ અને ‘ચંદ્રયાન’ સાથે સાથે આવે છે, એટલે બાળક બંનેને એક જ વાત સમજી લે છે — કાં તો ‘ચંદ્રયાનથી હનુમાનની વાર્તા સાચી ઠરી’, કાં તો ‘વિજ્ઞાન આવ્યું એટલે વાર્તા ખોટી પડી’.",
+      "correction": "explanation માં બે પડ સાફ અલગ રાખો : પહેલું વાક્ય કહે કે આદિત્યની વાર્તા અહીં પૂરી થઈ ને એના માનમાં તાળીઓ પડી; પછીનું વાક્ય કહે કે હવે સાહેબ આજની વાત કરે છે — વૈજ્ઞાનિકો ચંદ્રયાનથી ચંદ્ર સુધી પહોંચે છે ને ભવિષ્યમાં આ બાળકોમાંથી જ કોઈક સૂર્યયાન બનાવશે. બેમાંથી એકેય બીજાને સાચું કે ખોટું ઠરાવતું નથી — બંને જેમ છપાયાં છે તેમ, એક પછી એક, રહેવા દો."
+    }
+  ],
+  "chapter_level": [
+    "This is a વાર્તા-માં-વાર્તા: the વર્ગખંડ frame (M1.S1.T1, M1.S2.T2, M2.S4.T5, M3.S5.T8) and the embedded પૌરાણિક કથા (M2.S3.T3, M2.S3.T4, M2.S4.T6, M2.S4.T7) are two layers. Every topic's teaching must make plain which layer it is standing in, and the frame's people — ભાસ્કરભાઈ, મિહિર, સવિતા, પ્રભા, ઉષા, રવિ, આદિત્ય — must never be mixed into the tale's — હનુમાન, માતા અંજની, રાહુ, ઇન્દ્રદેવ, પવનદેવ. The one topic where the two layers touch is M2.S4.T5, and that touching is what that topic teaches.",
+    "Chapter-wide no-debunking gate (varta.md avoid #5, global_content_rules 10): the chapter itself sets the કથા and the science side by side without either cancelling the other, and the plan does the same. No field anywhere may assert that the embedded કથા did or did not happen, correct it against science, or turn it into a lesson about belief. Dictionary glosses of સૂર્યગ્રહણ, ચંદ્રયાન or અંતરિક્ષયાન in `key_terms` are word meanings and are not debunking.",
+    "The author slot on the first page reads ‘- સંકલિત’ and the unit carries no લેખક-પરિચય box (01_meta.json extraction_notes). No writer's name, life fact, movement or intention may appear anywhere in the plan; where an author would normally be named, say only what the page says.",
+    "Printed inconsistencies stay as printed wherever the teaching quotes them, and none of them may be called a mistake: ‘સૂર્યગ્રહણ વિષે’ and ‘એના વિશે’ in one speech (M1.S1.T1); ‘લાલચટ્ટક રંગ’ in the body, ‘લાલચટ્ટ’ in the શબ્દાર્થ box and ‘લાલચટ્ટાક’ in the સ્વાધ્યાય; ‘બાળ હનુમાનજી’ in the પ્રવેશપેટી against ‘બાલ હનુમાન’ in the body (M2.S4.T6, M3.S5.T8). Quote whichever form the place being quoted actually prints.",
+    "The frame runs on living classroom speech — અલી, વ્હાલીડાં, કહોને, હુંય, છે...ક, હાય હાય, ભાઈસાહેબ, ખડખડાટ — and the L2 reader's first instinct is to read these as names, errors or Hindi words. Gloss each at its point of first use and recycle it once in the same block; never replace it with a માનક form inside a quotation and never mark it as wrong (author.md §2; std-6 profile, ‘the book glosses its own dialect and never corrects it’).",
+    "The idiom list printed above the numbered blocks glosses વાતમાં સૂર પુરાવવો, મોંમાં પાણી આવવું and એક કાન થઈ જવું. Only the first two actually occur in a reading scene — ‘મિહિરની વાતમાં સૂર પુરાવ્યો’ (M1.S2.T2) and ‘મોંમાં પાણી આવી ગયું’ (M2.S3.T4) — and an L2 child reads both literally (a tune added to the talk; water in the mouth), so both are glossed where they occur. ‘એક કાન થઈ જવું’ appears in the gloss list only, so no topic may claim the chapter uses it.",
+    "Std-6 ceiling on craft vocabulary: no term — વળાંક, ફ્રેમકથા, વાર્તા-માં-વાર્તા, પૌરાણિક કથા, અલંકાર, છંદ, સાહિત્યપ્રકાર — may be handed to the child as a label. The turn is shown (‘અહીં વાર્તા પલટાય છે’, ‘અહીંથી બીજું જ કોઈ કહેવા માંડે છે’), never named. Craft language belongs in mechanism prose for the teacher, not in child-facing fields."
+  ]
+}

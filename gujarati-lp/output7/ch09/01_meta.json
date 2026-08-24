@@ -1,0 +1,116 @@
+{
+ "board": "gseb",
+ "grade": 7,
+ "subject": "Gujarati",
+ "level": "standard",
+ "version": 1,
+ "chapter_id": "gseb_eng_gujarati7_ch9",
+ "plan_id": "gseb_eng_gujarati7_ch9_v1",
+ "chapter_name": "અલ્લક દલ્લક",
+ "unit_title": "અલ્લક દલ્લક",
+ "unit_number": 9,
+ "topic_number": 1,
+ "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 7",
+ "textbook_url": "../Textbooks-pdf/std-7/ch-09-allak-dallak.pdf",
+ "textbook_pages": "57–62",
+ "chapter_master_id": null,
+ "subject_ref_id": null,
+ "genre": "ઊર્મિકાવ્ય-ગીત",
+ "genre_signals": {
+  "structure": "પદ્ય. છપાયેલા સાત ચાર-પંક્તિના એકમો — પ્રથમ ટેક-કડી, પછી પાંચ કડી, અને અંતે એ જ ટેક-કડી ફરી (વલયરચના); એટલે 7 છપાયેલા એકમ, 6 જુદા. દરેક કડીની પંક્તિઓ લગભગ સરખી લંબાઈની અને દરેક કડીને અંતે પુનરાવર્તિત ધ્વનિ-શબ્દ + '!' — ઝલ્લક ઝલ્લક, ઢમ્મક ઢમ્મક, ચલ્લક ચલ્લક, છલ્લક છલ્લક, મલ્લક મલ્લક, અલ્લપ ઝલ્લપ, પલ્લક પલ્લક. ટેકનું પુનરાવર્તન ellipsis-shorthandથી નહિ પણ આખી કડી ફરી છાપીને. કાવ્યની અંદર કોઈ છાપ નથી; કવિનું નામ મથાળે — '- બાલમુકુન્દ દવે', આધુનિક નામજોગ કવિ. કોઈ પાત્ર 'કહે/બોલ્યો'થી બોલતું નથી; ત્રીજી કડીની ગોપી-ઉક્તિ કડીની અંદર જ રહે છે અને કડીઓ સ્વતંત્ર ચિત્રો છે.",
+  "theme": "શરદ પૂનમની રાતે જમનાકાંઠે રાધા-કૃષ્ણનો રાસ — ચાંદની, ઝાંઝર-ઢોલકનો રણકો, રાધિકાનો હાર તૂટવો, કાનાની ટીખળ અને રીસ, કદંબ નીચે બંસી, રાધાનું ઉર તણાવું. લોકજીવન-સંસ્કૃતિ અને ભક્તિ-પરંપરાનો રંગ, પણ ઉપદેશ કે પ્રાર્થના નહિ.",
+  "exercises": "'આ કાવ્યનું અભિનય સાથે ગાન કરો.' અને 'રાધા-કૃષ્ણ વિશેનાં પ્રચલિત લોકગીતો કે રાસ - ગરબા મેળવીને વર્ગમાં રજૂ કરો.' — ગેય સ્વરૂપનો સીધો સંકેત. 'નીચેનાં જોડકાં જોડી ઉદાહરણ મુજબ કાવ્ય પંક્તિ બનાવો.' — સાત ધ્વનિ-શબ્દોની જોડી, એટલે પ્રાસ-લય જ કાવ્યકલા છે એમ પુસ્તક પોતે કહે છે. 'કાવ્યમાં વપરાયેલા તળપદા શબ્દોનો અર્થ માતા-પિતાની કે અન્યની મદદથી જાણો.' — તળપદો રંગ સ્વીકારેલો છે. કોઈ ઘટના-ક્રમ ગોઠવવાનો કે 'કોણ બોલી શકે ?' પ્રકારનો વાર્તા-સંકેત નથી.",
+  "purpose": "ગાવા અને ગવડાવવા માટેનું ઊર્મિગીત; શબ્દોના રણકાથી રાસની રાતનું ચિત્ર ઊભું કરવું. પ્રવેશપેટીની પોતાની ઓળખ, અક્ષરશઃ: 'આ રાધા-કૃષ્ણનું ઊર્મિગીત છે, જેમાં રાસલીલાનો પ્રસંગ વણી લેવાયો છે. એમાં શબ્દો, પ્રાસ, લયનું અદ્ભુત સંયોજન છે. તેથી ગાવું અને ગવડાવવું સૌને ગમશે.'"
+ },
+ "genre_confidence": "high",
+ "active_genre_profiles": [
+  "urmikavya_geet.md"
+ ],
+ "teaching_lens": "ચિત્ર + ભાવ + લય",
+ "guiding_question": "અલ્લક, ઝલ્લક, ઢમ્મક, છલ્લક જેવા રણકતા શબ્દો દ્વારા કવિ જમનાકાંઠાની રાસની રાત આપણી નજર અને કાન સામે કઈ રીતે ઊભી કરે છે ?",
+ "explanation_unit": "એક કડી",
+ "structure_inventory": {
+  "kadi": 5,
+  "duha": 0,
+  "pad": 0,
+  "ghatna": 0,
+  "tek_occurrences": 2
+ },
+ "exercise_inventory": [
+  {
+   "group": "વાતચીત",
+   "items": 8,
+   "verbatim_heading": "વાતચીત"
+  },
+  {
+   "group": "જોડકાં",
+   "items": 7,
+   "verbatim_heading": "નીચેનાં જોડકાં જોડી ઉદાહરણ મુજબ કાવ્ય પંક્તિ બનાવો."
+  },
+  {
+   "group": "તળપદા શબ્દોના અર્થ",
+   "items": 6,
+   "verbatim_heading": "કાવ્યમાં વપરાયેલા તળપદા શબ્દોનો અર્થ માતા-પિતાની કે અન્યની મદદથી જાણો."
+  },
+  {
+   "group": "પ્રશ્નોત્તર",
+   "items": 6,
+   "verbatim_heading": "પ્રશ્નોના જવાબ લખો."
+  },
+  {
+   "group": "પ્રશ્નરચના",
+   "items": 9,
+   "verbatim_heading": "ઉદાહરણ મુજબ પ્રશ્ન બનાવો અને એક જ શબ્દમાં જવાબ આપો."
+  },
+  {
+   "group": "લેખન",
+   "items": 1,
+   "verbatim_heading": "નીચેના શબ્દોનો ઉપયોગ કરી 'શરદપૂર્ણિમા' વિશે લખો."
+  },
+  {
+   "group": "પ્રવૃત્તિ (ગાન)",
+   "items": 1,
+   "verbatim_heading": "આ કાવ્યનું અભિનય સાથે ગાન કરો."
+  },
+  {
+   "group": "પ્રવૃત્તિ (રજૂઆત)",
+   "items": 1,
+   "verbatim_heading": "રાધા-કૃષ્ણ વિશેનાં પ્રચલિત લોકગીતો કે રાસ - ગરબા મેળવીને વર્ગમાં રજૂ કરો."
+  },
+  {
+   "group": "શબ્દ-અર્થ લેખન",
+   "items": 1,
+   "verbatim_heading": "કૃષ્ણનાં જુદાં જુદાં નામોના અર્થ લખો."
+  },
+  {
+   "group": "ચિત્રવર્ણન",
+   "items": 1,
+   "verbatim_heading": "નીચેના ચિત્રનું વર્ણન કરો."
+  },
+  {
+   "group": "અનુવાદ",
+   "items": 5,
+   "verbatim_heading": "નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો."
+  },
+  {
+   "group": "ખાલી જગ્યા",
+   "items": 15,
+   "verbatim_heading": "આપેલો ફકરો વાંચીને વિશેષતા દર્શાવતા શબ્દોથી ખાલી જગ્યા પૂરો."
+  }
+ ],
+ "extraction_notes": [
+  "All five GSEB books are image-only, so this is a transcription from the pre-rasterised page renders in output7/ch09/_renders (page-1…page-6.png, 1300×1831 px ≈ 150 dpi), covering printed pp. 57–62. Page 1 of the render is the proof of identity: the printed number box reads 9, the title અલ્લક દલ્લક, the author slot '- બાલમુકુન્દ દવે', folio 57 — matching the filename ch-09-allak-dallak.pdf and the board profile's row, so the file is correctly attached.",
+  "The spec's double-render cross-check could not be run as written: the run context supplies one already-rasterised render set and forbids re-rendering. Substituted method — every ambiguous glyph was cropped from the same PNG and upscaled (Lanczos) for letterform comparison against a known instance of the same letter elsewhere on the page. Decisions taken this way: 'ગોપીભેળો કાન ઘૂસ્યો છે,' is ઘ (closed left bowl) and not ધ, checked against the ધ of રાધા in the opening ટેક; ઊગ્યો / ઊછળતાં / ઊંચાં / ઊભી / ઊભો carry ઊ while ઉર / ઉપર / ઉડાડતાં carry ઉ; ઝળકે and રઢિયાળો carry ળ. This is a weaker check than a genuine second render at 200 dpi and is recorded as such.",
+  "COUNT CORRECTION AGAINST THE PRIOR. reference/corpus/std-7_inventory.md records for this chapter 'opening કડી + 7 more 4-line કડી … 9 કડી-units printed, 8 distinct'. The rendered pages show 7 four-line units — three on printed p. 57, four on p. 58 — i.e. the opening ટેક-કડી, five body કડી, and the ટેક-કડી repeated as the closing unit: 7 printed, 6 distinct. The page wins. The prior is internally consistent with the page on content: all seven echo-endings it lists (ઝલ્લક ઝલ્લક, ઢમ્મક ઢમ્મક, ચલ્લક ચલ્લક, છલ્લક છલ્લક, મલ્લક મલ્લક, અલ્લપ ઝલ્લપ, પલ્લક પલ્લક) occur inside those six distinct units, and exercise block 2 pairs exactly seven endings — only the unit count differs.",
+  "The ટેક is NOT repeated verbatim, contrary to the prior. Its first line opens the poem as 'અલ્લક દલ્લક, ઝાંઝરઝલ્લક,' and closes it as 'અલ્લક દલ્લક ઝાંઝર ઝલ્લક,' — the comma after દલ્લક is gone and ઝાંઝરઝલ્લક is set as two words. Lines 2–4 are identical in both printings. Both are transcribed exactly as printed; neither was normalised to the other. Downstream: the ટેક counts as words-changed at its second occurrence.",
+  "The QR badge in the top-right corner overlaps the right end of the blue intro box's first printed line. Its 6-character code was deliberately not transcribed. The sentence reads complete as transcribed ('એમાં શબ્દો, પ્રાસ, લયનું અદ્ભુત સંયોજન છે.'), but the render cannot prove that no word sits under the badge — recorded as an unresolved gap rather than asserted as complete.",
+  "Printed punctuation kept exactly as set, including where it looks inconsistent: 'બધાં જડ્યાં પણ એક ખૂટે છે.' and 'રીસ ચડી ગોપીજનવલ્લભ.' end in a full stop where the surrounding lines end in '!', and 'રાસ રચ્યો છે અલ્લક દલ્લક' carries no terminal mark at all. The spaced '?' and '!' are the book's convention. The Devanagari danda (U+0964) appears nowhere on the page and none was introduced.",
+  "Dialect and coined forms kept as printed, not corrected: આલને, ચરિતર, રુએ, ભેળો, જડ્યાં, મલક, જમના, કાના, ગોપીભેળો, અને the coined echo-words અલ્લક/દલ્લક/ઝલ્લક/ચલ્લક/છલ્લક/મલ્લક/પલ્લક/ઝલ્લપ. The book's own exercise block 3 sends the child to a parent for six of them, so the register is deliberate.",
+  "Exercise block 12's answer list has 15 bullets; fourteen of them match an adjective-plus-noun phrase in the printed passage above, but 'પાલવ' has no corresponding phrase anywhere in that passage. Transcribed exactly as printed and not repaired — it is printed content, and Agent 10 should answer it as printed and may flag it there.",
+  "Not inventoried as exercises (apparatus, per genre_diagnosis.md and the spec): the blue પ્રવેશપેટી intro box on p. 57, the શબ્દાર્થ box and the રૂઢિપ્રયોગ box on p. 59. This chapter prints NO chapter-final green ભાષા-બોધ / grammar box and no ભાષા-અભિવ્યક્તિ, ચર્ચા-વિચારણા or શિક્ષકની ભૂમિકા block.",
+  "Std 7 prints no 'સ્વાધ્યાય' banner. Twelve numbered pink headings run directly from under the રૂઢિપ્રયોગ box (p. 59) to p. 62; block 1's heading is the bare word 'વાતચીત', as it is in every chapter. Every verbatim_heading above is copied from the render, terminal full stop included.",
+  "Blocks 7, 8 and 10 are performance / description activities and block 3 sends the child to a parent or another adult; blocks 6 and 9 are open writing tasks. They are printed numbered blocks, so they stay in the inventory, but they are teacher- and home-addressed and their answers are model answers, not the answer.",
+  "Illustrations: four Krishna–Radha paintings are set among the verse on pp. 57–58 (they carry no captions and no text), and a full-page રાસલીલા picture on p. 61 belongs to exercise block 10, not to the poem. A pink section-end dot closes p. 62.",
+  "chapter_master_id and subject_ref_id are null — no GSEB record has been confirmed, and nothing was carried over from the Hindi pack. textbook_url is the local path string; there is no hosted URL for Agent 11 to record. The 'eng' medium segment of chapter_id / plan_id is PROVISIONAL until VERIFY-1 resolves the real GSEB board and medium segments against the live server."
+ ]
+}

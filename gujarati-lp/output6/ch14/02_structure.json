@@ -1,0 +1,316 @@
+{
+  "chapter_id": "gseb_eng_gujarati6_ch14",
+  "plan_id": "gseb_eng_gujarati6_ch14_v1",
+  "grade": 6,
+  "subject": "Gujarati",
+  "level": "standard",
+  "chapter_name": "એક છોકરો રિસાણો",
+  "genre": "samvad_nibandh",
+  "active_genre_profiles": [
+    "samvad_nibandh.md",
+    "natak_ekanki.md"
+  ],
+  "teaching_lens": "તર્ક + દૃષ્ટિકોણ + જવાબદારી",
+  "guiding_question": "મનન કઈ વાત પર રિસાય છે, અને ઘરનાં કયાં કયાં પગલાં પછી એ પોતે જ પોતાનો રસ્તો કાઢે છે ?",
+  "explanation_unit": "સંવાદનું એક પગલું — વાંધો, સ્વીકાર, પુરાવો કે સવાલ (વારો વચ્ચેથી કપાય નહીં)",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઝલક શાળાના પ્રવાસની ખબર મમ્મીને કઈ રીતે કહે છે તે વાંચીને, એ કઈ કઈ વાતથી જવાની રજા માગે છે તે પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "આજવા-નિમેટામાં શું શું જોવા મળે એ ઝલક અને પપ્પા જે કહે છે તે તારવીને, એ સાંભળ્યા પછી મનન શી માગણી કરે છે તે જણાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2",
+        "M1.S1.T2.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મમ્મી મનનને મનાવવા કયા કયા રસ્તા અજમાવે છે અને દીદી તથા મમ્મી ના પાડવાનું શું કારણ આપે છે તે સરખાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C4",
+        "M1.S2.T3.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પપ્પા મનનની વાત પહેલાં સાચી ગણીને પછી કરસનકાકાની વાડીની જે દરખાસ્ત મૂકે છે, તેમાં મનનને શું શું મળવાનું છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગામડાના આકાશની વાત સાંભળ્યા પછી મનન જાતે જે નિર્ણય લે છે તે જણાવીને, એ નિર્ણય શાથી બધાંને ગમે છે તે વિચારવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S4.T5",
+      "anchor": [
+        "M2.S4.T5.C7",
+        "M2.S4.T5.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "પ્રવાસની ખબર ને રિસામણાં",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "પ્રવાસની વાત ઘરમાં આવે છે",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "દીદી લાવી પ્રવાસની ખબર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "",
+              "source_span": {
+                "marker": "[[સંવાદ: ઝલક અને વનિતાબેન]]",
+                "pages": "92",
+                "first_turn": "ઝલક : મમ્મી, ઓ મમ્મી, સાંભળે છે ?",
+                "last_turn": "વનિતાબેન : હમણાં તારા પપ્પા જોડે વાત કરી લઈએ.",
+                "turn_count": 12
+              },
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "પ્રવાસની નોટિસ ને રજા માગવી",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "આજવા-નિમેટાનું ચિત્ર ને ભઈલુંની માગણી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "",
+              "source_span": {
+                "marker": "[[સંવાદ: મનન, ઝલક, વનિતાબેન અને મહેશભાઈ]]",
+                "pages": "92–93",
+                "first_turn": "મહેશભાઈ : અરે, હું અહીં જ છું. ક્યાં જવાનું છે, મારી દીકરીને ?",
+                "last_turn": "મનન : ના, હું તો દીદી સાથે જવાનો. મારે પણ દીદી જેવી મજા કરવી છે.",
+                "turn_count": 17,
+                "illustration_inside": "[[ચિત્ર: પૃષ્ઠ 93]]"
+              },
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "આજવા-નિમેટામાં શું શું છે",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S1.T2.C3",
+                  "concept_name": "ભઈલુંની માગણી ને પહેલો ઇનકાર",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "રીસ ને એની સામેનાં કારણો",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "રિસાયેલો ભઈલું ને ઘરનાં કારણો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "",
+              "source_span": {
+                "marker": "[[સંવાદ: મનન, વનિતાબેન અને ઝલક]]",
+                "pages": "94",
+                "first_turn": "ઝલક : ભઈલું,  ખોટી જીદ ન કર. તારાથી ન અવાય.",
+                "last_turn": "મનન : મારે કોઈની સાથે વાત જ નથી કરવી.",
+                "turn_count": 21
+              },
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C4",
+                  "concept_name": "મમ્મીનાં મનામણાં ને મનનનો ઇનકાર",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S2.T3.C5",
+                  "concept_name": "દીદી ને મમ્મી પોતાનાં કારણો આપે છે",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "મનામણાં ને મનનની સમજણ",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "પપ્પાનો બીજો રસ્તો",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "કરસનકાકાની વાડીની દરખાસ્ત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S2.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "",
+              "source_span": {
+                "marker": "[[સંવાદ: મહેશભાઈ અને મનન]]",
+                "pages": "95–96",
+                "first_turn": "મહેશભાઈ : મારી સાથે પણ વાત નહીં કરે.",
+                "last_turn": "મહેશભાઈ : બેટા, આખો દિવસ આપણે ફળોની વાડીમાં ફરીશું. ઝાડ પર ચડીશું, પાણીમાં નહાઈશું અને ગામડાનું સરસ મીઠું ભોજન જમીશું.",
+                "turn_count": 23,
+                "illustration_inside": "[[ચિત્ર: પૃષ્ઠ 95]]"
+              },
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C6",
+                  "concept_name": "પહેલાં સાંભળવું, પછી વાડીની દરખાસ્ત",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "સૌ સાથે ને મનનનો પોતાનો નિર્ણય",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T5",
+              "topic_name": "ગામડાનું આકાશ ને મનનનો નિર્ણય",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "",
+              "source_span": {
+                "marker": "[[સંવાદ: આખું કુટુંબ]]",
+                "pages": "96",
+                "first_turn": "વનિતાબેન : અને બીજી એક વાત.",
+                "last_turn": "મહેશભાઈ : જોયું ? મારો દીકરો કેટલો સમજદાર છે !",
+                "turn_count": 10
+              },
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T5.C7",
+                  "concept_name": "ગામડાની રાતનું આકાશ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S4.T5.C8",
+                  "concept_name": "મનન જાતે નક્કી કરે છે",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structure_notes": [
+    "CUT BASIS — the unit is 01_meta.json's 'સંવાદનું એક પગલું' read through samvad_nibandh.md's four moves (સ્થાપના → પડકાર → સ્વીકાર/પુરાવો → માગણી). The five topics are exactly the five moves the page makes: the trip is put on the table (T1); the picture of આજવા-નિમેટા creates મનનની counter-demand and gets its first refusal (T2); the રીસ peaks while both sides state their reasons (T3); પપ્પા concede and open a different road (T4); મમ્મી add the last piece and મનન himself settles it (T5). No boundary falls inside a speaker's turn.",
+    "MARKER ALIGNMENT — the cut is one-to-one with the five [[સંવાદ: …]] markers Agent 1 set; no marker is swallowed and no topic sits where no marker sits. Agent 1's extraction note says those markers are descriptive of who is speaking and 'NOT topic cuts'; that note and 02_structure.md's 'one marker, one topic' rule are reconciled here by the marker stretches genuinely coinciding with the argument-moves. Agent 4 should read the 5:5 count as intentional, not accidental.",
+    "PROFILE PRIOR — natak_ekanki.md's own near-miss row names THIS chapter and reads its beats as three ('મનન રિસાય છે → the father's counter-plan → મનન decides'). That is T3 → T4 → T5. The two setup moves (T1, T2) are added because the page makes them separately and a std-6 reader needs the trip described before the demand makes sense; the cut is therefore FINER than the profile prior, never coarser. No disagreement to escalate.",
+    "UNEVEN TOPIC LENGTH — T3 (twenty turns, all of printed p. 94) is the longest stretch and T5 (eleven turns) the shortest. T3 is held as ONE topic because nothing in it changes what anyone wants: મમ્મી try one મનામણું after another and મનન refuses each. Per samvad_nibandh.md ('the internal steps go into concepts[], not into extra topics') its two internal steps are C4 and C5. Splitting it into a મનામણાં topic and a કારણો topic would put a boundary inside a single move.",
+    "CONCEPT COUNTER — chapter-continuous C1…C8, so c equals t only for the one-concept topics (T1, T4). T2, T3 and T5 each carry two concepts because each genuinely does two separable things; no topic carries three.",
+    "WHAT WAS NOT CUT AS A TOPIC — the blue પ્રવેશપેટી (teacher-addressed apparatus), the શબ્દાર્થ box on p. 97, and all fifteen સ્વાધ્યાય blocks including the five-line nursery rhyme 'એક છોકરું  રિસાણું…' printed inside the ઘટનાવર્ણન block and the ચિત્રવર્ણન illustration on p. 100. Those stay in 01_meta.json's exercise_inventory for Agent 10. This chapter prints no in-text wrap, so there is no REVIEW topic — one was not invented.",
+    "STD-6 CEILING — no objective names an અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર, and none asks the child to name the form; the સંવાદ form is experienced, not labelled (profiles/students/std-6.md §3). No objective, name or segment/module name carries a digit. Every objective is grounded in this chapter's own printed names and lines (ઝલક, મનન, આજવા-નિમેટા, કરસનકાકાની વાડી, ગામડાનું આકાશ) and could fit no other chapter.",
+    "DIFFICULTY — set by what stops a std-6 L2 reader on the page, not by idea size. T1 easy (short home turns). T2 medium (the મ્યુઝિકલ ફાઉન્ટેન turn is one long sentence and the object-world — રાઈડ્સ, લાઈટિંગ, પાણીની સેર — is unfamiliar). T3 hard (twenty turns, ફોસલાવે / શિક્ષકો / વિદ્યાર્થીઓ, and the lines must be read for tone before they can be read for sense). T4 medium (વાડી, ડૂબકી — a village object-world a city child may not hold). T5 medium (the star-sky turn is one long nested sentence).",
+    "FOR AGENT 9 — the two reading-text illustrations sit INSIDE topics: p. 93's sofa/family picture inside T2 and p. 95's father-with-thought-bubble picture inside T4. The p. 100 beach illustration belongs to the final unnumbered ચિત્રવર્ણન exercise and is not a reading scene.",
+    "FOR AGENT 5 — source_span carries the marker, printed folio and the exact first and last printed turn of each topic so the verbatim boundaries are not re-derived. Markers and [[પૃષ્ઠ n]] / [[ચિત્ર: …]] lines are stripped before anything reaches original_chunk; the printed double spaces Agent 1 recorded (ભઈલું,  હું છે ને / દીદીના  ટીચરને) are kept as printed.",
+    "NO PAGE RENDER WAS OPENED — 00_chapter_normalized.md answered every question this cut needed, including illustration placement, which Agent 1 recorded as marker lines."
+  ]
+}

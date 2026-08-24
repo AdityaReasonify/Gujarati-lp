@@ -1,0 +1,293 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati8_ch1",
+  "plan_id": "gseb_eng_gujarati8_ch1_v1",
+  "grade": 8,
+  "chapter_name": "જીવનજ્યોત",
+  "genre": "પ્રાર્થનાગીત",
+  "active_genre_profiles": ["prarthana_kavita.md"],
+  "explanation_unit": "એક કડી",
+  "teaching_lens": "યાચના + સંબોધન + આત્મબળ",
+  "guiding_question": "કવિ પ્રભુ પાસે રક્ષણ નહિ પણ રડવડતાં, ઝળહળતાં, મઘમઘતાં અને ગરજંતાં શીખવાની શક્તિ કેમ માગે છે ?",
+
+  "marker_accounting": {
+    "reading_markers_in_source": ["[[ટેક]]", "[[કડી 1]]", "[[કડી 2]]", "[[કડી 3]]", "[[કડી 4]]", "[[કડી 5]]"],
+    "reading_markers_count": 6,
+    "topics_cut": 6,
+    "topic_id_per_marker": {
+      "[[ટેક]]": "M1.S1.T1",
+      "[[કડી 1]]": "M1.S2.T2",
+      "[[કડી 2]]": "M1.S2.T3",
+      "[[કડી 3]]": "M2.S3.T4",
+      "[[કડી 4]]": "M2.S3.T5",
+      "[[કડી 5]]": "M2.S4.T6"
+    },
+    "markers_deliberately_not_cut_as_topics": {
+      "[[પ્રવેશપેટી]]": "apparatus — the blue teacher-addressed intro box ('...ભાવવાહી ગાન કરવું અને કરાવવું', '...વિદ્યાર્થીઓનું ધ્યાન દોરવું'). Feeds key_terms and the ભાષા-બોધ, never a reading scene.",
+      "[[શબ્દાર્થ]]": "apparatus — the yellow gloss box. Feeds key_terms / shabdarth.",
+      "[[ચર્ચા-વિચારણા]]": "teacher-run class-discussion box ('પ્રાર્થનાનું મહત્ત્વ'); prarthana_kavita.md forbids cutting it as a topic.",
+      "[[સ્વાધ્યાય: …]] (13 blocks)": "exercise matter — exercise_inventory in 01_meta.json, Agent 10 territory. Includes block ten's embedded poem 'મંદિર તારું વિશ્વ રૂપાળું' — exercise-internal reading matter, never folded into this chapter's કડી chain."
+    }
+  },
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ 'પ્રભુ હે' કહીને કોને સંબોધે છે અને 'જીવનજ્યોત જગાવો' શબ્દોમાં શું માગે છે તે ટેકની પંક્તિઓમાંથી શોધીને કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પહેલી કડીમાં કવિ ટચૂકડી આંગળીઓ અને નાનકડા પગ માટે શું માગે છે તે શોધીને, 'રડવડતાં શિખવાડો'નો અર્થ પોતાના શબ્દોમાં કહેવો.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": ["M1.S2.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'વણદીવે અંધારે' અને 'વણજહાજે દરિયાને' પંક્તિઓમાં કઈ મુશ્કેલી બતાવી છે તે ઓળખી, કવિ એ સામે તેજ ને બળ કેમ માગે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": ["M1.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મનનાં ફૂલડાંને રસથી સભર બનાવવાની અને પ્રભુની પીંછીથી જીવનના રંગો પ્રગટાવવાની માગણી પરથી 'મઘમઘતાં' થવું એટલે શું તે વિચારીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": ["M2.S3.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઉરની સાંકલડી શેરીને વિશાળ પંથ અને હૈયાના નાના ઝરણાને સાગર બનાવવાની માગણી પરથી કવિ કેવું હૈયું ઝંખે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": ["M2.S3.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "છેલ્લી કડીમાં 'શિખવાડો'ને બદલે 'સ્થળ-સ્થળમાં વરસાવો' કેમ આવે છે તે તપાસી, સ્નેહશક્તિ બલિદાન નીરની ધાર વરસાવવાની માગણીનું મૂલ્ય આંકવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S4.T6",
+      "anchor": ["M2.S4.T6.C6"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6"
+  },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "પ્રભુને સંબોધન અને બળની માગણી",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "પ્રભુ હે — સંબોધનની ટેક",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "જીવનજ્યોત જગાવો",
+              "topic_type": "POEM",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "source_marker": "[[ટેક]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "સંબોધન અને ટેકની યાચના",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "નાનાં અંગોમાં ઝાઝું જોર",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "ટચૂકડી આંગળીઓમાં ઝાઝું જોર",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O2"],
+              "source_marker": "[[કડી 1]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "નાનાં અંગોમાં માગેલું બળ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "વણદીવે અંધારે ઝળહળતાં",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O3"],
+              "source_marker": "[[કડી 2]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "સાધન વગર પણ પાર ઊતરવાનું બળ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "અંતરના વિસ્તારથી વરસી જવા સુધી",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "મનનાં ફૂલ અને ઉરની શેરી",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "મનનાં ફૂલડાં મઘમઘતાં",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O4"],
+              "source_marker": "[[કડી 3]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "અંતરની સુગંધની માગણી",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "ઉરની સાંકલડી શેરી વિશાળ",
+              "topic_type": "POEM",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O5"],
+              "source_marker": "[[કડી 4]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "સાંકડા હૈયાને વિશાળ કરવાની માગણી",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "સ્નેહની ધાર સ્થળ-સ્થળમાં",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T6",
+              "topic_name": "જીવનની વાદળી સ્થળ-સ્થળમાં વરસે",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": ["M1.S1.T1", "M1.S2.T2"],
+              "objective_ids": ["O6"],
+              "source_marker": "[[કડી 5]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T6.C6",
+                  "concept_name": "પોતાનું સર્વસ્વ વરસાવી દેવાની યાચના",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "notes": [
+    "Cut by the સ્વરૂપ's unit, not by habit: 01_meta.json sets explanation_unit 'એક કડી' and prarthana_kavita.md sets 'one કડી of the petition'. The page agrees with the profile prior — no disagreement to report on the unit itself.",
+    "Six reading markers in 00_chapter_normalized.md, six topics, one marker each. No marker swallowed, no topic invented where no marker sits.",
+    "ટેક handling: 00_chapter_normalized.md carries exactly ONE [[ટેક]] marker — the full refrain printed standalone at the head of the poem ('જીવનજ્યોત જગાવો, / પ્રભુ હે, જીવનજ્યોત જગાવો.'). Its WORDS never change (01_meta.json extraction_notes confirm: only the printed form varies, full vs the shorthand 'પ્રભુ હે...'). So exactly one topic teaches the ટેક — M1.S1.T1 — and every કડી topic carries M1.S1.T1 in depends_on because each કડી closes on the printed shorthand. The five shorthand occurrences are NOT separate topics.",
+    "The printed refrain shorthand 'પ્રભુ હે...' is deliberately left untouched here: it is not expanded, and it stays inside its own કડી's block. Agent 5 copies it character-for-character into original_chunk; the expansion belongs in Agent 12's explanation only.",
+    "No petition is cut in half. Every topic's block ends at a printed કડી boundary, so every topic carries at least one asking verb of this poem (જગાવો / જમાવો / બનાવો / ભરાવો / આપો / ચલાવો / રચાવો / ઉડાવો / ઝરાવો / વરસાવો / શિખવાડો) plus the refrain shorthand. No topic holds only a condition clause.",
+    "M1.S2 groups કડી one and two because both ask for BODILY power against a lack — આંગળી/પગ, then આંખ/બાહુ. M2.S3 groups કડી three and four because both ask for the INNER self to grow — મનનાં ફૂલડાં, then ઉર/હૈયું. M2.S4 stands alone because the fifth કડી turns the asking outward.",
+    "The fifth કડી breaks the poem's own refrain-line pattern: the first four close 'અમને …તાં શિખવાડો.' and it closes 'અમને સ્થળ-સ્થળમાં વરસાવો.' That is real dependence on where the pattern was set, so M2.S4.T6 lists M1.S2.T2 alongside the ટેક topic in depends_on. This is also why it is categorised climax rather than core.",
+    "Difficulty is set by what stops an A2+ L2 reader on THIS page, relative inside this chapter, never by craft. hard = M1.S2.T3 (the વણ- privative compounds વણદીવે / વણજહાજે, the chapter's hardest word-forms) and M2.S4.T6 (the તત્સમ chain 'સ્નેહશક્તિ બલિદાન નીર' plus the pattern break the page itself sets). easy = the ટેક and the first કડી, whose vocabulary the printed શબ્દાર્થ box already covers.",
+    "No અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text — std 8 experiences the form and never names it (profiles/students/std-8.md §1: 'Name it after you've met it'). The objectives ask the child to notice and to weigh, never to label. Where craft is served, it is served as pattern work the page itself sets: the refrain shape (O1, O6) and the change from 'શિખવાડો' to 'વરસાવો' (O6).",
+    "Every objective is grounded in a phrase that is actually printed in this chapter and could belong to no other chapter. Digits appear only in ids and provenance fields; display text uses 'પહેલી કડીમાં' and 'છેલ્લી કડીમાં'.",
+    "No REVIEW topic exists in this chapter: the book prints no in-text wrap. The closing ચર્ચા-વિચારણા box ('પ્રાર્થનાનું મહત્ત્વ') is a teacher-run discussion, which prarthana_kavita.md forbids cutting as a topic; the blue પ્રવેશપેટી is teacher-addressed apparatus ('...કરવું અને કરાવવું', '...ધ્યાન દોરવું'), not the std-10-style student-facing પરિચય paragraph, so it gets no CONCEPT topic either. Both are flagged for Agents 10/12 as key_terms and guidance sources.",
+    "Exercise block ten's embedded second poem 'મંદિર તારું વિશ્વ રૂપાળું' — જયંતીલાલ આચાર્ય is NOT folded into this chapter's કડી chain, per the profile and Agent 1's own note. It is exercise-internal reading matter for Agent 10.",
+    "Uneven topic length, carried for Agent 4 and Agent 13: the ટેક topic is two printed lines while every કડી topic is three. That is the page's own shape, not a thin cut — the refrain is printed standalone before the first કડી and is the poem's address, so it earns its topic. Agent 12 should expect a shorter explanation there and reference it, not re-teach it, from the five કડી topics.",
+    "One concept per topic throughout. No topic here does two separable things — each કડી is one asking-move that closes on its own refrain line, so a second concept would have meant a wrong cut.",
+    "No page render was opened. 00_chapter_normalized.md answered every question about the cut, including the layout facts (standalone ટેક couplet, the five shorthand closings, the apparatus boxes), which Agent 1 had already recorded in its extraction_notes."
+  ]
+}

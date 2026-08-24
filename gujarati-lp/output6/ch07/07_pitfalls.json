@@ -1,0 +1,190 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Slogan gate, bound to this કડી: no sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets`/`important_points` line or any `recall_questions[].answer` may be an exhortation of the shape 'ઘર-આંગણ ચોખ્ખું રાખવું જોઈએ' / 'ઉકરડો ન કરવો જોઈએ' / 'વાળઝૂડ કરવી જોઈએ'. This topic's `original_chunk` contains no જોઈએ at all — its verbs are the first-person 'કરીએ', 'રાખીએ', 'ન દઈએ' — so no …જોઈએ clause can be quote-shielded here.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Picture before feeling: the first sentence of `explanation` must name one of this કડી's own printed things with its printed word — 'ઘર', 'આંગણ-શેરી', 'ઉકરડો' or 'વાળઝૂડ'. A first sentence that opens on સ્વચ્છતાનું મહત્ત્વ, or on the ટેકનો ભાવ, without any of those four words fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Craft is not skipped: this topic folds the two-line ટેક with the પહેલી કડી, so `explanation` must carry one sentence naming either the like-sounding line-endings 'કરીએ' / 'રાખીએ' / 'દઈએ', or the return of the ટેકના શબ્દો 'ચોખ્ખાઈના સરદાર અમે સહુ...' at the કડી's end — unless `figures_of_speech[]` is non-empty with lines from this chunk. Both empty and no such sentence = half-taught.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No numbers in display text — this is the only topic holding two printed units, so every reference in `topic_name`, `explanation`, the three summaries, bullets and recall prompts/answers must read 'ટેક' and 'પહેલી કડી', never 'કડી 1' or 'ટેક 1'.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No real person named off the word 'સરદાર': no `explanation`, `real_life_example`, summary, bullet or recall answer may name સરદાર વલ્લભભાઈ પટેલ or any other real leader. The chapter's author slot prints only '- સંકલિત' and the poem names nobody. The profile does not list this, so soft — but it is invention, not reading.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક 'સરદાર' શબ્દને કોઈ એક ખાસ માણસનું નામ કે પદવી સમજી લે છે — ફોટામાં જોયેલા કોઈ નેતા કે કોઈ મોટા સાહેબ. એટલે 'ચોખ્ખાઈના સરદાર અમે સહુ' માં 'અમે સહુ' કોણ છે તે હાથમાંથી છટકી જાય છે, આખો પોકાર બીજા કોઈની વાત બની જાય છે, અને પહેલી કડીનાં કામ કોણ કરે છે તે પણ ગોઠવાતું નથી.",
+      "correction": "`explanation` ના પહેલા જ વાક્યમાં 'સરદાર — આગેવાન' એમ ગ્લોસ કરો (છાપેલી શબ્દાર્થ-પેટીનો જ અર્થ), અને તરત બતાવો કે અહીં 'અમે સહુ' એટલે ગાનારાં બાળકો પોતે — દરેક જણ પોતે એક સરદાર. પછી પહેલી કડીનાં કામ — વાળઝૂડ, આંગણ-શેરી ચોખ્ખાં રાખવાં, ઉકરડો થવા ન દેવો — એ જ 'અમે' કરે છે એમ જોડી આપો. કોઈ ખરેખરા માણસનું નામ ક્યાંય ન લો."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "Slogan gate, bound to this કડી: no sentence of `explanation`, `real_life_example`, the three summaries, any `concept_bullets`/`important_points` line or any `recall_questions[].answer` may be an exhortation of the shape 'વારે વારે હાથ ધોવા જોઈએ' / 'રોજ નહાવું જોઈએ' / 'વાસણ ચોખ્ખાં રાખવાં જોઈએ'. The કડી's own verb is 'ધોઈએ', first person; no જોઈએ is printed in this `original_chunk`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No over-scientifying: 'વારે વારે હાથ ધોઈએ' invites a hygiene-science aside, so no word naming a scientific mechanism — 'જીવાણુ', 'જંતુ', 'બૅક્ટેરિયા', 'વાઇરસ', 'ચેપ', 'રોગપ્રતિકારક શક્તિ' — may appear in `explanation`, `real_life_example` or any recall answer. None of these words is printed anywhere in this chapter's text or in its શબ્દાર્થ box.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No literal reading of a figurative line: no sentence of `explanation`, a summary or a recall answer may state as fact that the body gives off light — 'તન અમારાં ઝગમગતાં' is the same ચકચકાટ as the washed 'થાળી-વાટકો', not a lamp. A sentence of the form 'શરીરમાંથી પ્રકાશ નીકળે છે' fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Craft is not skipped: `explanation` must carry one sentence naming the doubled sound inside 'ચકચકતાં' (ચક-ચક) and 'ઝગમગતાં' (ઝગ-મગ), or the matching -તાં ending the two words share — unless `figures_of_speech[]` is non-empty with lines from this chunk. Name it as a sound the ear catches while singing; no અલંકાર label at this standard.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'તન અમારાં ઝગમગતાં' ને શબ્દશઃ સાચું માની લે છે — શરીરમાંથી દીવા જેવો પ્રકાશ નીકળે છે એવું ચિત્ર બને છે — અથવા 'ઝગમગતાં' ને માત્ર દીવા ને લાઇટ સાથે જ જોડે છે. બંને રીતે નાહી-ધોઈને ચોખ્ખા થયેલા શરીરની જે વાત કડી કરે છે તે ચૂકી જવાય છે.",
+      "correction": "`explanation` માં પહેલાં ધોયેલા થાળી-વાટકાનો ચકચકાટ બતાવો — વાસણ ધોઈને મૂકો ત્યારે કેવું ચમકે છે — અને પછી કહો કે નાહી-ધોઈને ચોખ્ખું થયેલું તન પણ એવું જ ઊજળું લાગે છે. 'ઝગમગતાં — ચોખ્ખાં ને ઊજળાં લાગતાં' એ ગ્લોસ એ જ વાક્યમાં આપો. શરીરમાંથી ખરેખર પ્રકાશ નીકળે છે એવું એક પણ વાક્ય ન લખો."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Slogan gate, bound to this કડી: no sentence of `explanation`, `real_life_example`, the three summaries, any `concept_bullets`/`important_points` line or any `recall_questions[].answer` may be an exhortation of the shape 'ગામ-શહેર ચોખ્ખાં રાખવાં જોઈએ' / 'મચ્છર ન થવા દેવા જોઈએ' / 'ગંદકી ન કરવી જોઈએ'. This `original_chunk` states only what will happen — 'થાશે', 'ફરશે', 'મટે' — and prints no જોઈએ.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No over-scientifying: 'માખી-મચ્છર' and 'રોગ' invite a disease lesson, so no `explanation`, `real_life_example` or recall answer may name 'મલેરિયા', 'ડેન્ગ્યુ', 'ચેપ', 'જીવાણુ', 'જંતુ' or any other mechanism word. Only the chapter's own words 'રોગ' and 'નામોનિશાન' may carry this.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Craft is not skipped: `explanation` must carry one sentence naming either the like-sounding line-endings 'થાશે' and 'ફરશે', or the paired word 'માખી-મચ્છર' as a sound-pair (the chapter's own શબ્દ-જોડી exercise block quotes exactly this pair) — unless `figures_of_speech[]` is non-empty with lines from this chunk.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Never modernise the poet: wherever this કડી's third-from-last line is quoted inside `explanation`, a summary or a recall answer, it must print 'થાશે' exactly as set. Quoting it as 'થશે' fails; the gloss 'થાશે — થશે' outside the quotation is the correct way to help.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Picture before feeling: the first sentence of `explanation` must name 'શહેર', 'ગામ' or 'માખી-મચ્છર' with the printed word; opening on the ભાવ of સામૂહિક સફાઈ without one of them fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "છાપેલા 'મટે' ને બાળક 'માટે' વાંચી લે છે — એક જ માત્રાનો ફેર છે અને 'માટે' શબ્દ એ રોજ સાંભળે છે. પછી 'મટે રોગનું નામોનિશાન' પંક્તિ 'રોગના નામ માટે…' જેવી કશીક વાત બની જાય છે, અને રોગ સાવ મટી જવાની જે વાત કડી કરે છે તે જ ખોવાઈ જાય છે.",
+      "correction": "પંક્તિ ટાંક્યા પછીના પહેલા જ વાક્યમાં 'મટે — દૂર થાય, નાબૂદ થાય' એમ ગ્લોસ કરો, અને પંક્તિ મોટેથી બોલાવીને ગોઠવણી બતાવો: 'રોગનું નામોનિશાન મટે' — અહીં 'માટે' છે જ નહિ. પછી 'નામોનિશાન — નામ કે નિશાની સુધ્ધાં ન રહે' જોડીને કડીનું ચિત્ર પૂરું કરો."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "Slogan gate, bound to this કડી — it bites hardest here, because the કડી's matter is મન: no sentence of `explanation`, `real_life_example`, the three summaries, any `concept_bullets`/`important_points` line or any `recall_questions[].answer` may be an exhortation of the shape 'ભેદભાવ ન રાખવો જોઈએ' / 'બધાં સાથે હળીમળીને રહેવું જોઈએ' / 'મન ચોખ્ખું રાખવું જોઈએ'. The કડી's own verbs are 'રહીએ', 'ભૂલીએ', 'ન કરીએ' and no જોઈએ is printed in this `original_chunk`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Picture before feeling, adapted — this is the one કડી in the chapter with nothing seeable in it, so the gate binds to its words instead of to an object: the first sentence of `explanation` must be built from this કડી's printed words — 'મનથી', 'નિર્મળ', 'ઊંચ-નીચના ભેદ' or 'વેર-ઝેરની વાત' — and must say what the singers say they do. A first sentence stating સમાનતા, ભાઈચારો or એકતાનો ભાવ with none of those printed words in it fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Craft is not skipped: `explanation` must carry one sentence naming either the like-sounding line-endings 'રહીએ' / 'ભૂલીએ' / 'કરીએ' (the same chain the પહેલી કડી sings), or the paired words 'ઊંચ-નીચ' and 'વેર-ઝેર' as a sound-pair — unless `figures_of_speech[]` is non-empty with lines from this chunk.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No group named that the કડી does not name: no `explanation`, `real_life_example`, summary, bullet or recall answer may name a જ્ઞાતિ, સમાજ, ધર્મ or કોમ. The line prints only 'ઊંચ-નીચના ભેદ' and names no group; the anchor stays in the child's વર્ગખંડ or રમતના મેદાનમાં. Soft — the profile does not list it, and `08_sensitivity.json` flags the same line.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક 'ઊંચ-નીચના ભેદ' ને ઊંચાઈનો ફેર સમજી લે છે — કોણ ઊંચું ને કોણ ઠીંગણું, અથવા ઊંચી-નીચી જગ્યા. એટલે આ કડી અચાનક કેમ મનની વાત કરવા લાગી તે સમજાતું નથી, અને 'મનથી અમે નિર્મળ રહીએ' પંક્તિ સાથેની કડી તૂટી જાય છે.",
+      "correction": "પંક્તિ ટાંક્યા પછી તરત 'ઊંચ-નીચ — કોઈને ઊંચું ને કોઈને નીચું ગણવું; માણસ-માણસ વચ્ચે પાડેલો ભેદ' એમ ગ્લોસ કરો, અને એ જ ફકરામાં બતાવો કે અહીં હાથ કે વાસણ નહિ, મન ધોવાની વાત છે — 'મનથી અમે નિર્મળ રહીએ' પંક્તિ સાથે જોડીને. કોઈ જ્ઞાતિ કે સમાજનું નામ લીધા વગર, વર્ગખંડ કે રમતના મેદાનની ભાષામાં જ વાત રાખો."
+    },
+    {
+      "topic_id": "M2.S4.T5",
+      "avoid_checks": [
+        {
+          "check": "No political framing — this is one of the two topics that tempt it: no `explanation`, `real_life_example`, summary, bullet or `recall_questions[].answer` may name a સરકારી યોજના, ઝુંબેશ, પક્ષ, સેના, રાષ્ટ્રધ્વજ/તિરંગો or a national day (ધ્વજવંદન, ૧૫ ઑગસ્ટ, ૨૬ જાન્યુઆરી). The કડી prints only 'ચોખ્ખાઈનું હવે રાજ ચાલશે', 'ઝંડો તંદુરસ્તીનો લહેરાશે' and 'દેશનું નામ રોશન થાશે..' — the flag in this કડી belongs to તંદુરસ્તી, to nothing else.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No literal reading of a figurative line: no sentence may state as fact that a real ધજા is hoisted anywhere, or that the words 'ચોખ્ખાઈનું હવે રાજ ચાલશે' mean an actual રાજા, રાજ્ય or સરકાર taking charge. Both are the કડી's pictures of what winning looks like.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Slogan gate, bound to this કડી: no teaching field or recall answer may be an exhortation of the shape 'તંદુરસ્તી જાળવવી જોઈએ' / 'દેશનું નામ રોશન કરવું જોઈએ'. This `original_chunk` is entirely a picture of what will happen — 'ચાલશે', 'લહેરાશે', 'થાશે' — and prints no જોઈએ.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Craft is not skipped: `explanation` must carry one sentence naming the -શે ending that closes all three lines of this કડી — 'ચાલશે', 'લહેરાશે', 'થાશે' — and the marching swing it gives the singing, unless `figures_of_speech[]` is non-empty with lines from this chunk. Name it as sound, not with an અલંકાર or છંદ label.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Verbatim of a printed anomaly: this કડી's third line prints two dots — 'દેશનું નામ રોશન થાશે.. કેમકે,' — where every other કડી prints three. Any quotation of that line inside `explanation`, a summary or a recall answer reproduces the two dots as set; adding a third 'corrects' the page. Soft — the profile does not list it, and Agent 5 owns the `original_chunk` itself.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક આ કડીના ચિત્ર-શબ્દોને સાચી ઘટના ગણી લે છે — 'ઝંડો તંદુરસ્તીનો લહેરાશે' વાંચીને 'કયો ઝંડો? કોણ ચડાવશે? ક્યાં ચડાવશે?' શોધવા લાગે છે, અને 'ચોખ્ખાઈનું હવે રાજ ચાલશે' ને કોઈ રાજા કે સરકારના રાજ તરીકે વાંચે છે. પછી કડી જે આવતા દિવસનું ચિત્ર બતાવે છે તે દેખાતું જ નથી.",
+      "correction": "પહેલાં દેખાતું ચિત્ર આપો — પવનમાં ફરફરતી ધજા — અને પછી કહો કે અહીં કપડાનો કોઈ ઝંડો નથી; ગીત તંદુરસ્તીની જીતને ઊંચે લહેરાતી ધજા જેવી બતાવે છે. એ જ રીતે 'રાજ — અમલ, ચલણ' ગ્લોસ કરીને કહો કે હવે ચોખ્ખાઈનું ચલણ થશે, કોઈ રાજા આવવાનો નથી. કોઈ ધ્વજવંદન, તહેવાર કે યોજનાનું નામ ન લો."
+    },
+    {
+      "topic_id": "M2.S4.T6",
+      "avoid_checks": [
+        {
+          "check": "Slogan gate, bound to the closing કડી — this is where the poster line lands: no sentence of `explanation`, `real_life_example`, the three summaries, any `concept_bullets`/`important_points` line or any `recall_questions[].answer` may be an exhortation of the shape 'સ્વચ્છતા રાખવી એ આપણી ફરજ છે' / 'આપણે સૌએ આ સંદેશ ઘર ઘર પહોંચાડવો જોઈએ'. The કડી's own words are 'ચોખ્ખાઈ આપણી દેશભક્તિ', 'ચોખ્ખાઈ આપણી પ્રાણશક્તિ', 'ઘર ઘર પહોંચે આ પયગામ' — none of them carries જોઈએ.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "The poster test, made countable: the last sentence of `explanation`, of `detailed_summary` and of every `recall_questions[].answer` on this topic must name something this કડી prints — 'ચોખ્ખાઈ', 'દેશભક્તિ', 'પ્રાણશક્તિ', 'ઘર ઘર', 'પયગામ', or the ટેકનો પોકાર — and not a rule of conduct for સૌ / હંમેશાં / જીવનમાં. A closing clause of the form 'સૌએ … જોઈએ' or 'જીવનમાં … જરૂરી છે' fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No political framing: 'દેશભક્તિ' may be used because this કડી prints it, but no `explanation`, `real_life_example`, summary, bullet or recall answer may name a સરકાર, પક્ષ, યોજના, ઝુંબેશ, સેના, સરહદ, રાષ્ટ્રધ્વજ or any real leader. The chapter prints none of them.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Craft is not skipped: `explanation` must carry one sentence naming either the repetition that opens both of the કડી's first two lines — 'ચોખ્ખાઈ આપણી …' — or the matching sound at the end of 'દેશભક્તિ' and 'પ્રાણશક્તિ', unless `figures_of_speech[]` is non-empty with lines from this chunk. Named as sound and repetition, with no અલંકાર label.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'ઘર ઘર પહોંચે આ પયગામ' ને બની ગયેલી વાત તરીકે વાંચે છે — 'સંદેશો બધાં ઘરે પહોંચી ગયો' — એટલે કડીને છેડે રહેલી ઇચ્છા, એટલે કે ગાનારાં જે માગે છે તે, ખોવાઈ જાય છે અને ગીત પોકારને બદલે અહેવાલ જેવું બની જાય છે.",
+      "correction": "'પયગામ — સંદેશો' ગ્લોસ કરીને એ જ વાક્યમાં કહો કે 'પહોંચે' એટલે 'પહોંચી જાય તો સારું' — ગાનારાં એવી ઇચ્છા કરે છે, સંદેશો હજી પહોંચ્યો નથી. પછી બતાવો કે એટલે જ છેલ્લે ટેકનો પોકાર ફરી એક વાર આવે છે, જાણે કૂચ આગળ ચાલતી હોય. વ્યાકરણનું કોઈ નામ પાડ્યા વગર માત્ર ઇચ્છા છે એટલું જ કહો."
+    }
+  ],
+  "chapter_level": [
+    "આખું પ્રકરણ એક જ કૂચગીત છે અને એક જ profile — `urmikavya_geet` — હેઠળ ચાલે છે; મિશ્ર પ્રકરણ નથી, એટલે દરેક topic પર એ જ avoid-list લાગુ પડે છે. Slogan gate ખાસ નોંધવા જેવો છે: 'જોઈએ' શબ્દ કાવ્યની એક પણ પંક્તિમાં છપાયો નથી. એ શબ્દ ફક્ત શિક્ષક-સંબોધિત વાદળી પ્રવેશપેટીમાં ('બનવી જોઈએ', 'કેળવવી જોઈએ', 'રહેવું જોઈએ') અને સ્વાધ્યાયના યોગ્ય/અયોગ્યવાળા ભાગના એક વાક્યમાં આવે છે — બેમાંથી એકેય કોઈ topic નું `original_chunk` નથી. તેથી આ પ્રકરણમાં કોઈ પણ teaching field માં '… જોઈએ' વાળા વાક્યને 'કાવ્યમાંથી જ છે' કહીને બચાવી શકાય નહિ.",
+    "ધોરણ 6 નું નામકરણ-છત: કોઈ પણ authored field માં અલંકાર કે છંદનું નામ (સજીવારોપણ, રૂપક, અતિશયોક્તિ, વર્ણાનુપ્રાસ, પુનરુક્તિ, માત્રામેળ …) ન આવે. આ ગીતની કારીગરી કાનથી પકડાય છે — સરખા અવાજે પૂરી થતી પંક્તિઓ (કરીએ/રાખીએ/દઈએ, થાશે/ફરશે, ચાલશે/લહેરાશે/થાશે), બેવડા અવાજવાળા શબ્દો (ચકચક, ઝગમગ) અને શબ્દ-જોડીઓ (થાળી-વાટકો, માખી-મચ્છર, ઊંચ-નીચ, વેર-ઝેર) — એટલે એને અવાજ તરીકે બતાવવી, નામ પાડીને નહિ.",
+    "L2 વાચક માટે આ પ્રકરણનું ઉચ્ચાર-ને-લિપિનું જોખમ આખા પાઠમાં ફેલાયેલું છે, એટલે એક જ વાર અહીં: 'ળ' અર્થ બદલે છે (વાળઝૂડ, થાળી, નિર્મળ, ભૂલીએ) અને 'લ' વાંચી લેવાય તો શબ્દ જ બીજો બને છે; 'ઊંચ-નીચ' ને 'ઝૂડ' માં લાંબો ઊ છપાયો છે; જોડાક્ષર 'ક્તિ' (દેશભક્તિ, પ્રાણશક્તિ), 'ચ્છ' (મચ્છર) ને 'ખ્ખ' (ચોખ્ખાઈ) હિન્દી કે અંગ્રેજી માધ્યમનું બાળક એક-એક કરીને ઉકેલે છે. દરેક ટાંચણમાં આ અક્ષરો છપાયા છે તેમ જ રહે, અને ગ્લોસ શબ્દને બોલચાલની સાદી ગુજરાતીમાં ફરી કહી બતાવે.",
+    "કર્તાના ખાનામાં માત્ર '- સંકલિત' છપાયું છે અને કાવ્યની અંદર કોઈ છાપ નથી — એટલે આખા પ્રકરણમાં કવિ વિશે એક પણ હકીકત, જન્મવર્ષ, પુસ્તક કે ઓળખ લખાય નહિ, અને શીર્ષકના 'સરદાર' શબ્દ પરથી કોઈ ખરેખરા નેતાનું નામ ખેંચી લવાય નહિ (`reference/no_hallucination_policy.md`).",
+    "ટેકના શબ્દો છએ કડીએ બદલાતા નથી — ફક્ત છાપેલું ટૂંકું રૂપ 'ચોખ્ખાઈના સરદાર અમે સહુ...' પાછું આવે છે. તેથી ટેક પહેલા topic માં એક જ વાર ભણાવવાની છે અને પછીની કડીઓમાં તેનો ઉલ્લેખ 'ટેકનો એ જ પોકાર ફરી આવે છે' પૂરતો રહે; દરેક કડીમાં ટેકને નવેસરથી સમજાવવી એ ભણતર નથી, પુનરાવર્તન છે.",
+    "ચિત્રમાં કૂચ કરતાં બાળકોના પાટિયા પર છપાયેલું 'સ્વચ્છતા ત્યાં પ્રભુતા' કાવ્યપંક્તિ નથી — ચિત્રનું લખાણ છે. તેને કોઈ પણ topic માં કાવ્યની પંક્તિ તરીકે ટાંકવું, પ્રાસમાં ગણવું કે key_terms માં લેવું એ પાનાએ ન કહેલી વાત કહેવા બરાબર છે.",
+    "પ્રકરણમાં એક ટેક ને છ કડી છે, એટલે display text માં આંકડા આવવાનું જોખમ ઊંચું છે: 'પહેલી કડીમાં', 'છેલ્લી કડીમાં', 'ટેકમાં' એમ લખાય — 'કડી 4માં' કે 'ટેક 1' ક્યારેય નહિ. આંકડા ફક્ત id અને provenance ક્ષેત્રોમાં ટકે."
+  ]
+}

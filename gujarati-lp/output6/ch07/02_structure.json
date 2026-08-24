@@ -1,0 +1,310 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati6_ch7",
+  "plan_id": "gseb_eng_gujarati6_ch7_v1",
+  "grade": 6,
+  "chapter_name": "ચોખ્ખાઈના સરદાર",
+  "genre": "urmikavya_geet",
+  "active_genre_profiles": ["urmikavya_geet.md"],
+  "teaching_lens": "ચિત્ર + ભાવ + લય",
+  "guiding_question": "કડીએ કડીએ કયાં ચિત્રો બતાવીને આ કૂચગીત આપણને 'ચોખ્ખાઈના સરદાર' બનવા બોલાવે છે ?",
+  "explanation_unit": "એક કડી",
+
+  "cut_summary": {
+    "reading_scene_markers_in_normalized": ["[[ટેક]]", "[[કડી 1]]", "[[કડી 2]]", "[[કડી 3]]", "[[કડી 4]]", "[[કડી 5]]", "[[કડી 6]]"],
+    "markers_carried_by_topics": 7,
+    "modules": 2,
+    "segments": 4,
+    "topics": 6,
+    "concepts": 7,
+    "objectives": 6,
+    "tek_wordings_distinct": 1,
+    "tek_carrying_topic_id": "M1.S1.T1"
+  },
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ટેકનો પોકાર 'ચોખ્ખાઈના સરદાર અમે સહુ' કોણ બોલે છે તે ઓળખી, પહેલી કડીમાં ઘર-આંગણનાં કયાં કામ ગણાવ્યાં છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1", "M1.S1.T1.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બીજી કડીમાં હાથ, થાળી-વાટકો અને તન કેવાં થાય છે તે 'ચકચકતાં' ને 'ઝગમગતાં' શબ્દો ટાંકીને સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": ["M1.S1.T2.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ત્રીજી કડીમાં ગામ-શહેર ચોખ્ખાં થતાં માખી-મચ્છર અને રોગનું શું થાય છે તે ક્રમમાં કહી, 'નામોનિશાન' શબ્દ સમજાવવો.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": ["M1.S2.T3.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ચોથી કડીમાં ચોખ્ખાઈની વાત બહારથી મન તરફ કેમ વળે છે તે 'ઊંચ-નીચના ભેદ' ને 'વેર-ઝેર' પંક્તિઓ ટાંકીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": ["M2.S3.T4.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પાંચમી કડીની 'ઝંડો તંદુરસ્તીનો લહેરાશે' પંક્તિ આંખ સામે કયું ચિત્ર ઊભું કરે છે તે પોતાના શબ્દોમાં વર્ણવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T5",
+      "anchor": ["M2.S4.T5.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "છેલ્લી કડીમાં ચોખ્ખાઈને દેશભક્તિ ને પ્રાણશક્તિ કેમ કહી હશે તે કારણ સાથે કહી, 'ઘર ઘર પહોંચે આ પયગામ'નો અર્થ સમજાવવો.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S4.T6",
+      "anchor": ["M2.S4.T6.C7"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6"
+  },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "ઘરથી ગામ સુધીની ચોખ્ખાઈ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "ઘરનું આંગણ ને ચકચકતી થાળી",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "સરદારોનો સાદ ને ઘરની વાળઝૂડ",
+              "topic_type": "POEM",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "markers": ["[[ટેક]]", "[[કડી 1]]"],
+              "source_lines_00_normalized": "17-25",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "'ચોખ્ખાઈના સરદાર અમે સહુ' — સહિયારો પોકાર",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S1.T1.C2",
+                  "concept_name": "ઘર, આંગણ-શેરી ને ઉકરડો ન થવા દેવાનું ચિત્ર",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "ધોયેલા હાથ ને ચકચકતાં વાસણ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "markers": ["[[કડી 2]]"],
+              "source_lines_00_normalized": "27-31",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C3",
+                  "concept_name": "વારે વારે ધોવાતા હાથ, ચકચકતાં વાસણ, ઝગમગતું તન",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "ગામ-શહેર ચોખ્ખાં, રોગનું નામોનિશાન નહિ",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "માખી-મચ્છર ભાગે ને રોગ મટે",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "markers": ["[[કડી 3]]"],
+              "source_lines_00_normalized": "33-37",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C4",
+                  "concept_name": "ગામ-શહેર ચોખ્ખાં થતાં માખી-મચ્છર ને રોગનું નામોનિશાન",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "મનની નિર્મળતાથી ઘર ઘર પયગામ",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "મનથી નિર્મળ — ભેદ ને વેર વગરના",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "ઊંચ-નીચના ભેદ ભૂલીએ",
+              "topic_type": "POEM",
+              "topic_category": "transition",
+              "difficulty": "hard",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "markers": ["[[કડી 4]]"],
+              "source_lines_00_normalized": "39-43",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C5",
+                  "concept_name": "ઊંચ-નીચના ભેદ અને વેર-ઝેર વગરનું નિર્મળ મન",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "તંદુરસ્તીનો ઝંડો ને ઘર ઘર પયગામ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T5",
+              "topic_name": "ચોખ્ખાઈનું રાજ ને તંદુરસ્તીનો ઝંડો",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "markers": ["[[કડી 5]]"],
+              "source_lines_00_normalized": "45-49",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T5.C6",
+                  "concept_name": "ચોખ્ખાઈનું રાજ, તંદુરસ્તીનો ઝંડો ને રોશન થતું નામ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T6",
+              "topic_name": "ઘર ઘર પહોંચે આ પયગામ",
+              "topic_type": "POEM",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "markers": ["[[કડી 6]]"],
+              "source_lines_00_normalized": "51-55",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T6.C7",
+                  "concept_name": "ચોખ્ખાઈ એટલે દેશભક્તિ ને પ્રાણશક્તિ — ઘર ઘર પયગામ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "not_cut_as_topics": [
+    "[[શીર્ષક]] અને [[કર્તા-નોંધ]] ('- સંકલિત') — છાપેલી header-પંક્તિઓ, વાચન-દૃશ્ય નથી. કર્તાના ખાનામાં કવિનું નામ છપાયું જ નથી, એટલે કોઈ કવિ-પરિચય CONCEPT topic બનતું નથી અને કવિ વિશે એક પણ હકીકત plan માં જઈ શકે નહિ. આ measured gap છે (no_hallucination_policy.md).",
+    "[[પ્રવેશપેટી]] — વાદળી પેટી; શિક્ષક-સંબોધિત apparatus ('ગાન કરાવવું', 'સમજ આપવી'). Topic નથી. એ સ્વરૂપ-નિદાનનો સૌથી મજબૂત પુરાવો છે (પુસ્તક પોતે 'કૂચગીત' શબ્દ વાપરે છે) અને key_terms / ભાષા-બોધ ને પોષે છે.",
+    "[[ચિત્રમાં છપાયેલું લખાણ]] 'સ્વચ્છતા ત્યાં પ્રભુતા' — ચિત્રના પાટિયા પરનું લખાણ, કાવ્યપંક્તિ નથી. કોઈ topic ના original_chunk માં, પ્રાસ-યાદીમાં કે key_terms માં જવું ન જોઈએ (Agent 1 ની ચેતવણી અહીં ફરી નોંધી છે).",
+    "[[શબ્દાર્થ]] પેટી (સરદાર, ઉકરડો, નિર્મળ, વેરઝેર, પ્રાણશક્તિ, પયગામ) — સ્વાધ્યાય પહેલાં છપાયેલી apparatus પેટી; point-of-use gloss અને key_terms ને પોષે છે, topic નથી.",
+    "13 ક્રમાંકિત સ્વાધ્યાય બ્લોક (વાતચીત … 'આ કૂચગીતનું અભિનય સાથે ગાન કરો.') — 01_meta.json ના exercise_inventory માં જ રહે છે; Agent 10 નું ક્ષેત્ર. એકેયને topic તરીકે કાપ્યો નથી.",
+    "[[વ્યાકરણપેટી: વાક્યના પ્રકારો વિષે જાણીએ]] — પાઠાંતે જોડાયેલી લીલી પેટી; વ્યાકરણ-એકમ છે, વાચન-દૃશ્ય નથી. Agent 10 / bhasha_bodh નું ક્ષેત્ર.",
+    "[[રમતપેટી: શોધી જુઓ આવાં નામ.]] — પાઠાંતે જોડાયેલી રમત-પેટી (લાભુભાઈ / લાભુબહેન + છ ખાલી હરોળ); ક્રમાંકિત સ્વાધ્યાય-યાદીની બહાર છપાયેલી પ્રવૃત્તિ. Topic ક્યારેય નથી."
+  ],
+
+  "notes": [
+    "કાપનો એકમ પ્રોફાઇલ-prior અને છપાયેલા પાના — બંને પરથી એક જ આવે છે: ઊર્મિકાવ્ય-ગીત (કૂચગીત) = એક કડી. પાનું 150 dpi પર ફરી રેન્ડર કરીને વાંચ્યું; કાવ્ય પાના પર બે કૉલમમાં છપાયું છે અને કૉલમ ઉપરથી નીચે વંચાય છે — ડાબી કૉલમમાં ટેક + પહેલી, બીજી, ત્રીજી કડી; જમણી કૉલમમાં ચોથી, પાંચમી, છઠ્ઠી. આડું વાંચવાથી જુદું (ખોટું) કાવ્ય બનત. Agent 1 ની transcription સાથે અક્ષરશઃ મેળ મળે છે; profile prior સાથે કોઈ મતભેદ નથી.",
+    "ટેકનો fold — આ પ્રકરણનો મુખ્ય કાપ-નિર્ણય. [[ટેક]] અને [[કડી 1]] બે markers છે, પણ બંને એક જ topic M1.S1.T1 માં બેસે છે અને એ topic બંને markers ને `markers` માં ગણાવે છે (એકેય marker ગળી ગયો નથી). કારણ: agents/02_structure.md નો ચકાસાતો નિયમ — 'An identical ટેક is taught at first occurrence and referenced after; it never becomes a topic of its own.' અહીં ટેકના શબ્દો ક્યાંય બદલાતા નથી: પાના પર એક જ પૂરી બે-પંક્તિની ટેક છપાઈ છે અને પછી છ વાર એનું જ ટૂંકું રૂપ 'ચોખ્ખાઈના સરદાર અમે સહુ...' — distinct wordings = 1. આ જ કાપ ધો. 6 ના પહેલા પ્રકરણમાં પણ વપરાયો છે, એટલે પૅકની અંદર સુસંગત છે.",
+    "profiles/genres/urmikavya_geet.md નો structural gate પળાયો છે: identical ટેક → બરાબર એક topic ટેક carry કરે છે (M1.S1.T1), અને પછીની પાંચેય કડી-topics એ topic ને depends_on માં ગણાવે છે, કારણ કે દરેક કડીને છેડે છપાયેલું શૉર્ટહૅન્ડ ત્યાં જ ભણાવેલી પૂરી ટેક તરફ પાછું મોકલે છે. બાકી કોઈ depends_on નથી — કડીઓ એકબીજા પર આધારિત નથી.",
+    "Agent 4 જો '1 marker = 1 topic' ની કડક ગણતરી કરે તો આ પંક્તિ ખુલાસો છે: reading-scene markers 7, topics 6, markers_carried_by_topics 7. જો પૅક-માલિક ટેકને અલગ topic ઇચ્છે તો કાપ આ રીતે ખસે — M1.S1.T1 = માત્ર ટેક, પહેલી કડી નવું topic, અને પછીના બધા t/c અંક એક-એક આગળ; O1 ને બે topics વચ્ચે વહેંચવો પડે. અત્યારે spec મુજબનો fold જ લખ્યો છે.",
+    "M1.S1.T1 ને બે concepts આપ્યાં છે કારણ કે એ ખરેખર બે જુદી વસ્તુ કરે છે — ટેકનો સહિયારો દાવો ('ચોખ્ખાઈના સરદાર અમે સહુ / ચોખ્ખાઈના સરદાર.') અને પહેલી કડીનું ઘર-આંગણનું ચિત્ર ('ઘરમાં અમે વાળઝૂડ કરીએ', 'ઉકરડો તો થવા ન દઈએ'). બાકીનાં પાંચેય topics ને એક-એક concept.",
+    "Concept counter chapter-continuous છે: C1, C2 (M1.S1.T1), C3 (M1.S1.T2), C4 (M1.S2.T3), C5 (M2.S3.T4), C6 (M2.S4.T5), C7 (M2.S4.T6). પહેલા topic માં બે concepts હોવાથી concept-અંક topic-અંક બરાબર નથી — reference/phase2_contract.md અને naming_conventions.md મુજબ આ માન્ય છે (સમાનતા માત્ર 'one concept per topic' હોય ત્યારે જ સર્જાય).",
+    "Module કાપ કાવ્યના પોતાના વળાંક પરથી છે. M1 — ચોખ્ખાઈ જે આંખે દેખાય છે: ઘર, આંગણ-શેરી, હાથ, થાળી-વાટકો, તન, પછી આખું ગામ-શહેર. M2 — ચોથી કડીએ વાત બહારથી અંદર વળે છે (મન, ભેદ, વેર-ઝેર) અને પછી બહાર નીકળીને ઘર ઘર પહોંચતા પયગામ સુધી જાય છે. Segment કાપ એ જ સ્કેલ-વિસ્તાર પર: M1.S1 બાળકની આસપાસનું નાનું વર્તુળ, M1.S2 ગામ-શહેર, M2.S3 મન, M2.S4 ઝંડો ને પયગામ.",
+    "M1.S2 અને M2.S3 માં એક-એક જ topic છે. છ કડીના ગીતમાં આ થોડું અસમતોલ દેખાય, પણ બંને કડી પોતાનું અલગ ફલક ધરાવે છે — એક ગામ-શહેર અને રોગનું, બીજી મનનું — અને એમને પડોશી કડી સાથે જોડવાથી બે જુદી વાત એક જ segment માં ભળી જાત. Agent 4 / Agent 13 માટે નોંધ; blocking નથી.",
+    "topic_category: ચોથી કડીને 'transition' આપી છે કારણ કે કાવ્યની દિશા ત્યાં જ બહારથી અંદર વળે છે; પાંચમી કડીને 'climax' (ચોખ્ખાઈનું રાજ, લહેરાતો ઝંડો, રોશન થતું નામ — ભાવનું શિખર) અને છઠ્ઠીને 'resolution' (પયગામ બાળકના હાથમાં સોંપાય છે). આ વાચન-ભૂમિકાનું નામ છે, ચુકાદો નથી — ચોથી કડી સામગ્રીની દૃષ્ટિએ કાવ્યનો સૌથી ઊંડો દાવો પણ છે.",
+    "difficulty આ પ્રકરણની અંદર સાપેક્ષ છે અને L2 વાચકને પાના પર શું અટકાવે છે તેના પરથી નક્કી કરી છે — વિચારના કદ પરથી નહિ. M1.S1.T1 medium (સૌથી લાંબું topic, છ પંક્તિ; 'વાળઝૂડ' જેવો જોડ-શબ્દ અને 'ઉકરડો' શહેરી બાળકના વસ્તુ-જગતમાં નથી, જોકે બંને શબ્દાર્થ-પેટીમાં છે). M1.S1.T2 easy (રોજિંદી ક્રિયાઓ, ટૂંકી પંક્તિઓ, 'ચકચકતાં-ઝગમગતાં' કાને ચડી જાય તેવા શબ્દો). M1.S2.T3 medium ('નામોનિશાન' ચાર-અક્ષરી આગત જોડ-શબ્દ, 'મટે' ક્રિયારૂપ). M2.S3.T4 hard (ભેદ, વેર-ઝેર, નિર્મળ મન — ત્રણેય પંક્તિમાં જોવા જેવું કશું નથી, બધું અમૂર્ત). M2.S4.T5 medium ('તંદુરસ્તી', 'રોશન' આગત શબ્દો અને ભવિષ્યકાળની સાંકળ, પણ ઝંડો ને રાજ દેખાય તેવાં છે). M2.S4.T6 hard (દેશભક્તિ, પ્રાણશક્તિ, પયગામ — ત્રણ પંક્તિમાં ત્રણ અમૂર્ત તત્સમ/આગત નામ). ધો. 6 મુજબ કોઈ topic કારીગરીના નામને કારણે hard નથી, અને difficulty એ Bloom ની ટોચ નથી — hard topics ના objectives જ Analyze અને Evaluate સુધી પહોંચે છે.",
+    "objective_text માં એક પણ અલંકાર / છંદ / સમાસ / સાહિત્યપ્રકારનું નામ નથી (ધો. 6 નું hard ceiling — profiles/students/std-6.md §3, reference/teaching_lens_map.md). 'ટેક' અને 'કડી' વપરાયા છે, જેને teaching_lens_map.md ધો. 6–8 માટે સ્પષ્ટ મંજૂરી આપે છે. પાંચમી કડીના 'ઝંડો તંદુરસ્તીનો લહેરાશે' ને લક્ષ્યમાં લીધું છે, પણ noticing તરીકે — 'કયું ચિત્ર આંખ સામે ઊભું થાય છે' — નામ પાડ્યા વગર.",
+    "દરેક objective આ પ્રકરણના પોતાના શબ્દો પરથી લખ્યો છે અને બીજા કોઈ પ્રકરણમાં બંધ બેસે તેમ નથી; દરેક lens 'ચિત્ર + ભાવ + લય' ને સેવે છે અને ચકાસી શકાય તેવો છે. લંબાઈ (12–30 શબ્દોની બૅન્ડ): O1 = 20, O2 = 16, O3 = 17, O4 = 18, O5 = 17, O6 = 20 શબ્દ — છ એ છ બૅન્ડમાં.",
+    "કોઈ પણ name (module / segment / topic / concept) માં અંક નથી; objective_text માં 'પહેલી કડીમાં', 'છેલ્લી કડીમાં' જેવી શબ્દ-રૂપ ગણતરી જ વાપરી છે (reference/global_content_rules.md §4).",
+    "Agent 5 / Agent 12 માટે verbatim-ચેતવણીઓ, રેન્ડર પર ફરી ચકાસેલી: (અ) દરેક કડીને છેડે છપાયેલું 'ચોખ્ખાઈના સરદાર અમે સહુ...' શૉર્ટહૅન્ડ જેમ છપાયું છે તેમ જ original_chunk માં જવું જોઈએ — તેને પૂરી બે-પંક્તિની ટેકમાં વિસ્તારવું એ verbatim defect છે; વિસ્તરણ explanation નું કામ છે. (બ) પાંચમી કડીની ત્રીજી પંક્તિમાં બે જ ટપકાં છપાયાં છે ('દેશનું નામ રોશન થાશે.. કેમકે,') જ્યાં બાકીની કડીઓમાં ત્રણ છે. (ક) છઠ્ઠી કડીમાં 'કેમકે' પછી અલ્પવિરામ છપાયો નથી. ત્રણેય જેમ છે તેમ જ રહે.",
+    "કૂચગીતનો slogan gate આ પ્રકરણ પર સૌથી સખત બેસે છે (urmikavya_geet.md §કૂચગીત + §Avoid). Agent 12 માટે નોંધ: દરેક explanation નું પહેલું વાક્ય આ કડીમાં દેખાય-સંભળાય તેવી વસ્તુથી શરૂ થવું જોઈએ — વાળઝૂડ, આંગણ, ઉકરડો, ધોવાતા હાથ, થાળી-વાટકો, માખી-મચ્છર, ઝંડો — 'આપણે સ્વચ્છતા રાખવી જોઈએ' જેવા ઉપદેશથી નહિ. એ જ રીતે political framing gate: 'દેશભક્તિ' શબ્દ કાવ્યમાં છપાયો છે એટલે વાપરી શકાય, પણ કોઈ સરકારી ઝુંબેશ કે યોજનાનું નામ ક્યાંય નહિ.",
+    "આ પ્રકરણમાં કોઈ appended reading matter નથી — બીજું કાવ્ય, 'ગાઈએ' પેટી કે કસરતમાં જડેલો નાટ્યાંશ એકેય નથી. પાઠાંતે લીલી વ્યાકરણ-પેટી અને રમત-પેટી છે, પણ એ બંનેમાં એક પણ વાચન-પંક્તિ નથી, એટલે કડી-સાંકળમાં કશું ભેળવવાનું આવ્યું નથી.",
+    "original_chunk છએ છ topics માં ખાલી છે — Agent 5 ભરશે. teaching prose (explanation, real_life_example) આ agent એ લખી નથી; એ Agent 12 નું કામ છે."
+  ]
+}

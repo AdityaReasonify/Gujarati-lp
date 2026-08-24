@@ -1,0 +1,230 @@
+{
+ "topics": [
+  {
+   "topic_id": "M1.S1.T1",
+   "avoid_checks": [
+    {
+     "check": "Slogan gate. No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets`/`important_points` line or any `recall_questions[].answer` may be an exhortation of the shape '… જોઈએ'. This title-and-poet topic invites exactly two — 'ગીત લયમાં ગાવું જોઈએ' and 'કવિનું નામ યાદ રાખવું જોઈએ'. This topic's `original_chunk` is only the two printed lines `અલ્લક દલ્લક` and `- બાલમુકુન્દ દવે`; neither contains જોઈએ, so no such clause is quotable and none may appear.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "Picture before feeling, adapted to a masthead topic. The first sentence of `explanation` must name something actually printed in this topic's `original_chunk` — the શીર્ષક `અલ્લક દલ્લક` or the author slot `- બાલમુકુન્દ દવે`. Opening instead on the poem's ભાવ (રાસની મસ્તી, ચાંદની રાત, રાધા-કૃષ્ણનો પ્રેમ) fails: none of those words occurs in this topic's `original_chunk`.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "Never modernise / never invent a meaning. No `explanation` sentence, `key_terms` entry, summary or `recall_questions[].answer` may give `અલ્લક` or `દલ્લક` a dictionary meaning, offer a 'correct' standard-Gujarati word for either, or call them ખોટા / અશુદ્ધ / છાપભૂલ. The chapter's printed શબ્દાર્થ box glosses ઝલ્લક ઝલ્લક and અલ્લપ-ઝલ્લપ but glosses neither `અલ્લક` nor `દલ્લક`, so there is no printed meaning to state.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "No poet facts beyond the printed slot. No `explanation` sentence, `key_terms` entry or `recall_questions[].answer` may state a birth year, a death year, an era, a movement, an award, or another poem of બાલમુકુન્દ દવે. The page prints exactly `- બાલમુકુન્દ દવે` and nothing else about him; the chapter carries no કવિ-પરિચય paragraph.",
+     "profile": "urmikavya_geet",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "બાળક `અલ્લક` અને `દલ્લક`નો અર્થ શબ્દાર્થના ખાનામાં શોધે છે, ત્યાં એ બે શબ્દ મળતા નથી, એટલે એને લાગે છે કે શબ્દો ખોટા છપાયા છે અથવા પોતાનાથી કંઈક ચુકાઈ ગયું છે — અને એ જ ખચકાટ સાથે આખું ગીત વાંચે છે.",
+   "correction": "`explanation`ના પહેલા વાક્યમાં જ કહો કે `અલ્લક` અને `દલ્લક` કવિએ ગાવાના લય માટે યોજેલા રણકતા શબ્દો છે, પુસ્તકનું શબ્દાર્થ ખાનું એ બેનો અર્થ આપતું નથી કારણ કે એમનો ચોક્કસ અર્થ છે જ નહિ — ગીતમાં કેટલાક શબ્દો કાન માટે હોય છે, અર્થ માટે નહિ. `key_terms`માં પણ એ જ રીતે નોંધો, અર્થ આપીને નહિ."
+  },
+  {
+   "topic_id": "M1.S2.T2",
+   "avoid_checks": [
+    {
+     "check": "Picture before feeling. The first sentence of `explanation` must name ઝાંઝર, જમના / જમનાનો મલ્લક, or રાધાગોરીનું મુખડું — words that occur character-for-character in this topic's `original_chunk`. A first sentence that opens on the ભાવ instead ('આ ટેકમાં કવિ સૌંદર્યનો આનંદ વ્યક્ત કરે છે', 'આ ગીતમાં ભક્તિનો ભાવ છે') is a fail.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "The craft must be named, but not labelled. `figures_of_speech` stays `[]` at std 7, so at least one `explanation` sentence must say what the doubled sound `ઝલ્લક ઝલ્લક` and the end-rhyme `દલ્લક / મલ્લક / ઝલ્લક` do to these lines — the book's own પ્રવેશપેટી prints 'શબ્દો, પ્રાસ, લયનું અદ્ભુત સંયોજન છે', so પ્રાસ and લય are printed words and may be used. No sentence may name an અલંકાર (ઉપમા, વર્ણાનુપ્રાસ, સજીવારોપણ, રૂપક) or a છંદ, and the comparison in `એથી સુંદર રાધાગોરી` may be shown ('મલક કરતાં પણ વધારે સુંદર') but never labelled.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "Never modernise the poet. `જમના`, `મલ્લક`, `રઢિયાળો`, `રાધાગોરી` and the joined form `ઝાંઝરઝલ્લક` stay exactly as printed wherever a line of this ટેક is quoted inside `explanation`, a summary or a `recall_questions[].answer`. No field may say that `જમના` should be યમુના, that `મલ્લક` should be મુલક, or that `રાધાગોરી` is two words wrongly joined; the printed શબ્દાર્થ box itself glosses જમના as 'યમુના (નદી)' and મલ્લક as 'મલક, પ્રદેશ' — gloss beside the word, never replace it in the quoted line.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "ટેકમાં `અલ્લક દલ્લક` અને `ઝલ્લક ઝલ્લક` જેવા અર્થ વગરના રણકતા શબ્દો સાંભળીને બાળક `રઢિયાળો`, `મલ્લક` અને `ઝાંઝર`ને પણ એવા જ અર્થહીન રણકતા શબ્દો સમજી લે છે — એટલે આખી ટેક એના માટે માત્ર અવાજ બની જાય છે અને જમનાકાંઠાનું ચિત્ર દેખાતું જ નથી.",
+   "correction": "`explanation`માં પહેલી જ વાર આ ત્રણ શબ્દ પુસ્તકના શબ્દાર્થ ખાના પ્રમાણે ગ્લોસ કરો — `ઝાંઝર — પગે પહેરવાનું ઘરેણું`, `રઢિયાળો — આંખ ઠારે તેવો, સુંદર`, `મલ્લક — મલક, પ્રદેશ` — અને પછી એક વાક્યમાં ચોખ્ખું પાડો કે ટેકમાં કયા શબ્દો ચિત્ર બતાવે છે અને કયા શબ્દો (ઝલ્લક ઝલ્લક) માત્ર કાન માટે છે."
+  },
+  {
+   "topic_id": "M1.S2.T3",
+   "avoid_checks": [
+    {
+     "check": "Picture before feeling. The first sentence of `explanation` must name પૂનમનો ચાંદ, રાસ, ગોપી or ઢોલક — all present in this topic's `original_chunk`. Opening on 'આ કડીમાં ઉત્સવનો આનંદ છલકે છે' or on any ભાવ-word is a fail.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "No over-scientifying of `આભે પૂનમ ચાંદ ઊગ્યો છે`. No word naming an astronomical mechanism — પરિભ્રમણ, કક્ષા, ઉપગ્રહ, ગ્રહણ, પ્રતિબિંબ, ચંદ્રનું અંતર — may appear in `explanation`, any summary or any `recall_questions[].answer`; none of them is printed anywhere in this chapter. The printed writing-task word-list does print `આસો સુદ પૂનમ` and `ચંદ્રની પૂર્ણ કળા`, so those two are chapter text and are allowed; nothing beyond them is.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "Literal reading of `રાસ ચગ્યો છે`. No sentence of `explanation`, any summary or any `recall_questions[].answer` may explain `ચગ્યો` as anything rising or flying (પતંગ ચગે છે, રાસ આકાશમાં ચગ્યો). The printed શબ્દાર્થ box gives `ચગ્યો છે — ઝડપથી ગોળગોળ ફરી રહ્યાં છે, સરસ રીતે ખેલાઈ રહ્યો છે`, and that is the gloss the explanation must use.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "The craft must be named, but not labelled. At least one `explanation` sentence must say what `છમ્મક છમ્મક` and `ઢમ્મક ઢમ્મક` put into the ear, and that both of this કડી's even lines end on such a doubled sound followed by '!'. No અલંકાર or છંદ name anywhere in the topic; `figures_of_speech` stays `[]`.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "`કાન` must be glossed at point of use. The first `explanation` sentence that touches `ગોપીભેળો કાન ઘૂસ્યો છે` must carry the printed શબ્દાર્થ gloss `કાનો-કનૈયો, બાલકૃષ્ણ` in the same sentence, before any further statement about him.",
+     "profile": "urmikavya_geet",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "`ગોપીભેળો કાન ઘૂસ્યો છે` વાંચીને બાળક `કાન`ને શરીરનો કાન સમજે છે — હિન્દી-અંગ્રેજી માધ્યમનું બાળક તો એ જ અર્થ પહેલો પકડે — એટલે એને પંક્તિનો કશો અર્થ બેસતો નથી અને રાસમાં કૃષ્ણ ભળ્યા એ આખી વાત ચુકાઈ જાય છે.",
+   "correction": "જે વાક્યમાં આ પંક્તિ પહેલી વાર સમજાવો એ જ વાક્યમાં પુસ્તકના શબ્દાર્થ ખાના પ્રમાણે `કાન — કાનો, કનૈયો એટલે કે બાલકૃષ્ણ` ગ્લોસ કરો, અને ઉમેરો કે લય સાચવવા કવિએ નામનું ટૂંકું રૂપ વાપર્યું છે. `key_terms`માં પણ એ જ ગ્લોસ રાખો."
+  },
+  {
+   "topic_id": "M2.S3.T4",
+   "avoid_checks": [
+    {
+     "check": "Picture before feeling. The first sentence of `explanation` must name હાર, મોતી or રાધિકા — words in this topic's `original_chunk`. A first sentence about દુઃખ, વિરહ or કિંમતી વસ્તુની કિંમત is a fail.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "Slogan gate — this કડી is where it bites. No sentence of `explanation`, `real_life_example`, any summary, any `concept_bullets` line or any `recall_questions[].answer` may be an exhortation of the shape '… જોઈએ' — 'કીમતી વસ્તુ સાચવવી જોઈએ', 'નાની વાતમાં રડવું ન જોઈએ', 'ધીરજ રાખવી જોઈએ'. This topic's `original_chunk` contains no જોઈએ and no imperative. The printed વાતચીત block does ask 'તમારી કોઈ કીમતી વસ્તુ ખોવાઈ જાય તો તમે શું કરશો ?' — that question belongs to the exercise file, and its presence does not license a બોધ here.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "Never modernise the poet. `રુએ` and `જડ્યાં` stay as printed inside every quoted line in `explanation`, the summaries and any `recall_questions[].answer`; no field may call them ખોટાં રૂપ of રડે / મળ્યાં or substitute the standard form inside the quotation. The book's own printed તળપદા block lists `જડ્યાં` and `રુએ` and sends the child to a parent for their meaning, so the register is the chapter's, not a slip.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "The craft must be named, but not labelled. At least one `explanation` sentence must say that the same rhyme carries two opposite things inside this one કડી — `ચલ્લક ચલ્લક` on the shining મોતી and `છલ્લક છલ્લક` on `રુએ રાધિકા`. No અલંકાર or છંદ name; `figures_of_speech` stays `[]`.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "હિન્દી વાંચતું બાળક `બધાં જડ્યાં પણ એક ખૂટે છે.`માં `જડ્યાં`ને હિન્દીના 'જડના' (બેસાડવું, મઢવું) જેવું સમજે છે, એટલે એને લાગે છે કે મોતી હારમાં જડેલાં હતાં — શોધવાની અને એક મોતી ન મળવાની આખી વાત ગાયબ થઈ જાય છે, અને પછી રાધિકા કેમ રડે છે એ સમજાતું નથી.",
+   "correction": "`explanation`માં પહેલી જ વાર `જડ્યાં — શોધતાં મળી આવ્યાં` એમ ગ્લોસ કરો, અને પછી કડીનો ક્રમ સીધો ગોઠવીને કહો : હાર તૂટ્યો, મોતી વેરાયાં, બધાં શોધીને મળી ગયાં, પણ એક ન મળ્યું — એટલે રાધિકા રડે છે. `key_terms`માં પણ એ જ ગ્લોસ રહે."
+  },
+  {
+   "topic_id": "M2.S3.T5",
+   "avoid_checks": [
+    {
+     "check": "Picture before feeling. The first sentence of `explanation` must name મોતી, કાના or ચરિતર — words in this topic's `original_chunk`. Opening on રાધાનો પ્રેમ, ફરિયાદનો ભાવ or કૃષ્ણની લીલા in the abstract is a fail.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "Nothing may be stated as fact that the કડી states as a condition. No sentence of `explanation`, any summary or any `recall_questions[].answer` may say that કાનાએ મોતી લીધું / ચોર્યું / સંતાડ્યું. The printed line is `લીધું હોય તો આલને કાના,` — a 'જો … તો' condition inside રાધાની ઉક્તિ — and `તારાં ચરિતર છે ક્યાં છાનાં ?` is her મીઠો આરોપ, not the poem's report of an event. A recall answer may say 'રાધાને શંકા છે' or 'રાધા મીઠો આરોપ મૂકે છે'; it may not say 'કાનાએ મોતી લીધું હતું'.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "Never modernise the poet. `આલને`, `ચરિતર` and `મલ્લક` stay exactly as printed in every quoted line; no field may call them ભૂલ or replace them with આપ ને / ચરિત્ર / મુલક inside a quotation. The book's own printed તળપદા block lists `આલને`, `ચરિતર` and `મલક`, and the શબ્દાર્થ box glosses `આલને — આપને` and `ચરિતર — ચરિત્ર`; gloss beside, never correct.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "The craft must be named, but not labelled. At least one `explanation` sentence must say that `ચલ્લક, ચલ્લક` comes back here from the previous કડી and that `મલ્લક મલ્લક` doubles the region-word itself into the rhyme. No અલંકાર or છંદ name; `figures_of_speech` stays `[]`.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "`જાણે આખો મલ્લક મલ્લક !`માં બાળક `જાણે`ને 'જાણે કે' (as if) સમજી લે છે — હિન્દીમાં એ જ અર્થ પહેલો આવે — એટલે પંક્તિમાં ક્રિયાપદ જ રહેતું નથી, વાક્ય અધૂરું લાગે છે અને રાધાના આરોપની ચોટ ઊડી જાય છે.",
+   "correction": "એ પંક્તિ સમજાવતી વખતે જ `જાણે — જાણે છે, ખબર છે` એમ ગ્લોસ કરો અને ઉમેરો કે અહીં એ ક્રિયાપદ છે, 'જાણે કે' નથી. પછી પંક્તિ સાદી ગુજરાતીમાં ફરી બોલો : 'આખો મુલક તારાં કામ જાણે છે.' `key_terms`માં પણ એ જ નોંધ રહે."
+  },
+  {
+   "topic_id": "M2.S4.T6",
+   "avoid_checks": [
+    {
+     "check": "Picture before feeling. The first sentence of `explanation` must name કાને / દોટ, કદંબછાયા or બંસી — words in this topic's `original_chunk`. Opening on રીસનો ભાવ, રિસામણાં or કૃષ્ણનું મન is a fail even though this topic carries `topic_category: \"climax\"`.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "Slogan gate at the climax. No sentence of `explanation`, `real_life_example`, any summary, any `concept_bullets` line or any `recall_questions[].answer` may be an exhortation of the shape '… જોઈએ' — 'ગુસ્સો ન કરવો જોઈએ', 'રિસાવું ન જોઈએ', 'મિત્રને ખોટું ન કહેવું જોઈએ'. This topic's `original_chunk` contains no જોઈએ. The printed વાતચીત question 'તમને ક્યારેય રીસ ચડી છે ? શા માટે ?' belongs to the exercise file and licenses no બોધ here.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "Literal reading of `કદંબછાયા ખૂબ ઝૂકી છે`. No sentence of `explanation`, any summary or any `recall_questions[].answer` may state that the tree bowed to કૃષ્ણ, bent out of respect or devotion, or moved by itself. The કડી gives a low, deep kadamb shade under which the બંસી is played, and the printed શબ્દાર્થ box glosses `કદંબ` only as 'એક વૃક્ષનું નામ'.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "No invented motive for `રીસ ચડી ગોપીજનવલ્લભ.`. No sentence of `explanation`, any summary or any `recall_questions[].answer` may name a cause the poem does not print — that he was falsely accused, that he was insulted before everyone, that he had taken the મોતી and was caught, that he was tired of the રાસ. The only evidence a recall answer may point at is the previous topic's printed line `તારાં ચરિતર છે ક્યાં છાનાં ?`, and the answer must stay an inference ('… એટલે રીસ ચડી હશે'), matching the book's own printed question 'શ્રીકૃષ્ણને રીસ કેમ ચડી ?'.",
+     "profile": "urmikavya_geet",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "`રીસ ચડી ગોપીજનવલ્લભ.`માં `ગોપીજનવલ્લભ` લાંબો ને અજાણ્યો શબ્દ હોવાથી બાળક એને કોઈ ત્રીજું પાત્ર સમજી લે છે — એને લાગે છે કે કાનો દોડી ગયો અને પછી કોઈ બીજાને રીસ ચડી, એટલે કડીની આખી ઘટના તૂટી પડે છે.",
+   "correction": "એ પંક્તિ સમજાવતા વાક્યમાં જ પુસ્તકના શબ્દાર્થ ખાના પ્રમાણે `ગોપીજનવલ્લભ — ગોપીઓના વહાલા, એટલે કે એ જ કાનો` ગ્લોસ કરો, અને એક વાક્યમાં કહો કે આ ગીતમાં એક જ વ્યક્તિને કવિ જુદાં જુદાં નામે બોલાવે છે — કાન, કાના, ગોપીજનવલ્લભ. એ જ વાત પુસ્તકનું 'કૃષ્ણનાં જુદાં જુદાં નામોના અર્થ લખો' કામ આગળ લઈ જાય છે."
+  },
+  {
+   "topic_id": "M2.S5.T7",
+   "avoid_checks": [
+    {
+     "check": "Picture before feeling. The first sentence of `explanation` must name રાધા / દોડે, રાસ or સૂર — words in this topic's `original_chunk`. Opening on મિલનનો ભાવ, પ્રેમની પરાકાષ્ઠા or ભક્તિ is a fail.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "Literal reading of the figurative lines. No sentence of `explanation`, any summary or any `recall_questions[].answer` may state as fact that something physically pulls રાધા, that `ઉર` is a person or a place, or that threads of `સૂર` are literally woven. The chapter prints its own gloss in the રૂઢિપ્રયોગ box — `ઉર તણાવું - દિલ ખેંચાવું` — and that is the gloss the explanation must use for `ઉર તણાયે પલ્લક પલ્લક !`.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "Slogan gate at the poem's emotional peak. No sentence of `explanation`, `real_life_example`, any summary or any `recall_questions[].answer` may be an exhortation of the shape '… જોઈએ' — 'સંગીત સાંભળવું જોઈએ', 'ભક્તિ કરવી જોઈએ', 'ધીરજથી ચાલવું જોઈએ'. This topic's `original_chunk` contains no જોઈએ.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "The craft must be named, but not labelled. At least one `explanation` sentence must say what `ધીરે ધીરે` and `પલ્લક પલ્લક` do to the speed of these lines, and that `અલ્લક દલ્લક` returns here inside `રાસ રચ્યો છે અલ્લક દલ્લક`. No અલંકાર or છંદ name; `figures_of_speech` stays `[]`.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "`ઉર તણાયે પલ્લક પલ્લક !` બાળક શબ્દશઃ વાંચે છે — એને લાગે છે કે કોઈ રાધાને ખેંચે છે, અથવા `ઉર` કોઈનું નામ કે કોઈ જગ્યા છે — એટલે બંસીના સૂર તરફ દિલ ખેંચાવાની આખી વાત ચુકાઈ જાય છે.",
+   "correction": "`explanation`માં પહેલી વાર `ઉર — હૃદય, દિલ` ગ્લોસ કરો અને એ જ વાક્યમાં પુસ્તકના રૂઢિપ્રયોગ ખાનાનું `ઉર તણાવું - દિલ ખેંચાવું` ટાંકો; પછી કહો કે બંસીના સૂર સાંભળીને રાધાનું દિલ એ તરફ ખેંચાય છે — કોઈ એને હાથે ખેંચતું નથી."
+  },
+  {
+   "topic_id": "M2.S5.T8",
+   "avoid_checks": [
+    {
+     "check": "Picture before feeling. The first sentence of `explanation` must name ઝાંઝર, જમનાનો મલ્લક or રાધાગોરીનું મુખડું — words in this topic's `original_chunk`. A first sentence that only announces the structure ('ગીત અહીં પૂરું થાય છે', 'આ ટેકનું પુનરાવર્તન છે') without naming one of these fails.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "The two printings are described in words, and as a print difference only. `explanation`, the summaries and any `recall_questions[].answer` must locate the two occurrences as `ગીતના આરંભે` and `ગીતના અંતે`, never as `કડી 7`, `ટેક 2` or any numeral. The difference must be stated as it is printed — the comma after `દલ્લક` is absent at the end, and `ઝાંઝરઝલ્લક` is set as two words `ઝાંઝર ઝલ્લક` — and no field may say the poet changed his meaning, that either printing is a mistake, or that one should be corrected to the other.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "The craft must be named, but not labelled. At least one `explanation` sentence must say what the return of the same ટેક does to a sung ગીત — the singers come back to the line they started on. No અલંકાર or છંદ name; `figures_of_speech` stays `[]`.",
+     "profile": "urmikavya_geet",
+     "severity": "hard"
+    },
+    {
+     "check": "No new claims on a repeated ટેક. Nothing in `explanation`, the summaries or a `recall_questions[].answer` may state a fact about રાધા, કાનો or the રાસ that is not already traceable to these same four lines or to the topic this one lists in `depends_on` (`M1.S2.T2`). In particular, the closing ટેક may not be turned into a statement that રાધા અને કાનો ફરી મળી ગયાં — these four lines say only that the મુખડું ઝળકે છે.",
+     "profile": "urmikavya_geet",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "એની એ જ ચાર પંક્તિ ફરી છપાયેલી જોઈને બાળક એને છાપકામની ભૂલ સમજે છે અથવા 'આ તો વાંચી લીધું છે' કહીને કૂદી જાય છે — એટલે ગીત પોતાની ટેક પર પાછું વળે છે એ મજા જ એના હાથમાં આવતી નથી.",
+   "correction": "`explanation`માં કહો કે ગાવાના ગીતમાં ટેક ફરી આવે છે જેથી બધા સાથે ફરી ગાઈ શકે — ગીત જ્યાંથી શરૂ થયું ત્યાં જ પાછું આવીને પૂરું થાય છે. પછી છાપકામના બે નાના ફેર બતાવો (અંતે `દલ્લક` પછી અલ્પવિરામ નથી, ને `ઝાંઝર ઝલ્લક` છૂટું છપાયું છે) અને ઉમેરો કે શબ્દો બંને ઠેકાણે એના એ જ છે."
+  }
+ ],
+ "chapter_level": [
+  "One poem, one profile: `urmikavya_geet` applies to every topic in this chapter — this is not a mixed chapter, and no second genre profile is in play. The title-and-poet topic M1.S1.T1 is a CONCEPT topic, so the profile's કડી-shaped gates are applied to it against what the masthead actually prints, not against a stanza it does not have.",
+  "The echo-words are the chapter's biggest invention risk. `અલ્લક`, `દલ્લક`, `છમ્મક છમ્મક`, `ઢમ્મક ઢમ્મક`, `ચલ્લક ચલ્લક`, `છલ્લક છલ્લક`, `મલ્લક મલ્લક` (the doubled one) and `પલ્લક પલ્લક` carry no printed meaning anywhere in the chapter; the શબ્દાર્થ box glosses only `ઝલ્લક ઝલ્લક — ઝળકઝળક` and `અલ્લપ-ઝલ્લપ — અલગ દૂરથી આછેરું સંભળાય તે રીતે`. No topic may give any of the ungloseed ones a dictionary meaning, an etymology or a 'correct' spelling. Say what the sound does; do not say what it means.",
+  "Std-7 label ceiling, chapter-wide. `figures_of_speech` stays `[]` on every topic, and no અલંકાર name (ઉપમા, રૂપક, વર્ણાનુપ્રાસ, સજીવારોપણ, ઉત્પ્રેક્ષા) and no છંદ name appears in any authored field. The profile's 'skipping the craft' gate is therefore met by an `explanation` sentence in every poem topic, never by a filled `figures_of_speech`. `પ્રાસ` and `લય` are usable words because the chapter's own printed પ્રવેશપેટી uses them: 'એમાં શબ્દો, પ્રાસ, લયનું અદ્ભુત સંયોજન છે.'",
+  "Chapter-wide L2 hazard — one person, several names. કૃષ્ણ is called `કાન`, `કાના` and `ગોપીજનવલ્લભ` on these pages; રાધા is called `રાધા`, `રાધિકા` and `રાધાગોરી`. An L2 reader counts them as separate characters and loses the thread across કડીઓ. Every topic that first uses a new name for either must say, in that same sentence, that it is the same person. The book's own printed task 'કૃષ્ણનાં જુદાં જુદાં નામોના અર્થ લખો.' is built on exactly this, so the teaching should prepare it.",
+  "Chapter-wide તળપદો register. The book's own printed exercise sends the child to a parent for `ભેળો`, `જડ્યાં`, `આલને`, `રુએ`, `ચરિતર` and `મલક`, and the શબ્દાર્થ box glosses `જમના`, `મલ્લક`, `આલને`, `ચરિતર`, `ચગ્યો છે`, `અધીરું` and others. No authored field anywhere in the chapter may call any of these ખોટું, અશુદ્ધ or a છાપભૂલ, or replace one with its માનક form inside a quoted line. Gloss beside the printed word, at the point of use.",
+  "No numerals in display text, and this chapter invites them. The source markers are `[[ટેક]]`, `[[કડી 1]]` … `[[કડી 5]]`, `[[ટેક (પુનરાવર્તન)]]`, and the two ટેક occurrences tempt a numbered reference. Display fields say `ટેકની પંક્તિઓમાં`, `પહેલી કડીમાં`, `ગીતના આરંભે`, `ગીતના અંતે` — never `કડી 2માં`, `ટેક 1`, `સ્વાધ્યાય 4`. Numerals survive in ids and provenance fields only.",
+  "The devotional engine is taught as the song it is. The chapter's own tasks are 'આ કાવ્યનું અભિનય સાથે ગાન કરો.' and 'રાધા-કૃષ્ણ વિશેનાં પ્રચલિત લોકગીતો કે રાસ - ગરબા મેળવીને વર્ગમાં રજૂ કરો.', and the પ્રવેશપેટી calls it 'રાધા-કૃષ્ણનું ઊર્મિગીત'. No authored field turns the રાસલીલા into ધર્મ-શિક્ષણ, a comparative-religion note, or a બોધ about ભક્તિ; the living singing tradition — રાસ, ગરબા, શરદ પૂનમની રાત — is the frame. (Sensitivity guidance itself is Agent 8's file; this entry states only the genre gate.)",
+  "A modern poet writing રાધા-કૃષ્ણ is still a ગીત, not a ભજન. The author slot prints `- બાલમુકુન્દ દવે` and there is no છાપ inside the verse. No authored field may call this a ભજન, a પ્રાર્થના or a મધ્યકાલીન પદ, address it to ઈશ્વર, or hunt it for the બોધ a ભજન would carry."
+ ]
+}

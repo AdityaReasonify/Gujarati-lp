@@ -1,0 +1,202 @@
+{
+ "topics": [
+  {
+   "topic_id": "M1.S1.T1",
+   "avoid_checks": [
+    {
+     "check": "No sentence of `explanation`, `real_life_example`, any `concept_bullets` line or any `recall_questions[].answer` may attach an evaluative label (મૂરખ, ઠોઠ, બુદ્ધિહીન, ડોબો or a synonym) to બકો on the strength of this topic's printed clause 'ભણવે-ગણવે ઓછો'; wherever that clause is used, its printed second half 'પણ મનનો ચોખ્ખો. સદા સાચું જ બોલે, સચ્ચાઈથી જ વર્તે.' is carried with it.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` of this topic may turn બકાની સચ્ચાઈ into an instruction to the reader — no sentence of the shape 'આપણે પણ સદા સાચું બોલવું જોઈએ' / 'સચ્ચાઈ જ સૌથી મોટો ગુણ છે' / 'આ વાર્તા આપણને શીખવે છે…'. 'સદા સાચું જ બોલે, સચ્ચાઈથી જ વર્તે.' is a printed fact about બકો and stays a fact about બકો.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "`explanation` must add something this topic's `modified_chunk` does not already carry — that the passage deliberately hands the reader two facts about બકો side by side, 'બકાને નદીની જબરી પ્રીત' and 'સદા સાચું જ બોલે', before anything happens to him. An `explanation` that only re-narrates નદી + છોકરો + નિશાળ fails.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક 'ભણવે-ગણવે ઓછો' વાંચીને બકાને મૂરખ કે ઠોઠ સમજી લે છે અને વાક્યનો બીજો અડધો ભાગ — 'પણ મનનો ચોખ્ખો. સદા સાચું જ બોલે' — છોડી દે છે. પછી આખી વાર્તા એને 'નસીબદાર મૂરખ છોકરા'ની વાત લાગે છે.",
+   "correction": "'ભોળોભટાક — અત્યંત ભોળો, કપટમાં ન સમજે તેવો' એમ પહેલી જ વાર ગ્લોસ કરો. પછી explanationમાં 'પણ' પર અટકીને આખું વાક્ય ફરી બોલો : ભણતરમાં ઓછો, પણ મન ચોખ્ખું ને સદા સાચું બોલનારો. એક વાક્ય બકાની આ બે ઓળખ — નદીની પ્રીત ને સચ્ચાઈ — સાથે મૂકે."
+  },
+  {
+   "topic_id": "M1.S1.T2",
+   "avoid_checks": [
+    {
+     "check": "No field of this topic (`explanation`, `summary`, `detailed_summary`, `concept_bullets`, `recall_questions[].answer`) may state what kind of thorn it was or how it came to be there — no બાવળનો કાંટો, no થોરનો કાંટો, no 'રસ્તામાં પડેલો'. The page prints only 'એના પગમાં કાંટો વાગ્યો'; the printed વાતચીત question 'બકાને શાનો કાંટો વાગ્યો હશે ?' is the child's to answer, and Agent 10 marks any answer as one possible guess.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "`explanation` must add the cause-link this topic's `modified_chunk` only implies — that નજર નદીમાં હતી ('નદી જોવામાં તલ્લીન હતો') એટલે પગ નીચે જોવાયું નહીં — and must keep the printed contrast 'થોડીક ટાઢક થઈ, પણ પીડા ન ગઈ'. A retelling of કાંટો → પગ ઝબોળ્યો → આંસુ with no કારણ and no 'પણ' fails.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'તલ્લીન' શબ્દ ન સમજાતાં બાળક 'બકો નદી જોવામાં તલ્લીન હતો' ને 'એના પગમાં કાંટો વાગ્યો' — એ બેને છૂટી છૂટી બે વાત ગણે છે, ને કાંટો કેમ વાગ્યો એ કારણ જ ખોવાઈ જાય છે.",
+   "correction": "શબ્દાર્થ ખાનું કરે છે તેમ જ 'તલ્લીન — મશગૂલ' પહેલી વાર આવે ત્યાં જ ગ્લોસ કરો, ને explanationમાં કારણ-કડી સીધી બોલો : નજર નદીમાં હતી, એટલે પગ નીચે જોયું નહીં. પછી 'ટાઢક થઈ, પણ પીડા ન ગઈ' — એ 'પણ' પર બીજું વાક્ય ટકાવો, જેથી પીડા હજી બાકી છે એ બાળક પકડે."
+  },
+  {
+   "topic_id": "M1.S2.T3",
+   "avoid_checks": [
+    {
+     "check": "This topic's condition 'કદી જૂઠું બોલી ન હોય એવી વ્યક્તિ જ એનો અવાજ સાંભળી શકે, એને જોઈ શકે ને એને છોડાવી શકે.' must be taught as this tale's own rule, not converted into advice: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may contain 'આપણે કદી જૂઠું ન બોલવું જોઈએ' or 'સાચું બોલીએ તો મદદ મળે જ' or any equivalent addressed to the reader.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "No field of this topic may say where the જળરાક્ષસ came from, why he turned the પરી into a માછલી, who tied her to the બાવળની ડાળ, or what became of him afterwards. The page prints exactly 'એક જળરાક્ષસે એને માછલી બનાવી હતી ને પહેલાં નદીમાં મૂકેલી અને પછી ઝાડે લટકાવી હતી.' and 'કોઈએ નદીમાંથી ઉપાડીને એને બાવળની ડાળ પર દોરીથી બાંધી દીધી હતી.' — 'કોઈએ' stays 'કોઈએ'.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'કદી જૂઠું બોલી ન હોય એવી વ્યક્તિ જ એનો અવાજ સાંભળી શકે' — આ વાક્યમાંનું 'જ' બાળક ચૂકી જાય છે, એટલે એને લાગે છે કે એ અવાજ તો કોઈને પણ સંભળાયો હોત. બકાને જ કેમ સંભળાયો એ વાર્તાની ગાંઠ ત્યાં જ છૂટ્યા વગરની રહી જાય છે.",
+   "correction": "explanationમાં એ પંક્તિ ટાંકીને સાદા શબ્દોમાં ફરી કહો : જેણે કદી જૂઠું બોલ્યું ન હોય, એક એ જ સાંભળી શકે — બીજા કોઈને નહીં. પછી પહેલી ઘટનાનું 'સદા સાચું જ બોલે' યાદ કરાવીને બતાવો કે એટલે જ બકાને અવાજ સંભળાયો ને એ જ માછલીને છોડાવી શક્યો."
+  },
+  {
+   "topic_id": "M1.S2.T4",
+   "avoid_checks": [
+    {
+     "check": "No field of this topic may test the વિદ્યા against reality — no 'ખરેખર આવું ન બને', 'આ તો કલ્પના છે, સાચે એવું ન થાય', 'વૈજ્ઞાનિક રીતે…' in `explanation`, `summary`, `detailed_summary`, `concept_bullets` or any `recall_questions[].answer`. This is a જાદુઈ બાળવાર્તા; the વિદ્યા is stated as the page states it, 'એ વિદ્યા ચમત્કારી હતી'.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "This topic stands three ઘટના before the topic carrying `topic_category: \"climax\"` (M2.S4.T7). No `explanation`, `summary` or `recall_questions[].answer` here may name વાઘ, જંગલ, પાંજરું, વનવિભાગ, રકમ, સન્માન or બોર as what the વિદ્યા will later be used for; the field may say only what the વિદ્યા does, not where it will be used.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "The two coined words are quoted exactly as printed, in single quotes, in every field that uses them: 'ચોટડૂક' and 'છૂટડૂક' — never ચોંટડૂક, છુટડૂક or ચોટડુક, and never silently replaced by a paraphrase (ચોંટી જા / છૂટી જા) where the text's own word is being quoted.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'વિદ્યા' શબ્દ બાળક હિન્દીવાળા અર્થમાં 'ભણતર' સમજી લે છે — ખાસ કરીને પહેલી ઘટનામાં 'ભણવે-ગણવે ઓછો' વાંચ્યા પછી — એટલે એને લાગે છે કે પરીએ બકાને ભણાવ્યો, ને ચમત્કારી કળાની વાત જ ચૂકી જવાય છે.",
+   "correction": "પહેલી જ વાર 'વિદ્યા — અહીં જાદુઈ કળા, ભણતર નહીં' એમ ગ્લોસ કરો. પછી explanationમાં એ કળા શું કરે છે તે પાનાના જ શબ્દોથી બતાવો : 'ચોટડૂક' કહો એટલે સામેનું જ્યાં હોય ત્યાં જ સ્થિર, ને 'છૂટડૂક' કહો ત્યારે જ છૂટે — બે શબ્દ, બે અસર."
+  },
+  {
+   "topic_id": "M2.S3.T5",
+   "avoid_checks": [
+    {
+     "check": "`explanation` must add બકાનું કારણ, which this topic's `modified_chunk` drops: the page prints 'બકાએ એ જોયું ને એને માછલીની દયા આવી' and 'બકાને દેડકાને બચાવવાનું મન થયું'. An `explanation` that only retells બગલું થંભ્યું → માછલું નાસી ગયું → કાગડો થંભ્યો → દેડકો બચ્યો carries no more than the `modified_chunk` and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` of this topic may close on an abstract moral about kindness — no 'આપણે પણ પ્રાણીઓ પર દયા રાખવી જોઈએ', 'દયા એ મોટો ગુણ છે', 'આ પ્રસંગનો બોધ એ છે કે…'. બકાની દયા is what બકો felt here, not a rule handed to the reader.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "No field labels the બગલું or the કાગડો as ખરાબ, દુષ્ટ, લોભી, ક્રૂર or a synonym. The page shows them only doing what they do — 'એક બગલું એક નાના માછલાને પકડવા જતું હતું', 'એક કાગડો દેડકાને પકડવા આવતો જણાયો' — and બકો releases both with 'છૂટડૂક'.",
+     "profile": "varta",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "'બકાએ એ જોયું ને એને માછલીની દયા આવી' — બાળક 'એને'ને નજીકના બગલા સાથે જોડી દે છે, એટલે એને લાગે છે કે દયા બગલાને આવી. બકાએ 'ચોટડૂક' કેમ કહ્યું એ કારણ ત્યાં જ ખોવાઈ જાય છે.",
+   "correction": "explanationમાં એ વાક્ય નામ સાથે ફરી બોલો — 'બકાને માછલીની દયા આવી' — ને પછી ક્રમ ગોઠવીને બતાવો : દયા આવી, એટલે 'ચોટડૂક' કહ્યું, માછલું બચીને નાસી ગયું, ને પછી 'છૂટડૂક' કહીને બગલાને છોડ્યું. દેડકાવાળા પ્રસંગમાં પણ એ જ ક્રમ ફરી બતાવો."
+  },
+  {
+   "topic_id": "M2.S3.T6",
+   "avoid_checks": [
+    {
+     "check": "No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may apply an evaluative label (તોફાની, ખોટો, દુષ્ટ, ગુનેગાર or a synonym) to બકો for stopping ભોપો, મોતિયો કૂતરો and કાશીભાભી, and none may mock ભોપો for 'ભોપો રડવા જેવો થયો' (રડકણો, બીકણ) or કાશીભાભી for being stopped 'અધવચ રસ્તામાં'. The page's own word for the whole beat is 'ગમ્મત'.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "This topic stands immediately before the topic carrying `topic_category: \"climax\"` (M2.S4.T7). Its closing lines 'બધાંને બકાની આ વિદ્યા જોવાની ગમ્મત પડવા લાગી. કોઈ એને છોડે જ નહીં.' must not be run forward: no વાઘ, જંગલ, પાંજરું, વનવિભાગ, રકમ, સન્માન or બોર may appear in this topic's `explanation`, `summary` or any `recall_questions[].answer`.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "The printed colloquial forms of this topic — ફળિયું, ભમરડો, જાળ, બેડું, અધવચ, ગમ્મત, ફંગોળાયેલો — are glossed at the point of use and quoted in the printed form wherever the teaching repeats them: no આંગણું substituted for ફળિયું, no ઘડો for બેડું, no દોરી put in place of the printed જાળ, no ફેંકાયેલો put in place of the printed ફંગોળાયેલો inside a quotation.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'ફળિયામાં ભોપો જાળ વીંટીને ભમરડો ફેરવવા જતો હતો' — બાળક 'જાળ'ને હિન્દીના ‘જાલ’ (jaal) જેવી માછલી પકડવાની જાળ સમજે છે, એટલે એના મનમાં ચિત્ર જ ખોટું ગોઠવાય છે ને ભોપાનો હાથ કઈ ક્ષણે થંભ્યો એ સમજાતું નથી.",
+   "correction": "'જાળ — અહીં ભમરડા ફરતે વીંટવાની દોરી' એમ પહેલી જ વાર ગ્લોસ કરો, ને explanationમાં ક્રિયા ક્રમમાં બતાવો : દોરી વીંટી, ભમરડો ફેરવવા હાથ ઊંચકાયો, ને એ જ ઘડીએ 'ચોટડૂક' — 'ભોપાનો હવામાં ફંગોળાયેલો હાથ સ્થિર થઈ ગયો'."
+  },
+  {
+   "topic_id": "M2.S4.T7",
+   "avoid_checks": [
+    {
+     "check": "This topic carries `topic_category: \"climax\"`, so the gate is on the topics before it: no `explanation`, `summary`, `detailed_summary` or `recall_questions[].answer` of M1.S1.T1 – M2.S3.T6 may contain વાઘ, માણસખાઉ, જંગલ, પાંજરું, વનવિભાગ, રકમ, સન્માન or બોર. The child must reach 'પણ બકો બોલ્યો ચોટડૂક ને વાઘ જમીનથી અધ્ધર રહી ગયો' without having been told it.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "No field of this topic may correct 'વાઘ જમીનથી અધ્ધર રહી ગયો' against reality — no 'ખરેખર વાઘ હવામાં ન રહી શકે', 'વૈજ્ઞાનિક રીતે એવું ન બને', 'આ તો માત્ર કલ્પના છે' in `explanation`, `summary`, `detailed_summary`, `concept_bullets` or any `recall_questions[].answer`. The printed picture on this page shows the tiger stopped in mid-leap; the tale is taught as the tale tells it.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "`explanation` must name the choice, not only the magic: it must quote or restate this topic's own line 'બકાએ ખેડૂતોને બંદૂક ન વાપરવા દીધી' and say that stopping the વાઘ was a decision about what to do with him. An `explanation` that ends at 'વાઘ અધ્ધર રહી ગયો' adds nothing to the `modified_chunk` and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "Avoid-gate 2 (tacked-on બોધ), bound to this topic's own line — the refused gun may not be converted into a message: no `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may contain a sentence of the shape 'પ્રાણીઓને મારવાં ન જોઈએ' / 'આપણે પણ … જોઈએ' / 'આ વાર્તા આપણને શીખવે…', and no field of this topic may end on a bare value word (અહિંસા, દયા, કરુણા) standing alone. 'બકાએ ખેડૂતોને બંદૂક ન વાપરવા દીધી' stays what બકો did here.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "No field applies an evaluative label (દુષ્ટ, ગુનેગાર, પાપી, ખરાબ or a synonym) to the વાઘ. 'માણસખાઉ' is the page's own word and is the only description used; the page's own move is to take him alive.",
+     "profile": "varta",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "બાળક આ ઘટનાને માત્ર જાદુની કરામત ગણી લે છે — 'વાઘ અધ્ધર રહી ગયો', વાત પૂરી. 'બકાએ ખેડૂતોને બંદૂક ન વાપરવા દીધી' એ એક લીટી એ ઓળંગી જાય છે, એટલે વાર્તાનો ખરો વળાંક — બકાની પસંદગી — હાથમાં આવતો જ નથી.",
+   "correction": "explanationમાં એ પંક્તિ અક્ષરશઃ ટાંકો ને એક વાક્યમાં પસંદગી નામ દઈને કહો : વાઘ થંભી ગયો ત્યારે બંદૂક ચલાવવી સહેલી હતી, પણ બકાએ ના પાડી. પછી બાળકને પૂછો — બકાએ કેમ ના પાડી હશે ? એ જ પ્રશ્ન સ્વાધ્યાયમાં પણ છપાયો છે."
+  },
+  {
+   "topic_id": "M2.S4.T8",
+   "avoid_checks": [
+    {
+     "check": "No field of this topic may add staging the page does not print — how the પાંજરું reached the જંગલ, where it was placed with respect to the વાઘની કૂદ, who carried it, or what happened to the વાઘ after 'વાઘને સાચવીને લઈ જવામાં આવ્યો'. Only the printed order may be used: દરવાજો ઉઘાડ્યો → માણસો દૂર ઊભા રહ્યા → 'છૂટડૂક' → 'વાઘ સીધો જ પાંજરામાં આવી ગયો' → દરવાજો બંધ.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may close on a moral about reward — no 'સાહસનું ફળ મળે જ છે', 'સારાં કામનો બદલો મળે છે', 'આપણે પણ હિંમત રાખવી જોઈએ'. The સન્માન stays what the અધિકારીઓ did: 'એના સાહસ બદલ મોટી રકમ આપીને સન્માનિત કર્યો'.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'છૂટડૂક' સાંભળીને બાળક સમજે છે કે વાઘ છૂટી ગયો ને ભાગી ગયો હશે. 'છોડવું' અને 'પાંજરામાં પુરાવું' — એ બે વાત એના મનમાં સામસામી પડે છે, એટલે વાર્તાનો ઉકેલ ઊંધો વંચાય છે.",
+   "correction": "explanationમાં ઘટનાનો ક્રમ પાના પ્રમાણે જ ગોઠવીને બોલો : પહેલાં પાંજરાનો દરવાજો ઉઘાડ્યો, માણસો દૂર ખસી ગયા, ને પછી બકાએ 'છૂટડૂક' કહ્યું — એટલે અધ્ધર થંભેલો વાઘ ફરી હાલતો થયો ને 'સીધો જ પાંજરામાં આવી ગયો'. 'છૂટડૂક એટલે થંભેલું ફરી ચાલતું થાય' એમ ગ્લોસ કરો."
+  },
+  {
+   "topic_id": "M2.S5.T9",
+   "avoid_checks": [
+    {
+     "check": "This one-sentence ઘટના is the chapter's strongest moral trap: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may close on 'આપણે પણ બીજા માટે જીવવું જોઈએ' / 'પરોપકાર જ સાચું ધન છે' / 'આ વાર્તા આપણને પરોપકારનો બોધ આપે છે' or any equivalent. What બકો did stays what બકો did: 'બકાએ પોતાને મળેલી રકમ ખર્ચીને ગામમાં બોર કરાવી આપ્યો'.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "No field may state why the ગામને પાણીનું દુઃખ હતું — no દુકાળ, no સુકાયેલો કૂવો, no 'નદી સુકાઈ ગઈ હતી'. The page prints only the result, 'લોકોનું પાણીનું દુઃખ દૂર કર્યું', and the chapter's first ઘટના prints the કનક નદી as flowing ('ખળખળ વહેતી આગળ વધે'), so an invented drought contradicts the page as well as inventing on it.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'ગામમાં બોર કરાવી આપ્યો' — બાળક 'બોર'ને ખાવાનું બોર (ફળ) સમજે છે, એટલે વાર્તાનો છેલ્લો પ્રસંગ એને 'બકાએ ગામને બોર વહેંચ્યાં' જેવો લાગે છે, ને 'પાણીનું દુઃખ દૂર થયું' સાથે એનો કશો મેળ બેસતો નથી.",
+   "correction": "'બોર — જમીનમાં ઊંડે ઉતારેલો સાંકડો કૂવો, જેમાંથી પાણી નીકળે' એમ પહેલી જ વાર ગ્લોસ કરો, ને explanationમાં પૈસાથી પાણી સુધીની કડી સીધી જોડો : સન્માનમાં મળેલી રકમ → ગામમાં બોર → ગામલોકોનું પાણીનું દુઃખ દૂર."
+  }
+ ],
+ "chapter_level": [
+  "પ્રવેશપેટી (વાદળી ખાનું) શિક્ષક-સંબોધિત ઉપકરણ છે. તેની 'સત્ય અને પરોપકાર જેવાં મૂલ્યો માટે અહીં અવકાશ છે' એ લીટી શિક્ષક માટેની સૂચના છે, બાળક માટેનો બોધ નથી — આખા પાઠમાં કોઈ પણ બાળક-સંબોધિત ખાનું (explanation, summary, detailed_summary, concept_bullets, recall answer, real_life_example) એ મૂલ્યોને છેલ્લા વાક્યના ઉપદેશમાં ફેરવી ન શકે. વાર્તા બતાવે છે તે બતાવવા દો.",
+  "આ જાદુઈ બાળવાર્તા છે : માછલી પરી બને છે, બોલેલો શબ્દ વસ્તુને થંભાવે છે, વાઘ હવામાં અધ્ધર રહે છે. પાઠના કોઈ પણ ખાનામાં આ ઘટનાઓને સાચી-ખોટી ઠરાવવાની કે વિજ્ઞાન સામે માપવાની કોશિશ ન થાય ('ખરેખર એવું ન બને', 'આ તો કલ્પના છે'). કથા કથા તરીકે જ ભણાવવાની છે.",
+  "'ચોટડૂક' અને 'છૂટડૂક' પાઠનું નામ પણ છે ને પાઠની ધરી પણ. બંને શબ્દ દરેક ટૉપિકમાં છપાયેલા રૂપે જ, એકવડા અવતરણમાં ટાંકવા — ચોંટડૂક / છુટડૂક / ચોટડુક જેવું કોઈ રૂપ નહીં, ને ટાંકતી વખતે અર્થ મૂકીને શબ્દ કાઢી નાખવો નહીં.",
+  "પાત્રો ને સ્થળનાં નામ સામાન્ય શબ્દો જેવાં લાગે એવાં છે — બકો, ભોપો, મોતિયો (કૂતરો), કાશીભાભી, કમળપુર (ગામ), કનક (નદી). દ્વિતીય-ભાષાનું બાળક એમને શબ્દ ગણી બેસે છે. જ્યાં નામ પહેલી વાર આવે ત્યાં 'આ છોકરાનું નામ', 'આ કૂતરાનું નામ', 'આ નદીનું નામ' એમ ઓળખાવીને જ આગળ વધવું.",
+  "પાઠનું ભાષા-લક્ષ્ય જોડાક્ષર છે (પ્રવેશપેટી, ક્રમાંક 12–16, ને પાઠાંતે લીલું ખાનું). એ ઉપકરણ ને સ્વાધ્યાય exercise_solutions.jsonનું કામ છે : કોઈ પણ explanation કે concept_bullets લીટી અક્ષર છૂટા પાડવાની કસરત ('તલ્લીન = ત્ + લ્ + લી + ન') ન બની જાય. જોડાક્ષરવાળા શબ્દો — તલ્લીન, અદૃશ્ય, જળરાક્ષસ, વ્યક્તિ, સ્થિર, ચમત્કારી, સન્માનિત — key_termsમાં અર્થ સાથે ગ્લોસ થાય, રચના તરીકે નહીં.",
+  "પાઠની બોલચાલની ને તળપદી છાંટવાળી ભાષા — પાદર, નિશાળ, ભોળોભટાક, જબરી પ્રીત, ઝબોળે, ટાઢક, અધ્ધર, ફળિયું, બેડું, અધવચ, ગમ્મત, બોર — સુધારવાની નથી, સમજાવવાની છે. શિક્ષણ-ગદ્ય જ્યાં એ શબ્દો ટાંકે ત્યાં છપાયેલા રૂપે જ ટાંકે (નિશાળનું શાળા, ફળિયાનું આંગણું, બેડાનું ઘડો — એવી અદલાબદલી નહીં), ને પહેલી વાર આવે ત્યાં જ ગ્લોસ થાય. ‘અધ્ધર’ ચાર ઘટનામાં પાછો પાછો આવે છે (બગલું, કાગડો, વાઘ) — એટલે એ પહેલી વાર M2.S3.T5માં ગ્લોસ થાય અને પછીના ટૉપિકમાં એ જ શબ્દ ફરી વપરાય; એક જ મુલાકાતથી દ્વિતીય-ભાષાના બાળકને શબ્દ આવડતો નથી.",
+  "ધોરણ 6ની મર્યાદા : આખા પાઠમાં કોઈ અલંકાર, છંદ કે સાહિત્યપ્રકારનું નામ ન વપરાય. પ્રવેશપેટીનો 'રમૂજકથા' શબ્દ પણ બાળક સામે લેબલ તરીકે ન મુકાય — હસવું ક્યાં આવે છે તે બતાવવું, નામ આપવું નહીં.",
+  "આ મિશ્ર પાઠ નથી : આખો પાઠ એક જ વાર્તા છે, એટલે varta profile બધા નવ ટૉપિક પર એકસરખો લાગુ પડે છે. varta profileનો આઠમો (અનુવાદક-શ્રેય) મુદ્દો અહીં લાગુ પડતો નથી — પાના પર માત્ર '– લાભશંકર ઠાકર' છપાયું છે, કોઈ અનુવાદ-શ્રેય નથી."
+ ]
+}

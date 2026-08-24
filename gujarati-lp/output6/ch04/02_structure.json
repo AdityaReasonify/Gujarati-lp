@@ -1,0 +1,502 @@
+{
+ "agent": "02_structure",
+ "chapter_id": "gseb_eng_gujarati6_ch4",
+ "plan_id": "gseb_eng_gujarati6_ch4_v1",
+ "grade": 6,
+ "chapter_name": "આવ્યો મેહુલો",
+ "genre": "mixed",
+ "active_genre_profiles": [
+  "lok_geet.md",
+  "urmikavya_geet.md"
+ ],
+ "teaching_lens": "કંઠ + ધ્રુવપંક્તિ + લોકજીવન (lok_geet.md — પ્રમુખ ભાગ M1 માટે). જોડાયેલી 'ગાઈએ' કવિતા (M2) માટે: ચિત્ર + ભાવ + લય (urmikavya_geet.md). બંને lens પોતપોતાના ભાગ પૂરતાં જ.",
+ "guiding_question": "મેહુલો આવ્યા પછી ગામમાં કોણ કોણ શું શું હાથમાં લે છે — અને એ ગવાતી યાદી પૂરી થાય ત્યારે ધરતીનું ચિત્ર કેવું બની જાય છે ?",
+ "explanation_unit": "એક કડી (બંને ભાગ માટે; મુખ્ય લોકગીતમાં પ્રારંભની ત્રિપદી ટેક સહિત એક એકમ)",
+ "cut_summary": {
+  "reading_scene_markers_in_normalized": [
+   "[[કડી 1 — પ્રારંભની ત્રિપદી (ત્રીજી પંક્તિ એ ટેક છે; તેનું ટૂંકાણ 'આવ્યો...' પછીની દરેક કડીને અંતે પાછું આવે છે)]]",
+   "[[કડી 2]]",
+   "[[કડી 3]]",
+   "[[કડી 4]]",
+   "[[કડી 5]]",
+   "[[કવિતા: મેહુલો — પ્રારંભની ટેક-પંક્તિ]]",
+   "[[કવિતા: મેહુલો — કડી 1]]",
+   "[[કવિતા: મેહુલો — કડી 2]]",
+   "[[કવિતા: મેહુલો — કડી 3]]",
+   "[[કવિતા: મેહુલો — કડી 4]]"
+  ],
+  "reading_scene_markers_count": 10,
+  "markers_carried_by_topics": 11,
+  "markers_carried_note": "10 reading-scene markers + [[કવિતા: મેહુલો — કવિ-નામ]], જે છેલ્લા topic M2.S4.T9 ના original_chunk માં જાય છે.",
+  "modules": 2,
+  "segments": 4,
+  "topics": 9,
+  "concepts": 11,
+  "objectives": 9,
+  "tek_wordings_distinct_lokgeet": 1,
+  "tek_carrying_topic_id_lokgeet": "M1.S1.T1",
+  "tek_wordings_distinct_gaie_poem": 1,
+  "tek_carrying_topic_id_gaie_poem": "M2.S3.T6"
+ },
+ "objectives": [
+  {
+   "objective_id": "O1",
+   "legacy_id": "L1",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'ઓતર ગાજ્યા ને દખ્ખણ વરસિયા રે !' — વરસાદનાં મંડાણનું ચિત્ર કહી, ગીતમાં વારે વારે પાછી આવતી 'આવ્યો ધરતીનો ધણી મેહુલો રે !' પંક્તિ ઓળખાવવી.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S1.T1",
+   "anchor": [
+    "M1.S1.T1.C1",
+    "M1.S1.T1.C2"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O2",
+   "legacy_id": "L2",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'નદી - સરોવર છલી વળ્યાં રે' પછી માછલી કેમ હિલોળ કરે છે તે ગીતની પંક્તિ ટાંકીને કહેવું અને 'છલી વળ્યાં'નો અર્થ સમજાવવો.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S1.T2",
+   "anchor": [
+    "M1.S1.T2.C3"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O3",
+   "legacy_id": "L3",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'ડેડકડી દિયે આશિષ' પંક્તિમાં ગીત દેડકીને શું કરતી બતાવે છે તે કહી, 'દેડકી'ને બદલે 'ડેડકડી' બોલવાથી ગીત કેવું મીઠું લાગે છે તે નોંધવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M1.S1.T3",
+   "anchor": [
+    "M1.S1.T3.C4"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O4",
+   "legacy_id": "L4",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'ધોરીએ લીધાં ધુરી - ધોંસરી રે' અને 'ખેડુએ લીધી બેવડી રાશ' — વરસાદ પડતાં ખેતરમાં કામ કેમ ઊપડ્યું તે સમજાવવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S2.T4",
+   "anchor": [
+    "M1.S2.T4.C5"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O5",
+   "legacy_id": "L5",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'ગાયે લીધાં ગાનાં વાછરું રે' અને 'અસતરીએ લીધાં નાનાં બાળ' — ગીતની યાદી ખેતરથી ઘર તરફ કેમ વળે છે તે કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M1.S2.T5",
+   "anchor": [
+    "M1.S2.T5.C6"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O6",
+   "legacy_id": "L6",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'આવ રે મેહુલા આવ, મેહુલા અષાઢના રે' — આ ગીતમાં કોને સાદ પડાય છે તે ઓળખી, 'ઘેરી ઘેરી વાદળી જળે ભરી રે'નું ચિત્ર કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S3.T6",
+   "anchor": [
+    "M2.S3.T6.C7",
+    "M2.S3.T6.C8"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O7",
+   "legacy_id": "L7",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'ઝબકે ઝબઝબ વીજળી રે' અને 'વાદળ ધમધમ થાય' — આ પંક્તિઓના અવાજ-શબ્દો બોલી બતાવીને વરસાદ પહેલાંનું આકાશ કેવું લાગે તે કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S3.T7",
+   "anchor": [
+    "M2.S3.T7.C9"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O8",
+   "legacy_id": "L8",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'નદીએ પાણી રેલશે રે' અને 'ધરતી ડૂબ ડૂબ થાય' — વરસાદ પછી નદી અને ધરતીનું શું થાય છે તે ક્રમમાં કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S4.T8",
+   "anchor": [
+    "M2.S4.T8.C10"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O9",
+   "legacy_id": "L9",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'ખેડૂત ખેતર ખેડશે રે' અને 'કપાસ ને કણ થાય' — વરસાદ, ખેડાણ અને પાક વચ્ચેનો સંબંધ જોડીને સમજાવવો.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S4.T9",
+   "anchor": [
+    "M2.S4.T9.C11"
+   ],
+   "status": "taught",
+   "theme_category": null
+  }
+ ],
+ "strand_to_objective_map": {
+  "L1": "O1",
+  "L2": "O2",
+  "L3": "O3",
+  "L4": "O4",
+  "L5": "O5",
+  "L6": "O6",
+  "L7": "O7",
+  "L8": "O8",
+  "L9": "O9"
+ },
+ "modules": [
+  {
+   "module_id": "M1",
+   "module_name": "ધરતીના ધણીનું આગમન",
+   "segments": [
+    {
+     "segment_id": "M1.S1",
+     "segment_name": "મંડાણ ને છલકાતાં પાણી",
+     "topics": [
+      {
+       "topic_id": "M1.S1.T1",
+       "topic_name": "ઓતર ગાજ્યા ને દખ્ખણ વરસિયા",
+       "topic_type": "POEM",
+       "topic_category": "introduction",
+       "difficulty": "hard",
+       "depends_on": [],
+       "objective_ids": [
+        "O1"
+       ],
+       "original_chunk": "",
+       "markers": [
+        "[[કડી 1 — પ્રારંભની ત્રિપદી (ત્રીજી પંક્તિ એ ટેક છે; તેનું ટૂંકાણ 'આવ્યો...' પછીની દરેક કડીને અંતે પાછું આવે છે)]]"
+       ],
+       "source_lines_00_normalized": "17-20",
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T1.C1",
+         "concept_name": "ગાજવીજ ને મેહુલાનાં મંડાણ",
+         "objective_id": "O1",
+         "key_terms": [],
+         "content": []
+        },
+        {
+         "concept_id": "M1.S1.T1.C2",
+         "concept_name": "ટેકનો સૂર — ધરતીનો ધણી આવ્યો",
+         "objective_id": "O1",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      },
+      {
+       "topic_id": "M1.S1.T2",
+       "topic_name": "નદી-સરોવર છલી વળ્યાં, માછલી હિલોળે",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "easy",
+       "depends_on": [
+        "M1.S1.T1"
+       ],
+       "objective_ids": [
+        "O2"
+       ],
+       "original_chunk": "",
+       "markers": [
+        "[[કડી 2]]"
+       ],
+       "source_lines_00_normalized": "22-24",
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T2.C3",
+         "concept_name": "છલકાતાં નદી-સરોવર ને માછલીની ગમ્મત",
+         "objective_id": "O2",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      },
+      {
+       "topic_id": "M1.S1.T3",
+       "topic_name": "ખાબોચિયામાં ડેડકડીની આશિષ",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [
+        "M1.S1.T1"
+       ],
+       "objective_ids": [
+        "O3"
+       ],
+       "original_chunk": "",
+       "markers": [
+        "[[કડી 3]]"
+       ],
+       "source_lines_00_normalized": "26-28",
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T3.C4",
+         "concept_name": "ભરાયેલાં ખાડા-ખાબોચિયાં ને ડેડકડીનો સાદ",
+         "objective_id": "O3",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M1.S2",
+     "segment_name": "ધુરી, રાશ ને ઘરનો ખોળો",
+     "topics": [
+      {
+       "topic_id": "M1.S2.T4",
+       "topic_name": "ધોરીની ધોંસરી ને ખેડુની બેવડી રાશ",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "hard",
+       "depends_on": [
+        "M1.S1.T1"
+       ],
+       "objective_ids": [
+        "O4"
+       ],
+       "original_chunk": "",
+       "markers": [
+        "[[કડી 4]]"
+       ],
+       "source_lines_00_normalized": "30-32",
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T4.C5",
+         "concept_name": "ખેતરે ઊપડતાં ધોરી ને ખેડુ",
+         "objective_id": "O4",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      },
+      {
+       "topic_id": "M1.S2.T5",
+       "topic_name": "ગાયનું વાછરું, અસતરીનાં નાનાં બાળ",
+       "topic_type": "POEM",
+       "topic_category": "resolution",
+       "difficulty": "medium",
+       "depends_on": [
+        "M1.S1.T1"
+       ],
+       "objective_ids": [
+        "O5"
+       ],
+       "original_chunk": "",
+       "markers": [
+        "[[કડી 5]]"
+       ],
+       "source_lines_00_normalized": "34-36",
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T5.C6",
+         "concept_name": "ઘર તરફ વળતું ગીત — વાછરું ને બાળ",
+         "objective_id": "O5",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "M2",
+   "module_name": "અષાઢના મેહુલાને સાદ",
+   "segments": [
+    {
+     "segment_id": "M2.S3",
+     "segment_name": "આકાશમાં વાદળ ને વીજળી",
+     "topics": [
+      {
+       "topic_id": "M2.S3.T6",
+       "topic_name": "આવ રે મેહુલા, અષાઢના મેહુલા",
+       "topic_type": "POEM",
+       "topic_category": "introduction",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O6"
+       ],
+       "original_chunk": "",
+       "markers": [
+        "[[કવિતા: મેહુલો — પ્રારંભની ટેક-પંક્તિ]]",
+        "[[કવિતા: મેહુલો — કડી 1]]"
+       ],
+       "source_lines_00_normalized": "208-213",
+       "concepts": [
+        {
+         "concept_id": "M2.S3.T6.C7",
+         "concept_name": "મેહુલાને પડાતો સાદ",
+         "objective_id": "O6",
+         "key_terms": [],
+         "content": []
+        },
+        {
+         "concept_id": "M2.S3.T6.C8",
+         "concept_name": "જળે ભરી ઘેરી વાદળીની ઝરમર",
+         "objective_id": "O6",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      },
+      {
+       "topic_id": "M2.S3.T7",
+       "topic_name": "ઝબઝબ વીજળી ને ધમધમ વાદળ",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "easy",
+       "depends_on": [
+        "M2.S3.T6"
+       ],
+       "objective_ids": [
+        "O7"
+       ],
+       "original_chunk": "",
+       "markers": [
+        "[[કવિતા: મેહુલો — કડી 2]]"
+       ],
+       "source_lines_00_normalized": "215-217",
+       "concepts": [
+        {
+         "concept_id": "M2.S3.T7.C9",
+         "concept_name": "વીજળીનો ઝબકારો ને વાદળનો ધમધમાટ",
+         "objective_id": "O7",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M2.S4",
+     "segment_name": "ધરતી પર પાણી ને પાક",
+     "topics": [
+      {
+       "topic_id": "M2.S4.T8",
+       "topic_name": "નદીએ પાણી, ધરતી ડૂબ ડૂબ",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "easy",
+       "depends_on": [
+        "M2.S3.T6"
+       ],
+       "objective_ids": [
+        "O8"
+       ],
+       "original_chunk": "",
+       "markers": [
+        "[[કવિતા: મેહુલો — કડી 3]]"
+       ],
+       "source_lines_00_normalized": "219-221",
+       "concepts": [
+        {
+         "concept_id": "M2.S4.T8.C10",
+         "concept_name": "રેલતી નદી ને ડૂબ ડૂબ થતી ધરતી",
+         "objective_id": "O8",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      },
+      {
+       "topic_id": "M2.S4.T9",
+       "topic_name": "ખેડૂત ખેડશે, કપાસ ને કણ",
+       "topic_type": "POEM",
+       "topic_category": "resolution",
+       "difficulty": "medium",
+       "depends_on": [
+        "M2.S3.T6"
+       ],
+       "objective_ids": [
+        "O9"
+       ],
+       "original_chunk": "",
+       "markers": [
+        "[[કવિતા: મેહુલો — કડી 4]]",
+        "[[કવિતા: મેહુલો — કવિ-નામ]]"
+       ],
+       "source_lines_00_normalized": "223-225, 227-228",
+       "concepts": [
+        {
+         "concept_id": "M2.S4.T9.C11",
+         "concept_name": "ખેડાતું ખેતર ને પાકતાં કપાસ-કણ",
+         "objective_id": "O9",
+         "key_terms": [],
+         "content": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "not_cut_as_topics": [
+  "[[છાપેલું મથાળું]] '4  આવ્યો મેહુલો' + [[લેખક-સ્લોટ]] '- લોકગીત' — છાપેલી header-પંક્તિઓ, reading scene નથી. લેખક-સ્લોટમાં કવિનું નામ નહિ પણ સ્વરૂપનું નામ છપાયું છે; એ lok_geet.md નું નિદાન-પ્રમાણ છે, topic નથી.",
+  "[[પ્રવેશક-પેટી]] (ભૂરી) — 'આ એક સુંદર લોકગીત છે… કાવ્યનું સમૂહગાન કરાવવું…' શિક્ષક-સંબોધિત apparatus. Topic નથી; સ્વરૂપ-નિદાન અને key_terms / ભાષા-બોધ ને પોષે છે.",
+  "[[શબ્દાર્થ-પેટી]] (લીલી) — ઓતર, દખ્ખણ, મંડાણ, મેહુલો, છલી વળ્યાં, હિલોળ, ડેડકડી, ધોરી, આશિષ, ખેડુ, બેવડી, રાશ, અસતરી. Apparatus; point-of-use gloss અને key_terms ને પોષે છે, topic નથી.",
+  "18 ક્રમાંકિત સ્વાધ્યાય બ્લોક (વાતચીત … 'નીચેનાં વાક્યોનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.') — 01_meta.json ના exercise_inventory માં જ રહે છે; Agent 10 નું ક્ષેત્ર. એકેયને topic તરીકે કાપ્યો નથી. બ્લોક 12 અને 13 માં કાવ્યની પંક્તિ/શબ્દ ફરી છપાયાં છે — એ કસરત છે, reading scene નથી, અને કડી-સાંકળમાં ભેળવી નથી.",
+  "[[પ્રકરણ-અંતિમ પેટી: 'વિશેષણ વિશે જાણીએ']] — ક્રમાંકિત સ્વાધ્યાયની બહાર છપાયેલી લીલી વ્યાકરણ-પેટી. apparatus; topic નથી, exercise નથી (agents/02_structure.md નો સ્પષ્ટ નિષેધ).",
+  "[[જોડાયેલી વાચન-સામગ્રી: પીળી 'ગાઈએ' પેટી]] — આ marker પોતે પેટીનું scaffolding-લેબલ છે, reading scene નથી; અંદરની કવિતા M2 તરીકે કપાઈ છે (નીચે notes જુઓ).",
+  "[[કવિતા: મેહુલો — છાપેલું મથાળું]] 'મેહુલો' — છાપેલું શીર્ષક, header furniture; કોઈ topic નું reading scene નથી (reference/explanation_unit_map.md — 'Header furniture is not text'). Agent 5 એ તેને original_chunk માં નાખવાનું નથી."
+ ],
+ "notes": [
+  "કાપનો આધાર: 01_meta.json નું explanation_unit ('એક કડી') + profiles/genres/lok_geet.md, જે આ જ પ્રકરણ માટે કાપ અક્ષરશઃ લખે છે — 'the opening triplet is one topic, each couplet is one topic'. Rendered પાનું (folio 22, pdftoppm 150 dpi) ફરી વાંચીને ખાતરી કરી: એક જ કૉલમ, કુલ 11 છાપેલી પંક્તિ = 3-પંક્તિની ત્રિપદી + ચાર બે-પંક્તિની કડી, દરેક કડીને અંતે 'આવ્યો...'. કોષ્ટકનો prior અને પાનું સંમત છે — કોઈ મતભેદ નથી.",
+  "ટેકનો fold (મુખ્ય લોકગીત) — [[કડી 1]] marker ની ત્રિપદીની ત્રીજી પંક્તિ 'આવ્યો ધરતીનો ધણી મેહુલો રે !' એ જ ટેક છે. lok_geet.md નો structural gate — 'exactly ONE topic carries a [[ટેક]] marker' અને 'Teach the ટેક once, in the topic where it is first printed in full' — એટલે ટેકને પોતાનું topic બનાવ્યું નથી; તે M1.S1.T1 ની અંદર જ બેસે છે અને ત્યાં તેને પોતાનું concept (M1.S1.T1.C2) મળ્યું છે. structure_inventory મુજબ ટેકનાં distinct wordings = 1 (ચારેય ટૂંકાણ અક્ષરશઃ સરખાં), એટલે 'ટેકમાં શું બદલાયું?' પ્રકારનું શિક્ષણ કે પ્રશ્ન આ પ્રકરણમાં આવવો ન જોઈએ — Agent 12 / Agent 7 માટે નોંધ.",
+  "એટલે જ M1.S1.T2, M1.S1.T3, M1.S2.T4 અને M1.S2.T5 — જેમના original_chunk માં છાપેલું ટૂંકાણ 'આવ્યો...' આવે છે — ચારેય depends_on માં M1.S1.T1 ગણાવે છે (lok_geet.md નો ચકાસાતો નિયમ (b)). આ સિવાય કોઈ depends_on નથી.",
+  "છાપેલું ટૂંકાણ 'આવ્યો...' verbatim છે — Agent 5 એ તેને પૂરી ટેક-પંક્તિમાં ખોલવાનું નથી. ખુલાસો explanation માં થાય, original_chunk માં નહિ.",
+  "જોડાયેલી 'ગાઈએ' કવિતા M2 તરીકે અલગ module માં કપાઈ છે, લોકગીતની કડી-સાંકળમાં કદી ભળી નથી. કારણ: (1) 01_meta.json genre 'mixed' છે અને active_genre_profiles માં urmikavya_geet.md છે; (2) agents/02_structure.md નો mixed-chapter નિયમ — 'cut each part under its own unit… Load every profile Agent 1 listed'; (3) પાનું '• ગાઈએ' છાપીને વર્ગને ગાવાનું કહે છે, એટલે પુસ્તક એની પાસે કંઈક માગે છે. કવિનું નામ '- ત્રિભુવન વ્યાસ' છપાયું છે, તેથી lens urmikavya_geet.md નું (ચિત્ર + ભાવ + લય) — lok_geet.md નું નહિ. જો પૅક-માલિક આ કવિતાને ભણાવવા ન માગે તો આખું M2 (topics T6–T9, concepts C7–C11, objectives O6–O9) એકસાથે કાઢી શકાય અને M1 અકબંધ રહે; બાકીના કોઈ id ને અસર થાય નહિ.",
+  "ટેકનો fold (જોડાયેલી કવિતા) — 'આવ રે મેહુલા આવ, મેહુલા અષાઢના રે' પ્રારંભમાં આખી છપાઈ છે અને પછી દરેક કડીને અંતે '.... મેહુલા' ટૂંકાણ રૂપે પાછી આવે છે, શબ્દો બદલાયા વગર. urmikavya_geet.md — 'Where the ટેક returns identical, teach it once and reference it after' — મુજબ [[પ્રારંભની ટેક-પંક્તિ]] અને [[કડી 1]] બંને markers એક જ topic M2.S3.T6 માં બેસે છે (કોઈ marker ગળી ગયો નથી; બંને એ topic ના markers માં ગણાવ્યા છે), અને T7, T8, T9 એ topic ને depends_on માં ગણાવે છે. આ ch01 માં લેવાયેલા નિર્ણય જેવો જ છે.",
+  "છાપેલી અસંગતિ જેમ છે તેમ રહેવા દીધી છે — જોડાયેલી કવિતાનાં પહેલાં બે ટૂંકાણ 'મેહુલા.' (પૂર્ણવિરામ સાથે), પછીનાં બે 'મેહુલા' (વગર). Agent 5 એ છાપેલા રૂપે જ ઉતારવાનું છે.",
+  "'- ત્રિભુવન વ્યાસ' કવિ-નામ કવિતાને અંતે છપાયું છે, એટલે reference/explanation_unit_map.md ના નિયમ મુજબ તે છેલ્લા topic M2.S4.T9 ના original_chunk માં જાય છે; તેથી એ marker T9 ના markers માં ગણાવ્યો છે. કવિતાનું છાપેલું શીર્ષક 'મેહુલો' header furniture ગણ્યું છે — not_cut_as_topics જુઓ.",
+  "Segment કાપ. M1.S1 = વરસાદનાં મંડાણ ને પાણી ભરાવું (ત્રિપદી, નદી-સરોવર, ખાડા-ખાબોચિયાં); M1.S2 = જીવો પોતપોતાનું હાથમાં લે છે (ધોરી-ખેડુ ખેતરે, ગાય-અસતરી ઘરે). ગીતની યાદીનો ક્રમ પાણી → કામ → ઘર છે, અને segment કાપ એ જ સાંધા પર છે. M2.S3 = આકાશ (વાદળી, વીજળી), M2.S4 = ધરતી (નદી-ધરતી, ખેડૂત-પાક).",
+  "Concept counter chapter-continuous છે: C1, C2 (M1.S1.T1), C3, C4, C5, C6 (M1 નાં બાકીનાં topics), C7, C8 (M2.S3.T6), C9, C10, C11. બે topics પાસે બે-બે concepts છે — બંને ટેક carry કરતાં topics, જ્યાં ટેકનો દાવો અને કડીનું ચિત્ર ખરેખર બે જુદી વસ્તુ છે. તેથી concept-અંક topic-અંક બરાબર નથી; reference/phase2_contract.md મુજબ એ સમાનતા માત્ર 'one concept per topic' હોય ત્યારે જ સર્જાય છે.",
+  "difficulty આ પ્રકરણની અંદર સાપેક્ષ છે અને L2 ધો.-6 વાચકને પાના પર શું અટકાવે છે તેના પરથી નક્કી કરી છે — કારીગરીના નામ પરથી નહિ (ધો. 6 માં કોઈ અલંકાર/છંદનું નામ જ નથી). hard: M1.S1.T1 (ત્રણ પંક્તિ, અને ઓતર-દખ્ખણ-વરસિયા-મંડાણ-ધણી — સૌથી ગીચ તળપદું), M1.S2.T4 (ધોરી, ધુરી, ધોંસરી, ખેડુ, બેવડી, રાશ — છ શબ્દોની આખી બળદ-જોતરની વસ્તુ-દુનિયા, જે શહેરી L2 બાળકે જોઈ નથી). medium: M1.S1.T3 (ખાબોચિયાં, ડેડકડી, દિયે), M1.S2.T5 (અસતરી, ગાનાં), M2.S3.T6 (અષાઢ, જળે ભરી), M2.S4.T9 (કણ). easy: M1.S1.T2 (નદી, સરોવર, માછલી રોજિંદાં), M2.S3.T7 અને M2.S4.T8 (ઝબઝબ, ધમધમ, ડૂબ ડૂબ — અવાજ-શબ્દો બોલતાં જ સમજાય).",
+  "objective_text માં એક પણ અલંકાર / છંદ / સમાસ / સાહિત્યપ્રકારનું નામ નથી (agents/02_structure.md નો ceiling, profiles/students/std-6.md §3 ની બે ceilings). O3 બાળકને 'ડેડકડી' નો મીઠો અવાજ *નોંધવા* કહે છે, નામ આપવા નહિ; O7 એ જ રીતે 'અવાજ-શબ્દો' કહે છે, રવાનુકારી નહિ. કોઈ objective માં આંકડો નથી; 'બીજી કડી' જેવો શબ્દ-રૂપ જ વપરાયો છે.",
+  "દરેક objective આ જ પ્રકરણની છાપેલી પંક્તિ ટાંકે છે, એટલે તે બીજા કોઈ પ્રકરણમાં બંધ બેસે નહિ; અને દરેક ચકાસી શકાય એવો છે. બધા teaching_lens ને સેવે છે — M1 નાં O1–O5 'કંઠ + ધ્રુવપંક્તિ + લોકજીવન' ને (ટેક, તળપદો શબ્દ, પ્રસંગ), M2 નાં O6–O9 'ચિત્ર + ભાવ + લય' ને.",
+  "લંબાઈની અસમાનતા (Agent 4 / Agent 13 માટે, blocking નથી): M1.S1.T1 ત્રણ પંક્તિનું છે જ્યારે બાકીની ચારેય કડી બે-બે પંક્તિની; અને M1.S2 માં બે topics છે જ્યારે M1.S1 માં ત્રણ. બંને છાપેલા માળખાનું પરિણામ છે, કાપની પસંદગીનું નહિ.",
+  "કોઈ REVIEW topic નથી — પાનાં પર વિદ્યાર્થી-સંબોધિત in-text wrap છપાયો નથી. કોઈ CONCEPT pre-reading topic પણ નથી — ધો. 6 માં પ્રવેશક-પેટી શિક્ષક-સંબોધિત છે (ધો. 10 જેવો વિદ્યાર્થી માટે છપાયેલો કવિ-પરિચય અહીં નથી).",
+  "figures_of_speech / rhyme_scheme આ agent લખતો નથી; પણ નોંધ: ધો. 6 હોવાથી કોઈ પણ topic માં અલંકારનું નામ ન આવે, અને lok_geet.md નો gate — 'Every figures_of_speech[].lines string appears character-for-character inside this topic's original_chunk', '[] is a correct and complete answer' — Agent 6/13 માટે ઊભો રહે છે."
+ ]
+}

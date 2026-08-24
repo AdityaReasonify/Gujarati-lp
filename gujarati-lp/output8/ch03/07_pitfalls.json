@@ -1,0 +1,225 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Avoid 5 (inverting the irony), bound to the સંચાલક's closing speech: `explanation` states once, in plain Gujarati, that “એમનું શરીર જોઈને અમને દયા આવે છે.” is offered inside વખાણ but in fact says the writer's body is to be pitied; and no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may rewrite the line into its literal correction (“ખરેખર તો એમણે એમ કહેવું જોઈતું હતું કે…”, “આવું ન કહેવાય”) or report “તેઓએ નાનપણમાં જો કસરત કરી હોત, તો એ પણ મારા જેવા મજબૂત અને સંગીન બનત.” as a straightforward compliment.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 8 (inventing interiority for a real named person): no field states what the અખાડાના સંચાલક thought, felt, intended or later realised. This chunk supplies only his quoted words and the writer's own observation “એમણે શરીરને જેટલું કસ્યું હતું, તેટલી જીભને કસી નહોતી”. Sentences of the shape “સંચાલક લેખકનું અપમાન કરવા માગતા હતા” or “પછી એમને પસ્તાવો થયો હશે” fail.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 7 (correcting the spoken register): the elided form “લાગતું’તું” printed inside the સંચાલકના વાક્ય (“અમારા કેટલાક ભાઈઓને લાગતું’તું કે…”) appears unmodified wherever it is quoted; no field supplies “લાગતું હતું” as its સાચું રૂપ or calls it a ભૂલ.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "પાઠના બીજા જ વાક્યમાં આવતું ‘અખાડામાં જવાના મેં ઘણી વાર અખાડા કર્યા છે’ બાળક એમ વાંચે છે કે લેખક ઘણી વાર અખાડે ગયા હતા — કારણ કે એ ‘અખાડો’નો એક જ અર્થ (કસરત કરવાનું સ્થાન) જાણે છે અને ‘અખાડા કરવા’ને એની સાથે જ જોડી દે છે. આથી પાઠની શરૂઆતમાં જ લેખકનું ચિત્ર ઊંધું થઈ જાય છે : જે માણસ અખાડે જવાનું ટાળતો રહ્યો હતો તે નિયમિત જનારો બની જાય છે.",
+      "correction": "સમજૂતીમાં આ વાક્ય ફરી કહો ત્યાં જ, એ જ જગ્યાએ, અર્થ મૂકી દો — ‘અખાડા કરવા’ એટલે અહીં બહાનાં બતાવવાં — અને પછી વાક્યને સાદી ગુજરાતીમાં ફેરવીને કહો કે અખાડે જવાનું ટાળવા લેખકે ઘણી વાર બહાનાં કાઢ્યાં હતાં. પુસ્તકે પોતે જ આ અર્થ છાપ્યો છે, એટલે બહારથી કશું ઉમેરવાનું નથી; અને પછી જ સ્નેહસંમેલનની વાત આગળ ચલાવો."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "Avoid 1 (flattening the voice into information), instantiated on the chapter's only reflective topic: the first sentence of `explanation` must have લેખક as its grammatical subject. This chunk carries no scene, so it is the topic most likely to be rewritten as unattributed fact — a first sentence of the shape “વ્યાયામ કરવાથી શરીર સુધરે છે.” or “મહેનત વિના શરીર બળવાન બનતું નથી.”, with no લેખક in it, fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 3 (a tacked-on બોધ): no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` of this topic closes on “આપણે પણ કસરત કરવી જોઈએ”, “મહેનતથી જ સફળતા મળે છે” or “આ પાઠ આપણને શીખવે છે કે…”. The writer's own sentence “મારે વ્યાયામની સાધના કરવી જોઈએ એમ એક નહિ, અનેક વેળા મને લાગ્યું છે.” may be quoted as *his* thought and must not be converted into an instruction addressed to the child.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "The છગનકાકા saying quoted here — “ભલે પરણ્યો નથી, પણ જાનમાં ગયો હોઈશ ને ?” — is a comparison the writer borrows, not a fact about his life: no field may state or imply anything about લેખકનું લગ્ન, and the sentence is used only for the comparison it carries (પહેલવાન નથી, પણ પહેલવાનોને જોયા છે).",
+          "profile": "nibandh_atmaparak",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "‘મારી બાબતમાં બીજા ઘણા ભ્રમ પ્રવર્તે છે, તેમાં એક આ પણ છે કે…’ — બે ભાગવાળા આ વાક્યનો પહેલો ભાગ છોડી દઈને બાળક પછીનાં વાક્યો (‘વ્યાયામનો હું વિરોધ કરતો આવ્યો છું’, ‘અખાડે હું કદી પણ ગયો નથી’) લેખકનું પોતાનું કથન માની લે છે. પરિણામે થોડી પંક્તિ પછી આવતું ‘આમ છતાં કસરત પ્રત્યે મેં કદી વાંધો લીધો નથી’ એને લેખકનો વિરોધાભાસ લાગે છે અને આખો ફકરો ગૂંચવાઈ જાય છે.",
+      "correction": "સમજૂતીના પહેલા વાક્યમાં જ ‘ભ્રમ’ ત્યાં ને ત્યાં ગ્લોસ કરો — ‘ભ્રમ એટલે લોકોની ખોટી માન્યતા’ — અને કહો કે ‘તેમાં એક આ પણ છે કે’ પછી જે આવે છે તે લોકો લેખક વિશે ખોટું માને છે તે છે, લેખકનું પોતાનું કથન નથી. પછી લેખકની પોતાની કબૂલાત અલગ પાડીને એના જ શબ્દોમાં ટાંકો : ‘હું કબૂલ કરું છું કે મહેનત કરવી મને ગમતી નથી.’ બે વાત જુદી રહે એ જ આ પ્રસંગનું આખું કામ છે."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Avoid 3 (a tacked-on બોધ), bound to the વડીલનું છેલ્લું વાક્ય: “પરસેવો પાડતાં નહિ શીખો તો માયકાંગલા રહી જશો.” is quoted as the elder's own condition. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may re-issue it as advice to the child or close on “આપણે પરસેવો પાડતાં શીખવું જોઈએ”.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 7 (correcting the spoken register): the printed spoken forms of this dialogue — “અલ્યા એઈ”, “જજે”, “માયકાંગલા” — appear unmodified wherever quoted; no field prints a “સાચું રૂપ” for any of them or calls them ભૂલ. Glossing at point of use is allowed (“માયકાંગલા — નબળા; આ બોલચાલનો શબ્દ છે”), correcting is not.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 9 (supplementing from general knowledge): “સુરત” and “જમના વેણીના અખાડે” are the only names this chunk carries, and “તે વેળા સુરતમાં ચારપાંચ સારા અખાડા હતા.” is the only quantity. No field may add anything about સુરત, about its અખાડા, about જમના વેણી, or about who the વડીલ was, beyond what is printed here.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field may extend “માયકાંગલા” into a judgement about thin or weak children, or invite the class to use the word about anyone; it stays inside the વડીલના વાક્ય as printed, glossed once.",
+          "profile": "nibandh_atmaparak",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "‘પણ ત્યાં જઈને મારે કરવાનું શું ?’ – ‘દંડ ને બેઠક.’ — હિન્દી કે અંગ્રેજી માધ્યમનું બાળક ‘દંડ’ને હિન્દીમાં જાણીતા અર્થ ‘સજા’ તરીકે અને ‘બેઠક’ને હિન્દીના ‘બેઠક’ — સભા, બેસવાની જગ્યા — તરીકે વાંચે છે. વડીલનો હુકમ એને ‘ત્યાં જઈને સજા ને સભા કરવાની’ જેવો કશોક અર્થ આપે છે — વાક્ય જાણે સમજાઈ ગયું હોય એવું લાગે છે, એટલે એ પૂછતું પણ નથી, અને પાઠના પછીના બધા પ્રસંગો એ જ ખોટા અર્થ પર ચાલે છે.",
+      "correction": "આ સંવાદ સમજાવતાં જ, પહેલી વાર બંને શબ્દ સાથે ગ્લોસ મૂકી દો — ‘દંડ ને બેઠક એ અખાડાની બે કસરતનાં નામ છે’ — અને એક ટૂંકા વાક્યમાં ના-ઉદાહરણ પણ આપો : અહીં દંડ એટલે સજા નહિ, ને બેઠક એટલે સભા નહિ. પછીના પ્રસંગોમાં એ જ અર્થ ફરી વાપરો, જેથી શબ્દ બીજી-ત્રીજી વાર મળે."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "Avoid 2 (converting the essay into a story with a moral): this topic reads most like a scene with an opponent. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may ask or answer why the ઉસ્તાદ finally allowed it, or describe “ઠીક ત્યારે કુસ્તીના કોડ પૂરા કર.” as a વળાંક or a turning point of a plot. The writer's own reasons stay available (O4 asks for them); the ઉસ્તાદ is a person in a remembered પ્રસંગ, not a પાત્ર whose motive is inferred.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 4 (explaining the joke): at most one sentence of `explanation` may talk about the humour of this exchange, and no field may contain “આ વાક્ય રમૂજી છે કારણ કે”, “અહીં લેખક મજાક કરે છે”, “હસવું આવે એવું છે”, “(મજાક)”, or a plain restatement of “તો મારે કુસ્તી કરવી છે.” offered as its own punchline.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "“લંગોટબંગોટ” is a printed echo-pair in which “બંગોટ” carries no meaning of its own: no `key_terms` entry, inline gloss or recall answer may define બંગોટ as a separate word. If anything is glossed here, it is લંગોટ.",
+          "profile": "nibandh_atmaparak",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "લેખકની ‘મારે તો કુસ્તી જ કરવી છે’ વાળી જીદને બાળક હિંમત કે ઉત્સાહ સમજી લે છે અને પ્રસંગમાંથી ‘ધ્યેય ઊંચું રાખવું’ જેવો પાઠ કાઢી લે છે. એમાં આખી ગમ્મત ખોવાઈ જાય છે : લેખક પહેલાં પૂછી લે છે કે અખાડામાં છેલ્લે શું આવે છે, ને પછી પહેલા જ દિવસે એ જ માગે છે — વચ્ચેનું બધું ટાળવા માટે.",
+      "correction": "સમજૂતી લેખકથી શરૂ કરો અને એના પોતાના બે પ્રશ્નોના જ ક્રમમાં ચાલો — પહેલાં ‘અખાડામાં છેલ્લે શું કરવાનું હોય ?’, પછી ‘તો મારે કુસ્તી કરવી છે.’ — જેથી બાળક જાતે જુએ કે માગણી છેલ્લી વસ્તુની છે. એની બાજુમાં ઉસ્તાદે બતાવેલો સાચો ક્રમ ટાંકો : ‘પહેલાં દંડ બેઠક - મલખમ કર ને શરીરને તૈયાર બનાવ.’ હાસ્ય ક્યાં પડે છે તે એક જ કલમમાં કહીને આગળ વધો; હિંમતનાં વખાણ કે બોધ ઉમેરવાનાં નથી."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "Avoid 14 (pitying or judging), bound to this chunk's description of નંદુ — “સીસમરંગી”, “પરસેવા ને ધૂળના મિશ્રણ વડે એના શરીરનો રંગ હતો તેથીયે વધારે કાળો ને કંઈક ચળકતો પણ લાગતો હતો”: no `explanation`, `real_life_example`, `concept_bullets` line, recall `answer` or exercise `answer` may make the boy's skin colour, his ધૂળ ખોદવાનું કામ or his circumstances a subject of comment, comparison or pity. He is named as the chapter names him — નંદુ — and the writer's own descriptive words stay inside the quoted `original_chunk`.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 15 (naming a device that is not there): `figures_of_speech` stays [] and no field names an અલંકાર for “ગોટલા જેવો નહિ પરંતુ પાકી કેરી જેવો હતો” or for the two senses of “અખાડો” in this chunk. The comparison may be shown and re-said in the child's own words; it may not be labelled ઉપમા, and the two senses may not be labelled શ્લેષ.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 9 (supplementing from general knowledge): “બજરંગબલીની જે !” is the ઉસ્તાદનું printed exclamation as he sends the writer down. No field may explain who બજરંગબલી is, add anything about અખાડાની પરંપરા or ભક્તિ, or use the line to open a discussion of ધર્મ (`global_content_rules.md` §10). It is quoted, and the explanation moves on to what happened next.",
+          "profile": "nibandh_atmaparak",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક ‘અખાડો’નો એક જ અર્થ જાણે છે — કસરત કરવાનું સ્થાન, જે પુસ્તકની શબ્દાર્થ-પેટીમાં પણ એ જ છપાયું છે. એટલે ‘ચાલો અખાડામાં’ પછી તરત આવતું ‘અખાડામાં તો હું હતો જ’ એને ખાલી પુનરાવર્તન કે છાપની ભૂલ લાગે છે, અને ‘ખાડાને આ લોકો અખાડો કહેતા હશે એવી કલ્પના પણ મને શી રીતે આવે ?’ વાળી આખી ગેરસમજ એના હાથમાંથી સરી જાય છે.",
+      "correction": "સમજૂતીમાં પહેલાં ખાડો બતાવો — ‘લંબચોરસ ને ત્રણેક ફૂટ ઊંડો ખાડો’ — અને પછી એક જ વાક્યમાં કહો કે અહીંના લોકો કુસ્તી માટે ખોદેલા એ ખાડાને પણ ‘અખાડો’ કહે છે, જ્યારે લેખક ‘અખાડો’ એટલે આખી કસરતશાળા સમજતા હતા. પછી લેખકનું પોતાનું વાક્ય જેમનું તેમ ટાંકો — ‘ખાડાને આ લોકો અખાડો કહેતા હશે એવી કલ્પના પણ મને શી રીતે આવે ?’ — અને કોઈ અલંકારનું નામ પાડ્યા વિના ત્યાં જ અટકી જાઓ."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "Avoid 2 (converting the essay into a story with a moral): no field may ask or answer why નંદુ acted as he did (“નંદુને ગુસ્સો કેમ આવ્યો ?”), call the “તમે કબૂલ કરો કે હું હાર્યો” exchange a વળાંક or a climax, or present the કુસ્તી as a contest to be scored with a real winner and loser. `topic_category` stays \"core\": this is one remembered પ્રસંગ, not a plot.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 8 (inventing interiority for a real named person): નંદુ's inner state is written only from what is printed — “નવાઈ પામીને એણે પ્રશ્ન કર્યો”, “મને આમાં કંઈ મજા નથી આવતી”, “ઊતરેલે ચહેરે એણે જવાબ દીધો”. Sentences of the shape “નંદુને પોતાની હાર પર શરમ આવી હશે” or “નંદુ ગરીબ છોકરો હતો એટલે…” fail.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 15 (naming a device that is not there): `figures_of_speech` stays [] — the comparison “પવનનો ઝપાટો આવે ને દીવો હોલવાઈ જાય તેમ એકાએક મારું જ્ઞાન વિલુપ્ત થઈ ગયું” may be shown and re-said in the child's words, and may not be labelled ઉપમા or any other અલંકાર.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 7 (correcting the spoken register): the printed forms of this exchange — “કને” in “તમે કોઈ બીજા કને શીખો”, “હુંયે”, “પડી-ઊપડી” — are quoted unmodified; no field prints “પાસે” as the સાચું રૂપ of કને, and no field marks any of them as a ભૂલ.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "આખો સંવાદ વક્તાનાં નામ વગર ચાલે છે. ‘એક શરતે જવા દઉં, તમે કબૂલ કરો કે હું હાર્યો.’ — અહીંનો ‘હું’ કોણ છે તે બાળક ગોઠવી શકતું નથી અને એ વાક્યને લેખક પોતાની હાર કબૂલી રહ્યા હોય એમ વાંચે છે. પરિણામે પછીનું ‘હા, જી. આ હારી ગયા.’ અર્થ વગરનું બની જાય છે અને લેખક હારીને પણ કઈ રીતે જીતી લે છે તે આખી ચોટ ખોવાઈ જાય છે.",
+      "correction": "સમજૂતીમાં આ વાક્ય ટાંકતાં પહેલાં વક્તાનું નામ મૂકી દો — ‘લેખક નંદુને કહે છે…’ — અને પછી એક વાક્યમાં સ્પષ્ટ કરો કે ‘હું હાર્યો’ એ શબ્દો નંદુએ પોતાના વિશે બોલવાના છે. પછી નંદુનો સામો પ્રશ્ન ‘તમારાથી હારી ગયો એમ ?’ અને ઉસ્તાદ પાસે અપાયેલો જવાબ ‘હા, જી. આ હારી ગયા.’ એ જ ક્રમમાં મૂકો, જેથી બાળક જાતે કડી જોડી શકે."
+    },
+    {
+      "topic_id": "M3.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "Avoid 5 (inverting the irony), bound to this topic's opening sentence “અખાડેથી વિજય મેળવી હું ઘરે પાછો ફર્યો”: `explanation` may state once, in plain Gujarati, what this ‘વિજય’ points back to — the કુસ્તી in which લેખક જાતે ચત્તા સૂઈ ગયા અને નંદુ પાસે ‘હું હાર્યો’ કબૂલ કરાવ્યું. No field may rewrite the sentence into a literal correction (“ખરેખર તો એમણે વિજય ન કહેવું જોઈએ”), and no field may report as a plain fact of the પ્રસંગ that લેખક કુસ્તી જીત્યા.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 4 (explaining the joke): at most one sentence of `explanation` may talk about the humour of “હાથમાં દંડ લઈને બેઠક પર શાંતિથી બેસી રહેવાનું એ જ ને ?”, and no field may contain “આ સાંભળીને હસવું આવે છે”, “અહીં લેખક મજાક કરે છે”, “(મજાક)” or a restatement of the line offered as its own punchline. The printed reaction — “ઉસ્તાદને પહેલાં તો લાગ્યું કે હું એમની મજાક કરું છું” — is the only comment on it the plan needs.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક પોતે પણ ‘દંડ’નો રોજિંદો અર્થ (લાકડી, સોટી) અને ‘બેઠક’નો રોજિંદો અર્થ (બેસવાની જગ્યા) જ જાણતું હોય, ત્યારે ‘હાથમાં દંડ લઈને બેઠક પર શાંતિથી બેસી રહેવાનું એ જ ને ?’ એને સાચું વાક્ય લાગે છે. એટલે લેખકની ભૂલ એને દેખાતી જ નથી — ઊલટું એ માની બેસે છે કે અખાડામાં ખરેખર આ જ કરવાનું હોય છે.",
+      "correction": "ત્રીજા પ્રસંગમાં આપેલો અર્થ અહીં ટૂંકમાં ફરી કહો — ‘દંડ ને બેઠક એ કસરતનાં નામ છે’ — અને પછી બતાવો કે લેખકે એ જ બે શબ્દોના રોજિંદા અર્થ લઈ લીધા : દંડ એટલે લાકડી ને બેઠક એટલે બેસવાની જગ્યા. લેખકનું વાક્ય જેમ છે તેમ રહેવા દો, સુધારો નહિ; ઉસ્તાદનું ‘અલ્યા ! તને તો કાંઈ જ ખબર નથી.’ એ જ એનો જવાબ છે."
+    },
+    {
+      "topic_id": "M3.S4.T8",
+      "avoid_checks": [
+        {
+          "check": "Avoid 1 (flattening the voice into information), instantiated on the chapter's one long descriptive paragraph: the first sentence of `explanation` must have લેખક as its grammatical subject and must name what he is doing — ઊભા રહીને દંડ પીલનારા ને બેઠક કરનારાઓને જોવું. A first sentence of the shape “દંડ કરવા માટે બંને હથેળી અને પગના અંગૂઠાનો ટેકો લેવાય છે.” — an unattributed account of how the exercise is performed — fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 5 (inverting the irony): “ભાનમાં હોય તો એવો કોઈ પણ માણસ ન કરે એવી ક્રિયા એ કરતા હતા.” and “…તે કરનારા માણસોનાં શરીર મજબૂત છે, પણ મન ચંચળ ને નિર્બળ છે એમ મને લાગ્યું.” say the opposite of what they mean. `explanation` names this once — લેખક જાણી જોઈને એવું બોલે છે જાણે એણે કદી દંડ કે બેઠક જોયાં જ ન હોય — and no field rewrites either sentence into its literal correction (“ખરેખર તો કસરત કરનારાઓનું મન નિર્બળ નથી હોતું”).",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 14 (judging the people on the page): the writer's deadpan words about the men in the અખાડો — “અક્કલ વગરની ક્રિયા”, “મન ચંચળ ને નિર્બળ છે” — stay inside the quoted `original_chunk`. They may not be repeated as the plan's own statement in a `concept_bullets` line, a summary sentence, a `real_life_example` or a recall `answer` about કસરત કરનારા લોકો.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 4 (explaining the joke): at most one sentence of `explanation` talks about the humour of this description, and no field may close the topic on “…અને મને પરસેવો થઈ ગયો ! — આ વાક્ય રમૂજી છે કારણ કે…” or on any restatement of that line as its own punchline.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "આખો ફકરો સાદા વર્ણન જેવો લાગે છે, એટલે બાળક એને લેખકનો સાચો અભિપ્રાય માની લે છે — ‘દંડ-બેઠક કરનારા લોકો અક્કલ વગરનું કામ કરે છે, એમનું મન નિર્બળ છે.’ આમ પાઠનું નિશાન કસરત કરનારાઓ પર ગોઠવાઈ જાય છે, જ્યારે ખરેખર જે માણસ સામે પડેલી સાદી કસરત પણ ઓળખતો નથી તે લેખક પોતે છે.",
+      "correction": "સમજૂતીની શરૂઆતમાં જ કહી દો કે લેખક જેને ‘સમજી ન શકાયું’ કહે છે તે તો સાદા દંડ ને સાદી બેઠક જ છે, અને આખું વર્ણન ‘જેણે આ કદી જોયું જ નથી’ એવા માણસની આંખે લખાયું છે. પછી પાઠની છેલ્લી પંક્તિ જેમની તેમ ટાંકીને અટકી જાઓ — ‘એમને આમ ખૂબ પરિશ્રમ કરતા હું થોડી વાર સુધી જોઈ રહ્યો અને મને પરસેવો થઈ ગયો !’ — હાસ્ય કોના પર છે તે એ પોતે જ કહી દે છે."
+    },
+    {
+      "topic_id": "M3.S5.T9",
+      "avoid_checks": [
+        {
+          "check": "Avoid 3 (a tacked-on બોધ) at the closing gesture: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` closes on “આપણે હંમેશાં સાચું બોલવું જોઈએ”, “અભિમાન ન કરવું જોઈએ” or “આ પાઠ આપણને શીખવે છે કે…”. The quoted “હું કરું, હું કરું એ જ અજ્ઞાનતા, શકટનો ભાર જયમ શ્વાન તાણે.” is taught as the line લેખક reaches for to justify his own answer — his move — and never as the chapter's બોધ; O9 leaves the judgement to the child.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 7 (correcting a printed form): the archaic forms of the quoted નરસિંહવાક્ય — “જયમ”, “શકટ”, “શ્વાન” — appear exactly as printed wherever they are quoted. No field may supply a “સાચું રૂપ” (“જયમ નહિ, જેમ”) or call them ભૂલ; they are glossed at point of use, with the printed form as the headword.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 15 (naming a device that is not there): `figures_of_speech` stays [] — the comparison carried by “જયમ” in “શકટનો ભાર જયમ શ્વાન તાણે” may be re-said in the child's own words and may not be labelled ઉપમા, દૃષ્ટાંત or any other અલંકાર.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 9 (supplementing from general knowledge): the chapter names the quoted line only as “નરસિંહવાક્ય”. No `explanation`, `summary`, `detailed_summary`, `important_points`, `concept_bullets` line or recall `answer` may add a date, a place, a work, a movement or any other fact about નરસિંહ મહેતા, or state which composition the line comes from.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક નરસિંહવાક્યને પાઠનો બોધ સમજી લે છે — ‘અભિમાન ન કરવું જોઈએ’ — અને ‘હું અસત્ય નહોતો બોલ્યો’ ને લેખકનો સાચો બચાવ માની લે છે. એટલે આખો હાસ્યનિબંધ છેલ્લે નીતિપાઠ બની જાય છે, અને પાઠનું છેલ્લું વાક્ય — ‘…પણ એનું નોંધવા જેવું કોઈ પરિણામ આવ્યું નહિ.’ — વંચાયા વગરનું રહી જાય છે.",
+      "correction": "સમજૂતીમાં પહેલાં એ ગોઠવો કે લેખકે વડીલને શું કહ્યું — ‘હા, દંડ-બેઠક કર્યાં’ — અને એમાં કોણે કર્યાં તે એમણે કહ્યું જ નહોતું; પુસ્તક પોતે જ ‘વાક્યમાં કર્તા અધ્યાહાર હતો’ એમ છાપે છે, એટલે એ જ શબ્દો વાપરો. પછી કહો કે એ જવાબને વાજબી ઠેરવવા લેખક નરસિંહની પંક્તિ યાદ કરે છે — એ પંક્તિ અહીં લેખકનું ઓઠું છે, પાઠનો ઉપદેશ નથી. છેલ્લે પાઠનું પોતાનું છેલ્લું વાક્ય જેમનું તેમ ટાંકીને છોડી દો, અને ‘યોગ્ય છે કે નહિ’ એ નિર્ણય બાળક પર છોડો."
+    }
+  ],
+  "chapter_level": [
+    "Standing voice rule for all nine topics (profile Avoid 1). The whole chapter is પ્રથમ પુરુષ — હું, મેં, મારું, અમે — and the “હું” is the writer himself. Every `explanation` names લેખક, વડીલ, ઉસ્તાદ or નંદુ as the grammatical subject of its first sentence; any field that presents part of this chapter as unattributed fact about વ્યાયામ, અખાડા or કસરત fails. Per-topic instances are written only where the risk is highest (M1.S1.T2, M3.S4.T8) so the rule is not repeated as noise nine times.",
+    "Hindi–Gujarati false friends actually printed in this chapter's reading text, to be glossed in Gujarati where they occur and nowhere else. `સંગીન` (M1.S1.T1) — a Hindi-reading child takes it for Hindi *sangeen*, ‘ગંભીર’; here it is નક્કર, મજબૂત. `ધર્મ` in “પોતાના શરીરને સુધારવાનો પ્રત્યેક માણસનો ધર્મ છે” (M1.S1.T2) is ફરજ, not religion — left unglossed the sentence becomes plausible nonsense the child never questions. `ઇતર` in “મુખના ને ઇતર સ્નાયુ પરથી” (M3.S4.T8) is બીજા, બાકીના — not Hindi *itr*, અત્તર. `મોટી ઉંમરનો` (M2.S3.T5) is older, not Hindi *mota*, જાડો. No word is listed here that is not in that topic's own `original_chunk`. The `દંડ` / `બેઠક` pair is the largest hazard of this family and is handled as M2.S2.T3's own misconception.",
+    "Craft-label ceiling, std 8 (`profiles/students/std-8.md` §2–§3): no અલંકાર, છંદ or સમાસ is named anywhere in this plan, and `figures_of_speech` stays [] on every topic. The two senses of અખાડો, the comparisons “પાકી કેરી જેવો”, “પવનનો ઝપાટો આવે ને દીવો હોલવાઈ જાય તેમ” and “શકટનો ભાર જયમ શ્વાન તાણે” are shown and re-said in the child's own words, never labelled શ્લેષ / ઉપમા / ઉત્પ્રેક્ષા / દૃષ્ટાંત. The profile's Avoid 5 requirement to name the irony once is satisfied at this standard by a plain sentence of the shape “આ વાક્ય જે કહે છે તેનાથી ઊલટું જ સૂચવે છે”, or by the single word વ્યંગ used at most once in a topic — never by an અલંકારનું નામ.",
+    "સ્વાધ્યાય boundary and the transfer-composition (profile Avoid 12). All thirteen numbered blocks, the શબ્દસમૂહ. and રૂઢિપ્રયોગ. pre-blocks and the three closing ચર્ચા-વિચારણા bullets — “સ્વસ્થ જીવનની ચાવી - વ્યાયામ”, “મારું સાહસ (હાસ્ય)”, “હાસ્ય - ઉત્તમ ઔષધ” — belong to the exercise deliverable alone, and no topic's `objective_text` or `explanation` may describe how to write a હાસ્યલેખ, an આત્મકથા or a રમૂજી પ્રસંગ as a method. The printed idiom and શબ્દસમૂહ glosses are still usable as glosses at point of use inside an explanation, which is exactly what M1.S1.T1's correction asks for.",
+    "The blue પ્રવેશપેટી on the chapter's first printed page is teacher-addressed apparatus. Its sentences — including “આ એક સરસ હાસ્યનિબંધ છે…” and “જીવનમાં નિર્દોષ હાસ્યના મહત્ત્વને સમજે એ માટે પ્રયાસ કરવો.” — may not be quoted or summarised into any topic's `explanation`, summary, `concept_bullets` or recall `answer` as the chapter's meaning or its બોધ. Every answer comes from the reading text the child is holding.",
+    "Printed defects are not errors to repair. Agent 1 recorded four unbalanced quotation marks (‘ઠીક ત્યારે કુસ્તીના કોડ પૂરા કર.’’ ; “શું ! ; “હા, જી. ; “કેટલાં કર્યાં) and the Devanagari-look glyph the book uses for ‘મેં’ throughout. Wherever a topic quotes one of those lines in a teaching field, it is quoted as printed; no field repairs a quotation mark, transliterates ‘મેં’, or describes the printed text as ખોટું or as a છાપભૂલ."
+  ]
+}

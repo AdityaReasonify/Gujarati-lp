@@ -1,0 +1,162 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Slogan gate, bound to this topic: no sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer` is an exhortation of the shape સૂરજ-ચાંદા જોઈ ઈશ્વરનો આભાર માનવો જોઈએ / કુદરતને સાચવી જોઈએ / સૌએ … જોઈએ. The word જોઈએ does not occur anywhere in this topic's `original_chunk` (હે... સુંદર સુંદર... … વિભુ હશે તો કેવા સુંદર, એવું થાતું મુજ મનમાં), so it may not occur in any of those fields.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name સૂરજ, ચાંદો, સરિતા or સરોવર — a word printed in this topic's `original_chunk` — and say what it looks like. A first sentence that opens on વિભુ, ઈશ્વર, સૌંદર્ય, પ્રકૃતિનું સૌંદર્ય or the poet's ભાવ fails, even though the blue પ્રવેશપેટી uses those words.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Craft, second limb (`figures_of_speech` is `[]` at std 7, so the craft sentence is mandatory): at least one sentence of `explanation` must describe this topic's sound in the child's own words — the sung આ... આ... drawl printed after almost every phrase of the three opening lines, or the word સુંદર coming back in each of those three lines, or the closing line arriving after them. It must name no device: પુનરાવર્તન, ધ્રુવપંક્તિ, ટેક, પ્રાસ, અલંકાર and છંદ are barred as labels.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Never modernise the poet: મુજ and થાતું stay exactly as printed wherever `explanation`, a summary or a `recall_questions[].answer` quotes the refrain — no field may substitute મારા / થાય છે into the quoted line or call either form a ભૂલ. `key_terms` already gloss them as ગીતના લયમાં બેસતાં જૂનાં રૂપ; `explanation` must not contradict that.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "The first time `explanation` says સરિતા it must carry the meaning in the same sentence (વહેતી નદી) and stand it beside સરોવર as water, so સુંદર સરિતા ને સરોવર cannot be read as somebody's name; a bare સરિતા સુંદર છે as the subject of a sentence in `explanation` or a `recall_questions[].answer`, with no gloss anywhere before it, fails.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક ટેકના 'હશે' ને 'હસે' વાંચી જાય છે — ચોપડીમાં જ એક વિકલ્પ તરીકે 'ઈશ્વર ખૂબ જ સુંદર હસે છે' છપાયેલું છે — એટલે આખી પંક્તિ 'ભગવાન સુંદર હસે છે' એવી બની જાય છે અને કવિના મનમાં ઊઠતો પ્રશ્ન જ ગુમ થઈ જાય છે.",
+      "correction": "`explanation`માં ટેકની પંક્તિ લાવતાં પહેલાં જ 'હશે — હોઈ શકે, હોવાની વાત છે' એમ ગ્લોસ કરો, અને એક વાક્યમાં કહો કે કવિ અહીં કંઈ કહેતા નથી, પૂછે છે — આટલું બધું સુંદર છે તો એ બનાવનાર કેવા સુંદર હશે ? અને `key_terms`માં 'હશે' ને 'હસે'નો ભેદ એક જ લીટીમાં મૂકો."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "Slogan gate, bound to this કડી's own nouns: no sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer` is an exhortation such as વન કે વૃક્ષો બચાવવાં જોઈએ / કુદરતનું જતન કરવું જોઈએ / વહેલા ઊઠવું જોઈએ. This topic's `original_chunk` is ઉષા સુંદર, નિશા સુંદર, / સુંદર વન, ઉપવન, ગિરિવર — it carries no જોઈએ and no verb of doing at all.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name ઉષા, નિશા, વન, ઉપવન or ગિરિવર and say what it looks like at that hour or in that place; a first sentence that begins with the poet's wonder, with વિભુ, or with a general statement about પ્રકૃતિ fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Over-scientifying, and this is the કડી that invites it: no word naming a scientific mechanism — પૃથ્વીનું પરિભ્રમણ, ધરીભ્રમણ, પ્રકાશસંશ્લેષણ, જૈવવિવિધતા, વાતાવરણ, ભૂસ્તર — may appear in `explanation`, `real_life_example`, any summary or any `recall_questions[].answer`. ઉષા and નિશા are two hours the poet looks at, not a day-night cycle to explain; none of those words is in this chapter's text or in its printed શબ્દાર્થ box (ચાંદો, સરિતા, વિભુ, ઉષા, નિશા, ઉપવન, ગિરિવર, સમીર, હૈયું).",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Craft, second limb: at least one sentence of `explanation` must say, in the child's own words and with no device name, that ઉષા and નિશા end on the same sound and so run together when the line is sung, and that સુંદર comes back three times across these two printed lines. પુનરાવર્તન, પ્રાસ, અલંકાર and છંદ are barred as labels at std 7.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, of any summary or of a `recall_questions[].answer` may state that the poet is looking at હિમાલય or at any named mountain — the line prints only ગિરિવર. The printed શબ્દાર્થ box's own wording, ગિરિવર — હિમાલય (અહીં) પર્વત, may be reported in `key_terms` as the book's gloss, but what this કડી means is ઊંચો પર્વત.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક ઉષા, નિશા, વન, ઉપવન અને ગિરિવરને પાંચ સુંદર વસ્તુઓની સીધી યાદી ગણી લે છે, અને કવિએ સામસામી જોડી ગોઠવી છે — સવાર સામે રાત, જંગલ સામે બગીચો — એ જ નજર બહાર રહી જાય છે.",
+      "correction": "`explanation`માં ઉષા અને નિશાને એક જ વાક્યમાં સામસામે મૂકો — વહેલી સવાર પણ સુંદર, ને રાત પણ સુંદર — અને પછી વન અને ઉપવનને એ જ રીતે જોડીમાં મૂકો; `key_terms`માં પણ દરેક જોડીના બંને શબ્દ પાસપાસે રાખો, એટલે આગળ જતાં જોડકાં શોધવાનું કામ આ જ વાંચનમાંથી શરૂ થાય."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Slogan gate, bound to this કડી's living things: no sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer` is an exhortation such as પ્રાણી-પંખીની રક્ષા કરવી જોઈએ / પર્યાવરણ બચાવવું જોઈએ / પાણી ગંદું ન કરવું જોઈએ. This topic's `original_chunk` is માછલી સુંદર, પંખી સુંદર, / સુંદર ધરતી, શાંત સમીર — it asks for nothing.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name માછલી, પંખી, ધરતી or સમીર and show it moving or being felt — the fish in the water, the bird in the air, the slow wind on the skin; a first sentence that states the ભાવ or opens on કવિની દૃષ્ટિ as an abstraction fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Over-scientifying and fact-recital: no word naming a scientific mechanism — ચૂઈ/ગલફલાં, શ્વસન, ઊડ્ડયન, હવાનું દબાણ, વાયુ, ગુરુત્વાકર્ષણ — appears in `explanation`, `real_life_example`, any summary or any `recall_questions[].answer`, and no such field states a general fact about fish or birds (માછલી પાણીમાં જ રહે છે, પંખી આકાશમાં ઊડે છે) as this કડી's content. The printed શબ્દાર્થ box glosses સમીર as પવન and adds nothing further.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Craft, second limb: at least one sentence of `explanation` must note, with no device name, how these two printed lines turn the word around — the first line puts સુંદર after the creature (માછલી સુંદર, પંખી સુંદર), the second line puts it in front (સુંદર ધરતી) — and that this turning is what makes the line easy to sing.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક આ કડીને માછલી ને પંખી વિશેની માહિતી સમજી લે છે — કોણ ક્યાં રહે છે, કોણ ક્યાં ઊડે છે — કારણ કે એવાં જ માહિતી-વાક્યો અનુવાદના વિભાગમાં એની સામે છપાયેલાં પડ્યાં છે; કવિ શું જોઈને 'સુંદર' કહે છે એ જોવાનું રહી જાય છે.",
+      "correction": "`explanation`નું પહેલું વાક્ય કવિની નજર બતાવે — પાણીમાં સરકીને તરતી માછલી અને ઉપર ઊડતું પંખી કવિ જુએ છે — અને પછી 'શાંત સમીર'ને અનુભવાય એવી વસ્તુ તરીકે મૂકો: ધીમે ધીમે વાતો પવન ગાલે અડે છે. એકેય વાક્ય માછલી કે પંખી વિશે માહિતી ન આપે."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "Slogan gate, bound to this કડી's abstract nouns — they are the ones that pull a rule out of an author: no sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer` is an exhortation such as જીવનને સુંદર બનાવવું જોઈએ / કવિતા વાંચવી જોઈએ / મોટા સપનાં જોવાં જોઈએ. The line prints કવિતા સુંદર, જીવન સુંદર / સુંદર તારા, આભ વિશાળ and nothing more.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name તારા or આભ — the two things in this `original_chunk` a child can actually stand outside and look at — before કવિતા or જીવન is used as the subject of any sentence.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Over-scientifying, invited here by તારા and આભ વિશાળ: no ગ્રહ, ઉપગ્રહ, બ્રહ્માંડ, પ્રકાશવર્ષ, ગેલેક્સી, ગુરુત્વાકર્ષણ or અવકાશ in `explanation`, `real_life_example`, any summary or any `recall_questions[].answer`; the stars here are what the eye sees from a terrace, and none of those words is in this chapter's text or its printed શબ્દાર્થ box.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Craft, second limb — and no invented પ્રાસ: at least one sentence of `explanation` must describe, with no device name, the frame this કડી keeps — સુંદર coming back three times, twice after the word and once in front of it — and no field may claim these two printed lines rhyme, because they close on સુંદર and વિશાળ, which share no sound.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Abstraction scaffold (04_validation.json's note on O4): every sentence of `explanation`, of any summary and of any `recall_questions[].answer` that uses કવિતા or જીવન must hold it in the same sentence beside something the child can point at or has done — તારા, આભ, a song sung aloud in class, a morning that felt good. Neither word may stand alone as the subject of a sentence.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક 'કવિતા સુંદર, જીવન સુંદર' પર થોભી શકતું નથી — કાં તો એને દેખાતી વસ્તુ બનાવી દે છે (કવિતાની ચોપડી), કાં એ બે શબ્દ કૂદીને તારા ને આભ પર જ ચાલ્યા જાય છે, અને કડીની આખી વાત આકાશ પૂરતી રહી જાય છે.",
+      "correction": "`explanation` પહેલાં દેખાતું આપે — રાતે છાપરા પરથી દેખાતા તારા અને પહોળું આભ — અને પછી એ જ વાક્યમાં કવિતા ને જીવનને એની પાસે મૂકે: જે આંખે દેખાય છે એ પણ સુંદર, અને જે માત્ર અનુભવાય છે — વર્ગમાં સાથે ગાયેલું ગીત, સારી લાગેલી એક સવાર — એ પણ સુંદર. કવિતા કે જીવન એકલું વાક્યનું કર્તા ન બને."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "Slogan gate, and this climax topic is where it bites hardest, because the poem's last printed word is માનવ: no sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer` may close on a rule about people — માણસે સુંદર બનવું જોઈએ / સૌએ સારા હૈયાના બનવું જોઈએ / હૈયું સુંદર રાખવું જોઈએ. The `original_chunk` is ભાષા સુંદર, આશા સુંદર, / સુંદર હૈયું ને માનવ — it carries જોઈએ nowhere, and the words બોધ and સંદેશ appear nowhere in this chapter.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name ભાષા, હૈયું or માનવ — a word printed in this `original_chunk` — and point at something heard, felt or seen (the language in the child's own mouth, a heart beating under the hand, the person standing next to them); a first sentence built on આશા, સૌંદર્ય or the poem's message fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Craft, second limb: at least one sentence of `explanation` must note, with no device name, that ભાષા and આશા end on the same sound in the first printed line, and that the last line lets that echo go and stops on માનવ — which is why the song feels finished there. No field may assert a rhyme between the two lines' final words (સુંદર and માનવ share no sound).",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "The ને in સુંદર હૈયું ને માનવ must be stated in `key_terms` or in `explanation` to mean અને, joining હૈયું and માનવ as two things the poet calls beautiful; no field may render the line as the heart being given or shown to the person.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "પાઠનો છેલ્લો પ્રશ્ન — કવિએ છેલ્લે 'સુંદર હૈયું ને માનવ...' એવું શા માટે કહ્યું હશે ? — સાંભળીને બાળક કારણ ગીતની બહારથી લાવે છે — 'કવિ કહેવા માગે છે કે માણસે સારા બનવું જોઈએ.' એ કારણ ગીતમાં ક્યાંય નથી; ગીતની પોતાની ગોઠવણી જ કારણ છે.",
+      "correction": "`explanation`માં કવિની યાદીનો રસ્તો બતાવો — સૂરજ ને ચાંદાથી શરૂ થઈને ધરતી, પંખી, ભાષા ને આશા સુધી ચાલેલી સુંદરતાની યાદી છેલ્લે માણસ પર આવીને અટકે છે — અને એ જ કારણ `recall_questions[].answer`માં ગીતના પોતાના શબ્દોમાં આપો, કોઈ પણ નિયમ-શબ્દ વાપર્યા વગર."
+    }
+  ],
+  "chapter_level": [
+    "Given-name hazard, this chapter's standing L2 trap: five of its nouns are also ordinary given names in Gujarat — સરિતા, ઉષા, નિશા, સમીર and આશા, every one of them printed in the poem and the first four glossed in the printed શબ્દાર્થ box. An English- or Hindi-medium reader takes them for people and the કડી silently becomes a line about somebody. Each must be glossed as a common noun in શબ્દ — અર્થ form in its own topic's `key_terms`, and must carry its meaning the first time that topic's `explanation` uses it.",
+    "Craft gate, resolved for std 7 (04_validation.json's forward note to this agent): `figures_of_speech` stays `[]` on all five topics per profiles/students/std-7.md §2, so urmikavya_geet.md's 'Skipping the craft' item is satisfied by its second limb alone — each topic needs an `explanation` sentence about its own sound. That sentence must use the child's words (the word સુંદર coming back, the આ... આ... drawl, the line that returns after every કડી) and must name no device: પુનરાવર્તન, ધ્રુવપંક્તિ, ટેક, પ્રાસ, અલંકાર, સજીવારોપણ and છંદ are all barred as labels.",
+    "No rhyme scheme may be asserted for this poem. The કડી do not rhyme end to end — સુંદર/ગિરિવર and સુંદર/સમીર share only a final ર, while સુંદર/વિશાળ and સુંદર/માનવ share nothing. The two real, audible echoes are inside the first lines of two કડી — ઉષા–નિશા and ભાષા–આશા. Where nothing chimes, say nothing (reference/no_hallucination_policy.md).",
+    "The refrain is taught once and referenced after. વિભુ હશે તો કેવા સુંદર, એવું થાતું મુજ મનમાં is printed in full five times with no word changed, so it lives in M1.S1.T1 only and the other four topics carry it through `depends_on`. M1.S2.T2 … M2.S3.T5 may spend at most one sentence on the line coming back, must not re-explain વિભુ, હશે or મુજ, and must not quote it into their own `original_chunk`.",
+    "The poem wonders; it does not ask. વિભુ હશે તો કેવા સુંદર carries no request and no આજ્ઞાર્થ verb, and 01_meta.json records પ્રાર્થના-કાવ્ય as tested and ruled out for this chapter. No field may turn the refrain into a prayer, a vow, or a lesson about ઈશ્વર; it is one person wondering out loud in front of something beautiful, and it stays that (global_content_rules.md rule 10).",
+    "The sung third of the lens is prescribed by the page, not optional: the blue પ્રવેશપેટી orders આ કાવ્યનું પઠન અને ગાન અનેક વાર કરાવવું and the exercises close on આ કાવ્યનું વર્ગમાં સમૂહગાન કરો. An `explanation` set across the five topics in which no sentence anywhere mentions the poem being sung aloud has dropped a third of ચિત્ર + ભાવ + લય (04_validation.json's lens-thinness note)."
+  ]
+}

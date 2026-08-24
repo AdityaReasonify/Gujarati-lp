@@ -1,0 +1,520 @@
+{
+  "_comment": "Hand-maintained registry: chapter_id -> {chapter_master_id (required), path (required, chapter folder relative to data/), publication_id?, estimated_time?}. Keys starting with _ are ignored. PROVISIONAL FILE: no GSEB row has been fetched yet, so every chapter_master_id, publication_id and path here is null — those ids exist only in the education DB and are never invented; an upload carrying a guessed id lands clean under the wrong chapter. chapter_id follows gseb_eng_gujarati{grade}_ch{N} (VERIFY-1: the medium slot is the medium of instruction, NOT the subject language, and must be confirmed against the live server before the first upload). Rows cover the numbered chapters of the five GSEB Gujarati (dvitiya bhasha) readers in ../Textbooks-pdf/std-6 .. std-10; front matter, the revision blocks, the vyakaran units and the purak-vachan pieces carry no chapter number and get a row only if the board assigns one.",
+  "_verify_2": "Fill each row from the DB, not by arithmetic: (1) chapter_master_id per chapter — the neighbouring Hindi pack's 355-N style formulas do NOT transfer; (2) publication_id — the GSEB publication row; (3) path — V2/{board}/{publication}/{medium}/class_{N}/gujarati/ch_{n}, whose board/publication/medium segments are read off an existing row or a post-upload readback (a precedent row reads V2/bseap/cbse/telugu/class_7/science/ch_2, so the segments genuinely vary). Update reference/naming_conventions.md and profiles/boards/gseb_gujarati.md in the same pass.",
+  "gseb_eng_gujarati6_ch1": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-01-ek-j-dalna-pankhi.pdf — એક જ ડાળનાં પંખી (printed page 1)."
+  },
+  "gseb_eng_gujarati6_ch2": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-02-chotaduk.pdf — ચોટડૂક (printed page 6)."
+  },
+  "gseb_eng_gujarati6_ch3": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-03-ban-to-tyare-j-chhutshe.pdf — બાણ તો ત્યારે જ છૂટશે... (printed page 14)."
+  },
+  "gseb_eng_gujarati6_ch4": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-04-avyo-mehulo.pdf — આવ્યો મેહુલો (printed page 22)."
+  },
+  "gseb_eng_gujarati6_ch5": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-05-vijalirani.pdf — વીજળીરાણી (printed page 28)."
+  },
+  "gseb_eng_gujarati6_ch6": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-06-sanskare-sarjyu-swarg.pdf — સંસ્કારે સર્જ્યું સ્વર્ગ (printed page 34)."
+  },
+  "gseb_eng_gujarati6_ch7": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-07-chokhkhaina-sardar.pdf — ચોખ્ખાઈના સરદાર (printed page 41)."
+  },
+  "gseb_eng_gujarati6_ch8": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-08-mamano-patra.pdf — મામાનો પત્ર (printed page 50)."
+  },
+  "gseb_eng_gujarati6_ch9": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-09-garvi-gujaratno-garbo.pdf — ગરવી ગુજરાતનો ગરબો (printed page 55)."
+  },
+  "gseb_eng_gujarati6_ch10": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-10-sathi-mare-bar.pdf — સાથી મારે બાર (printed page 63)."
+  },
+  "gseb_eng_gujarati6_ch11": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-11-kamni-maja-ne-majanu-kam.pdf — કામની મજા ને મજાનું કામ (printed page 68)."
+  },
+  "gseb_eng_gujarati6_ch12": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-12-ajabgajabno-melo.pdf — અજબગજબનો મેળો (printed page 79)."
+  },
+  "gseb_eng_gujarati6_ch13": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-13-surya-sudhi-pahonchay.pdf — સૂર્ય સુધી પહોંચાય ? (printed page 85)."
+  },
+  "gseb_eng_gujarati6_ch14": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-14-ek-chhokro-risano.pdf — એક છોકરો રિસાણો (printed page 92)."
+  },
+  "gseb_eng_gujarati6_ch15": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-15-lo-pathri-mari-vat.pdf — લો, પાથરી મારી વાત (printed page 101)."
+  },
+  "gseb_eng_gujarati7_ch1": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-7/ch-01-sundar-sundar.pdf — સુંદર સુંદર (printed page 1)."
+  },
+  "gseb_eng_gujarati7_ch2": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-7/ch-02-tran-saval.pdf — ત્રણ સવાલ (printed page 5)."
+  },
+  "gseb_eng_gujarati7_ch3": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-7/ch-03-chakravyuh-tutyo-pan.pdf — ચક્રવ્યૂહ તૂટ્યો પણ... (printed page 11)."
+  },
+  "gseb_eng_gujarati7_ch4": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-7/ch-04-tipani-safar.pdf — ટીપાંની સફર (printed page 19)."
+  },
+  "gseb_eng_gujarati7_ch5": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-7/ch-05-aapne-bharose.pdf — આપણે ભરોસે (printed page 25)."
+  },
+  "gseb_eng_gujarati7_ch6": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-7/ch-06-jo-kari-jambue.pdf — જો કરી જાંબુએ (printed page 30)."
+  },
+  "gseb_eng_gujarati7_ch7": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-7/ch-07-ek-manasnu-sainya.pdf — એક માણસનું સૈન્ય (printed page 37)."
+  },
+  "gseb_eng_gujarati7_ch8": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-7/ch-08-saad-vartyo.pdf — સાદ વરત્યો (printed page 50)."
+  },
+  "gseb_eng_gujarati7_ch9": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-7/ch-09-allak-dallak.pdf — અલ્લક દલ્લક (printed page 57)."
+  },
+  "gseb_eng_gujarati7_ch10": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-7/ch-10-bhaibandhi.pdf — ભાઈબંધી (printed page 63)."
+  },
+  "gseb_eng_gujarati7_ch11": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-7/ch-11-andheri-nagari.pdf — અંધેરી નગરી (printed page 71)."
+  },
+  "gseb_eng_gujarati7_ch12": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-7/ch-12-be-rupiya.pdf — બે રૂપિયા (printed page 77)."
+  },
+  "gseb_eng_gujarati7_ch13": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-7/ch-13-taxine-futi-pankho.pdf — ટૅક્સીને ફૂટી પાંખો ! (printed page 85)."
+  },
+  "gseb_eng_gujarati7_ch14": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-7/ch-14-vir-bhamasha.pdf — વીર ભામાશા (printed page 93)."
+  },
+  "gseb_eng_gujarati7_ch15": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-7/ch-15-sonano-killo.pdf — સોનાનો કિલ્લો (printed page 99)."
+  },
+  "gseb_eng_gujarati8_ch1": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-8/ch-01-jivanjyot.pdf — જીવનજ્યોત (printed page 1)."
+  },
+  "gseb_eng_gujarati8_ch2": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-8/ch-02-tyagvir-dadhichi.pdf — ત્યાગવીર દધીચિ (printed page 7)."
+  },
+  "gseb_eng_gujarati8_ch3": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-8/ch-03-mari-vyayamsadhana.pdf — મારી વ્યાયામસાધના (printed page 15)."
+  },
+  "gseb_eng_gujarati8_ch4": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-8/ch-04-jabri-madhmakhi.pdf — જબરી મધમાખી (printed page 27)."
+  },
+  "gseb_eng_gujarati8_ch5": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-8/ch-05-bano-vado.pdf — બાનો વાડો (printed page 36)."
+  },
+  "gseb_eng_gujarati8_ch6": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-8/ch-06-pid-parai-jane-re.pdf — પીડ પરાઈ જાણે રે ! (printed page 46)."
+  },
+  "gseb_eng_gujarati8_ch7": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-8/ch-07-kankotari.pdf — કંકોતરી (printed page 53)."
+  },
+  "gseb_eng_gujarati8_ch8": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-8/ch-08-jivti-divadandi.pdf — જીવતી દીવાદાંડી (printed page 64)."
+  },
+  "gseb_eng_gujarati8_ch9": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-8/ch-09-shatrangi-bharat.pdf — શતરંગી ભારત (printed page 72)."
+  },
+  "gseb_eng_gujarati8_ch10": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-8/ch-10-halese-halese.pdf — હલેસે હલેસે (printed page 81)."
+  },
+  "gseb_eng_gujarati8_ch11": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-8/ch-11-jamfal-ane-jalebi.pdf — જામફળ અને જલેબી (printed page 85)."
+  },
+  "gseb_eng_gujarati8_ch12": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-8/ch-12-kshiti.pdf — ક્ષિતિ (printed page 94)."
+  },
+  "gseb_eng_gujarati8_ch13": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-8/ch-13-lili-najar.pdf — લીલી નજર (printed page 108)."
+  },
+  "gseb_eng_gujarati8_ch14": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-8/ch-14-niyamo-kona-mate.pdf — નિયમો કોના માટે ? (printed page 114)."
+  },
+  "gseb_eng_gujarati8_ch15": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-8/ch-15-portarna-panjama.pdf — પોર્ટરના પંજામાં (printed page 123)."
+  },
+  "gseb_eng_gujarati9_ch1": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-01-chhappa.pdf — છપ્પા (printed page 1)."
+  },
+  "gseb_eng_gujarati9_ch2": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-02-paropkari-manushyo.pdf — પરોપકારી મનુષ્યો (printed page 3)."
+  },
+  "gseb_eng_gujarati9_ch3": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-03-jyan-jyan-vase-ek-gujarati.pdf — જ્યાં જ્યાં વસે એક ગુજરાતી (printed page 8)."
+  },
+  "gseb_eng_gujarati9_ch4": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-04-sinhnu-mrutyu.pdf — સિંહનું મૃત્યુ (printed page 11)."
+  },
+  "gseb_eng_gujarati9_ch5": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-05-tu-tara-dilno-divo.pdf — તું તારા દિલનો દીવો (printed page 15)."
+  },
+  "gseb_eng_gujarati9_ch6": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-06-bhasha-jay-to-sanskruti-jay.pdf — ભાષા જાય તો સંસ્કૃતિ જાય (printed page 17)."
+  },
+  "gseb_eng_gujarati9_ch7": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-07-navsarjanni-vate.pdf — નવસર્જનની વાટે (printed page 30)."
+  },
+  "gseb_eng_gujarati9_ch8": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-08-aabhar.pdf — આભાર (printed page 32)."
+  },
+  "gseb_eng_gujarati9_ch9": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-09-parkhu.pdf — પારખું (printed page 35)."
+  },
+  "gseb_eng_gujarati9_ch10": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-10-e-loko.pdf — એ લોકો (printed page 44)."
+  },
+  "gseb_eng_gujarati9_ch11": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-11-varsagat.pdf — વારસાગત (printed page 47)."
+  },
+  "gseb_eng_gujarati9_ch12": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-12-to-janu.pdf — તો જાણું (printed page 66)."
+  },
+  "gseb_eng_gujarati9_ch13": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-13-ghadvaiya.pdf — ઘડવૈયા (printed page 69)."
+  },
+  "gseb_eng_gujarati9_ch14": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-14-maru-taru.pdf — મારું તારું ! (printed page 73)."
+  },
+  "gseb_eng_gujarati9_ch15": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-15-so-tachnu-sonu.pdf — સો ટચનું સોનું (printed page 76)."
+  },
+  "gseb_eng_gujarati9_ch16": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-16-gokulma-aavo-to.pdf — ગોકુળમાં આવો તો (printed page 80)."
+  },
+  "gseb_eng_gujarati9_ch17": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-17-chhabi-bhitarni.pdf — છબી ભીતરની (printed page 83)."
+  },
+  "gseb_eng_gujarati9_ch18": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-18-dikrini-viday.pdf — દીકરીની વિદાય (printed page 97)."
+  },
+  "gseb_eng_gujarati9_ch19": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-19-pankhilok.pdf — પંખીલોક (printed page 99)."
+  },
+  "gseb_eng_gujarati9_ch20": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-20-hari-aavone.pdf — હરિ ! આવોને (printed page 103)."
+  },
+  "gseb_eng_gujarati9_ch21": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-21-pranionu-gokul.pdf — પ્રાણીઓનું ગોકુળ (printed page 105)."
+  },
+  "gseb_eng_gujarati9_ch22": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-22-laghukavyo.pdf — લઘુકાવ્યો (printed page 110)."
+  },
+  "gseb_eng_gujarati9_ch23": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-9/ch-23-prerak-prasango.pdf — પ્રેરક પ્રસંગો (printed page 113)."
+  },
+  "gseb_eng_gujarati10_ch1": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-01-morli.pdf — મોરલી (પદ) – મીરાંબાઈ (printed page 1)."
+  },
+  "gseb_eng_gujarati10_ch2": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-02-sharnai-na-sur.pdf — શરણાઈના સૂર (ટૂંકીવાર્તા) – ચુનીલાલ મડિયા (printed page 4)."
+  },
+  "gseb_eng_gujarati10_ch3": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-03-prayan.pdf — પ્રયાણ (નવલકથાખંડ) – રમણભાઈ નીલકંઠ (printed page 12)."
+  },
+  "gseb_eng_gujarati10_ch4": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-04-jivan-anjali-thajo.pdf — જીવન અંજલિ થાજો (પ્રાર્થના) – કરસનદાસ માણેક (printed page 20)."
+  },
+  "gseb_eng_gujarati10_ch5": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-05-shvetkranti-na-pranetao.pdf — શ્વેતક્રાંતિના પ્રણેતાઓ (રેખાચિત્ર) – સંકલિત (printed page 23)."
+  },
+  "gseb_eng_gujarati10_ch6": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-06-samagri-to-samaj-ni-chhe-ne.pdf — સામગ્રી તો સમાજની છે ને ? (પ્રસંગકથા) – વિકાસ શર્મા (printed page 29)."
+  },
+  "gseb_eng_gujarati10_ch7": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-07-jivma-jiv-avyo.pdf — જીવમાં જીવ આવ્યો (સોનેટ) – હરિકૃષ્ણ પાઠક (printed page 39)."
+  },
+  "gseb_eng_gujarati10_ch8": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-08-suraj-to-badhe-j-sarkho.pdf — સૂરજ તો બધે જ સરખો (હાસ્યનિબંધ) – વિનોદ ભટ્ટ (printed page 42)."
+  },
+  "gseb_eng_gujarati10_ch9": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-09-hath-melvie.pdf — હાથ મેળવીએ (ઊર્મિકાવ્ય) – નિરંજન ભગત (printed page 46)."
+  },
+  "gseb_eng_gujarati10_ch10": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-10-nathi.pdf — નથી (ટૂંકીવાર્તા) – મોહમ્મદ માંકડ (printed page 51)."
+  },
+  "gseb_eng_gujarati10_ch11": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-11-divankhanama.pdf — દીવાનખાનામાં (અછાંદસ) – પન્ના નાયક (printed page 58)."
+  },
+  "gseb_eng_gujarati10_ch12": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-12-jhabak-jyot.pdf — ઝબક જ્યોત (એકાંકી) – કૃષ્ણલાલ શ્રીધરાણી (printed page 61)."
+  },
+  "gseb_eng_gujarati10_ch13": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-13-kya-re-vagi.pdf — ક્યાં રે વાગી (લોકગીત) (printed page 80)."
+  },
+  "gseb_eng_gujarati10_ch14": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-14-jethibai.pdf — જેઠીબાઈ (લોકકથા) – દુલેરાય કારાણી (printed page 83)."
+  },
+  "gseb_eng_gujarati10_ch15": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-15-te-bese-ahi.pdf — તે બેસે અહીં (ગઝલ) – સ્નેહી પરમાર (printed page 88)."
+  },
+  "gseb_eng_gujarati10_ch16": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-16-pranno-mitra.pdf — પ્રાણનો મિત્ર (અનુવાદિત વાર્તા) – રવીન્દ્રનાથ ટાગોર (printed page 95)."
+  },
+  "gseb_eng_gujarati10_ch17": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-17-tiffin.pdf — ટિફિન (લઘુકથા) – પ્રેમજી પટેલ (printed page 99)."
+  },
+  "gseb_eng_gujarati10_ch18": {
+    "chapter_master_id": null,
+    "path": null,
+    "publication_id": null,
+    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-18-laghukavyo.pdf — લઘુકાવ્યો (દુહા, મુક્તક, હાઈકુ) – શેખાદમ આબુવાલા, હર્ષદ ત્રિવેદી, ઝિલિપ ક્લાર્ક, ધીરુ પરીખ (printed page 102)."
+  }
+}

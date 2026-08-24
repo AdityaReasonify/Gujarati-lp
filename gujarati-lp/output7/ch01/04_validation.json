@@ -1,0 +1,71 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "genre": "ઊર્મિકાવ્ય-ગીત",
+      "active_genre_profiles": ["urmikavya_geet.md"],
+      "explanation_unit": "એક કડી",
+      "kadi_markers_in_00": 4,
+      "topics_carrying_kadi_markers": 4,
+      "duha_markers": 0,
+      "pad_markers": 0,
+      "tek_occurrences": 5,
+      "tek_distinct_wordings": 1,
+      "topics_carrying_tek_marker": 1,
+      "notes": [
+        "explanation_unit 'એક કડી' in 01_meta.json matches urmikavya_geet.md and explanation_unit_map.md line 18 (ઊર્મિકાવ્ય/ગીત → કડી-wise, one કડી). 02_structure.json carries the same unit, genre, lens and guiding_question as 01_meta.json.",
+        "કડી equality holds: [[કડી 1]]–[[કડી 4]] appear once each in 00_chapter_normalized.md and exactly four topics carry a કડી marker — M1.S2.T2, M1.S2.T3, M2.S3.T4, M2.S3.T5, in printed order.",
+        "No દુહો and no પદ marker exists in this chapter, so the merge and split gates are vacuously satisfied.",
+        "ટેક gate satisfied in its identical-refrain branch. All five [[ટેક]] occurrences are word-for-word 'વિભુ હશે તો કેવા સુંદર, એવું થાતું મુજ મનમાં' (01_meta.json: tek_words_changed=false, tek_printed_in_full_every_time=true), so exactly ONE topic carries the ટેક (M1.S1.T1) and all four later કડી topics list M1.S1.T1 in depends_on. This is what urmikavya_geet.md's Agent-4 structural gate and explanation_unit_map.md §5 require, and the profile names this very chapter as the case.",
+        "Not a mixed chapter — pure verse throughout, one profile, one unit.",
+        "Profile avoid list checked against the cut and the objectives: no slogan shape ('આપણે … જોઈએ') in any objective_text; every objective opens on something nameable in its own કડી (સૂરજ/ચાંદો/સરિતા/સરોવર, ઉષા/નિશા/વન/ઉપવન/ગિરિવર, માછલી/પંખી/ધરતી/શાંત સમીર, તારા/આભ, 'સુંદર હૈયું ને માનવ'), so the feeling-before-picture gate holds; no scientific-mechanism word; no અલંકાર/છંદ/સમાસ label anywhere, so nothing invented; no political framing; no digit, ASCII or Gujarati, in any module_name, segment_name, topic_name, concept_name, objective_text or guiding_question."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 5,
+      "topics": 5,
+      "exercise_blocks_inventoried": 14,
+      "exercise_blocks_cut_as_topics": 0,
+      "notes": [
+        "Every printed reading scene became a topic, in printed order: [[આરંભની પંક્તિઓ]]+[[ટેક]] → M1.S1.T1, [[કડી 1]] → M1.S2.T2, [[કડી 2]] → M1.S2.T3, [[કડી 3]] → M2.S3.T4, [[કડી 4]] → M2.S3.T5.",
+        "Five scenes against four કડી is correct, not an over-cut: the three flush-left opening lines ('હે... સુંદર સુંદર... આ... આ...' / 'સૂરજ સુંદર, આ... આ... ચાંદો સુંદર, આ... આ...' / 'સુંદર સરિતા ને સરોવર... આ... આ...') are printed reading text that no કડી claims. Agent 1 explicitly left the decision to Agent 2; joining them with the first ટેક into one landed unit is upheld.",
+        "No સ્વાધ્યાય block became a topic. All fourteen verbatim_heading strings in 01_meta.json's exercise_inventory were cross-checked mechanically against every module_name, segment_name, topic_name and concept_name — zero collisions — and no topic's source_markers contains a [[સ્વાધ્યાય: …]] marker. 02_structure.json's marker_accounting lists all fourteen under non_topic_markers.",
+        "No pre-reading topic exists and none is owed. The blue પ્રવેશપેટી on printed p. 1 is teacher-addressed apparatus ('એ તરફ બાળકોનું ધ્યાન દોરવું', 'આ કાવ્યનું પઠન અને ગાન અનેક વાર કરાવવું') — explanation_unit_map.md §4 puts the intro box and the શબ્દાર્થ box in key_terms / ભાષા-બોધ / Agent 10, not in the topic chain — and વાતચીત is numbered exercise block one in the inventory. Std 7 prints no student-facing કવિ-પરિચય paragraph (that is the std-10 shape), so there is no CONCEPT topic; '- ધર્મેન્દ્ર માસ્તર \\'મધુરમ્\\'' is a byline.",
+        "No in-text wrap is printed, so no REVIEW topic is owed.",
+        "No topic covers text that no marker claims: every source_markers entry resolves to a marker actually present in 00_chapter_normalized.md.",
+        "Four of the five printed [[ટેક]] occurrences will carry into no topic's original_chunk. That is the identical-refrain gate operating as written, not a coverage hole — recorded here so it is never later read as a transcription omission by Agent 5 or Agent 13."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 5,
+      "notes": [
+        "Root objectives[] exists with O1–O5, all objective_id unique; legacy_id L1–L5 with no duplicate.",
+        "strand_to_objective_map covers every legacy_id exactly once and its values are exactly the five objective_ids. Single strand L / ભાષા અને સાહિત્ય throughout, per naming_conventions.md.",
+        "Every home_topic_id resolves to a node in this tree and every anchor[] id resolves to a concept in this tree — checked mechanically, zero unresolved. Every topic carries objective_ids and every concept an objective_id, all resolving to the registry; each of O1–O5 is the sole objective of exactly one topic.",
+        "Every objective is text-grounded and chapter-specific — each names imagery printed only on this page (સૂરજ-ચાંદો-સરિતા-સરોવર; ઉષા-નિશા-વન-ઉપવન-ગિરિવર; માછલી-પંખી-ધરતી-શાંત સમીર; તારા-આભ against કવિતા-જીવન; 'સુંદર હૈયું ને માનવ'). None could be pasted into another chapter.",
+        "Objectives serve the teaching_lens 'ચિત્ર + ભાવ + લય': O2, O3 and O4 work the ચિત્ર third, O1 and O5 the ભાવ third, O1 alone the લય third ('ગાઈને').",
+        "Id contract holds. Hierarchy dotted and continuous with no restart: M1, M2; M1.S1, M1.S2, M2.S3; T1–T5 chapter-continuous; C1–C5 chapter-continuous with concept number equal to topic number on every topic (M1.S2.T3 carries M1.S2.T3.C3). depends_on resolves everywhere. No M1.S1.T1.P1-style objective code and no .SR{n} recall id anywhere in the file. chapter_id 'gseb_eng_gujarati7_ch1' and plan_id 'gseb_eng_gujarati7_ch1_v1' match 01_meta.json, are lowercase, and carry no _standard_ segment.",
+        "topic_type 'POEM' on all five topics is correct here: phase2_contract.md §topic_type makes POEM/STORY_TELLING/CONCEPT/REVIEW the authored values for agents 02–13, mapped to the closed server enum at emit. topic_category values introduction/core/core/core/climax are all inside the documented free-text set."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Ids are frozen from this pass. 04_converged.json is a convergence record naming 02_structure.json and its sha256 a6ad94306f260857f220c898c0d4e0eeb1dfe0665a62ec5f6d49370e2f7e80a8 — the structure payload is not duplicated; downstream agents read 02_structure.json for structure and 04_converged.json only to confirm convergence.",
+    "FORWARD NOTE, Agent 7 and Agent 13 — a real tension between two authorities that this cut does not resolve and cannot. profiles/students/std-7.md §2 fixes figures_of_speech[] to [] for all std-7 authoring ('[] is a complete, correct answer, never a gap'), while urmikavya_geet.md's 'Skipping the craft' avoid item requires every poem topic to carry EITHER a non-empty figures_of_speech[] OR an explanation sentence naming that કડી's પ્રાસ, લય, પુનરાવર્તન or ધ્વનિ. With the std-7 gate binding, the second limb is mandatory on all five topics. The poem supplies it honestly without any label — 'સુંદર' recurs in every line as પુનરાવર્તન, and the કડી close on matching sounds (સુંદર/ગિરિવર, સુંદર/સમીર) — so this is describable in the child's words without naming a device. This is an authoring obligation, not a structural defect, and does not block.",
+    "Uneven topic length, flagged not blocking: M1.S1.T1 carries four printed lines, the other four topics two each. urmikavya_geet.md permits a કડી-unit to join or split on content, and this chapter's કડી are unusually short two-liners.",
+    "Lens thinness, note only: only O1 reaches the લય third of 'ચિત્ર + ભાવ + લય', and it does so lightly ('ગાઈને'). The પ્રવેશપેટી prescribes 'આ કાવ્યનું પઠન અને ગાન અનેક વાર કરાવવું' and the સ્વાધ્યાય closes on સમૂહગાન, so Agent 7 should carry the sung third explicitly in the explanations rather than leaving it to O1 alone.",
+    "bloom_level 'Evaluate' on O5 sits above the ceiling profiles/students/std-7.md §2 states for the recall ladder (std 7 stops at motive inference and in-character hypotheticals). Accepted, and here is why: the chapter's own printed exercise asks exactly this question — 'કવિએ છેલ્લે \\'સુંદર હૈયું ને માનવ...\\' એવું શા માટે કહ્યું હશે ?' — and its વાતચીત block runs preference-with-reason items ('તમને પંખી બનવું ગમે કે માછલી ? કેમ ?'). std-7.md §5 also scopes that ladder to authored prose, not to objective bloom labels. Recorded so Agent 12 does not build a std-9-shaped recall question on the strength of the label.",
+    "O4 asks a std-7 child to separate seen beauty (તારા, આભ) from unseen beauty (કવિતા, જીવન). std-7.md warns that detached abstraction is still out of reach at this age; the objective is safe only because it holds the abstract pair against the concrete pair. Agent 7 must keep that scaffold in the explanation and not let કવિતા/જીવન float free.",
+    "Agent 14 must map POEM → instructional before emit; Agent 14 must also translate depends_on, anchor[], home_topic_id and objective_ids if it renumbers — four of the five topics depend on M1.S1.T1 solely because of the identical-ટેક gate, so a stale anchor there would silently break the refrain chain.",
+    "original_chunk is \"\" on all five topics. Correct at this stage — Agent 5 owns the verbatim. Agent 5's brief from 02_structure.json's notes stands: the ટેક line goes into M1.S1.T1's original_chunk only, and the other four topics carry their two printed કડી lines without the refrain.",
+    "chapter_id and plan_id freeze in their PROVISIONAL form: the 'gseb' and 'eng' segments are unverified against the live server (VERIFY-1, naming_conventions.md), and 'eng' is the medium of instruction, not the subject language. A VERIFY-1 correction changes chapter_id and plan_id only; it does not touch the frozen M/S/T/C tree or the O{n} registry.",
+    "No page render was opened by this agent. 00_chapter_normalized.md answered every structural question — marker counts, printed order, refrain wording — and 01_meta.json answered the rest.",
+    "CONTEXT ROUTING, recorded honestly: the run context routed only no_hallucination_policy.md and global_content_rules.md, but this spec's inputs also name reference/loop_protocol.md, reference/explanation_unit_map.md, reference/phase2_contract.md, reference/naming_conventions.md and the active genre profile. All five were present on disk and were read in full from reference/ and profiles/genres/urmikavya_geet.md, together with profiles/students/std-7.md for the craft-label gate. Nothing was inferred from an unread document.",
+    "This is the single pass. Per loop_protocol.md there is no round two on a pass."
+  ]
+}

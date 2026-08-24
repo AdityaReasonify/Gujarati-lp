@@ -1,0 +1,152 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Feeling-before-picture. The first sentence of `explanation` must name something in THIS topic's `original_chunk` that can be seen or heard — the hand that is caught (`એક મહેનતના હાથને ઝાલીએ`) or the companions being called (`હો ભેરુ મારા`) — using one of those printed words. A first sentence that opens on the ભાવ instead (આત્મનિર્ભરતા, આત્મબળ, જાતમહેનતનું મહત્ત્વ, 'આ ગીતનો સંદેશ') has skipped the ટેક and fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Slogan gate. No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets`/`important_points` line or any `recall_questions[].answer` may be an exhortation of the shape `આપણે … જોઈએ` — specifically `આપણે મહેનત કરવી જોઈએ`, `પોતાના પર ભરોસો રાખવો જોઈએ`, `જાતે કામ કરવું જોઈએ`. The word `જોઈએ` does not occur anywhere in this topic's `original_chunk`; the ટેક's own verbs are `હાલીએ` and `ઝાલીએ`, and the teaching must stay on the hand and the calling voice.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Skipping the craft. `figures_of_speech` is `[]` at std 7 (no named devices at any tier), so the craft must be carried in prose: at least one sentence of `explanation` must say in plain child words either that the line `હો ભેરુ મારા, આપણે ભરોસે આપણે હાલીએ...` is printed twice inside this opening block and returns at every કડી's end, or that `હાલીએ` and `ઝાલીએ` close their lines with the same sound. A topic with `[]` and no such sentence is half-taught.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Never modernise the poet. Wherever `explanation`, `key_terms`, `modified_chunk` or a `recall_questions[]` stem quotes this ટેક, `હાલીએ`, `ભેરુ` and `ઝાલીએ` appear exactly as printed. They may be glossed (`હાલીએ — ચાલીએ`, `ભેરુ — દોસ્ત`), but no field may substitute `ચાલીએ` / `મિત્ર` / `પકડીએ` inside a quoted line, and no field may call these forms ભૂલ, અશુદ્ધ or 'ખોટી જોડણી'.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "The printed three dots. No field may describe the `...` at the end of `હો ભેરુ મારા, આપણે ભરોસે આપણે હાલીએ...` as missing text, an unfinished line or a printing slip. If `explanation` mentions them at all, it must say they are the sung drawl that tells the singer to carry the line on and repeat it.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક 'હો ભેરુ મારા'માંના 'ભેરુ'ને કોઈ છોકરાનું નામ સમજી લે છે. પછી આખું ગીત 'ભેરુ' નામના એક દોસ્તને પાડેલો સાદ બની જાય છે, અને 'આપણે ભરોસે'નો અર્થ પણ 'ભેરુના ભરોસે' થઈ જાય છે — એટલે ગીત જે કહે છે તેનાથી સાવ ઊલટી વાત.",
+      "correction": "સમજૂતીના પહેલા જ વાક્યમાં 'ભેરુ — દોસ્ત, ભાઈબંધ' એમ ગ્લોસ કરો, અને 'મારા' બહુવચનમાં છે તે બતાવીને કહો કે ગાનાર પોતાની સાથે હાલતા બધા સાથીઓને સાદ પાડે છે, એક જણને નહીં. પછી 'આપણે ભરોસે' એટલે 'આપણા પોતાના ભરોસે' એમ ફરી કહો, અને 'એક મહેનતના હાથને ઝાલીએ' પંક્તિ પરથી બતાવો કે ઝાલવાનો હાથ મહેનતનો છે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "Feeling-before-picture. The first sentence of `explanation` must name the singer with the એકતારો, using `એકતારે` or `ગાઈ ગાઈને` from this topic's `original_chunk` — that man is the only thing in this કડી the child can see and hear. Opening instead on the proposition (`ખુદનો ભરોસો`, `આત્મબળ`, `સાચો ભરોસો કયો`) before the picture is a fail.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Slogan gate. No sentence of `explanation`, `real_life_example`, any of the three summaries, any `concept_bullets`/`important_points` line or any `recall_questions[].answer` may run `ભગવાનને બદલે પોતાના પર ભરોસો રાખવો જોઈએ` / `પહેલાં જાતે મહેનત કરવી જોઈએ` or any other `… જોઈએ` clause; `જોઈએ` occurs nowhere in this `original_chunk`. The કડી's own closing verb is `પિછાણીએ`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Skipping the craft. With `figures_of_speech` `[]`, at least one sentence of `explanation` must name this કડી's sound work from its own words: `ખોટું રે ખોટું` said twice over, `ગાઈ ગાઈને` doubled, or `નકામ` and `રામ !` closing the કડી's two short lines with the same sound.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "The condition must travel with the claim. `નકામ` is said only of the man the કડી's first line names — `ખુદનો ભરોસો જેને હોય નહીં રે તેને`. Every sentence of `explanation`, `summary`, `detailed_summary` or a `recall_questions[].answer` that mentions `ખુદાનો ભરોસો` or quotes `'તારે ભરોસે રામ !'` must carry that condition in the same sentence or the one immediately before it. A bare sentence of the form `ખુદાનો ભરોસો નકામ છે` / `ભગવાન પર ભરોસો રાખવો નકામો છે` fails. (Sensitivity item, not on this profile's hard avoid list; agents/08_sensitivity_safety.md owns the fuller treatment.)",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        },
+        {
+          "check": "Whose voice. `'તારે ભરોસે રામ !'` is what the એકતારે ગાનાર sings — the poem sets it in quotation marks. No sentence of `explanation`, any summary or a `recall_questions[].answer` may present that line as the poet's own words, as the poem's advice, or as something the child should say.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        },
+        {
+          "check": "ટેક shorthand, expansion in the explanation only. This is the first કડી to close on the printed shorthand `- હો ભેરુ.`. `explanation` must say once, in words, that it stands for the whole refrain `હો ભેરુ મારા, આપણે ભરોસે આપણે હાલીએ...` sung again at this point (the ટેક itself is taught in `M1.S1.T1`, which this topic lists in `depends_on`). The expansion may appear only in `explanation` — `original_chunk` keeps `- હો ભેરુ.` exactly as printed.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "'ખુદનો' અને 'ખુદાનો' એકબીજાની નીચેની પંક્તિમાં છપાયા છે અને બંને વચ્ચે એક જ માત્રાનો ફેર છે. હિન્દી જાણતું બાળક 'ખુદ'ને પણ 'ખુદા' વાંચી લે છે, એટલે કડી 'જેને ખુદાનો ભરોસો ન હોય તેને ખુદાનો ભરોસો નકામ' જેવી અર્થ વગરની — કે પછી શ્રદ્ધા સામેની — વાત બની જાય છે.",
+      "correction": "સમજૂતીનાં પહેલાં વાક્યોમાં બંને શબ્દ સાથે મૂકીને ગ્લોસ કરો — 'ખુદ — પોતે, જાત' અને 'ખુદા — ઈશ્વર' — અને બતાવો કે બંને વચ્ચે એક જ માત્રાનો ફેર છે. પછી કડીની આખી શરત સાદી ગુજરાતીમાં ફરી કહો : વાત એ માણસની છે જેને 'ખુદનો ભરોસો' નથી, ને એકતારો લઈને ગાયા કરતા માણસનું ચિત્ર પણ એ જ માણસનું છે."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Feeling-before-picture. The first sentence of `explanation` must name something touchable from this topic's `original_chunk` — `બાહુમાં`, `હૈયામાં`, `વહાણનાં`, `સઢ`, `સુકાનને` or `સાગર`. A first sentence that opens on હિંમત, આત્મબળ or સ્વાવલંબન as a quality, before the arm and the boat are on the page, fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Slogan gate. No sentence of `explanation`, `real_life_example`, any summary, any `concept_bullets`/`important_points` line or any `recall_questions[].answer` may run `હિંમત રાખવી જોઈએ` / `જાતે મહેનત કરવી જોઈએ` / `પોતાનું કામ પોતે કરવું જોઈએ` or any other `… જોઈએ` clause; the કડી's own verbs are `ઝુકાવીએ` and `સંભાળીએ`, and `જોઈએ` is not in this `original_chunk`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Literal reading of a figurative line. No sentence of `explanation`, any summary or a `recall_questions[].answer` may state as fact that the poet, the ભેરુ or the child actually sailed a boat, nor turn the કડી into instruction about દરિયો, પવન, ભરતી-ઓટ or વહાણ ચલાવવું. `સઢ` and `સુકાન` are glossed as the boat's parts in `key_terms`; beyond that gloss, no field may add a claim about a real voyage that the poem does not make.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Skipping the craft. With `figures_of_speech` `[]`, at least one sentence of `explanation` must name this કડી's sound work from its own words: `ભરી` and `ધરી` chiming inside the first line, or `ઝુકાવીએ` and `સંભાળીએ` closing the કડી's two halves alike, or the બ-sound running through `બળને બાહુમાં ભરી`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Never modernise the poet. `મોઝારે` stays exactly as printed wherever the verse is quoted in `explanation`, `modified_chunk`, `key_terms` or a `recall_questions[]` stem; it is glossed (`મોઝારે — મધ્યે, વચ્ચે`, the printed શબ્દાર્થ box's own words) and never replaced by `વચ્ચે` inside a quoted line, never called a spelling error. Same for the printed `આપણા વહાણનાં` with its અનુસ્વાર on `વહાણનાં` and none on `આપણા`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'ઝુકાવીએ' હિન્દીના 'ઝુકના' જેવું દેખાય છે, એટલે બાળક એને 'નમીએ, ઝૂકીએ' સમજી લે છે. પછી 'સાગર મોઝારે ઝુકાવીએ'નો અર્થ 'દરિયા આગળ નમી જઈએ' થઈ જાય — જે કડીના ચિત્રથી સાવ ઊંધું છે, કેમ કે અહીં તો બળ ને હામ ભરીને વહાણ દરિયામાં હંકારવાની વાત છે.",
+      "correction": "'ઝુકાવીએ — વહાણ દરિયામાં હંકારીએ, ઝંપલાવીએ' એમ પહેલી વાર આવે ત્યાં જ ગ્લોસ કરો, અને સાથે 'મોઝારે — મધ્યે, વચ્ચે' મૂકીને આખી પંક્તિ સાદી ગુજરાતીમાં ફરી કહો : 'દરિયાની વચ્ચે વહાણ હંકારીએ.' પછી બાહુમાં ભરેલા બળનું અને હાથમાં રહેલાં સઢ-સુકાનનું ચિત્ર બતાવો — નમી ગયેલા માણસનું નહીં."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "Feeling-before-picture. The first sentence of `explanation` must use `ડુબાડે`, `ઉગારે` or `સામે પાર` from this topic's `original_chunk` — someone going under, someone being pulled out, someone being carried across. A first sentence that opens on આત્મનિર્ભરતા, 'આ ગીતનો સંદેશ' or 'કવિનો બોધ' fails, and it fails hardest here because this is the closing કડી.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Slogan gate, closing-topic form. The last sentence of `explanation`, the last sentence of `detailed_summary` and the last sentence of every `recall_questions[].answer` in this topic must land on this કડી's own words — `આપણે જ આપણે છઈએ`, `કરવૈયો`, `સામે પાર` — and not on a rule of conduct. No clause of the shape `આપણે … જોઈએ`, `જાત મહેનત કરવી જોઈએ`, `પોતાના પર ભરોસો રાખવો જોઈએ` anywhere in this topic's fields, in any summary, bullet or recall answer.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Political framing. No `explanation`, `real_life_example`, summary, bullet or `recall_questions[].answer` may name a government, party, scheme, campaign, army or state slogan (`આત્મનિર્ભર ભારત`, `સ્વચ્છ ભારત`, `મેક ઇન ઇન્ડિયા` …). The chapter's own printed writing topic `'જાત મહેનત જિંદાબાદ'` belongs to `exercise_solutions.json` and may not be lifted into this topic's teaching prose as the poem's message.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Never modernise the poet, and keep the two printed spellings apart. The verse prints `કો` (no apostrophe) and `છઈએ`; the સ્વાધ્યાય's MCQ on a later printed page prints the same line as `કો'` and `છીએ`. Wherever this topic quotes the verse — `explanation`, `modified_chunk`, `key_terms`, a `recall_questions[]` stem or answer — `કો` and `છઈએ` must appear exactly as the verse prints them, glossed (`કો — કોઈ`, `છઈએ — છીએ`) and never corrected inside the quotation; no field may call either form a mistake.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Skipping the craft. With `figures_of_speech` `[]`, at least one sentence of `explanation` must name this કડી's sound work from its own words: `કોણ રે … કોણ રે … કોણ` asked three times over, the લય-carrying `રે`, or the doubling in `આપણે જ આપણે છઈએ`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No answer the કડી does not give. No sentence of `explanation`, any summary or a `recall_questions[].answer` may answer this કડી's three `કોણ` questions with an agent the કડી does not name — ઈશ્વર, ખુદા, રામ, નસીબ, કુદરત, દરિયો. The કડી answers itself, in its own two closing lines: `એનો કરવૈયો કો આપણી બહાર નહીં,` and `આપણે જ આપણે છઈએ`.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "'એનો કરવૈયો કો આપણી બહાર નહીં'માં 'કો' અવતરણચિહ્ન વગર છપાયું છે. હિન્દી વાંચતું બાળક એને હિન્દીમાં નામની પાછળ આવતા જોડતા શબ્દ જેવો સમજી લે છે — 'કરવૈયાને' એવો અર્થ કરી બેસે છે — અથવા તો 'કો'ને 'કોણ' વાંચી લે છે. બંને રીતે પંક્તિનો અર્થ તૂટી પડે છે, ને છેલ્લી પંક્તિ 'આપણે જ આપણે છઈએ' શેનો જવાબ છે તે બાળક સુધી પહોંચતું જ નથી.",
+      "correction": "'કો — કોઈ' એમ પહેલી વાર આવે ત્યાં ગ્લોસ કરો અને પંક્તિ સાદી ગુજરાતીમાં ફરી કહો : 'એ કરનારું કોઈ આપણી બહાર નથી.' સાથે કહો કે લય સાચવવા કવિએ 'કોઈ'નું ટૂંકું રૂપ વાપર્યું છે, ભૂલ નથી. એ પછી જ 'આપણે જ આપણે છઈએ' પર આવો, ને બતાવો કે એ પહેલાંના ત્રણ 'કોણ'નો જવાબ છે."
+    }
+  ],
+  "chapter_level": [
+    "Standing L2 script-and-register hazard, whole poem. The song runs on તળપદાં and લય forms — હાલીએ, ભેરુ, ઝાલીએ, નકામ, છો ને, પિછાણીએ, મોઝારે, કો, છઈએ, and the લય-carrying રે in `હોય નહીં રે તેને`, `ખોટું રે ખોટું`, `કોણ રે ડુબાડે`. Every one of them is explained as બોલી or as લય at the point of use and none is ever corrected toward માનક ગુજરાતી inside a quoted line, or called a mistake. An L2 child already half-suspects poem-Gujarati of being broken Gujarati; a single 'correction' anywhere in the chapter teaches that suspicion.",
+    "Printed inconsistency inside this one chapter, recorded not repaired. The verse on the first printed page sets `કો` and `છઈએ`; the MCQ block on a later printed page quotes the same line as `કો'` and `છીએ`. Reading scenes quote the verse's forms; Agent 10 answers the exercise from the exercise's own printed wording. Neither spelling may be presented to the child as the wrong one.",
+    "Sensitivity, standing across the chapter. The first કડી names both ખુદા and રામ, and the એકતારો and its singer are a devotional image. The song's argument is શ્રમ and આત્મબળ, addressed even-handedly in the poet's own idiom; it is not a claim about either tradition. No topic, summary or recall answer may turn any કડી into a lesson about faith, a comparison of religions, or a statement that praying is useless. agents/08_sensitivity_safety.md owns the full treatment; this is the standing boundary.",
+    "Std-7 genre gate has a consequence for the craft rule. At std 7 the સ્વરૂપ is experienced and never labelled: no અલંકાર, છંદ or genre tag anywhere in the plan, and `figures_of_speech` stays `[]` at every tier. This profile's 'skipping the craft' gate can therefore only be satisfied in prose — every one of the four poem topics must carry one sentence of `explanation` naming its own પ્રાસ, લય, પુનરાવર્તન or ધ્વનિ in plain child words, quoting the કડી's printed syllables and never a device name.",
+    "The ટેક is identical at all five occurrences (`tek_words_changed: false`), so it is taught once in M1.S1.T1 and referenced afterwards through `depends_on`. No later topic may re-teach the refrain as new material, and no `original_chunk` may expand the printed shorthand `- હો ભેરુ.`; the expansion belongs in `explanation` only.",
+    "Slogan pressure is chapter-wide, not merely per-topic, because the printed apparatus supplies ready-made slogans: the exercise paraphrase `દોસ્ત, આપણે આપણા ભરોસે જ જીવવું જોઈએ` and the writing topic `'જાત મહેનત જિંદાબાદ'`. Both are printed exercise text and belong to `exercise_solutions.json` alone; neither may be quoted, echoed or reworded inside any topic's teaching fields as the poem's message.",
+    "The std-7 real-life-example failure mode meets this chapter's sea picture. `real_life_example` must not become a description of a દરિયાકિનારો, a boat, a fishing village or a place at all — a list has no ભાવ. One moment with a before and an after inside it, in the child's own experience (the hand that let go of the cycle and the cycle kept going), per profiles/students/std-7.md §2.",
+    "No numbers in display text, standing. `પહેલી કડીમાં`, `બીજી કડીમાં`, `ટેકની પંક્તિમાં`, `સ્વાધ્યાયનો પહેલો ભાગ` — never `કડી 1`, `પ્રશ્ન 4`. Numbers survive only in ids and provenance fields."
+  ]
+}

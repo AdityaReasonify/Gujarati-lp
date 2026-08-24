@@ -1,0 +1,422 @@
+{
+  "chapter_id": "gseb_eng_gujarati6_ch14",
+  "plan_id": "gseb_eng_gujarati6_ch14_v1",
+  "grade": 6,
+  "subject": "Gujarati",
+  "level": "standard",
+  "chapter_name": "એક છોકરો રિસાણો",
+  "genre": "samvad_nibandh",
+  "active_genre_profiles": [
+    "samvad_nibandh.md",
+    "natak_ekanki.md"
+  ],
+  "teaching_lens": "તર્ક + દૃષ્ટિકોણ + જવાબદારી",
+  "guiding_question": "મનન કઈ વાત પર રિસાય છે, અને ઘરનાં કયાં કયાં પગલાં પછી એ પોતે જ પોતાનો રસ્તો કાઢે છે ?",
+  "explanation_unit": "સંવાદનું એક પગલું — વાંધો, સ્વીકાર, પુરાવો કે સવાલ (વારો વચ્ચેથી કપાય નહીં)",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઝલક શાળાના પ્રવાસની ખબર મમ્મીને કઈ રીતે કહે છે તે વાંચીને, એ કઈ કઈ વાતથી જવાની રજા માગે છે તે પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "આજવા-નિમેટામાં શું શું જોવા મળે એ ઝલક અને પપ્પા જે કહે છે તે તારવીને, એ સાંભળ્યા પછી મનન શી માગણી કરે છે તે જણાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2",
+        "M1.S1.T2.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મમ્મી મનનને મનાવવા કયા કયા રસ્તા અજમાવે છે અને દીદી તથા મમ્મી ના પાડવાનું શું કારણ આપે છે તે સરખાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C4",
+        "M1.S2.T3.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પપ્પા મનનની વાત પહેલાં સાચી ગણીને પછી કરસનકાકાની વાડીની જે દરખાસ્ત મૂકે છે, તેમાં મનનને શું શું મળવાનું છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગામડાના આકાશની વાત સાંભળ્યા પછી મનન જાતે જે નિર્ણય લે છે તે જણાવીને, એ નિર્ણય શાથી બધાંને ગમે છે તે વિચારવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S4.T5",
+      "anchor": [
+        "M2.S4.T5.C7",
+        "M2.S4.T5.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "પ્રવાસની ખબર ને રિસામણાં",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "પ્રવાસની વાત ઘરમાં આવે છે",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "દીદી લાવી પ્રવાસની ખબર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "ઝલક : મમ્મી, ઓ મમ્મી, સાંભળે છે ?\nવનિતાબેન : હા, બેટા, આવી ગઈ સ્કૂલેથી ? ચાલ, હાથ - પગ ધોઈ લે. તને દૂધ આપી દઉં.\nઝલક : મમ્મી, મારી વાત તો સાંભળ.\nવનિતાબેન : બોલ, શું કહે છે ? આજે કંઈ થયું લાગે છે. બેનબા બહુ ખુશ છે ને કાંઈ ?\nઝલક : હા મમ્મી, આજે સ્કૂલમાં નોટિસ આવી હતી. પ્રવાસમાં જવાનું છે, એક દિવસના.\nવનિતાબેન : વાહ, ક્યાં જવાનું છે ?\nઝલક : અમને છે ને, આજવા - નિમેટા લઈ જવાના છે.\nવનિતાબેન : અરે, એ તો વડોદરા પાસે છે ને ? તને યાદ છે, આપણે મોહનકાકા સાથે ગયાં હતાં ? પણ તું એ વખતે નાની હતી, અને ભાઈલુ તો હતો જ નહીં.\nઝલક : પણ મમ્મી, એવું તો કંઈ યાદ નથી. પણ સ્કૂલમાંથી બહેનપણીઓ સાથે જઈએ તો કેટલી મજા આવે. બધી બહેનપણીઓ સાથે બસમાં જવાનું... બસમાં ગીતો ગાવાનાં... રમવાનું, ત્યાં જઈને પણ સાથે રમવાનું, જમવાનું, તોફાન કરવાનું... કેટલી મજા પડી જાય નહીં ?\nવનિતાબેન : વાત તો સાચી છે. મજા ખૂબ આવે અને શીખવાનું પણ ઘણું મળે.\nઝલક : તો હું જઉં ને ?\nવનિતાબેન : હમણાં તારા પપ્પા જોડે વાત કરી લઈએ.",
+              "source_span": {
+                "marker": "[[સંવાદ: ઝલક અને વનિતાબેન]]",
+                "pages": "92",
+                "first_turn": "ઝલક : મમ્મી, ઓ મમ્મી, સાંભળે છે ?",
+                "last_turn": "વનિતાબેન : હમણાં તારા પપ્પા જોડે વાત કરી લઈએ.",
+                "turn_count": 12
+              },
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "પ્રવાસની નોટિસ ને રજા માગવી",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "ઝલક શાળાએથી ઘરે આવીને મમ્મી વનિતાબેનને એક ખબર આપે છે — શાળામાં નોટિસ (લેખિત જાણ) આવી છે અને એક દિવસના પ્રવાસમાં આજવા-નિમેટા જવાનું છે. મમ્મી કહે છે કે એ જગ્યા વડોદરા પાસે છે અને ઝલક નાની હતી ત્યારે એ ત્યાં જઈ આવી છે. ઝલક બહેનપણીઓ સાથે બસમાં ગાવા-રમવાની ને ત્યાં જઈને તોફાન (મસ્તી) કરવાની મજાની વાત કરીને જવાની રજા માગે છે. મમ્મી હા કે ના કહેવાને બદલે એટલું કહે છે કે પપ્પા જોડે વાત કરી લઈએ.",
+              "word_count": {
+                "original": 186,
+                "modified": 76
+              },
+              "key_terms": [
+                "પ્રવાસ — મુસાફરી, ફરવા જવાનું",
+                "નોટિસ — શાળા તરફથી અપાતી લેખિત જાણ; અંગ્રેજીમાંથી આવેલો શબ્દ",
+                "બહેનપણીઓ — સાથે ભણતી-રમતી સખીઓ",
+                "બેનબા — દીકરીને વહાલથી બોલાવવાનું સંબોધન",
+                "તોફાન — (અહીં) મસ્તી, ધમાલ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "આજવા-નિમેટાનું ચિત્ર ને ભઈલુંની માગણી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "મહેશભાઈ : અરે, હું અહીં જ છું. ક્યાં જવાનું છે, મારી દીકરીને ?\nમનન : ક્યાં જવાનું છે ?... કોણ જવાનું છે ?\nઝલક : ભઈલું,  હું છે ને, પ્રવાસમાં જવાની છું, સ્કૂલમાંથી.\nમનન : હેં, ક્યાં જવાની ?\nઝલક : અમે આજવા-નિમેટા જવાના છીએ. અમે બધી બહેનપણીઓ, સાથે જવાની...\nમનન : આજવા - નિમેટા ? એ શું વળી ?\nઝલક : ત્યાં મોટું સરોવર છે, ત્યાં મોટો બગીચો છે. ત્યાં લપસણી, હીંચકા એ બધું તો છે જ. ઉપરાંત ત્યાં જુદીજુદી રાઈડ્સ પણ છે.\nમનન : ઓહો... તો તો બહુ મજા પડે.\nઝલક : અને ભઈલું,  તને ખબર છે ? ત્યાં રાત્રે બહુ જ સરસ લાઈટિંગ થાય છે અને ત્યાં મ્યુઝિકલ ફાઉન્ટેન પણ છે.\nમનન : એટલે શું ?\nમહેશભાઈ : મ્યુઝિકલ ફાઉન્ટેન્સ એટલે ફુવારા તો ખરા જ પણ એની ગોઠવણ એવી રીતે કરી હોય કે એની પાણીની સેર સંગીતના સૂરની સાથે ઊંચી-નીચી થાય, એટલે જાણે પાણી સંગીતના તાલે ડાન્સ કરતું હોય એવું લાગે.\nવનિતાબેન : અને એની પર જુદા જુદા રંગનો પ્રકાશ પણ ફેંકાય. એટલે જોવાની ખૂબ મજા પડે.\nમનન : મારે પણ દીદી સાથે જવું છે.\nઝલક : ભઈલું,  આ તો મારી સ્કૂલનો પ્રવાસ છે. તારાથી ના અવાય.\nમનન : ના કેમ અવાય ? મારે આવવું છે.\nવનિતાબેન : બેટા, તારી સ્કૂલમાંથી પ્રવાસ જાય, ત્યારે તું જજે.\nમનન : ના, હું તો દીદી સાથે જવાનો. મારે પણ દીદી જેવી મજા કરવી છે.",
+              "source_span": {
+                "marker": "[[સંવાદ: મનન, ઝલક, વનિતાબેન અને મહેશભાઈ]]",
+                "pages": "92–93",
+                "first_turn": "મહેશભાઈ : અરે, હું અહીં જ છું. ક્યાં જવાનું છે, મારી દીકરીને ?",
+                "last_turn": "મનન : ના, હું તો દીદી સાથે જવાનો. મારે પણ દીદી જેવી મજા કરવી છે.",
+                "turn_count": 17,
+                "illustration_inside": "[[ચિત્ર: પૃષ્ઠ 93]]"
+              },
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "આજવા-નિમેટામાં શું શું છે",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S1.T2.C3",
+                  "concept_name": "ભઈલુંની માગણી ને પહેલો ઇનકાર",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "પપ્પા મહેશભાઈ અને નાનો ભાઈ મનન વાતમાં જોડાય છે. ઝલક કહે છે કે આજવા-નિમેટામાં મોટું સરોવર (તળાવ), મોટો બગીચો, લપસણી, હીંચકા અને જુદીજુદી રાઈડ્સ છે, રાત્રે લાઈટિંગ થાય છે અને મ્યુઝિકલ ફાઉન્ટેન પણ છે. પપ્પા સમજાવે છે કે એમાં પાણીની સેર (ધાર) સંગીતના તાલે ઊંચી-નીચી થાય છે, અને મમ્મી ઉમેરે છે કે એના પર જુદા જુદા રંગનો પ્રકાશ ફેંકાય છે. આ સાંભળીને મનન કહે છે કે મારે પણ દીદી સાથે જવું છે, અને ઝલક તથા મમ્મી બંને ના પાડે છે.",
+              "word_count": {
+                "original": 224,
+                "modified": 80
+              },
+              "key_terms": [
+                "સરોવર — મોટું તળાવ",
+                "લપસણી — ઉપરથી સરકીને નીચે આવવાનું રમતનું સાધન",
+                "ફુવારા — પાણી ઊંચે ઉડાડતાં સાધનો; અંગ્રેજીમાં એને ફાઉન્ટેન કહે છે",
+                "ગોઠવણ — ગોઠવવાની રીત, રચના",
+                "સેર — (અહીં) પાણીની ધાર",
+                "તાલ — સંગીતના સૂરનું માપ, ઠેકો"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "રીસ ને એની સામેનાં કારણો",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "રિસાયેલો ભઈલું ને ઘરનાં કારણો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "ઝલક : ભઈલું,  ખોટી જીદ ન કર. તારાથી ન અવાય.\nવનિતાબેન : મનન, તું સમજતો કેમ નથી ? તારાથી દીદીના સ્કૂલના પ્રવાસમાં ન જવાય.\nમનન : તને તો બસ દીદી જ વહાલી છે. દીદીએ કીધું એટલે એને પ્રવાસમાં મોકલે છે, મને નથી મોકલતી.\nવનિતાબેન : અરે બેટા, તું તો મારો રાજા દીકરો છે. મારી વાત તો સમજ.\nમનન : તમે મારી વાત ક્યાં સમજો છો ? મને પણ દીદીની સાથે મજા કરવી છે. તમે ના પાડો છો !\nવનિતાબેન : અરે બેટા... આમ ઊભો થઈને જતો ન રહે. મારી વાત તો સાંભળ.\nમનન : મારે કોઈની વાત સાંભળવી જ નથી ને.\nવનિતાબેન : અરે ભઈલું, આજે સાંજે તારા માટે શું બનાવું ?\nમનન : રહેવા દે મમ્મી, મને ખબર છે, તું મને ફોસલાવે છે. પણ મારે સાંજે જમવું જ નથી.\nવનિતાબેન : ચલ, જમવું નથી, તો શું કરવું છે ? આપણે બહાર જવું છે ?\nમનન : મારે તમારી સાથે ક્યાંય નથી આવવું.\nવનિતાબેન : એવું કરીએ, આજે રાત્રે સરસ પિક્ચર ચાલુ કરીએ. હું તને ચીઝ પોપકોર્ન ફોડી આપીશ.\nમનન : ક્યું પિક્ચર ?\nવનિતાબેન : તું કહે તે.\nમનન : ના ના, આ તો તું એમ જ કહે છે. આજે હું તારી વાત માનવાનો જ નથી ને. મારે દીદી જોડે જવું છે એટલે જવું જ છે.\nઝલક : પછી આખો દિવસ મારે તને સાચવ્યા કરવાનો ? હું તો મારી બહેનપણી સાથે રમું કે તારું ધ્યાન રાખ્યા કરું ? અજાણી જગ્યાએ તું ક્યાંક જતો રહે તો ? પાછો તું કોઈનું સાંભળતો પણ નથી.\nમનન : ના ના, દીદી. હું તારું બધું સાંભળીશ. તું જે કહીશ તે માનીશ. પણ મને તારી સાથે આવવું છે.\nવનિતાબેન : પણ એ બધી વાત જ નકામી છે. સ્કૂલના પ્રવાસમાં શિક્ષકો એમના વિદ્યાર્થીઓનું ધ્યાન રાખે કે બહારના છોકરાઓનું ? એ લોકો એવી રીતે બહારનાં બાળકોને ન લઈ જઈ શકે.\nમનન : તું પૂછ્યા વગર જ ના પાડી દે છે ને... જોઈ લીધાં તમને બધાંને. તમને દીદી જ ગમે છે. તમે દીદીની જ વાત સાંભળો છો.\nવનિતાબેન : મનન, આ તું કેવી વાત કરે છે ?\nમનન : મારે કોઈની સાથે વાત જ નથી કરવી.",
+              "source_span": {
+                "marker": "[[સંવાદ: મનન, વનિતાબેન અને ઝલક]]",
+                "pages": "94",
+                "first_turn": "ઝલક : ભઈલું,  ખોટી જીદ ન કર. તારાથી ન અવાય.",
+                "last_turn": "મનન : મારે કોઈની સાથે વાત જ નથી કરવી.",
+                "turn_count": 21
+              },
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C4",
+                  "concept_name": "મમ્મીનાં મનામણાં ને મનનનો ઇનકાર",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S2.T3.C5",
+                  "concept_name": "દીદી ને મમ્મી પોતાનાં કારણો આપે છે",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "મનન જીદ (હઠ) પકડે છે અને ઘરનાં બધાં સાથે રિસાઈ જાય છે. એ મમ્મીને કહે છે કે તમને દીદી જ વહાલી છે, અને ઊભો થઈને જતો રહે છે. મમ્મી એને મનાવવા એક પછી એક રસ્તા અજમાવે છે — સાંજે ભાવતું બનાવવાનું, બહાર ફરવા જવાનું, રાત્રે પિક્ચર અને ચીઝ પોપકોર્ન — પણ મનન દરેક વાત નકારે છે અને કહે છે કે તું મને ફોસલાવે (મીઠી વાતે મનાવે) છે. સામે ઝલક કહે છે કે અજાણી જગ્યાએ એને સાચવવો પડે, અને મમ્મી કહે છે કે શિક્ષકો બહારનાં બાળકોને લઈ જઈ ન શકે.",
+              "word_count": {
+                "original": 338,
+                "modified": 89
+              },
+              "key_terms": [
+                "જીદ — હઠ, પોતાની જ વાત પકડી રાખવી",
+                "ફોસલાવવું — મીઠી વાત કરીને મનાવી લેવું",
+                "સાચવવું — સંભાળ રાખવી, ધ્યાન રાખવું",
+                "અજાણી — જેની ઓળખ ન હોય એવી, અજાણ્યી",
+                "નકામી — કશા કામની નહીં, વ્યર્થ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "મનામણાં ને મનનની સમજણ",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "પપ્પાનો બીજો રસ્તો",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "કરસનકાકાની વાડીની દરખાસ્ત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S2.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "મહેશભાઈ : મારી સાથે પણ વાત નહીં કરે.\nમનન : પપ્પા, જુઓને, મમ્મી દીદીના ટીચર જોડે વાત કરવાની પણ ના પાડે છે.\nમહેશભાઈ : તું મારી વાત સાંભળને, આપણે બે જ વાત કરીએ.\nમનન : હેં પપ્પા, આપણે બે જ.\nમહેશભાઈ : હા, આપણે બે જ.\nમનન : શું કહો છો, પપ્પા ?\nમહેશભાઈ : તારી વાત તો સાચી છે બેટા.\nમનન : હેં ને પપ્પા. હું ક્યારનો એ જ તો મમ્મીને કહું છું. પણ એ સમજતી જ નથી ને. તમે દીદીના  ટીચરને વાત કરશો ?\nમહેશભાઈ : અરે પણ, પહેલાં મારી વાત તો પૂરી સાંભળ.\nમનન : હા હા, તમે બોલો.\nમહેશભાઈ : દીદી ભલે પ્રવાસમાં જતી. હું તને ક્યાંક લઈ જાઉં તો ?\nમનન : ક્યાં લઈ જશો પપ્પા ?\nમહેશભાઈ : તું કોઈ દિવસ ઝાડ પર ચડ્યો નથી. બરાબરને ? આપણે કરસનકાકાની વાડીએ જઈએ તો કેવું ?\nમનન : શું વાત કરો છો પપ્પા ! તો તો ખૂબ મજ્જા પડશે.\nમહેશભાઈ : તો જ્યારે તારે બે દિવસની રજા આવે ત્યારે ઊપડીએ.\nમનન : એ પપ્પા આ કરસનકાકા કોણ છે ?\nમહેશભાઈ : એ મારા મિત્ર છે. અમે સાથે ભણતા. આપણે એમની વાડીએ જઈએ ત્યાં તું ઝાડ પર ચડી શકીશ.\nમનન : ખરેખર ? પણ હું પડી જાઉં તો ?\nમહેશભાઈ : અરે બેટા, હું તારી સાથે જ હોવાનો ને !\nમનન : હં, બરાબર. પછી ?\nમહેશભાઈ : ત્યાં વાડીમાં બધે પાણી પાવા એમણે એક મોટી ખુલ્લી ટાંકી બનાવી છે. એમાં તમે ડૂબકી મારીને નાહી શકશો.\nમનન : ખરેખર, પપ્પા ?\nમહેશભાઈ : બેટા, આખો દિવસ આપણે ફળોની વાડીમાં ફરીશું. ઝાડ પર ચડીશું, પાણીમાં નહાઈશું અને ગામડાનું સરસ મીઠું ભોજન જમીશું.",
+              "source_span": {
+                "marker": "[[સંવાદ: મહેશભાઈ અને મનન]]",
+                "pages": "95–96",
+                "first_turn": "મહેશભાઈ : મારી સાથે પણ વાત નહીં કરે.",
+                "last_turn": "મહેશભાઈ : બેટા, આખો દિવસ આપણે ફળોની વાડીમાં ફરીશું. ઝાડ પર ચડીશું, પાણીમાં નહાઈશું અને ગામડાનું સરસ મીઠું ભોજન જમીશું.",
+                "turn_count": 23,
+                "illustration_inside": "[[ચિત્ર: પૃષ્ઠ 95]]"
+              },
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C6",
+                  "concept_name": "પહેલાં સાંભળવું, પછી વાડીની દરખાસ્ત",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "પપ્પા મહેશભાઈ મનનને એકલો પોતાની પાસે લે છે અને 'તારી વાત તો સાચી છે બેટા' કહીને પહેલાં એની વાત સાંભળે છે. પછી એ સામી દરખાસ્ત મૂકે છે — દીદી ભલે પ્રવાસમાં જાય, આપણે એમના મિત્ર કરસનકાકાની વાડીએ (ફળ-ઝાડ વાવેલા ખેતરે) જઈએ. પપ્પા કહે છે કે ત્યાં મનન ઝાડ પર ચડી શકશે, પાણી પાવાની મોટી ખુલ્લી ટાંકીમાં ડૂબકી મારીને નાહી શકશે અને ગામડાનું મીઠું ભોજન જમશે. મનન 'તો તો ખૂબ મજ્જા પડશે' કહીને 'પછી ?', 'ખરેખર, પપ્પા ?' એમ પૂછતો જાય છે.",
+              "word_count": {
+                "original": 264,
+                "modified": 81
+              },
+              "key_terms": [
+                "વાડી — ફળ-ઝાડ વાવેલી ખેતરની જમીન",
+                "ઊપડીએ — નીકળી પડીએ, જવા માટે ઊપડવું",
+                "ટાંકી — પાણી ભરી રાખવાનું મોટું ખુલ્લું પાત્ર, હોજ",
+                "ડૂબકી — પાણીમાં આખા ડૂબીને લેવાતી બોળ",
+                "ભોજન — જમવાનું, ખાવાનું",
+                "મજ્જા — 'મજા'નું બોલચાલમાં વપરાતું ભારવાળું રૂપ; ભૂલ નથી"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "સૌ સાથે ને મનનનો પોતાનો નિર્ણય",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T5",
+              "topic_name": "ગામડાનું આકાશ ને મનનનો નિર્ણય",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "વનિતાબેન : અને બીજી એક વાત.\nમનન : શું મમ્મી ?\nવનિતાબેન : અહીં શહેરમાં રાત્રે લાઈટો ચાલુ હોય છે એટલે તમને આખું આકાશ. તારા એવું બધું એટલું સરસ ન દેખાય. પણ ગામડાની વાડીમાં બધે લાઈટો ન હોય. એટલે આખું આકાશ એટલું સરસ દેખાય કે વાત ન પૂછો. એમાંયે તારા તો એવા ચમકતા લાગે કે તને એમ થશે કે તારા કેટલા નજીક આવી ગયા છે !\nમનન : હં, બહુ મજા આવે. દીદી, તું તારે આજવા - નિમેટા જા. હું તો ગામડે જઈશ.\nઝલક : હું પણ આવીશ.\nમહેશભાઈ : મનન, આપણે શું કરીશું ? દીદીને સાથે લઈ જઈશું ?\nમનન : ના, દીદી મને નથી લઈ જતી, તો હું દીદીને નહીં લઈ જઉં. પણ ના... ના.. મને દીદી વગર તો મજા ના આવે. મને દીદી તો જોઈએ.\nવનિતાબેન : તો હવે શું કરવું છે ?\nમનન : મેં નક્કી કરી લીધું. અત્યારે ભલે દીદી એના પ્રવાસમાં જઈ આવે. પણ મારે રજા હશે ત્યારે આપણે બધાં સાથે કરસનકાકાને ત્યાં જઈશું.\nમહેશભાઈ : જોયું ? મારો દીકરો કેટલો સમજદાર છે !",
+              "source_span": {
+                "marker": "[[સંવાદ: આખું કુટુંબ]]",
+                "pages": "96",
+                "first_turn": "વનિતાબેન : અને બીજી એક વાત.",
+                "last_turn": "મહેશભાઈ : જોયું ? મારો દીકરો કેટલો સમજદાર છે !",
+                "turn_count": 10
+              },
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T5.C7",
+                  "concept_name": "ગામડાની રાતનું આકાશ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S4.T5.C8",
+                  "concept_name": "મનન જાતે નક્કી કરે છે",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "મમ્મી છેલ્લી એક વાત ઉમેરે છે — શહેરમાં રાત્રે લાઈટો ચાલુ હોય એટલે આકાશ ને તારા એટલા સરસ દેખાતા નથી, પણ ગામડાની વાડીમાં લાઈટો ન હોય એટલે તારા એવા ચમકતા લાગે કે જાણે નજીક આવી ગયા હોય. મનન કહે છે કે દીદી ભલે આજવા-નિમેટા જાય, હું તો ગામડે જઈશ; ઝલક પણ સાથે આવવાનું કહે છે. પપ્પા દીદીને સાથે લઈ જવાનું પૂછે છે ત્યારે મનન પહેલાં ના પાડે છે અને પછી પોતે જ કહે છે કે મને દીદી વગર મજા ના આવે. છેલ્લે એ જાતે નક્કી કરે છે — અત્યારે દીદી એના પ્રવાસમાં જઈ આવે, ને રજા હશે ત્યારે બધાં સાથે કરસનકાકાને ત્યાં જવું.",
+              "word_count": {
+                "original": 170,
+                "modified": 103
+              },
+              "key_terms": [
+                "લાઈટો — દીવા, બત્તીઓ; અંગ્રેજીમાંથી આવેલો શબ્દ",
+                "ચમકતા — તેજથી ઝગમગતા",
+                "એમાંયે — 'એમાં પણ' માટેનું બોલચાલનું ટૂંકું રૂપ",
+                "નક્કી કરવું — મનમાં પાકું ઠરાવવું, નિર્ણય લેવો",
+                "સમજદાર — સમજણવાળો, વાત સમજી શકે એવો"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structure_notes": [
+    "CUT BASIS — the unit is 01_meta.json's 'સંવાદનું એક પગલું' read through samvad_nibandh.md's four moves (સ્થાપના → પડકાર → સ્વીકાર/પુરાવો → માગણી). The five topics are exactly the five moves the page makes: the trip is put on the table (T1); the picture of આજવા-નિમેટા creates મનનની counter-demand and gets its first refusal (T2); the રીસ peaks while both sides state their reasons (T3); પપ્પા concede and open a different road (T4); મમ્મી add the last piece and મનન himself settles it (T5). No boundary falls inside a speaker's turn.",
+    "MARKER ALIGNMENT — the cut is one-to-one with the five [[સંવાદ: …]] markers Agent 1 set; no marker is swallowed and no topic sits where no marker sits. Agent 1's extraction note says those markers are descriptive of who is speaking and 'NOT topic cuts'; that note and 02_structure.md's 'one marker, one topic' rule are reconciled here by the marker stretches genuinely coinciding with the argument-moves. Agent 4 should read the 5:5 count as intentional, not accidental.",
+    "PROFILE PRIOR — natak_ekanki.md's own near-miss row names THIS chapter and reads its beats as three ('મનન રિસાય છે → the father's counter-plan → મનન decides'). That is T3 → T4 → T5. The two setup moves (T1, T2) are added because the page makes them separately and a std-6 reader needs the trip described before the demand makes sense; the cut is therefore FINER than the profile prior, never coarser. No disagreement to escalate.",
+    "UNEVEN TOPIC LENGTH — T3 (twenty turns, all of printed p. 94) is the longest stretch and T5 (eleven turns) the shortest. T3 is held as ONE topic because nothing in it changes what anyone wants: મમ્મી try one મનામણું after another and મનન refuses each. Per samvad_nibandh.md ('the internal steps go into concepts[], not into extra topics') its two internal steps are C4 and C5. Splitting it into a મનામણાં topic and a કારણો topic would put a boundary inside a single move.",
+    "CONCEPT COUNTER — chapter-continuous C1…C8, so c equals t only for the one-concept topics (T1, T4). T2, T3 and T5 each carry two concepts because each genuinely does two separable things; no topic carries three.",
+    "WHAT WAS NOT CUT AS A TOPIC — the blue પ્રવેશપેટી (teacher-addressed apparatus), the શબ્દાર્થ box on p. 97, and all fifteen સ્વાધ્યાય blocks including the five-line nursery rhyme 'એક છોકરું  રિસાણું…' printed inside the ઘટનાવર્ણન block and the ચિત્રવર્ણન illustration on p. 100. Those stay in 01_meta.json's exercise_inventory for Agent 10. This chapter prints no in-text wrap, so there is no REVIEW topic — one was not invented.",
+    "STD-6 CEILING — no objective names an અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર, and none asks the child to name the form; the સંવાદ form is experienced, not labelled (profiles/students/std-6.md §3). No objective, name or segment/module name carries a digit. Every objective is grounded in this chapter's own printed names and lines (ઝલક, મનન, આજવા-નિમેટા, કરસનકાકાની વાડી, ગામડાનું આકાશ) and could fit no other chapter.",
+    "DIFFICULTY — set by what stops a std-6 L2 reader on the page, not by idea size. T1 easy (short home turns). T2 medium (the મ્યુઝિકલ ફાઉન્ટેન turn is one long sentence and the object-world — રાઈડ્સ, લાઈટિંગ, પાણીની સેર — is unfamiliar). T3 hard (twenty turns, ફોસલાવે / શિક્ષકો / વિદ્યાર્થીઓ, and the lines must be read for tone before they can be read for sense). T4 medium (વાડી, ડૂબકી — a village object-world a city child may not hold). T5 medium (the star-sky turn is one long nested sentence).",
+    "FOR AGENT 9 — the two reading-text illustrations sit INSIDE topics: p. 93's sofa/family picture inside T2 and p. 95's father-with-thought-bubble picture inside T4. The p. 100 beach illustration belongs to the final unnumbered ચિત્રવર્ણન exercise and is not a reading scene.",
+    "FOR AGENT 5 — source_span carries the marker, printed folio and the exact first and last printed turn of each topic so the verbatim boundaries are not re-derived. Markers and [[પૃષ્ઠ n]] / [[ચિત્ર: …]] lines are stripped before anything reaches original_chunk; the printed double spaces Agent 1 recorded (ભઈલું,  હું છે ને / દીદીના  ટીચરને) are kept as printed.",
+    "NO PAGE RENDER WAS OPENED — 00_chapter_normalized.md answered every question this cut needed, including illustration placement, which Agent 1 recorded as marker lines."
+  ],
+  "provenance_05": {
+    "agent": "05_verbatim_attachment",
+    "original_chunk_source": "00_chapter_normalized.md, copied line-for-line over the ranges named by each topic's source_span; [[…]] marker lines and blank lines stripped, nothing else altered",
+    "verification": "every attached line cross-read against the 150 dpi renders _renders/page-1.png … page-5.png (printed folios 92–96); turn counts recounted on the page and match source_span.turn_count (12 + 17 + 21 + 23 + 10 = 83, equal to 01_meta.json structure_inventory.dialogue_turns)",
+    "notes": [
+      "This chapter prints zero રંગસૂચના, so natak_ekanki.md's directions-are-text gate has nothing to attach; the count of '(' in every original_chunk is zero, matching the page.",
+      "Printed double spaces recorded by Agent 1 are preserved as printed: 'ભઈલું,  હું છે ને', 'ભઈલું,  ખોટી જીદ', 'ભઈલું,  આ તો', 'ભઈલું,  તને ખબર', 'દીદીના  ટીચરને'.",
+      "Printed-as-is oddities kept, not corrected: 'ભાઈલુ' on p. 92 against 'ભઈલું' elsewhere; 'મજ્જા' on p. 96; 'નહિ'/'નહીં' both in the book; the spaced ? and ! GSEB sets.",
+      "No Devanagari daṇḍa appears on these pages and none was introduced; the chapter's પૂર્ણવિરામ is '.' throughout. No Roman or Devanagari character occurs in any original_chunk.",
+      "The પ્રવેશપેટી, the શબ્દાર્થ box on p. 97, the p. 100 ચિત્રવર્ણન illustration and all fifteen સ્વાધ્યાય blocks — including the five-line rhyme 'એક છોકરું  રિસાણું…' printed inside a સ્વાધ્યાય block — are outside every original_chunk.",
+      "key_terms are chosen per topic from that topic's own chunk at the std-6 L2 bar (shabd_gloss.md: 4–6, sit high in the band). The printed શબ્દાર્થ box was read as evidence of difficulty, not emptied into the field; its entries ઉત્સાહ and ખંત do not occur in the reading text and are not used.",
+      "Every topic is one reading scene of the સંવાદ, so each carries primary_content_type 'image' with available_content_types ['image']; no second or third medium is planned. Agent 9 owns the prompts. The two printed illustrations (p. 93 inside T2, p. 95 inside T4) are the book's own, not a media plan."
+    ]
+  }
+}

@@ -1,0 +1,711 @@
+{
+ "agent": "05_verbatim_attachment",
+ "chapter_id": "gseb_eng_gujarati7_ch9",
+ "plan_id": "gseb_eng_gujarati7_ch9_v1",
+ "chapter_name": "અલ્લક દલ્લક",
+ "grade": 7,
+ "genre": "urmikavya_geet",
+ "active_genre_profiles": [
+  "urmikavya_geet.md"
+ ],
+ "teaching_lens": "ચિત્ર + ભાવ + લય",
+ "guiding_question": "અલ્લક, ઝલ્લક, ઢમ્મક, છલ્લક જેવા રણકતા શબ્દો દ્વારા કવિ જમનાકાંઠાની રાસની રાત આપણી નજર અને કાન સામે કઈ રીતે ઊભી કરે છે ?",
+ "explanation_unit": "એક કડી",
+ "objectives": [
+  {
+   "objective_id": "O1",
+   "legacy_id": "L1",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "કાવ્યના મથાળે છપાયેલું કવિનું નામ અને શીર્ષકના રણકતા શબ્દો વાંચીને, આ ગીત કઈ રાતનું અને કોના વિશેનું હશે તે અનુમાનથી કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S1.T1",
+   "anchor": [
+    "M1.S1.T1.C1"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O2",
+   "legacy_id": "L2",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ટેકની પંક્તિઓમાં ઝાંઝર, જમનાનો મલક અને રાધાનું ઝળકતું મુખડું — આ ત્રણ ચિત્રો શોધીને, ઝલ્લક ઝલ્લક શબ્દ સાંભળતાં કેવું દૃશ્ય દેખાય તે કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S2.T2",
+   "anchor": [
+    "M1.S2.T2.C2"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O3",
+   "legacy_id": "L3",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "પૂનમનો ચાંદ, ચગેલો રાસ અને ઢમ્મક ઢમ્મક વાગતું ઢોલક — આ પંક્તિઓમાં શું આંખે દેખાય છે અને શું કાને સંભળાય છે તે અલગ પાડીને કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M1.S2.T3",
+   "anchor": [
+    "M1.S2.T3.C3"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O4",
+   "legacy_id": "L4",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "રાધિકાનો હાર તૂટતાં શું શું બન્યું તે ક્રમમાં કહીને, બધાં મોતી જડ્યાં છતાં એ કેમ રડે છે તે પંક્તિમાંથી સમજાવવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S3.T4",
+   "anchor": [
+    "M2.S3.T4.C4"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O5",
+   "legacy_id": "L5",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'લીધું હોય તો આલને કાના' પંક્તિ કોણ, કોને અને કયા સૂરમાં કહે છે તે નક્કી કરીને, ચરિતર છાનાં નથી કહેવા પાછળનો ભાવ કહેવો.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S3.T5",
+   "anchor": [
+    "M2.S3.T5.C5"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O6",
+   "legacy_id": "L6",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "કાનાને રીસ ચડ્યા પછી એ ક્યાં જઈને શું કરે છે તે પંક્તિઓમાંથી શોધીને, બંસીના અલ્લપ ઝલ્લપ સૂરથી કદંબ નીચેનું વાતાવરણ કેવું બદલાય છે તે કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S4.T6",
+   "anchor": [
+    "M2.S4.T6.C6"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O7",
+   "legacy_id": "L7",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "રાધા અધીરા ચિત્તે દોડે છે એ પંક્તિ સાથે ઉર તણાયે પલ્લક પલ્લક જોડીને, સૂર સાંભળીને મન ખેંચાવું એટલે શું તે પોતાના શબ્દોમાં કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S5.T7",
+   "anchor": [
+    "M2.S5.T7.C7"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O8",
+   "legacy_id": "L8",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ગીતના આરંભની અને અંતની ટેક-પંક્તિઓ સામસામે મૂકીને શબ્દોમાં શું સરખું રહ્યું તે તપાસવું, અને ફરી એ જ રણકે ગીત પૂરું થવાથી ગાવામાં શી મજા આવે તે કહેવું.",
+   "bloom_level": "Evaluate",
+   "home_topic_id": "M2.S5.T8",
+   "anchor": [
+    "M2.S5.T8.C8"
+   ],
+   "status": "taught",
+   "theme_category": null
+  }
+ ],
+ "strand_to_objective_map": {
+  "L1": "O1",
+  "L2": "O2",
+  "L3": "O3",
+  "L4": "O4",
+  "L5": "O5",
+  "L6": "O6",
+  "L7": "O7",
+  "L8": "O8"
+ },
+ "modules": [
+  {
+   "module_id": "M1",
+   "module_name": "જમનાકાંઠે ચાંદનીની રાત",
+   "segments": [
+    {
+     "segment_id": "M1.S1",
+     "segment_name": "ગીતનો પ્રવેશ",
+     "topics": [
+      {
+       "topic_id": "M1.S1.T1",
+       "topic_name": "કવિ બાલમુકુન્દ દવે અને રાસની રાત",
+       "topic_type": "CONCEPT",
+       "topic_category": "introduction",
+       "difficulty": "easy",
+       "depends_on": [],
+       "objective_ids": [
+        "O1"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O1",
+         "legacy_id": "L1",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "કાવ્યના મથાળે છપાયેલું કવિનું નામ અને શીર્ષકના રણકતા શબ્દો વાંચીને, આ ગીત કઈ રાતનું અને કોના વિશેનું હશે તે અનુમાનથી કહેવું.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M1.S1.T1",
+         "anchor": [
+          "M1.S1.T1.C1"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "અલ્લક દલ્લક\n- બાલમુકુન્દ દવે",
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T1.C1",
+         "concept_name": "ગીતના કવિ અને ગીતનો મિજાજ",
+         "objective_id": "O1",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "source_markers": [
+        "[[શીર્ષક]]",
+        "[[કવિ-પરિચય]]"
+       ],
+       "modified_chunk": "કાવ્યના મથાળે સૌથી ઉપર ગીતનું નામ 'અલ્લક દલ્લક' છપાયું છે અને એની નીચે જમણી બાજુ કવિનું નામ '- બાલમુકુન્દ દવે' છપાયું છે. 'અલ્લક' અને 'દલ્લક' બે શબ્દ સામસામે પ્રાસ મળે એ રીતે જોડાયા છે, અને પુસ્તકના શબ્દાર્થ ખાનામાં એ બેનો અર્થ આપ્યો નથી. મથાળા પરથી બે વાત નક્કી થાય છે — ગીત લખનાર કવિ કોણ છે, અને ગીતના શબ્દો રણકતા છે.",
+       "word_count": {
+        "original": 5,
+        "modified": 61
+       },
+       "key_terms": [
+        "અલ્લક — શીર્ષકનો પહેલો રણકતો શબ્દ; ચોક્કસ અર્થવાળો શબ્દ નથી, ગાવાના લય માટે યોજાયેલો શબ્દ છે.",
+        "દલ્લક — 'અલ્લક' સાથે પ્રાસ મળે એ રીતે જોડાયેલો શબ્દ; બે શબ્દ ભેગા બોલવાની મજા આવે એવી જોડી બને છે.",
+        "કવિ — કાવ્ય રચનાર; અહીં આ ગીત રચનાર.",
+        "બાલમુકુન્દ દવે — આ ગીતના કવિનું નામ; પુસ્તક એ નામ શીર્ષકની નીચે છાપે છે."
+       ],
+       "primary_content_type": null,
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": []
+      }
+     ]
+    },
+    {
+     "segment_id": "M1.S2",
+     "segment_name": "ઝાંઝરના રણકે ઊઘડતી રાત",
+     "topics": [
+      {
+       "topic_id": "M1.S2.T2",
+       "topic_name": "જમનાનો રઢિયાળો મલક અને રાધાનું મુખડું",
+       "topic_type": "POEM",
+       "topic_category": "introduction",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O2"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O2",
+         "legacy_id": "L2",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "ટેકની પંક્તિઓમાં ઝાંઝર, જમનાનો મલક અને રાધાનું ઝળકતું મુખડું — આ ત્રણ ચિત્રો શોધીને, ઝલ્લક ઝલ્લક શબ્દ સાંભળતાં કેવું દૃશ્ય દેખાય તે કહેવું.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M1.S2.T2",
+         "anchor": [
+          "M1.S2.T2.C2"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "અલ્લક દલ્લક, ઝાંઝરઝલ્લક,\nરઢિયાળો જમનાનો મલ્લક,\nએથી સુંદર રાધાગોરી,\nમુખડું ઝળકે ઝલ્લક ઝલ્લક !",
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T2.C2",
+         "concept_name": "રણકતા શબ્દોથી ઊભું થતું જમનાકાંઠાનું ચિત્ર",
+         "objective_id": "O2",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "source_markers": [
+        "[[ટેક]]"
+       ],
+       "modified_chunk": "ગીતની પહેલી ચાર પંક્તિ ટેકની છે. એમાં કવિ કહે છે કે જમનાનો — યમુના નદીનો — મલ્લક એટલે કે પ્રદેશ રઢિયાળો છે, એટલે કે આંખ ઠારે તેવો સુંદર છે, અને ત્યાં ઝાંઝર (પગે પહેરવાનું ઘરેણું) રણકે છે. પછી કહે છે કે એ મલક કરતાં પણ વધારે સુંદર ગોરી રાધા છે, જેનું મુખડું ઝલ્લક ઝલ્લક ઝળકે એટલે કે ચમકે છે.",
+       "word_count": {
+        "original": 14,
+        "modified": 59
+       },
+       "key_terms": [
+        "ઝાંઝર — પગે પહેરવાનું એક ઘરેણું, જે ચાલતાં રણકે છે.",
+        "રઢિયાળો — આંખ ઠારે તેવો, સુંદર ને મનમોહક (તળપદો શબ્દ).",
+        "જમના — યમુના નદી; જૂના ને તળપદા ઉચ્ચારે 'યમુના'નું 'જમના' થયું છે, ભૂલ નથી.",
+        "મલ્લક — મલક એટલે પ્રદેશ, મુલક; અહીં જમનાકાંઠાનો પ્રદેશ.",
+        "મુખડું — મુખ, ચહેરો; ગીતમાં વહાલથી બોલાતું રૂપ.",
+        "ઝલ્લક ઝલ્લક — ઝળકઝળક; ચમકારા સાથે ઝબૂકવું તે."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      },
+      {
+       "topic_id": "M1.S2.T3",
+       "topic_name": "પૂનમનો ચાંદ અને ચગેલો રાસ",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "easy",
+       "depends_on": [],
+       "objective_ids": [
+        "O3"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O3",
+         "legacy_id": "L3",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "પૂનમનો ચાંદ, ચગેલો રાસ અને ઢમ્મક ઢમ્મક વાગતું ઢોલક — આ પંક્તિઓમાં શું આંખે દેખાય છે અને શું કાને સંભળાય છે તે અલગ પાડીને કહેવું.",
+         "bloom_level": "Analyze",
+         "home_topic_id": "M1.S2.T3",
+         "anchor": [
+          "M1.S2.T3.C3"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "આભે પૂનમ ચાંદ ઊગ્યો છે,\nરાસ ચગ્યો છે છમ્મક છમ્મક !\nગોપીભેળો કાન ઘૂસ્યો છે,\nઢોલક વાગે ઢમ્મક ઢમ્મક !",
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T3.C3",
+         "concept_name": "ચાંદનીમાં ચગતો રાસ અને ઢોલકનો તાલ",
+         "objective_id": "O3",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "source_markers": [
+        "[[કડી 1]]"
+       ],
+       "modified_chunk": "આભે એટલે કે આકાશમાં પૂનમનો ચાંદ ઊગ્યો છે, અને એની નીચે રાસ ચગ્યો છે — એટલે કે રાસ સરસ રીતે ખેલાઈ રહ્યો છે ને ઝડપથી ગોળગોળ ફરી રહ્યો છે. ગોપીભેળો એટલે કે ગોપીઓ સાથે કાન પણ રાસમાં ભળી ગયો છે. સાથે સાથે ઢોલક એટલે કે ઢોલ ઢમ્મક ઢમ્મક વાગે છે.",
+       "word_count": {
+        "original": 20,
+        "modified": 50
+       },
+       "key_terms": [
+        "આભે — આભમાં, આકાશમાં.",
+        "પૂનમ — મહિનાની એ રાત, જ્યારે ચંદ્ર પૂરેપૂરો ગોળ દેખાય.",
+        "ચગ્યો છે — અહીં રાસ સરસ રીતે ખેલાઈ રહ્યો છે, ઝડપથી ગોળગોળ ફરી રહ્યો છે.",
+        "ભેળો — સાથે, ભેગો (તળપદો શબ્દ); 'ગોપીભેળો' એટલે ગોપીઓ સાથે.",
+        "કાન — કાનો, કનૈયો એટલે કે બાલકૃષ્ણ; લય સાચવવા કવિએ ટૂંકું રૂપ વાપર્યું છે.",
+        "ઢોલક — ઢોલ; બે બાજુથી વગાડાતું તાલવાદ્ય."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "M2",
+   "module_name": "તૂટેલા હારથી બંસીના સૂર સુધી",
+   "segments": [
+    {
+     "segment_id": "M2.S3",
+     "segment_name": "તૂટેલો હાર, ખૂટતું મોતી",
+     "topics": [
+      {
+       "topic_id": "M2.S3.T4",
+       "topic_name": "તૂટ્યો હાર, રુએ રાધિકા",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O4"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O4",
+         "legacy_id": "L4",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "રાધિકાનો હાર તૂટતાં શું શું બન્યું તે ક્રમમાં કહીને, બધાં મોતી જડ્યાં છતાં એ કેમ રડે છે તે પંક્તિમાંથી સમજાવવું.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M2.S3.T4",
+         "anchor": [
+          "M2.S3.T4.C4"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "રાધિકાનો હાર તૂટે છે,\nમોતી ચળકે ચલ્લક ચલ્લક !\nબધાં જડ્યાં પણ એક ખૂટે છે.\nરુએ રાધિકા છલ્લક છલ્લક !",
+       "concepts": [
+        {
+         "concept_id": "M2.S3.T4.C4",
+         "concept_name": "હાર તૂટતાં અને એક મોતી ખૂટતાં જન્મતું રુદન",
+         "objective_id": "O4",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "source_markers": [
+        "[[કડી 2]]"
+       ],
+       "modified_chunk": "રાસ ચાલતો હોય છે ત્યાં રાધિકાનો હાર તૂટે છે અને એનાં મોતી ચલ્લક ચલ્લક ચમકતાં વેરાઈ જાય છે. વેરાયેલાં બધાં મોતી જડ્યાં — એટલે કે મળી આવ્યાં — પણ એમાંથી એક મોતી ખૂટે છે, એટલે કે ઓછું પડે છે. એ એક મોતી ન મળતાં રાધિકા રુએ છે, એટલે કે રડે છે.",
+       "word_count": {
+        "original": 20,
+        "modified": 51
+       },
+       "key_terms": [
+        "હાર — ગળામાં પહેરવાની માળા; અહીં મોતીની માળા.",
+        "જડ્યાં — મળી આવ્યાં (તળપદો શબ્દ); ખોવાયેલી વસ્તુ મળી જાય તેને 'જડી' કહેવાય.",
+        "ખૂટે છે — ઘટે છે, ઓછું પડે છે.",
+        "રુએ — રડે છે (તળપદો શબ્દ).",
+        "ચલ્લક ચલ્લક — મોતી ચમકે ત્યારે થતા ઝબકારા માટે કવિએ યોજેલો રણકતો શબ્દ.",
+        "છલ્લક છલ્લક — 'રુએ રાધિકા' સાથે આવતો રણકતો શબ્દ; આંસુ છલકાય એવો ભાવ જગાડે છે."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      },
+      {
+       "topic_id": "M2.S3.T5",
+       "topic_name": "આલને કાના, મારું મોતી",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "hard",
+       "depends_on": [
+        "M2.S3.T4"
+       ],
+       "objective_ids": [
+        "O5"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O5",
+         "legacy_id": "L5",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "'લીધું હોય તો આલને કાના' પંક્તિ કોણ, કોને અને કયા સૂરમાં કહે છે તે નક્કી કરીને, ચરિતર છાનાં નથી કહેવા પાછળનો ભાવ કહેવો.",
+         "bloom_level": "Analyze",
+         "home_topic_id": "M2.S3.T5",
+         "anchor": [
+          "M2.S3.T5.C5"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "લીધું હોય તો આલને કાના,\nમોતી મારું ચલ્લક, ચલ્લક !\nતારાં ચરિતર છે ક્યાં છાનાં ?\nજાણે આખો મલ્લક મલ્લક !",
+       "concepts": [
+        {
+         "concept_id": "M2.S3.T5.C5",
+         "concept_name": "રાધાની ઉક્તિ — માગણી અને મીઠો આરોપ",
+         "objective_id": "O5",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "source_markers": [
+        "[[કડી 3]]"
+       ],
+       "modified_chunk": "આ કડીમાં રાધા કાનાને સંબોધીને બોલે છે. એ કહે છે કે તેં લીધું હોય તો મારું ચલ્લક ચલ્લક ચમકતું મોતી આલને — એટલે કે આપી દે ને. પછી એ ઉમેરે છે કે તારાં ચરિતર, એટલે કે તારાં કામ, ક્યાં છાનાં — સંતાયેલાં — છે ? આખો મલ્લક, એટલે કે આખો મુલક, એ જાણે છે.",
+       "word_count": {
+        "original": 21,
+        "modified": 54
+       },
+       "key_terms": [
+        "આલને — આપને, આપી દે ને (તળપદો શબ્દ).",
+        "કાના — કાનાને સંબોધીને બોલાયેલું રૂપ; કાનો એટલે કનૈયો, બાલકૃષ્ણ.",
+        "ચરિતર — ચરિત્ર, કરેલાં કામ; તળપદા ઉચ્ચારે 'ચરિત્ર'નું 'ચરિતર' થયું છે, ભૂલ નથી.",
+        "છાનાં — સંતાયેલાં, ગુપ્ત; કોઈને ખબર ન પડે એવાં.",
+        "મલ્લક — મલક, પ્રદેશ; 'આખો મલ્લક' એટલે આખો મુલક, ત્યાંના બધા લોકો.",
+        "જાણે — જાણે છે, ખબર છે; અહીં એ 'જાણે કે' નહિ પણ ક્રિયાપદ છે."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M2.S4",
+     "segment_name": "કાનાની રીસ અને કદંબની છાયા",
+     "topics": [
+      {
+       "topic_id": "M2.S4.T6",
+       "topic_name": "રીસ ચડી, કદંબ નીચે બંસી",
+       "topic_type": "POEM",
+       "topic_category": "climax",
+       "difficulty": "hard",
+       "depends_on": [
+        "M2.S3.T5"
+       ],
+       "objective_ids": [
+        "O6"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O6",
+         "legacy_id": "L6",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "કાનાને રીસ ચડ્યા પછી એ ક્યાં જઈને શું કરે છે તે પંક્તિઓમાંથી શોધીને, બંસીના અલ્લપ ઝલ્લપ સૂરથી કદંબ નીચેનું વાતાવરણ કેવું બદલાય છે તે કહેવું.",
+         "bloom_level": "Analyze",
+         "home_topic_id": "M2.S4.T6",
+         "anchor": [
+          "M2.S4.T6.C6"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "કાને ત્યાંથી દોટ મૂકી છે,\nરીસ ચડી ગોપીજનવલ્લભ.\nકદંબછાયા ખૂબ ઝૂકી છે,\nબંસી છેડે અલ્લપ ઝલ્લપ !",
+       "concepts": [
+        {
+         "concept_id": "M2.S4.T6.C6",
+         "concept_name": "રીસમાં દોડી જતો કાનો અને દૂરથી સંભળાતી બંસી",
+         "objective_id": "O6",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "source_markers": [
+        "[[કડી 4]]"
+       ],
+       "modified_chunk": "આ સાંભળીને કાને ત્યાંથી દોટ મૂકી છે, એટલે કે એ દોડી ગયો છે; ગોપીજનવલ્લભ — ગોપીઓના વહાલા કૃષ્ણ — ને રીસ એટલે કે ગુસ્સો ચડ્યો છે. કદંબછાયા, એટલે કે કદંબ નામના વૃક્ષની છાયા, ખૂબ ઝૂકી છે. એની નીચે કાનો બંસી એટલે કે વાંસળી છેડે છે, અને એનો સૂર દૂરથી આછેરો — અલ્લપ ઝલ્લપ — સંભળાય છે.",
+       "word_count": {
+        "original": 17,
+        "modified": 56
+       },
+       "key_terms": [
+        "દોટ મૂકવી — દોડવા માંડવું, એકદમ દોડી જવું.",
+        "રીસ — ગુસ્સો, રિસાવું તે.",
+        "ગોપીજનવલ્લભ — ગોપીઓના વહાલા, એટલે કે કૃષ્ણ.",
+        "કદંબ — એક વૃક્ષનું નામ; 'કદંબછાયા' એટલે એ વૃક્ષની છાયા.",
+        "બંસી — વાંસળી.",
+        "અલ્લપ ઝલ્લપ — અલગ, દૂરથી આછેરું સંભળાય તે રીતે; કવિએ યોજેલા રણકતા શબ્દો."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M2.S5",
+     "segment_name": "સૂરમાં ભળતું ઉર",
+     "topics": [
+      {
+       "topic_id": "M2.S5.T7",
+       "topic_name": "અધીરે ચિત્તે દોડતી રાધા",
+       "topic_type": "POEM",
+       "topic_category": "resolution",
+       "difficulty": "medium",
+       "depends_on": [
+        "M2.S4.T6"
+       ],
+       "objective_ids": [
+        "O7"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O7",
+         "legacy_id": "L7",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "રાધા અધીરા ચિત્તે દોડે છે એ પંક્તિ સાથે ઉર તણાયે પલ્લક પલ્લક જોડીને, સૂર સાંભળીને મન ખેંચાવું એટલે શું તે પોતાના શબ્દોમાં કહેવું.",
+         "bloom_level": "Understand",
+         "home_topic_id": "M2.S5.T7",
+         "anchor": [
+          "M2.S5.T7.C7"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "રાધા દોડે ચિત્ત અધીરે,\nરાસ રચ્યો છે અલ્લક દલ્લક\nસૂર વણાયે ધીરે ધીરે,\nઉર તણાયે પલ્લક પલ્લક !",
+       "concepts": [
+        {
+         "concept_id": "M2.S5.T7.C7",
+         "concept_name": "અધીરું ચિત્ત અને સૂરમાં તણાતું ઉર",
+         "objective_id": "O7",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "source_markers": [
+        "[[કડી 5]]"
+       ],
+       "modified_chunk": "બંસીનો સૂર સાંભળીને રાધા અધીરે ચિત્તે, એટલે કે ઉતાવળા મને, દોડે છે. ત્યાં ફરી અલ્લક દલ્લક રાસ રચાયો છે અને સૂર ધીરે ધીરે વણાયે છે — એટલે કે એકબીજામાં ભળીને ગૂંથાય છે. અને એ સૂરમાં રાધાનું ઉર, એટલે કે દિલ, પલ્લક પલ્લક તણાય છે; પુસ્તકનું રૂઢિપ્રયોગ ખાનું કહે છે તેમ 'ઉર તણાવું' એટલે દિલ ખેંચાવું.",
+       "word_count": {
+        "original": 18,
+        "modified": 55
+       },
+       "key_terms": [
+        "ચિત્ત — મન.",
+        "અધીરે — અધીરું એટલે ઉતાવળું; 'ચિત્ત અધીરે' એટલે ઉતાવળા મને.",
+        "સૂર — કંઠનો અવાજ, સ્વર.",
+        "વણાયે — વણાય છે, ગૂંથાય છે; લય સાચવવા કવિએ ક્રિયાપદનું રૂપ થોડું બદલ્યું છે, ભૂલ નથી.",
+        "ઉર — હૃદય, દિલ.",
+        "ઉર તણાવું — દિલ ખેંચાવું (રૂઢિપ્રયોગ)."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      },
+      {
+       "topic_id": "M2.S5.T8",
+       "topic_name": "ફરી ઝળકે એ જ મુખડું",
+       "topic_type": "POEM",
+       "topic_category": "resolution",
+       "difficulty": "easy",
+       "depends_on": [
+        "M1.S2.T2"
+       ],
+       "objective_ids": [
+        "O8"
+       ],
+       "learning_objectives": [
+        {
+         "objective_id": "O8",
+         "legacy_id": "L8",
+         "strand": "L",
+         "strand_name": "ભાષા અને સાહિત્ય",
+         "objective_text": "ગીતના આરંભની અને અંતની ટેક-પંક્તિઓ સામસામે મૂકીને શબ્દોમાં શું સરખું રહ્યું તે તપાસવું, અને ફરી એ જ રણકે ગીત પૂરું થવાથી ગાવામાં શી મજા આવે તે કહેવું.",
+         "bloom_level": "Evaluate",
+         "home_topic_id": "M2.S5.T8",
+         "anchor": [
+          "M2.S5.T8.C8"
+         ],
+         "status": "taught",
+         "theme_category": null,
+         "image_examples": []
+        }
+       ],
+       "original_chunk": "અલ્લક દલ્લક ઝાંઝર ઝલ્લક,\nરઢિયાળો જમનાનો મલ્લક,\nએથી સુંદર રાધાગોરી,\nમુખડું ઝળકે ઝલ્લક ઝલ્લક !",
+       "concepts": [
+        {
+         "concept_id": "M2.S5.T8.C8",
+         "concept_name": "ફરી એ જ ટેક — ગીતનું પાછું વળવું",
+         "objective_id": "O8",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "source_markers": [
+        "[[ટેક (પુનરાવર્તન)]]"
+       ],
+       "modified_chunk": "ગીતના અંતે શરૂઆતની ટેકની એ જ ચાર પંક્તિ ફરી છપાઈ છે. શબ્દો એના એ જ છે — ઝાંઝરનો રણકો, જમનાનો રઢિયાળો મલ્લક, અને એથી પણ સુંદર રાધાગોરીનું ઝલ્લક ઝલ્લક ઝળકતું મુખડું. છાપકામમાં માત્ર બે નાના ફેર છે : અહીં 'દલ્લક' પછી અલ્પવિરામ નથી, અને 'ઝાંઝર ઝલ્લક' બે છૂટા શબ્દ તરીકે છપાયું છે, જ્યારે શરૂઆતમાં એ 'ઝાંઝરઝલ્લક' એમ જોડીને છપાયું હતું.",
+       "word_count": {
+        "original": 15,
+        "modified": 60
+       },
+       "key_terms": [
+        "એથી — એના કરતાં; અહીં જમનાના રઢિયાળા મલક કરતાં પણ વધારે.",
+        "રાધાગોરી — ગોરી રાધા; 'રાધા' અને 'ગોરી' જોડાઈને એક શબ્દ થયો છે.",
+        "ઝાંઝર ઝલ્લક — અહીં આ બે શબ્દ છૂટા છપાયા છે, જ્યારે ગીતના આરંભે એ 'ઝાંઝરઝલ્લક' એમ જોડીને છપાયા છે; શબ્દો બંને ઠેકાણે એના એ જ છે.",
+        "મલ્લક — મલક, પ્રદેશ.",
+        "ઝળકે — ચમકે."
+       ],
+       "primary_content_type": null,
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "marker_topic_map": {
+  "[[શીર્ષક]]": "M1.S1.T1 (chapter title, carried with the pre-reading topic; not a reading unit of its own)",
+  "[[કવિ-પરિચય]]": "M1.S1.T1",
+  "[[પ્રવેશપેટી]]": "APPARATUS — blue intro box, not a topic; feeds key_terms / ભાષા-બોધ",
+  "[[ટેક]]": "M1.S2.T2",
+  "[[કડી 1]]": "M1.S2.T3",
+  "[[કડી 2]]": "M2.S3.T4",
+  "[[કડી 3]]": "M2.S3.T5",
+  "[[કડી 4]]": "M2.S4.T6",
+  "[[કડી 5]]": "M2.S5.T7",
+  "[[ટેક (પુનરાવર્તન)]]": "M2.S5.T8",
+  "[[શબ્દાર્થ]]": "APPARATUS — not a topic",
+  "[[રૂઢિપ્રયોગ]]": "APPARATUS — not a topic; 'ઉર તણાવું' is glossed at point of use in M2.S5.T7",
+  "[[સ્વાધ્યાય: …]] ×12": "AGENT 10 — exercise_solutions.json; no સ્વાધ્યાય block is a topic"
+ },
+ "notes": [
+  "COUNT DISAGREEMENT WITH THE PROFILE PRIOR, resolved for the page. profiles/genres/urmikavya_geet.md and reference/corpus/std-7_inventory.md both say this chapter prints 'nine printed કડી-units, eight distinct topics'. 00_chapter_normalized.md, transcribed from the renders, shows SEVEN printed four-line units — the ટેક, five કડી, and the ટેક reprinted as the closing unit (six distinct). The page wins (agents/02_structure.md §1), so the cut has 7 reading-scene topics, not 9. Total topics still comes to eight because a pre-reading CONCEPT topic sits in front — the same number by a different route, which should not be read as agreement with the prior.",
+  "ટેક HANDLING. Two [[ટેક]] markers, so two topics (M1.S2.T2, M2.S5.T8) — one marker, one topic. Their wording differs ONLY in punctuation and word-spacing: 'અલ્લક દલ્લક, ઝાંઝરઝલ્લક,' at the opening against 'અલ્લક દલ્લક ઝાંઝર ઝલ્લક,' at the close; lines two to four are identical. Agent 1 records this as words-changed. It is not a semantic change and no new claim is made, so M2.S5.T8's teaching is the RETURN — the song coming back to the sound it started on — and O8 asks the child what stayed the SAME. Agent 12 must not manufacture a change in meaning out of a missing comma.",
+  "M2.S5.T8 carries depends_on ['M1.S2.T2'] — the ring only reads as a ring against the first printing of the ટેક.",
+  "PRE-READING TOPIC. M1.S1.T1 rests on the [[કવિ-પરિચય]] marker, which at std 7 is only the author slot '- બાલમુકુન્દ દવે' printed under the title. It is the thinnest topic in the chapter and is flagged as such. The [[પ્રવેશપેટી]] blue box, the [[શબ્દાર્થ]] box and the [[રૂઢિપ્રયોગ]] box are apparatus and are NOT topics; all twelve numbered સ્વાધ્યાય blocks stay with Agent 10.",
+  "DIFFICULTY is set by what stops a std-7 L2 reader on the page, never by craft. hard = M2.S3.T5 (તળપદાં આલને / ચરિતર / છાનાં, plus an unmarked quoted utterance the child must attribute) and M2.S4.T6 (the જોડાક્ષર-dense ગોપીજનવલ્લભ and કદંબછાયા, a subject that shifts inside the કડી, and the coined અલ્લપ ઝલ્લપ). easy = M1.S1.T1, M1.S2.T3, M2.S5.T8.",
+  "OBJECTIVES observe the std 6–8 craft-label ceiling (profiles/students/std-7.md §1: no અલંકાર / છંદ / સમાસ / genre tag at std 7). ટેક, ચિત્ર, ભાવ, લય and રણકો are used because they are the allowed vocabulary; the echo-words are treated as content the child notices, never as a named device. Bloom is not capped — the ladder reaches Analyze and Evaluate.",
+  "Every objective is tied to the chapter's teaching_lens 'ચિત્ર + ભાવ + લય' and to its guiding_question about the રણકતા શબ્દો, and each names something printed in its own scene, so none of them would fit another chapter.",
+  "original_chunk is empty everywhere — Agent 5's work. Two verbatim cautions for it: the ટેક must be copied exactly as printed at EACH occurrence and never normalised to one form, and the printed punctuation oddities Agent 1 recorded ('બધાં જડ્યાં પણ એક ખૂટે છે.' and 'રીસ ચડી ગોપીજનવલ્લભ.' ending in a full stop, 'રાસ રચ્યો છે અલ્લક દલ્લક' with no terminal mark) are printed content, not transcription slips.",
+  "Segment sizes are uneven (1, 2, 2, 1, 2 topics). M1.S1 holds the pre-reading topic alone and M2.S4 holds the કડી where કાનો takes offence and the બંસી starts — a single movement that belongs with neither neighbour. Recorded, not repaired.",
+  "No PNG was opened. 00_chapter_normalized.md answered every question the cut needed: the seven unit markers, the two ટેક wordings, and the note that the four Krishna–Radha paintings on pp. 57–58 carry no text and that the full-page રાસલીલા picture on p. 61 belongs to an exercise, not to the poem."
+ ],
+ "convergence": {
+  "source": "04_converged.json",
+  "converged": true,
+  "verdict": "pass",
+  "structure_sha256": "f58a84a68b276ab337874c62e375fc124691b8718ec9d12488496e5604b9407f",
+  "note": "04_converged.json is a convergence record and does not duplicate the structure payload; this file therefore carries the 02_structure.json payload it blessed, with Agent 5's fields added. Ids, names, objectives, concepts, depends_on, marker_topic_map and Agent 2's notes[] are passed through untouched."
+ },
+ "agent05_notes": [
+  "VERBATIM PROVENANCE. Every original_chunk is copied out of 00_chapter_normalized.md and then verified line by line against the renders — _renders/page-1.png (printed folio 57: the ટેક, કડી 1, કડી 2 and the title masthead) and _renders/page-2.png (printed folio 58: કડી 3, કડી 4, કડી 5 and the reprinted ટેક). Each of the eight blocks was cropped from the 1300×1831 PNG and re-read at 4×–7× LANCZOS upscale. All eight matched: line count, line breaks, અનુસ્વાર, ળ/લ, the ુ/ૂ and ઇ/ઈ lengths, the terminal marks, and the space before every '!' and '?'. No mismatch with Agent 1's transcription was found, so nothing was patched and no defect is reported.",
+  "GLYPH-LEVEL CHECKS ACTUALLY MADE, so the claim above is auditable: ઊગ્યો (દીર્ઘ ઊ) against ઉર (હ્રસ્વ ઉ); ઘૂસ્યો is ઘ, not ધ, checked against the ધ of રાધા two lines above; રઢિયાળો and ઝળકે carry ળ, not લ; રુએ carries the હ્રસ્વ ુ while ખૂટે, મૂકી and ઝૂકી carry the દીર્ઘ ૂ; ચિત્ત keeps its ત્ત જોડાક્ષર and ગોપીજનવલ્લભ, કદંબછાયા, જડ્યાં, રચ્યો their conjuncts intact. Only one render set exists and re-rendering is forbidden by the run context, so this is a same-image upscale check, weaker than a genuine second render, and is recorded as such.",
+  "THE ટેક IS COPIED SEPARATELY AT EACH OCCURRENCE AND NEITHER WAS NORMALISED, per 04_converged.json's carried-forward instruction. M1.S2.T2 opens the poem as 'અલ્લક દલ્લક, ઝાંઝરઝલ્લક,' (comma after દલ્લક, ઝાંઝરઝલ્લક set as one word) and M2.S5.T8 closes it as 'અલ્લક દલ્લક ઝાંઝર ઝલ્લક,' (no comma, two words). Both readings were confirmed on the renders at 4× upscale. Lines two to four are identical in both printings and are identical here.",
+  "PRINTED PUNCTUATION ODDITIES KEPT AS SET, not tidied: 'બધાં જડ્યાં પણ એક ખૂટે છે.' (M2.S3.T4) and 'રીસ ચડી ગોપીજનવલ્લભ.' (M2.S4.T6) end in a full stop where their neighbours end in '!', and 'રાસ રચ્યો છે અલ્લક દલ્લક' (M2.S5.T7) carries no terminal mark at all. 'મોતી મારું ચલ્લક, ચલ્લક !' (M2.S3.T5) keeps its internal comma even though the same line is reprinted without one in the book's own જોડકાં example on folio 59 — the verse on folio 58 is what original_chunk carries, and the exercise's spelling belongs to Agent 10. The Devanagari daṇḍa appears nowhere on the page and none was introduced.",
+  "NO ATTRIBUTION OR SOURCE LINE CLOSES THIS POEM. The poet's name is printed only in the title masthead on folio 57, right-aligned under the chapter title, as '- બાલમુકુન્દ દવે'. Attaching it to the last topic's original_chunk would put text where the page does not print it, so it is not attached there. Agent 2's marker_topic_map assigns [[શીર્ષક]] and [[કવિ-પરિચય]] to the pre-reading topic M1.S1.T1, and O1 asks the child to read exactly that masthead, so M1.S1.T1's original_chunk is the two printed masthead lines and nothing else. No source note ('…માંથી') is printed anywhere in this chapter.",
+  "APPARATUS EXCLUDED FROM EVERY CHUNK, per Agent 2. The blue પ્રવેશપેટી on folio 57, the શબ્દાર્થ box and the રૂઢિપ્રયોગ box on folio 59, and all twelve numbered સ્વાધ્યાય blocks on folios 59–62 are apparatus or Agent 10's, and none of them appears inside an original_chunk. Two of the boxes are used as glossing EVIDENCE only: the શબ્દાર્થ box supplies the book's own senses for ઝાંઝર, રઢિયાળો, જમના, મલ્લક, ઝળકે, ઝલ્લક ઝલ્લક, ચગ્યો છે, ઢોલક, આલને, કાનો, ચરિતર, ગોપીજનવલ્લભ, કદંબ, બંસી, અલ્લપ-ઝલ્લપ, સૂર and અધીરું, and the રૂઢિપ્રયોગ box supplies 'ઉર તણાવું - દિલ ખેંચાવું', glossed at point of use in M2.S5.T7.",
+  "KEY TERMS. Six per topic for the six verse scenes, five for the closing ટેક and four for the thin masthead topic — inside the 3–6 contract band, sitting at the std-7 row of reference/shabd_gloss.md (4–6). The L2 bar is applied downward: ઢોલક, હાર, પૂનમ, ચિત્ત, ઉર, બંસી and આભે are glossed although a first-language pack would wave them through. The printed 35-item શબ્દાર્થ box was NOT emptied into the field; words it omits but that stop an L2 child — ભેળો, જડ્યાં, રુએ, છાનાં, ખૂટે છે, દોટ મૂકવી, એથી, વણાયે — are glossed anyway, and the book's own exercise block 3 sends the child to a parent for six of them, which is evidence the register is deliberate. તળપદાં and કાવ્ય-રૂપ are named as બોલી and લય, never as errors: જમના, ચરિતર, આલને, રુએ, જડ્યાં, ભેળો, વણાયે and the shortened કાન.",
+  "THE COINED ECHO-WORDS ARE TREATED AS CONTENT, NOT DECORATION. અલ્લક, દલ્લક, ઝલ્લક, છમ્મક, ઢમ્મક, ચલ્લક, છલ્લક, મલ્લક, અલ્લપ ઝલ્લપ and પલ્લક are the poem's own material (the પ્રવેશપેટી calls the poem a 'શબ્દો, પ્રાસ, લયનું અદ્ભુત સંયોજન' and exercise block 2 pairs exactly seven of them), so each topic glosses the one it carries as a રણકતો શબ્દ. The book glosses only ઝલ્લક ઝલ્લક ('ઝળકઝળક') and અલ્લપ-ઝલ્લપ; for the rest the gloss says what the sound is attached to in THIS line and does not invent a dictionary meaning. અલ્લક and દલ્લક are explicitly recorded as unglossed by the book rather than given an assumed meaning.",
+  "CONTENT TYPES. The six distinct verse scenes M1.S2.T2 … M2.S5.T7 each carry primary_content_type 'image' with available_content_types ['image'] — one image per કડી, per urmikavya_geet.md's media prior. Two topics are null / [] and the reason is recorded rather than the field filled: M1.S1.T1 is the pre-reading masthead, four printed words with no scene of its own; and M2.S5.T8 is the ટેક returning with its words UNCHANGED, and the same profile's prior says a ટેક topic's image must show what the ટેક's NEW words name instead of repeating the previous picture — here there are no new words, so an image would duplicate M1.S2.T2's frame. No secondary or tertiary medium is planned and no 2d_tool is proposed. Agent 9 owns the final call and may overturn either null.",
+  "MODIFIED CHUNKS are plain 'શું થઈ રહ્યું છે' restatements in simple શિષ્ટ ગુજરાતી, two to four sentences, with the hardest word of each કડી glossed inline. They are seed material for Agent 12 only: no ભાવ reading, no craft naming, no real-life anchor and no બોધ has been written here, and the poem's echo-words are described as sound attached to a picture, never expanded into a meaning the page does not carry.",
+  "UNRESOLVED GAP CARRIED FORWARD FROM AGENT 1, not closed here. The QR badge in the top-right corner of folio 57 overlaps the right end of the પ્રવેશપેટી's first printed line. That box is apparatus and is not part of any original_chunk, so the gap does not touch the verbatim; it is repeated here so that no downstream agent treats the intro sentence as proven complete."
+ ]
+}

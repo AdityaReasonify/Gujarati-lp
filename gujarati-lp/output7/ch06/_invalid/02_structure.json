@@ -1,0 +1,379 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati7_ch6",
+  "plan_id": "gseb_eng_gujarati7_ch6_v1",
+  "grade": 7,
+  "chapter_name": "જો કરી જાંબુએ",
+  "genre": "varta",
+  "active_genre_profiles": ["varta.md"],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "અમથાલાલની જાંબુની થેલી હાથોહાથ આગળ વધતી ગઈ, તો ટપુડા સુધી જાંબુને બદલે ઠળિયા જ કેમ પહોંચ્યા ?",
+  "explanation_unit": "એક ઘટના",
+
+  "cut_summary": {
+    "reading_markers_in_normalized": [
+      "[[ઘટના: બજારમાં જાંબુવાળીની અહાલેક અને ભાવતાલ]]",
+      "[[ઘટના: ટપુ યાદ આવે છે — એક કિલો જાંબુ અને પગની આળસ]]",
+      "[[ઘટના: મગનને થેલી સોંપાય છે અને મગન પહેલા ઠળિયા નાખે છે]]",
+      "[[ઘટના: રામજીને થેલી પધરાવાય છે અને એની જીભ પણ ચાલે છે]]",
+      "[[ઘટના: ચાલાક નાથિયો ભેદ પકડી પાડે છે]]",
+      "[[ઘટના: મોંઘીમાના હાથમાં જાંબુને બદલે ઠળિયા આવે છે]]",
+      "[[ઘટના: પશીના પેટમાં છેલ્લું જાંબુ — અને ટપુડાની થેલી]]"
+    ],
+    "reading_markers_count": 7,
+    "topics": 7,
+    "segments": 6,
+    "modules": 3,
+    "concepts": 8,
+    "objectives": 7,
+    "non_topic_markers": [
+      "[[પાઠ-શીર્ષક]] — '6  જો કરી જાંબુએ'",
+      "[[લેખક-પરિચય]] — '- જયંતી ધોકાઈ' (a byline, not a child-addressed પરિચય paragraph)",
+      "[[પ્રવેશપેટી (વાદળી પેટી — શિક્ષકને સંબોધિત; વાચન-દૃશ્ય નથી)]]",
+      "[[શબ્દાર્થ પેટી]]",
+      "[[સ્વાધ્યાય: …]] × 15",
+      "[[વ્યાકરણ પેટી (પાઠાંતે છપાયેલી લીલી પેટી — સ્વાધ્યાય નથી)]] — બૅનર 'સર્વનામ'"
+    ],
+    "tek_occurrences": 0,
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0,
+    "ghatna": 7
+  },
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "જાંબુવાળીની અહાલેક સાંભળ્યા પછી અમથાલાલે ભાવ વિશે શું કહ્યું અને છેવટે કેટલાં જાંબુ મગાવીને ત્યાં જ ખાઈ લીધાં તે કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ટપુ માટે એક કિલો જાંબુ લેનાર અમથાલાલ અડધો માઈલ છેટે રહેતા ભાણિયાને એ આપવા જાતે કેમ ન ગયા તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": ["M1.S2.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "થેલી લઈને ચાલતાં મગને જાંબુ ખાધા પછી થેલીમાં ઠળિયા કેમ નાખ્યા તે એના મનમાં ચાલેલા વિચાર પરથી તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T3",
+      "anchor": ["M2.S3.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રામજી પણ મગનની જેમ જ ખાય છે ને ઠળિયા નાખે છે — બંને પ્રસંગમાં કઈ વાત સરખી છે તે પંક્તિઓ સરખાવીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": ["M2.S3.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "થેલીમાં ઠળિયા ભાળીને નાથિયો શું સમજી ગયો અને પછી એણે કયાં પગલાં લીધાં તે પાઠમાંથી શોધીને કારણ સાથે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T5",
+      "anchor": ["M2.S4.T5.C5", "M2.S4.T5.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "થેલીમાંથી જાંબુને બદલે ઠળિયા હાથમાં આવ્યા પછી મોંઘીમા ટપુડાના ઘરે થેલી લઈ જવાનું કેમ ટાળે છે તે એમના પોતાના શબ્દોમાંથી સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S5.T6",
+      "anchor": ["M3.S5.T6.C7"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "થેલીમાં બચેલું છેલ્લું જાંબુ પણ પશી ખાઈ જાય છે — પાઠના અંતે પુછાયેલા ટપુડાની દશા વિશેના પ્રશ્નનો પોતાનો જવાબ કારણ સાથે આપવો.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S6.T7",
+      "anchor": ["M3.S6.T7.C8"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7"
+  },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "બજારનાં જાંબુ અને ભાણિયાની યાદ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "જાંબુવાળીનો સાદ અને ભાવતાલ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "મીઠાં મધ જેવાં જાંબુનો સાદ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: બજારમાં જાંબુવાળીની અહાલેક અને ભાવતાલ]]"],
+              "source_lines_00_normalized": "21-27",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "સાદ સાંભળીને છૂટેલો ભાવતાલ અને ઊભા ઊભા ખવાયેલાં જાંબુ",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "ટપુ માટે ભરાયેલી થેલી",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "ભાણિયા માટે લીધેલાં જાંબુ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: ટપુ યાદ આવે છે — એક કિલો જાંબુ અને પગની આળસ]]"],
+              "source_lines_00_normalized": "31-33",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "ભાણિયા પરનું હેત અને પગે કરેલી આળસ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "થેલી હાથોહાથ ફરે છે",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "લલચાયેલા બે ભાઈબંધ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T3",
+              "topic_name": "મગનના હાથમાં ગયેલી થેલી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: મગનને થેલી સોંપાય છે અને મગન પહેલા ઠળિયા નાખે છે]]"],
+              "source_lines_00_normalized": "37-47",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T3.C3",
+                  "concept_name": "વજન સરખું કરવાના વિચારે થેલીમાં પડેલા પહેલા ઠળિયા",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "રામજીની દાઢે ચોંટેલાં જાંબુ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M2.S3.T3"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: રામજીને થેલી પધરાવાય છે અને એની જીભ પણ ચાલે છે]]"],
+              "source_lines_00_normalized": "51-63",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "બીજા હાથે પણ એ જ કામ — ખાધાં અને ઠળિયા નાખ્યા",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "ચાલાક હાથે પકડાયેલો ભેદ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T5",
+              "topic_name": "નાથિયો બધુંય સમજી ગયો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M2.S3.T3", "M2.S3.T4"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: ચાલાક નાથિયો ભેદ પકડી પાડે છે]]"],
+              "source_lines_00_normalized": "67-71",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T5.C5",
+                  "concept_name": "થેલીમાં ઠળિયા ભાળીને પકડાયેલો ભેદ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S4.T5.C6",
+                  "concept_name": "કડાકૂટ ટાળવા મોંઘીમાને પધરાવાયેલી થેલી",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "થેલી ટપુડાના ઘર ભણી",
+      "segments": [
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "હાથમાં આવેલા ઠળિયા",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T6",
+              "topic_name": "મોંઘીમાના હાથમાં આવેલા ઠળિયા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": ["M2.S4.T5"],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: મોંઘીમાના હાથમાં જાંબુને બદલે ઠળિયા આવે છે]]"],
+              "source_lines_00_normalized": "75-77",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T6.C7",
+                  "concept_name": "જાંબુને બદલે ઠળિયા — અને શંકા પોતાના પર આવવાનો ડર",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S6",
+          "segment_name": "થેલીમાં બચેલું છેલ્લું જાંબુ",
+          "topics": [
+            {
+              "topic_id": "M3.S6.T7",
+              "topic_name": "પશીના પેટમાં પહોંચેલું છેલ્લું જાંબુ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": ["M3.S5.T6"],
+              "objective_ids": ["O7"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: પશીના પેટમાં છેલ્લું જાંબુ — અને ટપુડાની થેલી]]"],
+              "source_lines_00_normalized": "81",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T7.C8",
+                  "concept_name": "છેલ્લા જાંબુ પછી ખુલ્લા પ્રશ્ને અટકતી વાત",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "not_cut_as_topics": [
+    "[[પાઠ-શીર્ષક]] '6  જો કરી જાંબુએ' and [[લેખક-પરિચય]] '- જયંતી ધોકાઈ' — printed header furniture. The author line here is a BYLINE printed under the title, not the child-addressed લેખક-પરિચય + કૃતિ-પરિચય paragraph that opens a std-10 chapter, so it is not a CONCEPT topic (agents/02_structure.md §1; reference/explanation_unit_map.md §4 bullet 1). Note for Agent 5: it is printed at the head of the chapter, not at the foot of the story, so it belongs in no topic's original_chunk. The QR badge (code K7I8A8) top-right of printed p. 30 is header furniture too and never enters original_chunk.",
+    "[[પ્રવેશપેટી]] — the blue teacher-addressed box on printed p. 30 ('અહીં રોજબરોજના જીવનનો એક રમૂજી પ્રસંગ સરસ રીતે મુકાયો છે…'). Agent 1 marked it 'વાચન-દૃશ્ય નથી' on the render. It is the chapter's strongest self-identification and it prescribes the teaching ('વર્ગમાં વિદ્યાર્થીઓ પાસે રમૂજી પ્રસંગો કે ટુચકા રજૂ કરાવવા'), but it is apparatus: it feeds key_terms and ભાષા-બોધ and it is Agent 10's material, never a topic. Its instruction to the teacher must not be turned into a closing બોધ in any explanation (varta.md avoid-gate 2).",
+    "[[શબ્દાર્થ પેટી]] at the story's end (printed p. 32), seven head-words — અહાલેક, રાડ, હેત, ભાઈબંધ, આસ્તેક, ચાલાક, માઈલ. Apparatus: it feeds key_terms and point-of-use glossing, not a topic. Agent 1's recorded observation stands and was not repaired here: આસ્તેક is glossed in the box but does not occur in the printed story text on pp. 30–32. No રૂઢિપ્રયોગ box is printed in this chapter.",
+    "The fifteen printed સ્વાધ્યાય blocks (વાતચીત … 'નીચેના ફકરામાં રેખાંકિત પદોની જગ્યાએ તેના, તેઓ, તે, તેને, તેની, તેમના મૂકી ફકરો સુંદર અક્ષરે ફરીથી લખો.') stay in 01_meta.json's exercise_inventory and are Agent 10's work alone. Nothing inside them was folded into the cut: the ભોલુ paragraph of the last block, the રમેશભાઈ paragraph quoted in the grammar box, and the કાળ-કોઠો's model sentences are exercise/apparatus text, NOT reading scenes. Note that fifteen printed blocks run under fourteen printed numerals (two consecutive blocks both print '10.', per Agent 1's extraction note).",
+    "[[વ્યાકરણ પેટી]] — the chapter-final green box on printed p. 36 with the banner 'સર્વનામ'. Teacher-addressed ભાષા-બોધ matter that feeds the સર્વનામ exercise block; it carries no reading scene and is never a topic (reference/explanation_unit_map.md §4 bullet 1).",
+    "The two uncaptioned illustrations Agent 1 recorded (the fruit-cart market scene on printed p. 30 and the two-men-on-a-path scene on printed p. 31) carry no [[ચિત્ર]] marker line in 00_chapter_normalized.md — they are recorded only in 01_meta.json's extraction_notes. They are scene evidence for Agent 9 and are not topics. Recorded here so their absence from the marker roster is not read as a swallowed marker."
+  ],
+
+  "notes": [
+    "Cut by the સ્વરૂપ's unit, not by habit. 01_meta.json sets explanation_unit 'એક ઘટના'; varta.md sets 'One plot beat per topic … follow the story's turns, not paragraph counts'. 00_chapter_normalized.md carries SEVEN reading-scene markers, all [[ઘટના: …]], and this file carries seven topics — one marker, one topic, 1:1, nothing swallowed and nothing invented. The count also matches 01_meta.json's structure_inventory.ghatna = 7. kadi / duha / pad / tek_occurrences are all 0: this is prose end to end.",
+    "GENRE DISAGREEMENT WITH THE PROFILE PRIOR — reported for Agent 4 as agents/02_structure.md §1 requires ('where the rendered page and the table disagree, the page wins — and you say so'). Three pack documents name THIS chapter as nibandh_atmaparak's હાસ્ય sub-form: agents/02_structure.md's own table row, varta.md's near-miss routing table ('std-7 ch 6 જો કરી જાંબુએ … comic repetition is the engine → nibandh_atmaparak'), and reference/explanation_unit_map.md's nibandh_atmaparak row. Agent 1 re-diagnosed from the rendered page and routed to varta.md alone, on measured page evidence: there is no 'હું' anywhere in the running prose, the first sentence's subject is અમથાલાલ in the third person, there is no essayist voice and no self-admission, and the book's own apparatus prints 'આ વાર્તામાં કયું પાત્ર તમને સૌથી વધુ ગમ્યું ?'. I followed the page and Agent 1's routing. genre_confidence stays 'medium' for exactly this reason.",
+    "The disagreement does NOT move the cut, and that is worth stating plainly for Agent 4. Under nibandh_atmaparak the unit would be the comic turn, and reference/explanation_unit_map.md spells out what that means for this very chapter: 'std-7 ch 6 જો કરી જાંબુએ repeats one temptation down a chain of couriers and each courier is one topic.' Under varta the unit is one ઘટના, and varta.md adds 'Repetition with escalation is a chain of beats, not one beat.' Both priors converge on the identical seven-topic cut: one courier, one beat, one topic. No topic here would change if the orchestrator resolved the routing the other way.",
+    "The three couriers were NOT merged into a single 'બધા ખાઈ ગયા' topic. Each of મગન, રામજી and નાથિયો is a beat with its own small arc (taking the bag → the tongue starts → eating → the self-justification → the stones), and the escalation is the chapter's engine: મગન counts four stones, રામજી adds his 'તેણેય', and નાથિયો adds stones he goes looking for elsewhere ('બીજાય બેપાંચ આમતેમથી શોધીને નાખ્યા'). Merging them would erase the pattern the chapter is built on and would leave nothing for objective O4 to compare.",
+    "Modules are the story's three large movements, not a size split. M1 gets the jamun into a bag and refuses to walk it half a mile; M2 hands the bag down the chain of couriers, ending with the one who works out what has been happening; M3 carries it the last few houses, where the trick turns back on a carrier and the bag reaches its owner all but empty. Segment and topic counters run across the whole chapter and never restart (M1.S1 → M1.S2 → M2.S3 → M2.S4 → M3.S5 → M3.S6; T1 → T7).",
+    "topic_category 'climax' sits on M3.S5.T6, where the story changes direction: up to that point every carrier eats and covers it up successfully, and at 'તે તો બીજાં બે'ક ખાવા માટે થેલીમાં હાથ નાખ્યો તો જાંબુને બદલે હાથમાં આવ્યા ઠળિયા ! હત્તારીની !' the cover-up fails and the carrier refuses to deliver. M3.S6.T7 is the પરિણામ and the closing ચોટ ('તેની બિચારાની શી દશા થઈ હશે !') and is marked 'resolution'. Note for Agents 12/13: varta.md avoid-gate 4 (no topic before the climax names the outcome) therefore binds T1–T5 — no earlier explanation, summary or recall answer may say that ટપુડાને ઠળિયા મળ્યા.",
+    "Concept count is 8 and the counter is chapter-continuous per reference/phase2_contract.md: C1 (T1), C2 (T2), C3 (T3), C4 (T4), C5 + C6 (T5), C7 (T6), C8 (T7). Concept number therefore stops matching topic number from T6 onward — that is the contract, not a defect. Only M2.S4.T5 carries two concepts, because that beat genuinely does two separable things: નાથિયો reads the stones and works out the whole chain, and then — a separate decision, with its own printed reasoning ('એવી બધી કડાકૂટ આપણે શા માટે કરવી ?') — offloads the bag onto મોંઘીમા rather than face ટપુડો. No topic needed three, so the cut was not revisited.",
+    "topic_type is STORY_TELLING for all seven. Std 7 prints no child-addressed લેખક-પરિચય paragraph (that is the std-10 pattern), so there is no CONCEPT topic; the chapter prints no in-text wrap, moral line or value summary, so there is no REVIEW topic either. The story simply stops on its open question.",
+    "difficulty is relative inside THIS chapter and is set by what stops a std-7 L2 reader on the page, never by craft — the craft ceiling means no topic here can be 'hard' for a device it may not name (profiles/students/std-7.md §1–2). hard: M2.S3.T4 (તળપદા- and idiom-dense across a long stretch — માંહ્યલીકોર, બે'ક, મેલ્યાં, દાઢમાં ચોંટી ગયાં, ચેન ના પડ્યું, પધરાવી, આંટો ખાવો) and M2.S4.T5 (the chapter's longest single block, many clauses to a sentence, plus સુપરત, ભાળીને, કડાકૂટ and the nonsense tag 'આલા બાલા (અષ્ટમ્ પષ્ટમ્)'). medium: T1 (the market cry, અહાલેક, ડોકિયું, સામટાં, ઝાપટી ગયા and haggling diction), T3 (the longest prose paragraph of the early chapter, with લૂલી લબક લબક and ભાન ન રહ્યું), T6 (અછતાં, બોખા મોંમાં, હત્તારીની, નખ્ખોદિયો) and T7 (one very long closing sentence built on the repeated 'હશે'). easy: T2 — short sentences, a familiar object-world, and only રાજીના રેડ and વારેતહેવારે to slow the reader.",
+    "depends_on records real dependence only, and each entry is backed by an explicit back-reference on the printed page. T4 depends on T3 because 'ને વજન સરખું કરવા તેણેય ઠળિયા નાખ્યા થેલીમાં' — the 'તેણેય' only means anything after મગન's move. T5 depends on T3 and T4 together because he reads what they left: 'થેલીમાં જાંબુડાં ભેળા થોડાક ઠળિયાય ભાળીને ચાલાક નાથિયો બધુંય સમજી ગયો.' T6 depends on T5 because she names him — 'નખ્ખોદિયો નાથિયો !' T7 depends on T6 because મોંઘીમા hands પશી the bag. T1, T2 and T3 carry [] — the plain, correct value.",
+    "Craft-label ceiling honoured. No objective, module, segment, topic or concept name in this file uses an અલંકાર, છંદ or સમાસ label or a સાહિત્યપ્રકાર tag. The word 'વાર્તા' appears in this file only in provenance and note prose, never in a child-facing name or in an objective_text; the intro box's own phrase 'રમૂજી પ્રસંગ' is quoted as evidence only.",
+    "No numbers in any display name (global_content_rules.md rule 4). The printed quantities that had to be named inside objectives are written as Gujarati words carried from the page ('બસો ગ્રામ' is answered rather than stated; 'એક કિલો', 'અડધો માઈલ'), never as numerals, and no name anywhere is of the 'ઘટના 3' shape.",
+    "Sensitivity carried forward for Agents 8/12/13. The chapter's own identification is 'રમૂજી પ્રસંગ', and global_content_rules.md rule 1 plus varta.md avoid-gate 2 mean it must not be re-authored into a lesson about lying or honesty: no explanation, summary, concept bullet or recall answer may close on 'આ વાર્તા આપણને શીખવે છે…' or 'આપણે પણ … જોઈએ'. varta.md avoid-gate 3 also binds here — the page treats every carrier with amusement, not condemnation, so no field may label મગન, રામજી, નાથિયો, મોંઘીમા or પશી ખોટા, લોભી or ચોર. મોંઘીમા is named ડોસી / ડોશી by the text itself at two places; keep the printed word where it is quoted and do not upgrade or downgrade the register.",
+    "Uneven topic length, recorded for Agent 13 and not blocking. M2.S4.T5 runs a single very long printed paragraph carrying two moves, while M1.S2.T2 and M3.S5.T6 are two short paragraphs each and M3.S6.T7 is one paragraph. The lengths follow the printed beats; no beat was split or padded to even them out, and the pre-topic-hook rule was applied — 'આગળ ચાલતાં તેને નાથિયો મળી ગયો.' opens T5 rather than closing T4, and 'હજુ તો સામેની ગલી વટાવે છે ત્યાં જ તેને સામે મોંઘીમા ભટકાયાં.' stays inside T5 because the હૅન્ડઓવર to મોંઘીમા is completed there, on the same printed line, before T6 begins with her walking.",
+    "Agent 1's printed-variant record is carried through unchanged and must not be normalised anywhere downstream: માંહ્યલીકોર (T3, T4) vs માંયલીકોર (T5); ડોસીને / ડોશીથી (T6); અડધો માઈલ (T2) vs અર્ધો માઈલ (exercise કોઠો); and the કોઠો's printed 'નાથીમાનું નાક' where the story prints નાથિયાનું. Agent 1 also flags that the double-render cross-check could not be run as specified — a 200 dpi re-render is recommended before the verbatim is verified. That is Agent 5's gate, not this file's.",
+    "No teaching prose was written here. explanation and real_life_example are Agent 12's, original_chunk is Agent 5's and stays empty in every topic, key_terms and concept content stay empty shells, and no summary or recall question appears anywhere in this file."
+  ]
+}

@@ -1,0 +1,962 @@
+{
+  "_comment": "The SECOND deliverable for GSEB ગુજરાતી (દ્વિતીય ભાષા) ધોરણ 7, એકમ 8 'સાદ વરત્યો'. Every સ્વાધ્યાય block inventoried in 01_meta.json is answered here and NOWHERE else - સ્વાધ્યાય is never a teaching topic. The GSEB PDF carries no text layer: prompt_verbatim is transcribed from 00_chapter_normalized.md and verified against the rendered pages page-2.png to page-6.png (printed pp. 51-55). The book prints no સ્વાધ્યાય banner and no block numbered 4 - it jumps from 3 to 5; the printed numbers are kept in teacher_note and EX{n} is our own consecutive counter. See reference/exercise_alignment.md and agents/10_exercise_solutions.md.",
+  "plan_id": "gseb_eng_gujarati7_ch8_v1",
+  "chapter_id": "gseb_eng_gujarati7_ch8",
+  "subject": "Gujarati",
+  "grade": 7,
+  "chapter_name": "સાદ વરત્યો",
+  "exercises": [
+    {
+      "exercise_id": "EX1",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "1. આ વાર્તામાંથી તમને કોનું પાત્ર સૌથી વધારે ગમ્યું ? કેમ ?",
+      "answer": "(એક શક્ય જવાબ) મને જોગીદાસ ખુમાણનું પાત્ર સૌથી વધારે ગમ્યું. વેર હોવા છતાં એ દુશ્મન મહારાજના દીકરાના ખરખરે હથિયાર વગર, માથે ફાળિયું ઢાંકીને પહોંચી ગયા. નામ પડ્યું ને ઓળખાઈ ગયા ત્યારે ભાગ્યા નહિ — ઊલટું પછેડી ખસેડીને મોઢું ખુલ્લું કર્યું ને એટલું જ બોલ્યા, ''ભલો વરત્યો રાજ !'' મહારાજે ''જોગીદાસ, બીશો મા હોં !'' કહ્યું ત્યારે એમનો જવાબ હતો — ''બીતો હોત તો આવત શા માટે રાજ ?'' આટલી હિંમત અને ખાનદાની મને ગમી.",
+      "explanation": "પસંદગી ગમે તે પાત્રની હોય, પણ 'કેમ ?' નો જવાબ પાઠમાંથી જ આપવો પડે — પાત્રે શું કર્યું કે શું બોલ્યું એ કહેવું જોઈએ. અહીં કારણ તરીકે જોગીદાસનાં બે વેણ અને એમનું હથિયાર વગર ડાયરામાં જવું — એ ત્રણેય પાઠમાં જ છપાયેલાં છે.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) મને વજેસંગ મહારાજનું પાત્ર ગમ્યું. તલવારો અરધી ખેંચાઈ ગઈ ત્યાં એમનો હાથ ઊંચો થયો ને એમણે કહ્યું, ''રાજપૂતો ! આજ જોગીદાસભાઈ બાઝવા નથી આવ્યા... મારા ગરાસમાં નહિ, પણ મારા દુઃખમાં ભાગ લેવા આવ્યા છે.'' દીકરો ગુમાવ્યા પછી પણ મહેમાનની આબરૂ સાચવી.",
+        "(એક શક્ય જવાબ) મને હાદા ખુમાણનું પાત્ર ગમ્યું. જોખમ દેખાતું હતું છતાં દીકરાનું મન ન તોડ્યું — ''એને ખાનદાનીના મનસૂબા ઊપડે છે. એનું મનભંગ ન કરાય !''"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 1. Oral opener after the first reading. Accept any character, but insist the reason be a line or an action from the chapter. Do not let the class turn બહારવટિયો into an evaluative label for જોગીદાસ - the chapter uses the word as a description and treats the man with honour.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T3",
+        "M2.S3.T5",
+        "M2.S4.T6",
+        "M3.S5.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX2",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "2. તમને અંધારામાં કોઈ અજાણ્યું માણસ બૂમ પાડે કે દેખાય તો શું કરો ?",
+      "answer": "(એક શક્ય જવાબ) હું પહેલાં ઊભો રહીને અવાજ ધ્યાનથી સાંભળું — ઘણી વાર અંધારામાં ચહેરો નહિ, અવાજ જ ઓળખાય છે. ઓળખાય તો શાંતિ થાય. ન ઓળખાય તો હું આગળ ન વધું, મોટેથી ''કોણ છે ?'' પૂછું, ટૉર્ચ કરું અને સીધો ઘર તરફ કે નજીકના મોટા માણસ પાસે જાઉં. જરૂર પડે તો બૂમ પાડીને પડોશીને બોલાવું, પણ અજાણ્યા માણસ સાથે એકલો ક્યાંય ન જાઉં.",
+      "explanation": "આ પ્રશ્ન બાળકના પોતાના અનુભવનો છે, પણ એ સીધો પાઠના વળાંક સાથે જોડાય છે : ત્યાં પણ ચહેરો ઢંકાયેલો છે ને ઓળખ અવાજ પરથી થાય છે. જવાબમાં બે વાત આવવી જોઈએ — પહેલાં અવાજ ઓળખવાની કોશિશ, અને પછી સલામતીનું પગલું.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) મને બીક લાગે એટલે હું દોડીને ઘરમાં જતો રહું અને પપ્પાને કહું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 2. Safety prompt - keep the answers practical and do not let it become a scare story. Link it back to વજેસંગ recognising a covered man by his voice.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX3",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "3. તમે કોના કોના અવાજ ઓળખી શકો છો ?",
+      "answer": "(એક શક્ય જવાબ) હું મમ્મી, પપ્પા, દાદી, મારા મોટા ભાઈ અને મારા બે-ત્રણ ખાસ ભાઈબંધોનો અવાજ ફોન પર પણ ઓળખી લઉં છું. વર્ગશિક્ષકનો અવાજ તો બીજા વર્ગમાંથી પણ ઓળખાય છે. ઘરે દૂધ આપવા આવતા કાકા બહારથી બૂમ પાડે એટલે જોયા વગર ખબર પડી જાય. શાળાનો ઘંટ અને અમારી ગલીના કૂતરાનો અવાજ પણ હું ઓળખું છું.",
+      "explanation": "જેને રોજ સાંભળીએ છીએ એનો અવાજ કાનમાં બેસી જાય છે — એ જ વાત પાઠમાં મહારાજ કહે છે : ''કાઠિયાવાડમાં તો તારું ગળું ક્યાં અજાણ્યું છે ? પાંચસો આદમી વચ્ચે તારા હાકોટા પરખાય, તો પછી તારા વિલાપ કેમ ન વરતાય ?'' એટલે આ પ્રશ્નનો જવાબ પાઠનું શીર્ષક 'સાદ વરત્યો' સમજાવી દે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 3. The best single prompt for the chapter's title - run it just before the વળાંક is read.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX4",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "4. શાળામાં તમે કયા કયા નિયમોનું પાલન કરો છો ?",
+      "answer": "(એક શક્ય જવાબ) અમે સમયસર શાળાએ પહોંચીએ છીએ, ગણવેશ પહેરીએ છીએ અને પ્રાર્થનામાં હારબંધ ઊભા રહીએ છીએ. વર્ગમાં વારો આવે ત્યારે જ બોલીએ છીએ, બીજાનું બોલવાનું વચ્ચેથી કાપતા નથી. કચરો કચરાપેટીમાં જ નાખીએ છીએ, પાણી બગાડતા નથી અને પુસ્તકાલયનું પુસ્તક સમયસર પાછું આપીએ છીએ.",
+      "explanation": "આ ખુલ્લો પ્રશ્ન છે; દરેક શાળાના નિયમો થોડા જુદા હોય. જવાબમાં નિયમનું નામ અને એ કેમ પાળીએ છીએ એ બંને આવે તો સારું.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 4. Let the class list their own school's rules on the board first; it makes item 5 easier and safer.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX5",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "5. તમારામાંથી કોઈકવાર શાળાના નિયમનો ભંગ થયો છે ? ક્યારે ?",
+      "answer": "(એક શક્ય જવાબ) હા, એક વાર થયો હતો. ગયા ચોમાસામાં વરસાદ પડ્યો ને હું મેદાનમાં પલળવા રોકાયો, એટલે પ્રાર્થનામાં મોડો પડ્યો. શિક્ષકે કારણ પૂછ્યું ત્યારે મેં સાચેસાચું કહી દીધું. પછીથી હું ઘરેથી થોડો વહેલો નીકળવા લાગ્યો.",
+      "explanation": "અહીં કબૂલાત નહિ, પ્રામાણિકતા શીખવાની છે : ભૂલ ક્યારે થઈ અને પછી શું કર્યું — બંને કહેવાય તો જવાબ પૂરો થાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 5. Never force a child who does not want to answer, and do not let classmates name each other. Keep it to the child's own account.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX6",
+      "exercise_group": "વાતચીત",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "6. વજેસંગ મહારાજે જોગીદાસ ખુમાણનો સાદ ન ઓળખ્યો હોત તો શું થયું હોત ?",
+      "answer": "(એક શક્ય જવાબ) તો જોગીદાસ ખુમાણ કુંડલાના ડાયરા સાથે બેસીને, ખરખરો કરીને, માથે પછેડી ઢાંકેલી રાખીને જ ચૂપચાપ પાછા નીકળી ગયા હોત. પાઠ પ્રમાણે પાંચસો જણના સમુદાયમાં કોણ છે તે ઓળખવાની ધાસ્તી નહોતી, એટલે કોઈને ખબર જ ન પડત કે બહારવટિયો દરબારગઢમાં આવ્યો હતો. તલવારો ન ખેંચાત, ''બહારવટિયો ! બહારવટિયો !'' એવા હાકોટા ન થાત — પણ સાથે સાથે મહારાજનું વેણ ''મારા ગરાસમાં નહિ, પણ મારા દુઃખમાં ભાગ લેવા આવ્યા છે'' પણ કોઈએ સાંભળ્યું ન હોત, અને શિહોરની બજારે ઊમટેલા લોકોએ જુવાન જોગીદાસનું જતિસ્વરૂપ જોયું ન હોત. વાર્તાનો વળાંક જ ન આવત.",
+      "explanation": "'હોત તો ?' પ્રકારના પ્રશ્નનો જવાબ કલ્પનાથી નહિ, પાઠે જે વાત ઊભી કરી છે તેમાંથી જ કાઢવાનો હોય. પાઠ ત્રણ વાત આપે છે — ઓળખાવાની ધાસ્તી નહોતી, નામ પડતાં જ તલવારો સુધી હાથ ગયા, અને પછી જ લોકોએ બહારવટિયાને નજરે જોયો. એ ત્રણેમાંથી આ જવાબ બંધાય છે.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) તો ડાયરો શાંતિથી પૂરો થાત, પણ પાઠમાં જે સૌથી મોટી વાત બને છે — દુશ્મન સામસામે ઓળખાયા પછી પણ એકબીજાનું માન રાખે છે — તે બનત જ નહિ."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 6. This is the std-7 counterfactual signature and it is the chapter's own hinge question. Ask it only AFTER the class has read to the end; asking it early spoils the turn.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S3.T4",
+        "M2.S3.T5",
+        "M2.S4.T6",
+        "M3.S5.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX7",
+      "exercise_group": "જોડકાં જોડો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અ : બહારવટિયો",
+      "answer": "''ભલો વરત્યો રાજ !''",
+      "explanation": "પાઠમાં આ વેણ પહેલાં 'બહારવટિયો' શબ્દ જ વપરાયો છે : ''બહારવટિયો એટલું જ બોલ્યો કે ''ભલો વરત્યો રાજ !'''' — નામ પડ્યા પછી પણ એ ગભરાયા વગર પછેડી ખસેડીને એટલું જ કહે છે. 'વરત્યો' એટલે ઓળખ્યો; મહારાજે બરાબર ઓળખ્યો, એમ કબૂલ કરવાની આ રીત છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "અ : બહારવટિયો  →  બ : ''ભલો વરત્યો રાજ !''  |  અ : હાદા ખુમાણ  →  બ : ''અરરર! દાદભા જેવો દીકરો ઝડપાઈ ગયો ? શું થયું ?''  |  અ : વજેસંગ મહારાજ  →  બ : ''છાના રો', જોગીદાસ ખુમાણ તમેય છાના રો''  |  અ : શિહોરની સ્ત્રીઓ  →  બ : ''સાચો લક્ષ્મણ જતિનો અવતાર !''  |  અ : જોગીદાસ ખુમાણ  →  બ : ''બીતો હોત તો આવત શા માટે રાજ !''",
+      "teacher_note": "Printed block 2, row 1. બહારવટિયો and જોગીદાસ ખુમાણ are the same man, so the grid looks confusing at first. Go by the chapter's own naming: where the narrator says બહારવટિયો, the line is ''ભલો વરત્યો રાજ !''; where the મહારાજ calls him by name, the reply is ''બીતો હોત તો આવત શા માટે રાજ ?''. Say this aloud before the children write.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX8",
+      "exercise_group": "જોડકાં જોડો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અ : હાદા ખુમાણ",
+      "answer": "''અરરર! દાદભા જેવો દીકરો ઝડપાઈ ગયો ? શું થયું ?''",
+      "explanation": "કુંવર દાદભાના મરણના સમાચાર જોગીદાસ લાવે છે ને એ સાંભળીને બાપ હાદો ખુમાણ આ વેણ બોલે છે. દુશ્મનના દીકરાના મરણ પર પણ એમના મોઢેથી પહેલો શબ્દ 'અરરર !' નીકળે છે — વાર્તાની આખી ખાનદાની અહીંથી શરૂ થાય છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "અ : બહારવટિયો  →  બ : ''ભલો વરત્યો રાજ !''  |  અ : હાદા ખુમાણ  →  બ : ''અરરર! દાદભા જેવો દીકરો ઝડપાઈ ગયો ? શું થયું ?''  |  અ : વજેસંગ મહારાજ  →  બ : ''છાના રો', જોગીદાસ ખુમાણ તમેય છાના રો''  |  અ : શિહોરની સ્ત્રીઓ  →  બ : ''સાચો લક્ષ્મણ જતિનો અવતાર !''  |  અ : જોગીદાસ ખુમાણ  →  બ : ''બીતો હોત તો આવત શા માટે રાજ !''",
+      "teacher_note": "Printed block 2, row 2. Point out that this is the enemy's father speaking, and that his first word is a cry of sorrow, not of triumph.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX9",
+      "exercise_group": "જોડકાં જોડો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અ : વજેસંગ મહારાજ",
+      "answer": "''છાના રો', જોગીદાસ ખુમાણ તમેય છાના રો''",
+      "explanation": "રીત પ્રમાણે મહારાજ વજેસંગ એક પછી એક તમામને માથે હાથ દઈ છાના રાખતા હતા; ચાલતાં ચાલતાં જોગીદાસ પાસે પહોંચીને એમણે આ સાદ કર્યો. આ એક જ વાક્યથી વાર્તા વળી જાય છે, કેમ કે એમાં જ 'જોગીદાસ ખુમાણ' નામ પડે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "અ : બહારવટિયો  →  બ : ''ભલો વરત્યો રાજ !''  |  અ : હાદા ખુમાણ  →  બ : ''અરરર! દાદભા જેવો દીકરો ઝડપાઈ ગયો ? શું થયું ?''  |  અ : વજેસંગ મહારાજ  →  બ : ''છાના રો', જોગીદાસ ખુમાણ તમેય છાના રો''  |  અ : શિહોરની સ્ત્રીઓ  →  બ : ''સાચો લક્ષ્મણ જતિનો અવતાર !''  |  અ : જોગીદાસ ખુમાણ  →  બ : ''બીતો હોત તો આવત શા માટે રાજ !''",
+      "teacher_note": "Printed block 2, row 3. This is the turn of the whole story - read the sentence aloud from the chapter before matching. Note the printed apostrophes in રો' (short for રોવું બંધ કરો); keep them.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX10",
+      "exercise_group": "જોડકાં જોડો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અ : શિહોરની સ્ત્રીઓ",
+      "answer": "''સાચો લક્ષ્મણ જતિનો અવતાર !''",
+      "explanation": "પાઠના છેલ્લા વાક્યમાં આ વેણ છે : ''અનેક બાઈઓનાં મોંમાંથી અહોભાવનું વેણ નીકળી પડ્યું...'' — એટલે એ શિહોરની સ્ત્રીઓનું વેણ છે. 'જતિ' એટલે વૈરાગી, તપસ્વી; નીચી નજરે ચાલ્યા જતા જોગીદાસને જોઈને એમને એવું લાગ્યું.",
+      "acceptable_alternatives": [
+        "પાઠમાં આ જ વેણ ''સાચે લખમણ જતિનો અવતાર !'' એ રૂપે છપાયું છે; બંને એક જ વેણ છે."
+      ],
+      "values_filled_for_teaching": "અ : બહારવટિયો  →  બ : ''ભલો વરત્યો રાજ !''  |  અ : હાદા ખુમાણ  →  બ : ''અરરર! દાદભા જેવો દીકરો ઝડપાઈ ગયો ? શું થયું ?''  |  અ : વજેસંગ મહારાજ  →  બ : ''છાના રો', જોગીદાસ ખુમાણ તમેય છાના રો''  |  અ : શિહોરની સ્ત્રીઓ  →  બ : ''સાચો લક્ષ્મણ જતિનો અવતાર !''  |  અ : જોગીદાસ ખુમાણ  →  બ : ''બીતો હોત તો આવત શા માટે રાજ !''",
+      "teacher_note": "Printed block 2, row 4. Book's own variation, verified on renders and NOT a transcription slip: the story (printed p. 52) prints ''સાચે લખમણ જતિનો અવતાર !'' while this grid (printed p. 53) prints ''સાચો લક્ષ્મણ જતિનો અવતાર !''. Read both to the class; the grid's form is the one to copy for this answer.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S5.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX11",
+      "exercise_group": "જોડકાં જોડો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અ : જોગીદાસ ખુમાણ",
+      "answer": "''બીતો હોત તો આવત શા માટે રાજ !''",
+      "explanation": "મહારાજ કહે છે ''જોગીદાસ, બીશો મા હોં !'' — એના જવાબમાં જોગીદાસ આ વેણ બોલે છે. અરધી ખેંચાયેલી તલવારો વચ્ચે ઊભા રહીને એ કહે છે કે બીક હોત તો આવ્યા જ ન હોત; એટલે એ ડરથી નહિ, દુઃખમાં ભાગ લેવા આવ્યા છે.",
+      "acceptable_alternatives": [
+        "પાઠમાં આ વેણ ''બીતો હોત તો આવત શા માટે રાજ ?'' એમ પ્રશ્નચિહ્ન સાથે છપાયું છે."
+      ],
+      "values_filled_for_teaching": "અ : બહારવટિયો  →  બ : ''ભલો વરત્યો રાજ !''  |  અ : હાદા ખુમાણ  →  બ : ''અરરર! દાદભા જેવો દીકરો ઝડપાઈ ગયો ? શું થયું ?''  |  અ : વજેસંગ મહારાજ  →  બ : ''છાના રો', જોગીદાસ ખુમાણ તમેય છાના રો''  |  અ : શિહોરની સ્ત્રીઓ  →  બ : ''સાચો લક્ષ્મણ જતિનો અવતાર !''  |  અ : જોગીદાસ ખુમાણ  →  બ : ''બીતો હોત તો આવત શા માટે રાજ !''",
+      "teacher_note": "Printed block 2, row 5. In the story (printed p. 52) the line closes with a spaced '?' - ''બીતો હોત તો આવત શા માટે રાજ ?'' - while the grid prints '!'. Verified on the renders; both stand as printed.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX12",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "1. જોગીદાસ ખુમાણ શા માટે બહારવટે ચડ્યા હતા ?",
+      "answer": "પાઠ એનું ચોક્કસ કારણ ક્યાંય કહેતો નથી. પાઠ પરથી આટલું જ કહી શકાય : જોગીદાસ ખુમાણ ભાવનગરના ઠાકોર વજેસંગની સામે બહારવટે ચડ્યા હતા. હાદો ખુમાણ પોતે કહે છે — ''ઠાકોર વજેસંગ, જેની સામે આપણે મોટો ખોફ જગાવ્યો છે''; અને પાઠની શબ્દાર્થ પેટી 'બહારવટિયો' નો અર્થ આપે છે — 'રાજાથી નારાજ થઈને તેને સતાવવા કાયદા તોડનારો કે પ્રજાને રંજાડવા નીકળેલો માણસ'. એટલે એ રાજા સામેની નારાજગીમાંથી ઊભું થયેલું બહારવટું હતું.",
+      "explanation": "આ પ્રશ્નનો આખો જવાબ પાઠમાં નથી — અને એટલે એ જ સાચો જવાબ છે. પાઠ પાસે જે છે તે બે વસ્તુ છે : હાદા ખુમાણનું 'મોટો ખોફ જગાવ્યો છે' વાળું વેણ, અને શબ્દાર્થ પેટીમાં આપેલો 'બહારવટિયો' શબ્દનો અર્થ. એની બહાર જઈને કારણ બનાવી કાઢવું એ પાઠને ખોટું બોલાવવા બરાબર છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 1. IMPORTANT - the chapter does not state why જોગીદાસ took to બહારવટું; that belongs to the wider સૌરાષ્ટ્રની રસધાર cycle, not to this extract. Answer from the two printed pieces of evidence and say plainly that the rest is not in the lesson. Do not supply the historical background as if the chapter carried it.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX13",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "2. શિહોર - ભાવનગરની શેરીએ શેરીએ છાતીફાટ વિલાપ શા માટે થતો હતો ?",
+      "answer": "કારણ કે મહારાજ વજેસંગના કુંવર દાદભા ગુજરી ગયા હતા. દશેરાને દી' કુંવર ભાવનગર દરિયો પૂજવા ગયા હતા, પાછા વળતાં માથું ફાટવા માંડ્યું અને શિહોર ભેળા થયા ત્યાં તો જીભ ઝલાઈ ગઈ ને દમ નીકળી ગયો. જુવાન કુંવરના આવા ઓચિંતા મરણથી આખું ગામ ભાંગી પડ્યું — પાઠના શબ્દોમાં ''વસતીના ઘરે ઘરમાં પચીસ વરસનો જુવાન જોદ્ધો મરી ગયો હોય એવો કળેળાટ થાય છે.''",
+      "explanation": "'છાતીફાટ રડવું' એટલે મોટેથી રડવું અને 'કળેળાટ' એટલે કકળાટ, રડારોળ — બંને પાઠની પોતાની શબ્દાર્થ પેટીમાં છે. વિલાપનું કારણ કોઈ લડાઈ નથી : કુંવર માંદગીથી ઓચિંતા મરી ગયા, અને એ પણ જુવાનવયે — એટલે શોક બમણો છે.",
+      "acceptable_alternatives": [
+        "મહારાજ વજેસંગના જુવાન કુંવર દાદભાના ઓચિંતા મરણને લીધે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 2. Watch the common misreading: children read માથું ફાટવા માંડ્યું literally and imagine an attack. Use the printed રૂઢિપ્રયોગ box - માથું ફાટવું = માથું ખૂબ દુખવું, દમ નીકળી જવો = મરી જવું.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX14",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "3. જોગીદાસ ખુમાણે દાદભાના ખરખરે જવાનું શા માટે વિચાર્યું !",
+      "answer": "કારણ કે એમને એ મરણ પોતાનું પણ લાગ્યું. હાદો ખુમાણ કહે છે — ''દાદભાની દેઈ પડે એનું સનાન તો આપણનેય આવ્યું કે'વાય, આપણે ના'વું જોવે.'' સહુ બહારવટિયાઓએ ફાળિયાં પહેરીને નદીમાં માથાબોળ સ્નાન કર્યું, અને એ પછી જ જુવાન જોગીદાસે વાત ઉચ્ચારી : ''આપણે મહારાજના મોઢા સુધી ખરખરે ન જઈ આવવું જોવે ?'' વેર તો ઠાકોર સામે હતું, પણ મરણ પાછળ ખરખરો કરવા જવો એ ખાનદાનીનો રિવાજ છે — બાપ પોતે એને ''ખાનદાનીના મનસૂબા'' કહે છે.",
+      "explanation": "'સનાન' એટલે અહીં રોજ નાહવાનું નહિ, પણ મરણ નિમિત્તે નાહવાનો લોકાચાર; 'ખરખરો' એટલે મરણ પાછળનો શોક વ્યક્ત કરવા જવું તે — બંને પાઠની શબ્દાર્થ પેટીમાં છે. જવાબમાં આ ક્રમ દેખાવો જોઈએ : સમાચાર → સનાન → ખરખરે જવાનો વિચાર.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 3. The book prints '!' at the end of this question instead of '?'. That is the book's own slip; prompt_verbatim keeps it exactly as printed (verified on page-4 of the renders) and it must not be tidied.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2",
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX15",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "4. જોગીદાસ ખુમાણે ખરખરે જવા માટે માથે પછેડી ન ઓઢી હોત તો ?",
+      "answer": "(એક શક્ય જવાબ) તો એ દરબારગઢની ડેલીએ પહોંચતાં જ ઓળખાઈ જાત. હાદો ખુમાણ પોતે એનું કારણ કહી દે છે — ''જો પ્રથમથી જ જાણ થાય તો પછી ઝાટકાની જ મેળ થાય, કેમ કે પાસવાનો ન સમજી શકે કે આપણે લૌકિક કરવા આવ્યા છીએ.'' એટલે મહારાજ સુધી પહોંચતાં પહેલાં જ પાસવાનોની તલવારો ચાલી હોત, અને ખરખરો કરવાની તક જ ન મળત.",
+      "explanation": "આ 'હોત તો ?' પ્રશ્નનો જવાબ કલ્પનાનો નથી — પાઠ પોતે જ કારણ છાપી દે છે. 'પાસવાન' એટલે હજૂરિયો, રાજાની પડખે રહેનારો; 'લૌકિક' એટલે મરણ પાછળનો સામાજિક વ્યવહાર. ડર મહારાજનો નહોતો ('મહારાજની તો મને ભે નથી'), ડર બીજા માણસોની ગેરસમજનો હતો.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 4. Second counterfactual of the chapter. Keep the answer inside હાદા ખુમાણ's own printed reason - children often answer that જોગીદાસ was afraid of the મહારાજ, which the text explicitly denies.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T3",
+        "M2.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX16",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "5. વજેસંગ મહારાજ જોગીદાસ ખુમાણને કેવી રીતે ઓળખી ગયા ?",
+      "answer": "સાદ પરથી — અવાજ પરથી. રીત પ્રમાણે મહારાજ એક પછી એક તમામને માથે હાથ દઈ છાના રાખતા હતા; જોગીદાસ પાસે પહોંચીને એમણે એમનું રોવું સાંભળ્યું અને ઓળખી ગયા. મહારાજ પોતે કારણ કહે છે — ''વરતું કેમ નહિ જોગીદાસ ખુમાણ ! કાઠિયાવાડમાં તો તારું ગળું ક્યાં અજાણ્યું છે ? પાંચસો આદમી વચ્ચે તારા હાકોટા પરખાય, તો પછી તારા વિલાપ કેમ ન વરતાય ?''",
+      "explanation": "ચહેરો તો પછેડી નીચે ઢંકાયેલો હતો, એટલે આંખે ઓળખવાની કોઈ શક્યતા નહોતી. પાઠનું શીર્ષક પણ આ જ કહે છે : 'સાદ વરત્યો' — સાદ એટલે અવાજ, વરત્યો એટલે ઓળખ્યો.",
+      "acceptable_alternatives": [
+        "જોગીદાસના રોવાના — વિલાપના — અવાજ પરથી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 5. This is the answer that explains the title; write સાદ = અવાજ and વરત્યો = ઓળખ્યો on the board from the શબ્દાર્થ box.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX17",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "6. જોગીદાસ ખુમાણને જોઈને તલવારો કેમ ખેંચાઈ હશે ?",
+      "answer": "કારણ કે 'જોગીદાસ ખુમાણ' એટલું નામ પડતાં તો શિહોર ઉપર જાણે વજ પડ્યું. જે માણસ સામે વરસોથી વેર ચાલતું હતું અને જેને ઠાર મારવા હજારોની ફોજ ફરતી હતી, તે અચાનક દરબારગઢની ડેલી પાસે, મહારાજની સાવ પડખે નીકળ્યો. મહેમાનો હાંફળાફાંફળા થઈ ગયા, ''બહારવટિયો ! બહારવટિયો !'' એવા હાકોટા થવા લાગ્યા અને પાઠ કહે છે — ''સહુને લાગ્યું કે હમણાં જોગીદાસ મહારાજને મારી પાડશે.'' એ બીકે તલવારોની મૂઠે સહુના હાથ ગયા.",
+      "explanation": "'વજ પડવું' એટલે ભયંકર આઘાત લાગવો — પાઠની રૂઢિપ્રયોગ પેટીનો શબ્દ છે. તલવારો ગુસ્સાથી નહિ, ડરથી અને મહારાજને બચાવવાની ઉતાવળથી ખેંચાઈ. પાઠ પણ કહે છે કે તલવારો 'અરધી ખેંચેલી' હતી — પૂરી ખેંચાઈ જ નહોતી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 6. A motive question, not an event question - the answer must say what the crowd feared, in the crowd's words.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T5",
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX18",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "7. વજેસંગ મહારાજે તલવારની મૂઠે હાથ દઈને ઊભેલા રાજપૂતોને કેમ વાર્યા ?",
+      "answer": "કારણ કે એ સમજી ગયા હતા કે જોગીદાસ લડવા નહિ, ખરખરો કરવા આવ્યા છે. એમનો હાથ ઊંચો થયો અને એમણે સાદ દીધો — ''રાજપૂતો ! આજ જોગીદાસભાઈ બાઝવા નથી આવ્યા, દીકરો ફાટી પડ્યો છે એને અફસોસે આવ્યા છે. મારા ગરાસમાં નહિ, પણ મારા દુઃખમાં ભાગ લેવા આવ્યા છે.''",
+      "explanation": "'બાઝવું' એટલે લડવું, ટંટો કરવો — શબ્દાર્થ પેટીનો શબ્દ. મહારાજ બે વાત જુદી પાડે છે : ગરાસ (જમીન-સત્તા) નો ઝઘડો અને દુઃખનો પ્રસંગ. વેર ગરાસનું છે, પણ આજનો પ્રસંગ દુઃખનો છે — અને દુઃખમાં આવેલો માણસ મહેમાન ગણાય. મહારાજ એમને 'જોગીદાસભાઈ' કહીને બોલાવે છે, એ જ આખો જવાબ કહી દે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 7. Ask the class to notice the single word જોગીદાસભાઈ - the honorific is where the મહારાજ's decision is visible.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX19",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "8. જોગીદાસ ખુમાણને જોઈને વજેસંગ મહારાજની આંખમાં ઝળઝળિયાં કેમ આવી ગયાં હશે ?",
+      "answer": "એક બાજુ જુવાન દીકરો દાદભા ગુમાવ્યાનું દુઃખ, અને બીજી બાજુ જેની સામે વરસોનું વેર છે તે માણસ હથિયાર વગર, મોઢું ઢાંકીને, પોતાના શોકમાં ભાગ લેવા ડેલી સુધી આવી પહોંચ્યો — આ બે વાત ભેગી થતાં મહારાજ ભાંગી પડ્યા. પોતાના જ શબ્દોમાં : ''મારા ગરાસમાં નહિ, પણ મારા દુઃખમાં ભાગ લેવા આવ્યા છે.'' આવી ખાનદાની જોઈને એમનું હૈયું ભરાઈ આવ્યું.",
+      "explanation": "પાઠમાં આ ક્ષણ બે વાક્યમાં લખાઈ છે — ''મહારાજ ગળગળા થયા. જોગીદાસની આંખોમાં પણ ઝળઝળિયાં આવ્યાં.'' એટલે પાઠ મહારાજ માટે 'ગળગળા થયા' કહે છે અને 'ઝળઝળિયાં' શબ્દ જોગીદાસ માટે વાપરે છે; 'પણ' શબ્દ બતાવે છે કે બંનેની આંખો એક જ ક્ષણે ભીની થઈ. પ્રશ્નનો જવાબ એટલે બંને વાક્યમાંથી બંધાય છે.",
+      "acceptable_alternatives": [
+        "દીકરાના મરણનું દુઃખ અને દુશ્મનની ખાનદાની — બંને એકસાથે અનુભવાયાં તેથી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 8. The question assumes the tears were the મહારાજ's; the chapter prints 'મહારાજ ગળગળા થયા' and gives ઝળઝળિયાં to જોગીદાસ. Read both sentences aloud so the child answers from the text rather than from the question's wording. Not a transcription defect - verified on page-3 of the renders.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX20",
+      "exercise_group": "વાક્ય પૂર્ણ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "1. હું દર શનિવારે...",
+      "answer": "(એક શક્ય જવાબ) હું દર શનિવારે મારું દફતર અને ગણવેશ સરખાં ગોઠવું છું.",
+      "explanation": "'દર શનિવારે' એટલે દર અઠવાડિયે થતી વાત, એટલે વાક્ય વર્તમાનકાળમાં પૂરું થાય — 'ગોઠવું છું', 'જાઉં છું', 'રમું છું'.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 5 (the book prints no block numbered 4 - it jumps 3 to 5; verified on the renders). Free composition: any sentence that fits the printed opening and its tense or mood is correct. Read two or three answers aloud so children hear the variety.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX21",
+      "exercise_group": "વાક્ય પૂર્ણ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "2. આવતી દિવાળી પર...",
+      "answer": "(એક શક્ય જવાબ) આવતી દિવાળી પર અમે ઘર આગળ રંગોળી કરીશું અને દાદા-દાદીને મળવા ગામ જઈશું.",
+      "explanation": "'આવતી દિવાળી' હજુ આવવાની છે, એટલે વાક્ય ભવિષ્યકાળમાં પૂરું થાય — 'કરીશું', 'જઈશું'.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 5 (the book prints no block numbered 4 - it jumps 3 to 5; verified on the renders). Free composition: any sentence that fits the printed opening and its tense or mood is correct. Read two or three answers aloud so children hear the variety.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX22",
+      "exercise_group": "વાક્ય પૂર્ણ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "3. અરરર...!",
+      "answer": "(એક શક્ય જવાબ) અરરર...! એનું નવું ચોપડું વરસાદમાં આખું પલળી ગયું.",
+      "explanation": "'અરરર !' એ ઉદ્ગાર છે — દુઃખ કે અરેરાટી બતાવે છે. પછીનું વાક્ય એવું જ હોવું જોઈએ કે જેમાં કંઈક ખરાબ બન્યું હોય. પાઠમાં પણ હાદો ખુમાણ મરણના સમાચાર સાંભળીને આ જ ઉદ્ગાર કાઢે છે : ''અરરર ! દાદભા જેવો દીકરો ઝડપાઈ ગયો ?''",
+      "acceptable_alternatives": [
+        "અરરર...! ગલીના કૂતરાને ગાડી અડી ગઈ."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 5 (the book prints no block numbered 4 - it jumps 3 to 5; verified on the renders). Free composition: any sentence that fits the printed opening and its tense or mood is correct. Read two or three answers aloud so children hear the variety.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX23",
+      "exercise_group": "વાક્ય પૂર્ણ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "4. ખબરદાર !",
+      "answer": "(એક શક્ય જવાબ) ખબરદાર ! ચાલુ રસ્તે દોડીને સામે પાર જતા નહિ.",
+      "explanation": "'ખબરદાર !' ચેતવણીનો ઉદ્ગાર છે, એટલે પછી ના પાડતું કે ચેતવતું વાક્ય આવે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 5 (the book prints no block numbered 4 - it jumps 3 to 5; verified on the renders). Free composition: any sentence that fits the printed opening and its tense or mood is correct. Read two or three answers aloud so children hear the variety.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX24",
+      "exercise_group": "વાક્ય પૂર્ણ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "5. તમને ખબર છે ?",
+      "answer": "(એક શક્ય જવાબ) તમને ખબર છે ? આજે અમારી શાળામાં રમતોત્સવ છે.",
+      "explanation": "આ પ્રશ્નાર્થ વાક્ય છે અને એ સાંભળનારનું ધ્યાન ખેંચવા વપરાય છે; પછી જે સમાચાર આપવા હોય તે વાક્ય આવે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 5 (the book prints no block numbered 4 - it jumps 3 to 5; verified on the renders). Free composition: any sentence that fits the printed opening and its tense or mood is correct. Read two or three answers aloud so children hear the variety.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX25",
+      "exercise_group": "વાક્ય પૂર્ણ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "6. તમે ક્યારેય...?",
+      "answer": "(એક શક્ય જવાબ) તમે ક્યારેય દરિયાકિનારે સૂરજ ડૂબતો જોયો છે ?",
+      "explanation": "'ક્યારેય' શબ્દ ભૂતકાળનો અનુભવ પૂછે છે, એટલે વાક્ય 'જોયો છે ?', 'ગયા છો ?', 'ખાધું છે ?' જેવા રૂપે પૂરું થાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 5 (the book prints no block numbered 4 - it jumps 3 to 5; verified on the renders). Free composition: any sentence that fits the printed opening and its tense or mood is correct. Read two or three answers aloud so children hear the variety.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX26",
+      "exercise_group": "વાક્ય પૂર્ણ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "7. જો વરસાદ પડે તો...",
+      "answer": "(એક શક્ય જવાબ) જો વરસાદ પડે તો અમે નિશાળે છત્રી લઈને જઈશું.",
+      "explanation": "'જો... તો...' એ શરતી રચના છે : પહેલો ભાગ શરત મૂકે છે, બીજો ભાગ એનું પરિણામ કહે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 5 (the book prints no block numbered 4 - it jumps 3 to 5; verified on the renders). Free composition: any sentence that fits the printed opening and its tense or mood is correct. Read two or three answers aloud so children hear the variety.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX27",
+      "exercise_group": "વાક્ય પૂર્ણ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "8. જો... તો મજા પડી જાય.",
+      "answer": "(એક શક્ય જવાબ) જો દાદા-દાદી ગામથી આવે તો મજા પડી જાય.",
+      "explanation": "અહીં પરિણામ છપાયેલું છે અને શરત ખાલી છે, એટલે ખૂટતો ભાગ 'જો' પછી મૂકવાનો છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 5 (the book prints no block numbered 4 - it jumps 3 to 5; verified on the renders). Free composition: any sentence that fits the printed opening and its tense or mood is correct. Read two or three answers aloud so children hear the variety.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX28",
+      "exercise_group": "પાઠમાં વપરાયેલા તળપદા શબ્દોની યાદી બનાવો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "6. પાઠમાં વપરાયેલા તળપદા શબ્દોની યાદી બનાવો.\nઉદાહરણ : જણ, ભે, બાઝવું...",
+      "answer": "(એક શક્ય યાદી) જણ, ભે, બાઝવું, સાદ, વરત્યો, ખરખરો, સનાન, ના'વું, જોવે, કે'વાય, દી', ગૂડો, ફાળિયું, પછેડી, છતરાયું, લગરીક, ધાસ્તી, કળેળાટ, છાતીફાટ, દેઈ, જોદ્ધો, ડાયરો, હાકોટા, મ્હોં, ઢાંઢા, સાંતીડું, ધીસરાં, મોલ, રૈયત, ટાણે, થોકેથોક, હલક્યું, વેણ, આપા, ખોફ, ગરાસ.",
+      "explanation": "'તળપદો' એટલે કોઈ પ્રદેશમાં રોજબરોજ બોલાતો શબ્દ. આ પાઠ સૌરાષ્ટ્રની લોકકથા છે, એટલે એમાં ત્યાંની બોલી આખેઆખી ઊતરી છે. યાદી બનાવવાની સહેલી રીત : પાઠની શબ્દાર્થ પેટીના શબ્દોથી શરૂ કરો (પુસ્તકે એ શબ્દો સમજાવ્યા છે એ જ પુરાવો છે કે એ રોજિંદા શિષ્ટ શબ્દો નથી), પછી પાઠ ફરી વાંચીને એવા શબ્દો ઉમેરો જેમાં અક્ષર ગળી ગયો હોય — ના'વું (નાહવું), કે'વાય (કહેવાય), દી' (દિવસ).",
+      "acceptable_alternatives": [
+        "બાળક શબ્દાર્થ પેટીના શબ્દો પૂરતી ટૂંકી યાદી બનાવે તે પણ ચાલે : સાદ, વરત્યો, બહારવટિયો, કળેળાટ, સનાન, ફાળિયું, ખરખરો, લગરીક, છતરાયું, ભે, ગૂડો, જણ, ધાસ્તી, બાઝવું, જતિ, સાંતીડું, ઢાંઢા, વેણ, મનસૂબો, પાસવાન, આપા."
+      ],
+      "values_filled_for_teaching": "પાઠની શબ્દાર્થ પેટીના તળપદા શબ્દો અને એમના અર્થ : સાદ — અવાજ, સૂર | વરત્યો — ઓળખ્યો | કળેળાટ — કકળાટ, (અહીં) રડવું | સનાન — (અહીં) મરણ નિમિત્તે નાહવું તે | ફાળિયું — ફેંટો, ટૂંકું ધોતિયું | ખરખરો — મરણ પાછળનો શોક, સંતાપ | લગરીક — થોડું, થોડા વખત માટે | છતરાયું — છત્તુ, ખુલ્લું | ભે — ભય, બીક | ગૂડો — મરનારને રોવા જવું તે | જણ — વ્યક્તિ, આદમી | ધાસ્તી — ડર, દહેશત | બાઝવું — લડવું, ટંટો કરવો | જતિ — વૈરાગી, તપસ્વી | સાંતીડું — હળ, બે બળદ અને હળનું એકમ | ઢાંઢા — બળદો | વેણ — (અહીં) વચન | આપા — મોટા ભાઈ, મોટા માણસને માન આપવા વપરાતો શબ્દ.  ||  પેટીની બહારના, પાઠમાં વંચાતા તળપદા રૂપ : ના'વું (નાહવું), કે'વાય (કહેવાય), દી' (દિવસ), જોવે (જોઈએ), દેઈ પડે (દેહ પડે), છાતીફાટ, જોદ્ધો, પછેડી, ડાયરો, હાકોટા, મ્હોં, ધીસરાં, મોલ, રૈયત, ટાણે, થોકેથોક, હલક્યું, ખોફ, ગરાસ.",
+      "teacher_note": "Printed block 6. The blue intro box orders exactly this work: 'આ પાઠમાં વપરાયેલા તળપદા શબ્દોનો બાળકોને ખાસ પરિચય કરાવવો.' Any defensible list is correct, so is_model_answer is true. Two teaching cautions: (a) glossing is the goal, never correcting - do not let children rewrite સનાન as સ્નાન or દી' as દિવસ inside a quotation from the story; (b) a few words in the box are આગત, not તળપદા (મનસૂબો, પાસવાન, ધાસ્તી, ખોફ come through Persian/Urdu) - if a sharp child asks, say so rather than pretending.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S1.T2",
+        "M1.S2.T3",
+        "M2.S3.T4",
+        "M2.S3.T5",
+        "M2.S4.T6",
+        "M3.S5.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX29",
+      "exercise_group": "શબ્દકોશના ક્રમને ધ્યાનમાં રાખીને નીચેના પ્રશ્નોના ઉત્તર આપો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "● સૌથી પહેલા કયો શબ્દ આવશે ?",
+      "answer": "કોપ",
+      "explanation": "આપેલા સાત શબ્દોના પહેલા અક્ષર છે — સ, બ, ક, જ, ખ, વ, ફ. ગુજરાતી વર્ણમાળામાં આ બધામાં 'ક' સૌથી પહેલો આવે છે, એટલે 'કોપ' પહેલો.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "શબ્દકોશના ક્રમમાં ગોઠવેલા સાતેય શબ્દ : પહેલો કોપ, બીજો ખરખરો, ત્રીજો જતિ, ચોથો ફાળિયું, પાંચમો બહારવટું, છઠ્ઠો વેણ, સાતમો સાદ.",
+      "teacher_note": "Printed block 7. The word list printed above the questions is : સાદ, બહારવટું, કોપ, જતિ, ખરખરો, વેણ, ફાળિયું - all seven are the chapter's own words. THE TRAP: in the Gujarati વર્ણમાળા the પ-વર્ગ runs પ, ફ, બ, ભ, મ, so ફાળિયું comes BEFORE બહારવટું. Children who order by sound or by the English alphabet put બ first and then every later answer shifts. Write the વર્ણમાળા strip on the board before this block.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX30",
+      "exercise_group": "શબ્દકોશના ક્રમને ધ્યાનમાં રાખીને નીચેના પ્રશ્નોના ઉત્તર આપો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "● પાંચમા ક્રમે કયો શબ્દ મૂકશો ?",
+      "answer": "બહારવટું",
+      "explanation": "ક્રમ છે — કોપ, ખરખરો, જતિ, ફાળિયું, બહારવટું, વેણ, સાદ. પાંચમા ક્રમે 'બહારવટું' આવે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "શબ્દકોશના ક્રમમાં ગોઠવેલા સાતેય શબ્દ : પહેલો કોપ, બીજો ખરખરો, ત્રીજો જતિ, ચોથો ફાળિયું, પાંચમો બહારવટું, છઠ્ઠો વેણ, સાતમો સાદ.",
+      "teacher_note": "Printed block 7. The word list printed above the questions is : સાદ, બહારવટું, કોપ, જતિ, ખરખરો, વેણ, ફાળિયું - all seven are the chapter's own words. THE TRAP: in the Gujarati વર્ણમાળા the પ-વર્ગ runs પ, ફ, બ, ભ, મ, so ફાળિયું comes BEFORE બહારવટું. Children who order by sound or by the English alphabet put બ first and then every later answer shifts. Write the વર્ણમાળા strip on the board before this block.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX31",
+      "exercise_group": "શબ્દકોશના ક્રમને ધ્યાનમાં રાખીને નીચેના પ્રશ્નોના ઉત્તર આપો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "● ખરખરો શબ્દ કયા ક્રમે આવશે.",
+      "answer": "બીજા ક્રમે",
+      "explanation": "'ક' પછી તરત 'ખ' આવે છે, એટલે કોપ પછી ખરખરો — બીજા ક્રમે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "શબ્દકોશના ક્રમમાં ગોઠવેલા સાતેય શબ્દ : પહેલો કોપ, બીજો ખરખરો, ત્રીજો જતિ, ચોથો ફાળિયું, પાંચમો બહારવટું, છઠ્ઠો વેણ, સાતમો સાદ.",
+      "teacher_note": "Printed block 7. The word list printed above the questions is : સાદ, બહારવટું, કોપ, જતિ, ખરખરો, વેણ, ફાળિયું - all seven are the chapter's own words. THE TRAP: in the Gujarati વર્ણમાળા the પ-વર્ગ runs પ, ફ, બ, ભ, મ, so ફાળિયું comes BEFORE બહારવટું. Children who order by sound or by the English alphabet put બ first and then every later answer shifts. Write the વર્ણમાળા strip on the board before this block.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX32",
+      "exercise_group": "શબ્દકોશના ક્રમને ધ્યાનમાં રાખીને નીચેના પ્રશ્નોના ઉત્તર આપો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "● વેણ શબ્દ પછી કયો શબ્દ આવશે ?",
+      "answer": "સાદ",
+      "explanation": "વર્ણમાળામાં ય, ર, લ, વ, શ, ષ, સ, હ એ ક્રમે આવે છે. અહીં આપેલા શબ્દોમાં 'વ' પછીનો એક જ શબ્દ છે — 'સાદ'.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "શબ્દકોશના ક્રમમાં ગોઠવેલા સાતેય શબ્દ : પહેલો કોપ, બીજો ખરખરો, ત્રીજો જતિ, ચોથો ફાળિયું, પાંચમો બહારવટું, છઠ્ઠો વેણ, સાતમો સાદ.",
+      "teacher_note": "Printed block 7. The word list printed above the questions is : સાદ, બહારવટું, કોપ, જતિ, ખરખરો, વેણ, ફાળિયું - all seven are the chapter's own words. THE TRAP: in the Gujarati વર્ણમાળા the પ-વર્ગ runs પ, ફ, બ, ભ, મ, so ફાળિયું comes BEFORE બહારવટું. Children who order by sound or by the English alphabet put બ first and then every later answer shifts. Write the વર્ણમાળા strip on the board before this block.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S5.T7",
+        "M2.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX33",
+      "exercise_group": "શબ્દકોશના ક્રમને ધ્યાનમાં રાખીને નીચેના પ્રશ્નોના ઉત્તર આપો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "● સૌથી છેલ્લે કયો શબ્દ આવશે ?",
+      "answer": "સાદ",
+      "explanation": "'સ' આ સાતેય શબ્દોના પહેલા અક્ષરોમાં છેલ્લો આવે છે, એટલે 'સાદ' છેલ્લો — અને એ જ પાઠના શીર્ષકનો શબ્દ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "શબ્દકોશના ક્રમમાં ગોઠવેલા સાતેય શબ્દ : પહેલો કોપ, બીજો ખરખરો, ત્રીજો જતિ, ચોથો ફાળિયું, પાંચમો બહારવટું, છઠ્ઠો વેણ, સાતમો સાદ.",
+      "teacher_note": "Printed block 7. The word list printed above the questions is : સાદ, બહારવટું, કોપ, જતિ, ખરખરો, વેણ, ફાળિયું - all seven are the chapter's own words. THE TRAP: in the Gujarati વર્ણમાળા the પ-વર્ગ runs પ, ફ, બ, ભ, મ, so ફાળિયું comes BEFORE બહારવટું. Children who order by sound or by the English alphabet put બ first and then every later answer shifts. Write the વર્ણમાળા strip on the board before this block.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX34",
+      "exercise_group": "શબ્દકોશના ક્રમને ધ્યાનમાં રાખીને નીચેના પ્રશ્નોના ઉત્તર આપો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "● ત્રીજા ક્રમે કયો શબ્દ મૂકશો ?",
+      "answer": "જતિ",
+      "explanation": "કોપ (ક), ખરખરો (ખ) પછી 'જ' આવે છે, એટલે ત્રીજા ક્રમે 'જતિ'.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "શબ્દકોશના ક્રમમાં ગોઠવેલા સાતેય શબ્દ : પહેલો કોપ, બીજો ખરખરો, ત્રીજો જતિ, ચોથો ફાળિયું, પાંચમો બહારવટું, છઠ્ઠો વેણ, સાતમો સાદ.",
+      "teacher_note": "Printed block 7. The word list printed above the questions is : સાદ, બહારવટું, કોપ, જતિ, ખરખરો, વેણ, ફાળિયું - all seven are the chapter's own words. THE TRAP: in the Gujarati વર્ણમાળા the પ-વર્ગ runs પ, ફ, બ, ભ, મ, so ફાળિયું comes BEFORE બહારવટું. Children who order by sound or by the English alphabet put બ first and then every later answer shifts. Write the વર્ણમાળા strip on the board before this block.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S5.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX35",
+      "exercise_group": "ઉદાહરણ મુજબ વાક્યનો વિસ્તાર કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "1. ગયો.",
+      "answer": "(એક શક્ય વિસ્તાર) ગયો. → છોકરો ગયો. → એક છોકરો ગયો. → એક નાનો છોકરો ગયો. → એક નાનો છોકરો ખેતરે ગયો.",
+      "explanation": "છપાયેલા ઉદાહરણમાં દરેક પગથિયે એક જ નવો શબ્દ ઉમેરાય છે : પહેલાં ક્રિયાપદ, પછી કોણ (છોકરી), પછી કેટલી (એક), પછી કેવી (ઊંચી), પછી ક્યાં (શાળાએ). એ જ ક્રમે 'ગયો' ને વધારવાનું છે — વાક્ય લાંબું થાય પણ ક્રિયાપદ છેલ્લે એનું એ જ રહે.",
+      "acceptable_alternatives": [
+        "ગયો. → ભાઈ ગયો. → મારો ભાઈ ગયો. → મારો મોટો ભાઈ ગયો. → મારો મોટો ભાઈ સવારે ગયો."
+      ],
+      "values_filled_for_teaching": "છપાયેલું ઉદાહરણ : આવી → છોકરી આવી → એક છોકરી આવી → એક ઊંચી છોકરી આવી. → એક ઊંચી છોકરી શાળાએ આવી.  ||  1. ગયો → છોકરો ગયો → એક છોકરો ગયો → એક નાનો છોકરો ગયો. → એક નાનો છોકરો ખેતરે ગયો.  ||  2. લાગી → તરસ લાગી → મને તરસ લાગી → મને સખત તરસ લાગી. → મને રમતાં રમતાં સખત તરસ લાગી.",
+      "teacher_note": "Printed block 8, column 1. The page prints the model ladder on the left and two headed columns (1. ગયો. and 2. લાગી.) with ruled blank lines - so there are exactly two items. Any expansion that adds one word at a time is correct; the last step should add a સ્થળ or સમય word, which is what the chapter-final ક્રિયાવિશેષણ box teaches.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX36",
+      "exercise_group": "ઉદાહરણ મુજબ વાક્યનો વિસ્તાર કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "2. લાગી.",
+      "answer": "(એક શક્ય વિસ્તાર) લાગી. → તરસ લાગી. → મને તરસ લાગી. → મને સખત તરસ લાગી. → મને રમતાં રમતાં સખત તરસ લાગી.",
+      "explanation": "અહીં પણ એક એક શબ્દ ઉમેરાય છે : શું લાગી (તરસ), કોને લાગી (મને), કેવી લાગી (સખત), ક્યારે લાગી (રમતાં રમતાં). છેલ્લા બે પગથિયે ઉમેરાતા શબ્દો ક્રિયાની વિશેષતા બતાવે છે — એ જ ક્રિયાવિશેષણનું કામ છે.",
+      "acceptable_alternatives": [
+        "લાગી. → આગ લાગી. → જંગલમાં આગ લાગી. → જંગલમાં મોટી આગ લાગી. → ગઈ કાલે જંગલમાં મોટી આગ લાગી."
+      ],
+      "values_filled_for_teaching": "છપાયેલું ઉદાહરણ : આવી → છોકરી આવી → એક છોકરી આવી → એક ઊંચી છોકરી આવી. → એક ઊંચી છોકરી શાળાએ આવી.  ||  1. ગયો → છોકરો ગયો → એક છોકરો ગયો → એક નાનો છોકરો ગયો. → એક નાનો છોકરો ખેતરે ગયો.  ||  2. લાગી → તરસ લાગી → મને તરસ લાગી → મને સખત તરસ લાગી. → મને રમતાં રમતાં સખત તરસ લાગી.",
+      "teacher_note": "Printed block 8, column 2. Watch that children keep the same verb form (લાગી, feminine) throughout; changing it to લાગ્યો breaks the ladder.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX37",
+      "exercise_group": "સાંભળો અને બોલો.",
+      "skill": "listening",
+      "prompt_verbatim": "1. ધોળી ધજા ઘર પર ફરકે.",
+      "answer": "આખું વાક્ય ધીમેથી, પછી ઝડપથી, ત્રણ વાર બોલવાનું છે. ધ્યાન 'ધ' અને 'ઘ' ના ભેદ પર રાખો : ધોળી અને ધજા માં મહાપ્રાણ 'ધ' છે, જ્યારે ઘર માં 'ઘ' છે. ઉતાવળમાં ધજા-ઘર ભેગાં થઈને 'ઘજા' કે 'ધર' બોલાઈ જાય તે ન થવું જોઈએ.",
+      "explanation": "આ જીભતોડ વાક્ય છે. એમાં એક જ વર્ગના મળતા આવતા અક્ષરો પાસપાસે મુકાયા છે, એટલે ઝડપથી બોલવા જતાં જીભ ગોટાળે ચડે. ધીમેથી બોલીને પછી ગતિ વધારવી એ જ સાચી રીત છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9. Oral block - there is no written answer; the 'answer' field records what a correct reading has to get right. Model it yourself first, then let the class say it together, then individually. Items 4 and 5 are ચારણી લોકસાહિત્યની પંક્તિઓ and their words are not to be translated or corrected; they are here for their sound.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX38",
+      "exercise_group": "સાંભળો અને બોલો.",
+      "skill": "listening",
+      "prompt_verbatim": "2. કાચો પાપડ, પાકો પાપડ",
+      "answer": "'કાચો' અને 'પાકો' બંનેમાં ક/પ ની અદલાબદલી થાય છે અને 'પાપડ' બે વાર આવે છે. ઝડપથી બોલતાં 'પાચો પાપડ' કે 'કાપડ' થઈ જાય — તે ન થાય એ રીતે, હોઠ અને જીભ બંને ચોખ્ખાં વાપરીને, દસ વાર બોલો.",
+      "explanation": "ગુજરાતીનું સૌથી જાણીતું જીભતોડ વાક્ય. ધ્યાનમાં રાખો કે પુસ્તકે અહીં અંતે પૂર્ણવિરામ છાપ્યું નથી; વાક્ય એમ જ છપાયું છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9. Oral block - there is no written answer; the 'answer' field records what a correct reading has to get right. Model it yourself first, then let the class say it together, then individually. Items 4 and 5 are ચારણી લોકસાહિત્યની પંક્તિઓ and their words are not to be translated or corrected; they are here for their sound.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX39",
+      "exercise_group": "સાંભળો અને બોલો.",
+      "skill": "listening",
+      "prompt_verbatim": "3. શીતળા સાતમે સવાશેર શીરો શેકો.",
+      "answer": "આ વાક્યની આખી કસોટી 'શ' અને 'સ' ના ભેદની છે : શીતળા (શ), સાતમે (સ), સવાશેર (સ પછી શ), શીરો (શ), શેકો (શ). દરેક શબ્દમાં જીભ ક્યાં અડે છે તે ધ્યાનથી અનુભવીને બોલો.",
+      "explanation": "શ, ષ, સ ના ઉચ્ચારભેદ ગુજરાતી બીજી ભાષા તરીકે શીખતા બાળક માટે અઘરા છે. આવાં વાક્યો એ ભેદ કાન અને જીભ બંનેને શીખવે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9. Oral block - there is no written answer; the 'answer' field records what a correct reading has to get right. Model it yourself first, then let the class say it together, then individually. Items 4 and 5 are ચારણી લોકસાહિત્યની પંક્તિઓ and their words are not to be translated or corrected; they are here for their sound.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX40",
+      "exercise_group": "સાંભળો અને બોલો.",
+      "skill": "listening",
+      "prompt_verbatim": "4. જ્યોતિ પ્રલંબા, જુગદંબા, આદ્ય અંબા ઇસરી, વંદન જલંબા, ચંદ બંબા, તેજ તંબા તું ખરી.",
+      "answer": "આ ચારણી છટાની સ્તુતિ-પંક્તિ છે. એને લયમાં, તાલ પાડીને બોલવાની છે : પ્રલંબા, જુગદંબા, અંબા, જલંબા, બંબા, તંબા — છ વાર '-ંબા' નો એક જ પ્રાસ પાછો પાછો આવે છે. અનુસ્વાર દરેક વખતે સંભળાવો જોઈએ.",
+      "explanation": "લોકસાહિત્યની આ પંક્તિઓ કાગળ પર વાંચવા માટે નહિ, મોઢે બોલવા માટે બનેલી છે. પ્રાસ અને લય જ એને યાદ રખાવે છે — એ સાંભળવું એ જ આ સ્વાધ્યાયનું કામ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9. Oral block - there is no written answer; the 'answer' field records what a correct reading has to get right. Model it yourself first, then let the class say it together, then individually. Items 4 and 5 are ચારણી લોકસાહિત્યની પંક્તિઓ and their words are not to be translated or corrected; they are here for their sound.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX41",
+      "exercise_group": "સાંભળો અને બોલો.",
+      "skill": "listening",
+      "prompt_verbatim": "5. ભેરવે હલ્લા, ભલ્લ ભલ્લા ખાગ ઝલ્લા ખેલીય, હોતે હમલ્લા હાક હલ્લા, ઝૂઝ મલ્લાં ઝેલ્લીયં",
+      "answer": "આ પણ ચારણી છટાની, યુદ્ધનું વર્ણન કરતી પંક્તિ છે. હલ્લા, ભલ્લા, ઝલ્લા, હમલ્લા, હલ્લા, મલ્લાં — '-લ્લા' નો જોડાક્ષર વારંવાર આવે છે. બેવડા અક્ષર (લ્લ) નો ધક્કો બરાબર સંભળાવો જોઈએ, અને પંક્તિ ઝડપથી, ડમરુ જેવા તાલમાં બોલવાની છે.",
+      "explanation": "જોડાક્ષરવાળા શબ્દો ઝડપથી બોલવાની આ કસરત છે. પુસ્તકે અહીં પણ અંતે પૂર્ણવિરામ છાપ્યું નથી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9. Oral block - there is no written answer; the 'answer' field records what a correct reading has to get right. Model it yourself first, then let the class say it together, then individually. Items 4 and 5 are ચારણી લોકસાહિત્યની પંક્તિઓ and their words are not to be translated or corrected; they are here for their sound.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX42",
+      "exercise_group": "જો તમે રાજ્યના મુખ્યમંત્રી હો તો પહેલાં કયાં ત્રણ કાર્યો કરો ?",
+      "skill": "values",
+      "prompt_verbatim": "10. જો તમે રાજ્યના મુખ્યમંત્રી હો તો પહેલાં કયાં ત્રણ કાર્યો કરો ?",
+      "answer": "(એક શક્ય જવાબ) એક — હું દરેક ગામ અને શહેરની શાળામાં પૂરતા શિક્ષકો, પુસ્તકાલય અને પીવાનું ચોખ્ખું પાણી પહોંચાડું, જેથી કોઈ બાળક ભણ્યા વગર ન રહે. બે — ગામડે ગામડે દવાખાનું અને દવા મળે એવી ગોઠવણ કરું, જેથી માંદગીમાં કોઈએ દૂર દોડવું ન પડે. ત્રણ — ખેડૂતોને પાણી અને વરસાદનું પાણી સંઘરવાની સગવડ આપું અને દરેક ગામમાં ઝાડ વવડાવું.",
+      "explanation": "આ પ્રશ્નનો કોઈ એક સાચો જવાબ નથી. જવાબમાં ત્રણ કામ ગણાવવાં અને દરેક સાથે 'કેમ' કહેવું — એટલું હોય તો જવાબ પૂરો ગણાય. બાળક પોતાના ગામ કે વિસ્તારની જે તકલીફ રોજ જુએ છે તેમાંથી કામ પસંદ કરે એ સૌથી સારો જવાબ છે.",
+      "acceptable_alternatives": [
+        "(એક શક્ય જવાબ) એક — રસ્તા અને બસ સારાં કરું; બે — કચરાનો નિકાલ અને સફાઈની ગોઠવણ કરું; ત્રણ — રમતનાં મેદાન અને બગીચા બનાવું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10. A free civic-imagination prompt with no link to the story text; it is recorded in coverage_report.unmapped for that reason. Keep it to what a child can see around them - do not let it become a party-politics discussion.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX43",
+      "exercise_group": "શાળા પુસ્તકાલયમાંથી ઝવેરચંદ મેઘાણીની લોકકથાઓનું પુસ્તક મેળવીને વાંચો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "11. શાળા પુસ્તકાલયમાંથી ઝવેરચંદ મેઘાણીની લોકકથાઓનું પુસ્તક મેળવીને વાંચો.",
+      "answer": "(એક શક્ય કામગીરી) પાઠની શરૂઆતની પેટીમાં જ પુસ્તકનું નામ આપેલું છે — 'સૌરાષ્ટ્રની રસધાર'. શાળાના પુસ્તકાલયમાંથી એ પુસ્તક લઈને એમાંથી એક કથા વાંચો, અને પછી વર્ગમાં ટૂંકમાં કહો : કથાનું નામ શું, એમાં કોણ કોણ આવે છે, વાર્તા કઈ ઘટના પર વળી જાય છે, અને એમાં કયા તળપદા શબ્દો મળ્યા. વાંચેલી કથાના પાંચ તળપદા શબ્દો અર્થ સાથે નોંધપોથીમાં ઉતારો.",
+      "explanation": "આ પ્રવૃત્તિનો જવાબ લખવાનો નહિ, કરવાનો છે. 'સાદ વરત્યો' પોતે એ જ ઘરની કથા છે, એટલે બીજી કથા વાંચતાં એની એ જ ખૂબીઓ ફરી દેખાશે — સંવાદ, સૌરાષ્ટ્રની બોલી, અને છેલ્લે આવતો વળાંક.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11. The blue intro box already names the book ('સૌરાષ્ટ્રની રસધાર') and asks the teacher to make it available - use that. Give a small, checkable output (one retelling plus five તળપદા words) so the activity does not evaporate. Mapped to nothing: the intro box is printed apparatus, not a reading scene.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX44",
+      "exercise_group": "અવાજ સાંભળીને મિત્રોને ઓળખો. (રમત)",
+      "skill": "listening",
+      "prompt_verbatim": "12. અવાજ સાંભળીને મિત્રોને ઓળખો. (રમત)\n(વર્ગના કોઈ પણ એક વિદ્યાર્થીને આંખે પાટો બાંધો. હવે વર્ગના પાંચ વિદ્યાર્થીઓને વારાફરતી એક વાક્ય બોલવા કહો. (પાઠ આધારિત) પાટા બાંધેલ વિદ્યાર્થી સાદ ઓળખીને વાક્ય બોલનારનું નામ જણાવશે. એમાં ચૂકે તો એ આઉટ થાય અને બીજાનો વારો આવે.",
+      "answer": "(એક શક્ય રીતે રમાડો) આંખે પાટો બાંધેલા બાળકની પીઠ પાછળ ઊભા રહીને પાંચ બાળકો વારાફરતી પાઠનું એક એક વાક્ય બોલે — જેમ કે ''બાપુ! ગજબ થઈ ગયો.'' / ''શું થયું આપા ?'' / ''ભલો વરત્યો રાજ !'' / ''જોગીદાસ, બીશો મા હોં !'' / ''બીતો હોત તો આવત શા માટે રાજ ?'' — અને પાટાવાળું બાળક દરેક વખતે બોલનારનું નામ કહે. પાંચમાંથી કેટલા સાચા પડ્યા તે બોર્ડ પર નોંધો, પછી બીજા બાળકનો વારો.",
+      "explanation": "રમત પૂરી થાય પછી એક જ સવાલ પૂછો : તમે નામ કેવી રીતે ઓળખ્યું ? બાળકો કહેશે કે અવાજ પરથી — અને પાઠમાં વજેસંગ મહારાજે પણ બરાબર એ જ કર્યું હતું : ''પાંચસો આદમી વચ્ચે તારા હાકોટા પરખાય, તો પછી તારા વિલાપ કેમ ન વરતાય ?'' આખા પાઠનું શીર્ષક આ રમતથી સમજાઈ જાય છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 12. The page prints '(પાઠ આધારિત)' - the sentences the five children speak must come from the chapter, which is what ties the game to the વળાંક. The printed bracket that opens the instructions is never closed in the book; kept as printed and verified on page-6 of the renders.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX45",
+      "exercise_group": "નીચેના ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "13. નીચેના ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.\nએક ખેડૂત હતો. તે રોજ પોતાના ખેતરે જઈને ખેતીનું કામ કરે. ખેડૂત ખૂબ જ મહેનતુ હતો આથી નિયમિત ખેતરે જાય અને ખેતીનું બધું કામ કરે. ખેડૂતની પત્ની પણ ખૂબ જ મહેનતુ અને ચકોર હતી.\nએક દિવસ ખેડૂત હળથી ખેતર ખેડતો હતો. તેના ખેતરની જમીનમાંથી તાંબાનો ઘડો નીકળ્યો. ખેડૂત ઘડાને પોતાના ઘેર લઈ ગયો.",
+      "answer": "(એક શક્ય અનુવાદ — અંગ્રેજી માધ્યમ માટે) There was once a farmer. Every day he would go to his field and do the work of farming. The farmer was very hard-working, so he went to the field regularly and did all the farm work. The farmer's wife too was very hard-working and quick-witted.\nOne day the farmer was ploughing his field with a plough. From the soil of his field a copper pot came out. The farmer took the pot home with him.",
+      "explanation": "અનુવાદમાં ત્રણ વાત સાચવવાની : (1) વાક્યનો ક્રમ પુસ્તક જેવો જ રાખવો; (2) 'ખૂબ જ મહેનતુ' જેવા ભારવાચક શબ્દો ઉડાડી ન દેવા; (3) 'ચકોર' એટલે હોશિયાર, ચપળ — એનો અર્થ છોડી દેવો નહિ. 'ઘડો' એટલે માટીનું કે ધાતુનું પહોળા પેટવાળું વાસણ; અહીં તાંબાનો છે.",
+      "acceptable_alternatives": [
+        "જે શાળાની પ્રથમ ભાષા હિન્દી હોય ત્યાં આ જ ફકરાનો હિન્દી અનુવાદ કરાવવો; અર્થ એનો એ જ રહે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 13, the standing L2 translation block. NOTE FOR AGENT 13: the non-Gujarati script inside this answer is intended, not a script defect - the block asks for the child's પ્રથમ ભાષા, and the medium of instruction recorded in chapter_id (gseb_eng_gujarati7_ch8) is English, so the model translation is given in English. A school whose first language is Hindi (or any other) substitutes that language. The paragraph is supplied by the exercise page and is not from this chapter, so the item maps to no reading scene.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX46",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોથી પ્રશ્નો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "1. જોસેફ તેની પાસેથી ધીમેધીમે નીકળી ગયો. (કેવી રીતે)",
+      "answer": "જોસેફ તેની પાસેથી કેવી રીતે નીકળી ગયો ?",
+      "explanation": "'ધીમેધીમે' બતાવે છે કે નીકળવાની ક્રિયા કઈ રીતે થઈ — એટલે એની જગ્યાએ 'કેવી રીતે' મૂકીએ એટલે પ્રશ્ન બની જાય. જવાબ પાછો 'ધીમેધીમે' જ આવે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 14. The rule to state once and use five times: find the word in the sentence that the bracketed question-word asks about, take it out, and put the question-word in its place. Every one of these five words - ધીમેધીમે, વહેલા, ધોધમાર, જંગલમાં, ઉકાળીને - is the kind of word the chapter-final ક્રિયાવિશેષણ box teaches, so run that box first. The practice sentences are the book's own and come from outside the story.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX47",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોથી પ્રશ્નો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "2. ગમે તેમ થાય તમે વહેલા આવી જજો. (ક્યારે)",
+      "answer": "ગમે તેમ થાય તમે ક્યારે આવી જજો ?",
+      "explanation": "'વહેલા' સમય બતાવે છે, એટલે એની જગ્યાએ સમય પૂછતો શબ્દ 'ક્યારે' આવે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 14. The rule to state once and use five times: find the word in the sentence that the bracketed question-word asks about, take it out, and put the question-word in its place. Every one of these five words - ધીમેધીમે, વહેલા, ધોધમાર, જંગલમાં, ઉકાળીને - is the kind of word the chapter-final ક્રિયાવિશેષણ box teaches, so run that box first. The practice sentences are the book's own and come from outside the story.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX48",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોથી પ્રશ્નો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "3. આજે તો વરસાદ ધોધમાર પડ્યો. (કેટલો)",
+      "answer": "આજે તો વરસાદ કેટલો પડ્યો ?",
+      "explanation": "'ધોધમાર' બતાવે છે કે વરસાદ કેટલા પ્રમાણમાં પડ્યો, એટલે એની જગ્યાએ 'કેટલો' મુકાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 14. The rule to state once and use five times: find the word in the sentence that the bracketed question-word asks about, take it out, and put the question-word in its place. Every one of these five words - ધીમેધીમે, વહેલા, ધોધમાર, જંગલમાં, ઉકાળીને - is the kind of word the chapter-final ક્રિયાવિશેષણ box teaches, so run that box first. The practice sentences are the book's own and come from outside the story.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX49",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોથી પ્રશ્નો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "4. સાધુ જંગલમાં રહેતા હતા. (ક્યાં)",
+      "answer": "સાધુ ક્યાં રહેતા હતા ?",
+      "explanation": "'જંગલમાં' સ્થળ બતાવે છે, એટલે એની જગ્યાએ સ્થળ પૂછતો શબ્દ 'ક્યાં' આવે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 14. The rule to state once and use five times: find the word in the sentence that the bracketed question-word asks about, take it out, and put the question-word in its place. Every one of these five words - ધીમેધીમે, વહેલા, ધોધમાર, જંગલમાં, ઉકાળીને - is the kind of word the chapter-final ક્રિયાવિશેષણ box teaches, so run that box first. The practice sentences are the book's own and come from outside the story.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX50",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોથી પ્રશ્નો બનાવો.",
+      "skill": "grammar",
+      "prompt_verbatim": "5. ચોમાસામાં પાણી ઉકાળીને પીવું જોઈએ. (કેવું)",
+      "answer": "ચોમાસામાં કેવું પાણી પીવું જોઈએ ?",
+      "explanation": "'ઉકાળીને' પાણી કેવું હોવું જોઈએ તે બતાવે છે, એટલે એની જગ્યાએ 'કેવું' મૂકીને પ્રશ્ન બને. ધ્યાન રહે : 'કેવું' પાણી ની આગળ મુકાય, પાછળ નહિ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 14. The rule to state once and use five times: find the word in the sentence that the bracketed question-word asks about, take it out, and put the question-word in its place. Every one of these five words - ધીમેધીમે, વહેલા, ધોધમાર, જંગલમાં, ઉકાળીને - is the kind of word the chapter-final ક્રિયાવિશેષણ box teaches, so run that box first. The practice sentences are the book's own and come from outside the story.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX51",
+      "exercise_group": "કૌંસમાં આપેલા શબ્દોથી ખાલી જગ્યા પૂરી ફકરાનું વાચન કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "15. કૌંસમાં આપેલા શબ્દોથી ખાલી જગ્યા પૂરી ફકરાનું વાચન કરો.\n(આકાશમાં, સમયે, તળેટીએ, ધીરે-ધીરે, ક્ષિતિજે, ઝડપથી, બાથરૂમમાં, બારી બહાર, ધીમેધીમે)\nઅમે ......... શિખર પરથી ઉતરી ......... પહોંચ્યાં. સાંજ પડવા આવી હતી. સૂરજ ......... ડૂબતો દેખાતો હતો. ......... કેસરી રંગ છવાયો હતો. મેં ......... બે ફોટા પાડી લીધા. સૂરજ ડૂબી ગયો. અમે જમવાના ......... હોટેલ પર પહોંચ્યાં. નરેશ સીધો ......... નાહવા પેસી ગયો. હું ......... બહાર અંધારાને જોતો રહ્યો. અંધારું ઘેરું થતું હતું.",
+      "answer": "અમે ધીરે-ધીરે શિખર પરથી ઉતરી તળેટીએ પહોંચ્યાં. સાંજ પડવા આવી હતી. સૂરજ ક્ષિતિજે ડૂબતો દેખાતો હતો. આકાશમાં કેસરી રંગ છવાયો હતો. મેં ઝડપથી બે ફોટા પાડી લીધા. સૂરજ ડૂબી ગયો. અમે જમવાના સમયે હોટેલ પર પહોંચ્યાં. નરેશ સીધો બાથરૂમમાં નાહવા પેસી ગયો. હું બારી બહાર અંધારાને જોતો રહ્યો. અંધારું ઘેરું થતું હતું.",
+      "explanation": "કૌંસમાં નવ શબ્દ છે અને ખાલી જગ્યા આઠ છે, એટલે એક શબ્દ વધે છે — એ જ આ સ્વાધ્યાયની ચાવી છે. દરેક ખાલી જગ્યા પર પૂછો કે અહીં શું જોઈએ છે : ક્યાં (તળેટીએ, ક્ષિતિજે, આકાશમાં, બાથરૂમમાં, બારી બહાર), ક્યારે (સમયે) કે કેવી રીતે (ધીરે-ધીરે, ઝડપથી). પહેલી ખાલી જગ્યામાં 'ધીરે-ધીરે' અને 'ધીમેધીમે' બંનેનો અર્થ એક જ છે, એટલે બેમાંથી કોઈ પણ મૂકી શકાય — બીજો શબ્દ વધારાનો રહી જાય. છેલ્લી જગ્યામાં 'બારી' પછી પુસ્તકે 'બહાર' છાપી જ દીધું છે, એટલે ત્યાં આખો શબ્દજૂથ 'બારી બહાર' બેસે છે.",
+      "acceptable_alternatives": [
+        "પહેલી ખાલી જગ્યામાં 'ધીમેધીમે' મૂકીએ તો 'ધીરે-ધીરે' વધારાનો શબ્દ બને; અર્થ બદલાતો નથી."
+      ],
+      "values_filled_for_teaching": "ખાલી જગ્યાના જવાબ, ક્રમમાં : (1) ધીરે-ધીરે  (2) તળેટીએ  (3) ક્ષિતિજે  (4) આકાશમાં  (5) ઝડપથી  (6) સમયે  (7) બાથરૂમમાં  (8) બારી બહાર.  વધારાનો શબ્દ : ધીમેધીમે (અથવા 'ધીરે-ધીરે', જો પહેલી જગ્યામાં 'ધીમેધીમે' મુકાય તો).",
+      "teacher_note": "Printed block 15, the chapter's last block, on printed page 55. Eight blanks, nine words - kept as ONE composite entry with every slot filled in values_filled_for_teaching, following the pack's convention for cloze blocks. Every word in the bank is a ક્રિયાવિશેષણ of સ્થળ, સમય or રીત, so this block is the practice for the ક્રિયાવિશેષણ box printed on the next page; the paragraph itself is the book's own and has no connection to the story. The block ends by asking the children to READ the completed ફકરો aloud - do not skip that half.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    }
+  ],
+  "coverage_report": {
+    "blocks_found": [
+      "વાતચીત",
+      "જોડકાં જોડો.",
+      "પ્રશ્નોના જવાબ લખો.",
+      "વાક્ય પૂર્ણ કરો.",
+      "પાઠમાં વપરાયેલા તળપદા શબ્દોની યાદી બનાવો.",
+      "શબ્દકોશના ક્રમને ધ્યાનમાં રાખીને નીચેના પ્રશ્નોના ઉત્તર આપો.",
+      "ઉદાહરણ મુજબ વાક્યનો વિસ્તાર કરો.",
+      "સાંભળો અને બોલો.",
+      "જો તમે રાજ્યના મુખ્યમંત્રી હો તો પહેલાં કયાં ત્રણ કાર્યો કરો ?",
+      "શાળા પુસ્તકાલયમાંથી ઝવેરચંદ મેઘાણીની લોકકથાઓનું પુસ્તક મેળવીને વાંચો.",
+      "અવાજ સાંભળીને મિત્રોને ઓળખો. (રમત)",
+      "નીચેના ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "કૌંસમાં આપેલા શબ્દોથી પ્રશ્નો બનાવો.",
+      "કૌંસમાં આપેલા શબ્દોથી ખાલી જગ્યા પૂરી ફકરાનું વાચન કરો."
+    ],
+    "blocks_answered": [
+      "વાતચીત",
+      "જોડકાં જોડો.",
+      "પ્રશ્નોના જવાબ લખો.",
+      "વાક્ય પૂર્ણ કરો.",
+      "પાઠમાં વપરાયેલા તળપદા શબ્દોની યાદી બનાવો.",
+      "શબ્દકોશના ક્રમને ધ્યાનમાં રાખીને નીચેના પ્રશ્નોના ઉત્તર આપો.",
+      "ઉદાહરણ મુજબ વાક્યનો વિસ્તાર કરો.",
+      "સાંભળો અને બોલો.",
+      "જો તમે રાજ્યના મુખ્યમંત્રી હો તો પહેલાં કયાં ત્રણ કાર્યો કરો ?",
+      "શાળા પુસ્તકાલયમાંથી ઝવેરચંદ મેઘાણીની લોકકથાઓનું પુસ્તક મેળવીને વાંચો.",
+      "અવાજ સાંભળીને મિત્રોને ઓળખો. (રમત)",
+      "નીચેના ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "કૌંસમાં આપેલા શબ્દોથી પ્રશ્નો બનાવો.",
+      "કૌંસમાં આપેલા શબ્દોથી ખાલી જગ્યા પૂરી ફકરાનું વાચન કરો."
+    ],
+    "unanswered": [],
+    "unmapped": [
+      {
+        "exercise_id": "EX4",
+        "exercise_group": "વાતચીત",
+        "prompt_verbatim": "4. શાળામાં તમે કયા કયા નિયમોનું પાલન કરો છો ?",
+        "reason": "Open personal prompt about the child's own school life (which rules they keep, when a rule was broken). Oral warm-up matter supplied by the exercise page; no reading scene of this લોકકથા prepares it. Items 1, 2, 3 and 6 of the same block ARE mapped. Nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX5",
+        "exercise_group": "વાતચીત",
+        "prompt_verbatim": "5. તમારામાંથી કોઈકવાર શાળાના નિયમનો ભંગ થયો છે ? ક્યારે ?",
+        "reason": "Open personal prompt about the child's own school life (which rules they keep, when a rule was broken). Oral warm-up matter supplied by the exercise page; no reading scene of this લોકકથા prepares it. Items 1, 2, 3 and 6 of the same block ARE mapped. Nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX20",
+        "exercise_group": "વાક્ય પૂર્ણ કરો.",
+        "prompt_verbatim": "1. હું દર શનિવારે...",
+        "reason": "Free sentence-completion stem supplied by the exercise page (હું દર શનિવારે..., ખબરદાર !, જો વરસાદ પડે તો...), with no connection to the story. Item 3 of this block (અરરર...!) IS mapped, because the chapter itself prints that exclamation in હાદા ખુમાણના મોઢે. Nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX21",
+        "exercise_group": "વાક્ય પૂર્ણ કરો.",
+        "prompt_verbatim": "2. આવતી દિવાળી પર...",
+        "reason": "Free sentence-completion stem supplied by the exercise page (હું દર શનિવારે..., ખબરદાર !, જો વરસાદ પડે તો...), with no connection to the story. Item 3 of this block (અરરર...!) IS mapped, because the chapter itself prints that exclamation in હાદા ખુમાણના મોઢે. Nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX23",
+        "exercise_group": "વાક્ય પૂર્ણ કરો.",
+        "prompt_verbatim": "4. ખબરદાર !",
+        "reason": "Free sentence-completion stem supplied by the exercise page (હું દર શનિવારે..., ખબરદાર !, જો વરસાદ પડે તો...), with no connection to the story. Item 3 of this block (અરરર...!) IS mapped, because the chapter itself prints that exclamation in હાદા ખુમાણના મોઢે. Nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX24",
+        "exercise_group": "વાક્ય પૂર્ણ કરો.",
+        "prompt_verbatim": "5. તમને ખબર છે ?",
+        "reason": "Free sentence-completion stem supplied by the exercise page (હું દર શનિવારે..., ખબરદાર !, જો વરસાદ પડે તો...), with no connection to the story. Item 3 of this block (અરરર...!) IS mapped, because the chapter itself prints that exclamation in હાદા ખુમાણના મોઢે. Nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX25",
+        "exercise_group": "વાક્ય પૂર્ણ કરો.",
+        "prompt_verbatim": "6. તમે ક્યારેય...?",
+        "reason": "Free sentence-completion stem supplied by the exercise page (હું દર શનિવારે..., ખબરદાર !, જો વરસાદ પડે તો...), with no connection to the story. Item 3 of this block (અરરર...!) IS mapped, because the chapter itself prints that exclamation in હાદા ખુમાણના મોઢે. Nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX26",
+        "exercise_group": "વાક્ય પૂર્ણ કરો.",
+        "prompt_verbatim": "7. જો વરસાદ પડે તો...",
+        "reason": "Free sentence-completion stem supplied by the exercise page (હું દર શનિવારે..., ખબરદાર !, જો વરસાદ પડે તો...), with no connection to the story. Item 3 of this block (અરરર...!) IS mapped, because the chapter itself prints that exclamation in હાદા ખુમાણના મોઢે. Nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX27",
+        "exercise_group": "વાક્ય પૂર્ણ કરો.",
+        "prompt_verbatim": "8. જો... તો મજા પડી જાય.",
+        "reason": "Free sentence-completion stem supplied by the exercise page (હું દર શનિવારે..., ખબરદાર !, જો વરસાદ પડે તો...), with no connection to the story. Item 3 of this block (અરરર...!) IS mapped, because the chapter itself prints that exclamation in હાદા ખુમાણના મોઢે. Nothing was missed by the cut."
+      },
+      {
+        "exercise_id": "EX35",
+        "exercise_group": "ઉદાહરણ મુજબ વાક્યનો વિસ્તાર કરો.",
+        "prompt_verbatim": "1. ગયો.",
+        "reason": "Sentence-expansion ladder built on the book's own practice verbs (ગયો., લાગી.). It prepares the chapter-final ક્રિયાવિશેષણ box, which is printed teaching matter and correctly not a topic; no reading scene prepares it."
+      },
+      {
+        "exercise_id": "EX36",
+        "exercise_group": "ઉદાહરણ મુજબ વાક્યનો વિસ્તાર કરો.",
+        "prompt_verbatim": "2. લાગી.",
+        "reason": "Sentence-expansion ladder built on the book's own practice verbs (ગયો., લાગી.). It prepares the chapter-final ક્રિયાવિશેષણ box, which is printed teaching matter and correctly not a topic; no reading scene prepares it."
+      },
+      {
+        "exercise_id": "EX37",
+        "exercise_group": "સાંભળો અને બોલો.",
+        "prompt_verbatim": "1. ધોળી ધજા ઘર પર ફરકે.",
+        "reason": "Tongue-twisters and two ચારણી લોકસાહિત્યની પંક્તિઓ printed by the exercise page. Pronunciation matter - none of their words occurs anywhere in this chapter's text."
+      },
+      {
+        "exercise_id": "EX38",
+        "exercise_group": "સાંભળો અને બોલો.",
+        "prompt_verbatim": "2. કાચો પાપડ, પાકો પાપડ",
+        "reason": "Tongue-twisters and two ચારણી લોકસાહિત્યની પંક્તિઓ printed by the exercise page. Pronunciation matter - none of their words occurs anywhere in this chapter's text."
+      },
+      {
+        "exercise_id": "EX39",
+        "exercise_group": "સાંભળો અને બોલો.",
+        "prompt_verbatim": "3. શીતળા સાતમે સવાશેર શીરો શેકો.",
+        "reason": "Tongue-twisters and two ચારણી લોકસાહિત્યની પંક્તિઓ printed by the exercise page. Pronunciation matter - none of their words occurs anywhere in this chapter's text."
+      },
+      {
+        "exercise_id": "EX40",
+        "exercise_group": "સાંભળો અને બોલો.",
+        "prompt_verbatim": "4. જ્યોતિ પ્રલંબા, જુગદંબા, આદ્ય અંબા ઇસરી, વંદન જલંબા, ચંદ બંબા, તેજ તંબા તું ખરી.",
+        "reason": "Tongue-twisters and two ચારણી લોકસાહિત્યની પંક્તિઓ printed by the exercise page. Pronunciation matter - none of their words occurs anywhere in this chapter's text."
+      },
+      {
+        "exercise_id": "EX41",
+        "exercise_group": "સાંભળો અને બોલો.",
+        "prompt_verbatim": "5. ભેરવે હલ્લા, ભલ્લ ભલ્લા ખાગ ઝલ્લા ખેલીય, હોતે હમલ્લા હાક હલ્લા, ઝૂઝ મલ્લાં ઝેલ્લીયં",
+        "reason": "Tongue-twisters and two ચારણી લોકસાહિત્યની પંક્તિઓ printed by the exercise page. Pronunciation matter - none of their words occurs anywhere in this chapter's text."
+      },
+      {
+        "exercise_id": "EX42",
+        "exercise_group": "જો તમે રાજ્યના મુખ્યમંત્રી હો તો પહેલાં કયાં ત્રણ કાર્યો કરો ?",
+        "prompt_verbatim": "10. જો તમે રાજ્યના મુખ્યમંત્રી હો તો પહેલાં કયાં ત્રણ કાર્યો કરો ?",
+        "reason": "Free civic-imagination prompt with no link to the chapter's text."
+      },
+      {
+        "exercise_id": "EX43",
+        "exercise_group": "શાળા પુસ્તકાલયમાંથી ઝવેરચંદ મેઘાણીની લોકકથાઓનું પુસ્તક મેળવીને વાંચો.",
+        "prompt_verbatim": "11. શાળા પુસ્તકાલયમાંથી ઝવેરચંદ મેઘાણીની લોકકથાઓનું પુસ્તક મેળવીને વાંચો.",
+        "reason": "Library activity pointing outside this chapter, to મેઘાણીની બીજી લોકકથાઓ. The only place the book names a title ('સૌરાષ્ટ્રની રસધાર') is the blue intro box, which is printed apparatus and correctly not a topic."
+      },
+      {
+        "exercise_id": "EX45",
+        "exercise_group": "નીચેના ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+        "prompt_verbatim": "13. નીચેના ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+        "reason": "The ફકરો to be translated (એક ખેડૂત હતો...) is supplied by the exercise page and is not from this chapter."
+      },
+      {
+        "exercise_id": "EX46",
+        "exercise_group": "કૌંસમાં આપેલા શબ્દોથી પ્રશ્નો બનાવો.",
+        "prompt_verbatim": "1. જોસેફ તેની પાસેથી ધીમેધીમે નીકળી ગયો. (કેવી રીતે)",
+        "reason": "Practice sentence supplied by the exercise page (જોસેફ..., સાધુ જંગલમાં..., ચોમાસામાં પાણી...) - a પ્રશ્નવાચક-શબ્દ / ક્રિયાવિશેષણ drill feeding the chapter-final grammar box. No sentence in the block comes from the story."
+      },
+      {
+        "exercise_id": "EX47",
+        "exercise_group": "કૌંસમાં આપેલા શબ્દોથી પ્રશ્નો બનાવો.",
+        "prompt_verbatim": "2. ગમે તેમ થાય તમે વહેલા આવી જજો. (ક્યારે)",
+        "reason": "Practice sentence supplied by the exercise page (જોસેફ..., સાધુ જંગલમાં..., ચોમાસામાં પાણી...) - a પ્રશ્નવાચક-શબ્દ / ક્રિયાવિશેષણ drill feeding the chapter-final grammar box. No sentence in the block comes from the story."
+      },
+      {
+        "exercise_id": "EX48",
+        "exercise_group": "કૌંસમાં આપેલા શબ્દોથી પ્રશ્નો બનાવો.",
+        "prompt_verbatim": "3. આજે તો વરસાદ ધોધમાર પડ્યો. (કેટલો)",
+        "reason": "Practice sentence supplied by the exercise page (જોસેફ..., સાધુ જંગલમાં..., ચોમાસામાં પાણી...) - a પ્રશ્નવાચક-શબ્દ / ક્રિયાવિશેષણ drill feeding the chapter-final grammar box. No sentence in the block comes from the story."
+      },
+      {
+        "exercise_id": "EX49",
+        "exercise_group": "કૌંસમાં આપેલા શબ્દોથી પ્રશ્નો બનાવો.",
+        "prompt_verbatim": "4. સાધુ જંગલમાં રહેતા હતા. (ક્યાં)",
+        "reason": "Practice sentence supplied by the exercise page (જોસેફ..., સાધુ જંગલમાં..., ચોમાસામાં પાણી...) - a પ્રશ્નવાચક-શબ્દ / ક્રિયાવિશેષણ drill feeding the chapter-final grammar box. No sentence in the block comes from the story."
+      },
+      {
+        "exercise_id": "EX50",
+        "exercise_group": "કૌંસમાં આપેલા શબ્દોથી પ્રશ્નો બનાવો.",
+        "prompt_verbatim": "5. ચોમાસામાં પાણી ઉકાળીને પીવું જોઈએ. (કેવું)",
+        "reason": "Practice sentence supplied by the exercise page (જોસેફ..., સાધુ જંગલમાં..., ચોમાસામાં પાણી...) - a પ્રશ્નવાચક-શબ્દ / ક્રિયાવિશેષણ drill feeding the chapter-final grammar box. No sentence in the block comes from the story."
+      },
+      {
+        "exercise_id": "EX51",
+        "exercise_group": "કૌંસમાં આપેલા શબ્દોથી ખાલી જગ્યા પૂરી ફકરાનું વાચન કરો.",
+        "prompt_verbatim": "15. કૌંસમાં આપેલા શબ્દોથી ખાલી જગ્યા પૂરી ફકરાનું વાચન કરો.",
+        "reason": "The cloze ફકરો (શિખર પરથી ઉતરી તળેટીએ...) is the book's own and has no connection to the story; the word bank is a ક્રિયાવિશેષણ set of સ્થળ, સમય and રીત feeding the chapter-final grammar box."
+      }
+    ],
+    "_note": "blocks_found reproduces all fourteen verbatim_heading values of 01_meta.json's exercise_inventory, in printed order, entry for entry. One exercises[] entry per discrete printed prompt: per item for વાતચીત (6), પ્રશ્નોના જવાબ (8), વાક્ય પૂર્ણ કરો (8), શબ્દકોશક્રમ (6), સાંભળો અને બોલો (5), પ્રશ્નનિર્માણ (5); per row for જોડકાં (5); per column for વાક્યવિસ્તાર (2); one composite entry for the cloze block, whose eight blanks are all filled in values_filled_for_teaching - the pack's standing convention for a cloze. unmapped records items the printed page supplies from outside the story (free-writing stems, tongue-twisters, grammar-drill sentences, the translation ફકરો, the cloze ફકરો) and two open વાતચીત prompts about the child's own school. Every one of them is answered; none of them is a signal that the cut missed a scene, and no mapping was invented to make the list shorter."
+  }
+}

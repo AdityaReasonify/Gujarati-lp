@@ -1,0 +1,444 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati6_ch2",
+  "plan_id": "gseb_eng_gujarati6_ch2_v1",
+  "grade": 6,
+  "chapter_name": "ચોટડૂક",
+  "genre": "varta",
+  "active_genre_profiles": ["varta.md"],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "'ચોટડૂક' બોલવાની તાકાત મળ્યા પછી બકો દર વખતે કોને બચાવવાનું પસંદ કરે છે, અને એ પસંદગી વાર્તાને ક્યાં લઈ જાય છે ?",
+  "explanation_unit": "એક ઘટના",
+
+  "cut_summary": {
+    "reading_markers_in_normalized": [
+      "[[ઘટના: કમળપુર, કનક નદી અને બકો]]",
+      "[[ઘટના: પગમાં કાંટો ને પીડા]]",
+      "[[ઘટના: માછલીનો અવાજ ને પરીનું પ્રગટવું]]",
+      "[[ઘટના: પરીએ 'ચોટડૂક - છૂટડૂક'ની વિદ્યા શીખવી]]",
+      "[[ઘટના: બગલું ને કાગડો — વિદ્યાની પહેલી અજમાયશ]]",
+      "[[ઘટના: ફળિયામાં ભોપો, મોતિયો કૂતરો ને કાશીભાભી]]",
+      "[[ઘટના: જંગલમાં માણસખાઉ વાઘ]]",
+      "[[ઘટના: વનવિભાગનું પાંજરું ને બકાનું સન્માન]]",
+      "[[ઘટના: ગામમાં બોર — પાણીનું દુઃખ દૂર]]"
+    ],
+    "reading_markers_count": 9,
+    "topics": 9,
+    "segments": 5,
+    "modules": 2,
+    "concepts": 11,
+    "objectives": 9,
+    "non_topic_markers": [
+      "[[શીર્ષક-પટ્ટી]]",
+      "[[લેખક-નામ]]",
+      "[[પ્રવેશપેટી — વાદળી ખાનું, શિક્ષક-સંબોધિત; વાચનદૃશ્ય નથી, સ્વાધ્યાય નથી]]",
+      "[[ચિત્ર: નદીકાંઠે અધ્ધર થંભી ગયેલું બગલું, પાણીમાં માછલી અને કાંઠે આંગળી ચીંધતો છોકરો — છપાયેલું ચિત્ર, લખાણ નથી]]",
+      "[[ચિત્ર: અધ્ધર થંભી ગયેલો કૂદતો વાઘ, સામે ઊભેલા છોકરાઓ ને ગામલોકો, દૂર ગામનાં ઘર — છપાયેલું ચિત્ર, લખાણ નથી]]",
+      "[[શબ્દાર્થ — છપાયેલું ખાનું; સ્વાધ્યાય નથી]]",
+      "[[સ્વાધ્યાય: …]] × 19",
+      "[[પાઠાંતે લીલું ખાનું — જોડાક્ષર-બોધ; બૅનર છપાયું નથી. અપ્રગટ પરિશિષ્ટ, સ્વાધ્યાય નથી]]"
+    ],
+    "tek_occurrences": 0
+  },
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કમળપુરની કનક નદી અને 'સાવ ભોળોભટાક' બકાનો પરિચય વાંચીને, બકો કેવો છોકરો છે તે પાઠના શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "નિશાળેથી આવતાં નદી જોવામાં તલ્લીન બકાના પગમાં કાંટો વાગ્યો — પાણીમાં પગ ઝબોળ્યા પછી પણ પીડા કેમ ન ગઈ તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": ["M1.S1.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "માછલીનો સાદ સાચું બોલનારને જ સંભળાય એમ કઈ પંક્તિ પરથી કહી શકાય તે શોધીને, બકાએ માછલી માટે શું કર્યું તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": ["M1.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પરીએ શીખવેલી વિદ્યામાં 'ચોટડૂક' અને 'છૂટડૂક' શબ્દો શું કરે છે, અને એ વિદ્યા કોણ શીખી શકે — બંને વાત પોતાના શબ્દોમાં કહેવી.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T4",
+      "anchor": ["M1.S2.T4.C4", "M1.S2.T4.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બગલા અને કાગડા સામે બકાએ 'ચોટડૂક' કેમ બોલ્યું, અને એ બોલવાથી માછલું ને દેડકો કેવી રીતે બચ્યાં તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": ["M2.S3.T5.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ભોપો, મોતિયો કૂતરો ને કાશીભાભી — ફળિયામાં બકાએ વિદ્યા વાપરી ત્યારે એનું કારણ બચાવવાનું હતું કે ગમ્મતનું, તે વિચારીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": ["M2.S3.T6.C7"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કૂદતો વાઘ 'ચોટડૂક'થી અધ્ધર થંભી ગયો — એ વખતે બકાએ ખેડૂતોને બંદૂક વાપરવાની કેમ ના પાડી તે કારણ સાથે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T7",
+      "anchor": ["M2.S4.T7.C8", "M2.S4.T7.C9"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વનવિભાગનું પાંજરું આવ્યા પછી બકાએ ક્યારે 'છૂટડૂક' બોલ્યું, અને એ સમયની સૂઝથી વાઘ કેવી રીતે પકડાયો તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T8",
+      "anchor": ["M2.S4.T8.C10"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સન્માનમાં મળેલી મોટી રકમનું બકાએ શું કર્યું તે કહીને, પોતાના ગામમાં આવી રકમ મળે તો શું કરાવવું ગમે તે કહેવું.",
+      "bloom_level": "Apply",
+      "home_topic_id": "M2.S5.T9",
+      "anchor": ["M2.S5.T9.C11"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9"
+  },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "નદીકાંઠે મળેલી ચમત્કારી ભેટ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "કનક નદી અને સાચાબોલો બકો",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "કમળપુરની નદી ને ભોળોભટાક છોકરો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: કમળપુર, કનક નદી અને બકો]]"],
+              "source_lines_00_normalized": "18-22",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "નદીકાંઠાનું ગામ ને એનો સાચાબોલો છોકરો",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "તલ્લીન નજર ને પગમાં કાંટો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: પગમાં કાંટો ને પીડા]]"],
+              "source_lines_00_normalized": "25-27",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "કાંટાની પીડા જે પાણીથી ન ગઈ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "માછલી, પરી અને એક ચમત્કારી વિદ્યા",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "માછલી છૂટી ને પરી પ્રગટી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T2"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: માછલીનો અવાજ ને પરીનું પ્રગટવું]]"],
+              "source_lines_00_normalized": "30-38",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "સાચું બોલનારને જ સંભળાયેલો સાદ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T4",
+              "topic_name": "પરીએ શીખવેલી વિદ્યા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M1.S2.T3"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: પરીએ 'ચોટડૂક - છૂટડૂક'ની વિદ્યા શીખવી]]"],
+              "source_lines_00_normalized": "41",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T4.C4",
+                  "concept_name": "વિદ્યા કોણ શીખી શકે — ચોખ્ખું મન",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S2.T4.C5",
+                  "concept_name": "'ચોટડૂક' ને 'છૂટડૂક'નો નિયમ",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "એક શબ્દથી ગામનું ભલું",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "વિદ્યાની પહેલી અજમાયશ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "બગલું થંભ્યું, દેડકો બચ્યો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M1.S2.T4"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: બગલું ને કાગડો — વિદ્યાની પહેલી અજમાયશ]]"],
+              "source_lines_00_normalized": "44, 48",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C6",
+                  "concept_name": "બચાવવા માટે વપરાયેલો પહેલો 'ચોટડૂક'",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "ફળિયામાં ભમરડો, કૂતરો ને બેડું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S2.T4"],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: ફળિયામાં ભોપો, મોતિયો કૂતરો ને કાશીભાભી]]"],
+              "source_lines_00_normalized": "51-55",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C7",
+                  "concept_name": "ફળિયામાં વિદ્યા બની ગમ્મત",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "જંગલનો વાઘ અધ્ધર થંભ્યો",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T7",
+              "topic_name": "કૂદતો વાઘ હવામાં અધ્ધર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": ["M1.S2.T4", "M2.S3.T6"],
+              "objective_ids": ["O7"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: જંગલમાં માણસખાઉ વાઘ]]"],
+              "source_lines_00_normalized": "58",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T7.C8",
+                  "concept_name": "કૂદતા વાઘને થંભાવતો એક શબ્દ",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S4.T7.C9",
+                  "concept_name": "બંદૂક ન વાપરવા દેવાની પસંદગી",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T8",
+              "topic_name": "પાંજરે પુરાયો વાઘ ને બકાનું સન્માન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": ["M2.S4.T7"],
+              "objective_ids": ["O8"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: વનવિભાગનું પાંજરું ને બકાનું સન્માન]]"],
+              "source_lines_00_normalized": "63",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T8.C10",
+                  "concept_name": "'છૂટડૂક' ક્યારે બોલવું — સમયની સૂઝ",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S5",
+          "segment_name": "રકમમાંથી ગામનું પાણી",
+          "topics": [
+            {
+              "topic_id": "M2.S5.T9",
+              "topic_name": "ગામનું પાણીનું દુઃખ દૂર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "easy",
+              "depends_on": ["M2.S4.T8"],
+              "objective_ids": ["O9"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: ગામમાં બોર — પાણીનું દુઃખ દૂર]]"],
+              "source_lines_00_normalized": "66",
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T9.C11",
+                  "concept_name": "સન્માનની રકમમાંથી ગામનો બોર",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "not_cut_as_topics": [
+    "[[શીર્ષક-પટ્ટી]] '2 ચોટડૂક' + [[લેખક-નામ]] '– લાભશંકર ઠાકર' — છપાયેલી header-પંક્તિઓ, વાચનદૃશ્ય નથી. લેખક-પંક્તિ કાવ્યની જેમ પાઠને અંતે નહિ પણ શીર્ષકની નીચે છપાઈ છે, એટલે એ કોઈ topic ના original_chunk માં નથી — Agent 5 માટે નોંધ. શીર્ષક-પટ્ટીની જમણી બાજુનો QR બૅજ header furniture છે (reference/explanation_unit_map.md).",
+    "[[પ્રવેશપેટી]] — વાદળી ખાનું, શિક્ષક-સંબોધિત apparatus. સ્વરૂપ-નિદાનનું સૌથી મજબૂત પ્રમાણ ('આ એક રસપ્રદ રમૂજકથા છે…') પણ topic નથી; key_terms અને ભાષા-બોધને પોષે છે. તેની 'સત્ય અને પરોપકાર જેવાં મૂલ્યો માટે અહીં અવકાશ છે' પંક્તિ શિક્ષકને અપાયેલી સૂચના છે — explanation નું સમાપન નહિ (varta.md avoid-gate 2).",
+    "[[શબ્દાર્થ]] ખાનું (9 શબ્દ: ભોળોભટાક, ઝબોળવું, તલ્લીન, વેળા, જળરાક્ષસ, અદૃશ્ય, ફંગોળાયેલો, તગતગવું, તોળાયેલું) — apparatus; key_terms અને point-of-use gloss ને પોષે છે, topic નથી.",
+    "બે [[ચિત્ર]] નિશાનીઓ (છપાયેલાં પાનાં સાત અને આઠ) — છપાયેલાં ચિત્રો છે, એમાં કૅપ્શન કે લખાણ નથી. Topic નથી; Agent 9 માટે દૃશ્ય-સંકેત છે.",
+    "ઓગણીસ ક્રમાંકિત સ્વાધ્યાય બ્લોક (વાતચીત … ચાલો રમીએ) — 01_meta.json ના exercise_inventory માં જ રહે છે, Agent 10 નું કામ. 'નીચેની ઘટનાઓને પાઠના ક્રમમાં ગોઠવીને ફરીથી લખો.' માં છપાયેલી પાંચ ઘટના arc નું પ્રમાણ છે, કાપ નહિ (varta.md, Explanation unit).",
+    "પાઠાંતે લીલું જોડાક્ષર-ખાનું (છપાયેલું પાનું તેર) — બૅનર વગરનું અપ્રગટ પરિશિષ્ટ; આખો જોડાક્ષર-બોધપાઠ શિક્ષક-સંબોધિત ઉપકરણ છે ('તમારા શિક્ષક પાસેથી આ વાત થોડાં વિશેષ ઉદાહરણો સાથે સમજો.'). Topic નથી; ભાષા-બોધ અને Agent 10 ને પોષે છે."
+  ],
+
+  "notes": [
+    "કાપ સ્વરૂપના એકમ પ્રમાણે જ છે: varta → 'એક ઘટના'. 00_chapter_normalized.md ની નવ [[ઘટના]] નિશાનીઓ સામે નવ topics — એક નિશાની, એક topic. કોઈ નિશાની ગળી નથી અને નિશાની વગરનું કોઈ topic ઊભું કર્યું નથી. 01_meta.json નું structure_inventory.ghatna = 9 આ ગણતરી સાથે મળે છે.",
+    "profile prior સાથે કોઈ મતભેદ નથી. reference/explanation_unit_map.md માં std-6 ch 2 ચોટડૂક ને varta ની હરોળમાં નામ સાથે ટાંક્યું છે, અને રેન્ડર કરેલાં પાનાં (150 dpi, પાનાં એકથી આઠ) એ જ બતાવે છે — ગદ્ય, નામવાળાં પાત્રો, ઘટના-સાંકળ, વળાંક, પરિણામ. કોઈ પંક્તિ, પ્રાસ, ટેક કે કડી નથી; tek_occurrences = 0.",
+    "Agent 5 માટે અગત્યની નોંધ — M2.S3.T5 નું લખાણ 00_chapter_normalized.md માં તૂટેલું છે. 'બકો પછી કાગડા તરફ તાકીને બોલ્યો છૂટડૂક ને કાગડાનો માંડ છુટકારો થયો.' (લીટી 48) [[ચિત્ર]] નિશાની (લીટી 46) પછી આવે છે, કારણ કે છપાયેલું બગલાનું ચિત્ર કૉલમને વચ્ચેથી તોડે છે. એ વાક્ય કાગડા-ઘટનાની પૂંછડી છે, નવી ઘટના નથી — તેથી T5 નું original_chunk લીટી 44 અને લીટી 48 બંને ધરાવે છે, વચ્ચેની ચિત્ર-નિશાની છોડીને.",
+    "છપાયેલા પાનાં આઠ પર વાઘનો ફકરો ચિત્રની આસપાસ બે કૉલમમાં ગોઠવાયો છે. Agent 1 એ ડાબી સાંકડી કૉલમ ઉપરથી નીચે વાંચીને પછી ચિત્ર નીચેનો ફકરો લીધો છે; એ ક્રમ સાચો છે. Agent 5 એ લખાણ ફરી કૉલમ-આડું ન વાંચે — આડો કાપ ઘટના તોડી નાખે.",
+    "Modules બે છે અને એ વાર્તાની બે મોટી ચાલ છે: પહેલામાં બકાને વિદ્યા મળે છે (નદી → કાંટો → પરી → વિદ્યા), બીજામાં એ વિદ્યા વપરાય છે (અજમાયશ → ફળિયું → વાઘ → પાંજરું → બોર). Segment અને topic counters આખા પ્રકરણમાં ચાલુ રહે છે, ફરી શરૂ થતા નથી.",
+    "M2.S5 માં એક જ topic છે અને એ ટૂંકું છે — છપાયેલું છેલ્લું વાક્ય એક જ છે. છતાં એ પોતાનું segment રાખ્યું, કારણ કે વાર્તાનું પરિણામ ત્યાં જ છે: સાહસનું ઇનામ ગામના પાણી બની જાય છે. અસમતોલ લંબાઈની આ નોંધ Agent 13 માટે છે.",
+    "બે topics ને બે-બે concepts આપ્યાં છે અને બાકીનાં સાતને એક-એક. M1.S2.T4 ખરેખર બે જુદી વસ્તુ કરે છે — વિદ્યા કોણ પામી શકે (ચોખ્ખા મનવાળા જ) અને વિદ્યા કઈ રીતે ચાલે છે (બે શબ્દોનો નિયમ). M2.S4.T7 પણ બે કરે છે — વાઘનું અધ્ધર થંભવું, અને બંદૂક ન વાપરવા દેવાની પસંદગી; બીજી વસ્તુ પર જ પ્રકરણનો વળાંક ટકે છે અને છપાયેલો સ્વાધ્યાય પણ એ જ પૂછે છે.",
+    "Concept counter chapter-continuous છે: C1 (T1), C2 (T2), C3 (T3), C4+C5 (T4), C6 (T5), C7 (T6), C8+C9 (T7), C10 (T8), C11 (T9). તેથી concept-અંક topic-અંક બરાબર નથી — reference/phase2_contract.md મુજબ એ જ સાચું છે.",
+    "topic_type બધે STORY_TELLING છે. ધોરણ છ માં બાળક-સંબોધિત લેખક-પરિચય ફકરો છપાતો નથી (એ ધોરણ દસની ભાત છે), એટલે કોઈ CONCEPT topic નથી; પાઠમાં કોઈ સમાપન-સાર કે મૂલ્ય-સમેટ છપાયો નથી, એટલે કોઈ REVIEW topic પણ નથી.",
+    "topic_category માં બે 'resolution' છે (T8 અને T9) — એ છપાયેલા પાનાની ખરી ભાત છે: પહેલાં વાઘનું સંકટ ઊકલે છે, પછી ઇનામની રકમ ગામને કામ લાગે છે. વળાંક એક જ છે (T7, climax) અને એ જ topic બંદૂક-ના-પાડવાની પસંદગી ધરાવે છે.",
+    "difficulty આ પ્રકરણની અંદર સાપેક્ષ છે અને L2 વાચકને પાનાં પર શું અટકાવે છે તેનાથી નક્કી થઈ છે — કારીગરીથી નહિ (ધોરણ છ માં કોઈ topic અલંકાર કે છંદને કારણે hard નથી, અને એવો કોઈ શબ્દ ક્યાંય વપરાયો પણ નથી). hard: T4 (લાંબો એકવડો ફકરો, અમૂર્ત નિયમ, વિદ્યા/વ્યક્તિ/સ્થિર જેવા જોડાક્ષર) અને T5 (પ્રકરણનો સૌથી લાંબો ફકરો, બે બચાવ એકસાથે, અધ્ધર/ચાંચ/ઊડ/જણાયો). medium: T1 (પાદર, ભોળોભટાક, ભણવે-ગણવે, રમતી-ભમતી), T3 (સોનેરી-રૂપેરી, જળરાક્ષસ, છૂટતાંની), T6 (જાળ વીંટીને, ફંગોળાયેલો, બેડું, અધવચ), T7 (માણસખાઉ, તગતગતી, તોળાયેલો, ઊમટ્યાં), T8 (વનવિભાગ, અધિકારીઓ, સન્માનિત — તત્સમ સરકારી શબ્દો). easy: T2 અને T9, બંને ટૂંકાં અને રોજિંદા શબ્દોમાં.",
+    "depends_on માં ખરી નિર્ભરતા જ નોંધી છે. T2 → T1 (નિશાળ નદીની નજીક છે અને બકાને નદીની પ્રીત છે એ T1 જ સ્થાપે છે; એ જ તલ્લીનતાથી કાંટો વાગે છે). T3 → T2 (પરી કાંટો કાઢે છે). T4 → T3. T5, T6, T7 → T4 (વિદ્યા વગર એકેય ઘટના બનતી નથી). T7 એ T6 પર પણ આધારિત છે — 'બધાંને બકાની આ વિદ્યા જોવાની ગમ્મત પડવા લાગી' પછી જ ગામલોકો એને વાઘ માટે વિનંતી કરે છે. T8 → T7, T9 → T8.",
+    "objective_text માં ક્યાંય અલંકાર, છંદ, સમાસ કે સાહિત્યપ્રકારનું નામ નથી (ધોરણ છ નું ceiling — profiles/students/std-6.md §3). 'વાર્તા' શબ્દ પણ objective માં વાપર્યો નથી, જોકે છપાયેલો સ્વાધ્યાય એ વાપરે છે. કોઈ નામમાં કે objective માં અંક નથી; 'ચોટડૂક', 'છૂટડૂક' અને પાત્રનામ પાઠના પોતાના શબ્દો છે.",
+    "Bloom વહેંચણી: Understand ×5 (O1, O2, O4, O5, O8), Analyze ×3 (O3, O6, O7), Apply ×1 (O9). ધોરણ છ માં ceiling ઊતરતું નથી — on-ramp બદલાય છે. ત્રણેય Analyze પુરાવા-આધારિત છે: O3 છપાયેલી પંક્તિ શોધવાનું કહે છે, O6 બે કારણ વચ્ચે પસંદ કરાવે છે (પાઠ પોતે 'બકાને ગમ્મત પડી' કહે છે), O7 છપાયેલા સ્વાધ્યાયનો જ 'કેમ ના પાડી ?' પ્રશ્ન છે. કોઈ objective કેન્દ્રીય વિચાર કે મનોવૈજ્ઞાનિક રૂપક માગતું નથી (std-6 DON'T 2 અને 3).",
+    "લેન્સ 'ઘટના + પાત્ર + વળાંક' અને guiding question ને કાપ સેવે છે: T5 (બચાવવા માટે) અને T6 (ગમ્મત માટે) સામસામે મુકાય છે, અને T7 એ પસંદગીને ટોચે લઈ જાય છે — બંદૂક ના પાડીને બકો વાઘને પણ બચાવે છે. ક્રમમાં નવેય explanation વાંચતાં guiding question નો જવાબ મળે છે; Agent 13 એ જ તપાસશે.",
+    "Agent 12 માટે બે gate ખાસ યાદ રહે (varta.md, Avoid): (એક) T1થી T6 માંથી કોઈ explanation, summary કે recall answer વાઘનું પરિણામ — પાંજરું, સન્માન, રકમ, બોર — અગાઉથી ન બોલે, નહિ તો વળાંક બગડે. (બે) કોઈ પણ ક્ષેત્રનું સમાપન 'આ વાર્તા આપણને શીખવે છે…' જેવા બોધ પર ન થાય; પાઠ પોતે ક્યાંય બોધ છાપતો નથી, અને પ્રવેશપેટીનું મૂલ્ય-વાક્ય શિક્ષકને છે.",
+    "original_chunk નવેય topics માં ખાલી છે — Agent 5 ભરશે. છપાયેલાં બેવડાં અવતરણ (''બકા ! મને છોડાવ ને !''), એકવડાં અવતરણ ('ચોટડૂક', 'છૂટડૂક') અને પ્રશ્નચિહ્ન પહેલાંની જગ્યા જેમ છપાઈ છે તેમ જ જવી જોઈએ.",
+    "મિશ્ર પ્રકરણ નથી: પાઠમાં કોઈ કાવ્ય, દુહો કે બીજી કૃતિ જડેલી નથી, અને કોઈ 'ગાઈએ' જેવી પરિશિષ્ટ-કૃતિ છપાઈ નથી. તેથી એક જ સ્વરૂપ, એક જ એકમ, એક જ ચેન."
+  ]
+}

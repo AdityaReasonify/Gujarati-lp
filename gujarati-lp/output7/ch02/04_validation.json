@@ -1,0 +1,64 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati7_ch2",
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "explanation_unit matches 01_meta.json exactly: 'એક ઘટના'. The cut is ઘટના-wise (one plot beat per topic), which is what varta.md and reference/explanation_unit_map.md's વાર્તા row prescribe. genre slug 'varta', one active profile varta.md, teaching_lens 'ઘટના + પાત્ર + વળાંક' and guiding_question are all carried unchanged from 01_meta.json.",
+        "કડી / દુહો / પદ / ટેક equality sub-checks are vacuously satisfied: 01_meta.json and 02_structure.json both record kadi=0, duha=0, pad=0, tek_occurrences=0, and 00_chapter_normalized.md prints not one line of verse in the unit. No [[કડી]], [[દુહો]] or [[પદ]] marker exists to split or merge.",
+        "Not a mixed chapter: the chapter-final 'વિરામચિહ્નો' grammar table and the 'જો જો હસતાં ના...' humour box are apparatus, not a second literary piece — both correctly listed in not_cut_as_topics, neither cut under a second unit.",
+        "varta.md avoid-gates are structurally respected at this stage. No module, segment, topic, concept or objective name applies an evaluative label to a character, states an abstract બોધ, or debunks the tale. The intro box's own word 'ચાતુર્યકથા' is quoted only as evidence in not_cut_as_topics and stays out of every child-facing name. Gates 1, 2, 3 and 5 are prose gates and are checked at Agents 12/13, not here."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 9,
+      "topics": 10,
+      "notes": [
+        "CORRECTION to the shape's placeholder: this chapter has 9 reading scenes and 9 topics, 1:1 and in printed order. The 'topics' number above is the template default and the measured value is 9 — see topics_actual below.",
+        "00_chapter_normalized.md carries exactly 9 reading-scene markers (7 × [[ઘટના: …]] + 2 × [[સંવાદ: …]]), counted mechanically; 02_structure.json carries exactly 9 topics, one marker each, in the same order: T1 કવિનું આવવું → T2 રાજાની શરત → T3 ત્રણ સવાલ → T4 સપ્તાહની મુદત → T5 બાળાનો દાવો → T6 દૂધ-માખણ → T7 દીવો-પ્રકાશ → T8 અદલાબદલી → T9 પરિણામ.",
+        "01_meta.json's structure_inventory.ghatna = 7 counts only the [[ઘટના]] markers — Agent 1 says so in its own extraction note — while the two [[સંવાદ]] scenes are reading scenes too. The 7-vs-9 difference is a counting scope, NOT a swallowed marker. Verified independently by grep on the normalized file: 9 reading markers, 13 [[સ્વાધ્યાય]] markers.",
+        "No સ્વાધ્યાય block became a topic. All 13 exercise_inventory verbatim_headings were cross-checked against all 9 topic_names and all 9 topic marker lists: zero collisions. Every topic marker is an [[ઘટના]] or [[સંવાદ]] scene; all thirteen numbered pink blocks sit in not_cut_as_topics and are Agent 10's alone. Exercise block 9's re-worked third answer and block 3's re-punctuated quotations were correctly kept out of the cut.",
+        "No topic covers text no marker claims. source_lines_00_normalized run 18-21, 23-28, 30-35, 37-38, 42-44, 46-55, 57-62 + 66-68, 70-75, 77-80 — all inside the story body (lines 18-80), none reaching the header furniture (9-16), the શબ્દાર્થ box (82-84) or any exercise line (86+). The only story-body lines not claimed are the two [[ચિત્ર]] marker lines 40 and 64 and blank lines, which is correct.",
+        "M2.S3.T7's split range (57-62, 66-68) is correct and was verified against the numbered normalized file: the second illustration marker sits at line 64 INSIDE the દીવો scene, and line 66 ('દીવાનો પ્રકાશ તો ચારે દિશામાં જ પડેને !') answers the question asked at line 62. One ઘટના interrupted by a picture, not two.",
+        "No pre-reading topic exists, and that is correct for this chapter rather than a coverage gap. Std 7's opener is the blue પ્રવેશપેટી, which is teacher-addressed apparatus by reference/explanation_unit_map.md rule 4 ('the blue intro box … teacher-addressed matter: they feed key_terms, ભાષા-બોધ and Agent 10 — not topics'). The student-facing પરિચય paragraph that becomes a CONCEPT topic is the std-10 pattern and is not printed here. Likewise the chapter prints no in-text wrap or value summary, so there is no REVIEW topic.",
+        "topic_type is STORY_TELLING on all nine — an authored value, mapped to 'instructional' by Agent 14/15 per phase2_contract.md. topic_category values are all from the allowed set and the single 'climax' sits on M2.S3.T6, matching where 01_meta.json records the વળાંક ('સવાલ સામે સવાલ હતો')."
+      ],
+      "topics_actual": 9,
+      "reading_markers_measured": 9,
+      "exercise_blocks_measured": 13,
+      "exercise_blocks_cut_as_topics": 0
+    },
+    "objectives": {
+      "pass": true,
+      "count": 9,
+      "notes": [
+        "Root objectives[] exists with O1–O9, all objective_id values unique, all legacy_id values L1–L9 unique, strand 'L' / 'ભાષા અને સાહિત્ય' throughout as phase2_contract.md requires.",
+        "Every home_topic_id resolves to a node in this tree (M1.S1.T1, M1.S1.T2, M1.S1.T3, M1.S2.T4, M1.S2.T5, M2.S3.T6, M2.S3.T7, M3.S4.T8, M3.S4.T9) and every anchor[] id resolves to a concept in this tree (C1–C11, no dangling and no duplicates).",
+        "strand_to_objective_map covers every legacy_id exactly once: L1→O1 … L9→O9, nine entries, no gaps, no repeats.",
+        "Every topic carries objective_ids and each resolves to the root registry; every concept's objective_id matches its topic's objective.",
+        "Each objective is text-grounded and chapter-specific — each names something only this chapter has (ભોજ રાજાનો દરબાર, કવિની શરત, દૂધમાં માખણ, સળગતો દીવો, સિંહાસન-મંત્રીપદની અદલાબદલી, ''જ્ઞાન ઉંમર ઉપરથી પારખી શકાતું નથી''). None could be pasted into another chapter. All serve the lens ઘટના + પાત્ર + વળાંક: the Analyze-level objectives (O4, O6, O8) sit on the beats that carry motive and the turn.",
+        "objective_text word counts are 19, 20, 20, 21, 26, 23, 21, 25, 20 — all inside phase2_contract.md's 12–30 band. bloom_level is capitalised as the contract requires (Remember / Understand / Analyze).",
+        "Ids match reference/naming_conventions.md. Hierarchy is dotted and continuous with no restarts: M1→M2→M3, S1→S2→S3→S4, T1→T9, C1→C11 chapter-continuous. Concepts are present on every topic (9 topics, 11 concepts; two topics carry two, none carries three). No M1.S1.T1.P1-style objective code appears anywhere in the file. chapter_id / plan_id match 01_meta.json (gseb_eng_gujarati7_ch2 / _v1), with the PROVISIONAL board+medium segments carried forward as VERIFY-1 requires.",
+        "Zero digits (Latin or Gujarati) appear in any module_name, segment_name, topic_name, concept_name or objective_text — checked mechanically. global_content_rules.md rule 4 holds; the printed ordinals પહેલો/બીજો/ત્રીજો were replaced by content-descriptive names."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Verdict: PASS on all three blocking checks. Ids are frozen from this pass; only Agent 14 renumbers, and O{n} plus strand_to_objective_map are never renumbered.",
+    "Non-blocking, for Agent 13: 01_meta.json's structure_inventory.ghatna = 7 vs the cut's 9 topics is a counting-scope difference (Agent 1 counted only [[ઘટના]] markers; the two [[સંવાદ]] scenes are reading scenes too). Both files already document it. If a downstream agent reads ghatna as a topic count it will be wrong by two.",
+    "Non-blocking, for Agent 14: root genre is the slug 'varta' in 02_structure.json while 01_meta.json's genre field holds the Gujarati word 'વાર્તા'. That is the intended split — phase2_contract.md requires the roster slug in the emitted root genre — but the emit must take the slug, not the Gujarati label.",
+    "Non-blocking, contract reminder: the concept counter is chapter-continuous, so from T7 onward the concept number no longer equals the topic number (T7→C8, T8→C9+C10, T9→C11). That is phase2_contract.md rule 4, not a defect; do not 'fix' it to C7/C8/C9.",
+    "Non-blocking, for Agents 12/13: the single climax is M2.S3.T6, so varta.md avoid-gate 4 (no earlier topic names the outcome) governs T1–T5. Agent 2 already flagged this and it is confirmed here.",
+    "Non-blocking, for Agent 5: original_chunk is \"\" on all nine topics by design at this stage — verbatim transcription is Agent 5's field and its fidelity is gated at Agents 5/6, not here. Agent 2's note that the author line '- હરીશ નાયક' is printed under the title bar (header furniture, so it belongs in NO topic's original_chunk, unlike the end-of-text attribution line the verbatim rule normally places in the last topic) is correct against the render's layout as transcribed and should be honoured.",
+    "Non-blocking, for Agent 12/14: topics do not yet carry the mirrored inline learning_objectives[] copy that phase2_contract.md requires in the emitted plan. That mirror is added downstream; when it is, the two texts must stay identical character for character.",
+    "Non-blocking, recorded from Agent 2 and confirmed: topic lengths are uneven (M1.S2.T4 is one printed paragraph; M2.S3.T6 and M3.S4.T8 run ten and six printed lines). The lengths follow the printed beats and no beat was split or padded — an unevenness note, never a block.",
+    "Non-blocking sensitivity carried forward: the story's engine is three questions about ભગવાન answered by demonstration. Teach the ચાતુર્ય and the દૃષ્ટાંત; no theology lesson, no comparative-religion note, no appended moral (global_content_rules.md rule 10, varta.md avoid-gates 2 and 5).",
+    "Method: every count in this file was measured from 00_chapter_normalized.md and 02_structure.json (grep on the marker lines, a line-numbered read of the normalized file, and a structural walk of the JSON), not estimated. No page render was opened — the transcription answered every question, including the illustration-interrupted scene at T7, because Agent 1 recorded both [[ચિત્ર]] markers in place with their line positions.",
+    "Nothing was written outside this agent's two declared output files; 02_structure.json, 01_meta.json, 00_chapter_normalized.md, 11_pages.json and _renders/ were read only."
+  ]
+}

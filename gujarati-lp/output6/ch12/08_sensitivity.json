@@ -1,0 +1,43 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S3.T4",
+      "areas": ["સુરક્ષા"],
+      "caution": "The chunk describes કન્યાઓ hitting a climbing યુવાન with સોટીઓ and the યુવાન pushing through to reach the થાંભલો — an explanation or real_life_example that turns this into a game the child could re-enact (hitting a classmate with a stick, climbing a bare pole) would put an unsafe act in front of a std 6 child.",
+      "guidance": "Explain it as one moment inside a supervised, once-a-year village contest — who dances, who tries to climb, why the સોટીઓ are there — without inviting the child into the real_life_example to try climbing or to hit anyone with a stick; anchor the real_life_example in watching or describing a મેળો, not performing this act.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M1.S3.T5",
+      "areas": ["સુરક્ષા"],
+      "caution": "The chunk has the યુવાન climbing a 20-25 ફૂટ થાંભલો સડસડાટ after being hit with sticks, then jumping down suddenly — a recall prompt or real_life_example phrased as 'have you climbed…' or 'try jumping like this' would nudge a child toward climbing height or jumping down, which is genuinely unsafe.",
+      "guidance": "Keep the description as what the ચપળ જુવાન does inside the contest (climbs, reaches the પોટલી, eats the ગોળ, jumps down to escape the crowd) — narrate it as the text does, and never phrase the real_life_example or a recall question as an instruction or dare for the child to climb or jump.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "areas": ["જાતિ-ભૂમિકા"],
+      "caution": "The chunk names the જૂના જમાનાની સ્વયંવર-પ્રથા — winning ગોળ or raising the ધજા once let the victorious યુવાન marry a કન્યા of his choice from her circle. An explanation that stops at 'ago the winner could marry the girl he chose' without the chapter's own correction would leave the child thinking bride-choice-by-contest is still how આ મેળો works today.",
+      "guidance": "Carry both halves the text gives: name the old custom the game recalls (પરણી શકતો), and then state plainly, in the chapter's own words, કે 'હવે મેળાનો હેતુ કન્યા પસંદગીનો રહ્યો નથી' — the explanation must land on that present-day fact, not linger on the old one.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S5.T8",
+      "areas": ["સમુદાય"],
+      "caution": "The chunk names આદિવાસી પ્રજા as the community that has kept this મેળો as its own સંસ્કૃતિની ઓળખ, and the text itself calls that ગૌરવની વાત. An explanation that swaps in a generic term like 'tribal people' or frames the custom as an outsider's curiosity ('even today they still…') would flatten a real named community into a stereotype the text does not carry.",
+      "guidance": "Use આદિવાસી પ્રજા exactly as printed, and keep the explanation and real_life_example inside the text's own register — the community keeping its own identity alive through the મેળો, stated as pride, not novelty.",
+      "severity": "hard"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "સમુદાય",
+      "guidance": "The whole chapter is one community's own festival, described from inside — the two real photographs on page 79 are of real people at a real, ongoing મેળો, not staged illustrations; every mechanism field (explanation, real_life_example, image prompts) should keep the same dignity the chapter uses, never treat the જેસાવાડા મેળો or the આદિવાસી પ્રજા as an exotic curiosity."
+    },
+    {
+      "area": "સુરક્ષા",
+      "guidance": "The pole-climbing, stick-hitting and sudden jump-down sequence runs across multiple topics (M1.S3.T4 through M1.S3.T6) as one continuous physical contest — across all of them, recall prompts and real_life_examples should stay on describing and appreciating the tradition, never on inviting the child to try climbing, hitting, or jumping themselves."
+    }
+  ],
+  "none_found": false
+}

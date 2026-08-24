@@ -1,0 +1,21 @@
+{
+  "chapter_id": "gseb_eng_gujarati6_ch15",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S1.T2",
+    "M2.S2.T3",
+    "M2.S2.T4",
+    "M2.S3.T5",
+    "M2.S3.T6",
+    "M2.S3.T7",
+    "M3.S4.T8",
+    "M3.S4.T9",
+    "M4.S5.T10",
+    "M4.S5.T11"
+  ],
+  "source": "printed pages 101–102 read off the render (_renders/page-1.png, page-2.png)",
+  "notes": [
+    "The chapter's teaching text is ten printed paragraphs running unbroken from folio 101 to folio 102; the eleven topics were cut inside that run and are printed in exactly this order, so textbook_order equals the logical order of 02_structure.json. Emitted explicitly so Agent 15 compares against a real index rather than an assumption.",
+    "Excluded from this index because they are not this chapter's teaching text: the blue પ્રવેશપેટી (teacher-addressed, folio 101), the market illustration (folio 101), the શબ્દાર્થ box and the • રૂઢિપ્રયોગ pre-block (folio 103), and all eighteen સ્વાધ્યાય blocks (folios 103–107)."
+  ]
+}

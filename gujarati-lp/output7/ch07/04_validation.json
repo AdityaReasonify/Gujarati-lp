@@ -1,0 +1,60 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati7_ch7",
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "explanation_unit": "એક જીવન-પ્રસંગ",
+      "genre": "ચરિત્ર-પ્રસંગ",
+      "notes": [
+        "The cut uses the unit named in 01_meta.json ('એક જીવન-પ્રસંગ'), which is the unit charitra_prasang.md and reference/explanation_unit_map.md both fix for this સ્વરૂપ. All twelve topics are episode-shaped and each opens on a new પરિસ્થિતિ or a new કૃત્ય.",
+        "structure_inventory records kadi 0, duha 0, pad 0, tek_occurrences 0 — the કડી-equality, no-two-દુહા-share-a-topic, no-પદ-split and changed-ટેક checks are vacuously satisfied. Verified against 00_chapter_normalized.md: it carries no [[કડી]], [[દુહો]], [[પદ]] or [[ટેક]] marker of any kind.",
+        "Profile avoid-gate 6 (merging or splitting a printed person-section) has nothing to bite on: Agent 1 measured that the chapter prints no section headings and no person-heads, and structure_inventory records none. The episode half of the rule applies, the person-section half does not.",
+        "Profile avoid-gate 5 (biography-by-chronology) holds: no topic_name carries a life-stage label (બાળપણ / શિક્ષણ / કારકિર્દી / લગ્નજીવન / અવસાન / જીવન અને કાર્ય). M4.S6.T11 covers જન્મ, વસવાટ and અંતિમસંસ્કાર under 'લિંબાળા આવીને વસવું અને છેલ્લી ઇચ્છા'.",
+        "Profile avoid-gate 9 (war content turned into jingoism) holds at structure level: no module_name, segment_name, topic_name, concept_name or objective_text contains દુશ્મન, શત્રુ, a nation's name or a count of losses. Checked by token scan.",
+        "Profile avoid-gate 4 (hagiography) holds at structure level: no name or objective carries મહાન, વીર, બહાદુર, આદર્શ or any evaluative superlative, and no objective names a quality before the act that shows it — O8 and O12 reach સ્વભાવ/મૂલ્ય only after naming the printed act.",
+        "The chapter is single-genre, not mixed; one profile is active and the whole chain is cut under it."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 12,
+      "topics": 12,
+      "notes": [
+        "00_chapter_normalized.md carries twelve [[ઘટના: …]] reading markers; 02_structure.json carries twelve topics. Marker-to-topic is 1:1 and the topic order matches document order character for character (verified by string comparison of the marker lists).",
+        "No topic covers text that no marker claims. Every topic's source_lines_00_normalized falls strictly inside its own marker's span; the three [[ચિત્ર]] lines (16, 48, 83) and the blank lines are excluded, and no running-prose line between line 12 and line 97 is left unclaimed.",
+        "No સ્વાધ્યાય block became a topic. All seventeen exercise_inventory verbatim_headings were cross-checked against every topic_name and every topic marker: zero collisions. The સ્વાધ્યાય region begins at line 109 of 00_chapter_normalized.md and the highest topic source line is 97.",
+        "The apparatus blocks are correctly excluded and are recorded in not_cut_as_topics: the blue પ્રવેશપેટી, the શબ્દાર્થ box, the રૂઢિપ્રયોગ pre-block, the three ચિત્ર markers, the seventeen numbered pink blocks and the chapter-final ઉખાણું box.",
+        "The two paragraphs printed inside exercises (the અનુલેખન લોંગેવાલા paragraph and the અનુવાદ સાબર paragraph) were correctly kept out of the ઘટના chain — appended reading matter is not part of this chapter's unit chain."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 12,
+      "notes": [
+        "Root objectives[] exists with O1–O12, all objective_id values unique.",
+        "Every home_topic_id resolves to a topic in this tree and every anchor[] id resolves to a concept in this tree (16 concepts, C1–C16). Verified programmatically.",
+        "strand_to_objective_map covers L1–L12 exactly once, one legacy_id per objective, single strand L / ભાષા અને સાહિત્ય throughout.",
+        "Every topic carries objective_ids and each resolves to the registry; every concept's objective_id resolves too.",
+        "Each objective is text-grounded and chapter-specific — સૂઈગામ, અનુમતિ-પત્ર, કાંટાળા તારની વાડ, પગેરું અને સગડ, બોરિયાબેટ-ધોરા, ખૂટેલો દારૂગોળો, હેલિકોપ્ટર અને ભાથું, માથા સાટેનું ઇનામ, લિંબાળા, ચેકપોસ્ટનું નામ. None could be pasted into another chapter.",
+        "Ids match reference/naming_conventions.md: M1–M4 continuous; S1–S6 continuous across the whole chapter and never restarting; T1–T12 continuous; C1–C16 chapter-continuous (c does not restart inside a topic). No M1.S1.T1.P1-style objective code and no .SR{n} recall convention appears anywhere in the file.",
+        "No display name and no objective_text carries a digit (global_content_rules.md rule 4); the two war years survive only in markers and provenance."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "No pre-reading topic exists, and that is correct here rather than a coverage gap. This chapter's only pre-reading matter is the teacher-addressed blue પ્રવેશપેટી, which reference/explanation_unit_map.md rule 4 and charitra_prasang.md both forbid as a topic; std 7 prints no student-addressed લેખક-પરિચય of the kind std 10 opens with. The introduction role is carried by M1.S1.T1 (topic_category 'introduction'), which is exactly what charitra_prasang.md prescribes for this named chapter: the school study-tour reaching the રણછોડદાસ ચેકપોસ્ટ is a topic because why the telling happens is part of the argument. Recorded so Agent 13 can see the tension was resolved, not missed.",
+    "No REVIEW topic and no in-text wrap topic. The chapter prints no standalone summary or value wrap; its closing sentence ('તો બાળદોસ્તો, આવા હતા…') sits inside the running narration of M4.S6.T12 (topic_category 'resolution'). Agent 2 flagged this choice in its own notes and it is upheld — manufacturing a REVIEW topic would create a topic no marker claims.",
+    "Uneven topic length, carried forward. M2.S3.T5 spans eleven printed lines and holds the chapter's densest paragraph while M2.S3.T6 and M3.S5.T9 are one printed paragraph each. The unevenness is the page's: merging T6 into T5 would fuse two separate wars and splitting T5 would cut the act from its પરિણામ. A note, not a block.",
+    "Sixteen concepts over twelve topics, so the concept number does not equal the topic number on most topics (M1.S2.T3 carries C4). This satisfies phase2_contract.md as written — the requirement is that c is chapter-continuous, and the c==t identity is stated there only for the one-concept-per-topic case. Flagged for Agent 14 so the renumber keeps the running counter rather than re-deriving c from t.",
+    "Objective ladder is Remember-weighted at four points — O1, O6, O10, O11 are retrieval-shaped and reach only the પ્રસંગ term of the lens. The સ્વભાવ and મૂલ્ય terms are carried by O5, O7, O8, O9 and O12. Acceptable spread for a std-7 L2 reader and consistent with the recall priors, but noted for Agents 12 and 13 so the recall ladder lifts those four topics rather than repeating them.",
+    "The genre tension Agent 1 recorded (the સ્વાધ્યાય carries both વાર્તા tells — the ઘટનાક્રમ ordering block and the counterfactual) was re-checked at this gate and does not change the verdict. Cutting by ઘટના and cutting by જીવન-પ્રસંગ land on the same twelve boundaries here because every ઘટના in this chapter is an episode of one real man's life, and the decisive ચરિત્ર tells — printed dates including a death date, બી.એસ.એફ., the printed honours, and the person-writing task 'રણછોડ પગી વિશે પાંચ-છ વાક્યો લખો.' — all stand.",
+    "original_chunk is empty in every topic by design (Agent 5 fills it from the renders), so verbatim-level fidelity could not be checked at this gate; marker-level equality and source-line provenance were checked instead. Agent 5's transcription still has to be validated downstream.",
+    "No page render was opened. Every question this gate asks was answerable from 00_chapter_normalized.md, 01_meta.json and 02_structure.json.",
+    "Provenance unchanged and still provisional: chapter_id / plan_id carry the unverified 'eng' medium segment (VERIFY-1), and chapter_master_id / subject_ref_id stay null (VERIFY-2). Not this gate's business to fix, recorded so it is not lost.",
+    "Ids are frozen from this pass. 04_converged.json records the convergence against the sha256 of 02_structure.json; downstream agents read 02_structure.json for the structure itself."
+  ]
+}

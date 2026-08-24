@@ -1,0 +1,13 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "f55067b7e37c9e2695914a976007e4863f0b928c58a93119efde74223ac5418c",
+  "verdict": "pass",
+  "notes": [
+    "Convergence record only — the structure payload lives in 02_structure.json and is not duplicated here. Downstream agents read 02_structure.json for structure and this file only to confirm convergence.",
+    "Ids are frozen from this pass: M1–M2, M1.S1–M2.S4, T1–T8, C1–C11 (chapter-continuous), O1–O8 with L1–L8.",
+    "8 reading markers → 8 topics; 0 સ્વાધ્યાય topics; 8 objectives, all resolving.",
+    "Genre stays open but non-blocking: mahitiprad_gadya.md dominant with samvad_nibandh.md's two-voice gate loaded, genre_confidence 'low' as A1 recorded. See 04_validation.json notes.",
+    "original_chunk is empty on every topic by design; Agent 5 must fill it verbatim from the renders."
+  ]
+}

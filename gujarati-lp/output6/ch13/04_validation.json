@@ -1,0 +1,61 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati6_ch13",
+  "source": "02_structure.json",
+  "sha256": "88179292ba124d4455d9254758b9d2b0371a384f904b520bee5335e7050c2b23",
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "explanation_unit": "એક ઘટના",
+      "notes": [
+        "01_meta.json names the unit એક ઘટના (varta.md, sub-form વાર્તા-માં-વાર્તા) and 02_structure.json cuts by that unit throughout; structure_inventory has kadi=0, duha=0, pad=0, tek_occurrences=0, so the કડી / દુહો / પદ / ટેક count rules are vacuous here.",
+        "The frame rule holds: no topic mixes classroom-frame text with embedded-કથા text. M1.S1.T1-M1.S2.T2 and M3.S5.T8 are frame-level only; M2.S3.T3-M2.S4.T7 are the embedded કથા only. The two hand-over hinges are their own topics — M2.S3.T3 (ભાસ્કરભાઈ માંડે છે) and M2.S4.T5 (આદિત્ય હાથમાં લે છે), both topic_category transition, as varta.md's frame-story clause requires.",
+        "Not a mixed chapter — one active profile (varta.md), so the per-part unit rule does not apply.",
+        "varta.md avoid list checked against the cut and the objectives: no tacked-on બોધ phrasing in any objective_text; no evaluative label applied to a sympathetic character (the topic name તોફાની નાનકડા હનુમાનની ઓળખ uses the chapter's own words તોફાન / બાળસહજ તોફાન, not a judgement); nothing debunks or verifies the પૌરાણિક કથા — M3.S5.T8 carries the chapter's own ચંદ્રયાન→સૂર્યયાન bridge as the chapter prints it; no excerpt-invention (the chapter is complete, not a નવલકથાખંડ); no translator-credit issue (author slot prints - સંકલિત).",
+        "Quoted fragments used inside topic and concept names were checked character-for-character against 00_chapter_normalized.md and all match as printed: ‘સૂર્યને તે કોઈ ગળી શકતું હશે ?’, ‘આટલેથી આગળની વાર્તા હું કહું ?’, ‘વાર્તા... વાર્તા....’, ‘ખરેખર એ ફળ નહોતું’, ગોળમટોળ, લાલચટ્ટક (the body-text spelling, not the exercises' લાલચટ્ટાક)."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 9,
+      "topics": 8,
+      "notes": [
+        "All nine [[ઘટના: …]] markers are claimed, in printed order, by a topic; the markers[] arrays in 02_structure.json reproduce them verbatim. Eight topics carry nine markers because M3.S5.T8 carries the last two — see the notes[] entry on that merge; it is licensed by profile and reference text and is not a coverage gap.",
+        "Line-level coverage of the reading text is exact and complete. Topics cite 00_chapter_normalized.md lines 16, 20-22, 26, 30, 34-36, 40, 44, 48 and 52-54 — every narrative paragraph line of the unit, with nothing left over and nothing claimed twice.",
+        "No topic reaches line 56 or beyond, so no topic touches the શબ્દાર્થ box, the રૂઢિપ્રયોગ gloss list, any સ્વાધ્યાય block or the closing શબ્દોની ફેરકૂદરડી box.",
+        "All seventeen exercise_inventory verbatim_heading values were cross-checked against every topic_name, concept_name and cited source-line span. Zero overlap: no સ્વાધ્યાય block became a topic. The Avadhi couplet in the પંક્તિ-અર્થ block stays exercise matter and is correctly absent from the tree.",
+        "The blue પ્રવેશપેટી is correctly NOT a topic. It is teacher-addressed apparatus (it closes ‘વર્ગખંડમાં વિદ્યાર્થીઓનાં ભાષાકૌશલ્યો ખીલવવા ‘ચર્ચા-સંવાદ’નું વાતાવરણ પૂરું પાડવું.’), and explanation_unit_map.md rule 4 names the blue intro box as apparatus explicitly. This chapter prints no student-facing pre-reading opener, so that bullet is vacuous here rather than failed. There is no in-text wrap block in this chapter either.",
+        "No topic covers text that no marker claims."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 8,
+      "notes": [
+        "Root objectives[] holds O1-O8, all objective_id values unique.",
+        "Every home_topic_id resolves: M1.S1.T1, M1.S2.T2, M2.S3.T3, M2.S3.T4, M2.S4.T5, M2.S4.T6, M2.S4.T7, M3.S5.T8. Every anchor[] id resolves to an existing concept node: C1; C2,C3; C4; C5; C6; C7,C8; C9; C10,C11.",
+        "strand_to_objective_map covers L1-L8 exactly once each, mapping L{n}→O{n}; single strand L / ભાષા અને સાહિત્ય throughout, as the pack requires for Gujarati literature.",
+        "Every topic carries objective_ids and each resolves to the registry; each concept's objective_id agrees with its topic's objective_ids.",
+        "Each objective is text-grounded and could not be pasted into another chapter — they name મિહિરનો સૂર્યગ્રહણ-પ્રશ્ન and સવિતાના દાદાની રાહુ-વાત, પ્રભા/ઉષા/રવિની દલીલો, ભાસ્કરભાઈની તોફાનની સમજૂતી, the ‘ખરેખર એ ફળ નહોતું. ઊગતો સૂર્ય હતો.’ turn, આદિત્યનો હાથ-બદલો, રાહુની ફરિયાદ અને ઇન્દ્રનો વજ્રપ્રહાર, પવનદેવનો કોપ અને હડપચીની અસર, and the ચંદ્રયાન→સૂર્યયાન bridge. Each serves the teaching_lens ઘટના + પાત્ર + વળાંક.",
+        "The std 6-8 craft-label ceiling holds: no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text (વળાંક in O4 is the lens's own word, not a named device).",
+        "bloom_level is Capitalised at objective level (Understand / Analyze), matching phase2_contract.md's stated asymmetry with recall questions.",
+        "Ids match naming_conventions.md: M1(S1,S2), M2(S3,S4), M3(S5); topics T1-T8 continuous across the chapter and in traversal order; concepts C1-C11 chapter-continuous and in traversal order, never restarting inside a topic. No M1.S1.T1.P1-style objective code appears anywhere; objectives are the root O{n} registry only."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "NON-BLOCKING (merge of two markers into one topic): nine [[ઘટના]] markers map to eight topics because M3.S5.T8 carries both [[ઘટના: વાર્તા પૂરી — તાળીઓ]] (line 48) and [[ઘટના: ભાસ્કરભાઈનો સેતુ — ચંદ્રયાનથી સૂર્યયાન સુધી]] (lines 52-54). Accepted, on three grounds: varta.md's frame-story clause says the sentence that returns to the frame OPENS the closing frame topic — ‘આદિત્યે વાત પૂરી કરી. ભાસ્કરભાઈ અને વિદ્યાર્થીઓએ એના માનમાં તાળીઓ પાડી.’ is exactly that sentence; explanation_unit_map.md rule 3 permits two very short units that do one thing to join for ઘટના (the never-join bar applies only to દુહો and પદ); and A2 declared the merge openly in cut_summary.marker_to_topic_note rather than swallowing a marker. Both markers are frame-level, so no frame/embedded boundary is crossed. ACTION FOR AGENT 5: T8's original_chunk must copy BOTH spans — line 48 and lines 52-54 — as printed, in that order; dropping the line-48 sentence would lose reading text.",
+    "NON-BLOCKING (climax placement): topic_category climax sits on M2.S3.T4 (the ગોળમટોળ લાલચટ્ટક ફળ reveal, ‘ખરેખર એ ફળ નહોતું. ઊગતો સૂર્ય હતો.’), while the embedded કથા's largest event (ઇન્દ્રનો વજ્રપ્રહાર) sits in M2.S4.T6 and its resolution in M2.S4.T7. The reveal is a genuine printed turn and the placement is defensible, but varta.md avoid #4 (spoiling the turn early) is a field-level check: Agents 7/12/13 must ensure that M1.S1.T1-M2.S3.T3 prose does not name the રાહુ / ઇન્દ્ર / વજ્ર / પવનદેવ outcome, and that the T6-T7 outcome is not pre-empted in T4-T5 prose either.",
+    "NON-BLOCKING (by design, recorded so it is not later read as a defect): every topic's original_chunk is empty in 02_structure.json. Agent 02's spec fixes this — Agent 5 fills the verbatim from the renders. Nothing in the cut can be verbatim-validated at this stage beyond the quoted fragments inside names, which were checked.",
+    "NON-BLOCKING (enum handoff): topic_type is STORY_TELLING on all eight topics. That is the correct authored intermediate value for Agents 02-13 per phase2_contract.md; Agents 14/15 must map STORY_TELLING → instructional at emit, since the server rejects the authored enum.",
+    "NON-BLOCKING (two-concept topics): three topics carry two concepts each — M1.S2.T2 (દલીલો / વાર્તાની માગણી), M2.S4.T6 (ઉડાન અને રાહુ / ફરિયાદ અને વજ્રપ્રહાર), M3.S5.T8 (તાળીઓ / ચંદ્રયાન-સૂર્યયાન સેતુ). Each pair is genuinely two separable things and the chapter-continuous concept counter is unbroken, so this is within Agent 02's guidance.",
+    "NON-BLOCKING (dependency graph): M2.S3.T4 carries depends_on [] although it continues M2.S3.T3. Per Agent 02's spec, [] is the normal correct value and depends_on records real dependence only; the ones that are recorded (T6 on T4 and T5, T7 on T6, T8 on T1/T2/T7) are the real ones.",
+    "NON-BLOCKING (carried forward from 01_meta.json, outside this check's scope): chapter_id and plan_id remain PROVISIONAL until VERIFY-1 resolves the gseb board and eng medium segments against the live server; chapter_master_id and subject_ref_id are null. Ids are frozen at this pass in their internal M/S/T/C form; the chapter_id prefix is not part of that freeze.",
+    "NON-BLOCKING (sensitivity, forwarded to Agents 8/12/13): the embedded કથા is a living-tradition પૌરાણિક કથા (હનુમાન, રાહુ, ઇન્દ્રદેવ, પવનદેવ). The structure keeps the કથા and the science bridge side by side exactly as the chapter prints them. Downstream must add no debunking, no verification against science, and no theology (global_content_rules 10, varta.md avoid #5).",
+    "METHOD: validated against 00_chapter_normalized.md, 01_meta.json and 02_structure.json only. No page render was opened — the transcription answered every question this pass asked, including all marker positions, line spans and quoted fragments. The spec's cited references were all present on disk and were read in full: loop_protocol.md, explanation_unit_map.md, phase2_contract.md, naming_conventions.md, plus the routed no_hallucination_policy.md, global_content_rules.md and profiles/genres/varta.md.",
+    "This is the single validation pass. No loop, no second round, no feedback file."
+  ]
+}

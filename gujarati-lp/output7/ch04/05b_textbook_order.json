@@ -1,0 +1,14 @@
+{
+  "chapter_id": "gseb_eng_gujarati7_ch4",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S1.T2",
+    "M1.S2.T3",
+    "M1.S2.T4",
+    "M2.S3.T5",
+    "M2.S3.T6"
+  ],
+  "source": "printed pages 19–21 read off the render (_renders/page-1.png … page-3.png); the teaching text runs continuously from the first paragraph under the blue પ્રવેશપેટી on folio 19 to ‘‘યાદ આવે તે રીતે પડવાનું. સમજાયું ?’’ on folio 21, after which the શબ્દાર્થ box (folio 21), the eleven સ્વાધ્યાય blocks (folios 21–24) and the chapter-final વ્યાકરણપેટી ‘સંજ્ઞાનાં લિંગ અને પ્રકાર’ (folio 24) follow — none of which is a topic.",
+  "note": "The printed order is identical to the logical order of 04_converged.json / 02_structure.json, and the comparison was actually made rather than assumed: each topic's source_lines_00_normalized was walked against the renders in folio order. T1 is the unmarked opening paragraph on folio 19; T2 is the sea drop's turn on the same folio, above the printed illustration; T3 opens with the hook line printed BELOW that illustration on folio 19 and continues onto folio 20 through the river drop's turn; T4 takes the second half of that same printed turn on folio 20 and runs to ‘કોઈ મને ત્યાં લઈ જાઓ ને !’; T5 is the single printed turn that closes folio 20; T6 is the whole of the reading text on folio 21. Nothing on the page is read out of sequence, so print order and teaching order do not diverge anywhere.",
+  "not_in_this_list": "The blue પ્રવેશપેટી under the title bar (teacher-addressed apparatus), the two printed illustrations, the fourteen-entry શબ્દાર્થ box, the eleven numbered સ્વાધ્યાય blocks and the chapter-final green વ્યાકરણપેટી are printed inside folios 19–24 but are not teaching topics and never enter the order. This chapter is followed in the reader by material that belongs to no chapter; no વ્યાકરણ એકમ, પૂરકવાચન piece or ‘આગળ વધતાં પહેલાં’ revision unit interrupts folios 19–24."
+}

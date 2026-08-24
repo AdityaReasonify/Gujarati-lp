@@ -1,0 +1,33 @@
+{
+  "_comment": "The SECOND deliverable. Every अभ्यास block inventoried in 01_meta.json is answered here and NOWHERE else — अभ्यास is never a teaching topic. See reference/exercise_alignment.md.",
+
+  "plan_id": "cbse_eng_hindi6_ch1_v1",
+  "chapter_id": "cbse_eng_hindi6_ch1",
+  "subject": "Hindi",
+  "grade": 6,
+  "chapter_name": "<chapter name>",
+
+  "exercises": [
+    {
+      "exercise_id": "EX1",
+      "exercise_group": "मेरी समझ से",
+      "skill": "reading comprehension|vocabulary|grammar|literary device|speaking|listening|writing|values",
+      "prompt_verbatim": "<the book's EXACT Hindi wording, options included>",
+      "answer": "<the answer>",
+      "explanation": "<why this is right — and for a बहुविकल्पीय item, why the tempting wrong option is wrong>",
+      "acceptable_alternatives": ["<other defensible answers>"],
+      "values_filled_for_teaching": "<filled table/blank values where the book leaves them empty; null if not applicable>",
+      "teacher_note": "<how to run it in class>",
+      "is_model_answer": false,
+      "covered_by_topics": ["M1.S1.T1"]
+    }
+  ],
+
+  "coverage_report": {
+    "blocks_found": ["मेरी समझ से", "सोच-विचार के लिए", "भाषा की बात", "कविता की रचना"],
+    "blocks_answered": ["मेरी समझ से", "सोच-विचार के लिए", "भाषा की बात", "कविता की रचना"],
+    "unanswered": [],
+    "unmapped": [],
+    "_note": "unmapped is an exercise that maps to no reading scene — a signal the cut missed a scene. Report it; never invent a mapping."
+  }
+}

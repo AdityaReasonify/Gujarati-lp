@@ -1,0 +1,405 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch3",
+  "plan_id": "gseb_eng_gujarati8_ch3_v1",
+  "chapter_name": "મારી વ્યાયામસાધના",
+  "grade": 8,
+  "genre": "હાસ્યનિબંધ",
+  "active_genre_profiles": ["nibandh_atmaparak.md"],
+  "explanation_unit": "એક પ્રસંગ, અથવા વિચારનો એક વળાંક",
+  "teaching_lens": "સ્વર + પ્રસંગ + પોતાની જાત પરની નજર",
+  "guiding_question": "દંડબેઠક ન કરી શકતો માણસ વ્યાયામની આખી વાત કરતાં કરતાં પોતાના વિશે શું કબૂલી લે છે ?",
+  "counts": {
+    "modules": 3,
+    "segments": 5,
+    "topics": 9,
+    "concepts": 11,
+    "objectives": 9,
+    "ghatna_markers_in_00": 9,
+    "topics_carrying_a_ghatna_marker": 9
+  },
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9"
+  },
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અખાડાના સંચાલકે લેખકના વખાણ કરતાં કરતાં જે 'દયા આવે છે' કહ્યું, તેમાં ખરેખર શું કહેવાયું તે વાક્ય શોધીને પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક પોતાના વિશે કઈ કઈ વાત જાતે કબૂલી લે છે તે લખાણમાંથી શોધીને, છતાં તે વ્યાયામને શા માટે જરૂરી ગણે છે તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": ["M1.S1.T2.C2", "M1.S1.T2.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વડીલ અને લેખક વચ્ચેના ટૂંકા સવાલ-જવાબમાં વડીલ છેલ્લે કઈ શરત મૂકે છે તે શોધીને, એ શરત આગળ ક્યાં પાછી આવે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": ["M2.S2.T3.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અખાડામાં પહેલે જ દિવસે લેખક કુસ્તીની જીદ કેમ કરે છે અને ઉસ્તાદ કયો ક્રમ સમજાવે છે તે સંવાદમાંથી શોધીને કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": ["M2.S2.T4.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'અખાડો' શબ્દ અહીં બે જુદા અર્થમાં કેવી રીતે વપરાયો છે તે પંક્તિ બતાવીને, લેખકનો 'ગોટલો' કેમ કેરી જેવો લાગ્યો તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": ["M2.S3.T5.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "નંદુ અડકે તે પહેલાં જ લેખક ચત્તા સૂઈ જાય છે તેનું કારણ પોતાના શબ્દોમાં કહી, હારીને પણ તે કેવી રીતે જીતી ગયા તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": ["M2.S3.T6.C7", "M2.S3.T6.C8"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'દંડ ને બેઠક' શબ્દો સાંભળીને લેખકે કેવો અર્થ કર્યો તે વાક્ય શોધીને, ઉસ્તાદે તેને પછી શું કરવાનું કહ્યું તે લખવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S4.T7",
+      "anchor": ["M3.S4.T7.C9"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દંડ અને બેઠક કરનારાઓની ક્રિયા લેખક જે રીતે વર્ણવે છે તે શોધીને, માત્ર જોઈ રહેલા લેખકને પરસેવો કેમ થઈ ગયો તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S4.T8",
+      "anchor": ["M3.S4.T8.C10"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'હા, દંડ-બેઠક કર્યાં' કહેનાર લેખક 'હું અસત્ય નહોતો બોલ્યો' કેમ કહે છે તે સમજાવીને, એ વાત યોગ્ય લાગે છે કે નહિ તે કારણ સાથે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S5.T9",
+      "anchor": ["M3.S5.T9.C11"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "વ્યાયામ વિશે બોલનારની પોતાની ઓળખ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "મંચ પરની વાત ને ઘરની સચ્ચાઈ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "સ્નેહસંમેલનના મંચ પરથી મળેલી દયા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: સ્નેહસંમેલનનું નિમંત્રણ અને ભાષણ]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "વખાણમાં છુપાયેલી દયા",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "મહેનત ને પરસેવાની જાહેર કબૂલાત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: લેખકની પોતાની કબૂલાત — કસરત અને પરસેવો]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "મહેનત ગમતી નથી — લેખકની પોતાની કબૂલાત",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S1.T2.C3",
+                  "concept_name": "વિરોધ નહિ, પણ પોતાની મર્યાદાનો સ્વીકાર",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "અખાડામાં કુસ્તીનો પહેલો દિવસ",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "અખાડા સુધીનો રસ્તો",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "કાલથી અખાડે જવાનું છે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: વડીલનો આગ્રહ અને અખાડે જવાનો આદેશ]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C4",
+                  "concept_name": "વડીલનો હુકમ ને પરસેવાની શરત",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "ઉસ્તાદ પાસે કુસ્તીની જીદ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: અખાડામાં પહેલો દિવસ — ઉસ્તાદ અને કુસ્તીનો આગ્રહ]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C5",
+                  "concept_name": "પહેલા દિવસે જ છેલ્લી વસ્તુ માગવી",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "કુસ્તીનો દાવ ને ચીતની ચતુરાઈ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "ખાડામાં ઊતરીને ગોટલો બતાવ્યો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M2.S2.T4"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: નંદુ સાથે તૈયારી — ગોટલો]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C6",
+                  "concept_name": "ખાડો કે અખાડો — એક શબ્દની બે બાજુ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "પોતાની મેળે ચીત થઈ જવાની યુક્તિ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M2.S3.T5"],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: કુસ્તી — લેખક જાતે ચત્તા સૂઈ જાય છે]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C7",
+                  "concept_name": "અડક્યા પહેલાં જ ચત્તા સૂઈ જવું",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T6.C8",
+                  "concept_name": "હાર કબૂલાવીને મળેલી જીત",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "દંડ-બેઠકની સાધના ને એનું પરિણામ",
+      "segments": [
+        {
+          "segment_id": "M3.S4",
+          "segment_name": "દંડ-બેઠકનો હુકમ ને નિરીક્ષણ",
+          "topics": [
+            {
+              "topic_id": "M3.S4.T7",
+              "topic_name": "ઘરેથી મળેલો દંડબેઠકનો હુકમ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": ["M2.S3.T6"],
+              "objective_ids": ["O7"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: ઘરે વડીલનો પ્રશ્ન અને દંડબેઠકનો આદેશ]]",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T7.C9",
+                  "concept_name": "હાથમાં દંડ ને શાંતિથી બેઠક",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S4.T8",
+              "topic_name": "દંડ પીલનારાઓનું નિરીક્ષણ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M3.S4.T7"],
+              "objective_ids": ["O8"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: દંડ-બેઠક કરનારાઓનું નિરીક્ષણ]]",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T8.C10",
+                  "concept_name": "ભાનમાં હોય એવો માણસ ન કરે એવી ક્રિયા",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "અધૂરી રહેલી સાધના",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T9",
+              "topic_name": "કર્તા વગરનો જવાબ ને સાધનાનું પરિણામ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": ["M3.S4.T8", "M2.S2.T3"],
+              "objective_ids": ["O9"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: 'હા, દંડ-બેઠક કર્યાં' — અધ્યાહાર કર્તા અને અંતિમ પરિણામ]]",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T9.C11",
+                  "concept_name": "કર્તા વગરનું વાક્ય ને છેલ્લી કબૂલાત",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "notes": [
+    "MARKER PARITY — 00_chapter_normalized.md carries exactly nine [[ઘટના: …]] markers and this cut produces exactly nine topics, one per marker, in printed order. Each topic records its marker verbatim in `source_marker` so Agent 4 can count both directions. No marker was swallowed and no topic was created where no marker sits. Agent 1's extraction_notes call the nine markers 'a reading, not printed structure' and explicitly free Agent 2 to differ; on re-reading the running prose the nine turns are genuinely where the attempt fails or the mood turns, so the profile prior and the marker set agree and no re-cut was needed.",
+    "APPARATUS DELIBERATELY NOT CUT — the blue પ્રવેશપેટી on printed p. 15 (marked in 00_chapter_normalized.md as '[[પ્રવેશપેટી (શિક્ષક માટે — વાચન-દૃશ્ય નથી)]]'), the yellow શબ્દાર્થ run-on box on printed p. 21, the શબ્દસમૂહ. and રૂઢિપ્રયોગ. pre-blocks, all thirteen numbered સ્વાધ્યાય blocks and the closing ચર્ચા-વિચારણા box are NOT topics. This chapter therefore has NO pre-reading CONCEPT topic: std 8 prints no student-facing લેખક-પરિચય / કૃતિ-પરિચય paragraph (that is the std-10 shape), and the only introductory prose here is teacher-addressed. Recorded so the absence reads as measured, not as an omission.",
+    "APPENDED / EXERCISE READING MATTER EXCLUDED — the mock advertisement of block 7 and the reading passages printed inside blocks 3, 4, 5, 8, 12 and 13 are exercise matter; none of them enters any topic's chain or `original_chunk`. The two uncaptioned colour illustrations (printed pp. 16 and 18) are page matter and open no topic of their own.",
+    "TWO-CONCEPT TOPICS — only M1.S1.T2 and M2.S3.T6 carry two concepts, and both genuinely do two separable things: T2 moves from the confession (મહેનત/પરસેવો ગમતાં નથી) to the concession (વ્યાયામનો વિરોધ કદી કર્યો નથી, પહેલવાનો પાસેથી જ્ઞાન મળ્યું છે); T6 moves from lying down before being touched to extracting 'હું હાર્યો' from the opponent. The remaining seven topics carry one concept each. The concept counter is therefore chapter-continuous and runs C1…C11 across the traversal — it is NOT equal to the topic number at and after T3, which is the documented behaviour for a chapter with any two-concept topic (reference/phase2_contract.md, reference/naming_conventions.md).",
+    "COMIC TURNS KEPT WHOLE — the profile's hard gate 11 (never cut a comic turn from its setup) drove three decisions. The અખાડો/ખાડો misunderstanding stays whole inside T5 together with the ગોટલો/પાકી કેરી pair and the shared laugh that closes it. The whole કુસ્તી exchange — the first ઘસરકો, the ચીત/વાતચીત exchange, the three deliberate falls, the negotiation and ઉસ્તાદ's astonishment — stays whole inside T6 even though it is by far the longest topic in the chapter; splitting it would put the setup and the payoff in different topics. The literal 'હાથમાં દંડ લઈને બેઠક પર શાંતિથી બેસી રહેવાનું' misreading stays with the હુકમ that provokes it in T7. T6's length against the other topics is uneven and is flagged here for Agents 5 and 13, not repaired by a cut.",
+    "TOPIC LENGTH IS UNEVEN AND DELIBERATE — measured against 00_chapter_normalized.md, T3 and T9 are short, T2, T7 and T8 are mid-length, and T6 runs roughly a third of the reading text. The unit is the પ્રસંગ, not the paragraph, so length was not balanced. T8 is a single very long printed paragraph and is one topic for the same reason.",
+    "NO CLIMAX CATEGORY — profiles/genres/nibandh_atmaparak.md 'Avoid' item 2 is a hard gate: an આત્મપરક નિબંધ has પ્રસંગ, not પ્લોટ, so no topic carries topic_category 'climax'. The categories used are introduction, core, transition and resolution only, and the closing gesture (T9) is marked resolution per the profile's closing-gesture rule.",
+    "CRAFT-LABEL CEILING HELD — no objective_text names an અલંકાર, છંદ, સમાસ or the સાહિત્યપ્રકાર. O5 asks the child to SHOW the line where 'અખાડો' carries two senses without ever saying શ્લેષ; O1, O6 and O9 ask the child to state what a sentence really says without saying કટાક્ષ or વ્યંગ. The one grammatical term that does appear in the plan's thinking — કર્તા / અધ્યાહાર — is printed by the chapter itself ('વાક્યમાં કર્તા અધ્યાહાર હતો'), and O9 is phrased around the writer's own claim 'હું અસત્ય નહોતો બોલ્યો' rather than around the term.",
+    "topic_type — all nine topics are the authored value STORY_TELLING: every one is the writer's own first-person account of a remembered પ્રસંગ or of a turn in his own thinking. M1.S1.T2 is reflective rather than narrated and could be argued as CONCEPT, but CONCEPT in this pack is reserved for pre-reading and for taught-idea exposition printed for the student, and calling T2 CONCEPT would wrongly read it as apparatus. Recorded as a judgement, not a certainty. Agents 14/15 map all nine to the closed server enum 'instructional'.",
+    "DIFFICULTY IS L2-READING DIFFICULTY, NOT IDEA SIZE — set relative inside this chapter and per profiles/students/std-8.md, which records ch 3 as 'literary humour with irony, which is L2-hard'. hard: T2 (the densest તત્સમ/abstract paragraph — ભ્રમ, દુર્ગુણ, સિદ્ધાંત, પ્રતીતિ, સંશય — with long two-clause sentences), T6 (sustained irony across a long unlabelled dialogue where a child can read the losing as real losing), T8 (one very long paragraph of deadpan literal description with કરોડરજ્જુ, ઇતર સ્નાયુ, કષ્ટાતો-અમળાતો), T9 (the archaic નરસિંહવાક્ય — શકટ, જયમ, શ્વાન — plus the કર્તા-અધ્યાહાર reasoning). easy: T3 (short everyday dialogue). medium: the rest. No topic is marked hard for a device it is not allowed to name, and difficulty caps no topic's Bloom ceiling — O1, O5, O6, O8 reach Analyze and O9 reaches Evaluate.",
+    "depends_on IS SPARSE ON PURPOSE — only the four genuine textual back-references are recorded: T5 opens on the નંદુ that T4's ઉસ્તાદ summons; T6 opens on the laugh T5 ends with; T7 opens 'અખાડેથી વિજય મેળવી હું ઘરે પાછો ફર્યો', which means nothing without T6; and T9's answer 'પરસેવો થાય ત્યાં સુધી' answers BOTH the sweat T8 produced and the exact condition the વડીલ set in T3, so T9 carries two. T1–T4 carry [] — mere printed sequence is not dependence.",
+    "NO REVIEW TOPIC — the chapter prints no in-text wrap or value summary. Its last paragraph ('આ પ્રમાણે મેં વ્યાયામસાધનાનો આરંભ કર્યો… પણ એનું નોંધવા જેવું કોઈ પરિણામ આવ્યું નહિ.') is the essay's closing gesture and belongs inside T9's reading scene, not to a separate REVIEW topic.",
+    "FOR AGENT 5 — every original_chunk is deliberately empty here. Topic boundaries are the [[ઘટના: …]] marker lines of 00_chapter_normalized.md: each topic's chunk runs from the paragraph after its own marker up to (not including) the next marker line. T9's chunk must end with the chapter's final printed sentence; there is no printed attribution or source credit after the reading text in this chapter (the author line '- જ્યોતીન્દ્ર દવે' is printed at the TOP, under the title, not at the end), so profile gate 13's credit clause has nothing to carry here — recorded so its emptiness is not read as a loss.",
+    "RENDERS NOT RE-READ — 00_chapter_normalized.md answered every question this cut needed, including layout ones, because Agent 1 recorded the illustration positions, the box colours and the run-on શબ્દાર્થ line in extraction_notes. No PNG was opened."
+  ]
+}

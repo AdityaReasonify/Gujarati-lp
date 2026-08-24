@@ -1,0 +1,43 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T3",
+      "areas": ["ધર્મ"],
+      "caution": "The explanation states the three court questions ('ભગવાન છે કે નહીં ?', 'મોઢું કઈ દિશામાં ?', 'કામ શું ?') as a real theological or philosophical debate for the child to weigh in on, instead of the king's test.",
+      "guidance": "In `explanation`, frame the three questions purely as the ચાતુર્ય-and-લાયકાત test રાજા ભોજ sets for the poet — not as theology to discuss or resolve.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "areas": ["ધર્મ"],
+      "caution": "The explanation turns કવિબાળા's દૂધ-માખણ demonstration into an assertion that ભગવાન literally exists and is hidden like માખણ, stated as settled religious fact rather than the story's ઉપમા.",
+      "guidance": "In `explanation`, describe the answer as the girl's clever comparison — something unseen can still be real, as માખણ is real inside દૂધ though not visible — and keep it inside the story's logic; the `real_life_example` should use an everyday hidden-but-real thing (like salt dissolved in water), not a religious parallel.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S3.T7",
+      "areas": ["ધર્મ"],
+      "caution": "The explanation states as fact that 'ભગવાનનું મુખ ચારે દિશામાં છે', instead of presenting it as કવિબાળા's ઉપમા built on the દીવાનો પ્રકાશ spreading every way.",
+      "guidance": "Keep `explanation` inside the story's logic — light spreading in every direction is the visible comparison her answer uses — and do not restate it as a doctrinal claim about God's form.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M3.S4.T8",
+      "areas": ["ધર્મ"],
+      "caution": "The explanation restates કવિબાળા's third answer — that ભગવાનનું કામ છે 'દરેક ચીજ યોગ્ય સ્થાને રાખવાનું' — as a theological teaching about God's role in the universe, rather than the story's દૃષ્ટાંત about order.",
+      "guidance": "In `explanation`, keep the સિંહાસન-મંત્રીપદ swap and ઋતુચક્ર (શિયાળો-ઉનાળો-ચોમાસું, સૂરજ-ચાંદો-તારા) as the concrete illustration of 'યોગ્ય સ્થાન', and let the recall answer describe her reasoning method (ચતુરાઈભરી ઉપમા), not assert a religious doctrine as settled fact.",
+      "severity": "hard"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "ધર્મ",
+      "guidance": "The whole chapter is a ચાતુર્યકથા built on three questions about ભગવાન's existence, appearance and work; across every summary and recall field, keep the frame that the poet's daughter is winning a court test with clever ઉપમા — never let any field become an actual answer to whether God exists, what God looks like, or what God does, and never expand into comparative religion."
+    },
+    {
+      "area": "જાતિ-ભૂમિકા",
+      "guidance": "The story's point is 'જ્ઞાન ઉંમર ઉપરથી પારખી શકાતું નથી', won by a નાની દીકરી who out-reasons the entire adult દરબાર; keep her as the active reasoner in every explanation and recall answer, never softened to 'the cute child gave a sweet answer' — the text has her lead the whole court, and the ending seats her in the રાજસભા alongside her father as his equal, not as his appendage."
+    }
+  ],
+  "none_found": false
+}

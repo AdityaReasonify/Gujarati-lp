@@ -1,0 +1,133 @@
+{
+ "topics": [
+  {
+   "topic_id": "M1.S1.T1",
+   "avoid_checks": [
+    {
+     "check": "mahitiprad_gadya avoid #1 (re-teaching the frame as a વાર્તા), bound to the frame's opening. The FIRST sentence of `explanation` must name this માહિતી-ખંડ's fact — that the water now gathered in one અષાઢ cloud came from four places the page itself names, `દરિયો`, `તળાવ`, `નદી` and `નાનકડું ખાબોચિયું` — and not the frame's opening line `‘‘તું ક્યાંથી આવ્યું ?’’`. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` or `recall_questions[].answer` of this topic may ask or answer why a ટીપું came, present the ટીપાંની વાતચીત as a plot beginning, or name a વળાંક; `topic_category` stays \"introduction\" and never becomes \"climax\".",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "mahitiprad_gadya avoid #4 (adding facts the chapter does not carry), bound to this topic's list. No `explanation`, `summary`, `detailed_summary`, `important_points`, `concept_bullets` or `recall_questions[].answer` may extend the chapter's four water sources — `દરિયો`, `તળાવ`, `નદી`, `નાનકડું ખાબોચિયું` — with any fifth (કૂવો, ઝરણું, ડેમ, ભૂગર્ભજળ, ધોધ), and no field may convert `અષાઢ` into an English-calendar month or attach a date to it. Glossing `અષાઢ` in Gujarati is required by the correction below and is not an addition.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક `અષાઢ` ને કોઈ નામ કે અજાણ્યો શબ્દ ગણીને છોડી દે છે. એટલે વાત ચોમાસામાં શરૂ થાય છે એ આખી ઋતુની ગોઠવણ જ એના મનમાં બેસતી નથી, અને `આકાશમાં ચારે બાજુ વાદળાં ભેગાં થયાં હતાં` એ કેમ, એનો જવાબ એની પાસે રહેતો નથી.",
+   "correction": "`explanation` ના પહેલા જ વાક્યમાં ગ્લોસ મૂકો — `અષાઢ — ચોમાસાનો પહેલો ગુજરાતી મહિનો, જ્યારે વરસાદ બેસે છે` — અને એ જ ગ્લોસ `key_terms` માં `શબ્દ — અર્થ` રૂપે રાખો. પછી એક વાક્યમાં બતાવો કે એટલે જ પાના પર આકાશ ચારે બાજુ વાદળાંથી ભરેલું છે અને `ક્યારેક જ વચ્ચે સૂરજનાં કિરણો` દેખાય છે."
+  },
+  {
+   "topic_id": "M1.S1.T2",
+   "avoid_checks": [
+    {
+     "check": "mahitiprad_gadya avoid #5 (turning it into a Science lesson), bound to the માછલી-પ્રાણવાયુ passage. No `explanation`, `summary`, `detailed_summary`, `important_points`, `concept_bullets`, `key_terms` or `recall_questions[].answer` of this topic may correct the page against science — no sentence saying a માછલી does not really drink drops and put them out `કાનમાંથી`, that a big fish's `ફુવારો` is really its breath, or opening with `ખરેખર…` / `વૈજ્ઞાનિક રીતે…`. `પ્રાણવાયુ` is explained only with the printed શબ્દાર્થ box's own words `જીવન ટકાવવા માટેનો વાયુ, ઓક્સિજન`; ગલફાં, શ્વસન, દ્રાવ્ય ઑક્સિજન or any other unprinted term may not appear.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "mahitiprad_gadya avoid #4 (adding facts the chapter does not carry). This topic's `original_chunk` says only `કોઈ મોટી માછલી`. No field of this topic may name a species (વ્હેલ, શાર્ક, ડૉલ્ફિન), give any number other than the page's own `લાખો`, or state where in the દરિયો this happens.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક `અમારામાંથી કોઈને માછલી પી જતી હતી` વાંચીને એમ સમજે છે કે માછલી ટીપાંને નુકસાન કરે છે અને આ ખંડ ટીપાં પરની આફતની વાત છે — જ્યારે ખંડનું તથ્ય એ છે કે દરિયાનું પાણી અને એમાં રહેતાં જીવ સાથે રહે છે અને પાણીમાંનો પ્રાણવાયુ એમને કામ લાગે છે.",
+   "correction": "`explanation` ના પહેલા વાક્યમાં દરિયાના પાણીની આ વાત મૂકો, `પ્રાણવાયુ — જીવન ટકાવવા માટેનો વાયુ, ઓક્સિજન` એ શબ્દાર્થપેટીનો જ ગ્લોસ ત્યાં ને ત્યાં આપો, અને પાઠનું પોતાનું છેલ્લું વાક્ય `‘‘અમને બધાંને એ બહુ ગમતું હતું.’’` ટાંકીને બતાવો કે ટીપાં પોતે એને મજા કહે છે."
+  },
+  {
+   "topic_id": "M1.S2.T3",
+   "avoid_checks": [
+    {
+     "check": "mahitiprad_gadya avoid #5 (Science lesson), bound to this chapter's central step. No `explanation`, `summary`, `detailed_summary`, `important_points`, `concept_bullets`, `key_terms` or `recall_questions[].answer` of this topic may introduce `વરાળ`, `બાષ્પીભવન`, `ઘનીકરણ`, evaporation, or `તાપમાન` as a technical term, and none may say `ખરેખર પાણી વરાળ બની જાય છે` / `વૈજ્ઞાનિક રીતે…`. The step is stated in the page's own words: ગરમી પડે એટલે ટીપાં `સાવ હલકાં થઈ` જાય અને `હવામાં અધ્ધર` જવા લાગે.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "mahitiprad_gadya avoid #4 (no unprinted numbers or measures). `44 ડિગ્રી` is printed and may be repeated exactly as printed, but only where the page puts it — in the નદીવાળા ટીપાની વાતમાં, `મેદાનવાળા ભાગમાં`. No field may transfer it to the દરિયો or to `મે મહિનો`, add a scale name (સેલ્સિયસ, ફેરનહાઇટ), or add any other number, height or percentage.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક `અમારા તો રામ રમી ગયા` ને શબ્દશઃ વાંચીને એમ સમજે છે કે અહીં રામની — કોઈ દેવ કે વ્યક્તિની — વાત આવી ગઈ; એટલે ગરમી પડ્યા પછી ટીપાંનું ખરેખર શું થયું એ આખા પાઠનું મુખ્ય પગલું જ એની નજર બહાર જતું રહે છે.",
+   "correction": "એ રૂઢિપ્રયોગ જ્યાં આવે ત્યાં જ `explanation` માં ખોલો — `રામ રમી ગયા — અમારું તો આવી બન્યું, અમે તો ખલાસ` — અને તરત પછીના વાક્યમાં પાઠના પોતાના શબ્દોમાં પગલું મૂકો : `સાવ હલકાં થઈ ગયાં અને હવામાં અધ્ધર જવા લાગ્યાં`. એ જ ગ્લોસ `key_terms` માં `શબ્દ — અર્થ` રૂપે ઉમેરો."
+  },
+  {
+   "topic_id": "M1.S2.T4",
+   "avoid_checks": [
+    {
+     "check": "mahitiprad_gadya avoid #1 (re-teaching the frame as a વાર્તા). This is the topic where the frame most invites it. `topic_category` must stay \"core\" and no topic of this plan may carry \"climax\"; no `explanation`, `summary`, `detailed_summary`, `concept_bullets` or `recall_questions[].answer` may ask or answer why the `તળાવવાળું ટીપું` refused, may treat `પણ એ માને જ નહીં` as a વળાંક, or may call its refusal the turn of the tale. This topic's `explanation` opens on the fact-step — the risen ટીપાં are now so high that `નીચેનું કશું દેખાતું નથી`, and a small તળાવનું પાણી `શોષાઈ` જઈ શકે છે.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "varta avoid #3 (judging a character the text treats with sympathy), applied to the frame layer this chapter loads varta.md for. No `explanation`, `real_life_example`, `recall_questions[].answer` or exercise `answer` may apply an evaluative label — `જિદ્દી`, `મૂરખ`, `નાદાન`, `રોતલ`, `ખોટું` or a synonym — to the `તળાવવાળું ટીપું`, which the page presents with sympathy (`આંસુનાં ટીપાં પાડવામાંથી ઊંચું નહોતું આવતું`, `રડમસ અવાજે બોલ્યું`).",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "mahitiprad_gadya avoid #4 and #7 (unprinted facts; the printed name is the name), bound to `વસ્ત્રાપુરનું તળાવ`. Wherever the teaching refers to it, it is written in exactly that printed form and never replaced by `એક તળાવ` or `શહેરનું તળાવ`. No field may add its city, its size, why it dried, or whether it holds water today. The only statement available is the page's own `‘‘અરે ત્યાં તો હવે કોઈ નથી.’’`, and it is presented as what one ટીપું says inside the frame, not as a fact about the real lake.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક `‘‘અરે ત્યાં તો હવે કોઈ નથી.’’` માં `કોઈ` ને 'કોઈ માણસ' સમજે છે, એટલે એને એમ લાગે છે કે તળાવ પાસે હવે લોકો રહેતા નથી — અને પછી `તું એકલું ત્યાં જઈને શું કરીશ ? સાવ શોષાઈ જઈશ.` એ ચેતવણી કેમ અપાઈ એ એને સમજાતું જ નથી.",
+   "correction": "`explanation` માં એ વાક્યને પાઠના પોતાના સંદર્ભમાં ખોલો — `ત્યાં કોઈ નથી એટલે ત્યાં હવે પાણીનું એકેય ટીપું નથી` — અને એની બાજુમાં જ `શોષાઈ જવું — પાણી ચુસાઈ કે સુકાઈને ખૂટી જવું` ગ્લોસ મૂકો. બંને `key_terms` માં `શબ્દ — અર્થ` રૂપે રહે."
+  },
+  {
+   "topic_id": "M2.S3.T5",
+   "avoid_checks": [
+    {
+     "check": "mahitiprad_gadya avoid #5 (Science lesson), bound to `હવાનું દબાણ` and `પવનકુમાર`. No `explanation`, `summary`, `detailed_summary`, `important_points`, `concept_bullets`, `key_terms` or `recall_questions[].answer` of this topic may explain `દબાણ` with a term the chapter does not print — વાતાવરણીય દબાણ, લો પ્રેશર, બેરોમીટર, મિલિબાર, ઘનીકરણ — and none may correct the page's `પવનકુમાર` against science (`ખરેખર પવન કોઈ કુમાર નથી`, `વૈજ્ઞાનિક રીતે…`). `દબાણ` is given in everyday words only.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "mahitiprad_gadya avoid #6 (no familiar substitute for the practice's own word), bound to the four rain words this topic prints. `ફરફર`, `ઝરમર`, `ટપટપ` and `ધોધમાર` appear in exactly those forms wherever the teaching refers to them and are never replaced by `ઝીણો વરસાદ` / `ભારે વરસાદ` standing alone; at least one of them stands in this topic's `key_terms` in `શબ્દ — અર્થ` form, glossed with the printed શબ્દાર્થ box's own wording.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "Std-7 label gate instantiated on the one place a device name is most tempting (the chapter-level rule below states it once). `figures_of_speech` for this topic is `[]`, and the word `સજીવારોપણ` — or `અલંકાર`, `રૂપક`, `personification` — appears in no child-facing field: `explanation`, `key_terms`, `concept_bullets`, `real_life_example`, `recall_questions[].answer`. The move is shown, not labelled: say that the writer calls the પવન by a person's name. Carry-forward hazard: `05_with_content.json` already prints `આ સજીવારોપણ છે, ભૂલ નથી` in this topic's `key_terms`, and that clause must not be reused as written.",
+     "profile": "mahitiprad_gadya",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "બાળક `પવનકુમાર` ને કોઈ છોકરાનું નામ સમજે છે. એટલે 'વાદળને કોણ ખસેડે છે ?' એનો જવાબ એની પાસે 'પવનકુમાર નામનો કોઈ' રહી જાય છે, અને પવન વાદળને લઈ જાય છે એ પગલું ચૂકાઈ જાય છે.",
+   "correction": "પહેલી જ વાર `પવનકુમાર — પવન; અહીં પવનને માણસનું નામ દઈને બોલાવ્યો છે` એમ ગ્લોસ કરો (અલંકારનું નામ પાડ્યા વગર), અને એ જ ફકરામાં પાઠના શબ્દોમાં ક્રમ મૂકો : `પવનકુમાર ફૂંક મારે ત્યાં જવાનું`, પછી `જ્યાં હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરવાનું`, અને `ઠંડક થાય એટલે` વરસી પડવાનું."
+  },
+  {
+   "topic_id": "M2.S3.T6",
+   "avoid_checks": [
+    {
+     "check": "mahitiprad_gadya avoid #10 (a tacked-on બોધ), bound to the chapter's closing topic — a જલચક્ર unit makes this the likeliest failure in the whole plan. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` or `recall_questions[].answer` may close on `આપણે પાણી બચાવવું જોઈએ`, `આપણે કુદરતનો આદર કરવો જોઈએ`, `આ પાઠ આપણને શીખવે છે…` or any `આપણે પણ … જોઈએ` clause that is not a verbatim quotation from the chapter. The chapter states its own ending — `‘‘યાદ આવે તે રીતે પડવાનું. સમજાયું ?’’` — and that is the line a closing sentence may quote and teach as the writer's move.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "mahitiprad_gadya avoid #6 (the practice's own name survives), bound to the litany. All twelve રીતો appear in the teaching in exactly their printed forms — `ફરફર` કે `ઝરમર`, `છાંટા`, `ફોરાં`, `કરા`, `પછેડિયો`, `નેવાધાર`, `મોલિયો`, `ઢેફાંભાંગ`, `અનરાધાર`, `અરધિયો`, `સાંબેલાધાર`, `હેલી` — none replaced by a standard equivalent; any `recall_questions[].answer` or `concept_bullets` line that lists them counts `ફરફર કે ઝરમર` as ONE રીત and includes `અરધિયો`, so the total is the chapter's own `બાર`; and at least four of them stand in `key_terms` in `શબ્દ — અર્થ` form.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "mahitiprad_gadya avoid #4 (never supply what the page does not print), bound to the two unglossed names. The printed શબ્દાર્થ box glosses ten of the twelve but carries NO entry for `અરધિયો` and none for `છાંટા`. No field may invent a meaning for `અરધિયો`; `છાંટા` may be described only from the box's own two mentions of it (`ફરફર — વરસાદની ઝીણી છાંટ`, `ફોરાં — છાંટાથી મોટાં ટીપાં`). Where the teaching cannot say more, it says only that the chapter names these among the બાર રીતો.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "mahitiprad_gadya avoid #4 and #5, bound to `ઇન્દ્રદેવ`. The only gloss available is the chapter's own printed sentence `ઇન્દ્રદેવ વરસાદના દેવ છે.` No `explanation`, `summary`, `detailed_summary`, `concept_bullets`, `key_terms`, `recall_questions[].answer` or exercise `answer` may add anything else about ઇન્દ્ર (દેવોના રાજા, વજ્ર, ઐરાવત, a પુરાણકથા), and none may assert that ઇન્દ્રદેવ does not really decide where rain falls or correct the belief against science.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક `બાર રીતે વરસી શકાય છે` ને વિજ્ઞાનનું વર્ગીકરણ સમજી લે છે — 'વરસાદના બાર પ્રકાર' — અથવા `પછેડિયો`, `મોલિયો`, `ઢેફાંભાંગ` જેવા શબ્દોને ખોટા કે અજાણ્યા ગણીને છોડી દે છે. ખરેખર આ ગુજરાતી ભાષાએ વરસવાની જુદી જુદી રીતોને આપેલાં નામ છે, અને પાઠનો ખરો ખજાનો એ જ છે.",
+   "correction": "દરેક નામ જ્યાં આવે ત્યાં જ છાપેલી શબ્દાર્થપેટીના પોતાના શબ્દોમાં ગ્લોસ કરો — `પછેડિયો — પછેડી ઓઢવી પડે એવો વરસાદ`, `નેવાધાર — છાપરાના નેવા ઉપરથી પાણી વહે એટલો વરસાદ`, `મોલિયો — મોલ એટલે પાક, પાકને ઉપયોગી એવો વરસાદ`, `ઢેફાંભાંગ — વરસાદની તીવ્રતાથી માટીનાં ઢેફાં ભાંગી જાય તેવો વરસાદ` — અને `explanation` ના પહેલા વાક્યમાં જ કહો કે આ બાર નામ વરસવાની જુદી જુદી રીતોને ગુજરાતીએ આપેલાં નામ છે, દરેક નામ પાછળ એક ચિત્ર છે."
+  }
+ ],
+ "chapter_level": [
+  "Mixed chapter, split by LAYER and not by extent. `mahitiprad_gadya` is dominant and governs all six topics — the cut, the lens, and the first sentence of every `explanation`, which names that topic's fact or process-step. `varta.md` is loaded for two things only, and only where the page shows them: the living-drops manner (the `રડમસ અવાજ`, the `ભાઈબંધો`, `પવનકુમાર`, `ઇન્દ્રદેવ`) and its sympathy gate (avoid #3, instantiated on M1.S2.T4). varta's વળાંક machinery is NOT applied anywhere in this chapter: no topic carries `topic_category: \"climax\"`, and no field names a વળાંક or asks which choice turned the tale.",
+  "Std-7 label gate, chapter-wide, and `profiles/students/std-7.md` names this very chapter when stating it: the personification that runs through the whole unit is noticed, never named — `do not name સજીવારોપણ at std 7`. `figures_of_speech` is `[]` for all six topics (a complete, correct answer, not a gap), and `સજીવારોપણ` / `અલંકાર` / `રૂપક` appear in no child-facing field. Say instead, in plain words, that the writer lets the ટીપાં and the પવન talk like people. Carry-forward hazard: `05_with_content.json` M2.S3.T5 `key_terms` currently prints `આ સજીવારોપણ છે, ભૂલ નથી`.",
+  "Science-term ceiling for the whole chapter. The reading text prints no `વરાળ`, no `બાષ્પીભવન`, no `ઘનીકરણ` and no `ચક્ર`; `જલચક્ર` occurs ONLY in the teacher-facing blue પ્રવેશપેટી, which Agent 1 marked as not a વાચન-દૃશ્ય, so it is not child-facing vocabulary here. The single science word that IS licensed is `ઓક્સિજન`, because the printed શબ્દાર્થ box itself glosses `પ્રાણવાયુ` with it. Every stage of the journey is stated in the chapter's own words: `ગરમી પડી` → `સાવ હલકાં થઈ ગયાં` → `હવામાં અધ્ધર જવા લાગ્યાં` → `વાદળામાં ભરાયાં` → `પવનકુમાર ફૂંક મારે ત્યાં` → `હવાનું દબાણ ઓછું થાય ત્યાં નીચે ઊતરવાનું` → `ઠંડક થાય એટલે` વરસવાનું.",
+  "Attribution hazard, chapter-wide: the reading text is almost entirely double-quoted speech and the page labels no speaker anywhere. Wherever the teaching attributes a line it uses the page's own descriptors — `દરિયામાંથી આવેલું ટીપું`, `નદીવાળું ટીપું`, `તળાવવાળું ટીપું` — and never invents a name, a narrator, or a speaker the page does not identify. Where the page itself leaves a turn unattributed, the teaching says `એક ટીપું કહે છે` and no more.",
+  "L2 script and gender hazard, standing across the chapter. The unit is built on `-ું` નપુંસકલિંગ forms — `ટીપું / ટીપાં`, `વાદળું / વાદળાં`, `ખાબોચિયું`, `નાનકડું`, `કાળુંડિબાંગ` — a gender Hindi does not have, which a Hindi-reading child takes for a misspelt masculine and then mis-agrees the verb (`ટીપું આવ્યો`). This chapter's own end-of-unit વ્યાકરણપેટી is exactly લિંગ અને પ્રકાર, so the plain word `નપુંસકલિંગ` may be used where that box uses it, and every `ટીપું` / `ટીપાં` agreement is kept as printed. Alongside it, `ળ` is a letter in its own right and not a `લ`: `તળાવ`, `વાદળું`, `કાળાંડિબાંગ` are read and written as printed, never regularised."
+ ]
+}

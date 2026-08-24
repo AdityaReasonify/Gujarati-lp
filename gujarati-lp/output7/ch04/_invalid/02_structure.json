@@ -1,0 +1,516 @@
+{
+  "board": "gseb",
+  "grade": 7,
+  "subject": "Gujarati",
+  "level": "standard",
+  "chapter_id": "gseb_eng_gujarati7_ch4",
+  "plan_id": "gseb_eng_gujarati7_ch4_v1",
+  "chapter_name": "ટીપાંની સફર",
+  "unit_number": 4,
+  "genre": "mixed",
+  "active_genre_profiles": ["varta.md", "mahitiprad_gadya.md"],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક (varta.md — પ્રમુખ કથા-ભાગ માટે); અને એ જ ફ્રેમની અંદરના જલચક્ર તથા બાર રીતોના ભાગ પૂરતું જ તથ્ય + પરંપરા + જિજ્ઞાસા (mahitiprad_gadya.md).",
+  "guiding_question": "વાદળમાં ફસાયેલાં ટીપાં 'આપણને પૂછે છે કોણ ?' એવી લાચારીથી શરૂ કરીને 'ક્યાં પડવું અને કેવી રીતે પડવું' એ જાતે નક્કી કરવા સુધી કેવી રીતે પહોંચે છે — અને એ સફરમાં પાણીનું પોતાનું રૂપ ક્યાં ક્યાં બદલાય છે ?",
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8"
+  },
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અષાઢના વાદળમાં ભેગાં થયેલાં ટીપાં એકબીજાને 'તું ક્યાંથી આવ્યું ?' કેમ પૂછે છે તે સમજીને, પાઠમાં ગણાવેલાં પાણીનાં જુદાં જુદાં ઘર શોધીને કહેવાં.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દરિયામાં ટીપાં કઈ કઈ મજા કરતાં હતાં તે પાઠમાંથી શોધીને, માછલી પાણીમાંથી શું લઈ લે છે એ પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": ["M1.S2.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મે મહિનાની ગરમીમાં ટીપાં હલકાં થઈને ઊંચે કેમ જવા લાગ્યાં અને ઉપર જતાં એમને શાની બીક લાગી તે લખાણમાંથી કારણ સાથે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": ["M1.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "નદીના ટીપાની વાત દરિયાના ટીપાની વાત સાથે સરખાવીને, બંનેમાં શું સરખું બન્યું અને ટીપાંને વાદળમાં વધુ બીક કેમ લાગે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S3.T4",
+      "anchor": ["M1.S3.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "તળાવવાળું ટીપું કેમ રડ્યા કરે છે અને એને પોતાનું ઘર 'વસ્ત્રાપુરનું તળાવ' કેમ યાદ આવે છે તે એની બોલીમાંથી સંકેત શોધીને કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S3.T5",
+      "anchor": ["M1.S3.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બીજાં ટીપાં તળાવના ટીપાને શું સમજાવે છે અને 'આપણને પૂછે છે કોણ ?' કહેતાં ટીપાં પવન તથા ઠંડકને પોતાના પડવા સાથે કેવી રીતે જોડે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T6",
+      "anchor": ["M2.S4.T6.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ટીપાં ઇન્દ્રદેવ પાસે જવાનું નક્કી કરે છે ત્યાં એમની વાતનો સૂર કેવી રીતે બદલાય છે અને 'પહેલાં નક્કી કરી લો' કહેવું કેમ જરૂરી બન્યું તે તપાસવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S4.T7",
+      "anchor": ["M2.S4.T7.C7"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પાઠમાં ગણાવેલી વરસવાની બાર રીતોનાં નામ શબ્દાર્થની મદદથી ઓળખીને, આજના આકાશને કઈ રીત બંધબેસે તે પોતાની રીતે પસંદ કરીને કહેવું.",
+      "bloom_level": "Apply",
+      "home_topic_id": "M2.S5.T8",
+      "anchor": ["M2.S5.T8.C8", "M2.S5.T8.C9"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "વાદળનો મેળાવડો અને ટીપાંની વીતકકથા",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "અષાઢના વાદળમાં પહેલી ઓળખાણ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "અષાઢના વાદળમાં ભેગાં થયેલાં ટીપાં",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O1",
+                  "legacy_id": "L1",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "અષાઢના વાદળમાં ભેગાં થયેલાં ટીપાં એકબીજાને 'તું ક્યાંથી આવ્યું ?' કેમ પૂછે છે તે સમજીને, પાઠમાં ગણાવેલાં પાણીનાં જુદાં જુદાં ઘર શોધીને કહેવાં.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M1.S1.T1",
+                  "anchor": ["M1.S1.T1.C1"],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "વાદળનો મેળાવડો અને પાણીનાં જુદાં જુદાં ઘર",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "દરિયાના ટીપાની વીતક",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "દરિયામાં ટીપાંની મજા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O2",
+                  "legacy_id": "L2",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "દરિયામાં ટીપાં કઈ કઈ મજા કરતાં હતાં તે પાઠમાંથી શોધીને, માછલી પાણીમાંથી શું લઈ લે છે એ પોતાના શબ્દોમાં કહેવું.",
+                  "bloom_level": "Remember",
+                  "home_topic_id": "M1.S2.T2",
+                  "anchor": ["M1.S2.T2.C2"],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "દરિયાના જીવનની મજા અને પાણીમાંનો પ્રાણવાયુ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "ગરમીમાં હલકાં થઈ ઊંચે ઊડ્યાં",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S2.T2"],
+              "objective_ids": ["O3"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O3",
+                  "legacy_id": "L3",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "મે મહિનાની ગરમીમાં ટીપાં હલકાં થઈને ઊંચે કેમ જવા લાગ્યાં અને ઉપર જતાં એમને શાની બીક લાગી તે લખાણમાંથી કારણ સાથે કહેવું.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M1.S2.T3",
+                  "anchor": ["M1.S2.T3.C3"],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "ગરમીથી હલકાં થઈ ઊંચે જવું અને ઊંચાઈની બીક",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S3",
+          "segment_name": "નદી અને તળાવનાં ટીપાં",
+          "topics": [
+            {
+              "topic_id": "M1.S3.T4",
+              "topic_name": "નદીના ટીપાની એવી જ વીતક",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S2.T3"],
+              "objective_ids": ["O4"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O4",
+                  "legacy_id": "L4",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "નદીના ટીપાની વાત દરિયાના ટીપાની વાત સાથે સરખાવીને, બંનેમાં શું સરખું બન્યું અને ટીપાંને વાદળમાં વધુ બીક કેમ લાગે છે તે કહેવું.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M1.S3.T4",
+                  "anchor": ["M1.S3.T4.C4"],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S3.T4.C4",
+                  "concept_name": "ડુંગરથી વાદળ સુધીની નદીના ટીપાની સફર",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S3.T5",
+              "topic_name": "ઘર ઝંખતું તળાવનું ટીપું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O5"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O5",
+                  "legacy_id": "L5",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "તળાવવાળું ટીપું કેમ રડ્યા કરે છે અને એને પોતાનું ઘર 'વસ્ત્રાપુરનું તળાવ' કેમ યાદ આવે છે તે એની બોલીમાંથી સંકેત શોધીને કહેવું.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M1.S3.T5",
+                  "anchor": ["M1.S3.T5.C5"],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S3.T5.C5",
+                  "concept_name": "તળાવના ટીપાનું રડવું અને ઘરની ઝંખના",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "લાચારીથી પોતાની પસંદગી સુધી",
+      "segments": [
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "લાચારીથી નિર્ણય સુધી",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T6",
+              "topic_name": "આપણને પૂછે છે કોણ ?",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": ["M1.S3.T5"],
+              "objective_ids": ["O6"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O6",
+                  "legacy_id": "L6",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "બીજાં ટીપાં તળાવના ટીપાને શું સમજાવે છે અને 'આપણને પૂછે છે કોણ ?' કહેતાં ટીપાં પવન તથા ઠંડકને પોતાના પડવા સાથે કેવી રીતે જોડે છે તે કહેવું.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M2.S4.T6",
+                  "anchor": ["M2.S4.T6.C6"],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T6.C6",
+                  "concept_name": "સમજાવટ, ના, અને પવન-ઠંડકના હાથમાંની લાચારી",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T7",
+              "topic_name": "ઇન્દ્રદેવ પાસે જવાનો નિર્ણય",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "easy",
+              "depends_on": ["M2.S4.T6"],
+              "objective_ids": ["O7"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O7",
+                  "legacy_id": "L7",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "ટીપાં ઇન્દ્રદેવ પાસે જવાનું નક્કી કરે છે ત્યાં એમની વાતનો સૂર કેવી રીતે બદલાય છે અને 'પહેલાં નક્કી કરી લો' કહેવું કેમ જરૂરી બન્યું તે તપાસવું.",
+                  "bloom_level": "Evaluate",
+                  "home_topic_id": "M2.S4.T7",
+                  "anchor": ["M2.S4.T7.C7"],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T7.C7",
+                  "concept_name": "લાચારીમાંથી પોતાની પસંદગી તરફનો વળાંક",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S5",
+          "segment_name": "વરસવાની બાર રીતો",
+          "topics": [
+            {
+              "topic_id": "M2.S5.T8",
+              "topic_name": "વરસવાની બાર રીતોનાં નામ",
+              "topic_type": "CONCEPT",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": ["M2.S4.T7"],
+              "objective_ids": ["O8"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O8",
+                  "legacy_id": "L8",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "પાઠમાં ગણાવેલી વરસવાની બાર રીતોનાં નામ શબ્દાર્થની મદદથી ઓળખીને, આજના આકાશને કઈ રીત બંધબેસે તે પોતાની રીતે પસંદ કરીને કહેવું.",
+                  "bloom_level": "Apply",
+                  "home_topic_id": "M2.S5.T8",
+                  "anchor": ["M2.S5.T8.C8", "M2.S5.T8.C9"],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T8.C8",
+                  "concept_name": "વરસવાની બાર દેશી રીતોની યાદી",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S5.T8.C9",
+                  "concept_name": "યાદ આવે તે રીતે પડવાનું — હળવો સમાપન",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "cut_boundaries": [
+    {
+      "topic_id": "M1.S1.T1",
+      "marker": null,
+      "starts_at": "અષાઢ મહિનો ચાલતો હતો.",
+      "ends_at": "કોઈ નાનકડા ખાબોચિયામાંથી પણ આવેલું હતું."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "marker": "[[સંવાદ: દરિયામાંથી આવેલું ટીપું]] (પહેલો ભાગ)",
+      "starts_at": "દરિયામાંથી આવેલું ટીપું બોલ્યું,",
+      "ends_at": "અમને બધાંને એ બહુ ગમતું હતું.’’"
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "marker": "[[સંવાદ: દરિયામાંથી આવેલું ટીપું]] (બીજો ભાગ)",
+      "starts_at": "‘‘બહુ લાંબી દરિયા જેવડી વાતો રહેવા દે.",
+      "ends_at": "ખબર નથી ક્યારે પાછાં ઘરે જઈશું.’’"
+    },
+    {
+      "topic_id": "M1.S3.T4",
+      "marker": "[[સંવાદ: નદીવાળું ટીપું]]",
+      "starts_at": "નદીવાળા ટીપાનું પણ આવું જ કહેવું હતું.",
+      "ends_at": "અમારી નદી તો ક્યાં હશે, શી ખબર !’’"
+    },
+    {
+      "topic_id": "M1.S3.T5",
+      "marker": "[[સંવાદ: તળાવવાળું ટીપું]] (પહેલો ભાગ)",
+      "starts_at": "તળાવવાળું ટીપું તો આંસુનાં ટીપાં પાડવામાંથી ઊંચું નહોતું આવતું.",
+      "ends_at": "‘‘વસ્ત્રાપુરનું તળાવ.’’"
+    },
+    {
+      "topic_id": "M2.S4.T6",
+      "marker": "[[સંવાદ: તળાવવાળું ટીપું]] (બીજો ભાગ)",
+      "starts_at": "‘‘અરે ત્યાં તો હવે કોઈ નથી.",
+      "ends_at": "ફરફર, ઝરમર, ટપટપ તો ક્યાંક ધોધમાર પડવાનું.’’"
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "marker": "[[સંવાદ: ઇન્દ્રદેવ પાસે જવાનું અને વરસવાની બાર રીતો]] (પહેલો ભાગ)",
+      "starts_at": "‘‘આ વરસાદના ઇન્દ્રદેવ આપણને ક્યાં જઈને પડવું છે એ પૂછે તો કેટલું સારું, નહીં ?’’",
+      "ends_at": "‘‘એ વાત સાચી. ચાલો વિચારો.’’"
+    },
+    {
+      "topic_id": "M2.S5.T8",
+      "marker": "[[સંવાદ: ઇન્દ્રદેવ પાસે જવાનું અને વરસવાની બાર રીતો]] (બીજો ભાગ)",
+      "starts_at": "‘‘અને કેવી રીતે પડવું છે એ પણ વિચારી લો.’’",
+      "ends_at": "‘‘યાદ આવે તે રીતે પડવાનું. સમજાયું ?’’"
+    }
+  ],
+
+  "notes": [
+    "કાપનો આધાર : પ્રમુખ ભાગ વાર્તા છે, એટલે એકમ 'એક ઘટના' છે; અને એ જ ફ્રેમમાં વહેતા માહિતી-ભાગ માટે 'એક માહિતી-ખંડ'. બંને એકમ એકબીજા પર બરાબર બેસે એવી આઠ જગ્યાએ કાપ મૂક્યો છે — જ્યાં ઘટના વળે છે અને એ જ ઠેકાણે તથ્ય-પગલું પણ પૂરું થાય છે.",
+    "Marker accounting for Agent 4 — no marker swallowed, no topic invented on empty page. 00_chapter_normalized.md carries exactly four [[સંવાદ: …]] reading markers and all four are carried: marker 1 (દરિયામાંથી આવેલું ટીપું) → T2 + T3; marker 2 (નદીવાળું ટીપું) → T4; marker 3 (તળાવવાળું ટીપું) → T5 + T6; marker 4 (ઇન્દ્રદેવ પાસે જવાનું અને વરસવાની બાર રીતો) → T7 + T8.",
+    "Deviation from the strict one-marker-one-topic prior, stated openly. (અ) T1 carries NO marker: the opening paragraph 'અષાઢ મહિનો ચાલતો હતો…' is printed reading text sitting between the teacher-addressed પ્રવેશપેટી and the first [[સંવાદ]] marker, so a topic must exist there or the chapter's opening ઘટના would be dropped. (બ) Three marker blocks are split in two, because Agent 1 placed [[સંવાદ: …]] markers at SPEAKER boundaries, not at ઘટના boundaries, and mahitiprad_gadya.md's Avoid #2 forbids cutting by speaker turn. Each split falls where an ઘટના turn and a તથ્ય-પગલું complete together — see cut_boundaries. The count lands on Agent 1's own measured eight ઘટના-પગલાં (01_meta.json structure_inventory.ghatna = 8), which its ghatna_note explicitly leaves to Agent 2 to finalise.",
+    "બાર રીતોની યાદી એક જ topic છે (M2.S5.T8), બાર નહીં — mahitiprad_gadya.md નું explanation-unit પાનું આ જ એકમને નામ દઈને એ સૂચના આપે છે : 'std-7 ch 4's બાર પ્રકારના વરસાદ … is one topic … twelve topics of one word each is a cut error.'",
+    "Profile conflict, flagged for Agent 4 and Agent 13 — it does not block. varta.md (dominant) requires the turn to be marked `topic_category: \"climax\"`; mahitiprad_gadya.md's Avoid #1 requires that NO topic in the plan carry `climax`. વાર્તા પ્રમુખ છે અને 01_meta.json નું extraction_note વળાંક ક્યાં છે તે નામ દઈને કહે છે (લાચારીથી પસંદગી તરફ), એટલે M2.S4.T7 ને climax રાખ્યું છે. પરિણામે Agent 12 એ T7 નું explanation કથા-lens થી લખવું — માહિતી-lens નો climax-ગેટ આ એક topic પર લાગુ પડતો નથી.",
+    "M2.S5.T8 એ એકમાત્ર બે-concept વાળું topic છે, અને એ ખરેખર બે જુદાં કામ કરે છે : બાર દેશી નામોની યાદી (ભાષા-ખજાનો) અને વાર્તાનું હળવું સમાપન ('યાદ આવે તે રીતે પડવાનું. સમજાયું ?'). બાકીના દરેક topic પર એક જ concept છે. Concept counter chapter-continuous છે : C1…C9, અને T8 પર C8 + C9.",
+    "Names with 'બાર' (topic M2.S5.T8, segment M2.S5) — આ આંકડો નથી, પાઠનો પોતાનો છાપેલો શબ્દ છે ('એટલે કે બાર રીતે વરસી શકાય છે.', 'થઈ ને બાર રીતો !'). mahitiprad_gadya.md નું Language ખંડ સ્પષ્ટ કરે છે કે no-numbers નિયમ ક્રમાંકિત માળખાગત સંદર્ભો રોકે છે, પાઠની પોતાની છાપેલી હકીકતને નહીં. કોઈ પણ name માં અંક નથી.",
+    "Topics ગણ્યાં નથી, નિયમ મુજબ : વાદળી પ્રવેશપેટી (પોતે જ 'શિક્ષક માટે; વાચન-દૃશ્ય નથી' તરીકે નોંધાયેલી), શબ્દાર્થ-પેટી, અગિયાર ક્રમાંકિત સ્વાધ્યાય-ખંડ (વાતચીતથી પ્રવૃત્તિ સુધી) અને એકમને અંતેની લીલી વ્યાકરણપેટી 'સંજ્ઞાનાં લિંગ અને પ્રકાર'. બંને [[ચિત્ર: …]] પણ પાનાની સામગ્રી છે, વાચન-દૃશ્ય નથી — એ Agent 9 નું કામ છે.",
+    "difficulty ધોરણ 7 ના બીજી-ભાષાના વાચક માટે, આ એકમની અંદર જ સાપેક્ષ છે : M2.S5.T8 જ hard છે, કારણ કે પછેડિયો, નેવાધાર, મોલિયો, ઢેફાંભાંગ, અરધિયો, સાંબેલાધાર જેવા તળપદા શબ્દોની ગીચતા ત્યાં સૌથી વધુ છે. T3, T4, T6 medium — 'રામ રમી ગયા', 'કાળાંડિબાંગ', 'સાવ શોષાઈ જઈશ', 'હવાનું દબાણ' જેવા શબ્દો ત્યાં વાચકને રોકે છે. કોઈ topic કળા-લક્ષણને કારણે hard નથી — ધોરણ 7 માં એ નામ પડાતું જ નથી.",
+    "Craft-label ceiling honoured : આખો પાઠ સજીવારોપણ પર ઊભો છે (બોલતાં ટીપાં), પણ એકેય objective માં અલંકાર, છંદ કે સાહિત્યપ્રકારનું નામ નથી — std-7.md §1 અને §2 નો ગેટ. Objectives બાળકને 'નોંધવાનું' કહે છે, 'નામ પાડવાનું' નહીં.",
+    "depends_on માં ખરેખરું અવલંબન જ નોંધ્યું છે : T3 ← T2 (એ જ ટીપું પોતાની વાત આગળ ચલાવે છે, અને T3 નું ખૂલતું વાક્ય T2 ની વાતને જ ટોકે છે), T4 ← T3 ('અમારે પણ બિલકુલ એવું જ થયું' સીધો સંદર્ભ છે), T6 ← T5, T7 ← T6 (લાચારીનો જવાબ), T8 ← T7 ('કેવી રીતે પડવું છે એ પણ વિચારી લો' યાદીને ખોલે છે). બાકીના [].",
+    "Pre-topic hook નિયમ પાળ્યો છે : '‘‘બહુ લાંબી દરિયા જેવડી વાતો રહેવા દે…’’' T3 ને ખોલે છે, T2 ને બંધ કરતું નથી; અને '‘‘અને કેવી રીતે પડવું છે એ પણ વિચારી લો.’’' T8 ને ખોલે છે.",
+    "original_chunk દરેક topic પર ખાલી છે — Agent 5 નું કામ. cut_boundaries એ Agent 5 માટેની scaffolding છે : દરેક topic ની પહેલી અને છેલ્લી છાપેલી પંક્તિ, જેથી [[…]] marker કાઢી નાખ્યા પછી પણ સીમા સ્પષ્ટ રહે. એ phase-2 contract નું field નથી અને emit સુધી પહોંચતું નથી.",
+    "કોઈ પણ પાનું ફરી વાંચવું પડ્યું નથી — 00_chapter_normalized.md અને 01_meta.json માંથી બધું જ મળી ગયું; _renders ના PNG ખોલ્યા નથી."
+  ]
+}

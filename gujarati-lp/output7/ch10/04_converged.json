@@ -1,0 +1,14 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "5450c1cad2292fa05c74b47d29560b100e1f12c600ca02174c7cff0f89eeb240",
+  "verdict": "pass",
+  "notes": [
+    "Convergence record only — this is not a copy of the structure. Downstream agents read 02_structure.json for the tree and this file only to confirm that Agent 4 passed it.",
+    "Ids are frozen from this pass: modules M1–M3; segments M1.S1, M2.S2, M2.S3, M3.S4, M3.S5; topics M1.S1.T1 … M3.S5.T7; concepts C1–C13 chapter-continuous; objectives O1–O7 with L1→O1 … L7→O7. Only Agent 14 renumbers, and it must translate every reference when it does.",
+    "Single validation pass, no loop (reference/loop_protocol.md). All three checks passed: સ્વરૂપ fidelity (ઘટના-wise, seven markers to seven topics), coverage (lines 14–58 tiled without gap or overlap, no સ્વાધ્યાય block cut as a topic), objectives (registry complete, every anchor and home_topic_id resolves, id contract holds).",
+    "original_chunk is empty in all seven topics by design; Agent 5 fills it from the source_lines_00_normalized ranges recorded per topic.",
+    "The 'gseb' and 'eng' segments of chapter_id/plan_id are frozen in their PROVISIONAL form pending VERIFY-1.",
+    "Full check detail and the non-blocking notes are in 04_validation.json."
+  ]
+}

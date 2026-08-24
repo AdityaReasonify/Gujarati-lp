@@ -1,0 +1,249 @@
+{
+  "chapter_id": "gseb_eng_gujarati7_ch1",
+  "plan_id": "gseb_eng_gujarati7_ch1_v1",
+  "grade": 7,
+  "chapter_name": "સુંદર સુંદર",
+  "genre": "ઊર્મિકાવ્ય-ગીત",
+  "active_genre_profiles": ["urmikavya_geet.md"],
+  "teaching_lens": "ચિત્ર + ભાવ + લય",
+  "guiding_question": "કવિ કઈ કઈ સુંદર વસ્તુઓ બતાવીને 'વિભુ કેવા સુંદર હશે ?' એ પ્રશ્ન સુધી પહોંચે છે ?",
+  "explanation_unit": "એક કડી",
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઉપાડની પંક્તિઓમાં કવિ સૂરજ, ચાંદો, સરિતા ને સરોવરને સુંદર કહે છે તે ગાઈને, પછી આવતી 'વિભુ હશે તો કેવા સુંદર' પંક્તિ કયો પ્રશ્ન જગાડે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "આ કડીમાં આવતાં ઉષા, નિશા, વન, ઉપવન અને ગિરિવર — એ ચિત્રો શોધીને દરેકનો અર્થ કહેવો, અને એમાંથી કયું ચિત્ર પોતાને રોજ દેખાય છે તે વર્ણવવું.",
+      "bloom_level": "Apply",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": ["M1.S2.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ માછલી, પંખી, ધરતી અને શાંત સમીરનાં ચિત્રો સાથે મૂકે છે તે નોંધીને, આ કડી સાંભળતાં આંખ સામે કેવું દૃશ્ય દેખાય છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": ["M1.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ તારા ને વિશાળ આભ જેવાં દેખાતાં ચિત્રોની સાથે કવિતા અને જીવનને પણ સુંદર કહે છે — આ બે જુદી જાતની સુંદરતા વચ્ચેનો ફેર સમજાવવો.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": ["M2.S3.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ ગીતને છેલ્લે 'સુંદર હૈયું ને માનવ' પર લાવીને પૂરું કરે છે — એમ કરવાનું કારણ શોધીને, એ પસંદગી ગમી કે નહિ તે કારણ સાથે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": ["M2.S3.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5"
+  },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "આંખ સામે દેખાતું સૌંદર્ય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "સૂરજ-ચાંદાનો ઉપાડ ને મનમાં ઊઠતો પ્રશ્ન",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "સૂરજ, ચાંદો ને મનમાં ઊઠતો પ્રશ્ન",
+              "topic_type": "POEM",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "source_markers": ["[[આરંભની પંક્તિઓ]]", "[[ટેક]]"],
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "સુંદરતાના ગાનમાંથી જાગતો વિભુ વિશેનો પ્રશ્ન",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "પરોઢથી ગિરિવર, માછલીથી સમીર",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "ઉષાથી નિશા, વનથી ગિરિવર",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "source_markers": ["[[કડી 1]]"],
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "સવારથી રાત ને વનથી પર્વત સુધીનાં ચિત્રો",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "માછલી, પંખી ને શાંત સમીર",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "source_markers": ["[[કડી 2]]"],
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "માછલી, પંખી ને પવનનું શાંત ચિત્ર",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "ભીતર સુધી પહોંચતું સૌંદર્ય",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "કવિતાથી માણસના હૈયા સુધી",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "કવિતા, જીવન ને વિશાળ આભ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "source_markers": ["[[કડી 3]]"],
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "દેખાતી ને ન દેખાતી — બે જાતની સુંદરતા",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "ભાષા, આશા ને માનવનું હૈયું",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "source_markers": ["[[કડી 4]]"],
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "પ્રકૃતિથી માણસ સુધી પહોંચતું સૌંદર્ય",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "marker_accounting": {
+    "reading_text_markers_in_00": {
+      "[[આરંભની પંક્તિઓ]]": 1,
+      "[[ટેક]]": 5,
+      "[[કડી 1]]": 1,
+      "[[કડી 2]]": 1,
+      "[[કડી 3]]": 1,
+      "[[કડી 4]]": 1
+    },
+    "topics_created": 5,
+    "tek_distinct_wordings": 1,
+    "topics_carrying_tek_marker": 1,
+    "tek_home_topic_id": "M1.S1.T1",
+    "non_topic_markers": [
+      "[[પ્રવેશપેટી (વાદળી ખાનું — શિક્ષકને સંબોધીને; સ્વાધ્યાય નથી)]] — apparatus",
+      "[[શબ્દાર્થ]] — apparatus / gloss furniture",
+      "[[સ્વાધ્યાય: …]] ×14 — exercise_inventory, Agent 10 only"
+    ]
+  },
+
+  "notes": [
+    "ટેક handling, per urmikavya_geet.md's Agent-4 gate: all five [[ટેક]] markers are word-for-word identical (01_meta.json: tek_words_changed=false, tek_printed_in_full_every_time=true), so exactly ONE topic carries the ટેક — M1.S1.T1 — and every later કડી topic lists M1.S1.T1 in depends_on. The refrain is therefore taught once and referenced afterwards, never re-taught as four fresh topics. Agent 5 must place the ટેક line inside M1.S1.T1's original_chunk only; the other four topics' original_chunk hold their two printed કડી lines without the refrain.",
+    "JUDGEMENT, recorded for Agent 4: the three opening lines ([[આરંભની પંક્તિઓ]], Agent 1's scaffolding label — not a printed heading) and the first [[ટેક]] occurrence are cut as ONE topic (M1.S1.T1), not two. Reason from the page order: the refrain stands as the closing line of every unit including this opening આલાપ, exactly as it closes each of the four કડી. The three lines alone are a sung run-up with no landing; the ટેક alone is one line. Agent 1 explicitly left this decision to Agent 2. Consequence: topic count is 5 while structure_inventory.kadi is 4 — the extra topic is the opening આલાપ, and it is a reading scene, not an invention.",
+    "Uneven topic length, flagged not blocking: M1.S1.T1 carries four printed lines (three આરંભની પંક્તિઓ + the ટેક); M1.S2.T2 through M2.S3.T5 carry two printed lines each. The genre profile allows a કડી-unit to join or split on content, and this chapter's કડી are unusually short two-liners.",
+    "No pre-reading opener topic exists in this chapter. The blue પ્રવેશપેટી on printed p. 1 is teacher-addressed apparatus (spec §1 and global_content_rules) and the વાતચીત block is numbered exercise block one in 01_meta.json's exercise_inventory — both belong to Agent 10 / key_terms, not to the topic chain. Std 7 also prints no unlabelled કવિ-પરિચય paragraph (that is a std-10 shape), so there is no CONCEPT topic; the byline '- ધર્મેન્દ્ર માસ્તર \\'મધુરમ્\\'' is a byline only. No in-text wrap is printed, so there is no REVIEW topic.",
+    "No page-versus-prior conflict. The profile prior for ઊર્મિકાવ્ય-ગીત is 'one કડી per topic' and the rendered page shows exactly four indented two-line કડી around one unchanging refrain. urmikavya_geet.md names this very chapter as the case where the refrain is printed in full inside every unit rather than as ellipsis shorthand, and the page agrees.",
+    "Craft-label ceiling honoured: no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text. The word 'ગીત' in O5 is not a breach — the printed page uses it three times (the પ્રવેશપેટી's 'આ પ્રકૃતિના સૌંદર્યનું ગીત છે', the cloze paragraph's 'આ એક ________ પ્રકૃતિ ગીત છે.', and 'પુસ્તકાલયમાંથી પ્રકૃતિગીતો મેળવીને ગાઓ.'). The objectives ask the child to NOTICE and to say what a picture does, never to name a device. Downstream: per profiles/students/std-7.md §2, figures_of_speech[] stays [] for every topic here — that is a complete answer, not a gap.",
+    "difficulty is set by what stops an A2 second-language reader on THIS page, not by size of idea. M1.S2.T2 is 'hard' because its two lines carry four of the nine words the printed શબ્દાર્થ box had to gloss (ઉષા, નિશા, ઉપવન, ગિરિવર) — the densest તત્સમ line in the chapter. M1.S2.T3 is 'easy': માછલી, પંખી, ધરતી are everyday and only સમીર is glossed. M1.S1.T1 is 'medium' for the poetic forms મુજ and થાતું plus સરિતા and વિભુ; M2.S3.T4 and M2.S3.T5 are 'medium' for their abstract subjects (કવિતા, જીવન, આશા) rather than for hard words. No topic is hard for craft, per the std 6–7 row of the spec's table.",
+    "Module cut follows the poem's own widening arc, which is what 01_meta.json's genre_signals record: M1 holds what the eye can see outside (સૂરજ, ચાંદો, સરિતા, સરોવર, ઉષા, નિશા, વન, ઉપવન, ગિરિવર, માછલી, પંખી, ધરતી, સમીર); M2 holds where the poem travels after that (કવિતા, જીવન, તારા, આભ, ભાષા, આશા, હૈયું, માનવ). M2.S3.T5 is tagged 'climax' because the widening completes at માનવ, which the chapter's own સ્વાધ્યાય singles out ('કવિએ છેલ્લે \\'સુંદર હૈયું ને માનવ...\\' એવું શા માટે કહ્યું હશે ?').",
+    "depends_on is non-empty on four topics only because the identical-ટેક gate requires it; there is no other real dependence in this poem — 01_meta.json records that the કડી reorder freely except for the widening arc. Agent 14 must translate these references if it renumbers.",
+    "Segment counter runs across the chapter and does not restart: M1.S1, M1.S2, M2.S3. Concept counter is chapter-continuous and equals the topic number throughout (C1…C5), per phase2_contract.md rule 4.",
+    "Two-column read-down hazard does not apply: Agent 1 recorded the verse as single-column throughout. No render was opened by this agent — 00_chapter_normalized.md answered every structural question."
+  ]
+}

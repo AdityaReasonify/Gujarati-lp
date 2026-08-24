@@ -1,0 +1,132 @@
+# -*- coding: utf-8 -*-
+import json, io, os
+
+P = "patra_pravas"
+
+data = {
+ "topics": [
+  {
+   "topic_id": "M1.S1.T1",
+   "avoid_checks": [
+    {"check": "This is the FIRST topic, so the letter's opening furniture is text and must be quoted before it is explained: this topic's `original_chunk` carries the printed sender block, date and salutation character for character — 'વિવેક ભારતીય', 'વિઠ્ઠલનગર સોસાયટી, રાંદેર, સુરત', 'તા. 18-10-22', 'પ્રિય પ્રાચી,' — none of those four lines appears ONLY in `modified_chunk`, `brief_summary`, `summary` or `detailed_summary`, and no `topic_name`, `explanation` or `concept_bullets` line calls them ઢાંચો / formatting instead of part of the letter.",
+     "profile": P, "severity": "hard"},
+    {"check": "`explanation` of this topic names, in the letter's own words, who writes to whom and in what relationship — વિવેકમામા of સુરત writing to his ભાણી પ્રાચી — and at least one of `explanation`, `concept_bullets` or `key_terms` (in 'શબ્દ — અર્થ' form) accounts for a register feature that relationship produces: the 'પ્રિય' of 'પ્રિય પ્રાચી,', the second-person 'મજામાં હોઈશ', or the closing 'આશિષ'. An explanation that says only 'આ એક પત્ર છે' fails.",
+     "profile": P, "severity": "hard"},
+    {"check": "Every place name, date and occasion in `explanation`, `summary`, `detailed_summary`, `important_points`, `concept_bullets`, `real_life_example` or a recall `answer` of this topic also appears in this topic's `original_chunk`: 'સુરત', 'રાંદેર', 'વિઠ્ઠલનગર સોસાયટી', 'રાજકોટ', 'તા. 18-10-22', 'ભાઈબીજ', 'દિવાળી', 'નવા વર્ષ'. No field adds the distance or route between સુરત and રાજકોટ, a description of રાંદેર, the ritual detail of ભાઈબીજ, or a written-out expansion of 'તા. 18-10-22' into a full date.",
+     "profile": P, "severity": "hard"},
+    {"check": "No sentence of `explanation`, `summary`, `detailed_summary`, a `concept_bullets` line or a recall `answer` closes on an exhortation about letter-writing or festivals — 'આપણે પણ પત્ર લખવાની ટેવ પાડવી જોઈએ', 'પત્ર લખવો એ સારી આદત છે', 'સૌને શુભેચ્છા પાઠવવી જોઈએ' — unless those exact words are quoted from `original_chunk`. Where the letter-writing skill is named, it is named as the task the સ્વાધ્યાય will ask the child to do, not as a બોધ.",
+     "profile": P, "severity": "hard"},
+    {"check": "Any statement in `explanation` or `concept_bullets` about the ORDER of a Gujarati address matches the three lines as printed here — નામ, પછી સોસાયટી-વિસ્તાર-શહેર, પછી તારીખ, પાનાની જમણી બાજુ — and does not teach an envelope order the page does not print (recipient first, PIN line, English-style street-then-city). This topic is what prepares the સ્વાધ્યાય task that asks the child to put a jumbled address in order.",
+     "profile": P, "severity": "soft"}
+   ],
+   "misconception": "બાળક ઉપર જમણી બાજુ છપાયેલા 'વિવેક ભારતીય / વિઠ્ઠલનગર સોસાયટી, રાંદેર, સુરત' ને પ્રાચીનું સરનામું સમજે છે — કવર પર જેને પત્ર મળવાનો હોય તેનું સરનામું લખાય એટલું જ એ જાણે છે — એટલે પત્ર કોના તરફથી કોના તરફ જાય છે એ આખી દિશા ઊંધી પડે છે અને પછી 'રાજકોટ નહીં અવાય' પણ ઊંધું બેસે છે.",
+   "correction": "પહેલા જ વાક્યમાં ગ્લોસ કરો — 'ઉપર જમણી બાજુનું સરનામું મોકલનારનું, એટલે કે વિવેકમામાનું છે' — અને પછી 'પ્રિય પ્રાચી,' બતાવીને કહો કે પત્ર જેને લખાયો છે તેનું નામ સંબોધનમાં આવે છે. `key_terms` માં 'સંબોધન — પત્ર જેને લખાય તેને નામથી બોલાવવું' અને 'મોકલનારનું સરનામું — જે લખે છે તેનું સરનામું' મૂકો."
+  },
+  {
+   "topic_id": "M1.S1.T2",
+   "avoid_checks": [
+    {"check": "The first sentence of `explanation` names the matter the letter has turned to at this પડાવ — the શુભેચ્છા-કાર્ડ મામાએ મોકલેલું and 'આ ચિત્ર દોરનારાની એક વિશેષતા' — in the letter's own words. A first sentence of the shape 'પત્રનો આગળનો ભાગ' / 'હવે પછીની વાત' fails.",
+     "profile": P, "severity": "hard"},
+    {"check": "Nowhere in `explanation`, `real_life_example`, `summary`, `detailed_summary`, a `concept_bullets` line or a recall `answer` do the words બિચારા, લાચાર, અપંગ, દયા આવે, 'આપણે તો કેટલા નસીબદાર' or 'એમની પાસેથી પ્રેરણા લેવી જોઈએ' attach to 'એ ચિત્રકારોના હાથ નકામા થયા છે'. The letter's own words carry the fact — 'હાથ નકામા થયા છે', 'એ ચિત્ર મોઢેથી દોરે છે', 'વિશેષતા' — and the ability, not the lack, is what the sentence reports.",
+     "profile": P, "severity": "hard"},
+    {"check": "'છે ને ગજબની વાત !' is મામાનો પોતાનો ઉદ્ગાર to પ્રાચી: any field that uses it attributes it ('મામા લખે છે કે…', 'મામા પ્રાચીને કહે છે કે…'), and no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or recall `answer` converts it into 'આપણે પણ હિંમત ન હારવી જોઈએ' / 'મુશ્કેલી સામે લડવું જોઈએ' / 'આ પાઠ આપણને શીખવે છે…'.",
+     "profile": P, "severity": "hard"},
+    {"check": "At this પડાવ the letter has named no artist yet — it says only 'આજે એની વાત તને કરવી છે.' So no field of THIS topic supplies 'મૃદુલ ઘોષ', 'મનોજ ભિંગારે', the હવાઈ-દળ, the અકસ્માત or the કૉલેજ ડિપ્લોમા, all of which belong to the પડાવ that follow.",
+     "profile": P, "severity": "soft"}
+   ],
+   "misconception": "'એ ચિત્ર મોઢેથી દોરે છે' વાંચીને બાળક 'મોઢેથી' ને બોલવાના અર્થમાં લે છે — મોઢે કરવું, મોઢેથી કહેવું — એટલે એને એમ લાગે છે કે ચિત્રકારો ચિત્ર *બોલીને સમજાવે* છે કે યાદશક્તિથી દોરે છે, અને 'ગજબની વાત' શેમાં છે એ જ પકડાતું નથી.",
+   "correction": "એ જ વાક્યની સાથે ગ્લોસ કરો — 'મોઢેથી દોરવું એટલે મોંમાં પીંછી પકડીને દોરવું' — અને પાના પર છપાયેલા ફોટા તરફ ધ્યાન દોરો, જ્યાં ચિત્રકાર મોંમાં પીંછી પકડીને ફૂલ દોરે છે. `key_terms` માં 'મોઢેથી દોરવું — મોંમાં પીંછી પકડીને ચિત્ર દોરવું' મૂકો."
+  },
+  {
+   "topic_id": "M2.S2.T3",
+   "avoid_checks": [
+    {"check": "'આપણા જેવા તો નિરાશામાં સાવ ભાંગી જાય, પણ મૃદુલભાઈ હાર્યા નહીં.' is મામાનું પોતાનું વાક્ય: every field that carries it attributes it to the writer ('મામા લખે છે કે…') rather than asserting it as fact about people, and no `explanation`, `real_life_example`, `summary`, `detailed_summary`, `concept_bullets` line or recall `answer` turns it into બિચારા, લાચાર, અપંગ, દયા આવે, 'આપણે તો કેટલા નસીબદાર' or 'એમની પાસેથી પ્રેરણા લેવી જોઈએ'.",
+     "profile": P, "severity": "hard"},
+    {"check": "The letter reports, it does not narrate an arc: this topic keeps `topic_category: \"core\"` (no `climax` anywhere in this chapter), no `explanation`, `concept_bullets` line or recall `answer` asks or answers why મૃદુલભાઈ *chose* not to give up ('એમણે હાર ન માનવાનું કેમ નક્કી કર્યું ?'), and no field calls the અકસ્માત a વળાંક. What is taught is the printed sequence — હવાઈ-દળમાં સારી કામગીરી, ગંભીર અકસ્માતમાં કરોડરજ્જુને ઈજા, વ્હીલચેર, સંસ્થાનો સંપર્ક, મોંથી પેઇન્ટિંગ, કાબેલ ચિત્રકાર.",
+     "profile": P, "severity": "hard"},
+    {"check": "The letter names neither the સંસ્થા nor the year, place or cause of the અકસ્માત nor મૃદુલભાઈનો હોદ્દો: no `explanation`, `summary`, `detailed_summary`, `important_points`, `concept_bullets`, `real_life_example` or recall `answer` supplies an organisation's name, a rank, a squadron, an aircraft, a city or a date. Every proper noun in those fields is one this topic's `original_chunk` prints — 'મૃદુલ ઘોષ', 'ભારતીય હવાઈ-દળ'.",
+     "profile": P, "severity": "hard"},
+    {"check": "The phrase 'આફતને અવસરમાં' is printed in a સ્વાધ્યાય block, not in any `original_chunk`: it does not appear in `explanation`, `summary`, `detailed_summary`, `concept_bullets` or a recall `answer` of this topic as if the letter had said it. Exercise wording belongs to the exercise solutions.",
+     "profile": P, "severity": "soft"}
+   ],
+   "misconception": "અકસ્માત ને ઈજાની વાત આગલા વાક્યમાં જ હોવાથી બાળક 'આપણા જેવા તો નિરાશામાં સાવ ભાંગી જાય' ને શરીર ભાંગવાની — હાડકું ભાંગવાની — વાત સમજે છે. એટલે મામાનો અભિપ્રાય એક બીજી ઈજા બની જાય છે, અને 'પણ મૃદુલભાઈ હાર્યા નહીં' ની સામસામી બાજુ દેખાતી નથી.",
+   "correction": "એ જ વાક્યની સાથે પાઠમાં જ છપાયેલો અર્થ ગ્લોસ કરો — 'ભાંગી પડવું — હિંમત હારી જવી, હતાશ થઈ જવું' — અને લીટી સાદી ગુજરાતીમાં ફરી કહો: 'મામા લખે છે કે આપણા જેવા તો હિંમત હારી બેસે, પણ મૃદુલભાઈ હાર્યા નહીં.' `key_terms` માં 'ભાંગી પડવું — હિંમત હારી જવી' અને 'નોબત આવવી — સંકટનો સમય આવવો' મૂકો."
+  },
+  {
+   "topic_id": "M2.S2.T4",
+   "avoid_checks": [
+    {"check": "Every person name, place name, institution and occupation in `explanation`, `summary`, `detailed_summary`, `important_points`, `concept_bullets`, `real_life_example` or a recall `answer` also appears in this topic's `original_chunk` — 'મનોજ ભિંગારે', 'ગુજરાત', 'અમદાવાદની સી.એન. ફાઈન આર્ટસ્ કૉલેજ', 'ડિપ્લોમા', 'સૈનિકો'. No field adds his age, his village, the year or place of the અકસ્માત, the year of the ડિપ્લોમા, an award, or which force the સૈનિકો belong to.",
+     "profile": P, "severity": "hard"},
+    {"check": "The printed forms stay as printed: `original_chunk` keeps 'સી.એન. ફાઈન આર્ટસ્ કૉલેજ' exactly — 'આર્ટસ્' is not 'corrected' to 'આર્ટ્સ' — and no field of this topic romanises it ('C. N. Fine Arts College') or writes ડિપ્લોમા, પેઇન્ટિંગ in Roman script. Base script stays Gujarati and the Devanagari દંડ never appears.",
+     "profile": P, "severity": "hard"},
+    {"check": "'નાની ઉંમરે એમણે બંને હાથ ગુમાવ્યા' carries no pity framing in any field: બિચારા, લાચાર, અપંગ, દયા આવે, 'આપણે તો કેટલા નસીબદાર', 'એમની પાસેથી પ્રેરણા લેવી જોઈએ' appear nowhere in `explanation`, `real_life_example`, `summary`, `detailed_summary`, `concept_bullets` or a recall `answer`. The letter's own account — મોઢેથી ચિત્ર દોરવાનું શરૂ કર્યું, ડિપ્લોમા કર્યો, આજે સૈનિકોને શીખવે છે — is what those fields carry.",
+     "profile": P, "severity": "hard"},
+    {"check": "No field of this topic ranks or compares the two artists ('મૃદુલભાઈ કરતાં મનોજભાઈ વધારે…', 'એમનાથીય ચડિયાતા', 'સૌથી મહાન'). The letter sets the second beside the first with 'બીજા ચિત્રકાર તો આપણા ગુજરાતના જ છે.' and nothing more.",
+     "profile": P, "severity": "soft"}
+   ],
+   "misconception": "'એ પણ એક અકસ્માતનો શિકાર બન્યા હતા' માં બાળક 'શિકાર' ને પ્રાણીના શિકારના અર્થમાં લે છે — શિકાર કરવો, શિકારી — એટલે વાક્ય 'એમણે અકસ્માતમાં કંઈક કર્યું' જેવું ઊંધું બેસે છે અને એમને શું થયું એ સમજાતું નથી.",
+   "correction": "'શિકાર બનવું — ભોગ બનવું, અકસ્માતમાં સપડાવું' એમ એ જ વાક્યની સાથે ગ્લોસ કરો અને લીટી સાદી ગુજરાતીમાં ફરી કહો: 'એમને પણ એક અકસ્માત નડ્યો હતો.' `key_terms` માં 'શિકાર બનવું — ભોગ બનવું' મૂકો અને પછીના વાક્યમાં એ જ શબ્દ ફરી વાપરો."
+  },
+  {
+   "topic_id": "M2.S3.T5",
+   "avoid_checks": [
+    {"check": "This પડાવ prints 'એ દાન લેતા નથી': no `explanation`, `real_life_example`, `summary`, `detailed_summary`, `concept_bullets` line or recall `answer` proposes charity toward these artists — 'આપણે એમને દાન આપવું જોઈએ', 'મદદ કરવી જોઈએ', દયા, બિચારા — and the `real_life_example` is not a દાનપેટી, ફાળો or charity-collection anchor. What the fields carry is the letter's own list: 'એમણે બનાવેલાં સુંદર ચિત્રો, શુભેચ્છા કાર્ડસ્, કેલેન્ડર, બેંગ, ટી-શર્ટ વેચે છે'.",
+     "profile": P, "severity": "hard"},
+    {"check": "The મંડળ is unnamed on the page and no price is printed: no `explanation`, `summary`, `detailed_summary`, `important_points`, `concept_bullets` or recall `answer` names the મંડળ, its country, city or founding, states how many ચિત્રકારો it has, or gives a price for the બેંગ, the પેઇન્ટિંગ or the ગ્રિટિંગ કાર્ડ. 'દુનિયાભરના આવા ચિત્રકારોને મદદ કરે છે' is the whole of what the letter says about its reach.",
+     "profile": P, "severity": "hard"},
+    {"check": "The printed loan words stay in Gujarati script exactly as printed in `original_chunk` — 'કાર્ડસ્', 'કેલેન્ડર', 'બેંગ', 'ટી-શર્ટ', 'ગ્રિટિંગ કાર્ડ', 'પેઇન્ટિંગ', including the printed run-together 'ચિત્રો,શુભેચ્છા' — and no field romanises them or 'corrects' them to 'બૅગ' / 'ગ્રીટિંગ' / 'કાર્ડ્સ'.",
+     "profile": P, "severity": "hard"},
+    {"check": "No sentence of `explanation`, `summary`, `detailed_summary`, a `concept_bullets` line or a recall `answer` closes on 'આપણે પણ મહેનતથી કમાવું જોઈએ' / 'સ્વમાનથી જીવવું જોઈએ' / 'આ પાઠ આપણને શીખવે છે…' unless those exact words are quoted from `original_chunk`. The મંડળની ખાસિયત is reported as the મંડળનું કામ, not converted into a rule for the child.",
+     "profile": P, "severity": "hard"}
+   ],
+   "misconception": "'મંડળ' શબ્દ સાંભળીને બાળક એને દાન ઉઘરાવતી સંસ્થા સમજે છે, અને 'એ દાન લેતા નથી, પણ … વેચે છે' એ બે ભાગના વાક્યનો બીજો ભાગ પડતો મૂકે છે — એટલે ઊંધું તારણ નીકળે છે કે મંડળ ચિત્રકારોને દાન આપે છે, અને પત્રનો ખરો મુદ્દો, કે ચિત્રકારો પોતાનું બનાવેલું વેચીને કમાય છે, હાથમાંથી જતો રહે છે.",
+   "correction": "`explanation` માં વાક્યના બંને ભાગ સાથે જ રાખો — 'દાન લેતા નથી' પછી તરત 'પોતાનાં ચિત્રો, શુભેચ્છા કાર્ડસ્, કેલેન્ડર, બેંગ, ટી-શર્ટ વેચે છે' — અને `real_life_example` શાળાના મેળામાં જાતે બનાવેલી વસ્તુ વેચવાનું રાખો, ફાળો ઉઘરાવવાનું નહીં. `key_terms` માં 'મંડળ — સાથે મળીને કામ કરતા લોકોનું જૂથ' અને 'ખાસિયત — વિશિષ્ટ ગુણધર્મ' મૂકો."
+  },
+  {
+   "topic_id": "M2.S3.T6",
+   "avoid_checks": [
+    {"check": "This is the LAST topic, so the sign-off closes it as text: `original_chunk` ends with '- વિવેકમામાનાં આશિષ' character for character, hyphen included; it is not cut as a topic of its own and does not appear only in `modified_chunk`, `brief_summary`, `summary` or `detailed_summary`; and `explanation` treats it as the place where the writer's relationship to the reader is stated, never as ઢાંચો or formatting.",
+     "profile": P, "severity": "hard"},
+    {"check": "No 'લિ.' is printed anywhere in this letter: no `explanation`, `summary`, `detailed_summary`, `important_points`, `concept_bullets` line or recall `answer` states or implies that this letter carries 'લિ.', supplies any closing line the page does not print, or adds પ્રાચીનું ગામ કે શહેર, her age, or her parents' names. Only 'તારાં મમ્મી અને પપ્પા', 'પ્રણામ' and '- વિવેકમામાનાં આશિષ' are on the page here.",
+     "profile": P, "severity": "hard"},
+    {"check": "No sentence of `explanation`, `summary`, `detailed_summary`, a `concept_bullets` line or a recall `answer` closes on 'આપણે પણ વડીલોને પ્રણામ કરવા જોઈએ' / 'મોટાંને માન આપવું જોઈએ' / 'પત્રને અંતે આશીર્વાદ માગવા જોઈએ' unless quoted from `original_chunk`. The closing is taught as what મામા does at the end of his letter.",
+     "profile": P, "severity": "hard"},
+    {"check": "At least one of `explanation`, `concept_bullets` or `key_terms` ties 'આશિષ' back to the opening 'પ્રિય પ્રાચી,' so the child sees that both ends of the letter come from the same relationship — this is what prepares the સ્વાધ્યાય task asking the child to write પ્રાચીનો જવાબી પત્ર.",
+     "profile": P, "severity": "soft"}
+   ],
+   "misconception": "'- વિવેકમામાનાં આશિષ' વાંચીને બાળક 'આશિષ' ને છોકરાના નામ તરીકે લે છે — આશિષ ચાલુ નામ છે — એટલે એને લાગે છે કે પત્ર બે જણે લખ્યો છે અથવા આશિષ નામનો કોઈ માણસ સહી કરે છે, અને પત્ર કોણે લખ્યો એ છેલ્લી લીટીએ જ ગૂંચવાઈ જાય છે.",
+   "correction": "પહેલી જ વાર 'આશિષ — વડીલના આશીર્વાદ' એમ ગ્લોસ કરો અને આખી લીટી સાદી ગુજરાતીમાં ફરી કહો: 'આ લીટીનો અર્થ છે — વિવેકમામાના આશીર્વાદ.' પછી બતાવો કે વડીલ નાનાંને પત્ર લખે ત્યારે અંતે આશીર્વાદ લખે છે, અને એટલે જ શરૂઆતમાં 'પ્રિય પ્રાચી,' હતું."
+  }
+ ],
+ "chapter_level": [
+  "વિકલાંગતા is this chapter's standing sensitivity, not one topic's: the letter reports two artists whose hands do not work, so pity and inspiration framing is a hard gate across EVERY topic — બિચારા, લાચાર, અપંગ, દયા આવે, 'આપણે તો કેટલા નસીબદાર', 'એમની પાસેથી પ્રેરણા લેવી જોઈએ' appear in no teaching field of any topic. The chapter's own words are the ones to use — દિવ્યાંગ (as the વાતચીત block prints it), કાબેલ, ખાસિયત, વિશેષતા — and the ability is described as the letter describes it: મોંમાં પીંછી પકડીને ચિત્ર દોરવું, કૉલેજનો ડિપ્લોમા, સૈનિકોને શીખવવું, દાન નહિ પણ વેચાણ.",
+  "The blue પ્રવેશપેટી at the top of the unit is addressed to the teacher, not to the child, and it already supplies the words 'પ્રેરક વાતો' and 'શારીરિક મર્યાદાઓ છતાં'. A std-6 second-language reader answers from that box instead of from the letter. No topic's teaching fields may take their account from the box; they come from that topic's own `original_chunk`, and the box is `original_chunk` for no topic.",
+  "Printed spellings and printed loan words are as printed, everywhere: 'જરુર', 'આર્ટસ્', 'બેંગ', 'ગ્રિટિંગ કાર્ડ', 'કાર્ડસ્', 'તા. 18-10-22', and the run-together 'ચિત્રો,શુભેચ્છા'. They are never corrected, never romanised back into English, and never rewritten in a summary as 'બૅગ' / 'ગ્રીટિંગ'. Base script stays Gujarati and the Devanagari દંડ appears nowhere in the plan.",
+  "The printed શબ્દાર્થ box glosses two words the letter's reading text never uses — 'કેર' (જુલમ, મહાનાશ) and 'આર્ટિસ્ટ' (કલાકાર). Gloss at the point of use only for words that actually stand in that topic's `original_chunk`; putting કેર or આર્ટિસ્ટ into a teaching field would attach a word to a passage that never carried it.",
+  "The whole unit is ONE letter and the two artists' ચરિત્ર-પ્રસંગ sits inside it, so the genre stays પત્ર under the single profile `patra_pravas` and is not treated as mixed: no topic becomes a biography of મૃદુલ ઘોષ or મનોજ ભિંગારે, no topic carries `topic_category: \"climax\"`, and no field names a વળાંક or asks why either man chose to act as he did. The letter reports; it does not narrate an arc.",
+  "The letter's furniture is the chapter's skill and therefore TEXT: સરનામું ને તારીખ and 'પ્રિય પ્રાચી,' open the first topic, '- વિવેકમામાનાં આશિષ' closes the last, and each is quoted before it is explained. The topics must leave the child able to WRITE a letter, not only to describe one — the printed સ્વાધ્યાય asks for પ્રાચીનો જવાબી પત્ર, for a second letter to be completed from words in brackets, and for a jumbled address to be put in order — so each topic names the skill it prepares instead of describing the letter from outside."
+ ]
+}
+
+out = "/Users/aditya/Downloads/Gujarati-lp/gujarati-lp/output6/ch08/07_pitfalls.json"
+with io.open(out, "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+    f.write("\n")
+
+# verification
+conv = json.load(io.open("/Users/aditya/Downloads/Gujarati-lp/gujarati-lp/output6/ch08/04_converged.json", encoding="utf-8"))
+ids = []
+for m in conv["modules"]:
+    for s in m["segments"]:
+        for t in s["topics"]:
+            ids.append(t["topic_id"])
+mine = [t["topic_id"] for t in data["topics"]]
+print("converged ids:", ids)
+print("mine        :", mine)
+print("match:", ids == mine)
+blob = json.dumps(data, ensure_ascii=False)
+print("danda present:", "।" in blob)
+import re
+dev = re.findall(r"[ऀ-ॿ]", blob)
+print("devanagari chars:", set(dev))
+print("size:", os.path.getsize(out))

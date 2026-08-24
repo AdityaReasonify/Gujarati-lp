@@ -1,0 +1,8 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 6",
+  "textbook_url": "../Textbooks-pdf/std-6/ch-15-lo-pathri-mari-vat.pdf",
+  "textbook_pages": "101–107",
+  "source": "printed folio, read off renders of pdf pp. 112 and 118 of the chapter PDF (page-1.png shows folio 101, page-7.png shows folio 107); cross-checked against ../Textbooks-pdf/std-6/manifest.json row for ch 15 (printed_start 101, pdf_start 112, pdf_end 118) and against 01_meta.json's own extraction notes, which agree",
+  "confidence": "high",
+  "gaps": ["textbook_url is a local path — the GSEB readers have no hosted URL"]
+}

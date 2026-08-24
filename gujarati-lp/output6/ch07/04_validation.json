@@ -1,0 +1,85 @@
+{
+ "agent": "04_mapping_convergence",
+ "chapter_id": "gseb_eng_gujarati6_ch7",
+ "grade": 6,
+ "chapter_name": "ચોખ્ખાઈના સરદાર",
+ "run": "single pass (reference/loop_protocol.md — Agent 4 runs once, no iteration)",
+ "validated_source": {
+  "file": "02_structure.json",
+  "bytes": 27892,
+  "sha256": "e9b81f0b07aa45289ae7b29c4c10dd4e3ed3f5232ed023d1dd201c0a0e93503c"
+ },
+ "status": "pass",
+ "checks": {
+  "genre_fidelity": {
+   "pass": true,
+   "explanation_unit": "એક કડી",
+   "genre": "ઊર્મિકાવ્ય-ગીત (કૂચગીત)",
+   "active_genre_profiles": [
+    "urmikavya_geet.md"
+   ],
+   "kadi_markers": 6,
+   "kadi_topics": 6,
+   "tek_markers": 1,
+   "tek_distinct_wordings": 1,
+   "tek_carrying_topics": [
+    "M1.S1.T1"
+   ],
+   "duha_markers": 0,
+   "pad_markers": 0,
+   "notes": [
+    "Unit agreement on three sources: 01_meta.json writes explanation_unit 'એક કડી'; reference/explanation_unit_map.md's ઊર્મિકાવ્ય/ગીત row gives one કડી; 02_structure.json cuts by કડી. profiles/genres/urmikavya_geet.md holds કૂચગીત as a sub-form of this profile and says it 'cuts and is taught exactly like any other ગીત — one કડી per topic'.",
+    "કડી fidelity, counted mechanically: 00_chapter_normalized.md carries six [[કડી n]] markers (lines 21, 27, 33, 39, 45, 51) and 02_structure.json carries exactly six topics whose markers[] hold a [[કડી n]] — M1.S1.T1←કડી 1, M1.S1.T2←કડી 2, M1.S2.T3←કડી 3, M2.S3.T4←કડી 4, M2.S4.T5←કડી 5, M2.S4.T6←કડી 6. 6 = 6. Nothing merged, nothing split, nothing reordered.",
+    "ટેક gate (urmikavya_geet.md §Avoid, 'ટેક handling, structural — checked at Agent 4'): there is exactly one [[ટેક]] marker and its wording never changes — the six returns are the printed ellipsis shorthand 'ચોખ્ખાઈના સરદાર અમે સહુ...' inside each કડી, not separate markers, so distinct ટેક wordings = 1. The identical-ટેક branch applies: exactly ONE topic carries the ટેક (M1.S1.T1) and all five later કડી topics list M1.S1.T1 in depends_on. Verified mechanically — 5/5. agents/02_structure.md states the same rule in the imperative: an identical ટેક 'never becomes a topic of its own', so folding [[ટેક]] into the first કડી topic is the required cut here, not a swallowed marker: M1.S1.T1 declares both markers and gives each its own concept (C1 = the ટેકનો પોકાર, C2 = ઘર-આંગણનું ચિત્ર).",
+    "No દુહો and no પદ marker exists in this chapter (01_meta.json structure_inventory duha=0, pad=0; re-counted in 00_chapter_normalized.md = 0/0). The 'no two દુહા share a topic' and 'no પદ is split' gates are vacuously satisfied and were not force-applied to કડી.",
+    "Not a mixed chapter: every reading scene is verse under one સ્વરૂપ, so the per-part unit rule does not engage. active_genre_profiles carries a single profile.",
+    "Two-column verse re-verified against my own render (pdftoppm -png -r 150, page-1.png): the poem is set in two columns and reads DOWN each column — ટેક + કડી 1–3 left, કડી 4–6 right. The cut in 02_structure.json follows the column order; reading across would have produced topics that are not poems. 01_meta.json and 00_chapter_normalized.md agree with the page line for line.",
+    "Profile avoid-list, the structural items Agent 4 owns: no objective_text is an exhortation of the 'આપણે … જોઈએ' shape (the slogan gate this profile exists for, and which bites the કૂચગીત hardest) — checked over all six; no objective names a government, party, scheme or campaign (O6 works from the poem's own printed words 'દેશભક્તિ', 'પ્રાણશક્તિ', 'ઘર ઘર પહોંચે આ પયગામ' and adds nothing the page does not print); no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears anywhere in the cut or the objectives, so no craft is invented and the std-6 label ceiling holds (profiles/students/std-6.md §3); 'ટેક' and 'કડી' are used and are explicitly permitted at std 6–8 by reference/teaching_lens_map.md line 80 ('Teach ચિત્ર, ભાવ, ટેક, ઘટના, વળાંક'); no module, segment, topic or concept name and no objective_text carries a digit, Latin or Gujarati (regex over all 19 names and all 6 objective_texts — zero hits, reference/global_content_rules.md §4).",
+    "teaching_lens 'ચિત્ર + ભાવ + લય' matches between 01_meta.json and 02_structure.json, and matches reference/teaching_lens_map.md's ઊર્મિકાવ્ય/ગીત row verbatim. The profile's own Lens section names ચિત્ર + ભાવ + અલંકાર and then states outright that લય/પ્રાસ occupy the same third slot in a sung ગીત. Not a lens error.",
+    "Genre routing conflict raised by Agent 1 ('- સંકલિત' in the author slot, a લોકગીત tell) was re-weighed here and the routing stands: lok_geet.md's near-miss row needs verse + ઢાળ + occasion + તળપદા together, and there is no folk occasion and no તળપદો form in this modern civic song, while the printed intro box names the form itself — 'અહીં ‘કૂચગીત’ દ્વારા આ સંદેશ આપવામાં આવ્યો છે' (read again off my render of page 1). urmikavya_geet.md holds કૂચગીત. No owner change."
+   ]
+  },
+  "coverage": {
+   "pass": true,
+   "scenes": 7,
+   "topics": 6,
+   "notes": [
+    "Every reading scene became a topic, in printed order. 00_chapter_normalized.md marks seven reading scenes — [[ટેક]], [[કડી 1]] … [[કડી 6]] — and the topics' markers[] read in traversal order yield exactly that sequence: ['[[ટેક]]','[[કડી 1]]'], ['[[કડી 2]]'], ['[[કડી 3]]'], ['[[કડી 4]]'], ['[[કડી 5]]'], ['[[કડી 6]]']. Seven markers claimed by six topics, none swallowed, none reordered. scenes 7 / topics 6 is the identical-ટેક fold described in the fidelity check, not a coverage gap.",
+    "source_lines_00_normalized verified against the file: T1 = 17–25 (ટેક + કડી 1), T2 = 27–31, T3 = 33–37, T4 = 39–43, T5 = 45–49, T6 = 51–55. Each range opens on its declared marker and closes at the end of that block.",
+    "No topic covers text that no marker claims: every string in every topic's markers[] occurs verbatim as a marker line in 00_chapter_normalized.md.",
+    "No સ્વાધ્યાય block became a topic. All thirteen exercise_inventory verbatim_headings in 01_meta.json were cross-checked against all six topic_name values and all six markers[] lists: zero collisions in either direction, and no topic's markers[] contains 'સ્વાધ્યાય'. All thirteen headings were re-read off my own renders of pages 2–4 and match the inventory.",
+    "Pre-reading opener: none exists in this chapter, and its absence is correct rather than a coverage gap. The only pre-reading matter is the blue પ્રવેશપેટી, which Agent 1 marked '(વાદળી પેટી — શિક્ષક માટે; વાચન-દૃશ્ય નથી)' and which agents/02_structure.md and reference/explanation_unit_map.md both name explicitly as teacher-addressed apparatus that feeds key_terms and ભાષા-બોધ, never a topic. The author slot prints only '- સંકલિત' — no કવિ-પરિચય is printed at all at std 6, so no CONCEPT opener topic exists to cut. Cutting one would have failed the 'no topic covers text that no marker claims' gate from the other side.",
+    "No in-text wrap or value-wrap (REVIEW) block is printed in this chapter, so none was expected as a topic. Re-confirmed on the renders: page 4 ends with the green વ્યાકરણપેટી and the રમતપેટી, both chapter-final appended apparatus.",
+    "Apparatus and appended matter correctly left out and recorded in 02_structure.json not_cut_as_topics: [[શીર્ષક]], [[કર્તા-નોંધ]], the blue પ્રવેશપેટી, the [[શબ્દાર્થ]] box, the picture placard 'સ્વચ્છતા ત્યાં પ્રભુતા' (artwork text, never an original_chunk line), the green grammar box 'વાક્યના પ્રકારો વિષે જાણીએ' and the game box 'શોધી જુઓ આવાં નામ.'. Seven entries, each named with its reason. No appended reading matter (no second poem, no 'ગાઈએ' box, no embedded play-text) exists in this chapter, so nothing was folded into the કડી chain."
+   ]
+  },
+  "objectives": {
+   "pass": true,
+   "count": 6,
+   "notes": [
+    "Root objectives[] exists with six entries, O1–O6, ids unique. Every objective carries the full phase-2 shape — objective_id, legacy_id, strand 'L', strand_name 'ભાષા અને સાહિત્ય', objective_text, bloom_level (Capitalised), home_topic_id, anchor[], status 'taught', theme_category null.",
+    "Every home_topic_id resolves to a node in this tree (6/6) and every anchor id resolves to a concept in this tree (7/7 anchor entries across the six objectives — O1 anchors both M1.S1.T1.C1 and M1.S1.T1.C2, which is how the folded ટેક keeps a sound objective anchor for each of the seven reading scenes). Each objective's home topic lists it back in objective_ids.",
+    "strand_to_objective_map covers every legacy_id exactly once: keys L1–L6 map to O1–O6, one-to-one, no gap and no duplicate. Single strand L throughout, as the pack requires for Gujarati literature.",
+    "Every topic carries objective_ids and each id resolves to the root registry; every concept's objective_id is one of its own topic's objective_ids (7/7).",
+    "Text-grounded and chapter-specific: every objective_text quotes or names something printed in its own કડી — 'ચોખ્ખાઈના સરદાર અમે સહુ', 'ચકચકતાં'/'ઝગમગતાં', 'નામોનિશાન', 'ઊંચ-નીચના ભેદ'/'વેર-ઝેર', 'ઝંડો તંદુરસ્તીનો લહેરાશે', 'ઘર ઘર પહોંચે આ પયગામ'. None of the six could be pasted into another chapter, and none states a fact the page does not print.",
+    "Each objective serves the teaching_lens 'ચિત્ર + ભાવ + લય': O1 and O5 ask for the picture, O2 works from the poem's sound-words, O3 asks for the કડી's order of events, O4 for the poem's turn from outside to inside, O6 for the reason behind the last કડી's claim. Every one is checkable — a child can be asked to do it and be right or wrong.",
+    "objective_text length band 12–30 words: 20, 16, 17, 18, 17, 20. Six of six inside the band (band is provisional per VERIFY-4; measured, not widened).",
+    "Ids match reference/naming_conventions.md: hierarchy dotted and continuous with no restart — M1–M2, S1–S4 running across both modules, T1–T6 running across all four segments, C1–C7 chapter-continuous (C1 and C2 both inside M1.S1.T1, which is why the concept number does not equal the topic number here; phase2_contract.md ties that equality to 'one concept per topic' only). Every concept_id is its own topic_id plus .C{c}. Concepts present on every topic (6/6). No 'M1.S1.T1.P1'-style objective code anywhere in the file, and no '.SR{n}' recall id anywhere (regex over the whole file — zero hits)."
+   ]
+  }
+ },
+ "blocking": [],
+ "owner": null,
+ "notes": [
+  "STALE PRIOR OUTPUT OVERWRITTEN — record this. The 04_validation.json and 04_converged.json already on disk when this run started validated a DIFFERENT tree: seven topics T1–T7 with the ટેક as its own topic, seven objectives O1–O7, and sha256 2888248d… over a 26463-byte 02_structure.json. The 02_structure.json now on disk is 27892 bytes, sha256 e9b81f0b07aa…, and carries six topics with the ટેક folded into M1.S1.T1 — the cut agents/02_structure.md actually requires for an identical ટેક. A2 evidently re-cut after that earlier pass. Both files have been rewritten against the current structure. The prior 04_converged.json was also a convergence *record* rather than a copy of the tree, which would have starved Agent 5 (its spec reads 'For each topic in 04_converged.json'); this run writes the full byte-exact copy the spec asks for.",
+  "Uneven segments — note, not a block. M1.S2 and M2.S3 each hold a single topic while M1.S1 and M2.S4 hold two. In a six-કડી song this looks lopsided, but each of those two કડી opens its own scale (ગામ-શહેર and રોગ; the mind and its ભેદ), and folding either into a neighbour would put two different claims in one segment. A2 recorded the same judgement. For Agent 13's eye, not for a re-cut.",
+  "Uneven topic length — note, not a block. M1.S1.T1 carries six printed lines (the two-line ટેક plus the four-line કડી) where every other topic carries four. This is a direct consequence of the identical-ટેક fold and is expected; it is flagged so Agent 12 keeps the explanation inside the word band rather than trying to cover both concepts at full depth.",
+  "Objectives 6 against reading scenes 7 is the same fold seen from the objectives side. O1's anchor[] lists both concepts of M1.S1.T1, so each of the seven scenes still has a sound objective anchor. If a pack owner ever wants the ટેક as a standalone topic, that is a deliberate re-cut (A2 wrote the exact shift it would require in 02_structure.json notes) — it is not a defect of this tree, and Agent 4 does not force it.",
+  "Field-shape flags carried forward from Agent 1, unresolved here by design and travelling to Agent 13: (a) root `genre` is written in Gujarati ('ઊર્મિકાવ્ય-ગીત (કૂચગીત)') while reference/phase2_contract.md shows the emitted root field carrying the roster slug — active_genre_profiles gives the unambiguous slug 'urmikavya_geet' and whoever writes the emitted plan should use it there; (b) `textbook` is written with a comma per profiles/boards/gseb_gujarati.md's cover reading, where phase2_contract.md's inline sample shows a pipe; (c) topic_number = 7 mirroring unit_number is a judgement, not a reading.",
+  "topic_type is 'POEM' on all six topics — the authored enum the intermediate files carry. Agents 14/15 map POEM → 'instructional' at emit; the closed server enum must not appear here and does not.",
+  "original_chunk is empty on all six topics, as agents/02_structure.md requires. Agent 5 fills it from 00_chapter_normalized.md, and three printed anomalies must survive that copy exactly as set, all four re-verified on my own render of page 1: the ellipsis shorthand 'ચોખ્ખાઈના સરદાર અમે સહુ...' is copied as printed and never expanded to the full two-line ટેક; કડી પાંચની ત્રીજી પંક્તિ prints TWO dots ('દેશનું નામ રોશન થાશે.. કેમકે,') where the others print three; કડી છ prints 'કેમકે' with no following comma.",
+  "For Agent 7 and Agent 12, from urmikavya_geet.md §કૂચગીત — the slogan gate bites this chapter hardest. Every explanation's first sentence must open on something in that કડી the child can see or hear (વાળઝૂડ, આંગણ, ઉકરડો, ધોવાતા હાથ, થાળી-વાટકો, માખી-મચ્છર, ઝંડો), never on 'આપણે સ્વચ્છતા રાખવી જોઈએ'; and the political-framing gate forbids naming any government campaign or scheme even though 'દેશભક્તિ' is printed in the last કડી. Neither is an Agent 4 check — recorded so it is not met for the first time at Agent 13.",
+  "figures_of_speech is not decided here and must not be pre-empted: at std 6 no અલંકાર may be named, and [] plus a sentence naming the કડી's પ્રાસ or લય is the correct complete answer (profiles/students/std-6.md §3, reference/no_hallucination_policy.md).",
+  "Provenance: pages re-rendered independently for this pass with pdftoppm -png -r 150 into run-s6c7-04 and all four read; 00_chapter_normalized.md, 01_meta.json's exercise_inventory and 02_structure.json's cut were each checked against the rendered pages rather than taken on trust. chapter_master_id, subject_ref_id and publication_id remain null (VERIFY-2) and the chapter_id's board/medium segments remain provisional (VERIFY-1) — both are honest recorded gaps, neither is an Agent 4 blocking check."
+ ]
+}
