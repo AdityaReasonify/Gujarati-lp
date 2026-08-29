@@ -1,0 +1,53 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "explanation_unit": "એક દૃશ્ય-પ્રસંગ (સંવાદ-ખંડ) — one stage-beat",
+      "genre": "એકાંકી-નાટક",
+      "profile": "natak_ekanki.md",
+      "stage_changes_total": 11,
+      "topic_cap": 12,
+      "topics": 7,
+      "header_topic_id": "M1.S1.T1",
+      "notes": [
+        "Unit matches 01_meta.json. No verse in the unit, so the કડી/દુહો/પદ sub-checks are vacuous. All three (A4) structural gates — header, governed pair, topic inflation — hold; the T6/T7 boundary was examined against the question-and-answer clause and cleared on the profile's own entrance rule (see root notes)."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 12,
+      "topics": 7,
+      "markers_in_source_non_apparatus": 12,
+      "markers_carried_by_topics": 12,
+      "exercise_blocks_cut_as_topics": 0,
+      "notes": [
+        "All 12 non-apparatus markers carried in printed order across 7 topics; four profile-forced merges (header with its scene note, exit direction with its speech, closing direction with its last line) account for every 12→7 reduction. The pre-reading opener is the header topic M1.S1.T1; there is no in-text wrap block in this unit and none was invented. No topic covers text no marker claims."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 7,
+      "notes": [
+        "O1–O7 unique; every home_topic_id and all 12 anchor ids resolve; strand_to_objective_map covers L1–L7 exactly once; every topic's objective_ids resolve and every inline learning_objectives[] mirror is identical to its registry object plus image_examples: []; every objective is chapter-specific and lens-serving; no P-style objective codes."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Marker arithmetic: 00_chapter_normalized.md carries 26 [[…]] markers, of which 12 are non-apparatus reading markers (the blue પ્રવેશપેટી, the શબ્દાર્થ box and the twelve સ્વાધ્યાય markers are apparatus). All 12 are carried by the 7 topics via _source_markers, in printed order, none swallowed, and no topic claims text no marker covers.",
+    "Explanation unit matches 01_meta.json exactly — એક દૃશ્ય-પ્રસંગ (સંવાદ-ખંડ) / one stage-beat. The chapter prints no verse at all (કડી=દુહો=પદ=ટેક=0 in structure_inventory and zero [[કડી/દુહો/પદ]] markers in the transcription), so the કડી-parity, દુહા-sharing and પદ-splitting sub-checks of Check 1 are vacuously satisfied rather than merely untested.",
+    "Topic-inflation gate (A4) holds: 7 topics against a cap of 12 (stage_changes_total 11 + 1 header). The ભામાશા–જગડુ bargaining exchange is kept as ONE topic (T2) with its internal turns in concepts[], exactly as natak_ekanki.md instructs by name.",
+    "Header gate (A4) holds: exactly one topic (M1.S1.T1, topic_type CONCEPT, category introduction) carries the scene header (પ્રવેશ પહેલો) together with the full-paragraph opening direction, and it carries no dialogue. No પાત્રો cast list is printed in this unit, so there is none to drop. NOTE for Agent 13: the SECOND scene header (પ્રવેશ બીજો) and its opening direction (રાણો પ્રતાપ સલુંબરાજી, બીજા પટાવતો ને સામંત ઊભા છે.) are folded into M2.S3.T5 alongside પ્રતાપ's વિદાય speech rather than standing alone. The profile's header rule speaks of the play's opening orientation and is satisfied by T1; the fold is a defensible judgment call, not a gate breach, but it is the one place a reviewer may prefer a different cut.",
+    "Governed-pair gate (A4) — one boundary examined closely and cleared. The M2.S3.T6 / M2.S4.T7 boundary falls between પ્રતાપ's 'કોણ ? ભામાશા ?' and ભામાશા's entrance line, which opens 'હા, મહારાણા પ્રતાપ !'. Read literally this looks like a question separated from its answer. It is NOT scored as a breach: natak_ekanki.md's own explanation-unit section names ભામાશા's arrival as a beat boundary for this very chapter, પ્રતાપ's line is the last link of an offstage-sound guessing chain addressed to સલુંબરાજી (who has just said 'અરે, આ તો ભામાશા !'), and ભામાશા's line is a full self-introducing entrance speech whose governing direction (પ્રવેશ કરી) sits inside it. Cutting by what changes on the stage puts the boundary exactly here. Agents 7 and 12 should still let T7's teaching pick up પ્રતાપ's question so the pairing is not lost across the boundary.",
+    "Other boundaries clear the governed-pair gate outright: no topic opens on a parenthesised direction whose speech sits in the previous topic; '(બંને ઊઠે છે)' stays with ભામાશા's 'ઘોડો તૈયાર કર' speech in T4; '(જગડુ ઊભો થઈ ચાલ્યો જાય છે. એક બીજો મેવાડી પ્રવેશે છે.)' stays with the warning speech it follows in T3; '(દૂરથી ઘોડાના ડાબલા સંભળાય છે.)' opens T6 together with the speech it governs; '(સહુ મેવાડનો જય ગજાવે છે. પડદો પડે છે.)' stays with સલુંબરાજી's closing line in T7.",
+    "સ્વાધ્યાય gate holds: all twelve verbatim_heading entries of 01_meta.json's exercise_inventory were cross-checked against every module_name, segment_name, topic_name and _source_markers entry — zero hits, and no topic carries a સ્વાધ્યાય marker. The teacher-addressed blue પ્રવેશપેટી (printed p. 93) and the chapter-final શબ્દાર્થ box (p. 95) are likewise correctly excluded as topics.",
+    "Objectives: seven, O1–O7, ids unique; every home_topic_id resolves (T1–T7); all twelve anchor ids resolve to real concept nodes; strand_to_objective_map covers L1–L7 exactly once with no orphan and no duplicate; every topic carries objective_ids resolving to the registry; every learning_objectives[] inline mirror is byte-identical to its registry object plus image_examples: []. Each objective runs 21–26 Gujarati words and is anchored on named printed material of THIS chapter (જગડુ's lure, 'શાપિત લક્ષ્મી', 'ઘોડો તૈયાર કર', 'ગંભીર બનીને', સલુંબરાજી's drawn sword, the closing direction) — none could be pasted into another chapter. All seven serve the teaching_lens સંવાદ + રંગસૂચના + વળાંક, and five of the seven turn explicitly on a stage direction.",
+    "Id contract holds: hierarchy dotted and continuous with no restarts — M1–M2, S1–S4 across modules, T1–T7, and the concept counter chapter-continuous C1–C12; concepts present under every topic; zero M1.S1.T1.P1-style objective codes and zero .SR{n} recall ids anywhere in the file; no digit (ASCII or Gujarati) appears in any module, segment, topic or concept display name, in any key_term, or in any objective_text.",
+    "Non-blocking, carried to Agent 13 — uneven weight. M2.S4 holds a single topic (the climax beat) while every other segment holds two; T2 and T7 are markedly longer than T3 and T6, and T6 is a seven-line exchange. A2 flagged both in its own notes and the shape follows the printed play, so neither is scored as a defect.",
+    "Non-blocking, carried forward — concepts[] are structural skeletons at this stage: key_terms is [] and content is [] on all twelve, and original_chunk is '' on all seven topics, left for Agent 5's verbatim transcription and Agents 6/7's authoring. Agent 4 therefore validated the CUT and the ID CONTRACT; the avoid-list items that bite on authored prose (no supplied narrator, no dropped or paraphrased રંગસૂચના, no reassigned speech, no tacked-on બોધ, nothing offstage invented) cannot be checked until that prose exists and remain live for Agent 13.",
+    "No page render was opened. 00_chapter_normalized.md together with 01_meta.json's structure_inventory answered every layout question this pass needed — the two printed પ્રવેશ headers, the eleven રંગસૂચના, the absence of a પાત્રો box.",
+    "Ids are frozen from this pass. 04_converged.json is a convergence record over 02_structure.json (sha256 79b003791c0bad15…), not a copy; downstream agents read 02_structure.json for the structure itself."
+  ]
+}

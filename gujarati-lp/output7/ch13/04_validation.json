@@ -1,0 +1,62 @@
+{
+ "agent": "04_mapping_convergence",
+ "chapter_id": "gseb_eng_gujarati7_ch13",
+ "status": "pass",
+ "checks": {
+  "genre_fidelity": {
+   "pass": true,
+   "explanation_unit_in_01_meta": "એક ઘટના",
+   "genre": "varta",
+   "notes": [
+    "01_meta.json sets explanation_unit 'એક ઘટના' and profiles/genres/varta.md sets the same unit ('One plot beat per topic … follow the story's turns, not paragraph counts'). 02_structure.json cuts ઘટના-wise throughout — no topic is cut at a paragraph or page boundary.",
+    "કડી / દુહો / પદ / ટેક clauses are vacuously satisfied: 00_chapter_normalized.md carries ZERO [[કડી …]], [[દુહો …]], [[પદ …]] markers and zero ટેક occurrences (grep-verified), and 01_meta.json's structure_inventory agrees (kadi 0, duha 0, pad 0, tek_occurrences 0). This is prose end to end; no merge-દુહા / split-પદ hazard exists here.",
+    "Not a mixed chapter: one સ્વરૂપ (વાર્તા, વિજ્ઞાન-કલ્પનકથા sub-form) governs the whole unit, and the sub-form is held inside varta.md without changing the cutting unit. Root genre is correctly the slug 'varta'; the sub-form label stays in 01_meta.json.",
+    "varta.md avoid list checked against every topic_name, segment_name, module_name, concept_name and objective_text present at this stage. (1) no summary-only phrasing — objectives ask for motive and craft, not retelling; (2) no tacked-on બોધ — no 'આ વાર્તા આપણને શીખવે છે…' / 'આપણે પણ … જોઈએ' construction anywhere; (3) no evaluative label applied to a sympathetic character — the father's forgetfulness is never named as ભુલકણો in an objective, and O3 was visibly re-worded away from it; (4) the turn is not spoiled early — no name or objective before M3.S6.T10 mentions the box on the back seat, the mother's instruction, or that the system was already collected; (5) no પૌરાણિક debunking (n/a); (6) no dialect standardising (n/a — no તળપદી લોકકથા register here); (7) not an excerpt, so no invented resolution; (8) attribution is '- સંકલિત', no translator credit to mis-assign.",
+    "varta.md's single-sentence rule was applied correctly, not stretched: M1.S3.T4 is one printed sentence carrying the whole ગૂંચ (the સ્માર્ટ બોર્ડ સિસ્ટમ, the four-hundred-kilometre distance, the noon deadline) and it carries its own [[ઘટના]] marker on the page — 'A single sentence that turns everything is its own topic.'"
+   ]
+  },
+  "coverage": {
+   "pass": true,
+   "scenes": 10,
+   "topics": 10,
+   "modules": 3,
+   "segments": 6,
+   "concepts": 10,
+   "notes": [
+    "Marker-to-topic is exactly 1:1 and in printed order. 00_chapter_normalized.md carries TEN [[ઘટના: …]] reading-scene markers (grep-counted) and 02_structure.json carries TEN topics, each naming its own marker in markers[]; the ten marker strings in cut_summary.reading_markers_in_normalized match the ten printed markers string for string, in sequence. 01_meta.json's structure_inventory.ghatna = 10 agrees.",
+    "Line coverage is complete with no orphan and no overlap. Topic source_lines_00_normalized run 19, 26, 31, 36, 41, (44 + 48–56), 59, 62, 65, 68–82 — every prose line of the reading text between line 19 and line 82 is claimed by exactly one topic. The gaps are only non-text lines: 21 / 28 / 38 are uncaptioned <!-- ચિત્ર --> comments, and 23 / 33 / 46 are [[પૃષ્ઠ …]] boundary markers.",
+    "M2.S4.T6 correctly spans the printed page break (line 44 on printed page 87, resuming at lines 48–56 on printed page 88). It is ONE father-daughter exchange about the ઓટોમેટેડ ગાડી versus the ઍરટૅક્સી; explanation_unit_map.md's rule against cutting mid-exchange is honoured. Page 88's one-sentence dialogue lines against page 87's run-on paragraph are a typesetting difference, not a beat boundary.",
+    "NO સ્વાધ્યાય block became a topic. All thirteen exercise_inventory entries in 01_meta.json were cross-checked, heading by heading, against all ten topic_name values, all ten markers[] entries and all ten source_lines ranges: no match on any axis. Structurally decisive as well — every topic's source lines end at or before line 82, while the first સ્વાધ્યાય heading sits at line 108. 02_structure.json's not_cut_as_topics additionally names the ઘટનાક્રમ block's six sentences as evidence-for-the-arc-never-the-cut, and names the અનુવાદ block's reworded reprint of the પ્રયાણ scene as exercise text rather than an alternative reading of M2.S5.T7.",
+    "No topic covers text that no marker claims: each topic's source lines fall inside its own declared [[ઘટના]] marker's span, and no topic reaches into apparatus (શીર્ષક-પટ્ટી, પ્રવેશપેટી, શબ્દાર્થ, રૂઢિપ્રયોગ, સ્વાધ્યાય). M3.S6.T10 correctly stops at 'નિશ્ચલભાઈ ઍરટૅક્સી માંથી બહાર આવ્યા.' and does not pull the '- સંકલિત' attribution in — that line is printed under the title bar at the head of the chapter, not at the foot of the text, so the last-topic-carries-the-attribution rule does not apply.",
+    "No in-text summary or value wrap is printed in this unit, so no REVIEW topic is expected or present; the story's closing sentence is narrative and sits inside M3.S6.T10."
+   ]
+  },
+  "objectives": {
+   "pass": true,
+   "count": 10,
+   "notes": [
+    "Root objectives[] exists with O1–O10, all objective_id values unique. Every home_topic_id (M1.S1.T1 … M3.S6.T10) resolves to a topic node in this tree, and every anchor[] concept id (M1.S1.T1.C1 … M3.S6.T10.C10) resolves to a concept node in this tree — machine-checked, ten of ten on each.",
+    "strand_to_objective_map covers every legacy_id exactly once: L1→O1 … L10→O10, ten entries, no duplicate, no gap, and the key order matches the objectives[] legacy_id order. Single strand L / ભાષા અને સાહિત્ય throughout, as the pack requires for Gujarati literature.",
+    "Every topic carries objective_ids and each resolves to the root registry; each topic's single concept carries the same objective_id as its topic, so the concept-to-objective link is consistent with the anchor.",
+    "Each objective is text-grounded and chapter-specific — every one names something only this chapter contains (ચક્રનું સ્વપ્ન, અરીસાના સ્ક્રીન પરના સમાચાર, ઓટો બ્રશ, પ્લાનિંગ ડાયરીનું મશીન, સ્માર્ટ બોર્ડ સિસ્ટમ, 'કરી દેવાનું, પપ્પા!', 'ડબ્બો', અવાજથી ખૂલતો દરવાજો, ડેશબોર્ડનાં સેન્સર, બે બાળપણ, પાછલી સીટ પરનું બોક્સ). None could be pasted into another chapter.",
+    "Every objective serves the teaching_lens 'ઘટના + પાત્ર + વળાંક': each pairs a find-it-in-the-text move with a motive or craft move, and O10 is explicitly about the વળાંક. Bloom is split five Understand / five Analyze and is not capped by difficulty.",
+    "Ids match reference/naming_conventions.md. Hierarchy is dotted and chapter-continuous with no restart: M1(S1,S2,S3) M2(S4,S5) M3(S6); topics T1–T10; concepts C1–C10 with the concept number equal to the topic number on every node (M1.S2.T3.C3, M2.S4.T5.C5, M3.S6.T10.C10 — machine-checked). Concepts are present on all ten topics. No M1.S1.T1.P1-style objective code appears anywhere in the file (regex-checked, zero hits); objectives are the O{n} root registry form.",
+    "No numbers in display text: zero digits in any module_name, segment_name, topic_name or concept_name, and zero digits in any objective_text (regex-checked). Numeral words from the story were kept out of names as well."
+   ]
+  }
+ },
+ "blocking": [],
+ "owner": null,
+ "notes": [
+  "NON-BLOCKING — no pre-reading opener topic exists, and that is correct for this chapter rather than an omission. The only pre-reading matter printed is the blue [[પ્રવેશપેટી]] on printed page 85, which reference/explanation_unit_map.md rule 4 classifies as teacher-addressed apparatus that feeds key_terms and ભાષા-બોધ and is explicitly 'not a topic'. The student-facing pre-reading prose that WOULD become a CONCEPT topic (std 10's unlabeled કવિ/લેખક-પરિચય) does not exist at std 7. There is therefore no verbatim Gujarati text available to seed such a topic, and authoring one would have breached global_content_rules.md rule 2. This matches the settled convention across output7: none of ch01–ch15 cuts the પ્રવેશપેટી as a topic.",
+  "NON-BLOCKING — no topic carries topic_category 'resolution'. The printed [[ઘટના]] block binds Sneha's reveal, the father's 'વાહ, મારી વહાલુડી દીકરી!' and the closing narrative sentence into one marker, so M3.S6.T10 carries both the વળાંક and the પરિણામ and is marked 'climax'. Splitting the closing sentence off would have invented an eleventh topic where no marker sits. Recorded for Agent 13 so the absent category reads as a property of the printed cut.",
+  "NON-BLOCKING — topic lengths are markedly uneven: M1.S2.T2 is one long justified paragraph covering the whole automated morning, M3.S6.T10 is a fifteen-line run of one-sentence dialogue turns, and M1.S3.T4 is a single sentence. The lengths follow the printed ઘટના blocks, which is what the unit asks for. Agents 5 and 7 should expect the field-length spread this implies; Agent 13 should read it as fidelity, not sloppiness.",
+  "NON-BLOCKING — six of the ten topics carry topic_category 'core'. Accurate to a story whose middle is a continuous chain of beats, but it gives Agent 13 little category signal in the middle third.",
+  "NON-BLOCKING, carried forward for Agent 5 — the PRINTED-AS-IS list must not be silently normalised at transcription: 'શ્રી - ડી પ્રિન્ટર' (M1.S2.T2), 'જવાળામુખીના' and the same-paragraph pair 'ફલેશ' / 'ફ્લેશ' (M1.S1.T1), the line-broken 'ઍર ટૅક્સી' plus the spaced/solid pairs 'ડેશ બોર્ડ'/'ડેશબોર્ડ' and 'સ્માર્ટ બોર્ડ'/'સ્માર્ટબોર્ડ' (M2.S5.T8), and 'ઍરટૅક્સી માંથી' with a space in M3.S6.T10's closing sentence. None is a topic boundary.",
+  "NON-BLOCKING, provenance — chapter_id and plan_id carry the unverified 'gseb' and 'eng' segments, and chapter_master_id / subject_ref_id are null, per reference/naming_conventions.md VERIFY-1 / VERIFY-2. Agent 4 does not treat these as id-contract failures; they are open verification items owned upstream of upload.",
+  "METHOD — validated against 00_chapter_normalized.md as the authoritative chapter text, with grep and a JSON walk used for every count, id-resolution and regex claim above rather than eyeballing. No PNG render was opened: nothing in these three checks turned on a layout or figure question that the transcription could not answer (the one layout-sensitive item, M2.S4.T6's page-break span, is fully recorded in the transcription's own [[પૃષ્ઠ 88]] marker and line numbering).",
+  "CONTEXT ROUTING — every document this spec cites was supplied or present in the pack: no_hallucination_policy.md, global_content_rules.md, loop_protocol.md, explanation_unit_map.md, naming_conventions.md, phase2_contract.md and profiles/genres/varta.md were all read in full. Nothing was guessed at.",
+  "WRITE PATH — the Write tool refused the shared checkout (bg-session isolation guard). Both declared output files were staged under /tmp and copied into output7/ch13 with cp. Content is byte-identical to what Write would have produced; no other file in the repository was touched.",
+  "Ids are frozen from this pass. 04_converged.json is a convergence record pointing at 02_structure.json by sha256, not a copy of the structure payload — downstream agents read 02_structure.json for structure and 04_converged.json only to confirm convergence."
+ ]
+}

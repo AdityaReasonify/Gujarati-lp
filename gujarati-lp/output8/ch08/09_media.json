@@ -1,0 +1,62 @@
+{
+  "media": [
+    {
+      "topic_id": "M1.S1.T1",
+      "concept_id": "M1.S1.T1.C1",
+      "id": "M1.S1.T1.C1.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "તોફાનમાં ફસાયેલા કિશોરોનો બચાવ",
+      "description": "તોફાની સમુદ્રમાં ઊંધી થયેલી હોડી પાસે નાની નાવડીમાં આઈડા એક કિશોરને હાથ પકડીને ખેંચી લે છે, પાછળ લાઈમ રોકની દીવાદાંડી દેખાય છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M1.S1.T1.C1",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "ચિત્ર હજુ તૈયાર થયું નથી ત્યાં સુધી શિક્ષક આ દૃશ્યનું મૌખિક વર્ણન કરીને બાળકોને તોફાની મોજાં અને હોડી ખેંચવાની ક્ષણ કલ્પવા કહી શકે, જેથી બચાવ-કાર્યની ક્ષણ પહેલાં જ સ્પષ્ટ થાય.",
+      "negative_prompt": "photorealistic faces, anime style, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, Indian village setting, watermark, blurry, cluttered background, anachronistic objects, modern clothing, life jacket, motorboat, posed portrait, ceremonial medal presentation, statue, halo, saintly glow, text banner, caption text",
+      "generation_prompt": "A stormy grey sea off a rocky New England coast in the mid-1800s, choppy whitecapped waves under a heavy overcast sky. A weathered granite lighthouse tower stands on a small rocky islet in the middle distance, its lamp room dark in the daylight storm. A teenage girl with dark hair tied back, wearing a plain high-necked, long-sleeved brown wool dress with sleeves pushed up her forearms, rows a small wooden rowboat hard against the wind, one oar shipped as she leans far out over the gunwale to grip the wrist of a boy struggling in the water beside her, pulling him toward the boat. A short distance away, three more boys in plain shirts and trousers cling to the hull of their own capsized wooden sailboat as waves break over them. Spray flies off the wave crests, the light is dim and grey. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M2.S2.T2",
+      "concept_id": "M2.S2.T2.C3",
+      "id": "M2.S2.T2.C3.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "અંધારી રાતે સૈનિકોનો બચાવ",
+      "description": "અંધારી તોફાની રાત્રે આઈડા હોડી હંકારીને એક સૈનિક તરફ જાય છે, જે એક હાથે પાટિયું પકડીને બીજા હાથે પોતાના બેશુદ્ધ સાથીને પકડી રાખે છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S2.T2.C3",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "ચિત્ર બન્યા પહેલાં શિક્ષક અંધારી રાત અને પાટિયા-સહારે તરતા સૈનિકની ક્ષણ શબ્દોમાં વર્ણવીને બતાવે, જેથી બાળકોનું ધ્યાન બચાવ-કૃત્ય પર જ કેન્દ્રિત રહે, પછીનાં સન્માનો પર નહિ.",
+      "negative_prompt": "photorealistic faces, anime style, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, Indian village setting, watermark, blurry, cluttered background, anachronistic objects, modern clothing, life jacket, motorboat, posed portrait, ceremonial medal presentation, statue, halo, saintly glow, text banner, caption text, daylight, calm sea, medal close-up, president's visit",
+      "generation_prompt": "A moonless, storm-lashed night on dark churning water off a rocky New England coastline in the late 1860s. The low stone outline of a small coastal fort is barely visible on the far shore, lit for an instant by a flash of lightning inside heavy storm clouds. A young woman in her twenties with dark hair soaked and windblown, wearing a plain long dark wool cloak over a simple high-necked dress, rows hard against the waves in a small wooden boat, a lit lantern swinging from its bow and throwing a small circle of light on the black water. Just ahead of her, a young man in a wet dark military uniform clings one-armed to a floating wooden plank while his other arm holds up an unconscious companion in a matching uniform, both faces pale in the lantern light, waves breaking over them. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M3.S3.T3",
+      "concept_id": "M3.S3.T3.C5",
+      "id": "M3.S3.T3.C5.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "બહેનપણીનો છેલ્લો બચાવ",
+      "description": "ઉંમરલાયક બનેલી આઈડા દીવાદાંડી પાસેના ખરબચડા પાણીમાં હોડી હંકારીને પલટી ખાધેલી હોડી પાસે પહોંચેલી પોતાની બહેનપણીને બચાવવા જાય છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M3.S3.T3.C5",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "ચિત્ર તૈયાર થાય ત્યાં સુધી શિક્ષક આઈડાની ઉંમરલાયક છબી અને તેની સ્થિર હિંમત પર ભાર મૂકીને આ દૃશ્ય વર્ણવે, જેથી બાળકોને ખ્યાલ આવે કે વર્ષો પછી પણ તેની કુશળતા એટલી જ અડગ રહી.",
+      "negative_prompt": "photorealistic faces, anime style, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, Indian village setting, watermark, blurry, cluttered background, anachronistic objects, modern clothing, life jacket, motorboat, posed portrait, ceremonial medal presentation, statue, halo, saintly glow, text banner, caption text, young girl, teenage appearance, crowd of onlookers",
+      "generation_prompt": "Late afternoon light over choppy grey-green water beside a weathered granite lighthouse on a small rocky islet on the New England coast, storm clouds breaking up overhead. An elderly woman in her sixties with silver-streaked hair pinned back, wearing a plain long grey wool dress and a dark shawl around her shoulders, rows a small wooden boat firmly and steadily toward another rowboat that has capsized a short distance away, its wooden hull turned up out of the water. A woman in a soaked light-coloured dress clings to the overturned hull, one arm raised toward the approaching boat. The lighthouse tower stands solid and weathered in the background. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    }
+  ],
+  "2d_tool": null,
+  "reuse_report": {
+    "scenes": 3,
+    "reused": 0,
+    "authored": 3,
+    "rejected": []
+  }
+}

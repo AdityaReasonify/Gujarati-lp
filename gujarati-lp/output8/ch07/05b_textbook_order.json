@@ -1,0 +1,13 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch7",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S1.T2",
+    "M1.S1.T3"
+  ],
+  "source": "printed pages 53–58 read off the render (_renders/page-1.png … page-6.png); the poem in full — ટેક, કડી 1, ટેક, કડી 2, ટેક, કડી 3, closing ટેક — is printed on printed page 1 in a single centred column",
+  "notes": [
+    "Equals the logical traversal order of 02_structure.json exactly. Emitted anyway so Agent 15 has an explicit index rather than an assumption, and so its human_confirmation_required flag is raised on a comparison that actually happened.",
+    "Order is the order of the printed teaching text only. Nothing else on printed pages 53–58 enters this list: the intro box, the gloss box, the fourteen numbered exercise blocks (including block 8's embedded second, unfinished wedding song and block 9's cloze card), and the closing discussion box with its table are all excluded. No grammar unit, supplementary-reading piece or pre-next-chapter revision unit falls inside this chapter's printed range."
+  ]
+}

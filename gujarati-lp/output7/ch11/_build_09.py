@@ -26,6 +26,7 @@ GUARDS = ("The two town guards wear plain white tunics, red waist sashes and fol
           "carries a bamboo staff.")
 TOWN = ("a nineteenth-century Gujarati town: low houses roofed with curved clay tiles, raised stone "
         "sitting-platforms running along the house fronts, carved wooden brackets under the upper storeys")
+TOWN_SHORT = "a nineteenth-century Gujarati town of low clay-tiled houses and carved wooden brackets"
 
 NEG_BASE = ("photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari "
             "script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, "
@@ -133,7 +134,7 @@ node(
  "વણિકનો બચાવ",
  "દરબારના ચોકમાં હાથ જોડીને ઊભેલો વણિક એક હાથ લંબાવીને કડિયા તરફ ચીંધે છે, ને હાથમાં થાપી લઈને ઊભેલો કડિયો મોં ખોલીને જોઈ રહે છે.",
  "ચિત્ર બને ત્યાં સુધી ચીંધાતી આંગળી પર ધ્યાન ખેંચો ને પૂછો કે વણિક પોતાના પરથી વાંક કઈ રીતે ખસેડે છે — અહીં ‘ખોડ’ એટલે ભૂલ, વાંક.",
- ("Late morning in the open courtyard where " + TOWN.split(':')[0] + " holds its court of justice: a "
+ ("Late morning in the open courtyard where " + TOWN_SHORT + " holds its court of justice: a "
   "scalloped cloth canopy stretched on painted wooden poles over a whitewashed dais, clay-tile roofs and "
   "carved wooden brackets rising behind, a raised stone sitting-platform along one wall. " + KING +
   " He sits cross-legged on the low cushioned platform, leaning forward with one eyebrow raised. Before "
@@ -194,7 +195,7 @@ node(
   "sprawled asleep against the house wall with his hands folded on his stomach, an empty brass bowl "
   "tipped over beside him and a few crumbs of sweet on an open leaf. Afternoon shadow cuts across the "
   "lane, a clay water pot stand sits by a doorway, and clay-tile roofs close overhead. " + STYLE +
-  "જોતા જોતા એ જડ્યો, જોગી જાડે અંગ,"),
+  "જોતા જોતા એ જડ્યો, જોગી જાડે અંગ, બહુ દિન ખાઈને બન્યો, રાતેમાતે રંગ."),
  NEG_BASE + NEG_DARK,
 )
 
@@ -253,8 +254,9 @@ tool = {
    "of being marked at the end. A card dropped where both its neighbours contradict it slides back to the "
    "left column with a soft shake. When every arrow on the track is green they join into one continuous "
    "line from the fallen wall to the ladder, and the strip replays the chain once from top to bottom, "
-   "lighting each card in turn. Nothing is scored, no answer is ever revealed and the child may re-order "
-   "as often as they like — the feedback is the colour of the arrows, not a verdict. On-screen Gujarati "
+   "lighting each card in turn. Nothing is scored, the strip never fills a slot for the child and never "
+   "shows the finished order on its own, and they may re-order as often as they like — the feedback is "
+   "the colour of the arrows, not a verdict. On-screen Gujarati "
    "instruction, rendered exactly: પંક્તિઓને કાવ્યમાં જે ક્રમે બની તે ક્રમે ગોઠવો. The card text is the "
    "printed verse as the exercise page prints it and is never rewritten into modern Gujarati; the child's "
    "written answer to the block itself stays with the સ્વાધ્યાય deliverable."

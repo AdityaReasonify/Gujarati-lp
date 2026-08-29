@@ -1,0 +1,58 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati7_ch12",
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "explanation_unit_declared": "એક ઘટના",
+      "explanation_unit_used": "એક ઘટના",
+      "notes": [
+        "01_meta.json sets genre વાર્તા (profile varta.md, sub-form ઘરેલુ / સામાજિક વાર્તા) and explanation_unit 'એક ઘટના'; 02_structure.json cuts ઘટના-wise, one plot beat per topic, root genre written as the slug 'varta'. The sub-form moves Language and Media priors only, never the cut — correctly applied.",
+        "Verse-side rules do not arise: 00_chapter_normalized.md carries no [[કડી …]], [[દુહો …]], [[પદ …]] or [[ટેક]] marker, and 01_meta.json's structure_inventory records kadi=0, duha=0, pad=0, tek_occurrences=0. No દુહો merged, no પદ split — vacuously satisfied and confirmed against the transcription, not assumed.",
+        "Not a mixed chapter: active_genre_profiles lists varta.md alone and every reading marker is [[ઘટના: …]].",
+        "varta.md avoid-gate read against the only authored prose this file carries (module/segment/topic/concept names and the eight objective_text strings). (1) No summary-only issue arises — objectives are not explanation. (2) No tacked-on બોધ: no name or objective closes on 'આ વાર્તા આપણને શીખવે છે…' / 'આપણે પણ … જોઈએ'; O8 asks what આનંદી actually received (ઇનામ, માફી વિદ્યાર્થિની, ઉજાણી) and why her joy was greatest — the chapter's own closing sentence, not an authored moral. (3) No evaluative label on a sympathetic character: માણેકલાલ's condition is named only as the page states it, and concept C4 is deliberately worded 'તબિયતને કારણે અટકી ગયેલું પિતાનું દરજીકામ' — 'ગાંડા' is never reused as a descriptor. (4) Turn not spoiled early: topic_category 'climax' sits on M3.S5.T7 and no earlier topic name, concept name or objective_text names the return of the note, the two rupees received, the fee waiver or the ઉજાણી. (5)/(6) પૌરાણિક and લોકકથા gates do not arise. (7) Not an excerpt — the story is complete on the page. (8) No translator credit is printed.",
+        "The prayer sequence is held as the page holds it: C9 carries 'નક્કી આ નોટ ભગવાને જ મૂકી હશે !' and C10 carries આનંદી's own revision 'ખરેખર તો એ કોઈની જ પડી ગઈ હશે !', in that order — neither endorsed nor debunked."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 8,
+      "topics": 8,
+      "notes": [
+        "Eight [[ઘટના: …]] reading-scene markers in 00_chapter_normalized.md; eight topics, one marker each, in printed order (M1.S1.T1 → M3.S6.T8). Verified by parsing both files, not by reading the cut_summary.",
+        "source_lines_00_normalized spans are contiguous and exhaustive across the reading text: 8-9, 11-14, 16-17, 19-20, 22-23, 25-26, 28-29, 31-32. Every line of the story between the first marker and the last is claimed by exactly one topic, and no topic reaches past line 32 into the [[શબ્દાર્થ]] / [[રૂઢિપ્રયોગ]] / સ્વાધ્યાય region.",
+        "The unmarked one-line printed paragraph at line 14 ('આનંદીની બા કદી ધમકાવીને કામે બેસાડતી…') sits inside the span of the second marker and is held in M1.S2.T2 — a descriptive line joining the beat it belongs to, per varta.md. It is not text no marker claims.",
+        "No સ્વાધ્યાય block became a topic. All sixteen exercise_inventory verbatim_headings were cross-checked against all eight topic_name values, all fifteen concept_name values and all markers[] entries: zero matches. Two headings ('વાતચીત' and 'નીચેનાં હકારવાચક વાક્યોનું નકારવાચક વાક્યોમાં રૂપાંતર કરો :') appear in 02_structure.json only inside the not_cut_as_topics prose that records their exclusion — provenance text, not a cut.",
+        "[[પ્રવેશપેટી]], [[શબ્દાર્થ]], [[રૂઢિપ્રયોગ]] and [[વ્યાકરણપેટી: …]] are all listed in not_cut_as_topics and none became a topic — correct."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 8,
+      "notes": [
+        "Root objectives[] holds O1–O8, ids unique, each with legacy_id L1–L8, strand 'L', strand_name 'ભાષા અને સાહિત્ય', bloom_level capitalised (Understand ×3, Analyze ×4, Evaluate ×1), status 'taught', theme_category null.",
+        "strand_to_objective_map covers every legacy_id exactly once and each L{n} maps to its own O{n}; no legacy_id is unmapped and none appears twice.",
+        "Every home_topic_id resolves to a topic in this tree and every anchor[] id resolves to a concept that lives under that same home topic — checked id by id.",
+        "Every topic carries objective_ids and each resolves to the registry; each of the eight topics points at its own objective.",
+        "Each objective is text-grounded and chapter-specific: અવંતિકાબહેનની સૂચનાઓ અને પડી ગયેલું મોઢું (O1), છોડી દીધેલું સીવણ (O2), બાનાં કામ અને 'કાંઈ નહીં બા' (O3), દીનાનાથ પાસેની બે રૂપિયાની માગણી (O4), ખુરશી નીચેની નોટ (O5), નળ પરના સવાલો (O6), મંગુબાઈની નોટ અને આંખમાં આવેલાં આંસુ (O7), ઇનામ-માફી-ઉજાણી (O8). Each was matched to a printed line in 00_chapter_normalized.md; none could be pasted into another chapter, and each serves the lens ઘટના + પાત્ર + વળાંક.",
+        "Objective texts run 20–22 Gujarati words — inside the 12–30 band of reference/phase2_contract.md.",
+        "Id contract holds: modules M1–M3, segments M1.S1 … M3.S6 numbered continuously S1–S6, topics T1–T8 continuous across segments, concepts C1–C15 chapter-continuous and never restarting inside a topic (M1.S2.T3 carries C5/C6, not C1/C2). Every concept_id is prefixed by its own topic_id. No M1.S1.T1.P1-style objective code anywhere in the file, and no .SR{n} recall id. No module, segment, topic or concept name contains a digit."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "PRE-READING OPENER — checked and deliberately not blocked. agents/04_mapping_convergence.md Check 2 and loop_protocol.md both say 'the pre-reading opener is a topic'. This std-7 chapter's only pre-reading matter is the [[પ્રવેશપેટી]] blue box, which is teacher-addressed ('શિક્ષકે વિદ્યાર્થીઓ પાસે … કહેવડાવવા.'). agents/02_structure.md states both rules in adjacent paragraphs and resolves them itself: the sentence after 'the pre-reading opener is a topic' names the intro box as apparatus that 'is not a topic', and explanation_unit_map.md rule 4 plus global_content_rules.md agree, reserving the pre-reading CONCEPT topic for std 10's student-facing કવિ/લેખક-પરિચય prose. This chapter prints no student-facing pre-reading prose, so a zero-count pre-reading topic is the correct answer here and cutting the blue box as a topic would itself be the hard fail. Recorded so a human can see the check was made, not skipped.",
+    "No in-text wrap (REVIEW) topic exists, and none should: the chapter's closing sentence ('…તે આનંદી જેટલો આનંદ બીજા કોઈને આવ્યો હશે ખરો !') is the last sentence of the final ઘટના, not a separately printed summary or value block. It is held inside M3.S6.T8.",
+    "original_chunk is empty ('') in all eight topics. This is correct at this stage, not a gap: agents/02_structure.md states 'original_chunk stays empty; Agent 5 fills it.' Coverage was therefore validated against markers[] and source_lines_00_normalized rather than against chunk text — recorded so the method is visible. Agent 5 must fill all eight from 00_chapter_normalized.md lines 8-32, and A2's note that M1.S2.T2 takes lines 12-14 with the printed paragraph break preserved stands.",
+    "Topic length is uneven — M2.S4.T5 (ખુરશી નીચે પડેલી નોટ, one concept, ~287 chars) is roughly a third of M2.S3.T4. A2 flagged this and declined to merge it, because the chapter's two-step (the note taken as an answered prayer, then re-read as somebody's loss) collapses if T5 joins either neighbour. Read as intended; note only, per the spec's 'notes are not blocks'.",
+    "Two concepts per topic in seven of eight topics, one in M2.S4.T5 — within the contract's allowance ('a topic doing two distinct things may have two'); no topic reaches three.",
+    "SPOILER GATE, carried forward and still open for Agents 12 and 13: at this stage only names and objectives exist and all of them keep the gate. When explanation, summary and recall prose are authored, no topic before M3.S5.T7 (that is T1, T2, T3, T4, T5 and T6) may state that the note was returned, that આનંદી received two rupees, that her fee was waived, or that she went on the ઉજાણી.",
+    "SENSITIVITY, carried forward and binding downstream: the father's mental illness is on the page in period phrasing and the verbatim keeps it, but no authored field may reuse 'ગાંડા' as a descriptor; sustained poverty is the family's situation, never their character; and the ભગવાન/નોટ question is guided, never endorsed or debunked.",
+    "Std-7 craft ceiling holds: no અલંકાર, છંદ or સાહિત્યપ્રકાર label appears in any objective. The chapter is prose, so figures_of_speech stays [] and rhyme_scheme does not arise downstream — a complete answer, not a gap.",
+    "No PNG render was opened for this pass. 00_chapter_normalized.md answered every question the three checks needed, including the layout question (three printed paragraphs, the eight ઘટના markers falling inside the third at sentence boundaries), which A1's extraction_notes already record explicitly.",
+    "Root ids gseb_eng_gujarati7_ch12 / _v1 carry the pack's PROVISIONAL board and medium segments (VERIFY-1) and chapter_master_id / publication_id are still unresolved (VERIFY-2). Out of scope for these three checks and not blocking here — flagged so it is not mistaken for verified."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch5",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S2.T2",
+    "M1.S3.T3",
+    "M2.S4.T4",
+    "M2.S5.T5",
+    "M2.S6.T6"
+  ],
+  "source": "printed pages 36-39 read off the render (_renders/page-01.png ... page-04.png); the essay's six paragraphs run top-to-bottom in a single unbroken column, ending just before the [[શબ્દાર્થ]] box at the foot of printed page 39 (_renders/page-04.png)",
+  "notes": [
+    "Equals the logical traversal order of 02_structure.json / 05_with_content.json exactly. Emitted anyway so Agent 15 has an explicit index rather than an assumption, and so its human_confirmation_required flag is raised on a comparison that actually happened.",
+    "Order is the order of the teaching text only. Nothing else on printed pages 36-45 enters this list: the [[પ્રવેશપેટી]] intro box, the [[શબ્દાર્થ]] box, the [[રૂઢિપ્રયોગ]] pre-block, all 17 numbered સ્વાધ્યાય blocks, and the closing [[ચર્ચા-વિચારણા]] box are all excluded, per 02_structure.json's markers_deliberately_not_cut_as_topics. No વ્યાકરણ એકમ, પૂરકવાચન piece or 'આગળ વધતાં પહેલાં' revision unit falls inside this chapter's printed range.",
+    "The chapter carries no verse structure and no printed [[ઘટના: ...]] event markers, so the six topics correspond one-to-one with the essay's six printed paragraphs (ફકરો 1-6), except that ફકરો 2 splits between M1.S1.T1's tail and M1.S2.T2 in full - see 05_with_content.json's marker_accounting block for the paragraph-to-topic mapping."
+  ]
+}

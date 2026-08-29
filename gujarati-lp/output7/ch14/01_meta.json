@@ -1,0 +1,143 @@
+{
+ "board": "gseb",
+ "grade": 7,
+ "subject": "Gujarati",
+ "level": "standard",
+ "version": 1,
+ "chapter_id": "gseb_eng_gujarati7_ch14",
+ "plan_id": "gseb_eng_gujarati7_ch14_v1",
+ "chapter_name": "વીર ભામાશા",
+ "unit_title": "વીર ભામાશા",
+ "unit_number": 14,
+ "topic_number": 1,
+ "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 7",
+ "textbook_url": "../Textbooks-pdf/std-7/ch-14-vir-bhamasha.pdf",
+ "textbook_pages": "93–98",
+ "chapter_master_id": null,
+ "subject_ref_id": null,
+ "genre": "એકાંકી-નાટક",
+ "genre_signals": {
+  "structure": "ગદ્ય-સંવાદ, પદ્ય નહીં. ડાબી બાજુ પાત્રનું નામ અને ગુરુવિરામ, પછી એ પાત્રની ઉક્તિ; ઉક્તિ ફરતે અવતરણચિહ્નો નથી અને કોઈ નિવેદક નથી. કેન્દ્રમાં છપાયેલાં બે દૃશ્ય-શીર્ષક '(પ્રવેશ પહેલો)' અને '(પ્રવેશ બીજો)'; દરેક પ્રવેશના આરંભે આખા ફકરાની રંગસૂચના — '(મેવાડના શાહસોદાગર ભામાશાની પેઢી...)' અને '(રાણો પ્રતાપ સલુંબરાજી, બીજા પટાવતો ને સામંત ઊભા છે.)'; ઉક્તિની અંદર-બહાર કૌંસમાં રંગસૂચના — '(હસીને)', '(ગંભીર બનીને)', '(તલવાર ખેંચી)', '(પ્રવેશ કરી)', '(હર્ષથી)'; અંતે '(સહુ મેવાડનો જય ગજાવે છે. પડદો પડે છે.)'. પાત્રો-યાદીનું ખાનું છપાયું નથી. કુલ અગિયાર રંગસૂચના, ઉપરાંત બે પ્રવેશ-શીર્ષક.",
+  "theme": "વતનપ્રેમ અને દાન. શાપિત લક્ષ્મી સામે પવિત્ર સાધનોથી આવેલી લક્ષ્મી; મેવાડની મુક્તિ માટે ભામાશા પોતાનો કોઠાર ખોલી દે છે.",
+  "exercises": "'આ એકમમાં તમને કયું પાત્ર સૌથી વધારે ગમ્યું ? કેમ ?' અને 'મને ઓળખો :' — પાત્ર-કેન્દ્રી. 'નીચે આપેલાં ચિહ્નોવાળું એક એક વાક્ય આ પાઠમાંથી શોધીને લખો :' — આખું કામ ઉક્તિનાં વિરામચિહ્નો પર. 'જો તમે ભામાશાની જગ્યાએ હો તો...' અને 'જો તમે રાણાપ્રતાપની જગ્યાએ હો તો...' — પાત્રમાં ઊતરીને લખવાનું. 'ખાલી જગ્યામાં યોગ્ય શબ્દજૂથ મૂકી ફકરો પૂર્ણ કરો.' — નાટકની ચરમ ઉક્તિઓ પર જ. પ્રાસ, કડી, ટેક કે ગાન વિશે એક પણ પ્રશ્ન નથી; રૂઢિપ્રયોગનું ભારણ ભારે (જોડકાં અને ફકરા-વાચન બંનેમાં).",
+  "purpose": "મંચ પર ભજવવા માટેનું નાટક. પ્રવેશપેટીની પોતાની ઓળખ: 'આ નાટકમાં દાનવીર ભામાશાના વતનપ્રેમની વાત વણી લેવામાં આવી છે... આ એકમના સંવાદ વિદ્યાર્થીઓ પાસે વંચાવવા. સંવાદોનાં વાક્યોનો લય (આરોહ-અવરોહ) સ્પષ્ટ કરવો. આ નાટક શાળાના સાંસ્કૃતિક કાર્યક્રમમાં રજૂ કરી શકાય.' — પેટી 'નાટક' શબ્દ બે વાર વાપરે છે."
+ },
+ "genre_confidence": "high",
+ "active_genre_profiles": [
+  "natak_ekanki.md"
+ ],
+ "teaching_lens": "સંવાદ + રંગસૂચના + વળાંક",
+ "guiding_question": "ભામાશા જગડુના સોદાની ના પાડે છે, ને એ જ ભામાશા પોતાનો આખો કોઠાર રાણા પ્રતાપ સામે ખોલી દે છે — આ પલટો સંવાદ અને રંગસૂચના દ્વારા પ્રેક્ષક સુધી કેવી રીતે પહોંચે છે ?",
+ "explanation_unit": "એક દૃશ્ય-પ્રસંગ (સંવાદ-ખંડ)",
+ "structure_inventory": {
+  "kadi": 0,
+  "duha": 0,
+  "pad": 0,
+  "ghatna": 11,
+  "tek_occurrences": 0,
+  "pravesh_headers": 2,
+  "rangsuchna": 11,
+  "parenthesised_units_total_incl_pravesh_headers": 13,
+  "patro_box_printed": false,
+  "speaker_labels_as_printed": [
+   "ભામાશા",
+   "જગડુ",
+   "ઉદો",
+   "પ્રતાપ",
+   "સલુંબરાજી",
+   "એક પટાવત",
+   "એક સામંત",
+   "પટાવત"
+  ],
+  "distinct_characters": 7,
+  "stage_change_breakdown": {
+   "entrances": 2,
+   "exits": 2,
+   "offstage_sound_arrivals": 1,
+   "pravesh_headers": 2,
+   "direction_marked_turns": 4
+  },
+  "stage_changes_total": 11,
+  "max_topics_incl_header_topic": 12,
+  "note": "ghatna here counts printed stage-change events, not authored beats — cutting into beats is Agent 2's decision. Entrances are ઉદો ('એક બીજો મેવાડી પ્રવેશે છે.') and ભામાશા ('(પ્રવેશ કરી)'); exits are જગડુ ('જગડુ ઊભો થઈ ચાલ્યો જાય છે.') and '(બંને ઊઠે છે)'; the sound arrival is '(દૂરથી ઘોડાના ડાબલા સંભળાય છે.)'; direction_marked_turns excludes the entrance/exit directions already counted and covers (હસીને), (ગંભીર બનીને), (તલવાર ખેંચી), (હર્ષથી). No verse anywhere in the unit, hence the zeroed કડી/દુહો/પદ/ટેક counts."
+ },
+ "exercise_inventory": [
+  {
+   "group": "વાતચીત",
+   "items": 7,
+   "verbatim_heading": "વાતચીત"
+  },
+  {
+   "group": "પ્રશ્નોત્તર",
+   "items": 14,
+   "verbatim_heading": "પ્રશ્નોના જવાબ લખો."
+  },
+  {
+   "group": "જોડકાં",
+   "items": 6,
+   "verbatim_heading": "જોડકાં જોડો :"
+  },
+  {
+   "group": "પાત્ર-ઓળખ",
+   "items": 6,
+   "verbatim_heading": "મને ઓળખો :"
+  },
+  {
+   "group": "વિરામચિહ્ન-શોધ",
+   "items": 7,
+   "verbatim_heading": "નીચે આપેલાં ચિહ્નોવાળું એક એક વાક્ય આ પાઠમાંથી શોધીને લખો :"
+  },
+  {
+   "group": "ફકરા-વાચન",
+   "items": 5,
+   "verbatim_heading": "નીચે આપેલો ફકરો વાંચીને સૂચના મુજબ લખો."
+  },
+  {
+   "group": "લેખન",
+   "items": 5,
+   "verbatim_heading": "નીચે આપેલા વિષય પર ત્રણથી ચાર વાક્યો લખો :"
+  },
+  {
+   "group": "શબ્દક્ષેત્ર",
+   "items": 3,
+   "verbatim_heading": "નીચે આપેલા શબ્દ સાથે જોડાયેલા શબ્દો લખો :"
+  },
+  {
+   "group": "ખાલી જગ્યા",
+   "items": 8,
+   "verbatim_heading": "ખાલી જગ્યામાં યોગ્ય શબ્દજૂથ મૂકી ફકરો પૂર્ણ કરો."
+  },
+  {
+   "group": "પ્રવૃત્તિ",
+   "items": 1,
+   "verbatim_heading": "હલ્દીઘાટીના યુદ્ધ વિશે માહિતી મેળવી રજૂ કરો."
+  },
+  {
+   "group": "પ્રવૃત્તિ",
+   "items": 1,
+   "verbatim_heading": "તમારી શાળા કે તમારી આસપાસ કોઈ પણ વ્યક્તિએ જો કોઈ પણ પ્રકારનું દાન કે મદદ કરી હોય તેની યાદી બનાવો."
+  },
+  {
+   "group": "વિચાર-પ્રશ્ન",
+   "items": 1,
+   "verbatim_heading": "હાલમાં પણ કોઈ પણ પ્રકારનું દાન આપનાર વ્યક્તિને ભામાશાના નામથી સંબોધિત શા માટે કરવામાં આવતી હશે ?"
+  }
+ ],
+ "extraction_notes": [
+  "Chapter identity proved from page 1 of the render, not from the filename or the manifest: the printed number box reads 14, the title વીર ભામાશા, the author line '- દુર્ગેશ શુક્લ'. The printed folios read 93, 94, 95, 96, 97, 98 off the page footers, so textbook_pages is 93–98.",
+  "Renders were supplied pre-rasterised at 1300×1831 px (about 150 dpi) and, per this run's constitution, pdftoppm was NOT re-run. The double-render cross-check was therefore performed as a magnified re-read: every ધ/ઘ, ળ/લ, શ/ષ/સ, ઉ/ઊ and અનુસ્વાર-critical word was re-transcribed from 5x-10x LANCZOS crops of the same PNGs. Resolved this way: ધારે (not ઘારે) in 'તું ભામાશાને શું ધારે છે ?'; ઊગતા / ઊભો / ઊઠે / ઊભી carry ઊ while the character ઉદો / ઉદા carries ઉ; ઘોડા and ઘોડો carry ઘ; રાવળ carries ળ; પ્રાપ્તિનાં is correct — its પ્ત ligature reads as a મ-like glyph at page scale and is confirmed by exercise 2.5, which reprints the word. RESIDUAL RISK: no genuinely independent higher-dpi render exists for this unit, so a second opinion on the finest માત્રા detail was not available.",
+  "A QR badge printed beside the title carries the code P1G9H7. It was read around and is never transcribed into the text.",
+  "Genre: the blue intro box names the form itself and uses the word નાટક twice ('આ નાટકમાં...', 'આ નાટક શાળાના સાંસ્કૃતિક કાર્યક્રમમાં રજૂ કરી શકાય.'). The printed પ્રવેશ headers, the eleven રંગસૂચના and the closing '(સહુ મેવાડનો જય ગજાવે છે. પડદો પડે છે.)' place it in the એકાંકી family; there is no printed પાત્રો cast list. All four diagnosis signals agree, so genre_confidence is high; the near-miss test for સંવાદ (no પાત્રો box AND no પ્રવેશ AND no પડદો) fails here on two of its three legs, so natak_ekanki.md is dominant and no second profile is loaded.",
+  "The corpus prior (reference/corpus/std-7_inventory.md, Ch 14) records the same genre. Two of its spellings are corrected by the rendered page and the page wins: the prior writes the speaker as સલુંબરાજ, the page prints સલુંબરાજી at every occurrence (pp. 94, 95 and exercise 9); the prior writes મુક્ટમણિ, the page prints મુકુટમણિ both in ભામાશા's speech and in the શબ્દાર્થ box.",
+  "Printed irregularities kept exactly as printed, not corrected: 'મેવાડની ભૂમિ!' and 'જરૂર!' are set with no space before the exclamation while the rest of the unit spaces it; '...અહીંથી દૂર ઘોડા ખેલાવી જશું તક મળશે તો ફરી આવીશું...' carries no full stop between જશું and તક; ઉદો's speech says ખવરાવવા while પ્રતાપ's says ખવડાવવા; 'હી હી હી ....' is printed with four dots.",
+  "Exercise 6 reprints ભામાશા's and ઉદો's speeches from p. 94 with two punctuation differences from the body text: it prints 'ઝંખવાશે ઉદા !' where the body prints 'ઝંખવાશે, ઉદા !', and 'આવ્યો નહિ તો' where the body prints 'આવ્યો, નહિ તો'. Each is transcribed as printed in its own place; neither was harmonised.",
+  "The same speaker is labelled 'એક પટાવત' on printed p. 94 and 'પટાવત' on p. 95. Both label forms are kept as printed; distinct_characters counts them as one person.",
+  "Apparatus, NOT exercises, and therefore deliberately absent from exercise_inventory: the teacher-addressed blue intro box (p. 93) and the chapter-final શબ્દાર્થ gloss box (p. 95, about forty entries with the idioms folded in and no separate રૂઢિપ્રયોગ block). Both are transcribed in 00_chapter_normalized.md under their own markers so Agents 6 and 10 can use them, and neither may be cut as a teaching topic.",
+  "This unit prints no સ્વાધ્યાય banner (the std 6-8 convention — numbered pink headings start directly under the શબ્દાર્થ box), no chapter-final green grammar box, no ભાષા-અભિવ્યક્તિ block, no ચર્ચા-વિચારણા box and no શિક્ષકની ભૂમિકા block. The block numbering runs 1 to 12 unbroken, with no skipped or repeated number.",
+  "Block 9 is a single cloze passage over the climax speeches: eight printed blanks against a bank of eight word-groups. Its items count is the blank count, 8.",
+  "Blocks 10, 11 and 12 are each one printed instruction with no sub-items, so items is 1 for each. Block 3 is a 6x6 two-column table printed deliberately unmatched, counted as 6 pairs.",
+  "chapter_master_id and subject_ref_id stay null — no real GSEB record has been confirmed and neither is carried over from the Hindi pack. textbook_url is the local path string; there is no hosted URL for this source, which Agent 11 should record as an honest gap.",
+  "chapter_id and plan_id use the provisional 'gseb_eng_...' form from reference/naming_conventions.md. The board and medium segments are UNVERIFIED until VERIFY-1; the medium slot is the medium of instruction, not the subject language.",
+  "Media note for Agent 9: printed p. 93 carries one full-colour illustration filling the lower half — a large bust of ભામાશા (red-and-gold pagdi, white beard, jewelled necklace) at left, and at right the પેઢી interior with મુનીમો at low desks and a seated figure on a gaddi with a bolster. No other illustration appears in the unit."
+ ]
+}

@@ -1,0 +1,27 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S2.T3",
+      "areas": ["ક્ષેત્ર"],
+      "caution": "The line 'આપણા લોકોએ તેને બગાડી પણ છે' (about the પટવાઓની હવેલીઓ) could be turned into a blanket complaint about 'people today' or a particular community not caring for heritage, instead of the author's own regret at seeing fine કોતરણી neglected.",
+      "guidance": "Keep the explanation on the architecture itself — the ઝરૂખા, બારી-દરવાજા કોતરણી, હવેલીઓ as living craft the author admires — and let the author's દુ:ખ about damage stay his personal observation on upkeep, not a lesson blaming any group.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "areas": ["ક્ષેત્ર"],
+      "caution": "રાજસ્થાની આતિથ્ય, રાવણહથ્થો/સારંગી and 'માંડ'ના સ્વરો could be flattened into 'quaint desert folk' framing rather than a living hospitality and music tradition.",
+      "guidance": "The real_life_example should describe the music and welcome the way the text does — people singing 'કેસરિયા બાલમા, પધારો મોરે દેશ' with their own instruments — as a tradition with its own craft, not a curiosity for tourists.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S4.T6",
+      "areas": ["જાતિ-ભૂમિકા"],
+      "caution": "The passage on રાજસ્થાની સ્ત્રી dwells on physical appearance ('કાઠું', 'સુંદર', 'આંખો અત્યંત આકર્ષક') and ranks it against 'બીજા રાજ્યની સ્ત્રીઓ'; the explanation or real_life_example could repeat this as a lesson on how women should look or as a comparison between regions' women.",
+      "guidance": "Keep the teaching on the colourful રંગબેરંગી કપડાં, the ગાવું-નૃત્ય and the ઠસ્સો as cultural expression the author observed on his trip — do not carry forward the body-appearance comparison ('બીજા રાજ્યની સ્ત્રીઓથી જુદી', 'સુંદર', 'આકર્ષક આંખો') into the explanation or a recall question.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [],
+  "none_found": false
+}

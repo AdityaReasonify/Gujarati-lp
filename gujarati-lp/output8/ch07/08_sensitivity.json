@@ -1,0 +1,32 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "areas": ["ક્ષેત્ર", "જાતિ-ભૂમિકા"],
+      "caution": "The explanation could turn 'માણેકથંભ રોપિયો' and 'પહેલી કંકોતરી કાકા ઘેર મોકલો' into a curiosity ('this is what they used to do') instead of a living family custom, and could let 'મારી બેની નાગરવેલનો છોડ, જેની જગમાં મળે નહીં જોડ' read as if a girl's worth is her beauty or that marriage is her defining role.",
+      "guidance": "Keep the explanation inside the song's own warmth — a family readying kankotari and the maneksthambh for a daughter's wedding, sending word first to કાકા in the same breath of joy; treat 'નાગરવેલનો છોડ' as the song's affectionate image for બેનીબા, not a standard for how girls should be judged, and let the real_life_example anchor in a child's own family sending wedding cards, not in the beauty comparison.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "areas": ["ક્ષેત્ર"],
+      "caution": "The explanation of 'મામા હોંશે મોસાળું લઈ આવો' could flatten મોસાળું into a generic 'gift' and lose the specific મોસાળ (mother's side of the family) custom the word names.",
+      "guidance": "Explain મોસાળું as the maternal-side family's own customary gift at this wedding round, on its own terms, the way the chapter's શબ્દાર્થ box states it, without adding cost or obligation the text does not mention.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M1.S1.T3",
+      "areas": ["ક્ષેત્ર", "જાતિ-ભૂમિકા"],
+      "caution": "'માસી હોંશે ભાણેજ પરણાવો' could be explained in a way that makes marrying off a niece sound like a duty or a family obligation rather than the song's ઉમંગ (joy).",
+      "guidance": "Keep the explanation on the માસીની હોંશ (eager joy) at being invited into the same family celebration as કાકા and મામા were, mirroring the song's own repeated pattern, and let the recall question ask about the round's kin-word (ભાણેજ, માસી) rather than about marriage as an expectation.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "ક્ષેત્ર",
+      "guidance": "This is a printed Gujarati લગ્નગીત: teach the કંકોતરી-sending, માણેકથંભ-rોપવું and મોસાળું customs as a regional wedding tradition with its own logic and warmth — never as 'even today people still do this' — and keep the kinship words (કાકા, મામા, માસી, ભત્રીજ, ભાણેજ) exact rather than generalised to 'relatives'."
+    }
+  ],
+  "none_found": false
+}

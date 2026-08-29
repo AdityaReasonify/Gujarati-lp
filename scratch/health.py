@@ -21,7 +21,17 @@ def workflows_root():
 # Bars = 1.25x the MEASURED maximum per stage, from 25-146 completed agents each
 # (re-measured 2026-08-23). Earlier bars came from 1-8 samples and were badly wrong:
 # A16's real median 12.3m exceeded its old 10m bar, so every A16 was doomed to alert.
-BARS = {'01': 100, '02': 35, '04': 30, '05': 40, '07': 40, '08': 10, '09': 30, '10': 85, '11': 10, '12': 130, '13': 30, '14': 10, '15': 10, '16': 50}
+# Bars = 1.5x the longest SILENT GAP ever observed inside a SUCCESSFULLY COMPLETED agent
+# of that stage, measured across 611 finished agents (2026-08-24). This is stricter and
+# better-grounded than duration-based bars: A12 drops 130m->58m, A10 85m->52m, A13
+# 30m->10m, A11 15m->5m. A healthy agent has never exceeded these; anything past one is
+# doing something no successful run of that stage has done.
+BARS = {'01': 25, '02': 20, '04': 12, '05': 18, '07': 32, '08': 8, '09': 12, '10': 52, '11': 5, '12': 58, '13': 10, '14': 5, '15': 5, '16': 18}
+# Median TOTAL duration per stage, measured across completed agents. Shown so progress
+# reads as "23m into a 44m job" instead of an idle counter that means nothing on its own.
+MEDIAN = {"01":12.6,"02":14.1,"04":6.9,"05":18.4,"07":19.6,"08":1.8,"09":9.0,
+          "10":36.1,"11":0.7,"12":43.9,"13":11.8,"14":7.0,"15":1.4,"16":12.3}
+
 NAMES = {"01":"ingestion","02":"structure","04":"convergence","05":"verbatim","07":"pitfalls",
          "08":"sensitivity","09":"media","10":"solutions","11":"pagination","12":"authoring",
          "13":"QC","14":"logical","15":"textbook","16":"publication"}
@@ -72,15 +82,28 @@ def main():
             sm = re.search(rb"std (\d+)", head); std = sm.group(1).decode() if sm else "?"
             n429 = len(re.findall(rb"429|rate.?limit", tail, re.I))
             rows.append((std, ch, stage, (now-born)/60, idle, BARS.get(stage,10), n429, st.st_size/1e6))
-        stalled = "   *** SHARD STALLED ***" if (rows and jage >= 20) else ""
+        # The journal only moves when an agent COMPLETES, so it goes stale whenever every
+        # remaining agent is inside a long generation. Only call the run stalled if NOTHING
+        # has written recently either — otherwise it cries wolf on a healthy endgame.
+        # every live agent past ITS OWN bar — a flat threshold fires on healthy A12/A10
+        all_past = bool(rows) and all(r[4] >= r[5] for r in rows)
+        stalled = "   *** SHARD STALLED ***" if (rows and jage >= 20 and all_past) else ""
         print(f"\n{r}   journal idle {jage:.1f}m{stalled}")
         for std, ch, stage, el, idle, bar, n429, mb in sorted(rows, key=lambda x: -x[4]):
             total += 1
             ok = idle < bar
             if not ok: bad += 1
-            note = "healthy" if ok else "*** PAST ITS BAR ***"
+            med = MEDIAN.get(stage)
+            if not ok:
+                note = "*** PAST ITS BAR — investigate ***"
+            elif med and el < med * 0.75:
+                note = f"working ({el/med*100:.0f}% of typical {med:.0f}m)"
+            elif med and el < med * 1.5:
+                note = f"due soon ({el/med*100:.0f}% of typical {med:.0f}m)"
+            else:
+                note = f"long but OK ({el/med*100:.0f}% of typical {med:.0f}m)" if med else "healthy"
             print(f"  std{std} ch{ch:<3} A{stage} {NAMES.get(stage,'setup'):<13}"
-                  f"elapsed {el:6.1f}m  idle {idle:6.1f}m / {bar:3.0f}m  {mb:5.1f}MB  {note}"
+                  f"ran {el:6.1f}m  quiet {idle:5.1f}m/{bar:3.0f}m  {mb:5.1f}MB  {note}"
                   + (f"  429={n429}" if n429 else ""))
         if not rows:
             print("  (no live agents)")

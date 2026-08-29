@@ -1,96 +1,6 @@
 {
   "_comment": "Hand-maintained registry: chapter_id -> {chapter_master_id (required), path (required, chapter folder relative to data/), publication_id?, estimated_time?}. Keys starting with _ are ignored. PROVISIONAL FILE: no GSEB row has been fetched yet, so every chapter_master_id, publication_id and path here is null — those ids exist only in the education DB and are never invented; an upload carrying a guessed id lands clean under the wrong chapter. chapter_id follows gseb_eng_gujarati{grade}_ch{N} (VERIFY-1: the medium slot is the medium of instruction, NOT the subject language, and must be confirmed against the live server before the first upload). Rows cover the numbered chapters of the five GSEB Gujarati (dvitiya bhasha) readers in ../Textbooks-pdf/std-6 .. std-10; front matter, the revision blocks, the vyakaran units and the purak-vachan pieces carry no chapter number and get a row only if the board assigns one.",
   "_verify_2": "Fill each row from the DB, not by arithmetic: (1) chapter_master_id per chapter — the neighbouring Hindi pack's 355-N style formulas do NOT transfer; (2) publication_id — the GSEB publication row; (3) path — V2/{board}/{publication}/{medium}/class_{N}/gujarati/ch_{n}, whose board/publication/medium segments are read off an existing row or a post-upload readback (a precedent row reads V2/bseap/cbse/telugu/class_7/science/ch_2, so the segments genuinely vary). Update reference/naming_conventions.md and profiles/boards/gseb_gujarati.md in the same pass.",
-  "gseb_eng_gujarati6_ch1": {
-    "chapter_master_id": null,
-    "path": null,
-    "publication_id": null,
-    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-01-ek-j-dalna-pankhi.pdf — એક જ ડાળનાં પંખી (printed page 1)."
-  },
-  "gseb_eng_gujarati6_ch2": {
-    "chapter_master_id": null,
-    "path": null,
-    "publication_id": null,
-    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-02-chotaduk.pdf — ચોટડૂક (printed page 6)."
-  },
-  "gseb_eng_gujarati6_ch3": {
-    "chapter_master_id": null,
-    "path": null,
-    "publication_id": null,
-    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-03-ban-to-tyare-j-chhutshe.pdf — બાણ તો ત્યારે જ છૂટશે... (printed page 14)."
-  },
-  "gseb_eng_gujarati6_ch4": {
-    "chapter_master_id": null,
-    "path": null,
-    "publication_id": null,
-    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-04-avyo-mehulo.pdf — આવ્યો મેહુલો (printed page 22)."
-  },
-  "gseb_eng_gujarati6_ch5": {
-    "chapter_master_id": null,
-    "path": null,
-    "publication_id": null,
-    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-05-vijalirani.pdf — વીજળીરાણી (printed page 28)."
-  },
-  "gseb_eng_gujarati6_ch6": {
-    "chapter_master_id": null,
-    "path": null,
-    "publication_id": null,
-    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-06-sanskare-sarjyu-swarg.pdf — સંસ્કારે સર્જ્યું સ્વર્ગ (printed page 34)."
-  },
-  "gseb_eng_gujarati6_ch7": {
-    "chapter_master_id": null,
-    "path": null,
-    "publication_id": null,
-    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-07-chokhkhaina-sardar.pdf — ચોખ્ખાઈના સરદાર (printed page 41)."
-  },
-  "gseb_eng_gujarati6_ch8": {
-    "chapter_master_id": null,
-    "path": null,
-    "publication_id": null,
-    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-08-mamano-patra.pdf — મામાનો પત્ર (printed page 50)."
-  },
-  "gseb_eng_gujarati6_ch9": {
-    "chapter_master_id": null,
-    "path": null,
-    "publication_id": null,
-    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-09-garvi-gujaratno-garbo.pdf — ગરવી ગુજરાતનો ગરબો (printed page 55)."
-  },
-  "gseb_eng_gujarati6_ch10": {
-    "chapter_master_id": null,
-    "path": null,
-    "publication_id": null,
-    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-10-sathi-mare-bar.pdf — સાથી મારે બાર (printed page 63)."
-  },
-  "gseb_eng_gujarati6_ch11": {
-    "chapter_master_id": null,
-    "path": null,
-    "publication_id": null,
-    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-11-kamni-maja-ne-majanu-kam.pdf — કામની મજા ને મજાનું કામ (printed page 68)."
-  },
-  "gseb_eng_gujarati6_ch12": {
-    "chapter_master_id": null,
-    "path": null,
-    "publication_id": null,
-    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-12-ajabgajabno-melo.pdf — અજબગજબનો મેળો (printed page 79)."
-  },
-  "gseb_eng_gujarati6_ch13": {
-    "chapter_master_id": null,
-    "path": null,
-    "publication_id": null,
-    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-13-surya-sudhi-pahonchay.pdf — સૂર્ય સુધી પહોંચાય ? (printed page 85)."
-  },
-  "gseb_eng_gujarati6_ch14": {
-    "chapter_master_id": null,
-    "path": null,
-    "publication_id": null,
-    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-14-ek-chhokro-risano.pdf — એક છોકરો રિસાણો (printed page 92)."
-  },
-  "gseb_eng_gujarati6_ch15": {
-    "chapter_master_id": null,
-    "path": null,
-    "publication_id": null,
-    "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-6/ch-15-lo-pathri-mari-vat.pdf — લો, પાથરી મારી વાત (printed page 101)."
-  },
   "gseb_eng_gujarati7_ch1": {
     "chapter_master_id": null,
     "path": null,
@@ -516,5 +426,95 @@
     "path": null,
     "publication_id": null,
     "_comment": "PROVISIONAL — chapter_master_id and publication_id must be fetched from the education DB (EDUCATIONDB_URL, the fetch-chapters flow) and confirmed against a post-upload readback; VERIFY-2. Never invent an id. Source: ../Textbooks-pdf/std-10/ch-18-laghukavyo.pdf — લઘુકાવ્યો (દુહા, મુક્તક, હાઈકુ) – શેખાદમ આબુવાલા, હર્ષદ ત્રિવેદી, ઝિલિપ ક્લાર્ક, ધીરુ પરીખ (printed page 102)."
+  },
+  "cbse_eng_guj6_ch1": {
+    "chapter_master_id": 753,
+    "path": "V2/cbse/cbse/english/class_6/gujarati/ch_1",
+    "publication_id": 1,
+    "_comment": "VERIFIED 2026-08-25 from the education-DB fetch-chapters payload supplied by the user: chapterId=753, chapterName='Ek J Dalna Pankhi', subjectName=Gujarati, boardName=CBSE (boardId 1), languageName=English (languageId 1), gradeName=Class 6. Not invented."
+  },
+  "cbse_eng_guj6_ch2": {
+    "chapter_master_id": 754,
+    "path": "V2/cbse/cbse/english/class_6/gujarati/ch_2",
+    "publication_id": 1,
+    "_comment": "VERIFIED 2026-08-25 from the education-DB fetch-chapters payload supplied by the user: chapterId=754, chapterName='Chotaduk', subjectName=Gujarati, boardName=CBSE (boardId 1), languageName=English (languageId 1), gradeName=Class 6. Not invented."
+  },
+  "cbse_eng_guj6_ch3": {
+    "chapter_master_id": 755,
+    "path": "V2/cbse/cbse/english/class_6/gujarati/ch_3",
+    "publication_id": 1,
+    "_comment": "VERIFIED 2026-08-25 from the education-DB fetch-chapters payload supplied by the user: chapterId=755, chapterName='Ban To Tyare J Chhutshe', subjectName=Gujarati, boardName=CBSE (boardId 1), languageName=English (languageId 1), gradeName=Class 6. Not invented."
+  },
+  "cbse_eng_guj6_ch4": {
+    "chapter_master_id": 756,
+    "path": "V2/cbse/cbse/english/class_6/gujarati/ch_4",
+    "publication_id": 1,
+    "_comment": "VERIFIED 2026-08-25 from the education-DB fetch-chapters payload supplied by the user: chapterId=756, chapterName='Avyo Mehulo', subjectName=Gujarati, boardName=CBSE (boardId 1), languageName=English (languageId 1), gradeName=Class 6. Not invented."
+  },
+  "cbse_eng_guj6_ch5": {
+    "chapter_master_id": 757,
+    "path": "V2/cbse/cbse/english/class_6/gujarati/ch_5",
+    "publication_id": 1,
+    "_comment": "VERIFIED 2026-08-25 from the education-DB fetch-chapters payload supplied by the user: chapterId=757, chapterName='Vijalirani', subjectName=Gujarati, boardName=CBSE (boardId 1), languageName=English (languageId 1), gradeName=Class 6. Not invented."
+  },
+  "cbse_eng_guj6_ch6": {
+    "chapter_master_id": 758,
+    "path": "V2/cbse/cbse/english/class_6/gujarati/ch_6",
+    "publication_id": 1,
+    "_comment": "VERIFIED 2026-08-25 from the education-DB fetch-chapters payload supplied by the user: chapterId=758, chapterName='Sanskare Sarjyu Swarg', subjectName=Gujarati, boardName=CBSE (boardId 1), languageName=English (languageId 1), gradeName=Class 6. Not invented."
+  },
+  "cbse_eng_guj6_ch7": {
+    "chapter_master_id": 759,
+    "path": "V2/cbse/cbse/english/class_6/gujarati/ch_7",
+    "publication_id": 1,
+    "_comment": "VERIFIED 2026-08-25 from the education-DB fetch-chapters payload supplied by the user: chapterId=759, chapterName='Chokkhaina sardar', subjectName=Gujarati, boardName=CBSE (boardId 1), languageName=English (languageId 1), gradeName=Class 6. Not invented."
+  },
+  "cbse_eng_guj6_ch8": {
+    "chapter_master_id": 760,
+    "path": "V2/cbse/cbse/english/class_6/gujarati/ch_8",
+    "publication_id": 1,
+    "_comment": "VERIFIED 2026-08-25 from the education-DB fetch-chapters payload supplied by the user: chapterId=760, chapterName='Mamano Patra', subjectName=Gujarati, boardName=CBSE (boardId 1), languageName=English (languageId 1), gradeName=Class 6. Not invented."
+  },
+  "cbse_eng_guj6_ch9": {
+    "chapter_master_id": 761,
+    "path": "V2/cbse/cbse/english/class_6/gujarati/ch_9",
+    "publication_id": 1,
+    "_comment": "VERIFIED 2026-08-25 from the education-DB fetch-chapters payload supplied by the user: chapterId=761, chapterName='Garvi Gujaratno Garbo', subjectName=Gujarati, boardName=CBSE (boardId 1), languageName=English (languageId 1), gradeName=Class 6. Not invented."
+  },
+  "cbse_eng_guj6_ch10": {
+    "chapter_master_id": 762,
+    "path": "V2/cbse/cbse/english/class_6/gujarati/ch_10",
+    "publication_id": 1,
+    "_comment": "VERIFIED 2026-08-25 from the education-DB fetch-chapters payload supplied by the user: chapterId=762, chapterName='Sathi Mare Bar', subjectName=Gujarati, boardName=CBSE (boardId 1), languageName=English (languageId 1), gradeName=Class 6. Not invented."
+  },
+  "cbse_eng_guj6_ch11": {
+    "chapter_master_id": 763,
+    "path": "V2/cbse/cbse/english/class_6/gujarati/ch_11",
+    "publication_id": 1,
+    "_comment": "VERIFIED 2026-08-25 from the education-DB fetch-chapters payload supplied by the user: chapterId=763, chapterName='Kamni Maja Ne Majanu Kam', subjectName=Gujarati, boardName=CBSE (boardId 1), languageName=English (languageId 1), gradeName=Class 6. Not invented."
+  },
+  "cbse_eng_guj6_ch12": {
+    "chapter_master_id": 764,
+    "path": "V2/cbse/cbse/english/class_6/gujarati/ch_12",
+    "publication_id": 1,
+    "_comment": "VERIFIED 2026-08-25 from the education-DB fetch-chapters payload supplied by the user: chapterId=764, chapterName='Ajabgajabno Melo', subjectName=Gujarati, boardName=CBSE (boardId 1), languageName=English (languageId 1), gradeName=Class 6. Not invented."
+  },
+  "cbse_eng_guj6_ch13": {
+    "chapter_master_id": 765,
+    "path": "V2/cbse/cbse/english/class_6/gujarati/ch_13",
+    "publication_id": 1,
+    "_comment": "VERIFIED 2026-08-25 from the education-DB fetch-chapters payload supplied by the user: chapterId=765, chapterName='Surya Sudhi Pahonchay', subjectName=Gujarati, boardName=CBSE (boardId 1), languageName=English (languageId 1), gradeName=Class 6. Not invented."
+  },
+  "cbse_eng_guj6_ch14": {
+    "chapter_master_id": 766,
+    "path": "V2/cbse/cbse/english/class_6/gujarati/ch_14",
+    "publication_id": 1,
+    "_comment": "VERIFIED 2026-08-25 from the education-DB fetch-chapters payload supplied by the user: chapterId=766, chapterName='Ek Chhokro Risano', subjectName=Gujarati, boardName=CBSE (boardId 1), languageName=English (languageId 1), gradeName=Class 6. Not invented."
+  },
+  "cbse_eng_guj6_ch15": {
+    "chapter_master_id": 767,
+    "path": "V2/cbse/cbse/english/class_6/gujarati/ch_15",
+    "publication_id": 1,
+    "_comment": "VERIFIED 2026-08-25 from the education-DB fetch-chapters payload supplied by the user: chapterId=767, chapterName='Lo Pathri Mari Vat', subjectName=Gujarati, boardName=CBSE (boardId 1), languageName=English (languageId 1), gradeName=Class 6. Not invented."
   }
 }

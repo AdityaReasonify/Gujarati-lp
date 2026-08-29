@@ -1,0 +1,173 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati8_ch7",
+  "plan_id": "gseb_eng_gujarati8_ch7_v1",
+  "grade": 8,
+  "chapter_name": "કંકોતરી",
+  "genre": "લોકગીત (લગ્નગીત)",
+  "active_genre_profiles": ["lok_geet.md"],
+  "explanation_unit": "એક કડી, અથવા એક ટેક-રાઉન્ડ — ટેકનું યુગ્મ ક્યારેય એકલું કપાય નહીં અને કડીની અંદરથી ક્યારેય કપાય નહીં; પહેલી કડી (બેનીબાની ઓળખ + કાકાનો રાઉન્ડ) એક એકમ, પછી મામાનો રાઉન્ડ અને માસીનો રાઉન્ડ દરેક પોતાનું એકમ.",
+  "teaching_lens": "કંઠ + ધ્રુવપંક્તિ + લોકજીવન",
+  "guiding_question": "કંકોતરી કાકા, મામા ને માસીના ઘરે વારાફરતી મોકલવા પાછળ કયો રિવાજ અને કયો સ્નેહભાવ છુપાયેલો છે ?",
+
+  "marker_accounting": {
+    "reading_markers_in_source": ["[[ટેક]]", "[[કડી 1]]", "[[ટેક]]", "[[કડી 2]]", "[[ટેક]]", "[[કડી 3]]", "[[ટેક]]"],
+    "reading_markers_count": 7,
+    "topics_cut": 3,
+    "note_on_marker_to_topic_ratio": "7 markers fold into 3 topics, NOT a 1:1 mapping — this is a deliberate, documented override of the default 'one marker, one topic' rule (agents/02_structure.md §1), licensed by two explicit rules that both apply to this exact chapter: (a) lok_geet.md's hard gate 'An identical ટેક is taught at first occurrence and referenced after; it never becomes a topic of its own' — structure_inventory.tek_note in 01_meta.json confirms all four printed occurrences are word-for-word identical; (b) lok_geet.md's round-wise unit rule 'the topic holds the round plus the refrain that frames it.' So every [[ટેક]] marker is accounted for below, but folded into the round topic it opens or closes rather than cut as its own topic. No marker is silently swallowed — each is explicitly mapped.",
+    "topic_id_per_marker": {
+      "[[ટેક]] (1st occurrence, opens the poem, before કડી 1)": "M1.S1.T1",
+      "[[કડી 1 — બેનીબાનું નામ + પહેલી કંકોતરી કાકાને]]": "M1.S1.T1",
+      "[[ટેક]] (2nd occurrence, between કડી 1 and કડી 2)": "M1.S1.T2",
+      "[[કડી 2 — બીજી કંકોતરી મામાને]]": "M1.S1.T2",
+      "[[ટેક]] (3rd occurrence, between કડી 2 and કડી 3)": "M1.S1.T3",
+      "[[કડી 3 — ત્રીજી કંકોતરી માસીને]]": "M1.S1.T3",
+      "[[ટેક]] (4th occurrence, closes the poem after કડી 3)": "M1.S1.T3"
+    },
+    "markers_deliberately_not_cut_as_topics": {
+      "[[પ્રવેશપેટી (શિક્ષક માટે — વાચન-દૃશ્ય નથી)]]": "apparatus — Agent 1 itself tagged this marker 'શિક્ષક માટે — વાચન-દૃશ્ય નથી' (for the teacher, not a reading scene). Teacher-addressed intro box defining લગ્નગીત/લોકગીત. Feeds key_terms and ભાષા-બોધ for later agents, never a topic (explanation_unit_map.md's apparatus rule; lok_geet.md's own std-6 ch4/std-8 ch7 intro-box examples are treated the same way).",
+      "[[શબ્દાર્થ]]": "apparatus — the yellow gloss box (કંકોતરી, કંકુ, કેસર, હોંશ, માણેકથંભ, મોસાળું, ભત્રીજ, ભાણેજ). Feeds key_terms / shabdarth for Agent 12, not a topic.",
+      "[[સ્વાધ્યાય: 1. વાતચીત.]] through [[સ્વાધ્યાય: 14. પ્રવૃત્તિ.]] (14 numbered blocks)": "exercise matter, catalogued verbatim in 01_meta.json's exercise_inventory — Agent 10 territory end to end (global_content_rules.md #7). Includes block 8's embedded second, unfinished લગ્નગીત ('નાણાવટી રે સાજન બેઠું માંડવે...') and block 9's yellow 'મંગલ પરિણય' cloze કંકોતરી with its fruit-name family — appended/exercise-internal reading matter per lok_geet.md's mixed-chapter protocol and explanation_unit_map.md's rule 4, never folded into this chapter's કડી/રાઉન્ડ chain.",
+      "[[ચર્ચા-વિચારણા (પેટી — સ્વાધ્યાય નથી)]]": "teacher-run class-discussion box ('લગ્ન સાદાઈથી કરવાં જોઈએ કે નહીં'). lok_geet.md's Avoid section names this exact box by chapter and assigns it to Agent 10's exercise answer, explicitly forbidding it as a teaching topic ('Over-explaining the occasion into a custom lecture').",
+      "[[ચર્ચા-વિચારણાનું પરિશિષ્ટ કોષ્ટક — \"લગ્નમાં...\"]]": "the attached two-column fill-in table ('આ તો જોઈએ જ' / 'આના વિના ચાલે') printed under the same ચર્ચા-વિચારણા banner — apparatus for the same discussion, not a separately numbered સ્વાધ્યાય block, and not a topic."
+    }
+  },
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ટેકમાં કંકુ-કેસર છાંટીને કંકોતરી મોકલવાનું કેમ કહ્યું છે અને પહેલી કડીમાં બેનીબાને નાગરવેલના છોડ સાથે કેમ સરખાવી છે તે કડીની પંક્તિઓ પરથી કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કંકોતરી પહેલાં કાકાને ને પછી બીજી કંકોતરી મામાને કેમ મોકલાય છે, અને મામા હોંશે મોસાળું લઈને કેમ આવે છે તે કડી પરથી તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": ["M1.S1.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ત્રીજી કંકોતરી માસીને મોકલાય ત્યારે ગીત ફરી એ જ ટેક પર કેમ પાછું આવે છે અને માસી હોંશે ભાણેજ પરણાવવાની વાત કેમ કરે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T3",
+      "anchor": ["M1.S1.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3"
+  },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "કંકોતરી મોકલવાનું ગીત",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "કાકા, મામા ને માસીને કંકોતરી",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "બેનીબા અને કાકાની કંકોતરી",
+              "topic_type": "POEM",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "source_markers": ["[[ટેક]] (1st)", "[[કડી 1]]"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "બેનીબાની ઓળખ ને કાકાનો રાઉન્ડ",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "મામાની કંકોતરી",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O2"],
+              "source_markers": ["[[ટેક]] (2nd)", "[[કડી 2]]"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "મામાનો રાઉન્ડ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T3",
+              "topic_name": "માસીની કંકોતરી",
+              "topic_type": "POEM",
+              "topic_category": "resolution",
+              "difficulty": "easy",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O3"],
+              "source_markers": ["[[ટેક]] (3rd)", "[[કડી 3]]", "[[ટેક]] (4th, closing)"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T3.C3",
+                  "concept_name": "માસીનો રાઉન્ડ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "notes": [
+    "Context-routing gap, disclosed per the run instructions: this run's 'READ THESE' list gave only four reference docs (no_hallucination_policy.md, global_content_rules.md, explanation_unit_map.md, teaching_lens_map.md), but agents/02_structure.md itself cites reference/naming_conventions.md, reference/phase2_contract.md and profiles/students/std-8.md as required inputs, and 01_meta.json's own extraction_notes record Agent 1 hitting the identical gap and reading the locally-present files rather than guessing. I did the same: all three files (plus profiles/genres/lok_geet.md, named in 01_meta.json's active_genre_profiles) exist in the repo, were read in full, and are cited by name throughout these notes rather than their content being invented.",
+    "Cut by the સ્વરૂપ's unit, not by habit: 01_meta.json's explanation_unit and lok_geet.md's 'રાઉન્ડ-wise where the song cycles a list' both name std-8 ch7 by number as the canonical example — 'the round is the unit, and the topic holds the round plus the refrain that frames it.' The page (00_chapter_normalized.md) agrees with the profile prior exactly: three printed rounds (કાકા, મામા, માસી), each opened by an identical ટેક couplet. No disagreement to report on the unit itself.",
+    "Marker-to-topic ratio is 7:3, not 1:1 — see marker_accounting.note_on_marker_to_topic_ratio above for the full justification. This is the single biggest structural decision in this cut and is flagged here explicitly for Agent 4: do not read the 7-marker/3-topic mismatch as a swallowed marker. Every one of the four [[ટેક]] instances and three [[કડી N]] instances is accounted for in topic_id_per_marker.",
+    "ટેક handling, per lok_geet.md's inverted rule (distinct from urmikavya_geet.md): structure_inventory.tek_note in 01_meta.json confirms all four occurrences of 'કંકુ છાંટી કંકોતરી મોકલો, / કેસર છાંટી કંકોતરી મોકલો,' are word-for-word identical. So the ટેક is taught ONCE, at M1.S1.T1 (its first full printing, opening the poem), and M1.S1.T2 and M1.S1.T3 both carry M1.S1.T1 in depends_on and quote only the shorthand as printed — never re-teaching it, never hunting for a change that does not exist (lok_geet.md's Avoid section, checked structurally at Agent 4).",
+    "The two line-internal echo-phrases 'માણેકથંભ રોપિયો...' and '...કંકોતરી...' are NOT a second ટેક — 01_meta.json's structure_inventory.tek_note and genre_signals.structure both say so explicitly ('આ ટેકથી અલગ, પંક્તિ-આંતરિક પડઘા છે, સ્વતંત્ર ટેક નથી'). They stay inside their own કડી's original_chunk as printed-line-internal repetition, not as their own marker or topic.",
+    "Segment and module shape: one module, one segment, three topics. The whole printed poem is a single verse-group built on one ટેક, so it does not split into multiple modules or segments — lok_geet.md: 'Two adjacent rounds may join into one topic when they genuinely do one thing... wanting to join three means the cut has stopped following the song,' which argues against merging AND against inventing extra segment boundaries where the song has none.",
+    "No pre-reading CONCEPT topic for the intro box: unlike std-10's unlabelled કવિ/લેખક-પરિચય + કૃતિ-પરિચય paragraph (printed for the student, per explanation_unit_map.md), this chapter's [[પ્રવેશપેટી]] is explicitly tagged by Agent 1 as 'શિક્ષક માટે — વાચન-દૃશ્ય નથી' and reads as teacher guidance ('...કરાવવો', genre definition), matching lok_geet.md's own treatment of the std-6 ch4 and std-8 ch7 intro boxes as apparatus, not a student-facing scene.",
+    "No REVIEW topic exists: the book prints no in-text wrap or summary block anywhere in the poem. The closing ચર્ચા-વિચારણા box and its appendix table are teacher-run discussion apparatus, explicitly routed to Agent 10 by lok_geet.md's own Avoid section (see marker_accounting above).",
+    "Difficulty, set by what stops an A2/A2+ L2 reader on THIS page, relative inside this three-topic chapter, never by craft (profiles/students/std-8.md §1, agents/02_structure.md's std-8 row): medium = M1.S1.T1, which carries the densest new vocabulary (બેનીબા, નાગરવેલ, માણેકથંભ, રોપિયો, હોંશે, ભત્રીજ) plus the poem's one comparison (બેની ~ નાગરવેલનો છોડ) plus the first full ટેક the reader must learn to sing back; easy = M1.S1.T2 and M1.S1.T3, each only two printed કડી-લાઇન long, reusing the established pattern with one new kinship/occasion word apiece (મોસાળું; ભાણેજ). No topic is hard, and none is marked hard for a pattern reason it is not allowed to carry — std 8's ceiling here is refrain-shape pattern work, which this short cyclic song does not stress hard.",
+    "No અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text — std 8 experiences the form and never names it. 'ટેક' is used as an ordinary content word throughout (as it is throughout lok_geet.md's own prose and 01_meta.json), not as a gated craft label; the gate covers અલંકાર/છંદ/સમાસ/સાહિત્યપ્રકાર specifically. No objective asks what changed in the ટેક — the profile forbids that question outright for an unchanged refrain.",
+    "Every objective is grounded in a phrase or fact actually printed in this chapter (કંકુ-કેસર, બેનીબા-નાગરવેલ, કાકા-ભત્રીજ, મામા-મોસાળું, માસી-ભાણેજ) and could belong to no other chapter. Digits appear only in ids and provenance; display text uses 'પહેલી કડીમાં', 'બીજી કંકોતરી', 'ત્રીજી કંકોતરી' — all printed ordinal words from the poem itself, never bare numerals.",
+    "One concept per topic throughout — three topics, three concepts, C-counter chapter-continuous and equal to the topic number per naming_conventions.md (M1.S1.T1.C1, M1.S1.T2.C2, M1.S1.T3.C3). No topic here does two separable things: each round is one sending-move (name/compare, or send/receive) that opens or closes on the same refrain, so a second concept would have meant a wrong cut.",
+    "depends_on records real dependence only, per agents/02_structure.md §5: M1.S1.T2 and M1.S1.T3 each depend on M1.S1.T1 alone, because the only real carry-forward is the ટેક taught there. The કાકા→મામા→માસી kinship order is thematic (lok_geet.md: 'the list is the argument instead') but M1.S1.T3 does not structurally depend on M1.S1.T2 the way, e.g., a changed refrain-line pattern would create dependence — so T3.depends_on is [M1.S1.T1], not [M1.S1.T1, M1.S1.T2].",
+    "No page render was opened. 00_chapter_normalized.md (with its [[…]] markers already placed against the rendered pages by Agent 1) and 01_meta.json's structure_inventory answered every question this cut required, including the exact count and placement of the four ટેક occurrences.",
+    "'source_markers' (plural) is used per topic here instead of ch01's singular 'source_marker' field, because — unlike ch01's one-marker-per-topic ટેક/કડી cut — every topic in this chapter genuinely folds two or three markers into one round. This is flagged explicitly so Agent 4 treats it as an intentional, documented shape difference for this genre's round-wise cut, not a schema drift."
+  ]
+}

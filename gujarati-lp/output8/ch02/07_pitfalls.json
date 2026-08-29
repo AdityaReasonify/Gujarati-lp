@@ -1,0 +1,165 @@
+{
+ "topics": [
+  {
+   "topic_id": "M1.S1.T1",
+   "avoid_checks": [
+    {
+     "check": "No sentence of `explanation`, `summary`, `detailed_summary` or any `recall_questions[].answer` may soften, deny or verify this topic's events — the newborn whose અંગો begin growing before 'હવાની પહેલી લહરી' has touched him, and the first રુદન at which 'ઊડતાં પંખીઓ અને ચિત્તા-વાઘ જેવાં ભયાનક પ્રાણીઓ પણ ભયનાં માર્યાં ચીસ પાડી ધરતી ઉપર તૂટી પડી મરણને શરણ થયાં'. A clause of the form 'ખરેખર આવું ન બને' or 'એ તો વધારીને કહ્યું છે' fails; the કથા's opening is narrated as the કથા tells it.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "This topic precedes the topic carrying `topic_category: \"climax\"` (M3.S4.T9). None of દધીચિ, અસ્થિ, ત્યાગ, દેહત્યાગ, અમોઘ, વધ / હણાયો or કલ્યાણ may appear in this topic's `explanation`, `summary` or any `recall_questions[].answer` — the beat ends on 'ત્રણેય લોકમાં ભારે હાહાકાર મચ્યો.' and the child must not yet know that a way out exists.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "`explanation` must add what `modified_chunk` does not carry: that the કથાકાર first sets 'કરોડો બાળકો' and 'હજારો બાળક પ્રતિદિન' beside this one birth so the difference is felt before it is stated, and that the terror is shown through the પંખીઓ and ચિત્તા-વાઘ falling rather than said as 'બધા ડરી ગયા'. If `explanation` could be swapped for `modified_chunk` with nothing lost, the topic fails.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "પહેલું વાક્ય લાંબું અને બે ભાગનું છે — 'કરોડો બાળકો જન્મ્યાં હતાં … પણ આજે એક બાળકના જન્મ સાથે … તેવું અગાઉ કદી પણ બન્યું ન હતું.' બાળક પહેલો ભાગ વાંચીને અટકી જાય છે અને પાઠની શરૂઆતને 'ધરતી પર રોજ ઘણાં બાળકો જન્મે છે' એવી સામાન્ય માહિતી સમજી લે છે; 'પણ' પછીની ખરી વાત — કે આ એક જન્મ બીજા બધા કરતાં જુદો છે — ચૂકી જાય છે.",
+   "correction": "`explanation` નું પહેલું વાક્ય બંને ભાગ સામસામે મૂકે — એક બાજુ 'કરોડો બાળકો', બીજી બાજુ 'આ એક બાળક' — અને વચ્ચેના 'પણ' ને જ વળાંક તરીકે બતાવે. `recall_questions` નો પહેલો પ્રશ્ન 'પણ' પછીના ભાગ પર જ પુછાય: 'આ જન્મ બીજા બધા જન્મ કરતાં જુદો કેમ પડ્યો ?'"
+  },
+  {
+   "topic_id": "M1.S1.T2",
+   "avoid_checks": [
+    {
+     "check": "No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may attach an evaluative label (ડરપોક, કાયર, નબળો, મૂરખ or a synonym) to ઇંદ્ર, whom this topic presents as 'અનેક સંગ્રામોનો વિજેતા' who still has 'લડી લેવાનું ખૂબ મન હોવા છતાં' no હિંમત. His fear is reported in the text's own words — 'ગાત્ર ગળી ગયાં', 'ફડક પેસી ગઈ' — and read as the measure of વૃત્રની ભયાનકતા, not as a verdict on ઇંદ્ર.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "`explanation` must say what this long દેહ-વર્ણન does for the story: it stands in full before ઇંદ્ર is named, so that his ફડક is earned by what the reader has already seen (દવથી બળેલા પર્વત જેવો દેહ, ધગધગતા તાંબાના રસ જેવા વાળ, શ્વાસોશ્વાસથી તણખલાની જેમ ઊછળતા પર્વતો). An `explanation` that only re-lists the વાળ, આંખો and શ્વાસોશ્વાસ repeats `modified_chunk` and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "આખો ફકરો આગનો છે — 'દવથી જેની કાયા બળી ગઈ હોય', 'ધગધગતા તાંબાના રસ' — એટલે બાળક 'ઇંદ્ર … હાડોહાડ સળગી ઊઠ્યો' ને પણ સાચેસાચ સળગવાના અર્થમાં લે છે અને સમજે છે કે વૃત્રની ગરમીથી ઇંદ્ર દાઝી ગયો. એ રીતે ઇંદ્રનાં બે પગલાં — પહેલાં ગુસ્સો, પછી ત્રાડ સાંભળીને ડર — બંને ખોવાઈ જાય છે.",
+   "correction": "શબ્દો પહેલી વાર આવે ત્યાં જ છાપેલા રૂઢિપ્રયોગ-બ્લૉકના પોતાના શબ્દોમાં ગ્લોસ કરો — 'હાડોહાડ સળગી ઊઠવું — (ગુસ્સાની) ભારે લાગણી થવી' — અને 'ગાત્ર ગળી જવાં — શક્તિ ચાલી જવી' `key_terms` માં મૂકો. પછી `explanation` ઇંદ્રનાં બે પગલાં ક્રમમાં કહે: પહેલાં ગુસ્સો, પછી ત્રાડ સાંભળીને ડર."
+  },
+  {
+   "topic_id": "M2.S2.T3",
+   "avoid_checks": [
+    {
+     "check": "This topic prints only the condition — 'કોઈ મહાત્યાગી પુરુષે રાજીખુશીથી આપેલાં પોતાનાં અસ્થિઓમાંથી બનેલા શસ્ત્રથી!' No `explanation`, `summary` or `recall_questions[].answer` here may name દધીચિ (the printed text names him only in M2.S2.T5), nor say that the અસ્થિ were given, that the ઋષિ died, or that વૃત્ર was killed.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "`explanation` must name વિષ્ણુની કહેવાની રીત, not only what he says: the four-fold ruling-out 'ન તો કોઈ શસ્ત્ર … ના કોઈ અગ્નિ … ન જળ … કે ન વાયુ' is counted out one by one so that the single way left sounds like the only way left. Re-listing the four impossibilities without saying why they are counted out repeats `modified_chunk` and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'ભલભલા મહારથીઓ અને અતિરથીઓનાં પણ પાણી ઉતારનાર' — બાળક 'પાણી ઉતારવું' ને શબ્દશઃ પાણી ઢોળવા કે પાણી ઉતારી લેવાના અર્થમાં લે છે, એટલે વૃત્ર મોટા યોદ્ધાઓનું અભિમાન ઉતારે છે એ વાત જ પકડાતી નથી અને ઘટનાની શરૂઆતનું આખું વજન ઊડી જાય છે.",
+   "correction": "`explanation` ના પહેલા વાક્યમાં જ છાપેલા રૂઢિપ્રયોગ મુજબ ગ્લોસ કરો — 'પાણી ઉતારવું — અભિમાન ઉતારવું'. એ જ ઘટનાનો બીજો છાપેલો રૂઢિપ્રયોગ 'મોં પડી જવું — નિરાશ થવું' પણ `key_terms` માં મૂકો, કેમ કે દેવોની દશા એ જ શબ્દોમાં કહેવાઈ છે."
+  },
+  {
+   "topic_id": "M2.S2.T4",
+   "avoid_checks": [
+    {
+     "check": "This topic is one printed sentence. `explanation` must add why ઇંદ્રનો સવાલ — 'એવો તો કયો જીવ હોઈ શકે, જે રાજીખુશીથી પોતાનાં અસ્થિ આપે ?' — turns the story: it moves the problem from a શસ્ત્ર that must be found to a માણસ who must be willing. An `explanation` that only re-says the question repeats `modified_chunk` and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "No field of this `transition` topic may answer its own question: દધીચિનું નામ, એમનો આશ્રમ, એમનો ત્યાગ or વૃત્રનો વધ must not appear in `explanation`, `summary`, a `concept_bullets` line or any `recall_questions[].answer`. The answer belongs to M2.S2.T5 and the outcome to the `climax` topic M3.S4.T9.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'એવો તો કયો જીવ હોઈ શકે' માં બાળક 'જીવ' ને રોજિંદી ભાષાના 'જીવડું / પ્રાણી' અર્થમાં લે છે, એટલે ઇંદ્રનો સવાલ કોઈ પ્રાણી વિશેનો લાગે છે અને 'એવો કયો માણસ આવું કરી શકે ?' એ જે ખરો સવાલ છે તે આખો ખોવાઈ જાય છે.",
+   "correction": "પહેલી વાર જ ગ્લોસ કરો — 'જીવ — સજીવ પ્રાણી; અહીં એવો કયો માણસ' — અને `explanation` માં ઇંદ્રનો સવાલ સાદી ગુજરાતીમાં ફરી કહો: 'એવો કયો માણસ હોય જે પોતાની જ ખુશીથી પોતાનાં હાડકાં આપી દે ?'"
+  },
+  {
+   "topic_id": "M2.S2.T5",
+   "avoid_checks": [
+    {
+     "check": "વિષ્ણુ speak the chapter's ત્યાગ-વાત here — 'ધરતી ઉપર એવા પણ વિરલા છે જે ત્યાગમાં પરમ સુખ લે છે.' It is quoted as વિષ્ણુના શબ્દો and taught as what a character says. No sentence of `explanation`, `summary`, `detailed_summary`, a `concept_bullets` line or a `recall_questions[].answer` may close on 'આપણે પણ ત્યાગ કરવો જોઈએ', 'આ વાર્તા શીખવે છે કે…' or 'બોધ એ છે કે…'.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "'તમારા સ્વર્ગમાં બધાં ભોગનાં સગાં છે' is વિષ્ણુની ટકોર inside the story, spoken to ઇંદ્ર. No `explanation`, `real_life_example` or `recall_questions[].answer` may turn it into a verdict on the દેવો (સ્વાર્થી, ભોગવિલાસી, નકામા or a synonym) — the same દેવો are the ones this chapter shows 'અકળાયેલા' and going to pray at the આશ્રમ.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'સાભ્રમતીને પવિત્ર કિનારે' વાંચીને બાળક 'સાભ્રમતી' ને છાપભૂલ કે કોઈ અજાણી, દૂરની નદી માની લે છે. એ પોતાના જ રાજ્યની સાબરમતી છે એ ખબર ન પડતાં દધીચિનો આશ્રમ ક્યાંક બહારની, વાર્તાની બહારની દુનિયામાં ગોઠવાઈ જાય છે.",
+   "correction": "`explanation` માં શબ્દ પહેલી વાર આવે ત્યાં જ ગ્લોસ કરો — 'સાભ્રમતી — સાબરમતી નદીનું જૂનું નામ' — અને એક વાક્યમાં કહો કે આ જૂનું રૂપ ભૂલ નથી, જૂના જમાનાની ભાષા છે. `original_chunk` માં શબ્દ જેમ છપાયો છે તેમ જ રહે."
+  },
+  {
+   "topic_id": "M2.S3.T6",
+   "avoid_checks": [
+    {
+     "check": "`explanation` must state what this all-description beat does for the plot: its last sentence 'કંઈક આશાની ટશરો ફૂટવા માંડી' is the first change on ધરતી since the હાહાકાર, so the sky filling with હંસ, ગરુડ, 'બીજના ચંદ્ર જેવા વિમાન' and 'કળા કરી નાચતા મોર જેવા વાહન' is the event itself, not decoration around one. An `explanation` that is a list of વાહનો repeats `modified_chunk` and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'ટશર' આ પાઠમાં પહેલાં સૂરજનાં લાલ કિરણોના અર્થમાં આવી ચૂક્યું છે, એટલે બાળક 'આશાની ટશરો ફૂટવા માંડી' ને પણ આકાશના પ્રકાશનું વર્ણન સમજી લે છે — અને ડરેલા જીવોના મનમાં જે ફેરફાર થયો, એટલે કે આ ઘટનાનું ખરું પરિણામ, એ પકડાતું નથી.",
+   "correction": "છાપેલા રૂઢિપ્રયોગ મુજબ એ જ જગ્યાએ ગ્લોસ કરો — 'આશાની ટશરો ફૂટવી — આશા ફળશે એમ માનવું' — અને `explanation` નું છેલ્લું વાક્ય કહે કે અહીં ટશર આકાશમાં નહીં, ડરેલા જીવોના દિલમાં ફૂટે છે."
+  },
+  {
+   "topic_id": "M2.S3.T7",
+   "avoid_checks": [
+    {
+     "check": "`explanation` must say why the શીતળતા, the 'શાંત સ્થિર તેજ' and the 'મીઠી ફોરમ' matter: they are how દધીચિનું તપ is shown before દધીચિ himself is seen, and they are what lets the દેવો find the આશ્રમ with no મુશ્કેલી on a પૃથ્વી that is otherwise 'બળું બળું'. Describing the આશ્રમની હવા without naming it as the ઋષિની ઓળખ repeats `modified_chunk` and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'ઋષિ એ વખતે સમાધિમાં હતા' — હિન્દી વાંચતું બાળક 'સમાધિ' ને કબર કે સ્મારકના અર્થમાં ઓળખે છે, એટલે એ સમજે છે કે ઋષિ મરી ગયા છે અને દેવો એમની સમાધિ પાસે ગીતો ગાય છે ને પૂજા કરે છે. પછીની આખી ઘટના ઊંધી સમજાય છે.",
+   "correction": "એ જ વાક્યમાં ગ્લોસ કરો — 'સમાધિ — ધ્યાનમાં એટલા ઊંડા ઊતરી જવું કે બહારનું ભાન ન રહે' — અને `explanation` માં ઉમેરો કે ઋષિ જીવતા છે, બસ ધ્યાનમાં છે; આગળની ઘટનાનું 'ધ્યાન પૂરું થતાં … આંખ ઉઘાડી' એ જ બતાવે છે."
+  },
+  {
+   "topic_id": "M2.S3.T8",
+   "avoid_checks": [
+    {
+     "check": "The beat ends on 'સૌના કુશળ સમાચાર જાણી મુનિવરે તેમને આવવાનું કારણ પૂછ્યું.' No `explanation`, `summary`, `concept_bullets` line or `recall_questions[].answer` here may report ઇંદ્રનો જવાબ, દધીચિનો આનંદ, અસ્થિ, દેહત્યાગ or વૃત્રનો વધ — all of those belong to M3.S4.T9, which carries `topic_category: \"climax\"`.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "`explanation` must add the character point this beat shows without stating it as a rule: 'અતિ પ્રેમથી મુનિવરે સૌને પ્રણામ કર્યાં' — the one who is about to be asked for everything bows first, and asks after 'કુશળ સમાચાર' before he asks the reason for the visit. An `explanation` that only reports આંખ ઉઘાડી → પ્રણામ → પ્રશ્ન repeats `modified_chunk` and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "આગલી ઘટનામાં દેવોએ પ્રણામ કર્યા હતા, એટલે બાળક 'અતિ પ્રેમથી મુનિવરે સૌને પ્રણામ કર્યાં' માં પણ દેવોને જ નમનારા માની લે છે. જે ઋષિ પાસે માગવા આવ્યા છે તે ઋષિ પોતે પહેલાં નમે છે — આ ઘટનાનો આખો ભાવ એમાં જ છે — અને એ ઊંધું વંચાય છે.",
+   "correction": "`explanation` માં કોણે શું કર્યું એ સાફ શબ્દોમાં કહો: 'અહીં નમનારા ઋષિ પોતે છે, દેવો નહીં', અને 'મુનિવરે' શબ્દ પર આંગળી મૂકો. એક `recall_questions` પ્રશ્ન એ જ પૂછે: 'આ ઘટનામાં કોણે કોને પ્રણામ કર્યાં ?'"
+  },
+  {
+   "topic_id": "M3.S4.T9",
+   "avoid_checks": [
+    {
+     "check": "This is where the chapter's ત્યાગ lands, and the printed ચર્ચા-વિચારણા box says 'ત્યાગનો આનંદ / ત્યાગનો મહિમા'. No sentence of `explanation`, `summary`, `detailed_summary`, any `concept_bullets` line or any `recall_questions[].answer` may take the shape 'આપણે પણ … જોઈએ', 'આ વાર્તા આપણને શીખવે છે…' or 'બોધ એ છે કે…'. Where the બોધ is spoken it is quoted from the ઋષિની પોતાની છાપેલી વાણી — 'જો જગતના એક પણ જીવનો દુઃખભાર હળવો કરી શકાતો હોય તો…' — and named as what દધીચિ says.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "No field may verify, deny or medically explain the દેહત્યાગ ('પ્રભુસ્મરણ કરતાં કરતાં દધીચિ ઋષિનો દેહ ઢળી પડ્યો', 'તેમના પવિત્ર પ્રાણ ભગવાનમાં સમાઈ ગયા') or the શસ્ત્રો that 'ત્યાગના બળથી અમોઘ' became. A clause of the form 'ખરેખર એવું ન બને' or 'વૈજ્ઞાનિક રીતે…' in `explanation`, `summary`, `detailed_summary` or a `recall_questions[].answer` fails.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "The two comparisons that carry the death — 'વૃક્ષ પરથી પાકું ફળ ખરી પડે' and 'મોર પોતાની પાંખમાંથી એકાદ પીંછું ખેરવે' — may be pointed at in `explanation` or in a `recall_questions[].question` ('દેહ ઢળી પડવાને લેખકે કઈ બે વસ્તુ સાથે સરખાવ્યું છે ?'), but no field may carry the words ઉપમા, ઉત્પ્રેક્ષા, અલંકાર or અતિશયોક્તિ, and `figures_of_speech` stays `[]`. Std 8 notices craft and does not label it.",
+     "profile": "varta",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "બાળક દધીચિના આ એક પ્રસંગને સીધો જીવનનો નિયમ બનાવી દે છે — 'ત્યાગ એટલે જીવ આપી દેવો' — અને પછી કાં તો ત્યાગ પોતાના જીવનમાં કરી શકાય એવી વસ્તુ જ નથી લાગતી, કાં તો આખી વાર્તા એક ઉપદેશમાં સંકેલાઈ જાય છે.",
+   "correction": "`explanation` ત્યાગને આ કથાની પોતાની દુનિયામાં જ રાખે — દધીચિનું તપ, દેવોની વિનંતી, અને 'અસંખ્ય જીવોના દુઃખભારને હળવો કરવાનું મહાપર્વ' — અને એમાંથી કોઈ નિયમ ન બનાવે. બોધ `recall_questions` માં જ આવે, બાળકના પોતાના શબ્દોમાં માગીને, સાથે એક નાનું રોજિંદું ઉદાહરણ, જેથી નિયમ 'જીવ આપી દેવો' ન બની જાય."
+  }
+ ],
+ "chapter_level": [
+  "The whole unit is a પૌરાણિક કથા — the printed પ્રવેશપેટી says so in its own words, 'આ એક પ્રેરક અને પૌરાણિક કથા છે' — and it is taught end to end as a tale. No field anywhere verifies, denies, dates or science-checks વૃત્ર, the દેવો, the વિમાનો, the સમાધિ or the અસ્થિમાંથી બનેલાં શસ્ત્રો, and no field turns the કથા into a lesson about belief or a comparison of traditions.",
+  "The blue પ્રવેશપેટી is teacher-addressed and gives away the whole plot including its end ('ઋષિ દધીચિ સ્વેચ્છાએ પોતાના દેહનો ત્યાગ કરીને દેવોને મદદ કરે છે'). No topic before M3.S4.T9 may source its `explanation`, `summary` or a `recall_questions[].answer` from that box — it is apparatus, not a reading scene, and the child's own reading must reach the ત્યાગ where the printed text does.",
+  "The chapter's standing L2 hazard is its તત્સમ, પૌરાણિક register — અસ્થિ, અતિરથી, મહારથી, સંગ્રામ, પ્રભુસ્મરણ, ખોળિયું, મુનિવર, વિરલા, અમોઘ. Every such word is glossed in the child's own everyday Gujarati at the point where it first appears, is used again at least once after being glossed, and is never replaced or modernised inside `original_chunk`.",
+  "Seven રૂઢિપ્રયોગ are printed with their meanings in the block after the શબ્દાર્થ box, and all seven occur inside the reading text — મરણને શરણ થવું, હાડોહાડ સળગી ઊઠવું, ગાત્ર ગળી જવાં, પાણી ઉતારવું, મોં પડી જવું, આશાની ટશરો ફૂટવી, ફડક પેસી જવી. Each is glossed in its printed wording inside the topic where it occurs; the printed block itself is Agent 10's material and is never cut as a topic.",
+  "Std 8 names no craft term. The words અલંકાર, ઉપમા, ઉત્પ્રેક્ષા, અતિશયોક્તિ, છંદ and સમાસ appear nowhere in the plan and `figures_of_speech` stays `[]` — the chapter's many comparisons (પર્વત જેવો દેહ, તણખલાની જેમ ઊછળતા પર્વતો, પાકું ફળ ખરી પડે તેમ) are pointed at with a question about the printed line, never labelled.",
+  "The અસુરનું નામ is વૃત્ર / વૃત્રાસુર everywhere in the reading text and in the શબ્દાર્થ box; the પ્રવેશપેટીનું 'વૃત્રાસરનું' is a printed slip that Agent 1 recorded and kept as printed. Child-facing teaching prose uses વૃત્રાસુર, and the slip is neither reproduced there nor silently 'corrected' inside any `original_chunk`."
+ ]
+}

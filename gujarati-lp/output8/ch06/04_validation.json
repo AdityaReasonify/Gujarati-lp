@@ -1,0 +1,47 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "genre 'ચરિત્રલેખ' / profile charitra_prasang.md: explanation unit is 'એક જીવન-પ્રસંગ'. No printed person-section head exists in this chapter (confirmed by 01_meta.json and 02_structure.json's own note), so only the ઘટના half of the unit rule applies — the eight [[ઘટના: …]] markers are the whole cut.",
+        "કડી / દુહો / પદ / ટેક parity checks are N/A: structure_inventory records kadi:0, duha:0, pad:0, tek_occurrences:0 — no independent verse is printed in this chapter, only quoted pad-fragments inside prose, correctly kept inside their ઘટના topics per charitra_prasang.md's own precedent for THIS chapter ('the quoted lines keep pad_bhajan's rules inside their prose topic').",
+        "genre is singular 'ચરિત્રલેખ' (not 'mixed'), matching charitra_prasang.md's near-miss routing table entry for std-8 ch 6 verbatim.",
+        "Avoid-list items checkable at this structural stage hold: no topic_name uses a life-stage/chronology label (avoid #5); no person-section merge/split (avoid #6, N/A — no person-section heads); no craft-device (અલંકાર/છંદ/સાહિત્યપ્રકાર) named in any module/segment/topic/concept/objective name (the chapter's own 'ઝૂલણા છંદ' phrase is deliberately kept out of all names per the structure file's own note). Fields the remaining avoid items (1-4,7-13) gate — explanation, real_life_example, summaries, recall answers — are not yet authored (original_chunk and concepts[].content are deliberately empty, Agent 5+ territory) so those items have nothing to check yet; nothing in the structure itself violates them."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 8,
+      "topics": 8,
+      "notes": [
+        "grep-verified: 00_chapter_normalized.md carries exactly 8 [[ઘટના: …]] markers (lines 11,15,19,27,35,39,43,50) and 02_structure.json carries exactly 8 topics (M1.S1.T1 … M4.S4.T8), one per marker, source_marker verbatim, in the same top-to-bottom order.",
+        "[[પ્રવેશપેટી (શિક્ષક માટે — વાચન-દૃશ્ય નથી)]] (line 5) is explicitly marked by Agent 1 as NOT a reading scene (teacher-addressed, unlike std-10's student-facing કવિ-પરિચય) and correctly carries no topic — this chapter has no pre-reading opener topic, which is a text-grounded fact, not a coverage gap.",
+        "The chapter's closing sentences ('આપણા સૌના આ લાડકા કવિ… તમે જૂનાગઢ જાઓ તો…') are the tail of marker 8's own paragraph, not a separate in-text wrap; they sit inside M4.S4.T8 (concept C12), so no orphaned wrap exists and no REVIEW topic is needed.",
+        "[[શબ્દાર્થ (પરિશિષ્ટ પેટી)]] (line 56) and [[ચર્ચા-વિચારણા (પેટી — સ્વાધ્યાય નથી)]] (line 204) are apparatus, correctly not cut as topics.",
+        "All 14 [[સ્વાધ્યાય: …]] markers (2 unnumbered pre-blocks + 12 numbered pink blocks, matching 01_meta.json's 14-entry exercise_inventory exactly by count and by verbatim_heading) were cross-checked one by one against all 8 topic_name / source_marker / original_chunk-plan values in 02_structure.json: zero overlaps. No સ્વાધ્યાય block became a topic.",
+        "Exercise-embedded reading matter (the Gandhi-letter paragraph in block 9, the mock shop-bill in block 10, the સુભાષિત in block 3, the રવિશંકર મહારાજ paragraph in block 12) is explicitly excluded from the ઘટના chain in 02_structure.json's own notes, per _genre_index.md item 5 — none of it may enter any original_chunk when Agent 5 fills the chunks."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 8,
+      "notes": [
+        "Root objectives[] exists with 8 entries, O1–O8, all objective_id values unique.",
+        "Every home_topic_id (M1.S1.T1, M1.S1.T2, M2.S2.T3, M2.S2.T4, M3.S3.T5, M3.S3.T6, M4.S4.T7, M4.S4.T8) and every anchor[] concept id (C1…C12) resolves to a node actually present in the modules tree — checked pairwise, all resolve.",
+        "strand_to_objective_map covers L1..L8 to O1..O8 exactly once each, no gaps, no duplicates.",
+        "Every topic carries objective_ids with exactly one id, and every id resolves to the root registry (T1:O1 … T8:O8).",
+        "Each objective_text is grounded in this chapter's own named particulars (દયાકોર, કૃષ્ણદામોદર, જયગૌરી, ભાભીનું મેણું, શિવાલય, પ્રભાતિયું, 'નરસૈયો', ગાંધીજી, 'વૈષ્ણવજન', શામળશા શેઠ, હૂંડી, કુંવરબાઈનું મામેરું, રા'માંડલિક, ઝૂલણા-composition list, જૂનાગઢ) and could not be pasted into another chapter.",
+        "Concept ids are chapter-continuous C1..C12 with no restart at any topic boundary and no gaps (T1=C1, T2=C2, T3=C3-C4, T4=C5-C6, T5=C7, T6=C8-C9, T7=C10, T8=C11-C12), matching phase2_contract.md and naming_conventions.md.",
+        "m/s/t hierarchy is dotted and runs continuously across the whole chapter with no restarts (M1..M4, S1..S4 one segment per module, T1..T8); no M1.S1.T1.P1-style objective code appears anywhere — objectives live only in the root registry as required."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Single pass per reference/loop_protocol.md — no iteration performed.",
+    "Verified using 00_chapter_normalized.md (source of truth) and 01_meta.json only; no PNG under _renders was opened, since the normalized transcription and its extraction_notes answered every question this validation needed.",
+    "Non-blocking observations for Agent 13, not blocks: (a) four of the eight topics (M2.S2.T3, M2.S2.T4, M3.S3.T6, M4.S4.T8) carry two concepts each rather than one — each is documented in 02_structure.json's own notes as two genuinely separable things under one ઘટના marker, consistent with the profile's 'a topic that genuinely does two separable things … is what concepts[] is for' rule, capped at two, never three; (b) module/segment structure pairs one segment per module (4 modules, 4 segments) for 8 topics — a valid but fairly fine-grained grouping choice, worth Agent 13's eye only as a style note, not a structural defect; (c) objective bloom levels lean Remember/Understand for O1, O3, O5, O8 — text-grounded and chapter-specific as written, but Agent 13 may want to confirm the lens 'પ્રસંગ + સ્વભાવ + મૂલ્ય' (episode + character + worth) reads through as clearly in O1/O8 (fact-recall phrasing) as it does in O6/O7 (which explicitly ask 'why')."
+  ]
+}

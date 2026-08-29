@@ -1,0 +1,296 @@
+{
+ "chapter_id": "gseb_eng_gujarati8_ch9",
+ "plan_id": "gseb_eng_gujarati8_ch9_v1",
+ "genre": "માહિતીપ્રદ / સાંસ્કૃતિક ગદ્ય",
+ "active_genre_profiles": ["mahitiprad_gadya.md"],
+ "teaching_lens": "તથ્ય + પરંપરા + જિજ્ઞાસા",
+ "guiding_question": "ભારતનગર સોસાયટીના પ્રજાસત્તાક દિનની ઉજવણીમાં દરેક જૂથે પોતાના રાજ્યને બદલે બીજા રાજ્યની સંસ્કૃતિ ભજવી, એ પ્રયોગ સાચી 'વિવિધતામાં એકતા' વિશે આપણને શું શીખવે છે ?",
+ "explanation_unit": "એક માહિતી-ખંડ",
+ "modules": [
+  {
+   "module_id": "M1",
+   "module_name": "સવારની વાત અને વિચારનો ઉદય",
+   "segments": [
+    {
+     "segment_id": "M1.S1",
+     "segment_name": "ગાર્ગીની સવારની ઉતાવળ",
+     "topics": [
+      {
+       "topic_id": "M1.S1.T1",
+       "topic_name": "ગાર્ગીની શાળાએ જવાની ઉતાવળ",
+       "topic_type": "CONCEPT",
+       "topic_category": "introduction",
+       "difficulty": "easy",
+       "depends_on": [],
+       "objective_ids": ["O1"],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T1.C1",
+         "concept_name": "ગાર્ગીની ઉતાવળ અને શાળાના 'એક ભારત શ્રેષ્ઠ ભારત' કાર્યક્રમનો ઉલ્લેખ"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M1.S2",
+     "segment_name": "કુલકર્ણી અને સાંસ્કૃતિક એકતાનો વિચાર",
+     "topics": [
+      {
+       "topic_id": "M1.S2.T2",
+       "topic_name": "કુલકર્ણીની ચા અને સાંસ્કૃતિક એકતાનો વિચાર",
+       "topic_type": "CONCEPT",
+       "topic_category": "introduction",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": ["O2"],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T2.C2",
+         "concept_name": "કુલકર્ણીનું આગમન, વિનુદાદાનો સાંસ્કૃતિક એકતાનો વિચાર અને છત્તીસગઢ સાથેના આદાનપ્રદાનનું ઉદાહરણ"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "M2",
+   "module_name": "શરત અને જૂથ-રચના",
+   "segments": [
+    {
+     "segment_id": "M2.S3",
+     "segment_name": "શરત, પ્રતિભાવ અને જૂથ-રચના",
+     "topics": [
+      {
+       "topic_id": "M2.S3.T3",
+       "topic_name": "શરત, સમશેરસિંગનો સવાલ અને જૂથ-રચના",
+       "topic_type": "CONCEPT",
+       "topic_category": "core",
+       "difficulty": "hard",
+       "depends_on": [],
+       "objective_ids": ["O3"],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M2.S3.T3.C3",
+         "concept_name": "પોતાના રાજ્ય સિવાયની કૃતિ રજૂ કરવાની શરત, એના પરની નવાઈ અને સમશેરસિંગનો સવાલ-જવાબ"
+        },
+        {
+         "concept_id": "M2.S3.T3.C4",
+         "concept_name": "વિનુદાદાની આમન્યા, જૂથોની રચના અને બીજી શરત (એક પરિવારના સભ્યો એક જ જૂથમાં નહીં)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M2.S4",
+     "segment_name": "બંગાળી જૂથની મૂંઝવણ અને ઉકેલ",
+     "topics": [
+      {
+       "topic_id": "M2.S4.T4",
+       "topic_name": "બંગાળી જૂથની મૂંઝવણ અને વિનુદાદાનો ઉકેલ",
+       "topic_type": "CONCEPT",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": ["O4"],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M2.S4.T4.C5",
+         "concept_name": "ભંવરલાલ અને બંગાળી જૂથની મૂંઝવણ — બંગાળી કૃતિ કેમ તૈયાર કરવી"
+        },
+        {
+         "concept_id": "M2.S4.T4.C6",
+         "concept_name": "વિનુદાદાનો ઉકેલ — સંસ્કૃતિ એટલે માત્ર નૃત્ય નહીં, પ્રદેશના લોકોને પૂછી શકાય"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "M3",
+   "module_name": "પ્રજાસત્તાક દિનની ઉજવણી",
+   "segments": [
+    {
+     "segment_id": "M3.S5",
+     "segment_name": "તૈયારી, ધ્વજવંદન અને કૃતિ-રજૂઆતો",
+     "topics": [
+      {
+       "topic_id": "M3.S5.T5",
+       "topic_name": "તૈયારીના દિવસો, ધ્વજવંદન અને કૃતિ-રજૂઆતો",
+       "topic_type": "CONCEPT",
+       "topic_category": "core",
+       "difficulty": "hard",
+       "depends_on": [],
+       "objective_ids": ["O5"],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M3.S5.T5.C7",
+         "concept_name": "તૈયારીના તેર દિવસ — ગુપ્તતા, મોડે સુધીની મહેનત અને કરીમચાચાનો સ્ટેજ-શણગાર"
+        },
+        {
+         "concept_id": "M3.S5.T5.C8",
+         "concept_name": "ધ્વજવંદન અને મરાઠી, બંગાળી, તમિળ, ગુજરાતી, પંજાબ-હરિયાણા જૂથોની કૃતિ-રજૂઆતો"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M3.S6",
+     "segment_name": "વિનુદાદાનું સંબોધન અને પ્રસાદ-સમાપન",
+     "topics": [
+      {
+       "topic_id": "M3.S6.T6",
+       "topic_name": "વિનુદાદાનું સંબોધન",
+       "topic_type": "CONCEPT",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": ["O6"],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M3.S6.T6.C9",
+         "concept_name": "કોઈને પહેલો નંબર જાહેર ન કરવાનો વિનુદાદાનો નિર્ણય"
+        },
+        {
+         "concept_id": "M3.S6.T6.C10",
+         "concept_name": "એકબીજાની અને ભારતની સંસ્કૃતિની નજીક આવવાનો સંદેશ"
+        }
+       ]
+      },
+      {
+       "topic_id": "M3.S6.T7",
+       "topic_name": "પ્રસાદ-વ્યવસ્થા અને સમાપન",
+       "topic_type": "CONCEPT",
+       "topic_category": "resolution",
+       "difficulty": "easy",
+       "depends_on": [],
+       "objective_ids": ["O7"],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M3.S6.T7.C11",
+         "concept_name": "ભારતભરની વાનગીઓથી ભરેલો પ્રસાદ અને શુભેચ્છા સાથે વિદાય"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "objectives": [
+  {
+   "objective_id": "O1",
+   "legacy_id": "L1",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ગાર્ગી અને વિનુદાદા વચ્ચેની સવારની વાતચીતમાંથી શાળાના 'એક ભારત શ્રેષ્ઠ ભારત' કાર્યક્રમનો ઉલ્લેખ શોધીને કહેવું.",
+   "bloom_level": "Remember",
+   "home_topic_id": "M1.S1.T1",
+   "anchor": ["M1.S1.T1.C1"],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O2",
+   "legacy_id": "L2",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "કુલકર્ણી સાથેની ચા-વાતમાં વિનુદાદા સાંસ્કૃતિક એકતાનો વિચાર કઈ રીતે રજૂ કરે છે અને છત્તીસગઢના વિદ્યાર્થીઓ સાથેના આદાનપ્રદાનનું ઉદાહરણ કેમ આપે છે તે સમજાવવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S2.T2",
+   "anchor": ["M1.S2.T2.C2"],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O3",
+   "legacy_id": "L3",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "સામાન્ય સભામાં મુકાયેલી શરત પોતાના રાજ્ય સિવાયની કૃતિ રજૂ કરવી સામે સમશેરસિંગનો સવાલ અને વિનુદાદાનો જવાબ વાંચી, જૂથ-રચના પાછળનો તર્ક કહેવો.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S3.T3",
+   "anchor": ["M2.S3.T3.C3", "M2.S3.T3.C4"],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O4",
+   "legacy_id": "L4",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "બંગાળી જૂથની મૂંઝવણનું કારણ અને વિનુદાદાના જવાબ 'સંસ્કૃતિ એટલે માત્ર નૃત્ય નહીં'નો અર્થ પોતાના શબ્દોમાં સમજાવવો.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S4.T4",
+   "anchor": ["M2.S4.T4.C5", "M2.S4.T4.C6"],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O5",
+   "legacy_id": "L5",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "તૈયારીના તેર દિવસ દરમિયાન સોસાયટીના લોકોએ શું કર્યું અને ધ્વજવંદન પછી દરેક જૂથે કઈ કૃતિ રજૂ કરી એ ક્રમમાં ગોઠવીને કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M3.S5.T5",
+   "anchor": ["M3.S5.T5.C7", "M3.S5.T5.C8"],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O6",
+   "legacy_id": "L6",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "વિનુદાદાએ કોઈને પહેલો નંબર કેમ ન આપ્યો અને એમના મતે આ કાર્યક્રમથી લોકોને ખરેખર શું મળ્યું એ કારણો સાથે સમજાવવું.",
+   "bloom_level": "Evaluate",
+   "home_topic_id": "M3.S6.T6",
+   "anchor": ["M3.S6.T6.C9", "M3.S6.T6.C10"],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O7",
+   "legacy_id": "L7",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "પ્રસાદમાં ભારતભરની કઈ કઈ વાનગીઓ હતી અને એ વાનગીઓની વિવિધતા આખા એકમના 'વિવિધતામાં એકતા'ના વિચાર સાથે કઈ રીતે જોડાય છે તે કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M3.S6.T7",
+   "anchor": ["M3.S6.T7.C11"],
+   "status": "taught",
+   "theme_category": null
+  }
+ ],
+ "strand_to_objective_map": {
+  "L1": "O1",
+  "L2": "O2",
+  "L3": "O3",
+  "L4": "O4",
+  "L5": "O5",
+  "L6": "O6",
+  "L7": "O7"
+ },
+ "notes": [
+  "GENRE ROUTING followed 01_meta.json's active_genre_profiles as instructed ('take the unit from 01_meta.json ... not from habit'): mahitiprad_gadya.md, cut by માહિતી-ખંડ. 01_meta.json's own extraction_notes record this chapter as a documented, still-open two-profile candidate (mahitiprad_gadya vs samvad_nibandh) with genre_confidence:'low'. This structure trusts Agent 1's call and mahitiprad_gadya.md's explicit resolution of the near-miss table entry for this exact chapter, but the doubt is carried forward here for Agent 4/13: if the routing is later revised to samvad_nibandh, this whole cut (માહિતી-ખંડ → argument-move) would need to be redone, not patched.",
+  "MARKER-TO-TOPIC MAPPING: 00_chapter_normalized.md carries exactly 7 [[માહિતી-ખંડ N: ...]] markers (matching structure_inventory.mahiti_khand:7). This structure carries exactly 7 topics, one per marker, per the hard 'one marker, one topic' rule (02_structure.md) — માહિતી-ખંડ plays the ઘટના-equivalent structural role for this genre per 01_meta.json's own extraction_notes. 01_meta.json's structure_inventory.note asks Agent 2 to determine a finer cut for માહિતી-ખંડ 3-4-5 ('ઝીણો કાપ'). Rather than splitting those three markers into additional topics (which would invent topics with no marker and fail Agent 4's marker-count check), the finer grain is expressed as TWO concepts each inside topics M2.S3.T3, M2.S4.T4 and M3.S5.T5 — each concept separates the two genuinely distinct fact-moves the profile's own guidance permits ('two concepts in one topic, never a third'). Flagging this reasoning explicitly in case Agent 4 expected an actual topic split instead.",
+  "topic_type is CONCEPT on all seven topics, not STORY_TELLING, because the diagnosed genre is informational prose (drop-the-frame test in 01_meta.json: the cultural-diversity facts survive removal of the Gargi/Vinudada/society frame). This also keeps topic_category off 'climax' everywhere, satisfying mahitiprad_gadya.md's Avoid hard gate #1 ('re-teaching the frame as a વાર્તા').",
+  "TOPIC LENGTH is uneven by design, not by oversight: M1.S1.T1 (Gargi's four printed lines) and M3.S6.T7 (the closing paragraph) are short single-concept topics; M2.S3.T3 and M3.S5.T5 are the chapter's densest paragraphs (code-switched Hindi dialogue, five regions' performances) and carry two concepts and 'hard' difficulty. Surfacing this for Agent 13 rather than padding the short topics or splitting the long ones against the marker count.",
+  "difficulty for std 8 was set by what stops an L2 reader on the page, per 02_structure.md's std-8 row: M2.S3.T3 and M3.S5.T5 are 'hard' for the code-switched Hindi-register dialogue (સમશેરસિંગ, વિનુદાદાનો જવાબ), idiom density and the long unlabelled-speaker run across many named characters and regions — never for craft, which is not named at this standard.",
+  "CONTEXT ROUTING GAP: this agent's run context supplied reference/no_hallucination_policy.md, reference/global_content_rules.md, reference/explanation_unit_map.md and reference/teaching_lens_map.md, plus 00_chapter_normalized.md, 01_meta.json and the resolved genre profile (profiles/genres/mahitiprad_gadya.md). The spec (agents/02_structure.md) also lists reference/naming_conventions.md, reference/phase2_contract.md and profiles/students/std-8.md as inputs; these were not included in the given policy set for this run, so this file's ID format (M{m}.S{s}.T{t}.C{c}), the objectives object shape, and the std-8 difficulty/craft-gate rules were taken directly from the text embedded in agents/02_structure.md itself (which restates them explicitly) rather than from the uncited files. If the actual phase2_contract.md schema differs from the shape used here (field names, nesting), that should be reconciled before Agent 4 runs its structural checks."
+ ]
+}

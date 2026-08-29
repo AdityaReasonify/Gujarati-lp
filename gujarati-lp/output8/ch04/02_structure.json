@@ -1,0 +1,449 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch4",
+  "plan_id": "gseb_eng_gujarati8_ch4_v1",
+  "chapter_name": "જબરી મધમાખી",
+  "grade": 8,
+  "genre": "મિશ્ર : વિસ્મયકથા (વાર્તા — પ્રમુખ) + માહિતીપ્રદ ગદ્ય (મધમાખીનો પરિચય — ગૌણ)",
+  "active_genre_profiles": [
+    "varta.md",
+    "mahitiprad_gadya.md"
+  ],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક (મધમાખીના માહિતી-ખંડ પૂરતું : તથ્ય + પરંપરા + જિજ્ઞાસા)",
+  "guiding_question": "હૉસ્પિટલની બારીમાંથી દેખાયેલી એક મધમાખી સ્વપ્નિલ માટે 'જબરી' ક્યારે અને શાથી બની જાય છે ?",
+  "cut_summary": {
+    "reading_scene_markers": 10,
+    "ghatna_markers": 8,
+    "mahiti_khand_markers": 2,
+    "topics": 10,
+    "modules": 3,
+    "segments": 8,
+    "concepts": 11,
+    "apparatus_markers_not_cut": [
+      "પ્રવેશપેટી (શિક્ષક માટે — વાચન-દૃશ્ય નથી)",
+      "શબ્દાર્થ (પેટી — વાચન-દૃશ્ય નથી)",
+      "ચર્ચા-વિચારણા (પેટી — સ્વાધ્યાય નથી)"
+    ],
+    "exercise_blocks_not_cut": 14
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સ્વપ્નિલ ઘરમાં પેઠો ત્યારથી ધ્રૂજવા માંડ્યો ત્યાં સુધીનાં કયાં કયાં ચિહ્નો પાઠમાં દેખાય છે તે શોધીને, મમ્મી કેમ ચિંતામાં પડ્યાં તે પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કેટ-સ્કેન કરાવવાથી સ્વપ્નિલના દુખાવા અને ચક્કરનું કારણ કેવી રીતે જડ્યું તે પાઠની પંક્તિઓ પરથી ક્રમમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": ["M1.S2.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ડૉક્ટર ચાવડાએ ઑપરેશનને બદલે દવાનો રસ્તો કેમ પસંદ કર્યો તે પાઠમાંથી કારણ શોધીને સમજાવવું, અને મમ્મીને રાહત કેમ થઈ તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": ["M1.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "હૉસ્પિટલના દિવસો સ્વપ્નિલને કેમ કંટાળાભર્યા લાગ્યા તે કારણો ગણાવીને, 'માતાનો હાથ સાજો કરી રહ્યો છે' એ લાગણી પોતાના શબ્દોમાં કહેવી.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S3.T4",
+      "anchor": ["M1.S3.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બંધ ઓરડામાંથી બારી ખૂલતાં સ્વપ્નિલનું ધ્યાન ક્યાં ગયું તે કહીને, મધમાખી વિશે જાણવાની ઇચ્છા એને કેમ થઈ તે પાઠમાંથી સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T5",
+      "anchor": ["M2.S4.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ભમતી મધમાખી અને કામગરી મધમાખીનું કામ જુદું પાડીને, મધપૂડા પરના નૃત્યથી દિશા અને અંતરની ખબર કેવી રીતે પડે તે પાઠને આધારે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S5.T6",
+      "anchor": ["M2.S5.T6.C6", "M2.S5.T6.C7"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મધ ભેગું કરતાં કરતાં થતી પરાગનયનની ક્રિયાથી શું પેદા થાય છે તે કહીને, મધ કેમ ઔષધ તરીકે વર્ષો સુધી ટકે છે તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S5.T7",
+      "anchor": ["M2.S5.T7.C8"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મધમાખીથી ડરવાથી માંડીને એને દોસ્ત ગણવા સુધીનો સ્વપ્નિલનો બદલાવ પાઠની ઘટનાઓ ક્રમમાં મૂકીને તપાસવો અને એ બદલાવનું કારણ કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S6.T8",
+      "anchor": ["M3.S6.T8.C9"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સાજા થવાના સમાચાર અને ગાયબ થયેલા મધપૂડાના સમાચાર એક જ દિવસે મળતાં સ્વપ્નિલની ખુશી નિરાશામાં કેમ બદલાઈ તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S7.T9",
+      "anchor": ["M3.S7.T9.C10"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O10",
+      "legacy_id": "L10",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મોટી બહેનની વાત સાંભળીને સ્વપ્નિલને શું સમજાયું તે કહીને, એણે મધમાખીને 'જબરી' કેમ કહી તે કારણ સાથે મૂલવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S8.T10",
+      "anchor": ["M3.S8.T10.C11"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9",
+    "L10": "O10"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "માંદગી અને હૉસ્પિટલના દિવસો",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "ઘરમાં અચાનક આવેલી માંદગી",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "નિશાળેથી આવેલો થાક અને સખત માથું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: નિશાળેથી આવેલા સ્વપ્નિલનું માથું દુખે છે]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "થાક અને દુખાવાનાં પહેલાં ચિહ્નો",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "તપાસ, નિદાન અને સારવારનો નિર્ણય",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "ઍમ્બ્યુલન્સ, કેટ-સ્કેન અને મગજમાંની ગાંઠ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: હૉસ્પિટલમાં દાખલ — કેટ-સ્કેન અને મગજમાં ગાંઠ]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "તપાસથી કારણ સુધી",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "ઑપરેશન નહીં, દવાનો રસ્તો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S2.T2"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: ન્યૂરોલૉજિસ્ટનું નિદાન — ઑપરેશન નહીં, દવા]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "જોખમ જોઈને લેવાયેલો સારવારનો નિર્ણય",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S3",
+          "segment_name": "હૉસ્પિટલના લાંબા દિવસો",
+          "topics": [
+            {
+              "topic_id": "M1.S3.T4",
+              "topic_name": "કંટાળાના દિવસો અને માના હાથની હૂંફ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: હૉસ્પિટલનો કંટાળો અને મમ્મીના હાથની હૂંફ]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S3.T4.C4",
+                  "concept_name": "એકલતાનો કંટાળો અને માનો સ્પર્શ",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "બારીએ ખોલેલી મધમાખીની દુનિયા",
+      "segments": [
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "બારીની બહાર દેખાયેલી નવી દુનિયા",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T5",
+              "topic_name": "ખૂલેલી બારી અને સામેના મકાનનો મધપૂડો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: બારી ખૂલી — સામેના મકાન પર મધપૂડો]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T5.C5",
+                  "concept_name": "બારી, દૂરબીન અને જાગેલી જિજ્ઞાસા",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S5",
+          "segment_name": "મધમાખીની દુનિયાની ઓળખ",
+          "topics": [
+            {
+              "topic_id": "M2.S5.T6",
+              "topic_name": "ભમતી માખી, કામગરી માખી અને પૂડા પરનું નૃત્ય",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M2.S4.T5"],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "source_marker": "[[માહિતી-ખંડ: ભમતી માખી, કામગરી માખી અને મધપૂડા પરનું નૃત્ય]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T6.C6",
+                  "concept_name": "ભમતી અને કામગરી માખીનું વહેંચાયેલું કામ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S5.T6.C7",
+                  "concept_name": "પૂડા પરના નૃત્યની ભાષા",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S5.T7",
+              "topic_name": "પરાગનયન, મધ અને એની ઔષધિ-શક્તિ",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M2.S5.T6"],
+              "objective_ids": ["O7"],
+              "original_chunk": "",
+              "source_marker": "[[માહિતી-ખંડ: પરાગનયન, મધ અને ઔષધિ]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T7.C8",
+                  "concept_name": "પરાગનયનથી ઔષધિ સુધી",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "દોસ્તી, વિદાય અને જબરી મધમાખી",
+      "segments": [
+        {
+          "segment_id": "M3.S6",
+          "segment_name": "ગણગણાટથી બંધાયેલી દોસ્તી",
+          "topics": [
+            {
+              "topic_id": "M3.S6.T8",
+              "topic_name": "હથેળી પર બેઠેલી દોસ્ત અને મધનું ટીપું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M2.S5.T6"],
+              "objective_ids": ["O8"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: મધમાખી સાથે દોસ્તી — હથેળી, આંગળી અને મધનું ટીપું]]",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T8.C9",
+                  "concept_name": "ડરથી દોસ્તી સુધીનો બદલાવ",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S7",
+          "segment_name": "રજા મળી અને ખાલી થયેલી દીવાલ",
+          "topics": [
+            {
+              "topic_id": "M3.S7.T9",
+              "topic_name": "તબિયત સુધરી, પણ મધપૂડો ગાયબ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O9"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: તબિયત સુધરી, પણ મધપૂડો ઉતારી લેવાયો]]",
+              "concepts": [
+                {
+                  "concept_id": "M3.S7.T9.C10",
+                  "concept_name": "સાજા થવાની ખુશી અને ખાલી પડેલી દીવાલ",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S8",
+          "segment_name": "છેલ્લે મળેલો સંદેશો",
+          "topics": [
+            {
+              "topic_id": "M3.S8.T10",
+              "topic_name": "ઘરની સામેના ઝાડ પરનો નવો મધપૂડો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "easy",
+              "depends_on": ["M3.S7.T9"],
+              "objective_ids": ["O10"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: ઘરની સામેના ઝાડ પર નવો મધપૂડો — ‘મારી બેટી જબરી તો કહેવાય !’]]",
+              "concepts": [
+                {
+                  "concept_id": "M3.S8.T10.C11",
+                  "concept_name": "ગણગણાટમાં છુપાયેલો સંદેશો",
+                  "objective_id": "O10",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Marker-to-topic accounting for Agent 4. 00_chapter_normalized.md carries thirteen non-સ્વાધ્યાય [[…]] markers. Ten are reading scenes and each becomes exactly one topic: eight [[ઘટના: …]] and two [[માહિતી-ખંડ: …]]. Three are apparatus and are deliberately NOT topics — the blue પ્રવેશપેટી (its own marker prints 'શિક્ષક માટે — વાચન-દૃશ્ય નથી'), the yellow શબ્દાર્થ box, and the closing ચર્ચા-વિચારણા box. The fourteen [[સ્વાધ્યાય: …]] markers (including the unnumbered રૂઢિપ્રયોગ pre-block) are Agent 10 territory and none was cut. Counts match 01_meta.json.structure_inventory exactly: ghatna 8, mahiti_khand 2, kadi/duha/pad/tek 0.",
+    "Mixed chapter, cut part-by-part under its own unit, dominant first. The eight story beats are cut ઘટના-wise under varta.md; the two expository blocks are cut માહિતી-ખંડ-wise (fact-step, not speaker) under mahitiprad_gadya.md, exactly as 01_meta.json.explanation_unit directs. No disagreement between the rendered page (via Agent 1's transcription) and the profile prior was found — the marker line Agent 1 wrote already sits at the fact-step in both expository blocks, so no boundary had to be moved.",
+    "One topic carries two concepts, so the chapter-continuous concept counter overtakes the topic counter from M2.S5.T7 onward. M2.S5.T6 does two genuinely separable things — the ભમતી/કામગરી division of labour, and the dance on the hive surface that signals direction and distance — which is the case mahitiprad_gadya.md reserves concepts[] for. Ten topics therefore carry eleven concepts: C1…C5 track T1…T5, T6 carries C6 and C7, and T7…T10 carry C8…C11. This is NOT a per-topic restart and NOT a numbering fault; c runs one to eleven in traversal order with no gap and no repeat.",
+    "topic_category placement. The chapter's single climax is the last topic, per 01_meta.json's instruction that the વળાંક and its ચોટ sit at the end and must not be opened early or split. Neither માહિતી-ખંડ topic carries 'climax', which keeps mahitiprad_gadya.md's hard gate one intact for the expository half while leaving varta.md's climax requirement satisfied in the story half. Two 'transition' topics are used: M2.S4.T5, where the chapter turns from the illness to the hive, and M3.S7.T9, where it turns from hospital to home. No topic is marked 'resolution' — this chapter ends on its turn, not after it.",
+    "Craft-label gate held. No objective names an અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર; every objective asks the child to find, order, explain or judge something the printed page states. Nothing in objectives O1 through O9 names the outcome that only M3.S8.T10 carries (the new hive, the word 'જબરી'), so varta.md's spoil-the-turn gate is not pre-broken at the plan level.",
+    "difficulty is relative inside this chapter and set by what stops an L2 reader on the page, not by idea size. 'hard' is used twice: M1.S2.T2 for the dense medical loanword run (ઍમ્બ્યુલન્સ, કેટ-સ્કેન, ન્યૂરોલૉજિસ્ટ, નિદાન, લક્ષણ) inside one long paragraph, and M2.S5.T6 for the chapter's densest factual block — the two Roman-script islands the book itself prints, '(scout bee)' and '(worker bee)', the દેવનાગરી-લિપિ letter shape used to describe the dance, and the direction-plus-distance mechanism, in a paragraph Agent 1 records as carrying a missing sentence-boundary full stop.",
+    "Uneven topic length, recorded for Agent 5 and Agent 12. M1.S1.T1 and M3.S8.T10 are short (three and two printed paragraphs of mostly dialogue); M2.S4.T5 and M3.S6.T8 are the two longest single-marker blocks in the chapter, M3.S6.T8 running two full paragraphs. The cut follows the story's turns rather than paragraph counts, so this unevenness is expected, but the long topics will need the tightest word discipline downstream.",
+    "depends_on records only real dependence and is empty on five of ten topics. M1.S2.T3 needs the ગાંઠ found in M1.S2.T2 before a treatment can be chosen; M2.S5.T6 answers the three questions Swapnil asks at the end of M2.S4.T5; M2.S5.T7 continues the same sitting with the sister; M3.S6.T8 turns on the fact learned in M2.S5.T6 that the bees do not sting without cause, which is why 'સ્વપ્નિલ હવે ડરતો ન હતો'; and M3.S8.T10 explains the two bees that circled the closed window at the end of M3.S7.T9.",
+    "No page render was opened. Every cut decision was answerable from 00_chapter_normalized.md's marker lines and prose; the layout questions this agent would otherwise need a PNG for (two-column verse, refrain shorthand, printed section headings) do not arise in an all-prose chapter that prints no verse at all.",
+    "Two items Agent 1 flagged that this agent deliberately did not act on, so they are not lost: the printed શબ્દાર્થ box glosses નગુણાં and ધંધો, neither of which appears in the reading text of any topic here (so neither should be glossed as if it were in a scene); and the chapter's final line prints an unmatched closing quote. Both belong to Agent 5's verbatim and Agent 12's glossing, not to the cut."
+  ]
+}

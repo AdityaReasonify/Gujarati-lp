@@ -1,0 +1,13 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "82ce00a1b2f5cdb4e2a590811acca946717d86be7ec644b76fe15453ce197971",
+  "verdict": "pass",
+  "notes": [
+    "Convergence record only — the structure payload is NOT duplicated here. Downstream agents read 02_structure.json for structure and this file only to confirm convergence.",
+    "Ids are frozen from this moment: modules M1-M3, segments M1.S1 to M3.S6, topics T1-T8, concepts C1-C15 (chapter-continuous), objectives O1-O8 with L1-L8. Only Agent 14 renumbers, and it must translate every surviving reference.",
+    "Agent 4 ran once, as specified. All three blocking checks passed: સ્વરૂપ fidelity (વાર્તા, unit એક ઘટના, avoid-gate clean), coverage (8 ઘટના markers -> 8 topics in order, no સ્વાધ્યાય block cut as a topic, no unclaimed text), objectives (O1-O8 unique, every home_topic_id and anchor resolves, strand_to_objective_map covers L1-L8 exactly once, text-grounded and chapter-specific, id contract clean).",
+    "Non-blocking notes travel to Agent 13 in 04_validation.json — chiefly: no pre-reading topic exists because this chapter's only pre-reading matter is the teacher-addressed પ્રવેશપેટી (apparatus, correctly excluded); original_chunk is empty in all eight topics by design and Agent 5 must fill it from 00_chapter_normalized.md lines 8-32; the spoiler gate before M3.S5.T7 and the sensitivity constraints stay open for Agents 12 and 13.",
+    "sha256 is of 02_structure.json as it stood at convergence. If that file changes, this record no longer describes it."
+  ]
+}

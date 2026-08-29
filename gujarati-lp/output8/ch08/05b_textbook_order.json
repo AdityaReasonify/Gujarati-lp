@@ -1,0 +1,15 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch8",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M2.S2.T2",
+    "M3.S3.T3"
+  ],
+  "source": "printed pages 64–67 read off the render (_renders/page-1.png–page-4.png); the chapter's entire reading text sits on these four folios and the three topics appear in the printed running order with no reordering",
+  "notes": [
+    "Identical to the logical traversal order of 05_with_content.json (M1.S1.T1, M2.S2.T2, M3.S3.T3). Emitted anyway so Agent 15 raises human_confirmation_required on a comparison that actually happened rather than on an assumption.",
+    "The chapter prints no internal sub-heads other than its three [[ઘટના: ...]] markers ('ઘટના: ચાર કિશોરોનું બચાવ-કાર્ય', 'ઘટના: બે સૈનિકોનું બચાવ-કાર્ય (1869)', 'ઘટના: બહેનપણીનું બચાવ-કાર્ય (અંતિમ કાર્ય)'), so printed order is simply paragraph order and the three marker ranges follow it exactly.",
+    "EXCLUDED, and deliberately so: the pink title bar with its number box '8' and the QR badge (code 'M5P7W8'), the author slot '- હરીશ નાયક', the teacher-addressed blue [[પરિચય-પેટી]] on page 64, the two [[ચિત્ર: ...]] illustration markers ('ચિત્ર: તોફાનમાં ફસાયેલા ચાર છોકરાની હોડી પાસે નાવડીમાં એક છોકરી'; 'ચિત્ર: મંચ પર આઈડાનું સન્માન, ફૂલોનો ગુચ્છ અર્પણ કરાતો'), the yellow [[શબ્દાર્થ]] appendix box at the foot of page 67, the two unnumbered pre-blocks ('શબ્દસમૂહ માટે એક શબ્દ આપો.'; 'રૂઢિપ્રયોગ.'), all twelve numbered સ્વાધ્યાય blocks running pages 68-71 (including the rapper-scaffold block, the Galapagos cloze paragraph, the sea-journey ('સફર') cloze paragraph, and the whale translation paragraph embedded inside them), and the closing [[ચર્ચા-વિચારણા]] box. None of them is a topic and none enters this index.",
+    "This chapter has no વ્યાકરણ એકમ, પૂરકવાચન piece or 'આગળ વધતાં પહેલાં' revision unit inside its own rendered page range; the eight rendered pages (printed pp 64-71) are the chapter and nothing between chapters was read into it."
+  ]
+}

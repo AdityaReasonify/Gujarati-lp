@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24 17:29:45",
+  "generated_at": "2026-08-29 16:17:09",
   "std": 6,
-  "verdict": "WEDGED? 7 agent(s) >15m idle AND no new output for 1139m",
+  "verdict": "5 agent(s) writing recently",
   "complete_chapters": [
     1,
     2,
@@ -353,64 +353,34 @@
   ],
   "live_agents": [
     {
-      "run": "wf_b3db6a20-d7e",
-      "agent": "adaf5539748c55610",
-      "idle_min": 31.2,
-      "mb": 0.4
-    },
-    {
-      "run": "wf_b3db6a20-d7e",
-      "agent": "a8a2e57bd73d248a6",
-      "idle_min": 31.2,
-      "mb": 0.0
-    },
-    {
-      "run": "wf_b3db6a20-d7e",
-      "agent": "ab024a8bc6778337e",
-      "idle_min": 31.1,
-      "mb": 0.0
-    },
-    {
-      "run": "wf_b3db6a20-d7e",
-      "agent": "a5259a96156902f26",
-      "idle_min": 28.8,
-      "mb": 1.6
-    },
-    {
-      "run": "wf_b3db6a20-d7e",
-      "agent": "af0b4fd785362f009",
-      "idle_min": 17.7,
-      "mb": 1.8
-    },
-    {
-      "run": "wf_b3db6a20-d7e",
-      "agent": "a762e0f7e8d79033f",
-      "idle_min": 17.1,
+      "run": "wf_ce9b46a0-e15",
+      "agent": "a21ad4941cb134ee8",
+      "idle_min": 10.0,
       "mb": 0.5
     },
     {
-      "run": "wf_b3db6a20-d7e",
-      "agent": "a9540f79c9ba59773",
-      "idle_min": 17.1,
-      "mb": 0.0
+      "run": "wf_ce9b46a0-e15",
+      "agent": "a1ee6eb32d97fb3bc",
+      "idle_min": 5.9,
+      "mb": 0.4
     },
     {
-      "run": "wf_b3db6a20-d7e",
-      "agent": "aef72fd8a2d30d0af",
-      "idle_min": 12.9,
-      "mb": 1.7
+      "run": "wf_ce9b46a0-e15",
+      "agent": "a23c84376c7346776",
+      "idle_min": 2.1,
+      "mb": 3.2
     },
     {
-      "run": "wf_b3db6a20-d7e",
-      "agent": "a79a3606322378ee2",
-      "idle_min": 4.2,
-      "mb": 0.7
+      "run": "wf_ce9b46a0-e15",
+      "agent": "a49c9f1d6f6e771ce",
+      "idle_min": 1.6,
+      "mb": 1.8
     },
     {
-      "run": "wf_b3db6a20-d7e",
-      "agent": "ae677951151a4a24d",
-      "idle_min": 4.1,
-      "mb": 0.0
+      "run": "wf_ce9b46a0-e15",
+      "agent": "a91497956d7215493",
+      "idle_min": 0.1,
+      "mb": 0.5
     }
   ],
   "stage_count": 13,

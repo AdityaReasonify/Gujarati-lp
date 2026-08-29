@@ -1,0 +1,48 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S2.T2",
+      "areas": ["વિકલાંગતા"],
+      "caution": "The explanation of maNekLal's 'મગજ અસ્થિર થઈ ગયું હતું' and his aimless 'બબડાટ' turns his mental illness into pity, comic relief, or a moral failing of the father rather than a medical condition the family is coping with.",
+      "guidance": "Keep the explanation focused on how the family manages around the father's condition (the mother takes up all the sewing work), not on the father as a figure of shame or ridicule; the period phrase 'ગાંડાની ઇસ્પિતાલમાં મૂકવા જેવા ન હતા' stays exactly as printed inside original_chunk and must not be echoed or paraphrased inside explanation or real_life_example.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "areas": ["જાતિ-ભૂમિકા"],
+      "caution": "The explanation of the mother sewing buttons and pillow-covers to feed seven people could be generalised into 'સ્ત્રીઓનું કામ ઘર ચલાવવાનું છે' rather than being tied to this family's specific circumstance (the father unable to work).",
+      "guidance": "Present the mother's work as this family's response to the father's illness and their poverty — exactly as the chapter frames it — not as a statement about what mothers or women in general should do.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "areas": ["ધર્મ"],
+      "caution": "Anandi's night-time prayer ('ભગવાનને સાચા દિલથી પ્રાર્થના કરીએ તો... ભક્તની વહારે ધાય છે') could be turned into a theological claim about how God works, or into an instruction that the child should pray the same way to get what they want.",
+      "guidance": "Keep the explanation inside Anandi's own feeling — a lonely, worried child finding comfort in a familiar prayer at night — and let the real_life_example stay in the child's own world (a quiet wish made before sleep), not a lesson on how prayer guarantees an outcome.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S4.T5",
+      "areas": ["ધર્મ"],
+      "caution": "Anandi's line 'નક્કી આ નોટ ભગવાને જ મૂકી હશે' could be presented in the explanation as a fact of what actually happened, rather than as the child's own hopeful belief in the moment.",
+      "guidance": "Frame it as what Anandi believed at that instant, not as the story's own claim about divine intervention — the very next topic shows her questioning that belief herself.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M3.S5.T6",
+      "areas": ["ધર્મ"],
+      "caution": "Anandi's inner debate ('ભગવાન કદી ચોરી કરાવે ખરો ? ચોરી કરું તો ભગવાન જરૂર નારાજ થાય') could be turned into a definite doctrinal statement about God and sin rather than a child reasoning through her own conscience.",
+      "guidance": "Keep the explanation on Anandi working out right from wrong in her own mind — the pull of the outing against the discomfort of taking something that may not be hers — using her thought about God as one part of that reasoning, not as the lesson's conclusion.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M3.S6.T8",
+      "areas": ["ધર્મ"],
+      "caution": "The closing line 'ભગવાને જેને બે રૂપિયાની ભેટ મોકલી' could be taught as the story's stated moral (that honesty is rewarded by God) rather than the narrator's closing remark on Anandi's own joy.",
+      "guidance": "Keep the explanation and real_life_example centred on Anandi's honesty being recognised by people around her (the doctor, the ટીચર's fee waiver) — the reward for truthfulness is the point, not a promise that God repays honesty with money.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [],
+  "none_found": false
+}

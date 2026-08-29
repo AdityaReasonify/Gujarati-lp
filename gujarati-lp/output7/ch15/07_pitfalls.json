@@ -1,0 +1,171 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Gate 4 (invented destination detail). Every place name and every figure appearing in `explanation`, `summary`, `brief_summary`, `detailed_summary`, `important_points`, a `concept_bullets` line, `real_life_example` or a recall `answer` for this topic must already stand in this topic's own `original_chunk`: ભરતપુર, ઉદયપુર, જયપુર, ચિત્તોડગઢ, જોધપુર, નાથદ્વારા, જેસલમેર, નેશનલ સેન્ડ ડ્યૂનપાર્ક, and the single distance the chapter gives, 'લગભગ સિત્તેર કિલોમીટર'. The chapter writes only 'બીજા દેશની સરહદ' and never names that country — no field may name it. No field may add રાજસ્થાનનું પાટનગર, its area, its population, or the name of any bird seen at ભરતપુરનું અભયારણ્ય.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 5 (travel guide / geography lesson) together with gate 10 (a place of worship as the chapter frames it). No field expands 'જેમને જાત્રા કરવી છે તે બધા નાથદ્વારા જાય છે' into information about that shrine, its deity, its rituals or any comparison of faiths — નાથદ્વારા is named exactly as the chapter names it, a place people go to on જાત્રા. And no field supplies route directions, fares, opening times, 'ફરવા જવાની સારી ઋતુ', altitudes or dynastic history for ઉદયપુર, જયપુર, ચિત્તોડગઢ, જોધપુર or the સેન્ડ ડ્યૂનપાર્ક.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gloss source, this topic only. The printed શબ્દાર્થ box glosses વ્યૂહાત્મક as 'સર્વ સ્થળે ફેલાઈને રહેલું વિશાળ', which does not fit the sentence the word actually stands in here ('વ્યૂહાત્મક રીતે પણ જેસલમેરનું મહત્ત્વ અનેક ગણું છે'). The `key_terms` entry and any gloss inside `explanation` must take the meaning from that sentence — સરહદ નજીક હોવાથી સંરક્ષણની દૃષ્ટિએ અગત્યનું — and must not reproduce the box's wording; the printed box itself is Agent 1's verbatim and is never rewritten.",
+          "profile": "patra_pravas",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક 'સહેલાણી' શબ્દને 'સહેલું કરનાર' જેવો કંઈક સમજી લે છે, અથવા છાપેલા શબ્દાર્થ પ્રમાણે માત્ર 'આનંદી માણસ' — એટલે 'ત્યાં વિવિધ જાતનાં અનેક પંખીઓને જોવા માટે સહેલાણીઓ આવે છે' વાક્યમાં ભરતપુર કોણ આવે છે એ જ પકડાતું નથી, ને આખો ફકરો રાજસ્થાનમાં જોવા જવાની જગ્યાઓની વાત છે એ ખૂલતું નથી.",
+      "correction": "શબ્દ પહેલી વાર આવે ત્યાં જ `explanation`માં ગ્લોસ કરો — 'સહેલાણી — ફરવા નીકળેલો પ્રવાસી' — અને `key_terms`માં એ જ અર્થ 'શબ્દ — અર્થ' રૂપે રાખો. પછી એ જ શબ્દ ઉદયપુર-જયપુર-ચિત્તોડગઢ જોવા જતા લોકોવાળા વાક્યની સમજૂતીમાં ફરી એક વાર વાપરો, જેથી બાળકને એ શબ્દ બીજી વાર મળે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "Gate 4 (invented destination detail) on the three film titles. The topic prints 'સોનાર કેલા', 'હિરક રાજર દેશ' and 'ગોપી ગાયે બાઘા બાયે' and prints nothing else about them. No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or recall `answer` may name their દિગ્દર્શક, their year, their language, their story, or which of them was shot where — the chapter says only 'કેટલુંક શૂટિંગ જેસલમેરમાં થયું છે'. The titles are quoted in Gujarati script exactly as printed and are never romanised or respelt.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 11 (the writer's view is attributed, never asserted). 'જેમણે એક વખત જેસલમેર જોયું હોય તે આ શહેરને ભૂલી ન શકે', 'જેસલમેરની માટી જ સોનાની છે' and 'જેસલમેરથી તે ચોક્કસપણે પ્રભાવિત થશે જ' are the writer's claims; every field that carries them attributes them ('લેખક કહે છે કે…', 'લેખકને લાગે છે કે…') and no field states them as a fact about the city or about all artists.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 12 (no device that is not there) with the std-7 label ceiling. 'જેસલમેરની માટી જ સોનાની છે' invites a રૂપક or ઉપમા label; no field of this topic names રૂપક, ઉપમા, અલંકાર or any સાહિત્યપ્રકાર term, and `figures_of_speech` stays `[]`.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'જેસલમેરની માટી જ સોનાની છે' વાક્યને શબ્દશઃ લે છે — એને લાગે છે કે ત્યાંની જમીનમાં ખરેખર સોનું છે કે સોનાની ખાણ છે; પાઠનું નામ 'સોનાનો કિલ્લો' હોવાથી આ ભૂલ વધારે પાકી થઈ જાય છે અને આખો ફકરો સર્જકોની વાત મટીને ખજાનાની વાત બની જાય છે.",
+      "correction": "`explanation`ના પહેલા વાક્યમાં જ પાઠના પોતાના શબ્દોથી ખોલો — 'તેને જે રીતે ઘડીએ તેમ આકાર પામે છે' — એટલે લેખક કહે છે કે ચિત્રકાર, શિલ્પકાર, ફોટોગ્રાફર, ફિલ્મસર્જક કે સંગીતકાર જેસલમેરમાંથી જે ઘડવા ધારે તે ઘડી શકે છે. ત્યાં સોનું નીકળે છે એવું ક્યાંય ન લખો; 'સોનાની' એટલે અહીં કિંમતી ને સુંદર લાગે તેવી, એટલું જ કહો — અલંકારનું નામ આપ્યા વગર."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Gate 11 (the writer's assumption is not the pack's voice), matching `08_sensitivity.json`'s ક્ષેત્ર note for this topic. 'એ જેટલી જોવા મળે છે તેટલી જ આપણા લોકોએ તેને બગાડી પણ છે … આપણા લોકોની આદતો જાણી દુ:ખ પણ થાય છે' is carried in `explanation` or a `concept_bullets` line as the writer's own regret at seeing the કોતરણી of પટવાઓની હવેલીઓ spoilt ('લેખકને દુ:ખ થાય છે કે…'), never as a fact about a community or about 'આજના લોકો'. No field of this topic contains 'આ લોકો', 'એ લોકોની રીતભાત', પછાત, અભણ, or a named group blamed for the damage.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 8 (tacked-on બોધ). No sentence of `explanation`, `brief_summary`, `summary`, `detailed_summary`, a `concept_bullets` line or a recall `answer` closes on an exhortation of the shape 'આપણે આપણો વારસો સાચવવો જોઈએ' / 'આપણે ગંદકી ન કરવી જોઈએ' / 'આ પાઠ આપણને શીખવે છે…'. This topic prints the writer's દુ:ખ and prints no such rule, so no such clause can be quoted from it either.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 12 (no device that is not there) with the std-7 label ceiling. 'સોનાની ખાણમાં ફરવા જેવું લાગે' and 'તડકાથી કિલ્લો નહીં પણ તડકો કિલ્લાથી શોભતો હતો' both invite an અલંકાર name; no field of this topic names ઉપમા, રૂપક, વ્યતિરેક or અલંકાર, and `figures_of_speech` stays `[]`.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'તડકાથી કિલ્લો નહીં પણ તડકો કિલ્લાથી શોભતો હતો' વાક્યનો બીજો અડધો ભાગ પકડતું નથી અને એને સાદું 'કિલ્લો તડકામાં સુંદર લાગે છે' બનાવી દે છે — એટલે લેખકે જે ઊલટાવીને કહ્યું છે એ જ વાત, ને પાઠના નામ સુધી પહોંચતી કડી, હાથમાંથી છૂટી જાય છે.",
+      "correction": "`explanation`માં બંને અડધા ભાગ છૂટા પાડીને સાદી ગુજરાતીમાં ફરી કહો — 'તડકો કિલ્લાને શોભાવે છે એમ નહીં; કિલ્લો પોતે એટલો સોનેરી છે કે તડકો એનાથી શોભે છે' — અને પછી પાઠનું જ 'સોનાની ખાણમાં ફરવા જેવું લાગે' બતાવીને એની સાથે જોડો. એક recall પ્રશ્નનો જવાબ પણ આ જ ઊલટા ક્રમને પાઠના શબ્દોમાં કહેવડાવે."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "Gate 7 (no normalising the verbatim) — a live drift in this topic. `05_with_content.json`'s `original_chunk` prints the poet's name twice in two different spellings, 'યોગેશ જોષી' in the list of poets and 'કવિ યોગેશ જોશી' immediately before the quotation, while `00_chapter_normalized.md` transcribes 'જોષી' in both places and Agent 1's extraction note records 'યોગેશ જોષી (ષ, not સ)' as confirmed at zoom. `original_chunk` must match the transcription character for character, and no `explanation`, `key_terms` entry or recall `answer` may introduce a third form.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 4 (invented detail about a named person). The topic names રઘુવીર ચૌધરી, યોગેશ જોષી and ગુલામ મહંમદ શેખ and prints nothing about them except that the writer remembers them as people who wrote about જેસલમેર. No field adds a birth year, a book title, an award or a movement, and no field decides what the unnamed others wrote — 'બીજાઓએ પણ કંઈક લખ્યું હશે' stays as unspecified as the page leaves it.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 12 (no device that is not there) with the std-7 label ceiling. The six quoted lines — 'ને તે છતાંયે ઝરૂખા છે...!' / 'હવામાં ઝૂલતા ઝરૂખાઓ' / 'ઝરૂખામાં ઝૂરે' / 'ઊડે ઊતરી ગયેલી' / 'ઝાંખ વળેલી' / 'ટમટમતી આંખો...!' — invite સજીવારોપણ; no field of this topic names સજીવારોપણ or any other અલંકાર or છંદ, and `figures_of_speech` stays `[]`. The six lines are never reflowed, completed, 'corrected' or paraphrased inside `original_chunk`, and the printed '...!' endings stay.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક છ પંક્તિઓને લેખકનું પોતાનું લખાણ સમજી લે છે, ને 'ઝરૂખામાં ઝૂરે', 'ટમટમતી આંખો' વાંચીને એમ ધારે છે કે લેખક પોતે કવિતા લખતાં લખતાં ફરે છે — પંક્તિઓ કોની છે અને ગદ્યની વચ્ચે એ કેમ મુકાઈ છે એ સવાલ જ એના મનમાં ઊભો થતો નથી.",
+      "correction": "પંક્તિઓ આવે એ પહેલાં જ `explanation`માં પાઠનું પોતાનું વાક્ય બતાવો — 'કવિ યોગેશ જોષી તો એમની કવિતામાં આ જેસલમેરના કિલ્લાના ઝરૂખા વિશે કહે છે,' — અને સાફ કહો કે લેખક ફોટોગ્રાફીની સફરે નીકળેલા છે, પંક્તિઓ કવિની છે અને લેખકે એ અહીં ટાંકી છે. એક recall પ્રશ્નનો જવાબ 'આ પંક્તિઓ કોની છે ?' પાઠના જ શબ્દોમાં રાખો."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "Gate 4 (invented destination detail). No field of this topic may add what the lines do not give: how far the સેન્ડ ડ્યૂન are from જેસલમેર, what the સૂર્યાસ્તનો સમય the writer noted actually was, how a રાવણહથ્થો or સારંગી is built or how many strings it has, who composed 'કેસરિયા બાલમા, પધારો મોરે દેશ', or what રાગ 'માંડ' is. About 'માંડ' only what the topic prints may be said — that its સ્વરો are heard in these songs.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 7 (no transliterating or 'correcting'). 'સેન્ડ ડ્યૂન', 'રાવણહથ્થો', 'સારંગી', 'માંડ' and the Hindi-Rajasthani song line 'કેસરિયા બાલમા, પધારો મોરે દેશ' stay in Gujarati script exactly as printed in `original_chunk` and in every authored field — the English loan is never written back in Roman letters and the song line is never turned into Gujarati; the opening single quote the book never closes is not repaired inside `original_chunk`.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 10 (a living culture, neither exoticised nor explained away), matching `08_sensitivity.json`'s ક્ષેત્ર note for this topic. The આતિથ્ય and the singing are described as the topic describes them — 'અનેક લોકોને રાજસ્થાની ગીતો ગાતાં સાંભળ્યાં' with their own રાવણહથ્થો and સારંગી — and no `explanation`, `real_life_example` or recall `answer` presents them as a show arranged for tourists or contains 'આ લોકો', 'એ લોકોની રીતભાત', પછાત, જંગલી or અસભ્ય.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક પાઠનું વાક્ય — ‘માંડ’ના સ્વરો તો આ ગીતોમાં સાંભળવા મળે જ — વાંચીને ‘માંડ’ ને રોજિંદી બોલીનો 'માંડ માંડ' (મુશ્કેલીથી, પરાણે) સમજી લે છે; એટલે અર્થ ઊંધો થઈને 'આ ગીતોમાં માંડ માંડ સ્વર સંભળાય છે' જેવો બેસી જાય છે, ને રાજસ્થાની ગાયકીની વાત આખી ખોવાઈ જાય છે.",
+      "correction": "શબ્દ પહેલી વાર આવે ત્યાં જ `explanation`માં ગ્લોસ કરો — ‘માંડ’ એટલે રાજસ્થાની લોકગાયકીનો એક ઢાળ, એટલે કે ગાવાની એક રીત — અને બાળકનું ધ્યાન પાઠે એ શબ્દ ફરતે મૂકેલા અવતરણચિહ્ન પર દોરો; સાથે એટલું ઉમેરો કે 'માંડ માંડ' વાળા માંડ સાથે એને લેવાદેવા નથી. એ જ ગ્લોસ `key_terms`માં 'શબ્દ — અર્થ' રૂપે રાખો."
+    },
+    {
+      "topic_id": "M2.S4.T6",
+      "avoid_checks": [
+        {
+          "check": "Gate 11 (the writer's observation is attributed, and what lands badly stays in the verbatim), matching `08_sensitivity.json`'s જાતિ-ભૂમિકા note for this topic. The appearance sentences — 'રાજસ્થાની સ્ત્રી બીજા રાજ્યની સ્ત્રીઓથી થોડી જુદી તરી આવે તેનું કારણ તેમનું કાઠું છે', 'તે સુંદર પણ એટલી જ', 'ખાસ તો એમની આંખો અત્યંત આકર્ષક' — stay in `original_chunk` only: no `explanation`, `concept_bullets` line, `real_life_example`, summary field or recall `answer` repeats the કાઠું comparison or ranks the women of one state against another's. Where this topic's admiration is taught, it is taught on the રંગબેરંગી કપડાં, the ગાવું-નૃત્ય and the ઠસ્સો, and it is attributed ('લેખકને … લાગ્યું').",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 4 (invented destination detail). The topic prints only 'રંગબેરંગી કપડાં', 'ગાતી કે નૃત્ય કરતી' and 'ઠસ્સો'. No field may name a garment, an ornament, a dance or a fair the chapter does not print — ઘાઘરો, ઓઢણી, બાંધણી, ઘૂમર, પુષ્કરનો મેળો — and no field may name which films the writer remembered, since the topic says only 'અનેક ફિલ્મોનાં દૃશ્યો યાદ આવ્યાં'.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 10 (a place and its people as the chapter describes them). No `explanation`, `real_life_example` or recall `answer` of this topic contains પછાત, અભણ, જંગલી, અસભ્ય, 'આ લોકો' or 'એ લોકોની રીતભાત' about રાજસ્થાનના લોકો, and the colour and the singing are presented as one photographer's morning observation of a living regional culture, not as a costume or a curiosity.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'આસપાસના પરિવેશને ધમરોળવા નીકળી પડ્યો' વાંચીને 'ધમરોળવું' ને ધમાલ કે તોડફોડ સાથે જોડી દે છે, એટલે લેખક સવારે કંઈક બગાડવા નીકળ્યા હોય એવો સાવ ઊંધો અર્થ બેસી જાય છે — ને 'સવારના પહોરમાં' પણ ઊકલતું નથી.",
+      "correction": "`explanation`ના પહેલા વાક્યમાં જ બંને શબ્દ ખોલો — 'સવારના પહોરમાં' એટલે વહેલી સવારે, અને 'ધમરોળવું' એટલે ખૂણેખૂણો ફરી વળવું, બધે ફેંદી વળવું — અને કૅમેરા લઈને ગલીએ ગલીએ ફરી વળતા લેખકનું ચિત્ર બતાવીને એ અર્થ પાકો કરો. એ જ બે ગ્લોસ `key_terms`માં 'શબ્દ — અર્થ' રૂપે રહે."
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "Gate 8 (tacked-on બોધ) — the chapter's closing topic is where this bites hardest. No sentence of `explanation`, `brief_summary`, `summary`, `detailed_summary`, a `concept_bullets` line or a recall `answer` closes on 'આપણે પણ પ્રવાસ કરવો જોઈએ' / 'આપણે આપણો વારસો સાચવવો જોઈએ' / 'આ પાઠ આપણને શીખવે છે…'. The chapter's own closing sentence — 'જેસલમેરનો સોનાનો કિલ્લો સમગ્ર વિશ્વમાં આપણી કલાસમૃદ્ધિનું શિખર છે.' — is quoted and taught as the writer's own closing statement instead.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 4 (invented destination detail). The topic says only 'આ શહેરના રાજવીએ સોનાનો કિલ્લો બાંધ્યો છે' and 'તે કેટલાં વર્ષોથી ઝળહળે છે'. No field may name that રાજવી, give a year, a century, the fort's age or height, the number of havelis, or how many people live inside it; 'કેટલાં વર્ષોથી' stays exactly as vague as the page leaves it.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 11 (the writer's view is attributed). 'જેસલમેર જેટલું બહાર દેખાય છે તેટલું જ મારા મનમાં વસેલું છે', 'એક એવો વિચાર પણ આવે કે…' and 'કલાસમૃદ્ધિનું શિખર છે' are the writer's own thought and judgement; the field carrying each attributes it ('લેખક કહે છે કે…', 'લેખકને એવો વિચાર આવે છે કે…') and no field states them as a fact about the fort or about world art.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 7 (no normalising the verbatim) — a live drift in this topic. `05_with_content.json`'s `original_chunk` opens 'જેસલરમેર જેટલું બહાર દેખાય છે', while `00_chapter_normalized.md` transcribes the same sentence as 'જેસલમેર જેટલું બહાર દેખાય છે'. `original_chunk` must match the transcription character for character, and no authored field may carry the જેસલરમેર form.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'કલાસમૃદ્ધિનું શિખર' સાંભળીને 'શિખર'નો રોજિંદો અર્થ — પર્વતની ટોચ કે મંદિરનું શિખર — પકડી લે છે, ને એમ સમજે છે કે કિલ્લો કોઈ ટેકરીના શિખર પર ઊભો છે; એટલે લેખકે છેલ્લા વાક્યમાં જે કહ્યું છે તે — આ કિલ્લો આપણી કળાનું સૌથી ઊંચું ઉદાહરણ છે — સાવ છટકી જાય છે.",
+      "correction": "`explanation`માં એ વાક્ય લેતાં જ બંને શબ્દ ખોલો — 'કલાસમૃદ્ધિ — કળાનો મોટો ખજાનો' અને 'શિખર — અહીં ટોચ, એટલે કે સૌથી ઊંચું ઉદાહરણ' — અને સાફ કહો કે કિલ્લો શિખર પર નથી, કિલ્લો પોતે જ આપણી કળાનું શિખર છે એમ લેખક કહે છે. પછી પાછલા પડાવની કોતરણી અને ઝરૂખા સાથે એને જોડો, જેથી 'શિખર' શાના આધારે કહેવાયું તે દેખાય."
+    }
+  ],
+  "chapter_level": [
+    "પત્ર-shape gates 2 and 3 of `patra_pravas` (printed sender block, તારીખ and સંબોધન inside the first topic's `original_chunk`; addressee and relationship named in the first `explanation`) do NOT apply to this chapter. It is the પ્રવાસવર્ણન shape and prints no sender block, no salutation and no sign-off — a measured absence recorded by Agents 1 and 4. No agent may invent an addressee, a 'પ્રિય મિત્ર' frame or a second-person letter voice in order to satisfy them. The letter skill this chapter feeds lives in the printed exercise block 'તમે કરેલા પ્રવાસનું વર્ણન કરતો પત્ર તમારા મિત્રને લખો.', which belongs to Agent 10 alone.",
+    "Std-7 label ceiling, chapter-wide: no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર term appears in any authored field, and `figures_of_speech` stays `[]` in every topic — even though this essay runs on picture-language throughout (સોનાની માટી, સોનાની ખાણમાં ફરવા જેવું, ઝરૂખામાં ઝૂરે, રંગોનો પ્રદેશ). At this standard the craft is noticed in plain words, never labelled.",
+    "Three vocabulary layers sit on the same pages and each is glossed at the point of use, in the sentence's own sense: તત્સમ description words (અભયારણ્ય, નયનરમ્ય, વ્યૂહાત્મક, સ્થાપત્ય, પરિવેશ, કલાસમૃદ્ધિ), English loans printed in Gujarati script (સેન્ડ ડ્યૂન, નેશનલ સેન્ડ ડ્યૂનપાર્ક, ફોટોગ્રાફી, ક્લિક, ફિલ્મ - દિગ્દર્શકો) which are never written back in Roman letters, and the દેશ્ય-બોલીના શબ્દો the book itself finds hard (ઢૂવા, કૂણો, પહોર, ધમરોળવું, કાઠું, ઠસ્સો). A word used in a narrowed sense is the bigger danger for this reader, because the child reads it confidently wrong and never asks.",
+    "The printed શબ્દાર્થ box is evidence of difficulty, never the source of a gloss. Two of its entries do not fit the sentences on the page — વ્યૂહાત્મક is glossed 'સર્વ સ્થળે ફેલાઈને રહેલું વિશાળ' against 'વ્યૂહાત્મક રીતે પણ જેસલમેરનું મહત્ત્વ અનેક ગણું છે', and સહેલાણી is glossed 'આનંદી માણસ' against 'પંખીઓને જોવા માટે સહેલાણીઓ આવે છે' — and three of its words (તળપ્રદેશ, કર્ણપ્રિય, પરિધાન) occur nowhere in this chapter at all. Take every meaning from the sentence the word stands in, and never silently rewrite the printed box, which is Agent 1's verbatim.",
+    "Three blanks the chapter deliberately leaves, and gate 4 forbids filling any of them anywhere in the plan: the country beyond 'બીજા દેશની સરહદ' is never named; the director of 'સોનાર કેલા', 'હિરક રાજર દેશ' and 'ગોપી ગાયે બાઘા બાયે' is never named; and the 'આ શહેરના રાજવી' who built the fort is never named, dated or counted in years.",
+    "The book's own printed conventions are the page, not errors, and no authored field repairs them when quoting: the spaced ' ?' and ' !', 'દુ:ખ' with its colon-shaped visarga, the spaces around the hyphen in 'ફિલ્મ - દિગ્દર્શકો' and 'રખડતાં - ભટકતાં', and the opening single quote before 'કેસરિયા બાલમા, પધારો મોરે દેશ' that the book never closes."
+  ]
+}

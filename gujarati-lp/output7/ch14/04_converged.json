@@ -1,0 +1,12 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "79b003791c0bad159cea8bbde650dd143fe17a18946b504a5da0f847d17333e5",
+  "verdict": "pass",
+  "notes": [
+    "Ids frozen at this record. This is a convergence record, not a copy — read 02_structure.json for the structure payload.",
+    "Validated: સ્વરૂપ fidelity (એકાંકી-નાટક, unit = one stage-beat, all three A4 gates), coverage (12/12 non-apparatus markers carried by 7 topics in printed order, zero સ્વાધ્યાય topics), objectives and the phase-2 id contract (O1–O7, L1–L7, M1–M2 / S1–S4 / T1–T7 / C1–C12 continuous).",
+    "Still open for Agent 13, because the prose they bite on does not exist yet: the avoid-list items on authored text — no supplied narrator, no dropped or paraphrased રંગસૂચના, no reassigned speech, no tacked-on બોધ, nothing offstage invented. original_chunk is empty on all seven topics and awaits Agent 5.",
+    "See 04_validation.json for the full note set, including the one judged-and-cleared boundary (પ્રતાપ's 'કોણ ? ભામાશા ?' immediately before ભામાશા's entrance line) and the second-scene-header fold in M2.S3.T5."
+  ]
+}

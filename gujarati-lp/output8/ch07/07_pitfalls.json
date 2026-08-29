@@ -1,0 +1,77 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Naming an author. No `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, `figures_of_speech[].note` or `recall_questions[].answer` of M1.S1.T1 attaches a personal name, કવિએ or કવિની to the ટેક ('કંકુ છાંટી કંકોતરી મોકલો, / કેસર છાંટી કંકોતરી મોકલો,') or to કડી 1's lines. Any proper name used must occur in this topic's `original_chunk` or in `01_meta.json` — the book's author slot prints '- લોકગીત', not a poet's name.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Literal reading of a figurative line. No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` of M1.S1.T1 states as plain fact that બેનીબા IS a નાગરવેલનો છોડ. The printed line 'મારી બેની નાગરવેલનો છોડ' is a સરખામણી for her કોમળતા-સુંદરતા (as this topic's own `key_terms` already gloss it) and must be named as a comparison, never repeated as a literal description.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Deleting the singing syllables. No `explanation`, `key_terms` note, `concept_bullets` line or `recall_questions[].answer` of M1.S1.T1 calls 'માણેકથંભ રોપિયો...' (printed three times in this topic's `original_chunk`) or '...કંકોતરી...' extra, meaningless, filler or unnecessary; they are named as what carries the song's ઢાળ.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Tacked-on બોધ. No `explanation`, summary-family field, `concept_bullets`/`important_points` line or `recall_questions[].answer` of M1.S1.T1 closes on an 'આપણે ... જોઈએ' / '...રાખવું જોઈએ' / '...કરવો જોઈએ' exhortation about sending invitations or family duty — those exact words are not in this topic's `original_chunk` ('કાકા હોંશે ભત્રીજ પરણાવો'). Poster test: if the closing sentence could hang on a classroom poster with the song deleted, it fails.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'રોપિયો' શબ્દને ભૂલ સમજે છે — એને લાગે છે કે સાચો શબ્દ 'રોપ્યો' જ હોવો જોઈએ અને પુસ્તકમાં છાપભૂલ છે, એટલે આખી કડીની ભાષા 'તૂટેલી ગુજરાતી' લાગે છે અને પંક્તિ-પંક્તિએ પાછું આવતું 'માણેકથંભ રોપિયો...' પડઘો સમજ્યા વિના જ પસાર થઈ જાય છે.",
+      "correction": "explanation-ના પહેલા જ વાક્યોમાં સ્પષ્ટ કહેવું કે 'રોપિયો' એ 'રોપ્યો'નું જ લોકગીતનો ઢાળ સાચવતું રૂપ છે, ભૂલ નથી — key_terms પણ આ જ વાત આપે છે — જેથી બાળક 'માણેકથંભ રોપિયો...' પડઘાને ખરેખર માણેકથંભ રોપાયાના ચિત્ર તરીકે સમજીને આગળ વાંચે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "Hunting for a change in an unchanged ટેક. No `explanation`, `concept_bullets` line, `important_points` line, `recall_questions[].prompt` or `recall_questions[].answer` of M1.S1.T2 contains બદલા/બદલાય/બદલાયા/બદલાયું/ફેરફાર/નવા શબ્દો in a sentence that also names ટેક or ધ્રુવપંક્તિ. The refrain 'કંકુ છાંટી કંકોતરી મોકલો, / કેસર છાંટી કંકોતરી મોકલો,' returns here identical to M1.S1.T1; this topic references it via `depends_on: [M1.S1.T1]`, never re-teaches or hunts for a change.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Tacked-on બોધ. No `explanation`, summary-family field, `concept_bullets`/`important_points` line or `recall_questions[].answer` of M1.S1.T2 closes on an 'આપણે ... જોઈએ' exhortation about a mama's duty — those words are not in this topic's `original_chunk` ('મામા હોંશે મોસાળું લઈ આવો').",
+          "profile": "lok_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Over-explaining the occasion into a custom lecture. No `explanation` or `real_life_example` of M1.S1.T2 states how much મોસાળું should be, frames it as an expense norm, or states that a mama is obligated to bring it. The line names the custom with 'હોંશે' (ઉમંગ) only; explain the object and the feeling, never prescribe the practice.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'મામા હોંશે મોસાળું લઈ આવો' પંક્તિ પરથી એવો સામાન્ય નિયમ તારવી લે છે કે 'મામાએ દરેક લગ્નમાં ભેટ-સામગ્રી લાવવી જ પડે' — એક ગીતના એક પ્રસંગને કાયમી રિવાજના નિયમમાં ફેરવી નાખે છે, અને 'હોંશે' શબ્દનો ઉમંગ-ભાવ ચૂકી જાય છે.",
+      "correction": "explanation મોસાળુંને આ ગીતના પ્રસંગ પૂરતું, હોંશના ભાવ સાથે વર્ણવે — 'મામા પોતાના ભાણેજ/ભાણેજી માટે ઉમંગથી ભેટ લાવે છે' એટલું જ, કોઈ ફરજ કે માપદંડ તરીકે નહીં; recall_questions કોઈ પણ પ્રશ્ન 'મામાએ કેટલું લાવવું જોઈએ' એવો ન પૂછે."
+    },
+    {
+      "topic_id": "M1.S1.T3",
+      "avoid_checks": [
+        {
+          "check": "Hunting for a change in an unchanged ટેક. No `explanation`, `concept_bullets` line, `important_points` line, `recall_questions[].prompt` or `recall_questions[].answer` of M1.S1.T3 treats the closing ટેક's full stop ('...કેસર છાંટી કંકોતરી મોકલો.') as a wording or content change from its three earlier printings, and none uses બદલા/બદલાય/ફેરફાર/નવા શબ્દો language about it — the words are identical every time; only the poem's own full stop marks where the song ends.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Tacked-on બોધ. No `explanation`, summary-family field, `concept_bullets`/`important_points` line or `recall_questions[].answer` of M1.S1.T3 closes the chapter's teaching on an 'આપણે ... જોઈએ' summary or moral about weddings or family duty — those words are not in this topic's `original_chunk` ('માસી હોંશે ભાણેજ પરણાવો'). The song ends on the ટેક, not a lesson, and the plan ends there too.",
+          "profile": "lok_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ગીતના છેલ્લા ટેક (પૂર્ણવિરામ સાથે છપાયેલા)ને પહેલાંના ટેક કરતાં જુદો કે બદલાયેલો સમજી લે છે, અને એમાં કંઈક નવો અર્થ શોધવા લાગે છે — જ્યારે ખરેખર શબ્દો બિલકુલ એ જ છે, ફક્ત ગીત અહીં પૂરું થાય છે એટલે અલ્પવિરામને બદલે પૂર્ણવિરામ મુકાયું છે.",
+      "correction": "explanation-માં સ્પષ્ટ કહેવું કે છેલ્લે ટેકની બંને પંક્તિઓ પહેલાં જેવી જ પાછી ગવાય છે, અને ફક્ત ગીત પૂરું થાય છે એ બતાવવા પૂર્ણવિરામ મુકાયું છે — શબ્દોમાં કંઈ ફેરફાર નથી."
+    }
+  ],
+  "chapter_level": [
+    "Standardising the dialect — 'રોપિયો' (printed five times across M1.S1.T1/T2/T3) is the folk-ઢાળ form of 'રોપ્યો', not an error: no `key_terms` entry, `explanation`, or quoted run of three-or-more words in any of the chapter's three topics replaces it with 'રોપ્યો', and no field calls it a mistake.",
+    "Deleting the singing syllables — the line-internal echoes 'માણેકથંભ રોપિયો...' and '...કંકોતરી...', printed inside every one of this chapter's three topics' `original_chunk`, are never called extra, filler or meaningless in any field across the chapter; they carry the ઢાળ.",
+    "Naming an author — the whole chapter is one ટેક-and-round song with the author slot printing '- લોકગીત' (01_meta.json). Across all three topics, no `explanation`, `real_life_example`, `brief_summary`/`summary`/`detailed_summary` or `recall_questions[].answer` attaches a personal name, કવિએ or કવિની to any line of this poem.",
+    "No numbers in display text — 'પહેલી કંકોતરી', 'બીજી કંકોતરી', 'ત્રીજી કંકોતરી' are this poem's own printed ordinal words and may be used as such; no topic's `explanation`, `summary` family field, bullet or recall prompt uses a bare numeral form like 'કડી 1' or 'રાઉન્ડ 2' (global_content_rules.md #4).",
+    "Over-explaining the occasion into a custom lecture — this chapter's own ચર્ચા-વિચારણા box ('લગ્ન સાદાઈથી કરવાં જોઈએ કે નહીં') and its 'આ તો જોઈએ જ / આના વિના ચાલે' table are Agent 10's exercise material alone; no topic's `explanation` across M1.S1.T1–T3 imports that debate, takes a side on wedding-expense norms, or states what a family 'ought' to spend or bring."
+  ]
+}

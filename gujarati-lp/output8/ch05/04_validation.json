@@ -1,0 +1,49 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "explanation_unit in 02_structure.json ('એક પ્રસંગ અથવા વિચારનો એક વળાંક') matches 01_meta.json and profiles/genres/nibandh_atmaparak.md exactly; genre_slug nibandh_atmaparak / active_genre_profiles agree across 01_meta.json and 02_structure.json.",
+        "કડી/દુહો/પદ/ટેક checks are N/A — structure_inventory in 01_meta.json records all-zero counts for this continuous first-person લલિતનિબંધ, and 00_chapter_normalized.md carries no such markers (grep-verified: only [[પ્રવેશપેટી]], [[શબ્દાર્થ]], [[રૂઢિપ્રયોગ]], 18 [[સ્વાધ્યાય: ...]] groups, [[ચર્ચા-વિચારણા]]).",
+        "Not a mixed chapter; single genre throughout.",
+        "Cut checked against profile Avoid gate 2 (no topic_category:'climax' — confirmed: introduction x2, core x3, resolution x1) and gate 10 (cutting by paragraph/person) — the cut is content-turn-based, not mechanical: 5 of 6 topic boundaries coincide with printed paragraph breaks but the 6th boundary falls INSIDE paragraph 2 (T1 ends '...કર્મ અને ધર્મ તેણે એક કરી મૂક્યાં છે.', T2 opens at the very next sentence '...વાડાની.' — verified against 00_chapter_normalized.md line 17), which is the explanation_unit_map's pre-topic-hook rule (rule 2) applied correctly and rules out pure paragraph-cutting as the method.",
+        "All 6 scene_span boundaries (starts_at/ends_at) were checked verbatim against 00_chapter_normalized.md and located exactly as quoted, in order, across the chapter's 6 printed paragraphs.",
+        "Objectives checked against the Avoid list: no invented interiority beyond what the text states (O1's 'આંખ ભીની થઈ જતી' and O4's quoted ''ભોળી નહિ, ભલી ખરી'' are verbatim from the chapter), no tacked-on બોધ/ઉપદેશ sentence in any objective_text, no અલંકાર/છંદ/સાહિત્યપ્રકાર named (O5 asks which animals her gaze is compared to, never naming ઉપમા) — matches the std-8 craft-label gate.",
+        "Closing-gesture gate (Avoid gate 13) satisfied: M2.S6.T6 is topic_category 'resolution' and its scene_span ends_at is the chapter's genuinely last printed sentence; the author credit '- પ્રવીણ દરજી' is printed BEFORE the body (00_chapter_normalized.md line 10, before [[પ્રવેશપેટી]]) so correctly has no trailing credit to fold in — verified directly against the render transcription, matches 02_structure.json's own note on this divergence from the usual pattern."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 6,
+      "topics": 6,
+      "notes": [
+        "No [[…]] reading-scene markers exist for this chapter's body prose (grep-verified) — Agent 2 correctly used the 6 blank-line-separated printed paragraphs as the reading-scene basis, self-documented and cross-checked here directly against 00_chapter_normalized.md rather than assumed from 02_structure.json's own notes.",
+        "All 6 paragraphs became topics, in order (M1.S1.T1 -> M1.S2.T2 -> M1.S3.T3 -> M2.S4.T4 -> M2.S5.T5 -> M2.S6.T6), matching paragraphs 1-6 in sequence with no gap, overlap, or reordering.",
+        "No pre-reading opener applies to this chapter: the [[પ્રવેશપેટી]] box is teacher-addressed apparatus per explanation_unit_map.md rule 4 and the profile's own guidance, correctly excluded (markers_deliberately_not_cut item 2) rather than made a topic. No in-text wrap/REVIEW block is printed in this essay, so none was expected.",
+        "All 18 exercise_inventory groups from 01_meta.json (રૂઢિપ્રયોગ pre-block + 17 numbered સ્વાધ્યાય blocks) cross-checked against all 6 topic_name and scene_span values — none match or overlap; zero સ્વાધ્યાય blocks became topics. The near-verbatim body-text reuse embedded inside exercise blocks 10 and 17 (a paraphrase of paragraph 2's વાડા-વર્ણન) was specifically checked and correctly stays exercise-only (documented in markers_deliberately_not_cut item 4).",
+        "No topic's scene_span text was found to fall outside the 6 paragraphs or to claim text no marker/paragraph supports."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 6,
+      "notes": [
+        "Root objectives[] has 6 entries, O1-O6, all objective_id unique.",
+        "Every home_topic_id (M1.S1.T1, M1.S2.T2, M1.S3.T3, M2.S4.T4, M2.S5.T5, M2.S6.T6) and every anchor[] id (the matching .C{n} concept id) resolves to a real node in the modules tree — checked one by one.",
+        "strand_to_objective_map covers L1-L6 exactly once each, one-to-one with O1-O6; single strand 'L'/'ભાષા અને સાહિત્ય' throughout per naming_conventions.md.",
+        "Every topic carries objective_ids resolving to the registry (T1:[O1] ... T6:[O6]), 1:1.",
+        "Each objective_text is grounded in a specific printed detail unique to this chapter (પંચોતેર, quoted 'ભોળી નહિ, ભલી ખરી', દસ વર્ષની ઉંમરે, named plant/animal comparisons) and could not be pasted into another chapter; the set collectively serves teaching_lens 'સ્વર + પ્રસંગ + પોતાની જાત પરની નજર', most directly O6 which sits at the closing/resolution topic per profile convention.",
+        "Bloom ladder Understand,Understand,Analyze,Analyze,Analyze,Evaluate across O1-O6, capitalised per phase2_contract.md's root-objective example; status 'taught' and theme_category null on all six, matching the contract's shape.",
+        "Id grammar verified against naming_conventions.md/phase2_contract.md: M/S/T/C all chapter-continuous (S1-S6, T1-T6, C1-C6 with concept number = topic number since one concept per topic on every one of the 6 topics); no M1.S1.T1.P1-style code anywhere; objective ids are O{n} living only in the root registry."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Topic names contain spelled-out Gujarati number-words describing content facts (પંચોતેર in M1.S1.T1's name, દસ in O6's objective_text) rather than ordinal references to a structural unit ('કડી 2'-style) — global_content_rules.md rule 4 targets the latter; this pack's own corpus already carries the same pattern (e.g. output6/ch03 topic_name 'ચાર કુમારો ને ગુરુની નિરાશા'). Recorded as a note, not a block.",
+    "This chapter has no PNG render dependency in this validation pass either — every check was answerable from 00_chapter_normalized.md, 01_meta.json and 02_structure.json alone, so no _renders PNG was opened.",
+    "No conflict found between 01_meta.json's genre diagnosis and 02_structure.json's cut/objectives; nothing here needed a second read against the rendered page."
+  ]
+}

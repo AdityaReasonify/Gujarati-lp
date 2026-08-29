@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude agents *)",
+      "Bash(python3 -c 'import sys,json;[print\\(a.get\\(\"id\"\\),a.get\\(\"kind\"\\),a.get\\(\"status\"\\),a.get\\(\"state\"\\),\\(a.get\\(\"name\"\\) or \"\"\\)[:60]\\) for a in json.load\\(sys.stdin\\)]')",
+      "Bash(GLP_SESSION=5852f8be-026e-426d-9c32-19d25bdcf8e0 python3 scratch/health.py wf_cf115f65-155)"
+    ]
+  }
+}

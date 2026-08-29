@@ -1,0 +1,1311 @@
+{
+  "_comment": "The SECOND deliverable for gseb_eng_gujarati8_ch4 જબરી મધમાખી. Every સ્વાધ્યાય block inventoried in 01_meta.json is answered here and NOWHERE else — સ્વાધ્યાય is never a teaching topic. The GSEB PDF is image-only: every prompt_verbatim is transcribed from the rendered pages (00_chapter_normalized.md, verified against _renders/page-5.png … page-9.png). EX{n} is our own consecutive counter across the whole chapter, not the book's block number; the book's numbers are kept in teacher_note. See reference/exercise_alignment.md and agents/10_exercise_solutions.md.",
+  "plan_id": "gseb_eng_gujarati8_ch4_v1",
+  "chapter_id": "gseb_eng_gujarati8_ch4",
+  "subject": "Gujarati",
+  "grade": 8,
+  "chapter_name": "જબરી મધમાખી",
+  "exercises": [
+    {
+      "exercise_id": "EX1",
+      "exercise_group": "રૂઢિપ્રયોગ.",
+      "skill": "grammar",
+      "prompt_verbatim": "જીવ ઊંચો થવો - ઉચાટ થવો, ચિંતા થવી",
+      "answer": "જીવ ઊંચો થવો — ઉચાટ થવો, ચિંતા થવી. પાઠમાં આ પ્રયોગ કેટ-સ્કેનનો અહેવાલ સાંભળ્યા પછી આવે છે : “બધાંના જીવ ઊંચા થઈ ગયા.” એટલે કે સ્વપ્નિલના મગજમાં ગાંઠ છે એ સાંભળીને ઘરનાં બધાં જ ચિંતામાં પડી ગયાં.",
+      "explanation": "પુસ્તકે પોતે જ અર્થ છાપ્યો છે, એટલે એ જ અર્થ સાચો ગણાય. ‘જીવ’ એટલે પ્રાણ અને ‘ઊંચો થવો’ એટલે ઊંચે જવું — પણ બે શબ્દ ભેગા થઈને સીધા અર્થથી જુદો, ‘ચિંતા થવી’ એવો અર્થ આપે છે. રૂઢિપ્રયોગની આ જ ખૂબી છે.",
+      "acceptable_alternatives": [
+        "ઉચાટ થવો",
+        "ચિંતા થવી",
+        "ફફડાટ થવો"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed as a bulleted glossary block under the શબ્દાર્થ box, before numbered block 1. reference/exercise_alignment.md classifies the રૂઢિપ્રયોગ pre-block as printed apparatus rather than a task, but Agent 1 recorded it in this chapter's exercise_inventory, so it is answered here; the book prints its own meanings and the book outranks us. Read it aloud, then send the class hunting for the sentence in the lesson that uses it.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX2",
+      "exercise_group": "રૂઢિપ્રયોગ.",
+      "skill": "grammar",
+      "prompt_verbatim": "મોં પડી જવું  - મોં ફિક્કું પડી જવું",
+      "answer": "મોં પડી જવું — મોં ફિક્કું પડી જવું, નિરાશ કે ઉદાસ થઈ જવું. પાઠમાં ન્યૂરોલૉજિસ્ટની વાત સાંભળીને : “સ્વપ્નિલની મમ્મીનું મોઢું તો સાવ પડી ગયું હતું, પણ એ તૈયાર થયાં.” એટલે કે ઑપરેશન જોખમી છે અને દીકરાને હૉસ્પિટલમાં જ રાખવો પડશે એ સાંભળીને મમ્મી નિરાશ થઈ ગયાં.",
+      "explanation": "અહીં પણ સીધો અર્થ — મોં નીચે પડવું — લેવાનો નથી. પુસ્તકે છાપેલો અર્થ ‘મોં ફિક્કું પડી જવું’ છે, અને પાઠની જે પંક્તિમાં એ વપરાયો છે તે પંક્તિ જ બતાવે છે કે એ નિરાશાની નિશાની છે.",
+      "acceptable_alternatives": [
+        "ઉદાસ થઈ જવું",
+        "નિરાશ થઈ જવું"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Second and last entry of the printed રૂઢિપ્રયોગ bullet block. Pair it with the previous item: both idioms belong to the two hospital scenes, so the class meets them where the text actually uses them, not as a list.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX3",
+      "exercise_group": "વાતચીત.",
+      "skill": "speaking",
+      "prompt_verbatim": "આપણે બીમાર કેમ પડતાં હોઈશું ?",
+      "answer": "આપણે બીમાર પડીએ છીએ કારણ કે ક્યારેક જીવજંતુ કે ચેપ શરીરમાં પેસી જાય છે, ક્યારેક ખાવા-પીવામાં કે ઊંઘમાં ગરબડ થાય છે, ક્યારેક શરીરની અંદર જ કંઈક બગડે છે. સ્વપ્નિલને તો બહારથી કશું થયું ન હતું — એના મગજમાં ગાંઠ થઈ હતી, એટલે માથું દુખતું અને ચક્કર આવતાં.",
+      "explanation": "એક જ કારણ સાચું નથી. પાઠ પોતે બતાવે છે કે બીમારીનું કારણ અંદરથી પણ હોઈ શકે, અને એ શોધવા માટે તપાસ કરાવવી પડે.",
+      "acceptable_alternatives": [
+        "ચેપ લાગવાથી",
+        "અસ્વચ્છતાથી",
+        "શરીરની અંદરની કોઈ તકલીફથી"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, an oral block — run it as a whole-class talk before the lesson is read. Every answer below is one possible response, not the answer; a child's own experience is the point.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S2.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX4",
+      "exercise_group": "વાતચીત.",
+      "skill": "speaking",
+      "prompt_verbatim": "તમે બીમાર હો ત્યારે તમારી સારવાર કોણ કરે છે ? કેવી રીતે ?",
+      "answer": "મારી સારવાર ઘરે મમ્મી અને પપ્પા કરે છે — સમયસર દવા આપે, કપાળે હાથ મૂકીને તાવ જુએ, હળવો ખોરાક આપે અને આરામ કરાવે. વધારે થાય તો દવાખાને લઈ જાય અને ડૉક્ટર તપાસીને દવા લખી આપે.",
+      "explanation": "પાઠમાં પણ બે જાતની સારવાર સાથે ચાલે છે : ડૉક્ટરની દવા અને મમ્મીના હાથની હૂંફ. સ્વપ્નિલને તો એવું લાગતું કે દવા નહીં, માતાનો હાથ એને સાજો કરી રહ્યો છે.",
+      "acceptable_alternatives": [
+        "દાદા-દાદી",
+        "મોટાં ભાઈ-બહેન",
+        "ગામનાં દવાખાનાનાં નર્સબહેન"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, an oral block — run it as a whole-class talk before the lesson is read. Every answer below is one possible response, not the answer; a child's own experience is the point.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T3",
+        "M1.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX5",
+      "exercise_group": "વાતચીત.",
+      "skill": "speaking",
+      "prompt_verbatim": "તમારી આસપાસના વિસ્તારમાં કેટલાં અને કયાં કયાં દવાખાનાં છે ?",
+      "answer": "અમારા વિસ્તારમાં એક સરકારી પ્રાથમિક આરોગ્ય કેન્દ્ર છે, બે-ત્રણ ખાનગી દવાખાનાં છે અને એક મોટી હૉસ્પિટલ છે જ્યાં ઍમ્બ્યુલન્સ પણ રહે છે. દાંતનું અલગ દવાખાનું અને એક બાળકોના ડૉક્ટરનું દવાખાનું પણ છે.",
+      "explanation": "આ પ્રશ્નનો જવાબ દરેક બાળકના પોતાના ગામ કે મહોલ્લા પ્રમાણે જુદો પડશે. પાઠમાં જે ઍમ્બ્યુલન્સ, હૉસ્પિટલ અને ડૉક્ટર આવે છે તે બાળકના પોતાના વિસ્તારમાં ક્યાં છે તે એણે જાતે જોવાનું છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, an oral block — run it as a whole-class talk before the lesson is read. Every answer below is one possible response, not the answer; a child's own experience is the point. Ask children to name the actual clinics near their own home; a village class and a city class will produce very different lists, and both are right.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX6",
+      "exercise_group": "વાતચીત.",
+      "skill": "speaking",
+      "prompt_verbatim": "શું તમે મધમાખી જેવા બીજા ઉદ્યમી જીવ વિશે જાણો છો ? એક- બે જીવોનાં નામ કહો.",
+      "answer": "હા. કીડી ખૂબ ઉદ્યમી જીવ છે — એ હાર બાંધીને દાણા ઊંચકી જાય છે અને દર બનાવે છે. ઊધઈ પણ મળીને મોટો રાફડો બનાવે છે, અને કરોળિયો રોજ ધીરજથી જાળું ગૂંથે છે.",
+      "explanation": "પાઠ કહે છે કે મધમાખી ખૂબ મહેનતુ જીવ છે અને એમાં ભમતી તથા કામગરી એમ બે પ્રકારની માખીઓ કામ વહેંચી લે છે. એ જ રીતે વહેંચીને કામ કરતા બીજા જીવો બાળક પોતાની આસપાસ જોઈ શકે.",
+      "acceptable_alternatives": [
+        "કીડી",
+        "ઊધઈ",
+        "કરોળિયો",
+        "ભમરો"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, an oral block — run it as a whole-class talk before the lesson is read. Every answer below is one possible response, not the answer; a child's own experience is the point.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S5.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX7",
+      "exercise_group": "વાતચીત.",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને કયું જીવજંતુ / પ્રાણી ખૂબ ગમે ? કેમ ?",
+      "answer": "મને ખિસકોલી ખૂબ ગમે છે. એ ઝાડ પર ઝડપથી દોડે છે, પૂંછડી ઊંચી કરીને બેસે છે અને ધીરે ધીરે માણસથી બીતી બંધ થાય છે. અમારા ફળિયાના લીમડા પર રોજ સવારે એ આવે છે.",
+      "explanation": "સ્વપ્નિલને પણ મધમાખી શરૂમાં ડરાવતી હતી, પણ રોજ દૂરથી નિહાળતાં નિહાળતાં એ ગમવા લાગી. ‘કેમ ગમે છે’ એનું કારણ કહેવું એ આ પ્રશ્નનો ખરો ભાગ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, an oral block — run it as a whole-class talk before the lesson is read. Every answer below is one possible response, not the answer; a child's own experience is the point.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S6.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX8",
+      "exercise_group": "વાતચીત.",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને બીમાર પડવું ગમે ? કેમ ?",
+      "answer": "ના, મને બીમાર પડવું ન ગમે. બીમારીમાં શરીર દુખે છે, ભાવતું ખવાતું નથી, નિશાળ અને ભાઈબંધો છૂટી જાય છે અને આખો દિવસ પથારીમાં પડ્યા રહેવાનો કંટાળો આવે છે.",
+      "explanation": "પાઠમાં સ્વપ્નિલને પણ પહેલા દિવસે તકલીફ ન પડી, પણ બીજા દિવસથી કંટાળો આવવા લાગ્યો — વાંચવાનું બંધ, વાતો કરવા કોઈ નહીં. બાળક પોતાના અનુભવ પરથી એ જ કારણો કહી શકે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, an oral block — run it as a whole-class talk before the lesson is read. Every answer below is one possible response, not the answer; a child's own experience is the point.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX9",
+      "exercise_group": "વાતચીત.",
+      "skill": "speaking",
+      "prompt_verbatim": "સાથે મળીને કયાં કયાં કામ થઈ શકે ?",
+      "answer": "સાથે મળીને ઘણું થાય — વર્ગખંડ સાફ કરવો, નિશાળનો બગીચો ઉછેરવો, ગામમાં વૃક્ષારોપણ કરવું, રમતોત્સવ ગોઠવવો, દીવાલ-છાપું બનાવવું, પૂર કે આગ વખતે એકબીજાને મદદ કરવી.",
+      "explanation": "મધપૂડો પોતે સાથે મળીને થતા કામનું ઉદાહરણ છે : ભમતી માખી જગ્યા શોધી લાવે, નૃત્ય કરીને દિશા અને અંતર કહી દે, અને કામગરી માખીઓ મધ ભેગું કરે. કામ વહેંચાય એટલે મોટું કામ પણ પાર પડે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, an oral block — run it as a whole-class talk before the lesson is read. Every answer below is one possible response, not the answer; a child's own experience is the point.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S5.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX10",
+      "exercise_group": "વાતચીત.",
+      "skill": "speaking",
+      "prompt_verbatim": "તમે જોયેલાં જીવજંતુઓનાં રહેઠાણ વિશે કહો.",
+      "answer": "મેં ઝાડની ડાળે લટકતો મધપૂડો જોયો છે, ઓસરીના ખૂણામાં કરોળિયાનું જાળું જોયું છે, આંગણામાં કીડીનું દર અને એની બહાર માટીનો નાનો ઢગલો જોયો છે. ચકલી નળિયાં નીચે તણખલાંનો માળો બાંધે છે.",
+      "explanation": "સ્વપ્નિલે હૉસ્પિટલની બારીમાંથી સામેના મકાનના ત્રીજા માળે મોટો મધપૂડો જોયો હતો, અને એ જ જોવાથી એને મધમાખી વિશે જાણવાનું મન થયું. બાળક પણ પોતાની આસપાસનાં રહેઠાણ એ જ રીતે નિહાળી શકે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, an oral block — run it as a whole-class talk before the lesson is read. Every answer below is one possible response, not the answer; a child's own experience is the point. Keep the looking at a distance: the chapter's own safety register is 'કરડશે તો ઉપાધિ' — children describe hives and nests they have seen, they do not go near one.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S4.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX11",
+      "exercise_group": "વાતચીત.",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને કોઈએ જબરાં કહ્યાં છે ? ક્યારે - ક્યારે ?",
+      "answer": "હા. એક વાર નાના ભાઈને સાચવીને હું એકલી નિશાળે લઈ ગઈ ત્યારે બાએ કહ્યું, “તું તો જબરી છે !” બીજી વાર મેં જાતે સાઇકલનું પંક્ચર બનાવ્યું ત્યારે પપ્પાએ પણ એવું જ કહ્યું.",
+      "explanation": "પાઠના છેલ્લા વાક્યમાં ‘જબરી’ શબ્દ વખાણમાં વપરાયો છે — હોશિયાર, કમાલની. હિન્દીના ‘જબરદસ્તી’ સાથે એને ભેળવવો નહીં. બાળક પોતાના જીવનમાં ક્યારે એવાં વખાણ સાંભળ્યાં તે યાદ કરે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, an oral block — run it as a whole-class talk before the lesson is read. Every answer below is one possible response, not the answer; a child's own experience is the point. This item is where the title word જબરી is worth unpacking: in Gujarati it is praise (હોશિયાર, કમાલની), not the Hindi-flavoured 'forceful'.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S8.T10"
+      ]
+    },
+    {
+      "exercise_id": "EX12",
+      "exercise_group": "વાતચીત.",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને કંટાળો આવે ત્યારે તમે શું-શું કરો છો ?",
+      "answer": "કંટાળો આવે ત્યારે હું ચિત્ર દોરું છું, વાર્તાની ચોપડી વાંચું છું, બારીએ ઊભા રહીને પંખી અને વાદળ જોઉં છું, દાદી પાસે વાર્તા સાંભળું છું અથવા ફળિયામાં ભાઈબંધો સાથે રમવા જાઉં છું.",
+      "explanation": "સ્વપ્નિલે કંટાળો દૂર કરવા બારી ખોલાવી, દૂરબીનથી મધપૂડો નિહાળ્યો અને મધમાખી વિશે જાણવા માંડ્યું — એટલે કે એણે કુતૂહલમાંથી રસ્તો કાઢ્યો. બાળક પોતાની રીતો કહી શકે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, an oral block — run it as a whole-class talk before the lesson is read. Every answer below is one possible response, not the answer; a child's own experience is the point.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S3.T4",
+        "M2.S4.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX13",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "હૉસ્પિટલની બારી બંધ થઈ ગઈ તે મધમાખીને ગમ્યું હશે ? કેમ ?",
+      "answer": "ના, મધમાખીને એ ગમ્યું નહીં હોય. પહેલી વાર બારી બંધ થઈ ત્યારે માખી કાચની બારી પર ઘૂમરાયા કરીને પાછી જતી રહી હતી, અને છેલ્લે પણ બંધ બારી પર મધમાખીઓ ભમતી દેખાઈ હતી. જો ન ગમ્યું ન હોત તો એ બંધ કાચ પર આટલી વાર આંટા શું કામ મારત ? એને તો સ્વપ્નિલ સુધી પહોંચવું હતું અને ઘર પાસે નવો મધપૂડો બની રહ્યાની વાત કહેવી હતી.",
+      "explanation": "જવાબ પાઠની બે પંક્તિઓમાંથી જ મળે છે — “માખી કાચની બારી પર ઘૂમરાયા કરીને જતી રહી” અને “બંધ બારી પર એને મધમાખીઓ ભમતી દેખાઈ.” માખી શું અનુભવે છે તે પુસ્તક સીધું કહેતું નથી, એટલે એના વર્તન પરથી અનુમાન કરવાનું છે.",
+      "acceptable_alternatives": [
+        "ના, કારણ કે એને અંદર આવવું હતું અને બંધ કાચ પર એ ઘૂમરાયા કરતી હતી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, question 1. An inference item: the text never states the bee's feeling, so insist that children quote the two lines about the bee circling on the closed glass before they answer.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T5",
+        "M3.S7.T9"
+      ]
+    },
+    {
+      "exercise_id": "EX14",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "સ્વપ્નિલને મધમાખી વિશે જાણવાની ઇચ્છા કેમ થઈ  ?",
+      "answer": "બારી ખૂલી ત્યારે એને સામેના મકાનના ત્રીજા માળે મોટો મધપૂડો દેખાયો. એ રોજ સવારે દૂરબીનથી માખીઓને નિહાળતો, અને એક દિવસ એક-બે માખી એના ઓરડામાં પણ આવી ચડી. એથી એના મનમાં પ્રશ્નો ઊઠ્યા — માખી મધ કેવી રીતે એકઠું કરે ? મધપૂડો કેવી રીતે બનાવે ? મધનું શું કરે ? — એટલે એણે મોટી બહેનને ઇન્ટરનેટ પરથી માહિતી લાવવાનું કહ્યું.",
+      "explanation": "કારણ પાઠમાં સીધું છપાયું છે : મધપૂડો દેખાયો, રોજ નિહાળ્યો, માખી ઓરડામાં આવી — અને પછી ‘મારે એના વિશે જાણવું છે’. કંટાળામાં પડેલા છોકરાનું કુતૂહલ જ એને જ્ઞાન તરફ લઈ જાય છે.",
+      "acceptable_alternatives": [
+        "કારણ કે બારીની બહાર દેખાયેલા મધપૂડાએ એનું કુતૂહલ જગાડ્યું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, question 2. The page prints a double space before the question mark; kept as printed.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX15",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "મોટી બહેનને પરાગનયનની પ્રક્રિયા વિશે ક્યાંથી જાણવા મળ્યું ?",
+      "answer": "ઇન્ટરનેટ પરથી. સ્વપ્નિલે કહ્યું એટલે મોટી બહેન બીજે દિવસે મધમાખીઓ વિશે બધું જાણી લાવ્યાં અને માહિતી તથા વીડિયો ટેબ્લેટમાં ડાઉનલોડ કરી લીધાં હતાં. એ જ માહિતીમાંથી એમણે પરાગનયનની વાત સ્વપ્નિલને કહી.",
+      "explanation": "પાઠ કહે છે કે સ્વપ્નિલે મોટી બહેનને ‘ઇન્ટરનેટ પરથી મધમાખીઓ વિશે માહિતી જાણી લાવો’ એમ કહ્યું હતું અને બહેન ટેબ્લેટમાં માહિતી અને વીડિયો ડાઉનલોડ કરી લાવ્યાં હતાં. પરાગનયનની વાત એ પછીના જ ફકરામાં એમના મોઢે આવે છે.",
+      "acceptable_alternatives": [
+        "ઇન્ટરનેટ પરથી ડાઉનલોડ કરેલી માહિતી અને વીડિયોમાંથી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, question 3. This is the item that ties the story to its information half — worth pointing out that the facts reach the reader through a character, not through a textbook box.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T5",
+        "M2.S5.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX16",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "સ્વપ્નિલે સવિતાબહેનને કોની સાથે સરખાવ્યાં ? શા માટે ?",
+      "answer": "સ્વપ્નિલે નર્સ સવિતાબહેનને મધમાખી સાથે સરખાવ્યાં. એણે કહ્યું, “તમે પણ એ મધમાખી જેવાં એકદમ કામગરાં છો. આખો વખત આમતેમ દોડધામ કરો છો.” એટલે કે મધમાખીની જેમ સવિતાબહેન પણ સતત કામમાં મચેલાં રહે છે.",
+      "explanation": "સરખામણીનું કારણ પાઠમાં જ સ્વપ્નિલ બોલે છે — કામગરાપણું અને દોડધામ. ‘કામગરી’ શબ્દ પુસ્તકની શબ્દાર્થ-પેટીમાં ‘કામમાં મચી રહેનાર’ એમ સમજાવ્યો છે, અને એ જ શબ્દ કામગરી મધમાખી માટે વપરાયો છે.",
+      "acceptable_alternatives": [
+        "મધમાખી સાથે, કારણ કે એ પણ મધમાખી જેવાં કામગરાં છે અને આખો વખત દોડધામ કરે છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, question 4. Notice that this is the boy's compliment, and the word કામગરી links it straight back to the worker bee of the information paragraph.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX17",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "મધમાખીએ સ્વપ્નિલને દોસ્ત બનાવવા કેવા કેવા પ્રયત્નો કર્યા ?",
+      "answer": "રોજ સવારે કોઈ ને કોઈ મધમાખી એના ઓરડામાં આવતી, ચારે બાજુ ઊડતી, એના માથા ફરતે ગણગણીને બહાર નીકળી જતી. એક વાર એણે અમસ્તો હાથ ધર્યો તો એક માખી એની હથેળી પર બેઠી. બીજે દિવસે એની આંગળી પર બેઠી અને આંગળીના ટેરવે મધનું નાનકડું ટીપું મૂકતી ગઈ. પછી તો એક દિવસ પાંચ-છ મધમાખી આવીને એની આંગળી પર મધનાં ટીપાં મૂકી ગઈ — જાણે ઔષધીનો ડોઝ.",
+      "explanation": "પાઠ ક્રમશઃ પગથિયાં આપે છે : ગણગણાટ → હથેળી → આંગળી → મધનું ટીપું → પાંચ-છ માખીનાં ટીપાં. એ ક્રમ જ બતાવે છે કે દોસ્તી એક દિવસમાં નહીં, રોજેરોજ બંધાઈ.",
+      "acceptable_alternatives": [
+        "ઓરડામાં આવીને ગણગણવું, હથેળી અને આંગળી પર બેસવું, અને આંગળીના ટેરવે મધનું ટીપું ભેટ મૂકી જવું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, question 5. Answer it, then say plainly what the story does not: a real bee is never to be touched, held out a hand to, or provoked, and nothing found on the skin is to be tasted. The friendship here is the story's વિસ્મય, not a method.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX18",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "નિશાળેથી આવ્યા બાદ સ્વપ્નિલને ખૂબ થાક કેમ વર્તાયો ?",
+      "answer": "કારણ કે એના મગજમાં એક ગાંઠ થઈ હતી. એ ગાંઠને લીધે એને સખત માથું દુખતું હતું અને ચક્કર આવતાં હતાં, એટલે નિશાળેથી આવ્યો ત્યારે એ ખૂબ થાકેલો લાગતો હતો, માંડ માંડ ઘરમાં પેઠો અને દફતર ફેંકીને સીધો સોફા પર આડો પડ્યો. આ કારણ કેટ-સ્કેન થયા પછી જ ખબર પડ્યું.",
+      "explanation": "પહેલા ફકરામાં થાક દેખાય છે પણ કારણ કહેવાયું નથી; કારણ પછીના ફકરામાં કેટ-સ્કેનના અહેવાલમાંથી મળે છે — “મગજમાં એક ગાંઠ છે, જેને કારણે એને દુખાવો અને ચક્કર આવ્યાં છે.” બે ફકરા જોડીને જ પૂરો જવાબ બને છે.",
+      "acceptable_alternatives": [
+        "મગજમાં થયેલી ગાંઠને કારણે એને દુખાવો અને ચક્કર આવતાં હતાં."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, question 6. A good place to show that a story often plants the symptom first and the cause later — send children back to both paragraphs.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S2.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX19",
+      "exercise_group": "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "સ્વપ્નિલે મધમાખીને જબરી શા માટે કહી ?",
+      "answer": "કારણ કે એ મધમાખીએ એના ઘરનું સરનામું શોધી કાઢ્યું હતું. ઘરે જતી વખતે મોટી બહેને કહ્યું કે ઘરની સામેના ઝાડ પર એક મધપૂડો બની રહ્યો છે. ત્યારે સ્વપ્નિલને સમજાયું કે બંધ બારી પર આવેલી પેલી બે માખી એ જ કહેવા આવી હતી. માખીએ ઘર ક્યાંથી જાણ્યું — કદાચ મોટી બહેનની પાછળ પાછળ ગઈ હશે — એ અચરજથી એ બોલી ઊઠ્યો, “મારી બેટી જબરી તો કહેવાય !”",
+      "explanation": "‘જબરી’ અહીં વખાણનો શબ્દ છે — હોશિયાર, કમાલની. પાઠનું છેલ્લું વાક્ય જ કારણ આપે છે : માખી સરનામું જાણી ગઈ અને ઘરની સામે નવો મધપૂડો બાંધવા માંડી. આખા પાઠનું શીર્ષક પણ આ જ ઉદ્ગારમાંથી આવે છે.",
+      "acceptable_alternatives": [
+        "કારણ કે એણે એના ઘરનું સરનામું શોધી કાઢ્યું અને ઘર સામેના ઝાડ પર નવો મધપૂડો બાંધવા માંડ્યો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 2, question 7 — the title question. Let the class end on it; the whole chapter is the reason for one word.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S8.T10"
+      ]
+    },
+    {
+      "exercise_id": "EX20",
+      "exercise_group": "નીચે આપેલો ફકરો વાંચીને પ્રશ્નોના જવાબ લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "અહીં ‘ઉદ્યમ’ શબ્દનો અર્થ શો હશે ?",
+      "answer": "‘ઉદ્યમ’ એટલે મહેનત, પરિશ્રમ — ખંતથી અને સતત કરેલું કામ.",
+      "explanation": "ફકરો પોતે અર્થ પકડાવે છે : પહેલી બે પંક્તિમાં ‘ઉદ્યમ એ સફળતાની ચાવી છે’ પછી તરત ‘પરિશ્રમ વિના કશું પ્રાપ્ત થતું નથી’ આવે છે. એટલે ઉદ્યમ અને પરિશ્રમ અહીં એક જ અર્થમાં વપરાયા છે.",
+      "acceptable_alternatives": [
+        "મહેનત",
+        "પરિશ્રમ",
+        "ખંતથી કરેલું કામ"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3. The block prints this unseen passage above its questions: “ઉદ્યમ એ જીવનમાં સફળતાની ચાવી છે. પરિશ્રમ વિના આ સંસારમાં કશું પ્રાપ્ત થતું નથી. સફળતાનો માર્ગ મુશ્કેલીઓ અને અવરોધોથી ભરેલો છે. ઉદ્યમ જ આપણને સફળતા તરફ દોરી જાય છે. તેનાથી કામ કરવાની ક્ષમતા વધે છે. તે આપણા મનને વિસ્તૃત કરે છે અને આપણું સ્વાસ્થ્ય સુધારે છે. સફળતા માટે કોઈ શાહી માર્ગ હોતો નથી. એક સક્રિય માણસ માટે આ બધું ઘણું સરળ છે. ન્યૂટન, કેલ્વિન, જગદીશચંદ્ર બોઝ અને એવા પ્રતિભાશાળી વૈજ્ઞાનિકોએ તેમની પ્રતિભાનો જગતને પરિચય થાય અને તેમનાં કાર્યોને વિશ્વભરમાં યોગ્ય રીતે માન આપવામાં આવે તે પહેલાં સખત મહેનત કરવી પડી હતી.” The passage is not this chapter's reading text, so every item in this block is recorded in coverage_report.unmapped; thematically it echoes the lesson's 'મધમાખી ખૂબ મહેનતુ જીવ છે', which is a useful bridge to open the block with but not a scene that supplies the answers.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX21",
+      "exercise_group": "નીચે આપેલો ફકરો વાંચીને પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "સફળતા મેળવવા માટે શું-શું કરવું જોઈએ ?",
+      "answer": "સફળતા મેળવવા માટે ઉદ્યમ એટલે કે સખત મહેનત કરવી જોઈએ. મુશ્કેલીઓ અને અવરોધોથી ડરીને પાછા ન વળવું જોઈએ. સક્રિય રહેવું જોઈએ, કારણ કે સક્રિય માણસ માટે આ બધું સહેલું બની જાય છે. અને સફળતાનો કોઈ ટૂંકો શાહી માર્ગ શોધવો નહીં — એવો માર્ગ હોતો જ નથી.",
+      "explanation": "ચારેય મુદ્દા ફકરાની પોતાની પંક્તિઓમાંથી આવે છે : ‘ઉદ્યમ જ આપણને સફળતા તરફ દોરી જાય છે’, ‘સફળતાનો માર્ગ મુશ્કેલીઓ અને અવરોધોથી ભરેલો છે’, ‘સફળતા માટે કોઈ શાહી માર્ગ હોતો નથી’, ‘એક સક્રિય માણસ માટે આ બધું ઘણું સરળ છે’.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, question 2. Ask children to point at the line each part of their answer came from.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX22",
+      "exercise_group": "નીચે આપેલો ફકરો વાંચીને પ્રશ્નોના જવાબ લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "‘નિષ્ક્રિય’ શબ્દનો વિરુદ્ધાર્થી શબ્દ લખી વાક્યપ્રયોગ કરો.",
+      "answer": "નિષ્ક્રિય × સક્રિય.\nવાક્યપ્રયોગ : સક્રિય માણસ માટે સફળતાનો માર્ગ ઘણો સરળ બની જાય છે.",
+      "explanation": "ફકરામાં જ ‘એક સક્રિય માણસ માટે આ બધું ઘણું સરળ છે’ એમ છપાયું છે, એટલે વિરુદ્ધાર્થી શબ્દ ફકરાની અંદરથી જ મળી જાય છે. ‘નિ-’ ઉપસર્ગ ‘નહીં’ સૂચવે છે : ક્રિયા વગરનો તે નિષ્ક્રિય, ક્રિયાવાળો તે સક્રિય.",
+      "acceptable_alternatives": [
+        "કાર્યશીલ",
+        "ઉદ્યમી"
+      ],
+      "values_filled_for_teaching": "નિષ્ક્રિય × સક્રિય",
+      "teacher_note": "Printed block 3, question 3. The opposite is printed inside the passage itself — a good moment to teach children to hunt the answer in the text before reaching for a dictionary.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX23",
+      "exercise_group": "નીચે આપેલો ફકરો વાંચીને પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "વૈજ્ઞાનિકોને સખત મહેનત કેમ કરવી પડી હશે ?",
+      "answer": "કારણ કે એમની પ્રતિભાનો જગતને પરિચય થાય અને એમનાં કાર્યોને વિશ્વભરમાં યોગ્ય રીતે માન મળે એ પહેલાં એટલી મહેનત જરૂરી હતી. શોધ કે સંશોધન એક દિવસમાં થતું નથી; વારંવારના પ્રયોગો અને નિષ્ફળતાઓ પછી જ કામ પૂરું થાય છે.",
+      "explanation": "પહેલો ભાગ ફકરાના છેલ્લા વાક્યમાં અક્ષરશઃ છપાયો છે. બીજો ભાગ ફકરાની જ દલીલમાંથી નીકળે છે — ‘સફળતાનો માર્ગ મુશ્કેલીઓ અને અવરોધોથી ભરેલો છે’.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, question 4.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX24",
+      "exercise_group": "નીચે આપેલો ફકરો વાંચીને પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "મહેનત કરવાથી આપણાં તન-મનને શો ફાયદો થાય છે ?",
+      "answer": "મહેનતથી કામ કરવાની ક્ષમતા વધે છે, મન વિસ્તૃત થાય છે એટલે કે વિચારનો ફેલાવો વધે છે, અને શરીરનું સ્વાસ્થ્ય સુધરે છે.",
+      "explanation": "ત્રણેય લાભ ફકરાની બે અડોઅડ પંક્તિમાં છપાયા છે : ‘તેનાથી કામ કરવાની ક્ષમતા વધે છે. તે આપણા મનને વિસ્તૃત કરે છે અને આપણું સ્વાસ્થ્ય સુધારે છે.’ ‘તન’નો લાભ સ્વાસ્થ્ય, ‘મન’નો લાભ વિસ્તૃતતા.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, question 5.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX25",
+      "exercise_group": "નીચે આપેલો ફકરો વાંચીને પ્રશ્નોના જવાબ લખો.",
+      "skill": "speaking",
+      "prompt_verbatim": "ન્યૂટન અને જગદીશચંદ્ર બોઝ વિશે જાણકારી મેળવી વર્ગમાં કહો.",
+      "answer": "(એક શક્ય રજૂઆત) ન્યૂટન અંગ્રેજ વૈજ્ઞાનિક હતા. ઝાડ પરથી પડતું સફરજન જોઈને એમને પ્રશ્ન થયો કે વસ્તુઓ નીચે જ કેમ પડે છે, અને એમાંથી ગુરુત્વાકર્ષણનો વિચાર આવ્યો. ગતિ વિશેના નિયમો પણ એમણે આપ્યા. જગદીશચંદ્ર બોઝ ભારતના વૈજ્ઞાનિક હતા. એમણે બતાવ્યું કે વનસ્પતિ પણ સંવેદના અનુભવે છે, અને એ માપવા માટે એમણે સાધન બનાવ્યું. બિનતારી સંદેશા મોકલવા વિશે પણ એમણે સંશોધન કર્યું હતું.",
+      "explanation": "આ સંશોધનનું કામ છે, વર્ગમાં તૈયાર જવાબ ગોખવાનું નહીં. ઉપરની રજૂઆત એક નમૂનો છે; બાળક પુસ્તકાલય કે ઇન્ટરનેટ પરથી પોતાની માહિતી લાવે અને પોતાના શબ્દોમાં કહે એ જ આ પ્રશ્નનો હેતુ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, question 6. A research-and-speak task: the model above is a floor, not a script. Ask each child for one fact nobody else has brought.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX26",
+      "exercise_group": "પાઠમાં આવતા અંગ્રેજી શબ્દોની યાદી તૈયાર કરો અને તેના ગુજરાતી અર્થ લખો. (જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.)",
+      "skill": "vocabulary",
+      "prompt_verbatim": "પાઠમાં આવતા અંગ્રેજી શબ્દોની યાદી તૈયાર કરો અને તેના ગુજરાતી અર્થ લખો. (જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.)\nઉદાહરણ : હૉસ્પિટલ - દવાખાનું",
+      "answer": "પાઠમાં ગુજરાતી લિપિમાં છપાયેલા અંગ્રેજી શબ્દો અને તેમના ગુજરાતી અર્થ : શૂઝ - બૂટ; સોફા - બેસવાની ગાદીવાળી લાંબી બેઠક; ડૉક્ટર - તબીબ, વૈદ્ય; ફોન - દૂરભાષ; ઍમ્બ્યુલન્સ - દરદીને દવાખાને લઈ જવાની ગાડી; હૉસ્પિટલ - દવાખાનું; ઇન્જેકશન - સોય વાટે અપાતી દવા; કેટ-સ્કેન - શરીરની અંદરની તસવીર લેતી તપાસ; ન્યૂરોલૉજિસ્ટ - મગજ અને જ્ઞાનતંતુના રોગના નિષ્ણાત ડૉક્ટર; રિપોર્ટ્સ - તપાસનાં પરિણામ-પત્રકો; ઑપરેશન - શસ્ત્રક્રિયા; ઍરકંડિશનર - હવા ઠંડી કરવાનું યંત્ર; નર્સ - પરિચારિકા; ટેબ્લેટ - પડદાવાળું નાનું સાધન; વીડિયો - ચલચિત્ર-મુદ્રણ; ડાઉનલોડ - ઉતારી લેવું; ઇન્ટરનેટ - આંતરજાળ; રૂમ - ઓરડો; ડોઝ - દવાની માત્રા. પાઠમાં કૌંસમાં રોમન લિપિમાં પણ બે શબ્દ છપાયા છે : scout bee - ભમતી મધમાખી; worker bee - કામગરી મધમાખી.",
+      "explanation": "પુસ્તકે એક જ ઉદાહરણ આપ્યું છે — હૉસ્પિટલ - દવાખાનું — અને બાકીના શબ્દો પાઠમાંથી શોધવાના છે. આખો પાઠ દવાખાનાનો છે, એટલે તબીબી ક્ષેત્રના શબ્દો સૌથી વધુ મળે છે; ‘ટેબ્લેટ’ અહીં દવાની ગોળી નહીં પણ પડદાવાળું સાધન છે, એ સંદર્ભ પરથી નક્કી કરવાનું છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "શૂઝ - બૂટ | સોફા - ગાદીવાળી લાંબી બેઠક | ડૉક્ટર - તબીબ | ફોન - દૂરભાષ | ઍમ્બ્યુલન્સ - દરદીવાહક ગાડી | હૉસ્પિટલ - દવાખાનું | ઇન્જેકશન - સોય વાટે અપાતી દવા | કેટ-સ્કેન - અંદરની તસવીર લેતી તપાસ | ન્યૂરોલૉજિસ્ટ - મગજ-જ્ઞાનતંતુના નિષ્ણાત | રિપોર્ટ્સ - પરિણામ-પત્રકો | ઑપરેશન - શસ્ત્રક્રિયા | ઍરકંડિશનર - હવા ઠંડી કરવાનું યંત્ર | નર્સ - પરિચારિકા | ટેબ્લેટ - પડદાવાળું નાનું સાધન | વીડિયો - ચલચિત્ર-મુદ્રણ | ડાઉનલોડ - ઉતારી લેવું | ઇન્ટરનેટ - આંતરજાળ | રૂમ - ઓરડો | ડોઝ - દવાની માત્રા | scout bee - ભમતી મધમાખી | worker bee - કામગરી મધમાખી",
+      "teacher_note": "Printed block 4, one open item. Every loanword above is reproduced in the book's own printed Gujarati spelling — do not 'correct' ઇન્જેકશન to ઇન્જેક્શન or કેટ-સ્કેન to CAT-સ્કેન. Children's lists will differ in length; accept any word they can point to on the page. Run it as a page-hunt in pairs.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S2.T2",
+        "M1.S2.T3",
+        "M1.S3.T4",
+        "M2.S4.T5",
+        "M2.S5.T6",
+        "M3.S6.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX27",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દનો અર્થ આપી વાક્યમાં પ્રયોગ કરો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "રસ",
+      "answer": "રસ - શોખ, અભિરુચિ - સ્વપ્નિલને મધમાખીઓમાં રસ પડ્યો.\nરસ - ફળનું પ્રવાહી - ઉનાળામાં કેરીનો રસ સૌને ભાવે છે.",
+      "explanation": "એક જ શબ્દના જુદા જુદા અર્થ થાય તેને અનેકાર્થી શબ્દ કહે છે. ‘રસ’નો અર્થ વાક્યના સંદર્ભ પરથી નક્કી થાય છે : પહેલા વાક્યમાં એ મનનો ભાવ છે, બીજામાં એ પીવાની વસ્તુ છે.",
+      "acceptable_alternatives": [
+        "રસ - કઢી કે દાળ જેવું પ્રવાહી",
+        "રસ - સાહિત્યનો રસ (શૃંગાર, કરુણ વગેરે)"
+      ],
+      "values_filled_for_teaching": "રસ - શોખ, અભિરુચિ | રસ - ફળનું પ્રવાહી",
+      "teacher_note": "Printed block 5. The block prints its pattern first: “ઉપાધિ - પીડા - મધમાખી કરડશે તો ઉપાધિ થશે.” and “ઉપાધિ - ખિતાબ - ડૉ. સર્વપલ્લી રાધાકૃષ્ણનૂને ‘ભારતરત્ન’ ઉપાધિથી સન્માનિત કર્યા.” — so each word wants TWO meanings, each in its own sentence. Children's sentences will differ; judge them on whether the sentence forces the intended meaning. The first sense is the chapter's own — “આને વળી મધમાખીઓમાં કેમ રસ પડ્યો ?”",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX28",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દનો અર્થ આપી વાક્યમાં પ્રયોગ કરો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ભાગ",
+      "answer": "ભાગ - હિસ્સો, ટુકડો - કેરીના બે ભાગ કરીને અમે વહેંચી લીધા.\nભાગ - નાસી જવું, દોડી જવું - કૂતરાને જોઈને બિલાડી ભાગી ગઈ.",
+      "explanation": "પહેલા વાક્યમાં ‘ભાગ’ નામ છે — હિસ્સો. બીજા વાક્યમાં એ ‘ભાગવું’ ક્રિયાપદનું રૂપ છે — નાસી જવું. શબ્દ એક, પણ વાક્યમાંનું કામ જુદું.",
+      "acceptable_alternatives": [
+        "ભાગ - પુસ્તકનો વિભાગ (પહેલો ભાગ, બીજો ભાગ)"
+      ],
+      "values_filled_for_teaching": "ભાગ - હિસ્સો, ટુકડો | ભાગ - નાસી જવું, દોડી જવું",
+      "teacher_note": "Printed block 5. The block prints its pattern first: “ઉપાધિ - પીડા - મધમાખી કરડશે તો ઉપાધિ થશે.” and “ઉપાધિ - ખિતાબ - ડૉ. સર્વપલ્લી રાધાકૃષ્ણનૂને ‘ભારતરત્ન’ ઉપાધિથી સન્માનિત કર્યા.” — so each word wants TWO meanings, each in its own sentence. Children's sentences will differ; judge them on whether the sentence forces the intended meaning. Not a word of this chapter's reading text, so it is recorded in coverage_report.unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX29",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દનો અર્થ આપી વાક્યમાં પ્રયોગ કરો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ઝડપી",
+      "answer": "ઝડપી - ગતિવાળી, વેગવાળી - આજનો યુગ ઝડપી છે.\nઝડપી - ઝડપી લેવું, આંચકી લેવું - બિલાડીએ ઉંદરને ઝડપી લીધો.",
+      "explanation": "પહેલા વાક્યમાં ‘ઝડપી’ વિશેષણ છે — ઝડપવાળું. બીજા વાક્યમાં એ ‘ઝડપવું’ ક્રિયાપદનું ભૂતકાળનું રૂપ છે — પકડી લેવું.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ઝડપી - ગતિવાળી, વેગવાળી | ઝડપી - ઝડપી લેવું, આંચકી લેવું",
+      "teacher_note": "Printed block 5. The block prints its pattern first: “ઉપાધિ - પીડા - મધમાખી કરડશે તો ઉપાધિ થશે.” and “ઉપાધિ - ખિતાબ - ડૉ. સર્વપલ્લી રાધાકૃષ્ણનૂને ‘ભારતરત્ન’ ઉપાધિથી સન્માનિત કર્યા.” — so each word wants TWO meanings, each in its own sentence. Children's sentences will differ; judge them on whether the sentence forces the intended meaning. The first sense is the chapter's own — “નૃત્ય ધીમું હોય તો અંતર લાંબું અને ઝડપી હોય તો અંતર ઓછું.”",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S5.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX30",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દનો અર્થ આપી વાક્યમાં પ્રયોગ કરો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "દફતર",
+      "answer": "દફતર - નિશાળની થેલી - સ્વપ્નિલે દફતર ફેંકીને સોફા પર આડો પડ્યો.\nદફતર - કચેરીમાં કાગળોનો સંગ્રહ, રેકૉર્ડ - જૂના દસ્તાવેજો દફતરમાં સાચવી રાખ્યા છે.",
+      "explanation": "ગુજરાતીમાં ‘દફતર’ એટલે નિશાળની થેલી — પાઠના પહેલા જ ફકરામાં એ અર્થમાં આવે છે. બીજો અર્થ કચેરીના કાગળોનો સંગ્રહ છે. હિન્દીમાં ‘દફ્તર’ એટલે ઑફિસ, પણ ગુજરાતીમાં એ અર્થ સામાન્ય નથી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "દફતર - નિશાળની થેલી | દફતર - કચેરીમાં કાગળોનો સંગ્રહ, રેકૉર્ડ",
+      "teacher_note": "Printed block 5. The block prints its pattern first: “ઉપાધિ - પીડા - મધમાખી કરડશે તો ઉપાધિ થશે.” and “ઉપાધિ - ખિતાબ - ડૉ. સર્વપલ્લી રાધાકૃષ્ણનૂને ‘ભારતરત્ન’ ઉપાધિથી સન્માનિત કર્યા.” — so each word wants TWO meanings, each in its own sentence. Children's sentences will differ; judge them on whether the sentence forces the intended meaning. The chapter's own sense is the school bag; the Hindi 'daftar' ('office') is a false friend and worth naming here.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX31",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દનો અર્થ આપી વાક્યમાં પ્રયોગ કરો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "રમત",
+      "answer": "રમત - ખેલ - રિસેસમાં અમે ખો-ખોની રમત રમીએ છીએ.\nરમત - સહેલી વાત, મશ્કરી - ગાંઠનું ઑપરેશન એ કંઈ રમત વાત નથી.",
+      "explanation": "પહેલા વાક્યમાં ‘રમત’ એટલે ખેલ. બીજા વાક્યમાં ‘રમત વાત નથી’ એટલે ‘સહેલી વાત નથી’ — અહીં શબ્દ ગંભીરતા દર્શાવવા વપરાયો છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "રમત - ખેલ | રમત - સહેલી વાત, મશ્કરી",
+      "teacher_note": "Printed block 5. The block prints its pattern first: “ઉપાધિ - પીડા - મધમાખી કરડશે તો ઉપાધિ થશે.” and “ઉપાધિ - ખિતાબ - ડૉ. સર્વપલ્લી રાધાકૃષ્ણનૂને ‘ભારતરત્ન’ ઉપાધિથી સન્માનિત કર્યા.” — so each word wants TWO meanings, each in its own sentence. Children's sentences will differ; judge them on whether the sentence forces the intended meaning. Not a word of this chapter's reading text, so it is recorded in coverage_report.unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX32",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દનો અર્થ આપી વાક્યમાં પ્રયોગ કરો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "વાળ",
+      "answer": "વાળ - કેશ, માથાના વાળ - મમ્મીએ એના વાળમાં હળવેથી હાથ ફેરવ્યો.\nવાળ - વાળવું — વળાંક આપવો, ફેરવવું - ગાડી ડાબી બાજુ વાળ.",
+      "explanation": "પહેલા વાક્યમાં ‘વાળ’ નામ છે — કેશ. બીજા વાક્યમાં એ ‘વાળવું’ ક્રિયાપદનું આજ્ઞાર્થ રૂપ છે — વળાંક આપ.",
+      "acceptable_alternatives": [
+        "વાળ - પાછું વાળવું (પાછું ફેરવવું)"
+      ],
+      "values_filled_for_teaching": "વાળ - કેશ, માથાના વાળ | વાળ - વાળવું — વળાંક આપવો, ફેરવવું",
+      "teacher_note": "Printed block 5. The block prints its pattern first: “ઉપાધિ - પીડા - મધમાખી કરડશે તો ઉપાધિ થશે.” and “ઉપાધિ - ખિતાબ - ડૉ. સર્વપલ્લી રાધાકૃષ્ણનૂને ‘ભારતરત્ન’ ઉપાધિથી સન્માનિત કર્યા.” — so each word wants TWO meanings, each in its own sentence. Children's sentences will differ; judge them on whether the sentence forces the intended meaning. Not a word of this chapter's reading text, so it is recorded in coverage_report.unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX33",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દનો અર્થ આપી વાક્યમાં પ્રયોગ કરો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "બંધ",
+      "answer": "બંધ - બિડાયેલું, ખુલ્લું નહીં - સ્વપ્નિલે બારી બંધ કરાવી.\nબંધ - નદી પર બાંધેલી પાળ, ડૅમ - નર્મદા નદી પર મોટો બંધ બાંધવામાં આવ્યો છે.",
+      "explanation": "પહેલા વાક્યમાં ‘બંધ’ વિશેષણ છે — બિડાયેલું. બીજા વાક્યમાં એ નામ છે — પાણી રોકવા બાંધેલી પાળ. ઉચ્ચાર એક, અર્થ સાવ જુદા.",
+      "acceptable_alternatives": [
+        "બંધ - બાંધો, રચના (કાવ્યનો બંધ)"
+      ],
+      "values_filled_for_teaching": "બંધ - બિડાયેલું, ખુલ્લું નહીં | બંધ - નદી પર બાંધેલી પાળ, ડૅમ",
+      "teacher_note": "Printed block 5. The block prints its pattern first: “ઉપાધિ - પીડા - મધમાખી કરડશે તો ઉપાધિ થશે.” and “ઉપાધિ - ખિતાબ - ડૉ. સર્વપલ્લી રાધાકૃષ્ણનૂને ‘ભારતરત્ન’ ઉપાધિથી સન્માનિત કર્યા.” — so each word wants TWO meanings, each in its own sentence. Children's sentences will differ; judge them on whether the sentence forces the intended meaning. The first sense is the chapter's own — “એણે બારી બંધ કરાવી.”",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX34",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દનો અર્થ આપી વાક્યમાં પ્રયોગ કરો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ફળ",
+      "answer": "ફળ - ઝાડ પર થતું ફળ - મધમાખીના પરાગનયનથી ફળો અને અનાજ પેદા થાય છે.\nફળ - પરિણામ - મહેનતનું ફળ મીઠું હોય છે.",
+      "explanation": "પહેલા વાક્યમાં ‘ફળ’ એટલે ખાવાનું ફળ. બીજા વાક્યમાં એ ‘પરિણામ’ના અર્થમાં આવે છે. બીજો અર્થ પહેલા અર્થ પરથી જ ઊતરી આવ્યો છે — ઝાડ મહેનતનું પરિણામ ફળરૂપે આપે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ફળ - ઝાડ પર થતું ફળ | ફળ - પરિણામ",
+      "teacher_note": "Printed block 5. The block prints its pattern first: “ઉપાધિ - પીડા - મધમાખી કરડશે તો ઉપાધિ થશે.” and “ઉપાધિ - ખિતાબ - ડૉ. સર્વપલ્લી રાધાકૃષ્ણનૂને ‘ભારતરત્ન’ ઉપાધિથી સન્માનિત કર્યા.” — so each word wants TWO meanings, each in its own sentence. Children's sentences will differ; judge them on whether the sentence forces the intended meaning. The first sense is the chapter's own — “જેથી ફળો અને અનાજ પેદા થાય છે.”",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S5.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX35",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દનો અર્થ આપી વાક્યમાં પ્રયોગ કરો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ભેટ",
+      "answer": "ભેટ - બક્ષિસ, ઉપહાર - મધમાખી સ્વપ્નિલને મધનું ટીપું ભેટ આપી ગઈ.\nભેટ - ભેટવું — આલિંગન કરવું - વર્ષો પછી બે મિત્રો ભેટી પડ્યા.",
+      "explanation": "પહેલા વાક્યમાં ‘ભેટ’ નામ છે — બક્ષિસ. બીજા વાક્યમાં એ ‘ભેટવું’ ક્રિયાપદનું રૂપ છે — છાતીસરસા ચાંપવું.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "ભેટ - બક્ષિસ, ઉપહાર | ભેટ - ભેટવું — આલિંગન કરવું",
+      "teacher_note": "Printed block 5. The block prints its pattern first: “ઉપાધિ - પીડા - મધમાખી કરડશે તો ઉપાધિ થશે.” and “ઉપાધિ - ખિતાબ - ડૉ. સર્વપલ્લી રાધાકૃષ્ણનૂને ‘ભારતરત્ન’ ઉપાધિથી સન્માનિત કર્યા.” — so each word wants TWO meanings, each in its own sentence. Children's sentences will differ; judge them on whether the sentence forces the intended meaning. The first sense is the chapter's own — “મારી બેટી ભેટ આપી ગઈ !”",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX36",
+      "exercise_group": "ઉદાહરણ મુજબ શબ્દનો અર્થ આપી વાક્યમાં પ્રયોગ કરો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ભીડ",
+      "answer": "ભીડ - ટોળું, ગિરદી - મેળામાં ખૂબ ભીડ હતી.\nભીડ - મુશ્કેલી, સંકટ - સાચો મિત્ર ભીડમાં કામ આવે છે.",
+      "explanation": "પહેલા વાક્યમાં ‘ભીડ’ એટલે માણસોનું ટોળું. બીજા વાક્યમાં ‘ભીડમાં કામ આવવું’ એટલે મુશ્કેલીના સમયે મદદે આવવું — અહીં શબ્દ સંકટના અર્થમાં છે.",
+      "acceptable_alternatives": [
+        "ભીડ - ભીડવું (બારણું ભીડવું = બંધ કરવું)"
+      ],
+      "values_filled_for_teaching": "ભીડ - ટોળું, ગિરદી | ભીડ - મુશ્કેલી, સંકટ",
+      "teacher_note": "Printed block 5. The block prints its pattern first: “ઉપાધિ - પીડા - મધમાખી કરડશે તો ઉપાધિ થશે.” and “ઉપાધિ - ખિતાબ - ડૉ. સર્વપલ્લી રાધાકૃષ્ણનૂને ‘ભારતરત્ન’ ઉપાધિથી સન્માનિત કર્યા.” — so each word wants TWO meanings, each in its own sentence. Children's sentences will differ; judge them on whether the sentence forces the intended meaning. Not a word of this chapter's reading text, so it is recorded in coverage_report.unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX37",
+      "exercise_group": "રેખાંકિત શબ્દની જગ્યાએ કૌંસમાં આપેલ શબ્દ મૂકી જરૂરી સુધારા સાથે ફકરો ફરીથી લખો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "(નોતરું, વૈદ્ય, કાર્યાલય, મનુષ્ય, શ્રેષ્ઠ, બીમારી, કષ્ટ, મહેનત, સમય, તન, પ્રયાસ)\n\nઆજનો યુગ ઝડપી છે. એ જ રીતે શારીરિક શ્રમ વિનાનો પણ છે. ઘરમાંથી ગાડીમાં અને ગાડીમાંથી ઑફિસમાં ‘બેઠાડુ’ જીવન, બળજોરનો અભાવ તેથી રોગને આમંત્રણ, જીવનમાં ઉદ્યમનું ગૌરવ અને મહત્ત્વ હોવું જોઈએ. આજે માણસ હાથપગ કરતાંય વધુ તો મગજથી કામ લઈને કમાય છે. જ્યાં સુધી શરીર સારું ન હોય ત્યાં સુધી મગજ પણ ચાલતું નથી. રૂસોએ પણ સરસ કહ્યું છે, “પ્રયત્ન અને પરિશ્રમ માનવના બે સર્વોત્તમ ચિકિત્સક છે.”",
+      "answer": "આજનો સમય ઝડપી છે. એ જ રીતે શારીરિક કષ્ટ વિનાનો પણ છે. ઘરમાંથી ગાડીમાં અને ગાડીમાંથી ઑફિસમાં ‘બેઠાડુ’ જીવન, બળજોરનો અભાવ તેથી બીમારીને નોતરું, જીવનમાં મહેનતનું ગૌરવ અને મહત્ત્વ હોવું જોઈએ. આજે મનુષ્ય હાથપગ કરતાંય વધુ તો મગજથી કામ લઈને કમાય છે. જ્યાં સુધી તન સારું ન હોય ત્યાં સુધી મગજ પણ ચાલતું નથી. રૂસોએ પણ સરસ કહ્યું છે, “પ્રયાસ અને પરિશ્રમ માનવના બે શ્રેષ્ઠ વૈદ્ય છે.”",
+      "explanation": "દરેક રેખાંકિત શબ્દની જગ્યાએ કૌંસમાંનો સમાનાર્થી શબ્દ મુકાય છે : યુગ → સમય, શ્રમ → કષ્ટ, રોગ → બીમારી, આમંત્રણ → નોતરું, ઉદ્યમ → મહેનત, માણસ → મનુષ્ય, શરીર → તન, પ્રયત્ન → પ્રયાસ, સર્વોત્તમ → શ્રેષ્ઠ, ચિકિત્સક → વૈદ્ય. ‘જરૂરી સુધારા’ એટલે નવો શબ્દ મુકાયા પછી લિંગ-વચન પ્રમાણે આજુબાજુના શબ્દોમાં ફેરફાર કરવો પડે તો કરવો; અહીં ‘સમય’, ‘કષ્ટ’ અને ‘તન’ મુકાયા પછી પણ ‘વિનાનો’ અને ‘સારું’ એ મૂળ રૂપે જ સાચાં રહે છે, કારણ કે ‘વિનાનો’ સમય સાથે અને ‘સારું’ તન સાથે મળે છે.",
+      "acceptable_alternatives": [
+        "શ્રમ → મહેનત અને ઉદ્યમ → કષ્ટ એવી અદલાબદલી કરેલો ફકરો પણ ચાલે.",
+        "‘ઑફિસમાં’ને સ્થાને ‘કાર્યાલયમાં’ મૂકેલો ફકરો પણ સ્વીકારાય."
+      ],
+      "values_filled_for_teaching": "યુગ → સમય | શ્રમ → કષ્ટ | રોગ → બીમારી | આમંત્રણ → નોતરું | ઉદ્યમ → મહેનત | માણસ → મનુષ્ય | શરીર → તન | પ્રયત્ન → પ્રયાસ | સર્વોત્તમ → શ્રેષ્ઠ | ચિકિત્સક → વૈદ્ય | (કાર્યાલય — વધારાનો શબ્દ; જુઓ શિક્ષક-નોંધ)",
+      "teacher_note": "Printed block 6. The page underlines exactly ten words — યુગ, શ્રમ, રોગ, આમંત્રણ, ઉદ્યમ(નું), માણસ, શરીર, પ્રયત્ન, સર્વોત્તમ, ચિકિત્સક — while the bracket offers eleven. ઑફિસ is NOT underlined on the printed page even though કાર્યાલય sits in the bank, so કાર્યાલય is left over; accept either the ten-substitution version or the eleven-substitution version. This is verified against the render (page-6.png), not inferred. The paragraph is a separate practice passage, not this chapter's reading text, so the item is recorded in coverage_report.unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX38",
+      "exercise_group": "આપેલાં વાક્ય કોણ બોલી શકે ?",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "દવાથી ગાંઠ ઓગળે એટલે ઑપરેશનની જરૂર નહિ પડે.",
+      "answer": "ન્યૂરોલૉજિસ્ટ ડૉ. નિવેશ ચાવડા.",
+      "explanation": "પાઠમાં ઑપરેશન કરવું કે નહીં એ નક્કી કરનાર એક જ પાત્ર છે — ન્યૂરોલૉજિસ્ટ. એમણે જ કહ્યું હતું કે ગાંઠ નાજુક જગ્યાએ છે એટલે ઑપરેશન જોખમી છે અને દવા આપીને ગાંઠ ઓગાળવાના પ્રયત્ન કરીશું. બાપુજી કે મમ્મી આ વાક્ય ન બોલી શકે, કારણ કે સારવારનો નિર્ણય ડૉક્ટરનો છે.",
+      "acceptable_alternatives": [
+        "ડૉક્ટર (ન્યૂરોલૉજિસ્ટ)"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, sentence 1. Ask children for the line in the lesson that lets them decide; speaker-attribution items are won by evidence, not by guessing.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX39",
+      "exercise_group": "આપેલાં વાક્ય કોણ બોલી શકે ?",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "બારી ખુલ્લી રાખો તો મને સારું લાગે.",
+      "answer": "સ્વપ્નિલ.",
+      "explanation": "બારી ખોલવાનું કહેનાર પાઠમાં સ્વપ્નિલ જ છે — “આ ઍરકંડિશનર બંધ કરો અને આ બારી ખોલો. મારે બહારની હવા જોઈએ છે.” સવિતાબહેન તો ઊલટાનાં બારી બંધ કરે છે, એટલે એ આ વાક્ય ન બોલે.",
+      "acceptable_alternatives": [
+        "દરદી સ્વપ્નિલ"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, sentence 2.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX40",
+      "exercise_group": "આપેલાં વાક્ય કોણ બોલી શકે ?",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "કેટ સ્કેન કરવો જ પડશે ?",
+      "answer": "સ્વપ્નિલનાં મમ્મી (ઘરનું ચિંતાતુર સ્વજન).",
+      "explanation": "કેટ-સ્કેન કરવાનું ડૉક્ટરોએ કહ્યું હતું, એટલે આ પ્રશ્ન ડૉક્ટર ન પૂછે — પ્રશ્ન એ પૂછે જેને તપાસ સાંભળીને ફડક પેઠી હોય. પાઠમાં સૌથી પહેલાં ચિંતામાં પડનાર મમ્મી છે, અને એમનું જ મોઢું પછી પડી જાય છે. પપ્પા કે બાપુજી પણ પૂછી શકે.",
+      "acceptable_alternatives": [
+        "સ્વપ્નિલના પપ્પા",
+        "બાપુજી",
+        "ઘરનું કોઈ પણ સ્વજન"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, sentence 3. The book leaves this one genuinely open between the family members; accept any of them if the child can say why.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX41",
+      "exercise_group": "આપેલાં વાક્ય કોણ બોલી શકે ?",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "તમને ખબર છે મધ દવા તરીકે પણ ઉપયોગી છે ?",
+      "answer": "મોટી બહેન.",
+      "explanation": "મધની ઔષધિ તરીકેની વાત પાઠમાં મોટી બહેન જ કરે છે — “મધમાખીઓ જે મધ તૈયાર કરે છે તે ઔષધી તરીકે ઉપયોગી છે.” એ ઇન્ટરનેટ પરથી માહિતી લાવ્યાં હતાં, એટલે જાણકારી એમની પાસે છે. સ્વપ્નિલ તો આ વાત એમની પાસેથી જ શીખે છે.",
+      "acceptable_alternatives": [
+        "સ્વપ્નિલની મોટી બહેન"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, sentence 4.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S5.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX42",
+      "exercise_group": "આપેલાં વાક્ય કોણ બોલી શકે ?",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "જુઓ તો ખરા, સ્વપ્નિલને કંઈક થઈ ગયું લાગે !",
+      "answer": "સ્વપ્નિલનાં મમ્મી.",
+      "explanation": "પાઠના પહેલા ભાગમાં મમ્મી જ પપ્પાને બૂમ પાડે છે — “સાંભળો છો ? અહીં આવો, તરત જ આવો. જુઓ સ્વપ્નિલને શં થાય છે.” એટલે આ વાક્યનો સૂર અને શબ્દો બંને મમ્મીના છે.",
+      "acceptable_alternatives": [
+        "મમ્મી"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7, sentence 5. The nearest printed line carries the book's own typo (‘શં’ for ‘શું’); read it as printed and do not turn it into a spelling lesson.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX43",
+      "exercise_group": "પાઠને આધારે નીચેનાં વાક્ય પૂર્ણ કરો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "સ્વપ્નિલ માંડ ઘરમાં પેઠો કારણ કે...",
+      "answer": "સ્વપ્નિલ માંડ ઘરમાં પેઠો કારણ કે એ નિશાળેથી ખૂબ થાકેલો હતો અને એનું માથું સખત દુખતું હતું.",
+      "explanation": "‘કારણ કે’ પછી કારણ આવે. પાઠનો પહેલો ફકરો બે વાત આપે છે — ખૂબ થાકેલો લાગતો હતો, અને પછી એ પોતે કહે છે કે માથું સખત દુખે છે.",
+      "acceptable_alternatives": [
+        "...કારણ કે એને સખત માથું દુખતું હતું અને એ થાકીને લોથ થઈ ગયો હતો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8, sentence 1. The block teaches connectives — કારણ કે, એટલે, પણ, જાણે કે, છતાં — so mark the joining word before marking the content.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX44",
+      "exercise_group": "પાઠને આધારે નીચેનાં વાક્ય પૂર્ણ કરો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "હૉસ્પિટલના ઘણા દરદીઓએ ફરિયાદ કરી, એટલે",
+      "answer": "હૉસ્પિટલના ઘણા દરદીઓએ ફરિયાદ કરી, એટલે સામેના મકાનનો પેલો મધપૂડો ઉતારી લેવામાં આવ્યો.",
+      "explanation": "‘એટલે’ પછી પરિણામ આવે. સવિતાબહેન સ્વપ્નિલને કહે છે કે દરદીઓએ ફરિયાદ કરી કે ઓરડામાં મધમાખીઓ ફરે છે, એટલે મધપૂડો ઉતારી લેવાયો.",
+      "acceptable_alternatives": [
+        "...એટલે મધપૂડો ઉતારી લેવાયો અને સ્વપ્નિલ નિરાશ થઈ ગયો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8, sentence 2.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S7.T9"
+      ]
+    },
+    {
+      "exercise_id": "EX45",
+      "exercise_group": "પાઠને આધારે નીચેનાં વાક્ય પૂર્ણ કરો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "મધમાખી બધાં જ પ્રાણીઓની જેમ બોલીને વાતચીત નથી કરતી, પણ",
+      "answer": "મધમાખી બધાં જ પ્રાણીઓની જેમ બોલીને વાતચીત નથી કરતી, પણ મધપૂડાની સપાટી પર નૃત્ય કરીને મધ કઈ દિશામાં અને કેટલે દૂર છે તે કહી દે છે.",
+      "explanation": "‘પણ’ પછી સામી વાત આવે. પાઠ કહે છે કે ભમતી માખી પાછી ફરીને પૂડા પર નૃત્ય કરે છે; નૃત્યથી સૂરજનાં કિરણો સાથે ખૂણો બનાવીને દિશા સમજાવે છે, અને નૃત્ય ધીમું હોય તો અંતર લાંબું, ઝડપી હોય તો ઓછું.",
+      "acceptable_alternatives": [
+        "...પણ નૃત્ય કરીને પોતાની વાત કહી દે છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8, sentence 3.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S5.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX46",
+      "exercise_group": "પાઠને આધારે નીચેનાં વાક્ય પૂર્ણ કરો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "મધમાખી સ્વપ્નિલની આંગળી પર મધનાં ટીપાં મૂકી ગઈ, જાણે કે",
+      "answer": "મધમાખી સ્વપ્નિલની આંગળી પર મધનાં ટીપાં મૂકી ગઈ, જાણે કે એ એને ઔષધીનો ડોઝ આપી ગઈ હોય !",
+      "explanation": "‘જાણે કે’ પછી સરખામણી આવે, અને અહીં તો પુસ્તકે પોતે જ એ સરખામણી છાપી છે — “જાણે ઔષધીનો ડોઝ !” બીમાર છોકરાને દવાના ડોઝ મળતા હતા, અને માખી પણ ટીપે ટીપે કંઈક આપી જતી હતી.",
+      "acceptable_alternatives": [
+        "...જાણે કે દવાનો ડોઝ આપી ગઈ હોય."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8, sentence 4. The completion is printed in the lesson itself — send children to find it rather than inventing one.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX47",
+      "exercise_group": "પાઠને આધારે નીચેનાં વાક્ય પૂર્ણ કરો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "મમ્મીના હાથનો સ્પર્શ એને એવો લાગતો, જાણે કે",
+      "answer": "મમ્મીના હાથનો સ્પર્શ એને એવો લાગતો, જાણે કે દવા નહીં પણ માતાનો હાથ જ એને સાજો કરી રહ્યો હોય.",
+      "explanation": "આ પણ પાઠની પોતાની પંક્તિ છે — “એને એવું લાગતું કે દવા નહીં પરંતુ એની માતાનો હાથ એને સાજો કરી રહ્યો છે.” નિરાશા મમ્મીની વાત અને હાથના સ્પર્શથી દૂર થતી હતી.",
+      "acceptable_alternatives": [
+        "...જાણે કે એની બધી નિરાશા દૂર થઈ જતી હોય."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8, sentence 5.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX48",
+      "exercise_group": "પાઠને આધારે નીચેનાં વાક્ય પૂર્ણ કરો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "મધમાખીને લીધે આપણને આપણો ખોરાક મળે છે, છતાં",
+      "answer": "મધમાખીને લીધે આપણને આપણો ખોરાક મળે છે, છતાં આપણે એમનો જ ખોરાક — મધ — ઝૂંટવી લઈએ છીએ.",
+      "explanation": "‘છતાં’ પછી ઊલટી વાત આવે. પરાગનયનથી ફળો અને અનાજ પેદા થાય છે, એટલે આપણો ખોરાક મધમાખીને આભારી છે; અને તોય સ્વપ્નિલને થાય છે — “આપણે કેવા કે એમનો ખોરાક ઝૂંટવીએ છીએ !”",
+      "acceptable_alternatives": [
+        "...છતાં આપણે એમનું મધ લઈ લઈએ છીએ."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8, sentence 6.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S5.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX49",
+      "exercise_group": "પાઠને આધારે નીચેનાં વાક્ય પૂર્ણ કરો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "મધમાખી એના ગણગણાટથી સ્વપ્નિલને ઘણું બધું કહેતી, પણ",
+      "answer": "મધમાખી એના ગણગણાટથી સ્વપ્નિલને ઘણું બધું કહેતી, પણ એને એમની ભાષા આવડતી ન હતી.",
+      "explanation": "પાઠમાં સ્વપ્નિલ પોતે વિચારે છે — “એમના ગણગણાટથી એ મને કશુંક કહેતી પણ હોય, પણ એમની ભાષા મને આવડતી નથી. એ આવડતી હોત તો કેટલી મજા આવત !” એટલે ‘પણ’ પછી એની અધૂરપ આવે છે.",
+      "acceptable_alternatives": [
+        "...પણ સ્વપ્નિલ એ ભાષા સમજી શકતો ન હતો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8, sentence 7.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX50",
+      "exercise_group": "ઉદાહરણ પ્રમાણે વાક્યમાં ફેરફાર કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "હું આ વજન ઊંચકી ન શક્યો.",
+      "answer": "મારાથી આ વજન ઊંચકી ન શકાયું.",
+      "explanation": "‘હું’ કર્તા હતો, હવે એ ‘મારાથી’ બને છે. ‘ઊંચકી ન શક્યો’ને બદલે ‘ઊંચકી ન શકાયું’ આવે છે, અને ક્રિયાપદ કર્મ ‘વજન’ (નપુંસકલિંગ) પ્રમાણે ‘શકાયું’ થાય છે.",
+      "acceptable_alternatives": [
+        "મારાથી આ વજન ઊંચકાયું નહીં."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9. The block prints its model first: “સ્વપ્નિલ માંડ દસ ડગલાં ચાલી શક્યો.” → “સ્વપ્નિલથી માંડ દસ ડગલાં ચાલી શકાયું.” The pattern is the શક્યાર્થ કર્મણિ/ભાવે પ્રયોગ: the કર્તા takes -થી, and the verb becomes શકાવું, agreeing with the કર્મ (or staying neuter when there is none). Std 8's own grammar row teaches પ્રયોગ with -થી and દ્વારા, so the category is fair game at this standard; do not label it કર્તરિ/કર્મણિ/ભાવે on the board beyond what the reader has taught.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M2.S4.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX51",
+      "exercise_group": "ઉદાહરણ પ્રમાણે વાક્યમાં ફેરફાર કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "હું હવે સોયમાં દોરો પરોવી શકું છું.",
+      "answer": "મારાથી હવે સોયમાં દોરો પરોવી શકાય છે.",
+      "explanation": "વર્તમાનકાળનું વાક્ય છે, એટલે રૂપાંતરમાં પણ વર્તમાનકાળ જ રહે : ‘શકું છું’ → ‘શકાય છે’. કર્તા ‘હું’ → ‘મારાથી’.",
+      "acceptable_alternatives": [
+        "મારાથી હવે સોયમાં દોરો પરોવાય છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9. The block prints its model first: “સ્વપ્નિલ માંડ દસ ડગલાં ચાલી શક્યો.” → “સ્વપ્નિલથી માંડ દસ ડગલાં ચાલી શકાયું.” The pattern is the શક્યાર્થ કર્મણિ/ભાવે પ્રયોગ: the કર્તા takes -થી, and the verb becomes શકાવું, agreeing with the કર્મ (or staying neuter when there is none). Std 8's own grammar row teaches પ્રયોગ with -થી and દ્વારા, so the category is fair game at this standard; do not label it કર્તરિ/કર્મણિ/ભાવે on the board beyond what the reader has taught.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M2.S4.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX52",
+      "exercise_group": "ઉદાહરણ પ્રમાણે વાક્યમાં ફેરફાર કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "ત્રણ સિપાઈઓ પણ ચોરને પકડી ન શક્યા.",
+      "answer": "ત્રણ સિપાઈઓથી પણ ચોર પકડી ન શકાયો.",
+      "explanation": "કર્તા ‘ત્રણ સિપાઈઓ’ → ‘ત્રણ સિપાઈઓથી’. કર્મ ‘ચોરને’ પરથી ‘ને’ ખસી જાય છે અને ક્રિયાપદ એ કર્મ પ્રમાણે — પુંલિંગ એકવચન — ‘શકાયો’ થાય છે.",
+      "acceptable_alternatives": [
+        "ત્રણ સિપાઈઓથી પણ ચોર પકડાયો નહીં."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9. The block prints its model first: “સ્વપ્નિલ માંડ દસ ડગલાં ચાલી શક્યો.” → “સ્વપ્નિલથી માંડ દસ ડગલાં ચાલી શકાયું.” The pattern is the શક્યાર્થ કર્મણિ/ભાવે પ્રયોગ: the કર્તા takes -થી, and the verb becomes શકાવું, agreeing with the કર્મ (or staying neuter when there is none). Std 8's own grammar row teaches પ્રયોગ with -થી and દ્વારા, so the category is fair game at this standard; do not label it કર્તરિ/કર્મણિ/ભાવે on the board beyond what the reader has taught.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M2.S4.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX53",
+      "exercise_group": "ઉદાહરણ પ્રમાણે વાક્યમાં ફેરફાર કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "બા એનું દુઃખ જોઈ શકતાં નથી.",
+      "answer": "બાથી એનું દુઃખ જોઈ શકાતું નથી.",
+      "explanation": "કર્તા ‘બા’ → ‘બાથી’. ‘જોઈ શકતાં નથી’ → ‘જોઈ શકાતું નથી’; ક્રિયાપદ હવે બા પ્રમાણે નહીં પણ કર્મ ‘દુઃખ’ (નપુંસકલિંગ) પ્રમાણે ચાલે છે.",
+      "acceptable_alternatives": [
+        "બાથી એનું દુઃખ જોવાતું નથી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9. The block prints its model first: “સ્વપ્નિલ માંડ દસ ડગલાં ચાલી શક્યો.” → “સ્વપ્નિલથી માંડ દસ ડગલાં ચાલી શકાયું.” The pattern is the શક્યાર્થ કર્મણિ/ભાવે પ્રયોગ: the કર્તા takes -થી, and the verb becomes શકાવું, agreeing with the કર્મ (or staying neuter when there is none). Std 8's own grammar row teaches પ્રયોગ with -થી and દ્વારા, so the category is fair game at this standard; do not label it કર્તરિ/કર્મણિ/ભાવે on the board beyond what the reader has taught.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M2.S4.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX54",
+      "exercise_group": "ઉદાહરણ પ્રમાણે વાક્યમાં ફેરફાર કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "તમે આઠ વાગે પહોંચી શકશો ?",
+      "answer": "તમારાથી આઠ વાગે પહોંચી શકાશે ?",
+      "explanation": "પ્રશ્નાર્થ વાક્ય છે એટલે રૂપાંતરમાં પણ પ્રશ્નચિહ્ન રહે. કર્તા ‘તમે’ → ‘તમારાથી’, અને ‘પહોંચી શકશો’ → ‘પહોંચી શકાશે’; અહીં કર્મ નથી, એટલે ક્રિયાપદ નપુંસકલિંગમાં જ રહે છે.",
+      "acceptable_alternatives": [
+        "તમારાથી આઠ વાગ્યે પહોંચી શકાશે ?"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9. The block prints its model first: “સ્વપ્નિલ માંડ દસ ડગલાં ચાલી શક્યો.” → “સ્વપ્નિલથી માંડ દસ ડગલાં ચાલી શકાયું.” The pattern is the શક્યાર્થ કર્મણિ/ભાવે પ્રયોગ: the કર્તા takes -થી, and the verb becomes શકાવું, agreeing with the કર્મ (or staying neuter when there is none). Std 8's own grammar row teaches પ્રયોગ with -થી and દ્વારા, so the category is fair game at this standard; do not label it કર્તરિ/કર્મણિ/ભાવે on the board beyond what the reader has taught.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M2.S4.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX55",
+      "exercise_group": "‘સ્વપ્નિલ અને મધમાખીની દોસ્તી’ વિશે આઠથી દસ વાક્યો તમારી પ્રથમ ભાષામાં લખો.",
+      "skill": "writing",
+      "prompt_verbatim": "‘સ્વપ્નિલ અને મધમાખીની દોસ્તી’ વિશે આઠથી દસ વાક્યો તમારી પ્રથમ ભાષામાં લખો.",
+      "answer": "(One possible answer, written in English — the medium of instruction recorded in this chapter's id.)\nSwapnil had to stay in hospital for many days because of a tumour in his brain. One day he asked the nurse to switch off the air conditioner and open the window, and he saw a big beehive on the third floor of the building opposite. Every morning he watched the bees through his binoculars. At first he was afraid that a bee might sting him, so he had the window closed again. Then his elder sister brought him information and videos about bees from the internet, and he learnt how hard-working they are and that they do not sting without a reason. After that he stopped being afraid. A bee began to come into his room every day, buzz around his head and fly out. Once it sat on his palm, and the next day on his finger, leaving a tiny drop of honey on his fingertip. Swapnil tasted it and felt that the bee had given him a gift, and from that day it was his true friend. When he was going home he learnt that a new hive was being built on the tree in front of his house, and he said in wonder that his little friend was really clever.",
+      "explanation": "આખો પાઠ વાંચ્યા પછી દોસ્તીની કડી ક્રમમાં ગોઠવવાની છે : બારી ખૂલી → મધપૂડો દેખાયો → ડર → માહિતી → ડર ગયો → ગણગણાટ → હથેળી → આંગળી → મધનું ટીપું → નવો મધપૂડો. આઠથી દસ વાક્યમાં આટલો ક્રમ સચવાય તો જવાબ પૂરો ગણાય. ભાષા બાળકની પ્રથમ ભાષા હોવી જોઈએ, ગુજરાતી નહીં.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10 — the std-8 signature first-language block, printed on a full ruled page. This chapter's id records English as the medium of instruction, so the model answer above is in English; a school whose children's first language is Hindi, Marathi, Sindhi or Urdu substitutes that language and the model is re-written in it. Non-Gujarati script inside this answer field is expected and intended here — it is the block's own requirement, not a script defect. It is a model, not the answer: mark children on the sequence of events and on their own sentences, not on matching this wording.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S4.T5",
+        "M2.S5.T6",
+        "M3.S6.T8",
+        "M3.S8.T10"
+      ]
+    },
+    {
+      "exercise_id": "EX56",
+      "exercise_group": "ઇન્ટરનેટની મદદથી નીચેના તબીબીને લગતા ખાસ શબ્દોના અર્થ જાણો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "કાર્ડિયોલૉજિસ્ટ - ______",
+      "answer": "કાર્ડિયોલૉજિસ્ટ - હૃદયના રોગના નિષ્ણાત ડૉક્ટર",
+      "explanation": "‘કાર્ડિયો’ એટલે હૃદય, ‘લૉજિસ્ટ’ એટલે તે વિષયના જાણકાર — એટલે હૃદયરોગ-નિષ્ણાત.",
+      "acceptable_alternatives": [
+        "હૃદયરોગ નિષ્ણાત"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11. The book prints one worked example — “સર્જન - ઑપરેશન કરનાર” — and sends the child to the internet for the rest; the meanings below are the teacher's key, not a substitute for that search. The chapter itself supplies the pattern word ન્યૂરોલૉજિસ્ટ, so open the block by asking what -લૉજિસ્ટ keeps meaning. Every term is reproduced in the book's own printed Gujarati spelling.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX57",
+      "exercise_group": "ઇન્ટરનેટની મદદથી નીચેના તબીબીને લગતા ખાસ શબ્દોના અર્થ જાણો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "રેડિયોલૉજિસ્ટ - ______",
+      "answer": "રેડિયોલૉજિસ્ટ - એક્સ-રે, સોનોગ્રાફી અને સ્કૅન જેવી તસવીર-તપાસના નિષ્ણાત ડૉક્ટર",
+      "explanation": "પાઠમાં સ્વપ્નિલનો કેટ-સ્કેન થયો હતો; એવી તપાસના રિપોર્ટ વાંચીને રોગ પારખનાર ડૉક્ટર તે રેડિયોલૉજિસ્ટ.",
+      "acceptable_alternatives": [
+        "સ્કૅન-તપાસના નિષ્ણાત"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11. The book prints one worked example — “સર્જન - ઑપરેશન કરનાર” — and sends the child to the internet for the rest; the meanings below are the teacher's key, not a substitute for that search. The chapter itself supplies the pattern word ન્યૂરોલૉજિસ્ટ, so open the block by asking what -લૉજિસ્ટ keeps meaning. Every term is reproduced in the book's own printed Gujarati spelling.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX58",
+      "exercise_group": "ઇન્ટરનેટની મદદથી નીચેના તબીબીને લગતા ખાસ શબ્દોના અર્થ જાણો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ઑર્થોપેડિક - ______",
+      "answer": "ઑર્થોપેડિક - હાડકાં અને સાંધાના રોગના નિષ્ણાત ડૉક્ટર",
+      "explanation": "હાડકું ભાંગે કે સાંધો દુખે ત્યારે જેની પાસે જવાય તે ડૉક્ટર.",
+      "acceptable_alternatives": [
+        "હાડકાંના ડૉક્ટર"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11. The book prints one worked example — “સર્જન - ઑપરેશન કરનાર” — and sends the child to the internet for the rest; the meanings below are the teacher's key, not a substitute for that search. The chapter itself supplies the pattern word ન્યૂરોલૉજિસ્ટ, so open the block by asking what -લૉજિસ્ટ keeps meaning. Every term is reproduced in the book's own printed Gujarati spelling.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX59",
+      "exercise_group": "ઇન્ટરનેટની મદદથી નીચેના તબીબીને લગતા ખાસ શબ્દોના અર્થ જાણો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "યુરોલૉજિસ્ટ - ______",
+      "answer": "યુરોલૉજિસ્ટ - મૂત્રમાર્ગ તથા મૂત્રાશયના રોગના નિષ્ણાત ડૉક્ટર",
+      "explanation": "‘યુરો’ એટલે મૂત્ર સાથે સંબંધ ધરાવતું; એ ભાગની તકલીફોના નિષ્ણાત.",
+      "acceptable_alternatives": [
+        "મૂત્રરોગ નિષ્ણાત"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11. The book prints one worked example — “સર્જન - ઑપરેશન કરનાર” — and sends the child to the internet for the rest; the meanings below are the teacher's key, not a substitute for that search. The chapter itself supplies the pattern word ન્યૂરોલૉજિસ્ટ, so open the block by asking what -લૉજિસ્ટ keeps meaning. Every term is reproduced in the book's own printed Gujarati spelling.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX60",
+      "exercise_group": "ઇન્ટરનેટની મદદથી નીચેના તબીબીને લગતા ખાસ શબ્દોના અર્થ જાણો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "પીડિયાટ્રિશિયન - ______",
+      "answer": "પીડિયાટ્રિશિયન - બાળકોના રોગના નિષ્ણાત ડૉક્ટર",
+      "explanation": "નાનાં બાળકોને જે ડૉક્ટર પાસે લઈ જવાય તે — બાળરોગ નિષ્ણાત.",
+      "acceptable_alternatives": [
+        "બાળરોગ નિષ્ણાત"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11. The book prints one worked example — “સર્જન - ઑપરેશન કરનાર” — and sends the child to the internet for the rest; the meanings below are the teacher's key, not a substitute for that search. The chapter itself supplies the pattern word ન્યૂરોલૉજિસ્ટ, so open the block by asking what -લૉજિસ્ટ keeps meaning. Every term is reproduced in the book's own printed Gujarati spelling.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX61",
+      "exercise_group": "ઇન્ટરનેટની મદદથી નીચેના તબીબીને લગતા ખાસ શબ્દોના અર્થ જાણો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ડેન્ટિસ્ટ - ______",
+      "answer": "ડેન્ટિસ્ટ - દાંતના ડૉક્ટર",
+      "explanation": "‘ડેન્ટ’ એટલે દાંત; દાંતની સારવાર કરનાર.",
+      "acceptable_alternatives": [
+        "દંતચિકિત્સક"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11. The book prints one worked example — “સર્જન - ઑપરેશન કરનાર” — and sends the child to the internet for the rest; the meanings below are the teacher's key, not a substitute for that search. The chapter itself supplies the pattern word ન્યૂરોલૉજિસ્ટ, so open the block by asking what -લૉજિસ્ટ keeps meaning. Every term is reproduced in the book's own printed Gujarati spelling.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX62",
+      "exercise_group": "ઇન્ટરનેટની મદદથી નીચેના તબીબીને લગતા ખાસ શબ્દોના અર્થ જાણો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ડર્મેટોલૉજિસ્ટ - ______",
+      "answer": "ડર્મેટોલૉજિસ્ટ - ચામડીના રોગના નિષ્ણાત ડૉક્ટર",
+      "explanation": "‘ડર્મ’ એટલે ચામડી; ખરજવું, ખીલ કે એલર્જી જેવી ચામડીની તકલીફોના નિષ્ણાત.",
+      "acceptable_alternatives": [
+        "ત્વચારોગ નિષ્ણાત"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11. The book prints one worked example — “સર્જન - ઑપરેશન કરનાર” — and sends the child to the internet for the rest; the meanings below are the teacher's key, not a substitute for that search. The chapter itself supplies the pattern word ન્યૂરોલૉજિસ્ટ, so open the block by asking what -લૉજિસ્ટ keeps meaning. Every term is reproduced in the book's own printed Gujarati spelling.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX63",
+      "exercise_group": "ઇન્ટરનેટની મદદથી નીચેના તબીબીને લગતા ખાસ શબ્દોના અર્થ જાણો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "પેથૉલૉજિસ્ટ - ______",
+      "answer": "પેથૉલૉજિસ્ટ - લોહી, પેશાબ વગેરેની પ્રયોગશાળા-તપાસ કરીને રોગ પારખનાર નિષ્ણાત",
+      "explanation": "દરદીને સીધા ન તપાસે, પણ નમૂનાની તપાસ કરીને રિપોર્ટ આપે — પાઠમાં જે ‘રિપોર્ટ્સ’ આવે છે તે આવા નિષ્ણાતો પાસેથી આવે.",
+      "acceptable_alternatives": [
+        "રોગનિદાન-પ્રયોગશાળાના નિષ્ણાત"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11. The book prints one worked example — “સર્જન - ઑપરેશન કરનાર” — and sends the child to the internet for the rest; the meanings below are the teacher's key, not a substitute for that search. The chapter itself supplies the pattern word ન્યૂરોલૉજિસ્ટ, so open the block by asking what -લૉજિસ્ટ keeps meaning. Every term is reproduced in the book's own printed Gujarati spelling.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX64",
+      "exercise_group": "ઇન્ટરનેટની મદદથી નીચેના તબીબીને લગતા ખાસ શબ્દોના અર્થ જાણો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "સાઇકિયાટ્રિસ્ટ - ______",
+      "answer": "સાઇકિયાટ્રિસ્ટ - માનસિક રોગના નિષ્ણાત ડૉક્ટર",
+      "explanation": "મનની બીમારીની દવા અને સારવાર કરનાર ડૉક્ટર.",
+      "acceptable_alternatives": [
+        "મનોરોગ નિષ્ણાત"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11. The book prints one worked example — “સર્જન - ઑપરેશન કરનાર” — and sends the child to the internet for the rest; the meanings below are the teacher's key, not a substitute for that search. The chapter itself supplies the pattern word ન્યૂરોલૉજિસ્ટ, so open the block by asking what -લૉજિસ્ટ keeps meaning. Every term is reproduced in the book's own printed Gujarati spelling.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX65",
+      "exercise_group": "ઇન્ટરનેટની મદદથી નીચેના તબીબીને લગતા ખાસ શબ્દોના અર્થ જાણો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ગાયનેકોલૉજિસ્ટ - ______",
+      "answer": "ગાયનેકોલૉજિસ્ટ - સ્ત્રીઓના રોગ અને પ્રસૂતિના નિષ્ણાત ડૉક્ટર",
+      "explanation": "સ્ત્રીઓની ખાસ તકલીફો અને પ્રસૂતિની સારવાર કરનાર ડૉક્ટર.",
+      "acceptable_alternatives": [
+        "સ્ત્રીરોગ નિષ્ણાત"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11. The book prints one worked example — “સર્જન - ઑપરેશન કરનાર” — and sends the child to the internet for the rest; the meanings below are the teacher's key, not a substitute for that search. The chapter itself supplies the pattern word ન્યૂરોલૉજિસ્ટ, so open the block by asking what -લૉજિસ્ટ keeps meaning. Every term is reproduced in the book's own printed Gujarati spelling.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX66",
+      "exercise_group": "ઇન્ટરનેટની મદદથી નીચેના તબીબીને લગતા ખાસ શબ્દોના અર્થ જાણો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નેફ્રોલૉજિસ્ટ - ______",
+      "answer": "નેફ્રોલૉજિસ્ટ - કિડની એટલે કે મૂત્રપિંડના રોગના નિષ્ણાત ડૉક્ટર",
+      "explanation": "‘નેફ્રો’ એટલે મૂત્રપિંડ; ડાયાલિસિસ જેવી સારવાર આ નિષ્ણાત સંભાળે.",
+      "acceptable_alternatives": [
+        "મૂત્રપિંડ-રોગ નિષ્ણાત"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11. The book prints one worked example — “સર્જન - ઑપરેશન કરનાર” — and sends the child to the internet for the rest; the meanings below are the teacher's key, not a substitute for that search. The chapter itself supplies the pattern word ન્યૂરોલૉજિસ્ટ, so open the block by asking what -લૉજિસ્ટ keeps meaning. Every term is reproduced in the book's own printed Gujarati spelling.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX67",
+      "exercise_group": "ઇન્ટરનેટની મદદથી નીચેના તબીબીને લગતા ખાસ શબ્દોના અર્થ જાણો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "______ - ______",
+      "answer": "(એક શક્ય જવાબ) ન્યૂરોલૉજિસ્ટ - મગજ અને જ્ઞાનતંતુના રોગના નિષ્ણાત ડૉક્ટર.",
+      "explanation": "બારમો ખાનો ખાલી છે — બાળકે પોતે એક તબીબી શબ્દ શોધીને ઉમેરવાનો છે. પાઠમાં જ ‘ન્યૂરોલૉજિસ્ટ’ આવે છે, અને ડૉ. નિવેશ ચાવડા એ જ નિષ્ણાત છે, એટલે એ સૌથી સહજ પસંદગી છે.",
+      "acceptable_alternatives": [
+        "ઑન્કોલૉજિસ્ટ - કૅન્સરના રોગના નિષ્ણાત ડૉક્ટર",
+        "ઈ.એન.ટી. - કાન, નાક અને ગળાના નિષ્ણાત ડૉક્ટર",
+        "ઑપ્થેલ્મોલૉજિસ્ટ - આંખના નિષ્ણાત ડૉક્ટર",
+        "ફિઝિયોથેરાપિસ્ટ - કસરત દ્વારા સારવાર કરનાર"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 11. The book prints one worked example — “સર્જન - ઑપરેશન કરનાર” — and sends the child to the internet for the rest; the meanings below are the teacher's key, not a substitute for that search. The chapter itself supplies the pattern word ન્યૂરોલૉજિસ્ટ, so open the block by asking what -લૉજિસ્ટ keeps meaning. Every term is reproduced in the book's own printed Gujarati spelling. Item 12 is printed as an empty pair of blanks: the child chooses the word as well as the meaning, so it is a model answer. ન્યૂરોલૉજિસ્ટ is the neatest choice because the lesson has already used it.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T2",
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX68",
+      "exercise_group": "સાચા વિકલ્પની સામે ✓ની નિશાની કરો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "સ્વપ્નિલ સાથે દવાખાનામાં કોઈ ચોવીસ કલાક કેમ હાજર રહી શકતું નહીં હોય ?\n(અ) કારણ કે બધાંને બીજું કઈ જ કામ ન હતું.\n(બ) કારણ કે ઘરની દરેક વ્યક્તિને બીજાં કામ પણ હતાં.\n(ક) કારણ કે દવાખાનામાં કોઈને પણ હાજર રહેવા દેવામાં આવતાં નહીં.",
+      "answer": "(બ) કારણ કે ઘરની દરેક વ્યક્તિને બીજાં કામ પણ હતાં. ✓",
+      "explanation": "પાઠ કહે છે — “ઘરેથી દિવસ દરમિયાન કોઈ ને કોઈ તો એની સાથે રહેતું, પણ ચોવીસ કલાક તો કોણ રહે ?” એટલે ઘરનાં માણસો આવતાં તો હતાં, પણ દરેકને પોતાનાં કામ પણ હતાં — તેથી (બ) સાચો. (અ) લલચાવે છે કારણ કે એ પણ ‘કામ’ની જ વાત કરે છે, પણ એ ઊલટું કહે છે : જો કોઈને બીજું કામ જ ન હોત તો ચોવીસે કલાક કોઈ ને કોઈ રહી શકત. (ક) સાચી લાગે એવી છે, કારણ કે દવાખાનાંમાં ખરેખર નિયમો હોય છે — પણ આ પાઠમાં તો દિવસ દરમિયાન ઘરનું કોઈ ને કોઈ સાથે રહેતું જ હતું, એટલે એ ખોટી છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "(બ)",
+      "teacher_note": "Printed block 12, question 1. Options are printed as (અ)/(બ)/(ક) and the block asks for a ✓ against the correct one. Make children reject (ક) with the sentence, not with a feeling.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX69",
+      "exercise_group": "સાચા વિકલ્પની સામે ✓ની નિશાની કરો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "સ્વપ્નિલને માણસો ગુણ વગરના લાગ્યા કારણ કે\n(અ) માણસો મધમાખીએ મહેનતથી બનાવેલું મધ ઝૂંટવી લે છે.\n(બ) માણસો મધમાખીને મધ બનાવવામાં મદદ કરે છે.\n(ક) મધમાખી માણસને મધ બનાવવા માટે ભલામણ કરે છે.",
+      "answer": "(અ) માણસો મધમાખીએ મહેનતથી બનાવેલું મધ ઝૂંટવી લે છે. ✓",
+      "explanation": "મોટી બહેન પાસેથી પરાગનયન અને મધની ઔષધિ-શક્તિ વિશે સાંભળ્યા પછી સ્વપ્નિલને થાય છે — “આ મધમાખીઓ આપણા માટે ખોરાક અને ઔષધી બનાવે છે. આપણે કેવા કે એમનો ખોરાક ઝૂંટવીએ છીએ !” એ જ વાક્ય (અ)ને સાચો ઠેરવે છે. (બ) લલચાવે છે કારણ કે માણસ મધમાખી ઉછેરે પણ છે, પણ પાઠમાં એવી એક પણ પંક્તિ નથી — અને જો માણસો મદદ કરતા હોત તો સ્વપ્નિલને એ ગુણ વગરના શા માટે લાગત ? (ક) ઊંધી વાત કરે છે : ભલામણ મધમાખી નહીં, પુસ્તક તો કહે છે કે મધ મધમાખી પોતે બનાવે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "(અ)",
+      "teacher_note": "Printed block 12, question 2. The stem's ‘ગુણ વગરના’ echoes નગુણાં, which the chapter's શબ્દાર્થ box glosses as ‘ઉપકાર કરી ભૂલી જનાર’ — worth telling the class, while noting that the word itself does not appear in the reading text, only in the glossary box.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S5.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX70",
+      "exercise_group": "સાચા વિકલ્પની સામે ✓ની નિશાની કરો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "ડૉક્ટરના મતે દવાની અસર થઈ છે કારણ કે\n(અ) સ્વપ્નિલને હજુ ચક્કર આવી રહ્યાં છે.\n(બ) સ્વપ્નિલની માથાની ગાંઠ વધતી ને વધતી ગઈ છે.\n(ક) સ્વપ્નિલની માથાની ગાંઠ મોટા ભાગે ઓગળી ગઈ છે.",
+      "answer": "(ક) સ્વપ્નિલની માથાની ગાંઠ મોટા ભાગે ઓગળી ગઈ છે. ✓",
+      "explanation": "ડૉક્ટર ચાવડા ફરીથી કેટ-સ્કેન કરાવીને કહે છે — “દવાની અસર થઈ છે. ગાંઠ તો પંચાણુ ટકા ઓગળી ગઈ છે.” પંચાણુ ટકા એટલે મોટા ભાગની, તેથી (ક) સાચો. (અ) લલચાવે છે કારણ કે ચક્કર આ પાઠનું જાણીતું લક્ષણ છે, પણ એ જ ફકરો કહે છે કે હવે ચક્કર આવતાં ન હતાં — અને ચક્કર ચાલુ હોય તો દવાની અસર થઈ કહેવાય જ નહીં. (બ) તો સાવ ઊલટી વાત છે : ગાંઠ વધે તો દવા નિષ્ફળ ગણાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "(ક)",
+      "teacher_note": "Printed block 12, question 3.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S7.T9"
+      ]
+    },
+    {
+      "exercise_id": "EX71",
+      "exercise_group": "આપેલા ફકરાનું તમારી પ્રથમ ભાષામાં ભાષાંતર કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "ફકીરનો જવાબ સાંભળી વેપારીએ વિચાર કર્યો, આ ફકીરે ચોક્કસ મારા ઊંટને જોયું છે. કદાચ એને ઉપરના માલની લાલચ થઈ હશે એટલે એ મને બતાવવા માગતો નથી. તેણે જરા કડકાઈથી ફકીરને કહ્યું, “ડાહ્યા થઈ મારું ઊંટ મને આપી દો; તેના ઉપર કીમતી ઝવેરાત પણ હતું. જો નહિ આપો તો પકડીને રાજા પાસે લઈ જવા પડશે.”",
+      "answer": "(One possible answer, written in English — the medium of instruction recorded in this chapter's id.)\nOn hearing the fakir's answer the merchant thought to himself: this fakir has certainly seen my camel. Perhaps he has been tempted by the goods it was carrying, and that is why he does not want to show it to me. He spoke to the fakir a little sternly: “Be sensible and give me back my camel; there was costly jewellery on it as well. If you do not give it back, I shall have to seize you and take you before the king.”",
+      "explanation": "ભાષાંતરમાં અર્થ સાચવવાનો છે, શબ્દેશબ્દ ગોઠવવાનો નહીં. ધ્યાનમાં રાખવા જેવા ત્રણ ભાગ છે : વેપારીના મનમાં ચાલતો વિચાર, ‘જરા કડકાઈથી’ એ સૂર, અને અવતરણચિહ્નમાં મુકાયેલી ધમકીભરી વિનંતી. ‘ડાહ્યા થઈ’ એ ગુજરાતી બોલચાલનો પ્રયોગ છે — એનો અર્થ ‘સમજદારી બતાવીને’ થાય છે, ‘ડાહ્યા બનીને’ નહીં.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 13 — the last numbered block, the std-8 signature translation item. The passage is not from this chapter (it is a fakir-and-merchant tale), so the item is recorded in coverage_report.unmapped. This chapter's id records English as the medium of instruction, so the model translation is in English; a school with another first language substitutes it. Non-Gujarati script inside this answer field is expected and intended — it is the block's own requirement, not a script defect. Mark children on meaning, tone and the quoted speech, not on matching this wording.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    }
+  ],
+  "coverage_report": {
+    "blocks_found": [
+      "રૂઢિપ્રયોગ.",
+      "વાતચીત.",
+      "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "નીચે આપેલો ફકરો વાંચીને પ્રશ્નોના જવાબ લખો.",
+      "પાઠમાં આવતા અંગ્રેજી શબ્દોની યાદી તૈયાર કરો અને તેના ગુજરાતી અર્થ લખો. (જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.)",
+      "ઉદાહરણ મુજબ શબ્દનો અર્થ આપી વાક્યમાં પ્રયોગ કરો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+      "રેખાંકિત શબ્દની જગ્યાએ કૌંસમાં આપેલ શબ્દ મૂકી જરૂરી સુધારા સાથે ફકરો ફરીથી લખો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+      "આપેલાં વાક્ય કોણ બોલી શકે ?",
+      "પાઠને આધારે નીચેનાં વાક્ય પૂર્ણ કરો.",
+      "ઉદાહરણ પ્રમાણે વાક્યમાં ફેરફાર કરો.",
+      "‘સ્વપ્નિલ અને મધમાખીની દોસ્તી’ વિશે આઠથી દસ વાક્યો તમારી પ્રથમ ભાષામાં લખો.",
+      "ઇન્ટરનેટની મદદથી નીચેના તબીબીને લગતા ખાસ શબ્દોના અર્થ જાણો.",
+      "સાચા વિકલ્પની સામે ✓ની નિશાની કરો.",
+      "આપેલા ફકરાનું તમારી પ્રથમ ભાષામાં ભાષાંતર કરો."
+    ],
+    "blocks_answered": [
+      "રૂઢિપ્રયોગ.",
+      "વાતચીત.",
+      "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "નીચે આપેલો ફકરો વાંચીને પ્રશ્નોના જવાબ લખો.",
+      "પાઠમાં આવતા અંગ્રેજી શબ્દોની યાદી તૈયાર કરો અને તેના ગુજરાતી અર્થ લખો. (જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.)",
+      "ઉદાહરણ મુજબ શબ્દનો અર્થ આપી વાક્યમાં પ્રયોગ કરો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+      "રેખાંકિત શબ્દની જગ્યાએ કૌંસમાં આપેલ શબ્દ મૂકી જરૂરી સુધારા સાથે ફકરો ફરીથી લખો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+      "આપેલાં વાક્ય કોણ બોલી શકે ?",
+      "પાઠને આધારે નીચેનાં વાક્ય પૂર્ણ કરો.",
+      "ઉદાહરણ પ્રમાણે વાક્યમાં ફેરફાર કરો.",
+      "‘સ્વપ્નિલ અને મધમાખીની દોસ્તી’ વિશે આઠથી દસ વાક્યો તમારી પ્રથમ ભાષામાં લખો.",
+      "ઇન્ટરનેટની મદદથી નીચેના તબીબીને લગતા ખાસ શબ્દોના અર્થ જાણો.",
+      "સાચા વિકલ્પની સામે ✓ની નિશાની કરો.",
+      "આપેલા ફકરાનું તમારી પ્રથમ ભાષામાં ભાષાંતર કરો."
+    ],
+    "unanswered": [],
+    "unmapped": [
+      {
+        "exercise_id": "EX20",
+        "exercise_group": "નીચે આપેલો ફકરો વાંચીને પ્રશ્નોના જવાબ લખો.",
+        "prompt": "અહીં ‘ઉદ્યમ’ શબ્દનો અર્થ શો હશે ?",
+        "reason": "The block prints its own unseen practice passage (the ઉદ્યમ paragraph) and every answer comes from that passage, not from this chapter's reading text. No reading scene prepares it; the thematic echo of 'મધમાખી ખૂબ મહેનતુ જીવ છે' (M2.S5.T6) is a bridge for the teacher, not a mapping. Reported, not invented."
+      },
+      {
+        "exercise_id": "EX21",
+        "exercise_group": "નીચે આપેલો ફકરો વાંચીને પ્રશ્નોના જવાબ લખો.",
+        "prompt": "સફળતા મેળવવા માટે શું-શું કરવું જોઈએ ?",
+        "reason": "The block prints its own unseen practice passage (the ઉદ્યમ paragraph) and every answer comes from that passage, not from this chapter's reading text. No reading scene prepares it; the thematic echo of 'મધમાખી ખૂબ મહેનતુ જીવ છે' (M2.S5.T6) is a bridge for the teacher, not a mapping. Reported, not invented."
+      },
+      {
+        "exercise_id": "EX22",
+        "exercise_group": "નીચે આપેલો ફકરો વાંચીને પ્રશ્નોના જવાબ લખો.",
+        "prompt": "‘નિષ્ક્રિય’ શબ્દનો વિરુદ્ધાર્થી શબ્દ લખી વાક્યપ્રયોગ કરો.",
+        "reason": "The block prints its own unseen practice passage (the ઉદ્યમ paragraph) and every answer comes from that passage, not from this chapter's reading text. No reading scene prepares it; the thematic echo of 'મધમાખી ખૂબ મહેનતુ જીવ છે' (M2.S5.T6) is a bridge for the teacher, not a mapping. Reported, not invented."
+      },
+      {
+        "exercise_id": "EX23",
+        "exercise_group": "નીચે આપેલો ફકરો વાંચીને પ્રશ્નોના જવાબ લખો.",
+        "prompt": "વૈજ્ઞાનિકોને સખત મહેનત કેમ કરવી પડી હશે ?",
+        "reason": "The block prints its own unseen practice passage (the ઉદ્યમ paragraph) and every answer comes from that passage, not from this chapter's reading text. No reading scene prepares it; the thematic echo of 'મધમાખી ખૂબ મહેનતુ જીવ છે' (M2.S5.T6) is a bridge for the teacher, not a mapping. Reported, not invented."
+      },
+      {
+        "exercise_id": "EX24",
+        "exercise_group": "નીચે આપેલો ફકરો વાંચીને પ્રશ્નોના જવાબ લખો.",
+        "prompt": "મહેનત કરવાથી આપણાં તન-મનને શો ફાયદો થાય છે ?",
+        "reason": "The block prints its own unseen practice passage (the ઉદ્યમ paragraph) and every answer comes from that passage, not from this chapter's reading text. No reading scene prepares it; the thematic echo of 'મધમાખી ખૂબ મહેનતુ જીવ છે' (M2.S5.T6) is a bridge for the teacher, not a mapping. Reported, not invented."
+      },
+      {
+        "exercise_id": "EX25",
+        "exercise_group": "નીચે આપેલો ફકરો વાંચીને પ્રશ્નોના જવાબ લખો.",
+        "prompt": "ન્યૂટન અને જગદીશચંદ્ર બોઝ વિશે જાણકારી મેળવી વર્ગમાં કહો.",
+        "reason": "The block prints its own unseen practice passage (the ઉદ્યમ paragraph) and every answer comes from that passage, not from this chapter's reading text. No reading scene prepares it; the thematic echo of 'મધમાખી ખૂબ મહેનતુ જીવ છે' (M2.S5.T6) is a bridge for the teacher, not a mapping. Reported, not invented."
+      },
+      {
+        "exercise_id": "EX28",
+        "exercise_group": "ઉદાહરણ મુજબ શબ્દનો અર્થ આપી વાક્યમાં પ્રયોગ કરો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+        "prompt": "ભાગ",
+        "reason": "The word is not used anywhere in this chapter's printed reading text, so no reading scene prepares it; the other eight words of the same block do map. Reported, not invented."
+      },
+      {
+        "exercise_id": "EX31",
+        "exercise_group": "ઉદાહરણ મુજબ શબ્દનો અર્થ આપી વાક્યમાં પ્રયોગ કરો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+        "prompt": "રમત",
+        "reason": "The word is not used anywhere in this chapter's printed reading text, so no reading scene prepares it; the other eight words of the same block do map. Reported, not invented."
+      },
+      {
+        "exercise_id": "EX32",
+        "exercise_group": "ઉદાહરણ મુજબ શબ્દનો અર્થ આપી વાક્યમાં પ્રયોગ કરો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+        "prompt": "વાળ",
+        "reason": "The word is not used anywhere in this chapter's printed reading text, so no reading scene prepares it; the other eight words of the same block do map. Reported, not invented."
+      },
+      {
+        "exercise_id": "EX36",
+        "exercise_group": "ઉદાહરણ મુજબ શબ્દનો અર્થ આપી વાક્યમાં પ્રયોગ કરો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+        "prompt": "ભીડ",
+        "reason": "The word is not used anywhere in this chapter's printed reading text, so no reading scene prepares it; the other eight words of the same block do map. Reported, not invented."
+      },
+      {
+        "exercise_id": "EX37",
+        "exercise_group": "રેખાંકિત શબ્દની જગ્યાએ કૌંસમાં આપેલ શબ્દ મૂકી જરૂરી સુધારા સાથે ફકરો ફરીથી લખો. શબ્દનો અર્થ જાણવા જરૂર પડે તો શબ્દકોશનો ઉપયોગ કરો.",
+        "prompt": "(નોતરું, વૈદ્ય, કાર્યાલય, મનુષ્ય, શ્રેષ્ઠ, બીમારી, કષ્ટ, મહે",
+        "reason": "The substitution paragraph (બેઠાડુ જીવન) is separate practice matter printed inside the block, not this chapter's reading text, so no reading scene prepares it. Reported, not invented."
+      },
+      {
+        "exercise_id": "EX71",
+        "exercise_group": "આપેલા ફકરાનું તમારી પ્રથમ ભાષામાં ભાષાંતર કરો.",
+        "prompt": "ફકીરનો જવાબ સાંભળી વેપારીએ વિચાર કર્યો, આ ફકીરે ચોક્કસ મારા ",
+        "reason": "The translation passage is a fakir-and-merchant tale printed inside the block; it is not part of this chapter's reading text, so no reading scene prepares it. Reported, not invented."
+      }
+    ],
+    "_note": "blocks_found lists all fourteen entries of 01_meta.json's exercise_inventory, verbatim and in printed order; std 8 prints no સ્વાધ્યાય banner, so the numbered pink headings under the શબ્દાર્થ box ARE the blocks (the printed numbering runs 1–13 and the રૂઢિપ્રયોગ bullet block sits above it un-numbered). Seventy-one items answered. Two standing observations for QC: (1) reference/exercise_alignment.md classifies the રૂઢિપ્રયોગ pre-block as printed apparatus rather than a task, but Agent 1 inventoried it for this chapter, so it is answered here with the book's own printed meanings; (2) the chapter-final yellow ચર્ચા-વિચારણા box on printed page 35 (‘માણસ અને પ્રાણીની દોસ્તી’, ‘દુનિયામાંથી મધમાખી ગાયબ થઈ જાય તો...’) is listed as a 15/15 std-8 exercise family in reference/exercise_alignment.md but Agent 1 marked it ‘સ્વાધ્યાય નથી’ and left it out of exercise_inventory, so it is NOT answered here — this agent does not assume a block the inventory does not record. Both are surfaced, not silently repaired."
+  }
+}

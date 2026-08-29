@@ -1,0 +1,1059 @@
+{
+  "_comment": "The SECOND deliverable for ધોરણ 7, એકમ 7 'એક માણસનું સૈન્ય'. All seventeen printed exercise blocks inventoried in 01_meta.json's exercise_inventory are answered here and nowhere else — સ્વાધ્યાય is never a teaching topic. The GSEB PDF is image-only: every prompt_verbatim is Agent 1's transcription of the rendered pages in output7/ch07/_renders (printed folios 41-44 carry the exercises), re-checked against those renders for this file. EX{n} is our own consecutive counter across the whole chapter, not the book's numbering; the book's printed block number is kept in teacher_note. Answers obey 07_pitfalls.json and profiles/genres/charitra_prasang.md: no invented biography, no invented quotation, no interior state, no appended બોધ, and no war language of our own outside the chapter's own printed words. See agents/10_exercise_solutions.md and reference/exercise_alignment.md.",
+  "plan_id": "gseb_eng_gujarati7_ch7_v1",
+  "chapter_id": "gseb_eng_gujarati7_ch7",
+  "subject": "Gujarati",
+  "grade": 7,
+  "chapter_name": "એક માણસનું સૈન્ય",
+  "exercises": [
+    {
+      "exercise_id": "EX1",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "વાતચીત\n1. પ્રવાસના સ્થળે પહોંચ્યા પછી કઈ કઈ પ્રક્રિયામાંથી પસાર થયા ? કેમ ?",
+      "answer": "બસ લશ્કરની પોસ્ટ પાસે ઊભી રહી એટલે વિદ્યાર્થીઓ ને શિક્ષકો નીચે ઊતર્યાં. પહેલાં બે શિક્ષકો થોડું ચાલીને પોસ્ટની ચોકી કરતા જવાનો પાસે ગયા અને એમને અનુમતિ-પત્ર બતાવ્યો. જવાનોએ પોસ્ટ જોવા દેવાની હા પાડી પછી જ બધા પોસ્ટ સુધી પહોંચ્યા. ત્યાં જવાનોની સૂચના મુજબ બધાં લાઇનસર ગોઠવાયાં અને બોર્ડર સિક્યુરિટી ફોર્સના જવાને ‘જય હિંદ’ કહી સૌનું અભિવાદન કર્યું. — આ બધું એટલા માટે કરવું પડ્યું કે એ સરહદને અડતી લશ્કરી ચોકી છે; ત્યાં પરવાનગી વગર અને શિસ્ત વગર કોઈ જઈ શકે નહીં.",
+      "explanation": "આનો જવાબ પાઠના પહેલા જ ભાગમાં ક્રમમાં છપાયો છે : બસ ઊભી રહી → શિક્ષકોએ અનુમતિ-પત્ર બતાવ્યો → જવાનોએ હા પાડી → સૌ પોસ્ટ સુધી પહોંચ્યાં → લાઇનસર ગોઠવાયાં → ‘જય હિંદ’નું અભિવાદન. ‘કેમ ?’નો ઉત્તર પણ પાઠ પોતે આપે છે — જવાન કહે છે કે એ ‘સરહદી વિસ્તાર’ છે અને ત્યાં જવાનો ‘રાતદિવસ’ ચોકી કરે છે. ‘અનુમતિ-પત્ર’ એટલે અંદર જવા દેવાની લેખિત પરવાનગી.",
+      "acceptable_alternatives": [
+        "કોઈ બાળક ટૂંકમાં આમ પણ કહી શકે : પરવાનગી લીધી, પછી હારબંધ ગોઠવાયાં, પછી જવાને સૌને ‘જય હિંદ’ કહ્યું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1 (વાતચીત), item 1. Oral, and the one વાતચીત item that is answered straight from the page — take it first and ask the class to list the steps in order. Keep 'પોસ્ટ' honest: here it is a military checkpost, not ટપાલ.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX2",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "વાતચીત\n2. તમે કયાં કયાં પ્રાણીઓનાં પગલાંની છાપ ઓળખી શકો છો ?",
+      "answer": "એક શક્ય જવાબ : હું ગાય અને ભેંસનાં પગલાં ઓળખી શકું — એની ખરી વચ્ચેથી ચિરાયેલી હોય એટલે છાપના બે ભાગ પડે. કૂતરાની છાપમાં નહોરનાં નાનાં ટપકાં દેખાય, બિલાડીની છાપ ગોળ ને નહોર વગરની હોય. મરઘીની છાપ તો ત્રણ આંગળીવાળી લીટી જેવી લાગે. ભીની માટીમાં કે ધૂળમાં આ છાપ સૌથી સાફ દેખાય છે.",
+      "explanation": "આ બાળકના પોતાના અવલોકનનો પ્રશ્ન છે, એટલે એક જ સાચો જવાબ નથી. પાઠ કહે છે કે પગી ‘પશુ, પક્ષી કે માણસના સગડ’ ઓળખી લે છે — બાળક પણ પોતાની આજુબાજુનાં પ્રાણી ગણાવે અને છાપમાં શું જુદું દેખાય એ કહે એટલી અપેક્ષા છે.",
+      "acceptable_alternatives": [
+        "મેં દરિયાકિનારે રેતીમાં કરચલાની અને પક્ષીઓની છાપ જોઈ છે.",
+        "અમારા ખેતરમાં ઊંટ, બકરી અને ઘેટાંનાં પગલાં પડે છે; ઊંટની છાપ સૌથી મોટી ને ગોળ હોય છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 2. Oral. If the school has a sandy or dusty corner, take the class out for two minutes — this item is the natural warm-up for printed block 5.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T4",
+        "M3.S5.T9"
+      ]
+    },
+    {
+      "exercise_id": "EX3",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "વાતચીત\n3. તમને સૈનિક થવું ગમે ? શા માટે ?",
+      "answer": "એક શક્ય જવાબ : હા, મને સૈનિક થવું ગમે. પાઠમાં જવાનો સરહદ પર રાતદિવસ ચોકી કરે છે અને છતાં બાળકોને હસીને પોસ્ટ બતાવે છે — એ શિસ્ત અને એ હિંમત મને ગમે છે. સૈનિકનું કામ કોઈને હરાવવાનું નહીં, લોકોની રક્ષા કરવાનું છે, અને એ કામમાં પોતાની આવડત આખા દેશના ખપમાં આવે છે.",
+      "explanation": "આ મતનો પ્રશ્ન છે : ‘હા’ અને ‘ના’ બંને સાચા જવાબ છે, જો કારણ સાચું હોય. ‘ના’ કહેનાર બાળક પણ પોતાનું કારણ આપે — કોઈને ડૉક્ટર થવું હોય, કોઈને શિક્ષક. પાઠ પોતે પણ બતાવે છે કે દેશના કામમાં આવવા માટે સૈનિક હોવું જ પડે એવું નથી : રણછોડ પગી સૈનિક નહોતા.",
+      "acceptable_alternatives": [
+        "એક શક્ય જવાબ : ના, મને સૈનિક થવું નહીં ગમે. મારે ડૉક્ટર થવું છે, કારણ કે માંદા માણસને સાજો કરવાનું કામ મને સૌથી મોટું લાગે છે. પણ સૈનિકોનું કામ મને ગમે છે અને એમના માટે માન છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 3. Oral, and the item where the class can drift into slogans about winning. Steer every answer back to the work — guarding, helping, discipline — and accept 'ના' with a reason as fully correct. Note that રણછોડ પગી himself was a civilian.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX4",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "વાતચીત\n4. તમે કોઈ પર્યટન સ્થળે જાઓ તો માહિતી મેળવવા શું શું કરો ?",
+      "answer": "એક શક્ય જવાબ : હું ત્યાં કામ કરતા માણસને — માર્ગદર્શકને, ચોકીદારને કે ગામના વડીલને — પ્રશ્નો પૂછું, જેમ પાઠનાં બાળકોએ જવાનને પૂછ્યા. ત્યાં લગાવેલાં માહિતી-પાટિયાં વાંચું. જે સાંભળું એની નોંધ મારી નોટમાં લખી લઉં, અને જે ખાસ ગમે એનું ચિત્ર દોરું કે ફોટો પડાવું. ઘેર આવીને પુસ્તક કે ઇન્ટરનેટ પરથી એ જગ્યા વિશે થોડું વધારે વાંચું અને વર્ગમાં કહું.",
+      "explanation": "પાઠનાં બાળકો બરાબર આ જ કરે છે : મૈત્રી, મિતાંશ, અદ્વૈત, નિધિ, હેલી, સાક્ષી ને આકાશ એક પછી એક પ્રશ્ન પૂછતાં જાય છે અને એમાંથી જ આખી કથા ઊઘડે છે. એટલે સૌથી સારો જવાબ ‘સવાલ પૂછું’ છે — બાકીની રીતો એની સાથે ઉમેરાય.",
+      "acceptable_alternatives": [
+        "ત્યાં જવા પહેલાં જ શિક્ષક પાસેથી કે નકશા પરથી એ જગ્યા વિશે થોડું જાણી લઉં, જેથી શું જોવાનું છે એ ખબર હોય."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 4. Oral. Good place to name the chapter's own model: the children's questions are what move the lesson forward. Ask each child for one question they would have asked the જવાન.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX5",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "વાતચીત\n5. આપણે દેશની સેવા કઈ કઈ રીતે કરી શકીએ ?",
+      "answer": "એક શક્ય જવાબ : પોતાનું કામ નિષ્ઠાથી કરવું એ પણ સેવા છે — વિદ્યાર્થી બરાબર ભણે, ખેડૂત અનાજ પકવે, ડૉક્ટર દરદીને સાજો કરે. પાણી અને વીજળી બગાડ્યા વગર વાપરવાં, આજુબાજુ સ્વચ્છ રાખવું, નિયમો પાળવા, કરવેરો ભરવો, જરૂરિયાતવાળાને મદદ કરવી, અને પોતાની આવડત જ્યાં ખપ લાગે ત્યાં આપવી. રણછોડ પગીએ એ જ કર્યું હતું — એમની પાસે જે આવડત હતી, પગલાં ઉકેલવાની, એ એમણે દેશના કામમાં લગાડી.",
+      "explanation": "પ્રશ્નનો ભાર ‘કઈ કઈ રીતે’ પર છે, એટલે જવાબમાં એકથી વધુ રીત આવવી જોઈએ. પાઠ પોતે એક રીત બતાવે છે જે બાળક ભૂલી જાય છે : સેવા કરવા વરદી પહેરવી જરૂરી નથી. પગી ન સૈનિક હતા, ન અધિકારી — છતાં એમની આવડત આખા સૈન્યના ખપમાં આવી.",
+      "acceptable_alternatives": [
+        "રક્તદાન, વૃક્ષારોપણ, સ્વચ્છતા-અભિયાનમાં ભાગ લેવો, ને પડોશમાં કોઈ મુશ્કેલીમાં હોય ત્યારે મદદે જવું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 5. Oral. Collect answers on the board as a list; the item's own 'કઈ કઈ' asks for several. Do not close the discussion with a moral instruction — the chapter does not, and neither should the class.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S3.T5",
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX6",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "વાતચીત\n6. તમને શાળામાંથી કોઈ ઇનામ કે સન્માન મળ્યું છે ? શાને માટે ?",
+      "answer": "એક શક્ય જવાબ : હા. ગયા વર્ષે 26મી જાન્યુઆરીના કાર્યક્રમમાં મને નિબંધ-સ્પર્ધામાં બીજું ઇનામ મળ્યું હતું. મુખ્ય શિક્ષકે આખી શાળા સામે પ્રમાણપત્ર ને એક પુસ્તક આપ્યાં હતાં. તે દિવસે ઘેર જઈને પહેલું કામ એ પ્રમાણપત્ર બાને બતાવવાનું કર્યું હતું.",
+      "explanation": "આ બાળકના પોતાના અનુભવનો પ્રશ્ન છે. ‘ના’ કહેનાર બાળક પણ સાચું જ કહે છે — એ પોતાના મિત્રને મળેલા ઇનામની વાત કરી શકે. પાઠમાં પણ સન્માનની વાત આવે છે : ઈ.સ. 2007માં ગુજરાત સરકારે રણછોડ પગીનું સન્માન કર્યું અને ભારતીય સૈન્યે એક કરતાં વધુ મેડલ આપ્યા — સન્માન હંમેશાં કોઈ કામ પછી આવે છે.",
+      "acceptable_alternatives": [
+        "ના, મને હજી ઇનામ મળ્યું નથી. પણ મારા વર્ગની એક બહેનપણીને ખો-ખોમાં ઇનામ મળ્યું હતું અને મને એનો આનંદ થયો હતો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 6. Oral. Keep it short and make sure the child says what the prize was FOR — that is the link to how the chapter treats honours: always after the act, never instead of it.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S5.T10"
+      ]
+    },
+    {
+      "exercise_id": "EX7",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "વાતચીત\n7. રણછોડ પગીનું કયું કાર્ય તમને સૌથી વધારે ગમ્યું ? કેમ ?",
+      "answer": "એક શક્ય જવાબ : મને એ કાર્ય સૌથી વધારે ગમ્યું કે સૈન્ય પાસે દારૂગોળો ખૂટી ગયો ત્યારે રણછોડ પગી ઘાયલ અવસ્થામાં પણ છેક 50 કિ.મી. દૂરની બીજી છાવણીમાંથી ઊંટ ઉપર સમયસર દારૂગોળો લઈ આવ્યા. પોતાને વાગ્યું હોવા છતાં એ અટક્યા નહીં, અને એ એક ખેપને લીધે સૈન્ય લડી શક્યું — એટલે એ કામ મને સૌથી મોટું લાગે છે.",
+      "explanation": "આ પસંદગીનો પ્રશ્ન છે, પણ ‘કેમ ?’નું કારણ પાઠમાંથી આવવું જોઈએ. પસંદ કરવા જેવાં કામ પાઠમાં ઘણાં છે : અંધારી રાતે તારાઓ જોઈને દિશા બતાવવી, દસ હજાર સૈનિકોને ટૂંકા રસ્તેથી સમયસર પહોંચાડવા, ઊંટ ઉપર પીવાના પાણીની ખેપો કરવી, બોરિયાબેટથી ધોરાની ગુપ્ત માહિતી લાવવી. ખાલી ‘બહાદુર હતા’ એ કારણ નથી — કારણ કોઈ એક કામ સાથે જોડાયેલું હોવું જોઈએ.",
+      "acceptable_alternatives": [
+        "મને એ ગમ્યું કે અંધારી રાતે આકાશના તારાઓની સ્થિતિ જોઈને એમણે દિશા બતાવી અને દસ હજાર જેટલા સૈનિકોને ટૂંકા રસ્તેથી સમયસર યુદ્ધક્ષેત્રમાં પહોંચાડ્યા — નકશા વગર આટલી ચોકસાઈ મને નવાઈ પમાડે છે.",
+        "મને પગલાં ઉકેલવાની આવડત સૌથી ગમી : ઊંટના પગનાં નિશાન જોઈને એ કહી દેતા કે ઊંટ ઉપર કેટલા લોકો સવાર હતા."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 1, item 7. Oral, and the best preparation for printed block 3 item 7 (the portrait task). Insist on the deed before the adjective — that is this chapter's own order.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S3.T5",
+        "M2.S3.T6",
+        "M2.S4.T7",
+        "M2.S4.T8",
+        "M3.S5.T9"
+      ]
+    },
+    {
+      "exercise_id": "EX8",
+      "exercise_group": "નીચેનાં વાક્યોને પાઠના ઘટનાક્રમ મુજબ ગોઠવો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "નીચેનાં વાક્યોને પાઠના ઘટનાક્રમ મુજબ ગોઠવો.\n1. રણછોડ પગી પાકિસ્તાનમાંથી આવીને બનાસકાંઠાના લિંબાળા ગામે વસ્યા.\n2. પાકિસ્તાન સરકારે રણછોડ પગી માથે પચાસ હજાર રૂપિયાનું ઇનામ જાહેર કર્યું.\n3. રણછોડ પગીનો અંતિમ સંસ્કાર એમની ઇચ્છાનુસાર એમના ખેતરમાં કરવામાં આવ્યો.\n4. જનરલ માણેકશાએ રણછોડ પગી સાથે બેસીને ભોજન લીધું.\n5. રણછોડ પગીએ ભારતીય સેનાને દારૂગોળો પહોંચાડ્યો.\n6. ભારતીય સૈન્યે રણછોડ પગીનું મેડલ અર્પણ કરી સન્માન કર્યું.",
+      "answer": "પાઠમાં આ ઘટનાઓ જે ક્રમે આવે છે તે ક્રમ :\n1. રણછોડ પગીએ ભારતીય સેનાને દારૂગોળો પહોંચાડ્યો.\n2. જનરલ માણેકશાએ રણછોડ પગી સાથે બેસીને ભોજન લીધું.\n3. પાકિસ્તાન સરકારે રણછોડ પગી માથે પચાસ હજાર રૂપિયાનું ઇનામ જાહેર કર્યું.\n4. ભારતીય સૈન્યે રણછોડ પગીનું મેડલ અર્પણ કરી સન્માન કર્યું.\n5. રણછોડ પગી પાકિસ્તાનમાંથી આવીને બનાસકાંઠાના લિંબાળા ગામે વસ્યા.\n6. રણછોડ પગીનો અંતિમ સંસ્કાર એમની ઇચ્છાનુસાર એમના ખેતરમાં કરવામાં આવ્યો.",
+      "explanation": "સૂચના ‘પાઠના ઘટનાક્રમ મુજબ’ છે, એટલે જે ક્રમે પાઠમાં વાત આવે છે તે ક્રમ લખવાનો છે. જવાન પહેલાં દારૂગોળાની ખેપ કહે છે, પછી ઢાકાની પાર્ટીના ભોજનની વાત, પછી માથા સાટેના ઇનામની, પછી ફિલ્મ ને સન્માનની, પછી આકાશના પ્રશ્ન પરથી જન્મ અને લિંબાળા આવીને વસવાની વાત, ને છેલ્લે અવસાન અને અંતિમસંસ્કારની. બાળક ધ્યાન રાખે કે લિંબાળા આવીને વસવાની ઘટના જીવનમાં તો પહેલી બની હતી, પણ પાઠમાં એ છેક પાછળ કહેવાઈ છે — વાર્તા કહેનારે ક્રમ બદલ્યો છે, ઘટના નહીં.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "છપાયેલા ખાનાંમાં મુકાતા આંકડા : વાક્ય 1 → 5, વાક્ય 2 → 3, વાક્ય 3 → 6, વાક્ય 4 → 2, વાક્ય 5 → 1, વાક્ય 6 → 4.",
+      "teacher_note": "Printed block 2. Kept as ONE composite entry — the six printed sentences are a single ordering task. The page prints an empty square checkbox to the left of each sentence for the child's number; 00_chapter_normalized.md does not show those boxes (an Agent 1 transcription gap, verified against _renders/page-5.png and page-6.png), so the prompt above carries the sentences only. If a teacher instead asks for the order in which the events happened in his life, only some of it is datable from the page — the chapter dates the two wars and the death but does not date the bounty or the move, so do not manufacture a full life-chronology.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T7",
+        "M2.S4.T8",
+        "M3.S5.T9",
+        "M3.S5.T10",
+        "M4.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX9",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "પ્રશ્નોના જવાબ લખો.\n1. રણછોડ પગીએ ભારતીય સેનાને કઈ કઈ રીતે મદદ કરી ?",
+      "answer": "ઈ.સ. 1965ના યુદ્ધ વખતે એ રાત-દિવસ કચ્છનાં ગામડાંઓમાં ફરતા રહ્યા અને લોકો પાસેથી સામેના સૈન્યની પાક્કી બાતમી મેળવીને ભારતીય સૈનિકોને પહોંચાડી. સગડ ઓળખવાની ક્ષમતા અને દિશાઓના જ્ઞાનના આધારે એમણે આ માહિતી આપી. સૈનિકો માટે ઊંટ ઉપર પીવાના પાણીની ખેપો કરી. અંધારી રાતે આકાશના તારાઓની સ્થિતિ જોઈને દિશા બતાવી ભોમિયાની ભૂમિકા ભજવી, અને દસ હજાર જેટલા સૈનિકોને ટૂંકા રસ્તેથી ઝડપથી યુદ્ધક્ષેત્રમાં યોગ્ય જગ્યાએ સમયસર પહોંચાડ્યા. ઈ.સ. 1971ના યુદ્ધમાં બોરિયાબેટથી ઊંટ ઉપર જઈને ધોરા વિસ્તારમાં છુપાયેલા સૈન્યની ગુપ્ત માહિતી ભારતીય સૈન્યને પહોંચાડી, અને દારૂગોળો ખૂટ્યો ત્યારે ઘાયલ અવસ્થામાં 50 કિ.મી. દૂરની છાવણીમાંથી ઊંટ ઉપર સમયસર દારૂગોળો લઈ આવ્યા.",
+      "explanation": "પ્રશ્નમાં ‘કઈ કઈ’ છે, એટલે એક નહીં, બધી રીતો ગણાવવાની છે — બાતમી, સગડ ને દિશાનું જ્ઞાન, પાણીની ખેપ, ભોમિયાપણું, ટૂંકો રસ્તો, ગુપ્ત માહિતી અને દારૂગોળાની ખેપ. ધ્યાન રહે કે એકેય રીતમાં હથિયાર નથી : એમની મદદ આવડતની હતી, અને એ આવડત આ પ્રદેશને ઓળખવાની હતી.",
+      "acceptable_alternatives": [
+        "ટૂંકમાં : બાતમી મેળવીને આપી, પગલાં ને દિશા ઓળખીને રસ્તો બતાવ્યો, ઊંટ ઉપર પાણી ને દારૂગોળો પહોંચાડ્યાં, અને દસ હજાર સૈનિકોને ટૂંકા રસ્તેથી સમયસર પહોંચાડ્યા."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 1. The longest answer of the block — let the class build it as a list on the board, one deed per line, before anyone writes. Two years, two sets of deeds: keep them apart, the chapter does.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T5",
+        "M2.S3.T6",
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX10",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "પ્રશ્નોના જવાબ લખો.\n2. રણછોડ પગી પગલાંની કઈ કઈ વિશેષતા ઓળખી બતાવતા ?",
+      "answer": "પશુ, પક્ષી કે માણસના સગડ જોઈને એ કહી દેતા કે એ ક્યાંથી આવ્યાં, ક્યાં ગયાં અને કેટલો સમય પહેલાંનાં આ પગલાં છે. ઊંટના પગનાં નિશાન જોઈને એ કહી દેતા કે ઊંટ ઉપર કેટલા લોકો સવાર હતા. કીકમાં અને રણમાં પડેલાં પગનાં નિશાન પરથી એ સચોટ રીતે કહી દેતા કે અંદર પ્રવેશનાર કેટલાં વર્ષનો છે અને કેટલું વજન ઊંચકીને આવ્યો છે.",
+      "explanation": "પાઠ પગીની વ્યાખ્યા આપતાં જ કહે છે — ‘પગલાંની છાપ ઓળખી બતાવે એ પગી.’ પછી એ છાપમાંથી શું શું વંચાય એની યાદી આપે છે : દિશા (ક્યાંથી-ક્યાં), સમય (કેટલા વખત પહેલાંનાં), સંખ્યા (કેટલા સવાર), ઉંમર અને વજન. ‘સગડ’ એટલે પગલાંની છાપ પરથી મળતો પતો, ને ‘કીક’ એટલે ખાડી — બંને શબ્દ પાઠની શબ્દાર્થપેટીમાં જ છપાયા છે.",
+      "acceptable_alternatives": [
+        "પગલાં કોનાં છે — પશુનાં, પક્ષીનાં કે માણસનાં — એ પણ એ પારખી લેતા."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 2. Ask for five distinct things read off one footprint (direction, time, number, age, load); children usually stop at two. This is the item printed block 5 and block 14 turn into activities.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T4",
+        "M3.S5.T9"
+      ]
+    },
+    {
+      "exercise_id": "EX11",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "પ્રશ્નોના જવાબ લખો.\n3. જનરલ માણેકશાએ રણછોડ પગીને ‘એક માણસનું સૈન્ય’ શા માટે કહ્યા ?",
+      "answer": "કારણ કે એક આખું લશ્કર કરે એટલું કામ એકલા રણછોડ પગીએ કરી બતાવ્યું હતું. પોતાની સૂઝબૂઝ અને ચતુરાઈથી એમણે બાતમી મેળવવાનું, રસ્તો બતાવવાનું, પાણી ને દારૂગોળો પહોંચાડવાનું — એટલું બધું કામ એકલા હાથે કર્યું કે ભારતના લશ્કરી વડા જનરલ માણેકશાએ એમને ‘રણનું એક માણસનું સૈન્ય’ તરીકે ઓળખાવ્યા.",
+      "explanation": "જવાબ પાઠના પોતાના વાક્યમાં જ છે : ‘એક લશ્કર કરે એટલું કામ એકલા રણછોડ પગીએ કર્યું હતું એટલે !’ — એ જ અદ્વૈતના પ્રશ્નનો ઉત્તર છે. પાઠનું શીર્ષક પણ આ જ ઓળખમાંથી આવ્યું છે. ધ્યાન રહે : આ કોઈ હોદ્દો નહોતો, એક લશ્કરી વડાએ કરેલી કદરના શબ્દો હતા.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 3. The chapter's own sentence is the answer — make the class find it rather than compose one. The title of the lesson comes from this line, which is worth saying aloud.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX12",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "પ્રશ્નોના જવાબ લખો.\n4. ભારતીય સેનાએ રણછોડ પગીની કદર કઈ રીતે કરી ?",
+      "answer": "ભારતીય સૈન્યે એમને એક કરતાં વધુ મેડલ આપીને સન્માન્યા. યુદ્ધવિજયની ખુશીમાં ઢાકામાં મળેલી પાર્ટીમાં લશ્કરી વડા જનરલ માણેકશાએ એમને માનભેર નિમંત્રણ આપ્યું અને એમની સાથે બેસીને રોટલો ને ડુંગળીનું ભોજન લીધું. અને એમના પરાક્રમની કદર કરીને ભારતીય સેનાએ કચ્છ - બનાસકાંઠા સરહદ પાસે સૂઈગામની બી.એસ.એફ. ચેકપોસ્ટને ‘રણછોડદાસ ચેકપોસ્ટ’ નામ આપી એમને ઉચિત અંજલિ આપી છે. ત્યાં એમની પ્રતિમા પણ મુકાયેલી છે.",
+      "explanation": "‘કદર’ એટલે યોગ્ય કિંમત કરવી તે, ને ‘અંજલિ આપવી’ એટલે મૃતકના સ્મરણમાં માનભર્યું કંઈક કરવું — બંને શબ્દ પાઠની શબ્દાર્થપેટીમાં છપાયા છે. જવાબમાં સેનાએ કરેલી કદર જ લખવાની છે : ઈ.સ. 2007નું સન્માન ગુજરાત સરકારે કર્યું હતું, સેનાએ નહીં — એ બે વાત ભેગી ન કરવી. પોસ્ટને એમનું નામ મળ્યું એ સૌથી મોટી કદર છે, કારણ કે જવાન કહે છે એમ કોઈ નાગરિકના નામથી હોય એવી ગુજરાતની એ એકમાત્ર પોસ્ટ છે.",
+      "acceptable_alternatives": [
+        "ટૂંકમાં : મેડલ આપ્યા, ઢાકાની પાર્ટીમાં માનભેર બોલાવ્યા, અને ચેકપોસ્ટને એમનું નામ આપી પ્રતિમા મૂકી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 4. The trap here is mixing up who honoured him: the ઈ.સ. 2007 સન્માન was the Gujarat government's, the medals and the post's name are the army's. Keep them apart in the answer.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T8",
+        "M3.S5.T10",
+        "M4.S6.T12"
+      ]
+    },
+    {
+      "exercise_id": "EX13",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "પ્રશ્નોના જવાબ લખો.\n5. ભારતીય સેનાને રણછોડ પગીની મદદ ન મળી હોત તો ?",
+      "answer": "તો પાઠના શબ્દોમાં ‘આપણે દસ હજાર જેટલા સૈનિકો ગુમાવવાની નોબત આવી હોત.’ સૈનિકોને ટૂંકો રસ્તો બતાવનાર કોઈ ન હોત, અંધારી રાતે દિશા બતાવનાર કોઈ ન હોત, અને સામેના સૈન્ય ક્યાં છુપાયું છે એની બાતમી પણ ન મળી હોત. દારૂગોળો ખૂટ્યો ત્યારે એ સમયસર પહોંચ્યો ન હોત, એટલે સૈન્યને લડવામાં ઘણી મુશ્કેલી પડી હોત.",
+      "explanation": "આ ‘જો… હોત તો ?’ પ્રકારનો પ્રશ્ન છે — એટલે જવાબ કલ્પનાનો છે, બનેલી ઘટનાનો નહીં. પણ કલ્પના પણ પાઠમાંથી જ ઊભી થવી જોઈએ : પાઠ પોતે જ આ પ્રશ્ન પૂછે છે અને પોતે જ જવાબ આપે છે — ‘‘તો... આપણે દસ હજાર જેટલા સૈનિકો ગુમાવવાની નોબત આવી હોત.’’ બાળક એની સાથે એ પણ કહી શકે કે એમની મદદ વગર શું શું અટકી પડ્યું હોત.",
+      "acceptable_alternatives": [
+        "સેનાને એ પ્રદેશનો ભોમિયો ન મળ્યો હોત, એટલે રણમાં રસ્તો શોધવામાં જ ઘણો સમય જાત અને સમયસર જગ્યાએ પહોંચાવું અઘરું બનત."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 5. The std-7 counterfactual, and the chapter answers it itself two lines after the question. Say plainly that this is a કલ્પના built on the text — the child must not invent new events for it.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T5",
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX14",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "પ્રશ્નોના જવાબ લખો.\n6. જનરલ માણેકશાએ રણછોડ પગીને ઢાકા ખાતે શા માટે બોલાવ્યા હતા ?",
+      "answer": "દારૂગોળાની ખેપવાળી વાતની જનરલ માણેકશાને ખબર પડી. તેથી યુદ્ધવિજયની ખુશીમાં ઢાકામાં જે પાર્ટી મળી હતી તેમાં એમણે રણછોડ પગીને માનભેર નિમંત્રણ આપ્યું હતું — એટલે કે એમની કામગીરીની કદર કરવા માટે એમને ત્યાં બોલાવ્યા હતા.",
+      "explanation": "‘પાર્ટી’ શબ્દ અહીં રાજકીય પક્ષ નહીં, ઉજવણીના ભોજન-સમારંભના અર્થમાં છે. પાઠ કારણ સીધું આપે છે : ‘આપણા ત્યારના લશ્કરી વડા જનરલ માણેકશાને આ વાતની ખબર મળી...’ — ‘આ વાત’ એટલે ઘાયલ અવસ્થામાં દારૂગોળો પહોંચાડ્યાની વાત. અને એ જ પ્રસંગમાં ભાથાના ડબ્બાની મજાની વાત આવે છે : પગી ડબ્બો ભૂલી ગયા, હેલિકોપ્ટર ઊભું રખાવીને રોટલો, મરચું ને ડુંગળી લઈને પછી જ બેઠા.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 6. Two words need a gloss before children answer: પાર્ટી (a celebration meal, not a political party) and ભાથું (food carried from home). The ડબ્બો detail is what the class will remember — let them tell it.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX15",
+      "exercise_group": "પ્રશ્નોના જવાબ લખો.",
+      "skill": "writing",
+      "prompt_verbatim": "પ્રશ્નોના જવાબ લખો.\n7. રણછોડ પગી વિશે પાંચ-છ વાક્યો લખો.",
+      "answer": "એક શક્ય ઉત્તર : રણછોડ રબારી અખંડ ભારતમાં 21મી માર્ચ, 1936માં જન્મ્યા હતા. પગલાંની છાપ પારખવામાં એ પારંગત હતા, એટલે લોકો એમને રણછોડ પગી કહેતા. ઈ.સ. 1965ના યુદ્ધમાં એમણે કચ્છનાં ગામડાંઓમાં ફરીને બાતમી મેળવી, તારાઓ જોઈને દિશા બતાવી અને દસ હજાર જેટલા સૈનિકોને ટૂંકા રસ્તેથી સમયસર પહોંચાડ્યા. ઈ.સ. 1971ના યુદ્ધમાં એ ઘાયલ અવસ્થામાં ઊંટ ઉપર 50 કિ.મી. દૂરથી દારૂગોળો લઈ આવ્યા. જનરલ માણેકશાએ એમને ‘રણનું એક માણસનું સૈન્ય’ તરીકે ઓળખાવ્યા અને ઢાકાની પાર્ટીમાં એમની સાથે બેસીને રોટલો ને ડુંગળીનું ભોજન લીધું. ઈ.સ. 2007માં ગુજરાત સરકારે એમનું સન્માન કર્યું; તા. 18-1-2013ના એ અવસાન પામ્યા ત્યારે એમની ઉંમર 77 વર્ષ હતી. આજે સૂઈગામ પાસેની બી.એસ.એફ. ચેકપોસ્ટ એમના નામે ઓળખાય છે.",
+      "explanation": "આ ‘વ્યક્તિ વિશે લખો’ પ્રકારનું લખાણ છે : એમાં જન્મ, આવડત, બે-ત્રણ ખરાં કામ, મળેલી કદર અને અંત — એટલું આવે તો પાંચ-છ વાક્યો સહેજે થાય. સૌથી અગત્યનો નિયમ એ છે કે દરેક વાક્ય પાઠમાં છપાયેલી હકીકત પરથી જ લખવું : તારીખ, વર્ષ, અંતર, ઉંમર — બધું પાના પર છે, એટલે એમાં પોતાનું કંઈ ઉમેરવાનું નથી. ‘બહાદુર હતા’ એવું વિશેષણ પહેલાં નહીં, કામ પહેલાં — કામ વાંચીને વાચકને પોતાને એ વિશેષણ સૂઝે એ સારું લખાણ.",
+      "acceptable_alternatives": [
+        "ટૂંકું રૂપ : રણછોડ પગી રબારી હતા અને પગલાં પારખવામાં પારંગત હતા. બે યુદ્ધોમાં એમણે ભારતીય સેનાને બાતમી, રસ્તો, પાણી અને દારૂગોળો પહોંચાડ્યાં. એમની સાદગી એવી કે ઢાકાની પાર્ટીમાં પણ ભાથામાં રોટલો, મરચું ને ડુંગળી લઈ ગયા. સેનાએ મેડલ આપ્યા અને ચેકપોસ્ટને એમનું નામ આપ્યું. તા. 18-1-2013ના એમનું અવસાન થયું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 3, item 7 — the portrait task this whole chapter prepares. is_model_answer is true because the child chooses which deeds to keep, but the FACTS are not open: every date, number and honour must come off the printed page. Mark down any sentence that adds a fact the chapter does not print (a place of birth, family details, a rank) — he has living family, and an invented private detail is a claim about real people.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T3",
+        "M1.S2.T4",
+        "M2.S3.T5",
+        "M2.S3.T6",
+        "M2.S4.T7",
+        "M2.S4.T8",
+        "M3.S5.T9",
+        "M3.S5.T10",
+        "M4.S6.T11",
+        "M4.S6.T12"
+      ]
+    },
+    {
+      "exercise_id": "EX16",
+      "exercise_group": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.\n1. પરીક્ષામાં નાપાસ થતાં રશ્મિકાની તો એક શાલ બગડ્યું ?",
+      "answer": "પરીક્ષામાં નાપાસ થતાં રશ્મિકાની તો એક સાલ બગડી.",
+      "explanation": "ત્રણ ભૂલ છે. (1) ‘શાલ’ને બદલે ‘સાલ’ — ‘સાલ’ એટલે વર્ષ; નાપાસ થવાથી ઓઢવાની શાલ નહીં, એક વર્ષ બગડે. (2) ‘સાલ’ સ્ત્રીલિંગ છે, એટલે ક્રિયાપદ ‘બગડ્યું’ નહીં, ‘બગડી’ થાય. (3) આ વિધાનવાક્ય છે, પ્રશ્ન નથી, એટલે છેડે પ્રશ્નચિહ્ન નહીં, પૂર્ણવિરામ આવે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4. A જોડણી and ઉચ્ચારભેદ drill — શ/સ/છ and ર/ળ minimal pairs, plus one agreement and one punctuation repair. The sentences come from outside the chapter, so the block is recorded in coverage_report.unmapped. Do NOT correct the printed prompt: the wrong forms are printed on purpose. Item 1 carries three errors — spelling, gender agreement and punctuation; children usually spot only the first.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX17",
+      "exercise_group": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.\n2. મારી સાળાનો શોકરો એસ.એસ.સી. બોર્ડમાં પ્રથમ આવ્યો.",
+      "answer": "મારા સાળાનો છોકરો એસ.એસ.સી. બોર્ડમાં પ્રથમ આવ્યો.",
+      "explanation": "બે ભૂલ છે. ‘સાળો’ પુલ્લિંગ છે, એટલે એની સાથે ‘મારી’ નહીં, ‘મારા’ આવે. અને ‘શોકરો’ એ ‘છોકરો’ની ખોટી જોડણી છે — અહીં ‘છ’ બોલાય છે, ‘શ’ નહીં.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4. A જોડણી and ઉચ્ચારભેદ drill — શ/સ/છ and ર/ળ minimal pairs, plus one agreement and one punctuation repair. The sentences come from outside the chapter, so the block is recorded in coverage_report.unmapped. Do NOT correct the printed prompt: the wrong forms are printed on purpose. Item 2 is the છ/શ pair, the one this class will hear in their own speech.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX18",
+      "exercise_group": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.\n3. દુર્વાસાઋષિએ ગુસ્સે થઈને શકુંતલાને સાપ આપ્યો.",
+      "answer": "દુર્વાસાઋષિએ ગુસ્સે થઈને શકુંતલાને શાપ આપ્યો.",
+      "explanation": "એક જ અક્ષરની ભૂલ આખો અર્થ ફેરવી નાખે છે : ‘સાપ’ એટલે સર્પ, ને ‘શાપ’ એટલે ગુસ્સે થઈને અપાતો શ્રાપ. ગુસ્સે થયેલા ઋષિ શાપ આપે, સાપ નહીં.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4. A જોડણી and ઉચ્ચારભેદ drill — શ/સ/છ and ર/ળ minimal pairs, plus one agreement and one punctuation repair. The sentences come from outside the chapter, so the block is recorded in coverage_report.unmapped. Do NOT correct the printed prompt: the wrong forms are printed on purpose. Item 3 is the સ/શ pair at its clearest — read both versions aloud and let the class laugh at the wrong one.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX19",
+      "exercise_group": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.\n4. સરત ન હોત તો મિતાંશ આટલું શારૂ દોડત નહીં.",
+      "answer": "શરત ન હોત તો મિતાંશ આટલું સારું દોડત નહીં.",
+      "explanation": "બે ભૂલ, ને બંને એક જ જોડીની : ‘સરત’ને બદલે ‘શરત’ (હોડ, બાજી) અને ‘શારૂ’ને બદલે ‘સારું’. એક શબ્દમાં ‘શ’ જોઈએ ત્યાં ‘સ’ મુકાયો છે અને બીજામાં ઊલટું.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4. A જોડણી and ઉચ્ચારભેદ drill — શ/સ/છ and ર/ળ minimal pairs, plus one agreement and one punctuation repair. The sentences come from outside the chapter, so the block is recorded in coverage_report.unmapped. Do NOT correct the printed prompt: the wrong forms are printed on purpose. Item 4 prints the same pair swapped in both directions inside one sentence — a good board example.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX20",
+      "exercise_group": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.\n5. સવિતાએ અભરાઈ ઉપર તાંબા - પિત્તરની થારીઓ ગોઠવી.",
+      "answer": "સવિતાએ અભરાઈ ઉપર તાંબા - પિત્તળની થાળીઓ ગોઠવી.",
+      "explanation": "બે ભૂલ છે, ને બંનેમાં ‘ળ’ની જગ્યાએ ‘ર’ લખાઈ ગયો છે : ધાતુનું નામ ‘પિત્તળ’ છે અને વાસણ ‘થાળી’ છે. ‘અભરાઈ’ એટલે વાસણ મૂકવાનું ભીંતે લગાવેલું પાટિયું.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4. A જોડણી and ઉચ્ચારભેદ drill — શ/સ/છ and ર/ળ minimal pairs, plus one agreement and one punctuation repair. The sentences come from outside the chapter, so the block is recorded in coverage_report.unmapped. Do NOT correct the printed prompt: the wrong forms are printed on purpose. Item 5 is the ર/ળ pair. Say પિત્તળ and થાળી slowly — the ળ is made with the tongue curled back.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX21",
+      "exercise_group": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.\n6. તરાવની પાર ઉપર ઘણાં લીલાછમ વૃક્ષો હતાં.",
+      "answer": "તળાવની પાળ ઉપર ઘણાં લીલાછમ વૃક્ષો હતાં.",
+      "explanation": "ફરી ર/ળની જ બે ભૂલ : ‘તરાવ’ નહીં, ‘તળાવ’; અને ‘પાર’ નહીં, ‘પાળ’. ‘પાળ’ એટલે તળાવની ફરતે બાંધેલો ઊંચો કિનારો — ઝાડ એ પાળ ઉપર ઊગે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4. A જોડણી and ઉચ્ચારભેદ drill — શ/સ/છ and ર/ળ minimal pairs, plus one agreement and one punctuation repair. The sentences come from outside the chapter, so the block is recorded in coverage_report.unmapped. Do NOT correct the printed prompt: the wrong forms are printed on purpose. Item 6. પાર and પાળ are both real words, so this one needs the meaning, not only the sound.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX22",
+      "exercise_group": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.",
+      "skill": "grammar",
+      "prompt_verbatim": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.\n7. ગોપીએ આજે ગોરી ભરીને સાસ વલોવી.",
+      "answer": "ગોપીએ આજે ગોળી ભરીને છાશ વલોવી.",
+      "explanation": "બે ભૂલ : ‘ગોરી’ નહીં, ‘ગોળી’ — અહીં ગોળી એટલે છાશ વલોવવાનું માટીનું મોટું વાસણ; અને ‘સાસ’ નહીં, ‘છાશ’. વલોવવાનું કામ છાશનું છે, એટલે વાક્યનો અર્થ જ સાચી જોડણી બતાવી દે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 4. A જોડણી and ઉચ્ચારભેદ drill — શ/સ/છ and ર/ળ minimal pairs, plus one agreement and one punctuation repair. The sentences come from outside the chapter, so the block is recorded in coverage_report.unmapped. Do NOT correct the printed prompt: the wrong forms are printed on purpose. Item 7 mixes both pairs (ર/ળ and સ/છ) in one short sentence. Ask what ગોળી means here before correcting — most children know only the medicine.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX23",
+      "exercise_group": "વિદ્યાર્થીઓને મેદાનમાં લઈ જઈને નીચે મુજબની પ્રવૃત્તિ કરાવવી.",
+      "skill": "speaking",
+      "prompt_verbatim": "વિદ્યાર્થીઓને મેદાનમાં લઈ જઈને નીચે મુજબની પ્રવૃત્તિ કરાવવી.\n● રેતી ઉપર પગલાં પાડો.\n● હવે દફતર ઊંચકીને પગલાં પાડો.\n● બંને પગલાંનું અવલોકન કરો.\n● બંને પગલાંની સરખામણી કરો.",
+      "answer": "એક શક્ય અવલોકન : ખાલી હાથે ચાલીએ ત્યારે રેતીમાં પડેલી છાપ છીછરી હોય છે અને એની કિનારી આછી દેખાય છે. દફતર ઊંચકીને એ જ રેતી પર ચાલીએ ત્યારે એ જ પગની છાપ વધારે ઊંડી ઊતરે છે, કિનારીએ રેતી ઊંચકાઈને ધાર જેવી થાય છે અને એડીનો ભાગ વધારે દબાય છે. બે છાપ સામસામે મૂકીને જોતાં દેખાય કે વજન વધે તેમ છાપ ઊંડી થાય. — એટલે જ પાઠમાં કહ્યું છે તેમ રણછોડ પગી નિશાન જોઈને કહી શકતા કે આવનાર કેટલું વજન ઊંચકીને આવ્યો છે.",
+      "explanation": "આ પ્રવૃત્તિ પાઠના સૌથી અગત્યના વાક્યને હાથે કરીને સાબિત કરવા માટે છે : ‘પગનાં નિશાન પરથી ઘૂસણખોર કેટલાં વર્ષનો અને કેટલું વજન ઊંચકીને સરહદની અંદર પ્રવેશ્યો છે તે પણ તેઓ સચોટ રીતે કહી દેતા હતાં.’ બાળક પોતે બે છાપ પાડીને જુએ ત્યારે ‘વજન વધે તો છાપ ઊંડી’ એ વાત યાદ રહી જાય છે.",
+      "acceptable_alternatives": [
+        "ભીની રેતીમાં ને સૂકી ધૂળમાં છાપ કેવી જુદી પડે છે એ પણ સરખાવી શકાય.",
+        "દોડીને પાડેલી છાપ અને ધીમે ચાલીને પાડેલી છાપ સરખાવો — દોડતી વખતે પંજાનો આગળનો ભાગ વધારે દબાય છે."
+      ],
+      "values_filled_for_teaching": "અવલોકનનો કોઠો વર્ગમાં આ રીતે ભરાવી શકાય : (અ) ખાલી હાથે — છાપ છીછરી, ધાર આછી; (બ) દફતર સાથે — છાપ ઊંડી, ધાર ઊપસેલી, એડી વધારે દબાયેલી; (ક) તારણ — વજન વધે તેમ છાપ ઊંડી ઊતરે.",
+      "teacher_note": "Printed block 5. Kept as ONE composite entry — the four printed bullets are four steps of a single ground activity. Teacher-addressed wording ('કરાવવી'), but it IS an exercise block and is inventoried as one. Do it in pairs so one child walks and the other observes, then swap. Ten minutes is enough.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T4",
+        "M3.S5.T9"
+      ]
+    },
+    {
+      "exercise_id": "EX24",
+      "exercise_group": "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.\n1. કોલંબસે એક મોટા .......ની શોધ કરી. (ખડ, ખંડ)",
+      "answer": "કોલંબસે એક મોટા ખંડની શોધ કરી.",
+      "explanation": "‘ખંડ’ એટલે પૃથ્વીનો મોટો ભૂ-ભાગ — એશિયા, આફ્રિકા, અમેરિકા એ ખંડ કહેવાય. ‘ખડ’ એટલે ઘાસ. શોધ ખંડની થાય, ઘાસની નહીં. અનુસ્વારનું એક ટપકું જ બે શબ્દોને જુદા પાડે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 6. A hrasva/dirgha-and-anusvar style minimal-pair cloze; the four pairs come from outside the chapter, so the block is recorded in coverage_report.unmapped. Item 1. Say both words aloud — the anusvar is heard, not only seen.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX25",
+      "exercise_group": "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.\n2. મિત્તલ ગીત સારું ગાય છે પણ ..... માં એને રસ નથી. (વાદ્ય, વાધ)",
+      "answer": "મિત્તલ ગીત સારું ગાય છે પણ વાદ્યમાં એને રસ નથી.",
+      "explanation": "‘વાદ્ય’ એટલે વગાડવાનું સાધન — તબલાં, હાર્મોનિયમ, વાંસળી. વાક્યમાં ગાવાની સામે વગાડવાની વાત મુકાઈ છે, એટલે ‘વાદ્ય’ જ બેસે. ‘વાધ’ જેવો શબ્દ ગુજરાતીમાં નથી; જંગલના પ્રાણીની જોડણી ‘વાઘ’ છે, જેમાં ‘ઘ’ આવે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 6. A hrasva/dirgha-and-anusvar style minimal-pair cloze; the four pairs come from outside the chapter, so the block is recorded in coverage_report.unmapped. Item 2. Point out that one of the two printed options is not a word at all — that is part of the test.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX26",
+      "exercise_group": "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.\n3. મેશ આંખમાં ........ તો બળે. (આંજે, આજે)",
+      "answer": "મેશ આંખમાં આંજે તો બળે.",
+      "explanation": "‘આંજવું’ એટલે આંખમાં મેશ કે કાજળ લગાવવું, એટલે અહીં ‘આંજે’ આવે. ‘આજે’ એટલે તો સમય બતાવતો શબ્દ છે — એ મૂકીએ તો વાક્યનો અર્થ જ ન બેસે. વળી અહીં પણ ફેર અનુસ્વારનો છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 6. A hrasva/dirgha-and-anusvar style minimal-pair cloze; the four pairs come from outside the chapter, so the block is recorded in coverage_report.unmapped. Item 3. મેશ (lamp-black) may itself need a gloss for a city classroom.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX27",
+      "exercise_group": "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.\n4. કાવ્યમાંથી કે ગઝલમાંથી....... રચનાનું લયબદ્ધ પઠન કરો. (પદ, પધ)",
+      "answer": "કાવ્યમાંથી કે ગઝલમાંથી પદ રચનાનું લયબદ્ધ પઠન કરો.",
+      "explanation": "‘પદ’ એટલે ગાઈ શકાય એવી કાવ્યરચના કે કાવ્યની પંક્તિ. ‘પધ’ જેવો શબ્દ ગુજરાતીમાં નથી — લખાણવાળી કાવ્યરચના માટેનો શબ્દ ‘પદ્ય’ છે, જેમાં જોડાક્ષર ‘દ્ય’ આવે. ‘લયબદ્ધ પઠન’ એટલે લય જાળવીને બોલવું.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 6. A hrasva/dirgha-and-anusvar style minimal-pair cloze; the four pairs come from outside the chapter, so the block is recorded in coverage_report.unmapped. Item 4. Keep the gloss of પદ to 'a sung/rhythmic composition'; std 7 does not name સાહિત્યપ્રકારો.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX28",
+      "exercise_group": "નીચેના શબ્દોને શબ્દકોશના ક્રમમાં ગોઠવી તેનો અર્થ શબ્દકોશમાંથી શોધીને લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચેના શબ્દોને શબ્દકોશના ક્રમમાં ગોઠવી તેનો અર્થ શબ્દકોશમાંથી શોધીને લખો.\nનરોત્તમ, નારી, નમ્રતા, નરમાઈ, નિશા",
+      "answer": "શબ્દકોશના ક્રમમાં : નમ્રતા, નરમાઈ, નરોત્તમ, નારી, નિશા.\nઅર્થ : નમ્રતા — વિનય, નમ્ર હોવાપણું. નરમાઈ — કોમળતા, નરમપણું. નરોત્તમ — પુરુષોમાં ઉત્તમ, શ્રેષ્ઠ પુરુષ. નારી — સ્ત્રી. નિશા — રાત.",
+      "explanation": "પાંચેય શબ્દ ‘ન’થી શરૂ થાય છે, એટલે ક્રમ બીજા અક્ષરથી નક્કી થાય. પહેલાં માત્રા વગરના ‘ન’વાળા શબ્દો આવે : નમ્રતા (ન + મ), પછી નરમાઈ ને નરોત્તમ (ન + ર). ‘મ’ વર્ણમાળામાં ‘ર’ પહેલાં આવે છે, એટલે નમ્રતા પહેલું. ‘નરમાઈ’ અને ‘નરોત્તમ’માં ત્રીજા અક્ષરથી ફેર પડે છે — માત્રા વગરનો ‘ર’ ‘રો’ પહેલાં આવે, એટલે નરમાઈ પહેલું. પછી ‘ના’વાળો નારી અને છેલ્લે ‘નિ’વાળો નિશા, કારણ કે સ્વરોનો ક્રમ અ, આ, ઇ… છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 7. Kept as ONE composite entry — five words, one ordering-and-lookup task. The meanings must be looked up in a real શબ્દકોશ by the children; the ones given above are the standard dictionary senses, and the chapter itself does not gloss these words. Hand out two or three dictionaries and let groups race. Recorded in coverage_report.unmapped: none of the five words occurs in this chapter's reading text.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX29",
+      "exercise_group": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.\n1. તરણાં / તૃણ / તણખલાં ઓથે ડુંગર રે, ડુંગર કોઈ દેખે નહીં.",
+      "answer": "તરણાં ઓથે ડુંગર રે, ડુંગર કોઈ દેખે નહીં.",
+      "explanation": "ત્રણેય શબ્દનો અર્થ ઘાસનું તણખલું જ છે, પણ આ પંક્તિ ગેય લોકવાણીની છે — એમાં ‘રે’ પણ આવે છે. એવી પંક્તિમાં તળપદો ને ટૂંકો શબ્દ ‘તરણાં’ જ લયમાં બેસે. ‘તૃણ’ સંસ્કૃત જેવો ભારે શબ્દ છે અને ‘તણખલાં’ લાંબું પડે છે, એટલે લય તૂટે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8. A register-choice block: the three offered words mean nearly the same thing, and only one fits the sentence's tone or its fixed phrase. Item 1. Read all three versions aloud; the ear decides this one, not the meaning. Recorded in coverage_report.unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX30",
+      "exercise_group": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.\n2. બાહુ / ભુજા / હાથ બળ વિના આવું મોટું કામ ભાગ્યે જ થાય.",
+      "answer": "બાહુબળ વિના આવું મોટું કામ ભાગ્યે જ થાય.",
+      "explanation": "અહીં પછીનો શબ્દ ‘બળ’ છે, ને ‘બળ’ સાથે જોડાઈને બનતો રૂઢ શબ્દ ‘બાહુબળ’ છે. ‘ભુજાબળ’ કે ‘હાથબળ’ એમ કોઈ કહેતું નથી. શબ્દ સાચો હોય તોય જોડ ખોટી હોય તો વાક્ય કાને ખૂંચે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8. A register-choice block: the three offered words mean nearly the same thing, and only one fits the sentence's tone or its fixed phrase. Item 2 is a fixed-compound item, not a meaning item. Recorded in coverage_report.unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX31",
+      "exercise_group": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.\n3. શ્રીલંકાનો વિજય ભુજા / હાથ / બાહુ વહેંતમાં હતો પણ છેલ્લી ઘડીએ ભારત જીત્યું.",
+      "answer": "શ્રીલંકાનો વિજય હાથવહેંતમાં હતો પણ છેલ્લી ઘડીએ ભારત જીત્યું.",
+      "explanation": "‘હાથવહેંતમાં’ એટલે એકદમ નજીક, હાથ લંબાવીએ એટલું છેટે. આ આખો રૂઢ પ્રયોગ ‘હાથ’થી જ બને છે; ‘ભુજાવહેંતમાં’ કે ‘બાહુવહેંતમાં’ એવો કોઈ પ્રયોગ નથી. ‘વહેંત’ એટલે અંગૂઠાથી ટચલી આંગળી સુધીનું માપ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8. A register-choice block: the three offered words mean nearly the same thing, and only one fits the sentence's tone or its fixed phrase. Item 3. Show the વહેંત with a hand span on the desk — the measure explains the idiom. Recorded in coverage_report.unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX32",
+      "exercise_group": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.\n4. માણસનું જીવન એક અદ્ભુત ચોપડી / કિતાબ/ ગ્રંથ છે.",
+      "answer": "માણસનું જીવન એક અદ્ભુત ગ્રંથ છે.",
+      "explanation": "ત્રણેયનો અર્થ ‘પુસ્તક’ છે, પણ વજન જુદું છે. ‘ચોપડી’ રોજિંદો ને હલકો શબ્દ છે — નિશાળની ચોપડી; એટલે આખા જીવન જેવી મોટી વાત માટે એ ન બેસે. ‘ગ્રંથ’ મોટા ને માનવાળા પુસ્તક માટે વપરાય છે, ને વાક્યમાં ‘અદ્ભુત’ વિશેષણ પણ એ જ વજન માગે છે.",
+      "acceptable_alternatives": [
+        "માણસનું જીવન એક અદ્ભુત કિતાબ છે. — જો શિક્ષક ઇચ્છે કે ચારેય શબ્દ એક જ વાર વપરાય, તો અહીં ‘કિતાબ’ મૂકી શકાય; એ ગઝલની ભાષાનો શબ્દ છે અને આ વાક્યમાં ચાલે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8. A register-choice block: the three offered words mean nearly the same thing, and only one fits the sentence's tone or its fixed phrase. Item 4. The book prints no answer key. Both ગ્રંથ and કિતાબ defend themselves; ચોપડી is the one that clearly does not fit. If the class is doing items 4-6 as a set of three different words, then કિતાબ here, ગ્રંથ in item 5, પોથી in item 6. Recorded in coverage_report.unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX33",
+      "exercise_group": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.\n5. ધાર્મિક કિતાબ / ગ્રંથ / પોથી વાંચવાથી મન શાંત થાય છે.",
+      "answer": "ધાર્મિક ગ્રંથ વાંચવાથી મન શાંત થાય છે.",
+      "explanation": "‘ધાર્મિક ગ્રંથ’ એ ગુજરાતીમાં રૂઢ થયેલી જોડ છે. ‘કિતાબ’ આગત (ઉર્દૂ-અરબી પરથી આવેલો) શબ્દ છે અને અહીંના વાક્યની ભાષા સાથે એ ઓછો બેસે છે; ‘પોથી’ ખાસ કરીને કથા વાંચનારની હાથે લખેલી કે જૂની પુસ્તિકા માટે વપરાય છે, એટલે એ પછીના વાક્યમાં વધારે બંધબેસતો છે.",
+      "acceptable_alternatives": [
+        "ધાર્મિક પોથી વાંચવાથી મન શાંત થાય છે. — ઘરમાં રખાતી જૂની પોથીના સંદર્ભમાં આ પણ ચાલે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8. A register-choice block: the three offered words mean nearly the same thing, and only one fits the sentence's tone or its fixed phrase. Item 5. Recorded in coverage_report.unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX34",
+      "exercise_group": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.\n6. કથાવાચન પછી કથાકારની પોથી / કિતાબ/ ચોપડી  ઉપર લોકો પૈસા ચડાવે છે.",
+      "answer": "કથાવાચન પછી કથાકારની પોથી ઉપર લોકો પૈસા ચડાવે છે.",
+      "explanation": "કથા વાંચનારની સામે મુકાયેલા ધર્મપુસ્તકને ગુજરાતીમાં ‘પોથી’ જ કહેવાય છે, ને એના ઉપર જ લોકો ભાવથી પૈસા મૂકે છે. ‘ચોપડી’ કે ‘કિતાબ’ મૂકીએ તો એ પ્રસંગનું માન જ ઊડી જાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8. A register-choice block: the three offered words mean nearly the same thing, and only one fits the sentence's tone or its fixed phrase. Item 6. Report the practice as the sentence does — a village કથા scene the children may have stood in. Recorded in coverage_report.unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX35",
+      "exercise_group": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.\n7. રણછોડ પગીએ દેશની તન/ કાયા / શરીર  મન અને ધનથી સેવા કરી.",
+      "answer": "રણછોડ પગીએ દેશની તન, મન અને ધનથી સેવા કરી.",
+      "explanation": "‘તન, મન અને ધનથી’ એ ત્રણ શબ્દોની બંધાયેલી જોડ છે — એનો અર્થ છે શરીરથી, મનથી અને પૈસાથી, એટલે કે પૂરેપૂરી રીતે. એમાં ‘કાયા’ કે ‘શરીર’ મૂકીએ તો અર્થ સાચો રહે પણ જોડ તૂટે, અને લય પણ તૂટે. આ એકમાત્ર વાક્ય છે જે આ પાઠના માણસ વિશે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 8. A register-choice block: the three offered words mean nearly the same thing, and only one fits the sentence's tone or its fixed phrase. Item 7 — the block's only chapter-linked sentence, so it is the one item of block 8 that maps to reading scenes.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T5",
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX36",
+      "exercise_group": "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.\n1. સંકટનો સમય આવવો.",
+      "answer": "રૂઢિપ્રયોગ : નોબત આવવી.\nવાક્યપ્રયોગ : સમયસર દવા ન મળી હોત તો દાદાને દવાખાને દાખલ કરવાની નોબત આવી હોત.",
+      "explanation": "પાઠની રૂઢિપ્રયોગપેટીમાં ‘નોબત આવવી’નો અર્થ ‘સંકટ સમય આવવો’ એમ જ છપાયો છે. પાઠમાં પણ આ પ્રયોગ વપરાયો છે — ‘આપણે દસ હજાર જેટલા સૈનિકો ગુમાવવાની નોબત આવી હોત.’ એટલે એ ખરાબ સ્થિતિ આવી પડવાના અર્થમાં વપરાય છે.",
+      "acceptable_alternatives": [
+        "વરસાદ ખેંચાયો એટલે ગામને દૂરથી પાણી લાવવાની નોબત આવી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9. A reverse lookup on the chapter's own printed રૂઢિપ્રયોગ box (કાન સરવા કરવા · દુશ્મનના દાંત ખાટા કરવા · જીવ હથેળીમાં લેવો · જાનની બાજી ખેલવી · નોબત આવવી · મોરચો માંડવો): the meaning is printed, the child supplies the idiom and one sentence. The sentence below is one example, not the answer. Item 1 — and the one idiom the chapter itself uses in a full sentence.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX37",
+      "exercise_group": "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.\n2. જીવ જોખમમાં મૂકવો.",
+      "answer": "રૂઢિપ્રયોગ : જીવ હથેળીમાં લેવો.\nવાક્યપ્રયોગ : પૂરમાં ફસાયેલાં લોકોને બચાવવા બચાવ-ટુકડીના જવાનોએ જીવ હથેળીમાં લીધો.",
+      "explanation": "‘જીવ હથેળીમાં લેવો’ એટલે પોતાનો જીવ જોખમમાં મૂકીને કામ કરવું — હથેળીમાં રાખેલી વસ્તુ ગમે ત્યારે પડી જાય, એ ચિત્ર પરથી આ પ્રયોગ બન્યો છે. પાઠની રૂઢિપ્રયોગપેટીમાં આ જ અર્થ છપાયો છે.",
+      "acceptable_alternatives": [
+        "આગ લાગેલા મકાનમાં દોડી જઈને ફાયરમેને જીવ હથેળીમાં લીધો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9. A reverse lookup on the chapter's own printed રૂઢિપ્રયોગ box (કાન સરવા કરવા · દુશ્મનના દાંત ખાટા કરવા · જીવ હથેળીમાં લેવો · જાનની બાજી ખેલવી · નોબત આવવી · મોરચો માંડવો): the meaning is printed, the child supplies the idiom and one sentence. The sentence below is one example, not the answer. Item 2. The idiom is printed in the chapter's apparatus box but is not used anywhere in the reading text, so this item is recorded in coverage_report.unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX38",
+      "exercise_group": "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.\n3. મોરચા પર કાયમ રહેવું.",
+      "answer": "રૂઢિપ્રયોગ : મોરચો માંડવો.\nવાક્યપ્રયોગ : પરીક્ષા નજીક આવતાં ભાવેશે વાંચવા પાછળ મોરચો માંડ્યો.",
+      "explanation": "પેટીમાં બાકી રહેતો પ્રયોગ આ એક જ છે, ને પાઠમાં પણ એ વપરાયો છે : ‘એક કરતાં વધુ જગ્યાએ મોરચો માંડી દીધો હતો.’ ધ્યાન રાખવા જેવું એ છે કે પાઠની પેટી ‘મોરચો માંડવો’નો અર્થ ‘ખંતથી કોઈ કામ પાછળ લાગવું’ આપે છે, જ્યારે અહીં અર્થ ‘મોરચા પર કાયમ રહેવું’ છપાયો છે. બંને અર્થ એક જ મૂળ ચિત્રમાંથી આવે છે — સામે મોરચો ગોઠવીને ટકી રહેવું — એટલે વાક્યપ્રયોગ કરતી વખતે બાળક કયો અર્થ લે છે એ સ્પષ્ટ કરે.",
+      "acceptable_alternatives": [
+        "સ્વચ્છતા-અભિયાનમાં આખા ગામે મોરચો માંડ્યો ને ત્રણ દિવસમાં તળાવ સાફ કરી નાખ્યું."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9. A reverse lookup on the chapter's own printed રૂઢિપ્રયોગ box (કાન સરવા કરવા · દુશ્મનના દાંત ખાટા કરવા · જીવ હથેળીમાં લેવો · જાનની બાજી ખેલવી · નોબત આવવી · મોરચો માંડવો): the meaning is printed, the child supplies the idiom and one sentence. The sentence below is one example, not the answer. Item 3, and the block's one genuine wrinkle: the meaning printed here ('મોરચા પર કાયમ રહેવું') is NOT the meaning the same chapter's રૂઢિપ્રયોગ box prints for મોરચો માંડવો ('ખંતથી કોઈ કામ પાછળ લાગવું'). This is a printed inconsistency in the reader, not a transcription slip — verified on _renders/page-5.png and page-7.png. By elimination મોરચો માંડવો is the intended answer; show the class both printed meanings rather than hiding the difference.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX39",
+      "exercise_group": "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.\n4. જાન જોખમમાં મૂકીને કામ કરવું.",
+      "answer": "રૂઢિપ્રયોગ : જાનની બાજી ખેલવી.\nવાક્યપ્રયોગ : ડૂબતા બાળકને બચાવવા તરવૈયાએ જાનની બાજી ખેલી.",
+      "explanation": "‘બાજી ખેલવી’ એટલે દાવ પર લગાવવું; ‘જાનની બાજી ખેલવી’ એટલે પોતાનો જીવ દાવ પર લગાવીને કામ પાર પાડવું. પાઠની પેટીમાં આ જ અર્થ છપાયો છે. આગળના પ્રયોગ ‘જીવ હથેળીમાં લેવો’ સાથે એ મળતો આવે છે, પણ અહીં જુગારના દાવનું ચિત્ર છે.",
+      "acceptable_alternatives": [
+        "ધરતીકંપ પછી કાટમાળ નીચેથી લોકોને કાઢવા બચાવ-કર્મીઓએ જાનની બાજી ખેલી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9. A reverse lookup on the chapter's own printed રૂઢિપ્રયોગ box (કાન સરવા કરવા · દુશ્મનના દાંત ખાટા કરવા · જીવ હથેળીમાં લેવો · જાનની બાજી ખેલવી · નોબત આવવી · મોરચો માંડવો): the meaning is printed, the child supplies the idiom and one sentence. The sentence below is one example, not the answer. Item 4. Also apparatus-only — not used in the reading text — so recorded in coverage_report.unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX40",
+      "exercise_group": "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.\n5. દુશ્મનને હરાવવા.",
+      "answer": "રૂઢિપ્રયોગ : દુશ્મનના દાંત ખાટા કરવા.\nવાક્યપ્રયોગ (પાઠનું પોતાનું વાક્ય) : ‘આપણા સૈનિકોએ વળતો હુમલો કરી પાકિસ્તાનના દાંત ખાટા કર્યા.’",
+      "explanation": "પાઠની રૂઢિપ્રયોગપેટીમાં ‘દુશ્મનના દાંત ખાટા કરવા - દુશ્મનને હરાવવા’ એમ છપાયું છે, એટલે અર્થ સામે મુકાતો પ્રયોગ એ જ છે. પાઠમાં એ પ્રયોગ કઈ રીતે વપરાયો છે એ પણ છપાયેલું છે, ને એ જ વાક્ય નમૂના તરીકે લેવું સૌથી સલામત છે. ‘દાંત ખાટા કરવા’ એટલે સામેવાળાને એવો જવાબ આપવો કે એ ફરી સામે ન થાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9. A reverse lookup on the chapter's own printed રૂઢિપ્રયોગ box (કાન સરવા કરવા · દુશ્મનના દાંત ખાટા કરવા · જીવ હથેળીમાં લેવો · જાનની બાજી ખેલવી · નોબત આવવી · મોરચો માંડવો): the meaning is printed, the child supplies the idiom and one sentence. The sentence below is one example, not the answer. Item 5. Use the chapter's own printed sentence as the model rather than composing a new war sentence, and keep the discussion on the idiom's picture (sour teeth), not on the war. The word દુશ્મન belongs to the printed idiom box here; it is not the classroom's own word for anybody.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX41",
+      "exercise_group": "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.\n6. સાંભળવા માટે ધ્યાન આપવું.",
+      "answer": "રૂઢિપ્રયોગ : કાન સરવા કરવા.\nવાક્યપ્રયોગ : પરિણામ જાહેર થવાનું હતું એટલે આખા વર્ગે કાન સરવા કર્યા.",
+      "explanation": "‘સરવા’ એટલે ટટ્ટાર, ઊંચા — પ્રાણી કંઈક સાંભળે ત્યારે એના કાન ટટ્ટાર થાય એ ચિત્ર પરથી આ પ્રયોગ બન્યો છે. પાઠમાં એ સીધો વપરાયો છે : ‘સૈનિકે શરૂ કરેલી વાત એટલી રોમાંચક હતી કે, બધા સરવા કાને સાંભળી રહ્યા.’",
+      "acceptable_alternatives": [
+        "રાત્રે બહાર અવાજ થયો એટલે અમે સૌએ કાન સરવા કર્યા."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 9. A reverse lookup on the chapter's own printed રૂઢિપ્રયોગ box (કાન સરવા કરવા · દુશ્મનના દાંત ખાટા કરવા · જીવ હથેળીમાં લેવો · જાનની બાજી ખેલવી · નોબત આવવી · મોરચો માંડવો): the meaning is printed, the child supplies the idiom and one sentence. The sentence below is one example, not the answer. Item 6. The chapter uses the idiom in the form 'સરવા કાને સાંભળી રહ્યા' — show the class both shapes.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX42",
+      "exercise_group": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.\nઉદાહરણ : વીજળી\n● આવતી કાલે સવારથી સાંજ સુધી વીજળીનો કાપ રહેશે.\n● દેવવ્રત ! તું આ વીજળીનો વાયર કાપ.\n1. દાવ : ................................................",
+      "answer": "● રમતમાં હવે તારો દાવ છે, ફેંક પાસો.\n● કુસ્તીમાં એણે એવો દાવ કર્યો કે સામો પહેલવાન ક્ષણમાં ચત્તોપાટ પડ્યો.",
+      "explanation": "પહેલા વાક્યમાં ‘દાવ’ એટલે રમતમાં આવતો વારો; બીજામાં ‘દાવ’ એટલે કુસ્તીની પકડ કે યુક્તિ. શબ્દ એક જ છે, અર્થ બે — ઉદાહરણમાં ‘કાપ’ના બે અર્થ છે એ જ રીતે.",
+      "acceptable_alternatives": [
+        "● ચોપાટમાં પહેલો દાવ મોટા ભાઈનો.\n● એણે ધીરજથી દાવ ખેલ્યો ને છેલ્લે જીતી ગયો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10. The printed example (વીજળીનો કાપ / વાયર કાપ) shows what is wanted: the SAME word used twice in two different meanings. Two sentences per word; the ones below are examples. Recorded in coverage_report.unmapped — the five words come from outside the chapter. Item 1.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX43",
+      "exercise_group": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.\n2. મીઠું : ................................................",
+      "answer": "● શાકમાં આજે મીઠું જરા ઓછું પડ્યું છે.\n● નાની બહેન બહુ મીઠું ગાય છે.",
+      "explanation": "પહેલા વાક્યમાં ‘મીઠું’ એટલે નમક — રસોઈમાં નખાતું; બીજામાં ‘મીઠું’ એટલે ગળ્યું, કાનને ગમે એવું. ગુજરાતીમાં આ શબ્દ સ્વાદનો પણ છે અને અવાજનો પણ.",
+      "acceptable_alternatives": [
+        "● દરિયાના પાણીમાંથી મીઠું પકવવામાં આવે છે.\n● એ બહુ મીઠું બોલે છે, એટલે સૌને ગમે છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10. The printed example (વીજળીનો કાપ / વાયર કાપ) shows what is wanted: the SAME word used twice in two different meanings. Two sentences per word; the ones below are examples. Recorded in coverage_report.unmapped — the five words come from outside the chapter. Item 2. This word also fills a cell of the કોઠો in printed block 11 — link the two.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX44",
+      "exercise_group": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.\n3. તાણ : ................................................",
+      "answer": "● પરીક્ષાના દિવસોમાં મન પર થોડી તાણ રહે છે.\n● પતંગ ઊંચે ચડાવવો હોય તો દોરી બરાબર તાણ.",
+      "explanation": "પહેલા વાક્યમાં ‘તાણ’ નામ છે — ખેંચાણ, ચિંતાનો ભાર; બીજામાં એ જ શબ્દ ‘તાણવું’ ક્રિયાપદનું આજ્ઞારૂપ છે — ખેંચ. છપાયેલા ઉદાહરણમાં ‘કાપ’ પણ બરાબર આમ જ બે રીતે વપરાયો છે.",
+      "acceptable_alternatives": [
+        "● ઉનાળામાં પાણીની તાણ પડે છે.\n● આ દોરડું બંને છેડેથી બરાબર તાણ."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10. The printed example (વીજળીનો કાપ / વાયર કાપ) shows what is wanted: the SAME word used twice in two different meanings. Two sentences per word; the ones below are examples. Recorded in coverage_report.unmapped — the five words come from outside the chapter. Item 3 — the closest match to the printed example's noun/imperative pattern.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX45",
+      "exercise_group": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.\n4. હાર : ................................................",
+      "answer": "● એક હાર મળે એટલે રમત છોડી ન દેવાય.\n● પ્રતિમાને ફૂલનો હાર પહેરાવ્યો.",
+      "explanation": "પહેલા વાક્યમાં ‘હાર’ એટલે પરાજય; બીજામાં ‘હાર’ એટલે ફૂલ કે મણકાની માળા. બોલવામાં બંને સરખા લાગે છે, પણ વાક્ય જ અર્થ નક્કી કરી આપે છે.",
+      "acceptable_alternatives": [
+        "● હાર-જીત તો રમતમાં ચાલ્યા કરે.\n● બહેને મોતીનો હાર પહેર્યો હતો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10. The printed example (વીજળીનો કાપ / વાયર કાપ) shows what is wanted: the SAME word used twice in two different meanings. Two sentences per word; the ones below are examples. Recorded in coverage_report.unmapped — the five words come from outside the chapter. Item 4.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX46",
+      "exercise_group": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.\n5. દોડ : ................................................",
+      "answer": "● રમતોત્સવમાં સો મીટરની દોડ સૌથી છેલ્લે હતી.\n● બસ ઊપડવાની તૈયારીમાં છે, જલદી દોડ !",
+      "explanation": "પહેલા વાક્યમાં ‘દોડ’ નામ છે — દોડવાની સ્પર્ધા; બીજામાં એ ‘દોડવું’નું આજ્ઞારૂપ છે — દોડ ! એ જ શબ્દ, એક વાર નામ ને એક વાર ક્રિયાપદ.",
+      "acceptable_alternatives": [
+        "● ભાવવધારા સામે માણસની દોડ ચાલુ જ રહે છે.\n● મોડું થાય છે, નિશાળ તરફ દોડ."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 10. The printed example (વીજળીનો કાપ / વાયર કાપ) shows what is wanted: the SAME word used twice in two different meanings. Two sentences per word; the ones below are examples. Recorded in coverage_report.unmapped — the five words come from outside the chapter. Item 5.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX47",
+      "exercise_group": "ઉદાહરણ જોઈને કોઠો પૂર્ણ કરો.",
+      "skill": "grammar",
+      "prompt_verbatim": "ઉદાહરણ જોઈને કોઠો પૂર્ણ કરો.\n● પીળો પતંગ\n● પીળી દોરી\n● પીળું પીતાંબર\n| ટાઢો રોટલો | ......... ખોરાક | ........... ............. | ગળ્યો............. |\n| ........... છાશ | તાજી .......... | ........... ........... |  |\n| ........... પાણી | ...... શાક | મીઠું .............. |  |",
+      "answer": "કોઠો પૂરો કરતાં આવો બને :\nપહેલી હાર : ટાઢો રોટલો | તાજો ખોરાક | મીઠો રસ | ગળ્યો શીરો\nબીજી હાર : ટાઢી છાશ | તાજી ભાજી | મીઠી વાણી | ગળી ખીર\nત્રીજી હાર : ટાઢું પાણી | તાજું શાક | મીઠું દૂધ | ગળ્યું ફળ",
+      "explanation": "ઉપર છપાયેલું ઉદાહરણ — પીળો પતંગ, પીળી દોરી, પીળું પીતાંબર — બતાવે છે કે વિશેષણનું રૂપ પછી આવતા નામની જાતિ પ્રમાણે બદલાય છે : પુલ્લિંગ સાથે ‘-ઓ’ (પીળો), સ્ત્રીલિંગ સાથે ‘-ઈ’ (પીળી), નપુંસકલિંગ સાથે ‘-ઉં’ (પીળું). કોઠાની દરેક ઊભી હારમાં એક જ વિશેષણ ત્રણ રૂપે ઊતરે છે — ટાઢો/ટાઢી/ટાઢું, તાજો/તાજી/તાજું, મીઠો/મીઠી/મીઠું, ગળ્યો/ગળી/ગળ્યું — ને આડી હારમાં જાતિ એક જ રહે છે.",
+      "acceptable_alternatives": [
+        "બીજી હારમાં ‘તાજી રોટલી’, ત્રીજી હારમાં ‘મીઠું પાણી’ કે ‘ગળ્યું દૂધ’ પણ ચાલે — નામ બાળક પોતાનું પસંદ કરી શકે, પણ વિશેષણનું રૂપ જાતિ પ્રમાણે જ આવવું જોઈએ."
+      ],
+      "values_filled_for_teaching": "છપાયેલા ખાના પ્રમાણે ભરેલો કોઠો : (1) ટાઢો રોટલો · તાજો ખોરાક · મીઠો રસ · ગળ્યો શીરો; (2) ટાઢી છાશ · તાજી ભાજી · મીઠી વાણી · [ગળી ખીર]; (3) ટાઢું પાણી · તાજું શાક · મીઠું દૂધ · [ગળ્યું ફળ]. ચોથા ખાનાની બીજી ને ત્રીજી હાર છાપેલા કોઠામાં કોરી છે — ત્યાં ટપકાં પણ છપાયાં નથી; ઉપરનાં ચોરસ કૌંસવાળાં રૂપો પૂર્તિ તરીકે આપ્યાં છે, ફરજિયાત નથી.",
+      "teacher_note": "Printed block 11. Kept as ONE composite entry — the printed grid is a single nine-blank task (three rows x the four filled columns). The grid layout was checked on _renders/page-8.png because a markdown table cannot show which cells are blank: the fourth column prints dotted blanks only in row 1, and its lower two cells are printed empty. The grammar point is std-7's own — જાતિ (લિંગ) agreement of વિકારી વિશેષણ, taught in this reader's ch 4.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S4.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX48",
+      "exercise_group": "ઉપરના કોઠામાં આપેલા શબ્દોનો ઉપયોગ કરી વાક્ય બનાવો.",
+      "skill": "vocabulary",
+      "prompt_verbatim": "ઉપરના કોઠામાં આપેલા શબ્દોનો ઉપયોગ કરી વાક્ય બનાવો.\n● એના નસીબમાં તો માત્ર ટાઢો રોટલો અને ખાટી છાશ જ હતાં.",
+      "answer": "એક શક્ય જવાબ : ● ઉનાળાની બપોરે ટાઢું પાણી અને તાજી ભાજી જ ભાવે છે.\n● બા રોજ સવારે તાજો ખોરાક બનાવે છે, એટલે ઘરમાં કોઈ માંદું પડતું નથી.\n● મહેમાન આવ્યા એટલે માએ ગળ્યો શીરો ને મીઠું દૂધ પીરસ્યાં.",
+      "explanation": "છપાયેલા નમૂનાના વાક્યમાં કોઠાના બે શબ્દ સાથે વપરાયા છે — ‘ટાઢો રોટલો’ ને ‘ખાટી છાશ’. એ જ રીતે બાળક પોતાના વાક્યમાં કોઠાના શબ્દો વાપરે, ને વિશેષણનું રૂપ નામની જાતિ પ્રમાણે રાખે : ટાઢું પાણી (નપુંસકલિંગ), તાજી ભાજી (સ્ત્રીલિંગ), ગળ્યો શીરો (પુલ્લિંગ).",
+      "acceptable_alternatives": [
+        "● શિયાળામાં ટાઢી છાશ પીવાનું મન થતું નથી.\n● દાદાને ગળ્યું ભાવે છે, એટલે એ રોજ એક ગળ્યો લાડુ ખાય છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 12. Follows straight on from block 11 and is answered with the same words. Insist that at least two words of the કોઠો appear in each sentence, as the printed model does.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S4.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX49",
+      "exercise_group": "તમારા વિસ્તારના સમાજસેવક, પોલીસ કે સૈનિકની મુલાકાત લઈ તેમના કાર્ય વિશે જાણો.",
+      "skill": "speaking",
+      "prompt_verbatim": "તમારા વિસ્તારના સમાજસેવક, પોલીસ કે સૈનિકની મુલાકાત લઈ તેમના કાર્ય વિશે જાણો.",
+      "answer": "એક શક્ય રીત : વર્ગ ત્રણ-ચાર જૂથમાં વહેંચાય. દરેક જૂથ પોતાના વિસ્તારના એક જણને પસંદ કરે — આંગણવાડીનાં બહેન, ટપાલી, પોલીસ, નિવૃત્ત સૈનિક કે ગામનું તળાવ સાફ કરાવનાર કાર્યકર. પહેલાં એમની પરવાનગી લેવી અને સમય નક્કી કરવો. પૂછવા જેવા પ્રશ્નો : તમે આ કામ કેટલાં વર્ષથી કરો છો ? તમારો એક દિવસ કેવો હોય છે ? આ કામમાં સૌથી અઘરું શું લાગે છે ? એવો કોઈ પ્રસંગ કહો જે તમે ભૂલી ન શકો. તમારા કામથી ગામને શો ફાયદો થાય છે ? — જવાબની નોંધ કરવી, બની શકે તો ફોટો પાડવો, અને વર્ગમાં જૂથ દીઠ પાંચ મિનિટ એ મુલાકાત કહી સંભળાવવી. છેલ્લે એમનો આભાર માનતો પત્ર લખવો.",
+      "explanation": "આ પ્રવૃત્તિ પાઠમાંથી જ ઊતરી છે : પાઠનાં બાળકોએ પણ ચેકપોસ્ટ પર જવાનને પ્રશ્નો પૂછીને જ આખી વાત જાણી હતી. મુલાકાતનું હાર્દ પ્રશ્નો છે — સારા પ્રશ્નો પહેલેથી લખી રાખવા, ને સામેવાળાને પોતાનું કામ પોતાના શબ્દોમાં કહેવા દેવું. જવાબ કોઈ એક નથી; દરેક જૂથની મુલાકાત જુદી હશે.",
+      "acceptable_alternatives": [
+        "જો બહાર જવાનું શક્ય ન હોય તો કોઈ એક જણને શાળામાં બોલાવીને આખા વર્ગ સામે મુલાકાત લેવી."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 13. A go-and-meet-a-real-person activity — the block this profile's chapters always print. Fix the questions in class BEFORE the visit and check them; take permission from the school and from the person. Keep the write-up to what the person actually said.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX50",
+      "exercise_group": "તમારા અને વર્ગના વિદ્યાર્થીઓના અંગૂઠાની છાપ મેળવીને અવલોકન કરો અને પરસ્પર સરખાવો.",
+      "skill": "speaking",
+      "prompt_verbatim": "તમારા અને વર્ગના વિદ્યાર્થીઓના અંગૂઠાની છાપ મેળવીને અવલોકન કરો અને પરસ્પર સરખાવો.",
+      "answer": "એક શક્ય રીત ને અવલોકન : સ્ટૅમ્પપૅડ કે થોડી શાહી લઈને દરેક વિદ્યાર્થી પોતાના જમણા અંગૂઠાની છાપ કાગળ પર પાડે અને નીચે પોતાનું નામ લખે. પછી બે-બે જણ પોતાની છાપ સામસામે મૂકીને બિલોરી કાચથી જુએ. દેખાશે કે કોઈની છાપમાં રેખાઓ ગોળ ગૂંચળા જેવી છે, કોઈની કમાન જેવી, તો કોઈની આંટીવાળી. આખા વર્ગની છાપ સરખાવતાં એકેય બે છાપ સરખી નહીં મળે — દરેકની ભાત જુદી છે. બધી છાપ એક ચાર્ટ પર ચોંટાડીને વર્ગમાં લગાવી શકાય.",
+      "explanation": "આ પ્રવૃત્તિ પણ પાઠના વિષય પરથી જ આવી છે : પગી પગલાંની છાપ પરથી માણસને ઓળખી કાઢતા. છાપ ઓળખવાની આખી આવડત આ એક વાત પર ઊભી છે કે દરેકની છાપ જુદી હોય છે. બાળક પોતે સરખાવીને એ જુએ ત્યારે પાઠનું ‘ઓળખી બતાવે એ પગી’ વાક્ય સમજાઈ જાય છે.",
+      "acceptable_alternatives": [
+        "કાળા કાગળ પર સફેદ પાઉડરથી કે પેન્સિલની ભૂકીથી પણ છાપ ઉપસાવી શકાય.",
+        "એક જ વિદ્યાર્થીના જુદા જુદા આંગળાની છાપ સરખાવવી — એ પણ એકબીજાથી જુદી નીકળશે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 14. Ten minutes, and it needs only an ink pad and paper. Keep the sheets — they make the display for the chapter. Do not collect or store the prints anywhere outside the classroom.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S2.T4",
+        "M3.S5.T9"
+      ]
+    },
+    {
+      "exercise_id": "EX51",
+      "exercise_group": "નીચેના ફકરાનું અનુલેખન કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "નીચેના ફકરાનું અનુલેખન કરો.\nરાત્રિના અંધકારને ચીરતી પાકિસ્તાની ટેન્કો અગનગોળા વરસાવવા લાગી. ટેન્કો સાથે આવેલા 2000 સૈનિકો લોંગેવાલા પોસ્ટ પર ધસી આવ્યા અને ચેકપોસ્ટને ઘેરવા લાગ્યા. ભારતીય સેનાના બહાદુર જવાનો પણ પોતાની રાઈફલ અને મોર્ટાર્સ વડે જડબાતોડ જવાબ આપવા લાગ્યા. મધરાત સુધીમાં તો ભારતના જાંબાઝોએ પાકિસ્તાનની 12 ટેન્કોનો કચ્ચરઘાણ વાળી દીધો. આખી રાત ચાલેલી આ ભીષણ લડાઈમાં પાકિસ્તાની સૈન્યને આઠ કિ.મી. જેટલી પીછેહઠ કરવી પડેલી. કહેવાય છે કે મેજર કુલદીપસિંહ ચાંદપુરી અને તેમના જવાનોએ જીતનો જશ્ન પાકિસ્તાની ટેન્કો પર ભાંગડા નૃત્ય કરી મનાવ્યો હતો.",
+      "answer": "આખો ફકરો, છપાયો છે તે જ પ્રમાણે, અક્ષરેઅક્ષર ઉતારવાનો છે — એક પણ શબ્દ બદલ્યા વગર, ઉમેર્યા વગર કે છોડ્યા વગર. ખાસ ધ્યાન રાખવાનાં સ્થાનો : જોડાક્ષરવાળા શબ્દો (અંધકારને, અગનગોળા, ચેકપોસ્ટ, કચ્ચરઘાણ, જડબાતોડ), ફકરામાં છપાયેલા આંકડા (એકેય આંકડો શબ્દોમાં લખવાનો નથી, છપાયો છે તે જ રૂપે ઉતારવાનો છે), નામ (લોંગેવાલા, મેજર કુલદીપસિંહ ચાંદપુરી) અને દરેક વાક્યને છેડે આવતું પૂર્ણવિરામ.",
+      "explanation": "‘અનુલેખન’ એટલે જોઈને એ જ પ્રમાણે ઉતારવું. એમાં કંઈ નવું લખવાનું નથી — જોડણી, વિરામચિહ્નો અને અક્ષરની સફાઈ, એ ત્રણ જ વસ્તુ તપાસાય છે. લખ્યા પછી બાળક પોતે છપાયેલા ફકરા સાથે સરખાવીને ભૂલ શોધે એ આ કામનો સૌથી ઉપયોગી ભાગ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 15. There is no 'answer' beyond an accurate copy, so the entry above records what to check rather than re-printing the paragraph as an answer. Recorded in coverage_report.unmapped: the લોંગેવાલા paragraph is the exercise's own printed matter and belongs to no reading scene of this chapter. It is war reporting — read it aloud once, keep the discussion on the copying task, and do not extend it into a talk about losses.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX52",
+      "exercise_group": "ઉપરના ફકરાને આધારે પાંચ - છ પ્રશ્નો બનાવો.",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "ઉપરના ફકરાને આધારે પાંચ - છ પ્રશ્નો બનાવો.",
+      "answer": "એક શક્ય જવાબ (ઉપરના ફકરા પરથી) :\n1. રાત્રિના અંધકારને ચીરતી ટેન્કો શું વરસાવવા લાગી ?\n2. ટેન્કો સાથે આવેલા કેટલા સૈનિકો લોંગેવાલા પોસ્ટ પર ધસી આવ્યા ?\n3. ભારતીય સેનાના જવાનોએ કયાં સાધનો વડે જવાબ આપ્યો ?\n4. આ લડાઈ કેટલો સમય ચાલી ?\n5. જીતનો જશ્ન કોણે મનાવ્યો ?\n6. મેજર કુલદીપસિંહ ચાંદપુરી અને એમના જવાનોએ જશ્ન કઈ રીતે મનાવ્યો ?",
+      "explanation": "પ્રશ્ન બનાવવાની ચાવી પ્રશ્નશબ્દોમાં છે : શું, કોણ, ક્યાં, ક્યારે, કેટલા, કઈ રીતે, શા માટે. ફકરામાં જે વિગત છપાયેલી હોય તેની સામે યોગ્ય પ્રશ્નશબ્દ મૂકીએ એટલે પ્રશ્ન બની જાય — સંખ્યા સામે ‘કેટલા’, રીત સામે ‘કઈ રીતે’, વ્યક્તિ સામે ‘કોણ’. બનાવેલા દરેક પ્રશ્નનો જવાબ એ જ ફકરામાંથી મળવો જોઈએ; જેનો જવાબ ફકરામાં ન હોય એ પ્રશ્ન અહીં ન ચાલે.",
+      "acceptable_alternatives": [
+        "લડાઈ કઈ પોસ્ટ પર થઈ ?",
+        "ભારતના જવાનોએ કેટલી ટેન્કોનો કચ્ચરઘાણ વાળ્યો ?"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 16. Six model questions are given because the block asks for પાંચ - છ. Ask each child to write the answer beside their own question — that is how they check that the question is answerable from the paragraph. Recorded in coverage_report.unmapped along with block 15, whose paragraph it works on.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX53",
+      "exercise_group": "નીચેના ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "skill": "writing",
+      "prompt_verbatim": "નીચેના ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.\nજંગલમાં એક સાબર રહેતું. તેને પોતાનાં શિંગડાંનું અભિમાન હતું.\n\nએકવાર તે તળાવમાં પાણી પીતું હતું. તેણે પાણીમાં પોતાનું પ્રતિબિંબ જોયું... તે બોલ્યું, ‘‘રૂપાળાં શિંગડાં સાથે આ પાતળા પગ શોભતા નથી. હું તો લાજી મરું છું.’’",
+      "answer": "એક શક્ય અનુવાદ (અંગ્રેજી માધ્યમ) : A sambar deer lived in a forest. It was proud of its antlers. One day it was drinking water at a lake. It saw its own reflection in the water... It said, \"These thin legs do not look good with such beautiful antlers. I feel very ashamed.\"",
+      "explanation": "અનુવાદમાં ત્રણ વાત સાચવવાની છે. પહેલી, ભાવ : ‘અભિમાન હતું’ એટલે ગર્વ, ને છેલ્લે ‘લાજી મરું છું’ એટલે શરમથી મરી જવા જેવું લાગે છે — બંને લાગણી અનુવાદમાં ઊતરવી જોઈએ. બીજી, અવતરણચિહ્નમાં મુકાયેલું વાક્ય સાબરનું પોતાનું બોલેલું છે, એટલે અનુવાદમાં પણ એ અવતરણચિહ્નમાં જ રહે. ત્રીજી, ‘...’ છપાયેલાં છે એ પણ રહેવા દેવાં.",
+      "acceptable_alternatives": [
+        "હિન્દી માધ્યમ : जंगल में एक सांभर रहता था. उसे अपने सींगों का अभिमान था. एक बार वह तालाब में पानी पी रहा था. उसने पानी में अपना प्रतिबिंब देखा... वह बोला, ‘‘सुंदर सींगों के साथ ये पतले पैर शोभा नहीं देते. मैं तो शरम से मरा जा रहा हूँ.’’"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Printed block 17, the standing L2 block, and the chapter's last. NOTE FOR AGENT 13: the answer field is deliberately in English (and the alternative in Devanagari) — this block asks for the child's own પ્રથમ ભાષા, and chapter_id records English as the medium of instruction. Non-Gujarati script here is intended, not a script defect. A school whose children's first language is Hindi, Marathi, Sindhi or Urdu substitutes that language; the Gujarati passage stays as printed either way. Recorded in coverage_report.unmapped: the સાબર passage is the exercise's own text and appears nowhere in this chapter's reading scenes.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    }
+  ],
+  "coverage_report": {
+    "blocks_found": [
+      "વાતચીત",
+      "નીચેનાં વાક્યોને પાઠના ઘટનાક્રમ મુજબ ગોઠવો.",
+      "પ્રશ્નોના જવાબ લખો.",
+      "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.",
+      "વિદ્યાર્થીઓને મેદાનમાં લઈ જઈને નીચે મુજબની પ્રવૃત્તિ કરાવવી.",
+      "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.",
+      "નીચેના શબ્દોને શબ્દકોશના ક્રમમાં ગોઠવી તેનો અર્થ શબ્દકોશમાંથી શોધીને લખો.",
+      "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.",
+      "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.",
+      "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.",
+      "ઉદાહરણ જોઈને કોઠો પૂર્ણ કરો.",
+      "ઉપરના કોઠામાં આપેલા શબ્દોનો ઉપયોગ કરી વાક્ય બનાવો.",
+      "તમારા વિસ્તારના સમાજસેવક, પોલીસ કે સૈનિકની મુલાકાત લઈ તેમના કાર્ય વિશે જાણો.",
+      "તમારા અને વર્ગના વિદ્યાર્થીઓના અંગૂઠાની છાપ મેળવીને અવલોકન કરો અને પરસ્પર સરખાવો.",
+      "નીચેના ફકરાનું અનુલેખન કરો.",
+      "ઉપરના ફકરાને આધારે પાંચ - છ પ્રશ્નો બનાવો.",
+      "નીચેના ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો."
+    ],
+    "blocks_answered": [
+      "વાતચીત",
+      "નીચેનાં વાક્યોને પાઠના ઘટનાક્રમ મુજબ ગોઠવો.",
+      "પ્રશ્નોના જવાબ લખો.",
+      "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.",
+      "વિદ્યાર્થીઓને મેદાનમાં લઈ જઈને નીચે મુજબની પ્રવૃત્તિ કરાવવી.",
+      "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.",
+      "નીચેના શબ્દોને શબ્દકોશના ક્રમમાં ગોઠવી તેનો અર્થ શબ્દકોશમાંથી શોધીને લખો.",
+      "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.",
+      "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.",
+      "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.",
+      "ઉદાહરણ જોઈને કોઠો પૂર્ણ કરો.",
+      "ઉપરના કોઠામાં આપેલા શબ્દોનો ઉપયોગ કરી વાક્ય બનાવો.",
+      "તમારા વિસ્તારના સમાજસેવક, પોલીસ કે સૈનિકની મુલાકાત લઈ તેમના કાર્ય વિશે જાણો.",
+      "તમારા અને વર્ગના વિદ્યાર્થીઓના અંગૂઠાની છાપ મેળવીને અવલોકન કરો અને પરસ્પર સરખાવો.",
+      "નીચેના ફકરાનું અનુલેખન કરો.",
+      "ઉપરના ફકરાને આધારે પાંચ - છ પ્રશ્નો બનાવો.",
+      "નીચેના ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો."
+    ],
+    "unanswered": [],
+    "unmapped": [
+      {
+        "exercise_id": "EX16",
+        "exercise_group": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.",
+        "prompt_verbatim": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.\n1. પરીક્ષામાં નાપાસ થતાં રશ્મિકાની તો એક શાલ બગડ્યું ?",
+        "reason": "જોડણી/ઉચ્ચારભેદ drill sentence (રશ્મિકા, શાલ-સાલ) that belongs to no reading scene of this chapter."
+      },
+      {
+        "exercise_id": "EX17",
+        "exercise_group": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.",
+        "prompt_verbatim": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.\n2. મારી સાળાનો શોકરો એસ.એસ.સી. બોર્ડમાં પ્રથમ આવ્યો.",
+        "reason": "જોડણી drill sentence (સાળો, છોકરો) from outside the chapter's reading text."
+      },
+      {
+        "exercise_id": "EX18",
+        "exercise_group": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.",
+        "prompt_verbatim": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.\n3. દુર્વાસાઋષિએ ગુસ્સે થઈને શકુંતલાને સાપ આપ્યો.",
+        "reason": "જોડણી drill sentence (દુર્વાસાઋષિ, શકુંતલા) from outside the chapter's reading text."
+      },
+      {
+        "exercise_id": "EX19",
+        "exercise_group": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.",
+        "prompt_verbatim": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.\n4. સરત ન હોત તો મિતાંશ આટલું શારૂ દોડત નહીં.",
+        "reason": "જોડણી drill sentence (શરત, સારું) from outside the chapter's reading text; the name મિતાંશ is also a student's name in the chapter, but a shared first name is not a reading-scene link."
+      },
+      {
+        "exercise_id": "EX20",
+        "exercise_group": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.",
+        "prompt_verbatim": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.\n5. સવિતાએ અભરાઈ ઉપર તાંબા - પિત્તરની થારીઓ ગોઠવી.",
+        "reason": "ર/ળ drill sentence (પિત્તળ, થાળી) from outside the chapter's reading text."
+      },
+      {
+        "exercise_id": "EX21",
+        "exercise_group": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.",
+        "prompt_verbatim": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.\n6. તરાવની પાર ઉપર ઘણાં લીલાછમ વૃક્ષો હતાં.",
+        "reason": "ર/ળ drill sentence (તળાવ, પાળ) from outside the chapter's reading text."
+      },
+      {
+        "exercise_id": "EX22",
+        "exercise_group": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.",
+        "prompt_verbatim": "આપેલાં વાક્યોમાંથી ભૂલ શોધો અને ભૂલ સુધારી વાક્ય ફરીથી લખો.\n7. ગોપીએ આજે ગોરી ભરીને સાસ વલોવી.",
+        "reason": "ર/ળ and સ/છ drill sentence (ગોળી, છાશ) from outside the chapter's reading text."
+      },
+      {
+        "exercise_id": "EX24",
+        "exercise_group": "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.",
+        "prompt_verbatim": "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.\n1. કોલંબસે એક મોટા .......ની શોધ કરી. (ખડ, ખંડ)",
+        "reason": "Minimal-pair cloze (ખડ / ખંડ, કોલંબસ) with no word or scene from this chapter."
+      },
+      {
+        "exercise_id": "EX25",
+        "exercise_group": "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.",
+        "prompt_verbatim": "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.\n2. મિત્તલ ગીત સારું ગાય છે પણ ..... માં એને રસ નથી. (વાદ્ય, વાધ)",
+        "reason": "Minimal-pair cloze (વાદ્ય / વાધ) with no word or scene from this chapter."
+      },
+      {
+        "exercise_id": "EX26",
+        "exercise_group": "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.",
+        "prompt_verbatim": "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.\n3. મેશ આંખમાં ........ તો બળે. (આંજે, આજે)",
+        "reason": "Minimal-pair cloze (આંજે / આજે) with no word or scene from this chapter."
+      },
+      {
+        "exercise_id": "EX27",
+        "exercise_group": "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.",
+        "prompt_verbatim": "કૌંસમાંથી શબ્દ પસંદ કરીને ખાલી જગ્યા પૂરો.\n4. કાવ્યમાંથી કે ગઝલમાંથી....... રચનાનું લયબદ્ધ પઠન કરો. (પદ, પધ)",
+        "reason": "Minimal-pair cloze (પદ / પધ) with no word or scene from this chapter."
+      },
+      {
+        "exercise_id": "EX28",
+        "exercise_group": "નીચેના શબ્દોને શબ્દકોશના ક્રમમાં ગોઠવી તેનો અર્થ શબ્દકોશમાંથી શોધીને લખો.",
+        "prompt_verbatim": "નીચેના શબ્દોને શબ્દકોશના ક્રમમાં ગોઠવી તેનો અર્થ શબ્દકોશમાંથી શોધીને લખો.\nનરોત્તમ, નારી, નમ્રતા, નરમાઈ, નિશા",
+        "reason": "Dictionary-order and lookup task on five words (નરોત્તમ, નારી, નમ્રતા, નરમાઈ, નિશા), none of which occurs in this chapter's reading text."
+      },
+      {
+        "exercise_id": "EX29",
+        "exercise_group": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.",
+        "prompt_verbatim": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.\n1. તરણાં / તૃણ / તણખલાં ઓથે ડુંગર રે, ડુંગર કોઈ દેખે નહીં.",
+        "reason": "Register-choice item on a folk line (તરણાં ઓથે ડુંગર) that this chapter does not print."
+      },
+      {
+        "exercise_id": "EX30",
+        "exercise_group": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.",
+        "prompt_verbatim": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.\n2. બાહુ / ભુજા / હાથ બળ વિના આવું મોટું કામ ભાગ્યે જ થાય.",
+        "reason": "Register-choice item (બાહુબળ) with no word or scene from this chapter."
+      },
+      {
+        "exercise_id": "EX31",
+        "exercise_group": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.",
+        "prompt_verbatim": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.\n3. શ્રીલંકાનો વિજય ભુજા / હાથ / બાહુ વહેંતમાં હતો પણ છેલ્લી ઘડીએ ભારત જીત્યું.",
+        "reason": "Register-choice item (હાથવહેંતમાં, a cricket sentence) with no word or scene from this chapter."
+      },
+      {
+        "exercise_id": "EX32",
+        "exercise_group": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.",
+        "prompt_verbatim": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.\n4. માણસનું જીવન એક અદ્ભુત ચોપડી / કિતાબ/ ગ્રંથ છે.",
+        "reason": "Register-choice item (ચોપડી / કિતાબ / ગ્રંથ) with no word or scene from this chapter."
+      },
+      {
+        "exercise_id": "EX33",
+        "exercise_group": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.",
+        "prompt_verbatim": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.\n5. ધાર્મિક કિતાબ / ગ્રંથ / પોથી વાંચવાથી મન શાંત થાય છે.",
+        "reason": "Register-choice item (ધાર્મિક ગ્રંથ) with no word or scene from this chapter."
+      },
+      {
+        "exercise_id": "EX34",
+        "exercise_group": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.",
+        "prompt_verbatim": "આપેલાં વાક્યો માટે બંધબેસતો શબ્દ પસંદ કરો અને વાક્યો ફરીથી લખો.\n6. કથાવાચન પછી કથાકારની પોથી / કિતાબ/ ચોપડી  ઉપર લોકો પૈસા ચડાવે છે.",
+        "reason": "Register-choice item (કથાકારની પોથી) with no word or scene from this chapter."
+      },
+      {
+        "exercise_id": "EX37",
+        "exercise_group": "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.",
+        "prompt_verbatim": "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.\n2. જીવ જોખમમાં મૂકવો.",
+        "reason": "The idiom જીવ હથેળીમાં લેવો is printed only in the chapter's રૂઢિપ્રયોગ apparatus box (which is not a topic); it is not used anywhere in the reading text, so no scene prepares it."
+      },
+      {
+        "exercise_id": "EX39",
+        "exercise_group": "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.",
+        "prompt_verbatim": "નીચે આપેલા અર્થ સામે રૂઢિપ્રયોગ લખી તેનો વાક્યમાં પ્રયોગ કરો.\n4. જાન જોખમમાં મૂકીને કામ કરવું.",
+        "reason": "The idiom જાનની બાજી ખેલવી is printed only in the chapter's રૂઢિપ્રયોગ apparatus box; it is not used anywhere in the reading text."
+      },
+      {
+        "exercise_id": "EX42",
+        "exercise_group": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.",
+        "prompt_verbatim": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.\nઉદાહરણ : વીજળી\n● આવતી કાલે સવારથી સાંજ સુધી વીજળીનો કાપ રહેશે.\n● દેવવ્રત ! તું આ વીજળીનો વાયર કાપ.\n1. દાવ : ................................................",
+        "reason": "Polysemy sentence-building on દાવ — a word this chapter's reading text does not carry."
+      },
+      {
+        "exercise_id": "EX43",
+        "exercise_group": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.",
+        "prompt_verbatim": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.\n2. મીઠું : ................................................",
+        "reason": "Polysemy sentence-building on મીઠું — the word occurs only in the exercise apparatus (block 11's કોઠો), not in a reading scene."
+      },
+      {
+        "exercise_id": "EX44",
+        "exercise_group": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.",
+        "prompt_verbatim": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.\n3. તાણ : ................................................",
+        "reason": "Polysemy sentence-building on તાણ — a word this chapter's reading text does not carry."
+      },
+      {
+        "exercise_id": "EX45",
+        "exercise_group": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.",
+        "prompt_verbatim": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.\n4. હાર : ................................................",
+        "reason": "Polysemy sentence-building on હાર — the ફૂલહાર appears only in a printed picture on folio 40, which is page matter, not a reading scene."
+      },
+      {
+        "exercise_id": "EX46",
+        "exercise_group": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.",
+        "prompt_verbatim": "નીચે આપેલા શબ્દોનો ઉપયોગ કરી ઉદાહરણ મુજબ બીજાં વાક્યો બનાવો.\n5. દોડ : ................................................",
+        "reason": "Polysemy sentence-building on દોડ — a word this chapter's reading text does not carry."
+      },
+      {
+        "exercise_id": "EX51",
+        "exercise_group": "નીચેના ફકરાનું અનુલેખન કરો.",
+        "prompt_verbatim": "નીચેના ફકરાનું અનુલેખન કરો.\nરાત્રિના અંધકારને ચીરતી પાકિસ્તાની ટેન્કો અગનગોળા વરસાવવા લાગી. ટેન્કો સાથે આવેલા 2000 સૈનિકો લોંગેવાલા પોસ્ટ પર ધસી આવ્યા અને ચેકપોસ્ટને ઘેરવા લાગ્યા. ભારતીય સેનાના બહાદુર જવાનો પણ પોતાની રાઈફલ અને મોર્ટાર્સ વડે જડબાતોડ જવાબ આપવા લાગ્યા. મધરાત સુધીમાં તો ભારતના જાંબાઝોએ પાકિસ્તાનની 12 ટેન્કોનો કચ્ચરઘાણ વાળી દીધો. આખી રાત ચાલેલી આ ભીષણ લડાઈમાં પાકિસ્તાની સૈન્યને આઠ કિ.મી. જેટલી પીછેહઠ કરવી પડેલી. કહેવાય છે કે મેજર કુલદીપસિંહ ચાંદપુરી અને તેમના જવાનોએ જીતનો જશ્ન પાકિસ્તાની ટેન્કો પર ભાંગડા નૃત્ય કરી મનાવ્યો હતો.",
+        "reason": "અનુલેખન of the લોંગેવાલા paragraph, which is the exercise's own printed matter and appears in no topic's original_chunk."
+      },
+      {
+        "exercise_id": "EX52",
+        "exercise_group": "ઉપરના ફકરાને આધારે પાંચ - છ પ્રશ્નો બનાવો.",
+        "prompt_verbatim": "ઉપરના ફકરાને આધારે પાંચ - છ પ્રશ્નો બનાવો.",
+        "reason": "Question-making on the same લોંગેવાલા paragraph as block 15; it belongs to no reading scene of this chapter."
+      },
+      {
+        "exercise_id": "EX53",
+        "exercise_group": "નીચેના ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+        "prompt_verbatim": "નીચેના ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.\nજંગલમાં એક સાબર રહેતું. તેને પોતાનાં શિંગડાંનું અભિમાન હતું.\n\nએકવાર તે તળાવમાં પાણી પીતું હતું. તેણે પાણીમાં પોતાનું પ્રતિબિંબ જોયું... તે બોલ્યું, ‘‘રૂપાળાં શિંગડાં સાથે આ પાતળા પગ શોભતા નથી. હું તો લાજી મરું છું.’’",
+        "reason": "Translation of the સાબર passage, the exercise's own printed text, which appears in no topic's original_chunk."
+      }
+    ],
+    "_note": "blocks_found lists all seventeen entries of 01_meta.json's exercise_inventory, verbatim and in printed order (the chapter prints no 'સ્વાધ્યાય' banner; the numbered pink headings below the શબ્દાર્થ box ARE the blocks). 53 EX entries cover the inventory's 73 items: every numbered item of a list block gets its own EX, while a block that is one indivisible task — the six-sentence ordering grid, the five-word dictionary lookup, the four-step ground activity, the nine-blank કોઠો — is kept as one composite EX whose answer fills every printed blank. The twenty-eight unmapped entries are language-drill and copy/translate items whose sentences come from outside this chapter's reading text; they are reported, never given a manufactured mapping. The four idiom items that ARE used in the reading text (નોબત આવવી, મોરચો માંડવો, દુશ્મનના દાંત ખાટા કરવા, કાન સરવા કરવા) map to the scenes that print them."
+  }
+}

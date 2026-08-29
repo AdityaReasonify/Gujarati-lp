@@ -23,11 +23,43 @@ it after any crash is always correct. **Never hand-write the args.**
 
 ## 2. Ground rules paid for in lost work
 
-1. **Run ONE workflow at a time.** Sharding into parallel workflows looks faster and
-   is not. Measured on 2026-08-23: three shards produced **62 recent 429s**, three
-   wedged A12 agents and one corrupted merge; consolidating to a single workflow took
-   429s to **0** with the same six chapters. The rate limiter — not the CPU-derived
-   agent cap of `min(16, cores-2)` — is the binding constraint.
+1. **Cap TOTAL concurrent agents (~6), not workflow count.** The original rule here said
+   "run one workflow at a time" after three shards produced 62 429s on 2026-08-23. That
+   conflated *shape* with *volume*. Measured across 2,000+ supervisor samples, 429 rate
+   tracks **total live agents**, not how they are distributed:
+
+   | live agents | median 429 | max 429 |
+   |---|---|---|
+   | 1-3 | 1-2 | 12-20 |
+   | 4-6 | 3-4 | 20-48 |
+   | 7-9 | 2-4 | **31-89** |
+   | 10-13 | 0-8 | 42-45 |
+
+   The median barely moves; the **tail** explodes past ~6 agents. The 08-23 storm was three
+   shards running ~18 agents, not sharding as such. Four per-chapter workflows holding 8
+   agents total measured 5 recent 429s — comparable to the consolidated run they replaced.
+
+   So: shard freely **if it does not raise total agent count**, and prefer per-chapter
+   workflows in the endgame, where they buy real decoupling — a wedged agent stalls only its
+   own chapter instead of every chapter sharing a `parallel()`. Do NOT shard a 13-chapter
+   standard into 13 workflows; that is a volume increase wearing a shape disguise.
+
+   **Stage weight matters as much as agent count.** On 2026-08-25 four per-chapter shards
+   each reached A12 simultaneously and all four died on the session limit having burned
+   2.14M subagent tokens with zero chapters completed. Four concurrent A12s is a far heavier
+   load than four mixed-stage agents. When every live chapter is queued at the same heavy
+   stage (A12 or A10), cap concurrency at 2 regardless of what the agent-count table allows.
+
+
+**Journal mtime is not liveness — this bit six times.** A workflow's journal only advances
+when an agent COMPLETES, so a run with one long A12 looks dead by journal age while being
+perfectly healthy. Every monitor must include a run if EITHER its journal or any agent
+transcript is recent. Instances: supervisor global-quiet clock, auto-resume ACTIVE check,
+progress.py corpse counting, health.py stall display, auto-resume duplicate-launch check,
+and finally supervisor's own `jage>60` run-inclusion gate, which on 2026-08-26 dropped a live
+run (journal 62m stale, agent writing 11m ago) and fired NO_PROGRESS at a healthy agent
+sitting at 141% of typical. **Liveness = an agent transcript belonging to a known-current
+run, not ending in an interrupt, measured against its own stage bar. Nothing else.**
 
 2. **Idle time is not a stall signal.** An agent writes its transcript only when a
    message completes, so a healthy agent mid-generation shows idle climbing for tens of
@@ -91,6 +123,94 @@ uncomment the `A15` call in `chapter-runner-optimized.js`.
 writes `stage_count` into each `output<N>/progress.json`, and `args_for.py`, `supervisor.sh`
 and `resume.sh` all read it. std-6's 15 chapters were finished before this change and still
 carry their textbook plans.
+
+
+
+**One owner for stall detection.** `progress.py` reports the disk-derived stage matrix and
+nothing else — it deliberately emits NO wedge verdict. It sees every run on disk, so any
+stall count it produced mixed live agents with corpses from stopped runs (2026-08-25: it
+reported 9 wedged agents across 3 dead runs while all 4 live runs were healthy). Stall
+detection belongs to `health.py` and `supervisor.sh`, which scope to a known run id and
+carry the interrupt filter. Three thresholds for one question is two too many.
+
+### Stall bars come from measured SILENT GAPS, not durations
+
+Bars are `1.5 x` the longest silence ever seen inside a **successfully completed** agent of
+that stage, measured across 611 finished agents (2026-08-24):
+
+| stage | median gap | max gap | bar | % of successful runs silent >10m |
+|---|---|---|---|---|
+| A12 authoring | 25.9m | 38.3m | 58m | **83%** |
+| A10 solutions | 20.8m | 34.3m | 52m | **86%** |
+| A07 pitfalls | 9.0m | 21.0m | 32m | 35% |
+| A16 publication | 5.0m | 11.2m | 18m | 5% |
+| A01 ingestion | 4.1m | 15.2m | 25m | 10% |
+| A02 structure | 6.1m | 12.5m | 20m | 7% |
+| A05 verbatim | 5.1m | 10.6m | 18m | 2% |
+| A13 QC | 2.4m | 4.5m | 10m | 0% |
+| A09 media | 3.1m | 7.3m | 12m | 0% |
+| A11 / A14 / A15 | ~1m | 1.2m | 5m | 0% |
+
+**This is why a long idle on A12 or A10 is meaningless and a 6-minute idle on A11 is an
+incident.** 83% of successful A12 runs go quiet for more than ten minutes; no successful
+A11 run has ever gone quiet for more than 36 seconds. A single flat threshold cannot express
+that, which is why every flat-threshold attempt produced false alarms.
+
+
+
+
+**Never `claude stop` a recovery session while its workflow is running.** A workflow executes
+in-process of the session that launched it, so killing the session kills the workflow. Learned
+the hard way on 2026-08-25: stopping the recovery session took its healthy new run down with
+it. Stop the *workflow* with TaskStop; leave the session alone.
+
+**Recovery must STOP before it RELAUNCHES, and must verify the stop.** On 2026-08-25 the
+first live auto-recovery relaunched while the old run was still executing, leaving two
+workflows writing the same chapter files for several minutes (caught before any corruption —
+182/182 JSON still parsed). The recovery prompt now runs stop → verify-nothing-alive →
+relaunch, and aborts rather than launching if any workflow is still writing.
+
+
+**Recovery must not punish healthy siblings.** Stopping a workflow kills every agent in it,
+so a single overrunning agent is NOT grounds to recover — on 2026-08-25 one A05 at 19.6m
+against an 18m bar would have destroyed a sibling A05 holding 11.5MB, another at 4.9MB, and
+an A12 and A10 mid-run. `ACT` now fires only on whole-run failures (SHARD_STALLED,
+DEAD_WORKFLOW, TOOL_HUNG, NO_PROGRESS); a lone GEN_OVERRUN alerts and keeps watching.
+
+### The supervisor ACTS, it does not just alert
+
+`supervisor.sh <stds> 25 45 12 2 3 "<run_ids>" act` recovers automatically:
+
+1. Detects a stall against the per-stage gap bars (or TOOL_HUNG / DEAD_WORKFLOW / NO_PROGRESS)
+2. **Requires the same alert on two consecutive polls** — one tick can catch a file
+   mid-rotation or an agent a second before it writes, and acting on one sample wastes a
+   recovery session
+3. Spawns one small `claude --bg` session told to: TaskList → TaskStop the run →
+   `args_for.py` → relaunch. It is explicitly instructed **not** to read RESUME.md, not to
+   explore, and to keep output under 20 lines — the recovery must be cheap
+4. Exits, because the recovery session now owns the run
+
+Pass anything other than `act` as the 8th argument for alert-only behaviour.
+
+**Why act immediately rather than wait:** a wedged agent blocks its entire chapter, since
+wave 3 awaits every branch. And the bars are set at 1.5x the longest silence any *successful*
+agent of that stage has ever shown, so crossing one means doing something no healthy run has
+done. Waiting adds nothing to the diagnosis.
+
+
+### Model policy (2026-08-29): NO Opus
+
+| Tier | Agents |
+|---|---|
+| **Sonnet @ `xhigh`** | all authoring (A1, A2, A4, A5, A7, A9, A10, A12, A16, A13, A14) |
+| Sonnet @ `medium` | A8 sensitivity, A11 pagination |
+| **Haiku** | pure I/O only: Phase-0 setup, LP2 POST, batch-state update |
+| **Fable** | judgment / QC / verification passes |
+
+This REVERSES the earlier "authoring runs on Opus" rule. The user changed it while working
+through repeated spend limits; cost is the driver. Correctness is not model-dependent here —
+A5 enforces verbatim against the renders and A13 runs the A–D gates mechanically — so what
+changes is authored prose quality, not the verbatim or no-hallucination guarantees.
 
 ## 4. Scripts that matter
 

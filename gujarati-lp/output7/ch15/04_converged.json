@@ -1,0 +1,12 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "2c61ee434ef2b0a8462adc4f4fbda20c0f40e50fce37fbc11593e0798cc8c561",
+  "verdict": "pass",
+  "notes": [
+    "Convergence record only - NOT a copy of the structure. Downstream agents read the tree from 02_structure.json; this file only certifies that Agent 4's single pass passed and that ids are frozen from this moment.",
+    "chapter_id gseb_eng_gujarati7_ch15, genre patra_pravas, explanation unit 'એક પડાવ'. Frozen shape: 2 modules, 4 segments, 7 topics (M1.S1.T1 … M2.S4.T7), 10 chapter-continuous concepts (C1 … C10), 7 root objectives (O1 … O7) with L1 … L7 mapped one-to-one.",
+    "All three blocking checks passed: સ્વરૂપ fidelity (seven [[પડાવ]] markers to seven topics, one-to-one, journey order preserved, quoted verse held inside M2.S3.T4), coverage (every reading line 12-54 claimed, no સ્વાધ્યાય block and no printed picture cut as a topic), and objectives with the phase-2 id contract.",
+    "original_chunk is empty in every topic by design - Agent 5 fills it from the rendered page. Full check detail and the non-blocking notes for Agents 5, 10, 12 and 13 are in 04_validation.json."
+  ]
+}

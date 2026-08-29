@@ -1,0 +1,12 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "b60c1557bbcc1e1157a91f94dcef6926062caec659d6554289e722ca708d025f",
+  "verdict": "pass",
+  "notes": [
+    "Convergence record only — the structure payload is NOT duplicated here. Downstream agents read 02_structure.json for structure and this file only to confirm convergence, per reference/phase2_contract.md and the orchestrator's instructions.",
+    "All three Agent 4 checks passed on the first pass: સ્વરૂપ fidelity (8 [[ઘટના: …]] markers ↔ 8 topics, one per marker, no મિશ્ર/mixed misroute), coverage (all 8 reading scenes became topics in order, all 14 સ્વાધ્યાય blocks correctly excluded, apparatus boxes correctly excluded), and objectives/phase-2 contract (8 unique objectives O1–O8, every home_topic_id and anchor resolves, strand_to_objective_map covers L1–L8 exactly once, concept ids chapter-continuous C1–C12, no P-code anywhere).",
+    "Ids are frozen from this point per reference/loop_protocol.md and reference/naming_conventions.md — M1–M4 / S1–S4 / T1–T8 / C1–C12 / O1–O8 as written in 02_structure.json, until Agent 14's renumbering pass.",
+    "Full check detail lives in 04_validation.json in this same directory."
+  ]
+}

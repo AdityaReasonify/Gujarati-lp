@@ -1,0 +1,8 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 8",
+  "textbook_url": "../Textbooks-pdf/std-8/ch-06-pid-parai-jane-re.pdf",
+  "textbook_pages": "46–52",
+  "source": "printed folio, read off renders of pdf pp. 58 and 64 of the chapter PDF (page-1.png shows '46', page-7.png shows '52'); matches manifest.json row (printed_start 46, pdf 58-64) and 01_meta.json's textbook_pages",
+  "confidence": "medium",
+  "gaps": ["textbook_url is a local path — the GSEB readers have no hosted URL", "std-8 cover has not been read yet (profiles/boards/gseb_gujarati.md line 28: 'cover not read yet; confirm before writing it into textbook'); title carried from 01_meta.json's chapter context / manifest, not confirmed against a rendered cover"]
+}

@@ -1,0 +1,61 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati7_ch15",
+  "source": "02_structure.json",
+  "sha256": "2c61ee434ef2b0a8462adc4f4fbda20c0f40e50fce37fbc11593e0798cc8c561",
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "explanation_unit": "એક પડાવ",
+      "genre": "patra_pravas",
+      "markers": 7,
+      "topics_carrying_markers": 7,
+      "notes": [
+        "01_meta.json names the unit 'એક પડાવ' (patra_pravas -> one પડાવ, reference/explanation_unit_map.md). The cut uses exactly that unit: the seven [[પડાવ …]] markers in 00_chapter_normalized.md map one-to-one onto the seven topics, in printed order, and no topic exists without a marker.",
+        "કડી / દુહો / પદ / ટેક checks are satisfied by measurement, not by omission: 01_meta.json's structure_inventory records kadi=0, duha=0, pad=0, ghatna=0, tek_occurrences=0, padav=7, and 00_chapter_normalized.md carries no [[કડી]], [[દુહો]], [[પદ]] or [[ટેક]] marker. Nothing was merged and nothing was split.",
+        "Not a mixed chapter, and the cut agrees. The six quoted lines of યોગેશ જોષી ([[અવતરણ-કાવ્ય]], lines 34-39) stay inside M2.S3.T4's પડાવ as its second concept M2.S3.T4.C6 rather than becoming a POEM topic - correct under the profile's 'a digression stays inside its પડાવ' rule and under 01_meta.json's singular-genre diagnosis.",
+        "Journey order preserved (patra_pravas avoid-gate 1): topic sequence T1 to T7 is the printed sequence, and 'બીજા દિવસે સવારના પહોરમાં…' (M2.S4.T6) follows the first day (M2.S3.T4-T5). No reordering, no cut by subject.",
+        "No topic carries topic_category 'climax' (avoid-gate 6); no અલંકાર / છંદ / સમાસ / સાહિત્યપ્રકાર label appears in any objective or name (std 6-8 craft-label ceiling); no digits appear in any module, segment, topic or concept name.",
+        "Avoid-gates 2 and 3 (printed સંબોધન, sender block, sign-off; naming the addressee and the relationship) are the profile's પત્ર-shape gates. This chapter is the પ્રવાસવર્ણન shape and prints no salutation, no sender block and no sign-off - a measured absence. A2's note 12 records this correctly and forbids inventing an addressee; carried forward to Agents 12 and 13 rather than blocked here."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 7,
+      "topics": 7,
+      "notes": [
+        "Every reading scene became a topic, in order. Source line ranges in 02_structure.json cover every prose line of the reading matter in 00_chapter_normalized.md: T1=12-14, T2=17, T3=20-24, T4=29-39, T5=42, T6=45/47/51, T7=54. No reading line is left unclaimed and no topic claims text no marker covers.",
+        "The two [[ચિત્ર]] markers inside the reading matter (lines 26 and 49) correctly open no topic; line 49 sits inside M2.S4.T6's પડાવ and the three paragraphs 45/47/51 are held as one topic across it (patra_pravas: a printed picture never opens a topic).",
+        "No pre-reading topic exists, and that is correct here, not a gap. The only pre-reading matter this chapter prints is the blue teacher-addressed પ્રવેશપેટી (line 9), which reference/global_content_rules.md rule 7 and agents/02_structure.md classify as apparatus feeding key_terms and Agent 10 - not a topic. There is no student-addressed કવિ/લેખક-પરિચય paragraph in this std-7 unit (that is std 10's convention), and 01_meta.json records that no લેખક-પરિચય box is printed anywhere.",
+        "The in-text wrap is a topic: M2.S4.T7 ('મનમાં વસેલો સોનાનો કિલ્લો', topic_type REVIEW) carries the closing પડાવ ending 'જેસલમેરનો સોનાનો કિલ્લો સમગ્ર વિશ્વમાં આપણી કલાસમૃદ્ધિનું શિખર છે.'",
+        "No સ્વાધ્યાય block became a topic. All eleven entries of 01_meta.json.exercise_inventory were cross-checked against every topic_name and every planned source range: the exercise apparatus starts at line 59 of 00_chapter_normalized.md and the highest line any topic claims is 54, so no overlap is possible. The two blocks that print reading matter inside themselves - the સાબરમતી unseen paragraph and the printed 'પ્રવાસ જાહેરાત' - are claimed by no topic (patra_pravas avoid-gate 13), and neither is the colour photograph printed inside the picture-writing block.",
+        "The [[શબ્દાર્થ]] box (line 57) and the chapter-final [[આટલું જાણીએ]] information box are likewise claimed by no topic; 02_structure.json's not_cut_as_topics records both explicitly."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 7,
+      "notes": [
+        "Root objectives[] exists with seven objectives, O1-O7, all objective_id values unique; one objective anchor per reading scene.",
+        "Every home_topic_id resolves to a topic in this tree (M1.S1.T1 … M2.S4.T7) and every anchor[] id resolves to a concept in this tree (M1.S1.T1.C1 … M2.S4.T7.C10).",
+        "strand_to_objective_map covers every legacy_id exactly once: L1->O1 … L7->O7, single strand L / ભાષા અને સાહિત્ય throughout.",
+        "Every topic carries objective_ids and each id resolves to the registry; every concept's objective_id resolves too. objective_text lengths run 19-25 Gujarati words, inside the 12-30 band, and bloom_level is Capitalised as the contract requires.",
+        "Each objective is text-grounded and chapter-specific - each quotes or names something only this chapter prints ('સાવ એવું નથી', 'જેસલમેરની માટી જ સોનાની છે', 'તડકાથી કિલ્લો નહીં પણ તડકો કિલ્લાથી શોભતો હતો', યોગેશ જોષીની ટાંકેલી પંક્તિઓ, ઘડિયાળ અને સૂર્યાસ્તનો સમય, રાવણહથ્થો-સારંગી, 'રાજસ્થાન એટલે રંગોનો પ્રદેશ', 'કલાસમૃદ્ધિનું શિખર') and none could be pasted into another chapter. All seven serve the teaching_lens 'પડાવ + દૃષ્ટિ + સંબોધન' by asking what the writer saw at this stop and why he stops here.",
+        "Ids match reference/naming_conventions.md: modules M1-M2, segments M1.S1, M1.S2, M2.S3, M2.S4 (continuous, never restarting), topics T1-T7 continuous, concepts C1-C10 chapter-continuous across topics (M1.S2.T3 carries C3 and C4, M2.S3.T4 carries C5 and C6). No M1.S1.T1.P1-style objective code appears anywhere in the file."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Non-blocking, carried from 02_structure.json note 7 and left as A2 set it: M2.S4.T7 is typed REVIEW. A reading of it as a plain final પડાવ (STORY_TELLING) is defensible, but the last paragraph does function as the chapter's own value wrap, so REVIEW stands. Agent 13 may revisit; it does not stop the run.",
+    "Non-blocking, uneven topic lengths (02_structure.json note 13): M1.S1.T2, M2.S3.T5 and M2.S4.T7 hold one printed paragraph each while M1.S2.T3, M2.S3.T4 and M2.S4.T6 run to three; M2.S4.T7 is the shortest. Each is still a genuine change of place or of matter, which is this form's cut line, so the unevenness is a property of the essay, not of the cut.",
+    "Non-blocking, single-topic segment: M1.S2 holds only M1.S2.T3. A2's reason (the fort and its કોતરણી are the essay's centre and the source of the chapter title) is sound; recorded so Agent 13 sees it was deliberate.",
+    "For Agent 5 - provenance, not a defect: the author line '- અભિજિત વ્યાસ' is printed under the chapter title on the first page, not at the chapter end, so it belongs in NO topic's original_chunk. The gujarati_verbatim convention that puts a '- <name>' attribution inside the LAST topic does not apply to this chapter's layout. 02_structure.json's not_cut_as_topics already says so.",
+    "For Agent 5 - the [[અવતરણ-કાવ્ય]] marker line itself is not text; only lines 34-39 (the six quoted lines) enter M2.S3.T4's original_chunk, in printed order, with no reflowing and no 'correction' of 'ઝાંખ વળેલી' or of the unclosed opening quote.",
+    "For Agents 10 and 12 - carried from 01_meta.json and 02_structure.json: three શબ્દાર્થ entries (તળપ્રદેશ, કર્ણપ્રિય, પરિધાન) occur nowhere in this chapter's body prose, and the printed gloss against વ્યૂહાત્મક does not match the sense the body sentence uses. Both are printed facts to be reported, never silently corrected.",
+    "Method note: this validation was run entirely against 00_chapter_normalized.md, 01_meta.json and 02_structure.json. No PNG render was opened - no layout or figure question arose that the transcription could not answer, since 00_chapter_normalized.md already marks both in-text illustrations and their positions between paragraphs.",
+    "Ids are frozen from this pass. 04_converged.json is a convergence record pointing at 02_structure.json by sha256; downstream agents read the structure from 02_structure.json itself."
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Header gate. This topic's `original_chunk` must carry `(પ્રવેશ પહેલો)` and the whole opening direction `(મેવાડના શાહસોદાગર ભામાશાની પેઢી. મુનીમો ચોપડામાં માથું ઘાલી બેઠા છે. કોઈ કલમ વડે ખાતાં પાડે છે. કોઈ આંગળીને વેઢે હિસાબ ગણે છે. ભામાશા ગાદીતકિયે બેઠા અને સામે બેઠેલા મારવાડી વેપારી જગડુશા સાથે વાતમાં છે.)` character-for-character — two `(` in this chunk — and no other topic's `original_chunk` may repeat either of them. A version that reappears in `modified_chunk` or `explanation` as narration ('પેઢીમાં મુનીમો બેઠા હતા') instead of as a quoted direction is a hard fail.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No supplied narrator, nothing offstage invented. This beat has no speech at all; the direction says only that ભામાશા and જગડુશા are `વાતમાં છે`. No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concepts[].content` line or any `recall_questions[].answer` may state what the two are talking about, that a સોદો is on the table, or what either man wants, thinks or feels — and none may carry a `લેખક કહે છે કે` / `ભામાશાએ વિચાર્યું` / `તેને લાગ્યું કે` formula. What the room shows is allowed; what has not yet been spoken is not.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "Gloss gate on this direction's own trap word: `ખાતાં પાડે છે` must be glossed either in `key_terms` (which already carries `ખાતાં પાડવાં — ચોપડામાં જુદા જુદા હિસાબની અલગ નોંધ પાડવી`) or inline at first use in `explanation`, so that `ખાતાં` is not read as a form of ખાવું. Same for `ગાદીતકિયો` and `વેઢે`.",
+          "profile": "natak_ekanki",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક કૌંસમાં લખેલા આખા ફકરાને પાઠનું મથાળું કે છાપકામની સજાવટ ગણીને છોડી દે છે અને સીધું 'ભામાશા :' થી વાંચવા માંડે છે. એટલે નાટક ક્યાં ચાલે છે, મંચ પર કોણ કોણ છે અને ભામાશા કેવો માણસ છે — એ બધું જ, જે એક પણ પાત્ર બોલે તે પહેલાં જ મળી જતું હતું, હાથમાંથી જતું રહે છે.",
+      "correction": "સમજૂતી આ સૂચનાના પોતાના શબ્દોથી જ શરૂ કરો — મુનીમો, ચોપડા, કલમ, આંગળીના વેઢા, ગાદીતકિયો — અને પહેલા વાક્યમાં જ કહો કે કૌંસમાં લખેલી આ વાત પ્રેક્ષક જુએ છે, સાંભળતો નથી. પછી બાળકને એ જ ફકરામાંથી શોધવાનું આપો કે ભામાશાની પેઢી કેટલી મોટી હશે અને એ ક્યાં બેઠા છે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "No dropped or paraphrased રંગસૂચના. This beat's one direction `(હસીને)` — the single `(` in this `original_chunk` — must stand character-for-character immediately before ભામાશા's `હા, આવનારી પેઢીઓ ખાય, પણ ગયેલી બોતેર પેઢીની અસદ્ગતિ થાય.` and must not become narration ('ભામાશા હસ્યા'). At least one sentence of `explanation` must say what that laugh tells the audience which the words alone do not — that this refusal is being delivered without anger.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No reassigned speech. Ten labels alternate ભામાશા / જગડુ in printed order, opening on ભામાશા's `ભાઈ જગડુ ! તું કહે છે એ રીતે પૈસા તો મળે, પણ...` and closing on જગડુ's `ભલે ત્યારે, જેવી તમારી મરજી.` In particular `ઊગતા સૂરજને પૂજો. ભામાશા !` is જગડુ's line with ભામાશા as its vocative — no authored sentence may credit that advice to ભામાશા — and `ધનની પ્રાપ્તિનાં સાધનો પવિત્ર હોવાં જોઈએ.` is ભામાશા's, not જગડુ's.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No tacked-on બોધ. The beat ends on ભામાશા's own rule about પવિત્ર સાધનો, which is the strongest moralising temptation in the chapter. No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, a `concepts[].content` line or a `recall_questions[].answer` may end on `બોધ`, `સંદેશ`, `શિખામણ`, `ઉપદેશ`, or on a `આપણે … જોઈએ` clause. The only `જોઈએ` permitted in this topic's authored prose is the one quoted inside ભામાશા's own words.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No supplied narrator. `(હસીને)` is the only printed feeling in this beat. No sentence may add ભામાશાને ગુસ્સો આવ્યો, જગડુ શરમાયો, ભામાશા મનમાં વિચારે છે, or any interior state; the pressure between the two men has to be shown from the spoken lines themselves — `જગડુ, તું ભામાશાને શું ધારે છે ?` and `ભલે ત્યારે, જેવી તમારી મરજી.`",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "પહેલા દૃશ્યમાં 'પેઢી એટલે વેપારીની દુકાન' શીખ્યા પછી બાળક અહીંની 'બોતેર પેઢી બેઠી બેઠી ખાય' અને 'આવનારી પેઢીઓ ખાય, પણ ગયેલી બોતેર પેઢીની અસદ્ગતિ થાય' ને પણ દુકાનની જ વાત ગણી લે છે; હિન્દી વાંચતું બાળક વળી 'પેઢી' ને માત્ર વંશની પેઢી ગણીને પહેલા દૃશ્યની 'ભામાશાની પેઢી' ને ખોટી સમજે છે. બંને રીતે ભામાશા જગડુને શું જવાબ આપે છે એ જ ખોવાઈ જાય છે.",
+      "correction": "એક જ શબ્દ બે અર્થે વપરાયો છે એ પહેલી વાર આવે ત્યાં જ ગ્લોસ કરો — 'ભામાશાની પેઢી' એટલે વેપારીની કોઠી-દુકાન, ને 'બોતેર પેઢી' એટલે વંશની બોતેર પેઢી, જેનો પાઠનો પોતાનો અર્થ છે 'ખૂટે નહિ તેટલું'. પછી બતાવો કે ભામાશા જગડુના એ જ શબ્દને પકડી લે છે : જગડુ 'આવનારી પેઢીઓ' ની વાત કરે છે, ભામાશા સામે 'ગયેલી બોતેર પેઢી' મૂકે છે."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "No dropped or paraphrased રંગસૂચના. The beat's single direction `(જગડુ ઊભો થઈ ચાલ્યો જાય છે. એક બીજો મેવાડી પ્રવેશે છે.)` — the one `(` in this `original_chunk` — must stand character-for-character at the end of the chunk and must never be rewritten as narration ('પછી જગડુ ગુસ્સે થઈને જતો રહ્યો અને ઉદો આવ્યો'). At least one sentence of `explanation` must point out that this one line does two things at once: it takes one man off the stage and brings another on.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No supplied narrator, nothing offstage invented. The direction states only that જગડુ stands up and walks out. No sentence of `explanation`, the three summaries or a `recall_questions[].answer` may give him a feeling (ગુસ્સો, અપમાન, શરમ, હાર), a thought, or a destination, and none may say what he does after leaving the stage.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "The direction names the newcomer only as `એક બીજો મેવાડી`; his name arrives in the next beat's first line (`કેમ ઉદા ?`). This topic's `explanation` and its `recall_questions[].answer` should call him what the direction calls him, so the child sees that the audience does not yet know who has walked in.",
+          "profile": "natak_ekanki",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "'એ ભામાશાના હાથે ધૂળ ચાટતો થઈ જશે' સાંભળીને બાળક એને શબ્દશઃ મારપીટની ધમકી સમજે છે — જાણે ભામાશા કોઈને ધૂળ ચટાડવાના હોય — અને 'સારે માર્ગે બે પૈસા રળી ખા' પણ ખાવાની વાત લાગે છે. એટલે એક વેપારીની ચેતવણી લડાઈની ધમકી બની જાય છે અને ભામાશાનું પાત્ર જ બદલાઈ જાય છે.",
+      "correction": "પાઠના પોતાના શબ્દાર્થ પ્રમાણે પહેલી વાર આવે ત્યાં જ ગ્લોસ કરો — 'ધૂળ ચાટતા થઈ જશે' એટલે 'પૂરેપૂરા બરબાદ થઈ જશે', ને 'રળી ખા' એટલે 'મહેનત કરીને કમા'. પછી બતાવો કે ભામાશા પાસે તલવાર નથી, પેઢીની શાખ છે; એ વેપારીની જ ભાષામાં ચેતવણી આપે છે."
+    },
+    {
+      "topic_id": "M1.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "No dropped or paraphrased રંગસૂચના, and no cut through a governed pair. Both of this beat's directions must appear character-for-character — two `(` in this `original_chunk`: `(ગંભીર બનીને)` standing immediately before ભામાશા's `હેં !` and never detached from it, and the closing `(બંને ઊઠે છે)`. Neither may be re-narrated ('ભામાશા ગંભીર થઈ ગયા', 'પછી બંને ઊભા થયા').",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No supplied narrator. `(ગંભીર બનીને)` is the only printed evidence of what ભામાશા feels. No sentence of `explanation`, the summaries, a `concepts[].content` line or a `recall_questions[].answer` may add `તેને આઘાત લાગ્યો`, `તે મનમાં નક્કી કરે છે` or any unspoken thought; his decision is spoken aloud in `ઉદા, ઘોડો તૈયાર કર, મારે રાણાને મળવા જવું છે.` and must be attributed to that line.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "The printed text is never corrected, and સ્વાધ્યાય is never a source. The exercise block `નીચે આપેલો ફકરો વાંચીને સૂચના મુજબ લખો.` reprints this beat's ભામાશા and ઉદો speeches with `ઝંખવાશે ઉદા !` and `આવ્યો નહિ તો`. This topic's `original_chunk` and every quotation inside its authored prose must follow the body page instead — `ઝંખવાશે, ઉદા !` and `આવ્યો, નહિ તો` — and ઉદો's `ખવરાવવા` must not be harmonised to પ્રતાપ's `ખવડાવવા` from the next module.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No spoiling of the turn. This beat gives only `મારે રાણાને મળવા જવું છે`. No sentence of this topic's `explanation`, `real_life_example`, summaries or recall answers may say that ભામાશા will offer his કોઠાર, his ધન or બાર વર્ષનું ભંડોળ to the રાણો — that arrives three beats later.",
+          "profile": "natak_ekanki",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "'રાણો મેવાડ છોડી જાય છે' વાંચીને બાળક પોતાની મેળે કારણ મૂકી દે છે — 'રાણો ડરી ગયો', 'હારીને ભાગી ગયો' — જ્યારે કારણ તો ઉદો પોતે જ મંચ પર બોલી ચૂક્યો છે. આ ધોરણે બાળક કારણ શોધવાનું શીખે છે, પણ અહીં તે લખાણમાં ન હોય તેવું આજનું કારણ ગોઠવી દે છે.",
+      "correction": "ઉદાની પોતાની પંક્તિ સામે આંગળી મૂકો — 'સૈનિકોને ખવરાવવા મૂઠી જાર ન રહી ત્યારે મેવાડનો ત્યાગ કરવાનો વિચાર આવ્યો' — અને 'જાર' ને 'જુવાર જેવું જાડું ધાન્ય' તરીકે ત્યાં જ ગ્લોસ કરો. પછી બાળક પાસે એ જ પંક્તિમાંથી કારણ કહેવડાવો, અને ઉદાનું છેલ્લું વાક્ય 'નહિ તો કોઈને વતન છોડી જવું ગમે ખરું ?' પણ સાથે વંચાવો."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "Scene-header gate. `(પ્રવેશ બીજો)` and `(રાણો પ્રતાપ સલુંબરાજી, બીજા પટાવતો ને સામંત ઊભા છે.)` — the two `(` in this `original_chunk` — must stand character-for-character at its head, must appear in no other topic, and must not be re-narrated ('બીજા દૃશ્યમાં પ્રતાપ ઊભા હતા'). At least one sentence of `explanation` must say whom this direction puts on stage before પ્રતાપ opens his mouth.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No tacked-on બોધ. This beat is પ્રતાપ's patriotic farewell speech and is where the chapter most invites a moral. No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, a `concepts[].content` line or a `recall_questions[].answer` may end on `બોધ`, `સંદેશ`, `શિખામણ`, `ઉપદેશ` or on a `આપણે … જોઈએ` clause such as `આપણે પણ વતનને ચાહવું જોઈએ`. `મેવાડને સ્વતંત્ર ન કરું ત્યાં લગી હું પલંગે પોઢીશ નહીં` is one man's vow about his own situation, not a rule issued to the reader.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No reassigned speech. Five labels in printed order — `પ્રતાપ`, `સલુંબરાજી`, `એક પટાવત`, `એક સામંત`, `પ્રતાપ` — each attached to the same words: `ફરીથી મેવાડની ધરતી પર સિસોદિયાઓના ઘોડાઓના ડાબલા ગાજશે.` is `એક પટાવત`'s and `ને શાહજાદો સલીમ અને મહોબતખાં ઊભી પૂંછડીએ જીવ લઈ ભાગશે.` is `એક સામંત`'s. The label form `એક પટાવત` printed here must not be merged with the `પટાવત` printed in the next beat.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No supplied narrator. After the two opening directions this beat carries no bracketed direction at all, so nothing may be said about anyone's face, tears, posture or feelings. Every claim in `explanation` and the summaries must be traceable to a spoken line — પ્રતાપ's own `આજે તો હું લાચાર છું. મારા કોઠાર ખૂટી ગયા છે.` is where his state is stated, and it is stated aloud because a play has no narrator to state it.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'મા, રજા દે !', 'જનની જન્મભૂમિ !' અને 'ભાગ્યમાં હશે તો તારો ખોળો ખૂંદવા પાછા આવીશું' વાંચીને બાળક સમજે છે કે પ્રતાપ પોતાની સાચી માની રજા લેવા ઊભા છે અને મંચ પર ક્યાંક એની મા હશે. એટલે આખી વિદાય મેવાડની ધરતીની છે એ વાત જ ખોવાઈ જાય છે.",
+      "correction": "પહેલી જ પંક્તિમાં ગ્લોસ કરો કે અહીં 'મા' અને 'જનની' એટલે મેવાડની ધરતી, અને એની બાજુમાં એ જ ઉક્તિના 'મેવાડની ભૂમિ!', 'જન્મભૂમિ', 'તને બંધનમુક્ત કરીશું' શબ્દો મૂકીને બતાવો કે આખી વાત ધરતીને સંબોધીને કહેવાઈ છે. એટલું જ કહો કે પ્રતાપ ધરતીને માણસની જેમ બોલાવે છે — આ ધોરણે એ રીતનું કોઈ નામ આપવાનું નથી."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "No dropped or paraphrased રંગસૂચના. Both directions must stand character-for-character — two `(` in this `original_chunk`: `(દૂરથી ઘોડાના ડાબલા સંભળાય છે.)` opening the beat, and `(તલવાર ખેંચી)` immediately before સલુંબરાજી's `જય એકલિંગજી !`, never detached from it. Neither may be re-narrated ('અવાજ સાંભળીને સલુંબરાજીએ તલવાર કાઢી'). At least one sentence of `explanation` must say what the offstage sound does that no spoken line does — it puts everyone on guard before anyone can be seen.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No reassigned speech. Six labels in printed order — `પ્રતાપ`, `સલુંબરાજી`, `એક સામંત`, `પટાવત`, `સલુંબરાજી`, `પ્રતાપ`. `દુશ્મન હશે !` is `એક સામંત`'s and `ના, લાગે છે તો કોઈ મેવાડી.` is `પટાવત`'s; the page prints `પટાવત` here and `એક પટાવત` in the previous beat, and both stay exactly as printed in `original_chunk`.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "Nothing offstage invented. Nobody on stage has seen the rider. No sentence of `explanation`, the summaries or a `recall_questions[].answer` may state who is coming beyond સલુંબરાજી's own `અરે, આ તો ભામાશા !`, and none may describe the horse, the road, or anything happening away from the stage.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No spoiling of the turn. The beat ends on પ્રતાપ's question `કોણ ? ભામાશા ?`. No sentence of this topic's `explanation`, `real_life_example`, summaries or recall answers may answer it by naming ભામાશાનો કોઠાર, his ધન or his offer.",
+          "profile": "natak_ekanki",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "'દુશ્મન હશે !' અને 'લાગે છે તો કોઈ મેવાડી' ને બાળક બની ગયેલી ઘટના તરીકે વાંચે છે — 'દુશ્મન આવ્યો' — જ્યારે અહીં કોઈએ કશું જોયું જ નથી. માત્ર દૂરથી અવાજ આવ્યો છે અને દરેક પાત્ર પોતાની ધારણા બોલે છે; આ ધારણાઓ સાચી ઘટના ગણાય તો દૃશ્યની આખી ધડકન જ મરી જાય છે.",
+      "correction": "'હશે' અને 'લાગે છે' ને ત્યાં જ ગ્લોસ કરો — 'એવું હોઈ શકે, હજી નક્કી નથી'. પછી ચારેય ઉક્તિઓ સામસામે મૂકીને પૂછો કે એક જ અવાજ પરથી કોણે શું ધાર્યું, અને બતાવો કે નક્કી તો ત્યારે થાય છે જ્યારે સલુંબરાજી 'અરે, આ તો ભામાશા !' કહે છે."
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "No dropped or paraphrased રંગસૂચના. All three directions must stand character-for-character — three `(` in this `original_chunk`: `(પ્રવેશ કરી)` governing ભામાશા's first line, `(હર્ષથી)` governing પ્રતાપ's `આ સાચું બોલો છો, ભામાશા ?`, and the closing `(સહુ મેવાડનો જય ગજાવે છે. પડદો પડે છે.)`. The closing direction is the play's ending, not a stage note to skip: at least one sentence of `explanation` must treat it as the last thing the audience is given.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No tacked-on બોધ. This is the chapter's biggest moralising temptation because the exercises themselves ask about દાન. No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, a `concepts[].content` line or a `recall_questions[].answer` may end on `બોધ`, `સંદેશ`, `શિખામણ`, `ઉપદેશ`, `આપણે પણ દાન કરવું જોઈએ` or any `આપણે … જોઈએ` clause. The દાન questions belong to the printed સ્વાધ્યાય and to `exercise_solutions.json` alone.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "Nothing offstage invented. The play stops at `પડદો પડે છે`. No sentence of `explanation` or the summaries may say what happened afterwards — that મેવાડ was freed, that the war was won, or what the ધન was later spent on — and none may name `હલ્દીઘાટી`, which occurs in this chapter only inside the સ્વાધ્યાય પ્રવૃત્તિ `હલ્દીઘાટીના યુદ્ધ વિશે માહિતી મેળવી રજૂ કરો.` and never inside the play.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No supplied narrator. `(હર્ષથી)` is the only printed feeling in this beat. No sentence may add ભામાશાનું મન, પ્રતાપની આંખમાં આંસુ, or any unspoken thought; પ્રતાપ's judgement is spoken in his own `ધન્ય છે, ભામાશા ! તમારા જેવાં નરરત્નોથી મેવાડની ભૂમિ ઉજ્જવળ છે.`",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "`મારા ઘરમાં રૂંધાયેલી લક્ષ્મીએ પોકાર પાડ્યો છે. એ કહે છે : કોઈ પુણ્યકાર્યમાં મને વાપર.` is ભામાશા's own way of speaking. `explanation` must present it as his words about his own wealth; no sentence may state as an event that લક્ષ્મી spoke to him or that a goddess appeared on or off the stage.",
+          "profile": "natak_ekanki",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક છેલ્લા દૃશ્યને એટલું જ વાંચે છે કે 'એક શ્રીમંત વેપારીએ રાજાને દાન આપ્યું', અને પહેલા દૃશ્યની જગડુવાળી ના પાડવાની આખી વાત નકામી લાગે છે — જ્યારે નાટકનો વળાંક એ બે વચ્ચે જ છે : જે લક્ષ્મી ત્યાં ના પાડીને બચાવી, તે જ લક્ષ્મી અહીં ધરી દેવાય છે.",
+      "correction": "એક જ શબ્દ બે જગ્યાએ સામસામે મૂકો — પહેલા દૃશ્યનું 'એ શાપિત લક્ષ્મી જાય ત્યારે જડમૂળથી ખેદાનમેદાન કરીને' અને આ દૃશ્યનું 'જે લક્ષ્મી પવિત્ર સાધનો દ્વારા આવી છે એ લક્ષ્મીનું ફળ સારું જ મળશે' — અને પૂછો કે એ જ ભામાશા જગડુને ના પાડે છે ને રાણાને હા કેમ પાડે છે. સાથે 'તે ધન કોનું ? ભામાશાનું નહીં, પ્રજાનું' પંક્તિ પણ બતાવો; ભામાશાનો પોતાનો જવાબ એ જ છે."
+    }
+  ],
+  "chapter_level": [
+    "This play's speeches run on રૂઢિપ્રયોગ, and the chapter prints no separate રૂઢિપ્રયોગ block — the chapter-final શબ્દાર્થ box folds about forty entries and its idioms together. આંગળીને વેઢે હિસાબ ગણવો, મૂછનો દોરો ફૂટે છે, પાપનું પોટલું બાંધવું, એક તણખલુંયે, ન્યાલ કરી નાખશે, ધૂળ ચાટતા થઈ જશે, ઊગતા સૂરજને પૂજો, જડમૂળથી ખેદાનમેદાન કરીને, દલાલી ખાવાના, કીર્તિ ઝંખવાશે, એકલે હાથે ઝઝૂમ્યો, પીઠ બતાવીને, ઊભી પૂંછડીએ ભાગશે, પલંગે પોઢીશ નહીં, ચરણોની રજ — an L2 std-7 reader takes each of these literally. Gloss at the point of first use with the book's own printed sense, keep the idiom untouched inside `original_chunk`, and never neutralise it into plain prose.",
+    "Printed oddities of this chapter, to be kept exactly as printed and never silently 'corrected' anywhere in the plan: `હી હી હી ....` with four dots; `મેવાડની ભૂમિ!` and `જરૂર!` set with no space before the exclamation while the rest of the unit spaces it; `...અહીંથી દૂર ઘોડા ખેલાવી જશું તક મળશે તો ફરી આવીશું...` with no full stop between જશું and તક; ઉદો's `ખવરાવવા` against પ્રતાપ's `ખવડાવવા`; the same man labelled `એક પટાવત` on one page and `પટાવત` on the next; and the body's `પલંગે પોઢીશ નહીં` against the શબ્દાર્થ box's `પલંગે પોઢીશું નહિ`. None of these is an extraction defect and none may be harmonised.",
+    "The સ્વાધ્યાય blocks reprint the play's own lines — the ફકરા-વાચન block over ભામાશા's and ઉદો's speeches, and the ખાલી જગ્યા cloze over the climax speeches — and the `મને ઓળખો :` riddles even give a voice to `હું રાણા પ્રતાપનો ઘોડો`, who never stands on this stage. No topic's `original_chunk` may take a line from any of these blocks, the body page is the authority wherever the two differ, and nothing printed only in an exercise may enter a topic's authored prose.",
+    "Sensitivity, standing across the chapter: this is the Mewar–Mughal conflict in a patriotic register, and the play's own દુશ્મન language points at named individuals and their armies — શાહજાદો સલીમ, મહોબતખાં, બાદશાહ અકબર, `દુશ્મનનું લશ્કર`. Teach the play's own lens — વતનપ્રેમ and a merchant's દાન, one person standing against an injustice — and let no authored sentence widen દુશ્મન into a community, a region or a faith. જગડુ is refused for the deal he brings, not for being મારવાડી.",
+    "Std-7 label gate, across every topic: the plan names no literary device. `figures_of_speech` stays `[]`, and no authored sentence may use અલંકાર, સજીવારોપણ, રૂપક, છંદ or a સાહિત્યપ્રકાર tag, even though the play is full of the first two — the child notices the effect and never gets a term for it. Child-facing prose stays inside the book's own vocabulary — નાટક, પ્રવેશ, પાત્ર, સંવાદ, મંચ, and `કૌંસમાં લખેલી સૂચના` for a stage direction; `રંગસૂચના` is this pipeline's term and is not printed anywhere in the chapter.",
+    "This chapter prints no `પાત્રો` cast list. The whole roster reaches the audience through two directions — `(મેવાડના શાહસોદાગર ભામાશાની પેઢી …)` and `(રાણો પ્રતાપ સલુંબરાજી, બીજા પટાવતો ને સામંત ઊભા છે.)` — and through the names characters call each other by. A plan that treats either direction as skippable front matter leaves the child with no idea who is on stage at all."
+  ]
+}

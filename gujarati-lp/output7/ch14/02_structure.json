@@ -1,0 +1,469 @@
+{
+  "_provenance": {
+    "agent": "02_structure",
+    "chapter_id": "gseb_eng_gujarati7_ch14",
+    "plan_id": "gseb_eng_gujarati7_ch14_v1",
+    "grade": 7,
+    "level": "standard",
+    "genre": "એકાંકી-નાટક",
+    "active_genre_profiles": ["natak_ekanki.md"],
+    "explanation_unit": "એક દૃશ્ય-પ્રસંગ (સંવાદ-ખંડ) — one stage-beat",
+    "teaching_lens": "સંવાદ + રંગસૂચના + વળાંક",
+    "guiding_question": "ભામાશા જગડુના સોદાની ના પાડે છે, ને એ જ ભામાશા પોતાનો આખો કોઠાર રાણા પ્રતાપ સામે ખોલી દે છે — આ પલટો સંવાદ અને રંગસૂચના દ્વારા પ્રેક્ષક સુધી કેવી રીતે પહોંચે છે ?",
+    "source": "output7/ch14/00_chapter_normalized.md",
+    "text_markers_in_source": 12,
+    "text_markers_carried_by_topics": 12,
+    "topic_count": 7,
+    "topic_cap_from_structure_inventory": 12,
+    "note": "_source_markers is authoring scaffolding for Agents 4 and 5 and is stripped before emit; original_chunk stays empty for Agent 5."
+  },
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પેઢીના આરંભના કૌંસવાળા વર્ણનમાંથી મુનીમો, ચોપડા અને ગાદીતકિયો શોધીને, કોઈ બોલે તે પહેલાં જ આ જગ્યા ભામાશા વિશે શું કહી દે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "જગડુ કઈ કઈ લાલચ આપે છે અને ભામાશા કયા કારણે ના પાડે છે તે સંવાદમાંથી શોધીને, 'શાપિત લક્ષ્મી' કોને કહી છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": ["M1.S1.T2.C2", "M1.S1.T2.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "જતાં જતાં ભામાશા બીજા વેપારીઓને શી ચેતવણી આપે છે તે વાંચી, કૌંસમાં લખેલી સૂચના મંચ પરથી કોને બહાર કાઢે છે અને કોને લાવે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": ["M1.S2.T3.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઉદો લાવેલા સમાચાર પછી ભામાશા 'ઘોડો તૈયાર કર' કેમ કહે છે તે સમજાવવું, અને 'ગંભીર બનીને' સૂચના શું ઉમેરે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T4",
+      "anchor": ["M1.S2.T4.C5", "M1.S2.T4.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પ્રતાપ મેવાડની ભૂમિને 'મા' કહીને શું માગે છે અને પોતાની કઈ લાચારી સામંતો સામે કબૂલે છે તે એની ઉક્તિમાંથી શોધીને કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": ["M2.S3.T5.C7", "M2.S3.T5.C8"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દૂરથી ડાબલા સંભળાતાં સલુંબરાજી તલવાર કેમ ખેંચે છે તે વિચારીને, અવાજ પરથી પાત્રો જુદી જુદી ધારણા બાંધે એ ક્ષણ મંચ પર કેવી લાગે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": ["M2.S3.T6.C9"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ભામાશા પહેલાં ના પાડેલી લક્ષ્મી અને હવે આપેલી લક્ષ્મી વચ્ચેનો ભેદ સમજાવીને, છેલ્લી સૂચના સુધીમાં મેવાડની ભૂમિ વિશેની વાત કેમ પલટાઈ તે તપાસવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S4.T7",
+      "anchor": ["M2.S4.T7.C10", "M2.S4.T7.C11", "M2.S4.T7.C12"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7"
+  },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "ભામાશાની પેઢીમાં લેવાયેલો નિર્ણય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "પેઢીનું દૃશ્ય અને સોદાનો ઇનકાર",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "ચોપડા, મુનીમ અને ગાદીતકિયો",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O1",
+                  "legacy_id": "L1",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "પેઢીના આરંભના કૌંસવાળા વર્ણનમાંથી મુનીમો, ચોપડા અને ગાદીતકિયો શોધીને, કોઈ બોલે તે પહેલાં જ આ જગ્યા ભામાશા વિશે શું કહી દે છે તે કહેવું.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M1.S1.T1",
+                  "anchor": ["M1.S1.T1.C1"],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "",
+              "_source_markers": [
+                "[[પ્રવેશ પહેલો]]",
+                "[[રંગસૂચના: આરંભનું દૃશ્ય — ભામાશાની પેઢી]]"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "ખૂલતાં જ દેખાતી પેઢી",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "લખલૂટ પૈસાની લાલચ સામે ભામાશાની ના",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O2"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O2",
+                  "legacy_id": "L2",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "જગડુ કઈ કઈ લાલચ આપે છે અને ભામાશા કયા કારણે ના પાડે છે તે સંવાદમાંથી શોધીને, 'શાપિત લક્ષ્મી' કોને કહી છે તે સમજાવવું.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M1.S1.T2",
+                  "anchor": ["M1.S1.T2.C2", "M1.S1.T2.C3"],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "",
+              "_source_markers": [
+                "[[સંવાદ: ભામાશા અને જગડુ — સોદાની વાત]]"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "લખલૂટ પૈસાની લાલચ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S1.T2.C3",
+                  "concept_name": "શાપિત લક્ષ્મી અને પવિત્ર સાધનો",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "જગડુની વિદાય અને ઉદાના સમાચાર",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "વિદાય લેતો જગડુ, પ્રવેશતો ઉદો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T2"],
+              "objective_ids": ["O3"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O3",
+                  "legacy_id": "L3",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "જતાં જતાં ભામાશા બીજા વેપારીઓને શી ચેતવણી આપે છે તે વાંચી, કૌંસમાં લખેલી સૂચના મંચ પરથી કોને બહાર કાઢે છે અને કોને લાવે છે તે કહેવું.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M1.S2.T3",
+                  "anchor": ["M1.S2.T3.C4"],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "",
+              "_source_markers": [
+                "[[ઘટના: જગડુની વિદાય અને ઉદાનો પ્રવેશ]]"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C4",
+                  "concept_name": "છેલ્લી ચેતવણી અને બદલાતું મંચ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T4",
+              "topic_name": "ઉદાના સમાચાર અને ભામાશાનો સંકલ્પ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O4"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O4",
+                  "legacy_id": "L4",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "ઉદો લાવેલા સમાચાર પછી ભામાશા 'ઘોડો તૈયાર કર' કેમ કહે છે તે સમજાવવું, અને 'ગંભીર બનીને' સૂચના શું ઉમેરે છે તે કહેવું.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M1.S2.T4",
+                  "anchor": ["M1.S2.T4.C5", "M1.S2.T4.C6"],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "",
+              "_source_markers": [
+                "[[સંવાદ: ભામાશા અને ઉદો — રાણો મેવાડ છોડી જાય છે]]",
+                "[[રંગસૂચના: પ્રવેશ પહેલાનો અંત]]"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T4.C5",
+                  "concept_name": "રાણો મેવાડ છોડી જાય છે",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S2.T4.C6",
+                  "concept_name": "ઘોડો તૈયાર કર",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "મેવાડની વિદાયવેળા અને ખૂલેલો કોઠાર",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "વિદાયની ઘડી અને દૂરથી આવતો અવાજ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "મેવાડની ભૂમિને છેલ્લા જુહાર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O5"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O5",
+                  "legacy_id": "L5",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "પ્રતાપ મેવાડની ભૂમિને 'મા' કહીને શું માગે છે અને પોતાની કઈ લાચારી સામંતો સામે કબૂલે છે તે એની ઉક્તિમાંથી શોધીને કહેવું.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M2.S3.T5",
+                  "anchor": ["M2.S3.T5.C7", "M2.S3.T5.C8"],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "",
+              "_source_markers": [
+                "[[પ્રવેશ બીજો]]",
+                "[[રંગસૂચના: બીજા પ્રવેશનું દૃશ્ય]]",
+                "[[સંવાદ: પ્રતાપની મેવાડને વિદાય]]"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C7",
+                  "concept_name": "જનની જન્મભૂમિને છેલ્લી સલામ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T5.C8",
+                  "concept_name": "ખૂટેલા કોઠારની કબૂલાત",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "દૂરથી સંભળાતા ઘોડાના ડાબલા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O6"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O6",
+                  "legacy_id": "L6",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "દૂરથી ડાબલા સંભળાતાં સલુંબરાજી તલવાર કેમ ખેંચે છે તે વિચારીને, અવાજ પરથી પાત્રો જુદી જુદી ધારણા બાંધે એ ક્ષણ મંચ પર કેવી લાગે તે કહેવું.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M2.S3.T6",
+                  "anchor": ["M2.S3.T6.C9"],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "",
+              "_source_markers": [
+                "[[ઘટના: દૂરથી ઘોડાના ડાબલા સંભળાય છે]]"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C9",
+                  "concept_name": "અવાજ પરથી બંધાતી ધારણા",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "ભરેલો કોઠાર અને પવિત્ર લક્ષ્મી",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T7",
+              "topic_name": "ભામાશાનો પ્રવેશ અને ખૂલી ગયેલો કોઠાર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": ["M1.S1.T2", "M1.S2.T4", "M2.S3.T6"],
+              "objective_ids": ["O7"],
+              "learning_objectives": [
+                {
+                  "objective_id": "O7",
+                  "legacy_id": "L7",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "ભામાશા પહેલાં ના પાડેલી લક્ષ્મી અને હવે આપેલી લક્ષ્મી વચ્ચેનો ભેદ સમજાવીને, છેલ્લી સૂચના સુધીમાં મેવાડની ભૂમિ વિશેની વાત કેમ પલટાઈ તે તપાસવું.",
+                  "bloom_level": "Evaluate",
+                  "home_topic_id": "M2.S4.T7",
+                  "anchor": ["M2.S4.T7.C10", "M2.S4.T7.C11", "M2.S4.T7.C12"],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "",
+              "_source_markers": [
+                "[[ઘટના: ભામાશાનો પ્રવેશ અને ધનનું અર્પણ]]",
+                "[[રંગસૂચના: નાટકનો અંત]]"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T7.C10",
+                  "concept_name": "ભરેલા કોઠારની ભેટ",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S4.T7.C11",
+                  "concept_name": "રૂંધાયેલી લક્ષ્મીનો પોકાર",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S4.T7.C12",
+                  "concept_name": "ભૂમિ કદી કોઈને તાબે થવાની નથી",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "notes": [
+    "MARKER RECONCILIATION (for Agent 4). 00_chapter_normalized.md carries 12 non-apparatus [[…]] markers. All 12 are carried, in printed order, by the 7 topics; none is swallowed and no topic was invented where no marker sits. The mapping is recorded per topic in _source_markers. Four merges were forced by natak_ekanki.md's hard (A4) gates and are the only departures from a 1:1 marker-to-topic reading: (a) T1 merges [[પ્રવેશ પહેલો]] + [[રંગસૂચના: આરંભનું દૃશ્ય]] because the profile requires the header — scene header plus the opening full-paragraph direction — to sit in exactly ONE topic; (b) T4 merges [[સંવાદ: ભામાશા અને ઉદો]] + [[રંગસૂચના: પ્રવેશ પહેલાનો અંત]] because '(બંને ઊઠે છે)' is the exit direction governing ભામાશા's preceding speech, and no topic may open on a direction whose speech sits in the previous topic; (c) T5 merges [[પ્રવેશ બીજો]] + [[રંગસૂચના: બીજા પ્રવેશનું દૃશ્ય]] + [[સંવાદ: પ્રતાપની મેવાડને વિદાય]] for the same header reason; (d) T7 merges [[ઘટના: ભામાશાનો પ્રવેશ…]] + [[રંગસૂચના: નાટકનો અંત]] because '(સહુ મેવાડનો જય ગજાવે છે. પડદો પડે છે.)' is the closing direction landing on સલુંબરાજી's last line.",
+    "TOPIC-INFLATION GATE. 01_meta.json records stage_changes_total 11 and max_topics_incl_header_topic 12. This cut has 7 topics, comfortably inside the cap. The ભામાશા–જગડુ bargaining exchange is kept as ONE topic (T2) exactly as natak_ekanki.md instructs by name — nothing on the stage changes across it — and its internal turns (the lure, then the doctrine of પવિત્ર સાધનો) are carried by two concepts rather than by two topics.",
+    "T7 CARRIES THREE CONCEPTS, deliberately. Agent 2's spec warns that wanting three concepts usually means the cut is wrong; here the cut cannot be revised without inventing a topic where Agent 1 placed no marker. [[ઘટના: ભામાશાનો પ્રવેશ અને ધનનું અર્પણ]] spans the entrance, the offer, the (હર્ષથી) turn, the લક્ષ્મી speech and the જયઘોષ — the play's whole climax — and natak_ekanki.md explicitly routes such internal turns into concepts[]. The three concepts are the offer, the લક્ષ્મી speech, and the closing declaration.",
+    "UNEVEN TOPIC LENGTH, flagged for Agents 4 and 13. T2 (about a printed page and a half) and T7 (the climax) are markedly longer than T3 and T6; T6 is a seven-line exchange. This is the shape of the printed play, not a defect of the cut: the two long beats are single unchanged situations, and the short one is the sound-arrival hinge. Agent 12 should expect to lean on the concept layer in T2 and T7.",
+    "M2.S4 HOLDS A SINGLE TOPIC. The climax beat is given its own segment because it is the chapter's resolving movement and thematically answers M1.S1 — the શાપિત લક્ષ્મી refused there returns here as the પવિત્ર લક્ષ્મી offered. If Agent 4 prefers segments of even weight, T7 could be folded into M2.S3; the ids would then need renumbering.",
+    "PROFILE PRIOR vs THE PAGE — no disagreement. natak_ekanki.md's own provenance is built partly on this very chapter, and its stated shape (no પાત્રો cast list, centred (પ્રવેશ પહેલો)/(પ્રવેશ બીજો) headers, a full-paragraph opening direction, the closing (સહુ મેવાડનો જય ગજાવે છે. પડદો પડે છે.)) matches the render as transcribed. The explanation unit taken from 01_meta.json — એક દૃશ્ય-પ્રસંગ (સંવાદ-ખંડ) — is the unit used here.",
+    "CRAFT-LABEL CEILING (std 7). No objective names a સાહિત્યપ્રકાર, અલંકાર, છંદ or સમાસ. The stage directions are referred to as 'કૌંસમાં લખેલી સૂચના' and quoted by their printed words ('ગંભીર બનીને', 'હર્ષથી'), never as રંગસૂચના, so the child notices the device without being handed a label. profiles/students/std-7.md section 2's genre gate is respected throughout.",
+    "APPARATUS DELIBERATELY NOT CUT AS TOPICS: the teacher-addressed blue પ્રવેશપેટી on printed p. 93 (Agent 1's own marker says 'પાઠ નથી'), the chapter-final શબ્દાર્થ box on p. 95, and all twelve numbered exercise blocks on pp. 96–98. They stay with 01_meta.json's exercise_inventory for Agent 10 and feed key_terms for Agent 6.",
+    "DEPENDS_ON is asserted only where the text really carries a dependence: T2 on T1 (the opening direction is the only place જગડુશા and the પેઢી are identified); T3 on T2 (the parting warning closes that argument); T7 on T2 (પવિત્ર સાધનો / શાપિત લક્ષ્મી returns with its meaning changed), on T4 (ભામાશા arrives because of 'ઘોડો તૈયાર કર') and on T6 (the recognition 'અરે, આ તો ભામાશા !' hands him the stage). T1, T4, T5 and T6 carry [].",
+    "DIFFICULTY is relative inside this chapter and set by what stops a std-7 L2 reader on the page, never by craft: hard on T2 (idiom density — લખલૂટ, બોતેર પેઢી, અસદ્ગતિ, મૂછનો દોરો ફૂટે, પાપનું પોટલું, તણખલુંયે, ન્યાલ, ઊગતા સૂરજને પૂજો, જડમૂળથી ખેદાનમેદાન), hard on T5 and T7 (long તત્સમ-dense rhetorical speeches — જુહાર, બંધનમુક્ત, કિન્નાખોરી, પલંગે પોઢીશ, નરરત્નો, સ્વાતંત્ર્યના સ્વર્ગમાં વિહરતી, ઉજ્જવલિત), easy on T6 (short exchanged lines). Bloom is not capped anywhere: O7 reaches Evaluate on a hard topic and O6 reaches Analyze on the easy one.",
+    "No page render was opened. Every decision above was taken from 00_chapter_normalized.md and 01_meta.json, which together answered the layout questions (the printed પ્રવેશ headers, the eleven directions, the absence of a પાત્રો box)."
+  ]
+}

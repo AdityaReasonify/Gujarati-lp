@@ -1,0 +1,157 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `detailed_summary`, `concept_bullets`, or any `recall_questions[].answer` states as verified historical fact, or debunks as legend, the topic's own framed miracle in ‘કહેવાય છે કે છેક આઠ વર્ષની ઉંમર સુધી નરસિંહ બોલતાં શીખ્યા નહોતા પરંતુ બોલતા થયા પછી જે ચમત્કાર થયો એ જેવોતેવો નથી. એ ચમત્કાર કયો ? ગુજરાતને એક મહાન કવિ મળ્યા તે ચમત્કાર !’ — a phrase asserting it really happened, or one calling it scientifically impossible, both fail; the field may only report it the way the chapter itself hedges it, with 'કહેવાય છે કે'.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `summary`, `detailed_summary` or recall `answer` states an exact calendar year for નરસિંહ મહેતાનો જન્મ or the speaking event; only the printed ‘તેઓ પંદરમા શતકમાં થઈ ગયા.’ (a century, not a year) may be used, and the age in ‘કહેવાય છે કે છેક આઠ વર્ષની ઉંમર સુધી નરસિંહ બોલતાં શીખ્યા નહોતા પરંતુ બોલતા થયા પછી જે ચમત્કાર થયો એ જેવોતેવો નથી.’ is the only figure licensed.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation` opens on an epithet about નરસિંહ before stating the printed fact chain — ‘તેઓ માત્ર પાંચ વર્ષના હતા ત્યારે જ તેમનાં માતા-પિતાનું અવસાન થયેલું.’ and ‘બાળ નરસિંહને દાદીમા જયગૌરીએ ઉછેર્યો હતો.’ and that he did not speak until eight — the epithet 'મહાન', if used at all, must be the chapter's own words in ‘ગુજરાતને એક મહાન કવિ મળ્યા તે ચમત્કાર !’, placed after that chain, never before it.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક પ્રશ્નોત્તર ‘એ ચમત્કાર કયો ? ગુજરાતને એક મહાન કવિ મળ્યા તે ચમત્કાર !’ને સપાટી પરથી વાંચીને એમ સમજી લે છે કે 'ચમત્કાર' એટલે આઠ વર્ષે અચાનક બોલતાં થઈ જવાની ઘટના પોતે જ — અને ચૂકી જાય છે કે લખાણ પોતે જ પ્રશ્ન પૂછીને પોતાનો જવાબ આપે છે કે ખરો 'ચમત્કાર' તો ગુજરાતને એક કવિ મળવો એ છે.",
+      "correction": "`explanation` લખાણના પોતાના પ્રશ્ન-જવાબ ક્રમને અનુસરે: પહેલાં નરસિંહ મોડા બોલતાં શીખ્યા એ જણાવવું, પછી લખાણનો પોતાનો સવાલ ‘એ ચમત્કાર કયો ?’ ટાંકવો, અને છેલ્લે લખાણનો પોતાનો જવાબ — ગુજરાતને કવિ મળ્યા તે — જ ચમત્કારનો અર્થ છે એમ સ્પષ્ટ કરવું."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "No authored field states that the vanમાં જવાની સાધનાથી literally a supernatural change occurred, nor denies it; the field must preserve the chunk's own hedge word 'જાણે' (as if) in ‘એ સાધનાથી જાણે ચમત્કાર થયો, પાછા ફર્યા ત્યારે નરસિંહ બદલાઈ ગયા હતા.’ — report it as the chapter's own comparison, never as an asserted or a debunked event.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No authored field attributes an unstated feeling or thought to નરસિંહ at the moment ‘એકવાર નરસિંહને ભાભીએ મેણું માર્યું એટલે તેઓ વનમાં ગયા.’ — the topic's `original_chunk` states only that the taunt happened and that he went to the forest, nothing about what he felt or thought.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "વાક્ય ‘એ સાધનાથી જાણે ચમત્કાર થયો, પાછા ફર્યા ત્યારે નરસિંહ બદલાઈ ગયા હતા.’ બે ખંડનું છે; બાળક પહેલા ખંડ 'ચમત્કાર થયો'ને શબ્દશઃ, ખરેખર બનેલી ઘટના ગણી લે છે, અને 'જાણે' શબ્દ તથા બીજા ખંડમાં ખરેખર શું બદલાયું (ગરીબી છતાં કાયમની પ્રસન્નતા) એ ચૂકી જાય છે.",
+      "correction": "`explanation` બંને ખંડને જોડે: પહેલાં 'જાણે' શબ્દ સમજાવવો (એટલે કે જેમ કે, ખરેખર નહીં), અને પછી શું ખરેખર બદલાયું — ગરીબી છતાં કાયમની પ્રસન્નતા અને ભક્તિમાં લીનતા — એ ચોક્કસ જણાવવું."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Every quotation-marked span of `explanation`, `key_terms`, `concept_bullets` or a recall `answer` reproducing a line from ‘જાગને જાદવા કૃષ્ણ ગોવાળિયા, તુજ વિના ધેનમાં કોણ જાશે ?’ or ‘ભણે નરસૈયો એનું દર્શન કરતાં કુળ એકોતેર તાર્યાં રે!’ or ‘નરસૈયાના નાથ પાસેથી નાગણે નાગ છોડાવિયો’ must match this topic's `original_chunk` character-for-character — 'નરસૈયો'/'નરસૈયાના', 'છોડાવિયો', 'તુજ' kept exactly, never modernised to 'નરસિંહ', 'છોડાવ્યો' or 'તારા'.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "`rhyme_scheme` stays `null` and no `figures_of_speech` entry names a device (પ્રાસ, અલંકાર or છંદ) for this topic despite the three quoted pad-lines; any entry, if present at all, may only quote exact words already inside this topic's own `original_chunk`.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક પદોમાં વપરાયેલા 'નરસૈયો' નામને જોડણીની ભૂલ અથવા બીજી કોઈ વ્યક્તિનું નામ સમજી લે છે, અને ચૂકી જાય છે કે એ તો ખુદ નરસિંહ મહેતાએ પોતાનાં પદોમાં પોતાના માટે વાપરેલી છાપ (પોતાનું નામ) છે — જૂની જોડણી, ભૂલ નહીં.",
+      "correction": "`explanation` કે `key_terms` સ્પષ્ટ કરે કે 'નરસૈયો' નરસિંહ મહેતાએ પોતે જ, પોતાનાં પદોમાં, પોતાના માટે વાપરેલું નામ (છાપ) છે — એટલે જ આ પંક્તિઓ સાબિત કરે છે કે આ પદો ખરેખર એમણે જ રચ્યાં છે."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `summary`, `detailed_summary` or a recall `answer` extends ‘સાચો ભારતીય કોણ એ સમજવું હોય તો પણ આ પદમાં વૈષ્ણવજનના જે ગુણો આપ્યા છે એ વાંચવા-સમજવા પડે.’ — a sentence this topic's `original_chunk` carries — into a closing instruction of the shape 'આપણે સૌએ સાચા ભારતીય બનવું જોઈએ'; the idea, if used, stays reported as what the પદ shows, never issued as a command to the child.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Wherever `explanation` or `key_terms` reproduces the pad's opening line, the quoted span matches this topic's `original_chunk` character-for-character — ‘વૈષ્ણવજન તો તેને રે કહીએ’ as it appears in ‘નરસિંહનું \"વૈષ્ણવજન તો તેને રે કહીએ\" પદ રાષ્ટ્રપિતા ગાંધીજીને બહુ ગમતું.’ — with no word replaced or modernised.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "લખાણમાં ગાંધીજી ક્યારે થઈ ગયા એ કોઈ તારીખ કે સૈકો આપ્યાં નથી; બાળક નરસિંહ મહેતા (પંદરમો સૈકો) અને ગાંધીજી (વીસમો સૈકો)ને લગભગ સમકાલીન સમજી લે એવો ભય છે — જાણે ગાંધીજી નરસિંહના જીવન-પ્રસંગના જ કોઈ પાત્ર હોય.",
+      "correction": "`explanation` સ્પષ્ટ કરે કે નરસિંહ મહેતા પંદરમા સૈકામાં થઈ ગયા અને ગાંધીજી એમનાથી ઘણા સૈકાઓ પછી જન્મ્યા — ગાંધીજી આ પદના એક પ્રશંસક-વાચક છે, નરસિંહના જીવન-પ્રસંગનું પાત્ર નહીં."
+    },
+    {
+      "topic_id": "M3.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "No authored field states as verified fact, or denies, that શામળશા શેઠ was really ભગવાન in disguise — ‘આ શામળશા શેઠ તે બીજા કોઈ નહિ, સ્વયં શામળિયા ભગવાન ! શામળશા બનીને ભગવાન આવેલા એ કથા ખૂબ જ જાણીતી છે.’ is reported the way the chapter reports it, as a well-known કથા, never as history and never as a debunked story.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No authored field attributes an unstated thought or decision-moment to નરસિંહ at the moment he wrote the hundi — the `original_chunk` states only ‘નરસિંહ તો રહ્યા ભોળિયા ભક્ત.’ and that he wrote it in શામળશા શેઠનું નામ, nothing about an inner deliberation.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "વાક્ય ‘મહેતાજીની ઈર્ષ્યા કરનારા લોકોએ કેટલાક અજાણ્યા યાત્રાળુઓને નરસિંહ મહેતા પાસે એમ કહીને મોકલ્યા કે જાઓ નરસિંહ તો મોટા શેઠ છે.’માં 'મોટા' શબ્દને બાળક હિન્દી 'मोटा' (જાડા)ના અર્થમાં વાંચી લે એવો ભય છે, જ્યારે અહીં 'મોટા શેઠ' એટલે મોટા દરજ્જાના, શ્રીમંત, પ્રતિષ્ઠિત શેઠ.",
+      "correction": "`key_terms`માં 'મોટા શેઠ — મોટા દરજ્જાના, શ્રીમંત શેઠ' એમ, વપરાયાના સ્થળે જ, ગ્લોસ કરવો, જેથી હિન્દી 'मोटा' (જાડું) સાથે ભેળસેળ ન થાય."
+    },
+    {
+      "topic_id": "M3.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "No authored field states as verified fact, or denies, that ભગવાને પોતે કુંવરબાઈનું મામેરું ભર્યું — ‘એવી જ રીતે નરસિંહ મહેતાની દીકરી કુંવરબાઈનું મામેરું સ્વયં ભગવાને ભર્યું હતું એ લોકકથા પણ જાણીતી છે.’ stays reported as a known લોકકથા, never as historical fact and never as a debunked myth.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No authored field attributes fear, doubt or worry to નરસિંહ during his imprisonment — this topic's `original_chunk` states the opposite in ‘રાજાએ ખોટા આરોપસર નરસિંહ મહેતાને કેદમાં નંખાવ્યા હતા, પરંતુ મહેતાજી જરાય વિચલિત ન થયા.’, and no field may add an unstated feeling contradicting or supplementing that printed calm.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "મામેરાની લોકકથા અને પછીના વાક્ય ‘નરસિંહ મહેતાની કીર્તિ અપાર હતી.’થી શરૂ થતી ઈર્ષ્યા-કેદની ઘટનાને બાળક એક જ કારણ-પરિણામ સાંકળમાં જોડી દઈ શકે, જાણે મામેરાના ચમત્કારને લીધે જ દીવાનને ઈર્ષ્યા થઈ — જ્યારે લખાણ દીવાનની ઈર્ષ્યાનું કારણ નરસિંહની સામાન્ય કીર્તિ જણાવે છે, મામેરાની ઘટના ખાસ નહીં.",
+      "correction": "`explanation` બંને લોકકથાને અલગ-અલગ, ક્રમશઃ ઘટના તરીકે કહે: પહેલાં મામેરું પૂરું કરીને, પછી નવેસરથી બીજી કથા એમ કહીને કીર્તિ-ઈર્ષ્યા-કેદ-મુક્તિની સાંકળ, બંનેને એક કારણ-પરિણામ તરીકે ભેળવ્યા વિના."
+    },
+    {
+      "topic_id": "M4.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "The couplet ‘એવા રે અમે એવા રે, વળી તમે કહો છો તેવા રે ! ભક્તિ કરતાં જો ભ્રષ્ટ કહેશો તો કરશું દામોદરની સેવા રે !\"’ must appear character-for-character wherever quoted in `explanation`, `key_terms` or a recall `answer` — no word replaced, no modern spelling substituted.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Any authored field containing 'અમે' or 'તમે' from this couplet keeps it inside quotation marks and attributes it to નરસિંહ મહેતા as his own spoken words — no authored field uses 'અમે' as the writer's or the child's own voice.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `summary`, `detailed_summary` or a recall `answer` closes on 'આપણે પણ ઊંચનીચનો ભેદ ન રાખવો જોઈએ' or a similar generalised equality-lesson that is not a verbatim quotation from this chapter.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક છેલ્લી પંક્તિ 'ભક્તિ કરતાં જો ભ્રષ્ટ કહેશો તો કરશું દામોદરની સેવા રે !'ને નરસિંહની પોતાની ભૂલ કબૂલવા જેવું, નમતું વલણ સમજી લે એવો ભય છે; ખરેખર એ મક્કમ, નિર્ભય જવાબ છે — તમે ગમે તે કહો, ભક્તિ છોડીશ નહીં એવી જાહેરાત.",
+      "correction": "`explanation` સ્પષ્ટ કરે કે આ પંક્તિ ટોણો સ્વીકારવાની નહીં, પણ મક્કમ રહેવાની જાહેરાત છે — લોકો ગમે તે કહે, નરસિંહ દામોદરની સેવા (ભક્તિ) છોડવાના નથી."
+    },
+    {
+      "topic_id": "M4.S4.T8",
+      "avoid_checks": [
+        {
+          "check": "The list of pada-titles in `explanation`, `key_terms`, `concept_bullets` or a recall `answer` contains only the titles printed in this topic's own `original_chunk` — ‘'વસંતનાં પદ', 'કૃષ્ણલીલા', 'ભક્તિબોધ', 'હાર', 'હૂંડી', 'મોસાળું', 'વિવાહ' અને 'શ્રાદ્ધ' જેવાં પદોમાં તેમણે પોતાના જીવનના પ્રસંગો નિરૂપ્યા છે.’ plus 'સુદામાચરિત' — and never 'નાગદમન' (named only in a separate સ્વાધ્યાય instruction to find a different poem, not printed as one of Narsinh's works in this chapter) nor 'વૈષ્ણવજન તો તેને રે કહીએ' or 'જળકમળ છાંડી જાને બાળા' (printed only inside a different topic's chunk).",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No authored field outside `original_chunk` uses 'ઝૂલણા છંદ' or 'છંદ' to teach a metrical or craft label — the term stays inside the verbatim `original_chunk` (‘તેમણે ઝૂલણા છંદમાં અનેક રચનાઓ કરી હતી.’) only; std 8 does not name craft, so `explanation`, `key_terms` and `concept_bullets` may say the padas were singable without naming the metre.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "લખાણના છેલ્લા વાક્ય ‘તમે જૂનાગઢ જાઓ તો દામોદર કુંડ અને નરસિંહ મહેતાનો ચોરો જોવાનું ભૂલતા નહીં.’માં 'ચોરો' શબ્દ છે; બાળક 'ચોરો'ને 'ચોર' (thief) સાથે ભેળવી દઈ શકે અને વાક્યનો અર્થ ગૂંચવાઈ જાય, જ્યારે 'ચોરો' એટલે ગામ કે મંદિર પાસેનું જાહેર બેસવાનું ઓટલા જેવું સ્થળ.",
+      "correction": "`key_terms`માં 'ચોરો — ગામ કે મંદિર પાસેનો જાહેર ઓટલો, બેસવાની જગ્યા' એમ, વપરાયાના સ્થળે જ, ગ્લોસ કરવો, જેથી 'ચોર' (thief) સાથે ગૂંચવણ ન થાય."
+    }
+  ],
+  "chapter_level": [
+    "The five quoted પદ-fragments and their છાપ across M2.S2.T3, M2.S2.T4 and M4.S4.T7 carry archaic word-forms — 'નરસૈયો', 'છોડાવિયો', 'તુજ', 'ધેન' — that a Hindi/English-medium reader may read as spelling errors; none may ever be corrected or modernised in any authored field, only glossed as the old poetic form.",
+    "This whole chapter is the profile's own worked example of avoid-gate 11 (a printed ચમત્કાર asserted or debunked) — the miracle-of-speech (M1.S1.T1), the 'જાણે ચમત્કાર' sadhana (M1.S1.T2), the શામળશા-શેઠ hundi legend (M3.S3.T5) and the mameru legend (M3.S3.T6) must all stay reported exactly the way the chapter hedges them ('કહેવાય છે', 'જાણે', 'એ કથા/લોકકથા જાણીતી છે') — a single throughline, not four unrelated flags.",
+    "Every legend in this chapter turns on envy or social slight (M3.S3.T5's ઈર્ષ્યાળુ યાત્રાળુઓ, M3.S3.T6's ઈર્ષ્યાથી બળતા દીવાન, M4.S4.T7's ઊંચનીચનો ભેદ) and each invites a tacked-on બોધ about jealousy or equality (gate 12) — Agent 12 should expect this pull on all three topics, not treat it as a one-off risk.",
+    "std 8 names no અલંકાર/છંદ/સમાસ (profiles/students/std-8.md): this chapter is unusually rich in printed craft-adjacent material — quoted verse, a named 'ઝૂલણા છંદ', a rhymed couplet — and every one of those must be taught as content noticed, never as a labelled device, across M2.S2.T3, M2.S2.T4, M4.S4.T7 and M4.S4.T8.",
+    "The caste-hierarchy content of M4.S4.T7 (ઊંચનીચનો ભેદ) is this chapter's જાતિ-ભૂમિકા sensitivity area under charitra_prasang.md's Sensitivity prior — Agent 8's territory to flag and guide, not to censor; noted here so it is not missed."
+  ]
+}

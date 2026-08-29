@@ -1,0 +1,45 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "Explanation unit is 'એક જીવન-પ્રસંગ' (charitra_prasang.md, active_genre_profiles). 00_chapter_normalized.md carries exactly 3 [[ઘટના: …]] markers (grep-verified: lines 9, 37, 57) and the cut produces exactly 3 topics, one per marker, matching 01_meta.json's structure_inventory.ghatna:3 and 02_structure.json's own counts block. કડી/દુહો/પદ marker counts are 0/0/0, consistent with a prose ચરિત્ર-પ્રસંગ chapter (no verse-unit parity check applies).",
+        "No two ઘટના share a topic; no ઘટના is split across topics — one marker, one topic, verified 1:1.",
+        "Not a mixed chapter (genre is not 'mixed'); no ટેક present (tek_occurrences:0) so the changed-words-ટેક rule does not apply.",
+        "Avoid-list scan of the cut and the objectives (the only authored prose that exists at this stage — explanation/concept content is still empty, correctly deferred to later agents): no hagiographic epithet, no invented date/number/name, no first-person slippage, no life-stage topic-naming (બાળપણ/શિક્ષણ/કારકિર્દી/જીવન અને કાર્ય), no tacked-on બોધ, no numbers inside topic_name/module_name/segment_name display text. Clean.",
+        "The two [[ચિત્ર: …]] markers and the [[પરિચય-પેટી]], [[શબ્દાર્થ]] and [[ચર્ચા-વિચારણા]] apparatus blocks are correctly excluded from the topic tree — matching 01_meta.json's own extraction_notes that the intro box is teacher-addressed evidence for genre diagnosis, never a reading scene (this differs from std-10's student-facing કવિ-પરિચય paragraphs, which DO become CONCEPT topics; this chapter carries no such box)."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 3,
+      "topics": 3,
+      "notes": [
+        "All 3 marked reading scenes became topics in printed order (M1.S1.T1 ← line 9, M2.S2.T2 ← line 37, M3.S3.T3 ← line 57).",
+        "No pre-reading CONCEPT topic exists, correctly — the only candidate ([[પરિચય-પેટી]]) is confirmed apparatus, not student-facing reading matter, per 01_meta.json's extraction_notes. No separate in-text wrap marker exists anywhere in 00_chapter_normalized.md; the chapter's closing biographical/reflective material (lines 65-77, incl. Ida's own quoted words) carries no marker of its own and is folded as the second concept (C6) of the M3 topic it chronologically sits under, per charitra_prasang.md's explicit precedent ('a dated facts-cluster is a legitimate topic where the chapter is built of facts' / 'two concepts, never a third'). This is not an invented topic and not a dropped-marker in-text wrap: it is unmarked connective text correctly claimed by the preceding ઘટના marker's scope, not by a marker of its own.",
+        "Traced the full narrative body (lines 9-77) against the 6 declared concepts' documented boundaries (Agent-2's 'FOR AGENT 5' note): no gap, no orphaned sentence, no double-claimed span. The two [[ચિત્ર: …]] lines (14, 62) are correctly treated as non-text.",
+        "Cross-checked all 14 exercise_inventory entries (01_meta.json) against all 3 topic_name/original_chunk-plan values: zero overlap. No સ્વાધ્યાય block became a topic. 14 [[સ્વાધ્યાય: …]] markers independently grep-counted in 00_chapter_normalized.md, matching the inventory count exactly."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 3,
+      "notes": [
+        "objective_id O1/O2/O3 unique in the root registry; strand_to_objective_map (L1→O1, L2→O2, L3→O3) covers every legacy_id exactly once, single strand L / ભાષા અને સાહિત્ય throughout, as required for Gujarati literature.",
+        "Every home_topic_id (M1.S1.T1, M2.S2.T2, M3.S3.T3) and every anchor[] concept id (C1/C2, C3/C4, C5/C6) resolves to a node actually present in the tree.",
+        "Every topic carries objective_ids resolving to the registry (T1→[O1], T2→[O2], T3→[O3]); no topic is missing objective_ids and no topic points at a non-existent objective.",
+        "Each objective is chapter-specific and text-grounded, not a generic template: O1 names the specific rescue (four boys) plus the specific consequence (family duty after the father's illness) — both traceable to original text; O2 names the specific rescue (two soldiers, 1869) plus the specific consequences (honours, the temporary keeper appointment); O3 names the specific final rescue (the friend) plus Ida's own quoted words on duty. None could be pasted into another chapter unchanged. Word counts (21/18/20 Gujarati words) sit inside the profile's 12-30 range.",
+        "Id grammar matches reference/naming_conventions.md: M/S/T dotted and chapter-continuous (M1.S1.T1, M2.S2.T2, M3.S3.T3 — s and t both run 1..3 across the whole chapter, never restarting per module); concept ids are chapter-continuous, not restarting per topic (C1,C2 | C3,C4 | C5,C6 — verified against the naming convention's own worked example, since this chapter carries two concepts per topic rather than one). No M1.S1.T1.P1-style objective code anywhere. RQ and media ids are correctly absent at this stage (Agent 7/9 territory, not yet authored)."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "STRUCTURAL PASS ONLY — original_chunk, explanation, concepts[].content and all other prose fields are still empty in 02_structure.json by design (Agent 5/6/7 territory); this validation covers cut, coverage, id contract and objective grounding, not yet-unwritten prose. The avoid-list's content-level gates (hagiography order, invented interiority, tacked-on બોધ, etc.) will need re-checking once those fields are authored — that is Agent 13's job, not a re-open of this pass.",
+    "SENSITIVITY CARRY-FORWARD — this chapter is charitra_prasang.md's own measured example of the સુરક્ષા sensitivity area (capsized boats, an unconscious soldier, a sixteen-year-old rowing into a storm) and the profile's one measured foreign-setting exception (Newport / Lime Rock, USA — Media prior explicitly says follow the chapter here, not the default Indian setting). Already flagged in 02_structure.json's own notes for Agent 8; repeated here only so it is not lost in the handoff.",
+    "Two-concept-per-topic cut (all three topics) is a deliberate, profile-grounded choice — not a thin segment and not a padding artifact — cited directly against charitra_prasang.md's 'a dated facts-cluster is a legitimate topic … two concepts, never a third' guidance. No note-worthy thinness or awkwardness found elsewhere in the cut.",
+    "Renders were not re-opened for this pass; 00_chapter_normalized.md and 01_meta.json answered every question this check needed (marker positions/counts, apparatus boundaries, the exercise inventory)."
+  ]
+}

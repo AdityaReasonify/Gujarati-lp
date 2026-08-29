@@ -1,0 +1,2431 @@
+{
+  "phase": 2,
+  "board": "gseb",
+  "subject": "Gujarati",
+  "grade": 7,
+  "level": "standard",
+  "version": 1,
+  "chapter_id": "gseb_eng_gujarati7_ch11",
+  "plan_id": "gseb_eng_gujarati7_ch11_v1",
+  "author": "",
+  "_activate": false,
+  "medium_id": null,
+  "subject_ref_id": null,
+  "chapter_master_id": null,
+  "publication_id": null,
+  "estimated_time": 1.5,
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 7",
+  "textbook_url": "../Textbooks-pdf/std-7/ch-11-andheri-nagari.pdf",
+  "textbook_pages": "71–76",
+  "unit_title": "અંધેરી નગરી",
+  "unit_number": 11,
+  "topic_title": "અંધેરી નગરી",
+  "topic_number": 11,
+  "chapter_name": "અંધેરી નગરી",
+  "genre": "kathakavya",
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "જ્યાં દરેક ચીજ એક જ ભાવે વેચાય છે એ નગરીમાં વાંક એક જણ પરથી બીજા પર કેમ સરકતો જાય છે, અને છેલ્લે શૂળીએ કોણ ચઢે છે ?",
+  "english_plan_id": null,
+  "english_chapter_id": null,
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અંધેરી નગરીમાં ભાજી અને ખાજાં બંને એક જ ભાવે વેચાય છે એ પંક્તિ શોધીને, આવા ગામને ‘અંધેરી’ કેમ કહી હશે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગુરુ અને ચેલો ગામમાં આવ્યા પછી શિષ્ય શું લઈ આવ્યો અને ‘ખૂબ ખાટ્યો’ કહેતાં એને શાનો આનંદ હતો તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": [
+        "M1.S2.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગુરુજી અહીં રાત ન રહેવાનું કયું કારણ આપે છે અને શિષ્ય ‘ખાવાપીવા ખૂબ આંહીં’ કહીને કેમ ના પાડે છે તે બંનેની સામસામી દલીલ તારવવી.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગુરુ ગામ છોડ્યા પછી શિષ્યના દિવસો કેવા ગયા, અને ભીંત તૂટી પડતાં ડોશીની ફરિયાદ પર રાજાએ કોને સજા ઠરાવી તે ક્રમમાં કહેવું.",
+      "bloom_level": "Apply",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C4",
+        "M2.S3.T4.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વણિક ‘કડિયા તણો એમાં વાંક અપાર’ કહીને પોતાનો બચાવ કઈ રીતે કરે છે અને એની દલીલમાં શી ખામી છે તે તપાસવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કડિયો અને ગારો કરનાર બંને પોતાની ચૂક બીજા પર કઈ રીતે ઢોળે છે તે બે પંક્તિઓ સામસામી મૂકીને સાંકળનું આગલું પગલું ઓળખાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T6",
+      "anchor": [
+        "M2.S4.T6.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રાજા પખાલીને શૂળીએ જવાનું કયું કારણ આપે છે, અને પખાલી ‘રાજા છાંડો રીસ’ કહીને વાંક કોના પર નાખે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T7",
+      "anchor": [
+        "M2.S4.T7.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શૂળીનું ફળ જાડું ને મુલ્લા પાતળે અંગ હોવાથી ભૂપે શો હુકમ કર્યો, અને એ હુકમનો ભોગ જાડા જોગી કેમ બન્યા તે કારણ સાથે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S5.T8",
+      "anchor": [
+        "M2.S5.T8.C9",
+        "M2.S5.T8.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શૂળી પાસે જઈને જોગી ‘વેગે મળે વિમાન’ કેમ કહે છે, અને આ એક વાક્યથી આખી વાત કઈ રીતે ફરી જાય છે તે તપાસવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S6.T9",
+      "anchor": [
+        "M3.S6.T9.C11"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O10",
+      "legacy_id": "L10",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શૂળીએ ચઢવા ચેલો, ગુરુ અને અધિપતિ ત્રણેય કેમ તૈયાર થાય છે, અને છેલ્લે કોણ ચઢે છે એ પરથી નગરીના ન્યાય વિશે શું કહી શકાય તે મૂલવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S6.T10",
+      "anchor": [
+        "M3.S6.T10.C12"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9",
+    "L10": "O10"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "એક જ ભાવ વેચતી નગરી ને ગુરુની ના",
+      "difficult_words": [
+        {
+          "word": "પુરી",
+          "meaning": "એક નગરી, શહેર",
+          "example": "દાદીમા જૂની વારતામાં કહેતાં કે એક પુરીમાં ભારે વરસાદ પડ્યો ને બધા રસ્તા ભરાઈ ગયા."
+        },
+        {
+          "word": "ગંડુ",
+          "meaning": "અક્કલ વગરનો, ગાંડો",
+          "example": "તડકામાં દોડીને પાણી પીધા વગર બેસી રહેવું એ તો ગંડુ કામ કહેવાય."
+        },
+        {
+          "word": "ખાજાં",
+          "meaning": "ખાજું એટલે મેંદાની એક વાનગી; કાવ્યમાં આ શબ્દ બહુવચનમાં આવ્યો છે",
+          "example": "મેળામાં ગોળ-પાપડીની બાજુમાં જ ખાજાંનો ઢગલો ગોઠવેલો હતો."
+        },
+        {
+          "word": "વિવેકે",
+          "meaning": "સમજ વાપરીને, સારું-નરસું જોઈને",
+          "example": "શાકવાળા ભાઈ વિવેકે ટોપલો ભરે છે — સડેલું ટામેટું બાજુએ મૂકી દે છે."
+        },
+        {
+          "word": "ચેલો",
+          "meaning": "શિષ્ય, ગુરુ પાસે ભણનાર",
+          "example": "તબલાં શીખવા આવેલો ચેલો રોજ સવારે ગુરુ પહેલાં પહોંચી જતો."
+        },
+        {
+          "word": "આટો",
+          "meaning": "લોટ",
+          "example": "મા ચાળણીમાં આટો ચાળીને પછી રોટલી માટે લોટ બાંધે છે."
+        },
+        {
+          "word": "વસીજે",
+          "meaning": "રહીએ, રોકાઈએ; આ દલપતરામના જમાનાનું જૂનું રૂપ છે, ભૂલ નથી",
+          "example": "જૂની ચોપડીમાં લખ્યું હતું — ‘આ ગામમાં એક રાત વસીજે.’ આજે આપણે ‘રહીએ’ કહીએ છીએ."
+        },
+        {
+          "word": "સધ",
+          "meaning": "તરત જ, અત્યારે",
+          "example": "વરસાદ આવે તે પહેલાં સધ કપડાં ઉતારી લો એમ બા બૂમ પાડે છે."
+        }
+      ],
+      "overall_rhyme_scheme": "આ ભાગની બધી કડીઓ ચાર-ચાર લીટીની છે ને દરેક કડીમાં લીટીઓ બબ્બેની જોડમાં છેડે તુક મેળવે છે — રાજા–ખાજાં, એકે–વિવેકે, ચેલો–પેલો, આટો–ખાટ્યો, આંહીં–જ્યાંહીં, વસીજે–બીજે, આંહીં–ક્યાંહીં. લીટીઓ ટૂંકી ને લગભગ સરખી લંબાઈની છે, એટલે વારતા ગાવા જેવી ચાલમાં આગળ વધે છે. પુસ્તક આ ચાલનું કોઈ નામ છાપતું નથી, એટલે અહીં પણ નામ આપ્યું નથી — તુક બોલી જોવાની છે, ગણવાની નથી.",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "ટકે શેર ભાજી, ટકે શેર ખાજાં",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "એક જ ભાવ વેચતી અંધેરી નગરી",
+              "topic_type": "POEM",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O1",
+                  "legacy_id": "L1",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "અંધેરી નગરીમાં ભાજી અને ખાજાં બંને એક જ ભાવે વેચાય છે એ પંક્તિ શોધીને, આવા ગામને ‘અંધેરી’ કેમ કહી હશે તે કહેવું.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M1.S1.T1",
+                  "anchor": [
+                    "M1.S1.T1.C1"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "પુરી એક અંધેરી ને ગંડુ રાજા,\nટકે શેર ભાજી ટકે શેર ખાજાં.\nબધી ચીજ વેચાય ત્યાં ભાવ એકે,\nકદી સારી બૂરી ન વેચે વિવેકે.",
+              "modified_chunk": "એક નગરી છે જ્યાં રાજા ગંડુ એટલે કે અક્કલ વગરનો છે. ત્યાં એક ટકામાં એક શેર ભાજી મળે અને એટલા જ ભાવે એક શેર ખાજાં એટલે કે મેંદાની વાનગી પણ મળે. બજારમાં બધી જ ચીજ એક જ ભાવે વેચાય છે. કઈ ચીજ સારી ને કઈ ખરાબ, એ સમજ વાપરીને કોઈ વેચતું નથી.",
+              "word_count": {
+                "original": 24
+              },
+              "key_terms": [
+                "પુરી — એક નગરી, શહેર",
+                "ટકો — ત્રણ પૈસા; જૂનો સિક્કો. 'ટકે' એટલે એક ટકામાં",
+                "શેર — વજનનું જૂનું માપ; મણનો ચાળીસમો ભાગ (500 ગ્રામ)",
+                "ખાજું — મેંદાની એક વાનગી; કાવ્યમાં 'ખાજાં' બહુવચનમાં આવ્યું છે",
+                "બૂરી — ખરાબ, નબળી",
+                "વિવેકે — સમજ વાપરીને, સારું-નરસું જોઈને"
+              ],
+              "explanation": "બાળકો, જુઓ — કવિ પહેલી જ લીટીમાં આખું ગામ બતાવી દે છે : ‘પુરી એક અંધેરી ને ગંડુ રાજા,’. પુરી એટલે નગરી, ને ગંડુ એટલે અક્કલ વગરનો. પછી કહે છે ‘ટકે શેર ભાજી ટકે શેર ખાજાં.’ — ટકો એટલે ત્રણ પૈસા, ને શેર એટલે વજનનું જૂનું માપ. અહીં ભાવ એટલે કિંમત; રોજની સાદી ભાજી ને મેંદાની મીઠી વાનગી ખાજાં, બંનેની કિંમત સરખી ! છેલ્લી લીટી કહે છે કે અહીં કોઈ સારી-બૂરી ચીજ વિવેકે, એટલે સમજ વાપરીને, જુદી પાડતું નથી.",
+              "real_life_example": "શેરીમાં ક્રિકેટ રમો ત્યારે નિયમો તમે જ બનાવો છો. કોઈ દિવસ એવો નિયમ પડી જાય કે લાંબો ફટકો હોય કે સાવ ટપલી, રન તો એક જ. પછી કોઈ જોરથી બૉલ મારે ને દોડીને એક જ રન લે, ત્યારે એ ઊભો ઊભો જોતો રહી જાય છે ને બાકીના બધા હસી પડે છે. કાવ્યની નગરીમાં પણ સારી ને નબળી ચીજનો ભાવ સરખો છે. તમારી શેરીની રમતમાં એવો કયો નિયમ છે જે તમને હસાવે છે ?",
+              "brief_summary": "એક નગરીમાં ગંડુ રાજા છે ને ત્યાં ભાજી અને ખાજાં બંને એક જ ભાવે વેચાય છે.",
+              "summary": "કવિ પહેલી કડીમાં આખું ગામ બતાવી દે છે : ‘પુરી એક અંધેરી ને ગંડુ રાજા,’. ત્યાં દરેક ચીજની કિંમત એકસરખી છે. સારી કઈ ને નબળી કઈ, એ સમજ વાપરીને કોઈ જુદી પાડતું નથી.",
+              "detailed_summary": "કાવ્યની શરૂઆત એક નગરીના પરિચયથી થાય છે, જ્યાંનો રાજા ગંડુ એટલે કે અક્કલ વગરનો છે. ત્યાંના બજારમાં ટકે શેર ભાજી મળે છે ને એટલા જ ભાવે ટકે શેર ખાજાં પણ મળે છે. ટકો એટલે ત્રણ પૈસા ને શેર એટલે વજનનું જૂનું માપ. રોજની સાદી ભાજી ને મેંદાની મીઠી વાનગી સરખા ભાવે વેચાય, એટલે વાત ઊંધી લાગે છે ને હસવું આવે છે. છેલ્લી લીટીમાં કવિ કહે છે કે અહીં સારી-બૂરી ચીજ વિવેકે જુદી પડાતી નથી. આટલી ચાર લીટીમાં આખા ગામની ચાલ સમજાઈ જાય છે.",
+              "concept_bullets": [
+                "પુરી — એક નગરી; કાવ્યની પહેલી લીટીનો શબ્દ.",
+                "ભાવ — કિંમત; અહીં દરેક ચીજનો ભાવ એક જ છે.",
+                "ટકો ને શેર — જૂનો સિક્કો ને વજનનું જૂનું માપ.",
+                "વિવેકે — સમજ વાપરીને; આ ગામમાં એ સમજ વપરાતી નથી."
+              ],
+              "important_points": [
+                "ગંડુ રાજા — ગામની ઓળખ પહેલી જ લીટીમાં અપાઈ જાય છે.",
+                "એક જ ભાવ — ભાજી ને ખાજાં વચ્ચે કોઈ ફેર રખાતો નથી.",
+                "સારી-બૂરીનો ભેદ નહીં — ચીજ પારખીને વેચાતી નથી.",
+                "રમૂજ — વાત ઊંધી લાગે છે, એટલે વાંચતાં હસવું આવે છે."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "ટકે શેર ભાજી, ટકે શેર ખાજાં",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "કવિ પહેલી જ કડીમાં આખું ગામ આપણી સામે મૂકી દે છે. ‘ટકે શેર ભાજી ટકે શેર ખાજાં.’ — ટકો એટલે ત્રણ પૈસા ને શેર એટલે વજનનું જૂનું માપ. રોજની સાદી ભાજી ને મેંદાની મીઠી વાનગી ખાજાં, બંનેની કિંમત અહીં સરખી છે. જે વસ્તુઓ સરખી નથી તેને સરખી ગણી લેવાય, એટલે વાત ઊંધી લાગે છે.",
+                      "publication_text": "કવિ પહેલી જ કડીમાં આખું ગામ આપણી સામે મૂકી દે છે. ‘ટકે શેર ભાજી ટકે શેર ખાજાં.’ — ટકો એટલે ત્રણ પૈસા ને શેર એટલે વજનનું જૂનું માપ. રોજની સાદી ભાજી ને મેંદાની મીઠી વાનગી ખાજાં, બંનેની કિંમત અહીં સરખી છે. જે વસ્તુઓ સરખી નથી તેને સરખી ગણી લેવાય, એટલે વાત ઊંધી લાગે છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "‘પુરી એક અંધેરી ને ગંડુ રાજા,’ — ગામ ને એનો રાજા, બંનેની ઓળખ એક જ લીટીમાં.",
+                        "‘બધી ચીજ વેચાય ત્યાં ભાવ એકે,’ — ભાવ એટલે કિંમત.",
+                        "‘કદી સારી બૂરી ન વેચે વિવેકે.’ — સારું-નરસું પારખવાનું અહીં બંધ છે."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M1.S1.T1.RQ1",
+                  "legacy_id": "M1.S1.T1.TR1",
+                  "prompt": "અંધેરી નગરીમાં ભાજી ને ખાજાં કયા ભાવે વેચાય છે ?",
+                  "answer": "‘ટકે શેર ભાજી ટકે શેર ખાજાં.’ — બંને એક જ ભાવે વેચાય છે, એટલે કે એક ટકામાં એક શેર.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M1.S1.T1.RQ2",
+                  "legacy_id": "M1.S1.T1.TR2",
+                  "prompt": "‘બધી ચીજ વેચાય ત્યાં ભાવ એકે,’ — અહીં ભાવ એટલે શું ? સાદા શબ્દોમાં કહો.",
+                  "answer": "ભાવ એટલે કિંમત. કવિ કહે છે કે એ ગામમાં બધી ચીજની કિંમત એકસરખી છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M1.S1.T1.RQ3",
+                  "legacy_id": "M1.S1.T1.TR3",
+                  "prompt": "ટકે શેર ભાજી ને ટકે શેર ખાજાં — આ સાંભળીને હસવું કેમ આવે છે ? તમારા શબ્દોમાં કહો.",
+                  "answer": "કારણ કે રોજની સાદી ભાજી ને મેંદાની મીઠી વાનગી ખાજાં સાવ જુદી વસ્તુઓ છે, છતાં અહીં બંનેની કિંમત સરખી છે. જે વસ્તુઓ સરખી નથી તેને સરખી ગણી લેવાય, એટલે વાત ઊંધી લાગે છે ને હસવું આવે છે.",
+                  "difficulty": "hard",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "estimated_exchanges": "4",
+              "figures_of_speech": [],
+              "rhyme_scheme": {
+                "pattern": "ચાર લીટીની કડી; લીટીઓ બબ્બેની જોડમાં તુક મેળવે છે",
+                "rhyming_words": [
+                  "રાજા — ખાજાં",
+                  "એકે — વિવેકે"
+                ],
+                "note": "‘એકે – વિવેકે’માં છેડા બરાબર મળે છે. ‘રાજા – ખાજાં’માં અક્ષરો સાવ સરખા નથી, અનુસ્વાર જુદો પડે છે — છતાં ગાતી વખતે કાનને એ સરખા જ લાગે છે."
+              },
+              "shabdarth": [
+                {
+                  "shabd": "પુરી",
+                  "arth": "એક નગરી, શહેર",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "ગંડુ",
+                  "arth": "અક્કલ વગરનો, ગાંડો",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "ભાવ",
+                  "arth": "કિંમત",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "ખાજાં",
+                  "arth": "ખાજું — મેંદાની એક વાનગી; અહીં બહુવચનમાં",
+                  "prakar": "તદ્ભવ"
+                },
+                {
+                  "shabd": "વિવેકે",
+                  "arth": "સમજ વાપરીને, સારું-નરસું જોઈને",
+                  "prakar": "તત્સમ"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "પુરી",
+                  "samanarthi": [
+                    "નગરી",
+                    "નગર"
+                  ]
+                },
+                {
+                  "shabd": "ભાવ",
+                  "samanarthi": [
+                    "કિંમત",
+                    "મૂલ્ય"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "સારી",
+                  "vilom": "બૂરી"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "વિશેષણ",
+                  "udaharan": "પુરી એક અંધેરી ને ગંડુ રાજા,",
+                  "note": "‘અંધેરી’ ને ‘ગંડુ’ — બંને શબ્દો કેવી નગરી ને કેવો રાજા તે બતાવે છે. નામની સાથે આવીને એની ઓળખ આપે તે વિશેષણ."
+                }
+              ],
+              "publication_text": "કવિ પહેલી જ લીટીમાં આખું ગામ બતાવી દે છે : ‘પુરી એક અંધેરી ને ગંડુ રાજા,’. પુરી એટલે નગરી, ને ગંડુ એટલે અક્કલ વગરનો. પછી કહે છે ‘ટકે શેર ભાજી ટકે શેર ખાજાં.’ — ટકો એટલે ત્રણ પૈસા, ને શેર એટલે વજનનું જૂનું માપ. અહીં ભાવ એટલે કિંમત; રોજની સાદી ભાજી ને મેંદાની મીઠી વાનગી ખાજાં, બંનેની કિંમત સરખી ! છેલ્લી લીટી કહે છે કે અહીં કોઈ સારી-બૂરી ચીજ વિવેકે, એટલે સમજ વાપરીને, જુદી પાડતું નથી.",
+              "publication_chunk": "પુરી એક અંધેરી ને ગંડુ રાજા,\nટકે શેર ભાજી ટકે શેર ખાજાં.\nબધી ચીજ વેચાય ત્યાં ભાવ એકે,\nકદી સારી બૂરી ન વેચે વિવેકે.\n\nકવિ પહેલી જ લીટીમાં આખું ગામ બતાવી દે છે : ‘પુરી એક અંધેરી ને ગંડુ રાજા,’. પુરી એટલે નગરી, ને ગંડુ એટલે અક્કલ વગરનો. પછી કહે છે ‘ટકે શેર ભાજી ટકે શેર ખાજાં.’ — ટકો એટલે ત્રણ પૈસા, ને શેર એટલે વજનનું જૂનું માપ. અહીં ભાવ એટલે કિંમત; રોજની સાદી ભાજી ને મેંદાની મીઠી વાનગી ખાજાં, બંનેની કિંમત સરખી ! છેલ્લી લીટી કહે છે કે અહીં કોઈ સારી-બૂરી ચીજ વિવેકે, એટલે સમજ વાપરીને, જુદી પાડતું નથી.\n\nશેરીમાં ક્રિકેટ રમાય ત્યારે નિયમો રમનારા પોતે જ બનાવે છે. કોઈ દિવસ એવો નિયમ પડી જાય કે લાંબો ફટકો હોય કે સાવ ટપલી, રન તો એક જ. પછી કોઈ જોરથી બૉલ મારે ને દોડીને એક જ રન લે, ત્યારે એ ઊભો ઊભો જોતો રહી જાય છે ને બાકીના બધા હસી પડે છે. કાવ્યની નગરીમાં પણ સારી ને નબળી ચીજનો ભાવ સરખો છે.",
+              "media": [
+                {
+                  "topic_id": "M1.S1.T1",
+                  "concept_id": "M1.S1.T1.C1",
+                  "id": "M1.S1.T1.C1.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "એક જ ભાવે વેચાતું બજાર",
+                  "description": "નગરીના ચોકમાં ભાજીની ટોપલી ને ખાજાંનો થાળ સામસામે, બંને પાસે એક જ ત્રાજવું, એક જ કાટલું ને પડખે એક જ ટકો, ને છેડે ગાદીએ બેઠેલો ગંડુ રાજા.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "home_concept_id": "M1.S1.T1.C1",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બને ત્યાં સુધી આ દૃશ્ય બોલીને વર્ગમાં ઊભું કરો — બે ટોપલી, બે સરખાં ત્રાજવાં ને પડખે એક જ ટકો — ને પછી બાળકોને પૂછો કે ભાજી ને ખાજાં એક જ ભાવે વેચાતાં હોય તો ખરીદનારને શું લાગે.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, digits or numerals anywhere in the frame, modern clothing, plastic objects, motivational poster layout, text banner with a moral, moral lesson panel, caricature or mockery of any religious or occupational community, price boards, written signboards, shop lettering",
+                  "generation_prompt": "A market square at mid-morning in a nineteenth-century Gujarati town: low houses roofed with curved clay tiles, raised stone sitting-platforms running along the house fronts, carved wooden brackets under the upper storeys, with a tall whitewashed pillared bird-feeder tower standing at the centre of the square and pigeons on its ledge. Two neighbouring stalls face the viewer under cloth awnings: one heaped with fresh green leafy vegetables in cane baskets, the other with trays of pale flaky sweet pastries. In front of each stall stands an identical brass balance scale holding the same single stone weight, and beside each scale one small copper coin lies on the spread cloth. Between the two stalls a woman shopper in a red-bordered cotton sari stands with one hand on each basket, looking back and forth in comic disbelief. At the edge of the square The king is a plump man of about fifty in a green-and-gold brocade long coat and a jewelled saffron turban with a small plume, with a thick curled moustache. He sits cross-legged on a low cushioned platform under a scalloped cloth canopy, grinning vacantly while a servant fans him with a long-handled fan. A bullock cart rests under a thatched awning and a neem tree shades one corner. Soft digital watercolour, vibrant textbook illustration style, warm daylight palette, 16:9. A plain cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati text, lettered in clean Gujarati script and nothing else: ટકે શેર ભાજી ટકે શેર ખાજાં."
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "ગુરુની ચેતવણી ને ચેલાની હઠ",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "ચેલાની સસ્તી સુખડી",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O2",
+                  "legacy_id": "L2",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "ગુરુ અને ચેલો ગામમાં આવ્યા પછી શિષ્ય શું લઈ આવ્યો અને ‘ખૂબ ખાટ્યો’ કહેતાં એને શાનો આનંદ હતો તે સમજાવવું.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M1.S2.T2",
+                  "anchor": [
+                    "M1.S2.T2.C2"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "ત્યહાં જઈ ચઢ્યા બે, ગુરુ એક ચેલો,\nગયો ગામમાં માગવા શિષ્ય પેલો\nલીધી સુખડી હાટથી આપી આટો\nગુરુ પાસે જઈને કહે, ‘‘ખૂબ ખાટ્યો.’’",
+              "modified_chunk": "એ નગરીમાં એક ગુરુ અને એમનો એક ચેલો એટલે કે શિષ્ય આવી ચઢે છે. શિષ્ય ગામમાં માગવા જાય છે અને હાટ એટલે કે દુકાનમાં આટો એટલે લોટ આપીને એની સામે સુખડી લઈ આવે છે. ગુરુ પાસે પાછા આવીને એ કહે છે કે ખૂબ ખાટ્યો, એટલે કે ખૂબ ફાયદો થયો.",
+              "word_count": {
+                "original": 23
+              },
+              "key_terms": [
+                "ત્યહાં — ત્યાં; કવિની જૂની ભાષાનું રૂપ છે, ભૂલ નથી",
+                "ચેલો — શિષ્ય, ગુરુ પાસે ભણનાર",
+                "હાટ — દુકાન",
+                "આટો — લોટ",
+                "ખાટવું — ફાયદો મેળવવો; 'ખૂબ ખાટ્યો' એટલે ખૂબ ફાયદો થયો",
+                "સુખડી — ગોળ અને લોટમાંથી બનતી એક મીઠાઈ"
+              ],
+              "explanation": "બાળકો, જુઓ — હવે વારતામાં બે જણ આવે છે : ‘ત્યહાં જઈ ચઢ્યા બે, ગુરુ એક ચેલો,’. ત્યહાં એટલે ત્યાં — દલપતરામના જમાનાનું જૂનું રૂપ છે, ભૂલ નથી. ચેલો એટલે શિષ્ય. એ ગામમાં માગવા જાય છે ને ‘લીધી સુખડી હાટથી આપી આટો’ — હાટ એટલે દુકાન, આટો એટલે લોટ. સાદો લોટ આપીને એ મીઠી સુખડી લઈ આવે છે, કારણ કે આ ગામમાં બંનેની કિંમત સરખી છે. એટલે જ એ ગુરુ પાસે દોડીને કહે છે, ‘‘ખૂબ ખાટ્યો.’’ — ખાટવું એટલે ફાયદો મેળવવો.",
+              "real_life_example": "ઉત્તરાયણને આગલે દિવસે ધાબા પર પડોશનો ઇમરાન કહે છે, ‘તારો સાદો સફેદ પતંગ આપ, હું આ મોટો રંગીન આપું.’ તમે ઝટ દઈને બદલી નાખો છો ને નીચે દોડીને ઘરમાં કહો છો, ‘જોયું ? સાદા પતંગની સામે આટલો મોટો મળી ગયો !’ સોદો કરીને જીતી ગયા હોઈએ એવો હરખ થાય છે. ચેલાને પણ આટો આપીને સુખડી મળી ત્યારે બરાબર આવો જ હરખ થયો હતો. તમે છેલ્લે એવી કઈ અદલાબદલી કરી હતી ?",
+              "brief_summary": "ગુરુ ને ચેલો નગરીમાં આવે છે, ને ચેલો દુકાનમાં લોટ આપીને સામે સુખડી લઈ આવે છે.",
+              "summary": "‘ત્યહાં જઈ ચઢ્યા બે, ગુરુ એક ચેલો,’ — બે જણ આ નગરીમાં આવી ચઢે છે. શિષ્ય ગામમાં માગવા જાય છે ને હાટમાંથી આટો આપીને સુખડી લઈ આવે છે. પાછા આવીને એ ગુરુને કહે છે, ‘‘ખૂબ ખાટ્યો.’’",
+              "detailed_summary": "કાવ્યમાં હવે બે પાત્રો દાખલ થાય છે — એક ગુરુ ને એમનો એક ચેલો. ચેલો એટલે શિષ્ય. શિષ્ય ગામમાં માગવા જાય છે ને ‘લીધી સુખડી હાટથી આપી આટો’ — હાટ એટલે દુકાન ને આટો એટલે લોટ. સાદો લોટ આપીને એ સામે મીઠી સુખડી લઈ આવે છે, કારણ કે અહીં દરેક ચીજની કિંમત એક જ છે. ગુરુ પાસે પાછા આવીને એ ખુશ થઈને કહે છે, ‘‘ખૂબ ખાટ્યો.’’ ખાટવું એટલે ફાયદો મેળવવો — સોદામાં પોતે જીતી ગયો એમ એને લાગે છે.",
+              "concept_bullets": [
+                "ચેલો — શિષ્ય, ગુરુ પાસે ભણનાર.",
+                "હાટ — દુકાન; આટો — લોટ.",
+                "ખાટવું — ફાયદો મેળવવો; ‘ખૂબ ખાટ્યો’ એટલે ખૂબ ફાયદો થયો.",
+                "ત્યહાં — ત્યાં; દલપતરામની જૂની ગુજરાતીનું રૂપ, ભૂલ નહીં."
+              ],
+              "important_points": [
+                "બે નવાં પાત્રો — ગુરુ ને ચેલો નગરીમાં આવી ચઢે છે.",
+                "સોદો — સાદો લોટ આપીને મીઠી સુખડી મળી જાય છે.",
+                "કારણ — એક જ ભાવવાળા ગામમાં જ આવો સોદો શક્ય બને છે.",
+                "બોલનાર — ‘‘ખૂબ ખાટ્યો.’’ ગુરુ નહીં, શિષ્ય બોલે છે."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "આટો આપીને લીધેલી સુખડી",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "શિષ્ય ગામમાં માગવા જાય છે ને એક હાટમાંથી સોદો કરી આવે છે — ‘લીધી સુખડી હાટથી આપી આટો’. હાટ એટલે દુકાન ને આટો એટલે લોટ. જ્યાં બધી ચીજ એક જ ભાવે વેચાતી હોય ત્યાં જ સાદા લોટની સામે મીઠી સુખડી મળી શકે. એટલે એ દોડીને ગુરુને કહે છે, ‘‘ખૂબ ખાટ્યો.’’",
+                      "publication_text": "શિષ્ય ગામમાં માગવા જાય છે ને એક હાટમાંથી સોદો કરી આવે છે — ‘લીધી સુખડી હાટથી આપી આટો’. હાટ એટલે દુકાન ને આટો એટલે લોટ. જ્યાં બધી ચીજ એક જ ભાવે વેચાતી હોય ત્યાં જ સાદા લોટની સામે મીઠી સુખડી મળી શકે. એટલે એ દોડીને ગુરુને કહે છે, ‘‘ખૂબ ખાટ્યો.’’"
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "ત્યહાં — ત્યાં; જૂનું રૂપ છે, છાપભૂલ નથી.",
+                        "આટો આપ્યો, સુખડી લીધી — સોદો શિષ્યની નજરે ફાયદાનો છે.",
+                        "‘‘ખૂબ ખાટ્યો.’’ — આ વાક્ય શિષ્ય બોલે છે, ગુરુ નહીં."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M1.S2.T2.RQ1",
+                  "legacy_id": "M1.S2.T2.TR1",
+                  "prompt": "શિષ્ય હાટમાંથી શું લઈ આવ્યો, ને એની સામે એણે શું આપ્યું ?",
+                  "answer": "‘લીધી સુખડી હાટથી આપી આટો’ — એ આટો એટલે કે લોટ આપીને સામે સુખડી લઈ આવ્યો.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M1.S2.T2.RQ2",
+                  "legacy_id": "M1.S2.T2.TR2",
+                  "prompt": "‘‘ખૂબ ખાટ્યો.’’ કોણ બોલ્યું, ને એને શાનો આનંદ છે ?",
+                  "answer": "આ શિષ્ય બોલે છે. ખાટવું એટલે ફાયદો મેળવવો; સાદો લોટ આપીને એને મીઠી સુખડી મળી ગઈ, એટલે એને લાગે છે કે સોદામાં પોતે જીતી ગયો.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M1.S2.T2.RQ3",
+                  "legacy_id": "M1.S2.T2.TR3",
+                  "prompt": "તમે શિષ્યની જગ્યાએ હો તો સુખડી લઈને ગુરુ પાસે જઈને પહેલું વાક્ય શું બોલો ?",
+                  "answer": "આનો એક સંભવિત જવાબ : ‘ગુરુજી, જુઓ — લોટ આપીને આખી સુખડી મળી ગઈ, અહીં તો બધું એક જ ભાવે મળે છે !’ બાળક પોતાના શબ્દોમાં આવું જ કંઈ કહી શકે.",
+                  "difficulty": "medium",
+                  "bloom_level": "apply"
+                }
+              ],
+              "estimated_exchanges": "4",
+              "figures_of_speech": [],
+              "rhyme_scheme": {
+                "pattern": "ચાર લીટીની કડી; લીટીઓ બબ્બેની જોડમાં તુક મેળવે છે",
+                "rhyming_words": [
+                  "ચેલો — પેલો",
+                  "આટો — ખાટ્યો"
+                ],
+                "note": "‘ચેલો – પેલો’ બરાબર મળે છે. ‘આટો – ખાટ્યો’માં છેડા સાવ સરખા નથી, પણ બોલતી વખતે તુક બેસી જાય છે."
+              },
+              "shabdarth": [
+                {
+                  "shabd": "ત્યહાં",
+                  "arth": "ત્યાં",
+                  "prakar": "કાવ્ય-રૂપ"
+                },
+                {
+                  "shabd": "ચેલો",
+                  "arth": "શિષ્ય, ગુરુ પાસે ભણનાર",
+                  "prakar": "તદ્ભવ"
+                },
+                {
+                  "shabd": "હાટ",
+                  "arth": "દુકાન",
+                  "prakar": "તદ્ભવ"
+                },
+                {
+                  "shabd": "આટો",
+                  "arth": "લોટ",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "ખાટ્યો",
+                  "arth": "ખાટવું — ફાયદો મેળવવો; ‘ખૂબ ખાટ્યો’ એટલે ખૂબ ફાયદો થયો",
+                  "prakar": "દેશ્ય"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "ચેલો",
+                  "samanarthi": [
+                    "શિષ્ય"
+                  ]
+                },
+                {
+                  "shabd": "હાટ",
+                  "samanarthi": [
+                    "દુકાન"
+                  ]
+                }
+              ],
+              "vilom": [],
+              "vyakaran": [
+                {
+                  "bindu": "કાળ",
+                  "udaharan": "લીધી સુખડી હાટથી આપી આટો",
+                  "note": "‘લીધી’ ને ‘આપી’ — બંને ભૂતકાળનાં ક્રિયારૂપો છે, ને એમને સહાયકારક ક્રિયાપદની જરૂર પડી નથી. પાઠના અંતના ખાનામાં આ જ વાત ‘ખાધો’ ને ‘ખાઈશું’ પરથી શીખવવામાં આવી છે."
+                }
+              ],
+              "publication_text": "હવે વારતામાં બે જણ આવે છે : ‘ત્યહાં જઈ ચઢ્યા બે, ગુરુ એક ચેલો,’. ત્યહાં એટલે ત્યાં — દલપતરામના જમાનાનું જૂનું રૂપ છે, ભૂલ નથી. ચેલો એટલે શિષ્ય. એ ગામમાં માગવા જાય છે ને ‘લીધી સુખડી હાટથી આપી આટો’ — હાટ એટલે દુકાન, આટો એટલે લોટ. સાદો લોટ આપીને એ મીઠી સુખડી લઈ આવે છે, કારણ કે આ ગામમાં બંનેની કિંમત સરખી છે. એટલે જ એ ગુરુ પાસે દોડીને કહે છે, ‘‘ખૂબ ખાટ્યો.’’ — ખાટવું એટલે ફાયદો મેળવવો.",
+              "publication_chunk": "ત્યહાં જઈ ચઢ્યા બે, ગુરુ એક ચેલો,\nગયો ગામમાં માગવા શિષ્ય પેલો\nલીધી સુખડી હાટથી આપી આટો\nગુરુ પાસે જઈને કહે, ‘‘ખૂબ ખાટ્યો.’’\n\nહવે વારતામાં બે જણ આવે છે : ‘ત્યહાં જઈ ચઢ્યા બે, ગુરુ એક ચેલો,’. ત્યહાં એટલે ત્યાં — દલપતરામના જમાનાનું જૂનું રૂપ છે, ભૂલ નથી. ચેલો એટલે શિષ્ય. એ ગામમાં માગવા જાય છે ને ‘લીધી સુખડી હાટથી આપી આટો’ — હાટ એટલે દુકાન, આટો એટલે લોટ. સાદો લોટ આપીને એ મીઠી સુખડી લઈ આવે છે, કારણ કે આ ગામમાં બંનેની કિંમત સરખી છે. એટલે જ એ ગુરુ પાસે દોડીને કહે છે, ‘‘ખૂબ ખાટ્યો.’’ — ખાટવું એટલે ફાયદો મેળવવો.\n\nઉત્તરાયણને આગલે દિવસે ધાબા પર પડોશનો ઇમરાન કહે છે, ‘તારો સાદો સફેદ પતંગ આપ, હું આ મોટો રંગીન આપું.’ સોદો ઝટ દઈને થઈ જાય છે, ને પછી નીચે દોડીને ઘરમાં વાત થાય છે, ‘જોયું ? સાદા પતંગની સામે આટલો મોટો મળી ગયો !’ સોદો કરીને જીતી ગયા હોઈએ એવો હરખ થાય છે. ચેલાને પણ આટો આપીને સુખડી મળી ત્યારે બરાબર આવો જ હરખ થયો હતો.",
+              "media": [
+                {
+                  "topic_id": "M1.S2.T2",
+                  "concept_id": "M1.S2.T2.C2",
+                  "id": "M1.S2.T2.C2.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "હાટથી લીધેલી સુખડી",
+                  "description": "હાટને ઓટલે ઊભેલો શિષ્ય એક હાથે લોટનું પોટલું આપે છે ને બીજા હાથે પાંદડે વીંટેલી સુખડી લે છે; શેરીને છેડે લીમડા નીચે ગુરુ જોઈ રહ્યા છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "home_concept_id": "M1.S2.T2.C2",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બને ત્યાં સુધી વર્ગને આ ક્ષણ કલ્પવા કહો — એક હાથે આટો ગયો ને બીજા હાથે સુખડી આવી — ને પછી પૂછો કે શિષ્યને એમાં ‘ખૂબ ખાટ્યો’ કેમ લાગ્યું.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, digits or numerals anywhere in the frame, modern clothing, plastic objects, motivational poster layout, text banner with a moral, moral lesson panel, caricature or mockery of any religious or occupational community, price boards, written signboards, shop lettering",
+                  "generation_prompt": "The shopfront of a grain-and-sweets seller, raised on a stone platform in a narrow lane of a nineteenth-century Gujarati town: low houses roofed with curved clay tiles, raised stone sitting-platforms running along the house fronts, carved wooden brackets under the upper storeys. The disciple is a young man of about eighteen with a round face, a shaved head with a small tuft of hair at the back, a plain pale-ochre cloth wrapped over one shoulder and bare feet. He stands at the shop step, handing over an open cloth bundle of pale wheat flour with one hand while the shopkeeper — a lean man of about fifty in a white dhoti and a folded white turban, sitting cross-legged behind his low counter — places a leaf-wrapped block of dark crumbly sweet into the disciple's other hand. A brass balance scale hangs from the shop beam with a stone weight in one pan; earthen jars, cane baskets and stacked leaf-plates line the shelves behind. At the far end of the lane The teacher is a lean elderly man of about sixty with a long white beard, a shaved head, a saffron-ochre cotton robe worn over one shoulder, a tall wooden staff and bare feet. He waits under a neem tree, both hands on his staff, watching. A stray dog sleeps on the stone platform and morning light slants down the lane. Soft digital watercolour, vibrant textbook illustration style, warm daylight palette, 16:9. A plain cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati text, lettered in clean Gujarati script and nothing else: લીધી સુખડી હાટથી આપી આટો"
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "ગુરુની ના સામે ચેલાની હઠ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O3",
+                  "legacy_id": "L3",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "ગુરુજી અહીં રાત ન રહેવાનું કયું કારણ આપે છે અને શિષ્ય ‘ખાવાપીવા ખૂબ આંહીં’ કહીને કેમ ના પાડે છે તે બંનેની સામસામી દલીલ તારવવી.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M1.S2.T3",
+                  "anchor": [
+                    "M1.S2.T3.C3"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "ગુરુજી કહે, ‘‘રાત રહેવું નહીં આંહીં,\nસહુ એક ભાવે ખપે ચીજ જ્યાંહીં,\nહશે ચોરને શાહનો ન્યાય એકે,\nનહીં હોય શિક્ષા ગુનાની વિવેકે.’’\n\nન એ વસતીમાં એક વાસો વસીજે,\nચલો સધ ચેલા જવું ગામ બીજે.\nકહે શિષ્ય : ‘‘ખાવાપીવા ખૂબ આંહીં,\nતજી તેહ હું તો ન આવીશ ક્યાંહીં.’’",
+              "modified_chunk": "ગુરુજી કહે છે કે અહીં રાત રોકાવું નહીં. જ્યાં બધી ચીજ એક જ ભાવે ખપતી હોય ત્યાં ચોરનો અને શાહુકારનો ન્યાય પણ એક જ હશે, અને ગુનો જોઈને સજા નહીં થાય. એટલે એ કહે છે કે આ વસ્તીમાં એક રાતનો મુકામ પણ ન કરીએ, ચાલો તરત જ બીજે ગામ જઈએ. પણ શિષ્ય ના પાડે છે — અહીં ખાવાપીવાનું ખૂબ મળે છે, એ છોડીને હું ક્યાંય નહીં આવું.",
+              "word_count": {
+                "original": 47
+              },
+              "key_terms": [
+                "આંહીં — અહીંયાં; જૂનું રૂપ છે, લય સાચવવા વપરાયું છે",
+                "જ્યાંહીં — જ્યાં",
+                "શાહ — શાહુકાર, પૈસાદાર માણસ",
+                "વાસો — વાસ કરવો, મુકામ; અહીં એક રાત રોકાવાની વાત છે",
+                "વસીજે — રહીએ, રોકાઈએ",
+                "સધ — તરત જ, અત્યારે"
+              ],
+              "explanation": "ગુરુજી ચેલાને ના પાડે છે : ‘રાત રહેવું નહીં આંહીં,’ — આંહીં એટલે અહીંયાં. એમનું કારણ સાફ છે : ‘હશે ચોરને શાહનો ન્યાય એકે,’ — શાહ એટલે શાહુકાર. ચોરનો ને શાહુકારનો ન્યાય સરખો હોય ત્યાં ગુનો જોઈને સજા થતી નથી. એટલે એ કહે છે ‘ન એ વસતીમાં એક વાસો વસીજે,’ — વસીજે એટલે રહીએ, ને સધ એટલે તરત જ. પણ ચેલો ના પાડે છે : અહીં ખાવાપીવાનું ખૂબ મળે છે, એ છોડીને એ ક્યાંય જવા માગતો નથી. આ જૂનાં રૂપો ભૂલ નથી, દલપતરામની ભાષા છે.",
+              "real_life_example": "માંડવીના કિનારે મોજાં પગ પલાળે ત્યારે થોડું આગળ જવાનું મન થાય છે. પાણી ઠંડું, રેતી નરમ, ને હસવું આપોઆપ આવે. પણ મોટાભાઈ હાથ પકડીને પાછા ખેંચે છે ને કહે છે, ‘હવે ભરતી ચઢે છે, બહાર નીકળી જા.’ તમને એ ઘડીએ એની વાત ગમતી નથી — અહીં તો મજા આવે છે ને ! ગુરુની ના સામે ચેલાને પણ બરાબર આવું જ થયું હતું. મોટાભાઈને ભરતીની ચિંતા કેમ થતી હશે ?",
+              "brief_summary": "ગુરુજી અહીં રાત ન રહેવાનું કહે છે, પણ ચેલો ખાવાપીવાનું છોડવા તૈયાર નથી.",
+              "summary": "ગુરુજી કહે છે ‘રાત રહેવું નહીં આંહીં,’ — જ્યાં બધું એક ભાવે વેચાય ત્યાં ચોરનો ને શાહુકારનો ન્યાય પણ એક જ હશે. એટલે એ તરત બીજે ગામ જવાનું કહે છે. પણ ચેલો ના પાડે છે, કારણ કે અહીં એને ખાવાપીવાનું ખૂબ મળે છે.",
+              "detailed_summary": "આ કડીઓમાં ગુરુ ને ચેલો સામસામા આવી જાય છે. ગુરુજી કહે છે કે અહીં રાત રહેવું નહીં, ને એ પોતાનું કારણ પણ આપે છે : ‘હશે ચોરને શાહનો ન્યાય એકે,’. શાહ એટલે શાહુકાર; ચોર ને શાહુકારને એક જ ત્રાજવે તોળનારા ગામમાં ગુનો જોઈને સજા થતી નથી. એટલે એ કહે છે કે આ વસ્તીમાં એક રાતનો વાસો પણ ન કરીએ, ને સધ એટલે તરત જ બીજે ગામ નીકળી જઈએ. ચેલાનું કારણ સાવ જુદું છે — અહીં ખાવાપીવાનું ખૂબ મળે છે, એ છોડીને એ ક્યાંય આવવા તૈયાર નથી. વસીજે, જ્યાંહીં, ક્યાંહીં જેવાં રૂપો દલપતરામની જૂની ગુજરાતી છે, છાપભૂલ નથી.",
+              "concept_bullets": [
+                "આંહીં — અહીંયાં; જૂનું રૂપ, લય સાચવવા વપરાયું છે.",
+                "શાહ — શાહુકાર, પૈસાદાર માણસ.",
+                "વસીજે — રહીએ, રોકાઈએ.",
+                "સધ — તરત જ, અત્યારે."
+              ],
+              "important_points": [
+                "ગુરુની ના — રાત રહેવા જેવું આ ગામ નથી.",
+                "ગુરુનું કારણ — ચોર ને શાહુકારનો ન્યાય અહીં એક જ છે.",
+                "ચેલાનું કારણ — ખાવાપીવાનું ખૂબ મળે છે.",
+                "સામસામી દલીલ — એક જણ સલામતી જુએ છે, બીજો સગવડ."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "રાતવાસાની ના અને એની સામેનો જવાબ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "ગુરુજીની ના પાછળ કારણ છે, ડર નહીં. જ્યાં દરેક ચીજ એક જ ભાવે ખપતી હોય ત્યાં માણસો પણ એક જ ત્રાજવે તોળાય — ‘હશે ચોરને શાહનો ન્યાય એકે,’. શાહ એટલે શાહુકાર. આવા ગામમાં ગુનો જોઈને સજા થતી નથી, એટલે એ એક રાત પણ રોકાવા તૈયાર નથી.",
+                      "publication_text": "ગુરુજીની ના પાછળ કારણ છે, ડર નહીં. જ્યાં દરેક ચીજ એક જ ભાવે ખપતી હોય ત્યાં માણસો પણ એક જ ત્રાજવે તોળાય — ‘હશે ચોરને શાહનો ન્યાય એકે,’. શાહ એટલે શાહુકાર. આવા ગામમાં ગુનો જોઈને સજા થતી નથી, એટલે એ એક રાત પણ રોકાવા તૈયાર નથી."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "‘રાત રહેવું નહીં આંહીં,’ — ગુરુની સાફ ના.",
+                        "‘ન એ વસતીમાં એક વાસો વસીજે,’ — વસીજે એટલે રહીએ.",
+                        "‘ખાવાપીવા ખૂબ આંહીં,’ — ચેલાનું આખું કારણ આટલું જ."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M1.S2.T3.RQ1",
+                  "legacy_id": "M1.S2.T3.TR1",
+                  "prompt": "ગુરુજી ચેલાને શું કરવાની ના પાડે છે ?",
+                  "answer": "‘રાત રહેવું નહીં આંહીં,’ — એ કહે છે કે આ નગરીમાં રાત રોકાવું નહીં.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M1.S2.T3.RQ2",
+                  "legacy_id": "M1.S2.T3.TR2",
+                  "prompt": "ગુરુજી અહીં રોકાવાની ના કેમ પાડે છે ? એમનું કારણ પંક્તિમાંથી શોધો.",
+                  "answer": "‘હશે ચોરને શાહનો ન્યાય એકે,’ — શાહ એટલે શાહુકાર. જ્યાં ચોરનો ને શાહુકારનો ન્યાય સરખો હોય ત્યાં ગુનો જોઈને સજા થતી નથી, એટલે એમને આ ગામ સલામત લાગતું નથી.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M1.S2.T3.RQ3",
+                  "legacy_id": "M1.S2.T3.TR3",
+                  "prompt": "ગુરુ ને ચેલો બંનેનાં કારણો સામસામાં મૂકો — કોણ શાના પર નજર રાખે છે ?",
+                  "answer": "ગુરુની નજર ન્યાય પર છે : અહીં ગુના પ્રમાણે સજા થતી નથી. ચેલાની નજર ખાવાપીવા પર છે : ‘ખાવાપીવા ખૂબ આંહીં,’. એક જણ જોખમ જુએ છે, બીજો સગવડ — એટલે બંનેના રસ્તા જુદા પડી જાય છે.",
+                  "difficulty": "hard",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "estimated_exchanges": "5",
+              "figures_of_speech": [],
+              "rhyme_scheme": {
+                "pattern": "ચાર-ચાર લીટીની બે કડી; દરેકમાં લીટીઓ બબ્બેની જોડમાં તુક મેળવે છે",
+                "rhyming_words": [
+                  "આંહીં — જ્યાંહીં",
+                  "એકે — વિવેકે",
+                  "વસીજે — બીજે",
+                  "આંહીં — ક્યાંહીં"
+                ],
+                "note": "તુક દરેક લીટીના છેડે પડે છે એટલે ગુરુની ના ને ચેલાનો જવાબ, બંને એક જ ચાલમાં સંભળાય છે. ‘આંહીં’ બે વાર છેડે આવે છે, ને એની સામે એક વાર ‘જ્યાંહીં’ ને એક વાર ‘ક્યાંહીં’ ગોઠવાય છે."
+              },
+              "shabdarth": [
+                {
+                  "shabd": "આંહીં",
+                  "arth": "અહીંયાં",
+                  "prakar": "કાવ્ય-રૂપ"
+                },
+                {
+                  "shabd": "જ્યાંહીં",
+                  "arth": "જ્યાં",
+                  "prakar": "કાવ્ય-રૂપ"
+                },
+                {
+                  "shabd": "શાહ",
+                  "arth": "શાહુકાર, પૈસાદાર માણસ",
+                  "prakar": "આગત"
+                },
+                {
+                  "shabd": "વસીજે",
+                  "arth": "રહીએ, રોકાઈએ",
+                  "prakar": "કાવ્ય-રૂપ"
+                },
+                {
+                  "shabd": "સધ",
+                  "arth": "તરત જ, અત્યારે",
+                  "prakar": "કાવ્ય-રૂપ"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "શાહ",
+                  "samanarthi": [
+                    "શાહુકાર",
+                    "શેઠ"
+                  ]
+                },
+                {
+                  "shabd": "સધ",
+                  "samanarthi": [
+                    "તરત",
+                    "હમણાં"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "રાત",
+                  "vilom": "દિવસ"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "વાક્યના પ્રકારો",
+                  "udaharan": "ચલો સધ ચેલા જવું ગામ બીજે.",
+                  "note": "આ વાક્યમાં ગુરુ ચેલાને કરવાનું કહે છે — ‘ચલો’. કોઈને કંઈક કરવાનું કહેતું વાક્ય આજ્ઞાર્થ વાક્ય કહેવાય."
+                }
+              ],
+              "publication_text": "ગુરુજી ચેલાને ના પાડે છે : ‘રાત રહેવું નહીં આંહીં,’ — આંહીં એટલે અહીંયાં. એમનું કારણ સાફ છે : ‘હશે ચોરને શાહનો ન્યાય એકે,’ — શાહ એટલે શાહુકાર. ચોરનો ને શાહુકારનો ન્યાય સરખો હોય ત્યાં ગુનો જોઈને સજા થતી નથી. એટલે એ કહે છે ‘ન એ વસતીમાં એક વાસો વસીજે,’ — વસીજે એટલે રહીએ, ને સધ એટલે તરત જ. પણ ચેલો ના પાડે છે : અહીં ખાવાપીવાનું ખૂબ મળે છે, એ છોડીને એ ક્યાંય જવા માગતો નથી. આ જૂનાં રૂપો ભૂલ નથી, દલપતરામની ભાષા છે.",
+              "publication_chunk": "ગુરુજી કહે, ‘‘રાત રહેવું નહીં આંહીં,\nસહુ એક ભાવે ખપે ચીજ જ્યાંહીં,\nહશે ચોરને શાહનો ન્યાય એકે,\nનહીં હોય શિક્ષા ગુનાની વિવેકે.’’\n\nન એ વસતીમાં એક વાસો વસીજે,\nચલો સધ ચેલા જવું ગામ બીજે.\nકહે શિષ્ય : ‘‘ખાવાપીવા ખૂબ આંહીં,\nતજી તેહ હું તો ન આવીશ ક્યાંહીં.’’\n\nગુરુજી ચેલાને ના પાડે છે : ‘રાત રહેવું નહીં આંહીં,’ — આંહીં એટલે અહીંયાં. એમનું કારણ સાફ છે : ‘હશે ચોરને શાહનો ન્યાય એકે,’ — શાહ એટલે શાહુકાર. ચોરનો ને શાહુકારનો ન્યાય સરખો હોય ત્યાં ગુનો જોઈને સજા થતી નથી. એટલે એ કહે છે ‘ન એ વસતીમાં એક વાસો વસીજે,’ — વસીજે એટલે રહીએ, ને સધ એટલે તરત જ. પણ ચેલો ના પાડે છે : અહીં ખાવાપીવાનું ખૂબ મળે છે, એ છોડીને એ ક્યાંય જવા માગતો નથી. આ જૂનાં રૂપો ભૂલ નથી, દલપતરામની ભાષા છે.\n\nમાંડવીના કિનારે મોજાં પગ પલાળે ત્યારે થોડું આગળ જવાનું મન થાય છે. પાણી ઠંડું, રેતી નરમ, ને હસવું આપોઆપ આવે. પણ મોટાભાઈ હાથ પકડીને પાછા ખેંચે છે ને કહે છે, ‘હવે ભરતી ચઢે છે, બહાર નીકળી જા.’ એ ઘડીએ એની વાત ગમતી નથી — અહીં તો મજા આવે છે ને ! ગુરુની ના સામે ચેલાને પણ બરાબર આવું જ થયું હતું.",
+              "media": [
+                {
+                  "topic_id": "M1.S2.T3",
+                  "concept_id": "M1.S2.T3.C3",
+                  "id": "M1.S2.T3.C3.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "સાંજે ગુરુની ના",
+                  "description": "સાંજે ગામના દરવાજા ભણી લાકડી ચીંધીને ઊભેલા ગુરુ, ને સામે ઓટલે સુખડી લઈને બેઠેલો શિષ્ય માથું ધુણાવીને ના પાડે છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "home_concept_id": "M1.S2.T3.C3",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બને ત્યાં સુધી બે ઊભાં પાત્રો શબ્દોથી દોરી બતાવો — એક જવાનું કહે છે, બીજો રહેવા માગે છે — ને પછી પૂછો કે ગુરુને આ નગરીની કઈ વાતથી બીક લાગે છે.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, digits or numerals anywhere in the frame, modern clothing, plastic objects, motivational poster layout, text banner with a moral, moral lesson panel, caricature or mockery of any religious or occupational community",
+                  "generation_prompt": "Evening light in a nineteenth-century Gujarati town: low houses roofed with curved clay tiles, raised stone sitting-platforms running along the house fronts, carved wooden brackets under the upper storeys, at the arched town gate at the end of the lane, with the open red-earth road and low thorn scrub visible beyond it. The teacher is a lean elderly man of about sixty with a long white beard, a shaved head, a saffron-ochre cotton robe worn over one shoulder, a tall wooden staff and bare feet. He stands in the middle of the lane, his body already turned towards the gate, one arm stretched out and his staff pointing down the road out of town, his face urgent. The disciple is a young man of about eighteen with a round face, a shaved head with a small tuft of hair at the back, a plain pale-ochre cloth wrapped over one shoulder and bare feet. He sits comfortably on a raised stone sitting-platform against the house wall, the leaf-wrapped block of sweet open on his knee and a piece of it halfway to his mouth, shaking his head and lifting his free palm in cheerful refusal. Lamps are being lit in a doorway behind him, a woman draws water from a clay pot stand, and the sky is going violet above the clay-tile roofs. Soft digital watercolour, vibrant textbook illustration style, warm daylight palette, 16:9. A plain cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati text, lettered in clean Gujarati script and nothing else: ચલો સધ ચેલા જવું ગામ બીજે."
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "પડેલી ભીંત ને સરકતો વાંક",
+      "difficult_words": [
+        {
+          "word": "ઝાઝા",
+          "meaning": "વધારે, ઘણા",
+          "example": "વેકેશનમાં મામાને ઘેર ઝાઝા દિવસ રોકાયા એટલે પાછા આવવાનું મન જ ન થયું."
+        },
+        {
+          "word": "તસ્કર",
+          "meaning": "ચોર",
+          "example": "રાતે ડેરીના તાળા પર નિશાન જોઈને ખબર પડી કે તસ્કર આવી ગયા હતા."
+        },
+        {
+          "word": "દાદ",
+          "meaning": "ફરિયાદ, અરજ",
+          "example": "પાણીની લાઇન નહોતી આવતી એટલે ફળિયાના લોકો દાદ લઈને સરપંચ પાસે ગયા."
+        },
+        {
+          "word": "લગાર",
+          "meaning": "જરા પણ",
+          "example": "કાચનો ગ્લાસ પડ્યો ને તૂટ્યો, પણ નાના ભાઈએ લગાર પણ કબૂલ ન કર્યું."
+        },
+        {
+          "word": "પખાલી",
+          "meaning": "પખાલ, એટલે ચામડાના થેલામાં પાણી લાવી આપનાર",
+          "example": "જૂના જમાનાના ચિત્રમાં પખાલી ખભે થેલો ભરાવીને શેરીએ શેરીએ પાણી પહોંચાડતો દેખાય છે."
+        },
+        {
+          "word": "નીસર્યા",
+          "meaning": "નીકળ્યા; આ કવિની જૂની ગુજરાતીનું રૂપ છે, છાપભૂલ નથી",
+          "example": "‘સૌ મંદિરથી નીસર્યા’ — જૂની ચોપડીના આ વાક્યને આજે આપણે ‘સૌ મંદિરથી નીકળ્યા’ કહીએ."
+        },
+        {
+          "word": "ભૂપ",
+          "meaning": "રાજા; આ કાવ્યમાં એને જ નૃપ, પુરપતિ ને અધિપતિ પણ કહ્યો છે",
+          "example": "વારતાના ચિત્રમાં ભૂપ સોનાની ખુરશીએ બેઠો હતો ને સામે આખી સભા ઊભી હતી."
+        },
+        {
+          "word": "રાતેમાતે",
+          "meaning": "તાજોમાજો, ખાઈપીને હૃષ્ટપુષ્ટ થયેલો",
+          "example": "વેકેશન પૂરું થયું ત્યારે ભાઈબંધ રાતોમાતો થઈને શાળાએ પાછો આવ્યો."
+        }
+      ],
+      "overall_rhyme_scheme": "આ ભાગમાં કાવ્યની ચાલ બદલાય છે. ‘તસ્કર ખાતર પાડવા, ગયા વણિકને દ્વાર,’ પાસેથી લીટીઓ લાંબી થાય છે ને દરેક લીટીની વચ્ચે અલ્પવિરામનો થોભો પડે છે. તુક તો પહેલાંની જેમ જ બબ્બે લીટીના છેડે પડે છે — ખાસો–રાતવાસો, ઝાઝા–તાજા, દ્વાર–ચાર, ફરિયાદ–દાદ, ઠાર–ચાર, અપાર–લગાર, વાર–ઉચ્ચાર, વિશેષ–લેશ, જાય–થાય, દિશ–રીસ, અંગ–પ્રસંગ, કોઈ–જોઈ, અંગ–રંગ. લાંબી લીટી ને વચ્ચેનો થોભો વાત એક જણ પરથી બીજા પર સરકતી હોય એવી ચાલ ઊભી કરે છે.",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "ભીંત પડી ને શેઠ પર સજા ઠરી",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "તજેલો ચેલો ને પડેલી ભીંત",
+              "topic_type": "POEM",
+              "topic_category": "transition",
+              "difficulty": "hard",
+              "depends_on": [
+                "M1.S2.T3"
+              ],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O4"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O4",
+                  "legacy_id": "L4",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "ગુરુ ગામ છોડ્યા પછી શિષ્યના દિવસો કેવા ગયા, અને ભીંત તૂટી પડતાં ડોશીની ફરિયાદ પર રાજાએ કોને સજા ઠરાવી તે ક્રમમાં કહેવું.",
+                  "bloom_level": "Apply",
+                  "home_topic_id": "M2.S3.T4",
+                  "anchor": [
+                    "M2.S3.T4.C4",
+                    "M2.S3.T4.C5"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "ગુરુએ બહુ બોધ દીધો જ ખાસો,\n‘‘નહીં યોગ્ય આંહીં રહ્યો રાતવાસો.’’\nન માની કશી વાત તે શિષ્ય જ્યારે,\nગુરુજી તજીને ગયા ગામ ત્યારે.\nરહ્યા શિષ્યજી તો ત્યહાં દિન ઝાઝા,\nબહુ ખાઈપીને થયા ખૂબ તાજા,\nપછીથી થયા તેહના હાલ કેવા,\nકહું છું હવે હું સુણો સધ તેવા.\nતસ્કર ખાતર પાડવા, ગયા વણિકને દ્વાર,\nતહાં ભીંત તૂટી પડી, ચોર દબાયા ચાર.\nમાત પ્રભાતે ચોરની, ગઈ નૃપને ફરિયાદ,\nશૂળી ઠરાવી શેઠને, ડોશીની સુણી દાદ.",
+              "modified_chunk": "ગુરુ શિષ્યને બહુ સમજાવે છે કે અહીં રાતવાસો કરવો યોગ્ય નથી, પણ શિષ્ય એકે વાત માનતો નથી. છેવટે ગુરુ એને છોડીને બીજે ગામ ચાલ્યા જાય છે, અને શિષ્ય ત્યાં ઝાઝા એટલે કે ઘણા દિવસ રહીને ખૂબ ખાઈપીને તાજોમાજો થઈ જાય છે. પછી એક રાતે તસ્કર એટલે ચોર એક વણિકના, એટલે કે વેપારીના, ઘરમાં ખાતર પાડવા જાય છે, ત્યાં ભીંત તૂટી પડે છે અને ચારેય ચોર નીચે દબાઈ જાય છે. સવારે એક ચોરની મા નૃપ એટલે રાજા પાસે ફરિયાદ લઈ જાય છે, અને ડોશીની દાદ સાંભળીને રાજા શેઠને શૂળીની સજા ઠરાવે છે.",
+              "word_count": {
+                "original": 71
+              },
+              "key_terms": [
+                "બોધ — જ્ઞાન, સમજ; અહીં ગુરુની સમજાવટ",
+                "ઝાઝા — વધારે, ઘણા",
+                "તસ્કર — ચોર",
+                "નૃપ — રાજા, અધિપતિ, ભૂપ",
+                "શૂળી — જમીનમાં રોપેલો અણીવાળો મોટો જાડો સળિયો, જેના પર પરોવીને મોતની સજા કરવામાં આવે છે",
+                "દાદ — ફરિયાદ, અરજ"
+              ],
+              "explanation": "ગુરુજી છેલ્લી વાર સમજાવે છે, પણ ચેલો માનતો નથી — એટલે એ એને છોડીને બીજે ગામ ચાલ્યા જાય છે; પોતાની વાત ન માને એની પાછળ એ રોકાતા નથી. ‘રહ્યા શિષ્યજી તો ત્યહાં દિન ઝાઝા’ — ઝાઝા એટલે ઘણા; ખાઈપીને એ તાજોમાજો થઈ જાય છે. પછી ‘તસ્કર ખાતર પાડવા, ગયા વણિકને દ્વાર,’ — તસ્કર એટલે ચોર, ને ખાતર પાડવું એટલે ચોરી કરવી. ભીંત ચોર પર જ પડી; તોય ચોરની માની ફરિયાદ સાંભળીને શૂળીની સજા ઘરના શેઠને ઠરી. પુસ્તક પછી આ ઘટનાઓ ક્રમમાં ગોઠવવાનું કહેશે.",
+              "real_life_example": "પોળની શેરીમાં કોઈ છોકરો બારણાની ઘંટડી દબાવીને ભાગી જાય છે, ને તમે તો ત્યાં જ ઊભા હતા. બારણું ખૂલે છે, ને દાદીમા સામે તમે એકલા ! ભાગનારનું નામ તમને ખબર નથી, ને દાદીમાની નજર તમારા પર છે. તમારે કંઈ કર્યું નથી, છતાં જવાબ તમારે આપવો પડે છે. કાવ્યમાં શેઠનું પણ આવું જ થયું — ઘર એનું, વાંક કોઈનો, ને સજા એને. તમે એ ઘડીએ દાદીમાને શું કહો ?",
+              "brief_summary": "ગુરુ ચાલ્યા જાય છે, શિષ્ય ખાઈપીને તાજો થાય છે, ને ભીંત નીચે ચોર દબાતાં સજા શેઠને ઠરે છે.",
+              "summary": "ચેલો એકે વાત માનતો નથી, એટલે ગુરુજી એને છોડીને બીજે ગામ જાય છે. શિષ્ય ત્યાં ઝાઝા દિવસ રહીને ખૂબ ખાઈપીને તાજો થઈ જાય છે. પછી ચોર વણિકના ઘરે ખાતર પાડવા જાય છે, ભીંત તૂટી પડે છે, ને ડોશીની ફરિયાદ પર રાજા શેઠને શૂળીની સજા ઠરાવે છે.",
+              "detailed_summary": "ગુરુજી શિષ્યને ખૂબ સમજાવે છે કે અહીં રાતવાસો યોગ્ય નથી, પણ શિષ્ય એકે વાત માનતો નથી. છેવટે ગુરુ એને તજીને બીજે ગામ ચાલ્યા જાય છે. ‘રહ્યા શિષ્યજી તો ત્યહાં દિન ઝાઝા’ — ઝાઝા એટલે ઘણા; ખાઈપીને એ ખૂબ તાજો થઈ જાય છે. પછી એક રાતે તસ્કર એટલે કે ચોર વણિકના ઘરે ખાતર પાડવા જાય છે, ને ‘તહાં ભીંત તૂટી પડી, ચોર દબાયા ચાર.’ સવારે એક ચોરની મા નૃપ પાસે ફરિયાદ લઈ જાય છે. મરનારા ચોર હતા ને ઘર શેઠનું હતું, છતાં ડોશીની દાદ સાંભળીને શૂળીની સજા શેઠને ઠરે છે — વાંક વગરના માણસ પર સજા આવે એ આ નગરીની પહેલી નિશાની છે.",
+              "concept_bullets": [
+                "ઝાઝા — વધારે, ઘણા.",
+                "તસ્કર — ચોર.",
+                "ખાતર પાડવું — ચોરી કરવી; પુસ્તકે છાપેલો રૂઢિપ્રયોગ.",
+                "નૃપ — રાજા; આગળ એને જ ‘રાજા’ કહ્યો હતો."
+              ],
+              "important_points": [
+                "ગુરુ ચાલ્યા જાય છે — ન માનનારની પાછળ એ રોકાતા નથી.",
+                "શિષ્ય રહી પડે છે — ઝાઝા દિવસ ખાઈપીને તાજો થાય છે.",
+                "ભીંત ચોર પર પડે છે — ચારેય ચોર નીચે દબાય છે.",
+                "સજા શેઠને — ઘર એનું હતું એટલું જ કારણ."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "ગુરુ ગયા પછીના તાજામાજા દિવસો",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "ગુરુ સમજાવીને થાકે છે ને પછી નીકળી જાય છે — દલીલ ચાલુ રાખવાને બદલે એ પોતાનો રસ્તો લે છે. શિષ્ય માટે તો આ સારું જ થયું : ‘રહ્યા શિષ્યજી તો ત્યહાં દિન ઝાઝા’, ને ખાઈપીને એ તાજોમાજો થઈ જાય છે. ઝાઝા એટલે ઘણા. અહીં સુધી બધું એની ધારણા પ્રમાણે ચાલે છે.",
+                      "publication_text": "ગુરુ સમજાવીને થાકે છે ને પછી નીકળી જાય છે — દલીલ ચાલુ રાખવાને બદલે એ પોતાનો રસ્તો લે છે. શિષ્ય માટે તો આ સારું જ થયું : ‘રહ્યા શિષ્યજી તો ત્યહાં દિન ઝાઝા’, ને ખાઈપીને એ તાજોમાજો થઈ જાય છે. ઝાઝા એટલે ઘણા. અહીં સુધી બધું એની ધારણા પ્રમાણે ચાલે છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "‘ન માની કશી વાત તે શિષ્ય જ્યારે,’ — એકે વાત માની નહીં.",
+                        "‘ગુરુજી તજીને ગયા ગામ ત્યારે.’ — તજવું એટલે છોડવું.",
+                        "‘બહુ ખાઈપીને થયા ખૂબ તાજા,’ — શરીર ભરાવા લાગ્યું."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "concept_id": "M2.S3.T4.C5",
+                  "concept_name": "તૂટેલી ભીંત ને શેઠ પર ઠરેલી સજા",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "હવે વારતા વળે છે. ‘તસ્કર ખાતર પાડવા, ગયા વણિકને દ્વાર,’ — તસ્કર એટલે ચોર ને ખાતર પાડવું એટલે ચોરી કરવી. ભીંત ખોદતાં એ જ ભીંત ચોર પર પડે છે. ચોરની મા ફરિયાદ લઈ જાય છે, ને દાદ સાંભળીને રાજા સજા શેઠને ઠરાવે છે. શેઠે કોઈને માર્યા નથી — એનું ઘર પડ્યું છે, એટલું જ.",
+                      "publication_text": "હવે વારતા વળે છે. ‘તસ્કર ખાતર પાડવા, ગયા વણિકને દ્વાર,’ — તસ્કર એટલે ચોર ને ખાતર પાડવું એટલે ચોરી કરવી. ભીંત ખોદતાં એ જ ભીંત ચોર પર પડે છે. ચોરની મા ફરિયાદ લઈ જાય છે, ને દાદ સાંભળીને રાજા સજા શેઠને ઠરાવે છે. શેઠે કોઈને માર્યા નથી — એનું ઘર પડ્યું છે, એટલું જ."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "‘તહાં ભીંત તૂટી પડી, ચોર દબાયા ચાર.’",
+                        "‘માત પ્રભાતે ચોરની, ગઈ નૃપને ફરિયાદ,’ — દાદ એટલે ફરિયાદ, અરજ.",
+                        "‘શૂળી ઠરાવી શેઠને, ડોશીની સુણી દાદ.’ — સજા વાંક જોયા વગર ઠરે છે."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M2.S3.T4.RQ1",
+                  "legacy_id": "M2.S3.T4.TR1",
+                  "prompt": "ગુરુ ગામ છોડીને ગયા પછી શિષ્યના દિવસો કેવા ગયા ?",
+                  "answer": "‘રહ્યા શિષ્યજી તો ત્યહાં દિન ઝાઝા, બહુ ખાઈપીને થયા ખૂબ તાજા,’ — એ ઘણા દિવસ ત્યાં રહ્યો ને ખાઈપીને ખૂબ તાજો થઈ ગયો.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M2.S3.T4.RQ2",
+                  "legacy_id": "M2.S3.T4.TR2",
+                  "prompt": "‘ખાતર પાડવું’ એટલે શું, ને ચોર ભીંત નીચે કેમ દબાયા ?",
+                  "answer": "ખાતર પાડવું એટલે ચોરી કરવી. ચોર રાતે વણિકના ઘરની ભીંત ખોદતા હતા, ને એ જ ભીંત તૂટીને એમના પર પડી — ‘તહાં ભીંત તૂટી પડી, ચોર દબાયા ચાર.’",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M2.S3.T4.RQ3",
+                  "legacy_id": "M2.S3.T4.TR3",
+                  "prompt": "ચોર મર્યાનો વાંક શેઠ પર કઈ રીતે આવ્યો ? ક્રમમાં કહો.",
+                  "answer": "પહેલાં ચોર ખાતર પાડવા વણિકના દ્વારે ગયા; પછી ભીંત તૂટી પડી ને ચાર ચોર દબાયા; સવારે એક ચોરની મા રાજા પાસે ફરિયાદ લઈ ગઈ; ને ડોશીની દાદ સાંભળીને રાજાએ શૂળીની સજા ઘરના શેઠને ઠરાવી. શેઠનો કશો વાંક નહોતો, ઘર એનું હતું એટલું જ.",
+                  "difficulty": "hard",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "estimated_exchanges": "5",
+              "figures_of_speech": [],
+              "rhyme_scheme": {
+                "pattern": "પહેલી આઠ લીટી ટૂંકી ચાલમાં, પછીની લીટીઓ લાંબી ને વચ્ચે અલ્પવિરામવાળી; તુક બબ્બે લીટીના છેડે",
+                "rhyming_words": [
+                  "ખાસો — રાતવાસો",
+                  "ઝાઝા — તાજા",
+                  "દ્વાર — ચાર",
+                  "ફરિયાદ — દાદ"
+                ],
+                "note": "‘તસ્કર ખાતર પાડવા, ગયા વણિકને દ્વાર,’ પાસે લીટીની ચાલ બદલાય છે — લીટી લાંબી થાય છે ને વચ્ચે થોભો પડે છે. વારતા હવે ઝડપ પકડે છે."
+              },
+              "shabdarth": [
+                {
+                  "shabd": "ઝાઝા",
+                  "arth": "વધારે, ઘણા",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "તસ્કર",
+                  "arth": "ચોર",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "વણિક",
+                  "arth": "વેપારી, વેપાર કરનાર",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "નૃપ",
+                  "arth": "રાજા",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "દાદ",
+                  "arth": "ફરિયાદ, અરજ",
+                  "prakar": "આગત"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "તસ્કર",
+                  "samanarthi": [
+                    "ચોર",
+                    "લૂંટારો"
+                  ]
+                },
+                {
+                  "shabd": "નૃપ",
+                  "samanarthi": [
+                    "રાજા",
+                    "ભૂપ",
+                    "અધિપતિ"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "પ્રભાત",
+                  "vilom": "સાંજ"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "રૂઢિપ્રયોગ",
+                  "udaharan": "તસ્કર ખાતર પાડવા, ગયા વણિકને દ્વાર,",
+                  "note": "‘ખાતર પાડવું’ એટલે ચોરી કરવી — પુસ્તકે પોતે આ રૂઢિપ્રયોગ છાપ્યો છે. અહીં ‘ખાતર’નો અર્થ ખેતરના ખાતર જેવો સીધો નથી; રૂઢિપ્રયોગનો અર્થ શબ્દોના સીધા અર્થથી જુદો હોય છે."
+                }
+              ],
+              "publication_text": "ગુરુજી છેલ્લી વાર સમજાવે છે, પણ ચેલો માનતો નથી — એટલે એ એને છોડીને બીજે ગામ ચાલ્યા જાય છે; પોતાની વાત ન માને એની પાછળ એ રોકાતા નથી. ‘રહ્યા શિષ્યજી તો ત્યહાં દિન ઝાઝા’ — ઝાઝા એટલે ઘણા; ખાઈપીને એ તાજોમાજો થઈ જાય છે. પછી ‘તસ્કર ખાતર પાડવા, ગયા વણિકને દ્વાર,’ — તસ્કર એટલે ચોર, ને ખાતર પાડવું એટલે ચોરી કરવી. ભીંત ચોર પર જ પડી; તોય ચોરની માની ફરિયાદ સાંભળીને શૂળીની સજા ઘરના શેઠને ઠરી. પુસ્તક પછી આ ઘટનાઓ ક્રમમાં ગોઠવવાનું કહે છે.",
+              "publication_chunk": "ગુરુએ બહુ બોધ દીધો જ ખાસો,\n‘‘નહીં યોગ્ય આંહીં રહ્યો રાતવાસો.’’\nન માની કશી વાત તે શિષ્ય જ્યારે,\nગુરુજી તજીને ગયા ગામ ત્યારે.\nરહ્યા શિષ્યજી તો ત્યહાં દિન ઝાઝા,\nબહુ ખાઈપીને થયા ખૂબ તાજા,\nપછીથી થયા તેહના હાલ કેવા,\nકહું છું હવે હું સુણો સધ તેવા.\nતસ્કર ખાતર પાડવા, ગયા વણિકને દ્વાર,\nતહાં ભીંત તૂટી પડી, ચોર દબાયા ચાર.\nમાત પ્રભાતે ચોરની, ગઈ નૃપને ફરિયાદ,\nશૂળી ઠરાવી શેઠને, ડોશીની સુણી દાદ.\n\nગુરુજી છેલ્લી વાર સમજાવે છે, પણ ચેલો માનતો નથી — એટલે એ એને છોડીને બીજે ગામ ચાલ્યા જાય છે; પોતાની વાત ન માને એની પાછળ એ રોકાતા નથી. ‘રહ્યા શિષ્યજી તો ત્યહાં દિન ઝાઝા’ — ઝાઝા એટલે ઘણા; ખાઈપીને એ તાજોમાજો થઈ જાય છે. પછી ‘તસ્કર ખાતર પાડવા, ગયા વણિકને દ્વાર,’ — તસ્કર એટલે ચોર, ને ખાતર પાડવું એટલે ચોરી કરવી. ભીંત ચોર પર જ પડી; તોય ચોરની માની ફરિયાદ સાંભળીને શૂળીની સજા ઘરના શેઠને ઠરી. પુસ્તક પછી આ ઘટનાઓ ક્રમમાં ગોઠવવાનું કહે છે.\n\nપોળની શેરીમાં કોઈ છોકરો બારણાની ઘંટડી દબાવીને ભાગી જાય છે, ને પડખે ઊભેલો બીજો છોકરો ત્યાં જ રહી જાય છે. બારણું ખૂલે છે, ને દાદીમા સામે એ એકલો ! ભાગનારનું નામ એને ખબર નથી, ને દાદીમાની નજર એના પર છે. એણે કંઈ કર્યું નથી, છતાં જવાબ એણે આપવો પડે છે. કાવ્યમાં શેઠનું પણ આવું જ થયું — ઘર એનું, વાંક કોઈનો, ને સજા એને.",
+              "media": [
+                {
+                  "topic_id": "M2.S3.T4",
+                  "concept_id": "M2.S3.T4.C5",
+                  "id": "M2.S3.T4.C5.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "પ્રભાતે પડેલી ભીંત",
+                  "description": "સવારે વણિકના ઘરની પડી ગયેલી ભીંતનો ઈંટ-માટીનો ઢગલો ને પાયા પાસે ખોદેલું બાકોરું; પડખે હાથ ઊંચા કરીને ફરિયાદ કરતી ડોશી ને દરવાજે ઊભેલો વણિક.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "home_concept_id": "M2.S3.T4.C5",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બને ત્યાં સુધી ઢગલો, ધૂળ ને ખોદેલું બાકોરું જ વર્ણવો — કશું બિહામણું નહીં — ને પછી પૂછો કે ડોશીની ફરિયાદ સાંભળ્યા પછી સજા કોના પર ઠરી.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, digits or numerals anywhere in the frame, modern clothing, plastic objects, motivational poster layout, text banner with a moral, moral lesson panel, caricature or mockery of any religious or occupational community, blood, gore, injured or crushed bodies, a body impaled on the stake, any depicted execution, horror imagery",
+                  "generation_prompt": "Early morning light in a lane of a nineteenth-century Gujarati town: low houses roofed with curved clay tiles, raised stone sitting-platforms running along the house fronts, carved wooden brackets under the upper storeys. The side wall of a merchant's two-storey house has collapsed into a heap of mud bricks and dust; a freshly dug hole gapes at the base of the part of the wall still standing and an iron digging bar lies abandoned on the rubble. Nobody is under the bricks and nothing gruesome is shown. Neighbours in white dhotis and cotton saris crowd at a distance with hands over their mouths. In the foreground a small stooped old woman in a coarse dark-maroon sari with a worn shoulder cloth raises both hands, wailing, towards two town guards. The two town guards wear plain white tunics, red waist sashes and folded turbans, and each carries a bamboo staff. The merchant is a stout man of about forty-five in a white dhoti, a long white coat and a red-bordered turban, with a gold hoop in one ear. He stands in his own doorway staring at the rubble with his hands spread wide. Dust still hangs in the slanting light, a clay water pot stand sits by the door and a crow watches from the tiled roof. Soft digital watercolour, vibrant textbook illustration style, warm daylight palette, 16:9. A plain cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati text, lettered in clean Gujarati script and nothing else: તહાં ભીંત તૂટી પડી, ચોર દબાયા ચાર."
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "શેઠનો બચાવ — વાંક કડિયાનો",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [
+                "M2.S3.T4"
+              ],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O5"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O5",
+                  "legacy_id": "L5",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "વણિક ‘કડિયા તણો એમાં વાંક અપાર’ કહીને પોતાનો બચાવ કઈ રીતે કરે છે અને એની દલીલમાં શી ખામી છે તે તપાસવું.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M2.S3.T5",
+                  "anchor": [
+                    "M2.S3.T5.C6"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "‘‘એવું ઘર કેવું ચણ્યું, ખૂન થયાં તે ઠાર,\nરાતે ખાતર ખોદતાં, ચોર દબાયા ચાર.’’\nવણિક કહે, ‘‘કડિયા તણો એમાં વાંક અપાર,\nખરેખર એમાં નથી, મારો ખોડ લગાર.’’",
+              "modified_chunk": "રાજા સામે વાત મુકાય છે કે એવું તે કેવું ઘર ચણ્યું કે ચાર જણનાં ત્યાં જ ખૂન થયાં — રાતે ખાતર ખોદતાં ચાર ચોર દબાઈ ગયા. વણિક એટલે કે વેપારી પોતાનો બચાવ કરે છે અને કહે છે કે એમાં તો ઘર ચણનાર કડિયાનો અપાર એટલે કે બહુ મોટો વાંક છે. પોતાનામાં લગાર એટલે જરા પણ ખોડ નથી એમ એ કહી દે છે.",
+              "word_count": {
+                "original": 27
+              },
+              "key_terms": [
+                "વણિક — વેપારી, વેપાર કરનાર",
+                "કડિયો — ઈંટ-ચૂનાથી ઘર ચણનાર કારીગર",
+                "તણો — '-નો'; જૂનું રૂપ છે, કવિએ લય સાચવવા વાપર્યું છે, ભૂલ નથી",
+                "અપાર — પાર વિનાનું, પુષ્કળ",
+                "ખોડ — શારીરિક ખામી; અહીં 'મારી જરાય ખામી નથી' એ અર્થમાં",
+                "લગાર — જરા પણ"
+              ],
+              "explanation": "રાજા આગળ વાત મુકાય છે : ‘એવું ઘર કેવું ચણ્યું, ખૂન થયાં તે ઠાર,’ — અહીં ખૂન એટલે મરણ, ને મરનારા છે ભીંત નીચે દબાયેલા ચાર ચોર. આ પંક્તિ કોણ બોલે છે તે કવિ છાપતા નથી; પુસ્તક પછી પૂછશે કે કાવ્યમાં આ કોણ બોલ્યું. પછીની પંક્તિ પર નામ છપાયું છે : ‘વણિક કહે, ‘‘કડિયા તણો એમાં વાંક અપાર,’ — તણો એટલે ‘નો’, જૂનું રૂપ. શેઠ કહે છે કે વાંક ઘર ચણનાર કડિયાનો, ને પોતાનામાં લગાર એટલે જરાય ખોડ નથી. સજા પોતાના પરથી ખસેડીને એ બીજા પર મૂકી દે છે.",
+              "real_life_example": "નવરાત્રિમાં ફળિયાના રાસમાં જોડી બાંધીને દાંડિયા રમો છો. એક ઘડીએ તાલ ચૂકાય ને દાંડિયો હાથ પર વાગે. તરત તમે કહી દો છો, ‘તેં મોડું આપ્યું !’ ને સામેવાળી કહે છે, ‘ના, તેં વહેલું માર્યું.’ બંનેને ખાતરી છે કે વાંક પોતાનો નથી. કાવ્યમાં શેઠ પણ રાજા સામે એ જ ઝડપે કહી દે છે કે વાંક કડિયાનો. તાલ ચૂક્યા પછી તમે સૌથી પહેલાં શું બોલો છો ?",
+              "brief_summary": "શેઠ રાજા સામે કહી દે છે કે વાંક ઘર ચણનાર કડિયાનો છે, પોતાનો જરાય નહીં.",
+              "summary": "‘એવું ઘર કેવું ચણ્યું, ખૂન થયાં તે ઠાર,’ — ઘર ચણવા સામે સવાલ ઊઠે છે. વણિક તરત જવાબ વાળે છે કે વાંક તો કડિયાનો અપાર છે. પોતાનામાં લગાર એટલે જરાય ખોડ નથી એમ એ કહી દે છે.",
+              "detailed_summary": "રાજાની સભામાં પહેલો સવાલ ઘર સામે ઊઠે છે — ‘એવું ઘર કેવું ચણ્યું, ખૂન થયાં તે ઠાર,’. અહીં ખૂન એટલે મરણ, ને મરનારા ચાર ચોર છે જે ખાતર ખોદતાં ભીંત નીચે દબાયા હતા. આ પંક્તિ કોણ બોલે છે તે કવિએ છાપ્યું નથી, પણ પછીની પંક્તિ પર નામ છપાયું છે : વણિક કહે છે કે ‘કડિયા તણો એમાં વાંક અપાર,’. તણો એટલે ‘નો’, ને અપાર એટલે પુષ્કળ. પોતાનામાં લગાર એટલે જરાય ખોડ નથી એમ કહીને એ સજા પોતાના પરથી ખસેડી દે છે. શેઠે કોઈને માર્યા નથી, છતાં એણે જવાબ આપવો પડે છે — ને એનો જવાબ બીજા તરફ આંગળી ચીંધવાનો છે.",
+              "concept_bullets": [
+                "ખૂન — મરણ; અહીં ભીંત નીચે દબાયેલા ચાર ચોરની વાત છે.",
+                "તણો — ‘નો’; જૂનું રૂપ, ભૂલ નહીં.",
+                "અપાર — પાર વિનાનું, પુષ્કળ.",
+                "લગાર — જરા પણ; ‘મારો ખોડ લગાર’ નથી એટલે વાંક જરાય નથી."
+              ],
+              "important_points": [
+                "સવાલ ઘર સામે — એવું ઘર કેમ ચણ્યું એમ પુછાય છે.",
+                "બોલનારનું નામ — પહેલી પંક્તિ પર કવિએ છાપ્યું નથી.",
+                "વણિકનો જવાબ — વાંક કડિયાનો, પોતાનો નહીં.",
+                "સાંકળનું પહેલું પગલું — સજા અહીંથી ખસવા માંડે છે."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C6",
+                  "concept_name": "‘મારો ખોડ લગાર’ નહીં એવી દલીલ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "શેઠ સામે આરોપ મુકાય કે તરત એનો જવાબ તૈયાર છે — ‘કડિયા તણો એમાં વાંક અપાર,’. તણો એટલે ‘નો’ ને અપાર એટલે પુષ્કળ. પોતાનામાં ‘ખોડ લગાર’ નથી, એટલે કે જરાય વાંક નથી. અહીં કોઈ સાબિતી અપાતી નથી; માત્ર નામ બદલાય છે, ને સજા આગળ સરકે છે.",
+                      "publication_text": "શેઠ સામે આરોપ મુકાય કે તરત એનો જવાબ તૈયાર છે — ‘કડિયા તણો એમાં વાંક અપાર,’. તણો એટલે ‘નો’ ને અપાર એટલે પુષ્કળ. પોતાનામાં ‘ખોડ લગાર’ નથી, એટલે કે જરાય વાંક નથી. અહીં કોઈ સાબિતી અપાતી નથી; માત્ર નામ બદલાય છે, ને સજા આગળ સરકે છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "‘એવું ઘર કેવું ચણ્યું, ખૂન થયાં તે ઠાર,’ — બોલનારનું નામ છપાયું નથી.",
+                        "‘વણિક કહે,’ — આ પંક્તિ પર બોલનારનું નામ છપાયું છે.",
+                        "‘ખરેખર એમાં નથી, મારો ખોડ લગાર.’ — આખો બચાવ એક જ લીટીમાં."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M2.S3.T5.RQ1",
+                  "legacy_id": "M2.S3.T5.TR1",
+                  "prompt": "વણિક વાંક કોના પર નાખે છે ?",
+                  "answer": "‘વણિક કહે, ‘‘કડિયા તણો એમાં વાંક અપાર,’ — એ વાંક ઘર ચણનાર કડિયા પર નાખે છે.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M2.S3.T5.RQ2",
+                  "legacy_id": "M2.S3.T5.TR2",
+                  "prompt": "વણિક કડિયાનું નામ કેમ લેતો હશે ? એની દલીલ શું છે ?",
+                  "answer": "એની દલીલ એ છે કે ઘર ચણવાનું કામ કડિયાનું હતું, એટલે ભીંત પડી એમાં વાંક કડિયાનો. પોતાનામાં ‘ખોડ લગાર’ નથી એમ કહીને એ સજા પોતાના પરથી ખસેડવા માગે છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M2.S3.T5.RQ3",
+                  "legacy_id": "M2.S3.T5.TR3",
+                  "prompt": "તમે એ સભામાં હાજર હો ને શેઠનું આ વાક્ય સાંભળો, તો રાજાને કયો સવાલ પૂછો ?",
+                  "answer": "આનો એક સંભવિત જવાબ : ‘ભીંત નીચે દબાયા તે તો ખાતર પાડવા આવેલા ચોર હતા — તો પછી સજા કોઈને શા માટે ?’ બાળક પોતાના શબ્દોમાં આવો કોઈ પણ સીધો સવાલ મૂકી શકે.",
+                  "difficulty": "hard",
+                  "bloom_level": "apply"
+                }
+              ],
+              "estimated_exchanges": "4",
+              "figures_of_speech": [],
+              "rhyme_scheme": {
+                "pattern": "લાંબી લીટીની બબ્બેની જોડ; ચારેય લીટીના છેડે એક જ તુક",
+                "rhyming_words": [
+                  "ઠાર — ચાર",
+                  "અપાર — લગાર"
+                ],
+                "note": "ચારેય લીટીના છેડા એક જ અવાજ પર પૂરા થાય છે, એટલે વાત હથોડાની જેમ એક પછી એક પડે છે."
+              },
+              "shabdarth": [
+                {
+                  "shabd": "ઠાર",
+                  "arth": "ઠામ, ઠેકાણું",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "તણો",
+                  "arth": "‘નો’; જૂનું રૂપ",
+                  "prakar": "કાવ્ય-રૂપ"
+                },
+                {
+                  "shabd": "અપાર",
+                  "arth": "પાર વિનાનું, પુષ્કળ",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "ખોડ",
+                  "arth": "ખામી; અહીં ‘મારો વાંક જરાય નથી’ એ અર્થમાં",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "લગાર",
+                  "arth": "જરા પણ",
+                  "prakar": "દેશ્ય"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "અપાર",
+                  "samanarthi": [
+                    "પુષ્કળ",
+                    "ઘણું"
+                  ]
+                },
+                {
+                  "shabd": "વણિક",
+                  "samanarthi": [
+                    "વેપારી"
+                  ]
+                }
+              ],
+              "vilom": [],
+              "vyakaran": [
+                {
+                  "bindu": "સર્વનામ",
+                  "udaharan": "ખરેખર એમાં નથી, મારો ખોડ લગાર.",
+                  "note": "‘મારો’ શબ્દ વણિક પોતાના માટે વાપરે છે — પોતાનું નામ ફરી લેવું પડતું નથી. નામની જગ્યાએ આવતા આવા શબ્દોને સર્વનામ કહે છે."
+                }
+              ],
+              "publication_text": "રાજા આગળ વાત મુકાય છે : ‘એવું ઘર કેવું ચણ્યું, ખૂન થયાં તે ઠાર,’ — અહીં ખૂન એટલે મરણ, ને મરનારા છે ભીંત નીચે દબાયેલા ચાર ચોર. આ પંક્તિ કોણ બોલે છે તે કવિ છાપતા નથી; પુસ્તક પછી પૂછે છે કે કાવ્યમાં આ કોણ બોલ્યું. પછીની પંક્તિ પર નામ છપાયું છે : ‘વણિક કહે, ‘‘કડિયા તણો એમાં વાંક અપાર,’ — તણો એટલે ‘નો’, જૂનું રૂપ. શેઠ કહે છે કે વાંક ઘર ચણનાર કડિયાનો, ને પોતાનામાં લગાર એટલે જરાય ખોડ નથી. સજા પોતાના પરથી ખસેડીને એ બીજા પર મૂકી દે છે.",
+              "publication_chunk": "‘‘એવું ઘર કેવું ચણ્યું, ખૂન થયાં તે ઠાર,\nરાતે ખાતર ખોદતાં, ચોર દબાયા ચાર.’’\nવણિક કહે, ‘‘કડિયા તણો એમાં વાંક અપાર,\nખરેખર એમાં નથી, મારો ખોડ લગાર.’’\n\nરાજા આગળ વાત મુકાય છે : ‘એવું ઘર કેવું ચણ્યું, ખૂન થયાં તે ઠાર,’ — અહીં ખૂન એટલે મરણ, ને મરનારા છે ભીંત નીચે દબાયેલા ચાર ચોર. આ પંક્તિ કોણ બોલે છે તે કવિ છાપતા નથી; પુસ્તક પછી પૂછે છે કે કાવ્યમાં આ કોણ બોલ્યું. પછીની પંક્તિ પર નામ છપાયું છે : ‘વણિક કહે, ‘‘કડિયા તણો એમાં વાંક અપાર,’ — તણો એટલે ‘નો’, જૂનું રૂપ. શેઠ કહે છે કે વાંક ઘર ચણનાર કડિયાનો, ને પોતાનામાં લગાર એટલે જરાય ખોડ નથી. સજા પોતાના પરથી ખસેડીને એ બીજા પર મૂકી દે છે.\n\nનવરાત્રિમાં ફળિયાના રાસમાં જોડી બાંધીને દાંડિયા રમાય છે. એક ઘડીએ તાલ ચૂકાય ને દાંડિયો હાથ પર વાગે. તરત એક જણ કહી દે છે, ‘તેં મોડું આપ્યું !’ ને સામેવાળી કહે છે, ‘ના, તેં વહેલું માર્યું.’ બંનેને ખાતરી છે કે વાંક પોતાનો નથી. કાવ્યમાં શેઠ પણ રાજા સામે એ જ ઝડપે કહી દે છે કે વાંક કડિયાનો.",
+              "media": [
+                {
+                  "topic_id": "M2.S3.T5",
+                  "concept_id": "M2.S3.T5.C6",
+                  "id": "M2.S3.T5.C6.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "વણિકનો બચાવ",
+                  "description": "દરબારના ચોકમાં હાથ જોડીને ઊભેલો વણિક એક હાથ લંબાવીને કડિયા તરફ ચીંધે છે, ને હાથમાં થાપી લઈને ઊભેલો કડિયો મોં ખોલીને જોઈ રહે છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "home_concept_id": "M2.S3.T5.C6",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બને ત્યાં સુધી ચીંધાતી આંગળી પર ધ્યાન ખેંચો ને પૂછો કે વણિક પોતાના પરથી વાંક કઈ રીતે ખસેડે છે — અહીં ‘ખોડ’ એટલે ભૂલ, વાંક.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, digits or numerals anywhere in the frame, modern clothing, plastic objects, motivational poster layout, text banner with a moral, moral lesson panel, caricature or mockery of any religious or occupational community, blood, gore, injured or crushed bodies, a body impaled on the stake, any depicted execution, horror imagery",
+                  "generation_prompt": "Late morning in the open courtyard where a nineteenth-century Gujarati town of low clay-tiled houses and carved wooden brackets holds its court of justice: a scalloped cloth canopy stretched on painted wooden poles over a whitewashed dais, clay-tile roofs and carved wooden brackets rising behind, a raised stone sitting-platform along one wall. The king is a plump man of about fifty in a green-and-gold brocade long coat and a jewelled saffron turban with a small plume, with a thick curled moustache. He sits cross-legged on the low cushioned platform, leaning forward with one eyebrow raised. Before him The merchant is a stout man of about forty-five in a white dhoti, a long white coat and a red-bordered turban, with a gold hoop in one ear. He stands with his palms half joined but one arm flung out to the side, pointing accusingly at the mason. The mason is a wiry man of about thirty-five in a short dhoti with a checked cloth tied round his head, a trowel in his hand and dried lime dust on his forearms. The mason stands a few steps away, mouth open in astonishment, his free hand on his chest. A few broken mud bricks lie on the ground between them. Townsfolk in white dhotis and cotton saris watch from the edge of the courtyard, and a servant with a long-handled fan stands behind the platform. Soft digital watercolour, vibrant textbook illustration style, warm daylight palette, 16:9. A plain cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati text, lettered in clean Gujarati script and nothing else: ખરેખર એમાં નથી, મારો ખોડ લગાર."
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "કડિયાથી મુલ્લા સુધીની સાંકળ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T6",
+              "topic_name": "કડિયાથી પખાલી સુધી ખસતી ચૂક",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T5"
+              ],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O6"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O6",
+                  "legacy_id": "L6",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "કડિયો અને ગારો કરનાર બંને પોતાની ચૂક બીજા પર કઈ રીતે ઢોળે છે તે બે પંક્તિઓ સામસામી મૂકીને સાંકળનું આગલું પગલું ઓળખાવવું.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M2.S4.T6",
+                  "anchor": [
+                    "M2.S4.T6.C7"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "કડિયાને શૂળી ઠરી, વણિક બચ્યો તે વાર,\nચૂક ગારો કરનારની, કડિયે કરી ઉચ્ચાર.\nગારો કરનાર કહે, ‘‘પાણી થયું વિશેષ,\nએ તો ચૂક પખાલીની, મારી ચૂક ન લેશ.’’",
+              "modified_chunk": "હવે વણિક બચી જાય છે અને શૂળીની સજા કડિયાને ઠરે છે. કડિયો બોલી ઊઠે છે કે ચૂક એટલે કે ભૂલ તો ગારો કરનારની છે. ગારો કરનાર વળી કહે છે કે માટીમાં પાણી વધારે થઈ ગયું, એટલે એ ભૂલ પાણી આપનાર પખાલીની છે, પોતાની જરાય નથી.",
+              "word_count": {
+                "original": 27
+              },
+              "key_terms": [
+                "ઠરવું — નક્કી થવું; 'શૂળી ઠરી' એટલે શૂળીની સજા નક્કી થઈ",
+                "ચૂક — ભૂલ",
+                "ગારો — માટી અને પાણી ભેળવીને બનાવેલો ચણતરનો કાદવ",
+                "પખાલી — પખાલ (ચામડાનો થેલો)માં પાણી આપનાર",
+                "ઉચ્ચાર — બોલવું તે; 'કરી ઉચ્ચાર' એટલે એમ કહ્યું",
+                "લેશ — જરાય, જરા પણ"
+              ],
+              "explanation": "વણિક બચી ગયો — ‘કડિયાને શૂળી ઠરી, વણિક બચ્યો તે વાર,’; ઠરી એટલે નક્કી થઈ. હવે કડિયો બોલે છે કે ચૂક, એટલે ભૂલ, ગારો કરનારની છે. ગારો કરનાર વળી કહે છે ‘પાણી થયું વિશેષ,’ — વિશેષ એટલે જોઈએ એના કરતાં વધારે. એટલે એ ‘મારી ચૂક ન લેશ.’ કહીને વાંક પાણી લાવનાર પખાલી પર મૂકી દે છે. ધ્યાન રાખો — આમાં કોઈ કારીગર ખરાબ નથી; દરેક જણ પોતાના પર આવેલી સજા આગળના માણસ પર સરકાવે છે. ‘વિશેષ – લેશ’ જેવી તુક પુસ્તકના પ્રાસવાળા શબ્દોના કામમાં ફરી મળશે.",
+              "real_life_example": "આંગણામાં તુલસીનું કૂંડું ફૂટે ને મા પૂછે, ‘કોણે કર્યું ?’ મોટી બહેન કહે, ‘મેં નહીં, એણે ધક્કો માર્યો.’ નાનો ભાઈ કહે, ‘મેં નહીં, બિલાડી કૂદી.’ ને તમે કહો, ‘મેં તો જોયું પણ નથી.’ કૂંડું તો ફૂટેલું જ રહે છે, ને વાંક એક હાથમાંથી બીજા હાથમાં ફરતો રહે છે. કાવ્યની સાંકળ પણ બરાબર આમ જ સરકે છે. તમારા ઘરમાં આવી સાંકળ છેલ્લે ક્યાં જઈને અટકી હતી ?",
+              "brief_summary": "કડિયો વાંક ગારો કરનાર પર નાખે છે, ને ગારો કરનાર પખાલી પર.",
+              "summary": "‘કડિયાને શૂળી ઠરી, વણિક બચ્યો તે વાર,’ — સજા હવે કડિયા પર આવે છે. કડિયો કહે છે કે ચૂક ગારો કરનારની છે. ગારો કરનાર કહે છે કે પાણી વિશેષ થઈ ગયું, એટલે ભૂલ પખાલીની.",
+              "detailed_summary": "વણિકનો બચાવ ચાલી જાય છે ને શૂળીની સજા કડિયા પર ઠરે છે; ઠરવું એટલે નક્કી થવું. કડિયો પણ ચૂપ રહેતો નથી — ‘ચૂક ગારો કરનારની, કડિયે કરી ઉચ્ચાર.’ ચૂક એટલે ભૂલ. ગારો કરનારનો જવાબ પણ તૈયાર છે : ‘પાણી થયું વિશેષ,’ — વિશેષ એટલે જોઈએ એના કરતાં વધારે. માટીમાં પાણી વધારે પડ્યું, એટલે વાંક પાણી લાવનાર પખાલીનો, ને ‘મારી ચૂક ન લેશ.’ આ કડીમાં એક પણ જણ સાબિતી આપતો નથી; દરેક જણ ફક્ત નવું નામ આપે છે. કોઈ કારીગર ખરાબ નથી — ખરાબ તો એ રીત છે જેમાં સજા વાંક જોયા વગર આગળ ને આગળ સરકતી જાય છે.",
+              "concept_bullets": [
+                "ઠરવું — નક્કી થવું; ‘શૂળી ઠરી’ એટલે સજા નક્કી થઈ.",
+                "ચૂક — ભૂલ.",
+                "વિશેષ — વધારે, જોઈએ એના કરતાં વધુ.",
+                "પખાલી — પખાલ, એટલે ચામડાના થેલામાં પાણી આપનાર."
+              ],
+              "important_points": [
+                "સજા ખસી — વણિક પરથી ઊતરીને કડિયા પર આવી.",
+                "કડિયાનો જવાબ — ચૂક ગારો કરનારની.",
+                "ગારો કરનારનો જવાબ — પાણી વધારે થયું, વાંક પખાલીનો.",
+                "સાબિતી કોઈ નહીં — ફક્ત નવું નામ અપાય છે."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T6.C7",
+                  "concept_name": "એક પરથી બીજા પર સરકતો વાંક",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "આ કડીમાં સજા બે વાર જગ્યા બદલે છે. પહેલાં કડિયો કહે છે કે ચૂક ગારો કરનારની, પછી ગારો કરનાર કહે છે કે ‘પાણી થયું વિશેષ,’ એટલે ભૂલ પખાલીની. વિશેષ એટલે વધારે. કોઈ પોતાનું કામ તપાસતું નથી, બસ આગળના માણસનું નામ આપી દે છે — ને સાંકળ લંબાતી જાય છે.",
+                      "publication_text": "આ કડીમાં સજા બે વાર જગ્યા બદલે છે. પહેલાં કડિયો કહે છે કે ચૂક ગારો કરનારની, પછી ગારો કરનાર કહે છે કે ‘પાણી થયું વિશેષ,’ એટલે ભૂલ પખાલીની. વિશેષ એટલે વધારે. કોઈ પોતાનું કામ તપાસતું નથી, બસ આગળના માણસનું નામ આપી દે છે — ને સાંકળ લંબાતી જાય છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "‘કડિયાને શૂળી ઠરી, વણિક બચ્યો તે વાર,’ — પહેલો ખસકો.",
+                        "‘ચૂક ગારો કરનારની, કડિયે કરી ઉચ્ચાર.’ — બીજો ખસકો.",
+                        "‘મારી ચૂક ન લેશ.’ — લેશ એટલે જરાય; દરેકનો બચાવ સરખો છે."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M2.S4.T6.RQ1",
+                  "legacy_id": "M2.S4.T6.TR1",
+                  "prompt": "કડિયો વાંક કોના પર નાખે છે, ને ગારો કરનાર કોના પર ?",
+                  "answer": "કડિયો વાંક ગારો કરનાર પર નાખે છે — ‘ચૂક ગારો કરનારની, કડિયે કરી ઉચ્ચાર.’ ને ગારો કરનાર વાંક પખાલી પર નાખે છે.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M2.S4.T6.RQ2",
+                  "legacy_id": "M2.S4.T6.TR2",
+                  "prompt": "‘પાણી થયું વિશેષ,’ — વિશેષ એટલે શું, ને ગારો કરનારનું બહાનું શું છે ?",
+                  "answer": "વિશેષ એટલે વધારે, જોઈએ એના કરતાં વધુ. એનું બહાનું એ છે કે માટીમાં પાણી વધારે પડી ગયું, એટલે ભૂલ પાણી લાવનાર પખાલીની — પોતાની ‘ચૂક ન લેશ’, એટલે જરાય નહીં.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M2.S4.T6.RQ3",
+                  "legacy_id": "M2.S4.T6.TR3",
+                  "prompt": "આ કડીમાં વાંક કઈ કઈ વ્યક્તિ પરથી પસાર થાય છે ? ક્રમમાં ગોઠવો.",
+                  "answer": "પહેલાં વણિક, પછી કડિયો, પછી ગારો કરનાર, ને છેલ્લે પખાલી. દરેક જણ પોતાની ચૂક ન હોવાનું કહીને આગળના માણસનું નામ આપે છે, એટલે સાંકળ લંબાતી જાય છે.",
+                  "difficulty": "hard",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "estimated_exchanges": "4",
+              "figures_of_speech": [],
+              "rhyme_scheme": {
+                "pattern": "લાંબી લીટીની બબ્બેની જોડ; તુક જોડને છેડે",
+                "rhyming_words": [
+                  "વાર — ઉચ્ચાર",
+                  "વિશેષ — લેશ"
+                ],
+                "note": "‘વિશેષ – લેશ’ એ જ જોડ પુસ્તકના પ્રાસવાળા શબ્દોના કામમાં ઉદાહરણ તરીકે છપાઈ છે, એટલે આ તુક બોલી જોવા જેવી છે."
+              },
+              "shabdarth": [
+                {
+                  "shabd": "ઠરી",
+                  "arth": "નક્કી થઈ",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "ચૂક",
+                  "arth": "ભૂલ",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "વિશેષ",
+                  "arth": "વધારે, જોઈએ એના કરતાં વધુ",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "લેશ",
+                  "arth": "જરાય, જરા પણ",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "પખાલી",
+                  "arth": "પખાલ, એટલે ચામડાના થેલામાં પાણી આપનાર",
+                  "prakar": "દેશ્ય"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "ચૂક",
+                  "samanarthi": [
+                    "ભૂલ",
+                    "ખામી"
+                  ]
+                },
+                {
+                  "shabd": "વિશેષ",
+                  "samanarthi": [
+                    "વધારે",
+                    "અધિક"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "વિશેષ",
+                  "vilom": "ઓછું"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "નામ",
+                  "udaharan": "ચૂક ગારો કરનારની, કડિયે કરી ઉચ્ચાર.",
+                  "note": "‘ચૂક’ ને ‘ઉચ્ચાર’ — બંને ક્રિયામાંથી બનેલાં નામ છે. ચૂકવું ને ઉચ્ચારવું એ ક્રિયા, ને એની વાત કરવા માટે બનેલા આ શબ્દો નામ તરીકે વપરાય છે."
+                }
+              ],
+              "publication_text": "વણિક બચી ગયો — ‘કડિયાને શૂળી ઠરી, વણિક બચ્યો તે વાર,’; ઠરી એટલે નક્કી થઈ. હવે કડિયો બોલે છે કે ચૂક, એટલે ભૂલ, ગારો કરનારની છે. ગારો કરનાર વળી કહે છે ‘પાણી થયું વિશેષ,’ — વિશેષ એટલે જોઈએ એના કરતાં વધારે. એટલે એ ‘મારી ચૂક ન લેશ.’ કહીને વાંક પાણી લાવનાર પખાલી પર મૂકી દે છે. આમાં કોઈ કારીગર ખરાબ નથી; દરેક જણ પોતાના પર આવેલી સજા આગળના માણસ પર સરકાવે છે. ‘વિશેષ – લેશ’ જેવી તુક પુસ્તકના પ્રાસવાળા શબ્દોના કામમાં ફરી મળે છે.",
+              "publication_chunk": "કડિયાને શૂળી ઠરી, વણિક બચ્યો તે વાર,\nચૂક ગારો કરનારની, કડિયે કરી ઉચ્ચાર.\nગારો કરનાર કહે, ‘‘પાણી થયું વિશેષ,\nએ તો ચૂક પખાલીની, મારી ચૂક ન લેશ.’’\n\nવણિક બચી ગયો — ‘કડિયાને શૂળી ઠરી, વણિક બચ્યો તે વાર,’; ઠરી એટલે નક્કી થઈ. હવે કડિયો બોલે છે કે ચૂક, એટલે ભૂલ, ગારો કરનારની છે. ગારો કરનાર વળી કહે છે ‘પાણી થયું વિશેષ,’ — વિશેષ એટલે જોઈએ એના કરતાં વધારે. એટલે એ ‘મારી ચૂક ન લેશ.’ કહીને વાંક પાણી લાવનાર પખાલી પર મૂકી દે છે. આમાં કોઈ કારીગર ખરાબ નથી; દરેક જણ પોતાના પર આવેલી સજા આગળના માણસ પર સરકાવે છે. ‘વિશેષ – લેશ’ જેવી તુક પુસ્તકના પ્રાસવાળા શબ્દોના કામમાં ફરી મળે છે.\n\nઆંગણામાં તુલસીનું કૂંડું ફૂટે ને મા પૂછે, ‘કોણે કર્યું ?’ મોટી બહેન કહે, ‘મેં નહીં, એણે ધક્કો માર્યો.’ નાનો ભાઈ કહે, ‘મેં નહીં, બિલાડી કૂદી.’ ને ત્રીજું કોઈ કહે છે, ‘મેં તો જોયું પણ નથી.’ કૂંડું તો ફૂટેલું જ રહે છે, ને વાંક એક હાથમાંથી બીજા હાથમાં ફરતો રહે છે. કાવ્યની સાંકળ પણ બરાબર આમ જ સરકે છે.",
+              "media": [
+                {
+                  "topic_id": "M2.S4.T6",
+                  "concept_id": "M2.S4.T6.C7",
+                  "id": "M2.S4.T6.C7.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "ચીંધાતી આંગળીઓની હાર",
+                  "description": "દરબારના એ જ ચોકમાં એક જ ક્ષણે કડિયો ગારો કરનાર તરફ ને ગારો કરનાર પખાલી તરફ આંગળી ચીંધે છે, ને પખાલીનું મોં આશ્ચર્યથી ખૂલે છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "home_concept_id": "M2.S4.T6.C7",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બને ત્યાં સુધી ત્રણ બાળકોને ઊભાં રાખીને આ સાંકળ ભજવાવો ને પછી પૂછો કે વાંક એક જણ પરથી બીજા પર ખસતો ખસતો છેલ્લે ક્યાં જઈને અટકે છે.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, digits or numerals anywhere in the frame, modern clothing, plastic objects, motivational poster layout, text banner with a moral, moral lesson panel, caricature or mockery of any religious or occupational community, blood, gore, injured or crushed bodies, a body impaled on the stake, any depicted execution, horror imagery",
+                  "generation_prompt": "Midday in the same open courtyard of justice in a nineteenth-century Gujarati town: low houses roofed with curved clay tiles, raised stone sitting-platforms running along the house fronts, carved wooden brackets under the upper storeys, the scalloped cloth canopy on painted poles over the whitewashed dais. Three men stand in a diagonal line across the foreground, each caught in the same instant turning and pointing at the next. The mason is a wiry man of about thirty-five in a short dhoti with a checked cloth tied round his head, a trowel in his hand and dried lime dust on his forearms. He points back over his shoulder at the mortar mixer. The mortar mixer is a broad-shouldered man of about forty, bare-chested with his dhoti rolled above the knee, dried mud on his hands and shins and a long wooden mixing hoe over his shoulder. The mortar mixer has already swung round, his muddy arm flung out towards the water carrier. The water carrier is a wiry man of about thirty with a large stitched leather water bag slung across his back, a soaked shoulder cloth and a short dhoti. The water carrier stands last, his mouth opening in surprise, one hand rising in protest. A shallow pit of wet grey mortar and a spreading puddle of spilt water lie in the foreground with a mason's plumb line beside them. On the dais The king is a plump man of about fifty in a green-and-gold brocade long coat and a jewelled saffron turban with a small plume, with a thick curled moustache. He watches with his chin propped on one hand, mildly entertained. Townsfolk lean in at the edges. Soft digital watercolour, vibrant textbook illustration style, warm daylight palette, 16:9. A plain cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati text, lettered in clean Gujarati script and nothing else: ચૂક ગારો કરનારની, કડિયે કરી ઉચ્ચાર."
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T7",
+              "topic_name": "રાજાનો હુકમ ને પખાલીનું બહાનું",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S4.T6"
+              ],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O7"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O7",
+                  "legacy_id": "L7",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "રાજા પખાલીને શૂળીએ જવાનું કયું કારણ આપે છે, અને પખાલી ‘રાજા છાંડો રીસ’ કહીને વાંક કોના પર નાખે છે તે કહેવું.",
+                  "bloom_level": "Understand",
+                  "home_topic_id": "M2.S4.T7",
+                  "anchor": [
+                    "M2.S4.T7.C8"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "પુરપતિ કહે પખાલીને, ‘‘જો તું શૂળીએ જાય,\nઆજ પછી આ ગામમાં, એવા ગુના ન થાય.’’\n‘‘મુલ્લા નીસર્યા મારગે, મેં જોયું તે દિશ,\nપાણી અધિક તેથી પડ્યું, રાજા છાંડો રીસ.’’",
+              "modified_chunk": "પુરપતિ એટલે કે નગરનો ધણી પખાલીને કહે છે કે તું શૂળીએ જા, જેથી આ ગામમાં આજ પછી આવા ગુના ન થાય. પખાલી પણ પોતાનો બચાવ કરે છે. એ કહે છે કે મારગે એટલે રસ્તે મુલ્લા નીસર્યા, એટલે કે નીકળ્યા, અને મેં એ દિશ એટલે દિશામાં જોયું, તેથી પાણી અધિક પડી ગયું — માટે રાજા રીસ છાંડો, એટલે કે ગુસ્સો છોડો.",
+              "word_count": {
+                "original": 29
+              },
+              "key_terms": [
+                "પુરપતિ — નગરનો ધણી, રાજા",
+                "નીસરવું — નીકળવું; 'નીસર્યા' એટલે નીકળ્યા",
+                "મારગ — રસ્તો",
+                "દિશ — દિશા",
+                "છાંડો — છોડો",
+                "રીસ — ગુસ્સો"
+              ],
+              "explanation": "નગરનો ધણી પખાલીને કહે છે, ‘જો તું શૂળીએ જાય,’ તો આ ગામમાં આવા ગુના નહીં થાય. જુઓ — હવે સજાનું કારણ ગુનો નથી, દાખલો બેસાડવો છે. પખાલી તરત બહાનું કાઢે છે : ‘મુલ્લા નીસર્યા મારગે, મેં જોયું તે દિશ,’ — નીસર્યા એટલે નીકળ્યા, ને દિશ એટલે દિશા. સામે કોઈ નીકળે એટલે પાણી ઢોળાય નહીં; આ કારણ નથી, બહાનું છે. મુલ્લા આ કાવ્યમાં એક શબ્દ પણ બોલતા નથી — સાંકળ જેના પર જઈ પડી એવા એ બીજા નિર્દોષ માણસ છે. ‘રાજા છાંડો રીસ’ — છાંડો એટલે છોડો, રીસ એટલે ગુસ્સો.",
+              "real_life_example": "વર્ગમાં પ્રાર્થના પછી ધમાલ થાય ને સાહેબ પૂછે, ‘અવાજ કોણ કરતું હતું ?’ આગળની પાટલીવાળો કહે, ‘પાછળવાળા હસતા હતા.’ પાછળવાળો કહે, ‘મેં તો બારી બંધ કરી, બસ.’ ને છેલ્લે નામ એ છોકરાનું લખાય છે જે પાણી પીવા બહાર ગયો હતો ને હમણાં જ પાછો આવ્યો છે. એણે કશું કર્યું નથી, તોય વાંક એના ભાગે આવ્યો. પખાલી પણ સામે નીકળેલા માણસ પર બરાબર આ જ રીતે વાંક નાખે છે. તમારા વર્ગમાં આવું નામ છેલ્લે કોનું લખાયું હતું ?",
+              "brief_summary": "રાજા પખાલીને શૂળીએ જવાનું કહે છે, ને પખાલી વાંક રસ્તે નીકળેલા મુલ્લા પર નાખે છે.",
+              "summary": "પુરપતિ પખાલીને કહે છે કે તું શૂળીએ જાય તો આ ગામમાં આવા ગુના બંધ થાય. પખાલી જવાબમાં કહે છે કે મુલ્લા મારગે નીસર્યા ને એની સામે જોવાયું, એટલે પાણી વધારે પડ્યું. ‘રાજા છાંડો રીસ’ કહીને એ રાજાને શાંત પાડવા માગે છે.",
+              "detailed_summary": "આ કડીમાં પહેલી વાર રાજા પોતે બોલે છે : પુરપતિ, એટલે નગરનો ધણી, પખાલીને કહે છે કે ‘જો તું શૂળીએ જાય,’ તો આજ પછી આ ગામમાં એવા ગુના નહીં થાય. એટલે સજાનું કારણ હવે ગુનો રહ્યો નથી, દાખલો બેસાડવો બની ગયું છે. પખાલી પણ ચૂપ રહેતો નથી — ‘મુલ્લા નીસર્યા મારગે, મેં જોયું તે દિશ,’. નીસર્યા એટલે નીકળ્યા ને દિશ એટલે દિશા. રસ્તે કોઈ સામે નીકળે એટલે પખાલમાંથી પાણી વધારે પડી ન જાય — એટલે આ કારણ નહીં, બહાનું છે. મુલ્લા આખા કાવ્યમાં એક શબ્દ પણ બોલતા નથી; સાંકળ જેના પર જઈ પડી એવા એ વધુ એક નિર્દોષ માણસ છે, ને આવું બહાનું પણ આ નગરીમાં ચાલી જાય છે.",
+              "concept_bullets": [
+                "પુરપતિ — નગરનો ધણી; આ એ જ રાજા છે.",
+                "નીસર્યા — નીકળ્યા.",
+                "દિશ — દિશા.",
+                "છાંડો — છોડો; ‘છાંડો રીસ’ એટલે ગુસ્સો છોડો."
+              ],
+              "important_points": [
+                "રાજાનું કારણ — સજા ગુના માટે નહીં, દાખલા માટે.",
+                "પખાલીનું બહાનું — રસ્તે મુલ્લા સામે મળ્યા.",
+                "બહાનું સાચું નથી — સામે કોઈ નીકળે એટલે પાણી ઢોળાય નહીં.",
+                "મુલ્લા બોલતા નથી — સાંકળનું આગલું નામ, બસ એટલું જ."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T7.C8",
+                  "concept_name": "‘રાજા છાંડો રીસ’ કહીને ખસેડેલો વાંક",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "રાજાનું વાક્ય ધ્યાનથી સાંભળો : ‘જો તું શૂળીએ જાય,’ તો ગામમાં આવા ગુના બંધ થશે. એટલે કોણે શું કર્યું એ સવાલ હવે બાજુ પર છે. પખાલી પણ એ જ રમત રમે છે ને વાંક રસ્તે નીકળેલા માણસ પર નાખી દે છે. આ બહાનું છે, કારણ નથી — ને આ ગામમાં બહાનું પણ ચાલી જાય છે.",
+                      "publication_text": "રાજાનું વાક્ય આવું છે : ‘જો તું શૂળીએ જાય,’ તો ગામમાં આવા ગુના બંધ થશે. એટલે કોણે શું કર્યું એ સવાલ હવે બાજુ પર છે. પખાલી પણ એ જ રમત રમે છે ને વાંક રસ્તે નીકળેલા માણસ પર નાખી દે છે. આ બહાનું છે, કારણ નથી — ને આ ગામમાં બહાનું પણ ચાલી જાય છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "‘આજ પછી આ ગામમાં, એવા ગુના ન થાય.’ — સજાનું નવું કારણ.",
+                        "‘મુલ્લા નીસર્યા મારગે, મેં જોયું તે દિશ,’ — બોલનાર પખાલી છે.",
+                        "‘રાજા છાંડો રીસ.’ — રીસ એટલે ગુસ્સો."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M2.S4.T7.RQ1",
+                  "legacy_id": "M2.S4.T7.TR1",
+                  "prompt": "‘મુલ્લા નીસર્યા મારગે, મેં જોયું તે દિશ,’ — આ કોણ બોલે છે ?",
+                  "answer": "આ પખાલી બોલે છે. આગલી પંક્તિમાં પુરપતિએ એને જ સંબોધ્યો છે, ને એ જવાબમાં આ બહાનું આપે છે.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M2.S4.T7.RQ2",
+                  "legacy_id": "M2.S4.T7.TR2",
+                  "prompt": "રાજા પખાલીને શૂળીએ જવાનું કયું કારણ આપે છે ?",
+                  "answer": "રાજા કહે છે કે ‘જો તું શૂળીએ જાય,’ તો ‘આજ પછી આ ગામમાં, એવા ગુના ન થાય.’ એટલે એનું કારણ ગુનો નથી, બીજાને દાખલો બેસાડવો છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M2.S4.T7.RQ3",
+                  "legacy_id": "M2.S4.T7.TR3",
+                  "prompt": "પખાલીનું બહાનું સાચું છે કે નહીં ? તમારું કારણ આપો.",
+                  "answer": "એ સાચું કારણ નથી, બહાનું છે. રસ્તે કોઈ સામે નીકળે એટલા માત્રથી પખાલમાંથી પાણી વધારે પડી ન જાય. પખાલી પોતાનું નામ સાંકળમાંથી કાઢવા માટે એવા માણસનું નામ આપે છે જેણે કશું કર્યું જ નથી.",
+                  "difficulty": "hard",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "estimated_exchanges": "4",
+              "figures_of_speech": [],
+              "rhyme_scheme": {
+                "pattern": "લાંબી લીટીની બબ્બેની જોડ; તુક જોડને છેડે",
+                "rhyming_words": [
+                  "જાય — થાય",
+                  "દિશ — રીસ"
+                ],
+                "note": "‘દિશ – રીસ’ ટૂંકી ને કડક તુક છે, એટલે પખાલીનું બહાનું ઝડપથી પૂરું થઈ જાય છે."
+              },
+              "shabdarth": [
+                {
+                  "shabd": "પુરપતિ",
+                  "arth": "નગરનો ધણી, રાજા",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "નીસર્યા",
+                  "arth": "નીકળ્યા",
+                  "prakar": "કાવ્ય-રૂપ"
+                },
+                {
+                  "shabd": "દિશ",
+                  "arth": "દિશા",
+                  "prakar": "કાવ્ય-રૂપ"
+                },
+                {
+                  "shabd": "છાંડો",
+                  "arth": "છોડો",
+                  "prakar": "કાવ્ય-રૂપ"
+                },
+                {
+                  "shabd": "રીસ",
+                  "arth": "ગુસ્સો",
+                  "prakar": "દેશ્ય"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "રીસ",
+                  "samanarthi": [
+                    "ગુસ્સો",
+                    "ક્રોધ"
+                  ]
+                },
+                {
+                  "shabd": "મારગે",
+                  "samanarthi": [
+                    "રસ્તે",
+                    "માર્ગે"
+                  ]
+                }
+              ],
+              "vilom": [],
+              "vyakaran": [
+                {
+                  "bindu": "ક્રિયાવિશેષણ",
+                  "udaharan": "આજ પછી આ ગામમાં, એવા ગુના ન થાય.",
+                  "note": "‘આજ પછી’ કહે છે કે ક્રિયા ક્યારે થવાની વાત છે. ક્રિયા ક્યારે, ક્યાં કે કેવી રીતે થઈ તે બતાવતા શબ્દોને ક્રિયાવિશેષણ કહે છે."
+                }
+              ],
+              "publication_text": "નગરનો ધણી પખાલીને કહે છે, ‘જો તું શૂળીએ જાય,’ તો આ ગામમાં આવા ગુના નહીં થાય. હવે સજાનું કારણ ગુનો નથી, દાખલો બેસાડવો છે. પખાલી તરત બહાનું કાઢે છે : ‘મુલ્લા નીસર્યા મારગે, મેં જોયું તે દિશ,’ — નીસર્યા એટલે નીકળ્યા, ને દિશ એટલે દિશા. સામે કોઈ નીકળે એટલે પાણી ઢોળાય નહીં; આ કારણ નથી, બહાનું છે. મુલ્લા આ કાવ્યમાં એક શબ્દ પણ બોલતા નથી — સાંકળ જેના પર જઈ પડી એવા એ બીજા નિર્દોષ માણસ છે. ‘રાજા છાંડો રીસ’ — છાંડો એટલે છોડો, રીસ એટલે ગુસ્સો.",
+              "publication_chunk": "પુરપતિ કહે પખાલીને, ‘‘જો તું શૂળીએ જાય,\nઆજ પછી આ ગામમાં, એવા ગુના ન થાય.’’\n‘‘મુલ્લા નીસર્યા મારગે, મેં જોયું તે દિશ,\nપાણી અધિક તેથી પડ્યું, રાજા છાંડો રીસ.’’\n\nનગરનો ધણી પખાલીને કહે છે, ‘જો તું શૂળીએ જાય,’ તો આ ગામમાં આવા ગુના નહીં થાય. હવે સજાનું કારણ ગુનો નથી, દાખલો બેસાડવો છે. પખાલી તરત બહાનું કાઢે છે : ‘મુલ્લા નીસર્યા મારગે, મેં જોયું તે દિશ,’ — નીસર્યા એટલે નીકળ્યા, ને દિશ એટલે દિશા. સામે કોઈ નીકળે એટલે પાણી ઢોળાય નહીં; આ કારણ નથી, બહાનું છે. મુલ્લા આ કાવ્યમાં એક શબ્દ પણ બોલતા નથી — સાંકળ જેના પર જઈ પડી એવા એ બીજા નિર્દોષ માણસ છે. ‘રાજા છાંડો રીસ’ — છાંડો એટલે છોડો, રીસ એટલે ગુસ્સો.\n\nવર્ગમાં પ્રાર્થના પછી ધમાલ થાય ને સાહેબ પૂછે, ‘અવાજ કોણ કરતું હતું ?’ આગળની પાટલીવાળો કહે, ‘પાછળવાળા હસતા હતા.’ પાછળવાળો કહે, ‘મેં તો બારી બંધ કરી, બસ.’ ને છેલ્લે નામ એ છોકરાનું લખાય છે જે પાણી પીવા બહાર ગયો હતો ને હમણાં જ પાછો આવ્યો છે. એણે કશું કર્યું નથી, તોય વાંક એના ભાગે આવ્યો. પખાલી પણ સામે નીકળેલા માણસ પર બરાબર આ જ રીતે વાંક નાખે છે.",
+              "media": [
+                {
+                  "topic_id": "M2.S4.T7",
+                  "concept_id": "M2.S4.T7.C8",
+                  "id": "M2.S4.T7.C8.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "પખાલીનું બહાનું",
+                  "description": "રાજા હાથ ઊંચો કરીને હુકમ કરે છે ને પખાલી હાથ જોડીને રસ્તા ભણી ચીંધે છે, જ્યાં પાતળા શરીરના મુલ્લા શાંતિથી ચાલ્યા જાય છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "home_concept_id": "M2.S4.T7.C8",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બને ત્યાં સુધી કહો કે અહીં પણ વાંક બીજા પર ખસે છે; મુલ્લા પણ કડિયા ને પખાલીની જેમ ગામનું પોતાનું કામ કરતા એક માણસ છે, ને કાવ્યની મજાક તો નગરીના વિવેક વગરના ન્યાય પર છે.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, digits or numerals anywhere in the frame, modern clothing, plastic objects, motivational poster layout, text banner with a moral, moral lesson panel, caricature or mockery of any religious or occupational community, blood, gore, injured or crushed bodies, a body impaled on the stake, any depicted execution, horror imagery, stereotyped or comic depiction of a religious figure",
+                  "generation_prompt": "Afternoon in the open courtyard of justice in a nineteenth-century Gujarati town: low houses roofed with curved clay tiles, raised stone sitting-platforms running along the house fronts, carved wooden brackets under the upper storeys, opening onto the lane beyond through a low arched gateway. The king is a plump man of about fifty in a green-and-gold brocade long coat and a jewelled saffron turban with a small plume, with a thick curled moustache. He sits on his low cushioned platform under the scalloped canopy, one hand raised in an offhand, impatient command. The water carrier is a wiry man of about thirty with a large stitched leather water bag slung across his back, a soaked shoulder cloth and a short dhoti. He kneels on one knee before the platform with his palms joined, his face pleading, while his free hand points away through the archway down the sunlit lane. The thin elderly townsman is a slight, upright man in a plain white long shirt, loose white trousers, a small white cap and a neatly trimmed grey beard, walking with quiet dignity. He walks past out there in the lane, a cloth-wrapped book under his arm, entirely unaware of the courtyard, drawn with warmth and respect. His empty leather water bag lies beside the kneeling water carrier next to a dark wet patch of spilt water on the paving. Townsfolk watch from the shade of a raised stone sitting-platform. Soft digital watercolour, vibrant textbook illustration style, warm daylight palette, 16:9. A plain cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati text, lettered in clean Gujarati script and nothing else: પાણી અધિક તેથી પડ્યું, રાજા છાંડો રીસ."
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S5",
+          "segment_name": "શૂળી માટે જાડા નરની શોધ",
+          "topics": [
+            {
+              "topic_id": "M2.S5.T8",
+              "topic_name": "જાડા નરની શોધ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S4.T7"
+              ],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O8"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O8",
+                  "legacy_id": "L8",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "શૂળીનું ફળ જાડું ને મુલ્લા પાતળે અંગ હોવાથી ભૂપે શો હુકમ કર્યો, અને એ હુકમનો ભોગ જાડા જોગી કેમ બન્યા તે કારણ સાથે તારવવું.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M2.S5.T8",
+                  "anchor": [
+                    "M2.S5.T8.C9",
+                    "M2.S5.T8.C10"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "મુલ્લાજીને મારવા, કરી એવો નિરધાર\nશૂળી પાસે લઈ ગયા, મુલ્લાને તે વાર,\nફળ જાડું શૂળી તણું, મુલ્લા પાતળે અંગ,\nએવી હકીકત ચાકરે જઈ કહી ભૂપ પ્રસંગ.\nભૂપ કહે, ‘‘શું હરઘડી આવી પૂછો કોઈ,\nશોધી ચઢાવો શૂળીએ, જાડા નરને જોઈ.’’\nજોતા જોતા એ જડ્યો, જોગી જાડે અંગ,\nબહુ દિન ખાઈને બન્યો, રાતેમાતે રંગ.",
+              "modified_chunk": "મુલ્લાજીને મારવાનો નિરધાર થાય છે અને એમને શૂળી પાસે લઈ જવાય છે, પણ ત્યાં જોવા મળે છે કે શૂળીનું ફળ એટલે કે એની અણી જાડી છે અને મુલ્લાનું અંગ પાતળું છે. ચાકર એટલે નોકર જઈને ભૂપને, એટલે કે રાજાને, આ હકીકત કહે છે. રાજા કહે છે કે હરઘડી એટલે વારેવારે પૂછવા શું આવો છો, કોઈ જાડા નરને શોધીને શૂળીએ ચઢાવી દો. શોધતાં શોધતાં જાડા અંગવાળો એક જોગી જડી આવે છે, જે ઘણા દિવસ ખાઈને તાજોમાજો થઈ ગયો હતો.",
+              "word_count": {
+                "original": 52
+              },
+              "key_terms": [
+                "ફળ — અહીં શૂળીની અણીવાળી ટોચ; ધારદાર ભાગ માટે વપરાતો શબ્દ",
+                "હકીકત — સાચી વાત, બની ગયેલી વાત",
+                "ચાકર — નોકર",
+                "ભૂપ — રાજા",
+                "હરઘડી — વારેવારે, દર ઘડીએ",
+                "રાતેમાતે — તાજોમાજો, ખાઈપીને હૃષ્ટપુષ્ટ થયેલો"
+              ],
+              "explanation": "મુલ્લાજીને શૂળી પાસે લઈ જવાય છે, ને ત્યાં જ વાત અટકે છે : ‘ફળ જાડું શૂળી તણું, મુલ્લા પાતળે અંગ,’. ફળ એટલે અહીં ખાવાનું ફળ નહીં, શૂળીની ઉપરની અણી; પાતળે અંગ એટલે પાતળા શરીરે. અણી જાડી ને શરીર પાતળું, એટલે બંને બંધબેસતાં નથી. ચાકર, એટલે નોકર, આ હકીકત ભૂપને કહે છે — ભૂપ એટલે એ જ રાજા. હવે એનો હુકમ સાંભળો : ‘શોધી ચઢાવો શૂળીએ, જાડા નરને જોઈ.’ કોણે શું કર્યું એ સવાલ રહ્યો નથી, હવે માપ જ જોવાય છે — ને હસવું આવે ત્યાં જ ખૂંચે પણ છે.",
+              "real_life_example": "શાકવાળા ભાઈ શેરીમાં સાદ પાડે ને તમે અડધો કિલો બટાટા લેવા ઊભા રહો. ત્રાજવું એક બાજુ નમેલું રહે એટલે એ એક બટાટું કાઢે, બીજું મૂકે, ને છેવટે ટોપલામાં હાથ ફેરવીને બરાબર માપમાં બેસે એવું નાનું બટાટું શોધી કાઢે છે. કયું બટાટું સારું છે એ નહીં, કયું માપમાં બેસે છે એ જ એ જુએ છે. કાવ્યમાં પણ હવે માણસ આ જ રીતે શોધાય છે. ત્રાજવું બરાબર કરવા છેલ્લે એણે શું ઉમેર્યું હતું, યાદ છે ?",
+              "brief_summary": "શૂળીની અણી જાડી ને મુલ્લા પાતળા નીકળે છે, એટલે ભૂપ જાડા માણસને શોધીને ચઢાવવાનો હુકમ કરે છે.",
+              "summary": "મુલ્લાજીને શૂળી પાસે લઈ જવાય છે, પણ ‘ફળ જાડું શૂળી તણું, મુલ્લા પાતળે અંગ,’. ચાકર આ હકીકત ભૂપને કહે છે, ને ભૂપ હુકમ કરે છે : ‘શોધી ચઢાવો શૂળીએ, જાડા નરને જોઈ.’ શોધતાં શોધતાં જાડા અંગવાળો એક જોગી જડી આવે છે.",
+              "detailed_summary": "મુલ્લાજીને મારવાનો નિરધાર થાય છે ને એમને શૂળી પાસે લઈ જવાય છે, પણ ત્યાં જ કામ અટકી પડે છે : ‘ફળ જાડું શૂળી તણું, મુલ્લા પાતળે અંગ,’. ફળ એટલે શૂળીની ઉપરની અણી, ને પાતળે અંગ એટલે પાતળા શરીરે. ચાકર, એટલે નોકર, આ હકીકત ભૂપને જઈને કહે છે; ભૂપ એટલે એ જ રાજા. ભૂપ ચિડાઈને કહે છે કે હરઘડી પૂછવા શું આવો છો, ને હુકમ કરી દે છે — ‘શોધી ચઢાવો શૂળીએ, જાડા નરને જોઈ.’ હવે સજા વાંક જોઈને નહીં, શરીર જોઈને અપાવાની છે, ને શોધતાં શોધતાં જાડા અંગવાળો એક જોગી જડી આવે છે.",
+              "concept_bullets": [
+                "ફળ — અહીં શૂળીની ઉપરની અણી; ખાવાનું ફળ નહીં.",
+                "પાતળે અંગ — પાતળા શરીરે.",
+                "ભૂપ — રાજા; આગળ એને નૃપ ને પુરપતિ પણ કહ્યો છે.",
+                "રાતેમાતે — તાજોમાજો, ખાઈપીને હૃષ્ટપુષ્ટ થયેલો."
+              ],
+              "important_points": [
+                "અટકી પડ્યું — અણી જાડી ને શરીર પાતળું, બંને બંધબેસતાં નથી.",
+                "ચાકરની ખબર — આ હકીકત એ ભૂપને જઈને કહે છે.",
+                "ભૂપનો હુકમ — જાડા નરને શોધીને શૂળીએ ચઢાવો.",
+                "નવો ભોગ — શોધતાં શોધતાં જાડા અંગવાળો જોગી જડી આવે છે."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T8.C9",
+                  "concept_name": "પાતળે અંગ મુલ્લા ને જાડું શૂળીનું ફળ",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "શૂળી પાસે પહોંચ્યા પછી જે અડચણ આવે છે તે ધ્યાનથી જુઓ — ‘ફળ જાડું શૂળી તણું, મુલ્લા પાતળે અંગ,’. ફળ એટલે અહીં શૂળીની ઉપરની અણી; પુસ્તક પોતે શૂળીને ‘અણીવાળો મોટો જાડો સળિયો’ કહે છે. અણી જાડી છે ને શરીર પાતળું છે, એટલે વાત વાંક પરથી ખસીને માપ પર આવી જાય છે.",
+                      "publication_text": "શૂળી પાસે પહોંચ્યા પછી એક અડચણ આવે છે — ‘ફળ જાડું શૂળી તણું, મુલ્લા પાતળે અંગ,’. ફળ એટલે અહીં શૂળીની ઉપરની અણી; પુસ્તક પોતે શૂળીને ‘અણીવાળો મોટો જાડો સળિયો’ કહે છે. અણી જાડી છે ને શરીર પાતળું છે, એટલે વાત વાંક પરથી ખસીને માપ પર આવી જાય છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "‘મુલ્લાજીને મારવા, કરી એવો નિરધાર’ — નક્કી તો થઈ જ ગયું હતું.",
+                        "‘ફળ જાડું શૂળી તણું, મુલ્લા પાતળે અંગ,’ — ને કામ અહીં અટકે છે.",
+                        "‘એવી હકીકત ચાકરે જઈ કહી ભૂપ પ્રસંગ.’ — ચાકર એટલે નોકર."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "concept_id": "M2.S5.T8.C10",
+                  "concept_name": "ભૂપનો હુકમ ને પકડાયેલો જોગી",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "ભૂપ — એટલે એ જ રાજા — ને આ ખબર ગમતી નથી. એ કહે છે કે હરઘડી, એટલે વારેવારે, પૂછવા શું આવો છો; ને હુકમ કરી દે છે, ‘શોધી ચઢાવો શૂળીએ, જાડા નરને જોઈ.’ હવે શોધ ગુનેગારની નહીં, જાડા શરીરની ચાલે છે. ‘બહુ દિન ખાઈને બન્યો, રાતેમાતે રંગ.’ — આ શબ્દો આપણને પેલા શિષ્ય પાસે પાછા લઈ જાય છે, ને પુસ્તક પણ પછી પૂછે છે કે ચોર મર્યાનો વાંક શિષ્ય પર શી રીતે આવ્યો.",
+                      "publication_text": "ભૂપ — એટલે એ જ રાજા — ને આ ખબર ગમતી નથી. એ કહે છે કે હરઘડી, એટલે વારેવારે, પૂછવા શું આવો છો; ને હુકમ કરી દે છે, ‘શોધી ચઢાવો શૂળીએ, જાડા નરને જોઈ.’ હવે શોધ ગુનેગારની નહીં, જાડા શરીરની ચાલે છે. ‘બહુ દિન ખાઈને બન્યો, રાતેમાતે રંગ.’ — આ શબ્દો આપણને પેલા શિષ્ય પાસે પાછા લઈ જાય છે, ને પુસ્તક પણ પછી પૂછે છે કે ચોર મર્યાનો વાંક શિષ્ય પર શી રીતે આવ્યો."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "‘શું હરઘડી આવી પૂછો કોઈ,’ — રાજાને પૂછપરછ કંટાળાજનક લાગે છે.",
+                        "‘શોધી ચઢાવો શૂળીએ, જાડા નરને જોઈ.’ — હુકમમાં વાંકનું નામ સુધ્ધાં નથી.",
+                        "‘જોતા જોતા એ જડ્યો, જોગી જાડે અંગ,’ — ને શોધ પૂરી થાય છે."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M2.S5.T8.RQ1",
+                  "legacy_id": "M2.S5.T8.TR1",
+                  "prompt": "ભૂપે ચાકરોને શો હુકમ કર્યો ? પંક્તિ ટાંકીને કહો.",
+                  "answer": "‘શોધી ચઢાવો શૂળીએ, જાડા નરને જોઈ.’ — એટલે કે કોઈ જાડા માણસને શોધીને શૂળીએ ચઢાવી દો.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M2.S5.T8.RQ2",
+                  "legacy_id": "M2.S5.T8.TR2",
+                  "prompt": "‘ફળ જાડું શૂળી તણું, મુલ્લા પાતળે અંગ,’ — અહીં ફળ એટલે શું, ને એથી શું અટકી પડ્યું ?",
+                  "answer": "ફળ એટલે અહીં શૂળીની ઉપરની અણી, ખાવાનું ફળ નહીં. અણી જાડી છે ને મુલ્લાનું શરીર પાતળું છે, એટલે બંને બંધબેસતાં નથી — ને એ કારણે મુલ્લાજી શૂળીએ ચઢાવાયા નહીં.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M2.S5.T8.RQ3",
+                  "legacy_id": "M2.S5.T8.TR3",
+                  "prompt": "ભૂપના હુકમ પછી સજા કોના પર આવશે એ શાના પરથી નક્કી થાય છે ? તમારા શબ્દોમાં કહો.",
+                  "answer": "કોણે શું કર્યું એ પરથી નહીં, કોનું શરીર જાડું છે એ પરથી. હુકમમાં વાંકની વાત જ નથી — ‘જાડા નરને જોઈ’ એટલું જ કહેવાયું છે, એટલે શોધ ગુનેગારની નહીં, માપની ચાલે છે.",
+                  "difficulty": "hard",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "estimated_exchanges": "5",
+              "figures_of_speech": [],
+              "rhyme_scheme": {
+                "pattern": "લાંબી લીટીની બબ્બેની જોડ; તુક જોડને છેડે",
+                "rhyming_words": [
+                  "નિરધાર — વાર",
+                  "અંગ — પ્રસંગ",
+                  "કોઈ — જોઈ",
+                  "અંગ — રંગ"
+                ],
+                "note": "‘અંગ’ શબ્દ બે વાર લીટીને છેડે આવે છે — એક વાર મુલ્લાના પાતળા અંગ માટે ને એક વાર જોગીના જાડા અંગ માટે. એક જ અવાજ પર બંને શરીર આવીને ઊભાં રહે છે."
+              },
+              "shabdarth": [
+                {
+                  "shabd": "ફળ",
+                  "arth": "(અહીં) શૂળીની ઉપરની અણી, ધારદાર ભાગ",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "હકીકત",
+                  "arth": "સાચી વાત, બની ગયેલી વાત",
+                  "prakar": "આગત"
+                },
+                {
+                  "shabd": "ચાકર",
+                  "arth": "નોકર",
+                  "prakar": "આગત"
+                },
+                {
+                  "shabd": "ભૂપ",
+                  "arth": "રાજા",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "રાતેમાતે",
+                  "arth": "તાજોમાજો, ખાઈપીને હૃષ્ટપુષ્ટ થયેલો",
+                  "prakar": "દેશ્ય"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "ભૂપ",
+                  "samanarthi": [
+                    "રાજા",
+                    "નૃપ",
+                    "અધિપતિ"
+                  ]
+                },
+                {
+                  "shabd": "ચાકર",
+                  "samanarthi": [
+                    "નોકર",
+                    "સેવક"
+                  ]
+                }
+              ],
+              "vilom": [
+                {
+                  "shabd": "જાડું",
+                  "vilom": "પાતળું"
+                }
+              ],
+              "vyakaran": [
+                {
+                  "bindu": "જોડાક્ષર",
+                  "udaharan": "એવી હકીકત ચાકરે જઈ કહી ભૂપ પ્રસંગ.",
+                  "note": "‘પ્રસંગ’માં ‘પ્ર’ એ ‘પ્’ ને ‘ર’ ભેગા થઈને બનેલો જોડાક્ષર છે. પુસ્તક પણ પછી ફકરામાંથી જોડાક્ષરવાળા શબ્દો શોધવાનું કહે છે."
+                }
+              ],
+              "publication_text": "મુલ્લાજીને શૂળી પાસે લઈ જવાય છે, ને ત્યાં જ વાત અટકે છે : ‘ફળ જાડું શૂળી તણું, મુલ્લા પાતળે અંગ,’. ફળ એટલે અહીં ખાવાનું ફળ નહીં, શૂળીની ઉપરની અણી; પાતળે અંગ એટલે પાતળા શરીરે. અણી જાડી ને શરીર પાતળું, એટલે બંને બંધબેસતાં નથી. ચાકર, એટલે નોકર, આ હકીકત ભૂપને કહે છે — ભૂપ એટલે એ જ રાજા. એનો હુકમ આવો છે : ‘શોધી ચઢાવો શૂળીએ, જાડા નરને જોઈ.’ કોણે શું કર્યું એ સવાલ રહ્યો નથી, હવે માપ જ જોવાય છે — ને હસવું આવે ત્યાં જ ખૂંચે પણ છે.",
+              "publication_chunk": "મુલ્લાજીને મારવા, કરી એવો નિરધાર\nશૂળી પાસે લઈ ગયા, મુલ્લાને તે વાર,\nફળ જાડું શૂળી તણું, મુલ્લા પાતળે અંગ,\nએવી હકીકત ચાકરે જઈ કહી ભૂપ પ્રસંગ.\nભૂપ કહે, ‘‘શું હરઘડી આવી પૂછો કોઈ,\nશોધી ચઢાવો શૂળીએ, જાડા નરને જોઈ.’’\nજોતા જોતા એ જડ્યો, જોગી જાડે અંગ,\nબહુ દિન ખાઈને બન્યો, રાતેમાતે રંગ.\n\nમુલ્લાજીને શૂળી પાસે લઈ જવાય છે, ને ત્યાં જ વાત અટકે છે : ‘ફળ જાડું શૂળી તણું, મુલ્લા પાતળે અંગ,’. ફળ એટલે અહીં ખાવાનું ફળ નહીં, શૂળીની ઉપરની અણી; પાતળે અંગ એટલે પાતળા શરીરે. અણી જાડી ને શરીર પાતળું, એટલે બંને બંધબેસતાં નથી. ચાકર, એટલે નોકર, આ હકીકત ભૂપને કહે છે — ભૂપ એટલે એ જ રાજા. એનો હુકમ આવો છે : ‘શોધી ચઢાવો શૂળીએ, જાડા નરને જોઈ.’ કોણે શું કર્યું એ સવાલ રહ્યો નથી, હવે માપ જ જોવાય છે — ને હસવું આવે ત્યાં જ ખૂંચે પણ છે.\n\nશાકવાળા ભાઈ શેરીમાં સાદ પાડે ને કોઈ અડધો કિલો બટાટા લેવા ઊભું રહે. ત્રાજવું એક બાજુ નમેલું રહે એટલે એ એક બટાટું કાઢે, બીજું મૂકે, ને છેવટે ટોપલામાં હાથ ફેરવીને બરાબર માપમાં બેસે એવું નાનું બટાટું શોધી કાઢે છે. કયું બટાટું સારું છે એ નહીં, કયું માપમાં બેસે છે એ જ એ જુએ છે. કાવ્યમાં પણ હવે માણસ આ જ રીતે શોધાય છે.",
+              "media": [
+                {
+                  "topic_id": "M2.S5.T8",
+                  "concept_id": "M2.S5.T8.C10",
+                  "id": "M2.S5.T8.C10.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "જાડા નરની શોધમાં",
+                  "description": "સાંકડી શેરીના ઓટલે જમીને ઊંઘી ગયેલા તાજામાજા જોગીને જોઈને બે સિપાઈ અટકી જાય છે ને એકબીજાને કોણી મારીને ચીંધે છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "home_concept_id": "M2.S5.T8.C10",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બને ત્યાં સુધી આ એક જ ક્ષણ પર રહો — સિપાઈઓએ કોને શોધી કાઢ્યો — ને પછી પૂછો કે ‘જાડા નરને જોઈ’ એવો હુકમ કેમ કરવો પડ્યો.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, digits or numerals anywhere in the frame, modern clothing, plastic objects, motivational poster layout, text banner with a moral, moral lesson panel, caricature or mockery of any religious or occupational community, blood, gore, injured or crushed bodies, a body impaled on the stake, any depicted execution, horror imagery",
+                  "generation_prompt": "Afternoon in a narrow lane of a nineteenth-century Gujarati town: low houses roofed with curved clay tiles, raised stone sitting-platforms running along the house fronts, carved wooden brackets under the upper storeys, washing hung on a line above and a cow chewing at a bundle of fodder by the wall. Two town guards have stopped short in mid-stride and are pointing at a young ascetic dozing on a raised stone sitting-platform after a heavy meal. The two town guards wear plain white tunics, red waist sashes and folded turbans, and each carries a bamboo staff. One guard nudges the other with his elbow, both grinning with the delight of a lucky find. The disciple is a young man of about eighteen with a round face, a shaved head with a small tuft of hair at the back, a plain pale-ochre cloth wrapped over one shoulder and bare feet, now visibly well fed, round-bellied and glossy-cheeked. He is sprawled asleep against the house wall with his hands folded on his stomach, an empty brass bowl tipped over beside him and a few crumbs of sweet on an open leaf. Afternoon shadow cuts across the lane, a clay water pot stand sits by a doorway, and clay-tile roofs close overhead. Soft digital watercolour, vibrant textbook illustration style, warm daylight palette, 16:9. A plain cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati text, lettered in clean Gujarati script and nothing else: જોતા જોતા એ જડ્યો, જોગી જાડે અંગ, બહુ દિન ખાઈને બન્યો, રાતેમાતે રંગ."
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "શૂળી પાસેની યુક્તિ",
+      "difficult_words": [
+        {
+          "word": "મુદત",
+          "meaning": "વધારાનો સમય, મહેતલ",
+          "example": "ચિત્ર પૂરું નહોતું થયું એટલે સાહેબે બે દિવસની મુદત આપી."
+        },
+        {
+          "word": "ઉગારિયો",
+          "meaning": "બચાવ્યો; આ કવિની જૂની ગુજરાતીનું રૂપ છે",
+          "example": "‘તરવૈયાએ છોકરાને ઉગારિયો’ — આજની ભાષામાં આપણે ‘બચાવ્યો’ કહીએ."
+        },
+        {
+          "word": "અવસર",
+          "meaning": "સમય, પ્રસંગ",
+          "example": "આવો અવસર વરસમાં એક જ વાર આવે છે, એટલે નવાં કપડાં કાઢી રાખ્યાં છે."
+        },
+        {
+          "word": "આપ",
+          "meaning": "હું, પોતે; અહીં એનો અર્થ ‘તમે’ નથી",
+          "example": "જૂની વારતામાં પાત્ર કહે છે, ‘આ કામ આપ કરીશ’ — એટલે કે ‘આ કામ હું પોતે કરીશ’."
+        },
+        {
+          "word": "અધિપતિ",
+          "meaning": "રાજા, નગરનો ધણી",
+          "example": "ચિત્રમાં નગરનો અધિપતિ હાથી પર બેસીને બજારમાંથી નીકળતો દેખાય છે."
+        },
+        {
+          "word": "પ્રતાપ",
+          "meaning": "તેજ, મોટાઈ, મહિમા",
+          "example": "ઇનામ મળ્યા પછી આખી શાળામાં એ છોકરીનો પ્રતાપ વધી ગયો."
+        },
+        {
+          "word": "ગાઉ",
+          "meaning": "અંતરનું એક જૂનું માપ",
+          "example": "દાદા કહેતા કે એ વખતે નિશાળ ઘરથી ગાઉ છેટે હતી ને ચાલીને જ જવું પડતું."
+        },
+        {
+          "word": "આંચ",
+          "meaning": "(અહીં) તકલીફ, મુશ્કેલી",
+          "example": "વરસાદમાં આખું ફળિયું ભરાયું, પણ ઉપરના માળે રહેનારને આંચ ન આવી."
+        }
+      ],
+      "overall_rhyme_scheme": "છેલ્લી બે કડીઓ પણ લાંબી લીટીની બબ્બેની જોડમાં જ ચાલે છે — પસ્તાય–ઉપાય, કાન–વિમાન, આપ–પ્રતાપ, પાંચ–આંચ. છેલ્લાં બે જોડકાં ટૂંકાં ને કડક છે, એટલે વારતા છેલ્લા શબ્દ પર આવીને એકદમ અટકી જાય છે. પુસ્તકનું પ્રાસવાળા શબ્દો શોધવાનું કામ આ જ પ્રકારના જોડકાં પર બાંધેલું છે, એટલે આ તુક વર્ગમાં મોટેથી બોલી જોવા જેવી છે.",
+      "segments": [
+        {
+          "segment_id": "M3.S6",
+          "segment_name": "ગુરુનો ઉપાય ને ચઢવાની હોડ",
+          "topics": [
+            {
+              "topic_id": "M3.S6.T9",
+              "topic_name": "ગુરુનો અદ્‌ભુત ઉપાય",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S2.T3",
+                "M2.S5.T8"
+              ],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O9"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O9",
+                  "legacy_id": "L9",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "શૂળી પાસે જઈને જોગી ‘વેગે મળે વિમાન’ કેમ કહે છે, અને આ એક વાક્યથી આખી વાત કઈ રીતે ફરી જાય છે તે તપાસવું.",
+                  "bloom_level": "Analyze",
+                  "home_topic_id": "M3.S6.T9",
+                  "anchor": [
+                    "M3.S6.T9.C11"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "શિષ્ય મુદત માગી ગયો ગુરુ પાસે પસ્તાય,\nગુરુએ આવી ઉગારિયો અદ્‌ભુત કરી ઉપાય,\nજોગી શૂળી પાસે જઈ કહે, ‘‘ભૂપ સુણ કાન,\nઆ અવસર શૂળીએ ચઢે, વેગે મળે વિમાન.’’",
+              "modified_chunk": "શિષ્ય મુદત એટલે કે થોડો વધારે સમય માગી લે છે અને પસ્તાતો પસ્તાતો ગુરુ પાસે જાય છે. ગુરુ આવીને એક અદ્‌ભુત એટલે કે નવાઈ પમાડે એવો ઉપાય કરીને એને ઉગારી લે છે. જોગી શૂળી પાસે જઈને કહે છે — હે ભૂપ, કાન દઈને સાંભળો; આ અવસરે જે શૂળીએ ચઢે એને વેગે એટલે ઝડપથી વિમાન મળે.",
+              "word_count": {
+                "original": 28
+              },
+              "key_terms": [
+                "મુદત — વધારાનો સમય, મહેતલ",
+                "પસ્તાવું — ભૂલ થઈ એમ લાગવું, પસ્તાવો કરવો",
+                "ઉગારિયો — બચાવ્યો",
+                "અદ્‌ભુત — નવાઈ પમાડે એવું",
+                "અવસર — સમય",
+                "વેગે — ઝડપથી"
+              ],
+              "explanation": "શિષ્ય મુદત માગીને, એટલે થોડો વધારે સમય લઈને, પસ્તાતો પસ્તાતો ગુરુ પાસે પહોંચે છે. કવિ પોતે જ કહી દે છે — ‘ગુરુએ આવી ઉગારિયો અદ્‌ભુત કરી ઉપાય,’; ઉગારિયો એટલે બચાવ્યો. એટલે હવે જે બોલાય છે તે ઉપાય છે, બચાવવાની યુક્તિ છે. જોગી શૂળી પાસે જઈને રાજાને કહે છે : ‘આ અવસર શૂળીએ ચઢે, વેગે મળે વિમાન.’ — અવસર એટલે સમય ને વેગે એટલે ઝડપથી. ધ્યાન રાખો, ગુરુ રાજાના ન્યાય સામે એક શબ્દ પણ બોલતા નથી; એ તો શૂળીને સૌને જોઈતી વસ્તુ બનાવી દે છે.",
+              "real_life_example": "રિસેસમાં ડબ્બો ખૂલે ને આજે એમાં કારેલાનું શાક છે. કોઈ હાથ પણ અડાડતું નથી. પણ પડખે બેઠેલો ભાઈબંધ ચમચી ભરીને કહે છે, ‘આ તો બહુ સરસ, મારી બા ખાસ આ જ રીતે બનાવે છે !’ ને પછી એક પછી એક બધા ચાખવા માંડે છે, ને ડબ્બો ખાલી. શાક તો એનું એ જ હતું; બોલવાની રીત બદલાઈ. ગુરુના એક વાક્ય પછી શૂળી સાથે પણ બરાબર આવું જ થાય છે. તમારા ડબ્બામાં એવું શું છે જે કોઈ વખાણે તો જ ભાવે ?",
+              "brief_summary": "ગુરુ આવીને એવો ઉપાય કરે છે કે શૂળીએ ચઢનારને વેગે વિમાન મળે એવી વાત વહેતી થાય છે.",
+              "summary": "શિષ્ય મુદત માગીને પસ્તાતો પસ્તાતો ગુરુ પાસે જાય છે. ‘ગુરુએ આવી ઉગારિયો અદ્‌ભુત કરી ઉપાય,’ — ને પછી જોગી શૂળી પાસે જઈને રાજાને કહે છે, ‘આ અવસર શૂળીએ ચઢે, વેગે મળે વિમાન.’ ગુરુ ન્યાયની દલીલ કરવાને બદલે શૂળીને જ ઇચ્છવા જેવી બનાવી દે છે.",
+              "detailed_summary": "શિષ્ય મુદત માગી લે છે — મુદત એટલે થોડો વધારે સમય — ને પસ્તાતો પસ્તાતો ગુરુ પાસે પહોંચે છે. કવિ પોતે જ કહી દે છે કે ‘ગુરુએ આવી ઉગારિયો અદ્‌ભુત કરી ઉપાય,’; ઉગારિયો એટલે બચાવ્યો ને અદ્‌ભુત એટલે નવાઈ પમાડે એવું. એટલે હવે જે વાક્ય બોલાય છે તે ખબર નથી, ઉપાય છે. જોગી શૂળી પાસે જઈને કહે છે, ‘ભૂપ સુણ કાન,’ ને પછી મૂકે છે એ વાત — ‘આ અવસર શૂળીએ ચઢે, વેગે મળે વિમાન.’ ગુરુ રાજાના ન્યાય સામે દલીલ કરતા નથી; એ તો શૂળીને એવી વસ્તુ બનાવી દે છે જે સૌને જોઈએ.",
+              "concept_bullets": [
+                "મુદત — વધારાનો સમય, મહેતલ.",
+                "ઉગારિયો — બચાવ્યો.",
+                "અદ્‌ભુત — નવાઈ પમાડે એવું.",
+                "અવસર — સમય; વેગે — ઝડપથી."
+              ],
+              "important_points": [
+                "શિષ્ય પાછો ફરે છે — મુદત માગીને પસ્તાતો ગુરુ પાસે જાય છે.",
+                "કવિ પહેલેથી કહી દે છે — જે આવે છે તે ઉપાય છે.",
+                "બોલાયેલું વાક્ય — ‘આ અવસર શૂળીએ ચઢે, વેગે મળે વિમાન.’",
+                "ગુરુની ચાલ — દલીલ નહીં, લાલચ."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T9.C11",
+                  "concept_name": "શૂળી નહીં, વિમાનનું બારણું",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "આ કડી વાંચતાં પહેલાં કવિના પોતાના શબ્દો પકડી રાખો — ‘ગુરુએ આવી ઉગારિયો અદ્‌ભુત કરી ઉપાય,’. એટલે પછી જે બોલાય છે તે માહિતી નથી, યુક્તિ છે. જોગી શૂળી પાસે જઈને રાજાને કહે છે, ‘આ અવસર શૂળીએ ચઢે, વેગે મળે વિમાન.’ વિમાન શું છે એની કોઈ સમજૂતી પાઠ આપતો નથી; વાત એટલી જ કે લાલચ એવી મુકાઈ કે શૂળી હવે સજા નહીં, ઇનામ લાગવા માંડે.",
+                      "publication_text": "આ કડીની આગળ કવિ પોતે જ કહી દે છે — ‘ગુરુએ આવી ઉગારિયો અદ્‌ભુત કરી ઉપાય,’. એટલે પછી જે બોલાય છે તે માહિતી નથી, યુક્તિ છે. જોગી શૂળી પાસે જઈને રાજાને કહે છે, ‘આ અવસર શૂળીએ ચઢે, વેગે મળે વિમાન.’ વિમાન શું છે એની કોઈ સમજૂતી પાઠ આપતો નથી; વાત એટલી જ કે લાલચ એવી મુકાઈ કે શૂળી હવે સજા નહીં, ઇનામ લાગવા માંડે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "‘શિષ્ય મુદત માગી ગયો ગુરુ પાસે પસ્તાય,’ — મુદત એટલે વધારાનો સમય.",
+                        "‘ગુરુએ આવી ઉગારિયો અદ્‌ભુત કરી ઉપાય,’ — ઉગારિયો એટલે બચાવ્યો.",
+                        "‘ભૂપ સુણ કાન,’ — બોલનાર રાજાને સીધું સંબોધે છે."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M3.S6.T9.RQ1",
+                  "legacy_id": "M3.S6.T9.TR1",
+                  "prompt": "શૂળી પાસે જઈને જોગી રાજાને શું કહે છે ?",
+                  "answer": "‘આ અવસર શૂળીએ ચઢે, વેગે મળે વિમાન.’ — એટલે કે આ સમયે જે શૂળીએ ચઢે એને ઝડપથી વિમાન મળે.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M3.S6.T9.RQ2",
+                  "legacy_id": "M3.S6.T9.TR2",
+                  "prompt": "ગુરુ રાજા સાથે ન્યાયની દલીલ કરવાને બદલે શું કરે છે ?",
+                  "answer": "એ શૂળીને ઇચ્છવા જેવી વસ્તુ બનાવી દે છે. કવિ પોતે એને ‘ગુરુએ આવી ઉગારિયો અદ્‌ભુત કરી ઉપાય,’ કહે છે — સજા ખોટી છે એમ કહેવાને બદલે એ સજાને ઇનામ જેવી દેખાડે છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M3.S6.T9.RQ3",
+                  "legacy_id": "M3.S6.T9.TR3",
+                  "prompt": "‘વેગે મળે વિમાન.’ — આ સાચી વાત છે કે યુક્તિ ? તમારું કારણ આપો.",
+                  "answer": "આ યુક્તિ છે. કવિએ આગલી પંક્તિમાં જ કહી દીધું છે કે ગુરુએ ઉપાય કર્યો છે. પાઠમાં એનો કોઈ પુરાવો નથી ને વિમાનની કોઈ સમજૂતી પણ નથી — વાત એટલી જ કે લાલચ મુકાઈ છે, ને લાલચ સાંભળીને રાજાનું મન ફરવા માંડે છે.",
+                  "difficulty": "hard",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "estimated_exchanges": "4",
+              "figures_of_speech": [],
+              "rhyme_scheme": {
+                "pattern": "લાંબી લીટીની બબ્બેની જોડ; તુક જોડને છેડે",
+                "rhyming_words": [
+                  "પસ્તાય — ઉપાય",
+                  "કાન — વિમાન"
+                ],
+                "note": "‘કાન – વિમાન’ની તુક છેક છેલ્લા શબ્દ પર આવીને અટકે છે, એટલે ‘વિમાન’ કાનમાં રહી જાય છે — ને યુક્તિ ચાલી જાય છે."
+              },
+              "shabdarth": [
+                {
+                  "shabd": "મુદત",
+                  "arth": "વધારાનો સમય, મહેતલ",
+                  "prakar": "આગત"
+                },
+                {
+                  "shabd": "ઉગારિયો",
+                  "arth": "બચાવ્યો",
+                  "prakar": "કાવ્ય-રૂપ"
+                },
+                {
+                  "shabd": "અદ્‌ભુત",
+                  "arth": "નવાઈ પમાડે એવું",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "અવસર",
+                  "arth": "સમય",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "વેગે",
+                  "arth": "ઝડપથી",
+                  "prakar": "તત્સમ"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "અવસર",
+                  "samanarthi": [
+                    "સમય",
+                    "વેળા"
+                  ]
+                },
+                {
+                  "shabd": "વેગે",
+                  "samanarthi": [
+                    "ઝડપથી",
+                    "ઉતાવળે"
+                  ]
+                }
+              ],
+              "vilom": [],
+              "vyakaran": [
+                {
+                  "bindu": "ક્રિયાપદ",
+                  "udaharan": "ગુરુએ આવી ઉગારિયો અદ્‌ભુત કરી ઉપાય,",
+                  "note": "‘ઉગારિયો’ એ ઉગારવું ક્રિયાનું ભૂતકાળનું રૂપ છે. ક્રિયા બતાવતા આવા શબ્દને ક્રિયાપદ કહે છે, ને અહીં એને સહાયકારક ક્રિયાપદની જરૂર પડી નથી — પાઠના અંતના ખાનામાં આ જ વાત ‘ખાધો’ પરથી શીખવવામાં આવી છે."
+                }
+              ],
+              "publication_text": "શિષ્ય મુદત માગીને, એટલે થોડો વધારે સમય લઈને, પસ્તાતો પસ્તાતો ગુરુ પાસે પહોંચે છે. કવિ પોતે જ કહી દે છે — ‘ગુરુએ આવી ઉગારિયો અદ્‌ભુત કરી ઉપાય,’; ઉગારિયો એટલે બચાવ્યો. એટલે હવે જે બોલાય છે તે ઉપાય છે, બચાવવાની યુક્તિ છે. જોગી શૂળી પાસે જઈને રાજાને કહે છે : ‘આ અવસર શૂળીએ ચઢે, વેગે મળે વિમાન.’ — અવસર એટલે સમય ને વેગે એટલે ઝડપથી. ગુરુ રાજાના ન્યાય સામે એક શબ્દ પણ બોલતા નથી; એ તો શૂળીને સૌને જોઈતી વસ્તુ બનાવી દે છે.",
+              "publication_chunk": "શિષ્ય મુદત માગી ગયો ગુરુ પાસે પસ્તાય,\nગુરુએ આવી ઉગારિયો અદ્‌ભુત કરી ઉપાય,\nજોગી શૂળી પાસે જઈ કહે, ‘‘ભૂપ સુણ કાન,\nઆ અવસર શૂળીએ ચઢે, વેગે મળે વિમાન.’’\n\nશિષ્ય મુદત માગીને, એટલે થોડો વધારે સમય લઈને, પસ્તાતો પસ્તાતો ગુરુ પાસે પહોંચે છે. કવિ પોતે જ કહી દે છે — ‘ગુરુએ આવી ઉગારિયો અદ્‌ભુત કરી ઉપાય,’; ઉગારિયો એટલે બચાવ્યો. એટલે હવે જે બોલાય છે તે ઉપાય છે, બચાવવાની યુક્તિ છે. જોગી શૂળી પાસે જઈને રાજાને કહે છે : ‘આ અવસર શૂળીએ ચઢે, વેગે મળે વિમાન.’ — અવસર એટલે સમય ને વેગે એટલે ઝડપથી. ગુરુ રાજાના ન્યાય સામે એક શબ્દ પણ બોલતા નથી; એ તો શૂળીને સૌને જોઈતી વસ્તુ બનાવી દે છે.\n\nરિસેસમાં ડબ્બો ખૂલે ને આજે એમાં કારેલાનું શાક છે. કોઈ હાથ પણ અડાડતું નથી. પણ પડખે બેઠેલો ભાઈબંધ ચમચી ભરીને કહે છે, ‘આ તો બહુ સરસ, મારી બા ખાસ આ જ રીતે બનાવે છે !’ ને પછી એક પછી એક બધા ચાખવા માંડે છે, ને ડબ્બો ખાલી. શાક તો એનું એ જ હતું; બોલવાની રીત બદલાઈ. ગુરુના એક વાક્ય પછી શૂળી સાથે પણ બરાબર આવું જ થાય છે.",
+              "media": [
+                {
+                  "topic_id": "M3.S6.T9",
+                  "concept_id": "M3.S6.T9.C11",
+                  "id": "M3.S6.T9.C11.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "શૂળી પાસે ગુરુની વાત",
+                  "description": "ગામ બહાર ખુલ્લા મેદાનમાં ખોડેલા કોરા થાંભલા પાસે ઊભા રહીને ગુરુ હાથ ઊંચો કરીને રાજાને કંઈક કહે છે, ને રાજા ગાદી પરથી અધૂરો ઊભો થઈને ઝૂકે છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "home_concept_id": "M3.S6.T9.C11",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બને ત્યાં સુધી બે ચહેરા વર્ણવો — ગુરુની ઉતાવળ ને રાજાનો ચમકતો લોભ — ને પછી પૂછો કે ગુરુની વાત સાંભળીને રાજાના મનમાં શું બદલાયું.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, digits or numerals anywhere in the frame, modern clothing, plastic objects, motivational poster layout, text banner with a moral, moral lesson panel, caricature or mockery of any religious or occupational community, blood, gore, injured or crushed bodies, a body impaled on the stake, any depicted execution, horror imagery",
+                  "generation_prompt": "Late afternoon on open ground just outside a nineteenth-century Gujarati town: low houses roofed with curved clay tiles, raised stone sitting-platforms running along the house fronts, carved wooden brackets under the upper storeys, with dry red earth, low thorn scrub, a stepped stone well to one side and the town's clay-tile roofs behind. A single tall bare wooden post with a blunt rounded top stands planted in the ground; nobody is on it, nothing hangs from it and nothing gruesome is shown. The teacher is a lean elderly man of about sixty with a long white beard, a shaved head, a saffron-ochre cotton robe worn over one shoulder, a tall wooden staff and bare feet. He stands at the foot of the post with one palm raised and his face bright with urgent, confiding excitement, speaking upward and across to the king. The king is a plump man of about fifty in a green-and-gold brocade long coat and a jewelled saffron turban with a small plume, with a thick curled moustache. He has half risen from his low cushioned platform under its canopy, leaning forward with sudden greedy interest, one hand gripping the cushion. The disciple is a young man of about eighteen with a round face, a shaved head with a small tuft of hair at the back, a plain pale-ochre cloth wrapped over one shoulder and bare feet, now visibly well fed, round-bellied and glossy-cheeked. He waits beside the post between two town guards, watching the teacher with dawning hope. The two town guards wear plain white tunics, red waist sashes and folded turbans, and each carries a bamboo staff. A crowd of townsfolk presses closer at the edges, and a flock of green parrots crosses the deep golden sky above. Soft digital watercolour, vibrant textbook illustration style, warm daylight palette, 16:9. A plain cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati text, lettered in clean Gujarati script and nothing else: આ અવસર શૂળીએ ચઢે, વેગે મળે વિમાન."
+                }
+              ],
+              "2d_tool": null,
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M3.S6.T10",
+              "topic_name": "ચઢવાની હોડ",
+              "topic_type": "POEM",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M3.S6.T9"
+              ],
+              "source_topic_ids": [],
+              "objective_ids": [
+                "O10"
+              ],
+              "learning_objectives": [
+                {
+                  "objective_id": "O10",
+                  "legacy_id": "L10",
+                  "strand": "L",
+                  "strand_name": "ભાષા અને સાહિત્ય",
+                  "objective_text": "શૂળીએ ચઢવા ચેલો, ગુરુ અને અધિપતિ ત્રણેય કેમ તૈયાર થાય છે, અને છેલ્લે કોણ ચઢે છે એ પરથી નગરીના ન્યાય વિશે શું કહી શકાય તે મૂલવવું.",
+                  "bloom_level": "Evaluate",
+                  "home_topic_id": "M3.S6.T10",
+                  "anchor": [
+                    "M3.S6.T10.C12"
+                  ],
+                  "status": "taught",
+                  "theme_category": null,
+                  "image_examples": []
+                }
+              ],
+              "original_chunk": "ચેલો બોલ્યો, ‘‘હું ચઢું’’ ને ગુરુ કહે, ‘‘હું આપ,’’\nઅધિપતિ કહે, ‘‘ચઢીએ અમો, પૂરણ મળે પ્રતાપ.’’\nગુરુ ચેલાને ગામથી, પહોંચાડ્યા ગાઉ પાંચ,\nરાજા શૂળી પર રહ્યો, અંગે વેઠી આંચ.",
+              "modified_chunk": "એ સાંભળીને ચેલો બોલી ઊઠે છે કે હું ચઢું, અને ગુરુ કહે છે કે આપ એટલે કે હું પોતે ચઢું. બંનેની હોડ જોઈને અધિપતિ એટલે કે રાજા કહે છે કે અમે જ ચઢીશું, જેથી પૂરણ એટલે પૂરેપૂરો પ્રતાપ અમને મળે. ગુરુ અને ચેલો તો ગામથી પાંચ ગાઉ દૂર પહોંચી જાય છે, અને રાજા શૂળી પર રહી જાય છે અને પોતાના અંગે આંચ એટલે કે તકલીફ વેઠે છે.",
+              "word_count": {
+                "original": 29
+              },
+              "key_terms": [
+                "આપ — હું, પોતે",
+                "અધિપતિ — રાજા, નગરનો ધણી",
+                "પૂરણ — પૂરું",
+                "પ્રતાપ — તેજ, મોટાઈ; અહીં ચઢવાથી મળનારો પૂરો મહિમા",
+                "ગાઉ — અંતરનું એક માપ",
+                "આંચ — (અહીં) તકલીફ, મુશ્કેલી"
+              ],
+              "explanation": "ચેલો સૌથી પહેલો કૂદી પડે છે — ‘‘હું ચઢું’’ — ને તરત ગુરુ કહે છે, ‘‘હું આપ,’’. અહીં આપ એટલે હું, પોતે; ‘તમે’ નહીં. બંને વચ્ચે હોડ જામતી જોઈને અધિપતિ, એટલે એ જ રાજા, વચ્ચે પડે છે : ‘‘ચઢીએ અમો, પૂરણ મળે પ્રતાપ.’’ — પૂરણ એટલે પૂરું ને પ્રતાપ એટલે મોટાઈ. પછી ‘ગુરુ ચેલાને ગામથી, પહોંચાડ્યા ગાઉ પાંચ,’ — ગાઉ એટલે અંતરનું એક માપ. ને છેલ્લી લીટી, ‘રાજા શૂળી પર રહ્યો, અંગે વેઠી આંચ.’ જે હુકમ રાજાએ પોતે કર્યો હતો, એ છેવટે એની જ પીઠે પડ્યો.",
+              "real_life_example": "ગામના મેળામાં ચકડોળની લાઇન લાંબી હોય ને પાછળથી બૂમો પડે, ‘પહેલો વારો મારો !’ એક જણ ધક્કો મારીને સૌથી આગળ ઘૂસી જાય છે ને સૌથી ઊંચી પેટીમાં ગોઠવાઈ જાય છે. ચકડોળ ફરવા માંડે ત્યારે ઉપરથી એની જ ચીસ સંભળાય છે, ને નીચે ઊભેલા બધા હસી પડે છે. જે સૌથી આગળ પડ્યો, એને જ સૌથી વધારે ઝીલવું પડ્યું. કાવ્યને છેડે પણ બરાબર આવું જ બને છે. તમે લાઇનમાં પહેલા ઊભા રહેવા છેલ્લે ક્યારે દોડ્યા હતા ?",
+              "brief_summary": "ચઢવાની હોડમાં રાજા પોતે વચ્ચે પડે છે, ને છેવટે શૂળી પર એ જ રહી જાય છે.",
+              "summary": "ચેલો કહે છે ‘‘હું ચઢું’’ ને ગુરુ કહે છે ‘‘હું આપ,’’ — આપ એટલે હું, પોતે. બંનેની હોડ જોઈને અધિપતિ કહે છે, ‘‘ચઢીએ અમો, પૂરણ મળે પ્રતાપ.’’ ગુરુ ને ચેલો ગામથી ગાઉ પાંચ દૂર નીકળી જાય છે, ને ‘રાજા શૂળી પર રહ્યો, અંગે વેઠી આંચ.’",
+              "detailed_summary": "વિમાનની વાત સાંભળતાં જ ચેલો સૌથી પહેલો બોલી ઊઠે છે, ‘‘હું ચઢું’’, ને ગુરુ પણ પાછળ રહેતા નથી — ‘‘હું આપ,’’ એટલે કે હું પોતે ચઢું. બે જણ વચ્ચે હોડ જામતી જોઈને અધિપતિ, એટલે એ જ રાજા, વચ્ચે કૂદી પડે છે : ‘‘ચઢીએ અમો, પૂરણ મળે પ્રતાપ.’’ — પૂરો મહિમા બીજા કોઈને શા માટે મળે ? પછી ‘ગુરુ ચેલાને ગામથી, પહોંચાડ્યા ગાઉ પાંચ,’ — ગાઉ એટલે અંતરનું એક માપ — ને બંને નીકળી જાય છે. છેલ્લી લીટી કહે છે, ‘રાજા શૂળી પર રહ્યો, અંગે વેઠી આંચ.’ આંચ એટલે અહીં તકલીફ; જે હુકમ રાજાએ પોતે કર્યો હતો એ છેવટે એની જ પીઠે પડ્યો.",
+              "concept_bullets": [
+                "આપ — હું, પોતે; હિન્દીના ‘આપ’ જેવો અર્થ અહીં નથી.",
+                "અધિપતિ — રાજા, નગરનો ધણી.",
+                "પૂરણ — પૂરું; પ્રતાપ — મોટાઈ.",
+                "ગાઉ — અંતરનું એક માપ; આંચ — (અહીં) તકલીફ."
+              ],
+              "important_points": [
+                "હોડ જામી — પહેલાં ચેલો, પછી ગુરુ, બંને ચઢવા તૈયાર.",
+                "રાજા વચ્ચે પડ્યો — પૂરો પ્રતાપ પોતાને જ જોઈએ છે.",
+                "ગુરુ-ચેલો છટક્યા — ગામથી ગાઉ પાંચ દૂર.",
+                "છેલ્લે શૂળી પર — રાજા પોતે."
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T10.C12",
+                  "concept_name": "હોડ જામી, ને ગુરુ-ચેલો ગાઉ પાંચ",
+                  "objective_id": "O10",
+                  "key_terms": [],
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "ત્રણેયનું બોલવું એક પછી એક સાંભળો : ચેલો કહે ‘‘હું ચઢું’’, ગુરુ કહે ‘‘હું આપ,’’ — આપ એટલે હું, પોતે — ને એ સાંભળીને અધિપતિ કહે છે, ‘‘ચઢીએ અમો, પૂરણ મળે પ્રતાપ.’’ થોડી વાર પહેલાં જે શૂળી કોઈને જોઈતી નહોતી, એના માટે હવે હોડ જામી છે. ‘આપ – પ્રતાપ’ ને ‘પાંચ – આંચ’ મોટેથી બોલી જુઓ; આ જ શબ્દો પુસ્તકના પ્રાસવાળા શબ્દોના કામમાં પણ છપાયા છે.",
+                      "publication_text": "ત્રણેયનું બોલવું એક પછી એક આવે છે : ચેલો કહે ‘‘હું ચઢું’’, ગુરુ કહે ‘‘હું આપ,’’ — આપ એટલે હું, પોતે — ને એ સાંભળીને અધિપતિ કહે છે, ‘‘ચઢીએ અમો, પૂરણ મળે પ્રતાપ.’’ થોડી વાર પહેલાં જે શૂળી કોઈને જોઈતી નહોતી, એના માટે હવે હોડ જામી છે. ‘આપ – પ્રતાપ’ ને ‘પાંચ – આંચ’ — આ જ શબ્દો પુસ્તકના પ્રાસવાળા શબ્દોના કામમાં પણ છપાયા છે."
+                    },
+                    {
+                      "type": "list",
+                      "items": [
+                        "‘ચેલો બોલ્યો, ‘‘હું ચઢું’’ ને ગુરુ કહે, ‘‘હું આપ,’’’ — બે અવાજ, એક જ લીટીમાં.",
+                        "‘અધિપતિ કહે, ‘‘ચઢીએ અમો, પૂરણ મળે પ્રતાપ.’’’ — રાજા વચ્ચે પડે છે.",
+                        "‘ગુરુ ચેલાને ગામથી, પહોંચાડ્યા ગાઉ પાંચ,’ — ને એ બંને દૂર નીકળી જાય છે.",
+                        "‘રાજા શૂળી પર રહ્યો, અંગે વેઠી આંચ.’ — વારતા અહીં પૂરી થાય છે."
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "recall_questions": [
+                {
+                  "id": "M3.S6.T10.RQ1",
+                  "legacy_id": "M3.S6.T10.TR1",
+                  "prompt": "‘‘હું ચઢું’’ કોણ બોલે છે, ને ‘‘હું આપ,’’ કોણ ? અહીં આપ એટલે શું ?",
+                  "answer": "‘‘હું ચઢું’’ ચેલો બોલે છે ને ‘‘હું આપ,’’ ગુરુ બોલે છે. અહીં આપ એટલે હું, પોતે — એટલે ગુરુ કહે છે કે હું પોતે ચઢું.",
+                  "difficulty": "easy",
+                  "bloom_level": "remember"
+                },
+                {
+                  "id": "M3.S6.T10.RQ2",
+                  "legacy_id": "M3.S6.T10.TR2",
+                  "prompt": "અધિપતિ પોતે ચઢવાનું કેમ કહે છે ? એનું કારણ પંક્તિમાંથી શોધો.",
+                  "answer": "‘‘ચઢીએ અમો, પૂરણ મળે પ્રતાપ.’’ — પૂરણ એટલે પૂરું ને પ્રતાપ એટલે મોટાઈ. ચઢવાથી મળનારો પૂરેપૂરો મહિમા બીજા કોઈને નહીં, પોતાને જ મળે એવું એ ઇચ્છે છે.",
+                  "difficulty": "medium",
+                  "bloom_level": "understand"
+                },
+                {
+                  "id": "M3.S6.T10.RQ3",
+                  "legacy_id": "M3.S6.T10.TR3",
+                  "prompt": "છેલ્લે શૂળી પર કોણ રહી જાય છે ? એ પરથી આ નગરીના ન્યાય વિશે તમે શું કહેશો ?",
+                  "answer": "‘રાજા શૂળી પર રહ્યો, અંગે વેઠી આંચ.’ — છેલ્લે રાજા પોતે શૂળી પર રહી જાય છે, ને ગુરુ-ચેલો ગામથી ગાઉ પાંચ દૂર નીકળી જાય છે. આખા કાવ્યમાં સજા વાંક જોઈને કોઈને અપાઈ નથી — શેઠ, કડિયો, ગારો કરનાર, પખાલી, મુલ્લા, જોગી, દરેક વખતે નામ બદલાયું છે. જે ન્યાયમાં વાંક જોવાતો જ નથી, એમાં છેવટે હુકમ કરનાર પોતે પણ ઝડપાઈ જાય છે.",
+                  "difficulty": "hard",
+                  "bloom_level": "analyze"
+                }
+              ],
+              "estimated_exchanges": "5",
+              "figures_of_speech": [],
+              "rhyme_scheme": {
+                "pattern": "લાંબી લીટીની બબ્બેની જોડ; તુક જોડને છેડે",
+                "rhyming_words": [
+                  "આપ — પ્રતાપ",
+                  "પાંચ — આંચ"
+                ],
+                "note": "‘પાંચ – આંચ’ ટૂંકી ને કડક તુક છે, એટલે વારતા છેલ્લા શબ્દ પર આવીને એકદમ અટકી જાય છે. આ બંને જોડના શબ્દો પુસ્તકના પ્રાસવાળા શબ્દોના કામમાં પણ છપાયા છે."
+              },
+              "shabdarth": [
+                {
+                  "shabd": "આપ",
+                  "arth": "હું, પોતે",
+                  "prakar": "કાવ્ય-રૂપ"
+                },
+                {
+                  "shabd": "અધિપતિ",
+                  "arth": "રાજા, નગરનો ધણી",
+                  "prakar": "તત્સમ"
+                },
+                {
+                  "shabd": "પૂરણ",
+                  "arth": "પૂરું",
+                  "prakar": "કાવ્ય-રૂપ"
+                },
+                {
+                  "shabd": "ગાઉ",
+                  "arth": "અંતરનું એક માપ",
+                  "prakar": "દેશ્ય"
+                },
+                {
+                  "shabd": "આંચ",
+                  "arth": "(અહીં) તકલીફ, મુશ્કેલી",
+                  "prakar": "દેશ્ય"
+                }
+              ],
+              "samanarthi": [
+                {
+                  "shabd": "અધિપતિ",
+                  "samanarthi": [
+                    "રાજા",
+                    "ભૂપ"
+                  ]
+                },
+                {
+                  "shabd": "પ્રતાપ",
+                  "samanarthi": [
+                    "મોટાઈ",
+                    "તેજ"
+                  ]
+                }
+              ],
+              "vilom": [],
+              "vyakaran": [
+                {
+                  "bindu": "કાળ",
+                  "udaharan": "ગુરુ ચેલાને ગામથી, પહોંચાડ્યા ગાઉ પાંચ,",
+                  "note": "‘પહોંચાડ્યા’ ને ‘રહ્યો’ — બંને ભૂતકાળનાં ક્રિયારૂપો છે ને એમને સહાયકારક ક્રિયાપદ જોડવું પડ્યું નથી. પુસ્તક પછી આ જ રીતે ત્રણેય કાળનાં ક્રિયારૂપો બનાવવાનું કહે છે."
+                }
+              ],
+              "publication_text": "ચેલો સૌથી પહેલો કૂદી પડે છે — ‘‘હું ચઢું’’ — ને તરત ગુરુ કહે છે, ‘‘હું આપ,’’. અહીં આપ એટલે હું, પોતે; ‘તમે’ નહીં. બંને વચ્ચે હોડ જામતી જોઈને અધિપતિ, એટલે એ જ રાજા, વચ્ચે પડે છે : ‘‘ચઢીએ અમો, પૂરણ મળે પ્રતાપ.’’ — પૂરણ એટલે પૂરું ને પ્રતાપ એટલે મોટાઈ. પછી ‘ગુરુ ચેલાને ગામથી, પહોંચાડ્યા ગાઉ પાંચ,’ — ગાઉ એટલે અંતરનું એક માપ. ને છેલ્લી લીટી, ‘રાજા શૂળી પર રહ્યો, અંગે વેઠી આંચ.’ જે હુકમ રાજાએ પોતે કર્યો હતો, એ છેવટે એની જ પીઠે પડ્યો.",
+              "publication_chunk": "ચેલો બોલ્યો, ‘‘હું ચઢું’’ ને ગુરુ કહે, ‘‘હું આપ,’’\nઅધિપતિ કહે, ‘‘ચઢીએ અમો, પૂરણ મળે પ્રતાપ.’’\nગુરુ ચેલાને ગામથી, પહોંચાડ્યા ગાઉ પાંચ,\nરાજા શૂળી પર રહ્યો, અંગે વેઠી આંચ.\n\nચેલો સૌથી પહેલો કૂદી પડે છે — ‘‘હું ચઢું’’ — ને તરત ગુરુ કહે છે, ‘‘હું આપ,’’. અહીં આપ એટલે હું, પોતે; ‘તમે’ નહીં. બંને વચ્ચે હોડ જામતી જોઈને અધિપતિ, એટલે એ જ રાજા, વચ્ચે પડે છે : ‘‘ચઢીએ અમો, પૂરણ મળે પ્રતાપ.’’ — પૂરણ એટલે પૂરું ને પ્રતાપ એટલે મોટાઈ. પછી ‘ગુરુ ચેલાને ગામથી, પહોંચાડ્યા ગાઉ પાંચ,’ — ગાઉ એટલે અંતરનું એક માપ. ને છેલ્લી લીટી, ‘રાજા શૂળી પર રહ્યો, અંગે વેઠી આંચ.’ જે હુકમ રાજાએ પોતે કર્યો હતો, એ છેવટે એની જ પીઠે પડ્યો.\n\nગામના મેળામાં ચકડોળની લાઇન લાંબી હોય ને પાછળથી બૂમો પડે, ‘પહેલો વારો મારો !’ એક જણ ધક્કો મારીને સૌથી આગળ ઘૂસી જાય છે ને સૌથી ઊંચી પેટીમાં ગોઠવાઈ જાય છે. ચકડોળ ફરવા માંડે ત્યારે ઉપરથી એની જ ચીસ સંભળાય છે, ને નીચે ઊભેલા બધા હસી પડે છે. જે સૌથી આગળ પડ્યો, એને જ સૌથી વધારે ઝીલવું પડ્યું. કાવ્યને છેડે પણ બરાબર આવું જ બને છે.",
+              "media": [
+                {
+                  "topic_id": "M3.S6.T10",
+                  "concept_id": "M3.S6.T10.C12",
+                  "id": "M3.S6.T10.C12.IMG1",
+                  "type": "image",
+                  "subtype": "illustration",
+                  "title": "ચઢવાની હોડ",
+                  "description": "સાંજે થાંભલા સાથે ટેકવેલી નિસરણીના પહેલા પગથિયે રાજાએ પગ મૂક્યો છે ને હાથ પાછળ કરીને સૌને હટાવે છે; ગુરુ, ચેલો ને આખું ટોળું હાથ ઊંચા કરીને ઊભાં છે.",
+                  "image_url": "",
+                  "aspect_ratio": "16:9",
+                  "home_concept_id": "M3.S6.T10.C12",
+                  "objective_id": null,
+                  "image_category": "illustration",
+                  "teaching_notes": "ચિત્ર બને ત્યાં સુધી હોડની આ ક્ષણ પર જ રહો — સૌ ચઢવા માગે છે — ને પછી પૂછો કે ગુરુની એક જ વાતથી આખા ગામનું મન કઈ રીતે ફરી ગયું.",
+                  "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, digits or numerals anywhere in the frame, modern clothing, plastic objects, motivational poster layout, text banner with a moral, moral lesson panel, caricature or mockery of any religious or occupational community, blood, gore, injured or crushed bodies, a body impaled on the stake, any depicted execution, horror imagery",
+                  "generation_prompt": "Sunset on the open ground outside a nineteenth-century Gujarati town: low houses roofed with curved clay tiles, raised stone sitting-platforms running along the house fronts, carved wooden brackets under the upper storeys, long orange light and dust hanging in the air. The tall bare wooden post stands with a short wooden ladder leaning against it; nobody is on the post, nothing hangs from it and nothing gruesome is shown. The king is a plump man of about fifty in a green-and-gold brocade long coat and a jewelled saffron turban with a small plume, with a thick curled moustache. He has jumped down from his platform and shoved to the front, his jewelled turban knocked askew, one foot planted on the bottom rung of the ladder and one arm thrown back to wave everybody else away, his face lit with triumphant greed. The disciple is a young man of about eighteen with a round face, a shaved head with a small tuft of hair at the back, a plain pale-ochre cloth wrapped over one shoulder and bare feet, now visibly well fed, round-bellied and glossy-cheeked. He stands just behind him with one hand up as if calling out to be allowed first. The teacher is a lean elderly man of about sixty with a long white beard, a shaved head, a saffron-ochre cotton robe worn over one shoulder, a tall wooden staff and bare feet. He has his hand up too, being edged aside, a knowing glint in his eye. A crowd of townsfolk in white dhotis, cotton saris and folded turbans jostles behind them with hands raised, everyone wanting a turn. The two town guards wear plain white tunics, red waist sashes and folded turbans, and each carries a bamboo staff. The two guards steady the ladder, thoroughly bewildered. Clay-tile roofs and a stepped stone well stand dark against the low sun. Soft digital watercolour, vibrant textbook illustration style, warm daylight palette, 16:9. A plain cream narrator bar runs along the bottom edge of the frame carrying exactly this one line of Gujarati text, lettered in clean Gujarati script and nothing else: અધિપતિ કહે, ‘‘ચઢીએ અમો, પૂરણ મળે પ્રતાપ.’’"
+                }
+              ],
+              "2d_tool": "Event-order strip (the one interactive of this chapter, and it is earned by the chapter's own printed ordering block, નીચેની પંક્તિઓ ઘટનાક્રમમાં ગોઠવીને ફરીથી લખો.). WHAT THE CHILD MANIPULATES: the seven verse lines that block prints appear as shuffled cards in a column on the left, each card showing one line in Gujarati script exactly as printed, identified by a small line-drawing icon — a fallen wall, a trowel, a hoe in wet mortar, a leather water bag, a walking figure, a raised palm at a bare post, a ladder — and never by a number. An empty vertical track runs down the right. The child drags a card into any slot on the track and may drag a placed card out again or swap two placed cards; nothing is typed. WHAT CHANGES WHEN THEY DO: the moment two neighbouring slots are both filled the strip draws a connecting arrow between them and colours it — green while that pair stands in the order the poem tells it, grey while it does not — so the chain of blame visibly builds or breaks link by link instead of being marked at the end. A card dropped where both its neighbours contradict it slides back to the left column with a soft shake. When every arrow on the track is green they join into one continuous line from the fallen wall to the ladder, and the strip replays the chain once from top to bottom, lighting each card in turn. Nothing is scored, the strip never fills a slot for the child and never shows the finished order on its own, and they may re-order as often as they like — the feedback is the colour of the arrows, not a verdict. On-screen Gujarati instruction, rendered exactly: પંક્તિઓને કાવ્યમાં જે ક્રમે બની તે ક્રમે ગોઠવો. The card text is the printed verse as the exercise page prints it and is never rewritten into modern Gujarati; the child's written answer to the block itself stays with the સ્વાધ્યાય deliverable.",
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

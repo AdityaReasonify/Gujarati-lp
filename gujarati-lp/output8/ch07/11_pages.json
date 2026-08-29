@@ -1,0 +1,11 @@
+{
+  "textbook": null,
+  "textbook_url": "../Textbooks-pdf/std-8/ch-07-kankotari.pdf",
+  "textbook_pages": "53–58",
+  "source": "printed folio read off renders of pdf pp. 65 and 70 of the chapter PDF (page-1.png shows folio 53, page-6.png shows folio 58); cross-checked against manifest.json row for ch-07 (printed_start 53, pdf_start 65, pdf_end 70) and the std-8 offset (N+12) in profiles/boards/gseb_gujarati.md — all three agree",
+  "confidence": "medium",
+  "gaps": [
+    "textbook_url is a local path — the GSEB readers have no hosted URL",
+    "std 8 cover has not been read to confirm the printed textbook title in Gujarati script; 01_meta.json carries textbook: null, so this field is left null rather than composed from the filename or manifest title_en/title_gu"
+  ]
+}

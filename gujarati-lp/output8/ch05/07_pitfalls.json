@@ -1,0 +1,93 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "original_chunk carries first-person forms (‘હું ધારતો હતો કે હવે બા ભાંગી પડવાની’); explanation's first sentence must name લેખક or બા as its grammatical subject — a sentence that presents the content as unattributed fact (e.g. ‘બાપુજીના અવસાન પછી ઘરમાં દુઃખ આવ્યું’ with no named subject) fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field may add a feeling, thought or reason for બાની સ્વસ્થતા beyond what this original_chunk states — the text names only ‘બા સમયને જીરવી ગઈ, જીતી ગઈ’ and, at ‘પિતાજીની વાત નીકળતાં, સુખનો અતિરેક થતાં બાની આંખ ભીની થઈ જતી. અવાજ તરડાઈ જતો’; an added line such as ‘બાને અંદરથી ખૂબ એકલવાયું લાગતું હતું’ that this original_chunk does not state fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક બાની સ્વસ્થતાને ‘બા હંમેશાં મજબૂત જ રહી, ક્યારેય દુઃખી ન થઈ’ એવો સામાન્ય નિયમ સમજી લે છે, અને પાઠમાં ખાસ બતાવેલી એક જ પળ — બાપુજીની વાત નીકળે ત્યારે બાની આંખ ભીની થવી — તે ચૂકી જાય છે.",
+      "correction": "સમજૂતીમાં પાઠનું જ વાક્ય ‘પિતાજીની વાત નીકળતાં... બાની આંખ ભીની થઈ જતી; અવાજ તરડાઈ જતો’ ટાંકીને બતાવવું કે બા આ એક જ પળે લાગણીવશ થાય છે; બાકીના સમયે ‘બા સમયને જીરવી ગઈ, જીતી ગઈ’ — આ સામાન્ય નિયમ નથી, ચોક્કસ પળ છે."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "Every plant, flower or fruit name in explanation, key_terms, concept_bullets, summary or a recall answer for this topic must be one this original_chunk itself prints (થોર, મહેંદી, કારેલી-કંકોડી, મકાઈ, ભીંડા, રીંગણ-મરચાં, દાડમ, જામફળ, સીતાફળ, પપૈયાં, મોગરો, જાસૂદ, કાગડી, અમરીચમરી, ગુલાબ, કરેણ, સૌભાગ્યસુંદરી, પારિજાત, તુલસી, કરિયાતું, અરડૂસી, ખરસાંડી, મીઠો લીમડો, લીંબુ); no other plant name added from general knowledge (e.g. કેરી, ચંપો, નાળિયેરી) passes.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક વાડાનાં છોડ-ફૂલ-ફળનાં નામોની લાંબી યાદીને માત્ર શબ્દભંડોળ તરીકે વાંચી લે છે અને પાઠનું જ વાક્ય ‘કહો કે એના હૃદય જેટલી સમૃદ્ધિ એ વાડામાં !’ ચૂકી જાય છે, જે આ યાદીને બાના પોતાના વ્યક્તિત્વ સાથે જોડે છે.",
+      "correction": "સમજૂતી એ જ વાક્ય ‘એના હૃદય જેટલી સમૃદ્ધિ એ વાડામાં’ તરફ ધ્યાન દોરીને બતાવવી કે વાડાની સમૃદ્ધિ ખરેખર બાના હૃદયની સમૃદ્ધિ છે — યાદી એકલી નહીં, બાનું ચિત્ર છે."
+    },
+    {
+      "topic_id": "M1.S3.T3",
+      "avoid_checks": [
+        {
+          "check": "No field may add an imagined worry for બા beyond the four this original_chunk lists (‘ભૂંડ પેસી ગયા હશે ?’, ‘વાંદરાઓએ ખેદાનમેદાન કરી નાખ્યું હશે’, ‘લોકોએ આડેધડ ફૂલો ચૂંટી લીધાં હશે’, ‘કાચાં ને કાચાં લીંબુ કોઈ લઈ ગયું હશે’); a fifth, invented worry (e.g. ‘કોઈ વાડો કબજે કરી લેશે’) fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ‘ભૂંડ પેસી ગયા હશે ?’, ‘વાંદરાઓએ ખેદાનમેદાન કરી નાખ્યું હશે’ જેવાં વાક્યોને ખરેખર બનેલી ઘટનાઓ સમજી લે છે, જ્યારે એ તો બા વાડાથી દૂર હોય ત્યારે મનમાં કરેલી ચિંતાભરી કલ્પનાઓ છે.",
+      "correction": "સમજૂતીમાં ‘-હશે’ શબ્દ તરફ ધ્યાન દોરવું અને સ્પષ્ટ કહેવું કે આ બધું બાના મનની ચિંતા છે, ખરેખર બનેલી ઘટના નથી — વાડાથી દૂર રહેવાનો બાનો ઝુરાપો આ રીતે વ્યક્ત થાય છે."
+    },
+    {
+      "topic_id": "M2.S4.T4",
+      "avoid_checks": [
+        {
+          "check": "This topic closes on the writer's own quoted proverb (‘‘ખાયા સો ખોયા; ખિલાયા સો પાયા’’ - એ જાણે બાનું જીવનસૂત્ર રહ્યું છે !’); explanation, summary, detailed_summary, concept_bullets or a recall answer may quote and teach this AS the writer's own closing thought but may not append a further, unquoted moral clause (e.g. ‘આપણે પણ ઉદાર થવું જોઈએ’) after it.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ‘ભોળી’ અને ‘ભલી’ બંનેને એકસરખા અર્થમાં સમજી લે છે, અને એ ચૂકી જાય છે કે બા ખોટા બહાના (પેટમાં વીતે છે, તાવ આવે છે) ઓળખી લે છે છતાં આપે છે — એટલે જ પાઠ કહે છે કે બા ભોળી નહીં, ભલી ખરી.",
+      "correction": "સમજૂતીમાં પાઠનું વાક્ય ‘બા આનાકાની વિના આપે પણ અંદરથી સમજે... બા એ રીતે ભોળી નહીં, ભલી ખરી’ ટાંકીને બતાવવું કે બા જાણી-જોઈને, સમજી-વિચારીને ઉદારતા બતાવે છે — અજાણતાં નહીં."
+    },
+    {
+      "topic_id": "M2.S5.T5",
+      "avoid_checks": [
+        {
+          "check": "figures_of_speech for this topic is [] (std 8 names no craft device — profiles/students/std-8.md §1, §2 DO/DON'T #1) or, if populated, entries quote exact words from the four comparisons this original_chunk prints (‘હરણની જેમ’, ‘પતંગિયાની જેમ’, ‘ખિસકોલીની જેમ’, ‘વરસાદી ગાય બની જતી’); no field anywhere in this topic may attach the label ઉપમા or અલંકાર to any of them.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ‘વરસાદી ગાય’ શબ્દને શબ્દશઃ વરસાદમાં ફરતી ગાય સમજી લે છે, જ્યારે અહીં એનો અર્થ ગોકળગાય છે — અને એ ચૂકી જવાથી બાની નજરની ચોથી, સૌથી ધીમી અને ઝીણી સરખામણી જ સમજાતી નથી.",
+      "correction": "સમજૂતીમાં પહેલાં જ ‘વરસાદી ગાય — ગોકળગાય’ એમ ગ્લોસ કરવું, પછી બતાવવું કે ગોકળગાયની જેમ ધીમે ધીમે, નજીકથી ઝીણું જોવું — એ બાની નજરની ચોથી રીત છે, હરણ-પતંગિયા-ખિસકોલી પછીની."
+    },
+    {
+      "topic_id": "M2.S6.T6",
+      "avoid_checks": [
+        {
+          "check": "original_chunk carries first-person forms (‘હું દસ વર્ષની મારી ઉંમરે... નિહાળું છું’); explanation's first sentence must name લેખક/હું as the grammatical subject — a sentence like ‘બા આજેય એવી જ મુગ્ધતા બતાવે છે’ with no writer-subject fails to register that this is the writer's own observation.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "This is the chapter's last topic and its original_chunk closes on an unanswered question (‘કોને ખબર આ વાડો કઈ નવી વસ્તુ બા સામે આમ દરેક વખતે ધરી દેતો હશે ?’); explanation, summary, detailed_summary or a recall answer may not resolve it into a stated lesson (e.g. ‘આ વાડો બાને જીવનનો અર્થ શીખવે છે’) — the question stays open.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક પાઠના છેલ્લા સવાલ ‘કોને ખબર આ વાડો કઈ નવી વસ્તુ બા સામે આમ દરેક વખતે ધરી દેતો હશે ?’ નો કોઈ નિશ્ચિત જવાબ કે બોધ પાઠમાંથી શોધવા લાગે છે, જ્યારે લેખક પોતે જ આ સવાલનો જવાબ આપ્યા વિના છોડી દે છે.",
+      "correction": "સમજૂતીમાં સ્પષ્ટ કહેવું કે લેખક પોતે આ સવાલનો જવાબ આપતા નથી — આ પ્રશ્ન અચરજ તરીકે ખુલ્લો જ રહે છે; બાળકને પોતાનો વિચાર પૂછી શકાય, પણ એ પાઠનો જવાબ નથી, બાળકનો પોતાનો અંદાજ છે."
+    }
+  ],
+  "chapter_level": [
+    "std 8 names no અલંકાર/છંદ/સમાસ label anywhere in this book (profiles/students/std-8.md §1, §2 DO/DON'T #1); the four animal-comparisons of M2.S5.T5 and the હૃદય-equals-વાડો line of M1.S2.T2 may be noticed but never labelled (ઉપમા, સજીવારોપણ) in any field across the chapter.",
+    "બા is a real named person the chapter itself never pities — no લેખક-પરિચય box is printed and no biography beyond the byline ‘- પ્રવીણ દરજી’ exists (01_meta.json extraction_notes); across all six topics no field may add બિચારાં/ઘરડાં-helpless framing to her age (પંચોતેર), her labour in the વાડો, or her grief over બાપુજી — the chapter's own register is admiring, never pitying (profile Avoid gate 14; global_content_rules.md §10).",
+    "This essay has no plot and no climax — topic_category never reads 'climax' across M1.S1.T1–M2.S6.T6 (02_structure.json); no explanation, summary or recall answer across any topic may ask 'બાએ આમ કેમ કર્યું' as a character-motive/plot-turn question — she has પ્રસંગ, not પ્લોટ-વળાંક (profile Avoid gate 2).",
+    "Exercise block 8 (‘આ પાઠમાં બા વિશે વપરાયેલાં વિશેષણોની યાદી તૈયાર કરી...’) and block 13 (‘બાના વાડામાં આમ હોત તો શું થાત ?’) closely shadow this essay's own content (character adjectives, counterfactual વાડા-detail); no topic's explanation or objective_text may teach how to build such an adjective-list or counterfactual as a method — those blocks stay in exercise_solutions.json alone (profile Avoid gate 12; global_content_rules.md §7).",
+    "No લેખક-પરિચય box is printed anywhere in this chapter for પ્રવીણ દરજી; no field in any topic may add a biographical fact about the author beyond the byline itself (profile Avoid gate 8 — real-named-person biography rule extends to the author; reference/no_hallucination_policy.md)."
+  ]
+}

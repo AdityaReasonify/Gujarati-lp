@@ -1,0 +1,6 @@
+{"textbook":"ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 7",
+ "textbook_url":"../Textbooks-pdf/std-7/ch-13-taxine-futi-pankho.pdf",
+ "textbook_pages":"85–92",
+ "source":"printed folio, read off renders of pdf pp. 1 and 8 of the chapter PDF (the eight-page chapter render): page-1.png shows the printed folio box '85' at the bottom, page-8.png shows '92'. Cross-checked against std-7/manifest.json (printed_start 85, pdf_start 98, pdf_end 105 -> 8 pages, 85+7=92) and the std-7 offset N+13 (98-13=85), both of which agree with the folio read.",
+ "confidence":"high",
+ "gaps":["textbook_url is a local path — the GSEB readers have no hosted URL"]}

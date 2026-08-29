@@ -1,0 +1,11 @@
+{
+ "converged": true,
+ "source": "02_structure.json",
+ "sha256": "9bfc07ba53f9c643d273ca44741a0d20096f208ac53dd8a574272e95714872d5",
+ "verdict": "pass",
+ "notes": [
+  "Ids frozen from this point: M1-M3 / S1-S6 / T1-T7 / C1-C11, O1-O7, L1-L7. Downstream agents read 02_structure.json for structure; this file confirms convergence only and is not a copy of the payload.",
+  "See 04_validation.json for the full three-check verdict (genre_fidelity, coverage, objectives), all pass, no blocking findings.",
+  "Non-blocking carried forward: 01_meta.json's genre_confidence is 'low' (documented mahitiprad_gadya vs samvad_nibandh tension for this exact chapter); the structure correctly obeys the active mahitiprad_gadya profile regardless."
+ ]
+}

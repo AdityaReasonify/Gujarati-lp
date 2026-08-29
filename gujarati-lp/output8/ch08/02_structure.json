@@ -1,0 +1,201 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch8",
+  "plan_id": "gseb_eng_gujarati8_ch8_v1",
+  "chapter_name": "જીવતી દીવાદાંડી",
+  "grade": 8,
+  "genre": "સાહસકથા (ચરિત્ર-પ્રસંગ)",
+  "active_genre_profiles": ["charitra_prasang.md"],
+  "explanation_unit": "એક જીવન-પ્રસંગ",
+  "teaching_lens": "પ્રસંગ + સ્વભાવ + મૂલ્ય",
+  "guiding_question": "આઈડા લ્યૂસ પોતાના જીવના જોખમે તોફાનમાં ફસાયેલા લોકોને વારંવાર કેવી રીતે અને શા માટે બચાવતી હતી ?",
+
+  "counts": {
+    "modules": 3,
+    "segments": 3,
+    "topics": 3,
+    "concepts": 6,
+    "objectives": 3,
+    "ghatna_markers_in_00": 3,
+    "topics_carrying_a_ghatna_marker": 3
+  },
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3"
+  },
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "તોફાનમાં ફસાયેલા ચાર કિશોરોને બચાવ્યા છતાં પ્રસિદ્ધિની ઇચ્છા ન રાખનાર આઈડાએ પિતાની બીમારી પછી કૌટુંબની જવાબદારી કેવી રીતે નિભાવી તે સમજવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1", "M1.S1.T1.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અંધારી રાતે તોફાનમાં ફસાયેલા બે સૈનિકોને આઈડાએ બચાવ્યા પછી તેને કયાં-કયાં સન્માનો અને હંગામી નિમણૂક મળ્યાં તે જાણવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T2",
+      "anchor": ["M2.S2.T2.C3", "M2.S2.T2.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "આઈડાએ પોતાની બહેનપણીને બચાવ્યાનું છેલ્લું કાર્ય કઈ રીતે કર્યું, અને પોતાની ફરજ વિશે તેણે પોતાના શબ્દોમાં શું કહ્યું તે સમજવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S3.T3",
+      "anchor": ["M3.S3.T3.C5", "M3.S3.T3.C6"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "પ્રથમ સાહસ અને આઈડાનો પરિચય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "ચાર કિશોરોનો બચાવ અને કૌટુંબિક પાર્શ્વભૂમિ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "ચાર કિશોરોનું બચાવ-કાર્ય",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: ચાર કિશોરોનું બચાવ-કાર્ય]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "ચાર કિશોરોનો બચાવ અને આઈડાની સાદગી",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S1.T1.C2",
+                  "concept_name": "કૌટુંબિક પાર્શ્વભૂમિ અને જવાબદારી",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "બીજું સાહસ અને વધતી કીર્તિ",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "સૈનિકોનો બચાવ અને સન્માન",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T2",
+              "topic_name": "બે સૈનિકોનું બચાવ-કાર્ય",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: બે સૈનિકોનું બચાવ-કાર્ય (1869)]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T2.C3",
+                  "concept_name": "બે સૈનિકોનો બચાવ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S2.T2.C4",
+                  "concept_name": "સન્માન, કીર્તિ અને હંગામી નિમણૂક",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "અંતિમ સાહસ અને સેવાભાવના",
+      "segments": [
+        {
+          "segment_id": "M3.S3",
+          "segment_name": "બહેનપણીનો બચાવ અને જીવનભરની સેવાભાવના",
+          "topics": [
+            {
+              "topic_id": "M3.S3.T3",
+              "topic_name": "બહેનપણીનું બચાવ-કાર્ય",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: બહેનપણીનું બચાવ-કાર્ય (અંતિમ કાર્ય)]]",
+              "concepts": [
+                {
+                  "concept_id": "M3.S3.T3.C5",
+                  "concept_name": "બહેનપણીનો બચાવ અને લાંબી સેવા",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S3.T3.C6",
+                  "concept_name": "આઈડાના પોતાના શબ્દોમાં સેવાભાવના",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "notes": [
+    "MARKER PARITY — 00_chapter_normalized.md carries exactly THREE [[ઘટના: …]] reading markers (grep-verified: lines 9, 37, 57 — 'ચાર કિશોરોનું બચાવ-કાર્ય', 'બે સૈનિકોનું બચાવ-કાર્ય (1869)', 'બહેનપણીનું બચાવ-કાર્ય (અંતિમ કાર્ય)') and this cut produces exactly three topics, one per marker, in printed order; each topic records its marker verbatim in `source_marker`. This DOES match 01_meta.json's own `structure_inventory.ghatna: 3` — unlike a sibling chapter of this profile where the two counts disagreed, here Agent 1 marked only the three actual rescue events and deliberately did not give the connecting biographical material (family background, the honours paragraphs, the closing reflection) a marker of its own — its own extraction_notes says so explicitly: 'the connecting biographical material … is not itself counted as a separate ઘટના. Final topic-cutting into જીવન-પ્રસંગ units is Agent 2's task, not this agent's.' Given the hard rule 'one marker, one topic' and 'a topic you invent where no marker sits is … a fail', that connecting material is folded as a SECOND concept inside the marker-topic it physically sits under, never spun out into an unmarked fourth topic.",
+    "TWO-CONCEPT TOPICS, ALL THREE — each of the three ઘટના blocks genuinely does two separable things, so each topic carries two concepts rather than inventing an unmarked topic: M1.S1.T1 moves from the rescue-and-its-quiet-aftermath (rich boys stay silent, fame arrives eleven years later, 'આઈડા સીધી-સાદી છોકરી હતી, તેને પ્રસિદ્ધિની બિલકુલ ઇચ્છા ન હતી') to a dated facts-cluster about who she was and how the duty fell to her (arrival in 1858, her father's post, her swimming/boating reputation at sixteen, her father's disabling illness, the family responsibility landing on her); M2.S2.T2 moves from the rescue act itself to the facts-cluster of what followed (the soldiers' letter and reward, spreading fame, President Grant's visit, the temporary keeper appointment); M3.S3.T3 moves from the final rescue and the closing career-length/death facts to Ida's own quoted reflection and the chapter's closing statement on her being a 'હંગામી' worker who out-worked the men around her. This matches charitra_prasang.md's own precedent, 'a dated facts-cluster is a legitimate topic where the chapter is built of facts' — here it rides inside the episode topic as its second concept rather than as a free-standing topic, because no marker backs it as one.",
+    "APPARATUS DELIBERATELY NOT CUT — [[પરિચય-પેટી]] (line 6) is confirmed by 01_meta.json's own extraction_notes as teacher-addressed apparatus ('evidence for genre diagnosis, never a reading scene, never an exercise'), so this chapter carries NO pre-reading CONCEPT topic (unlike std-10's student-facing કવિ-પરિચય paragraphs, this box is not printed for the child to read as content). [[શબ્દાર્થ]] (line 79) and [[ચર્ચા-વિચારણા]] (line 174) are likewise apparatus, not topics. The fourteen [[સ્વાધ્યાય: …]] markers (lines 92, 98, 103, 112, 123, 127, 141, 148, 152, 160, 165, 167, 169, 171 — matching 01_meta.json's fourteen-entry `exercise_inventory` exactly) all stay there for Agent 10; none is a topic. The two [[ચિત્ર: …]] markers (line 14, inside M1.S1.T1 between C1's rescue paragraphs; line 62, inside M3.S3.T3 between C5 and C6) are Agent 1's transcription of the page's own printed illustration and are not chapter text — they do not enter any `original_chunk` and are flagged here for Agent 5 to skip and for Agent 9's media planning to note their position in the reading flow.",
+    "depends_on LEFT EMPTY ON ALL THREE, ON PURPOSE — each topic opens on a self-contained situation with no textual back-reference requiring the prior topic to make sense: M1.S1.T1 opens 'તોફાની પવનને લીધે…', M2.S2.T2 opens 'સને 1869માં 27 વર્ષની આઈડાએ…', M3.S3.T3 opens 'એક દિવસ આઈડાની એક ખાસ બેનપણી…'. All three are chronological continuations of the same person's life, but none of their opening lines presupposes a fact stated only inside a prior topic's original_chunk, so none earns a real `depends_on` entry (reference/naming_conventions.md's guidance that '[] is the normal, correct value').",
+    "CRAFT-LABEL CEILING HELD — no objective_text, module_name, segment_name, topic_name or concept_name names an અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર; std 8 experiences this સાહસકથા/ચરિત્ર-પ્રસંગ form and never names it (profiles/students/std-8.md §1, teaching_lens_map.md's craft-naming gate).",
+    "topic_type — all three topics are STORY_TELLING, because each genuinely opens on a narrated act (a rescue) even though its second concept carries connecting facts or reflection; none of the three is a pure facts-list with no પરિસ્થિતિ→કૃત્ય→પરિણામ arc of its own, so no topic is typed CONCEPT here, and the closing reflection of M3.S3.T3.C6 stays inside its marked STORY_TELLING topic rather than becoming a free-standing REVIEW topic, since no marker backs a fourth topic.",
+    "topic_category — introduction (M1.S1.T1, the chapter's opening scene and the reader's introduction to Ida), core (M2.S2.T2, the middle episode with the widest public recognition), resolution (M3.S3.T3 — its own marker names it 'અંતિમ કાર્ય', and the topic's second concept carries the chapter's actual closing lines, Ida's own quoted words and the closing statement on her being કામચલાઉ, making 'resolution' fit better than 'climax' for the topic as a whole).",
+    "DIFFICULTY IS L2-READING DIFFICULTY, RELATIVE INSIDE THIS CHAPTER — easy: M1.S1.T1 (the chapter's most concrete, most linear narrative; only one date, 1858, against M2.S2.T2's five number-refs and M3.S3.T3's five). hard: M2.S2.T2 (the densest cluster in the chapter — 1869, 27, 218 ડોલર, 37, 21 — plus the single most complex sentence in the chapter describing the rescue mechanics, 'એક હાથથી સૈનિક લાકડાના પાટિયાના સહારે તરતો હતો અને બીજા હાથથી તેણે પોતાના બેશુદ્ધ સાથીને પકડી રાખ્યો હતો', plus administrative/foreign vocabulary — રાષ્ટ્રપતિ, નિમણૂક, સંરક્ષક, યુલિસીઝ સિંપસન ગ્રાન્ટ). medium: M3.S3.T3 (a very simple rescue sentence, but its second concept carries abstract vocabulary — કર્તવ્યનિષ્ઠા, નિઃસ્વાર્થ સેવા — a first-person quoted reflection, and a pun on હંગામી/કામચલાઉ that needs inference to land). No topic is rated hard for a craft reason — std 8 names no અલંકાર/છંદ — and difficulty caps no topic's Bloom ceiling: O3 reaches Analyze despite its home topic being only 'medium'.",
+    "SENSITIVITY (સુરક્ષા, વિદેશી પરિવેશ) — this chapter is charitra_prasang.md's own measured example of the સુરક્ષા sensitivity area (rescue and drowning content — capsized boats, an unconscious soldier, a girl of sixteen rowing into a storm) and its corpus's one foreign-setting exception (Newport, Lime Rock, USA — the profile's Media prior says explicitly to follow the chapter here rather than the usual Indian-setting default). Flagged here for Agent 8 to carry forward, not resolved by this structure file.",
+    "VERBATIM QUOTATION FLAGGED FOR AGENT 5 — the two-paragraph passage in double single-quotes (lines 71–73, ''ક્યારેક તો મોજાંની ઝાપટો … મને આનંદ થતો.'') is Ida's own words, quoted in the running text, and falls inside M3.S3.T3.C6's chunk; it must be transcribed character-for-character, never modernised or paraphrased, per charitra_prasang.md's rule 7 (first-person slippage) and reference/gujarati_verbatim.md.",
+    "FOR AGENT 5 — every `original_chunk` is deliberately empty. Topic boundaries are the three [[ઘટના: …]] marker lines: M1.S1.T1 runs from the paragraph after its marker (line 10, 'તોફાની પવનને લીધે…') up to (not including) the M2 marker (line 37), skipping the [[ચિત્ર: …]] line 14 as non-text; M2.S2.T2 runs from line 38 ('સને 1869માં…') up to (not including) the M3 marker (line 57); M3.S3.T3 runs from line 58 ('એક દિવસ આઈડાની…') to the chapter's final printed sentence (line 77, '…સમગ્ર પુરુષજાત તેને સલામ કરી રહી.') before the [[શબ્દાર્થ]] box, skipping the [[ચિત્ર: …]] line 62. Within each topic, C1/C3/C5 (the rescue act) end and C2/C4/C6 (the connecting facts or reflection) begin exactly where quoted in the notes above: C1 ends at line 23 ('તેને પ્રસિદ્ધિની બિલકુલ ઇચ્છા ન હતી.'), C2 begins at line 25 ('આઈડાએ જ્યારે તે ચાર કિશોરોના જાન બચાવ્યા…'); C3 ends at line 46, C4 begins at line 49; C5 ends at line 60, C6 begins at line 65 ('આટલાં બધાં યશ અને સન્માન…').",
+    "RENDERS NOT RE-READ — 00_chapter_normalized.md and 01_meta.json answered every question this cut needed (marker positions, apparatus boundaries, the exercise inventory). No PNG under _renders was opened for this pass."
+  ]
+}

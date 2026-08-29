@@ -1,0 +1,728 @@
+{
+ "agent": "05_verbatim_attachment",
+ "chapter_id": "gseb_eng_gujarati7_ch13",
+ "plan_id": "gseb_eng_gujarati7_ch13_v1",
+ "grade": 7,
+ "chapter_name": "ટૅક્સીને ફૂટી પાંખો !",
+ "genre": "varta",
+ "active_genre_profiles": [
+  "varta.md"
+ ],
+ "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+ "guiding_question": "યંત્રોથી ભરેલી આ ભાવિ દુનિયામાં નિશ્ચલભાઈની મુશ્કેલી છેવટે કોણ ઉકેલે છે — યંત્ર કે દીકરીનું ડહાપણ ?",
+ "explanation_unit": "એક ઘટના",
+ "cut_summary": {
+  "reading_markers_in_normalized": [
+   "[[ઘટના: સ્વપ્નમાં ચક્રની શોધ અને ડ્રોનના ફ્લેશથી જાગૃતિ]]",
+   "[[ઘટના: સવારની આપોઆપ ચાલતી દિનચર્યા અને સમાચારની ચિંતા]]",
+   "[[ઘટના: પ્લાનિંગ ડાયરી અને મશીન સાથેની 'ઓકે'ની રકઝક]]",
+   "[[ઘટના: સ્માર્ટ બોર્ડ સિસ્ટમ પહોંચાડવાની સમયમર્યાદા]]",
+   "[[ઘટના: સ્નેહા પિતાનો ચહેરો વાંચી લે છે]]",
+   "[[ઘટના: ઓટોમેટેડ ગાડી કે ઍરટૅક્સી — પિતા-પુત્રીની રકઝક]]",
+   "[[ઘટના: ઍરટૅક્સીમાં પ્રયાણ]]",
+   "[[ઘટના: આકાશમાં ઉડ્ડયન અને ઍરટૅક્સીની ખૂબીઓ]]",
+   "[[ઘટના: બે બાળપણની સરખામણી અને સ્માર્ટબોર્ડ ભુલાયાનો ઝબકારો]]",
+   "[[ઘટના: સ્નેહાનો ખુલાસો અને 'વાહ, મારી વહાલુડી દીકરી!']]"
+  ],
+  "reading_markers_count": 10,
+  "topics": 10,
+  "segments": 6,
+  "modules": 3,
+  "concepts": 10,
+  "objectives": 10,
+  "non_topic_markers": [
+   "[[શીર્ષક-પટ્ટી]] — '13  ટૅક્સીને ફૂટી પાંખો !' + '- સંકલિત'; છપાયેલી હેડર-સામગ્રી, વાચનદૃશ્ય નથી",
+   "[[પ્રવેશપેટી]] — વાદળી ખાનું, શિક્ષક-સંબોધિત; સ્વરૂપ-નિદાનનો પુરાવો, ટૉપિક નથી",
+   "[[શબ્દાર્થ]] — 18 શબ્દોનું ખાનું; key_terms અને ગ્લોસ માટે, ટૉપિક નથી",
+   "[[રૂઢિપ્રયોગ]] — 'ધૂળધાણી થવું – છેક બરબાદ થઈ જવું'; ટૉપિક નથી",
+   "[[સ્વાધ્યાય: …]] × 13 — 01_meta.json ના exercise_inventory માં, Agent 10 નું કામ",
+   "<!-- ચિત્ર: … --> × 3 (પંક્તિ 21, 28, 38) — છપાયેલાં ચિત્રો, કૅપ્શન વગરનાં; ટૉપિક નથી",
+   "[[પૃષ્ઠ 85]] / [[પૃષ્ઠ 86]] / [[પૃષ્ઠ 87]] / [[પૃષ્ઠ 88]] / [[પૃષ્ઠ 89]] / [[પૃષ્ઠ 90]] / [[પૃષ્ઠ 91]] / [[પૃષ્ઠ 92]] — પૃષ્ઠ-સીમાનાં નિશાન, વાચનદૃશ્ય નથી"
+  ],
+  "tek_occurrences": 0,
+  "kadi": 0,
+  "duha": 0,
+  "pad": 0,
+  "difficulty_spread": {
+   "easy": 2,
+   "medium": 5,
+   "hard": 3
+  }
+ },
+ "objectives": [
+  {
+   "objective_id": "O1",
+   "legacy_id": "L1",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "નિશ્ચલભાઈના સ્વપ્નમાં ચક્રમાંથી ક્રમશઃ કઈ કઈ વસ્તુઓ બની તે ક્રમમાં જણાવીને, તડકાને ફ્લેશ સમજી જાગી જવાનું કારણ પોતાના શબ્દોમાં કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S1.T1",
+   "anchor": [
+    "M1.S1.T1.C1"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O2",
+   "legacy_id": "L2",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "અરીસાના સ્ક્રીન પરના સમાચાર વાંચીને નિશ્ચલભાઈ કેમ ચમક્યા તે શોધીને, ઓટો બ્રશના બીપ બીપ પ્રસંગમાં લેખક હાસ્ય કેવી રીતે ઊભું કરે છે તે કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M1.S2.T2",
+   "anchor": [
+    "M1.S2.T2.C2"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O3",
+   "legacy_id": "L3",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "પ્લાનિંગ ડાયરીનું મશીન બાકી કામોની યાદી બોલવા માગે ત્યારે નિશ્ચલભાઈ શું જવાબ આપે છે તે શોધીને, એ જવાબ પાછળનું કારણ કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S2.T3",
+   "anchor": [
+    "M1.S2.T3.C3"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O4",
+   "legacy_id": "L4",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "નિશ્ચલભાઈએ સ્માર્ટ બોર્ડ સિસ્ટમ ક્યાંથી લેવાની અને ક્યાં સુધીમાં પહોંચાડવાની છે તે જણાવીને, આ કામ અઘરું કેમ છે તે સમજાવવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S3.T4",
+   "anchor": [
+    "M1.S3.T4.C4"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O5",
+   "legacy_id": "L5",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "સ્નેહા બાપુજીના ચહેરા પરથી શું વાંચી ગઈ તે પાઠની પંક્તિ શોધીને કહેવું, અને એના 'કરી દેવાનું, પપ્પા!' જવાબમાંથી એનો સ્વભાવ ઓળખાવવો.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S4.T5",
+   "anchor": [
+    "M2.S4.T5.C5"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O6",
+   "legacy_id": "L6",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ઓટોમેટેડ ગાડીને 'ડબ્બો' કહેવા પાછળ સ્નેહાનું કારણ સમજાવીને, ઍરટૅક્સી લેવાની પિતાની આનાકાની અને દીકરીની ખાતરી વચ્ચેનો ફેર કહેવો.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S4.T6",
+   "anchor": [
+    "M2.S4.T6.C6"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O7",
+   "legacy_id": "L7",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ઍરટૅક્સીનો દરવાજો કોના અવાજથી ખૂલ્યો અને પ્રયાણ માટે નિશ્ચલભાઈએ કઈ સૂચનાઓ આપી તે ક્રમમાં જણાવીને, અવાજથી ચાલતી સવારીની રીત કહેવી.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S5.T7",
+   "anchor": [
+    "M2.S5.T7.C7"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O8",
+   "legacy_id": "L8",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "આકાશમાં ઊડતી ઍરટૅક્સીની પાઠમાં જણાવેલી ખૂબીઓ યાદીરૂપે લખીને, પહેલી જ મુસાફરીમાં નિશ્ચલભાઈનું ટેન્શન કેમ ભુલાઈ ગયું તે સમજાવવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S5.T8",
+   "anchor": [
+    "M2.S5.T8.C8"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O9",
+   "legacy_id": "L9",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "નિશ્ચલભાઈના અને સ્નેહાના બાળપણ વચ્ચેના ફેરફારો સામસામે મૂકીને, આ વિચારોની વચ્ચે જ એમને કયો ઝબકારો થયો તે કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M3.S6.T9",
+   "anchor": [
+    "M3.S6.T9.C9"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O10",
+   "legacy_id": "L10",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "સ્નેહાએ આગલી સાંજે જ સ્માર્ટબોર્ડ સિસ્ટમ કેમ લાવી રાખી હતી તે સમજાવીને, આ ખુલાસો વાર્તાને કેવો વળાંક આપે છે અને પિતાની ખુશી બેવડી કેમ છે તે કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M3.S6.T10",
+   "anchor": [
+    "M3.S6.T10.C10"
+   ],
+   "status": "taught",
+   "theme_category": null
+  }
+ ],
+ "strand_to_objective_map": {
+  "L1": "O1",
+  "L2": "O2",
+  "L3": "O3",
+  "L4": "O4",
+  "L5": "O5",
+  "L6": "O6",
+  "L7": "O7",
+  "L8": "O8",
+  "L9": "O9",
+  "L10": "O10"
+ },
+ "modules": [
+  {
+   "module_id": "M1",
+   "module_name": "યંત્રોની દુનિયામાં એક સવાર",
+   "segments": [
+    {
+     "segment_id": "M1.S1",
+     "segment_name": "ચક્રનું સ્વપ્ન અને તડકાનું જાગરણ",
+     "topics": [
+      {
+       "topic_id": "M1.S1.T1",
+       "topic_name": "ચક્ર સાથે ફરતું સ્વપ્ન",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "introduction",
+       "difficulty": "hard",
+       "depends_on": [],
+       "objective_ids": [
+        "O1"
+       ],
+       "original_chunk": "બારીમાંથી આવતા તડકાએ ન જગાડ્યા ત્યાં સુધી નિશ્ચલભાઈ ઊંઘતા જ રહ્યા ! સરસ મજાના સ્વપ્નમાં ભંગ પડ્યો. સ્વપ્ન પણ કેવું અદ્ભુત ! નિશ્ચલભાઈએ પોતે જ આદિમાનવ તરીકે ચક્રની શોધ કરી, ચક્ર ફરતું ગયું અને દુનિયા બદલાતી ગઈ. એ જ ચક્રના ચાકડામાંથી નિશ્ચલભાઈએ માટલું બનાવ્યું. કારીગરોના સંઘાડા બનાવ્યા, પોતે જ બળદગાડું અને ઘોડાગાડી પણ બનાવી ! આગગાડી પણ પોતે જ બનાવી અને રોડ ફરતી ચકાચક ગાડીઓ પણ એ જ બનાવતા હતા અને મજા કરતા હતા. નિશ્ચલભાઈ ચક્ર સાથે સાથે જ આગળ વધતા ગયા. ઊડતું ચક્ર પણ બનાવ્યું. ઊંચાઈ પર જઈને ફોટા પાડતું ડ્રોન પણ તેમણે જ સર્જ્યું ! વાહ, કેવી મજા...! ડ્રોન વડે ધગધગતા જવાળામુખીના ફોટા પાડ્યા, જંગલનાં હિંસક પશુઓના વીડિયો ઉતાર્યા ! ઘરે પાછા આવીને પોતાના શહેર પર ડ્રોન ઉડાડ્યું અને ફોટા લીધા. પોતાના ઘરના ફોટા પણ લીધા. અરે, ઝૂમ કરીને પોતાના બેડરૂમમાં સૂતેલા એવા પોતાનો ફોટો લેવા ડ્રોન કૅમેરો ક્લિક કર્યો. કૅમેરાના ફલેશ સાથે એકદમ જાગી ગયા ! ''ઓહ, આ તો તડકો છે, ફ્લેશ નથી!'' જાગતાંની સાથે જ મનોમન બબડ્યા.",
+       "markers": [
+        "[[ઘટના: સ્વપ્નમાં ચક્રની શોધ અને ડ્રોનના ફ્લેશથી જાગૃતિ]]"
+       ],
+       "source_lines_00_normalized": "19",
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T1.C1",
+         "concept_name": "સ્વપ્નમાં ચક્રથી ડ્રોન સુધીની સફર",
+         "objective_id": "O1",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "બારીમાંથી આવતો તડકો મોં પર પડે છે અને નિશ્ચલભાઈનું સપનું તૂટે છે. સપનામાં એ પોતે જ આદિમાનવ બનીને ચક્રની શોધ કરે છે, અને એ જ ચક્રમાંથી ચાકડો (કુંભારનું ફરતું ચક્ર), માટલું, ગાડાં, આગગાડી, રસ્તા પર ફરતી ગાડીઓ ને છેક ઊડતું ડ્રોન સુધી બધું બનાવતા જાય છે. છેલ્લે ડ્રોનથી પોતાનો જ સૂતેલો ફોટો પાડવા જાય છે ત્યાં કૅમેરાના ફ્લેશ સાથે એ જાગી જાય છે. જાગીને એ મનમાં જ બબડે છે કે એ ફ્લેશ નહોતો, તડકો હતો.",
+       "word_count": {
+        "original": 161
+       },
+       "key_terms": [
+        "આદિમાનવ — સૌથી પહેલાંના જમાનાનો માણસ.",
+        "ચાકડો — કુંભાર માટલું ઘડે તે ફરતું ચક્ર.",
+        "સંઘાડો — લાકડું કે હાથીદાંત ફેરવીને ઘાટ ઉતારવાનું યંત્ર.",
+        "સર્જવું — નવું બનાવવું, રચવું.",
+        "બબડવું — મનમાં ને મનમાં ધીમેથી બોલવું."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M1.S2",
+     "segment_name": "આપોઆપ ચાલતી સવાર",
+     "topics": [
+      {
+       "topic_id": "M1.S2.T2",
+       "topic_name": "ઓટો બ્રશ અને અરીસા પરના સમાચાર",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "introduction",
+       "difficulty": "hard",
+       "depends_on": [],
+       "objective_ids": [
+        "O2"
+       ],
+       "original_chunk": "સ્વપ્ન યાદ કરીને હજુ તો થોડા ખુશ થાય ત્યાં કુમળા તડકાએ જાણે કે કઠોર સંદેશ આપ્યો કે, ''મિસ્ટર નિશ્ચલ, આટલું મોડે સુધી ઘોરાય નહિ!'' હવે તડકાને કોણ સમજાવે કે હજુ પરોઢિયે તો પાછલી રાતનું ભોજન / ડીનર કર્યું છે ! શ્રી - ડી પ્રિન્ટરમાં કશીક એવી ખામી સર્જાયેલી કે ખીચડીને બદલે માત્ર મગ અથવા ભાત જ નીકળતા હતા ! ખેર, હવે ઝડપથી તૈયાર થઈ જવું પડશે એનો અહેસાસ થતાં જ નિશ્ચલભાઈએ પથારીમાંથી કૂદકો જ માર્યો. રસોડામાં જઈ પાણી પીધું અને ચા તૈયાર કરવા એક સ્વિચ પાડીને બહાર આવી ગયા. વૉશબેઝિન પરની એક સ્વિચ ચાલુ કરી, એ ઓટો બ્રશ પાસે અદબપૂર્વક ઊભા રહ્યા અને અરીસાના સ્ક્રીન પર આજના સમાચાર જોવા માંડ્યા. સતત સ્કોલ થતા સમાચારો પૈકી એક સમાચાર પર એમનું ધ્યાન ગયું. એ ચમક્યા! એક ડગલું પાછળ હટીને એ સમાચાર પર ક્લિક કર્યું અને ધ્યાનથી વિગતો વાંચવા લાગ્યા. ઓટો બ્રશ બિચારું માલિકના દાંત વગર એકલું પડી ગયું હોય એમ બીપ બીપ બીપ કરીને રોવા માંડ્યું! પોતાને તકલીફમાં મૂકનારા સમાચાર વાંચવામાં તલ્લીન નિશ્ચલભાઈનું ધ્યાન બ્રશના કણસવા પર ગયું. એમણે અરીસા પરના જ એક લાલ ચાંદલા જેવા બટન પર ટેરવું અડાડ્યું. ડાહ્યુંડમરું થઈને બ્રશ સ્થિર થયું. આપમેળે પાણી આવ્યું. બ્રશ સાફ થયું અને શાંતિથી ચાર્જિંગ પ્લેસમાં ગોઠવાઈ ગયું ! બ્રશ શાંત થયું, પણ નિશ્ચલભાઈની અશાંતિ વધતી જતી હતી. એ એક જ સમાચાર વાંચીને એમણે એ જ અરીસા પર બીજો સ્ક્રીન ખોલ્યો.",
+       "markers": [
+        "[[ઘટના: સવારની આપોઆપ ચાલતી દિનચર્યા અને સમાચારની ચિંતા]]"
+       ],
+       "source_lines_00_normalized": "26",
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T2.C2",
+         "concept_name": "આપોઆપ ચાલતાં સાધનો વચ્ચે ચિંતાનો પ્રવેશ",
+         "objective_id": "O2",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "જાગ્યા પછી નિશ્ચલભાઈને ખ્યાલ આવે છે કે હવે ઝડપથી તૈયાર થવું પડશે. ઘરનાં સાધનો આપોઆપ ચાલે છે — સ્વિચ પાડતાં ચા તૈયાર થાય છે, ઓટો બ્રશ જાતે કામ કરે છે અને અરીસાના પડદા પર સમાચાર દેખાય છે. એમાંનો એક સમાચાર વાંચીને એ ચમકે છે અને ધ્યાનથી વિગતો વાંચવા લાગે છે. બ્રશ બીપ બીપ કરીને કણસે છે એટલે એ બટન દબાવીને એને શાંત કરે છે, પણ પોતાની અશાંતિ વધતી જાય છે અને એ અરીસા પર બીજો પડદો ખોલે છે.",
+       "word_count": {
+        "original": 218
+       },
+       "key_terms": [
+        "પરોઢિયું — વહેલી સવારનો સમય, મળસકું.",
+        "ઘોરવું — ઘસઘસાટ ઊંઘવું.",
+        "કુમળું — કોમળ, નરમ; અહીં સવારના હળવા તડકા માટે.",
+        "કણસવું — પીડાને લીધે ઊંહકાર કરવો; અહીં બ્રશના બીપ બીપ અવાજને લેખકે કણસવું કહ્યું છે.",
+        "તલ્લીન — એકાકાર, મગ્ન; બીજે ધ્યાન જ ન જાય એવું.",
+        "ટેરવું — આંગળીનો છેડો."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      },
+      {
+       "topic_id": "M1.S2.T3",
+       "topic_name": "પ્લાનિંગ ડાયરી સાથેની રકઝક",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O3"
+       ],
+       "original_chunk": "પોતાની પ્લાનિંગ ડાયરીને ઓડિયો મોડ પર મૂકી ઝડપથી રસોડા તરફ ગયા. આપમેળે તૈયાર થયેલી ચા પીવાનું હજુ શરૂ કરે ત્યાં તો મશીન બોલવા માંડ્યું, 'છેલ્લા ત્રણ દિવસથી તમે ડાયરી જોઈ નથી, ત્રણ દિવસનાં કામ સ્ટેટસમાં પેન્ડિંગ જ આવે છે. એને ઓકે કરો,' આવું બે વાર બોલાયું એટલે નિશ્ચલભાઈએ કહ્યું, 'ઓકે.' મશીન બોલ્યું. 'તમે ચોક્કસ છો ? એ બધાં જ કામમાં 'ઓકે' કરવાનું છે ?' 'એ ના ના ! એક પછી એક કામ બોલો એમાં હું ઓકે કરતો જઈશ' 'કુલ સત્તાવીસ કામની યાદી છે, બધાં જ ક્રમશઃ બોલું ?' મશીને પૂછ્યું, 'ના હું પછીથી જોઈ લઈશ' બોલીને એ ઝડપથી બાથરૂમમાં પહોંચ્યા. ક્યાં ક્યાં",
+       "markers": [
+        "[[ઘટના: પ્લાનિંગ ડાયરી અને મશીન સાથેની 'ઓકે'ની રકઝક]]"
+       ],
+       "source_lines_00_normalized": "31",
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T3.C3",
+         "concept_name": "માણસ અને મશીન વચ્ચેનો હાસ્યસભર સંવાદ",
+         "objective_id": "O3",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "નિશ્ચલભાઈ પોતાની પ્લાનિંગ ડાયરીને ઓડિયો મોડ પર મૂકે છે, એટલે મશીન બોલીને કહે છે કે ત્રણ દિવસથી ડાયરી જોઈ નથી અને કામ પેન્ડિંગ એટલે કે બાકી પડ્યાં છે. એ 'ઓકે' કહે છે, પણ મશીન ફરી ખાતરી માગે છે કે બધાં જ કામમાં 'ઓકે' કરવાનું છે કે નહીં. મશીન આખી યાદી ક્રમશઃ બોલવાનું પૂછે ત્યારે એ 'ના, પછીથી જોઈ લઈશ' કહીને ઝડપથી બાથરૂમમાં પહોંચી જાય છે.",
+       "word_count": {
+        "original": 102
+       },
+       "key_terms": [
+        "આપમેળે — જાતે જ, કોઈએ કર્યા વગર.",
+        "ક્રમશઃ — એક પછી એક, ક્રમ પ્રમાણે.",
+        "પેન્ડિંગ — બાકી રહેલું; અંગ્રેજી શબ્દ ગુજરાતી લિપિમાં લખાયો છે.",
+        "સ્ટેટસ — કામ કઈ સ્થિતિમાં છે તેની નોંધ; આ પણ અંગ્રેજી શબ્દ છે.",
+        "ઓડિયો મોડ — અવાજથી ચાલતી સ્થિતિ, જેમાં મશીન બોલીને કહે."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M1.S3",
+     "segment_name": "માથે આવેલી મુશ્કેલી",
+     "topics": [
+      {
+       "topic_id": "M1.S3.T4",
+       "topic_name": "બપોર સુધીમાં પહોંચાડવાનું કામ",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [
+        "M1.S2.T2"
+       ],
+       "objective_ids": [
+        "O4"
+       ],
+       "original_chunk": "કામ બાકી હશે એ અંગે વિચારતાં વિચારતાં એટલું તો સમજાયું કે ''આજ મારે એક સ્માર્ટ બોર્ડ સિસ્ટમ ઑફિસથી લેવાની છે અને ચારસો કિલોમીટર દૂર બપોર સુધીમાં પહોંચાડવાની છે, કારણ કે આજે જોયેલા સમાચાર મુજબ આઝાદીના શતાબ્દી મહોત્સવની ઉજવણીમાં મુખ્ય મહેમાન કાલે સવારે એનું લોકાર્પણ કરવાના છે.''",
+       "markers": [
+        "[[ઘટના: સ્માર્ટ બોર્ડ સિસ્ટમ પહોંચાડવાની સમયમર્યાદા]]"
+       ],
+       "source_lines_00_normalized": "36",
+       "concepts": [
+        {
+         "concept_id": "M1.S3.T4.C4",
+         "concept_name": "સમયમર્યાદાથી ઊભી થતી ગૂંચ",
+         "objective_id": "O4",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "બાકી કામ વિશે વિચારતાં વિચારતાં નિશ્ચલભાઈને એક વાત બરાબર સમજાય છે. આજે એમણે ઑફિસથી એક સ્માર્ટ બોર્ડ સિસ્ટમ લેવાની છે અને ચારસો કિલોમીટર દૂર બપોર સુધીમાં પહોંચાડવાની છે. કારણ એ છે કે આઝાદીના શતાબ્દી મહોત્સવ એટલે કે સો વર્ષ પૂરાં થયાની ઉજવણીમાં મુખ્ય મહેમાન બીજા દિવસે સવારે એનું લોકાર્પણ કરવાના છે.",
+       "word_count": {
+        "original": 46
+       },
+       "key_terms": [
+        "શતાબ્દી મહોત્સવ — સો વર્ષ પૂરાં થયે ઊજવાતો ઉત્સવ.",
+        "લોકાર્પણ — નવી વસ્તુ લોકોને અર્પણ કરવી, ખુલ્લી મૂકવી તે.",
+        "ઉજવણી — ઉત્સવ મનાવવો તે.",
+        "મુખ્ય મહેમાન — કાર્યક્રમમાં ખાસ બોલાવેલી વ્યક્તિ.",
+        "આઝાદી — સ્વતંત્રતા."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "M2",
+   "module_name": "ઍરટૅક્સીમાં પિતા-પુત્રીની ઉડાન",
+   "segments": [
+    {
+     "segment_id": "M2.S4",
+     "segment_name": "દીકરીની દરખાસ્ત",
+     "topics": [
+      {
+       "topic_id": "M2.S4.T5",
+       "topic_name": "બાપુજીનો ચહેરો વાંચી ગયેલી સ્નેહા",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O5"
+       ],
+       "original_chunk": "નાસ્તો કરવાનું બાકી રાખી, નિશ્ચલભાઈ ઝડપથી કામ પર જવા તૈયાર થઈ ગયા. આજ સુધી કદી એ પોતાના કામમાં મોડા નથી પડ્યા. પોતાની એ છાપ આજે ધૂળધાણી થવાનો ભય અને ઓર્ડર કેન્સલ થવાથી પોતાને થનાર આર્થિક નુકસાનનો ડર એમના ચહેરા પર જોઈ શકાતો હતો. ઘરમાંથી નીકળતા જ હતા ત્યાં વહેલી સવારથી મેદાનમાં રમવા ગયેલી દીકરી ઘરે આવી. બાપુજીને પગે લાગી. સાતમા ધોરણમાં ભણતી સ્નેહા એના બાપુજીનો ચહેરો તરત જ વાંચી ગઈ. ''શેનું ટેન્શન છે, બાપુજી ?'' પોતાની મુશ્કેલીની વાત કરતાં કહ્યું, ''જો ને, અશક્ય ઝડપે કામ કરવાનું આવ્યું છે.'' ''કરી દેવાનું, પપ્પા!'' સ્નેહાએ કહ્યું.",
+       "markers": [
+        "[[ઘટના: સ્નેહા પિતાનો ચહેરો વાંચી લે છે]]"
+       ],
+       "source_lines_00_normalized": "41",
+       "concepts": [
+        {
+         "concept_id": "M2.S4.T5.C5",
+         "concept_name": "ચહેરો વાંચી લેતી દીકરી",
+         "objective_id": "O5",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "નાસ્તો બાકી રાખીને જ નિશ્ચલભાઈ કામ પર જવા તૈયાર થાય છે. મોડા પડવાનો અને ઓર્ડર રદ થવાથી પૈસાની ખોટ જવાનો ડર એમના ચહેરા પર દેખાય છે. એ જ વખતે મેદાનમાં રમીને પાછી આવેલી દીકરી સ્નેહા બાપુજીને પગે લાગે છે અને એમનો ચહેરો જોઈને જ સમજી જાય છે કે કંઈક ચિંતા છે. એ પૂછે છે અને પિતા મુશ્કેલી કહે છે, ત્યારે સ્નેહા સહજતાથી કહે છે કે આ કામ થઈ જશે.",
+       "word_count": {
+        "original": 93
+       },
+       "key_terms": [
+        "ધૂળધાણી થવું — છેક બરબાદ થઈ જવું.",
+        "છાપ — બીજાના મનમાં બંધાયેલી ઓળખ; અહીં 'સમયસર કામ કરનારા' એવી ઓળખ.",
+        "આર્થિક નુકસાન — પૈસાની ખોટ.",
+        "અશક્ય — ન બની શકે એવું.",
+        "ચહેરો વાંચી જવો — ચહેરો જોઈને જ મનની વાત સમજી જવી."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      },
+      {
+       "topic_id": "M2.S4.T6",
+       "topic_name": "ઓટોમેટેડ ગાડી સામે ઍરટૅક્સીની દરખાસ્ત",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O6"
+       ],
+       "original_chunk": "'અરે મારી માવડી...!' ફૂલ સ્પીડમાં નોનસ્ટોપ ગાડી ચલાવું તો પણ ત્યાં કેવી રીતે સમયસર પહોંચાય? અને આપણા શહેરમાંથી બહાર નીકળતાં જ એકાદ કલાક લાગી જાય એટલો બધો ટ્રાફિક હોય છે.' આમ કહીને એમણે પોતાની કાંડા ઘડિયાળ પર બેત્રણ વાર આંગળી અડાડી તરત જ તેમના પાર્કિંગમાં મૂકેલી ગાડી જાતે જ આવીને પરસાળ પાસે ઊભી રહી ગઈ. એનો દરવાજો જાતે જ ખૂલી ગયો. નિશ્ચલભાઈ એમાં બેસવા જતા હતા ત્યાં સ્નેહાએ કહ્યું 'હે નિશ્ચલરાયજી, આ ડબ્બો તો તમને નહિ જ પહોંચાડે!' 'અરે, મારી ફુલ્લી ઓટોમેટેડ ગાડીને તું ડબ્બો કહે છે ?'\n''એમ નહિ પપ્પા, પણ ટ્રાફિકની ખલેલ વગર સમયસર પહોંચવું હોય તો ઍરટૅક્સી જ જોઈએ.''\n''ઍરટૅક્સી ? એ મને ન ફાવે. માંડ તો આ ઓટોમેટેડ ગાડી ફાવી છે.''\n''નો પ્રોબ્લેમ, હું છું ને ? મને સાથે લઈ જાઓ.''\n''હેં ? તને ? તને ઍરટૅક્સી ચલાવતાં આવડે છે ? કદી સાદી ગાડીનું સ્ટિયરિન્ગ પણ પકડ્યું છે ?''\n''એમાં સ્ટિયરિન્ગ ક્યાં પકડવાનું આવે, પપ્પા ? હવે એ પણ ફુલ્લી ઓટોમેટેડ હોય છે. તમને સ્પષ્ટ સૂચના આપતાં આવડે એટલે બસ.'' ડૂબતા માણસને તણખલાનો સહારો હોય એમ નિશ્ચલભાઈને સ્નેહાની મદદ મળી. સ્નેહા તૈયાર થવા ગઈ એ પહેલાં પોતાના કાંડે બાંધેલી ઘડિયાળના સ્ક્રીન પર બેત્રણ વાર ટેરવું અડાડ્યું.",
+       "markers": [
+        "[[ઘટના: ઓટોમેટેડ ગાડી કે ઍરટૅક્સી — પિતા-પુત્રીની રકઝક]]"
+       ],
+       "source_lines_00_normalized": "44, 48-56",
+       "concepts": [
+        {
+         "concept_id": "M2.S4.T6.C6",
+         "concept_name": "ઉકેલ સૂચવતી સ્નેહા અને પિતાનો સંકોચ",
+         "objective_id": "O6",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "નિશ્ચલભાઈ કહે છે કે ગમે તેટલી ઝડપે ગાડી ચલાવે તોય શહેરના ટ્રાફિકમાંથી નીકળતાં જ કલાક જાય, એટલે સમયસર પહોંચાય એમ નથી. એ ઘડિયાળ પર આંગળી અડાડે છે અને એમની ઓટોમેટેડ ગાડી જાતે આવીને પરસાળ એટલે કે ઘરના આગલા ખંડ પાસે ઊભી રહે છે. સ્નેહા એ ગાડીને 'ડબ્બો' કહે છે અને સમજાવે છે કે ટ્રાફિકની ખલેલ વગર સમયસર પહોંચવું હોય તો ઍરટૅક્સી જ જોઈએ. પિતાને ઍરટૅક્સી ફાવતી નથી, પણ સ્નેહા પોતે સાથે આવવાનું કહે છે અને એમને ટેકો મળી જાય છે.",
+       "word_count": {
+        "original": 190
+       },
+       "key_terms": [
+        "ખલેલ — નડતર, અડચણ; અહીં ટ્રાફિકને લીધે થતી અડચણ.",
+        "પરસાળ — ઘરનો આગલો ખંડ, પડસાળ.",
+        "ઓટોમેટેડ — આપોઆપ ચાલતું; અંગ્રેજી શબ્દ ગુજરાતી લિપિમાં લખાયો છે.",
+        "સ્ટિયરિન્ગ — ગાડી વાળવાનું પૈડું; પાઠમાં છપાયેલી જોડણી આ જ છે.",
+        "ડૂબતા માણસને તણખલાનો સહારો — મોટી મુશ્કેલીમાં નાનો પણ આધાર મળી જવો.",
+        "માવડી — દીકરીને વહાલથી કરાતું સંબોધન."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M2.S5",
+     "segment_name": "આકાશની સફર",
+     "topics": [
+      {
+       "topic_id": "M2.S5.T7",
+       "topic_name": "અવાજ ઓળખતી ઍરટૅક્સીનું પ્રયાણ",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "transition",
+       "difficulty": "easy",
+       "depends_on": [],
+       "objective_ids": [
+        "O7"
+       ],
+       "original_chunk": "સ્નેહા તૈયાર થઈને આવી ત્યારે પરસાળમાં ઍરટૅક્સી ઊભી હતી. નિશ્ચલભાઈ ગાડીના કાચમાંથી અંદરની વ્યવસ્થા જોવાની કોશિશ કરતા હતા. એકાદવાર દરવાજો ખોલવાનો પ્રયાસ કરેલો, પણ ખુલ્યો નહોતો. સ્નેહાના અવાજથી દરવાજો ખુલ્યો અને બંને જણ ગાડીમાં ગોઠવાયાં. બંનેના સીટ બેલ્ટ જાતે જ બંધાઈ ગયા. સ્નેહાએ પપ્પાને ઍરટૅક્સીની વિગતો સમજાવી. પછી કહ્યું, ''તમે એક સૂચના આપો પપ્પા, હવે એ તમારો અવાજ પણ ઓળખશે.'' નિશ્ચલભાઈ ''દરવાજો બંધ કરો.'' બોલ્યા અને દરવાજો બંધ થઈ ગયો. 'ગંતવ્યસ્થાને પ્રયાણ કરો / મુસાફરી શરૂ કરો.' બોલ્યા અને ઍરટૅક્સી હવામાં ઊંચકાઈ!'",
+       "markers": [
+        "[[ઘટના: ઍરટૅક્સીમાં પ્રયાણ]]"
+       ],
+       "source_lines_00_normalized": "59",
+       "concepts": [
+        {
+         "concept_id": "M2.S5.T7.C7",
+         "concept_name": "અવાજથી ચાલતી ઍરટૅક્સીનું પ્રયાણ",
+         "objective_id": "O7",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "સ્નેહા તૈયાર થઈને આવે છે ત્યારે પરસાળમાં ઍરટૅક્સી ઊભી હોય છે. નિશ્ચલભાઈએ પહેલાં દરવાજો ખોલવાનો પ્રયાસ કરેલો, પણ એ ખૂલ્યો નહોતો; સ્નેહાના અવાજથી દરવાજો ખૂલે છે અને બંને અંદર ગોઠવાય છે. સીટ બેલ્ટ પણ જાતે જ બંધાઈ જાય છે. સ્નેહા પપ્પાને વિગતો સમજાવે છે, અને એમના અવાજની સૂચનાથી જ દરવાજો બંધ થાય છે ને ઍરટૅક્સી હવામાં ઊંચકાય છે.",
+       "word_count": {
+        "original": 82
+       },
+       "key_terms": [
+        "પ્રયાણ કરવું — જવું, ઊપડવું, પ્રસ્થાન કરવું.",
+        "ગંતવ્યસ્થાન — જ્યાં પહોંચવાનું હોય તે જગ્યા.",
+        "સૂચના — શું કરવું તે કહેતો આદેશ.",
+        "વ્યવસ્થા — ગોઠવણ.",
+        "ગોઠવાવું — બરાબર બેસી જવું."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      },
+      {
+       "topic_id": "M2.S5.T8",
+       "topic_name": "આકાશમાં ઊડતી ઍરટૅક્સીની ખૂબીઓ",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O8"
+       ],
+       "original_chunk": "કોઈ જ જાતના અવાજ કે ઘોંઘાટ વગર ઍરટૅક્સી પાંચસો - છસો કિલોમીટરની ઝડપે આકાશમાં ઊડતી હતી. પહેલી જ વારની આ રોમાંચક મુસાફરીના આનંદમાં નિશ્ચલભાઈ પોતાનું ટેન્શન ભૂલી ગયા. ઊંચાઈ પરથી જમીન પરનાં ઝાડ, ઘર, વાહનો, કારખાનાં જોવાની મજા આવતી હતી. નિશ્ચલભાઈએ જોયું કે કોઈ પણ ઍરટૅક્સી સમાન ઊંચાઈ પર નહોતી ઊડતી. એટલું જ નહિ, ઍરટૅક્સીના ડેશ બોર્ડ પર દેખાતું પણ હતું કે અંદાજે સો કિલોમીટરની ત્રિજ્યામાં અત્યારે બીજી કઈ કઈ ઍર ટૅક્સી ઊડી રહી છે ! ઍરટૅક્સીનાં શક્તિશાળી સેન્સર વિશે એમણે અગાઉ સાંભળેલું, પણ આજે જાતઅનુભવ થયો. પહોંચવાનું સ્થળ નજીક આવ્યું એટલે દીકરી સ્નેહાએ ડેશબોર્ડ પર ટેરવાંથી ઍરટૅક્સીને સૂચનાઓ આપવાનું શરૂ કર્યું. ઍરટૅક્સીની ગતિ થોડી ધીમી થઈ. ધીમે ધીમે એ નીચેની તરફ પણ આવતી હતી.",
+       "markers": [
+        "[[ઘટના: આકાશમાં ઉડ્ડયન અને ઍરટૅક્સીની ખૂબીઓ]]"
+       ],
+       "source_lines_00_normalized": "62",
+       "concepts": [
+        {
+         "concept_id": "M2.S5.T8.C8",
+         "concept_name": "ઊંચાઈએથી દેખાતી દુનિયા અને સેન્સરની ખૂબી",
+         "objective_id": "O8",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "કોઈ અવાજ કે ઘોંઘાટ વગર ઍરટૅક્સી આકાશમાં ખૂબ ઝડપે ઊડે છે, અને પહેલી જ વારની આ મુસાફરીના આનંદમાં નિશ્ચલભાઈ પોતાનું ટેન્શન ભૂલી જાય છે. ઊંચેથી નીચેનાં ઝાડ, ઘર, વાહનો અને કારખાનાં જોવાની એમને મજા આવે છે. એ જુએ છે કે કોઈ પણ ઍરટૅક્સી સરખી ઊંચાઈએ ઊડતી નથી, અને ડેશ બોર્ડ પર આસપાસ કઈ કઈ ઍરટૅક્સી ઊડે છે એ પણ દેખાય છે. પહોંચવાનું સ્થળ નજીક આવતાં સ્નેહા સૂચનાઓ આપે છે અને ટૅક્સી ધીમી પડીને નીચે ઊતરવા લાગે છે.",
+       "word_count": {
+        "original": 115
+       },
+       "key_terms": [
+        "રોમાંચક — રોમાંચ થાય એવું, રૂંવાડાં ઊભાં કરી દે એવું.",
+        "ઘોંઘાટ — શોરબકોર, ખૂબ અવાજ.",
+        "ત્રિજ્યા — વર્તુળના કેન્દ્રથી કિનારા સુધીનું અંતર; અહીં આસપાસનો ગોળ વિસ્તાર.",
+        "સેન્સર — આસપાસનું જાણી લેતું સાધન; અંગ્રેજી શબ્દ ગુજરાતી લિપિમાં લખાયો છે.",
+        "જાતઅનુભવ — પોતે અનુભવીને જાણવું તે."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "M3",
+   "module_name": "ભુલાયેલી સિસ્ટમ સામે દીકરીનું ડહાપણ",
+   "segments": [
+    {
+     "segment_id": "M3.S6",
+     "segment_name": "દીકરીના ડહાપણનો વળાંક",
+     "topics": [
+      {
+       "topic_id": "M3.S6.T9",
+       "topic_name": "બાળપણોની સરખામણી અને ભુલાયેલી સિસ્ટમ",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "core",
+       "difficulty": "hard",
+       "depends_on": [
+        "M1.S3.T4"
+       ],
+       "objective_ids": [
+        "O9"
+       ],
+       "original_chunk": "નિશ્ચલભાઈ સ્નેહાને આ બધું કરતી જોઈને વિચારતા હતા, ''ક્યાં મારું બાળપણ અને ક્યાં સ્નેહાનું બાળપણ ? અમારા વખતે તો ખિસ્સામાં ફરજિયાત મોબાઇલ રાખવો પડતો. અત્યારે મોબાઇલ તો ક્યાંય જોવા પણ નથી મળતો. અત્યારે તો જ્યાં અને જ્યારે ઇચ્છો ત્યાં અને ત્યારે મોબાઇલથી પણ મોટો સ્ક્રીન મળી જાય છે. અમારા વખતનાં તો સ્માર્ટ બોર્ડ પણ કેવાં ? એને ચલાવવા કમ્પ્યૂટર જોઈએ, પ્રોજેક્ટર જોઈએ અને ઇલેક્ટ્રિસિટી પણ જોઈએ. આજે તો આ બધું જ એક ખિસ્સામાં આવી જાય એવડું, અને તડકે મૂકો એટલે ચાર્જ પણ થઈ જાય.'' આમ વિચારતા હતા ત્યાં મનમાં ઝબકારો થયો. તરત જ સ્નેહાને કહ્યું, ''બેટા, ટૅક્સી પાછી લેવી પડશે, હું સ્માર્ટબોર્ડ સિસ્ટમ લાવવાનું તો ભૂલી જ ગયો છું.'' સ્નેહાએ ટૅક્સી થોડીક ઉપર લીધી અને હસતાં હસતાં કહ્યું, ''પપ્પા, ઍરટૅક્સીનું ભાડું ડબલ થઈ જશે!''",
+       "markers": [
+        "[[ઘટના: બે બાળપણની સરખામણી અને સ્માર્ટબોર્ડ ભુલાયાનો ઝબકારો]]"
+       ],
+       "source_lines_00_normalized": "65",
+       "concepts": [
+        {
+         "concept_id": "M3.S6.T9.C9",
+         "concept_name": "જૂના અને નવા સમયનાં બાળપણ, ને મનમાં થયેલો ઝબકારો",
+         "objective_id": "O9",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "સ્નેહાને આ બધું કરતી જોઈને નિશ્ચલભાઈ પોતાના અને દીકરીના બાળપણ વચ્ચેનો ફેર વિચારે છે. એ યાદ કરે છે કે એમના વખતે ખિસ્સામાં ફરજિયાત મોબાઇલ રાખવો પડતો અને સ્માર્ટ બોર્ડ ચલાવવા કમ્પ્યૂટર, પ્રોજેક્ટર ને વીજળી જોઈતાં, જ્યારે અત્યારે એ બધું ખિસ્સામાં સમાય એવડું અને તડકે મૂકતાં ચાર્જ થઈ જાય એવું છે. આમ વિચારતાં જ એમના મનમાં ઝબકારો થાય છે કે એ સ્માર્ટબોર્ડ સિસ્ટમ લેવાનું જ ભૂલી ગયા છે. એ સ્નેહાને ટૅક્સી પાછી લેવાનું કહે છે, ત્યારે એ હસીને કહે છે કે ભાડું બમણું થઈ જશે.",
+       "word_count": {
+        "original": 124
+       },
+       "key_terms": [
+        "ઝબકારો થવો — અચાનક કોઈ વાત મનમાં ઝબૂકી જવી.",
+        "ફરજિયાત — જે કરવું જ પડે એવું.",
+        "ઇલેક્ટ્રિસિટી — વીજળી; અંગ્રેજી શબ્દ ગુજરાતી લિપિમાં લખાયો છે.",
+        "પ્રોજેક્ટર — પડદા પર ચિત્ર પાડતું સાધન.",
+        "ચાર્જ થવું — સાધનમાં વીજળી ભરાવી."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      },
+      {
+       "topic_id": "M3.S6.T10",
+       "topic_name": "પાછલી સીટ પરનું બોક્સ",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "climax",
+       "difficulty": "easy",
+       "depends_on": [
+        "M1.S3.T4",
+        "M3.S6.T9"
+       ],
+       "objective_ids": [
+        "O10"
+       ],
+       "original_chunk": "''ભલે થાય બેટા, પણ કામ પૂરું તો કરવું જ પડે ને ?''\n''જો આ વધારાના ભાડાના પૈસા બચાવું તો મને શું મળશે પપ્પા?''\n''તું કહે તે. અત્યારે મારા માટે ભાડા કરતાંય સમય વધુ કીંમતી છે.''\n''ભલે, દિવાળી વેકેશનમાં હિમાલયની યાત્રા કરાવશો?''\n''ચોક્કસ બેટા. પણ, ભાડું બચાવવા તું ઍરટૅક્સી સાથે કોઈ અયોગ્ય રમત નહિ કરે ને?''\n''ના રે, એમ થોડી રમત થાય છે ? આ તો મને અને મમ્મીને તમારા ભુલકણા સ્વભાવ વિશે ખબર જ છે. એટલે ગઈ કાલે જ તમારાં શ્રીમતીજીએ મને સ્માર્ટબોર્ડ સિસ્ટમ લઈ આવવાનું કહેલું! હું કાલે સાંજે જ લઈ આવેલી, જુઓ પાછળની સીટ પર એનું બોક્સ પડ્યું છે!''\n''વાહ, મારી વહાલુડી દીકરી!''\nદીકરીના ડહાપણ અને સમય સચવાયાની બેવડી ખુશી સાથે નિશ્ચલભાઈ ઍરટૅક્સી માંથી બહાર આવ્યા.",
+       "markers": [
+        "[[ઘટના: સ્નેહાનો ખુલાસો અને 'વાહ, મારી વહાલુડી દીકરી!']]"
+       ],
+       "source_lines_00_normalized": "68-82",
+       "concepts": [
+        {
+         "concept_id": "M3.S6.T10.C10",
+         "concept_name": "દીકરીની આગોતરી તૈયારીનો વળાંક",
+         "objective_id": "O10",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "પિતા કહે છે કે ભાડું ભલે વધે, કામ તો પૂરું કરવું જ પડે. સ્નેહા પૂછે છે કે વધારાનું ભાડું બચાવે તો એને શું મળશે, અને દિવાળી વેકેશનમાં હિમાલયની યાત્રાનું વચન લે છે. પછી એ ખુલાસો કરે છે કે પપ્પાના ભુલકણા સ્વભાવની ખબર હોવાથી મમ્મીએ કહેલું અને એ આગલી સાંજે જ સ્માર્ટબોર્ડ સિસ્ટમ લઈ આવેલી છે — એનું બોક્સ પાછલી સીટ પર જ પડ્યું છે. પિતા 'વાહ, મારી વહાલુડી દીકરી!' કહે છે અને દીકરીના ડહાપણ તથા સમય સચવાયાની બેવડી ખુશી સાથે ઍરટૅક્સીમાંથી બહાર આવે છે.",
+       "word_count": {
+        "original": 118
+       },
+       "key_terms": [
+        "ડહાપણ — શાણપણ, સમજદારી.",
+        "ભુલકણો — વારંવાર ભૂલી જનારો.",
+        "અયોગ્ય — ન કરવા જેવું, ખોટું.",
+        "વહાલુડી — ખૂબ વહાલી; લાડનો શબ્દ.",
+        "શ્રીમતીજી — પત્ની માટે વપરાતો માનવાચક શબ્દ; અહીં સ્નેહાનાં મમ્મી."
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "not_cut_as_topics": [
+  "[[શીર્ષક-પટ્ટી]] '13  ટૅક્સીને ફૂટી પાંખો !' with the attribution line '- સંકલિત' — printed header furniture at the top of printed page 85, plus the QR badge (L2B2B8) at the right of the title bar. Neither is a reading scene and neither enters any topic's original_chunk (reference/explanation_unit_map.md, 'Header furniture is not text'). Note for Agent 5: the attribution is printed UNDER the title bar, not at the foot of the text, so the 'last topic carries the printed — કવિનું નામ line' rule does NOT apply here; M3.S6.T10's original_chunk ends at 'નિશ્ચલભાઈ ઍરટૅક્સી માંથી બહાર આવ્યા.'",
+  "[[પ્રવેશપેટી]] (printed page 85) — the blue teacher-addressed box. It is the chapter's strongest genre evidence ('અહીં વર્ષો બાદ દુનિયા કેવી હશે એની અદ્ભુત કલ્પના કરી છે…'), but it is apparatus: it feeds key_terms and the ભાષા-બોધ, never a topic. Its own instruction to the teacher must not be turned into a closing બોધ in any explanation (varta.md avoid-gate 2).",
+  "[[શબ્દાર્થ]] box (printed page 89), 18 head-words — ચાકડો, સંઘાડો, બબડવું, કુમળું, ઘોરવું, પરોઢિયું, કણસવું, તલ્લીન, ટેરવું, શતાબ્દી મહોત્સવ, લોકાર્પણ, કાંડું, પરસાળ, પ્રયાણ કરવું, રોમાંચક, ડહાપણ, ઝબકારો થવો (Agent 1 records the pairs run on with no separator invented). Apparatus: point-of-use glossing and key_terms, not a topic.",
+  "[[રૂઢિપ્રયોગ]] box (printed page 89) — 'ધૂળધાણી થવું – છેક બરબાદ થઈ જવું'. varta.md's Language prior makes this a first candidate for key_terms in 'શબ્દ — અર્થ' form; it is glossed at its point of use inside M1.S3 / M2.S4 (the phrase itself is printed in the ચહેરો-વાંચવાની ઘટના, line 41). It is not a topic.",
+  "The thirteen numbered pink exercise blocks (વાતચીત … ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો) stay in 01_meta.json's exercise_inventory and are Agent 10's work alone. Two of them deserve an explicit non-cut note: the ઘટનાક્રમ block's six printed sentences are evidence for the arc and NEVER the cut (varta.md), and the અનુવાદ block reprints a shortened, re-worded version of the ઍરટૅક્સીમાં પ્રયાણ scene ('ટૅક્સી સ્ટૅન્ડ ઉપર ઊભી હતી') which is exercise text, not an alternative reading of M2.S5.T7.",
+  "Three printed illustrations (normalized lines 21, 28, 38) carry no caption and no text. Not topics; they are scene evidence for Agent 9. The printed drone photograph inside the ચિત્રવર્ણન exercise block belongs to that block, not to the reading text.",
+  "There is no chapter-final green grammar box in this unit (Agent 1's extraction note): the tail apparatus is document-literacy and word-work instead. Nothing was cut from it."
+ ],
+ "notes": [
+  "Cut by the સ્વરૂપ's unit, not by habit: 01_meta.json sets explanation_unit 'એક ઘટના' and profiles/genres/varta.md sets 'One plot beat per topic … follow the story's turns, not paragraph counts'. The rendered page (via 00_chapter_normalized.md) agrees with the profile prior and with agents/02_structure.md's table row for વાર્તા — prose, two named પાત્રો, an ઘટના chain, a વળાંક, a પરિણામ. No disagreement with the prior to report. The વિજ્ઞાન-કલ્પનકથા sub-form is held inside varta.md and does not change the cutting unit; root genre is therefore the slug 'varta' and the sub-form label lives in 01_meta.json.",
+  "Marker count vs topic count is 1:1 and nothing was swallowed and nothing invented: 00_chapter_normalized.md carries TEN [[ઘટના: …]] reading-scene markers and this file carries TEN topics, one per marker, in printed order. 01_meta.json's structure_inventory.ghatna = 10 agrees. Agent 1's own extraction note warns that its count is 'a structural count for orientation, NOT a topic cut' — so each marker was re-tested independently against varta.md's plot-beat definition (a coherent event with its own small arc) rather than accepted by default, and each one passes. The 1:1 result is a finding, not a default.",
+  "The arc varta.md predicts (પરિચય → ગૂંચ → સંઘર્ષ → વળાંક → પરિણામ) maps onto the cut as: T1–T3 પરિચય (the dream and the automated morning that establish the world), T4 ગૂંચ (the deadline), T5–T6 સંઘર્ષ (the father's refusal against the daughter's proposal), T7–T8 the journey, T9 the complication that triggers the turn, T10 વળાંક + પરિણામ.",
+  "M1.S3.T4 is a SINGLE printed sentence and is still its own topic: varta.md — 'A single sentence that turns everything is its own topic.' This sentence is the whole ગૂંચ (the સ્માર્ટ બોર્ડ સિસ્ટમ, the four-hundred-kilometre distance and the noon deadline) and everything after it exists because of it. It carries its own [[ઘટના]] marker on the page. Its shortness is flagged here as required, not hidden.",
+  "Uneven topic length is real in this chapter and is flagged for Agent 4 and Agent 13: M1.S2.T2 is one long justified paragraph (the whole automated morning) and M3.S6.T10 is a fifteen-line run of one-sentence dialogue turns, while M1.S3.T4 is one sentence. The lengths follow the printed ઘટના blocks, which is what the unit asks for; no beat was split or merged to even them out.",
+  "AGENT 5 NOTE — M2.S4.T6's printed text CROSSES THE PAGE BREAK. Its verbatim runs normalized line 44 (printed page 87), then skips the [[પૃષ્ઠ 88]] marker line and resumes at lines 48–56 (printed page 88). It is ONE ઘટના — the same રકઝક about whether the ઓટોમેટેડ ગાડી or the ઍરટૅક્સી will do — and the page break falls in the middle of the father-daughter exchange. Do not cut at the page break; explanation_unit_map.md's rule against cutting mid-exchange applies. Note that page 88's turns are set as separate one-sentence dialogue lines while page 87's are run on inside the paragraph; that is a typesetting difference, not a beat boundary.",
+  "M3.S6.T10 carries BOTH the વળાંક and the પરિણામ, because the printed [[ઘટના]] block binds them: Sneha's reveal ('હું કાલે સાંજે જ લઈ આવેલી, જુઓ પાછળની સીટ પર એનું બોક્સ પડ્યું છે!'), the father's 'વાહ, મારી વહાલુડી દીકરી!' and the closing narrative sentence sit in one marker. topic_category is therefore 'climax' and NO topic in this chapter carries 'resolution'. Flagged for Agent 4 and Agent 13 so the missing category is read as a property of the printed cut, not as an omission. Splitting the closing sentence off into a resolution topic would have invented an eleventh topic where no marker sits — the same blocking fail from the other side.",
+  "varta.md avoid-gate 4 (spoiling the turn early) was applied while naming: no topic name, segment name, module name, concept name or objective_text before M3.S6.T10 mentions the box on the back seat, the mother's instruction, or that the system was already collected. M1.S2.T3's objective was deliberately re-worded away from naming the father's forgetfulness as a trait even though that beat shows it (three days of unchecked diary, 'ના હું પછીથી જોઈ લઈશ') — the trait is named in the text only at T10, and Agent 12 should keep it that way.",
+  "Craft-label ceiling (std 7) held on every objective: no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text, and none appears in any name. profiles/students/std-7.md §2 is explicit — the form is experienced, never labelled, and figures_of_speech stays [] for std-7 authoring (this is prose in any case). Objectives ask the child to notice, find the printed line, and infer motive; motive inference is exactly what std 7 adds over std 6, so O2, O3, O5, O6, O8 and O10 sit at the standard's own ceiling and not above it.",
+  "Bloom is not capped by difficulty: five objectives sit at Understand and five at Analyze, and the two 'easy' topics (M2.S5.T7, M3.S6.T10) carry an Understand and an Analyze objective respectively. difficulty here records what stops an L2 reader on the page — long જોડાક્ષર-dense paragraphs and an unfamiliar object-world of English loanwords in Gujarati script (ઓટો બ્રશ, વૉશબેઝિન, ચાર્જિંગ પ્લેસ, ડેશબોર્ડ, ત્રિજ્યા, ઇલેક્ટ્રિસિટી) — never craft, which this standard may not name.",
+  "No numbers in any display name (global_content_rules.md rule 4, naming_conventions.md): no digits anywhere in a module, segment, topic or concept name, and numeral WORDS from the story (બે, ચારસો, સત્તાવીસ, પાંચસો-છસો) were also kept out of names and out of objective_text, even though they carry no index meaning — they survive only inside the chapter's own verbatim, which Agent 5 copies. M3.S6.T9 is named 'બાળપણોની સરખામણી…' rather than after the printed 'બે બાળપણ' for exactly this reason.",
+  "depends_on records real dependence only and is [] for six of the ten topics. M1.S3.T4 depends on M1.S2.T2 because the deadline exists only because of the news he read on the mirror screen ('આજે જોયેલા સમાચાર મુજબ'). M3.S6.T9 and M3.S6.T10 depend on M1.S3.T4 because the ઝબકારો and the reveal are both about the સ્માર્ટ બોર્ડ સિસ્ટમ set up there; T10 additionally depends on T9, the beat it answers. Mere sequence (T7 after T6) is not recorded as dependence.",
+  "ભાષા-લક્ષ્ય for this chapter (teaching_lens_map.md's second lens, derived from THIS text, for Agents 10 and 12 to carry): the English loanwords written in Gujarati script that are this story's own lexicon — ઍરટૅક્સી, સ્માર્ટ બોર્ડ / સ્માર્ટબોર્ડ, ડેશ બોર્ડ / ડેશબોર્ડ, સેન્સર, ઓટોમેટેડ, ઓટો બ્રશ, પ્લાનિંગ ડાયરી, સ્ટિયરિન્ગ — alongside the story's past-tense narration and its address forms inside dialogue (પપ્પા, બાપુજી, બેટા, મારી માવડી, હે નિશ્ચલરાયજી). varta.md's વિજ્ઞાન-કલ્પનકથા row names this lexicon explicitly. No objective was written ABOUT the loanwords, because the chapter already sets that as an exercise ('પાઠમાં આવતા અંગ્રેજી શબ્દોની યાદી બનાવો') which is Agent 10's, not a topic's.",
+  "PRINTED-AS-IS carried forward from 01_meta.json for Agent 5, so that the cut is not read as licence to normalise: 'શ્રી - ડી પ્રિન્ટર' (M1.S2.T2), 'જવાળામુખીના' and the same-paragraph pair 'ફલેશ' / 'ફ્લેશ' (M1.S1.T1), the line-broken 'ઍર ટૅક્સી' and the spaced/solid pairs 'ડેશ બોર્ડ'/'ડેશબોર્ડ' and 'સ્માર્ટ બોર્ડ'/'સ્માર્ટબોર્ડ' (M2.S5.T8), and 'ઍરટૅક્સી માંથી' with a space in M3.S6.T10's closing sentence. None of these is a topic boundary and none may be silently fixed.",
+  "CONTEXT ROUTING — the run supplied reference/no_hallucination_policy.md, reference/global_content_rules.md, reference/explanation_unit_map.md and reference/teaching_lens_map.md. The agent spec additionally requires reference/naming_conventions.md, reference/phase2_contract.md, profiles/genres/varta.md and profiles/students/std-7.md; those four were read directly from the pack rather than guessed at, and this file follows them. No spec-cited document was missing from the repository.",
+  "AGENT 5 — original_chunk was COPIED from 00_chapter_normalized.md (never recomposed) and then read back against the 150-dpi renders in _renders/: page-1.png (printed 85, T1), page-2.png (printed 86, T2 and T3), page-3.png (printed 87, T4, T5 and the first half of T6), page-4.png (printed 88, the rest of T6 and T7–T10). Crops at 2x–4x were used on the first and last line of every chunk and on every line carrying an unusual form. This is prose, so there is no કડી/દુહો/ટેક line-break structure to preserve; the printed paragraph and one-sentence dialogue-turn breaks ARE preserved, as newlines, in M2.S4.T6 and M3.S6.T10.",
+  "AGENT 5 — every PRINTED-AS-IS item Agent 1 and Agent 2 flagged was re-checked on the render and carried through unchanged, not repaired: 'શ્રી - ડી પ્રિન્ટરમાં' (T2), 'જવાળામુખીના' without the જ્વ conjunct and the same-paragraph pair 'કૅમેરાના ફલેશ' / 'ફ્લેશ નથી!' (T1), the line-broken 'ઍર ટૅક્સી' beside 'ઍરટૅક્સી' and the pairs 'ડેશ બોર્ડ'/'ડેશબોર્ડ' and 'સ્માર્ટ બોર્ડ'/'સ્માર્ટબોર્ડ' (T8, T9), 'કીંમતી' (T10) and the closing sentence's 'ઍરટૅક્સી માંથી' with its space (T10). The page's uneven spacing before ? and ! is kept exactly ('છે ?' beside 'પહોંચાય?'). No '।' appears anywhere; no Roman or Devanagari character appears in any chunk.",
+  "AGENT 5 — TRANSCRIPTION QUERY RAISED, NOT PATCHED (for Agent 13). On printed page 85 the words 'બળદગાડું અને ઘોડા' end a line and 'ગાડી પણ બનાવી !' opens the next. Gujarati justified setting breaks at spaces and does not hyphenate — the same reasoning Agent 1 used on printed page 88 to transcribe 'ઍર ટૅક્સી' WITH its space — so the page arguably prints 'ઘોડા ગાડી', while 00_chapter_normalized.md line 19 has the solid 'ઘોડાગાડી'. The pixels are identical either way (a line-end space is absorbed by justification), so this is an inference about a word boundary, not a glyph-level mismatch, and Agent 1's own text was copied through UNCHANGED rather than silently repaired. Flagged so the inconsistency between Agent 1's two decisions is visible.",
+  "AGENT 5 — M2.S4.T6's chunk crosses the printed page break exactly as Agent 2's handover note requires: normalized line 44 (printed page 87) followed by lines 48, 50, 52, 54 and 56 (printed page 88), with the [[પૃષ્ઠ 88]] marker stripped. It is ONE ઘટના and was not cut at the page break. M3.S6.T10 likewise joins normalized lines 68–82's eight one-sentence dialogue paragraphs into one chunk.",
+  "AGENT 5 — no attribution or source line is carried inside any chunk, and none was dropped. The chapter's only attribution, '- સંકલિત', is printed UNDER the title bar at the head of printed page 85, not at the foot of the text; Agent 2's not_cut_as_topics note records this explicitly, so gujarati_verbatim.md rule 5 ('the — કવિનું નામ line belongs to the last topic') does not apply here and M3.S6.T10 ends at 'નિશ્ચલભાઈ ઍરટૅક્સી માંથી બહાર આવ્યા.' Nothing from a [[સ્વાધ્યાય: …]] block entered any chunk — in particular the અનુવાદ block's re-worded version of the પ્રયાણ scene was NOT used for M2.S5.T7.",
+  "AGENT 5 — key_terms sit at the topic level, which is where reference/field_shape_rules.md puts them ('string[], શબ્દ — અર્થ, 3–6 per topic') and where reference/phase2_contract.md's 31-key topic list carries them. The concepts' own key_terms arrays were left exactly as Agent 2 emitted them ([]), because structure is frozen and passed through untouched. Counts are 5, 6, 5, 5, 5, 6, 5, 5, 5, 5 — inside shabd_gloss.md's std-7 row (4–6, high in the 3–6 band), never the શબ્દાર્થ box emptied out: the printed box holds eighteen head-words and only eleven of them are used, spread across the topics where they actually occur, with the rest of each list drawn from the Ring-2 and આગત words that stop an L2 reader on that particular page (પેન્ડિંગ, સ્ટેટસ, ઓટોમેટેડ, સેન્સર, ઇલેક્ટ્રિસિટી, ત્રિજ્યા) and from the chapter's own printed રૂઢિપ્રયોગ, ધૂળધાણી થવું, glossed at its point of use in M2.S4.T5.",
+  "AGENT 5 — the ભાષા-બોધ blocks were kept OUT of key_terms per shabd_gloss.md: the સમાનાર્થી exercise's word family (મુકામ, ઉતારો, પથિકાશ્રમ, આરામગૃહ, મુસાફરખાનું, અતિથિગૃહ, ધર્મશાળા, વિશ્રામગૃહ) and the જાતિ / વાક્યગમ્મત grammar batteries belong to Agent 10 and to shabdarth/samanarthi/vyakaran, not here.",
+  "AGENT 5 — modified_chunk is the plain 'શું થઈ રહ્યું છે' seed only: two to four sentences of simple શિષ્ટ ગુજરાતી with the hardest word glossed inline, no ભાવ, no craft, no real-life link and no બોધ — Agent 12 writes the explanation. varta.md avoid-gate 4 was held while writing them: no seed before M3.S6.T10 mentions the box on the back seat, the mother's instruction, or that the system had already been collected, and M3.S6.T9's seed stops at the ઝબકારો. Global rule 4 was held too — the story's own numeral words appear only as words inside the verbatim and as ordinary content ('ચારસો કિલોમીટર'), never as digits and never as an index.",
+  "AGENT 5 — content types: all ten topics are reading scenes (one printed [[ઘટના]] each), so each carries primary_content_type 'image' with available_content_types ['image'], per global_content_rules.md rule 9 and varta.md's Media prior of one image per ઘટના. secondary and tertiary are null everywhere: no second medium is planned, and varta.md notes a story rarely needs a 2d_tool. The chapter's three printed illustrations (normalized lines 21, 28, 38) cover the dream, the flight and the father-daughter cabin; Agent 9 owns the depiction test and the authored prompts, and may find M1.S3.T4 — a single-sentence beat of internal realisation — the thinnest of the ten to depict.",
+  "AGENT 5 — word_count.original is the whitespace token count of the attached chunk and nothing else: T1 161, T2 218, T3 102, T4 46, T5 93, T6 190, T7 82, T8 115, T9 124, T10 118. No explanation, real_life_example, summary, recall question, figures_of_speech or media node was written by this agent; figures_of_speech and rhyme_scheme are not touched at all, this being ગદ્ય."
+ ],
+ "source_structure_sha256": "f404e6fec5913ef9714fa6a507ac4fcc4f6e3f69141d3a0bd5af91a5716835d4"
+}

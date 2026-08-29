@@ -1,0 +1,7 @@
+{"textbook":null,
+ "textbook_url":"../Textbooks-pdf/std-8/ch-04-jabri-madhmakhi.pdf",
+ "textbook_pages":"27–35",
+ "source":"printed folio, read off renders of page-1.png (folio 27) and page-9.png (folio 35) of the chapter PDF; cross-checked against manifest.json row (printed_start 27, pdf_start 39, pdf_end 47) and profiles/boards/gseb_gujarati.md std-8 chapter table (printed pp 27–35) — both agree",
+ "confidence":"medium",
+ "gaps":["textbook_url is a local path — the GSEB readers have no hosted URL",
+  "textbook is left null: the std-8 cover has not been read in this run (only the nine chapter pages were rasterised), and profiles/boards/gseb_gujarati.md explicitly records std-8 and std-9 covers as unconfirmed. 01_meta.json already carries textbook:null for the same reason, so confidence is capped at medium even though both end folios were read directly off renders."]}

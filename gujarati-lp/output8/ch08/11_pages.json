@@ -1,0 +1,6 @@
+{"textbook":"ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 8",
+ "textbook_url":"../Textbooks-pdf/std-8/ch-08-jivti-divadandi.pdf",
+ "textbook_pages":"64-71",
+ "source":"printed folio read off renders of page-1.png (64) and page-8.png (71) of the chapter PDF; cross-checked against Textbooks-pdf/std-8/manifest.json row for unit 8 (printed_start:64, pdf_start:76, pdf_end:83 -> 8 pages, 64+7=71), which agrees",
+ "confidence":"medium",
+ "gaps":["textbook_url is a local path — the GSEB readers have no hosted URL","std-8 cover has not been read in this run (profiles/boards/gseb_gujarati.md flags std-8 cover as unconfirmed), so the exact cover-title wording of textbook is carried from 01_meta.json / board-profile convention rather than confirmed against a rendered cover"]}

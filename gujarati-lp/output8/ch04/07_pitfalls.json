@@ -1,0 +1,223 @@
+{
+ "topics": [
+  {
+   "topic_id": "M1.S1.T1",
+   "avoid_checks": [
+    {
+     "check": "varta avoid 1 (summary-only teaching), bound to this opening: `explanation` must state something `modified_chunk` does not — that the writer never calls it a serious illness but stacks its signs in printed order (થાક → “મારું માથુ સખત દુખે છે” → બે ઘૂંટડા માંડ પીધા → ધ્રૂજવું → ચક્કર), and that the mother's alarm is shown only through what she does (પાણી આપવું, બૂમ પાડવી). If `explanation` could be replaced by `modified_chunk` with no loss, the topic fails.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "varta avoid 2 (tacked-on બોધ), bound to a health opening: no sentence of `explanation`, `summary`, `detailed_summary`, any `concept_bullets` line or any `recall_questions[].answer` closes on health advice of the form “તબિયત બગડે તો તરત મોટાંને કહેવું જોઈએ” / “દુખાવો સહન ન કરવો જોઈએ” / “આપણે … જોઈએ”. The chapter states no such rule here.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "Gloss gate this passage invites (not in varta's avoid list): `દફતર` must be given its Gujarati sense inside `explanation` or `key_terms` at the point it is used (“દફતર ફેંકીને”), not left to be guessed; a plan that uses દફતર in teaching prose with no gloss anywhere in this topic fails.",
+     "profile": "varta",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "બાળક આ ફકરાઓને ‘નિશાળેથી આવીને થાકી ગયેલો છોકરો’ એટલું જ સમજે છે, કારણ કે લેખક ક્યાંય ‘ગંભીર બીમારી’ એવો શબ્દ વાપરતા નથી. એટલે થાક → માથાનો દુખાવો → ધ્રૂજવું → ચક્કર — આ નિશાનિઓની સાંકળ એનાથી છૂટી જાય છે, અને પછી ઍમ્બ્યુલન્સ અને હૉસ્પિટલ અચાનક લાગે છે.",
+   "correction": "`explanation` માં છાપેલા ક્રમમાં જ ચાર નિશાની ગણાવો — થાક, સખત માથું, ધ્રૂજારી, ચક્કર — અને એક વાક્યમાં કહો કે લેખક બીમારીનું નામ નથી દેતા, બતાવે છે — દફતર ફેંકવું, બે ઘૂંટડા માંડ પીવા, મમ્મીનું બૂમ પાડવું. એક `recall_questions[].answer` એ જ સાંકળ ફરી બોલાવે."
+  },
+  {
+   "topic_id": "M1.S2.T2",
+   "avoid_checks": [
+    {
+     "check": "varta avoid 1 (summary-only teaching), bound to this beat: `explanation` must add why the chain runs so fast and what it costs — ફોન → ઍમ્બ્યુલન્સ → દાખલ → ઇન્જેકશન → કેટ-સ્કેન → ગાંઠ — and must say what બાપુજીનું “ત્યાં સુધી ધીરજ રાખો” does for a family whose જીવ ઊંચા થઈ ગયા છે. Re-listing the same steps fails.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "Fact gate this beat invites (mahitiprad_gadya's avoid 4 is NOT in force here — 01_meta.json scopes that profile to the two માહિતી-ખંડ only — so this is soft): no field explains how a કેટ-સ્કેન machine works, how a મગજમાંની ગાંઠ forms, or what a ન્યૂરોલૉજિસ્ટ studies beyond what this `original_chunk` and the printed શબ્દાર્થ box say (લક્ષણ — ચિહ્ન, નિશાની; નિદાન — મૂળ કારણ). These are words to be met, and the book's own numbered block sends the child to the internet for their meanings.",
+     "profile": "varta",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "“બધાંના જીવ ઊંચા થઈ ગયા” — બાળક આ રૂઢિપ્રયોગને શબ્દે શબ્દ લે છે કે એને છોડીને આગળ વાંચે છે, અને આખું કુટુંબ કેટલું ડરી ગયું છે એ ભાવ એના હાથમાંથી છૂટી જાય છે — એટલે બાપુજીની સાંત્વના પણ નકામી લાગે છે.",
+   "correction": "પાઠની પોતાની રૂઢિપ્રયોગ-પેટીના શબ્દોથી જ ગ્લોસ કરો — `key_terms` માં “જીવ ઊંચો થવો — ઉચાટ થવો, ચિંતા થવી” ઉમેરો, અને `explanation` માં જ્યાં આ વાક્ય આવે ત્યાં જ કહો કે આનો અર્થ ‘બધાંને ખૂબ ચિંતા થઈ’ એવો છે."
+  },
+  {
+   "topic_id": "M1.S2.T3",
+   "avoid_checks": [
+    {
+     "check": "varta avoid 1 (summary-only teaching), bound to this beat: `explanation` must present the doctor's move as a choice made under risk — ઑપરેશન કરવું જોઈએ, પણ ગાંઠ નાજુક જગ્યાએ હોવાથી જોખમી, એટલે દવાથી ઓગાળવાનો રસ્તો — and must say why હૉસ્પિટલમાં જ રાખવાનું follows from it (ચક્કર અવારનવાર, ડૉક્ટરોની દેખરેખ હેઠળ). Repeating the doctor's sentences fails.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "varta avoid 3 (judging a character the story treats with sympathy): no `explanation`, `real_life_example`, `recall_questions[].answer` or exercise `answer` calls ન્યૂરોલૉજિસ્ટ નિવેશ ચાવડા ડરપોક, અસમર્થ or ખોટા for not operating, and does not call મમ્મી નબળી or ડરપોક for her મોઢું પડી જવું. The chapter presents both with sympathy.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "“સ્વપ્નિલની મમ્મીનું મોઢું તો સાવ પડી ગયું હતું, પણ એ તૈયાર થયાં.” — બાળક પહેલો અડધો જ વાંચે છે અને સમજે છે કે મમ્મી ડૉક્ટરનો નિર્ણય માનતાં નથી — જ્યારે ખરેખર એ ખબર સાંભળીને ડરી ગયાં છે અને ઑપરેશન ટળ્યું એની હાશ પણ અનુભવે છે. બે ભાગવાળા વાક્યનો બીજો અડધો છૂટી જવો એ આ ધોરણની જૂની ભૂલ છે.",
+   "correction": "`explanation` માં બંને અડધાં અલગ અલગ કહો — પહેલું : “ગાંઠની વાત સાંભળીને મમ્મી ફિક્કાં પડી ગયાં”, બીજું : “પણ ઑપરેશન કરવું ન પડે એ વિચારે એમણે હા પાડી.” અને `key_terms` માં પાઠની પોતાની પેટી મુજબ “મોં પડી જવું — મોં ફિક્કું પડી જવું” ઉમેરો."
+  },
+  {
+   "topic_id": "M1.S3.T4",
+   "avoid_checks": [
+    {
+     "check": "varta avoid 1 (summary-only teaching), bound to this beat: `explanation` must add why the કંટાળો is total and not ordinary — ડૉક્ટરે મગજને શ્રમ આપવાની ના પાડી હોવાથી વાંચવાનું પણ બંધ છે, અને “ચોવીસ કલાક તો કોણ રહે ?” માં એકલતા બોલે છે. A retelling of ‘કંટાળો આવ્યો, મમ્મીએ હાથ ફેરવ્યો’ fails.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "varta avoid 2 (tacked-on બોધ), bound to this topic's closing line: the chapter's “એને એવું લાગતું કે દવા નહીં પરંતુ એની માતાનો હાથ એને સાજો કરી રહ્યો છે” must stay inside its “એને એવું લાગતું” frame; no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` states as the plan's own claim that માતાનો પ્રેમ જ સાજો કરે છે or closes on “માની મમતા સબથી મોટી દવા છે”.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "The mirror pitfall this line invites (varta's avoid list names the no-debunking gate only for પૌરાણિક કથા, so this is soft here): no field corrects the boy's feeling against medicine either — no sentence of the form “ખરેખર તો દવાથી જ ગાંઠ ઓગળી, હાથ ફેરવવાથી નહીં”.",
+     "profile": "varta",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "બાળક છેલ્લા વાક્યને હકીકત માની લે છે — ‘દવાએ નહીં, માના હાથે ગાંઠ મટાડી’ — અને “એને એવું લાગતું કે…” એ લાગણી-સૂચક ફ્રેમ છૂટી જાય છે. પછી જ્યારે ડૉક્ટર “દવાની અસર થઈ છે” કહે છે ત્યારે બાળક મૂંઝાય છે.",
+   "correction": "`explanation` માં આ વાક્યને સ્વપ્નિલની લાગણી તરીકે જ મૂકો — “એકાંતમાં પડેલા છોકરાને માનો હાથ દવા કરતાંય વધારે કામ લાગતો લાગ્યો” — અને એક `recall_questions[].answer` માં બંને વાત સાથે રાખો : દવા અને તપાસ ચાલુ જ હતી, અને માનો હાથ એની નિરાશા દૂર કરતો હતો."
+  },
+  {
+   "topic_id": "M2.S4.T5",
+   "avoid_checks": [
+    {
+     "check": "varta avoid 1 (summary-only teaching), bound to this transition: `explanation` must add the turn in where the boy is looking — the shut ઍરકંડિશનરવાળો ઓરડો against the opened બારી — and must keep his FIRST reaction on the page: “આ કરડશે તો ઉપાધિ” અને એણે બારી બંધ કરાવી. A retelling of ‘બારી ખોલી, મધપૂડો દેખાયો, દૂરબીન મંગાવ્યું’ fails.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "varta avoid 4 (spoiling the turn early), instantiated for the topic where the bee first appears: no `explanation`, `summary` or `recall_questions[].answer` of this topic says that the મધમાખી becomes his દોસ્ત, that she leaves મધનાં ટીપાં on his finger, or that a મધપૂડો is later built ઘરની સામેના ઝાડ પર. This topic ends where the text ends it — on his three questions.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "હિન્દી વાંચતું બાળક `ઉપાધિ` ને હિન્દીની ઉપાધિ (પદવી, ડિગ્રી) સમજે છે, એટલે “આ કરડશે તો ઉપાધિ” વાક્યનો કશો અર્થ બેસતો નથી અને સ્વપ્નિલનો પહેલો ડર જ વંચાયા વગર રહી જાય છે — અને ડરથી દોસ્તી સુધીનો બદલાવ પછી દેખાતો નથી.",
+   "correction": "`explanation` માં જ્યાં આ વાક્ય આવે ત્યાં જ ગ્લોસ કરો — “ઉપાધિ એટલે મુશ્કેલી, પીડા” — અને પછી એક વાક્યમાં કહો કે આ વાક્ય સ્વપ્નિલનો ડર બોલે છે, એટલે જ એ બારી બંધ કરાવે છે. `key_terms` માં “ઉપાધિ — પીડા, મુશ્કેલી” જળવાઈ રહે."
+  },
+  {
+   "topic_id": "M2.S5.T6",
+   "avoid_checks": [
+    {
+     "check": "mahitiprad_gadya avoid 4 (adding facts the chapter does not carry): every fact, name and number in `explanation`, `summary`, `detailed_summary`, `important_points`, `concept_bullets` and `recall_questions[].answer` must come from this `original_chunk` or the chapter's printed શબ્દાર્થ box — i.e. only ભમતી મધમાખી (scout bee), કામગરી મધમાખી (worker bee), સવાર પડ્યે નીકળવું, ફૂલોમાં મધ અને પરાગકણ, પૂડાની સપાટી પરનું નૃત્ય, મધપૂડો અને સૂરજનાં કિરણો વચ્ચેનો ખૂણો, ધીમું નૃત્ય = લાંબું અંતર / ઝડપી = ઓછું અંતર, અને “કારણ વગર આ માખીઓ કરડતી પણ નથી”. રાણી માખી, નર માખી, મધપૂડાના ષટ્કોણ ખાનાં, waggle dance, માખીઓની સંખ્યા or any distance in km appear nowhere on this page and may not appear in the plan.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "mahitiprad_gadya avoid 6 (substituting a familiar equivalent for the practice's own name): ભમતી મધમાખી and કામગરી મધમાખી appear in exactly those printed forms wherever the teaching names them — never as શોધક માખી, મજૂર માખી or સૈનિક માખી — and at least one of them stands in this topic's `key_terms` in “શબ્દ — અર્થ” form. The book's own Roman islands (scout bee) and (worker bee) are reproduced as printed where they are quoted.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "mahitiprad_gadya avoid 1 (re-teaching the frame as a વાર્તા): this topic's `topic_category` is not \"climax\", the first sentence of `explanation` names the fact-step it teaches (મધપૂડામાં બે પ્રકારની માખી અને એમનું વહેંચાયેલું કામ) and not ‘મોટી બહેન શું કરે છે’, and no field asks or answers why મોટી બહેન chose to bring the ટેબ્લેટ.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "The printed oddity this passage carries (not in the profile's list, so soft): the book prints “આ નૃત્ય દેવનાગરી લિપીના ળ જેવું હોય છે”. Wherever the teaching refers to the dance's shape it uses the chapter's own printed wording and does not silently change દેવનાગરી to ગુજરાતી, does not substitute another letter, and does not tell the child the book is wrong.",
+     "profile": "mahitiprad_gadya",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "“મધપૂડાની સપાટી પર એક પ્રકારનું નૃત્ય કરે છે” — બાળક આને આનંદનો નાચ સમજે છે — ‘મધ મળ્યું એટલે માખીઓ ખુશ થઈને નાચે છે’ — અને એ ચૂકી જાય છે કે આ નૃત્ય જ એમની વાતચીત છે. કેટલાંક બાળકો અડધું જ લઈ જાય છે — દિશા મળે, અંતર નહીં.",
+   "correction": "`explanation` જે વાક્યમાં પહેલી વાર નૃત્ય નામ લે ત્યાં જ કહો કે આ નાચ સંદેશો છે, આનંદ નહીં; અને બંને વાત સાથે મૂકો — ખૂણા પરથી દિશા, અને નૃત્ય ધીમું કે ઝડપી એ પરથી અંતર. એક `concept_bullets` લાઇન આ બંને સંકેત સાથે રાખે."
+  },
+  {
+   "topic_id": "M2.S5.T7",
+   "avoid_checks": [
+    {
+     "check": "mahitiprad_gadya avoid 10 (a tacked-on બોધ or ઉપદેશ), bound to this topic's own closing line: the chapter's “આપણે કેવા કે એમનો ખોરાક ઝૂંટવીએ છીએ !” is સ્વપ્નિલનો વિચાર and is quoted as his; no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` expands it into “આપણે પર્યાવરણ બચાવવું જોઈએ” / “મધમાખીઓને મારવી જોઈએ નહીં” / “આપણે પણ … જોઈએ”, and none turns it into a mining or conservation lesson the page does not print.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "mahitiprad_gadya avoid 4 (adding facts the chapter does not carry): the only facts available here are મધ ભેગું કરતાં જાણે-અજાણ્યે પરાગનયન, તેથી ફળો અને અનાજ પેદા થાય, મધ ઔષધી તરીકે ઉપયોગી, વનસ્પતિના ગુણ મધમાં ઉતરે એટલે અમુક મધ કડવું, મધ વર્ષો સુધી બગડતું નથી એટલે સંગ્રહી શકાય. No percentage of crops, no honey chemistry, no named disease it cures, no મધની જાતો may be added.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "mahitiprad_gadya avoid 12 (naming a device that is not there), plus the std-8 no-label rule: “જાણે અજાણ્યે” in this `original_chunk` is the everyday phrase ‘ખબર હોય કે ન હોય એમ’ and is not an ઉપમા/ઉત્પ્રેક્ષા marker; `figures_of_speech` for this topic is `[]` and no field treats જાણે here as a comparison word or names any અલંકાર.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "“એ જે તે વનસ્પતિના ગુણ ધારણ કરે છે. એટલે અમુક મધ કડવું પણ હોય છે.” — બાળક `ગુણ` નો અર્થ ‘સારાપણું, ખૂબી” કરે છે, અને ત્યારે બીજું વાક્ય — ‘એટલે કડવું હોય છે’ — તેની સાથે જોડાતું નથી; બંને વાક્ય વચ્ચેનું કારણ-જોડાણ તૂટી જાય છે.",
+   "correction": "`explanation` માં આ બે વાક્યને એક સરળ કારણ-વાક્યમાં જોડો : “જે ફૂલમાંથી મધ ભેગું થયું હોય એ છોડની ખાસિયત મધમાં ઉતરે છે, એટલે કોઈ મધ મીઠું તો કોઈ કડવું લાગે.” અને `key_terms` માં “ગુણ — ખાસિયત, સ્વભાવ” એવો ગ્લોસ મૂકો, ‘સારાપણું’ નહીં."
+  },
+  {
+   "topic_id": "M3.S6.T8",
+   "avoid_checks": [
+    {
+     "check": "varta avoid 1 (summary-only teaching), bound to this beat: `explanation` must name the change against what the earlier topic printed — “સ્વપ્નિલ હવે ડરતો ન હતો” against “આ કરડશે તો ઉપાધિ” — and must say that the friendship is never stated but shown by acts (અમસ્તો હાથ ધર્યો → હથેળી પર બેઠી → ટેરવે મધનું ટીપું). A retelling of the same actions with no such statement fails.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "varta avoid 2 (a tacked-on બોધ), bound to સવિતાબહેન's line: “તમે પણ એ મધમાખી જેવાં એકદમ કામગરાં છો” is taught as સ્વપ્નિલના વખાણ said to a nurse he likes; no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` turns it into “મધમાખી પાસેથી આપણે મહેનત શીખવી જોઈએ” / “આપણે પણ કામગરા બનવું જોઈએ”.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "The std-8 label ban this line invites (not in varta's avoid list, so soft): “જાણે ઔષધીનો ડોઝ !” must not be labelled ઉપમા, ઉત્પ્રેક્ષા or any other અલંકાર anywhere in this topic (profiles/students/std-8.md forbids device labels at this standard); it may only be pointed at with a question such as “લેખકે મધનાં ટીપાંને શાથી સરખાવ્યાં ?”",
+     "profile": "varta",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "“મારી બેટી ભેટ આપી ગઈ !” — હિન્દી વાંચતું બાળક આને ‘મારી દીકરી’ સમજે છે અને મૂંઝાય છે કે હેં ! સ્વપ્નિલને વળી દીકરી ક્યાંથી ? — અને મધનું ટીપું મળવાનો આખો આનંદ કોરો જ રહી જાય છે. આ જ પ્રયોગ પાઠની છેલ્લી લાઇનમાં પાછો આવે છે, એટલે ભૂલ છેડે સુધી ચાલે છે.",
+   "correction": "આ પ્રયોગ જ્યાં પહેલી વાર આવે છે ત્યાં — અહીં — ગ્લોસ કરો : `key_terms` માં “મારી બેટી — વહાલ અને અચરજ બતાવતો બોલચાલનો ઉદ્ગાર; અહીં મધમાખી માટે વપરાયો છે, ‘દીકરી’ એવો અર્થ નથી”, અને `explanation` માં એ જ વાક્યમાં કહો કે આ શબ્દોમાં સ્વપ્નિલનો હરખ બોલે છે."
+  },
+  {
+   "topic_id": "M3.S7.T9",
+   "avoid_checks": [
+    {
+     "check": "varta avoid 4 (spoiling the turn early), instantiated on the topic immediately before the climax: no `explanation`, `summary` or `recall_questions[].answer` of this topic mentions ઘરની સામેના ઝાડ પરનો નવો મધપૂડો, or says that the બે-ત્રણ આંટા મારતી માખીઓ came with a સંદેશો. This topic ends on સ્વપ્નિલની નિરાશા and on an unexplained visit, exactly as printed.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "varta avoid 3 (judging a character the story treats with sympathy): no `explanation`, `real_life_example`, `recall_questions[].answer` or exercise `answer` applies an evaluative label (સ્વાર્થી, નિર્દય, ક્રૂર, ખોટા, ગુનેગાર or a synonym) to the ફરિયાદ કરનારા દરદીઓ or to સવિતાબહેન, and none says the મધપૂડો was removed અન્યાયથી — the chapter reports the complaint and the removal and takes no side.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "varta avoid 1 (summary-only teaching), bound to this beat: `explanation` must add the collision the beat is built on — the best news of the chapter (ગાંઠ પંચાણુ ટકા ઓગળી ગઈ, ઘરે જઈ શકાશે) landing in the same scene as the loss (મધપૂડો ગાયબ) — and must say why the boy everyone expects to be happiest goes એકદમ નિરાશ.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક ડૉક્ટરની વાતનો પહેલો ટુકડો જ લઈને સમજે છે કે હવે સ્વપ્નિલ સાવ સાજો થઈ ગયો અને ગાંઠ મટી ગઈ — “પંચાણુ ટકા” અને “દવા થોડા દિવસ ચાલુ રાખવી પડશે” એ બંને શરતો છૂટી જાય છે. ઉપરાંત `પંચાણુ` જેવો સંખ્યા-શબ્દ જ બીજી ભાષાના વાચકને ઉકેલે છે.",
+   "correction": "`explanation` માં ડૉક્ટરની વાત બે ભાગમાં કહો — “ગાંઠ પંચાણુ ટકા ઓગળી ગઈ છે, સાવ નહીં” અને “એટલે દવા હજી થોડા દિવસ ચાલશે” — અને `key_terms` કે એ વાક્યમાં જ પંચાણુ એટલે ૯૫ એ ખોલો."
+  },
+  {
+   "topic_id": "M3.S8.T10",
+   "avoid_checks": [
+    {
+     "check": "varta avoid 7 (inventing what the text does not contain), bound to the chapter's last lines: the text leaves the question open — “એમણે ઘરનું સરનામું કેવી રીતે જાણ્યું ? મોટી બહેનની પાછળ પાછળ ગઈ હશે ?” — so no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may state HOW the bees found the house, whether by following મોટી બહેન, by smell, by any navigation ability, or by having been told. The printed guess keeps its question mark in the teaching too.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "varta avoid 2 (a tacked-on બોધ) on the chapter's closing beat: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` closes on “આપણે પશુ-પંખી સાથે દોસ્તી કરવી જોઈએ” / “જીવદયા રાખવી જોઈએ” / “આ વાર્તા આપણને શીખવે છે…”. The chapter's own ending is સ્વપ્નિલનું અચરજ — “મારી બેટી જબરી તો કહેવાય !” — which is quoted and taught as the writer's ચોટ.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "varta avoid 1 (summary-only teaching) on the climax: `explanation` must state what મોટી બહેનનું કાનમાં ગણગણવું does to the chapter — it sends the reader back to the closed window of the previous beat and turns those બે-ત્રણ આંટા into something the boy can now read. A retelling of ‘બહેને કહ્યું કે મધપૂડો બની રહ્યો છે’ fails.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક `જબરી` ને હિન્દીના જબરદસ્ત / જબરદસ્તી સાથે જોડીને ‘જોરાવરી કરનારી, બીક લાગે એવી’ સમજે છે. એટલે પાઠનું નામ અને છેલ્લી લાઇન બંને ઉલટાં વંચાય છે — વખાણને બદલે ફરિયાદ સંભળાય છે, અને આખી દોસ્તીની ચોટ ઊડી જાય છે.",
+   "correction": "`explanation` માં જ્યાં છેલ્લી લાઇન ટાંકો ત્યાં જ ગ્લોસ કરો — “જબરી એટલે હોશિયાર, કમાલની; અહીં એ વખાણનો શબ્દ છે” — અને આ જ ટોપિકના શબ્દોમાંથી બતાવો કે એણે શું કર્યું કે આ શબ્દ મળ્યો — ઘર શોધીને સામેના ઝાડ પર મધપૂડો બાંધવો. એક `recall_questions[].answer` માં પણ જબરી એ વખાણ છે એ જ અર્થમાં વપરાય."
+  }
+ ],
+ "chapter_level": [
+  "Mixed chapter, and the two avoid-lists are scoped, not merged. varta.md's hard gates govern the eight story beats M1.S1.T1, M1.S2.T2, M1.S2.T3, M1.S3.T4, M2.S4.T5, M3.S6.T8, M3.S7.T9, M3.S8.T10; mahitiprad_gadya.md's hard gates govern ONLY the two માહિતી-ખંડ, M2.S5.T6 and M2.S5.T7. Neither part may be flattened into the other's template: T6 and T7 carry no વળાંક, no `topic_category: \"climax\"` and no motive question about મોટી બહેન, while the eight story beats are not rewritten as fact-lists.",
+  "Std 8 names no અલંકાર, છંદ or સમાસ (profiles/students/std-8.md §2, DON'T 1). No field anywhere in this plan may carry a device label. Where the chapter's language is figurative — “જાણે ઔષધીનો ડોઝ !”, “એમના ગણગણાટથી એ મને કશુંક કહેતી પણ હોય” — it is pointed at with a question, never labelled.",
+  "The English/medical loanwords printed in Gujarati script are this chapter's own lexicon and its declared teaching purpose: હૉસ્પિટલ, ઍમ્બ્યુલન્સ, ઇન્જેકશન, કેટ-સ્કેન, ન્યૂરોલૉજિસ્ટ, રિપોર્ટ્સ, ઑપરેશન, ઍરકંડિશનર, ટેબ્લેટ, ડાઉનલોડ, ઇન્ટરનેટ. Reproduce each in the printed Gujarati spelling everywhere in the plan — never 'correct' ઇન્જેકશન to ઇન્જેક્શન or કેટ-સ્કેન to CAT-સ્કેન — and do not supply medical definitions the chapter does not print, because the book's own numbered block sends the child to the internet for exactly those meanings.",
+  "Hindi–Gujarati false friends that are actually printed on these pages, each to be glossed at its first use in the topic where it occurs and nowhere invented beyond this list: દફતર (Hindi 'office' — here નિશાળની થેલી), ઉપાધિ (Hindi 'degree, title' — here મુશ્કેલી, પીડા), મારી બેટી (Hindi 'my daughter' — here a બોલચાલનો વહાલ અને અચરજનો ઉદ્ગાર for the bee), જબરી (Hindi જબરદસ્તી's 'forceful' — here હોશિયાર, કમાલની, વખાણમાં).",
+  "Everyday Gujarati idiom is where this L2 reader stalls, and the chapter prints its own રૂઢિપ્રયોગ box with exactly two entries — “જીવ ઊંચો થવો - ઉચાટ થવો, ચિંતા થવી” and “મોં પડી જવું - મોં ફિક્કું પડી જવું”. Gloss each in the topic where the text uses it (T2 and T3 respectively) in “શબ્દ — અર્થ” form, using the box's own wording; the other running idioms (જીવ … માં હોવો, આંટા મારવા, રહેવાયું નહીં, નિત્યક્રમ થઈ પડવું) are glossed at their point of use too. A gloss that lives only in a list at the end of the chapter does not reach this reader.",
+  "The chapter's printed શબ્દાર્થ box glosses નગુણાં and ધંધો, but neither word occurs anywhere in the printed reading text of pages 27–30 (Agent 1's extraction note). No topic may build teaching, a `key_terms` entry or a recall answer on those two words as though they appeared in the reading.",
+  "Printed anomalies are transcribed, not corrected and not taught as errors: “જુઓ સ્વપ્નિલને શં થાય છે.”, “મારું માથુ સખત દુખે છે.”, the two missing sentence-final stops, the unmatched closing quote on the chapter's last line, and “દેવનાગરી લિપીના ળ”. No field silently normalises them, and no field tells the child the book made a mistake or turns one of them into a spelling rule."
+ ]
+}

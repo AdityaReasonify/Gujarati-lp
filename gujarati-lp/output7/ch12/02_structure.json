@@ -1,0 +1,515 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati7_ch12",
+  "plan_id": "gseb_eng_gujarati7_ch12_v1",
+  "grade": 7,
+  "chapter_name": "બે રૂપિયા",
+  "genre": "varta",
+  "genre_subform": "ઘરેલુ / સામાજિક વાર્તા",
+  "active_genre_profiles": [
+    "varta.md"
+  ],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "મળી ગયેલી બે રૂપિયાની નોટ પાછી આપતાં પહેલાં આનંદીના મનમાં શું શું ચાલ્યું, અને એ ક્ષણે એણે શું પસંદ કર્યું ?",
+  "explanation_unit": "એક ઘટના",
+  "cut_summary": {
+    "reading_markers_in_normalized": [
+      "[[ઘટના: પ્રવાસની જાહેરાત અને બે રૂપિયાની શરત]]",
+      "[[ઘટના: આનંદીના ઘરની ગરીબી અને પિતાની અસ્થિરતા]]",
+      "[[ઘટના: કુટુંબનો પરિચય અને બા સાથેની વાત]]",
+      "[[ઘટના: રાતની ગડમથલ અને ભગવાનને પ્રાર્થના]]",
+      "[[ઘટના: દવાખાનામાં બે રૂપિયાની નોટ મળવી]]",
+      "[[ઘટના: નળ પર મનનું દ્વંદ્વ]]",
+      "[[ઘટના: મંગુની ખોવાયેલી નોટ અને નોટ પાછી આપવી]]",
+      "[[ઘટના: ઇનામ, ફી માફી અને બાલારામની ઉજાણી]]"
+    ],
+    "reading_markers_count": 8,
+    "topics": 8,
+    "segments": 6,
+    "modules": 3,
+    "concepts": 15,
+    "objectives": 8,
+    "non_topic_markers": [
+      "શીર્ષક-લીટી '# 12 બે રૂપિયા' અને એની નીચેની લેખક-લીટી '- વિનોદિની નીલકંઠ' — છપાયેલી હેડર-સામગ્રી, વાચનદૃશ્ય નહીં",
+      "[[પ્રવેશપેટી]] — શિક્ષક-સંબોધિત વાદળી પેટી, વાચનદૃશ્ય નથી",
+      "[[શબ્દાર્થ]] — પાઠ પછીની પેટી",
+      "[[રૂઢિપ્રયોગ]] — શબ્દાર્થ પેટી નીચેની પેટી, છ રૂઢિપ્રયોગ",
+      "[[સ્વાધ્યાય: …]] × 16 (વાતચીત … નીચેનાં હકારવાચક વાક્યોનું નકારવાચક વાક્યોમાં રૂપાંતર કરો :)",
+      "[[વ્યાકરણપેટી: હકારવાચક અને નકારવાચક વાક્યરચના]] — એકમના અંતે છપાયેલી લીલી પેટી, વાચનદૃશ્ય નથી"
+    ],
+    "tek_occurrences": 0,
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0,
+    "ghatna": 8
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અવંતિકાબહેને પર્યટન વિશે શી શી સૂચનાઓ આપી તે પાઠમાંથી શોધીને, બે રૂપિયાની શરત સાંભળતાં જ આનંદીનું મોઢું કેમ પડી ગયું તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1",
+        "M1.S1.T1.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "માણેકલાલે સીવવાનું કામ કેમ છોડી દીધું હતું તે પાઠની પંક્તિઓ પરથી સમજાવીને, એથી ઘરની કમાણી પર શી અસર પડી તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": [
+        "M1.S2.T2.C3",
+        "M1.S2.T2.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "આનંદીની બા ઘર ચલાવવા કયાં કયાં કામ કરતી તે યાદીરૂપે લખીને, બાએ પૂછ્યું ત્યારે આનંદીએ સાચી વાત કેમ છુપાવી તે કારણ કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C5",
+        "M1.S2.T3.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રાતે જાગતી આનંદીના મનમાં કયા કયા વિચારો આવ્યા તે શોધીને, એણે દીનાનાથ પાસે માગેલી માગણી કેટલી નાની હતી તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C7",
+        "M2.S3.T4.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ખુરશી નીચે પડેલી નોટ જોઈને આનંદીએ મનમાં શું વિચાર્યું તે પાઠમાંથી ટાંકીને, એ ક્ષણે એનો આનંદ કેમ આટલો મોટો હતો તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T5",
+      "anchor": [
+        "M2.S4.T5.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "નળ પર ઊભેલી આનંદીએ પોતાની જાતને પૂછેલા સવાલો ક્રમમાં ગોઠવીને, ભગવાને નોટ મોકલી એ માન્યતા એણે જાતે કેમ બદલી તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T6",
+      "anchor": [
+        "M3.S5.T6.C10",
+        "M3.S5.T6.C11"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ડૉક્ટરે મંગુબાઈની ખોવાયેલી નોટ વિશે પૂછ્યું ત્યારે આનંદીએ શું કર્યું તે કહીને, નોટ આપતાં એની આંખમાં આંસુ કેમ આવ્યાં તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T7",
+      "anchor": [
+        "M3.S5.T7.C12",
+        "M3.S5.T7.C13"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સાચું બોલવાથી આનંદીને ડૉક્ટર અને મોટાં બહેન પાસેથી શું શું મળ્યું તે ગણાવીને, ઉજાણીમાં એનો આનંદ સૌથી મોટો કેમ હતો તે મૂલવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S6.T8",
+      "anchor": [
+        "M3.S6.T8.C14",
+        "M3.S6.T8.C15"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "ઉજાણીની જાહેરાત અને ન પોસાય એવી શરત",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "પ્રાર્થનાસભામાં થયેલી જાહેરાત",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "આગગાડીની ઉજાણી અને પડી ગયેલું મોઢું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: પ્રવાસની જાહેરાત અને બે રૂપિયાની શરત]]"
+              ],
+              "source_lines_00_normalized": "8-9",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "બાલારામની ઉજાણીની જાહેરાત અને આગગાડીનું સપનું",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S1.T1.C2",
+                  "concept_name": "દરેક જણે લાવવાના બે રૂપિયાની શરત",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "આનંદીના ઘરની સાચી સ્થિતિ",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "દરજીકામ છૂટી ગયેલા ઘરની તંગી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: આનંદીના ઘરની ગરીબી અને પિતાની અસ્થિરતા]]"
+              ],
+              "source_lines_00_normalized": "11-14",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C3",
+                  "concept_name": "બે આના પણ ભાગ્યે જ વધે એવી ઘરની આવક",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S2.T2.C4",
+                  "concept_name": "તબિયતને કારણે અટકી ગયેલું પિતાનું દરજીકામ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "સાત જણનું ઘર અને બાથી છુપાવેલી વાત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: કુટુંબનો પરિચય અને બા સાથેની વાત]]"
+              ],
+              "source_lines_00_normalized": "16-17",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C5",
+                  "concept_name": "બટન, ખોળો ને ઝભલાં સીવીને ચાલતું ભરેલું ઘર",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S2.T3.C6",
+                  "concept_name": "'કાંઈ નહીં બા' — દુઃખ પોતાની પાસે જ રાખવું",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "રાતની પ્રાર્થના અને ખુરશી નીચેની નોટ",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "ઊંઘ વગરની રાત અને દીનાનાથને વિનંતી",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "તારાના અજવાળામાં કરેલી પ્રાર્થના",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: રાતની ગડમથલ અને ભગવાનને પ્રાર્થના]]"
+              ],
+              "source_lines_00_normalized": "19-20",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C7",
+                  "concept_name": "'અમે કેમ ગરીબ ?' — ઊંઘ ઉડાડી દેતા સવાલો",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T4.C8",
+                  "concept_name": "'હું તો માગું છું ફક્ત બે રૂપિયા' — દીનાનાથને વિનંતી",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "દવાખાનાની સવાર",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T5",
+              "topic_name": "ખુરશી નીચે પડેલી નોટ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [
+                "M2.S3.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: દવાખાનામાં બે રૂપિયાની નોટ મળવી]]"
+              ],
+              "source_lines_00_normalized": "22-23",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T5.C9",
+                  "concept_name": "નોટ મળતાં 'ભગવાને જ મૂકી હશે' એવો રાજીપો",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "નળ પરની ગડમથલથી ઉજાણી સુધી",
+      "segments": [
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "પોતાની જાત સાથેનો સવાલ-જવાબ",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T6",
+              "topic_name": "માટલું છલકાયું ને મન વલોવાયું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S3.T4",
+                "M2.S4.T5"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: નળ પર મનનું દ્વંદ્વ]]"
+              ],
+              "source_lines_00_normalized": "25-26",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T6.C10",
+                  "concept_name": "'એ કોઈની જ પડી ગઈ હશે' — નોટનો સાચો માલિક",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S5.T6.C11",
+                  "concept_name": "'ચોરી કરીને ઉજાણીએ જવાય ખરું !' — મન સાથેની લડાઈ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S5.T7",
+              "topic_name": "મંગુબાઈની નોટ પાછી હાથમાં મુકાઈ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": [
+                "M3.S5.T6"
+              ],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: મંગુની ખોવાયેલી નોટ અને નોટ પાછી આપવી]]"
+              ],
+              "source_lines_00_normalized": "28-29",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T7.C12",
+                  "concept_name": "મંગુબાઈની ખોવાયેલી પૂંજી વિશે ડૉક્ટરનો સવાલ",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S5.T7.C13",
+                  "concept_name": "નોટ સોંપતાં આવી ગયેલાં આંસુ અને અથથી ઇતિ સુધીની કબૂલાત",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S6",
+          "segment_name": "સાચું બોલવાનું ફળ",
+          "topics": [
+            {
+              "topic_id": "M3.S6.T8",
+              "topic_name": "ઇનામ, ફી માફી અને બાલારામની ઉજાણી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M3.S5.T7"
+              ],
+              "objective_ids": [
+                "O8"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: ઇનામ, ફી માફી અને બાલારામની ઉજાણી]]"
+              ],
+              "source_lines_00_normalized": "31-32",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T8.C14",
+                  "concept_name": "'તું સાચું બોલી એનું ઇનામ !' અને પગે આવેલી પાંખો",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S6.T8.C15",
+                  "concept_name": "માફી વિદ્યાર્થિની તરીકે નોંધાયેલું નામ અને સૌથી મોટો આનંદ",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "not_cut_as_topics": [
+    "શીર્ષક-લીટી '12 બે રૂપિયા' અને એની નીચે છપાયેલી લેખક-લીટી '- વિનોદિની નીલકંઠ' — હેડર-સામગ્રી, વાચનદૃશ્ય નહીં. લેખક-લીટી શીર્ષકની નીચે છપાયેલી છે, પાઠના અંતે નહીં, એટલે એ કોઈ ટૉપિકના original_chunkમાં જતી નથી — Agent 5 માટેની નોંધ.",
+    "[[પ્રવેશપેટી]] — શિક્ષક-સંબોધિત વાદળી પેટી ('આ વાર્તામાં એક દીકરીની પ્રામાણિકતાની સરસ વાત છે…'). પાના પરનો સૌથી મજબૂત સ્વરૂપ-સંકેત છે અને 01_meta.jsonના genre_signals.purposeનો સ્રોત છે, પણ એ apparatus છે : key_terms અને ભાષા-બોધને ખવડાવે છે, ટૉપિક કદી બનતી નથી. એની શિક્ષક-સૂચના ('શિક્ષકે વિદ્યાર્થીઓ પાસે એમના જીવનમાં બનેલા આવા પ્રેરક પ્રસંગો પણ કહેવડાવવા.') કોઈ explanationના અંતે બોધ બનીને ન મુકાય.",
+    "[[શબ્દાર્થ]] પેટી — શેતરંજી, ટંક, ભાથું, ઇસ્પિતાલ, ઉજાણી, પૂંજી, ચિત્ત, પર્સ, દીનદયાળ, દીનાનાથ, ગડમથલ. Apparatus : key_terms અને point-of-use gloss માટે, ટૉપિક નહીં.",
+    "[[રૂઢિપ્રયોગ]] પેટી, છ રૂઢિપ્રયોગ — હૈયું ભારે થવું, મોઢું પડી જવું, જીવ બાળવો, વહારે ધાવું, અથથી ઇતિ સુધી, પગે પાંખો આવવી. Apparatus. પાંચ પાઠનાં જ વાક્યોમાંથી આવે છે (અનુક્રમે M1.S1.T1, M1.S2.T3, M2.S3.T4, M3.S5.T7, M3.S6.T8), એટલે એ પહેલા વપરાશના સ્થળે glossing માટે પ્રથમ પસંદગી છે — પણ ટૉપિક નહીં.",
+    "સોળ ક્રમાંકિત સ્વાધ્યાય બ્લૉક (વાતચીત … 'નીચેનાં હકારવાચક વાક્યોનું નકારવાચક વાક્યોમાં રૂપાંતર કરો :') 01_meta.jsonના exercise_inventoryમાં જ રહે છે અને એ Agent 10નું જ કામ છે. કેટલાક બ્લૉક પાઠનાં જ વાક્યો સહેજ ફેરફાર સાથે ફરી છાપે છે (ભાવ-ઓળખ બ્લૉક, રૂઢિપ્રયોગ-બદલીનો ફકરો, લિંગ-પરિવર્તનનો ફકરો, અનુવાદનાં વાક્યો) — એ સ્વાધ્યાય-લખાણ છે, વાર્તાનું બીજું વાચન નથી, અને એને કોઈ ટૉપિકના કાપમાં ભેળવ્યું નથી.",
+    "[[વ્યાકરણપેટી: હકારવાચક અને નકારવાચક વાક્યરચના]] — એકમના અંતે પોતાના બૅનર નીચે છપાયેલી લીલી પેટી, ત્રણેય કાળનું કોષ્ટક અને '(વધુ મહાવરા માટે શિક્ષક કે માતા-પિતાની મદદ લો.)' સહિત. Apparatus / ભાષા-બોધ અને Agent 10ની સામગ્રી; વાચનદૃશ્ય નહીં, ટૉપિક નહીં. છેલ્લો સ્વાધ્યાય-બ્લૉક આ પેટીને જ તપાસે છે."
+  ],
+  "notes": [
+    "Cut by the સ્વરૂપ's own unit, not by habit. 01_meta.json sets explanation_unit 'એક ઘટના' and varta.md says 'One plot beat per topic — a coherent event with its own small arc … follow the story's turns, not paragraph counts'. The rendered page as transcribed agrees with agents/02_structure.md's prior row for વાર્તા — ગદ્ય, નામવાળાં પાત્રો (આનંદી, માણેકલાલ, અવંતિકાબહેન / મોટાં બહેન, મંગુબાઈ, ડૉક્ટર બાઈ), ભૂતકાળનું કથન, સંવાદ, અને એક સ્પષ્ટ વળાંક. No disagreement with the profile prior to report. varta.md lists std-7 ch 12 under the 'ઘરેલુ / સામાજિક વાર્તા' sub-form; a sub-form moves the Language and Media priors, never the cut, so root genre is written as the slug 'varta' and 01_meta.json's Gujarati label વાર્તા is preserved in that meta file.",
+    "Marker count vs topic count is 1:1 and nothing was swallowed or invented. 00_chapter_normalized.md carries exactly EIGHT reading-scene markers, all [[ઘટના: …]], and this file carries eight topics, one per marker, in printed order. 01_meta.json's structure_inventory.ghatna = 8 matches; kadi / duha / pad / tek_occurrences are all 0 and there is no verse anywhere in the unit, so no verse-side cut rule applies.",
+    "The markers are narrative beats, not printed paragraph breaks — this matters for Agent 5. A1's extraction note records that the chapter prints only THREE paragraphs of running prose and that the eight markers fall INSIDE the third paragraph at sentence boundaries. One consequence is recorded here: the single printed one-line paragraph 'આનંદીની બા કદી ધમકાવીને કામે બેસાડતી તો માણેકલાલ ગમે તેમ કાતર ચલાવી કપડું નકામું બનાવી દેતા.' (00_chapter_normalized.md line 14) carries NO marker of its own. It is held inside M1.S2.T2 with that topic's marker, per varta.md's rule that 'a long descriptive passage that does not move the story joins the beat it belongs to' — it is the same beat (the father's tailoring having stopped), not a ninth topic. Agent 5 must copy lines 12-14 into M1.S2.T2's original_chunk, keeping the printed paragraph break between them.",
+    "વળાંક placement, and the gate it creates for Agents 12 and 13. 01_meta.json records the turn as 'નોટ પાછી આપવાની ક્ષણ', so topic_category 'climax' sits on M3.S5.T7 — where ડૉક્ટર asks about મંગુબાઈની ખોવાયેલી નોટ and આનંદી takes the note out of her pocket and puts it in the doctor's hand. The decision itself is taken one beat earlier at the tap (M3.S5.T6), which is why that topic is 'core' and not 'climax': the story stages resolve and act as two separate beats and the cut keeps them separate. GATE: no topic before M3.S5.T7 — that is M1.S1.T1, M1.S2.T2, M1.S2.T3, M2.S3.T4, M2.S4.T5, M3.S5.T6 — may say in explanation, summary or recall text that the note was returned, that આનંદી got the two rupees, that her fee was waived, or that she went on the ઉજાણી. The topic and concept names above were written to keep that gate intact.",
+    "SENSITIVITY, carried forward from 01_meta.json's extraction notes and binding on every later agent. (a) The chapter puts a father's mental illness on the page in period phrasing ('એમનું મગજ અસ્થિર થઈ ગયું હતું', 'ગાંડાની ઇસ્પિતાલમાં મૂકવા જેવા ન હતા'). The verbatim keeps it, but no authored name, objective, explanation or recall prompt may reuse 'ગાંડા' as a descriptor — M1.S2.T2's concept C4 is deliberately named 'તબિયતને કારણે અટકી ગયેલું પિતાનું દરજીકામ' and objective O2 asks only what the page states, that he stopped sewing and what that did to the household income. Name the condition with dignity or not at all. (b) Sustained poverty is the family's situation, never their character: varta.md's avoid-gate forbids any evaluative label on this household. (c) The prayer is answered by what the story itself frames BOTH ways — 'નક્કી આ નોટ ભગવાને જ મૂકી હશે !' at M2.S4.T5 and, in આનંદીના પોતાના શબ્દોમાં at M3.S5.T6, 'ભગવાને નોટ મોકલી એમ હું કહું છું પણ ખરેખર તો એ કોઈની જ પડી ગઈ હશે !'. Concept C9 holds the belief and concept C10 holds her own revision of it, in that order, because that is the order the page has them. Guide the ભાવ; neither endorse nor debunk.",
+    "Craft-label ceiling (std 7). No અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text — profiles/students/std-7.md sections 1-2 and the teaching_lens_map craft gate. Every objective asks the child to find something on the page and then say why, which is the std-7 ladder (actions and stated feelings + motive inference), never to name a device. The chapter is prose, so figures_of_speech / rhyme_scheme do not arise; downstream, figures_of_speech stays [] and that is a complete answer, not a gap.",
+    "Objective spread and lens service. Eight objectives, one per reading scene, each anchored at the concepts of its own topic; bloom_level runs Understand three times, Analyze four times and Evaluate once, so the chapter reaches the top of the ladder at the resolution without capping any earlier scene. Every one is written from a line this chapter actually prints (અવંતિકાબહેનની સૂચનાઓ, માણેકલાલનું છોડી દીધેલું સીવણ, બાનાં કામ, દીનાનાથ પાસેની માગણી, ખુરશી નીચેની નોટ, નળ પરના સવાલો, મંગુબાઈની નોટ, ડૉક્ટર અને મોટાં બહેન પાસેથી મળેલું) and serves the lens ઘટના + પાત્ર + વળાંક — none of them would fit another chapter in this book.",
+    "Uneven topic length, flagged and NOT corrected. M2.S4.T5 is by some way the shortest beat (the note under the chair, the joy, 'ભગવાને જ મૂકી હશે', the note into the pocket) and is the one topic carrying a single concept; M1.S2.T3 and M2.S3.T4 are the longest. The cut follows the story's turns, not length, and merging T5 into either neighbour would destroy the two-step the chapter is built on — the note is taken as an answered prayer in one beat and re-read as somebody's loss in the next. Agent 4 and Agent 13 should read the length gap as intended.",
+    "difficulty is set by what stops a std-7 second-language reader on the page, not by the size of the idea. 'hard' on M1.S2.T2 (period and obsolete vocabulary — બે આના, ધંધે દરજી, ઇસ્પિતાલ, બબડાટ), on M1.S2.T3 (a dense burst of household-sewing nouns — બટન, ગાદલાં, ઓશીકાં, ખોળો, ગલેફ, ઝભલાં, ચણિયા — plus five sibling names and ચોગાન / ઓરડી in one short beat) and on M3.S5.T6 (unmarked interior monologue running as a chain of rhetorical questions, with ગરીબગુરબાં, પૂંજી, ગડમથલ). 'easy' on M2.S4.T5 only because it is short and plain. No topic is hard for a device it is not allowed to name.",
+    "depends_on records real dependence only. M2.S3.T4 depends on M1.S1.T1 because the prayer asks for exactly the sum the condition named; M2.S4.T5 depends on M2.S3.T4 because 'ભગવાને જ મૂકી હશે' is only meaningful as an answer to that prayer; M3.S5.T6 depends on both, because it overturns the belief formed in one using the object found in the other; M3.S5.T7 depends on M3.S5.T6 and M3.S6.T8 on M3.S5.T7. The three opening topics carry [], which is the normal, correct value — sequence alone is not dependence.",
+    "Names carry no digits anywhere — module, segment, topic and concept names are all descriptive Gujarati (global_content_rules.md rule 4, naming_conventions.md). Where an amount or a count appears it is the chapter's own spelled-out wording (બે રૂપિયા, બે આના, સાત જણનું ઘર), not a numbering reference. Ids: m/s/t/c all run across the whole chapter and never restart — segments S1 to S6, topics T1 to T8, concepts C1 to C15, so M1.S2.T3 carries C5 and C6, not C1 and C2.",
+    "No PNG render was opened for this pass. 00_chapter_normalized.md answered every question the cut needed, including the layout question (three printed paragraphs, marker placement inside the third) which A1's extraction_notes already record explicitly."
+  ]
+}

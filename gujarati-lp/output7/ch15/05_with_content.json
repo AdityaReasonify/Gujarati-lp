@@ -1,0 +1,563 @@
+{
+ "agent": "05_verbatim_attachment",
+ "chapter_id": "gseb_eng_gujarati7_ch15",
+ "plan_id": "gseb_eng_gujarati7_ch15_v1",
+ "grade": 7,
+ "chapter_name": "સોનાનો કિલ્લો",
+ "genre": "patra_pravas",
+ "active_genre_profiles": [
+  "patra_pravas.md"
+ ],
+ "teaching_lens": "પડાવ + દૃષ્ટિ + સંબોધન",
+ "guiding_question": "લેખકની આંખે જેસલમેર કયા કયા પડાવે ઊઘડે છે, અને એ શહેર 'સોનાનો કિલ્લો' શાથી બની જાય છે ?",
+ "explanation_unit": "એક પડાવ",
+ "cut_summary": {
+  "reading_markers_in_normalized": [
+   "[[પડાવ: રાજસ્થાન એટલે માત્ર રણપ્રદેશ નહીં]]",
+   "[[પડાવ: સર્જકોનું જેસલમેર]]",
+   "[[પડાવ: કિલ્લો, તડકો અને શહેરની કોતરણી]]",
+   "[[પડાવ: ફોટોગ્રાફીની સફર — ડિસેમ્બરના દિવસો અને કવિતાના ઝરૂખા]]",
+   "[[પડાવ: સેન્ડ ડ્યૂન, રાજસ્થાની આતિથ્ય અને 'માંડ'ના સ્વરો]]",
+   "[[પડાવ: બીજા દિવસની સવાર — રંગોનો પ્રદેશ]]",
+   "[[પડાવ: સોનાનો કિલ્લો — કલાસમૃદ્ધિનું શિખર]]"
+  ],
+  "reading_markers_count": 7,
+  "topics": 7,
+  "segments": 4,
+  "modules": 2,
+  "concepts": 10,
+  "objectives": 7,
+  "embedded_marker_inside_a_topic": "[[અવતરણ-કાવ્ય: ગદ્યની અંદર ટાંકેલી કાવ્યપંક્તિઓ — યોગેશ જોષી]] — એકમનું નિશાન નથી; M2.S3.T4 ના original_chunk ની અંદર જ રહે છે અને એ topic નું બીજું concept બને છે.",
+  "non_topic_markers": [
+   "[[એકમ-શીર્ષક]]",
+   "[[લેખક-નામ]]",
+   "[[પ્રવેશપેટી (શિક્ષક-સંબોધિત — વાચનદૃશ્ય નથી, વિષય નથી)]]",
+   "[[ચિત્ર: સોનેરી-લાલ પ્રકાશમાં ઝળહળતો જેસલમેરનો કિલ્લો; …]]",
+   "[[ચિત્ર: રણમાં કોતરણીવાળી છત્રી, પાછળ સૂર્યાસ્ત અને ટેકરી પરનું જેસલમેર; …]]",
+   "[[શબ્દાર્થ]]",
+   "[[સ્વાધ્યાય: …]] × 11 (એની અંદર છપાયેલો ત્રીજો [[ચિત્ર]] પણ)",
+   "[[આટલું જાણીએ (પાઠાંતે માહિતી-પેટી — સ્વાધ્યાય નથી)]]"
+  ],
+  "kadi": 0,
+  "duha": 0,
+  "pad": 0,
+  "ghatna": 0,
+  "tek_occurrences": 0,
+  "padav": 7
+ },
+ "objectives": [
+  {
+   "objective_id": "O1",
+   "legacy_id": "L1",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "લેખક રાજસ્થાનને 'સાવ એવું નથી' કેમ કહે છે તે પાઠમાંથી શોધીને, ભરતપુર અને જેસલમેર બતાવીને રણ ઉપરાંતનું રાજસ્થાન પોતાના શબ્દોમાં કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S1.T1",
+   "anchor": [
+    "M1.S1.T1.C1"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O2",
+   "legacy_id": "L2",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'જેસલમેરની માટી જ સોનાની છે' પંક્તિ પાઠમાં શોધીને, ચિત્રકારથી ફિલ્મસર્જક સુધીના સર્જકોને આ શહેર કેમ ભુલાતું નથી તે સમજાવવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S1.T2",
+   "anchor": [
+    "M1.S1.T2.C2"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O3",
+   "legacy_id": "L3",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'તડકાથી કિલ્લો નહીં પણ તડકો કિલ્લાથી શોભતો હતો' વાક્ય વાંચીને લેખકે કિલ્લામાં અને ઘરોમાં શું જોયું તે વર્ણવવું, અને પટવાઓની હવેલીઓ વિશેનો એમનો ખેદ કહેવો.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M1.S2.T3",
+   "anchor": [
+    "M1.S2.T3.C3",
+    "M1.S2.T3.C4"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O4",
+   "legacy_id": "L4",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "કવિ યોગેશ જોષીની ટાંકેલી પંક્તિઓમાં ઝરૂખા વિશે શું કહેવાયું છે તે શોધીને, લેખકે એ પંક્તિઓ અહીં જ કેમ મૂકી તે કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S3.T4",
+   "anchor": [
+    "M2.S3.T4.C5",
+    "M2.S3.T4.C6"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O5",
+   "legacy_id": "L5",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "લેખક ઘડિયાળ જોઈને સૂર્યાસ્તનો સમય કેમ નોંધે છે તે કહેવું, અને રાવણહથ્થો-સારંગી સાથે ગવાતાં ગીતોમાં આતિથ્ય કઈ રીતે સંભળાય છે તે જણાવવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S3.T5",
+   "anchor": [
+    "M2.S3.T5.C7",
+    "M2.S3.T5.C8"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O6",
+   "legacy_id": "L6",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "'રાજસ્થાન એટલે રંગોનો પ્રદેશ' કેમ કહેવાયું તે પાઠના શબ્દોથી સમજાવવું, અને લેખકને અહીંનાં કપડાં તથા ઠસ્સો કેવાં લાગ્યાં તે કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S4.T6",
+   "anchor": [
+    "M2.S4.T6.C9"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O7",
+   "legacy_id": "L7",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "પાઠના છેલ્લા વાક્યમાં લેખક જેસલમેરના કિલ્લાને 'કલાસમૃદ્ધિનું શિખર' કેમ કહે છે તે અગાઉ વર્ણવેલી કોતરણી અને ઝરૂખાના આધારે તારવવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S4.T7",
+   "anchor": [
+    "M2.S4.T7.C10"
+   ],
+   "status": "taught",
+   "theme_category": null
+  }
+ ],
+ "strand_to_objective_map": {
+  "L1": "O1",
+  "L2": "O2",
+  "L3": "O3",
+  "L4": "O4",
+  "L5": "O5",
+  "L6": "O6",
+  "L7": "O7"
+ },
+ "modules": [
+  {
+   "module_id": "M1",
+   "module_name": "જેસલમેરની ઓળખ અને એનો સોનેરી કિલ્લો",
+   "segments": [
+    {
+     "segment_id": "M1.S1",
+     "segment_name": "રણ ઉપરાંતનું રાજસ્થાન અને સર્જકોનું જેસલમેર",
+     "topics": [
+      {
+       "topic_id": "M1.S1.T1",
+       "topic_name": "રાજસ્થાન એટલે માત્ર રણ નહીં",
+       "topic_type": "CONCEPT",
+       "topic_category": "introduction",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O1"
+       ],
+       "original_chunk": "જેસલમેર એ રાજસ્થાનનું એક શહેર છે. રાજસ્થાન એટલે રણપ્રદેશ, પણ સાવ એવું નથી. રાજસ્થાનમાં ભરતપુર એ પંખીઓનું અભયારણ્ય પણ છે અને ત્યાં વિવિધ જાતનાં અનેક પંખીઓને જોવા માટે સહેલાણીઓ આવે છે.\n\nસામાન્ય રીતે રાજસ્થાન ફરવા જવા માગતા લોકો ઉદયપુર, જયપુર, ચિત્તોડગઢ કે જોધપુર જેવાં શહેરોમાં ઐતિહાસિક ભવ્યતા જોવા જાય છે. પંખીઓ જોવાનો શોખ જેમને છે, તેઓ ભરતપુર જેવા શહેરમાં જાય છે. તો જેમને જાત્રા કરવી છે તે બધા નાથદ્વારા જાય છે, પણ આ બધામાં જોવા જેવું કોઈ શહેર હોય તો તે જેસલમેર છે, જેસલમેરની નજીક રેતીના ઢૂવાઓ જોવા મળે છે. નેશનલ સેન્ડ ડ્યૂનપાર્ક તરીકે ઓળખાતું આ સ્થળ જેસલમેરથી નજીક આવેલું છે. એક શહેર તરીકે જેસલમેર અત્યંત નયનરમ્ય છે. આમ પણ પશ્ચિમ ભારતનું એ છેલ્લું શહેર છે. પછી લગભગ સિત્તેર કિલોમીટર બાદ બીજા દેશની સરહદ શરૂ થાય એટલે વ્યૂહાત્મક રીતે પણ જેસલમેરનું મહત્ત્વ અનેક ગણું છે.",
+       "markers": [
+        "[[પડાવ: રાજસ્થાન એટલે માત્ર રણપ્રદેશ નહીં]]"
+       ],
+       "source_lines_00_normalized": "12-14",
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T1.C1",
+         "concept_name": "રણ ઉપરાંતનું રાજસ્થાન અને એની જોવાલાયક જગ્યાઓ",
+         "objective_id": "O1",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "લેખક શરૂઆતમાં જ એક સામાન્ય માન્યતા સુધારે છે — રાજસ્થાન એટલે માત્ર રણ નહીં. ભરતપુરમાં પંખીઓનું અભયારણ્ય (જ્યાં શિકારની છૂટ નથી તેવું જંગલ) છે, ઉદયપુર-જયપુર-ચિત્તોડગઢ-જોધપુરમાં જૂનાં ભવ્ય સ્થળો છે અને નાથદ્વારા જાત્રા માટે છે. પણ લેખકને મન સૌથી જોવા જેવું શહેર જેસલમેર છે, જેની નજીક રેતીના ઢૂવા છે અને જે પોતે નયનરમ્ય એટલે કે આંખને ગમે તેવું છે. બીજા દેશની સરહદ નજીક હોવાથી એનું વ્યૂહાત્મક મહત્ત્વ પણ ઘણું છે.",
+       "word_count": {
+        "original": 135,
+        "modified": 69
+       },
+       "key_terms": [
+        "અભયારણ્ય — જ્યાં શિકાર કરવાની છૂટ નથી તેવું જંગલ",
+        "સહેલાણી — ફરવા નીકળેલો માણસ, પ્રવાસી",
+        "ઢૂવા — પવનથી ભેગા થયેલા રેતીના ઢગલા",
+        "નયનરમ્ય — આંખને ગમે તેવું, જોવું ગમે તેવું સુંદર",
+        "વ્યૂહાત્મક — સંરક્ષણની ગોઠવણ પ્રમાણે અગત્યનું; (અહીં) સરહદ નજીક હોવાથી જેસલમેરનું મહત્ત્વ"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      },
+      {
+       "topic_id": "M1.S1.T2",
+       "topic_name": "સર્જકોને ખેંચતી સોનાની માટી",
+       "topic_type": "CONCEPT",
+       "topic_category": "introduction",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O2"
+       ],
+       "original_chunk": "આપણા કેટલા બધા સર્જકોએ જેસલમેર પર સર્જનો કર્યાં છે. આ સર્જકોમાં બધાં જ માધ્યમોના સર્જકોને સમાવી શકાય. જેમણે નથી કર્યાં તેવા સર્જકોએ પણ જેસલમેરથી તો પ્રભાવિત થયા જ છે. જેમણે એક વખત જેસલમેર જોયું હોય તે આ શહેરને ભૂલી ન શકે. પછી તે ચિત્રકાર કે શિલ્પકાર હોય, ફોટોગ્રાફર કે ફિલ્મસર્જક હોય, સાહિત્યકાર કે સંગીતકાર હોય જેસલમેરથી તે ચોક્કસપણે પ્રભાવિત થશે જ. જેસલમેરની માટી જ સોનાની છે. તેને જે રીતે ઘડીએ તેમ આકાર પામે છે. આપણા કેટલા બધા ફિલ્મ - દિગ્દર્શકો આ પ્રદેશથી આકર્ષાઈને અહીં શૂટિંગ કરવા આવ્યા છે. તે આપણી અનેક ફિલ્મોમાં જોવા મળે જ છે. આપણા જગપ્રસિદ્ધ ‘સોનાર કેલા’ અને ‘હિરક રાજર દેશ’ અને ‘ગોપી ગાયે બાઘા બાયે’નું કેટલુંક શૂટિંગ જેસલમેરમાં થયું છે.",
+       "markers": [
+        "[[પડાવ: સર્જકોનું જેસલમેર]]"
+       ],
+       "source_lines_00_normalized": "17",
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T2.C2",
+         "concept_name": "બધાં માધ્યમોના સર્જકોને ખેંચતું જેસલમેર",
+         "objective_id": "O2",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "હવે લેખક કહે છે કે જેસલમેર પર કેટલા બધા સર્જકોએ કામ કર્યું છે. ચિત્રકાર, શિલ્પકાર, ફોટોગ્રાફર, ફિલ્મસર્જક, સાહિત્યકાર કે સંગીતકાર — બધાં માધ્યમોના સર્જકો આ શહેરથી પ્રભાવિત એટલે કે અસર પામેલા થાય છે. લેખક કહે છે કે જેસલમેરની માટી જ સોનાની છે અને એને જેમ ઘડીએ તેમ એ આકાર લે છે. અહીં ઘણી ફિલ્મોનું શૂટિંગ થયું છે અને લેખક જગપ્રસિદ્ધ ફિલ્મોનાં નામ ગણાવે છે.",
+       "word_count": {
+        "original": 114,
+        "modified": 64
+       },
+       "key_terms": [
+        "સર્જક — નવું રચનારો; ચિત્ર, શિલ્પ, ફોટો, ફિલ્મ, લખાણ કે સંગીત રચનારો",
+        "માધ્યમ — કળા રજૂ કરવાનું સાધન કે રીત; (અહીં) ચિત્ર, શિલ્પ, ફોટોગ્રાફી, ફિલ્મ",
+        "પ્રભાવિત — જેના પર ઊંડી અસર થઈ હોય તેવું",
+        "દિગ્દર્શક — ફિલ્મ કેવી બનશે તે નક્કી કરીને બનાવનાર",
+        "જગપ્રસિદ્ધ — આખા જગતમાં જાણીતું"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M1.S2",
+     "segment_name": "કૂણા તડકામાં ઝળહળતો કિલ્લો",
+     "topics": [
+      {
+       "topic_id": "M1.S2.T3",
+       "topic_name": "તડકો કિલ્લાથી શોભતો હતો",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "core",
+       "difficulty": "hard",
+       "depends_on": [],
+       "objective_ids": [
+        "O3"
+       ],
+       "original_chunk": "જેસલમેરની મજા એનો કિલ્લો ઉપરાંત સમગ્ર શહેર પણ છે જ.\n\nસવારના કૂણા તડકામાં કે સંધ્યાના મદમસ્ત થઈ ચૂકેલા અજવાળામાં જેસલમેરના કિલ્લાને જોવો કે તેની આસપાસ ફરવું તે તો જાણે સોનાની ખાણમાં ફરવા જેવું લાગે.\n\nતડકાથી કિલ્લો નહીં પણ તડકો કિલ્લાથી શોભતો હતો. અદ્ભુત કોતરણીથી શોભતા ઝરૂખા, ફક્ત કિલ્લામાં જ નહીં, જેસલમેરનાં અનેક ઘરોમાં જોવા મળે. સ્થાપત્ય અને શિલ્પકળાના અભ્યાસુઓ માટે તો આ શહેર અનેક રીતે આકર્ષક છે. જેસલમેરનાં મકાનોની બાંધણી જ કંઈક વિશિષ્ટ જોવા મળે છે. તેમાં પણ બારી દરવાજાઓનું સૌંદર્ય તો અનેરું છે, એ બધાંમાં કોતરણી હોય અને તે એટલી બધી સુંદર હોય કે તેના અજાણ સર્જકને માટે માન થઈ આવે. કોઈ પણ રસ્તામાં કે ગલીમાં ફરવા નીકળી પડો અને તમને કેટલાંય આકર્ષક સ્થળો જોવા મળશે જ. તેમાં પણ પટવાઓની હવેલીઓ તો અદ્ભુત. એ જેટલી જોવા મળે છે તેટલી જ આપણા લોકોએ તેને બગાડી પણ છે અને એટલે એ જોતાં આનંદ થાય છે તેટલો જ આપણા લોકોની આદતો જાણી દુ:ખ પણ થાય છે.",
+       "markers": [
+        "[[પડાવ: કિલ્લો, તડકો અને શહેરની કોતરણી]]"
+       ],
+       "source_lines_00_normalized": "20-24",
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T3.C3",
+         "concept_name": "કૂણા તડકામાં કિલ્લો, ઝરૂખા અને ઘરોની કોતરણી",
+         "objective_id": "O3",
+         "key_terms": [],
+         "content": []
+        },
+        {
+         "concept_id": "M1.S2.T3.C4",
+         "concept_name": "પટવાઓની હવેલીઓ જોતાં થતો આનંદ અને ખેદ",
+         "objective_id": "O3",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "લેખક હવે કિલ્લા પાસે થોભે છે. સવારના કૂણા એટલે કે નરમ તડકામાં કે સાંજના મદમસ્ત અજવાળામાં કિલ્લાની આસપાસ ફરવું એ સોનાની ખાણમાં ફરવા જેવું લાગે છે, અને લેખક કહે છે કે તડકાથી કિલ્લો નહીં પણ તડકો કિલ્લાથી શોભતો હતો. કોતરણીવાળા ઝરૂખા ફક્ત કિલ્લામાં નહીં, શહેરનાં ઘરોમાં અને બારી-દરવાજામાં પણ જોવા મળે છે. પટવાઓની હવેલીઓ જોઈને આનંદ થાય છે, પણ લોકોએ એને બગાડી છે એ જાણીને દુ:ખ પણ થાય છે.",
+       "word_count": {
+        "original": 154,
+        "modified": 69
+       },
+       "key_terms": [
+        "કૂણો — નરમ, આકરો નહીં તેવો; (અહીં) સવારનો હળવો તડકો",
+        "મદમસ્ત — મસ્તીભર્યું, ભરપૂર; (અહીં) સંધ્યાનું ઘેરું ઝગમગતું અજવાળું",
+        "કોતરણી — પથ્થર કે લાકડામાં કોતરીને પાડેલી સુંદર ભાત",
+        "ઝરૂખો — મકાનની બહાર નીકળતી, નાની અગાસી જેવી શણગારેલી બારી",
+        "સ્થાપત્ય — મકાન બાંધવાની કળા, શિલ્પશાસ્ત્ર",
+        "હવેલી — મોટું, શણગારેલું જૂનું મકાન"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "M2",
+   "module_name": "લેખકની ડિસેમ્બરની ફોટોગ્રાફીની સફર",
+   "segments": [
+    {
+     "segment_id": "M2.S3",
+     "segment_name": "સફરના પહેલા દિવસના ઝરૂખા અને ઢૂવા",
+     "topics": [
+      {
+       "topic_id": "M2.S3.T4",
+       "topic_name": "ડિસેમ્બરની ઠંડીમાં કવિતાના ઝરૂખા",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "transition",
+       "difficulty": "hard",
+       "depends_on": [],
+       "objective_ids": [
+        "O4"
+       ],
+       "original_chunk": "એક વખત રાજસ્થાનની ફોટોગ્રાફીની સફરે ગયેલો ત્યારે જેસલમેર ચારેક દિવસ રહેલો.\n\nડિસેમ્બર મહિનાની ઠંડીના દિવસો હતા. રણની રાત તો આમ પણ ઠંડી. દિવસ પણ વહેલો આથમી જાય. એટલે ફરવાનું પણ આયોજનપૂર્વક. આખું જેસલમેર એટલું બધું દૃશ્યમય છે કે જ્યાં નજર કરીએ ત્યાં ક્લિક કરી શકાય. આ શહેર પર આપણા અનેક કવિઓએ કવિતાઓ લખી છે તે પણ આ દૃશ્યોના પ્રભાવે જ. આ કવિઓને યાદ કરીએ તો રઘુવીર ચૌધરી, યોગેશ જોષી અને ગુલામ મહંમદ શેખનાં નામ તુરંત જ યાદ આવે. બીજાઓએ પણ કંઈક લખ્યું હશે, પણ આ તો તુરંત જે નામ યાદ આવ્યાં તે ટપકાવ્યાં. કવિ યોગેશ જોશી તો એમની કવિતામાં આ જેસલમેરના કિલ્લાના ઝરૂખા વિશે કહે છે,\n\n‘ને તે છતાંયે ઝરૂખા છે...!\nહવામાં ઝૂલતા ઝરૂખાઓ\nઝરૂખામાં ઝૂરે\nઊડે ઊતરી ગયેલી\nઝાંખ વળેલી\nટમટમતી આંખો...!’",
+       "markers": [
+        "[[પડાવ: ફોટોગ્રાફીની સફર — ડિસેમ્બરના દિવસો અને કવિતાના ઝરૂખા]]",
+        "[[અવતરણ-કાવ્ય: ગદ્યની અંદર ટાંકેલી કાવ્યપંક્તિઓ — યોગેશ જોષી]]"
+       ],
+       "source_lines_00_normalized": "29-39",
+       "concepts": [
+        {
+         "concept_id": "M2.S3.T4.C5",
+         "concept_name": "ડિસેમ્બરની ઠંડીમાં આયોજનપૂર્વકનું દૃશ્યમય ફરવું",
+         "objective_id": "O4",
+         "key_terms": [],
+         "content": []
+        },
+        {
+         "concept_id": "M2.S3.T4.C6",
+         "concept_name": "કવિની પંક્તિઓમાં ઝૂરતા ઝરૂખા",
+         "objective_id": "O4",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "અહીંથી લેખક પોતાની સફર એટલે કે પ્રવાસની વાત માંડે છે. ડિસેમ્બરની ઠંડીમાં એ ફોટોગ્રાફી માટે જેસલમેર ગયા અને ચારેક દિવસ ત્યાં રહ્યા. રણની રાત ઠંડી અને દિવસ વહેલો પૂરો થાય, એટલે ફરવાનું આયોજનપૂર્વક એટલે કે ગોઠવણ કરીને કરવું પડે. આખું શહેર એટલું દૃશ્યમય છે કે જ્યાં નજર જાય ત્યાં ફોટો પડે, અને એ જ કારણે કવિઓએ પણ એના પર લખ્યું છે — લેખક કવિ યોગેશ જોશીની ઝરૂખા વિશેની પંક્તિઓ અહીં ટાંકે છે.",
+       "word_count": {
+        "original": 123,
+        "modified": 72
+       },
+       "key_terms": [
+        "સફર — પ્રવાસ, મુસાફરી",
+        "આયોજનપૂર્વક — પહેલેથી ગોઠવણ કરીને, નક્કી કરેલી રીતે",
+        "દૃશ્યમય — જ્યાં નજર જાય ત્યાં જોવા જેવું; ચિત્ર જેવું",
+        "ટપકાવવું — ટૂંકમાં નોંધી લેવું, લખી લેવું",
+        "ઝૂરવું — કોઈની રાહ જોતાં દુ:ખી થઈને ઝંખવું",
+        "ઝાંખ — આંખે ઓછું દેખાય તેવું ધૂંધળાપણું"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      },
+      {
+       "topic_id": "M2.S3.T5",
+       "topic_name": "રેતીના ઢૂવા અને રાજસ્થાની આતિથ્ય",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O5"
+       ],
+       "original_chunk": "જેસલમેરથી જ સેન્ડ ડ્યૂન તરીકે ઓળખાતા રેતીના ઢૂવાઓ જોવા જઈ શકો. ડિસેમ્બરના દિવસો હતા એટલે હું જેસલમેરમાં ફરતાં ફરતાં મારી ઘડિયાળ જોતો રહ્યો હતો. મારે અહીંના સૂર્યાસ્તનો સમય નોંધવો હતો કારણ કે મારી ઇચ્છા બીજા દિવસે જ્યારે હું એ સેન્ડ ડ્યૂન જાઉં ત્યારે ત્યાં ફોટોગ્રાફી કરવાની ઇચ્છા હતી. જેસલમેરમાં બધે રખડતાં - ભટકતાં પહેલાં રાજસ્થાની આતિથ્યનો અનુભવ થતો જ રહેતો હતો, ‘કેસરિયા બાલમા, પધારો મોરે દેશ’ રાવણહથ્થો કે સારંગી જેવાં વાદ્ય સાથે ત્યાં અનેક લોકોને રાજસ્થાની ગીતો ગાતાં સાંભળ્યાં, ‘માંડ’ના સ્વરો તો આ ગીતોમાં સાંભળવા મળે જ.",
+       "markers": [
+        "[[પડાવ: સેન્ડ ડ્યૂન, રાજસ્થાની આતિથ્ય અને 'માંડ'ના સ્વરો]]"
+       ],
+       "source_lines_00_normalized": "42",
+       "concepts": [
+        {
+         "concept_id": "M2.S3.T5.C7",
+         "concept_name": "સૂર્યાસ્તનો સમય નોંધીને ઢૂવાની તૈયારી",
+         "objective_id": "O5",
+         "key_terms": [],
+         "content": []
+        },
+        {
+         "concept_id": "M2.S3.T5.C8",
+         "concept_name": "રાવણહથ્થાના સૂરે સંભળાતું રાજસ્થાની આતિથ્ય",
+         "objective_id": "O5",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "લેખક જણાવે છે કે જેસલમેરથી સેન્ડ ડ્યૂન એટલે કે રેતીના ઢૂવા જોવા જઈ શકાય. બીજા દિવસે ત્યાં ફોટોગ્રાફી કરવી હતી, એટલે એ ફરતાં ફરતાં ઘડિયાળ જોઈને સૂર્યાસ્તનો સમય નોંધતા રહ્યા. શહેરમાં રખડતાં-ભટકતાં એમને રાજસ્થાની આતિથ્ય એટલે કે મહેમાનગતિનો અનુભવ સતત થતો રહ્યો. રાવણહથ્થો કે સારંગી જેવાં વાદ્ય સાથે ગવાતાં લોકગીતોમાં એમને ‘માંડ’ના સ્વરો સંભળાય છે.",
+       "word_count": {
+        "original": 87,
+        "modified": 55
+       },
+       "key_terms": [
+        "આતિથ્ય — મહેમાનનો સત્કાર, મહેમાનગતિ",
+        "વાદ્ય — વગાડવાનું સાધન, વાજિંત્ર",
+        "રાવણહથ્થો — રાજસ્થાનનું તાર અને ગજથી વગાડાતું લોકવાદ્ય",
+        "સારંગી — ગજથી વગાડાતું તારવાળું વાદ્ય",
+        "માંડ — રાજસ્થાની લોકગાયકીનો એક ઢાળ; (અહીં) એ ઢાળના સ્વરો ગીતોમાં સંભળાય છે"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M2.S4",
+     "segment_name": "બીજા દિવસની સવાર અને મનમાં વસેલો કિલ્લો",
+     "topics": [
+      {
+       "topic_id": "M2.S4.T6",
+       "topic_name": "બીજા દિવસની સવાર અને રંગોનો પ્રદેશ",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "core",
+       "difficulty": "easy",
+       "depends_on": [
+        "M2.S3.T5"
+       ],
+       "objective_ids": [
+        "O6"
+       ],
+       "original_chunk": "બીજા દિવસે સવારના પહોરમાં આસપાસના પરિવેશને ધમરોળવા નીકળી પડ્યો. જેસલમેરના આ પરિવેશને જોતાં અનેક ફિલ્મોનાં દૃશ્યો યાદ આવ્યાં.\n\nરાજસ્થાન એટલે રંગોનો પ્રદેશ એમ કહું તો પણ ચાલે. અહીંના લોકો અને તેમાં પણ ખાસ કરીને સ્ત્રીઓ તો અદ્ભુત રંગબેરંગી કપડાં પહેરે અને એ બધા રંગો તેમને શોભે પણ ખરા !\n\nરાજસ્થાની સ્ત્રી બીજા રાજ્યની સ્ત્રીઓથી થોડી જુદી તરી આવે તેનું કારણ તેમનું કાઠું છે. તે સુંદર પણ એટલી જ. ખાસ તો એમની આંખો અત્યંત આકર્ષક. એમાંય એ ગાતી કે નૃત્ય કરતી હોય ત્યારનો તેમનો ઠસ્સો જોવા જેવો હોય છે. ‘કેસરિયા બાલમા, પધારો મોરે દેશ... જેસલમેરમાં આવાં દૃશ્યો તમને અનેક જગ્યાએ જોવા મળે.",
+       "markers": [
+        "[[પડાવ: બીજા દિવસની સવાર — રંગોનો પ્રદેશ]]"
+       ],
+       "source_lines_00_normalized": "45, 47, 51",
+       "concepts": [
+        {
+         "concept_id": "M2.S4.T6.C9",
+         "concept_name": "સવારના પરિવેશમાં ઊઘડતો રંગોનો પ્રદેશ",
+         "objective_id": "O6",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "બીજા દિવસે વહેલી સવારે લેખક આસપાસનો પરિવેશ એટલે કે વાતાવરણ ધમરોળવા નીકળી પડે છે અને એમને અનેક ફિલ્મોનાં દૃશ્યો યાદ આવે છે. પછી એ કહે છે કે રાજસ્થાન એટલે રંગોનો પ્રદેશ — અહીંના લોકો, ખાસ કરીને સ્ત્રીઓ, રંગબેરંગી કપડાં પહેરે છે અને એ રંગો એમને શોભે પણ છે. લેખકને રાજસ્થાની સ્ત્રીનું કાઠું એટલે કે શરીરનો બાંધો, એની આંખો અને ગાતાં કે નૃત્ય કરતાં દેખાતો ઠસ્સો જુદો લાગે છે.",
+       "word_count": {
+        "original": 101,
+        "modified": 68
+       },
+       "key_terms": [
+        "પરિવેશ — આસપાસનું વાતાવરણ, ઘેરાવો",
+        "પહોર — દિવસ કે રાતનો એક ભાગ; (અહીં) ‘સવારના પહોરમાં’ એટલે વહેલી સવારે",
+        "ધમરોળવું — ખૂણેખૂણો ફરી વળવું, ફેંદી વળવું",
+        "કાઠું — શરીરનો બાંધો",
+        "ઠસ્સો — ભભકો, રોફ",
+        "અદ્ભુત — નવાઈ પમાડે તેવું, ખૂબ સુંદર"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      },
+      {
+       "topic_id": "M2.S4.T7",
+       "topic_name": "મનમાં વસેલો સોનાનો કિલ્લો",
+       "topic_type": "REVIEW",
+       "topic_category": "resolution",
+       "difficulty": "easy",
+       "depends_on": [],
+       "objective_ids": [
+        "O7"
+       ],
+       "original_chunk": "જેસલરમેર જેટલું બહાર દેખાય છે તેટલું જ મારા મનમાં વસેલું છે. એક એવો વિચાર પણ આવે કે આ શહેરના રાજવીએ સોનાનો કિલ્લો બાંધ્યો છે. તે કેટલાં વર્ષોથી ઝળહળે છે. જેસલમેરનો સોનાનો કિલ્લો સમગ્ર વિશ્વમાં આપણી કલાસમૃદ્ધિનું શિખર છે.",
+       "markers": [
+        "[[પડાવ: સોનાનો કિલ્લો — કલાસમૃદ્ધિનું શિખર]]"
+       ],
+       "source_lines_00_normalized": "54",
+       "concepts": [
+        {
+         "concept_id": "M2.S4.T7.C10",
+         "concept_name": "બહાર દેખાતું અને મનમાં વસેલું જેસલમેર",
+         "objective_id": "O7",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "છેલ્લે લેખક પોતાની વાત સંકેલે છે. જેસલમેર બહારથી જેટલું દેખાય છે, એટલું જ એ એમના મનમાં પણ વસી ગયું છે. એમને વિચાર આવે છે કે આ શહેરના રાજવીએ સોનાનો કિલ્લો બાંધ્યો છે, જે વર્ષોથી ઝળહળે છે. લેખક કહે છે કે આ કિલ્લો આખા વિશ્વમાં આપણી કલાસમૃદ્ધિનું શિખર એટલે કે સૌથી ઊંચું ઉદાહરણ છે.",
+       "word_count": {
+        "original": 38,
+        "modified": 53
+       },
+       "key_terms": [
+        "રાજવી — રાજા",
+        "ઝળહળવું — તેજથી ચમકવું",
+        "કલાસમૃદ્ધિ — કળાની સમૃદ્ધિ, કળાનો મોટો ખજાનો",
+        "શિખર — ટોચ; (અહીં) સૌથી ઊંચું ઉદાહરણ",
+        "સમગ્ર — આખું, બધું"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "not_cut_as_topics": [
+  "[[એકમ-શીર્ષક]] '15 / સોનાનો કિલ્લો' અને [[લેખક-નામ]] '- અભિજિત વ્યાસ' — છપાયેલી header-પંક્તિઓ, વાચનદૃશ્ય નથી. લેખક-પંક્તિ પાઠને અંતે નહિ પણ શીર્ષકની નીચે છપાઈ છે, એટલે એ કોઈ topic ના original_chunk માં નથી — Agent 5 માટે નોંધ. પહેલા પાનાની જમણી ટોચનો QR બૅજ (કોડ N7G3L5) header furniture છે (reference/explanation_unit_map.md).",
+  "[[પ્રવેશપેટી]] — વાદળી ખાનું, શિક્ષક-સંબોધિત apparatus. સ્વરૂપ-નિદાનનું સૌથી મજબૂત પ્રમાણ ('બાળકોમાં નિબંધનું અને પ્રવાસવર્ણનનું કૌશલ્ય ખીલે એ માટે માર્ગદર્શક બની શકે એવો આ નિબંધ છે.') પણ topic નથી; key_terms, ભાષા-બોધ અને Agent 10 ને પોષે છે — એ જ ખાનું std-7 P1 'ચાલો, નિબંધ લખીએ' સાથેની કડી પણ આપે છે.",
+  "[[શબ્દાર્થ]] ખાનું (પંદર શબ્દ: અભયારણ્ય … ઠસ્સો) — apparatus; key_terms અને point-of-use gloss ને પોષે છે, topic નથી. 01_meta.json ની માપેલી નોંધ સાથે લઈ જવી: તળપ્રદેશ, કર્ણપ્રિય અને પરિધાન પાઠના ગદ્યમાં ક્યાંય આવતા નથી, અને વ્યૂહાત્મક સામે છપાયેલો અર્થ પાઠના વાક્યના અર્થ સાથે મળતો નથી. છપાયું છે તેમ જ રાખવું, ચૂપચાપ સુધારવું નહિ.",
+  "વાચનસામગ્રીની અંદરની બે [[ચિત્ર]] નિશાનીઓ (છપાયેલાં પાનાં સો અને એકસો એક) — કૅપ્શન વગરનાં જળરંગી ચિત્રો. Topic નથી; Agent 9 માટે દૃશ્ય-સંકેત છે (patra_pravas.md: છપાયેલું ચિત્ર કદી topic ખોલતું નથી).",
+  "અગિયાર ક્રમાંકિત સ્વાધ્યાય ખંડ — 01_meta.json ના exercise_inventory માં જ રહે છે, Agent 10 નું કામ. બે ખંડ પોતાની અંદર વાચનસામગ્રી છાપે છે — સાતમો ખંડ સાબરમતીનો અપરિચિત ફકરો, અગિયારમો ખંડ 'પ્રવાસ જાહેરાત'નું ખાનું — અને ચોથો ખંડ એક રંગીન તસવીર છાપે છે. એમાંનું કશું કોઈ original_chunk માં કદી ન આવે (patra_pravas.md avoid-gate 13).",
+  "[[આટલું જાણીએ]] પાઠાંતે માહિતી-પેટી (રજત · સુવર્ણ · હીરક-મણિ · અમૃત · શતાબ્દી જયંતીની સીડી) — વાચનસામગ્રી નથી, સ્વાધ્યાય પણ નથી; topic નથી.",
+  "[[અવતરણ-કાવ્ય]] — યોગેશ જોષીની છ ટાંકેલી પંક્તિઓ. પોતાનું topic નથી; M2.S3.T4 ની અંદર જ રહે છે (નીચેની નોંધ જુઓ)."
+ ],
+ "notes": [
+  "કાપ સ્વરૂપના એકમ પ્રમાણે જ છે: patra_pravas → 'એક પડાવ'. 00_chapter_normalized.md ની સાત [[પડાવ]] નિશાનીઓ સામે સાત topics — એક નિશાની, એક topic. કોઈ નિશાની ગળી નથી અને નિશાની વગરનું કોઈ topic ઊભું કર્યું નથી. 01_meta.json નું structure_inventory.padav = 7 આ ગણતરી સાથે બરાબર મળે છે; kadi/duha/pad/ghatna/tek બધા શૂન્ય છે અને એ માપેલી હકીકત છે.",
+  "profile prior સાથે કોઈ મતભેદ નથી. reference/explanation_unit_map.md ની પત્ર/પ્રવાસ હરોળ std-7 ch 15 સોનાનો કિલ્લો ને નામ સાથે ટાંકે છે, અને લખાણ એ જ બતાવે છે. Reorder test પણ ટકે છે — 'બીજા દિવસે સવારના પહોરમાં…' પહેલા દિવસ પહેલાં છાપી શકાય નહિ — એટલે mahitiprad_gadya નહિ; અને પ્રથમ પુરુષ હોવા છતાં નિબંધનો વિષય જેસલમેર છે, લેખક નહિ, એટલે nibandh_atmaparak પણ નહિ.",
+  "[[અવતરણ-કાવ્ય]] ની છ પંક્તિઓ M2.S3.T4 ના original_chunk ની અંદર જ રહે છે. કારણ ત્રણ: (ક) 01_meta.json એ આ પ્રકરણને mixed ગણ્યું નથી અને બહારનું સ્વરૂપ જ કાપ નક્કી કરે છે; (ખ) patra_pravas.md કહે છે કે 'A digression stays inside its પડાવ' અને એવા વળાંક માટે concepts[] વાપરવું; (ગ) 'કવિ યોગેશ જોષી તો એમની કવિતામાં … કહે છે,' એ પંક્તિ પોતે જ અવતરણને એ પડાવ સાથે બાંધે છે. તેથી એ POEM topic બનતું નથી, પણ T4 નું બીજું concept (M2.S3.T4.C6) બને છે. Agent 5 માટે: પંક્તિઓનો ક્રમ અને શબ્દો છપાયા છે તેમ જ રહે, ફરી ગોઠવવા કે 'સુધારવા' નહિ (01_meta.json).",
+  "Agent 5 માટે લીટી-નોંધ. M1.S2.T3 નું લખાણ 00_chapter_normalized.md ની લીટી 20, 22 અને 24 — એક જ પડાવના ત્રણ છપાયેલા ફકરા. M2.S4.T6 નું લખાણ લીટી 45, 47 અને 51 છે: વચ્ચે લીટી 49 પર [[ચિત્ર]] નિશાની આવે છે કારણ કે છપાયેલું ચિત્ર કૉલમને વચ્ચેથી તોડે છે — એ નિશાની છોડીને ત્રણેય ફકરા એક જ topic માં લેવા. M2.S3.T4 નું લખાણ લીટી 29, 31 અને 34-39 (અવતરણની છ પંક્તિ) છે.",
+  "Modules બે છે અને એ નિબંધની બે મોટી ચાલ છે: પહેલામાં શહેર ઓળખાય છે અને વર્ણવાય છે (રાજસ્થાનની બીજી ઓળખ → સર્જકોનું ખેંચાણ → કિલ્લો ને કોતરણી), બીજામાં લેખક પોતાની ડિસેમ્બરની સફર માંડે છે અને એને સમેટે છે (ઝરૂખા ને કવિતા → ઢૂવા ને આતિથ્ય → રંગોની સવાર → સમાપન). 'એક વખત રાજસ્થાનની ફોટોગ્રાફીની સફરે ગયેલો' એ જ વાક્ય બંને વચ્ચેની સંધિ છે, એટલે M2.S3.T4 નું topic_category 'transition' રાખ્યું છે. Segment, topic અને concept counters આખા પ્રકરણમાં ચાલુ રહે છે, ફરી શરૂ થતા નથી.",
+  "ત્રણ topics ને બે-બે concepts આપ્યાં છે અને ચારને એક-એક. M1.S2.T3 ખરેખર બે વસ્તુ કરે છે — કિલ્લા ને ઘરોની કોતરણીનું વર્ણન, અને પછી 'આપણા લોકોએ તેને બગાડી પણ છે' વાળો લેખકનો ખેદ, જે નિબંધનું અલગ ટકતું વલણ છે. M2.S3.T4 પણ બે કરે છે — ડિસેમ્બરની સફરનું આયોજન અને દૃશ્યમય શહેર, અને પછી કવિની ટાંકેલી પંક્તિઓ. M2.S3.T5 પણ બે — સૂર્યાસ્તનો સમય નોંધવાની તૈયારી, અને રખડતાં-ભટકતાં મળતું આતિથ્ય ને 'માંડ'ના સ્વરો. બાકીના ચાર પડાવ એક જ વસ્તુ કરે છે. કોઈ topic ને ત્રણ concepts નથી.",
+  "topic_type વિશે, અને એ ખુલ્લી નોંધ છે. આ સ્વરૂપમાં ઘટના-સાંકળ પણ નથી અને વળાંક પણ નથી (patra_pravas.md, 'Why one profile'), એટલે M1.S1.T1 અને M1.S1.T2 ને CONCEPT આપ્યું છે — એ નિબંધ જે માહિતી માંડે છે તે છે; M1.S2.T3 થી M2.S4.T6 ને STORY_TELLING આપ્યું છે — એ લેખકનું પોતાનું જોયેલું-સાંભળેલું સ્મરણ છે; અને M2.S4.T7 ને REVIEW આપ્યું છે, કારણ કે છેલ્લો ફકરો પોતે જ પ્રકરણનું મૂલ્ય-સમાપન છે ('જેસલમેરનો સોનાનો કિલ્લો સમગ્ર વિશ્વમાં આપણી કલાસમૃદ્ધિનું શિખર છે.'). Agent 4 / Agent 13 માટે વૈકલ્પિક વાચન નોંધું છું: M2.S4.T7 ને સાદો છેલ્લો પડાવ ગણીને STORY_TELLING પણ આપી શકાય. છુપાવ્યા વગર નોંધ્યું; આ blocking નથી.",
+  "કોઈ topic નું topic_category 'climax' નથી — આ સ્વરૂપને વળાંક હોતો નથી, અને patra_pravas.md નો છઠ્ઠો avoid-gate એ જ ભૂલ સામે ચેતવે છે.",
+  "difficulty આ પ્રકરણની અંદર સાપેક્ષ છે અને std-7 ના બીજી-ભાષાના વાચકને પાના પર જે અટકાવે તેનાથી નક્કી કરી છે — કારીગરીથી કદી નહિ. hard બે છે: M1.S2.T3 (સૌથી લાંબો પડાવ, સ્થાપત્ય-શિલ્પકળા-બાંધણી-કોતરણી જેવો તત્સમ ભાર, અદ્ભુત/વિશિષ્ટ/અનેરું જેવા જોડાક્ષર, અને એક જ વાક્યમાં આનંદ ને દુ:ખ બંને) અને M2.S3.T4 (ગદ્યની વચ્ચે અચાનક આવતી કાવ્યપંક્તિઓ — ઝૂરે, ઝાંખ વળેલી, ટમટમતી — જે જુદો જ સૂર માગે છે). easy બે છે: M2.S4.T6 અને M2.S4.T7, ટૂંકાં અને સીધાં વાક્યો. બાકીના ત્રણ medium.",
+  "depends_on માં માત્ર એક જ સાચી નિર્ભરતા છે: M2.S4.T6 'બીજા દિવસે સવારના પહોરમાં…' થી શરૂ થાય છે, અને 'બીજો દિવસ' M2.S3.T5 માં જ નક્કી થયો હતો ('મારી ઇચ્છા બીજા દિવસે જ્યારે હું એ સેન્ડ ડ્યૂન જાઉં ત્યારે ત્યાં ફોટોગ્રાફી કરવાની ઇચ્છા હતી'). બાકીના છ topics નું depends_on ખાલી છે અને એ સાચો જવાબ છે.",
+  "Objectives સાત છે — વાચનદૃશ્ય દીઠ એક, બધાં આ પ્રકરણની પોતાની છપાયેલી પંક્તિઓમાંથી. std 6-8 ની craft-label ceiling પળાઈ છે: કોઈ અલંકાર, છંદ, સમાસ કે સાહિત્યપ્રકારનું નામ ક્યાંય નથી — બાળક જોવાનું અને શોધવાનું કરે છે, નામ પાડવાનું નહિ. બધાં lens 'પડાવ + દૃષ્ટિ + સંબોધન' ને સેવે છે અને દરેક ચકાસી શકાય એવું છે. કોઈ પણ objective બીજા પ્રકરણમાં બંધબેસતું નથી.",
+  "એક માપેલી ગેરહાજરી, Agent 12 અને Agent 13 માટે. patra_pravas.md નો ત્રીજો avoid-gate પહેલા topic ના explanation માં 'કોણ કોને લખે છે અને કયા સંબંધે' નામ પાડવાનું માગે છે — એ gate Shape A (પત્ર) માટે લખાયો છે. આ પ્રકરણ Shape B છે અને એમાં કોઈ સંબોધન છપાયું નથી: પ્રથમ પુરુષનું ગદ્ય છે, નામવાળો વાચક નથી. lens ની 'સંબોધન' કડી અહીં લેખકના પોતાના 'હું' અવાજથી અને પુસ્તકે પોતે આપેલા લેખનકાર્યથી ('તમે કરેલા પ્રવાસનું વર્ણન કરતો પત્ર તમારા મિત્રને લખો.') સચવાય છે. gate પૂરો કરવા માટે કોઈ કાલ્પનિક સંબોધક ઊભો ન કરવો — ગેરહાજરી નોંધવી એ જ સાચો જવાબ છે (reference/no_hallucination_policy.md).",
+  "લંબાઈની અસમતુલા, Agent 13 માટે નોંધ. M1.S1.T2, M2.S3.T5 અને M2.S4.T7 એક-એક છપાયેલા ફકરાના છે, જ્યારે M1.S2.T3, M2.S3.T4 અને M2.S4.T6 ત્રણ-ત્રણ ફકરા ચાલે છે; M2.S4.T7 સૌથી ટૂંકું છે. છતાં દરેકને પોતાનું topic રાખ્યું છે, કારણ કે દરેક જગ્યાએ લેખક જગ્યા બદલે છે અથવા વાત બદલે છે — અને એ જ આ સ્વરૂપની કાપ-રેખા છે. M1.S2.T3 એકલું પોતાનું segment રાખે છે કારણ કે કિલ્લો અને એની કોતરણી આખા નિબંધનું કેન્દ્ર છે અને શીર્ષક ત્યાંથી જ આવે છે.",
+  "સંવેદનશીલતા આગળ લઈ જવી (01_meta.json ની નોંધ પ્રમાણે). M2.S4.T6 રાજસ્થાની સ્ત્રીઓના કાઠા, આંખો, કપડાં અને ઠસ્સાનું વર્ણન ધરાવે છે — એ મુલાકાતી ફોટોગ્રાફરની પોતાની પ્રશંસાભરી નજર છે, કોઈ સમુદાય વિશેનું સામાન્ય વિધાન નહિ; objective એ જ રીતે લખ્યું છે ('લેખકને … કેવાં લાગ્યાં'). M1.S2.T3 નો 'આપણા લોકોએ તેને બગાડી પણ છે' લેખકનો નાગરિક-ખેદ છે, સ્થળ કે લોકો વિશેનો બોધ નહિ; objective માં એને 'એમનો ખેદ' કહીને લેખકને જ આરોપિત કર્યો છે (patra_pravas.md, અગિયારમો gate).",
+  "original_chunk બધા topics માં ખાલી છે — એ Agent 5 નું કામ છે. અહીં કોઈ explanation, real_life_example, summary કે recall question લખાયું નથી.",
+  "Agent 5: original_chunk for all seven topics is a transcription read off the 150 dpi renders _renders/page-1.png (printed 99), page-2.png (printed 100) and page-3.png (printed 101), cross-checked line by line against 00_chapter_normalized.md. Every [[…]] marker line was stripped; no સ્વાધ્યાય block, no શબ્દાર્થ box, no પ્રવેશપેટી and no [[ચિત્ર]] caption entered any chunk.",
+  "Agent 5 / provenance: the author line '- અભિજિત વ્યાસ' is printed under the chapter title on printed page 99, not at the chapter end, so per 04_validation.json it sits in NO topic's original_chunk. Confirmed against page-1.png.",
+  "TRANSCRIPTION DEFECT 1 (00_chapter_normalized.md line 37, verse inside M2.S3.T4) — normalized reads 'ઊડી ઊતરી ગયેલી'; the printed page (page-2.png, printed 100) reads 'ઊડે ઊતરી ગયેલી'. Verified at high zoom: the mark after ડ is an ે above the letter, not a ી stroke to its right (compare 'ઘડીએ' on page-1.png), and there is no અનુસ્વાર over the ઊ, so it is not 'ઊંડે' either. original_chunk carries the printed form 'ઊડે'. Agent 1 should repair 00_chapter_normalized.md; this is reported, not silently patched.",
+  "TRANSCRIPTION DEFECT 2 (00_chapter_normalized.md line 31, inside M2.S3.T4) — the book prints the poet's surname TWO different ways on the same printed page 100: 'યોગેશ જોષી' (ષ) in the list of poets, and 'કવિ યોગેશ જોશી' (શ) in the sentence that introduces the quoted lines. 00_chapter_normalized.md normalised both to 'જોષી'. original_chunk carries both spellings exactly as printed. શ/ષ is lexical in Gujarati and this is a printed inconsistency of the textbook, to be reported to the class, never corrected in the verbatim.",
+  "TRANSCRIPTION DEFECT 3 (00_chapter_normalized.md line 54, M2.S4.T7) — the book prints 'જેસલરમેર જેટલું બહાર દેખાય છે' (an extra ર) on printed page 101; 00_chapter_normalized.md silently corrected it to 'જેસલમેર'. original_chunk carries the printed 'જેસલરમેર'. This is a printed typo of the GSEB edition, a printed fact to be reported (the same way 04_validation.json reports the વ્યૂહાત્મક gloss mismatch), never silently corrected. Agents 12 and 13 must handle it as a printed-page fact and must not teach the misspelling as the city's name.",
+  "Agent 5 / typography: the book sets its quotation marks as ‘ … ’ (U+2018/U+2019); 00_chapter_normalized.md flattened them to the ASCII apostrophe. original_chunk carries the printed ‘ ’ per reference/gujarati_verbatim.md §6 ('the quotation marks the textbook uses'). The unclosed opening ‘ before 'કેસરિયા બાલમા, પધારો મોરે દેશ...' on printed page 101 is preserved unclosed, as printed. Justification-driven wide inter-word gaps (verse line one; after 'એટલી જ.') are typesetting, not text, and are set as single spaces.",
+  "Agent 5 / verse: only the six quoted lines (00_chapter_normalized.md lines 34-39) enter M2.S3.T4's original_chunk, in printed order, as six separate lines, held inside the topic after its two prose paragraphs. The [[અવતરણ-કાવ્ય]] marker line is scaffolding and was stripped.",
+  "Agent 5 / key_terms: 5-6 per topic, inside the 3-6 band and at the std-7 row of reference/shabd_gloss.md (4-6). Two printed શબ્દાર્થ glosses were NOT copied verbatim because they do not gloss the sense this chapter's body uses: the box gives 'સહેલાણી — આનંદી માણસ' where the body means a visitor who has come to look at the birds, and 'વ્યૂહાત્મક — સર્વ સ્થળે ફેલાઈને રહેલું વિશાળ' which 04_validation.json already flagged as not matching the body sentence. Both are glossed here at the point of use and the printed box is left untouched for Agent 10. The box entries તળપ્રદેશ, કર્ણપ્રિય and પરિધાન occur nowhere in the body prose and so are in no topic's key_terms.",
+  "Agent 5 / content types: every one of the seven topics is a પડાવ, and profiles/genres/patra_pravas.md §Priors sets 'one image per પડાવ, in the order the text moves'. All seven therefore carry primary_content_type 'image' with available_content_types ['image']; secondary and tertiary are null everywhere, since no second medium is planned at this stage. Agent 9 owns the prompts, the one-sentence depiction test, and the at-most-one 2d_tool (a route strip for this chapter would be the permitted shape); a topic whose scene fails that test should be dropped to [] by Agent 9, not filled here. The chapter's two printed watercolour illustrations (page-2.png top, page-3.png middle) and the સ્વાધ્યાય desert-sunset photograph are page matter and open no topic.",
+  "Agent 5 / context routing: reference/field_shape_rules.md is cited by this agent's spec for the key_terms band but was not supplied in this run's context. The band used (3-6, std-7 sitting at 4-6) is the one stated in the agent spec itself and in reference/shabd_gloss.md; no value was guessed from the unsupplied file."
+ ],
+ "source_structure": "02_structure.json (ids, names, objectives and tree passed through untouched; convergence certified by 04_converged.json sha256 2c61ee434ef2b0a8462adc4f4fbda20c0f40e50fce37fbc11593e0798cc8c561)"
+}

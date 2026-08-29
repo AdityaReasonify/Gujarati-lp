@@ -1,6 +1,18 @@
 {
-  "in_progress": 11,
+  "in_progress": null,
   "done": [
+    {
+      "chapter": 12,
+      "status": "complete-lp2-pending"
+    },
+    {
+      "chapter": 14,
+      "status": "complete-lp2-pending"
+    },
+    {
+      "chapter": 7,
+      "status": "complete"
+    },
     {
       "chapter": 1,
       "status": "complete-lp2-pending"
@@ -32,6 +44,22 @@
     {
       "chapter": 6,
       "status": "complete"
+    },
+    {
+      "chapter": 10,
+      "status": "complete-lp2-pending"
+    },
+    {
+      "chapter": 11,
+      "status": "complete-lp2-pending"
+    },
+    {
+      "chapter": 15,
+      "status": "complete"
+    },
+    {
+      "chapter": 13,
+      "status": "complete-lp2-pending"
     }
   ]
 }

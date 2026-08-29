@@ -1,0 +1,569 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch6",
+  "plan_id": "gseb_eng_gujarati8_ch6_v1",
+  "chapter_name": "પીડ પરાઈ જાણે રે !",
+  "grade": 8,
+  "genre": "ચરિત્રલેખ",
+  "active_genre_profiles": [
+    "charitra_prasang.md"
+  ],
+  "explanation_unit": "એક જીવન-પ્રસંગ",
+  "teaching_lens": "પ્રસંગ + સ્વભાવ + મૂલ્ય",
+  "guiding_question": "નરસિંહ મહેતાના જીવનની કઈ ઘટનાઓ અને એમનાં પદોની કઈ પંક્તિઓ પરથી ખબર પડે છે કે તેઓ ગુજરાતના આદિ કવિ અને સાચા ભક્ત હતા ?",
+  "counts": {
+    "modules": 4,
+    "segments": 4,
+    "topics": 8,
+    "concepts": 12,
+    "objectives": 8,
+    "ghatna_markers_in_00": 8,
+    "topics_carrying_a_ghatna_marker": 8
+  },
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8"
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "નરસિંહ મહેતાનાં માતા-પિતાનું અવસાન વહેલું થયું અને દાદીમાએ તેમને ઉછેર્યા – એ પછી બોલતાં શીખ્યા ને કવિ બન્યા, એ કયો ચમત્કાર ગણાવાયો છે તે શોધવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ભાભીના મેણા પછી નરસિંહ વનમાં જઈ શિવાલયમાં કઈ સાધના કરી, અને પાછા ફર્યા ત્યારે તેમનામાં કયો ફેરફાર આવ્યો તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "નરસિંહ મહેતા કયું પ્રભાતિયું ગાતાં જતા હશે તેની કલ્પના પાઠ કરાવે છે, અને પોતાનાં પદોમાં પોતાનું નામ વણી લેતા નરસિંહને કેમ આદિ કવિ કહે છે તે પંક્તિઓ પરથી શોધવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": [
+        "M2.S2.T3.C3",
+        "M2.S2.T3.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દુન્યવી કામોમાં નરસિંહને રસ ન પડવાથી ઘરનો વ્યવહાર કોણ સંભાળતું, અને ગાંધીજીને એમનું કયું પદ સૌથી વધુ ગમ્યું ને શા માટે તે શોધીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": [
+        "M2.S2.T4.C5",
+        "M2.S2.T4.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઈર્ષ્યાળુ લોકોએ યાત્રાળુઓને નરસિંહ પાસે કેમ મોકલ્યા, અને ભોળિયા ભક્ત નરસિંહે કોને નામે હૂંડી લખી આપી તે ઘટના પરથી કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S3.T5",
+      "anchor": [
+        "M3.S3.T5.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કુંવરબાઈનું મામેરું કોણે ભર્યું, અને દીવાન સારંગ મહેતાએ કાન ભંભેરવાથી રાજા રા'માંડલિકે નરસિંહને કેદમાં કેમ નાખ્યા ને છેવટે કેમ મુક્ત કર્યા તે ઘટનાઓ પરથી કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S3.T6",
+      "anchor": [
+        "M3.S3.T6.C8",
+        "M3.S3.T6.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઊંચનીચના ભેદ છતાં નરસિંહ મહેતા દરેકને ઘરે ભજન કરવા કેમ જતા, અને એમના જ શબ્દોની બે પંક્તિઓ પરથી એમનો સ્વભાવ કેવો દેખાય છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M4.S4.T7",
+      "anchor": [
+        "M4.S4.T7.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "નરસિંહ મહેતાએ કયાં-કયાં પદોમાં પોતાના જીવનના પ્રસંગો ગૂંથ્યા છે, અને જૂનાગઢ જઈએ તો કયાં બે સ્થળો જોવાનું ચૂકવા ના પાડે છે તે લખાણ પરથી કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M4.S4.T8",
+      "anchor": [
+        "M4.S4.T8.C11",
+        "M4.S4.T8.C12"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "ઉછેર અને પરિવર્તનની વેળા",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "જન્મ, ઉછેર અને વનની સાધના",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "બોલવાનું મોડું ને કવિતાનો ચમત્કાર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "આદિ કવિ નરસિંહ મહેતાનું નામ ન સાંભળ્યું હોય એવો જણ ગુજરાતમાં તો ભાગ્યે જ જડે ! તેઓ પંદરમા શતકમાં થઈ ગયા. નરસિંહ મહેતાનો જન્મ તળાજામાં થયેલો પરંતુ તેઓ જૂનાગઢમાં સ્થાયી થયેલા. તેમનાં માતાનું નામ દયાકોર અને પિતાનું નામ કૃષ્ણદામોદર હતું. તેઓ માત્ર પાંચ વર્ષના હતા ત્યારે જ તેમનાં માતા-પિતાનું અવસાન થયેલું. બાળ નરસિંહને દાદીમા જયગૌરીએ ઉછેર્યો હતો. નરસિંહ મહેતાની પત્નીનું નામ માણેક હતું. તેમને એક પુત્ર અને પુત્રી હતાં. પુત્રનું નામ શામળ અને પુત્રીનું નામ કુંવરબાઈ. કહેવાય છે કે છેક આઠ વર્ષની ઉંમર સુધી નરસિંહ બોલતાં શીખ્યા નહોતા પરંતુ બોલતા થયા પછી જે ચમત્કાર થયો એ જેવોતેવો નથી. એ ચમત્કાર કયો ? ગુજરાતને એક મહાન કવિ મળ્યા તે ચમત્કાર !",
+              "source_marker": "[[ઘટના: પરિચય — આદિ કવિ નરસિંહ મહેતાનો જન્મ અને ઉછેર]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "દાદીમાનો ઉછેર અને મોડે બોલવાનો ચમત્કાર",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "નરસિંહ મહેતાનો જન્મ તળાજામાં થયો હતો, પણ તેઓ જૂનાગઢમાં સ્થાયી (કાયમ માટે વસવાટ કરેલું) થયા. તેઓ પાંચ વર્ષના હતા ત્યારે જ માતા-પિતાનું અવસાન (મૃત્યુ) થયું, એટલે દાદીમા જયગૌરીએ તેમને ઉછેર્યા. કહેવાય છે કે નરસિંહ આઠ વર્ષની ઉંમર સુધી બોલતાં શીખ્યા નહોતા, પણ પછી બોલતાં થઈને એ ગુજરાતના એક કવિ બન્યા.",
+              "word_count": {
+                "original": 110
+              },
+              "key_terms": [
+                "જણ — માણસ, વ્યક્તિ (તળપદો શબ્દ)",
+                "શતક — સો વર્ષનો ગાળો",
+                "સ્થાયી — કાયમ માટે વસવાટ કરેલું, સ્થિર થયેલું",
+                "અવસાન — મૃત્યુ, દેહાંત",
+                "ભાગ્યે જ — બહુ જ ઓછું, ક્વચિત્ જ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "ભાભીના મેણાથી વનની સાધના",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "એકવાર નરસિંહને ભાભીએ મેણું માર્યું એટલે તેઓ વનમાં ગયા. એક શિવાલયમાં રહીને ભગવાનની ઉપાસના કરી. એ સાધનાથી જાણે ચમત્કાર થયો, પાછા ફર્યા ત્યારે નરસિંહ બદલાઈ ગયા હતા. એમની આર્થિક સ્થિતિ તો નબળી જ રહી પરંતુ હંમેશાં એ પ્રસન્ન રહેતા અને પ્રભુભક્તિમાં લીન રહેતા. દરરોજ સવારે પ્રભાતિયાં ગાતાં ગાતાં જૂનાગઢના દામોદરકુંડમાં નાહવા જતા હતા.",
+              "source_marker": "[[ઘટના: ભાભીનું મેણું અને વનની સાધના]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "મેણાથી સાધના સુધીનું પરિવર્તન",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "એકવાર ભાભીએ મેણું (ટોણો) માર્યું, એટલે નરસિંહ વનમાં જઈને એક શિવાલયમાં ભગવાનની ઉપાસના (ભક્તિ) કરવા લાગ્યા. પાછા ફર્યા ત્યારે તેઓ બદલાઈ ગયા હતા — આર્થિક સ્થિતિ નબળી જ રહી, છતાં તેઓ હંમેશાં પ્રસન્ન (ખુશ) રહેતા અને પ્રભુભક્તિમાં લીન રહેતા. દરરોજ સવારે પ્રભાતિયું ગાતાં ગાતાં તેઓ જૂનાગઢના દામોદરકુંડમાં નાહવા જતા.",
+              "word_count": {
+                "original": 53
+              },
+              "key_terms": [
+                "મેણું — મહેણું, ટોણો (દુઃખ પહોંચે એવું મર્મવચન)",
+                "ઉપાસના — ભક્તિ, પૂજા",
+                "આર્થિક — પૈસા-સંબંધી",
+                "પ્રસન્ન — ખુશ, રાજી",
+                "પ્રભાતિયું — સવારમાં ગાવાનું એક પ્રકારનું પદ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "ભક્તિ અને પદોની ખ્યાતિ",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "પ્રભાતિયાં અને 'વૈષ્ણવજન'ની ખ્યાતિ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "પ્રભાતિયાં ગાતા નરસૈયો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M1.S1.T2"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "\"જાગને જાદવા કૃષ્ણ ગોવાળિયા, તુજ વિના ધેનમાં કોણ જાશે ?\" જેવું કોઈ ને કોઈ પ્રભાતિયું ગાતાં ગાતાં એ જતા હશે ત્યારે કેવું સરસ દૃશ્ય રચાતું હશે !\nનરસિંહ મહેતાને સૌ પ્રેમથી 'નરસૈયો' કહે છે. એ નામ એમણે પોતે પોતાનાં પદોમાં વાપર્યું છે. \"ભણે નરસૈયો એનું દર્શન કરતાં કુળ એકોતેર તાર્યાં રે!\" ને એવી જ બીજી પંક્તિ \"નરસૈયાના નાથ પાસેથી નાગણે નાગ છોડાવિયો\" ક્યાં અજાણી છે ?\nનરસિંહ મહેતા આદિ કવિ કહેવાયા. તમે \"જળકમળ છાંડી જાને બાળા\" કે \"વૈષ્ણવજન તો તેને રે કહીએ\" હોય કે પછી, \"મારી હૂંડી સ્વીકારો મહારાજ રે, શામળા ગિરધારી!\" જેવી પંક્તિઓ ક્યાંક ને ક્યાંક સાંભળી હશે. રેડિયો કે ટીવી પરથી નરસિંહનાં પ્રભાતિયાં પ્રસારિત થતાં હોય છે.",
+              "source_marker": "[[ઘટના: પ્રભાતિયાં અને 'નરસૈયો' છાપ]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "પ્રભાતિયું અને 'નરસૈયો' છાપ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S2.T3.C4",
+                  "concept_name": "આદિ કવિ તરીકે સંભળાતી પંક્તિઓ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "નરસિંહ મહેતા રોજ સવારે પ્રભાતિયું ગાતાં ગાતાં નહાવા જતા, અને પોતાનાં પદોમાં પોતાનું નામ 'નરસૈયો' વાપરતા. તેમની 'ભણે નરસૈયો…' જેવી પંક્તિઓ આજે પણ જાણીતી છે, અને એટલે જ તેમને આદિ (પ્રારંભના, પહેલવહેલા) કવિ કહેવાય છે. તેમનાં પ્રભાતિયાં આજેય રેડિયો-ટીવી પર સંભળાય છે.",
+              "word_count": {
+                "original": 109
+              },
+              "key_terms": [
+                "જાદવા — યાદવ (કૃષ્ણ); લય સાચવવા કવિએ વાપરેલું જૂનું રૂપ, ભૂલ નથી.",
+                "ધેન — ગાય, ગોધન",
+                "નાથ — સ્વામી, માલિક",
+                "છોડાવિયો — 'છોડાવ્યો' માટે; લય માટે કવિએ શબ્દનું જૂનું રૂપ વાપર્યું છે.",
+                "કુળ એકોતેર (તાર્યાં) — 'આખા કુળની એકોતેર પેઢી તારી' — ભક્તિનો મહિમા બતાવતો જૂનો શબ્દપ્રયોગ",
+                "આદિ — પહેલું, પ્રારંભનું"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "ગાંધીજીને ગમેલું 'વૈષ્ણવજન' પદ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "નરસિંહ મહેતાને જીવનમાં અનેક વિપત્તિઓનો સામનો કરવો પડેલો. નાનપણથી જ તેમને ભક્તિનો રંગ લાગેલો. એટલે દુન્યવી કામોમાં એમને રસ ન પડતો. એમના ઘરના બધા વ્યવહાર પત્ની માણેક જ સંભાળતી.\nનરસિંહનું \"વૈષ્ણવજન તો તેને રે કહીએ\" પદ રાષ્ટ્રપિતા ગાંધીજીને બહુ ગમતું. એમણે એ પદને જગવિખ્યાત બનાવી દીધું. ગાંધીબાપુને નરસિંહ મહેતાના આ પદમાં વૈષ્ણવજનનું જે ગુણવર્ણન મળ્યું એના પર તેઓ વારી ગયા. ખુદ ગાંધીજી પણ વૈષ્ણવજન જ હતા ને ! ભગવદ્ ગીતામાં દૈવી સંપત્તિના ગુણો દર્શાવવામાં આવ્યા છે, આ જ ગુણોની વાત નરસિંહ મહેતા સીધીસાદી ભાષામાં વૈષ્ણવજન તો તેને રે કહીએ જે પીડ પરાઈ જાણે રે\"માં કરે છે ! સાચો ભારતીય કોણ એ સમજવું હોય તો પણ આ પદમાં વૈષ્ણવજનના જે ગુણો આપ્યા છે એ વાંચવા-સમજવા પડે.\nનરસિંહ મહેતાની રચનાઓની વિશેષતાઓ ઘણી છે, એ સરસ રીતે ગાઈ પણ શકાય છે અને એમાંથી કંઈ ને કંઈ સમજવા પણ મળે છે.",
+              "source_marker": "[[ઘટના: જીવનની વિપત્તિઓ અને 'વૈષ્ણવજન' પદની ખ્યાતિ]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C5",
+                  "concept_name": "દુન્યવી કામોમાં અરસ, ઘરવ્યવહાર પત્નીને હસ્તક",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S2.T4.C6",
+                  "concept_name": "ગાંધીજીને ગમેલું અને જગવિખ્યાત બનેલું 'વૈષ્ણવજન' પદ",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "નરસિંહ મહેતાને નાનપણથી જ ભક્તિનો રંગ લાગેલો હોવાથી દુન્યવી (સંસારી) કામોમાં તેમને રસ નહોતો પડતો, અને ઘરનો બધો વ્યવહાર પત્ની માણેક જ સંભાળતાં. તેમનું 'વૈષ્ણવજન તો તેને રે કહીએ' પદ ગાંધીજીને એટલું ગમ્યું કે તેમણે એ પદને જગવિખ્યાત (આખી દુનિયામાં જાણીતું) બનાવી દીધું. આ પદમાં વર્ણવેલા વૈષ્ણવજનના ગુણો ભગવદ્ ગીતામાં કહેલા દૈવી ગુણો જેવા જ છે.",
+              "word_count": {
+                "original": 137
+              },
+              "key_terms": [
+                "વિપત્તિ — મુશ્કેલી, સંકટ",
+                "દુન્યવી — સંસારી",
+                "જગવિખ્યાત — આખી દુનિયામાં જાણીતું",
+                "ગુણવર્ણન — ગુણોનું વર્ણન, સારા સ્વભાવની વાત",
+                "વારી જવું — ખૂબ પ્રેમથી ઓવારણાં લેવાં, મુગ્ધ થઈ જવું",
+                "દૈવી સંપત્તિ — ઈશ્વરીય, સારા ગુણોનો સમૂહ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "ચમત્કારભરી લોકકથાઓ",
+      "segments": [
+        {
+          "segment_id": "M3.S3",
+          "segment_name": "હૂંડી, મામેરું અને કેદ",
+          "topics": [
+            {
+              "topic_id": "M3.S3.T5",
+              "topic_name": "શામળશા શેઠને નામે હૂંડી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "નરસિંહ મહેતાના જીવનની અનેક કથાઓ ગુજરાતભરમાં જાણીતી છે. એમાંની કેટલીક આપણે જોઈએ. મહેતાજીની ઈર્ષ્યા કરનારા લોકોએ કેટલાક અજાણ્યા યાત્રાળુઓને નરસિંહ મહેતા પાસે એમ કહીને મોકલ્યા કે જાઓ નરસિંહ તો મોટા શેઠ છે. એમની ઘણી પેઢીઓ છે. એ તમને દ્વારિકા માટે હૂંડી લખી આપશે. પેલા યાત્રાળુઓ તો નરસિંહ પાસે આવ્યા. નરસિંહ તો રહ્યા ભોળિયા ભક્ત. એમણે તો શામળશા શેઠને નામે હૂંડી લખી દીધી. આ શામળશા શેઠ તે બીજા કોઈ નહિ, સ્વયં શામળિયા ભગવાન ! શામળશા બનીને ભગવાન આવેલા એ કથા ખૂબ જ જાણીતી છે.",
+              "source_marker": "[[ઘટના: શામળશા શેઠની હૂંડી]]",
+              "concepts": [
+                {
+                  "concept_id": "M3.S3.T5.C7",
+                  "concept_name": "ઈર્ષ્યાળુ યાત્રાળુઓ અને શામળશા શેઠને નામે લખેલી હૂંડી",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "ઈર્ષ્યાળુ (ઈર્ષ્યા કરનારા) લોકોએ કેટલાક અજાણ્યા યાત્રાળુઓને એમ કહીને નરસિંહ મહેતા પાસે મોકલ્યા કે નરસિંહ મોટા શેઠ છે અને દ્વારિકા માટે હૂંડી લખી આપશે. ભોળિયા ભક્ત નરસિંહે તો શામળશા શેઠને નામે હૂંડી લખી દીધી. કહેવાય છે કે એ શામળશા શેઠ બીજું કોઈ નહિ, પણ સ્વયં શામળિયા ભગવાન હતા.",
+              "word_count": {
+                "original": 83
+              },
+              "key_terms": [
+                "ઈર્ષ્યાળુ — ઈર્ષ્યા કરનાર, બળતરા કરનાર",
+                "યાત્રાળુ — તીર્થયાત્રા કરનાર માણસ",
+                "પેઢી — (અહીં) વેપારનું મથક, દુકાન",
+                "હૂંડી — દેશ-વિદેશમાં નાણાંની આપલે કરવા માટે ચલાવવામાં આવતી શાહુકારી ચિઠ્ઠી",
+                "ભોળિયા — સીધાસાદા, સહેલાઈથી માની જાય એવા"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M3.S3.T6",
+              "topic_name": "કુંવરબાઈનું મામેરું અને રાજાની કેદ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "એવી જ રીતે નરસિંહ મહેતાની દીકરી કુંવરબાઈનું મામેરું સ્વયં ભગવાને ભર્યું હતું એ લોકકથા પણ જાણીતી છે. નરસિંહ મહેતાની કીર્તિ અપાર હતી. એ જોઈને ઈર્ષ્યાથી બળતા જૂનાગઢના દીવાન સારંગ મહેતાએ તેમના વિરુદ્ધ રાજા રા'માંડલિકના કાન ભંભેર્યા હતા. રાજાએ ખોટા આરોપસર નરસિંહ મહેતાને કેદમાં નંખાવ્યા હતા, પરંતુ મહેતાજી જરાય વિચલિત ન થયા. કેદમાં પણ તેઓ પ્રભુભક્તિ કરતા રહ્યા. આખરે રાજાની આંખ ખૂલી, તેમને સત્ય સમજાયું અને નરસિંહ મહેતાની માફી માગીને એમને મુક્ત કર્યા હતા !",
+              "source_marker": "[[ઘટના: કુંવરબાઈનું મામેરું અને રા'માંડલિકની કેદ]]",
+              "concepts": [
+                {
+                  "concept_id": "M3.S3.T6.C8",
+                  "concept_name": "કુંવરબાઈનું મામેરું",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S3.T6.C9",
+                  "concept_name": "રા'માંડલિકની કેદ અને મુક્તિ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "કહેવાય છે કે નરસિંહ મહેતાની દીકરી કુંવરબાઈનું મામેરું (દીકરીના મોસાળ તરફથી અપાતી લગ્ન-ભેટ) સ્વયં ભગવાને ભર્યું હતું. તેમની કીર્તિ (નામના) જોઈને ઈર્ષ્યાથી બળતા દીવાન સારંગ મહેતાએ રાજા રા'માંડલિકના કાન ભંભેર્યા (ખોટી વાત કરી ઉશ્કેર્યા), એટલે રાજાએ નરસિંહને ખોટા આરોપસર કેદમાં નંખાવ્યા. કેદમાં પણ નરસિંહ પ્રભુભક્તિ કરતા રહ્યા, અને છેવટે રાજાને સત્ય સમજાતાં તેમણે માફી માગીને નરસિંહને મુક્ત કર્યા.",
+              "word_count": {
+                "original": 74
+              },
+              "key_terms": [
+                "મામેરું — લગ્ન વખતે દીકરીના મોસાળ તરફથી અપાતી ભેટ-સામગ્રી",
+                "કીર્તિ — નામના, પ્રસિદ્ધિ",
+                "દીવાન — રાજાનો મુખ્ય કારભારી, પ્રધાન",
+                "કાન ભંભેરવા — ચાડીચુગલી કરી ઉશ્કેરવું",
+                "વિચલિત — ડગી ગયેલું, મન ડહોળાયેલું"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M4",
+      "module_name": "સ્વભાવ અને કવન-વારસો",
+      "segments": [
+        {
+          "segment_id": "M4.S4",
+          "segment_name": "સમદર્શી ભક્તિ અને પદ-વારસો",
+          "topics": [
+            {
+              "topic_id": "M4.S4.T7",
+              "topic_name": "ઊંચનીચ વિનાની ભજન-પ્રીતિ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "નરસિંહ મહેતા સાચા ભક્ત હતા એનું દૃષ્ટાંત પણ જાણીતું છે. એ જમાનામાં સમાજમાં ઊંચનીચના ભેદ હતા, પરંતુ નરસિંહ મહેતા એ બધાથી પર હતા. કોઈ પણ માણસ આવીને એમને ભજન માટે આમંત્રણ આપે તો તેઓ પ્રેમથી એને ઘરે ભજન કરવા જતા. આથી કેટલાક લોકો તેમના પર રોષ ઠાલવતા અને તેમને અપમાનિત કરવાની એક પણ તક જતી ન કરતા પરંતુ નરસિંહ તો દરેક મનુષ્યમાં ભગવાન જોનારા હતા ! એ તો કહેતા -\n\"એવા રે અમે એવા રે, વળી તમે કહો છો તેવા રે !\nભક્તિ કરતાં જો ભ્રષ્ટ કહેશો તો કરશું દામોદરની સેવા રે !\"",
+              "source_marker": "[[ઘટના: સૌમાં ભગવાન જોવાની ટેવ]]",
+              "concepts": [
+                {
+                  "concept_id": "M4.S4.T7.C10",
+                  "concept_name": "સૌમાં ભગવાન જોનારો સ્વભાવ",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "એ જમાનામાં સમાજમાં ઊંચનીચના ભેદ હોવા છતાં નરસિંહ મહેતા એ બધાથી પર હતા, અને કોઈ પણ માણસ ભજન માટે બોલાવે તો તેઓ પ્રેમથી તેને ઘરે ભજન કરવા જતા. આને લીધે કેટલાક લોકો તેમના પર રોષ ઠાલવતા (ગુસ્સો કરતા) અને તેમનું અપમાન કરવાની તક જતી ન કરતા, પણ નરસિંહ તો દરેક માણસમાં ભગવાન જોતા. તેઓ પોતે જ કહેતા કે ભક્તિ કરવાને લીધે ભ્રષ્ટ કહેવાય તોપણ તેઓ દામોદરની સેવા કરતા રહેશે.",
+              "word_count": {
+                "original": 93
+              },
+              "key_terms": [
+                "દૃષ્ટાંત — ઉદાહરણ, દાખલો",
+                "ઊંચનીચના ભેદ — ઊંચ-નીચ ગણવાનો ભેદભાવ",
+                "રોષ ઠાલવવો — ગુસ્સો ઠાલવવો, ગુસ્સે થવું",
+                "અપમાનિત — અપમાન કરાયેલું, અનાદર પામેલું",
+                "ભ્રષ્ટ — ધર્મભ્રષ્ટ, નિયમ તોડનાર ગણાય એવું",
+                "કરશું — 'કરીશું' માટે; જૂનું ક્રિયાપદ-રૂપ, ભૂલ નથી."
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M4.S4.T8",
+              "topic_name": "નરસિંહનાં પદો અને જૂનાગઢનો વારસો",
+              "topic_type": "CONCEPT",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O8"
+              ],
+              "original_chunk": "નરસિંહ મહેતાનાં પદો સરળ છે એટલાં જ ગહન પણ છે. તેમણે ઝૂલણા છંદમાં અનેક રચનાઓ કરી હતી. 'વસંતનાં પદ', 'કૃષ્ણલીલા', 'ભક્તિબોધ', 'હાર', 'હૂંડી', 'મોસાળું', 'વિવાહ' અને 'શ્રાદ્ધ' જેવાં પદોમાં તેમણે પોતાના જીવનના પ્રસંગો નિરૂપ્યા છે. 'સુદામાચરિત' પણ એમની જાણીતી રચના છે.\nઆપણા સૌના આ લાડકા કવિ નરસિંહ મહેતા ગુજરાતનું અણમોલ રત્ન છે ! તમે જૂનાગઢ જાઓ તો દામોદર કુંડ અને નરસિંહ મહેતાનો ચોરો જોવાનું ભૂલતા નહીં.",
+              "source_marker": "[[ઘટના: પદ-રચનાઓ અને સમાપન]]",
+              "concepts": [
+                {
+                  "concept_id": "M4.S4.T8.C11",
+                  "concept_name": "જીવનપ્રસંગો ગૂંથતાં પદોની યાદી",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M4.S4.T8.C12",
+                  "concept_name": "જૂનાગઢની મુલાકાત અને સમાપન-અપીલ",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "નરસિંહ મહેતાએ 'વસંતનાં પદ', 'કૃષ્ણલીલા', 'હૂંડી', 'મોસાળું' જેવાં અનેક ગાઈ શકાય એવાં પદો રચ્યાં, જેમાં તેમણે પોતાના જીવનના પ્રસંગો નિરૂપ્યા (વર્ણવ્યા) છે. 'સુદામાચરિત' પણ તેમની જાણીતી રચના છે. ચરિત્રલેખના અંતે વાચકને જૂનાગઢ જઈને દામોદર કુંડ અને નરસિંહ મહેતાનો ચોરો અવશ્ય જોવાની અપીલ કરવામાં આવી છે.",
+              "word_count": {
+                "original": 66
+              },
+              "key_terms": [
+                "ગહન — ઊંડું, સમજવામાં અઘરું",
+                "નિરૂપ્યા — આલેખ્યા, વર્ણવ્યા",
+                "લાડકા — વહાલા, પ્રિય",
+                "અણમોલ રત્ન — અમૂલ્ય ઝવેરાત; અહીં ખૂબ કીમતી વ્યક્તિ માટે વપરાયેલો શબ્દપ્રયોગ",
+                "ચોરો — ગામમાં સહુને બેસવાની જગા, મોટો ઓટલો"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "MARKER PARITY, RECONCILED AGAINST 01_meta.json — 00_chapter_normalized.md carries exactly EIGHT [[ઘટના: …]] reading markers (grep-verified: lines 11, 15, 19, 27, 35, 39, 43, 50) and this cut produces exactly eight topics, one per marker, in printed order; each topic records its marker verbatim in `source_marker`. This is deliberately NOT the same number as 01_meta.json's `structure_inventory.ghatna: 5` — that field is Agent 1's own narrower count of 'distinct named legends' (per its extraction_notes: the eight-year-silence, the bhabhi's taunt, the hundi, the mameru, the imprisonment) and explicitly folds the other three marked blocks (the intro/family facts, the daily prabhatiyu habit + fame paragraphs, and the closing pad-list) into 'biographical scaffolding, not separately counted as ghatna'. Agent 2's rule is 'one marker, one topic' (agents/02_structure.md §1), not 'one legend, one topic', so all eight printed [[ઘટના: …]] markers are cut as topics here. Agent 4 should count against the marker total (8), not the summary figure (5); flagged so the two numbers are not read as a missed marker.",
+    "APPARATUS DELIBERATELY NOT CUT — [[પ્રવેશપેટી (શિક્ષક માટે — વાચન-દૃશ્ય નથી)]] is explicitly marked by Agent 1 as not a reading scene (unlike std-10's student-facing કવિ-પરિચય paragraph), so this chapter carries NO pre-reading CONCEPT topic. [[શબ્દાર્થ (પરિશિષ્ટ પેટી)]] and [[ચર્ચા-વિચારણા (પેટી — સ્વાધ્યાય નથી)]] are likewise apparatus, not topics — they feed key_terms and Agent 12's guidance only. The fourteen [[સ્વાધ્યાય: …]] markers (two unnumbered pre-blocks — શબ્દસમૂહ માટે એક શબ્દ., રૂઢિપ્રયોગ. — plus twelve numbered pink blocks, 1.–12.) all stay in 01_meta.json's `exercise_inventory` for Agent 10; none is a topic.",
+    "EXERCISE-EMBEDDED TEXT EXCLUDED FROM THE ઘટના CHAIN — per profiles/genres/_genre_index.md item 5 and 01_meta.json's own extraction_notes: the Mahatma Gandhi letter paragraph inside સ્વાધ્યાય block 9 ('જે ન આવે તેને ઘેર જજો…'), the mock shop-bill of block 10 ('મનમોહક પૂજાપા ભંડાર'), the સુભાષિત of block 3 ('શેરીમિત્રો સો મળે…'), and the રવિશંકર મહારાજ passage of block 12 (the L1-translation paragraph) are all exercise-internal reading matter — none may enter any topic's `original_chunk`. Block 5, ''નાગદમન' કાવ્ય મેળવીને ગાઓ.', asks the child to find a DIFFERENT poem that is not printed anywhere in this chapter; nothing of it exists to cut.",
+    "TWO-CONCEPT TOPICS — four of the eight topics genuinely do two separable things: M2.S2.T3 moves from his own daily singing practice and self-naming ('નરસૈયો') to his broader fame as આદિ કવિ evidenced by three more widely-known pad-openings and their radio/TV reach; M2.S2.T4 moves from a private-life fact (no interest in worldly affairs, wife ran the household) to the public fame of one specific pad through Gandhiji; M3.S3.T6 combines two distinct printed લોકકથા — કુંવરબાઈનું મામેરું and રા'માંડલિકની કેદ — under one marker because the page runs them together in one paragraph ('એવી જ રીતે…'); M4.S4.T8 moves from the list of pada-compositions to the closing appeal to visit Junagadh's landmarks. The other four topics (T1, T2, T5, T7) hold one cohesive પરિસ્થિતિ→કૃત્ય→પરિણામ arc each and were not split further. The concept counter is chapter-continuous, C1…C12, and is NOT equal to the topic number after T3 (documented behaviour per reference/phase2_contract.md and reference/naming_conventions.md).",
+    "depends_on IS SPARSE ON PURPOSE — only one genuine textual back-reference is recorded: M2.S2.T3 opens by imagining the daily prabhatiyu-singing scene that M1.S1.T2's own closing sentence first states ('દરરોજ સવારે પ્રભાતિયાં ગાતાં ગાતાં જૂનાગઢના દામોદરકુંડમાં નાહવા જતા હતા'); without that established routine, T3's opening 'કેવું સરસ દૃશ્ય રચાતું હશે !' has nothing to point at. Every other topic opens on a fresh situation ('એકવાર…', 'નરસિંહ મહેતાને જીવનમાં…', 'નરસિંહ મહેતાના જીવનની અનેક કથાઓ…', 'એવી જ રીતે…', 'નરસિંહ મહેતા સાચા ભક્ત હતા…') — connective phrasing like 'એવી જ રીતે' and 'પણ જાણીતું છે' is a discourse link between successive લોકકથા, not the kind of real dependence (a changed-words refrain on its first occurrence, a વળાંક on the ઘટના that set it up) the field is for, so M3.S3.T5, M3.S3.T6 and M4.S4.T7 all carry [].",
+    "CRAFT-LABEL CEILING HELD — no objective_text, topic_name, segment_name, module_name or concept_name names an અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર. The chapter's own text names 'ઝૂલણા છંદ' inside M4.S4.T8's printed content ('તેમણે ઝૂલણા છંદમાં અનેક રચનાઓ કરી હતી'), but that term is deliberately kept OUT of O8's objective_text and out of every name in this file — std 8 experiences the form and never names it (profiles/students/std-8.md §1, 'Name it after you've met it'; reference/teaching_lens_map.md's craft-naming gate). It survives only inside the future `original_chunk`, Agent 5's territory.",
+    "SENSITIVITY (ધર્મ / ચમત્કાર) — this chapter is measured by charitra_prasang.md as the corpus's own example of avoid-gate 11 ('a printed ચમત્કાર asserted, or debunked'): M1.S1.T1's 'ચમત્કાર' framing, M1.S1.T2's 'એ સાધનાથી જાણે ચમત્કાર થયો', the હૂંડી legend (M3.S3.T5) and કુંવરબાઈનું મામેરું (M3.S3.T6.C8) are all reported the way the ચરિત્રલેખ itself reports them — as a living bhakti tradition's own account, quoted with 'કહેવાય છે' / 'એ કથા ખૂબ જ જાણીતી છે' / 'એ લોકકથા પણ જાણીતી છે' framing in the source, never asserted as verified history and never corrected as myth. M3's module name 'ચમત્કારભરી લોકકથાઓ' mirrors the chapter's own 'લોકકથા' self-description (T5, T6) rather than asserting historicity; the word 'ચમત્કાર' inside M1.S1.T1's and M1.S1.T2's own names is grounded in that exact word appearing in those topics' printed text. Flagged here for Agent 8 to carry forward, not resolved by this file.",
+    "VERBATIM QUOTATIONS FLAGGED FOR AGENT 5 — five fragments plus one two-line couplet are quoted inside this prose and must be transcribed character-for-character, never corrected or modernised (pad_bhajan.md's never-correct rule applies inside their prose topic per charitra_prasang.md's own precedent for THIS chapter): 'જાગને જાદવા કૃષ્ણ ગોવાળિયા, તુજ વિના ધેનમાં કોણ જાશે ?' and 'ભણે નરસૈયો એનું દર્શન કરતાં કુળ એકોતેર તાર્યાં રે!' and 'નરસૈયાના નાથ પાસેથી નાગણે નાગ છોડાવિયો' inside M2.S2.T3; the pad-title phrases 'જળકમળ છાંડી જાને બાળા', 'વૈષ્ણવજન તો તેને રે કહીએ' and 'મારી હૂંડી સ્વીકારો મહારાજ રે, શામળા ગિરધારી!' inside M2.S2.T3 and M2.S2.T4 (the printed quotation-mark irregularity on 'વૈષ્ણવજન…પીડ પરાઈ જાણે રે\"માં' inside M2.S2.T4 is kept exactly as 01_meta.json's extraction_notes record it — not repaired); and the couplet 'એવા રે અમે એવા રે, વળી તમે કહો છો તેવા રે ! ભક્તિ કરતાં જો ભ્રષ્ટ કહેશો તો કરશું દામોદરની સેવા રે !' inside M4.S4.T7. All of these topics keep `rhyme_scheme: null` at emit — this is prose, and the quoted verse never becomes a POEM topic of its own (explanation_unit_map.md).",
+    "topic_type — seven of eight topics are STORY_TELLING (narrated પ્રસંગ or લોકકથા). M4.S4.T8 is CONCEPT because it is a dated/named facts-cluster (a list of pada-compositions plus a closing place-recommendation), not a narrated act with a પરિસ્થિતિ→કૃત્ય→પરિણામ arc — matching charitra_prasang.md's own precedent, 'a dated facts-cluster is a legitimate topic where the chapter is built of facts', and std-7 ch 7's identical use of CONCEPT for its ફિલ્મ-અને-સન્માન facts-topic. No REVIEW topic exists: the chapter prints no separate in-text wrap: its closing sentences sit inside M4.S4.T8's own reading scene. Agents 14/15 map STORY_TELLING and CONCEPT alike to the closed server enum 'instructional'.",
+    "DIFFICULTY IS L2-READING DIFFICULTY, RELATIVE INSIDE THIS CHAPTER — hard: M2.S2.T3 and M2.S2.T4 (medieval quoted pad-lines and જોડાક્ષર-dense proper nouns, plus M2.S2.T4's ભગવદ્ ગીતા / દૈવી સંપત્તિ conceptual load), M4.S4.T7 (the quoted archaic couplet). medium: M1.S1.T1 (a dense cluster of family proper nouns — તળાજા, જૂનાગઢ, દયાકોર, કૃષ્ણદામોદર, જયગૌરી, માણેક, શામળ, કુંવરબાઈ — in one paragraph), M3.S3.T5 (trade vocabulary — હૂંડી, પેઢી, દ્વારિકા), M3.S3.T6 (two legends' worth of proper nouns — દીવાન સારંગ મહેતા, રા'માંડલિક), M4.S4.T8 (a dense list of pada titles). easy: M1.S1.T2, plain narrative with no medieval quotation. No topic is hard for a craft reason — std 8 names no અલંકાર/છંદ — and difficulty caps no topic's Bloom ceiling: three objectives (O4, O6, O7) reach Analyze despite two of their home topics being 'hard'.",
+    "topic_category — exactly one climax (M2.S2.T4), because the chapter's own title 'પીડ પરાઈ જાણે રે !' is the printed line from the very pad this topic teaches, and the topic is where that pad's national fame (via ગાંધીજી) is stated — the argumentative peak of a ચરિત્રલેખ whose whole point (per its own પ્રવેશપેટી) is to show why this poet matters. M1.S1.T2 is marked transition (the sadhana that changes who Narsinh is), M4.S4.T8 is resolution (the chapter's own closing appeal), and the remaining five topics are core after the introduction (M1.S1.T1).",
+    "No printed person-section heading exists in this chapter (unlike std-10 ch 5's '(1) ત્રિભુવનદાસ પટેલ'), so charitra_prasang.md's person-section half of the cutting rule does not apply — only the ઘટના half does, and the page's own eight [[ઘટના: …]] markers are the whole cut.",
+    "FOR AGENT 5 — every `original_chunk` is deliberately empty. Topic boundaries are the [[ઘટના: …]] marker lines of 00_chapter_normalized.md: each topic's chunk runs from the paragraph after its own marker up to (not including) the next marker line, with M4.S4.T8's chunk ending at the chapter's final printed sentence ('તમે જૂનાગઢ જાઓ તો દામોદર કુંડ અને નરસિંહ મહેતાનો ચોરો જોવાનું ભૂલતા નહીં.') before the [[શબ્દાર્થ]] box.",
+    "RENDERS NOT RE-READ — 00_chapter_normalized.md and its extraction_notes answered every question this cut needed (layout, quotation-mark convention, apparatus boundaries, the printed punctuation irregularity). No PNG under _renders was opened.",
+    "AGENT 5 — original_chunk on all eight topics is copied verbatim from 00_chapter_normalized.md by [[ઘટના: …]] marker range (each topic runs from the line after its own marker up to the line before the next marker of any kind), markers stripped, blank-line paragraph breaks preserved as single \\n joins, verse line breaks inside quoted material kept as printed. Reproduced programmatically from the source file (not re-typed) to remove transcription risk on this pass; the resulting strings were then read back and checked word-for-word.",
+    "AGENT 5 — VERIFIED AGAINST THE RENDER, not spot-checked. _renders/page-1.png and page-2.png (printed folios 46-47) were opened and read in full: this chapter's entire reading text — all eight [[ઘટના: …]] topics, start to finish — sits on these two pages only; folios 48-52 (page-3.png … page-7.png) carry the [[શબ્દાર્થ]] appendix box and the fourteen [[સ્વાધ્યાય: …]] blocks, none of which is copied into any original_chunk, so they were not re-verified pixel-by-pixel on this pass. Every paragraph of all eight topics was read against the render and matches 00_chapter_normalized.md exactly, including: the family-name cluster of M1.S1.T1 (તળાજામાં, જયગૌરીએ, કૃષ્ણદામોદર); the three quoted pad-fragments and their છાપ inside M2.S2.T3 ('જાગને જાદવા…', 'ભણે નરસૈયો…', 'નરસૈયાના નાથ…') and the three pad-title quotations that follow; the printed quotation-mark irregularity inside M2.S2.T4 ('...વૈષ્ણવજન તો તેને રે કહીએ જે પીડ પરાઈ જાણે રે\"માં કરે છે !' — a closing double-quote with no matching opening quote before 'વૈષ્ણવજન', reproduced exactly as printed, not repaired); 'દ્વારિકા' and 'શામળિયા' in M3.S3.T5; the apostrophe in \"રા'માંડલિકના\" in M3.S3.T6; and the two-line couplet quoted inside M4.S4.T7 ('એવા રે અમે એવા રે…' / 'ભક્તિ કરતાં જો ભ્રષ્ટ…'), kept as two verse lines with the opening double-quote before line 1 and the closing double-quote after line 2 only, matching the render's layout. NO TRANSCRIPTION DEFECT was found anywhere in these eight chunks: 00_chapter_normalized.md matches the render exactly at every line checked, so nothing was corrected and nothing is flagged back to Agent 1.",
+    "AGENT 5 — key_terms: 5-6 per topic (all eight topics), inside the 3-6 contract band and at the std-8 row of reference/shabd_gloss.md (4-6, sitting high in the band, L2 bar lower than a first-language pack's). The printed શબ્દાર્થ box (આદિ, પ્રભાતિયું, જણ, લહેર, નાથ, હૂંડી, વિખ્યાત, વારી જવું, ચોરો, દુન્યવી) was used as evidence only, per shabd_gloss.md's own warning that it is 'written for a class that already speaks the language' and 'sits at the chapter's end, after the child has already stopped': eight of its ten head-words are glossed here because they genuinely appear inside a topic's original_chunk at the point where the gloss is needed (જણ→T1, પ્રભાતિયું→T2, નાથ/આદિ→T3, હૂંડી→T5, ચોરો→T8, દુન્યવી→T4, વારી જવું→T4), while 'લહેર' is correctly OMITTED everywhere — it never actually occurs in the chapter's reading text (grep-verified against 00_chapter_normalized.md), only in the appendix box, so there is no point of use to gloss it at. 'વિખ્યાત' itself is not repeated as a separate key_term where 'જગવિખ્યાત' (T4) already carries it. The printed રૂઢિપ્રયોગ pre-block ('લહે લાગવી', 'આંખ ખૂલવી', 'કાન ભંભેરણી કરવી') is evidence for the T6 gloss of 'કાન ભંભેરવા' but was not copied wholesale into key_terms — per global_content_rules.md #7 and author.md, રૂઢિપ્રયોગ blocks belong to Agent 10 and the ભાષા-બોધ fields, not to key_terms.",
+    "AGENT 5 — કાવ્ય-રૂપ named as licence, not corrected, exactly where 02_structure.json's own note flagged the five quoted pad-fragments: M2.S2.T3's key_terms explain 'જાદવા' (= યાદવ/કૃષ્ણ) and 'છોડાવિયો' (= 'છોડાવ્યો') as the poet's own old forms kept for લય, never as errors; M4.S4.T7's key_terms explain 'કરશું' (= 'કરીશું') the same way inside the quoted couplet. 'કુળ એકોતેર (તાર્યાં)' is glossed as the idiom it is (એકોતેર = 71 generations' worth of ancestors said to be redeemed by one devotee's devotion), following the chapter's own 'કહેવાય છે' framing rather than asserting it as fact.",
+    "AGENT 5 — modified_chunk: two to four (three, on all eight topics) plain શું-થઈ-રહ્યું-છે sentences in simple શિષ્ટ ગુજરાતી, hardest words glossed inline in parentheses, deliberately NOT the teaching. Charitra_prasang.md's hard avoid-gates were held on every topic: no reverential epithet is added beyond what the chapter itself prints (M4.S4.T8's 'લાડકા'/'અણમોલ રત્ન' restate the chapter's own words rather than adding new praise); no unstated thought, feeling or motive is attributed to નરસિંહ (M1.S1.T2 and M1.S1.T2 stay to what he DID — went to the forest, worshipped, stayed content — never what he 'felt'); the ચમત્કાર material of M1.S1.T1, M1.S1.T2, M3.S3.T5 and M3.S3.T6 is reported with the chapter's own 'કહેવાય છે' hedge, never asserted as verified history and never debunked (avoid-gate 11); M4.S4.T7's couplet is paraphrased in third person, never slipped into an unquoted first person (avoid-gate 7); and no topic closes on an added 'આપણે પણ…જોઈએ' moral not printed in the chapter (avoid-gate 12) — M4.S4.T8's closing sentence restates the chapter's own printed appeal to visit જૂનાગઢ, it does not add a new one.",
+    "AGENT 5 — content types: all eight topics are reading scenes (seven STORY_TELLING ઘટના plus one CONCEPT facts-cluster, M4.S4.T8), so each carries primary_content_type 'image' with available_content_types ['image'] and secondary/tertiary null, per global_content_rules.md #9 (one image per reading scene) and this pipeline's convention on every prior std-8 chapter (ch01-ch04).",
+    "AGENT 5 — word_count.original is a whitespace-token count of the attached original_chunk (Gujarati words separated by spaces/danda-free punctuation, matching each other chapter's method): T1 110, T2 53, T3 109, T4 137, T5 83, T6 74, T7 93, T8 66.",
+    "AGENT 5 — this file carries the FULL structure payload from 02_structure.json (sha256 b60c1557bbcc1e1157a91f94dcef6926062caec659d6554289e722ca708d025f, re-verified on disk before copying and matching 04_converged.json's recorded hash exactly), because 04_converged.json is a convergence record only. Ids, names, objectives, concepts, depends_on and source_marker are passed through byte-identical; concept-level key_terms/content stay [] (that is Agent 6+ territory, not this pass)."
+  ]
+}

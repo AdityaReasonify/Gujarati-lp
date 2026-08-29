@@ -1,0 +1,95 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Invented biography (gate 2): every proper noun, year, date and number in an authored field of M1.S1.T1 (explanation, real_life_example, brief_summary/summary/detailed_summary, concept_bullets, important_points, recall answers) must appear in this topic's own original_chunk — the licensed set is ન્યૂપોર્ટ, લાઈમ રોક, આઈડા લ્યૂસ, 1858, and 'સોળ વર્ષ' (16). A number or name that belongs to a later topic — 1869, 27, 218, 37, 21, 64, 50, 69, 23 — appearing in an authored field of M1.S1.T1 is a hard fail even though it is true elsewhere in the chapter.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Hagiography, act-first (gate 4): no authored field of M1.S1.T1 opens its first sentence on an evaluative claim about Ida ('આઈડા ખૂબ બહાદુર/સાદી છોકરી હતી') before naming what she did. The rescue verbs printed in this topic's chunk — 'હોડીમાં ખેંચી લીધો', 'બાકીના ત્રણ છોકરાઓને પણ બચાવી લીધા', 'નૌકાને ... કિનારે સહીસલામત પહોંચાડી દીધી' — must come first; only after may an explanation use the chapter's own words 'સીધી-સાદી છોકરી' or 'પ્રસિદ્ધિની બિલકુલ ઇચ્છા ન હતી'.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Disability/hardship as pathos (gate 10): any authored field of M1.S1.T1 that mentions the father's illness must use the chapter's own printed word 'અપંગ' (from 'તેના પિતા વાની બીમારીને કારણે અપંગ બની ગયા'), never બિચારું / લાચાર / ખોડખાંપણ, and the sentence's subject must stay the family's responsibility or Ida's work — 'હવે કુટુંબની જવાબદારી આઈડાને શિરે આવી' — not pity for the father.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Dramatised interiority (gate 3): no authored field of M1.S1.T1 attributes an interior state to Ida (તેને ડર લાગ્યો, તેણે વિચાર્યું, ગર્વ થયો, or a synonym) beyond the one this topic's chunk prints — 'ચારેયની જિંદગી બચાવવાનો આનંદ તેના મોં પર વર્તાતો હતો' — and even that must be kept as an observed expression on her face, never rewritten as an unstated inner thought.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Invented dialogue (gate 1): the only quotation-marked span licensed in M1.S1.T1's authored fields is 'બચાવો, બચાવો' (the boys' printed cry). Any other words placed in quotation marks and attributed to Ida or the boys in an authored field is invented dialogue.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'તેઓ ધારત તો ગરીબ આઈડાને મદદ કરી શકત' વાક્ય વાંચીને જ અટકી જાય છે અને 'પરંતુ તેમણે તો પોતાના પરિવારના સભ્યોને વાત પણ ન કરી' — એ 'પરંતુ' પછીનો ભાગ છોડી દે છે. પરિણામે એવું સમજી બેસે છે કે શ્રીમંત છોકરાઓએ આઈડાને મદદ કરી અથવા તેની વાત બધાને કરી, જ્યારે ખરેખર તેમણે અગિયાર વર્ષ સુધી કંઈ કહ્યું જ નહોતું, અને એ મૌનની સામે જ આઈડાની 'પ્રસિદ્ધિની બિલકુલ ઇચ્છા ન હતી' એ વાત ઊભી છે — એ જોડાણ ચૂકી જવાય છે.",
+      "correction": "explanation માં 'પરંતુ' પછીના વાક્યને એક અલગ, પૂરું વાક્ય તરીકે લખો — જેમ કે 'છોકરાઓએ કોઈને વાત ન કરી, એટલે અગિયાર વર્ષ સુધી કોઈને ખબર જ ન પડી' — જેથી બંને અડધિયાં (તેઓ મદદ કરી શકત / છતાં ન કરી) સ્પષ્ટ દેખાય. concept_bullets કે recall_questions ના એક પ્રશ્નમાં આ વિરોધાભાસ સીધો પૂછો, જેથી બાળક 'પરંતુ' ને ન ચૂકે."
+    },
+    {
+      "topic_id": "M2.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "Invented biography (gate 2): every proper noun and number in an authored field of M2.S2.T2 must appear in this topic's own original_chunk — the licensed set is 1869, 27 (વર્ષની), 218 (ડોલર), 37 (વર્ષની), 21 (વર્ષ), ફોર્ટ એડમ, અમેરિકાના રાષ્ટ્રપતિ યુલિસીઝ સિંપસન ગ્રાન્ટ. A number or name belonging to another topic — 1858, 16, 64, 50, 69, 23 — appearing here is a hard fail.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Biography-by-chronology, year ceiling (gate 5): no explanation of M2.S2.T2 contains three or more distinct year-numbers unless all of them are printed in this topic's own original_chunk. This topic's chunk carries exactly one calendar year, 1869; an explanation that cites two or more further years to round out the account fails.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Hagiography — honour as consequence, not subject (gate 4, read with the profile's Emphasise rule 'the honour is a consequence, not the subject'): no field about M2.S2.T2 centres its account on the honours — 'આઈડાને ધન્યવાદ આપતો એક પત્ર', '218 ડોલરની રકમ', અમેરિકાના રાષ્ટ્રપતિની મુલાકાત, 'હંગામી સંરક્ષક તરીકે નિમણૂક' — as the topic's own point. Each is named only after, and as a result of, the rescue act itself: 'એક હાથથી સૈનિક લાકડાના પાટિયાના સહારે તરતો હતો અને બીજા હાથથી તેણે પોતાના બેશુદ્ધ સાથીને પકડી રાખ્યો હતો', 'આઈડાએ પહેલા બેશુદ્ધ સૈનિકને નૌકામાં લીધો અને પછી બીજાને'.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Invented dialogue, absence-based (gate 1): M2.S2.T2's original_chunk carries no quotation-marked span at all. Any authored field for this topic that places words in quotation marks and attributes them to Ida or the two soldiers is invented dialogue.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "સૈનિકોનો ધન્યવાદ-પત્ર, ઇનામ, રાષ્ટ્રપતિની મુલાકાત અને હંગામી નિમણૂક વાંચીને બાળક એવું માની લે છે કે આ પ્રસંગનો મુદ્દો આઈડાને મળેલી પ્રસિદ્ધિ છે — અને 'એક હાથથી પાટિયાના સહારે તરવું, બીજા હાથે બેશુદ્ધ સાથીને પકડી રાખવો' એ અઘરી, જોખમી ક્ષણ — જેના કારણે જ આ સન્માનો મળ્યાં — એને ખાસ ધ્યાન આપ્યા વગર જ પસાર થઈ જાય છે.",
+      "correction": "explanation માં પહેલાં બચાવ-કૃત્યનું ચિત્ર બાંધો (એક હાથે પાટિયું પકડેલો સૈનિક, બીજા હાથે તેનો બેશુદ્ધ સાથી), પછી જ 'આ પછી' કહીને પત્ર-ઇનામ-રાષ્ટ્રપતિ-નિમણૂકને પરિણામ તરીકે એક જ ટૂંકા વાક્યમાં જોડો. recall_questions માં પણ પહેલો પ્રશ્ન કૃત્ય વિશે રાખો, સન્માન વિશેનો પ્રશ્ન પછી."
+    },
+    {
+      "topic_id": "M3.S3.T3",
+      "avoid_checks": [
+        {
+          "check": "Invented dialogue, presence-based (gate 1): any quotation-marked span in an authored field of M3.S3.T3 must appear character-for-character inside this topic's own quoted passage (''ક્યારેક તો મોજાંની ઝાપટો ... મને આનંદ થતો.''). No paraphrase of Ida's reflection may be placed inside quotation marks as if it were her own words.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "First-person slippage (gate 7): any authored field of M3.S3.T3 containing હું / મેં / અમે / મારા must keep it inside quotation marks and attribute it to આઈડા, the printed speaker of this topic's quoted reflection; no field may claim the writer or the tutor witnessed or heard this directly.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Invented biography (gate 2): numbers licensed for M3.S3.T3 are only 64 (વર્ષની ઉંમર), 50 (વર્ષ), 69 (વર્ષની વયે), 23 (વ્યક્તિઓ) and 'ત્રણ વર્ષ અગાઉ' as printed in words, not digits. A number belonging to another topic — 1858, 16, 1869, 27, 218, 37, 21 — appearing in an authored field here is a hard fail.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Tacked-on બોધ (gate 12): no authored field of M3.S3.T3 closes on an added moralising line of the form 'આપણે પણ ... જોઈએ' or 'આ પ્રસંગ આપણને શીખવે છે કે ...'. The chapter's own closing statements — 'આઈડાની કર્તવ્યનિષ્ઠા અને નિઃસ્વાર્થ સેવાની તોલે આજ સુધી કોઈ આવેલું જોવા મળ્યું નથી' and 'મહિલાને અધિકાર ન જ મળ્યો ... સમગ્ર પુરુષજાત તેને સલામ કરી રહી' — may be used only as the chapter's own attributed statement, never rephrased into a universal rule addressed at the child.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક છેલ્લું વાક્ય 'આઈડા જિંદગીભર હંગામી એટલે કે કામચલાઉ કર્મચારી જ રહી પણ એ કામચલાઉ સ્ત્રી કર્મચારીએ જીવનભર એવું તો કામ ચલાવ્યું...' ને સીધું, સપાટ વાંચી લે છે — 'હંગામી/કામચલાઉ' શબ્દની બેવડી રમત (કાયમી હોદ્દો ક્યારેય ન મળ્યો, છતાં આખું 'કામ' તો તેણે જ ચલાવ્યું) પકડ્યા વગર. તેની સાથે જ 'મહિલાને અધિકાર ન જ મળ્યો' ને એ ફક્ત એક ફરિયાદ તરીકે વાંચી લે છે, જ્યારે ખરેખર એ લેખકની કટાક્ષભરી અંજલિ છે.",
+      "correction": "explanation અથવા recall_questions માં આ છેલ્લી લીટી જ ટાંકો અને પૂછો — 'હંગામી' શબ્દ અહીં બે વાર આવે છે; બંને વખત અર્થ સરખો છે કે જુદો? મોડેલ જવાબ: પહેલી વાર હોદ્દા વિશે (ક્યારેય કાયમી ન થયો), બીજી વાર કામ વિશે (તેણે આખું કામ ચલાવી બતાવ્યું) — આ રીતે લીટીની કરામત તરફ ધ્યાન દોરો, કોઈ અલંકાર/છંદનું નામ આપ્યા વગર (std 8 ceiling)."
+    }
+  ],
+  "chapter_level": [
+    "Foreign-setting names hazard (L2, whole chapter): ન્યૂપોર્ટ, લાઈમ રોક, ફોર્ટ એડમ, અમેરિકાના રાષ્ટ્રપતિ યુલિસીઝ સિંપસન ગ્રાન્ટ are the corpus's one foreign-setting exception under charitra_prasang.md's Media prior — keep them exactly as transcribed, never substitute an Indian place-name or 'Indianise' the setting in an explanation or real_life_example. The real_life_example anchor lands the FEELING in the child's own Gujarat world (profiles/students/std-8.md §2's ધીરજ/હિંમત anchors), while the reading itself keeps the American names and setting as printed.",
+    "Cross-topic number bleed is this chapter's single likeliest hard-gate trip: M1.S1.T1 (1858, 16), M2.S2.T2 (1869, 27, 218, 37, 21) and M3.S3.T3 (64, 50, 69, 23, ત્રણ) each carry their own closed set of dates/ages/counts under gate 2 and gate 5 of charitra_prasang.md. An explanation, summary or recall answer that borrows a number from a neighbouring topic to 'round out' the account — e.g. citing 1869 while teaching M1.S1.T1 — fails even though the number is true elsewhere in the chapter.",
+    "સુરક્ષા (rescue/drowning) runs through all three topics, not one — repeated capsizing and near-drowning description (ચાર કિશોરો, બે સૈનિકો with one બેશુદ્ધ, and the final બહેનપણી) risks turning sensational if the teaching dwells on the danger itself. Per the profile's Emphasise section, every topic keeps the concrete skill or means (ધીરજ, કાબેલિયત, 'એક હાથ ... બીજા હાથ') as the sentence's subject; danger is stated only as what the skill answered, never lingered on for its own sake."
+  ]
+}

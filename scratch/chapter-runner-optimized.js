@@ -95,7 +95,7 @@ const runChapter = async (entry) => {
    absolute path under ${GUJ}/profiles/genres/. Otherwise return an empty list.
 5. Update ${GUJ}/output${STD}/batch_state.json: set in_progress=${ch} (create the file if absent).
 Return ok, outputs=[absolute chapter PDF path, title, "${renders}", <comma-joined absolute genre profile paths or "">], notes.`,
-    { label: label('setup'), phase: 'Chapters', schema: STEP_SCHEMA, effort: 'low', model: 'sonnet' })
+    { label: label('setup'), phase: 'Chapters', schema: STEP_SCHEMA, effort: 'low', model: 'haiku' })  // pure I/O: manifest read, mkdir, pdftoppm, state write
   if (!setup || !setup.ok) { return { ch, status: 'setup-failed' } }
   const pdf = setup.outputs[0]
   const genrePaths = (setup.outputs[3] || '').split(',').map(s => s.trim()).filter(Boolean)
@@ -126,7 +126,13 @@ ${extra || ''}
 Write your declared output files into ${chDir}.`
     return agent(INVARIANT + tail,
       { label: label(spec.slice(0,2)), phase: 'Chapters', schema: (opts && opts.schema) || STEP_SCHEMA,
-        effort: (opts && opts.effort) || 'high', model: (opts && opts.model) || 'opus' })
+        // MODEL POLICY (user directive, 2026-08-29): no Opus. Every AUTHORING agent runs on
+        // Sonnet. Correctness is not model-dependent here — A5 enforces verbatim against the
+        // renders and A13 runs the A-D gates mechanically — so what changes is authored prose
+        // quality, not whether the verbatim and no-hallucination rules hold.
+        // Authoring runs Sonnet at XHIGH (user directive, 2026-08-29): wherever Opus used to
+        // author, it is now Sonnet with very high effort rather than Sonnet at default effort.
+        effort: (opts && opts.effort) || 'xhigh', model: (opts && opts.model) || 'sonnet' })
   }
 
   // ---- Phase 1 ----
@@ -252,11 +258,11 @@ Do NOT duplicate the structure payload — it already exists on disk and copying
   // if (!skip('A15')) await A('15_textbook_plan.md', 'Emit learning_plan_textbook.json (raise human_confirmation_required if orders identical).', {})
 
   const v = await agent(`Phase 8 for gujarati-lp std ${STD} ch ${ch}: POST ${chDir}/learning_plan_logical.json as multipart field "file" to https://staging.singularity-learn.com/agentapi/api/lp2/learning-plans/validate (no auth; retry twice on network failure — staging DNS is flaky). Append the result (zero or listed validation_errors, or UNREACHABLE) to ${chDir}/validation_report.md under "## LP2 validator" and return ok=true only if validation_errors is empty. Do NOT upload — validation only.`,
-    { label: label('lp2'), phase: 'Chapters', schema: STEP_SCHEMA, effort: 'low', model: 'sonnet' })
+    { label: label('lp2'), phase: 'Chapters', schema: STEP_SCHEMA, effort: 'low', model: 'haiku' })  // pure I/O: HTTP POST + append
 
   const status = (a13 && a13.status === 'pass') ? ((v && v.ok) ? 'complete' : 'complete-lp2-pending') : 'qc-failed'
   await agent(`Update ${GUJ}/output${STD}/batch_state.json: move ${ch} from in_progress to done (status "${status}"), set in_progress null. Append one row to ${GUJ}/output${STD}/batch_report.md (create with a header table if missing): chapter ${ch} | status ${status} | qc ${a13 && a13.status} | lp2 ${v && v.ok}. Return ok.`,
-    { label: label('state'), phase: 'Chapters', schema: STEP_SCHEMA, effort: 'low', model: 'sonnet' })
+    { label: label('state'), phase: 'Chapters', schema: STEP_SCHEMA, effort: 'low', model: 'haiku' })  // pure I/O: batch_state + report row
   log(`Chapter ${ch}: ${status}`)
   return { ch, status, qc: a13 && a13.status, lp2: v && v.ok, notes: ((a13 && a13.notes) || []).slice(0,3) }
 }

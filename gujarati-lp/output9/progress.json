@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24 16:42:51",
+  "generated_at": "2026-08-29 08:43:37",
   "std": 9,
-  "verdict": "WORKING — 6 agent(s) active, newest output 2016m ago",
+  "verdict": "no agents writing",
   "complete_chapters": [],
   "chapters": [
     {
@@ -195,44 +195,7 @@
       "last_write": null
     }
   ],
-  "live_agents": [
-    {
-      "run": "wf_b3db6a20-d7e",
-      "agent": "a762e0f7e8d79033f",
-      "idle_min": 8.3,
-      "mb": 0.5
-    },
-    {
-      "run": "wf_b3db6a20-d7e",
-      "agent": "af0b4fd785362f009",
-      "idle_min": 6.8,
-      "mb": 1.4
-    },
-    {
-      "run": "wf_b3db6a20-d7e",
-      "agent": "a6703918a26e0be58",
-      "idle_min": 6.1,
-      "mb": 0.3
-    },
-    {
-      "run": "wf_b3db6a20-d7e",
-      "agent": "aef72fd8a2d30d0af",
-      "idle_min": 4.7,
-      "mb": 1.5
-    },
-    {
-      "run": "wf_b3db6a20-d7e",
-      "agent": "a7db0adeb39c182b5",
-      "idle_min": 2.9,
-      "mb": 0.3
-    },
-    {
-      "run": "wf_b3db6a20-d7e",
-      "agent": "a79a3606322378ee2",
-      "idle_min": 0.0,
-      "mb": 0.0
-    }
-  ],
+  "live_agents": [],
   "stage_count": 13,
   "resume_args": {
     "std": 9,

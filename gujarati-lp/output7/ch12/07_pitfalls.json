@@ -1,0 +1,159 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Summary-only gate (profile avoid 1). `explanation` must add what `modified_chunk` already reports plus a cause: it must say why the same girl who બહુ જ હરખાઈ ગઈ ends this beat with આનંદીનું મોઢું પડી ગયું — the announced condition દરેક જણ બે રૂપિયા લાવજો. If `explanation` could be swapped for this topic's `modified_chunk` with nothing lost, the topic fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Spoiler gate (profile avoid 4); the climax topic is `M3.S5.T7`. No `explanation`, `brief_summary`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` of this topic may name મંગુબાઈ, the ડૉક્ટર, ઇનામ, માફી વિદ્યાર્થિની, or say that the બે રૂપિયા were found, returned or received. The beat closes on બે રૂપિયાની વાત સાંભળી આનંદીનું મોઢું પડી ગયું.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ''મોટાં બહેન'' ને આનંદીની મોટી બહેન સમજી લે છે, એટલે બે રૂપિયા લાવવાની શરત ઘરમાંથી આવેલી લાગે છે — જ્યારે આ શરત તો નિશાળમાં પ્રાર્થનાના સમયે બધી છોકરીઓ સામે મૂકાય છે.",
+      "correction": "`explanation`માં જ્યાં પહેલી વાર ''મોટાં બહેન'' આવે ત્યાં જ ગ્લોસ કરો — ''મોટાં બહેન — શાળામાં બહેનને (શિક્ષિકાને) માનથી બોલાવવાનો શબ્દ'' — અને સાથે બતાવો કે એ પ્રાર્થનાના સમયે શાળાની છોકરીઓ સામે બોલે છે. આ ગ્લોસ `key_terms`માં પણ એ જ રૂપે મૂકો."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "Sympathy gate (profile avoid 3). No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may attach an evaluative label to માણેકલાલ (ગાંડો, આળસુ, નકામો, બેજવાબદાર or a synonym) or to આનંદીની બા (કડક, ધમકાવનારી). The chapter's period words એમનું મગજ અસ્થિર થઈ ગયું હતું and ગાંડાની ઇસ્પિતાલ stay inside `original_chunk` only; teaching prose says તબિયતને કારણે કામ છૂટી ગયું.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Summary-only gate (profile avoid 1). `explanation` must use this beat's income picture as the reason for the previous beat's condition — બે આના પણ ભાગ્યે જ વધારાના રહેતા is why બે રૂપિયાની વાત જ શી કરવી ! — and not a second inventory of household facts that `modified_chunk` already carries.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ''બે આના'' શબ્દને ઓળખતું નથી — હિન્દી વાંચનારું બાળક ''આના'' ને 'આવવું' ક્રિયાપદ પણ સમજી લે છે — એટલે 'બે આના પણ ભાગ્યે જ વધારાના રહેતા' વાક્યમાંથી ઘરની તંગી કેટલી મોટી છે એ છેક સમજાતું નથી.",
+      "correction": "`explanation`ના પહેલા જ વાક્યમાં ''આનો — જૂના વખતનું નાનું નાણું, રૂપિયા કરતાં ઘણું નાનું'' એમ ગ્લોસ કરો, અને પછી બતાવો કે જે ઘરમાં બે આના પણ માંડ વધે ત્યાં બે રૂપિયા ક્યાંથી કાઢવા. `key_terms`માં ''આનો — …'' એ જ રૂપે રહે."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Summary-only gate (profile avoid 1). `explanation` must state આનંદી's motive for કાંઈ નહીં બા — the reason the text itself prints, બા બિચારી જીવ બાળશે — and must not reduce to the roll-call of તારામતી, કપિલા, બાબુ, બચુ and the sewing list that `modified_chunk` already carries.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Spoiler gate (profile avoid 4); the climax topic is `M3.S5.T7`. This beat introduces એક સ્ત્રીદાક્તરનું દવાખાનું; no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` here may say what આનંદી later finds there, name મંગુબાઈ or the નોટ, or mention ઇનામ / માફી વિદ્યાર્થિની.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'બા બિચારી જીવ બાળશે' ને શબ્દશઃ વાંચે છે — જાણે બા ગુસ્સે થઈને કંઈક બાળશે — એટલે આનંદીએ વાત કેમ છુપાવી એ કારણ ઉલટું બની જાય છે — બીક, નહીં કે માને દુઃખ ન થાય એવી કાળજી.",
+      "correction": "જ્યાં આ વાક્ય આવે ત્યાં જ `explanation`માં પાઠના રૂઢિપ્રયોગ-ખાનાના શબ્દોમાં ગ્લોસ કરો — ''જીવ બાળવો — ચિંતા કરવી'' — અને પછી કહો કે બાને ચિંતા ન થાય એટલે જ આનંદીએ 'કાંઈ નહીં બા' કહી દીધું. એક `recall_questions[].answer`માં પણ આ જ કારણ પકડાય."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "Tacked-on બોધ gate (profile avoid 2). No `explanation`, `brief_summary`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may close on a rule of the shape પ્રાર્થના કરવાથી બધું મળે છે / આપણે પણ … જોઈએ / આ વાર્તા શીખવે છે…; what is taught is આનંદી's own words as printed — હું તો માગું છું ફક્ત બે રૂપિયા.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Spoiler gate (profile avoid 4); the climax topic is `M3.S5.T7`. No field of this topic may say that the પ્રાર્થના was answered, name the નોટ, the ડૉક્ટર or મંગુબાઈ, or mention ઇનામ કે માફી વિદ્યાર્થિની. The beat ends on the prayer itself, તારો ઉપકાર નહીં ભૂલું.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ''દીનાનાથ, દીનદયાળ'' ને કોઈ માણસનાં નામ સમજી લે છે, એટલે આખી પ્રાર્થના રાતે કોઈ પાડોશી પાસે બે રૂપિયા માગવાની વાત બની જાય છે.",
+      "correction": "પ્રાર્થના પહેલી વાર ટાંકો ત્યાં જ `explanation`માં પાઠના શબ્દાર્થ-ખાનાના શબ્દોમાં ગ્લોસ કરો — ''દીનાનાથ — ગરીબનો બેલી'', ''દીનદયાળ — ગરીબ પર દયા કરનારું'' — અને સાથે કહો કે આ ભગવાનને બોલાવવાનાં નામ છે; `key_terms`માં બંને એ જ અર્થે રહે."
+    },
+    {
+      "topic_id": "M2.S4.T5",
+      "avoid_checks": [
+        {
+          "check": "Spoiler gate (profile avoid 4), sharpest here; the climax topic is `M3.S5.T7`. No `explanation`, `brief_summary`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` of this topic may name મંગુબાઈ, say the નોટ was handed back, or mention ઇનામ / માફી વિદ્યાર્થિની / બાલારામની ઉજાણી થઈ. The beat stops where the text stops: નોટ ખિસ્સામાં મૂકી ઉમંગભેર એણે કામ પતાવી દીધું.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Sympathy gate (profile avoid 3). No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may label આનંદી (ચોર, લોભી, બેઈમાન, ખોટું કર્યું or a synonym) for putting the note in her pocket — the text shows her રાજી રાજી થઈ ગઈ and ઉમંગભેર, and her own second thoughts belong to `M3.S5.T6`, not here.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ''નક્કી આ નોટ ભગવાને જ મૂકી હશે !'' ને વાર્તાનું પોતાનું વિધાન સમજી લે છે, જ્યારે પાઠ પોતે જ કહે છે 'એણે મનમાં વિચાર કર્યો' — એટલે એ આનંદીના મનનો વિચાર છે, બનેલી હકીકત નહીં.",
+      "correction": "`explanation`માં આ વાક્ય હંમેશાં 'આનંદીએ મનમાં વિચાર્યું કે …' એમ મૂકીને જ ટાંકો, અને જે `recall_questions[].answer`માં આ વાક્ય આવે ત્યાં પણ એને આનંદીનો વિચાર કહીને જ લખો."
+    },
+    {
+      "topic_id": "M3.S5.T6",
+      "avoid_checks": [
+        {
+          "check": "Tacked-on બોધ gate (profile avoid 2), and this beat invites it hardest. No `explanation`, `brief_summary`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may add આપણે કદી ચોરી ન કરવી જોઈએ / પ્રામાણિકતા સૌથી મોટો ગુણ છે / આ વાર્તા આપણને શીખવે છે…; the argument stays inside આનંદી's own printed questions — ચોરી કરીને ઉજાણીએ જવાય ખરું ! and બા જાણે તો કેટલી દુઃખી થાય.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Spoiler gate (profile avoid 4); the climax topic is `M3.S5.T7`. No field of this topic may say what આનંદી then did with the note, name મંગુબાઈ or the ડૉક્ટરનું ઇનામ. The beat ends on આનંદીના મગજમાં ગડમથલ ચાલી.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ''ઉજાણીએ જવાનું ન હોત તો હું કદી આ નોટ ખિસ્સામાં મૂકત ખરી !'' એ કલ્પનાને બની ગયેલી વાત તરીકે વાંચે છે — જાણે એણે નોટ ખિસ્સામાં મૂકી જ નથી — અને એટલે આખી ગડમથલ ખાલી થઈ જાય છે.",
+      "correction": "`explanation`માં આ વાક્યને સાદા ગુજરાતીમાં ફરીથી કહો — 'જો ઉજાણી ન હોત, તો આ નોટ મેં ખિસ્સામાં મૂકી જ ન હોત' — અને તરત યાદ કરાવો કે આ વિચારતી વખતે નોટ તો એના ખિસ્સામાં જ છે."
+    },
+    {
+      "topic_id": "M3.S5.T7",
+      "avoid_checks": [
+        {
+          "check": "Sympathy gate (profile avoid 3), pointed at મંગુબાઈ. No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may state or imply that મંગુબાઈ જૂઠું બોલી હતી. The ડૉક્ટર's own aside કોણ જાણે એ જૂઠુંય બોલતી હોય may be quoted only as the ડૉક્ટરનું વાક્ય and never restated as fact; the text's own મંગુ બિચારી ગરીબ છે અને માંડ બે રૂપિયા ઊભા કર્યા હતા stands.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Tacked-on બોધ gate (profile avoid 2) at the turn. No `explanation`, `brief_summary`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may close on પ્રામાણિકતા જ સાચી કમાણી છે or આપણે પણ … જોઈએ. The પ્રવેશપેટી's sentence વિષમ પરિસ્થિતિમાં પણ પ્રામાણિકતા જાળવી રાખવાની ભાવના પ્રેરણાદાયી છે is teacher-addressed apparatus, not the story's own line, and may not be recycled into any child-facing field.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Unstated-motive check (not a profile item; this passage's own hazard). `explanation` and `recall_questions[].answer` may say what the tears follow — the previous beat's ગડમથલ and the ડૉક્ટરનો સવાલ — but may not assert a reason the chapter does not print. The text prints only એની આંખમાં આંસુ આવી ગયાં and ડૉક્ટરને ખૂબ નવાઈ લાગી.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક વળાંક ઉલટો વાંચે છે — 'ડૉક્ટરે પૂછ્યું અને પકડાઈ જવાની બીકે આનંદીએ નોટ કાઢી આપી' — એટલે એની પોતાની પસંદગી વાર્તામાંથી જ નીકળી જાય છે.",
+      "correction": "`explanation`માં છાપેલો ક્રમ બતાવો — પહેલાં નળ ઉપર 'ચોરી કરીને ઉજાણીએ જવાય ખરું !' અને 'ઉજાણીએ નહીં જવાય તો કાંઈ નહીં !' — અને પછી ડૉક્ટરનો સવાલ, અને એની સાથે જ, ના પાડ્યા વગર, ખિસ્સામાંથી નીકળતી નોટ. હેતુના `recall_questions[].answer`માં પણ આ જ ક્રમ પકડાય."
+    },
+    {
+      "topic_id": "M3.S6.T8",
+      "avoid_checks": [
+        {
+          "check": "Tacked-on બોધ gate (profile avoid 2), and the resolution is where it lands. No `explanation`, `brief_summary`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` may close on સાચું બોલવાથી હંમેશાં ફળ મળે છે / આપણે પણ પ્રામાણિક બનવું જોઈએ / આ વાર્તાનો બોધ એ છે કે…. The only reward sentence used is the printed તું સાચું બોલી એનું ઇનામ !, quoted as the ડૉક્ટરનું વાક્ય, and the closing ભગવાને જેને બે રૂપિયાની ભેટ મોકલી … is quoted as the story's own ending, never converted into a rule.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Summary-only gate (profile avoid 1). `explanation` must add the consequence `modified_chunk` only lists: the બે રૂપિયા cover the ઉજાણી, but મોટાં બહેન's decision — માફી વિદ્યાર્થિની તરીકે દાખલ and ચોપડીઓ નોટબુક પોતાના ખર્ચે — reaches past the one trip. If `explanation` could be swapped for `modified_chunk` with nothing lost, the topic fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No blaming a character the story does not blame (profile avoid 3, applied softly). No field may fault મોટાં બહેન or the school over આનંદીના ઘરની સ્થિતિનો ખ્યાલ મોટાં બહેનને ન હતો — the sentence explains why their decision comes now, it is not a complaint the teaching may voice.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક સમજે છે કે આનંદીએ જે નોટ સોંપી તે જ નોટ એને પાછી મળી ગઈ, એટલે 'એણે કશું જતું કર્યું જ નહીં' એવું વંચાય છે અને વળાંકનું મૂલ્ય ઉડી જાય છે.",
+      "correction": "`explanation`માં સ્પષ્ટ કરો કે જે નોટ એણે ડૉક્ટરના હાથમાં મૂકી દીધી તે એણે છોડી દીધી છે, અને જે બે રૂપિયા એને મળ્યા તે તો ડૉક્ટરે 'પોતાનું પર્સ કાઢી' આપ્યા — બે જુદા બે રૂપિયા છે. એક `recall_questions[].answer`માં પણ આ ભેદ પકડાય."
+    }
+  ],
+  "chapter_level": [
+    "Std-7 genre gate (profiles/students/std-7.md §2): the સ્વરૂપ is experienced, never labelled. No child-facing field anywhere in this chapter names an અલંકાર, a છંદ or a સાહિત્યપ્રકાર, and `figures_of_speech` stays `[]` — that is the complete, correct answer here, not a gap.",
+    "The chapter's main L2 trap is its printed રૂઢિપ્રયોગ box: હૈયું ભારે થવું, મોઢું પડી જવું, જીવ બાળવો, વહારે ધાવું, અથથી ઇતિ સુધી, પગે પાંખો આવવી. An L2 reader takes every one of them literally (ધાવું read as ધાવવું is the sharpest). Each is glossed at its first use in the book's own words and is a first candidate for that topic's `key_terms` in \"શબ્દ — અર્થ\" form.",
+    "One settled name per character in teaching prose. The book calls the same doctor સ્ત્રીદાક્તર, દાક્તર, ડૉક્ટર and ડૉક્ટર બાઈ (and લેડી ડૉક્ટર in the વાતચીત block), the same teacher મોટાં બહેન and મોટાં બેન, and આનંદી's mother both બા and મમ્મી. `original_chunk` keeps every form exactly as printed; `explanation`, summaries and recall answers pick one form per person and stay with it, or the L2 child counts three characters where the story has one.",
+    "The father's illness: the period phrasing એમનું મગજ અસ્થિર થઈ ગયું હતું and ગાંડાની ઇસ્પિતાલમાં મૂકવા જેવા ન હતા is transcribed as printed inside `original_chunk` and is never reused as a descriptor: no child-facing field in any topic calls માણેકલાલ or anyone ગાંડો.",
+    "Belief runs the length of the chapter — the midnight પ્રાર્થના, then નક્કી આ નોટ ભગવાને જ મૂકી હશે !, then આનંદી's own correction ખરેખર તો એ કોઈની જ પડી ગઈ હશે !, then the closing ભગવાને જેને બે રૂપિયાની ભેટ મોકલી. No field asserts that ભગવાન did or did not send the note, and none corrects the story against fact — the chapter itself keeps both sentences, and the teaching keeps them both, in the chapter's own order.",
+    "The blue પ્રવેશપેટી is teacher-addressed apparatus, not the story's words. Its વિષમ પરિસ્થિતિમાં પણ પ્રામાણિકતા જાળવી રાખવાની ભાવના પ્રેરણાદાયી છે is a note to the teacher and must not be recycled as a બોધ sentence into any child-facing field. This chapter shows its theme through what આનંદી does; it never states it.",
+    "Which `varta` gates are inert here, so Agent 13 does not hunt for them: avoid 6 (તળપદી dialect) — this is a ઘરેલુ/સામાજિક વાર્તા in everyday શિષ્ટ ગુજરાતી carrying રૂઢિપ્રયોગ, with no તળપદા-શબ્દ instruction in its intro box; avoid 7 (excerpt) — the story is complete on the page, not a નવલકથાખંડ; avoid 8 (translator credit) — the only credit printed is the author's, '- વિનોદિની નીલકંઠ'; avoid 5 (પૌરાણિક debunking) — no પૌરાણિક કથા here, though its spirit is carried by the belief item above."
+  ]
+}

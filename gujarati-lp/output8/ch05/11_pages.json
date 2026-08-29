@@ -1,0 +1,11 @@
+{
+  "textbook": null,
+  "textbook_url": "../Textbooks-pdf/std-8/ch-05-bano-vado.pdf",
+  "textbook_pages": "36–45",
+  "source": "printed folio, read off renders of pdf pp. 1 and 10 of the chapter PDF (page-01.png shows folio 36, page-10.png shows folio 45); cross-checked against manifest.json row 5 (printed_start 36, pdf 48–57) and profiles/boards/gseb_gujarati.md std-8 table row 5 (36–45)",
+  "confidence": "medium",
+  "gaps": [
+    "textbook_url is a local path — the GSEB readers have no hosted URL",
+    "textbook is carried as null: profiles/boards/gseb_gujarati.md records the std-8 cover has not been read yet ('confirm before writing it into textbook'), and 01_meta.json also carries textbook:null for the same reason — no cover render was supplied for this run to confirm the title"
+  ]
+}

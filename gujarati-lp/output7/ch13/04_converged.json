@@ -1,0 +1,14 @@
+{
+ "converged": true,
+ "source": "02_structure.json",
+ "sha256": "f404e6fec5913ef9714fa6a507ac4fcc4f6e3f69141d3a0bd5af91a5716835d4",
+ "verdict": "pass",
+ "notes": [
+  "Convergence record, NOT a copy of the structure payload. Structure lives in 02_structure.json and is read from there; this file only certifies that Agent 4's single validation pass passed and that ids are frozen as of that file's sha256 above.",
+  "Agent 4 ran once, as reference/loop_protocol.md requires. No iteration, no feedback file, no re-run of A1 or A2.",
+  "All three blocking checks passed: સ્વરૂપ fidelity (unit 'એક ઘટના' per 01_meta.json and profiles/genres/varta.md, ten ઘટના markers cut ઘટના-wise, no કડી/દુહો/પદ/ટેક in the chapter, avoid list clean), coverage (ten reading-scene markers to ten topics 1:1 in printed order, complete line coverage 19–82, no સ્વાધ્યાય block cut as a topic against all thirteen exercise_inventory headings), and objectives (O1–O10 unique in the root registry, every home_topic_id and anchor resolves, strand_to_objective_map covers L1–L10 exactly once, ids conform to reference/naming_conventions.md with chapter-continuous M/S/T/C and no P-style objective code).",
+  "Ids frozen from this moment: M1(S1,S2,S3) M2(S4,S5) M3(S6); topics M1.S1.T1 … M3.S6.T10; concepts M1.S1.T1.C1 … M3.S6.T10.C10; objectives O1–O10. Only Agent 14 may renumber M/S/T/C, and O{n} plus strand_to_objective_map are never renumbered.",
+  "Full verdict, per-check evidence and the non-blocking notes for Agent 13 are in 04_validation.json alongside this file.",
+  "If 02_structure.json is edited after this pass, its sha256 will no longer match the value recorded here and convergence is void — revalidate rather than trusting this record."
+ ]
+}

@@ -1,0 +1,53 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T2",
+      "areas": ["ધર્મ"],
+      "caution": "The explanation could turn 'એક શિવાલયમાં રહીને ભગવાનની ઉપાસના કરી' and 'એ સાધનાથી જાણે ચમત્કાર થયો' into a factual claim that a supernatural event occurred, or into devotional instruction for the child to practise.",
+      "guidance": "Present the વનની સાધના as the turning point of the ચરિત્ર — what changed in Narsinh's temperament and daily life after it — and let 'ચમત્કાર' stay the text's own word for that change, not a claim you assert or verify; the real_life_example stays in the child's world (a quiet habit or discipline someone keeps), not a temple ritual.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "areas": ["ધર્મ"],
+      "caution": "The quoted pada lines ('ભણે નરસૈયો... કુળ એકોતેર તાર્યાં રે!', 'નાગણે નાગ છોડાવિયો') describe miraculous claims — the explanation must not restate these as literal historical facts, nor turn them into theology.",
+      "guidance": "Teach these as the poet's 'નરસૈયો' છાપ (signature device) and as lines people still recognise today — their craft and their fame — never as proof of an event or a lesson in belief; keep the lines themselves verbatim and unexplained as fact-claims.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "areas": ["ધર્મ"],
+      "caution": "The chunk links 'વૈષ્ણવજન' to ભગવદ્ ગીતાના દૈવી સંપત્તિના ગુણો and to Gandhiji's own religious identity — the explanation could drift into comparative religion or into a claim about what a 'true Indian' must believe.",
+      "guidance": "Keep the explanation to the plain fact printed in the text — that Gandhiji loved this pada and made it famous because of the guṇas it describes — and let the ગુણવર્ણન (qualities of a good person) stay ethical/character-based, never a doctrinal statement about Vaishnav belief.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M3.S3.T5",
+      "areas": ["ધર્મ"],
+      "caution": "The 'શામળશા શેઠની હૂંડી' story says ભગવાન પોતે શેઠ બનીને આવ્યા — the explanation must not present this as verified history, and must not debunk it as false either.",
+      "guidance": "Frame it exactly as the text does — 'ખૂબ જ જાણીતી' લોકકથા (a well-known folk story) about Narsinh's ભક્તિ and ભોળપણ (simple, trusting faith) — teaching what the story says about his character, not whether the event happened.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M3.S3.T6",
+      "areas": ["ધર્મ", "સંઘર્ષ"],
+      "caution": "The 'કુંવરબાઈનું મામેરું' segment states ભગવાને ભર્યું as if fact rather than legend; separately, the imprisonment by રા'માંડલિક on false accusation could be taught as a grievance against a ruler rather than as Narsinh's steadfast faith under injustice.",
+      "guidance": "Keep the મામેરું as 'લોકકથા' the way the text names it — a story about devotion, not a verified event — and teach the imprisonment as person-versus-injustice: Narsinh stayed unshaken and kept his bhakti even in કેદ, and the raja's own realisation (rather than any communal blame) is what ends it.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M4.S4.T7",
+      "areas": ["સંઘર્ષ"],
+      "caution": "The chunk names 'ઊંચનીચના ભેદ' in society and people who grew angry at Narsinh for visiting everyone's home for ભજન — the explanation could name a specific caste or community as the source of this prejudice, which the text itself never does.",
+      "guidance": "Stay with what the text says: Narsinh treated everyone equally and saw ભગવાન in every person, regardless of the divisions others held onto; praise his own character and his own two lines ('એવા રે અમે એવા રે...') without naming or implicating any specific community as the ones who discriminated.",
+      "severity": "hard"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "ધર્મ",
+      "guidance": "This is a ચરિત્રલેખ about a 15th-century bhakti poet, threaded with quoted pada lines and folk legends (ચમત્કાર, હૂંડી, મામેરું). Teach all of it as literature and biography with a living devotional tradition behind it — its ભાવ, its craft, the character it reveals — never as theology to be affirmed, compared across faiths, or debunked as false."
+    }
+  ],
+  "none_found": false
+}

@@ -22,6 +22,11 @@ MAXH=${4:-12}
 TOOL_MIN=${5:-2}
 DEAD_MIN=${6:-3}
 RUNS="${7:-}"   # space-separated run ids; empty = every recent run
+ACT="${8:-act}" # "act" = recover automatically; anything else = alert only
+CONFIRM=0       # an alert must hold for 2 consecutive polls before we spend tokens on it
+CLAUDE=/Users/aditya/.local/bin/claude
+ALLOW='Bash,Workflow,Read,Glob,Grep,Write,Edit,TodoWrite'
+ROOT=/Users/aditya/Downloads/Gujarati-lp
 END=$(( $(date +%s) + MAXH*3600 ))
 echo "=== supervisor start $(date '+%F %T') stds=[$STDS] poll=${POLL}s tool_hung>${TOOL_MIN}m dead>${DEAD_MIN}m no_progress>${STALL_MIN}m ===" >> "$LOG"
 while [ "$(date +%s)" -lt "$END" ]; do
@@ -49,7 +54,12 @@ SES=_workflows_root()
 # Generation bars derived from MEASURED maxima across every completed agent, with
 # ~25% headroom. Guessed bars produce false kills; these come from real durations:
 # A10 max 47.5m, A12 max 60.6m, A7 max 32m, A5 max 25.5m, A9 max 24.1m.
-HEAVY={'01': 100, '02': 35, '04': 30, '05': 40, '07': 40, '08': 10, '09': 30, '10': 85, '11': 10, '12': 130, '13': 30, '14': 10, '15': 10, '16': 50}
+# Bars = 1.5x the longest SILENT GAP ever observed inside a SUCCESSFULLY COMPLETED agent
+# of that stage, measured across 611 finished agents (2026-08-24). This is stricter and
+# better-grounded than duration-based bars: A12 drops 130m->58m, A10 85m->52m, A13
+# 30m->10m, A11 15m->5m. A healthy agent has never exceeded these; anything past one is
+# doing something no successful run of that stage has done.
+HEAVY={'01': 25, '02': 20, '04': 12, '05': 18, '07': 32, '08': 8, '09': 12, '10': 52, '11': 5, '12': 58, '13': 10, '14': 5, '15': 5, '16': 18}
 NAMES={"01":"ingestion","02":"structure","04":"convergence","05":"verbatim","07":"pitfalls","08":"sensitivity",
        "09":"media","10":"solutions","11":"pagination","12":"authoring","13":"QC","14":"logical","15":"textbook","16":"publication"}
 now=time.time(); ts=time.strftime("%F %T")
@@ -80,7 +90,18 @@ for wf in targets:
     jp=os.path.join(wf,"journal.jsonl")
     if not os.path.exists(jp): continue
     jage=(now-os.path.getmtime(jp))/60
-    if jage>60: continue                      # long-finished run
+    # A journal only advances when an agent COMPLETES, so a run with one long A12 has a
+    # stale journal while being perfectly alive. Skipping on jage alone dropped a LIVE run
+    # on 2026-08-26 (journal 62m stale, agent writing 11m ago), reported live=0, and fired
+    # NO_PROGRESS against a healthy agent at 141% of typical. Keep the run if EITHER the
+    # journal or any agent transcript is recent.
+    if jage>60:
+        _fresh=False
+        for _af in glob.glob(os.path.join(wf,"agent-*.jsonl")):
+            try:
+                if (now-os.path.getmtime(_af))/60 <= 60: _fresh=True; break
+            except OSError: pass
+        if not _fresh: continue               # genuinely long-finished run
     done=set(); started=[]
     for line in open(jp,encoding="utf-8",errors="replace"):
         try: r=json.loads(line)
@@ -89,7 +110,7 @@ for wf in targets:
         if r.get("type")=="started": started.append(a)
         elif r.get("type")=="result": done.add(a)
     live=[a for a in started if a not in done]
-    wfstd=None; nlive=0; min_agent_idle=1e9
+    wfstd=None; nlive=0; min_agent_idle=1e9; n_past_bar=0
     for a in live:
         f=os.path.join(wf,f"agent-{a}.jsonl")
         if not os.path.exists(f): continue
@@ -132,6 +153,7 @@ for wf in targets:
         bar = (TOOLM if tool!="Bash" else 6.0) if kind=="tool" else HEAVY.get(stage,10)
         label=f"std{wfstd or '?'} ch{ch} A{stage} {NAMES.get(stage,'setup')}"
         detail.append(f"{ts} | {label:34} idle {idle:5.1f}m bar {bar:4.0f}m {'tool:'+tool if tool else 'generating'}")
+        if idle>=bar: n_past_bar+=1
         if kind=="tool" and idle>=bar:
             alerts.append(f"TOOL_HUNG {label} on {tool} {idle:.1f}m")
         elif kind=="gen" and idle>=bar:
@@ -150,8 +172,12 @@ for wf in targets:
     # legitimately freezes for an hour while agents write steadily. Require that NO agent
     # has written recently before calling it stalled. (2026-08-23: fired on three healthy
     # A12s, one of which had written 6 seconds earlier.)
-    if nlive>0 and jage>=20 and min_agent_idle>=10:
-        alerts.append(f"SHARD_STALLED {os.path.basename(wf)} journal idle {jage:.1f}m, quietest agent {min_agent_idle:.1f}m")
+    # A flat "quietest agent" threshold contradicts the per-stage bars: 83% of SUCCESSFUL
+    # A12 runs are silent >10m, so a flat 10m guard fires on healthy endgames. Require that
+    # EVERY live agent has exceeded its own stage's bar — the level no successful agent of
+    # that stage has ever reached.
+    if nlive>0 and jage>=20 and n_past_bar==nlive:
+        alerts.append(f"SHARD_STALLED {os.path.basename(wf)} journal idle {jage:.1f}m, all {nlive} agent(s) past their stage bars")
 
 for std in STDS:
     p=prog.get(std)
@@ -176,8 +202,40 @@ PY
     sleep "$POLL"; continue
   fi
   if [ "$V" != "OK" ]; then
-    echo "$(date '+%F %T') | TRIGGER $V" >> "$LOG"; echo "$V $R"; exit 0
+    # Require the SAME alert twice in a row. A single tick can catch a file mid-rotation or
+    # an agent a second before it writes; acting on one sample wastes a recovery session.
+    CONFIRM=$((CONFIRM+1))
+    if [ "$CONFIRM" -lt 2 ]; then
+      echo "$(date '+%F %T') | $V seen once — confirming next poll before acting" >> "$LOG"
+      sleep "$POLL"; continue
+    fi
+    echo "$(date '+%F %T') | TRIGGER $V (confirmed x$CONFIRM)" >> "$LOG"
+    # Only recover when the WHOLE run is stuck. Stopping a workflow kills every sibling
+    # agent, so acting on ONE overrunning agent destroys healthy work — on 2026-08-25 a
+    # single A05 at 19.6m vs an 18m bar would have thrown away a sibling A05 holding
+    # 11.5MB, another at 4.9MB, plus an A12 and an A10 mid-run. A lone GEN_OVERRUN now
+    # alerts and keeps watching; only SHARD_STALLED, DEAD_WORKFLOW or TOOL_HUNG recover.
+    case "$R" in
+      *SHARD_STALLED*|*DEAD_WORKFLOW*|*TOOL_HUNG*|*NO_PROGRESS*) RECOVERABLE=yes ;;
+      *) RECOVERABLE=no ;;
+    esac
+    if [ "$RECOVERABLE" = "no" ]; then
+      echo "$(date '+%F %T') | $V is a single-agent overrun — alerting only, siblings are healthy" >> "$LOG"
+      CONFIRM=0; sleep "$POLL"; continue
+    fi
+    if [ "$ACT" = "act" ]; then
+      # Bars are 1.5x the longest silence any SUCCESSFUL agent of that stage has shown, so
+      # crossing one means doing something no healthy run has ever done. Recover immediately
+      # rather than waiting: a wedged agent blocks its whole chapter, because wave 3 awaits
+      # every branch. One small session per incident — rare by construction.
+      echo "$(date '+%F %T') | ACTING: spawning recovery session" >> "$LOG"
+      "$CLAUDE" --bg "A gujarati-lp workflow has a wedged agent. Detector: $R. Do these steps IN ORDER and stop if any fails. STEP 1: TaskList to find every running local_workflow task. STEP 2: TaskStop EVERY one of them. STEP 3: VERIFY nothing is still running — re-run TaskList and also check that no agent transcript under ~/.claude/projects/*/subagents/workflows/wf_*/ has been modified in the last 2 minutes. If ANY workflow is still alive, STOP HERE, append 'recovery aborted: old run still alive' to $LOG, and do nothing else. Launching a second workflow over a live one makes two sets of agents write the same chapter files. STEP 4 (only if step 3 is clean): run python3 scratch/args_for.py $STDS 3 and relaunch scratch/chapter-runner-optimized.js with exactly those args via the Workflow tool. Do not hand-write args. Do not read RESUME.md. Keep output under 20 lines." \
+        --permission-mode acceptEdits --allowedTools "$ALLOW" >> "$LOG" 2>&1
+      echo "$(date '+%F %T') | recovery session dispatched — supervisor exiting" >> "$LOG"
+    fi
+    echo "$V $R"; exit 0
   fi
+  CONFIRM=0
   sleep "$POLL"
 done
 echo "=== supervisor timed out $(date '+%F %T') ===" >> "$LOG"

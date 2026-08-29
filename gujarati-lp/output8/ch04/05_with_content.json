@@ -1,0 +1,692 @@
+{
+ "chapter_id": "gseb_eng_gujarati8_ch4",
+ "plan_id": "gseb_eng_gujarati8_ch4_v1",
+ "chapter_name": "જબરી મધમાખી",
+ "grade": 8,
+ "genre": "મિશ્ર : વિસ્મયકથા (વાર્તા — પ્રમુખ) + માહિતીપ્રદ ગદ્ય (મધમાખીનો પરિચય — ગૌણ)",
+ "active_genre_profiles": [
+  "varta.md",
+  "mahitiprad_gadya.md"
+ ],
+ "teaching_lens": "ઘટના + પાત્ર + વળાંક (મધમાખીના માહિતી-ખંડ પૂરતું : તથ્ય + પરંપરા + જિજ્ઞાસા)",
+ "guiding_question": "હૉસ્પિટલની બારીમાંથી દેખાયેલી એક મધમાખી સ્વપ્નિલ માટે 'જબરી' ક્યારે અને શાથી બની જાય છે ?",
+ "cut_summary": {
+  "reading_scene_markers": 10,
+  "ghatna_markers": 8,
+  "mahiti_khand_markers": 2,
+  "topics": 10,
+  "modules": 3,
+  "segments": 8,
+  "concepts": 11,
+  "apparatus_markers_not_cut": [
+   "પ્રવેશપેટી (શિક્ષક માટે — વાચન-દૃશ્ય નથી)",
+   "શબ્દાર્થ (પેટી — વાચન-દૃશ્ય નથી)",
+   "ચર્ચા-વિચારણા (પેટી — સ્વાધ્યાય નથી)"
+  ],
+  "exercise_blocks_not_cut": 14
+ },
+ "objectives": [
+  {
+   "objective_id": "O1",
+   "legacy_id": "L1",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "સ્વપ્નિલ ઘરમાં પેઠો ત્યારથી ધ્રૂજવા માંડ્યો ત્યાં સુધીનાં કયાં કયાં ચિહ્નો પાઠમાં દેખાય છે તે શોધીને, મમ્મી કેમ ચિંતામાં પડ્યાં તે પોતાના શબ્દોમાં કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S1.T1",
+   "anchor": [
+    "M1.S1.T1.C1"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O2",
+   "legacy_id": "L2",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "કેટ-સ્કેન કરાવવાથી સ્વપ્નિલના દુખાવા અને ચક્કરનું કારણ કેવી રીતે જડ્યું તે પાઠની પંક્તિઓ પરથી ક્રમમાં કહેવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S2.T2",
+   "anchor": [
+    "M1.S2.T2.C2"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O3",
+   "legacy_id": "L3",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ડૉક્ટર ચાવડાએ ઑપરેશનને બદલે દવાનો રસ્તો કેમ પસંદ કર્યો તે પાઠમાંથી કારણ શોધીને સમજાવવું, અને મમ્મીને રાહત કેમ થઈ તે કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M1.S2.T3",
+   "anchor": [
+    "M1.S2.T3.C3"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O4",
+   "legacy_id": "L4",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "હૉસ્પિટલના દિવસો સ્વપ્નિલને કેમ કંટાળાભર્યા લાગ્યા તે કારણો ગણાવીને, 'માતાનો હાથ સાજો કરી રહ્યો છે' એ લાગણી પોતાના શબ્દોમાં કહેવી.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S3.T4",
+   "anchor": [
+    "M1.S3.T4.C4"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O5",
+   "legacy_id": "L5",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "બંધ ઓરડામાંથી બારી ખૂલતાં સ્વપ્નિલનું ધ્યાન ક્યાં ગયું તે કહીને, મધમાખી વિશે જાણવાની ઇચ્છા એને કેમ થઈ તે પાઠમાંથી સમજાવવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S4.T5",
+   "anchor": [
+    "M2.S4.T5.C5"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O6",
+   "legacy_id": "L6",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ભમતી મધમાખી અને કામગરી મધમાખીનું કામ જુદું પાડીને, મધપૂડા પરના નૃત્યથી દિશા અને અંતરની ખબર કેવી રીતે પડે તે પાઠને આધારે સમજાવવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S5.T6",
+   "anchor": [
+    "M2.S5.T6.C6",
+    "M2.S5.T6.C7"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O7",
+   "legacy_id": "L7",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "મધ ભેગું કરતાં કરતાં થતી પરાગનયનની ક્રિયાથી શું પેદા થાય છે તે કહીને, મધ કેમ ઔષધ તરીકે વર્ષો સુધી ટકે છે તે સમજાવવું.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S5.T7",
+   "anchor": [
+    "M2.S5.T7.C8"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O8",
+   "legacy_id": "L8",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "મધમાખીથી ડરવાથી માંડીને એને દોસ્ત ગણવા સુધીનો સ્વપ્નિલનો બદલાવ પાઠની ઘટનાઓ ક્રમમાં મૂકીને તપાસવો અને એ બદલાવનું કારણ કહેવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M3.S6.T8",
+   "anchor": [
+    "M3.S6.T8.C9"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O9",
+   "legacy_id": "L9",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "સાજા થવાના સમાચાર અને ગાયબ થયેલા મધપૂડાના સમાચાર એક જ દિવસે મળતાં સ્વપ્નિલની ખુશી નિરાશામાં કેમ બદલાઈ તે સમજાવવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M3.S7.T9",
+   "anchor": [
+    "M3.S7.T9.C10"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O10",
+   "legacy_id": "L10",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "મોટી બહેનની વાત સાંભળીને સ્વપ્નિલને શું સમજાયું તે કહીને, એણે મધમાખીને 'જબરી' કેમ કહી તે કારણ સાથે મૂલવવું.",
+   "bloom_level": "Evaluate",
+   "home_topic_id": "M3.S8.T10",
+   "anchor": [
+    "M3.S8.T10.C11"
+   ],
+   "status": "taught",
+   "theme_category": null
+  }
+ ],
+ "strand_to_objective_map": {
+  "L1": "O1",
+  "L2": "O2",
+  "L3": "O3",
+  "L4": "O4",
+  "L5": "O5",
+  "L6": "O6",
+  "L7": "O7",
+  "L8": "O8",
+  "L9": "O9",
+  "L10": "O10"
+ },
+ "modules": [
+  {
+   "module_id": "M1",
+   "module_name": "માંદગી અને હૉસ્પિટલના દિવસો",
+   "segments": [
+    {
+     "segment_id": "M1.S1",
+     "segment_name": "ઘરમાં અચાનક આવેલી માંદગી",
+     "topics": [
+      {
+       "topic_id": "M1.S1.T1",
+       "topic_name": "નિશાળેથી આવેલો થાક અને સખત માથું",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "introduction",
+       "difficulty": "easy",
+       "depends_on": [],
+       "objective_ids": [
+        "O1"
+       ],
+       "original_chunk": "સ્વપ્નિલ નિશાળેથી આવ્યો ત્યારે ખૂબ જ થાકેલો લાગતો હતો. માંડ માંડ ઘરમાં પેઠો. દફતર ફેંકીને સીધો સોફા પર આડો પડ્યો. મમ્મીએ આવીને કહ્યું, “બેટા, શૂઝ તો કાઢ.”\nસ્વપ્નિલ કહે, “મમ્મી મારું માથુ સખત દુખે છે. સહન નથી થતું.” મમ્મીએ એને પાણી આપ્યું. બે ઘૂંટડા માંડ પીધા અને સ્વપ્નિલ ધ્રૂજવા માંડ્યો. માથું પકડીને કહે કે મમ્મી, “આ સહન નથી થતું.”\nમમ્મી તો ચિંતામાં પડ્યાં. એમણે તરત જ સ્વપ્નિલના પપ્પાને બૂમ પાડી, “સાંભળો છો ? અહીં આવો, તરત જ આવો. જુઓ સ્વપ્નિલને શં થાય છે. એને ચક્કર આવ્યા લાગે છે. જુઓ કેટલો ધ્રૂજે છે !”",
+       "source_marker": "[[ઘટના: નિશાળેથી આવેલા સ્વપ્નિલનું માથું દુખે છે]]",
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T1.C1",
+         "concept_name": "થાક અને દુખાવાનાં પહેલાં ચિહ્નો",
+         "objective_id": "O1",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "સ્વપ્નિલ નિશાળેથી ઘરે આવે છે ત્યારે એ ખૂબ થાકેલો છે. એ માંડ માંડ (મુશ્કેલીથી) ઘરમાં પેસે છે, દફતર ફેંકીને સોફા પર આડો પડી જાય છે અને મમ્મીને કહે છે કે માથું સખત દુખે છે, સહન (વેઠવું) થતું નથી. મમ્મી પાણી આપે છે, પણ બે ઘૂંટડા પીતાં જ સ્વપ્નિલ ધ્રૂજવા લાગે છે. મમ્મી ચિંતામાં પડીને પપ્પાને બૂમ પાડે છે કે જુઓ, એને ચક્કર આવે છે અને એ કેટલો ધ્રૂજે છે.",
+       "word_count": {
+        "original": 93
+       },
+       "key_terms": [
+        "દફતર — નિશાળે લઈ જવાની ચોપડીઓની થેલી",
+        "માંડ માંડ — મુશ્કેલીથી, જેમતેમ કરીને",
+        "પેઠો — અંદર ગયો, પ્રવેશ્યો",
+        "સહન — વેઠવું, ખમી લેવું",
+        "ધ્રૂજવું — નબળાઈ કે ઠંડીથી શરીર કાંપવું",
+        "ચક્કર — માથું ફરવું, આંખે અંધારાં આવવાં"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M1.S2",
+     "segment_name": "તપાસ, નિદાન અને સારવારનો નિર્ણય",
+     "topics": [
+      {
+       "topic_id": "M1.S2.T2",
+       "topic_name": "ઍમ્બ્યુલન્સ, કેટ-સ્કેન અને મગજમાંની ગાંઠ",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "core",
+       "difficulty": "hard",
+       "depends_on": [],
+       "objective_ids": [
+        "O2"
+       ],
+       "original_chunk": "પપ્પા અને નિશા દોડી આવ્યાં. પપ્પાએ તરત જ ડૉક્ટરને ફોન કર્યો. ડૉક્ટરે કહ્યું કે એને જલદી હૉસ્પિટલ લઈ જાઓ. ઍમ્બ્યુલન્સ બોલાવી. હૉસ્પિટલમાં દાખલ કર્યો. ત્યાં ડૉક્ટરોએ એક ઇન્જેકશન આપીને એને સુવાડ્યો અને કહ્યું કે લક્ષણ જોતાં આપણે કેટ-સ્કેન કરવો પડશે. એનો કેટ-સ્કેન કરવામાં આવ્યો ત્યારે ખબર પડી કે મગજમાં એક ગાંઠ છે, જેને કારણે એને દુખાવો અને ચક્કર આવ્યાં છે. ન્યૂરોલૉજિસ્ટને બોલાવ્યા છે એ આવીને જોઈને આગળની સારવાર શી કરવી તે જણાવશે. બધાંના જીવ ઊંચા થઈ ગયા. બાપુજીએ બધાંને સાંત્વના આપતાં કહ્યું, “ચિંતા ન કરશો. ન્યૂરોલૉજિસ્ટ આવીને નિદાન કરીને સારવાર શરૂ કરશે. એમને આવવા દો. એ શું કહે છે એ જોઈએ. ત્યાં સુધી ધીરજ રાખો.”",
+       "source_marker": "[[ઘટના: હૉસ્પિટલમાં દાખલ — કેટ-સ્કેન અને મગજમાં ગાંઠ]]",
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T2.C2",
+         "concept_name": "તપાસથી કારણ સુધી",
+         "objective_id": "O2",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "પપ્પા અને નિશા દોડી આવે છે, ડૉક્ટરને ફોન થાય છે અને ઍમ્બ્યુલન્સ બોલાવીને સ્વપ્નિલને હૉસ્પિટલમાં દાખલ કરવામાં આવે છે. ડૉક્ટરો ઇન્જેકશન આપીને એને સુવાડે છે અને લક્ષણ (રોગની નિશાની) જોઈને કેટ-સ્કેન કરે છે. કેટ-સ્કેનમાં ખબર પડે છે કે એના મગજમાં એક ગાંઠ છે, અને દુખાવો તથા ચક્કર એને કારણે જ આવે છે. બધાંના જીવ ઊંચા થઈ જાય છે, પણ બાપુજી સાંત્વના (દિલાસો) આપતાં કહે છે કે ન્યૂરોલૉજિસ્ટ આવીને નિદાન કરે ત્યાં સુધી ધીરજ રાખો.",
+       "word_count": {
+        "original": 105
+       },
+       "key_terms": [
+        "લક્ષણ — ચિહ્ન, નિશાની; અહીં રોગ ઓળખાવતી નિશાની",
+        "ગાંઠ — શરીરની અંદર બાઝી ગયેલો માંસનો લોચો",
+        "નિદાન — રોગનું મૂળ કારણ શોધવું તે",
+        "સાંત્વના — દિલાસો, હૈયાધારણ આપવી તે",
+        "ધીરજ — ઉતાવળ કર્યા વગર રાહ જોવાની શક્તિ",
+        "ઍમ્બ્યુલન્સ — દરદીને દવાખાને પહોંચાડતી ખાસ ગાડી"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      },
+      {
+       "topic_id": "M1.S2.T3",
+       "topic_name": "ઑપરેશન નહીં, દવાનો રસ્તો",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [
+        "M1.S2.T2"
+       ],
+       "objective_ids": [
+        "O3"
+       ],
+       "original_chunk": "ન્યૂરોલૉજિસ્ટ નિવેશ ચાવડા કલાક પછી આવ્યા. એમણે બધા રિપોર્ટ્સ જોયા અને કહ્યું કે આમ તો ઑપરેશન કરીને ગાંઠ દૂર કરવી જોઈએ, પણ આ ગાંઠ એવી નાજુક જગ્યાએ થઈ છે કે ઑપરેશન જોખમી છે. આપણે દવા આપીને એ ગાંઠને ઓગાળવાના પ્રયત્નો કરીશું. બાબાને હૉસ્પિટલમાં જ રાખવો પડશે, કારણ કે ચક્કર અવારનવાર આવે અને દોડધામ થાય. અહીં એને ડૉક્ટરોની દેખરેખ હેઠળ રાખવો વધારે સારું રહેશે અને સારવાર પણ સારી રીતે થશે. સ્વપ્નિલની મમ્મીનું મોઢું તો સાવ પડી ગયું હતું, પણ એ તૈયાર થયાં. એમને એમ કે ઑપરેશન ન કરવું પડે તો સારું.",
+       "source_marker": "[[ઘટના: ન્યૂરોલૉજિસ્ટનું નિદાન — ઑપરેશન નહીં, દવા]]",
+       "concepts": [
+        {
+         "concept_id": "M1.S2.T3.C3",
+         "concept_name": "જોખમ જોઈને લેવાયેલો સારવારનો નિર્ણય",
+         "objective_id": "O3",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "ન્યૂરોલૉજિસ્ટ નિવેશ ચાવડા બધા રિપોર્ટ જોઈને કહે છે કે આમ તો ઑપરેશન કરીને ગાંઠ કાઢી નાખવી જોઈએ, પણ ગાંઠ એવી નાજુક જગ્યાએ થઈ છે કે ઑપરેશન જોખમી (નુકસાનનો ડર હોય એવું) બને. એટલે તેઓ દવાથી ગાંઠ ઓગાળવાનો રસ્તો પસંદ કરે છે અને સ્વપ્નિલને ડૉક્ટરોની દેખરેખ હેઠળ હૉસ્પિટલમાં જ રાખવાનું કહે છે. આ સાંભળીને મમ્મીનું મોઢું સાવ પડી જાય છે, છતાં ઑપરેશન ન કરવું પડે એ વિચારે એ તૈયાર થાય છે.",
+       "word_count": {
+        "original": 90
+       },
+       "key_terms": [
+        "જોખમી — નુકસાન થવાનો ડર હોય એવું",
+        "નાજુક — સહેજમાં બગડી જાય એવી, કોમળ",
+        "ઓગાળવું — પીગળાવીને ધીમે ધીમે ઓછું કરી નાખવું",
+        "દેખરેખ — સંભાળ, ધ્યાન રાખવું તે",
+        "હેઠળ — નીચે; અહીં ડૉક્ટરોની સંભાળમાં",
+        "સારવાર — રોગ મટાડવા માટે થતી દવા અને તપાસ"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M1.S3",
+     "segment_name": "હૉસ્પિટલના લાંબા દિવસો",
+     "topics": [
+      {
+       "topic_id": "M1.S3.T4",
+       "topic_name": "કંટાળાના દિવસો અને માના હાથની હૂંફ",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O4"
+       ],
+       "original_chunk": "સ્વપ્નિલને હૉસ્પિટલમાં દાખલ કરવામાં આવ્યો. પહેલા દિવસે તો બહુ તકલીફ ન પડી પણ બીજા દિવસથી કંટાળો આવવા લાગ્યો. ડૉક્ટરે મગજને શ્રમ આપવાની ના પાડી હતી એટલે વાંચવાનું બંધ હતું. ઘરેથી દિવસ દરમિયાન કોઈ ને કોઈ તો એની સાથે રહેતું, પણ ચોવીસ કલાક તો કોણ રહે ? અને વાતો પણ કેટલી થાય ? માથું દુખી આવે ત્યારે કશું જ ગમે નહીં. એ એકાદ-બે કલાક તો બહુ તકલીફ રહેતી. દવા, ઇન્જેકશન, જાતજાતની તપાસ ચાલ્યા કરતી. અઠવાડિયા પછી ડૉક્ટરે કહ્યું કે દવાનો ફાયદો દેખાઈ રહ્યો છે ચક્કર અને દુખાવો થોડાં ઘટ્યાં છે. પણ હજી હૉસ્પિટલમાંથી મુક્તિ મળે તેમ નથી. સ્વપ્નિલ થોડો નિરાશ થયો, પણ મમ્મી આવીને એની સાથે વાત કરે, એના માથા પર હળવેથી હાથ ફેરવે ત્યારે એની નિરાશા દૂર થતી. એને એવું લાગતું કે દવા નહીં પરંતુ એની માતાનો હાથ એને સાજો કરી રહ્યો છે.",
+       "source_marker": "[[ઘટના: હૉસ્પિટલનો કંટાળો અને મમ્મીના હાથની હૂંફ]]",
+       "concepts": [
+        {
+         "concept_id": "M1.S3.T4.C4",
+         "concept_name": "એકલતાનો કંટાળો અને માનો સ્પર્શ",
+         "objective_id": "O4",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "હૉસ્પિટલમાં પહેલો દિવસ તો નીકળી જાય છે, પણ બીજા દિવસથી સ્વપ્નિલને કંટાળો આવવા લાગે છે. ડૉક્ટરે મગજને શ્રમ (મહેનત) આપવાની ના પાડી છે એટલે વાંચવાનું બંધ છે, ઘરનું કોઈ ને કોઈ સાથે રહે છે પણ ચોવીસ કલાક કોઈ રહી શકતું નથી. અઠવાડિયા પછી ડૉક્ટર કહે છે કે દવાનો ફાયદો દેખાય છે, છતાં હજી હૉસ્પિટલમાંથી મુક્તિ (છુટકારો) મળે તેમ નથી. સ્વપ્નિલ નિરાશ થાય છે, પણ મમ્મી માથા પર હળવેથી હાથ ફેરવે ત્યારે એને લાગે છે કે દવા નહીં, માનો હાથ જ એને સાજો કરી રહ્યો છે.",
+       "word_count": {
+        "original": 133
+       },
+       "key_terms": [
+        "કંટાળો — કશું કરવાનું ન ગમે એવી ઉદાસી",
+        "શ્રમ — મહેનત",
+        "અઠવાડિયું — સાત વારનો સમય",
+        "મુક્તિ — છુટકારો; અહીં હૉસ્પિટલમાંથી રજા મળવી તે",
+        "નિરાશા — આશા તૂટી જવી, હિંમત હારી જવી",
+        "હળવેથી — ધીમેથી, નરમાશથી"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "M2",
+   "module_name": "બારીએ ખોલેલી મધમાખીની દુનિયા",
+   "segments": [
+    {
+     "segment_id": "M2.S4",
+     "segment_name": "બારીની બહાર દેખાયેલી નવી દુનિયા",
+     "topics": [
+      {
+       "topic_id": "M2.S4.T5",
+       "topic_name": "ખૂલેલી બારી અને સામેના મકાનનો મધપૂડો",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "transition",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O5"
+       ],
+       "original_chunk": "એક દિવસ એણે નર્સને કહ્યું કે આ ઍરકંડિશનર બંધ કરો અને આ બારી ખોલો. મારે બહારની હવા જોઈએ છે. નર્સ સવિતાબેન સારાં હતાં. એમણે બારી ખોલી આપી. સ્વપ્નિલે બહાર નજર ફેરવી. સામા મકાનના ત્રીજા માળે એને એક મધપૂડો દેખાયો. સારો એવો મોટો હતો. એણે મોટી બહેન દ્વારા પોતાનું દૂરબીન મંગાવી લીધું. સવારે એ રોજ પેલા મધપૂડાની માખીઓને નિહાળતો. એક દિવસે તો એક બે માખી એના ઓરડામાં આવી ચડી. સ્વપ્નિલને થયું કે આ કરડશે તો ઉપાધિ. એણે બારી બંધ કરાવી. માખી કાચની બારી પર ઘૂમરાયા કરીને જતી રહી. સ્વપ્નિલથી બીજે દિવસે રહેવાયું નહીં. એણે મોટીબહેનને કહ્યું કે ઇન્ટરનેટ પરથી મધમાખીઓ વિશે માહિતી જાણી લાવો અને મને કહો. મોટી બહેનને નવાઈ લાગી કે આને વળી મધમાખીઓમાં કેમ રસ પડ્યો ? સ્વપ્નિલે મધપૂડો બતાવ્યો. મારે એના વિશે જાણવું છે. એ મધમાખી મધ કેવી રીતે એકઠું કરે ? એ મધપૂડો કેવી રીતે બનાવે છે ? એ મધનું શું કરે છે ?",
+       "source_marker": "[[ઘટના: બારી ખૂલી — સામેના મકાન પર મધપૂડો]]",
+       "concepts": [
+        {
+         "concept_id": "M2.S4.T5.C5",
+         "concept_name": "બારી, દૂરબીન અને જાગેલી જિજ્ઞાસા",
+         "objective_id": "O5",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "એક દિવસ સ્વપ્નિલ નર્સને ઍરકંડિશનર બંધ કરીને બારી ખોલવાનું કહે છે, કારણ કે એને બહારની હવા જોઈએ છે. બારીમાંથી એને સામેના મકાનના ત્રીજા માળે એક મોટો મધપૂડો દેખાય છે, અને એ મોટી બહેન દ્વારા પોતાનું દૂરબીન (દૂરનું જોવાનું સાધન) મંગાવી લે છે. રોજ માખીઓને નિહાળતાં નિહાળતાં એની જિજ્ઞાસા એટલી વધે છે કે એ મોટી બહેનને ઇન્ટરનેટ પરથી મધમાખી વિશે માહિતી લાવવાનું કહે છે. મધ કેવી રીતે એકઠું થાય, મધપૂડો કેવી રીતે બને અને મધનું શું થાય — આ પ્રશ્નો હવે એના મનમાં ઘૂમે છે.",
+       "word_count": {
+        "original": 147
+       },
+       "key_terms": [
+        "મધપૂડો — મધમાખીઓએ બાંધેલું એમનું ઘર",
+        "દૂરબીન — દૂરદર્શક યંત્ર, દૂરની વસ્તુ પાસે હોય એવી દેખાડતું સાધન",
+        "નિહાળવું — ધ્યાનથી જોયા કરવું",
+        "ઉપાધિ — પીડા, મુશ્કેલી",
+        "ઘૂમરાવું — એક જ જગ્યાએ ગોળ ગોળ ફર્યા કરવું",
+        "ઍરકંડિશનર — ઓરડાની હવા ઠંડી કરવાનું યંત્ર"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M2.S5",
+     "segment_name": "મધમાખીની દુનિયાની ઓળખ",
+     "topics": [
+      {
+       "topic_id": "M2.S5.T6",
+       "topic_name": "ભમતી માખી, કામગરી માખી અને પૂડા પરનું નૃત્ય",
+       "topic_type": "CONCEPT",
+       "topic_category": "core",
+       "difficulty": "hard",
+       "depends_on": [
+        "M2.S4.T5"
+       ],
+       "objective_ids": [
+        "O6"
+       ],
+       "original_chunk": "બીજે દિવસે મોટી બહેન બધું જાણી લાવ્યાં. એમણે તો ટેબ્લેટમાં માહિતી અને વીડિયો પણ ડાઉનલોડ કરી લીધા હતા. સ્વપ્નિલે એ નિરાંતે જોયાં. એને ખબર પડી કે મધમાખી ખૂબ મહેનતુ જીવ છે. એમાં બે પ્રકારની માખીઓ હોય છેઃ ભમતી મધમાખી (scout bee) અને કામગરી મધમાખી (worker bee). આ ભમતી મધમાખી સવાર પડ્યે મધની શોધમાં નીકળી પડે છે. જાતજાતનાં ફૂલોમાં જાતજાતનાં મધ અને પરાગકણ હોય છે. એ જગ્યા બરાબર જોઈને મધપૂડામાં પાછી ફરે છે અને મધપૂડાની સપાટી પર એક પ્રકારનું નૃત્ય કરે છે. આ નૃત્ય દેવનાગરી લિપીના ળ જેવું હોય છે. એ નૃત્ય દ્વારા મધપૂડો અને સૂરજનાં કિરણો વચ્ચે ખૂણો કરી દે છે જેથી મધ કઈ દિશામાં છે એનો ખ્યાલ કામગરી મધમાખીઓને આવે છે નૃત્ય ધીમું હોય તો અંતર લાંબું અને ઝડપી હોય તો અંતર ઓછું એમ પણ કહી દે છે. સ્વપ્નિલને થયું કે અરે વાહ ! અંદરોઅંદર વાતચીત કરવાની આ રીત ગજબની છે. મોટી બહેને કહ્યું કે બધાં જ પ્રાણીઓ માણસની જેમ બોલીને વાતચીત નથી કરતાં પણ એમની રીત અલગ અલગ હોય છે અને બીજું એક સ્વપ્નિલે જાણ્યું કે કારણ વગર આ માખીઓ કરડતી પણ નથી.",
+       "source_marker": "[[માહિતી-ખંડ: ભમતી માખી, કામગરી માખી અને મધપૂડા પરનું નૃત્ય]]",
+       "concepts": [
+        {
+         "concept_id": "M2.S5.T6.C6",
+         "concept_name": "ભમતી અને કામગરી માખીનું વહેંચાયેલું કામ",
+         "objective_id": "O6",
+         "key_terms": [],
+         "content": []
+        },
+        {
+         "concept_id": "M2.S5.T6.C7",
+         "concept_name": "પૂડા પરના નૃત્યની ભાષા",
+         "objective_id": "O6",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "મોટી બહેન ટેબ્લેટમાં માહિતી અને વીડિયો લાવે છે, અને સ્વપ્નિલને ખબર પડે છે કે મધમાખી ખૂબ મહેનતુ જીવ છે. મધપૂડામાં બે પ્રકારની માખી હોય છે — ભમતી (રખડતી, શોધ કરતી) મધમાખી અને કામગરી (કામમાં મચી રહેનારી) મધમાખી. ભમતી માખી સવારે મધની શોધમાં નીકળે છે અને જગ્યા બરાબર જોઈને પાછી આવીને પૂડાની સપાટી પર એક પ્રકારનું નૃત્ય કરે છે; એ નૃત્યથી મધ કઈ દિશામાં છે અને કેટલું છેટે છે એ બંનેની જાણ કામગરી માખીઓને થઈ જાય છે. મોટી બહેન સમજાવે છે કે દરેક પ્રાણી માણસની જેમ બોલીને નહીં, પોતપોતાની અલગ રીતે વાત કરે છે.",
+       "word_count": {
+        "original": 175
+       },
+       "key_terms": [
+        "ભમતી — રખડતી, ફર્યા કરતી; અહીં મધ શોધવા નીકળતી માખી",
+        "કામગરી — કામમાં મચી રહેનારી",
+        "મહેનતુ — મહેનત કરવાવાળું, ઉદ્યમી",
+        "નૃત્ય — નાચ",
+        "સપાટી — કોઈ વસ્તુનો ઉપરનો ભાગ",
+        "અંતર — બે જગ્યા વચ્ચેનું છેટું"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      },
+      {
+       "topic_id": "M2.S5.T7",
+       "topic_name": "પરાગનયન, મધ અને એની ઔષધિ-શક્તિ",
+       "topic_type": "CONCEPT",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [
+        "M2.S5.T6"
+       ],
+       "objective_ids": [
+        "O7"
+       ],
+       "original_chunk": "બહેને કહ્યું, “મધ ભેગું કરવાની ક્રિયામાં મધમાખીઓ જાણે અજાણ્યે પરાગનયનની ક્રિયા કરે છે. જેથી ફળો અને અનાજ પેદા થાય છે. મધમાખીઓ જે મધ તૈયાર કરે છે તે ઔષધી તરીકે ઉપયોગી છે. જે વનસ્પતિનાં ફૂલોમાંથી આ મધ એકઠું થાય છે એ જે તે વનસ્પતિના ગુણ ધારણ કરે છે. એટલે અમુક મધ કડવું પણ હોય છે. મધ ઘણાં વર્ષો સુધી બગડતું નથી તેથી મધને લાંબા સમય સુધી સંગ્રહી શકાય છે અને ઔષધ તરીકે ઉપયોગ કરી શકાય છે.” સ્વપ્નિલને થયું કે આ મધમાખીઓ આપણા માટે ખોરાક અને ઔષધી બનાવે છે. આપણે કેવા કે એમનો ખોરાક ઝૂંટવીએ છીએ !",
+       "source_marker": "[[માહિતી-ખંડ: પરાગનયન, મધ અને ઔષધિ]]",
+       "concepts": [
+        {
+         "concept_id": "M2.S5.T7.C8",
+         "concept_name": "પરાગનયનથી ઔષધિ સુધી",
+         "objective_id": "O7",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "મોટી બહેન કહે છે કે મધ ભેગું કરતાં કરતાં મધમાખીઓ જાણે-અજાણે પરાગનયનની ક્રિયા કરી નાખે છે, જેને લીધે ફળ અને અનાજ પેદા થાય છે. મધમાખી જે મધ તૈયાર કરે છે તે ઔષધી (દવા) તરીકે ઉપયોગી છે, અને જે વનસ્પતિનાં ફૂલોમાંથી મધ ભેગું થયું હોય તે વનસ્પતિના ગુણ મધમાં ઊતરે છે — એટલે અમુક મધ કડવું પણ હોય છે. મધ વર્ષો સુધી બગડતું નથી, તેથી એને લાંબા સમય સુધી સંગ્રહી શકાય છે. આ સાંભળીને સ્વપ્નિલને થાય છે કે આપણે તો એમનો જ ખોરાક ઝૂંટવી લઈએ છીએ.",
+       "word_count": {
+        "original": 95
+       },
+       "key_terms": [
+        "પરાગનયન — ફૂલની રજ એક ફૂલથી બીજા ફૂલ સુધી પહોંચવાની ક્રિયા",
+        "પરાગકણ — ફૂલમાંની રજ",
+        "ઔષધી — દવા",
+        "વનસ્પતિ — ઝાડ, છોડ અને વેલા",
+        "સંગ્રહવું — ભેગું કરીને સાચવી રાખવું",
+        "ઝૂંટવવું — બળજબરીથી છીનવી લેવું"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "M3",
+   "module_name": "દોસ્તી, વિદાય અને જબરી મધમાખી",
+   "segments": [
+    {
+     "segment_id": "M3.S6",
+     "segment_name": "ગણગણાટથી બંધાયેલી દોસ્તી",
+     "topics": [
+      {
+       "topic_id": "M3.S6.T8",
+       "topic_name": "હથેળી પર બેઠેલી દોસ્ત અને મધનું ટીપું",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [
+        "M2.S5.T6"
+       ],
+       "objective_ids": [
+        "O8"
+       ],
+       "original_chunk": "બીજે દિવસે સ્વપ્નિલે બારી ખોલીને દૂરબીનથી એ મધપૂડો જોવાનું શરૂ કર્યું. એનું દૂરબીન એટલું શક્તિશાળી ન હતું છતાં એને મધમાખીઓની આવજા દેખાતી હતી. બારી ખૂલી એટલે તે દિવસની માફક એક બે મધમાખીઓ અંદર આવી. સ્વપ્નિલ હવે ડરતો ન હતો. ઓરડામાં ચારે બાજુ ઊડતી રહી. એના માથા ફરતે ગણગણતી બહાર નીકળી ગઈ. સ્વપ્નિલને થયું એમના ગણગણાટથી એ મને કશુંક કહેતી પણ હોય, પણ એમની ભાષા મને આવડતી નથી. એ આવડતી હોત તો કેટલી મજા આવત !\nઆ નિત્યક્રમ થઈ પડ્યો. રોજ સવારે કોઈ ન કોઈ મધમાખી એના રૂમમાં આવે, ફરીને, ગણગણીને જતી રહે. સ્વપ્નિલને એ નિહાળવાની ખૂબ મજા આવી. એણે એક વાર અમસ્તો હાથ ધર્યો તો એક માખી એની હથેળી પર બેઠી. બીજે દિવસે પણ એની આંગળી પર આવીને બેઠી. એ ગઈ પછી એને એ આંગળીને ટેરવે કશું ચમકતું દેખાયું. એણે જોયું તો એ મધનું નાનકડું ટીપું હતું. એણે ચાખ્યું તો ખરેખર એ મધ જ હતું. મારી બેટી ભેટ આપી ગઈ ! હવે તો એ મધમાખી એની પાકી દોસ્ત બની ગઈ હતી. એક દિવસ પાંચ-છ મધમાખી આવી અને એની આંગળી પર મધનાં ટીપાં મૂકી ગઈ. જાણે ઔષધીનો ડોઝ ! તેઓ આમતેમ ગણગણતી ફરતી હતી. એટલામાં સવિતાબહેન ઓરડામાં આવ્યાં. એમણે એ બધી માખીઓને ભગાડી અને બારી બંધ કરી. સ્વપ્નિલ કહે કે સવિતાબહેન, એ નહીં કરડે. મારી દોસ્ત બની ગઈ છે. એ ખૂબ કામ કરે છે અને સવિતાબહેન, તમે પણ એ મધમાખી જેવાં એકદમ કામગરાં છો. આખો વખત આમતેમ દોડધામ કરો છો. સવિતાબહેન મલકાઈને જોતાં રહ્યાં.",
+       "source_marker": "[[ઘટના: મધમાખી સાથે દોસ્તી — હથેળી, આંગળી અને મધનું ટીપું]]",
+       "concepts": [
+        {
+         "concept_id": "M3.S6.T8.C9",
+         "concept_name": "ડરથી દોસ્તી સુધીનો બદલાવ",
+         "objective_id": "O8",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "હવે સ્વપ્નિલ મધમાખીથી ડરતો નથી. રોજ સવારે કોઈ ને કોઈ માખી એના ઓરડામાં આવે, ફરીને અને ગણગણીને જતી રહે — આ એનો નિત્યક્રમ (રોજનું ચાલતું કામ) થઈ પડે છે. એક વાર એણે અમસ્તો (કારણ વગર, એમ જ) હાથ ધર્યો તો એક માખી એની હથેળી પર બેસી ગઈ, અને પછીના દિવસે આંગળીના ટેરવે મધનું નાનકડું ટીપું મૂકતી ગઈ; એક દિવસ તો પાંચ-છ માખી આવીને મધનાં ટીપાં મૂકી જાય છે. સવિતાબહેન એ બધીને ભગાડે છે ત્યારે સ્વપ્નિલ કહે છે કે એ તો હવે મારી દોસ્ત છે, અને સવિતાબહેન, તમે પણ એ મધમાખી જેવાં જ કામગરાં છો.",
+       "word_count": {
+        "original": 233
+       },
+       "key_terms": [
+        "નિત્યક્રમ — રોજ ને રોજ થતું કામ",
+        "ગણગણવું — ધીમો ગણગણ અવાજ કરવો",
+        "અમસ્તો — કારણ વગર, એમ જ",
+        "હથેળી — હાથના પંજાનો અંદરનો ભાગ",
+        "ટેરવું — આંગળીનું છેલ્લું ટોચકું",
+        "મલકાવું — હળવેથી હસવું"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M3.S7",
+     "segment_name": "રજા મળી અને ખાલી થયેલી દીવાલ",
+     "topics": [
+      {
+       "topic_id": "M3.S7.T9",
+       "topic_name": "તબિયત સુધરી, પણ મધપૂડો ગાયબ",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "transition",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O9"
+       ],
+       "original_chunk": "સ્વપ્નિલની તબિયત હવે સારી એવી સુધરી હતી. માથાનો દુખાવો તો લગભગ ઓછો થઈ ગયો હતો. ચક્કર પણ આવતાં ન હતાં. ડૉક્ટર ચાવડાએ એક દિવસ ફરીથી કેટ-સ્કેન કરી રિપોર્ટ જોઈને કહ્યું, “દવાની અસર થઈ છે. ગાંઠ તો પંચાણુ ટકા ઓગળી ગઈ છે. દવા થોડા દિવસ ચાલુ રાખવી પડશે, પણ સ્વપ્નિલ ઘરે જઈ શકે છે. એકાદ અઠવાડિયા પછી એ નિશાળે પણ જઈ શકશે.” બધાં રાજી થઈ ગયાં. સ્વપ્નિલ પણ ખુશ થયો. બધા મિત્રો એની રાહ જોઈ રહ્યા હતા. બધાં ગયાં એટલે એણે બારી ખોલી અને જોયું તો મધપૂડો ગાયબ હતો. એણે સવિતાબહેનને પૂછ્યું તો એમણે કહ્યું, “હૉસ્પિટલમાં ઘણા દરદીઓએ ફરિયાદ કરી કે એમના ઓરડામાં મધમાખીઓ ફરે છે. એટલે એ મધપૂડો ઉતારી લેવાયો.” સ્વપ્નિલ એકદમ નિરાશ થયો. ઘરે જતાં પહેલાં એને મધમાખીને ‘આવજો’ કહેવું હતું. બંધ બારી પર એને મધમાખીઓ ભમતી દેખાઈ. એણે બારી ખોલી. એમનો ગણગણાટ સંભળાયો. બે-ત્રણ આંટા મારીને એ જતી રહી.",
+       "source_marker": "[[ઘટના: તબિયત સુધરી, પણ મધપૂડો ઉતારી લેવાયો]]",
+       "concepts": [
+        {
+         "concept_id": "M3.S7.T9.C10",
+         "concept_name": "સાજા થવાની ખુશી અને ખાલી પડેલી દીવાલ",
+         "objective_id": "O9",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "સ્વપ્નિલની તબિયત સારી એવી સુધરી જાય છે. ડૉક્ટર ચાવડા ફરીથી કેટ-સ્કેન કરાવીને કહે છે કે દવાની અસર થઈ છે, ગાંઠ પંચાણુ ટકા ઓગળી ગઈ છે અને હવે એ ઘરે જઈ શકે છે. બધાં રાજી થાય છે, પણ બધાં ગયા પછી એ બારી ખોલે છે તો મધપૂડો ગાયબ હોય છે. સવિતાબહેન કહે છે કે દરદીઓની ફરિયાદ આવવાથી પૂડો ઉતારી લેવાયો, અને સ્વપ્નિલ એકદમ નિરાશ થઈ જાય છે — એને તો મધમાખીને ‘આવજો’ કહેવું હતું.",
+       "word_count": {
+        "original": 141
+       },
+       "key_terms": [
+        "તબિયત — શરીરની હાલત, આરોગ્ય",
+        "અસર — પરિણામ; અહીં દવા કામ લાગવી તે",
+        "ગાયબ — જતું રહેલું, ક્યાંય ન દેખાતું",
+        "દરદી — બીમાર માણસ, રોગી",
+        "ફરિયાદ — તકલીફની રજૂઆત, વાંધો",
+        "આંટા મારવા — આસપાસ ચક્કર લગાવવાં"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    },
+    {
+     "segment_id": "M3.S8",
+     "segment_name": "છેલ્લે મળેલો સંદેશો",
+     "topics": [
+      {
+       "topic_id": "M3.S8.T10",
+       "topic_name": "ઘરની સામેના ઝાડ પરનો નવો મધપૂડો",
+       "topic_type": "STORY_TELLING",
+       "topic_category": "climax",
+       "difficulty": "easy",
+       "depends_on": [
+        "M3.S7.T9"
+       ],
+       "objective_ids": [
+        "O10"
+       ],
+       "original_chunk": "થોડી વારમાં તો ઘરેથી બધાં એને લેવા આવ્યાં. હૉસ્પિટલના બધા કર્મચારીઓને ‘આવજો’ કરીને સ્વપ્નિલ નીકળ્યો. એનો જીવ હજી પેલી મધમાખી અને મધપૂડામાં જ હતો. એ કંઈ બોલતો ન હતો. મોટી બહેન એની નજીક જઈ એના કાનમાં ગણગણ્યાં, “સ્વપ્નિલ, આપણા ઘરની સામેના ઝાડ પર એક મધપૂડો બની રહ્યો છે.”\n“હેં ? શી વાત કરો છો ?” સ્વપ્નિલ બોલી પડ્યો. હવે એને ખબર પડી કે પેલી બે મધમાખી એ જ કહેવા આવી હતી. પણ એને એ વાતની ખબર ન પડી કે એમણે ઘરનું સરનામું કેવી રીતે જાણ્યું ? મોટી બહેનની પાછળ પાછળ ગઈ હશે ? મારી બેટી જબરી તો કહેવાય !”",
+       "source_marker": "[[ઘટના: ઘરની સામેના ઝાડ પર નવો મધપૂડો — ‘મારી બેટી જબરી તો કહેવાય !’]]",
+       "concepts": [
+        {
+         "concept_id": "M3.S8.T10.C11",
+         "concept_name": "ગણગણાટમાં છુપાયેલો સંદેશો",
+         "objective_id": "O10",
+         "key_terms": [],
+         "content": []
+        }
+       ],
+       "modified_chunk": "ઘરેથી બધાં એને લેવા આવે છે અને સ્વપ્નિલ હૉસ્પિટલના કર્મચારીઓને ‘આવજો’ કહીને નીકળે છે, પણ એનું મન હજી પેલી મધમાખી અને મધપૂડામાં જ છે. રસ્તામાં મોટી બહેન એના કાનમાં ગણગણીને કહે છે કે આપણા ઘરની સામેના ઝાડ પર એક મધપૂડો બની રહ્યો છે. આ સાંભળતાં જ સ્વપ્નિલને સમજાય છે કે બંધ બારીએ આવેલી પેલી બે માખી એ જ કહેવા આવી હતી. એને નવાઈ એ વાતની લાગે છે કે એમણે ઘરનું સરનામું કેવી રીતે જાણ્યું, અને એ મનમાં જ બોલી ઊઠે છે કે એ મધમાખી ખરેખર જબરી છે.",
+       "word_count": {
+        "original": 99
+       },
+       "key_terms": [
+        "કર્મચારી — કામકાજ કે નોકરી કરનાર",
+        "સરનામું — ઘર ક્યાં આવ્યું તે જણાવતી વિગત",
+        "નવાઈ — અચરજ, આશ્ચર્ય",
+        "જબરી — હોશિયાર, અક્કલવાળી; અહીં વખાણમાં વપરાયો છે",
+        "મારી બેટી — વહાલ અને અચરજ ભેગાં દેખાડતો બોલચાલનો પ્રયોગ; અહીં મધમાખી માટે વપરાયો છે"
+       ],
+       "primary_content_type": "image",
+       "secondary_content_type": null,
+       "tertiary_content_type": null,
+       "available_content_types": [
+        "image"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "Marker-to-topic accounting for Agent 4. 00_chapter_normalized.md carries thirteen non-સ્વાધ્યાય [[…]] markers. Ten are reading scenes and each becomes exactly one topic: eight [[ઘટના: …]] and two [[માહિતી-ખંડ: …]]. Three are apparatus and are deliberately NOT topics — the blue પ્રવેશપેટી (its own marker prints 'શિક્ષક માટે — વાચન-દૃશ્ય નથી'), the yellow શબ્દાર્થ box, and the closing ચર્ચા-વિચારણા box. The fourteen [[સ્વાધ્યાય: …]] markers (including the unnumbered રૂઢિપ્રયોગ pre-block) are Agent 10 territory and none was cut. Counts match 01_meta.json.structure_inventory exactly: ghatna 8, mahiti_khand 2, kadi/duha/pad/tek 0.",
+  "Mixed chapter, cut part-by-part under its own unit, dominant first. The eight story beats are cut ઘટના-wise under varta.md; the two expository blocks are cut માહિતી-ખંડ-wise (fact-step, not speaker) under mahitiprad_gadya.md, exactly as 01_meta.json.explanation_unit directs. No disagreement between the rendered page (via Agent 1's transcription) and the profile prior was found — the marker line Agent 1 wrote already sits at the fact-step in both expository blocks, so no boundary had to be moved.",
+  "One topic carries two concepts, so the chapter-continuous concept counter overtakes the topic counter from M2.S5.T7 onward. M2.S5.T6 does two genuinely separable things — the ભમતી/કામગરી division of labour, and the dance on the hive surface that signals direction and distance — which is the case mahitiprad_gadya.md reserves concepts[] for. Ten topics therefore carry eleven concepts: C1…C5 track T1…T5, T6 carries C6 and C7, and T7…T10 carry C8…C11. This is NOT a per-topic restart and NOT a numbering fault; c runs one to eleven in traversal order with no gap and no repeat.",
+  "topic_category placement. The chapter's single climax is the last topic, per 01_meta.json's instruction that the વળાંક and its ચોટ sit at the end and must not be opened early or split. Neither માહિતી-ખંડ topic carries 'climax', which keeps mahitiprad_gadya.md's hard gate one intact for the expository half while leaving varta.md's climax requirement satisfied in the story half. Two 'transition' topics are used: M2.S4.T5, where the chapter turns from the illness to the hive, and M3.S7.T9, where it turns from hospital to home. No topic is marked 'resolution' — this chapter ends on its turn, not after it.",
+  "Craft-label gate held. No objective names an અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર; every objective asks the child to find, order, explain or judge something the printed page states. Nothing in objectives O1 through O9 names the outcome that only M3.S8.T10 carries (the new hive, the word 'જબરી'), so varta.md's spoil-the-turn gate is not pre-broken at the plan level.",
+  "difficulty is relative inside this chapter and set by what stops an L2 reader on the page, not by idea size. 'hard' is used twice: M1.S2.T2 for the dense medical loanword run (ઍમ્બ્યુલન્સ, કેટ-સ્કેન, ન્યૂરોલૉજિસ્ટ, નિદાન, લક્ષણ) inside one long paragraph, and M2.S5.T6 for the chapter's densest factual block — the two Roman-script islands the book itself prints, '(scout bee)' and '(worker bee)', the દેવનાગરી-લિપિ letter shape used to describe the dance, and the direction-plus-distance mechanism, in a paragraph Agent 1 records as carrying a missing sentence-boundary full stop.",
+  "Uneven topic length, recorded for Agent 5 and Agent 12. M1.S1.T1 and M3.S8.T10 are short (three and two printed paragraphs of mostly dialogue); M2.S4.T5 and M3.S6.T8 are the two longest single-marker blocks in the chapter, M3.S6.T8 running two full paragraphs. The cut follows the story's turns rather than paragraph counts, so this unevenness is expected, but the long topics will need the tightest word discipline downstream.",
+  "depends_on records only real dependence and is empty on five of ten topics. M1.S2.T3 needs the ગાંઠ found in M1.S2.T2 before a treatment can be chosen; M2.S5.T6 answers the three questions Swapnil asks at the end of M2.S4.T5; M2.S5.T7 continues the same sitting with the sister; M3.S6.T8 turns on the fact learned in M2.S5.T6 that the bees do not sting without cause, which is why 'સ્વપ્નિલ હવે ડરતો ન હતો'; and M3.S8.T10 explains the two bees that circled the closed window at the end of M3.S7.T9.",
+  "No page render was opened. Every cut decision was answerable from 00_chapter_normalized.md's marker lines and prose; the layout questions this agent would otherwise need a PNG for (two-column verse, refrain shorthand, printed section headings) do not arise in an all-prose chapter that prints no verse at all.",
+  "Two items Agent 1 flagged that this agent deliberately did not act on, so they are not lost: the printed શબ્દાર્થ box glosses નગુણાં and ધંધો, neither of which appears in the reading text of any topic here (so neither should be glossed as if it were in a scene); and the chapter's final line prints an unmatched closing quote. Both belong to Agent 5's verbatim and Agent 12's glossing, not to the cut.",
+  "AGENT 5 — VERBATIM SOURCE. original_chunk on all ten topics is copied from 00_chapter_normalized.md and then read back, line by line, against the 1300×1713 renders in _renders/ (printed folios 27–30 = page-1.png … page-4.png). Every chunk's first and last sentence was re-read from a LANCZOS-upscaled crop at 2.0×–7×, plus every sentence carrying an unusual form. The chapter is all prose — no કડી, દુહો, પદ or ટેક — so the only line structure preserved is the printed paragraph break, encoded as a single newline inside the three multi-paragraph chunks (T1 has three printed paragraphs, T8 and T10 two each). T6 is a single printed paragraph that runs from the foot of folio 28 to the head of folio 29 and carries no newline, because a page break is not a paragraph break.",
+  "TRANSCRIPTION DEFECT FOUND IN 00_chapter_normalized.md — REPORTED, NOT SILENTLY PATCHED. Printed folio 28 reads 'નર્સ સવિતાબેન સારાં હતાં.' — સવિતાબેન, without હ. Agent 1 transcribed it as 'સવિતાબહેન', normalising it to the spelling the book uses on folio 30. Verified at 3× zoom on page-2.png (nurse's first mention) and again on page-4.png, where all five later occurrences genuinely do print 'સવિતાબહેન'. The book itself is inconsistent; the page is the authority, so M2.S4.T5's original_chunk carries 'સવિતાબેન' as printed and M3.S6.T8 / M3.S7.T9 carry 'સવિતાબહેન' as printed. This is the ONLY divergence between Agent 1's transcription and the render found in the whole reading text; Agent 1's own extraction_notes do not record it. Agent 11/13 should treat 00_chapter_normalized.md as carrying one unreported normalisation and re-read folio 28 before trusting it wholesale.",
+  "PRINTED IRREGULARITIES CONFIRMED AND KEPT, each re-verified on the render rather than inherited from Agent 1's note: (a) folio 27 'જુઓ સ્વપ્નિલને શં થાય છે.' — શં with anusvāra and no ુ-માત્રા where the sense wants શું; at 7× the ુ-માત્રા is genuinely absent. (b) folio 27 'મમ્મી મારું માથુ સખત દુખે છે.' — માથુ without anusvāra, while the next sentence prints માથું. (c) folio 28 'દવાનો ફાયદો દેખાઈ રહ્યો છે ચક્કર અને દુખાવો થોડાં ઘટ્યાં છે.' and folio 29 '…એનો ખ્યાલ કામગરી મધમાખીઓને આવે છે નૃત્ય ધીમું હોય તો…' — sentence-boundary full stop missing in both. (d) folio 30, the chapter's last words print an unmatched closing quote: 'મારી બેટી જબરી તો કહેવાય !”'. All four are transcribed exactly as printed. None is corrected here and none may be corrected downstream.",
+  "THE ળ IS THE BOOK'S OWN, NOT A MISREADING. Folio 29 prints 'આ નૃત્ય દેવનાગરી લિપીના ળ જેવું હોય છે.' — a Gujarati ળ named as a Devanagari letter, and લિપીના spelt with ી. Read at 3× and confirmed as ળ, not લ and not ય. Kept verbatim inside M2.S5.T6. Agents 7 and 12 must explain the dance from what the sentence says (the shape, the angle to the sun's rays, slow = far / fast = near) without silently repairing the book's script attribution, and without importing the outside 'figure-of-eight / waggle dance' description, which this chapter does not print.",
+  "ROMAN-SCRIPT ISLANDS KEPT. 'ભમતી મધમાખી (scout bee)' and 'કામગરી મધમાખી (worker bee)' are printed in Roman inside the Gujarati prose of folio 28 and stay inside M2.S5.T6's original_chunk. They are the book's own parenthetical technical glosses, which gujarati_verbatim.md rule 1 permits; they are not transliteration and they must not be dropped or converted.",
+  "LOANWORD SPELLINGS FROZEN AS THE PAGE PRINTS THEM, and re-checked on the render for each occurrence: કેટ-સ્કેન, ઇન્જેકશન (not ઇન્જેક્શન), ઍમ્બ્યુલન્સ, ઍરકંડિશનર, હૉસ્પિટલ, ડૉક્ટર, ન્યૂરોલૉજિસ્ટ, ઑપરેશન, રિપોર્ટ્સ, ટેબ્લેટ, ડાઉનલોડ, ઇન્ટરનેટ, શૂઝ. The ઍ and ઑ are on the page and are copied where printed.",
+  "NO [[…]] MARKER, NO APPARATUS TEXT AND NO સ્વાધ્યાય TEXT ENTERED ANY CHUNK. The teacher-addressed blue પ્રવેશપેટી (folio 27), the yellow શબ્દાર્થ box (folio 30), the રૂઢિપ્રયોગ. bullet block, all thirteen numbered exercise blocks (folios 31–35) and the closing ચર્ચા-વિચારણા box are excluded. The reading text ends at 'મારી બેટી જબરી તો કહેવાય !”' on folio 30; folio 31 opens the exercise apparatus, verified on page-5.png.",
+  "key_terms — six per topic on nine topics and five on M3.S8.T10, i.e. inside the 3–6 contract band and at the 4–6 std-8 row of shabd_gloss.md. Chosen at the L2 Ring-2/Ring-3 bar, not from the printed શબ્દાર્થ box: the box's fourteen entries are used as evidence only, and ten of its entries (લક્ષણ, નિદાન, જોખમ→જોખમી, હેઠળ, શ્રમ, અઠવાડિયું, પરાગકણ, દૂરબીન, કામગરી, ભમતી, કર્મચારીઓ) are picked up in the topic where each word actually falls, while Ring-2 words the box skips (દફતર, માંડ માંડ, પેઠો, હથેળી, ટેરવું, અમસ્તો, ઘૂમરાવું, નિત્યક્રમ, મલકાવું, આંટા મારવા) are glossed because an L2 std-8 reader stops on them. The box's નગુણાં and ધંધો are NOT glossed: neither word appears in the chapter's reading text.",
+  "The two printed રૂઢિપ્રયોગ — 'જીવ ઊંચો થવો' (its source sentence sits in M1.S2.T2) and 'મોં પડી જવું' (M1.S2.T3) — are deliberately NOT in key_terms; they belong to Agent 10 and the ભાષા-બોધ fields. 'મારી બેટી' in M3.S8.T10 is glossed instead, because it is the chapter's own colloquial exclamation, it is not in the printed રૂઢિપ્રયોગ block, and an L2 reader who takes it literally loses the ending.",
+  "modified_chunk is the plain 'શું થઈ રહ્યું છે' seed only — two to four sentences of simple શિષ્ટ ગુજરાતી with the hardest word glossed in parentheses at the point of use. It deliberately carries no ભાવ reading, no craft naming, no real-life link and no બોધ; those are Agent 12's and Agent 7's, built on top of this. The વળાંક is not opened before M3.S8.T10 in any seed — no seed before T10 names the new hive or the word જબરી, keeping varta.md's spoil-the-turn gate intact at this layer too.",
+  "Content types — all ten topics are reading scenes (cut_summary records ten reading-scene markers: eight [[ઘટના: …]] plus two [[માહિતી-ખંડ: …]]), so each carries primary_content_type 'image' with available_content_types ['image'] and null secondary/tertiary, one image per scene per global_content_rules.md rule 9. No second medium is planned anywhere in this chapter; the two માહિતી-ખંડ topics get an image like the rest rather than a diagram or an interactive, and Agent 9 owns whether any of the ten borrows or is authored. This matches the pack precedent in output8/ch01, ch02 and ch03.",
+  "word_count.original is whitespace-token count of the chunk actually attached, ranging from 90 (M1.S2.T3) to 233 (M3.S6.T8); the ten sum to 1311 tokens of reading text. The spread is the cut's, not this agent's: M3.S6.T8 and M2.S4.T5 are the two long single-marker blocks A4 already flagged, and downstream word discipline is tightest there.",
+  "Ids, topic_name, topic_type, topic_category, difficulty, depends_on, objective_ids, source_marker, concepts and the whole objectives / strand_to_objective_map registry are passed through from 02_structure.json byte-for-byte. The freeze sha256 in 04_converged.json was recomputed against 02_structure.json before any read and matched (43c5797c…17e6f), so the ids attached to here are the frozen ones. concepts[].key_terms are left as A2 emitted them (empty); topic-level key_terms are this agent's field."
+ ]
+}

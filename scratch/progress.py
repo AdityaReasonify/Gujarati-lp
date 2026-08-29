@@ -109,9 +109,26 @@ def live_agents():
                 started.append(a)
             elif r.get("type") == "result":
                 done.add(a)
+        # A run that has been stopped keeps its agent transcripts on disk forever. Without
+        # these two gates every stopped run's agents accumulate into the wedge count
+        # permanently — on 2026-08-25 this reported 9 wedged agents across 3 DEAD runs
+        # while all 4 live runs were healthy. Same class as the supervisor.sh fix.
+        run_fresh = any(
+            (now - os.path.getmtime(x)) < 15 * 60
+            for x in glob.glob(os.path.join(wf, "agent-*.jsonl"))
+        )
+        if not run_fresh:
+            continue
         for a in [x for x in started if x not in done]:
             f = os.path.join(wf, f"agent-{a}.jsonl")
             if not os.path.exists(f):
+                continue
+            try:
+                with open(f, "rb") as fh:
+                    fh.seek(max(0, os.path.getsize(f) - 4000))
+                    if b"[Request interrupted by user]" in fh.read():
+                        continue          # killed, not slow
+            except OSError:
                 continue
             st = os.stat(f)
             out.append({"run": os.path.basename(wf), "agent": a,
@@ -149,15 +166,13 @@ def main():
     newest_output = max([c["last_write"] or 0 for c in chapters] + [max(pack_writes)])
     quiet_min = (now - newest_output) / 60.0 if newest_output else None
 
-    wedged = [a for a in agents if a["idle_min"] >= IDLE_WEDGE_MIN]
-    verdict = "IDLE — no agents running"
-    if agents:
-        if wedged and quiet_min is not None and quiet_min >= IDLE_WEDGE_MIN:
-            verdict = f"WEDGED? {len(wedged)} agent(s) >{IDLE_WEDGE_MIN:.0f}m idle AND no new output for {quiet_min:.0f}m"
-        elif wedged:
-            verdict = f"WORKING — {len(wedged)} agent(s) quiet but output landed {quiet_min:.0f}m ago (large generation)"
-        else:
-            verdict = f"WORKING — {len(agents)} agent(s) active, newest output {quiet_min:.0f}m ago" if quiet_min is not None else f"WORKING — {len(agents)} agent(s) active"
+    # NO WEDGE VERDICT HERE, deliberately. Stall detection lives in health.py and
+    # supervisor.sh, which scope to a known run id. progress.py sees every run on disk, so
+    # any wedge count it produces mixes live agents with corpses from stopped runs — it
+    # reported 9 wedged agents across 3 DEAD runs on 2026-08-25 while all 4 live runs were
+    # healthy. Three thresholds for one question is two too many; this file reports
+    # PROGRESS, and progress is what the chapter files say.
+    verdict = f"{len(agents)} agent(s) writing recently" if agents else "no agents writing"
 
     done_all = [c for c in chapters if len(c["done"]) == len(STAGES)]
     resume_args = {"std": STD, "concurrency": 3,

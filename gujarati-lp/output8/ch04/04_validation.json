@@ -1,0 +1,55 @@
+{
+ "status": "pass",
+ "checks": {
+  "genre_fidelity": {
+   "pass": true,
+   "notes": [
+    "Explanation unit matches 01_meta.json: ઘટના-wise for the eight story beats under varta.md, માહિતી-ખંડ-wise (fact-step, not speaker) for the two expository blocks under mahitiprad_gadya.md. Mixed chapter, each part cut under its own unit, dominant first — Check 1's mixed-chapter clause satisfied.",
+    "kadi 0, duha 0, pad 0, tek_occurrences 0 — no દુહો shares a topic, no પદ is split, no ટેક topic is owed. All four clauses vacuous and verified so against the marker counts, not assumed.",
+    "The વળાંક 'સ્વપ્નિલ, આપણા ઘરની સામેના ઝાડ પર એક મધપૂડો બની રહ્યો છે.' and its ચોટ 'મારી બેટી જબરી તો કહેવાય !' sit together inside M3.S8.T10 — not opened early, not split across two topics, as 01_meta.json.explanation_unit requires.",
+    "varta.md avoid item 4 (spoiling the turn) holds at plan level: no objective before O10 names the new hive or the word જબરી. mahitiprad_gadya.md avoid items 2 and 3, the two assigned to this agent, both pass.",
+    "avoid-list conflict between the two active profiles resolved by part-scoping per 01_meta.json — see notes."
+   ]
+  },
+  "coverage": {
+   "pass": true,
+   "scenes": 10,
+   "topics": 10,
+   "notes": [
+    "Ten reading-scene markers, ten topics, identical order, one marker per topic — verified by direct comparison of the marker sequence in 00_chapter_normalized.md against the plan traversal.",
+    "No સ્વાધ્યાય block became a topic. All fourteen exercise_inventory headings cross-checked against all ten topic_name values and all ten source_marker values: zero collisions, and no [[સ્વાધ્યાય: …]] marker appears as any topic's source.",
+    "Three apparatus markers deliberately not cut — પ્રવેશપેટી, શબ્દાર્થ, ચર્ચા-વિચારણા. Correct under explanation_unit_map.md rule 4.",
+    "No topic covers text that no marker claims."
+   ]
+  },
+  "objectives": {
+   "pass": true,
+   "count": 10,
+   "notes": [
+    "Root objectives[] present, O1–O10, all objective_id values unique.",
+    "Every home_topic_id resolves to a topic in this tree; all eleven anchor ids resolve to concepts in this tree.",
+    "strand_to_objective_map covers every legacy_id L1–L10 exactly once, with matching values and no duplicate targets; single strand L / ભાષા અને સાહિત્ય throughout.",
+    "Every topic carries objective_ids and each resolves to the registry; every concept's objective_id resolves too.",
+    "Each objective is text-grounded and chapter-specific — કેટ-સ્કેન and the ગાંઠ, ડૉક્ટર ચાવડા's choice of medicine over surgery, the માતાનો હાથ line, the બારી and દૂરબીન, ભમતી/કામગરી and the દેવનાગરી-ળ dance, પરાગનયન and મધની ઔષધિ-શક્તિ, the fear-to-friendship turn, the same-day good news and empty wall, and the closing જબરી. None could be pasted into another chapter.",
+    "Ids obey naming_conventions.md: M1–M3, S1–S8 and T1–T10 continuous across the chapter with no restart, C1–C11 chapter-continuous, no M1.S1.T1.P1-style objective code anywhere in the file, and no digit in any module, segment, topic or concept display name."
+   ]
+  }
+ },
+ "blocking": [],
+ "owner": null,
+ "notes": [
+  "Pre-reading clause of Check 2 is vacuously satisfied, not skipped: this std-8 chapter prints no student-facing pre-reading opener. The blue પ્રવેશપેટી carries its own marker '[[પ્રવેશપેટી (શિક્ષક માટે — વાચન-દૃશ્ય નથી)]]' and is teacher-addressed apparatus, which explanation_unit_map.md rule 4 forbids cutting as a topic; the શબ્દાર્થ and ચર્ચા-વિચારણા boxes are the same. A2 left all three out and said so. Pack precedent agrees — output8/ch01, ch02, ch03 and the output6 chapters all open on their first reading scene with topic_category 'introduction', exactly as M1.S1.T1 does here.",
+  "Mixed-chapter avoid-list scoping, checked and upheld. mahitiprad_gadya.md avoid item 1 is written plan-wide ('no topic in the plan carries topic_category: climax') while varta.md avoid item 4 presupposes a climax topic. 01_meta.json's extraction_notes settle it — varta.md's avoid list governs the eight story beats, mahitiprad_gadya.md's governs the two માહિતી-ખંડ only. The single climax (M3.S8.T10) sits in the વાર્તા half and neither M2.S5.T6 nor M2.S5.T7 carries it. Agents 7 and 13 must carry this part-scoping forward rather than applying either list whole-plan.",
+  "mahitiprad_gadya.md avoid item 2 is a structural check assigned to this agent, and it passes: the expository half is 2 topics against 10 quoted speaker turns in the reading text, and the T6/T7 boundary falls at a completed fact-step (division of labour + dance signal, then પરાગનયન + મધ + ઔષધિ), not merely at 'બહેને કહ્યું'.",
+  "Concept counter verified in full because it looks anomalous: 10 topics carry 11 concepts, since M2.S5.T6 splits into C6 (ભમતી/કામગરી division of labour) and C7 (the dance on the hive surface). c runs 1 to 11 in traversal order with no gap and no repeat, every concept_id is prefixed by its own topic_id, and nothing restarts inside a topic. This is the chapter-continuous rule of phase2_contract.md, not a numbering fault.",
+  "A2's own note reads 'Nothing in objectives O1 through O9 names the outcome that only M3.S8.T10 carries' while the registry holds ten objectives. The substance is correct — O10 is the climax topic's own objective, so varta.md's spoil-the-turn gate is intact — but the note's range is off by one. Recorded so a later reader does not mistake it for a missing objective.",
+  "O3 ends '…અને મમ્મીને રાહત કેમ થઈ તે કહેવું.' The page prints 'સ્વપ્નિલની મમ્મીનું મોઢું તો સાવ પડી ગયું હતું, પણ એ તૈયાર થયાં. એમને એમ કે ઑપરેશન ન કરવું પડે તો સારું.' The relief is text-grounded but it arrives with a fallen face, not instead of one. Agent 7 should teach both halves and not let 'રાહત' erase the printed દુઃખ. Not a block — the objective is chapter-specific and answerable from the page.",
+  "original_chunk is the empty string on all ten topics; the cut plan is carried in source_marker, one marker per topic. Check 2 was run against source_marker plus topic_name and passes — no exercise heading from 01_meta.json's fourteen-entry inventory collides with any topic name or marker, and no source_marker is a [[સ્વાધ્યાય: …]] marker. Verbatim transcription remains Agent 5's work; a still-empty original_chunk at Agent 5's gate would be a different failure.",
+  "Coverage arithmetic: 00_chapter_normalized.md carries 10 reading-scene markers (8 [[ઘટના: …]] + 2 [[માહિતી-ખંડ: …]]) and the plan carries 10 topics in the identical printed order, one marker each, no marker unused and no topic claiming text no marker covers. This matches 01_meta.json.structure_inventory exactly (ghatna 8, mahiti_khand 2, kadi/duha/pad/tek all 0), so Check 1's કડી, દુહો, પદ and ટેક clauses are vacuous for an all-prose chapter.",
+  "The chapter prints no in-text summary or value wrap, so no REVIEW topic was authored. Correct — inventing one would be an added scene.",
+  "Uneven topic length stands as A2 recorded it: M1.S1.T1 and M3.S8.T10 are short, M2.S4.T5 and M3.S6.T8 are the longest single-marker blocks. The cut follows the story's turns rather than paragraph counts, which is what varta.md asks for. Downstream word discipline is tightest on the two long topics.",
+  "No page render was opened by this agent. Every one of the three checks was answerable from 00_chapter_normalized.md's markers, prose and 01_meta.json; the layout questions a PNG would settle (two-column verse, refrain shorthand, printed section headings) do not arise in a chapter that prints no verse.",
+  "chapter_id 'gseb_eng_gujarati8_ch4' and plan_id '…_v1' are inherited unchanged from 01_meta.json and remain PROVISIONAL pending VERIFY-1 (board and medium segments) and VERIFY-2 (chapter_master_id, publication_id, both still null). Not a phase-2 id-contract failure at this stage — the contract's own text marks these values provisional — but they must be resolved before any upload.",
+  "Ids are frozen from this pass. Only Agent 14 may renumber, and O{n} plus strand_to_objective_map are exempt from that renumber."
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "chapter_id": "gseb_eng_gujarati7_ch13",
+ "plan_id": "gseb_eng_gujarati7_ch13_v1",
+ "textbook_order": [
+  "M1.S1.T1",
+  "M1.S2.T2",
+  "M1.S2.T3",
+  "M1.S3.T4",
+  "M2.S4.T5",
+  "M2.S4.T6",
+  "M2.S5.T7",
+  "M2.S5.T8",
+  "M3.S6.T9",
+  "M3.S6.T10"
+ ],
+ "source": "printed pages 85–88 read off the render (_renders/page-1.png … page-4.png); the chapter's reading text runs 85–88 and the tail apparatus 89–92",
+ "matches_logical_order": true,
+ "human_confirmation_required": true,
+ "reason": "textbook order is identical to logical order",
+ "checked": "the ten printed [[ઘટના: …]] blocks were re-read in printed-page sequence off _renders/page-1.png … page-4.png and mapped one-to-one onto the topic ids in 02_structure.json's traversal order; the two sequences are identical, so the comparison actually happened and returned a match rather than being assumed",
+ "notes": [
+  "Order is the order of the teaching text only. The શબ્દાર્થ and રૂઢિપ્રયોગ boxes and the thirteen printed exercise blocks on printed pages 89–92 are apparatus, not topics, and are absent from this list by design.",
+  "No વ્યાકરણ એકમ, પૂરકવાચન piece or 'આગળ વધતાં પહેલાં' revision unit falls inside this chapter's printed span, so none had to be excluded.",
+  "M2.S4.T6 spans the printed page 87/88 break and M3.S6.T10 spans eight printed dialogue paragraphs; neither is split, so the printed sequence still yields exactly ten entries."
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "converged": true,
+ "source": "02_structure.json",
+ "sha256": "43c5797cd416e738b6e78821d96e915d8787e8fa0894f10bfeda726ef2417e6f",
+ "verdict": "pass",
+ "notes": [
+  "Convergence record only — the structure payload is NOT duplicated here. Downstream agents read 02_structure.json for structure and this file only to confirm convergence and to check the payload has not changed since the freeze.",
+  "sha256 is of 02_structure.json as it stood at the freeze; recompute and compare before trusting the ids.",
+  "Ids frozen at this pass: M1–M3, M1.S1–M3.S8, M1.S1.T1–M3.S8.T10, C1–C11 chapter-continuous, O1–O10 with L1–L10. Only Agent 14 renumbers, and O{n} plus strand_to_objective_map are exempt from that renumber.",
+  "Single validation pass, no loop. Full findings and the twelve non-blocking notes are in 04_validation.json."
+ ]
+}

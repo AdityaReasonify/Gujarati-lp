@@ -1,0 +1,178 @@
+{
+ "topics": [
+  {
+   "topic_id": "M1.S1.T1",
+   "avoid_checks": [
+    {
+     "check": "Summary-only teaching. At least one sentence of `explanation` must state something this topic's `modified_chunk` does not: that the LAST act inside the dream — 'ડ્રોન કૅમેરો ક્લિક કર્યો' — is exactly what the real sunlight gets mistaken for, so the dream is broken from inside itself by its own invention. An `explanation` that only re-lists ચક્ર → ચાકડો → માટલું → સંઘાડા → બળદગાડું → આગગાડી → ઊડતું ચક્ર → ડ્રોન, with no sentence linking the ફ્લેશ to the તડકો, is the seed retold and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "A tacked-on બોધ. No sentence of `explanation`, `summary`, `detailed_summary`, any `concept_bullets` line or any `recall_questions[].answer` may turn 'ચક્ર ફરતું ગયું અને દુનિયા બદલાતી ગઈ' into a rule about invention or progress — no closing clause of the shape 'આપણે પણ કંઈક નવું શોધવું જોઈએ' / 'શોધ દુનિયા બદલે છે' / 'આ વાર્તા આપણને શીખવે છે…'. That line is what નિશ્ચલભાઈ dreamt, not an instruction the chapter gives the child.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક આખી હારમાળાને ખરેખર બનેલી ઘટના તરીકે વાંચે છે — એને એમ લાગે છે કે નિશ્ચલભાઈએ સાચે જ ચક્રની શોધ કરી, માટલું ને બળદગાડું બનાવ્યાં ને ડ્રોન ઉડાડ્યું. પછી બીજા ફકરાથી શરૂ થતી સવારની વાત સાથે એનો મેળ બેસતો નથી અને વાર્તા ક્યાંથી શરૂ થાય છે એની જ ગૂંચવણ રહી જાય છે.",
+   "correction": "સમજૂતીના પહેલા જ વાક્યમાં કહી દો કે ચક્રથી ડ્રોન સુધીની આખી હારમાળા સ્વપ્નની અંદર છે. પછી પાઠની બે પંક્તિઓ સામે આંગળી ચીંધો — 'સરસ મજાના સ્વપ્નમાં ભંગ પડ્યો.' અને ''ઓહ, આ તો તડકો છે, ફ્લેશ નથી!'' — જે બતાવે છે કે સ્વપ્ન ક્યાં ચાલતું હતું ને ક્યાં તૂટ્યું. પુનઃસ્મરણના જવાબમાં પણ 'સ્વપ્નમાં' શબ્દ સાથે જ ઉત્તર બંધાય."
+  },
+  {
+   "topic_id": "M1.S2.T2",
+   "avoid_checks": [
+    {
+     "check": "Summary-only teaching. `explanation` must add the beat's turn, not its gadget inventory: at least one sentence must say that among the scrolling news ONE item ('એ ચમક્યા!') is what starts the અશાંતિ, and that the same man who was ખુશ over his dream now steps back to click and read. An `explanation` that only names ચા-ની સ્વિચ, વૉશબેઝિન, ઓટો બ્રશ, અરીસાનો સ્ક્રીન and ચાર્જિંગ પ્લેસ carries no information beyond `modified_chunk` and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "No craft label at std 7. No `explanation`, `key_terms` entry, `concept_bullets` line or `recall_questions[].answer` may name a literary device (સજીવારોપણ, અલંકાર, વ્યંગ, રૂપક) for 'બ્રશ … બીપ બીપ બીપ કરીને રોવા માંડ્યું', 'બ્રશના કણસવા', 'ડાહ્યુંડમરું થઈને' or the તડકો's ''મિસ્ટર નિશ્ચલ, આટલું મોડે સુધી ઘોરાય નહિ!''; the fun is pointed at by quoting the line and asking about it. Soft because this is profiles/students/std-7.md §2 and §5.5's standing gate, not an item of varta.md's own avoid list.",
+     "profile": "varta",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "આ વાર્તાની દુનિયામાં યંત્રો ખરેખર બોલે છે, એટલે બાળક પાસે એ પારખવાની કોઈ નિશાની રહેતી નથી કે કયું બોલવું સાચે બન્યું ને કયું લેખકની મજાક છે — એ તડકાએ કહેલું વાક્ય કોઈ માણસે કહ્યું હોય એમ વાંચે છે અને બ્રશ સાચે જ રડ્યું એમ સમજી લે છે.",
+   "correction": "'જાણે કે' શબ્દ પર આંગળી મૂકીને, વાક્યને સાદી ગુજરાતીમાં ફરી કહો — તડકો બોલ્યો નથી, તડકો પડ્યો એટલે મોડું થયાનું ભાન થયું. બ્રશ માટે અલગ કરી બતાવો : 'બીપ બીપ' એ બ્રશનો ખરો અવાજ છે, અને 'રોવા માંડ્યું', 'કણસવું', 'ડાહ્યુંડમરું' એ લેખકના શબ્દો છે, જે બ્રશને રિસાયેલા બાળક જેવું બતાવીને હસાવે છે. પુનઃસ્મરણમાં પૂછો : 'બ્રશ ખરેખર રડે છે કે લેખક મજા કરે છે ?'"
+  },
+  {
+   "topic_id": "M1.S2.T3",
+   "avoid_checks": [
+    {
+     "check": "Judging a character the story treats with sympathy. No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may attach an evaluative label — આળસુ, બેદરકાર, બેજવાબદાર, ગેરશિસ્તવાળો or a synonym — to નિશ્ચલભાઈ for the machine's 'છેલ્લા ત્રણ દિવસથી તમે ડાયરી જોઈ નથી' or for his 'ના હું પછીથી જોઈ લઈશ'. The chapter plays the exchange for comedy and keeps him likeable throughout.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "Spoiling the turn early. Forgetfulness may not be named as his સ્વભાવ in this topic: the words ભુલકણો / ભૂલી જવાની ટેવ / વિસ્મરણશીલ (or a synonym) must not appear in this topic's `topic_name`, `explanation`, `summary`, `concept_bullets` or any `recall_questions[].answer`. The chapter prints that trait only in M3.S6.T10 ('તમારા ભુલકણા સ્વભાવ વિશે ખબર જ છે'), and the whole વળાંક stands on it being new there.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક 'ઓકે' ને માત્ર 'હા' કહેવા બરાબર સમજે છે, એટલે મશીન ફરી ફરી કેમ પૂછે છે તે એને નકામી માથાકૂટ લાગે છે અને આખા પ્રસંગની મજા તથા નિશ્ચલભાઈની ઉતાવળ બંને હાથમાંથી સરી જાય છે.",
+   "correction": "પહેલી જ વાર 'ઓકે કરવું — યાદીમાં કામ પૂરું થઈ ગયું એવું નિશાન કરવું' એમ ગ્લોસ કરો, અને પછી બતાવો કે એક જ 'ઓકે' બોલવાથી બાકી પડેલાં બધાં જ કામ પૂરાં થયેલાં ગણાઈ જાત — એટલે જ મશીન ''તમે ચોક્કસ છો ?'' પૂછે છે અને એટલે જ એ 'એક પછી એક કામ બોલો' કહે છે. 'પેન્ડિંગ' અને 'સ્ટેટસ' પણ એ જ વાક્યમાં ગ્લોસ થાય."
+  },
+  {
+   "topic_id": "M1.S3.T4",
+   "avoid_checks": [
+    {
+     "check": "Summary-only teaching. This topic is one printed sentence, so `explanation` must add what makes the job nearly impossible rather than re-say it: that TWO things must happen in one morning ('ઑફિસથી લેવાની છે' and 'ચારસો કિલોમીટર દૂર બપોર સુધીમાં પહોંચાડવાની છે'), and that there is no second chance because the લોકાર્પણ is fixed for the next morning. An `explanation` that repeats the sentence's contents in easier words is `modified_chunk` again and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "એક જ લાંબા વાક્યમાં બે જુદા સમય છપાયા છે, એટલે બાળક બંનેને ભેગા કરી દે છે અને 'કાલે સવાર સુધીમાં પહોંચાડવાનું છે' એવો જવાબ આપે છે — સમયમર્યાદા ઢીલી થઈ જાય છે અને પછીની આખી દોડાદોડનું કારણ જ ઊડી જાય છે.",
+   "correction": "સમજૂતીમાં બે સમય જુદા પાડીને કહો : પહોંચાડવાનું આજે બપોર સુધીમાં છે, અને લોકાર્પણ એની બીજી સવારે છે. 'શતાબ્દી મહોત્સવ' અને 'લોકાર્પણ' બંને એ જ વાક્યમાં ગ્લોસ થાય, અને પુનઃસ્મરણનો પહેલો પ્રશ્ન 'ક્યાં સુધીમાં પહોંચાડવાનું છે ?' એ સીધો સમય જ માગે."
+  },
+  {
+   "topic_id": "M2.S4.T5",
+   "avoid_checks": [
+    {
+     "check": "Spoiling the turn early. No sentence of `explanation`, `summary`, `detailed_summary` or any `recall_questions[].answer` may explain સ્નેહાનું ''કરી દેવાનું, પપ્પા!'' by something the child has not yet read — the box on the back seat, her mother's instruction, or the fact that the સ્માર્ટબોર્ડ સિસ્ટમ was already fetched. At this point in the story her answer is confidence and nothing more, and it must be taught as that.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "Summary-only teaching. `explanation` must name what this beat SHOWS rather than what it reports: the father never says he is afraid — the fear of his છાપ going ધૂળધાણી and of આર્થિક નુકસાન is read off his face ('એના બાપુજીનો ચહેરો તરત જ વાંચી ગઈ'), and four words, ''કરી દેવાનું, પપ્પા!'', are how the story shows સ્નેહાનો સ્વભાવ. An `explanation` that only says he was worried and she asked why adds nothing to `modified_chunk` and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'ચહેરો વાંચી જવો' રૂઢિપ્રયોગ છે, પણ બાળક એને શબ્દશઃ વાંચે છે — ચહેરા પર કંઈક લખેલું હતું એમ સમજી બેસે છે, અથવા એમ માની લે છે કે પપ્પાએ પહેલાં કહી દીધું હશે. પરિણામે આખા પ્રસંગનો મુદ્દો, કે દીકરી કહ્યા વગર જ સમજી ગઈ, હાથમાંથી છૂટી જાય છે.",
+   "correction": "જ્યાં એ પંક્તિ આવે ત્યાં જ 'ચહેરો વાંચી જવો — ચહેરો જોઈને જ મનની વાત સમજી જવી' એમ ગ્લોસ કરો, અને ક્રમ બતાવો : સ્નેહાએ પહેલાં ''શેનું ટેન્શન છે, બાપુજી ?'' પૂછ્યું, ને પછી પપ્પાએ મુશ્કેલી કહી. 'ધૂળધાણી થવું' પણ ત્યાં જ, પાઠના રૂઢિપ્રયોગ-ખાનાના શબ્દોમાં જ ગ્લોસ થાય."
+  },
+  {
+   "topic_id": "M2.S4.T6",
+   "avoid_checks": [
+    {
+     "check": "Judging a character the story treats with sympathy. No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may label નિશ્ચલભાઈ ડરપોક, બીકણ, જૂનવાણી, પછાત or મૂરખ for ''ઍરટૅક્સી ? એ મને ન ફાવે. માંડ તો આ ઓટોમેટેડ ગાડી ફાવી છે.'', and none may label સ્નેહા ઉદ્ધત, અસભ્ય or તોછડી for 'આ ડબ્બો' and 'હે નિશ્ચલરાયજી'. Both are drawn with affection and the scene ends with him accepting her help.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "Summary-only teaching. `explanation` must carry BOTH motives in the passage's own words — hers, that only an ઍરટૅક્સી beats the ટ્રાફિકની ખલેલ ('ટ્રાફિકની ખલેલ વગર સમયસર પહોંચવું હોય તો ઍરટૅક્સી જ જોઈએ'), and his, that he has only just got used to the ઓટોમેટેડ ગાડી — and must say what settles it ('ડૂબતા માણસને તણખલાનો સહારો હોય એમ … સ્નેહાની મદદ મળી'). Retelling that she suggested and he agreed is `modified_chunk` and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક 'ડબ્બો' શબ્દને અપમાન સમજે છે અને દીકરી પપ્પાની મશ્કરી કરે છે એવું આજકાલનું કારણ પોતાની મેળે ઉમેરી દે છે — જ્યારે પાઠમાં એ શબ્દ ગાડીની ઝડપ વિશે છે, પપ્પા વિશે નહીં.",
+   "correction": "તરત પછીની પંક્તિ સામે આંગળી ચીંધો, જ્યાં સ્નેહા પોતે જ ખુલાસો કરે છે : ''એમ નહિ પપ્પા, પણ ટ્રાફિકની ખલેલ વગર સમયસર પહોંચવું હોય તો ઍરટૅક્સી જ જોઈએ.'' 'ડબ્બો — સમયસર ન પહોંચાડે એવી, ધીમી ગણાતી ગાડી માટે વપરાયેલો શબ્દ' એમ ગ્લોસ કરો, અને એને પપ્પાના પોતાના 'અરે મારી માવડી...!' સાથે મૂકીને બતાવો કે આ ઘરમાં બાપ-દીકરી આમ જ લાડથી બોલે છે."
+  },
+  {
+   "topic_id": "M2.S5.T7",
+   "avoid_checks": [
+    {
+     "check": "Summary-only teaching. `explanation` must add the rule this beat establishes — the ઍરટૅક્સી obeys a voice it already knows: his earlier try did not open the door ('એકાદવાર દરવાજો ખોલવાનો પ્રયાસ કરેલો, પણ ખુલ્યો નહોતો'), સ્નેહાના અવાજથી it opened, and after ''હવે એ તમારો અવાજ પણ ઓળખશે'' his own ''દરવાજો બંધ કરો.'' works. An `explanation` that only reports that they sat, the belts fastened and the taxi rose repeats `modified_chunk` and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "દરવાજો પપ્પા માટે કેમ ન ખૂલ્યો એનું બાળક પોતાનું કારણ બનાવી લે છે — ટૅક્સી સ્નેહાની હશે, અથવા તાળું હશે, અથવા પપ્પાએ કંઈક ખોટું કર્યું હશે — અને પછી ''હવે એ તમારો અવાજ પણ ઓળખશે'' વાક્યનો અર્થ જ ઊડી જાય છે.",
+   "correction": "સમજૂતીમાં નિયમ સાફ કહો : આ ટૅક્સી અવાજથી ચાલે છે, અને જે અવાજ એ ઓળખતી હોય તેની જ સૂચના માને છે; સ્નેહાનો અવાજ એ પહેલેથી ઓળખતી હતી, પપ્પાનો એક સૂચના પછી ઓળખતી થઈ. 'સૂચના' અને 'ગંતવ્યસ્થાન' ત્યાં જ ગ્લોસ કરો, અને પુનઃસ્મરણમાં પપ્પાએ આપેલી બે સૂચનાઓ ક્રમમાં પુછાય."
+  },
+  {
+   "topic_id": "M2.S5.T8",
+   "avoid_checks": [
+    {
+     "check": "Summary-only teaching. The beat's payload is a change in the man, not a specification sheet: `explanation` must state that on this first-ever flight his worry drops away ('પહેલી જ વારની આ રોમાંચક મુસાફરીના આનંદમાં નિશ્ચલભાઈ પોતાનું ટેન્શન ભૂલી ગયા') and that the સેન્સર he had only heard of before become a જાતઅનુભવ today. A listing of ઝડપ, ઊંચાઈ, ડેશ બોર્ડ and ત્રિજ્યા with no sentence about him is `modified_chunk` and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "No verifying or debunking the કલ્પના. No `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may rule on whether such an ઍરટૅક્સી is scientifically possible — no 'ખરેખર આવું બનતું નથી', 'વૈજ્ઞાનિક રીતે…', 'ભવિષ્યમાં આવું જરૂર થશે'. Soft: varta.md's gate 5 is written for the પૌરાણિક sub-form, and this same move in a વિજ્ઞાન-કલ્પનકથા is invited by the passage but is not on the profile's list, so it is reported rather than blocked.",
+     "profile": "varta",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "'અંદાજે સો કિલોમીટરની ત્રિજ્યામાં' — 'ત્રિજ્યા' બાળક માટે અજાણ્યો શબ્દ છે, એટલે એ વાક્યને 'સો કિલોમીટર દૂર ઊડતી ટૅક્સીઓ દેખાતી હતી' એમ વાંચે છે અને ડેશ બોર્ડ આસપાસનો આખો ગોળ વિસ્તાર બતાવે છે એ ખૂબી જ સમજાતી નથી.",
+   "correction": "'ત્રિજ્યા — વર્તુળના વચ્ચેના બિંદુથી કિનારા સુધીનું અંતર' એમ ત્યાં જ ગ્લોસ કરો અને પંક્તિ સાદી ગુજરાતીમાં ફરી કહો : ટૅક્સીની ચારે બાજુ સો કિલોમીટર સુધીના ગોળ વિસ્તારમાં અત્યારે બીજી કઈ કઈ ઍરટૅક્સી ઊડે છે તે પડદા પર દેખાતું હતું."
+  },
+  {
+   "topic_id": "M3.S6.T9",
+   "avoid_checks": [
+    {
+     "check": "A tacked-on બોધ. The two-childhood comparison invites a rule and the chapter states none: no sentence of `explanation`, `summary`, `detailed_summary`, any `concept_bullets` line or any `recall_questions[].answer` may close on 'જૂનો જમાનો સારો હતો', 'આપણે યંત્રો પર આધાર ન રાખવો જોઈએ', 'વિજ્ઞાનનો ઉપયોગ સમજીને કરવો જોઈએ' or any other … જોઈએ clause. નિશ્ચલભાઈ is remembering, not preaching.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "Spoiling the turn early. This topic's teaching must stop where the printed beat stops — at ''બેટા, ટૅક્સી પાછી લેવી પડશે, હું સ્માર્ટબોર્ડ સિસ્ટમ લાવવાનું તો ભૂલી જ ગયો છું.'' and સ્નેહાનું ''પપ્પા, ઍરટૅક્સીનું ભાડું ડબલ થઈ જશે!''. No `explanation`, `summary` or `recall_questions[].answer` here may say that the system had already been fetched, mention the box on the back seat, or explain her laughter by what she knows.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "વાર્તા આપણા સમય કરતાં ઘણાં વર્ષ પછીની દુનિયામાં ચાલે છે, પણ બાળક એને આજની દુનિયા માની લે છે — એટલે 'અમારા વખતે તો ખિસ્સામાં ફરજિયાત મોબાઇલ રાખવો પડતો' વાંચીને એ ઊંધું સમજે છે અને પપ્પાનું બાળપણ કયું ને દીકરીનું કયું એની આખી સરખામણી ઊલટી થઈ જાય છે.",
+   "correction": "સમજૂતીમાં સીધું કહો કે આ વાર્તા આપણાથી ઘણાં વર્ષ પછીની દુનિયામાં બને છે, એટલે આજે તમારા હાથમાં જે મોબાઇલ, કમ્પ્યૂટર ને પ્રોજેક્ટર છે તે જ નિશ્ચલભાઈ માટે 'અમારા વખતનું' છે. પુરાવા તરીકે 'અત્યારે મોબાઇલ તો ક્યાંય જોવા પણ નથી મળતો' પંક્તિ સામે આંગળી ચીંધો, અને પુનઃસ્મરણનો પ્રશ્ન 'પપ્પાના વખતનું સ્માર્ટ બોર્ડ ચલાવવા શું શું જોઈતું ?' એમ પપ્પાની બાજુથી પુછાય."
+  },
+  {
+   "topic_id": "M3.S6.T10",
+   "avoid_checks": [
+    {
+     "check": "A tacked-on બોધ. This is the ending, so the pull is strongest here: no sentence of `explanation`, `summary`, `detailed_summary`, any `concept_bullets` line or any `recall_questions[].answer` may close on 'આ વાર્તા આપણને શીખવે છે…', 'યંત્રો કરતાં માણસનું ડહાપણ મોટું છે', 'આપણે પણ બીજાની મદદ કરવી જોઈએ' or any … જોઈએ clause. The chapter's own last words are 'વાહ, મારી વહાલુડી દીકરી!' and the narrator's 'દીકરીના ડહાપણ અને સમય સચવાયાની બેવડી ખુશી' — the meaning is quoted from there, never re-authored.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "Judging a character the story treats with sympathy. 'ભુલકણા સ્વભાવ' may appear only as the chapter's own phrase in સ્નેહાના મોંમાં, said with affection; no `explanation`, `real_life_example`, `concept_bullets` line or `recall_questions[].answer` may convert it into a verdict on નિશ્ચલભાઈ (બેજવાબદાર, બેદરકાર, ધ્યાન ન રાખનારો or a synonym). The father is the one the story ends by pleasing.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "Spoiling the turn early — the gate falls on the topics BEFORE this one. None of M1.S1.T1 … M3.S6.T9 may carry, in `topic_name`, `explanation`, `summary`, `detailed_summary`, a `concept_bullets` line or a `recall_questions[].answer`, any of this outcome's own words: પાછળની સીટ પરનું બોક્સ, 'ગઈ કાલે જ' / 'કાલે સાંજે જ લઈ આવેલી', શ્રીમતીજી કે મમ્મીએ કહેલું, હિમાલયની યાત્રા, 'વાહ, મારી વહાલુડી દીકરી!', બેવડી ખુશી.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "ગુજરાતીમાં 'કાલે' આગલો દિવસ પણ હોય ને પાછલો દિવસ પણ, એટલે બાળક 'હું કાલે સાંજે જ લઈ આવેલી' ને આવતી કાલ સમજી લે છે — અને 'કાલે સવારે લોકાર્પણ' સાથે એને ભેળવી દે છે. પરિણામે વળાંક જ સમજાતો નથી : સ્નેહા સિસ્ટમ પહેલેથી લઈ આવી હતી એ વાત ઊડી જાય છે અને એની હોશિયારી ટૅક્સી સાથેની કોઈ યુક્તિ હોય એવું લાગે છે.",
+   "correction": "સમજૂતીમાં બે 'કાલ' જુદી પાડીને કહો : લોકાર્પણવાળી 'કાલે સવારે' એ આવતી કાલ છે, જ્યારે 'ગઈ કાલે જ' અને 'કાલે સાંજે જ લઈ આવેલી' એ વીતી ગયેલી કાલ છે. 'લઈ આવેલી — લાવી ચૂકી હતી' એમ ગ્લોસ કરો, અને બતાવો કે બોક્સ તો ઘરેથી નીકળ્યાં ત્યારનું જ પાછલી સીટ પર હતું."
+  }
+ ],
+ "chapter_level": [
+  "Std-7 label gate, standing across all ten topics (profiles/students/std-7.md §2 and §5.5): the સ્વરૂપ is experienced and never named. No child-facing field anywhere in this chapter may carry અલંકાર, સજીવારોપણ, છંદ, પ્રાસ, સમાસ, વ્યંગ or a સાહિત્યપ્રકાર tag — not for the talking તડકો, not for the crying ઓટો બ્રશ, not for the ડાયરી that argues back. `figures_of_speech` stays `[]`; this is ગદ્ય in any case.",
+  "કલ્પના register, chapter-wide: the story is set years ahead of the child's own day, and its object-world (ઍરટૅક્સી, શ્રી - ડી પ્રિન્ટર, ઓટો બ્રશ, અરીસાનો સ્ક્રીન, સ્માર્ટબોર્ડ સિસ્ટમ) is neither presented as something that exists today nor ruled on as possible or impossible. The પ્રવેશપેટી's own word for it is કલ્પના; teaching prose stays inside the story's world and says 'વાર્તાની આ દુનિયામાં', never 'આજકાલ' and never 'ભવિષ્યમાં જરૂર થશે'.",
+  "The blue પ્રવેશપેટી is teacher apparatus, not the chapter's answer key. Its sentences — 'અહીં વર્ષો બાદ દુનિયા કેવી હશે એની અદ્ભુત કલ્પના કરી છે', 'ટૅક્સીની સાથે એમની કલ્પનાને પણ જરૂર પાંખો ફૂટશે' — must not become a closing બોધ in any explanation, nor the model answer to any recall question. Every answer is built from the story's own ઘટના, which is also the L2 habit this pack has to break: the child who answers from the intro box has not read the passage.",
+  "Printed-as-is forms and spelling variants, carried forward from Agent 1 and Agent 5 and NEVER silently corrected: 'શ્રી - ડી પ્રિન્ટર', 'જવાળામુખીના', the same-paragraph pair 'ફલેશ' / 'ફ્લેશ', the line-broken 'ઍર ટૅક્સી' beside 'ઍરટૅક્સી', 'ડેશ બોર્ડ' / 'ડેશબોર્ડ', 'સ્માર્ટ બોર્ડ' / 'સ્માર્ટબોર્ડ', 'સ્ટિયરિન્ગ', 'કીંમતી', and 'ઍરટૅક્સી માંથી' with its space. An L2 reader takes these for મુદ્રણદોષ or, worse, for two different objects. Wherever the teaching quotes one it quotes the form printed at that place, and where both forms of one word fall inside a single topic the explanation says once, plainly, that it is the same thing.",
+  "The page prints paired alternatives with a slash — 'પાછલી રાતનું ભોજન / ડીનર' and ''ગંતવ્યસ્થાને પ્રયાણ કરો / મુસાફરી શરૂ કરો.'' — where the second half re-says the first in an everyday or English-derived word. They are one thing said twice, not two different things or two separate instructions; say that once, at the first place it appears, and do not reproduce the slash inside a recall answer as if it were part of a command.",
+  "The English loanwords written in Gujarati script are this story's own lexicon (varta.md, વિજ્ઞાન-કલ્પનકથા row): ઍરટૅક્સી, સ્માર્ટબોર્ડ, ડેશબોર્ડ, સેન્સર, ઓટોમેટેડ, ઓટો બ્રશ, પ્લાનિંગ ડાયરી, પેન્ડિંગ, સ્ટેટસ, ઓડિયો મોડ, ટેન્શન, ઇલેક્ટ્રિસિટી, વૉશબેઝિન, ચાર્જિંગ પ્લેસ. They are glossed at the point of first use, never replaced with a 'proper' Gujarati word inside a quotation and never presented to the child as wrong Gujarati. The chapter itself sets the list-making as an exercise ('પાઠમાં આવતા અંગ્રેજી શબ્દોની યાદી બનાવો :'), which is Agent 10's block, not a topic's.",
+  "Attribution gap, to be recorded and not filled (reference/no_hallucination_policy.md §3; varta.md gate 8's spirit — soft): the only credit printed anywhere in this unit is '- સંકલિત' under the title bar, and it names no writer, no source book and no year. No author's name, no translator, no publication fact may be supplied in any field of this chapter, however plausible."
+ ]
+}

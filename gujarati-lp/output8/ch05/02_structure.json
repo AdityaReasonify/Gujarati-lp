@@ -1,0 +1,381 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati8_ch5",
+  "plan_id": "gseb_eng_gujarati8_ch5_v1",
+  "grade": 8,
+  "level": "standard",
+  "chapter_name": "બાનો વાડો",
+  "genre": "લલિતનિબંધ",
+  "genre_slug": "nibandh_atmaparak",
+  "active_genre_profiles": [
+    "nibandh_atmaparak.md"
+  ],
+  "teaching_lens": "સ્વર + પ્રસંગ + પોતાની જાત પરની નજર",
+  "guiding_question": "લેખકની બા પોતાના વાડા સાથે આટલો ઊંડો નાતો કેમ અનુભવે છે, અને એ નાતો બાના સ્વભાવ વિશે શું કહી જાય છે ?",
+  "explanation_unit": "એક પ્રસંગ અથવા વિચારનો એક વળાંક",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બાપુજીના અવસાન પછી બા ભાંગ્યા વિના કઈ રીતે સ્વસ્થ રહી, છતાં કઈ પળે એની આંખ ભીની થઈ જતી તે પાઠમાંથી શોધીને કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક બાના વાડાનું વર્ણન કરતાં વાડ, માંડવો, શાકભાજી, ફૂલો અને ઔષધીય છોડનાં કયાં કયાં નામ આપે છે તે પાઠમાંથી શોધીને કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": [
+        "M1.S2.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બા બહારગામ રહે ત્યારે વાડાનું શું થયું હશે એવા કયા વિચારો એને બેચેન કરે છે તે પાઠમાંથી શોધીને, વાડા સાથેના એના ઊંડા લગાવ વિશે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S3.T3",
+      "anchor": [
+        "M1.S3.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બા મંદિરનાં ફૂલો, મીઠો લીમડો અને શાકભાજી કોને-કોને અને કઈ રીતે વહેંચે છે તે પાઠમાંથી શોધીને, બા ‘ભોળી નહિ, ભલી ખરી’ કેમ કહેવાય તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T4",
+      "anchor": [
+        "M2.S4.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બા છોડની માવજતમાં પાણી, ગોડ અને છાણિયા ખાતરની કાળજી કઈ રીતે લે છે તે પાઠમાંથી શોધીને, બાની નજરને લેખકે કયાં-કયાં પ્રાણીઓ સાથે સરખાવી છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S5.T5",
+      "anchor": [
+        "M2.S5.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક દસ વર્ષની ઉંમરે બામાં જોયેલી મુગ્ધતા-વિસ્મય આજેય એવાં જ કેમ અનુભવે છે તે પાઠના છેલ્લા પ્રશ્નને આધારે પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S6.T6",
+      "anchor": [
+        "M2.S6.T6.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "બા અને વાડા વચ્ચેનો નાતો",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "બાની અડગ સ્વસ્થતા",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "પંચોતેર છતાં જાજરમાન બા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "source_markers": [
+                "ફકરો 1"
+              ],
+              "scene_span": {
+                "starts_at": "બાને હવે પંચોતેર થયાં;",
+                "ends_at": "કર્મ અને ધર્મ તેણે એક કરી મૂક્યાં છે."
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "પંચોતેર છતાં જાજરમાન બા",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "વાડાનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "વાડ, માંડવો ને વાડાની સમૃદ્ધિ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "source_markers": [
+                "ફકરો 2"
+              ],
+              "scene_span": {
+                "starts_at": "બાના જીવનસ્રોત વિશે વિચારતાં ઘણી બધી બાબતો મનમાં, આમ તો ઊમટી આવે છે.",
+                "ends_at": "સમયનાં પગલાંને તેણે આ વાડા વડે સ્મારકમાં ફેરવી નાખ્યાં છે."
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "વાડાનું વર્ણન — વાડ, માંડવો, ફૂલ-ફળ ને ઔષધીય છોડ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S3",
+          "segment_name": "વાડા સાથેનું તાદાત્મ્ય",
+          "topics": [
+            {
+              "topic_id": "M1.S3.T3",
+              "topic_name": "વાડા વિનાનો ઝુરાપો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "source_markers": [
+                "ફકરો 3"
+              ],
+              "scene_span": {
+                "starts_at": "બા જ્યાં હોય ત્યાં, એની વાતનો વિષય વાડો જ હોય.",
+                "ends_at": "પછી વાડો ખુશ અને બા પણ ખુશ !"
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S3.T3.C3",
+                  "concept_name": "વાડા વિનાનો ઝુરાપો",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "વાડા દ્વારા ઊપસતું બાનું ચરિત્ર",
+      "segments": [
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "બાની ઉદારતા",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T4",
+              "topic_name": "ફૂલ, લીમડો ને શાકભાજીની લહાણી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O4"
+              ],
+              "source_markers": [
+                "ફકરો 4"
+              ],
+              "scene_span": {
+                "starts_at": "બાને છાબડી ભરી ભરીને મંદિરમાં ફૂલો મોકલતાં મેં જોઈ છે.",
+                "ends_at": "‘‘ખાયા સો ખોયા; ખિલાયા સો પાયા’’ - એ જાણે બાનું જીવનસૂત્ર રહ્યું છે !"
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T4.C4",
+                  "concept_name": "ફૂલ, લીમડો ને શાકભાજીની ઉદારતા",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S5",
+          "segment_name": "છોડની માવજત",
+          "topics": [
+            {
+              "topic_id": "M2.S5.T5",
+              "topic_name": "પાણી, ગોડ ને રોજની કાળજી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O5"
+              ],
+              "source_markers": [
+                "ફકરો 5"
+              ],
+              "scene_span": {
+                "starts_at": "બાને છોડની માવજત કરતી જોવી એ પણ એક લહાવો છે.",
+                "ends_at": "ધીમેથી બધું જ ઝીણેરું તે જુએ."
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T5.C5",
+                  "concept_name": "છોડની રોજેરોજની માવજત",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S6",
+          "segment_name": "લેખકનું સ્મરણ",
+          "topics": [
+            {
+              "topic_id": "M2.S6.T6",
+              "topic_name": "કાયમનું અચરજ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O6"
+              ],
+              "source_markers": [
+                "ફકરો 6"
+              ],
+              "scene_span": {
+                "starts_at": "બા કશેક જાય ને ત્યાં વાડા જેવું, ફૂલ-ફળાદિ નિહાળે તો ત્યાં તે લટાર માર્યા વિના રહે જ નહીં.",
+                "ends_at": "કોને ખબર આ વાડો કઈ નવી વસ્તુ બા સામે આમ દરેક વખતે ધરી દેતો હશે ?"
+              },
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S6.T6.C6",
+                  "concept_name": "બાળપણનું અચરજ, આજેય એવું જ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "marker_to_topic_map": {
+    "ફકરો 1": [
+      "M1.S1.T1"
+    ],
+    "ફકરો 2": [
+      "M1.S1.T1",
+      "M1.S2.T2"
+    ],
+    "ફકરો 3": [
+      "M1.S3.T3"
+    ],
+    "ફકરો 4": [
+      "M2.S4.T4"
+    ],
+    "ફકરો 5": [
+      "M2.S5.T5"
+    ],
+    "ફકરો 6": [
+      "M2.S6.T6"
+    ]
+  },
+  "markers_deliberately_not_cut": [
+    "એકમ-શીર્ષક ('બાનો વાડો') and લેખક-નામ ('- પ્રવીણ દરજી') — header furniture printed above the body, not a reading scene; the attribution is folded into no topic because it precedes the text rather than closing it (see notes).",
+    "[[પ્રવેશપેટી]] — the blue teacher-addressed intro box naming the genre and the writing-practice purpose. explanation_unit_map rule 4 and nibandh_atmaparak.md agree this is apparatus, never a topic; it feeds 01_meta.json only.",
+    "[[શબ્દાર્થ]] — the 28-headword gloss box at the foot of page 4 is apparatus; feeds key_terms/shabdarth for later agents, not a topic.",
+    "[[રૂઢિપ્રયોગ]] — the 8-idiom pre-block is apparatus; feeds key_terms and Agent 10, not a topic.",
+    "All 17 numbered સ્વાધ્યાય blocks plus the રૂઢિપ્રયોગ pre-block, exactly as inventoried in 01_meta.json.exercise_inventory (વાતચીત, પ્રશ્નોત્તર, ભાવાર્થ, અર્થભેદ, પિરામિડ, વાક્યરચના, શબ્દભંડોળ, વિશેષણ-સંગ્રહ, વાક્યગોઠવણી, વાચન-કૌશલ્ય, શબ્દશોધ-વાક્યપ્રયોગ, સંખ્યાવાચક-વાક્યો, કલ્પના-જો-તો, શબ્દકોઠા-વાક્યરચના, વાક્યવિસ્તાર, ફકરો-પ્રશ્નોત્તર, અનુવાદ) — none is a topic (global_content_rules §7, explanation_unit_map rule 4, profile Avoid gate 12). Note blk 14's paired reading-fluency passage and blk 17's translation passage each embed a near-verbatim extract of ફકરો 2's વાડા-વર્ણન inside the exercise; per the profile's near-miss guidance this is appended/reused exercise matter, not part of the chapter's own topic chain, and stays in exercise_inventory.",
+    "[[ચર્ચા-વિચારણા]] — the closing box repeating 'ખાયા સો ખોયા, ખિલાયા સો પાયા' as a discussion bullet is apparatus (the same proverb is already quoted in running prose inside M2.S4.T4's own original_chunk); it is not a second topic."
+  ],
+  "counts": {
+    "modules": 2,
+    "segments": 6,
+    "topics": 6,
+    "concepts": 6,
+    "objectives": 6,
+    "reading_scene_markers_in_00": 0,
+    "paragraphs_used_as_basis": 6
+  },
+  "notes": [
+    "NO [[…]] READING-SCENE MARKERS EXIST FOR THIS CHAPTER'S BODY PROSE — unlike other measured nibandh_atmaparak chapters (e.g. output6/ch15 uses [[ફકરો 1]]…[[ફકરો 10]]), Agent 1 placed only apparatus markers ([[પ્રવેશપેટી]], [[શબ્દાર્થ]], [[રૂઢિપ્રયોગ]], [[સ્વાધ્યાય: …]], [[ચર્ચા-વિચારણા]]) in 00_chapter_normalized.md — grep-verified. 01_meta.json's own extraction_notes records why: 'This is a continuous પ્રથમ-પુરુષ લલિતનિબંધ with no printed ઘટના, કડી, દુહો, પદ or ટેક subdivisions… The essay's own paragraph breaks (six paragraphs, preserved as printed) are the only structural division on the page; Agent 2 will make the પ્રસંગ/વિચાર-વળાંક cut from those.' 'ફકરો 1'…'ફકરો 6' above are therefore MY OWN descriptive paragraph-ordinal labels (counted from the six blank-line-separated paragraphs in 00_chapter_normalized.md), not literal bracketed tags. Agent 4 should verify the cut against that six-paragraph count, not search for bracket markers that do not exist in this chapter's transcription — this is a measured fact about the source, not an omission.",
+    "CUT METHODOLOGY. nibandh_atmaparak.md's explanation unit is 'one પ્રસંગ, અથવા વિચારનો એક વળાંક… the boundary is where the attempt fails or the mood turns — not the paragraph break.' Five of six topics equal one printed paragraph exactly; the sixth boundary falls INSIDE ફકરો 2, per the pre-topic-hook rule (explanation_unit_map rule 2 / cutting rule 2): 'બાના જીવનસ્રોત વિશે વિચારતાં ઘણી બધી બાબતો મનમાં, આમ તો ઊમટી આવે છે. પણ એ સર્વમાં મોખરે મૂકી શકાય તેવી બાબત વાડાની.' is the hook that opens the વાડા-વર્ણન topic (M1.S2.T2), so it is not the tail of M1.S1.T1's portrait-of-resilience movement, even though both sentences sit inside the same printed paragraph. No sentence is duplicated or dropped across the boundary — M1.S1.T1 ends at 'કર્મ અને ધર્મ તેણે એક કરી મૂક્યાં છે.' and M1.S2.T2 opens at the very next sentence.",
+    "TWO-MODULE SPLIT MIRRORS THE GUIDING QUESTION. The guiding_question has two clauses — 'બા…વાડા સાથે આટલો ઊંડો નાતો કેમ અનુભવે છે' and 'એ નાતો બાના સ્વભાવ વિશે શું કહી જાય છે'. M1 (T1 her resilience, T2 what the વાડો physically is, T3 the depth/ache of the bond) answers the first clause; M2 (T4 her generosity, T5 her hands-on care, T6 the enduring wonder) answers the second by showing what the bond produces in her character. This is a deliberate authoring choice for Agent 13 to check the sequence against, not a template — it is derived from this chapter's own six-paragraph arc.",
+    "topic_category 'climax' used NOWHERE, per the profile's hard gate 2 ('Converting the essay into a story with a moral') — this essay has પ્રસંગ and વિચારના વળાંક, never પ્લોટ. T1–T2 are 'introduction' (establishing who બા is and what the વાડો physically is before the bond is explored); T3–T5 are 'core'; T6 is 'resolution' — the chapter's closing image and open question, per the profile's 'the closing gesture is its own topic'.",
+    "NO TRAILING ATTRIBUTION TO FOLD IN — a divergence from the usual closing-gesture rule worth flagging for Agent 5. In most measured nibandh_atmaparak chapters (std-6 ch15, std-7 ch6) the author's name is printed AFTER the body text and must be folded into the LAST topic's original_chunk (profile Avoid gate 13). In this chapter the credit '- પ્રવીણ દરજી' is printed BEFORE the body, directly under the title (00_chapter_normalized.md lines 8–10), not after it. M2.S6.T6's original_chunk therefore ends at the chapter's own genuinely last printed sentence ('…કઈ નવી વસ્તુ બા સામે આમ દરેક વખતે ધરી દેતો હશે ?') with no trailing credit line to append — Agent 5 should not go hunting for one.",
+    "DIFFICULTY RATIONALE (std-8, A2+ band; set by what stops an L2 reader on the page, never by craft — no topic is 'hard' for a device it may not be named). hard: M1.S1.T1 carries the chapter's densest idiom cluster — 6 of the 8 listed રૂઢિપ્રયોગ (ઢૂંક્વા ન દેવું, તડકીછાંયડી જોવી, ઘરનો મોભ તૂટી પડવો, આંખ ભીની થઈ જવી, અવાજ તરડાઈ જવો, જીરવી જવું) plus quoted grief-speech in a formal register. M2.S5.T5 stacks FOUR back-to-back animal comparisons (હરણ, પતંગિયું, ખિસકોલી, વરસાદી ગાય) in one unbroken sentence chain plus rural-implement vocabulary the શબ્દાર્થ box itself glosses (ચાકળી, તૃપ્ત થાય, વરસાદી ગાય) — a pattern the page itself sets, named as a pattern only, never as an અલંકાર. medium: M1.S2.T2's plant/flower/vegetable list is long but almost entirely common Gujarati words a std-8 child already knows (કેરી-જાતિનાં ફળ, ગુલાબ, મોગરો) rather than gloss-requiring vocabulary; M1.S3.T3 and M2.S4.T4 are concrete narrative with only occasional glossed words (ઝુરાપો, આડેધડ, આશકા, કલેશ). easy: M2.S6.T6 is the shortest topic — a closing reflective image ending on an open question, no idiom, no dense list.",
+    "STD-8 CRAFT-LABEL GATE HONOURED. No objective_text names an અલંકાર, છંદ, સમાસ or the સાહિત્યપ્રકાર 'લલિતનિબંધ' itself — O5 asks the child to say WHICH animals the writer compares બાની નજર to (સરખાવવી), never to name the device (ઉપમા) that comparison is. Every objective is grounded in a specific printed fact or quoted phrase unique to this chapter (પંચોતેર, 'ભોળી નહિ, ભલી ખરી', દસ વર્ષની ઉંમરે) and could belong to no other chapter (teaching_lens_map 'Craft-naming gate by standard'; profiles/students/std-8.md §1).",
+    "BLOOM LADDER. Understand, Understand, Analyze, Analyze, Analyze, Evaluate across O1–O6, rising as the essay moves from establishing who બા is and what the વાડો is, to interpreting what her actions with the વાડો reveal, to the child evaluating the writer's own closing wonder — matching the profile's recall-priors shape (remember→understand/analyze→apply/evaluate), though these six are the root PHASE-2 OBJECTIVES, one per topic, not the per-topic recall ladder (Agent 6's territory).",
+    "CONCEPTS. One concept per topic; none of the six paragraphs does two clearly separable things at the depth this chapter operates (each is a single continuous movement of feeling or a single continuous description), so no topic carries two concepts and none needed a third — per the profile's 'wanting three means the cut is probably wrong'.",
+    "depends_on is [] on every topic. Unlike output6/ch15's measured T9-depends-on-T8 case (a claim only measurable against a specific earlier fact), no topic here makes a claim that is unmeasurable without a named earlier topic — 'વાડો' as a shared subject across T2–T6 is topical continuity, not the kind of real dependence this field records.",
+    "GENRE PRIOR AGREES, NO CONFLICT. 01_meta.json's own extraction_notes already confirm the genre routing (નિબંધ-index names this exact chapter as one of the two measured examples of the person-test split; the intro box says 'આ એકમ એક લલિતનિબંધ છે' outright); nibandh_atmaparak.md names std-8 ch5 by number in its own provenance list. No disagreement between the rendered page and the profile to flag for Agent 4.",
+    "NO PNG RENDER OPENED. 00_chapter_normalized.md answered every question this cut needed — paragraph boundaries, apparatus boundaries and the exercise inventory were all legible from the transcription; nothing here required checking _renders.",
+    "No teaching prose was written here — no explanation, no real_life_example, no summary, no recall question. Those are Agents 12 and 6's. original_chunk is empty on every topic by design; Agent 5 fills it verbatim from 00_chapter_normalized.md using the scene_span boundaries above, which are copied verbatim (not paraphrased) from the transcription so Agent 5 has an unambiguous, already-verified cut."
+  ]
+}

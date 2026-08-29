@@ -1,0 +1,23 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch4",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S2.T2",
+    "M1.S2.T3",
+    "M1.S3.T4",
+    "M2.S4.T5",
+    "M2.S5.T6",
+    "M2.S5.T7",
+    "M3.S6.T8",
+    "M3.S7.T9",
+    "M3.S8.T10"
+  ],
+  "source": "printed pages 27–30 read off the renders (page-1.png … page-4.png); the ten reading scenes appear on the page in exactly this order — T1 on folio 27, T2–T5 and the opening of T6 on folio 28, T6's close, T7 and the opening of T8 on folio 29, T8's close and T9–T10 on folio 30",
+  "notes": [
+    "Identical to the logical traversal of 05_with_content.json (M1.S1.T1 … M3.S8.T10). The chapter is printed straight through as continuous prose with no internal sub-head, no section rule and no numbered part, so printed order is simply paragraph order. Emitted anyway so Agent 15 raises human_confirmation_required on a comparison that actually happened rather than on an assumption.",
+    "The two printed colour illustrations interrupt the page but not the sequence: the hospital-bedside picture fills the lower half of folio 27 after T1, and the tablet-and-window picture fills the lower half of folio 29 inside T8's printed run. Neither reorders a topic and neither opens one.",
+    "One printed paragraph straddles a page break and is NOT two topics: the ભમતી/કામગરી paragraph starts at the foot of folio 28 and finishes at the head of folio 29, all inside M2.S5.T6. Likewise M3.S6.T8's first paragraph starts at the foot of folio 29 and finishes at the head of folio 30.",
+    "Not in this list, because they are not this chapter's teaching text: the pink title bar with its number box and the QR badge D4K7P9, the author slot '- સંકલિત', the teacher-addressed blue પ્રવેશપેટી, the two illustrations, the yellow શબ્દાર્થ box at the foot of folio 30, the રૂઢિપ્રયોગ. bullet block, all thirteen numbered exercise blocks running folios 31–35 (including the ઉદ્યમ passage in block three, the બેઠાડુ-જીવન paragraph in block six and the ફકીર-વેપારી passage in block thirteen), and the chapter-final ચર્ચા-વિચારણા box.",
+    "Std 8's વ્યાકરણ એકમો, પૂરકવાચન pieces and any 'આગળ વધતાં પહેલાં' revision unit sit between chapters in the reader; none falls inside folios 27–35 and none enters this index."
+  ]
+}

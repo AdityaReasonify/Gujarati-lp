@@ -26,3 +26,15 @@ auto-resume.stderr.log
 auto-resume.stdout.log
 supervisor.log
 supervisor-agents.log
+
+# Page renders — regenerable from the source PDFs with pdftoppm, 134MB.
+# Every chapter's _renders/ is rebuilt by the Phase-0 setup agent on demand.
+**/_renders/
+
+# Backups written by scratch/set_publication_id.py and the ઇંદ્ર correction
+*.pre-pubid
+*.pre-indra-fix
+
+# Orchestration scratch state
+scratch/.auto-resume.lock
+scratch/.auto-resume.launched
