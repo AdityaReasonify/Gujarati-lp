@@ -1,0 +1,69 @@
+{
+  "board": "gseb",
+  "grade": 10,
+  "subject": "Gujarati",
+  "level": "standard",
+  "version": 1,
+  "chapter_id": "gseb_eng_gujarati10_ch3",
+  "plan_id": "gseb_eng_gujarati10_ch3_v1",
+  "chapter_name": "પ્રયાણ",
+  "unit_title": "પ્રયાણ",
+  "unit_number": 3,
+  "topic_number": 3,
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા) ધોરણ 10",
+  "textbook_url": "../Textbooks-pdf/std-10/ch-03-prayan.pdf",
+  "chapter_master_id": null,
+  "subject_ref_id": null,
+  "genre": "નવલકથાખંડ",
+  "genre_signals": {
+    "structure": "ગદ્ય, પ્રથમ પુરુષ કથક (અંબારામ) દ્વારા કહેવાયેલી, ચાર ઘટનાઓની શૃંખલા (ઘરેથી પ્રયાણ, ટિકિટ-બારી પરનો ઝઘડો, પ્લેટફોર્મ પર સ્નાન, સહપ્રવાસીઓ સાથે વહેમ વિશે ચર્ચા) — સંવાદપ્રધાન, પાત્રો નામ સાથે (ભદ્રંભદ્ર, અંબારામ, સોરાબજી, બે ઉતારુ), કોઈ ટેક કે પ્રાસ નથી. અંત અધૂરો છે — વાર્તા ચાલુ સંવાદ વચ્ચે અટકે છે, નવલકથાનું સંપૂર્ણ પરિણામ આપતી નથી.",
+    "theme": "હાસ્ય — ધર્મના નામે ચાલતો દંભ, જૂનવાણી ખ્યાલો અને કૃત્રિમ સંસ્કૃતપ્રધાન ભાષાના પ્રયોગથી નીપજતું હાસ્ય. લેખકનો પોતાનો પરિચય-ફકરો કહે છે: 'ભદ્રંભદ્રની વિચિત્રતાઓ, જુનવાણી ખ્યાલો અને કૃત્રિમ, સંસ્કૃતપ્રધાન ભાષાના પ્રયોગથી હાસ્ય નીપજે છે... વિચિત્રતા કે આત્યંતિકતામાંથી કેવું હાસ્ય પેદા થાય છે તેના દૃષ્ટાંતરૂપ આ ખંડ છે.'",
+    "exercises": "સવાધ્યાયનો છેલ્લો સવિસ્તાર પ્રશ્ન સીધો જ સ્વરૂપ નામ આપે છે: ''પ્રયાણ' નવલકથાખંડમાં નિષ્પન્ન થતી રમૂજનાં ચિત્રો વર્ણવો.' — MCQ અને ટૂંકા ઉત્તરના પ્રશ્નો પાત્રોના સંવાદ અને ભાષા-પ્રયોગ પર કેન્દ્રિત છે, કોઈ ઘટના-ક્રમ ગોઠવવાનો બ્લોક નથી (કેમ કે એક જ સળંગ ઘટના-શૃંખલા છે).",
+    "purpose": "હસાવવું — ભદ્રંભદ્રના અતિશય જૂનવાણી, સંસ્કૃતાળુ સ્વભાવ અને વાસ્તવિકતાથી વિખૂટા પડેલા વર્તનનું હાસ્યજનક ચિત્રણ. ભાષા-અભિવ્યક્તિ બોક્સ પોતે કહે છે: 'લેખકો વિવિધ રસની જમાવટ માટે, રસપ્રદ વર્ણન માટે પાત્રોને અનુરૂપ ભાષા પ્રયોજતા હોય છે' — પારસી બોલીના ચોકસાઈભર્યા અનુકરણ દ્વારા હાસ્ય રચાય છે."
+  },
+  "genre_confidence": "high",
+  "active_genre_profiles": ["varta.md"],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "ભદ્રંભદ્રની કઈ ટેવો અને કઈ ભાષા તેમના પ્રયાણને હાસ્યાસ્પદ બનાવે છે ?",
+  "explanation_unit": "એક ઘટના",
+  "structure_inventory": {
+    "ghatna": 4,
+    "duha": 0,
+    "pad": 0,
+    "kadi": 0,
+    "tek_occurrences": 0
+  },
+  "exercise_inventory": [
+    {
+      "group": "MCQ",
+      "items": 2,
+      "verbatim_heading": "નીચેના પ્રશ્નો સાથે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો."
+    },
+    {
+      "group": "એક-એક વાક્યમાં ઉત્તર",
+      "items": 2,
+      "verbatim_heading": "નીચેના પ્રશ્નોના એક-એક વાક્યમાં ઉત્તર લખો."
+    },
+    {
+      "group": "બે-ત્રણ વાક્યમાં ઉત્તર",
+      "items": 2,
+      "verbatim_heading": "નીચેના પ્રશ્નોના બે-ત્રણ વાક્યમાં ઉત્તર લખો."
+    },
+    {
+      "group": "સવિસ્તાર ઉત્તર",
+      "items": 1,
+      "verbatim_heading": "નીચેના પ્રશ્નનો સવિસ્તાર ઉત્તર લખો."
+    }
+  ],
+  "extraction_notes": [
+    "Only 3 pages exist for this chapter's render (printed folio 12-14, pdf pages 17-19), matching the board profile's std-10 ch-3 row (printed pp 12-14, pdf pp 17-19); confirmed against page 1's printed number box '3' and title 'પ્રયાણ'.",
+    "Prior in profiles/boards/gseb_gujarati.md std-10 table read 'હાસ્ય-નવલકથાખંડ (\"ભદ્રંભદ્ર\")' for ch 3 — the rendered page confirms this: the chapter's own intro paragraph states 'આ ખંડ ગુજરાતી પ્રસિદ્ધ હાસ્યનવલકથા 'ભદ્રંભદ્ર'માંથી લેવામાં આવ્યો છે' and the સ્વાધ્યાય's own Q4(1) names the સાહિત્યપ્રકાર directly as 'નવલકથાખંડ'. genre routed to varta.md per _genre_index.md's fold table (નવલકથાખંડ is a sub-form of વાર્તા, not a separate profile) and confirmed by varta.md's own provenance list, which names std-10 ch 3 પ્રયાણ explicitly as a measured નવલકથાખંડ instance.",
+    "Excerpt rule applies (varta.md 'નવલકથાખંડ અને લઘુકથા'): this is a slice of the full novel 'ભદ્રંભદ્ર' with NO resolution — it ends mid-scene, mid-conversation, on the second co-passenger's speech about the folk belief regarding names and breath/pran-vayu ('...ઘણાએ અજમાવી જોયેલું છે.'). No topic downstream may narrate what happens after this excerpt ends (e.g. whether Bhadrambhadra responds, what happens at Mumbai) — that content is not on the rendered page.",
+    "The blue-intro-box convention of std 6-8 is absent at std 10; instead the author bio + kruti-parichay-style paragraph under the title plays the same evidence role, and both are transcribed into 00_chapter_normalized.md under [[લેખક-પરિચય]].",
+    "Not inventoried as exercises, recorded here per genre_diagnosis.md: the શબ્દ-સમજૂતી box (સમાનાર્થી શબ્દ/શબ્દાર્થ, તળપદા શબ્દો, વિરુદ્ધાર્થી શબ્દ, રૂઢિપ્રયોગ, શબ્દસમૂહ માટે એક શબ્દ) sits before the સ્વાધ્યાય banner and is glossary apparatus, not an exercise block. વિદ્યાર્થી-પ્રવૃત્તિ (5 bullets, includes 'આ પાઠને નાટ્યસ્વરૂપે ભજવો.'), ભાષા-અભિવ્યક્તિ (2 bullets analysing repetition-of-'અકથ્ય' and the Parsi-dialect craft, itself quoting chunks of the story verbatim inside its own commentary), and શિક્ષકની ભૂમિકા (5 bullets, teacher-addressed) all follow the સ્વાધ્યાય banner and are recorded per the std-9/10 apparatus sequence (reference/genre_diagnosis.md's std-9 page-layout note) — none of the three is a numbered સ્વાધ્યાય block and none is inventoried as an exercise; they go to extraction_notes as apparatus per the pack's standing rule (global_content_rules.md item 7, genre_diagnosis.md 'Appended reading matter').",
+    "Parsi-dialect and other characters' speech (સોરાબજી's 'સું બકેચ ?', the co-passengers' 'સે', 'ઈમ') are printed as the book's own phonetic rendering of accented Gujarati speech — transcribed exactly as printed, never standardised, per gujarati_verbatim.md and varta.md's dialect-preservation gate (though this is accented-speech mimicry rather than a regional/tribal dialect, the same never-correct rule applies since it is printed content carrying the chapter's own craft, explicitly named and explained in the ભાષા-અભિવ્યક્તિ box).",
+    "Double-render cross-check performed: transcribed first from the pre-rendered 100dpi PNGs in _renders/, then re-rendered the same PDF at 200dpi and read every line back against it. No disagreement found anywhere in the body text, the શબ્દ-સમજૂતી box, or the સ્વાધ્યાય/apparatus blocks.",
+    "chapter_master_id and subject_ref_id left null per no_hallucination_policy.md and gseb_gujarati.md — no verified GSEB DB record exists yet (VERIFY-2 pending).",
+    "chapter_id/plan_id use the provisional medium slot 'eng' per naming_conventions.md and gseb_gujarati.md — flagged there as UNVERIFIED pending VERIFY-1; not re-derived here."
+  ]
+}

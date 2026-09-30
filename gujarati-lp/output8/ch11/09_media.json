@@ -1,0 +1,45 @@
+{
+  "media": [
+    {
+      "topic_id": "M1.S1.T1",
+      "concept_id": "M1.S1.T1.C1",
+      "id": "M1.S1.T1.C1.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "નદીકાંઠે વિરામ અને બાની ના",
+      "description": "પથ્થરના પુલ નીચે નદીકાંઠે બા પરપોટાવાળા પાણી તરફ ઈશારો કરીને ના પાડે છે અને દત્તુ સામે દલીલ કરે છે, જ્યારે ભાઈએ ગોઠવેલો મંગાળો હજી અણવપરાયેલો પડ્યો છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M1.S1.T1.C1",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "આ ચિત્ર હજુ બન્યું નથી — શિક્ષક આ પ્રસંગ સમજાવતી વખતે બાળકોને પુલ, નદી અને મંગાળાનું દૃશ્ય નજર સામે લાવવા કહી શકે, જેથી બાની ના અને દત્તુની સામી દલીલ બંને એક જ ક્ષણમાં દેખાય — બાનું વાક્ય કોઈ કાયમી નિયમ નથી, એ ક્ષણની માન્યતા છે એ વાત ચિત્ર દ્વારા પણ સ્પષ્ટ થાય.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, modern clothing, plastic objects, motor vehicles, railway train",
+      "generation_prompt": "A softly lit riverside halt in the Deccan countryside of Maharashtra, many decades ago, before any railway reached these village roads. A wooden bullock cart with a pair of white bullocks stands parked at the top of a grassy bank beside an old arched stone bridge. Below, on the pebbled riverbank in dappled shade, a joint Marathi family of the early 1900s has stopped to rest: a woman in a simple plain cotton sari stands with one arm raised, pointing toward the slow-moving river where pale foam and bubbles drift across the water's surface. Beside her, an older boy crouches next to three flat stones arranged into a small unlit cooking hearth, a brass pot set down but untouched beside it. A barefoot young boy in a plain dhoti-kurta looks up at the woman mid-argument, one hand raised as if pleading his case, several other children standing nearby watching the exchange. Warm afternoon light falls through the trees along the bank, the river calm and shadowed beneath the bridge's stone arch. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M3.S4.T6",
+      "concept_id": "M3.S4.T6.C7",
+      "id": "M3.S4.T6.C7.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "જામફળનું પલાયન યુદ્ધ",
+      "description": "અણ્ણાએ ઊંચકી લીધેલો દત્તુ હાથમાં બચકું ભરેલું જામફળ મજબૂત પકડી રાખીને પકડનારના હાથને જ બચકું ભરવાની તૈયારીમાં છે, ને કેશુ-ગોંદુ બાજુમાં ઉત્સાહથી જુએ છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M3.S4.T6.C7",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "આ ચિત્ર હજુ બન્યું નથી — શિક્ષક આ યુક્તિની ચોક્કસ ક્ષણ (પકડાયા છતાં જામફળ ન છોડવાની ચતુરાઈ) બાળકોને શબ્દોમાં વર્ણવીને દેખાડી શકે ત્યાં સુધી, જેથી બાળકોને ડહાપણભરી ચાલ સમજાય, નહીં કે ફક્ત મારામારીનું દૃશ્ય.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, modern clothing, plastic objects, motor vehicles, caricature, exaggerated slapstick violence, blood, mocking expression",
+      "generation_prompt": "A sunlit garden gate in rural Maharashtra, decades ago. A large wicker basket lies tipped on its side on the ground beside a low mud wall, spilling big red-fleshed guavas the size of oranges. Several children in plain, old-fashioned cotton clothes are scattering across the garden in every direction, each clutching a large guava tightly to their chest. In the foreground, an older boy has caught the smallest of the children around the waist and lifted him sideways off the ground; the small boy, held in mid-air, grips a guava already bitten into, juice on his chin, and twists his head toward the older boy's forearm as if about to bite it too. Two more children stand just behind, throwing their arms up in an excited cheer as they watch the struggle. Leafy guava trees with a few fallen fruit frame the scene, warm midday light. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    }
+  ],
+  "2d_tool": null,
+  "reuse_report": {
+    "scenes": 2,
+    "reused": 0,
+    "authored": 2,
+    "rejected": []
+  }
+}

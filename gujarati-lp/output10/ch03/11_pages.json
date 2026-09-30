@@ -1,0 +1,8 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા) ધોરણ 10",
+  "textbook_url": "../Textbooks-pdf/std-10/ch-03-prayan.pdf",
+  "textbook_pages": "12–14",
+  "source": "printed folio, read off renders of pdf pp. 1 and 3 of the chapter PDF (page-1.png footer reads '12', page-3.png footer reads '14', both under the footer line 'ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 10'); consistent with 01_meta.json's extraction_notes and the std-10 offset N+5 in profiles/boards/gseb_gujarati.md (pdf pp. 17–19 there is the split-file position, not used here)",
+  "confidence": "high",
+  "gaps": ["textbook_url is a local path — the GSEB readers have no hosted URL"]
+}

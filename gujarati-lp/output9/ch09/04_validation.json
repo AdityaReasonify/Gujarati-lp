@@ -1,0 +1,45 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "Genre natak_ekanki confirmed against 01_meta.json (genre_confidence high; this exact chapter, std-9 ch-9 પારખું, is one of the four measured chapters that fixed profiles/genres/natak_ekanki.md). Explanation unit 'એક દૃશ્ય-પ્રસંગ (સંવાદ-ખંડ)' matches the profile's 'one stage-beat' unit exactly. structure_inventory records kadi=0/duha=0/pad=0/ghatna=0/tek_occurrences=0, so the કડી/દુહો/પદ/ટેક equal-count rules do not apply to this chapter; it is not a mixed genre.",
+        "Header rule (avoid-list, A4) holds: exactly one topic, M1.S2.T3, carries the પાત્રો cast list and the '(સ્થળ : દવાખાનું  સમય : સવારના દસ)' opening direction; no other topic's planned original_chunk claims it.",
+        "No-topic-inflation rule (avoid-list, A4) holds: 7 topics inside the played scene (header + 6 stage-beats) is ≤ structure_inventory's entrance_count(4) + exit_count(4) + 1-for-header = 9 (verified programmatically: 9 topics, 10 concepts, all continuous).",
+        "No-tacked-on-બોધ rule holds: none of O1–O8's objective_text end on બોધ/સંદેશ/શિખામણ/ઉપદેશ/આપણે શીખવું જોઈએ; each ends on a plain 'કહેવું'/'તારવવું'/'પકડવી'-type reading goal.",
+        "Craft-naming check: O1/T2 names 'હળવું એકાંકી' (સાહિત્યપ્રકાર) directly from the chapter's own printed કૃતિ-પરિચય; std-9's named canon explicitly allows સાહિત્યપ્રકાર tagging, so this is not a ceiling violation. No અલંકાર, છંદ, સંધિ or સમાસ is asserted anywhere, consistent with 01_meta.json recording none for this prose/drama page.",
+        "Non-blocking observation (travels as a note, not a block): the T7→T8 boundary falls inside one printed script line whose bracket holds two directions back to back — '(આંટા મારે છે. નરરત્નમણિરાવ દાખલ થાય છે.)'. The doctor's pacing (આંટા મારે છે) is his own continued solo business and belongs with T7; the entrance direction (નરરત્નમણિરાવ દાખલ થાય છે) is the stage-change that opens T8. Agent 2 correctly flagged this exact split for Agent 5 rather than guessing; it is a character-level transcription instruction, not a topic-boundary defect — the beat boundary itself (doctor alone → new entrant on stage) is a clean, profile-sanctioned entrance-cut, and no topic's boundary is placed between a question and its answer or between a speech and the direction governing that same speech."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 9,
+      "topics": 9,
+      "notes": [
+        "00_chapter_normalized.md carries three reading-scene markers: [[લેખક-પરિચય]] → M1.S1.T1, [[કૃતિ-પરિચય]] → M1.S1.T2, and [[પાત્રો]] (header + the entire continuous dialogue, no sub-markers, matching structure_inventory.single_continuous_scene=true) → M1.S2.T3 (header) plus M2.S3.T4 … M2.S6.T9 (six stage-beats cut by entrance/exit/knowledge-or-desire-change signals, as the drama unit map directs when no ਦ੃ਸ਼ਯ/ਪ੍ਰਵੇਸ਼ numbering is printed). All three markers are covered, in order; no gap, no marker skipped.",
+        "Pre-reading openers (લેખક-પરિચય, કૃતિ-પરિચય) are both topics, as required. There is no in-text wrap/review in this chapter — the play ends on the doctor's own closing line with no narrator, so no REVIEW topic is expected and none is missing.",
+        "No સ્વાધ્યાય block became a topic: cross-checked all four 01_meta.json exercise_inventory entries (MCQ, બે-ત્રણ વાક્યમાં ઉત્તર, સવિસ્તાર ઉત્તર, વિદ્યાર્થી-પ્રવૃત્તિ) against every topic_name and planned original_chunk boundary in 02_structure.json — none match. શબ્દ-સમજૂતી, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા (teacher-addressed apparatus, per the profile's own std-9 ch-9 note) are also correctly excluded and reserved for Agent 10 / gloss sourcing.",
+        "No topic covers text that no marker claims: every one of the 9 topics falls inside [[લેખક-પરિચય]], [[કૃતિ-પરિચય]] or [[પાત્રો]]; the bibliographic attribution line ('જયંતિ દલાલનાં પ્રતિનિધિ એકાંકીઓ'માંથી) is correctly treated as anthology metadata belonging to no topic."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 8,
+      "notes": [
+        "Root objectives[] exists with 8 unique objective_id values (O1–O8), each with a unique legacy_id (L1–L8); strand_to_objective_map covers every legacy_id exactly once (verified programmatically). Single strand L / ભાષા અને સાહિત્ય throughout, as required for Gujarati literature.",
+        "Every home_topic_id and every anchor[] concept id resolves to a real node in this tree (verified programmatically against all 9 topic_ids and all 10 concept_ids — zero unresolved references). Every topic carries objective_ids and each id resolves to the root registry (verified programmatically — zero unresolved references).",
+        "Each objective is text-grounded and chapter-specific: O1 names જયંતિ દલાલ and 'પારખું'નો સાહિત્યપ્રકાર and its two printed ચોટ; O2 the printed પાત્રો list and 'સ્થળ : દવાખાનું, સમય : સવારના દસ'; O3–O5 the specific banter, સસરાનો પોશાક and ડૉકટરની ગોખણી; O6–O8 the two named ચોટ (મનમોહનદાસ, then નરરત્નમણિરાવ) and the closing line 'હું કોને રોઉં ?'. None could be pasted into another chapter, and each serves the teaching_lens (સંવાદ + રંગસૂચના + વળાંક).",
+        "Ids match reference/naming_conventions.md: M/S/T/C are dotted and globally continuous with no gaps or restarts (M1–M2, S1–S6, T1–T9, C1–C10, verified programmatically), concepts are present under every topic, and no M1.S1.T1.P1-style objective code appears anywhere — objectives are plain O{n}.",
+        "T1 and T2 share objective O1 (author-intro + work-intro treated as one preparatory unit, with anchor listing both topics' concept ids) — this mirrors the accepted output9/ch01 pattern for the same preparatory-pair shape and is not a per-topic-uniqueness violation; the contract's objective model is a root registry with topics pointing at it, not a strict one-objective-per-topic pairing."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Ran once, per reference/loop_protocol.md — no iteration, no per-round feedback file.",
+    "Cross-checked 01_meta.json's structure_inventory, exercise_inventory and extraction_notes against 02_structure.json's cut and against 00_chapter_normalized.md's raw markers directly; found no disagreement beyond the single non-blocking T7/T8 bracket-split note recorded under genre_fidelity.",
+    "02_structure.json promoted to 04_converged.json unchanged. Ids (M1–M2, S1–S6, T1–T9, C1–C10, O1–O8) are frozen from this point forward."
+  ]
+}

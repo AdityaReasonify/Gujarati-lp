@@ -1,0 +1,6 @@
+{"textbook":"ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9",
+ "textbook_url":"../Textbooks-pdf/std-9/ch-18-dikrini-viday.pdf",
+ "textbook_pages":"97–98",
+ "source":"printed folio read off renders of pdf pp. 1 and 2 of the chapter PDF (97, 98); confirmed against manifest.json row (printed_start 97, pdf_start 101, pdf_end 102) and the std-9 offset N+4 in profiles/boards/gseb_gujarati.md; the running footer on pdf p.2 also prints 'ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9', corroborating the title",
+ "confidence":"medium",
+ "gaps":["textbook_url is a local path — the GSEB readers have no hosted URL","std 9's cover page has not been read (per profiles/boards/gseb_gujarati.md, only std 6, 7 and 10 covers are confirmed); the title is carried from 01_meta.json and corroborated by the running footer of pdf p.2 of this chapter's render, not by a read of the cover itself"]}

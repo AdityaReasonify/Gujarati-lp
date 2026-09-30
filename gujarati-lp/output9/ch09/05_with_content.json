@@ -1,0 +1,575 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch9",
+  "genre": "natak_ekanki",
+  "active_genre_profiles": [
+    "natak_ekanki.md"
+  ],
+  "explanation_unit": "એક દૃશ્ય-પ્રસંગ (સંવાદ-ખંડ)",
+  "teaching_lens": "સંવાદ + રંગસૂચના + વળાંક",
+  "guiding_question": "ડૉક્ટર પોતાની જાત વિશે જે બડાશ મારે છે, તે એક પછી એક આવતાં અજાણ્યાં પાત્રો સામે કઈ રીતે આપોઆપ ખુલ્લી પડી જાય છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક-પરિચય અને કૃતિ-પરિચયમાં અપાયેલી માહિતી પરથી જયંતિ દલાલની સાહિત્યિક ઓળખ અને 'પારખું'નો સાહિત્યપ્રકાર (હળવું એકાંકી) તથા એની બે ચોટ કઈ છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1",
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'પાત્રો' યાદી અને 'સ્થળ : દવાખાનું, સમય : સવારના દસ' પરથી એકાંકીનાં પાત્રો, સ્થળ-સમય ઓળખવાં અને દર્દી વિનાના દવાખાનાની સવાર શું સૂચવે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અનિરુદ્ધ અને ડૉકટર વચ્ચેની શરૂઆતની ટપાટપીમાં ડૉકટર કઈ પંક્તિઓમાં અંગ્રેજી શબ્દો ભેળવીને પોતાનું મહત્ત્વ બતાવવા મથે છે તે શોધવું અને અનિરુદ્ધ એને કઈ રીતે ચીડવે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અનિરુદ્ધ સસરાના અણધાર્યા આગમનની વાત કરે ત્યારે ડૉકટરના વર્તનમાં આવતો ફેરફાર જોવો, અને સસરાના પોશાકનું વર્ણન યાદ રાખવા માટે ડૉકટર કઈ યુક્તિ કરે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ડૉકટર પોશાકનું વર્ણન ગોખતાં ગોખતાં ગમનને કોટ, ધોતિયું અને ટોપીના શબ્દો કઈ રીતે અવળા-સવળા બોલી નાખે છે તે શોધવું અને એનાથી ગમનને કેમ મૂંઝવણ થાય છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T6",
+      "anchor": [
+        "M2.S4.T6.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મનમોહનદાસને સસરા સમજી ડૉકટર કઈ બડાશો મારે છે તે તારવવું, અને છેલ્લે મનમોહનદાસ ખરેખર કોણ નીકળે છે એ ખૂલતાં ડૉકટરની બડાશનું પોકળપણું કઈ રીતે ખુલ્લું પડે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S5.T7",
+      "anchor": [
+        "M2.S5.T7.C7",
+        "M2.S5.T7.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "નરરત્ન એક પછી એક પ્રશ્ન પૂછે ત્યારે ડૉકટર પોતાની શોધ, દવાઓ, ઓપરેશન અને લેખો વિશેની અગાઉની બડાશ કઈ રીતે પાછી ખેંચી લે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S6.T8",
+      "anchor": [
+        "M2.S6.T8.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "નરરત્ન સાચા સસરા છે એ ખૂલતાં ડૉકટરે એમને જ તમાચો માર્યો હતો એ વક્રતા પકડવી, અને એકાંકીની અંતિમ પંક્તિ 'હું કોને રોઉં ?' શું વ્યક્ત કરે છે તે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S6.T9",
+      "anchor": [
+        "M2.S6.T9.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "લેખક, કૃતિ અને મંચની ઓળખ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "લેખક અને કૃતિનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "લેખક જયંતિ દલાલનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "જયંતિ ઘેલાભાઈ દલાલનું વતન અમદાવાદ હતું. તેઓ વાર્તાકાર, નાટ્યકાર, નવલકથાકાર અને અનુવાદક તરીકે જાણીતા હતા. ‘જવનિકા’, ‘પ્રવેશ બીજો’, ‘પ્રવેશ ત્રીજો’ તેમના પ્રયોગશીલ એકાંકીના સંગ્રહો છે. ‘રંગતોરણ’ બાળનાટકોનો સંગ્રહ છે. ‘ઉત્તરા’, ‘જૂજવાં’, ‘કથરોટમાં ગંગા’, ‘મૂકમ્ કરોતી’, ‘આ ઘેર, પેલે ઘેર’, ‘અડખે પડખે’, ‘યુધિષ્ઠિર’ તેમના નોંધપાત્ર વાર્તાસંગ્રહો છે. ‘ધીમુ અને વિભા’ તથા ‘પાદરનાં તીરથ’ એમની પ્રયોગશીલ નવલકથાઓ છે. તેમણે જગવિખ્યાત નવલકથાઓનો ઉત્તમ અનુવાદ કર્યા છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "જયંતિ દલાલની સાહિત્યિક ઓળખ અને કૃતિઓ"
+                }
+              ],
+              "note": "Marker [[લેખક-પરિચય]]. Prose printed for the student (playwright bio paragraph, per 01_meta.json genre_signals/extraction_notes) — CONCEPT topic per explanation_unit_map.md's rule that student-facing પરિચય prose is a CONCEPT topic; std-9 prints લેખક-પરિચય and કૃતિ-પરિચય as two separate markers (unlike std-10's single unlabelled paragraph), so 'One marker, one topic' gives each its own topic, matching the treatment already used for output9/ch01's T1/T2. Shares objective O1 with T2 (author + work introduced as one preparatory unit, same pattern as ch01's O1). Simple factual biography/title list, no dense register — easy.",
+              "modified_chunk": "જયંતિ દલાલ અમદાવાદના વતની હતા અને વાર્તાકાર, નાટ્યકાર, નવલકથાકાર અને અનુવાદક તરીકે જાણીતા હતા. 'જવનિકા' અને 'પ્રવેશ બીજો' જેવા તેમના પ્રયોગશીલ (નવી નવી રીતે અજમાવેલા) એકાંકી-સંગ્રહો છે, જ્યારે 'ઉત્તરા', 'જૂજવાં' જેવી કૃતિઓ તેમના જાણીતા વાર્તાસંગ્રહો છે. તેમણે બીજી ભાષાની પ્રખ્યાત નવલકથાઓના સરસ અનુવાદ પણ કર્યા છે.",
+              "word_count": {
+                "original": 63,
+                "modified": 46
+              },
+              "key_terms": [
+                "વતન — જન્મ કે રહેઠાણનું સ્થળ",
+                "પ્રયોગશીલ — નવી નવી રીતો અજમાવનાર",
+                "નોંધપાત્ર — ધ્યાન ખેંચે એવું, મહત્ત્વનું",
+                "અનુવાદક — બીજી ભાષામાંથી ભાષાંતર કરનાર",
+                "સંગ્રહ — એકઠાં કરેલાં લખાણોનું પુસ્તક"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": []
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "કૃતિ-પરિચય: પારખુંનું સ્વરૂપ અને બે ચોટ",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "આ હળવા એકાંકીમાં એક બેકાર ડૉક્ટરની બડાશ, ગેરસમજ અને ગફલતને કારણે ઊભા થતા રમૂજ પ્રસંગોની રજૂઆત કરવામાં આવી છે. સાદા પણ ચબરાક સંવાદો અને પ્રસંગોની ચતુરાઈભરી ગોઠવણી આ કૃતિને છેલ્લે સુધી આસ્વાદ્ય રાખે છે. એકાંકીમાં લેખકે બે ચોટ સિદ્ધ કરી છે - ડૉક્ટરને પહેલાં મનમોહનદાસની અને પછી નરરત્નમણિરાવની ઓળખ મળે છે ત્યારે આ એકાંકી તખ્તા ઉપર સફળતાપૂર્વક ભજવી શકાય એવા ગુણો ધરાવે છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "પારખુંનો સાહિત્યપ્રકાર અને બે ચોટની રચના"
+                }
+              ],
+              "note": "Marker [[કૃતિ-પરિચય]]. Work-intro paragraph printed for the student, naming the સાહિત્યપ્રકાર outright ('આ હળવા એકાંકીમાં...') and both printed ચોટ ('ડૉક્ટરને પહેલાં મનમોહનદાસની અને પછી નરરત્નમણિરાવની ઓળખ મળે છે') — directly serves MCQ પ્રશ્ન (1) (સાહિત્યપ્રકાર) and સવિસ્તાર પ્રશ્ન (3) ('પારખું કરવા નીકળ્યો... પારખું થઈ ગયું'). CONCEPT topic, depends_on T1 (poet introduced first). Naming હળવું એકાંકી here is within the std-9 named canon (સાહિત્યપ્રકાર tag), not a hard-gate violation. Shares objective O1 with T1. medium — literary/analytical vocabulary (બડાશ, ગેરસમજ, ગફલત, ચતુરાઈભરી ગોઠવણી, આસ્વાદ્ય, ચોટ) that an L2 std-9 reader has to work through.",
+              "modified_chunk": "આ ફકરો 'પારખું' એકાંકીનો પરિચય આપે છે. એક બેકાર ડૉક્ટર બડાશ મારે છે, અને એમાંથી ગેરસમજ અને ગફલત (ભૂલ) ઊભાં થતાં રમૂજ સર્જાય છે. વાર્તામાં બે ચોટ (અચાનક ખૂલતી ચોંકાવનારી વાત) આવે છે — પહેલાં મનમોહનદાસની અને પછી નરરત્નમણિરાવની સાચી ઓળખ ખૂલે છે. એટલે જ આ કૃતિ 'હળવું એકાંકી' કહેવાય છે અને મંચ પર ભજવવા લાયક છે.",
+              "word_count": {
+                "original": 63,
+                "modified": 57
+              },
+              "key_terms": [
+                "બડાશ — પોતાની ખોટી મોટાઈ બતાવવી",
+                "ગફલત — ભૂલ, ચૂક",
+                "ચોટ — વાર્તામાં અચાનક ખૂલતી ચોંકાવનારી વાત",
+                "ચબરાક — હોશિયાર, ચતુર",
+                "આસ્વાદ્ય — માણવા-લાયક, રસપ્રદ"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": []
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "પાત્રો અને મંચની તૈયારી",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "પાત્રો અને દવાખાનાનું દૃશ્ય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "પાત્રો\nડૉ  પીયૂષ         અનિરુદ્ધ\nમનમોહનદાસ         નરરત્નમણિરાવ\nગમન\n(સ્થળ : દવાખાનું   સમય : સવારના દસ)",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "પાત્રો, સ્થળ અને સમયનો પરિચય"
+                }
+              ],
+              "note": "Marker [[પાત્રો]] (which carries the header AND the whole play in 00_chapter_normalized.md — see the chapter-level note on drama cutting below). THIS topic carries the header ONLY: the પાત્રો cast list (both name-columns: ડૉ પીયૂષ/અનિરુદ્ધ, મનમોહનદાસ/નરરત્નમણિરાવ, ગમન) and the opening bracketed direction '(સ્થળ : દવાખાનું   સમય : સવારના દસ)' — per natak_ekanki.md's hard rule (A4) 'The header is never dropped and never absorbed. Exactly one topic carries the પાત્રો block, the opening direction and any સ્થળ/સમય/date line.' No spoken dialogue belongs here; the first line ('ડૉકટર : હમણાં જ વિઝિટેથી આવ્યો.') opens the next topic. Easy — short, no dense vocabulary — but the objective reaches Analyze because reading a waiting-room-at-ten-with-no-patients as the joke before anyone speaks is itself a skill natak_ekanki.md calls out explicitly.",
+              "modified_chunk": "આ ભાગ એકાંકીનાં પાત્રો અને દૃશ્યની ઓળખ આપે છે. પાત્રોમાં ડૉ પીયૂષ, અનિરુદ્ધ, મનમોહનદાસ, નરરત્નમણિરાવ અને કમ્પાઉન્ડર ગમનનો સમાવેશ થાય છે. દૃશ્ય ડૉ પીયૂષના દવાખાનામાં, સવારના દસ વાગ્યે ભજવાય છે. સવારના દસ વાગ્યે પણ કોઈ દર્દી ન હોવો એ પોતે જ ડૉક્ટરની બેકારી તરફ ઇશારો કરે છે.",
+              "word_count": {
+                "original": 14,
+                "modified": 47
+              },
+              "key_terms": [
+                "પાત્રો — નાટકમાં ભાગ ભજવતાં માણસોનાં નામ",
+                "કમ્પાઉન્ડર — ડૉક્ટરને દવા આપવામાં મદદ કરનાર માણસ",
+                "સ્થળ — જગ્યા (અહીં: દવાખાનું)"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "ડૉકટરની બડાશની બે ચોટમાં ખૂલતી પોકળતા",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "અનિરુદ્ધ સાથેની ટપાટપી અને સસરાના આગમનની જાણ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "અનિરુદ્ધની ટીખળ અને ડૉકટરની અંગ્રેજી-ભેળ બડાશ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S2.T3"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "ડૉકટર : હમણાં જ વિઝિટેથી આવ્યો.\nઅનિરુદ્ધ : હવે રાખ ને, ભાઈ !\nડૉકટર : અનિરુદ્ધ !\nઅનિરુદ્ધ : શું છે !\nડૉકટર : તમે આમ ને આમ...\nડૉકટર : Say.\nઅનિરુદ્ધ : (અધવચથી અટકાવી) પણ તમે-તમે શેનો કહી મરે છે ?\nડૉકટર : You don't understand. તું સમજતો નથી. મારા staffના દેખતાં\nઅનિરુદ્ધ : (ખડખડાટ હસતાં) તારો staff ! હા... હા... હા...\nડૉકટર : I mean my compounder.\nઅનિરુદ્ધ : સાથે પેલા નોકરને પણ ગણાવ ને ! મહિને આઠ આના પરખાવે છે કે બધું પીણે પાને ?\nડૉકટર : I don't know how to teach you to talk.\nઅનિરુદ્ધ : પહેલાં જાતે શીખ ને !\nડૉકટર : એટલે તારે કહેવું શું છે ?\nઅનિરુદ્ધ : હું એમ કહું છું કે આપ કશા જ કામ વિનાના અહીં બેઠા હતા એવી નક્કર વસ્તુસ્થિતિથી મને વાકેફ કરવાની સભ્યતા આપે શીખી લેવી.\nડૉકટર : વા...રું (મોટા થોથામાં મોં ઘાલે છે.)\nઅનિરુદ્ધ : જો, ભાઈ, એમ દેખાડે પંડિતાઈ મળતી હોત તો પેલો છગનો જોશીનો અવતાર ગણાત !\nડૉકટર : ભાઈ, હવે ટૂંકું પતાવીશ ?\nઅનિરુદ્ધ : અરે ભલા'દમી, ઊલટો ઉપકાર માને ને કે માફ મારવાની ન હિંસાથી હું તને ઉગારું છું.\nડૉકટર : એટલે તું અહીં લડવા જ આવ્યો છે ?\nઅનિરુદ્ધ : અરે ભાઈ ! લડ્યે ક્યાં પાલવે ! જો આપણે બે લડીએ, તો ચોક્કસ જ તું મને તમાચો મારે. મારો આ હાલતો દાંત પડી જાય. મારે નવો નખાવવો પડે. તારે મફત નાખી દેવો પડે. તું કમાતો હોય તો તો ઠીક, પણ...\nડૉકટર : Humbug !\nઅનિરુદ્ધ : એ હમ્બગ-તમ્બગમાં હું કાંઈ ના જાણું.\nડૉકટર : (કંટાળીને) ત્યારે આપ જાણો છો શું ?\nઅનિરુદ્ધ : અરે હા, યાર ! બરાબર યાદ આવ્યું. ડોક્ટર, દોસ્ત !\nડૉકટર : ભાઈ, હવે તો તું નામ પાડે તો ઉપકાર...\nઅનિરુદ્ધ : પણ અલ્યા પીયૂષ...\nડૉકટર : Nonsense ! ડૉ. પીયૂષરાયજી કહો.\nઅનિરુદ્ધ : એ તો પાટિયા ઉપર લખવાનું-બોલવાનું નહિ. પણ ડોક્ટર...\nડૉકટર : (ભિજાઈને) છે શું તે કહે ને !\nઅનિરુદ્ધ : એ જ. ભિજાતો હોય તો રહે ને તું તારે ત્યાં. આ ચાલ્યો હું તો પછી કાંઈ થાય તો દોગામી ના દેતો.\nડૉકટર : વારુ ! (રિવોલ્વિંગ ચેરમાં પડખું ફેરવે છે.)\nઅનિરુદ્ધ : સારું ! (ઊભો થાય છે.)\nડૉકટર : આવજે...\nઅનિરુદ્ધ : શું કામ ? અપમાન સહેવા ? ઊલટું તમારા ભલા માટે આવીએ ત્યારે તમે...\nડૉકટર : જરા સભ્યતાથી બોલતા હો તો...\nઅનિરુદ્ધ : સભ્યતા ? પણ હું શું કહેતો'તો (માથુ ખંજવાળતાં) હા બરાબર યાદ આવ્યું. (ડોક્ટરની પીઠ થાબડી) શાબાશ, દોસ્ત, Congratulations !\nડૉકટર : (મલકાતા) બહુ મોડા થયા.\nઅનિરુદ્ધ : ડોક્ટર, દોસ્ત ! Better late than never. પણ ધીરજનાં ફળ મીઠાં છે એ વાત તેં સાબિત કરી હો ! નીલુ જેવી છોકરી આખી નાતમાં તને ન મળત ! હા... હા... હા...\nડૉકટર : (સંતોષના હાસ્યથી) જોજે, કાંઈ હૃદય ઊભરાઈ ન જાય.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "અનિરુદ્ધની ટીખળમાં ડૉકટરની અંગ્રેજી-ભેળ બડાશ"
+                }
+              ],
+              "note": "First stage-beat: the ડૉકટર–અનિરુદ્ધ banter from the opening line ('હમણાં જ વિઝિટેથી આવ્યો.') through 'નીલુ જેવી છોકરી આખી નાતમાં તને ન મળત ! હા... હા... હા...' and the doctor's reply 'જોજે, કાંઈ હૃદય ઊભરાઈ ન જાય.' No entrance/exit inside this stretch — nothing on stage changes, so per natak_ekanki.md's 'a long expository exchange stays ONE topic' rule this whole exchange is one beat despite its length; it establishes the doctor's boastful, English-code-switched speech (Say., You don't understand., Humbug!, Nonsense!) and અનિરુદ્ધની ટીખળ as the running device that carries the rest of the play. Ends just before અનિરુદ્ધ's 'પણ ડોક્ટર, તમારી પરીક્ષા હવે છે' line, which per the pre-topic-hook rule opens the NEXT topic, not the tail of this one. depends_on the header (needs the સ્થળ/સમય/who's-in-the-room orientation to land). medium — Roman-script English mixed into Gujarati speech and idiom ('હમ્બગ-તમ્બગ', 'દોગામી ના દેતો') that stops an L2 reader.",
+              "modified_chunk": "ડૉકટર અને એમનો દોસ્ત અનિરુદ્ધ મજાકમાં ટપાટપી કરે છે. ડૉકટર પોતાનું મહત્ત્વ બતાવવા વચ્ચે વચ્ચે અંગ્રેજી શબ્દો ભેળવીને બોલે છે, પણ અનિરુદ્ધ એને ગણકારતો નથી અને ટીખળ કરે છે. છેલ્લે અનિરુદ્ધ ડૉકટરને અભિનંદન આપે છે, કારણ કે એમનાં લગ્ન નક્કી થયાં હતાં.",
+              "word_count": {
+                "original": 447,
+                "modified": 42
+              },
+              "key_terms": [
+                "staff — નોકર-ચાકર, કામ કરનારાં માણસો",
+                "compounder — ડૉક્ટરને દવા બનાવવામાં મદદ કરનાર",
+                "હમ્બગ — ખોટી બડાઈ, ધુતારાપણું",
+                "વાકેફ — માહિતગાર, જાણકાર",
+                "ભલા'દમી — 'ભલો આદમી'નું બોલચાલનું ટૂંકું રૂપ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "સસરાના અણધાર્યા આગમનની જાણ અને પોશાકનું વર્ણન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T4"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "અનિરુદ્ધ : પણ ડોક્ટર, તમારી પરીક્ષા હવે છે, એ ખબર છે ?\nડૉકટર : ના. કેમ વારુ ?\nઅનિરુદ્ધ : તમારા સસરા તમને જોવા-પરખવા આવ્યા છે.\nડૉકટર : મારા સસરા ? એ જીવે છે ?\nઅનિરુદ્ધ : ત્યારે ? જુવાનિયા વિરુદ્ધ ન પડે તો બીજી વાર ફેરા ફરવાની પણ ઉમેદવારી ધરાવે છે.\nડૉકટર : તે અહીં આવ્યા છે ?\nઅનિરુદ્ધ : હા, આજે સવારે જ મેલમાં આવ્યા, અને હમણાં જ આ બાજુએ પગલાં થતાં હશે.\nડૉકટર : પણ કાંઈ કહ્યા-કહેવરાવ્યા વિના ?\nઅનિરુદ્ધ : ઘેલો રે ઘેલો ! એમને તો તને કશી જ તૈયારી વિના જોવો હશે.\nડૉકટર : That is strange !\nઅનિરુદ્ધ : તારા વિવાહ જેટલું નહિ !\nડૉકટર : પણ, અનિરુદ્ધ, મારે શું કરવું ? હું તો એમને ઓળખતો પણ નથી !\nઅનિરુદ્ધ : Surely this is strange. ડોક્ટર, દીઠે પણ નહિ ?\nડૉકટર : અરે, ભલા'દમી, અત્યાર લધી નામે પણ નહિ.\nઅનિરુદ્ધ : તો તો તારે સંભાળવાનું, કારણ કે માણસ જરા વહેમી છે. અને વળી પાછું જૂના જમાનાનું.\nડૉકટર : ત્યારે તો કમબખ્તી !\nઅનિરુદ્ધ : પૂરી. અને એ (દવાખાનું બતાવી) આ બધાના ભભકામાં ન અંજાયા ને તો...\nડૉકટર : તો ? તો શું ?\nઅનિરુદ્ધ : (ચપટી વગાડી આંગળીથી એક વર્તુળ દોરે છે.) શું... શું... ? વિવાહ ફોક.\nડૉકટર : પણ... પણ મારે કરવું શું ? તું ઓળખે છે ?\nઅનિરુદ્ધ : હા, દીઠે અને નામે બંને રીતે.\nડૉકટર : એ કેવા છે ?\nઅનિરુદ્ધ : (ઠંડે કલેજે) માણસ જેવા માણસ.\nડૉકટર : અરે દોસ્ત, My dear friend help me, help me.\nઅનિરુદ્ધ : ઊહું. મારે તો જરા સભ્યતા શીખવા જવું છે.\nડૉકટર : ઓ ભાઈ અનિરુદ્ધ, આવી fatel joke ?\nઅનિરુદ્ધ : શું થાય, ભાઈ, આપણે તો હજુ બોલતાં પણ શીખવાનું. (ગોખતો હોય એમ) ડોક્ટર પીયૂષરાયજી, ડોક્ટર પીયૂષરાયજી.\nડૉકટર : મોટા ભાઈ, હવે માફી માગું. થયું ? પત્યું ? હવે મને જરા કહેને, એ દેખાવે કેવા છે ?\nઅનિરુદ્ધ : જો ભાઈ, વાત એમ છે કે તારા સસરાનું વ્યક્તિત્વ જ જુદું છે. ઘરમાં સાડા-ત્રણ ફૂટની છૂટી પાટલીની ધોતલી, જુવાનીની પહેલવાનીનો ખ્યાલ આવે એવું ખુલ્લું બદન અને ભગવાન ચાણક્ય જેવી ફરફરતી શિખા.\nડૉકટર : અને બહાર ?\nઅનિરુદ્ધ : બહાર ? જો ભાઈ, બહારમાં પણ ભેદ છે. જો એ શાક લેવા જતા હોય...\nડૉકટર : (ચિડાઈને) પણ મારું દવાખાનું ક્યાં શાકબજાર છે ?\nઅનિરુદ્ધ : ના રે ના, હોય કાંઈ ? અહીંના જેવી શાંતિ ત્યાં ક્યાં મળવાની છે ?\nડૉકટર : (ગળી જતાં) પણ જ્યારે કોઈને મળવા જતા હોય ત્યારે ?\nઅનિરુદ્ધ : લાંબો કાળો કોટ, ચાર પાટલીનું ધોતિયું અને કાશ્મીરી ટોપી. અરે યાર જૂના દોસ્ત નવા લિબાસમાં.\nડૉકટર : અનિરુદ્ધ, પ્યારા દોસ્ત, મને કહેને, એ આવે ત્યારે મારે શું કરવું ?\nઅનિરુદ્ધ : અરે ભાઈ, એ તને શિખવાડવાનું હોય ? હમણાં મારી આગળ જ નાટક ભજવતો'તો ને ? (આંગળીને વેઢે ગણાવતાં) વિઝિટ, સ્ટાફ, એપોઈન્ટમેન્ટ, ઓપરેશન આર્ટિકલ્સ, લેક્ચર, રિસર્ચ, ઈન્વેન્શન, પ્રિસ્ક્રિપ્શન, પેઈન્ટ, પાઉડર એન્ડ ટેસ્ટ-ટ્યુબ...\nડૉકટર : પણ તું હોય તો ફેર પડે !\nઅનિરુદ્ધ : શો ફેર પડવાનો હતો ! જમાઈ બદલાય, કાંઈ સસરો ઓછો બદલાવાનો છે.\nડૉકટર : Rascal !\nઅનિરુદ્ધ : કેમ પાછો સભ્ય બની ગયો ? લે, ભાઈ મારે શું ? માથે પડી ભોગવ. (સીટી વગાડતો જાય છે.)",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "સસરાના આગમનની જાણ અને પોશાકનું વર્ણન"
+                }
+              ],
+              "note": "Second beat, opened by અનિરુદ્ધ's hook line 'પણ ડોક્ટર, તમારી પરીક્ષા હવે છે, એ ખબર છે ?' through અનિરુદ્ધની exit '(સીટી વગાડતો જાય છે.)' — bounded by the chapter's exit #1. Covers: the news that the doctor's સસરો has arrived unannounced (not yet named to the doctor — dramatic irony the audience does not yet resolve either); the doctor's panic that he has never seen or met him; and અનિરુદ્ધની three-context description of the સસરાનો પોશાક (ઘરમાં / બહાર શાક લેવા જતાં / કોઈને મળવા જતાં — culminating in 'લાંબો કાળો કોટ, ચાર પાટલીનું ધોતિયું અને કાશ્મીરી ટોપી'), which is the exact costume that drives the mistaken-identity beat later — the play's central set-up. This is the chapter's inciting incident, so 'core' rather than 'introduction'. medium — culturally specific dress vocabulary (પાટલીની ધોતલી, શિખા, લિબાસ) an L2 reader needs glossed.",
+              "modified_chunk": "અનિરુદ્ધ ડૉકટરને કહે છે કે એમના સસરા અચાનક, કંઈ પણ જણાવ્યા વગર, એમને 'પારખવા' આવ્યા છે. ડૉકટર ગભરાય છે કારણ કે એણે સસરાને ક્યારેય જોયા જ નથી. અનિરુદ્ધ મજાકમાં સસરાના પોશાકનું વર્ણન કરે છે — ઘરમાં છૂટી ધોતલી, અને બહાર જતી વખતે લાંબો કાળો કોટ, ચાર પાટલીનું ધોતિયું અને કાશ્મીરી ટોપી — અને પછી સીટી વગાડતો જતો રહે છે.",
+              "word_count": {
+                "original": 507,
+                "modified": 59
+              },
+              "key_terms": [
+                "પારખવું — ખરું-ખોટું ઓળખવું, ચકાસવું",
+                "ધોતલી — ધોતિયું (ઘરમાં પહેરવાનું નાનું)",
+                "લિબાસ — પોશાક, પહેરવેશ",
+                "વહેમી — શંકા કરનાર, જલદી ના માનનાર",
+                "ભભકો — ઝાકઝમાળ, દેખાડો"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "સસરાના પોશાકની ગોખણી અને ગમનની મૂંઝવણ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T6",
+              "topic_name": "ડૉકટરની ગોખણી અને ગમનની મૂંઝવણ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "easy",
+              "depends_on": [
+                "M2.S3.T5"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "ડૉકટર : (રિવોલ્વિંગ ચેરમાં ઘૂમતાં) લાંબો કાળો કોટ, ચાર પાટલીનું ધોતિયું અને કાશ્મીરી ટોપી. કાશ્મીરી ટોપી અને લાંબો કાળો કોટ, (ગોખે છે) (ટેબલ પરનો કોલબેલ દાબે છે.) કાશ્મીરી ટોપી.\nડૉકટર : ગમનલાલ, લાંબો કાળો કોટ (ગમન કમ્પાઉન્ડર આવે છે.)\nગમન : શું સાહેબ ?\nડૉકટર : ચાર પાટલીનું ધોતિયું.\nગમન : જી, સાહેબ !\nડૉકટર : કાશ્મીરી ટોપી\nગમન : પણ સાહેબ...\nડૉકટર : પગમાં શું ? ભૂલી ગયો, સાવ ભૂલી ગયો, પૂછવાનું જ ભૂલી ગયો.\nગમન : (ટેબલને અડકી ઊભો રહે છે.) મને કેમ બોલાવ્યો સાહેબ !\nડૉકટર : ઓહ ! તમે આવી ગયા ? ગમનલાલ, જુઓ, પેલા જૂના કેઈસીસની ફાઈલ્સ છે તે મારા ટેબલ પર મૂકો. પેલું લિટરેચર છે તેની ધૂળ ઊડાડી તૈયાર રાખો. પેલા ચાર્ટ્સ ખંખેરી નાખો, બધું એકદમ ઓર્ડરમાં લાંબો કોટ, કાશ્મીરી ધોતિયું અને ચાર પાટલીની ટોપી.\nગમન : બીજું કાંઈ, સાહેબ ?\nડૉકટર : લાંબું કાળું ધોતિયું, ચાર પાટલીનો કોટ અને કાશ્મીરી ટોપી.\nગમન : સાહેબ, આ શું બોલો છો ?\nડૉકટર : ભૂલ્યો, ભૂલ્યો, કાશ્મીરી કોટ.\nગમન : (જતાં જતાં) હાય બેકારી !",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T6.C6",
+                  "concept_name": "કોટ-ધોતિયું-ટોપીની ગોખણીમાં ડૉકટરની મૂંઝવણ"
+                }
+              ],
+              "note": "Third beat: the doctor alone, rehearsing the costume description out loud and ringing the bell for ગમન — per the pre-topic-hook rule, the doctor's short solo rehearsal that triggers ગમનનું entrance (entrance #1, 'ગમન કમ્પાઉન્ડર આવે છે.') opens THIS topic rather than tailing T5 — through ગમનની confused exit '(જતાં જતાં) હાય બેકારી !' (exit #2). The comedy is the doctor jumbling કોટ/ધોતિયું/ટોપી across the three garments while instructing ગમન, who cannot follow the garbled order. depends_on T5 (the description being rehearsed and garbled is the one અનિરુદ્ધ just gave). easy — the confusion IS the joke, mostly repeated familiar nouns, low new-vocabulary load.",
+              "modified_chunk": "ડૉકટર એકલા એકલા સસરાના પોશાકનું વર્ણન ગોખે છે અને ગમનને બોલાવે છે. પણ ગોખતાં ગોખતાં ડૉકટર કોટ, ધોતિયું અને ટોપી એકબીજા સાથે ભેળવીને અવળું-સવળું બોલી નાખે છે — ક્યારેક 'કાશ્મીરી ધોતિયું' તો ક્યારેક 'કાશ્મીરી કોટ'. ગમનને કંઈ સમજાતું નથી, અને એ મૂંઝાઈને 'હાય બેકારી !' બોલતો જતો રહે છે.",
+              "word_count": {
+                "original": 169,
+                "modified": 49
+              },
+              "key_terms": [
+                "ગોખવું — વારંવાર બોલીને યાદ રાખવું",
+                "ખંખેરવું — ધૂળ કે કચરો ઝાટકીને કાઢવો",
+                "કોલબેલ — બોલાવવા માટે દબાવવાની ઘંટડી",
+                "મૂંઝાવું — શું કરવું તે ન સમજાવું"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S5",
+          "segment_name": "મનમોહનદાસને સસરા સમજવાની ભૂલ",
+          "topics": [
+            {
+              "topic_id": "M2.S5.T7",
+              "topic_name": "મનમોહનદાસને સસરા સમજી ડૉકટરની બડાશ અને સાચી ઓળખ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S3.T5"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "ડૉકટર : મારી પણ ભૂલ થઈ. છબી જ મંગાવી લીધી હોત તો કેટલું સારું થાત ! કેટલી ઉપાધિમાંથી ઊગરી જાત ! (મનમોહનદાસ દાખલ થાય છે.)\nડૉકટર : (એને જોતાં જ) એ જ. એ જ. લાંબો કાળો કોટ, કાશ્મીરી ટોપી અને ચાર પાટલીનું ધોતિયું, એ જ... એ જ... (ઊભા થઈ) પધારો... પધારો.\nમનમોહનદાસ : અરે એ શું ? તસ્દી માફ કરજો, પણ મારે જરા આવવું પડ્યું.\nડૉકટર : અરે એમાં શું ? આપનું જ દવાખાનું માની લ્યો. ગમનલાલ, ગમનલાલ !\nગમન : (બહારથી આવી) જી !\nડૉકટર : પેલા પેસ્તનશા શેઠને ત્યાં કહેવડાવી દ્યો કે અત્યારે મારાથી નહિ જ આવી શકાય.\nમનમોહનદાસ : તમે વિઝિટ ન ગુમાવતા.\nડૉકટર : અરે સાહેબ, આપ જેવા પધારો ત્યારે એક વિઝિટમાં શું ? અને મને એટલો આરામ મળશે.\nમનમોહનદાસ : ખૂબ થાક લાગતો હશે !\nડૉકટર : અરે સાહેબ, વાત ન પૂછો, વાત ન પૂછો. ગમનલાલ !\nગમન : જી !\nડૉકટર : અને માણસ સાથે કંપનીમાં કહેવરાવો કે Mixture તૈયાર થયું છે. માણસ મોકલી મંગાવી લે. અને પૂછજો, પેટન્ટનું શું કર્યું ? હા, ભૂલતા નહીં.\nગમન : પણ સાહેબ...\nડૉકટર : મેં કેટલી વાર કહું કે હું બોલું ત્યારે તમારે લખી લેવું ? પછી 'સાહેબ સાહેબ' કરી હેરાન કરો છો. Oh God, save me from these creatures !\nગમન : (ડઘાઈ જઈ) બરાબર, સાહેબ !\nડૉકટર : જાઓ. (ગમન જાય છે.) શું કરું સાહેબ ! જમાનો જ એવો આવ્યો છે કે માણસ સમજુ અને વિશ્વાસુ તો ન જ મળી શકે. વિશ્વાસુ હોય તો કહું સમજે નહીં, સમજે તો આપણાથી વિશ્વાસ ન મૂકાય.\nમનમોહનદાસ : બરાબર છે. પણ ડોક્ટર, એ શાની પેટન્ટ છે ?\nડૉકટર : (મલકાતાં) એ તો trade secret છે. પણ તમને કહેવામાં વાંધો નહિ. એ મારી શોધ છે. વર્ષોની research પછી એ inventionથઈ શકી છે; અને એથી dental surgeryમાં જ નહિ, allopathyમાં પણ મોટું revolution થશે.\nમનમોહનદાસ : હં. એનું નામ ?\nડૉકટર : (શરમાતાં) એનું નામ તો પીયૂષ-ડ્રોપ્સ છે ? એ ડ્રોપ્સથી નવા naturalteeth ગમે ત્યારે ગમે તે ઉંમરે ઊગશે.\nમનમોહનદાસ : અહો. ત્યારે તો fertilizer manure જેવું.\nડૉકટર : હા જી. પણ આપ અંગ્રેજી ક્યાંથી જાણો ?\nમનમોહનદાસ : કેમ વારુ ! હું શું મારી છોકરી પણ અંગ્રેજી જાણે છે.\nડૉકટર : આપની છોકરી ?\nમનમોહનદાસ : હા, આ વરસ કન્યાવિદ્યાલયમાંથી પાસ થઈ કૉલેજમાં ગઈ.\nડૉકટર : Oh, I see !\nમનમોહનદાસ : વારુ, પણ ડોક્ટર !\nડૉકટર : જી ?\nમનમોહનદાસ : વકરાપાણી કેમ ચાલે છે ?\nડૉકટર : Oh don't worry about it. મારે તો કાંઈ કરી જવું છે.\nમનમોહનદાસ : બરાબર, પણ ઘરમાંય જોવાનું તો હોય ને ?\nડૉકટર : એ તો સાહેબ, ઈશ્વરની કૃપા અને આપ જેવા મુરબ્બીઓની દયા છે. હજાર-બારસોની average હશે.\nમનમોહનદાસ : That is magnificent, doctor !\nડૉકટર : Oh thanks !\nમનમોહનદાસ : મેં સાંભળ્યું છે, ડોક્ટર, કે તમે દાંત કાઢવાનો નવો process શોધ્યો છે.\nડૉકટર : જી. મિત્રોએ તો ઘણુંય કહ્યું કે પેટન્ટ લે, પણ મેં કહ્યું કે જ્ઞાન ઉપર કોઈનો ઈજારો ન હોવો જોઈએ, એટલે મેં તો formula જાહેર કરી. પણ ફેર તો પડે જ ને ?\nમનમોહનદાસ : હાસ્તો.\nડૉકટર : અને મને તો પ્રેક્ટિસને અંગે રમત થઈ ગઈ છે. નહિ નહિ તો મહિને ૫૦૦-૬૦૦ દાંત પાડવાના આવતા હશે.\nમનમોહનદાસ : ઓહો !\nડૉકટર : અને પચાસેક મેજર ઓપરેશન્સ આહ, wisdom-toothના તો કંઈ cases આવે છે cases !\nમનમોહનદાસ : હા, ડોક્ટર, એ તૂત નવું છે. મારી daughter પણ કહે છે. કે tooth extract કરાવી દઉં.\nડૉકટર : નહીં જી, As one interested in you, I won't advise. મારા પીયૂષ-ડ્રોપ્સ લો. ત્રણ જ મિનિટમાં દર્દ નાબૂદ ! અને પછી કાયમને માટે મારી પીયૂષ-પેઇસ્ટ વાપરો.\nમનમોહનદાસ : ઠીક ડોક્ટર, ત્યારે હું રજા લઈશ.\nડૉકટર : કેમ ? કાંઈ ઉતાવળમાં.\nમનમોહનદાસ : ઓફિસે જવાનું ને ?\nડૉકટર : ઓફિસ ?\nમનમોહનદાસ : હાસ્તો, હું અહીં ઓફિસમાં કામે જ આવ્યો હતો, ઉપકાર થયો કે તમે બધું frankly કહી દીધું.\nડૉકટર : કઈ ઓફિસ ?\nમનમોહનદાસ : ઈન્કમટેક્સ સુપરટેક્સ. હું અહીંનો surcharge collector છું.\nડૉકટર : હેં !\nમનમોહનદાસ : જી. હવે જુઓ ડોક્ટર ! હમણાં હું મારા માણસને મોકલું છું. એ પૂછે તે particulars બરાબર નોંધાવજો હોં. લ્યો, સાહેબજી ! (જાય છે.)\nડૉકટર : Oh, Swindle ! murder ! arson ! બધાં એ અનિરુદ્ધનાં જ કામ. બચ્યો હાથ આવે તો આખીયે બત્રીસી તોડી નાખું. એક તો અહીં ભાડું, પગાર ઘરમાંથી કાઢવાં પડતાં હોય અને ઉપરથી આવાં લપ વળગાડે. યાદ રાખ, remember remember. (આંટા મારે છે.)",
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T7.C7",
+                  "concept_name": "મનમોહનદાસને સસરા સમજી ડૉકટરની બડાશ"
+                },
+                {
+                  "concept_id": "M2.S5.T7.C8",
+                  "concept_name": "મનમોહનદાસની ખરી ઓળખ ખૂલવી"
+                }
+              ],
+              "note": "Fourth beat — the chapter's FIRST ચોટ (per કૃતિ-પરિચય's own 'ડૉક્ટરને પહેલાં મનમોહનદાસની... ઓળખ મળે છે'). Opens at 'મનમોહનદાસ દાખલ થાય છે' (entrance #2 chapter-wide, dressed exactly as અનિરુદ્ધ described) and covers the doctor mistaking him for the સસરો and performing an elaborate boast (invented 'પીયૂષ-ડ્રોપ્સ', inflated case/operation numbers, ordering ગમનને around for show — ગમનનું embedded entrance/exit, entrance #3 'બહારથી આવી' and exit #3 'ગમન જાય છે.', sits inside this SAME beat because nothing about what મનમોહનદાસ knows or wants changes while ગમન is briefly on stage, per 'a long expository exchange stays ONE topic'), through મનમોહનદાસ revealing he is actually the income-tax surcharge collector and leaving (exit #4, 'જાય છે.'). Two concepts because the beat genuinely does two separable things — the mistaken-identity boasting (C7) and the reveal of who મનમોહનદાસ really is (C8) — matching the profile's 'give a topic two only when it genuinely does two separable things.' depends_on T5 (the costume description that causes the mistake). hard — dense Gujarati-English code-switching carrying the play's argument (dental surgery, allopathy, revolution, naturalteeth, fertilizer manure, surcharge collector) is exactly the std 9-10 hard criterion 'a સંવાદ carrying the argument's turn', not exam length.",
+              "modified_chunk": "મનમોહનદાસ દાખલ થાય છે, અને એમનો પોશાક બરાબર અનિરુદ્ધે વર્ણવેલા સસરા જેવો હોવાથી ડૉકટર એમને જ સસરા સમજી લે છે. ડૉકટર ગમનને ઓર્ડર આપીને પોતાનો રુઆબ બતાવે છે અને પોતાની શોધેલી 'પીયૂષ-ડ્રોપ્સ', મોટી પ્રેક્ટિસ અને ઓપરેશનની બડાશ મારે છે. છેલ્લે મનમોહનદાસ ખૂલાસો કરે છે કે એ સસરા નહિ પણ ઇન્કમટેક્સ ખાતાનો અધિકારી છે, જેણે ડૉકટરે કહેલી બધી બડાશ નોંધી લીધી છે. ડૉકટર સમજી જાય છે કે પોતે છેતરાયો છે અને ગુસ્સે થઈને અનિરુદ્ધને દોષ દે છે.",
+              "word_count": {
+                "original": 703,
+                "modified": 76
+              },
+              "key_terms": [
+                "ઈજારો — એકલાનો હક, બીજા કોઈને છૂટ ન હોય એવો હક",
+                "મુરબ્બી — વડીલ, મોટેરાં",
+                "ભાડું — ભાડે આપવા-લેવાના પૈસા",
+                "પેટન્ટ — શોધનો સરકારી હક",
+                "તૂત — ખોટી, નકામી વાત"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S6",
+          "segment_name": "નરરત્નમણિરાવ સાથેનો સામનો અને ખરી ઓળખ",
+          "topics": [
+            {
+              "topic_id": "M2.S6.T8",
+              "topic_name": "નરરત્ન સામે ડૉકટરની બડાશ એક પછી એક તૂટે છે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S5.T7"
+              ],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "(નરરત્નમણિરાવ દાખલ થાય છે.)\nનરરત્ન : આપ છો ? મને ખાતરી ન હતી. મને તો એમ કે ક્યાંક દવા કરવા ગયા હશો.\nડૉકટર : (પીઠ ફેરવી) ક્યાં, જહન્નમમાં ?\nનરરત્ન : કેમ વળી, દર્દીને ત્યાં !\nડૉકટર : દર્દી ? ક્યાં છે દર્દી ? ક્યાં છે દર્દી ? ઓ દર્દી ! જેટલી તારા નામની માળા જપી છે એટલી પ્રભુના નામની ફેરવી હોત તો absolutely painless processથી મુક્તિ મળી હોત !\nનરરત્ન : ડોક્ટર, આમ કેમ બોલો છો ?\nડૉકટર : બેકારી, My dear friend, બેકારી !\nનરરત્ન : આપની શોધ ?\nડૉકટર : કેવી શોધ અને કેવી વાત !\nનરરત્ન : આપની દવાઓ ?\nડૉકટર : ભાડૂતી... ભાડૂતી !\nનરરત્ન : આપનાં પીયૂષ ડ્રોપ્સ ?\nડૉકટર : પીગળી ગયાં, બુઝુર્ગ મિત્ર, પીગળી ગયાં.\nનરરત્ન : અરે પણ તમારાં ઓપરેશન્સ ?\nડૉકટર : ભાઈ, મારો લેન્સેટ પણ ભાડૂતી છે.\nનરરત્ન : અને તમારાં લેખો, ભાષણો ?\nડૉકટર : લખવા જેટલી આવડત નથી, બોલવા જેટલી હોશિયારી નથી.\nનરરત્ન : પેલી તમારી પીયૂષ-પેઇસ્ટ ?\nડૉકટર : એ પીયૂષ બીજો, હું નહિ.\nનરરત્ન : આ શું કહો છો ડોક્ટર ?\nડૉકટર : Hard facts. માથું મારીએ તો લોહી નીકળે એવી નક્કર વસ્તુસ્થિતિ.\nનરરત્ન : આ દવાખાનું ?\nડૉકટર : હજુ બિલ પત્યું નથી.\nનરરત્ન : ભાડું ?\nડૉકટર : ચાર માસ થયા.\nનરરત્ન : તમારો staff ?\nડૉકટર : કેસ પર કમિશન. જાઓ, હવે તમે સિધાવો !",
+              "concepts": [
+                {
+                  "concept_id": "M2.S6.T8.C9",
+                  "concept_name": "નરરત્નના પ્રશ્નોથી ડૉકટરની બડાશ તૂટવી"
+                }
+              ],
+              "note": "Fifth beat. The doctor's furious aside blaming અનિરુદ્ધ ('બધાં એ અનિરુદ્ધનાં જ કામ... યાદ રાખ, remember remember.') is kept as the CLOSING line of T7 — it reacts to what just happened (મનમોહનદાસનું exit) and does not introduce નરરત્નમણિરાવ at all. THIS topic opens at 'નરરત્નમણિરાવ દાખલ થાય છે' (entrance #4, the chapter's last), which is printed in the SAME script line as that aside ('...remember remember. (આંટા મારે છે. નરરત્નમણિરાવ દાખલ થાય છે.)') — flagged for Agent 5 to split the parenthetical at the boundary: the spoken words stay inside T7's original_chunk, the entrance direction opens T8's. Covers નરરત્નનું rapid-fire questioning that unravels the doctor's own earlier boasts (શોધ, દવાઓ, ઓપરેશન, લેખો-ભાષણો, પીયૂષ-પેઇસ્ટ) one by one, ending at 'જાઓ, હવે તમે સિધાવો !' — just before નરરત્ન refuses to leave and the tone turns to open accusation, which opens the next beat. depends_on T7 (the specific boasts being unravelled were made there). medium — moderately dense register (બુઝુર્ગ, ભાડૂતી, લેન્સેટ, નક્કર વસ્તુસ્થિતિ) in short call-and-response lines.",
+              "modified_chunk": "નરરત્નમણિરાવ દાખલ થાય છે, અને ડૉકટર ચિડાઈને એમની સાથે ઉદ્ધત રીતે વાત કરે છે, કારણ કે હવે એ સસરાની રાહ જોવાનું છોડી ચૂક્યા છે. નરરત્ન એક પછી એક સવાલ પૂછે છે — શોધ, દવાઓ, ઓપરેશન, લેખો — અને ડૉકટર દરેક વખતે કબૂલ કરે છે કે એ બધું ખોટું, ભાડૂતી કે ખાલી બડાશ હતી. છેલ્લે ડૉકટર કંટાળીને નરરત્નને જવાનું કહી દે છે.",
+              "word_count": {
+                "original": 223,
+                "modified": 61
+              },
+              "key_terms": [
+                "જહન્નમ — નરક",
+                "ભાડૂતી — ભાડે લીધેલું, પોતાનું નહિ",
+                "બુઝુર્ગ — ઘરડો, વૃદ્ધ",
+                "લેન્સેટ — ઓપરેશનમાં વપરાતું નાનું અણીદાર સાધન",
+                "વસ્તુસ્થિતિ — ખરી હકીકત, જે ખરેખર છે તે"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S6.T9",
+              "topic_name": "તમાચો, નરરત્નની ખરી ઓળખ અને એકાંકીનો અંત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S6.T8"
+              ],
+              "objective_ids": [
+                "O8"
+              ],
+              "original_chunk": "નરરત્ન : એમ સિધાવે ક્યાં ? આવી છેતરપિંડી ? હરામખોર !\nડૉકટર : હવે જા, ભાઈ, જા. તને ખબર છે મને હથિયાર વિના પણ દાંત પાડતાં આવડે છે ?\nનરરત્ન : એટલે ?\nડૉકટર : એટલે ? (ઊભો થઈ તમાચો મારે છે.) એટલે આ સમજ્યો ?\nનરરત્ન : આટલે સુધી ? નીલુએ બધું કહ્યું હતું. આ નહિ.\nડૉકટર : કોણ ?\nનરરત્ન : મારી દીકરીએ, ભાઈ, તારો દોષ નથી. પેટનાં જ આંડાં ફંટાય ત્યાં પછી પારકાનું શું ?\nડૉકટર : ત્યારે આપ... આપ...\nનરરત્ન : હા, ભાઈ, હું નરરત્નમણિરાવ. પારખું કરવા નીકળ્યો. પારખું થઈ ગયું. બાપ ! છતી આંખે છોકરીને કૂવામાં નાખી ! (પોક મૂકે છે.)\nડૉકટર : પણ આપ તો લાંબો કાળો કોટ, કાશ્મીરી ટોપી અને ચાર પાટલીનું ધોતિયું પહેરતા હતા ને ?\nનરરત્ન : (નાક ખંખેરતાં) તે મને એમ કે કમાઉ ભણેલા જમાઈ પાસે જરા વટમાં જાઉં, એટલે કોટ-પાટલૂન માગી આણ્યાં. ઓ મારી દીકરી રે...\nડૉકટર : હું કોને રોઉં ?",
+              "concepts": [
+                {
+                  "concept_id": "M2.S6.T9.C10",
+                  "concept_name": "તમાચો, નરરત્નની ખરી ઓળખ અને અંતિમ પંક્તિ"
+                }
+              ],
+              "note": "Sixth beat, and the chapter's SECOND ચોટ. Opens where નરરત્નનો tone shifts to open accusation ('એમ સિધાવે ક્યાં ? આવી છેતરપિંડી ? હરામખોર !'); the doctor slaps him ('ઊભો થઈ તમાચો મારે છે.') without knowing who he is; and નરરત્ન reveals himself as the real સસરો who disguised himself in exactly the costume the doctor had been told to expect ('તે મને એમ કે કમાઉ ભણેલા જમાઈ પાસે જરા વટમાં જાઉં, એટલે કોટ-પાટલૂન માગી આણ્યાં'). Ends on the doctor's closing line 'હું કોને રોઉં ?' — natak_ekanki.md's own priors flag closing lines that return an earlier phrase with changed weight, and here the chapter's own title pays off in નરરત્નનું 'પારખું કરવા નીકળ્યો. પારખું થઈ ગયું.' The bibliographic attribution line after this ('જયંતિ દલાલનાં પ્રતિનિધિ એકાંકીઓ'માંથી) is anthology-source metadata, not play text, and belongs in no topic's original_chunk. depends_on T8 (continuous confrontation, same two people, same room). hard — the argument's turn/second ચોટ plus idiom-dense lines ('પેટનાં જ આંડાં ફંટાય', 'છતી આંખે છોકરીને કૂવામાં નાખી') that carry the play's payoff.",
+              "modified_chunk": "નરરત્ન છેતરાયાનું અનુભવે છે, અને ડૉકટર ગુસ્સામાં આવીને એમને વગર ઓળખ્યે તમાચો મારી દે છે. ત્યારે જ ખૂલે છે કે નરરત્ન બીજું કોઈ નહિ, પણ ડૉકટરના ખરા સસરા નરરત્નમણિરાવ છે, જે વેશ બદલીને જમાઈને 'પારખવા' આવ્યા હતા. પોતાની દીકરીની જિંદગી બગડી ગઈ એ સમજતાં નરરત્ન રડી પડે છે, અને ડૉકટર પણ પોતાની જ ભૂલ પર 'હું કોને રોઉં ?' કહી અટકી જાય છે.",
+              "word_count": {
+                "original": 153,
+                "modified": 63
+              },
+              "key_terms": [
+                "છેતરપિંડી — ખોટું બોલીને કોઈને ઠગવું",
+                "હરામખોર — બેઈમાન, વિશ્વાસઘાતી માણસ",
+                "પારખવું — ખરું-ખોટું ઓળખવું, ચકાસવું",
+                "વટ — રુઆબ, પ્રભાવ",
+                "ફંટાવું — રસ્તો બદલવો, આડું જવું"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Marker/topic accounting: 00_chapter_normalized.md carries only ONE marker, [[પાત્રો]], across the header AND the entire continuous dialogue (no [[ઘટના: …]], [[સંવાદ: …]] or [[દૃશ્ય …]] sub-markers) — consistent with 01_meta.json's structure_inventory.single_continuous_scene=true and pravesh_ank_headers=0. This differs from the poem-genre markers ([[કડી 1]], [[છપ્પો 2]], …) that carry a strict one-marker-one-topic rule; for નાટક/એકાંકી, 02_structure.md's own genre table and natak_ekanki.md's 'Explanation unit' section both direct Agent 2 to cut the single continuous scene into stage-beats using entrance/exit/knowledge-change/desire-change signals rather than relying on a per-beat marker, since GSEB plays print no scene numbering. Recorded here per the instruction to flag any page/table disagreement for Agent 4, so the single-marker-carrying-9-topics shape is not mistaken for a swallowed or invented marker.",
+    "Topic count against the no-inflation gate (A4): 9 topics total — 2 pre-reading CONCEPT (લેખક-પરિચય, કૃતિ-પરિચય) + 7 topics inside the played scene (header + 6 stage-beats). Inside the scene, 7 topics ≤ structure_inventory's entrance_count(4) + exit_count(4) + 1-for-header = 9, so the chapter is well inside the natak_ekanki.md (A4) topic-inflation ceiling even before counting the additional direction-marked turns (the slap at T9, the tone-shift at T8) the rule also allows for.",
+    "Two long exchanges (T4 doctor–અનિરુદ્ધ banter, and T7 મનમોહનદાસ mistaken-identity beat) were each kept as ONE topic despite their length, per natak_ekanki.md's explicit rule 'A long expository exchange stays ONE topic... Do not cut it into five topics because five facts arrived.' Their internal turns are represented in concepts[] (T7 alone carries two, for its two separable moves) rather than as separate topics.",
+    "Header compliance (A4): exactly one topic (M1.S2.T3) carries the પાત્રો cast list and the '(સ્થળ : દવાખાનું  સમય : સવારના દસ)' opening direction; no dialogue line sits inside it and no other topic's original_chunk will contain the header.",
+    "One boundary is flagged for Agent 5 because a single printed script line straddles two topics: 'ડૉકટર : ... યાદ રાખ, remember remember. (આંટા મારે છે. નરરત્નમણિરાવ દાખલ થાય છે.)' — the spoken words close T7 (M2.S5.T7), the parenthesised entrance direction opens T8 (M2.S6.T8). This is the only such split in the chapter; every other topic boundary falls cleanly between printed lines.",
+    "Craft-naming: O1/T2's objective names 'હળવું એકાંકી' (સાહિત્યપ્રકાર) directly from the chapter's own printed કૃતિ-પરિચય. This is within the std-9 named canon (profiles/students/std-9.md, teaching_lens_map.md's craft-naming gate: સાહિત્યપ્રકાર tagging is fair game from std 9), not a hard-gate violation. No અલંકાર, છંદ, સંધિ or સમાસ is asserted anywhere in this file — none is printed on this prose/drama page, and 01_meta.json records none.",
+    "Difficulty is set purely by L2 reader friction on THIS chapter's page (teaching_lens_map.md / 02_structure.md §5), never by craft-naming or exam length: 'hard' is reserved for T7 and T9, the two beats natak_ekanki.md's own std-9-10 criterion names directly — 'a સંવાદ carrying the argument's turn' (the two printed ચોટ). Every topic's objective still reaches Analyze or Evaluate regardless of its difficulty tag, per the same section's 'not a Bloom cap' rule.",
+    "depends_on records real content dependence only, following output9/ch01's precedent: sequential where a later beat presumes a specific fact or object set up earlier (T5→T4 same conversation; T6→T5 rehearses T5's description; T7→T5 the costume that causes the mistake; T8→T7 unravels T7's specific boasts; T9→T8 same continuous confrontation), and left [] where a topic is a genuine starting point (T1, T3) or the dependence is only 'comes next on the page' rather than a real callback.",
+    "Not cut as topics, per global_content_rules.md rule 7 and natak_ekanki.md's own apparatus/exercise classification (already established in 01_meta.json's exercise_inventory and extraction_notes): [[શબ્દ-સમજૂતી]] (સમાનાર્થી/વિરુદ્ધાર્થી/રૂઢિપ્રયોગ/કહેવત), all three printed [[સ્વાધ્યાય: …]] blocks (MCQ, બે-ત્રણ વાક્યમાં, સવિસ્તાર), [[વિદ્યાર્થી-પ્રવૃત્તિ]], [[ભાષા-અભિવ્યક્તિ]] and [[શિક્ષકની ભૂમિકા]] (the last explicitly teacher-addressed, per natak_ekanki.md's std-9 ch-9 note). These stay for Agent 10's exercise_solutions.json and for Agent 6/12's gloss and language-apparatus sourcing.",
+    "Sensitivity flag carried forward for Agent 8/12, per natak_ekanki.md's own std-9 ch-9 note: the comedy runs on a man's unemployment and boasting (T4, T6, T7 especially) — teach the irony of the pretence being punctured, never contempt for the character; and நரரત્ન's line 'છતી આંખે છોકરીને કૂવામાં નાખી' (T9) is a father's self-directed regret over his own daughter's match, not a judgment to editorialise on.",
+    "No genre-table disagreement to report beyond the marker-cutting note above: 01_meta.json's active_genre_profiles (['natak_ekanki.md']) matches the profile supplied for this run, and the chapter's own single_continuous_scene structure (no પ્રવેશ/દૃશ્ય headers) is exactly the 'three of the four measured GSEB plays carry no scene numbering' case natak_ekanki.md already documents for this specific chapter.",
+    "original_chunk left empty on every topic per spec: 'original_chunk stays empty; Agent 5 fills it.' No verbatim transcription performed here beyond what was needed to read beat boundaries in 00_chapter_normalized.md and to write the topic notes above."
+  ],
+  "provenance": {
+    "agent": "05_verbatim_attachment",
+    "source_text": "00_chapter_normalized.md",
+    "verified_against_render": true,
+    "renders": [
+      "_renders/page-1.png",
+      "_renders/page-2.png",
+      "_renders/page-3.png",
+      "_renders/page-4.png",
+      "_renders/page-5.png",
+      "_renders/page-6.png",
+      "_renders/page-7.png",
+      "_renders/page-8.png",
+      "_renders/page-9.png"
+    ],
+    "notes": [
+      "original_chunk for every topic transcribed from 00_chapter_normalized.md and cross-checked against the chapter's own 150 dpi pdftoppm renders (pages 1-9, folios 35-43) at 2x-6x digital zoom; no mismatch found between the normalized transcription and the rendered pixels anywhere in the chapter.",
+      "Specifically re-verified at high zoom during this pass (all confirmed correct as printed): the T5/T6-boundary line 'ડૉકટર : (ગળી જતાં) પણ જ્યારે કોઈને મળવા જતા હોય ત્યારે ?' reads ળ, not ણ or લ (matches 01_meta.json's own prior 5x-zoom finding); '(ગોખતો હોય એમ)' in T5 reads ખ, not ભ; the શબ્દ-સમજૂતી/શબ્દાર્થ, વિરુદ્ધાર્થી, રૂઢિપ્રયોગ and કહેવત boxes on p.41 (outside every topic's original_chunk, reserved for Agent 10/gloss sourcing) match 00_chapter_normalized.md character-for-character, including the 'ઉપકાર આભાર, પાડ' three-way entry 01_meta.json flagged.",
+      "M1.S1.T1 (લેખક-પરિચય) original_chunk is the bio paragraph under the [[લેખક-પરિચય]] marker only, matching the output9/ch01 precedent: the chapter title box ('9 પારખું'), the author name 'જયંતિ દલાલ' and the era line '(જન્મ : 18-11-1909, અવસાન : 24-08-1970)' sit above the marker as chapter frontmatter (already captured in 01_meta.json) and are not part of any topic's original_chunk.",
+      "M1.S2.T3 (પાત્રો) original_chunk carries the printed cast-list block exactly as laid out in 00_chapter_normalized.md — the 'પાત્રો' heading word, both name-columns (ડૉ  પીયૂષ/અનિરુદ્ધ, મનમોહનદાસ/નરરત્નમણિરાવ, ગમન on its own line) and the opening bracketed direction '(સ્થળ : દવાખાનું   સમય : સવારના દસ)' — with the source file's own inter-word spacing preserved, per natak_ekanki.md's (A4) header rule. No spoken dialogue line sits inside it.",
+      "M2.S5.T7 / M2.S6.T8 boundary: 04_converged.json's own note flagged that one printed script line straddles the two topics — 'ડૉકટર : ...યાદ રાખ, remember remember. (આંટા મારે છે. નરરત્નમણિરાવ દાખલ થાય છે.)'. Per that note and per 04_validation.json's genre_fidelity finding (the doctor's own continued pacing belongs with T7; only the entrance direction opens T8), the parenthetical was split character-for-character with nothing added or dropped: T7's original_chunk ends '...યાદ રાખ, remember remember. (આંટા મારે છે.)' and T8's original_chunk opens with '(નરરત્નમણિરાવ દાખલ થાય છે.)' as its first line, before નરરત્નનું first spoken line. Both halves of the original bracket survive, split only at the full stop already printed between the two directions.",
+      "M2.S6.T9's original_chunk ends at the doctor's closing line 'હું કોને રોઉં ?', per 04_converged.json's own explicit note that the bibliographic attribution line ('જયંતિ દલાલનાં પ્રતિનિધિ એકાંકીઓ'માંથી) is anthology-source metadata and belongs in no topic's original_chunk for this chapter — unlike gujarati_verbatim.md rule 5's poem-attribution default (applied for output9/ch01's છપ્પો), this chapter's own frozen structure note already made and recorded that call, and it is followed here rather than re-litigated.",
+      "Roman-script English mixed into the Gujarati dialogue (Say., Humbug!, staff, compounder, trade secret, research, invention, dental surgery, allopathy, revolution, naturalteeth, fertilizer manure, process, cases, daughter, average, surcharge collector, Hard facts., and the rest catalogued in 01_meta.json's extraction_notes) is preserved exactly as printed inside every original_chunk that contains it, per natak_ekanki.md's explicit instruction never to delete or translate it. 'આવી fatel joke ?' (T5) keeps the page's own 'fatel' spelling, not the standard 'fatal'.",
+      "રંગસૂચના (stage directions) are preserved character-for-character, brackets included, inside every topic's original_chunk — none were dropped, paraphrased into narration, or moved to a different topic than the one they govern, per natak_ekanki.md's (A4) 'no dropped or paraphrased રંગસૂચના' gate. Every printed speaker label appears in original_chunk in printed order attached to the same words as on the page, including the chapter's own inconsistent spellings (ડૉકટર with no ક્ટ conjunct throughout the dialogue; the running speaker tag 'નરરત્ન' for the character named 'નરરત્નમણિરાવ' in full only in the પાત્રો box and his own self-naming line inside T9) — kept exactly as printed, per gujarati_verbatim.md and 01_meta.json's own extraction_notes on this point.",
+      "No transcription defect was found anywhere in this chapter's original_chunk text during this verification pass; nothing required stopping or flagging beyond the two structural notes above (both already anticipated and recorded in 04_converged.json, not new findings).",
+      "modified_chunk is a plain 'શું થઈ રહ્યું છે' restatement in simple શિષ્ટ ગુજરાતી, 2-4 sentences, with the hardest words glossed inline in Gujarati (ધોરણ tier per shabd_gloss.md's gloss-density table — no English-equivalent glosses placed in any modified_chunk); it is raw seed material only, not Agent 12's explanation, and carries no અલંકાર, real-life example or બોધ.",
+      "key_terms picked per reference/shabd_gloss.md's L2-recalibrated std-9 target (3-5 per topic, inside the contract band of 3-6 fixed by field_shape_rules.md): તત્સમ/formal words (વતન, પ્રયોગશીલ, નોંધપાત્ર, ઈજારો, મુરબ્બી, વસ્તુસ્થિતિ, છેતરપિંડી), તળપદાં/બોલચાલનાં words (બડાશ, ચબરાક, ભભકો, વટ, તૂત), આગત words spelled exactly as GSEB prints them (staff, compounder, હમ્બગ, જહન્નમ, પેટન્ટ, લેન્સેટ, કોલબેલ, હરામખોર, લિબાસ) and one printed elision/કાવ્ય-રૂપ gloss ('ભલા'દમી'). M1.S2.T3 (the header) sits at 3, the bottom of the band, since its printed vocabulary is genuinely thin — a cast list and one bracketed direction, not running dialogue.",
+      "primary_content_type/available_content_types set to image for the seven topics that are reading scenes inside the played drama (M1.S2.T3 through M2.S6.T9), one image per stage-beat including the header (per natak_ekanki.md's media priors: 'the stage at that moment', and the header's own empty-clinic-at-ten-am is itself a stageable moment central to O2's objective). The two pre-reading CONCEPT topics (M1.S1.T1, M1.S1.T2 — author/work biography paragraphs) carry no image: null / [], matching the output9/ch01 precedent for the same પરિચય-paragraph topic type.",
+      "Ids, names, objectives, concepts and structure passed through untouched from 04_converged.json, per the agent spec's explicit instruction; nothing in this file's structure was altered by this agent."
+    ]
+  }
+}

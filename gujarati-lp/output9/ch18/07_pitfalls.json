@@ -1,0 +1,99 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `key_terms`, `real_life_example` or any `recall_questions[].answer` for M1.S1.T1 states a biographical fact about અનિલ ચાવડા — a birth year, a movement, an award beyond 'સાહિત્ય અકાદમી, દિલ્હીના યુવા પુરસ્કાર', a birthplace beyond 'સુરેન્દ્રનગર જિલ્લાના લખતર તાલુકાનું કારેલા ગામ', or a book title beyond 'સવાર લઈને', 'એક હતી વાર્તા', 'મીનિંગ ફૂલ જર્ની', 'સુખ-દુ:ખ મારી દૃષ્ટિએ', 'શબ્દ સાથે મારો સંબંધ', 'પ્રેમ વિશે', 'આકાશ વાવનારા', 'આચરે તે આચાર્ય' — that is not present word-for-word in this topic's own `original_chunk`; in particular none of the four outside poets/works named in this chapter's શિક્ષકની ભૂમિકા apparatus (દીકરી વ્હાલનો દરિયો, મુકેશ જોશી, અનિલ જોશી, દુલા ભાયા કાગ) may be attributed to અનિલ ચાવડા.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક 'મીનિંગ ફૂલ જર્ની' શીર્ષક વાંચતાં જાણીતા ગુજરાતી શબ્દ 'ફૂલ' (પુષ્પ) ને ઓળખી કાઢશે અને વિચારશે કે આ કોઈ ફૂલ વિશેની ગુજરાતી કૃતિ છે — જ્યારે ખરેખર 'મીનિંગ ફૂલ જર્ની' એ અંગ્રેજી શબ્દો 'Meaningful Journey'નું ગુજરાતી લિપ્યંતરણ છે, અને અહીં 'ફૂલ' એ 'meaning-ful'નો 'ful' પ્રત્યય છે, ફૂલ-છોડ નથી.",
+      "correction": "`key_terms` અથવા `explanation`માં આ શીર્ષક પર એક પંક્તિ ઉમેરવી કે 'મીનિંગ ફૂલ જર્ની' એ અંગ્રેજી શબ્દોનું ગુજરાતી લિપ્યંતરણ છે (Meaningful Journey), જેથી બાળક 'ફૂલ'ને ફૂલ-છોડ તરીકે ન વાંચે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `summary`, `brief_summary`, `detailed_summary`, any `concept_bullets`/`important_points` line, or any `recall_questions[].answer` for M1.S1.T2 is an exhortation of the shape 'આપણે … જોઈએ' / '…જોઈએ' about valuing, respecting or loving daughters — these exact words are absent from this topic's `original_chunk`, so none may appear in authored text; the topic's own material (ખાલીપો, ગોખેથી દીવો ચાલી ગયો, ઘરનું અજવાળું, રંગોળીની ભાત) states a feeling, not an instruction.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "The sentence 'તેના જવાથી ગોખેથી જાણે દીવો ચાલી ગયો હોય એવું અનુભવાય છે' in this topic's `original_chunk` is marked as a comparison by 'જાણે … હોય એવું અનુભવાય છે'; no sentence of `explanation` for M1.S1.T2 may restate this as literal fact — a physical lamp actually left the house, or the house became physically dark — it must stay a felt comparison for the daughter's absence.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "ફકરાના 'ખાલીપો', 'વ્યથિત', 'કરુણ' જેવા શબ્દોને લીધે બાળક 'વિદાય'ને મૃત્યુ કે શોકપ્રસંગ સાથે જોડી બેસશે, જ્યારે ફકરાનું પહેલું જ વાક્ય કહે છે કે આ 'લગ્ન પછી દીકરીની વિદાય' છે — એટલે કે સાસરે જવાનો પ્રસંગ, મૃત્યુ નહીં.",
+      "correction": "`explanation`ના શરૂઆતના વાક્યમાં જ સ્પષ્ટ કરવું કે 'વિદાય' એટલે લગ્ન પછી દીકરીનું સાસરે જવું — ભારતીય કન્યાવિદાયનો રિવાજ; એ પછી જ ખાલીપાની અને કરુણ ભાવની વાત આવે, જેથી બાળક પ્રસંગને ખોટી રીતે ન સમજે."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` for M2.S2.T3 must name something that can be seen, heard, touched or counted in this કડીના પોતાના શબ્દોમાં — ઘર, ગોખ, દીવો, ફળિયું, પગલી — and must not open on the ભાવ (ખાલીપો) or a બોધ.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "M2.S2.T3 must carry either a non-empty `figures_of_speech[]` naming the રૂપક 'ગયો ગોખથી દીવો' / 'ઘરનું એ અજવાળું', or an `explanation` sentence naming this કડીના અંત્યાનુપ્રાસ pairs (હૂંફાળું-અજવાળું, દીવો-સીવો, રજવાડું-અજવાળું) — `[]` with no craft sentence fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Every `figures_of_speech[].lines` string for M2.S2.T3 must appear character-for-character inside this topic's own `original_chunk`, and the only device names permitted anywhere in `figures_of_speech` or `explanation` for this chapter are 'રૂપક' and 'અંત્યાનુપ્રાસ' — the two the chapter's own printed ભાષા-અભિવ્યક્તિ block and MCQ item name; no other અલંકાર (ઉપમા, ઉત્પ્રેક્ષા, વ્યતિરેક…) may be asserted for any line of this chapter.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation` or any `recall_questions[].answer` for M2.S2.T3 states as literal fact that a lamp physically left the ગોખ or that the house became physically dark — 'ગયો ગોખથી દીવો' and 'ઘરનું એ અજવાળું' name the daughter through રૂપક and must be explained as such.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation` for M2.S2.T3 states or implies that 'નૈં સંધાય' or 'ગમે એટલું સીવો' is a grammatical mistake or non-standard error to be corrected — printed તળપદો પ્રયોગ, explained as લય/બોલી only, never modernised.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'ગયો ગોખથી દીવો' અને 'ઘરનું અજવાળું' રૂપકોને બાળક શબ્દશઃ લેશે — એટલે કે ઘરમાં ખરેખર દીવો હોલવાયો કે ઘર અંધારું થયું એમ સમજશે — અને એ સમજશે નહીં કે 'દીવો' અને 'અજવાળું' બંને દીકરી માટે વપરાયેલા રૂપક છે.",
+      "correction": "`explanation`માં 'રૂપક' શબ્દ સાથે સ્પષ્ટ કરવું કે ગોખનો દીવો અને ઘરનું અજવાળું એ ખરેખરનો દીવો-પ્રકાશ નથી, પણ દીકરી પોતે છે — તેની હાજરીથી ઘર જીવંત-હૂંફાળું લાગતું, ને હવે એ નથી."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` for M2.S2.T4 must name something seen, heard or counted in this કડી — રંગોળી, ભાત, મિરાત, આંસુ, આંખો, પરવાળું — and must not open directly on the ભાવ (કરુણ).",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `summary`, `brief_summary`, `detailed_summary`, any `concept_bullets` line, or any `recall_questions[].answer` for M2.S2.T4 — including the model answer later written for the printed સવિસ્તાર-ઉત્તર પ્રશ્ન 'દીકરી વિદાયની વેદના કાવ્યના આધારે વર્ણવો' — closes on an exhortation of the shape 'આપણે દીકરીને … જોઈએ' / 'દીકરીની કિંમત સમજવી જોઈએ'; these words are absent from this કડીના `original_chunk`, and the કડી argues through ચિત્રો (રંગોળીની બદલાયેલી ભાત, ઘરની મિરાત દૂર જવી, આંસુથી ભીંજાયેલી આંખો), not through an instruction.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation` or `recall_questions[].answer` for M2.S2.T4 states that 'આંખોનું પરવાળું' means an actual red coral forms in people's eyes; `key_terms`/`explanation` must explain પરવાળું as a figure for eyes turning red and moist with tears.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "M2.S2.T4 must carry either a non-empty `figures_of_speech[]` naming the રૂપક 'ઘરની આ મિરાત' (for the daughter) or an `explanation` sentence naming this કડીના rhyme/repetition; the only device names permitted are 'રૂપક' and 'અંત્યાનુપ્રાસ', and every `figures_of_speech[].lines` string must appear character-for-character in this topic's own `original_chunk`, using 'મિરાત' exactly as this કડી prints it (never 'મિરાંત', the gloss-box's spelling).",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "કડી ગીતના સૌથી કરુણ (climax) ભાગે પહોંચે છે એટલે, અને ચેપ્ટરની 'શિક્ષકની ભૂમિકા' બોક્સ દીકરા-દીકરી ભેદ વિશે સીધું બોલે છે એટલે, આ ટોપિકનું લખાણ 'તેથી આપણે દીકરીની કિંમત સમજવી જોઈએ' જેવા ઉપદેશ-વાક્ય પર પૂરું થવાની શક્યતા આખા ચેપ્ટરમાં સૌથી વધારે અહીં છે — જ્યારે કડી પોતે કોઈ ઉપદેશ આપતી નથી, માત્ર ચિત્રો (રંગોળી, મિરાત, આંસુ) આપે છે.",
+      "correction": "`explanation`, `summary` અને સવિસ્તાર-ઉત્તરના મોડેલ જવાબને કડીનાં ચિત્રો (બદલાયેલી ભાત, દૂર ગયેલી મિરાત, ભીની આંખો) સુધી જ સીમિત રાખવા, અને 'શિક્ષકની ભૂમિકા'નું દીકરા-દીકરી ભેદનું લખાણ આ ફિલ્ડ્સમાં ક્યાંય ન લાવવું — ભાવ કડીના ચિત્રોમાંથી જ ઊભો થવો જોઈએ."
+    }
+  ],
+  "chapter_level": [
+    "શિક્ષકની ભૂમિકા બોક્સના ચાર સંદર્ભ-કૃતિ/કવિ (દીકરી વ્હાલનો દરિયો; મુકેશ જોશી; અનિલ જોશી-કેસરિયાળો સાફો; દુલા ભાયા કાગ-કાળજા કેરો કટકો મારો) અને એની દીકરા-દીકરી ભેદ વિશેની સામાજિક-જાગૃતિ-પ્રસ્તુતિ શિક્ષક-સંબોધિત apparatus છે — કોઈ પણ ટોપિકના explanation/summary/key_terms/recall_questions.answerમાં આ ચારેય કૃતિ/કવિને અનિલ ચાવડા અથવા આ ગીતના તથ્ય તરીકે ન દર્શાવવા, અને 'શિક્ષકની ભૂમિકા'નો સામાજિક સંદેશ આ ગીતના પોતાના ભાવ તરીકે ન રજૂ કરવો.",
+    "આખા ગીતનું ટેક ('મ્હેંદી મૂકી ચાલ્યું આજે ઘરનું એ અજવાળું') પ્રથમ વાર M2.S2.T3માં ભણાવાયું છે અને M2.S2.T4ના પોતાના કડીની અંતિમ પંક્તિ તરીકે ફરી છપાયેલું છે (ત્રીજી ને છેલ્લી વાર) — M2.S2.T4એ એને નવેસરથી ન ભણાવવું, ફક્ત `depends_on` થી સંદર્ભ આપવો.",
+    "M2.S2.T4ની પોતાની કડીની પંક્તિ 'ઘરની આ મિરાત' અનુસ્વાર વિના છપાયેલી છે, જ્યારે શબ્દ-સમજૂતી બોક્સ અને ભાષા-અભિવ્યક્તિ 'મિરાંત' (અનુસ્વાર સાથે) છાપે છે — કડીની પંક્તિ ટાંકતી કોઈ પણ ફિલ્ડે 'મિરાત' (કડીમાં છપાયા મુજબ) જ વાપરવું; આ કવિની ભૂલ નથી, છાપકામની જોડણી-અસંગતતા છે, અને એને એક જ જોડણી તરફ 'સુધારવી' નહીં.",
+    "આખા ચેપ્ટરમાં ફક્ત બે અલંકારનાં નામ — રૂપક અને અંત્યાનુપ્રાસ — વાપરી શકાય, કારણ કે ચેપ્ટરની પોતાની છપાયેલી ભાષા-અભિવ્યક્તિ અને MCQ ફક્ત આ બે જ નામ આપે છે; ધોરણ 9નો સાત-અલંકારનો કેનન વ્યાપક હોવા છતાં, અહીં પાનું ઉપમા/ઉત્પ્રેક્ષા/વ્યતિરેક વગેરે કોઈ પણને સ્વતંત્ર રીતે ટેકો આપતું નથી.",
+    "M1.S1.T1ના કવિ-પરિચયમાં 'મીનિંગ ફૂલ જર્ની' જેવું અંગ્રેજી-લિપ્યંતરિત શીર્ષક છપાયેલું છે — આ ચેપ્ટરની એકમાત્ર જગ્યા જ્યાં અંગ્રેજી શબ્દો ગુજરાતી લિપિમાં દેખાય છે; આને ગુજરાતી શબ્દ તરીકે ગ્લોસ ન કરવું, અંગ્રેજી શીર્ષકના લિપ્યંતરણ તરીકે જ સમજાવવું."
+  ]
+}

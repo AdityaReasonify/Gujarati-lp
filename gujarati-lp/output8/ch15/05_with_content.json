@@ -1,0 +1,426 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch15",
+  "plan_id": "gseb_eng_gujarati8_ch15_v1",
+  "chapter_name": "પોર્ટરના પંજામાં",
+  "grade": 8,
+  "genre": "આત્મકથાત્મક પ્રસંગ (હાસ્યપ્રસંગ / સંસ્મરણ)",
+  "active_genre_profiles": [
+    "nibandh_atmaparak.md"
+  ],
+  "explanation_unit": "એક પ્રસંગ, અથવા વિચારનો એક વળાંક",
+  "teaching_lens": "સ્વર + પ્રસંગ + પોતાની જાત પરની નજર",
+  "guiding_question": "સાચું બોલવા છતાં કોઈ માનતું નહોતું ત્યારે કિશોર લેખકે પોતાનો પક્ષ કઈ રીતે ટકાવી રાખ્યો, અને છેવટે સત્ય કઈ રીતે સાબિત થયું ?",
+  "counts": {
+    "modules": 2,
+    "segments": 3,
+    "topics": 6,
+    "concepts": 7,
+    "objectives": 6,
+    "ghatna_markers_in_00": 6,
+    "topics_carrying_a_ghatna_marker": 6
+  },
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6"
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "તલોદના ઝાંપે અજાણ્યા યુગલને પોટલાં ઊંચકવામાં મદદ કરતી વખતે કિશોરનું મન 'ભલાઈ' અને 'પૈસા' બંને તરફ કઈ રીતે ખેંચાય છે તે વાર્તાના પોતાના વાક્યો પરથી કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સ્ટેશને ચા-નાસ્તાનો આગ્રહ થાય ત્યારે કિશોરનું મન ના પાડે છે છતાં હાથ કઈ રીતે વસ્તુ સ્વીકારી લે છે એ પોતાના જ શબ્દોમાં કિશોર કઈ રીતે કબૂલે છે તે શોધવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગાડી ઊપડ્યા પછી કિશોરનો આનંદ પોર્ટરના એક જ સવાલ 'લાવ છોકરા, ટિકિટ !'થી કઈ રીતે અચાનક ઊડી જાય છે તે ઘટના વાંચીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": [
+        "M2.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પોર્ટર અને ટોળું કિશોરના સાચા જવાબને કયા કારણોસર માનવાની ના પાડે છે અને એને હસી કાઢે છે તે આ પ્રસંગમાંથી તારવીને કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": [
+        "M2.S2.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પોલીસના હવાલાની ધમકી છતાં ડરેલો કિશોર જૂઠું ન બોલતાં સાચું જ કેમ કહ્યા કરે છે, અને ગાડીવાળાની સાક્ષી આવતાં ટોળાનું વલણ કઈ રીતે બદલાય છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T5",
+      "anchor": [
+        "M2.S2.T5.C5",
+        "M2.S2.T5.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ટોળાએ શરૂઆતમાં કિશોર પર શંકા કરી એ વ્યાજબી હતી કે નહીં તે કારણ સાથે કહેવું, અને છેવટે સાચી વાત કઈ રીતે સાબિત થઈ તે જણાવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": [
+        "M2.S3.T6.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "મદદ અને આગ્રહનો સ્વીકાર",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "યુગલને મદદ અને આગ્રહનો સ્વીકાર",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "તલોદના ઝાંપે યુગલને પોટલાં ઊંચકવામાં મદદ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "એક બીજી વાર પણ મોડાસાથી તલોદ આવ્યા તો ગાડીનો ઝાંપો બંધ હતો. આ વખતે અમારી બેલગાડીમાં ફક્ત ત્રણ જણ હતાં. એક યુગલ અને એક હું. વધારે પેસેન્જરની રાહ જોવામાં ગાડીવાળાએ મોડાસાથી ગાડી મોડી ઉપાડી હતી. ઝાંપો બંધ જોઈને પેલાં બે જણ દૂરથી જ તલપાપડ થવા લાગ્યાં. એ લોકો પાસે સામાન વધારે હતો. ઝાંપા આગળ મજૂર મળવો મુશ્કેલ હતો. ઝાંપો હતો પણ વેરાનમાં. ને એમણે મને સાધવા માંડ્યો : “ભાઈ, જરા ઉપાડવામાં અમને મદદ કરીશ…? પૈસા તો ઠીક છે, તું કંઈ મજૂર ઓછો છે, પણ ભલાઈ તો તારે કરવી જ પડશે ! આ પોટલું નહીં તો ડબો, ડબો નહીં તો આટલી બેગ. જો મજૂર આવી મળશે તો તો વાંધો જ નથી ! આપણે ન કહી હા કે ન કહી ના. ગોળ-ગોળ કહું : “પેલા કોલસાના ઢગલા આગળ મજૂર હશે કાં તો.” ઝાંપા આગળ ગાડી આવતાં આપણે પોટલું લઈને કૂદી પડ્યા. પુરુષે કહેવા માંડ્યું. જતો ન રહેતો હો વિદ્યાર્થી, આટલો જરા ડબો લઈ લે, બેગ તો ભારે છે.”\nગાડીવાળાએ પણ મને ભલામણ કરી “લઈ લે, લઈ લે, ભલાઈનું કામ છે. રાજી બી કરશે તને.” ને આપણે પછી એક પગ ભલાઈમાં અને બીજો પગ પૈસામાં ! તાર ઓળંગી ડબો માથે મૂકતાંક ચાલવા લાગ્યા.",
+              "source_marker": "[[ઘટના: તલોદના ઝાંપે યુગલને પોટલાં ઊંચકવામાં મદદ]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "ભલાઈ અને પૈસા વચ્ચે અટવાયેલું મન",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "મોડાસાથી તલોદ જતી વખતે ગાડીનો ઝાંપો (ફાટક) બંધ હોય છે, અને ત્યાં ઊભેલું એક યુગલ (પતિ-પત્ની) પોતાનો સામાન ઊંચકવામાં કિશોરની મદદ માગે છે. કિશોરનું મન ભલાઈ કરવા અને પૈસા મળવાની આશા બંને તરફ ખેંચાય છે, અને છેવટે તે તેમનો સામાન ઊંચકીને સ્ટેશન તરફ ચાલવા લાગે છે.",
+              "word_count": {
+                "original": 190
+              },
+              "key_terms": [
+                "ઝાંપો — રેલવે ફાટકનો દરવાજો/વાડો",
+                "બેલગાડી — બળદગાડું, બળદ જોડેલું ગાડું",
+                "પેસેન્જર — મુસાફર",
+                "વેરાન — ઉજ્જડ, માણસો વગરની જગ્યા",
+                "સાધવું — વાતોથી પોતાને અનુકૂળ કરવું, વશ કરવું",
+                "બી — તળપદો શબ્દ, 'પણ' માટે વપરાય છે"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "સ્ટેશને દોડધામ અને ચા-નાસ્તાનો આગ્રહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "ગાડીની સીટી અમને પાછળથી ધકેલતી હતી. માંડ માંડ ગાડી સાથે સ્ટેશને પહોંચ્યા. જુવાન ભાઈ સામાન નીચે મૂકતાં ને ટિકિટ લેવા ઉપડ્યા. જતાં જતાં પત્નીને કહેતા હતા : બેસી જા, તું સામાન લઈને. મને પણ એણે ભલામણ કરી : “સામાન મૂકવા લાગજે દોસ્ત ! જતો ન રહેતો. ઊભો રહેજે ! સામાન ડબામાં મુકાવીને આપણે જરા હવા ખાતા બારણામાં ઊભા રહ્યા. કાન તો જોકે ગાર્ડની સીટી ઉપર જ હતા. પેલા ભાઈ ટિકિટ લઈને આવ્યા ને આપણે પછી ખભે ભરાવેલી પોટલી ઉપર હાથ રાખી કૂદી પડ્યા. મને કે’છે લે દોસ્ત, ચા પીજે !” મેં કહ્યું ! “હું ચા નથી પીતો.”\n“અરે ! ચવાણું લેજે. લે, મારે ગાડી ઊપડે છે !”\nછતાંય માથું તો બિચારું ના-ના કરતું હતું. પણ હાથ કમબખ્ત બંધાઈ ગયો ! એક આનો ખિસ્સામાં મૂકી ગાર્ડની સીટી ઉપર ફર ફર થતી લીલી ઝંડી જોવા લાગ્યો.",
+              "source_marker": "[[ઘટના: સ્ટેશને દોડધામ અને ચા-નાસ્તાનો આગ્રહ]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "ના પાડતું મન, છતાં માની ગયેલો હાથ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "સ્ટેશને પહોંચીને કિશોર જુવાન ભાઈનો સામાન ડબામાં ગોઠવવામાં મદદ કરે છે, અને એ ભાઈ આગ્રહથી તેને ચા-નાસ્તો આપવા ઇચ્છે છે. કિશોરનું મન ના પાડે છે છતાં તેનો હાથ કમબખ્ત (કમનસીબે) ચવાણું અને પૈસા સ્વીકારી લે છે.",
+              "word_count": {
+                "original": 134
+              },
+              "key_terms": [
+                "કમબખ્ત — કમનસીબ",
+                "ભલામણ — આગ્રહથી કહેવું, ભલી સલાહ",
+                "ચવાણું — ચવાય એવો ફરસાણ જેવો નાસ્તો",
+                "ધકેલવું — પાછળથી દબાણ કરીને આગળ ધકેલવું",
+                "ઝંડી — સંકેત આપવા વપરાતો નાનો ધ્વજ",
+                "કે' — 'કહે'નું બોલચાલનું ટૂંકું રૂપ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "શંકાથી છુટકારા સુધીની કસોટી",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ટિકિટ વગરની શંકા અને પુછપરછ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "ગાડી ઊપડી, પોર્ટરે ટિકિટ માગી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "ગાડી સીટી વગાડીને છુકછુક કરી એ ચાલવા લાગી. સીટી હજી વાગતી હતી. કોઈ કોઈ માણસો ગાડીમાં જતાં સંબંધીઓને હાથ હલાવતા હતા. આપણે પણ ગાડીને હાથ હલાવતાં ‘આવજે આવજે’ કરવા લાગ્યા. એ ગઈ. એ સિંગલ (સિગ્નલ) નીકળી… એ…\nત્યાં તો પાછળથી અવાજ આવ્યો : “લાવ છોકરા, ટિકિટ !”\nઆપણો આનંદ ગાડીની સીટી પેઠે ક્યાંય ઊડી ગયો !\nમેં કહ્યું : “હું તો હજી કાલે જવાનો છું. ઈડરની ગાડીમાં.”\n“એક વાર ટિકિટ લાવ, ઈડર જાય તોય અને ખેડબ્રહ્મા જાય તોય !” ટિકિટ માગનાર પોર્ટર હતો. મેં એને કહ્યું કે, “હું ગાડીમાંથી નથી ઊતર્યો. એક જણનો સામાન મૂકવા આવ્યો હતો. ન માનો તો જુઓ આ આનો.” પોર્ટર ઊલટો હસવા લાગ્યો, કે છે : અલ્યા, વેંત જેવડો થઈને મને બનાવવા નીકળ્યો છે !” ટોળે વળેલા બીજા લોકોની સામે જોઈને કહેવા લાગ્યો, “આનો શું દેખાડે છે ? ખભે ભરવેલી આ પોટલી જો ને !” બીજા લોકો પણ મારી બનાવટ પર હસવા લાગ્યા. મને પોતાને જ થવા લાગ્યું – “માર્યા આ પોટલીએ તો ! પણ એમ કંઈ વગર મુસાફરી કર્યે આપણે કોઈને ગાંઠતા હઈશું ’ મેં કહ્યું : હેંડો મારી સાથે ગાડીવાળા પાસે. એ ત્યાં પડાવમાં હશે. હમણાં જ હું મોડાસેથી આવ્યો છું.”",
+              "source_marker": "[[ઘટના: ગાડી ઊપડી અને પોર્ટરે ટિકિટ માગી]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "આનંદમાંથી અચાનક ફફડાટ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "ગાડી ઊપડી જાય છે અને કિશોર ખુશીથી હાથ હલાવે છે, પણ ત્યાં જ પાછળથી પોર્ટર 'ટિકિટ આપ' કહીને તેને રોકે છે. કિશોર સાચું કહે છે કે તે માત્ર સામાન મૂકવા આવ્યો હતો, પણ પોર્ટર અને આસપાસના લોકો તેની વાત માનતા નથી અને તેની મજાક ઉડાવે છે.",
+              "word_count": {
+                "original": 187
+              },
+              "key_terms": [
+                "પોર્ટર — સ્ટેશન પર સામાન ઊંચકનાર મજૂર",
+                "સિગ્નલ — વાહનચાલકને દૂરથી ખબર આપવાની નિશાની",
+                "બનાવટ — છેતરપિંડી, ખોટું કરવું તે",
+                "ગાંઠવું — કોઈનું કહ્યું માનવું, વશ થવું",
+                "પડાવ — મુકામ, છાવણી",
+                "વેંત — હાથની આંગળીઓ ફેલાવીને મપાતું નાનું માપ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "પોર્ટરની શંકા અને ટોળાની મજાક",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S2.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "પોર્ટર એમ કંઈ માને ઓછો !” એ મને ઓફિસમાં લઈ ગયો. વાઘનો શિકાર કરી લાવ્યો હોય એ રીતે સ્ટેશનમાસ્તર આગળ મને ખડો કરી કહેવા લાગ્યો : “સાહેબ, આ છોકરા પાસે ટિકિટ નથી.”\nસ્ટેશનમાસ્તરે આંખ કાઢીને મને પૂછ્યું : “ક્યાંથી આવે છે ?”\nમેં કહ્યું : “મોડાસાથી.”\nપેલું ટોળું ઓફિસના બારણા આગળ ઠઠ વળ્યું હતું. એમાંથી એક-બે હસી પડ્યા. એકે મને સલાહ પણ આપી : અલ્યા, છોકરા સાચું બોલી જા, સાહેબ માફ કરી દેશે. “હું હવે ઢીલો પડતો આવતો હતો. ટોળા તરફ જોઈને મેં કહ્યું : ભગવાનના સોગન ! હું જૂઠું બોલતો હોઉં તો !” ટોળામાંથી બે-ત્રણ અવાજ આવ્યા : “અલ્યા આવડો છે ને ભગવાનને વેચી ખાધો ?…મેં તને ગાડીમાંથી ઠેકડો ભરતો મારી સગી આંખે જોયો છે ને !” બીજો કે છે : મેં પણ એને આવજો આવજો કહેતો જોયો છે !”\n“હું તો ગાડીને આવજે આવજે…” સ્ટેશનમાસ્તર સાથે આખુંય ટોળું એવું હસી પડ્યું !\nડબ ડબ કરતાં મારી આંખમાંથી આંસુ પડવા લાગ્યાં. ડૂસકાં પણ ભરવા લાગ્યો.",
+              "source_marker": "[[ઘટના: પોર્ટરની શંકા અને ટોળાની મજાક]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C4",
+                  "concept_name": "સાચી વાત છતાં ટોળાની હાંસી",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "પોર્ટર કિશોરને સ્ટેશનમાસ્તર પાસે લઈ જાય છે અને ટિકિટ ન હોવાની ફરિયાદ કરે છે. કિશોર ભગવાનના સોગન (સમ) ખાઈને સાચું બોલે છે, છતાં ટોળામાંથી લોકો તેને જ ખોટો ઠેરવે છે અને હસી પડે છે, જેનાથી કિશોર રડી પડે છે.",
+              "word_count": {
+                "original": 156
+              },
+              "key_terms": [
+                "ઠઠ — ભીડ, ગિરદી",
+                "ખડો કરવો — ઊભો કરવો, રજૂ કરવો",
+                "સોગન — સોગંદ, પ્રમાણ",
+                "ડૂસકાં — રડતી વખતે તૂટક તૂટક શ્વાસ સાથે નીકળતું રુદન",
+                "ઊલટો — ધારેલાથી ઊલટું, જેની અપેક્ષા ન હોય તેવું"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T5",
+              "topic_name": "સ્ટેશનમાસ્તર આગળ પુછપરછ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S2.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "સ્ટેશનમાસ્તરને મારી દયા આવી. મને પીઠે હાથ ફેરવતાં કહે છે : “સાચું બોલી જા. ક્યાંથી ગાડીમાં બેઠો હતો ? સાચું બોલીશ તો છોડી દઈશ.” ડૂસકાં ભરતાં ભરતાં મેં કહ્યું – ‘સાહેબ, સાચું જ બોલું છું. હું… હું… મોડાસેથી…”\nટોળામાંથી કોઈ બોલ્યું – “સાચું બોલતાં શું ચૂક આવે છે ?”\nસ્ટેશનમાસ્તર પણ તીખા થયા. કે’ છે : “જ્યાં સુધી તું સાચું નહિ બોલે ત્યાં સુધી નહીં છોડું. પોર્ટરને હુકમ કર્યો– બેસાડી રાખો એને પેલા ખૂણામાં.” ઉમેર્યું : “છતાંય જો સાચી વાત નહીં કરે તો પોલીસના હવાલે કરવો પડશે.”\n“ચાલ છોકરા.” પોર્ટરે મારો ખભો પકડ્યો.\nમને પણ થયું : ભાઈ, ભસી નાંખ ને જૂઠું, કે’ કે ઈડરથી આવું છું, પણ બીજી પા બીક પેઠી. “ટિકિટના પછી પૈસા લેશે તો ઈડરથી ટિકિટ શાની કઢાવીશ ?” ને છાતી કાઢી કરીને ડચકાં ખાતો ગયો ને સ્ટેશનમાસ્તરને કહેતો ગયો : “સાહેબ… સાહેબ… તમે કો’તો બળદગાડીવાળાને હું… મોડાસેથી આવ્યો છું એની” …એટલામાં તો ટોળામાંથી ભગવાન જાણે ટપકી પડ્યા ! ગાડીવાળો માર્ગ કરી અંદર આવતાં કહેતો હતો : હા, હા ! સાહેબ, આ છોકરો સાચું કે’ છે. મારી જ ગાડીમાં હું એને લાવ્યો છું. આ વખતે પેલા પોર્ટરે ટોળા પર નજર નાખી ઊંચા સાદે સવાલ કર્યો – “બોલો ભાઈ, આપણે બધા નજરે જોનારા ખરા કે આ બનાવટી ગાડીવાળો ખરો ?” ગાડીવાનને પણ એ કહેવા લાગ્યો : “આ છોકરાને રોતો જોઈને દયા તો અમનેય આવે છે, પણ સાહેબ એને માફ કરવાનું કહે છે તોય એ ક્યાં સાચી વાત કરે છે ? અમે બધાંએ એને ગાડીમાંથી ઊતરતો અને આ એના કો’ક સગાને ‘આવજો’ કહેતો નજરે જોયો. એ ખોટા ને તું સાચો એમ ? કોઈ-કોઈક ગાડીવાનને હસવા લાગ્યા. અંદરોઅંદર કહેતા હતા : કાં તો આનો સગો પણ હોય !”",
+              "source_marker": "[[ઘટના: સ્ટેશનમાસ્તર આગળ પુછપરછ]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T5.C5",
+                  "concept_name": "ધમકી છતાં સાચી વાત પર અડગ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S2.T5.C6",
+                  "concept_name": "ગાડીવાળાની સાક્ષીથી જાગેલી આશા",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "સ્ટેશનમાસ્તર દયાથી કિશોરને સાચું બોલવા કહે છે, પણ સાથે પોલીસના હવાલે કરવાની ધમકી પણ આપે છે. ડરવા છતાં કિશોર જૂઠું બોલવાને બદલે સાચી વાત વળગી રહે છે, અને એ જ વખતે ગાડીવાળો આવીને તેની વાત સાચી હોવાની સાક્ષી પૂરે છે.",
+              "word_count": {
+                "original": 268
+              },
+              "key_terms": [
+                "તીખા થયા — ગુસ્સે થયા",
+                "હવાલે કરવો — કબજે સોંપવું",
+                "બીજી પા — બીજી બાજુ",
+                "ડચકાં ખાવાં — રડતાં રડતાં શ્વાસ તૂટક તૂટક ચાલવો",
+                "ટપકી પડવું — અચાનક આવી પહોંચવું, હાજર થઈ જવું",
+                "કો'ક — 'કોઈક'નું બોલચાલનું ટૂંકું રૂપ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "સાચી ઓળખ અને છુટકારો",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "સજ્જનની ઓળખ અને છુટકારો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S2.T5"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "માસ્તર અને ટોળું કદાચ ગાડીવાળાનોય ઉધડો લેત, પણ એટલામાં બીજા ભગવાન ટપકી આવ્યા. જે વીશીમાં હું દર વખતે ઊતરતો હતો, એ સજ્જન ટોળા વચ્ચે માર્ગ કરી અંદર આવતાં બોલી પડ્યા : “હા ખરી વાત હો ! એ જ વિદ્યાર્થી છે !”\nગાડી આવી એ વખતે ચાની કીટલી ફેરવતા એક નોકરે વીશી ઉપર જઈને એમને મારા પકડાયાની વાત કરી હતી.\nએમનું નામ હું ભૂલી ગયો છું. એ એક ઉમદા સ્વભાવના માણસ હતા. બાવાજીને લીધે એ પણ મને દીકરા જેવો ચાહતા હતા. મારી પાસેથી કદીય એ રહેવા-જમવાના પૈસા નહોતા લેતા. ચાની મને ટેવ નહોતી તોપણ એ મને ચા પાતા ને નાસ્તો કરાવતા.\nએમને જોતાં મારાથી વળી જોરજોરથી રડી દેવાયું. એમણે મને છાતીએ વળગાડ્યો ને સ્ટેશનમાસ્તર આગળ મારા વિશે વિગતે વાત કરી પછી તો લોકોએ પણ એમની તથા ગાડીવાનની વાત સૌએ સ્વીકારી લીધી.\nને સ્ટેશનમાસ્તરે માફી આપી પેલા સજ્જન સાથે જવા દીધો. સ્ટેશનમાસ્તર જ નહીં, એ આખું ટોળું મારી તરફ માન ભરી નજરે જોઈ રહ્યું હતું. કોઈ-કોઈ કહેતું પણ હતું. છોકરો મારો સાચો નીકળ્યો હો, ભાઈ !”",
+              "source_marker": "[[ઘટના: સજ્જનની ઓળખ અને મુક્તિ]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C7",
+                  "concept_name": "સજ્જનની ઓળખથી મળેલો છુટકારો",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "વીશીના એક સજ્જન ટોળા વચ્ચેથી આવીને કિશોરને ઓળખી બતાવે છે અને સ્ટેશનમાસ્તર આગળ તેના વિશે વિગતે વાત કરે છે. સૌ કોઈ હવે કિશોરની સચ્ચાઈ સ્વીકારે છે, અને સ્ટેશનમાસ્તર માફી આપીને તેને સજ્જન સાથે જવા દે છે.",
+              "word_count": {
+                "original": 164
+              },
+              "key_terms": [
+                "ઉધડો લેવો — ખૂબ ઠપકો આપવો, વઢવું",
+                "વીશી — પૈસા આપીને જમવાનું મળે તેવી નાની હોટેલ",
+                "ઉમદા — ઉત્તમ, ભલા સ્વભાવનું",
+                "સજ્જન — ભલો અને આદરણીય માણસ",
+                "છાતીએ વળગાડવું — પ્રેમથી ગળે લગાડવું, ભેટવું"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "MARKER-COUNT DISCREPANCY, PAGE WINS — 01_meta.json's structure_inventory records `\"ghatna\": 7`, but 00_chapter_normalized.md (the authoritative transcription for this run) carries exactly SIX `[[ઘટના: …]]` marker lines. Per reference/explanation_unit_map.md ('One marker, one topic') and this run's own routing note ('the page wins — and you say so in a note for Agent 4'), this cut follows the six printed markers and produces exactly six topics, one per marker, in printed order — never seven, and never a topic invented where no marker sits. Each topic records its marker verbatim in `source_marker` so Agent 4 can count both directions. The likely reconciliation: the block under the fourth and fifth markers ([[ઘટના: પોર્ટરની શંકા અને ટોળાની મજાક]] and [[ઘટના: સ્ટેશનમાસ્તર આગળ પુછપરછ]]) together carry three separable ભાવ-movements on a close re-read (the porter's accusation + denial; the crowd's counter-testimony + tears; then, inside the fifth marker's own block, the threat/decision to persist in truth followed by the cart driver's exonerating testimony) — which is exactly why M2.S2.T5 below carries two concepts. Six markers plus one genuine two-concept topic totals seven ભાવ-movements, which is plausibly what Agent 1 counted into `ghatna: 7` even though only six marker lines were written. Flagged for Agent 4, not silently resolved.",
+    "APPARATUS DELIBERATELY NOT CUT — the `[[પ્રવેશપેટી]]` box is the standard GSEB blue intro box and is teacher-addressed: it ends on an instruction, not on reading text ('...એની સમજ યથોચિત રીતે આપવી' — telling the teacher how to convey the register, not something printed for the child to read as literature). Per reference/explanation_unit_map.md this is apparatus ('the blue intro box... teacher-addressed matter: they feed key_terms, ભાષા-બોધ and Agent 10 — not topics'), unlike std 10's unlabelled student-facing કવિ/લેખક-પરિચય paragraph, which IS a CONCEPT topic. This chapter therefore opens directly on M1.S1.T1 with no pre-reading CONCEPT topic — the absence is measured, not an omission. Agent 1 already carried the box's diagnostic content into 01_meta.json's `genre_signals.purpose` verbatim. The `[[શબ્દાર્થ]]` box, the `[[શબ્દસમૂહ માટે એક શબ્દ]]` block, the `[[રૂઢિપ્રયોગ]]` pre-block (nine idioms) and the `[[કહેવત]]` pre-block (three, including the corpus's only કહેવત pre-block per profiles/genres/nibandh_atmaparak.md) are the same kind of apparatus and are likewise not topics.",
+    "EXERCISE-EMBEDDED READING MATTER EXCLUDED — the standalone paragraph inside the reading-fluency પ્રવૃત્તિ ('સાચા શિક્ષણની શરૂઆત કરવી હશે તો...') and the standalone paragraph inside the L1-translation block ('ભારતમાં 1853માં રેલવેનો પ્રારંભ થયો હતો...') are both printed for the exercise apparatus, not the chapter's own narrative — neither is by પન્નાલાલ પટેલ, neither is about the ટ્રેન/પોર્ટર પ્રસંગ, and neither enters any topic's `original_chunk` or the ઘટના chain; both stay in `exercise_inventory` / `exercise_solutions.json` for Agent 10. The full-page blank drawing frame ('તમને ગમતું કોઈ ચિત્ર ચોંટાડી...') is likewise exercise apparatus and opens no topic.",
+    "TWO-CONCEPT TOPIC — only M2.S2.T5 carries two concepts, and it genuinely does two separable things: C5 is the boy weighing a lie against the stationmaster's threat of the police and choosing to keep insisting on the truth; C6 is the ભાવ-turn that follows when the ગાડીવાળો appears unbidden and testifies for him, and the porter challenges the crowd to confirm it. The first is fear holding onto truth with no relief in sight; the second is the first crack of outside corroboration — a genuine movement of ભાવ, not a second thing forced in. The other five topics carry one concept each. The concept counter is chapter-continuous (C1…C7) and is NOT equal to the topic number from T5 onward — M2.S3.T6 carries C7, not C6 — matching the documented behaviour for any chapter with a two-concept topic (reference/phase2_contract.md, reference/naming_conventions.md).",
+    "NO CLIMAX CATEGORY — profiles/genres/nibandh_atmaparak.md 'Avoid' item 2 is a hard gate for this profile: an આત્મપરક/સંસ્મરણ chapter has પ્રસંગ, not પ્લોટ, so no topic here carries `topic_category: \"climax\"`, even for M2.S2.T5 (the stationmaster's interrogation and police threat), which is the single most tense scene in the chapter. Categories used are `introduction` (T1), `core` (T2, T4, T5), `transition` (T3, the first topic of the second movement — the pivot from favour to trouble), and `resolution` (T6, the closing gesture, per the profile's own closing-gesture rule).",
+    "CRAFT-LABEL CEILING HELD — no objective_text names an અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર; std 8 gates all four (profiles/students/std-8.md §1, reference/teaching_lens_map.md). O3's 'સિંગલ (સિગ્નલ)' turn and O1's split-mind phrasing are both surfaced through noticing language ('કઈ રીતે', 'કઈ રીતે ખેંચાય છે') and never through a named device. `figures_of_speech` is not attached to any topic here — all six are STORY_TELLING/prose, not POEM.",
+    "GENRE ROUTING CARRIED AS-IS — 01_meta.json's own genre_signals note the person test passes (હું = લેખક પન્નાલાલ પટેલ) and this exact chapter is independently named in profiles/genres/nibandh_atmaparak.md's own provenance list as 'હાસ્યપ્રસંગ / આત્મકથાત્મક પ્રસંગ'. On this session's own read of 00_chapter_normalized.md the dominant register is tension and fear (threat of police, tears) with only situational irony (an honest boy's own goodbye-wave used as evidence against him) rather than overt joke-telling — so the profile's હાસ્ય-sub-form gates (irony named once, laugh named in one clause) were not force-applied to any topic_category or objective here; downstream agents should read the passage's own tone before invoking the હાસ્ય section, and this uncertainty is recorded rather than resolved silently.",
+    "DEPENDS_ON IS SPARSE ON PURPOSE — only genuine cross-topic referential dependence is recorded, not mere printed sequence. T2 opens on 'જુવાન ભાઈ' and 'પત્ની', the same couple first named in T1 — without T1 those references are unidentifiable, so T2 depends_on T1. T4 opens 'પોર્ટર એમ કંઈ માને ઓછો!', continuing the SAME porter and the SAME crowd ('ટોળે વળેલા... લોકો') both already on stage inside T3 — T4 depends_on T3. T5 opens on 'સ્ટેશનમાસ્તર', first named inside T4 — T5 depends_on T4. T6 opens 'માસ્તર અને ટોળું... ગાડીવાળાનોય ઉધડો લેત', continuing T5's own scene and its own ગાડીવાળો — T6 depends_on T5. T1 (chapter opening) and T3 (opens on the generic 'ગાડી' with no specific carried-forward named referent) carry `[]`.",
+    "DIFFICULTY IS L2-READING DIFFICULTY, NOT IDEA SIZE — set relative inside this chapter, per profiles/students/std-8.md §2's own flag that 'ch 15 narrates in spoken dialect throughout' is an L2 hazard held in scope, not diluted. No topic here reads as 'easy': even the opening block (T1) is already dialect- and idiom-dense ('ગોળ-ગોળ કહું', 'તાર ઓળંગી... મૂકતાંક', 'એક પગ ભલાઈમાં ને બીજો પગ પૈસામાં'). `hard`: T4 and T5, the two topics carrying sustained multi-voice unattributed quoted dialogue (porter, crowd, stationmaster, boy, ગાડીવાળો all speaking within a few lines with no speaker labels) plus the chapter's heaviest dialectal forms ('પોઠ હાથ ફેરવતાં કહં છે', 'ડચકાં ખાતો ગયો', 'વેંત જેવડો'). `medium`: T1, T2, T3, T6. No topic is marked hard for a craft device — std 8 names none — and difficulty caps no topic's Bloom ceiling: O1, O3 and O5 reach Analyze and O6 reaches Evaluate.",
+    "SENSITIVITY FLAGGED FOR AGENT 8 — this chapter puts a minor under public accusation and an explicit threat of police custody (M2.S2.T5) on the page, and the crowd's mockery in M2.S2.T4 turns the boy's own honesty against him. profiles/genres/nibandh_atmaparak.md's Sensitivity section governs: recount the conflict with the stationmaster/porter factually, never as a political point about authority, and never soften the boy's fear or the crowd's laughter into something the chapter itself does not say. The genre's 'Emphasise: The admission' applies directly to T1 and T2 — the writer confesses his own torn mind ('ભલાઈ' vs 'પૈસા', mind saying no while the hand takes the ચા) — and downstream agents should lean on this rather than turning either scene into a lesson about honesty in general (Avoid gate 3, no tacked-on બોધ).",
+    "NO REVIEW TOPIC — the chapter prints no in-text wrap or value summary block; it runs straight through six ઘટના to its own closing gesture. M2.S3.T6 IS that closing gesture ('એ આખું ટોળું મારી તરફ માન ભરી નજરે જોઈ રહ્યું હતું... છોકરો મારો સાચો નીકળ્યો હો, ભાઈ !'), not a separate REVIEW topic.",
+    "FOR AGENT 5 — every `original_chunk` is deliberately empty here. Topic boundaries are the six `[[ઘટના: …]]` marker lines: each topic's chunk runs from the paragraph after its own marker up to (not including) the next marker line (or, for T6, up to the `[[શબ્દાર્થ]]` marker). T6's chunk must end with the chapter's actual final printed sentence ('...કોઈ-કોઈ કહેતું પણ હતું. છોકરો મારો સાચો નીકળ્યો હો, ભાઈ !'). This chapter prints no source/translator credit line AFTER the reading text — the author byline ('- પન્નાલાલ પટેલ') sits at the TOP under the title, and the book-title credit ('અલપઝલપ') sits inside the પ્રવેશપેટી apparatus, not after the narrative — so profile gate 13's end-credit clause has nothing to carry in T6; recorded so the absence reads as measured, not as a loss. Per 01_meta.json's extraction_notes, the printed dialectal forms 'પોઠ' (પીઠ), 'કહં છે' (કહે છે), 'બી' (પણ), 'કે'' (કહે, elided) and 'કો'તો' (કહેતા હતા, elided) must survive verbatim in T5's and T6's chunks — never modernised.",
+    "RENDERS NOT RE-READ — 00_chapter_normalized.md answered every question this cut needed, including the marker-count question above. No PNG in _renders was opened for this pass.",
+    "FOR AGENT 5 boundary method — original_chunk on all six topics is copied from 00_chapter_normalized.md by [[ઘટના: …]] marker range (each topic runs from the line after its own marker up to the line before the next marker; M2.S3.T6 runs up to the line before the [[શબ્દાર્થ]] marker), with marker lines stripped and blank lines removed. Paragraph breaks inside a topic are preserved as single newlines; nothing was reflowed, modernised, re-punctuated, or transliterated. This chapter is ગદ્ય end to end (topic_type STORY_TELLING throughout), so no verse line structure is at stake.",
+    "TRANSCRIPTION DEFECT FOUND AND CORRECTED AGAINST THE RENDER, NOT SILENTLY — 00_chapter_normalized.md line 45 (the opening sentence of M2.S2.T5) reads 'મને પોઠ હાથ ફેરવતાં કહં છે', framed by 01_meta.json's own extraction_notes as two intentional dialectal forms ('પોઠ' for પીઠ, 'કહં છે' for કહે છે). Reading page-03.png at 4-6x crop-zoom (the stationmaster-pity line, roughly y=555-610 of the 1300x1713 render) shows unambiguously standard 'મને પીઠે હાથ ફેરવતાં કહે છે' — plain પીઠે (પીઠ + એ, 'on the back') and કહે છે (કહે + છે, standard 'says'), neither reading as પોઠ nor as કહં on the page. This is Agent 1's defect, not a licence: reference/gujarati_verbatim.md's own tell is that a genuine licence changes the word (like the chapter's own verified 'બી' for પણ, 'કે'' for કહે, 'કો'તો'/'કો'ક' for કહ્યું/કોઈક — all independently re-verified against this same render and confirmed printed exactly as 00_chapter_normalized.md has them), while what happened here has no such second form on the page at all — the transcription simply substituted two different, wrong words. Per this agent's own spec ('a mismatch is Agent 1's defect, not yours to patch... silently repairing one word tells everyone downstream the transcription is trustworthy when it is not') and reference/gujarati_verbatim.md ('the rendered printed page, never the text layer [here: never the prior transcription], is the authority'), M2.S2.T5's original_chunk uses the render-verified 'મને પીઠે હાથ ફેરવતાં કહે છે' rather than 00_chapter_normalized.md's line 45 — and this note is the loud flag of that substitution, not a silent one. 00_chapter_normalized.md itself and 01_meta.json's extraction_notes are NOT this agent's files to edit and were left untouched; both still carry the defect and should be corrected at the source by whoever owns them.",
+    "VERIFIED AGAINST THE RENDER — all ten PNGs in _renders were opened for this pass (unlike 02_structure.json's own note 'RENDERS NOT RE-READ', which covered only Agent 2's cut, not Agent 5's transcription duty). Every topic's first and last line was checked, plus every line 02_structure.json or 01_meta.json flagged as dialectal or previously corrected: 'ગાડીવાળાએ... રાજી બી કરશે' and 'તાર ઓળંગી' (page-02.png, both confirmed exactly as 00_chapter_normalized.md has them — the two corrections recorded in 01_meta.json's extraction_notes are genuine and already folded into the file), 'વાઘનો શિકાર' (confirmed ઘ, not ધ), and the full multi-voice dialogue spans of M2.S2.T4 and M2.S2.T5 (confirmed against page-03.png and page-04.png, including 'કે'', 'કો'તો', 'કો'ક' each reading with the printed elision mark, matching 00_chapter_normalized.md exactly). One defect was found (previous note) and nothing else. The printed શબ્દાર્થ, શબ્દસમૂહ and રૂઢિપ્રયોગ/કહેવત boxes (page-05.png, printed p.127) were also read against 00_chapter_normalized.md and match exactly, including the 9-item રૂઢિપ્રયોગ count 01_meta.json already flagged against the corpus prior.",
+    "'સિંગલ (સિગ્નલ)' KEPT AS PRINTED — M2.S2.T3's chunk keeps the book's own 'એ સિંગલ (સિગ્નલ) નીકળી' exactly as rendered (page-02.png): this is the author's own parenthetical gloss of the boy's mispronunciation, not a transcription typo, and a downstream agent should not 'fix' it to એ સિગ્નલ નીકળી.",
+    "NO ATTRIBUTION LINE INSIDE ANY CHUNK — this chapter's byline ('- પન્નાલાલ પટેલ') is printed at the TOP under the title (page-01.png), not after the narrative, and there is no source/translator credit line after the reading text; the book-title credit ('અલપઝલપ') sits inside the [[પ્રવેશપેટી]] apparatus. M2.S3.T6's chunk therefore correctly ends on the chapter's own last printed sentence ('...છોકરો મારો સાચો નીકળ્યો હો, ભાઈ !') with nothing appended, exactly as 02_structure.json's own note anticipated.",
+    "key_terms — 5–6 per topic, inside the 3–6 contract band and at the std-8 row of reference/shabd_gloss.md (4–6, the lower L2 bar). The printed શબ્દાર્થ box (page-05.png, p.127) was used as evidence, not copied: of its twelve entries, roughly half are re-glossed here in student-friendly form for the topic each word actually appears in (બેલગાડી, પેસેન્જર, વેરાન, સાધવું → T1; કમબખ્ત → T2; પડાવ → T3; ઠઠ → T4; તીખા થયા, હવાલો, બીજી પા → T5; ઉધડો લેત, વીશી, ઉમદા → T6), and Ring-2/દેશ્ય words the box leaves out entirely — the recurring dialectal markers ઝાંપો, બી, કે', કો'ક, and the household/measure words ચવાણું, ઝંડી, વેંત, ડચકાં ખાવાં, ટપકી પડવું, છાતીએ વળગાડવું — are glossed here because an L2 std-8 child genuinely stops on them, per shabd_gloss.md's Ring-2/Ring-3 rule. The printed શબ્દસમૂહ pre-block (ગાર્ડ, પોર્ટર, સિગ્નલ) is NOT emptied wholesale into key_terms — only પોર્ટર and સિગ્નલ are used, at the topics where they actually carry the scene (M2.S2.T3), and their gloss text is rewritten for a child rather than copied verbatim from the box. The printed રૂઢિપ્રયોગ pre-block (9 idioms, including 'તલપાપડ થવા લાગ્યાં' which sits inside M1.S1.T1's own chunk) and the કહેવત pre-block are NOT key_terms at all — they belong to Agent 10 and to the ભાષા-બોધ fields, per author.md commitment 5 and global_content_rules.md rule 7.",
+    "modified_chunk — a plain 'શું થઈ રહ્યું છે' restatement in simple શિષ્ટ ગુજરાતી, two to three sentences per topic, deliberately NOT the teaching: no modified_chunk names the tension, the irony, the emotional craft, or any બોધ about honesty in general (avoiding exactly the tacked-on moral the profile's Avoid list and 02_structure.json's own sensitivity note warn against). The stationmaster's threat and the boy's fear are restated factually, as the page states them, and left for Agent 12 to unpack.",
+    "content types — every one of the six topics is a reading scene (each holds one ઘટના the child reads), so each carries primary_content_type 'image' with available_content_types ['image'], per global_content_rules.md rule 9 and the nibandh_atmaparak media prior of one image per પ્રસંગ (consistent with this same profile's prior std-8 chapters, e.g. ch03). secondary and tertiary are null on every topic: no second medium is planned here.",
+    "this file carries the FULL structure payload from 02_structure.json (sha256 dbcdc6a3addf2db3f4aebee667a332709fb550a67b7b2c45c932cc14b6c4ef3a, re-verified on disk before copying), because 04_converged.json is a convergence record only (converged:true / source:02_structure.json / matching sha256 / verdict:pass) and duplicates no structure itself. Ids, names, objectives, concepts, depends_on, source_marker, and all thirteen of 02_structure.json's own notes are passed through untouched; only original_chunk, modified_chunk, word_count, key_terms, and the four content-type fields were added, plus these Agent-5 notes appended."
+  ]
+}

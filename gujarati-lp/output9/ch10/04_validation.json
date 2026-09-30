@@ -1,0 +1,45 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "genre 'mukt_chhand_kavita' and active_genre_profiles ['mukt_chhand_kavita.md'] carried forward unchanged from 01_meta.json; this profile is itself provenanced from this exact chapter (std-9 ch10 એ લોકો), so the match is exact rather than approximate.",
+        "explanation_unit 'એક વિચાર-એકમ' matches 01_meta.json exactly. 00_chapter_normalized.md carries zero [[કડી]] and zero [[ટેક]] markers (grep-verified), satisfying the profile's hard avoid-gate for this genre.",
+        "Marker-count equality check (the profile's own extension of the કડી-count rule to વિચાર-એકમ): 3 [[વિચાર-એકમ: ...]] markers in 00_chapter_normalized.md == 3 POEM topics (M2.S2.T3, M2.S2.T4, M2.S3.T5) carrying them. 2 pre-reading markers ([[કવિ-પરિચય]], [[કૃતિ-પરિચય]]) == 2 CONCEPT topics (M1.S1.T1, M1.S1.T2).",
+        "M2.S2.T3 deliberately carries THREE concepts (C3/C4/C5 = કાપડ/ધાન્ય/ઔષધ rungs) instead of one topic per rung. This is not a mis-cut: mukt_chhand_kavita.md explicitly instructs 'A repeated frame is one movement, not one topic per repetition... One વિચાર-એકમ; the rungs go in concepts[]' for this exact chapter's એ લોકો પહેલાં...પછી...ત્યારે... frame. Licensed departure from 02_structure.md's general single-concept-per-topic guidance, per author.md's mechanism-serves-intent principle.",
+        "No genre avoid-list violation found: no છંદ named, no કડી/ટેક token in any display field, no rhyme asserted, no invented અલંકાર (રૂપક is named only because the chapter's own printed ભાષા-અભિવ્યક્તિ block names it), no બોધ/ઉપદેશ exhortation in any objective_text, and the poem's accused party 'એ લોકો' stays unnamed throughout every objective and topic/concept name (checked against a real-world caste/community/religion/party referent — none supplied)."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 5,
+      "topics": 5,
+      "notes": [
+        "All 5 reading-scene markers in 00_chapter_normalized.md ([[કવિ-પરિચય]], [[કૃતિ-પરિચય]], and 3x [[વિચાર-એકમ: ...]]) became exactly 5 topics, in file order: M1.S1.T1, M1.S1.T2, M2.S2.T3, M2.S2.T4, M2.S3.T5. The pre-reading opener (કવિ-પરિચય) is a topic (T1).",
+        "No in-text wrap/REVIEW marker exists in this chapter — none expected, none invented.",
+        "No સ્વાધ્યાય block became a topic: cross-checked all 4 exercise_inventory entries from 01_meta.json (MCQ, બે-ત્રણ વાક્યમાં ઉત્તર, સવિસ્તારા વાક્યમાં ઉત્તર, વિદ્યાર્થી-પ્રવૃત્તિ) against every topic_name in 02_structure.json — none match or overlap. The two further apparatus markers not in exercise_inventory (શબ્દ-સમજૂતી, ભાષા-અભિવ્યક્તિ, શિક્ષકની ભૂમિકા) also did not become topics.",
+        "No topic covers text no marker claims: each topic's note field traces its content to exactly one printed marker/verse-paragraph range, with no invented spans."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 5,
+      "notes": [
+        "5 unique objective_ids (O1-O5), each with a unique legacy_id (L1-L5); strand_to_objective_map is a clean bijection covering every legacy_id exactly once.",
+        "Every home_topic_id (M1.S1.T1, M1.S1.T2, M2.S2.T3, M2.S2.T4, M2.S3.T5) and every anchor[] concept id (C1, C2, C3/C4/C5, C6, C7) resolves to a real node in the tree — verified programmatically.",
+        "Every topic carries objective_ids resolving to the root registry (T1->O1, T2->O2, T3->O3, T4->O4, T5->O5).",
+        "Each objective is text-grounded and chapter-specific (quotes or names exact chapter content: poet-bio facts, the કપડાં/અનાજ/દવા causal account, the 'એ લોકો પહેલાં...પછી...ત્યારે' frame, the ઊધઈ રૂપક and the hanging line, the 'મારે કવિ થવું જ નથી' વ્યંગ) and collectively serves the teaching_lens 'ચિત્ર + મૌન + પંક્તિ-ભંગ'. None could be pasted into another chapter unchanged.",
+        "Id grammar verified against reference/naming_conventions.md: M/S/T/C are dotted and chapter-continuous with no restarts (M1->M2; S1->S2->S3; T1->T2->T3->T4->T5; C1->C2->C3/C4/C5->C6->C7); no M1.S1.T1.P1-style objective code anywhere.",
+        "No numbers in any display field (topic_name, module_name, segment_name, concept_name, objective_text) — checked across all 5 topics and 5 objectives."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Single validation pass per reference/loop_protocol.md — no iteration performed, none needed.",
+    "This chapter's genre profile (profiles/genres/mukt_chhand_kavita.md) is itself provenanced from this exact chapter (std-9 ch10 એ લોકો), so profile-vs-cut agreement is expected to be unusually exact; this was independently re-verified against the rendered-page markers rather than assumed from that provenance note.",
+    "01_meta.json's extraction_notes record a 400-dpi re-verification correcting an earlier ભ/મ misread (મારે -> ભારે) in the poem's closing line; 02_structure.json's T5 note correctly defers to that already-verified reading rather than re-transcribing, consistent with no_hallucination_policy.md."
+  ]
+}

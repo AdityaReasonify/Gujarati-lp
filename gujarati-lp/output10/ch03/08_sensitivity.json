@@ -1,0 +1,41 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "areas": ["ધર્મ"],
+      "caution": "The intro paragraph's own phrase 'ધર્મના નામે ચાલતા દંભ ઉપર કટાક્ષ' could get read as a comment on any particular religion's practice, or the explanation could turn into a lesson about religious hypocrisy in general rather than staying inside what the ખંડ itself sets up.",
+      "guidance": "In `explanation`, say plainly that the satire's target is ભદ્રંભદ્રનું પોતાનું વર્તન — his rigid, exaggerated devotion to old ideas and artificial Sanskrit speech — not any religion or its followers; keep the line as a preview of the humour to come, never as the lesson itself.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S2.T2",
+      "areas": ["ધર્મ"],
+      "caution": "Explaining ભદ્રંભદ્રનું comparison of his train departure to શ્રીરામ, શ્રીકૃષ્ણ and ભીમસેનનાં પરાક્રમો could drift into actually teaching those mythological deeds, or could treat his invocation of 'વેદધર્મ, આર્યધર્મ, સનાતન ધર્મ' as a real religious cause the child should admire.",
+      "guidance": "In `explanation`, keep Rama/Krishna/Bhimsen as names the child already knows from story, used only to show the comic mismatch — an ordinary train departure measured against epic battles — and never unpack their deeds as content; the humour is the disproportion, not the mythology, and 'વેદધર્મ/આર્યધર્મ/સનાતન ધર્મનું રક્ષણ' stays quoted as ભદ્રંભદ્રની બોલી, not restated as the lesson's own claim.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S3.T3",
+      "areas": ["સમુદાય"],
+      "caution": "ભદ્રંભદ્ર calls the Parsi ticket-clerk 'યવન', 'દુષ્ટ યવન' and accuses him of 'ભ્રષ્ટ વાસના' — an explanation that repeats these as a fair description, or that plays the Parsi accent ('સું બકેચ', 'થયેલોચ') for a laugh at the community rather than at ભદ્રંભદ્ર, would misrepresent a real, named community.",
+      "guidance": "In `explanation`, state directly that the joke is on ભદ્રંભદ્ર — his arrogance and prejudice are what the book is laughing at, not સોરાબજી or Parsis generally; when quoting the dialect lines, frame them the way the chapter's own ભાષા-અભિવ્યક્તિ note does — as the author's careful, respectful phonetic craft for accented speech, printed exactly as written, never a target to mimic or mock in `real_life_example` or elsewhere.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S4.T4",
+      "areas": ["ક્ષેત્ર"],
+      "caution": "The two brothers' inauspicious ઘરનાં નામ 'નખોદીઓ' and 'ઘોરખોદીઓ' — given, as the line says, 'છોકરાં ન જીવે તેથી' — could be played for a cheap laugh, or presented as a quaint curiosity rather than a real practice born of real fear of child mortality.",
+      "guidance": "In `explanation`, state the practice matter-of-factly as the text gives it — inauspicious names meant to ward off harm to a child in a time of high child mortality — without mockery and without an '...even today' aside; the humour in this scene sits in the brothers' hurried, embarrassed manner, not in their names.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S4.T5",
+      "areas": ["ધર્મ"],
+      "caution": "The co-passenger's defence of the naming-superstition via a nephew's 'શાસ્ત્ર' claim about કોઠા, કમરખ and પ્રાણવાયુ could be taught either as literal biology (endorsing a false claim) or mocked outright, missing the passage's own layered irony — an unlettered villager citing a city-educated relative to argue a folk belief is 'science'.",
+      "guidance": "In `explanation`, describe what the second ઉતારુ argues and how he argues it — leaning on 'ભણેલા' vલભાની વાત to defend a વહેમ — without confirming or denying the breath/soul claim as fact; the point for the child is the comic shape of the argument, not the biology inside it.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [],
+  "none_found": false
+}

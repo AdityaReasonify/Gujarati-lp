@@ -1,0 +1,120 @@
+{
+ "topics": [
+  {
+   "topic_id": "M1.S1.T1",
+   "avoid_checks": [
+    {
+     "check": "`explanation` must state explicitly, in its own words, that the guest is about to read five separate, unconnected ઘટના with their own new characters — not one continuing story about the guest himself; an `explanation` that stops at 'અતિથિ પાંચ ઘટનાઓ વાંચી સંભળાવશે' with no such flag has added nothing beyond `modified_chunk` and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક એવું માની લે છે કે અતિથિ પોતે જ હવેની વાર્તાનું મુખ્ય પાત્ર છે અને એક જ સળંગ કથા શરૂ થવાની છે — જ્યારે ખરેખર અતિથિ પોતાની ડાયરીમાંથી પાંચ સાવ અલગ-અલગ, નવાં પાત્રોવાળી ઘટનાઓ વાંચી સંભળાવવાના છે.",
+   "correction": "explanation માં સ્પષ્ટ કરવું કે 'અતિથિ' હવે વાર્તાનું પાત્ર નથી બનવાના — તે તો ડાયરીમાંથી પાંચ જુદી-જુદી ઘટનાઓ વાંચી સંભળાવશે, અને દરેક ઘટના પોતાની રીતે, નવાં પાત્રો સાથે, પૂરી થશે."
+  },
+  {
+   "topic_id": "M2.S2.T2",
+   "avoid_checks": [
+    {
+     "check": "no `explanation`, `real_life_example` or `recall_questions[].answer` may apply an evaluative label (ગુનેગાર, બેજવાબદાર, ખોટો or a synonym) to `સત્તર વર્ષનો છોકરો` — `original_chunk` itself leaves his fault unstated at 'સૌ સમજી જાય છે કે...' and shows him only as `પીડાગ્રસ્ત` and 'લાચારીથી જોઈ રહે છે'.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "`explanation` must complete, in its own words, what `original_chunk` leaves trailing at 'સૌ સમજી જાય છે કે...' — that riding underage and without a `ડ્રાઈવિંગ લાઈસન્સ` caused this crash; an `explanation` that stops where the elliptical sentence stops has added nothing beyond `modified_chunk` and fails.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક 'સૌ સમજી જાય છે કે...' પછીનું અધૂરું વાક્ય નજરઅંદાજ કરીને ફક્ત અકસ્માતની ઘટના જ યાદ રાખે છે — છોકરાની નાની ઉંમર અને લાઇસન્સ ન હોવાની વાત વચ્ચેનો સંબંધ ચૂકી જાય છે, અને છોકરાને સીધો 'વાંક' ઠેરવી શકે છે.",
+   "correction": "explanation એ અધૂરા વાક્યને પોતાના શબ્દોમાં પૂરું કરે — સૌ સમજે છે કે આટલી નાની ઉંમરે, લાઇસન્સ વગર વાહન ચલાવવું જ આ અકસ્માતનું ખરું કારણ છે — છોકરાને કોઈ પણ પ્રકારનું લેબલ આપ્યા વગર."
+  },
+  {
+   "topic_id": "M2.S2.T3",
+   "avoid_checks": [
+    {
+     "check": "no `explanation`, `real_life_example` or `recall_questions[].answer` may apply an evaluative label (બેજવાબદાર, ગુનેગાર, મૂરખ or a synonym) to સુરેશભાઈ for carrying a third `સવારી` — `original_chunk` shows him staying silent 'શરમના માર્યા', a social pressure the story treats with sympathy, not condemnation.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "`explanation` must name the chosen cause of the fall — accepting a third `સવારી` despite સુરેશભાઈને 'ત્રણ સવારીમાં ચલાવતા ફાવતું નથી' — and must not let 'વાંદરા આડા ઊતરે છે' stand alone as the story's cause; an `explanation` that credits only the monkeys has taught `modified_chunk`'s surface event, not the story's own point.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક વાંદરાને જ અકસ્માતનું કારણ ગણી લે છે અને સુરેશભાઈ શરમના માર્યા ત્રણ સવારીની ના ન પાડી શક્યા એ પસંદગી ચૂકી જાય છે.",
+   "correction": "explanation બતાવે કે વાંદરા તો નિમિત્ત માત્ર હતા — ખરું કારણ ત્રણ સવારી લેવાનો નિર્ણય હતો, જે સુરેશભાઈ શરમના કારણે રોકી ન શક્યા; આ પસંદગી પર જ ધ્યાન દોરવું, સુરેશભાઈને દોષ આપ્યા વગર."
+  },
+  {
+   "topic_id": "M2.S2.T4",
+   "avoid_checks": [
+    {
+     "check": "no `explanation` or `recall_questions[].answer` may assert 'બીકણ' as an accurate description of રાહુલ — the word appears in `original_chunk` only inside પ્રશાંતના મનમાં as his own judgment, which the scene's next lines overturn; `explanation` must show the reversal, not repeat the label as fact.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "`explanation` must connect, in its own words, પ્રશાંતનું 'બીકણ છે' to the સજ્જનનું 'તમારી જેમ કરતાં !' — an `explanation` that reports only that a મોપેડ 'કાર સાથે ટકરાયું' and પ્રશાંતે 'સોરી' કહ્યું, without naming that these two lines answer each other, has missed the one exchange the scene turns on and has added nothing beyond `modified_chunk`.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક 'બીકણ' શબ્દને રાહુલ માટે સાચું વર્ણન ગણી લે છે અને 'તમારી જેમ કરતાં !' વાક્યને એક સાદી માહિતી તરીકે વાંચે છે — પ્રશાંતના પોતાના શબ્દો એની જ સામે પાછા ફરે છે એ જોડાણ ચૂકી જાય છે.",
+   "correction": "explanation બંને પંક્તિઓ સાથે મૂકે — પ્રશાંતનું 'બીકણ છે' અને સજ્જનનું 'તમારી જેમ કરતાં !' — અને બતાવે કે રાહુલ સાચો હતો ને પ્રશાંતની જ ભૂલ સામે આવી, કોઈ પણ અલંકારનું નામ આપ્યા વગર, ફક્ત બંને પંક્તિ ટાંકીને."
+  },
+  {
+   "topic_id": "M2.S3.T5",
+   "avoid_checks": [
+    {
+     "check": "wherever `explanation`, `summary`, `detailed_summary` or a `recall_questions[].answer` states this topic's point, it must quote પપ્પાની પોતાની પંક્તિ — 'બીકણ નહિ, હું આ દેશનો એક સાચો નાગરિક છું' and/or 'ટ્રાફિકના નિયમોને ન પાળનારને હું દેશભક્ત કહેવા તૈયાર નથી' — rather than restate it as the field's own unattributed 'આપણે ... જોઈએ' imperative.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક 'ચોકસાઈ' અને 'બીકણપણું'ને એક જ ગણી લે છે, જેમ વિનય શરૂઆતમાં ગણે છે, અને પપ્પાના પોતાના જવાબનો ખરો અર્થ — નિયમ-પાલન અને દેશભક્તિ વચ્ચેનો સંબંધ — પકડી શકતું નથી.",
+   "correction": "explanation પપ્પાનું વાક્ય ટાંકીને બતાવે કે ડોક્યુમેન્ટ ચેક કરવા એ બીકણપણું નહિ, જવાબદાર નાગરિકપણું છે — વિનયના શરૂઆતના મત અને પપ્પાના જવાબ, બંનેને પોતાના શબ્દોમાં જોડીને."
+  },
+  {
+   "topic_id": "M2.S3.T6",
+   "avoid_checks": [
+    {
+     "check": "no `explanation` or `recall_questions[].answer` may apply an evaluative label (બેજવાબદાર, ગુનેગાર or a synonym) to હેત્વી for taking the `રોંગ સાઈડ` — `original_chunk` moves straight from દાદાની ટકોર to હેત્વીની પોતાની 'હવે હેત્વી કદી રોંગ સાઈડે નહિ જાય', not to a verdict pronounced on her.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "`explanation` must name, in its own words, the two different senses of 'બચી જાય છે' inside દાદાની પંક્તિ 'દસ મિનિટ બચી જાય છે કે રોજ તું માંડ માંડ બચી જાય છે ?' — હેત્વી માટે સમય, દાદા માટે જીવ; an `explanation` that reports only 'દાદાએ હેત્વીને ટોકી' without this word-echo has missed the one line the scene turns on.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક દાદાની પંક્તિ 'દસ મિનિટ બચી જાય છે કે રોજ તું માંડ માંડ બચી જાય છે ?'ને સપાટ પુનરાવર્તન ગણી લે છે અને 'બચી જાય છે' શબ્દના બે જુદા અર્થ (સમય બચવો સામે જીવ બચવો) ચૂકી જાય છે, એટલે દાદા આટલા ગંભીર કેમ થયા એ સમજી શકતું નથી.",
+   "correction": "explanation બંને અર્થ અલગ પાડીને બતાવે — હેત્વી માટે 'બચી જાય છે' એટલે સમય, દાદા માટે એ જ શબ્દ એટલે જીવ — અને એ જ કારણે હેત્વી ચોંકી જાય છે."
+  },
+  {
+   "topic_id": "M3.S4.T7",
+   "avoid_checks": [
+    {
+     "check": "the line 'સાચો દેશપ્રેમ દેશના કાયદા-કાનૂનના પાલનમાં છે' must appear as a quoted line attributed to દાસકાકા wherever `explanation`, `summary`, `detailed_summary` or a `recall_questions[].answer` states the chapter's point — never paraphrased into a bare, unattributed 'આપણે ... જોઈએ' imperative.",
+     "profile": "varta",
+     "severity": "hard"
+    },
+    {
+     "check": "`explanation` must connect દાસકાકાની 'દેશપ્રેમ' claim back to at least one concrete rule from the five દૃશ્યો just read (`ડ્રાઈવિંગ લાઈસન્સ`, હેલ્મેટ, `સવારી`ની સંખ્યા, ફોન, `રોંગ સાઈડ`) in its own words; an `explanation` that leaves 'દેશપ્રેમ' as a free-floating idea with no link back to the ઘટનાઓ has taught a slogan, not this chapter.",
+     "profile": "varta",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક 'સાચો દેશપ્રેમ દેશના કાયદા-કાનૂનના પાલનમાં છે' ને એક મોટી, અમૂર્ત વાત ગણી લે છે અને એને હમણાં જ વાંચેલી પાંચ સાવ સાદી ઘટનાઓ (લાઇસન્સ, હેલ્મેટ, સવારી, ફોન, રોંગ સાઈડ) સાથે જોડી શકતું નથી.",
+   "correction": "explanation દાસકાકાની પંક્તિ ટાંકીને, ઓછામાં ઓછી એક ઘટનાની વિગત (દા.ત. લાઇસન્સ સાથે રાખવું, ત્રણ સવારી ન લેવી) સાથે સીધું જોડે, જેથી 'દેશપ્રેમ' અમૂર્ત નહિ, રોજિંદો બની રહે."
+  }
+ ],
+ "chapter_level": [
+  "genre_confidence is 'low' in 01_meta.json for this whole chapter (varta vs mahitiprad_gadya, per genre_diagnosis.md's own flagged conflict and 04_validation.json's carried-forward note) — the avoid_checks above apply varta.md's hard gates as the working rule per the chapter's actual routing; Agent 13 should not be surprised if a later QC pass revisits routing, but should not block on the routing question itself.",
+  "No topic in this chapter carries `topic_category: 'climax'` — the chapter is a frame holding five independent, self-contained દૃશ્ય-vignettes rather than one plot building toward a single turn, so varta.md's hard gate 4 ('spoiling the turn early') has no single climax topic to anchor a per-topic check to; each દૃશ્ય's own small realization ('પ્રતિજ્ઞા' / 'વિચારવા જેવી વાત'-type line) stays local to its own topic instead.",
+  "The word 'બીકણ' is applied and then reversed twice across the chapter — M2.S2.T4 (પ્રશાંત → રાહુલ) and M2.S3.T5 (વિનય → પપ્પા). This is one chapter-wide pattern that `detailed_summary` may name across both scenes, even though each incident's own `explanation` stays scoped to its own topic per the per-topic checks above.",
+  "Printed age discrepancy carried from 01_meta.json: `original_chunk` of M2.S2.T2 gives the boy's age as 'સત્તર વર્ષનો' (printed p.115), while the printed exercise (સ્વાધ્યાય block 2 item 4, outside this chapter's topics) calls the same boy 'સોળ વર્ષનો' (printed p.118). Any topic-level field referencing this age must use 'સત્તર' — the number this topic's own `original_chunk` states — and must not silently reconcile it with the exercise's number; the exercise itself is Agent 10's field, answered from its own page.",
+  "L2 false-friend words verified on this chapter's own page, flagged here for gloss-awareness rather than as a per-topic misconception: `માથું` (M2.S2.T2's 'માથામાં વાગ્યું નથી' / 'માથા પરથી હેલ્મેટ ખોલી', and M2.S2.T3's 'સરોજબહેનનું માથું પથ્થર સાથે અથડાય છે' — 'the whole head', not Hindi *matha*'s 'forehead'); `છોકરો` (M2.S2.T2's 'માત્ર સત્તર વર્ષનો છોકરો' — a neutral, sympathetic word for 'boy', not Hindi *chhokra*'s rough register); and `સવાર` (M2.S2.T2's 'સવારનો સમય' — 'morning', not Hindi *savar*'s 'rider' — contrast with this chapter's own, unrelated `સવારી` = 'passenger', the operative word of M2.S2.T3)."
+ ]
+}

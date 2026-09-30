@@ -1,0 +1,11 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9",
+  "textbook_url": "../Textbooks-pdf/std-9/ch-07-navsarjanni-vate.pdf",
+  "textbook_pages": "30-31",
+  "source": "printed folio, read off renders (150 dpi and 400 dpi) of pdf pp. 1 and 2 of the chapter PDF (both pages of this 2-page unit): p.1 folio '30', page-footer 'ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9'; p.2 folio '31', page-footer 'નવસર્જનની વાટે'. Matches manifest.json (printed_start 30, pdf_start 34, pdf_end 35) and 01_meta.json exactly.",
+  "confidence": "medium",
+  "gaps": [
+    "textbook_url is a local path — the GSEB readers have no hosted URL",
+    "textbook title read off this chapter's own page-footer only, not off the actual front-cover spread; profiles/boards/gseb_gujarati.md notes the std-9 cover has not been read yet, so the title stays unconfirmed at cover level pending that verification"
+  ]
+}

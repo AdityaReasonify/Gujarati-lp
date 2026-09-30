@@ -1,0 +1,45 @@
+{
+ "media": [
+  {
+   "topic_id": "M1.S1.T1",
+   "concept_id": "M1.S1.T1.C1",
+   "id": "M1.S1.T1.C1.IMG1",
+   "type": "image",
+   "subtype": "illustration",
+   "title": "ગાર્ગીની શાળાએ જવાની સવાર",
+   "description": "સવારે ગાર્ગી શાળાએ જવા તૈયાર થઈને બારણે ઊભી છે, જ્યારે વિનુદાદા વિમળાબા માટે ચા બનાવતાં ઘડિયાળ સામે જુએ છે.",
+   "image_url": "",
+   "aspect_ratio": "16:9",
+   "home_concept_id": "M1.S1.T1.C1",
+   "objective_id": null,
+   "image_category": "illustration",
+   "teaching_notes": "ચિત્ર બંધાય ત્યાં સુધી શિક્ષક આ સવારના ઘરેલુ દૃશ્ય પરથી વર્ગને પૂછી શકે કે ગાર્ગી કેમ ઉતાવળમાં છે અને શાળામાં આજે કયા કાર્યક્રમની વાત નીકળી હતી.",
+   "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects",
+   "generation_prompt": "A modest flat inside a housing society in Gujarat, early morning light. A schoolgirl of about thirteen, hair in a tight braid, wearing a plain grey-and-maroon school uniform with a cloth school bag slung over one shoulder, pauses at the open front door about to leave, glancing back over her shoulder. Behind her in the small kitchen-living area, an elderly grandfather with white hair, round spectacles and a white kurta over a dhoti pours tea from a stainless-steel kettle into a cup, glancing up at a round wall clock mounted on the wall. An elderly grandmother in a plain cotton saree, grey hair in a low bun, sits at a small wooden table waiting for her tea, a covered steel plate beside her cup. Morning light falls through a barred window; a potted tulsi plant sits on the windowsill. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+  },
+  {
+   "topic_id": "M3.S5.T5",
+   "concept_id": "M3.S5.T5.C8",
+   "id": "M3.S5.T5.C8.IMG1",
+   "type": "image",
+   "subtype": "illustration",
+   "title": "ધ્વજવંદન પછી રાસ-ગરબાની કૃતિ-રજૂઆત",
+   "description": "ધ્વજવંદન પછી સ્ટેજ પર ગુજરાતી જૂથ નરસિંહ મહેતાની વેશભૂષામાં પ્રભાતિયાં અને રાસ-ગરબા રજૂ કરે છે, જ્યારે બીજા રાજ્યોના પરિવારો પોતપોતાના પોશાકમાં ઊભા રહી જુએ છે.",
+   "image_url": "",
+   "aspect_ratio": "16:9",
+   "home_concept_id": "M3.S5.T5.C8",
+   "objective_id": null,
+   "image_category": "illustration",
+   "teaching_notes": "ચિત્ર બંધાય ત્યાં સુધી શિક્ષક વર્ગને પૂછી શકે કે ગુજરાતી જૂથની રજૂઆત કોણે કરી અને શા માટે, જેથી બાળકોને 'પોતાના રાજ્ય સિવાયની કૃતિ' શરતનો અર્થ ફરી યાદ આવે.",
+   "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, caricature exaggeration, mocking or disrespectful expression, any community's dress shown as comic stereotype, scoreboard or ranking numbers",
+   "generation_prompt": "A housing-society ground in Gujarat, decorated for Republic Day, afternoon light. On a raised stage, a turbaned Punjabi man with a full beard, dressed in a plain saffron dhoti and shawl draped like a wandering poet-saint, sings with his eyes half closed while a circle of children in bright kediyu-dhotiyu and chaniya-choli dance raas around him, striking wooden dandiya sticks together. Behind the stage a tall flagpole flies the Indian tricolour against a clear afternoon sky, with strings of marigold and paper-flag bunting along the stage edge. Around the stage, families stand watching and clapping, dressed in a mix of Indian regional clothing — Maharashtrian nauvari sarees, white-and-red Bengali sarees, Tamil silk sarees and veshti, Punjabi phulkari dupattas. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+  }
+ ],
+ "2d_tool": null,
+ "reuse_report": {
+  "scenes": 2,
+  "reused": 0,
+  "authored": 2,
+  "rejected": []
+ }
+}

@@ -1,0 +1,333 @@
+{
+  "chapter_id": "gseb_eng_gujarati10_ch2",
+  "plan_id": "gseb_eng_gujarati10_ch2_v1",
+  "genre": "વાર્તા",
+  "active_genre_profiles": ["varta.md"],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "ગવરીની જાનમાં વાગતી રમઝુ મીરની શરણાઈનો સૂર કઈ ઘડીએ બદલાઈ જાય છે, અને એ બદલાવ આપણને રમઝુ વિશે શું કહી જાય છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક-પરિચય અને કૃતિ-પરિચયના ફકરા વાંચી, 'શરણાઈના સૂર' લગ્નપ્રસંગની આડમાં એક પિતાની વેદના વ્યક્ત કરતી કરુણ રસની વાર્તા છે એ કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ટૂંકાં ટૂંકાં વાક્યોમાં વર્ણવાયેલી લગ્નની તૈયારીની પંક્તિઓ શોધી, રમઝુની શરણાઈ કઈ ઘડીએ જાનમાં ભળે છે તે કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M2.S2.T2",
+      "anchor": ["M2.S2.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અડાણા સૂરની અસર વર્ણવતી પંક્તિઓ વાંચી, રમઝુની શરણાઈ કેવળ સૂર વડે શ્રોતાઓની આંખ સામે નવોઢાનું કલ્પનાચિત્ર કેવી રીતે ખડું કરે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": ["M2.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ભૂધર મેરાઈના હડસેલા પછી રમઝુની શરણાઈનો સૂર બદલાઈ જવાની ક્ષણ શોધી, અડાણાનો ઉન્માદ ઓસરીને એને સ્થાને કયું દર્દ આવે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S3.T4",
+      "anchor": ["M3.S3.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રમઝુએ સકીનાને કેવળ મા-બાપ બંનેના વહાલથી ઉછેરી એ વર્ણવતી પંક્તિઓ વાંચી, શરણાઈ અને સકીના રમઝુના જીવનમાં કેમ એકબીજા સાથે વણાઈ ગયાં હતાં તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S4.T5",
+      "anchor": ["M3.S4.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગવરીની માતાનાં અટકેલાં આંસુ અને રમઝુની શરણાઈ વચ્ચેનો સંબંધ તપાસી, માતા વાચાથી ન કહી શકતી લાગણી રમઝુ પોતાના સૂર વાટે કેવી રીતે વ્યક્ત કરે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M4.S5.T6",
+      "anchor": ["M4.S5.T6.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "તળશીભાઈ અને ભૂધર મેરાઈના ઠપકાના સંવાદો વાંચી, રમઝુને 'ડાગળી ચસકેલ' ગણતા લોકોના મત અને રમઝુની સાચી વેદના વચ્ચેનો ભેદ સમજાવવો.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M4.S6.T7",
+      "anchor": ["M4.S6.T7.C7"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કબ્રસ્તાનમાં રમઝુની છેલ્લી સુરાવટનું વર્ણન વાંચી, મિલન અને વિયોગના મિશ્ર ભાવો એ સૂરમાં કેવી રીતે ગૂંથાયા છે અને વાર્તા શા માટે કરુણ રસમાં પૂરી થાય છે તે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M5.S7.T8",
+      "anchor": ["M5.S7.T8.C8"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "પરિચય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "લેખક અને કૃતિનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "લેખક-પરિચય અને કૃતિ-પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "ચુનીલાલ મડિયા અને 'શરણાઈના સૂર'નો પરિચય"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "લગ્નજાનમાં શરણાઈનો જાદુ",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "લગ્નની તૈયારી અને જાનનું પ્રયાણ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T2",
+              "topic_name": "લગ્નની તૈયારી અને જાનનું પ્રયાણ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T2.C2",
+                  "concept_name": "માંડવેથી જાનના પ્રયાણ સુધીની ટૂંકી તૈયારી અને શરણાઈનો આરંભ"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "રમઝુ મીરની શરણાઈની જાદુઈ અસર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M2.S2.T2"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "અડાણાના સૂરથી બજારમાં રચાતી નવોઢાની કલ્પનાસૃષ્ટિ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "સ્મરણનો સણકો અને પાર્શ્વભૂમિ",
+      "segments": [
+        {
+          "segment_id": "M3.S3",
+          "segment_name": "સૂર બદલાવાની ઘડી",
+          "topics": [
+            {
+              "topic_id": "M3.S3.T4",
+              "topic_name": "સ્મરણનો સણકો — સૂર બદલાય છે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": ["M2.S2.T3"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S3.T4.C4",
+                  "concept_name": "ભૂધર મેરાઈના હડસેલા પછી ઊઠેલો સકીનાનો સણકો અને શરણાઈના સૂરનો પલટો"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S4",
+          "segment_name": "રમઝુ અને સકીનાની પાર્શ્વભૂમિ",
+          "topics": [
+            {
+              "topic_id": "M3.S4.T5",
+              "topic_name": "રમઝુ અને સકીનાની પાર્શ્વભૂમિ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": ["M3.S3.T4"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T5.C5",
+                  "concept_name": "વિધુર રમઝુનું સકીના પ્રત્યેનું બેવડું વાત્સલ્ય અને સકીનાનું અકળ મૃત્યુ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M4",
+      "module_name": "ગવરીની વિદાય અને વેવાઈનો ઠપકો",
+      "segments": [
+        {
+          "segment_id": "M4.S5",
+          "segment_name": "ગવરીની વિદાય",
+          "topics": [
+            {
+              "topic_id": "M4.S5.T6",
+              "topic_name": "ગવરીની વિદાય",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M3.S4.T5"],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M4.S5.T6.C6",
+                  "concept_name": "પીપળા હેઠળ ગવરીની વિદાય અને માતાની અટકેલી લાગણી શરણાઈમાં વ્યક્ત થવી"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M4.S6",
+          "segment_name": "તળશીભાઈની અકળામણ અને ભૂધર મેરાઈનો ઠપકો",
+          "topics": [
+            {
+              "topic_id": "M4.S6.T7",
+              "topic_name": "તળશીભાઈની અકળામણ અને ભૂધર મેરાઈનો ઠપકો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M4.S5.T6"],
+              "objective_ids": ["O7"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M4.S6.T7.C7",
+                  "concept_name": "વેવાઈની ફરિયાદ, મેરાઈનો ઠપકો અને રમઝુ ધૂનમાં સીમને મારગે નીકળી પડવો"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M5",
+      "module_name": "કબ્રસ્તાનમાં અંતિમ સુરાવટ",
+      "segments": [
+        {
+          "segment_id": "M5.S7",
+          "segment_name": "કબ્રસ્તાનમાં અંતિમ સુરાવટ",
+          "topics": [
+            {
+              "topic_id": "M5.S7.T8",
+              "topic_name": "કબ્રસ્તાનમાં અંતિમ સુરાવટ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": ["M4.S6.T7"],
+              "objective_ids": ["O8"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M5.S7.T8.C8",
+                  "concept_name": "મૃત પત્નીની કબર પાસે રમઝુની છેલ્લી સુરાવટ અને વાર્તાનો કરુણાંત"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Explanation unit = ઘટના (varta.md's HARD unit; this is a ટૂંકીવાર્તા sub-form). Seven [[ઘટના: ...]] markers plus the unmarked-but-required લેખક-પરિચય/કૃતિ-પરિચય CONCEPT topic (printed for the student, per explanation_unit_map.md's std-10 rule and 01_meta.json's extraction_notes) give 8 topics total — matches Agent 1's marker count and structure_inventory.ghatna:7 exactly; no marker was swallowed, no topic invented where no marker sits.",
+    "Topic names and ids follow the seven [[ઘટના: ...]] markers verbatim from 00_chapter_normalized.md, in printed order: લગ્નની તૈયારી (split below), રમઝુ મીરની શરણાઈની જાદુઈ અસર, સ્મરણનો સણકો — સૂર બદલાય છે, રમઝુ અને સકીનાની પાર્શ્વભૂમિ, ગવરીની વિદાય, તળશીભાઈની અકળામણ અને ભૂધર મેરાઈનો ઠપકો, કબ્રસ્તાનમાં અંતિમ સુરાવટ.",
+    "M2.S2 holds two topics under one segment name because the marker [[ઘટના: લગ્નની તૈયારી]] itself runs from the માંડવો-વધાવવું opening straight through the market procession into the start of the અડાણો (the marker text is one continuous block ending only where the next marker [[ઘટના: રમઝુ મીરની શરણાઈની જાદુઈ અસર]] begins) — but inside that single marked block the printed text does two separable things: (a) a short, ટૂંકાં-વાક્યોવાળી તૈયારી-થી-જાન-ઊઘડવા સુધીની ઘટના, then (b) a long, tonally distinct set-piece describing the શરણાઈની જાદુઈ અસર building in the bazaar (the paragraph ends mid-sentence '...શરણાઈની એવી તો' and the marker [[ઘટના: રમઝુ મીરની શરણાઈની જાદુઈ અસર]] picks up 'રમઝટ જમાવી હતી કે...' — one sentence split across the page-marker boundary). Per agents/02_structure.md step 3 ('give a topic two only when it genuinely does two separable things') and explanation_unit_map.md's rule 3 ('if a કડી does two clearly different things it may split'), the printed તૈયારી portion of the [[ઘટના: લગ્નની તૈયારી]] block was kept as its own topic (M2.S2.T2) distinct from the shrenaai-effect portion that leads directly into the marked [[ઘટના: રમઝુ મીરની શરણાઈની જાદુઈ અસર]] topic (M2.S2.T3) — the two remain in the same segment because both belong to the single un-turned rising-action movement before the memory intrudes. This is a within-marker split for teaching clarity only; Agent 5 must ensure the combined original_chunk of M2.S2.T2 + M2.S2.T3 together reproduces the [[ઘટના: લગ્નની તૈયારી]] marker's full printed text plus the [[ઘટના: રમઝુ મીરની શરણાઈની જાદુઈ અસર]] marker's full printed text, with nothing dropped or duplicated at the join.",
+    "The four embedded લગ્નગીત/વિદાયગીત couplets ('આ દશ આ દશ પીપળો...', 'ખોલો ગવરીબાઈ ઘૂંઘટો...', 'આછલાં કંકુ ઘોળ રે લાડી...', 'દાદાને આંગણે આંબલો...') and the closing 'એક આવ્યો'તો પરદેશી પોપટો...' stay verbatim inside their surrounding ઘટના topics (M2.S2.T2, M3.S3.T4, M4.S5.T6) per varta.md's rule that verse quoted inside a prose scene stays inside that scene's topic and is never cut કડી-wise or made a separate topic — matching 01_meta.json's extraction_notes explicitly on this point.",
+    "topic_category on M3.S3.T4 is 'climax' because this is the exact ઘટના the chapter's own guiding_question asks about — the moment Ramzu's sur turns from ઉન્માદ/ઉમંગ to દર્દ after Bhudhar Merai's hadselo, which the chapter marks with its own line 'અને આપોઆપ એની શરણાઈનો સૂર બદલાઈ ગયો.' No topic before M3.S3.T4 names the turn or its cause (spoiling-the-turn-early gate honoured). M5.S7.T8 (કબ્રસ્તાનમાં અંતિમ સુરાવટ) is marked 'resolution' as the chapter's own final printed ઘટના and final line ('એ પછી એ શરણાઈ કે સૂર ગામલોકોને કદી સાંભળવા મળ્યા જ નહિ.').",
+    "difficulty is set relative to this chapter only, per the std 9-10 row of the difficulty table in agents/02_structure.md ('medieval or તત્સમ-dense verse, a named-device line, a સંવાદ carrying the argument's turn'): M2.S2.T3 (dense તત્સમ-heavy sensory/craft description of the અડાણો, long unbroken paragraphs) and M3.S3.T4 (the તાનપલટો carrying the whole story's turn, plus a dense simile paragraph) and M5.S7.T8 (dense, compressed closing imagery 'મિલન અને વિયોગના મિશ્ર ભાવોની ગંગા-જમના') are 'hard'; M3.S4.T5 (longer but plainer narrated backstory), M4.S5.T6 and M4.S6.T7 (dialogue-carrying scenes, જોડાક્ષર-heavy સોરઠી બોલી but not craft-dense) are 'medium'; the short apparatus-style concept topic is 'easy'. No difficulty rating names or implies a craft label — this chapter is prose (structure_inventory confirms kadi:0, duha:0, pad:0, tek_occurrences:0), so no verse-specific cutting rule applied; the pure ઘટના-wise cut of varta.md governed throughout.",
+    "No topic was cut from a સ્વાધ્યાય block, the five શબ્દ-સમજૂતી sub-boxes, વિદ્યાર્થી પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ or શિક્ષકની ભૂમિકા block — all remain apparatus for Agent 10 per 01_meta.json's exercise_inventory and extraction_notes; none is counted here or elsewhere as a topic.",
+    "No અલંકાર or છંદ is named anywhere in objective_text; per teaching_lens_map.md's craft-naming gate this chapter is prose (no છંદ applies) and no figure of speech is asserted without a printed apparatus or verified registry entry — Agent 6/7's downstream figures_of_speech field, not this agent's, if any device is ever named at all for a prose chapter.",
+    "The turn (M3.S3.T4) is named as 'climax' and every field before it in reading order avoids naming Ramzu's grief-cause or Sakina by name ahead of the turn's own topic, honouring varta.md's hard gate against spoiling the turn early; M3.S4.T5 (the backstory) is placed AFTER the turn, matching the chapter's own printed order (the flashback follows the turn, it does not precede it), so no topic anticipates the reveal.",
+    "No evaluative label (ગાંડો, પાગલ, મગજ-મેટ synonyms) is applied to રમઝુ મીર in any topic_name or concept_name — those words appear only inside other characters' dialogue in original_chunk (Agent 5's territory) and are never adopted as the plan's own framing of a character the text treats with deep sympathy, per varta.md's hard gate 3.",
+    "original_chunk left empty in every topic and concepts[] carry only concept_name shells, per this agent's spec (Agent 5 fills original_chunk; Agent 12 fills explanation/real_life_example).",
+    "The '(‘શરણાઈના સૂર’ માંથી)' attribution line printed at the very end of the chapter (00_chapter_normalized.md line 171) belongs inside the LAST topic's (M5.S7.T8) original_chunk per reference/gujarati_verbatim.md and varta.md's excerpt-attribution rule — recorded here as a note to Agent 5, not composed or placed by this agent.",
+    "Author-name and pixel-level verification (ચુનીલાલ કાણિદાસ મડિયા) already resolved by Agent 1 in 01_meta.json's extraction_notes; not re-verified here — Agent 2 relies on 00_chapter_normalized.md as the source of truth per this run's instructions and did not open any PNG render, since the normalized transcription answered every question this cut required."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "43abf8ebfecf20b64476f1432f2d8bdbc0f1e0d6637e8768d948ecdf64dab67d",
+  "verdict": "pass",
+  "notes": [
+    "Ids frozen from this point: M1-M5 / S1-S7 / T1-T8 / C1-C8, O1-O8, L1-L8 as written in 02_structure.json.",
+    "Downstream agents read 02_structure.json directly for structure; this file only confirms convergence and pins the exact structure hash validated.",
+    "Full check detail lives in 04_validation.json (status pass, no blocking findings)."
+  ]
+}

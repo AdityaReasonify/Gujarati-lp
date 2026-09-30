@@ -1,0 +1,57 @@
+{
+  "topics": [
+    {
+      "topic_id": "M2.S3.T7",
+      "areas": ["જાતિ-ભૂમિકા"],
+      "caution": "The explanation retells the ટૂચકો's instruction to knock at a 'વાંઝણી સ્ત્રી' (a woman without children) at night to pass off the illness, risking the impression that childlessness is something shameful or transferable.",
+      "guidance": "In `explanation`, frame this as the coworker's superstitious joke that the narrator himself finds improper ('પરાયે ઘર... રાતે એકલા જવાનું ઠીક ન લાગવાથી') and that never works ('આંજણી તો જેમની તેમ રહી') — the humor is in the absurd advice, not in the woman's status, so do not repeat the word 'વાંઝણી' as if it were a normal descriptor in the explanation prose.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S3.T8",
+      "areas": ["સમુદાય"],
+      "caution": "The mill 'ભૈયો' speaks Hindi-mixed Gujarati ('જી ઈસમેં ક્યા બડી બાત હૈ') — the explanation could flatten this into mockery of how migrant workers from other states speak.",
+      "guidance": "In `explanation`, note the code-mixed speech only as the essay's own comic device for showing many different advice-givers, exactly as printed in `original_chunk`, without any comment on the speaker's origin or accent being funny in itself.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S3.T8",
+      "areas": ["સુરક્ષા"],
+      "caution": "The ભૈયો recommends drinking ભાંગ (a cannabis preparation) daily as a cure — an explanation that states this as a real remedy could read as endorsing a child trying an intoxicant.",
+      "guidance": "In `explanation`, keep that the narrator refuses ('હું ભાંગ કે બીજો કોઈ કેફી પદાર્થ પીતો નથી... એની સલાહનો મેં અમલ કર્યો નહિ') as the point of the scene — one more piece of useless, even risky, unsolicited advice — and never describe ભાંગ as helpful for an eye ailment.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S4.T10",
+      "areas": ["સમુદાય"],
+      "caution": "The gunny-sack seller is named as 'મારવાડી' and speaks of being too poor for a doctor ('અમે દાક્તરના પૈસા ભરીએ તો મરી જઈએ') — the explanation could turn this into a stereotype of Marwari poverty rather than the essay's actual point.",
+      "guidance": "In `explanation`, keep 'મારવાડી' as the essay's own naming of the seller's community and treat his remark as one more voice in the chain of unsolicited advice-givers, never as a generalization about Marwari people's economic condition.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S4.T10",
+      "areas": ["સુરક્ષા"],
+      "caution": "The heated gunny-cloth compress (ગોણનો ચપકો) is applied directly to the eye and the text itself says it made the pain worse ('પરિણામમાં દરદ વધ્યું') — a child could read this as a home remedy worth copying.",
+      "guidance": "In `explanation`, state plainly that this heated compress made things worse, and in `real_life_example` never suggest a child apply heat, sindoor, onion juice, or any of the essay's remedies to an eye or skin at home.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S4.T11",
+      "areas": ["સમુદાય"],
+      "caution": "The Parsi friend's line ('આય સું ગોજું કરી મૂક્યું છે... આંખને ઘી ગોરના લવારા કાંય ખવારોછ') is written in Parsi-inflected Gujarati — the explanation could imitate or mock this accent instead of treating it as the essay's own voice.",
+      "guidance": "In `explanation`, keep the quoted line exactly as printed in `original_chunk` and describe the friend simply as one more well-meaning advice-giver, without any comment on how Parsis speak Gujarati.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "સુરક્ષા",
+      "guidance": "Across the chapter's ઘટનાઓ, keep every home remedy (કેસર, સિંદૂર, ભાંગ, ડુંગળીનો રસ, ગરમ ગોણનો શેક, રૂની સફેદી, ચંદન, સૂંઠ, લવિંગ) as the essay's comic catalogue of useless — and sometimes harmful — unsolicited advice; each topic's `real_life_example` should draw on a child's own experience of unwanted advice, never on trying a remedy on an eye or any body part."
+    },
+    {
+      "area": "સમુદાય",
+      "guidance": "The chapter quotes a mill-worker's Hindi-mixed speech, a Parsi friend's inflected Gujarati, and names a 'મારવાડી' seller — keep all of it verbatim as the essay's own device for showing how widely and variously people offer advice, and never let any topic's explanation generalize a trait to that whole community."
+    }
+  ],
+  "none_found": false
+}

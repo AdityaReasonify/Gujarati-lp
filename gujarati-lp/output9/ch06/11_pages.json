@@ -1,0 +1,8 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9",
+  "textbook_url": "../Textbooks-pdf/std-9/ch-06-bhasha-jay-to-sanskruti-jay.pdf",
+  "textbook_pages": "17-20",
+  "source": "printed folio, read off renders of pdf pp. 1 and 4 of the chapter PDF (150 dpi): page 1 prints folio 17 in the footer next to the chapter title, and page 4 prints folio 20 in the footer. Cross-checked against manifest.json's std-9 row (printed_start 17, pdf_start 21, pdf_end 24, i.e. 4 pages, matching the chapter PDF's own page count) and the std-9 offset (N+4) in profiles/boards/gseb_gujarati.md — all three agree.",
+  "confidence": "medium",
+  "gaps": ["textbook_url is a local path — the GSEB readers have no hosted URL", "textbook title copied from 01_meta.json; the std-9 cover itself has not been read/confirmed (per agents/11_pagination_source.md, std 8 and 9 covers are not yet confirmed in the board profile)", "the page-4 footer's standard-number text renders ambiguously at low dpi (a known artifact already logged in 01_meta.json's extraction_notes as misread 'ધોરણ 7' at 150 dpi, confirmed ધોરણ 9 at 300 dpi); this does not affect the folio number 20 itself, which is legible at 150 dpi, but is noted here since it touches this same footer line"]
+}

@@ -1,0 +1,39 @@
+{
+ "topics": [
+  {
+   "topic_id": "M2.S3.T3",
+   "areas": ["સમુદાય"],
+   "caution": "The explanation or real_life_example turns સમશેરસિંગનું code-switched Hindi-Punjabi speech ('ऐसे कैसे करेंगे ? अपना डान्स हो तो अच्छे से कर सकते है...') into mimicry of an accent rather than an example of the society's genuine linguistic mix.",
+   "guidance": "Treat the dialect line as the text's own device for showing ભારતનગર સોસાયટીની ભાષા-વિવિધતા (Punjabi, Marathi, Tamil, Bengali, Marwari, Gujarati, Haryanvi families living together) — name each community as the chapter names it, and keep the explanation's register the same warm, matter-of-fact one the passage uses.",
+   "severity": "soft"
+  },
+  {
+   "topic_id": "M3.S5.T5",
+   "areas": ["ધર્મ"],
+   "caution": "The explanation or real_life_example states something about નરસિંહ મહેતા, Swami Vivekanand, Raja Rammohan Roy or Ishwarchandra Vidyasagar that is not printed in the chunk (a birth date, a doctrine, a claim about what they 'believed'), or turns સમશેરસિંગ's નરસિંહ મહેતાની વેશભૂષા/પ્રભાતિયાં performance and the બંગાળી જૂથની 'જાત્રા' into a lesson about bhakti or Krishna devotion.",
+   "guidance": "Stay with what the passage actually says — these are stage performances at a society event, portraying real people's costume/songs and craft as culture, not devotional instruction; only facts the chunk itself states about these named real persons may appear.",
+   "severity": "hard"
+  },
+  {
+   "topic_id": "M3.S5.T5",
+   "areas": ["ક્ષેત્ર"],
+   "caution": "The explanation either turns રસિકભાઈની ખાપ પંચાયતના મુખીની ભૂમિકા into a cute curiosity or drags in the modern real-world controversy around ખાપ પંચાયત that this chapter never raises.",
+   "guidance": "Describe ખાપ પંચાયત exactly as the chapter frames it — a traditional Punjab-Haryana village-council custom performed as one of many regional-culture skits at the celebration — with no added commentary either way.",
+   "severity": "soft"
+  },
+  {
+   "topic_id": "M3.S5.T5",
+   "areas": ["સમુદાય"],
+   "caution": "The explanation of જોસેફભાઈના હરિયાણવી ઉચ્ચાર reads as poking fun at a South Indian man's accent rather than the chapter's own delight in it.",
+   "guidance": "Keep the text's own celebratory framing — 'લોકોને મજા આવી' is delight at someone crossing a linguistic line well, not ridicule of how he sounds; the real_life_example should mirror that warmth (e.g. enjoying a friend who has picked up another region's speech), never mock an accent.",
+   "severity": "soft"
+  }
+ ],
+ "chapter_level": [
+  {
+   "area": "સમુદાય",
+   "guidance": "This chapter names many real linguistic/regional communities living in one society (ગુજરાતી, પંજાબી, મરાઠી, તમિળ, બંગાળી, મારવાડી, હરિયાણવી) and has each group perform another's culture — always use the chapter's own community names, never a lump term, and keep the text's celebratory 'વિવિધતામાં એકતા' register in every explanation and recall answer."
+  }
+ ],
+ "none_found": false
+}

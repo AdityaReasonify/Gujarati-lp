@@ -1,0 +1,215 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [],
+      "misconception": "બાળક `ફાધર`ને માત્ર લેખકનું નામ/ઉપનામ સમજી લે છે, અને એ ખ્યાલ નથી રાખતો કે આ પાદરી માટેનું માનવાચક સંબોધન છે — પરિણામે આગળ નિબંધમાં જ્યારે બીજાં પાત્રો લેખકને `ફાધર` કહીને સંબોધે છે (દા.ત. M2.S2.T3માં મિત્રનો દીકરો), ત્યારે બાળક એને દીકરાના પોતાના સગા બાપ સાથે ગૂંચવી બેસે છે.",
+      "correction": "explanation માં પહેલેથી જ સ્પષ્ટ કરવું કે `ફાધર` એ કાર્લોસ જી વાલેસનું પાદરી તરીકેનું માનવાચક સંબોધન છે (નામનો ભાગ, `પિતા/બાપ` નહિ), અને નોંધવું કે નિબંધમાં આગળ લોકો તેમને આ જ નામે બોલાવે છે — જેથી M2.S2.T3 વાંચતી વખતે બાળક `ફાધર` અને `બાપ` બંનેને સાચી રીતે ઓળખી શકે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `detailed_summary`, or any `recall_questions[].answer` may end on a directive urging the child to preserve/save Gujarati (a `…જોઈએ` / `…કરો` clause, e.g. `આપણે ગુજરાતી ભાષા બચાવવી જોઈએ`). The thesis `ભાષા બચે તો જ સંસ્કૃતિ બચે` must be reported as the essay's own claim (`નિબંધ કહે છે કે…`, `લેખકના મતે…`), never issued as an instruction to the reading child.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક કૃતિ-પરિચયના `ભાષા બચે તો સંસ્કૃતિ બચે` વાક્યને થીમ તરીકે ગોખી લે છે, પણ નિબંધની કઈ ઘટના કે પંક્તિ આ વાત સાબિત કરે છે એ ટાંકી શકતો નથી — વિષય કહી શકે છે, પુરાવો નહિ (std 9ની લાક્ષણિક ભૂલ: `પંક્તિ વગરની થીમ`).",
+      "correction": "explanation અને recall_questions બંનેમાં થીમના વિધાન સાથે નિબંધની કોઈ એક નક્કર ઘટના કે પંક્તિ જોડવી (દા.ત. `મમ્મીની સાડી… પપ્પાની ભાષા… ઉપનિષદની પ્રાર્થના… જશે`), જેથી બાળક થીમને પાઠના શબ્દો પર ટકાવીને કહેતાં શીખે, હવામાં નહિ."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "explanation must not attach a character-judging word (ઉદ્ધત, અસભ્ય, કૃતઘ્ન, સ્વાર્થી, બેશરમ) to the friend's son; only his own reported reaction — `મોં ઉપર અણગમો`, `ગુસ્સાથી પીઠ ફેરવીને ચાલી ગયો` — and his stated reason (`એમને અંગ્રેજ આવડે છે`) may be named.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "real_life_example must land on one specific, doable, non-blaming action the child can take this week (e.g. noticing or joining in when an elder speaks Gujarati); it must not imply that a child embarrassed by a parent's Gujarati, or who feels closer to English, is behaving shamefully like the son.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ગૂંચવાય છે કે `ફાધરની સાથે… બોલો છો ?` વાક્યમાં દીકરો કોને સંબોધે છે — એ પકડી શકતો નથી કે `ફાધર` એટલે લેખક પોતે (મુલાકાતી પાદરી) અને દીકરો પોતાના સગા બાપને જ અંગ્રેજીમાં ફરિયાદ કરી રહ્યો છે; પરિણામે કોણ કોને શું કહે છે એ આખી ઘટના ગૂંચવાઈ જાય છે.",
+      "correction": "explanation ના પહેલા વાક્યથી જ ત્રણ વ્યક્તિ સ્પષ્ટ કરવી — `હું/લેખક` જેને દીકરો `ફાધર` કહે છે, `મિત્ર` જે દીકરાનો સગો બાપ છે, અને `દીકરો` જે પોતાના બાપને અંગ્રેજીમાં ફરિયાદ કરે છે — M1.S1.T1માં અપાયેલા `ફાધર` ગ્લોસ સાથે જોડીને."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "explanation must not attach a judging word (સ્વાર્થી, બેશરમ, અસભ્ય) to the son; his tone is printed as mixed — `લાડ અને ફરિયાદના મિશ્ર અવાજે` — and explanation must keep that mixed quality, not flatten it into pure rudeness.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "real_life_example must not guilt a child who is themself sometimes embarrassed by a parent's traditional dress or habit; it must land on one doable, non-blaming action.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક વિચારે છે કે મમ્મીએ દીકરાની વાત સાંભળીને કંઈ જવાબ જ ન આપ્યો, જ્યારે ખરેખર (objective O4 મુજબ) મમ્મીનો જવાબ એ જ છે કે એણે સાડી બદલી નહિ — એનું ચૂપ રહેવું અને પસંદગી પર અડગ રહેવું જ એનો જવાબ છે, જેને બાળક `કોઈ જવાબ નહિ` તરીકે વાંચી લે છે.",
+      "correction": "explanation અને recall_questions[].answer બંનેમાં સ્પષ્ટ લખવું કે મમ્મીનો જવાબ શબ્દોમાં નહિ પણ ક્રિયામાં હતો — `સાડી તો નહિ બદલી` એ જ એનો જવાબ — જેથી બાળક સમજે કે ચૂપ રહીને પસંદગી પર અડગ રહેવું એ પણ એક જવાબ છે."
+    },
+    {
+      "topic_id": "M2.S2.T5",
+      "avoid_checks": [
+        {
+          "check": "real_life_example must not shame a child who does not know a prayer or verse by heart; it must offer one doable action (e.g. asking a family elder to teach one line) rather than dwelling on what the child lacks.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "no sentence of explanation may turn this into a directive about religious observance (`તમારે પ્રાર્થના મોઢે રાખવી જોઈએ`); the topic's own point is a language/cultural-transmission loss, not a call to worship.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `સંકોચ તો ન હતો, પણ આવડતી જ ન હતી` વાક્ય છતાં માની લે છે કે છોકરીઓ શરમને લીધે પ્રાર્થના ન બોલી — જ્યારે લેખક ખાસ સ્પષ્ટતાથી શરમ(સંકોચ)ને નકારીને `ન આવડવું`ને જ કારણ ગણાવે છે, જે ભાષા-સંસ્કૃતિથી દૂર થવાનો પુરાવો છે, વ્યક્તિગત સ્વભાવનો નહિ.",
+      "correction": "explanation માં `સંકોચ તો ન હતો, પણ આવડતી જ ન હતી` બંને શબ્દસમૂહ સાથે ટાંકીને સ્પષ્ટ કરવું કે લેખક શરમને જ નકારે છે — જેથી બાળક કારણ (ન જાણવું) અને લક્ષણ (શરમાવું) વચ્ચેનો ફેર પકડી શકે."
+    },
+    {
+      "topic_id": "M3.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "explanation must not diagnose the son with a judging label (દંભી, કૃતઘ્ન) for the contradiction; the text only states the contrast (`વિરોધાભાસ`) between the saree's international prestige and his personal rejection — it names no motive, and explanation must not invent one.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક આ ટોપિકને M2.S2.T4ની ઘટનાનું પુનરાવર્તન સમજી ફરી એ જ કિસ્સો કહી નાખે છે, જ્યારે ખરેખર આ તર્કનું નવું, વિશ્લેષણનું પગલું છે — લેખક હવે એ ઘટના પરથી એક વિરોધાભાસ (સાડી પરદેશમાં પણ પ્રતિષ્ઠિત, છતાં પોતાની મમ્મી માટે નહિ) તારવે છે.",
+      "correction": "explanation ઘટના ફરી કહેવાને બદલે સીધું `વિરોધાભાસ` શબ્દથી શરૂ કરવું અને બંને બાજુ (પરદેશમાં સાડીનું માન વિ. પોતાની મમ્મી માટે નાપસંદગી) એક જ વાક્યમાં સામસામે મૂકવી, જેથી બાળક આને તર્કનું નવું પગલું ગણે, વાર્તાનું પુનરાવર્તન નહિ."
+    },
+    {
+      "topic_id": "M3.S3.T7",
+      "avoid_checks": [
+        {
+          "check": "no sentence of explanation, real_life_example, concept_bullets or recall_questions[].answer may end on a directive (`તમારે ગુજરાતી શીખવું જોઈએ`, `ગુજરાતી બોલો`); the passage's three rhetorical questions (`બોલશે ખરો ? વાંચશે ખરો ? વાપરશે ખરો ?`) are the author's own doubt about the son's future, reported, never turned into an instruction to the reading child.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "real_life_example must not frame a child's own weaker spoken/written Gujarati (a real possibility for this pack's L2 reader) as a personal failing; it must land on one small, doable action this week, never a field that ends on inadequacy with no next step.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ત્રણ પ્રશ્નો (`બોલશે ખરો ? વાંચશે ખરો ? વાપરશે ખરો ?`)ને ખુલ્લા સવાલ સમજી પોતાનો અંદાજ લખવા બેસે છે, જ્યારે લેખકે એ જ ફકરામાં આગળ પોતે જવાબ આપી દીધો છે — `સમજે છે, અશુદ્ધ બોલે અને નહિ લખે` — ત્રણમાંથી એક હા, બે ના.",
+      "correction": "explanation માં ત્રણ પ્રશ્નો ટાંક્યા પછી તરત જ લેખકનો પોતાનો જવાબ (`સમજે છે, અશુદ્ધ બોલે, નહિ લખે`) જોડવો, જેથી બાળક જુએ કે આ પ્રશ્નો રેટરિકલ (પોતે જ જવાબ સાથે આવતા) છે, અનુમાન માટેના ખાલી સવાલ નથી."
+    },
+    {
+      "topic_id": "M3.S4.T8",
+      "avoid_checks": [
+        {
+          "check": "explanation must not call આફ્રિકાના ગુજરાતીઓ or their spelling reform ભોળા/મૂર્ખ; the text itself calls their effort `સારી સગવડ`, `ઉદારતા` and `શુભ હેતુ` — only the reasoning (a spelling reform cannot save a whole language) may be weighed, never the people.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ફકરાની શરૂઆતના વખાણ (`સારી સગવડ છે અને ઉદારતા છે… હેતુ પણ શુભ છે`) પર જ અટકી જાય છે અને માની લે છે કે લેખક આ સરળ-જોડણી પ્રયોગને સમર્થન આપે છે — `પરંતુ એથી કંઈ વળવાનું નહિ` પછીનો વળાંક ચૂકી જાય છે, ખાસ કરીને દીર્ઘ/હ્રસ્વ/જોડાક્ષર/અનુસ્વાર જેવા ભારે શબ્દોમાં અટવાઈને.",
+      "correction": "explanation માં `પરંતુ` પર ભાર મૂકીને પ્રયોગનાં વખાણ અને લેખકનો ખરો ચુકાદો (કંઈ વળવાનું નહિ, કારણ કે સવાલ જોડણીનો નહિ આખી ભાષાનો છે) ક્રમમાં અલગ-અલગ જણાવવાં, અને દીર્ઘ/હ્રસ્વ/જોડાક્ષર/અનુસ્વાર દરેકને ટૂંકમાં ગ્લોસ કરવા."
+    },
+    {
+      "topic_id": "M3.S4.T9",
+      "avoid_checks": [
+        {
+          "check": "explanation must not call પરદેશના ગુજરાતીઓ ભોળા for wanting comfort, nor condemn લેખકનો ભૂતકાળ as જૂઠાબોલો beyond what he himself admits; the move is his own honest self-correction, and must be reported as such, not as blame on his hosts.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "no field may generalise this passage's specific linguistic-realism point into an unrelated general-honesty directive (`આપણે હંમેશાં સાચું બોલવું જોઈએ`) that this passage does not carry.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `આ બધું સારું છે, પણ નકામું છે` અને પછીની ત્રણ નકારાત્મક કડીઓ (`નહિ ટકવાનું… નહિ સચવાવાનું… નહિ મળવાના`)ને લેખક પરદેશના ગુજરાતીઓને દોષ દેતા હોય એમ વાંચે છે, જ્યારે ખરેખર આ લેખકનો પોતાના જ અગાઉના વલણ (`સૌને સારું સારું લગાડીને બોલતો`) પરનો કબૂલાત-વળાંક છે.",
+      "correction": "explanation માં સ્પષ્ટ કરવું કે `હિંમત ચાલતી ન હતી` થી `હવે હિંમત આવી ગઈ છે` સુધીની હિલચાલ લેખકના પોતાના બદલાવ વિશે છે, પરદેશના ગુજરાતીઓ વિશે નહિ — ત્રણ `નહિ` કડીઓ લેખકના નવા, પ્રામાણિક તારણનો ભાગ છે."
+    },
+    {
+      "topic_id": "M3.S5.T10",
+      "avoid_checks": [
+        {
+          "check": "G1 — explanation must name both speakers (આત્મીય ગુજરાતી સાક્ષર and લેખક પોતે) and report what each one says: the સાક્ષરની આગ્રહભરી વાત (`ગુજરાતીનું જ્ઞાન ચાલુ રાખવું પડશે, નહિ તો… કેવી રીતે વાંચશે ?`) and લેખકનો જવાબ (`વાંચતા જ નથી… નામ પણ સાંભળ્યાં નહિ હોય`). A one-voice summary that reports only one side fails.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "G4 — original_chunk's two quoted, attributed lines (`તેઓ ભારપૂર્વક કહેતા :…`, `મેં ધીરેથી કહ્યું :…`) must stay quoted with their attribution in every field that cites them; no field may convert this into a single unattributed reported statement.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "explanation must not label the સાક્ષરની આશા as ભોળી or naive; his hope is stated as a real, respectable position that the author answers, not dismisses.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક બંને અવાજોને એક જ મત તરીકે ભેગા વાંચી લે છે — સાક્ષર અને લેખક બંને એક જ વાત કહેતા હોય એમ — અને ચૂકી જાય છે કે લેખક ધીરેથી સાક્ષરની આશાને એક કડવી, વધુ વાસ્તવિક વાત (`નામ પણ સાંભળ્યાં નહિ હોય`) વડે સુધારે છે.",
+      "correction": "explanation માં બંને વાત અલગ-અલગ ટાંકવી — પહેલાં સાક્ષરની આગ્રહભરી અપેક્ષા, પછી લેખકનો ધીરો પણ સ્પષ્ટ જવાબ — અને બંને વચ્ચેનો ફેર (આશા વિ. વાસ્તવિકતા) નામ દઈને બતાવવો."
+    },
+    {
+      "topic_id": "M3.S5.T11",
+      "avoid_checks": [
+        {
+          "check": "explanation must attribute `ભાષા જાય તો ભલે જાય… ને અંગ્રેજ ક્યાં ખોટી ભાષા છે` to a hypothetical objector (`કોઈ કહેશે`) and never state it as the author's own view; a field that presents this line as લેખકનો પોતાનો મત fails.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "no sentence of explanation, real_life_example, detailed_summary or recall answer may add a directive beyond what the text states (`તેથી તમારે ગુજરાતી બોલવું જ જોઈએ`); the passage only lists what is lost (`વારસાગત સંસ્કૃતિ… સંસ્કારો… મૂળિયાં… જાય`) — it does not issue a command here.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "explanation must not label the hypothetical objector's view as અજ્ઞાની or બેજવાબદાર; the objection is answered on its reasoning (what else goes with the language), never ridiculed.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `ભાષા જાય તો ભલે જાય… અંગ્રેજ ક્યાં ખોટી ભાષા છે` વાક્યને લેખકનો પોતાનો મત સમજી લે છે, જ્યારે `કોઈ કહેશે` શબ્દોથી સ્પષ્ટ છે કે આ એક ધારેલો વાંધો છે જેને લેખક પછીના ફકરામાં જવાબ આપે છે.",
+      "correction": "explanation ની શરૂઆતમાં જ `કોઈ કહેશે` શબ્દ સાથે આ વાંધાને એક બીજી (ધારેલી) વ્યક્તિની વાત તરીકે ઓળખાવવી, અને પછી લેખકનો પોતાનો જવાબ (`ભાષા જાય ત્યારે એકલી નહિ જાય…`) અલગ તારવીને આપવો."
+    },
+    {
+      "topic_id": "M3.S5.T12",
+      "avoid_checks": [
+        {
+          "check": "no sentence of explanation may turn ગીતાજીનાં સ્થિતપ્રજ્ઞનાં લક્ષણો into an independent religious-teaching moment (explaining Gita philosophy for its own sake) or into a directive about prayer/religious practice; the passage uses it only as the author's own experiential test of the language-feeling gap.",
+          "profile": "samvad_nibandh",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "ઓતપ્રોત, તટસ્થ, સ્થિતપ્રજ્ઞ, સાત્ત્વિકતા જેવા ભારે તત્સમ શબ્દોમાં અટવાઈને બાળક આખા ફકરાનો મુદ્દો (ભાષા સંસ્કૃતિથી છૂટી ન પડી શકે) ચૂકી જાય છે અને ગીતાજીના પ્રયોગને ધર્મ વિશેની અલગ વાત સમજી લે છે.",
+      "correction": "explanation માં ચારેય ભારે શબ્દો વાક્યમાં જ ટૂંકમાં ગ્લોસ કરવા (ઓતપ્રોત — એકબીજા સાથે વણાયેલું, વગેરે) અને તરત જ સ્પષ્ટ કરવું કે ગીતાજીનું ઉદાહરણ ફક્ત એક અખતરો છે — `ગુજરાતીમાં બોલો ત્યારે જે અનુભવ થાય એ અંગ્રેજીમાં નથી થતો` — ધર્મની ચર્ચા નહિ, ભાષા-લાગણીની ચર્ચા."
+    },
+    {
+      "topic_id": "M4.S6.T13",
+      "avoid_checks": [
+        {
+          "check": "G2, the sharpest instance in this chapter — original_chunk itself is written in second person to the author's own intended reader (`તમે પરદેશમાં ન જાઓ એમ હું નથી કહેતો… જવું હોય તો જરૂર જજો… જોજો`) as the essay's own rhetorical device. No downstream field (explanation, summary, detailed_summary, real_life_example, recall answer) may reproduce these imperative forms (જાઓ, જજો, જોજો, રહેશો) as an instruction to the child reading the plan. The demand must be reported in third person (`લેખક કહે છે કે નિર્ણય પૂરો વિચાર કરીને લેવો`), never issued directly.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "explanation must state both halves of the author's position — `તમે પરદેશમાં ન જાઓ એમ હું નથી કહેતો` AND `પણ પૂરો વિચાર કરીને જજો` — a field that states only the second half reads as an anti-emigration sermon the text does not make.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        },
+        {
+          "check": "real_life_example must not reproduce the essay's own closing loss-list (`મમ્મીની સાડી જશે. પપ્પાની ભાષા જશે. ઉપનિષદની પ્રાર્થના પણ જશે.`) as the child's own predicted personal loss, and must not label anyone who chooses to emigrate as selfish; it must land on one doable, non-blaming action.",
+          "profile": "samvad_nibandh",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક નિબંધના અંતને `પરદેશ ન જવું જોઈએ` એવો ઉપદેશ સમજી લે છે, જ્યારે લેખક ખુદ સ્પષ્ટ કહે છે `તમે પરદેશમાં ન જાઓ એમ હું નથી કહેતો` — એમની ખરી માગણી ફક્ત એટલી છે કે લાભ અને ભોગ બંને તપાસીને, આંખો ખુલ્લી રાખીને નિર્ણય લેવાય.",
+      "correction": "explanation માં પહેલાં લેખકનો ઇનકાર (`હું ના નથી પાડતો`) ટાંકવો, પછી જ એમની ખરી માગણી (લાભ-ભોગ તપાસીને નિર્ણય) જણાવવી — ક્રમ બદલવાથી ઉપદેશ જેવું લાગશે, ક્રમ સાચવવાથી માગણી જેવું."
+    }
+  ],
+  "chapter_level": [
+    "L2 vocabulary density (std-9 register table's own listed hazard, `stalls on તત્સમ/જોડાક્ષર-dense prose`): this essay carries heavy તત્સમ/technical vocabulary throughout — અધ્યાપક, અતિરેક, લઘુમતી, હ્રાસ, ભ્રમણા, વ્યર્થ, વિરોધાભાસ, અનુકરણ, ઓતપ્રોત, તટસ્થ, સ્થિતપ્રજ્ઞ, સાત્ત્વિકતા. Gloss each at its point of first use, inline, per shabd_gloss.md — do not wait for the key_terms list alone to carry it.",
+    "Hindi–Gujarati false friend, recurring not local: `મોટો`/`મોટી` appears three times across the London-visit scenes — `મોટો દીકરો` (M2.S2.T3), `મોટો છોકરો` (M2.S2.T4), `મોટી બહેન` (M2.S2.T5). A Hindi-background reader may take મોટો/મોટી for Hindi mota (`ભારે-શરીરવાળું`, fat) instead of its actual sense here — વડીલ, ઉંમરમાં મોટું (elder, older). Gloss once at the first occurrence (M2.S2.T3); it then carries forward for the later two.",
+    "Sensitivity, chapter-wide (G5 plus samvad_nibandh's own sensitivity note on this exact chapter): the essay's material — a child embarrassed by a parent's Gujarati or traditional dress, a family's mother tongue thinning abroad — sits unusually close to this pack's own reader, an L2 Gujarati learner who may, like the essay's own દીકરો, already read and write Gujarati more weakly than they speak or understand it (see M3.S3.T7). Every `real_life_example` in this chapter must land on one small, doable, non-blaming action and must never let the child read themself as the essay's cautionary figure.",
+    "Second-person imperative as the essay's own device, not licence to copy it: the text repeatedly addresses `તમે` — its own intended reader, a Gujarati weighing emigration — directly and imperatively (M3.S4.T9's `ન સેવો`; M4.S6.T13's `જજો`, `જોજો`, `જાઓ`). That address belongs, verbatim, in `original_chunk` alone. It must never migrate into `explanation`, `real_life_example` or a summary field as an instruction to the child reading the plan (gate G2); checked concretely at M3.S4.T9 and M4.S6.T13."
+  ]
+}

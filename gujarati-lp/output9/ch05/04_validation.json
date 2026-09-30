@@ -1,0 +1,45 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "Explanation unit is એક કડી (urmikavya_geet.md). Three [[કડી N]] markers in 00_chapter_normalized.md == three POEM topics carrying them (M2.S2.T3, M2.S2.T4, M2.S2.T5). No દુહો, no પદ in this chapter (structure_inventory.duha=0, pad=0) — those two checks are vacuously satisfied.",
+        "ટેક handling (profile hard gate, structural): all three [[ટેક]] markers in 00_chapter_normalized.md are byte-for-byte identical ('ઓ રે ! ઓ રે ઓ ભાયા ! તું.') — so per urmikavya_geet.md's rule exactly one topic (M2.S2.T3) carries the teaching and every later કડી topic naming it (M2.S2.T4, M2.S2.T5) lists M2.S2.T3 in depends_on. Both do. The 4th 'occurrence' 01_meta.json flags (the changed-words line fused into કડી 1's own printed opening, 'તું તારા દિલનો દીવો થા ને ! ઓ રે ! ઓ રે ! ઓ ભાયા!') carries no [[ટેક]] marker of its own in 00_chapter_normalized.md — it is simply કડી 1's first printed line — so the profile's marker-counted rule does not apply to it, and it correctly rides inside M2.S2.T3 without a separate topic. Verified directly against 00_chapter_normalized.md, not just against 02_structure.json's own notes.",
+        "No mixed chapter (pure ઊર્મિકાવ્ય-ગીત, genre_confidence high, no disagreement recorded between page and profile prior).",
+        "Avoid-list check (urmikavya_geet.md): none of O1–O4 is a slogan/ઉપદેશ sentence ('આપણે... જોઈએ'-shaped); each is a specific, quote-anchored comprehension goal, not a generic 'બોધ જીવનમાં ઉતારવો'-type objective. O3's ઉપમા naming is earned from the chapter's own printed ભાષા-અભિવ્યક્તિ line ('કાયાને માટીનું કોડિયુંની ઉપમા...'), not imported from profile illustrative vocabulary — consistent with no_hallucination_policy.md and the std-9 craft-naming ceiling (ઉપમા is in the std-9 named canon)."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 5,
+      "topics": 5,
+      "notes": [
+        "Reading-scene markers in 00_chapter_normalized.md, in order: [[કવિ-પરિચય]], [[કૃતિ-પરિચય]], [[કડી 1]]+[[ટેક]], [[કડી 2]]+[[ટેક]], [[કડી 3]]+[[ટેક]] — five scenes, matching five topics in the same order: M1.S1.T1, M1.S1.T2, M2.S2.T3, M2.S2.T4, M2.S2.T5.",
+        "Pre-reading opener present as a topic pair (કવિ-પરિચય, કૃતિ-પરિચય — std 9 carries these as two separate printed markers, unlike std 10's single unlabeled paragraph). No in-text wrap/REVIEW block exists in this chapter's reading text.",
+        "No સ્વાધ્યાય block became a topic — cross-checked all four 01_meta.json exercise_inventory entries (MCQ; બે-ત્રણ વાક્યમાં ઉત્તર; છ-સાત વાક્યમાં ઉત્તર; વિદ્યાર્થી-પ્રવૃત્તિ) against every topic_name and original_chunk plan in 02_structure.json: no match, no overlap.",
+        "શબ્દ-સમજૂતી, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are correctly held out as apparatus (teacher-addressed / glossary matter), not topics — matches explanation_unit_map.md's apparatus rule.",
+        "No topic covers text no marker claims: all five topics' content maps 1:1 onto the five markers above; no topic pulls apparatus prose into original_chunk."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 4,
+      "notes": [
+        "O1–O4 unique, each with a distinct legacy_id (L1–L4) mapped 1:1 in strand_to_objective_map.",
+        "home_topic_id resolves for every objective (M1.S1.T1, M2.S2.T3, M2.S2.T4, M2.S2.T5 all exist in the tree); every anchor[] concept id resolves too (M1.S1.T1.C1, M1.S1.T2.C2, M2.S2.T3.C3, M2.S2.T4.C4, M2.S2.T5.C5 all match a real concept_id).",
+        "Every topic carries objective_ids resolving to the registry: T1→O1, T2→O1, T3→O2, T4→O3, T5→O4.",
+        "Each objective quotes an exact line from this chapter (કૃતિ-પરિચય for O1; કડી 1/2/3 for O2/O3/O4) — text-grounded and chapter-specific, could not be pasted into another chapter; each serves the teaching_lens ચિત્ર + ભાવ + અલંકાર (O1/O2/O4 ભાવ, O3 અલંકાર via the chapter's own ઉપમા evidence).",
+        "Id grammar matches naming_conventions.md: M1/M2 → S1/S2 → T1..T5 → C1..C5, all dotted and chapter-continuous with no restart; concept number equals topic number throughout (T3↔C3, T4↔C4, T5↔C5). No M1.S1.T1.P1-style objective code anywhere; objectives live only in the root registry.",
+        "Module/segment shape is asymmetric (M1 holds one segment of two topics; M2 holds one segment of three topics) but each segment is content-coherent — non-blocking, recorded in root notes."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Module/segment asymmetry (M1.S1: 2 topics of apparatus-reading; M2.S2: 3 topics of the poem's own arc) is a thin-segment shape, not a defect — matches the same pattern already established in this run's output9/ch01. Travels to Agent 13 as a note only.",
+    "The tek-fusion judgement call in M2.S2.T3's note (the changed-words line living inside કડી 1 rather than as its own topic) is correct against the letter of urmikavya_geet.md's marker-based ટેક rule, but is an unusual case for this profile (the profile's own changed-words examples — std-9 ch 3, std-7 P2 — are returning refrains, not a poem's own opening line echoing the refrain's vocabulary). Worth a second human glance at Agent 13/16 stage, not a blocking structural defect.",
+    "Ids frozen from this point: 02_structure.json promoted verbatim to 04_converged.json with no changes."
+  ]
+}

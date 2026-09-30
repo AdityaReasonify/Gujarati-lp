@@ -1,0 +1,11 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "5d8e638c4a70dac67eb8145ffef8e3d5025e5bfd95d31a0c8e66ae6b1a26c085",
+  "verdict": "pass",
+  "notes": [
+    "Single validation pass per reference/loop_protocol.md. Check 1 (સ્વરૂપ fidelity), Check 2 (coverage), Check 3 (objectives + phase-2 id contract) all pass -- see 04_validation.json for the full per-check breakdown.",
+    "Ids frozen from this point: M1-M3, S1-S6, T1-T10, C1-C15, O1-O10, L1-L10.",
+    "One context gap surfaced, not blocking: profiles/genres/natak_ekanki.md was not supplied in this run, so its specific avoid list and any numeric stage-beat ceiling were not independently checked; recorded in 04_validation.json.checks.genre_fidelity.notes rather than guessed at."
+  ]
+}

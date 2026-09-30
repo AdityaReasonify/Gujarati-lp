@@ -1,0 +1,51 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "Genre is સૉનેટ (01_meta.json, active_genre_profiles: ['sonnet.md']), explanation_unit 'એક ભાવ-ખંડ'. 02_structure.json cuts the 14-line poem into 4 ભાવ-ખંડ topics (M1.S2.T2–T5), within sonnet.md's 'two to four, four is the ceiling' rule — not the 7 printed couplets (would be the ગઝલ template misapplied, the specific hard fail this profile names).",
+        "00_chapter_normalized.md carries no [[ભાવ-ખંડ]], [[કડી]], [[દુહો]], [[પદ]], or [[ટેક]] markers anywhere (grep-verified) — correct per sonnet.md, which states a સૉનેટ's movement boundary is a semantic judgement, not page-marked. So the કડી-marker-count equality test does not apply to this genre/unit; count is 0=0 either way.",
+        "ચોટ is not split: M1.S2.T5 is the sole and last verse topic, mapped in 02_structure.json's notes to lines 13–14 (the poem's final sentence, ending on the repeated title line 'જીવમાં જીવ આવ્યો !'), satisfying the hard gate that the last two printed lines live together in the last topic.",
+        "Cut lands on sentence boundaries, not printed line-ends: verified against the rendered verse in 00_chapter_normalized.md, પૂર્ણવિરામ/ઉદ્ગારચિહ્ન fall at lines 2, 4, 6, 8, 12, 14 — T2=1-4, T3=5-8, T4=9-12, T5=13-14 each close on one of those marks. No topic boundary falls mid-sentence.",
+        "No invented ટેક or કડી: no topic_name, objective_text or note calls any line a ટેક/ધ્રુવપંક્તિ or 'કડી'; the returning title line is treated as circular closure per sonnet.md, not a refrain.",
+        "No છંદ named outside 01_meta.json's own record of the book's printed 'મંદાક્રાન્તા' — no objective_text or topic_name asserts a metre.",
+        "O4's 'સજીવારોપણ' naming is text-grounded (02_structure.json's own note ties it to the chapter's ભાષા-અભિવ્યક્તિ box asking 'વગડો ટહુકે ખરો? સ્મરણ મહોરે ખરાં? દૂધ ભાંભરે?', i.e. lines 9–12) and std 10 permits naming અલંકાર — not a hallucinated device, and not one of the form's-own-parts (સૉનેટ/ચોટ/વળાંક/છંદ) named as અલંકાર.",
+        "O5 ('છેલ્લી બે પંક્તિમાં...') uses the sanctioned word-form for line-count reference, not a digit — matches sonnet.md's own example phrasing exactly ('છેલ્લી બે પંક્તિમાં', never 'પંક્તિ 13-14માં'). No objective moralises the ચોટ into a બોધ; O5 asks why the idiom holds despite 'એનું એ સૌ છતાંયે', which is analysis, not a poster line.",
+        "No numbers found in any module_name/segment_name/topic_name/objective_text (scanned all five objectives and all module/segment/topic names) — global_content_rules.md rule 4 holds.",
+        "Not a mixed chapter; single સૉનેટ unit throughout, so the mixed-chapter rule does not apply."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 5,
+      "topics": 5,
+      "notes": [
+        "Reading scenes: 1 pre-reading intro (કવિ-પરિચય + કૃતિ-પરિચય, the two markers merged into one std-10 CONCEPT topic per explanation_unit_map.md's std-10 rule and the output10/ch01 precedent this file cites) + 4 semantically-cut ભાવ-ખંડ movements of the single unmarked verse. All 5 became topics, in chapter order (M1.S1.T1 intro, then M1.S2.T2–T5 in line order).",
+        "No in-text wrap exists in this chapter (no [[ભાષા-અભિવ્યક્તિ]]-style wrap inside the reading text itself) — N/A, nothing to cover.",
+        "exercise_inventory (01_meta.json) lists 5 groups: MCQ (2 items), એક-એક વાક્યમાં ઉત્તર (2), બે-ત્રણ વાક્યમાં ઉત્તર (2), સવિસ્તર ઉત્તર (2), વિદ્યાર્થી-પ્રવૃત્તિ (3). Cross-checked every group's verbatim_heading against every topic_name and the line-range plan in 02_structure.json's notes — none of the 5 groups appears as a topic or is covered by a topic's planned original_chunk range. Zero સ્વાધ્યાય topics.",
+        "શબ્દ-સમજૂતી, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા markers are also not topics (apparatus, feeding key_terms/craft evidence per the file's own notes) — consistent with explanation_unit_map.md's apparatus rule.",
+        "No topic's planned range covers text no marker/scene claims: the 4 verse topics' line-ranges (1–4, 5–8, 9–12, 13–14) partition the printed 14 lines exactly, no gap, no overlap, confirmed by re-reading the verse in 00_chapter_normalized.md against the line-range map in 02_structure.json's notes."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 5,
+      "notes": [
+        "objective_id O1–O5 unique; strand_to_objective_map L1–L5 → O1–O5, one-to-one, every legacy_id covered exactly once.",
+        "Every home_topic_id and anchor[] entry resolves in the tree: O1→M1.S1.T1/C1, O2→M1.S2.T2/C2, O3→M1.S2.T3/C3, O4→M1.S2.T4/C4, O5→M1.S2.T5/C5 — all verified present.",
+        "Every topic carries objective_ids resolving to the registry, one objective per topic, no orphans either direction.",
+        "Each objective is chapter-specific and text-grounded — O1 names the poet and the idiom-as-structure; O2–O4 name specific images (પવન-ડમરી, નીડ/પર્ણો; રાફડો/તડકો/ધરા; વગડો/સ્મરણ/દૂધ/લોકો); O5 quotes 'એનું એ સૌ છતાંયે' and asks the title-fitness question — none could be pasted into another chapter. Together they serve the teaching_lens 'બંધ + વળાંક + ભાવની ઘનતા': O1 the frame/idiom, O2–O4 the density of imagery, O5 the turn.",
+        "Id grammar checked against naming_conventions.md: M1 only; segments S1, S2 continuous; topics T1..T5 continuous across the whole chapter (not restarting per segment); concepts C1..C5 chapter-continuous and equal to their topic's number (T1↔C1 ... T5↔C5) exactly as the one-concept-per-topic rule requires; no M1.S1.T1.P1-style code anywhere.",
+        "bloom_level values (Understand, Understand, Analyze, Analyze, Evaluate) capitalised as the root-objectives contract requires."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Single validation pass per loop_protocol.md — no iteration performed.",
+    "This chapter is a સૉનેટ (std-10 ch 7, the same chapter sonnet.md's own provenance note was written from), so the ceiling/avoid checks specific to that profile (couplet-wise cutting, split ચોટ, invented ટેક/કડી/છंદ, ચોટ-as-બોધ) were checked explicitly above rather than the generic કડી/દુહો/પદ counts, none of which apply here (kadi=0, duha=0, pad=0, tek_occurrences=0 per 01_meta.json's structure_inventory).",
+    "original_chunk is empty on every topic in 02_structure.json by Agent 2's own mandate; verbatim-fidelity checks (character-for-character reconstruction of the poem, letter-spacing, જોડાક્ષર) are Agent 5/13's job once content is filled — not re-litigated here, since Agent 4 validates the structural cut and id contract, not transcribed content."
+  ]
+}

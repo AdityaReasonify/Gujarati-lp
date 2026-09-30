@@ -1,0 +1,44 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "urmikavya_geet.md correctly active; explanation unit is એક કડી; kadi=2 (01_meta.json structure_inventory) matches exactly the two [[કડી …]]-cut topics (T5, T6).",
+        "No દુહો / પદ markers present (duha=0, pad=0) — vacuously satisfied.",
+        "tek_occurrences=4 across 2 distinct wordings (occurrence 1 = opening, unchanged; occurrence 2 = changed first line 'હું તો ઘરે ઘરે જઈને વખાણું'; occurrences 3 and 4 repeat occurrence 1's wording exactly). Per the changed-words rule, occurrences 1 and 2 each got their own topic (T3, T4); per the identical-ટેક rule, occurrences 3 and 4 were folded into T5's and T6's own reading flow and referenced via depends_on on T3 rather than cut as new topics. Topics carrying a [[ટેક]] marker = 2, matching distinct wordings = 2 exactly, per the profile's own hard gate.",
+        "No slogan-shaped, over-scientified, or politically-framed language in any objective_text; no numeral appears in any topic_name/module_name/segment_name/concept_name/objective_text (mechanical scan clean) — ordinals used correctly ('પહેલી કડીની પંક્તિ', 'બીજી કડીની પંક્તિ')."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 6,
+      "topics": 6,
+      "notes": [
+        "Reading scenes in printed order: [[કવિ-પરિચય]]→T1, [[કૃતિ-પરિચય]]→T2, ટેક occurrence 1→T3, ટેક occurrence 2→T4, [[કડી 1]]+trailing identical ટેક→T5, [[કડી 2]]+trailing identical ટેક+source-note→T6. Order matches the printed page exactly.",
+        "Both pre-reading blocks (કવિ-પરિચય, કૃતિ-પરિચય) are topics, kept separate per the ch01 precedent (both are substantial, multi-sentence paragraphs) rather than merged.",
+        "Cross-checked every exercise_inventory group (01_meta.json: MCQ/4, બે-ત્રણ વાક્યોમાં ઉત્તર/2, સવિસ્તાર ઉત્તર/1, વિદ્યાર્થી-પ્રવૃત્તિ/3) against every topic_name and note — none became a topic. શબ્દ-સમજૂતી (all 4 sub-blocks), ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are also correctly left as apparatus, not topics.",
+        "No topic covers text no marker claims: all 8 reading-scene markers (1 કવિ-પરિચય + 1 કૃતિ-પરિચય + 4 ટેક occurrences + 2 કડી) are accounted for across the 6 topics with no gap and no invention."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 5,
+      "notes": [
+        "objective_id unique across O1-O5; every home_topic_id and every anchor[] concept id resolves inside this tree (checked programmatically).",
+        "strand_to_objective_map covers L1..L5 exactly once, all mapping to the single strand L / ભાષા અને સાહિત્ય.",
+        "Every topic carries objective_ids resolving to the registry: T1→O1, T2→O1, T3→O2, T4→O3, T5→O4, T6→O5.",
+        "Every objective is text-grounded and chapter-specific — each quotes or names this poem's own line/claim (ટેક wording, 'હું તો વ્હેતી જમુનાને અહીં આણું', 'ફરી ફરી નહિ આવે ટાણું') and could not be pasted into another chapter; all serve the ચિત્ર + ભાવ + અલંકાર lens.",
+        "Id grammar matches naming_conventions.md: module/segment/topic ids dotted and chapter-continuous (S1,S2,S3 and T1..T6 never restart at a module boundary); concept ids C1..C6 equal their topic number exactly; no M1.S1.T1.P1-style objective code anywhere — objectives use O{n} only.",
+        "O4/O5 deliberately do not name a specific અલંકાર label at this structure-only pass (structure note flags this for Agent 12/13 once original_chunk is verbatim) — a conservative, correct choice per no_hallucination_policy.md, not a defect."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "T2's કૃતિ-પરિચય carries a hedged folk-custom allusion ('ગાગર ઉતારે તે પતિ... પણ જોઈ શકાય') already flagged in 02_structure.json for Agent 8 — travels forward, not a block.",
+    "Whole ગીત is રાધા-કૃષ્ણ-tradition romantic/bhakti-adjacent imagery without a છાપ inside the verse (correctly ruled out as પદ/ભજન — modern named poet, no છાપ). Sensitivity handling per global_content_rules.md rule 10 is Agent 8's job, not a structural block here.",
+    "Two pre-reading topics (T1, T2) share one objective (O1), following the output9/ch01 pattern — an editorial choice, not a defect."
+  ]
+}

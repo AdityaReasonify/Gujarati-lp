@@ -1,0 +1,738 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch6",
+  "genre": "samvad_nibandh",
+  "genre_subform": "ચિંતનાત્મક નિબંધ (સંવાદ-નિબંધનું એક-અવાજી અંગ)",
+  "active_genre_profiles": [
+    "samvad_nibandh.md"
+  ],
+  "explanation_unit": "તર્કનો એક તંતુ (એક લંડન-મુલાકાત-ઘટના, અથવા દલીલનું એક પગલું — સ્થાપના/પડકાર/પુરાવો/માગણી)",
+  "teaching_lens": "તર્ક + દૃષ્ટિકોણ + જવાબદારી",
+  "guiding_question": "ભાષા જવાની સાથે ખરેખર બીજું શું શું જાય છે, અને એ જાણ્યા પછી પરદેશ જવા-રહેવાનો નિર્ણય લેતાં પહેલાં ફાધર વાલેસ આપણી પાસેથી શું માગે છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ફાધર વાલેસનું મૂળ નામ, વતન અને અમદાવાદમાંનું અધ્યાપન કાર્ય તથા તેમના નિબંધસંગ્રહો પાઠમાં અપાયેલી હકીકતોના આધારે કહેવાં.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કૃતિ-પરિચયના આધારે આ નિબંધમાં ફાધર વાલેસ ગુજરાતી ભાષાનું કયું મહત્ત્વ સ્થાપે છે અને કયો મુખ્ય વિચાર રજૂ કરે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લંડનમાં પિતાને ગુજરાતીમાં વાત કરતા સાંભળીને દીકરાએ કઈ પ્રતિક્રિયા આપી અને એ પ્રતિક્રિયા શું સૂચવે છે તે પાઠના શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": [
+        "M2.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મમ્મીની સાડી સામે દીકરાએ કયો વાંધો ઉઠાવ્યો અને મમ્મીએ એનો શો જવાબ આપ્યો તે ઘટના પરથી કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": [
+        "M2.S2.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'અસત્યો માંહેથી' પ્રાર્થના પરદેશનાં યુવાન ગુજરાતીઓને કેમ મોઢે ન હતી, અને ગુજરાતની શાળાનાં બાળકો સાથે એની શી સરખામણી લેખક કરે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T5",
+      "anchor": [
+        "M2.S2.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સાડી પરદેશમાં પણ પ્રતિષ્ઠિત ગણાય છે છતાં દીકરાને પોતાની મમ્મી સાડી પહેરે એ કેમ ગમતું નથી, એ વિરોધાભાસ પાઠમાંથી શોધીને સમજાવવો.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S3.T6",
+      "anchor": [
+        "M3.S3.T6.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પિતાના ગુજરાતી બોલવા પર ગુસ્સે થતા દીકરાનું ગુજરાતી બોલવા-વાંચવા-વાપરવા અંગેનું ભવિષ્ય લેખક પોતે કયા પ્રશ્નોથી તપાસે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S3.T7",
+      "anchor": [
+        "M3.S3.T7.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "આફ્રિકાના ગુજરાતીઓએ ભાષા ટકાવવા કરેલા સરળ-જોડણી પ્રયોગનું વર્ણન કરીને, લેખક એ પ્રયોગને શા માટે નકામો ગણાવે છે તે કારણ સહિત કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S4.T8",
+      "anchor": [
+        "M3.S4.T8.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પરદેશના ગુજરાતીઓને અગાઉ ખોટું આશ્વાસન આપતા લેખક હવે કઈ પ્રામાણિક વાત સીધી કહે છે, અને આ વળાંક શું બતાવે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S4.T9",
+      "anchor": [
+        "M3.S4.T9.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O10",
+      "legacy_id": "L10",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગુજરાતી સાક્ષર અને લેખક વચ્ચેની વાતચીતમાં પરદેશમાં જન્મેલાં યુવાનો નરસિંહ-મીરાં અને સુન્દરમ્-રાજેન્દ્ર-મકરંદ વિશે શું જાણશે એ બંનેના મત તપાસીને કહેવા.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S5.T10",
+      "anchor": [
+        "M3.S5.T10.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O11",
+      "legacy_id": "L11",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'ભાષા જાય તો ભલે જાય' એવા સંભવિત વાંધાનો લેખક શો જવાબ આપે છે, અને ભાષાની સાથે ખરેખર બીજું શું શું જાય છે તે યાદી પરથી કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T11",
+      "anchor": [
+        "M3.S5.T11.C11"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O12",
+      "legacy_id": "L12",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગીતાજીનાં સ્થિતપ્રજ્ઞનાં લક્ષણો ગુજરાતીમાં અને અંગ્રેજીમાં બોલવાના અનુભવની સરખામણી પરથી, ભાષા અને સંસ્કૃતિ કેવી રીતે એકબીજા સાથે જોડાયેલાં છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T12",
+      "anchor": [
+        "M3.S5.T12.C12"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O13",
+      "legacy_id": "L13",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પરદેશ જવા-રહેવાનો નિર્ણય લેતાં પહેલાં કયો ફાયદો અને કયો ભોગ તપાસવા લેખક પોતાની અંતિમ વાતમાં કહે છે તે પાઠના શબ્દોમાં તારવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M4.S6.T13",
+      "anchor": [
+        "M4.S6.T13.C13"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9",
+    "L10": "O10",
+    "L11": "O11",
+    "L12": "O12",
+    "L13": "O13"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "લેખક અને કૃતિની ઓળખ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "ફાધર વાલેસ અને નિબંધનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "લેખક ફાધર વાલેસનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "તેમનું પૂરું નામ કાર્લોસ જી વાલેસ. તેમનો જન્મ લાગ્રોનો, સ્પેનમાં થયો હતો. અમદાવાદની સેન્ટ ઝેવિયર્સ કૉલેજમાં ગણિતના અધ્યાપક તરીકેની કામગીરી કરી હતી. 'સદાચાર', 'વ્યક્તિત્વ-ઘડતર', 'જીવન-દર્શન', 'કૉલેજ-જીવન', 'ચારિત્ર્ય-યજ્ઞ', 'સંસ્કાર-તીર્થ', 'લગ્ન-સાગર', 'ગાંધીજી અને નવી પેઢી', 'ધર્મમંગલ', 'સંસાર-સાધના' વગેરે તેમના મહત્ત્વના નિબંધ સંગ્રહો છે. તેમના ગુજરાતીમાં સાદગીની શોભા છે. તેમને ગુજરાત સાહિત્ય અકાદમી પુરસ્કાર તથા રણજિતરામ સુવર્ણચંદ્રક એનાયત થયા છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "ફાધર વાલેસનું નામ, વતન અને ગુજરાત સાથેનો નાતો"
+                }
+              ],
+              "modified_chunk": "આ ફકરો લેખક ફાધર વાલેસનો પરિચય આપે છે. તેમનું મૂળ નામ કાર્લોસ જી વાલેસ છે અને તેમનો જન્મ સ્પેનમાં થયો હતો; તેમણે અમદાવાદની સેન્ટ ઝેવિયર્સ કૉલેજમાં ગણિતના અધ્યાપક (ભણાવનાર શિક્ષક) તરીકે કામ કર્યું હતું. તેમણે ઘણા નિબંધ સંગ્રહો (નિબંધોનાં પુસ્તકો) લખ્યા છે, અને તેમને ગુજરાત સાહિત્ય અકાદમી પુરસ્કાર તથા રણજિતરામ સુવર્ણચંદ્રક જેવાં સન્માન મળ્યાં છે.",
+              "word_count": {
+                "original": 57
+              },
+              "key_terms": [
+                "અધ્યાપક — ભણાવનાર શિક્ષક, કૉલેજમાં ભણાવનાર",
+                "નિબંધ સંગ્રહ — નિબંધોનું ભેગું કરેલું પુસ્તક",
+                "સાદગી — સાદાપણું, બિનજરૂરી શણગાર વગરની રીત",
+                "પુરસ્કાર — ઈનામ, સન્માન",
+                "એનાયત — અર્પણ, આપવામાં આવવું"
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "કૃતિ-પરિચય — ભાષા બચે તો સંસ્કૃતિ બચે",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "કાકાસાહેબ કાલેલકરની જેમ જેને 'સવાયા ગુજરાતી' કહી શકાય તેવા ફાધર વાલેસ આ નિબંધમાં ગુજરાતી ભાષાનું વાજબી મહત્ત્વ સ્થાપે છે. જ્યારે કોઈ ભાષા લુપ્ત થાય છે, ત્યારે એની સાથે તે ભાષા બોલનાર સમાજની સંસ્કૃતિ પણ નષ્ટ થાય છે એ વાત આ નિબંધમાં દર્શાવાઈ છે. પરદેશમાં રહેનારા ગુજરાતી લોકોનાં બાળકોને હવે તેમના પપ્પા ગુજરાતી બોલે કે મમ્મી ભારતીય સાડી પહેરે તે ગમતું નથી. લેખક કહે છે કે ભાષાની સાથે સંસ્કૃતિ પણ જાય છે. પરદેશ ખેડવાની સાથે મા-બાપનો વિયોગ, કામનો અતિરેક, ઓછું કૌટુંબિક જીવન, લઘુમતીમાં હોવાનું જોખમ તો છે જ પરંતુ સંસ્કૃતિનો હ્રાસ એ સૌથી મોટું જોખમ છે. ભાષા બચશે તો જ સંસ્કૃતિ બચશે એ વિચારને લેખકે સચોટ રીતે આ નિબંધમાં મૂક્યો છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "નિબંધનો મુખ્ય વિચાર — ભાષા બચે તો સંસ્કૃતિ બચે"
+                }
+              ],
+              "modified_chunk": "આ ફકરો નિબંધનો પરિચય આપે છે. ફાધર વાલેસ કહે છે કે કોઈ ભાષા લુપ્ત (ખતમ) થાય ત્યારે તેની સાથે તે ભાષા બોલનારાઓની સંસ્કૃતિ પણ નાશ પામે છે. પરદેશમાં રહેતાં ગુજરાતી બાળકોને હવે માતા-પિતાનું ગુજરાતી બોલવું કે સાડી પહેરવી પણ ગમતું નથી. લેખકના મતે ભાષા બચે તો જ સંસ્કૃતિ બચે.",
+              "word_count": {
+                "original": 110
+              },
+              "key_terms": [
+                "લુપ્ત — ખતમ, નાશ પામેલું",
+                "સંસ્કૃતિ — સમાજની રહેણી-કરણી, રિવાજો અને વારસો",
+                "અતિરેક — વધારે પડતું પ્રમાણ",
+                "લઘુમતી — ઓછી સંખ્યામાં હોવું",
+                "હ્રાસ — ઘટાડો, નાશ"
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "લંડનની મુલાકાતોની ત્રણ ઘટના",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ભાષા અને પોશાક પરત્વે બદલાયેલું વલણ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "પિતાના ગુજરાતી બોલવા સામે દીકરાનો ગુસ્સો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "મારી લંડનની એક મુલાકાત દરમિયાન હું એકવાર એક ગુજરાતી મિત્રને ઘેર એની સાથે વાતચીત કરતો હતો. અમે બંને ગુજરાતીમાં વાતો કરતા હતા. એમાં મિત્રનો મોટો દીકરો આવ્યો, કંઈક કહેવા ગયો પણ અમને ગુજરાતીમાં વાત કરતા જોઈને એ જરા ઊભો રહ્યો, મોં ઉપર અણગમો બતાવ્યો, પછી મારી હાજરીમાં જ પોતાના બાપને અંગ્રેજીમાં કહ્યું : 'ફાધરની સાથે શું કામ ગુજરાતીમાં બોલો છો? એમને અંગ્રેજ આવડે છે.' અને ગુસ્સાથી પીઠ ફેરવીને ત્યાંથી ચાલી ગયો.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "પિતાના ગુજરાતી બોલવા સામે દીકરાનો ગુસ્સો અને પીઠ ફેરવવી"
+                }
+              ],
+              "modified_chunk": "લેખક લંડનમાં એક ગુજરાતી મિત્રના ઘરે ગુજરાતીમાં વાત કરી રહ્યા હતા. મિત્રનો મોટો દીકરો આ સાંભળીને નારાજ થયો અને પિતાને અંગ્રેજીમાં પૂછ્યું કે ફાધર સાથે ગુજરાતીમાં કેમ બોલો છો, કારણ કે એમને અંગ્રેજી આવડે છે. પછી ગુસ્સાથી પીઠ ફેરવીને એ ત્યાંથી ચાલ્યો ગયો.",
+              "word_count": {
+                "original": 71
+              },
+              "key_terms": [
+                "અણગમો — નાપસંદગી, ન ગમવાની લાગણી",
+                "હાજરી — સામે હોવું, રૂબરૂ હોવું",
+                "પીઠ ફેરવવી — મોં ફેરવીને જતા રહેવું, નારાજગી બતાવવી"
+              ],
+              "primary_content_type": "image",
+              "available_content_types": [
+                "image"
+              ],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "મમ્મીની સાડી સામે દીકરાનો વાંધો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "બીજા ઘરમાં અમે બધાં બહાર જવા માટે તૈયાર થતાં હતાં. ક્યાંક ફરવા જવાનો કાર્યક્રમ હતો. એમની મમ્મી આવી. એણે એક સુંદર સાડી પહેરેલી હતી. મોટો છોકરો એની પાસે ગયો અને લાડ અને ફરિયાદના મિશ્ર અવાજે બોલ્યો : 'મમ્મી, સાડી ન પહેરે તો ન ચાલે? તું સાડી પહેરે એ મને બિલકુલ ગમતું નથી. જરા ડ્રેસ બદલી આવો ને…' મમ્મીએ એને પંપાળ્યો અને મારી તરફ દુ:ખદ નજરે જોયું. સાડી તો નહિ બદલી.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C4",
+                  "concept_name": "મમ્મીની સાડી સામે દીકરાનો વાંધો અને મમ્મીનો મૂક જવાબ"
+                }
+              ],
+              "modified_chunk": "બીજા ઘરમાં બધાં બહાર જવા તૈયાર થતાં હતાં ત્યારે મમ્મીએ સુંદર સાડી પહેરી હતી. મોટા દીકરાએ લાડ અને ફરિયાદ ભેગાં કરીને કહ્યું કે તેને મમ્મીનું સાડી પહેરવું બિલકુલ ગમતું નથી અને ડ્રેસ બદલવા કહ્યું. મમ્મીએ તેને પંપાળ્યો (વહાલથી હાથ ફેરવ્યો) અને લેખક તરફ દુઃખી નજરે જોયું, પણ સાડી બદલી નહિ.",
+              "word_count": {
+                "original": 70
+              },
+              "key_terms": [
+                "ફરિયાદ — નારાજગી બતાવવી, વાંધો",
+                "મિશ્ર — બે વસ્તુ ભેગી થયેલી",
+                "પંપાળવું — વહાલથી હાથ ફેરવવો, શાંત પાડવું",
+                "દુ:ખદ — દુઃખ આપે એવું"
+              ],
+              "primary_content_type": "image",
+              "available_content_types": [
+                "image"
+              ],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            },
+            {
+              "topic_id": "M2.S2.T5",
+              "topic_name": "યુવાનોને ન આવડતી ઉપનિષદની પ્રાર્થના",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "ત્રીજા એક ઘરમાં બહેનોનું મિલન હતું એની શરૂઆત પ્રાર્થનાથી કરવાની હતી. મેં સૂચવ્યું હતું કે 'અસત્યો માંહેથી' પ્રાર્થના સૌ બોલીએ, પણ યુવાન લોકોમાં કોઈને એ પ્રાર્થના મોઢે ન હતી. સંકોચ તો ન હતો, પણ આવડતી જ ન હતી, પછી બોલે શી રીતે? છેવટે એક મોટી બહેને શરૂ કરી અને અમે બધાંએ ઉપાડી.\n\nઉપનિષદની એ પ્રાર્થના વિશ્વવિખ્યાત છે, અને દુનિયાના શ્રેષ્ઠ પ્રાર્થનાસંગ્રહોમાં એનું અગ્રસ્થાન છે. ગુજરાતની કોઈ પણ સ્કૂલના વિદ્યાર્થીઓને આ પ્રાર્થના મોઢે છે જ અને વિનાસંકોચે એ બોલી શકે. પણ પરદેશની એ ગુજરાતી બાળાઓને એ આવડતી ન હતી. બોલાવીએ તો બોલે, પણ પોતાની મેળે ન બોલે.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T5.C5",
+                  "concept_name": "યુવાનોને ન આવડતી ઉપનિષદની વિશ્વવિખ્યાત પ્રાર્થના"
+                }
+              ],
+              "modified_chunk": "ત્રીજા ઘરમાં બહેનોના મિલનની શરૂઆત પ્રાર્થનાથી કરવાની હતી, પણ 'અસત્યો માંહેથી' પ્રાર્થના ત્યાંના યુવાનોને મોઢે નહોતી. છેવટે એક મોટી બહેને શરૂ કરી ને બધાંએ સાથે ઉપાડી. આ પ્રાર્થના ગુજરાતની કોઈ પણ શાળાના વિદ્યાર્થીને મોઢે હોય છે, પણ પરદેશની ગુજરાતી છોકરીઓને પોતાની મેળે બોલતાં આવડતું નહોતું.",
+              "word_count": {
+                "original": 96
+              },
+              "key_terms": [
+                "મિલન — ભેગા થવું, મળવું",
+                "સંકોચ — શરમ, ખચકાટ",
+                "વિશ્વવિખ્યાત — આખી દુનિયામાં જાણીતું",
+                "અગ્રસ્થાન — સૌથી પહેલું અથવા ઊંચું સ્થાન"
+              ],
+              "primary_content_type": "image",
+              "available_content_types": [
+                "image"
+              ],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "ભાષા જવાની દલીલ",
+      "segments": [
+        {
+          "segment_id": "M3.S3",
+          "segment_name": "સાડી અને ભાષા પરનું ચિંતન",
+          "topics": [
+            {
+              "topic_id": "M3.S3.T6",
+              "topic_name": "સાડીનું માન અને પોતાની મમ્મી પરત્વેનો વિરોધાભાસ",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S2.T4"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "સાડી પણ પશ્ચિમના ભદ્ર સમાજમાં એક રુચિકર, પ્રતિષ્ઠિત, કલાત્મક વેશ ગણાય અને ભારતીય સ્ત્રીઓ એમની આગવી છટાથી સાડી પહેરીને આંતરરાષ્ટ્રીય સંમેલનોમાં જાય ત્યારે ખૂબ શોભે અને ખૂબ વખણાય.\n\nસાડી ખરેખર શોભે છે અને પરદેશમાં પણ એની પ્રતિષ્ઠા છે, પણ પોતાની મમ્મી સાડી પહેરે એ પેલા લંડનવાળા ગુજરાતી છોકરાને ગમતું નથી.",
+              "concepts": [
+                {
+                  "concept_id": "M3.S3.T6.C6",
+                  "concept_name": "સાડીની પ્રતિષ્ઠા અને પોતાની મમ્મી પરત્વેના વલણ વચ્ચેનો ફેર"
+                }
+              ],
+              "modified_chunk": "લેખક કહે છે કે સાડી પશ્ચિમના સમાજમાં પણ સુંદર અને પ્રતિષ્ઠિત પોશાક ગણાય છે, અને ભારતીય સ્ત્રીઓ સાડી પહેરીને આંતરરાષ્ટ્રીય મેળાવડાઓમાં ખૂબ શોભે છે. છતાં એ જ લંડનવાળા છોકરાને પોતાની મમ્મી સાડી પહેરે એ ગમતું નથી — આ એક વિરોધાભાસ (સામસામી વાત) છે.",
+              "word_count": {
+                "original": 50
+              },
+              "key_terms": [
+                "રુચિકર — ગમે એવું, સુંદર",
+                "પ્રતિષ્ઠિત — માનભર્યું, આબરૂદાર",
+                "છટા — ઢબ, રીત",
+                "વિરોધાભાસ — બે વિરુદ્ધ વાત એકસાથે હોવી"
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            },
+            {
+              "topic_id": "M3.S3.T7",
+              "topic_name": "દીકરો ગુજરાતી બોલશે, વાંચશે કે વાપરશે ખરો ?",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S2.T3"
+              ],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "અને મોટી વાત તે ભાષાની. પોતાના બાપને ગુજરાતીમાં બોલતા સાંભળીને દીકરાને ગુસ્સો ચડે તો પોતે ગુજરાતીમાં બોલશે ખરો? વાંચશે ખરો? વાપરશે ખરો ? થોડુંઘણું ગુજરાતી તો એને આવડે છે. નાનપણથી ઘેર સાંભળતો અને સ્કૂલમાં કે સ્કૂલની બહાર થોડું પણ શીખતો. અત્યારે એ ગુજરાતી સમજે છે, અશુદ્ધ બોલે અને નહિ લખે એવી પરિસ્થિતિ છે. પરદેશમાં દેશી ભાષા સચવાતી નથી.",
+              "concepts": [
+                {
+                  "concept_id": "M3.S3.T7.C7",
+                  "concept_name": "ગુજરાતી બોલવા-વાંચવા-વાપરવા અંગેની અનિશ્ચિતતા"
+                }
+              ],
+              "modified_chunk": "લેખક વિચારે છે કે જે દીકરાને પિતાનું ગુજરાતી બોલવું જ ગમતું નથી, એ પોતે ગુજરાતી બોલશે, વાંચશે કે વાપરશે ખરો? એને થોડું ગુજરાતી ઘરેથી અને શાળાએથી આવડે છે ખરું, પણ અત્યારે એ ફક્ત સમજે છે, અશુદ્ધ બોલે છે અને લખી શકતો નથી. પરદેશમાં માતૃભાષા આમ જ ધીરે ધીરે ઓછી થતી જાય છે.",
+              "word_count": {
+                "original": 58
+              },
+              "key_terms": [
+                "અશુદ્ધ — ખોટું, ભૂલવાળું",
+                "પરિસ્થિતિ — હાલત, સ્થિતિ",
+                "દેશી ભાષા — પોતાના દેશની ભાષા, માતૃભાષા",
+                "સચવાવું — ટકી રહેવું, જળવાઈ રહેવું"
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S4",
+          "segment_name": "પ્રયોગ અને પ્રામાણિકતા",
+          "topics": [
+            {
+              "topic_id": "M3.S4.T8",
+              "topic_name": "આફ્રિકાનો સરળ-જોડણી પ્રયોગ અને એની મર્યાદા",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O8"
+              ],
+              "original_chunk": "આફ્રિકાના એક મુલકમાં ગુજરાતીઓની વચ્ચે ગુજરાતી ભાષાને ટકાવવા એક પ્રયોગ કર્યો છે. ગુજરાતી લખવામાં ઘણાંને તકલીફ પડે (અરે, આપણનેય હો !) માટે સરળ જોડણી અને સરળ નિયમો અપનાવ્યાં છે. બધી ઈ દીર્ઘ અને બધા ઉ હ્રસ્વ. જોડાક્ષર નહિ. અનુસ્વાર નહિ અને કોઈ ભૂલ હોય તોય ભૂલ નહિ ગણાય. સારી સગવડ છે અને ઉદારતા છે. પ્રયોગ પાછળનો હેતુ પણ શુભ છે અને યોગ્ય છે; પરંતુ એથી કંઈ વળવાનું નહિ. ગુજરાતીને સરળ બનાવવાથી ગુજરાતી ટકવાનું નહિ. દીર્ઘ હ્રસ્વનો સવાલ નથી. ક ખ ગ ઘનો સવાલ છે. એટલે કે આખી ભાષાનો સવાલ છે. એ જાય તો જાય, અને ટકે તો ટકે. ને પરદેશમાં એ નહિ ટકે.",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T8.C8",
+                  "concept_name": "આફ્રિકાનો સરળ-જોડણી પ્રયોગ અને એની મર્યાદા"
+                }
+              ],
+              "modified_chunk": "આફ્રિકામાં ગુજરાતીઓએ ભાષા ટકાવવા સરળ જોડણીનો પ્રયોગ કર્યો — બધી ઈ દીર્ઘ (લાંબી), બધા ઉ હ્રસ્વ (ટૂંકા), જોડાક્ષર અને અનુસ્વાર વગર, અને ભૂલને ભૂલ ન ગણવાની છૂટ. લેખક કહે છે કે આ પ્રયોગનો હેતુ સારો છે, પણ એનાથી ગુજરાતી ભાષા ટકવાની નથી, કારણ કે સવાલ જોડણીનો નહિ, આખી ભાષાનો છે.",
+              "word_count": {
+                "original": 103
+              },
+              "key_terms": [
+                "મુલક — પ્રદેશ, દેશનો ભાગ",
+                "જોડણી — શબ્દ કેવી રીતે લખાય તેના નિયમો",
+                "જોડાક્ષર — બે વ્યંજન ભેગા મળીને બનતો અક્ષર",
+                "ઉદારતા — છૂટછાટ આપવાનો સ્વભાવ"
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            },
+            {
+              "topic_id": "M3.S4.T9",
+              "topic_name": "લેખકનો પરદેશ-અનુભવ અને પ્રામાણિક કબૂલાત-વળાંક",
+              "topic_type": "CONCEPT",
+              "topic_category": "transition",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O9"
+              ],
+              "original_chunk": "પરદેશના ગુજરાતીઓના આમંત્રણથી તેઓ વસે છે એવા અનેક દેશમાં હું ગયો છું. એમની જોડે રહ્યો છું, ચર્ચાઓ કરી છે, વ્યાખ્યાનો આપ્યાં છે. એમને સીધી વાત કરવાની હજુ સુધી મારી હિંમત ચાલતી ન હતી. મને બોલાવે, બધી સગવડ કરી આપે, ઉત્તમ આતિથ્ય કરે, એટલે હું સૌને સારું સારું લગાડીને બોલતો અને ગુજરાતીને ટકાવવા જે કંઈ પ્રયત્ન કરે તે ખૂબ વખાણતો : જરૂર ઘરમાં નાના છોકરાઓની જોડે ગુજરાતી બોલે, સ્કૂલમાં એનો અભ્યાસ દાખલ કરાવી શકો તો કરાવો, અને ન બની શકે તો સ્કૂલના સમય પછી સ્કૂલના મકાનમાં ભણાવો, દેશથી ગુજરાતી માસિકો મંગાવો, ગુજરાતીમાં પ્રવચનો ગોઠવો, ગુજરાતી ભજનો ગાઓ, એ રીતે જરૂર ગુજરાતી ભાષાનું ગૌરવ સાચવી શકશો અને એના લાભ તમને મળતા રહેશે. હવે હિંમત આવી ગઈ છે એટલે સીધું કહું છું : આ બધું સારું છે, પણ નકામું છે. એટલે કે એથી ગુજરાતી તમારે ત્યાં ટકવાનું નથી ને એનું ગૌરવ સચવાવાનું નથી ને એના લાભ મળવાના નથી. ખોટી ભ્રમણા ન સેવો. ગુજરાતી તમારાં ઘરોમાંથી જાય જ છે. બહુ બહુ તો એક-બે પેઢી થોડું રહેશે. બે પેઢી પછી નામનિશાન નહિ રહે એ હકીકત છે એ જાણવી જોઈએ અને કહેવી જોઈએ. ખોટું આશ્વાસન આપવા એકબીજાને સારું લગાડવાનો પ્રયત્ન વ્યર્થ જ છે.",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T9.C9",
+                  "concept_name": "લેખકનું ખોટા આશ્વાસનમાંથી પ્રામાણિક કબૂલાત તરફનું વળવું"
+                }
+              ],
+              "modified_chunk": "લેખક પરદેશ ગયેલા ગુજરાતીઓને અગાઉ ઘરમાં ગુજરાતી બોલવા, શાળામાં ભણાવવા અને સામયિકો મંગાવવા જેવી સલાહો ઉત્સાહથી આપતા હતા, કારણ કે તેમની મહેમાનગતિ સામે સાચું કહેવાની હિંમત નહોતી. હવે તેઓ ખુલ્લેઆમ કબૂલે છે કે આ બધી સલાહો સારી છે પણ નકામી છે — ગુજરાતી ભાષા બે પેઢી પછી ત્યાં નામનિશાન વગરની થઈ જવાની છે.",
+              "word_count": {
+                "original": 187
+              },
+              "key_terms": [
+                "આતિથ્ય — મહેમાનગતિ",
+                "વ્યાખ્યાન — જાહેરમાં અપાતું ભાષણ",
+                "ભ્રમણા — ખોટી માન્યતા",
+                "વ્યર્થ — નકામું, ફોગટ",
+                "પેઢી — એક જ સમયે જીવતી લોકોની હાર (દાદા-બાપ-દીકરો દરેક એક પેઢી)"
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "સાહિત્ય, વાંધો અને સંસ્કૃતિનું અતૂટ જોડાણ",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T10",
+              "topic_name": "સાક્ષર સાથેની વાતચીત — નરસિંહ-મીરાંથી સુન્દરમ્-રાજેન્દ્ર-મકરંદ સુધી",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O10"
+              ],
+              "original_chunk": "હમણાં પરદેશ જઈ આવેલા એક આત્મીય ગુજરાતી સાક્ષરની સાથે વાતચીત થતી હતી એમાં આ વાત નીકળી. તેઓ ભારપૂર્વક કહેતા : 'પરદેશમાં વસતા આપણા ભાઈઓએ જેમ તેમ કરીને ગુજરાતીનું જ્ઞાન ચાલુ રાખવું પડશે, નહિ તો એ લોકો નરસિંહ-મીરાંને, અરે, સુન્દરમ્-રાજેન્દ્ર-મકરંદને કેવી રીતે વાંચશે?' મેં ધીરેથી કહ્યું: 'વાંચતા જ નથી. અને મીરાં, નરસિંહ વિશે તો હજીય જાણે, પણ સુન્દરમ્, રાજેન્દ્ર, મકરંદ વિશે પરદેશમાં જન્મેલા ગુજરાતી યુવાનોને પૂછો તો એમનાં નામ પણ સાંભળ્યાં નહિ હોય. પછી વાંચવાની વાત ક્યાં રહી !'",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T10.C10",
+                  "concept_name": "સાક્ષર સાથેની ચર્ચા — ભવિષ્યની પેઢી નરસિંહ-મીરાં અને સુન્દરમ્-રાજેન્દ્ર-મકરંદને વાંચશે ?"
+                }
+              ],
+              "modified_chunk": "પરદેશથી પાછા આવેલા એક ગુજરાતી સાક્ષર (વિદ્વાન) લેખકને કહે છે કે પરદેશમાં રહેતા ગુજરાતીઓએ ભાષાનું જ્ઞાન ટકાવવું જ પડશે, નહિ તો તેઓ નરસિંહ-મીરાં કે સુન્દરમ્-રાજેન્દ્ર-મકરંદ જેવા સાહિત્યકારોને કેવી રીતે વાંચશે. લેખક ધીરેથી જવાબ આપે છે કે પરદેશમાં જન્મેલા યુવાનો હવે વાંચતા જ નથી; મીરાં-નરસિંહનાં નામ કદાચ ખબર હશે, પણ સુન્દરમ્-રાજેન્દ્ર-મકરંદનાં નામ પણ તેમણે સાંભળ્યાં નહિ હોય.",
+              "word_count": {
+                "original": 78
+              },
+              "key_terms": [
+                "સાક્ષર — વિદ્વાન, ભણેલો માણસ",
+                "ભારપૂર્વક — જોર દઈને, મક્કમતાથી",
+                "જ્ઞાન — સમજ, વિદ્યા"
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            },
+            {
+              "topic_id": "M3.S5.T11",
+              "topic_name": "'ભાષા જાય તો ભલે જાય' વાંધો અને એનો જવાબ",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O11"
+              ],
+              "original_chunk": "કોઈ કહેશે કે ભાષા જાય તો ભલે જાય. એમાં શું? ને અંગ્રેજ ક્યાં ખોટી ભાષા છે કે બીજીની જરૂર પડે ! ગુજરાતી જાય તો ભલે જાય. ચલાવી લઈએ.\n\nભાષા જાય એનું દુ:ખ છે પણ ભાષા જાય ત્યારે એનું બીજું અને મોટું દુ:ખ અને ચિંતા છે કે ભાષા જાય ત્યારે એકલી નહિ જાય. ભાષા જાય, માતૃભાષા જાય, દેશની અને કુટુંબની અને બાપદાદાઓની ભાષા એ કુટુંબના સભ્યોમાંથી જાય, એની આવડત જાય, એની સમજણ જાય, એનો ઉપયોગ જાય ત્યારે એની સાથે મૂળ દેશની સાથેનો સંપર્ક જાય, વારસાગત સંસ્કૃતિ સાથેનો સંપર્ક જાય, સંસ્કારો જાય, મૂળિયાં જાય, ઈતિહાસનો અને ભૂતકાળનો અને હૃદયનો એક કટકો જાય. એ મોટી ખોટ છે.",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T11.C11",
+                  "concept_name": "'ભાષા જાય તો ભલે જાય' વાંધો અને ભાષા સાથે જે જે જાય છે તેની યાદી"
+                }
+              ],
+              "modified_chunk": "કોઈ કહી શકે કે ગુજરાતી ભાષા જાય તો ભલે જાય, અંગ્રેજી ક્યાં ખોટી ભાષા છે? લેખક જવાબ આપે છે કે ભાષા એકલી નથી જતી — તેની સાથે માતૃભાષા, વારસાગત (પૂર્વજોથી મળેલી) સંસ્કૃતિ, સંસ્કારો, મૂળિયાં અને ભૂતકાળનો સંપર્ક પણ જતો રહે છે. આ બહુ મોટી ખોટ (નુકસાન) છે.",
+              "word_count": {
+                "original": 104
+              },
+              "key_terms": [
+                "વારસાગત — પૂર્વજો પાસેથી મળેલું",
+                "મૂળિયાં — જડ; અહીં પોતાના મૂળ સાથેનો સંબંધ",
+                "ખોટ — નુકસાન",
+                "ચિંતા — ફિકર"
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            },
+            {
+              "topic_id": "M3.S5.T12",
+              "topic_name": "ભાષા અને સંસ્કૃતિનું અતૂટ જોડાણ — ગીતાજીનો પ્રયોગ",
+              "topic_type": "CONCEPT",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O12"
+              ],
+              "original_chunk": "ભાષા અને સંસ્કૃતિ એકબીજાની સાથે એવી તો સંકળાયેલી છે કે એક જાય તો બીજી જાય. ભાષા એ સંસ્કૃતિનું તટસ્થ વાહન નથી. એની સાથે ઓતપ્રોત છે, વણાયેલી છે, એક થયેલી છે. આર્ય સંસ્કૃતિ આર્ય ભાષાઓમાં જ ટકે. એક પ્રયોગ કરવો હોય તો ગીતાજીનાં સ્થિતપ્રજ્ઞનાં લક્ષણો તમે ગુજરાતીમાં બોલો (અને સંસ્કૃત આવડે તો સંસ્કૃતમાં) ત્યારે દિલમાં અનેરાં આનંદ, શાંતિ, સાત્ત્વિકતાનો અનુભવ કરો છો. અંગ્રેજીમાં વાંચો ત્યારે એવું કશું લાગતું નથી. ભાષાનો પ્રભાવ છે. ભાષાનું જોર છે. તે જે સંસ્કૃતિમાંથી આવી છે એની સાથે એકરૂપ થયેલી હોય છે, માટે એ જો જાય તો એના સંસ્કારો પણ ઘસડીને લઈ જાય.\n\nગુજરાતી ભાષા જાય તો સંસ્કૃતિને પણ સાથે લઈ જાય. એ કંઈ ઓછું જોખમ નથી.",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T12.C12",
+                  "concept_name": "ગીતાજીના પ્રયોગ દ્વારા ભાષા-સંસ્કૃતિનું અતૂટ જોડાણ"
+                }
+              ],
+              "modified_chunk": "લેખક કહે છે કે ભાષા અને સંસ્કૃતિ એટલી ઓતપ્રોત (એકબીજા સાથે વણાયેલી) છે કે એક જાય તો બીજી પણ જાય; ભાષા સંસ્કૃતિનું તટસ્થ (નિષ્પક્ષ) સાધન નથી. ગીતાજીનાં સ્થિતપ્રજ્ઞનાં લક્ષણો ગુજરાતીમાં બોલતાં દિલમાં જે આનંદ-શાંતિ-સાત્ત્વિકતાનો અનુભવ થાય છે, એવો અનુભવ અંગ્રેજીમાં વાંચતાં થતો નથી. તેથી ગુજરાતી ભાષા જાય તો સંસ્કૃતિ પણ સાથે લઈ જાય.",
+              "word_count": {
+                "original": 110
+              },
+              "key_terms": [
+                "ઓતપ્રોત — એકબીજા સાથે વણાઈ ગયેલું",
+                "તટસ્થ — નિષ્પક્ષ, કોઈનો પક્ષ ન લેનારું",
+                "સ્થિતપ્રજ્ઞ — જેની બુદ્ધિ સ્થિર છે એવું, જ્ઞાની",
+                "સાત્ત્વિકતા — શુદ્ધ, શાંત મનની સ્થિતિ"
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M4",
+      "module_name": "નિર્ણય લેતાં પહેલાં",
+      "segments": [
+        {
+          "segment_id": "M4.S6",
+          "segment_name": "લેખકની અંતિમ માગણી",
+          "topics": [
+            {
+              "topic_id": "M4.S6.T13",
+              "topic_name": "પૂરો વિચાર કરીને નિર્ણય લેવાની અંતિમ માગણી",
+              "topic_type": "CONCEPT",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M3.S5.T12"
+              ],
+              "objective_ids": [
+                "O13"
+              ],
+              "original_chunk": "મારી મૂળ વાત ફરી એક વાર સ્પષ્ટ કહું. તમે પરદેશમાં ન જાઓ એમ હું નથી કહેતો. ત્યાં ન રહો એમ પણ નથી કહેતો. તમારી ઈચ્છા હોય તો જરૂર જશો અને જરૂર રહેશો. પણ જશો તો પૂરો વિચાર કરીને જશો, રહેશો તો પૂરો વિચાર કરીને રહેશો. શું મળે અને શું જાય, શો લાભ છે અને શું નુકસાન છે, શાની આશા છે, અને શાનો ચોક્કસ ભારે મોટો ભોગ છે એ બરાબર જોજો. જમા ખાતે ઠીક રકમ છે, પણ ગયા ખાતે કંઈ ઓછી રકમ નથી. બંને પક્ષ બરાબર તપાસજો. પછી જવું હોય તો જરૂર જજો પણ આંખો બંધ કરીને નહિ જાઓ. બીજાઓના અનુકરણથી, ફૅશનના જોરથી, પૈસાના મોહથી, પ્રતિષ્ઠાની ભૂખથી તો નહિ જાઓ. અને સાચા કારણથી જવાનો વિચાર કરશો ત્યારે પણ જવાથી કેવા ગેરલાભ છે એનો પણ પૂરો ખ્યાલ કરો. મા-બાપનો વિયોગ, કામનો અતિરેક, ઓછું કૌટુંબિક જીવન, લઘુમતીનાં જોખમ, સંસ્કૃતિનો હ્રાસ. યાદ રાખો કે તમને પ્રિય છે એવી કેટલીક વસ્તુઓ તમારે માટે નહિ તો તમારા દીકરાઓ માટે તો જશે. મમ્મીની સાડી જશે. પપ્પાની ભાષા જશે. ઉપનિષદની પ્રાર્થના પણ જશે. એ તમને ગમશે ખરું?",
+              "concepts": [
+                {
+                  "concept_id": "M4.S6.T13.C13",
+                  "concept_name": "લાભ-ભોગ તપાસીને પૂરો વિચાર કરીને નિર્ણય લેવાની અંતિમ માગણી"
+                }
+              ],
+              "modified_chunk": "લેખક પોતાની મૂળ વાત ફરી સ્પષ્ટ કરે છે: પરદેશ જવું કે રહેવું એ વ્યક્તિની પોતાની ઈચ્છા છે, પણ એ નિર્ણય પૂરો વિચાર કરીને, ફાયદો અને નુકસાન બંને તપાસીને લેવાનો છે — બીજાના અનુકરણથી, ફેશનથી કે પૈસાના મોહથી નહિ. તેઓ યાદ અપાવે છે કે આવો નિર્ણય મોડો-વહેલો મમ્મીની સાડી, પપ્પાની ભાષા અને ઉપનિષદની પ્રાર્થના જેવી પ્રિય વસ્તુઓ છીનવી શકે છે.",
+              "word_count": {
+                "original": 169
+              },
+              "key_terms": [
+                "ગેરલાભ — નુકસાન, ખોટ",
+                "અનુકરણ — બીજાની જેમ કરવું, નકલ",
+                "મોહ — લાલચ, આકર્ષણ",
+                "ભોગ — જતું કરવું પડે એવી કિંમત, બલિદાન"
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Marker-count cross-check: 01_meta.json's structure_inventory reports ghatna:3, tark_khand:7, samvad_exchanges:1 (=11), plus the two apparatus-parichay markers [[લેખક-પરિચય]] and [[કૃતિ-પરિચય]] in 00_chapter_normalized.md = 13 markers total, matching the 13 topics cut here exactly. One marker, one topic, throughout — no discrepancy to flag for Agent 4.",
+    "genre / active_genre_profiles: only samvad_nibandh.md is listed in 01_meta.json's active_genre_profiles (single-voice half of the profile — a ચિંતનાત્મક નિબંધ, not the two-voice std-6 ch-6 anchor). genre_subform records 01_meta.json's own descriptive genre string to keep that distinction visible downstream. This chapter is itself the profile's own cited single-voice anchor (samvad_nibandh.md's provenance box), so its Explanation-unit wording ('three London visit-anecdotes followed by the તર્ક they support') is followed literally in this cut.",
+    "topic_type rationale: the three [[ઘટના: ...]] markers are recounted personal incidents and are cut STORY_TELLING per explanation_unit_map.md's definition ('a narrative ઘટના or a remembered સ્મૃતિ') — consistent with output9/ch02 (nibandh_atmaparak), where narrated incidents inside an essay get STORY_TELLING. The seven [[તર્ક: ...]] markers and the one [[સંવાદ: ...]] marker carry no narrated incident of their own — pure reasoning/argument moves — and are cut CONCEPT, following output6/ch06's precedent (a samvad_nibandh-tagged chapter where every argument/informational move, including its સંવાદ-labelled ones, was cut CONCEPT; the authored enum has no bespoke 'argument' type).",
+    "M3.S5.T10 ([[સંવાદ: ...]]) is this chapter's one genuine two-voice exchange (લેખક + આત્મીય ગુજરાતી સાક્ષર, both quoted with attribution) inside an otherwise single-voice નિબંધ. Flagging for Agent 7/13 to apply gate G1 (both speakers named and reported in explanation) and G4 (dialogue stays dialogue — quotation marks and attribution clauses kept verbatim) specifically to this topic.",
+    "G6 wrong-route check (Agent 4): 00_chapter_normalized.md carries no line matching a printed speaker-label in margin position (`નામ :`) and no parenthetical stage direction anywhere in the chapter — confirms samvad_nibandh.md (single-voice નિબંધ half) is the correct route, not natak_ekanki.md. Matches 01_meta.json's genre_confidence: high.",
+    "Refrain-analogue (profile's own vocabulary): the repeated 'જાય...જાય...' construction that the book's own ભાષા-અભિવ્યક્તિ box names as craft lands inside M3.S5.T11's second paragraph ('ભાષા જાય એનું દુ:ખ છે...'); it echoes again in M3.S5.T12's closing line ('ગુજરાતી ભાષા જાય તો સંસ્કૃતિને પણ સાથે લઈ જાય') and once more in M4.S6.T13's closing three sentences ('મમ્મીની સાડી જશે. પપ્પાની ભાષા જશે. ઉપનિષદની પ્રાર્થના પણ જશે.', tying back to all three M2.S2 ઘટના). Quoted inside each landing topic where it occurs; never cut as a topic of its own, per samvad_nibandh.md's Refrain-analogue rule.",
+    "Difficulty (profiles/students/std-9.md's std 9-10 hard criteria — medieval/તત્સમ-dense vocabulary, a named-device line, or a સંવાદ/argument turn carrying the chapter's case — never exam length or craft-naming alone): M3.S4.T8 is hard for the dense jodani/technical vocabulary (દીર્ઘ, હ્રસ્વ, અનુસ્વાર, જોડાક્ષર); M3.S4.T9 is hard as the chapter's pivotal multi-negation confession-turn ('આ બધું સારું છે, પણ નકામું છે... નહિ ટકવાનું... નહિ સચવાવાનું... નહિ મળવાના'); M3.S5.T12 is hard for its dense તત્સમ abstractions (ઓતપ્રોત, તટસ્થ, સ્થિતપ્રજ્ઞ, સાત્ત્વિકતા). All other topics are easy/medium by concrete narrative or plain reflective diction.",
+    "depends_on: M3.S3.T6 and M3.S3.T7 are real reflections that explicitly reprise the સાડી (M2.S2.T4) and પિતાના ગુજરાતી બોલવા (M2.S2.T3) anecdotes respectively — recorded as real dependence. M4.S6.T13 depends_on M3.S5.T12 because its opening line ('મારી મૂળ વાત ફરી એક વાર સ્પષ્ટ કહું') explicitly restates the thesis M3.S5.T12 just landed. Every other topic carries an independent reasoning move or a fresh scene and depends_on: [].",
+    "No REVIEW-type topic exists: 00_chapter_normalized.md carries no in-text summary/wrap block between તર્ક strands — the essay runs as one continuous first-person case to its own conclusion.",
+    "Apparatus/exercise exclusion: the શબ્દ-સમજૂતી box (સમાનાર્થી/શબ્દાર્થ + વિરુદ્ધાર્થી sub-heads only, per 01_meta.json — no તળપદા શબ્દો sub-head in this chapter), all three સ્વાધ્યાય blocks, વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are NOT cut as topics — left for Agent 10 / key_terms per 01_meta.json's exercise_inventory and extraction_notes.",
+    "Segment/module grouping is uneven by design, not by even split: M1 and M4 hold one segment each (2 and 1 topics), M2 holds the three ઘટના as one segment, M3 holds three segments (2/2/3 topics) grouped by the argument's own internal turns (સાડી+ભાષા reflection → પ્રયોગ+કબૂલાત-વળાંક → સાહિત્ય-વાંધો-થિસિસ). Flagged for Agent 13's pacing read, per the same kind of note recorded in output9/ch02.",
+    "No અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text — this chapter is prose argument and the profile's craft points (the 'જાય' repetition, the સાડી/ભાષા parallel) are left for Agent 12's explanation, not named here. Bloom levels reach Remember through Evaluate across the ladder (O1 Remember; O2/O3/O4/O10 Understand; O5/O6/O7/O8/O9/O11/O12 Analyze; O13 Evaluate), never capped by topic difficulty per author.md's rule that difficulty is not a Bloom cap.",
+    "Agent 5 (05_verbatim_attachment): all 13 topics' original_chunk copied verbatim from 00_chapter_normalized.md's marker blocks (2 apparatus markers [[લેખક-પરિચય]]/[[કૃતિ-પરિચય]] + 3 [[ઘટના: ...]] + 7 [[તર્ક: ...]] + 1 [[સંવાદ: ...]]), one marker one topic, matching 02_structure.json/04_converged.json's frozen cut exactly. No marker split or merged; ids, names, objectives, structure passed through untouched.",
+    "Verified against fresh 150 dpi renders of the source PDF (scratch/run-s9c6-5/page-1.png through page-4.png, printed pages 17-20) covering every topic's full span, plus targeted 300 dpi crops re-checking the three forms 01_meta.json's extraction_notes had already flagged as easy to misread at low zoom: 'હ્રસ્વ' in M3.S4.T8's આફ્રિકા paragraph (the હ્ર conjunct is clearly legible, confirming 'હ્રસ્વ' and not 'હ્સ્વ'), 'ફૅશનના' in M4.S6.T13's closing paragraph (candra-e/ઍ-matra over ફ confirmed), and 'અંગ્રેજ' (without ી) in M2.S2.T3's quoted line and body text (confirmed as the book's own printed usage, kept verbatim per gujarati_verbatim.md, not corrected to 'અંગ્રેજી'). No mismatch between 00_chapter_normalized.md and the rendered pages was found anywhere in this chapter during this verification pass; nothing was reconstructed from memory or paraphrased in place of a verbatim passage.",
+    "M2.S2.T5's original_chunk includes the unmarked transition paragraph after the third [[ઘટના: ...]] marker ('ઉપનિષદની એ પ્રાર્થના વિશ્વવિખ્યાત છે ... પણ પોતાની મેળે ન બોલે.'), per 04_validation.json's own coverage note that this unmarked paragraph falls inside T5's span and is answered by O5. M3.S3.T6, M3.S5.T11 and M3.S5.T12 each join two printed paragraphs under one [[તર્ક: ...]] marker with a blank line ('\\n\\n') preserved between them, matching the page's own paragraph breaks, per output9/ch02's convention for this same run.",
+    "No attribution/source line (e.g. '— ફાધર વાલેસ') is printed separately at the essay's close in this chapter — M4.S6.T13's original_chunk ends where the printed prose ends, immediately followed by the [[શબ્દ-સમજૂતી]] apparatus block on the rendered page; there is nothing further to fold in per gujarati_verbatim.md rule 5.",
+    "primary_content_type/available_content_types set to image only for the three STORY_TELLING ઘટના topics (M2.S2.T3, M2.S2.T4, M2.S2.T5) — the concrete London-visit anecdotes. All ten CONCEPT topics (the two પરિચય topics and the seven તર્ક/એક સંવાદ argument-moves) carry null/[]: no image, per samvad_nibandh.md's own Media prior naming this exact chapter as the model case ('for a single-voice નિબંધ, image the concrete anecdote the strand rests on, never the abstraction: std-9 ch-6 draws the London sitting-room ... not \"language and culture\"') and matching the STORY_TELLING-gets-image / CONCEPT-parichay-gets-none pattern already used in output9/ch02's 05_with_content.json for this same run.",
+    "key_terms picked per reference/shabd_gloss.md's L2-recalibrated std-9 target (3-5 per topic, inside the 3-6 contract band): reused the printed શબ્દ-સમજૂતી box's own headwords where a topic's chunk contains them (ભદ્ર, પ્રતિષ્ઠા, વ્યર્થ, ઓતપ્રોત, તટસ્થ, સ્થિતપ્રજ્ઞ, સાત્ત્વિકતા, આતિથ્ય all land in the topics whose chunks carry them), plus additional તત્સમ/આગત/L2-stopping words the box leaves out but an L2 std-9 reader stops on (અધ્યાપક, અતિરેક, લઘુમતી, હ્રાસ, અણગમો, જોડાક્ષર, વારસાગત, અનુકરણ, ભોગ). None of the printed વિરુદ્ધાર્થી pairs are lifted into key_terms — those belong to Agent 10/ભાષા-બોધ per shabd_gloss.md's 'trap' section, not to this field.",
+    "modified_chunk on every topic is a plain 'શું થઈ રહ્યું છે' restatement in simple શિષ્ટ ગુજરાતી, 2-4 sentences, with the hardest words glossed inline in Gujarati parenthetical form (ધોરણ tier per shabd_gloss.md — no English placed in any modified_chunk); it reports the text's own argument/ask in third person rather than issuing it as a second-person directive (avoiding samvad_nibandh.md gate G2 by construction), and is raw seed material for Agent 12, not the explanation itself — no deeper reading, અલંકાર, ભાવ or real-life link is written here.",
+    "No topic's original_chunk, modified_chunk or key_terms introduces a numeral into display text, a '।' daṇḍa, Roman script, or Devanagari script, per global_content_rules.md rule 4 and gujarati_verbatim.md rules 1 and 6. 'અંગ્રેજ' and 'ફૅશનના' are printed-page forms kept verbatim, not defects."
+  ],
+  "provenance": {
+    "agent": "05_verbatim_attachment",
+    "source_text": "00_chapter_normalized.md",
+    "verified_against_render": true,
+    "renders": [
+      "scratch/run-s9c6-5/page-1.png",
+      "scratch/run-s9c6-5/page-2.png",
+      "scratch/run-s9c6-5/page-3.png",
+      "scratch/run-s9c6-5/page-4.png"
+    ],
+    "notes": [
+      "This chapter's PDF is image-only; 00_chapter_normalized.md is Agent 1's transcription off the rendered pages. All 13 topics' original_chunk verified against fresh 150 dpi renders (pages 1-4, printed pages 17-20), with 300 dpi crops pulled for three forms already flagged as low-zoom misreads in 01_meta.json's extraction_notes ('હ્રસ્વ', 'ફૅશનના', 'અંગ્રેજ') — all three confirmed to match 00_chapter_normalized.md exactly.",
+      "No mismatch between 00_chapter_normalized.md and the rendered pages was found anywhere in this chapter during this verification pass; nothing was reconstructed from memory or paraphrased in place of a verbatim passage."
+    ]
+  }
+}

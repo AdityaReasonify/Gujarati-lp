@@ -1,0 +1,6 @@
+{"textbook":"ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9",
+ "textbook_url":"../Textbooks-pdf/std-9/ch-10-e-loko.pdf",
+ "textbook_pages":"44–46",
+ "source":"printed folio, read off renders (150 dpi) of pdf pp. 1 and 3 of the chapter PDF (folios 44 and 46 legible; footer running-head reads ધોરણ ૯); cross-checked against manifest.json row (printed_start 44, pdf_start 48, pdf_end 50) and the std-9 offset (N+4) in profiles/boards/gseb_gujarati.md — all three agree",
+ "confidence":"medium",
+ "gaps":["textbook_url is a local path — the GSEB readers have no hosted URL","std 9 cover has not been read (per profiles/boards/gseb_gujarati.md); textbook title carried from 01_meta.json and supported only by the page footer running-head (ધોરણ ૯), not a confirmed cover read"]}

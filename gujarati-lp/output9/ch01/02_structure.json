@@ -1,0 +1,158 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch1",
+  "genre": "duha_chhappa",
+  "active_genre_profiles": ["duha_chhappa.md"],
+  "explanation_unit": "એક છપ્પો",
+  "teaching_lens": "અનુભવની શિખામણ + દૃષ્ટાંત (અહીં કટાક્ષ-પ્રધાન)",
+  "guiding_question": "અખો રોજિંદા જીવનનાં કયાં દૃશ્યો બતાવીને ઢોંગી અને જડ લોકો પર કટાક્ષ કરે છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અખાના જીવન અને 'છપ્પા' સ્વરૂપ વિશે કૃતિ-પરિચયમાં અપાયેલી માહિતી પરથી, આ બંને છપ્પા કયા પ્રકારના લોકો પર કટાક્ષ કરે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1", "M1.S1.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પ્રથમ છપ્પામાં અખો કયા દૃશ્યથી પથ્થરપૂજા અને દેખાડાના ધર્માચરણ પર કટાક્ષ કરે છે તે પંક્તિ શોધીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": ["M2.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બીજા છપ્પામાં અખો ઘુવડ અને સૂર્યના તથા હીરા અને પથ્થરના પ્રતીકો વડે જડ, અભિમાની લોકોની વક્રોક્તિભરી ટીકા કઈ રીતે કરે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": ["M2.S2.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "કવિ અને કૃતિનો પરિચય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "અખો અને એમના છપ્પાની ઓળખાણ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "અખાનો કવિ-પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "અખાનો કવિ-પરિચય"
+                }
+              ],
+              "note": "Marker [[કવિ-પરિચય]]. Prose printed for the student (poet bio paragraph) — CONCEPT per explanation_unit_map.md's std-10 kavi-parichay rule, applied here since std-9 prints the kavi-parichay and kriti-parichay as two SEPARATE markers rather than one unlabelled paragraph. One marker, one topic, per Agent 2's rule 'One marker, one topic.'"
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "છપ્પા સ્વરૂપ અને કૃતિનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "છપ્પા સ્વરૂપ અને કૃતિનો પરિચય"
+                }
+              ],
+              "note": "Marker [[કૃતિ-પરિચય]]. Prose printed for the student (work-intro paragraph naming the theme: ઢોંગી, રૂઢિચુસ્ત, બાહ્ય દેખાવવાળા લોકો પર કટાક્ષ) — CONCEPT topic, separate from T1 because the page prints two separate markers. depends_on T1 since the work-intro follows and presumes the poet has been introduced."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "અખાના બે છપ્પા",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ઢોંગ અને જડતા પરના બે કટાક્ષ-છપ્પા",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "પથ્થરપૂજા અને દેખાડાના ધર્માચરણ પરનો કટાક્ષ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T2"],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "પથ્થરપૂજા અને દેખાડાના ધર્માચરણ પરનો કટાક્ષ"
+                }
+              ],
+              "note": "Marker [[છપ્પો 1]]. Three printed lines, complete in itself (piece-wise unit per duha_chhappa.md). છાપ 'અખા' sits inside the third line ('એ તો અખા બહુ ઉત્પાત...') and stays inside original_chunk when Agent 5 copies it. No source-note printed after this piece (the '(‘અખાના છપ્પા’માંથી)' note sits after piece 2 only) — nothing to append here."
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "ઘુવડ-સૂર્ય અને હીરા-પથ્થરના પ્રતીકે જડતા પરનો કટાક્ષ",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": ["M2.S2.T3"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C4",
+                  "concept_name": "ઘુવડ-સૂર્ય અને હીરા-પથ્થરના પ્રતીકે જડતા પરનો કટાક્ષ"
+                }
+              ],
+              "note": "Marker [[છપ્પો 2]]. Four printed lines, complete in itself. છાપ 'અખા' sits inside the fourth line ('અખા મોટાની તો એવી જાણ...'). The printed attribution '(‘અખાના છપ્પા’માંથી)' follows this piece on the page and belongs inside THIS (the last) topic's original_chunk per duha_chhappa.md's rule on attribution placement — flagged here for Agent 5. Marked 'hard' (relative, this chapter only): the medieval/તળપદા-dense lines (કૂડેકૂડ, ઘૂડ, પહાણ, લેઈ) and the two stacked symbol-pairs (ઘુવડ↔સૂર્ય, હીરો↔પથ્થર) are what stop an L2 std-9 reader on this page, per teaching_lens_map.md's std 9-10 hard criterion — not craft-naming itself."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut: 2 pre-reading CONCEPT topics ([[કવિ-પરિચય]], [[કૃતિ-પરિચય]]) + 2 POEM topics ([[છપ્પો 1]], [[છપ્પો 2]]) = 4 topics total, matching structure_inventory.chhappa=2 in 01_meta.json (Agent 4 marker count: [[છપ્પો 1]] and [[છપ્પો 2]] each carried by exactly one topic; the two [[કવિ-પરિચય]]/[[કૃતિ-પરિચય]] markers are non-poem apparatus markers, each carried by its own CONCEPT topic per explanation_unit_map.md's rule that student-facing kavi/lekhak-parichay prose is a CONCEPT topic).",
+    "કવિ-પરિચય and કૃતિ-પરિચય were kept as TWO separate topics rather than folded into one, because the rendered page (00_chapter_normalized.md) carries them as two separate markers ([[કવિ-પરિચય]] then [[કૃતિ-પરિચય]]), unlike std-10's single unlabelled paragraph that explanation_unit_map.md describes as one CONCEPT topic. 'One marker, one topic' (02_structure.md) governs here; this is recorded as a note per '02_structure.md''s instruction to flag any disagreement with the profile prior for Agent 4/13.",
+    "શબ્દ-સમજૂતી, સ્વાધ્યાય (all four printed blocks: MCQ, બે-ત્રણ વાક્યોમાં, છ-સાત વાક્યમાં, વિદ્યાર્થી-પ્રવૃત્તિ), ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are apparatus/exercise matter per global_content_rules.md rule 7 and explanation_unit_map.md's apparatus rule — none cut as topics; they stay for Agent 10 (exercise_inventory in 01_meta.json) and for key_terms/ભાષા-બોધ sourcing.",
+    "No segment beyond one per module was needed — this is a two-piece micro-chapter (2 છપ્પા only), so M1 holds the pre-reading pair and M2 holds the reading pair, each as a single segment. Topic count is uneven across modules (2+2) but even within — flagged per spec's instruction to note uneven topic length, though here the split is naturally balanced.",
+    "Segment/topic naming: both module and segment names are descriptive and carry no digits, per global_content_rules.md rule 4 and 02_structure.md 'Names are Gujarati and carry no digits'. 'પ્રથમ છપ્પામાં' / 'બીજા છપ્પામાં' inside topic_name and objective_text are ordinal words (as the chapter's own કૃતિ-પરિચય uses them: 'પ્રથમ છપ્પામાં... બીજામાં...'), not digits, and are permitted display text.",
+    "difficulty: T1/T2 set 'medium' (મધ્યકાલીન register, પરિચય vocabulary, but short prose, no jodakshar-dense verse yet). T3 set 'medium' — three lines, direct satire, vocabulary glossed on page. T4 set 'hard' relative to this chapter only — two stacked symbolic contrasts plus denser તળપદા load (કૂડેકૂડ, સામાસામી, ચાંચ, પહાણ) that a std-9 L2 reader meets for the first time in this piece. Per teaching_lens_map.md and 02_structure.md, difficulty reflects reader friction, never craft-naming or Bloom ceiling — both topics' objectives reach Analyze regardless.",
+    "depends_on: T2 depends on T1 (poet before work); T3 depends on T2 (poem-reading follows the intro apparatus); T4 depends on T3 (second piece read after the first, same poet, same reading session) — these are real sequencing dependencies, not thematic ones, per 02_structure.md's 'records real dependence only'.",
+    "Objectives: O1 covers the two pre-reading CONCEPT topics together (poet + work introduction read as one preparatory unit); O2 and O3 give one sound, text-grounded, per-topic objective anchor to each of the two reading-scene (POEM) topics, per 02_structure.md section 4's 'One sound, text-grounded objective anchor per reading scene.' O2 is set to Analyze (not Understand) because the chapter's own apparatus (કૃતિ-પરિચય, ભાષા-અભિવ્યક્તિ) frames this piece as satire requiring the reader to identify who/what is mocked, not merely comprehend the surface act. O3 names વક્રોક્તિ because the chapter's own printed ભાષા-અભિવ્યક્તિ names 'મોટા' as વક્રોક્તિ and std 9 is the standard where the named canon begins (profiles/students/std-9.md §1.3-1.4; teaching_lens_map.md's craft-naming gate) — no device is named beyond what the page itself names.",
+    "No અલંકાર, છંદ or માત્રા count asserted anywhere in this file beyond what 01_meta.json's extraction_notes already certify the chapter's own apparatus as printing (વક્રોક્તિ for 'મોટા'; વિરોધાભાસ/'બે સામા છેડાનાં પ્રતીકો' for ઘુવડ↔સૂર્ય and હીરો↔પથ્થર). figures_of_speech and overall_rhyme_scheme are left for Agent 5/7 to populate from the verse — out of scope for this structure pass.",
+    "original_chunk left empty on every topic per spec: 'original_chunk stays empty; Agent 5 fills it.' No verbatim transcription performed here beyond what was needed to read the marker boundaries in 00_chapter_normalized.md.",
+    "genre prior agreement: 01_meta.json's active_genre_profiles ([duha_chhappa.md]) matches the profile supplied for this run; no disagreement between the rendered page and the explanation_unit_map.md prior to report."
+  ]
+}

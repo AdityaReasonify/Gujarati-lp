@@ -1,0 +1,123 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `detailed_summary`, `real_life_example`, or any `recall_questions[].answer` for M1.S1.T1 states જયંતિ દલાલનું જન્મ-વર્ષ, અવસાન-વર્ષ, કોઈ પુરસ્કાર કે સાહિત્યિક ચળવળનું નામ — none of these are inside this topic's own `original_chunk` (the printed era line 'જન્મ : 18-11-1909, અવસાન : 24-08-1970' sits in the chapter frontmatter above the [[લેખક-પરિચય]] marker, per 01_meta.json/05_with_content.json's own note, not inside T1's chunk). Every biographical claim traces only to: વતન અમદાવાદ; વાર્તાકાર/નાટ્યકાર/નવલકથાકાર/અનુવાદક; and the named titles જવનિકા, પ્રવેશ બીજો, પ્રવેશ ત્રીજો, રંગતોરણ, ઉત્તરા, જૂજવાં, કથરોટમાં ગંગા, મૂકમ્ કરોતી, 'આ ઘેર, પેલે ઘેર', અડખે પડખે, યુધિષ્ઠિર, ધીમુ અને વિભા, પાદરનાં તીરથ.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક જયંતિ દલાલના પુસ્તક-શીર્ષક 'પ્રવેશ બીજો'ને 'પારખું' નાટકના જ કોઈ દૃશ્ય-ક્રમાંક (પ્રવેશ પહેલો/બીજો જેવો સ્ટેજ-હેડર) સાથે ભેળવી દે છે, કારણ કે એ જ શબ્દો બીજાં નાટકોમાં દૃશ્ય-ક્રમાંક તરીકે વપરાય છે.",
+      "correction": "`explanation`માં સ્પષ્ટ કરવું કે 'પ્રવેશ બીજો' એ જયંતિ દલાલના પોતાના એકાંકી-સંગ્રહનું નામ (પુસ્તકનું શીર્ષક) છે, 'પારખું'નો કોઈ ભાગ નથી; અને 'પારખું' પોતે એક જ સળંગ દૃશ્યમાં ભજવાય છે — એમાં ક્યાંય છપાયેલું 'પ્રવેશ પહેલો/બીજો' જેવું ક્રમાંકન નથી."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, any `concept_bullets` line, or `recall_questions[].answer` for M1.S1.T2 ends on a બોધ/ઉપદેશ/શિખામણ clause such as 'આપણે ક્યારેય ખોટી બડાશ ન મારવી જોઈએ' or 'છેતરપિંડી ન કરવી જોઈએ' — the topic reports only what the printed કૃતિ-પરિચય states (બડાશ, ગેરસમજ, ગફલત → રમૂજ પ્રસંગો; બે ચોટ named), never converted into a life-lesson.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક કૃતિ-પરિચયના વાક્ય 'ડૉક્ટરને... ઓળખ મળે છે'ને એમ સમજે છે કે ડૉક્ટર પોતે હોશિયારીથી સાચી ઓળખ શોધી કાઢે છે.",
+      "correction": "`explanation`માં સ્પષ્ટ કરવું કે ઓળખ ડૉકટરને બીજાં પાત્રો પોતે જ, એની બડાશ પછી, જણાવે છે — ડૉકટર પોતે શોધતો નથી; વાચક આ ગેરસમજ ડૉકટર કરતાં એક પગલું વહેલી પકડી લે છે, અને એ અંતર જ રમૂજ સર્જે છે."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "No sentence of M1.S2.T3's `explanation`, `real_life_example`, or `recall_questions[].answer` names સસરો, મનમોહનદાસ, નરરત્નમણિરાવ, ગેરસમજ, or વેશ-બદલો — this header topic only orients place/time/cast; the plot that follows has not started yet and must not be foreshadowed here.",
+          "profile": "natak_ekanki",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક 'સવારના દસ' વાંચીને 'સવાર' શબ્દને હિન્દી 'सवार' (ઘોડેસવાર) સાથે જોડી દે છે, અને 'સ્થળ-સમય'ની લીટીનો અર્થ ગૂંચવાય છે — જ્યારે અહીં 'સવાર' એટલે ફક્ત સવારનો સમય.",
+      "correction": "`key_terms`માં 'સવાર — સવારનો સમય (morning), ઘોડેસવાર જેવો 'સવાર' નહીં' એમ ગ્લોસ કરવું, જેથી 'સવારના દસ' સીધું જ 'સવારે દસ વાગ્યે' તરીકે વંચાય."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "The Roman-script English inside the doctor's lines ('Say.', 'You don't understand.', 'Humbug!', 'Nonsense!') must stay quoted exactly as printed wherever `explanation` or a `recall_questions[].answer` cites them — never translated into Gujarati as if 'fixing' them, and never dropped; the same holds for the register words 'હમ્બગ-તમ્બગ' and 'ભલા'દમી'.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ડૉકટરના અંગ્રેજી-ભેળ વાક્યોને ફક્ત રમૂજી ભેળસેળ ગણી લે છે, અને એ નથી પકડતો કે ડૉકટર દરેક વખતે અંગ્રેજી શબ્દ વાપરીને પોતાનું મહત્ત્વ (staff, research જેવા શબ્દોથી પોતે 'મોટો' હોવાનું) બતાવવા મથે છે, અને અનિરુદ્ધ દરેક વખતે એ જ શબ્દ પકડીને ('તારો staff !') એને ઉઘાડો પાડે છે.",
+      "correction": "`explanation`માં ડૉકટરની ચોક્કસ પંક્તિ (દા.ત. 'મારા staffના દેખતાં') અને અનિરુદ્ધનો સામો જવાબ ('તારો staff ! હા... હા... હા...') પાસે-પાસે મૂકીને બતાવવું કે અંગ્રેજી શબ્દ મહત્ત્વ બતાવવાની યુક્તિ છે, અને અનિરુદ્ધ એને તરત વીંધી નાખે છે."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "No sentence of M2.S3.T5's `explanation`, `summary`, or `recall_questions[].answer` states or implies who the arriving સસરો actually is, or that he will later be mistaken with મનમોહનદાસ, or that નરરત્નમણિરાવ himself will appear in disguise — at this beat neither the ડૉકટર nor the reader is told who is coming, only what he will wear; naming it early spoils the ગેરસમજ this chapter is built on.",
+          "profile": "natak_ekanki",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક કોટ-ધોતિયું-ટોપીના ત્રણ સંદર્ભો (ઘરમાં/શાક લેવા/મળવા જતાં)ને ડૉકટર-અનિરુદ્ધ વચ્ચેની એક વધારાની ટીખળ ગણી લે છે, અને એને યાદ રાખવા જેવી કોઈ ખાસ વિગત નથી ગણતો.",
+      "correction": "`explanation`માં આ પોશાક-વર્ણનની પંક્તિ, ખાસ કરીને 'લાંબો કાળો કોટ, ચાર પાટલીનું ધોતિયું અને કાશ્મીરી ટોપી', અક્ષરશઃ ટાંકીને કહેવું કે આ જ ચોક્કસ પોશાક પછીના દૃશ્યમાં ડૉકટરની ભૂલનું કારણ બનવાનો છે — બાળકને આ વાક્ય યાદ રાખવાનું કહેવું."
+    },
+    {
+      "topic_id": "M2.S4.T6",
+      "avoid_checks": [
+        {
+          "check": "Where `explanation` or a `recall_questions[].answer` quotes the doctor's jumbled costume lines, it must quote them exactly as printed ('કાશ્મીરી ધોતિયું', 'ચાર પાટલીની ટોપી', 'લાંબું કાળું ધોતિયું, ચાર પાટલીનો કોટ', 'કાશ્મીરી કોટ') — never silently rearranged back into the correct કોટ/ધોતિયું/ટોપી combination, since the mix-up itself is the joke.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ડૉકટરની ગોખણીને ફક્ત 'ગૂંચવાયેલી બોલી' ગણી લે છે, પણ એ નથી નોંધતો કે દરેક વખતે એ કયો શબ્દ કઈ ચીજ સાથે ખોટી રીતે જોડે છે — એટલે 'કાશ્મીરી ધોતિયું' કે 'ચાર પાટલીની ટોપી' જેવાં સંયોજનો કેમ હસવા જેવાં છે એ સમજાતું નથી.",
+      "correction": "`explanation`માં અનિરુદ્ધનું મૂળ વર્ણન (કોટ=લાંબો કાળો, ધોતિયું=ચાર પાટલીનું, ટોપી=કાશ્મીરી) અને ડૉકટરના ગોટાળાવાળા વાક્યો પાસે-પાસે મૂકીને બતાવવું કે કયો શબ્દ ક્યાં ખોટી જગ્યાએ ગયો — તો જ ગમનની મૂંઝવણ કેમ થાય છે એ સમજાય."
+    },
+    {
+      "topic_id": "M2.S5.T7",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `summary`, `detailed_summary`, or `recall_questions[].answer` states the doctor's claims (પીયૂષ-ડ્રોપ્સની શોધ, નવા દાંત ઊગવા, મહિને ૫૦૦-૬૦૦ દાંત, પચાસેક ઓપરેશન્સ, હજાર-બારસોની average) as established fact — each must be framed with a boasting verb (બડાશ મારે છે, દાવો કરે છે, ફેંકે છે) since they are the character's own invented claims, later punctured in the next beat.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક મનમોહનદાસના ખુલાસાને ફક્ત 'ખોટા માણસને સસરો સમજી લીધા'ની ભૂલ સમજી લે છે, પણ એ નથી પકડતો કે ડૉકટરે બડાશમાં જે આંકડા (કેટલા દાંત, કેટલાં ઓપરેશન, કેટલી કમાણી-average) બોલી નાખ્યા છે એ જ આંકડા હવે ઈન્કમટેક્સ સરચાર્જ કલેક્ટર પાસે નોંધાઈ ગયા છે — એટલે જ ડૉકટર 'Oh, Swindle! murder! arson!' બોલી ઊઠે છે.",
+      "correction": "`explanation`માં ડૉકટરે બોલેલા કમાણી અને કેસના આંકડા અને મનમોહનદાસની ખરી ઓળખ (ઈન્કમટેક્સ સરચાર્જ કલેક્ટર) ને જોડીને કહેવું કે બડાશમાં બોલાયેલી કમાણીની વિગતો હવે એની સામે જ વપરાઈ શકે છે — રમૂજની ખરી ધાર અહીં છે, ફક્ત 'ખોટો માણસ' હોવામાં નહીં."
+    },
+    {
+      "topic_id": "M2.S6.T8",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation` or `summary` supplies an interior motive for the doctor's sudden honesty (e.g. 'એને પસ્તાવો થયો', 'સાચું બોલવાનું નક્કી કર્યું') — no line or રંગસૂચના in this beat's `original_chunk` states his inner state; only his short deflating answers (ભાડૂતી, પીગળી ગયાં, નક્કર વસ્તુસ્થિતિ) are printed.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક નરરત્નના દરેક સવાલ-જવાબને છૂટી-છવાયી નવી માહિતી ગણી લે છે, અને એ નથી જોડતો કે 'આપની શોધ ?', 'આપની દવાઓ ?', 'તમારાં ઓપરેશન્સ ?' જેવો દરેક સવાલ આગલા દૃશ્યમાં ડૉકટરે જ મારેલી કોઈ ચોક્કસ બડાશને પાછી ખેંચાવે છે.",
+      "correction": "`explanation` કે એક `recall_questions[].answer`માં આગલા દૃશ્યની ચોક્કસ બડાશ (દા.ત. 'પીયૂષ-ડ્રોપ્સની શોધ') અને અહીંનો જવાબ ('પીગળી ગયાં, બુઝુર્ગ મિત્ર') પાસે-પાસે મૂકીને બતાવવું કે આ આખું દૃશ્ય આગલી બડાશોને એક-એક કરીને પાછી ખેંચવાનું જ કામ કરે છે."
+    },
+    {
+      "topic_id": "M2.S6.T9",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `detailed_summary`, or `real_life_example` ends this topic on a બોધ/સંદેશ/શિખામણ/ઉપદેશ line (e.g. 'આપણે ક્યારેય કોઈને છેતરવું ન જોઈએ કે ખોટી બડાશ ન મારવી જોઈએ') — the closing line 'હું કોને રોઉં ?' is the play's own ironic ending; the profile's own rule is that a play resolves a situation, it does not issue a moral.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence editorialises on નરરત્નની દીકરીના લગ્ન ('છતી આંખે છોકરીને કૂવામાં નાખી') as a comment on arranged-marriage practice in general — it stays framed as this one father's private regret over this one match, per the chapter's own sensitivity note.",
+          "profile": "natak_ekanki",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક નાટકનું શીર્ષક 'પારખું' અને નરરત્નનું છેલ્લું વાક્ય 'પારખું કરવા નીકળ્યો. પારખું થઈ ગયું.' — આ બે વચ્ચેનો સંબંધ પકડ્યા વગર જ, અંતને ફક્ત 'સસરો ગુસ્સે થયા' તરીકે વાંચી લે છે.",
+      "correction": "`explanation`માં નાટકનું શીર્ષક 'પારખું' અને નરરત્નનું વાક્ય 'પારખું કરવા નીકળ્યો. પારખું થઈ ગયું.' બંને સાથે ટાંકીને પૂછવું કે નરરત્ન કોનું 'પારખું' કરવા નીકળ્યા હતા, અને છેલ્લે ખરેખર કોનું 'પારખું' થઈ ગયું — શબ્દ એ જ છે, પણ એનું વજન બદલાઈ ગયું છે."
+    }
+  ],
+  "chapter_level": [
+    "Roman-script English code-switching (staff, compounder, trade secret, research, invention, dental surgery, allopathy, revolution, naturalteeth, fertilizer manure, process, cases, daughter, average, surcharge collector, Hard facts, and the full English exclamations) runs through nearly every stage-beat (T4, T5, T7, T8) and is the single biggest L2 comprehension barrier in this chapter — gloss it at first use in each topic it appears in; never delete, translate, or 'correct' it, since it is printed text the same as any Gujarati line.",
+    "The printed speaker-tag/name inconsistencies are all as-printed, not extraction errors: 'ડૉકટર' (no ક્ટ conjunct) throughout dialogue tags versus 'ડૉ પીયૂષ'/'ડૉ. પીયૂષ' elsewhere; 'મનમોહનદાસ' versus the MCQ's short form 'મનમોહન'; 'નરરત્નમણિરાવ' in the પાત્રો box versus 'નરરત્ન' as the running speaker tag. No topic's authored prose may treat these as mistakes to fix or silently normalise to one spelling.",
+    "The chapter's whole comic engine is boast-then-puncture, run twice (once on મનમોહનદાસ, once on નરરત્નમણિરાવ) — no topic before M2.S6.T9 may resolve or foreshadow the SECOND ચોટ (કે 'નરરત્ન' ખરેખર સસરો છે) before its own beat; each ચોટ must land only in the topic where it is printed.",
+    "The comedy runs on a man's unemployment and his own boasting (T4, T6, T7 especially) — every topic must teach the irony of the pretence being punctured, and never let the tone read as contempt for the character, per natak_ekanki.md's own std-9 ch-9 sensitivity note."
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "media": [
+    {
+      "topic_id": "M2.S2.T3",
+      "concept_id": "M2.S2.T3.C3",
+      "id": "M2.S2.T3.C3.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "રામશંકર મગનને જમીન ભેટ આપે છે",
+      "description": "ફળદ્રુપ ખેતરમાં ઊભા રહી રામશંકર મગનને જમીનનો કટકો ભેટ આપતાં કહે છે, ‘આજથી આ જમીન તારી.’",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S2.T3.C3",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "આ ચિત્ર બતાવીને પૂછો — રામશંકરે મગનને જમીન કેમ આપી હશે? હજુ એ ન કહેવું કે લખાણ પાકું થાય એ પહેલાં શું બન્યું — એ વાત હવે પછીના ભાગમાં આવશે; અત્યારે ફક્ત રામશંકરની ઉદારતાનો ભાવ ઉભો કરવો.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects",
+      "generation_prompt": "a fertile rural Gujarat farmland at the edge of a small village: rows of ripening cotton and pearl-millet, a low mud-and-brick farmhouse with a curved clay-tile roof visible in the background, a large neem tree, an earthen field-boundary ridge running between two plots, in soft late-afternoon golden light. Ramshankar, an elderly Gujarati landowner in his seventies with silver hair, a neat white moustache, and a slight stoop, wearing a spotless white kurta and dhoti with a folded cream shawl over one shoulder stands at the edge of one lush green plot heavy with vegetables, his hand extended in a warm, open gesture toward the land as he speaks, leaning lightly on a wooden walking stick with his other hand. Facing him, Magan, a lean Gujarati tenant-farmer in his sixties, sun-weathered dark skin, a grey moustache, wearing a faded off-white kurta and dhoti with a red-and-white checked cotton pagh wound loosely on his head, standing barefoot, a wooden hoe resting against his shoulder, his eyes wide with disbelief and gratitude as he listens. Warm golden sunlight. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "concept_id": "M2.S3.T4.C4",
+      "id": "M2.S3.T4.C4.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "કાગળ પર સહી માટે દબાણ",
+      "description": "સ્વજનોના ઈશારે મોહન મગન પાસે જમીનનો પુરાવો માગી કાગળ ને પેન લંબાવી સહી કરવા દબાણ કરે છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S3.T4.C4",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "મગનના ચહેરા પરની અચાનક મૂંઝવણ અને સ્વજનોની ગણતરીભરી નજર વચ્ચેનો ફરક બાળકોને બતાવો; આગળ શું થશે એ હજુ ન કહેવું.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects",
+      "generation_prompt": "a fertile rural Gujarat farmland at the edge of a small village: rows of ripening cotton and pearl-millet, a low mud-and-brick farmhouse with a curved clay-tile roof visible in the background, a large neem tree, an earthen field-boundary ridge running between two plots, under an overcast midday sky. Mohan, Ramshankar's son, a lean clean-shaven man in his thirties, wearing a cream-coloured collared kurta over a white dhoti, a composed and serious expression, stands holding out a folded sheaf of papers and a pen toward Magan with one hand, his other hand pointing sharply at the field. Behind Mohan, two middle-aged male relatives with greying hair, wearing checked half-sleeve shirts and white dhotis, standing close together, one leaning in to whisper near Mohan's ear, both watching Magan with narrowed, calculating eyes. Magan, a lean Gujarati tenant-farmer in his sixties, sun-weathered dark skin, a grey moustache, wearing a faded off-white kurta and dhoti with a red-and-white checked cotton pagh wound loosely on his head, standing barefoot, with a wooden hoe still in one hand, his open palm raised in confusion, his face caught between his earlier smile and sudden worry. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "concept_id": "M2.S3.T5.C5",
+      "id": "M2.S3.T5.C5.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "ધ્રૂજતા હાથે સહી",
+      "description": "ધ્રૂજતા હાથે મગન કાગળ પર સહી કરે છે, મોહન કાગળો લઈ લે છે અને સ્વજનો અટ્ટહાસ્ય કરે છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S3.T5.C5",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "મગનની હતાશા અને સ્વજનોના હાસ્ય વચ્ચેનો વિરોધાભાસ બાળકોના ધ્યાન પર લાવો; મોહનનો ચહેરો જાણી જોઈને અસ્પષ્ટ રાખ્યો છે — ચોટ હજુ આવવાની બાકી છે, એ અહીં જ ન કહી દેવું.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects",
+      "generation_prompt": "a fertile rural Gujarat farmland at the edge of a small village: rows of ripening cotton and pearl-millet, a low mud-and-brick farmhouse with a curved clay-tile roof visible in the background, a large neem tree, an earthen field-boundary ridge running between two plots, under a harsh midday sun. Magan, a lean Gujarati tenant-farmer in his sixties, sun-weathered dark skin, a grey moustache, wearing a faded off-white kurta and dhoti with a red-and-white checked cotton pagh wound loosely on his head, standing barefoot sits hunched on a low flat stone at the field's edge, his trembling hand pressing a pen onto a paper laid across his knee, his face pale and eyes downcast. Mohan, Ramshankar's son, a lean clean-shaven man in his thirties, wearing a cream-coloured collared kurta over a white dhoti, a composed and serious expression leans over him with a firm, unreadable expression, one hand already pulling the signed papers away. Behind them, two middle-aged male relatives with greying hair, wearing checked half-sleeve shirts and white dhotis, standing close together, throwing their heads back in loud laughter, one clapping the other on the shoulder. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M2.S4.T6",
+      "concept_id": "M2.S4.T6.C6",
+      "id": "M2.S4.T6.C6.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "ચોટ — ‘હું રામશંકરનો દીકરો છું.’",
+      "description": "સ્તબ્ધ સ્વજનો સામે મોહન દસ્તાવેજ મગનને સોંપીને મક્કમતાથી કહે છે, ‘હું રામશંકરનો દીકરો છું.’",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S4.T6.C6",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "આ ચિત્ર ચોટની ક્ષણ છે — સ્વજનોના ચહેરા પરની અચંબાની લાગણી અને મોહનના મક્કમ ભાવ તરફ બાળકોનું ધ્યાન દોરો; અહીંથી પાછળ વળીને પૂછો કે અગાઉના ભાગમાં મોહનના શબ્દો કેમ અસ્પષ્ટ લાગ્યા હતા.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects",
+      "generation_prompt": "a fertile rural Gujarat farmland at the edge of a small village: rows of ripening cotton and pearl-millet, a low mud-and-brick farmhouse with a curved clay-tile roof visible in the background, a large neem tree, an earthen field-boundary ridge running between two plots, in the clear light of late afternoon. Mohan, Ramshankar's son, a lean clean-shaven man in his thirties, wearing a cream-coloured collared kurta over a white dhoti, a composed and serious expression stands tall and resolute at the centre of the frame, chin raised, one hand placed firmly over his own chest as he speaks. Beside him, Magan, a lean Gujarati tenant-farmer in his sixties, sun-weathered dark skin, a grey moustache, wearing a faded off-white kurta and dhoti with a red-and-white checked cotton pagh wound loosely on his head, standing barefoot, clutches a folded paper document close to his chest, his face easing into stunned relief. Facing them, two middle-aged male relatives with greying hair, wearing checked half-sleeve shirts and white dhotis, standing close together, stand frozen with mouths slightly open and eyebrows raised in bewildered disbelief, one hand half-lifted as if to ask an unfinished question. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    }
+  ],
+  "2d_tool": null,
+  "reuse_report": {
+    "scenes": 4,
+    "reused": 0,
+    "authored": 4,
+    "rejected": []
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [],
+      "misconception": "ફકરામાં ગામ, વતન, પુસ્તકોનાં નામ અને ઈનામોનાં નામ એકસાથે ઝડપથી આવે છે, એટલે બાળક બાંટવા, વઢવાણ, ‘કોમલ રિષભ’, રણજિતરામ સુવર્ણચંદ્રક જેવાં નામોની ભીડમાં કઈ વિગત શાની છે તે ગૂંચવાઈ જાય છે — આ ક્રાફ્ટની નહીં, ભાષાની તકલીફ છે.",
+      "correction": "`explanation` દરેક નામની આગળ તેની ઓળખ (ગામ, વતન, પુસ્તક, ઈનામ) ટૂંકમાં મૂકે, જેમ પાનું છાપે છે એટલું જ — જેથી નામોની હાર એક પછી એક ગોઠવાયેલી ઓળખ બની જાય, નવી કોઈ વિગત ઉમેર્યા વગર."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "If this topic's `explanation` (or `key_terms`) uses the word \"શેર\" to name the poem's structural unit, that first use must gloss it in the same Gujarati sentence — e.g. \"શેર એટલે ગઝલની બે પંક્તિનો સ્વતંત્ર એકમ\" — not just the bare word.",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "કૃતિ-પરિચય ‘ગઝલ’ શબ્દ અને ‘સહિયારાપણું’ની ભાવના સીધેસીધાં જણાવી દે છે, એટલે બાળક ‘ગઝલ’ ને ફક્ત એક લેબલ ગણી લે છે, અને આ રચના ખરેખર ગઝલ શાના કારણે કહેવાય — સાત સ્વતંત્ર શેર, કોઈ ટેક નહીં, ફક્ત પ્રાસથી બંધાયેલા — તે તરફ ધ્યાન જ નથી જતું.",
+      "correction": "`explanation` પાના પરની જ રચનાગત હકીકત બતાવે: સાત અલગ-અલગ છપાયેલા બબ્બે-પંક્તિના એકમો, વચ્ચે ટેક નહીં, ને પ્રાસ (કાફિયા) જ તેમને બાંધે છે — ‘ગઝલ’ શબ્દ એકલો બોલવાથી કામ ન ચાલે."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "`explanation` must contain both \"મારું\" and \"તારું\" character-for-character — this મત્લા's two lines both carry the returning rhyme, and both must be named as the return.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "If this topic's `explanation` first names \"કાફિયા\" or \"મત્લા\" for this poem's rhyme pattern, that first use must gloss the term in Gujarati in the same sentence (e.g. \"કાફિયા એટલે શેરને છેડે પાછો આવતો પ્રાસવાળો શબ્દ\").",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "M1.S1.T2 માં ‘સહિયારાપણું’ની ભાવના પહેલેથી વંચાઈ ગઈ હોવાથી, બાળક આ પહેલા શેરનો અર્થ સીધો ‘સહિયારાપણું’ કહી દે છે, અને ‘લે’, ‘ગમ્યું’, ‘મારું’, ‘તારું’ જેવા આ શેરના પોતાના શબ્દો તરફ જોતું જ નથી.",
+      "correction": "`explanation` પહેલાં આ શેરના પોતાના શબ્દોમાંથી ચિત્ર ઊભું કરે (ગમેલી ચીજ પહેલાં ‘મારી’, પછી સામી વ્યક્તિને ગમે તો ‘તારી’) અને પછી જ ‘સહિયારાપણું’ જેવો શબ્દ વાપરે — ચિત્ર પહેલાં, લેબલ પછી."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `summary`, `brief_summary`, `detailed_summary`, `real_life_example`, any `concept_bullets`/`important_points` line, or any `recall_questions[].answer` states or implies that this શેર's call to share (\"લાવ, લાવ કરિયે સહિયારું\") happens after or because of the previous શેર's giving-away (\"…તે મારું … તારું\") — phrases of the shape \"પ્રથમ શેરમાં આપ્યા પછી\", \"એ પછી\", \"ત્યાર બાદ કવિ\" fail; this શેર's invitation stands as its own complete call.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` must contain \"સહિયારું\" character-for-character — the returning rhyme this શેર lands on.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No field states that \"કરિયે\" (for કરીએ) is a spelling mistake or should be corrected; it stays exactly as printed and is explained as ગીત-ગઝલની કાવ્ય-શૈલી.",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "‘લાવ, લાવ’ શબ્દ બે વાર છપાયેલો જોઈને બાળક તેને છાપભૂલ કે આદતવશ પુનરાવર્તન સમજી આગળ વધી જાય છે, જ્યારે ખરેખર આ પુનરાવર્તન કવિની આતુરતાને બમણી કરે છે.",
+      "correction": "`explanation` જણાવે કે શબ્દ બે વાર બોલવાથી કવિની આતુરતા-ઉત્સાહ વધારે સ્પષ્ટ થાય છે — આ છાપભૂલ નથી, ગીત-ગઝલની પોતાની રીત છે, જેમ પછીના શેરોમાં ‘ફરી ફરીને’ અને ‘પ્યારું પ્યારું’માં પણ આવે છે."
+    },
+    {
+      "topic_id": "M2.S2.T5",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, any summary field, `real_life_example`, any `concept_bullets`/`important_points` line, or any `recall_questions[].answer` states or implies that this શેર's willingness to lose is a result of the previous શેર's sharing-pledge (\"…ત્યાર પછી કવિ હારવા તૈયાર થાય છે\") — this શેર makes its own separate claim about losing and joy.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` must contain \"હારું\" character-for-character.",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "‘હારું’ શબ્દ વાંચીને બાળક હારવાને સામાન્ય રીતે ખરાબ કે નિરાશાજનક ગણી લે છે, અને આ શેરમાં કવિ ખુશીથી હારવા માગે છે એ વાત ચૂકી જાય છે.",
+      "correction": "`explanation` એ જ પંક્તિના શબ્દ ‘થાઉં ખુશી’ તરફ ધ્યાન દોરે અને કહે કે અહીં હારવું દુઃખની નહીં, ઉદારતાની અને બીજાની ખુશીની વાત છે — સામાન્ય અર્થ આ શેરના પોતાના શબ્દોથી જ ઊંધો પડે છે."
+    },
+    {
+      "topic_id": "M2.S2.T6",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, any summary field, `real_life_example`, any `concept_bullets`/`important_points` line, or any `recall_questions[].answer` states or implies that this શેર's ઈટ્ટા-કિટ્ટા tiff results from a disagreement in the previous શેર (\"…એ હાર-જીતના કારણે ઝઘડો થાય છે\") — this શેર's brief tiff is its own separate picture, not a sequel.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` must contain \"પ્યારું\" character-for-character.",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "‘ઈટ્ટા-કિટ્ટા’ શબ્દમાં ‘રમત’ સાંભળીને બાળક તેને કોઈ સાદી બાળ-રમત (જેમ કે સંતાકૂકડી) સમજી લે છે, અને એ નથી પકડતું કે ઈટ્ટા-કિટ્ટા પોતે જ ‘ટૂંકા અબોલા’નું રૂપક છે — રમત અને ઝઘડો બે અલગ વસ્તુ નથી, એક જ છે.",
+      "correction": "`explanation` પહેલાં જ કહી દે કે ઈટ્ટા-કિટ્ટા એટલે ટૂંક સમય માટે અબોલા લેવાનો બાળકોનો ડોળ, અને પછી જ ‘બાકી સઘળું પ્યારું પ્યારું’ તરફ જાય."
+    },
+    {
+      "topic_id": "M2.S2.T7",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, any summary field, `real_life_example`, any `concept_bullets`/`important_points` line, or any `recall_questions[].answer` states or implies that the tears in this શેર arise from the previous શેર's ઈટ્ટા-કિટ્ટા tiff (\"…ઝઘડા પછી આંસુ આવે છે\") — this શેર stands alone as its own statement about sweet play versus salty tears.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` must contain \"ખારું\" character-for-character.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No field states that \"હસિયે\", \"રમિયે\" (for હસીએ, રમીએ) or \"થૂ\" are spelling mistakes, careless slips, or need correcting/removing; all three stay exactly as printed and are explained as કાવ્ય-શૈલી / બોલચાલનો ઉદ્ગાર.",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "‘મીઠું’ અને ‘ખારું’ શબ્દો વાંચીને બાળક તેને ખાવાની વસ્તુના સ્વાદ તરીકે જ સમજી લે છે, અને એ નથી પકડતું કે અહીં આ બે શબ્દો ગમતી અને ન ગમતી લાગણી માટે વપરાયા છે.",
+      "correction": "`explanation` સ્પષ્ટ કહે કે હસવા-રમવાની લાગણી ‘મીઠી’ એટલે ગમે એવી, અને આંસુની લાગણી ‘ખારી’ એટલે ન ગમે એવી — સ્વાદની નહીં, લાગણીની વાત છે, જેમ `key_terms` પણ નોંધે છે."
+    },
+    {
+      "topic_id": "M2.S2.T8",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, any summary field, `real_life_example`, any `concept_bullets`/`important_points` line, or any `recall_questions[].answer` states or implies that the singing offered in this શેર is consolation coming after the previous શેર's tears (\"…આંસુ પછી ગીત ગાઈને મનાવે છે\") — this શેર makes its own separate claim.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` must contain \"લલકારું\" character-for-character.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No field states that \"શીદ\" (=શા માટે) is an error or should be corrected to \"શા માટે\" inside `original_chunk`; it stays exactly as printed and is glossed in place.",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "‘ગીત હોય તો શીદ અબોલા,’ પંક્તિને છેડે પ્રશ્નાર્થ ચિહ્ન નથી, અલ્પવિરામ છે — એટલે બાળક ‘શીદ’ ને પ્રશ્નનો શબ્દ તરીકે ઓળખ્યા વગર આખી પંક્તિને એક સીધું વિધાન સમજી લે છે.",
+      "correction": "`explanation` ‘શીદ — શા માટે’ ગ્લોસ કરે અને સ્પષ્ટ કહે કે પ્રશ્નાર્થ ચિહ્ન છપાયું ન હોવા છતાં આ પંક્તિ ખરેખર પ્રશ્ન જ પૂછે છે — ‘ગીત હોય તો અબોલા શા માટે ?’ — છપાયેલું વિરામચિહ્ન બદલ્યા વગર."
+    },
+    {
+      "topic_id": "M2.S2.T9",
+      "avoid_checks": [
+        {
+          "check": "`explanation` must contain \"તારું\" character-for-character — this closing શેર's second line echoes the મત્લા's own rhyme, ring-closing the ગઝલ.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No field treats the printed source line \"('ગઝલ સંહિતા'માંથી)\" as part of this શેર's own argument or meaning — it is named as the book's printed source-note, separate from the two verse lines above it.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "If this topic's `explanation` first names this શેર as \"મક્તા\" in the chapter's authored prose, that first use must gloss the term in Gujarati in the same sentence (e.g. \"મક્તા એટલે ગઝલનો છેલ્લો શેર\").",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No field states that \"લગ\" (=સુધી) or \"રમિયે\" (=રમીએ) are errors or need correcting; both stay exactly as printed and are explained as કાવ્ય-શૈલી.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No field states or implies that this શેર \"resolves\" or \"sums up\" the previous six શેરની story (e.g. \"છેલ્લે બધા ઝઘડા પતી જાય છે\") — the only permitted cross-શેર reference here is that this is the closing શેર and that the rhyme returns; this શેર's own picture (a toy shared only while play lasts) is a separate, complete statement, not a plot resolution.",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "છેલ્લા શેરમાં કોઈ તખલ્લુસ (કવિનું નામ) ન મળે ત્યારે, અથવા શેર પછી છપાયેલી (‘ગઝલ સંહિતા’માંથી) એ પંક્તિ જોઈને, બાળક એને શેરના જ અર્થનો ભાગ સમજી લે અથવા વિચારે કે કંઈક ખૂટે છે.",
+      "correction": "`explanation` સ્પષ્ટ કરે કે આ મક્તા (છેલ્લો શેર) કોઈ છાપ-તખલ્લુસ વગરનો છે — એ પોતે જ પૂરો છે — અને (‘ગઝલ સંહિતા’માંથી) એ પંક્તિ કવિતાની વાત નહીં પણ પુસ્તકનું છપાયેલું સ્રોત-ટાંચણ છે, જે શેરની બંને પંક્તિ પૂરી થયા પછી અલગથી આવે છે."
+    }
+  ],
+  "chapter_level": [
+    "No `figures_of_speech[].device` in any topic may be રдીફ, કાફિયા, મત્લા, મક્તા, તખલ્લુસ, છાપ, પ્રાસ or ગઝલ — this ગઝલ's form-parts are structure, not અલંકાર; every `figures_of_speech[].lines` string that IS used must appear character-for-character inside that topic's own `original_chunk`, and `[]` remains correct wherever no real device is on the page.",
+    "No authored field anywhere in this chapter calls any line a 'ટેક' or 'ધ્રુવપંક્તિ' — this ગઝલ has none; `00_chapter_normalized.md` carries no `[[ટેક]]` marker, and none should be implied in prose either.",
+    "This ગઝલ carries no રдીફ (`structure_inventory.radif` is null) — the કાફિયા sound alone binds all seven શેર. No field states or implies a repeating રдીફ phrase; the module-level `overall_rhyme_scheme` must say plainly that the કાફિયા binds alone, naming the family મારું/તારું/સહિયારું/હારું/પ્યારું/ખારું/લલકારું.",
+    "At most one whole-poem-referencing recall question in the entire chapter (gazal.md's Recall priors), and its home is M2.S2.T9's (મક્તા) recall ladder as the question that names the returning rhyme sound across all seven શેર; a `recall_questions[].prompt` in any OTHER topic that asks about the whole ગઝલ together, rather than about that one શેર on its own, is the running-story error entering through the recall ladder.",
+    "Numbers stay out of display text across the chapter: reference the shers as 'પ્રથમ શેરમાં' / 'મત્લામાં', 'છેલ્લા શેરમાં' / 'મક્તામાં', never 'શેર 1માં' or 'શેર 7માં' — ordinal words only, numerals confined to ids and provenance fields.",
+    "Through std 9 the printed apparatus (ભાષા-અભિવ્યક્તિ, MCQ) names the rhyme only as 'પ્રાસ', never 'કાફિયા' — wherever a topic's content is set up to prepare that સ્વાધ્યાય item (Agent 10), the topic's own explanation must also say 'પ્રાસ' at least once, even if it additionally uses 'કાફિયા' (gazal.md licenses both, first use of each glossed)."
+  ]
+}

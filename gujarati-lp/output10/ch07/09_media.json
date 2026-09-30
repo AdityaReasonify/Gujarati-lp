@@ -1,0 +1,79 @@
+{
+  "media": [
+    {
+      "topic_id": "M1.S2.T2",
+      "concept_id": "M1.S2.T2.C2",
+      "id": "M1.S2.T2.C2.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "ડમરી શમી, ફોરાં ઝર્યાં",
+      "description": "પવનની ડમરી શમી જતાં ઝીણાં ફોરાં ઝરે છે અને પક્ષીના માળા ને પાંદડાં એની પહેલી અસર બતાવે છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M1.S2.T2.C2",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "આ ચિત્ર બતાવીને પૂછો કે ડમરી શમવાની ને ફોરાં ઝરવાની અસર માળા ને પાંદડાં પર કઈ રીતે દેખાય છે — ચિત્ર પરથી ચારેય પંક્તિનું એક જ વાક્ય હોવાનું સમજાવવામાં મદદ મળશે.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, diagram of poem structure, numbered lines chart, octave-sestet layout, motivational poster caption with a moral",
+      "generation_prompt": "A stretch of dry scrubland and bajra fields in rural Saurashtra, Gujarat, India, with a solitary thorny babul tree in the middle distance and a low line of hills on the horizon, a small mud-walled hut roofed with curved clay tiles visible far off to one side. The scene shows the exact moment a swirling dust-storm is dying down over the open ground, its haze still hanging low near the earth, as the very first fine drops of rain begin to fall. Several woven bird nests sit high in the babul tree's bare branches, swaying gently now that the wind has calmed rather than being tossed by it. The tree's leaves catch the new raindrops and show a fresher, washed, brighter green than the dust-dulled leaves around them. Soft evening light breaks faintly through the settling dust. A narrator bar at the bottom of the frame carries one line of Gujarati in Gujarati script: ઝીણાં ફોરાં ઝરમર ઝર્યાં, જીવમાં જીવ આવ્યો. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "concept_id": "M1.S2.T3.C3",
+      "id": "M1.S2.T3.C3.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "રાફડો ને તડકો — ધરાનું ફૂટવા આવેલું રૂપ",
+      "description": "કડક તડકામાં રાફડો ધીરે ધીરે થડ પર ચડે છે અને સોને-રૂપે તડકો ઢળતાં ધરાનું નવું રૂપ ફૂટવા આવે છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M1.S2.T3.C3",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "આ ચિત્રમાં રાફડાની ધીમી ચાલ ને તડકાનું આછું પડવું બતાવો, જેથી બાળકને દેખાય કે સોનેટમાં કોઈ પંક્તિ ખાલી શણગાર નથી — દરેક નાની વિગત ધરાના ફૂટવા આવેલા રૂપનું જ ચિત્ર છે.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, diagram of poem structure, numbered lines chart, octave-sestet layout, motivational poster caption with a moral",
+      "generation_prompt": "A stretch of dry scrubland and bajra fields in rural Saurashtra, Gujarat, India, with a solitary thorny babul tree in the middle distance and a low line of hills on the horizon, a small mud-walled hut roofed with curved clay tiles visible far off to one side. A close, low, ground-level view frames the base of the babul tree's trunk, where a small earthen anthill mound stands damp after the rain. A thin, unhurried line of ants climbs slowly up the wet bark in a fine dark trail. Warm sunlight breaks low through parting monsoon clouds, its colour turned soft gold and silver, and falls in one slanting shaft across the wet, dark soil nearby. The exposed patch of earth in the foreground looks swollen and faintly cracked open, as though tender new shoots are about to push through it any moment. A narrator bar at the bottom of the frame carries one line of Gujarati in Gujarati script: ફૂટું ફૂટું ફરફર થતું રૂપ ખીલ્યું ધરાનું. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M1.S2.T4",
+      "concept_id": "M1.S2.T4.C4",
+      "id": "M1.S2.T4.C4.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "વગડો ટહુકે, સીમ સોને જાય",
+      "description": "વગડો ટહુકી ઊઠે છે, સીમ સોનેરી બને છે અને લોકો વરસાદ પછી ખેતરમાં હરખભેર ભેગા મળે છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M1.S2.T4.C4",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "આ ચિત્ર દ્વારા બતાવો કે વગડો, સીમ ને લોકો — બધા એક જ સાથે કઈ રીતે જીવંત થાય છે; સજીવારોપણ સમજાવતી વખતે આ ચિત્ર તરફ ધ્યાન દોરી શકાય.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, diagram of poem structure, numbered lines chart, octave-sestet layout, motivational poster caption with a moral",
+      "generation_prompt": "A stretch of dry scrubland and bajra fields in rural Saurashtra, Gujarat, India, with a solitary thorny babul tree in the middle distance and a low line of hills on the horizon, a small mud-walled hut roofed with curved clay tiles visible far off to one side. The same open scrubland and fields now glow green-gold under a clearing sky after the rain. Birds call to one another across the scrub, flying low over the bushes. In the far distance beyond the fields, a stream runs high and fast, visibly swollen. In the open field a small group of village people of different ages — men in plain kediyu-dhoti, women in everyday chaniya or sari, a couple of barefoot children — have come together in the same place, smiling, clasping hands and greeting one another, a few of them humming a folk tune together. Two or three milch cattle stand nearby among them, lowing softly. Everything sits in warm, renewed daylight. A narrator bar at the bottom of the frame carries one line of Gujarati in Gujarati script: ક્યાંથી આવ્યાં - મનભર મળ્યાં લોક કાચી ઘડીમાં ! Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M1.S2.T5",
+      "concept_id": "M1.S2.T5.C5",
+      "id": "M1.S2.T5.C5.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "એનું એ સૌ છતાં જીવમાં જીવ આવ્યો",
+      "description": "બહારથી બધું એનું એ દેખાય છે, છતાં બે ઝીણાં ફોરાં ઝરતાં જ અંદરથી જીવમાં જીવ આવી ગયો.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M1.S2.T5.C5",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "આ ચિત્ર છેલ્લે બતાવો — બહારનું દૃશ્ય પહેલાં જેવું જ છે એ ધ્યાનથી જોવડાવો, ને પછી પૂછો કે તો પછી શું બદલાયું; શીર્ષકની યથાર્થતાની ચર્ચા અહીંથી શરૂ કરી શકાય.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, diagram of poem structure, numbered lines chart, octave-sestet layout, motivational poster caption with a moral",
+      "generation_prompt": "A stretch of dry scrubland and bajra fields in rural Saurashtra, Gujarat, India, with a solitary thorny babul tree in the middle distance and a low line of hills on the horizon, a small mud-walled hut roofed with curved clay tiles visible far off to one side. The very same view sits calm and outwardly unchanged: the same babul tree, the same open field, the same distant hills, the same hut, nothing rearranged and no one new added. In the near foreground a single leaf holds two fresh raindrops caught glistening on its surface, quietly bright, catching the light. The whole scene is bathed in a soft, gently renewed daylight, as though something invisible has shifted even though nothing outward has visibly moved. A narrator bar at the bottom of the frame carries one line of Gujarati in Gujarati script: ફોરાં જ્યાં બે ઝરમર ઝર્યાં, જીવમાં જીવ આવ્યો ! Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    }
+  ],
+  "2d_tool": null,
+  "reuse_report": {
+    "scenes": 4,
+    "reused": 0,
+    "authored": 4,
+    "rejected": []
+  }
+}

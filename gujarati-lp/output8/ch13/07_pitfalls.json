@@ -1,0 +1,97 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "A `varta` topic carrying `topic_category: \"introduction\"`: `explanation` must not be reducible to `modified_chunk`'s plain statement that the water ran out — it must name the 'પણ' turn in this topic's own `original_chunk` ('વહેળામાંથી ઘડો ભરીને તેને પાણી પાતો એક વૃદ્ધ જોવામાં આવતો હતો, પણ વહેળાનાં પાણી ખૂટ્યાં') as the point where the daily routine breaks and the story's own trouble begins. An `explanation` that only describes the setting, with no reference to this break, fails.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'વૃદ્ધ રોજ પાણી પાતો હતો, પણ વહેળાનાં પાણી ખૂટ્યાં' એ વાક્યના બે ભાગમાંથી ફક્ત પહેલો ભાગ (રોજની ટેવ) જ પકડે છે અને 'પણ' પછીના ભાગને એક સામાન્ય વિગત ગણી લે છે — એટલે વહેળો સુકાવો એ વાર્તા શરૂ કરાવતી તકલીફ છે એ સમજાતું નથી.",
+      "correction": "`explanation`માં 'પણ'ના વળાંકને સ્પષ્ટ નામ આપો — રોજની ટેવ કઈ રીતે એક દિવસ તૂટે છે અને એ જ તકલીફ વૃદ્ધને ડૉકટર પાસે લઈ જાય છે, એ જોડાણ બતાવો."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "A `varta` topic: `explanation` must name what the line 'પૂછ્યા વિના લઉં તો ચોરી કહેવાય' (from this topic's own `original_chunk`) shows about the વૃદ્ધનું character — his નમ્રતા/પ્રામાણિકતા in insisting on asking even though the ડૉકટરે had already offered freely. An `explanation` that stops at 'વૃદ્ધે પાણી માગ્યું, કારણ કહ્યું' with no reference to this exchange fails.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "શબ્દાર્થ બૉક્સમાં 'ટોઉં' અને 'ભેણાં'નો ગ્લોસ છપાયેલો ન હોવાથી બાળક આ તળપદા શબ્દોને છાપવાની ભૂલ સમજી લે છે અને એ વાક્યનો અર્થ જ છોડી દે છે.",
+      "correction": "`explanation` અથવા `key_terms`માં 'ટોઉં' અને 'ભેણાં'ને પહેલી જ વાર વપરાય ત્યાં તળપદા (બોલચાલના) રૂપ તરીકે ગ્લોસ કરો — ટોઉં એટલે આ ઉનાળો કાઢી, સાચવી લેવું; ભેણાં એટલે ઊછરીને મજબૂત થવું — છાપભૂલ તરીકે નહીં."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "A `varta` topic ending on the doctor's unanswered 'શું કામ ?': no field (`explanation`, `summary`, `detailed_summary`, recall `answer`) may state or imply why the વૃદ્ધ planted the trees (his dead son's memory) — that reveal belongs only to the next topic (M2.S2.T4). This is a suspense pitfall the passage invites that `varta.md`'s avoid list does not name outright, so it is instantiated soft rather than as a listed hard gate.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "ડૉકટરના 'શું કામ ?' પ્રશ્નનો જવાબ વાક્યમાં જ ન મળતાં બાળક કાં તો પોતે જ કારણ ધારી લે છે (દીકરાની વાત આગોતરી જાણી લે એમ), કાં તો વાક્ય અધૂરું/તૂટેલું છે એમ સમજી લે છે.",
+      "correction": "`explanation`માં આ પ્રશ્નને વાર્તાની પોતાની જિજ્ઞાસા-જગાડવાની રીત તરીકે નામ આપો, અને આ ટોપિકના `original_chunk`ની બહાર જઈને જવાબ ન આપો — જવાબ હજી અહીં નથી, એ જ સાચું છે."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "A `varta` topic carrying the poverty/generosity reveal: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or recall `answer` may close on a general moral of the shape 'આપણે પણ ગરીબોને મદદ કરવી જોઈએ' / 'વૃક્ષો વાવવાં જોઈએ' — this topic's own words are specific: 'બીજું અમે ગરીબ માણસ શું બંધાવી શકીએ ? અમારાથી કાંઈ થોડી ધર્મશાળા બંધાવી શકાય કે વાવ-તળાવ ગણાવી શકાય ?', tied to his own grief and means, not a general rule.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` and `detailed_summary` must keep the topic's own contrast concrete — what the વૃદ્ધ says he cannot build (ધર્મશાળા, વાવ-તળાવ) against what he specifically plants and why (વૃક્ષ, છાંયો, માળા, આહાર, tied to 'મારો એકનો એક દીકરો... ગુજરી ગયો'). A version that states only 'ગરીબ છતાં ઉદાર ભાવના' abstractly, without this contrast, fails.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક વૃદ્ધના એક ચોક્કસ પ્રસંગ (ગરીબ છતાં વૃક્ષ વાવવાં)ને સીધું 'આપણે બધાએ ગરીબોને મદદ કરવી જોઈએ' જેવા સામાન્ય જીવન-નિયમમાં ફેરવી નાખે છે, અને વૃદ્ધ શું ન કરી શક્યા (ધર્મશાળા, તળાવ) ને શું ચોક્કસ કરી શક્યા (વૃક્ષ, છાંયો, માળા, આહાર) એ ચોક્કસ ભેદ ચૂકી જાય છે.",
+      "correction": "`explanation` અને `detailed_summary`માં આ ભેદ — વૃદ્ધ શું ન બંધાવી શક્યા ને શું વાવી શક્યા, ને એ કેમ એમના દીકરાની યાદ સાથે જોડાયેલું છે — ચોક્કસ શબ્દોમાં રાખો; સામાન્ય બોધ બાળકના પોતાના શબ્દોમાં આ ચોક્કસ પ્રસંગ પરથી જ આવવો જોઈએ, નહીં કે એનાથી અલગ."
+    },
+    {
+      "topic_id": "M3.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "The topic carrying `topic_category: \"climax\"`: no topic preceding this one (`M1.S1.T1`–`M2.S2.T4`) may name this topic's outcome — 'ડૉકટરના હાથ અનાયાસ જોડાઈ ગયા', 'તમારા ઝાડવાંની જવાબદારી મારે માથે', or the પાણોતિયા સોમાને કામ સોંપવાની વાત — in `explanation`, `summary`, `detailed_summary` or a recall `answer`.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` must name what causes the ડૉકટરના hands to join 'અનાયાસ' — the image in this topic's own `original_chunk`, 'એની આંખોમાં ઘટાદાર વૃક્ષો વસ્યાં છે, પંખી કિલકાર કરતાં ઊડી રહ્યાં છે' — not despair, and must connect this seen image to the sudden response. An `explanation` that only reports 'ડૉકટરે જવાબદારી લીધી' with no reference to this image fails (બતાવવું, કહી દેવું નહીં).",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No field applies a diminishing label ('ભિખારી' or a synonym) to the વૃદ્ધ — this topic's own words state he 'નથી ભાંગી પડ્યો કે નથી ભીખ માગતો'. Not one of `varta.md`'s literally listed evaluative words, so instantiated soft.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક ડૉકટરના અચાનક જવાબદારી સ્વીકારવાને એક સામાન્ય, કારણ વગરની દયા ગણી લે છે અને એ ચૂકી જાય છે કે વૃદ્ધની આંખોમાં દેખાતાં ઘટાદાર વૃક્ષો ને કિલકાર કરતાં પંખીની કલ્પના — નિરાશાને બદલે આશા — જ ડૉકટરના હાથ 'અનાયાસ' જોડાવે છે.",
+      "correction": "`explanation`માં આ કલ્પના-ચિત્રને નામ આપી ડૉકટરના અચાનક પ્રતિભાવ સાથે જોડો — વાર્તા આ કારણ કહેતી નથી, બતાવે છે, અને `explanation`એ પણ એ જ રીતે બતાવવું જોઈએ."
+    },
+    {
+      "topic_id": "M3.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "The chapter's closing topic: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or recall `answer` may close on an unearned general moral ('આપણે પણ વૃક્ષો વાવવાં જોઈએ' or similar) — this topic's own ending is the image of 'લીલી નજર' living on in the trees ('સ્મશાનને કાંઠેથી પણ લીલાછમ જીવનને જોતી એ અનામી વૃદ્ધની નજર નવો ઉજાસ પાથરી જાય છે'), and that image, not an appended rule, is what these fields must land on.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "વૃદ્ધ 'બીજા વર્ષે દેખાયા નહીં' અને 'સ્મશાનને કાંઠેથી' જેવા શબ્દો પરથી બાળક સીધું જ 'વૃદ્ધનું મૃત્યુ થયું' એવું ચોક્કસ વાક્ય તરીકે લખી નાખે છે, જ્યારે પાઠ ક્યાંય આ સ્પષ્ટ કહેતો નથી — એ ખુલ્લું જ રખાયેલું છે.",
+      "correction": "`explanation` અને recall `answer` વૃદ્ધના ન દેખાવાને પાઠના પોતાના શબ્દોમાં ('બીજા વર્ષે દેખાયા નહીં', 'સ્મશાનને કાંઠેથી... નજર') જ રજૂ કરે, મૃત્યુને એક છપાયેલી હકીકત તરીકે જાહેર કર્યા વિના — વૃક્ષોમાં જીવતી 'લીલી નજર' જ પાઠનો અંત છે."
+    }
+  ],
+  "chapter_level": [
+    "The વૃદ્ધનું spoken dialect words that recur across topics — ટોઉં, ભેણાં, રે'ઠાણ, મે'નત, 'પછે ફકર નહીં' — are glossed as spoken/regional forms at their first use in each topic, never standardised to their માનક ગુજરાતી equivalents and never flagged as printing errors; 01_meta.json's own extraction_notes already record these forms as kept exactly as printed.",
+    "The son's death and the family's poverty are told with the dignity the chapter itself uses — matter-of-fact, without pity-language or any judgment of the વૃદ્ધની ગરીબાઈ ('ફાટ્યાંતૂટ્યાં લૂગડાં', 'ગરીબ માણસ') — per global_content_rules.md rule 10.",
+    "No topic before M3.S3.T5 (the topic carrying `topic_category: \"climax\"`) may name that topic's outcome — ડૉકટરના હાથ અનાયાસ જોડાવા, ઝાડવાંની જવાબદારી લેવી, પાણોતિયા સોમાને કામ સોંપવું — or M3.S3.T6's resolution ('લીલી નજર', વૃદ્ધનું બીજા વર્ષે ન દેખાવું) in `explanation`, `summary`, `detailed_summary` or a recall `answer`.",
+    "No field anywhere in the chapter may close on an unearned general moral of the shape 'આપણે પણ વૃક્ષો વાવવાં જોઈએ' / 'ગરીબોને મદદ કરવી જોઈએ' — the story's ભાવ is carried entirely by the ઘટના, the dialogue and the closing image, never by a stated rule the chapter itself does not print."
+  ]
+}

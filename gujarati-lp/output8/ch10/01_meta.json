@@ -1,0 +1,63 @@
+{
+  "board": "gseb",
+  "grade": 8,
+  "subject": "Gujarati",
+  "level": "standard",
+  "version": 1,
+  "chapter_id": "gseb_eng_gujarati8_ch10",
+  "plan_id": "gseb_eng_gujarati8_ch10_v1",
+  "chapter_name": "હલેસે હલેસે",
+  "unit_title": "હલેસે હલેસે",
+  "unit_number": 10,
+  "topic_number": 10,
+  "textbook": null,
+  "textbook_url": "../Textbooks-pdf/std-8/ch-10-halese-halese.pdf",
+  "chapter_master_id": null,
+  "subject_ref_id": null,
+  "genre": "ગઝલ",
+  "genre_signals": {
+    "structure": "બાર શેર — મત્લા + દસ મધ્યમ શેર + મક્તા — દરેકના બંને ચરણ 'દરિયો' રદીફ પર બંધ થાય છે; દસમો શેર બે ચરણને બદલે એક જ અખંડ છપાયેલી પંક્તિમાં છપાયો છે; આખા કાવ્યમાં ક્યાંય ટેક કે કડી-પુનરાવર્તન નથી.",
+    "theme": "દરિયાનાં અનેક રૂપ-મિજાજ — હલેસાં તળે વહેવું, તરસ્યો થવો, બાષ્પ થઈ ઊડવું, કિનારે ફીણ થવું, ક્ષિતિજમાં ભળી જવું — છતાં કદી કોઈનાથી ન પકડાય એવી પ્રકૃતિ.",
+    "exercises": "'કાવ્યમાં વપરાયેલા પ્રાસવાળા શબ્દો શોધીને લખો.' (પ્રાસ-શોધ, છ ખાનાં) અને 'આ કાવ્યપંક્તિનો અર્થ સમજાવો અથવા આ કાવ્યપંક્તિનું ગદ્યમાં રૂપાંતર કરો.' (એક જ શેરનો સ્વતંત્ર અર્થ પૂછતો પ્રશ્ન) — બંને એવા સ્વતંત્ર, પ્રાસ-બદ્ધ શેરની રચના તરફ નિર્દેશ કરે છે, સળંગ વાર્તા તરફ નહીં.",
+    "purpose": "પ્રવેશપેટીની પોતાની ઓળખ: 'આ એક ગઝલ છે. જેમાં દરિયાની જુદી જુદી છટાઓ બહુ જ કલાત્મક રીતે રજૂ થઈ છે. દરિયો અહીં એક વ્યક્તિત્વ પામતો હોય એવું અનુભવાય છે... હલેસાય, ઉમેરાય, ઉલેચાય, ઘસડાય, અફળાય જેવા શબ્દોનું પ્રાસસૌન્દર્ય અને નાદસૌન્દર્ય વિદ્યાર્થીઓને તારવી બતાવવું.'"
+  },
+  "genre_confidence": "high",
+  "active_genre_profiles": ["gazal.md"],
+  "teaching_lens": "શેર + રદીફ-કાફિયા + મિજાજ",
+  "guiding_question": "કવિ દરિયાનાં આટલાં બધાં જુદાં જુદાં રૂપ વર્ણવે છે, છતાં છેલ્લે કેમ કહે છે કે દરિયો કદી પકડાતો નથી ?",
+  "explanation_unit": "એક શેર",
+  "structure_inventory": {
+    "sher": 12,
+    "matla": 1,
+    "makta": 1,
+    "radif": "દરિયો",
+    "tek_occurrences": 0
+  },
+  "exercise_inventory": [
+    {"group": "શબ્દસમૂહ માટે એક શબ્દ", "items": 1, "verbatim_heading": "શબ્દસમૂહ માટે એક શબ્દ."},
+    {"group": "વાતચીત", "items": 12, "verbatim_heading": "વાતચીત."},
+    {"group": "કાવ્યપંક્તિનો અર્થ", "items": 5, "verbatim_heading": "કાવ્યપંક્તિનો અર્થ સમજી પ્રશ્નોના જવાબ લખો."},
+    {"group": "પ્રશ્નોત્તર", "items": 9, "verbatim_heading": "નીચેના પ્રશ્નોના જવાબ લખો."},
+    {"group": "પઠન-ગાન (અન્ય કાવ્ય મેળવીને)", "items": 1, "verbatim_heading": "કવિ સુંદરમ્ લિખિત 'દરિયાને તીર એક ટટળે ટિટોડી...' કાવ્યને 'દરિયાને તીર એક રેતીની ઓટલી' મેળવીને વર્ગમાં તેનું પઠન/ગાન કરો."},
+    {"group": "અધૂરી વાર્તા પૂર્ણ કરો", "items": 1, "verbatim_heading": "'ટીટોડી અને સાગર' ની અધૂરી વાર્તા પૂર્ણ કરો."},
+    {"group": "વર્ણન", "items": 1, "verbatim_heading": "કાવ્યને આધારે દરિયાનું વર્ણન કરો."},
+    {"group": "પંક્તિ-અર્થ / ગદ્યાંતર", "items": 1, "verbatim_heading": "આ કાવ્યપંક્તિનો અર્થ સમજાવો અથવા આ કાવ્યપંક્તિનું ગદ્યમાં રૂપાંતર કરો."},
+    {"group": "પ્રાસવાળા શબ્દો", "items": 6, "verbatim_heading": "કાવ્યમાં વપરાયેલા પ્રાસવાળા શબ્દો શોધીને લખો."},
+    {"group": "વાક્ય ગમ્મત", "items": 5, "verbatim_heading": "નીચેનાં વાક્યો વાંચો અને વાક્ય ગમ્મત માણો."},
+    {"group": "અનુવાદ", "items": 1, "verbatim_heading": "આપેલા ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો."},
+    {"group": "ચિત્ર-રંગ પૂરો", "items": 1, "verbatim_heading": "દરિયાકિનારાનું ચિત્ર દોરી તેમાં રંગ પૂરો."}
+  ],
+  "extraction_notes": [
+    "textbook root field left null: the std-8 cover has not been read in this run (board profile flags it 'cover not read yet'); only this chapter's 4 pages (printed pp. 81-84) were rendered and available, not the book's own cover/front matter — recorded as a gap rather than asserting the profile's unconfirmed guess.",
+    "chapter_master_id and subject_ref_id left null — no GSEB DB record has been fetched (VERIFY-2); never invented.",
+    "The tenth શેર ('સતાવે અગર સૂર્યકિરણો તો દોડી કિનારાની રેતીમાં સંતાય દરિયો.') is printed as ONE unbroken line on the page, unlike every other શેર which prints across two separate lines. Preserved verbatim as a single line in 00_chapter_normalized.md; counted as one શેર so the poem totals 12 શેર across 23 printed lines. Downstream topic-cutting should treat this as a printed-layout fact, not reflow it into two lines.",
+    "Exercise item 3.5 quotes the poem's own line as ''ખડકોની છાતીથી અથડાય દરિયો'' (root અથડાવું), while the poem's printed third શેર reads 'ને ખડકોની છાતીથી અફળાય દરિયો.' (root અફળાવું). Both are transcribed exactly as printed in their own locations; the page itself carries this wording mismatch and it has not been harmonized here.",
+    "Exercise blocks 'કાવ્યપંક્તિનો અર્થ સમજી પ્રશ્નોના જવાબ લખો.', the સુંદરમ્ પઠન/ગાન block, and 'આ કાવ્યપંક્તિનો અર્થ સમજાવો...' quote poems/lines by OTHER poets (રજની મહેતા; કવિ સુંદરમ્ — 'દરિયાને તીર એક ટટળે ટિટોડી...' and 'દરિયાને તીર એક રેતીની ઓટલી'; સુરેશ દલાલ). These are exercise material transcribed under their own [[સ્વાધ્યાય: ...]] blocks, never the chapter's own ગઝલ text — per profiles/genres/gazal.md they must never be cut as topics or entered into any original_chunk.",
+    "A QR badge with a machine-readable code sits top-right of page 1; per policy the code itself is excluded from transcription and does not appear anywhere in the plan.",
+    "No કવિ-પરિચય / કૃતિ-પરિચય box is printed for this std-8 chapter — only the blue intro ('પ્રવેશપેટી') box, consistent with the std 6-8 page layout in the board profile. No biographical fact about આદિલ મન્સૂરી is stated anywhere on the page, so none is recorded.",
+    "ચર્ચા-વિચારણા closing box ('ચડિયાતું કોણ ? નદી કે દરિયો ?...') is teacher-addressed apparatus, transcribed for completeness but not entered into exercise_inventory, per reference/genre_diagnosis.md.",
+    "શબ્દસમૂહ માટે એક શબ્દ pre-block is counted in exercise_inventory (std-8 convention: pre-blocks are printed content the child answers), while the શબ્દાર્થ box itself is apparatus, not an exercise.",
+    "Exercise block 8 ('કાવ્યમાં વપરાયેલા પ્રાસવાળા શબ્દો શોધીને લખો.') prints six blank ruled lines with no words — an honest empty prompt for the child to fill, not a defect.",
+    "Genre diagnosed independently from the four rendered pages before consulting any prior; it agrees with both profiles/boards/gseb_gujarati.md's std-8 chapter table and reference/corpus/std-8_inventory.md's prior (ગઝલ, રદીફ 'દરિયો', છાપ 'આદિલ' inside the મક્તા) — no disagreement to report."
+  ]
+}

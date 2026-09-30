@@ -1,0 +1,51 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "Genre હાસ્યનિબંધ routed to nibandh_atmaparak.md (હાસ્યલેખ sub-form) matches the profile's own provenance list, which names this exact chapter as 'measured — confirmed on the render'.",
+        "Explanation unit 'એક ઘટના (એક સ્થળ વિશેની વાત)' in 01_meta.json matches explanation_unit_map.md's row for nibandh_atmaparak (પ્રસંગ-wise / વિચારના વળાંક-wise) and the profile's own Explanation-unit section.",
+        "કડી/દુહો/પદ/ટેક counts are all 0 in structure_inventory — the કડી/દુહો/પદ/ટેક-specific fidelity sub-checks do not apply to this ghatna-cut chapter.",
+        "No topic carries topic_category:'climax' (profile avoid-list hard gate #2, checkable structurally at this stage) — categories used are introduction/core/transition/resolution only.",
+        "The 5 printed [[ઘટના: ...]] markers map 1:1 to 5 topics (M2.S2.T2-T5, M2.S3.T6); no marker is swallowed, split, or merged with another — satisfies avoid-list gate #11 (never cut a comic turn from its setup) at the structural level Agent 4 can check.",
+        "No topic_name, module_name, segment_name or objective_text names a device, cuts by bare page/paragraph/person, or describes a transfer-composition method (avoid-list gates #10, #12) — all checkable now, at this stage before original_chunk is filled.",
+        "Not yet checkable at this stage (original_chunk is empty per this agent's mandate; Agent 5 fills it next): avoid-list items that require verbatim text — #1, #4, #5, #7, #9, #13, #14, #15. These are Agent 7/13 territory once content exists.",
+        "Third-person caveat honoured: no objective_text or topic_name attributes a first-person confession/admission to the writer (avoid-list gate #6) — this chapter's dialogue carries no 'હું' and none was invented. This is a deliberate, documented departure from the profile's usual 'પોતાની જાત પરની નજર' lens component (recorded in both 01_meta.json's extraction_notes and 02_structure.json's notes), not a defect."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 6,
+      "topics": 6,
+      "notes": [
+        "00_chapter_normalized.md carries exactly 6 reading-scene markers ([[લેખક-પરિચય]] + 5x [[ઘટના: ...]]) and 9 apparatus markers ([[શબ્દ-સમજૂતી]], [[કહેવત]], 4x [[સ્વાધ્યાય: ...]], [[વિદ્યાર્થી-પ્રવૃત્તિ]], [[ભાષા-અભિવ્યક્તિ]], [[શિક્ષકની ભૂમિકા]]) — 15 markers total, confirmed by direct grep of the normalized file.",
+        "All 6 reading-scene markers became exactly 6 topics, in the same order: [[લેખક-પરિચય]]→M1.S1.T1, and the 5 [[ઘટના:...]] markers→M2.S2.T2, M2.S2.T3, M2.S2.T4, M2.S2.T5, M2.S3.T6 respectively.",
+        "The unlabeled કૃતિ-પરિચય paragraph that follows [[લેખક-પરિચય]] with no marker of its own is folded into M1.S1.T1, matching std-10's measured bio+કૃતિ-પરિચય pairing (profiles/students/std-10.md §1.4) and the profile's own instruction that this pair is one CONCEPT topic.",
+        "Cross-checked every entry in 01_meta.json's exercise_inventory (MCQ x2, એક-એક વાક્યમાં x2, બે-ત્રણ વાક્યમાં x2, સવિસ્તર x2) against every topic_name and original_chunk plan in 02_structure.json: zero overlap. No સ્વાધ્યાય block became a topic.",
+        "No topic covers text that no marker claims — 6 markers, 6 topics, none invented.",
+        "No separate pre-reading opener or in-text wrap marker exists beyond the intro; the closing ઘટના (M2.S3.T6, resolution) IS the essay's closing gesture, matching the profile's instruction that the closing image is its own topic."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 6,
+      "notes": [
+        "Root objectives[] has 6 entries (O1-O6), all objective_id unique.",
+        "Every home_topic_id (M1.S1.T1, M2.S2.T2, M2.S2.T3, M2.S2.T4, M2.S2.T5, M2.S3.T6) and every anchor[] concept id (C1-C7, with O5 anchoring both C5 and C6) resolves to a real node in the tree.",
+        "strand_to_objective_map covers L1-L6 exactly once each, mapping 1:1 to O1-O6.",
+        "Every topic carries objective_ids resolving to the registry: T1:[O1], T2:[O2], T3:[O3], T4:[O4], T5:[O5], T6:[O6].",
+        "Each objective_text is grounded in this chapter's specific printed detail (e.g. O2's 'તાજમહેલમાં અંદર જઈને ક્યારેય જોયો જ નથી... તાજને એક કબર ગણાવે છે', O5's 'સૂરજ તો બધે જ સરખો' + સસ્તા આબુમાં અમદાવાદીઓ ભટકાવાની ફરિયાદ) and could not be pasted into another chapter; none is a generic 'સમજવું અને બોધ લેવો' template.",
+        "Ids match naming_conventions.md: M1/M2 continuous; S1 (in M1) then S2,S3 (in M2) continuous across the whole chapter, never restarting per module; T1-T6 continuous; C1-C7 chapter-continuous (T5 carries two concepts C5+C6, so T6's concept correctly continues at C7 rather than restarting). No M1.S1.T1.P1-style objective code anywhere — only O{n}.",
+        "Bloom spread (Understand x2, Analyze x3, Evaluate x1) climbs toward Evaluate at the closing topic, consistent with std-10's evaluation emphasis; this is descriptive, not part of the blocking check."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "This chapter's humour is built entirely from the caricature 'સર્વજ્ઞભાઈ''s own words, framed from outside by the printed intro's third-person 'લેખક કટાક્ષ કરે છે' — the profile's usual 'પોતાની જાત પરની નજર' lens component genuinely does not apply here (no first-person confession anywhere in the text), and the objectives correctly do not manufacture one. Carried forward as a standing caveat for Agents 5/7/12/13: no downstream field may invent a self-deprecating 'હું' admission for this chapter.",
+    "M2.S2.T5 is marked topic_category:'transition' though it carries the chapter's title-line and the densest content (two concepts) — this is intentional per 02_structure.json's own notes (it is the hinge between the string of far-off destinations and the final stay-home decision, not a plot peak, and 'climax' is barred outright for this genre). Recording for Agent 13 visibility; not a defect.",
+    "original_chunk is empty in every topic at this stage, per this agent's mandate and 02_structure.json's own note — Agent 5 fills it from the rendered pages next. The avoid-list checks that require verbatim text (profile items #1, #4, #5, #7, #9, #13, #14, #15) were not evaluable here and remain Agent 7/13's job once content exists."
+  ]
+}

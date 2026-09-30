@@ -1,0 +1,34 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "areas": ["જાતિ-ભૂમિકા"],
+      "caution": "The line 'ખાસ કરીને મહિલાઓને સંગઠિત કરીને તેમણે અમૂલના પાયા દૃઢ કર્યા' could be expanded into an unearned sermon about women's empowerment in general, or conversely reduced to a passing footnote that erases what the chapter actually credits them with.",
+      "guidance": "In `explanation`/`real_life_example`, state exactly what the chapter states — women were organised as members of the dairy cooperative, and that organising was part of building Amul's base — without adding a generic 'women should work outside the home' message the text does not carry.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S2.T2",
+      "areas": ["ધર્મ"],
+      "caution": "'સૌ ભાઈબંધો તળાવ પાસેના હનુમાનજીના મંદિરે ભેગા થઈએ' names a real temple only as the boys' regular meeting spot for their Saturday reading circle; an explanation could drift into commentary on Hanuman worship or turn the temple into the point of the anecdote.",
+      "guidance": "Keep the temple as incidental setting — the same way a schoolyard or a tree would be — and place the teaching weight on the boys' turn-taking and the essay-writing habit that planted the cooperation idea, not on the deity or the visit itself.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S3.T3",
+      "areas": ["સંઘર્ષ"],
+      "caution": "The Salt Satyagraha, the 1940-41 satyagraha, and Tribhuvandas's jail terms are real freedom-movement history; an explanation could turn this into partisan political commentary, or could turn the farmers' anger at the Polson company ('ત્રાસેલા') into a communal or business-villain framing rather than the plain economic unfairness the text names.",
+      "guidance": "Frame the જેલવાસ and સત્યાગ્રહ as courage and sacrifice for a national and farmers' cause — following Gandhiji and Sardar Vallabhbhai's ideals as the chapter states — never as praise or blame of any political party; keep the Polson episode to the printed fact (farmers were paid very little while the company sold high in Mumbai), not a broader anti-business message.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M3.S4.T6",
+      "areas": ["ધર્મ", "સમુદાય"],
+      "caution": "'વર્ગીસનો જન્મ સિરિયન ખ્રિસ્તી પરિવારમાં ... કેરાલાના કેલિકટ ગામે થયો હતો' names a real living community (Syrian Christians of Kerala) as part of a real named person's biography. An explanation could turn this into a comment on Christian belief or practice, generalise the community, or misname it (e.g. as simply 'ખ્રિસ્તી' without the 'સિરિયન' that the text itself carries).",
+      "guidance": "Carry the family/community fact exactly as one biographical detail among others (birthplace, father's profession, mother's music) — same weight as any other fact in the birth-to-education chronology — with no elaboration on Christian belief, no comparison to other faiths, and the community named exactly as printed ('સિરિયન ખ્રિસ્તી'), never generically as just 'ખ્રિસ્તી' or 'ક્રિશ્ચિયન'.",
+      "severity": "hard"
+    }
+  ],
+  "chapter_level": [],
+  "none_found": false
+}

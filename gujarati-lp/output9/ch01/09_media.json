@@ -1,0 +1,45 @@
+{
+  "media": [
+    {
+      "topic_id": "M2.S2.T3",
+      "concept_id": "M2.S2.T3.C3",
+      "id": "M2.S2.T3.C3.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "પથ્થરને પૂજતો મૂરખ",
+      "description": "એક માણસ રસ્તે પડેલા સાદા પથ્થર આગળ હાથ જોડીને પૂજા કરે છે, જ્યારે તેની બાજુમાં તુલસીનો છોડ છે અને થોડે દૂર પાણી દેખાય છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S2.T3.C3",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "આ ચિત્ર બતાવવાનું છે ત્યારે પહેલાં પૂછો કે આ માણસ શું કરી રહ્યો છે અને શા માટે — બાળક પોતે જ કહેશે કે આ ટેવ વિચિત્ર છે. પછી છપ્પાની પંક્તિઓ સાથે સરખાવો. ચિત્રને 'સાચી પૂજા કેવી હોવી જોઈએ' એ રીતે ન સમજાવવું; આ મૂરખની આંધળી ટેવનું ચિત્ર છે, સૂચના નથી.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motivational poster layout, text banner with a moral",
+      "generation_prompt": "A dusty village lane in Gujarat at midday: a barefoot middle-aged man in a plain dhoti and turban kneels with both palms pressed together before an ordinary grey roadside stone half-buried in the dirt, his eyes closed in exaggerated devotion, a small heap of loose stones piled beside it as though each one were worshipped in turn. Behind him a tulsi plant in a round clay platform stands with several leaves freshly plucked and scattered on the ground, and a stone water trough with a thin trickle of water sits a few feet away, hinting he bathes wherever he spots water. Low whitewashed houses with curved clay-tile roofs line the lane, a neem tree gives patchy shade, dry-season dust hangs in the air. The mood is gently comic and observational, not devotional. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "concept_id": "M2.S2.T4.C4",
+      "id": "M2.S2.T4.C4.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "સામસામે બેઠેલાં ઘૂડ અને હીરો છોડી પથ્થર",
+      "description": "અંધારી જગ્યામાં બે ઘૂડ સામસામે બેઠાં છે અને ઊગતા સૂર્ય તરફ ચાંચ ધરીને વિરોધ કરે છે; નીચે એક હાથ ચમકતો હીરો છોડીને સાદો પથ્થર ઉપાડે છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S2.T4.C4",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "ચિત્રના બે ભાગ અલગ અલગ સમજાવો — પહેલાં ઘૂડ-સૂર્ય (કોણ પ્રકાશનો વિરોધ કરે છે), પછી હીરો-પથ્થર (કોણ ખોટી પસંદગી કરે છે). બંને ચિત્ર-ભાગ છપ્પાની પોતાની પંક્તિઓમાંથી જ લીધેલા છે એ બાળકને બતાવો; 'ડાહ્યા' અને 'મોટા' શબ્દો કટાક્ષમાં છે એ ચિત્ર જોતાં જોતાં જ ફરી કહો.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, motivational poster layout, text banner with a moral",
+      "generation_prompt": "A split, single continuous scene at the edge of a Gujarat village before dawn. On the upper half, inside the dark hollow of an old neem tree, two owls sit facing each other on a bare branch, their beaks thrust forward and open toward the first golden rim of sunrise breaking over distant low hills, as if pushing the light away; the ground beneath the tree is still in deep shadow. On the lower half, in the same warm early light, a bare human hand and forearm reach down and drop a small faceted diamond, letting it fall and roll away in the dust, while the same hand closes around a plain dull grey stone lying beside it and lifts it up instead. Low clay-tiled village rooftops sit faintly in the background at the horizon line. The mood is quietly ironic and pointed, not tragic. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    }
+  ],
+  "2d_tool": null,
+  "reuse_report": {
+    "scenes": 2,
+    "reused": 0,
+    "authored": 2,
+    "rejected": []
+  }
+}

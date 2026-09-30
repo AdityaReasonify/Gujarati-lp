@@ -1,48 +1,94 @@
 {
-  "generated_at": "2026-08-29 08:43:37",
+  "generated_at": "2026-08-29 22:42:10",
   "std": 10,
-  "verdict": "no agents writing",
-  "complete_chapters": [],
+  "verdict": "10 agent(s) writing recently",
+  "complete_chapters": [
+    1,
+    2,
+    3
+  ],
   "chapters": [
     {
       "ch": 1,
+      "done": [
+        "A1",
+        "A2",
+        "A4",
+        "A11",
+        "A5",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A12",
+        "A16",
+        "A13",
+        "A14"
+      ],
+      "exists": true,
+      "lp2": true,
+      "bytes": 378759,
+      "last_write": 1788011698.4059005
+    },
+    {
+      "ch": 2,
+      "done": [
+        "A1",
+        "A2",
+        "A4",
+        "A11",
+        "A5",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A12",
+        "A16",
+        "A13",
+        "A14"
+      ],
+      "exists": true,
+      "lp2": true,
+      "bytes": 1388366,
+      "last_write": 1788021074.457883
+    },
+    {
+      "ch": 3,
+      "done": [
+        "A1",
+        "A2",
+        "A4",
+        "A11",
+        "A5",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A12",
+        "A16",
+        "A13",
+        "A14"
+      ],
+      "exists": true,
+      "lp2": true,
+      "bytes": 778826,
+      "last_write": 1788012108.7300327
+    },
+    {
+      "ch": 4,
       "done": [
         "A1",
         "A11"
       ],
       "exists": true,
       "lp2": false,
-      "bytes": 30777,
-      "last_write": 1787448842.6050289
-    },
-    {
-      "ch": 2,
-      "done": [],
-      "exists": true,
-      "lp2": false,
-      "bytes": 0,
-      "last_write": null
-    },
-    {
-      "ch": 3,
-      "done": [],
-      "exists": true,
-      "lp2": false,
-      "bytes": 0,
-      "last_write": null
-    },
-    {
-      "ch": 4,
-      "done": [],
-      "exists": false,
-      "lp2": false,
-      "bytes": 0,
-      "last_write": null
+      "bytes": 30243,
+      "last_write": 1788023386.6477184
     },
     {
       "ch": 5,
       "done": [],
-      "exists": false,
+      "exists": true,
       "lp2": false,
       "bytes": 0,
       "last_write": null
@@ -50,7 +96,7 @@
     {
       "ch": 6,
       "done": [],
-      "exists": false,
+      "exists": true,
       "lp2": false,
       "bytes": 0,
       "last_write": null
@@ -152,7 +198,68 @@
       "last_write": null
     }
   ],
-  "live_agents": [],
+  "live_agents": [
+    {
+      "run": "wf_0a47168b-267",
+      "agent": "aceac94b04a94d419",
+      "idle_min": 301.7,
+      "mb": 0.2
+    },
+    {
+      "run": "wf_0a47168b-267",
+      "agent": "a7bf40e72dcaea25d",
+      "idle_min": 277.9,
+      "mb": 0.6
+    },
+    {
+      "run": "wf_0a47168b-267",
+      "agent": "a12abf129b1ce3d31",
+      "idle_min": 276.5,
+      "mb": 0.5
+    },
+    {
+      "run": "wf_341f3c5c-325",
+      "agent": "a553ab8745d06087f",
+      "idle_min": 156.3,
+      "mb": 1.0
+    },
+    {
+      "run": "wf_341f3c5c-325",
+      "agent": "a13e71964a8bc2fd6",
+      "idle_min": 5.1,
+      "mb": 0.2
+    },
+    {
+      "run": "wf_0a47168b-267",
+      "agent": "a0fb7c22093221d78",
+      "idle_min": 4.6,
+      "mb": 0.3
+    },
+    {
+      "run": "wf_341f3c5c-325",
+      "agent": "a516de0b5166d1e09",
+      "idle_min": 3.3,
+      "mb": 3.0
+    },
+    {
+      "run": "wf_0a47168b-267",
+      "agent": "a3c428924f8a9d9ed",
+      "idle_min": 0.7,
+      "mb": 0.6
+    },
+    {
+      "run": "wf_0a47168b-267",
+      "agent": "a3d5c966eee261b03",
+      "idle_min": 0.2,
+      "mb": 7.0
+    },
+    {
+      "run": "wf_341f3c5c-325",
+      "agent": "a62d78c3de4072620",
+      "idle_min": 0.1,
+      "mb": 1.2
+    }
+  ],
   "stage_count": 13,
   "resume_args": {
     "std": 10,
@@ -162,20 +269,62 @@
         "ch": 1,
         "done": [
           "A1",
-          "A11"
+          "A2",
+          "A4",
+          "A11",
+          "A5",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A12",
+          "A16",
+          "A13",
+          "A14"
         ]
       },
       {
         "ch": 2,
-        "done": []
+        "done": [
+          "A1",
+          "A2",
+          "A4",
+          "A11",
+          "A5",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A12",
+          "A16",
+          "A13",
+          "A14"
+        ]
       },
       {
         "ch": 3,
-        "done": []
+        "done": [
+          "A1",
+          "A2",
+          "A4",
+          "A11",
+          "A5",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A12",
+          "A16",
+          "A13",
+          "A14"
+        ]
       },
       {
         "ch": 4,
-        "done": []
+        "done": [
+          "A1",
+          "A11"
+        ]
       },
       {
         "ch": 5,

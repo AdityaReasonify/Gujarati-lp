@@ -8,7 +8,7 @@
 #                                            and limits are per-model, so probing Haiku lies)
 # Only if work remains AND nothing is running AND the probe succeeds does it launch a
 # background Claude session that reads RESUME.md and continues. A lock file prevents two
-# ticks racing. Standards are finished in order: 6, then 7, 8, 9, 10.
+# Standards are finished in order: 6, then 7, then 8. STOP AFTER STD-8.
 
 # --loop makes this self-scheduling. It must be started from a normal user session:
 # macOS privacy protection blocks launchd-spawned processes from reading ~/Downloads
@@ -48,12 +48,15 @@ trap 'rmdir "$LOCK" 2>/dev/null' EXIT
 
 # --- 1. is there work left? ------------------------------------------------
 NEXT=""
-for std in 6 7 8 9 10; do
+# STOP-AFTER-8 (user directive, 2026-08-29): std-9 and std-10 must NOT be started
+# automatically. Only an explicit instruction may add "9 10" back to this list.
+AUTO_STDS="6 7 8"
+for std in $AUTO_STDS; do
   [ -d "$ROOT/gujarati-lp/output$std" ] || { NEXT=$std; break; }
   n=$(python3 "$S/args_for.py" "$std" 6 2>/dev/null | python3 -c "import json,sys;print(len(json.load(sys.stdin)['chapters']))" 2>/dev/null || echo 0)
   if [ "${n:-0}" -gt 0 ]; then NEXT=$std; break; fi
 done
-if [ -z "$NEXT" ]; then say "ALL STANDARDS COMPLETE — nothing to resume"; exit 0; fi
+if [ -z "$NEXT" ]; then say "std-6..8 COMPLETE — stopping as instructed; std-9/10 are intentionally NOT auto-started"; exit 0; fi
 
 # --- 2. is a workflow already running? -------------------------------------
 ACTIVE=$(python3 - <<'PY'

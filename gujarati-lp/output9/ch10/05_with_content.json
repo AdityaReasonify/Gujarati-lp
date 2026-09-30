@@ -1,0 +1,378 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch10",
+  "genre": "mukt_chhand_kavita",
+  "active_genre_profiles": [
+    "mukt_chhand_kavita.md"
+  ],
+  "explanation_unit": "એક વિચાર-એકમ",
+  "teaching_lens": "ચિત્ર + મૌન + પંક્તિ-ભંગ",
+  "guiding_question": "કવિતામાં 'બીજું એને કાંઈ ભાવતું નથી,' પંક્તિ એકલી કેમ મુકાઈ છે, અને એના પછી કવિ પોતાના વિશે શું કહે છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ-પરિચયમાં અપાયેલી માહિતી પરથી, પ્રિયકાન્ત મણિયારનો વ્યવસાય, 'પ્રબલગતિ' સંગ્રહનું સ્વરૂપ અને તેમને મળેલા સન્માનનું નામ કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કૃતિ-પરિચયમાં આપેલા વર્ણન પરથી, ગરીબ માણસને કપડાં, અનાજ ને દવા કેમ નથી મળતાં અને એ માટે કવિ કોને જવાબદાર ગણે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ 'એ લોકો પહેલાં… પછી… ત્યારે…' એ વાક્ય-ઢાળ કાપડ, ધાન્ય અને ઔષધ પર દોહરાવીને પોતાનો આક્ષેપ કઈ રીતે તીવ્ર બનાવે છે તે પંક્તિઓ ટાંકીને સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": [
+        "M2.S2.T3.C3",
+        "M2.S2.T3.C4",
+        "M2.S2.T3.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ 'એ લોકો'ને ઊધઈ સાથે સરખાવતું રૂપક કઈ પંક્તિમાં આપે છે, અને 'બીજું એને કાંઈ ભાવતું નથી,' પંક્તિ એકલી મૂકવાથી શું અસર થાય છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": [
+        "M2.S2.T4.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ 'મારે કવિ થવું જ નથી... જંતુનાશક દવા થાઉં તોય બસ' કઈ રીતે વ્યંગ દ્વારા પોતાનો આક્રોશ વ્યક્ત કરે છે તે સમજાવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "કવિ અને કૃતિનો પરિચય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "કવિ-પરિચય અને કૃતિ-પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "કવિ પ્રિયકાન્ત મણિયારનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "પ્રિયકાન્ત પ્રેમચંદ મણિયારનો જન્મ વિરમગામમાં અને તેમનું વતન અમરેલી હતું. તેમણે નવ ધોરણ સુધીનો અભ્યાસ કર્યો હતો. તેઓ ચૂડીઓ બનાવવાનો વ્યવસાય કરતા હતા. તેમનું વિવિધ છંદો પરનું પ્રભુત્વ ધ્યાનાકર્ષક છે. 'પ્રતીક', 'અશબ્દ રાત્રિ', 'સ્પર્શ', 'સમીપ' તેમના કાવ્યસંગ્રહો છે. 'પ્રબલગતિ' મુખ્યત્વે ગદ્યકાવ્યોનો સંગ્રહ છે. તેઓ સાહિત્ય અકાદમી દિલ્હીના પુરસ્કારથી સન્માનિત થયા હતા.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "કવિ પ્રિયકાન્ત મણિયારનો પરિચય",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "note": "Marker [[કવિ-પરિચય]]. Prose printed for the student (poet-bio paragraph: જન્મ વિરમગામ, વતન અમરેલી, ચૂડીઓ બનાવવાનો વ્યવસાય, છંદો પરનું પ્રભુત્વ, 'પ્રબલગતિ' ગદ્યકાવ્યોનો સંગ્રહ, સાહિત્ય અકાદમી પુરસ્કાર) — CONCEPT topic per explanation_unit_map.md's rule that student-facing કવિ-પરિચય prose is a CONCEPT topic; applied at std 9 here because the rendered page carries [[કવિ-પરિચય]] and [[કૃતિ-પરિચય]] as two SEPARATE printed markers rather than std-10's one unlabelled paragraph. 'One marker, one topic' (02_structure.md) governs. difficulty 'easy': short factual biography, no verse, no glossed vocabulary load beyond ordinary names/dates.",
+              "modified_chunk": "આ ફકરો કવિ પ્રિયકાન્ત મણિયારનો પરિચય આપે છે. તેમનો જન્મ વિરમગામમાં થયો હતો અને વતન અમરેલી હતું; નવ ધોરણ સુધી ભણ્યા પછી તેઓ ચૂડીઓ બનાવવાનો વ્યવસાય કરતા હતા. તેમને છંદો (કાવ્યની લય-રચના) પર સારું પ્રભુત્વ (કાબૂ) હતું, અને 'પ્રબલગતિ' એ તેમનો ગદ્યકાવ્યો (છંદ-પ્રાસ વગરની કવિતાઓ)નો સંગ્રહ છે. તેમને સાહિત્ય અકાદમી, દિલ્હીનું સન્માન મળ્યું હતું.",
+              "word_count": {
+                "original": 51,
+                "modified": 54
+              },
+              "key_terms": [
+                "વતન — જન્મ કે રહેઠાણનું સ્થળ",
+                "પ્રભુત્વ — કાબૂ, નિપુણતા",
+                "ગદ્યકાવ્ય — છંદ-પ્રાસ વગર, ગદ્યની ઢબે લખાયેલી કવિતા",
+                "સન્માનિત — માન-પુરસ્કાર મળેલું"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": []
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "કૃતિ-પરિચય અને કાવ્યનો વિષય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "આ કાવ્ય જગતની પ્રવર્તમાન સ્થિતિનો સચોટ ચિતાર વ્યક્ત કરે છે. ભૌતિકતા પાછળ પડેલો માણસ ધનના લોભમાં માનવતા ભૂલી ગયો છે તેની વેદના અને એની સામેનો આક્રોશ આ કાવ્યમાં છે. ગરીબ માણસ માટે પહેરવા કપડાં નથી, ખાવા અનાજ નથી ને બીમાર પડે તો દવા નથી, કારણ કે આ બધું તો કાળાંબજાર કરવાવાળા વેપારીઓએ પોતાના ભંડારોમાં ભરી રાખ્યું છે, જેથી વધારેમાં વધારે કિંમત વસૂલ કરીને વેચી શકાય. આવા લોકો એ માણસો નથી પણ પૈસાની નોટો ખાઈને ઉછરનાર ઊધઈ છે. આવા લોકો પર સંવેદનાની કોઈ અસર થતી નથી. કાવ્યને અંતે કવિ આક્રોશપૂર્વક કહે છે કે મારે કવિ નથી થવું. હું જંતુનાશક દવા થાઉં તો બસ, કારણ કે આ ઊધઈનો ખાત્મો કરી શકાય. કાવ્યમાં કાપડ સામે માણસનું ફાટી જવું, અનાજ સામે માણસનું સડી જવું અને શીશી સામે માણસનું ફૂટી જવું એમ વિરોધ રચી કવિએ કાવ્યને ચોટદાર બનાવ્યું છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "કૃતિ-પરિચય અને કાવ્યનો વિષય",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "note": "Marker [[કૃતિ-પરિચય]]. Prose printed for the student that states the poem's theme in full before the poem is read: ભૌતિકતા-લોભ-માનવતાની ખોટ, ગરીબની અછત (કપડાં/અનાજ/દવા), કાળાબજારિયા વેપારીઓની જવાબદારી, ઊધઈની સરખામણી, અને કવિનો કવિ-ન-થવાનો આક્રોશ. CONCEPT topic, separate from T1 per the same 'one marker, one topic' rule. depends_on T1 (poet introduced before the work). difficulty 'medium': denser causal prose (કારણ કે…) than T1, though still apparatus-simple compared with the poem's own broken lines.",
+              "modified_chunk": "આ ફકરો કાવ્યનો વિષય જણાવે છે. કવિ કહે છે કે પૈસાના લોભમાં માણસ માનવતા ભૂલી ગયો છે, એટલે ગરીબ માણસને પહેરવા કપડાં, ખાવા અનાજ કે બીમારીમાં દવા મળતાં નથી — કારણ કે કાળાબજાર કરનારા વેપારીઓએ આ બધું પોતાના ભંડારમાં ભરી રાખ્યું છે. કવિ આવા સંગ્રહખોર (વસ્તુઓ ભરી રાખનારા) લોકોને પૈસાની નોટો ખાઈને ઊછરતી ઊધઈ સાથે સરખાવે છે અને અંતે કહે છે કે પોતે કવિ નહિ, પણ આ ઊધઈનો નાશ કરનારી જંતુનાશક દવા બનવા માગે છે.",
+              "word_count": {
+                "original": 134,
+                "modified": 75
+              },
+              "key_terms": [
+                "પ્રવર્તમાન — હાલની, અત્યારની",
+                "ભૌતિકતા — પૈસા-વસ્તુ પાછળની દોડ",
+                "આક્રોશ — તીવ્ર ગુસ્સો, રોષ",
+                "કાળાબજાર — વસ્તુ સંતાડી ગેરકાયદે વધુ ભાવે વેચવી",
+                "સંવેદના — લાગણી, દયાભાવ"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "સંગ્રહખોરો સામે કવિનો આક્રોશ",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "સંગ્રહખોરીનું ચિત્ર અને ઊધઈનું રૂપક",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "કાપડ, ધાન્ય અને ઔષધ સંઘરી રાખતા લોકોનું ચિત્ર",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T2"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "એ લોકો પહેલાં કાપડના તાકા ભરી રાખે છે\nપછી જ્યારે માણસ ફાટી જાય છે ત્યારે\nવાર વાર વેચે છે\n\nએ લોકો પહેલાં ધાન્યના કોથળા ભરી સીવી રાખે છે\nપછી જ્યારે માણસ સડી જાય છે ત્યારે કિલો કિલો વેચે છે\nએ લોકો પહેલાં ઔષધની શીશીઓ સંઘરી રાખે છે\nઅને માણસ જ્યારે ફૂટી જાય છે ત્યારે થોડી થોડી રેડે છે.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "કાપડના તાકા ભરી રાખવા, માણસ ફાટે ત્યારે વાર વાર વેચવા",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S2.T3.C4",
+                  "concept_name": "ધાન્યના કોથળા સંઘરવા, માણસ સડે ત્યારે કિલો કિલો વેચવા",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S2.T3.C5",
+                  "concept_name": "ઔષધની શીશીઓ સંઘરવી, માણસ ફૂટે ત્યારે થોડી થોડી રેડવી",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "note": "Marker [[વિચાર-એકમ: એ લોકો પહેલાં કાપડના તાકા ભરી રાખે છે]] — covers verse-paragraphs 1 and 2 (3+4 printed lines: કાપડ, then ધાન્ય and ઔષધ printed as one further paragraph without a blank line between them). Kept as ONE topic, not three, per mukt_chhand_kavita.md's explicit hard rule: 'A repeated frame is one movement, not one topic per repetition... Cutting per rung destroys the only thing the climb does, which is accelerate the accusation. One વિચાર-એકમ; the rungs go in concepts[].' The three rungs (કાપડ / ધાન્ય / ઔષધ) are therefore three concepts under this one topic — a deliberate exception to 02_structure.md's general 'wanting three means the cut is probably wrong' guidance, licensed here by the genre profile itself, which is provenanced from this exact chapter. difficulty 'medium': vocabulary (તાકા, વાર, ઔષધ, સંઘરવું) is glossed in the printed શબ્દ-સમજૂતી box, and the repeating syntactic frame is graspable once shown, not itself jodakshar-dense or archaic.",
+              "modified_chunk": "આ પંક્તિઓમાં કવિ કહે છે કે 'એ લોકો' કાપડના તાકા (લાંબા થાનમાં વીંટાળેલું કાપડ) ભરી રાખે છે અને માણસનાં કપડાં ફાટી જાય ત્યારે જ થોડું થોડું વેચે છે. એ જ રીતે ધાન્યના કોથળા સીવીને સંઘરી રાખે છે અને માણસ ભૂખે સડવા લાગે ત્યારે કિલો કિલો વેચે છે, અને ઔષધ (દવા)ની શીશીઓ સંઘરી રાખીને માણસ બીમારીથી ફૂટે (તૂટી પડે) ત્યારે થોડી થોડી રેડે છે. જરૂરિયાતની વસ્તુ પાસે હોવા છતાં એ લોકો બીજાની લાચારીની રાહ જુએ છે.",
+              "word_count": {
+                "original": 58,
+                "modified": 75
+              },
+              "key_terms": [
+                "કાપડના તાકા — કાપડનું ફાડ્યા વગરનું, એકસરખા લૂગડાનું લાંબું થાન",
+                "વાર — ત્રણ ફૂટ જેટલું માપ",
+                "ઔષધ — ઓસડ, દવા",
+                "સંઘરવું — સંગ્રહ કરવો, ભરી રાખવું",
+                "કોથળો — શણનો મોટો થેલો"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "નોટોને ખાઈ ઉછરતી ઊધઈનું રૂપક",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S2.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "એ લોકો લોકો છે જ નહિ, એ તો છે નોટોને ખાઈ ઉછરતી ઊધઈ,\nબીજું એને કાંઈ ભાવતું નથી,",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C6",
+                  "concept_name": "એ લોકો ઊધઈ છે, બીજું એને કાંઈ ભાવતું નથી",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "note": "Marker [[વિચાર-એકમ: એ લોકો લોકો છે જ નહિ]] — verse-paragraph 3 (2 printed lines): the ઊધઈ રૂપક line plus the hanging line 'બીજું એને કાંઈ ભાવતું નથી,' kept together per the profile's rule that 'a hanging line belongs with the movement it completes... and is taught inside it,' never as its own topic. Naming રૂપક here is licensed by the chapter's own printed ભાષા-અભિવ્યક્તિ block, which names 'ઊધઈનું સૂચક રૂપક' outright — the profile's own instruction to 'quote the line and say what it does' where the page itself names a device, and રૂપક sits inside the std-9 named-canon ceiling (profiles/students/std-9.md §1.3). difficulty 'hard' (relative to this chapter only): a named-device line plus the poem's one deliberate પંક્તિ-ભંગ (the short hanging line standing alone) — exactly the teaching_lens_map.md std-9/10 'hard' criterion, and the single hardest reading-friction point for an L2 reader in this chapter.",
+              "modified_chunk": "કવિ કહે છે કે 'એ લોકો' ખરેખર માણસો જ નથી, પણ પૈસાની નોટો ખાઈને ઊછરતી ઊધઈ (લાકડું કોરી ખાતું જંતુ) છે — તેમને બીજું કંઈ ભાવતું જ નથી, ફક્ત પૈસાનો સંગ્રહ જ ગમે છે. આ પંક્તિ પછી કવિ 'બીજું એને કાંઈ ભાવતું નથી,' એવી ટૂંકી પંક્તિ એકલી મૂકે છે, જેથી વાચકને એ વાત પર થોભીને વિચારવાનો સમય મળે.",
+              "word_count": {
+                "original": 18,
+                "modified": 58
+              },
+              "key_terms": [
+                "ઊધઈ — લાકડું કોરી ખાતું જંતુ",
+                "ઉછરવું — મોટા થવું, ઉછેર પામવું",
+                "ભાવવું — ગમવું, સ્વાદ લાગવો",
+                "રૂપક — એક વસ્તુને સીધી બીજી વસ્તુ તરીકે વર્ણવવાનો અલંકાર"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "કવિનું પોતાનું નિવેદન",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "કવિની જંતુનાશક દવા થવાની ઝંખના",
+              "topic_type": "POEM",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S2.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "મારે કવિ થવું જ નથી.\nભારે અસર કરનારી જંતુનાશક દવા થાઉં તોય બસ.\n\n('પ્રબલગતિ'માંથી)",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C7",
+                  "concept_name": "કવિની જંતુનાશક દવા થવાની ઝંખના",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "note": "Marker [[વિચાર-એકમ: મારે કવિ થવું જ નથી]] — verse-paragraph 4 (2 printed lines), the poem's closing વળાંક: the speaker turns from describing 'એ લોકો' to speaking for himself ('મારે…'), per mukt_chhand_kavita.md's 'a turn in the address' boundary rule. Own segment (M2.S3), separate from M2.S2, because this is the address-turn the whole poem has been building to — the guiding_question itself asks what the poet says about himself after the lone hanging line. depends_on T4 because this વળાંક depends on the ઊધઈ image that sets it up, per 02_structure.md's 'a વળાંક depends on the ઘટના that set it up' rule. Second line transcribed from 00_chapter_normalized.md as 'ભારે અસર કરનારી જંતુનાશક દવા થાઉં તોય બસ.' — 01_meta.json's extraction_notes record a 400-dpi re-verification correcting an earlier ભ/મ misread ('મારે' → 'ભારે'); no independent re-transcription performed at this structure pass, per the no-hallucination policy of trusting the already-verified rendered-page reading over any second-guess. difficulty 'medium': very short and directly stated, but the વ્યંગ (meaning the opposite of a literal reading) requires inference an L2 reader is not yet practised at.",
+              "modified_chunk": "અહીં કવિ 'એ લોકો' વિશે વાત કરવાનું છોડીને પોતાના વિશે કહે છે: તેમને કવિ થવું જ નથી. તેને બદલે તેઓ ભારે અસર કરનારી જંતુનાશક દવા (જંતુઓનો નાશ કરતો પદાર્થ) બનવા માગે છે, જેથી સમાજમાં ફેલાયેલી આ 'ઊધઈ' જેવી શોષણવૃત્તિનો નાશ કરી શકાય. કવિ ખરેખર દવા બનવા નથી ઇચ્છતા — આ વ્યંગ (કટાક્ષ) દ્વારા તેમનો આક્રોશ વ્યક્ત થાય છે.",
+              "word_count": {
+                "original": 14,
+                "modified": 58
+              },
+              "key_terms": [
+                "જંતુનાશક — જંતુઓનો નાશ કરતો પદાર્થ",
+                "ભારે — અહીં તીવ્ર, વધારે અસર કરનારું",
+                "વ્યંગ — કટાક્ષ, ઊંધું કહીને મર્મમાં કરેલો પ્રહાર"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut: 2 pre-reading CONCEPT topics ([[કવિ-પરિચય]], [[કૃતિ-પરિચય]]) + 3 POEM topics (one per [[વિચાર-એકમ: …]] marker) = 5 topics total, matching 01_meta.json's structure_inventory.vichar_ekam=3 plus the two apparatus-prose markers. Marker count check: 5 reading markers in 00_chapter_normalized.md ([[કવિ-પરિચય]], [[કૃતિ-પરિચય]], and three [[વિચાર-એકમ: …]]), each carried by exactly one topic — none swallowed, none invented.",
+    "Apparatus/exercise markers explicitly NOT cut as topics, per global_content_rules.md rule 7 and mukt_chhand_kavita.md's own Priors: [[શબ્દ-સમજૂતી]] (feeds key_terms/ભાષા-બોધ), the three [[સ્વાધ્યાય: …]] blocks (MCQ, બે-ત્રણ વાક્યમાં, સવિસ્તારા વાક્યમાં), [[વિદ્યાર્થી-પ્રવૃત્તિ]] and [[ભાષા-અભિવ્યક્તિ]] (both explicitly inventoried as exercise/apparatus in 01_meta.json's exercise_inventory and extraction_notes) and [[શિક્ષકની ભૂમિકા]] (teacher-addressed, no reading text). All belong to Agent 10's exercise_solutions.json.",
+    "The rendered page and the genre-profile prior AGREE exactly on every structural point: 4 verse-paragraphs (3/4/2/2 lines) group into 3 વિચાર-એકમ (paragraphs 1+2 = one movement per the repeated-frame rule; paragraph 3 = the ઊધઈ movement with its hanging line; paragraph 4 = the closing વળાંક), no [[કડી]] or [[ટેક]] markers anywhere, and no છંદ/પ્રાસ asserted. No disagreement to flag to Agent 4/13.",
+    "3-concept exception on M2.S2.T3 is deliberate and text-grounded, not a mis-cut: mukt_chhand_kavita.md explicitly instructs that the કાપડ→ધાન્ય→ઔષધ rungs of the one repeated-frame movement 'go in concepts[]' rather than becoming separate topics. This is recorded here per author.md's instruction to fix the mechanism to serve the intent where a genre profile and a general structural heuristic diverge.",
+    "કવિ-પરિચય and કૃતિ-પરિચય kept as TWO separate CONCEPT topics (not folded into one), because 00_chapter_normalized.md carries them as two separate printed markers — matching the precedent already set for this same chapter-shape in output9/ch01/02_structure.json (અખાનો કવિ-પરિચય vs છપ્પા-કૃતિ-પરિચય).",
+    "No અલંકાર named beyond રૂપક, which the chapter's own printed ભાષા-અભિવ્યક્તિ block names outright for the ઊધઈ line (mukt_chhand_kavita.md's explicit licence to name a page-named device). No છંદ named anywhere (અછાંદસ has none, and છંદ is std-10-only regardless). No પ્રાસ asserted — 01_meta.json's extraction_notes already record the '-છે' verb endings as tense agreement, not rhyme.",
+    "No બોધ/શિખામણ/ઉપદેશ language and no 'આપણે … જોઈએ' exhortation appears in any objective_text — the poem's આક્રોશ is taught as the poet's own, per the profile's hard gate and author.md's ઉપદેશ prohibition.",
+    "Sensitivity: the poem's accused party ('એ લોકો') stays unnamed throughout every topic_name, objective_text and note above — no caste, community, religion, region, party or trade supplied, per mukt_chhand_kavita.md's Sensitivity section and reference/global_content_rules.md rule 10.",
+    "No numbers appear in any module/segment/topic/concept name or objective_text; all ordinal references in this file's own notes ('first', 'second' paragraph) are provenance/reasoning text, not display fields.",
+    "difficulty ladder across the chapter: easy (T1, plain bio) → medium (T2, causal prose) → medium (T3, glossed vocabulary + a graspable repeated frame) → hard (T4, the one named-device line plus the poem's single deliberate પંક્તિ-ભંગ) → medium (T5, short but requires reading વ્યંગ against the literal words). Reflects reader friction only, per teaching_lens_map.md and 02_structure.md — every objective above still reaches Analyze/Evaluate regardless of difficulty tier.",
+    "depends_on forms one linear reading chain (T1→T2→T3→T4→T5), matching this chapter's single-pass reading order; T5's dependency on T4 is the one genuine વળાંક-depends-on-setup case named in 02_structure.md's own example.",
+    "original_chunk left empty on every topic per spec: 'original_chunk stays empty; Agent 5 fills it.' No verbatim transcription attempted here beyond reading the markers already placed in 00_chapter_normalized.md.",
+    "No teaching prose (explanation, real_life_example, summaries, recall_questions) written anywhere in this file, per 02_structure.md's own scope limit — those are Agent 12's."
+  ],
+  "provenance": {
+    "agent": "05_verbatim_attachment",
+    "source_text": "00_chapter_normalized.md",
+    "verified_against_render": true,
+    "renders": [
+      "run-s9c10-verbatim/page-1.png",
+      "run-s9c10-verbatim/page-2.png",
+      "run-s9c10-verbatim/page-3.png"
+    ],
+    "notes": [
+      "All five topics' original_chunk (M1.S1.T1, M1.S1.T2, M2.S2.T3, M2.S2.T4, M2.S3.T5) sit on printed page 44 (render page-1.png at 150 dpi); every line was re-read against the render and matches 00_chapter_normalized.md exactly, including the corrected 'ભારે અસર કરનારી જંતુનાશક દવા' (not 'મારે') that 01_meta.json's extraction_notes already flagged and fixed. No transcription defect found on this pass.",
+      "M1.S1.T1 original_chunk is the paragraph under the [[કવિ-પરિચય]] marker only; the printed chapter number box (10), the title box (એ લોકો), the author name 'પ્રિયકાન્ત મણિયાર' and the era line '(જન્મ : 24-1-1927, અવસાન : 25-6-1976)' sit above the marker as chapter frontmatter (already captured in 01_meta.json) and are not part of any topic's original_chunk.",
+      "M2.S2.T3 original_chunk covers verse-paragraphs 1 and 2 (3+4 printed lines = 7 lines) as one topic, per mukt_chhand_kavita.md's explicit rule that the કાપડ→ધાન્ય→ઔષધ repeated-frame climb is one વિચાર-એકમ; the printed blank line between the two verse-paragraphs is preserved as a blank line inside original_chunk. Newline count (7 content lines) equals the printed line count for this stretch; no line joined or split.",
+      "M2.S2.T4 original_chunk is verse-paragraph 3 (2 printed lines): the ઊધઈ રૂપક line and the hanging line 'બીજું એને કાંઈ ભાવતું નથી,' kept together as one movement per the profile's rule that a hanging line is taught inside the movement it completes, never as its own topic. Trailing comma on both lines preserved as printed.",
+      "M2.S3.T5 original_chunk carries the printed attribution/source note ('પ્રબલગતિ'માંથી) as its final line (with the printed blank line before it preserved), per gujarati_verbatim.md's rule that the source note belongs inside the LAST topic's original_chunk for this poem -- matching 01_meta.json's own extraction_notes on this point.",
+      "No '।' introduced anywhere; all poem lines keep the printed '.' where the page prints one and no terminal punctuation where the page has none (e.g. M2.S2.T3's third line 'વાર વાર વેચે છે' and M2.S2.T4's two lines print no full stop -- transcribed without one, matching 00_chapter_normalized.md and the render).",
+      "No Devanagari, no Roman transliteration, and no romanised Gujarati word introduced anywhere in original_chunk or modified_chunk. Roman script does not occur in any field for this chapter.",
+      "modified_chunk is a plain 'શું થઈ રહ્યું છે' restatement in simple શિષ્ટ ગુજરાતી with hardest words glossed inline in Gujarati (ધોરણ tier per PEDAGOGY.md §2 / shabd_gloss.md's gloss-density table -- no English text placed in any modified_chunk); it is raw seed material only, not Agent 12's explanation, and adds no અલંકાર/ભાવ/real-life link.",
+      "key_terms picked per reference/shabd_gloss.md's std-9 L2-recalibrated target (3-5 per topic, inside the 3-6 contract band fixed by field_shape_rules.md): T1/T2 draw તત્સમ and household-register words from the કવિ-પરિચય/કૃતિ-પરિચય prose (વતન, પ્રભુત્વ, ગદ્યકાવ્ય, સન્માનિત; પ્રવર્તમાન, ભૌતિકતા, આક્રોશ, કાળાબજાર, સંવેદના); T3 draws directly from the printed શબ્દ-સમજૂતી box entries that occur in this topic's own lines (કાપડના તાકા, વાર, ઔષધ, સંઘરવું, કોથળો); T4 glosses the named રૂપક plus the L2 stopping-point verbs ઉછરવું/ભાવવું that carry the movement's meaning; T5 glosses જંતુનાશક (box entry) plus ભારે (used here as 'તીવ્ર', distinct from its printed વિરુદ્ધાર્થી sense 'ભારે×હલકું') and વ્યંગ, which the chapter's own ભાષા-અભિવ્યક્તિ block names outright for this closing movement.",
+      "primary_content_type/available_content_types set to image only for the three POEM reading scenes (M2.S2.T3, M2.S2.T4, M2.S3.T5), one image per વિચાર-એકમ per mukt_chhand_kavita.md's Priors and global_content_rules.md rule 9. The two CONCEPT pre-reading topics (M1.S1.T1, M1.S1.T2) carry no image: null / [], matching the ch1/ch2 precedent for this chapter-shape.",
+      "No અલંકાર named beyond રૂપક (already licensed at the 04_converged.json structure pass because the chapter's own printed ભાષા-અભિવ્યક્તિ block names 'ઊધઈનું સૂચક રૂપક' outright); no છંદ, no પ્રાસ asserted anywhere in this file -- figures_of_speech and rhyme_scheme remain out of this agent's scope (Agent 7).",
+      "No બોધ/ઉપદેશ language and no naming of the poem's unnamed accused party ('એ લોકો') appears in any modified_chunk or key_terms gloss, per mukt_chhand_kavita.md's hard gate and reference/global_content_rules.md rule 10.",
+      "No numbers appear in any topic_name-adjacent display field written by this agent (modified_chunk, key_terms); 'નવ ધોરણ' in T1's modified_chunk is the spelled-out word already used in the printed original, not a digit.",
+      "Ids, names, objectives, structure, concepts (including each concept's own key_terms/content placeholders left by Agent 4), depends_on and notes are passed through untouched from 04_converged.json, per this agent's spec: 'Ids, names, objectives and structure are frozen: pass them through untouched.'"
+    ]
+  }
+}

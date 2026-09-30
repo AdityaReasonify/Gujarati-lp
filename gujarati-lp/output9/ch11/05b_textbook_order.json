@@ -1,0 +1,12 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch11",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S1.T2",
+    "M2.S2.T3",
+    "M2.S3.T4",
+    "M2.S3.T5",
+    "M2.S4.T6"
+  ],
+  "source": "printed page 47 read off the render (the whole લઘુકથા sits on page 1 of 3, page-1.png at 150 dpi) — [[લેખક-પરિચય]] then [[કૃતિ-પરિચય]] open the page, followed by the four printed [[ઘટના: ...]] markers in order: રામશંકરની ઉદારતા અને એનું અધૂરું રહી જવું, સ્વજનોનું કાવતરું, મોહનનું દબાણ અને મગનની સહી, ચોટ — સાચો દસ્તાવેજ અને મોહનની ઓળખ; this is also the chapter's only logical reading order, and it matches the depends_on chain already frozen in 04_converged.json (T2→T1, T5→T4, T6→T5)."
+}

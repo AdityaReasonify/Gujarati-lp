@@ -1,0 +1,324 @@
+{
+  "chapter_id": "gseb_eng_gujarati10_ch6",
+  "plan_id": "gseb_eng_gujarati10_ch6_v1",
+  "genre": "આત્મકથાખંડ (અનુભવકથા)",
+  "active_genre_profiles": [
+    "nibandh_atmaparak.md"
+  ],
+  "teaching_lens": "સ્વર + પ્રસંગ + પોતાની જાત પરની નજર",
+  "guiding_question": "લેખક પોતાનો જર્મનીનો અનુભવ કહેતાં કહેતાં પોતાના જ પૂર્વગ્રહ વિશે શું કબૂલે છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક-પરિચયના ફકરા પરથી વિકાસ શર્માનો પરિચય મેળવવો અને કૃતિનો મુખ્ય મુદ્દો — વસ્તુ ખરીદનારને પણ તેને બગાડવાનો અધિકાર નથી — તારવવો.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "જર્મની વિશે લેખકના મનમાં હતી તે 'મોજશોખવાળા જીવન'ની ખોટી છાપ કયા વાક્યમાં કબૂલાય છે અને પ્રવાસે એ છાપ કેમ ભાંગી તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રેસ્ટોરાંમાં યુવાન દંપતીના સાદા ભોજનને લેખક કંજૂસાઈ કેમ ગણે છે અને વૃદ્ધ સ્ત્રીઓ ડિશમાં કશું છોડતી ન હતી એ વિગત શું સૂચવે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": [
+        "M2.S2.T3.C3",
+        "M2.S2.T3.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક અને તેના મિત્રોએ ભૂખ અને ઉતાવળને કારણે વધારે પડતું ભોજન કેમ મંગાવ્યું અને છેલ્લે ત્રીજા ભાગનું ભોજન ડિશમાં કેમ છોડ્યું તે તારવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": [
+        "M2.S2.T4.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વૃદ્ધ સ્ત્રીઓની ફરિયાદ સામે લેખકે 'તમારે શી નિસ્બત ?' કેમ કહ્યું અને એ ઉદ્ધત જવાબને કારણે તેમને દંડ કેમ ભરવો પડ્યો તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C6",
+        "M2.S3.T5.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સોશિયલ સિક્યોરિટી ઓફિસરે 'સાધન-સામગ્રી તો સમાજની છે' એમ કઈ દલીલથી લેખકને સમજાવ્યું અને એ વાક્ય કૃતિનો મુખ્ય સંદેશ કેમ બને છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": [
+        "M2.S3.T6.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખકે પોતાની ભૂલ સ્વીકારીને દંડની ટિકિટ ઓરડાની દીવાલ પર કેમ ચોંટાડી રાખી અને એ કૃત્ય શું યાદ અપાવે છે તે સમજાવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S4.T7",
+      "anchor": [
+        "M3.S4.T7.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "પૂર્વગ્રહની પાર્શ્વભૂમિ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "લેખક-પરિચય અને પૂર્વગ્રહ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "લેખક-પરિચય અને કૃતિનો સંદેશ",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "લેખકનો પરિચય અને કૃતિનો કેન્દ્રીય સંદેશ"
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "પૂર્વગ્રહ અને જર્મની-પ્રવાસ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "જર્મની વિશે લેખકનો પૂર્વગ્રહ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "રેસ્ટોરાંનો પ્રસંગ",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "અવલોકન અને પોતાનો બગાડ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "રેસ્ટોરાંમાં યુવાન દંપતી અને વૃદ્ધ સ્ત્રીઓનું અવલોકન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T2"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "યુવાન દંપતીના સાદા ભોજનનું અવલોકન"
+                },
+                {
+                  "concept_id": "M2.S2.T3.C4",
+                  "concept_name": "વૃદ્ધ સ્ત્રીઓની કરકસરનું અવલોકન"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "પોતાનો ખોરાક-બગાડ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S2.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C5",
+                  "concept_name": "લેખકના જૂથનો પોતાનો ખોરાક-બગાડ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "ફરિયાદ અને અધિકારીની ટકોર",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "રેસ્ટોરાંની બહાર સ્ત્રીઓની ફરિયાદ અને દંડ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S2.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C6",
+                  "concept_name": "સ્ત્રીઓની ફરિયાદ અને લેખકનો ઉદ્ધત જવાબ"
+                },
+                {
+                  "concept_id": "M2.S3.T5.C7",
+                  "concept_name": "સ્ત્રીઓનો ગુસ્સો અને અધિકારીનો દંડ"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "અધિકારીની ટકોર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T5"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C8",
+                  "concept_name": "અધિકારીની ટકોર — સાધન-સામગ્રી સમાજની છે"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "સ્વીકૃતિ અને બોધપાઠ",
+      "segments": [
+        {
+          "segment_id": "M3.S4",
+          "segment_name": "લેખકની સ્વીકૃતિ",
+          "topics": [
+            {
+              "topic_id": "M3.S4.T7",
+              "topic_name": "સ્વીકૃતિ અને બોધપાઠ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T6"
+              ],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T7.C9",
+                  "concept_name": "લેખકની સ્વીકૃતિ અને કાયમી બોધપાઠ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut rationale: 01_meta.json's structure_inventory records ghatna: 6, and 00_chapter_normalized.md carries exactly 6 [[ઘટના: ...]] markers plus one [[લેખક-પરિચય]] marker at the top. One marker = one topic (explanation_unit_map.md), giving 7 topics total: M1.S1.T1 (લેખક-પરિચય, CONCEPT) + six STORY_TELLING ઘટના topics M1.S1.T2 through M3.S4.T7, in the same order the markers print. No marker was merged or split.",
+    "M1.S1.T1 folds both the author-bio sentences ('વિકાસ શર્મા ઉદ્યોગ સાથે સંકળાયેલા છે...') and the કૃતિ-પરિચય paragraph ('અહીં વર્ણવાયેલી ઘટના આંખ ઉઘાડે તેવી છે...') under the single printed [[લેખક-પરિચય]] marker into ONE CONCEPT topic, per agents/02_structure.md's instruction that std 10's unlabelled લેખક-પરિચય + કૃતિ-પરિચય block is one CONCEPT topic printed for the student. Kept as one concept (not two) since both paragraphs serve one preparatory purpose — introducing the writer and previewing the essay's own stated theme — and neither half is long enough to teach alone.",
+    "M2.S2.T3 and M2.S3.T5 each carry two concepts because the single printed ઘટના block genuinely holds two separable observations/beats: T3 contrasts the young couple's frugal plate (which the writer misreads as miserliness) against the old women's careful eating (introduced here, paid off in T5) — two different objects of the writer's gaze in one scene. T5 similarly turns midway: the women's complaint and the writer's own curt, dismissive reply ('તમારે શી નિસ્બત ?') is one beat; their anger, the phone call and the imposed fine is the next, causally distinct beat. No topic was given a third concept.",
+    "depends_on records a genuine causal/chronological chain, not mere reading order: this is a single continuous first-person અનુભવકથા (nibandh_atmaparak, આત્મકથાખંડ sub-form) where each ઘટના is the direct consequence of the one before it (prejudice → the observation that will be judged against it → the writer's own waste → the complaint and fine that waste provokes → the officer's explanation of the fine → the writer's acceptance of that explanation). This differs from a verse chapter's parallel કડી-panels, where depends_on usually points only at a shared ટેક.",
+    "topic_category avoids 'climax' everywhere (introduction/introduction/core/core/core/transition/resolution) per nibandh_atmaparak.md's Avoid-gate item 2, which hard-bans 'climax' for this profile: these essays have પ્રસંગ, not પ્લોટ. M2.S3.T6 (અધિકારીની ટકોર) is marked 'transition' as the scene where the writer's understanding turns, and M3.S4.T7 carries 'resolution' as the closing gesture per the profile's own instruction to mark the closing image so.",
+    "difficulty is 'easy' only for M1.S1.T1 (short, plain factual intro); every ઘટના topic is 'medium' — per agents/02_structure.md's std 9-10 row, what stops an L2 std-10 reader here is scattered તત્સમ/compound vocabulary (પૂર્વગ્રહ, ભ્રામક, સૃષ્ટિસંતુલન, વૈભવવિલાસી, તીવ્ર અભાવ) and idiom/loanword density (નિસ્બત, ખણખોદિયા, છોભીલા પડવું, ઢંઢોળવું, યુરો, ડિશ), not sentence length or plot complexity — no topic was marked 'hard' since none of these individually blocks comprehension the way medieval verse or a named-device line would.",
+    "No topic's objective_text names a saahityaprakar tag, અલંકાર, છંદ or સમાસ — this chapter is prose (આત્મકથાખંડ), and none of the craft-naming canon applies here regardless of standard.",
+    "Apparatus below the narrative (શબ્દ-સમજૂતી box, the four-tier સ્વાધ્યાય ladder, વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ, શિક્ષકની ભૂમિકા) is left uncut per global_content_rules.md #7 and explanation_unit_map.md's apparatus rule — all of it is already recorded in 01_meta.json's exercise_inventory and extraction_notes for Agent 10; none of it appears as a topic here.",
+    "The chapter's closing credit line ('ભૂમિપુત્ર'માંથી) sits immediately after the last narrative paragraph in 00_chapter_normalized.md and belongs inside M3.S4.T7's original_chunk per nibandh_atmaparak.md's Avoid-gate item 13 (closing gesture and its credits stay together in the LAST topic) — flagged here for Agent 5, which fills original_chunk.",
+    "01_meta.json already records a printed source-credit inconsistency ('અંગ્રેજ સામયિકમાંથી' in the intro vs. ('ભૂમિપુત્ર'માંથી) at the close, a Gujarati periodical) — not this agent's to resolve; carried forward as Agent 1's note, unchanged.",
+    "Seven topics for a three-page chapter is proportionate to its six printed ઘટના markers plus one pre-reading CONCEPT scene — no marker was invented or padded to lengthen the tree, and no marker was swallowed to shorten it."
+  ]
+}

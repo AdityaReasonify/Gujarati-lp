@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic_id": "M2.S2.T5",
+      "areas": ["ધર્મ"],
+      "caution": "'આતમનો તારો દીવો પેટાવવા' invites pulling in a named tradition's teaching (e.g. Buddha's 'આત્મદીપો ભવ', which appears only as a teacher-facing શિક્ષકની ભૂમિકા cross-reference, never inside the poem's own lines) as if the poem itself preaches that doctrine.",
+      "guidance": "In `explanation`, keep 'આતમ'/આત્મા as the poem's own tળપદો word for inner strength — a universal self-reliance idea, not a named religion's teaching; let any Buddha cross-reference stay in a teacher-addressed field, never in text spoken to the child.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "areas": ["જાતિ-ભૂમિકા"],
+      "caution": "'ભાયા' is the poet's rhymed, affectionate form of 'ભાઈ' (per this topic's own key_terms, chosen for પ્રાસ, not a factual claim about the listener) — an explanation or real_life_example that treats the poem as addressed only to boys narrows a self-reliance message meant for every child.",
+      "guidance": "Keep `explanation` and `real_life_example` addressed to the whole class ('તમે', 'દરેક બાળક') regardless of gender, the way the key_terms note already reads 'ભાયા' as a warm address-form rather than a boys-only one.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [],
+  "none_found": false
+}

@@ -1,0 +1,232 @@
+{
+  "chapter_id": "gseb_eng_gujarati10_ch8",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક વિનોદ ભટ્ટના હાસ્યસાહિત્યના પ્રદાનની અને 'સૂરજ તો બધે જ સરખો' નિબંધમાં ખાણી-પીણી-ઘેલા પ્રવાસીની ટેવ પરના કટાક્ષની ઓળખ કરવી.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સર્વજ્ઞભાઈ તાજમહેલમાં અંદર જઈને ક્યારેય જોયો જ નથી છતાં દાળવડાંનાં વખાણ કરે છે અને તાજને 'એક કબર' ગણાવે છે એમાં રહેલો કટાક્ષ સમજાવવો.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T2",
+      "anchor": ["M2.S2.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "માથેરાનમાં પુરોહિતવાળી હોટલનાં દાળભાત અને પેનોરમા પોઈન્ટ પરના નારિયેળ-પાણી સિવાય સર્વજ્ઞભાઈને બીજું કંઈ યાદ નથી રહેતું એ પરથી તેમની પ્રવાસ-ટેવ તારવવી.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": ["M2.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દાર્જિલિંગના ઝરણામાં પગ બોળવાને બદલે દહીંવડાં ખાવાનું પસંદ કરતા સર્વજ્ઞભાઈ કશ્મીર વિશે જે બેપરવા ટીકા કરે છે તેમાં રહેલો કટાક્ષ પારખવો.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": ["M2.S2.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મહાબળેશ્વરના સૂર્યોદય કરતાં ઊંઘ વધારે વહાલી ગણી 'સૂરજ તો બધે જ સરખો' કહેતા સર્વજ્ઞભાઈ સસ્તા આબુમાં જ અમદાવાદીઓ ભટકાવાની ફરિયાદ કેમ કરે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T5",
+      "anchor": ["M2.S2.T5.C5", "M2.S2.T5.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "છેલ્લે ક્યાંય પ્રવાસ ન કરવાનું નક્કી કરી ધાબા પર આઈસ્ક્રીમ ખાવાની મજાને 'પૃથ્વીનો છેડો ઘર' કહેતા સર્વજ્ઞભાઈના શબ્દોમાં લેખકનો કટાક્ષ કઈ રીતે પૂરો થાય છે તે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": ["M2.S3.T6.C7"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "લેખકનો પરિચય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "લેખક અને નિબંધનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "લેખકનો પરિચય અને નિબંધનો કૃતિ-પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "લેખક વિનોદ ભટ્ટનો પરિચય અને નિબંધનો કૃતિ-પરિચય"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "સર્વજ્ઞભાઈની પ્રવાસ-વાતો",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "સ્થળોની વાતોમાં પુનરાવર્તાતી ખાણી-પીણીની ટેવ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T2",
+              "topic_name": "આગ્રાના તાજમહેલ અને દાળવડાંની વાત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T2.C2",
+                  "concept_name": "તાજમહેલ ન જોયો છતાં દાળવડાંનાં વખાણ કરતા સર્વજ્ઞભાઈ"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "માથેરાનનાં દાળભાત અને નારિયેળ-પાણીની વાત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "માથેરાનનાં દાળભાત અને પેનોરમા પોઈન્ટના નારિયેળ-પાણીની ટેવ"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "દાર્જિલિંગનાં દહીંવડાં અને કશ્મીર વિશેની ટીકા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C4",
+                  "concept_name": "દાર્જિલિંગનાં દહીંવડાં, ઝરણાની અવગણના અને કશ્મીર વિશેની ટીકા"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T5",
+              "topic_name": "મહાબળેશ્વરની ભલામણ અને આબુની સોંઘી સહેલ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T5.C5",
+                  "concept_name": "મહાબળેશ્વરની ટ્રાવેલ-ટુર ભલામણ અને સૂર્યોદયની અવગણના"
+                },
+                {
+                  "concept_id": "M2.S2.T5.C6",
+                  "concept_name": "સોંઘા આબુની ભલામણ અને અમદાવાદીઓ ભટકાવાની ફરિયાદ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "અંતિમ નિર્ણય",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "અમદાવાદમાં જ રહેવાનો નિર્ણય",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": ["M2.S2.T5"],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C7",
+                  "concept_name": "ધાબે સૂઈ રહેવાનો અને ક્યાંય ન જવાનો નિર્ણય"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut rationale: nibandh_atmaparak.md's unit is 'એક પ્રસંગ, અથવા વિચારનો એક વળાંક', boundary at the writer's own turn. Agent 1 already marked the boundary on the rendered page with one [[લેખક-પરિચય]] marker plus five [[ઘટના: ...]] markers (01_meta.json's structure_inventory.ghatna: 5). Six markers map to exactly six topics here — no marker silently swallowed, no topic invented where no marker sits, per agents/02_structure.md's Agent-4 check.",
+    "[[લેખક-પરિચય]] covers both the author-bio paragraph AND the unmarked કૃતિ-પરિચય paragraph that immediately follows it with no marker of its own (00_chapter_normalized.md lines 3-10): this matches profiles/students/std-10.md §1.4's measured finding that std-10 chapters open with an unlabeled bio + કૃતિ-પરિચય pair separated only by a rule, and agents/02_structure.md's own instruction that this pair is ONE CONCEPT topic (singular), not two. Folded into M1.S1.T1.",
+    "Two of the five printed [[ઘટના: ...]] markers each name two places and run two question-answer exchanges on the page. For M2.S2.T4 (Darjeeling+Kashmir) the Kashmir line is a one-clause coda to the same running joke (food over the ઝરણું) — the ભાવ never actually moves to a new subject, so it stays ONE concept. For M2.S2.T5 (Mahabaleshwar+Abu) the ભાવ genuinely moves — from 'enjoy મહાબળેશ્વર cheaply via a travel package, skip the sunrise' (carrying the chapter's own title line) to 'go to cheaper આબુ instead', which then backfires into the very complaint that seeds the closing topic — so M2.S2.T5 gets two concepts (C5, C6), never a third, per the profile's 'litany inside one movement' test. Both stay ONE topic each either way, honouring 'one marker, one topic'.",
+    "topic_type: CONCEPT for the opener; STORY_TELLING for all five ઘટના topics, each holding a narrated પ્રસંગ — the authored-enum value explanation_unit_map.md assigns to 'a narrative ઘટના'.",
+    "No topic carries topic_category: 'climax' — nibandh_atmaparak.md's hard gate #2 forbids it for this genre ('these chapters have પ્રસંગ, not પ્લોટ'). M2.S2.T5, which carries the chapter's title-line and its densest content, is marked 'transition': it is the hinge between the string of far-off destinations and the final decision to stay home, not a plot peak. M2.S3.T6 is 'resolution' per the profile's explicit instruction for the closing gesture; T2-T4 are 'core', T1 is 'introduction'.",
+    "Third-person caveat, carried forward from 01_meta.json's own extraction_notes: this chapter's original_chunk will carry NO first-person 'હું' anywhere — both voices are unlabeled, and the humour is built entirely from the caricature 'સર્વજ્ઞભાઈ''s own words, framed from outside by the printed intro's third-person 'લેખક કટાક્ષ કરે છે'. No objective_text or topic_name here attributes a self-deprecating admission to a first-person narrator — the same shape nibandh_atmaparak.md documents for std-7 ch6, held for its unit and its gate only. Agents 5/12 must not invent a 'હું' confession this chapter does not carry.",
+    "Difficulty set per agents/02_structure.md's std 9-10 row ('a સંવાદ carrying the argument's turn'): the whole chapter is unattributed two-voice dialogue with no 'કહ્યું' tags. M2.S2.T4 and M2.S2.T5 are 'hard' — both run the longest unattributed exchanges and both carry a pun-or-idiom-dependent punchline (the 'ગરમી પડે છે' double meaning on કશ્મીર; the title-line plus a second location-switch inside one speech turn) that a literal reading misses. M1.S1.T1 is 'easy' (one expository paragraph, no dialogue). M2.S2.T2 is 'medium' — the joke pattern's first appearance. M2.S2.T3 drops to 'easy' — the pattern is already learned by this point and this is its shortest, plainest repeat. M2.S3.T6 is 'medium' — shorter than T4/T5 but needs the whole essay held in mind to read 'પૃથ્વીનો છેડો ઘર' as the punchline.",
+    "depends_on: only M2.S3.T6 carries a real dependency, on M2.S2.T5 — the decision to stay in Ahmedabad answers directly the twist that closes T5 (meeting fellow અમદાવાદીઓ in આબુ). Every other topic is an independently self-contained iteration of the same repetition-with-escalation joke (a new place, the same food-over-sightseeing habit), so their depends_on stays [].",
+    "No અલંકાર, છંદ, or સાહિત્યપ્રકાર label appears in any objective_text, topic_name, module_name or segment_name. 'કટાક્ષ'/'વ્યંગ' are used freely as tone-words because 01_meta.json's own ભાષા-અભિવ્યક્તિ record never applies a formal device-name to this chapter either — the craft-naming gate (profiles/students/std-10.md §1.4) targets formal અલંકાર/છंद labels, not this genre's own vocabulary for its tone.",
+    "Apparatus and exercise exclusion: the શબ્દ-સમજૂતી box (સમાનાર્થી/શબ્દાર્થ, તળપદા શબ્દો, વિરુદ્ધાર્થી), the single કહેવત block, all four સ્વાધ્યાય tiers, વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are apparatus/exercise territory already recorded in 01_meta.json's exercise_inventory and extraction_notes — none of it is cut as a topic here, per global_content_rules.md #7 and explanation_unit_map.md's apparatus rule.",
+    "Sensitivity flag for Agent 8/12, not a structural decision: M2.S2.T4's original_chunk will carry સર્વજ્ઞભાઈ's line about કश्मीर and આતંકવાદીઓ — a callous pun on ગરમ. The topic is cut here because that is where the printed page puts the line; downstream agents must keep it verbatim, name it as કટાક્ષ once, and never extend or normalise the remark (nibandh_atmaparak.md's humour-sensitivity rule; global_content_rules.md #10).",
+    "original_chunk is left empty in every topic per this agent's mandate — Agent 5 fills it from the rendered pages, not this file.",
+    "Bloom spread across the six objectives (Understand x2, Analyze x3, Evaluate x1) climbs toward Evaluate at the closing topic, matching std-10's evaluation/transfer emphasis (profiles/students/std-10.md §1.3) without capping any topic's later recall ladder — that ceiling is Agent 12's job, not this file's."
+  ]
+}

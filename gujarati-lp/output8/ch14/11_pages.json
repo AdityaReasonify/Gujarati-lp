@@ -1,0 +1,11 @@
+{
+ "textbook": null,
+ "textbook_url": "../Textbooks-pdf/std-8/ch-14-niyamo-kona-mate.pdf",
+ "textbook_pages": "114–122",
+ "source": "printed folio, read off renders of pdf pp. 1 and 9 of the chapter PDF (folios 114 and 122 respectively); cross-checked against manifest.json row for unit 14 (printed_start 114, pdf_start 126, pdf_end 134 -> 114+(134-126)=122, agrees)",
+ "confidence": "medium",
+ "gaps": [
+  "textbook_url is a local path - the GSEB readers have no hosted URL",
+  "textbook title not confirmed: 01_meta.json carries textbook:null and std 8 cover has not been read (per profiles/boards/gseb_gujarati.md, std 8 and 9 covers are unconfirmed) - leaving textbook as null rather than composing a title from the chapter_name or filename"
+ ]
+}

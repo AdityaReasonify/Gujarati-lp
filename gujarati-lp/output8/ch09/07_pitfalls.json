@@ -1,0 +1,127 @@
+{
+ "topics": [
+  {
+   "topic_id": "M1.S1.T1",
+   "avoid_checks": [
+    {
+     "check": "Because this topic only establishes that the school event exists and that ગાર્ગી names it, `explanation`, `key_terms`, and every recall `answer` for M1.S1.T1 must not state what the 'એક ભારત શ્રેષ્ઠ ભારત' program actually contains — regional dances, food, costumes, or the states'-own-culture condition — since none of that is in this topic's `original_chunk`; those facts belong to M2.S3.T3 onward.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક ગાર્ગીની સવારની ઉતાવળ અને ચા-પ્રસંગને જ મુખ્ય 'વાર્તા' ગણી લે છે, અને એ વાતચીતની અંદર છુપાયેલા 'એક ભારત શ્રેષ્ઠ ભારત' કાર્યક્રમના નામને એક સામાન્ય પસાર થતો ઉલ્લેખ ગણી છોડી દે છે — જ્યારે એ નામ જ આખા એકમનું બીજ છે.",
+   "correction": "`explanation`નું પહેલું વાક્ય ગાર્ગી કે ચાની વાત નહીં, પણ શાળામાં થનારા 'એક ભારત શ્રેષ્ઠ ભારત' કાર્યક્રમના નામથી શરૂ થવું જોઈએ; `key_terms`માં એ નામ પહેલેથી છે, અને recall જવાબોમાં પણ એ જ નામ (કારણ સાથે) આવવું જોઈએ, ફક્ત 'ગાર્ગી ઉતાવળમાં હતી' એટલું જ નહીં."
+  },
+  {
+   "topic_id": "M1.S2.T2",
+   "avoid_checks": [
+    {
+     "check": "No `explanation`, `summary`, `detailed_summary`, or recall `answer` for M1.S2.T2 may state or imply that the છત્તીસગઢ live-broadcast exchange actually took place at ભારતનગર સોસાયટીના પ્રજાસત્તાક દિન કાર્યક્રમમાં — the chapter's own later topics (M2.S3.T3 onward) show the actual event ran on a different condition (દરેક જૂથ પોતાના રાજ્ય સિવાયની કૃતિ ભજવે છે), so this topic's example must stay marked as વિનુદાદાનું ઉદાહરણ, not as chapter fact.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક છત્તીસગઢનાં બાળકો સાથેના જીવંત પ્રસારણ-ઉદાહરણને જ સોસાયટીની ખરેખરી ઉજવણીની યોજના સમજી લે છે — જ્યારે એ તો વિનુદાદાએ 'સાંસ્કૃતિક એકતા' શું છે એ સમજાવવા આપેલું એક ઉદાહરણ માત્ર છે; ખરેખરી ઉજવણી (પછીના ખંડોમાં) સાવ જુદી રીતે — પોતાના રાજ્ય સિવાયની કૃતિ ભજવીને — થાય છે.",
+   "correction": "`explanation` અને દરેક recall `answer`માં છત્તીસગઢ-આદાનપ્રદાનની વાત 'ઉદાહરણ તરીકે' શબ્દ સાથે જ મૂકવી (જેમ `modified_chunk` પોતે કરે છે), અને કોઈ પણ ફિલ્ડ એવું ન કહે કે આ જીવંત પ્રસારણ ભારતનગર સોસાયટીના ખરેખરા કાર્યક્રમમાં થયું."
+  },
+  {
+   "topic_id": "M2.S3.T3",
+   "avoid_checks": [
+    {
+     "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line, or recall `answer` for M2.S3.T3 frames સભ્યોની 'વિચિત્ર' પ્રતિક્રિયા/ગણગણાટ and સમશેરસિંગનો સવાલ-જવાબ as a story's problem-and-resolution turning point, and no field asks or answers why any character personally 'chose' to accept the શરત — the topic reports a rule and the reasoning behind it, not a plot.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "Every community named in this topic's `original_chunk` (ગુજરાતી, પંજાબી, મરાઠી, તમિલ, બંગાળી, મારવાડી, હરિયાણવી, છત્તીસગઢી) that appears in `explanation`, `real_life_example`, or a recall `answer` must be named by its own printed name; no field substitutes a generic phrase such as 'આ લોકો' or 'બીજા રાજ્યના લોકો' for any of them.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "No field states or implies that સમશેરસિંગ's or વિનુદાદાનું હિન્દી-ઘાટીનું બોલવું ('ઐસે કૈસે કરેંગે ?...', 'હમારે બચ્ચે... હૈ') is a mistake, 'ખોટી ગુજરાતી', or something to correct — it is quoted and taught as printed speech, per author.md's 'the text often looks wrong when it is right' extended to dialect prose.",
+     "profile": "mahitiprad_gadya",
+     "severity": "soft"
+    }
+   ],
+   "misconception": "બાળક સમશેરસિંગનાં 'ઐસે કૈસે કરેંગે ? ... હૈ' અને વિનુદાદાના 'હમારે બચ્ચે ... હૈ' વાક્યોને ખોટી કે તૂટેલી ગુજરાતી અથવા છાપકામની ભૂલ સમજી લે છે, કારણ કે એ બાકીના પ્રકરણની ગુજરાતી કરતાં સાવ જુદાં લાગે છે — જ્યારે ખરેખર એ લુધિયાણાના સમશેરસિંગની પોતાની બોલચાલની હિન્દી છે, અને વિનુદાદા એમની સાથે એ જ ભાષામાં પ્રેમથી જવાબ આપે છે.",
+   "correction": "`explanation` અથવા `key_terms`માં પહેલી જ વાર આ સંવાદ આવે ત્યાં નોંધવું કે સમશેરસિંગ લુધિયાણાના છે એટલે હિન્દીમાં બોલે છે, અને વિનુદાદા આદરથી એ જ ભાષામાં જવાબ આપે છે — આ છાપકામની ભૂલ નથી, પણ પાત્રની પોતાની બોલી છે, જેને ફેરવ્યા વગર જ સમજાવવી."
+  },
+  {
+   "topic_id": "M2.S4.T4",
+   "avoid_checks": [
+    {
+     "check": "If `figures_of_speech` is populated for M2.S4.T4, the entry must quote the exact words 'સ્વિચ પાડ્યા પછી થોડીક વારે ટ્યૂબલાઈટ ચાલુ થાય એ રીતે' from this topic's `original_chunk`; `figures_of_speech: []` is a correct and complete answer, and no image or comparison not printed there may be named.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "Every reference to the બંગાળી community in `explanation`, `real_life_example`, or a recall `answer` for M2.S4.T4 must use the printed word 'બંગાળી', never a generic 'એ લોકો' or 'એ પ્રદેશના લોકો'.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'કૃતિની રજૂઆતમાં બંગાળી ન હોય એવો નિયમ છે, બંગાળી લોકોને પૂછવાની-એમનું માર્ગદર્શન લેવાની ક્યાં મનાઈ છે ?' એ વાક્યમાં બે ભાગ છે — બાળક પહેલો ભાગ (જૂથમાં બંગાળી સભ્ય નથી) જ પકડી રાખે છે અને 'તો બંગાળી જૂથ કૃતિ જ નહીં કરી શકે' એવું તારણ કાઢી લે છે, ને બીજો, ખરો ઉકેલ-ભાગ (બંગાળી લોકોને પૂછી શકાય) છોડી દે છે.",
+   "correction": "`explanation` અને ઓછામાં ઓછો એક recall `answer` બંને ભાગ સાથે લખવા — નિયમ શું છે (જૂથમાં બંગાળી સભ્ય જરૂરી નથી) અને ઉકેલ શું છે (બંગાળી લોકોને પૂછીને, એમનું માર્ગદર્શન લઈને કૃતિ બનાવી શકાય) — બંને પોતાના શબ્દોમાં, જેથી બાળક વાક્યનો બીજો અડધો ભાગ ન ચૂકે."
+  },
+  {
+   "topic_id": "M3.S5.T5",
+   "avoid_checks": [
+    {
+     "check": "Every community/region named in this topic's `original_chunk` (મરાઠી, બંગાળી, તમિળ, ગુજરાતી, પંજાબ-હરિયાણા, દક્ષિણ ભારત) that appears in `explanation`, `real_life_example`, or a recall `answer` must use that printed name, never a generic collective phrase.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "No `explanation`, `real_life_example`, `concept_bullets` line, or recall `answer` frames જોસેફભાઈ's Haryanvi performance or the idiom 'મોંમાં આંગળાં નાખવાં' as mockery, ridicule, or surprise-at-a-mistake; the reaction must be named as admiration/astonishment at his skill, grounded in the chapter's own words 'અદ્ભુત રીતે ભજવ્યો' and 'તોપણ ... મજા આવી'.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "'લોકો મોંમાં આંગળાં નાખી ગયા' અને 'તોપણ, એમનું હરિયાણવી હિન્દી સાંભળવાની લોકોને મજા આવી' વાંચીને બાળક એમ સમજી લે છે કે લોકો દક્ષિણ ભારતના જોસેફભાઈના હરિયાણવી લહેકાની મજાક ઉડાવતા હતા — જ્યારે ખરેખર 'મોંમાં આંગળાં નાખવાં' અહીં આશ્ચર્ય-પ્રશંસાનો રૂઢિપ્રયોગ છે, અને 'તોપણ' શબ્દ બતાવે છે કે લોકોને એમનું પર્ફોર્મન્સ ગમ્યું જ, હાંસી નહીં.",
+   "correction": "`explanation` અથવા `key_terms`માં 'મોંમાં આંગળાં નાખવાં' રૂઢિપ્રયોગનો અર્થ (આશ્ચર્ય પામવું) સ્પષ્ટ કરવો, અને 'તોપણ ... મજા આવી' વાક્યને જોડીને બતાવવું કે લોકોની પ્રતિક્રિયા પ્રશંસાની હતી, મજાકની નહીં."
+  },
+  {
+   "topic_id": "M3.S6.T6",
+   "avoid_checks": [
+    {
+     "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line, or recall `answer` for M3.S6.T6 names or implies which group's કૃતિ was best or better than another's — the topic's own point is વિનુદાદાનો ઇનકાર ('બધાં જ પર્ફોર્મન્સને પહેલો નંબર આપતાં આપણને કોણ રોકનાર છે ?'), and no field may supply the ranking the chapter itself refuses to give.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line, or recall `answer` for M3.S6.T6 closes on a generic appended moral such as 'આપણે એકતામાં માનવું જોઈએ' that is not a verbatim quotation from this topic's `original_chunk`; where the closing message is taught, it must be given in વિનુદાદાના પોતાના શબ્દોના ભાવમાં (તેર દિવસમાં લોકો એકબીજાની અને ભારતની સંસ્કૃતિની નજીક આવ્યાં).",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "The printed cheer 'ભારત માતા કી જય' in this topic's `original_chunk` is transcribed and referenced as printed only; no `explanation`, `real_life_example`, `concept_bullets` line, or recall `answer` develops it into a political statement or a claim ranking any group's or region's patriotism against another's.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક વિનુદાદાના 'બધાં જ પર્ફોર્મન્સને પહેલો નંબર આપતાં આપણને કોણ રોકનાર છે ?' એ નિર્ણયને 'ક્યારેય કોઈ સ્પર્ધા ન કરવી જોઈએ' જેવા સામાન્ય જીવન-નિયમમાં ફેરવી નાખે છે, અને વિનુદાદાએ પોતે આપેલું કારણ (બધી સંસ્કૃતિ સરખી મહાન છે, ને ખરી ઉપલબ્ધિ તો લોકો એકબીજાની નજીક આવ્યાં એ છે) ભૂલી જાય છે.",
+   "correction": "`explanation` અને O6ના recall `answer`માં વિનુદાદાનું પોતાનું કારણ (એમના પ્રશ્નોના ભાવ) જ લખવું — આ ખાસ પ્રસંગ પૂરતી વાત તરીકે, નહીં કે એક સામાન્ય 'સ્પર્ધા ખરાબ છે' નિયમ તરીકે."
+  },
+  {
+   "topic_id": "M3.S6.T7",
+   "avoid_checks": [
+    {
+     "check": "The list of dishes in `explanation`, `key_terms`, or a recall `answer` for M3.S6.T7 must exactly match this topic's `original_chunk` — લાડુ, સુખડી, થેપલાં, ઈડલી, રસગુલ્લાં, રોટલાનું ચૂરમું, ગાંઠિયા, બાટી, દહીં, લસ્સી — and add no dish (e.g. ઢોકળા, ખાખરા) that is not printed there.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    },
+    {
+     "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line, or recall `answer` for M3.S6.T7 closes with an appended moral of the shape 'આપણે વિવિધતાનો સ્વાદ માણવો જોઈએ' or 'આ પાઠ આપણને શીખવે છે…' that is not verbatim from the chapter; the chapter's own closing move — the shared પ્રસાદ representing the country's variety — is what gets taught, not an invented lesson sentence.",
+     "profile": "mahitiprad_gadya",
+     "severity": "hard"
+    }
+   ],
+   "misconception": "બાળક 'લાડુ, સુખડી, થેપલાં, ઈડલી, રસગુલ્લાં, રોટલાનું ચૂરમું, ગાંઠિયા, બાટી, દહીં, લસ્સી' જેવી યાદી ફક્ત વાનગીઓની યાદી તરીકે યાદ રાખે છે, પણ એ ચૂકી જાય છે કે આ બધી વાનગીઓ સાથે મળીને, એકસાથે પ્રસાદ તરીકે લેવાઈ, એ જ 'ભારતભરનું પ્રતિનિધિત્વ' અને 'વિવિધતામાં એકતા'નો ખરો અર્થ બતાવે છે.",
+   "correction": "`explanation` અને O7ના recall `answer`માં ફક્ત વાનગીઓનાં નામ ન લખવાં, પણ એ પણ લખવું કે આ બધી જુદી જુદી વાનગીઓ સાથે મળીને એક જ પ્રસાદ તરીકે લેવાઈ — એ જ વિવિધતામાં એકતાનું ચિત્ર છે."
+  }
+ ],
+ "chapter_level": [
+  "This whole chapter delivers its facts through quoted dialogue with no printed speaker labels (no 'વિનુદાદા :' colon form) — the speaker must be inferred from narration ('વિનુદાદા બોલ્યા', 'ગાર્ગી બોલી', 'કુલકર્ણીએ જિજ્ઞાસાથી પૂછ્યું') scattered mid-paragraph across many named characters (ગાર્ગી, વિનુદાદા, વિમળાબા, કુલકર્ણી, ભંવરલાલ, સમશેરસિંગ, જોસેફભાઈ, રસિકભાઈ, કૌશિક શિવાસુબ્રહ્મણ્યમ્). An L2 std-8 reader will lose track of who is speaking across a turn; every topic's `explanation` should name the speaker explicitly before reporting what they said, rather than leaving an utterance unattached.",
+  "01_meta.json records genre_confidence as 'low', with a documented, unresolved tension between mahitiprad_gadya (the routing used for this run) and samvad_nibandh — a genre where quoted dialogue argues a position with two sides and a negotiated middle. Because that tension exists, no topic's explanation for the dialogue-carried scenes (M2.S3.T3, M2.S4.T4) should be written as an argued debate with 'બે પક્ષ' and a meeting point; mahitiprad_gadya's own frame — a question pulling a fact into the open — is the one to teach."
+ ]
+}

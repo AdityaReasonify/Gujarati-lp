@@ -1,0 +1,10 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "29f80cd61cc51dcb1af7d536d080d55d49e9c7e8e7d2dcf6c05eb80295d44870",
+  "verdict": "pass",
+  "notes": [
+    "Ids frozen from this point: M1-M2, S1-S4, T1-T7, C1-C7, O1-O7. Downstream agents read 02_structure.json directly for the structure payload; this file only confirms convergence and records the exact sha256 of the structure file validated.",
+    "All three Agent 4 checks (સ્વરૂપ fidelity, coverage, objectives/phase-2 contract) passed on the first pass — see 04_validation.json for the full per-check evidence."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "textbook": null,
+  "textbook_url": "../Textbooks-pdf/std-8/ch-10-halese-halese.pdf",
+  "textbook_pages": "81-84",
+  "source": "printed folio, read off renders of pdf pp. 1 and 4 of the chapter PDF (folios '81' and '84' both visible in the pink footer band); agrees with manifest.json printed_start=81, pdf_start=93, pdf_end=96 (4 pages)",
+  "confidence": "medium",
+  "gaps": [
+    "textbook_url is a local path — the GSEB readers have no hosted URL",
+    "textbook left null: the std-8 cover has not been read in this run (01_meta.json also carries it as null; profiles/boards/gseb_gujarati.md flags std-8 cover as 'cover not read yet') — carrying that gap forward rather than composing a title from the filename or manifest",
+    "std-8 front matter (../Textbooks-pdf/std-8/00-front-matter.pdf) was not rendered/consulted in this run, so the reader's own અનુક્રમણિકા was not used as a cross-check — folio reading + manifest agreement was sufficient"
+  ]
+}

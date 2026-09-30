@@ -1,0 +1,11 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9",
+  "textbook_url": "../Textbooks-pdf/std-9/ch-16-gokulma-aavo-to.pdf",
+  "textbook_pages": "80–82",
+  "source": "printed folio, read off renders of pdf pp. 1 and 3 of the chapter PDF (150 dpi, footer confirmed at 300 dpi): page 1 prints folio 80 and the running footer 'ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9'; page 3 prints folio 82. Matches manifest.json row for std-9 unit 16 (printed_start 80, pdf_start 84, pdf_end 86 — a 3-page unit) and 01_meta.json's existing textbook_pages.",
+  "confidence": "medium",
+  "gaps": [
+    "textbook_url is a local path — the GSEB readers have no hosted URL",
+    "std 9 cover has not been read/confirmed per profiles/boards/gseb_gujarati.md, so the textbook title is carried from 01_meta.json (and corroborated by the in-chapter running footer 'ધોરણ 9') rather than a read cover — confidence held at medium on that basis alone, even though both end folios were read directly off the renders"
+  ]
+}

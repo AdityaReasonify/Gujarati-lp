@@ -1,0 +1,32 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "areas": ["સમુદાય"],
+      "caution": "The chunk states the poet was born 'જન્મે પારસી' before saying he was a merchant by trade and a writer at heart; the explanation could turn this into a comment on what Parsis are like, or drop the fact awkwardly instead of stating it as the plain biographical note the book makes.",
+      "guidance": "Name it exactly as the chunk does — one plain biographical fact among others (birthplace દમણ, trade વેપારી, real vocation સાહિત્ય) — and move straight on to what he wrote; no comment on the Parsi community's traits or customs, since the chapter offers none.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "areas": ["ધર્મ"],
+      "caution": "This કડી names કૃષ્ણ (a mythological/devotional figure) in the same breath as દયાનંદ (સરસ્વતી, a real 19th-century reformer) and દાદા (દાદાભાઈ નવરોજી, a real historical statesman); the explanation could turn 'પુણ્ય ભોમ' into a theological claim about Gujarat's sanctity, or blur the mythological and the historical into one undifferentiated 'great man' list.",
+      "guidance": "Keep the poet's own move — he lists them together as people Gujarat is proud to have held, not as a claim about who or what they were; do not add who કૃષ્ણ is beyond what the chunk implies, and do not date, canonise or editorialise on દયાનંદ or દાદાભાઈ નવરોજી beyond the chunk's own 'મહામાનવો' framing.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S2.T2",
+      "areas": ["સમુદાય"],
+      "caution": "The ટેક's move from 'જ્યાં જ્યાં વસે' to 'જ્યાં જ્યાં બોલાતી' is an invitation to declare who counts as ગુજરાતી or where the 'real' Gujarat is, tipping into an exclusionary or political claim about territory or belonging.",
+      "guidance": "Explain the shift as the poet's own widening of the picture — living somewhere and speaking the language are both ways Gujarat travels with a person — and keep the real_life_example inside the child's own world (a ગુજરાતી family or neighbour they know, here or elsewhere), never a claim about borders, citizenship or who belongs and who does not.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "સમુદાય",
+      "guidance": "This is an અસ્મિતા-ગીત in praise of Gujarat and Gujaratis, and its surface sits close to a slogan; the genre profile itself names this exact chapter as one of the two most tempted toward slogan-writing and political framing. Every explanation, real_life_example and recall answer must stay with the poem's own pictures — સૂર્યનાં કિરણો, ઉષા, ગુર્જર વાણી-લહાણી-શાણી, જંગલમાં મંગલ, ગુર્જર ભરતી-છાતી, સ્નેહ-શૌર્ય-સત્યનો રાસ — and never widen into 'આપણે ગુજરાત માટે … જોઈએ' exhortation, never name a government, party, scheme or border, and never frame ગુજરાત as superior to another state or region. Gujarat here is a cultural idea a person carries, not a territorial or political claim — the chapter's own closing line makes that framing safe to teach."
+    }
+  ],
+  "none_found": false
+}

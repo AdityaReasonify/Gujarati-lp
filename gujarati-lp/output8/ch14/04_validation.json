@@ -1,0 +1,50 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "explanation_unit in 01_meta.json ('એક દૃશ્ય (ઘટના) — છાપેલા દૃશ્ય-મથાળાની સીમાએ કટ') matches explanation_unit_map.md's varta row (ઘટના-wise, 'one plot beat') and matches 02_structure.json's own explanation_unit verbatim.",
+        "This chapter carries no કડી / દુહો / પદ / ટેક (structure_inventory kadi=0, duha=0, pad=0, tek_occurrences=0 in both 01_meta.json and 02_structure.json cut_summary) — the કડી-count-equals-topic-count, no-two-દુહા-share-a-topic, no-પદ-split and changed-ટેક sub-checks are all not applicable to this chapter's verse-free prose.",
+        "Marker-count check performed on the applicable unit instead: 7 reading-scene boundaries in 00_chapter_normalized.md (2 bracket [[ઘટના: ...]] markers at frame-open/frame-close + 5 printed 'દૃશ્ય એક/બીજું/ત્રીજું/ચોથું/પાંચ' headings) = 7 topics (T1-T7), 1:1. explanation_unit_map.md itself names this exact chapter under 'What the rendered page tells you about the unit': 'Printed labels hand you the cut for free: દૃશ્ય એક : … દૃશ્ય પાંચ : (std-8 ch 14, five ઘટના)' — confirming the un-bracketed printed દૃશ્ય headings are valid cut boundaries, not a missed marker.",
+        "Not a mixed chapter (single genre, no verse+prose split) — the mixed-chapter rule does not apply.",
+        "GAP, per CONTEXT ROUTING: my agent spec (04_mapping_convergence.md) lists 'the active genre profile(s)' as an input, but this run's context supplied only the six reference/ files (no_hallucination_policy.md, global_content_rules.md, loop_protocol.md, explanation_unit_map.md, naming_conventions.md, phase2_contract.md) — profiles/genres/varta.md itself was not handed to me, and I have not read it or guessed at its contents. I could not directly cross-check the cut/objectives against varta.md's own printed avoid list line by line. What I could verify: global_content_rules.md rule 1's general avoid-gate (no બોધ invented beyond the text) is not violated — every objective_text and topic/concept name is grounded in a specific printed line (e.g. O7 anchors to the chapter's own printed sentence 'સાચો દેશપ્રેમ દેશના કાયદા - કાનૂનના પાલનમાં છે', not an authored moral), and 02_structure.json's own notes already surface the one avoid-list item they are aware of (varta.md avoid-gate 3, not criticising a sympathetically drawn character) as a flag for Agent 12/13, not something violated at the structure stage. No teaching prose exists yet in 02_structure.json (original_chunk/content/key_terms are still empty shells for Agents 5/12), so there is no prose surface where an avoid-list violation could currently show up. Recording this as a note rather than a block, since it is a context-provisioning gap, not an observed defect, and re-running A1 or A2 would not supply the missing document.",
+        "genre_confidence is 'low' in 01_meta.json, and this exact chapter (std-8 ch 14) is named by Agent 1 as a still-open varta-vs-mahitiprad_gadya routing question. This is a pre-existing, already-surfaced doubt from Agent 1, not a new finding at this pass, and the reasoning given (drop-the-frame test: named characters + individual incident + personal વળાંક survive frame removal, which I independently confirmed against 00_chapter_normalized.md — વિનયનું 'પપ્પાની વાત વિચારવા જેવી તો છે !', પ્રશાંતની 'સોરી સર ! હવેથી હું આવી ભૂલ નહિ કરું !', હેત્વીની 'હવે હેત્વી કદી રોંગ સાઈડે નહિ જાય.') is grounded in the text and matches the teaching_lens 'ઘટના + પાત્ર + વળાંક' that both 01_meta.json and 02_structure.json declare. The દૃશ્ય-boundaries and topic count do not change under either candidate genre per Agent 1's own note. Recording as a non-blocking note, not treating as a wrong-સ્વરૂપ block, since I have no positive evidence the routing is wrong and reference/genre_diagnosis.md (the routing authority for this open question) was not part of my given context either."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 7,
+      "topics": 7,
+      "notes": [
+        "All 7 reading scenes in 00_chapter_normalized.md became topics in printed order: frame-open (line 39) -> M1.S1.T1, દૃશ્ય એક (43-44) -> M2.S2.T2, દૃશ્ય બીજું (46-59) -> M2.S2.T3, દૃશ્ય ત્રીજું (61-84) -> M2.S2.T4, દૃશ્ય ચોથું (88-111) -> M2.S3.T5, દૃશ્ય પાંચ (113-128) -> M2.S3.T6, frame-close (131) -> M3.S4.T7. Verified line-by-line against source_lines_00_normalized in 02_structure.json.",
+        "No pre-reading opener topic is missing: the only pre-reading box ([[પ્રવેશપેટી]]) is explicitly teacher-addressed and not a reading scene per its own bracket annotation and per 01_meta.json's 'Not exercises, recorded here instead' note; it correctly stayed out of the topic tree. The in-text wrap (frame-close, the guiding-question payoff) is a topic (M3.S4.T7).",
+        "No સ્વાધ્યાય block became a topic: cross-checked all 11 exercise_inventory entries (શબ્દસમૂહ, વાતચીત, પ્રશ્નોત્તર, અકસ્માત-કટિંગ, જૂથ-ચર્ચા, ચિત્ર-વર્ણન, હેલ્પલાઈન, જો-તો, ક્રિયાવિશેષણ, સાચું-ખોટું, અનુવાદ) against every topic_name and original_chunk plan in the seven topics — zero overlap.",
+        "No topic covers text no marker claims: walked every line of 00_chapter_normalized.md between markers (lines 38-133) against the seven topics' source_lines_00_normalized ranges (39; 43-44; 46-59; 61-84; 88-111; 113-128; 131) plus the excluded non-topic markers ([[ચિત્ર: ...]] x2 at lines 41 and 86, [[શબ્દાર્થ-પેટી]] at 133) — every line is accounted for exactly once, no gap, no overlap.",
+        "The two page illustrations ([[ચિત્ર: ...]] at printed pp.114 and 116) sit between topics (T1/T2 and T4/T5 respectively) without cutting into any topic's verbatim span, matching 02_structure.json's own not_cut_as_topics note."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 7,
+      "notes": [
+        "Root objectives[] has 7 entries (O1-O7), all objective_id values unique.",
+        "Every home_topic_id (M1.S1.T1, M2.S2.T2, M2.S2.T3, M2.S2.T4, M2.S3.T5, M2.S3.T6, M3.S4.T7) and every anchor[] concept id resolves to an existing node in the modules tree — checked all 7 objectives against the 7 topics and their 13 concepts (C1-C13), one-to-one match with no dangling reference.",
+        "strand_to_objective_map covers L1-L7 exactly once, mapping 1:1 to O1-O7; matches the legacy_id on each objective.",
+        "Every topic carries exactly one objective_ids entry and it resolves to the registry (T1->O1 ... T7->O7); every concept's objective_id matches its parent topic's objective_ids.",
+        "Each objective is text-grounded and chapter-specific: all seven name a specific printed detail (named characters -- સુરેશભાઈ/જાનકીબહેન/સરોજબહેન, પ્રશાંત/રાહુલ, પપ્પા/વિનય, દાદા/હેત્વી -- or a specific printed line, e.g. O7's anchor to 'સાચો દેશપ્રેમ દેશના કાયદા - કાનૂનના પાલનમાં છે') and could not be pasted into another chapter. All seven serve the teaching_lens 'ઘટના + પાત્ર + વળાંક' -- each names the ઘટના, the પાત્ર, and asks for the વળાંક (realization, promise, or judgement).",
+        "No numbers appear in objective_text as chapter/exercise references (global_content_rules.md rule 4); the ordinal 'પહેલા ફકરામાંથી' in O1 is the accepted word form (parallel to the rule's own example 'પહેલી ટેક'), not a banned digit. Content-numerals from the story itself ('ત્રણ સવારી', 'દસ મિનિટ') appear only inside objective_text as printed content, never inside any module/segment/topic/concept name -- scanned all name fields, none contain digits.",
+        "Ids match reference/naming_conventions.md and phase2_contract.md's id grammar: M1-M3 continuous; segments M1.S1, M2.S2, M2.S3, M3.S4 with s running 1-4 across the whole chapter without restarting per module; topics T1-T7 continuous; concepts C1-C13 chapter-continuous, never restarting inside a topic, each correctly prefixed by its parent topic id. Objective ids are O{n} in the root registry only. No M1.S1.T1.P1-style code anywhere in the file."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Ran once, per reference/loop_protocol.md -- no iteration needed, all three checks passed on the first pass.",
+    "01_meta.json's structure_inventory (kadi=0, duha=0, pad=0, ghatna=5, tek_occurrences=0) and 02_structure.json's cut_summary agree exactly; genre/active_genre_profiles/teaching_lens/guiding_question strings match verbatim between the two files.",
+    "GAP recorded above under genre_fidelity: the active genre profile (profiles/genres/varta.md) cited as an input by my own agent spec was not supplied in this run's context and was not read or guessed at, per the CONTEXT ROUTING instruction. The avoid-list sub-check of Check 1 was therefore verified only indirectly (via global_content_rules.md's general avoid-gate and the fact that no teaching prose exists yet at this stage to violate it), not against varta.md's own printed list. This did not block the pass because it is a context-provisioning gap, not an observed defect in 02_structure.json, and it should be flagged to whoever assembles context for future genre-avoid-list checks on this chapter.",
+    "02_structure.json's own notes flag the same two things independently and in more depth: (1) the genre_confidence:'low' / varta-vs-mahitiprad_gadya open question inherited from Agent 1, and (2) varta.md's avoid-gate 3 (do not criticise a sympathetically drawn character) as a caution for Agent 12/13 when they write explanation/real_life_example prose. Both are non-blocking notes that should travel forward to Agent 13's validation_report.md as this pass's spec requires.",
+    "original_chunk, concepts[].content and concepts[].key_terms are still empty shells throughout 02_structure.json by design at this stage (Agent 5 fills original_chunk, Agent 12 fills the teaching prose) -- this is expected and not a defect against any of the three Check 1-3 criteria this agent runs."
+  ]
+}

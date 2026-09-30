@@ -1,0 +1,440 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch12",
+  "plan_id": "gseb_eng_gujarati8_ch12_v1",
+  "genre": "નાટક (એકાંકી)",
+  "active_genre_profiles": [
+    "natak_ekanki.md"
+  ],
+  "teaching_lens": "સંવાદ + રંગસૂચના + વળાંક",
+  "guiding_question": "વીસ વર્ષે વિલાયતથી પાછી આવેલી ક્ષિતિ ખોટા મિલકતના કાગળની કસોટીથી પોતાના ભાઈના પરિવારની સાચી લાગણી કઈ રીતે પારખે છે ?",
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "ઘરમાં ક્ષિતિની રાહ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "ચશ્માંની શોધ અને ઘરની ઓળખાણ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "પાત્રો અને ઘરની ઓળખાણ",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "પાત્રો અને ખંડનો પરિચય"
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "કેતકીની વારંવારની પૂછપરછ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "કેતકીની પૂછપરછ અને ચારુબાલાની અકળામણ"
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T3",
+              "topic_name": "સંતોષનું આગમન અને ચારુબાલાની ફરિયાદ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T3.C3",
+                  "concept_name": "સંતોષ સામે ચારુબાલાની ફરિયાદ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "ક્ષિતિ વિશેની વાતો અને રાહ",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T4",
+              "topic_name": "સંતોષ-કેતકીની ખાનગી વાત: ક્ષિતિ વિશે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T4.C4",
+                  "concept_name": "ખોટું બોલવાની બાળક-પિતાની ગોઠવણ"
+                },
+                {
+                  "concept_id": "M1.S2.T4.C5",
+                  "concept_name": "ક્ષિતિના બાળપણ અને ડૉક્ટર બનવા વિશેની વાત"
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T5",
+              "topic_name": "ક્ષિતિની ચિંતા અને ચશ્માં જડ્યાં",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T3"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T5.C6",
+                  "concept_name": "ક્ષિતિ કેવી લાગશે એની ચિંતા"
+                },
+                {
+                  "concept_id": "M1.S2.T5.C7",
+                  "concept_name": "ચશ્માં જડ્યાં અને પ્રેમાળ પળ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "ક્ષિતિનું આગમન",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "સ્વાગત અને ઓળખાણ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "ક્ષિતિનું આગમન અને પરિચય",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C8",
+                  "concept_name": "ક્ષિતિનું આગમન અને પરિવાર સાથે ઓળખાણ"
+                },
+                {
+                  "concept_id": "M2.S3.T6.C9",
+                  "concept_name": "ક્ષિતિની વિચિત્ર માગણી: સંતોષભાઈ સાથે એકલી વાત"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "એકાંતની માગણી",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T7",
+              "topic_name": "કેતકી અને ચારુબાલાનું જવું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T7.C10",
+                  "concept_name": "ચારુબાલા-કેતકીની વિદાય અને શંકા"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "મિલકતના કાગળની કસોટી",
+      "segments": [
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "ખોટો કાગળ",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T8",
+              "topic_name": "સંતોષ-ક્ષિતિ એકલા: ખોટો મિલકતનો કાગળ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O8"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T8.C11",
+                  "concept_name": "ક્ષિતિની ધીરે ધીરે વાત માંડવાની રીત"
+                },
+                {
+                  "concept_id": "M3.S5.T8.C12",
+                  "concept_name": "ખોટો મિલકતનો કાગળ સોંપાય છે"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S6",
+          "segment_name": "સાચી લાગણી છતી થાય છે",
+          "topics": [
+            {
+              "topic_id": "M3.S6.T9",
+              "topic_name": "સંતોષની ઉદારતા છતી થાય છે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [
+                "M3.S5.T8"
+              ],
+              "objective_ids": [
+                "O9"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T9.C13",
+                  "concept_name": "સંતોષની નિઃસ્વાર્થ ઉદારતા"
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S6.T10",
+              "topic_name": "ક્ષિતિનો ખુલાસો અને નાટકનું સમાપન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M3.S6.T9"
+              ],
+              "objective_ids": [
+                "O10"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T10.C14",
+                  "concept_name": "ક્ષિતિ કાગળ ફાડી નાખે છે અને ખુલાસો કરે છે"
+                },
+                {
+                  "concept_id": "M3.S6.T10.C15",
+                  "concept_name": "ક્ષિતિનો કાયમ રહેવાનો નિર્ણય અને નાટકનું સમાપન"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પાત્રો બોક્સ અને શરૂઆતના રંગસૂચનાને વાંચીને, નાટકનાં ચાર પાત્રો કોણ છે અને ખંડનું દ્રશ્ય કેવું છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કેતકી વારંવાર જુદી જુદી વસ્તુઓ વિશે પૂછ્યા કરે છે એ સંવાદ પરથી, ચારુબાલાની અકળામણ કેમ વધતી જાય છે તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સંતોષના આગમન પછીના સંવાદમાં ચારુબાલાની ફરિયાદ અને સંતોષની રંગસૂચનાઓ પરથી, બંનેની લાગણી કેવી રીતે જુદી જુદી રીતે વ્યક્ત થાય છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S1.T3",
+      "anchor": [
+        "M1.S1.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સંતોષ અને કેતકીની ખાનગી વાતચીતમાંથી, ક્ષિતિના બાળપણ વિશે શું જાણવા મળે છે અને બંને એકબીજા માટે ખોટું કેમ બોલે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T4",
+      "anchor": [
+        "M1.S2.T4.C4",
+        "M1.S2.T4.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ચારુબાલા અને સંતોષની વાતચીત પરથી, ક્ષિતિ પોતાના સાદા ઘરમાં કેવું અનુભવશે એની ચિંતા અને ચશ્માં જડ્યા પછીની હૂંફ કેવી રીતે દેખાય છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T5",
+      "anchor": [
+        "M1.S2.T5.C6",
+        "M1.S2.T5.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ક્ષિતિના આગમન અને પરિચયના સંવાદ પરથી, એનો દેખાવ કેવો છે અને એ સંતોષભાઈ સાથે એકલા વાત કરવા શા માટે માગે છે તે તારવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": [
+        "M2.S3.T6.C8",
+        "M2.S3.T6.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કેતકી અને ચારુબાલાના જવાના સંવાદ પરથી, ચારુબાલાને ક્ષિતિની વિનંતી કેમ અજુગતી લાગે છે અને એ છતાં એ કેમ જાય છે તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T7",
+      "anchor": [
+        "M2.S4.T7.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ક્ષિતિ સંતોષભાઈને ધીરે ધીરે વાત માંડીને ખોટો મિલકતનો કાગળ આપે છે એ સંવાદ પરથી, એ કઈ રીતે પોતાની કસોટી શરૂ કરે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T8",
+      "anchor": [
+        "M3.S5.T8.C11",
+        "M3.S5.T8.C12"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સંતોષ ખોટા કાગળને સાચો માની જે રીતે પોતાનું ઘર અને નોકરી પણ છોડવા તૈયાર થાય છે એ સંવાદ પરથી, એના સ્વભાવ વિશે શું કહી શકાય તે મૂલવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S6.T9",
+      "anchor": [
+        "M3.S6.T9.C13"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O10",
+      "legacy_id": "L10",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ક્ષિતિ કાગળ ફાડી નાખી કસોટીનો ખુલાસો કરે છે એ છેલ્લા સંવાદ પરથી, એણે સંતોષના પરિવારની સાચી લાગણી કઈ રીતે પારખી લીધી તે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S6.T10",
+      "anchor": [
+        "M3.S6.T10.C14",
+        "M3.S6.T10.C15"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9",
+    "L10": "O10"
+  },
+  "notes": [
+    "CONTEXT-ROUTING GAP: agents/02_structure.md lists reference/naming_conventions.md, reference/phase2_contract.md and profiles/students/std-8.md as inputs, but only reference/no_hallucination_policy.md, reference/global_content_rules.md, reference/explanation_unit_map.md and reference/teaching_lens_map.md were supplied for this run. Per this run's CONTEXT ROUTING instruction, those three files were NOT read or guessed at. The id scheme (M{m}.S{s}.T{t}.C{c}), the objectives-registry JSON shape and the std-8 difficulty rubric were taken from the inline text of 02_structure.md itself, which prints them directly. If the real phase2_contract.md or naming_conventions.md require additional fields not shown inline (e.g. on objective or concept objects), this file may need reconciliation once those docs are supplied.",
+    "MARKER-TO-TOPIC MAPPING: 00_chapter_normalized.md carries exactly one [[પાત્રો]] marker and one [[સંવાદ: ક્ષિતિનું ઘરે આગમન]] marker for the entire play (lines ~9-165) because the એકાંકી prints as one continuous scene with no ank/pravesh/drushya numbering (01_meta.json structure_inventory: drushya_count 1, ank_pravesh_count 0). profiles/genres/natak_ekanki.md is explicit that the explanation unit is one stage-beat, cut at entrances/exits/objects-arriving/knowledge-or-want changes -- 'do not cut by page... A play does not get more topics for being talkative' but also 'no topic inflation... A long single-situation exchange split into several topics is a hard fail.' Following that rule (not a literal one-marker-one-topic count), the single [[સંવાદ: ...]] span was cut into 9 stage-beat topics (M1.S1.T2 through M3.S6.T10); the header topic M1.S1.T1 combines the [[પાત્રો]] marker's cast list with the opening full-paragraph room-direction that opens the [[સંવાદ: ...]] marker, per the profile's explicit std-8 header-signal row ('પાત્રો : cast list ... then a long parenthesised direction opening the room' = one topic). All topic content is drawn only from inside these two markers' spans; no marker content was dropped and no topic was invented outside them. Flagging this explicitly for Agent 4's marker-count check since it is a 2-marker-to-10-topic split, not the verse forms' 1-marker-1-topic default.",
+    "Stage-change count backing the 10-topic ceiling (profile's 'topic count <= stage changes + 1 for header'): counted roughly 14 entrance/exit/object-arriving/decisive-action beats across the play (સંતોષ enters; કેતકી exits/re-enters twice; ચારુબાલા exits/re-enters; ચશ્માં found; ક્ષિતિ enters; કેતકી exits; ચારુબાલા exits; કાગળ handed over; કાગળ ફાડવું; પડદો પડે છે), well above the 10 topics cut, so no inflation.",
+    "Excluded from the topic chain, per 01_meta.json's own extraction_notes and global_content_rules #7: the વાદળી પરિચય-બોક્સ (apparatus, teacher-addressed), the શબ્દાર્થ box, the ચર્ચા-વિચારણા box, the ચેપ્ટર-ફાઈનલ કહેવત box, and -- most importantly -- the embedded 'સ્થળ : પાટણ' (રાજા વિશળદેવ-જગડુશા) સંવાદ-ખંડ printed inside સ્વાધ્યાય block 3, which is a second, unrelated play-excerpt used as exercise comprehension material, not part of ક્ષિતિ. None of these were cut as topics; all route to Agent 10's exercise_solutions.json / key_terms per the existing 01_meta.json notes.",
+    "Difficulty ratings follow the std-8 rubric's એકાંકી-specific driver (profiles/students/std-8.md is not available this run, but reference/global_content_rules.md-adjacent 02_structure.md §5 table names it directly: 'pattern work the page itself sets ... an એકાંકીની રંગસૂચના' for std 8, never craft labels). Topics were rated 'hard' where રંગસૂચના density/complexity is highest on the page (M1.S1.T3 has 8 directions packed into one exchange; M3.S5.T8 and M3.S6.T9 carry the play's central subtext-heavy turn), 'easy' for the short, direction-light opening exchange (M1.S1.T2), and 'medium' elsewhere. No topic was rated on idea size or on any અલંકાર/છંદ/સમાસ/સાહિત્યપ્રકાર label -- none of those appear anywhere in this file, per the std 6-8 craft-naming gate in reference/teaching_lens_map.md.",
+    "genre, teaching_lens, guiding_question and active_genre_profiles were carried unchanged from 01_meta.json (genre_confidence 'high', no signal conflict recorded there); profiles/genres/natak_ekanki.md was read in full and used as the routing authority for the cut, per this run's SOURCE OF TRUTH instruction.",
+    "depends_on was left [] except three genuine narrative dependencies: M1.S2.T5 (ચશ્માં jaડ્યાં) depends on M1.S1.T3 (where they went missing and were searched for); M3.S6.T9 (સંતોષની ઉદારતા) depends on M3.S5.T8 (the letter he is reacting to); M3.S6.T10 (ક્ષિતિનો ખુલાસો) depends on M3.S6.T9 (her reveal is a judgment on the reaction just shown)."
+  ]
+}

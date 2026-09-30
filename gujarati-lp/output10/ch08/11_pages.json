@@ -1,0 +1,8 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા) ધોરણ 10",
+  "textbook_url": "../Textbooks-pdf/std-10/ch-08-suraj-to-badhe-j-sarkho.pdf",
+  "textbook_pages": "42–45",
+  "source": "printed folio, read off renders of pdf pp. 1 and 4 of the chapter PDF (printed folios 42 and 45); cross-checked against std-10 manifest.json row {no:'8', printed_start:42, pdf_start:47, pdf_end:50} and the std-10 offset (N+5) in profiles/boards/gseb_gujarati.md — both agree exactly",
+  "confidence": "high",
+  "gaps": ["textbook_url is a local path — the GSEB readers have no hosted URL"]
+}

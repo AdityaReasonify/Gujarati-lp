@@ -1,0 +1,41 @@
+{
+  "agent": "09_media_planning",
+  "chapter_id": "gseb_eng_gujarati9_ch13",
+  "media": [
+    {
+      "topic_id": "M2.S2.T3",
+      "concept_id": "M2.S2.T3.C3",
+      "id": "M2.S2.T3.C3.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "નાયકના હાથમાં મુકાયેલો પગાર",
+      "description": "સવારના અજવાળામાં ભવાયાના મુકામ પાસે ઊભેલા માસ્તર કરુણાશંકર પોતાની બંડીના ગજવામાંથી કાઢેલા આખા મહિનાના પગારના રૂપિયા નાયકના હાથમાં મૂકે છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S2.T3.C3",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "ચિત્ર તૈયાર થાય ત્યાં સુધી બોર્ડ પર ફક્ત એક હાથ બીજા હાથમાં કંઈક મૂકતો હોય એવું રેખાચિત્ર દોરો ને પૂછો — માસ્તરે નાયકના હાથમાં શું મૂક્યું હશે, ને શા માટે? પછી ફકરાનું 'આ બાર રૂપિયા' વાક્ય વંચાવીને આખો પ્રસંગ યાદ કરાવો.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, portrait likeness of a real person, framed garlanded photograph as the subject, medal ceremony or certificate as the subject, halo or divine glow, hagiographic poster art, motivational poster layout, text banner with a moral, caricature or mocking depiction of bhavai folk performers, stage make-up or costume being worn in this scene, crowd of onlookers, any lettering other than the named Gujarati narrator line, numerals or digits of any kind, modern clothing or objects",
+      "generation_prompt": "Mid-morning light at the edge of a village in the Kheda district of central Gujarat, beside a plain dirt clearing where a travelling bhavai folk-theatre troupe has camped for the night. A simple raised wooden platform stage stands under a faded, sun-bleached cotton canopy strung between four bamboo poles; a large curved brass horn and a barrel-shaped hand drum lean against one pole, and a few rolled cotton bedding-mats and a bundle of folded, colourful stage cloths lie stacked at one corner, not yet packed for departure. Two closed wooden trunks used to carry masks and costumes sit on the bare ground between the poles. To the left stands a Gujarati village schoolmaster of about forty, clean-shaven, in a plain white dhoti and a buttoned white cotton bandi jacket over a collarless shirt, his head bare; his face is an ordinary invented face shown in three-quarter view, never a portrait likeness of any real person. He stands with quiet, grave resolve, one hand reaching forward, placing a small fold of plain rupee notes into the open palm of a second man facing him. This second man is the troupe's nayak, its leader: sturdy, moustached, dressed in plain everyday travelling clothes — a coloured cotton kurta and a loosely tied waist-cloth, with no stage make-up or costume on him this morning — an ordinary invented face, listening with his head tilted slightly and his free hand resting on his hip. Behind the two men, a few tile-roofed and thatched village houses stand at a distance beyond a large neem tree, with a stretch of green tobacco field visible past them. No crowd, no children, no other figures anywhere — only the two men in a quiet, private exchange. Soft warm morning sunlight, plain rural ground, a serious and deliberate mood, neither a performance nor a celebration. A narrator bar runs across the bottom of the frame carrying exactly this one line of Gujarati text in Gujarati script, and no other lettering appears anywhere in the image, the line being: આ બાર રૂપિયા. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    }
+  ],
+  "2d_tool": null,
+  "reuse_report": {
+    "scenes": 1,
+    "reused": 0,
+    "authored": 1,
+    "rejected": []
+  },
+  "notes": [
+    "reuse_report.scenes is counted off 05_with_content.json: exactly one topic — M2.S2.T3, the ભવાયા-episode — carries \"image\" in available_content_types. M1.S1.T1 (નાનાભાઈ જેબલિયાનો પરિચય) and M1.S1.T2 (કૃતિનો પરિચય) are CONCEPT-type author/work introductions with available_content_types [] — not reading scenes a child reads as narrated text — and correctly receive NO media. One reading scene, one image.",
+    "Reuse is dormant in this pack — no Gujarati frame pool exists — so the node carries image_url \"\" plus an authored, self-contained generation_prompt; reused 0, authored 1, rejected []. No [reused frame: …] stamp appears anywhere, and no Hindi or CBSE frame was consulted.",
+    "The governing constraint is the profile's likeness rule for a named-but-unarchived person (rung 3 of the truth-claim ladder): the chapter prints no photograph or physical description of માસ્તર કરુણાશંકર or of the નાયક, so the prompt gives both an ordinary invented face in three-quarter view and states explicitly that neither is a portrait likeness of any real person. The બંડી and ધોતિયું are period-plausible schoolmaster dress, not an invented biographical detail.",
+    "Depicts the act, not the honour or a portrait, per the profile's Media prior: the moment is the money changing hands outside the troupe's morning camp, matching the chapter's own sentence 'કરુણાશંકર માસ્તરે બંડીના ગજવામાંથી પોતાના આખા પગારના રૂપિયા બાર નાયકના હાથમાં મૂક્યા'. No later consequence (the troupe leaving) and no earlier discussion (the night conversation with his wife) is shown — one photographable moment, per the one-sentence depiction test.",
+    "Anchoring test: every concrete object comes from this topic's own original_chunk — ખેડા જિલ્લાનું ગંભીરા ગામ, the બંડીનું ગજવું, નાયકનો હાથ, and the ભવાયાનો મુકામ implied by 'નાયકો જાગ્યા' (they had performed the night before and were camped, hence morning, hence the ભૂંગળ and પખવાજ used the previous night lying nearby). No detail asserts a date, a family relationship, or an interior state the page does not print.",
+    "Sensitivity: the ભવાયા troupe and its નાયક are shown with dignity, in ordinary travelling dress, not in stage costume or exaggerated makeup, and not caricatured — per global_content_rules rule 10 and this chapter's own chapter_level pitfall note against demeaning the bhavai tradition. The scene is a quiet negotiation between two men, not a mockery of the folk form.",
+    "narrator bar carries 'આ બાર રૂપિયા.' — verified verbatim inside this topic's original_chunk, spoken by માસ્તર કરુણાશંકર at the exact moment depicted. 'બાર' (twelve) is spelled in words, never a digit, per global_content_rules rule 4.",
+    "2d_tool is null: this પ્રસંગકથા narrates a single decisive exchange with no staged, multi-step, child-operable process on the page (no route, no built process) — per the profile, this form rarely earns one, and this chapter does not.",
+    "objective_id is null on the node — the media contract's default; no objective mapping is asserted beyond what Agent 4's registry states."
+  ]
+}

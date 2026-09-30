@@ -1,0 +1,105 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "No word of `explanation`, `key_terms` or any `recall_questions[].answer` for M1.S1.T1 names a novel title, story-collection title, place-name, award or institution beyond the eight novels printed in this topic's own `original_chunk` ('મેઘરવો', 'રંગ બિલોરી કાચના', 'તરણાનો ડુંગર', 'વંકી ધરા, વંકાં વહેણ', 'સૂરજ ઊગે સાંજ', 'ભીનાં ચઢાણ', 'અરધા સૂરજની સવાર', 'અમે ઊગ્યા'તા શમણાને દેશ'), the three story-collections ('શૌર્યધારા', 'સથવારો', 'મારી શ્રેષ્ઠવાર્તાઓ') and the three place-names (ભાવનગર, સાવરકુંડલા, ખાલપર); no birth year, death year, award or additional work-title is supplied from outside this topic's chunk.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `summary` or `recall_questions[].answer` for M1.S1.T1 calls નાનાભાઈ જેબલિયા મહાન, અદ્વિતીય, સર્વશ્રેષ્ઠ, યુગપુરુષ or any other reverential epithet not quoted verbatim from this topic's `original_chunk`; the chunk's own word for his standing is `વિખ્યાત`, and only that unmodified word may describe his fame.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "લેખક-પરિચય ફકરામાં આઠ નવલકથા-શીર્ષકો, ત્રણ નવલિકાસંગ્રહ અને ત્રણ ગામ-નામ એકસાથે આવે છે, એટલે ધોરણ 9નું બાળક આ નામોના ઢગલામાં અટવાઈ જાય છે અને ફકરાનો ખરો જવાબ — નાનાભાઈ જેબલિયા મુખ્ય વ્યવસાયે પ્રાથમિક શિક્ષક હતા અને સૌરાષ્ટ્રના તળપદા જીવનના આલેખક તરીકે વિખ્યાત છે — શોધી શકતું નથી; બાળક કોઈ એક પુસ્તક-શીર્ષકને જ 'સાચો જવાબ' માની લે છે.",
+      "correction": "`explanation` વ્યવસાય અને ઓળખની વાત ('પ્રાથમિક શિક્ષક', 'સૌરાષ્ટ્રના તળપદા જીવનના આલેખક') શીર્ષકોની યાદી કરતાં અલગ, પોતાના જ વાક્યમાં કહે; `key_terms` માં 'આલેખક' અને 'તળપદું' એ જ વાક્ય પાસે ગ્લોસ થાય, જેથી બાળક શીર્ષકોની યાદીને ઓળખની વાતથી અલગ પાડી શકે — શીર્ષકો યાદ રાખવાનાં નથી, ઓળખ યાદ રાખવાની છે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "No `explanation` sentence for M1.S1.T2 uses આદર્શ, મહાન, અનન્ય or a similar evaluative word about કરુણાશંકર માસ્તર except as the exact quoted phrase 'આદર્શ શિક્ષકનું આદર્શ વર્તન' / 'સાચા શિક્ષકની આગવી છાપ' this topic's own `original_chunk` already prints; no additional epithet is authored.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation` or `real_life_example` for M1.S1.T2 closes on a sentence of the shape 'આપણે પણ … જોઈએ' or 'આ પાઠ આપણને શીખવે છે…' that is not a verbatim quotation from this topic's `original_chunk`.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "આ ફકરામાં પુસ્તક પોતે 'પ્રસંગકથા' અને 'રેખાચિત્ર' શબ્દો વાપરે છે, અને ધોરણ 9નું બાળક આ સાહિત્યપ્રકારના ટૅગને શણગાર જેવો શબ્દ ગણી લે છે — તેનો અર્થ શું છે, ને આગળ આવનારો પ્રસંગ કેમ 'વાર્તા' નહિ પણ સાચી, નામ આપેલી વ્યક્તિનો એક પ્રસંગ છે, તે જોડતું નથી.",
+      "correction": "`key_terms` માં 'રેખાચિત્ર' (અથવા 'પ્રસંગકથા') નો ગ્લોસ ઉમેરવો — 'એક સાચી, નામ આપેલી વ્યક્તિના જીવનનો એક પ્રસંગ આલેખતી કૃતિ' એ પ્રમાણે; `explanation` સ્પષ્ટ કહે કે આ લેબલ આગળ આવનારા પ્રસંગને કઈ રીતે વાંચવો તે નક્કી કરે છે — કલ્પિત વાર્તા તરીકે નહિ, ગંભીરા ગામમાં ખરેખર બનેલા બનાવ તરીકે."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "`explanation` for M2.S2.T3 names કરુણાશંકર માસ્તરનો ગુણ (ત્યાગ, નિષ્ઠા, સંસ્કારરક્ષક કે સમાન શબ્દ) only in a sentence that comes after the concrete act is stated — તેમણે નાયકના હાથમાં પોતાના આખા મહિનાનો પગાર (બાર રૂપિયા) મૂક્યા — never in its opening sentence; an `explanation` whose first sentence is a quality-word, with the act appearing later, fails.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `summary`, `detailed_summary` or `recall_questions[].answer` for M2.S2.T3 calls કરુણાશંકર માસ્તર મહાન, અદ્વિતીય, પૂજનીય, આદર્શ પુરુષ or યુગપુરુષ; none of these words appear inside this topic's own `original_chunk`, so none may be authored here un-quoted.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Every quotation-marked span inside `explanation`, `real_life_example` or a `recall_questions[].answer` for M2.S2.T3 that is attributed to માસ્તર કરુણાશંકર, their પત્ની or નાયક is copied character-for-character from this topic's `original_chunk` (e.g. 'ખોદ્યો ડુંગર અને કાઢ્યો ઉંદર', 'આ બાર રૂપિયા', 'મારા ગામ વતી આજની રાતનો ફાળો આપું છું'); no new line of dialogue is composed for any of the three speakers.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No authored field for M2.S2.T3 attributes an interior state to માસ્તર, પત્ની or નાયક using ડર લાગ્યો, ગુસ્સો આવ્યો, ખુશ થયા, વિચાર્યું or a synonym unless that exact interior phrase is printed in this topic's `original_chunk` ('નિર્ણય કરીને આંખ મીંચી' and 'વાતનો ઘૂંટડો ગળે ઊતરી ગયો' are the only two licensed instances).",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Wherever an authored field for M2.S2.T3 quotes માસ્તરની વાણી containing હું / મારે / મારા / મારો (e.g. 'મારે જુદી જ વાત કહેવી છે', 'મારા ગામ વતી', 'મારા વિદ્યાર્થીઓ'), the pronoun stays inside quotation marks and attributed to માસ્તર by name; no authored field lets the pronoun stand as the plan's own narration, and none claims લેખકે માસ્તરને રૂબરૂ મળ્યા કે જોયા.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No authored field for M2.S2.T3 — or for any topic of this chapter — attributes 'જન્મ : 11-11-1938' or 'અવસાન : 25-11-2013' to કરુણાશંકર માસ્તર; those dates are printed only in the writer નાનાભાઈ જેબલિયાની era line, this chapter prints no birth or death date for કરુણાશંકર માસ્તર anywhere, and none may be invented for him.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` and `detailed_summary` for M2.S2.T3 contain no year-number at all, since this topic's `original_chunk` prints none; and no heading for this topic uses a life-stage word (બાળપણ, કારકિર્દી, જીવન અને કાર્ય) that this chapter does not print.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation` or `real_life_example` for M2.S2.T3 closes on 'આપણે પણ … જોઈએ' or resolves into a general statement like 'શિક્ષકોએ વિદ્યાર્થીઓ માટે ત્યાગ કરવો જોઈએ' that is not a verbatim quotation from `original_chunk`; `real_life_example` stays one concrete Gujarat picture and does not turn into an issue-statement about teachers or education in general (the std-9 'editorial' failure mode named in profiles/students/std-9.md §2).",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "Any `figures_of_speech` entry for M2.S2.T3 naming વ્યતિરેક, સજીવારોપણ or સહજોદ્‌ગાર quotes exactly the one line the printed ભાષા-અભિવ્યક્તિ box ties to that name — 'કરુણાશંકર માસ્તરની શાળામાં એવું બને તો પછી ધરતીનો છેડો આવી જાય' (વ્યતિરેક), 'ઝાલરના ડંકા પડે ત્યાં સુધી કરુણાશંકરનાં રામાયણ-મહાભારતનાં પાત્રો શાળામાં મહાલતાં હોય' (સજીવારોપણ), 'માસ્તરની આ શાળાનું બાળક અસત્ય ન બોલે, અપશબ્દ ન બોલે' (સહજોદ્‌ગાર) — no device is named on any other line, and `rhyme_scheme` stays `null`.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No authored field for M2.S2.T3 renders the master's salary as a digit ('12 રૂપિયા' or '₹12'); this topic's `original_chunk` spells it in words ('બાર રૂપિયા'), and global_content_rules rule 4 keeps numerals out of display text regardless.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "`key_terms` or `explanation` for M2.S2.T3 glosses at least the printed કહેવત 'ખોદ્યો ડુંગર અને કાઢ્યો ઉંદર' at its point of use, since it is પત્નીનો પ્રતિભાવ and the load-bearing punchline of the opening સંવાદ; currently only trade/community words (ભવાયા, અનુકરણ, દ્વિઅર્થી, ડાગલો, ફાળો) are glossed, and the proverb and the four printed રૂઢિપ્રયોગ (બાઘા થઈ જવું, રમણભમણ કરી નાખવું, દીવાલને કાન હોવા, ઓડકાર ન આવવો) are not.",
+          "profile": "charitra_prasang",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "'કરુણાશંકર માસ્તરનું પાત્રાલેખન કરો' જેવા પ્રશ્નનો સામનો કરતાં, બાળક માસ્તરને 'ત્યાગી', 'સંસ્કારી', 'નિષ્ઠાવાન' જેવાં વિશેષણોની યાદી બનાવીને જવાબ આપી દે છે, પણ કયા ચોક્કસ કૃત્યએ — બાર રૂપિયાનો આખો પગાર આપી દેવાનું — એ ગુણ સાબિત કર્યો તે ટાંકતું નથી; ગુણ હવામાં તરતો રહી જાય છે, પ્રસંગ સાથે જોડાતો નથી.",
+      "correction": "`explanation` ને પરિસ્થિતિ (ભવાયા ગામમાં આવ્યા) → કૃત્ય (નાયકને પોતાનો આખા મહિનાનો પગાર આપ્યો) → પરિણામ (ભવાયા બીજે ગામ ગયા, ખેલ ન થયો) → ગુણનું નામ (છેલ્લે, એક જ કલમમાં) — આ ક્રમમાં જ લખવું; `recall_questions` ના analyze-કક્ષાના પ્રશ્નનો મોડેલ-જવાબ ગુણને આ ચોક્કસ કૃત્યના વાક્ય સાથે જ બાંધે, જેથી પાત્રાલેખનનો જવાબ કૃત્ય-આધારિત બને, વિશેષણોની યાદી ન બને."
+    }
+  ],
+  "chapter_level": [
+    "નાનાભાઈ જેબલિયાની જન્મ-અવસાન તારીખ ('11-11-1938' / '25-11-2013') લેખકની ઈરા-લાઇનમાં છપાયેલી છે અને 02_structure.json ના પોતાના નિર્ણય મુજબ કોઈ ટોપિકના `original_chunk` માં નથી; M1.S1.T1 માં પણ આ તારીખો કોઈ authored field માં આંકડારૂપે ન આવવી જોઈએ (global_content_rules rule 4), અને M2.S2.T3 માં તો કરુણાશંકર માસ્તરની પોતાની તારીખ તરીકે તો ક્યારેય નહિ — આ જ ચેપ્ટર charitra_prasang.md ના gate 8 (લેખકની તારીખ vs પાત્રની તારીખ)નું નામ-અપાયેલું ઉદાહરણ છે.",
+    "global_content_rules.md નિયમ 4 મુજબ કોઈ પણ ટોપિકના topic_name/explanation/summary/bullet/recall prompt માં આંકડા ન આવે: લેખકની બંને તારીખો અને માસ્તરના પગારનો આંકડો (બાર રૂપિયા, ચોપડે શબ્દોમાં છપાયેલો) બંને આ ચેપ્ટરમાં જ છપાયેલા આંકડા છે અને બંને એ જ કારણસર જોખમમાં છે — શબ્દોમાં જ રહેવા દેવા, અંકમાં ક્યારેય નહિ; આંકડા ફક્ત id અને provenance ફિલ્ડમાં જ ટકે.",
+    "ભવાયા/ભવાઈ લોકનાટ્ય-પરંપરાનું નિરૂપણ: કોઈ પણ authored field ભવાઈને 'ગંદી કળા', 'ખરાબ મનોરંજન' કે ભવાયાની જ્ઞાતિ/સમુદાયને સામાન્ય રીતે નબળો ગણાવે એવો શબ્દ ન વાપરે; ચેપ્ટર પોતે ફક્ત ડાગલો, નાયક, નટીઓ, દ્વિઅર્થી જેવા છપાયેલા શબ્દોનું જ વર્ણન કરે છે, અને શિક્ષણ માસ્તરની ચિંતા અને પ્રસંગની દ્વિધા બંને, ચેપ્ટર જેમ રજૂ કરે છે તેમ જ ભણાવે (global_content_rules rule 10; charitra_prasang.md Sensitivity prior)."
+  ]
+}

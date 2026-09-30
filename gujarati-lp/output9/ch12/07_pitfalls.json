@@ -1,0 +1,130 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [],
+      "misconception": "બાળક એમ સમજી શકે કે અહીં ગણાવેલાં બધાં પુસ્તકો સુરેશ દલાલે પોતે લખેલી કવિતાઓ છે — 'કાવ્યસંગ્રહ' (પોતે લખેલી રચનાઓ) અને 'સંપાદન' (બીજાની રચનાઓ ભેગી કરી ગોઠવેલી) વચ્ચેનો ફરક ચૂકી જાય છે, કેમ કે બંને પ્રકારનાં નામ એક પછી એક છપાયેલાં છે.",
+      "correction": "explanation માં 'સમિધ', 'કવિનો શબ્દ' વગેરે નામ આવે ત્યાં જ 'સંપાદન' શબ્દ સ્પષ્ટ કરીને કહેવું કે આ પુસ્તકો કવિએ પોતે લખેલાં નથી, ભેગાં કરેલાં છે — key_terms નો 'સંપાદન — બીજાની રચનાઓ ભેગી કરી ગોઠવવાનું કામ' ગ્લોસ આ જ ફરક બતાવવા વાપરવો, કાવ્યસંગ્રહોની યાદી સાથે ભેળવવો નહીં."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `summary`, `brief_summary`, `detailed_summary`, any `concept_bullets`/`important_points` line, or any `recall_questions[].answer` for M1.S1.T2 turns this topic's own urgency line (`આજે આ અમૂલખ અવસરને એળે ના જવા દેશો`) into a general life-exhortation of the shape 'આપણે … જોઈએ' about seizing opportunities — unless it quotes those exact printed words from this topic's `original_chunk`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક કૃતિ-પરિચયની 'ગાગર ઉતારે તે પતિ એવો લોકજીવનનો સંદર્ભ' પંક્તિને ગીતનો નિશ્ચિત, નક્કી અર્થ સમજી શકે — જાણે આખું ગીત આ એક લગ્ન-રિવાજ સમજાવવા માટે જ લખાયું હોય, જ્યારે છપાયેલું વાક્ય પોતે જ આને હેજ કરે છે ('પણ જોઈ શકાય').",
+      "correction": "explanation એ જ હેજ સાચવે જે કૃતિ-પરિચયમાં છપાયેલો છે — આ એક શક્ય, વધારાનો અર્થ છે એમ કહેવું, નિશ્ચિત અર્થ તરીકે નહીં; ગીતનું કેન્દ્ર ગોપીનો કૃષ્ણપ્રેમ અને એનો પડકાર છે એ પહેલાં સ્પષ્ટ કરવું, રિવાજની સમજૂતી પછી અને હળવેથી."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` for M2.S2.T3 must name something in this couplet that can be seen or held — `ગાગર`, `પ્હાડ` or the address `રાજ`, all present in this topic's `original_chunk` — and not open on the ભાવ (e.g. 'ગોપી પોતાનો પ્રેમ વ્યક્ત કરે છે') instead.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `summary`, `brief_summary`, `detailed_summary` or `recall_questions[].answer` for M2.S2.T3 states that ગોપી literally doubts or is unsure whether કૃષ્ણએ પ્હાડ ઊંચક્યો હતો (words like `શંકા`, `ખાતરી નથી`, `માનતી નથી`); `તો જાણું` is a loving, playful dare, not a real test of belief.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "M2.S2.T3 carries either a non-empty `figures_of_speech[]` (each `.lines` value quoted character-for-character from this topic's own two printed lines) or an `explanation` sentence naming this કડીની પ્રાસ, લય, પુનરાવર્તન or ધ્વનિ; a topic with neither, or with a `figures_of_speech` line not found in this topic's `original_chunk`, fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Every quotation of this topic's words in `explanation` or `key_terms` keeps `ઊંચક્યો'તો` and `પ્હાડ` exactly as printed — never silently corrected to `ઊંચક્યો હતો` or `પહાડ`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'ગાગર ઉતારો તો જાણું' ને ગોપીની ખરી શંકા સમજી શકે — જાણે તેને ખાતરી નથી કે કૃષ્ણએ ખરેખર પહાડ ઊંચક્યો હતો, ને આ એક સાચી ચકાસણીની શરત છે, રમતિયાળ પડકાર નહીં.",
+      "correction": "explanation માં સ્પષ્ટ કરવું કે ગોપી કૃષ્ણના પરાક્રમમાં માને જ છે — 'તો જાણું' એ પ્રેમાળ, રમતિયાળ પડકાર છે, તેને પાસે બોલાવવાનું બહાનું છે; સાચી શંકા નહીં, એ પહેલી જ પંક્તિમાં ગાગર અને પ્હાડનું ચિત્ર બતાવીને કહેવું."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` for M2.S2.T4 must name something concrete from this topic's own words — `ઘરે ઘરે` or `વખાણું` — and not open on the ભાવ instead.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "M2.S2.T4 carries either a non-empty `figures_of_speech[]` naming the પુનરાવર્તન of `ઘરે ઘરે` (quoted verbatim from this topic's `original_chunk`) or an `explanation` sentence naming that repetition; a topic with neither is half-taught.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Every quotation of this topic's words in `explanation` or `key_terms` keeps `ઊંચક્યો'તો` and `પ્હાડ` exactly as printed, never modernised.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક બીજી ટેકને પહેલી ટેકનું માત્ર પુનરાવર્તન સમજી શકે અને ધ્યાન ના આપે કે પહેલી પંક્તિ બદલાઈ છે — શરત ('તો જાણું')માંથી કોલ ('વખાણું')માં ગોપીનો પડકાર આગળ વધ્યો છે.",
+      "correction": "explanation માં બંને ટેક સાથે મૂકીને બતાવવું કે પહેલી વાર ગોપી શરત મૂકે છે, બીજી વાર એ જ વાતને વચનમાં ફેરવે છે — 'હું તો ઘરે ઘરે જઈને વખાણું' બોલીને; આ ફેરફાર જ આ કડીનું ભણવાનું છે, બંને પંક્તિ સામસામે ટાંકીને."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` for M2.S3.T5 must name something concrete in this કડી — `વાંસળી`, `ગાગર`, `કેડી` or `જમુના`, all present in this topic's `original_chunk` — and not open on the ભાવ instead.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `summary`, `brief_summary`, `detailed_summary` or `recall_questions[].answer` for M2.S3.T5 states that ગોપી literally brought or diverted the Jamuna river (`હું તો વ્હેતી જમુનાને અહીં આણું` is an imaginative self-elevating comparison, not a physical claim), nor reads `એમાં શા હોય ઝાઝા વેતા?` as a genuine complaint against ક્હાનનું કામ rather than a playful tease.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "M2.S3.T5 carries either a non-empty `figures_of_speech[]` (each `.lines` quoted character-for-character from this topic's own lines) naming the પ્રાસ-જોડકાં this કડી carries (`ક્હાન`/`વેતા`, `અમે`/`દેતાં`, `આણું`/`જાણું`) or an `explanation` sentence naming that પ્રાસ; a topic with neither fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Every quotation of this topic's words in `explanation` or `key_terms` keeps `ક્હાન`, `વ્હેતી`, `દિ` and the idiom `ઝાઝા વેતા` exactly as printed, never modernised toward `કાન`, `વહેતી`, `દિવસ`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'એમાં શા હોય ઝાઝા વેતા?' ને ગોપીની ખરી ટીકા કે ફરિયાદ સમજી શકે — જાણે એ કૃષ્ણના વાંસળી વગાડવાના કામને ખરેખર નાનું કે નકામું ગણે છે, મીઠી મજાક નહીં.",
+      "correction": "explanation માં 'ઝાઝા વેતા' રૂઢિપ્રયોગનો સાદો અર્થ આપીને બતાવવું કે આ મીઠી મજાક છે — ગોપી રમતિયાળ રીતે કૃષ્ણનું કામ હળવું બતાવીને પોતાની અઘરી મહેનત (કાંટાળી કેડી પર ગાગર) સાથે સરખાવે છે, સાચી ટીકા નહીં."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `summary`, `brief_summary`, `detailed_summary`, any `concept_bullets`/`important_points` line or any `recall_questions[].answer` for M2.S3.T6 turns `ફરી ફરી નહિ આવે ટાણું` into a general exhortation of the shape 'આપણે … જોઈએ' about seizing opportunity, unless those exact printed words are quoted from this topic's `original_chunk`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "The first sentence of `explanation` for M2.S3.T6 must name something concrete in this કડી — `ડચકારા`, `ગાયો`, `છાંય`, `છોરો` or `ગાગર` — and not open on the ભાવ (ઉતાવળ) instead.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "M2.S3.T6 carries either a non-empty `figures_of_speech[]` (each `.lines` quoted character-for-character from this topic's own lines) naming this કડીની પ્રાસ-જોડકાં (`ચરાવવી`/`પોરો`, `નાખે`/`છોરો`, `ટાણું`/`જાણું`) or પુનરાવર્તન (`ડચકારા દઈ દઈને`, `ફરી ફરી`), or an `explanation` sentence naming one of these; a topic with neither fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Every quotation of this topic's words in `explanation` or `key_terms` keeps `ડચકારા`, `પોરો`, `ટાણું`, `છોરો` and `ચપટીમાં` exactly as printed, never modernised.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'ફરી ફરી નહિ આવે ટાણું' પરથી સામાન્ય જીવન-બોધ કાઢી શકે — જેમ કે 'આપણે તક મળે ત્યારે ઝડપી લેવી જોઈએ' — અને ભૂલી જાય કે આ ગોપીની પોતાની, અંગત ઉતાવળ છે કૃષ્ણ પાસે પ્રેમ સ્વીકારાવવાની, આ જ ક્ષણે.",
+      "correction": "explanation આ ટાણાને ગોપી અને કૃષ્ણ વચ્ચેની આ ચોક્કસ ક્ષણ સાથે જ જોડી રાખવું — ગાગર, પડકાર, ને આ પળ; કોઈ સામાન્ય 'તક ઝડપી લેવી જોઈએ' પ્રકારનું ઉમેરેલું વાક્ય મૂકવું નહીં."
+    }
+  ],
+  "chapter_level": [
+    "સમગ્ર ગીત ગોપીભાવ/કૃષ્ણ-ગોપી પ્રેમ-પરંપરાનું આધુનિક ઊર્મિકાવ્ય-ગીત છે, છાપ-વિનાનું અને આધુનિક કવિનું (પદ/ભજન નહીં) — ક્યાંય તુલનાત્મક-ધર્મ પાઠ તરીકે ના ભણાવવું; T2ની 'ગાગર ઉતારે તે પતિ' લોકરિવાજ-પંક્તિ હેજ સાચવીને (એક શક્ય અર્થ તરીકે) જ ટાંકવી, ક્યાંય લગ્ન-સૂચનાના પાઠ તરીકે નહીં (global_content_rules.md નિયમ 10).",
+    "ચારેય કડી/ટેક topic (T3–T6) ભારે તળપદા-તત્સમ-સંકોચિત-શબ્દ ભાર ધરાવે છે (ઊંચક્યો'તો, પ્હાડ, ક્હાન, વ્હેતી, દિ, ડચકારા, પોરો, ટાણું, છોરો, ચપટીમાં, ઝાઝા વેતા) — આ બધા કોઈ પણ ફીલ્ડમાં ક્યાંય માનક રૂપમાં સુધારવા નહીં; લય અને બોલી તરીકે જ સમજાવવા.",
+    "T5 અને T6 ની અંદરની ત્રીજી અને ચોથી ટેક-આવૃત્તિ શબ્દશઃ T3 જેવી જ છે (બંને depends_on T3) — તેમની explanation એ ટેકનો અર્થ ફરીથી નવેસરથી ના શીખવે, પણ ટૂંકમાં કડીના અંતે ગોપીના મૂળ પડકાર તરફ પાછા ફરવા તરીકે જ ટાંકે."
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch2",
+  "genre": "nibandh_atmaparak",
+  "genre_subform": "હાસ્યનિબંધ",
+  "teaching_lens": "સ્વર + પ્રસંગ + પોતાની જાત પરની નજર",
+  "guiding_question": "આંજણી મટાડવા દરેક વ્યક્તિ પોતાનો જ ઉપાય સાચો માની લેખિકાને શા માટે સલાહ આપતી રહી, અને લેખિકા આ બધી સલાહો કેમ સ્વીકારતાં ગયાં ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વિદ્યાબહેન નીલકંઠના જીવન અને લેખસંગ્રહો, ચરિત્ર તથા અનુવાદ-ગ્રંથો વિશે પાઠમાં અપાયેલી હકીકતો શોધીને કહેવી.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કૃતિ-પરિચયના આધારે આ હાસ્યનિબંધનો વિષય અને તેમાં રહેલી માનવસહજ વૃત્તિ કઈ છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": ["M1.S1.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "આંજણી થતાં લેખિકાએ શરૂઆતમાં શું કર્યું અને ઘરના દાક્તરે કઈ સલાહ આપી તે ક્રમમાં કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M2.S1.T3",
+      "anchor": ["M2.S1.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કુટુંબના મિત્રે દાક્તર પર શા માટે ક્રોધ કર્યો અને પોતાનો કયો ઉપાય સૂચવ્યો તે તેમના જ શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S1.T4",
+      "anchor": ["M2.S1.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દુકાનદારે અને ચશ્માંવાળાએ આપેલી બે અલગ સલાહો શોધીને, બંનેમાં પોતાના સ્વાર્થની વાત કઈ રીતે છુપાયેલી છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T5",
+      "anchor": ["M2.S2.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "જૂના મુનીમે પોતાના સગાંવહાલાંનો દાખલો આપી કઈ સલાહ આપી અને તેને 'રામબાણ' કેમ કહી તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T6",
+      "anchor": ["M2.S2.T6.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "હજામની સિંદૂરની સલાહ અને ઑફિસના સાથીના વિચિત્ર ટૂચકા વચ્ચેનો તફાવત શોધીને, બંને સલાહો કેમ હાસ્યાસ્પદ છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T7",
+      "anchor": ["M2.S3.T7.C7"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પારસી ભૈયાએ હિન્દી-મિશ્રિત બોલીમાં કઈ સલાહ આપી અને લેખિકાએ તેનો અમલ કેમ ન કર્યો તે પાઠમાંથી શોધીને કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T8",
+      "anchor": ["M2.S3.T8.C8"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "માસી, રસોઈયો, ધોબી અને પીંજારાએ એક પછી એક આપેલા ચાર જુદા ઉપાય ક્રમમાં યાદ કરીને કહેવા.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M2.S3.T9",
+      "anchor": ["M2.S3.T9.C9"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O10",
+      "legacy_id": "L10",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દણણાવાળી, ગોણ વેચનાર મારવાડી અને ગોરની સલાહો શોધીને, ગોણના શેકથી દરદ કેમ વધ્યું તે કારણ સાથે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T10",
+      "anchor": ["M2.S4.T10.C10"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O11",
+      "legacy_id": "L11",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પારસી દોસ્તદારની પારસી-ઢબની ગુજરાતી બોલીમાં અપાયેલી કાંદાની સલાહ પછી લેખિકાની સ્થિતિ કેવી થઈ તે વર્ણવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T11",
+      "anchor": ["M2.S4.T11.C11"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O12",
+      "legacy_id": "L12",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વિધવા ફોઈએ પોતાનો 'પેટં' ઇલાજ કઈ રીતે વર્ણવ્યો અને લેખિકાને એ ઉપાય કેમ સૌથી વધુ ગમ્યો તે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S5.T12",
+      "anchor": ["M2.S5.T12.C12"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O13",
+      "legacy_id": "L13",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખિકા છેવટે ફરી દાક્તર પાસે કેમ ગયાં અને પોતાના હિતેચ્છુઓનો આભાર માનતાં નિબંધ કઈ રીતે પૂરો કરે છે તે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S5.T13",
+      "anchor": ["M2.S5.T13.C13"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1", "L2": "O2", "L3": "O3", "L4": "O4", "L5": "O5", "L6": "O6",
+    "L7": "O7", "L8": "O8", "L9": "O9", "L10": "O10", "L11": "O11", "L12": "O12", "L13": "O13"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "લેખિકા અને કૃતિનો પરિચય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "વિદ્યાબહેન નીલકંઠ અને હાસ્યનિબંધનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "લેખિકા વિદ્યાબહેન નીલકંઠનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "લેખિકાનો જન્મ, શિક્ષણ અને સાહિત્યિક પ્રદાન"
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "કૃતિ-પરિચય : વણમાગી સલાહનો હાસ્યનિબંધ",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "વણમાગી સલાહની વૃત્તિ પરનો નર્મ-મર્મ કટાક્ષ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "વણમાગી સલાહની સાંકળ",
+      "segments": [
+        {
+          "segment_id": "M2.S1",
+          "segment_name": "ઘરના વર્તુળની સલાહ",
+          "topics": [
+            {
+              "topic_id": "M2.S1.T3",
+              "topic_name": "આંજણી થવી અને ઘરના દાક્તરની સલાહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S1.T3.C3",
+                  "concept_name": "આંજણી અને ઘરના દાક્તરની રાહ જોવાની સલાહ"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S1.T4",
+              "topic_name": "કુટુંબના મિત્રનો ક્રોધ અને તુવેરની દાળની સલાહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M2.S1.T3"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S1.T4.C4",
+                  "concept_name": "મિત્રનો દાક્તર પર ગુસ્સો અને પોતાનો ઘરગથ્થુ ઉપાય"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "બજારના વર્તુળની સલાહ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T5",
+              "topic_name": "દુકાનદારની જવ-સલાહ અને ચશ્માંવાળાની ગોગલ્સ-સલાહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T5.C5",
+                  "concept_name": "જવ ઘસવાની અને ગોગલ્સ વેચાતાં લેવડાવવાની સલાહ"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T6",
+              "topic_name": "જૂના મુનીમની કેસર-સલાહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T6.C6",
+                  "concept_name": "સગાંવહાલાંના દાખલા સાથે અપાયેલી કેસરની 'રામબાણ' સલાહ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "સેવકો અને સાથીઓની સલાહ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T7",
+              "topic_name": "હજામની સિંદૂર-સલાહ અને ઑફિસના સાથીનો ટૂચકો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O7"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T7.C7",
+                  "concept_name": "સિંદૂર દબાવવાની સલાહ અને વાંઝણી સ્ત્રી પાસે જવાનો વિચિત્ર ટૂચકો"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T8",
+              "topic_name": "પારસી મિલમાલિકના ભૈયાની ભાંગ-સલાહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O8"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T8.C8",
+                  "concept_name": "હિન્દી-મિશ્રિત બોલીમાં અપાયેલી યાકૂતીની સલાહ અને લેખિકાનો ઇનકાર"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T9",
+              "topic_name": "માસી, રસોઈયો, ધોબી અને પીંજારાની ચાર સલાહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O9"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T9.C9",
+                  "concept_name": "ચંદન, સૂંઠ, લવિંગ અને બેદુંની સફેદી — ચાર ઘરગથ્થુ ઉપાય એક પછી એક"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "શેરી અને પડોશની સલાહ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T10",
+              "topic_name": "દણણાવાળીની આમલી-સલાહ અને ગોણ વેચનાર મારવાડીનો શેક",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O10"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T10.C10",
+                  "concept_name": "આમલીના કચૂકાનો છેદો, ગોણનો ગરમ ચપકો અને ગોરની એલચી-ઘીની સલાહ"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T11",
+              "topic_name": "પારસી દોસ્તદારની કાંદા-સલાહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O11"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T11.C11",
+                  "concept_name": "પારસી-ઢબની ગુજરાતીમાં કાંદાના રસની સલાહ અને દવાઓની ડુંગરી"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S5",
+          "segment_name": "છેલ્લી સલાહ અને ઉકેલ",
+          "topics": [
+            {
+              "topic_id": "M2.S5.T12",
+              "topic_name": "વિધવા ફોઈનો 'પેટં' ઇલાજ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O12"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T12.C12",
+                  "concept_name": "ફોઈનો ઘી-લોટ-શીરાનો ઉપાય અને લેખિકાની સૌથી વધુ ગમતી પસંદગી"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S5.T13",
+              "topic_name": "અંતે દાક્તર પાસે અને ઉપસંહાર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "easy",
+              "depends_on": ["M2.S1.T3"],
+              "objective_ids": ["O13"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T13.C13",
+                  "concept_name": "દાક્તર દ્વારા નસ્તરથી ફોડવું, આરામ અને હિતેચ્છુઓનો આભાર"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "01_meta.json's structure_inventory.ghatna reports 13, but 00_chapter_normalized.md carries exactly 11 [[ઘટના: ...]] markers (lines 13,16,31,36,41,50,57,60,69,74,77). Per explanation_unit_map.md 'where the rendered page and the table disagree, the page wins' — this cut follows the 11 markers exactly, one topic per marker. Flagging the meta count mismatch for Agent 4's marker-count cross-check.",
+    "[[લેખક-પરિચય]] and [[કૃતિ-પરિચય]] are two separately marked apparatus blocks (unlike std-10's single unlabelled combined paragraph the explanation_unit_map.md describes) and are cut as two separate CONCEPT topics, one marker one topic, per the map's own rule.",
+    "M2.S1.T4 (કુટુંબના મિત્રની સલાહ) also contains three other voices inside the same ઘટના block in 00_chapter_normalized.md — the postman's aside ('દાણ ચોપડજે... પણ જરા ગરમ કરજો') and the mitra's counter ('ગરમ ન કરશો... ઠંડી દવા લગાડજો') — kept as one topic since they are one continuous exchange around the mitra's single piece of advice (તુવેરની દાળ), not a separate advice-giver of their own; the postman is not counted as a distinct ઘટના.",
+    "M2.S3.T7 groups the hajam's સિંદૂર advice and the office colleague's ટૂચકો under one marker ([[ઘટના: હજામની અને ઑફિસના સાથીની સલાહ]]) because Agent 1 marked them as a single ઘટના in the normalized file; kept as one topic per the one-marker-one-topic rule, with two concrete advice-givers noted in the concept name.",
+    "M2.S4.T10's marker ([[ઘટના: દણણાવાળી અને શેક તથા ગોણ વેચનાર મારવાડીની સલાહ]]) also contains the ગોર's એલચી-ઘી advice inline (given in reaction to the ગોણનો ચપકો causing more pain) — kept inside the same topic since it is the direct next beat of that same marker's block, not a separately marked ઘટના.",
+    "topic_category 'climax' is never used anywhere in this chapter per nibandh_atmaparak.md Avoid-gate #2 (હાસ્ય પ્રસંગ has no plot-turn climax); all core scenes are tagged 'core', the opener 'introduction', the close 'resolution'.",
+    "difficulty is set by dialect/register load for this L2 std-9 reader, per profiles/students/std-9.md's difficulty table and nibandh_atmaparak.md's language section: M2.S3.T8 (Parsi mill-hand's Hindi-mixed ભાંગ speech), M2.S4.T11 (Parsi-inflected Gujarati), and M2.S5.T12 (village-flavoured foi's long rambling speech) are the three dialect-heaviest scenes and are marked hard; the rest are easy/medium by sentence and vocabulary load, never by craft (this chapter names no અલંકાર in its apparatus for these prose topics).",
+    "M2.S5.T13 (અંતે દાક્તર પાસે) depends_on M2.S1.T3 (the first doctor visit) because the closing scene is an explicit narrative return to the same doctor set up at the chapter's opening ('અંતે પાછો દાક્તરને ઘેર ગયો'); no other topic carries real dependence and depends_on is left [].",
+    "The chapter's closing attribution line ('હાસ્યમંદિર'માંથી) sits inside M2.S5.T13's original_chunk span in 00_chapter_normalized.md (line 80) and belongs in that LAST topic's original_chunk per nibandh_atmaparak.md's closing-gesture rule; flagged here for Agent 5.",
+    "No REVIEW-type topic exists in this chapter: 00_chapter_normalized.md carries no in-text summary/wrap block between ઘટના — the essay runs as one continuous first-person chain to its own conclusion.",
+    "No સ્વાધ્યાય block, શબ્દ-સમજૂતી box, ભાષા-અભિવ્યક્તિ block or શિક્ષકની ભૂમિકા box is cut as a topic; all remain for Agent 10 / key_terms use per 01_meta.json's exercise_inventory and extraction_notes.",
+    "Objective texts are Bloom-Capitalised (Understand/Analyze/Evaluate/Remember) per phase2_contract.md; no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text — this chapter is prose and the profile's craft points (ટૂચકો escalation, કટાક્ષ) are left for Agent 12's explanation, not named in objectives.",
+    "Thin/uneven segment lengths: M1.S1 and M2.S1/M2.S2/M2.S4/M2.S5 hold two topics each, M2.S3 holds three (it groups the barber+colleague marker and the mill-hand marker and the maasi/cook/dhobi/pinjaro marker) — this follows the marker count and the 'circle of advice-givers' grouping (home / market / staff-and-colleagues / street / closing), not an even split; flagged for Agent 13's read of pacing."
+  ]
+}

@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-08-29 16:33:42",
+  "generated_at": "2026-08-30 08:26:06",
   "std": 8,
-  "verdict": "11 agent(s) writing recently",
+  "verdict": "no agents writing",
   "complete_chapters": [
     1,
     2,
     3,
     4,
     5,
-    6
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
   ],
   "chapters": [
     {
@@ -153,12 +162,17 @@
         "A5",
         "A7",
         "A8",
-        "A9"
+        "A9",
+        "A10",
+        "A12",
+        "A16",
+        "A13",
+        "A14"
       ],
       "exists": true,
-      "lp2": false,
-      "bytes": 139920,
-      "last_write": 1788000163.3226907
+      "lp2": true,
+      "bytes": 656281,
+      "last_write": 1788003656.6382926
     },
     {
       "ch": 8,
@@ -170,12 +184,17 @@
         "A5",
         "A7",
         "A8",
-        "A9"
+        "A9",
+        "A10",
+        "A12",
+        "A16",
+        "A13",
+        "A14"
       ],
       "exists": true,
-      "lp2": false,
-      "bytes": 128385,
-      "last_write": 1788000218.0981932
+      "lp2": true,
+      "bytes": 822890,
+      "last_write": 1788004540.0240936
     },
     {
       "ch": 9,
@@ -183,130 +202,156 @@
         "A1",
         "A2",
         "A4",
-        "A11"
+        "A11",
+        "A5",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A12",
+        "A16",
+        "A13",
+        "A14"
       ],
       "exists": true,
-      "lp2": false,
-      "bytes": 93640,
-      "last_write": 1787999807.3082416
+      "lp2": true,
+      "bytes": 1039991,
+      "last_write": 1788027011.6042657
     },
     {
       "ch": 10,
-      "done": [],
+      "done": [
+        "A1",
+        "A2",
+        "A4",
+        "A11",
+        "A5",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A12",
+        "A16",
+        "A13",
+        "A14"
+      ],
       "exists": true,
-      "lp2": false,
-      "bytes": 0,
-      "last_write": null
+      "lp2": true,
+      "bytes": 1070223,
+      "last_write": 1788038610.0916622
     },
     {
       "ch": 11,
-      "done": [],
+      "done": [
+        "A1",
+        "A2",
+        "A4",
+        "A11",
+        "A5",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A12",
+        "A16",
+        "A13",
+        "A14"
+      ],
       "exists": true,
-      "lp2": false,
-      "bytes": 0,
-      "last_write": null
+      "lp2": true,
+      "bytes": 1169669,
+      "last_write": 1788049735.8681211
     },
     {
       "ch": 12,
-      "done": [],
+      "done": [
+        "A1",
+        "A2",
+        "A4",
+        "A11",
+        "A5",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A12",
+        "A16",
+        "A13",
+        "A14"
+      ],
       "exists": true,
-      "lp2": false,
-      "bytes": 0,
-      "last_write": null
+      "lp2": true,
+      "bytes": 1509012,
+      "last_write": 1788047581.9363596
     },
     {
       "ch": 13,
-      "done": [],
+      "done": [
+        "A1",
+        "A2",
+        "A4",
+        "A11",
+        "A5",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A12",
+        "A16",
+        "A13",
+        "A14"
+      ],
       "exists": true,
-      "lp2": false,
-      "bytes": 0,
-      "last_write": null
+      "lp2": true,
+      "bytes": 952538,
+      "last_write": 1788031300.4774094
     },
     {
       "ch": 14,
-      "done": [],
+      "done": [
+        "A1",
+        "A2",
+        "A4",
+        "A11",
+        "A5",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A12",
+        "A16",
+        "A13",
+        "A14"
+      ],
       "exists": true,
-      "lp2": false,
-      "bytes": 0,
-      "last_write": null
+      "lp2": true,
+      "bytes": 1071337,
+      "last_write": 1788035641.8328457
     },
     {
       "ch": 15,
-      "done": [],
+      "done": [
+        "A1",
+        "A2",
+        "A4",
+        "A11",
+        "A5",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A12",
+        "A16",
+        "A13",
+        "A14"
+      ],
       "exists": true,
-      "lp2": false,
-      "bytes": 0,
-      "last_write": null
+      "lp2": true,
+      "bytes": 1028139,
+      "last_write": 1788042125.0565102
     }
   ],
-  "live_agents": [
-    {
-      "run": "wf_ce9b46a0-e15",
-      "agent": "a91497956d7215493",
-      "idle_min": 7.5,
-      "mb": 2.0
-    },
-    {
-      "run": "wf_ce9b46a0-e15",
-      "agent": "a49c9f1d6f6e771ce",
-      "idle_min": 6.2,
-      "mb": 1.9
-    },
-    {
-      "run": "wf_ce9b46a0-e15",
-      "agent": "a21ad4941cb134ee8",
-      "idle_min": 4.5,
-      "mb": 0.7
-    },
-    {
-      "run": "wf_ce9b46a0-e15",
-      "agent": "a23c84376c7346776",
-      "idle_min": 4.3,
-      "mb": 3.3
-    },
-    {
-      "run": "wf_ce9b46a0-e15",
-      "agent": "a1ee6eb32d97fb3bc",
-      "idle_min": 3.8,
-      "mb": 0.6
-    },
-    {
-      "run": "wf_d5af85d8-54d",
-      "agent": "a4b2ffa8d68424d1f",
-      "idle_min": 2.4,
-      "mb": 4.9
-    },
-    {
-      "run": "wf_5a0d90eb-efe",
-      "agent": "a2c72be8f8060e40d",
-      "idle_min": 2.2,
-      "mb": 5.5
-    },
-    {
-      "run": "wf_d5af85d8-54d",
-      "agent": "a2fb597839cbbc3fb",
-      "idle_min": 1.8,
-      "mb": 3.7
-    },
-    {
-      "run": "wf_5a0d90eb-efe",
-      "agent": "a1a59b18abfba4c77",
-      "idle_min": 1.0,
-      "mb": 2.5
-    },
-    {
-      "run": "wf_d5af85d8-54d",
-      "agent": "a60bdc551b7f8c904",
-      "idle_min": 0.3,
-      "mb": 4.2
-    },
-    {
-      "run": "wf_5a0d90eb-efe",
-      "agent": "ad4092a24ce9c07a7",
-      "idle_min": 0.2,
-      "mb": 7.3
-    }
-  ],
+  "live_agents": [],
   "stage_count": 13,
   "resume_args": {
     "std": 8,
@@ -430,7 +475,12 @@
           "A5",
           "A7",
           "A8",
-          "A9"
+          "A9",
+          "A10",
+          "A12",
+          "A16",
+          "A13",
+          "A14"
         ]
       },
       {
@@ -443,7 +493,12 @@
           "A5",
           "A7",
           "A8",
-          "A9"
+          "A9",
+          "A10",
+          "A12",
+          "A16",
+          "A13",
+          "A14"
         ]
       },
       {
@@ -452,32 +507,125 @@
           "A1",
           "A2",
           "A4",
-          "A11"
+          "A11",
+          "A5",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A12",
+          "A16",
+          "A13",
+          "A14"
         ]
       },
       {
         "ch": 10,
-        "done": []
+        "done": [
+          "A1",
+          "A2",
+          "A4",
+          "A11",
+          "A5",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A12",
+          "A16",
+          "A13",
+          "A14"
+        ]
       },
       {
         "ch": 11,
-        "done": []
+        "done": [
+          "A1",
+          "A2",
+          "A4",
+          "A11",
+          "A5",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A12",
+          "A16",
+          "A13",
+          "A14"
+        ]
       },
       {
         "ch": 12,
-        "done": []
+        "done": [
+          "A1",
+          "A2",
+          "A4",
+          "A11",
+          "A5",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A12",
+          "A16",
+          "A13",
+          "A14"
+        ]
       },
       {
         "ch": 13,
-        "done": []
+        "done": [
+          "A1",
+          "A2",
+          "A4",
+          "A11",
+          "A5",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A12",
+          "A16",
+          "A13",
+          "A14"
+        ]
       },
       {
         "ch": 14,
-        "done": []
+        "done": [
+          "A1",
+          "A2",
+          "A4",
+          "A11",
+          "A5",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A12",
+          "A16",
+          "A13",
+          "A14"
+        ]
       },
       {
         "ch": 15,
-        "done": []
+        "done": [
+          "A1",
+          "A2",
+          "A4",
+          "A11",
+          "A5",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A12",
+          "A16",
+          "A13",
+          "A14"
+        ]
       }
     ]
   }

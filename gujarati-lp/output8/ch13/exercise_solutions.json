@@ -1,0 +1,1107 @@
+{
+  "_comment": "The SECOND deliverable. Every સ્વાધ્યાય block inventoried in 01_meta.json is answered here and NOWHERE else — સ્વાધ્યાય is never a teaching topic. GSEB PDFs are image-only: prompt_verbatim is transcribed from the rendered page, never from a text layer. See reference/exercise_alignment.md and agents/10_exercise_solutions.md.",
+  "plan_id": "gseb_eng_gujarati8_ch13_v1",
+  "chapter_id": "gseb_eng_gujarati8_ch13",
+  "subject": "Gujarati",
+  "grade": 8,
+  "chapter_name": "લીલી નજર",
+  "exercises": [
+    {
+      "exercise_id": "EX1",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને વૃક્ષો વાવવાં ગમે છે ? કેમ ?",
+      "answer": "હા, મને વૃક્ષો વાવવાં ખૂબ ગમે છે, કારણ કે વૃક્ષો આપણને છાંયો, ફળ અને શુદ્ધ હવા આપે છે, અને પક્ષીઓ એના પર માળા બાંધીને રહે છે.",
+      "explanation": "વ્યક્તિગત મત-આધારિત મોડેલ ઉત્તર — એક શક્ય જવાબ; પાઠનો વૃદ્ધ પોતે વૃક્ષ વાવવા પાછળનું પોતાનું કારણ (દીકરાની સ્મૃતિ, પશુ-પંખીનું ભલું) આપે છે, જે વર્ગ-ચર્ચામાં દાખલા તરીકે લઈ શકાય.",
+      "acceptable_alternatives": [
+        "બાળકનો પોતાનો સાચો અનુભવ કે મત પણ સ્વીકાર્ય છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed item 1; દરેક બાળકનું પોતાનું કારણ સ્વીકારવું — વૃદ્ધનું કારણ એક શક્ય ઉદાહરણ તરીકે યાદ અપાવી શકાય.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX2",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમારા ગામને હરિયાળું કેવી રીતે બનાવી શકાય ?",
+      "answer": "ગામને હરિયાળું બનાવવા માટે રસ્તાની બંને બાજુ વૃક્ષો વાવી શકાય, દરેક ઘરમાં ઓછામાં ઓછો એક છોડ ઉછેરી શકાય અને શાળામાં વૃક્ષારોપણ કાર્યક્રમો યોજી શકાય.",
+      "explanation": "મોડેલ ઉત્તર — વૃદ્ધે એકલા હાથે પોતાની જગ્યાએ ઝાડ વાવ્યાં એ જ રીતનું, નાના પાયે શરૂ કરી શકાય એવું કામ છે એ દિશા-સૂચન બાળકોને આપી શકાય.",
+      "acceptable_alternatives": [
+        "બાળકનો પોતાનો સાચો અનુભવ કે મત પણ સ્વીકાર્ય છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed item 2.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S2.T4",
+        "M3.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX3",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમે ક્યારેય વહેળો જોયો છે ? ક્યાં ?",
+      "answer": "હા, મેં અમારા ગામની બહાર ખેતરો પાસે એક નાનો વહેળો જોયો છે, જેમાં ચોમાસામાં પાણી વહેતું અને ઉનાળામાં એ સુકાઈ જતું.",
+      "explanation": "વ્યક્તિગત અનુભવ-આધારિત મોડેલ ઉત્તર; પાઠનો વહેળો પણ આ જ રીતે ઉનાળે સુકાય છે, જે વાર્તાની શરૂઆતની તકલીફ ઊભી કરે છે.",
+      "acceptable_alternatives": [
+        "બાળકનો પોતાનો સાચો અનુભવ કે મત પણ સ્વીકાર્ય છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed item 3; બાળકનો પોતાનો અનુભવ ન હોય તો 'ના, પણ પાઠમાં વાંચ્યું' એવો જવાબ પણ સ્વીકારવો.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX4",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમે ક્યારેય ખેતર / વાડીની મુલાકાત લીધી છે ? તમે ત્યાં શું શું જોયું હતું ?",
+      "answer": "હા, મેં એક વાર મારા મામાની વાડીની મુલાકાત લીધી હતી. ત્યાં મેં કૂવો, ઝાડ, શાકભાજીના છોડ અને પાણી વાળવાનું નાળું જોયું હતું.",
+      "explanation": "મોડેલ ઉત્તર — પાઠની વાડીમાં પણ કૂવો, વડ અને ઠૂંઠાં જેવાં તત્ત્વો છે, જે બાળકના પોતાના અનુભવ સાથે સરખાવી શકાય.",
+      "acceptable_alternatives": [
+        "બાળકનો પોતાનો સાચો અનુભવ કે મત પણ સ્વીકાર્ય છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed item 4.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX5",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "વાડીમાં ખેડૂત ક્યાં ક્યાં કામ કરતો હોય છે ?",
+      "answer": "વાડીમાં ખેડૂત જમીન ખેડવાનું, બિયારણ વાવવાનું, પાકને પાણી પાવાનું, નીંદણ કાઢવાનું અને પાક તૈયાર થાય ત્યારે લણવાનું કામ કરતો હોય છે.",
+      "explanation": "મોડેલ ઉત્તર — પાઠમાં પાણોતિયો સોમો ઝાડવાંને પાણી પાવાનું અને ખામણાં સરખાં કરવાનું કામ કરે છે, જે વાડીના આવા જ કામનું એક ઉદાહરણ છે.",
+      "acceptable_alternatives": [
+        "બાળકનો પોતાનો સાચો અનુભવ કે મત પણ સ્વીકાર્ય છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed item 5.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX6",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમે ક્યારેય ભેખડ પર ચઢ્યા છો ? ભેખડ પર ચઢતી વખતે તમને કેવો અનુભવ થાય છે ?",
+      "answer": "હા, હું એક વાર નદીકિનારાની ભેખડ પર ચઢ્યો હતો. શરૂઆતમાં થોડો ડર લાગ્યો, પણ ઉપર પહોંચીને આખું દૃશ્ય જોવાની મજા આવી.",
+      "explanation": "વ્યક્તિગત અનુભવ-આધારિત મોડેલ ઉત્તર; પાઠમાં એંશી વર્ષના વૃદ્ધ ધીમે ધીમે ભેખડ ચઢીને ડૉકટરની વાડી સુધી પહોંચે છે — એ ચઢાણ કેટલું અઘરું હશે એ સાથે સરખાવી શકાય.",
+      "acceptable_alternatives": [
+        "બાળકનો પોતાનો સાચો અનુભવ કે મત પણ સ્વીકાર્ય છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed item 6.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX7",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમારા ગામમાં કોઈએ પોતાના સ્વજનની યાદમાં કોઈ નાનું-મોટું સ્મારક બંધાવ્યું છે ? કોણે ?",
+      "answer": "હા, અમારા ગામમાં એક કુટુંબે પોતાના દાદાની યાદમાં ગામના પાદરે એક નાનો ઓટલો બંધાવ્યો છે, જ્યાં આવતાં-જતાં લોકો વિસામો લે છે.",
+      "explanation": "મોડેલ ઉત્તર — વૃદ્ધ ધર્મશાળા કે તળાવ ન બંધાવી શકે એટલા ગરીબ છે, પણ પોતાના દીકરાની યાદમાં વૃક્ષો વાવીને પોતાનું જ 'સ્મારક' બનાવે છે; બાળકનું ઉદાહરણ ન મળે તો પાઠનું આ ઉદાહરણ યાદ અપાવવું.",
+      "acceptable_alternatives": [
+        "બાળકનો પોતાનો સાચો અનુભવ કે મત પણ સ્વીકાર્ય છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed item 7; બાળક પાસે ઉદાહરણ ન હોય તો 'ના' કહેવું પણ સ્વીકાર્ય, સાથે પાઠના વૃદ્ધનું ઉદાહરણ ચર્ચવું.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX8",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમે ક્યારેય ઉનાળામાં ગામના પાદરે વૃક્ષ નીચેનું દૃશ્ય જોયું છે ? તમે ત્યાં શું શું જોયું છે ?",
+      "answer": "હા, ઉનાળામાં મેં ગામના પાદરે મોટા વડ નીચે વટેમાર્ગુઓ અને ઢોર વિસામો લેતાં જોયાં છે, અને છોકરાંઓ એના છાંયામાં રમતાં જોયાં છે.",
+      "explanation": "મોડેલ ઉત્તર — વૃદ્ધની કલ્પના પણ આ જ છે: ઝાડ મોટાં થાય એટલે એની નીચે પશુ ઉનાળાની લૂમાં વિસામો લે અને પંખી માળા બાંધે.",
+      "acceptable_alternatives": [
+        "બાળકનો પોતાનો સાચો અનુભવ કે મત પણ સ્વીકાર્ય છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed item 8.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S2.T4",
+        "M3.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX9",
+      "exercise_group": "પ્રશ્નોત્તર",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "પાઠનું શીર્ષક 'લીલી નજર' કેમ રાખ્યું હશે ?",
+      "answer": "વૃદ્ધે પોતાના મૃત દીકરાની યાદમાં વાવેલાં વૃક્ષો મોટાં થઈને પશુ-પંખી અને વટેમાર્ગુ સૌનું ભલું કરે છે; આથમતા સૂરજનાં કિરણોમાં એ લીલાછમ વૃક્ષોમાં વૃદ્ધની ભાવના જ જીવંત રહે છે, એટલે લેખકે વૃદ્ધની આ સદાય લીલી રહેતી, જીવન તરફની ભાવનાભરી નજરને 'લીલી નજર' કહી છે.",
+      "explanation": "પાઠના પોતાના અંતિમ વાક્ય 'સ્મશાનને કાંઠેથી પણ લીલાછમ જીવનને જોતી એ અનામી વૃદ્ધની નજર નવો ઉજાસ પાથરી જાય છે' પર આધારિત — શીર્ષક પાઠના અંતિમ કાવ્યાત્મક ચિત્ર સાથે સીધું જોડાયેલું છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed item 1; ઉત્તર પાઠના છેલ્લા ફકરાના શબ્દો સાથે જ આપવો, 'વૃદ્ધ મરી ગયા' એવું સ્પષ્ટ ન કહેવું (07_pitfalls.json, M3.S3.T6).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T4",
+        "M3.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX10",
+      "exercise_group": "પ્રશ્નોત્તર",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "વૃદ્ધના મતે ચોરી શાને કહેવાય ?",
+      "answer": "વૃદ્ધના મતે કોઈની વસ્તુ પૂછ્યા વિના લેવી એ ચોરી કહેવાય.",
+      "explanation": "પાઠમાં વૃદ્ધ પોતે જ કહે છે : 'બાપા, પૂછ્યા વિના લઉં તો ચોરી કહેવાય. એટલે પૂછવું તો જોવે ને ?' — ડૉકટરે પાણી મફત વાપરવા કહ્યું હોવા છતાં વૃદ્ધ પૂછ્યા વિના પાણી લેવા તૈયાર નથી, જે એમની નમ્રતા અને પ્રામાણિકતા બતાવે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed item 2.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX11",
+      "exercise_group": "પ્રશ્નોત્તર",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "વૃક્ષો આપણને કઈ રીતે ઉપયોગી છે ?",
+      "answer": "વૃક્ષો મોટાં થઈને છાંયો આપે છે, જેની નીચે પશુ ઉનાળાની લૂમાં વિસામો લઈ શકે છે; પંખી એના પર માળા બાંધીને રહે છે અને ટેટા ખાઈને આહાર મેળવે છે.",
+      "explanation": "પાઠમાં વૃદ્ધના પોતાના શબ્દોમાં જ આ ઉપયોગિતા આપેલી છે : 'ઝાડવાં મોટાં થાશે, એનો છાંયો થાશે, એની નીચે પશુ ઉનાળાની લૂમાં વિસામો લેશે. પંખી માળા બાંધીને રે'ઠાણ કરશે અને ટેટા આવશે તે પંખીને આહાર મળશે.'",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed item 3; ઉત્તર પાઠના જ ત્રણ ફાયદા (છાંયો, વિસામો, આહાર) સુધી મર્યાદિત રાખવો, સામાન્ય જ્ઞાનમાંથી ઉમેરવું નહીં.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX12",
+      "exercise_group": "પ્રશ્નોત્તર",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "વૃદ્ધની આંખમાં ઝળઝળિયાં કેમ આવી ગયાં ?",
+      "answer": "ડૉકટરના હાથ અનાયાસ જોડાઈ ગયા અને એમણે વૃદ્ધનાં ઝાડવાંની આખી જવાબદારી પોતાના માથે લીધી, અને પાણોતિયા સોમાને એની સંભાળ રાખવાનું કામ સોંપ્યું — પોતાની મહેનતને આમ કોઈ ઓળખી, અપનાવી લે એ જોઈને વૃદ્ધ ભાવવશ થઈ ગયા.",
+      "explanation": "શબ્દાર્થ બૉક્સ પ્રમાણે 'ઝળઝળિયાં આવી જવાં' એટલે 'આંખમાં આંસુ આવી જવાં, ભાવવશ થઈ રોવા જેવું થઈ જવું' — ડૉકટરના અણધાર્યા, ઉદાર પ્રતિભાવ પછી જ આ પ્રસંગ બને છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed item 4.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX13",
+      "exercise_group": "પ્રશ્નોત્તર",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "વૃદ્ધ બીજા વરસે કેમ દેખાયા નહીં હોય ?",
+      "answer": "પાઠ આનું કોઈ ચોખ્ખું કારણ આપતું નથી — વૃદ્ધ ઘણી મોટી ઉંમરના (એંશી વર્ષ વટાવેલા) અને નબળી કાયાના હતા; તેઓ ચોમાસા સુધી તો રોજ આવતા રહ્યા, પણ પછી બંધ થઈ ગયું. પાઠ આ વાતને ખુલ્લી જ રાખે છે અને એમની જગ્યાએ વૃક્ષોમાં જીવંત રહેલી એમની 'લીલી નજર'ની જ વાત કરે છે.",
+      "explanation": "M3.S3.T6ના પોતાના શબ્દો ('ચોમાસા સુધી આવ્યા પણ બીજા વર્ષે દેખાયા નહિ') થી આગળ કોઈ મૃત્યુ-ઘટના પાઠમાં સ્પષ્ટ કહેવાયેલી નથી — ઉત્તર આ ખુલ્લા અંતને એમ જ રજૂ કરે છે, નવેસરથી કોઈ ઘટના ઉમેરતો નથી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed item 5; વર્ગમાં ભાર દઈને કહેવું કે 'વૃદ્ધનું મૃત્યુ થયું' એવું પાઠ ક્યાંય લખતું નથી — આ એક હાર્ડ ગેટ છે (07_pitfalls.json, M3.S3.T6).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX14",
+      "exercise_group": "વક્તા-ઓળખ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "'બાપા, આ કૂવામાંથી બે-ચાર ઘડા પાણી લઉં ?'",
+      "answer": "વૃદ્ધ",
+      "explanation": "વૃદ્ધે હાથનું નેજવું કરી જોતાં દૂરથી ડૉકટરને આ પ્રશ્ન પૂછ્યો હતો.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પાઠના મૂળ ફકરામાં આ સંવાદ ક્યાં આવે છે એ બતાવીને જ ઓળખાવવું.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX15",
+      "exercise_group": "વક્તા-ઓળખ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "'ભાઈ, આ કૂવો ભર્યો છે, આ મસમોટી કૂંડી ભરી છે, એમાં બાપા, પૂછવાનું હોય ? તમતમારે ભરી લ્યો ને !'",
+      "answer": "ડૉકટર",
+      "explanation": "વૃદ્ધ સામે ઊભેલા ડૉકટરે એમને પાણી લેવા માટે ખુલ્લેઆમ હા પાડી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પાઠના મૂળ ફકરામાં આ સંવાદ ક્યાં આવે છે એ બતાવીને જ ઓળખાવવું.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX16",
+      "exercise_group": "વક્તા-ઓળખ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "બાપા, પૂછ્યા વિના લઉં તો ચોરી કહેવાય. એટલે પૂછવું તો જોવે ને ?",
+      "answer": "વૃદ્ધ",
+      "explanation": "ડૉકટરે મફત પાણી લેવા કહ્યા છતાં વૃદ્ધ પોતાની નમ્રતાથી પૂછીને જ પાણી લેવાનું કારણ સમજાવે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પાઠના મૂળ ફકરામાં આ સંવાદ ક્યાં આવે છે એ બતાવીને જ ઓળખાવવું.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX17",
+      "exercise_group": "વક્તા-ઓળખ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "'પણ બાપા, ઠેઠ ગોંડલથી આવી આ દોઢ ગાઉ છેટે ઝાડવાં વાવવાનો અરથ શો ?'",
+      "answer": "ડૉકટર",
+      "explanation": "ડૉકટરને નવાઈ લાગે છે કે વૃદ્ધ આટલે દૂરથી આવીને અહીં જ ઝાડ કેમ વાવે છે, એટલે એ સવાલ પૂછે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પાઠના મૂળ ફકરામાં આ સંવાદ ક્યાં આવે છે એ બતાવીને જ ઓળખાવવું.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX18",
+      "exercise_group": "વક્તા-ઓળખ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "'ભાઈ, જુઓ છો ને ! આ સામું ગામ દેખાય ત્યાં દોઢ ગાઉ સુધી રસ્તામાં ક્યાંય ઝાડવું નથી એટલે મારું મન અહીં ઠર્યું. એટલે મેં ઝાડવાં વાવ્યાં.'",
+      "answer": "વૃદ્ધ",
+      "explanation": "ડૉકટરના પ્રશ્નનો જવાબ આપતાં વૃદ્ધ પોતે જ કારણ કહે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પાઠના મૂળ ફકરામાં આ સંવાદ ક્યાં આવે છે એ બતાવીને જ ઓળખાવવું.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX19",
+      "exercise_group": "વક્તા-ઓળખ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "મારો એકનો એક દીકરો માંદો પડીને ગુજરી ગયો.",
+      "answer": "વૃદ્ધ",
+      "explanation": "ડૉકટરના 'શું કામ ?' પ્રશ્નનો જવાબ આપતાં વૃદ્ધ પોતાના દીકરાની વાત કહે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પાઠના મૂળ ફકરામાં આ સંવાદ ક્યાં આવે છે એ બતાવીને જ ઓળખાવવું.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX20",
+      "exercise_group": "વક્તા-ઓળખ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "'બાપા, તમે હવે આ ઉંમરે પાણી સારો ઈ ઠીક નહિ. તમારાં ઝાડવાંની જવાબદારી મારે માથે.'",
+      "answer": "ડૉકટર",
+      "explanation": "વૃદ્ધની વાત સાંભળીને ડૉકટરના હાથ અનાયાસ જોડાઈ જાય છે અને એ જવાબદારી લેવાનું કહે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પાઠના મૂળ ફકરામાં આ સંવાદ ક્યાં આવે છે એ બતાવીને જ ઓળખાવવું.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX21",
+      "exercise_group": "વક્તા-ઓળખ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "'સોમા, તું આ બાપાએ વાવેલાં ઝાડવાંને પાણી પાજે, ખામણાં સરખાં કરજે ને ધ્યાન રાખજે.'",
+      "answer": "ડૉકટર",
+      "explanation": "ડૉકટર જવાબદારી લીધા પછી તરત જ વાડીના પાણોતિયા સોમાને હાંક મારીને આ સૂચના આપે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પાઠના મૂળ ફકરામાં આ સંવાદ ક્યાં આવે છે એ બતાવીને જ ઓળખાવવું.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX22",
+      "exercise_group": "ફકરા-સુધારણા",
+      "skill": "vocabulary",
+      "prompt_verbatim": "'તમે હવે આ ઉંમરે __ખાણી__ સારો ઈ ઠીક નહિ, તમારી ઝાડવાંની જવાબદારી મારે __કાને.__' પછી વાડીના\nપાણોતિયાને __હોકો__ મારીને બોલાવી કહ્યું : 'સોમા, તું આ __બાળા__એ વાવેલાં ઝાડવાને પાણી પાજે, ખામણું\nસરખાં કરજે ને __જ્ઞાન__ રાખજે.",
+      "answer": "'તમે હવે આ ઉંમરે પાણી સારો ઈ ઠીક નહિ, તમારાં ઝાડવાંની જવાબદારી મારે માથે.' પછી વાડીના\nપાણોતિયાને હાંક મારીને બોલાવી કહ્યું : 'સોમા, તું આ બાપાએ વાવેલાં ઝાડવાંને પાણી પાજે, ખામણાં\nસરખાં કરજે ને ધ્યાન રાખજે.'",
+      "explanation": "પાંચેય રેખાંકિત શબ્દો પાઠના મૂળ વાક્ય (ડૉકટરનું જવાબદારી સ્વીકારવાનું અને સોમાને સૂચના આપવાનું ફકરો) સાથે સરખાવીને ખોટા છાપેલા/બદલાયેલા શબ્દોને મૂળ સાચા શબ્દોથી બદલવાના છે — ખાણી→પાણી, કાને→માથે, હોકો→હાંક, બાળા→બાપા, જ્ઞાન→ધ્યાન.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": {
+        "ખાણી": "પાણી",
+        "કાને": "માથે",
+        "હોકો": "હાંક",
+        "બાળા": "બાપા",
+        "જ્ઞાન": "ધ્યાન"
+      },
+      "teacher_note": "પાઠના મૂળ ફકરા (00_chapter_normalized.md, પંક્તિ 56-59) સાથે શબ્દેશબ્દ સરખાવીને જ સુધારો કરવો.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX23",
+      "exercise_group": "ઘટનાક્રમ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "ફાટ્યાંતૂટ્યાં લૂગડાંવાળા વૃદ્ધ ડૉકટરની વાડી પાસે આવ્યો.",
+      "answer": "આ વાક્ય વાર્તાના સાચા ઘટનાક્રમમાં ચોથી ઘટના છે.",
+      "explanation": "પાઠના પોતાના ઘટનાક્રમ પ્રમાણે ગોઠવેલું — વહેળા-કિનારાના વર્ણનથી શરૂ કરીને, વૃદ્ધના આગમન, ડૉકટરની જવાબદારી-સ્વીકૃતિ અને છેલ્લે સોમાના પાણી પાવા સુધી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": {
+        "સાચો ક્રમ (આખા બ્લૉકનો)": [
+          "1. ઝાડનાં થોડાં થોડાં ઠૂંઠાં ત્યાં વાવેલાં હતાં.",
+          "2. વહેળામાંથી ઘડો ભરી ભરીને તેને પાણી પાતો એક વૃદ્ધ જોવામાં આવતો હતો.",
+          "3. વહેળાનાં પાણી ખૂટ્યાં.",
+          "4. ફાટ્યાંતૂટ્યાં લૂગડાંવાળા વૃદ્ધ ડૉકટરની વાડી પાસે આવ્યો.",
+          "5. ડૉકટર ત્યારે વડની ઘેરી ઘટા નીચે કૂવા પાસે ઊભા હતા.",
+          "6. આ ચારેક ઘડા પાણી તો મારે ઝાડવાંને પાવા જોઈએ છે.",
+          "7. બાપા, તમે હવે આ ઉંમરે પાણી સારો ઈ ઠીક નહિ.",
+          "8. પછી સોમો ઊછરતાં થડિયાંને પાણી પાતો."
+        ]
+      },
+      "teacher_note": "પુસ્તકમાં છપાયેલો ક્રમાંક 1.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX24",
+      "exercise_group": "ઘટનાક્રમ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "વહેળાનાં પાણી ખૂટ્યાં.",
+      "answer": "આ વાક્ય વાર્તાના સાચા ઘટનાક્રમમાં ત્રીજી ઘટના છે.",
+      "explanation": "પાઠના પોતાના ઘટનાક્રમ પ્રમાણે ગોઠવેલું — વહેળા-કિનારાના વર્ણનથી શરૂ કરીને, વૃદ્ધના આગમન, ડૉકટરની જવાબદારી-સ્વીકૃતિ અને છેલ્લે સોમાના પાણી પાવા સુધી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પુસ્તકમાં છપાયેલો ક્રમાંક 2.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX25",
+      "exercise_group": "ઘટનાક્રમ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "પછી સોમો ઊછરતાં થડિયાંને પાણી પાતો.",
+      "answer": "આ વાક્ય વાર્તાના સાચા ઘટનાક્રમમાં આઠમી ઘટના છે.",
+      "explanation": "પાઠના પોતાના ઘટનાક્રમ પ્રમાણે ગોઠવેલું — વહેળા-કિનારાના વર્ણનથી શરૂ કરીને, વૃદ્ધના આગમન, ડૉકટરની જવાબદારી-સ્વીકૃતિ અને છેલ્લે સોમાના પાણી પાવા સુધી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પુસ્તકમાં છપાયેલો ક્રમાંક 3.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX26",
+      "exercise_group": "ઘટનાક્રમ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "બાપા, તમે હવે આ ઉંમરે પાણી સારો ઈ ઠીક નહિ.",
+      "answer": "આ વાક્ય વાર્તાના સાચા ઘટનાક્રમમાં સાતમી ઘટના છે.",
+      "explanation": "પાઠના પોતાના ઘટનાક્રમ પ્રમાણે ગોઠવેલું — વહેળા-કિનારાના વર્ણનથી શરૂ કરીને, વૃદ્ધના આગમન, ડૉકટરની જવાબદારી-સ્વીકૃતિ અને છેલ્લે સોમાના પાણી પાવા સુધી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પુસ્તકમાં છપાયેલો ક્રમાંક 4.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX27",
+      "exercise_group": "ઘટનાક્રમ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "આ ચારેક ઘડા પાણી તો મારે ઝાડવાંને પાવા જોઈએ છે.",
+      "answer": "આ વાક્ય વાર્તાના સાચા ઘટનાક્રમમાં છઠ્ઠી ઘટના છે.",
+      "explanation": "પાઠના પોતાના ઘટનાક્રમ પ્રમાણે ગોઠવેલું — વહેળા-કિનારાના વર્ણનથી શરૂ કરીને, વૃદ્ધના આગમન, ડૉકટરની જવાબદારી-સ્વીકૃતિ અને છેલ્લે સોમાના પાણી પાવા સુધી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પુસ્તકમાં છપાયેલો ક્રમાંક 5.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX28",
+      "exercise_group": "ઘટનાક્રમ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "ડૉકટર ત્યારે વડની ઘેરી ઘટા નીચે કૂવા પાસે ઊભા હતા.",
+      "answer": "આ વાક્ય વાર્તાના સાચા ઘટનાક્રમમાં પાંચમી ઘટના છે.",
+      "explanation": "પાઠના પોતાના ઘટનાક્રમ પ્રમાણે ગોઠવેલું — વહેળા-કિનારાના વર્ણનથી શરૂ કરીને, વૃદ્ધના આગમન, ડૉકટરની જવાબદારી-સ્વીકૃતિ અને છેલ્લે સોમાના પાણી પાવા સુધી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પુસ્તકમાં છપાયેલો ક્રમાંક 6.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX29",
+      "exercise_group": "ઘટનાક્રમ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "વહેળામાંથી ઘડો ભરી ભરીને તેને પાણી પાતો એક વૃદ્ધ જોવામાં આવતો હતો.",
+      "answer": "આ વાક્ય વાર્તાના સાચા ઘટનાક્રમમાં બીજી ઘટના છે.",
+      "explanation": "પાઠના પોતાના ઘટનાક્રમ પ્રમાણે ગોઠવેલું — વહેળા-કિનારાના વર્ણનથી શરૂ કરીને, વૃદ્ધના આગમન, ડૉકટરની જવાબદારી-સ્વીકૃતિ અને છેલ્લે સોમાના પાણી પાવા સુધી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પુસ્તકમાં છપાયેલો ક્રમાંક 7.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX30",
+      "exercise_group": "ઘટનાક્રમ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "ઝાડનાં થોડાં થોડાં ઠૂંઠાં ત્યાં વાવેલાં હતાં.",
+      "answer": "આ વાક્ય વાર્તાના સાચા ઘટનાક્રમમાં પહેલી ઘટના છે.",
+      "explanation": "પાઠના પોતાના ઘટનાક્રમ પ્રમાણે ગોઠવેલું — વહેળા-કિનારાના વર્ણનથી શરૂ કરીને, વૃદ્ધના આગમન, ડૉકટરની જવાબદારી-સ્વીકૃતિ અને છેલ્લે સોમાના પાણી પાવા સુધી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પુસ્તકમાં છપાયેલો ક્રમાંક 8.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX31",
+      "exercise_group": "MCQ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "1. કાયાને ચાબુક મારી ચલાવતા વૃદ્ધ એટલે ?\n(અ) વૃદ્ધ ખૂબ અશક્ત હતા.\n(બ) વૃદ્ધ ચાબુક જેવા પાતળા હતા.\n(ક) વૃદ્ધને ચાલવા માટે ચાબુકની જરૂર પડતી.\n(ડ) વૃદ્ધ પાસે ચાબુક હતી.",
+      "answer": "(અ) વૃદ્ધ ખૂબ અશક્ત હતા.",
+      "explanation": "'કાયાને ચાબુક મારી ચલાવવી' એ રૂઢિપ્રયોગ છે — થાકેલા, નબળા શરીરને બળજબરીથી હાંકીને ચલાવવું, જેમ થાકેલા પ્રાણીને ચાબુક મારીને ચલાવાય. એટલે વૃદ્ધ ખરેખર ખૂબ અશક્ત હોવા છતાં પોતાની જાતને ધક્કો મારીને ચલાવી રહ્યા હતા — વિકલ્પ (અ) આ ભાવ પકડે છે. (ક) અને (ડ) 'ચાબુક' શબ્દને શાબ્દિક રીતે લે છે (ખરેખરો ચાબુક) એટલે લલચાવે છે, પણ ખોટા છે; (બ) 'પાતળા' શબ્દની સરખામણી ખોટી દિશામાં લઈ જાય છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "✓ ની નિશાની સાચા વિકલ્પ સામે કરાવવી; ખોટા વિકલ્પો કેમ ખોટા છે એ પણ વર્ગમાં ચર્ચવું.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX32",
+      "exercise_group": "MCQ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "2. આ ઉનાળો ટોઉં તો ચોમાસા ભેણાં થઈ જાય.\n(અ) ઉનાળો પસાર થઈ જાય એટલે ચોમાસું આવી જાય.\n(બ) ઉનાળામાં સાચવી લઉં તો ચોમાસામાં તો સચવાઈ જશે.\n(ક) ઉનાળો ટાળી દઈએ તો ચોમાસું આવી જાય.\n(ડ) ઉનાળા પછી ચોમાસું તો આવવાનું જ છે.",
+      "answer": "(બ) ઉનાળામાં સાચવી લઉં તો ચોમાસામાં તો સચવાઈ જશે.",
+      "explanation": "તળપદા શબ્દો 'ટોઉં' (આ ઉનાળો કાઢી, સાચવી લેવું) અને 'ભેણાં' (ઊછરીને મજબૂત થવું) નો સાચો અર્થ લેતાં વાક્યનો ભાવ છે — રોપાને આ ઉનાળામાં સાચવી લઉં તો ચોમાસામાં એ પોતાની મેળે મજબૂત થઈ જશે. વિકલ્પ (બ) જ આ 'સાચવવું → સચવાવું' સંબંધ પકડે છે; બાકીના ત્રણેય ફક્ત ઉનાળા પછી ચોમાસું આવવાની સામાન્ય હકીકત કહે છે, જે વૃદ્ધની ચિંતાનો સાચો ભાવાર્થ ચૂકી જાય છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "✓ ની નિશાની સાચા વિકલ્પ સામે કરાવવી; ખોટા વિકલ્પો કેમ ખોટા છે એ પણ વર્ગમાં ચર્ચવું.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX33",
+      "exercise_group": "MCQ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "3. વૃદ્ધની આંખમાં ઝળઝળિયાં આવી ગયાં.\n(અ) વૃદ્ધની આંખો ઝગમગવા લાગી.\n(બ) વૃદ્ધ રડવા લાગ્યા.\n(ક) વૃદ્ધની આંખે ઝાંખપ આવી ગઈ.\n(ડ) વૃદ્ધને જોવામાં તકલીફ પડતી હતી.",
+      "answer": "(બ) વૃદ્ધ રડવા લાગ્યા.",
+      "explanation": "પાઠની પોતાની શબ્દાર્થ પેટીમાં જ 'ઝળઝળિયાં આવી જવાં' નો અર્થ અપાયેલો છે : 'આંખમાં આંસુ આવી જવાં, ભાવવશ થઈ રોવા જેવું થઈ જવું' — આ સાથે વિકલ્પ (બ) જ મેળ ખાય છે. (અ), (ક), (ડ) આંખની ચમક કે નબળી દૃષ્ટિ વિશે વાત કરે છે, જે અહીં અર્થ નથી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "✓ ની નિશાની સાચા વિકલ્પ સામે કરાવવી; ખોટા વિકલ્પો કેમ ખોટા છે એ પણ વર્ગમાં ચર્ચવું.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX34",
+      "exercise_group": "જોડકાં",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "કમરેથી વાંકો વળેલો ને ફાટ્યાંતૂટ્યાં લૂગડાંવાળો વૃદ્ધ",
+      "answer": "ડૉકટરની વાડી પાસે આવ્યો.",
+      "explanation": "'કમરેથી વાંકો વળેલો ને ફાટ્યાંતૂટ્યાં લૂગડાંવાળો વૃદ્ધ ડૉકટરની વાડી પાસે આવ્યો.'",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": {
+        "કમરેથી વાંકો વળેલો ને ફાટ્યાંતૂટ્યાં લૂગડાંવાળો વૃદ્ધ": "ડૉકટરની વાડી પાસે આવ્યો.",
+        "જો એને આ ઉનાળો ટોઉં તો": "ચોમાસા ભેણાં થઈ જાય, પછી ફકર નહિ.",
+        "આ સામું ગામ દેખાય ત્યાં દોઢ ગાઉ સુધી": "રસ્તામાં ક્યાંય ઝાડવું નથી.",
+        "ઝાડવાં મોટાં થશે, એનો છાંયો થાશે,": "એની નીચે પશુ ઉનાળાની લૂમાં વિસામો લેશે.",
+        "હાડ હાલે છે ત્યાં સુધી": "આ સંભારણું મૂકી જવા મે'નત કરીશ.",
+        "પોતાને હાથે એ નવીન જીવનની કૂંપળોને": "કોળતી કરવા મથી રહ્યો છે.",
+        "જેનો કંધોતર ઊઠી ગયો છે એવો આ વૃદ્ધ": "નિ:સાસા નાખતો નથી, નથી પડી ભાંગ્યો નથી ભીખ માગતો."
+      },
+      "teacher_note": "સ્તંભ 'અ' અને 'બ' પુસ્તકમાં હરોળ-ક્રમમાં જોડાયેલા છપાયેલા નથી (00_chapter_normalized.md ની નોંધ) — બાળકે પાઠના આધારે જ સાચી જોડી શોધવાની છે.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX35",
+      "exercise_group": "જોડકાં",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "જો એને આ ઉનાળો ટોઉં તો",
+      "answer": "ચોમાસા ભેણાં થઈ જાય, પછી ફકર નહિ.",
+      "explanation": "'જો એને આ ઉનાળો ટોઉં તો ચોમાસા ભેણાં થઈ જાય, પછે ફકર નહીં.'",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "સ્તંભ 'અ' અને 'બ' પુસ્તકમાં હરોળ-ક્રમમાં જોડાયેલા છપાયેલા નથી (00_chapter_normalized.md ની નોંધ) — બાળકે પાઠના આધારે જ સાચી જોડી શોધવાની છે.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX36",
+      "exercise_group": "જોડકાં",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "આ સામું ગામ દેખાય ત્યાં દોઢ ગાઉ સુધી",
+      "answer": "રસ્તામાં ક્યાંય ઝાડવું નથી.",
+      "explanation": "'આ સામું ગામ દેખાય ત્યાં દોઢ ગાઉ સુધી રસ્તામાં ક્યાંય ઝાડવું નથી એટલે મારું મન અહીં ઠર્યું.'",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "સ્તંભ 'અ' અને 'બ' પુસ્તકમાં હરોળ-ક્રમમાં જોડાયેલા છપાયેલા નથી (00_chapter_normalized.md ની નોંધ) — બાળકે પાઠના આધારે જ સાચી જોડી શોધવાની છે.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX37",
+      "exercise_group": "જોડકાં",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "ઝાડવાં મોટાં થશે, એનો છાંયો થાશે,",
+      "answer": "એની નીચે પશુ ઉનાળાની લૂમાં વિસામો લેશે.",
+      "explanation": "'ઝાડવાં મોટાં થાશે, એનો છાંયો થાશે, એની નીચે પશુ ઉનાળાની લૂમાં વિસામો લેશે.'",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "સ્તંભ 'અ' અને 'બ' પુસ્તકમાં હરોળ-ક્રમમાં જોડાયેલા છપાયેલા નથી (00_chapter_normalized.md ની નોંધ) — બાળકે પાઠના આધારે જ સાચી જોડી શોધવાની છે.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX38",
+      "exercise_group": "જોડકાં",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "હાડ હાલે છે ત્યાં સુધી",
+      "answer": "આ સંભારણું મૂકી જવા મે'નત કરીશ.",
+      "explanation": "'હાડ હાલે છે ત્યાં સુધી આ સંભારણું મૂકી જવા મે'નત કરીશ.'",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "સ્તંભ 'અ' અને 'બ' પુસ્તકમાં હરોળ-ક્રમમાં જોડાયેલા છપાયેલા નથી (00_chapter_normalized.md ની નોંધ) — બાળકે પાઠના આધારે જ સાચી જોડી શોધવાની છે.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX39",
+      "exercise_group": "જોડકાં",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "પોતાને હાથે એ નવીન જીવનની કૂંપળોને",
+      "answer": "કોળતી કરવા મથી રહ્યો છે.",
+      "explanation": "'પોતાને હાથે એ નવીન જીવનની કૂંપળોને કોળતી કરવા મથી રહ્યો છે.'",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "સ્તંભ 'અ' અને 'બ' પુસ્તકમાં હરોળ-ક્રમમાં જોડાયેલા છપાયેલા નથી (00_chapter_normalized.md ની નોંધ) — બાળકે પાઠના આધારે જ સાચી જોડી શોધવાની છે.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX40",
+      "exercise_group": "જોડકાં",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "જેનો કંધોતર ઊઠી ગયો છે એવો આ વૃદ્ધ",
+      "answer": "નિ:સાસા નાખતો નથી, નથી પડી ભાંગ્યો નથી ભીખ માગતો.",
+      "explanation": "'જેનો કંધોતર ઊઠી ગયો છે એવો આ વૃદ્ધ નિ:સાસા નાખતો, નથી ભાંગી પડ્યો કે નથી ભીખ માગતો.'",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "સ્તંભ 'અ' અને 'બ' પુસ્તકમાં હરોળ-ક્રમમાં જોડાયેલા છપાયેલા નથી (00_chapter_normalized.md ની નોંધ) — બાળકે પાઠના આધારે જ સાચી જોડી શોધવાની છે.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX41",
+      "exercise_group": "અહેવાલ-લેખન",
+      "skill": "writing",
+      "prompt_verbatim": "તમારી શાળામાં યોજાયેલા વૃક્ષારોપણ કાર્યક્રમ વિશે 100 થી 150 શબ્દોમાં અહેવાલ લખો.",
+      "answer": "ગત સપ્તાહે અમારી શાળામાં વૃક્ષારોપણ કાર્યક્રમ યોજાયો હતો. શાળાના મેદાનમાં સવારે નવ વાગ્યે આચાર્યશ્રી અને શિક્ષકોની હાજરીમાં કાર્યક્રમની શરૂઆત થઈ. પર્યાવરણ-દિવસ નિમિત્તે ગ્રામ પંચાયતના સભ્યો પણ આ કાર્યક્રમમાં ખાસ હાજર રહ્યા હતા. દરેક ધોરણના વિદ્યાર્થીઓએ ઓછામાં ઓછો એક રોપો વાવ્યો. અમે લીમડો, પીપળો, ગુલમહોર અને આંબાના રોપા વાવ્યા. આચાર્યશ્રીએ વિદ્યાર્થીઓને વૃક્ષોનું મહત્ત્વ સમજાવ્યું અને કહ્યું કે વૃક્ષો આપણને શુદ્ધ હવા, છાંયો અને ફળ આપે છે. દરેક વિદ્યાર્થીને પોતે વાવેલા રોપાની સંભાળ રાખવાની જવાબદારી સોંપવામાં આવી, જેમાં નિયમિત પાણી પાવાનું અને ખામણાં સરખાં કરવાનું કામ પણ સામેલ હતું. કાર્યક્રમના અંતે વિદ્યાર્થીઓએ રોપાને પાણી પાયું અને સમૂહમાં ફોટા પડાવ્યા. આ કાર્યક્રમથી અમને પર્યાવરણની જાળવણીનું મહત્ત્વ સમજાયું અને વૃક્ષો ઉછેરવાનો ઉત્સાહ મળ્યો, જે 'લીલી નજર' પાઠના વૃદ્ધની ભાવના જેવો જ છે.",
+      "explanation": "વ્યક્તિગત/ખુલ્લું લેખન-કાર્ય — એક શક્ય મોડેલ અહેવાલ, ચોક્કસ 'ઉત્તર' નહીં. અહેવાલમાં ક્યારે-ક્યાં-કોણે-શું જેવી વિગતો અને પ્રસંગનું ટૂંકું, ક્રમબદ્ધ વર્ણન હોવું જોઈએ — પાઠના વૃક્ષ-થીમ સાથે જોડાણ પણ બતાવ્યું છે.",
+      "acceptable_alternatives": [
+        "બાળક પોતાની ખરેખરની શાળાના કાર્યક્રમની વિગતો સાથે લખે એ જ સાચો ઉત્તર ગણવો."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "એક શક્ય મોડેલ અહેવાલ (અંદાજે 118 શબ્દો); વિદ્યાર્થીએ પોતાની શાળાના ખરેખરના કાર્યક્રમ પરથી લખવો — આ ફક્ત બંધારણ (ક્યારે-ક્યાં-કોણે-શું) અને શબ્દ-મર્યાદા (100-150 શબ્દ) બતાવવા માટે.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S2.T4",
+        "M3.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX42",
+      "exercise_group": "પ્રશ્ન-રચના",
+      "skill": "grammar",
+      "prompt_verbatim": "સામે ચારપાંચ ઠૂંઠાં રોપ્યાં છે. (કેટલાં)",
+      "answer": "સામે કેટલાં ઠૂંઠાં રોપ્યાં છે ?",
+      "explanation": "કૌંસનો શબ્દ 'કેટલાં' સંખ્યા પૂછે છે, એટલે વાક્યમાંનો સંખ્યાવાચક ભાગ 'ચારપાંચ' કાઢીને એની જગ્યાએ 'કેટલાં' મૂકી પ્રશ્ન બનાવ્યો — મૂળ વાક્ય વૃદ્ધ પોતે ડૉકટરને કહે છે તે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "કૌંસનો શબ્દ વાક્યના જે ભાગ વિશે પૂછે છે એ ભાગને શબ્દથી બદલીને પ્રશ્ન બનાવવો એ કૌશલ્ય છે.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX43",
+      "exercise_group": "પ્રશ્ન-રચના",
+      "skill": "grammar",
+      "prompt_verbatim": "ક્યારે મોત આવે એનું ઠેકાણું નથી. (શેનું)",
+      "answer": "શેનું ઠેકાણું નથી ?",
+      "explanation": "કૌંસનો શબ્દ 'શેનું' વાક્યના 'એનું' ભાગ વિશે પૂછે છે; ઉત્તર મૂળ વાક્યના શબ્દોમાં જ છે — 'ક્યારે મોત આવે એનું' ઠેકાણું નથી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "કૌંસનો શબ્દ વાક્યના જે ભાગ વિશે પૂછે છે એ ભાગને શબ્દથી બદલીને પ્રશ્ન બનાવવો એ કૌશલ્ય છે.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX44",
+      "exercise_group": "પ્રશ્ન-રચના",
+      "skill": "grammar",
+      "prompt_verbatim": "પશુ ઉનાળાની લૂમાં ઝાડવાં નીચે વિસામો લેશે. (ક્યારે)",
+      "answer": "પશુ ક્યારે ઝાડવાં નીચે વિસામો લેશે ?",
+      "explanation": "કૌંસનો શબ્દ 'ક્યારે' સમય પૂછે છે, એટલે 'ઉનાળાની લૂમાં' કાઢીને એની જગ્યાએ 'ક્યારે' મૂક્યો.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "કૌંસનો શબ્દ વાક્યના જે ભાગ વિશે પૂછે છે એ ભાગને શબ્દથી બદલીને પ્રશ્ન બનાવવો એ કૌશલ્ય છે.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX45",
+      "exercise_group": "પ્રશ્ન-રચના",
+      "skill": "grammar",
+      "prompt_verbatim": "એની આંખોમાં ઘટાદાર વૃક્ષો વસ્યાં છે. (શું)",
+      "answer": "એની આંખોમાં શું વસ્યું છે ?",
+      "explanation": "કૌંસનો શબ્દ 'શું' વસ્તુ પૂછે છે, એટલે 'ઘટાદાર વૃક્ષો' કાઢીને એની જગ્યાએ 'શું' મૂક્યો.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "કૌંસનો શબ્દ વાક્યના જે ભાગ વિશે પૂછે છે એ ભાગને શબ્દથી બદલીને પ્રશ્ન બનાવવો એ કૌશલ્ય છે.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX46",
+      "exercise_group": "વાક્ય-રચના",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચેના શબ્દોનો ઉપયોગ કરીને વાક્યો બનાવો.\n(વાડી, ડૉકટર, વૃદ્ધ, ઠૂંઠાં, ગામ, સંભારણું, વિસામો, મરજી, જવાબદારી, આંખ)\n(વાડી)",
+      "answer": "અમારા ગામની બહાર મારા કાકાની એક મોટી વાડી છે, જ્યાં કેરી અને જામફળનાં ઝાડ છે.",
+      "explanation": "વ્યક્તિગત વાક્ય-રચના — શબ્દ 'વાડી' નો સાચો, રોજિંદો અર્થ પકડતું એક શક્ય મોડેલ વાક્ય.",
+      "acceptable_alternatives": [
+        "બાળકનું પોતાનું, શબ્દનો સાચો અર્થ પકડતું કોઈ પણ વાક્ય સ્વીકાર્ય."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed word list ('વાડી' સહિતના દસ શબ્દોમાંનો એક); બાળકનું પોતાનું અર્થપૂર્ણ વાક્ય પણ સ્વીકાર્ય.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX47",
+      "exercise_group": "વાક્ય-રચના",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચેના શબ્દોનો ઉપયોગ કરીને વાક્યો બનાવો.\n(વાડી, ડૉકટર, વૃદ્ધ, ઠૂંઠાં, ગામ, સંભારણું, વિસામો, મરજી, જવાબદારી, આંખ)\n(ડૉકટર)",
+      "answer": "તાવ આવ્યો ત્યારે મમ્મી મને ડૉકટર પાસે લઈ ગઈ.",
+      "explanation": "વ્યક્તિગત વાક્ય-રચના — શબ્દ 'ડૉકટર' નો સાચો, રોજિંદો અર્થ પકડતું એક શક્ય મોડેલ વાક્ય.",
+      "acceptable_alternatives": [
+        "બાળકનું પોતાનું, શબ્દનો સાચો અર્થ પકડતું કોઈ પણ વાક્ય સ્વીકાર્ય."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed word list ('ડૉકટર' સહિતના દસ શબ્દોમાંનો એક); બાળકનું પોતાનું અર્થપૂર્ણ વાક્ય પણ સ્વીકાર્ય.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX48",
+      "exercise_group": "વાક્ય-રચના",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચેના શબ્દોનો ઉપયોગ કરીને વાક્યો બનાવો.\n(વાડી, ડૉકટર, વૃદ્ધ, ઠૂંઠાં, ગામ, સંભારણું, વિસામો, મરજી, જવાબદારી, આંખ)\n(વૃદ્ધ)",
+      "answer": "બસમાં એક વૃદ્ધ ઊભા હતા એટલે મેં તરત મારી બેઠક આપી દીધી.",
+      "explanation": "વ્યક્તિગત વાક્ય-રચના — શબ્દ 'વૃદ્ધ' નો સાચો, રોજિંદો અર્થ પકડતું એક શક્ય મોડેલ વાક્ય.",
+      "acceptable_alternatives": [
+        "બાળકનું પોતાનું, શબ્દનો સાચો અર્થ પકડતું કોઈ પણ વાક્ય સ્વીકાર્ય."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed word list ('વૃદ્ધ' સહિતના દસ શબ્દોમાંનો એક); બાળકનું પોતાનું અર્થપૂર્ણ વાક્ય પણ સ્વીકાર્ય.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX49",
+      "exercise_group": "વાક્ય-રચના",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચેના શબ્દોનો ઉપયોગ કરીને વાક્યો બનાવો.\n(વાડી, ડૉકટર, વૃદ્ધ, ઠૂંઠાં, ગામ, સંભારણું, વિસામો, મરજી, જવાબદારી, આંખ)\n(ઠૂંઠાં)",
+      "answer": "જૂનું ઝાડ કપાયા પછી ત્યાં ફક્ત એનાં ઠૂંઠાં જ રહી ગયાં.",
+      "explanation": "વ્યક્તિગત વાક્ય-રચના — શબ્દ 'ઠૂંઠાં' નો સાચો, રોજિંદો અર્થ પકડતું એક શક્ય મોડેલ વાક્ય.",
+      "acceptable_alternatives": [
+        "બાળકનું પોતાનું, શબ્દનો સાચો અર્થ પકડતું કોઈ પણ વાક્ય સ્વીકાર્ય."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed word list ('ઠૂંઠાં' સહિતના દસ શબ્દોમાંનો એક); બાળકનું પોતાનું અર્થપૂર્ણ વાક્ય પણ સ્વીકાર્ય.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX50",
+      "exercise_group": "વાક્ય-રચના",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચેના શબ્દોનો ઉપયોગ કરીને વાક્યો બનાવો.\n(વાડી, ડૉકટર, વૃદ્ધ, ઠૂંઠાં, ગામ, સંભારણું, વિસામો, મરજી, જવાબદારી, આંખ)\n(ગામ)",
+      "answer": "દિવાળીની રજાઓમાં અમે અમારા દાદાના ગામ ગયા હતા.",
+      "explanation": "વ્યક્તિગત વાક્ય-રચના — શબ્દ 'ગામ' નો સાચો, રોજિંદો અર્થ પકડતું એક શક્ય મોડેલ વાક્ય.",
+      "acceptable_alternatives": [
+        "બાળકનું પોતાનું, શબ્દનો સાચો અર્થ પકડતું કોઈ પણ વાક્ય સ્વીકાર્ય."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed word list ('ગામ' સહિતના દસ શબ્દોમાંનો એક); બાળકનું પોતાનું અર્થપૂર્ણ વાક્ય પણ સ્વીકાર્ય.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX51",
+      "exercise_group": "વાક્ય-રચના",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચેના શબ્દોનો ઉપયોગ કરીને વાક્યો બનાવો.\n(વાડી, ડૉકટર, વૃદ્ધ, ઠૂંઠાં, ગામ, સંભારણું, વિસામો, મરજી, જવાબદારી, આંખ)\n(સંભારણું)",
+      "answer": "કશ્મીરનો પ્રવાસ અમારે માટે એક સંભારણું બની રહ્યો છે.",
+      "explanation": "પુસ્તકનું પોતાનું છપાયેલું ઉદાહરણ-વાક્ય — શબ્દનો અર્થ 'યાદગીરી' છે એ સ્પષ્ટ કરે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed item — 'સંભારણું' શબ્દ પુસ્તકે પોતે 'ઉદાહરણ' તરીકે આપીને ઉકેલી આપ્યો છે ('ઉદાહરણ : સંભારણું : કશ્મીરનો પ્રવાસ અમારે માટે એક સંભારણું બની રહ્યો છે.'); આ પુસ્તકનું પોતાનું વાક્ય છે, બાકીના નવ શબ્દો માટે કઈ રીતે વાક્ય બનાવવું એ બતાવવા માટે અપાયેલું છે — બાળકે એ પ્રમાણે બાકીના શબ્દોનાં પોતાનાં વાક્યો બનાવવાનાં છે.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX52",
+      "exercise_group": "વાક્ય-રચના",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચેના શબ્દોનો ઉપયોગ કરીને વાક્યો બનાવો.\n(વાડી, ડૉકટર, વૃદ્ધ, ઠૂંઠાં, ગામ, સંભારણું, વિસામો, મરજી, જવાબદારી, આંખ)\n(વિસામો)",
+      "answer": "લાંબા પ્રવાસ પછી અમે એક ઝાડ નીચે થોડો વિસામો લીધો.",
+      "explanation": "વ્યક્તિગત વાક્ય-રચના — શબ્દ 'વિસામો' નો સાચો, રોજિંદો અર્થ પકડતું એક શક્ય મોડેલ વાક્ય.",
+      "acceptable_alternatives": [
+        "બાળકનું પોતાનું, શબ્દનો સાચો અર્થ પકડતું કોઈ પણ વાક્ય સ્વીકાર્ય."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed word list ('વિસામો' સહિતના દસ શબ્દોમાંનો એક); બાળકનું પોતાનું અર્થપૂર્ણ વાક્ય પણ સ્વીકાર્ય.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX53",
+      "exercise_group": "વાક્ય-રચના",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચેના શબ્દોનો ઉપયોગ કરીને વાક્યો બનાવો.\n(વાડી, ડૉકટર, વૃદ્ધ, ઠૂંઠાં, ગામ, સંભારણું, વિસામો, મરજી, જવાબદારી, આંખ)\n(મરજી)",
+      "answer": "રમવા જવું કે ના જવું એ તારી પોતાની મરજી છે.",
+      "explanation": "વ્યક્તિગત વાક્ય-રચના — શબ્દ 'મરજી' નો સાચો, રોજિંદો અર્થ પકડતું એક શક્ય મોડેલ વાક્ય.",
+      "acceptable_alternatives": [
+        "બાળકનું પોતાનું, શબ્દનો સાચો અર્થ પકડતું કોઈ પણ વાક્ય સ્વીકાર્ય."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed word list ('મરજી' સહિતના દસ શબ્દોમાંનો એક); બાળકનું પોતાનું અર્થપૂર્ણ વાક્ય પણ સ્વીકાર્ય.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S2.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX54",
+      "exercise_group": "વાક્ય-રચના",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચેના શબ્દોનો ઉપયોગ કરીને વાક્યો બનાવો.\n(વાડી, ડૉકટર, વૃદ્ધ, ઠૂંઠાં, ગામ, સંભારણું, વિસામો, મરજી, જવાબદારી, આંખ)\n(જવાબદારી)",
+      "answer": "શાળાની સ્વચ્છતાની જવાબદારી અમારા વર્ગને સોંપવામાં આવી હતી.",
+      "explanation": "વ્યક્તિગત વાક્ય-રચના — શબ્દ 'જવાબદારી' નો સાચો, રોજિંદો અર્થ પકડતું એક શક્ય મોડેલ વાક્ય.",
+      "acceptable_alternatives": [
+        "બાળકનું પોતાનું, શબ્દનો સાચો અર્થ પકડતું કોઈ પણ વાક્ય સ્વીકાર્ય."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed word list ('જવાબદારી' સહિતના દસ શબ્દોમાંનો એક); બાળકનું પોતાનું અર્થપૂર્ણ વાક્ય પણ સ્વીકાર્ય.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX55",
+      "exercise_group": "વાક્ય-રચના",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચેના શબ્દોનો ઉપયોગ કરીને વાક્યો બનાવો.\n(વાડી, ડૉકટર, વૃદ્ધ, ઠૂંઠાં, ગામ, સંભારણું, વિસામો, મરજી, જવાબદારી, આંખ)\n(આંખ)",
+      "answer": "દાદીની આંખમાં પૌત્રને જોઈને હરખનાં આંસુ આવી ગયાં.",
+      "explanation": "વ્યક્તિગત વાક્ય-રચના — શબ્દ 'આંખ' નો સાચો, રોજિંદો અર્થ પકડતું એક શક્ય મોડેલ વાક્ય.",
+      "acceptable_alternatives": [
+        "બાળકનું પોતાનું, શબ્દનો સાચો અર્થ પકડતું કોઈ પણ વાક્ય સ્વીકાર્ય."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "printed word list ('આંખ' સહિતના દસ શબ્દોમાંનો એક); બાળકનું પોતાનું અર્થપૂર્ણ વાક્ય પણ સ્વીકાર્ય.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S3.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX56",
+      "exercise_group": "શબ્દ-બદલી",
+      "skill": "grammar",
+      "prompt_verbatim": "મને ગિલ્લીદંડો __કે__ ક્રિકેટ બંને રમત ગમે છે.",
+      "answer": "મને ગિલ્લીદંડો અને ક્રિકેટ બંને રમત ગમે છે.",
+      "explanation": "'કે' વિકલ્પ (અથવા) બતાવે છે, પણ વાક્યમાં 'બંને' શબ્દ બંને રમત ગમવાનું કહે છે — એટલે વિકલ્પને બદલે જોડનાર 'અને' જોઈએ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "ઉદાહરણ (પુસ્તકે પોતે ઉકેલી આપેલું) : અમે પ્રવાસમાં સૌરાષ્ટ્ર __પણ__ કચ્છ જઈશું. → અમે પ્રવાસમાં સૌરાષ્ટ્ર અથવા કચ્છ જઈશું.  |  printed item 1 — રેખાંકિત (ખોટા) સંયોજકને વાક્યના સાચા ભાવ પ્રમાણેના સંયોજકથી બદલીને આખું વાક્ય ફરીથી લખવાનું છે (bhasha_bodh.md std-8 ladder: સંયોજક, ch 13 §11).",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX57",
+      "exercise_group": "શબ્દ-બદલી",
+      "skill": "grammar",
+      "prompt_verbatim": "સાવિત્રીને પેટમાં દુખાવો હતો __તેથી__ તેણે પાણીપૂરી ખાધી.",
+      "answer": "સાવિત્રીને પેટમાં દુખાવો હતો છતાં તેણે પાણીપૂરી ખાધી.",
+      "explanation": "'તેથી' કારણ-પરિણામ બતાવે છે, પણ પેટમાં દુખાવો હોવા છતાં પાણીપૂરી ખાવી એ વિરોધાભાસ છે — એટલે 'છતાં' જોઈએ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "ઉદાહરણ (પુસ્તકે પોતે ઉકેલી આપેલું) : અમે પ્રવાસમાં સૌરાષ્ટ્ર __પણ__ કચ્છ જઈશું. → અમે પ્રવાસમાં સૌરાષ્ટ્ર અથવા કચ્છ જઈશું.  |  printed item 2 — રેખાંકિત (ખોટા) સંયોજકને વાક્યના સાચા ભાવ પ્રમાણેના સંયોજકથી બદલીને આખું વાક્ય ફરીથી લખવાનું છે (bhasha_bodh.md std-8 ladder: સંયોજક, ch 13 §11).",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX58",
+      "exercise_group": "શબ્દ-બદલી",
+      "skill": "grammar",
+      "prompt_verbatim": "ફુગ્ગો આકાશમાં ઊંચે ગયો __અને__ તેમાં ગેસ ભરેલો હતો.",
+      "answer": "ફુગ્ગો આકાશમાં ઊંચે ગયો કારણ કે તેમાં ગેસ ભરેલો હતો.",
+      "explanation": "'અને' ફક્ત બે વાત જોડે છે, પણ અહીં બીજી વાત પહેલી વાતનું કારણ છે — એટલે કારણ બતાવતો સંયોજક 'કારણ કે' જોઈએ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "ઉદાહરણ (પુસ્તકે પોતે ઉકેલી આપેલું) : અમે પ્રવાસમાં સૌરાષ્ટ્ર __પણ__ કચ્છ જઈશું. → અમે પ્રવાસમાં સૌરાષ્ટ્ર અથવા કચ્છ જઈશું.  |  printed item 3 — રેખાંકિત (ખોટા) સંયોજકને વાક્યના સાચા ભાવ પ્રમાણેના સંયોજકથી બદલીને આખું વાક્ય ફરીથી લખવાનું છે (bhasha_bodh.md std-8 ladder: સંયોજક, ch 13 §11).",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX59",
+      "exercise_group": "શબ્દ-બદલી",
+      "skill": "grammar",
+      "prompt_verbatim": "હું __કે__ ભોલુ પાકા મિત્રો છીએ.",
+      "answer": "હું અને ભોલુ પાકા મિત્રો છીએ.",
+      "explanation": "'કે' વિકલ્પ બતાવે છે, પણ 'છીએ' (બંને મળીને) બહુવચન ક્રિયાપદ બતાવે છે કે બંને જણ સાથે મિત્રો છે — એટલે 'અને' જોઈએ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "ઉદાહરણ (પુસ્તકે પોતે ઉકેલી આપેલું) : અમે પ્રવાસમાં સૌરાષ્ટ્ર __પણ__ કચ્છ જઈશું. → અમે પ્રવાસમાં સૌરાષ્ટ્ર અથવા કચ્છ જઈશું.  |  printed item 4 — રેખાંકિત (ખોટા) સંયોજકને વાક્યના સાચા ભાવ પ્રમાણેના સંયોજકથી બદલીને આખું વાક્ય ફરીથી લખવાનું છે (bhasha_bodh.md std-8 ladder: સંયોજક, ch 13 §11).",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX60",
+      "exercise_group": "શબ્દ-બદલી",
+      "skill": "grammar",
+      "prompt_verbatim": "મોન્ટુ નિયમિત બ્રશ કરતો નથી __છતાં__ તેના દાંત બગડ્યા છે.",
+      "answer": "મોન્ટુ નિયમિત બ્રશ કરતો નથી તેથી તેના દાંત બગડ્યા છે.",
+      "explanation": "'છતાં' વિરોધાભાસ બતાવે છે, પણ બ્રશ ન કરવું અને દાંત બગડવા એ સ્વાભાવિક કારણ-પરિણામ સંબંધ છે, વિરોધાભાસ નહીં — એટલે 'તેથી' જોઈએ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "ઉદાહરણ (પુસ્તકે પોતે ઉકેલી આપેલું) : અમે પ્રવાસમાં સૌરાષ્ટ્ર __પણ__ કચ્છ જઈશું. → અમે પ્રવાસમાં સૌરાષ્ટ્ર અથવા કચ્છ જઈશું.  |  printed item 5 — રેખાંકિત (ખોટા) સંયોજકને વાક્યના સાચા ભાવ પ્રમાણેના સંયોજકથી બદલીને આખું વાક્ય ફરીથી લખવાનું છે (bhasha_bodh.md std-8 ladder: સંયોજક, ch 13 §11).",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX61",
+      "exercise_group": "શબ્દ-બદલી",
+      "skill": "grammar",
+      "prompt_verbatim": "નીરવે માટીમાંથી સુંદર હાથી __છતાં__ ઘોડા બનાવ્યા, પણ તેને માટીકામની પ્રવૃત્તિમાં ઈનામ મળ્યું.",
+      "answer": "નીરવે માટીમાંથી સુંદર હાથી અને ઘોડા બનાવ્યા, પણ તેને માટીકામની પ્રવૃત્તિમાં ઈનામ મળ્યું.",
+      "explanation": "'છતાં' અહીં અર્થહીન છે; હાથી અને ઘોડા બંને એકસાથે બનાવ્યાની યાદી છે, એટલે જોડનાર 'અને' જોઈએ. (વાક્યમાં પહેલેથી છપાયેલો 'પણ' આ કાર્યનો ભાગ નથી, એ જેમનો તેમ રહે છે.)",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "ઉદાહરણ (પુસ્તકે પોતે ઉકેલી આપેલું) : અમે પ્રવાસમાં સૌરાષ્ટ્ર __પણ__ કચ્છ જઈશું. → અમે પ્રવાસમાં સૌરાષ્ટ્ર અથવા કચ્છ જઈશું.  |  printed item 6 — રેખાંકિત (ખોટા) સંયોજકને વાક્યના સાચા ભાવ પ્રમાણેના સંયોજકથી બદલીને આખું વાક્ય ફરીથી લખવાનું છે (bhasha_bodh.md std-8 ladder: સંયોજક, ch 13 §11).",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX62",
+      "exercise_group": "શબ્દ-બદલી",
+      "skill": "grammar",
+      "prompt_verbatim": "મારી મમ્મી __છતાં__ માસી બંનેને ખૂબ જ સારા લાડવા બનાવતાં આવડે છે __તેથી__ તેમને મોહનથાળ બનાવવામાં વધુ રસ છે.",
+      "answer": "મારી મમ્મી અને માસી બંનેને ખૂબ જ સારા લાડવા બનાવતાં આવડે છે છતાં તેમને મોહનથાળ બનાવવામાં વધુ રસ છે.",
+      "explanation": "પહેલો ખાલી ભાગ 'બંનેને' સાથે જોડનાર 'અને' માગે છે; બીજો ખાલી ભાગ વિરોધાભાસ બતાવે છે (સારા લાડવા બનાવતાં આવડવા છતાં મોહનથાળમાં વધુ રસ) એટલે 'છતાં' માગે છે — બંને સંયોજક એકબીજા સાથે અદલાબદલી થયેલા હતા.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "ઉદાહરણ (પુસ્તકે પોતે ઉકેલી આપેલું) : અમે પ્રવાસમાં સૌરાષ્ટ્ર __પણ__ કચ્છ જઈશું. → અમે પ્રવાસમાં સૌરાષ્ટ્ર અથવા કચ્છ જઈશું.  |  printed item 7 — રેખાંકિત (ખોટા) સંયોજકને વાક્યના સાચા ભાવ પ્રમાણેના સંયોજકથી બદલીને આખું વાક્ય ફરીથી લખવાનું છે (bhasha_bodh.md std-8 ladder: સંયોજક, ch 13 §11).",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX63",
+      "exercise_group": "શબ્દ-બદલી",
+      "skill": "grammar",
+      "prompt_verbatim": "વરસાદ ઓછો થતાં ખેડૂત દ્વિધામાં હતો __પણ__ બાજરી વાવવી __અને__ ઘઉં.",
+      "answer": "વરસાદ ઓછો થતાં ખેડૂત દ્વિધામાં હતો કે બાજરી વાવવી કે ઘઉં.",
+      "explanation": "'દ્વિધા' એટલે બે વિકલ્પ વચ્ચેની અવઢવ, જેને ગુજરાતીમાં 'કે... કે' રચનાથી બતાવાય છે — બંને ખાલી ભાગમાં 'કે' જોઈએ, 'પણ' અને 'અને' અહીં દ્વિધા બતાવતા નથી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "ઉદાહરણ (પુસ્તકે પોતે ઉકેલી આપેલું) : અમે પ્રવાસમાં સૌરાષ્ટ્ર __પણ__ કચ્છ જઈશું. → અમે પ્રવાસમાં સૌરાષ્ટ્ર અથવા કચ્છ જઈશું.  |  printed item 8 — રેખાંકિત (ખોટા) સંયોજકને વાક્યના સાચા ભાવ પ્રમાણેના સંયોજકથી બદલીને આખું વાક્ય ફરીથી લખવાનું છે (bhasha_bodh.md std-8 ladder: સંયોજક, ch 13 §11).",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX64",
+      "exercise_group": "અનુવાદ",
+      "skill": "writing",
+      "prompt_verbatim": "ચંદ્રમા કેવો વિચિત્ર છે ! એનો બધો પ્રકાશ એને સૂર્ય પાસેથી મળે છે, પણ જ્યારે તે સૂર્યથી દૂર હોય છે ત્યારે\nજ તે આપણને વધારે પ્રકાશ આપી શકે છે.",
+      "answer": "How strange the moon is! All its light comes to it from the sun, but it is only when it is far away from the sun that it can give us more light.",
+      "explanation": "chapter_id ('gseb_eng_gujarati8_ch13') અંગ્રેજી માધ્યમ નોંધે છે, એટલે મોડેલ અનુવાદ અંગ્રેજીમાં આપ્યો છે. Non-Gujarati script (English) આ answer field માં ઈરાદાપૂર્વક છે — script defect નથી.",
+      "acceptable_alternatives": [
+        "બીજા માધ્યમની શાળા (દા.ત. હિન્દી માધ્યમ) આ જ ફકરાનો પોતાના પ્રથમ ભાષામાં અનુવાદ કરે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "ધોરણ 6 અને 8માં આ 'પ્રથમ ભાષામાં અનુવાદ' બ્લૉક 15/15 પ્રકરણોમાં છેલ્લા ક્રમાંકે છપાય છે (reference/exercise_alignment.md); ફકરો પાઠના કથન સાથે અસંબંધિત, સ્વતંત્ર છે. શાળાનું પ્રથમ ભાષા ગુજરાતી સિવાયનું કંઈ પણ હોય તો શિક્ષક આ મોડેલને એ ભાષામાં બદલે.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    }
+  ],
+  "coverage_report": {
+    "blocks_found": [
+      "વાતચીત.",
+      "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "નીચેનાં વાક્યો કોણ બોલે છે તે પાઠમાંથી શોધીને લખો.",
+      "પાઠને આધારે ફકરામાં સુધારા કરી ફરીથી લખો.",
+      "નીચેનાં વાક્યોને યોગ્ય ઘટનાક્રમમાં ગોઠવીને લખો.",
+      "નજીકનો અર્થ ધરાવતો વિકલ્પ શોધી તેની સામે ✓ ની નિશાની કરો.",
+      "જોડકાં જોડો.",
+      "તમારી શાળામાં યોજાયેલા વૃક્ષારોપણ કાર્યક્રમ વિશે 100 થી 150 શબ્દોમાં અહેવાલ લખો.",
+      "કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરીને પ્રશ્ન બનાવો.",
+      "નીચેના શબ્દોનો ઉપયોગ કરીને વાક્યો બનાવો.",
+      "આપેલાં વાક્યોમાં રેખાંકિત શબ્દના સ્થાને યોગ્ય શબ્દ મૂકી વાક્ય ફરીથી લખો.",
+      "આપેલા ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો."
+    ],
+    "blocks_answered": [
+      "વાતચીત.",
+      "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "નીચેનાં વાક્યો કોણ બોલે છે તે પાઠમાંથી શોધીને લખો.",
+      "પાઠને આધારે ફકરામાં સુધારા કરી ફરીથી લખો.",
+      "નીચેનાં વાક્યોને યોગ્ય ઘટનાક્રમમાં ગોઠવીને લખો.",
+      "નજીકનો અર્થ ધરાવતો વિકલ્પ શોધી તેની સામે ✓ ની નિશાની કરો.",
+      "જોડકાં જોડો.",
+      "તમારી શાળામાં યોજાયેલા વૃક્ષારોપણ કાર્યક્રમ વિશે 100 થી 150 શબ્દોમાં અહેવાલ લખો.",
+      "કૌંસમાં આપેલા શબ્દનો ઉપયોગ કરીને પ્રશ્ન બનાવો.",
+      "નીચેના શબ્દોનો ઉપયોગ કરીને વાક્યો બનાવો.",
+      "આપેલાં વાક્યોમાં રેખાંકિત શબ્દના સ્થાને યોગ્ય શબ્દ મૂકી વાક્ય ફરીથી લખો.",
+      "આપેલા ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો."
+    ],
+    "unanswered": [],
+    "unmapped": [
+      {
+        "exercise_id": "EX56",
+        "exercise_group": "શબ્દ-બદલી",
+        "prompt_verbatim": "મને ગિલ્લીદંડો __કે__ ક્રિકેટ બંને રમત ગમે છે.",
+        "reason": "આ સંયોજક-સુધારણા બ્લૉકનાં વાક્યો પાઠના પોતાના કથન સાથે કોઈ સંબંધ ધરાવતાં નથી (ક્રિકેટ, પાણીપૂરી, ફુગ્ગો, બ્રશ, માટીકામ, ખેડૂતની બાજરી-ઘઉંની દ્વિધા જેવાં સ્વતંત્ર ઉદાહરણ-વાક્યો) — આ સંયોજક-વ્યાકરણની સ્વતંત્ર કસોટી છે, પાઠનું કોઈ વાચન-દૃશ્ય એને તૈયાર કરતું નથી."
+      },
+      {
+        "exercise_id": "EX57",
+        "exercise_group": "શબ્દ-બદલી",
+        "prompt_verbatim": "સાવિત્રીને પેટમાં દુખાવો હતો __તેથી__ તેણે પાણીપૂરી ખાધી.",
+        "reason": "આ સંયોજક-સુધારણા બ્લૉકનાં વાક્યો પાઠના પોતાના કથન સાથે કોઈ સંબંધ ધરાવતાં નથી (ક્રિકેટ, પાણીપૂરી, ફુગ્ગો, બ્રશ, માટીકામ, ખેડૂતની બાજરી-ઘઉંની દ્વિધા જેવાં સ્વતંત્ર ઉદાહરણ-વાક્યો) — આ સંયોજક-વ્યાકરણની સ્વતંત્ર કસોટી છે, પાઠનું કોઈ વાચન-દૃશ્ય એને તૈયાર કરતું નથી."
+      },
+      {
+        "exercise_id": "EX58",
+        "exercise_group": "શબ્દ-બદલી",
+        "prompt_verbatim": "ફુગ્ગો આકાશમાં ઊંચે ગયો __અને__ તેમાં ગેસ ભરેલો હતો.",
+        "reason": "આ સંયોજક-સુધારણા બ્લૉકનાં વાક્યો પાઠના પોતાના કથન સાથે કોઈ સંબંધ ધરાવતાં નથી (ક્રિકેટ, પાણીપૂરી, ફુગ્ગો, બ્રશ, માટીકામ, ખેડૂતની બાજરી-ઘઉંની દ્વિધા જેવાં સ્વતંત્ર ઉદાહરણ-વાક્યો) — આ સંયોજક-વ્યાકરણની સ્વતંત્ર કસોટી છે, પાઠનું કોઈ વાચન-દૃશ્ય એને તૈયાર કરતું નથી."
+      },
+      {
+        "exercise_id": "EX59",
+        "exercise_group": "શબ્દ-બદલી",
+        "prompt_verbatim": "હું __કે__ ભોલુ પાકા મિત્રો છીએ.",
+        "reason": "આ સંયોજક-સુધારણા બ્લૉકનાં વાક્યો પાઠના પોતાના કથન સાથે કોઈ સંબંધ ધરાવતાં નથી (ક્રિકેટ, પાણીપૂરી, ફુગ્ગો, બ્રશ, માટીકામ, ખેડૂતની બાજરી-ઘઉંની દ્વિધા જેવાં સ્વતંત્ર ઉદાહરણ-વાક્યો) — આ સંયોજક-વ્યાકરણની સ્વતંત્ર કસોટી છે, પાઠનું કોઈ વાચન-દૃશ્ય એને તૈયાર કરતું નથી."
+      },
+      {
+        "exercise_id": "EX60",
+        "exercise_group": "શબ્દ-બદલી",
+        "prompt_verbatim": "મોન્ટુ નિયમિત બ્રશ કરતો નથી __છતાં__ તેના દાંત બગડ્યા છે.",
+        "reason": "આ સંયોજક-સુધારણા બ્લૉકનાં વાક્યો પાઠના પોતાના કથન સાથે કોઈ સંબંધ ધરાવતાં નથી (ક્રિકેટ, પાણીપૂરી, ફુગ્ગો, બ્રશ, માટીકામ, ખેડૂતની બાજરી-ઘઉંની દ્વિધા જેવાં સ્વતંત્ર ઉદાહરણ-વાક્યો) — આ સંયોજક-વ્યાકરણની સ્વતંત્ર કસોટી છે, પાઠનું કોઈ વાચન-દૃશ્ય એને તૈયાર કરતું નથી."
+      },
+      {
+        "exercise_id": "EX61",
+        "exercise_group": "શબ્દ-બદલી",
+        "prompt_verbatim": "નીરવે માટીમાંથી સુંદર હાથી __છતાં__ ઘોડા બનાવ્યા, પણ તેને માટીકામની પ્રવૃત્તિમાં ઈનામ મળ્યું.",
+        "reason": "આ સંયોજક-સુધારણા બ્લૉકનાં વાક્યો પાઠના પોતાના કથન સાથે કોઈ સંબંધ ધરાવતાં નથી (ક્રિકેટ, પાણીપૂરી, ફુગ્ગો, બ્રશ, માટીકામ, ખેડૂતની બાજરી-ઘઉંની દ્વિધા જેવાં સ્વતંત્ર ઉદાહરણ-વાક્યો) — આ સંયોજક-વ્યાકરણની સ્વતંત્ર કસોટી છે, પાઠનું કોઈ વાચન-દૃશ્ય એને તૈયાર કરતું નથી."
+      },
+      {
+        "exercise_id": "EX62",
+        "exercise_group": "શબ્દ-બદલી",
+        "prompt_verbatim": "મારી મમ્મી __છતાં__ માસી બંનેને ખૂબ જ સારા લાડવા બનાવતાં આવડે છે __તેથી__ તેમને મોહનથાળ બનાવવામાં વધુ રસ છે.",
+        "reason": "આ સંયોજક-સુધારણા બ્લૉકનાં વાક્યો પાઠના પોતાના કથન સાથે કોઈ સંબંધ ધરાવતાં નથી (ક્રિકેટ, પાણીપૂરી, ફુગ્ગો, બ્રશ, માટીકામ, ખેડૂતની બાજરી-ઘઉંની દ્વિધા જેવાં સ્વતંત્ર ઉદાહરણ-વાક્યો) — આ સંયોજક-વ્યાકરણની સ્વતંત્ર કસોટી છે, પાઠનું કોઈ વાચન-દૃશ્ય એને તૈયાર કરતું નથી."
+      },
+      {
+        "exercise_id": "EX63",
+        "exercise_group": "શબ્દ-બદલી",
+        "prompt_verbatim": "વરસાદ ઓછો થતાં ખેડૂત દ્વિધામાં હતો __પણ__ બાજરી વાવવી __અને__ ઘઉં.",
+        "reason": "આ સંયોજક-સુધારણા બ્લૉકનાં વાક્યો પાઠના પોતાના કથન સાથે કોઈ સંબંધ ધરાવતાં નથી (ક્રિકેટ, પાણીપૂરી, ફુગ્ગો, બ્રશ, માટીકામ, ખેડૂતની બાજરી-ઘઉંની દ્વિધા જેવાં સ્વતંત્ર ઉદાહરણ-વાક્યો) — આ સંયોજક-વ્યાકરણની સ્વતંત્ર કસોટી છે, પાઠનું કોઈ વાચન-દૃશ્ય એને તૈયાર કરતું નથી."
+      },
+      {
+        "exercise_id": "EX64",
+        "exercise_group": "અનુવાદ",
+        "prompt_verbatim": "ચંદ્રમા કેવો વિચિત્ર છે ! એનો બધો પ્રકાશ એને સૂર્ય પાસેથી મળે છે, પણ જ્યારે તે સૂર્યથી દૂર હોય છે ત્યારે\nજ તે આપણને વધારે પ્રકાશ આપી શકે છે.",
+        "reason": "ચંદ્રમા વિશેનો આ ફકરો પાઠના 'લીલી નજર' કથન સાથે કોઈ સંબંધ ધરાવતો નથી — આ સ્વતંત્ર, સામાન્ય અનુવાદ-અભ્યાસ ફકરો છે (std-8ના તમામ 15 પ્રકરણોમાં છેલ્લા બ્લૉક તરીકે છપાય છે), પાઠનું કોઈ વાચન-દૃશ્ય એને તૈયાર કરતું નથી."
+      }
+    ],
+    "_note": "unmapped covers the શબ્દ-બદલી (સંયોજક) block's 8 items and the standing અનુવાદ block's 1 item — both use sentences/paragraphs independent of this chapter's own narrative (generic grammar-drill sentences and a standing std-8 translation paragraph about the moon), so no reading scene in this chapter prepares them; every other block maps to the ઘટના topics that carry its source text."
+  }
+}

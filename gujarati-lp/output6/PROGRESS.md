@@ -1,6 +1,6 @@
 # gujarati-lp std-6 progress
 
-_2026-08-29 16:17:09_ — **5 agent(s) writing recently**
+_2026-08-30 08:26:05_ — **no agents writing**
 
 | ch | A1 | A2 | A4 | A11 | A5 | A7 | A8 | A9 | A10 | A12 | A16 | A13 | A14 | LP2 | done |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -22,11 +22,7 @@ _2026-08-29 16:17:09_ — **5 agent(s) writing recently**
 
 ## Live agents
 
-- `a21ad4941cb134ee8` idle 10.0m (0.5 MB) in wf_ce9b46a0-e15
-- `a1ee6eb32d97fb3bc` idle 5.9m (0.4 MB) in wf_ce9b46a0-e15
-- `a23c84376c7346776` idle 2.1m (3.2 MB) in wf_ce9b46a0-e15
-- `a49c9f1d6f6e771ce` idle 1.6m (1.8 MB) in wf_ce9b46a0-e15
-- `a91497956d7215493` idle 0.1m (0.5 MB) in wf_ce9b46a0-e15
+- none
 
 ## Resume
 

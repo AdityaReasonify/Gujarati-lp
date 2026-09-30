@@ -1,0 +1,11 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "3007838fcb40503027b5dc0fa61322099345508424f85c3af4a55b75e7764b93",
+  "verdict": "pass",
+  "notes": [
+    "Ids frozen from this point per loop_protocol.md and naming_conventions.md — 12 topics (T1..T12), 6 segments (S1..S6), 3 modules (M1..M3), 12 concepts (C1..C12, chapter-continuous, C{n}==T{n}), 12 objectives (O1..O12) with strand_to_objective_map L1..L12 fully resolved.",
+    "See 04_validation.json for the full check-by-check verdict, including a flagged (non-blocking) context-routing gap: profiles/genres/gazal.md was not among this run's supplied policy documents even though the agent spec names 'the active genre profile(s)' as an input; the pass relies instead on explanation_unit_map.md's ગઝલ row (supplied) plus independent verification of the cut, coverage, and id grammar.",
+    "Downstream agents: read 02_structure.json for structure; read this file only to confirm convergence and match the sha256 against the structure file on disk."
+  ]
+}

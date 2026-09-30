@@ -1,0 +1,8 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9",
+  "textbook_url": "../Textbooks-pdf/std-9/ch-14-maru-taru.pdf",
+  "textbook_pages": "73–75",
+  "source": "printed folio, read off renders (150 dpi, this agent's own scratch/run-s9c14-11) of pdf pp. 1 and 3 of the chapter PDF: p.1 footer folio reads 73, p.3 footer folio reads 75. Cross-checked against manifest.json (std-9, ch 14: printed_start 73, pdf_start 77, pdf_end 79 — 3 pdf pages, consistent with 73–75) and against 01_meta.json's extraction_notes, which independently confirm the same range via a double render (150 dpi + 300 dpi) in scratch/run-s9c14-2.",
+  "confidence": "medium",
+  "gaps": ["textbook_url is a local path — the GSEB readers have no hosted URL", "std 9 cover has not been read/confirmed (per profiles/boards/gseb_gujarati.md); textbook title is carried from 01_meta.json, not confirmed against a read cover"]
+}

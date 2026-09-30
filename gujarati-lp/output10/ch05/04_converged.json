@@ -1,0 +1,11 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "12cc3225aeef98c72739b6a57a7ddb6f250018083068fff4224b8385bf53b8d0",
+  "verdict": "pass",
+  "notes": [
+    "All three Agent-4 checks (સ્વરૂપ fidelity, coverage, objectives/phase-2 contract) passed on the first and only pass; full detail is in 04_validation.json.",
+    "Ids frozen from this point: modules M1, M2, M3; segments M1.S1, M2.S2, M2.S3, M3.S4, M3.S5, M3.S6, M3.S7; topics M1.S1.T1, M2.S2.T2, M2.S3.T3, M2.S3.T4, M3.S4.T5, M3.S4.T6, M3.S4.T7, M3.S5.T8, M3.S6.T9, M3.S6.T10, M3.S7.T11, M3.S7.T12; concepts C1-C17 (chapter-continuous); objectives O1-O12.",
+    "Downstream agents read 02_structure.json directly for the structure payload; this file exists only to record the convergence verdict and the sha256 of the exact structure content that was validated."
+  ]
+}

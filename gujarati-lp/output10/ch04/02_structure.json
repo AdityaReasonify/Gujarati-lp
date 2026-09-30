@@ -1,0 +1,198 @@
+{
+  "chapter_id": "gseb_eng_gujarati10_ch4",
+  "plan_id": "gseb_eng_gujarati10_ch4_v1",
+  "genre": "પ્રાર્થના-કાવ્ય",
+  "active_genre_profiles": ["prarthana_kavita.md"],
+  "teaching_lens": "યાચના + સંબોધન + આત્મબળ",
+  "guiding_question": "કવિ 'મારું જીવન અંજલિ થાજો' કહીને પોતાના જીવન પાસેથી શું-શું માગે છે, અને એ માગણી પરથી 'બીજા માટે જીવવું' એટલે શું એ કેવી રીતે સમજાય છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કરસનદાસ માણેકના ટૂંકા પરિચય અને કૃતિ-પરિચય પરથી 'જીવન અંજલિ થાજો' પ્રાર્થનાકાવ્યનો વિષય અને તેની ધ્રુવપંક્તિનું મહત્ત્વ ઓળખવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ 'ભૂખ્યાં કાજે ભોજન બનજો, તરસ્યાંનું જળ થાજો' કડીમાં પોતાના જીવન પાસેથી શું માગે છે તે તારવીને, ટેક 'મારું જીવન અંજલિ થાજો' સાથે એ માગણીનો સંબંધ સમજાવવો.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": ["M1.S2.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ 'સતની કાંટાળી કેડી પર પુષ્પ બની પથરાજો' પંક્તિમાં સત્યના માર્ગ પરના કષ્ટને પુષ્પ બનીને સહેવાની અને ઝેરને અમૃતમાં પલટવાની માગણી કેવી રીતે કરે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": ["M1.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ 'વણથાક્યાં ચરણો મારાં નિત તારી સમીપે ધાજો' અને 'હૈયાનાં પ્રત્યેક સ્પન્દને તારું નામ રટાજો' પંક્તિઓમાં પોતાના સતત ઈશ્વર-સાંનિધ્ય અને નામ-સ્મરણની ઝંખના કેવી રીતે વ્યક્ત કરે છે તે તારવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S3.T4",
+      "anchor": ["M1.S3.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ 'વમળોની વચ્ચે નૈયા મુજ હાલકડોલક થાજો' છતાં 'શ્રદ્ધા કેરો દીપક મારો નવ કદીયે ઓલવાજો' કહીને, મુશ્કેલી વચ્ચે પણ શ્રદ્ધા અતૂટ રાખવાની ઝંખના કેમ વ્યક્ત કરે છે તે મૂલવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M1.S3.T5",
+      "anchor": ["M1.S3.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "અંજલિરૂપ જીવનની પ્રાર્થના",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "કવિ અને પ્રાર્થનાકાવ્યનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "કરસનદાસ માણેક અને પ્રાર્થનાકાવ્યનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "કરસનદાસ માણેકનો કવિ-પરિચય અને પ્રાર્થનાકાવ્યનો કૃતિ-પરિચય"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "બીજા માટે જીવન વહેંચવાની માગણી",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "ભૂખ્યાં-તરસ્યાં માટે જીવન વહેંચવાની માગણી",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "ટેક અને પહેલી કડી: ભૂખ્યાં-તરસ્યાં માટે થવાની અને આંસુ લૂછવાની માગણી"
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "સત્યને માર્ગે કષ્ટ સહી ભલું આપવાની માગણી",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M1.S2.T2"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "બીજી કડી: સત્યને માર્ગે કષ્ટ સહી અમૃત વહેંચવાની માગણી"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S3",
+          "segment_name": "શ્રદ્ધા અને ભક્તિની માગણી",
+          "topics": [
+            {
+              "topic_id": "M1.S3.T4",
+              "topic_name": "ઈશ્વર-સાંનિધ્ય અને નામ-સ્મરણની ઝંખના",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S2.T2"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S3.T4.C4",
+                  "concept_name": "ત્રીજી કડી: ઈશ્વર-સાંનિધ્ય અને નામ-સ્મરણની ઝંખના"
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S3.T5",
+              "topic_name": "વમળો વચ્ચે અણનમ શ્રદ્ધાની માગણી",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": ["M1.S2.T2"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S3.T5.C5",
+                  "concept_name": "ચોથી કડી: વમળો વચ્ચે પણ શ્રદ્ધાનો દીવો ન ઓલવવાની માગણી"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut is કડી-wise per prarthana_kavita.md and explanation_unit_map.md: 'one કડી of the petition, with the ધ્રુવપંક્તિ quoted inside it — never cut between the asking and what is asked for.' 01_meta.json confirms the ટેક's wording is identical at all five printed occurrences ('the wording is identical at all five'), so per the profile's ટેક rule ('teach it once, reference it after... every later કડી topic naming it carries that topic in depends_on') exactly one topic teaches the ટેક and the other three carry it in depends_on.",
+    "Marker accounting (Agent 4 check): 00_chapter_normalized.md prints, in order, [[કવિ-પરિચય]] [[કૃતિ-પરિચય]] [[ટેક]](opening 2-line) [[કડી 1]] [[ટેક]](repeat) [[કડી 2]] [[ટેક]](repeat) [[કડી 3]] [[ટેક]](repeat) [[કડી 4]] [[ટેક]](repeat) [[સ્રોત-નિર્દેશ]] — 2 પરિચય + 5 ટેક + 4 કડી + 1 સ્રોત-નિર્દેશ = 12 markers. Assignment: M1.S1.T1 takes the 2 પરિચય markers; M1.S2.T2 takes the opening ટેક + કડી1 + the first repeat ટેક (this is 'the topic where [the ટેક] first appears', teaching it); M1.S2.T3 takes કડી2 + its following repeat ટેક; M1.S3.T4 takes કડી3 + its following repeat ટેક; M1.S3.T5 takes કડી4 + its following (5th, final) repeat ટેક + the trailing [[સ્રોત-નિર્દેશ]] line. Every one of the 12 markers is assigned to exactly one topic, none dropped, none doubled — 2+3+2+2+3=12.",
+    "Why the opening ટેક joins M1.S2.T2 rather than standing alone: per agents/02_structure.md's 'a pre-topic hook belongs to the NEXT topic' and prarthana_kavita.md's four-move description of one petition ('1. સંબોધન... 2. માગણી... 3. કારણ કે શરત... 4. ટેક પાછી આવે'), the address that opens the poem is step 1 of કડી 1's own petition-move, not a topic of its own — the ટેક never appears anywhere without a કડી attached to it on this page, so it cannot be a standalone topic under global_content_rules.md/the profile's structural gate ('a topic containing only the condition clause is a blocking structural fail').",
+    "[[સ્રોત-નિર્દેશ]] ('હરિનાં લોચનિયાં' માંથી) is the printed source-collection line, not a poet-signature છાપ (this પ્રાર્થનાકાવ્ય's modern named poet signs nothing inside the verse, per genre_signals). Following the same convention output10/ch01 used for a પદ's trailing attribution line, it is placed inside the LAST topic's (M1.S3.T5) original_chunk tail — noted here so Agent 5 does not treat it as a separate topic or drop it.",
+    "Segment split (M1.S2 = કડી1+કડી2, M1.S3 = કડી3+કડી4) follows the poem's own thematic turn, read off the four કડી's content: કડી1-2 ask to be spent USEFULLY for others in the world (food/water/tears in કડી1; enduring the world's poison to give back nectar on truth's path in કડી2), while કડી3-4 turn the asking toward the poet's own relationship with the addressee (tireless nearness and name-remembrance in કડી3; an unwavering lamp of faith through life's whirlpools in કડી4). This is a real content grouping, not an arbitrary halving of four topics into two-and-two.",
+    "difficulty: M1.S2.T3 (કડી2) alone is marked 'hard' among the four કડી topics, on page evidence rather than a general impression — the chapter's own [[ભાષા-અભિવ્યક્તિ]] box singles out exactly this કડી's diction as its craft example: 'સતની કાંટાળી કેડી પર પુષ્પ બની પથરાજો' અહીં... કવિએ એક જ વિશેષણ 'કાંટાળી' મૂકીને ધાર્યું નિશાન સાધી લીધું છે... 'પુષ્પ બની'થી રજૂ થઈ છે. A std-10 L2 reader must hold two metaphors at once (પુષ્પ બની = becoming a flower on a thorny path; ઝેર...અમૃત = swallowing poison, giving nectar) with no supporting picture beyond the words themselves — matching agents/02_structure.md's std-9–10 hard criterion 'a named-device line'. The other three POEM topics carry a comparably dense તત્સમ-tinged lexicon (per prarthana_kavita.md's own priors) but ask for one direct, single-image petition each, so they stay 'medium'. M1.S1.T1 (પરિચય prose) is 'easy', matching the ch01/ch03 precedent for this same CONCEPT topic type.",
+    "topic_category: M1.S1.T1 'introduction' (pre-reading). M1.S2.T2 and M1.S2.T3 'core' (the outward-facing service petitions). M1.S3.T4 'core' (the turn toward the addressee). M1.S3.T5 'climax' — the poem's most intense image (a faith-lamp that must not go out amid a rocking boat in whirlpools) and its final printed કડી; nothing after it steps back to summarise or resolve, so no topic carries 'resolution' in this chapter.",
+    "depends_on: M1.S1.T1 and M1.S2.T2 are both [] — M1.S2.T2 is the first reading scene of the poem itself and, per the ch01 precedent, does not structurally depend on the preceding પરિચય topic (real prerequisite chains, not reading-order helpfulness). M1.S2.T3, M1.S3.T4 and M1.S3.T5 each carry ['M1.S2.T2'] because that topic is where the ટેક is taught for the first time and each of these three quotes the same, unchanged ટેક line inside its own original_chunk without re-teaching it.",
+    "No અલંકાર, પ્રાસ pattern or છંદ label is asserted anywhere in this file's objective_text, topic_name, module_name, segment_name or concept_name, per no_hallucination_policy.md and prarthana_kavita.md's avoid-list ('Invented craft... a named અલંકાર that is not on the page is a hard fail'); naming and gating figures_of_speech is Agent 5/7's task from the actual page, not this agent's to pre-empt.",
+    "No sentence anywhere in this file reads the poem's petition as instruction to the child ('… જોઈએ') or as doubt of the addressee — objective_text stays descriptive of what the poet asks and why, per the profile's avoid-list ('Turning the prayer into a moral', 'Reading the asking as doubt').",
+    "Everything from [[શબ્દ-સમજૂતી]] onward (the three શબ્દ-સમજૂતી sub-boxes, [[સ્વાધ્યાય-બૅનર]] and its four-tier સ્વાધ્યાય ladder plus વિદ્યાર્થી-પ્રવૃત્તિ, [[ભાષા-અભિવ્યક્તિ]], [[શિક્ષકની ભૂમિકા]]) is apparatus/exercise territory per global_content_rules.md §7 and explanation_unit_map.md's apparatus rule — already recorded in 01_meta.json's exercise_inventory and extraction_notes, and none of it is cut as a topic here. [[ભાષા-અભિવ્યક્તિ]] is read and used only as difficulty evidence above, never as a topic.",
+    "Five topics across one module is a short, single-poem chapter (3 printed pages, one પ્રાર્થનાકાવ્ય, four કડી) — not an under-cut. Splitting a single કડી into two topics, or merging two કડી into one, would both violate prarthana_kavita.md's 'one કડી of the petition' rule; the module stays singular (M1) because the chapter has one sustained movement, not two — matching the single-module precedent already set by output10/ch01 for this same std-10 reader.",
+    "original_chunk is left empty in all five topics per this agent's mandate ('original_chunk stays empty; Agent 5 fills it'). Agent 5 transcribes from the render, carrying forward the marker-to-topic assignment recorded above, including the trailing [[સ્રોત-નિર્દેશ]] line inside M1.S3.T5."
+  ]
+}

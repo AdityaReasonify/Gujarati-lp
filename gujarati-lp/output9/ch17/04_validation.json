@@ -1,0 +1,44 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "explanation_unit is 'એક પ્રસંગ' (nibandh_atmaparak.md's પ્રસંગ/વળાંક-wise unit) — no કડી, દુહો or પદ markers apply (structure_inventory.kadi=duha=pad=tek_occurrences=0), so the કડી/દુહા/પદ/ટેક equal-count rules are not applicable to this chapter and are treated as vacuously satisfied.",
+        "Not a mixed chapter; single genre nibandh_atmaparak throughout, matching the profile's own provenance list which names this exact chapter (std-9 ch17 છબિ ભીતરની) as its settled નિબંધ/patra_pravas near-miss, resolved here (memory-ordered, not itinerary-ordered).",
+        "Profile avoid-list item 2 ('no topic carries topic_category: climax') checked directly against all 7 topics: categories used are introduction (T1,T2), core (T3,T4,T6), resolution (T5,T7) only — no climax anywhere. 'resolution' used twice is accepted: the chapter genuinely holds two independent, separately sub-headed memory-movements (ગાંધીની બલિહારી ending on T5's unfinished-sentence ચોટ; માનવીમનની ગંગાજમની ending on T7's closing question-and-tears), each ending on its own writer's ચોટ rather than a shared plot climax — consistent with the profile's own framing that આત્મકથાખંડ/સંસ્મરણ has પ્રસંગ, not પ્લોટ.",
+        "Sub-head-is-a-cut rule (profile line 166-167) correctly applied: 'ગાંધીની બલિહારી' embedded at the start of T3's original_chunk-to-be, 'માનવીમનની ગંગાજમની' at the start of T6's — matches the profile's explicit instruction for this exact chapter.",
+        "No objective moralises or asks/answers a 'why did a character choose' plot question (avoid item 2/3) — all six objective_text entries ask the learner to state/explain a text-stated fact or sequence, none close on a બોધ/ઉપદેશ sentence.",
+        "Objective content, cut boundaries and topic scope could not currently be checked against original_chunk for avoid items 1 and 4-7 (voice-flattening, joke-apology, irony-inversion, spoken-register correction, invented interiority) because every topic's original_chunk is still '' at this pre-Agent-5 stage — those checks are Agent 7/13's job once content exists, not blocking here."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 7,
+      "topics": 7,
+      "notes": [
+        "Verified directly against 00_chapter_normalized.md: exactly 7 content markers in document order — [[લેખક-પરિચય]] L23, [[કૃતિ-પરિચય]] L31, 5x [[ઘટના: ...]] at L39/L57/L65/L75/L85 — map one-to-one and in the same order to topics M1.S1.T1, M1.S1.T2, M2.S2.T3, M2.S3.T4, M2.S3.T5, M3.S4.T6, M3.S4.T7. No marker was skipped and no topic lacks a marker.",
+        "Pre-reading opener (લેખક-પરિચય + કૃતિ-પરિચય) is captured as topics T1-T2, ordered first. No in-text summary/wrap marker exists in this chapter beyond the closing gesture, which per the genre profile's own rule is folded into the last topic (T7), not a separate wrap topic — correctly not invented as one.",
+        "No સ્વાધ્યાય block became a topic: cross-checked all 3 exercise_inventory groups in 01_meta.json (MCQ/4 items, બે-ત્રણ વાક્યમાં/3 items, સવિસ્તાર/1 item) against all 7 topic_name values and original_chunk plans — zero overlap. The 3 [[સ્વાધ્યાય: ...]] markers plus [[શબ્દ-સમજૂતી]], [[વિદ્યાર્થી-પ્રવૃત્તિ]], [[ભાષા-અભિવ્યક્તિ]] and [[શિક્ષકની ભૂમિકા]] in the normalized md are all correctly left uncut as topics.",
+        "No topic covers text no marker claims: each topic's scope corresponds exactly to its own marker's block (with the two sub-head lines correctly folded into T3/T6 per the genre rule, not extending further)."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 6,
+      "notes": [
+        "objectives[] holds O1-O6, all objective_id unique; strand_to_objective_map maps L1-L6 to O1-O6 exactly once each, covering every legacy_id with no gap or duplicate.",
+        "Every home_topic_id (M1.S1.T1, M1.S1.T1, M2.S2.T3, M2.S3.T4, M2.S3.T5, M3.S4.T6, M3.S4.T7 — O1 and O1 for the shared intro pair) and every anchor[] concept id (C1-C7) resolves to an existing node in the tree; checked each of the 6 objectives individually.",
+        "Every one of the 7 topics carries objective_ids resolving to the registry (T1,T2→O1; T3→O2; T4→O3; T5→O4; T6→O5; T7→O6) — one sound anchor per reading scene, matching Check 3's requirement, with O1 legitimately shared by the two pre-reading CONCEPT topics (consistent with the output9/ch01 precedent cited in 02_structure.json's own notes).",
+        "Each objective_text names a chapter-specific fact or sequence (અશ્વિન મહેતા, the two printed sub-heads, the Sydney hotel-owner, the New York book-vendor, the New York waitstaff and the unfinished sentence, હુકમસિંહ, the unnamed old mother) — none could be pasted into another chapter, and all serve the teaching_lens 'સ્વર + પ્રસંગ + પોતાની જાત પરની નજર'.",
+        "Ids match naming_conventions.md: M1-M3, S1-S4 and T1-T7 are dotted and chapter-continuous (segments/topics do not restart per module, confirmed in 02_structure.json's own notes and independently re-checked here); concept counter is chapter-continuous with c = t for every topic (C1..C7, one concept per topic); no M{m}.S{s}.T{t}.P{n}-style objective code appears anywhere — objectives live only as root O{n}."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "CARRIED FORWARD, non-blocking for this structure-only pass but load-bearing for the next agent: 00_chapter_normalized.md's own NOTE header, 01_meta.json's extraction_notes and every topic note in 02_structure.json record that the narrative prose under all 5 [[ઘટના: ...]] markers (plus the લેખક-પરિચય/કૃતિ-પરિચય paragraphs) is currently a close STRUCTURED PARAPHRASE, not a word-for-word transcription — withheld on copyright grounds for this in-copyright, Sahitya-Akademi-winning essay collection (અશ્વિન મહેતા, d. 2014). This does not fall under any of Agent 4's three checks (it is not an explanation-unit/કડી/દુહો/પદ/ટેક mismatch, not a coverage gap, and not an objective/id defect — the cut, coverage and objective registry built on top of the paraphrase are all structurally sound) and every affected topic's original_chunk is currently '' pending Agent 5, so nothing has been frozen with paraphrased text in it. Restated here only so it is not lost between this file and Agent 13's validation_report.md: before Agent 5 fills any of this chapter's 7 original_chunk fields, an exact verbatim transcription must be re-derived from the rendered source pages (pdftoppm -png -r 150-200 on Textbooks-pdf/std-9/ch-17-chhabi-bhitarni.pdf, printed pp. 83-84), per reference/gujarati_verbatim.md and reference/no_hallucination_policy.md. This gap should still be surfaced to the pipeline owner, as the prior two agents both requested.",
+    "topic_category 'resolution' is used twice (T5, T7) rather than the more typical once-per-chapter pattern; 02_structure.json's own notes record this as a deliberate, non-default choice for two independent sub-headed memory-movements. Reviewed under avoid-list item 2 (no 'climax' anywhere) and found compliant; flagged again here only so Agent 13 sees it was explicitly weighed, not overlooked."
+  ]
+}

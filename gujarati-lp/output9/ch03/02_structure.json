@@ -1,0 +1,272 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch3",
+  "genre": "urmikavya_geet",
+  "active_genre_profiles": ["urmikavya_geet.md"],
+  "explanation_unit": "એક કડી",
+  "teaching_lens": "ચિત્ર + ભાવ + અલંકાર",
+  "guiding_question": "ગુજરાતી માણસ જ્યાં જાય ત્યાં ગુજરાત સાથે લઈ જાય છે — કવિ કયાં કયાં ચિત્રો મૂકીને આ વાત આપણી આંખ સામે ઊભી કરે છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કૃતિ-પરિચયમાં આપેલી માહિતી પરથી કવિ ખબરદારનું નામ, તેમનો સમય અને આ કાવ્ય ગુજરાતના મહિમાને શા માટે ગાય છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ટેકની પંક્તિ 'જ્યાં જ્યાં વસે' 'જ્યાં જ્યાં બોલાતી'માં કેમ બદલાય છે તે શોધીને, વસવું અને ભાષા બોલવી એ બંને રીતે ગુજરાત કેવી રીતે જીવે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T2",
+      "anchor": ["M2.S2.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ સૂર્યનાં કિરણો અને હસતી ઉષાના ચિત્રથી કઈ રીતે બતાવે છે કે ગુજરાત ચારે દિશામાં જ્યાં ગુજરાતી વસે ત્યાં પ્રકાશે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T3",
+      "anchor": ["M2.S3.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'ગુર્જર વાણી, ગુર્જર લહાણી, ગુર્જર શાણી રીત' પંક્તિમાં એક જ શબ્દની પુનરાવૃત્તિ કઈ રીતે ગુજરાતી પ્રજાના ગુણો ગણાવે છે તે શોધવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": ["M2.S3.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કૃષ્ણ અને દયાનંદ જેવા મહામાનવોની પુણ્યભૂમિ તરીકે ગુજરાતને ઓળખાવતી પંક્તિ શોધી, ગુર્જર ભરતી-છાતીના ચિત્રથી કવિ કયું ગૌરવ વ્યક્ત કરે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": ["M2.S3.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'અણકીધાં કરવાના કોડે અધૂરાં પૂરાં થાય' પંક્તિ પરથી, ગુજરાતી પ્રજાના મનમાં રહેલી અધૂરાં કામ પૂરાં કરવાની ઝંખના કઈ રીતે વ્યક્ત થાય છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T6",
+      "anchor": ["M2.S4.T6.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કાવ્યની અંતિમ પંક્તિઓ 'જય જય જન્મ સફળ ગુજરાતી, જય જય ધન્ય અદલ ગુજરાત' કઈ રીતે કવિના સમગ્ર ગૌરવભાવને એક જયઘોષમાં સમેટે છે તે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S4.T7",
+      "anchor": ["M2.S4.T7.C7"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "કવિ-પરિચય અને કાવ્યભૂમિકા",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "કવિ અને કૃતિનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "કવિ ખબરદાર અને કાવ્યનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "કવિ ખબરદાર અને કાવ્યનો પરિચય"
+                }
+              ],
+              "note": "Carries both [[કવિ-પરિચય]] and [[કૃતિ-પરિચય]] markers as ONE topic, unlike output9/ch01 where the two markers stayed separate. Reason for the difference: ch01's two apparatus paragraphs each stood on their own printed content large enough to teach separately (poet's life vs. the chhappa form's satirical purpose); here the કવિ-પરિચય is two short lines of biographical fact (birthplace, occupation, book titles) and the કૃતિ-પરિચય is a single short paragraph directly restating the poem's own theme (ગુજરાત is wherever a Gujarati lives) — reading them apart would split one preparatory thought into two thin topics. Kept together as the chapter's single pre-reading CONCEPT scene, per 02_structure.md's 'Topics are reading scenes only... the pre-reading opener is a topic.' Flagged here per spec's instruction to note any thin-name / uneven-split judgement call for Agent 4/13."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "જ્યાં જ્યાં વસે એક ગુજરાતી",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ટેકનો ઉદ્‌ઘોષ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T2",
+              "topic_name": "જ્યાં ગુજરાતી ત્યાં ગુજરાત — ટેકનો ઉદ્‌ઘોષ",
+              "topic_type": "POEM",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T2.C2",
+                  "concept_name": "જ્યાં ગુજરાતી ત્યાં ગુજરાત — ટેકનો ઉદ્‌ઘોષ"
+                }
+              ],
+              "note": "First [[ટેક]] marker — the printed four-line opening block: the fixed refrain couplet 'જ્યાં જ્યાં વસે એક ગુજરાતી / ત્યાં ત્યાં સદાકાળ ગુજરાત' immediately followed, same block, by the changed-words couplet 'જ્યાં જ્યાં બોલાતી ગુજરાતી / ત્યાં ત્યાં ગુર્જરીની મહોલાત' (01_meta.json's 'Changed-words ટેક' note). This is the ONE occurrence urmikavya_geet.md's changed-words rule bites on in this chapter — 'વસે' (living somewhere) changes to 'બોલાતી' (the language being spoken), a new claim about the same idea, so it is taught here as its own topic. The four LATER [[ટેક]] markers (after કડી 1, 2, 3, and in the closing block after કડી 5) repeat the fixed couplet identically and are NOT cut as separate topics — per the profile's rule 'Where the ટેક returns identical, teach it once and reference it after' — they are referenced via depends_on on this topic (T3, T4, T5, T7 below) instead."
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "ગુજરાતીની ઓળખનાં ચિત્રો",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T3",
+              "topic_name": "સૂર્યનાં કિરણો અને ઉષાનું ચિત્ર",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M2.S2.T2"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T3.C3",
+                  "concept_name": "સૂર્યનાં કિરણો અને ઉષાનું ચિત્ર"
+                }
+              ],
+              "note": "Marker [[કડી 1]] — three printed lines (ઉત્તર દક્ષિણ પૂર્વ કે પશ્ચિમ… / સૂર્ય તણાં કિરણો… / જેની ઉષા હસે…), followed in the same printed flow by the identical [[ટેક]] repeat. depends_on T2 because this કડી closes on the identical ટેક first taught there — real sequencing dependence, not merely thematic."
+            },
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "ગુર્જર વાણી, લહાણી અને ઉદ્યમની ઓળખ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M2.S2.T2"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "ગુર્જર વાણી, લહાણી અને ઉદ્યમની ઓળખ"
+                }
+              ],
+              "note": "Marker [[કડી 2]] — three printed lines (ગુર્જર વાણી ગુર્જર લહાણી… / જંગલમાં પણ મંગલ… / જેને ઉર ગુજરાત…), followed by the identical [[ટેક]] repeat. depends_on T2 (same identical-ટેક dependency as T3, not T3 itself — the કડીઓ are parallel picture-panels, not a narrative chain into each other)."
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "કૃષ્ણ-દયાનંદની પુણ્યભોમ અને ગુર્જર શૌર્ય",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M2.S2.T2"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "કૃષ્ણ-દયાનંદની પુણ્યભોમ અને ગુર્જર શૌર્ય"
+                }
+              ],
+              "note": "Marker [[કડી 3]] — three printed lines (કૃષ્ણ દયાનંદ દાદા કેરી… / ખંડ ખંડ જઈ ઝૂઝે ગર્વે… / ગુર્જર ભરતી ઊછળે છાતી…), followed by the identical [[ટેક]] repeat (which 01_meta.json records as printed fused, same block, immediately before [[કડી 4]] with no blank line — the ટેક itself still belongs to this કડી, not to કડી 4, since it is what કડી 3's own reading closes on). Set 'hard' (relative to this chapter only, per teaching_lens_map.md's std 9-10 criterion): the named historical/devotional figures કૃષ્ણ, દયાનંદ (સરસ્વતી) and 'દાદા' (દાદાભાઈ નવરોજી, per the book's own શબ્દ-સમજૂતી gloss) packed into one line, plus the battle-image 'ખંડ ખંડ જઈ ઝૂઝે ગર્વે', are what stop an L2 std-9 reader here — not craft-naming. Flagged for Agent 8 (sensitivity): named religious/national figures require care per global_content_rules.md rule 10 and this profile's 'Political framing' avoid-gate — 01_meta.json's extraction_notes already record this chapter's pull toward slogan/political framing as unusually strong."
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "સ્નેહ-શૌર્ય-સત્યનો જયઘોષ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T6",
+              "topic_name": "અધૂરાં કોડ પૂરાં કરવાની ઝંખના",
+              "topic_type": "POEM",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": ["M2.S3.T5"],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T6.C6",
+                  "concept_name": "અધૂરાં કોડ પૂરાં કરવાની ઝંખના"
+                }
+              ],
+              "note": "Marker [[કડી 4]] — two printed lines only (અણકીધાં કરવાના કોડે અધૂરાં પૂરાં થાય / સ્નેહ શૌર્ય ને સત્ય તણાં ઉર વૈભવ રાસ રચાય), printed in the SAME block as the ટેક that closes કડી 3, with no blank line before it (01_meta.json's fusion note) and no ટેક of its own following it — the poem moves straight into [[કડી 5]] instead. Shorter than કડી 1-3 (two lines vs. three) because that is what the page prints, not a transcription gap. depends_on T5 (કડી 3) because it is the next verse unit read in sequence, immediately following in the same printed block with no intervening ટેક-topic to depend on here. topic_category 'transition' because this કડી breaks the કડી+ટેક pattern of S3 and turns the poem from cataloguing pictures (S3) to the closing declaration (T7) — no picture-image objective is claimed beyond the aspiration itself, per the profile's rule against literal/forced morals: the line's own words (કોડ, અધૂરાં, રાસ) are what the objective and later explanation must stay inside."
+            },
+            {
+              "topic_id": "M2.S4.T7",
+              "topic_name": "ગુજરાતનો જયજયકાર",
+              "topic_type": "POEM",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": ["M2.S4.T6", "M2.S2.T2"],
+              "objective_ids": ["O7"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T7.C7",
+                  "concept_name": "ગુજરાતનો જયજયકાર"
+                }
+              ],
+              "note": "Marker [[કડી 5]] — two printed lines (જય જય જન્મ સફળ ગુજરાતી / જય જય ધન્ય અદલ ગુજરાત), printed in the same block as, and immediately followed by, the closing [[ટેક]] (identical fixed couplet, fifth and final occurrence). depends_on both T6 (the immediately preceding કડી, same reading flow) and T2 (the ટેક this closing block returns to, identical wording, per the profile's identical-ટેક depends_on rule). This is the poem's climax/close: the જયઘોષ 'જય જય' couplet is the loudest single moment in the chapter and the point the whole poem has been building toward, hence topic_category 'resolution' rather than 'climax' — the emotional peak is reached in the declaration itself, and the topic resolves the poem by returning one last time to the ટેક's founding claim."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut: 1 CONCEPT topic ([[કવિ-પરિચય]]+[[કૃતિ-પરિચય]] combined) + 6 POEM topics ([[ટેક]] opening occurrence, [[કડી 1]], [[કડી 2]], [[કડી 3]], [[કડી 4]], [[કડી 5]]) = 7 topics total. Marker accounting against 01_meta.json's structure_inventory: kadi=5 (all five કડી markers each carry exactly one topic: T3, T4, T5, T6, T7) and tek_occurrences=5 (one occurrence — the changed-words opening block — carries its own topic T2; the remaining four identical occurrences, after કડી 1/2/3 and in the closing block, are each referenced via depends_on on the કડી topic they close, per urmikavya_geet.md's identical-ટેક rule, and are not separate topics). This matches the profile's own worked example for THIS exact chapter ('std-9 ch 3 જ્યાં જ્યાં વસે એક ગુજરાતી... the poem is arguing, and each return is a new claim... Teach what changed' for the one changed occurrence; 'Where the ટેક returns identical, teach it once and reference it after' for the other four).",
+    "કવિ-પરિચય and કૃતિ-પરિચય were kept as ONE combined CONCEPT topic here, unlike output9/ch01 which kept them as two separate topics — the difference is a content judgement, not a rule change: ch01's two apparatus paragraphs were each substantial enough to teach on their own (a multi-sentence poet biography, then a separate multi-sentence work-introduction naming the satirical target); here the કવિ-પરિચય is two short factual lines (birthplace, profession, book-title lists) and the કૃતિ-પરિચય is one short paragraph that directly restates the poem's own central claim — splitting them would produce one thin topic. Flagged per 02_structure.md's instruction to carry any thin-name / uneven-split judgement as a note for Agent 4 and Agent 13.",
+    "શબ્દ-સમજૂતી (all three sub-blocks: સમાનાર્થી/શબ્દાર્થ, વિરુદ્ધાર્થી, તળપદા શબ્દો), સ્વાધ્યાય (all three printed blocks: MCQ, બે-ત્રણ વાક્યોમાં, પાંચ-છ વાક્યોમાં), વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are apparatus/exercise matter per global_content_rules.md rule 7 and explanation_unit_map.md's apparatus rule — none cut as topics; they stay for Agent 10 (exercise_inventory already recorded in 01_meta.json) and for key_terms/ભાષા-બોધ sourcing. ભાષા-અભિવ્યક્તિ in particular pre-names craft this chapter's own page claims (પુનરાવર્તન of 'ગુર્જર', the પ્રાસસાંકળી વાણી-લહાણી-શાણી, a full પ્રાસ list) — left entirely for Agent 5/7/13 to verify against the verse and populate figures_of_speech; nothing named here.",
+    "genre prior agreement: 01_meta.json's active_genre_profiles ([urmikavya_geet.md]) matches the profile supplied for this run; genre_confidence is 'high' and the rendered page and the explanation_unit_map.md/urmikavya_geet.md priors agree throughout — no disagreement to flag.",
+    "Two-grain structural note carried forward from 01_meta.json: within the single printed block after કડી 3, the identical ટેક is fused (no blank line) directly with the two-line કડી 4 that follows it. This structure pass reads that ટેક as belonging to (closing) T5 (કડી 3), and કડી 4 (T6) as the next distinct verse unit with no ટેક of its own — a defensible line-attribution call given the marker order in 00_chapter_normalized.md ([[ટેક]] appears before [[કડી 4]]'s own line, immediately after કડી 3's lines). Flagged for Agent 4/13 in case the printed fusion is read differently downstream.",
+    "difficulty: T1 'easy' (short factual prose, biographical + thematic paraphrase, no verse density). T2 'medium' (તત્સમ-tinged refrain vocabulary: સદાકાળ, ગુર્જરી, મહોલાત — glossed in the chapter's own શબ્દ-સમજૂતી). T3 'medium' (ઉષા, હેલાતી, પ્રફુલ્લ — તત્સમ but chapter-glossed). T4 'medium' (ગુર્જર-repetition pattern plus તળપદા 'લહાણી', 'મિરાત' — chapter-glossed). T5 'hard' — three named figures (કૃષ્ણ, દયાનંદ, દાદા) compressed into one line plus a battle-image second line, the single densest line-load in the chapter for an L2 std-9 reader (per teaching_lens_map.md's std 9-10 hard criterion: 'a named-device line' and dense reference load, never craft-naming itself). T6/T7 'medium' (shorter two-line units, vocabulary already glossed by T2-T5, but carrying the poem's emotional peak, which is a reading-comprehension load, not a difficulty spike in the vocabulary itself).",
+    "depends_on records only real sequencing/reference dependence, per 02_structure.md: T2 depends on T1 (poem read after the pre-reading apparatus); T3/T4/T5 each depend on T2 alone (parallel picture-panel કડીઓ that each close on the identical ટેક first taught at T2 — not on each other, since they do not build narratively on one another the way a story's ઘટના chain would); T6 depends on T5 (immediate next verse unit in the printed flow, no ટેક between them to depend on instead); T7 depends on both T6 (immediate reading sequence) and T2 (the closing ટેક returns, identical wording, to what T2 first taught).",
+    "Objectives: one sound, text-grounded anchor per reading scene (O1 for the single pre-reading CONCEPT topic; O2-O7 one each for the six POEM topics), per 02_structure.md section 4. O2 is set to Analyze (not Understand) because the objective's whole content IS the changed-words comparison the profile singles out as this form's core teaching move ('the poem is arguing, and each return is a new claim'). O4 is set to Analyze because it asks the student to find what the repeated 'ગુર્જર' + પ્રાસસાંકળી pattern is doing, not merely comprehend the line's surface sense. O7 is set to Evaluate as the chapter's climax/close, asking what the closing જયઘોષ accomplishes for the whole poem's ભાવ. No objective names an અલંકાર by label — std 9 permits naming (profiles/students/std-9.md §1.3-1.4), but every objective_text here stays inside what THIS chapter's own lines and apparatus actually assert (પુનરાવૃત્તિ/repetition is described structurally in O4 without the label 'પુનરાવર્તન', leaving the formal naming decision to Agent 12/13 who can check it against original_chunk directly); this is a conservative choice, not a rule violation, and is flagged here so Agent 13 can confirm it is not an under-reach.",
+    "Sensitivity flag carried forward from 01_meta.json and restated here for Agent 8: T5 (કડી 3) names કૃષ્ણ, દયાનંદ (સરસ્વતી) and દાદા (દાદાભાઈ નવરોજી) as pride-figures of ગુજરાતની ભૂમિ, and the chapter's own apparatus (વિદ્યાર્થી-પ્રવૃત્તિ, શિક્ષકની ભૂમિકા) reaches for 'ગુજરાત-ગૌરવ પ્રદર્શન' and 'માતૃભાષા ગૌરવદિન' framing — the profile's avoid-gate against slogans and political framing (land/culture, never state/party/scheme) applies with unusual force to this whole chapter, not only T5. Recorded as a note, not resolved here — resolution belongs to Agent 12 (explanation) and Agent 8 (sensitivity/safety pass).",
+    "original_chunk left empty on every topic per spec: 'original_chunk stays empty; Agent 5 fills it.' No verbatim transcription performed here beyond what was needed to read marker boundaries and line counts in 00_chapter_normalized.md, cross-checked against 01_meta.json's own line-spacing/fusion notes."
+  ]
+}

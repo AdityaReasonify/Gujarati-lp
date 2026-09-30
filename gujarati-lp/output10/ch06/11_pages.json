@@ -1,0 +1,6 @@
+{"textbook":"ગુજરાતી (દ્વિતીય ભાષા) ધોરણ 10",
+ "textbook_url":"../Textbooks-pdf/std-10/ch-06-samagri-to-samaj-ni-chhe-ne.pdf",
+ "textbook_pages":"29–31",
+ "source":"printed folio, read off renders of pdf pp. 1 and 3 of the chapter PDF (folios 29 and 31), which agree with manifest.json's printed_start=29 and the std-10 offset (N+5)",
+ "confidence":"high",
+ "gaps":["textbook_url is a local path — the GSEB readers have no hosted URL","the printed opener title reads સામગ્રી તો સમાજની છે ને ! (with dandi-exclamation), while manifest.json prints સામગ્રી તો સમાજની છે ને ? (with question mark) — the render is the authority per this agent's precedence rule; this discrepancy is already logged as an open item in profiles/boards/gseb_gujarati.md's Corrections log and is not re-edited here"]}

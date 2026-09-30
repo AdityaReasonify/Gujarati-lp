@@ -1,0 +1,118 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "This topic is a CONCEPT kavi-parichay topic, not a verse (POEM) topic, so duha_chhappa's structural avoid-checks (one-piece-per-topic, the shikhaman-without-drushtant gate, the moral-lecture gate, the satire gate) do not bind it directly — they apply to M2.S2.T3 and M2.S2.T4. The one duha_chhappa item that does bind here is biography: no sentence of `explanation`, `key_terms` or any `recall_questions[].answer` may state a fact about Akho's life beyond what this topic's own `original_chunk` prints (જેતલપુર, અમદાવાદ પાસે, બ્રહ્મલીલા, સંતપ્રિયા, અખાના છપ્પા, અખેગીતા, અનુભવબિંદુ, કૈવલ્ય ગીતા, પંચીકરણ, ગુરુશિષ્યસંવાદ, જ્ઞાની કવિ); a birth year, a death year, a guru's name or any event not in this paragraph is invention.",
+          "profile": "duha_chhappa",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "આ ફકરો કવિ-પરિચય છે એટલે બાળક એને એક યાદ કરવાની યાદી (જન્મસ્થળ, પુસ્તકોનાં નામ) સમજી લે છે, અને પછી છપ્પા વાંચતી વખતે અખાનું નામ 'જ્ઞાની કવિ' જોઈને એમ ધારી લે છે કે છપ્પા સીધો ઉપદેશ આપે છે — જ્યારે હકીકતમાં આગળનાં બંને છપ્પા કટાક્ષથી લખાયેલા છે.",
+      "correction": "explanation માં કવિ-પરિચયની હકીકતોને યાદીની જેમ નહીં, પણ 'આ કવિ કેવો છે' એ રીતે જોડીને કહો — 'જ્ઞાની કવિ' શબ્દ પરથી બાળકને એટલું જ સમજાવો કે અખો ઊંડી સમજ ધરાવતા કવિ હતા, અને છપ્પા એમનું ખાસ સ્વરૂપ છે; આગળ છપ્પા કટાક્ષથી લખાયેલા છે એ વાત આ ટોપિકમાં લાવવાની જરૂર નથી, એ M1.S1.T2 અને પછીના છપ્પા-ટોપિકમાં આવે છે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "This CONCEPT topic's own `original_chunk` already states the theme directly ('રૂઢિચુસ્ત, ઢોંગી, બાહ્ય દેખાવવાળા લોકો પર... કટાક્ષ'). Duha_chhappa's satire-gate concern applies in reverse here: `explanation` must not flatten this into a single moral sentence detached from the two concrete pictures the chunk itself names (પરસ્પર વિરોધી જૂથો / નવીન વાત દબાવવી for piece 1; હીરાને મૂકી પાણો પસંદ કરવો for piece 2) — at least one sentence of `explanation` must name one of these concrete pictures, not just the abstract label 'કટાક્ષ'.",
+          "profile": "duha_chhappa",
+          "severity": "soft"
+        },
+        {
+          "check": "No sentence of `explanation`, `detailed_summary` or any `recall_questions[].answer` may state a fact about Akho's life or works beyond what this topic's own `original_chunk` prints ('જ્ઞાનના ગરવા વડલા', મધ્યકાલીન ગુજરાતી સાહિત્ય, બે છપ્પા સ્વરૂપની રચનાઓ, રૂઢિચુસ્ત/ઢોંગી/બાહ્ય દેખાવવાળા લોકો પર કટાક્ષ, બે વિરોધી જૂથો, હીરો/પાણો) — the era line 'સત્તરમું શતક-પૂર્વાર્ધ' from the chapter frontmatter may be used since it is printed on this same page, but no birth year, death year or biographical event not printed anywhere in the chapter may be added.",
+          "profile": "duha_chhappa",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "આ ફકરો બંને છપ્પાનું તારણ પહેલેથી જ આપી દે છે ('કટાક્ષ કર્યો છે'), એટલે બાળક પોતે છપ્પા વાંચ્યા વગર જ આ પરિચય-ફકરાનું વાક્ય ગોખીને બંને છપ્પાના પ્રશ્નોના જવાબમાં લખી નાખે છે — છપ્પાની પોતાની પંક્તિઓ (પથ્થર એટલા પૂજે દેવ, સામાસામી બેઠા ઘૂડ) ક્યારેય જોતું નથી.",
+      "correction": "explanation માં આ ફકરાને 'છપ્પા વાંચતાં પહેલાં શું ધ્યાનમાં રાખવું' તરીકે ગોઠવો — બંને છપ્પા કઈ બે અલગ બાબતો પર કટાક્ષ કરે છે (રૂઢિચુસ્તતા vs. ઢોંગ) એ અલગ પાડીને કહો, જેથી બાળક દરેક છપ્પાની પોતાની પંક્તિઓ તરફ જુએ, ફક્ત આ પરિચય-વાક્ય તરફ નહીં."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Reading a satiric છપ્પો straight (duha_chhappa's own worked example, drawn from this exact chapter): at least one sentence of `explanation` must state whom or what the poet is mocking, quoting the poem's own word — 'મૂરખ' — from this topic's `original_chunk` ('એક મૂરખને એવી ટેવ'); an `explanation` that presents 'પથ્થર એટલા પૂજે દેવ' / 'પાણી દેખી કરે સનાન' / 'તુલસી દેખી તોડે પાન' as sincere religious instruction, rather than as the mocked man's foolish habit, is a blocking fail.",
+          "profile": "duha_chhappa",
+          "severity": "hard"
+        },
+        {
+          "check": "The શિખામણ without the દૃષ્ટાંત: the first sentence of `explanation` must quote or name a concrete noun from this topic's `original_chunk` (મૂરખ, પથ્થર, પાણી, તુલસી) before any sentence containing a rule word (જોઈએ / સૌએ / હંમેશાં / આપણે બધાએ / બોધ / શિખામણ).",
+          "profile": "duha_chhappa",
+          "severity": "hard"
+        },
+        {
+          "check": "A moral lecture: at most one sentence of `explanation` may state the rule (ઈશ્વર એક જ છે), and no sentence of `explanation`, `detailed_summary`, `real_life_example` or any `recall_questions[].answer` may end on a સૌએ/હંમેશાં/જીવનમાં … જોઈએ clause.",
+          "profile": "duha_chhappa",
+          "severity": "hard"
+        },
+        {
+          "check": "Modernising the language: every quotation in `explanation`, `key_terms`, `concept_bullets` or `recall_questions[].answer` must match this topic's `original_chunk` character for character — `સનાન` stays `સનાન` (not સ્નાન), `મૂરખ` stays `મૂરખ` (not મૂર્ખ), `દેખી` stays `દેખી` (not જોઈને); these તળપદા forms are glossed, never silently corrected.",
+          "profile": "duha_chhappa",
+          "severity": "hard"
+        },
+        {
+          "check": "Losing the છાપ: `અખા` as printed inside the third line ('એ તો અખા બહુ ઉત્પાત') must occur character for character somewhere in the chapter's concatenated `original_chunk`; it may not be converted into an attribution label or trimmed from any quotation of this line.",
+          "profile": "duha_chhappa",
+          "severity": "hard"
+        },
+        {
+          "check": "Media: the `generation_prompt` for this topic's image must name at least one concrete object, creature or action from this topic's `original_chunk` (a man bowing to a stone, water, a tulsi plant) and may not depict a virtue being performed, a lesson panel, lettering of a moral, or a classroom-poster tableau.",
+          "profile": "duha_chhappa",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'પથ્થર એટલા પૂજે દેવ' અને 'પાણી દેખી કરે સનાન' ને સાચી ધાર્મિક સૂચના તરીકે વાંચી લે છે — જાણે અખો કહી રહ્યા હોય કે આમ પૂજા કરવી જોઈએ — જ્યારે ખરેખર અખો એક 'મૂરખ'ની આંધળી ટેવની મશ્કરી કરે છે અને છેલ્લી પંક્તિમાં 'ઘણા પરમેશ્વર એ ક્યાંની વાત' કહીને એને ખોટી ઠરાવે છે.",
+      "correction": "explanation ના પહેલા વાક્યમાં જ 'મૂરખ'ની ટેવ (પથ્થર-પૂજા, પાણી જુએ ત્યાં સનાન, તુલસીનાં પાન તોડવાં) વર્ણવો, અને પછી સ્પષ્ટ કહો કે અખો આ ટેવની મશ્કરી કરે છે, સલાહ નથી આપતા — છેલ્લી પંક્તિ 'ઘણા પરમેશ્વર એ ક્યાંની વાત' બતાવે છે કે અખો એક જ ઈશ્વરમાં માને છે."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "Reading a satiric છપ્પો straight: at least one sentence of `explanation` must state whom the poet is mocking, quoting the poem's own word — 'ઘૂડ' or 'મોટા' — from this topic's `original_chunk`; an explanation that presents the owls' reply ('અમારે હજાર વર્ષ અંધારે ગયાં, તમે આવા ડાહ્યા ક્યાંથી થયા?') as a reasonable position, rather than as the mocked group's stubborn refusal of knowledge, is a blocking fail.",
+          "profile": "duha_chhappa",
+          "severity": "hard"
+        },
+        {
+          "check": "The શિખામણ without the દૃષ્ટાંત: the first sentence of `explanation` must name a concrete noun from this topic's `original_chunk` (ઘૂડ, સૂર્ય, હીરો, પહાણ) before any sentence containing a rule word (જોઈએ / સૌએ / હંમેશાં / બોધ / શિખામણ).",
+          "profile": "duha_chhappa",
+          "severity": "hard"
+        },
+        {
+          "check": "A moral lecture: no sentence of `explanation`, `detailed_summary`, `real_life_example` or any `recall_questions[].answer` may end on a સૌએ/હંમેશાં/જીવનમાં … જોઈએ clause.",
+          "profile": "duha_chhappa",
+          "severity": "hard"
+        },
+        {
+          "check": "Modernising the language: every quotation must match this topic's `original_chunk` character for character — `કૂડેકૂડ`, `ઘૂડ`, `લેઈ`, `ધરે`, `પહાણ`, `ડાહ્યા` stay exactly as printed; the two spellings `ઘૂડ` (verse) and `ઘુવડ` (gloss/apparatus) are each transcribed only where they stand and never harmonised inside a quotation of the verse line itself.",
+          "profile": "duha_chhappa",
+          "severity": "hard"
+        },
+        {
+          "check": "Losing the છાપ: `અખા` as printed inside the fourth line ('અખા મોટાની તો એવી જાણ') must occur character for character in the chapter's concatenated `original_chunk`, and the printed attribution `('અખાના છપ્પા'માંથી)` that follows this piece must also occur in it, never dropped.",
+          "profile": "duha_chhappa",
+          "severity": "hard"
+        },
+        {
+          "check": "Naming the craft only where the chapter's own apparatus names it: `figures_of_speech` may name વક્રોક્તિ for `મોટા` and વિરોધાભાસ / the ઘુવડ-સૂર્ય and હીરો-પથ્થર symbol pairs, since ભાષા-અભિવ્યક્તિ names these itself — but no other device (e.g. ઉપમા, રૂપક, ઉત્પ્રેક્ષા) may be asserted on this topic without a marker word (જાણે, સમાન, જેવું) actually present in `original_chunk`.",
+          "profile": "duha_chhappa",
+          "severity": "hard"
+        },
+        {
+          "check": "Media: the `generation_prompt` must name a concrete object or creature from this topic's `original_chunk` (owls facing each other, a diamond, a stone) and may not depict a virtue being performed, a lesson panel, or a classroom-poster tableau.",
+          "profile": "duha_chhappa",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "આ છપ્પો બે સ્તરે અઘરો પડે છે: (1) બાળક 'ડાહ્યા' અને 'મોટા' શબ્દોને સીધા, વખાણના અર્થમાં લઈ લે છે અને ઘૂડની દલીલ ('અમારે હજાર વર્ષ અંધારે ગયાં...')ને વાજબી સમજી લે છે — વક્રોક્તિ પકડાતી નથી; (2) 'મૂકી હીરો ઉપાડે પહાણ' જેવી ઊલટા ક્રમની, તળપદા શબ્દોથી ભરેલી પંક્તિઓ (કૂડેકૂડ, લેઈ, ધરે) વાંચતાં જ અટકી જાય છે અને આખા વાક્યનો અર્થ ગુમાવે છે.",
+      "correction": "explanation માં પહેલાં ઘૂડ-સૂર્ય અને હીરો-પથ્થરનું ચિત્ર સાદા શબ્દોમાં કહો (કોણ કોની સામે શું કરે છે), પછી સ્પષ્ટ કરો કે 'ડાહ્યા' અને 'મોટા' શબ્દો કટાક્ષમાં વપરાયા છે — ખરેખર એ લોકો ડાહ્યા નથી, જડ છે; key_terms માં 'મોટા — વક્રોક્તિ' ગ્લોસ રાખો અને 'મૂકી હીરો ઉપાડે પહાણ' જેવી પંક્તિનો સાદો ક્રમ (હીરો છોડીને પથ્થર ઉપાડવો) એક વાર ગુજરાતીમાં કહી દો, પંક્તિને ખોટી ઠરાવ્યા વગર."
+    }
+  ],
+  "chapter_level": [
+    "This is a two-piece છપ્પા chapter by અખો (સત્તરમું શતક-પૂર્વાર્ધ), fully covered by duha_chhappa's own worked example ('reading a satiric છપ્પો straight') — both POEM topics (M2.S2.T3, M2.S2.T4) carry the hard satire-gate as their primary check, and this is the single most likely failure across the chapter: an L2 std-9 reader's default habit is to take a દુહો/છપ્પો-shaped poem as sincere શિખામણ, and અખો's કટાક્ષ inverts that habit completely.",
+    "Sensitivity: અખો mocks empty ritual (પથ્થર-પૂજા, પાણી જોઈને સનાન) and religious hypocrisy, and the class holding this book belongs to many faiths. Per global_content_rules.md rule 10 and duha_chhappa.md's sensitivity note, teach this as the chapter itself does — the poet's attack on ઢોંગ and બાહ્યાચાર, in his own words — never as a verdict on any specific community's practice, never as comparative religion, never softened or cut. Area label ધર્મ; flag-and-guide, not censor.",
+    "The false-friend table in this agent spec (કે/બાઈ/મેહુલો/ધણી/મોટું/માથું/સવાર/ઘડી/હેત/ભાત/રજા/છોકરો/ને/-ું-adjective/ળ-ઍ-ઑ) was checked against both original_chunk verses and neither poem contains any of those exact listed words, so no Hindi–Gujarati false-friend item is flagged for this chapter — an empty result here is correct per no_hallucination_policy.md, not a gap.",
+    "Both CONCEPT topics (M1.S1.T1 કવિ-પરિચય, M1.S1.T2 કૃતિ-પરિચય) carry the chapter's biographical facts; duha_chhappa's 'inventing biography' hard gate binds them directly since they are the only source of any Akho life-fact in this chapter — no birth/death year or event beyond what these two paragraphs print may appear anywhere downstream (explanation, key_terms, recall answers, media prompts, or exercise model answers), including in vidyarthi-pravrutti bullet 1 which asks the child to research Akho's life outside the chapter."
+  ]
+}

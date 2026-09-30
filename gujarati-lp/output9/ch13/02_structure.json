@@ -1,0 +1,229 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati9_ch13",
+  "plan_id": "gseb_eng_gujarati9_ch13_v1",
+  "grade": 9,
+  "chapter_name": "ઘડવૈયા",
+  "genre": "પ્રસંગકથા (રેખાચિત્ર)",
+  "active_genre_profiles": [
+    "charitra_prasang.md"
+  ],
+  "teaching_lens": "પ્રસંગ + સ્વભાવ + મૂલ્ય",
+  "guiding_question": "ગંભીરા ગામના કરુણાશંકર માસ્તરે ભવાયાની રમત બંધ કરાવવા માટે પોતાનો આખો મહિનાનો પગાર શા માટે આપી દીધો ?",
+  "explanation_unit": "એક જીવન-પ્રસંગ",
+  "cut_summary": {
+    "reading_markers_in_normalized": [
+      "[[લેખક-પરિચય]]",
+      "[[કૃતિ-પરિચય]]",
+      "[[ઘટના: વાળુ ટાણે માસ્તરનું મન બીજે ભટકવું]]",
+      "[[ઘટના: પત્ની સાથે સંવાદ — ભવાયા આવ્યાની ચિંતા]]",
+      "[[ઘટના: રાત્રે ઊંઘ ન આવવી અને ભવાયાનો ખેલ શરૂ થવો]]",
+      "[[ઘટના: સવારે નાયક સાથે મુલાકાત અને સોદો]]",
+      "[[ઘટના: નાયકનું ગામ છોડવું અને ગામનું સ્મરણ]]"
+    ],
+    "reading_markers_count": 7,
+    "topics": 3,
+    "segments": 2,
+    "modules": 2,
+    "concepts": 3,
+    "objectives": 3,
+    "non_topic_markers": [
+      "[[શબ્દ-સમજૂતી]]",
+      "[[સ્વાધ્યાય: પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો :]]",
+      "[[સ્વાધ્યાય: નીચેના પ્રશ્નોના બે-ત્રણ વાક્યમાં ઉત્તર લખો :]]",
+      "[[સ્વાધ્યાય: નીચેના પ્રશ્નોના સવિસ્તાર ઉત્તર આપો :]]",
+      "[[વિદ્યાર્થી-પ્રવૃત્તિ]]",
+      "[[ભાષા-અભિવ્યક્તિ]]",
+      "[[શિક્ષકની ભૂમિકા]]"
+    ],
+    "ghatna": 5,
+    "ghatna_merged_into_topics": 1,
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0,
+    "tek_occurrences": 0
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક-પરિચયમાં આપેલી માહિતી પરથી નાનાભાઈ જેબલિયા મુખ્ય વ્યવસાયે શું હતા અને કયા પ્રકારના જીવનના આલેખક તરીકે વિખ્યાત છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કૃતિ-પરિચય પરથી કરુણાશંકર માસ્તર પોતાના વિદ્યાર્થીઓ પર કુસંસ્કાર ન પડે તે માટે કેમ સતત જાગ્રત રહેતા અને છેલ્લે શું કરી બેઠા તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કરુણાશંકર માસ્તરે નાયકને પ્રશ્નો પૂછીને છેલ્લે પોતાનો આખા મહિનાનો પગાર કેમ આપી દીધો તે શોધીને, આ ત્યાગ તેમના વિદ્યાર્થીઓ પ્રત્યેની ચિંતાને કઈ રીતે છતી કરે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": [
+        "M2.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "લેખક અને કૃતિનો પરિચય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "નાનાભાઈ જેબલિયા અને કૃતિની ઓળખાણ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "નાનાભાઈ જેબલિયાનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[લેખક-પરિચય]]"
+              ],
+              "source_lines_00_normalized": "10-11",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "નાનાભાઈ જેબલિયાનો પરિચય",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "note": "Marker [[લેખક-પરિચય]] (source lines 10-11). No printed box heading exists on the page for this paragraph — 01_meta.json's extraction_notes records that the biography paragraph runs directly under the author's era line with no bracketed label on the page itself; [[લેખક-પરિચય]] is scaffolding matching the pack's own convention (output9/ch02, ch04, ch09 etc.), and Agent 5 transcribes only the printed paragraph itself into original_chunk, never the bracket label. CONCEPT topic per explanation_unit_map.md's rule that prose printed for the student (an author-bio paragraph placed before the text) is a CONCEPT topic — matching std-9's own measured apparatus order, 'author line + era line under the title → લેખક/કવિ-પરિચય paragraph(s) before the text' (profiles/students/std-9.md §1.4). depends_on [] — it opens the chapter and nothing precedes it. difficulty 'medium': the one paragraph packs eight compound Gujarati novel/story-collection titles ('મેઘરવો', 'રંગ બિલોરી કાચના', 'વંકી ધરા, વંકાં વહેણ', 'અમે ઊગ્યા'તા શમણાને દેશ' among them) and three place-names (ભાવનગર, સાવરકુંડલા, ખાલપર) into a few sentences — proper-noun and literary-title density is what stops an L2 std-9 reader here, not medieval verse or a named device, so 'medium' rather than 'hard' per the std 9-10 hard criterion in agents/02_structure.md §5."
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "કૃતિનો પરિચય — સાચા શિક્ષકનું રેખાચિત્ર",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[કૃતિ-પરિચય]]"
+              ],
+              "source_lines_00_normalized": "13-14",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "કૃતિનો પરિચય — સાચા શિક્ષકનું રેખાચિત્ર",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "note": "Marker [[કૃતિ-પરિચય]] (source lines 13-14), printed directly after T1's paragraph — depends_on [M1.S1.T1] because the work-intro presumes the author has already been named. CONCEPT topic: this is the printed synopsis paragraph std-9's own apparatus pattern places before the text (profiles/students/std-9.md §1.4's 'standard lesson opener'), and it is the paragraph that names the chapter's own genre labels in the book's own words ('પ્રસંગકથા', 'રેખાચિત્ર') and states the theme (a teacher's vigilance against કુસંસ્કાર) — the student-facing synopsis explanation_unit_map.md's apparatus rule keeps IN the unit chain as a CONCEPT topic, not the teacher-addressed blue box that same rule keeps OUT. difficulty 'medium': the paragraph's whole theme rides on compound તત્સમ vocabulary (કુસંસ્કારો, સંસ્કારપૂજક, ઉપસાવે, રેખાચિત્ર, આસ્વાદ્ય, દ્વિઅર્થી, અનુકરણ, ઘડતર) that needs glossing before an L2 std-9 reader can follow the sentence that says what the chapter is about."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "કરુણાશંકર માસ્તરનો ત્યાગ-પ્રસંગ",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ભવાયાની રમત બંધ કરાવવાનો પ્રસંગ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "પોતાનો પગાર આપીને ભવાયાની રમત અટકાવવાનો પ્રસંગ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M1.S1.T2"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: વાળુ ટાણે માસ્તરનું મન બીજે ભટકવું]]",
+                "[[ઘટના: પત્ની સાથે સંવાદ — ભવાયા આવ્યાની ચિંતા]]",
+                "[[ઘટના: રાત્રે ઊંઘ ન આવવી અને ભવાયાનો ખેલ શરૂ થવો]]",
+                "[[ઘટના: સવારે નાયક સાથે મુલાકાત અને સોદો]]",
+                "[[ઘટના: નાયકનું ગામ છોડવું અને ગામનું સ્મરણ]]"
+              ],
+              "source_lines_00_normalized": "16-101",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "પોતાનો પગાર આપીને ભવાયાની રમત અટકાવવાનો પ્રસંગ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "note": "Carries all FIVE [[ઘટના: …]] markers (source lines 16-101), merged into ONE topic. charitra_prasang.md names THIS EXACT CHAPTER as its own worked example of the rule 'an episode is a small arc, and it stays whole: પરિસ્થિતિ → કૃત્ય → પરિણામ … The ભવાયા episode of std-9 ch 13 — the troupe arrives, the માસ્તર acts, the ભવાઈ does not happen — is ONE topic.' The five beats Agent 1 marked — (1) વાળુ ટાણે માસ્તરનું મન ભટકવું, (2) પત્ની સાથે સંવાદ (ભવાયા આવ્યાની ચિંતા), (3) રાત્રે ઊંઘ ન આવવી અને ખેલ શરૂ થવો, (4) સવારે નાયક સાથે મુલાકાત અને સોદો, (5) નાયકનું ગામ છોડવું અને ગામનું સ્મરણ — trace exactly the situation → escalation → act → outcome arc the profile describes. Cutting (4) from (5) would leave, in the profile's own words, 'an act nobody can weigh'; the hard gate forbids that outright. 01_meta.json's own extraction_note already flagged that Agent 2 'may legitimately merge beats (2)-(5) into fewer topics' — folded here to ONE, with beat (1) (the wordless dinner-table distraction, which names no reason and is therefore the pre-topic hook for beat (2)'s reveal, per explanation_unit_map.md rule 2) folded in alongside it, since the page never breaks the dinner-table scene at all. One concept only: this is a single continuous telling with no second, separately-dated event to hold as a second concept (contrast charitra_prasang.md's own two-concept cases, which split an act from a LATER honour on a different date — this chapter prints no such second dated event). topic_type STORY_TELLING (a narrative ઘટના, explanation_unit_map.md); topic_category 'core' — the one topic carries situation, climax act and resolution together, so no finer category fits better (parallel to std-10 ch 5's own precedent, 'a dated facts-cluster is a legitimate topic … topic_category: core', for a chapter that is likewise cut as one all-in-one topic). difficulty 'hard' by the std 9-10 rubric's own named criterion, 'a સંવાદ carrying the argument's turn' (agents/02_structure.md §5) — the entire માસ્તર-નાયક negotiation (lines 54-96) IS the argument's turn, stacked with તળપદા/regional vocabulary (ભાનબારો, બખડજંતર, ડાગલો, ફટાણાં), one printed કહેવત (ખોદ્યો ડુંગર કાઢ્યો ઉંદર) and four રૂઢિપ્રયોગ — none of it craft-naming; the difficulty is what actually stops an L2 std-9 reader on the page. Evidence flagged forward for Agent 5/7/12/13: all three lines the printed ભાષા-અભિવ્યક્તિ box tags with a named device (વ્યતિરેક at line 34 — 'કરુણાશંકર માસ્તરની શાળામાં એવું બને તો પછી ધરતીનો છેડો આવી જાય'; સજીવારોપણ at line 42 — 'ઝાલરના ડંકા પડે ત્યાં સુધી... રામાયણ-મહાભારતનાં પાત્રો શાળામાં મહાલતાં હોય'; સહજોદ્‌ગાર at line 42 — 'માસ્તરની આ શાળાનું બાળક અસત્ય ન બોલે, અપશબ્દ ન બોલે') fall inside THIS topic's own source-line range, so they can be verified word-for-word against original_chunk once Agent 5 transcribes it. Whether to name them stays Agent 7/12's call, not decided here — but per charitra_prasang.md avoid-gate 13 a name is legitimate only where the exact quoted words are present in original_chunk, which they will be."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "not_cut_as_topics": [
+    "Header/title furniture: the pink chapter-number box ('13'), the title banner ('ઘડવૈયા'), the author line ('નાનાભાઈ જેબલિયા') and its era line ('જન્મ : 11-11-1938, અવસાન : 25-11-2013'). Per charitra_prasang.md avoid-gate 8 this era line is the WRITER નાનાભાઈ જેબલિયાનું છે, never કરુણાશંકર માસ્તરનું — it belongs in no topic's original_chunk and must never be quoted as the subject's own dates.",
+    "[[શબ્દ-સમજૂતી]] box (printed p. 71), five sub-heads verbatim per 01_meta.json: સમાનાર્થી/શબ્દાર્થ (4 pairs), વિરુદ્ધાર્થી (4 pairs), તળપદા શબ્દો (3), કહેવત (1: ખોદ્યો ડુંગર કાઢ્યો ઉંદર), રૂઢિપ્રયોગ (4). Apparatus: evidence of difficulty and a feed for point-of-use glossing at Agent 5/12, never a topic and never the source of a gloss (reference/shabd_gloss.md).",
+    "Three [[સ્વાધ્યાય: …]] banners — 4 MCQ items, 2 બે-ત્રણ-વાક્ય items, 2 સવિસ્તાર items (the second of which is 'કરુણાશંકર માસ્તરનું પાત્રાલેખન કરો.'). These stay in 01_meta.json's exercise_inventory and are Agent 10's work alone (global_content_rules.md rule 7); none is cut here even though the પાત્રાલેખન item is charitra_prasang.md's own diagnostic tell for this sub-form.",
+    "[[વિદ્યાર્થી-પ્રવૃત્તિ]] — one bullet asking the child to write and present an essay about their own best teacher. Appended activity matter, not an exercise and not a topic (explanation_unit_map.md's apparatus rule).",
+    "[[ભાષા-અભિવ્યક્તિ]] — a સમાસ-vocabulary bullet plus five quoted 'ધરીરૂપ' sentences, three tagged by the book itself with a named device (વ્યતિરેક, સજીવારોપણ, સહજોદ્‌ગાર). Teacher-addressed apparatus and evidence to verify the text against, per charitra_prasang.md avoid-gate 13 — never a licence to copy a label into a topic where the exact words are not present. (All three tagged lines DO fall inside M2.S2.T3's own source-line range — flagged in that topic's note for Agent 5/7/12/13, not decided here.)",
+    "[[શિક્ષકની ભૂમિકા]] — a teacher-addressed paragraph plus a six-bullet list of 'આજનાં ભયસ્થાનો'. Per profiles/students/std-9.md §1.4 this block is 'teacher-addressed — not a child-facing exercise block'; it is not a topic and Agent 10 must not answer it as an exercise."
+  ],
+  "notes": [
+    "Cut by the સ્વરૂપ's unit, not by habit. 01_meta.json sets explanation_unit 'એક જીવન-પ્રસંગ', and charitra_prasang.md sets the same rule as 'one episode that shows one quality — or one printed person-section'. The rendered page prints NO section headings anywhere (01_meta.json extraction_notes), so the person-section half of the rule does not apply and the episode half governs the whole narrative — resolving, per the profile's own worked example for this exact chapter, to one topic (see M2.S2.T3's note). No disagreement with the prior table in agents/02_structure.md to report.",
+    "Marker coverage cross-check for Agent 4: 00_chapter_normalized.md carries FOURTEEN bracket markers in total. Two apparatus/parichay markers ([[લેખક-પરિચય]], [[કૃતિ-પરિચય]]) are each carried 1:1 by their own topic (M1.S1.T1, M1.S1.T2). Five [[ઘટના: …]] markers are all carried together by ONE topic (M2.S2.T3), per the profile's explicit chapter-specific instruction recorded on that topic. Seven non-topic apparatus/exercise markers ([[શબ્દ-સમજૂતી]], three [[સ્વાધ્યાય: …]] banners, [[વિદ્યાર્થી-પ્રવૃત્તિ]], [[ભાષા-અભિવ્યક્તિ]], [[શિક્ષકની ભૂમિકા]]) carry no topic at all and are listed in not_cut_as_topics. No marker is silently swallowed and no topic was invented without a marker behind it — 2 + 5 + 7 = 14, matching the normalized file exactly.",
+    "Only 3 topics / 3 concepts / 3 objectives total for the whole chapter — thin relative to a longer chapter like std-7 ch 7's twelve, flagged honestly here rather than padded. This is a genuinely short (4 rendered pages), single-episode chapter with no printed person-section sub-heads, and the narrative half of it is the genre profile's own named example of a topic that must stay whole. Inventing artificial boundaries inside the ભવાયા episode to raise the topic count would trip the profile's hard 'act nobody can weigh' gate; the thinness belongs to the chapter's own shape, not to a shortcut taken here.",
+    "No ટેક-return rule applies: structure_inventory.tek_occurrences = 0 in 01_meta.json and this whole chapter is prose, not verse — none of the four checked rules in agents/02_structure.md §1 about a returning refrain bite here.",
+    "Single dominant genre throughout — no mixed-chapter protocol needed. charitra_prasang.md is the only active profile (01_meta.json active_genre_profiles) and it governs both pre-reading CONCEPT topics and the narrative STORY_TELLING topic uniformly; unlike std-6 ch 8's embedded-in-a-letter sub-form, nothing here is nested inside a second host form.",
+    "Sensitivity flag carried forward, not actioned here (that is Agent 8's field). 01_meta.json's extraction_notes already records the ભવાયા/ભવાઈ folk-performance framing and the instruction to teach the master's ત્યાગ and the encounter's ambivalence as the chapter presents it. No topic_name, segment_name, module_name or objective_text in this file adds a value-judgment on ભવાઈ as an art form beyond what the chapter itself prints (global_content_rules.md rule 10; charitra_prasang.md's Sensitivity prior).",
+    "Craft-label ceiling observed (agents/02_structure.md §4): no objective_text names અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર. The book's own [[ભાષા-અભિવ્યક્તિ]] box does name three devices, but that stays apparatus evidence for Agent 7/12/13 to verify against the text — never copied into an objective here — and rhyme_scheme will stay null for every topic of this prose form regardless of what gets named later (charitra_prasang.md avoid-gate 13).",
+    "No numbers in display text (global_content_rules.md rule 4): neither the writer's printed era-line dates (11-11-1938 / 25-11-2013) nor the ₹12 figure appear in any topic_name, segment_name, module_name or objective_text anywhere in this file; they survive only in provenance/source-line fields and, later, inside original_chunk exactly as printed.",
+    "depends_on records real dependence only, two edges in all: M1.S1.T2 depends on M1.S1.T1 (the work-intro paragraph is printed directly after the author-intro paragraph and presumes the author is already named); M2.S2.T3 depends on M1.S1.T2 (the narrative dramatizes exactly the concern the work-intro states in summary — protecting students from કુસંસ્કાર). No topic carries a fabricated dependency, and M1.S1.T1 carries [].",
+    "difficulty ratings ('medium', 'medium', 'hard') trace to the std 9-10 hard criterion in agents/02_structure.md §5 — 'a સંવાદ carrying the argument's turn' for M2.S2.T3, proper-noun/literary-title and તત્સમ-compound density (not craft) for the two parichay topics. No topic here is rated hard for a device it is not licensed to name, and difficulty is not treated as a Bloom cap: M2.S2.T3's own objective already reaches Analyze.",
+    "Every objective_text is grounded character-for-character in a printed line of THIS chapter: O1 in the લેખક-પરિચય paragraph ('પ્રાથમિક શિક્ષક તરીકે… સૌરાષ્ટ્રના તળપદા જીવનના આલેખક તરીકે તેઓ વિખ્યાત છે'), O2 in the કૃતિ-પરિચય paragraph ('પોતાના વિદ્યાર્થીઓ પર કુસંસ્કારો ન પડે તે માટે સતત કાર્યરત… સદા જાગ્રત છે'), and O3 in the master-નાયક negotiation and the payment sentence. None could be swapped into another chapter without becoming false, per agents/02_structure.md §4's 'shape' test.",
+    "original_chunk is left empty in every topic per spec; Agent 5 fills it from the rendered PNG pages, using the source_lines_00_normalized ranges recorded here as provenance for WHERE to look, never as text to copy directly from this file (per reference/no_hallucination_policy.md, the render is the authority, not any intermediate transcription)."
+  ]
+}

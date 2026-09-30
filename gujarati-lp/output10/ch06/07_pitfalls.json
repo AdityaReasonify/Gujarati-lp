@@ -1,0 +1,134 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "The topic's explanation/summary must restate the message using only this intro's own printed sentences — 'પૈસા આપીને વસ્તુ ખરીદી હોય તો પણ એને બગાડવાનો અધિકાર કોઈનેય નથી', 'સામગ્રી આખા સમાજની છે', 'સૃષ્ટિસંતુલન માટે... જરૂરી છે', 'પૂર્વગ્રહો ધરાવવા એ કેટલું ભ્રામક હોય છે' — and must not append a further exhorting sentence of its own invention (a fresh 'તેથી આપણે ... જોઈએ' not built from these words).",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field (explanation, key_terms, detailed_summary) states a biographical or professional fact about વિકાસ શર્મા beyond what this topic's original_chunk prints — 'ઉદ્યોગ સાથે સંકળાયેલા છે' and 'અવારનવાર પોતાના અનુભવો વર્ણવતા હોય છે' — no invented job title, publication list, or life-fact.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "std-10નું બાળક લેખક-પરિચય-બોક્સના તૈયાર વાક્યો ('સામગ્રી આખા સમાજની છે', 'પૂર્વગ્રહો... ભ્રામક હોય છે')ને જ કૃતિનો પૂરો પાઠ સમજી લે છે — જાણે આ સંપાદકીય પૂર્વસૂચન એ ખુદ લેખકનું કે અધિકારીનું છેલ્લું વાક્ય હોય, અને પછીના છ પ્રસંગોમાં ખરેખર શું બને છે તે તપાસવાની જરૂર જ ન રહે.",
+      "correction": "explanationમાં આ ફકરાને સ્પષ્ટ રીતે 'આગોતરી ઓળખાણ' તરીકે રજૂ કરવો — 'આ પ્રસંગ આગળ શું બતાવશે તેની ઝલક' એ રીતે, નહીં કે લેખકનું કે અધિકારીનું છેલ્લું, પુરવાર થયેલું વાક્ય. અસલ ટકોર ('પૈસા તમારા છે, પણ...') પછીના પ્રસંગમાં જ અધિકારીના મોઢે આવે છે, તે ત્યાં જ નામ સાથે ટાંકવી."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "Explanation's first sentence names લેખકને the one who held the mistaken છાપ, quoting or closely paraphrasing 'કમ સે કમ મારા મનમાં તો એવી જ છાપ હતી' — a first sentence that states 'જર્મનીના લોકો મોજશોખવાળું જીવન જીવે છે' as unattributed fact, with no subject, fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field adds a fact about Germany beyond what original_chunk prints — 'ઉદ્યોગ-ધંધાની દૃષ્ટિએ ઘણો આગળ વધેલો દેશ', 'ટેકનોલોજીની દૃષ્ટિએ પણ આગળ', 'નાનાં નાનાં નગરોમાંયે ઉચ્ચ ટેકનોલોજીવાળી ચીજવસ્તુ બનાવાય છે' — no GDP, population, EU-membership or other outside fact.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "L2 વાચક 'કમ સે કમ મારા મનમાં તો એવી જ છાપ હતી, પરંતુ... મને થયું કે... છાપ કેટલી ખોટી છે !' એ એક જ લાંબા વાક્યમાં ભૂતકાળ ('હતી') અને પલટો ('પરંતુ') પકડી શકતો નથી, અને એવું સમજી બેસે છે કે લેખક હજી પણ જર્મનીના લોકોને મોજશોખવાળા માને છે.",
+      "correction": "explanationમાં આ પલટો બે અલગ પગલાંમાં સ્પષ્ટ કરવો — પહેલાં 'લેખકને પહેલાં એવું લાગતું હતું કે...', પછી 'પણ જર્મની જઈને નજરે જોયા પછી લેખકને સમજાયું કે આ છાપ ખોટી હતી' — બંને વાક્યોમાં લેખકને જ કર્તા રાખીને."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Wherever 'કંજૂસ' appears in explanation, summary or a recall answer, it is attributed as the writer's own impression — matching original_chunk's own hedge 'છોકરો કંજૂસ લાગે છે' (લાગે છે, not છે) — no field asserts as settled fact that the young man was miserly.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Explanation's first sentence names લેખકને as the one who observed the two tables — 'લેખકે જોયું કે...' — not an unattributed 'રેસ્ટોરાંમાં એક યુવાન દંપતી હતું' opening.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "std-10નું બાળક 'છોકરો કંજૂસ લાગે છે' અને 'આપણે ત્યાં તો... વાનગીઓથી તેને આંજી નાખે !' ને લેખકનો સાચો, અંતિમ ચુકાદો સમજી લે છે — જાણે યુવાન દંપતી ખરેખર કંજૂસ હતું, અને ચૂકી જાય છે કે આ જ ઉતાવળો, દેખાવ પરથી બાંધેલો અભિપ્રાય છે જેને આખો પ્રસંગ પાછળથી ખોટો પાડે છે.",
+      "correction": "explanationમાં 'લાગે છે' શબ્દ પર ભાર મૂકવો — આ લેખકનો પોતાનો, તે ક્ષણનો વિચાર છે, પુરવાર થયેલી હકીકત નહીં. વૃદ્ધ સ્ત્રીઓ ડિશમાં એક દાણોય છોડતી નહોતી એ વિગત સાથે આ જ ટોપિકમાં સરખાવી શકાય, પણ 'સાચે જ કંજૂસ' એવો ચુકાદો explanation આપે નહીં."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "Explanation's first sentence names લેખક/તેમના મિત્રોને as the subject of ordering and wasting the food — matching 'મારા સ્થાનિક મિત્રોએ ઘણું બધું ખાવાનું મંગાવેલું' and 'અમે... ડિશમાં છંડાયેલું હતું' — not an unattributed 'ઘણું ખાવાનું મંગાવાયું હતું'.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "The stated cause of the waste uses only this topic's own reasons — ભૂખ ('સારી એવી ભૂખ લાગેલી'), ગિરદી ન હોવાથી ઝટ ખાણું આવવું, અને 'બીજાં પણ કામો હોવાથી' ઉતાવળ — no invented reason (price, food quality, restaurant service) is added.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક M2.S2.T3ના યુવાન દંપતીના અવલોકનને અને આ ટોપિકના પોતાના બગાડને બે અલગ, અસંબંધિત હકીકતો ગણી લે છે — એ જોડાણ ચૂકી જાય છે કે જે લેખકે બે ડિશને 'કંજૂસાઈ' ગણી હતી, એ જ લેખક પોતે ત્રીજા ભાગનું ભોજન બગાડે છે.",
+      "correction": "explanationમાં આ ટોપિકને પાછલા ટોપિક સાથે સાંકળવો — 'જે લેખકે યુવાન દંપતીના સાદા ભોજનને કંજૂસાઈ ગણી હતી, એ જ લેખકના જૂથે પોતે મંગાવેલા ભોજનનો ત્રીજો ભાગ ડિશમાં છોડ્યો' — જેથી પછીના પ્રસંગમાં આવતી ટકોરનું વજન બાળકને સમજાય."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "Explanation's first sentence names લેખકના જૂથ/વૃદ્ધ સ્ત્રીઓને as subject — matching 'પેલી વૃદ્ધ સ્ત્રીઓ અમારા વિશે... વાત કરી રહી હતી' — not an unattributed 'એક ફરિયાદ થઈ'.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field appends an independent moral judgment such as 'આવું ઉદ્ધત બોલવું ન જોઈએ' about the reply 'તમારે શી નિસ્બત ?' — the topic's own objective_text already names it 'ઉદ્ધત જવાબ', and the correction must come from the narrative's own consequence (the 50 યુરોનો દંડ), not from an added moralizing sentence.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'તમારે શી નિસ્બત ?' ને લેખકનો વાજબી, હકસર જવાબ સમજી લે છે (છેવટે તેમણે પૈસા ચૂકવ્યા જ હતા), અને ચૂકી જાય છે કે આ જ ઉદ્ધત જવાબ સ્ત્રીઓને ગુસ્સે કરે છે અને દંડ સુધી લઈ જાય છે.",
+      "correction": "explanationમાં 'ઉદ્ધત જવાબ' શબ્દ (topic_name/objective_textમાં જ છે) સ્પષ્ટ વાપરવો અને તરત જ તેનું પરિણામ (ફોન કૉલ, અધિકારીનું આગમન, 50 યુરોનો દંડ) જોડવો — જેથી જવાબ કેમ ખોટો હતો તે ટેક્સ્ટની પોતાની ઘટનાક્રમમાંથી જ સ્પષ્ટ થાય, અલગ ઉપદેશથી નહીં."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "The officer's central line is quoted or closely paraphrased as reported speech attributed to 'ઑફિસરે... કહ્યું' — 'પૈસા તમારા છે, પણ બધી સાધન-સામગ્રી તો સમાજની છે' — no field restates it as the narrator's/textbook's own unattributed moral sentence.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field appends a further exhortation beyond the officer's own quoted words (e.g. an added 'તેથી આપણે પણ ખોરાક બગાડવો ન જોઈએ' not built from 'તમને જોઈતું હોય તેટલું જ... મંગાવો... આ સાધન-સામગ્રીનો જરીકેય બગાડ કરવાનો તમને કોઈ હક્ક નથી').",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'સાધન-સામગ્રી'ને ફક્ત 'રેસ્ટોરાંમાં વધેલું ખાવાનું' પૂરતું સીમિત સમજી લે છે અને ચૂકી જાય છે કે અધિકારીની અને પ્રકરણના શીર્ષકની વાત સામાન્ય રીતે કોઈ પણ ચીજ-વસ્તુ (સામગ્રી) વિશે છે — ખાવાનું તો એનું એક ઉદાહરણ માત્ર છે.",
+      "correction": "explanationમાં key_termsનો ગ્લોસ ('સાધન-સામગ્રી — વસ્તુઓ, ચીજ-વસ્તુઓ') વાપરીને સ્પષ્ટ કરવો કે અહીં વાત ફક્ત ખાવાના પૂરતી નથી — કોઈ પણ ચીજ-વસ્તુના બગાડની છે, અને પ્રકરણનું શીર્ષક ('સામગ્રી તો સમાજની છે ને !') આ જ સામાન્ય વાત કહે છે."
+    },
+    {
+      "topic_id": "M3.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "The closing bodhpath statement in explanation/detailed_summary/any recall answer draws only from this topic's own printed words — 'આ ઘટનાએ અમને બરાબર પાઠ ભણાવ્યો, અમને અમારી ખોટી આદતો સુધારવાનો બોધપાઠ આપ્યો' — and does not append a further independent 'તેથી આપણે પણ ... જોઈએ' sentence beyond what is quoted or closely paraphrased from here.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field states or implies a general claim about India/'આપણો દેશ' as ગરીબ/પછાત, matching the risk in 'આપણે તો ધનવાન નહિ એવા દેશના નાગરિકો છીએ' — the focus stays on the writer's own admitted shame ('અમારી જાત ઉપર શરમ ઉપજી'), never a national judgment or pity language about people suffering scarcity.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "This topic's original_chunk contains the closing credit '(‘ભૂમિપુત્ર’માંથી)' verbatim, matching the profile's closing-gesture rule; no field strips, moves, or 'resolves' this credit against the intro's differing 'અંગ્રેજ સામયિકમાંથી' line.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક લેખકની સ્વીકૃતિ ('અમને એમની વાત તદ્દન સાચી લાગી... શરમ ઉપજી') ને ફક્ત દંડના ડરથી આવેલી મજબૂરી સમજી લે છે, અને ટિકિટને દીવાલ પર કાયમ ચોંટાડી રાખવાના સ્વૈચ્છિક પગલાને પણ સજાનું ચિહ્ન જ ગણી લે છે — જ્યારે ટેક્સ્ટ પોતે તેને 'ઢંઢોળવા' માટે, પોતાની મરજીથી રાખેલી યાદગીરી કહે છે.",
+      "correction": "explanationમાં ટિકિટ રાખવાના પગલાને લેખકના પોતાના, સ્વૈચ્છિક નિર્ણય તરીકે રજૂ કરવો — 'અમને કાયમ ઢંઢોળવા' એ શબ્દો ટાંકીને — સજાના ચિહ્ન તરીકે નહીં, પણ પોતે પસંદ કરેલી કાયમી યાદ તરીકે."
+    }
+  ],
+  "chapter_level": [
+    "આ પ્રકરણ ગદ્ય આત્મકથાખંડ છે — કોઈ કડી, પ્રાસ કે છંદ નથી; કોઈ પણ ટોપિકનું figures_of_speech ખાલી યાદી ([]) હોય તે સાચો અને પૂરતો જવાબ છે (profile Avoid-item 15).",
+    "વિદ્યાર્થી-પ્રવૃત્તિના ચાર બુલેટ (ખોરાક-બગાડનું અવલોકન, ભૂખમરાના આંકડા, બગાડ-ન-કરવાની પ્રતિજ્ઞા, કુપોષણ-જાગૃતિના ફોટા) અને ભાષા-અભિવ્યક્તિ/શિક્ષકની ભૂમિકાના બુલેટ 01_meta.json.exercise_inventory અને Agent 10/media agentsના છે — કોઈ ટોપિકનું explanation આમાંથી કોઈ પ્રવૃત્તિને 'કેવી રીતે કરવી' એ પદ્ધતિ તરીકે શીખવે નહીં (profile Avoid-item 12).",
+    "M1.S1.T2, M2.S3.T6 અને M3.S4.T7 — ત્રણેય ટોપિકમાં 'ધનવાન દેશ (જર્મની)' વિરુદ્ધ 'પોતાનો દેશ' એવો સરખામણી-ઢાંચો આવે છે. કોઈ પણ ટોપિકનું કોઈ ફિલ્ડ આને 'ભારત ગરીબ દેશ છે' અથવા 'પરદેશના લોકો બગાડ કરતા નથી, આપણે જ કરીએ છીએ' એવા સામાન્યીકરણમાં ફેરવે નહીં — આ લેખકનો પોતાનો, વ્યક્તિગત પૂર્વગ્રહ-કબૂલાત અને સ્વ-ટીકા છે, દેશ વિશેનો ચુકાદો નહીં (global_content_rules.md #10).",
+    "01_meta.json પહેલેથી નોંધે છે કે પ્રકરણની શરૂઆતની ક્રેડિટ ('અંગ્રેજ સામયિકમાંથી') અને અંતની ક્રેડિટ ('ભૂમિપુત્ર'માંથી) જુદી છે — આ agentનું કામ નથી ઉકેલવાનું; કોઈ પણ ટોપિકનું ફિલ્ડ બેમાંથી એકને સાચી ઠેરવીને બીજી છોડે નહીં કે બંનેને એક કરીને લખે નહીં."
+  ]
+}

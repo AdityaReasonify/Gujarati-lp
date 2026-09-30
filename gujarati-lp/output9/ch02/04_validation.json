@@ -1,0 +1,50 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "Genre nibandh_atmaparak / હાસ્યનિબંધ sub-form, explanation unit ઘટના-wise (one પ્રસંગ / one comic turn per topic) — matches profiles/genres/nibandh_atmaparak.md and explanation_unit_map.md's નિબંધ row.",
+        "11 [[ઘટના: ...]] markers in 00_chapter_normalized.md (lines 13,16,31,36,41,50,57,60,69,74,77) map 1:1 to the 11 STORY_TELLING topics M2.S1.T3 through M2.S5.T13, in order.",
+        "2 apparatus markers ([[લેખક-પરિચય]], [[કૃતિ-પરિચય]]) map 1:1 to the 2 CONCEPT topics M1.S1.T1/T2, per the map's 'prose printed for the student becomes a CONCEPT topic' rule.",
+        "No comic turn is split from its setup (avoid-gate #11): each of the 11 ઘટના topics carries the full advice-episode (setup + advice given) inside its own single marker span.",
+        "Closing gesture and credit line preserved: the notes[] in 02_structure.json flag that M2.S5.T13's original_chunk span (line 80, ('હાસ્યમંદિર'માંથી)) belongs in that LAST topic, per avoid-gate #13 — correctly identified for Agent 5 to fill.",
+        "No topic_category:'climax' used anywhere (avoid-gate #2) — categories are introduction/core/resolution only, matching the profile's hard gate that this form has પ્રસંગ not પ્લોટ.",
+        "No numbers appear in any topic_name, concept_name, or objective_text (global_content_rules.md #4) — checked programmatically, none found.",
+        "No M1.S1.T1.P1-style objective code anywhere in the file — checked programmatically, none found."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 13,
+      "topics": 13,
+      "notes": [
+        "01_meta.json's structure_inventory.ghatna reported 13 but 00_chapter_normalized.md carries exactly 11 [[ઘટના:...]] markers; per explanation_unit_map.md 'the page wins', the cut correctly follows the 11 markers (A2's own notes[] already document this and it is not a defect).",
+        "All four [[સ્વાધ્યાય: ...]] blocks (MCQ, કારણ આપો, બે-ત્રણ વાક્યમાં ઉત્તર, પાંચ-છ વાક્યમાં ઉત્તર) are absent from every topic_name and every original_chunk plan — cross-checked programmatically against 01_meta.json's exercise_inventory verbatim headings, zero overlap.",
+        "[[શબ્દ-સમજૂતી]], [[ભાષા-અભિવ્યક્તિ]] and [[શિક્ષકની ભૂમિકા]] apparatus blocks are also correctly excluded from the topic tree.",
+        "The pre-reading opener (લેખક-પરિચય + કૃતિ-પરિચય) is present as topics M1.S1.T1/T2, in order, before the reading-scene chain begins.",
+        "No REVIEW-type topic exists; correctly noted — this essay carries no in-text summary/wrap block.",
+        "No topic covers text that no marker claims — every topic's marker source is traceable to exactly one [[...]] block."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 13,
+      "notes": [
+        "Root objectives[] has 13 entries, all objective_id unique (O1-O13).",
+        "Every home_topic_id and anchor[] concept id resolves to a node in the tree (programmatically verified) — home_topic_id order exactly matches topic traversal order 1:1.",
+        "strand_to_objective_map covers every legacy_id (L1-L13) exactly once, single strand L / ભાષા અને સાહિત્ય throughout.",
+        "Every topic carries objective_ids resolving to the registry (programmatically verified, no dangling refs).",
+        "Each objective is text-grounded and chapter-specific: each names a concrete character/advice unique to this chapter (તુવેરની દાળ, જવ/ગોગલ્સ, કેસર, સિંદૂર/ટૂચકો, ભાંગ, ચંદન/સૂંઠ/લવિંગ/બેદું, આમલી/ગોણ, કાંદો, 'પેટં' ઇલાજ) — none could be pasted into another chapter.",
+        "Id grammar verified programmatically: M/S/T/C hierarchy dotted and continuous (T1-T13, C1-C13 matching topic number, no gaps), no M1.S1.T1.P1-style code anywhere."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Segment lengths are uneven (M2.S3 holds 3 topics, others hold 2) per the marker count and the circle-of-advice-givers grouping (home/market/staff-and-colleagues/street/closing) — flagged by A2 for Agent 13's pacing read, not a defect.",
+    "Difficulty ratings (hard) on M2.S3.T8, M2.S4.T11, M2.S5.T12 reflect dialect/register load per the genre profile's Language section (Parsi Hindi-mixed, Parsi-inflected Gujarati, rambling foi speech) — consistent with profile guidance.",
+    "01_meta.json's structure_inventory.ghatna=13 vs the 11 actual [[ઘટના:]] markers is a meta-file count that predates the final marker placement; the structure correctly follows the page (11 markers), and this note travels forward so Agent 13 sees the origin of the discrepancy."
+  ]
+}

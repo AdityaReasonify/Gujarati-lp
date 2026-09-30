@@ -1,0 +1,180 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Nothing offstage invented / no supplied narrator: no sentence of `explanation`, `real_life_example`, or any summary field for this header topic may state or imply who ચારુબાલા is waiting for. This topic's `original_chunk` (the `પાત્રો` box and the opening room-direction 'ચારુબાલા ઊભી છે... વારંવાર સામાનની ફેરબદલી કર્યા કરે છે... કોઈની ભારે આતુરતાપૂર્વક રાહ જોઈ રહી છે') never names who is expected; that only becomes clear in later beats.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No dropped or paraphrased રંગસૂચના: the opening direction's own phrases -- 'પાંત્રીસેક વર્ષની ગૃહિણી', 'વારંવાર સામાનની ફેરબદલી કર્યા કરે છે', 'ભારે આતુરતાપૂર્વક રાહ જોઈ રહી છે' -- must survive character-for-character in `original_chunk` and must not be replaced by narration inside `explanation`; the direction is the only source the audience has for ચારુબાલાની મનોસ્થિતિ before કેતકી speaks.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `પાત્રો` બોક્સ અને શરૂઆતની રંગસૂચનાને ઠાલી ઓળખાણ-વિધિ સમજી કૂદકો મારીને સીધા સંવાદ પર જાય છે, અને ચૂકી જાય છે કે આ થોડી લીટીઓમાં જ ચારુબાલાની અધીરી, વ્યસ્ત મનોસ્થિતિ પડદો ઊઘડતાં પહેલાં જ પ્રેક્ષકને અપાઈ ચૂકી છે.",
+      "correction": "explanation એ પાત્રો યાદીમાંથી ચાર સંબંધો (કેતકી-ચારુબાલા-સંતોષ-ક્ષિતિ) નામ સાથે તારવે, અને શરૂઆતની રંગસૂચનામાંથી જ ચારુબાલાની 'વારંવાર સામાનની ફેરબદલી' અને 'આતુરતાપૂર્વક રાહ' ટાંકીને કહે કે નાટક ખૂલતાં પહેલાં જ પ્રેક્ષકને શું ખબર પડી ગઈ."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "No dropped or paraphrased રંગસૂચના: both parenthesised directions inside this beat, `(ડરતાં ડરતાં)` and `(ટેબલક્લોથ પછાડીને)`, must appear character-for-character in `original_chunk`; `explanation` may not replace `(ટેબલક્લોથ પછાડીને)` with a narrated line such as 'ચારુબાલા ગુસ્સે થઈ ગઈ.'",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No tacked-on બોધ: no sentence of `explanation`, `real_life_example`, or any summary/recall answer may state or imply, in either direction, a general rule about mothers and housework; `હું એકલી જ જાણે બધાંની દાસી` stays this specific moment's complaint, tied to કેતકીના પાંચમા સવાલ, not a stated life-rule.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ચારુબાલાની લીટી 'હું એકલી જ જાણે બધાંની દાસી' ને શબ્દશઃ, કાયમી હકીકત તરીકે વાંચી લે છે અથવા એમાંથી 'બધી માતાઓ આમ જ હોય' એવો સામાન્ય નિયમ તારવી કાઢે છે -- અને ચૂકી જાય છે કે આ તો કેતકીના પાંચમા સવાલ પછીની, આ ચોક્કસ ક્ષણની થાકેલી ફરિયાદ છે.",
+      "correction": "explanation માં પહેલાં ગણતરી બતાવો -- ટોપી, બટન, હવે ચશ્માં, પાંચમી વાર -- અને પછી જ 'દાસી' શબ્દને એ ગણતરીના પરિણામ તરીકે જોડો; આ ચોક્કસ ક્ષણનો થાક છે, સામાન્ય નિયમ નહીં."
+    },
+    {
+      "topic_id": "M1.S1.T3",
+      "avoid_checks": [
+        {
+          "check": "Nothing offstage invented: no sentence of `explanation`, `detailed_summary`, or any `recall_questions[].answer` may state or guess what ચારુબાલા was going to say after 'હું ન હોત તો તમને ખબર પડત કે...' -- the line is left trailing in `original_chunk` (ત્રણ ટપકાં) and is never completed inside this beat.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No supplied narrator: `explanation` may name only the shifts in feeling that this beat's bracketed directions actually mark (`(ડઘાઈ જઈને)`, `(સોફામાં પડતું નાખે છે.)`, `(સંકોચથી)`, `(છોભીલા પડીને)`), never an interior state ('તેને દુઃખ થયું', 'તે વિચારવા લાગ્યો') that is not one of them.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'બળ્યું, રહેવા દો' ને શબ્દશઃ 'કંઈક બળી ગયું' જેવો અર્થ કરી લે અથવા આખા વાક્યનો ભાવ ચૂકી જાય છે -- જ્યારે ખરેખર 'બળ્યું' અહીં કંટાળા-નિરાશાનો ઉદ્ગાર છે ('રહેવા દો' ના અર્થમાં), એ ક્ષણનું જ્યાં ચારુબાલા સંતોષને શોધવા જતાં રોકીને પોતે ચશ્માં શોધવા જવાનું નક્કી કરે છે.",
+      "correction": "key_terms અથવા explanationમાં જે સ્થળે 'બળ્યું' વપરાયું છે ત્યાં જ 'બળ્યું (અહીં) -- કંટાળા-નિરાશાનો ઉદ્ગાર, 'રહેવા દો' ના અર્થમાં' એમ ગ્લોસ કરો, જેથી બાળક વાક્યનો સાચો સૂર પકડે."
+    },
+    {
+      "topic_id": "M1.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "No tacked-on બોધ: no sentence of `explanation`, `real_life_example`, or any summary/recall answer may state, in either direction, that lying is good or bad as a general rule; કેતકીની લીટી 'ખોટું બોલવું હજાર વાર સારું' stays inside this specific playful બાપ-દીકરી ગોઠવણ, not a lesson the topic teaches.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "Nothing offstage invented: no sentence may state what ક્ષિતિની બાની ('એનાં બાની એવી ઈચ્છા હતી કે એ...') actually wished for beyond 'ડૉક્ટર' already named earlier in the exchange, since the sentence itself trails off (ત્રણ ટપકાં) before completing inside this beat.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક કેતકીની મજાકિયા દલીલ 'ખોટું બોલવું હજાર વાર સારું'ને નાટકનો ખરો બોધ સમજી લે છે, જાણે નાટક ખોટું બોલવાની સલાહ આપતું હોય -- જ્યારે ખરેખર આ તો બાપ-દીકરીની એક રમતિયાળ, ખાનગી ગોઠવણ છે, જેમાં કેતકી પોતાની ચતુરાઈથી રાજી થાય છે.",
+      "correction": "explanation માં આ ગોઠવણને 'બા લડે એના કરતાં' શબ્દો ટાંકીને કેતકીના પોતાના તર્ક તરીકે બતાવો -- બાળકને ખોટું બોલવા વિશે કોઈ ચુકાદો આપ્યા વગર, ફક્ત આ દૃશ્યની રમૂજ તરીકે."
+    },
+    {
+      "topic_id": "M1.S2.T5",
+      "avoid_checks": [
+        {
+          "check": "Nothing offstage invented / no resolution supplied early: no sentence of this topic's `explanation`, summaries, or `recall_questions[].answer` may state how ક્ષિતિ actually reacts to the house once she arrives; that is not shown until `M2.S3.T6` onward, while this topic's `original_chunk` carries only ચારુબાલા-સંતોષની ચિંતા, not the outcome.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No supplied narrator: `explanation` may cite only the reasons ચારુબાલા herself states for her worry ('આપણું ઘર છે જ સાદું, ગામડિયું... એમને કદાચ કંઈ પણ ન ગમે'), never an invented reason of its own.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ફક્ત આ દૃશ્યની ચિંતાભરી અડધી વાત (ક્ષિતિને ઘર નહીં ગમે તો?) પકડી લે છે અને દૃશ્યના બીજા અડધા ભાગનો વળાંક -- ચશ્માં જડ્યાં, ને ચારુબાલા પ્રેમથી સંતોષને પહેરાવે એ હૂંફાળી પળ -- ચૂકી જાય છે, જાણે આખું દૃશ્ય ફક્ત ચિંતાનું જ હોય.",
+      "correction": "explanation બંને ભાગ સાથે લે -- પહેલાં ચિંતા (ઘર સાદું છે, ગમશે કે નહીં), પછી વળાંક (ચશ્માં પોતે જ સંતાડેલાં, પ્રેમથી પહેરાવ્યાં) -- અને કહો કે આ બે વચ્ચેનો ફેરફાર જ આ સ્ટેજ-બીટનો ખરો મુદ્દો છે."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "Nothing offstage invented: no sentence may name the reason ક્ષિતિ gives for wanting to speak to સંતોષ alone; `original_chunk` ends with her saying 'મારે સંતોષભાઈને એક વાત કરવી છે' and naming no content, and the reason is not stated until `M3.S5.T8`.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No dropped or paraphrased રંગસૂચના: the appearance direction ('હાથમાં બબ્બે બંગડી, રંગીન સાડી, કપાળમાં ચાંદલો -- ડોક્ટર થયાનું કે વીસ વર્ષ વિલાયતમાં કાઢ્યાનું એકે લક્ષણ નથી') must survive character-for-character in `original_chunk`, and `explanation` must say what it tells the audience, not skip it as costume detail.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ક્ષિતિની 'ભાભી, તમે અને કિટી જાઓ તો... મારે સંતોષભાઈને એક વાત કરવી છે' માગણીને સામાન્ય, ઔપચારિક વિનંતી ગણી લે છે અને ચૂકી જાય છે કે એ પોતે જ કહે છે કે આની પાછળ 'એક કારણ' છે -- જે એ કહેતી નથી. આ જ નાટકનું પહેલું રહસ્ય-બીજ છે.",
+      "correction": "explanation માં નોંધો કે ક્ષિતિ પોતે 'એનું એક કારણ હતું' કહે છે પણ કારણ કહેતી નથી -- બાળકને એ કારણનું અનુમાન બતાવ્યા વગર, ફક્ત એટલું પૂછો કે 'ક્ષિતિફોઈ શું છુપાવે છે એવું લાગે છે?', જેથી હવે પછીના દૃશ્યની રાહ જોવાનું મન થાય."
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "No supplied narrator: `explanation` may cite only the reason ચારુબાલા states for leaving ('તમને ન ફાવતું હોય તો હું અંદર જાઉં'), never an invented emotional motive of its own.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "Nothing offstage invented: no sentence may state what ક્ષિતિ intends to tell સંતોષ; that is still withheld inside this beat's `original_chunk`.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ચારુબાલાના વાક્ય 'તમને ન ફાવતું હોય તો હું અંદર જાઉં...'નો ફક્ત પહેલો ભાગ પકડે છે (એ સીધી માની જાય છે, જતી રહે છે) અને બીજો ભાગ 'બાકી જે વાત તમારા ભાઈ જાણે તે વહેલી કે મોડી હું જાણીશ, જરૂર જાણીશ' ચૂકી જાય છે -- જેમાં ચારુબાલા નમતું આપવા છતાં પોતાની જીદ સાફ જણાવે છે.",
+      "correction": "explanation અને recall answer બંને ભાગ સાથે લે -- ચારુબાલા જાય છે ખરી, પણ 'જરૂર જાણીશ' કહીને ચેતવણી પણ આપતી જાય છે; આ બે વાક્યાંશ સાથે જ ચારુબાલાનું પાત્ર પૂરું સમજાય."
+    },
+    {
+      "topic_id": "M3.S5.T8",
+      "avoid_checks": [
+        {
+          "check": "No resolution supplied early: no sentence of `explanation`, any summary, or `recall_questions[].answer` in this topic may state that the letter's claim is false, staged, or a `કસોટી`; that reveal first appears in `M3.S6.T10`'s `original_chunk` ('હું તમને... કસોટી કરી રહી હતી... કાગળ ફાડે છે'). Until then this topic must present the letter's claim exactly as ક્ષિતિ and સંતોષ receive it.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No supplied narrator: `explanation` may not assert ક્ષિતિનું true motive while she circles toward the letter (her praise of the house, ભાભી, and કિટી); it may only point at the pattern -- she keeps delaying, સંતોષ keeps trying to end the conversation -- without naming why.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ક્ષિતિની શરૂઆતની વાતો -- ઘર સારું છે, ભાભી પ્રેમાળ છે, કિટી વહાલસોઈ છે -- ને સાદી, નિરર્થક ગપસપ સમજી લે છે અને ચૂકી જાય છે કે આ ધીરે ધીરે, આડકતરી રીતે કોઈ ગંભીર વાત તરફ દોરી જવાની જ રીત છે -- સંતોષ પોતે વારંવાર વાત ટૂંકાવવા મથે છે એ પણ આનો જ પુરાવો છે.",
+      "correction": "explanation માં દેખાડો કે ક્ષિતિ સીધી વાત પર આવવાને બદલે વખાણથી શરૂ કરે છે અને સંતોષ ત્રણ વાર વાત બદલવા મથે છે ('હું ચારુબાલાને બોલાવું', 'હું હોટલમાંથી તારો સામાન લઈ આવું') -- આ ધીમી, ટાળંટાળ ચાલ જ સસ્પેન્સ ઊભી કરે છે, બોલાયેલા શબ્દોના સીધા ભાવાર્થ કરતાં જુદી."
+    },
+    {
+      "topic_id": "M3.S6.T9",
+      "avoid_checks": [
+        {
+          "check": "No tacked-on બોધ: no sentence of `explanation`, `detailed_summary`, or any `recall_questions[].answer` may end on a general exhortation like 'આપણે ઉદાર/નિઃસ્વાર્થ થવું જોઈએ'; the Evaluate-level objective (O9) calls for judging સંતોષના સ્વભાવ from his specific offers (નોકરીની બદલી, જમીનની કડાકૂટ છોડવી, બાળકોને ભણાવવાનું), not a stated moral.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "No resolution supplied early (carried from M3.S5.T8): no sentence here may state that the letter/claim is false or a `કસોટી` either; સંતોષ still believes it inside this beat's `original_chunk`.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક સંતોષની ઉદારતાના પ્રસંગને 'આપણે બધાએ ઉદાર થવું જોઈએ' જેવા સામાન્ય જીવન-નિયમમાં ફેરવી નાખે છે, અને સંતોષે ખરેખર શું શું છોડવા તૈયારી બતાવી (નોકરીની બદલી, જમીનની કડાકૂટ, પોતાનો સમય બાળકોને આપવો) એ ચોક્કસ વિગતો તરફ ધ્યાન નથી આપતું.",
+      "correction": "explanation માં સંતોષે ખરેખર શું શું ઓફર કર્યું એ ત્રણ ચોક્કસ વસ્તુઓ ટાંકો (નોકરીની બદલી, જમીનની કડાકૂટ છોડવી, બાળકોને ભણાવવાનું વિચારવું) અને એના પરથી જ એના સ્વભાવ વિશે 'શું કહી શકાય' પૂછો -- સામાન્ય બોધ વાક્યથી નહીં."
+    },
+    {
+      "topic_id": "M3.S6.T10",
+      "avoid_checks": [
+        {
+          "check": "No tacked-on બોધ: no sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, or any `recall_questions[].answer` may restate or paraphrase the blue પરિચય-બોક્સ line 'જીવનમાં એકબીજા માટેની ભાવના અને લાગણી ઘણી જ મહત્વની ચીજ છે' as a supplied moral; the resolution must stay with ક્ષિતિની ક્રિયા (કાગળ ફાડવી, રહેવાનો નિર્ણય, ગુપ્ત રાખવાની શરત), not a stated lesson.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        },
+        {
+          "check": "Nothing offstage invented: no sentence may state that ચારુબાલા later learns about the કસોટી or forgives/reacts to it; the play's `original_chunk` ends on `(પડદો પડે છે)` before that, and no resolution beyond the printed lines may be supplied.",
+          "profile": "natak_ekanki",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક નાટકનો અંત ફક્ત 'બધું ખુલ્લું પડ્યું, બધા ખુશ થયા' તરીકે વાંચી લે છે અને ક્ષિતિની શરત -- 'આજે જે વાત થઈ તે કદી પણ ભાભીને કરી છે તો હું અહીં રહીશ નહિ' -- ચૂકી જાય છે; ખરેખર નાટક એક ખુલ્લા રહસ્ય પર નહીં, પણ એક નવા, નાના ખાનગી કરાર પર પૂરું થાય છે.",
+      "correction": "explanation અને recall answer બંનેમાં બે ભાગ સાથે લો -- ક્ષિતિ કાયમ રહેવાનું નક્કી કરે છે, અને સાથે એ પણ શરત મૂકે છે કે ભાભીને ક્યારેય ખબર ન પડવી જોઈએ; છેલ્લી લીટી 'ભાભી સાંભળશે તો વઢશે' જ બતાવે છે કે આ નાનું રહસ્ય કાયમ રહેવાનું છે."
+    }
+  ],
+  "chapter_level": [
+    "Nicknames run through the whole play and must be treated as the same people, never separate characters: કિટી = કેતકી (also called 'ભત્રીજ કિટી' by ક્ષિતિ), સંતુ/સંતુભાઈ = સંતોષ/સંતોષભાઈ (ક્ષિતિ uses both), ચારુ = ચારુબાલા (સંતોષ uses this). No topic's `key_terms` or `explanation` may introduce or imply these are different people.",
+    "The word for 'the land trouble' is printed two ways on the page: 'કડાકૂટ' in the શબ્દાર્થ box and in M3.S6.T9's `original_chunk`, but 'કડાફૂટ' in સ્વાધ્યાય block 4's શબ્દ-બેંક. Both stay exactly as printed in their own location (topic vs exercise); neither should be silently changed to match the other.",
+    "The embedded 'સ્થળ : પાટણ' (રાજા વિશળદેવ -- જગડુશા) passage printed inside સ્વાધ્યાય block 3 is a second, unrelated historical play-excerpt used as comprehension material, not part of ક્ષિતિ. No topic's `explanation`, `real_life_example`, or any recall answer may treat its characters or events as belonging to this chapter's story.",
+    "This play marks several interrupted or trailing lines with ત્રણ ટપકાં (`...`) -- ચારુબાલા's 'ખબર પડત કે...' (M1.S1.T3), સંતોષ's 'એવી ઈચ્છા હતી કે એ...' (M1.S2.T4), ચારુબાલા's 'તારો આટલો ઉત્સાહ...' (M1.S2.T5), સંતોષ's 'એટલે કે... અને... અને...' (M2.S4.T7). These are the printed script convention for an interruption or a trailed-off thought, per `reference/gujarati_verbatim.md` and this profile's own priors -- no topic may complete or guess the rest of any such line."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "board": "gseb",
+  "grade": 10,
+  "subject": "Gujarati",
+  "level": "standard",
+  "version": 1,
+  "chapter_id": "gseb_eng_gujarati10_ch7",
+  "plan_id": "gseb_eng_gujarati10_ch7_v1",
+  "chapter_name": "જીવમાં જીવ આવ્યો",
+  "unit_title": "જીવમાં જીવ આવ્યો",
+  "unit_number": 7,
+  "topic_number": 7,
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 10",
+  "textbook_url": "../Textbooks-pdf/std-10/ch-07-jivma-jiv-avyo.pdf",
+  "textbook_pages": "39–41",
+  "chapter_master_id": null,
+  "subject_ref_id": null,
+  "genre": "સૉનેટ",
+  "genre_signals": {
+    "structure": "પદ્ય, ચૌદ પંક્તિ, પાનાં પર સાત યુગ્મ (couplet) રૂપે છપાયેલી પણ વ્યાકરણની દૃષ્ટિએ એક જ સળંગ વાક્ય-ગતિ — અલ્પવિરામથી જોડાયેલી પંક્તિઓ પંક્તિ 12ના ઉદ્ગારચિહ્ન (!) સુધી ચાલે છે (દા.ત. પંક્તિ 5-6 વચ્ચે 'ધીરે-/ધીરે' શબ્દનું વિભાજન, enjambment), પછી છેલ્લી બે પંક્તિ મૂળ શીર્ષક-પંક્તિ 'જીવમાં જીવ આવ્યો' ફરી લાવીને બંધ કરે છે — વર્તુળાકાર સમાપન, ટેક નહીં (સોનેટ.md મુજબ). કોઈ છાપ નથી, કોઈ રદીફ નથી, પંક્તિ-અંતે કોઈ પુનરાવર્તિત શબ્દ નથી.",
+    "theme": "ઉનાળાના તાપ અને પવન-ડમરી (વંટોળ) પછી પ્રથમ વરસાદનાં ફોરાં પડતાં આખી સૃષ્ટિમાં નવજીવન આવવું — વર્ષા-કાવ્ય.",
+    "exercises": "MCQ પ્રશ્ન (1): ‘જીવમાં જીવ આવ્યો’ – કૃતિમાં શેનું વર્ણન છે ? — વિકલ્પ (d) વરસાદના આગમનનું; બે-ત્રણ વાક્યમાંનો પ્રશ્ન (2) એક યુગ્મ ટાંકીને ‘પંક્તિ સમજાવો’ પૂછે છે; સવિસ્તર ઉત્તરનો પ્રશ્ન (1) ‘શીર્ષકની યથાર્થતા ચર્ચો’ પૂછે છે — સૉનેટની ઓળખ ગણાતો ટાઇટલ-ફિટનેસ પ્રશ્ન. શિક્ષકની ભૂમિકા સીધું ‘સોનેટ કાવ્યપ્રકારનો પ્રાથમિક પરિચય આપવો’ અને ‘સોનેટની ગુજરાતી સાહિત્યમાં કોણે શરૂઆત કરી તે જણાવવું’ કહે છે.",
+    "purpose": "કૃતિ-પરિચય પોતે સ્વરૂપ અને છંદ બંને નામ આપે છે: ‘...તે ભાવને કવિએ આ સોનેટમાં મંદાક્રાન્તા છંદમાં પ્રગટ કર્યો છે. તે માટે રૂઢિપ્રયોગ યોજ્યો છે. જીવમાં જીવ આવ્યો.’ — રૂઢિપ્રયોગ પર જ કાવ્ય રચાયું છે એમ કૃતિ-પરિચય નોંધે છે; શિક્ષકની ભૂમિકા પણ ‘સોનેટ સ્વરૂપમાં લખાયેલી આ કૃતિ’ કહીને ફરી નામ આપે છે."
+  },
+  "genre_confidence": "high",
+  "active_genre_profiles": ["sonnet.md"],
+  "teaching_lens": "બંધ + વળાંક + ભાવની ઘનતા",
+  "guiding_question": "ઝીણાં ફોરાં ઝરમર ઝરે ત્યારે વગડો, સીમ અને માણસો — બધામાં કયો બદલાવ આવે છે ?",
+  "explanation_unit": "એક ભાવ-ખંડ",
+  "structure_inventory": {
+    "lines_total": 14,
+    "printed_couplets": 7,
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0,
+    "ghatna": 0,
+    "tek_occurrences": 0,
+    "title_line_circular_closure": true,
+    "note": "Title line 'જીવમાં જીવ આવ્યો' closes line 2 (end of first couplet) and again closes line 14 (last line) — a circular closure per sonnet.md, explicitly NOT a ટેક or ધ્રુવપંક્તિ; no [[કડી]] marker used anywhere in 00_chapter_normalized.md per sonnet.md's hard gate against inventing કડી structure in a poem the page prints without stanza breaks."
+  },
+  "exercise_inventory": [
+    {
+      "group": "MCQ",
+      "items": 2,
+      "verbatim_heading": "નીચેના પ્રશ્નો સાથે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો."
+    },
+    {
+      "group": "એક-એક વાક્યમાં ઉત્તર",
+      "items": 2,
+      "verbatim_heading": "નીચેના પ્રશ્નોના એક-એક વાક્યમાં ઉત્તર લખો."
+    },
+    {
+      "group": "બે-ત્રણ વાક્યમાં ઉત્તર",
+      "items": 2,
+      "verbatim_heading": "નીચેના પ્રશ્નોના બે-ત્રણ વાક્યમાં ઉત્તર લખો."
+    },
+    {
+      "group": "સવિસ્તર ઉત્તર",
+      "items": 2,
+      "verbatim_heading": "નીચેના પ્રશ્નોના સવિસ્તર ઉત્તર લખો."
+    },
+    {
+      "group": "વિદ્યાર્થી-પ્રવૃત્તિ",
+      "items": 3,
+      "verbatim_heading": "વિદ્યાર્થી-પ્રવૃત્તિ"
+    }
+  ],
+  "extraction_notes": [
+    "GENRE ROUTING: all four signals (structure, theme, સ્વાધ્યાય, purpose) agree with high confidence on સૉનેટ — the chapter's own કૃતિ-પરિચય names the form and metre outright ('આ સોનેટમાં મંદાક્રાન્તા છંદમાં'), matching profiles/genres/sonnet.md's own founding example for this exact chapter (std-10 ch 7). No conflict found; this diagnosis was made independently from my own render (150/220/400dpi) before cross-checking sonnet.md's provenance note, which happens to cite this same chapter — consistent with reference/genre_diagnosis.md's instruction that the corpus/profile citations are priors, not substitutes for the render.",
+    "DOUBLE-RENDER CROSS-CHECK performed per gujarati_verbatim.md: transcribed first at 150dpi, re-rendered at 220dpi and 400dpi, and read the letter-spaced verse back word-by-word (this chapter is flagged in reference/corpus/std-10_inventory.md and profiles/boards/gseb_gujarati.md as the book's top letter-spacing/OCR-hazard chapter). Two corrections found and resolved by cross-checking the verse against the chapter's OWN ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા boxes, which quote the same phrases twice each: (1) line 8 reads 'ફૂટું ફૂટું ફરફર થતું રૂપ ખીલ્યું ધરાનું' — NOT 'ફૂટ્યું ફૂટ્યું' as an early read suggested; confirmed by the ભાષા-અભિવ્યક્તિ bullet 'ફૂટું ફૂટું, ફર ફર થતું રૂપ ખીલ્યું...' and by શિક્ષકની ભૂમિકા's own phrase 'ફૂટું ફૂટું થઈ રહેલું ધરા/પૃથ્વીનું રૂપ'. (2) line 9's first word is 'ટ્હૌકી' (ટ-halant-હ conjunct + ઔ-માત્રા + કી) — confirmed twice: once in the verse itself and once quoted verbatim in the ભાષા-અભિવ્યક્તિ paragraph ('કાવ્યમાં થૈ, લૈને, ટ્હૌકી શબ્દો... તે થઈ, લઈને અને ટહુકીનાં રૂપો છે'), which also independently confirms 'ટહુકી' (no halant) as the plain/base form the poem's spelling departs from.",
+    "PRIOR DISAGREEMENT (page wins per genre_diagnosis.md): the કૃતિ-પરિચય's closing cross-reference line reads, on my own render, 'આ કાવ્ય સાથે સ્વપ્નસ્થનું 'મેહુલા' કાવ્ય મૂકવાથી બંને કાવ્ય વધુ ઊંડાણથી સમજી શકાશે.' — the poet's name here is the pen-name 'સ્વપ્નસ્થ' (single possessive noun 'સ્વપ્નસ્થનું'). reference/corpus/std-10_inventory.md's earlier note transcribed this uncertainly as 'સ્વ. રામનારાયણ પાઠકનું(?)' (flagged with its own '(?)'). My own 400dpi crop of this exact phrase reads unambiguously 'સ્વપ્નસ્થનું', so that is what is recorded here and in 00_chapter_normalized.md; the corpus file's guess is superseded. The referenced poem 'મેહુલા' is a companion-reading suggestion only — it is NOT printed anywhere in this chapter's own three pages, so no content from it exists to transcribe or teach.",
+    "EXERCISE_INVENTORY includes વિદ્યાર્થી-પ્રવૃત્તિ (3 items) as its own group, following global_content_rules.md rule 7 (which lists 'પ્રવૃત્તિ' among the સ્વાધ્યાય-family blocks belonging to exercise_solutions.json) and profiles/genres/_genre_index.md's appended-matter note ('though પ્રવૃત્તિ items that address the child do [enter Agent 10's coverage]') — all three bullets here are child-addressed imperatives (નહાવાનો અનુભવ...વર્ણવો, સમૂહપઠન કરો, યાદી તૈયાર કરો). NOTE: this differs from the immediately-prior std-10 agent's choice on output10/ch03/01_meta.json, which placed વિદ્યાર્થી-પ્રવૃત્તિ into extraction_notes only as apparatus alongside ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા. Both readings have textual support; this file follows the rule-7 reading. Flagging the inconsistency for whoever reconciles pipeline conventions across std-10 chapters — it does not block downstream work here since the inventory itself (which items exist, with what exact heading and count) is unaffected either way.",
+    "NOT inventoried as exercises, recorded here as apparatus per reference/genre_diagnosis.md step 5 and profiles/genres/_genre_index.md point 6: the શબ્દ-સમજૂતી box (સમાનાર્થી શબ્દો/શબ્દાર્થ, તળપદા શબ્દો, વિરુદ્ધાર્થી શબ્દો, રૂઢિપ્રયોગ, શબ્દસમૂહ માટે એક શબ્દ — all pre-સ્વાધ્યાય glossary), ભાષા-અભિવ્યક્તિ (multi-paragraph craft commentary spanning pages 40–41, discussing 'થૈ/લૈને/ટ્હૌકી', four repetition-series bullets, રવાનુકારી 'ફરફર'/'ખદખદી', દ્વિરુક્ત 'અડખે-પડખે'/'ઝરમર', and the 'નમણી'/'ભાંભર્યાં' word choices), and શિક્ષકની ભૂમિકા (page 41, teacher-addressed — discusses the title-fitness point, the closing ભાવપલટો, and two reference verses 'આવ રે વરસાદ...' and 'મેહુલો ગાજે ને માધવ નાચે', plus the two સોનેટ-introduction bullets). No content from any of these three boxes was copied into 00_chapter_normalized.md's `explanation`-equivalent scaffolding — they are transcribed there only under their own [[ભાષા-અભિવ્યક્તિ]] / [[શિક્ષકની ભૂમિકા]] markers as evidence for Agent 12's craft fields.",
+    "છંદ: 'મંદાક્રાન્તા' is named because the chapter's own કૃતિ-પરિચય prints it — per sonnet.md, this is the ONE permitted છંદ-naming case (std 10 only, quoted from the book). No other metre or માત્રા-count is asserted anywhere.",
+    "QR badge to the left of the title contains the 6-character code 'D2V7IZ' (read on the render; matches profiles/boards/gseb_gujarati.md's defect-catalogue entry for this chapter) — read around it, never transcribed as content.",
+    "Letter-spacing: the printed verse uses wide inter-character spacing throughout (the book's worst OCR/extraction hazard per profiles/boards/gseb_gujarati.md's defect table entry #5 and reference/corpus/std-10_inventory.md) — every line was re-read at 400dpi crops; no spurious or missing માત્રા found beyond the ordinary letter-gaps, which carry no meaning and are not reproduced as spaces inside words in 00_chapter_normalized.md.",
+    "The dash inside line 12 ('ક્યાંથી આવ્યાં - મનભર મળ્યાં લોક કાચી ઘડીમાં !') is content, per sonnet.md's own note about this exact line — kept as printed, not removed or replaced.",
+    "Rendered 3 PDF pages (printed pp. 39–41) at 150dpi first, then 220dpi and 400dpi for the verse and the small-print author/gloss lines; page 1 verified against its own printed number box '7' and title 'જીવમાં જીવ આવ્યો', matching both the manifest (Textbooks-pdf/std-10/manifest.json) and profiles/boards/gseb_gujarati.md's std-10 table row for ch 7.",
+    "chapter_id/plan_id use the provisional medium slot 'eng' per reference/naming_conventions.md — flagged there as UNVERIFIED pending VERIFY-1; not re-derived here.",
+    "chapter_master_id and subject_ref_id left null per no_hallucination_policy.md and gseb_gujarati.md — no verified GSEB DB record exists yet (VERIFY-2 pending)."
+  ]
+}

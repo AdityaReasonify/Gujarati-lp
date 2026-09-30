@@ -1,0 +1,272 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Avoid 9 (supplementing from general knowledge): every book title and its category (લેખસંગ્રહ / ચરિત્ર / હાસ્યલેખ-સંગ્રહ / અનુવાદ) stays exactly as this chunk states it; no field adds any fact about 'પ્રો. ઘોંડો કેશવ કર્વે' himself (who he was, his dates, his field) — the chunk states only કે વિદ્યાગૌરી નીલકંઠે તેમનું ચરિત્ર લખ્યું, nothing about the man.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "The four categories this chunk names — 'ફોરમ', 'ગૃહદીપિકા', 'નારીકુંજ', 'જ્ઞાનસુધા' as લેખસંગ્રહો; 'પ્રો. ઘોંડો કેશવ કર્વે' as ચરિત્ર; 'હાસ્યમંદિર' as her હાસ્યલેખોનો સંગ્રહ; 'સુધાહાસિની' અને 'હિન્દુસ્તાનમાં સ્ત્રીઓનું સામાજિક સ્થાન' as અનુવાદ — stay four separate facts; no field merges them into one undifferentiated 'તેમનાં પુસ્તકો' list, since objective O1 asks for them શોધીને કહેવી as distinct categories.",
+          "profile": "nibandh_atmaparak",
+          "severity": "soft"
+        }
+      ],
+      "misconception": [
+        "ચાર જુદી યાદીઓ (લેખસંગ્રહ, ચરિત્ર, હાસ્યલેખ, અનુવાદ) એક પછી એક વંચાય ત્યારે બાળક તેને એક જ સપાટ 'એમનાં પુસ્તકોની યાદી' તરીકે યાદ રાખવાનો પ્રયત્ન કરે છે અને 'હાસ્યમંદિર'માં તેમના હાસ્યલેખો છે' એ વાક્યને બીજાં ત્રણ વાક્યો જેવું જ એક સામાન્ય તથ્ય ગણી લે છે. પરિણામે, છેલ્લા વિષયના અંતે આવતી પંક્તિ ('હાસ્યમંદિર'માંથી) સાથે આ વાક્યની કડી બાળક જોડી શકતું નથી, અને એ ખ્યાલ ચૂકી જાય છે કે આ આખો પાઠ પોતે જ 'હાસ્યમંદિર' નામના એ જ પુસ્તકમાંથી લેવાયેલો એક હાસ્યલેખ છે."
+      ],
+      "correction": "સમજૂતીમાં 'હાસ્યમંદિર'ની વાત આવે ત્યાં જ એક નાનું વાક્ય ઉમેરો — જેમ કે, આ જ પાઠ પણ એમના 'હાસ્યમંદિર' પુસ્તકનો એક હાસ્યલેખ છે — જેથી બાળક આ વિષયને છેલ્લા વિષયના છેડે આવતી '('હાસ્યમંદિર'માંથી)' પંક્તિ સાથે જોડી શકે. બાકીની ત્રણ કેટેગરી (લેખસંગ્રહ, ચરિત્ર, અનુવાદ) અલગ જ રાખો અને એકબીજામાં ભેળવો નહિ."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "Avoid 3 (a tacked-on બોધ), bound to this chunk's own closing line 'આ હાસ્યનિબંધ દ્વારા માનવ સ્વભાવમાં રહેલી શિખામણ આપવાની વૃત્તિનો પરિચય મળે છે.': `explanation` may present this AS the book's own framing of the genre, quoted or closely paraphrased, but no field extends it into an instruction addressed to the child — 'આપણે કોઈને વણમાગી સલાહ ન આપવી જોઈએ', 'સલાહ આપતાં પહેલાં વિચારવું જોઈએ' — that is not itself a quotation from this chunk.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 9: this chunk's generalisation 'પોતે બતાવેલો ઉપાય જ ઉત્તમ છે... એવો દાવો અનેક ઓળખીતા - વણઓળખીતા લોકો કરતા જ હોય છે' stays attributed to those people ('લોકો'); no field turns it into the essay's or narrator's own stated belief about doctors, remedies or advice-givers elsewhere in the plan.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": [
+        "કૃતિ-પરિચયનું બીજું જ વાક્ય — 'દરદીનું અને દરદનું જે થવું હોય તે થાય પણ પોતે બતાવેલો ઉપાય જ ઉત્તમ છે... એવો દાવો અનેક ઓળખીતા - વણઓળખીતા લોકો કરતા જ હોય છે' — લાંબું અને ગૂંથાયેલું છે. ધોરણ 9નું L2 બાળક આવા ગૂંથાયેલા વાક્યમાં અટવાઈને એને લેખિકાનું પોતાનું નિષ્ઠુર વિધાન ('દરદીનું ગમે તે થાય, વાંધો નહિ') માની લે છે, જ્યારે વાસ્તવમાં આ વાક્ય એ સલાહ આપનારાઓની માનસિકતાનું વર્ણન છે — જે આખા નિબંધની મજાકનું કેન્દ્ર છે."
+      ],
+      "correction": "સમજૂતીમાં આ વાક્યને નાના ટુકડામાં તોડીને કહો, અને દરેક ટુકડે સ્પષ્ટ કરો કે આ 'સલાહ આપનારા લોકો'નું વલણ છે, લેખિકાનું નહિ — જેમ કે: 'સલાહ આપનારાઓ એમ માને છે કે પોતાનો જ ઉપાય સાચો છે, ભલે દરદીનું ગમે તે થાય.' આમ કરવાથી બાળક શરૂઆતથી જ સમજી લે છે કે નિબંધ કોના પર હસે છે."
+    },
+    {
+      "topic_id": "M2.S1.T3",
+      "avoid_checks": [
+        {
+          "check": "Avoid 1 (flattening the voice into information): the first sentence of `explanation` names લેખિકા (or 'નિબંધની કથક') as its grammatical subject — this chunk carries 'મને', 'મેં' throughout ('મને એક વાર આંજણી થઈ હતી', 'મેં કાંઈ ઈલાજ કર્યો નહીં'). A first sentence of the shape 'આંજણી થાય ત્યારે તરત ઈલાજ કરવો જોઈએ.' with no લેખિકા in it fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 9: the doctor's statements ('પાકે એટલે મારી પાસે આવજો. હું નસ્તરથી ફોડીશ', 'બહુ પીડા થાય તો શેક કરજો') stay reported as his advice; no field adds outside medical information about આંજણી (styes) that this chunk does not print.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": [
+        "'પાકે એટલે મારી પાસે આવજો' વાક્યમાં 'પાકે' શબ્દ બાળક માટે ફક્ત ફળ પાકવાનો જ અર્થ ધરાવે છે ('કેરી પાકે'). એટલે 'ફોડલી પાકે' એ કલ્પના જ બાળકને વિચિત્ર લાગે છે, અને એ કાં તો શબ્દ ઉપરથી કૂદી જાય છે અથવા ખોટો અર્થ પકડી લે છે — પરિણામે ડૉક્ટરની આખી સલાહનો ક્રમ (પહેલાં રાહ જુઓ, પછી નસ્તરથી ફોડીશ) જ ગૂંચવાઈ જાય છે."
+      ],
+      "correction": "સમજૂતીમાં 'પાકે' શબ્દ ત્યાં જ ગ્લોસ કરો — 'પાકે એટલે ફોડલીમાં પરુ ભરાઈને એ તૈયાર થાય, જેમ ફોડલી પણ ફળની જેમ પોતાની રીતે 'પાકે' છે' — જૂનો પરિચિત અર્થ (ફળ પાકવું) નવા અર્થ સાથે જોડી આપો, જેથી ડૉક્ટરની સલાહનો ક્રમ સ્પષ્ટ રહે."
+    },
+    {
+      "topic_id": "M2.S1.T4",
+      "avoid_checks": [
+        {
+          "check": "Avoid 1: first sentence of `explanation` names લેખિકા as subject.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 9, bound to the મિત્રનું વિધાન 'એ તો ગાંધી-વૈદ્યનું સહિયારું. વિલાયતના દવાવાળાઓ દાક્તરોને પગાર આપે છે. પગાર અને અહીંના વેચનાર કમિશન આપે છે.': this stays attributed as મિત્રનો દાવો, spoken in ક્રોધ; no field repeats or explains it as an established fact about how doctors or medicine companies actually work.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "The postman's 'દાણ ચોપડજે સાહેબ, પણ જરા ગરમ કરજો' and the મિત્રનું 'ગરમ ન કરશો... ઠંડી દવા લગાડજો' both stand exactly as printed, spoken by two different people; no field resolves which one is medically correct or drops one of the two.",
+          "profile": "nibandh_atmaparak",
+          "severity": "soft"
+        }
+      ],
+      "misconception": [
+        "આ ટુકડામાં મિત્રનું લાંબું, ગુસ્સાભર્યું ભાષણ ('હરામખોરો! દાક્તરોને સરકાર ગાંસડા ભરીને... ') ઘણી પંક્તિઓ સુધી ચાલે છે. L2 બાળક આટલા લાંબા અવતરણમાં વક્તા કોણ છે એ ભૂલી જાય છે અને આ તડુકાને લેખિકાના પોતાના મત તરીકે અથવા નિબંધના પોતાના ચુકાદા તરીકે વાંચી લે છે — જેના કારણે બાળક આ પ્રસંગમાંથી 'ડૉક્ટરો ખરાબ હોય છે' જેવો ખોટો સાર કાઢે છે, જ્યારે ખરો મુદ્દો એ છે કે દરેક સલાહ આપનાર પોતાની વાત પર આંધળો વિશ્વાસ મૂકે છે."
+      ],
+      "correction": "સમજૂતીમાં દર થોડાં વાક્યે વક્તાનું નામ ફરી મૂકો — 'મિત્ર ગુસ્સે થઈને કહે છે —' — જેથી બાળક આખા ભાષણ દરમિયાન યાદ રાખે કે આ મિત્રનો અભિપ્રાય છે, લેખિકાનો કે નિબંધનો ચુકાદો નહિ. પછી ટપાલી અને મિત્રની વિરોધાભાસી સલાહ (ગરમ vs ઠંડી) બંને એમના પોતાના શબ્દોમાં ટાંકીને બતાવો કે બંને એટલા જ વિશ્વાસથી બોલે છે."
+    },
+    {
+      "topic_id": "M2.S2.T5",
+      "avoid_checks": [
+        {
+          "check": "Avoid 5 (inverting the irony), bound to ચશ્માંવાળાનું વાક્ય 'હું મારા સ્વાર્થ માટે નથી કહેતો.': `explanation` names, once, the situational irony — a glasses-shop owner recommending goggles while claiming no self-interest, right before 'મેં ચશ્માંની જોડ વેચાતી લઈ પહેરી દીધી.' — and no field rewrites the line into its literal correction ('ખરેખર તો તે પોતાના સ્વાર્થ માટે જ કહેતો હતો, એવું ન કહેવાય') or reports the claim as sincere fact.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 1: first sentence of `explanation` names લેખિકા as subject.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": [
+        "'હું મારા સ્વાર્થ માટે નથી કહેતો' વાક્યને બાળક શબ્દશઃ સાચું માની લે છે — કારણ કે વાક્ય પોતે જ પ્રામાણિકતાનો દાવો કરે છે. બાળક એ જોડાણ ચૂકી જાય છે કે બોલનાર ચશ્માંની દુકાનનો માલિક છે અને લેખિકા છેવટે 'ચશ્માંની જોડ વેચાતી લઈ પહેરી દીધી' — એટલે કે એ જ સલાહથી એનો પોતાનો ધંધો ચાલે છે. પરિણામે આ ટુકડાની આખી કટાક્ષ-ચોટ (વણમાગી સલાહની પાછળ છુપાયેલો સ્વાર્થ) બાળક સુધી પહોંચતી જ નથી."
+      ],
+      "correction": "સમજૂતીમાં બંને હકીકત પાસે-પાસે મૂકો — ચશ્માંવાળો કહે છે 'હું મારા સ્વાર્થ માટે નથી કહેતો', અને પછી લેખિકા એની જ દુકાનેથી ચશ્માંની જોડ ખરીદે છે — અને એક જ વાક્યમાં કહી દો કે આ કહેવું ને કરવું બંધબેસતાં નથી, એટલે એ સાચે જ 'સ્વાર્થ વગરની' સલાહ નથી. વધારે લંબાવવાની જરૂર નથી."
+    },
+    {
+      "topic_id": "M2.S2.T6",
+      "avoid_checks": [
+        {
+          "check": "Avoid 1: first sentence of `explanation` names લેખિકા as subject.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 9, bound to મુનીમનું 'રામબાણ છે. ઘડીએકમાં મટી જશે.': no field states, in its own voice, that કેસર (saffron) actually cures આંજણી — it stays the મુનીમનો દાવો, and the kinship chain he offers as proof ('મારા બનેવીના બનેવીને, ભાણેજની ભાણેજને ને ફુઆને થઈ'તી') is reported exactly, not simplified into 'મારા સગાંને થઈ હતી'.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": [
+        "'મારા બનેવીના બનેવીને, ભાણેજની ભાણેજને ને ફુઆને થઈ'તી' — આ વાક્યમાં સગપણના જોડિયા શબ્દો (બનેવીના બનેવી, ભાણેજની ભાણેજ) અને ત્રણ વાર આવતો 'ને' બંને L2 બાળકને અટકાવે છે. હિન્દી-માધ્યમનું બાળક 'ને'ને દરેક જગ્યાએ એક જ કામ ('અને') કરતું ધારી લે છે, જ્યારે અહીં પહેલા બે 'ને' ખરેખર '-ने' (કોને થઈ) નો અર્થ આપતા અનુગ છે અને છેલ્લો 'ને' ખરેખર 'અને' છે — પરિણામે બાળક આખા વાક્યને એક અસ્પષ્ટ 'ઘણા સગાં'ની યાદી માની લે છે અને મુનીમના પુરાવાની દૂરની, હાસ્યાસ્પદ કડી ચૂકી જાય છે."
+      ],
+      "correction": "સમજૂતીમાં આ વાક્યને ત્રણ ટૂંકાં વાક્યોમાં તોડો — 'આ ઇલાજ મારા બનેવીના બનેવીને થયો હતો', 'મારી ભાણેજની ભાણેજને પણ થયો હતો', 'મારા ફુઆને પણ થયો હતો' — અને પહેલા બે 'ને'ને 'ने' (-ने, કોને થયું એ બતાવતો અનુગ) તરીકે, છેલ્લા 'ને'ને 'અને' તરીકે એક-એક વાર ટપકાવો. પછી એક વાક્યમાં નોંધો કે આ પુરાવો કેટલો દૂરનો છે — તોય મુનીમ એને 'રામબાણ' કહે છે."
+    },
+    {
+      "topic_id": "M2.S3.T7",
+      "avoid_checks": [
+        {
+          "check": "Avoid 4 (explaining the joke, or apologising for it): at most one sentence of `explanation` may talk about the humour of the night-time ritual; no field contains 'આ મજાક છે', '(મજાક)', 'હસવું આવે એવું છે', or a plain restatement of 'એ તો હું આંજણી રાણી. આજ મારે ઘેર ને કાલે તારે.' offered as its own punchline.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "'વાંઝણી' stays glossed neutrally, exactly as `key_terms` already has it ('સંતાન ન હોય તેવી સ્ત્રી'); no field adds comment, judgement, sympathy or mockery about childlessness — the chunk names the custom, and the teaching stops there (`reference/global_content_rules.md` §10).",
+          "profile": "nibandh_atmaparak",
+          "severity": "soft"
+        }
+      ],
+      "misconception": [
+        "ઓફિસના સાથીનો ટૂચકો (વાંઝણી સ્ત્રીના બારણે જઈ 'હું આંજણી રાણી, આજ મારે ઘેર ને કાલે તારે' કહેવું) એટલો વિચિત્ર છે કે બાળક તેને એક વાસ્તવિક, જૂનો ઇલાજ માની બેસે છે અને 'આ કેમ કામ ન કર્યું' એ પ્રશ્ન સાચી દવાની જેમ પૂછે છે — જ્યારે ખરો મુદ્દો એ છે કે લેખિકા પોતે જ આ ટૂચકાને 'પરાયે ઘર કાંઈ કામ વગર રાતે એકલા જવાનું ઠીક ન લાગવાથી' શંકાની નજરે જુએ છે, અને છતાં તેને પણ અજમાવે છે — એ જ આ પ્રસંગની ચોટ છે, ટૂચકાની 'સફળતા-નિષ્ફળતા' નહિ."
+      ],
+      "correction": "સમજૂતીમાં લેખિકાની પોતાની શંકા ('ઠીક ન લાગવાથી') પહેલાં મૂકો, પછી ટૂચકો કહો, અને છેલ્લે 'પણ આંજણી તો જેમની તેમ રહી.' ટાંકીને એક જ વાક્યમાં કહી દો કે આ પણ બીજી બધી સલાહો જેવી જ એક સલાહ હતી — ન વધારે સાચી, ન વધારે ખોટી. ટૂચકાને 'સાચો ઇલાજ હતો કે નહિ' એ ચર્ચામાં ખેંચવાનું નથી."
+    },
+    {
+      "topic_id": "M2.S3.T8",
+      "avoid_checks": [
+        {
+          "check": "Avoid 7 (correcting the spoken register): the Hindi-mixed millhand speech ('જી ઈસમેં ક્યા બડી બાત હૈ! આઠ દિન એક છોટા કટોરા ભંગ પીના શુરૂ કરના... ડોક્ટર કી દવાઈ મેં ક્યા પીનેકા?') stays exactly as printed wherever quoted; no field marks it as incorrect Gujarati or supplies a 'સાચું ગુજરાતી રૂપ' for it.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 9: no field states that ભાંગ or યાકૂતી is an actual medicine for આંજણી; the narrator's own refusal ('ભૈયાજી હું ભાંગ કે બીજો કોઈ કેફી પદાર્થ પીતો નથી... એની સલાહનો મેં અમલ કર્યો નહિ.') is the topic's own, complete information on the point.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": [
+        "તેર વિષયોમાં આ એક જ પ્રસંગ છે જ્યાં લેખિકા સલાહનો સીધો ઈન્કાર કરે છે. અગાઉના ત્રણ-ચાર પ્રસંગોમાં દરેક સલાહ સ્વીકારાયેલી જોઈને ટેવાયેલું બાળક ઝડપથી વાંચતાં આ ઈન્કારને ચૂકી જાય છે અને ધારી લે છે કે લેખિકાએ ભાંગ પણ અજમાવી હશે — જેના કારણે આખા નિબંધનું ચિત્ર ('લેખિકા દરેક સલાહ આંધળી રીતે માની લે છે') થોડું ખોટું બંધાય છે; ખરેખર લેખિકા હાનિકારક ચીજ પર મર્યાદા મૂકે છે, નુકસાનરહિત વિચિત્ર સલાહો પર નહિ."
+      ],
+      "correction": "સમજૂતીમાં આ મુદ્દો સ્પષ્ટ શબ્દોમાં કહો — 'આ એક જ સલાહ લેખિકાએ ના પાડી' — અને લેખિકાના જ શબ્દો ('હું ભાંગ કે બીજો કોઈ કેફી પદાર્થ પીતો નથી') ટાંકો, જેથી બાળક જુએ કે આખા નિબંધમાં આ એક જ જગ્યાએ ક્રમ તૂટે છે. આગળ કોઈ ચર્ચા કે નિષેધ વિશે બોધ ઉમેરવાનો નથી."
+    },
+    {
+      "topic_id": "M2.S3.T9",
+      "avoid_checks": [
+        {
+          "check": "Avoid 5 (inverting the irony), bound to લેખિકાનું પોતાનું વાક્ય 'આ પરદુ:ખભંજન મનુષ્યોની સલાહ અમલમાં એક પછી એક મૂકતો હતો.': `explanation` may name this once as the narrator's own wry, half-affectionate label — an elevated word ('પરદુ:ખભંજન', બીજાનું દુઃખ દૂર કરનાર) applied to ordinary busybodies whose remedies do nothing — but no field states or implies that these advice-givers literally, sincerely relieve anyone's suffering, and none rewrites the phrase into a plain compliment.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 7: 'બેદું' stays exactly as printed wherever quoted; no field supplies 'ઈંડું' as a correction of the printed તળપદો શબ્દ rather than as its gloss.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": [
+        "'પરદુ:ખભંજન' — 'બીજાનું દુઃખ દૂર કરનાર' — એક મોટો, આદરસૂચક શબ્દ છે. બાળક એને શબ્દશઃ વાંચીને માસી, રસોઈયો, ધોબી અને પીંજારાને ખરેખર ઉપકારી, પ્રશંસાપાત્ર માણસો ગણી લે છે — ચેપ્ટરના પોતાના શીર્ષક 'પરોપકારી મનુષ્યો'ની જેમ જ. પણ લેખિકા આ શબ્દ 'કેમ કે દુ:ખથી હું કંટાળી ગયો હતો' પછી તરત મૂકે છે — એટલે કે એ થાકીને, કંટાળીને દરેક સલાહ અજમાવે છે, સાચે ઉપકારી માનીને નહિ. આ ફરક ચૂકી જવાથી આખા નિબંધનું શીર્ષક પણ સીધું, ગંભીર વખાણ લાગવા માંડે છે."
+      ],
+      "correction": "સમજૂતીમાં 'કેમ કે દુ:ખથી હું કંટાળી ગયો હતો' પહેલાં ટાંકો, પછી 'પરદુ:ખભંજન' શબ્દ મૂકો, અને એક જ વાક્યમાં કહી દો કે લેખિકા આ મોટો શબ્દ થોડી મજાકમાં વાપરે છે — સાચે ઉપકારી હોવાને લીધે નહિ, પણ થાકને લીધે એ બધી સલાહ સ્વીકારે છે એટલે. આ જ કડી પાઠના શીર્ષક સાથે પણ જોડી શકાય, પણ એક કરતાં વધારે વાર સમજાવવાની જરૂર નથી."
+    },
+    {
+      "topic_id": "M2.S4.T10",
+      "avoid_checks": [
+        {
+          "check": "Avoid 14 (pitying or judging), bound to ગોણ વેચનાર મારવાડીનું 'ગરીબ માણસનો ઉપાય છે. અમે દાક્તરના પૈસા ભરીએ તો મરી જઈએ.': no field frames him, his poverty, or his remedy with pity, mockery or a 'બિચારો' register; the chunk's own matter-of-fact tone is the model, and his words stay his reported reason, not a subject of comment.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "ગોરનું અંગત વાક્ય 'હું તો દિવેલ પીવાને બદલે ઘી જ પીઉં છું.' stays his personal aside; no field generalises it into a real fact about ghee's medicinal properties, and no field presents his logic ('ઘીમાં સર્વ ગુણ રહેલા છે') as validated.",
+          "profile": "nibandh_atmaparak",
+          "severity": "soft"
+        }
+      ],
+      "misconception": [
+        "તેર પ્રસંગોમાં અત્યાર સુધીની બધી સલાહો કાં તો કંઈ અસર ન કરે તેવી હતી, કાં તો હાનિરહિત. આ પ્રસંગમાં પહેલી વાર 'પરિણામમાં દરદ વધ્યું.' એમ સ્પષ્ટ લખાયું છે — ગોણનો ગરમ ચપકો ખરેખર નુકસાન કરે છે. ઝડપથી વાંચતું બાળક આ ફેરફારને ધ્યાનમાં લીધા વગર આગળ વધી જાય છે અને આખા નિબંધને 'ઘણી નકામી પણ હાનિરહિત સલાહો'ની જ સાંકળ ગણી લે છે, જ્યારે અહીંથી સલાહો ખરેખર નુકસાનકારક બનવા લાગે છે."
+      ],
+      "correction": "સમજૂતીમાં 'પરિણામમાં દરદ વધ્યું.' પંક્તિ સીધી ટાંકીને એક જ વાક્યમાં નોંધો કે અહીંથી સલાહો ફક્ત નકામી નહિ, નુકસાનકારક પણ સાબિત થાય છે — આને પ્લોટનો 'વળાંક' ન કહો, ફક્ત આ પ્રસંગની પોતાની હકીકત તરીકે નોંધો. મારવાડીના ગરીબીના કારણને એના પોતાના શબ્દોમાં જ, આદરથી, ટાંકો."
+    },
+    {
+      "topic_id": "M2.S4.T11",
+      "avoid_checks": [
+        {
+          "check": "Avoid 7: the Parsi-accented forms in the friend's speech ('ગોજું', 'ખવારોછ', 'લવારા') stay exactly as printed wherever quoted; no field supplies a 'સાચું રૂપ' or calls them a mistake.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 9: the friend's wager 'તેનાથી ન મટે તો મને ચાર તમાચા મારજો.' and his onion-juice suggestion stay attributed to him as his own confident claim; no field states that કાંદાનો રસ actually cures આંજણી.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": [
+        "'દવાઓનાં પડ ઉપરાઉપરી આવી આંખની બાજુ પર એક નાની ડુંગરી બની રહી હતી' અને 'હવે કોઈ પૂછે તો કહેવું નહિ એવો નિશ્ચય કર્યો' — આ બંને લીટીઓ પ્રસંગનું પોતાનું, શાંત તારણ છે. બાળક એને ફક્ત એક વધુ ઘટના ગણીને પસાર થઈ જાય છે અને એ ચૂકી જાય છે કે લેખિકા પોતે જ, પોતાના શબ્દોમાં, હવે કોઈને પોતાની તકલીફ વિશે ન કહેવાનો નિર્ણય લે છે — એટલે કે એ પોતે સમજી ગયા છે કે વધુ સલાહ એટલે વધુ બોજ."
+      ],
+      "correction": "સમજૂતીમાં 'ડુંગરી' અને 'હવે કોઈ પૂછે તો કહેવું નહિ એવો નિશ્ચય કર્યો' બંને લેખિકાના પોતાના શબ્દોમાં ટાંકો, અને એક વાક્યમાં કહો કે લેખિકા પોતે જ હવે સમજી ગયા છે કે વધુ સલાહ ટાળવી સારી — આ કબૂલાત આગળ T13માં ડૉક્ટર પાસે પાછા જવા સાથે જોડાય છે, એટલે અહીં એને ધ્યાનથી નોંધો."
+    },
+    {
+      "topic_id": "M2.S5.T12",
+      "avoid_checks": [
+        {
+          "check": "Avoid 3 (a tacked-on બોધ), bound to 'શીરાનો સ્વાદ પણ કોને ન ગમે? માટે, બીજા ઉપાય કરતાં ઘણી વધારે ખુશીથી ફોઈનો ઉપાય શરૂ કર્યો': no field closes on a moral of the form 'ખાવાનું સ્વાદિષ્ટ હોય એટલે કોઈ ઇલાજ પર વિશ્વાસ ન કરવો' or 'સ્વાદને કારણે ચુકાદો ન બગાડવો' that is not itself quoted from this chunk.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 7: \"'પેટં'\" stays as the printed dialect form wherever quoted, glossed (પોતાનો), never silently replaced by 'પોતાનો' inside a quotation.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field adds a fact or feeling about ફોઈની વિધવા-અવસ્થા — her age, her family situation, her loneliness — beyond 'એક વિધવા ફોઈ ખબર કાઢવા આવ્યાં' and her stated remedy; the chunk names her relationship and nothing more.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": [
+        "અગિયાર-બાર પ્રસંગોથી ટેવાયેલું બાળક ધારી લે છે કે લેખિકા આ ઇલાજ પણ, બીજા બધાની જેમ, ફક્ત શિષ્ટાચારને લીધે, અનિચ્છાએ સ્વીકારે છે. પણ લેખિકા પોતે જ કબૂલ કરે છે કે આ વખતે એમણે 'ઘણી વધારે ખુશીથી' ઉપાય શરૂ કર્યો — અને કારણ ફોઈના સ્વાસ્થ્યની ખાતરી નહિ, પણ 'શીરાનો સ્વાદ' છે. આ પ્રામાણિક, રમૂજી કબૂલાત ચૂકી જવાથી નિબંધની સૌથી સ્પષ્ટ 'પોતાની જાત પરની નજર'ની ક્ષણ ખોવાઈ જાય છે."
+      ],
+      "correction": "સમજૂતીમાં ફોઈના લાલ ચણોઠી જેવા શરીરની 'સાબિતી' પહેલાં કહો, પછી લેખિકાના પોતાના શબ્દોમાં જ સ્પષ્ટ કરો કે ખરું કારણ શીરાનો સ્વાદ હતો — 'લેખિકા પોતે કબૂલ કરે છે કે સ્વાદને લીધે આ વખતે તેઓ વધારે ખુશીથી તૈયાર થયા.' આને કોઈ સામાન્ય શિખામણમાં ફેરવ્યા વગર, ફક્ત લેખિકાની પોતાની કબૂલાત તરીકે જ રહેવા દો."
+    },
+    {
+      "topic_id": "M2.S5.T13",
+      "avoid_checks": [
+        {
+          "check": "Avoid 3 — the single most tempting spot in the chapter: no `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` closes the essay on 'આ પાઠ આપણને શીખવે છે કે વણમાગી સલાહ ન લેવી/આપવી જોઈએ' or any unquoted variant of it.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 4: at most one sentence of `explanation` may name the register-mismatch of 'મારાં હિતેચ્છુઓએ મારી દયા ખાઈને... તેમનો જાહેરમાં આભાર માનવાની આ તક લઉં છું.' as the essay's closing, dry joke; no field explains it over multiple sentences or apologises for it.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Avoid 13 (losing the closing gesture or its credits): the credit line \"('હાસ્યમંદિર'માંથી)\" stays present, verbatim, inside this topic's `original_chunk`; no field drops it or attributes the essay to a different source.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": [
+        "છેલ્લું વાક્ય — 'મારાં હિતેચ્છુઓએ... તેમનો જાહેરમાં આભાર માનવાની આ તક લઉં છું' — ખૂબ ઔપચારિક, જાહેર-ભાષણ જેવી ભાષામાં લખાયેલું છે. બાળક એને સીધું, સાદું આભારવચન વાંચી લે છે અને તેર જેટલી હાસ્યાસ્પદ, ક્યારેક નુકસાનકારક સલાહો પછી આવતી આ ઔપચારિકતાનો વિરોધાભાસ (formal ભાષા vs વિચિત્ર પરિસ્થિતિ) — જે નિબંધની છેલ્લી, સૌથી ઠંડી મજાક છે — ચૂકી જાય છે; અને એ ચૂકવાથી બાળક પોતે જ એક કૃતજ્ઞતાનો બોધ ઉમેરવા લલચાય છે."
+      ],
+      "correction": "સમજૂતીમાં આ છેલ્લા વાક્યની ઔપચારિક ભાષા ('જાહેરમાં આભાર માનવાની આ તક લઉં છું') એક જ વાક્યમાં નોંધો — આટલી બધી વિચિત્ર સલાહો પછી આટલી ઔપચારિક ભાષામાં આભાર માનવો, એ જ નિબંધની છેલ્લી મજાક છે — અને પછી અટકી જાવ. કૃતજ્ઞતા વિશે અલગથી કોઈ શિખામણ ઉમેરવાની નથી, અને \"('હાસ્યમંદિર'માંથી)\" ક્રેડિટ લીટી જેમની તેમ રહેવા દેવી."
+    }
+  ],
+  "chapter_level": [
+    "કથક ('હું') — 01_meta.json.genre_signals પ્રમાણે લેખિકા વિદ્યાબહેન નીલકંઠ પોતે છે, પણ ચેપ્ટરમાં બીજા પાત્રો કથકને 'શેઠ', 'શેઠસાહેબ', 'ભાઈ', 'ભાઈસાહેબ', 'શેઠજી' (પુલ્લિંગ સંબોધન) કહીને બોલાવે છે (M2.S1.T4, M2.S4.T10, M2.S4.T11 વગેરે). કોઈ ફીલ્ડ કથકને 'લેખિકા' તરીકે જ ઓળખાવે (Avoid 1 નું પાલન), પણ આ સંબોધનો — જે અન્ય પાત્રોના મુખે, printed as is — રહેવા દેવાં; કોઈ ફીલ્ડ આ વિરોધાભાસને સમજાવવા કે ઉકેલવા કોઈ કારણ (લેખિકાનું તખલ્લુસ, જમાનાનો રિવાજ, વગેરે) શોધીને ઉમેરે નહિ — એ ચેપ્ટરના પાનામાં ક્યાંય નથી (Avoid 9).",
+    "શીર્ષક 'પરોપકારી મનુષ્યો' પોતે જ કટાક્ષયુક્ત છે — 'પરોપકારી' (બીજાનું ભલું કરનાર) જેવો ઊંચો શબ્દ વણમાગી, નકામી, ક્યારેક નુકસાનકારક સલાહ આપનારાઓ માટે વપરાયો છે, જેમ M2.S3.T9માં 'પરદુ:ખભંજન' શબ્દ પણ એ જ રીતે વપરાય છે. કોઈ ફીલ્ડ (objective_text, explanation, summary કે recall answer) શીર્ષક કે 'પરદુ:ખભંજન'ને સીધા, ગંભીર વખાણ તરીકે ન સમજાવે — કૃતિ-પરિચય પોતે જ આને 'નર્મ-મર્મ' કહે છે (M1.S1.T2).",
+    "આ ચેપ્ટરમાં પારસી (M2.S3.T8ના ભૈયાની હિન્દી-મિશ્રિત બોલી, M2.S4.T11ના દોસ્તદારની પારસી ઢબની ગુજરાતી) અને મારવાડી (M2.S4.T10) બોલી છપાયેલી છે તેમ જ, ગ્લોસ કરેલી, રહે છે (Avoid 7). કોઈ પણ ફીલ્ડ આ ઉચ્ચારને 'ભૂલ' કહીને સુધારે નહિ, અને કોઈ પણ ફીલ્ડ આ ઉચ્ચાર કે બોલીની મજાક લંબાવે, નવી મજાક ઉમેરે, કે વર્ગને એ ઉચ્ચાર બોલી બતાવવા કહે નહિ — ચેપ્ટરની પોતાની Sensitivity note આ સ્પષ્ટ કહે છે.",
+    "'એક પ્રસંગ' કાપવાના નિયમ પ્રમાણે M2.S5.T13 (અંતે દાક્તર પાસે) એ ચેપ્ટરનું resolution છે — કોઈ પણ અગાઉનો વિષય (M1.S1.T1 થી M2.S5.T12 સુધી) એ પરિણામ ('છેવટે તેઓ ફરી દાક્તર પાસે ગયા અને સાજા થયા') ને પોતાના explanation, summary કે recall answerમાં આગોતરું જણાવે નહિ — તેર સલાહોની સાંકળ છેલ્લે સુધી ખૂલતી રહેવી જોઈએ, જેમ ચેપ્ટર પોતે જ એને ખોલે છે."
+  ]
+}

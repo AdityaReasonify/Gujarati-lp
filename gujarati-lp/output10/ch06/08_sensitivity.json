@@ -1,0 +1,32 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T2",
+      "areas": ["સમુદાય"],
+      "caution": "The explanation could state 'જર્મની જેવા વિકસિત દેશના લોકો મોજશોખવાળું જીવન જીવે છે' as a fact, when the chunk's whole point is the opposite — the author himself calls this his own 'છાપ' (preconception) and says 'આપણા લોકોની આવી છાપ કેટલી ખોટી છે'.",
+      "guidance": "Frame the explanation around the author catching and correcting his own પૂર્વગ્રહ through direct experience ('નજરોનજર જોયું') — never repeat the wealthy-country-equals-luxury-loving idea as something true about Germany or any nation; the real_life_example should be about a time the child's own first guess about someone/somewhere turned out wrong, not about comparing countries.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "areas": ["સમુદાય"],
+      "caution": "The line 'આપણે ત્યાં તો જુવાનડો છોકરીને લઈ રેસ્ટોરાંમાં જાય, તો જાતજાતની વાનગીઓથી તેને આંજી નાખે' is the narrator's own passing, half-joking generalisation about young Indian men and could get repeated by the explanation as a fact about 'આપણે ત્યાં' (Indians) versus the German couple's frugality.",
+      "guidance": "Keep this as the narrator's momentary (and mildly self-mocking) first impression, in service of the observation that follows — the young couple's small order and the elderly women's careful eating both quietly set up the food-waste lesson; do not let the explanation turn it into a stated contrast between 'stingy Germans' and 'showy Indians'.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M3.S4.T7",
+      "areas": ["સમુદાય"],
+      "caution": "'આપણે તો ધનવાન નહિ એવા દેશના નાગરિકો છીએ. આપણે તો આવી રીતના અભાવથી પીડાતા લોકોને નજરોનજર જોઈએ છીએ' could get flattened by the explanation or a real_life_example into a blanket 'India is a poor country with hungry people' statement.",
+      "guidance": "Keep the sentence tied to its actual job in the text — it is the author's own reason for why the officer's words hit him harder, not a claim about India as a whole; the explanation and real_life_example should land on the chapter's actual point (a citizen's own duty not to waste સાધન-સામગ્રી, food especially) rather than on a generalisation about which countries are rich or poor.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "સમુદાય",
+      "guidance": "This આત્મકથાખંડ runs entirely on the author admitting and then dismantling his own national/economic પૂર્વગ્રહ (about Germany, about 'wealthy countries', about his own country by contrast). Every explanation and real_life_example across the chapter should keep this as a story of one man's bias being corrected by his own experience — never as a settled comparison between nations or as licence to teach 'rich country / poor country' as fact. The named country (Germany, Hamburg) and its officer's rule are reported as printed; no claim about German or Indian people beyond what the text itself says."
+    }
+  ],
+  "none_found": false
+}

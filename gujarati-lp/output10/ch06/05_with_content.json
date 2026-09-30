@@ -1,0 +1,436 @@
+{
+  "chapter_id": "gseb_eng_gujarati10_ch6",
+  "plan_id": "gseb_eng_gujarati10_ch6_v1",
+  "genre": "આત્મકથાખંડ (અનુભવકથા)",
+  "active_genre_profiles": [
+    "nibandh_atmaparak.md"
+  ],
+  "teaching_lens": "સ્વર + પ્રસંગ + પોતાની જાત પરની નજર",
+  "guiding_question": "લેખક પોતાનો જર્મનીનો અનુભવ કહેતાં કહેતાં પોતાના જ પૂર્વગ્રહ વિશે શું કબૂલે છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક-પરિચયના ફકરા પરથી વિકાસ શર્માનો પરિચય મેળવવો અને કૃતિનો મુખ્ય મુદ્દો — વસ્તુ ખરીદનારને પણ તેને બગાડવાનો અધિકાર નથી — તારવવો.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "જર્મની વિશે લેખકના મનમાં હતી તે 'મોજશોખવાળા જીવન'ની ખોટી છાપ કયા વાક્યમાં કબૂલાય છે અને પ્રવાસે એ છાપ કેમ ભાંગી તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રેસ્ટોરાંમાં યુવાન દંપતીના સાદા ભોજનને લેખક કંજૂસાઈ કેમ ગણે છે અને વૃદ્ધ સ્ત્રીઓ ડિશમાં કશું છોડતી ન હતી એ વિગત શું સૂચવે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": [
+        "M2.S2.T3.C3",
+        "M2.S2.T3.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક અને તેના મિત્રોએ ભૂખ અને ઉતાવળને કારણે વધારે પડતું ભોજન કેમ મંગાવ્યું અને છેલ્લે ત્રીજા ભાગનું ભોજન ડિશમાં કેમ છોડ્યું તે તારવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": [
+        "M2.S2.T4.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વૃદ્ધ સ્ત્રીઓની ફરિયાદ સામે લેખકે 'તમારે શી નિસ્બત ?' કેમ કહ્યું અને એ ઉદ્ધત જવાબને કારણે તેમને દંડ કેમ ભરવો પડ્યો તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C6",
+        "M2.S3.T5.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સોશિયલ સિક્યોરિટી ઓફિસરે 'સાધન-સામગ્રી તો સમાજની છે' એમ કઈ દલીલથી લેખકને સમજાવ્યું અને એ વાક્ય કૃતિનો મુખ્ય સંદેશ કેમ બને છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": [
+        "M2.S3.T6.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખકે પોતાની ભૂલ સ્વીકારીને દંડની ટિકિટ ઓરડાની દીવાલ પર કેમ ચોંટાડી રાખી અને એ કૃત્ય શું યાદ અપાવે છે તે સમજાવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S4.T7",
+      "anchor": [
+        "M3.S4.T7.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "પૂર્વગ્રહની પાર્શ્વભૂમિ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "લેખક-પરિચય અને પૂર્વગ્રહ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "લેખક-પરિચય અને કૃતિનો સંદેશ",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "વિકાસ શર્મા ઉદ્યોગ સાથે સંકળાયેલા છે. તેઓ અવારનવાર પોતાના અનુભવો વર્ણવતા હોય છે. આ અનુભવ અંગ્રેજ સામયિકમાંથી લેવામાં આવ્યો છે.\n\nઅહીં વર્ણવાયેલી ઘટના આંખ ઉઘાડે તેવી છે. પૈસા આપીને વસ્તુ ખરીદી હોય તો પણ એને બગાડવાનો અધિકાર કોઈનેય નથી, કારણ કે સામગ્રી આખા સમાજની છે. દરેક વસ્તુનો સાર્થક ઉપયોગ થવો જોઈએ એ સૃષ્ટિસંતુલન માટે પણ જરૂરી છે. વળી, પોતાને ઊંચા માનીને અન્ય દેશના લોકોને માટે પૂર્વગ્રહો ધરાવવા એ કેટલું ભ્રામક હોય છે એ પણ આ પ્રસંગ સમજાવે છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "લેખકનો પરિચય અને કૃતિનો કેન્દ્રીય સંદેશ"
+                }
+              ],
+              "modified_chunk": "લેખક વિકાસ શર્મા ઉદ્યોગ સાથે જોડાયેલા છે અને પોતાના અનુભવો લખે છે. આ પ્રસંગ કહે છે કે પૈસા આપીને વસ્તુ ખરીદી હોય તોપણ તેને બગાડવાનો હક કોઈને નથી, કારણ કે સામગ્રી (વસ્તુઓ) આખા સમાજની ગણાય. લેખક એ પણ કબૂલે છે કે બીજા દેશના લોકો વિશે પોતાને ઊંચા માનીને પૂર્વગ્રહ (પહેલેથી બંધાયેલો ખોટો ખ્યાલ) રાખવો કેટલો ભ્રામક (ભ્રમ પેદા કરનારો) હોઈ શકે છે.",
+              "word_count": {
+                "original": 78
+              },
+              "key_terms": [
+                "સંકળાયેલા — જોડાયેલા, સંબંધ ધરાવતા",
+                "સામગ્રી — સાધનો, ચીજવસ્તુઓ",
+                "પૂર્વગ્રહ — પહેલેથી બંધાયેલો ખોટો ખ્યાલ",
+                "ભ્રામક — ભ્રમ પેદા કરે તેવું, ખોટી છાપ ઊભી કરે તેવું",
+                "સૃષ્ટિસંતુલન — કુદરતનું સમતોલપણું"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": []
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "પૂર્વગ્રહ અને જર્મની-પ્રવાસ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "જર્મનીની ઉદ્યોગ-ધંધાની દૃષ્ટિએ ઘણો આગળ વધેલો દેશ છે. ટેકનોલોજીની દૃષ્ટિએ પણ આગળ છે. નાનાં નાનાં નગરોમાંયે ઉચ્ચ ટેકનોલોજવાળી ચીજવસ્તુ બનાવાય છે. આથી આપણને એમ થાય કે આવા દેશના લોકો ઘણું મોજશોખવાળું અને વૈભવવિલાસી જીવન જીવતા હશે ! કમ સે કમ મારા મનમાં તો એવી જ છાપ હતી, પરંતુ હમણાં મારે જર્મની જવાનું થયું અને મેં નજરોનજર જે જોયું તેમ જ કેટલાક જાત-અનુભવો થયા ત્યારે મને થયું કે આપણા લોકોની આવી છાપ કેટલી ખોટી છે !",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "જર્મની વિશે લેખકનો પૂર્વગ્રહ"
+                }
+              ],
+              "modified_chunk": "જર્મની ઉદ્યોગ અને ટેકનોલોજીમાં ઘણો આગળ વધેલો દેશ છે, એટલે લેખકને એમ લાગતું કે ત્યાંના લોકો બહુ મોજશોખવાળું અને વૈભવવિલાસી (ઠાઠમાઠવાળું) જીવન જીવતા હશે. પણ જર્મની જઈને પોતાની આંખે (નજરોનજર) જોયા પછી અને પોતાના અનુભવોથી લેખકને સમજાયું કે આપણા લોકોની આ છાપ કેટલી ખોટી હતી.",
+              "word_count": {
+                "original": 75
+              },
+              "key_terms": [
+                "મોજશોખવાળું — એશઆરામ અને મજાવાળું",
+                "વૈભવવિલાસી — ઠાઠમાઠ અને એશઆરામવાળું",
+                "નજરોનજર — પોતાની સગી આંખે",
+                "છાપ — (અહીં) મન પર બંધાયેલો ખ્યાલ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "રેસ્ટોરાંનો પ્રસંગ",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "અવલોકન અને પોતાનો બગાડ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "રેસ્ટોરાંમાં યુવાન દંપતી અને વૃદ્ધ સ્ત્રીઓનું અવલોકન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T2"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "હું હેમ્બર્ગ પહોંચ્યો, ત્યારે હેમ્બર્ગમાં કામ કરતા મારા મિત્રોએ મારા માટે એક પાર્ટી ત્યાંના એક રેસ્ટોરાંમાં ગોઠવી હતી. અમે રેસ્ટોરાંમાં પ્રવેશ્યા ત્યારે મેં જોયું કે ત્યાં ઘણાં બધાં ટેબલ ખાલી હતાં. એક ટેબલ ઉપર એક યુવાન દંપતી પોતાનું ભોજન લઈ રહ્યું હતું. ટેબલ ઉપર માત્ર બે જ ડિશ હતી. મને થોડું આશ્ચર્ય થયું. આવું સાદું ખાણું ! છોકરો કંજૂસ લાગે છે. આપણે ત્યાં તો જુવાનડો છોકરીને લઈ રેસ્ટોરાંમાં જાય, તો જાતજાતની વાનગીઓથી તેને આંજી નાખે !\n\nબીજા એક ટેબલ ઉપર કેટલીક વૃદ્ધ સ્ત્રીઓ હતી. વેઈટર આવે અને એમની દરેકની ડિશમાં પોતાના વાસણમાંથી ખાવાનું પીરસી જાય. દરેક જણ બધું જ ખાઈ જાય, ડિશમાં એક દાણોય છાંડે નહિ.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "યુવાન દંપતીના સાદા ભોજનનું અવલોકન"
+                },
+                {
+                  "concept_id": "M2.S2.T3.C4",
+                  "concept_name": "વૃદ્ધ સ્ત્રીઓની કરકસરનું અવલોકન"
+                }
+              ],
+              "modified_chunk": "લેખક હેમ્બર્ગ પહોંચ્યા ત્યારે મિત્રોએ એક રેસ્ટોરાંમાં પાર્ટી ગોઠવી હતી. ત્યાં એક યુવાન દંપતી (પતિ-પત્ની) માત્ર બે જ ડિશ મંગાવીને ખાતું જોઈ લેખકને નવાઈ લાગી અને છોકરો કંજૂસ (કરકસર કરનાર) લાગ્યો. બીજા ટેબલ પર વૃદ્ધ સ્ત્રીઓ પોતાની ડિશમાં પિરસાયેલું બધું જ ખાઈ જતી હતી, એક દાણોય છોડતી નહોતી.",
+              "word_count": {
+                "original": 106
+              },
+              "key_terms": [
+                "દંપતી — પતિ-પત્નીની જોડી",
+                "કંજૂસ — કરકસર કરનાર, ઓછું વાપરનાર",
+                "ડિશ — થાળી, જેમાં ભોજન પિરસાય",
+                "વાનગીઓ — ખાવાની જુદી જુદી ચીજો"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "પોતાનો ખોરાક-બગાડ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S2.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "જો કે અમે એમના તરફ ઝાઝું ધ્યાન આપ્યું નહિ, કેમકે અમે અમારા ખાવામાં પડ્યા હતા. અમને સારી એવી ભૂખ લાગેલી એટલે મારા સ્થાનિક મિત્રોએ ઘણું બધું ખાવાનું મંગાવેલું.\n\nરેસ્ટોરાંમાં ગિરદી નહિ હોવાથી ખાણું ઝટ આવ્યું અને અમારે બીજાં પણ કામો હોવાથી અમે ખાણું જલદી પતાવ્યું. ખાઈને અમે ઊઠ્યા ત્યારે લગભગ નહિ-નહિ તોયે અમે મંગાવેલ ભોજનમાંથી ત્રીજાભાગનું ભોજન અમારી ડિશમાં છંડાયેલું હતું.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C5",
+                  "concept_name": "લેખકના જૂથનો પોતાનો ખોરાક-બગાડ"
+                }
+              ],
+              "modified_chunk": "લેખકનું ધ્યાન વૃદ્ધ સ્ત્રીઓ તરફ નહિ પણ પોતાના ખાવામાં હતું. બધાને સારી ભૂખ લાગેલી હોવાથી મિત્રોએ ઘણું બધું ખાવાનું મંગાવ્યું હતું. રેસ્ટોરાંમાં ભીડ (ગિરદી) ન હોવાથી ખાણું જલદી આવ્યું અને બીજાં કામ હોવાથી તેમણે ઉતાવળે ખાણું પતાવ્યું. ઊઠ્યા ત્યારે મંગાવેલા ભોજનમાંથી લગભગ ત્રીજા ભાગનું ભોજન તેમની ડિશમાં વધેલું-બગડેલું પડ્યું હતું.",
+              "word_count": {
+                "original": 61
+              },
+              "key_terms": [
+                "ગિરદી — લોકોની ભીડ",
+                "ખાણું — ભોજન, જમણ",
+                "ઝટ — જલદી",
+                "છંડાયેલું — (અહીં) બાકી છોડેલું"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "ફરિયાદ અને અધિકારીની ટકોર",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "રેસ્ટોરાંની બહાર સ્ત્રીઓની ફરિયાદ અને દંડ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S2.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "અમે હજી રેસ્ટોરાંમાંથી બહાર નીકળી રહ્યા હતા, તેવામાં કોઈકે અમને બોલાવ્યા. અમે જોયું તો પેલી વૃદ્ધ સ્ત્રીઓ અમારા વિશે રેસ્ટોરાંના માલિક સાથે કાંઈક વાત કરી રહી હતી. જ્યારે એમણે અમારી સાથે અંગ્રેજીમાં વાત કરવા માંડી, ત્યારે અમને સમજાયું કે અમે આટલો બધો ખોરાક અમારી ડિશમાં છાંડીને ઊભા થઈ ગયેલા, તે એમને ગમ્યું નહોતું.\n\nઅમને થયું કે તેઓ નાહકના ખણખોદિયા છે. એટલે અમે એમને કહી દીધું : ''અમે જે મંગાવેલું તેના પૂરેપૂરા પૈસા અમે ચૂકવી દીધા છે. અમે કેટલું ખાધું અને કેટલું છાંડ્યું તેની તમારે શી નિસ્બત ?''\n\nપેલી વૃદ્ધ સ્ત્રીઓ તો ગુસ્સે થઈ ગઈ. તેમાંની એક જણીએ પોતાનો ફોન કાઢ્યો અને કોઈકની સાથે વાત કરી. થોડીવારમાં તો સોશિયલ સિક્યોરિટીનો યુનિફોર્મ પહેરેલો એક જણ ત્યાં આવી પહોંચ્યો. જે બધું બન્યું તે જાણીને તેણે તો અમને 50 યુરોનો દંડ કર્યો.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C6",
+                  "concept_name": "સ્ત્રીઓની ફરિયાદ અને લેખકનો ઉદ્ધત જવાબ"
+                },
+                {
+                  "concept_id": "M2.S3.T5.C7",
+                  "concept_name": "સ્ત્રીઓનો ગુસ્સો અને અધિકારીનો દંડ"
+                }
+              ],
+              "modified_chunk": "રેસ્ટોરાંમાંથી નીકળતાં જ કોઈકે લેખકના જૂથને બોલાવ્યું. પેલી વૃદ્ધ સ્ત્રીઓ રેસ્ટોરાંના માલિકને લેખકના જૂથે છોડેલા ખોરાક વિશે ફરિયાદ કરી રહી હતી. લેખકને આ ખણખોદ (નાહકની પંચાત) લાગી, એટલે તેમણે ઉદ્ધત જવાબ આપ્યો — 'તમારે શી નિસ્બત (નાતો, સંબંધ) ?' આથી સ્ત્રીઓ ગુસ્સે થઈ ફોન કરીને ફરિયાદ કરી, અને થોડી વારમાં સોશિયલ સિક્યોરિટીના અધિકારીએ આવીને 50 યુરોનો દંડ કર્યો.",
+              "word_count": {
+                "original": 128
+              },
+              "key_terms": [
+                "ખણખોદિયું — ખણખોદ કરનારું, દોષ શોધનારું",
+                "નિસ્બત — નાતો, સંબંધ",
+                "દંડ — સજા, શિક્ષા",
+                "યુરો — યુરોપના દેશોના સમૂહે અપનાવેલ ચલણ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "અધિકારીની ટકોર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T5"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "અમે શાંત રહ્યા. સ્થાનિક મિત્રોએ 50 યુરોનો દંડ ચૂકવી દઈને તેની પાસે ફરી-ફરી પોતાની દિલગીરી વ્યક્ત કરી.\n\nપેલા ઑફિસરે કડક અવાજમાં મક્કમતાથી અમને કહ્યું : ''તમને જોઈતું હોય તેટલું જ, તમે ખાઈ શકતા હો તેટલું જ મંગાવો. પૈસા તમારા છે, પણ બધી સાધન-સામગ્રી તો સમાજની છે. દુનિયામાં હજુ એવા ઘણા લોકો છે જે આ બધી સાધન-સામગ્રીના તીવ્ર અભાવથી પીડાય છે. માટે આ સાધન-સામગ્રીનો જરીકેય બગાડ કરવાનો તમને કોઈ હક્ક નથી.''",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C8",
+                  "concept_name": "અધિકારીની ટકોર — સાધન-સામગ્રી સમાજની છે"
+                }
+              ],
+              "modified_chunk": "લેખકનું જૂથ શાંત રહ્યું અને સ્થાનિક મિત્રોએ 50 યુરોનો દંડ ભરીને વારંવાર માફી માગી. અધિકારીએ કડક અવાજે મક્કમતાથી (દૃઢતાથી) સમજાવ્યું કે જોઈએ એટલું જ મંગાવવું જોઈએ — પૈસા ભલે પોતાના હોય, પણ સાધન-સામગ્રી તો આખા સમાજની ગણાય. તેમણે એ પણ કહ્યું કે દુનિયામાં ઘણા લોકો આ સાધન-સામગ્રીના તીવ્ર અભાવ (ખૂબ ઓછાપણા)થી પીડાય છે, એટલે તેનો બગાડ કરવાનો કોઈને હક નથી.",
+              "word_count": {
+                "original": 70
+              },
+              "key_terms": [
+                "મક્કમતા — દૃઢતા, નિશ્ચયપણું",
+                "સાધન-સામગ્રી — વસ્તુઓ, ચીજ-વસ્તુઓ",
+                "તીવ્ર અભાવ — ખૂબ ઓછાપણું, સખત ખોટ",
+                "હક્ક — અધિકાર"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "સ્વીકૃતિ અને બોધપાઠ",
+      "segments": [
+        {
+          "segment_id": "M3.S4",
+          "segment_name": "લેખકની સ્વીકૃતિ",
+          "topics": [
+            {
+              "topic_id": "M3.S4.T7",
+              "topic_name": "સ્વીકૃતિ અને બોધપાઠ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T6"
+              ],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "અમે છોભીલા પડી ગયા. અમને એમની વાત તદ્દન સાચી લાગી. આવા ધનવાન દેશના લોકોનું આવું માનસ જોઈ અમને અમારી જાત ઉપર શરમ ઉપજી. ખરેખર, આપણે આવી બાબતનો ગંભીરતાથી વિચાર કરવો જોઈએ. આપણે તો ધનવાન નહિ એવા દેશના નાગરિકો છીએ. આપણે તો આવી રીતના અભાવથી પીડાતા લોકોને નજરોનજર જોઈએ છીએ. છતાં આપણી આંખ ઊઘડતી નથી ! ખોરાકની ચીજ-વસ્તુઓનો પણ આપણે કેટલો બેફામ બગાડ કરીએ છીએ !\n\nઆ ઘટનાએ અમને બરાબર પાઠ ભણાવ્યો, અમને અમારી ખોટી આદતો સુધારવાનો બોધપાઠ આપ્યો.\n\nઅમને દંડ ભર્યાની જે ટિકિટ મળેલી, તેની ફોટોસ્ટેટ નકલ કરીને અમે દરેકે એક યાદગીરીરૂપે અમારી પાસે લઈ લીધી. અમે તે અમારા ઓરડાની દીવાલ ઉપર ચોંટાડીને રાખી છે – અમને કાયમ ઢંઢોળવા કે કોઈએ ક્યારેય કશાનોય બગાડ કરવો નહિ.\n\n('ભૂમિપુત્ર'માંથી)",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T7.C9",
+                  "concept_name": "લેખકની સ્વીકૃતિ અને કાયમી બોધપાઠ"
+                }
+              ],
+              "modified_chunk": "અધિકારીની વાત સાચી લાગતાં લેખકનું જૂથ શરમાઈ ગયું અને પોતાની જાત પર શરમ અનુભવી. તેમને થયું કે આપણે ગરીબ દેશના લોકો હોવા છતાં અભાવમાં જીવતા લોકોને જોઈએ છીએ, છતાં આપણી આંખ ઊઘડતી (જાગૃત થતી) નથી અને ખોરાકનો બેફામ (વગર વિચાર્યે) બગાડ કરીએ છીએ. આ ઘટનાએ તેમને પાઠ ભણાવ્યો, અને દંડની ટિકિટની નકલ તેમણે પોતાની ઓરડાની દીવાલ પર કાયમ માટે ચોંટાડી રાખી, જેથી બગાડ કદી ન થાય.",
+              "word_count": {
+                "original": 117
+              },
+              "key_terms": [
+                "બેફામ — છડેચોક, વગર વિચાર્યે",
+                "ઢંઢોળવું — હલબલાવી સભાન બનાવવા, જગાડવું",
+                "યાદગીરીરૂપે — યાદ રહે તે માટે, નિશાની તરીકે",
+                "નાગરિક — દેશનો રહેવાસી"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut rationale: 01_meta.json's structure_inventory records ghatna: 6, and 00_chapter_normalized.md carries exactly 6 [[ઘટના: ...]] markers plus one [[લેખક-પરિચય]] marker at the top. One marker = one topic (explanation_unit_map.md), giving 7 topics total: M1.S1.T1 (લેખક-પરિચય, CONCEPT) + six STORY_TELLING ઘટના topics M1.S1.T2 through M3.S4.T7, in the same order the markers print. No marker was merged or split.",
+    "M1.S1.T1 folds both the author-bio sentences ('વિકાસ શર્મા ઉદ્યોગ સાથે સંકળાયેલા છે...') and the કૃતિ-પરિચય paragraph ('અહીં વર્ણવાયેલી ઘટના આંખ ઉઘાડે તેવી છે...') under the single printed [[લેખક-પરિચય]] marker into ONE CONCEPT topic, per agents/02_structure.md's instruction that std 10's unlabelled લેખક-પરિચય + કૃતિ-પરિચય block is one CONCEPT topic printed for the student. Kept as one concept (not two) since both paragraphs serve one preparatory purpose — introducing the writer and previewing the essay's own stated theme — and neither half is long enough to teach alone.",
+    "M2.S2.T3 and M2.S3.T5 each carry two concepts because the single printed ઘટના block genuinely holds two separable observations/beats: T3 contrasts the young couple's frugal plate (which the writer misreads as miserliness) against the old women's careful eating (introduced here, paid off in T5) — two different objects of the writer's gaze in one scene. T5 similarly turns midway: the women's complaint and the writer's own curt, dismissive reply ('તમારે શી નિસ્બત ?') is one beat; their anger, the phone call and the imposed fine is the next, causally distinct beat. No topic was given a third concept.",
+    "depends_on records a genuine causal/chronological chain, not mere reading order: this is a single continuous first-person અનુભવકથા (nibandh_atmaparak, આત્મકથાખંડ sub-form) where each ઘટના is the direct consequence of the one before it (prejudice → the observation that will be judged against it → the writer's own waste → the complaint and fine that waste provokes → the officer's explanation of the fine → the writer's acceptance of that explanation). This differs from a verse chapter's parallel કડી-panels, where depends_on usually points only at a shared ટેક.",
+    "topic_category avoids 'climax' everywhere (introduction/introduction/core/core/core/transition/resolution) per nibandh_atmaparak.md's Avoid-gate item 2, which hard-bans 'climax' for this profile: these essays have પ્રસંગ, not પ્લોટ. M2.S3.T6 (અધિકારીની ટકોર) is marked 'transition' as the scene where the writer's understanding turns, and M3.S4.T7 carries 'resolution' as the closing gesture per the profile's own instruction to mark the closing image so.",
+    "difficulty is 'easy' only for M1.S1.T1 (short, plain factual intro); every ઘટના topic is 'medium' — per agents/02_structure.md's std 9-10 row, what stops an L2 std-10 reader here is scattered તત્સમ/compound vocabulary (પૂર્વગ્રહ, ભ્રામક, સૃષ્ટિસંતુલન, વૈભવવિલાસી, તીવ્ર અભાવ) and idiom/loanword density (નિસ્બત, ખણખોદિયા, છોભીલા પડવું, ઢંઢોળવું, યુરો, ડિશ), not sentence length or plot complexity — no topic was marked 'hard' since none of these individually blocks comprehension the way medieval verse or a named-device line would.",
+    "No topic's objective_text names a saahityaprakar tag, અલંકાર, છંદ or સમાસ — this chapter is prose (આત્મકથાખંડ), and none of the craft-naming canon applies here regardless of standard.",
+    "Apparatus below the narrative (શબ્દ-સમજૂતી box, the four-tier સ્વાધ્યાય ladder, વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ, શિક્ષકની ભૂમિકા) is left uncut per global_content_rules.md #7 and explanation_unit_map.md's apparatus rule — all of it is already recorded in 01_meta.json's exercise_inventory and extraction_notes for Agent 10; none of it appears as a topic here.",
+    "The chapter's closing credit line ('ભૂમિપુત્ર'માંથી) sits immediately after the last narrative paragraph in 00_chapter_normalized.md and belongs inside M3.S4.T7's original_chunk per nibandh_atmaparak.md's Avoid-gate item 13 (closing gesture and its credits stay together in the LAST topic) — flagged here for Agent 5, which fills original_chunk.",
+    "01_meta.json already records a printed source-credit inconsistency ('અંગ્રેજ સામયિકમાંથી' in the intro vs. ('ભૂમિપુત્ર'માંથી) at the close, a Gujarati periodical) — not this agent's to resolve; carried forward as Agent 1's note, unchanged.",
+    "Seven topics for a three-page chapter is proportionate to its six printed ઘટના markers plus one pre-reading CONCEPT scene — no marker was invented or padded to lengthen the tree, and no marker was swallowed to shorten it.",
+    "Agent 5: original_chunk, modified_chunk, word_count, key_terms and the four content-type fields attached on all 7 topics. original_chunk transcribed verbatim from 00_chapter_normalized.md and independently cross-checked against fresh 150dpi renders of all 3 pages (scratch/run-s10c6-5/page-1..3.png) read line by line; no mismatch found beyond the dash-width variant already implicit in the normalized file's own em-dash before 'અમને કાયમ ઢંઢોળવા' (kept as printed in 00_chapter_normalized.md, the authored source per this agent's own precedence rule — Agent 1's file, not repaired here). The closing credit ('ભૂમિપુત્ર'માંથી) sits inside M3.S4.T7's original_chunk per Avoid-gate item 13. All 6 STORY_TELLING ઘટના topics (M1.S1.T2 through M3.S4.T7) are set to primary_content_type 'image' / available_content_types ['image'] per nibandh_atmaparak.md's 'one image per પ્રસંગ' prior; the CONCEPT intro topic M1.S1.T1 (લેખક-પરિચય + કૃતિ-પરિચય, not a પ્રસંગ) is left null/[] to match the same profile's treatment of the equivalent intro topic in other std-10 chapters (e.g. output10/ch01 M1.S1.T1). key_terms avoid every entry already listed in the chapter's printed રૂઢિપ્રયોગો box (આંજી નાખવું, છોભીલા પડવું, આંખ ન ઊઘડવી, પાઠ ભણાવવો) since those belong to Agent 10 / bhasha-bodh per shabd_gloss.md's own instruction, not to key_terms; terms drawn from the book's સમાનાર્થી-શબ્દાર્થ box (ખણખોદિયું, નિસ્બત, દંડ, યુરો, ઢંઢોળવું, છંડાયેલું, ગિરદી, ખાણું, ઝટ) are used only where they are genuinely the load-bearing word at that topic's point of use, per shabd_gloss.md's own instruction that the box is evidence of difficulty, not a list to empty wholesale. Every key_terms headword was checked to appear verbatim inside its own topic's original_chunk. modified_chunk on every topic stays at the 'what is happening' restatement level (2-4 sentences, hard words glossed inline in parentheses) with no explanation, ભાવ, real-life anchor or તારવેલો બોધ beyond what the chapter's own sentences already state — reserved for Agent 12."
+  ]
+}

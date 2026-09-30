@@ -1,0 +1,96 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "no field (`explanation`, `key_terms`, `detailed_summary`) may add a birth year, death year, literary-movement label beyond `પંડિતયુગ`, an award, or any other biographical fact about રમણભાઈ મહિપતરામ નીલકંઠ that this topic's `original_chunk` does not print — it prints only: અમદાવાદનું વતન, `પંડિતયુગના અગ્રણી સાહિત્યકાર`, સમાજસેવા, and the four named works (`ભદ્રંભદ્ર`, `રાઈનો પર્વત`, `કવિતા અને સાહિત્ય ભાગ 1થી 4`, `ધર્મ અને સમાજ`). A plausible extra fact (a birth/death date, a movement label, a prize) is invention per no_hallucination_policy.md even where it is factually true of the real author.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "std-10નો બાળક 'રમણભાઈ નીલકંઠ' (લેખક) અને 'ભદ્રંભદ્ર' (પાત્ર) — બંને નામ સાથે-સાથે વાંચીને — બંનેને એક જ વ્યક્તિ સમજી લે છે, અથવા ભદ્રંભદ્રને ખરેખર બનેલી ઐતિહાસિક વ્યક્તિ ગણી લે છે; પરિણામે આખા ખંડનું હાસ્ય 'એક સાચા માણસની વિચિત્રતા' તરીકે ખોટી રીતે વંચાય છે.",
+      "correction": "`explanation`એ પહેલા જ વાક્યમાં સ્પષ્ટ કરવું કે રમણભાઈ નીલકંઠ 'લેખક' છે અને ભદ્રંભદ્ર તેમની નવલકથાનું 'પાત્ર' છે — જેમ કૃતિ-પરિચયનો ફકરો પોતે 'ભદ્રંભદ્ર અને તેમના શિષ્ય અંબારામને મુંબઈ જવાનું હોય છે' કહી બંનેને પાત્રો તરીકે રજૂ કરે છે, એ જ ક્રમમાં — જેથી પાત્ર અને લેખક ક્યારેય ભળી ન જાય."
+    },
+    {
+      "topic_id": "M2.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "`explanation` must not stop at reporting that ભદ્રંભદ્ર compares his departure to `શ્રીરામની વૃત્તિ`, `શ્રીકૃષ્ણનો ઉત્સાહ` and `ભીમસેનનો ઉમંગ` and calls his own feeling `અકથ્ય` three times over — it must say WHY stacking an ordinary train departure against three પુરાણ-પરાક્રમો, plus a word for the unsayable repeated about ordinary feelings, is what makes the passage funny. An explanation that would read the same as this topic's `modified_chunk` (the plain what-happened seed) fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "no field (`explanation`, `summary`, `detailed_summary`, `concept_bullets`, or a `recall_questions[].answer`) may close on a moral such as 'આપણે નમ્રતાથી વર્તવું જોઈએ' or 'અતિશયોક્તિ ન કરવી જોઈએ' — ભદ્રંભદ્રનું અતિ-ઉત્સાહી બોલવું અહીં પાત્રની ખાસિયત તરીકે શીખવવાનું છે, સામાન્ય જીવન-સલાહ તરીકે નહીં.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "std-10નો બાળક ભદ્રંભદ્રની `શ્રીરામ`/`શ્રીકૃષ્ણ`/`ભીમસેન` સાથેની સરખામણી અને `અકથ્ય`ના પુનરાવર્તનને ગંભીરતાથી, ખરેખરા વીરરસ તરીકે વાંચી લે છે — વ્યંગને સચ્ચાઈ સમજી લેવાની ભૂલ, જે std-10ના L2 વાચકોમાં સૌથી સામાન્ય છે.",
+      "correction": "`explanation`એ સ્પષ્ટ બતાવવું કે એક સામાન્ય ટ્રેન-પ્રયાણને ત્રણ મોટા પૌરાણિક પરાક્રમો સાથે સરખાવવું અને પોતાની સામાન્ય લાગણીને 'અકથ્ય' કહેવું એ લેખકનો કટાક્ષ છે, ભદ્રંભદ્રની ખરી વીરતાનું વર્ણન નથી — સરખામણીના કદ અને પ્રસંગની સામાન્યતા વચ્ચેનો તફાવત જ સ્પષ્ટ બતાવવો."
+    },
+    {
+      "topic_id": "M2.S3.T3",
+      "avoid_checks": [
+        {
+          "check": "wherever `explanation` or `key_terms` quotes સોરાબજીની બોલી — `સું બકેચ ?`, `આય તો તીકીટ ઓફિસ છે`, `સાલો કંઈ મેદ થયેલોચ` — it must reproduce those exact printed forms and must not 'correct' them to `શું કહો છો?`, `આ તો…`, `સાલો કંઈક ગાંડો થયો લાગે છે` or call them ભૂલ/ખોટી ગુજરાતી; they are the book's own phonetic rendering of Parsi-accented speech, named as such in this topic's own `key_terms`.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "no field may apply an evaluative label (અસભ્ય, ગુસ્સાવાળો, ગુનેગાર) to સોરાબજી for the `મુક્કો` he lands after ભદ્રંભદ્ર calls him `યવન` and `મૂર્ખ` — the passage's own humor rests on ભદ્રંભદ્રની ભાષા-જડતા being the cause, not on Sorabji's reaction being wrong.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "std-10નો L2 વાચક સોરાબજીની `સું બકેચ ?`, `આય`, `મેદ થયેલોચ` જેવી બોલી વાંચીને એને છપાઈની ભૂલ અથવા ખોટી ગુજરાતી સમજી લે છે, અને એટલે આખા સંવાદનો મર્મ — બે અલગ ભાષા-રજિસ્ટર ટકરાય ત્યારે કેવી ગેરસમજ સર્જાય — ચૂકી જાય છે.",
+      "correction": "`explanation`એ `સું બકેચ ?` પહેલી વાર આવે ત્યાં જ ગ્લોસ કરવું — 'આ પારસી બોલીનો ઉચ્ચાર છે, ભૂલ નથી' — અને પછી બતાવવું કે ભદ્રંભદ્રની સંસ્કૃત-ભારે ભાષા અને સોરાબજીની બોલી એકબીજાને સમજી શકતાં નથી એ જ પ્રસંગનું હાસ્ય છે."
+    },
+    {
+      "topic_id": "M2.S4.T4",
+      "avoid_checks": [
+        {
+          "check": "`explanation` must say WHY ભદ્રંભદ્ર publicly performing `ચોકો કરી` `સ્નાન` on the platform, right after calling contact with સોરાબજી `દુષ્ટ યવનનો સ્પર્શ`, continues the story's own stated point about a man `પોતાના પુરાણા ખ્યાલોમાં કેવો બંધાયેલો હોય છે` — an explanation that only restates 'he took a bath because he felt touched by a યવન' fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "no field may mock or apply a demeaning label to the naming custom રામશંકર/શિવશંકર describe — `અમારાં ઘરનાં નામ નખોદીઓ અને ઘોરખોદીઓ છે. છોકરાં ન જીવે તેથી મા-બાપે એવાં નામ પાડેલાં` — the two men state it `કચવાઈને` (with discomfort), and the chapter's own target of humor lies elsewhere (ભદ્રંભદ્રનું વર્તન), not in this family's history.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "std-10નો બાળક ભદ્રંભદ્રનું 'દુષ્ટ યવનનો સ્પર્શ થયો, માટે સ્નાન કરવું પડશે' એવું વિધાન સાચી માન્યતા તરીકે વાંચી લે છે — જાણે પુસ્તક પોતે કહેતું હોય કે અમુક વ્યક્તિનો સ્પર્શ ખરેખર 'અશુદ્ધ' કરે છે — અને લેખકનો કટાક્ષ ચૂકી જાય છે.",
+      "correction": "`explanation`એ સ્પષ્ટ કરવું કે આ ભદ્રંભદ્રની પોતાની અતિ-જુનવાણી માન્યતા છે, જેને લેખક પોતે જ પરિચય-ફકરામાં 'પુરાણા ખ્યાલોમાં બંધાયેલો' કહી હસાવવા માગે છે — સ્પર્શ ખરેખર અશુદ્ધ કરે છે એવી કોઈ હકીકત તરીકે નહીં."
+    },
+    {
+      "topic_id": "M2.S4.T5",
+      "avoid_checks": [
+        {
+          "check": "`explanation` must name that the second ઉતારુનું `કોઠા`, `કમરખ જેવી દાબડી`, `પ્રાણવાયુની ધાર` વર્ણન is his own invented, unverified 'shastra' reasoning built to defend the naming custom — and no field may either present this made-up anatomy as real science, or resolve the debate with a modern-science rebuttal ('ખરેખર આવું શરીરમાં હોતું નથી'); the joke is the character manufacturing pseudo-logic, not a verdict on whether the custom is true.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "no field (`explanation`, `detailed_summary`, any `recall_questions[].answer`) may state or imply how ભદ્રંભદ્ર responded to this discussion, whether the debate was settled, or what happened when the train reached મુંબઈ — `original_chunk` stops on `...ઘણાએ અજમાવી જોયેલું છે.` plus the source line `('ભદ્રંભદ્ર'માંથી)`, and nothing past that point exists anywhere in this plan; the ending must be taught as genuinely open.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "wherever quoted, ઉતારુઓની બોલી — `ઈમ કંઈ સોકરાં જીવે સે ?` — must stay in its printed તળપદી form; `explanation`/`key_terms` must not silently replace `સે`→`છે`, `ઈમ`→`એમ`, `સોકરાં`→`છોકરાં`, and must not call them ભૂલ.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "std-10નો બાળક બીજા ઉતારુની 'કોઠા'-'પ્રાણવાયુ' જેવી શાસ્ત્રીય-લાગતી દલીલને ખરી શરીરરચના કે ખરું શાસ્ત્ર સમજી લે છે, અને ચૂકી જાય છે કે આ પાત્રે પોતે જ ઊભી કરેલી બનાવટી, હાસ્યાસ્પદ 'logic' છે જૂના વહેમને બચાવવા માટે.",
+      "correction": "`explanation`એ સ્પષ્ટ કહેવું કે `કોઠા`, `દાબડી`, `પ્રાણવાયુની ધાર` એ બીજા ઉતારુએ પોતે ઉપજાવેલી, કોઈ ખરા શાસ્ત્ર કે વિજ્ઞાનમાં ન મળતી વાત છે — જૂના ખ્યાલને 'તર્ક'નું રૂપ આપવાની આ રીત જ લેખકનો કટાક્ષ છે."
+    }
+  ],
+  "chapter_level": [
+    "નવલકથાખંડનો આ ટુકડો ખુલ્લો પૂરો થાય છે — `original_chunk`ના છેલ્લા વાક્ય '...ઘણાએ અજમાવી જોયેલું છે.' પછી કંઈ છપાયેલું નથી. ચેપ્ટરના કોઈ પણ ટોપિકનું `explanation`, `detailed_summary` કે કોઈ પણ `recall_questions[].answer` ટિકિટ-બારીના ઝઘડાનું પરિણામ, વહેમની ચર્ચાનો નિર્ણય, કે મુંબઈ પહોંચ્યા પછી શું થયું એ કલ્પીને લખે તો એ varta profileના hard gate ('inventing what the excerpt does not contain')નો ભંગ છે — આ ચેપ્ટરના તમામ પાંચ ટોપિકને એકસરખું લાગુ પડે છે.",
+    "કથક 'હું'/'મેં'/'અમે' એ અંબારામ (પાત્ર) છે, રમણભાઈ નીલકંઠ (ખરેખરો લેખક) નહીં — M2.S2.T2થી M2.S4.T5 સુધીના દરેક ટોપિકના પ્રથમ-પુરુષ કથનમાં આ ભાન રાખવું; કોઈ પણ ફિલ્ડ કથક-પાત્રનાં વિધાનોને લેખકનાં પોતાનાં વિધાનો તરીકે ન લખે.",
+    "ધર્મ/સમુદાય-સંવેદનશીલતા (global_content_rules.md #10): ભદ્રંભદ્રનું સોરાબજીને 'યવન' કહી તેમના સ્પર્શને અશુદ્ધ ગણવું (M2.S4.T4), અને રામશંકર-શિવશંકરનું ખરાબ-નામ-રાખવાનો રિવાજ (M2.S4.T4-T5) — બંને ચેપ્ટરના પોતાના પરિચય-ફકરા મુજબ લેખકના કટાક્ષનો ભાગ છે અથવા બાળ-રક્ષણનો સાચો રિવાજ છે; કોઈ પણ ટોપિકનું લખાણ આને ધર્મ કે સમુદાય વિશેની ટીકા, મજાક કે ચુકાદો ન બનાવે.",
+    "std-10ની name-ceiling છતાં, આ ચેપ્ટરના રેન્ડર થયેલા apparatus (ભાષા-અભિવ્યક્તિ સહિત)માં કોઈ છંદ કે કોઈ ચોક્કસ અલંકારનું નામ છપાયેલું નથી (04_converged.json ની નોંધ મુજબ) — તેથી કોઈ પણ ટોપિકનું `explanation` કે `key_terms` કોઈ ચોક્કસ અલંકાર (દા.ત. અતિશયોક્તિ, વ્યાજસ્તુતિ, કટાક્ષાલંકાર) કે છંદનું નામ ન આપે; ક્રાફ્ટ ફક્ત સાદી ભાષામાં જ વર્ણવવો.",
+    "ચેપ્ટરમાં બે અલગ બોલી-રજિસ્ટર છપાયેલા છે — સોરાબજીની પારસી-લઢણ (`બકેચ`, `આય`, `મેદ`, M2.S3.T3) અને સહપ્રવાસીઓની તળપદી બોલી (`સે`, `ઈમ`, `સોકરાં`, M2.S4.T5) — બંનેને જ્યાં પણ ટાંકવામાં આવે ત્યાં છપાયેલા સ્વરૂપમાં જ રાખવાં, ક્યાંય માનક ગુજરાતીમાં સુધારવાં નહીં કે ભૂલ ન ગણવાં."
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "media": [
+    {
+      "topic_id": "M2.S2.T3",
+      "concept_id": "M2.S2.T3.C3",
+      "id": "M2.S2.T3.C3.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "નવસર્જનની વાટે પ્રવાસી",
+      "description": "સવારના અજવાળામાં ખુલ્લા રસ્તા પર ઉર આશા-ઉલ્લાસ ભરીને ચાલતાં પ્રવાસીઓ.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S2.T3.C3",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "ચિત્ર બતાવતાં પહેલાં પૂછો — આ પ્રવાસીઓ ક્યાં ચાલે છે, ને એમના ચહેરા પર શું દેખાય છે? બાળકો ખુલ્લો રસ્તો (વાટ) ને હોંશભર્યા ચહેરા નોંધશે. પછી પંક્તિ 'નવસર્જનની વાટે વિહરતા' વાંચી બતાવો ને 'વાટ'ને તળપદો શબ્દ ('રસ્તો') તરીકે ત્યાં જ ગ્લોસ કરો. ટેક 'અમે નૂતન યુગના પ્રવાસી.' આ કડીમાં પહેલી વાર આવે છે — તેને પૂરેપૂરું અહીં જ શીખવો, પછીની બે કડીમાં ફક્ત યાદ કરાવવો. ચિત્રને કોઈ સૂત્ર કે ઝુંબેશ જેવું ન બનાવવું — આ તો પ્રવાસીના પોતાના ઉર-ભાવનું ચિત્ર છે.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, any lettering other than the single Gujarati narrator line, numerals anywhere in the picture, national flag as a political symbol, government building, political rally, campaign banner, military uniform, weapons",
+      "generation_prompt": "A long dirt road curving gently through a wide field of ripening bajra millet in North Gujarat, just after sunrise — pale gold light low across the crop, a scattering of neem and babul trees along the roadside, a cluster of low houses with curved clay-tile roofs visible far in the distance where the road bends out of sight. A small group of four young Gujarati travelers — two young men in plain cream-colored kurta and dhoti and two young women in simple cotton sarees with no jewellery, each carrying a small cloth satchel or bundle slung over one shoulder, a plain wooden walking stick in one traveler's hand — walking together side by side along this open road, unhurried but purposeful, their faces lifted toward the road ahead, eyes bright, half-smiling, one arm swinging loosely as they walk. A pair of sparrows dart low across the road in front of them. Long morning shadows stretch behind the group toward the sunrise. The mood is fresh, hopeful, wide open. At the very bottom of the picture a narrow horizontal narrator bar in a soft cream tone carries exactly this Gujarati line, lettered in clean Gujarati script and nothing else: નવસર્જનની વાટે વિહરતા . There is no other writing anywhere in the image. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "concept_id": "M2.S2.T4.C4",
+      "id": "M2.S2.T4.C4.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "વગડાના વાસી પ્રવાસી",
+      "description": "રાત્રિની નીંદ-આળસ પાછળ છોડી, ખુલ્લા વગડામાં ઉત્સાહથી ચાલતાં પ્રવાસીઓ.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S2.T4.C4",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "ચિત્ર બતાવતાં પૂછો — આ પ્રવાસીઓ પાછળ શું છોડી આવ્યા છે, ને હવે ક્યાં જઈ રહ્યા છે? બાળકો પાછળ પડેલી ખાલી પથારી (નીંદ-આળસનું ચિત્ર) ને આગળનું ખુલ્લું વગડું નોંધશે. પછી પંક્તિ 'અમે વિચરતા વગડાના વાસી' વાંચી બતાવો — આ કડીની શરૂઆતનો એ જ વર્ણાનુપ્રાસ (કડી 1ના 'વાટે વિહરતા'ની જેમ) અહીં 'વિચરતા વગડાના'માં આગળ વધે છે. 'હટાવશું'/'મિટાવશું'ને પ્રવાસીના પોતાના વચન તરીકે જ સમજાવવાં, કોઈ 'આપણે... જોઈએ' જેવી સલાહ ન બનાવવી.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, any lettering other than the single Gujarati narrator line, numerals anywhere in the picture, national flag as a political symbol, government building, political rally, campaign banner, military uniform, weapons, frightening monster or demon representing sadness, battle scene, violence, blood",
+      "generation_prompt": "Open scrubland (વગડો) at the very edge of dawn in Kutch — dry cracked earth studded with thorny babul bushes and scattered grey boulders, a wide flat horizon just beginning to catch the first pale light while the sky directly overhead is still deep blue-grey night. Behind the group, half in shadow, a simple thatched resting shelter stands empty, a rolled sleeping mat left on its floor. A small group of four young Gujarati travelers — two young men in plain cream-colored kurta and dhoti and two young women in simple cotton sarees with no jewellery, each carrying a small cloth satchel or bundle slung over one shoulder, a plain wooden walking stick in one traveler's hand — stride forward together away from the shelter and into the open wild land, arms swinging with energy, heads up, stretching as though just risen, faces turned toward the brightening horizon. A pair of wild goats watch from a low rock. The mood is awake, unburdened, freed. At the very bottom of the picture a narrow horizontal narrator bar in a soft cream tone carries exactly this Gujarati line, lettered in clean Gujarati script and nothing else: અમે વિચરતા વગડાના વાસી . There is no other writing anywhere in the image. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "concept_id": "M2.S3.T5.C5",
+      "id": "M2.S3.T5.C5.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "રંગીન ધરાના રહેવાસી",
+      "description": "મોહમાયાની જાળ પાછળ છોડી, રંગબેરંગી ફૂલો-વૃક્ષોવાળી ધરતી પર ઊભેલાં હસમુખાં પ્રવાસીઓ.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S3.T5.C5",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "ચિત્ર બતાવતાં પૂછો — આ પ્રવાસીઓના પગ પાછળ શું પડ્યું છે, ને એમની આસપાસની ધરતી કેવી દેખાય છે? બાળકો ફેંકી દીધેલી જાળ (ફંદ) ને રંગબેરંગી ફૂલો-વૃક્ષોવાળી ધરતી નોંધશે. પછી પંક્તિ 'અમે રંગીન ધરાના રહેવાસી' વાંચી બતાવો ને સમજાવો કે 'રંગીન' શબ્દ એકલો જ અનેક રંગનાં ફૂલ-ફળ-પ્રાણીઓવાળી ધરતીનું સૂચન કરે છે. 'ભૂત' અહીં ખરેખરું ભૂત નથી પણ ખોટી કીર્તિની ઘેલછા છે, ને 'સ્વર્ગ' આ જ ધરતી પરનું સુંદર જીવન છે — બંનેને લાક્ષણિક અર્થમાં જ સ્પષ્ટ કરવાં, મરણોત્તર જગ્યા તરીકે નહીં.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, any lettering other than the single Gujarati narrator line, numerals anywhere in the picture, national flag as a political symbol, government building, political rally, campaign banner, military uniform, weapons, literal ghost or spirit figure, gravestone or afterlife imagery, clouds with angels or wings, halo, temple or shrine architecture, deity figure, threatening trap or cage used against a person",
+      "generation_prompt": "A gently sloping hillside meadow in South Gujarat bursting with colour — wildflowers of yellow, pink, deep red and violet covering the grass, a row of flowering and fruit-laden trees along the ridge, parrots and a peacock moving among the branches, a clear blue sky overhead. In the foreground, half-hidden in the grass just behind the group, an old frayed rope net lies loosely discarded, clearly cast aside and left behind. A small group of four young Gujarati travelers — two young men in plain cream-colored kurta and dhoti and two young women in simple cotton sarees with no jewellery, each carrying a small cloth satchel or bundle slung over one shoulder, a plain wooden walking stick in one traveler's hand — stand together at the crest of the slope looking out over this colourful land, their faces relaxed and openly smiling, one woman reaching out to touch a low flowering branch, none of them looking back at the discarded net. The mood is settled, bright, contented — sadness clearly left behind. At the very bottom of the picture a narrow horizontal narrator bar in a soft cream tone carries exactly this Gujarati line, lettered in clean Gujarati script and nothing else: અમે રંગીન ધરાના રહેવાસી . There is no other writing anywhere in the image. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    }
+  ],
+  "2d_tool": null,
+  "reuse_report": {
+    "scenes": 3,
+    "reused": 0,
+    "authored": 3,
+    "rejected": []
+  }
+}

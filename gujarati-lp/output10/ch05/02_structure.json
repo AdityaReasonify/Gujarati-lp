@@ -1,0 +1,655 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati10_ch5",
+  "plan_id": "gseb_eng_gujarati10_ch5_v1",
+  "grade": 10,
+  "chapter_name": "શ્વેતકાંતિના પ્રણેતાઓ",
+  "genre": "ચરિત્ર-પ્રસંગ (રેખાચિત્ર)",
+  "active_genre_profiles": [
+    "charitra_prasang.md"
+  ],
+  "teaching_lens": "પ્રસંગ + સ્વભાવ + મૂલ્ય",
+  "guiding_question": "ગુજરાતના ગામડાના ખેડૂત-આગેવાન ત્રિભુવનદાસ પટેલ અને કેરળથી આવેલા એન્જિનિયર ડૉ. વર્ગીસ કુરિયન — સાવ જુદા સ્વભાવના આ બે માણસોએ ચાર દાયકા સાથે રહીને ગુજરાતના ખેડૂતના દૂધને 'અમૂલ બ્રાન્ડ' સુધી કેવી રીતે પહોંચાડ્યું ?",
+  "explanation_unit": "એક જીવન-પ્રસંગ, અથવા છપાયેલ વ્યક્તિ-વિભાગ (તથ્ય-ઝૂમખું)",
+  "cut_summary": {
+    "reading_markers_in_normalized": [
+      "[[ઘટના: શાળાના મિત્રવર્તુળમાં નિબંધ-વારો]]",
+      "[[ઘટના: ટિસ્કોમાં તાલીમ છોડી દેવાનો પ્રસંગ]]",
+      "[[ઘટના: આણંદમાં આગમન અને નિરાશાનો ગાળો]]",
+      "[[ઘટના: માલાઈ ચાટતા કર્મચારીનો પ્રસંગ]]",
+      "[[ઘટના: મંથન ફિલ્મ માટે એક-એક રૂપિયાનું ટોકન]]"
+    ],
+    "reading_markers_count": 5,
+    "printed_person_heads": [
+      "(1) ત્રિભુવનદાસ પટેલ",
+      "(2) ડૉ. વર્ગીસ કુરિયન"
+    ],
+    "printed_person_heads_count": 2,
+    "topics": 12,
+    "segments": 7,
+    "modules": 3,
+    "concepts": 17,
+    "objectives": 12,
+    "non_topic_markers": [
+      "[[શબ્દ-સમજૂતી]]",
+      "[[સ્વાધ્યાય: નીચેના પ્રશ્નો સાથે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો.]]",
+      "[[સ્વાધ્યાય: નીચેના પ્રશ્નોના એક-એક વાક્યમાં ઉત્તર લખો.]]",
+      "[[સ્વાધ્યાય: નીચેના પ્રશ્નોના સવિસ્તર ઉત્તર લખો.]]",
+      "[[વિદ્યાર્થી-પ્રવૃત્તિ]]",
+      "[[ભાષા-અભિવ્યક્તિ]]",
+      "[[શિક્ષક ભૂમિકા]]"
+    ],
+    "ghatna": 5,
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0,
+    "tek_occurrences": 0,
+    "vyakti_vibhag": 2
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "શ્વેતકાંતિના બે પ્રણેતાઓની ઓળખ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "બંને પ્રણેતાઓનો પરિચય અને ચરિત્રનો હેતુ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "ત્રિભુવનદાસ અને કુરિયનની ઓળખ અને ચરિત્રનો હેતુ",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "",
+              "markers": [],
+              "source_lines_00_normalized": "5,7",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "બે પ્રણેતાઓની ઓળખ અને ચરિત્રનો ઉદ્દેશ",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "ત્રિભુવનદાસ પટેલ — સ્વપ્નદૃષ્ટા ખેડૂત-આગેવાન",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "શાળાના મિત્રવર્તુળમાં સહકારનું બીજ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T2",
+              "topic_name": "નિબંધ-વારામાં રોપાયેલો સહકારનો વિચાર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: શાળાના મિત્રવર્તુળમાં નિબંધ-વારો]]"
+              ],
+              "source_lines_00_normalized": "11-12",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T2.C2",
+                  "concept_name": "શાળાના નિબંધ-વારામાં રોપાયેલો સહકારનો વિચાર",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "સહકારી મંડળીની સ્થાપનાથી કાયમી વારસા સુધી",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T3",
+              "topic_name": "આઝાદીની ચળવળથી સહકારી મંડળીની સ્થાપના અને કુરિયનની ભાગીદારી",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "",
+              "markers": [],
+              "source_lines_00_normalized": "14-18",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T3.C3",
+                  "concept_name": "આઝાદીની ચળવળના પ્રભાવ હેઠળ સહકારી મંડળીની સ્થાપના",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T3.C4",
+                  "concept_name": "કુરિયનનો સાથ મળતાં અમૂલ ડેરીનો વિકાસ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "સન્માનો, નિવૃત્તિ અને ત્રિભુવનદાસ ફાઉન્ડેશનનો વારસો",
+              "topic_type": "CONCEPT",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "",
+              "markers": [],
+              "source_lines_00_normalized": "20-24",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C5",
+                  "concept_name": "એવોર્ડ અને સ્વૈચ્છિક નિવૃત્તિ",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T4.C6",
+                  "concept_name": "ત્રિભુવનદાસ ફાઉન્ડેશન અને કાયમી આદર",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "ડૉ. વર્ગીસ કુરિયન — સ્વપ્નને સાકાર કરનાર શિલ્પી",
+      "segments": [
+        {
+          "segment_id": "M3.S4",
+          "segment_name": "ટિસ્કોથી આણંદ સુધીની સફર",
+          "topics": [
+            {
+              "topic_id": "M3.S4.T5",
+              "topic_name": "ટિસ્કોની નોકરી છોડવાનો નિર્ણય",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: ટિસ્કોમાં તાલીમ છોડી દેવાનો પ્રસંગ]]"
+              ],
+              "source_lines_00_normalized": "28-29",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T5.C7",
+                  "concept_name": "ટિસ્કોમાં તાલીમ છોડી દેવાનો નિર્ણય",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S4.T6",
+              "topic_name": "કેરળના પરિવારથી અમેરિકાના અભ્યાસ સુધીની સફર",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "",
+              "markers": [],
+              "source_lines_00_normalized": "31-33",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T6.C8",
+                  "concept_name": "કેરળના પરિવારમાં જન્મ અને શાલેય-કૉલેજ શિક્ષણ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S4.T6.C9",
+                  "concept_name": "અમેરિકામાં ડેરી એન્જિનિયરિંગ અને અનુસ્નાતક અભ્યાસ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S4.T7",
+              "topic_name": "આણંદમાં નિરાશા અને ત્રિભુવનદાસ સાથે મુલાકાત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T3"
+              ],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: આણંદમાં આગમન અને નિરાશાનો ગાળો]]"
+              ],
+              "source_lines_00_normalized": "35-38",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T7.C10",
+                  "concept_name": "આણંદમાં નિરાશા અને ત્રિભુવનદાસ સાથે મુલાકાત",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "સહકારી ચળવળનું રાષ્ટ્રવ્યાપી નિર્માણ",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T8",
+              "topic_name": "ઓપરેશન ફ્લડ, એન.ડી.ડી.બી. અને નિઃસ્વાર્થ સેવા",
+              "topic_type": "CONCEPT",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [
+                "M3.S4.T7"
+              ],
+              "objective_ids": [
+                "O8"
+              ],
+              "original_chunk": "",
+              "markers": [],
+              "source_lines_00_normalized": "40-44",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T8.C11",
+                  "concept_name": "ઓપરેશન ફ્લડ અને એન.ડી.ડી.બી./ફેડરેશનની સ્થાપના",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S5.T8.C12",
+                  "concept_name": "પગાર વિના નિભાવેલી જવાબદારીઓ",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S6",
+          "segment_name": "કર્મચારીની કાળજી અને લોકભંડોળનું બળ",
+          "topics": [
+            {
+              "topic_id": "M3.S6.T9",
+              "topic_name": "માલાઈ ચાટતા કર્મચારીનો પ્રસંગ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O9"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: માલાઈ ચાટતા કર્મચારીનો પ્રસંગ]]"
+              ],
+              "source_lines_00_normalized": "46-47",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T9.C13",
+                  "concept_name": "માલાઈ ચાટતા કર્મચારીનો પ્રસંગ",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S6.T10",
+              "topic_name": "મંથન ફિલ્મ માટે એક-એક રૂપિયાનું ટોકન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O10"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: મંથન ફિલ્મ માટે એક-એક રૂપિયાનું ટોકન]]"
+              ],
+              "source_lines_00_normalized": "49-50",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T10.C14",
+                  "concept_name": "મંથન ફિલ્મ માટે એક-એક રૂપિયાનું ટોકન",
+                  "objective_id": "O10",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S7",
+          "segment_name": "સન્માનો, વારસો અને યુવાનોને સંદેશ",
+          "topics": [
+            {
+              "topic_id": "M3.S7.T11",
+              "topic_name": "કુરિયનને મળેલાં સન્માનો અને એમનો કાયમી વારસો",
+              "topic_type": "CONCEPT",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M3.S5.T8"
+              ],
+              "objective_ids": [
+                "O11"
+              ],
+              "original_chunk": "",
+              "markers": [],
+              "source_lines_00_normalized": "52-56",
+              "concepts": [
+                {
+                  "concept_id": "M3.S7.T11.C15",
+                  "concept_name": "કુરિયનને મળેલાં પારિતોષિકો અને સન્માનો",
+                  "objective_id": "O11",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S7.T11.C16",
+                  "concept_name": "અવસાન પછીનો કાયમી વારસો",
+                  "objective_id": "O11",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S7.T12",
+              "topic_name": "યુવાનો માટે 'મારું સ્વપ્ન'નો સંદેશ",
+              "topic_type": "REVIEW",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O12"
+              ],
+              "original_chunk": "",
+              "markers": [],
+              "source_lines_00_normalized": "58",
+              "concepts": [
+                {
+                  "concept_id": "M3.S7.T12.C17",
+                  "concept_name": "'મારું સ્વપ્ન'નો યુવાનોને સંદેશ",
+                  "objective_id": "O12",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક શરૂઆતના ફકરામાં ત્રિભુવનદાસ પટેલને 'સ્વપ્નદૃષ્ટા' અને ડૉ. કુરિયનને 'સ્વપ્નશિલ્પી' કેમ કહે છે તે પાઠના શબ્દોના આધારે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ત્રિભુવનદાસે શાળાના મિત્રો સાથે 'સહકાર' વિષય પર નિબંધ લખ્યો એ પ્રસંગ પરથી તેમના જીવનભરના કામનું બીજ કેવી રીતે રોપાયું તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T2",
+      "anchor": [
+        "M2.S2.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વલ્લભભાઈના માર્ગદર્શન હેઠળ 'પોલસન' કંપનીના ત્રાસથી ખેડા જિલ્લાના ખેડૂતોએ સહકારી મંડળી કેમ સ્થાપી અને કુરિયનનો સાથ મળતાં શું બદલાયું તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T3",
+      "anchor": [
+        "M2.S3.T3.C3",
+        "M2.S3.T3.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "1971માં નિવૃત્તિ વખતે મળેલી થેલી-ભેટમાંથી ત્રિભુવનદાસે કઈ કાર્યયોજના શરૂ કરી અને 'ત્રિભુવનદાસ ફાઉન્ડેશન' આજે કયું સેવાકાર્ય કરે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C5",
+        "M2.S3.T4.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ટિસ્કોમાં નોકરી છોડતી વખતે કુરિયને 'હું માત્ર ઉપરી અમલદારનો ભાણેજ જ રહ્યો છું' કેમ કહ્યું અને એ નિર્ણય તેમના કયા સ્વભાવને છતો કરે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S4.T5",
+      "anchor": [
+        "M3.S4.T5.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કેરળના કેલિકટમાં જન્મેલા કુરિયન મદ્રાસની કૉલેજોમાં ભણ્યા પછી અમેરિકામાં કયા વિષયોમાં સ્નાતકોત્તર થયા અને દેશમાં પાછા ક્યારે આવ્યા તે કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M3.S4.T6",
+      "anchor": [
+        "M3.S4.T6.C8",
+        "M3.S4.T6.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "આણંદમાં નિરાશ કુરિયનને ત્રિભુવનદાસ પટેલનો પરિચય કઈ રીતે મળ્યો અને એ મુલાકાતે તેમના કામને કેવો વળાંક આપ્યો તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S4.T7",
+      "anchor": [
+        "M3.S4.T7.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'ઓપરેશન ફ્લડ', 'એન.ડી.ડી.બી.' અને 'ગુજરાત કો-ઓપરેટિવ મિલ્ક માર્કેટિંગ ફેડરેશન' ઊભાં કરવા છતાં કુરિયને પગાર ન લેવાનું કેમ પસંદ કર્યું તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T8",
+      "anchor": [
+        "M3.S5.T8.C11",
+        "M3.S5.T8.C12"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મલાઈ ચાટતા કર્મચારીને જોઈને કંઈ કહ્યા વિના પાછા ફરેલા કુરિયને બીજા દિવસે કઈ સૂચના આપી અને એ પસંદગી તેમના કયા સ્વભાવને છતો કરે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S6.T9",
+      "anchor": [
+        "M3.S6.T9.C13"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O10",
+      "legacy_id": "L10",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'મંથન' ફિલ્મ બનાવવાના ખર્ચ માટે કુરિયને દૂધ ઉત્પાદક મંડળીના સભ્યો પાસેથી કઈ રીતે નાણાં ભેગાં કરાવ્યાં તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S6.T10",
+      "anchor": [
+        "M3.S6.T10.C14"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O11",
+      "legacy_id": "L11",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ડૉ. કુરિયનના અવસાન પછી પણ અમૂલનું કામ 'વટવૃક્ષ' કેમ બન્યું છે અને એમને મળેલાં કયાં સન્માનો પાઠમાં નોંધાયાં છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S7.T11",
+      "anchor": [
+        "M3.S7.T11.C15",
+        "M3.S7.T11.C16"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O12",
+      "legacy_id": "L12",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'મારું સ્વપ્ન' આત્મકથામાં કુરિયને યુવાનોને આપેલો સંદેશ પાઠના શબ્દોમાં ટાંકીને, એ સંદેશ આજે કેટલો સાચો લાગે છે તે પોતાના મત સાથે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S7.T12",
+      "anchor": [
+        "M3.S7.T12.C17"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9",
+    "L10": "O10",
+    "L11": "O11",
+    "L12": "O12"
+  },
+  "not_cut_as_topics": [
+    "શીર્ષક-બોક્સ 'શ્વેતકાંતિના પ્રણેતાઓ' અને લેખક-સ્લોટ 'સંકલિત' (લીટી 1, 3) — header furniture, charitra_prasang.md ના Tell 3 મુજબ ('સંકલિત' is diagnostic evidence, not a reading scene). પાનું 1 નું QR બૅજ (01_meta.json extraction_notes મુજબ) પણ header furniture છે અને ટ્રાન્સ્ક્રાઇબ થયું નથી.",
+    "[[શબ્દ-સમજૂતી]] બ્લોક (સમાનાર્થી શબ્દો/શબ્દાર્થ, વિરુદ્ધાર્થી શબ્દો, રૂઢિપ્રયોગો) — apparatus; key_terms અને ભાષા-બોધ માટે Agent 5/12 નો સ્રોત છે, ટોપિક નથી (global_content_rules.md #7).",
+    "ત્રણેય [[સ્વાધ્યાય: ...]] બૅનર અને એમના નવ પ્રશ્નો (MCQ 3, એક-એક વાક્યમાં 3, સવિસ્તર 3) — Agent 10 ના exercise_solutions.json માટે અલગ રાખેલ છે; 01_meta.json.exercise_inventory માં પહેલેથી નોંધાયેલ છે.",
+    "[[વિદ્યાર્થી-પ્રવૃત્તિ]] (4 મુદ્દા: વક્તૃત્વસ્પર્ધા, સહકારી મંડળીની મુલાકાત, ઈન્ટરનેટ પરથી માહિતી, ગામની દૂધમંડળીની મુલાકાત) — appended student-activity matter, exercise નથી, ટોપિક નથી.",
+    "[[ભાષા-અભિવ્યક્તિ]] — શિક્ષક-સંબોધિત વ્યાકરણ ચર્ચા (વાક્ય-કરકસર, બેવડાં/એકવડાં અવતરણચિહ્નનો ભેદ, સંયોજકો/સંકુલ વાક્ય, સમાસ-સૂચિ). Apparatus; ટોપિક નથી. નોંધ: આ બોક્સનું પોતાનું ઉદાહરણ-વાક્ય 'કુરિયન એટલે સફળ નેતૃત્વ, સખત પરિશ્રમ અને સેવા પણ.' પાઠના ચાલુ ગદ્યમાં (લીટી 1-60) ક્યાંય છપાયું નથી અને શબ્દાર્થ/રૂઢિપ્રયોગ apparatus માં પણ નથી — તેથી charitra_prasang.md ના hard gate 1 મુજબ આ વાક્ય કોઈ authored field (explanation, real_life_example, વગેરે) માં અવતરણ તરીકે વાપરી શકાય નહિ; આગળના એજન્ટ માટે ચેતવણી તરીકે અહીં નોંધ્યું છે.",
+    "[[શિક્ષક ભૂમિકા]] (4 મુદ્દા, જેમાં 'સંપ ત્યાં જંપ' વગેરે કહેવતોની યાદી) — શિક્ષક-સંબોધિત, વિદ્યાર્થી-સંબોધિત નથી (profiles/students/std-10.md §1.4: 'શિક્ષકની ભૂમિકા is teacher-addressed — not a child-facing exercise block'). ટોપિક નથી, exercise નથી.",
+    "લેખકનું નામ છપાયેલ છેલ્લે કૌંસમાં: '(આલેખન : રમેશચંદ્ર ડી. પંડ્યા)' (લીટી 60). આ ચરિત્રની બહારનું byline છે — charitra_prasang.md ના Tell 3 અને avoid-gate 7 મુજબ, આ લેખકે વિષયોને મળ્યા-જોયા-સાથે-કામ-કર્યાનો કોઈ દાવો કોઈ authored field ન કરે. Agent 5 માટે નોંધ: આ લીટીને M3.S7.T12 ના original_chunk ની પૂંછડીમાં મૂકવી કે અલગ રાખવી — બંને ઠીક છે, પણ કોઈ પણ સંજોગોમાં લેખકને સાક્ષી ન બનાવવો."
+  ],
+  "notes": [
+    "કટ-ઓથોરિટી: 01_meta.json નું explanation_unit ('એક જીવન-પ્રસંગ, અથવા છપાયેલ વ્યક્તિ-વિભાગ') અને charitra_prasang.md નું 'The printed part-head is the cut... within a section, episodes cut further' — બંને નિયમ સાથે વાપર્યા. બે છપાયેલા વ્યક્તિ-વિભાગ-હેડ '(1) ત્રિભુવનદાસ પટેલ' અને '(2) ડૉ. વર્ગીસ કુરિયન' અનુક્રમે M2 અને M3 મોડ્યુલના પહેલા ટોપિક (M2.S2.T2 અને M3.S4.T5) ને ખોલે છે — 01_meta.json.structure_inventory.printed_person_heads = 2 સાથે બંધબેસે છે, અને કોઈ ટોપિકનો original_chunk બે હેડ વચ્ચે ફેલાતો નથી (charitra_prasang.md avoid-gate 6).",
+    "માર્કર-ટુ-ટોપિક બરાબર 1:1: 00_chapter_normalized.md માં પાંચ [[ઘટના: …]] માર્કર છે અને એ પાંચેય અહીં પાંચ અલગ ટોપિકમાં છે — M2.S2.T2, M3.S4.T5, M3.S4.T7, M3.S6.T9, M3.S6.T10 — 01_meta.json.structure_inventory.ghatna = 5 સાથે બરાબર મળે છે. કોઈ માર્કર ગળી ગયો નથી અને કોઈ ટોપિક માર્કર વગર 'ઘટના' તરીકે ઊભો કરાયો નથી.",
+    "બાકીના સાત ટોપિક (M1.S1.T1, M2.S3.T3, M2.S3.T4, M3.S4.T6, M3.S5.T8, M3.S7.T11, M3.S7.T12) ને કોઈ [[ઘટના:]] માર્કર નથી — આ ઈરાદાપૂર્વક છે. 01_meta.json ની extraction_notes પોતે કહે છે કે 'birth/family/education chronology, cooperative-founding chronology, awards enumeration, financial/legacy figures' 'તથ્ય-ઝૂમખું' (facts-cluster) સામગ્રી છે, ઘટના નહિ — અને charitra_prasang.md કહે છે 'A dated facts-cluster is a legitimate topic where the chapter is built of facts... Give it one topic, topic_category: core, not one topic per year.' આ સાત ટોપિકમાં કોઈ પણ એક વર્ષ-દીઠ કપાયેલ નથી.",
+    "દરેક વ્યક્તિની 'તથ્ય-ઝૂમખું' સામગ્રીને એક જ ટોપિકને બદલે ગુણ બદલાય ત્યાં કાપી છે (explanation_unit_map.md rule: 'Cut where the quality changes, not at the paragraph break'): ત્રિભુવનદાસ માટે M2.S3.T3 (સંગઠનક્ષમતા — મંડળીની સ્થાપના) અને M2.S3.T4 (સન્માન/સેવા-વારસો) અલગ; કુરિયન માટે M3.S4.T6 (કૌટુંબિક-શૈક્ષણિક પાયો), M3.S5.T8 (સંગઠન-નિર્માણ + નિઃસ્વાર્થ સેવા) અને M3.S7.T11 (સન્માન + કાયમી વારસો) અલગ.",
+    "M3.S4.T7 એ [[ઘટના: આણંદમાં આગમન અને નિરાશાનો ગાળો]] માર્કર (લીટી 35-36) અને એની તરત પછીની અમાર્ક કરેલ ફકરો (લીટી 38, ત્રિભુવનદાસ સાથેની મુલાકાત) બંનેને એક ટોપિકમાં રાખે છે, કારણ કે એ એક જ પરિસ્થિતિ→કૃત્ય→પરિણામ ચાપ પૂરો કરે છે (નિરાશા શરૂ થાય છે અને ત્રિભુવનદાસ સાથેની મુલાકાતથી જ ઉકેલાય છે). કોઈ નવો માર્કર ન હોવાથી નવો ટોપિક ઊભો કર્યો નથી.",
+    "depends_on વાસ્તવિક પરાધીનતા જ નોંધે છે: M3.S4.T7 (કુરિયન-ત્રિભુવનદાસ મુલાકાત) M2.S3.T3 પર આધારિત છે કારણ કે પાઠ પોતે કહે છે 'કુરિયનના આણંદમાં આગમન પહેલાં... ' સંસ્થા (જે M2.S3.T3 માં સ્થપાયેલી છે) પહેલેથી કાર્યરત હતી; M2.S3.T4 (ત્રિભુવનદાસના સન્માન/નિવૃત્તિ) M2.S3.T3 (એમની સ્થાપક-ભૂમિકા) પર આધારિત છે; M3.S5.T8 (સંગઠન-નિર્માણ) M3.S4.T7 (ભાગીદારીની શરૂઆત) પર આધારિત છે; M3.S7.T11 (સન્માન/વારસો) M3.S5.T8 (જે સિદ્ધિઓ માટે સન્માન મળ્યાં તે) પર આધારિત છે. બાકીના ટોપિકનું depends_on ખાલી છે.",
+    "લીટી 56 (સરદાર પટેલ, નહેરુ, શાસ્ત્રી, મોરારજીભાઈ, મણિબહેન, ઇન્દિરા ગાંધી વગેરે નેતાઓ સાથેના સહકારનું એક જ વાક્ય) ને અલગ ટોપિક નથી આપ્યો — તે M3.S7.T11 ના બીજા concept (C16, કાયમી વારસો) માં સમાવ્યું છે, કારણ કે તે એક સ્વતંત્ર ઘટના કે તથ્ય-ઝૂમખું બનવા જેટલું નથી, પણ કુરિયનની કાયમી પ્રતિષ્ઠાનો જ એક ભાગ છે.",
+    "M3.S7.T12 ને REVIEW ગણ્યો છે (POEM/STORY_TELLING/CONCEPT નહિ) કારણ કે તે 'મારું સ્વપ્ન' આત્મકથામાંથી ટાંકેલો યુવાનોને સંદેશ અને પાઠનું અંતિમ પ્રશસ્તિ-વાક્ય છે — નવી હકીકત નહિ, પણ ચરિત્રનો in-text value-wrap (explanation_unit_map.md ના topic_type વર્ણન મુજબ). આ 'તાળા-ઓલ બોધ' નથી કારણ કે પાઠ પોતે આ સંદેશને 'મારું સ્વપ્ન' માંથી ટાંકીને પ્રિન્ટ કરે છે (charitra_prasang.md avoid-gate 12: 'Where the chapter states its own closing appeal, quote it and teach it as the writer's move').",
+    "બંને વ્યક્તિ-વિભાગની ટોપિક-સંખ્યા અસમાન છે (ત્રિભુવનદાસ: 3 ટોપિક — M2.S2.T2, M2.S3.T3, M2.S3.T4; કુરિયન: 8 ટોપિક — M3.S4.T5-T7, M3.S5.T8, M3.S6.T9-T10, M3.S7.T11-T12). આ પાનાનું પોતાનું અસમાન વિભાજન છે — કુરિયનનો વિભાગ (લીટી 26-60) ત્રિભુવનદાસના વિભાગ (લીટી 9-24) કરતાં લગભગ બમણો લાંબો છે અને વધુ અલગ ઘટના/તથ્ય-ઝૂમખાં ધરાવે છે — કટની ભૂલ નથી, Agent 4/12/13 માટે નોંધ છે.",
+    "difficulty સંબંધિત-આ-પ્રકરણમાં જ સેટ કરી છે (agents/02_structure.md ના std 9-10 હાર માપદંડ મુજબ): M1.S1.T1, M2.S3.T3, M3.S4.T6, M3.S5.T8 માં ઘનિષ્ઠ તત્સમ સામાસિક શબ્દો (કાર્યદક્ષતા, સંગઠનક્ષમતા, સેવાપરાયણતા; ધાતુશાસ્ત્ર, ન્યૂક્લિયર ફિઝિક્સ; એન.ડી.ડી.બી., ગુજરાત કો-ઓપરેટિવ મિલ્ક માર્કેટિંગ ફેડરેશન) અને ઘણી તારીખો-સંસ્થાનામો ભેગાં આવે છે, તેથી medium/hard રાખ્યાં છે; M2.S2.T2, M3.S6.T9, M3.S6.T10 બોલચાલની નજીકની, ઓછી ઘનતાવાળી કથા-શૈલી છે એટલે easy રાખ્યાં છે. આ Bloom-કૅપ નથી — દરેક ટોપિકનો ઑબ્જેક્ટિવ Understand/Analyze/Evaluate સુધી પહોંચે છે.",
+    "કોઈ પણ topic_name જીવન-તબક્કા લેબલ (બાળપણ, શિક્ષણ, કારકિર્દી, જીવન અને કાર્ય, અવસાન) વાપરતું નથી — charitra_prasang.md avoid-gate 5 મુજબ. M3.S4.T6 જન્મ-કુટુંબ-શિક્ષણ ધરાવે છે પણ નામ 'કેરળના પરિવારથી અમેરિકાના અભ્યાસ સુધીની સફર' છે, 'શિક્ષણ' નહિ. કોઈ પણ topic_name, segment_name, module_name કે objective_text માં કોઈ અંક (digit) નથી — માત્ર objective_text માં પાઠનાં પોતાનાં છપાયેલાં વર્ષ (1971) અને institution names સિંગલ-કોટમાં વાપર્યાં છે, જે naming_conventions.md ની 'the page's own dates' છૂટ પ્રમાણે યોગ્ય છે — structural numbering (દા.ત. 'ટોપિક 2માં') ક્યાંય નથી.",
+    "કોઈ પણ objective_text કે topic_name માં reverential epithet (મહાન, અદ્વિતીય, યુગપુરુષ વગેરે) નથી, અને કોઈ પણ objective દરમિયાનગીરી-વગરની આંતરિક લાગણી (વિચાર્યું, લાગ્યું, ડર લાગ્યો) નો દાવો કરતું નથી સિવાય કે તે પાઠમાં જ છપાયેલ ટાંકણ હોય (દા.ત. O9 માં 'કંઈ કહ્યા વિના પાછા ફરેલા' એ પ્રિન્ટેડ ક્રિયા છે, આંતરિક સ્થિતિ નહિ) — charitra_prasang.md avoid-gates 3 અને 4.",
+    "કોઈ અલંકાર, છંદ કે સમાસ કોઈ પણ objective_text, topic_name કે concept_name માં નામ અપાયું નથી — આ ગદ્ય ચરિત્ર-પ્રસંગ છે અને rhyme_scheme/figures_of_speech ને લગતું કંઈ Agent 2 ના કાર્યક્ષેત્રમાં નથી (charitra_prasang.md avoid-gate 13, rhyme_scheme null for every topic of this prose form).",
+    "original_chunk દરેક ટોપિકમાં ખાલી રાખ્યો છે — Agent 5 એ રેન્ડર કરેલા પાના પરથી ભરવાનો છે. source_lines_00_normalized ફિલ્ડ ફક્ત 00_chapter_normalized.md ની લીટી-સંખ્યાનો સંદર્ભ છે (Agent 5 ને શોધવામાં મદદ માટે), એ પોતે ટેક્સ્ટ નથી અને Agent 5 એ રેન્ડર કરેલા પાના સામે ચકાસવાનું જ રહેશે.",
+    "explanation, real_life_example કે કોઈ પણ ટીચિંગ પ્રોઝ આ ફાઇલમાં લખાયું નથી (Agent 12 નું કામ) — 02_structure.md ના 'Do not' વિભાગ મુજબ."
+  ]
+}

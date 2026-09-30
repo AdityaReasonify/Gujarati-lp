@@ -1,0 +1,40 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "genre ઊર્મિકાવ્ય, profile urmikavya_geet.md — that profile names THIS chapter (std-10 ch 9 હાથ મેળવીએ) by title as its own precedent for 'a poem printed with no કડી breaks at all... is cut on its turns of address or image, and the cut is recorded in extraction_notes[] as a judgement, not presented as printed structure.' 01_meta.json.structure_inventory confirms kadi:0, pad:0, duha:0, tek_occurrences:0 — so the કડી/દુહો/પદ/ટેક equal-count sub-rules are correctly not applicable to this chapter.",
+        "Judgement-cut arithmetic checked against the poem text in 00_chapter_normalized.md: T2 lines 1-5 (લાવો તમારો હાથ મેળવીએ ... શું શું નથી હોતું તમારા હાથમાં ?), T3 lines 6-9 (મારે કશાનું કામ ના ... આપણા આ બેય ખાલી હાથમાંયે કેટલું છે !), T4 lines 10-13 (આપણા આ હાથમાં ઉષ્મા અને થડકો ... આપણા આ હાથ કેળવીએ !), T5 lines 14-16 (અજાણ્યા છો ? ભલે ! ... લાવો તમારો હાથ, મેળવીએ !). 5+4+4+3=16, matching structure_inventory.lines exactly — no line skipped, none duplicated, order preserved.",
+        "No avoid-list violation in the cut or objectives: none of O1-O5's objective_text carry an ઉપદેશ-shaped exhortation (\"આપણે ... જોઈએ\" or similar) — each describes/derives/evaluates what the poet himself says, per the profile's slogan gate and per 02_structure.json's own note 8."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 3,
+      "topics": 5,
+      "notes": [
+        "3 non-exercise markers in 00_chapter_normalized.md ([[કવિ-પરિચય]], [[કૃતિ-પરિચય]], [[કાવ્ય]]) map onto 5 topics in order: M1.S1.T1 (પરિચય, combining the two unlabeled intro paragraphs per the std-10 unlabeled-parichay precedent) then M1.S2.T2 through T5 (the poem's four turns). Pre-reading opener is a topic (M1.S1.T1).",
+        "All 4 exercise_inventory entries (MCQ; એક-એક વાક્ય; બે-ત્રણ વાક્ય; સવિસ્તાર) cross-checked against every topic_name and the planned original_chunk spans — none became a topic. વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા apparatus also correctly excluded from the cut.",
+        "No topic covers text unclaimed by a marker; no in-text wrap block exists in this chapter to check separately."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 5,
+      "notes": [
+        "O1-O5 unique; every home_topic_id and anchor[] id resolves into the tree (O1->M1.S1.T1/.C1, O2->M1.S2.T2/.C2, O3->M1.S2.T3/.C3, O4->M1.S2.T4/.C4, O5->M1.S2.T5/.C5). strand_to_objective_map covers L1-L5 exactly once, one-to-one with O1-O5.",
+        "Every topic carries objective_ids resolving to the registry (T1:[O1], T2:[O2], T3:[O3], T4:[O4], T5:[O5]).",
+        "Each objective_text quotes this poem's own lines verbatim inside the goal statement and could not be pasted into another chapter; each serves the teaching_lens ચિત્ર + ભાવ + અલંકાર.",
+        "Ids are dotted and chapter-continuous: t runs 1-5 across S1/S2, c runs 1-5 matching t exactly (one concept per topic). No M1.S1.T1.P1-style code anywhere; only O{n} objective codes used."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Segment M1.S1 currently holds a single topic (M1.S1.T1) while M1.S2 holds four — an intentionally uneven split since S1 is the pre-reading parichay and S2 is the poem's own four-part judgement-cut; not a block.",
+    "02_structure.json's own notes[] already flag, for Agent 5: the source line ('છંદોલય'માંથી) printed at the poem's end is provenance, not છાપ, and belongs in the tail of M1.S2.T5's original_chunk rather than as its own topic — Agent 4 confirms this placement plan is correct and does not fragment the cut.",
+    "genre_confidence in 01_meta.json is 'high' and is independently corroborated here: the active profile names this exact chapter and cut shape as its own worked precedent, which is stronger than the usual signal-matching confirmation."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "topics": [
+    {
+      "topic_id": "M2.S2.T4",
+      "areas": ["સંઘર્ષ"],
+      "caution": "The explanation or a recall answer could repeat, extend, or explain સર્વજ્ઞભાઈની લાઈન 'હવે તો આતંકવાદીઓને કારણે સાલી કશ્મીરમાંય ગરમી પડે છે' as if it were a real observation about Kashmir or terrorism, instead of reading it as the caricature's own callous excuse for never leaving a hotel without eating.",
+      "guidance": "Keep the line verbatim in `original_chunk` only; in `explanation`, name it once as કટાક્ષ પર કટાક્ષ — સર્વજ્ઞભાઈ ખાવાનું ચૂકવાના ડરે ઝરણા સુધી પણ જવાનું ટાળે છે એ ટેવની પરાકાષ્ઠા — and attribute the remark explicitly to સર્વજ્ઞભાઈનું પોતાનું બેપરવા બોલવું, never as the chapter's or the child's own view of Kashmir; the `real_life_example` and any recall prompt must stay on the food-over-sightseeing habit and must not mention or gloss the terrorism reference at all.",
+      "severity": "hard"
+    }
+  ],
+  "chapter_level": [],
+  "none_found": false
+}

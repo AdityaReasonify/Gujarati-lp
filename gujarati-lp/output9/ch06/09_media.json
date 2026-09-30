@@ -1,0 +1,62 @@
+{
+  "media": [
+    {
+      "topic_id": "M2.S2.T3",
+      "concept_id": "M2.S2.T3.C3",
+      "id": "M2.S2.T3.C3.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "ગુજરાતી બોલવા સામે દીકરાનો ગુસ્સો",
+      "description": "લંડનના ઘરમાં પોતાના પપ્પાને ફાધર (લેખક) સાથે ગુજરાતીમાં વાત કરતા જોઈને મોટો દીકરો મોં પર અણગમો બતાવે છે અને ગુસ્સાથી પીઠ ફેરવીને ચાલ્યો જાય છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S2.T3.C3",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "આ ચિત્ર હજુ બન્યું નથી, જનરેશન-પ્રોમ્પ્ટ પરથી બનાવવાનું છે. વર્ગમાં બતાવતી વખતે દીકરાના ચહેરા પરના અણગમા તરફ ધ્યાન દોરવું અને પૂછવું કે એનો ગુસ્સો કોના પર છે — ફાધર પર કે ભાષા પર?",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects",
+      "generation_prompt": "A softly lit sitting room in a Gujarati family's home in London, a rainy grey street faintly visible through a lace-curtained window. A middle-aged Gujarati man sits in an armchair, one hand raised mid-gesture as he talks. Across from him sits an elderly Spanish Catholic priest guest with silver-white hair, wearing a plain black cassock and a white clerical collar, a gentle attentive expression on his face, listening and replying. In the doorway behind them stands the man's teenage son, about fifteen, dressed in a plain jumper and trousers, his face twisted with sudden distaste at hearing the two men speak Gujarati, his shoulder already turning away and one hand gripping the door frame as he starts to walk out. Warm lamplight inside the room contrasts with the cool grey daylight from the window. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "concept_id": "M2.S2.T4.C4",
+      "id": "M2.S2.T4.C4.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "મમ્મીની સાડી સામે દીકરાનો વાંધો",
+      "description": "બહાર જવા તૈયાર થતાં મમ્મીએ સાડી પહેરી છે, ને દીકરો ડ્રેસ બદલવા કહે છે; મમ્મી એને પંપાળે છે પણ સાડી બદલતી નથી.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S2.T4.C4",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "આ ચિત્ર હજુ બન્યું નથી. બતાવતી વખતે મમ્મીની આંખોના દુ:ખદ ભાવ તરફ બાળકોનું ધ્યાન દોરવું; આ જ વિરોધાભાસ પાઠના પછીના ભાગમાં ફરી ચર્ચાય છે તે યાદ રાખવું.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects",
+      "generation_prompt": "A narrow front hallway in a Gujarati family's home in London, coats hanging on hooks and shoes lined by the door, everyone dressed to go out. A mother stands in the middle of the hallway wearing a richly patterned sari with a bright woven border, one hand resting gently on the head of her teenage son who stands close beside her, his face a mix of pleading and complaint, one hand lightly tugging the edge of her sari as if asking her to change into western clothes instead. The mother's eyes are turned sideways with a quiet, sad expression toward an elderly Spanish Catholic priest guest with silver-white hair, wearing a plain black cassock and a white clerical collar, a gentle attentive expression on his face, who stands near the front door holding his own coat, waiting. Soft afternoon light falls through a small hallway window. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M2.S2.T5",
+      "concept_id": "M2.S2.T5.C5",
+      "id": "M2.S2.T5.C5.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "ન આવડતી ઉપનિષદની પ્રાર્થના",
+      "description": "લંડનમાં બહેનોના મિલનમાં એક મોટી બહેન 'અસત્યો માંહેથી' પ્રાર્થના શરૂ કરે છે, પણ સાથે બેઠેલી યુવાન છોકરીઓને એ મોઢે નથી.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S2.T5.C5",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "આ ચિત્ર હજુ બન્યું નથી. આ દૃશ્યને ભક્તિ કે પૂજાના દૃશ્ય તરીકે નહિ, પણ ભાષા-વારસાની ખોટ તરીકે રજૂ કરવું; બાળકોને પોતાની શાળાની પ્રાર્થનાસભા સાથે સરખાવવા કહેવું.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, religious idol or altar, devotional worship imagery, temple iconography",
+      "generation_prompt": "A plain sitting room in a Gujarati family's home in London, rearranged with rows of chairs for a gathering of women and girls, no religious objects or altar anywhere in the room. An older woman sits at the front with her eyes closed and both hands folded at her chest, her mouth open mid-recitation as she leads a well-known prayer. Around her, several teenage girls in everyday western clothing sit with their hands folded but their expressions blank and uncertain, glancing sideways at each other and at the older woman, clearly unable to follow the words. To one side, an elderly Spanish Catholic priest guest with silver-white hair, wearing a plain black cassock and a white clerical collar, a gentle attentive expression on his face, sits quietly with his own hands folded, observing the gathering. Soft daylight falls through net-curtained windows. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    }
+  ],
+  "2d_tool": null,
+  "reuse_report": {
+    "scenes": 3,
+    "reused": 0,
+    "authored": 3,
+    "rejected": []
+  }
+}

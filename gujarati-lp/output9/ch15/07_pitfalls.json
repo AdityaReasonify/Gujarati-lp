@@ -1,0 +1,252 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Every proper noun, institution, degree, book title or honour named in `explanation`, `key_terms`, `concept_bullets`, `summary`, `detailed_summary` or any recall `answer` for this topic already appears in this topic's `original_chunk` — limited to કર્ણાટક/શીગાવ, નારાયણ મૂર્તિ, ઇન્ફોસીસ, ઇન્ફોસીસ ફાઉન્ડેશન, ઇલેક્ટ્રિકલ એન્જિનિયર (ગોલ્ડમેડલ), the five named books (`ડોલર વહુ`, `મનની વાત`, `સંભારણાંની સફર`, `મહાશ્વેતા`, `બોરસલ્લીની પાનખર`), and પદ્મશ્રી; no other book, award or institution fact appears.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field states a biographical fact about સુધા મૂર્તિ or નારાયણ મૂર્તિ — a birth year, a reason for a career choice, a feeling about an award — that is not stated in this topic's `original_chunk`.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "std-9નો L2 વાચક 'તેઓ ઇન્ફોસીસના સ્થાપક નારાયણ મૂર્તિનાં પત્ની છે' એ લાંબા સંબંધ-વાક્યને ખોટી રીતે વાંચીને એવું સમજી બેસે કે સુધા મૂર્તિ પોતે ઇન્ફોસીસનાં સ્થાપક છે — 'નારાયણ મૂર્તિનાં પત્ની' આખો શબ્દસમૂહ એક જ ઓળખ આપે છે, એ પકડાતું નથી.",
+      "correction": "`explanation`ના પહેલા વાક્યમાં જ સ્પષ્ટ કરવું કે સુધા મૂર્તિ પોતે લેખિકા અને ઇન્ફોસીસ ફાઉન્ડેશનનાં ચેરપર્સન છે, અને પછી અલગ વાક્યમાં કહેવું કે તેમના પતિ નારાયણ મૂર્તિએ ઇન્ફોસીસની સ્થાપના કરી હતી — બે ઓળખને ભેગી ન કરવી."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "No field appends a further exhortation of the shape `આપણે પણ ... જોઈએ` or `આ પાઠ શીખવે છે કે` beyond quoting this topic's own printed synopsis line `આમ, આ વાર્તામાં ભણતરનું મહત્વ રજૂ થયું છે.`",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Every proper noun in `explanation`, `summary` or a recall `answer` (કુતમ્મા, ઐયપ્પા, `સંભારણાંની સફર`) matches this topic's `original_chunk`; no field adds a place, date or detail about the family that this chunk does not print.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "આ ફકરો આખા પ્રસંગનો સાર (ઐયપ્પાની સફળતા સુધીનો) પહેલેથી જ આપી દે છે, એટલે std-9નો વાચક બાકીના પ્રસંગોને 'એ જ વાતનું પુનરાવર્તન' ગણી લઈ, દરેક પ્રસંગને પોતાની રીતે ધ્યાનથી વાંચવાનું છોડી દે.",
+      "correction": "`explanation`એ સ્પષ્ટ કરવું કે આ ફકરો ફક્ત 'સાર' છે — આખી વાત, કુતમ્માના પોતાના શબ્દોમાં અને લેખિકાના પોતાના અનુભવ સાથે, હવે પછીના પ્રસંગોમાં જ પૂરેપૂરી ઊઘડશે."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "No `explanation`, `real_life_example` or recall `answer` for this topic uses બિચારાં, ગરીબ-બિચારી, `આ લોકો` or a similar pitying frame around this topic's own claim `જેમ ખોરડું વધારે ગરીબ, એમ એ ભાવના વધારે મજબૂત` — the passage states this as a fact of generosity, not as pity for the poor.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "આ ફકરામાં ક્યાંય 'હું/મેં' નથી — છતાં topic_name કહે છે કે આ 'લેખિકાનો વિચાર' છે. L2 વાચક આ અમૂર્ત, અંગત-કર્તા વગરના વાક્યોને (જવું પડે, મળે) એક સર્વસામાન્ય કહેવત સમજી લે, લેખિકાની પોતાની ધારણા તરીકે નહિ — જ્યારે આખી રાતની વાત આ જ ધારણાને ચકાસવા આગળ વધે છે.",
+      "correction": "`explanation` 'લેખિકા માને છે કે ...' કહીને શરૂ કરવું, જેથી બાળક એને લેખિકાની પોતાની દૃષ્ટિ તરીકે જુએ — જે હવે પછીની આખી રાતની મુલાકાતમાં સાચી પડવાની છે."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "`explanation`'s first sentence names લેખિકા (or `હું`) as its grammatical subject, matching this topic's own opening `એક વાર હું કનારા જિલ્લાના એક નાનકડા, રૂપકડા ગામે ... ગઈ હતી`; an explanation opening as `એક ગામમાં શાળાનો સમારંભ હતો` with no named subject fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field names a state or precise location for this village beyond what this topic's `original_chunk` prints — `કનારા જિલ્લા` and `અરબી સમુદ્રને કાંઠે` — for example no field supplies `કર્ણાટક` for this village on its own authority.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "std-9ના L2 વાચક 'કાળ જાણે થંભી ગયો હોય ત્યારે ભગવાને ફુરસદે ઘડ્યું હોય તેવું' વાક્યમાં 'જાણે' માર્કરને ચૂકી જાય અને આખા વાક્યને ઉપમા સમજી લે (અથવા શબ્દોના ભારને લીધે આખું વાક્ય જ છોડી દે) — જ્યારે આ ઉત્પ્રેક્ષા છે, ને ગામની એકલતા/સમય-બહારપણું બતાવવા વપરાયું છે, જે આગળ 'એક પણ હોટેલ ન મળે' અને શિક્ષકની વિનંતી માટેનું કારણ પણ છે.",
+      "correction": "`explanation`એ 'જાણે' શબ્દ પર આંગળી મૂકી લીટીને ઉત્પ્રેક્ષા (ઉપમા નહિ) તરીકે નામ આપવું, અને એ બતાવવું કે આ ગામની અંતરિયાળતા (તેથી હોટેલનો અભાવ, તેથી શિક્ષકની વિનંતી) સાથે કેમ જોડાયેલું છે."
+    },
+    {
+      "topic_id": "M2.S2.T5",
+      "avoid_checks": [
+        {
+          "check": "`explanation`'s first sentence names લેખિકા (or `હું`) as the one who felt `અડવું`, matching this topic's own `તદ્દન અજાણ્યા કુટુંબ જોડે રાત રહેવું અડવું તો લાગે` and its closing `હું તેમની સાથે તેમના ઘેર પહોંચી`; an explanation that states the feeling as a general truth with no named subject fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'અડવું તો લાગે' જેવું કર્તા-વગરનું બાંધકામ std-9ના L2 વાચકને એક સર્વસામાન્ય વિધાન લાગે (ગમે તે વ્યક્તિ માટે સાચું), એટલે એ ચૂકી જાય કે આ ખાસ લેખિકાની જ પોતાની લાગણી છે — genre profileનું મુખ્ય જોખમ ('અવાજને માહિતીમાં ફેરવવો') આ વાક્યમાં જ સૌથી સ્પષ્ટ છે.",
+      "correction": "`explanation`એ 'લેખિકાને ... અડવું લાગ્યું' કહીને શરૂ કરવું, પછી શ્રી ઐયપ્પાના હાથમાંની છત્રી-લુંગીની નક્કર છબી પર જવું."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "No `explanation`, `summary`, `detailed_summary`, `real_life_example` or recall `answer` describes this house as ગરીબ, નાનું or બિચારું — this topic's `original_chunk` states `ઘર ઘણું જ વિશાળ હતું` and `સગવડવાળું`; the only printed qualifiers are `સાદું` (unpretentious) and `કોઈ ઠાઠ-ભપકો નહિ` (no ostentation).",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "std-9નો વાચક M2.S2.T3ના 'ખોરડું ગરીબ' અને પછીની રાત્રે ખૂલનારી કુતમ્માની ગરીબીની વાત (M3.S4.T9-T10) સાથે આ ઘરને પણ ભેળવી, ઐયપ્પાનું આજનું ઘર 'ગરીબ/નાનું' છે એમ ધારી લે — જ્યારે લખાણ સ્પષ્ટ કહે છે કે ઘર 'ઘણું જ વિશાળ' અને 'સગવડવાળું' છે, ફક્ત દેખાડા વગરનું.",
+      "correction": "`explanation`એ સ્પષ્ટ પાડવું કે આ ઐયપ્પાનું આજનું, સફળતા પછીનું ઘર છે — વિશાળ અને સગવડવાળું, માત્ર દેખાડા વગરનું; કુતમ્માની ગરીબીની વાત તો હજુ પછીની રાત્રે એમના પોતાના મોઢેથી આવવાની છે."
+    },
+    {
+      "topic_id": "M2.S3.T7",
+      "avoid_checks": [
+        {
+          "check": "`explanation`'s first sentence names લેખિકા (or `અમે`) as its grammatical subject, matching `અમે ઘરમાં પ્રવેશ્યાં`; an explanation opening only on `ઐયપ્પાનાં પત્નીએ મહેમાનોનું સ્વાગત કર્યું` with લેખિકા absent fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field states or implies that `મને મારાં બા યાદ આવી ગયાં` refers to કુતમ્મા — this topic's own words name the person present as `શ્રી ઐયપ્પાનાં વયોવૃદ્ધ બા કુતમ્મા`, a different person from `મારાં બા` (લેખિકાની પોતાની, અહીં ગેરહાજર, ફક્ત યાદ આવેલી).",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "એક જ ફકરામાં બે 'બા' આવે છે — હાજર 'શ્રી ઐયપ્પાનાં વયોવૃદ્ધ બા કુતમ્મા' અને ગેરહાજર 'મારાં બા' (લેખિકાની પોતાની મા) — std-9નો L2 વાચક બંનેને એક જ સમજી, 'લેખિકાને કુતમ્માની યાદ આવી' એમ ખોટું તારણ કાઢે, જ્યારે ખરેખર ભોજનના વૈવિધ્યથી લેખિકાને પોતાની જ, અલગ મા યાદ આવે છે.",
+      "correction": "`explanation`માં બંને 'બા'ને અલગ અલગ નામ આપીને સ્પષ્ટ કરવું — સામે બેઠેલાં 'ઐયપ્પાનાં બા કુતમ્મા', અને 'મારાં બા' એટલે લેખિકાની પોતાની, હાજર નહિ — આ લેખિકાની પોતાની લાગણી છે, કુતમ્મા વિશેની નથી."
+    },
+    {
+      "topic_id": "M3.S4.T8",
+      "avoid_checks": [
+        {
+          "check": "`explanation`'s first sentence names લેખિકા as its grammatical subject, matching `મારો ઉતારો પહેલે માળે ગેસ્ટરૂમમાં હતો, પણ જમ્યા પછી હું બા સાથે વાતો માંડી`.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field in this topic's `explanation`, `summary` or recall `answer` states or guesses the reason for `કુતમ્માએ નિસાસો નાખ્યો` — the chapter gives that reason only in the next topic's own quoted words (`અમે તો બૌંવ જ ગરીબ હતાં...`); this topic's fields leave the sigh unexplained.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "std-9નો વાચક 'કુતમ્માએ નિસાસો નાખ્યો' પર જ કારણ ધારી લેવાનું શરૂ કરે (દા.ત. 'કારણ કે તે ભણેલાં ન હતાં') — જ્યારે genre profile મુજબ પ્રસંગની સીમા બરાબર અહીં જ છે, અને કારણ કુતમ્મા પોતે જ હવે પછીના પ્રસંગમાં કહેશે.",
+      "correction": "`explanation`એ ફક્ત એટલું જ કહેવું કે લેખિકાના પ્રશ્નથી કુતમ્માને કંઈક યાદ આવ્યું અને એ ઊંડો નિસાસો નાખે છે — શા માટે, એ હવે પછીની વાતમાં કુતમ્મા પોતે જ કહેશે; અહીં કોઈ કારણ ઉમેરવું નહિ."
+    },
+    {
+      "topic_id": "M3.S4.T9",
+      "avoid_checks": [
+        {
+          "check": "`બૌંવ`, `નોં` and `મૂઈ` appear unmodified wherever any field of this topic quotes them; no field offers a `સાચું રૂપ` correction (e.g. `બહુ`, `નહિ`, `બિચારી`) of these printed forms.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `real_life_example` or recall `answer` uses બિચારાં, ગરીબ-બિચારી, અભણ (as a judgement) or પછાત about કુતમ્માની ગરીબી, નાની ઉંમરનાં લગ્ન કે અભણપણું — her own word `મૂઈ` is her own self-naming and must be glossed, never repeated by the plan as its own judgement of her.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'મૂઈ' (હિન્દી 'मुई'ની નજીકનું લાગતું) સાંભળીને L2 વાચક એને શાબ્દિક 'મરેલી/શાપિત' અર્થમાં લે — જ્યારે આ કુતમ્માની પોતાની જૂની બોલચાલની, પોતાની જાત માટે વપરાતી નમ્ર-દુઃખભરી રીત છે ('હું બિચારી'), શાપ કે ભૂલ નથી.",
+      "correction": "`explanation`એ 'મૂઈ' શબ્દને વાક્યની અંદર જ ટૂંકમાં ગ્લોસ કરવો ('મૂઈ — પોતાની જાત માટે વપરાતો જૂનો બોલચાલનો શબ્દ'), જેથી બાળક એને શાપ ન સમજે અને કુતમ્માના મક્કમ નિર્ણય ('ઐયપ્પાને ભણાવીશ') પર ધ્યાન કેન્દ્રિત થાય."
+    },
+    {
+      "topic_id": "M3.S4.T10",
+      "avoid_checks": [
+        {
+          "check": "No `explanation`, `summary`, `detailed_summary` or recall `answer` asks or answers `શા માટે કુતમ્માએ આ વચન આપ્યું` as a character-motivation puzzle, or names `એરુ આભડ્યો` a plot `વળાંક` or `ક્લાઇમેક્સ` — this stays a remembered moment inside કુતમ્માની પોતાની વાત, not a story-climax.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "`મે'નત`, `વરહ`, `એરુ`, `ચિંત્યા` and `ગગા` appear unmodified wherever any field of this topic quotes them; no `સાચું રૂપ` correction.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "std-9નો વાચક T9→T10→T11-12→T13-14ની સાંકળને 'ચઢતીની વાર્તા' તરીકે વાંચી, સાપ કરડવાની ઘટનાને એક 'કસોટી-ને-જીત'ના પ્લોટ-વળાંક તરીકે જોડી દે ('સાપ કરડ્યો, તેથી તે વધુ મક્કમ થઈ') — જ્યારે લખાણ આવો કાર્ય-કારણ સંબંધ ક્યાંય જણાવતું નથી; આ કુતમ્માની બીજી, અલગ યાદ છે જે એ જ નિર્ણયને ફરી બતાવે છે.",
+      "correction": "`explanation`એ આ ઘટનાને કુતમ્માની બીજી, અલગ યાદ તરીકે રજૂ કરવી — સાપ કરડ્યા છતાં તેમનો નિર્ણય બદલાયો નહિ, એટલું જ બતાવવું; સાપ કરડવાને 'વળાંક' કે 'કસોટી જીતવાની ઘટના' તરીકે નામ ન આપવું."
+    },
+    {
+      "topic_id": "M3.S5.T11",
+      "avoid_checks": [
+        {
+          "check": "`explanation`'s first sentence names લેખિકા as its grammatical subject, matching `હું ઊભા થઈને કુતમ્માને પાણી આપ્યું`.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field converts the approximate `બારેક વર્ષનો` into an exact `12 વર્ષનો`; `'મોંઘા વીરા'ની રાત્રિશાળા` is named exactly as printed wherever quoted.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "L2 વાચક '-એક' પ્રત્યય ('બારેક' = લગભગ બાર) ને પકડી ન શકે અને ઐયપ્પાની ઉંમર બરાબર બાર વર્ષ સમજી લે — જ્યારે કુતમ્માની આખી કથનશૈલી અંદાજિત, બોલચાલની છે, ચોક્કસ ઇતિહાસ નથી (એ જ '-એક' T12ના 'દસેક વર્ષ પહેલાં'માં પણ ફરી આવે છે).",
+      "correction": "`key_terms` કે `explanation`માં ટૂંકમાં સ્પષ્ટ કરવું કે 'બારેક = લગભગ બાર' ('-એક' અંદાજ બતાવે છે), જેથી બાળક ચોક્કસ ઉંમર ન સમજી બેસે અને કુતમ્માની અંદાજિત, બોલચાલની કથનશૈલી પકડે."
+    },
+    {
+      "topic_id": "M3.S5.T12",
+      "avoid_checks": [
+        {
+          "check": "No field attributes the shloka `જનની જન્મભૂમિશ્ચ, સ્વર્ગાદપિ ગરિયસી` or the person `અમારા દાદા` to કુતમ્માના પરિવારને — this topic's own words place that quotation in લેખિકાની પોતાની speech (`હાસ્તો બા, અમારા દાદા અમને ...`), replying to કુતમ્માની વાત, and not narrating કુતમ્માના પોતાના પરિવારની વાત.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field adds a feeling or motive for કુતમ્માનો મુંબઈ છોડવાનો નિર્ણય beyond her own quoted words `મને ત્યાંના ઘોંઘાટમાં ન ગોઠ્યું ... મને મારા દેશ, મારા ખોરાક ને ભાષા વગર મુંબઈમાં વહમું લાગે.`",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "std-9નો L2 વાચક આખો ફકરો કુતમ્માની જ વાત ગણી, સંસ્કૃત શ્લોક અને 'અમારા દાદા'ને પણ કુતમ્માના (કે ઐયપ્પાના) પરિવારના ગણી લે — જ્યારે ખરેખર લેખિકા વચ્ચે પોતાનો અવાજ ઉમેરે છે, પોતાના જ દાદાનો શ્લોક ટાંકીને, કુતમ્માની લાગણીને ટેકો આપવા. બહુ-સ્તરીય અવતરણ (લેખિકા → કુતમ્મા → કુતમ્માએ ટાંકેલા પોતાના શબ્દો ઐયપ્પાને) આ ફકરાને આખા પ્રકરણનું સૌથી અઘરું બનાવે છે.",
+      "correction": "`explanation`એ ક્રમમાં કહેવું: પહેલાં કુતમ્મા મુંબઈના અણગમાની વાત કરે છે, પછી લેખિકા પોતે પોતાના દાદાનો શ્લોક (લેખિકાના પોતાના પરિવારનો, કુતમ્માના નહિ) ટાંકીને એ જ ભાવને ટેકો આપે છે, અને છેલ્લે કુતમ્મા કહે છે કે તેમણે પોતે ઐયપ્પાને ગામ પાછા ફરવાનું કહ્યું હતું."
+    },
+    {
+      "topic_id": "M4.S6.T13",
+      "avoid_checks": [
+        {
+          "check": "`explanation`'s first sentence names લેખિકા as its grammatical subject, matching `મારાથી પૂછ્યા વગર ન રહેવાયું`.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field adds a motive or fact about ઐયપ્પાની ઑફર beyond his own quoted reasons — `તેં મને પેટે પાટા બાંધીને ... હિંમત દઈને ... દાગીનાય ... વેચી દીધેલા ... ભૂખ્યા સૂઈને ભાવતાં ભોજન જમાડ્યાં`.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "કુતમ્મા ઐયપ્પાના પોતાના શબ્દોને ટાંકે છે, ને એ શબ્દોમાં ઐયપ્પા કુતમ્માને 'બા' કહીને સંબોધે છે — ત્રણ-સ્તરીય અવતરણ (લેખિકા → કુતમ્મા → ઐયપ્પા)માં std-9નો L2 વાચક 'બા' શબ્દ લેખિકાને સંબોધાયેલો સમજી બેસે, જ્યારે એ ઐયપ્પાની મા કુતમ્મા માટે જ છે.",
+      "correction": "`explanation`એ સ્તર-દર-સ્તર ખોલવું: લેખિકા કુતમ્માને પૂછે છે → કુતમ્મા જવાબમાં ઐયપ્પાના પોતાના શબ્દો ટાંકે છે → એ શબ્દોમાં 'બા' એટલે કુતમ્મા પોતે, લેખિકા નહિ."
+    },
+    {
+      "topic_id": "M4.S6.T14",
+      "avoid_checks": [
+        {
+          "check": "`explanation`'s first sentence names કુતમ્મા as the grammatical subject of `મેં મારા દીકરાને કહ્યું` — this `મેં` is કુતમ્માની પોતાની, લેખિકાની નહિ.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` or recall `answer` adds a generalized exhortation (`આપણે પણ ... જોઈએ`, `આ પાઠ શીખવે છે કે`) beyond quoting કુતમ્માની own lines `સો ટચનું સોનું - ઘરેણું તો એક જ છે : ભણતર` and `ભણતરનું, ખાનદાનીનું તેજ ... કદીયે ઘૈડું ન થાય`.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "std-9નો વાચક કુતમ્માની બે-બાજુવાળી સરખામણી (શું નાશ પામે — રૂપ, સંપત્તિ, ફૂલ, રાંધેલું ધાન — સામે શું નથી નાશ પામતું — ભણતરનું-ખાનદાનીનું તેજ)ને ચપટીમાં 'ભણતર મહત્વનું છે' જેવા સપાટ સૂત્રમાં ફેરવી નાખે, ને કુતમ્માની પોતાની દલીલ (અને 'ઘૈડું' જેવો એમનો પોતાનો શબ્દ) ગુમાવે.",
+      "correction": "`explanation`એ કુતમ્માની સરખામણી બંને બાજુથી બતાવવી — પહેલાં શું નાશ પામે છે એ ગણાવવું, પછી શું નથી નાશ પામતું — અને એ કુતમ્માના જ શબ્દોમાં ટાંકીને કહેવું, જેથી બાળક સૂત્ર નહિ, કુતમ્માની દલીલ પકડે."
+    },
+    {
+      "topic_id": "M4.S7.T15",
+      "avoid_checks": [
+        {
+          "check": "This topic's `original_chunk` contains, verbatim, both the chapter's final printed sentence (`સો વાતની એક વાત - ભણેલી કે ગણેલી સો ટચના સોના જેવી સ્ત્રી જે કુટુંબમાં હોય, તે આખા ગામને દિપાવે.`) and the translator credit `અનુવાદક : સોનલ મોદી`.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field appends a further moral beyond quoting the chapter's own closing line `સો વાતની એક વાત ... તે આખા ગામને દિપાવે` — no `તેથી આપણે બધાએ ...` or `દરેક દીકરાએ ...` addition.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "std-9નો વાચક બંધ કરતું વાક્ય 'ભણેલી કે ગણેલી સો ટચના સોના જેવી સ્ત્રી' કુતમ્માને લાગુ પડતું નથી એમ સમજી લે — કારણ કે કુતમ્મા પોતે ક્યારેય શાળાએ ગયાં નથી (T9 જુઓ) — 'ભણેલી કે ગણેલી' (formally educated OR wise-through-experience)ના 'કે'ને ચૂકી જઈને આખા પ્રકરણનો વિરોધાભાસ ગુમાવે: ભણતર વગરની સ્ત્રી પોતે જ 'સાચું સોનું' છે.",
+      "correction": "`explanation`એ 'ભણેલી કે ગણેલી' બંને શબ્દોને અલગ પાડવા — કુતમ્મા પોતે ક્યારેય શાળાએ ન ગયાં, છતાં તેમની અનુભવ-સમજ ('ગણેલી') જ તેમને 'સો ટચનું સોનું' બનાવે છે; આખું વાક્ય કુતમ્માને પોતાને લાગુ પડે છે."
+    }
+  ],
+  "chapter_level": [
+    "આખા પ્રકરણમાં કથકનું 'હું' સુધા મૂર્તિ (લેખિકા) છે, અનુવાદક સોનલ મોદી નહિ — છેલ્લા ટોપિકમાં છપાયેલ 'અનુવાદક : સોનલ મોદી' ક્રેડિટ-લાઇન છે, કથકનું નામ નથી; કોઈ પણ field અનુવાદકને વાર્તાની લાગણી કે અવલોકનનો સ્રોત ન બનાવે.",
+    "'બા' શબ્દ બે અલગ વ્યક્તિ માટે વપરાય છે — ઐયપ્પાની મા કુતમ્મા (જેને લેખિકા પણ M3.S4.T8થી 'બા' કહે છે) અને એક જ વાર, M2.S3.T7માં, લેખિકાની પોતાની મા ('મારાં બા'). કોઈ પણ ટોપિકનું `explanation` બંનેને ભેળવે નહિ.",
+    "કુતમ્મા અને ઐયપ્પાની બોલી/તળપદા શબ્દો (બૌંવ, નોં, મૂઈ, મે'નત, વરહ, એરુ, ચિંત્યા, ટિચાવું, ટેમ, ઘૈડું, પાળી, ગગા) આખા પ્રકરણમાં ક્યાંય 'સાચું રૂપ'માં સુધારેલા ન દેખાવા જોઈએ; ગ્લોસ કરેલા છપાયેલા શબ્દો જ headword તરીકે વપરાય.",
+    "કુતમ્માની ગરીબી, નાની ઉંમરે લગ્ન, અભણપણું અને કુટુંબનિયોજનનો નિર્ણય (M3.S4.T9-T10) આખા પ્રકરણમાં ગૌરવના સ્વરમાં જ શીખવવો — ક્યાંય 'બિચારાં' કે 'ગરીબ-બિચારી' ફ્રેમિંગ ન આવે.",
+    "ભાષા-અભિવ્યક્તિ પરિશિષ્ટ (અનુવાદકની વર્ણાનુપ્રાસ-શૈલી) ટોપિક નથી, પણ M2.S2.T4 ('નાનકડા, રૂપકડા'), M2.S3.T7 ('ભાવુક, ભદ્ર સન્નારી'), અને M3.S5.T12 ('શીળું સ્મિત')ના મૂળ ટચમાં એ જ શબ્દો છપાયેલા છે — કોઈ પણ topic નવું, બહારનું વર્ણાનુપ્રાસ ઉદાહરણ ન ઉમેરે.",
+    "કુતમ્મા અને ઐયપ્પા વચ્ચેની આખી રાત્રિ-વાતચીત (M3.S4.T8 થી M4.S6.T14) એક પ્રસંગ-શ્રેણી છે, પ્લોટ નથી — કોઈ પણ ટોપિકને `topic_category: \"climax\"` ન અપાય અને કોઈ પણ field કોઈ ઘટનાને 'વળાંક' કે 'કસોટી-જીત' જેવા વાર્તા-ભાષામાં નામ ન આપે."
+  ]
+}

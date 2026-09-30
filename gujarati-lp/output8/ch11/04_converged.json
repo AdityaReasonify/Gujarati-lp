@@ -1,0 +1,11 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "bbc4351fe7db643dbb520f0040a2a830395501c5b5cb4f7efbd042c4cc325a42",
+  "verdict": "pass",
+  "notes": [
+    "Ids frozen from this point: M1..M4, S1..S5, T1..T9, C1..C10, O1..O9, L1..L9 — see 04_validation.json for the full check breakdown.",
+    "9 ghatna markers in 00_chapter_normalized.md map 1:1, in order, to the 9 STORY_TELLING topics in 02_structure.json; no સ્વાધ્યાય block was cut as a topic; every objective/anchor/home_topic_id resolves.",
+    "profiles/genres/nibandh_atmaparak.md was not supplied to this validation run despite being a listed spec input; the avoid-list check was done indirectly via explanation_unit_map.md, global_content_rules.md rule 1, and 02_structure.json's own cited notes — no violation found, recorded as a note, not a block."
+  ]
+}

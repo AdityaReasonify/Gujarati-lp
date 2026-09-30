@@ -1,0 +1,7 @@
+{"textbook":"ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9",
+ "textbook_url":"../Textbooks-pdf/std-9/ch-11-varsagat.pdf",
+ "textbook_pages":"47–49",
+ "source":"printed folio, read off renders (150 dpi) of pdf pp. 1 and 3 of the chapter PDF: page 1 prints folio 47 (chapter-opener band 'll' + 'વારસાગત'), page 3 prints folio 49 (running foot 'વારસાગત'). Agrees with std-9/manifest.json row (printed_start 47, pdf_start 51, pdf_end 53) and the board profile's std-9 offset (+4: 47+4=51).",
+ "confidence":"medium",
+ "gaps":["textbook_url is a local path — the GSEB readers have no hosted URL",
+         "std 9 cover has not been read yet (profiles/boards/gseb_gujarati.md marks it 'cover not read yet'); textbook title carried from 01_meta.json, which itself sourced it from the running head printed at the foot of page 48 (also confirmed independently by ch01/ch02/ch04 of this same output9 run) rather than from a read cover — confirm against the actual cover when std 9's front matter/cover is rendered"]}

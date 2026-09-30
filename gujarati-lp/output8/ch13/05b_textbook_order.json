@@ -1,0 +1,18 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch13",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S1.T2",
+    "M2.S2.T3",
+    "M2.S2.T4",
+    "M3.S3.T5",
+    "M3.S3.T6"
+  ],
+  "source": "printed pages 108-109 read off the renders (page-1.png, page-2.png); the chapter's entire reading text sits on these two folios only, and the six topics appear in the printed running order with no reordering — T1 opens on page-1 (folio 108), T2 through T6 run straight down page-2 (folio 109)",
+  "notes": [
+    "Identical to the logical traversal order of 05_with_content.json (M1.S1.T1 ... M3.S3.T6). Emitted anyway so Agent 15 raises human_confirmation_required on a comparison that actually happened rather than on an assumption.",
+    "The chapter prints no internal sub-heads other than its six [[ઘટના: ...]] markers, so printed order is simply paragraph order and the six marker ranges follow it exactly, matching 01_meta.json's genre_signals.structure arrow.",
+    "EXCLUDED, and deliberately so: the pink title bar with its number box '13' and the QR badge (code F9Q8Z6), the author slot, the teacher-addressed blue પ્રવેશપેટી on page-1, the yellow શબ્દાર્થ box at the foot of page-2, the two unnumbered pre-blocks, all twelve numbered સ્વાધ્યાય blocks, and the closing ચર્ચા-વિચારણા box. None of them is a topic and none enters this index.",
+    "This chapter has no વ્યાકરણ એકમ, પૂરકવાચન piece or revision unit inside its own rendered page range; the six rendered pages (printed pp 108-113) are the chapter and nothing between chapters was read into it."
+  ]
+}

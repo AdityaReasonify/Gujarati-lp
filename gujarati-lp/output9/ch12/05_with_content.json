@@ -1,0 +1,384 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch12",
+  "genre": "urmikavya_geet",
+  "active_genre_profiles": [
+    "urmikavya_geet.md"
+  ],
+  "explanation_unit": "એક કડી",
+  "teaching_lens": "ચિત્ર + ભાવ + અલંકાર",
+  "guiding_question": "ગોપી કૃષ્ણને ગાગર ઉતારવાનો પડકાર આપીને, પોતાનાં રોજિંદાં કામોનું વર્ણન કરીને પોતાનો પ્રેમ કઈ રીતે વ્યક્ત કરે છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ-પરિચય અને કૃતિ-પરિચયમાં અપાયેલી માહિતી પરથી કવિ સુરેશ દલાલનું નામ કહી, ગોપી ગાગર ઉતારવાનો પડકાર આપીને પોતાનો કૃષ્ણપ્રેમ કઈ રીતે વ્યક્ત કરે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1",
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ટેકની પંક્તિ પરથી, ગોપી ગાગર ઉતારવાની નાની વાતને ગોવર્ધન ઊંચકવાની મોટી વાત સાથે કઈ રીતે સરખાવીને કૃષ્ણને પડકાર આપે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": [
+        "M2.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ટેકના શબ્દો 'હું તો ઘરે ઘરે જઈને વખાણું'માં કઈ રીતે બદલાય છે તે શોધીને, ગોપીનો પડકાર હવે વખાણ કરવાના વચનમાં કઈ રીતે વિસ્તરે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": [
+        "M2.S2.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પહેલી કડીની પંક્તિ 'હું તો વ્હેતી જમુનાને અહીં આણું' પરથી, ગોપી પોતાની રોજિંદી મહેનતને કૃષ્ણના પરાક્રમ જેટલી મોટી કલ્પનાથી કઈ રીતે વર્ણવે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બીજી કડીની પંક્તિ 'ફરી ફરી નહિ આવે ટાણું' પરથી, ગોપી કૃષ્ણ પાસે પ્રેમ સ્વીકારવાની આ તકને કેમ ઉતાવળે ઝડપી લેવા કહે છે તે સમજાવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": [
+        "M2.S3.T6.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "કવિ અને કૃતિનો પરિચય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "કવિ સુરેશ દલાલ અને ગીતનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "કવિ સુરેશ દલાલનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "સુરેશ પુરુષોત્તમદાસ દલાલ. મહારાષ્ટ્રના થાણા જિલ્લામાં તેમનો જન્મ થયેલો. 'એકાન્ત', 'તારીખનું ઘર', 'નજરું લાગી', 'ઈટ્ટાકિટ્ટા', 'ધીંગામસ્તી', 'અલકચલાણું', 'ભિલ્લુ', 'પગની હોડી, હાથ હલેસા', 'ટીંગાટોળી', તેમના મુખ્ય કાવ્યસંગ્રહો છે. ગદ્ય કાવ્યોનો સંગ્રહ 'અસ્તિત્વ' તેમણે આપ્યો છે. 'સમિધ', 'કવિનો શબ્દ', 'તપોવન', 'ઉપહાર', 'સહવાસ', 'વીથિકા' વગેરે તેમનાં સંપાદનો છે. 'કાવ્યાયન' અને 'કાવ્યવિશ્વ' એ બે તેમનાં નોંધપાત્ર સંચયો છે. 'કવિતા' દ્વૈમાસિકનું સંપાદન તેમણે યશસ્વી રીતે કર્યું હતું. તેઓ રણજિતરામ સુવર્ણચંદ્રક અને સાહિત્ય અકાદમી દિલ્હીના પુરસ્કારથી સન્માનિત થયા હતા.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "કવિ સુરેશ દલાલનો પરિચય"
+                }
+              ],
+              "note": "Marker [[કવિ-પરિચય]]. Prose printed for the student (poet-bio paragraph: birthplace, main કાવ્યસંગ્રહો, સંપાદનો, and the two named awards) — CONCEPT topic per explanation_unit_map.md's kavi/lekhak-parichay rule. Kept SEPARATE from T2 ([[કૃતિ-પરિચય]]) rather than merged, unlike output9/ch03 (where a thin one-line bio and a short theme-para were combined into one topic): here both printed paragraphs are full, substantial prose in their own right (a multi-work bio, and a separate multi-sentence theme/symbolism paragraph), so splitting them follows output9/ch01's precedent for two substantial parichay paragraphs rather than ch03's precedent for two thin ones. Set 'easy' — the paragraph is factual and list-heavy (book titles, an award name) but carries no dense grammar or archaic form; the proper-noun density is not a language-difficulty signal by teaching_lens_map.md's std 9-10 hard criterion.",
+              "modified_chunk": "આ ફકરો કવિ સુરેશ દલાલનો પરિચય આપે છે. તેમનો જન્મ મહારાષ્ટ્રના થાણા જિલ્લામાં થયો હતો. તેમણે 'એકાન્ત', 'નજરું લાગી' જેવા અનેક કાવ્યસંગ્રહો (કવિતાનાં પુસ્તકો) લખ્યાં છે. તેમને રણજિતરામ સુવર્ણચંદ્રક અને સાહિત્ય અકાદમી દિલ્હીનો પુરસ્કાર (ઈનામ) મળ્યાં હતાં.",
+              "word_count": {
+                "original": 73,
+                "modified": 37
+              },
+              "key_terms": [
+                "કાવ્યસંગ્રહ — કવિતાઓનું પુસ્તક",
+                "સંપાદન — બીજાની રચનાઓ ભેગી કરી ગોઠવવાનું કામ",
+                "પુરસ્કાર — ઈનામ, સન્માન",
+                "સન્માનિત — માન આપીને નવાજેલું",
+                "સંચય — ભેગી કરેલી રચનાઓનો સંગ્રહ"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": []
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "ગીતના કૃષ્ણપ્રેમના ભાવનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "કૃષ્ણપ્રેમને વ્યક્ત કરતી આ રચના છે. ગોપી કૃષ્ણને પડકાર આપતાં કહે છે કે તમે મારી ગાગર ઉતારો તો હું માનું કે તમે પહાડને (ગોવર્ધન પર્વતને) ઊંચક્યો હતો. ગાગર ઉતારવાને બહાને કૃષ્ણઘેલી ગોપી કૃષ્ણનું નૈકટ્ય ઝંખે છે. ગાગર ઉતારે તે પતિ એવો લોકજીવનનો સંદર્ભ પણ જોઈ શકાય. તેથી જ ગોપી કહે છે કે પ્રેમસ્વીકારનો આવો અવસર ફરી ફરી આવતો નથી. આજે આ અમૂલખ અવસરને એળે ના જવા દેશો. વાંસળી, જમુનાજી, ગાયો જેવા સંદર્ભોથી કવિએ આ ગીતરચનામાં ગોકુળનું અને પ્રેમનું વાતાવરણ રચ્યું છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "ગીતના કૃષ્ણપ્રેમના ભાવનો પરિચય"
+                }
+              ],
+              "note": "Marker [[કૃતિ-પરિચય]]. Prose printed for the student, naming the ભાવ (કૃષ્ણપ્રેમ), the ગોવર્ધન-પડકાર frame, and a folk-custom reading ('ગાગર ઉતારે તે પતિ એવો લોકજીવનનો સંદર્ભ પણ જોઈ શકાય'). depends_on T1 since the work-intro is read after the poet is introduced. Set 'medium' rather than 'easy' (unlike T1) because this paragraph layers a symbol (ગાગર ↔ ગોવર્ધન), a hedged folk-custom allusion, and the theme's urgency ('અમૂલખ અવસરને એળે ના જવા દેશો') in one short paragraph — more conceptually loaded than T1's plain fact-list. FLAG for Agent 8/12: the printed folk-custom line is itself hedged ('પણ જોઈ શકાય' — 'can also be seen as'), per global_content_rules.md rule 10 (a custom is presented with its own logic, never a curiosity) and this profile's 'literal reading of a figurative line' avoid-gate — downstream explanation must keep the same hedge, never assert the marriage-custom reading as settled fact of this poem.",
+              "modified_chunk": "આ ફકરો ગીતનો ભાવ (વિષય) જણાવે છે. ગોપી કૃષ્ણને પડકાર આપે છે કે તું મારી ગાગર (પાણી ભરવાનું વાસણ) ઉતારે તો જ હું માનું કે તેં પહાડ ઊંચક્યો હતો. આમ કરીને ગોપી કૃષ્ણની નજીક રહેવા ઈચ્છે છે, અને કહે છે કે આવો અવસર (મોકો) ફરી ફરી નહિ મળે.",
+              "word_count": {
+                "original": 81,
+                "modified": 48
+              },
+              "key_terms": [
+                "પડકાર — હિંમતથી અપાતી શરત",
+                "નૈકટ્ય — નજીકપણું, પાસે હોવું તે",
+                "લોકજીવનનો સંદર્ભ — સામાન્ય લોકોના રિવાજ સાથે જોડાયેલી વાત",
+                "અમૂલખ — અમૂલ્ય, બહુ કીમતી",
+                "એળે જવું — વ્યર્થ જવું, નકામું જવું"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "ગોપીનો કૃષ્ણ-પડકાર",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ગાગર ઉતારવાની ટેક",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "ગાગર ઉતારવાનો પડકાર",
+              "topic_type": "POEM",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T2"
+              ],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "મારી ગાગર ઉતારો તો જાણું\nકે રાજ, તમે ઊંચક્યો'તો પ્હાડને!",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "ગાગર ઉતારવાનો પડકાર"
+                }
+              ],
+              "note": "FIRST [[ટેક]] marker — the opening two-line dhruva-couplet 'મારી ગાગર ઉતારો તો જાણું / કે રાજ, તમે ઊંચક્યો'તો પ્હાડને!' — the ONLY place this exact wording (kept in structure_inventory's note as the reference wording for all identical returns) is taught as new. depends_on T2 (poem read right after the pre-reading apparatus). Set 'medium': the archaic contraction ઊંચક્યો'તો (= ઊંચક્યો હતો) and પ્હાડ are the only stop-words here, both glossed by context/the chapter's own printed forms note, not dense enough for 'hard'.",
+              "modified_chunk": "ગોપી કૃષ્ણને કહે છે કે તું મારી ગાગર (ઘડો) ઉતારી આપ, તો જ હું માનું કે તેં પહાડ (ગોવર્ધન પર્વત) ઊંચક્યો હતો. નાનું કામ કરી બતાવવાની શરત મૂકીને ગોપી કૃષ્ણને પોતાની પાસે બોલાવે છે.",
+              "word_count": {
+                "original": 10,
+                "modified": 34
+              },
+              "key_terms": [
+                "ગાગર — ઘડો, પાણી ભરવાનું વાસણ",
+                "ઊંચક્યો'તો — 'ઊંચક્યો હતો' માટે; કવિએ લય સાચવવા શબ્દ ટૂંકાવ્યો છે",
+                "પ્હાડ — 'પહાડ' માટે; લય જાળવવા શબ્દનું રૂપ થોડું બદલાયું છે",
+                "રાજ — અહીં પ્રેમથી કરાતું સંબોધન, 'હે રાજા' જેવું"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "ઘરે ઘરે વખાણવાનું વચન",
+              "topic_type": "POEM",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S2.T3"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "હું તો ઘરે ઘરે જઈને વખાણું\nકે રાજ, તમે ઊંચક્યો'તો પ્હાડને!",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C4",
+                  "concept_name": "ઘરે ઘરે વખાણવાનું વચન"
+                }
+              ],
+              "note": "SECOND [[ટેક]] marker, printed immediately after the first with no કડી between them. Its first line changes ('હું તો ઘરે ઘરે જઈને વખાણું' replaces 'મારી ગાગર ઉતારો તો જાણું'); its refrain-half ('કે રાજ, તમે ઊંચક્યો'તો પ્હાડને!') stays word-for-word identical. Per urmikavya_geet.md's changed-words rule ('A ટેક whose words CHANGE is a topic at each occurrence... each return is a new claim') this is its own topic, not folded into T3: the claim moves from a conditional test ('lift my pot, THEN I'll believe') to an unconditional promise ('I will praise you everywhere'). depends_on T3 (the claim it changes from, immediately preceding). Structural accounting for Agent 4: two [[ટેક]] marker-cut topics (T3, T4) against structure_inventory's two distinct wordings — matches urmikavya_geet.md's hard gate 'the number of topics carrying a [[ટેક]] marker equals the number of distinct ટેક wordings' exactly, the same shape output9/ch03 used for its own changed-words tek.",
+              "modified_chunk": "હવે ગોપી કહે છે કે જો કૃષ્ણ તેની ગાગર ઉતારે તો તે ઘરે ઘરે જઈને તેનાં વખાણ (પ્રશંસા) કરશે. પહેલાંની શરત હવે વચનમાં બદલાય છે — ગોપી પોતાનો પ્રેમ ખુલ્લેઆમ કહેવાનું વચન આપે છે.",
+              "word_count": {
+                "original": 11,
+                "modified": 34
+              },
+              "key_terms": [
+                "વખાણવું — વખાણ કરવાં, પ્રશંસા કરવી",
+                "ઘરે ઘરે — દરેક ઘરમાં જઈને",
+                "ઊંચક્યો'તો — 'ઊંચક્યો હતો' માટે; લય સાચવવા શબ્દ ટૂંકાવ્યો છે",
+                "પ્હાડ — 'પહાડ' માટે; લય જાળવવા શબ્દનું રૂપ બદલાયું છે"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "ગોપીનાં રોજિંદાં કામની કડીઓ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "ક્હાનની વાંસળી અને ગોપીની ગાગર",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S2.T4",
+                "M2.S2.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "આખો દિ વાંસળીને હાથમાં રમાડો ક્હાન\nએમાં શા હોય ઝાઝા વેતા?\nકાંટાળી કેડી પર ગાગર લઈને અમે\nઆવતાં જતાં ને સ્મિત દેતાં.\nહું તો વ્હેતી જમુનાને અહીં આણું:\nમારી ગાગર ઉતારો તો જાણું.\nકે રાજ, તમે ઊંચક્યો'તો પ્હાડને!",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "ક્હાનની વાંસળી અને ગોપીની ગાગર"
+                }
+              ],
+              "note": "Marker [[કડી 1]] — five printed lines (ક્હાનની આખા દિવસની વાંસળી-રમત vs. ગોપીની કાંટાળી કેડી પર ગાગર લઈને થતી અવરજવર, બંને વચ્ચે સ્મિતની આપ-લે, ને 'હું તો વ્હેતી જમુનાને અહીં આણું' વાળી કલ્પના). Printed immediately after it, in the same flow with no blank-line break before the marker, is the THIRD [[ટેક]] occurrence — identical wording to T3 ('મારી ગાગર ઉતારો તો જાણું.' — note the page prints a period here, absent at the 1st and 4th occurrences; transcribed as printed at Agent 5, not normalised). Per urmikavya_geet.md's identical-ટેક rule ('taught once and referenced after... never a topic of its own') this third occurrence is NOT a new topic; it stays inside T5's own reading flow as the stanza's close, and T5 depends_on T3 (the topic that first taught this exact wording) in addition to T4 (the immediately preceding topic in reading order). Set 'hard': ક્હાન (poetic form of કાન/કૃષ્ણ), the idiom 'ઝાઝા વેતા' (printed in the chapter's own રૂઢિપ્રયોગ box), 'વ્હેતી' and 'આણું' (archaic/poetic verb forms), and the contracted 'દિ' (= દિવસ) are five stop-points concentrated in five lines — the std 9-10 hard criterion (dialect/archaic density), never the craft itself.",
+              "modified_chunk": "આ કડીમાં ગોપી કહે છે કે ક્હાન (કૃષ્ણ) આખો દિવસ વાંસળી હાથમાં રમાડે છે, એમાં કંઈ ખાસ ડહાપણ (વેતા) નથી જોઈતું. પોતે કાંટાળી કેડી (સાંકડો રસ્તો) પર ગાગર લઈને અવરજવર કરે છે અને સ્મિતની આપ-લે કરે છે. ગોપી કહે છે કે તે તો વહેતી જમુના નદીને પણ અહીં લઈ આવે છે, અને ફરી પોતાની શરત દોહરાવે છે.",
+              "word_count": {
+                "original": 38,
+                "modified": 57
+              },
+              "key_terms": [
+                "ક્હાન — 'કાન' (કૃષ્ણ) માટે કાવ્યમય રૂપ",
+                "ઝાઝા વેતા — વધારે પડતું ડહાપણ (રૂઢિપ્રયોગ)",
+                "કેડી — સાંકડો પગરસ્તો",
+                "વ્હેતી — 'વહેતી' માટે; કાવ્યમાં વપરાયેલું રૂપ",
+                "દિ — 'દિવસ' માટે; બોલચાલનું ટૂંકું રૂપ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "ગાયો ચરાવવાનું કામ અને ન આવે એવું ટાણું",
+              "topic_type": "POEM",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S3.T5",
+                "M2.S2.T3"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "ડચકારા દઈ દઈને ગાયો ચરાવવી\nને છાંયમહીં ખાઈ લેવો પોરો.\nચપટીમાં આવું તો કામ કરી નાખે\nઅહીં નાનકડો ગોકુળનો છોરો.\nફરી ફરી નહિ આવે ટાણું\nમારી ગાગર ઉતારો તો જાણું\nકે રાજ, તમે ઊંચક્યો'તો પ્હાડને!\n('એકાંત'માંથી)",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C6",
+                  "concept_name": "ગાયો ચરાવવાનું કામ અને ન આવે એવું ટાણું"
+                }
+              ],
+              "note": "Marker [[કડી 2]] — five printed lines (ડચકારા દઈને ગાયો ચરાવવી, છાંયમાં પોરો, 'ચપટીમાં આવું તો કામ કરી નાખે અહીં નાનકડો ગોકુળનો છોરો', ને 'ફરી ફરી નહિ આવે ટાણું'ની ઉતાવળ). Printed right after it, same flow, is the FOURTH and closing [[ટેક]] occurrence — identical wording to T3 once more — followed by the printed source-note '('એકાંત'માંથી)'. Per the identical-ટેક rule this fourth occurrence is not a new topic either; it closes T6's own reading flow, and the source-note belongs inside THIS (the last) topic's original_chunk for Agent 5. depends_on T5 (immediate reading sequence) and T3 (the topic that first taught the wording this closing ટેક repeats). topic_category 'resolution', not 'climax': the poem's emotional peak IS this closing return to the founding challenge, so the topic that carries both the urgency line and the poem's final return to its own ટેક is where the ગીત resolves, matching output9/ch03's identical choice for its own final કડી+closing-ટેક topic. Set 'hard': ડચકારા, પોરો (also printed in the chapter's own રૂઢિપ્રયોગ box as 'પો'રો લેવો'), ટાણું, છોરો and the idiom 'ચપટીમાં' are concentrated the same way as T5, keeping the two કડી topics at matching relative difficulty.",
+              "modified_chunk": "આ કડીમાં ગોપી કહે છે કે કૃષ્ણ ડચકારા (અવાજ) કરીને ગાયો ચરાવે છે અને છાંયડામાં પોરો (આરામ) ખાય છે. ગોકુળનો આ નાનકડો છોકરો ચપટીમાં કામ કરી નાખે છે. ગોપી કહે છે કે આવો અવસર (ટાણું) ફરી ફરી નહિ આવે, અને ફરી પોતાની શરત યાદ અપાવીને ગીત પૂરું કરે છે.",
+              "word_count": {
+                "original": 36,
+                "modified": 49
+              },
+              "key_terms": [
+                "ડચકારા — ગાય-બળદ હાંકવા કરાતો અવાજ",
+                "પોરો — થાક ખાવો, વિરામ કરવો",
+                "ટાણું — અવસર, મોકો",
+                "છોરો — છોકરો",
+                "ચપટીમાં — ખૂબ ઝડપથી, પલકવારમાં"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut: 2 pre-reading CONCEPT topics ([[કવિ-પરિચય]], [[કૃતિ-પરિચય]]) + 2 ટેક-marker-cut POEM topics ([[ટેક]] occurrence 1 = wording A, [[ટેક]] occurrence 2 = wording B/changed) + 2 કડી POEM topics ([[કડી 1]], [[કડી 2]], each carrying its own trailing identical-ટેક occurrence as part of the same reading flow) = 6 topics total. Marker accounting against 01_meta.json's structure_inventory: kadi=2 (both કડી markers each carry exactly one topic: T5, T6); tek_occurrences=4 across only 2 distinct wordings (per 01_meta.json's own note: 'The refrain half... is word-for-word identical in all four occurrences; only the 2nd occurrence changes the other half-line') — occurrence 1 and 2 differ from each other and each gets its own topic (T3, T4); occurrences 3 and 4 repeat occurrence 1's wording exactly and are referenced via depends_on on T3 rather than cut as new topics, per urmikavya_geet.md's rule 'Where the ટેક returns identical, teach it once and reference it after... it never becomes a topic of its own.' Two topics carry a [[ટેક]] marker as their own cut boundary (T3, T4), matching the two distinct wordings exactly — the same structural shape output9/ch03 used for std-9 ch3's own changed-words ટેક (this profile's own worked example).",
+    "કવિ-પરિચય and કૃતિ-પરિચય kept as TWO separate topics (T1, T2), unlike output9/ch03's single merged topic for the same two marker types — a content judgement, not a rule change: ch03's two paragraphs were short/thin (a two-line bio, a one-paragraph theme restatement), while here both printed paragraphs are substantial in their own right (a multi-work, multi-sentence poet biography naming two awards; a separate multi-sentence theme-and-symbolism paragraph). This follows output9/ch01's precedent (a similarly substantial pair kept separate) rather than ch03's. Flagged per 02_structure.md's instruction to carry any such judgement call as a note for Agent 4/13.",
+    "શબ્દ-સમજૂતી (all four sub-blocks: સમાનાર્થી/શબ્દાર્થ, વિરુદ્ધાર્થી, તળપદા શબ્દો, રૂઢિપ્રયોગ), સ્વાધ્યાય (all three printed blocks: MCQ, બે-ત્રણ વાક્યોમાં, સવિસ્તાર), વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are apparatus/exercise matter per global_content_rules.md rule 7 and explanation_unit_map.md's apparatus rule — none cut as topics; they stay for Agent 10 (01_meta.json already inventories all four exercise groups, including વિદ્યાર્થી-પ્રવૃત્તિ as its own group) and for key_terms/ભાષા-બોધ sourcing. ભાષા-અભિવ્યક્તિ's second bullet (praising 'વ્હેતી'/'અહીં આણું' in કડી 1) and third bullet (praising the પુનરાવર્તન of 'ઘરે ઘરે', 'દઈ દઈને', 'ફરી ફરી') are left for Agent 5/7/12/13 to verify against original_chunk and populate figures_of_speech — nothing named here, since Agent 2 writes no explanation and invents no craft label; O4's objective_text stays inside the chapter's own printed apparatus language ('કલ્પનાથી... વર્ણવે છે') without asserting a specific અલંકાર name that later verification might reject.",
+    "genre prior agreement: 01_meta.json's active_genre_profiles ([urmikavya_geet.md]) matches the profile supplied for this run; genre_confidence is 'high' and the rendered page, explanation_unit_map.md, and urmikavya_geet.md's own near-miss table (this exact chapter's near-lok_geet shading is named there) all agree — no disagreement to flag.",
+    "depends_on records only real sequencing/reference dependence, per 02_structure.md: T2 depends on T1 (work-intro read after poet-intro); T3 depends on T2 (poem read after the pre-reading apparatus); T4 depends on T3 (the claim it changes from, immediately preceding in the printed flow); T5 depends on both T4 (immediate reading sequence — the last thing read before કડી 1) and T3 (the topic that first taught the wording T5's own trailing ટેક repeats); T6 depends on both T5 (immediate reading sequence) and T3 (same identical-ટેક reference, once more, at the poem's close).",
+    "Objectives: one sound, text-grounded anchor per reading scene (O1 for the two pre-reading CONCEPT topics combined, per output9/ch01's pattern of sharing one objective across a poet-intro + work-intro pair; O2-O5 one each for the four POEM topics). O3 is Analyze (not Understand) because its whole content is the changed-words comparison this form's teaching centres on, matching output9/ch03's identical choice for its own changed-ટેક objective. O4 is Analyze because it asks the student to interpret an imaginative comparison ('વ્હેતી જમુનાને અહીં આણું' set against કૃષ્ણનું પરાક્રમ), grounded directly in ભાષા-અભિવ્યક્તિ's own printed praise of this line — not an invented craft claim. O5 is Evaluate as the chapter's emotional close, matching output9/ch03's Evaluate choice for its own final કડી+closing-ટેક objective. No objective names a specific અલંકાર label (std 9 permits naming per profiles/students/std-9.md §1.3, but the line's device — possibly ઉત્પ્રેક્ષા or અતિશયોક્તિ — is not settled at this structure-only pass); this is a conservative choice, flagged here so Agent 12/13 can name it correctly once original_chunk is verbatim and checked, per no_hallucination_policy.md's rule against naming a device not confirmed on the page.",
+    "Sensitivity flag for Agent 8: T2's કૃતિ-પરિચય carries a hedged folk-custom allusion ('ગાગર ઉતારે તે પતિ') and the whole ગીત is રાધા-કૃષ્ણ-tradition ભક્તિ-adjacent romantic imagery (ગોપી addressing કૃષ્ણ as 'રાજ') without a છાપ inside the verse (ruled out as પદ/ભજન at Agent 1, correctly — the modern named poet and absent છાપ are the tell). global_content_rules.md rule 10 applies: teach the ભાવ and the craft as literature with a living singing tradition (as urmikavya_geet.md's own Sensitivity prior instructs for રાધા-કૃષ્ણ material), never turn the folk-custom aside into a comparative-religion or marriage-instruction lesson.",
+    "original_chunk left empty on every topic per spec: 'original_chunk stays empty; Agent 5 fills it.' Intended verbatim boundaries are recorded in each topic's note above (which lines and which trailing ટેક occurrence belong inside each topic, and that the printed source-note '('એકાંત'માંથી)' belongs inside T6, the last topic) so Agent 5 does not have to re-derive the cut from 00_chapter_normalized.md alone."
+  ],
+  "provenance": {
+    "agent": "05_verbatim_attachment",
+    "source_text": "00_chapter_normalized.md",
+    "verified_against_render": true,
+    "renders": [
+      "scratch/run-s9c12-5/page-1.png",
+      "scratch/run-s9c12-5/page-2.png",
+      "scratch/run-s9c12-5/page-3.png"
+    ],
+    "notes": [
+      "original_chunk for every topic was extracted programmatically by line number directly from 00_chapter_normalized.md (no manual retyping), then the three 150 dpi page renders (pdftoppm -r 150, produced fresh in scratch/run-s9c12-5/ for this agent) were read line-by-line against every verse block, both parichay paragraphs, the shabd-samjuti box and both apparatus paragraphs (bhasha-abhivyakti, shikshakni-bhumika). No mismatch found anywhere between 00_chapter_normalized.md and the rendered pixels; Agent 1's transcription is confirmed accurate for this chapter. No transcription defect to report.",
+      "M1.S1.T1 original_chunk is the paragraph under [[કવિ-પરિચય]] only (line 8). The title box (12 / તો જાણું), author name (સુરેશ દલાલ) and era line (જન્મ/અવસાન) sit above the marker as chapter frontmatter, already captured in 01_meta.json, and are not part of any topic's original_chunk.",
+      "M1.S1.T2 original_chunk is the paragraph under [[કૃતિ-પરિચય]] only (line 11), including its hedged folk-custom clause 'ગાગર ઉતારે તે પતિ એવો લોકજીવનનો સંદર્ભ પણ જોઈ શકાય' verbatim as printed (hedge preserved, not asserted as fact) — flagged in 02_structure.json for Agent 8.",
+      "M2.S2.T3 original_chunk is the FIRST [[ટેક]] occurrence exactly (lines 14-15, no closing period on 'જાણું' as printed).",
+      "M2.S2.T4 original_chunk is the SECOND [[ટેક]] occurrence exactly (lines 18-19) — the changed first line 'હું તો ઘરે ઘરે જઈને વખાણું', refrain half word-for-word identical to T3's.",
+      "M2.S3.T5 original_chunk is [[કડી 1]]'s five printed lines (22-26) plus the immediately-following THIRD [[ટેક]] occurrence (lines 29-30), which repeats T3's wording but is transcribed with the period the page actually prints at this occurrence only ('મારી ગાગર ઉતારો તો જાણું.') — kept exactly as printed, not normalised to match the other three occurrences.",
+      "M2.S3.T6 original_chunk is [[કડી 2]]'s five printed lines (33-37) plus the FOURTH and closing [[ટેક]] occurrence (lines 40-41, no period, matching T3's occurrence exactly) plus the printed source-note '('એકાંત'માંથી)' (line 43) as its final line, per gujarati_verbatim.md rule 5 (attribution/source line belongs to the last topic).",
+      "Archaic/poetic contractions kept exactly as printed and never modernised: ક્હાન, ઊંચક્યો'તો, પ્હાડ, વ્હેતી, દિ — all confirmed against the render, all glossed in key_terms as કાવ્ય-રૂપ/તળપદું per shabd_gloss.md rather than corrected.",
+      "modified_chunk on every topic is a plain 'શું થઈ રહ્યું છે' restatement in simple શિષ્ટ ગુજરાતી (2-4 sentences) with the hardest words glossed inline in brackets — raw seed material for Agent 12's explanation, not the explanation itself; no અલંકાર, ભાવ, or real-life link written here.",
+      "key_terms picked per reference/shabd_gloss.md's L2-recalibrated std-9 band (3-5 per topic, inside field_shape_rules.md's fixed 3-6 contract band): T1/T2 draw તત્સમ/formal and idiom words from the printed parichay prose; T3-T6 draw the printed કાવ્ય-રૂપ contractions (ક્હાન, ઊંચક્યો'તો, પ્હાડ, વ્હેતી, દિ) and the તળપદા/રૂઢિપ્રયોગ words the chapter's own શબ્દ-સમજૂતી box confirms (ગાગર, વેતા, કેડી, ડચકારા, પોરો, ટાણું, છોરો, ઝાઝા વેતા). No key_terms entry asserts a meaning not supported by the printed box or by plain Gujarati usage.",
+      "primary_content_type/available_content_types set to 'image'/['image'] on all four POEM topics (T3-T6) per urmikavya_geet.md's media prior ('one image per કડી... A ટેક topic's image shows what the ટેક's new words name') — a ટેક topic is a reading scene under this profile just as a કડી is. The two pre-reading CONCEPT topics (T1, T2) carry null/[] — no image planned for prose parichay text, matching output9/ch01's precedent for the same marker types.",
+      "No modernisation, no reflow, no transliteration, no '।' introduced anywhere. Every original_chunk line break matches the printed line break exactly; the two literal apostrophes and the one mid-poem-only period (T5's trailing ટેક) are preserved as printed, not normalised across occurrences."
+    ]
+  }
+}

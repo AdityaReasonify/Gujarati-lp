@@ -1,0 +1,32 @@
+{
+  "topics": [
+    {
+      "topic_id": "M2.S2.T5",
+      "areas": ["ધર્મ"],
+      "caution": "The explanation could turn 'અસત્યો માંહેથી' into a devotional teaching moment — unpacking what the ઉપનિષદની પ્રાર્થના theologically means, or nudging the child to treat it as worship — when the chapter only uses it to show what the diaspora youth no longer carry.",
+      "guidance": "Explain the prayer the way the chapter itself does — as shared heritage every GSEB child already owns from the school prાર્thana-sabha ('ગુજરાતની કોઈ પણ સ્કૂલના વિદ્યાર્થીઓને આ પ્રાર્થના મોઢે છે'); the loss in this scene is about memory and belonging, not about prayer meaning, so keep `explanation` there and anchor `real_life_example` on a school prarthana-sabha the child has stood in, never on what the prayer's words mean.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M3.S5.T10",
+      "areas": ["ધર્મ"],
+      "caution": "The explanation could drift into telling the child who નરસિંહ, મીરાં, સુન્દરમ્, રાજેન્દ્ર or મકરંદ were, or add a fact about their lives or verses, when the chapter only names them as literary heritage the diaspora youth no longer recognise.",
+      "guidance": "Keep the five names exactly as the essay uses them — a shelf of Gujarati literary heritage the author fears will go unread — and state only that the chapter names them; add no biography, era, or devotional content about any of them that this page does not print.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M3.S5.T12",
+      "areas": ["ધર્મ"],
+      "caution": "The explanation could turn ગીતાજીનાં સ્થિતપ્રજ્ઞનાં લક્ષણો into an account of what સ્થિતપ્રજ્ઞ theologically means, when the chapter only runs it as one experiment showing that a language carries a feeling English does not.",
+      "guidance": "Keep `explanation` on the author's experiment itself — reading the same idea in Gujarati/Sanskrit versus English and noticing the difference in feeling ('દિલમાં અનેરાં આનંદ, શાંતિ, સાત્ત્વિકતાનો અનુભવ') — never on unpacking the Gita's teaching; `real_life_example` should stay inside a familiar language-feeling moment (a prayer, a lullaby, a school song heard in one's own tongue versus a translated one), never a scripture summary.",
+      "severity": "hard"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "ધર્મ",
+      "guidance": "This નિબંધ leans on Hindu heritage material — the ઉપનિષદ પ્રાર્થના, ગીતાજીનાં સ્થિતપ્રજ્ઞનાં લક્ષણો, and the named bhakti-to-modern poets નરસિંહ-મીરાં-સુન્દરમ્-રાજેન્દ્ર-મકરંદ — purely as evidence for its language-and-culture argument. Across every topic that touches them, keep the explanation on the language/culture point the author is making and never step into teaching, paraphrasing, or adding biography to the religious or literary content itself."
+    }
+  ],
+  "none_found": false
+}

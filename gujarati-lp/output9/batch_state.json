@@ -1,3 +1,67 @@
 {
-  "in_progress": 2
+  "in_progress": 17,
+  "std": 9,
+  "done": [
+    {
+      "chapter": 1,
+      "status": "complete"
+    },
+    {
+      "chapter": 2,
+      "status": "qc-failed"
+    },
+    {
+      "chapter": 3,
+      "status": "qc-failed"
+    },
+    {
+      "chapter": 4,
+      "status": "complete"
+    },
+    {
+      "chapter": 5,
+      "status": "complete"
+    },
+    {
+      "chapter": 6,
+      "status": "qc-failed"
+    },
+    {
+      "chapter": 7,
+      "status": "qc-failed"
+    },
+    {
+      "chapter": 8,
+      "status": "complete"
+    },
+    {
+      "chapter": 9,
+      "status": "complete"
+    },
+    {
+      "chapter": 12,
+      "status": "qc-failed"
+    },
+    {
+      "chapter": 10,
+      "status": "complete"
+    },
+    {
+      "chapter": 11,
+      "status": "complete-lp2-pending"
+    },
+    {
+      "chapter": 14,
+      "status": "complete"
+    },
+    {
+      "chapter": 13,
+      "status": "complete"
+    },
+    {
+      "chapter": 15,
+      "status": "complete"
+    }
+  ],
+  "pending": []
 }

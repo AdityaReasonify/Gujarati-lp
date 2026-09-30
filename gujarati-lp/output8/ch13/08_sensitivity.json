@@ -1,0 +1,36 @@
+{
+  "topics": [
+    {
+      "topic_id": "M2.S2.T4",
+      "areas": ["સંઘર્ષ"],
+      "caution": "The chunk states 'મારો એકનો એક દીકરો માંદો પડીને ગુજરી ગયો' (the father's only son died of illness); the explanation could dwell on the tragedy of the death or turn the old man into an object of pity rather than showing his love and generosity.",
+      "guidance": "explanation and real_life_example should center on what the old man DOES with his grief — planting trees so shade, fruit and rest reach animals, birds and travellers as his 'સંભારણું' — treating this as quiet ત્યાગ and love, not as a sad-story trigger for sympathy.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M3.S3.T5",
+      "areas": ["સંઘર્ષ"],
+      "caution": "The chunk describes the old man's frailty and nearness to death ('ક્યારે મોત આવે એનું ઠેકાણું નથી') alongside 'નથી ભાંગી પડ્યો કે નથી ભીખ માગતો'; the explanation could flatten this into pity for a poor, dying old man instead of his quiet courage, and could underplay the doctor's own વળાંક.",
+      "guidance": "explanation should keep the text's own framing — his eyes are full of green trees and birds, not fear of death — and give equal weight to the doctor's change of heart ('તમારા ઝાડવાંની જવાબદારી મારે માથે') as the moment of the story, not just the old man's hardship.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M3.S3.T6",
+      "areas": ["સંઘર્ષ"],
+      "caution": "The chunk never states the old man died — it only says he stopped coming the next year and pairs this with 'સ્મશાનને કાંઠેથી' (from beside the cremation ground); an explanation that asserts outright 'વૃદ્ધનું અવસાન થયું' would be inventing a fact the page does not print, and could also land as an abrupt, upsetting statement for a child.",
+      "guidance": "real_life_example and explanation should keep the text's own restraint — he stopped coming, and his 'લીલી નજર' (green gaze/care) lives on through the trees that still shelter animals, birds and travellers — presented as his legacy continuing, not as a stated death to dwell on.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "ધર્મ",
+      "guidance": "'ભૈરવની મૂર્તિ' and 'ભૈરવની જગ્યા' (M1.S1.T1, M3.S3.T6) are used only as a place-marker for where the vaadi/trees stand — like naming a landmark by the deity's shrine there — so explanation should not turn this into an explanation of who ભૈરવ is or any devotional teaching; keep it as a location detail."
+    },
+    {
+      "area": "સંઘર્ષ",
+      "guidance": "The chapter as a whole turns a father's grief over his only son's death into an act of ત્યાગ (planting trees for others' benefit) and closes with the old man's own quiet disappearance — teach it as a story about how love and generosity outlive loss, never as a lesson dwelling on death, illness, or poverty for their own sake."
+    }
+  ],
+  "none_found": false
+}

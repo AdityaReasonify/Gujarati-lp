@@ -1,0 +1,801 @@
+{
+  "_comment": "The SECOND deliverable. Every સ્વાધ્યાય block inventoried in 01_meta.json is answered here and NOWHERE else — સ્વાધ્યાય is never a teaching topic. Std 8 prints no સ્વાધ્યાય banner; the 12 numbered/pre-blocks below the શબ્દાર્થ box ARE the exercise apparatus, transcribed verbatim from _renders/page-1..4.png via 00_chapter_normalized.md. Four blocks (કાવ્યપંક્તિનો અર્થ, પઠન/ગાન, પંક્તિ-અર્થ/ગદ્યાંતર, and part of વાતચીત) quote or reference poems/poets OTHER than this chapter's own ગઝલ (રજની મહેતા, કવિ સુંદરમ્, સુરેશ દલાલ) — answered from their own printed lines where quoted, but never mapped to this chapter's 12 શેર topics, per gazal.md's 'exercise-embedded poems are never chapter text' gate.",
+  "plan_id": "gseb_eng_gujarati8_ch10_v1",
+  "chapter_id": "gseb_eng_gujarati8_ch10",
+  "subject": "Gujarati",
+  "grade": 8,
+  "chapter_name": "હલેસે હલેસે",
+  "exercises": [
+    {
+      "exercise_id": "EX1",
+      "exercise_group": "શબ્દસમૂહ માટે એક શબ્દ",
+      "skill": "vocabulary",
+      "prompt_verbatim": "પૃથ્વી આકાશ સાથે મળતી જણાય એ કલ્પિત રેખા - ક્ષિતિજ",
+      "answer": "ક્ષિતિજ",
+      "explanation": "આ પ્રશ્ન અને એનો ઉત્તર બંને પુસ્તકમાં જ છપાયેલાં છે — બાળકને શબ્દસમૂહ પરથી એક શબ્દ 'ક્ષિતિજ' યાદ કરાવવા માટેનું ઉદાહરણ છે. પૃથ્વી અને આકાશ દૂરથી એક થતાં હોય એવું જ્યાં દેખાય એ કલ્પિત (ખરેખર ન હોય એવી) રેખાને ક્ષિતિજ કહે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "The book prints both the definition and its answer here as a worked example — nothing is left blank. Point out that 'ક્ષિતિજ' is exactly the idea the ગઝલના છેલ્લા ભાગમાં આવે છે.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX2",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને દરિયો ગમે છે ? શા માટે ?",
+      "answer": "હા, મને દરિયો ખૂબ ગમે છે, કારણ કે એનાં મોજાં જોવાની અને રેતીમાં રમવાની બહુ મજા આવે છે.",
+      "explanation": "આ પ્રશ્નનો કોઈ એક જ સાચો ઉત્તર નથી — બાળકના પોતાના અનુભવ પ્રમાણે જવાબ બદલાય. અહીં આપેલો જવાબ એક શક્ય નમૂનો છે, ચોક્કસ ઉત્તર નથી.",
+      "acceptable_alternatives": [
+        "ના, મને દરિયો બહુ ગમતો નથી, કારણ કે મને પાણીથી ડર લાગે છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Oral warm-up; accept any genuine personal response with a reason.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX3",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "દરિયામાં મોટાં મોટાં મોજાં ક્યારે ઊછળે છે ?",
+      "answer": "પવન જોરથી ફૂંકાય ત્યારે અથવા વાવાઝોડું આવે ત્યારે દરિયામાં મોટાં મોટાં મોજાં ઊછળે છે.",
+      "explanation": "સામાન્ય અનુભવ-આધારિત જવાબ છે; બાળક પોતાના શબ્દોમાં કહી શકે.",
+      "acceptable_alternatives": [
+        "ચોમાસામાં દરિયો વધારે તોફાની હોય છે ત્યારે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Model answer only; general-knowledge oral prompt.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S4.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX4",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમને દરિયાકિનારેથી વીણતાં કઈ કઈ વસ્તુઓ મળશે ?",
+      "answer": "શંખલા, છીપલાં, રંગબેરંગી પથ્થર અને ક્યારેક કોઈ નાનું છોડું જેવી વસ્તુઓ મળે.",
+      "explanation": "વ્યક્તિગત અનુભવ-આધારિત જવાબ; નમૂના રૂપે આપેલો છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Accept any real seashore object the child names.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S4.T8"
+      ]
+    },
+    {
+      "exercise_id": "EX5",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "દરિયાકિનારે તમે કઈ કઈ પ્રવૃત્તિઓ કરશો ?",
+      "answer": "રેતીમાં કિલ્લા બનાવીશું, હોડીમાં બેસી હલેસાં મારીશું, મોજાં સાથે રમીશું અને છીપલાં વીણીશું.",
+      "explanation": "એક શક્ય જવાબ; બાળક પોતાની ગમતી પ્રવૃત્તિ કહી શકે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Rowing ('હલેસાં મારવાં') ties this item back to the ગઝલના પહેલા શેરની ક્રિયા.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX6",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "દરિયો આપણને કેવી રીતે ઉપયોગી થાય છે ?",
+      "answer": "દરિયો આપણને માછલી અને મીઠું આપે છે, વહાણવટા દ્વારા વેપારનો માર્ગ બને છે અને ફરવા માટે સુંદર સ્થળ પણ છે.",
+      "explanation": "સામાન્ય જ્ઞાન-આધારિત જવાબ; નમૂના રૂપે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "General-knowledge oral prompt with no specific echo in this ગઝલ's own imagery (the poem describes the sea's moods, not its uses) — left unmapped rather than forcing a topic link.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX7",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "દરિયાકિનારે વસવાટ કરતા લોકોને શી મુશ્કેલી પડતી હશે ?",
+      "answer": "ભરતી-ઓટ અને વાવાઝોડાંનો ભય રહે છે; માછીમારોને દરિયો તોફાની હોય ત્યારે માછલી પકડવા જવાનું જોખમી બની જાય છે.",
+      "explanation": "અનુમાન-આધારિત જવાબ; નમૂના રૂપે આપેલો.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Danger to those the sea cannot hold back connects loosely to the ninth શેરની 'ડૂબનારાને ન રોકી શકે' ચિત્ર.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M3.S5.T9"
+      ]
+    },
+    {
+      "exercise_id": "EX8",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "દરિયાના પાણીમાંથી મીઠું કેવી રીતે બનતું હશે ?",
+      "answer": "દરિયાનું ખારું પાણી છીછરી કયારીઓમાં ભરવામાં આવે છે; સૂર્યના તાપથી પાણી બાષ્પ થઈને ઊડી જાય છે અને પાછળ મીઠું રહી જાય છે.",
+      "explanation": "આ જ પ્રક્રિયા (બાષ્પીભવન) ગઝલના છઠ્ઠા શેરની પંક્તિ 'કદી બાષ્પ થઈને ઊડી જાય દરિયો' માં પણ નામ વગર સૂચવાઈ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Bridges to the science idea named explicitly in item 3 of the 'નીચેના પ્રશ્નોના જવાબ' block below.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX9",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "દરિયામાં કયા કયા જળચર જીવો જોવા મળે છે ?",
+      "answer": "માછલી, કાચબા, ડોલ્ફિન, વ્હેલ અને કરચલા જેવા જળચર જીવો દરિયામાં જોવા મળે છે.",
+      "explanation": "સામાન્ય જ્ઞાન-આધારિત જવાબ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Aquatic animals (માછલી, મગર) appear only in the separately-quoted રજની મહેતા exercise poem, never in this chapter's own twelve શેર — left unmapped rather than forcing a link.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX10",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "દરિયામાં મુસાફરી કરવા માટે ક્યાં ક્યાં વાહનોનો ઉપયોગ કરશો ?",
+      "answer": "હોડી, વહાણ (જહાજ), સ્ટીમર અને મોટી ફેરી-બોટનો ઉપયોગ કરીશું.",
+      "explanation": "નમૂનારૂપ જવાબ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Boats/hોડીઓ echo the first અને ત્રીજા શેરની 'હોડીઓ' અને 'જહાજો'.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX11",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "દરિયાકિનારે ક્યાં ક્યાં વૃક્ષો જોવા મળે છે ?",
+      "answer": "દરિયાકિનારે નાળિયેરી, સૂરુ (કેઝુરિના) અને તાડ જેવાં વૃક્ષો જોવા મળે છે.",
+      "explanation": "સામાન્ય જ્ઞાન-આધારિત જવાબ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "No tree imagery anywhere in this ગઝલ's twelve શેર — left unmapped.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX12",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "આકાશ અને દરિયો એક થતા હોય એવું ક્યાં જોવા મળે ?",
+      "answer": "ક્ષિતિજ પાસે — જ્યાં દૂરથી જોતાં દરિયો અને આકાશ એકબીજામાં ભળી ગયાં હોય એવું દેખાય છે.",
+      "explanation": "આ પ્રશ્ન સીધો ગઝલના અગિયારમા શેર ('ક્ષિતિજની તરફ આંખ માંડી જુઓને, જુઓ ત્યાં ગગનમાં ભળી જાય દરિયો.') સાથે અને 'શબ્દસમૂહ માટે એક શબ્દ'ના 'ક્ષિતિજ' ઉત્તર સાથે જોડાય છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Strong echo of EX1 and the eleventh શેર — good place to loop back to both.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX13",
+      "exercise_group": "વાતચીત",
+      "skill": "speaking",
+      "prompt_verbatim": "તમે દરિયો જોયો છે ? ક્યાં ?",
+      "answer": "હા, હું મારા પરિવાર સાથે ફરવા ગયો/ગઈ ત્યારે દરિયાકિનારે (દા.ત. દ્વારકા કે પોરબંદર) દરિયો જોયો હતો.",
+      "explanation": "શુદ્ધ વ્યક્તિગત-અનુભવ પ્રશ્ન; કોઈ બાળક દરિયો ન જોયો હોય તો 'ના' પણ સાચો જવાબ છે.",
+      "acceptable_alternatives": [
+        "ના, મેં હજી દરિયો રૂબરૂ જોયો નથી, ફક્ત ચિત્રો કે વિડિયોમાં જ જોયો છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Purely personal-experience closing question; no specific echo in any single શેર's imagery — left unmapped.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX14",
+      "exercise_group": "કાવ્યપંક્તિનો અર્થ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "કિનારાઓને શું લાગી રહ્યું છે ?",
+      "answer": "કિનારાઓને (કાંઠાને) એમ લાગી રહ્યું છે કે તેમણે દરિયાને બાંધી લીધો છે — દરિયો પોતાના કાબૂમાં છે.",
+      "explanation": "રજની મહેતાની અવતરિત પંક્તિ 'કાંઠાને એમ છે અમે બાંધ્યો છે દરિયાને' પરથી સીધો ઉત્તર મળે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "This block quotes રજની મહેતાની એક સ્વતંત્ર કવિતા, printed only inside this સ્વાધ્યાય block — not this chapter's own ગઝલ (gazal.md's 'exercise-embedded poems are never chapter text' gate). Answered from that quoted poem's own lines.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX15",
+      "exercise_group": "કાવ્યપંક્તિનો અર્થ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "દરિયાની લેણદેણ કોની સાથે છે ?",
+      "answer": "દરિયાની લેણદેણ ઊંચા આભ (આકાશ) સાથે છે.",
+      "explanation": "પંક્તિ 'દરિયાની લેણદેણ ઊંચા તે આભ સાથે' પરથી સીધો ઉત્તર.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Same quoted રજની મહેતા poem as EX14 — not this chapter's own text.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX16",
+      "exercise_group": "કાવ્યપંક્તિનો અર્થ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "'દરિયો મનમોજી છે'. એવો ભાવ દર્શાવતી પંક્તિ લખો.",
+      "answer": "'પણ દરિયો તો પોતાનામાં ઊછળ્યા કરે.'",
+      "explanation": "કાંઠાએ ગમે તેટલો બાંધ્યાનો દાવો કર્યો હોય, દરિયો પોતાની મરજી પ્રમાણે જ ઊછળ્યા કરે છે — એ જ પંક્તિ 'મનમોજી' ભાવ બતાવે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Same quoted રજની મહેતા poem — not this chapter's own text.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX17",
+      "exercise_group": "કાવ્યપંક્તિનો અર્થ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "દરિયાને વરસાદ ઉછીનો માંગવો પડતો નથી એવું શા માટે કહ્યું હશે ?",
+      "answer": "કારણ કે દરિયો પોતે જ પાણીનો સૌથી મોટો સ્રોત છે — એનું જ પાણી બાષ્પ બનીને વાદળ રૂપે આકાશમાં જાય છે અને વરસાદ બનીને પાછું આવે છે, એટલે એને કોઈની પાસેથી ઉછીનું (ઉધાર) માંગવાની જરૂર પડતી નથી.",
+      "explanation": "કવિની કલ્પના મુજબ દરિયા અને આકાશ વચ્ચેની 'લેણદેણ' બરાબર સરભર છે — દરિયો આપે છે એટલું જ પાછું મેળવે છે, તેથી કદી ઋણી રહેતો નથી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "This item asks for inference beyond a single quoted line; answered from the water-cycle logic the poem itself sets up ('લેણદેણ ઊંચા આભ સાથે'). Same quoted રજની મહેતા poem — not this chapter's own text.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX18",
+      "exercise_group": "કાવ્યપંક્તિનો અર્થ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "ખડકોને કેવા કહ્યા છે ? શા માટે ?",
+      "answer": "ખડકોને 'કાળમીંઢ' કહ્યા છે — એટલે કે અત્યંત કઠણ, નક્કર પથ્થર જેવા. કારણ કે તેઓ દરિયાનાં મોજાંના સતત ધક્કા સામે અડગ, ટકી રહે એવા હોય છે.",
+      "explanation": "પંક્તિ 'કાળમીંઢ ખડકો કે માછલી, મગર, કે હોડીના સઢ ભલે સુસવ્યા કરે' પરથી ઉત્તર.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Same quoted રજની મહેતા poem — not this chapter's own text.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX19",
+      "exercise_group": "પ્રશ્નોત્તર",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "દરિયાનો ઘુઘવાટ ક્યારે અને કેવી રીતે સંભળાય છે ?",
+      "answer": "દરિયાનો ઘુઘવાટ સમયની ગુફાઓમાં પડઘાતો હોય એવો સંભળાય છે, અને શંખને કાને મૂકીએ તો પણ દરિયાનો ઘુઘવાટ સંભળાય છે.",
+      "explanation": "ચોથા શેરની બંને પંક્તિઓ 'સમયની ગુફાઓમાં પડઘાય દરિયો, મૂકો શંખ કાને તો સંભળાય દરિયો' પરથી સીધો ઉત્તર — પહેલી પંક્તિ કલ્પનાનું ચિત્ર છે, બીજી પંક્તિ રોજિંદો, જાણીતો અનુભવ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX20",
+      "exercise_group": "પ્રશ્નોત્તર",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "દરિયો તરસ્યો થાય ત્યારે શું કરે છે ?",
+      "answer": "દરિયો તરસ્યો થાય તો નદીઓની નદીઓને પી જાય છે.",
+      "explanation": "પાંચમા શેરની પંક્તિ 'જરા પણ જો તરસ્યો કદી થાય દરિયો, તો નદીઓની નદીઓને પી જાય દરિયો' પરથી સીધો ઉત્તર. 'નદીઓની નદીઓ' શબ્દ-પુનરાવર્તનથી ઘણી બધી નદીઓ એવો અર્થ નીકળે છે — દરિયાની તાકાત બતાવવા.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T5"
+      ]
+    },
+    {
+      "exercise_id": "EX21",
+      "exercise_group": "પ્રશ્નોત્તર",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "''કદી બાષ્પ થઈને ઊડી જાય દરિયો''. - આ કાવ્યપંક્તિમાં વિજ્ઞાનની કઈ પ્રક્રિયાની વાત આવે છે ?",
+      "answer": "આ પંક્તિમાં બાષ્પીભવન (evaporation)ની વૈજ્ઞાનિક પ્રક્રિયાની વાત આવે છે — સૂર્યની ગરમીથી દરિયાનું પાણી વરાળ (બાષ્પ) બનીને હવામાં ઊડી જાય છે.",
+      "explanation": "છઠ્ઠા શેરની બંને પંક્તિઓ ('કદી બુંદ રૂપે ટપકતો નભેથી, કદી બાષ્પ થઈને ઊડી જાય દરિયો') સાથે મળીને પાણીના ચક્રનાં બે રૂપ — ટીપું અને વરાળ — બતાવે છે.",
+      "acceptable_alternatives": [
+        "વરાળ બનવાની પ્રક્રિયા"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Ties directly to EX8's વાતચીત prompt about how salt is made.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S4.T6"
+      ]
+    },
+    {
+      "exercise_id": "EX22",
+      "exercise_group": "પ્રશ્નોત્તર",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "દરિયો જગતમાં ક્યારે વગોવાય છે ?",
+      "answer": "જ્યારે કોઈ દરિયામાં ડૂબી જાય અને દરિયો તેને રોકી ન શકે, ત્યારે જગત દરિયાને 'નકામો' કહી વગોવે છે.",
+      "explanation": "નવમા શેરની પંક્તિ 'ન રોકી શકે ડૂબનારાને કોઈ, જગતમાં નકામો વગોવાય દરિયો' પરથી ઉત્તર. ધ્યાન રાખવું કે આ લોકોનો (અન્યાયી) આરોપ છે, કવિનો પોતાનો ચુકાદો નથી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S5.T9"
+      ]
+    },
+    {
+      "exercise_id": "EX23",
+      "exercise_group": "પ્રશ્નોત્તર",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "''ખડકોની છાતીથી અથડાય દરિયો'' - આ કાવ્ય પંક્તિનો અર્થ સમજાવો.",
+      "answer": "દરિયો પોતાનાં મોજાં વડે કઠણ ખડકો સાથે જોરથી ટકરાય છે — દરિયાની તાકાત ખડકોની સખતાઈ સામે પણ ઓછી પડતી નથી.",
+      "explanation": "આ પ્રશ્ન ત્રીજા શેરની બીજી પંક્તિનો અર્થ પૂછે છે, જે પુસ્તકના મૂળ ગઝલ-પાઠમાં 'ને ખડકોની છાતીથી અફળાય દરિયો' (મૂળ ધાતુ અફળાવું) એમ છપાયેલી છે, જ્યારે આ સ્વાધ્યાય-પ્રશ્નમાં એ જ પંક્તિ 'અથડાય' (મૂળ ધાતુ અથડાવું) શબ્દ સાથે છપાયેલી છે. બંને શબ્દોનો અર્થ લગભગ સરખો જ છે (ટકરાવું/પછાડાવું).",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "01_meta.json's extraction_notes already flags this exact wording mismatch (અથડાય here vs અફળાય in the poem's own printed line) as a genuine printed variation on the page, not a transcription error — kept exactly as printed in its own location per the constitution's verbatim rule.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX24",
+      "exercise_group": "પ્રશ્નોત્તર",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "દરિયાને સૂર્યનાં કિરણો સતાવે ત્યારે શું કરે છે ?",
+      "answer": "સૂર્યનાં કિરણો સતાવે ત્યારે દરિયો દોડીને કિનારાની રેતીમાં સંતાઈ જાય છે.",
+      "explanation": "દસમા શેરની પંક્તિ 'સતાવે અગર સૂર્યકિરણો તો દોડી કિનારાની રેતીમાં સંતાય દરિયો' પરથી સીધો ઉત્તર.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S5.T10"
+      ]
+    },
+    {
+      "exercise_id": "EX25",
+      "exercise_group": "પ્રશ્નોત્તર",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "દરિયો ક્યાં સંતાય છે અને ક્યાં ડોકાય છે ?",
+      "answer": "દરિયો સૂર્યકિરણોથી બચવા કિનારાની રેતીમાં સંતાય છે, અને કવિની કલ્પનામાં રણની આંખોમાં ડોકાય છે.",
+      "explanation": "'સંતાય' દસમા શેરમાંથી અને 'ડોકાય' સાતમા શેરની પંક્તિ 'કદી રણની આંખોમાં ડોકાય દરિયો' માંથી — બે અલગ અલગ, સ્વતંત્ર શેરની વાત છે, એકબીજા સાથે કારણ-પરિણામ સંબંધ નથી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Pulls from two independent શેર; keep them explained as separate pictures, not a sequence.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S5.T10",
+        "M2.S4.T7"
+      ]
+    },
+    {
+      "exercise_id": "EX26",
+      "exercise_group": "પ્રશ્નોત્તર",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "દરિયાની વ્યાપકતા-વિશાળતા માટે કયા કયા રૂઢિપ્રયોગો વપરાયા છે ?",
+      "answer": "દરિયાની વિશાળતા બતાવવા કવિ 'નદીઓની નદીઓને પી જાય' (પુષ્કળ નદીઓ પી જવી), 'રણ સમંદરના દિલમાં વિસ્તરે' (દૂર દૂર સુધી ફેલાવો) અને 'ગગનમાં ભળી જાય' (આકાશ સુધી પહોંચવો) જેવી અભિવ્યક્તિઓ વાપરે છે.",
+      "explanation": "આ કડક વ્યાકરણ-અર્થમાં પ્રચલિત 'રૂઢિપ્રયોગ' નથી, પણ કવિએ દરિયાની અમાપ વિશાળતા બતાવવા વાપરેલી ખાસ પ્રયોગ-શૈલીની પંક્તિઓ છે — પુસ્તકનો પ્રશ્ન આ અર્થમાં 'રૂઢિપ્રયોગ' શબ્દ વાપરે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Flag for the teacher: these are poetic vastness-expressions the book calls રૂઢિપ્રયોગો, not formal idioms from an idiom-glossary — answered as the book's own question intends.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T5",
+        "M2.S4.T7",
+        "M3.S6.T11"
+      ]
+    },
+    {
+      "exercise_id": "EX27",
+      "exercise_group": "પ્રશ્નોત્તર",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "આ કાવ્યમાં દરિયાને કઈ કઈ ક્રિયા કરતો દર્શાવ્યો છે ?",
+      "answer": "દરિયો હલેસાય છે, ટીપે ઉમેરાય ને ખોબે ઉલેચાય છે, જહાજ સાથે ઘસડાય છે ને ખડક સાથે અફળાય છે, ગુફાઓમાં પડઘાય છે ને શંખમાં સંભળાય છે, તરસ્યો થાય તો નદીઓ પી જાય છે, બુંદ રૂપે ટપકે છે ને બાષ્પ થઈ ઊડે છે, રણમાં વિસ્તરે છે ને ડોકાય છે, કિનારે ફીણ મોકલે છે ને ઉંડાણમાં નહાય છે, વગોવાય છે, સૂર્યકિરણોથી સંતાય છે, ગગનમાં ભળી જાય છે અને છેવટે કદીયે પકડાતો નથી.",
+      "explanation": "આ પ્રશ્ન પુસ્તક પોતે જ આખી ગઝલ પરથી પૂછે છે, એટલે ઉત્તર બધા બાર શેરની ક્રિયાઓની યાદી આપે છે — દરેક ક્રિયા પોતાના શેરની છે, કોઈ એક ક્રિયા બીજી તરફ દોરી જતી નથી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "The book's own question spans the whole poem, so the answer legitimately draws on all twelve શેર as an inventory of separate actions — this is not the same as claiming the શેર develop a story.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S2.T2",
+        "M1.S2.T3",
+        "M2.S3.T4",
+        "M2.S3.T5",
+        "M2.S4.T6",
+        "M2.S4.T7",
+        "M2.S4.T8",
+        "M3.S5.T9",
+        "M3.S5.T10",
+        "M3.S6.T11",
+        "M3.S6.T12"
+      ]
+    },
+    {
+      "exercise_id": "EX28",
+      "exercise_group": "પઠન-ગાન (અન્ય કાવ્ય મેળવીને)",
+      "skill": "speaking",
+      "prompt_verbatim": "કવિ સુંદરમ્ લિખિત 'દરિયાને તીર એક ટટળે ટિટોડી...' કાવ્યને 'દરિયાને તીર એક રેતીની ઓટલી' મેળવીને વર્ગમાં તેનું પઠન/ગાન કરો.",
+      "answer": "શિક્ષક કે પુસ્તકાલયની મદદથી કવિ સુંદરમ્ ની કવિતા 'દરિયાને તીર એક ટટળે ટિટોડી...' (જેની એક પંક્તિ 'દરિયાને તીર એક રેતીની ઓટલી' છે) મેળવવી, અને વર્ગમાં જૂથમાં અથવા વ્યક્તિગત રીતે તેનું મોટેથી પઠન અથવા ગાન કરવું.",
+      "explanation": "આ એક પ્રવૃત્તિ-સૂચના છે, પ્રશ્ન નથી — સૂંદરમ્ ની કવિતા ટિટોડી અને દરિયાકિનારાના વિષય પર છે, જે પછીના 'ટીટોડી અને સાગર'ની અધૂરી વાર્તા સાથે વિષય-સામ્ય ધરાવે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Sundaram's poem itself is not printed in this chapter and must not be quoted or reconstructed from memory — only its title and one line are given by the book. Procure the actual text (library/teacher copy) before running this as a class activity. Not this chapter's own text, so left unmapped.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX29",
+      "exercise_group": "અધૂરી વાર્તા પૂર્ણ કરો",
+      "skill": "writing",
+      "prompt_verbatim": "'ટીટોડી અને સાગર' ની અધૂરી વાર્તા પૂર્ણ કરો.\nસાગરકિનારે એક ટિટોડી રહે. ટિટોડીએ સાગરની સુંવાળી રેતીમાં ચાર ઇંડાં મૂક્યાં. એકવાર ટિટોડી ખોરાકની શોધ માટે પોતાનાં ઇંડાંથી દૂર નીકળી ગઈ. આ તકનો લાભ લઈ સાગરે ટિટોડીનાં બધાં ઇંડાં પોતાનામાં સમાવી લીધાં. જ્યારે ટિટોડી પાછી આવી ત્યારે પોતાનાં ઇંડાં ન જોયાં. ટિટોડી આક્રંદ કરવા લાગી. દરિયાને પોતાનાં ઇંડાં પાછાં આપવા માટે વિનંતી કરવા લાગી. સાગર તો...",
+      "answer": "સાગર તો ટિટોડીની વિનંતી સાંભળી-ન-સાંભળી કરી પોતાનામાં મોજાં ઉછાળતો રહ્યો. ટિટોડી હિંમત ન હારી; તેણે પોતાના બધા પક્ષી-મિત્રોને ભેગા કર્યા અને કહ્યું કે બધાં મળીને પોતાની ચાંચમાં રેતી ભરી સાગરમાં નાખીશું, જ્યાં સુધી સાગર સુકાઈ ન જાય ત્યાં સુધી. હજારો પક્ષીઓ સાથે મળી કામે લાગ્યાં એ જોઈ સાગરને પોતાની ભૂલ સમજાઈ, અને તેણે ટિટોડીનાં ચારેય ઇંડાં પાછાં આપી દીધાં.",
+      "explanation": "આ એક ખુલ્લું સર્જનાત્મક-લેખન કાર્ય છે — બાળક પોતાની રીતે વાર્તા પૂરી કરી શકે. અહીં આપેલો અંત એક શક્ય, પરંપરાગત ઢબનો નમૂનો છે (નાનું પણ મક્કમ પક્ષી, એકતાથી મોટી તાકાત સામે જીતે એ ભાવ પર આધારિત), ચોક્કસ 'સાચો' અંત નથી.",
+      "acceptable_alternatives": [
+        "સાગર ટિટોડીની મહેનત અને મિત્રોની એકતા જોઈ પોતે જ શરમાઈને ઇંડાં પાછાં આપી દે એવો ટૂંકો અંત પણ સ્વીકાર્ય."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Model completion only — grade the child's own ending on coherence and a fitting resolution, not on matching this one. If a traditional Panchatantra-style version is known locally, it may be shared as one option, not as the fixed answer.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX30",
+      "exercise_group": "વર્ણન",
+      "skill": "writing",
+      "prompt_verbatim": "કાવ્યને આધારે દરિયાનું વર્ણન કરો.",
+      "answer": "આ ગઝલમાં દરિયો જાણે એક જીવંત વ્યક્તિ હોય એમ વર્ણવાયો છે. એ હલેસાં તળે હાલે છે ને હોડીઓને વહાવી જાય છે; એક ટીપું ઉમેરો તો ટીપા જેટલો જ ફરક પડે એટલો એ વિશાળ છે; જહાજ સાથે નરમાશથી ઘસડાય છે તો ખડક સાથે જોરથી અફળાય પણ છે; એનો ઘુઘવાટ સમયની ગુફા જેવો ઊંડો ને શંખમાં સંભળાય એવો જાણીતો પણ છે; તરસ્યો થાય તો નદીઓની નદીઓ પી જાય એટલો શક્તિશાળી છે; ક્યારેક ટીપું બનીને પડે છે તો ક્યારેક બાષ્પ બનીને ઊડી જાય છે; રણમાં વિસ્તરે છે ને રણની આંખોમાં ડોકાય છે; કિનારે ફીણ મોકલી પોતે દૂર ઉંડાણમાં રહે છે; ડૂબનારને રોકી ન શકવાથી ક્યારેક નકામો વગોવાય પણ છે; સૂર્યકિરણોથી રેતીમાં સંતાય છે; ક્ષિતિજ પાસે આકાશ સાથે ભળી ગયો હોય એવો દેખાય છે — અને છેવટે, ગમે તેટલી જાળ નાખો, એ કદી પકડાતો નથી.",
+      "explanation": "આ કાર્ય ખુલ્લું લેખન-કાર્ય છે, પણ 'કાવ્યને આધારે' શબ્દો સ્પષ્ટ કહે છે કે વર્ણન કવિતાનાં જ ચિત્રો પરથી બાંધવું જોઈએ — તેથી અહીં આખી ગઝલનાં બધાં ચિત્રો એકસાથે, સ્વતંત્ર ચિત્રો તરીકે, ટૂંકમાં ગૂંથ્યાં છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "A model composite description drawing on all twelve શેર — accept a child's shorter version that uses at least a few of the poem's own images, in their own words.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M1.S1.T1",
+        "M1.S2.T2",
+        "M1.S2.T3",
+        "M2.S3.T4",
+        "M2.S3.T5",
+        "M2.S4.T6",
+        "M2.S4.T7",
+        "M2.S4.T8",
+        "M3.S5.T9",
+        "M3.S5.T10",
+        "M3.S6.T11",
+        "M3.S6.T12"
+      ]
+    },
+    {
+      "exercise_id": "EX31",
+      "exercise_group": "પંક્તિ-અર્થ / ગદ્યાંતર",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "આ કાવ્યપંક્તિનો અર્થ સમજાવો અથવા આ કાવ્યપંક્તિનું ગદ્યમાં રૂપાંતર કરો.\nદરિયો મારો દોસ્ત દિલાવર; દરિયાનો સંગાથ,\nમનમોજી મોજાંઓ આપે પળપળ એનો હાથ.\n- સુરેશ દલાલ",
+      "answer": "અર્થ: દરિયો કવિનો ઉદાર (દિલાવર) મિત્ર છે, અને દરિયાનો સાથ (સંગાથ) મળવો એ કવિ માટે આનંદની વાત છે. પોતાની મરજી પ્રમાણે વર્તનારાં (મનમોજી) મોજાં દરેક ક્ષણે (પળપળ) જાણે પોતાનો હાથ લંબાવીને સાથ આપતાં હોય એવું લાગે છે.\nગદ્યાંતર: દરિયો મારો ઉદાર મિત્ર છે અને એનો સાથ મળે છે. એનાં મનમોજી મોજાં પ્રત્યેક ક્ષણે જાણે પોતાનો હાથ લંબાવીને મને સાથ આપે છે.",
+      "explanation": "'સંગાથ' અને 'હાથ' શબ્દોના પ્રાસ પરથી આ પંક્તિનું કાવ્યાત્મક રૂપ સ્પષ્ટ થાય છે; ગદ્યાંતરમાં એ જ અર્થ સાદા, સીધા વાક્યોમાં આપ્યો છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "This block quotes સુરેશ દલાલની સ્વતંત્ર પંક્તિઓ, printed only inside this સ્વાધ્યાય block — not this chapter's own ગઝલ text. Answered from the quoted lines themselves; left unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX32",
+      "exercise_group": "પ્રાસવાળા શબ્દો",
+      "skill": "literary device",
+      "prompt_verbatim": "કાવ્યમાં વપરાયેલા પ્રાસવાળા શબ્દો શોધીને લખો. (ક્રમાંક ૧)",
+      "answer": "હલેસાય",
+      "explanation": "ગઝલના પહેલા શેર (મત્લા)ની પંક્તિ 'હલેસે હલેસે હલેસાય દરિયો,'માંનો શબ્દ. આખી ગઝલમાં લગભગ દરેક પંક્તિ 'દરિયો' શબ્દ પહેલાં '-આય' અવાજ પર પૂરી થાય છે — 'હલેસાય' આ પ્રાસનું પહેલું ઉદાહરણ છે.",
+      "acceptable_alternatives": [
+        "વહી જાય"
+      ],
+      "values_filled_for_teaching": "1. હલેસાય · 2. ઉમેરાય · 3. ઘસડાય · 4. પડઘાય · 5. સંતાય · 6. પકડાય — છ ઉદાહરણ, દરેક ગઝલના જુદા જુદા શેરમાંથી, બધાં '-આય' પ્રાસ પર પૂરાં થાય છે અને 'દરિયો' રદીફ પહેલાં આવે છે. પ્રવેશપેટીમાં પણ પુસ્તક પોતે જ 'હલેસાય, ઉમેરાય, ઉલેચાય, ઘસડાય, અફળાય' શબ્દોને પ્રાસ-સૌન્દર્યનાં ઉદાહરણ તરીકે નામ આપે છે.",
+      "teacher_note": "Book prints six blank ruled lines (numbered 1-6) with no words — an honest empty prompt. Treated here as six separate blanks (EX32-EX37), one filled word each, spread across different શેર so a teacher can point to the source line for every answer. GSEB calls this 'પ્રાસ' at std 8, not 'કાફિયા' (gazal.md: the std-10 word is reserved for std 10).",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S1.T1"
+      ]
+    },
+    {
+      "exercise_id": "EX33",
+      "exercise_group": "પ્રાસવાળા શબ્દો",
+      "skill": "literary device",
+      "prompt_verbatim": "કાવ્યમાં વપરાયેલા પ્રાસવાળા શબ્દો શોધીને લખો. (ક્રમાંક ૨)",
+      "answer": "ઉમેરાય",
+      "explanation": "બીજા શેરની પંક્તિ 'ઉમેરે તો ટીપે ઉમેરાય દરિયો,'માંનો શબ્દ — 'હલેસાય'ના જ '-આય' પ્રાસમાં.",
+      "acceptable_alternatives": [
+        "ઉલેચાય"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "See EX32 for the full six-blank grid.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T2"
+      ]
+    },
+    {
+      "exercise_id": "EX34",
+      "exercise_group": "પ્રાસવાળા શબ્દો",
+      "skill": "literary device",
+      "prompt_verbatim": "કાવ્યમાં વપરાયેલા પ્રાસવાળા શબ્દો શોધીને લખો. (ક્રમાંક ૩)",
+      "answer": "ઘસડાય",
+      "explanation": "ત્રીજા શેરની પંક્તિ 'જહાજોની સંગાથ ઘસડાય દરિયો,'માંનો શબ્દ.",
+      "acceptable_alternatives": [
+        "અફળાય"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "See EX32 for the full six-blank grid.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M1.S2.T3"
+      ]
+    },
+    {
+      "exercise_id": "EX35",
+      "exercise_group": "પ્રાસવાળા શબ્દો",
+      "skill": "literary device",
+      "prompt_verbatim": "કાવ્યમાં વપરાયેલા પ્રાસવાળા શબ્દો શોધીને લખો. (ક્રમાંક ૪)",
+      "answer": "પડઘાય",
+      "explanation": "ચોથા શેરની પંક્તિ 'સમયની ગુફાઓમાં પડઘાય દરિયો,'માંનો શબ્દ.",
+      "acceptable_alternatives": [
+        "સંભળાય"
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "See EX32 for the full six-blank grid.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M2.S3.T4"
+      ]
+    },
+    {
+      "exercise_id": "EX36",
+      "exercise_group": "પ્રાસવાળા શબ્દો",
+      "skill": "literary device",
+      "prompt_verbatim": "કાવ્યમાં વપરાયેલા પ્રાસવાળા શબ્દો શોધીને લખો. (ક્રમાંક ૫)",
+      "answer": "સંતાય",
+      "explanation": "દસમા શેરની પંક્તિ '...કિનારાની રેતીમાં સંતાય દરિયો.'માંનો શબ્દ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "See EX32 for the full six-blank grid.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S5.T10"
+      ]
+    },
+    {
+      "exercise_id": "EX37",
+      "exercise_group": "પ્રાસવાળા શબ્દો",
+      "skill": "literary device",
+      "prompt_verbatim": "કાવ્યમાં વપરાયેલા પ્રાસવાળા શબ્દો શોધીને લખો. (ક્રમાંક ૬)",
+      "answer": "પકડાય",
+      "explanation": "છેલ્લા શેર (મક્તા)ની પંક્તિ 'પરંતુ કદીયે ન પકડાય દરિયો.'માંનો શબ્દ — આખી ગઝલનો પ્રાસ છેલ્લે સુધી ટકે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "See EX32 for the full six-blank grid.",
+      "is_model_answer": false,
+      "covered_by_topics": [
+        "M3.S6.T12"
+      ]
+    },
+    {
+      "exercise_id": "EX38",
+      "exercise_group": "વાક્ય ગમ્મત",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચેનાં વાક્યો વાંચો અને વાક્ય ગમ્મત માણો. (ક્રમાંક ૧) ડાબી કૉલમ: માગણી સ્વીકારો તો આભાર. | જમણી કૉલમ: માગણી સ્વીકારો તો આભાર",
+      "answer": "બંને કૉલમમાં આ વાક્ય એકસરખું જ છપાયું છે — અહીં કોઈ શબ્દ-વિભાજનનો ફેરફાર નથી.",
+      "explanation": "આ પહેલી જોડ સરખામણી માટેનો પાયો આપે છે — બતાવે છે કે દરેક જોડમાં ફેરફાર હોય એ જરૂરી નથી, જેથી પછીની જોડોમાં આવતો ફેરફાર વધારે સ્પષ્ટ દેખાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Verified against _renders/page-4.png: right-column item 1 is printed without a trailing full stop while the left has one, but the words themselves are identical — a printing detail, not a wordplay difference.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX39",
+      "exercise_group": "વાક્ય ગમ્મત",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચેનાં વાક્યો વાંચો અને વાક્ય ગમ્મત માણો. (ક્રમાંક ૨) ડાબી કૉલમ: તે મને આપો. | જમણી કૉલમ: તેમને આપો.",
+      "answer": "ડાબી બાજુ 'તે મને' (એ વસ્તુ મને) આપો — એટલે કે વક્તાને પોતાને આપવાનું કહે છે. જમણી બાજુ 'તેમને' (એમને, માનાર્થે) આપો — એટલે કે કોઈ ત્રીજી વ્યક્તિને આપવાનું કહે છે.",
+      "explanation": "'તે' અને 'મને' વચ્ચેની જગ્યા કાઢી નાખતાં એક નવો જ શબ્દ 'તેમને' બને છે, અને અર્થ 'મને આપો'માંથી 'એમને આપો' એમ સાવ બદલાઈ જાય છે — આ જ વાક્ય-ગમ્મત છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Word-boundary (શબ્દ-વિભાજન) pun drill, unconnected to the ગઝલ's imagery — left unmapped like the rest of this block.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX40",
+      "exercise_group": "વાક્ય ગમ્મત",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચેનાં વાક્યો વાંચો અને વાક્ય ગમ્મત માણો. (ક્રમાંક ૩) ડાબી કૉલમ: આ દેશને માન આપો. | જમણી કૉલમ: આદેશને માન આપો.",
+      "answer": "ડાબી બાજુ 'આ દેશને' (આ રાષ્ટ્રને) માન આપો — દેશને માન આપવાની વાત. જમણી બાજુ 'આદેશને' (હુકમને) માન આપો — કોઈ આદેશનું પાલન કરવાની વાત.",
+      "explanation": "'આ' અને 'દેશને' વચ્ચેની જગ્યા કાઢી નાખતાં 'આદેશને' શબ્દ બને છે — 'આ દેશ' (this country) સાવ જુદા શબ્દ 'આદેશ' (order)માં ફેરવાઈ જાય છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Word-boundary pun drill; left unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX41",
+      "exercise_group": "વાક્ય ગમ્મત",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચેનાં વાક્યો વાંચો અને વાક્ય ગમ્મત માણો. (ક્રમાંક ૪) ડાબી કૉલમ: આ પોપટ લાલ મરચું ખાય છે. | જમણી કૉલમ: આ પોપટલાલ મરચું ખાય છે.",
+      "answer": "ડાબી બાજુ 'આ પોપટ, લાલ મરચું ખાય છે' — એટલે કે એક પોપટ પક્ષી લાલ મરચું ખાય છે. જમણી બાજુ 'આ પોપટલાલ મરચું ખાય છે' — 'પોપટલાલ' એ કોઈ વ્યક્તિનું નામ છે, જે મરચું ખાય છે.",
+      "explanation": "'પોપટ' અને 'લાલ' વચ્ચેની જગ્યા કાઢી નાખતાં એ બંને શબ્દો ભેગા થઈ એક વ્યક્તિ-નામ 'પોપટલાલ' બની જાય છે — પોપટ પક્ષીની વાત માણસના નામની વાતમાં ફેરવાઈ જાય છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Word-boundary pun drill; left unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX42",
+      "exercise_group": "વાક્ય ગમ્મત",
+      "skill": "vocabulary",
+      "prompt_verbatim": "નીચેનાં વાક્યો વાંચો અને વાક્ય ગમ્મત માણો. (ક્રમાંક ૫) ડાબી કૉલમ: આ તોરણ લીલાં છે. | જમણી કૉલમ: આ તો રણ લીલાં છે.",
+      "answer": "ડાબી બાજુ 'આ તોરણ (બારણા પર બાંધવાનું શણગાર-તોરણ) લીલાં છે.' જમણી બાજુ 'આ તો રણ (રેતાળ પ્રદેશ) લીલાં છે' — એટલે કે 'આ તો ખરેખર લીલુંછમ રણ છે' એવો અર્થ.",
+      "explanation": "એક જ શબ્દ 'તોરણ'ને 'તો' અને 'રણ' એમ બે શબ્દોમાં તોડી નાખતાં, ઘર-શણગારની વાત જમીનના રણની વાતમાં ફેરવાઈ જાય છે — શબ્દ-વિભાજનની સૌથી નાટકીય જોડ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Word-boundary pun drill; left unmapped.",
+      "is_model_answer": false,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX43",
+      "exercise_group": "અનુવાદ",
+      "skill": "writing",
+      "prompt_verbatim": "આપેલા ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.\nભારતના બધાં રાજ્યોમાં ગુજરાત સૌથી અનોખું રાજ્ય છે. ગુજરાતને સૌથી લાંબો દરિયાકિનારો મળ્યો. આશરે 1600 કિલોમીટર લાંબા દરિયાકિનારાને અનેક નાનાં-મોટાં બંદરો આવેલાં છે. કચ્છનો અખાત અને ખંભાતનો અખાત એમ બે મોટા અખાત આવેલા છે.",
+      "answer": "Among all the states of India, Gujarat is the most unique state. Gujarat has the longest coastline. Along this roughly 1600-kilometre-long coastline are many small and big ports. There are two big gulfs — the Gulf of Kutch and the Gulf of Khambhat (Cambay).",
+      "explanation": "Model translation given in English because chapter_id records this as an English-medium (gseb_eng_...) school run. A school teaching another first language substitutes its own translation of the same Gujarati paragraph — the content (Gujarat's coastline facts) stays the same, only the target language changes.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Non-Gujarati (English) script inside 'answer' is expected here only, per the L1-translation rule — this is not a script defect. This block is std 8's always-last numbered item, 15/15 chapters.",
+      "is_model_answer": true,
+      "covered_by_topics": []
+    },
+    {
+      "exercise_id": "EX44",
+      "exercise_group": "ચિત્ર-રંગ પૂરો",
+      "skill": "writing",
+      "prompt_verbatim": "દરિયાકિનારાનું ચિત્ર દોરી તેમાં રંગ પૂરો.",
+      "answer": "બાળક પોતાની રીતે દરિયાકિનારાનું ચિત્ર દોરે અને રંગ પૂરે — દા.ત. વાદળી દરિયો, સફેદ ફીણવાળાં મોજાં, પીળી રેતી, એક હોડી, ઊગતો સૂર્ય અને દૂર ક્ષિતિજરેખા.",
+      "explanation": "આ એક ચિત્રકામ-પ્રવૃત્તિ છે, નિશ્ચિત ઉત્તરવાળો પ્રશ્ન નથી — કોઈપણ પ્રામાણિક પ્રયત્ન સ્વીકાર્ય છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": "સૂચવેલા ઘટકો: દરિયો, મોજાં, હોડી, સૂર્ય/ચંદ્ર, રેતીનો કિનારો, ક્ષિતિજરેખા, થોડાં વાદળ કે પક્ષી — શિક્ષક આ યાદી બોર્ડ પર લખી બાળકોને માર્ગદર્શન આપી શકે.",
+      "teacher_note": "Book prints an empty picture-space with no text — an art activity, not a written-answer item.",
+      "is_model_answer": true,
+      "covered_by_topics": [
+        "M2.S4.T8"
+      ]
+    }
+  ],
+  "coverage_report": {
+    "blocks_found": [
+      "શબ્દસમૂહ માટે એક શબ્દ.",
+      "વાતચીત.",
+      "કાવ્યપંક્તિનો અર્થ સમજી પ્રશ્નોના જવાબ લખો.",
+      "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "કવિ સુંદરમ્ લિખિત 'દરિયાને તીર એક ટટળે ટિટોડી...' કાવ્યને 'દરિયાને તીર એક રેતીની ઓટલી' મેળવીને વર્ગમાં તેનું પઠન/ગાન કરો.",
+      "'ટીટોડી અને સાગર' ની અધૂરી વાર્તા પૂર્ણ કરો.",
+      "કાવ્યને આધારે દરિયાનું વર્ણન કરો.",
+      "આ કાવ્યપંક્તિનો અર્થ સમજાવો અથવા આ કાવ્યપંક્તિનું ગદ્યમાં રૂપાંતર કરો.",
+      "કાવ્યમાં વપરાયેલા પ્રાસવાળા શબ્દો શોધીને લખો.",
+      "નીચેનાં વાક્યો વાંચો અને વાક્ય ગમ્મત માણો.",
+      "આપેલા ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "દરિયાકિનારાનું ચિત્ર દોરી તેમાં રંગ પૂરો."
+    ],
+    "blocks_answered": [
+      "શબ્દસમૂહ માટે એક શબ્દ.",
+      "વાતચીત.",
+      "કાવ્યપંક્તિનો અર્થ સમજી પ્રશ્નોના જવાબ લખો.",
+      "નીચેના પ્રશ્નોના જવાબ લખો.",
+      "કવિ સુંદરમ્ લિખિત 'દરિયાને તીર એક ટટળે ટિટોડી...' કાવ્યને 'દરિયાને તીર એક રેતીની ઓટલી' મેળવીને વર્ગમાં તેનું પઠન/ગાન કરો.",
+      "'ટીટોડી અને સાગર' ની અધૂરી વાર્તા પૂર્ણ કરો.",
+      "કાવ્યને આધારે દરિયાનું વર્ણન કરો.",
+      "આ કાવ્યપંક્તિનો અર્થ સમજાવો અથવા આ કાવ્યપંક્તિનું ગદ્યમાં રૂપાંતર કરો.",
+      "કાવ્યમાં વપરાયેલા પ્રાસવાળા શબ્દો શોધીને લખો.",
+      "નીચેનાં વાક્યો વાંચો અને વાક્ય ગમ્મત માણો.",
+      "આપેલા ફકરાનો તમારી પ્રથમ ભાષામાં અનુવાદ કરો.",
+      "દરિયાકિનારાનું ચિત્ર દોરી તેમાં રંગ પૂરો."
+    ],
+    "unanswered": [],
+    "unmapped": [
+      {
+        "exercise_id": "EX6",
+        "exercise_group": "વાતચીત",
+        "reason": "General-knowledge/personal question about the sea's usefulness — no specific echo in this ગઝલ's imagery, which addresses the sea's temperament and moods, not its practical uses."
+      },
+      {
+        "exercise_id": "EX9",
+        "exercise_group": "વાતચીત",
+        "reason": "Aquatic-life question — માછલી/મગર appear only in the separately-quoted રજની મહેતા exercise poem, never in this chapter's own twelve શેર."
+      },
+      {
+        "exercise_id": "EX11",
+        "exercise_group": "વાતચીત",
+        "reason": "Seashore-tree question — no tree imagery anywhere in this ગઝલ's twelve શેર."
+      },
+      {
+        "exercise_id": "EX13",
+        "exercise_group": "વાતચીત",
+        "reason": "Purely personal-experience prompt ('have you seen the sea, where?') with no specific echo in any single શેર's imagery."
+      },
+      {
+        "exercise_id": "EX14",
+        "exercise_group": "કાવ્યપંક્તિનો અર્થ",
+        "reason": "Quotes a separate poem by રજની મહેતા, printed only inside this સ્વાધ્યાય block — not among the ગઝલ's 12 શેર that make up this chapter's reading topics."
+      },
+      {
+        "exercise_id": "EX15",
+        "exercise_group": "કાવ્યપંક્તિનો અર્થ",
+        "reason": "Same quoted રજની મહેતા poem as EX14."
+      },
+      {
+        "exercise_id": "EX16",
+        "exercise_group": "કાવ્યપંક્તિનો અર્થ",
+        "reason": "Same quoted રજની મહેતા poem as EX14."
+      },
+      {
+        "exercise_id": "EX17",
+        "exercise_group": "કાવ્યપંક્તિનો અર્થ",
+        "reason": "Same quoted રજની મહેતા poem as EX14."
+      },
+      {
+        "exercise_id": "EX18",
+        "exercise_group": "કાવ્યપંક્તિનો અર્થ",
+        "reason": "Same quoted રજની મહેતા poem as EX14."
+      },
+      {
+        "exercise_id": "EX28",
+        "exercise_group": "પઠન-ગાન (અન્ય કાવ્ય મેળવીને)",
+        "reason": "Names an external poem by કવિ સુંદરમ્ to be procured and read/sung in class; that poem's text is not part of this chapter and carries no topic of its own."
+      },
+      {
+        "exercise_id": "EX29",
+        "exercise_group": "અધૂરી વાર્તા પૂર્ણ કરો",
+        "reason": "A standalone story-completion prompt about ટિટોડી and the sea, printed as its own apparatus with no reading text of its own among the chapter's twelve શેર-topics."
+      },
+      {
+        "exercise_id": "EX31",
+        "exercise_group": "પંક્તિ-અર્થ / ગદ્યાંતર",
+        "reason": "Quotes a separate couplet by સુરેશ દલાલ, printed only inside this સ્વાધ્યાય block — not among the ગઝલ's 12 શેર."
+      },
+      {
+        "exercise_id": "EX38",
+        "exercise_group": "વાક્ય ગમ્મત",
+        "reason": "Standalone shabda-vibhajan (word-boundary) wordplay drill, unconnected to the ગઝલ's imagery — no reading-text scene to map to."
+      },
+      {
+        "exercise_id": "EX39",
+        "exercise_group": "વાક્ય ગમ્મત",
+        "reason": "Same standalone wordplay drill as EX38."
+      },
+      {
+        "exercise_id": "EX40",
+        "exercise_group": "વાક્ય ગમ્મત",
+        "reason": "Same standalone wordplay drill as EX38."
+      },
+      {
+        "exercise_id": "EX41",
+        "exercise_group": "વાક્ય ગમ્મત",
+        "reason": "Same standalone wordplay drill as EX38."
+      },
+      {
+        "exercise_id": "EX42",
+        "exercise_group": "વાક્ય ગમ્મત",
+        "reason": "Same standalone wordplay drill as EX38."
+      },
+      {
+        "exercise_id": "EX43",
+        "exercise_group": "અનુવાદ",
+        "reason": "L1-translation of an independent factual paragraph about Gujarat's coastline — not drawn from, or echoing, the ગઝલ's own twelve શેર."
+      }
+    ],
+    "_note": "blocks_found lists all 12 verbatim printed headings from 01_meta.json's exercise_inventory, in printed order, matching it entry for entry; std 8 prints no 'સ્વાધ્યાય' banner, so these numbered/pre-block headings under the શબ્દાર્થ box ARE the exercise apparatus. All 44 individually-numbered items (EX1-EX44) across the 12 blocks are answered; none unanswered. 18 of 44 items are recorded unmapped for genuine reasons (quoted from a different poet, standalone wordplay/story apparatus, or no textual echo in this ગઝલ's own imagery) rather than forced into an invented topic link; the remaining 26 map to one or more of this chapter's 12 શેર topics (M1.S1.T1 … M3.S6.T12)."
+  }
+}

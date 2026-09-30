@@ -1,0 +1,48 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "Explanation unit = ઘટના (varta.md, નવલકથાખંડ sub-form), matching 01_meta.json's explanation_unit and structure_inventory.ghatna:4.",
+        "Four [[ઘટના: ...]] markers in 00_chapter_normalized.md (lines 12, 23, 38, 41) map 1:1 to the four STORY_TELLING topics (M2.S2.T2, M2.S3.T3, M2.S4.T4, M2.S4.T5) — none merged, none split.",
+        "No દુહો, પદ, કડી or ટેક present in this chapter (structure_inventory: duha 0, pad 0, kadi 0, tek_occurrences 0), so the દુહો/પદ/ટેક-specific fidelity rules do not apply here.",
+        "No mixed-genre routing needed — single genre (નવલકથાખંડ) throughout.",
+        "Objectives and cut do not violate the avoid list: no imported moral is placed on the comic-satire excerpt; O2/O3/O4/O5 stay inside craft the chapter's own apparatus names (અકથ્ય repetition, Parsi-dialect mimicry, pseudo-scientific reasoning) rather than an invented outside lesson."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 5,
+      "topics": 5,
+      "notes": [
+        "5 reading-scene markers in 00_chapter_normalized.md: [[લેખક-પરિચય]] (line 7) + 4x [[ઘટના: ...]] (lines 12, 23, 38, 41) — all 5 became topics in the same order: M1.S1.T1, M2.S2.T2, M2.S3.T3, M2.S4.T4, M2.S4.T5.",
+        "Pre-reading opener (લેખક-પરિચય / કૃતિ-પરિચય, std-10's unlabeled-box convention) is topic M1.S1.T1, topic_type CONCEPT, per explanation_unit_map.md's std-10 rule that this prose is printed for the student.",
+        "No in-text wrap exists in this excerpt (it ends mid-conversation, unresolved, per 01_meta.json's excerpt-rule note) — no REVIEW topic required and none was fabricated.",
+        "Cross-checked all 4 exercise_inventory groups (MCQ; એક-એક વાક્યમાં ઉત્તર; બે-ત્રણ વાક્યમાં ઉત્તર; સવિસ્તાર ઉત્તર) against every topic_name in 02_structure.json — none appears as a topic. Zero સ્વાધ્યાય topics.",
+        "શબ્દ-સમજૂતી, વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા blocks also do not appear as topics — left as apparatus for Agent 10, consistent with 01_meta.json's extraction_notes.",
+        "No topic covers text no marker claims: all 5 topics correspond exactly to the 5 markers with no extra invented topic."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 5,
+      "notes": [
+        "5 objective_ids (O1-O5), all unique.",
+        "Every home_topic_id (M1.S1.T1, M2.S2.T2, M2.S3.T3, M2.S4.T4, M2.S4.T5) and every anchor[] concept id (M1.S1.T1.C1, M2.S2.T2.C2, M2.S3.T3.C3, M2.S4.T4.C4, M2.S4.T5.C5) resolves to a real node in the tree — verified programmatically.",
+        "strand_to_objective_map covers L1-L5 exactly once each, each mapping to the matching objective_id (L1->O1 ... L5->O5).",
+        "Every topic carries a non-empty objective_ids that resolves to the root registry (verified for all 5 topics).",
+        "Each objective is text-grounded and chapter-specific: O1 traces to the printed લેખક-પરિચય/કૃતિ-પરિચય paragraphs; O2 to the શ્રીરામ/શ્રીકૃષ્ણ/ભીમસેન comparison and 'અકથ્ય' repetition (lines 13-17); O3 to the ટિકિટ-બારી exchange and the chapter's own ભાષા-અભિવ્યક્તિ box naming the Parsi-dialect craft; O4 to the 'દુષ્ટ યવનનો સ્પર્શ થયો છે' quote and નખોદીઓ/ઘોરખોદીઓ names; O5 to the shastra-based નામ-વહેમ argument. None could be pasted into another chapter (each names specific characters, quoted lines, or plot beats unique to this excerpt) and each serves teaching_lens 'ઘટના + પાત્ર + વળાંક'.",
+        "Id grammar verified against naming_conventions.md: M/S/T continuous and never restart (T1..T5 across the chapter, S1..S4 never restarting per module); concept ids are chapter-continuous and equal to their topic's t-number (one concept per topic: C1..C5 matching T1..T5); no M1.S1.T1.P1-style objective code anywhere — objectives live only in the root O{n} registry."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "This chapter has no verse form at all (structure_inventory: duha 0, pad 0, kadi 0, tek_occurrences 0) — genre is નવલકથાખંડ (a sub-form of વાર્તા per _genre_index.md's fold table), cut purely ઘટના-wise per varta.md and explanation_unit_map.md.",
+    "The excerpt is genuinely unresolved (ends mid-conversation on '...ઘણાએ અજમાવી જોયેલું છે.') per varta.md's નવલકથાખંડ excerpt rule; 02_structure.json's own notes correctly record that no topic or downstream field may narrate what happens after the excerpt ends. This is consistent with the source and not a coverage gap.",
+    "M2.S4 groups two ઘટના (સ્નાન, પછી સહપ્રવાસીઓ-ચર્ચા) under one segment as a descriptive grouping choice (both occur inside the train compartment) — each ઘટના marker still holds its own topic (M2.S4.T4, M2.S4.T5), so this is not a merge and not a fidelity violation. Recorded here as a non-blocking note, matching 02_structure.json's own note on this point.",
+    "original_chunk is empty and concepts[] carry only concept_name shells in 02_structure.json by design at this stage (Agent 5 fills original_chunk; Agent 12 fills explanation/real_life_example) — this is expected for the structure stage and not evaluated as a fidelity or coverage defect here."
+  ]
+}

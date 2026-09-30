@@ -1,0 +1,46 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "Explanation unit is 'તર્કનો એક તંતુ' (a strand of reasoning) as declared in both 01_meta.json and 02_structure.json, matching samvad_nibandh.md's નિબંધ-half explanation unit exactly — this chapter is the profile's own cited single-voice anchor, and the cut follows the profile's own prescribed shape for it (three London-visit anecdotes as strands, then the argument strands that land them, then the final ask).",
+        "Marker-to-topic mapping verified directly against 00_chapter_normalized.md: 2 parichay markers ([[લેખક-પરિચય]], [[કૃતિ-પરિચય]]) + 3 [[ઘટના: ...]] + 7 [[તર્ક: ...]] + 1 [[સંવાદ: ...]] = 13 markers, in the same order as the 13 topics in 02_structure.json (M1.S1.T1 through M4.S6.T13). One marker = one topic throughout — no merges, no splits, no reordering.",
+        "કડી/દુહો/પદ counts are all 0 per structure_inventory — the 'no two દુહા share a topic', 'no પદ is split' and per-occurrence-ટેક checks do not apply to this ચિંતનાત્મક નિબંધ. tek_occurrences is 0 and the chapter carries no genre.",
+        "Refrain-analogue rule followed correctly: the repeated 'જાય...જાય...' construction (named as craft in the chapter's own printed ભાષા-અભિવ્યક્તિ box) is NOT cut as its own topic — 02_structure.json's own notes record it landing inside M3.S5.T11, M3.S5.T12 and M4.S6.T13's original_chunk spans, exactly as samvad_nibandh.md's Refrain-analogue rule requires (quote where it lands, never a topic of its own).",
+        "G6 wrong-route gate checked directly against 00_chapter_normalized.md (grep for a margin-position speaker label '^\\s*\\S+\\s*:' and for parenthetical stage directions): none found outside the ordinary MCQ options, the date-of-birth line '(જન્મ : 4-11-1925)', and two mid-sentence asides ('અરે, આપણનેય હો !', 'અને સંસ્કૃત આવડે તો સંસ્કૃતમાં') — none of which are speaker labels or stage directions. Confirms samvad_nibandh.md (single-voice નિબંધ half) is the correct route, not natak_ekanki.md.",
+        "Topic names read as argument moves or anecdote strands (સ્થાપના/પડકાર/પુરાવો/માગણી) rather than fact-bundle labels, so no G7 wrong-route signal. Objective texts contain no second-person directive language ('...કરો', 'તમારે... જોઈએ') that would trip G2, and no character-judging word against the London family, the young Gujaratis abroad, or the Africa reformers that would trip G3 — consistent with the essay's own even-handed tone.",
+        "The single two-voice [[સંવાદ: ...]] span (M3.S5.T10) keeps both the સાક્ષર and the લેખક as separately quoted, attributed speakers per the profile's G1 instantiation point — nothing at this structural stage collapses it to one voice."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 13,
+      "topics": 13,
+      "notes": [
+        "All 13 topics correspond 1:1, in order, to the 13 markers in 00_chapter_normalized.md (2 લેખક-પરિચય/કૃતિ-પરિચય + 3 ઘટના + 7 તર્ક + 1 સંવાદ). No marker is missing a topic and no topic covers text that no marker claims.",
+        "The unmarked transition paragraph after the third ઘટના ('ઉપનિષદની એ પ્રાર્થના વિશ્વવિખ્યાત છે ... પણ પોતાની મેળે ન બોલે.') carries no marker of its own and falls inside M2.S2.T5's span; it is directly answered by O5's objective_text ('ગુજરાતની શાળાનાં બાળકો સાથે એની શી સરખામણી લેખક કરે છે'), confirming it was folded into T5 rather than silently dropped.",
+        "No REVIEW-type topic exists, and none was needed — the essay carries no in-text summary/wrap block between તર્ક strands, matching 02_structure.json's own note that it runs as one continuous first-person case.",
+        "All three exercise_inventory groups (MCQ-4, બે-ત્રણ વાક્યોમાં ઉત્તર-2, છ-સાત વાક્યોમાં ઉત્તર-2) cross-checked against all 13 topic_names and the marker list — none became a topic; all correctly left for Agent 10 / exercise_solutions.json.",
+        "શબ્દ-સમજૂતી, વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા apparatus blocks also checked against the topic list — none cut as topics, consistent with their teacher/exercise-facing status under global_content_rules.md and explanation_unit_map.md."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 13,
+      "notes": [
+        "objective_id O1-O13 all unique; strand_to_objective_map covers legacy_id L1-L13 exactly once each, no gaps and no duplicates.",
+        "Every home_topic_id (M1.S1.T1 through M4.S6.T13) and every anchor[] concept id (M1.S1.T1.C1 through M4.S6.T13.C13) resolves to a real node in this tree — checked individually against modules[].segments[].topics[].concepts[].",
+        "Every topic carries exactly one objective_ids entry, resolving to the registry — a clean 1:1 topic:objective mapping across all 13 topics.",
+        "Each objective_text checked against 00_chapter_normalized.md for grounding: O1 traces to the લેખક-પરિચય paragraph (full name, Lagrono/Spain birthplace, St. Xavier's College Ahmedabad, named essay collections); O2 to કૃતિ-પરિચય; O3-O5 to the three ઘટના respectively; O6 and O7 to their named તર્ક paragraphs (સાડી-વિરોધાભાસ, ભાષાનો સવાલ); O8 to the આફ્રિકા પ્રયોગ તર્ક; O9 to the કબૂલાત-વળાંક તર્ક; O10 to the સંવાદ; O11 and O12 to their તર્ક paragraphs (વાંધો-જવાબ, ગીતાજી-પ્રયોગ); O13 to the closing માગણી paragraph. No fact outside the chapter text was found in any objective — all are chapter-specific (named incidents, proper nouns, quoted lines) that could not be pasted into another chapter, and each serves the teaching_lens 'તર્ક + દૃષ્ટિકોણ + જવાબદારી'.",
+        "Id grammar checked against reference/naming_conventions.md and reference/phase2_contract.md: M1-M4, S1-S6, T1-T13, C1-C13 are all dotted and globally continuous with no gaps; the concept number equals the topic number throughout (one concept per topic, chapter-continuous C-counter); no M1.S1.T1.P1-style objective code appears anywhere; bloom_level is correctly capitalised at the root (Remember/Understand/Analyze/Evaluate) and reaches Remember through Evaluate across the ladder without being capped by topic difficulty."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Segment/module names use a spelled-out Gujarati number word for a genuine count ('લંડનની મુલાકાતોની ત્રણ ઘટના' = 'three incidents') rather than an ordinal index ('ઘટના 3') — this is a descriptive count, not the numbered-label pattern global_content_rules.md rule 4 / naming_conventions.md forbid (which targets sequence-referencing digits like 'કડી 2', 'પ્રશ્ન 4'). Not treated as a violation; recorded for Agent 13's awareness only.",
+    "Uneven segment/module grouping (M1 and M4 hold one segment each; M3 holds three segments of 2/2/3 topics) is by the cutting agent's own design, following the argument's internal turns rather than an even split, per 02_structure.json's own note. Non-blocking; travels to Agent 13's pacing read."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "textbook": null,
+  "textbook_url": "../Textbooks-pdf/std-9/ch-08-aabhar.pdf",
+  "textbook_pages": "32–34",
+  "source": "printed folio read directly off pdftoppm renders (250 dpi) of pdf pp. 1 and 3 of book/ch-08-aabhar.pdf (3-page chapter file): folio 32 on the first page, folio 34 on the last page, both with running foot 'ગુજરાતી (દ્વિતીય ભાષા), ધોરણ ૯' — cross-checked against ../Textbooks-pdf/std-9/manifest.json's ch-08 row (printed_start 32, pdf_start 36, pdf_end 38, matching printed_to_pdf_offset 4) and profiles/boards/gseb_gujarati.md's std-9 chapter table (printed pp 32–34). All three sources agree; no arithmetic substituted for a reading.",
+  "confidence": "medium",
+  "gaps": [
+    "textbook_url is a local path — the GSEB readers have no hosted URL.",
+    "textbook is left null / unconfirmed: the std-9 cover has not been read (profiles/boards/gseb_gujarati.md explicitly flags 'cover not read yet' for std 9), so the printed cover title cannot be asserted. 01_meta.json also carries textbook: null for this chapter. The rendered page footers print only the running head 'ગુજરાતી (દ્વિતીય ભાષા), ધોરણ ૯', not the full cover title, so that running head is not substituted for a confirmed cover reading.",
+      "confidence graded medium rather than high per this agent's own rubric: both end folios were read directly off renders (32 and 34), but the title/cover confirmation leg is not met."
+  ]
+}

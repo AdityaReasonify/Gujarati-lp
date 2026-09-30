@@ -1,0 +1,47 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "Explanation unit is એક કડી (urmikavya_geet.md). 00_chapter_normalized.md carries 5 [[કડી n]] markers; structure carries exactly 5 topics anchored one-per-કડી (M2.S3.T3=કડી1, M2.S3.T4=કડી2, M2.S3.T5=કડી3, M2.S4.T6=કડી4, M2.S4.T7=કડી5). Counts equal.",
+        "0 દુહો, 0 પદ in this chapter per structure_inventory in 01_meta.json and grep of 00_chapter_normalized.md — the દુહો/પદ split-and-merge checks are vacuously satisfied (N/A).",
+        "ટેક handling verified against the profile's changed-words rule, which this chapter's row in urmikavya_geet.md names explicitly by example: 5 [[ટેક]] markers total; only the opening occurrence carries changed words (ટેક couplet + 'જ્યાં જ્યાં બોલાતી ગુજરાતી / ત્યાં ત્યાં ગુર્જરીની મહોલાત') and is cut as its own topic (M2.S2.T2); the remaining 4 occurrences are word-for-word identical to the fixed refrain and are correctly NOT cut as separate topics — each is instead referenced via depends_on on the કડી topic it closes (T3, T4, T5 depend on T2; T7 depends on T2 and T6). This matches 'Where the ટેક returns identical, teach it once and reference it after' and the profile's own worked note for this exact chapter.",
+        "Avoid-list scan of all 7 objective_text strings and all notes: no slogan-shaped sentence ('આપણે ... જોઈએ' etc.) — every objective is descriptive/analytical ('કહેવું', 'શોધવું'). No political framing — O5 names કૃષ્ણ, દયાનંદ, દાદા only as the poem's own pride-figures (પુણ્યભૂમિ/ગૌરવ), no government/party/scheme named. No scientific-mechanism vocabulary. No literal reading of a figurative line asserted as fact. Objectives serve the ચિત્ર + ભાવ + અલંકાર lens: O2–O5 and O7 each anchor on a concrete picture or quoted line before any feeling claim.",
+        "Sensitivity/political-framing pull is real (T5 names three historical figures; chapter apparatus reaches for 'ગુજરાત-ગૌરવ' framing) but is flagged as a forward note in 02_structure.json for Agent 8/12, not resolved by rewriting objectives here — no gate violation found in what Agent 2 actually wrote."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 7,
+      "topics": 7,
+      "notes": [
+        "Marker order in 00_chapter_normalized.md: [[કવિ-પરિચય]] -> [[કૃતિ-પરિચય]] -> [[ટેક]](opening) -> [[કડી 1]] -> [[ટેક]] -> [[કડી 2]] -> [[ટેક]] -> [[કડી 3]] -> [[ટેક]] -> [[કડી 4]] -> [[કડી 5]] -> [[ટેક]](closing) -> apparatus/exercises. Topic order in 02_structure.json: T1(કવિ-પરિચય+કૃતિ-પરિચય combined) -> T2(ટેક opening) -> T3(કડી1) -> T4(કડી2) -> T5(કડી3) -> T6(કડી4) -> T7(કડી5). Order matches the source exactly; the 4 identical ટેક repeats are folded into depends_on on the adjacent કડી topics per the profile's identical-ટેક rule, not dropped.",
+        "Pre-reading opener (કવિ-પરિચય + કૃતિ-પરિચય) is a topic (M1.S1.T1) — combining the two markers into one CONCEPT topic is a documented content judgement (both are short: two biographical lines + one short thematic paragraph), not a coverage gap; the note in 02_structure.json flags it for Agent 13 as instructed by explanation_unit_map.md's apparatus rule, which permits prose printed for the student to become a CONCEPT topic.",
+        "No in-text REVIEW/wrap block exists in this chapter — none required.",
+        "No સ્વાધ્યાય block became a topic: cross-checked all 3 exercise_inventory entries in 01_meta.json (MCQ; બે-ત્રણ વાક્યોમાં ઉત્તર; પાંચ-છ વાક્યોમાં ઉત્તર) against all 7 topic_name values and all original_chunk plans — no overlap. શબ્દ-સમજૂતી (3 sub-blocks), વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are likewise correctly excluded as apparatus, reserved for Agent 10/key_terms sourcing.",
+        "No topic covers text that no marker claims — every topic's marker note in 02_structure.json cites an exact [[...]] marker from 00_chapter_normalized.md; verified against the grep listing of all markers in the source file."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 7,
+      "notes": [
+        "Root objectives[] present with 7 entries; objective_id values O1-O7 all unique (verified programmatically).",
+        "Every home_topic_id (M1.S1.T1, M2.S2.T2, M2.S3.T3, M2.S3.T4, M2.S3.T5, M2.S4.T6, M2.S4.T7) and every anchor[] concept id resolve to a node in the tree (verified programmatically against the full topic_id/concept_id set).",
+        "strand_to_objective_map covers every legacy_id (L1-L7) exactly once, matching O1-O7 one-to-one (verified programmatically).",
+        "Every topic carries objective_ids resolving to the registry: T1->O1, T2->O2, T3->O3, T4->O4, T5->O5, T6->O6, T7->O7 (verified programmatically, no dangling refs).",
+        "Each objective is text-grounded and chapter-specific: O1 names કવિ ખબરદાર by name from કૃતિ-પરિચય; O2 quotes both ટેક wordings verbatim ('જ્યાં જ્યાં વસે' / 'જ્યાં જ્યાં બોલાતી'); O3 references સૂર્યનાં કિરણો/ઉષા (કડી 1's own images); O4 quotes 'ગુર્જર વાણી, ગુર્જર લહાણી, ગુર્જર શાણી રીત' verbatim; O5 names કૃષ્ણ, દયાનંદ and 'ગુર્જર ભરતી-છાતી' (કડી 3's own images); O6 quotes 'અણકીધાં કરવાના કોડે અધૂરાં પૂરાં થાય' verbatim (કડી 4); O7 quotes the closing જયઘોષ couplet verbatim (કડી 5). None could be pasted into another chapter. Each serves teaching_lens ચિત્ર + ભાવ + અલંકાર — the picture or line is named before any feeling/craft claim.",
+        "Ids match reference/naming_conventions.md: hierarchy dotted and continuous — module ids {M1,M2}, segment ids {S1,S2,S3,S4} continuous across the whole chapter (not restarting per module), topic ids T1-T7 continuous, concept ids C1-C7 chapter-continuous and equal to their topic's number (one concept per topic throughout) — all verified programmatically. No M1.S1.T1.P1-style objective code found anywhere in the file (grep for P-style codes returned none). depends_on values all resolve to valid topic ids. No numbers found embedded in any module_name/segment_name/topic_name/concept_name display string (verified programmatically) — topic names are descriptive ('સૂર્યનાં કિરણો અને ઉષાનું ચિત્ર', not 'કડી 1')."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "This is a first pass, not a resume — no prior 04_validation.json or 04_converged.json existed in output9/ch03 before this run.",
+    "original_chunk is empty on every topic in 02_structure.json, as the file's own note records ('original_chunk stays empty; Agent 5 fills it'). This is expected at this pipeline stage per phase2_contract.md's topic key list and is not a verbatim-fidelity check owed to Agent 4 — Agent 4 checks the CUT (markers vs. topics), not the verbatim text itself, which Agent 5 has not yet written.",
+    "Two judgement calls made by Agent 2 are carried forward as non-blocking observations for Agent 13, exactly as 02_structure.json itself flags them: (1) કવિ-પરિચય + કૃતિ-પરિચય combined into one CONCEPT topic rather than split, on documented content grounds (both apparatus pieces are short); (2) the ટેક that closes કડી 3 is attributed to T5 rather than to the following કડી 4 (T6), based on marker order in 00_chapter_normalized.md ([[ટેક]] precedes [[કડી 4]]'s line) even though 01_meta.json records the two printed blocks as visually fused with no blank line. Both are defensible readings of the source and do not affect marker-vs-topic counts checked here.",
+    "Sensitivity note (કડી 3 naming કૃષ્ણ, દયાનંદ, દાદા; the chapter's general pull toward ગુજરાત-ગૌરવ framing) is carried forward in 02_structure.json's own notes for Agent 8/12 — not a blocking finding at Agent 4, since no avoid-list rule is actually violated in the cut, objectives, or topic names as written."
+  ]
+}

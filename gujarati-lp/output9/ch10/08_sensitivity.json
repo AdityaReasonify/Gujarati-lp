@@ -1,0 +1,36 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T2",
+      "areas": ["સમુદાય"],
+      "caution": "'કૃતિ-પરિચય' names 'કાળાંબજાર કરવાવાળા વેપારીઓ' as the guilty party; an explanation that widens this to 'વેપારીઓ' (traders/the business community) as a whole, or that lets a child hear it as any real caste or trading community, misrepresents a real occupational group on the strength of one poem's accusation.",
+      "guidance": "Keep `explanation` scoped exactly as the chunk does — 'કાળાબજાર કરનારા', 'સંગ્રહખોર' (hoarders/black-marketeers), never plain 'વેપારીઓ' standing alone as if all traders were meant; do not let `real_life_example` supply a real shop, community or caste name to fill the poem's deliberately unnamed 'એ લોકો'.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "areas": ["સમુદાય"],
+      "caution": "The three-rung pattern (કાપડ/ધાન્ય/ઔષધ) describes real hoarding of necessities during scarcity; a real_life_example that names an actual trade, shop-type or shopkeeper community to illustrate it turns the poem's charge against unnamed 'એ લોકો' into an accusation against a real, identifiable group.",
+      "guidance": "Anchor `real_life_example` in an act a child can picture without a name attached — a shop that will not sell before the price climbs, festival-season price-gouging seen at a local bજાર — never a named community, caste or even a specific real shop.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "areas": ["સમુદાય"],
+      "caution": "The 'ઊધઈ' (termite/vermin) metaphor is a strong dehumanising image; teaching it as a general licence to call any group of people vermin, or extending it beyond hoarding behaviour to a real community, repeats the exact move that makes dehumanising language dangerous in real life.",
+      "guidance": "In `explanation`, tie the ઊધઈ image strictly to the *behaviour* the poem names — hoarding necessities while people suffer — and never let it drift onto a real person, caste or community in `real_life_example`; the rૂપક stays the poet's word for an act, not the pipeline's word for a people.",
+      "severity": "hard"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "સમુદાય",
+      "guidance": "This chapter's entire accusation runs on the printed text's own deliberately unnamed 'એ લોકો' — no caste, trade, religion or region is named anywhere on the page, and none should be supplied downstream (Agent 1's own extraction_notes already record this hard gate). Every explanation, real_life_example and recall answer across M1.S1.T2, M2.S2.T3, M2.S2.T4 and M2.S3.T5 must keep the target as the poem's own hoarding behaviour, never a real identifiable group."
+    },
+    {
+      "area": "સમુદાય",
+      "guidance": "The વિદ્યાર્થી-પ્રવૃત્તિ block's third item asks students to visit a poor locality and take notes on people's situation ('ગરીબ લોકોના વિસ્તારની મુલાકાત લઈ તેમની પરિસ્થિતિનો અભ્યાસ કરી નોંધ કરો'). Agent 10's model answer/guidance for this activity should frame it as understanding neighbours' real difficulties with respect, never as an observational or pitying exercise that treats poor families as a curiosity to study."
+    }
+  ],
+  "none_found": false
+}

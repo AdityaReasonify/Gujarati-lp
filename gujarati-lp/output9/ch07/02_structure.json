@@ -1,0 +1,194 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch7",
+  "genre": "urmikavya_geet",
+  "active_genre_profiles": ["urmikavya_geet.md"],
+  "explanation_unit": "એક કડી",
+  "teaching_lens": "ચિત્ર + ભાવ + અલંકાર",
+  "guiding_question": "'નૂતન યુગના પ્રવાસી' બનવા માટે કવિ કઈ કઈ વસ્તુઓ છોડી દેવાનું અને શું નવું સર્જવાનું કહે છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ-પરિચય અને કૃતિ-પરિચયમાં અપાયેલી માહિતી પરથી કવિ બાલમુકુન્દ દવેનું નામ અને આ ગીતમાં કઈ ઉત્સાહભરી નેમ વ્યક્ત થઈ છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1", "M1.S1.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'વાટે વિહરતા' અને 'પ્રગતિના પંથના પ્રવાસી' પંક્તિઓમાં કયો વર્ણાનુપ્રાસ છે તે શોધી, એ પ્રવાસીને કેવી વિશિષ્ટ ઓળખ આપે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": ["M2.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'અમે વિચરતા વગડાના વાસી' પંક્તિમાં પ્રથમ કડીનો વર્ણાનુપ્રાસ કઈ રીતે આગળ વધે છે, અને પ્રવાસી કઈ કઈ બાબતો દૂર કરવાનો સંકલ્પ લે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": ["M2.S2.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ત્રીજી કડીમાં 'રંગીન' વિશેષણ ધરતીના અનેક રંગોનું કઈ રીતે સૂચન કરે છે તે સમજાવી, 'પૃથ્વી પર સ્વર્ગને ઉતારશું' પંક્તિ કઈ રીતે ગીતના સમગ્ર સંકલ્પનું શિખર બને છે તે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": ["M2.S3.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "કવિ-પરિચય અને ગીતભૂમિકા",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "કવિ અને ગીતનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "કવિ બાલમુકુન્દ દવેનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "કવિ બાલમુકુન્દ દવેનો પરિચય"
+                }
+              ],
+              "note": "Marker [[કવિ-પરિચય]]. Prose printed for the student before the text — CONCEPT topic per explanation_unit_map.md's kavi/lekhak-parichay rule, applied here because std-9's apparatus pattern (profiles/students/std-9.md §1.4) prints કવિ-પરિચય and કૃતિ-પરિચય as two separate markers, not std-10's single unlabelled paragraph. Kept SEPARATE from the કૃતિ-પરિચય topic (unlike output9/ch03, which combined a thin two-line bio with a thin theme-paragraph into one topic) because this paragraph is substantial and does a genuinely different job on its own: five sentences of biographical fact — birthplace (વડોદરા જિલ્લાના મસ્તુપુરા), a named profession (નવજીવનમાં પ્રૂફરીડર), one આખ્યાન-ઢબની કૃતિ ('ધ્રુવાખ્યાન'), two named કાવ્યસંગ્રહો ('પરિક્રમા', 'કુંતલ') and three named બાળગીત-સંગ્રહો ('સોનચંપો', 'અલ્લકદલ્લક', 'ઝરમરિયાં') — none of which the poem's own કૃતિ-પરિચય repeats. This mirrors output9/ch01's judgement (kept separate) rather than ch03's (combined), on the same test: is each paragraph's content large and distinct enough to teach on its own."
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "ગીતના ભાવ અને હેતુનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "ગીતના ભાવ અને હેતુનો પરિચય"
+                }
+              ],
+              "note": "Marker [[કૃતિ-પરિચય]]. Prose printed for the student naming this ગીતનો ભાવ directly: 'આ પૃથ્વી ઉપર કશુંક નવું, ચિરસ્થાયી રચી જવાનો ઉત્સાહ આ ગીતમાં વ્યક્ત થયો છે' — મોહમાયા, જૂઠી કીર્તિ, આળસ-નિરાશાનો ત્યાગ કરી પૃથ્વી ઉપર જ સ્વર્ગ સર્જવાની નેમ. depends_on the poet-intro topic since the work-introduction presumes the poet has already been named, matching output9/ch01 and ch03's shared depends_on pattern for this pair."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "નૂતન યુગના પ્રવાસીનું ગીત",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "પ્રવાસીની ઓળખ અને સંકલ્પ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "નૂતન યુગના પ્રવાસીની ઓળખ",
+              "topic_type": "POEM",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T2"],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "નૂતન યુગના પ્રવાસીની ઓળખ"
+                }
+              ],
+              "note": "Marker [[કડી 1]]. Four printed lines (alternating lines indented, per 01_meta.json's genre_signals.structure): 'નવસર્જનની વાટે વિહરતા / અમે પ્રગતિના પંથના પ્રવાસી, / ઉર આશા ઉલ્લાસ ભરી ભમતા / અમે નૂતન યુગના પ્રવાસી.' — the poem's opening self-portrait: પ્રગતિના પંથના પ્રવાસી, હૃદયમાં આશા-ઉલ્લાસ, and the FIRST occurrence of the ટેક 'અમે નૂતન યુગના પ્રવાસી.' as this કડી's own printed last line. IMPORTANT for Agent 4/5/12: 00_chapter_normalized.md carries NO separate [[ટેક]] marker anywhere in this chapter (unlike e.g. output9/ch03, whose page prints [[ટેક]] as its own floating marker between કડી blocks) — Agent 1 transcribed the identical refrain line as the final printed line inside each of the three [[કડી N]] blocks. The urmikavya_geet.md hard gate on identical-wording ટેક ('teach it once at first occurrence, reference after — never re-taught') still applies as a TEACHING instruction to Agent 12, even though there is no separate marker/topic to avoid creating here: the refrain is simply the tail of each કડી's own original_chunk. This topic (કડી 1) is where the ટેક is taught in full for the first time; M2.S2.T4 and M2.S3.T5 list this topic in depends_on for that reason, per 01_meta.json's own note that all 3 occurrences are word-for-word identical (tek_occurrences: 3, no wording change). Craft: the printed [[ભાષા-અભિવ્યક્તિ]] block names, verbatim, the વર્ણાનુપ્રાસ in 'વાટે વિહરતા' and 'પ્રગતિના પંથના પ્રવાસી' as what gives the poem its opening લય, and separately names 'નૂતન યુગના'/'પ્રગતિ પંથના' as giving the પ્રવાસી 'વિશેષ અને વિશિષ્ટ ઓળખ' — both facts feed O2 directly and are quoted, not invented; વર્ણાનુપ્રાસ is inside std-9's named 7-અલંકાર ceiling (profiles/students/std-9.md §1.3)."
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "આળસ, નિરાશા અને વેરઝેરના ત્યાગનો સંકલ્પ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M2.S2.T3"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C4",
+                  "concept_name": "આળસ, નિરાશા અને વેરઝેરના ત્યાગનો સંકલ્પ"
+                }
+              ],
+              "note": "Marker [[કડી 2]]. Four printed lines: 'નીંદ આળસ નિરાશા હટાવશું, / વેરઝેર અમે મિથ્યા મિટાવશું, / અમે વિચરતા વગડાના વાસી, / અમે નૂતન યુગના પ્રવાસી.' — the first concrete resolve: sleep, laziness, despair and hatred/enmity named and rejected, self-image shifting to 'વગડાના વાસી' (wilderness-wanderer), closing on the identical ટેક (second occurrence). depends_on M2.S2.T3 both for straightforward sequence (next કડી read) and because this કડી closes on the ટેક first taught there — not re-taught here, per the profile's identical-ટેક rule. Craft: the [[ભાષા-અભિવ્યક્તિ]] block explicitly says the opening લય 'ઝિલાતો રહ્યો છે' in 'અમે વિચરતા વગડાના વાસી' — the same વર્ણાનુપ્રાસ pattern from કડી 1 continuing here, which O3 asks the child to trace."
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "પૃથ્વી પર સ્વર્ગનું સર્જન",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "પૃથ્વી પર સ્વર્ગ ઉતારવાનો સંકલ્પ",
+              "topic_type": "POEM",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": ["M2.S2.T4", "M2.S2.T3"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "પૃથ્વી પર સ્વર્ગ ઉતારવાનો સંકલ્પ"
+                }
+              ],
+              "note": "Marker [[કડી 3]]. Seven printed lines (01_meta.json's extraction_notes record this as measured 4/4/7 against a prior inventory's 4/4/8 — the rendered page wins per genre_diagnosis.md, and structure_inventory.kadi stays 3 either way): 'મોહમાયાના ફંદને ફગાવશું / જૂઠી કીર્તિના ભૂતને ભગાડશું, / અજબ આશાનાં સ્વપ્ન સજાવશું, / અમે પૃથ્વી પર સ્વર્ગને ઉતારશું / હવે રહેશો નહિ કો ઉદાસી / અમે રંગીન ધરાના રહેવાસી, / અમે નૂતન યુગના પ્રવાસી.' Longer than the other two કડી because that is what the page prints (an uneven 4/4/7 split), not a transcription gap — flagged per spec's instruction on uneven topic length. Kept as ONE topic, not split: every line here builds one continuous movement (shedding મોહમાયા/જૂઠી કીર્તિ → dreaming → the central declaration 'પૃથ્વી પર સ્વર્ગને ઉતારશું' → 'કોઈ ઉદાસી નહિ રહે' → 'રંગીન ધરાના રહેવાસી' → the closing, third and final, identical ટેક) rather than two separable ideas — the genre profile's 'may split' clause is a discretion, not a default, and nothing here forks into an unrelated second theme. depends_on both M2.S2.T4 (immediate sequence) and M2.S2.T3 (the identical ટેક this કડી closes on, third and final occurrence, first taught there) — the same double-dependency pattern output9/ch03 used for its own closing કડી. difficulty set 'hard' relative to this chapter only (teaching_lens_map.md's std 9-10 criterion is reader friction, never craft-naming or length): this કડી carries the chapter's densest run of new તત્સમ/compound vocabulary in one breath — મોહમાયા, ફંદ, જૂઠી કીર્તિ, ભૂત (used figuratively, not literally, per the profile's 'literal reading of a figurative line' avoid-gate), ભગાડવું, ઉદાસી, રંગીન, ધરા, રહેવાસી — more than either of the two preceding, shorter કડી. Craft: the [[ભાષા-અભિવ્યક્તિ]] block names, verbatim, the single adjective 'રંગીન' standing in for 'વિવિધરંગી પોશાકોવાળી, ફળ-પુષ્પો, પ્રાણીઓવાળી ધરતી' — 'અલ્પમાં અધિકનું સૂચન' — and separately names the continuing વર્ણાનુપ્રાસ in 'અજબ આશાનાં સ્વપ્ન સજાવશું'; both are quoted from the page's own apparatus, not invented, and feed O4 directly."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut: 2 pre-reading CONCEPT topics ([[કવિ-પરિચય]], [[કૃતિ-પરિચય]]) + 3 POEM topics ([[કડી 1]], [[કડી 2]], [[કડી 3]]) = 5 topics total. This is an exact 1:1 match against the 5 reading-scene markers printed in 00_chapter_normalized.md and against structure_inventory.kadi=3 in 01_meta.json (each of the three કડી markers carried by exactly one topic) — no marker silently swallowed, no topic invented where no marker sits, per Agent 2's own 'One marker, one topic' rule and Agent 4's marker-count check.",
+    "No separate [[ટેક]] marker exists anywhere on this chapter's rendered page (see M2.S2.T3's note for the full account): the identical three-word-for-word refrain 'અમે નૂતન યુગના પ્રવાસી.' is printed as the final line inside each of the three [[કડી N]] marker blocks, not broken out as its own floating refrain the way output9/ch03's page does. urmikavya_geet.md's identical-ટેક rule ('teach it once at first occurrence, reference after') is still honoured as a teaching instruction for Agent 12 (full teaching at M2.S2.T3, referenced via depends_on at M2.S2.T4 and M2.S3.T5) even though there is no separate marker or topic to avoid creating — this chapter simply never had one. Flagging for Agent 4 so the absence of any [[ટેક]] marker in the marker-count pass is not mistaken for a swallowed marker.",
+    "કવિ-પરિચય and કૃતિ-પરિચય were kept as TWO separate topics (M1.S1.T1, M1.S1.T2) rather than combined into one, unlike output9/ch03's single combined pre-reading topic. Reason, per the same test ch03's own note applied: is each paragraph's printed content large and distinct enough to teach on its own? Here yes — the કવિ-પરિચય names five separate published works across five sentences (biography), and the કૃતિ-પરિચય is a four-sentence, self-contained account of this specific ગીતનો ભાવ (નવસર્જન-ઉત્સાહ, ત્યાગ, સ્વર્ગ-સર્જન) that repeats none of the biographical facts. This matches output9/ch01's judgement on the same test, not ch03's.",
+    "Craft-naming in objectives (O2 વર્ણાનુપ્રાસ in કડી 1; O3 the same વર્ણાનુપ્રાસ continuing in કડી 2; O4 the single-adjective 'રંગીન' device in કડી 3) is licensed at std 9 (profiles/students/std-9.md §1.3, the named 7-અલંકાર ceiling includes વર્ણાનુપ્રાસ) and is not invented: all three points are named, verbatim, in this chapter's own printed [[ભાષા-અભિવ્યક્તિ]] block, quoted in the relevant topic notes above. No અલંકાર beyond what the page's own apparatus names is asserted anywhere in this file; figures_of_speech[] itself is left for Agent 5/7 to populate from the verse, out of scope for this structure pass.",
+    "શબ્દ-સમજૂતી (સમાનાર્થી/શબ્દાર્થ, વિરુદ્ધાર્થી, તળપદા શબ્દો), all three printed સ્વાધ્યાય blocks (MCQ, બે-ત્રણ વાક્યોમાં ઉત્તર, છ-સાત વાક્યોમાં ઉત્તર), વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are apparatus/exercise matter per global_content_rules.md rule 7 and explanation_unit_map.md's apparatus rule — none cut as a topic here; they remain for Agent 10 (01_meta.json's exercise_inventory) and for key_terms/ભાષા-બોધ/craft sourcing (as used above for O2-O4).",
+    "depends_on records real sequencing dependence only, per 02_structure.md section 5: T2 depends on T1 (poet named before the work is introduced); T3 depends on T2 (the poem is read after its own intro); T4 depends on T3 (next કડી in sequence, plus the identical ટેક first taught there); T5 depends on both T4 (next કડી in sequence) and T3 (the identical ટેક's third and final occurrence, first taught there) — mirroring the double-dependency output9/ch03 used for its own closing કડી.",
+    "Objectives: O1 gives one shared, text-grounded anchor to both pre-reading CONCEPT topics (matching output9/ch01's pattern of one objective covering a poet-intro + work-intro pair); O2, O3 and O4 give one sound, text-grounded objective anchor to each of the three reading-scene (POEM) topics, per 02_structure.md section 4's 'One sound, text-grounded objective anchor per reading scene.' Bloom is laddered Understand (O1, recalling printed apparatus facts) → Analyze (O2, O3, identifying a named device and its effect) → Evaluate (O4, judging how the closing કડી's single image and central declaration form the poem's culminating resolve) — the ceiling is never capped by any topic's difficulty rating, per profiles/students/std-9.md's 'the ceiling never moves' rule.",
+    "difficulty: T1/T2 set 'medium' — moderately તત્સમ/loanword-dense pre-reading prose (પ્રૂફરીડર, આખ્યાનની ઢબમાં, ધ્યાનપાત્ર, ચિરસ્થાયી, નેમ) naming several works and abstract terms an L2 std-9 reader has not yet met in this chapter, but no archaic or dialectal load. T3/T4 set 'medium' — modern diction, new-but-glossable vocabulary (નવસર્જન, પ્રગતિ, પંથ, વગડો, મિથ્યા), a named-device line each. T5 set 'hard' — the chapter's densest run of new તત્સમ/compound vocabulary in one breath (મોહમાયા, ફંદ, જૂઠી કીર્તિ, ભૂત used figuratively, ઉદાસી, રંગીન, ધરા, રહેવાસી) is what stops an L2 reader here, per teaching_lens_map.md's std 9-10 criterion — never the craft-naming itself and never the topic's greater printed length alone.",
+    "No political, religious or communal framing appears anywhere in this chapter's text (કૃતિ-પરિચય and all three કડી stay with મોહમાયા/આળસ/નિરાશા/વેરઝેર/જૂઠી કીર્તિ as universal human traits, and 'સ્વર્ગ' is used as a this-worldly metaphor for a bettered earth, never a theological claim) — no sensitivity flag raised for Agent 8 beyond the profile's standing 'Slogans' and 'Political framing' avoid-gates, which Agent 7/12 must still hold against ('નવસર્જન' and 'નૂતન યુગ' are exactly the kind of collective-uplift language the profile's slogan gate exists to police in a કૂચગીત-adjacent ગીત like this one).",
+    "original_chunk left empty on every topic per spec: 'original_chunk stays empty; Agent 5 fills it.' No verbatim transcription performed beyond what was needed to read the marker boundaries in 00_chapter_normalized.md and to quote the [[ભાષા-અભિવ્યક્તિ]] apparatus lines that ground O2-O4 above.",
+    "Genre prior agreement: 01_meta.json's active_genre_profiles (['urmikavya_geet.md']) matches the profile supplied for this run and the rendered page's own signals (કડી+ટેક structure by a named, dated modern poet, no છાપ, std-9 MCQ→2-3-વાક્ય→6-7-વાક્ય સ્વાધ્યાય ladder plus a craft-naming ભાષા-અભિવ્યક્તિ block) — no disagreement between the page and the profile prior to report."
+  ]
+}

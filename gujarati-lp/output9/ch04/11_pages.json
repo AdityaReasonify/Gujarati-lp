@@ -1,0 +1,11 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9",
+  "textbook_url": "../Textbooks-pdf/std-9/ch-04-sinhnu-mrutyu.pdf",
+  "textbook_pages": "11–14",
+  "source": "printed folio, read off renders (150 dpi, cross-checked at 300 dpi) of pdf pp. 1 and 4 of this 4-page chapter split — folio 11 on p.1 (title/opener page), folio 14 on p.4 (last page). Matches std-9/manifest.json row (printed_start 11, pdf_start 15, pdf_end 18) and the board profile's std-9 offset (+4: 11+4=15). textbook title cross-checked against the running head printed at the foot of p.4 ('ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9'), read at 300 dpi to rule out a 9/7 digit-glyph confusion — matches 01_meta.json.",
+  "confidence": "medium",
+  "gaps": [
+    "textbook_url is a local path — the GSEB readers have no hosted URL",
+    "std-9 cover itself has not been read (profiles/boards/gseb_gujarati.md: 'cover not read yet'), so the textbook title is confirmed only from the chapter's own running head, not the cover — confidence held at medium per spec, though the running head reading is unambiguous at 300 dpi and agrees with 01_meta.json"
+  ]
+}

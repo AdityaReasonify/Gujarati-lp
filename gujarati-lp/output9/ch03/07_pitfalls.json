@@ -1,0 +1,188 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Political framing: no sentence of `explanation`, `real_life_example`, `detailed_summary` or any `recall_questions[].answer` names a government, party, scheme, campaign, army or border in connection with ગુજરાત — this topic's `original_chunk` speaks only of ગુજરાતી લોકો, ભૂમિ, સંસ્કૃતિ and મહામાનવો (કૃષ્ણ, દયાનંદ), never of the state as a political entity.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Slogans: no sentence of `explanation`, `real_life_example`, `summary`, `brief_summary`, `detailed_summary`, any `concept_bullets`/`important_points` line, or any `recall_questions[].answer` is an exhortation of the shape 'આપણે … જોઈએ' / '…રાખવી જોઈએ' / '…કરવો જોઈએ' — this topic's `original_chunk` states what the poem does ('મહિમાગાન કરે છે', 'જયજયકાર કરે છે'), it does not instruct the reader to do anything, so no such clause may be invented here.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક કૃતિ-પરિચયના 'મહિમાગાન' અને 'અસ્મિતા' જેવા શબ્દોને પકડીને એવું ધારી લેશે કે આખું કાવ્ય ગુજરાત-ગૌરવ વિશેનું એક સૂત્ર કે નિબંધ છે, અને પછીની કડીઓમાં આવતાં નક્કર ચિત્રો (સૂર્યનાં કિરણો, ઉષા, ગુર્જર ભરતી) જોવાને બદલે સીધો બોધ શોધશે — આ ધોરણ 9નો એ ભૂલ છે કે 'theme states with no line behind it'.",
+      "correction": "explanation એ સ્પષ્ટ કરે કે આ ફકરો કવિ-પરિચય અને કાવ્યની પાર્શ્વભૂમિ જ આપે છે, કાવ્ય પોતે નહીં; અને પછીની દરેક કડીમાં ભાવ કઈ પંક્તિ પરથી આવે છે તે 'આ પંક્તિ પરથી' કહીને બતાવવાનું છે — જેથી બાળક શરૂઆતથી જ ટેવ પાડે કે દાવો કરતાં પહેલાં પંક્તિ ટાંકવી."
+    },
+    {
+      "topic_id": "M2.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name something in this topic's `original_chunk` that can be seen or said — e.g. 'ગુજરાતી' (the person), 'ગુજરાત' (the place-word), or the act of being spoken ('બોલાતી') — not open on the ભાવ (અસ્મિતા, ગૌરવ) directly.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Slogans: no sentence of `explanation`, `real_life_example`, `summary`, any `concept_bullets` line or any `recall_questions[].answer` is an 'આપણે … જોઈએ' exhortation — this ટેક is a declarative claim ('ત્યાં ત્યાં સદાકાળ ગુજરાત છે'), not a command, and none of those words are in `original_chunk`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Political framing: no `explanation` or `real_life_example` sentence names a government, party, scheme or border — 'મહોલાત' (mansion/grandeur) names Gujarati culture and language, not a state apparatus.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "ટેકનું ચલિત: `explanation` must state, in its own words, WHAT changed between the ટેકની બે લીટી ('વસે' — living somewhere) and the બદલાયેલી બે લીટી ('બોલાતી' — speaking the language) — not just repeat both lines without naming the shift, per objective O2 which this topic anchors.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'ટેક' શબ્દ પોતે ધોરણ 9ના બાળક માટે નવો છે અને ચાર લીટીના આ ખૂલતા ખંડને બાળક એક જ, સાદી, પુનરાવર્તિત પંક્તિ સમજી લેશે — 'વસે' અને 'બોલાતી' વચ્ચેનો ફરક ચૂકી જશે અને એવું માની લેશે કે કવિ એક જ વાત બે વાર કહે છે, જ્યારે ખરેખર બીજી બે પંક્તિ ગુજરાત હોવાની બીજી શરત (ભાષા બોલવી) ઉમેરે છે — આ std 9નું 'confuses ઉપમા with ઉત્પ્રેક્ષા'ના પ્રકારનું ચૂકી જવું નહીં, પણ 'device/pattern named as decoration, marker ચૂકી જવો' છે.",
+      "correction": "explanation બંને જોડ પંક્તિ પાસે-પાસે મૂકે અને સ્પષ્ટ શબ્દોમાં કહે કે પહેલી જોડ 'વસવા'ની વાત કરે છે ને બીજી જોડ 'ભાષા બોલવા'ની — એટલે ગુજરાત બે રીતે જીવે છે એમ બતાવે, જે objective O2 જ માંગે છે."
+    },
+    {
+      "topic_id": "M2.S3.T3",
+      "avoid_checks": [
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name something concrete from this topic's `original_chunk` that can be seen — સૂર્યનાં કિરણો, ઉષા, or a direction word (ઉત્તર/દક્ષિણ/પૂર્વ/પશ્ચિમ) — not open on 'ગુજરાતનું ગૌરવ' or 'ગુજરાતીની ઓળખ'.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Literal reading of a figurative line: no topic sentence states as plain fact that the sun literally moves for a Gujarati person — 'સૂર્ય તણાં કિરણો દોડે' is the poem's image of light reaching every direction, and `explanation` must present it as a picture ('કવિ કલ્પના કરે છે કે…'), not as a literal astronomical claim.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Over-scientifying: no word naming a scientific mechanism (સૂર્યપ્રકાશ કેમ ફેલાય છે, પૃથ્વીનું પરિભ્રમણ, etc.) appears in `explanation` — this topic's own text never explains sunlight scientifically, it uses it as an image.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Skipping the craft: this topic must carry either a non-empty `figures_of_speech[]` naming the સજીવારોપણ/ઉપમા-like picture of the sun's rays 'running' (દોડે) and ઉષા 'laughing' (હસે), or an `explanation` sentence naming the કડી's પ્રાસ/લય/પુનરાવર્તન — `original_chunk` carries at least the personifying verbs 'દોડે' and 'હસે'.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'ઉષા હસે' અને 'કિરણો દોડે' જેવી પંક્તિઓને બાળક શબ્દશઃ (literal) લેશે — જાણે ખરેખર સૂરજનાં કિરણો દોડતાં હોય એવી હકીકત હોય — અને એ સજીવારોપણને ચૂકી જશે કે નિર્જીવ વસ્તુ (કિરણ, ઉષા)ને માણસની ક્રિયા (દોડવું, હસવું) અપાઈ છે; std 9ના બાળક માટે ધોરણ 6-8માં 'ચિત્ર જુઓ' ટેવ હતી, પણ હવે નામ પણ આપવાનું છે એટલે નામકરણ વગર માત્ર 'સરસ છે' કહીને છોડી દેવાનું જોખમ છે.",
+      "correction": "explanation પહેલા 'કિરણો દોડે' અને 'ઉષા હસે' એ કઈ પંક્તિ પરથી આવે છે એ ટાંકે, પછી કહે કે કવિ સૂર્યનાં કિરણો અને ઉષાને માણસની જેમ ક્રિયા કરતાં બતાવે છે (સજીવારોપણ) — આ std 9ના નામેલા અલંકારોમાં નથી છતાં 'ચિત્ર/ક્રિયા' તરીકે નોંધવું, અને figures_of_speech ભરવું જો યોગ્ય ગણાય તો જ, નહીં તો [] રાખવું."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name a concrete noun from `original_chunk` — ગુર્જર વાણી, લહાણી, જંગલ or ઉદ્યમ — not open with the abstract ભાવ 'ગુજરાતી પ્રજાના ગુણ'.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Skipping the craft: this topic's `explanation` or `figures_of_speech[]` must name the પુનરાવર્તન of 'ગુર્જર' (repeated three times: ગુર્જર વાણી, ગુર્જર લહાણી, ગુર્જર ઉદ્યમ) and/or the પ્રાસસાંકળી વાણી-લહાણી-શાણી — objective O4 is built directly on this repetition and it must not be skipped.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Invented craft: any `figures_of_speech[].lines` string naming પુનરાવર્તન or પ્રાસ must quote words that appear character-for-character in this topic's own `original_chunk` ('ગુર્જર વાણી ગુર્જર લહાણી ગુર્જર શાણી રીત') — never the ભાષા-અભિવ્યક્તિ apparatus's own paraphrase of the line.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Political framing: no `explanation` or `real_life_example` sentence turns 'ગુર્જર ઉદ્યમ' into a claim about the state's economy, industry policy or government scheme — the line is about the people's own nature (મહેનત, ડહાપણ), not an economic-development statement.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'ગુર્જર વાણી ગુર્જર લહાણી ગુર્જર શાણી રીત' પંક્તિમાં એક જ શબ્દ 'ગુર્જર' ત્રણ વાર આવે છે એ બાળક છાપકામની ભૂલ કે લયનું પુનરાવર્તન એટલું જ સમજશે, પણ એ નહીં પકડે કે આ પુનરાવર્તન ત્રણ જુદા ગુણ (ભાષા, લહાણી-રીત, ડહાપણ)ને એક જ ઓળખ સાથે બાંધે છે — objective O4 જે માંગે છે એ જ ચૂકી જવાનું જોખમ.",
+      "correction": "explanation પંક્તિ ટાંકીને બતાવે કે 'ગુર્જર' શબ્દ ત્રણ વાર કેમ આવે છે — વાણી, લહાણી અને રીત ત્રણેયને 'ગુર્જર' તરીકે એક જ ઓળખ સાથે જોડવા — અને key_terms કે concept_bullets માં આ પુનરાવર્તનનું નામ (પુનરાવર્તન) નોંધે, જેથી ભાષા-અભિવ્યક્તિ બ્લોકનો સામનો બાળક પહેલેથી તૈયાર થઈને કરે."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name a concrete noun or named person from `original_chunk` — કૃષ્ણ, દયાનંદ, દાદા, ભરતી or છાતી — not open with the abstract ભાવ 'ગુજરાતનું ગૌરવ'.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Respect the text's world (global rule 10): `explanation` and `key_terms` present કૃષ્ણ and દયાનંદ (સરસ્વતી) exactly as this topic's `original_chunk` and its printed શબ્દ-સમજૂતી do — as મહામાનવો born of ગુજરાતની ભૂમિ — with no added religious claim, no comparative-religion framing, and no theological elaboration beyond what the chapter itself states.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Political framing: no sentence of `explanation` or `real_life_example` turns 'ખંડ ખંડ જઈ ઝૂઝે ગર્વે કોણ જાત ને કોમ' or 'ગુર્જર ભરતી' into a claim naming a government, army, political party, border or present-day conflict — the line is about individual pride and courage carried into the world, not a nationalist/political programme.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Slogans: no sentence is an 'આપણે … જોઈએ' exhortation to be proud or brave — the topic states what the poem claims Gujaratis do/are, in the poem's own declarative voice, and none of those words are in `original_chunk`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Literal reading of a figurative line: `explanation` must present 'ગુર્જર ભરતી ઊછળે છાતી' as a picture (pride rising like a tide in the chest) and 'ગુર્જર માત' (mother-Gujarat) as the poem's personification, not as a literal claim that Gujarat is someone's biological mother.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'જાત ને કોમ' શબ્દોને બાળક કોઈ ચોક્કસ સમુદાય કે જ્ઞાતિની વાત તરીકે વાંચી લેશે, અથવા કૃષ્ણ-દયાનંદનાં નામોને ધર્મ-ચર્ચાની શરૂઆત સમજી લેશે — જ્યારે પંક્તિનો ખરો ભાવ એ છે કે ગુજરાતી ગમે તે જાત-કોમનો હોય, ગર્વથી લડે છે, અને કૃષ્ણ-દયાનંદ એ ભૂમિના ગૌરવનાં ઉદાહરણ માત્ર છે, સરખામણી કે વિવાદનો મુદ્દો નહીં — std 9માં 'ઉપમા/ઉત્પ્રેક્ષાનો માર્કર ચૂકવો' જેવી જ, પણ અહીં સંવેદનશીલતાનું સ્વરૂપ.",
+      "correction": "explanation 'જાત ને કોમ' પંક્તિને એ રીતે સમજાવે કે કવિ કહે છે કોઈ પણ જાત-કોમનો ગુજરાતી હોય, ગર્વથી ઝૂઝે છે — ભેદ નહીં, ઓળખની એકતા; અને કૃષ્ણ-દયાનંદને ફક્ત પુસ્તકના શબ્દ-સમજૂતી પ્રમાણે 'આ ભૂમિના મહામાનવો' તરીકે નામ આપે, વધારે ધાર્મિક કે રાજકીય ટિપ્પણી વગર."
+    },
+    {
+      "topic_id": "M2.S4.T6",
+      "avoid_checks": [
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name a concrete word from `original_chunk` — 'કોડ' (a longing/wish) or 'રાસ' (dance) — not open with the abstract ભાવ 'ગુજરાતી પ્રજાનું ખમીર' or similar.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Slogans: no sentence is an 'આપણે … જોઈએ' exhortation about finishing unfinished work or having स्नेह-शौर्य-सत्य — this કડી states what happens in the poem's voice ('અધૂરાં પૂરાં થાય', 'રાસ રચાય'), never a command to the reader.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Literal reading of a figurative line: `explanation` must present 'સ્નેહ શૌર્ય ને સત્ય તણાં ઉર વૈભવ રાસ રચાય' as a picture — love, courage and truth pictured as dancing together in the heart like a રાસ — not as a literal statement that a dance physically happens.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બે લીટીની આ ટૂંકી કડીને બાળક એક સામાન્ય 'સફળતાનો બોધ' ('મહેનત કરો તો સફળ થાઓ') માં ફેરવી નાખશે, અને 'રાસ રચાય' જેવી કલ્પનાચિત્ર પંક્તિને ચૂકી જશે — સ્નેહ-શૌર્ય-સત્ય એ ત્રણેય એકસાથે હૃદયમાં નૃત્ય કરે છે એ ચિત્ર ગુમાવીને માત્ર 'ધ્યેય પૂરાં કરવાં જોઈએ' જેવો સામાન્ય બોધ કાઢી લેશે.",
+      "correction": "explanation બંને પંક્તિને એકસાથે જોડે — પહેલી પંક્તિ 'કોડ'ની (ઇચ્છા) વાત કરે છે, બીજી પંક્તિ એ ઇચ્છા સ્નેહ-શૌર્ય-સત્યના 'રાસ' રૂપે હૃદયમાં કેવી રીતે ઊજવાય છે એ બતાવે છે, જેથી ચિત્ર (રાસ) બોધ કરતાં પહેલાં આવે."
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name a concrete word from `original_chunk` — 'જય જય' (the call itself) or 'ગુજરાતી'/'ગુજરાત' — not open directly with the abstract ભાવ 'કવિનું ગૌરવ'.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Slogans: 'જય જય જન્મ સફળ ગુજરાતી, જય જય ધન્ય અદલ ગુજરાત' is itself the poem's own જયઘોષ and MAY be quoted/echoed as such, but no ADDED sentence of `explanation`, `real_life_example`, `summary`, `concept_bullets` or `recall_questions[].answer` may extend it into an 'આપણે … જોઈએ' instruction to the reader (e.g. 'આપણે ગુજરાત માટે ગર્વ અનુભવવો જોઈએ') — the poem closes the poem, it does not close with homework for the child.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Political framing: no `explanation` or `real_life_example` sentence turns this closing જયઘોષ into a claim about a government, party, national holiday campaign or border — the pride is in language, culture and people, per the chapter's own last apparatus sentence (01_meta.json's genre_signals.purpose).",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Never invent a poet's intention: `explanation` or `key_terms` must not assert that 'અદલ' in the closing line is definitely the poet's signature (ઉપનામ) — 01_meta.json records this as a genuine live ambiguity between the printed શબ્દ-સમજૂતી gloss ('બરાબર, ખરું') and the poet's ઉપનામ; only the printed gloss meaning may be asserted as settled.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'અદલ' શબ્દને બાળક કવિના તખલ્લુસ (ઉપનામ) તરીકે જ સમજી લેશે, જાણે આ કડીના અંતે કવિ પોતાનું નામ સહી કરે છે (પદ/ભજનની છાપ પ્રમાણે) — જ્યારે આ ઊર્મિકાવ્ય-ગીત છે, પદ નથી, અને પુસ્તક પોતે 'અદલ'ને સામાન્ય વિશેષણ (બરાબર, ખરું) તરીકે ગ્લોસ કરે છે; આ ભૂલ 'છાપ ધારી લેવી' — પદ/ભજનની ટેવ આ ગીત પર લાદવી.",
+      "correction": "explanation અને key_terms પુસ્તકના પોતાના શબ્દ-સમજૂતી પ્રમાણે 'અદલ = બરાબર, ખરું' એ અર્થ જ આપે, અને ઇચ્છે તો એટલું જ ઉમેરે કે આ શબ્દ કવિના ઉપનામ સાથે પણ મળતો આવે છે (એક રસપ્રદ યોગાનુયોગ તરીકે, નિશ્ચિત દાવા તરીકે નહીં) — છાપ તરીકે ક્યારેય ન લખાય, કેમ કે આ ગીત છે, પદ નથી."
+    }
+  ],
+  "chapter_level": [
+    "Slogan/political-framing risk is unusually strong across this whole chapter: it is an અસ્મિતા-ગીત whose own apparatus (કૃતિ-પરિચય, વિદ્યાર્થી-પ્રવૃત્તિ, શિક્ષકની ભૂમિકા) reaches for 'ગુજરાત-ગૌરવ' and 'માતૃભાષા ગૌરવદિન' language — every topic's avoid_checks above carry the profile's slogan gate and political-framing gate for this reason (per 01_meta.json's own flagged extraction_note and urmikavya_geet.md's Sensitivity section). The safe frame, stated by the chapter's own last apparatus sentence, is that ગુજરાત is a cultural idea carried in people and language, never a state boundary, government or scheme — Agent 12 must hold to that line throughout, not just topic-by-topic.",
+    "The named figures કૃષ્ણ, દયાનંદ (સરસ્વતી) and દાદા (દાદાભાઈ નવરોજી) in M2.S3.T5 require the same dignity-without-elaboration handling the whole chapter through: named exactly as the book's own શબ્દ-સમજૂતી glosses them, with no added biographical, religious or political claim (global_content_rules.md rule 10; no_hallucination_policy.md).",
+    "'અદલ' is a genuine ambiguity carried by the chapter (ordinary adjective vs. poet's ઉપનામ, both live per 01_meta.json's extraction_notes) — Agent 12 must not silently resolve it in either direction; only M2.S4.T7 carries the word, and its avoid_check above is the binding instruction."
+  ]
+}

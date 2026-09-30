@@ -1,0 +1,98 @@
+{
+  "chapter_id": "gseb_eng_gujarati10_ch1",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મીરાંબાઈના જીવન અને કૃષ્ણભક્તિ વિશે કૃતિ-પરિચયમાં અપાયેલી માહિતી પરથી કવયિત્રી અને તેમના પદની ઓળખ કરવી.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'મોરલી' પદમાં 'વૃંદાવન મોરલી વાગે છે' એ ટેક શા માટે વારંવાર પાછી આવે છે અને એ ભક્ત-ભગવાનના સંબંધને કેવી રીતે વ્યક્ત કરે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": ["M1.S2.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "મોરલીનું પદ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "કવિ અને કૃતિનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "મીરાંબાઈ અને તેમના પદનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "મીરાંબાઈનો કવિ-પરિચય અને 'મોરલી' પદનો કૃતિ-પરિચય"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "મોરલીનું ગાન",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "વૃંદાવનમાં વાગતી મોરલી અને કૃષ્ણનાં દર્શન",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "ટેક, ત્રણ કડી અને છાપ સાથેનું આખું પદ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut rationale: pad_bhajan.md and explanation_unit_map.md are unambiguous for this chapter — 'one પદ = one topic, whole', never split by કડી. The chapter carries exactly one [[પદ 1]] block (with [[ટેક]], [[કડી 1]], [[કડી 2]], [[કડી 3]] all nested inside it) plus [[સ્રોત-નિર્દેશ]] immediately after. All four verse markers plus the source line are one topic, M1.S2.T2 — the marker count for the poem itself resolves to exactly 1 topic carrying a પદ, satisfying pad_bhajan.md's Agent-4 check.",
+    "The [[કવિ-પરિચય]] and [[કૃતિ-પરિચય]] markers are two markers but one continuous printed block: 01_meta.json's genre_signals and profiles/students/std-10.md §1.4 both describe std-10 chapters as opening with an unlabeled author-bio + કૃતિ-પરિચય paragraph pair separated only by a horizontal rule, with no printed heading between them. Per agents/02_structure.md ('Std 10's unlabelled કવિ/લેખક-પરિચય + કૃતિ-પરિચય paragraph is printed for the student and is a CONCEPT topic' — singular), both markers are folded into ONE CONCEPT topic, M1.S1.T1.",
+    "[[સ્રોત-નિર્દેશ]] ('મીરાંનાં શ્રેષ્ઠ પદ'માંથી) is the printed source-collection line, not a poet signature line (the છાપ 'બાઈ મીરાં કે...' is already inside કડી 3). Per pad_bhajan.md's rule that a printed attribution line belongs inside the LAST topic's original_chunk, this line is Agent 5's to place at the tail of M1.S2.T2's original_chunk — noted here so Agent 5 does not treat it as a separate topic or drop it.",
+    "Everything from [[શબ્દ-સમજૂતી]] onward (શબ્દ-સમજૂતી sub-blocks, [[સ્વાધ્યાય-બૅનર]] and its four numbered સ્વાધ્યાય blocks including વિદ્યાર્થી પ્રવૃત્તિ, [[ભાષા-અભિવ્યક્તિ]], [[શિક્ષકની ભૂમિકા]]) is apparatus/exercise territory per global_content_rules.md #7 and explanation_unit_map.md's apparatus rule. None of it is cut as a topic; it stays for Agent 10 (exercise_inventory, already in 01_meta.json) and feeds key_terms/ભાષા-બોધ for Agent 5/12, not this file.",
+    "Two topics total is a genuinely short chapter (3 printed pages, one પદ) — not an under-cut. Splitting the પદ કડી-wise to manufacture more topics is the specific hard-gated mistake pad_bhajan.md and explanation_unit_map.md exist to prevent ('half of મીરાં's hearing of the flute is not a teaching unit, it is an interruption').",
+    "One module only: the chapter has no large second movement — a pre-reading concept segment and a single-poem segment are the whole chapter, so M1 alone (M1.S1, M1.S2) is the complete tree; no M2 was invented to pad the structure.",
+    "topic_category on M1.S2.T2 is 'core' rather than 'climax'/'resolution' because the whole પદ (opening ટેક through the closing છાપ) is one undivided reading scene per the profile's 'never split' rule — there is no separate scene left over to carry a climax or resolution category once the poem is not cut by કડી.",
+    "difficulty on M1.S2.T2 is 'medium', set per agents/02_structure.md's std 9-10 row: the કડી carries મધ્યકાલીન/તળપદાં diction (થૈ, મારગ) and જોડાક્ષર-dense તત્સમ vocabulary (ગિરિધર, જરકસી, કુંજગલી) that stops a std-10 L2 reader on the page, per std-10.md §1.2's conjunct-decoding note — this is relative-within-chapter difficulty, not a Bloom cap; the objective and recall ladder for this topic still reach Analyze.",
+    "depends_on is [] for both topics: M1.S1.T1 is the chapter's pre-reading opener with nothing before it, and M1.S2.T2 does not structurally depend on the intro topic in the graph sense the field records (real prerequisite chains, not general helpfulness) — the poem is complete and self-standing as a text; the intro merely precedes it in reading order, which the segment/topic ordering already captures.",
+    "No અલંકાર or છંદ label appears anywhere in this file's objective_text, topic_name, module_name, or segment_name. The chapter's own ભાષા-અભિવ્યક્તિ box names the phenomenon 'વાગે છે'નું આવર્તન (repetition) descriptively but never applies a formal અલંકાર label to it, so none is asserted here either, per no_hallucination_policy.md and the craft-naming gate.",
+    "original_chunk is left empty in both topics per this agent's mandate — Agent 5 fills it from the rendered pages, not this file."
+  ]
+}

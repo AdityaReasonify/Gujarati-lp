@@ -1,0 +1,157 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "No field of this topic (explanation, key_terms, detailed_summary) states a biographical fact about ધ્રુવ ભટ્ટ — a birth year, an award year, a literary movement, or a novel/collection not named — that is absent from this topic's own original_chunk ('ધ્રુવ ભટ્ટનો જન્મ ભાવનગર જિલ્લાના નિંગાળામાં...', '...તથા સાહિત્ય અકાદમી દિલ્હીના પુરસ્કારથી સન્માનિત થયેલા છે.'); only the printed facts — birthplace નિંગાળા, વતન મોરબી, બી.કોમ., the named novels/collections, and the two Sahitya Akademi awards — may appear.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "લેખકનાં પુસ્તકોની યાદી ('સમુદ્રાન્તિકે', 'અગ્નિકન્યા', 'તત્ત્વમસિ'...) અને 'પ્રકૃતિ સાથેના મનુષ્યના આત્મીય સંબંધનું ... ઉત્તમ આલેખન કર્યું છે' જેવું ઘૂંટાયેલું, તત્સમપ્રચુર વાક્ય વાંચતાં બાળક વિગતોમાં અટવાઈ જાય છે અને મુખ્ય વાત — ધ્રુવ ભટ્ટ કુદરત અને માણસ વચ્ચેના પ્રેમની વાત લખે છે — પકડી શકતું નથી.",
+      "correction": "explanation માં પહેલાં ટૂંકું, સાદું વાક્ય મૂકવું — 'ધ્રુવ ભટ્ટ કુદરત અને માણસ વચ્ચેના પ્રેમની વાત પોતાની નવલકથાઓમાં કરે છે' — અને પછી જ 'અકૂપાર' જેવું નામ ને 'આત્મીય', 'આલેખન' જેવા શબ્દોના ગ્લોસ ઉમેરવા; એક વાક્યમાં એક જ નવી વાત આવે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "This topic's original_chunk is the printed કૃતિ-પરિચય box, which itself states the excerpt's ending (સિંહનું મૃત્યુ, અંતિમ સંસ્કાર, દસેક ગામ ... શોક પાળે છે) — hard gate 4 ('spoiling the turn early') does not block THIS topic for containing those words, since they are the textbook's own apparatus, not authored foreshadowing. But no field of this topic may go further than its own original_chunk and add the manner of the fall (bridge, headlights, night, હીરણ નદી, માથું ફાટવું) — those belong to M2.S3–M2.S4's topics alone.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "કૃતિ-પરિચય પોતે જ સિંહનું મૃત્યુ અને ગામોનો શોક જણાવી દે છે, એટલે બાળક માની લે છે કે હવે આગળ 'શું થયું' જાણવાની કંઈ મજા બાકી નથી અને પછીના ભાગને સરસરી નજરે વાંચી જાય છે.",
+      "correction": "explanation માં સ્પષ્ટ કરવું કે કૃતિ-પરિચય — ગુજરાતીના પાઠ્યપુસ્તકોમાં દરેક પાઠ પહેલાં આવતું પરિચય-બોક્સ — વાર્તા શું વિશે છે તે કહે છે, પણ 'કેવી રીતે' અને 'કોના શબ્દોમાં' એ બન્યું તે હજી વાંચવાનું બાકી છે; વાંચવાની મજા હવે ઘટના કેમ બની અને ગામોએ કેવી રીતે શોક વ્યક્ત કર્યો એ વિગતોમાં છે."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "This topic's own original_chunk ends on the narrator's unanswered question ('દુકાનો પણ બંધ છે. કંઈ થયું છે કે શું?') — no field of this topic (explanation, summary, detailed_summary, recall answer) may state or hint at the reason the market is closed (a lion, a death, mourning); that reveal belongs to M2.S2.T4 alone.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "'મેં ત્યાં જઈને પૂછ્યું' — આ પ્રકરણમાં પહેલી વાર આવતું 'હું/મેં' — બાળક એને લેખક ધ્રુવ ભટ્ટ પોતે સમજી લે છે, જ્યારે ખરેખર આ 'નવલકથાખંડ'નો કાલ્પનિક કથક છે.",
+      "correction": "explanation માં આ પાત્રને 'કથક' કહીને ઓળખાવવું (modified_chunk કરે છે તેમ), અને એક વાક્યમાં યાદ કરાવવું કે આ નવલકથાનો એક ભાગ છે એટલે 'હું' બોલતું પાત્ર વાર્તાનો કથક છે, લેખક પોતે નહીં."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "Ahmed's dialect forms printed in this topic's original_chunk — 'રાત્ય', 'આંય', 'સ્હાવજ', 'મેલ્યું' (પડતું મેલ્યું), 'સ્હોત', 'સે' — must appear in the same form wherever explanation or key_terms quotes this line; none may be silently normalised to રાત, અહીં, સિંહ, મૂક્યું, બધા, છે.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "એહમદના 'પરમ દિ રાત્યે આંય પુલ માથેથી સ્હાવજે પડતું મેલ્યું...' જેવા ગીર/સોરઠી તળપદા સંવાદને બાળક છાપભૂલ કે 'ખોટી ગુજરાતી' સમજી બેસે છે, કેમ કે એ ઘરે કે વર્ગમાં સાંભળેલી ગુજરાતીથી જુદું લાગે છે.",
+      "correction": "explanation માં પહેલા વાક્યમાં જ કહેવું કે આ ગીર-સોરઠી બોલી છે — સાસણ વિસ્તારના લોકો ખરેખર આ રીતે બોલે છે — અને પછી 'સ્હાવજ — સિંહ', 'મેલ્યું — પડ્યું' જેમ શબ્દોના અર્થ સીધા આપી દેવા, જોડણી બદલ્યા વિના."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "Dialect forms in this topic's original_chunk — 'આયાં', 'માથે', 'હાલ્યો', 'સે', 'દોયડે', 'આવ્ય' — must be preserved exactly wherever quoted in explanation or key_terms, never replaced by their પ્રમાણભાષા forms (અહીં, પર, ચાલ્યો, છે, દોરડાથી, આવ).",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "મિત્રનો જવાબ 'એ ભલે. દોયડે બાંધીને લેતો આવ્ય.' બાળક શબ્દશઃ સૂચના (ખરેખર દોરડું લાવવાની વાત) સમજી લે છે, જ્યારે ખરેખર એ અવિશ્વાસમાંથી નીકળેલી મજાક (કટાક્ષ) છે.",
+      "correction": "explanation માં કહેવું કે મિત્રને વાત માનવામાં નથી આવતી એટલે એ મજાકમાં, કટાક્ષમાં આમ કહે છે — સાચે જ દોરડું લાવવાનું નથી કહેતો; ડ્રાઈવરના પાછલા જવાબ 'તારો બાપ આ આગળ હાલ્યો જાય સે.' પરથી આ સ્પષ્ટ થાય છે."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "If explanation can be replaced by this topic's modified_chunk with no loss — a plain 'the driver flashed lights, the other vehicle braked' — the topic fails gate 1 (summary-only teaching). explanation must name what the drawn-out sentence and the sound-word 'ચીં...ઈ...ઈ' do: they slow the telling down so the reader feels the same rising danger the driver felt, before naming what caused it.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "કોઈ સંવાદ ન હોવાથી બાળક આ ફકરાને એક સામાન્ય 'ગાડી આવી, ગાડી ઊભી રહી' ઘટના તરીકે વાંચી લે છે અને 'ચીં...ઈ...ઈ' જેવા અવાજ-શબ્દથી લેખક જે તંગદિલી ઊભી કરે છે એ ચૂકી જાય છે.",
+      "correction": "explanation માં 'ચીં...ઈ...ઈ' ને ટાંકીને પૂછવું — આ અવાજ વાંચતાં કેવું લાગે છે — જેથી બાળક ધ્યાનથી જુએ કે લેખકે બ્રેકના અવાજને શબ્દોમાં કેમ ઉતાર્યો છે, કોઈ અલંકારનું નામ આપ્યા વિના."
+    },
+    {
+      "topic_id": "M2.S3.T7",
+      "avoid_checks": [
+        {
+          "check": "This topic's original_chunk prints both 'સ્હાવજ' and 'સાવજ' inside Ahmed's single utterance ('સ્હાવજ સીધો હાલ્યો ગ્યો હોત તો... પણ સાવજ કોને કેય સે?'). No field may silently unify these two spellings into one; both stand as printed, glossed together as સિંહ.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "એક જ ટોપિકમાં સિંહ માટે ચાર જુદા શબ્દો આવે છે — 'સ્હાવજ/સાવજ' (એહમદની બોલીમાં), 'વનરાજ' અને 'શાર્દૂલ' (કથકના વર્ણનમાં) — બાળક આ ચારેયને એક જ સિંહને બદલે જુદાં જુદાં પ્રાણી કે નામ સમજી બેસે છે.",
+      "correction": "explanation માં ચારેય શબ્દોને એક સાથે મૂકીને કહેવું કે આ બધા એક જ સિંહ માટે વપરાયેલા શબ્દો છે — 'સ્હાવજ/સાવજ' બોલીનો શબ્દ, 'વનરાજ' ને 'શાર્દૂલ' સાહિત્યિક શબ્દો — આમ સમાનાર્થી શબ્દોની std-9 ની સમજ આ જ પંક્તિ પરથી બંધાય."
+    },
+    {
+      "topic_id": "M2.S4.T8",
+      "avoid_checks": [
+        {
+          "check": "Dense dialect cluster in this topic's original_chunk — 'નથ્ય', 'સ્હંધી', 'સ્હમજ', 'રાત્યે', \"વાગ્યા'તા\", 'પાસી', 'કોરથી', 'આંખ્યું', 'અંજાય', 'ઈમાં', 'ઈની' — must appear unchanged wherever explanation or key_terms quotes Ahmed's line; none is normalised to નથી, બરાબર, સમજ, રાત્રે, વાગ્યા હતા, પાછી, બાજુથી, આંખો, અંજાઈ, એમાં, એની.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'ઈની ગણતરી જરાક ખોટી પડી ગઈ' વાંચીને બાળક સિંહને 'બેદરકાર' કે 'ભૂલ કરનાર' ગણી લે છે, જ્યારે ટોપિક પોતે જ કહે છે કે એ ઘણી વાડીઓ ને જંગલખાતાની વાડ પહેલાં પણ સહેલાઈથી કૂદી ચૂક્યો હતો — રાત્રે બંને બાજુની લાઈટ એની આંખો આંજી નાખે એ નવી, અજાણી સ્થિતિ હતી.",
+      "correction": "explanation માં પહેલાં સિંહનો પાછલો અનુભવ (ઘણી વાડીઓ, જંગલખાતાની વાડ) જણાવવો, પછી જ કહેવું કે રાત્રે બંને બાજુની લાઈટોએ એની આંખો આંજી — આ અજાણ્યા સંજોગોનું પરિણામ છે, સિંહની ભૂલ કે બેદરકારી નહીં; 'બેદરકાર', 'ભૂલ કરનાર' જેવો શબ્દ સિંહ માટે ન વપરાય."
+    },
+    {
+      "topic_id": "M2.S4.T9",
+      "avoid_checks": [
+        {
+          "check": "No topic preceding this one (M1.S1.T1 through M2.S4.T8) may state, in explanation, summary or a recall answer, the specific manner of the lion's death — that it landed on the rocky bed of હીરણ નદી, or that 'સિંહનું માથું ફાટી ગયું' — that outcome belongs to this topic's own original_chunk alone.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No field of this topic (explanation, summary, detailed_summary, concept_bullets, recall answer) may close on an appended moral of the shape 'આ ઘટના આપણને શીખવે છે…' / 'આપણે … જોઈએ' — e.g. a generic road-safety lesson ('રસ્તો ઓળંગતી વખતે સાવધાન રહેવું જોઈએ') that this topic's own words never state.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No field applies an evaluative/foolish label (બેદરકાર, મૂર્ખ, ભૂલ કરનાર) to the lion — this topic's own words ('રાજવીની અદાથી', 'અભય', 'મસ્તાન', 'શાહી મિજાજ') present it with dignity, the same dignity the funeral in M2.S5.T11 confirms.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "સિંહનું 'શાહી મિજાજ'ને લીધે થયેલું પતન બાળક એક સામાન્ય 'રસ્તા પર સાવધાન રહેવું જોઈએ' પ્રકારના સલામતી-બોધમાં ફેરવી નાખે છે, જ્યારે ટોપિકનો ખરો મુદ્દો સિંહનો સ્વભાવ — રાજાની જેમ બેફિકર, ઠાઠથી ફરવાની રીત — અને એ જ સ્વભાવે સર્જેલો કરુણ અંત છે.",
+      "correction": "explanation એ સિંહના સ્વભાવ (રાજવીની અદા, અભય, મસ્તાન) અને એ જ સ્વભાવે પુલ પરની નવી, અજાણી સ્થિતિમાં કરેલી ભૂલ વચ્ચેનો સંબંધ બતાવે — કોઈ સામાન્ય 'સાવધાન રહો' વાક્યથી પૂરું ન કરે."
+    },
+    {
+      "topic_id": "M2.S5.T10",
+      "avoid_checks": [
+        {
+          "check": "This topic's original_chunk line — 'ઘડીક તો અડધી રાતે દિ ઉગાડી દીધો.' — has no 'જાણે' in it; modified_chunk's paraphrase adds 'જાણે' for simplicity. No field may claim this line is ઉત્પ્રેક્ષા (which needs the printed 'જાણે' marker under the std-9 canon) on the strength of modified_chunk's wording — any figure named here must be justified from this topic's own original_chunk, and figures_of_speech: [] remains a correct answer.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "modified_chunk માં ઉમેરાયેલા 'જાણે' શબ્દ પરથી બાળક (કે લખનાર) એહમદની પંક્તિને ઉત્પ્રેક્ષા ગણી લે છે, જ્યારે છપાયેલી મૂળ પંક્તિ 'ઘડીક તો અડધી રાતે દિ ઉગાડી દીધો.' માં 'જાણે' શબ્દ છે જ નહીં.",
+      "correction": "explanation માં મૂળ (original_chunk ની) પંક્તિ જ ટાંકવી, અને જો કોઈ અલંકારની વાત કરવી હોય તો std-9 ના સાત અલંકારમાંથી છપાયેલા શબ્દો પરથી જ (દા.ત. અતિશયોક્તિ) નામ આપવું — 'જાણે' શબ્દ ઉમેરીને ઉત્પ્રેક્ષા ન કહેવાય."
+    },
+    {
+      "topic_id": "M2.S5.T11",
+      "avoid_checks": [
+        {
+          "check": "No field (explanation, summary, detailed_summary, concept_bullets, recall answer) may close this chapter on an appended moral of the shape 'આપણે બધાએ ભેદભાવ ભૂલી … જોઈએ' / 'આ બતાવે છે કે …' about caste or community unity — this topic's own words state only that named villages of 'વિવિધ વરણ'ની વસ્તી together kept the ગામ બંધ; the fact stands as reported, not as a stated lesson.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "The named villages in this topic's original_chunk — સાસણ, હરિપુરા, હીરણવેલ, ચિત્રાવણ, ચિત્રોડ, બોરવાવ, ભોજદે — must appear by their own printed names wherever this topic is taught, never collapsed into a generic 'આજુબાજુનાં ગામ'.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "સાસણ ઉપરાંત છ ગામનાં 'વિવિધ વરણ'નાં લોકો ભેગા મળીને શોક પાળે છે એ જોઈને બાળક (કે લખનાર) આખી વાતને 'આપણે જાતિભેદ ભૂલી પ્રેમથી રહેવું જોઈએ' જેવા સીધા બોધમાં ફેરવી નાખે છે, જે પ્રકરણના પોતાના શબ્દોમાં ક્યાંય કહેવાયું નથી.",
+      "correction": "explanation એ હકીકત જ રજૂ કરે — સાસણ સાથે નામ દઈને છ ગામ, જુદા વરણનાં લોકો, એક સિંહના મૃત્યુ પર ભેગાં થયાં — અને એને માણસ-પ્રાણી વચ્ચેની આત્મીયતાના પુરાવા તરીકે જ રહેવા દે, કોઈ '...જોઈએ' વાક્યથી પૂરું ન કરે."
+    }
+  ],
+  "chapter_level": [
+    "સમગ્ર પ્રકરણમાં 'હું/મેં' એ 'અકૂપાર' નવલકથાનો કથક છે, લેખક ધ્રુવ ભટ્ટ પોતે નહીં — કોઈ પણ ટોપિકના explanation કે recall answer માં કથકને 'ધ્રુવ ભટ્ટ' તરીકે ન ઓળખાવાય, 'કથક' જ કહેવાય.",
+    "એહમદની ગીર/સોરઠી બોલી ચાર જુદા સંવાદોમાં (M2.S2.T4, M2.S3.T5, M2.S3.T7, M2.S4.T8) આવે છે — દરેક વખતે તળપદા શબ્દો જેમ છપાયા તેમ જ રખાવા, ક્યાંય પ્રમાણભાષામાં ફેરવાય નહીં (varta.md hard gate 6); ગ્લોસ પહેલી વાર જ્યાં શબ્દ આવે ત્યાં જ અપાય.",
+    "આ નવલકથાખંડ 'અકૂપાર' નવલકથાનો એક ભાગ છે — કોઈ ટોપિકનું કોઈ field એહમદના પોતાના જીવન વિશે, કથકના નામ કે ઓળખાણ વિશે, કે 'અકૂપાર' નવલકથાના બાકીના ભાગમાં શું બને છે તે વિશે એવી કોઈ વિગત ન ઉમેરે જે આ ચેપ્ટરના કોઈ પણ original_chunk માં છપાયેલી ન હોય (hard gate 7).",
+    "M1.S1.T2 (કૃતિ-પરિચય) સ્વયં પ્રકરણનો અંત (સિંહનું મૃત્યુ, ગામોનો શોક) જણાવે છે — આ hard gate 4 નો ભંગ નથી, કેમ કે એ છપાયેલું અપરાટસ છે; gate 4 ખરેખર M2.S4.T9 (વળાંક) પહેલાંના ટોપિકોને લાગુ પડે છે — મૃત્યુની ચોક્કસ રીત (હીરણ નદી, પથ્થરો, માથું ફાટવું) T9 પહેલાં ક્યાંય ન અપાય."
+  ]
+}

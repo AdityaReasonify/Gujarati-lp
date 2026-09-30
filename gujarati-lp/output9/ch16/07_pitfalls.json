@@ -1,0 +1,202 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [],
+      "misconception": "બાળક આ ફકરાના વાક્ય ‘તળપદા ભાવો તથા રાધા-કૃષ્ણની ભાવલીલાઓ ગીત સ્વરૂપે તેમણે રજૂ કરેલી છે’ પરથી કવિને નરસિંહ-મીરાં જેવા મધ્યકાલીન ભક્ત-કવિ સમજી લેશે, અને પછી કાવ્યની અંદર ક્યાંક કવિની પોતાની છાપ (જેમ કે ‘ભણે નરસૈંયો’ પ્રકારની પંક્તિ) શોધવા લાગશે — જ્યારે એ જ ફકરો ‘હાલ તેઓ કિડની હોસ્પિટલમાં સેવાઓ આપી રહ્યા છે’ કહીને સ્પષ્ટ કરે છે કે કવિ આજના, જીવિત કવિ છે, અને આ કૃતિ ગીત છે, પદ નથી.",
+      "correction": "explanation માં કવિ-પરિચયના બંને મુદ્દા સાથે જોડવા — રાધા-કૃષ્ણની વાત ‘ગીત સ્વરૂપે’ લખાઈ છે એમ કહેવું, અને ‘હાલ … સેવાઓ આપી રહ્યા છે’ પરથી કવિ આજના જીવિત કવિ છે એ નોંધવું, જેથી બાળક શરૂઆતથી જ સમજે કે આ કૃતિમાં કવિની પોતાની છાપ (પદ/ભજનની જેમ) શોધવાની નથી."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "Slogans: no sentence of `explanation`, `real_life_example`, `summary`, `detailed_summary`, any `concept_bullets`/`important_points` line, or any `recall_questions[].answer` for this topic is an exhortation of the shape ‘આપણે … જોઈએ’ about love, devotion or forgiveness (e.g. ‘આપણે પ્રેમમાં આવું સમર્પણ રાખવું જોઈએ’) unless those exact words are quoted from this topic's `original_chunk` — this apparatus paragraph states what the poem DOES (‘કૃષ્ણપ્રેમમાં તન્મય રાધાના હૃદયભાવો … કવિએ રજૂ કર્યા છે’), it does not instruct the reader.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Literal reading of a figurative line: this topic's own `original_chunk` states ‘એ કદંબના પાંદડા ઉપર લખાયો છે, પાંપણની ભાષામાં લખાયો છે’ — `explanation` must present this as the poem's image for writing through tears/longing, never as a literal claim that a real letter was physically written on a leaf in a second, real language.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક કૃતિ-પરિચયના આ ફકરાને જ કાવ્યની ‘સાર’ ગણી લેશે, અને પ્રશ્ન પુછાય ત્યારે કાવ્યની પોતાની પંક્તિને બદલે આ ફકરાના જ શબ્દો (‘કૃષ્ણપ્રેમમાં તન્મય’, ‘હૃદયભાવો સુકોમળ’) ટાંકી દેશે — જ્યારે std 9નું ધોરણ ‘કઈ પંક્તિ પરથી કહો છો ?’ પ્રમાણે કાવ્યની પોતાની પંક્તિ માંગે છે, પરિચય-ફકરાની નહીં.",
+      "correction": "explanation સ્પષ્ટ કરે કે આ ફકરો પરિચય-ભાગ છે, કાવ્ય પોતે નહીં — અને પછીના દરેક કડી-જોડ ટોપિકમાં આ પરિચયનો દરેક દાવો (પત્ર, કદંબનું પાંદડું, પાંપણની ભાષા, રીસ) કઈ ચોક્કસ પંક્તિમાં દેખાય છે તે ટાંકીને બતાવવાનું છે."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name something in this topic's `original_chunk` that can be seen or addressed — ‘ગોકુળ’, ‘કાન’ (Krishna's pet name here) or ‘મુખ’ — not open with the abstract ભાવ (વિરહ, રીસ) directly.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Never modernise the poet: the spoken/poetic form ‘કોકવાર’ in this topic's `original_chunk` is glossed and explained as an everyday word for ‘ક્યારેક’, never silently rewritten as ‘ક્યારેક’ inside a quoted line or treated as a non-standard spelling to fix.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "હિન્દી-માધ્યમના પાર્શ્વભૂમિવાળું બાળક ‘કાન’ શબ્દને હિન્દી ‘कान’ (કાન — સાંભળવાનું અંગ) સમજી લેશે, અને આખી પંક્તિ ‘ગોકુળમાં કોકવાર આવો તો કાન,’ને અર્થહીન અથવા કોઈ કાન વિશેની વાત સમજી બેસશે — જ્યારે અહીં ‘કાન’ એ શ્રીકૃષ્ણ માટેનું વહાલભર્યું હુલામણું નામ છે, જેને પંક્તિમાં સીધું સંબોધન તરીકે વાપર્યું છે.",
+      "correction": "explanation પહેલા વાક્યમાં જ ‘કાન — શ્રીકૃષ્ણનું હુલામણું નામ, કાન (સાંભળવાનું અંગ) નહીં’ એમ સ્પષ્ટ ગ્લોસ કરવું, અને બતાવવું કે રાધા સીધું કૃષ્ણને ‘કાન’ કહીને બોલાવે છે — જેથી પંક્તિ સંબોધન તરીકે જ વંચાય."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name a concrete word from this topic's `original_chunk` — ‘ધણ’ (the herd of cows), ‘ગોવર્ધન’ or ‘કાંઠે’ — not open with the abstract ભાવ directly.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Skipping the craft: this couplet's own structure — a permission granted (‘ગોવર્ધન જાવ ભલે’) set directly against a request withheld (‘કાંઠે ના આવશો’) in the same two lines — must be named in `explanation` as the letter's own back-and-forth move (ભલે … પણ ના), the way this whole ગીત keeps building its હળવી રીસ; a topic that reports only the permission or only the prohibition, without the contrast between them, is half-taught.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ‘ગોવર્ધન જાવ ભલે’ અને ‘કાંઠે ના આવશો’ને બે અલગ, અસંબંધિત સૂચનાઓ તરીકે વાંચી લેશે, અને પકડી નહીં શકે કે આ એક જ વાક્ય-જોડમાં રાધા એક હાથે છૂટ આપે છે ને બીજા હાથે ના પાડે છે — objective O2 જે માંગે છે એ જ, બંને પંક્તિને સાથે જોડીને, ચૂકી જવાનું જોખમ.",
+      "correction": "explanation બંને પંક્તિને એક જ શ્વાસમાં જોડે — ‘ગોવર્ધન જવાની છૂટ છે, પણ કાંઠે આવવાની ના છે’ — અને કહે કે આ કાંઠો ગોકુળની જૂની યાદો સાથે જોડાયેલો છે એટલે જ રાધા ત્યાં આવવાની ના પાડે છે."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name a concrete word from this topic's `original_chunk` — ‘તાંદુલ’, ‘પોટલી’ or ‘પૂનમ’ — not open with the abstract ભાવ (ઝંખના, મિલન) directly.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Literal reading of a figurative line: `explanation` must present ‘તાંદુલની પોટલીએ પૂનમની રાત ભલે બાંધીને આવો’ as the poem's own impossible, imagined picture — an exaggerated way of asking for the night of reunion — never as something a listener could think is physically being asked for; no sentence may treat packing a night inside a bundle as literally possible or attempt to explain how it could be done.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Invented craft: if `figures_of_speech[]` names this line's exaggeration (અતિશયોક્તિ is the std-9 canon term that fits an impossible claim — `reference/alankar_chhand.md`), its `lines` string must quote words that appear character-for-character in this topic's own `original_chunk`; naming a device outside std 9's own seven (વર્ણાનુપ્રાસ, પ્રાસસાંકળી, ઉપમા, રૂપક, ઉત્પ્રેક્ષા, વ્યતિરેક, અતિશયોક્તિ) is naming above this standard's ceiling.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ‘તાંદુલની પોટલીમાં પૂનમની રાત બાંધવી’ને શબ્દશઃ, સાચે બનતી વાત તરીકે લેશે — જાણે ખરેખર કોઈ રાત પોટલીમાં બંધાઈ શકે — અને એ સમજી નહીં શકે કે આ રાધાની કલ્પના છે, પૂનમની રાતના મિલનની તીવ્ર ઝંખના વ્યક્ત કરવાની એક અતિશયોક્તિભરી રીત.",
+      "correction": "explanation પહેલા કહે કે ખરેખર પોટલીમાં રાત ના બંધાય, પછી બતાવે કે રાધા આ અશક્ય ચિત્ર દ્વારા પૂનમની રાતના મિલનની ઝંખના કેટલી તીવ્ર છે તે કહે છે — ચિત્રને કલ્પના તરીકે જ રાખવું, હકીકત તરીકે નહીં."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name a concrete word from this topic's `original_chunk` — ‘અડવાણે’ (bare feet) or ‘ગોકુળ’ — not open with the abstract ભાવ (વિરહ) directly.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Literal reading of a figurative line: `explanation` must present ‘વિરહાનાં રાજ નહિ જીતો ગોકુળનાં’ as the poem's own metaphor — વિરહ pictured as something with a hold or reach as strong as a kingdom's rule, not easily won over — never as a statement about an actual kingdom to be conquered.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Political framing: no `explanation` or `real_life_example` sentence turns ‘રાજ’ in this line into a discussion of an actual kingdom, ruler, army or government — the word stays inside the poem's own metaphor for how deep-rooted Radha's વિરહ is.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Never modernise the poet: the printed form ‘નૈં’ in this topic's `original_chunk` (‘અડવાણે નૈં દોડે કોઈ અહીં’) is glossed and explained as the spoken/poetic form of ‘નહીં’, kept exactly as printed wherever the line is quoted, never silently changed to ‘નહીં’.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ‘વિરહાનાં રાજ નહિ જીતો ગોકુળનાં’ પંક્તિમાં ‘રાજ’ શબ્દને શાબ્દિક રીતે કોઈ ખરેખરના રાજ્ય/સત્તા તરીકે લેશે, અને પંક્તિને કૃષ્ણ કોઈ રાજ પર વિજય મેળવવા જાય એવી લડાઈની વાત સમજી બેસશે — જ્યારે ‘રાજ’ અહીં ફક્ત એ બતાવે છે કે રાધાનો વિરહ કેટલો ઊંડો અને અઘરો છે, જીતવો સહેલો નથી.",
+      "correction": "explanation સ્પષ્ટ કરે કે અહીં ‘રાજ’ કોઈ ખરેખરું રાજ્ય નથી — રાધાના વિરહની ઊંડાઈ અને તાકાત બતાવવાની કવિની પોતાની રીત છે, અને ‘અડવાણે નૈં દોડે કોઈ’ સાથે જોડીને કહે કે અહીંનું દર્દ સહેલાઈથી ઓછું થાય એવું નથી."
+    },
+    {
+      "topic_id": "M2.S3.T7",
+      "avoid_checks": [
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name a concrete word from this topic's `original_chunk` — ‘સમરાંગણ’, ‘શ્યામ’ or ‘હથિયાર’ — not open with the abstract ભાવ (ટકોર, રીસ) directly.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Political framing: no `explanation` or `real_life_example` sentence names an actual army, war, government or present-day conflict in connection with ‘સમરાંગણ’ — the word stays the poem's own reference to Krishna's battlefield success, never expanded into a real military or political discussion the chapter does not print.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ‘સમરાંગણ તમને તો શોભે હો શ્યામ, વગર હથિયારે ત્યાં જ તમે ફાવશો !’ને કૃષ્ણના પરાક્રમની સીધી, નિખાલસ પ્રશંસા સમજી લેશે, અને એની નીચે છુપાયેલી હળવી ટકોર ચૂકી જશે — કે યુદ્ધભૂમિમાં હથિયાર વગર ફાવવું કૃષ્ણ માટે સહેલું છે, પણ ગોકુળમાં પાછા આવવા માટે તો હથિયારની નહીં, પ્રેમની જરૂર છે, અને ત્યાં કૃષ્ણ હજુ ‘ફાવ્યા’ નથી.",
+      "correction": "explanation પંક્તિ ટાંકીને બતાવે કે આ પ્રશંસાની સાથે રાધાની હળવી ટકોર પણ છે — સમરાંગણમાં ફાવવું સહેલું, પણ ગોકુળમાં (પ્રેમમાં) પાછા આવવા માટે કંઈક બીજું જોઈએ એ કહ્યા વગર કહી દેવાયું છે."
+    },
+    {
+      "topic_id": "M2.S4.T8",
+      "avoid_checks": [
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name a concrete word from this topic's `original_chunk` — ‘કદંબ’, ‘પાંદડે’ or ‘પાંપણ’ — not open with the abstract ભાવ (વિરહ) directly.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Literal reading of a figurative line: `explanation` must present ‘પાંપણની ભાષામાં લખી લખી આંખ હવે ભરીએ’ as the poem's image for writing through tears — crying itself as the ‘writing’ — never as a claim that eyelashes form an actual second language or script.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Skipping the craft: this topic's own `original_chunk` (‘પાંદડે કદમ્બના પાંપણની ભાષામાં’) repeats the ‘પ’ sound across ‘પાંદડે’ and ‘પાંપણની’ — the chapter's own printed ભાષા-અભિવ્યક્તિ block points at exactly this line for વર્ણાનુપ્રાસ (01_meta.json genre_signals.exercises); `explanation` or `figures_of_speech[]` must name this sound-repetition, or the printed exercise is left unprepared.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ‘પાંપણની ભાષામાં લખવું’ને કોઈ જુદી, ખરેખરની ભાષા કે લિપિ સમજી લેશે — જાણે પાંપણો વડે કોઈ કોડ-ભાષા લખાતી હોય — અને ચૂકી જશે કે આ આંસુ વાટે વ્યક્ત થતા મૌન દર્દનું ચિત્ર છે, જ્યાં આંખ ભરાવી એ જ ‘લખવું’ છે.",
+      "correction": "explanation સ્પષ્ટ કરે કે ‘પાંપણની ભાષા’ એટલે આંસુ — રાધા શબ્દોને બદલે આંસુ વાટે પોતાનું દર્દ વ્યક્ત કરે છે, અને ‘કદમ્બના પાંદડે લખવું’ પણ આવી જ કલ્પનાભરી રીત છે, ખરેખરની લેખન-પદ્ધતિ નહીં."
+    },
+    {
+      "topic_id": "M2.S4.T9",
+      "avoid_checks": [
+        {
+          "check": "Feeling before picture: the first sentence of `explanation` must name a concrete word from this topic's `original_chunk` — ‘જમનાનાં જળ’, ‘માધવ’ or ‘દ્વારકા’ — not open with the abstract ભાવ directly.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Over-scientifying: no word naming a river/geography mechanism (નદી સમુદ્રમાં કેવી રીતે ભળે છે, પ્રવાહની દિશા, સંગમ) may appear in `explanation` — this topic's own text never explains geography, it asks the water to carry a message, as a picture.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Literal reading of a figurative line: `explanation` must present ‘જમનાનાં જળ, તમે દેજો હાથોહાથ માધવને દ્વારકાના દરિયે’ as the poem picturing the river as a messenger carrying Radha's feeling to Krishna — not as a factual claim that Yamuna's water actually reaches Dwarka's sea hand-to-hand.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Invented craft: this topic's river-as-messenger picture reads like personification, but સજીવારોપણ is a std-10-only device in the measured canon (`reference/alankar_chhand.md`: std 9 = વર્ણાનુપ્રાસ, પ્રાસસાંકળી, ઉપમા, રૂપક, ઉત્પ્રેક્ષા, વ્યતિરેક, અતિશયોક્તિ; std 10 adds સજીવારોપણ) — `figures_of_speech[]` and `key_terms` must not label this picture સજીવારોપણ at std 9; describe it in `explanation` as a picture, unlabelled, or leave `figures_of_speech: []`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ‘જમનાનાં જળ, તમે દેજો હાથોહાથ માધવને દ્વારકાના દરિયે’ને ભૂગોળની હકીકત તરીકે લેશે — જાણે યમુનાનું પાણી ખરેખર વહીને દ્વારકાના દરિયા સુધી પહોંચે છે — અને ચૂકી જશે કે રાધા અહીં નદીને સંદેશવાહકની જેમ સંબોધે છે, જાણે પાણી પોતે કૃષ્ણ સુધી પ્રેમનો સંદેશો પહોંચાડી શકે.",
+      "correction": "explanation સ્પષ્ટ કરે કે રાધા જમનાના પાણીને જાણે એક સંદેશવાહક હોય એમ સંબોધે છે — ખરેખરની નદી-સમુદ્ર ભૂગોળની વાત નથી — અને ગોકુળ-દ્વારકા વચ્ચેનો સંબંધ જીવંત રાખવાની ઝંખના આ રીતે વ્યક્ત થાય છે."
+    },
+    {
+      "topic_id": "M2.S4.T10",
+      "avoid_checks": [
+        {
+          "check": "Slogans: the last sentence of `explanation`, of `detailed_summary` and of every `recall_questions[].answer` for this topic must stay Radha's own particular request to Shyam, using this topic's own words (‘અંતરમાં ઓછું ના લાવશો’, ‘લખિતંગ રાધાના ઝાઝા જુહાર’) — no closing clause of the shape ‘સૌએ … જોઈએ’ / ‘જીવનમાં … જોઈએ’ that turns it into a general rule about relationships or forgiveness.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Never invent a poet's intention: `explanation` and `key_terms` must name ‘લખિતંગ રાધાના ઝાઝા જુહાર’ as the fictional Radha's own letter-signature inside the poem's letter conceit — never as માધવ રામાનુજની પોતાની છાપ (a poet's signature the way a પદ/ભજન carries one); 01_meta.json's own extraction_notes already settle this distinction.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "કાવ્યની છેલ્લી પંક્તિઓ જોઈને બાળક ‘લખિતંગ રાધાના ઝાઝા જુહાર’ને કવિની પોતાની છાપ (જેમ પદ/ભજનમાં કવિ પોતાનું નામ મૂકે છે) સમજી બેસશે, અને સાથે ‘અંતરમાં ઓછું ના લાવશો’ને આખા કાવ્યનો સાર્વત્રિક બોધ (કોઈને માફ કરી દેવું જોઈએ) બનાવી દેશે — જ્યારે આ આખું પત્ર-કલ્પનની અંદરની રાધાની પોતાની, ચોક્કસ વિનંતી છે, કવિની સહી કે સૌ માટેનો બોધ નથી.",
+      "correction": "explanation અને detailed_summary બંનેમાં સ્પષ્ટ કરવું કે ‘લખિતંગ રાધાના ઝાઝા જુહાર’ એ પત્રની અંદરની રાધાની પોતાની સહી છે, કવિની છાપ નહીં, અને છેલ્લું વાક્ય રાધા-શ્યામ પૂરતું જ રાખવું — સૌ માટેનો બોધ ન બનાવવો."
+    }
+  ],
+  "chapter_level": [
+    "No printed કડી-break or ટેક exists anywhere in this ગીત (01_meta.json structure_inventory: kadi:0, tek_occurrences:0) — the profile's ટેક-specific hard gates (‘ટેકનું ચલિત’, the Agent-4 ટેક structural check, ‘Verbatim of the refrain-shorthand’) do not apply to this chapter; every topic is cut on a turn of address/image per 02_structure.json's own extraction judgement, not on a printed refrain.",
+    "The core/transition couplets (M2.S2.T3 through M2.S4.T9) run on one recurring rhetorical move — a permission granted with one hand and a request withheld with the other (‘ભલે ગોવર્ધન જાવ, પણ કાંઠે ના આવશો’; ‘ભલે તાંદુલની પોટલીમાં પૂનમ બાંધો’ ...). This pattern IS the letter's હળવી રીસ and may be named once, across topics, as the letter's own recurring move — never flattened into one general moral about conditions or demands.",
+    "The poem mixes ના / નહિ / નૈં as its negative particle across different couplets (M2.S2.T3 ‘ના’; M2.S3.T6 ‘નૈં’ and ‘નહિ’ in the same two lines) purely for the line's own rhythm — all are printed forms, and none may be standardised to one spelling when a line is quoted in `explanation`, `key_terms` or a recall answer (`reference/gujarati_verbatim.md`).",
+    "M1.S1.T1's કવિ-પરિચય states only birthplace (પચ્છમ ગામ, અમદાવાદ જિલ્લો), his college roles (અધ્યાપક, આચાર્ય, સી. એન. ફાઇન આર્ટ્સ), his present kidney-hospital service, three named કાવ્યસંગ્રહો and one નવલકથા about રુબિન ડેવિડ — no birth year, no literary movement, no award is printed, and none may be added anywhere in the plan (no_hallucination_policy.md).",
+    "This chapter's genre-identification thread runs M1.S1.T1 → M2.S4.T10: both topics carry the same live risk of reading this modern ગીતના રાધા-કૃષ્ણ material as if it were a મધ્યકાલીન પદ/ભજન carrying a poet's છાપ. 01_meta.json's own extraction_notes already settle that ‘લખિતંગ રાધાના ઝાઝા જુહાર’ is the fictional Radha's letter-signature inside the poem's own conceit, not માધવ રામાનુજની પોતાની છાપ — `explanation` and `key_terms` must never use છાપ/ભણે-style vocabulary for this closing line.",
+    "08_sensitivity.json already flags M1.S1.T2 and M2.S3.T7 for ધર્મ-area caution (do not moralise the romance; do not add unstated Mahabharata narrative detail). This file's political-framing gates on M2.S3.T6 (વિરહનું ‘રાજ’) and M2.S3.T7 (સમરાંગણ, હથિયાર) reinforce that same guidance from the craft side — keep both words inside the poem's own metaphor and compliment, never as a discussion of an actual kingdom, army or war.",
+    "This chapter's std-9 અલંકાર ceiling is the measured seven — વર્ણાનુપ્રાસ, પ્રાસસાંકળી, ઉપમા, રૂપક, ઉત્પ્રેક્ષા, વ્યતિરેક, અતિશયોક્તિ (`reference/alankar_chhand.md`). સજીવારોપણ, though this poem's water-as-messenger picture (M2.S4.T9) reads like it, is a std-10-only addition and must not be named at this standard."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "genre 'લઘુકથા (વાર્તા)' with active_genre_profiles=['varta.md'] matches profiles/genres/_genre_index.md's fold table (લઘુકથા routes to varta, no separate profile) and 01_meta.json/02_structure.json agree with no disagreement.",
+        "explanation_unit is ઘટના-wise per varta.md; this chapter carries kadi=0, duha=0, pad=0, tek_occurrences=0 (pure prose લઘુકથા), so the કડી/દુહો/પદ/ટેક equal-count checks in this gate are not applicable — correctly a measured zero, not a skipped check.",
+        "teaching_lens 'ઘટના + પાત્ર + વળાંક' and the guiding_question are both chapter-derived (name Mohan, Magan, Ramshankar's legacy specifically) and match the profile's lens shape, not a generic restatement.",
+        "Checked against varta.md's five avoid-list items: no objective_text states a tacked-on બોધ ('આ વાર્તા આપણને શીખવે છે…' pattern absent in O1–O5); no character (મગન, મોહન, રામશંકર, સ્વજનો) carries an evaluative negative label; the climax (સાચો દસ્તાવેજ, મોહનની ઓળખ) is named only inside O5/T6 (topic_category climax) and does not leak into O2/O3/O4's text, which precede it in the tree — so the turn is not spoilt early; no પૌરાણિક-debunking item applies (not that sub-form). All five items pass at this structural stage; items 1–2 (summary-only teaching, tacked-on બોધ) are re-checked in full once Agent 7 authors explanation/summary prose.",
+        "The chapter's own 4 printed [[ઘટના: ...]] markers were kept as 4 separate STORY_TELLING topics per 01_meta.json's explicit explanation_unit instruction (not split further, and the ચોટ not opened early). varta.md's 'two or three topics is the normal answer' for a લઘુકથા is a soft prior, not a hard count; the same section explicitly allows the ચોટ line its own topic even at one sentence. 4 story topics matching 4 printed markers, with the intro pair cut separately, is consistent with the profile and is recorded as a note, not a block."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 6,
+      "topics": 6,
+      "notes": [
+        "All 6 reading-scene markers in 00_chapter_normalized.md became exactly one topic each, in printed order: [[લેખક-પરિચય]]→M1.S1.T1, [[કૃતિ-પરિચય]]→M1.S1.T2, the four [[ઘટના: ...]] markers→M2.S2.T3, M2.S3.T4, M2.S3.T5, M2.S4.T6.",
+        "The pre-reading opener (લેખક-પરિચય) is a topic (T1). No in-text REVIEW/wrap marker is printed in this chapter (structure_inventory carries no such block) so that sub-check is not applicable.",
+        "Cross-checked exercise_inventory (MCQ / બે-ત્રણ વાક્યોમાં ઉત્તર / સવિસ્તાર ઉત્તર / વિદ્યાર્થી-પ્રવૃત્તિ) against every topic_name in 02_structure.json — no overlap; none of the six topics carries સ્વાધ્યાય content. [[શબ્દ-સમજૂતી]], [[ભાષા-અભિવ્યક્તિ]] and [[શિક્ષકની ભૂમિકા]] are also correctly excluded as apparatus, not topics.",
+        "No topic's note cites text outside its own marker's span; the source line ('અક્ષત'માંથી) is explicitly reserved for T6's original_chunk per the notes, matching gujarati_verbatim.md's attribution rule."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 5,
+      "notes": [
+        "objectives[] has 5 entries, O1–O5, all objective_id unique; strand_to_objective_map covers L1–L5 exactly once, each pointing at the matching O{n}.",
+        "Every home_topic_id (M1.S1.T1, M2.S2.T3, M2.S3.T4, M2.S3.T5, M2.S4.T6) and every anchor[] concept id (…T1.C1, …T2.C2, …T3.C3, …T4.C4, …T5.C5, …T6.C6) resolves to a node actually present in the modules tree.",
+        "Every topic carries objective_ids resolving to the registry: T1,T2→O1 (O1's anchor spans both concepts, consistent with the shared pre-reading pair); T3→O2; T4→O3; T5→O4; T6→O5.",
+        "Each objective is text-grounded and chapter-specific (names દુર્ગેશ ઓઝા, 'વારસાગત', રામશંકર/મગન/મોહન and the specific printed lines/idiom by content) and could not be pasted into another chapter; O4/O5's craft language (ઉપમા+યમક, યમક) is not invented — both are named in the chapter's own ભાષા-અભિવ્યક્તિ box, matching the std-9 naming ceiling in teaching_voice_gu.md. All five serve the lens 'ઘટના + પાત્ર + વળાંક'.",
+        "Ids match reference/naming_conventions.md: M/S/T run continuously across the whole chapter (S1 in M1; S2,S3,S4 in M2; T1..T6 never restarting per module), C{n} equals its topic number throughout (chapter-continuous), and no M1.S1.T1.P1-style objective code appears anywhere — objectives live only in the root registry as O{n}."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "depends_on is empty on M2.S2.T3 and M2.S3.T4 (sequencing is carried by tree/traversal order rather than an explicit dependency edge to the immediately preceding topic) — not a blocking gate item, worth Agent 13's eye for consistency with sibling chapters.",
+    "The printed typo/asymmetry between page 47's 'હડસેલતા કહ્યું' and page 49's ભાષા-અભિવ્યક્તિ box 'હડસલતા કલ્યું' / 'યમક અંલકાર' was correctly left as-is (sic) per gujarati_verbatim.md and is already re-flagged in T5/T6 notes for Agent 5/7/12.",
+    "O1's objective_text runs to 25 Gujarati words, within the provisional 12–30 word band (VERIFY-4); this is Agent 7's band to hold to going forward, recorded here only as an observation."
+  ]
+}

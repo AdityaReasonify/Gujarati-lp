@@ -1,0 +1,173 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Every biographical fact, book title or award named in `explanation`, `summary`, `detailed_summary` or a recall `answer` for this topic (વિનોદ જશવંતલાલ ભટ્ટ, અમદાવાદના વતની; book titles such as 'ઈદમ તૃતીયમ્' or 'હાસ્યોપચાર'; રણજિતરામ સુવર્ણચંદ્રક; સાહિત્ય પરિષદ અને ગુજરાત સાહિત્ય અકાદમીના એવોર્ડ; the named figures he wrote ચરિત્રો of — નર્મદ, મુનશી, જ્યોતીન્દ્ર દવે, ચાર્લી ચેપ્લિન, બર્નાડ શો, એન્ટની ચેખવ) must appear in this topic's `original_chunk`; no further birth-year, award, or book title may be added.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field presents 'લેખક' (વિનોદ ભટ્ટ) as the person making the food-obsessed travel remarks. `original_chunk` itself names the caricature 'સર્વજ્ઞભાઈ' as the one being satirised ('...એ ટેવ વિશે લેખક કટાક્ષ કરે છે'), and 'લેખક' never speaks in the first person anywhere in this chapter. An `explanation`, `summary`, `detailed_summary` or recall `answer` that merges 'લેખક' and 'સર્વજ્ઞભાઈ' into one voice, or has 'લેખક' say a line સર્વજ્ઞભાઈ speaks, fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `summary`, `detailed_summary` or recall `answer` for this topic closes on an unquoted 'આપણે ... જોઈએ' or 'આ પાઠ શીખવે છે' sentence; the only permitted framing of the essay's purpose is what `original_chunk` itself states — 'માણસ વિખ્યાત જગ્યાએ પ્રવાસમાં જઈને પણ ત્યાં વાત તો ખાણીપીણીની જ કરે... એ ટેવ વિશે લેખક કટાક્ષ કરે છે.'",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'લેખક' અને 'સર્વજ્ઞભાઈ'ને એક જ વ્યક્તિ સમજી લે છે, જાણે વિનોદ ભટ્ટ પોતે જ ખાણી-પીણી પાછળ ગાંડા હોવાની કબૂલાત કરે છે — જ્યારે ખરેખર લેખક ત્રીજા પુરુષમાં બહારથી ઊભા રહીને સર્વજ્ઞભાઈની આ ટેવ પર કટાક્ષ કરે છે.",
+      "correction": "'એ ટેવ વિશે લેખક કટાક્ષ કરે છે' એ વાક્ય પરથી સ્પષ્ટ કરો કે લેખક પોતે વાતચીતની બહાર ઊભા છે અને 'સર્વજ્ઞભાઈ' નામની ટેવ પર હસે છે — આખા પાઠમાં લેખકનું પોતાનું કોઈ 'હું' ક્યાંય બોલતું નથી."
+    },
+    {
+      "topic_id": "M2.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "This topic's `original_chunk` carries first-person forms ('મેં', 'હું', 'અમે') only inside સર્વજ્ઞભાઈ's own quoted speech ('મેં અંદર જઈને તાજમહેલ જોયો જ નથી', 'હું તો તાજની બહાર બેસીને દાળવડાં ખાઈ લઉં છું', 'અમે તો... આગ્રા જઈએ ત્યારે'). `explanation`'s first sentence must name સર્વજ્ઞભાઈ — never 'લેખક' — as the grammatical subject; an explanation opening as unattributed fact ('આગ્રામાં તાજમહેલ પાસે એક દાળવડાંવાળો છે.') fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "In this હાસ્ય-routed chapter, at most one sentence of `explanation` may talk about the humour of pairing 'તાજમહેલ' with 'ટેસ્ટી'; no field contains 'આ રમૂજી છે કારણ કે', 'અહીં લેખક મજાક કરે છે', or a flat restatement of 'તાજમહેલ અને ટેસ્ટી ?' as its own gloss.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` must name once, as કટાક્ષ, that સર્વજ્ઞભાઈ — who admits 'મેં અંદર જઈને તાજમહેલ જોયો જ નથી' — still delivers a verdict on it ('લાખ્ખો રૂપિયા ખરચીને તેણે બાંધી તો એક કબર જ ને !'); no field presents that verdict as a straight, serious opinion about the તાજમહેલ's worth.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field adds a fact about the તાજમહેલ (build date, builder, monument status) beyond what `original_chunk` states — a man spending money 'પોતાની બૈરી પાછળ' who built 'એક કબર'.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક સર્વજ્ઞભાઈના 'લાખ્ખો રૂપિયા ખરચીને એક કબર જ બાંધી' એ વાક્યને તાજમહેલ વિશેની ગંભીર, સાચી ટીકા સમજી લે છે અને ચૂકી જાય છે કે આ સર્વજ્ઞભાઈની પોતાની સ્વાદ-કેન્દ્રી દૃષ્ટિ પરની કટાક્ષ છે — તાજમહેલ વિશેની સાચી વાત નથી.",
+      "correction": "એક જ વાક્યમાં નામ આપો કે આ કટાક્ષ છે: સર્વજ્ઞભાઈએ તાજમહેલ અંદરથી જોયો જ નથી, છતાં તેના વિશે ચુકાદો આપે છે — એ જ હાસ્યનો મુદ્દો છે; તાજમહેલના મૂલ્ય વિશે કંઈ નવું ઉમેરવું નહીં."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "This topic's `original_chunk` carries a first-person form ('અમે તો ઘણીવાર નારિયેળનું પાણી પીવા માટે જ પેનોરમા પોઈન્ટ પર જતાં'). `explanation`'s first sentence must name સર્વજ્ઞભાઈ as the grammatical subject of this claim; an explanation that opens by listing માથેરાનનાં પોઈન્ટ્સ as neutral tourist information, without સર્વજ્ઞભાઈ as subject, fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "At most one sentence of `explanation` talks about the humour of 'દાદાગીરી બોસ, માથેરાન એટલે માથેરાન'; no field explains the phrase or restates it as its own gloss.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` must name once, as કટાક્ષ, that after naming three sightseeing points (સનસેટ પોઈન્ટ, એકો પોઈન્ટ, પેનોરમા પોઈન્ટ) સર્વજ્ઞભાઈનો જવાબ એક નારિયેળવાળા પર જ અટકી જાય છે; no field presents the three points as places he actually values or visited for their own sake.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field adds outside information about માથેરાનનાં પોઈન્ટ્સ (their height, distance, history) beyond their names as printed.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક વિચારે છે કે સર્વજ્ઞભાઈ ખરેખર માથેરાનનાં જોવાલાયક પોઈન્ટ્સ (સનસેટ, એકો, પેનોરમા) વિશે માહિતી આપી રહ્યા છે, અને ચૂકી જાય છે કે ત્રણેય પોઈન્ટનું નામ લીધા પછી પણ તેમને માત્ર નારિયેળ-પાણી જ યાદ રહે છે — એ જ કટાક્ષ છે.",
+      "correction": "પોઈન્ટ્સનાં નામ પછી તરત બતાવો કે સર્વજ્ઞભાઈનો આખો જવાબ નારિયેળ-પાણી પર જ અટકી જાય છે — નામ આપ્યાં, પણ જોયું કંઈ નહીં; એ જ ટેવ ફરી દેખાય છે."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "At most one sentence of `explanation` talks about the humour of the English-loanword string ('દિલ્હી ચાટસેન્ટર', 'ફક્કડ', 'હમ્બગ'); no field explains why those words are funny.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` must name once, as અતિશયોક્તિ/કટાક્ષ, that 'હવે તો આતંકવાદીઓને કારણે સાલી કશ્મીરમાંય ગરમી પડે છે' is સર્વજ્ઞભાઈ's own absurd extension of his દાળઢોકળી-ફરિયાદ, not a considered claim about કશ્મીર; no field softens or 'corrects' the line into a literal statement.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field elaborates the 'આતંકવાદીઓ'/કશ્મીર line with any outside fact, date or political detail about Jammu-Kashmir; the line stays exactly what `original_chunk` prints, tied only to the 'ફૂટની દાળઢોકળી ગુમાવવી પડી' પ્રસંગ.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'આતંકવાદીઓને કારણે કશ્મીરમાંય ગરમી પડે છે' વાક્યને ગંભીર, વાસ્તવિક ફરિયાદ સમજી લે છે, અને ચૂકી જાય છે કે આ સર્વજ્ઞભાઈની પોતાની હોટેલ-દાળઢોકળી ગુમાવવાની ફરિયાદ સાથે જોડાયેલી બેહૂદી, અતિશયોક્તિભરી કટાક્ષ-કડી છે — બે અસંબંધિત વાતોને હાસ્ય માટે જોડી છે.",
+      "correction": "એક જ વાક્યમાં બતાવો કે 'ગરમી પડે છે' કડી ફૂટની દાળઢોકળી ગુમાવવાની ફરિયાદ સાથે જ જોડાયેલી અતિશયોક્તિ છે, વાસ્તવિક કશ્મીર-સ્થિતિ વિશેની ટિપ્પણી નથી — આગળ કંઈ ઉમેરવું નહીં."
+    },
+    {
+      "topic_id": "M2.S2.T5",
+      "avoid_checks": [
+        {
+          "check": "No field states 'સૂરજ તો બધે જ સરખો' as the chapter's own general life-lesson or as a literal fact about sunlight; wherever quoted, it must be attributed to સર્વજ્ઞભાઈ as his own excuse for skipping the sunrise ('સૂરજ તો નવરો છે તે વહેલો ઊગી જાય... શા માટે ઉજાગરો વેઠવો !'), never presented as an unattributed moral.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "At most one sentence of `explanation` talks about the humour of the આબુ-ભીડ complaint ('તમને અડધું અમદાવાદ ત્યાં જોવા મળશે'); no field explains the joke line by line.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` must name once, as કટાક્ષ, સર્વજ્ઞભાઈ's own closing regret ('આટલા પૈસા ખરચીને આબુ આવ્યા એ કરતાં અમદાવાદમાં જ રહ્યા હોત તો વધુ સારું થાત'); no field turns this into a straight, general recommendation against visiting આબુ.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field expands the કહેવત 'સસ્તું ભાડું ને સિદ્ધપુરની જાત્રા' with an origin story, a history of સિદ્ધપુરની જાત્રા, or any fact not printed in `original_chunk` or the chapter's own કહેવત apparatus.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Any `figures_of_speech` entry for this topic quotes exact words from `original_chunk` ('સૂરજ તો બધે જ સરખો'); no device (ઉપમા, ઉત્પ્રેક્ષા, રૂપક) is named without checking `reference/alankar_chhand.md`'s std-10 registry against the line's actual construction — `figures_of_speech: []` stays correct if the line does not fit a registry device precisely.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'સૂરજ તો બધે જ સરખો' અને 'સસ્તું ભાડું ને સિદ્ધપુરની જાત્રા'ને લેખકનો ડહાપણભર્યો બોધ સમજી લે છે, જ્યારે ખરેખર આ સર્વજ્ઞભાઈનું પોતાનું બહાનું છે — વહેલા ઊઠવાનું ટાળવા અને સોંઘું પ્રવાસ શોધવા માટેનું — અને છેલ્લે તે પોતે જ આબુમાં ફસાઈને પસ્તાય છે.",
+      "correction": "બતાવો કે 'સૂરજ તો બધે જ સરખો' સર્વજ્ઞભાઈનું પોતાનું તર્ક છે (વહેલા ન ઊઠવા માટે), અને ફકરાના અંતે એ પોતે જ કબૂલે છે કે આબુ જવા કરતાં અમદાવાદમાં રહેવું સારું હોત — આ કડી પછીની ટોપિકની અંતિમ ટીકા તરફ દોરી જાય છે."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "No `explanation` or `summary` asks or answers why સર્વજ્ઞભાઈ 'finally chose' Ahmedabad as a plot turning point born of realisation or growth; it is the same food/comfort habit, run across every place, reaching its natural comic endpoint — not a lesson learned.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field closes on an unattributed 'ઘરમાં જ સુખ છે' or 'પ્રવાસ કરવો ન જોઈએ' moral; where 'પૃથ્વીનો છેડો ઘર' is quoted, attribute it to સર્વજ્ઞભાઈ's own rationalisation, and let the topic end on his concrete decision (ધાબા પર પથારી કરવી, આઈસ્ક્રીમ ખાવો), not a general value statement.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "At most one sentence of `explanation` talks about the humour of the ધાબા-આઈસ્ક્રીમ ending; no field explains why staying home is the punchline.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "The printed closing parenthetical ('વગેરે, વગેરે, વગેરે...' માંથી) appears verbatim inside this topic's `original_chunk` and nowhere else; no field explains, names, or guesses which larger work this line is drawn from beyond what is printed.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field adds a fact about the source work named in the credit line ('વગેરે, વગેરે, વગેરે...') — its publication, its other content — beyond the credit as printed.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક અંતિમ નિર્ણય ('ધાબા પર સૂઈ રહેવું, ક્યાંય જવું નહીં')ને લેખકનો સીધો બોધ સમજી લે છે કે 'ઘરમાં જ સુખ છે, પ્રવાસ ન કરવો', જ્યારે ખરેખર આ આખા નિબંધની કટાક્ષ-શ્રેણીનું અંતિમ, અતિશયોક્તિભર્યું પરિણામ છે — સર્વજ્ઞભાઈ ક્યાંય ગયા વગર, ખાલી ખાણી-પીણીની કલ્પનાથી જ સંતોષ માની લે છે.",
+      "correction": "બતાવો કે આ નિર્ણય પાંચેય સ્થળોની વાતોમાં પુનરાવર્તાયેલી એ જ ટેવ (ખાણી-પીણી પર ધ્યાન)નું છેલ્લું, સૌથી ઉગ્ર પગલું છે — 'પૃથ્વીનો છેડો ઘર' સર્વજ્ઞભાઈનું પોતાનું બહાનું છે, પ્રવાસ વિશેનો સાચો સંદેશ નહીં."
+    }
+  ],
+  "chapter_level": [
+    "આખા પાઠમાં 'લેખક' (વિનોદ ભટ્ટ) ક્યાંય પ્રથમ પુરુષમાં બોલતા નથી — તે અદૃશ્ય, બીજા અવાજ તરીકે માત્ર પ્રશ્નો પૂછે છે. સર્વજ્ઞભાઈની વાણીમાં આવતાં 'હું'/'મેં'/'અમે' એ કેરિકેચર પાત્રનાં પોતાનાં છે, લેખકની કબૂલાત નથી — કોઈ પણ ટોપિકનું કોઈ પણ ફીલ્ડ આ બે અવાજને ભેળવે નહીં, જે M1.S1.T1's extraction_notes-માં ખાસ નોંધાયેલી ચેતવણી છે.",
+    "આખો પાઠ લગભગ સંપૂર્ણપણે અવતરણ-ચિહ્નમાં મુકાયેલો સંવાદ છે, જેમાં કોઈ 'સર્વજ્ઞભાઈ ગુસ્સે થઈને બોલ્યા' જેવું કથક-વર્ણન નથી — કોઈ પણ ટોપિકનું `explanation` પાનું છાપતું નથી એવો સૂર કે હાવભાવ ઉમેરે નહીં.",
+    "પાંચેય સ્થળોની વાતો (આગ્રા, માથેરાન, દાર્જિલિંગ, મહાબળેશ્વર, આબુ) એક જ ટેવના પુનરાવર્તન-દ્વારા-ઉગ્રતા છે, જે છેલ્લે અમદાવાદમાં જ રહેવાના નિર્ણય પર પહોંચે છે — દરેક ટોપિક પોતાના explanation-માં આ ચાલુ ભાત તરફ ઈશારો કરે, જેથી પાંચ અલગ-અલગ પ્રવાસ-માહિતીના ટુકડા તરીકે ભણાવાય નહીં.",
+    "ગુજરાતી લિપિમાં લખાયેલા અંગ્રેજી શબ્દો (ટેસ્ટી, ડોન્ટ મિસ ઈટ, બ્યુટિફૂલ, સુપર્બ, ફેન્ટાસ્ટિક, ફક્કડ, હમ્બગ) એ સર્વજ્ઞભાઈની પોતાની બોલવાની ઢબનો ભાગ છે, છાપ્યા પ્રમાણે જ — તેમને 'શુદ્ધ' ગુજરાતીમાં ફેરવવા કે ભૂલ ગણવા નહીં; માત્ર key_terms-માં ગ્લોસ કરવા.",
+    "એકમાત્ર વાસ્તવિક-જગતનો રાજકીય ઉલ્લેખ (M2.S2.T4નો 'આતંકવાદીઓ'/કશ્મીર વાક્ય) જ્યાં પણ સ્પર્શાય ત્યાં છાપેલા શબ્દોમાં જ રહેવો જોઈએ — કોઈ પણ ટોપિકનું કોઈ ફીલ્ડ તેને રાજકીય ટિપ્પણીમાં ફેરવે નહીં; આ Agent 8ની સંવેદનશીલતા-તપાસ માટે પણ નોંધ છે."
+  ]
+}

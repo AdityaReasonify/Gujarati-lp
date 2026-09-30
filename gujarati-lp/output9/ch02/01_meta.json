@@ -1,0 +1,70 @@
+{
+  "board": "gseb",
+  "grade": 9,
+  "subject": "Gujarati",
+  "level": "standard",
+  "version": 1,
+  "chapter_id": "gseb_eng_gujarati9_ch2",
+  "plan_id": "gseb_eng_gujarati9_ch2_v1",
+  "chapter_name": "પરોપકારી મનુષ્યો",
+  "unit_title": "પરોપકારી મનુષ્યો",
+  "unit_number": 2,
+  "topic_number": null,
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9",
+  "textbook_url": "../Textbooks-pdf/std-9/ch-02-paropkari-manushyo.pdf",
+  "textbook_pages": "3-7",
+  "chapter_master_id": null,
+  "subject_ref_id": null,
+  "genre": "હાસ્યનિબંધ",
+  "genre_signals": {
+    "structure": "સળંગ ગદ્ય, પ્રથમ પુરુષ કથન. કોઈ પદ્ય નથી, કોઈ પાત્રો-બોક્સ કે રંગસૂચના નથી. લેખિકાની આંજણી મટાડવા એક પછી એક જુદી જુદી વ્યક્તિઓ (ઘરના દાક્તર, કુટુંબનો મિત્ર, દુકાનદાર, ચશ્માંવાળો, જૂનો મુનીમ, હજામ, ઑફિસનો સાથી, પારસી ભૈયો, માસી-રસોઈયો-ધોબી-પીંજારો, દણણાવાળી, ગોણ વેચનાર મારવાડી, ગોર, પારસી દોસ્તદાર, વિધવા ફોઈ) વણમાગી સલાહ આપે છે એવી ઘટનાઓની સાંકળ, છેલ્લે દાક્તર પાસે પાછા જવાના વળાંક પર પૂરી થાય છે.",
+    "theme": "હાસ્ય — વણમાગી સલાહ આપવાની માનવસહજ વૃત્તિ અને તેને અનુસરવાથી સર્જાતી હાસ્યાસ્પદ-વરવી સ્થિતિ.",
+    "exercises": "MCQ (✓ નિશાની), કારણ આપો, બે-ત્રણ વાક્યમાં ઉત્તર, પાંચ-છ વાક્યમાં ઉત્તર — std 9ના ધોરણગત જવાબ-લંબાઈના ક્રમને અનુસરે છે; કોઈ ઘટના-ક્રમ ગોઠવવાનો બ્લોક નથી, કોઈ 'હોત તો શું થાત ?' પ્રકારનો કાલ્પનિક પ્રશ્ન નથી — વાર્તા-સંકેત ગેરહાજર છે.",
+    "purpose": "માનવ સ્વભાવમાં રહેલી, વગર માગ્યે સલાહ આપવાની વૃત્તિ પર નર્મ-મર્મ કટાક્ષ કરી હાસ્ય નિષ્પન્ન કરવું. કૃતિ-પરિચય પોતે કહે છે: 'આ હાસ્યનિબંધમાં પારકાની મુશ્કેલી જોઈને વણમાગી સલાહ આપનારા લોકોને કારણે સર્જાતી તકલીફોનું નર્મ-મર્મ ગદ્યમાં નિરૂપણ છે... આ હાસ્યનિબંધ દ્વારા માનવ સ્વભાવમાં રહેલી શિખામણ આપવાની વૃત્તિનો પરિચય મળે છે.' શિક્ષકની ભૂમિકા બોક્સ પણ પુષ્ટિ કરે છે: 'વણમાગી સલાહ આપનાર વ્યક્તિઓનો તોટો નથી... તે વાત અહીં વ્યંગ દ્વારા સૂચવાઈ છે.'"
+  },
+  "genre_confidence": "high",
+  "active_genre_profiles": ["nibandh_atmaparak.md"],
+  "teaching_lens": "સ્વર + પ્રસંગ + પોતાની જાત પરની નજર",
+  "guiding_question": "આંજણી મટાડવા દરેક વ્યક્તિ પોતાનો જ ઉપાય સાચો માની લેખિકાને શા માટે સલાહ આપતી રહી, અને લેખિકા આ બધી સલાહો કેમ સ્વીકારતાં ગયાં ?",
+  "explanation_unit": "એક ઘટના (એક સલાહ-પ્રસંગ)",
+  "structure_inventory": {
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0,
+    "ghatna": 13,
+    "tek_occurrences": 0
+  },
+  "exercise_inventory": [
+    {
+      "group": "MCQ",
+      "items": 4,
+      "verbatim_heading": "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો :"
+    },
+    {
+      "group": "કારણ આપો",
+      "items": 1,
+      "verbatim_heading": "કારણ આપો :"
+    },
+    {
+      "group": "બે-ત્રણ વાક્યમાં ઉત્તર",
+      "items": 2,
+      "verbatim_heading": "નીચેના પ્રશ્નોના બે-ત્રણ વાક્યમાં ઉત્તર લખો :"
+    },
+    {
+      "group": "પાંચ-છ વાક્યમાં ઉત્તર",
+      "items": 2,
+      "verbatim_heading": "નીચેના પ્રશ્નોના પાંચ-છ વાક્યમાં ઉત્તર લખો :"
+    }
+  ],
+  "extraction_notes": [
+    "std-9 printed સ્વાધ્યાય banner confirmed above the four numbered blocks (page 4), per the board profile's std-9/10 convention.",
+    "Low-dpi (100 dpi) footer render initially misread as 'ધોરણ 7' on pages 2, 4 and 5; re-rendered at 300 dpi and confirmed as 'ધોરણ 9' — a numeral-confusion artifact at low dpi, not a real discrepancy. Chapter identity (page-1 number box '2', title પરોપકારી મનુષ્યો, author વિદ્યાબહેન નીલકંઠ, printed pp 3-7) matches the std-9 ch-2 row in profiles/boards/gseb_gujarati.md exactly.",
+    "લેખક-પરિચય (વિદ્યાગૌરી રમણભાઈ નીલકંઠ) is printed before the text, per the std-9 page layout described in the board profile (author line + કૃતિ-પરિચય before the text, no blue intro box as std 6-8 use).",
+    "કૃતિ-પરિચય paragraph itself names the સ્વરૂપ ('આ હાસ્યનિબંધમાં...') and the શિક્ષકની ભૂમિકા box repeats 'આ હાસ્યનિબંધમાં' — both are evidence, recorded verbatim in genre_signals, and agree with the board profile's prior.",
+    "The essay quotes non-standard/dialect and code-mixed speech verbatim as printed: a Marwadi gunny-sack seller, a Parsi mill-hand's Hindi-mixed speech ('જી ઈસમેં ક્યા બડી બાત હૈ...'), a Parsi friend's Gujarati-with-Parsi-inflection ('આય સું ગોજું કરી મૂક્યું છે...'), and a village dialect-flavoured foi. All transcribed exactly as printed, including apparent grammatical irregularities, per gujarati_verbatim.md — these are the chapter's own comic register, not extraction errors.",
+    "ભાષા-અભિવ્યક્તિ (activity prompts + a printed રૂઢિપ્રયોગ ('પૂણો મૂકવો') explanation, and six quoted humorous sentences the book itself points at) and શિક્ષકની ભૂમિકા are teacher-addressed apparatus, recorded here and in 00_chapter_normalized.md under their own marker headings, and are NOT part of exercise_inventory or any reading scene, per genre_diagnosis.md and _genre_index.md item 6.",
+    "શબ્દ-સમજૂતી box (સમાનાર્થી/શબ્દાર્થ, વિરુદ્ધાર્થી, તળપદા શબ્દો, શબ્દસમૂહ માટે એક શબ્દ) is glossary apparatus, not an exercise block and not a reading scene; transcribed in 00_chapter_normalized.md for downstream gloss use.",
+    "structure_inventory.ghatna counts each distinct advice-giving episode as one ઘટના per the [[ઘટના: ...]] markers placed in 00_chapter_normalized.md; this is the author's own count, not a printed chapter division — the essay prints no numbered sections.",
+    "No પૂરકવાચન, no revision unit, no વ્યાકરણ એકમ apparatus in this chapter — it is a standard numbered teaching chapter (std-9 ch 2 of 23)."
+  ]
+}

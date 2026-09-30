@@ -1,0 +1,319 @@
+{
+  "chapter_id": "gseb_eng_gujarati10_ch4",
+  "plan_id": "gseb_eng_gujarati10_ch4_v1",
+  "genre": "પ્રાર્થના-કાવ્ય",
+  "active_genre_profiles": [
+    "prarthana_kavita.md"
+  ],
+  "teaching_lens": "યાચના + સંબોધન + આત્મબળ",
+  "guiding_question": "કવિ 'મારું જીવન અંજલિ થાજો' કહીને પોતાના જીવન પાસેથી શું-શું માગે છે, અને એ માગણી પરથી 'બીજા માટે જીવવું' એટલે શું એ કેવી રીતે સમજાય છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કરસનદાસ માણેકના ટૂંકા પરિચય અને કૃતિ-પરિચય પરથી 'જીવન અંજલિ થાજો' પ્રાર્થનાકાવ્યનો વિષય અને તેની ધ્રુવપંક્તિનું મહત્ત્વ ઓળખવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ 'ભૂખ્યાં કાજે ભોજન બનજો, તરસ્યાંનું જળ થાજો' કડીમાં પોતાના જીવન પાસેથી શું માગે છે તે તારવીને, ટેક 'મારું જીવન અંજલિ થાજો' સાથે એ માગણીનો સંબંધ સમજાવવો.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": [
+        "M1.S2.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ 'સતની કાંટાળી કેડી પર પુષ્પ બની પથરાજો' પંક્તિમાં સત્યના માર્ગ પરના કષ્ટને પુષ્પ બનીને સહેવાની અને ઝેરને અમૃતમાં પલટવાની માગણી કેવી રીતે કરે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ 'વણથાક્યાં ચરણો મારાં નિત તારી સમીપે ધાજો' અને 'હૈયાનાં પ્રત્યેક સ્પન્દને તારું નામ રટાજો' પંક્તિઓમાં પોતાના સતત ઈશ્વર-સાંનિધ્ય અને નામ-સ્મરણની ઝંખના કેવી રીતે વ્યક્ત કરે છે તે તારવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S3.T4",
+      "anchor": [
+        "M1.S3.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ 'વમળોની વચ્ચે નૈયા મુજ હાલકડોલક થાજો' છતાં 'શ્રદ્ધા કેરો દીપક મારો નવ કદીયે ઓલવાજો' કહીને, મુશ્કેલી વચ્ચે પણ શ્રદ્ધા અતૂટ રાખવાની ઝંખના કેમ વ્યક્ત કરે છે તે મૂલવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M1.S3.T5",
+      "anchor": [
+        "M1.S3.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "અંજલિરૂપ જીવનની પ્રાર્થના",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "કવિ અને પ્રાર્થનાકાવ્યનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "કરસનદાસ માણેક અને પ્રાર્થનાકાવ્યનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "કરસનદાસ નરસિંહભાઈ માણેકનો જન્મ કરાંચીમાં થયો હતો. તેઓ જામનગર જિલ્લાના હડિયાણાના વતની હતા. 'આલબેલ', 'મહોબતને માંડવે', 'વૈશંપાયનની વાણી', 'મધ્યાહ્ન' વગેરે તેમના કાવ્યસંગ્રહ છે. 'હરિનાં લોચનિયાં' અને 'લાક્ષાગૃહ' નામની બે તેમની જાણીતી રચનાઓ પણ છે. 'વૈશંપાયન' ઉપનામથી તેમણે હળવી કટાક્ષમય શૈલીમાં કાવ્યો લખ્યાં છે.\n\nઆ પ્રાર્થનાકાવ્ય સુંદર અને ભાવવાહી છે. પોતાનું જીવન અંજલિરૂપ બને, અન્યને ઉપયોગી થાય તેવી માગણી કવિએ અહીં વ્યક્ત કરી છે. ભૂખ્યા માટે ભોજન બનવું, તરસ્યા માટે જળ બનવું, દીનદુઃખિયાનાં આંસુ લૂછતાં થાકવું નહિ એ દ્વારા કવિએ બીજા માટે જીવવું એ જ સાર્થક જીવન છે તે સચોટ રીતે વર્ણવ્યું છે. સત્યને (સાચને) માર્ગે ચાલનારના માર્ગ પર પુષ્પ બની પથરાવું, જીવનનૈયા હાલકડોલક થાય ત્યારે પણ શ્રદ્ધાનો દીવો બળતો રાખવો એમાં નિઃસ્વાર્થ અને શ્રદ્ધાવાન જીવનની ઝાંખી થાય છે. અન્ય માટે જીવન સમર્પણ કરવાની દિવ્ય ભાવના 'જીવન અંજલિ થાજો' એ ધ્રુવપંક્તિ દ્વારા ખૂબ સરસ રીતે હૃદયમાં કોતરાઈ જાય છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "કરસનદાસ માણેકનો કવિ-પરિચય અને પ્રાર્થનાકાવ્યનો કૃતિ-પરિચય"
+                }
+              ],
+              "modified_chunk": "આ ફકરો કવિ કરસનદાસ માણેકનો ટૂંકો પરિચય આપે છે — તેમનો જન્મ કરાંચીમાં થયો હતો, અને તેઓ 'વૈશંપાયન' ઉપનામ (બીજું નામ) થી હળવી કટાક્ષમય (વ્યંગભરી) શૈલીમાં પણ કાવ્યો લખતા. સાથે આ પ્રાર્થનાકાવ્યનો કૃતિ-પરિચય પણ છે: કવિ પોતાનું જીવન બીજા માટે ઉપયોગી બને એવી માગણી કરે છે — ભૂખ્યાને ભોજન, તરસ્યાને પાણી બનીને, અને દુઃખી લોકોનાં આંસુ લૂછીને. કવિ કહે છે કે બીજા માટે જીવવું એ જ ખરું, સાર્થક જીવન છે, અને એ વાત 'મારું જીવન અંજલિ થાજો' એ ધ્રુવપંક્તિ (વારંવાર આવતી પંક્તિ) દ્વારા કાવ્યમાં વારંવાર સંભળાય છે.",
+              "word_count": {
+                "original": 138,
+                "modified": 87
+              },
+              "key_terms": [
+                "ઉપનામ — બીજું નામ, તખલ્લુસ",
+                "કટાક્ષમય — વ્યંગ ભરેલી, મર્મમાં ટીકા કરતી",
+                "ધ્રુવપંક્તિ — કાવ્યમાં દરેક કડી પછી પાછી આવતી પંક્તિ (ટેક)",
+                "સાર્થક — અર્થપૂર્ણ, જેનું મૂલ્ય હોય તેવું"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [],
+              "note": "Markers [[કવિ-પરિચય]] + [[કૃતિ-પરિચય]] (00_chapter_normalized.md lines 14-18), copied as the two printed paragraphs with their paragraph break kept, per the std-10 unlabelled parichay-pair convention already used in output10/ch01's M1.S1.T1. Verified against scratch/run-s10c4-5/p-1.png at 150 dpi: both paragraphs match the render word-for-word, including the four titles in single quotes and the '('વૈશંપાયન' ઉપનામ...) clause. The poet byline ('કરસનદાસ માણેક (જન્મ : તા. 28-11-1901; અવસાન : 18-01-1978)') sits above the [[કવિ-પરિચય]] marker on the page and is metadata already carried in 01_meta.json, not part of this topic's original_chunk, matching the ch01 precedent."
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "બીજા માટે જીવન વહેંચવાની માગણી",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "ભૂખ્યાં-તરસ્યાં માટે જીવન વહેંચવાની માગણી",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "જીવન અંજલિ થાજો,\n        મારું જીવન અંજલિ થાજો !\nભૂખ્યાં કાજે ભોજન બનજો, તરસ્યાંનું જળ થાજો;\nદીન-દુઃખિયાનાં આંસુ લો'તાં અંતર કદી ન ધરાજો !\n        મારું જીવન અંજલિ થાજો !",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "ટેક અને પહેલી કડી: ભૂખ્યાં-તરસ્યાં માટે થવાની અને આંસુ લૂછવાની માગણી"
+                }
+              ],
+              "modified_chunk": "કવિ કહે છે કે મારું જીવન અંજલિ (ખોબામાં ભરેલું અર્પણ) જેવું બની જાય — બીજા માટે વપરાય એવું. તે માગે છે કે પોતે ભૂખ્યા માટે ભોજન અને તરસ્યા માટે પાણી બની જાય. ગરીબ-દુઃખી લોકોનાં આંસુ લૂછતાં-લૂછતાં એનું મન ક્યારેય કંટાળે નહિ, એવી પણ કવિની ઇચ્છા છે.",
+              "word_count": {
+                "original": 28,
+                "modified": 46
+              },
+              "key_terms": [
+                "અંજલિ — ખોબામાં ભરીને અર્પણ કરવાની ક્રિયા",
+                "કાજે — માટે, વાસ્તે (જૂનું રૂપ)",
+                "દીન-દુઃખિયાં — ગરીબ અને દુઃખી લોકો",
+                "ધરાવું — ધરાઈ જવું, કંટાળી જવું; અહીં 'ક્યારેય કંટાળે નહિ' એ અર્થમાં",
+                "લો'તાં — 'લૂછતાં' માટે; કવિએ લય સાચવવા શબ્દનું રૂપ થોડું ટૂંકું કર્યું છે, ભૂલ નથી"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "note": "Markers: opening [[ટેક]] (2 lines) + [[કડી 1]] (2 lines) + first repeat [[ટેક]] (1 line), 00_chapter_normalized.md lines 20-29 — this is the topic where the ટેક is taught for the first time, per prarthana_kavita.md's rule and 02_structure.json's own marker-accounting note. The 8-space indent before the repeated 'મારું જીવન અંજલિ થાજો !' line is preserved exactly as printed (verified against scratch/run-s10c4-5/p-1.png, where the ટેક lines sit visibly right of the કડી lines). 'લો'તાં' is kept with its printed apostrophe, never expanded to 'લૂછતાં' inside original_chunk."
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "સત્યને માર્ગે કષ્ટ સહી ભલું આપવાની માગણી",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M1.S2.T2"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "સતની કાંટાળી કેડી પર પુષ્પ બની પથરાજો;\nઝેર જગતનાં જીરવી જીરવી અમૃત ઉરનાં પાજો !\n        મારું જીવન અંજલિ થાજો !",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "બીજી કડી: સત્યને માર્ગે કષ્ટ સહી અમૃત વહેંચવાની માગણી"
+                }
+              ],
+              "modified_chunk": "કવિ કહે છે કે સત્ય (સાચ) ના રસ્તા પર જે કાંટા (તકલીફો) છે, ત્યાં પોતે ફૂલ (પુષ્પ) બનીને પથરાઈ જાય — એટલે એ રસ્તો બીજા માટે થોડો સહેલો બની જાય. જગત તરફથી મળતું ઝેર (દુઃખ, કડવાશ) સહન કરી કરીને પણ, પોતાના હૃદયમાંથી અમૃત (મીઠાશ, ભલું) જ બીજાને પાવાની કવિની ઝંખના છે.",
+              "word_count": {
+                "original": 20,
+                "modified": 51
+              },
+              "key_terms": [
+                "સત — સત્ય, સાચ",
+                "કાંટાળી — કાંટાવાળી, અઘરી, તકલીફભરી",
+                "પથરાવું — બિછાઈ જવું, ફેલાઈને પડવું",
+                "જીરવવું — સહન કરવું, ખમવું",
+                "ઉર — હૃદય"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "note": "Marker [[કડી 2]] + repeat [[ટેક]] (00_chapter_normalized.md lines 31-36), carries depends_on ['M1.S2.T2'] for the already-taught ટેક. Verified against scratch/run-s10c4-5/p-1.png. This is the 'hard' topic per 02_structure.json's notes — the two paired images (પુષ્પ બની પથરાજો; ઝેર...અમૃત) are exactly the lines the chapter's own [[ભાષા-અભિવ્યક્તિ]] box singles out as craft (visible on scratch/run-s10c4-5/p-3.png)."
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S3",
+          "segment_name": "શ્રદ્ધા અને ભક્તિની માગણી",
+          "topics": [
+            {
+              "topic_id": "M1.S3.T4",
+              "topic_name": "ઈશ્વર-સાંનિધ્ય અને નામ-સ્મરણની ઝંખના",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S2.T2"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "વણથાક્યાં ચરણો મારાં નિત તારી સમીપે ધાજો;\nહૈયાનાં પ્રત્યેક સ્પન્દને તારું નામ રટાજો !\n        મારું જીવન અંજલિ થાજો !",
+              "concepts": [
+                {
+                  "concept_id": "M1.S3.T4.C4",
+                  "concept_name": "ત્રીજી કડી: ઈશ્વર-સાંનિધ્ય અને નામ-સ્મરણની ઝંખના"
+                }
+              ],
+              "modified_chunk": "કવિ કહે છે કે પોતાના પગ ક્યારેય થાક્યા વગર (વણથાક્યાં) હંમેશાં (નિત) તારી નજીક દોડતા રહે. વળી, હૃદયના દરેક ધબકારે (સ્પંદને) તારું જ નામ યાદ આવ્યા કરે (રટાજો), એવી ઝંખના કવિ વ્યક્ત કરે છે.",
+              "word_count": {
+                "original": 19,
+                "modified": 34
+              },
+              "key_terms": [
+                "વણથાક્યાં — થાક્યા વગરનાં (કાવ્ય-રૂપ; 'વણ' = વગર)",
+                "નિત — નિત્ય, હંમેશાં, કાયમ (તળપદો શબ્દ)",
+                "સમીપ — નજીક, પાસે",
+                "પ્રત્યેક — દરેક, હરેક",
+                "સ્પન્દન — હૃદયનો આછો ધબકારો, થડકો"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "note": "Marker [[કડી 3]] + repeat [[ટેક]] (00_chapter_normalized.md lines 38-43), depends_on ['M1.S2.T2']. Verified against scratch/run-s10c4-5/p-1.png. 'સ્પન્દન' is transcribed here exactly as it prints in the કડી itself (no અનુસ્વાર, સ્પ-ન-દ conjunct) — the 01_meta.json extraction_notes already flag that the શબ્દ-સમજૂતી box spells the same word 'સ્પંદન' (with અનુસ્વાર) elsewhere; both spellings are kept exactly as printed at their own location, per that note."
+            },
+            {
+              "topic_id": "M1.S3.T5",
+              "topic_name": "વમળો વચ્ચે અણનમ શ્રદ્ધાની માગણી",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S2.T2"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "વમળોની વચ્ચે નૈયા મુજ હાલકડોલક થાજો;\nશ્રદ્ધા કેરો દીપક મારો નવ કદીયે ઓલવાજો !\n        મારું જીવન અંજલિ થાજો !\n\n('હરિનાં લોચનિયાં' માંથી)",
+              "concepts": [
+                {
+                  "concept_id": "M1.S3.T5.C5",
+                  "concept_name": "ચોથી કડી: વમળો વચ્ચે પણ શ્રદ્ધાનો દીવો ન ઓલવવાની માગણી"
+                }
+              ],
+              "modified_chunk": "કવિ કહે છે કે ભલે જીવનરૂપી હોડી (નૈયા) વમળો (પાણીના ભમરડા) વચ્ચે હાલકડોલક (ડગમગતી) થાય, પણ પોતાની અંદરનો શ્રદ્ધાનો દીવો ક્યારેય ન ઓલવાય. મુશ્કેલી ગમે તેટલી હોય, વિશ્વાસ (શ્રદ્ધા) અતૂટ રહે એવી કવિની ઝંખના છે.",
+              "word_count": {
+                "original": 22,
+                "modified": 35
+              },
+              "key_terms": [
+                "વમળ — પાણીમાં ઉત્પન્ન થતાં વલયો, ભમરડા",
+                "નૈયા — નાવ, હોડી",
+                "હાલકડોલક — ડગમગતું, અસ્થિર",
+                "કેરો — 'નો' (છઠ્ઠી વિભક્તિનું જૂનું રૂપ)",
+                "ઓલવાવું — હોલવાવું, બુઝાવું"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "note": "Marker [[કડી 4]] + final (5th) repeat [[ટેક]] + [[સ્રોત-નિર્દેશ]] (00_chapter_normalized.md lines 45-53), depends_on ['M1.S2.T2']. The trailing ('હરિનાં લોચનિયાં' માંથી) source line is the printed source-collection note (not a poet-signature છાપ — this modern-poet પ્રાર્થનાકાવ્ય signs nothing inside the verse), kept inside this LAST topic's original_chunk per prarthana_kavita.md and the ch01 precedent for a trailing attribution line. Verified against scratch/run-s10c4-5/p-1.png."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut is કડી-wise per prarthana_kavita.md and explanation_unit_map.md: 'one કડી of the petition, with the ધ્રુવપંક્તિ quoted inside it — never cut between the asking and what is asked for.' 01_meta.json confirms the ટેક's wording is identical at all five printed occurrences ('the wording is identical at all five'), so per the profile's ટેક rule ('teach it once, reference it after... every later કડી topic naming it carries that topic in depends_on') exactly one topic teaches the ટેક and the other three carry it in depends_on.",
+    "Marker accounting (Agent 4 check): 00_chapter_normalized.md prints, in order, [[કવિ-પરિચય]] [[કૃતિ-પરિચય]] [[ટેક]](opening 2-line) [[કડી 1]] [[ટેક]](repeat) [[કડી 2]] [[ટેક]](repeat) [[કડી 3]] [[ટેક]](repeat) [[કડી 4]] [[ટેક]](repeat) [[સ્રોત-નિર્દેશ]] — 2 પરિચય + 5 ટેક + 4 કડી + 1 સ્રોત-નિર્દેશ = 12 markers. Assignment: M1.S1.T1 takes the 2 પરિચય markers; M1.S2.T2 takes the opening ટેક + કડી1 + the first repeat ટેક (this is 'the topic where [the ટેક] first appears', teaching it); M1.S2.T3 takes કડી2 + its following repeat ટેક; M1.S3.T4 takes કડી3 + its following repeat ટેક; M1.S3.T5 takes કડી4 + its following (5th, final) repeat ટેક + the trailing [[સ્રોત-નિર્દેશ]] line. Every one of the 12 markers is assigned to exactly one topic, none dropped, none doubled — 2+3+2+2+3=12.",
+    "Why the opening ટેક joins M1.S2.T2 rather than standing alone: per agents/02_structure.md's 'a pre-topic hook belongs to the NEXT topic' and prarthana_kavita.md's four-move description of one petition ('1. સંબોધન... 2. માગણી... 3. કારણ કે શરત... 4. ટેક પાછી આવે'), the address that opens the poem is step 1 of કડી 1's own petition-move, not a topic of its own — the ટેક never appears anywhere without a કડી attached to it on this page, so it cannot be a standalone topic under global_content_rules.md/the profile's structural gate ('a topic containing only the condition clause is a blocking structural fail').",
+    "[[સ્રોત-નિર્દેશ]] ('હરિનાં લોચનિયાં' માંથી) is the printed source-collection line, not a poet-signature છાપ (this પ્રાર્થનાકાવ્ય's modern named poet signs nothing inside the verse, per genre_signals). Following the same convention output10/ch01 used for a પદ's trailing attribution line, it is placed inside the LAST topic's (M1.S3.T5) original_chunk tail — noted here so Agent 5 does not treat it as a separate topic or drop it.",
+    "Segment split (M1.S2 = કડી1+કડી2, M1.S3 = કડી3+કડી4) follows the poem's own thematic turn, read off the four કડી's content: કડી1-2 ask to be spent USEFULLY for others in the world (food/water/tears in કડી1; enduring the world's poison to give back nectar on truth's path in કડી2), while કડી3-4 turn the asking toward the poet's own relationship with the addressee (tireless nearness and name-remembrance in કડી3; an unwavering lamp of faith through life's whirlpools in કડી4). This is a real content grouping, not an arbitrary halving of four topics into two-and-two.",
+    "difficulty: M1.S2.T3 (કડી2) alone is marked 'hard' among the four કડી topics, on page evidence rather than a general impression — the chapter's own [[ભાષા-અભિવ્યક્તિ]] box singles out exactly this કડી's diction as its craft example: 'સતની કાંટાળી કેડી પર પુષ્પ બની પથરાજો' અહીં... કવિએ એક જ વિશેષણ 'કાંટાળી' મૂકીને ધાર્યું નિશાન સાધી લીધું છે... 'પુષ્પ બની'થી રજૂ થઈ છે. A std-10 L2 reader must hold two metaphors at once (પુષ્પ બની = becoming a flower on a thorny path; ઝેર...અમૃત = swallowing poison, giving nectar) with no supporting picture beyond the words themselves — matching agents/02_structure.md's std-9–10 hard criterion 'a named-device line'. The other three POEM topics carry a comparably dense તત્સમ-tinged lexicon (per prarthana_kavita.md's own priors) but ask for one direct, single-image petition each, so they stay 'medium'. M1.S1.T1 (પરિચય prose) is 'easy', matching the ch01/ch03 precedent for this same CONCEPT topic type.",
+    "topic_category: M1.S1.T1 'introduction' (pre-reading). M1.S2.T2 and M1.S2.T3 'core' (the outward-facing service petitions). M1.S3.T4 'core' (the turn toward the addressee). M1.S3.T5 'climax' — the poem's most intense image (a faith-lamp that must not go out amid a rocking boat in whirlpools) and its final printed કડી; nothing after it steps back to summarise or resolve, so no topic carries 'resolution' in this chapter.",
+    "depends_on: M1.S1.T1 and M1.S2.T2 are both [] — M1.S2.T2 is the first reading scene of the poem itself and, per the ch01 precedent, does not structurally depend on the preceding પરિચય topic (real prerequisite chains, not reading-order helpfulness). M1.S2.T3, M1.S3.T4 and M1.S3.T5 each carry ['M1.S2.T2'] because that topic is where the ટેક is taught for the first time and each of these three quotes the same, unchanged ટેક line inside its own original_chunk without re-teaching it.",
+    "No અલંકાર, પ્રાસ pattern or છંદ label is asserted anywhere in this file's objective_text, topic_name, module_name, segment_name or concept_name, per no_hallucination_policy.md and prarthana_kavita.md's avoid-list ('Invented craft... a named અલંકાર that is not on the page is a hard fail'); naming and gating figures_of_speech is Agent 5/7's task from the actual page, not this agent's to pre-empt.",
+    "No sentence anywhere in this file reads the poem's petition as instruction to the child ('… જોઈએ') or as doubt of the addressee — objective_text stays descriptive of what the poet asks and why, per the profile's avoid-list ('Turning the prayer into a moral', 'Reading the asking as doubt').",
+    "Everything from [[શબ્દ-સમજૂતી]] onward (the three શબ્દ-સમજૂતી sub-boxes, [[સ્વાધ્યાય-બૅનર]] and its four-tier સ્વાધ્યાય ladder plus વિદ્યાર્થી-પ્રવૃત્તિ, [[ભાષા-અભિવ્યક્તિ]], [[શિક્ષકની ભૂમિકા]]) is apparatus/exercise territory per global_content_rules.md §7 and explanation_unit_map.md's apparatus rule — already recorded in 01_meta.json's exercise_inventory and extraction_notes, and none of it is cut as a topic here. [[ભાષા-અભિવ્યક્તિ]] is read and used only as difficulty evidence above, never as a topic.",
+    "Five topics across one module is a short, single-poem chapter (3 printed pages, one પ્રાર્થનાકાવ્ય, four કડી) — not an under-cut. Splitting a single કડી into two topics, or merging two કડી into one, would both violate prarthana_kavita.md's 'one કડી of the petition' rule; the module stays singular (M1) because the chapter has one sustained movement, not two — matching the single-module precedent already set by output10/ch01 for this same std-10 reader.",
+    "original_chunk is left empty in all five topics per this agent's mandate ('original_chunk stays empty; Agent 5 fills it'). Agent 5 transcribes from the render, carrying forward the marker-to-topic assignment recorded above, including the trailing [[સ્રોત-નિર્દેશ]] line inside M1.S3.T5.",
+    "Agent 5 (05_verbatim_attachment): original_chunk, modified_chunk, word_count, key_terms and the four content-type fields are now attached on all five topics, transcribed from 00_chapter_normalized.md and cross-checked against fresh renders in scratch/run-s10c4-5/ (pdftoppm -png -r 150 on ../Textbooks-pdf/std-10/ch-04-jivan-anjali-thajo.pdf, pages 1-3). No mismatch was found between the normalized transcription and the render on any line of the poem, the two intro paragraphs, or the source-note tail; the visarga glyph call and the two spellings of 'સ્પ(ં)ન્દન' already flagged in 01_meta.json's extraction_notes were re-checked on the render and left exactly as that note records. The 8-space indent on every repeated ટેક line and the apostrophe in 'લો'તાં' are preserved verbatim. figures_of_speech, explanation, real_life_example, recall_questions and media are NOT written here — they remain this agent's do-not list, for later agents. Ids, names, objectives and the module/segment/concept structure pass through untouched."
+  ]
+}

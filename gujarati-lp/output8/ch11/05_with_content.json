@@ -1,0 +1,598 @@
+{
+  "agent": "05_verbatim_attachment",
+  "chapter_id": "gseb_eng_gujarati8_ch11",
+  "plan_id": "gseb_eng_gujarati8_ch11_v1",
+  "chapter_name": "જામફળ અને જલેબી",
+  "grade": 8,
+  "genre": "આત્મકથા-ખંડ (સંસ્મરણ)",
+  "active_genre_profiles": [
+    "nibandh_atmaparak.md"
+  ],
+  "explanation_unit": "એક પ્રસંગ, અથવા વિચારનો એક વળાંક",
+  "teaching_lens": "સ્વર + પ્રસંગ + પોતાની જાત પરની નજર",
+  "guiding_question": "શાહપુર-બેળગુંદીના મોસાળમાં વીતાવેલા નિશાળ-ભાગેડુપણા, જામફળની ઝપાઝપી અને જલેબીની જબરદસ્તી જેવા તોફાની પ્રસંગો યાદ કરતાં લેખક પોતાના બાળપણ વિશે શું કહી જાય છે ?",
+  "counts": {
+    "modules": 4,
+    "segments": 5,
+    "topics": 9,
+    "concepts": 10,
+    "objectives": 9,
+    "ghatna_markers_in_00": 9,
+    "topics_carrying_a_ghatna_marker": 9
+  },
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9"
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "નદીકાંઠે રસોઈ ન કરવા બાએ આપેલું કારણ શોધીને, દત્તુએ સામે કઈ દલીલ કરી હતી તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શાહપુર પહોંચીને દત્તુને કઈ કઈ નવી-અજાણી બાબતો દેખાઈ અને મોડકા માસ્તર ભણાવવાની કઈ રીત વાપરતા તે લખાણ પરથી કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": [
+        "M1.S2.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મોડકા માસ્તરની ચૂંટી પછી દત્તુએ નિશાળે કાયમ ન જવા માટે શું મનસૂબો કર્યો અને એ કેવી રીતે પાર પાડ્યો તે ક્રમમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઝૂંપડીના છાપરાના હીંચકાથી શું બન્યું અને મામીએ યુક્તિથી દત્તુને ઘરેથી શા માટે દૂર મોકલ્યો તે કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રસ્તો ભૂલેલા દત્તુએ ડોશીમાના સવાલનો મરાઠીમાં કયો જવાબ આપ્યો અને એ જવાબ પરથી પછી કેવી મજાક ઊભી થઈ તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "જામફળના પલાયન યુદ્ધમાં સૌથી નાનો હોવા છતાં દત્તુએ પોતાનું જામફળ બચાવવા કઈ યુક્તિ વાપરી અને એનું શું પરિણામ આવ્યું તે ક્રમમાં કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S4.T6",
+      "anchor": [
+        "M3.S4.T6.C6",
+        "M3.S4.T6.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શાખ બેસાડવા વધારે જામફળ ખાવાથી ગોંદુને શું થયું અને દત્તુ-કેશુએ એને પછીના દિવસે શા માટે ઠપકો આપ્યો તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S4.T7",
+      "anchor": [
+        "M3.S4.T7.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગોંદુએ મરચું ખાવા પાછળ કયું કારણ આપ્યું અને એની વાત ગળે ન ઊતરવા છતાં દત્તુએ કેમ મરચું ખાધું તે કારણ સાથે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M4.S5.T8",
+      "anchor": [
+        "M4.S5.T8.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કેશુએ ચોરેલી જલેબી દત્તુને પરાણે કઈ રીતે ખવડાવી અને એને અંતે જલેબી ભાવતાં કેવી રીતે આવડ્યું તે લખાણમાંથી કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M4.S5.T9",
+      "anchor": [
+        "M4.S5.T9.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "શાહપુરની મુસાફરી અને નિશાળ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "નદીકાંઠે વિરામ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "બળદગાડીની મુસાફરી અને નદીકાંઠાનો વિરામ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "સતારાથી અમે ઘણીવાર શાહપુર આવતા. શાહપુર અને બેલગામ લગભગ એક જ છે. શાહપુર અમારું મોસાળ. એ દિવસોમાં રેલવે ન હતી એટલે મુસાફરી બળદગાડીમાં થતી. અમે એકવાર બળદગાડીમાં બેસીને સતારાથી શાહપુર આવેલા તેનું સ્મરણ હજી છે. અમે અમારા વચલાભાઈ વિષ્ણુના લગ્નપ્રસંગે જતા હતા. વાટમાં એક સુંદર પથરાના પુલ તળે નદીકાંઠે ઊતર્યા હતા. પિતાશ્રી સાથે ન હતા. ગાડાની મુસાફરીમાં વખત ઘણો જાય અને એમને એટલી રજા મળે એમ ન હતું. એટલે તેઓ પાછળથી ટપાલના ટાંગામાં આવવાના હતા. મારા ભાઈએ નદીને કાંઠે ત્રણ પથરા ગોઠવી મંગાળો માંડી રસોઈ કરવાની તૈયારી કરી.\n\nએટલામાં બાએ કહ્યું- “અહીં રસોઈ ન થાય; ચાલો આગળ જઈએ.” આવો મજાનો પુલ, મીઠી છાયા, ભૂખનો વખત એવે સમયે બાએ કૂચ કરવાનો હુકમ કેમ આપ્યો હશે એની કોઈને સમજણ ન પડી. બાએ કહ્યું- “નદીનું પાણી બધું પરપોટાવાળું છે.” જોયું તો સાચે જ પાણી ધીમે ધીમે વહે છે અને ઉપર ગંદાં ફીણ અને પરપોટા ખૂબ છે. મેં દલીલ કરી- “પણ માંહ્યલું પાણી તો સારું છે ને !” બાએ કહ્યું - “ના, પણ નદી અપવિત્ર છે. શાસ્ત્રમાં કહ્યું છે કે, નદીમાં આવા પરપોટા હોય ત્યારે એ પાણીને અડાય પણ નહીં.”",
+              "source_marker": "[[ઘટના: સતારાથી શાહપુરની બળદગાડી-મુસાફરી અને નદીકાંઠે વિરામ]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "નદીકાંઠે બાની ના અને દત્તુની દલીલ",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "સતારાથી શાહપુર જવા માટે દત્તુનું કુટુંબ બળદગાડીમાં નીકળે છે અને રસ્તામાં એક નદીકાંઠે વિરામ કરે છે. દત્તુનો ભાઈ ત્યાં રસોઈ કરવાની તૈયારી કરે છે, પણ બા ના પાડે છે કારણ કે નદીનું પાણી પરપોટાવાળું (ફીણવાળું) અને અપવિત્ર (અશુદ્ધ) છે એમ કહે છે. દત્તુ દલીલ કરે છે કે અંદરનું પાણી તો સારું છે, પણ બા પોતાની વાત પર અડગ રહે છે અને બધા આગળ ચાલવા માંડે છે.",
+              "word_count": {
+                "original": 176
+              },
+              "key_terms": [
+                "મોસાળ — માનું પિયર.",
+                "પિતાશ્રી — પિતા માટે માનવાચક શબ્દ.",
+                "દલીલ (કરવી) — સામો તર્ક રજૂ કરવો, વાદવિવાદ કરવો.",
+                "પરપોટા — પાણી પર થતા ફીણના નાના ગોળા.",
+                "અપવિત્ર — અશુદ્ધ, પવિત્ર નહીં તેવું."
+              ],
+              "primary_content_type": "image",
+              "available_content_types": [
+                "image"
+              ],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "મોડકા માસ્તરની નિશાળ અને છુટકારો",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "શાહપુરની નવી દુનિયા અને મોડકા માસ્તર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "શાહપુર આવ્યા ત્યાં તો નવી જ દુનિયા. જમીન બધી લાલ લાલ. પહેલે દિવસે મેં કેટલાક લાલ કાંકરા ભેગા કર્યા. મારા મામાની દીકરી મારી સાથે બોલે તે ભાષા હું બરાબર ન સમજું. મારી ભાષા મરાઠી, એમની કોંકણી. બધું જંગલી જંગલી જેવું લાગે. લાડુબહેન મને કહે, “ચાલ આપણે મોડકા (ઠૂંઠા) માસ્તરની નિશાળે ભણવા જઈએ.” મોડકા માસ્તર એક વિચિત્ર વ્યક્તિ હતા. કદમાં ઠીંગણા, સ્વભાવે ઉગ્ર અને બંને હાથે ઠૂંઠા ! પણ ભણાવવામાં એક્કા. એમને ત્યાં ચોકમાં છોકરાઓ હારબંધ બેસતા. મોડકા માસ્તર દરેક છોકરા આગળ વારાફરતી આવીને બેસે. પગમાં પેન ઝાલી સ્લેટ ઉપર સુરેખ અક્ષરે લખી આપે. અને કહે- “ઘૂંટ; કાગળ પણ જમીન પર રાખી કલમ પગના અંગૂઠા અને પાસેની આંગળી વચ્ચે પકડી એવા તો સરસ અક્ષરે ઝપાટાબંધ લખતા કે જાણે આજકાલના રિપોર્ટર !",
+              "source_marker": "[[ઘટના: શાહપુરમાં નવી દુનિયા — ભાષાભેદ અને મોડકા માસ્તરની નિશાળ]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "શાહપુરની નવી દુનિયા અને મોડકા માસ્તરની રીત",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "શાહપુર પહોંચીને દત્તુને બધું નવું અને અજાણ્યું લાગે છે — લાલ માટી, અલગ કોંકણી ભાષા. લાડુબહેન એને મોડકા માસ્તરની નિશાળે લઈ જાય છે. મોડકા માસ્તર દેખાવે ઠીંગણા (નાના કદના) છે અને બંને હાથે ઠૂંઠા (હાથ પૂરા નહીં), છતાં પગથી કલમ પકડીને એવા સુરેખ (સુંદર, ઘાટીલા) અક્ષરે ઝપાટાબંધ (ઝડપથી) લખાવે છે કે દત્તુને નવાઈ લાગે છે.",
+              "word_count": {
+                "original": 120
+              },
+              "key_terms": [
+                "ઠીંગણું — પ્રમાણમાં ઓછી ઊંચાઈનું.",
+                "ઠૂંઠા — હાથ પૂરા ન હોય તેવા; અહીં મોડકા માસ્તરની ઓળખ છે.",
+                "સુરેખ — પ્રમાણસર, ઘાટીલું, સુંદર.",
+                "એક્કા — પોતાના કામમાં ખૂબ કુશળ, નિષ્ણાત.",
+                "ઝપાટાબંધ — ઝડપથી, ઉતાવળે."
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "ચૂંટી અને નિશાળમાંથી કાયમી છુટકારો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S2.T2"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "ચાંદવડેકર માસ્તરનો અનુભવ તાજો જ હતો, પણ મોડકા માસ્તરને જોયા પછી મનમાં વિચાર આવ્યો; અહીં તો આપણે સલામત છીએ. જ્યાં હાથ જ નથી ત્યાં સોટીનો ભો શો ? પણ મારો આનંદ ઝાઝો વખત ટક્યો નહીં. હું જરા આમતેમ જોતો હતો તેવામાં મોડકા માસ્તરે આવીને મારી જાંઘ પર પગ વતી એવી ચૂંટી ખણી કે હું ચીસ પાડીને નિશાળમાંથી નાસી જ ગયો ! બીજા દિવસે આપણે નિશાળે જવાની સાફ ના પાડી. મેં વિચાર કર્યો કે અહીં ક્યાં બાબા છે તે મને ડરાવીને નિશાળે મોકલશે ? પણ મારા દુર્ભાગ્યે બાબાનું કામ મારી મોટી મામીએ કર્યું. મને ઉપાડીને કેડે બેસાડીને મને નિશાળે લઈ ગઈ. રસ્તામાં જ મેં મનસૂબો કર્યો કે આજે હાર્યા તો નિશાળની બલા હંમેશ માટે કપાળે અથવા સાચું કહું તો જાંઘે ચોંટવાની. એટલે નિશાળને બારણે મામી મને જમીન પર મૂકે એટલી જ વાર. બંને પગનો પૂરો ઉપયોગ કરી શેરીનો બીજો છેડો મેં સાધ્યો. મામીનું શરીર કંઈ હળવું નહોતું કે મારી પાછળ પડીને મને પકડી શકે. અંતે મારો વિજય થયો અને શાહપુરમાં હોઉં ત્યાં સુધી નિશાળે ન જવાની મને છૂટ મળી. મારે લીધે લાડુબહેન પણ ઘરમાં જ રહેવા લાગી અને અમે લોકવાર્તાઓની ઉજાણી શરૂ કરી.",
+              "source_marker": "[[ઘટના: મોડકા માસ્તરની ચૂંટી અને નિશાળમાંથી કાયમી છુટકારો]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "ચૂંટી પછીનો મનસૂબો અને કાયમી છુટકારો",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "મોડકા માસ્તરને હાથ ન હોવાથી દત્તુ પોતાને સલામત સમજે છે, પણ માસ્તર પગ વડે ચૂંટી ખણીને એને દોડાવી મૂકે છે. બીજા દિવસે દત્તુ નિશાળે જવાની ના પાડે છે, અને મામી એને પરાણે લઈ જવા મથે છે ત્યારે એ છટકીને ભાગી જાય છે. છેવટે દત્તુની જીદ જીતે છે અને એને શાહપુરમાં કાયમ માટે નિશાળે ન જવાની છૂટ મળી જાય છે.",
+              "word_count": {
+                "original": 182
+              },
+              "key_terms": [
+                "ચૂંટી (ખણવી) — આંગળી-અંગૂઠાથી ચામડી દબાવીને દુખાડવું.",
+                "બલા — આફત, ઉપાધિ, પીડા.",
+                "છૂટ (મળવી) — રજા મળવી, પરવાનગી મળવી.",
+                "મનસૂબો — ઇરાદો, વિચાર, ધારણા.",
+                "દુર્ભાગ્ય — ખરાબ નસીબ."
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "બેળગુંદીની સફર",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "ઝૂંપડીનું તોફાન અને રસ્તાની ભૂલ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "ઝૂંપડીના છાપરાનો હીંચકો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "બેળગુંદી અમારું મૂળ ગામડું. શાહપુરથી લગભગ આઠ માઈલ (લગભગ 12-13 કિલોમીટર) પર તે આવેલું છે. બે મજાની ટેકરીની તળે એક બાજુ પર પથરાયેલું છે. અમે એક વાર બેળગુંદી જોવા ગયા અને મામાને ત્યાં રહ્યા. પહેલે દિવસે મામા સાથે ગ્રામજોશીને ત્યાં સહેજ ગયા હતા. ત્યાં ગયા કે તરત જ તેમની ઝૂંપડીના નીચા છાપરાની વળી પકડીને આપણે તો હીંચકા ખાવા માંડ્યા. ગામડાનું છાપરું. એ કંઈ એવા અટકચાળા ખમે ? એણે તરત જ કરડડ કરડડ અવાજ કરી મારી સામે ફરિયાદ કરી. બધાં મારા પર ચિડાયાં. મને ત્યાંથી યુક્તિથી હાંકી કાઢવા ખાતર મારી નાની મામીએ કહ્યું, “અમારી આ નાની યેસુને લઈ ઘેર જા. એને ખૂબ સાચવજે હો. રસ્તામાં ઠોકર ખાઈને બંને પડતાં નહીં.”",
+              "source_marker": "[[ઘટના: બેળગુંદીની મુલાકાત — ઝૂંપડીના હીંચકા]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "છાપરાનો હીંચકો અને મામીની યુક્તિ",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "બેળગુંદી ગામમાં દત્તુનું કુટુંબ ફરવા જાય છે, અને ત્યાં એક ઝૂંપડીના નીચા છાપરાની વળી પકડીને છોકરાં હીંચકા ખાવા માંડે છે. છાપરું આ અટકચાળા (તોફાન)થી કરડ-કરડ અવાજ કરે છે અને ઘરના લોકો છોકરાં પર ચિડાય છે. મામી યુક્તિથી દત્તુને નાની બહેન યેસુને ઘેર મૂકી આવવાનું કામ સોંપીને ત્યાંથી દૂર મોકલી દે છે.",
+              "word_count": {
+                "original": 109
+              },
+              "key_terms": [
+                "અટકચાળા — તોફાન, મસ્તી.",
+                "યુક્તિ — તદબીર, કરામત.",
+                "છાપરું — ઘરની ઉપરનું ઢાંકણ, છત.",
+                "વળી — છાપરાને ટેકો આપતો આડો લાકડાનો દાંડો.",
+                "ફરિયાદ — કોઈની સામે કરેલી ફરિયાદ, ઠપકારૂપ રજૂઆત."
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "રસ્તો ભૂલવો અને ડોશીમાની મદદ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S3.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "વીરો બહેનીને લઈને ચાલ્યો તો ખરો પણ ‘મામાનું ઘર કેટલે’ તે યાદ ન રહ્યું. બહેનનો હાથ ઝાલીને ચાલ ચાલ કર્યા જ કર્યું. ગામની સામેની બાજુની ભાગોળ આવી તોપણ અમે ચાલ્યા જતા હતા.\n\nઆખરે એક ડોશીમાએ અમને જોઈને કહ્યું- “આ કોનાં છોકરાં છે ? ક્યાં જાય છે ?” મારી આગળ આવીને મને પૂછે, “બાળ, તું કોણા ચા ? (બેટા, તું કોનો દીકરો ?) હું રસ્તો ભૂલી ગયો છું અને મારો પત્તો મેળવવા આ ડોશીમા મને પૂછે છે એટલુંયે મારા ધ્યાનમાં ન આવ્યું. મેં તરત જ જવાબ વાળ્યો : મી આઈ ચા (હું મારી માનો) રસ્તા પરના બધા લોકો હસવા લાગ્યા. મારો જવાબ કંઈ એટલો બાઘાઈ ભરેલો ન હતો. અમારા ઘરમાં સગાં વહાલાંમાંથી કેટલાંય ડોશીમા આવીને અમારો પક્ષપાત મા તરફ છે કે પિતા તરફ તે જાણવા સવાલો પૂછતાં કે, બેટા તું કોનો ? પછી તે દિવસથી લહેર પ્રમાણે અમે કહી દેતા, બાનો અથવા બાપાનો. મને થયું કે ડોશીમા પણ એ ભાવે લાડ લડાવવા પૂછે છે એટલે મેં મારો સ્પષ્ટ જવાબ આપી દીધો હતો. ડોશીમાએ યેસુ ભણી વળીને પૂછ્યું અને- “દીકરી તું કોની ? બહેની કંઈ વીરાને બેવફા નીવડે ? એણે તરત જ કહ્યું- “મી નાનાચી.” એ પોતાના પિતાને નાના કહેતી. અમારી પાસેથી આના કરતાં ઝાઝી હકીકત મળે એમ તો હતું જ નહીં એટલે ડોશીમાએ કહ્યું, “દીકરા, ચાલ મારી સાથે. હું તને ઘર ભેગો કરી દઉં. આ નથી તારા ઘરનો રસ્તો.” અમે ડોશીમાની પાછળ પાછળ ચાલ્યાં. રસ્તામાં પૂછપરછ કરતાં કરતાં ડોશીમા અમને મામાના ઘર સુધી લઈ આવ્યાં. ત્યાંથી જ એ પાછાં વળી જાત તો હું એનો ઉપકાર આજન્મ ભૂલત નહીં. પણ ડોશીમાએ તો અમારા સવાલ-જવાબનો રિપોર્ટ અક્ષરેઅક્ષર મામાને આપી દીધો. બધાં હસી પડ્યાં. જ્યાં જાઉં ત્યાં મારી ઠેકડી થવા લાગી જે મને જુએ તે કહે, “મી આઈચા.” દત્તુ સાવ બાધો છે, મામાને ઘેર બધાંને ખાતરી થઈ ગઈ, પણ ઈશ્વરકૃપાથી બીજે જ દિવસે મારી લાયકી સિદ્ધ કરવાનો પ્રસંગ મને મળી આવ્યો.",
+              "source_marker": "[[ઘટના: રસ્તો ભૂલવો અને ડોશીમાનો સવાલ — ‘મી આઈ ચા’ની મજાક]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "રસ્તાની ભૂલ, ડોશીમાનો સવાલ અને મરાઠી જવાબ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "યેસુને ઘેર મૂકવા નીકળેલો દત્તુ રસ્તો ભૂલી જાય છે અને ગામનું પાદર વટાવીને આગળ નીકળી જાય છે. એક ડોશીમા એમને જોઈને પૂછે છે કે તું કોનો દીકરો છે, પણ મરાઠી પ્રશ્નનો સાચો અર્થ સમજ્યા વગર દત્તુ ‘મી આઈ ચા’ (હું મારી માનો) એવો જવાબ આપી દે છે, જેનાથી બધા હસી પડે છે. ડોશીમા બંનેને ઘર સુધી પહોંચાડે છે, પણ આખો કિસ્સો મામાને કહી દે છે એટલે દત્તુની ઘણા દિવસ સુધી ઠેકડી (મશ્કરી) થાય છે.",
+              "word_count": {
+                "original": 297
+              },
+              "key_terms": [
+                "પત્તો — ઠામઠેકાણું.",
+                "ઠેકડી — મશ્કરી.",
+                "પક્ષપાત — તરફદારી.",
+                "હકીકત — સાચી વાત, વાસ્તવિકતા.",
+                "ઉપકાર — ભલું કરવું તે, કલ્યાણ."
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "જામફળની ઝપાઝપી અને ખોટી શાખ",
+      "segments": [
+        {
+          "segment_id": "M3.S4",
+          "segment_name": "પલાયન યુદ્ધ અને ગોંદુની માંદગી",
+          "topics": [
+            {
+              "topic_id": "M3.S4.T6",
+              "topic_name": "જામફળનું પલાયન યુદ્ધ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S3.T5"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "અમારી માસીના બગીચામાં જામફળ બહુ સારાં પાકતાં. અંદરથી પૂરેપૂરાં લાલ હોવા છતાં ઝાઝાં બિયાં નહિ. માસીએ એક મોટો ટોપલો ભરીને મોટી મોટી નારંગી જેવડાં જામફળ મોકલ્યાં. નોકર ટોપલો જમીન પર મૂકે તે પહેલાં તો અમે બધાં છોકરાં ત્યાં પહોંચી ગયાં અને એકેક જણે એકેક મોટું જામફળ હાથમાં લઈ લીધું. નાનાં બાળકો આખું જામફળ ખાઈ જાય તો માંદાં પડે એવી બધાની માન્યતા એટલે મારા મોટા ભાઈ અણ્ણા અને વિષ્ણુ અમારી પાછળ દોડ્યા અને કહે- “લાવો, બધાં જામફળ પાછાં. છોકરીઓએ એક પછી એક પોતાનાં જામફળ પાછાં આપી દીધાં પણ અમે છોકરાઓ તો બહારવટિયા રહ્યા, એટલે જ્યાં સુધી શ્વાસ ટકે ત્યાં સુધી શરણે ન જવાનો અમારો નિશ્ચય હતો. અમે પલાયન યુદ્ધ શરૂ કર્યું ! અણ્ણા અને વિષ્ણુ અમારી પૂંઠે પડ્યા. કેશુ, ગોંદુ વગેરે પલાયન યુદ્ધમાં પ્રવીણ હતા. કોઈ હાથમાં ન આવ્યું. હું સૌથી નાનો. મારું ગજું શું હોય ? તરત જ અણ્ણાએ મને પકડી પાડ્યો. પાછળથી આવી મારાં બે પડખાં ઝાલીને મને એમણે અધ્ધર જ ઉપાડી લીધો. કેશુ, ગોંદુએ હાહાકાર કર્યો અને કેમ ન કરે ? પોતાના પક્ષનો એક મહારથી (જોકે મહાપગી કહેવું જોઈએ) પડે એ કેમ સહ્યું જાય ? અને જો મારું જામફળ છીનવી લેવામાં આવે તો પછી જામફળ ખાવામાં સ્વાદ કેમ આવે ? એમનાથી મને કશી સહાય કરી શકાય એમ તો હતી નહીં. કેશુ કહે, “ફેંકી દે તારું જામફળ મારા ભણી.” પણ એને શી ખબર કે વિષ્ણુ પાછળથી આવીને ક્રિકેટના ક્ષેત્રપાળ (ફિલ્ડર)ની પેઠે એની પાછળ જ આવીને ઊભો છે. હું ફેંકું કે તરત અધ્ધરથી જ ઝીલી લે. હવે શું કરવું ? મારા હૃદયમાં એ ક્ષણે કેટલો વલોપાત થયો હતો ! આજે હારી જાઉં તો આખી બેળગુંદીમાં મારી આબરૂ ન રહે. હજી ગઈ કાલે જ આપણી ફજેતી ગવાઈ ગઈ છે, પણ ભગવદ્ ગીતામાં કહ્યું છે, “દદામિ બુદ્ધિયોગં તમ્” એ પ્રમાણે મને યુક્તિ સૂઝી. મારા હાથ છૂટા હતા. મેં જામફળને એક મોટું બચકું ભર્યું અને અણ્ણાએ કહ્યું, “હવે લો, આ એઠું જામફળ ખાવું હોય તો.” એમણે મને જમીન પર મૂકી દીધો અને સાથે જ મારા હાથમાંથી જામફળ લેવા માટે હાથ લંબાવ્યો. મેં મનમાં અભેદ બુદ્ધિ રાખી, જામફળના જેટલા જ સ્વાદથી એમના પહોંચાને બચકું ભર્યું ! એ ચિડાય એ પહેલાં જ કેશુ અને ગોંદુએ વિજયધ્વનિ કર્યો. મારી બહાદુરીથી રાજી થઈ વિષ્ણુ પણ મારી કદર કરવા લાગ્યો એટલે અણ્ણાએ પણ હવે ચિડાવા કરતાં હસી પડવામાં જ ડહાપણ માન્યું.",
+              "source_marker": "[[ઘટના: માસીના બગીચામાં જામફળનું પલાયન યુદ્ધ]]",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T6.C6",
+                  "concept_name": "સૌથી નાનો હોવાની કબૂલાત અને પલાયન યુદ્ધ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S4.T6.C7",
+                  "concept_name": "બચકાની યુક્તિ અને જીતેલી વાહવાહ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "માસીના બગીચામાંથી આવેલાં જામફળ છોકરાં ઝપાટાભેર ઉપાડી લે છે, અને મોટા ભાઈઓ અણ્ણા-વિષ્ણુ એ પાછાં લેવા છોકરાંઓની પાછળ દોડે છે. સૌથી નાનો હોવાથી દત્તુ પકડાઈ જાય છે, પણ પોતાનું જામફળ બચાવવા એ ઝડપથી એમાં બચકું ભરી લે છે અને પકડનારના હાથ પર પણ બચકું ભરી દે છે. આ યુક્તિ જોઈને કેશુ-ગોંદુ ખુશ થઈ જાય છે અને છેવટે અણ્ણા પણ ચિડાવાને બદલે હસી પડે છે.",
+              "word_count": {
+                "original": 363
+              },
+              "key_terms": [
+                "પલાયન — નાસી જવું તે.",
+                "ગજું — શક્તિ.",
+                "વલોપાત — આક્રંદ, કલ્પાંત.",
+                "ફજેતી — બદનામી, અપકીર્તિ.",
+                "હાહાકાર — સર્વત્ર શોક અને ત્રાસની લાગણી ફેલાઈ જવી તે."
+              ],
+              "primary_content_type": "image",
+              "available_content_types": [
+                "image"
+              ],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            },
+            {
+              "topic_id": "M3.S4.T7",
+              "topic_name": "ખોટી શાખ અને ગોંદુની માંદગી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M3.S4.T6"
+              ],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "જામફળ નિરાંતે આરોગી લીધા પછી જમવાની ભૂખ ઓછી હતી. કેશુ કહે જો આજે આપણે ઓછું જમ્યા તો ટીકાને પાત્ર જ થવાના. આપણે તો સિદ્ધ કરવું જોઈએ કે જામફળ ખાવાં એ તો છોકરાઓ માટે રમત વાત છે એટલે અમે પોતાની શાખ બેસાડવા ખાતર તે દિવસે રોજ કરતાં વધારે ખાધું. અમને કોઈને એ ન સૂઝ્યું કે સાચી શાખ તો માંદા ન પડવામાં છે, એટલે જામફળથી જે ન થાત તે આબરૂના આ ખોટા ખ્યાલથી થયું, અને ગોંદુ ખરેખર માંદો પડ્યો. બીજે દિવસે એકાંત સાધી મેં અને કેશુએ ગોંદુને ખૂબ ધિક્કાર્યો, “તું સાચો વીર જ નથી. આબરૂ જાળવવા ખાઈએ તેમાં માંદા પડાતું હશે ? બે દિવસ પણ તારાથી રાહ ન જોવાઈ ?”",
+              "source_marker": "[[ઘટના: ગોંદુની ખોટી ‘શાખ’ અને ખરેખરી માંદગી]]",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T7.C8",
+                  "concept_name": "ખોટી શાખ બેસાડવાની જીદ અને ગોંદુની માંદગી",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "જામફળ ધરાઈને ખાધા પછી છોકરાંઓને જમવાની ભૂખ નથી રહેતી, પણ કેશુના કહેવાથી બધા પોતાની શાખ (આબરૂ) બતાવવા રોજ કરતાં વધારે જમી લે છે. આ ખોટી જીદને લીધે ગોંદુ ખરેખર માંદો પડી જાય છે. બીજા દિવસે દત્તુ અને કેશુ ગોંદુને ઠપકો આપે છે કે સાચી બહાદુરી માંદા પડ્યા વગર રાહ જોવામાં હતી.",
+              "word_count": {
+                "original": 108
+              },
+              "key_terms": [
+                "શાખ — આબરૂ, વટ.",
+                "કષ્ટ — દુ:ખ, સંતાપ.",
+                "ટીકા(ને પાત્ર) — વખોડણીનો વિષય.",
+                "ધિક્કારવું — તિરસ્કારપૂર્વક ઠપકો આપવો.",
+                "વીર — બહાદુર માણસ."
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M4",
+      "module_name": "મરચાં અને જલેબીની મજા",
+      "segments": [
+        {
+          "segment_id": "M4.S5",
+          "segment_name": "ગોંદુ સાથે મરચાં, કેશુ સાથે જલેબી",
+          "topics": [
+            {
+              "topic_id": "M4.S5.T8",
+              "topic_name": "ગોંદુ સાથે મરચાં ખાવાની હોડ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O8"
+              ],
+              "original_chunk": "ચાર દહાડા પછી ગોંદુ બે લીલાં મરચાં લઈ આવ્યો અને મને કહે, “ચાલ દત્તુ, આમાંનું એક ખા જોઈએ !” મેં કહ્યું- “કેમ વારુ ?” એ કહે, “તને ખબર છે ? આજે આબા (નાના) કહેતા હતા કે બાળપણમાં કષ્ટ વેઠશો તો મોટપણે સુખી થશો. નાનપણમાં કડવું ખાશો તો મોટપણે ગળ્યું મળશે. ચાલ, આપણે બંને આજથી મરચાં ખાઈએ એટલે મોટપણે આપણને પેંડા-જલેબી મળશે. નાનાની વાત તો મારે ગળે ન ઊતરી પણ ના પાડું તો કાયરમાં ખપું એ બીકે ગોંદુની બાધાઈનો હું ભોગ થઈ પડ્યો. અમે બંને જણાએ એકેક મરચું ખાધું. ગોંદુને એટલું તો સમાધાન હતું કે આના વ્યાજમાં મોટપણે ગણ્યું ખાવાનું મળશે. મારી પાસે તો એટલું સમાધાન પણ ન હતું. મારું તો શુદ્ધ નિષ્કામ કર્મ હતું.",
+              "source_marker": "[[ઘટના: ગોંદુ સાથે મરચાં ખાવાની હોડ]]",
+              "concepts": [
+                {
+                  "concept_id": "M4.S5.T8.C9",
+                  "concept_name": "આબાની શિખામણ અને મરચાં ખાવાની હોડ",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "થોડા દિવસ પછી ગોંદુ બે લીલાં મરચાં લઈને દત્તુ પાસે આવે છે અને કહે છે કે નાનપણમાં કડવું સહન કરીએ તો મોટપણે મીઠાશ મળે. દત્તુને આ વાત ગળે નથી ઊતરતી, પણ કાયર (બીકણ) ન કહેવાય એ બીકે એ પણ ગોંદુ સાથે મરચું ખાઈ લે છે. ગોંદુ પાસે તો ભવિષ્યની મીઠાઈની આશાનું સમાધાન છે, પણ દત્તુએ તો કોઈ સ્વાર્થ વગર જ, નિષ્કામ ભાવે મરચું ખાધું.",
+              "word_count": {
+                "original": 114
+              },
+              "key_terms": [
+                "આબા — નાના (માતાના પિતા) માટે વપરાતો પ્રાદેશિક શબ્દ.",
+                "કાયર — બીકણ, હિંમત વગરનો.",
+                "નિષ્કામ કર્મ — ફળની ઇચ્છા વિના કરેલું કર્મ.",
+                "સમાધાન — સંતોષ, મનનું ઠરવું.",
+                "બાધાઈ — હઠ, જીદ ભરેલી જબરદસ્તી."
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            },
+            {
+              "topic_id": "M4.S5.T9",
+              "topic_name": "કેશુની જલેબીચોરી અને પરાણે જલેબી ખવડાવવી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O9"
+              ],
+              "original_chunk": "થોડા દિવસોમાં અમે પાછા શાહપુર ગયા. કોણ જાણે શાથી મારામાં અને ગોંદુમાં જેટલી નીતિનિષ્ઠા હતી તેટલી કેશુમાં ન હતી. એ ગમે ત્યારે ગમે તે વસ્તુ (બેશક ઘરની હોય તો જ) ગમે તે રીતે ઉપાડી લાવતો એના નીતિશાસ્ત્રમાં ચોરીની હદ પારકા ઘર સુધી જ ગણાતી; પોતાને ઘેર ગમે તે થઈ શકે.\n\nલગનગાળો આવ્યો. પિતાશ્રીએ કબાટમાં કંડિયો ભરીને જલેબી રાખેલી હતી. બિલાડીને પણ ખબર પડે તે પહેલાં કેશુને એની ખબર પડી ગઈ. એણે એમાંથી બે-ચાર ગૂંચળાં કાઢી લીધાં પણ વહાલા દત્તુ વગર ખવાય કેમ ? મને એકાંતમાં બોલાવીને કહે- “લે આ જલેબી ખા.” આ પહેલાં મેં કોઈ કાળે જલેબી જોઈ કે ખાધી ન હતી. સ્વાદ જાણ્યા વગર એનો આકાર કોઈને ગમે એવો તો નથી જ હોતો. એક કટકો મેં મોઢામાં નાખ્યો પણ એનો ખટમીઠો સ્વાદ મને ગમ્યો જ નહીં. મેં ખાવાની ના પાડી. પોતાની બહાદુરી એળે જતી જોઈને કેશુને મારા પર ચીડ ચડી. એણે મારો ગાલ પકડી જોરથી અમળાવ્યો અને કહ્યું, “બુધ્ધુ, ખા, ખા; નહિ તો મારતો બધ.” મારની બીકે મેં જલેબી ખાધી અને કસાણું મોં કરી ત્યાંથી નીકળી ગયો. ચાર-પાંચ દિવસ સુધી રોજ જલેબી ખાવાની આ જબરદસ્તી મારા પર ચાલી અને એ ‘કેળવણી’ને અંતે મને જલેબી ભાવતાં (ભવડાવતાં) આવડ્યું.",
+              "source_marker": "[[ઘટના: કેશુની જલેબીચોરી અને દત્તુને પરાણે જલેબી ખવડાવવી]]",
+              "concepts": [
+                {
+                  "concept_id": "M4.S5.T9.C10",
+                  "concept_name": "જલેબીચોરી, પરાણે ખવડાવવું અને છેવટે ભાવતું થવું",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "શાહપુર પાછા ફર્યા પછી કેશુ ઘરમાંથી સંતાડેલી જલેબી ચોરી લાવે છે અને દત્તુને એકાંતમાં ખવડાવવા બોલાવે છે. જલેબીનો સ્વાદ પહેલી વાર અજાણ્યો લાગવાથી દત્તુ ના પાડે છે, પણ કેશુ ગુસ્સે થઈને ગાલ મરડીને પરાણે એને જલેબી ખવડાવે છે. આમ ચાર-પાંચ દિવસ ચાલેલી આ જબરદસ્તી (બળજબરી)ને અંતે દત્તુને છેવટે જલેબી ભાવતાં આવડી જાય છે.",
+              "word_count": {
+                "original": 188
+              },
+              "key_terms": [
+                "નીતિનિષ્ઠા — પ્રામાણિકતા, નીતિ પ્રત્યેની નિષ્ઠા.",
+                "એળે (જવું) — નકામું કે ફોગટ જવું.",
+                "કસાણું (મોં) — અણગમાથી બગડેલું, ખાટું ચહેરાનું હાવભાવ.",
+                "જબરદસ્તી — બળજબરી, પરાણે કરાવવું તે.",
+                "કેળવણી — શિક્ષણ, તાલીમ."
+              ],
+              "primary_content_type": null,
+              "available_content_types": [],
+              "secondary_content_type": null,
+              "tertiary_content_type": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "MARKER PARITY — 00_chapter_normalized.md carries exactly nine [[ઘટના: …]] markers and this cut produces exactly nine topics, one per marker, in printed order. Each topic records its marker verbatim in `source_marker` so Agent 4 can count both directions. No marker was swallowed and no topic was created where no marker sits. 01_meta.json's extraction_notes calls these nine markers 'a reading, not printed structure' and explicitly frees Agent 2 to merge or re-split them; on re-reading the running prose the nine turns are genuinely where the attempt fails, the mood turns, or the writer moves to a new stretch of remembered time, so the 1:1 cut was kept rather than forced apart or fused.",
+    "APPARATUS DELIBERATELY NOT CUT — the blue પ્રવેશપેટી on printed p. 85 is itself marked in 00_chapter_normalized.md as '[[પ્રવેશપેટી (શિક્ષક માટે — વાચન-દૃશ્ય નથી)]]' — printed FOR THE TEACHER, explicitly not a reading scene, so unlike std-10's unlabelled student-facing કવિ/લેખક-પરિચય paragraph, this chapter opens with NO pre-reading CONCEPT topic. The yellow શબ્દાર્થ run-on box (p. 89), the શબ્દસમૂહ. and રૂઢિપ્રયોગ. pre-blocks, all twelve numbered/lettered સ્વાધ્યાય items (blocks 1–11 plus the unnumbered સ્ત્રી-પુરુષ નામ box), and the ચર્ચા-વિચારણા box ('મારા બાળપણનું તોફાન') are NOT topics — they stay in 01_meta.json's exercise_inventory for Agent 10. The rebus reading (block 9) and the story-from-points block (block 8) are appended/exercise reading matter and were never folded into the chapter's ઘટના chain.",
+    "TWO-CONCEPT TOPIC — only M3.S4.T6 (જામફળનું પલાયન યુદ્ધ) carries two concepts, and it genuinely does two separable things: C6 is the narrator's own admission of being smallest and weakest ('હું સૌથી નાનો. મારું ગજું શું હોય ?') inside the general chase/refusal that follows Annaa and Vishnu's demand; C7 is the resourceful bite-the-wrist trick that turns a certain loss into a won laugh. The remaining eight topics carry one concept each, so the concept counter is chapter-continuous and runs C1…C10 across the traversal — NOT equal to the topic number from T6 onward, which is the documented behaviour for a chapter with any two-concept topic (reference/phase2_contract.md, reference/naming_conventions.md).",
+    "COMIC TURN KEPT WHOLE — the profile's hard gate 11 (never cut a comic turn from its setup) governs T6: the grabbing, the brothers' chase, the refusal, and the wrist-bite trick that wins the laugh all stay inside one topic even though it is the longest single reading block in the chapter (it is also the topic where the printed quote 'લાવો, બધાં જામફળ પાછાં.' opens and is never closed — kept as printed, not repaired). Splitting it would separate the setup from its પરિણામ, which the profile forbids.",
+    "TOPIC LENGTH IS UNEVEN AND DELIBERATE — T2, T4 and T8 are comparatively short single-paragraph scenes; T5 and T6 run considerably longer because each carries a full comic turn (the getting-lost joke; the guava chase) to its own resolution. The unit is the પ્રસંગ, not the paragraph or the page, so length was not balanced across topics.",
+    "NO CLIMAX CATEGORY — profiles/genres/nibandh_atmaparak.md's 'Avoid' item 2 is a hard gate for this genre: a સંસ્મરણ has પ્રસંગ, not પ્લોટ, so no topic here carries topic_category 'climax'. The categories used are introduction, core, transition and resolution only; the closing gesture (T9, the jalebi force-feeding that ends the chapter) is marked resolution per the profile's own closing-gesture rule, and T3 (the pinch that ends the family's school-going in Shahpur for good) is marked transition as the hinge that turns the chapter from 'attending school' to 'free to roam and hear lokvarta'.",
+    "CRAFT-LABEL CEILING HELD — no objective_text names an અલંકાર, છંદ, સમાસ or the સાહિત્યપ્રકાર itself, per both global_content_rules and std-8's hard gate (profiles/students/std-8.md §1–2: 'Name it after you've met it', no craft labels below std 9). No field names કટાક્ષ or વ્યંગ either — this chapter is measured as the સંસ્મરણ/આત્મકથાખંડ sub-form (not the હાસ્ય sub-form), so the profile's હાસ્ય-specific naming rule was not invoked, and none of the humour here needed it to stay checkable.",
+    "topic_type — all nine topics are the authored value STORY_TELLING: every one is the writer's own first-person account of a remembered પ્રસંગ from his mosal childhood. There is no CONCEPT topic (the only candidate, the intro box, is explicitly teacher-only per its own marker) and no REVIEW topic (the chapter prints no in-text wrap or value summary — its final sentence, 'એ 'કેળવણી'ને અંતે મને જલેબી ભાવતાં (ભવડાવતાં) આવડ્યું,' is the essay's closing gesture and belongs inside T9's reading scene). Agents 14/15 map all nine STORY_TELLING topics to the closed server enum 'instructional'.",
+    "DIFFICULTY IS L2-READING DIFFICULTY, NOT IDEA SIZE — set relative inside this chapter per profiles/students/std-8.md, which names ch 11 specifically for its Marathi code-switching and its idiom density (nine રૂઢિપ્રયોગ, the corpus's second-highest count in this profile). hard: T5 (three Marathi phrases — 'કોણા ચા', 'મી આઈ ચા', 'મી નાનાચી' — that must be read as Marathi-in-Gujarati-script and cross-referenced to their meaning, plus two of the page's five unclosed printed quotes), T6 (the longest topic, densest with named characters — અણ્ણા, વિષ્ણુ, કેશુ, ગોંદુ — a cricket-fielding metaphor 'ક્ષેત્રપાળ (ફિલ્ડર)', a quoted Sanskrit half-verse, and one unclosed quote), T9 (idiom-dense — એળે જવું, ચીડ ચડવી — and the page's longest unclosed-quote run, from 'તને ખબર છે ?' to the chapter's last sentence). easy: T2, T4 (short, concrete, single-paragraph scenes). medium: T1, T3, T7, T8 (idiom-bearing but shorter and more literal). No topic is marked hard for a device it is not allowed to name, and difficulty caps no topic's Bloom ceiling — O5, O6 and O8 reach Analyze.",
+    "depends_on IS SPARSE ON PURPOSE — four genuine textual back-references are recorded. T3 opens 'મોડકા માસ્તરને જોયા પછી' — the master T2 introduces. T5 opens on the old woman who finds the children T4 sends off with Yesu, lost. T6 answers T5's own set-up: T5 closes 'બીજે જ દિવસે મારી લાયકી સિદ્ધ કરવાનો પ્રસંગ મને મળી આવ્યો' and T6 IS that પ્રસંગ. T7 opens 'જામફળ નિરાંતે આરોગી લીધા પછી', which is meaningless without T6's feast. Every other pair is mere printed sequence (T1→T2 is simply arrival; T7→T8 is 'ચાર દહાડા પછી' with no textual callback; T8→T9 returns to a new location, Shahpur) and carries [].",
+    "MIXED CHARACTER-DEPENDENCE ACROSS MODULES — M3.S4.T6 depends on M2.S3.T5, i.e. a module boundary is crossed by a real dependency (the redemption-episode set up at the end of the Belgundi module pays off in the guava module). This is recorded, not smoothed over, because the two modules are genuinely one remembered stretch of the mosal summer even though they cover different places.",
+    "T4/T5 BOUNDARY FLAGGED FOR AGENT 5 — the sentence 'વીરો બહેનીને લઈને ચાલ્યો તો ખરો પણ 'મામાનું ઘર કેટલે' તે યાદ ન રહ્યું... ગામની સામેની બાજુની ભાગોળ આવી તોપણ અમે ચાલ્યા જતા હતા' sits in 00_chapter_normalized.md just before the [[ઘટના: રસ્તો ભૂલવો…]] marker, i.e. inside T4's block as currently marked. Per explanation_unit_map's pre-topic-hook rule ('a line that introduces the next ઘટના opens THAT topic'), this sentence is arguably the true opening of T5 (it is already about walking away and getting lost, not about the ઝૂંપડીનો હીંચકો). Left for Agent 5 to resolve when cutting the verbatim original_chunk; either placement keeps both topics' meaning intact, so it is not a blocking disagreement, only a boundary worth a second look.",
+    "MARATHI AND SANSKRIT STAY VERBATIM — T5's three Marathi phrases ('બાળ, તું કોણા ચા ?', 'મી આઈ ચા', 'મી નાનાચી.') and T6's quoted Sanskrit half-verse ('દદામિ બુદ્ધિયોગં તમ્') are printed content inside a Gujarati-script narrative, per 01_meta.json's extraction_notes and reference/no_hallucination_policy.md. No topic name, objective_text or concept_name here translates, corrects or drops them; they are recorded as content for Agent 5 to transcribe exactly and Agent 10 to map against SWA block 4 ('મરાઠી ભાષાનાં વાક્યો શોધીને... ભાષાંતર કરો'), which hunts exactly these lines.",
+    "SPELLING VARIANT ACROSS TOPIC AND APPARATUS — the printed idiom box (p. 89) reads 'ગણે ઊતરવું' (ણ) while T8's own body text (p. 88) reads 'નાનાની વાત તો મારે ગળે ન ઊતરી' (ળ) for the same idiom, already flagged in 01_meta.json's extraction_notes. Recorded again here so Agent 5/10 know the occurrence sits inside T8 specifically, not elsewhere.",
+    "NO END CREDIT TO CARRY — the author line '- કાકા કાલેલકર' is printed at the TOP of the chapter, under the title, not after the reading text, so profile gate 13 (closing gesture + any source/translator credit printed after it) has no trailing credit line to fold into T9's original_chunk. T9's chunk should still end with the chapter's actual final printed sentence.",
+    "RENDERS NOT RE-READ — 00_chapter_normalized.md, together with 01_meta.json's extraction_notes (which already record illustration placement, the five unclosed-quote locations, the mixed-numeral instance in T4's own text, and the render-provenance cross-check), answered every question this cut needed. No PNG in _renders was opened.",
+    "VERIFIED AGAINST THE RENDER, not only against 00_chapter_normalized.md. All nine ઘટના chunks were re-read off _renders/page-1.png … page-4.png (the only pages carrying reading-scene body text, pp. 85–88), each block cropped and up-sampled 5x–8x (Lanczos) for a close read; first and last line of every chunk plus every line carrying an unusual form (the five unclosed printed quotes, the Marathi phrases, the quoted Sanskrit half-verse, the mixed-numeral bracket '(લગભગ 12-13 કિલોમીટર)', the cricket-fielder gloss) were checked this way. Agent 1's transcription matches the printed page word-for-word everywhere EXCEPT the one proper noun flagged below.",
+    "TRANSCRIPTION DEFECT FOUND, NOT SILENTLY REPAIRED, AND (RE-RUN) RE-SYNCED FROM CORRECTED UPSTREAM — the village name is printed 'બેળગુંદી' (ળ) on every one of its three occurrences on the render: p. 86 x2, both inside M2.S3.T4's own reading text, before the T4/T5 boundary (M2.S3.T5's chunk opens at 'વીરો બહેનીને લઈને...' and never names the village at all); p. 88 x1, inside M3.S4.T6's reading text: 'આખી બેળગુંદીમાં મારી આબરૂ ન રહે'. This was independently checked by cropping each occurrence (5x–8x on first attachment; 4x–10x again this run, directly against _renders/page-2.png and _renders/page-4.png) and comparing its second letter's glyph shape against unambiguous ળ in the same font on the same pages ('બાળ', 'મૂળ', 'તળે') and unambiguous લ ('લેખક' on p. 85, 'લગભગ' on p. 86) — the ળ has the loop-and-tail hook the print's લ never carries. On first attachment, 00_chapter_normalized.md, 01_meta.json and 02_structure.json all still read 'બેલગુંદી' (લ) — including 01_meta.json's extraction_notes, which wrongly claimed this spelling was already 'zoom-verified... unambiguously' — so this file's original_chunk for M2.S3.T4 and M3.S4.T6 was attached with the render-verified 'બેળગુંદી' while the three frozen pass-through fields (root guiding_question, M2.module_name, M2.S3.T4.source_marker) were left matching the then-still-wrong upstream, flagged for reconciliation. On THIS re-run (QC blocker, Section B), Agent 1's and Agent 2's own re-runs have since corrected 00_chapter_normalized.md, 01_meta.json and 02_structure.json to 'બેળગુંદી' throughout (02_structure.json's own note records its independent re-verification), so those same three frozen fields have now been re-synced here to match the corrected upstream, per this agent's spec of passing frozen structure through untouched from its source. All occurrences of the name across this file (original_chunk x3, root guiding_question, module_name, source_marker) now read 'બેળગુંદી' consistently; 04_converged.json's stored checksum of 02_structure.json is stale after that upstream fix, which is Agent 4's concern to refresh, not this file's.",
+    "T4/T5 BOUNDARY RESOLVED as 02_structure.json's own note invited. The sentence 'વીરો બહેનીને લઈને ચાલ્યો તો ખરો પણ 'મામાનું ઘર કેટલે' તે યાદ ન રહ્યું... ગામની સામેની બાજુની ભાગોળ આવી તોપણ અમે ચાલ્યા જતા હતા.' sat printed inside the same paragraph as M2.S3.T4's ઝૂંપડી-હીંચકો material, with no paragraph break before it, but it is about walking away and already getting lost — not about the swing — so it was cut to OPEN M2.S3.T5's original_chunk instead, as its own leading paragraph, and M2.S3.T4's chunk now ends at the mami's line 'રસ્તામાં ઠોકર ખાઈને બંને પડતાં નહીં.' Both topics' meaning stays intact either way, per Agent 2's own note; this is the placement chosen. No text was added or dropped — only where the topic boundary falls inside one unbroken printed paragraph.",
+    "modified_chunk is the plain 'શું થઈ રહ્યું છે' restatement only — 2–4 sentences, hardest words glossed inline in parentheses, no ભાવ, no અલંકાર, no real-life link. It is raw seed material for Agent 12, not the explanation itself.",
+    "key_terms are 5 per topic (inside the 3–6 band, at std-8's 4–6 row per reference/shabd_gloss.md). Priority went to words the child meets again across the chapter and the book's own boxes — યુક્તિ, શાખ, પલાયન and ફજેતી recur across multiple topics; મોસાળ, ઠીંગણું, બલા, છૂટ, હાહાકાર, નિષ્કામ કર્મ and એળે (જવું) are lifted directly from the chapter's own શબ્દાર્થ / શબ્દસમૂહ / રૂઢિપ્રયોગ boxes, each placed in the one topic where the word is actually used, not copied wholesale. Ring-2 household/bookish words the box itself leaves out were added per shabd_gloss.md's L2 recalibration — છાપરું, વળી, ઠૂંઠા, આબા, ચૂંટી, બાધાઈ, કસાણું. ઠૂંઠા (M1.S2.T2) is glossed descriptively only, per global_content_rules.md rule 10 — the chapter itself introduces Modka Master's condition as a plain fact of his identity, not mockery, and the gloss follows that lead.",
+    "Content types follow 01_meta.json's illustration inventory, one image per matching reading scene (global_content_rules.md rule 9): M1.S1.T1 carries the p. 85 bullock-cart / river-halt illustration (bullock cart on the bridge, mother and children at the riverbank below — matches the chunk's own scene exactly); M3.S4.T6 carries the p. 87 illustration of four children with the basket of jamfal at a garden gate (matches the pલાયન યુદ્ધ scene). The remaining seven topics are text-only (primary_content_type null, available_content_types []) — no second illustration exists on the render for any of them, so none was invented.",
+    "word_count.original is a whitespace-token count of each attached original_chunk (Python str.split()): T1 176, T2 120, T3 182, T4 109, T5 297, T6 363, T7 108, T8 114, T9 188. T5 and T6 are the longest, matching 02_structure.json's own note that these two carry a full comic turn to its resolution rather than being balanced by paragraph or page.",
+    "Marathi and Sanskrit quoted content ('બાળ, તું કોણા ચા ?', 'મી આઈ ચા', 'મી નાનાચી.' in M2.S3.T5; 'દદામિ બુદ્ધિયોગં તમ્' in M3.S4.T6) is copied exactly as printed in Gujarati script, per no_hallucination_policy.md and 02_structure.json's own note — not translated, not corrected, not flagged as an error.",
+    "The five printed unclosed quotes noted in 01_meta.json's extraction_notes are preserved exactly as printed inside their topics' original_chunk (M1.S2.T2's 'રિપોર્ટર !' opener with no closer; M2.S3.T5's two — 'બાળ, તું કોણા ચા ?' and 'દીકરી તું કોની ?' openers; M3.S4.T6's 'લાવો, બધાં જામફળ પાછાં.' opener; M4.S5.T9's 'તને ખબર છે ?' opener running to the chapter's last sentence) — none was silently closed."
+  ]
+}

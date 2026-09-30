@@ -1,0 +1,548 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch16",
+  "genre": "ઊર્મિકાવ્ય-ગીત",
+  "active_genre_profiles": [
+    "urmikavya_geet.md"
+  ],
+  "explanation_unit": "એક સંબોધન-ચિત્ર જોડ (બે પંક્તિની જોડ; છપાયેલ કડી-વિભાજન નથી, કાપ સંબોધન/ચિત્રના વળાંક પર)",
+  "teaching_lens": "ચિત્ર + ભાવ (વિરહ-રીસ) + અલંકાર",
+  "guiding_question": "રાધા પોતાના પત્રમાં કયાં ચિત્રો અને કઈ માગણીઓ દ્વારા કૃષ્ણ પ્રત્યેની પોતાની વિરહ-વ્યથા અને હળવી રીસ વ્યક્ત કરે છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ-પરિચય અને કૃતિ-પરિચયના મુદ્દા પરથી કવિ માધવ રામાનુજનું આ ગીત કયા સ્વરૂપનું અને કયા ભાવનું કાવ્ય છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1",
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગોકુળમાં ક્યારેક આવવાની છૂટ છતાં મુખ ન બતાવવાનું અને ગોવર્ધન જવાની છૂટ છતાં કાંઠે ન આવવાનું રાધા કઈ પંક્તિઓમાં કહે છે તે ટાંકીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": [
+        "M2.S2.T3.C3",
+        "M2.S2.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "તાંદુલની પોટલીમાં પૂનમની રાત બાંધી લાવવાની માગણી અને અડવાણે કોઈ ન દોડવાની વાત દ્વારા રાધા કૃષ્ણ પાસે શું ઝંખે છે તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C5",
+        "M2.S3.T6.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'સમરાંગણ તમને તો શોભે હો શ્યામ, વગર હથિયારે ત્યાં જ તમે ફાવશો !' પંક્તિ પરથી કૃષ્ણના યુદ્ધ-કૌશલ્ય વિશે રાધા શું કહે છે તે પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T7",
+      "anchor": [
+        "M2.S3.T7.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'પાંદડે કદમ્બના પાંપણની ભાષામાં' પંક્તિમાં આવતો વર્ણાનુપ્રાસ શોધી, રાધા પોતાનો સંદેશો કઈ રીતે લખવા માગે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T8",
+      "anchor": [
+        "M2.S4.T8.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'જમનાનાં જળ, તમે દેજો હાથોહાથ માધવને દ્વારકાના દરિયે' પંક્તિમાં રાધા યમુનાનું જળ કૃષ્ણ સુધી કેમ પહોંચાડવા માગે છે તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T9",
+      "anchor": [
+        "M2.S4.T9.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'લખિતંગ રાધાના ઝાઝા જુહાર…' પંક્તિ ગીતને પત્ર-સ્વરૂપ કઈ રીતે આપે છે અને રાધા અંતે કૃષ્ણને શું પૂછીને ગીત પૂરું કરે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T10",
+      "anchor": [
+        "M2.S4.T10.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "કવિ અને કૃતિનો પરિચય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "માધવ રામાનુજ અને ગીતના પત્ર-સ્વરૂપની ઓળખાણ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "કવિ માધવ રામાનુજનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "માધવ ઓધવદાસ રામાનુજનો જન્મ અમદાવાદ જિલ્લાના પચ્છમ ગામમાં થયો હતો. તેમણે સી. એન. ફાઇન આર્ટ્સમાં અધ્યાપક અને આચાર્ય તરીકે કાર્ય કર્યું હતું. હાલ તેઓ કિડની હોસ્પિટલમાં સેવાઓ આપી રહ્યા છે. ‘તમે’, ‘અક્ષરનું એકાંત’, ‘અનહદનું એકાંત’ તેમના કાવ્યસંગ્રહો છે. તળપદા ભાવો તથા રાધા-કૃષ્ણની ભાવલીલાઓ ગીત સ્વરૂપે તેમણે રજૂ કરેલી છે. ‘પિંજરની આરપાર’ રુબિન ડેવિડના જીવન પર લખાયેલી નવલકથા છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "કવિ માધવ રામાનુજનો પરિચય"
+                }
+              ],
+              "note": "Marker [[કવિ-પરિચય]]. Prose printed for the student (poet bio paragraph: જન્મ-સ્થળ, વ્યવસાય, કાવ્યસંગ્રહો, નવલકથા) — CONCEPT per explanation_unit_map.md's kavi/lekhak-parichay rule, applied here since std-9 prints kavi-parichay and kriti-parichay as two SEPARATE labelled markers rather than std-10's one unlabelled paragraph. 'One marker, one topic' (02_structure.md). Difficulty 'easy': short factual prose, no archaic or dense vocabulary, nothing that stops an L2 std-9 reader on the page.",
+              "modified_chunk": "આ ફકરો કવિ માધવ રામાનુજનો પરિચય આપે છે. તેમનો જન્મ અમદાવાદ જિલ્લાના પચ્છમ ગામમાં થયો હતો અને તેમણે કૉલેજમાં અધ્યાપક (ભણાવનાર) તથા આચાર્ય તરીકે કામ કર્યું છે. ‘તમે’ એ એમનો કાવ્યસંગ્રહ (કવિતાઓનું પુસ્તક) છે, જેમાંથી આ ગીત લેવાયું છે, અને તેમણે તળપદા (ગ્રામ્ય બોલીના) ભાવો તથા રાધા-કૃષ્ણની વાતો ગીતરૂપે લખી છે.",
+              "word_count": {
+                "original": 58,
+                "modified": 51
+              },
+              "key_terms": [
+                "અધ્યાપક — ભણાવનાર, શિક્ષક",
+                "આચાર્ય — સંસ્થાના વડા, પ્રિન્સિપાલ",
+                "કાવ્યસંગ્રહ — કવિતાઓનું ભેગું કરેલું પુસ્તક",
+                "તળપદા ભાવો — ગામઠી, રોજિંદી બોલી અને જીવનને લગતા ભાવો"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": []
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "ગીતના પત્ર-સ્વરૂપનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "આ ગીતમાં કવિએ કાવ્યરૂપે રાધાનો પત્ર આલેખ્યો છે. આ પત્ર રાધાનો અને કૃષ્ણ માટેનો છે એટલે ખાસ છે. એ કદંબના પાંદડા ઉપર લખાયો છે, પાંપણની ભાષામાં લખાયો છે. રાધા ચાહે છે કે ગોકુળ છોડી ગયેલા કૃષ્ણ પાછા આવે પણ પ્રગટપણે કહે છે કે આવો તો રાધાને મુખ ન બતાવશો. તમે મહાભારતમાં વગર હથિયારે ભલે ફાવ્યા અહીં તો વેણુ સાથે આવશો તો જ ફાવશો. કૃષ્ણપ્રેમમાં તન્મય રાધાના હૃદયભાવો સુકોમળ અને રમણીય રીતે કવિએ રજૂ કર્યા છે. ભૂતકાળના સ્થળ-સંબંધને વ્યક્ત કરી, વધુ યાદ અપાવતી રાધા અંતમાં કૃષ્ણને માઠું ન લગાડવાનું કહીને પોતાને કેવું માઠું લાગ્યું છે તેની વાત સૂચવી દે છે. એટલે આ ગીતરચના ફરીફરી માણવી ગમે છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "ગીતના પત્ર-સ્વરૂપનો પરિચય"
+                }
+              ],
+              "note": "Marker [[કૃતિ-પરિચય]]. Prose printed for the student, naming the conceit the whole poem runs on: રાધાનો કાવ્યરૂપ પત્ર કૃષ્ણ માટે, કદંબના પાંદડા પર અને પાંપણની ભાષામાં લખાયેલો, વિરહ સાથે હળવી રીસ. CONCEPT topic, kept separate from T1 because the page prints two separate markers, matching this run's own ch01 precedent (kavi-parichay/kriti-parichay as two topics). depends_on T1 since the work-introduction presumes the poet has already been introduced. Difficulty 'medium': introduces two abstract images (કદંબનું પાંદડું, પાંપણની ભાષા) before the poem itself has shown them, which is more to hold than T1's plain biography.",
+              "modified_chunk": "આ ફકરો કહે છે કે આ ગીત રાધાએ કૃષ્ણને લખેલો કાવ્યરૂપ પત્ર (કવિતાના રૂપમાં લખેલો કાગળ) છે — કદંબના ઝાડના પાંદડા પર, પાંપણની ભાષામાં એટલે કે આંસુ વાટે લખાયેલો. રાધા ઇચ્છે છે કે ગોકુળ છોડી ગયેલા કૃષ્ણ પાછા આવે, પણ સાથે એવી ટકોર (હળવો ઠપકો) પણ કરે છે કે આવો તો રાધાને મોઢું ના બતાવશો. છેલ્લે રાધા કૃષ્ણને કહે છે કે તમને માઠું ના લાગે, પણ પોતાને કેવું માઠું લાગ્યું છે એ પણ જણાવી દે છે.",
+              "word_count": {
+                "original": 106,
+                "modified": 76
+              },
+              "key_terms": [
+                "કાવ્યરૂપ પત્ર — કવિતાના રૂપમાં લખેલો કાગળ",
+                "પ્રગટપણે — ખુલ્લેખુલ્લું, સ્પષ્ટ રીતે",
+                "તન્મય — સંપૂર્ણ ડૂબેલું, લીન",
+                "માઠું લગાડવું — દુઃખ કે નારાજગી અનુભવવી"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "રાધાનો વિરહ-પત્ર",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ગોકુળમાં ન આવવાની પ્રથમ ટકોર",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "ગોકુળમાં આવવાની છૂટ છતાં મુખ ન બતાવવાની ટકોર",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [
+                "M1.S1.T2"
+              ],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "ગોકુળમાં કોકવાર આવો તો કાન,\n          હવે રાધાને મુખ ના બતાવશો,",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "ગોકુળમાં આવવાની છૂટ છતાં મુખ ન બતાવવાની ટકોર"
+                }
+              ],
+              "note": "No printed કડી-marker exists for this ગીત — 00_chapter_normalized.md carries exactly one [[ગીત]] marker over all sixteen printed lines, since the page itself prints no કડી-break and no ટેક (01_meta.json structure_inventory: kadi:0, tek_occurrences:0). profiles/genres/urmikavya_geet.md names this EXACT chapter as the case where 'a poem printed with no કડી breaks at all... is cut on its turns of address or image, and the cut is recorded in extraction_notes[] as a judgement, not presented as printed structure.' 01_meta.json's own structure_inventory already counted eight સંબોધન-ચિત્ર જોડ (address-image pairs) from the printed left-indent/right-indent layout specifically 'જેથી Agent 2ને કાપ-નિર્ણય માટે આધાર મળે' (so Agent 2 has a basis for the cut decision) — this topic is the first of those eight pairs, lines 1-2 of the printed poem ('ગોકુળમાં કોકવાર આવો તો કાન, / હવે રાધાને મુખ ના બતાવશો,'). Difficulty 'easy': plain vocabulary, direct address, nothing glossed as hard here.",
+              "modified_chunk": "રાધા કૃષ્ણને કહે છે કે તમે ક્યારેક (કોકવાર) ગોકુળમાં આવો તો ભલે આવો, પણ હવે રાધાને મોઢું ના બતાવશો. એટલે કે આવવાની છૂટ આપે છે, પણ સામે મળવાની ના પાડે છે — આમાં રાધાની હળવી રીસ (નારાજગી) દેખાય છે.",
+              "word_count": {
+                "original": 10,
+                "modified": 39
+              },
+              "key_terms": [
+                "કોકવાર — ક્યારેક, કોઈક વાર",
+                "કાન — શ્રીકૃષ્ણ માટેનું વહાલભર્યું નામ",
+                "મુખ — મોઢું, ચહેરો",
+                "રીસ — હળવી નારાજગી, ગુસ્સો"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "ગોવર્ધનની છૂટ ને કાંઠે ન આવવાની મનાઈ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S2.T3"
+              ],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "ગાયોનું ધણ લઈને ગોવર્ધન જાવ ભલે,\n          જમાનાને કાંઠે ના આવશો.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C4",
+                  "concept_name": "ગોવર્ધનની છૂટ ને કાંઠે ન આવવાની મનાઈ"
+                }
+              ],
+              "note": "Second સંબોધન-ચિત્ર જોડ, lines 3-4 ('ગાયોનું ધણ લઈને ગોવર્ધન જાવ ભલે, / જમાનાને કાંઠે ના આવશો.'), same [[ગીત]] marker as T3 — see T3's note for the single-marker/eight-topic judgement this profile explicitly authorises for this chapter. Difficulty 'medium': ધણ is glossed on the page (શબ્દ-સમજૂતી box), but ગોવર્ધન is a place-name the L2 reader must already carry, and the second line's exact riverbank-word as rendered needs the child to connect it back to 'ગોકુળ' — a small additional inference beyond T3.",
+              "modified_chunk": "રાધા કહે છે કે ગાયોનું ધણ (ટોળું) લઈને ગોવર્ધન પર્વત તરફ ભલે જાવ, એની ના નથી. પણ જમનાને (યમુના નદીને) કાંઠે ના આવશો — કારણ કે એ કાંઠો ગોકુળની અને પોતાની જૂની યાદો સાથે જોડાયેલો છે.",
+              "word_count": {
+                "original": 10,
+                "modified": 36
+              },
+              "key_terms": [
+                "ધણ — ગાયોનું ટોળું",
+                "ગોવર્ધન — એક પર્વતનું નામ, જ્યાં કૃષ્ણ ગાયો ચરાવવા જતા",
+                "જમના — યમુના નદી માટે કાવ્યમાં વપરાયેલું જૂનું રૂપ",
+                "કાંઠે — નદીની કિનારીએ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "ભૂતકાળનાં સંભારણાં અને શરતો",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "તાંદુલની પોટલીમાં પૂનમની રાત બાંધી લાવવાની માગણી",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S2.T4"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "તાંદુલની પોટલીએ પૂનમની રાત\n          ભલે બાંધીને આવો ગોકુળમાં,",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "તાંદુલની પોટલીમાં પૂનમની રાત બાંધી લાવવાની માગણી"
+                }
+              ],
+              "note": "Third સંબોધન-ચિત્ર જોડ, lines 5-6 ('તાંદુલની પોટલીએ પૂનમની રાત / ભલે બાંધીને આવો ગોકુળમાં,') — see T3's note for the single [[ગીત]]-marker/eight-topic basis. Difficulty 'hard' (relative, this chapter only): તાંદુલ is glossed on the page, but the picture itself — tying a full-moon night up like a rice-parcel — is a compressed metaphor (echoing the તાંદુલની પોટલી of the Krishna-Sudama meeting, without the poem naming Sudama) that an L2 std-9 reader cannot decode from vocabulary alone.",
+              "modified_chunk": "રાધા કૃષ્ણને કહે છે કે તાંદુલ (ચોખા)ની પોટલીમાં ભલે પૂનમની રાત બાંધીને ગોકુળમાં આવો. સાચે પોટલીમાં રાત ના બંધાય, પણ કૃષ્ણ-સુદામાના મિલનની તાંદુલની પોટલી યાદ કરાવીને રાધા પૂનમની રાતના મિલનની ઝંખના વ્યક્ત કરે છે.",
+              "word_count": {
+                "original": 8,
+                "modified": 34
+              },
+              "key_terms": [
+                "તાંદુલ — ચોખા, એક જાતનું અનાજ",
+                "પોટલી — કપડામાં બાંધેલી નાની ગાંસડી",
+                "પૂનમ — મહિનાની પૂરી ચાંદનીવાળી રાત",
+                "મિલન — મળવું, ભેટો"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "અડવાણે ન દોડવાની અને વિરહના રાજની વાત",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S3.T5"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "અડવાણે નૈં દોડે કોઈ અહીં,\n          વિરહાનાં રાજ નહિ જીતો ગોકુળનાં,",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C6",
+                  "concept_name": "અડવાણે ન દોડવાની અને વિરહના રાજની વાત"
+                }
+              ],
+              "note": "Fourth સંબોધન-ચિત્ર જોડ, lines 7-8 ('અડવાણે નૈં દોડે કોઈ અહીં, / વિરહાનાં રાજ નહિ જીતો ગોકુળનાં,') — see T3's note. Difficulty 'hard': 'અડવાણે' (ઉઘાડા પગે) is not in the printed શબ્દ-સમજૂતી box at all, and 'વિરહાનાં રાજ' is an abstract compound image (a 'kingdom of separation' to be won or lost) that the poem never explains in plainer words — exactly the kind of line an L2 reader stops on.",
+              "modified_chunk": "રાધા કહે છે કે અહીં ગોકુળમાં કોઈ અડવાણે (ઉઘાડા પગે) નહીં દોડે — એટલે કે અહીંનું દર્દ સહેલાઈથી હલવાનું નથી. અને ગોકુળના વિરહ (વિયોગ)ના રાજ પર તમે આટલી સહેલાઈથી જીત નહીં મેળવો — રાધાનો વિરહ એટલો ઊંડો છે.",
+              "word_count": {
+                "original": 10,
+                "modified": 38
+              },
+              "key_terms": [
+                "અડવાણે — ઉઘાડા પગે",
+                "વિરહ — વિયોગ, પ્રિયજનથી છૂટા પડવાનું દુઃખ",
+                "રાજ — અહીં કોઈ વસ્તુ પર કાબૂ, સત્તા",
+                "જીતવું — વિજય મેળવવો"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T7",
+              "topic_name": "વગર હથિયારે સમરાંગણમાં ફાવવાની વાત",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T6"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "સમરાંગણ તમને તો શોભે હો શ્યામ,\n          વગર હથિયારે ત્યાં જ તમે ફાવશો !",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T7.C7",
+                  "concept_name": "વગર હથિયારે સમરાંગણમાં ફાવવાની વાત"
+                }
+              ],
+              "note": "Fifth સંબોધન-ચિત્ર જોડ, lines 9-10 ('સમરાંગણ તમને તો શોભે હો શ્યામ, / વગર હથિયારે ત્યાં જ તમે ફાવશો !') — see T3's note. સમરાંગણ is glossed on the page (યુદ્ધભૂમિ). The line points at Krishna's unarmed role in the Mahabharata war without the poem naming any specific episode; the topic and its objective (O4) stay with what the line itself says (Krishna succeeds at war without a weapon) rather than asserting which Mahabharata deed is meant, since no specific incident is printed in this chapter's text (no_hallucination_policy.md — the શિક્ષકની ભૂમિકા box does suggest the teacher narrate the Mahabharata background aloud, but that is teacher-addressed apparatus, not this chapter's printed content, so it is not asserted as fact here). Difficulty 'medium': vocabulary is glossed; only the historical allusion adds friction.",
+              "modified_chunk": "રાધા કહે છે કે યુદ્ધભૂમિ (સમરાંગણ) તો શ્યામ (કૃષ્ણ)ને શોભે છે, અને ત્યાં પણ કૃષ્ણ હથિયાર વગર જ સફળ (ફાવશો) થશો. પણ રાધાનો ઇશારો એ તરફ છે કે ગોકુળમાં આવવા માટે તો હથિયારની નહીં, પ્રેમની જરૂર છે.",
+              "word_count": {
+                "original": 13,
+                "modified": 37
+              },
+              "key_terms": [
+                "સમરાંગણ — યુદ્ધભૂમિ",
+                "શ્યામ — શ્રીકૃષ્ણ માટેનું બીજું નામ",
+                "હથિયાર — શસ્ત્ર, લડવાનું સાધન",
+                "ફાવવું — સફળ થવું, પાર પડવું"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "પત્રનું સમાપન અને સહી",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T8",
+              "topic_name": "કદમ્બના પાંદડે પાંપણની ભાષામાં લખવાની વાત",
+              "topic_type": "POEM",
+              "topic_category": "transition",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S3.T7"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "પાંદડે કદમ્બના પાંપણની ભાષામાં,\n          લખી લખી આંખ હવે ભરીએ,",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T8.C8",
+                  "concept_name": "કદમ્બના પાંદડે પાંપણની ભાષામાં લખવાની વાત"
+                }
+              ],
+              "note": "Sixth સંબોધન-ચિત્ર જોડ, lines 11-12 ('પાંદડે કદમ્બના પાંપણની ભાષામાં, / લખી લખી આંખ હવે ભરીએ,') — see T3's note. This is the line the chapter's own printed ભાષા-અભિવ્યક્તિ block names outright: 'પાંદડે કદમ્બના, પાંપણની ભાષામાં જેવા વર્ણાનુપ્રાસથી કાવ્ય આસ્વાદ્ય બન્યું છે તે સમજો' — so વર્ણાનુપ્રાસ (within the std-9 seven-અલંકાર canon, profiles/students/std-9.md §1.3) is named here because the page itself names it on this exact line, not asserted from a catalogue. Difficulty 'hard': a named-device line plus the abstract 'પાંપણની ભાષા' (writing through tears/eyelashes) image — the std 9-10 hard criterion in teaching_lens_map.md. topic_category 'transition' because the letter turns here from refusal/reminiscence toward its closing appeal.",
+              "modified_chunk": "રાધા કહે છે કે કદમ્બ (એક ઝાડ)ના પાંદડા પર, પાંપણની ભાષામાં એટલે કે આંસુ વાટે, તે લખી લખીને હવે પોતાની આંખ ભરાઈ આવે છે. કદમ્બના પાંદડા પર પત્ર લખવો અને પાંપણ વડે ‘ભાષા’ બોલવી — આ બંને રાધાની પોતાની આગવી, કલ્પનાભરી રીત છે સંદેશો મોકલવાની.",
+              "word_count": {
+                "original": 9,
+                "modified": 45
+              },
+              "key_terms": [
+                "કદમ્બ — એક જાતનું ઝાડ",
+                "પાંપણ — આંખની પાંપણ, જેના પર આંસુ અટકે",
+                "ભાષામાં — અહીં રીતે, ઢબે",
+                "આંખ ભરાઈ આવવી — આંખમાં આંસુ આવવા"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T9",
+              "topic_name": "જમનાનાં જળ દ્વારકા મોકલવાની માગણી",
+              "topic_type": "POEM",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S4.T8"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "જમનાનાં જળ, તમે દેજો હાથોહાથ\n          માધવને દ્વારકાના દરિયે :",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T9.C9",
+                  "concept_name": "જમનાનાં જળ દ્વારકા મોકલવાની માગણી"
+                }
+              ],
+              "note": "Seventh સંબોધન-ચિત્ર જોડ, lines 13-14 ('જમનાનાં જળ, તમે દેજો હાથોહાથ / માધવને દ્વારકાના દરિયે :') — see T3's note. Difficulty 'medium': vocabulary is plain, but the picture (send Gokul's river-water, by hand, to Krishna at the distant sea) carries the poem's whole વિરહ-ભાવ in one symbol, which needs unpacking beyond the words themselves. topic_category 'transition', continuing straight into the closing signature.",
+              "modified_chunk": "રાધા કહે છે કે જમનાનાં (યમુનાનાં) જળ, તમે એ પાણી હાથોહાથ એટલે કે જાતે, સીધું જ માધવ (કૃષ્ણ)ને દ્વારકાના દરિયા સુધી પહોંચાડજો. ગોકુળની નદીનું પાણી દ્વારકાના સમુદ્ર સુધી મોકલવાની આ માગણી દ્વારા રાધા ગોકુળ અને કૃષ્ણ વચ્ચેનો સંબંધ જીવંત રાખવા માંગે છે.",
+              "word_count": {
+                "original": 9,
+                "modified": 42
+              },
+              "key_terms": [
+                "જમના — યમુના નદી માટે કાવ્યમાં વપરાયેલું જૂનું રૂપ",
+                "હાથોહાથ — જાતે, સીધેસીધું",
+                "માધવ — શ્રીકૃષ્ણનું બીજું નામ",
+                "દરિયો — સમુદ્ર"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T10",
+              "topic_name": "પત્રની સહી અને અંતરમાં ઓછું ન લાવવાની વિનંતી",
+              "topic_type": "POEM",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S4.T9"
+              ],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "લખિતંગ રાધાના ઝાઝા જુહાર…\n          શ્યામ, અંતરમાં ઓછું ના લાવશો ?\n\n('તમે'માંથી)",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T10.C10",
+                  "concept_name": "પત્રની સહી અને અંતરમાં ઓછું ન લાવવાની વિનંતી"
+                }
+              ],
+              "note": "Eighth and last સંબોધન-ચિત્ર જોડ, lines 15-16 ('લખિતંગ રાધાના ઝાઝા જુહાર… / શ્યામ, અંતરમાં ઓછું ના લાવશો ?') — see T3's note; this closes the eight-pair cut this profile authorises for this chapter (8 = 01_meta.json's sambodhan_chitra_pairs count, all sixteen lines accounted for). 'લખિતંગ … જુહાર' is the letter-signature the કૃતિ-પરિચય and the ('તમે'માંથી) source-line already frame this ગીત as (a fictional character's signature inside the poem, not the poet's own છાપ — 01_meta.json's extraction_notes records this distinction explicitly). જુહાર is glossed on the page (નમસ્કાર, સલામ). topic_category 'resolution': the letter's close and the ગીતનું અંતિમ ચિત્ર. This topic's original_chunk (filled by Agent 5) also carries the trailing '(‘તમે’માંથી)' source-attribution line printed after the poem, per this run's own convention of attaching a trailing printed source-note to the LAST reading-scene topic.",
+              "modified_chunk": "પત્રના અંતે રાધા પોતાની સહી કરે છે — ‘લખિતંગ રાધાના ઝાઝા જુહાર’ એટલે ‘લખનાર રાધા તરફથી ઘણા બધા નમસ્કાર’. છેલ્લે રાધા કૃષ્ણને પૂછે છે કે શ્યામ, અંતરમાં (મનમાં) ઓછું ના લાવશો — એટલે કે આ પત્રથી મનમાં દુઃખ કે નારાજગી ના રાખશો.",
+              "word_count": {
+                "original": 11,
+                "modified": 42
+              },
+              "key_terms": [
+                "લખિતંગ — પત્ર લખનારનું નામ મૂકતો શબ્દ, ‘લખનાર’",
+                "જુહાર — નમસ્કાર, સલામ",
+                "અંતર — મન, હૈયું",
+                "ઓછું લાવવું — મનમાં દુઃખ કે નારાજગી અનુભવવી"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut: 2 pre-reading CONCEPT topics ([[કવિ-પરિચય]], [[કૃતિ-પરિચય]]) + 8 POEM topics (all carried by the single [[ગીત]] marker) = 10 topics total. This does NOT match a simple 'one marker, one topic' count for the poem, and that mismatch is deliberate and profile-authorised: profiles/genres/urmikavya_geet.md names this EXACT chapter ('std-9 ch 16 ગોકુળમાં આવો તો') as the case where a poem printed with no કડી-breaks at all 'is cut on its turns of address or image, and the cut is recorded in extraction_notes[] as a judgement, not presented as printed structure.' 01_meta.json's structure_inventory independently pre-computed eight સંબોધન-ચિત્ર જોડ from the page's own left/right-indent layout, explicitly 'જેથી Agent 2ને કાપ-નિર્ણય માટે આધાર મળે' (so Agent 2 has a basis for the cut). This file's eight POEM topics follow that pre-computed count exactly, one topic per printed line-pair, all sixteen lines accounted for with no gap and no overlap. Flagging this explicitly for Agent 4's marker-count check, since a raw count of [[…]] markers in 00_chapter_normalized.md against topic count would otherwise look like eight invented topics against one marker.",
+    "કવિ-પરિચય and કૃતિ-પરિચય are kept as TWO separate CONCEPT topics rather than folded into one, because the rendered page carries them as two separate labelled markers ([[કવિ-પરિચય]] then [[કૃતિ-પરિચય]]), matching this exact std-9 run's own ch01 precedent (02_structure.json, M1.S1.T1/T2) rather than std-10's single unlabelled paragraph described in explanation_unit_map.md.",
+    "શબ્દ-સમજૂતી, all four સ્વાધ્યાય blocks (MCQ, બે-ત્રણ વાક્યોમાં, સવિસ્તાર ઉત્તર, વિદ્યાર્થી-પ્રવૃત્તિ), ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are apparatus/exercise matter per global_content_rules.md rule 7 and explanation_unit_map.md's apparatus rule — none cut as topics here; they remain for Agent 10 (01_meta.json's exercise_inventory) and for key_terms/ભાષા-બોધ sourcing at later agents. શિક્ષકની ભૂમિકા in particular is teacher-addressed prose (per profiles/students/std-9.md §1.4) and was used only as genre-diagnosis evidence at Agent 1, never as topic content here.",
+    "Module/segment shape: M1 (પરિચય, one segment, two CONCEPT topics) holds the pre-reading apparatus; M2 (રાધાનો વિરહ-પત્ર, three segments) holds the eight POEM topics, grouped by the letter's own thematic turns — S2 the opening refusal (don't show your face / don't come to the riverbank), S3 the remembered incidents and conditions (rice-parcel and full-moon night, the barefoot refusal, the unarmed battlefield), S4 the closing appeal and signature (the eyelash-language letter, the river-water message, the sign-off). This segmentation is a judgement call, recorded here per 02_structure.md's instruction to flag it, since the page itself prints no segment-level break — only the eight line-pairs.",
+    "Names: every module, segment and topic name is Gujarati and carries no digits, per global_content_rules.md rule 4 and 02_structure.md's 'Names are Gujarati and carry no digits' — ordinal position is never written into any name; sequence lives in the ids alone.",
+    "difficulty is set per this chapter's own reading friction (teaching_lens_map.md's std 9-10 criterion: medieval/તત્સમ-dense lines, a named-device line, an argument's turn) and never by craft-naming or idea-size: T1 easy (plain biography); T2 medium (two abstract images introduced before the poem shows them); T3 easy (plain, direct address); T4 medium (ધણ glossed, પણ ગોવર્ધનનું સ્થળ-જ્ઞાન અને કાંઠાનો ઉલ્લેખ ધારે છે); T5/T6 hard (compressed allusive images — તાંદુલની પોટલી/પૂનમની રાત, 'વિરહાનાં રાજ' — with 'અડવાણે' altogether unglossed on the page); T7 medium (vocabulary glossed, only the historical allusion adds load); T8 hard (a named-device line — વર્ણાનુપ્રાસ — plus the 'પાંપણની ભાષા' image); T9/T10 medium (plain vocabulary carrying a symbol, and a letter-closing idiom respectively). No topic is called hard for naming a device, per the same rule.",
+    "depends_on chains each topic to the one immediately before it in reading order (T1←; T2←T1; T3←T2; T4←T3; T5←T4; T6←T5; T7←T6; T8←T7; T9←T8; T10←T9), matching this run's own ch01 precedent of sequential real-dependence for a single continuous reading (here, one unbroken letter in one voice, address-image pair by address-image pair) — not thematic callbacks, since this ગીત carries no ટેક and no changed-words refrain to depend on (01_meta.json: tek_occurrences 0).",
+    "Objectives: O1 covers the two pre-reading CONCEPT topics together (poet + work introduction read as one preparatory unit, as this run's ch01 also did). O2 covers the segment-S2 pair together since both lines share one demand-pattern (concession about where Krishna may go, paired with a refusal of where he may not) and one evidence-citing objective can hold both text-grounded, per teaching_lens_map.md's std 9-10 evidence-citing gate. O3 covers the T5/T6 pair (both are Radha's conditions/refusals inside the remembered-incidents segment). O4, O5, O6, O7 each anchor one topic on its own because each carries a distinct, separable image or craft point (the Mahabharata allusion; the printed-and-named વર્ણાનુપ્રાસ line; the river-water symbol; the letter's signature and closing question) that no other topic shares — 'One sound, text-grounded objective anchor per reading scene' (02_structure.md §4). Every one of the ten topics is covered by exactly one objective's anchor list; none are left uncovered.",
+    "O5 names વર્ણાનુપ્રાસ, the only craft label used anywhere in this file. It is licensed by two things at once: (a) the std-9 named canon explicitly includes વર્ણાનુપ્રાસ (profiles/students/std-9.md §1.3, one of the seven std-9 અલંકાર), and (b) the chapter's own printed ભાષા-અભિવ્યક્તિ block names વર્ણાનુપ્રાસ on this exact line ('પાંદડે કદમ્બના, પાંપણની ભાષામાં જેવા વર્ણાનુપ્રાસથી...'). No other અલંકાર, છંદ, સમાસ કે સાહિત્યપ્રકાર label is asserted anywhere in this file; figures_of_speech[], rhyme_scheme and overall_rhyme_scheme are left for later agents (Agent 5/7) to populate from the verbatim text once original_chunk is filled — out of scope for this structural pass.",
+    "O4's objective_text deliberately stops at what the line itself says (Krishna succeeds at war without a weapon) and does not name or assume which Mahabharata episode is meant, since this chapter's printed text and apparatus (કવિ-પરિચય, કૃતિ-પરિચય, શબ્દ-સમજૂતી) never name one — only the teacher-addressed શિક્ષકની ભૂમિકા box suggests narrating 'મહાભારતમાં કૃષ્ણના કાર્યને વાર્તા સ્વરૂપે,' which is guidance for the teacher's spoken aside, not printed chapter content, per no_hallucination_policy.md's rule that only what THIS chapter states may enter a topic or objective.",
+    "original_chunk is left empty on every topic per spec ('original_chunk stays empty; Agent 5 fills it'); no verbatim transcription was attempted here beyond reading 00_chapter_normalized.md's sixteen printed lines to locate the eight address-image pair boundaries used for this cut.",
+    "Genre/lens/guiding_question are carried unchanged from 01_meta.json (genre 'ઊર્મિકાવ્ય-ગીત', active_genre_profiles ['urmikavya_geet.md'], teaching_lens 'ચિત્ર + ભાવ (વિરહ-રીસ) + અલંકાર', the derived guiding_question) — no disagreement between the rendered page and the explanation_unit_map.md/profile prior beyond the single-marker cut already flagged above, which the profile itself anticipates for this exact chapter."
+  ]
+}

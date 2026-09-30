@@ -1,3 +1,43 @@
 {
-  "in_progress": 3
+  "std": 10,
+  "done": [
+    {
+      "chapter": 1,
+      "status": "complete"
+    },
+    {
+      "chapter": 2,
+      "status": "qc-failed"
+    },
+    {
+      "chapter": 3,
+      "status": "qc-failed"
+    },
+    {
+      "chapter": 4,
+      "status": "qc-failed"
+    },
+    {
+      "chapter": 5,
+      "status": "qc-failed"
+    },
+    {
+      "chapter": 6,
+      "status": "complete"
+    },
+    {
+      "chapter": 7,
+      "status": "complete"
+    },
+    {
+      "chapter": 8,
+      "status": "complete"
+    },
+    {
+      "chapter": 9,
+      "status": "complete"
+    }
+  ],
+  "in_progress": 11,
+  "pending": []
 }

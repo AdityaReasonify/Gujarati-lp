@@ -1,0 +1,280 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch15",
+  "plan_id": "gseb_eng_gujarati8_ch15_v1",
+  "chapter_name": "પોર્ટરના પંજામાં",
+  "grade": 8,
+  "genre": "આત્મકથાત્મક પ્રસંગ (હાસ્યપ્રસંગ / સંસ્મરણ)",
+  "active_genre_profiles": ["nibandh_atmaparak.md"],
+  "explanation_unit": "એક પ્રસંગ, અથવા વિચારનો એક વળાંક",
+  "teaching_lens": "સ્વર + પ્રસંગ + પોતાની જાત પરની નજર",
+  "guiding_question": "સાચું બોલવા છતાં કોઈ માનતું નહોતું ત્યારે કિશોર લેખકે પોતાનો પક્ષ કઈ રીતે ટકાવી રાખ્યો, અને છેવટે સત્ય કઈ રીતે સાબિત થયું ?",
+  "counts": {
+    "modules": 2,
+    "segments": 3,
+    "topics": 6,
+    "concepts": 7,
+    "objectives": 6,
+    "ghatna_markers_in_00": 6,
+    "topics_carrying_a_ghatna_marker": 6
+  },
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6"
+  },
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "તલોદના ઝાંપે અજાણ્યા યુગલને પોટલાં ઊંચકવામાં મદદ કરતી વખતે કિશોરનું મન 'ભલાઈ' અને 'પૈસા' બંને તરફ કઈ રીતે ખેંચાય છે તે વાર્તાના પોતાના વાક્યો પરથી કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સ્ટેશને ચા-નાસ્તાનો આગ્રહ થાય ત્યારે કિશોરનું મન ના પાડે છે છતાં હાથ કઈ રીતે વસ્તુ સ્વીકારી લે છે એ પોતાના જ શબ્દોમાં કિશોર કઈ રીતે કબૂલે છે તે શોધવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": ["M1.S1.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગાડી ઊપડ્યા પછી કિશોરનો આનંદ પોર્ટરના એક જ સવાલ 'લાવ છોકરા, ટિકિટ !'થી કઈ રીતે અચાનક ઊડી જાય છે તે ઘટના વાંચીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": ["M2.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પોર્ટર અને ટોળું કિશોરના સાચા જવાબને કયા કારણોસર માનવાની ના પાડે છે અને એને હસી કાઢે છે તે આ પ્રસંગમાંથી તારવીને કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": ["M2.S2.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પોલીસના હવાલાની ધમકી છતાં ડરેલો કિશોર જૂઠું ન બોલતાં સાચું જ કેમ કહ્યા કરે છે, અને ગાડીવાળાની સાક્ષી આવતાં ટોળાનું વલણ કઈ રીતે બદલાય છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T5",
+      "anchor": ["M2.S2.T5.C5", "M2.S2.T5.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ટોળાએ શરૂઆતમાં કિશોર પર શંકા કરી એ વ્યાજબી હતી કે નહીં તે કારણ સાથે કહેવું, અને છેવટે સાચી વાત કઈ રીતે સાબિત થઈ તે જણાવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": ["M2.S3.T6.C7"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "મદદ અને આગ્રહનો સ્વીકાર",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "યુગલને મદદ અને આગ્રહનો સ્વીકાર",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "તલોદના ઝાંપે યુગલને પોટલાં ઊંચકવામાં મદદ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: તલોદના ઝાંપે યુગલને પોટલાં ઊંચકવામાં મદદ]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "ભલાઈ અને પૈસા વચ્ચે અટવાયેલું મન",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "સ્ટેશને દોડધામ અને ચા-નાસ્તાનો આગ્રહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: સ્ટેશને દોડધામ અને ચા-નાસ્તાનો આગ્રહ]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "ના પાડતું મન, છતાં માની ગયેલો હાથ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "શંકાથી છુટકારા સુધીની કસોટી",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ટિકિટ વગરની શંકા અને પુછપરછ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "ગાડી ઊપડી, પોર્ટરે ટિકિટ માગી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: ગાડી ઊપડી અને પોર્ટરે ટિકિટ માગી]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "આનંદમાંથી અચાનક ફફડાટ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "પોર્ટરની શંકા અને ટોળાની મજાક",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M2.S2.T3"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: પોર્ટરની શંકા અને ટોળાની મજાક]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C4",
+                  "concept_name": "સાચી વાત છતાં ટોળાની હાંસી",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T5",
+              "topic_name": "સ્ટેશનમાસ્તર આગળ પુછપરછ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M2.S2.T4"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: સ્ટેશનમાસ્તર આગળ પુછપરછ]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T5.C5",
+                  "concept_name": "ધમકી છતાં સાચી વાત પર અડગ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S2.T5.C6",
+                  "concept_name": "ગાડીવાળાની સાક્ષીથી જાગેલી આશા",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "સાચી ઓળખ અને છુટકારો",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "સજ્જનની ઓળખ અને છુટકારો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": ["M2.S2.T5"],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: સજ્જનની ઓળખ અને મુક્તિ]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C7",
+                  "concept_name": "સજ્જનની ઓળખથી મળેલો છુટકારો",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "notes": [
+    "MARKER-COUNT DISCREPANCY, PAGE WINS — 01_meta.json's structure_inventory records `\"ghatna\": 7`, but 00_chapter_normalized.md (the authoritative transcription for this run) carries exactly SIX `[[ઘટના: …]]` marker lines. Per reference/explanation_unit_map.md ('One marker, one topic') and this run's own routing note ('the page wins — and you say so in a note for Agent 4'), this cut follows the six printed markers and produces exactly six topics, one per marker, in printed order — never seven, and never a topic invented where no marker sits. Each topic records its marker verbatim in `source_marker` so Agent 4 can count both directions. The likely reconciliation: the block under the fourth and fifth markers ([[ઘટના: પોર્ટરની શંકા અને ટોળાની મજાક]] and [[ઘટના: સ્ટેશનમાસ્તર આગળ પુછપરછ]]) together carry three separable ભાવ-movements on a close re-read (the porter's accusation + denial; the crowd's counter-testimony + tears; then, inside the fifth marker's own block, the threat/decision to persist in truth followed by the cart driver's exonerating testimony) — which is exactly why M2.S2.T5 below carries two concepts. Six markers plus one genuine two-concept topic totals seven ભાવ-movements, which is plausibly what Agent 1 counted into `ghatna: 7` even though only six marker lines were written. Flagged for Agent 4, not silently resolved.",
+    "APPARATUS DELIBERATELY NOT CUT — the `[[પ્રવેશપેટી]]` box is the standard GSEB blue intro box and is teacher-addressed: it ends on an instruction, not on reading text ('...એની સમજ યથોચિત રીતે આપવી' — telling the teacher how to convey the register, not something printed for the child to read as literature). Per reference/explanation_unit_map.md this is apparatus ('the blue intro box... teacher-addressed matter: they feed key_terms, ભાષા-બોધ and Agent 10 — not topics'), unlike std 10's unlabelled student-facing કવિ/લેખક-પરિચય paragraph, which IS a CONCEPT topic. This chapter therefore opens directly on M1.S1.T1 with no pre-reading CONCEPT topic — the absence is measured, not an omission. Agent 1 already carried the box's diagnostic content into 01_meta.json's `genre_signals.purpose` verbatim. The `[[શબ્દાર્થ]]` box, the `[[શબ્દસમૂહ માટે એક શબ્દ]]` block, the `[[રૂઢિપ્રયોગ]]` pre-block (nine idioms) and the `[[કહેવત]]` pre-block (three, including the corpus's only કહેવત pre-block per profiles/genres/nibandh_atmaparak.md) are the same kind of apparatus and are likewise not topics.",
+    "EXERCISE-EMBEDDED READING MATTER EXCLUDED — the standalone paragraph inside the reading-fluency પ્રવૃત્તિ ('સાચા શિક્ષણની શરૂઆત કરવી હશે તો...') and the standalone paragraph inside the L1-translation block ('ભારતમાં 1853માં રેલવેનો પ્રારંભ થયો હતો...') are both printed for the exercise apparatus, not the chapter's own narrative — neither is by પન્નાલાલ પટેલ, neither is about the ટ્રેન/પોર્ટર પ્રસંગ, and neither enters any topic's `original_chunk` or the ઘટના chain; both stay in `exercise_inventory` / `exercise_solutions.json` for Agent 10. The full-page blank drawing frame ('તમને ગમતું કોઈ ચિત્ર ચોંટાડી...') is likewise exercise apparatus and opens no topic.",
+    "TWO-CONCEPT TOPIC — only M2.S2.T5 carries two concepts, and it genuinely does two separable things: C5 is the boy weighing a lie against the stationmaster's threat of the police and choosing to keep insisting on the truth; C6 is the ભાવ-turn that follows when the ગાડીવાળો appears unbidden and testifies for him, and the porter challenges the crowd to confirm it. The first is fear holding onto truth with no relief in sight; the second is the first crack of outside corroboration — a genuine movement of ભાવ, not a second thing forced in. The other five topics carry one concept each. The concept counter is chapter-continuous (C1…C7) and is NOT equal to the topic number from T5 onward — M2.S3.T6 carries C7, not C6 — matching the documented behaviour for any chapter with a two-concept topic (reference/phase2_contract.md, reference/naming_conventions.md).",
+    "NO CLIMAX CATEGORY — profiles/genres/nibandh_atmaparak.md 'Avoid' item 2 is a hard gate for this profile: an આત્મપરક/સંસ્મરણ chapter has પ્રસંગ, not પ્લોટ, so no topic here carries `topic_category: \"climax\"`, even for M2.S2.T5 (the stationmaster's interrogation and police threat), which is the single most tense scene in the chapter. Categories used are `introduction` (T1), `core` (T2, T4, T5), `transition` (T3, the first topic of the second movement — the pivot from favour to trouble), and `resolution` (T6, the closing gesture, per the profile's own closing-gesture rule).",
+    "CRAFT-LABEL CEILING HELD — no objective_text names an અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર; std 8 gates all four (profiles/students/std-8.md §1, reference/teaching_lens_map.md). O3's 'સિંગલ (સિગ્નલ)' turn and O1's split-mind phrasing are both surfaced through noticing language ('કઈ રીતે', 'કઈ રીતે ખેંચાય છે') and never through a named device. `figures_of_speech` is not attached to any topic here — all six are STORY_TELLING/prose, not POEM.",
+    "GENRE ROUTING CARRIED AS-IS — 01_meta.json's own genre_signals note the person test passes (હું = લેખક પન્નાલાલ પટેલ) and this exact chapter is independently named in profiles/genres/nibandh_atmaparak.md's own provenance list as 'હાસ્યપ્રસંગ / આત્મકથાત્મક પ્રસંગ'. On this session's own read of 00_chapter_normalized.md the dominant register is tension and fear (threat of police, tears) with only situational irony (an honest boy's own goodbye-wave used as evidence against him) rather than overt joke-telling — so the profile's હાસ્ય-sub-form gates (irony named once, laugh named in one clause) were not force-applied to any topic_category or objective here; downstream agents should read the passage's own tone before invoking the હાસ્ય section, and this uncertainty is recorded rather than resolved silently.",
+    "DEPENDS_ON IS SPARSE ON PURPOSE — only genuine cross-topic referential dependence is recorded, not mere printed sequence. T2 opens on 'જુવાન ભાઈ' and 'પત્ની', the same couple first named in T1 — without T1 those references are unidentifiable, so T2 depends_on T1. T4 opens 'પોર્ટર એમ કંઈ માને ઓછો!', continuing the SAME porter and the SAME crowd ('ટોળે વળેલા... લોકો') both already on stage inside T3 — T4 depends_on T3. T5 opens on 'સ્ટેશનમાસ્તર', first named inside T4 — T5 depends_on T4. T6 opens 'માસ્તર અને ટોળું... ગાડીવાળાનોય ઉધડો લેત', continuing T5's own scene and its own ગાડીવાળો — T6 depends_on T5. T1 (chapter opening) and T3 (opens on the generic 'ગાડી' with no specific carried-forward named referent) carry `[]`.",
+    "DIFFICULTY IS L2-READING DIFFICULTY, NOT IDEA SIZE — set relative inside this chapter, per profiles/students/std-8.md §2's own flag that 'ch 15 narrates in spoken dialect throughout' is an L2 hazard held in scope, not diluted. No topic here reads as 'easy': even the opening block (T1) is already dialect- and idiom-dense ('ગોળ-ગોળ કહું', 'તાર ઓળંગી... મૂકતાંક', 'એક પગ ભલાઈમાં ને બીજો પગ પૈસામાં'). `hard`: T4 and T5, the two topics carrying sustained multi-voice unattributed quoted dialogue (porter, crowd, stationmaster, boy, ગાડીવાળો all speaking within a few lines with no speaker labels) plus the chapter's heaviest dialectal forms ('પોઠ હાથ ફેરવતાં કહં છે', 'ડચકાં ખાતો ગયો', 'વેંત જેવડો'). `medium`: T1, T2, T3, T6. No topic is marked hard for a craft device — std 8 names none — and difficulty caps no topic's Bloom ceiling: O1, O3 and O5 reach Analyze and O6 reaches Evaluate.",
+    "SENSITIVITY FLAGGED FOR AGENT 8 — this chapter puts a minor under public accusation and an explicit threat of police custody (M2.S2.T5) on the page, and the crowd's mockery in M2.S2.T4 turns the boy's own honesty against him. profiles/genres/nibandh_atmaparak.md's Sensitivity section governs: recount the conflict with the stationmaster/porter factually, never as a political point about authority, and never soften the boy's fear or the crowd's laughter into something the chapter itself does not say. The genre's 'Emphasise: The admission' applies directly to T1 and T2 — the writer confesses his own torn mind ('ભલાઈ' vs 'પૈસા', mind saying no while the hand takes the ચા) — and downstream agents should lean on this rather than turning either scene into a lesson about honesty in general (Avoid gate 3, no tacked-on બોધ).",
+    "NO REVIEW TOPIC — the chapter prints no in-text wrap or value summary block; it runs straight through six ઘટના to its own closing gesture. M2.S3.T6 IS that closing gesture ('એ આખું ટોળું મારી તરફ માન ભરી નજરે જોઈ રહ્યું હતું... છોકરો મારો સાચો નીકળ્યો હો, ભાઈ !'), not a separate REVIEW topic.",
+    "FOR AGENT 5 — every `original_chunk` is deliberately empty here. Topic boundaries are the six `[[ઘટના: …]]` marker lines: each topic's chunk runs from the paragraph after its own marker up to (not including) the next marker line (or, for T6, up to the `[[શબ્દાર્થ]]` marker). T6's chunk must end with the chapter's actual final printed sentence ('...કોઈ-કોઈ કહેતું પણ હતું. છોકરો મારો સાચો નીકળ્યો હો, ભાઈ !'). This chapter prints no source/translator credit line AFTER the reading text — the author byline ('- પન્નાલાલ પટેલ') sits at the TOP under the title, and the book-title credit ('અલપઝલપ') sits inside the પ્રવેશપેટી apparatus, not after the narrative — so profile gate 13's end-credit clause has nothing to carry in T6; recorded so the absence reads as measured, not as a loss. Per 01_meta.json's extraction_notes, the printed dialectal forms 'પોઠ' (પીઠ), 'કહં છે' (કહે છે), 'બી' (પણ), 'કે'' (કહે, elided) and 'કો'તો' (કહેતા હતા, elided) must survive verbatim in T5's and T6's chunks — never modernised.",
+    "RENDERS NOT RE-READ — 00_chapter_normalized.md answered every question this cut needed, including the marker-count question above. No PNG in _renders was opened for this pass."
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "No sentence of M1.S1.T1's explanation, key_terms or recall_questions[].answer states a digit or numeral for પ્રિયકાન્ત મણિયારના જન્મ કે અવસાનના વર્ષ (દા.ત. 1927, 1976, ૨૪-૧-૧૯૨૭) — those dates sit in the chapter frontmatter above the [[કવિ-પરિચય]] marker (01_meta.json), never inside this topic's own original_chunk, which says only 'જન્મ વિરમગામમાં … વતન અમરેલી … નવ ધોરણ સુધીનો અભ્યાસ' with no year printed in the topic text itself; supplying the digit year violates the profile's 'no numbers in display text' item.",
+          "profile": "mukt_chhand_kavita",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'પ્રબલગતિ મુખ્યત્વે ગદ્યકાવ્યોનો સંગ્રહ છે' એ વાક્યને કવિ-પરિચયની એક સામાન્ય વિગત ગણી આગળ વધી જાય છે, અને 'ગદ્યકાવ્ય' શબ્દને હમણાં જ વાંચવાની 'એ લોકો' કવિતા સાથે જોડતો નથી — પરિણામે કવિતામાં કડી, પ્રાસ કે ટેક કેમ નથી મળતાં એ સવાલ જ ઊભો થતો નથી.",
+      "correction": "explanation એ સ્પષ્ટ કરે કે 'ગદ્યકાવ્ય' એટલે છંદ-પ્રાસ વગરની કવિતા, અને એટલે જ હવે વાંચવાની 'એ લોકો' કવિતામાં કડી, પ્રાસ કે ટેક નહીં મળે — આ શબ્દ ફક્ત વિગત નથી, હવે પછીના વાચન માટેની ચાવી છે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "No explanation, real_life_example or recall_questions[].answer for M1.S1.T2, M2.S2.T3, M2.S2.T4 or M2.S3.T5 drops this topic's own qualifier 'કાળાબજાર કરવાવાળા' and calls the responsible party simply 'વેપારીઓ' (traders) as a class, or extends it to a caste/community/religion/political party — this topic's own original_chunk names only 'કાળાબજાર કરવાવાળા વેપારીઓ', and the poem's own lines (M2.S2.T3 onward) never use the word 'વેપારી' at all, keeping the accused as 'એ લોકો'.",
+          "profile": "mukt_chhand_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of M1.S1.T2's explanation or recall_questions[].answer turns this topic's own causal account into an 'આપણે … જોઈએ' instruction (દા.ત. 'આપણે સંગ્રહખોરી ન કરવી જોઈએ') — this topic's own original_chunk names the poem's feeling as 'આક્રોશ' (તીવ્ર ગુસ્સો), and the explanation must state that આક્રોશ as the poet's, never as advice to the child.",
+          "profile": "mukt_chhand_kavita",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક કૃતિ-પરિચયનાં 'કાળાબજાર કરવાવાળા વેપારીઓ' શબ્દોને કાવ્યની જ પંક્તિ સમજી લે છે, અને પછી કવિતા વાંચતી વખતે 'એ લોકો'ને પણ સીધા 'વેપારીઓ' તરીકે નામ આપી દે છે — જ્યારે કાવ્ય પોતે ક્યાંય 'વેપારી' શબ્દ વાપરતું જ નથી અને 'એ લોકો'ને ઈરાદાપૂર્વક અનામી રાખે છે.",
+      "correction": "explanation એ સ્પષ્ટ કરે કે 'કાળાબજાર કરવાવાળા વેપારીઓ' શબ્દો પુસ્તકના પોતાના પરિચય-ફકરાની સમજૂતી છે; કવિતા વાંચતી વખતે 'એ લોકો' જ વપરાયેલો શબ્દ છે, અને કવિ ઈરાદાપૂર્વક કોઈનું નામ આપતા નથી — એ મૌન પણ કવિતાનો ભાગ છે."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "No explanation, key_terms or recall_questions[].answer for M2.S2.T3 names the repeated frame 'એ લોકો પહેલાં … પછી જ્યારે … ત્યારે …' (across કાપડ → ધાન્ય → ઔષધ) as ટેક or ધ્રુવપંક્તિ — 00_chapter_normalized.md carries zero [[ટેક]] markers for this chapter; the repetition may be named પુનરાવર્તન or અનુપ્રાસ but never ટેક, since it drives one accusation forward rather than returning as a sung refrain.",
+          "profile": "mukt_chhand_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "Any figures_of_speech entry for M2.S2.T3 must quote a phrase character-for-character from this topic's own original_chunk (વાર વાર / કિલો કિલો / થોડી થોડી / કાપડના તાકા) and must not label the repeated 'પહેલાં … પછી … ત્યારે …' frame itself as one of the std-9-canon અલંકાર (વર્ણાનુપ્રાસ, પ્રાસસાંકળી, ઉપમા, રૂપક, ઉત્પ્રેક્ષા, વ્યતિરેક, અતિશયોક્તિ) it does not carry — a repeated syntactic frame is પુનરાવર્તન-as-structure, not a named device; the chapter's rhyme_scheme/overall_rhyme_scheme stays pattern 'અછાંદસ' with rhyming_words: [].",
+          "profile": "mukt_chhand_kavita",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક કાપડ, ધાન્ય અને ઔષધની ત્રણ પંક્તિઓને ત્રણ અલગ-અલગ, છૂટા ઉદાહરણોની યાદી ગણી લે છે, અને 'વાર વાર'/'કિલો કિલો'/'થોડી થોડી' જેવા પુનરાવર્તનને માત્ર શબ્દ-શણગાર સમજે છે — જ્યારે ખરેખર આ ત્રણેય એક જ આક્ષેપને ક્રમશઃ વધુ તીવ્ર બનાવતું એક જ ચઢાણ છે.",
+      "correction": "explanation ત્રણેય પંક્તિઓને સાથે બતાવે, 'એ લોકો પહેલાં … પછી જ્યારે … ત્યારે …' ઢાળને કાપડ→ધાન્ય→ઔષધ પર ટાંકે, અને કહે કે દરેક પુનરાવર્તન (વાર વાર, કિલો કિલો, થોડી થોડી) આક્ષેપને એક પગથિયું વધુ તીવ્ર બનાવે છે — ત્રણ જુદી વાત નહીં, એક જ વાત ત્રણ વાર."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "Any figures_of_speech entry for M2.S2.T4 naming રૂપક must quote the exact line 'એ લોકો લોકો છે જ નહિ, એ તો છે નોટોને ખાઈ ઉછરતી ઊધઈ,' character-for-character from this topic's original_chunk, and must not be labeled ઉપમા or ઉત્પ્રેક્ષા — the line carries no 'જેવું'/'સમાન'/'જાણે' marker and states identity directly with 'છે', which is what makes it રૂપક.",
+          "profile": "mukt_chhand_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "No explanation, real_life_example, key_terms gloss or recall_questions[].answer for M2.S2.T4 assigns the ઊધઈ રૂપક or 'એ લોકો' to a specific real-world caste, community, religion, region, political party or named trade (દા.ત. 'વેપારીઓ', 'શ્રીમંતો') — the metaphor stays an unnamed person-shaped ઊધઈ, exactly as printed.",
+          "profile": "mukt_chhand_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "M2.S2.T4's explanation must contain at least one sentence naming why 'બીજું એને કાંઈ ભાવતું નથી,' is printed as its own short, standing-alone line (મૌન/પંક્તિ-ભંગ) — not only what the line says; an explanation that paraphrases its meaning but never says why it hangs alone fails the profile's ચિત્ર+મૌન+પંક્તિ-ભંગ lens.",
+          "profile": "mukt_chhand_kavita",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'એ લોકો … છે … ઊધઈ' પંક્તિમાં કોઈ સરખામણી-શબ્દ ('જેવા', 'સમાન') ન દેખાવાથી આને ઉપમા સાથે ગૂંચવે છે અથવા આ કોઈ અલંકાર જ નથી એમ માની લે છે — જ્યારે 'છે' વાપરીને સીધું એકરૂપ ગણાવવું જ રૂપકની ઓળખ છે.",
+      "correction": "explanation બંને શબ્દચિત્ર સાથે મૂકે અને બતાવે કે કવિ 'જેવા' કે 'સમાન' જેવો કોઈ શબ્દ વાપરતા નથી, સીધું 'છે' કહીને 'એ લોકો'ને ઊધઈ ગણાવે છે — આ સીધું એકરૂપ ગણાવવું જ રૂપક છે, ઉપમા નહીં."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "No sentence of M2.S3.T5's explanation, real_life_example or recall_questions[].answer closes on an 'આપણે … જોઈએ' exhortation or uses the nouns બોધ/શિખામણ/ઉપદેશ — this topic's own line 'મારે કવિ થવું જ નથી … ભારે અસર કરનારી જંતુનાશક દવા થાઉં તોય બસ' is the poet's own આક્રોશ, not a lesson handed to the reader.",
+          "profile": "mukt_chhand_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "M2.S3.T5's explanation must state, in its own words, that the poet does not literally want to become જંતુનાશક દવા — the line is વ્યંગ (કટાક્ષ) carrying આક્રોશ; an explanation that reports 'કવિ દવા બનવા માગે છે' without naming this as વ્યંગ reads the sarcasm as sincerity.",
+          "profile": "mukt_chhand_kavita",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'હું ભારે અસર કરનારી જંતુનાશક દવા થાઉં તોય બસ' પંક્તિને કવિની ખરેખરી ઇચ્છા કે વ્યવસાય-પસંદગી તરીકે વાંચી લે છે, જાણે કવિ ખરેખર કવિતા છોડીને દવા બનવા માગતા હોય — વ્યંગનો ઊંધો અર્થ પકડાતો નથી.",
+      "correction": "explanation સ્પષ્ટ કહે કે આ વ્યંગ (કટાક્ષ) છે: કવિ ખરેખર દવા બનવા નથી માગતા, પણ સંગ્રહખોરોના શોષણ સામેનો પોતાનો પ્રચંડ આક્રોશ આ રીતે વ્યક્ત કરે છે — શબ્દોનો શાબ્દિક અર્થ નહીં, એની પાછળનો રોષ જ ખરો અર્થ છે."
+    }
+  ],
+  "chapter_level": [
+    "Hard gate, structural, applies uniformly (mukt_chhand_kavita's Avoid list) — no explanation, summary, figures_of_speech note or recall answer anywhere in this chapter names a છંદ (દુહો, સોરઠો, ચોપાઈ, ઝૂલણા, હરિગીત, સવૈયા, મંદાક્રાન્તા, શિખરિણી, અનુષ્ટુપ, વસંતતિલકા…) or asserts a કડી/ટેક/ધ્રુવપંક્તિ as a printed structure of this poem: the poem is અછાંદસ, 00_chapter_normalized.md carries zero [[કડી]] and zero [[ટેક]] markers, and છંદ sits outside the std-9 ceiling regardless of genre (profiles/students/std-9.md §1.3).",
+    "Hard gate (mukt_chhand_kavita) — the chapter's overall_rhyme_scheme, and any per-topic rhyme_scheme on M2.S2.T3, M2.S2.T4 or M2.S3.T5, must read pattern 'અછાંદસ' with rhyming_words: []; the repeated '-છે' verb endings (રાખે છે / વેચે છે / રેડે છે) are tense agreement, not પ્રાસ, as already recorded in 01_meta.json's extraction_notes — a non-empty rhyming_words anywhere in this chapter is a hard fail.",
+    "Hard gate (global_content_rules rule 4 + mukt_chhand_kavita's own last avoid item) — no digit, numeral word, or the poet's dates (24-1-1927 / 25-6-1976, chapter frontmatter only) appears in any topic_name, explanation, real_life_example, summary, bullet or recall prompt across this chapter; numbers survive only in ids and provenance fields.",
+    "Sensitivity, chapter-wide (mukt_chhand_kavita's Sensitivity section + global_content_rules rule 10) — the poem's accused party ('એ લોકો') stays unnamed everywhere except inside M1.S1.T2's own original_chunk, which alone prints 'કાળાબજાર કરવાવાળા વેપારીઓ' as the book's own apparatus wording (see M1.S1.T2's avoid_checks); no topic may extend that naming to a caste, community, religion, region or political party, or generalise it to 'વેપારીઓ' as a whole trade — the poem's own lines (M2.S2.T3 through M2.S3.T5) never use the word 'વેપારી' at all."
+  ]
+}

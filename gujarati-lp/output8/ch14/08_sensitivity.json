@@ -1,0 +1,46 @@
+{
+ "topics": [
+  {
+   "topic_id": "M2.S2.T2",
+   "areas": ["સુરક્ષા"],
+   "caution": "The scene shows an unhelmeted-license-less seventeen-year-old running a red light on a two-wheeler, crashing, and being hurt ('જમણા પગે વધારે વાગ્યું છે... પગ ભાંગી ગયો હશે') — an explanation or real_life_example that lingers on the injury detail, or that treats 'ટ્રાફિકની લાલ-લાઈટ પણ તેના ચાલકે ધ્યાનમાં લીધી નથી' as a minor slip rather than the cause, leaves a child readier to try the same shortcut.",
+   "guidance": "Keep the explanation's weight on the two broken rules the police officer's question exposes — signal-jumping and riding under-age without a licence — and let the boy's 'લાચારીથી જોઈ રહે છે' silence carry the consequence; the real_life_example should be a child noticing a signal or a helmet on their own street, never a re-staged crash.",
+   "severity": "hard"
+  },
+  {
+   "topic_id": "M2.S2.T3",
+   "areas": ["સુરક્ષા"],
+   "caution": "Sureshbhai, Jankiben and Sarojben all get on one scooter ('પણ ત્રણ સવારી ?' / 'હા આપણે ક્યાં બહુ દૂર જવું છે ?') and the story lets the reader feel how ordinary that decision seemed right up to the crash — an explanation that repeats the neighbours' casual back-and-forth without naming the overloading as the actual risk normalises exactly what the scene is warning against.",
+   "guidance": "Name 'ત્રણ સવારી' (a third rider) as the unsafe choice in plain terms before describing what followed, and keep the real_life_example to a child noticing how many people safely fit on a two-wheeler near home — never a suggestion that a short trip makes an extra rider acceptable.",
+   "severity": "hard"
+  },
+  {
+   "topic_id": "M2.S2.T4",
+   "areas": ["સુરક્ષા"],
+   "caution": "Prashant answers his phone mid-ride ('બાઈક પર છું યાર') and is still thinking Rahul is being 'બીકણ' for hanging up when the crash happens right beside him — an explanation that stays inside Prashant's own dismissive logic ('બે મિનિટ વાત કરી લેવામાં શું થઈ જવાનું છે') without also naming why the bystander's line 'ચાલુ વાહને ફોન પર વાત કરતાં !' is the point of the scene risks teaching the joke instead of the lesson.",
+   "guidance": "Have the explanation land on Prashant's own 'સોરી સર ! હવેથી હું આવી ભૂલ નહિ કરું !' as the turn, so a child reads phone-while-riding as the mistake being corrected, not as ordinary behaviour that merely embarrassed him once.",
+   "severity": "hard"
+  },
+  {
+   "topic_id": "M2.S3.T6",
+   "areas": ["સુરક્ષા"],
+   "caution": "Hetvi describes taking the wrong side of the road daily to save ten minutes ('હું મહાત્મા સર્કલે અડધો કિલોમીટર રોંગ સાઈડે મોપેડ લઈ લઉં છું રોજ') in a light, matter-of-fact tone before her grandfather corrects her — an explanation that quotes her method without first flagging it as the danger risks reading as a practical tip rather than the habit she promises to give up.",
+   "guidance": "Frame the explanation around the grandfather's dry correction ('દસ મિનિટ બચી જાય છે કે રોજ તું માંડ માંડ બચી જાય છે ?') and Hetvi's own promise ('હવે હેત્વી કદી રોંગ સાઈડે નહિ જાય') as the point of the scene, so the ten-minutes-saved detail never stands alone as a reason a child might find appealing.",
+   "severity": "hard"
+  },
+  {
+   "topic_id": "M3.S4.T7",
+   "areas": ["સુરક્ષા"],
+   "caution": "Gupta-saheb's closing reflection references CCTV footage of accidents and Daskaka's line about newspaper accident reports making one shudder ('ધ્રૂજી જવાય છે') — an explanation that dwells on the frightening imagery rather than the stated remedy risks turning a civic-awareness close into a scare passage.",
+   "guidance": "Keep the explanation anchored to the two constructive lines the chapter itself gives — 'નાનીસરખી કાળજી મોટા જોખમથી બચાવે છે' and the tie between rule-following and 'સાચો દેશપ્રેમ' — rather than elaborating on the accident news or CCTV footage beyond what is printed.",
+   "severity": "soft"
+  }
+ ],
+ "chapter_level": [
+  {
+   "area": "સુરક્ષા",
+   "guidance": "Every one of the five દૃશ્ય stages a specific traffic violation (signal-jumping and unlicensed riding, three-up on a scooter, phone-while-riding, wrong-side riding) that std 8 children in Gujarat could plausibly try themselves; across all topics keep the violation named as the cause and the character's own realisation or correction as the takeaway, and never let a real_life_example or recall prompt describe how to perform the unsafe act, only how to recognise and avoid it."
+  }
+ ],
+ "none_found": false
+}

@@ -1,0 +1,25 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch6",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S1.T2",
+    "M2.S2.T3",
+    "M2.S2.T4",
+    "M2.S2.T5",
+    "M3.S3.T6",
+    "M3.S3.T7",
+    "M3.S4.T8",
+    "M3.S4.T9",
+    "M3.S5.T10",
+    "M3.S5.T11",
+    "M3.S5.T12",
+    "M4.S6.T13"
+  ],
+  "source": "printed pages 17-20 read off the render (scratch/run-s9c6-5/page-1.png - page-4.png, 150 dpi); equals the logical/module order in 02_structure.json/04_converged.json (a single continuous first-person essay: two પરિચય topics, then three London-visit ઘટના, then seven તર્ક/એક સંવાદ argument-moves, ending on the final માગણી — no printed section reordering).",
+  "matches_logical_order": true,
+  "notes": [
+    "13 markers ([[લેખક-પરિચય]], [[કૃતિ-પરિચય]], 3x[[ઘટના: ...]], 7x[[તર્ક: ...]], 1x[[સંવાદ: ...]]) map 1:1, in printed order, to the 13 topics M1.S1.T1 through M4.S6.T13.",
+    "Printed pages 17-20 also carry શબ્દ-સમજૂતી, ત્રણ સ્વાધ્યાય blocks, વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા apparatus — none in this list, since none is reading text.",
+    "No વ્યાકરણ-એકમ, પૂરકવાચન or પુનરાવર્તન-એકમ is printed inside this chapter."
+  ]
+}

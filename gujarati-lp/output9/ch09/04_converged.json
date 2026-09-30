@@ -1,0 +1,337 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch9",
+  "genre": "natak_ekanki",
+  "active_genre_profiles": ["natak_ekanki.md"],
+  "explanation_unit": "એક દૃશ્ય-પ્રસંગ (સંવાદ-ખંડ)",
+  "teaching_lens": "સંવાદ + રંગસૂચના + વળાંક",
+  "guiding_question": "ડૉક્ટર પોતાની જાત વિશે જે બડાશ મારે છે, તે એક પછી એક આવતાં અજાણ્યાં પાત્રો સામે કઈ રીતે આપોઆપ ખુલ્લી પડી જાય છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક-પરિચય અને કૃતિ-પરિચયમાં અપાયેલી માહિતી પરથી જયંતિ દલાલની સાહિત્યિક ઓળખ અને 'પારખું'નો સાહિત્યપ્રકાર (હળવું એકાંકી) તથા એની બે ચોટ કઈ છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1", "M1.S1.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'પાત્રો' યાદી અને 'સ્થળ : દવાખાનું, સમય : સવારના દસ' પરથી એકાંકીનાં પાત્રો, સ્થળ-સમય ઓળખવાં અને દર્દી વિનાના દવાખાનાની સવાર શું સૂચવે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": ["M1.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અનિરુદ્ધ અને ડૉકટર વચ્ચેની શરૂઆતની ટપાટપીમાં ડૉકટર કઈ પંક્તિઓમાં અંગ્રેજી શબ્દો ભેળવીને પોતાનું મહત્ત્વ બતાવવા મથે છે તે શોધવું અને અનિરુદ્ધ એને કઈ રીતે ચીડવે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": ["M2.S3.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અનિરુદ્ધ સસરાના અણધાર્યા આગમનની વાત કરે ત્યારે ડૉકટરના વર્તનમાં આવતો ફેરફાર જોવો, અને સસરાના પોશાકનું વર્ણન યાદ રાખવા માટે ડૉકટર કઈ યુક્તિ કરે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": ["M2.S3.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ડૉકટર પોશાકનું વર્ણન ગોખતાં ગોખતાં ગમનને કોટ, ધોતિયું અને ટોપીના શબ્દો કઈ રીતે અવળા-સવળા બોલી નાખે છે તે શોધવું અને એનાથી ગમનને કેમ મૂંઝવણ થાય છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T6",
+      "anchor": ["M2.S4.T6.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મનમોહનદાસને સસરા સમજી ડૉકટર કઈ બડાશો મારે છે તે તારવવું, અને છેલ્લે મનમોહનદાસ ખરેખર કોણ નીકળે છે એ ખૂલતાં ડૉકટરની બડાશનું પોકળપણું કઈ રીતે ખુલ્લું પડે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S5.T7",
+      "anchor": ["M2.S5.T7.C7", "M2.S5.T7.C8"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "નરરત્ન એક પછી એક પ્રશ્ન પૂછે ત્યારે ડૉકટર પોતાની શોધ, દવાઓ, ઓપરેશન અને લેખો વિશેની અગાઉની બડાશ કઈ રીતે પાછી ખેંચી લે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S6.T8",
+      "anchor": ["M2.S6.T8.C9"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "નરરત્ન સાચા સસરા છે એ ખૂલતાં ડૉકટરે એમને જ તમાચો માર્યો હતો એ વક્રતા પકડવી, અને એકાંકીની અંતિમ પંક્તિ 'હું કોને રોઉં ?' શું વ્યક્ત કરે છે તે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S6.T9",
+      "anchor": ["M2.S6.T9.C10"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "લેખક, કૃતિ અને મંચની ઓળખ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "લેખક અને કૃતિનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "લેખક જયંતિ દલાલનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "જયંતિ દલાલની સાહિત્યિક ઓળખ અને કૃતિઓ"
+                }
+              ],
+              "note": "Marker [[લેખક-પરિચય]]. Prose printed for the student (playwright bio paragraph, per 01_meta.json genre_signals/extraction_notes) — CONCEPT topic per explanation_unit_map.md's rule that student-facing પરિચય prose is a CONCEPT topic; std-9 prints લેખક-પરિચય and કૃતિ-પરિચય as two separate markers (unlike std-10's single unlabelled paragraph), so 'One marker, one topic' gives each its own topic, matching the treatment already used for output9/ch01's T1/T2. Shares objective O1 with T2 (author + work introduced as one preparatory unit, same pattern as ch01's O1). Simple factual biography/title list, no dense register — easy."
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "કૃતિ-પરિચય: પારખુંનું સ્વરૂપ અને બે ચોટ",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "પારખુંનો સાહિત્યપ્રકાર અને બે ચોટની રચના"
+                }
+              ],
+              "note": "Marker [[કૃતિ-પરિચય]]. Work-intro paragraph printed for the student, naming the સાહિત્યપ્રકાર outright ('આ હળવા એકાંકીમાં...') and both printed ચોટ ('ડૉક્ટરને પહેલાં મનમોહનદાસની અને પછી નરરત્નમણિરાવની ઓળખ મળે છે') — directly serves MCQ પ્રશ્ન (1) (સાહિત્યપ્રકાર) and સવિસ્તાર પ્રશ્ન (3) ('પારખું કરવા નીકળ્યો... પારખું થઈ ગયું'). CONCEPT topic, depends_on T1 (poet introduced first). Naming હળવું એકાંકી here is within the std-9 named canon (સાહિત્યપ્રકાર tag), not a hard-gate violation. Shares objective O1 with T1. medium — literary/analytical vocabulary (બડાશ, ગેરસમજ, ગફલત, ચતુરાઈભરી ગોઠવણી, આસ્વાદ્ય, ચોટ) that an L2 std-9 reader has to work through."
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "પાત્રો અને મંચની તૈયારી",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "પાત્રો અને દવાખાનાનું દૃશ્ય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "પાત્રો, સ્થળ અને સમયનો પરિચય"
+                }
+              ],
+              "note": "Marker [[પાત્રો]] (which carries the header AND the whole play in 00_chapter_normalized.md — see the chapter-level note on drama cutting below). THIS topic carries the header ONLY: the પાત્રો cast list (both name-columns: ડૉ પીયૂષ/અનિરુદ્ધ, મનમોહનદાસ/નરરત્નમણિરાવ, ગમન) and the opening bracketed direction '(સ્થળ : દવાખાનું   સમય : સવારના દસ)' — per natak_ekanki.md's hard rule (A4) 'The header is never dropped and never absorbed. Exactly one topic carries the પાત્રો block, the opening direction and any સ્થળ/સમય/date line.' No spoken dialogue belongs here; the first line ('ડૉકટર : હમણાં જ વિઝિટેથી આવ્યો.') opens the next topic. Easy — short, no dense vocabulary — but the objective reaches Analyze because reading a waiting-room-at-ten-with-no-patients as the joke before anyone speaks is itself a skill natak_ekanki.md calls out explicitly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "ડૉકટરની બડાશની બે ચોટમાં ખૂલતી પોકળતા",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "અનિરુદ્ધ સાથેની ટપાટપી અને સસરાના આગમનની જાણ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "અનિરુદ્ધની ટીખળ અને ડૉકટરની અંગ્રેજી-ભેળ બડાશ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": ["M1.S2.T3"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "અનિરુદ્ધની ટીખળમાં ડૉકટરની અંગ્રેજી-ભેળ બડાશ"
+                }
+              ],
+              "note": "First stage-beat: the ડૉકટર–અનિરુદ્ધ banter from the opening line ('હમણાં જ વિઝિટેથી આવ્યો.') through 'નીલુ જેવી છોકરી આખી નાતમાં તને ન મળત ! હા... હા... હા...' and the doctor's reply 'જોજે, કાંઈ હૃદય ઊભરાઈ ન જાય.' No entrance/exit inside this stretch — nothing on stage changes, so per natak_ekanki.md's 'a long expository exchange stays ONE topic' rule this whole exchange is one beat despite its length; it establishes the doctor's boastful, English-code-switched speech (Say., You don't understand., Humbug!, Nonsense!) and અનિરુદ્ધની ટીખળ as the running device that carries the rest of the play. Ends just before અનિરુદ્ધ's 'પણ ડોક્ટર, તમારી પરીક્ષા હવે છે' line, which per the pre-topic-hook rule opens the NEXT topic, not the tail of this one. depends_on the header (needs the સ્થળ/સમય/who's-in-the-room orientation to land). medium — Roman-script English mixed into Gujarati speech and idiom ('હમ્બગ-તમ્બગ', 'દોગામી ના દેતો') that stops an L2 reader."
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "સસરાના અણધાર્યા આગમનની જાણ અને પોશાકનું વર્ણન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M2.S3.T4"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "સસરાના આગમનની જાણ અને પોશાકનું વર્ણન"
+                }
+              ],
+              "note": "Second beat, opened by અનિરુદ્ધ's hook line 'પણ ડોક્ટર, તમારી પરીક્ષા હવે છે, એ ખબર છે ?' through અનિરુદ્ધની exit '(સીટી વગાડતો જાય છે.)' — bounded by the chapter's exit #1. Covers: the news that the doctor's સસરો has arrived unannounced (not yet named to the doctor — dramatic irony the audience does not yet resolve either); the doctor's panic that he has never seen or met him; and અનિરુદ્ધની three-context description of the સસરાનો પોશાક (ઘરમાં / બહાર શાક લેવા જતાં / કોઈને મળવા જતાં — culminating in 'લાંબો કાળો કોટ, ચાર પાટલીનું ધોતિયું અને કાશ્મીરી ટોપી'), which is the exact costume that drives the mistaken-identity beat later — the play's central set-up. This is the chapter's inciting incident, so 'core' rather than 'introduction'. medium — culturally specific dress vocabulary (પાટલીની ધોતલી, શિખા, લિબાસ) an L2 reader needs glossed."
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "સસરાના પોશાકની ગોખણી અને ગમનની મૂંઝવણ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T6",
+              "topic_name": "ડૉકટરની ગોખણી અને ગમનની મૂંઝવણ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "easy",
+              "depends_on": ["M2.S3.T5"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T6.C6",
+                  "concept_name": "કોટ-ધોતિયું-ટોપીની ગોખણીમાં ડૉકટરની મૂંઝવણ"
+                }
+              ],
+              "note": "Third beat: the doctor alone, rehearsing the costume description out loud and ringing the bell for ગમન — per the pre-topic-hook rule, the doctor's short solo rehearsal that triggers ગમનનું entrance (entrance #1, 'ગમન કમ્પાઉન્ડર આવે છે.') opens THIS topic rather than tailing T5 — through ગમનની confused exit '(જતાં જતાં) હાય બેકારી !' (exit #2). The comedy is the doctor jumbling કોટ/ધોતિયું/ટોપી across the three garments while instructing ગમન, who cannot follow the garbled order. depends_on T5 (the description being rehearsed and garbled is the one અનિરુદ્ધ just gave). easy — the confusion IS the joke, mostly repeated familiar nouns, low new-vocabulary load."
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S5",
+          "segment_name": "મનમોહનદાસને સસરા સમજવાની ભૂલ",
+          "topics": [
+            {
+              "topic_id": "M2.S5.T7",
+              "topic_name": "મનમોહનદાસને સસરા સમજી ડૉકટરની બડાશ અને સાચી ઓળખ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": ["M2.S3.T5"],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T7.C7",
+                  "concept_name": "મનમોહનદાસને સસરા સમજી ડૉકટરની બડાશ"
+                },
+                {
+                  "concept_id": "M2.S5.T7.C8",
+                  "concept_name": "મનમોહનદાસની ખરી ઓળખ ખૂલવી"
+                }
+              ],
+              "note": "Fourth beat — the chapter's FIRST ચોટ (per કૃતિ-પરિચય's own 'ડૉક્ટરને પહેલાં મનમોહનદાસની... ઓળખ મળે છે'). Opens at 'મનમોહનદાસ દાખલ થાય છે' (entrance #2 chapter-wide, dressed exactly as અનિરુદ્ધ described) and covers the doctor mistaking him for the સસરો and performing an elaborate boast (invented 'પીયૂષ-ડ્રોપ્સ', inflated case/operation numbers, ordering ગમનને around for show — ગમનનું embedded entrance/exit, entrance #3 'બહારથી આવી' and exit #3 'ગમન જાય છે.', sits inside this SAME beat because nothing about what મનમોહનદાસ knows or wants changes while ગમન is briefly on stage, per 'a long expository exchange stays ONE topic'), through મનમોહનદાસ revealing he is actually the income-tax surcharge collector and leaving (exit #4, 'જાય છે.'). Two concepts because the beat genuinely does two separable things — the mistaken-identity boasting (C7) and the reveal of who મનમોહનદાસ really is (C8) — matching the profile's 'give a topic two only when it genuinely does two separable things.' depends_on T5 (the costume description that causes the mistake). hard — dense Gujarati-English code-switching carrying the play's argument (dental surgery, allopathy, revolution, naturalteeth, fertilizer manure, surcharge collector) is exactly the std 9-10 hard criterion 'a સંવાદ carrying the argument's turn', not exam length."
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S6",
+          "segment_name": "નરરત્નમણિરાવ સાથેનો સામનો અને ખરી ઓળખ",
+          "topics": [
+            {
+              "topic_id": "M2.S6.T8",
+              "topic_name": "નરરત્ન સામે ડૉકટરની બડાશ એક પછી એક તૂટે છે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": ["M2.S5.T7"],
+              "objective_ids": ["O7"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S6.T8.C9",
+                  "concept_name": "નરરત્નના પ્રશ્નોથી ડૉકટરની બડાશ તૂટવી"
+                }
+              ],
+              "note": "Fifth beat. The doctor's furious aside blaming અનિરુદ્ધ ('બધાં એ અનિરુદ્ધનાં જ કામ... યાદ રાખ, remember remember.') is kept as the CLOSING line of T7 — it reacts to what just happened (મનમોહનદાસનું exit) and does not introduce નરરત્નમણિરાવ at all. THIS topic opens at 'નરરત્નમણિરાવ દાખલ થાય છે' (entrance #4, the chapter's last), which is printed in the SAME script line as that aside ('...remember remember. (આંટા મારે છે. નરરત્નમણિરાવ દાખલ થાય છે.)') — flagged for Agent 5 to split the parenthetical at the boundary: the spoken words stay inside T7's original_chunk, the entrance direction opens T8's. Covers નરરત્નનું rapid-fire questioning that unravels the doctor's own earlier boasts (શોધ, દવાઓ, ઓપરેશન, લેખો-ભાષણો, પીયૂષ-પેઇસ્ટ) one by one, ending at 'જાઓ, હવે તમે સિધાવો !' — just before નરરત્ન refuses to leave and the tone turns to open accusation, which opens the next beat. depends_on T7 (the specific boasts being unravelled were made there). medium — moderately dense register (બુઝુર્ગ, ભાડૂતી, લેન્સેટ, નક્કર વસ્તુસ્થિતિ) in short call-and-response lines."
+            },
+            {
+              "topic_id": "M2.S6.T9",
+              "topic_name": "તમાચો, નરરત્નની ખરી ઓળખ અને એકાંકીનો અંત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": ["M2.S6.T8"],
+              "objective_ids": ["O8"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S6.T9.C10",
+                  "concept_name": "તમાચો, નરરત્નની ખરી ઓળખ અને અંતિમ પંક્તિ"
+                }
+              ],
+              "note": "Sixth beat, and the chapter's SECOND ચોટ. Opens where નરરત્નનો tone shifts to open accusation ('એમ સિધાવે ક્યાં ? આવી છેતરપિંડી ? હરામખોર !'); the doctor slaps him ('ઊભો થઈ તમાચો મારે છે.') without knowing who he is; and નરરત્ન reveals himself as the real સસરો who disguised himself in exactly the costume the doctor had been told to expect ('તે મને એમ કે કમાઉ ભણેલા જમાઈ પાસે જરા વટમાં જાઉં, એટલે કોટ-પાટલૂન માગી આણ્યાં'). Ends on the doctor's closing line 'હું કોને રોઉં ?' — natak_ekanki.md's own priors flag closing lines that return an earlier phrase with changed weight, and here the chapter's own title pays off in નરરત્નનું 'પારખું કરવા નીકળ્યો. પારખું થઈ ગયું.' The bibliographic attribution line after this ('જયંતિ દલાલનાં પ્રતિનિધિ એકાંકીઓ'માંથી) is anthology-source metadata, not play text, and belongs in no topic's original_chunk. depends_on T8 (continuous confrontation, same two people, same room). hard — the argument's turn/second ચોટ plus idiom-dense lines ('પેટનાં જ આંડાં ફંટાય', 'છતી આંખે છોકરીને કૂવામાં નાખી') that carry the play's payoff."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Marker/topic accounting: 00_chapter_normalized.md carries only ONE marker, [[પાત્રો]], across the header AND the entire continuous dialogue (no [[ઘટના: …]], [[સંવાદ: …]] or [[દૃશ્ય …]] sub-markers) — consistent with 01_meta.json's structure_inventory.single_continuous_scene=true and pravesh_ank_headers=0. This differs from the poem-genre markers ([[કડી 1]], [[છપ્પો 2]], …) that carry a strict one-marker-one-topic rule; for નાટક/એકાંકી, 02_structure.md's own genre table and natak_ekanki.md's 'Explanation unit' section both direct Agent 2 to cut the single continuous scene into stage-beats using entrance/exit/knowledge-change/desire-change signals rather than relying on a per-beat marker, since GSEB plays print no scene numbering. Recorded here per the instruction to flag any page/table disagreement for Agent 4, so the single-marker-carrying-9-topics shape is not mistaken for a swallowed or invented marker.",
+    "Topic count against the no-inflation gate (A4): 9 topics total — 2 pre-reading CONCEPT (લેખક-પરિચય, કૃતિ-પરિચય) + 7 topics inside the played scene (header + 6 stage-beats). Inside the scene, 7 topics ≤ structure_inventory's entrance_count(4) + exit_count(4) + 1-for-header = 9, so the chapter is well inside the natak_ekanki.md (A4) topic-inflation ceiling even before counting the additional direction-marked turns (the slap at T9, the tone-shift at T8) the rule also allows for.",
+    "Two long exchanges (T4 doctor–અનિરુદ્ધ banter, and T7 મનમોહનદાસ mistaken-identity beat) were each kept as ONE topic despite their length, per natak_ekanki.md's explicit rule 'A long expository exchange stays ONE topic... Do not cut it into five topics because five facts arrived.' Their internal turns are represented in concepts[] (T7 alone carries two, for its two separable moves) rather than as separate topics.",
+    "Header compliance (A4): exactly one topic (M1.S2.T3) carries the પાત્રો cast list and the '(સ્થળ : દવાખાનું  સમય : સવારના દસ)' opening direction; no dialogue line sits inside it and no other topic's original_chunk will contain the header.",
+    "One boundary is flagged for Agent 5 because a single printed script line straddles two topics: 'ડૉકટર : ... યાદ રાખ, remember remember. (આંટા મારે છે. નરરત્નમણિરાવ દાખલ થાય છે.)' — the spoken words close T7 (M2.S5.T7), the parenthesised entrance direction opens T8 (M2.S6.T8). This is the only such split in the chapter; every other topic boundary falls cleanly between printed lines.",
+    "Craft-naming: O1/T2's objective names 'હળવું એકાંકી' (સાહિત્યપ્રકાર) directly from the chapter's own printed કૃતિ-પરિચય. This is within the std-9 named canon (profiles/students/std-9.md, teaching_lens_map.md's craft-naming gate: સાહિત્યપ્રકાર tagging is fair game from std 9), not a hard-gate violation. No અલંકાર, છંદ, સંધિ or સમાસ is asserted anywhere in this file — none is printed on this prose/drama page, and 01_meta.json records none.",
+    "Difficulty is set purely by L2 reader friction on THIS chapter's page (teaching_lens_map.md / 02_structure.md §5), never by craft-naming or exam length: 'hard' is reserved for T7 and T9, the two beats natak_ekanki.md's own std-9-10 criterion names directly — 'a સંવાદ carrying the argument's turn' (the two printed ચોટ). Every topic's objective still reaches Analyze or Evaluate regardless of its difficulty tag, per the same section's 'not a Bloom cap' rule.",
+    "depends_on records real content dependence only, following output9/ch01's precedent: sequential where a later beat presumes a specific fact or object set up earlier (T5→T4 same conversation; T6→T5 rehearses T5's description; T7→T5 the costume that causes the mistake; T8→T7 unravels T7's specific boasts; T9→T8 same continuous confrontation), and left [] where a topic is a genuine starting point (T1, T3) or the dependence is only 'comes next on the page' rather than a real callback.",
+    "Not cut as topics, per global_content_rules.md rule 7 and natak_ekanki.md's own apparatus/exercise classification (already established in 01_meta.json's exercise_inventory and extraction_notes): [[શબ્દ-સમજૂતી]] (સમાનાર્થી/વિરુદ્ધાર્થી/રૂઢિપ્રયોગ/કહેવત), all three printed [[સ્વાધ્યાય: …]] blocks (MCQ, બે-ત્રણ વાક્યમાં, સવિસ્તાર), [[વિદ્યાર્થી-પ્રવૃત્તિ]], [[ભાષા-અભિવ્યક્તિ]] and [[શિક્ષકની ભૂમિકા]] (the last explicitly teacher-addressed, per natak_ekanki.md's std-9 ch-9 note). These stay for Agent 10's exercise_solutions.json and for Agent 6/12's gloss and language-apparatus sourcing.",
+    "Sensitivity flag carried forward for Agent 8/12, per natak_ekanki.md's own std-9 ch-9 note: the comedy runs on a man's unemployment and boasting (T4, T6, T7 especially) — teach the irony of the pretence being punctured, never contempt for the character; and நரரત્ન's line 'છતી આંખે છોકરીને કૂવામાં નાખી' (T9) is a father's self-directed regret over his own daughter's match, not a judgment to editorialise on.",
+    "No genre-table disagreement to report beyond the marker-cutting note above: 01_meta.json's active_genre_profiles (['natak_ekanki.md']) matches the profile supplied for this run, and the chapter's own single_continuous_scene structure (no પ્રવેશ/દૃશ્ય headers) is exactly the 'three of the four measured GSEB plays carry no scene numbering' case natak_ekanki.md already documents for this specific chapter.",
+    "original_chunk left empty on every topic per spec: 'original_chunk stays empty; Agent 5 fills it.' No verbatim transcription performed here beyond what was needed to read beat boundaries in 00_chapter_normalized.md and to write the topic notes above."
+  ]
+}

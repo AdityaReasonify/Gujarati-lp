@@ -1,0 +1,29 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T2",
+      "areas": ["ક્ષેત્ર"],
+      "caution": "The explanation turns Gir villages closing shops and holding a shared last-rites-like mourning for the dead lion into a curiosity ('even here they mourn an animal!') or exaggerates it into a supernatural/religious claim.",
+      "guidance": "Present the village bandh and shared grief exactly as 'અહીં મનુષ્ય અને પ્રાણીની આત્મીયતાનું આલેખન અનેક રીતે વિશિષ્ટ છે' frames it — a real, dignified expression of the Gir region's bond with its wildlife, on its own logic; the real_life_example can anchor in a child's own experience of a community grieving together, not in mockery of the custom.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S5.T11",
+      "areas": ["જાતિ-ભૂમિકા"],
+      "caution": "The explanation elaborates on 'વિવિધ વરણની વસ્તી' (population of different castes) in a way that names or ranks specific castes, or turns the line into a lesson about caste hierarchy that the text does not carry.",
+      "guidance": "Keep the point exactly as the text makes it — that people across castes and several villages (સાસણ, હરિપુરા, હીરણવેલ, ચિત્રાવણ, ચિત્રોડ, બોરવાવ, ભોજદે) came together in one shared grief for the lion — as an instance of unity, not a discussion of caste categories; do not add or explain a caste system the chunk does not describe.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "સમુદાય",
+      "guidance": "Ahmed's and the other drivers' Gir/Saurashtra તળપદી બોલી (સ્હાવજ, રાત્ય, આંય, સે, નથ્ય, ગ્યો, હાલ્યો, દોયડે, ઓલીકોર, ભાળે) running through M2.S2.T4 to M2.S4.T8 is the community's own authentic voice, kept verbatim in original_chunk per the chapter's own choice to print two registers — teaching prose and key_terms should gloss these words plainly as regional Gujarati, never frame them as 'wrong' or 'broken' Gujarati, and any real_life_example must not turn the dialect into a joke or mimicry."
+    },
+    {
+      "area": "ક્ષેત્ર",
+      "guidance": "The Gir region's practice of closing a village's shops and holding a collective mourning/funeral-like observance for a dead lion (spanning M1.S1.T2, M2.S5.T10, M2.S5.T11) should be taught as the region's own logic of human-animal આત્મીયતા that the chapter itself calls 'વિશિષ્ટ' — never as an oddity, and never softened into 'they just felt sad', which would lose what makes the chapter's point land."
+    }
+  ],
+  "none_found": false
+}

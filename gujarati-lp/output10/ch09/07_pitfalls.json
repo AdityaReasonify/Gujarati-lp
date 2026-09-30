@@ -1,0 +1,124 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "No sentence of M1.S1.T1's `explanation`, `real_life_example`, or `recall_questions[].answer` may end on an exhortation of the shape 'આપણે … જોઈએ' (e.g. 'આપણે નિઃસ્વાર્થ ભાવ કેળવવો જોઈએ', 'આપણે મૈત્રી કરવી જોઈએ') — this topic's own `original_chunk` reports the poet's wish ('હૃદયૈક્ય કેળવવાનો કવિનો મનોરથ પ્રગટ થયો છે'), never instructs the reader, and the explanation must keep that same reporting stance.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No fact about નિરંજન ભગત in M1.S1.T1's `explanation` may go beyond what this topic's own `original_chunk` prints (જન્મ-અવસાનની તારીખ, અમદાવાદ, ત્રણ કાવ્યસંગ્રહો, રણજિતરામ સુવર્ણચંદ્રક) — a plausible but unprinted addition (દા.ત. 'તેઓ ગુજરાત યુનિવર્સિટીમાં અધ્યાપક હતા', an actual fact about Niranjan Bhagat this chapter does not print) fails.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક કૃતિ-પરિચયના વાક્ય 'ભાવસંવેદનનું મહત્ત્વ સ્થાપ્યું છે' અને 'હૃદયૈક્ય કેળવવાનો કવિનો મનોરથ' ને જ કાવ્યનો પૂરો ભાવાર્થ ગણી લે છે, અને પછીના ટોપિકમાં કાવ્યની પોતાની પંક્તિઓ ('લાવો તમારો હાથ મેળવીએ', 'ખાલી હાથમાંયે કેટલું છે') તરફ પાછું જોતો જ નથી — જાણે પરિચય-ફકરો જ કાવ્યનું છેલ્લું સત્ય હોય.",
+      "correction": "M1.S1.T1નું `explanation` કૃતિ-પરિચયના શબ્દને કાવ્યની પોતાની પંક્તિ સાથે સીધું જોડે — દા.ત. 'હાથ હૃદયભાવનું પ્રતીક બનીને વર્ણવાયો છે' કહ્યા પછી તરત કાવ્યની 'લાવો તમારો હાથ મેળવીએ' પંક્તિ તરફ નિર્દેશ કરે, જેથી બાળક પરિચય-ફકરાને કાવ્યથી અલગ ન સમજે અને હવે પછીના ટોપિકમાં કાવ્યની પોતાની પંક્તિઓ તરફ પાછો વળે."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of M1.S2.T2's `explanation` must name a concrete word occurring in this topic's own `original_chunk` — `હાથ`, `ધન`, `સત્તા`, or `કીર્તિ` — not open on the ભાવ ('મૈત્રીની ઝંખના', 'લાગણીની વાત').",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of M1.S2.T2's `explanation`, `real_life_example`, or `recall_questions[].answer` may end on an unlicensed 'આપણે … જોઈએ' exhortation (e.g. 'આપણે ધનને મહત્ત્વ ન આપવું જોઈએ') — this topic's own words only raise the question 'શું શું નથી હોતું તમારા હાથમાં ?', they do not yet answer or moralise it.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "M1.S2.T2's `explanation` or `real_life_example` may not name a real government, political party, election, or a specific real leader while illustrating `સત્તા` — this topic's own `original_chunk` names none, and `સત્તા` must stay a general word for authority/power (a captain's, a boss's), never a political one.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "M1.S2.T2 must carry either a non-empty `figures_of_speech[]` or an `explanation` sentence naming this topic's own પુનરાવર્તન — the three-fold parallel listing 'ધન હશે, સત્તા હશે, કીર્તિ હશે' — a topic with neither is half-taught.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "કાવ્યની પંક્તિ 'ધન હશે, સત્તા હશે, કીર્તિ હશે...' માં 'હશે' એ સંભાવના બતાવતું રૂપ છે (કદાચ હશે, ચોક્કસ નથી) — L2 વાચક આ મોદલ 'હશે' ને ચૂકી જઈને એને સીધો દાવો સમજી લે છે, જાણે કવિ કહી રહ્યા હોય કે 'તમારી પાસે ધન-સત્તા-કીર્તિ ચોક્કસ છે જ', અને આખી પંક્તિ કવિનો એક ખુલ્લો, અનુમાનિક પ્રશ્ન છે એ ચૂકી જાય છે.",
+      "correction": "M1.S2.T2ના `explanation`માં 'હશે'ને 'કદાચ હશે, ખબર નથી' તરીકે સ્પષ્ટ ગ્લોસ કરવું અને આખા વાક્યને કવિનો પ્રશ્ન તરીકે જ રજૂ કરવું ('કવિ પૂછે છે કે તમારા હાથમાં કદાચ આ બધું હશે ને ?'), દાવો તરીકે નહીં — જેથી પછીના ટોપિકમાં કવિનો અસ્વીકાર ('મારે કશાનું કામ ના') સવાલના જવાબ તરીકે સ્પષ્ટ સમજાય."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of M1.S2.T3's `explanation` must name a concrete word from this topic's own `original_chunk` — `હાથ` or `ખાલી` — not open on the abstraction 'ત્યાગ' or 'નિઃસ્વાર્થતાનો મહિમા'.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of M1.S2.T3's `explanation`, `real_life_example`, or `recall_questions[].answer` may add an unlicensed 'આપણે … જોઈએ' exhortation (e.g. 'આપણે ધનનો મોહ છોડવો જોઈએ') beyond this topic's own words 'મારે કશાનું કામ ના, ખાલી તમારો હાથ...' and 'ના, ના, આપણા આ બેય ખાલી હાથમાંયે કેટલું છે !'.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "M1.S2.T3 must carry either a non-empty `figures_of_speech[]` or an `explanation` sentence naming this topic's own પુનરાવર્તન — 'ખાલી તમારો હાથ' stated and then echoed back as the question 'ખાલી તમારો હાથ ?' — the call-and-answer turn that carries the poem's સંવાદ-શૈલી.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'ના, ના, આપણા આ બેય ખાલી હાથમાંયે કેટલું છે !' વાંચીને સીધો સામાન્ય જવાબ ('મૈત્રી છે', 'પ્રેમ છે') આપી દે છે, અને હાથમાં ખરેખર શું ભરેલું છે (ઉષ્મા, થડકો, હૃદયનો ભાવ) એ હવે પછીના ટોપિકમાં કાવ્ય પોતે જ કહેવાનું છે એ ચૂકી જાય છે — કાવ્યનો સવાલ-જવાબનો ક્રમિક વળાંક જ ભૂંસાઈ જાય છે.",
+      "correction": "M1.S2.T3નું `explanation` ફક્ત એટલું જ કહે કે ખાલી દેખાતો હાથ ખરેખર ખાલી નથી — 'કેટલું છે' શેમાં છે એ નામ ન આપે, પ્રશ્નને ખુલ્લો રહેવા દે; જેથી M1.S2.T4માં 'ઉષ્મા અને થડકો' વાંચતાં જ કાવ્યનો પોતાનો જવાબ બાળકને નવો અને તાજો લાગે."
+    },
+    {
+      "topic_id": "M1.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "No word naming a scientific or medical mechanism (તાપમાન, રક્તાભિસરણ, નાડીના ધબકારાનો દર, BPM) may appear in M1.S2.T4's `explanation` or `real_life_example` — `ઉષ્મા` and `થડકો` here are the poem's own images of felt warmth and living connection, not a biology lesson.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "M1.S2.T4's `explanation` may not state `ઉષ્મા` and `થડકો` as mere physical facts without naming what they stand for (હૂંફ, જીવંત જોડાણ/ધબકતું જોડાણ) — stopping at the literal reading of these two words is a fail.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "The first sentence of M1.S2.T4's `explanation` must name a concrete word from this topic's own `original_chunk` — `ઉષ્મા`, `થડકો`, or `હાથ` — not open on the ભાવ ('હૃદયનું જોડાણ').",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "M1.S2.T4 must carry either a non-empty `figures_of_speech[]` or an `explanation` sentence naming this topic's own પ્રાસ/પુનરાવર્તન — the paired opposites 'સારું નઠારું' or the parallel 'ઉષ્મા અને થડકો'.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "કાવ્યપંક્તિ 'બિનઆવડત સારું નઠારું કેટલુંયે કામ કરતા આપણા આ હાથ કેળવીએ' ની ઊલટાવેલી રચના (વિશેષણ-શબ્દસમૂહ પહેલાં, જેને લગાડવાનું નામ 'હાથ' છેક પછી) બાળક સીધા ક્રમમાં ગોઠવી શકતો નથી, અને 'બિનઆવડત'/'નઠારું' શબ્દોને હાથની કોઈ ખામી કે વાંક તરીકે વાંચી લે છે — જાણે કવિ હાથ કંઈક ખરાબ કરે છે એની કબૂલાત કે માફી માગતા હોય.",
+      "correction": "M1.S2.T4નું `explanation` પહેલાં આ પંક્તિને સાદા ક્રમમાં ફરી ગોઠવીને કહે — 'આપણા હાથને આવડે કે ન આવડે, સારું કામ હોય કે નઠારું, જે કંઈ કામ કરવાનું આવે એ કરતાં કરતાં આપણે આ હાથને કેળવવા છે' — જેથી સ્પષ્ટ થાય કે આ કોઈ ખામીની કબૂલાત નથી, પણ કામ કરતાં કરતાં સાથે મળીને શીખવાની પ્રામાણિક વાત છે."
+    },
+    {
+      "topic_id": "M1.S2.T5",
+      "avoid_checks": [
+        {
+          "check": "No sentence of M1.S2.T5's `explanation`, `real_life_example`, or `recall_questions[].answer` may add an unlicensed 'આપણે … જોઈએ' exhortation (e.g. 'આપણે અજાણ્યાઓ સાથે પણ મૈત્રી કરવી જોઈએ') — this topic's own words 'અજાણ્યા છો ? ભલે !' and 'લાવો તમારો હાથ, મેળવીએ !' may be quoted, never expanded into an instruction.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "The first sentence of M1.S2.T5's `explanation` must name a concrete word from this topic's own `original_chunk` — `અજાણ્યા` or `હાથ` — not open on the ભાવ ('મૈત્રીની વ્યાપકતા').",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "M1.S2.T5 must carry either a non-empty `figures_of_speech[]` or an `explanation` sentence naming this topic's own પુનરાવર્તન — the near-verbatim return of the opening line ('લાવો તમારો હાથ મેળવીએ' → 'લાવો તમારો હાથ, મેળવીએ !') that closes the poem in a circle.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "કાવ્યના અંતે છપાયેલી ('છંદોલયમાંથી') પંક્તિને બાળક કવિની છાપ (દા.ત. ભક્તિ-પદમાં આવતું 'ભણે નરસૈંયો' જેવું કવિ-સહી) સમજી લે છે, જ્યારે આ ઊર્મિકાવ્યમાં કોઈ છાપ છપાયેલ જ નથી — 'છંદોલય' એ તો કવિતા જે કાવ્યસંગ્રહમાંથી લેવાઈ છે એ પુસ્તકનું નામ છે, કવિની સહી નથી.",
+      "correction": "M1.S2.T5ના `explanation`માં અથવા `key_terms`માં સ્પષ્ટ કરવું કે ('છંદોલયમાંથી') એ સ્રોત-નિર્દેશ છે — આ કવિતા 'છંદોલય' નામના કાવ્યસંગ્રહમાંથી લેવાઈ છે એટલું જ કહે છે; આ કાવ્યમાં કોઈ છાપ (કવિ-સહી) નથી, એ ભક્તિ-પદનું લક્ષણ છે, આ ઊર્મિકાવ્યનું નહીં."
+    }
+  ],
+  "chapter_level": [
+    "કાવ્યમાં કડી-વિભાજન, ટેક કે છાપ છપાયેલ નથી (`structure_inventory`: tek_occurrences 0), છતાં પ્રથમ પંક્તિ 'લાવો તમારો હાથ મેળવીએ' (M1.S2.T2) અને છેલ્લી પંક્તિ 'લાવો તમારો હાથ, મેળવીએ !' (M1.S2.T5) લગભગ સરખા શબ્દોમાં પાછી આવે છે — બાળક આને ગીતનો 'ટેક' સમજી બેસે એવો ભય છે. આ ટેક નથી (કડી-કડી પછી પુનરાવર્તિત નથી થતું, ફક્ત શરૂમાં અને અંતે એક-એક વાર આવે છે), પણ કાવ્યની વર્તુળાકાર સમાપ્તિ (circular close) છે — M1.S2.T2 અને M1.S2.T5 બંનેના `explanation`માં આ ફરક સ્પષ્ટ કરવો, 'ટેક' શબ્દ આ કાવ્ય માટે વાપરવો નહીં.",
+    "આખા કાવ્યનો ભાવ (ધન-સત્તા-કીર્તિનો અસ્વીકાર, ફક્ત મૈત્રીપૂર્ણ હાથની ઝંખના) દરેક ટોપિકના `explanation`/`real_life_example`ને 'આપણે ધન-સત્તા પાછળ ન દોડવું જોઈએ' કે 'આપણે મૈત્રી કેળવવી જોઈએ' જેવા ઉપદેશ તરફ ખેંચે એવો ખાસ ભય છે — urmikavya_geetના 'Slogans' hard gate પાંચેય ટોપિકમાં કામ કરશે, ખાસ કરીને M1.S2.T3 અને M1.S2.T4માં જ્યાં કાવ્યનો કેન્દ્રીય પલટો છે.",
+    "M1.S1.T1નો કવિ-પરિચય ફકરો તત્સમ-ભારે શબ્દો (કાવ્યસંગ્રહ, વિવેચન ગ્રંથ, રણજિતરામ સુવર્ણચંદ્રક, સાહિત્ય અકાદમી) અને પાંચ-છ પુસ્તક-નામોથી ('છંદોલય', 'કિન્નરી', 'અલ્પવિરામ', 'પ્રવાલદ્વીપ', '33કાવ્યો') ભરેલો છે — std-10 L2 વાચક આ આખી યાદીને યાદ રાખવાની વસ્તુ સમજી બેસે એવો ભય છે. ચેપ્ટર માટે ખરેખર જરૂરી એટલું જ છે કે 'હાથ મેળવીએ' કવિતા 'છંદોલય' સંગ્રહમાંથી લેવાયેલી છે (M1.S2.T5ના અંતે છપાયેલ સ્રોત-નિર્દેશ સાથે જોડવું) — બાકીનાં નામો પરિચય પૂરતાં જ છે, યાદ રાખવાની સૂચિ નથી."
+  ]
+}

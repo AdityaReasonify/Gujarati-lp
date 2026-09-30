@@ -1,0 +1,50 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "prarthana_kavita.md's explanation unit is 'one કડી of the petition, with the ધ્રુવપંક્તિ quoted inside it' — matches 01_meta.json's explanation_unit verbatim. 00_chapter_normalized.md carries exactly 4 [[કડી n]] markers (grep-verified: lines 24/31/38/45) and 02_structure.json cuts exactly 4 topics carrying a કડી (M1.S2.T2, M1.S2.T3, M1.S3.T4, M1.S3.T5) — count([[કડી]])==4 == count(topics carrying કડી)==4.",
+        "duha count in structure_inventory is 0 (no [[દુહો]] marker in this chapter) and pad count is 0 (no [[પદ]] marker) — 'no two દુહા share a topic' and 'no પદ is split' are both vacuously satisfied.",
+        "ટેક handling (prarthana_kavita.md's structural gate, checked here): all 5 printed [[ટેક]] occurrences (grep-verified lines 20/28/35/42/49) carry identical wording, confirmed explicitly by 01_meta.json's extraction_notes ('the wording is identical at all five') and restated in 02_structure.json's own notes. Per the profile's rule ('teach it once, reference it after'), exactly one topic teaches it — M1.S2.T2, the topic holding its first occurrence — and every later કડી topic naming it (M1.S2.T3, M1.S3.T4, M1.S3.T5) carries 'M1.S2.T2' in depends_on rather than re-teaching the line. Satisfied.",
+        "No mixed-genre chapter: 01_meta.json's extraction_notes confirm this chapter is single-genre (prarthana_kavita.md) throughout, nothing appended after શિક્ષકની ભૂમિકા except the printed end-marker dot.",
+        "Avoid-list scan (prarthana_kavita.md) against objective_text/topic_name/module_name/segment_name/concept_name: no exhortation of the shape 'આપણે … જોઈએ' / '…કરવું જોઈએ' in any of the 5 objective_text entries — each states what the poet asks for and why (O1 recognition of subject/ધ્રુવપંક્તિ; O2-O5 quote the actual asking-verb lines: ભોજન બનજો/થાજો, પુષ્પ બની પથરાજો, ધાજો/રટાજો, હાલકડોલક થાજો/ઓલવાજો). No theology or comparative-religion assertion anywhere. No biographical fact beyond what 00_chapter_normalized.md's કવિ-પરિચય/કૃતિ-પરિચય prints (O1 references only the printed intro). No numeral appears inside any display field — concept_name uses ordinal words (પહેલી, બીજી, ત્રીજી, ચોથી કડી) per global_content_rules.md #4, never 'કડી 2'. No અલંકાર/છંદ/પ્રાસ label is asserted anywhere in this file — figures_of_speech is correctly left for Agent 5/7 to instantiate from the actual page, not pre-empted here."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 5,
+      "topics": 5,
+      "notes": [
+        "Scene 1: the unlabeled [[કવિ-પરિચય]] + [[કૃતિ-પરિચય]] paragraph pair (printed for the student, per std-10 convention) -> M1.S1.T1 (CONCEPT, pre-reading opener, topic_category introduction).",
+        "Scene 2: opening [[ટેક]] + [[કડી 1]] + repeat [[ટેક]] -> M1.S2.T2 (POEM, core) — the topic where the ટેક is first taught.",
+        "Scene 3: [[કડી 2]] + repeat [[ટેક]] -> M1.S2.T3 (POEM, core).",
+        "Scene 4: [[કડી 3]] + repeat [[ટેક]] -> M1.S3.T4 (POEM, core).",
+        "Scene 5: [[કડી 4]] + final (5th) repeat [[ટેક]] + [[સ્રોત-નિર્દેશ]] -> M1.S3.T5 (POEM, climax). All five topics appear in printed/traversal order.",
+        "No સ્વાધ્યાય block became a topic: cross-checked all 5 exercise_inventory entries in 01_meta.json (MCQ; એક-એક વાક્યમાં ઉત્તર; બે-ત્રણ વાક્યમાં ઉત્તર; સવિસ્તર ઉત્તર; વિદ્યાર્થી-પ્રવૃત્તિ) against all 5 topic_name values and the original_chunk assignment plan recorded in 02_structure.json's notes — none of the exercise group names, verbatim headings, or item text appear as a topic or a planned chunk.",
+        "Apparatus correctly excluded from the cut: [[શબ્દ-સમજૂતી]] and its three sub-boxes ([[સમાનાર્થી શબ્દો/શબ્દાર્થ]], [[તળપદા શબ્દો]], [[શબ્દસમૂહ માટે એક શબ્દ]]), [[સ્વાધ્યાય-બૅનર]] with its four-tier ladder plus વિદ્યાર્થી-પ્રવૃત્તિ, [[ભાષા-અભિવ્યક્તિ]], and [[શિક્ષકની ભૂમિકા]] are all reserved for Agent 10 / key_terms / ભાષા-બોધ per global_content_rules.md #7 and explanation_unit_map.md's apparatus rule — none cut as a topic here ([[ભાષા-અભિવ્યક્તિ]] used only as difficulty evidence in 02_structure.json's notes, never as a topic).",
+        "No topic covers text that no marker claims: grep-verified 12 markers total in 00_chapter_normalized.md before the apparatus begins (2 પરિચય + 5 ટેક + 4 કડી + 1 સ્રોત-નિર્દેશ), and 02_structure.json's own accounting note assigns each of the 12 to exactly one topic with no drop and no double-count (M1.S1.T1:2, M1.S2.T2:3, M1.S2.T3:2, M1.S3.T4:2, M1.S3.T5:3 -> 2+3+2+2+3=12)."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 5,
+      "notes": [
+        "Root objectives[] has 5 entries, objective_id O1-O5 unique across the plan.",
+        "Every home_topic_id and every anchor[] id resolves to a node in the modules tree: O1->M1.S1.T1/[M1.S1.T1.C1], O2->M1.S2.T2/[M1.S2.T2.C2], O3->M1.S2.T3/[M1.S2.T3.C3], O4->M1.S3.T4/[M1.S3.T4.C4], O5->M1.S3.T5/[M1.S3.T5.C5] — all present in the tree.",
+        "strand_to_objective_map {L1:O1, L2:O2, L3:O3, L4:O4, L5:O5} covers every legacy_id exactly once; all five objectives use the single strand L / ભાષા અને સાહિત્ય per the Gujarati-literature convention.",
+        "Every topic carries objective_ids resolving to the registry, one objective per topic (5 topics, 5 objectives, 1:1): M1.S1.T1->[O1], M1.S2.T2->[O2], M1.S2.T3->[O3], M1.S3.T4->[O4], M1.S3.T5->[O5].",
+        "Each objective is text-grounded and chapter-specific: O1 names the poet and poem title from the printed કૃતિ-પરિચય; O2-O5 each quote the exact કડી line(s) they teach ('ભૂખ્યાં કાજે ભોજન બનજો, તરસ્યાંનું જળ થાજો', 'સતની કાંટાળી કેડી પર પુષ્પ બની પથરાજો', 'વણથાક્યાં ચરણો મારાં નિત તારી સમીપે ધાજો' / 'હૈયાનાં પ્રત્યેક સ્પન્દને તારું નામ રટાજો', 'વમળોની વચ્ચે નૈયા મુજ હાલકડોલક થાજો' / 'શ્રદ્ધા કેરો દીપક મારો નવ કદીયે ઓલવાજો'). None could be pasted into another chapter unchanged, and each serves the teaching_lens યાચના + સંબોધન + આત્મબળ — naming what is asked (O2-O5) and why the poem's subject/refrain matters (O1).",
+        "Id grammar matches reference/naming_conventions.md: M1 -> M1.S1/M1.S2/M1.S3 (continuous 1-3) -> T1..T5 (chapter-continuous 1-5, never restarting per segment) -> C1..C5 (chapter-continuous, concept number equals topic number since each topic carries one concept: M1.S2.T3 carries M1.S2.T3.C3, M1.S3.T5 carries M1.S3.T5.C5). No M1.S1.T1.P1-style objective code appears anywhere; objectives use the O{n} root-registry form throughout."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Five topics for a 3-printed-page, one-poem (4 કડી) chapter matches prarthana_kavita.md's કડી-wise unit exactly — not an under- or over-cut. Splitting a single કડી into two topics or merging two કડી into one would both violate the profile's 'one કડી of the petition' rule; the single module M1 matches this reader's precedent (output10/ch01's single-module cut for the same std-10 reader).",
+    "original_chunk is empty in all five topics in 02_structure.json by this stage's design (Agent 5 fills it from the rendered pages); this validation pass checked structure, cut boundaries, marker/scene coverage, and the objective/id contract only, per this agent's scope, and did not require original_chunk content to verify Checks 1-3.",
+    "difficulty='hard' on M1.S2.T3 (કડી 2) alone among the four POEM topics is a page-evidenced relative-within-chapter judgment, not a Bloom-level cap — 02_structure.json's notes cite the chapter's own [[ભાષા-અભિવ્યક્તિ]] box singling out exactly this કડી's diction ('કાંટાળી', 'પુષ્પ બની') as its craft example. This is a non-blocking observation.",
+    "depends_on for M1.S2.T3/M1.S3.T4/M1.S3.T5 tracks only the ટેક-teaching dependency (all point to M1.S2.T2, where the ટેક is first taught), not a full narrative prerequisite chain — consistent with how output10/ch01 uses depends_on for real prerequisite relationships rather than general reading-order helpfulness. Non-blocking."
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "areas": ["ધર્મ"],
+      "caution": "Ba's line 'નદી અપવિત્ર છે. શાસ્ત્રમાં કહ્યું છે કે...' could be explained as a factual claim about rivers or about what shastra generally requires, rather than as one mother's remembered belief inside a family memory.",
+      "guidance": "In `explanation`, keep this as Ba's own reported reasoning inside the scene (she says the river is impure and cites શાસ્ત્ર; Dattu argues back) — do not restate 'નદીનું પાણી અપવિત્ર હોય છે' as a general fact the child should accept, and do not explain what the shastra actually says beyond what Ba herself says.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "areas": ["વિકલાંગતા", "ક્ષેત્ર"],
+      "caution": "મોડકા માસ્તર, named and real to the memoir, is missing both hands ('બંને હાથે ઠૂંઠા') and writes with pen held between his toes; the explanation could dwell on the missing hands as strange or frightening rather than on the fact the text itself states — 'ભણાવવામાં એક્કા'. Separately, the child's own first impression of the unfamiliar Konkani-speaking Maharashtra household ('બધું જંગલી જંગલી જેવું લાગે') could be repeated as though it were an accurate description of that family/region rather than the narrator's own unfamiliarity, which the chapter itself resolves.",
+      "guidance": "Lead `explanation` with what મોડકા માસ્તર could DO — teach expertly, write beautifully with his feet — before or without dwelling on the missing hands; keep 'ઠૂંઠા' only where the `original_chunk` itself uses it, never add a description of the disability beyond the text. For the 'જંગલી જંગલી' line, frame it explicitly as young Dattu's own first impression of an unfamiliar place and language, not as a description of the Konkani family's way of life; do not extend or endorse the word 'જંગલી' in `explanation` or `real_life_example`.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "areas": ["સુરક્ષા"],
+      "caution": "This topic's action is a teacher pinching a child's thigh hard enough to make him run away, and the child then refusing school permanently; a child reading this could take either the teacher's action or the boy's permanent school-refusal as something to copy.",
+      "guidance": "In `explanation` and `real_life_example`, keep this as a memory of old-time schooling norms very different from today, without saying a teacher hitting a student was fine or that refusing to go to school is a good solution to a bad teacher; do not turn it into present-day advice for the child.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M3.S4.T7",
+      "areas": ["સુરક્ષા"],
+      "caution": "The children eat well past their hunger only to prove a 'શાખ' that eating jamphal is easy for boys, and ગોંદુ genuinely falls ill from it; a child could read the overeating itself as the brave or admirable part.",
+      "guidance": "In `explanation`, keep the chapter's own irony — that real શાખ would have been NOT overeating — without adding a separate moral sentence; do not let `real_life_example` invite the child to prove their own toughness by eating past fullness.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M4.S5.T8",
+      "areas": ["સુરક્ષા"],
+      "caution": "Gondu dares Dattu to eat a raw green chilli on the promise that childhood hardship earns adult sweetness, and Dattu eats it mainly so as not to be called a coward; a child could take this as an invitation to eat raw chillies or accept a similar dare to prove bravery.",
+      "guidance": "In `explanation` and any recall `answer`, describe what the boys did and why (peer pressure, not wanting to be seen as કાયર) without presenting eating a raw chilli as a game worth trying; the `real_life_example` should not suggest the child attempt a similar dare.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M4.S5.T9",
+      "areas": ["સુરક્ષા"],
+      "caution": "કેશુ forces jalebi on Dattu by twisting his cheek and threatening to beat him ('બુધ્ધુ, ખા, ખા; નહિ તો મારતો બધ') — a child reading this could see physically forcing or threatening another child as an acceptable way to get them to do something.",
+      "guidance": "In `explanation`, name what કેશુ did (twisted the cheek, threatened to hit) as part of the remembered scene, exactly as printed, without softening it into simple friendly teasing and without any field suggesting this is how to get a friend to try something new; the coercion itself is not something to recommend.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "ક્ષેત્ર",
+      "guidance": "This chapter is set in an old Maharashtra village world (Satara, Shahpur, Belgundi) with bullock-cart travel, a mosal household, and Marathi/Konkani speech mixed into the Gujarati text; teach these as that world's own everyday logic and speech, never as a curiosity or as 'this is how people used to live back then' framed with distance from the child's own life."
+    }
+  ],
+  "none_found": false
+}

@@ -1,0 +1,43 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "explanation_unit 'એક કડી' matches active profile urmikavya_geet.md; 3 [[કડી N]] markers in 00_chapter_normalized.md equal 3 POEM topics (M2.S2.T3, M2.S2.T4, M2.S3.T5), one each.",
+        "No દુહો, no પદ in this chapter (structure_inventory.duha=0, pad=0) — those sub-checks do not apply.",
+        "ટેક 'અમે નૂતન યુગના પ્રવાસી.' is identical across all 3 occurrences (tek_occurrences=3, no wording change) — profile rule 'teach once at first occurrence, reference after' applies, not the changed-words rule. No separate [[ટેક]] marker exists on the page (it is printed as the tail line inside each [[કડી N]] block); the structural avoid-gate on [[ટેક]] marker counts is honoured correctly since zero such markers exist and none was swallowed.",
+        "Single-genre chapter (active_genre_profiles=['urmikavya_geet.md']); no mixed-chapter handling needed.",
+        "Objectives O1-O4 checked against the profile's avoid list: no slogan phrasing ('આપણે ... જોઈએ'), no political/campaign framing, no over-scientified vocabulary, no literal reading of a figurative line. Clean."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 5,
+      "topics": 5,
+      "notes": [
+        "5 reading-scene markers in 00_chapter_normalized.md ([[કવિ-પરિચય]], [[કૃતિ-પરિચય]], [[કડી 1]], [[કડી 2]], [[કડી 3]]) map 1:1, in order, to the 5 topics (M1.S1.T1, M1.S1.T2, M2.S2.T3, M2.S2.T4, M2.S3.T5).",
+        "Pre-reading opener ([[કવિ-પરિચય]]) is a topic (M1.S1.T1). No in-text wrap marker exists in this chapter.",
+        "Cross-checked all 3 exercise_inventory entries (MCQ, બે-ત્રણ વાક્યોમાં ઉત્તર, છ-સાત વાક્યોમાં ઉત્તર) against every topic_name and original_chunk plan in 02_structure.json — none was cut as a topic.",
+        "Remaining markers ([[શબ્દ-સમજૂતી]], 3x [[સ્વાધ્યાય:...]], [[વિદ્યાર્થી-પ્રવૃત્તિ]], [[ભાષા-અભિવ્યક્તિ]], [[શિક્ષકની ભૂમિકા]]) are correctly excluded as apparatus, left for Agent 10 / key_terms sourcing."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 4,
+      "notes": [
+        "Root objectives[] has 4 unique objective_ids (O1-O4); strand_to_objective_map covers L1-L4 exactly once each, matching.",
+        "Every home_topic_id (M1.S1.T1, M2.S2.T3, M2.S2.T4, M2.S3.T5) and every anchor[] concept id (C1-C5, with O1 anchoring both C1 and C2) resolves to a node present in the tree.",
+        "Every topic (T1-T5) carries objective_ids resolving to the registry (T1,T2->O1; T3->O2; T4->O3; T5->O4).",
+        "Each objective is text-grounded and chapter-specific: O2/O3/O4 quote exact lines and the named વર્ણાનુપ્રાસ / 'રંગીન' device from the chapter's own printed ભાષા-અભિવ્યક્તિ block; O1 names the poet and this ગીત's specific નેમ. None is pasteable into another chapter.",
+        "Ids follow naming_conventions.md: M/S/T/C run chapter-continuous across the M1->M2 module boundary (S1 in M1, then S2,S3 in M2 — no restart); concept number equals topic number throughout (C1..C5); no M1.S1.T1.P1-style objective code anywhere."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "કડી 3 (M2.S3.T5) runs 7 printed lines against 4 lines each for કડી 1/2 — an uneven topic length, but it is the rendered page's own 4/4/7 split (already cross-checked at 150/250/400 dpi per 01_meta.json's extraction_notes), not a cutting defect. Non-blocking.",
+    "No separate [[ટેક]] marker is printed anywhere in this chapter; the identical refrain is transcribed as the closing line inside each [[કડી N]] block. Flagging forward to Agent 12/13 so this absence is not mistaken for a swallowed marker downstream, per 02_structure.json's own file-level note."
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must name કિશોર or લેખક (not an unattributed subject) as the one asked for help and who responds — original_chunk carries first-person forms 'ને એમણે મને સાધવા માંડ્યો' and 'આપણે ન કહી હા કે ન કહી ના'; an explanation opening like 'ઝાંપા આગળ મુસાફરોને મદદ મળે છે' (unattributed) fails.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `summary`, `detailed_summary`, `concept_bullets` or any `recall_questions[].answer` closes on a mદદ/ભલાઈ moral of the shape 'આપણે … મદદ કરવી જોઈએ' unless those exact words are quoted from this topic's `original_chunk`; the topic's own admission — 'એક પગ ભલાઈમાં અને બીજો પગ પૈસામાં' — must stay a mixed, unresolved confession, not a lesson about kindness.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Wherever `key_terms` or `explanation` quotes 'ગાડીવાળાએ પણ મને ભલામણ કરી … રાજી બી કરશે તને', the dialectal 'બી' is reproduced unmodified — never silently rewritten to 'પણ' (the exact defect 05_with_content.json's own Agent-1 extraction_notes record as already caught once for this chapter).",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "`key_terms` or `explanation` glosses 'એક પગ ભલાઈમાં અને બીજો પગ પૈસામાં' as a figurative expression for a mind torn between two motives; no field illustrates or explains it as a literal physical stance.",
+          "profile": "nibandh_atmaparak",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક આ પ્રસંગને ફક્ત 'કિશોરે અજાણ્યા યુગલને મદદ કરી' એવી સાદી ભલાઈની વાર્તા તરીકે વાંચે છે, અને 'એક પગ ભલાઈમાં અને બીજો પગ પૈસામાં' એ પંક્તિને શબ્દશઃ અથવા સાવ અવગણીને વાંચે છે — એટલે લેખકે પોતે કબૂલેલી મિશ્ર લાગણી (પૈસાની આશા પણ ખરી) છૂટી જાય છે.",
+      "correction": "`explanation`ના પહેલા વાક્યમાં જ કિશોરને વિષય તરીકે નામ આપો, અને 'એક પગ ભલાઈમાં અને બીજો પગ પૈસામાં' એ પંક્તિને એમ જ ટાંકીને સમજાવો કે મન બે બાજુ ખેંચાયું હતું — આ કબૂલાત જ પ્રસંગનો મુદ્દો છે, એને 'મદદ કરવી જોઈએ' જેવા બોધમાં ફેરવવો નહીં."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` names કિશોર as the grammatical subject, given original_chunk's 'મને પણ એણે ભલામણ કરી' and 'મેં કહ્યું'.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` or recall `answer` frames the acceptance of ચા/ચવાણું as greed or a moral lapse ('લોભ ન કરવો જોઈએ' shape); it stays the writer's own honest, self-mocking admission — quote 'મન… ના-ના કરતું હતું, પણ હાથ કમબખ્ત બંધાઈ ગયો!' rather than judging it.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "`key_terms` or `explanation` glosses the chapter's first occurrence of elided 'કે’'/'કે છે' (as in 'મને કે’છે લે દોસ્ત, ચા પીજે!') as કહે છે — marking who is speaking — so it is not read as the conjunction 'કે' (that/or).",
+          "profile": "nibandh_atmaparak",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "હિન્દી-ટેવાયેલું બાળક 'કે’છે'ને 'કે' (એટલે કે/અથવા) જોડાણ તરીકે વાંચે છે અને વાક્ય તૂટેલું લાગે છે, અથવા કિશોરે ચા-નાસ્તો સ્વીકાર્યો એટલે એને 'લોભી' ગણી લે છે — બંને રીતે લેખકની પોતાની, હળવી કબૂલાત (મન ના પાડે છતાં હાથ લઈ લે છે) ચૂકી જવાય છે.",
+      "correction": "સૌ પ્રથમ 'કે’છે'ને 'કહે છે' તરીકે ગ્લોસ કરો — બોલનાર કોણ છે એ બતાવતો શબ્દ છે, જોડાણ નથી. પછી `explanation`માં 'મન ના-ના કરતું, પણ હાથ કમબખ્ત બંધાઈ ગયો' એ પંક્તિ ટાંકીને બતાવો કે લેખક પોતાની નાની નબળાઈ હસતાં હસતાં કબૂલે છે — એને ખોટા ઠરાવવાનું ટાળો."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` names કિશોર as subject, given original_chunk's 'મેં કહ્યું' and 'હું ગાડીમાંથી નથી ઊતર્યો'.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `real_life_example` or recall `answer` frames the porter's ticket-check as villainy, nor calls કિશોરને બિચારો; the scene stays procedural tension — his own honest actions now look suspicious — not melodrama.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "`key_terms` or `explanation` glosses 'માર્યા આ પોટલીએ તો!' as the idiomatic 'આ મને મુસીબતમાં મૂકી દીધો' (this got me into trouble), never as literal hitting or violence.",
+          "profile": "nibandh_atmaparak",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક 'માર્યા આ પોટલીએ તો!'ને શબ્દશઃ મારપીટની વાત સમજે છે, અને પોર્ટરની ટિકિટ-માગણીને કિશોર પર અચાનક, કારણ વગરની સતામણી ગણી લે છે — જ્યારે ખરેખર તો કિશોરનાં પોતાનાં જ પ્રામાણિક કામો (મદદ કરવી, ગાડીમાંથી કૂદવું, ફક્ત એક આનો બતાવવો) જ હવે શંકાસ્પદ દેખાય છે.",
+      "correction": "'માર્યા આ પોટલીએ તો!'ને રૂઢિપ્રયોગ તરીકે ગ્લોસ કરો ('આ મને મુસીબતમાં મૂકી દીધો', મારપીટ નહીં). `explanation`માં એ પણ બતાવો કે પોર્ટરને શંકા કેમ પડી — કિશોરે પોતે જ કરેલાં કામો (કૂદવું, ફક્ત આનો બતાવવો) હવે તેની વિરુદ્ધ જાય છે, એ પોર્ટરની ખરાબી નથી."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` names કિશોર as subject, given original_chunk's 'મેં કહ્યું' and 'મને ઓફિસમાં લઈ ગયો'.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field uses બિચારો/ગરીબ for કિશોર despite 'ડબ ડબ કરતાં મારી આંખમાંથી આંસુ' and 'ડૂસકાં', nor calls the mocking ટોળું flatly ખરાબ લોકો — the chapter's own register, where the same crowd turns respectful by the close, is the model.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `summary` or recall `answer` generalizes the crowd's mockery into a rule about people or crowds ('લોકો ખોટા પર જ વિશ્વાસ કરે છે' shape); it stays with this specific porter, this specific crowd, this moment.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "`key_terms` or `explanation` notices what 'વાઘનો શિકાર કરી લાવ્યો હોય એ રીતે' shows about the porter's pride at 'catching' the boy, in plain words — no field names it ઉપમા or અલંકાર (std 8's craft-label ceiling).",
+          "profile": "nibandh_atmaparak",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક 'વાઘનો શિકાર કરી લાવ્યો હોય એ રીતે' એ સરખામણી પરથી સરકી જાય છે અથવા એને સાદું વર્ણન સમજી લે છે, અને ટોળાના હાસ્યને ફક્ત 'ખરાબ લોકોની મજાક' ગણી, પોર્ટરના અતિશય ગર્વ ને પોતાની પકડ પરના મિજાજને ચૂકી જાય છે — જેના લીધે આખું દૃશ્ય કેમ આટલું તંગ બન્યું એ સમજાતું નથી.",
+      "correction": "`explanation`માં 'વાઘનો શિકાર કરી લાવ્યો હોય એ રીતે' પંક્તિ તરફ ધ્યાન દોરો — કોઈ લેબલ આપ્યા વગર પૂછો: 'આ સરખામણી પરથી પોર્ટરના મિજાજ વિશે શું ખબર પડે છે?' એનાથી ટોળાના હાસ્યનું કારણ ને દૃશ્યની તંગી બંને સ્પષ્ટ થાય છે, કોઈ સામાન્ય બોધ વગર."
+    },
+    {
+      "topic_id": "M2.S2.T5",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` names કિશોર as subject, given original_chunk's 'મેં કહ્યું' and 'મને પણ થયું'.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` or recall `answer` states or implies 'સાચું બોલવું જોઈએ' as a lesson; the specific, mixed reasoning stays quoted — 'મને પણ થયું : ભાઈ, ભસી નાંખ ને જૂઠું' and 'ટિકિટના પછી પૈસા લેશે તો ઈડરથી ટિકિટ શાની કઢાવીશ?' — never resolved into pure virtue.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field asks or answers WHY કિશોર 'chose' truth as a clean character trait ('એ પ્રામાણિક છોકરો હતો એટલે…'); the topic carries પ્રસંગ, not પ્લોટ, and no `topic_category` of 'climax' attaches here.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field invents the stationmaster's inner motive beyond what original_chunk states ('સ્ટેશનમાસ્તરને મારી દયા આવી' is licensed; nothing beyond it — no invented backstory or feeling for him).",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક આ ઘટનાને 'સાચું બોલવું જોઈએ, સાચું જ જીતે' એવા સીધા બોધ તરીકે વાંચે છે (ચોપડીના પોતાના 'સત્યમેવ જયતે' બોક્સના પડઘારૂપે), અને ચૂકી જાય છે કે કિશોર પોતે જ કબૂલે છે કે ડરના માર્યે એને જૂઠું બોલવાનું મન થયું હતું, ને છેવટે સાચું બોલવા પાછળ પણ ડર અને વ્યવહારુ ગણતરી (ઈડરની ટિકિટ કઢાવવી પડશે એ બીક) ભળેલાં હતાં — શુદ્ધ સચ્ચાઈ નહીં.",
+      "correction": "`explanation` અને recall answer બંનેમાં 'મને પણ થયું : ભાઈ, ભસી નાંખ ને જૂઠું' અને 'ટિકિટના પછી પૈસા લેશે તો…' એ બંને પંક્તિઓ ટાંકો — બતાવો કે ડર અને ગણતરી બંને ભળેલાં હતાં, અને એને 'સાચું બોલવું જોઈએ' જેવા એક-લીટી બોધમાં સંકેલવું નહીં."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` names કિશોર or લેખક as subject, given original_chunk's 'એમનું નામ હું ભૂલી ગયો છું' and 'મારાથી વળી જોરજોરથી રડી દેવાયું'.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` or recall `answer` closes on a generalized 'સત્ય જીતે છે' / 'સાચું બોલવાથી ફાયદો થાય છે' line unless verbatim from this topic's `original_chunk`; the ending stays on the concrete image and its quoted line — 'છોકરો મારો સાચો નીકળ્યો હો, ભાઈ !'",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field invents interiority or biography for the unnamed સજ્જન beyond what original_chunk prints ('એમનું નામ હું ભૂલી ગયો છું … ઉમદા સ્વભાવના … બાવાજીને લીધે … દીકરા જેવો ચાહતા'); no invented name, profession or reason for his kindness.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "`objective_text` and `explanation` do not describe HOW to write a memoir, character-sketch or આત્મકથા as a method (echoing the ચર્ચા-વિચારણા / પાત્રલેખન exercise blocks in 01_meta.json's `exercise_inventory`); they teach only this chapter's own closing scene.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક છેલ્લા દૃશ્યને 'સાચું બોલવાથી છેવટે ફાયદો થાય છે' અથવા 'સત્ય જીતે છે' એવા સામાન્ય નિષ્કર્ષમાં ફેરવી નાખે છે, અને એ ચોક્કસ ચિત્ર — નામ પણ ભૂલાઈ ગયેલા એક સજ્જન ટોળા વચ્ચેથી આવીને કિશોરને છાતીએ વળગાડે છે, ને ટોળું 'છોકરો મારો સાચો નીકળ્યો હો, ભાઈ!' કહે છે — છોડી દે છે.",
+      "correction": "`explanation`ને એ જ ચોક્કસ ચિત્ર અને ટાંકેલી પંક્તિ પર પૂરું કરો — સજ્જનનું છાતીએ વળગાડવું, ટોળાનું વાક્ય — કોઈ સામાન્ય 'સત્ય જીતે છે' વાક્ય ઉમેર્યા વગર."
+    }
+  ],
+  "chapter_level": [
+    "Standing pull toward a tacked-on બોધ: the book's own closing ચર્ચા-વિચારણા box is literally titled 'સત્યમેવ જયતે', and 01_meta.json's genre_signals.exercises notes the સાચા-ખોટાની થીમ echoes into the સ્વાધ્યાય itself. This makes profile Avoid item 3 (no tacked-on બોધ) the chapter's biggest single hazard — every explanation, summary and recall answer must stay with what this particular કિશોર did, felt and calculated, never resolve into a stand-alone 'સાચું બોલવું જોઈએ' or 'સત્ય જીતે છે' sentence, however close the book's own apparatus comes to inviting exactly that.",
+    "Do not import outside historical/geographic fact: 01_meta.json's own extraction_notes describe મોડાસા-તલોદ-ઈડર-ખેડબ્રહ્મા as 'the historic Modasa-Talod-Idar narrow-gauge line' — that is Agent 1's own research aside, not printed anywhere in this chapter's original_chunk or apparatus. Per profile Avoid item 9, no explanation, summary or recall answer may add this or any other outside fact about the railway line; the place names are used exactly as the text uses them, nothing more.",
+    "Dialect and register stay exactly as printed everywhere they are quoted (profile Avoid item 7): 'બી' (M1.S1.T1), the elided 'કે’'/'કે છે' (M1.S1.T2, M2.S2.T3, M2.S2.T4, M2.S2.T5), and 'કો’ક'/'કો’તો' (M2.S2.T5) are all genuine printed licence, already verified against the render per 05_with_content.json's own notes — and the one genuine transcription DEFECT this chapter had ('પોઠ'/'કહં છે', corrected to 'પીઠે … કહે છે') must stay corrected, never reintroduced by a downstream agent copying an older draft.",
+    "The porter's, crowd's and ગાડીવાળાની mockery and testimony (M2.S2.T3–M2.S2.T5) are working people doing their job or speaking as bystanders, not villains or figures of fun for the reader — profile Avoid item 14 and global_content_rules rule 10 both apply: no field should flatten the porter into a bully or the crowd into 'ખરાબ લોકો', since the chapter's own ending has this same crowd turn respectful ('માન ભરી નજરે').",
+    "The crowd's laughter here (પોર્ટર … હસવા લાગ્યો, બીજા લોકો … હસી પડ્યા, આખું ટોળું … હસી પડ્યું) is mockery AT the boy, not the self-deprecating 'writer laughs at himself' engine the profile's હાસ્ય sub-form describes — so profile Avoid item 4 (never explain or soften a joke) is not the operative gate here; Avoid item 14 (no pity, no judgment) is. No field should invite the reader to find the crowd's laughter funny, nor to condemn the crowd as a group.",
+    "Std 8's craft-label ceiling holds through every topic (profiles/students/std-8.md §1): the simile at M2.S2.T4 ('વાઘનો શિકાર કરી લાવ્યો હોય એ રીતે'), the idioms at M1.S1.T1 and M2.S2.T3, and the situational irony running M2.S2.T3–M2.S2.T5 (the boy's own honest acts become the 'evidence' against him) may all be noticed in plain Gujarati but none may be named ઉપમા, કટાક્ષ or વ્યંગ in any child-facing field.",
+    "figures_of_speech stays [] at every topic — this chapter is ગદ્ય/STORY_TELLING end to end with no printed poetic device, per 05_with_content.json's own note; profile Avoid item 15 governs if any downstream field is tempted to name one."
+  ]
+}

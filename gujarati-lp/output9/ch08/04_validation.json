@@ -1,0 +1,53 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "explanation_unit is 'એક ભાવ-ખંડ' (sonnet.md), not કડી — the કડી marker-count rule and the દુહો/પદ/ટેક rules in this check are not applicable to a સૉનેટ chapter; not a mixed chapter.",
+        "00_chapter_normalized.md prints zero [[ભાવ-ખંડ]] markers (structure_inventory.stanza_breaks=0), so Agent 2's own syntactic cut into 4 movements is explicitly sanctioned by profiles/genres/sonnet.md's Explanation-unit section for exactly this case.",
+        "Verified by reconstruction: concatenating the four verse topics' claimed spans in order (M2.S2.T2 lines 1-6 ending 'અમો સૌનાં ઋણી : નભતી ઘરમાં જેથી નભતા,'; M2.S2.T3 lines 7-10 ending 'હવામાં આઘેનું પરણ મનમાં છેક ખરતું,'; M2.S2.T4 lines 11-12 ending 'વિના પૂછ્યા - ગાછ્યા તૃણ નીકળતું ફુક્ક કરીને,'; M2.S2.T5 lines 13-14) reproduces all 14 printed lines in order, no gaps, no overlaps, every cut at a clause pause (a colon or a completed clause), never mid-sentence.",
+        "4 verse topics sits at sonnet.md's stated ceiling (2-4 topics for a 14-line poem), not over it — not the couplet-wise/7-topic ગઝલ-template error the profile's Avoid list names.",
+        "The closing ચોટ (last two printed lines) is kept together, in order, inside M2.S2.T5, which is the last verse topic of the chapter — satisfies the profile's 'split ચોટ' hard gate.",
+        "No ટેક, ધ્રુવપંક્તિ, કડી, or છંદ is invented or named anywhere in 02_structure.json — consistent with structure_inventory (tek_occurrences=0, chhap_occurrences=0, meter_named_on_page=false) and sonnet.md's Avoid list.",
+        "No objective or topic_name turns the ચોટ into a બોધ/ઉપદેશ — O5 states the contrast in plain descriptive terms ('વિરોધ શોધી... ચોટ અહીં કઈ રીતે પૂરી થાય છે તે કહેવું'), not an instruction.",
+        "No numerals appear in display text (topic_name / objective_text) as a scene-reference (no 'ભાવ-ખંડ 2', no 'પંક્તિ 7માં'); O1's 'ચૌદ પંક્તિ' names the sonnet's own fixed 14-line form (as the book's કૃતિ-પરિચય itself does), not a reference to a numbered part — consistent with the rule's intent.",
+        "figures_of_speech / original_chunk are correctly left unpopulated at this stage (Agent 5's job); nothing in 02_structure.json invents craft ahead of the verbatim extraction."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 5,
+      "topics": 5,
+      "notes": [
+        "Pre-reading opener [[કવિ-પરિચય]] (poet bio + કૃતિ-પરિચય, one continuous printed block, one marker) is a topic: M1.S1.T1 (CONCEPT).",
+        "All 14 printed verse lines are covered, in order, across the 4 POEM topics (M2.S2.T2 through M2.S2.T5) — no line, and no part of a line, is left uncut or duplicated.",
+        "No in-text wrap/summary block exists in this chapter to check for (poem runs straight to its ચોટ, no printed mid-poem summary).",
+        "Cross-checked all 4 exercise_inventory entries (MCQ; બે-ત્રણ વાક્યોમાં ઉત્તર; છ-સાત વાક્યોમાં ઉત્તર; વિદ્યાર્થી-પ્રવૃત્તિ) against all 5 topic_name / planned original_chunk spans in 02_structure.json — zero overlap, none became a topic.",
+        "શબ્દ-સમજૂતી, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are apparatus per explanation_unit_map.md and are correctly held out of the topic tree (left for Agent 10/12/13 sourcing), not cut as topics.",
+        "No topic covers text that no marker/reading-content claims — every topic's planned span is either the [[કવિ-પરિચય]] block or a segment of the unmarked-but-clearly-bounded 14-line verse."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 5,
+      "notes": [
+        "O1-O5 all present in root objectives[], all objective_id values unique.",
+        "Every home_topic_id (M1.S1.T1, M2.S2.T2, M2.S2.T3, M2.S2.T4, M2.S2.T5) and every anchor[] id (…C1 … …C5) resolves to a real node in the tree.",
+        "strand_to_objective_map covers L1-L5 exactly once, one-to-one with O1-O5, single strand L / ભાષા અને સાહિત્ય throughout as this pack's Gujarati-literature convention requires.",
+        "Every topic carries objective_ids resolving to the registry (T1->[O1], T2->[O2], T3->[O3], T4->[O4], T5->[O5]) — one objective per topic, matching 'one sound, text-grounded objective anchor per scene'.",
+        "Each objective is text-grounded and chapter-specific: O1 names the કૃતિ-પરિચય's own definition and 'ચૌદ પંક્તિ'; O2 names કબૂતર/હોલા/ચકલી nesting; O3 names તણખલાં/ચીં ચીં/ટહૌકા and 'પરીકથા'; O4 names the ભીંતની તરડ and 'ફુક્ક'; O5 names 'આદિમ મૂળો' vs 'પ્લાસ્ટિકનાં ફૂલો' — none could be pasted into another chapter, and each serves the active teaching_lens (બંધ + વળાંક + ભાવની ઘનતા): O1=બંધ, O2-O4=ભાવની ઘનતા (building imagery), O5=વળાંક.",
+        "Id grammar checked against reference/naming_conventions.md and reference/phase2_contract.md: M/S/T run chapter-continuous with no restarts (M1->M2, S1->S2, T1->T2->T3->T4->T5); concept number equals topic number throughout (T1/C1 ... T5/C5), matching the 'c is chapter-continuous, one concept per topic => concept number = topic number' rule exactly; no M1.S1.T1.P1-style objective code appears anywhere.",
+        "No word-count check is a blocking gate under this agent's spec; the 12-30 word objective band (VERIFY-4, provisional) is noted as satisfied in 02_structure.json's own notes (O1=21, O2=29, O3=24, O4=22, O5=29 words) and was spot-checked (O1 recount=21) — recorded here as a non-blocking confirmation, not a fail condition."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "genre_fidelity, coverage and objectives all pass with no blocking issues. 02_structure.json promoted verbatim to 04_converged.json; ids are frozen from this point.",
+    "This chapter's active_genre_profiles (['sonnet.md']) is the only profile in play — no mixed-genre routing needed, and no disagreement found between 01_meta.json's genre_signals and profiles/genres/sonnet.md's diagnosis criteria (fourteen unbroken lines, no ટેક/છાપ/રદીફ, book's own કૃતિ-પરિચય defines સોનેટ, MCQ item 4 tests સાહિત્યપ્રકાર with સોનેટ as the answer).",
+    "Carried forward as a non-blocking note for downstream agents (per 01_meta.json extraction_notes): profiles/genres/sonnet.md's own illustrative quotation of the closing line spells 'મૂલો' (લ) while the rendered page and an independent MCQ item both spell 'મૂળો' (ળ) — 00_chapter_normalized.md correctly carries 'મૂળો' per reference/gujarati_verbatim.md's rendered-page authority; Agent 5 should transcribe 'મૂળો' into M2.S2.T5's original_chunk, not the profile file's spelling.",
+    "Non-blocking observation for Agent 13: original_chunk is empty on every topic at this stage (Agent 2's stated design, filled by Agent 5) — Check 1's line-by-line reconstruction above was performed against 00_chapter_normalized.md's printed verse using each topic's note-field boundary quotes, not against original_chunk itself, since original_chunk does not yet exist; Agent 5/13 should re-run the same reconstruction check once original_chunk is populated."
+  ]
+}

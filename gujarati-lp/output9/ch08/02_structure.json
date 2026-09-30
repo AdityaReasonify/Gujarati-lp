@@ -1,0 +1,198 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch8",
+  "genre": "sonnet",
+  "active_genre_profiles": ["sonnet.md"],
+  "explanation_unit": "એક ભાવ-ખંડ",
+  "teaching_lens": "બંધ + વળાંક + ભાવની ઘનતા",
+  "guiding_question": "કવિ 'હજી સારું છે' કહી કહીને પ્રકૃતિનું કયું ઋણ ગણાવે છે, અને છેલ્લી બે પંક્તિમાં એ ગણતરી કઈ ચોટ પર આવીને અટકે છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કૃતિ-પરિચયમાં અપાયેલી સોનેટની વ્યાખ્યા વાંચી, 'આભાર' કાવ્ય ચૌદ પંક્તિમાં કઈ રીતે બંધબેસે છે અને એની ચોટ ક્યાં આવે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિએ આકાશ સામે ભીંત ચણી હોવા છતાં કબૂતર, હોલા અને ચકલીઓ ઘરમાં માળા બાંધીને થોડું ગગન લાવે છે એ પંક્તિઓ શોધી, કવિ શા માટે તેમનું ઋણી છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T2",
+      "anchor": ["M2.S2.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રસોડા પર ખરતાં તણખલાં, પંખીની ચીં ચીં-ટહૌકા અને ખરતાં પીંછાં વર્ણવતી પંક્તિઓ શોધી, આ અવાજો કવિને વનની કઈ 'પરીકથા' યાદ અપાવે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": ["M2.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ભીંતની તરડમાંથી કોઈને પૂછ્યા વગર 'ફુક્ક' કરીને ઊગી નીકળતા ઘાસની પંક્તિ શોધી, કુદરત માણસે ચણેલી ભીંતને કઈ રીતે ગણકારતી નથી તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": ["M2.S2.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "છેલ્લી બે પંક્તિમાં માટીમાં સચવાયેલાં વનનાં આદિમ મૂળો અને હજી ન ઊઘડેલાં પ્લાસ્ટિકનાં ફૂલો વચ્ચેનો વિરોધ શોધી, કવિની આખા કાવ્યની ચોટ અહીં કઈ રીતે પૂરી થાય છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T5",
+      "anchor": ["M2.S2.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "કવિ અને કૃતિનો પરિચય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "ઉશનસ્ અને 'આભાર' સૉનેટની ઓળખાણ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "ઉશનસ્ અને 'સૉનેટ' સ્વરૂપનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "ઉશનસ્ અને 'સૉનેટ' સ્વરૂપનો પરિચય"
+                }
+              ],
+              "note": "Marker [[કવિ-પરિચય]] — the ONLY marker Agent 1 placed before the verse. Unlike std-9 ch1's છપ્પા chapter (which prints separate [[કવિ-પરિચય]] and [[કૃતિ-પરિચય]] markers), this page prints the poet-bio and કૃતિ-પરિચય paragraph as one continuous block under a single marker (00_chapter_normalized.md lines 1-12), so both stay as ONE CONCEPT topic per 'One marker, one topic.' Prose printed for the student (poet name, dates, book list, and the કૃતિ-પરિચય paragraph that itself defines સોનેટ and paraphrases the chapter's theme) — CONCEPT per explanation_unit_map.md's rule that student-facing પરિચય prose is a reading scene, not apparatus. This topic is also where the સાહિત્યપ્રકાર (સોનેટ) tag is first taught, per teaching_lens_map.md's std-9 craft-naming gate — the book's own કૃતિ-પરિચય supplies the definition verbatim ('સોનેટ કાવ્ય સ્વરૂપમાં કવિ પોતાની અનુભૂતિ ચૌદ પંક્તિની મર્યાદામાં...'), so no invented information is needed. No છંદ is named on this page (01_meta.json structure_inventory.meter_named_on_page=false), so none may be taught here either."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "કુદરત પ્રત્યેનો આભાર",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ભીંતોની વચ્ચે ટકી રહેલી કુદરત",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T2",
+              "topic_name": "આકાશ સામે ચણેલી ભીંત અને ઘરમાં માળા બાંધતાં પંખી",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T2.C2",
+                  "concept_name": "આકાશ સામે ચણેલી ભીંત અને ઘરમાં માળા બાંધતાં પંખી"
+                }
+              ],
+              "note": "No [[ભાવ-ખંડ]] marker exists for the verse — the page prints all fourteen lines with zero stanza breaks (01_meta.json structure_inventory.stanza_breaks=0), so per explanation_unit_map.md's સૉનેટ row and profiles/genres/sonnet.md ('cut where the syntax closes, not where the line ends'), every ભાવ-ખંડ boundary below is Agent 2's own syntactic/rhetorical cut, not a page marker. This is topic 1 of 4 poem topics (ceiling is 4 per sonnet.md's Avoid section, and the count of [[ભાવ-ખંડ]] markers in 00_chapter_normalized.md is zero because the page prints none — consistent, not a violation). Boundary: begins 'અમે તો આકાશો ભણી પીઠ કરી'તી ભીંત ચણી,' (printed line 1) and ends 'અમો સૌનાં ઋણી : નભતી ઘરમાં જેથી નભતા,' (printed line 6) — the first of the poem's three 'હજી/હજુ...સારું છે' clauses (independently flagged by the chapter's own ભાષા-અભિવ્યક્તિ bullet on the 'હજી' repetition-pattern), ending at a natural pause (the colon completing 'ઋણી') before the second clause reopens fresh with 'હજી સારું છે કે' at line 7. Sets the poem's premise (the wall built with its back to the sky) and its first answer (birds still nest inside and bring a little of the sky home)."
+            },
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "રસોડા પર ખરતાં તણખલાં અને વનની પરીકથા",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M2.S2.T2"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "રસોડા પર ખરતાં તણખલાં અને વનની પરીકથા"
+                }
+              ],
+              "note": "depends_on M2.S2.T2 is the real sequencing dependency — this movement continues the same single sentence-argument the previous topic opened, following explanation_unit_map.md's rule that the whole poem's clauses run on across the printed lines. Second of the three 'હજી...સારું છે' movements; topic 2 of 4 poem topics. Begins 'હજી સારું છે કે શિર પર રસોડે તણખલાં,' (printed line 7) and ends 'હવામાં આઘેનું પરણ મનમાં છેક ખરતું,' (printed line 10), completing its own thought before the third clause reopens with 'હજી તો સારું છે :' at line 11. Marked 'hard' (relative, this chapter only): 'ટ્હૌકા' carries the જોડાક્ષર ટ+હલંત+હ that 01_meta.json's extraction_notes specifically double-checked against the કૃતિ-પરિચય's plainer paraphrase spelling 'ટહુકા' (the verse's own spelling is kept), plus 'પરીકથા' and the તળપદું 'પરણ' (= પર્ણ, glossed in the page's own શબ્દ-સમજૂતી box) stack in four lines — denser than the surrounding topics for an L2 reader."
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "ભીંતની તરડમાંથી ફૂટી નીકળતું ઘાસ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M2.S2.T3"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C4",
+                  "concept_name": "ભીંતની તરડમાંથી ફૂટી નીકળતું ઘાસ"
+                }
+              ],
+              "note": "Third of the three 'હજી...સારું છે' movements, and the shortest — two printed lines only, which is a legitimate ભાવ-ખંડ length (like a દુહો, a movement may be shorter than the explanation that follows it). Topic 3 of 4 poem topics. Begins 'હજી તો સારું છે : ભીંત - તરડમાં માથું ઊંચકી' (printed line 11) and ends 'વિના પૂછ્યા - ગાછ્યા તૃણ નીકળતું 'ફુક્ક' કરીને,' (printed line 12), completing the grass-image before the connective shifts from 'સારું છે' to 'ભલું કે' at line 13, marking the ચોટ. 'ગાછ્યા' (તળપદું, paired with 'પૂછ્યા' in the idiom 'પૂછ્યા-ગાછ્યા વગર' = without so much as asking) and the coined child-sound 'ફુક્ક' (named in the page's own ભાષા-અભિવ્યક્તિ bullet) are what an L2 reader stops on here."
+            },
+            {
+              "topic_id": "M2.S2.T5",
+              "topic_name": "માટીમાં સચવાયેલાં આદિમ મૂળ અને હજી ન ઊઘડેલાં પ્લાસ્ટિકનાં ફૂલ",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": ["M2.S2.T2"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T5.C5",
+                  "concept_name": "માટીમાં સચવાયેલાં આદિમ મૂળ અને હજી ન ઊઘડેલાં પ્લાસ્ટિકનાં ફૂલ"
+                }
+              ],
+              "note": "The ચોટ — the poem's last two printed lines, topic 4 of 4 poem topics, kept together in one topic per sonnet.md's hard gate ('the last two lines carry the poem's whole ભાવ... they live inside one topic, together, and that topic is the last verse topic of the chapter'). Begins 'ભલું કે મિટ્ટીમાં હજી વન તણાં આદિમ મૂળો,' (printed line 13 — note the shift from 'સારું છે' to 'ભલું કે' marking the turn) and ends 'હજી વાડા-છોડે નથી ઊઘડતાં પ્લાસ્ટિક ફૂલો.' (printed line 14). The printed attribution '('અશ્વત્થ'માંથી)' that follows the verse on the page belongs inside THIS (last) topic's original_chunk per sonnet.md's rule on attribution placement — flagged for Agent 5. Per 01_meta.json's extraction_notes: the rendered page and an independent MCQ item both spell the closing word 'મૂળો' (ળ, roots); profiles/genres/sonnet.md's own illustrative quote spells it 'મૂલો' (લ), which 01_meta.json records as a likely transcription slip in the reference file — the rendered page is the authority, so this topic's original_chunk must carry 'મૂળો' when Agent 5 fills it. depends_on lists M2.S2.T2 only (the wall premise this ચોટ answers) and NOT M2.S2.T4, per sonnet.md's 'one link, not a chain' — even though T4 is the topic immediately preceding it in reading order. No formal અલંકાર name is asserted in O5 or here; the objective uses the plain word 'વિરોધ' (contrast) rather than a canon term (e.g. વ્યતિરેક), because Agent 2 does not extract figures_of_speech and an incorrect formal label would itself be an invented-craft hallucination — that determination is left to Agent 5/7 reading this topic's original_chunk directly."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut: 1 pre-reading CONCEPT topic ([[કવિ-પરિચય]], covering the poet bio AND the કૃતિ-પરિચય paragraph as one printed block) + 4 POEM topics (four ભાવ-ખંડ) = 5 topics total. 00_chapter_normalized.md carries no [[ભાવ-ખંડ]] marker for the fourteen printed lines — structure_inventory.stanza_breaks=0 confirms the page prints one continuous, unbroken block of verse — so the four ભાવ-ખંડ boundaries are Agent 2's own reading of the sentence-syntax and the poem's own three-times-repeated 'હજી/હજુ...સારું છે' rhetorical clause (independently flagged by the chapter's own ભાષા-અભિવ્યક્તિ apparatus bullet) plus the shift to 'ભલું કે' that opens the ચોટ. Four topics sits at profiles/genres/sonnet.md's stated ceiling, not over it, and each boundary lands at a punctuation pause (a colon or a completed clause before a fresh clause opens), never mid-sentence — the concatenation of all four verse topics' eventual original_chunk values will reproduce the printed poem line for line.",
+    "Why four ભાવ-ખંડ and not three: sonnet.md calls three 'the common shape (setting → pressure → turn)' but permits the ceiling of four where the poem's own structure supports finer movements. Here the poem itself marks three distinct 'સારું છે' claims (birds/sky, lines 1-6; kitchen sounds and the forest's tale, lines 7-10; grass in the wall, lines 11-12) before the ચોટ (lines 13-14). Cutting each 'સારું છે' claim as its own ભાવ-ખંડ follows the text's own repeated marker rather than an arbitrary split, and keeps each topic's future 55-90 word explanation focused on one concrete image instead of compressing two distinct images into one block.",
+    "Apparatus and સ્વાધ્યાય excluded, per global_content_rules.md rule 7 and explanation_unit_map.md: the શબ્દ-સમજૂતી box, all four printed exercise blocks (MCQ, બે-ત્રણ વાક્યોમાં ઉત્તર, છ-સાત વાક્યોમાં ઉત્તર, વિદ્યાર્થી-પ્રવૃત્તિ), ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are none of them topics — they remain in 01_meta.json's exercise_inventory / extraction_notes for Agent 10 to answer and for later agents to source key_terms and ભાષા-બોધ from.",
+    "Genre-prior agreement: 01_meta.json's active_genre_profiles (['sonnet.md']) matches the profile loaded for this pass; no disagreement between the rendered page (00_chapter_normalized.md) and profiles/genres/sonnet.md's diagnosis, lens or cutting rules to report. root 'genre' is written here as the slug 'sonnet' (matching the active profile filename), while 01_meta.json's own 'genre' field correctly holds the Gujarati display word 'સૉનેટ' — both are consistent with reference/phase2_contract.md's root schema.",
+    "No formal અલંકાર, છંદ or માત્રા is named anywhere in this file. Objectives O4 and O5 reference imagery and contrast in plain Gujarati ('ગણકારતી નથી', 'વિરોધ') rather than a canon term (e.g. સજીવારોપણ, વ્યતિરેક), because Agent 2 does not extract figures_of_speech and an incorrect formal label would itself be an invented-craft hallucination (reference/no_hallucination_policy.md). That determination belongs to Agent 5/7, reading each topic's original_chunk directly, per sonnet.md's own hard gate against naming the form's parts (સૉનેટ, ચોટ, વળાંક, ભાવપલટો, અષ્ટક, ષટ્ક, છંદ) as અલંકાર. structure_inventory.meter_named_on_page=false is also respected — no છંદ is named in any objective or note, consistent with std-9's ceiling (છંદ is std-10 only).",
+    "original_chunk is left empty on every topic per spec ('original_chunk stays empty; Agent 5 fills it'). Each topic's own note above quotes the exact first and last printed phrase of its span (from 00_chapter_normalized.md) so Agent 5 can cut without re-deriving the boundary; the source attribution ('અશ્વત્થ'માંથી) is flagged for the LAST topic (M2.S2.T5) only, per sonnet.md's rule that the attribution belongs inside the last topic's original_chunk.",
+    "Difficulty spread (medium, medium, hard, medium, hard) reflects reader friction on THIS page only, per teaching_lens_map.md and profiles/students/std-9.md §3 — it is not a Bloom cap: every topic's objective still reaches Understand or Analyze, and no topic is called 'hard' for naming a craft label it does not carry. sonnet.md itself measures this chapter's verse as 'the densest verse in the pack for an L2 reader', which is why no topic is rated 'easy'.",
+    "Objectives (O1-O5) map one-to-one to the five topics — 'one sound, text-grounded objective anchor per reading scene' (02_structure.md §4) — each grounded in this chapter's own printed lines or its કૃતિ-પરિચય paragraph and checkable only against 'આભાર', never against a generic sonnet or a generic nature-poem. Word counts checked against the 12-30 word band: O1=21, O2=29, O3=24, O4=22, O5=29."
+  ]
+}

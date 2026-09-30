@@ -1,0 +1,11 @@
+{
+  "textbook": null,
+  "textbook_url": "../Textbooks-pdf/std-8/ch-11-jamfal-ane-jalebi.pdf",
+  "textbook_pages": "85–93",
+  "source": "printed folio, read off renders of pdf pp. 1 and 9 of the chapter PDF (folios 85 and 93 respectively); cross-checked against manifest.json's ch-11 row (printed_start 85, pdf_start 97, pdf_end 105) and profiles/boards/gseb_gujarati.md's std-8 table, both of which independently print the same 85–93 range",
+  "confidence": "medium",
+  "gaps": [
+    "textbook_url is a local path — the GSEB readers have no hosted URL",
+    "std-8 cover has not been read (profiles/boards/gseb_gujarati.md and 01_meta.json's extraction_notes both record this); textbook title is left null rather than composed from the board profile's provisional 'ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 8' form, so confidence is medium, not high, despite both end folios being read directly off renders"
+  ]
+}

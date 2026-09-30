@@ -1,0 +1,221 @@
+{
+  "chapter_id": "gseb_eng_gujarati10_ch9",
+  "plan_id": "gseb_eng_gujarati10_ch9_v1",
+  "genre": "ઊર્મિકાવ્ય",
+  "active_genre_profiles": [
+    "urmikavya_geet.md"
+  ],
+  "teaching_lens": "ચિત્ર + ભાવ + અલંકાર",
+  "guiding_question": "કવિ 'ખાલી હાથ'ને પણ મૈત્રી અને હૃદયના ભાવથી ભરેલો કઈ રીતે બતાવે છે ?",
+  "explanation_unit": "કડી-વિભાજન છપાયેલું નથી, ટેક કે છાપ પણ નથી — સંબોધન અને ચિત્ર/ભાવના વળાંક પ્રમાણે ચાર ભાગમાં કાપ (Agent 2નો ન્યાયનિર્ણય; urmikavya_geet.md અને explanation_unit_map.md બંને આ જ ચેપ્ટરને નામ દઈને 'is cut on its turns of address or image' ઉદાહરણ તરીકે ટાંકે છે).",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "નિરંજન ભગતના ટૂંકા પરિચય અને કૃતિ-પરિચય પરથી, આ ઊર્મિકાવ્યમાં કવિ ધન, સત્તા અને કીર્તિને બદલે કેવળ મૈત્રીપૂર્ણ હાથ કેમ માગે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ 'લાવો તમારો હાથ મેળવીએ' કહી હાથ લંબાવે છે ત્યારે 'તમારા હાથમાં તો કેટલુંયે – ધન હશે, સત્તા હશે, કીર્તિ હશે...' કહીને કયો પ્રશ્ન ઊભો કરે છે તે તારવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": [
+        "M1.S2.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ ધન-સત્તા-કીર્તિનો અસ્વીકાર કરી 'ખાલી તમારો હાથ' માગ્યા પછી, 'આપણા આ બેય ખાલી હાથમાંયે કેટલું છે !' કહીને ખાલી હાથને કઈ રીતે સભર બતાવે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ 'આપણા આ હાથમાં ઉષ્મા અને થડકો' કહી, એના વડે 'પરસ્પરના હૃદયનો ભાવ ભેળવીએ' અને 'આપણા આ હાથ કેળવીએ' કહીને હાથ મેળવવાથી શું સધાય છે તે તારવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T4",
+      "anchor": [
+        "M1.S2.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ 'અજાણ્યા છો ? ભલે !' કહી અજાણી વ્યક્તિ સાથે પણ હાથ લંબાવવા તૈયાર થાય છે અને કાવ્યની શરૂઆતની પંક્તિ ફરી બોલે છે તે પરથી કવિના મૈત્રીભાવનું મૂલ્યાંકન કરવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M1.S2.T5",
+      "anchor": [
+        "M1.S2.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "હાથ મેળવીને હૃદય જોડવાની ઝંખના",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "કવિ અને કૃતિનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "નિરંજન ભગત અને 'હાથ મેળવીએ'નો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "નિરંજન ભગતનો કવિ-પરિચય અને 'હાથ મેળવીએ'નો કૃતિ-પરિચય"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "હાથ મેળવવાની ઝંખના",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "હાથ મેળવવાનું નિમંત્રણ અને તમારા હાથમાં શું છે એ પ્રશ્ન",
+              "topic_type": "POEM",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "હાથ મેળવવાનું નિમંત્રણ અને તમારા હાથમાં ધન-સત્તા-કીર્તિ હોવા અંગેનો પ્રશ્ન"
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "ધન-સત્તા-કીર્તિનો અસ્વીકાર અને ખાલી હાથની સભરતા",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M1.S2.T2"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "ધન-સત્તા-કીર્તિનો અસ્વીકાર અને 'ખાલી હાથમાંયે કેટલું છે' એ પલટો"
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T4",
+              "topic_name": "હાથમાં ઉષ્મા-થડકો અને હૃદયનો ભાવ ભેળવી હાથ કેળવવાની વાત",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S2.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T4.C4",
+                  "concept_name": "હાથમાં ઉષ્મા-થડકો, પરસ્પરના હૃદયનો ભાવ ભેળવવો અને હાથ કેળવવાની વાત"
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T5",
+              "topic_name": "અજાણ્યા સાથે પણ હાથ મેળવવાનું અને કાવ્યની વર્તુળાકાર સમાપ્તિ",
+              "topic_type": "POEM",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S2.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T5.C5",
+                  "concept_name": "અજાણ્યા સાથે પણ હાથ મેળવવાની તૈયારી અને કાવ્યની વર્તુળાકાર સમાપ્તિ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Genre/cut: 01_meta.json અને urmikavya_geet.md બંને પુષ્ટિ કરે છે કે આ ચેપ્ટરમાં કડી-વિભાજન, ટેક કે છાપ છપાયેલ નથી (structure_inventory: kadi 0, tek_occurrences 0, lines 16 — સળંગ એક જ [[કાવ્ય]] બ્લોક). urmikavya_geet.md પોતે આ જ ચેપ્ટરને નામ દઈને લખે છે: 'A poem printed with no કડી breaks at all ... std-10 ch 9 હાથ મેળવીએ is short free-flowing lines — is cut on its turns of address or image, and the cut is recorded in extraction_notes[] as a judgement, not presented as printed structure.' કટ અહીં એ જ સૂચના મુજબ, ચિત્ર/સંબોધનના ચાર વળાંક પર કરેલો ન્યાયનિર્ણય છે, છપાયેલ કડી-માળખું નથી.",
+    "Marker accounting for Agent 4 (page vs table disagreement, flagged per agents/02_structure.md's rule 'the page wins — and you say so in a note for Agent 4'): 00_chapter_normalized.md પ્રિન્ટ કરે છે [[કવિ-પરિચય]] [[કૃતિ-પરિચય]] [[કાવ્ય]] — ત્રણ non-exercise markers, ચાર [[સ્વાધ્યાય: ...]] markers અલગ (apparatus, ટોપિક નથી). [[કવિ-પરિચય]]+[[કૃતિ-પરિચય]] ભેગા મળીને 1 ટોપિક (M1.S1.T1) બને છે (નીચે નોંધ 2). [[કાવ્ય]] — એક જ marker — 4 ટોપિકમાં કપાયો છે (M1.S2.T2થી T5), કારણ કે એ marker ની અંદર કોઈ [[કડી]] પેટા-marker નથી છતાં કાવ્ય 16 પંક્તિનું છે અને પ્રોફાઇલ પોતે આ કાવ્યને judgement-cut તરીકે ટાંકે છે. કુલ: 3 non-exercise markers → 5 ટોપિક. આ 1-marker-1-topic ના સામાન્ય નિયમથી અલગ છે એ જાણી-જોઈને છે, પ્રોફાઇલના સ્પષ્ટ પ્રિસિડન્ટ મુજબ — Agent 4 એ આ નોંધ સામે ચકાસવું, marker-count સામે નહીં.",
+    "કવિ-પરિચય + કૃતિ-પરિચય એક જ ટોપિકમાં: profiles/students/std-10.md §1.4 અને 01_meta.json's genre_signals બંને પુષ્ટિ કરે છે કે std-10 ચેપ્ટર unlabeled લેખક-બાયો + કૃતિ-પરિચય ફકરો (વચ્ચે ફક્ત આડી લીટી, કોઈ મથાળું નહીં) છપાય છે. agents/02_structure.md ('Std 10's unlabelled કવિ/લેખક-પરિચય + કૃતિ-પરિચય paragraph ... is a CONCEPT topic' — એકવચન) મુજબ, અને output10/ch01, ch03, ch04ના પ્રિસિડન્ટ મુજબ, બંને markers M1.S1.T1 નામના એક જ CONCEPT ટોપિકમાં ભેગા છે.",
+    "ચાર-ભાગનો કાપ (T2-T5) કાવ્યની પોતાની સામગ્રી પરથી: T2 = 'લાવો તમારો હાથ મેળવીએ' થી 'શું શું નથી હોતું તમારા હાથમાં ?' સુધી (નિમંત્રણ + સામેની વ્યક્તિના હાથમાં ધન-સત્તા-કીર્તિ હોવા અંગેનો પ્રશ્ન); T3 = 'મારે કશાનું કામ ના' થી 'આપણા આ બેય ખાલી હાથમાંયે કેટલું છે !' સુધી (અસ્વીકાર + 'ખાલી' ને 'સભર'માં પલટતો કાવ્યનો કેન્દ્રીય વળાંક — ભાષા-અભિવ્યક્તિ બોક્સ પોતે નોંધે છે કે કવિએ પ્રશ્નો ગૂંથીને વાતચીતની શૈલી ઘડી છે, અને આ જ પ્રશ્ન-ઉત્તર બરાબર અહીં છે: 'ખાલી તમારો હાથ...' 'ખાલી તમારો હાથ ?' 'ના, ના, ...'); T4 = 'આપણા આ હાથમાં ઉષ્મા અને થડકો' થી 'આપણા આ હાથ કેળવીએ !' સુધી (એ 'કેટલું છે' શેમાં છે તેનું ચિત્ર — ઉષ્મા, થડકો, હૃદયનો ભાવ, સહિયારું કામ); T5 = 'અજાણ્યા છો ? ભલે !' થી અંતિમ પંક્તિ સુધી (અજાણી વ્યક્તિ તરફ સંબોધનનો નવો વળાંક અને શરૂઆતની પંક્તિનું લગભગ એ જ શબ્દોમાં પાછું આવવું — વર્તુળાકાર બંધ). કુલ 5+4+4+3=16 પંક્તિ, structure_inventory.lines સાથે બંધબેસે છે.",
+    "('છંદોલય'માંથી) એ કાવ્યના અંતે છપાયેલી સ્રોત-નિર્દેશની પંક્તિ છે, છાપ (poet-signature) નથી — આ ઊર્મિકાવ્યમાં કોઈ છાપ છપાયેલ નથી (genre_signals). output10/ch01 અને ch04ના પ્રિસિડન્ટ મુજબ, આ પંક્તિ છેલ્લા ટોપિક (M1.S2.T5)ના original_chunkની પૂંછડીમાં Agent 5 મૂકશે — અહીં નોંધ્યું જેથી એ સ્વતંત્ર ટોપિક ન બને કે પડતી ન મુકાય.",
+    "difficulty: M1.S1.T1 'easy' (પરિચય-ગદ્ય, ch01/ch03/ch04 પ્રિસિડન્ટ મુજબ). M1.S2.T3 એકલું 'hard' છે કારણ કે એ કાવ્યની અંદરની 'સંવાદ-શૈલી' (agents/02_structure.md ના std 9-10 hard-માપદંડ 'a સંવાદ carrying the argument's turn' અને ચેપ્ટરની પોતાની ભાષા-અભિવ્યક્તિ નોંધ 'કવિએ કેટલાક પ્રશ્નો ગૂંથી લઈ ... વાતચીતની શૈલીથી કાવ્ય આલેખ્યું છે' પ્રમાણે) બરાબર અહીં છે — 'ખાલી તમારો હાથ...' પ્રશ્ન-રૂપે પાછું આવે છે અને પછી નકાર-રૂપે જવાબ અપાય છે, જે L2 વાચકને રોકે એવો પલટો છે. બાકીના ત્રણ POEM ટોપિક 'medium' છે — તત્સમ-તળપદા મિશ્ર શબ્દભંડોળ (ઉષ્મા, થડકો, બિનઆવડત, કીર્તિ) જે શબ્દ-સમજૂતી બોક્સમાં ગ્લોસ થયેલ છે, પણ સીધું, એક-ચિત્ર-એક-વાક્ય માળખું ધરાવે છે. કોઈ પણ ટોપિકનું difficulty અલંકાર-લેબલ પરથી નક્કી નથી કરાયું, ફક્ત પાનું L2 વાચકને ક્યાં રોકે છે તેના પરથી.",
+    "topic_category: M1.S1.T1 'introduction' (પૂર્વ-વાચન). M1.S2.T2 'introduction' કારણ કે એ કાવ્યનું પોતાનું ઉદ્‌ઘાટન-સંબોધન છે. M1.S2.T3 'core' — કાવ્યનો કેન્દ્રીય તર્ક-પલટો (ધન-સત્તા-કીર્તિનો અસ્વીકાર, ખાલી હાથની સભરતા). M1.S2.T4 'climax' — કાવ્યનું સૌથી ઘનિષ્ઠ ચિત્ર-ભાવ (ઉષ્મા-થડકો-હૃદય-ભાવ-ભેળવણી), જ્યાં teaching_lens 'ચિત્ર + ભાવ' સૌથી વધુ કામ કરે છે. M1.S2.T5 'resolution' — અજાણ્યા તરફનું સંબોધન અને કાવ્યની વર્તુળાકાર સમાપ્તિ, છેલ્લો છપાયેલ ટોપિક.",
+    "depends_on: M1.S1.T1 = [] (ચેપ્ટરનું પૂર્વ-વાચન ઓપનર, પહેલાં કંઈ નથી). M1.S2.T2 = [] — કાવ્યની પ્રથમ વાચન-દૃશ્ય, પરિચય-ટોપિક પર structural રીતે નિર્ભર નથી (ch01/ch04 પ્રિસિડન્ટ મુજબ, વાચન-ક્રમની સહાયતા નહીં, ખરી પૂર્વશરત જ ગણાય છે). M1.S2.T3 = [M1.S2.T2] — અસ્વીકાર T2ના પ્રશ્ન ('શું મેળવી લેવું હશે... ધન-સત્તા-કીર્તિ')નો સીધો જવાબ છે, T2 વગર અધૂરો છે. M1.S2.T4 = [M1.S2.T3] — 'કેટલું છે' (T3ના અંતે)નું ચિત્ર T4 ખોલે છે. M1.S2.T5 = [M1.S2.T4] — 'અજાણ્યા છો ? ભલે !'નો સહકારભાવ T3-T4માં બંધાયેલી સહિયારાપણાની ભાવના પર જ ઊભો છે.",
+    "કોઈ અલંકાર કે છંદ label objective_text, topic_name, module_name, segment_name કે concept_nameમાં ક્યાંય મૂક્યું નથી. genre_signals પોતે નોંધે છે 'પ્રાસ-યોજના છપાયેલી નથી', અને profiles/students/std-10.md §1.4નો નિયમ ('name a છંદ or an અલંકાર only where the chapter's own printed apparatus names it') પ્રમાણે, આ ચેપ્ટરની પોતાની ભાષા-અભિવ્યક્તિ નોંધ ફક્ત 'વાતચીતની શૈલી' અને 'લાઘવની કરામત' (પ્રશ્નાર્થ-ઉદ્‌ગારવાળી પંક્તિઓની અસર) વર્ણવે છે, કોઈ ઔપચારિક અલંકાર-નામ આપતી નથી — એટલે અહીં પણ કોઈ દાવો કરાયો નથી. Naming/gating figures_of_speech Agent 5/7/13નું કામ છે, આ ફાઇલનું નહીં.",
+    "no_hallucination_policy.md અને urmikavya_geet.mdના avoid-gate ('Slogans... unless those exact words are quoted from this topic's original_chunk') મુજબ, કોઈ objective_text 'આપણે ... જોઈએ' પ્રકારનો ઉપદેશ-વાક્ય નથી બન્યો — objective_text કવિ શું કહે છે અને શા માટે કહે છે એનું વર્ણન કરે છે, બોધ-વાક્ય નથી બનાવ્યું, ભલે કાવ્યનો ભાવ (ધન-સત્તા-કીર્તિનો અસ્વીકાર) નૈતિક-શિખામણ તરફ ખેંચે તેવો લાગે.",
+    "[[શબ્દ-સમજૂતી]] (સમાનાર્થી + વિરુદ્ધાર્થી, ફક્ત આ બે બ્લોક), ચારેય [[સ્વાધ્યાય: ...]] બ્લોક, વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ અને શિક્ષકની ભૂમિકા — આમાંથી કોઈ પણ ટોપિક તરીકે કપાયું નથી; આ બધું 01_meta.json ના exercise_inventory અને extraction_notes માં પહેલેથી નોંધાયેલ છે અને Agent 10નું ક્ષેત્ર છે. ભાષા-અભિવ્યક્તિ બોક્સ ફક્ત difficulty-પુરાવા તરીકે ઉપર વપરાયું છે, ટોપિક તરીકે નહીં.",
+    "આ ચેપ્ટર બહુ ટૂંકું છે (એક જ 16-પંક્તિનું ઊર્મિકાવ્ય, 1 module, 2 segment, 5 ટોપિક) — under-cut નથી: પ્રોફાઇલ પ્રમાણે 'A poem printed with no કડી breaks' judgement-cut લે છે ત્યાં 4 ભાગ કુદરતી રીતે અલગ પડે છે (નિમંત્રણ-પ્રશ્ન, અસ્વીકાર-પલટો, ઉષ્મા-ભાવ, અજાણ્યા-સમાપ્તિ); એને 1 કે 2 ટોપિકમાં ભેગું કરવું 16 પંક્તિની અંદરની ચાર જુદી હિલચાલોને ભૂંસી નાખત. M1 એક જ module છે કારણ કે ચેપ્ટરમાં એક જ સળંગ ભાવ-ચળવળ છે, બીજું મોટું 'movement' નથી — ch01/ch04નો સિંગલ-મોડ્યુલ પ્રિસિડન્ટ અહીં પણ લાગુ પડે છે.",
+    "original_chunk દરેક ટોપિકમાં ખાલી રાખ્યું છે, આ agentના mandate પ્રમાણે ('original_chunk stays empty; Agent 5 fills it') — Agent 5 rendered pages પરથી ટ્રાન્સક્રાઇબ કરશે, ઉપરની marker-to-topic ફાળવણી અને ('છંદોલય'માંથી) સ્રોત-પંક્તિની પ્લેસમેન્ટ સાચવીને. concepts[] માં ફક્ત concept_name shell છે — key_terms/content Agent 12/7નું કામ છે."
+  ]
+}

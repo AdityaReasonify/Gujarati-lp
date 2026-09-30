@@ -1,0 +1,181 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation` states કાર્યદક્ષતા, સંગઠનક્ષમતા, સેવાપરાયણતા or સંવેદનશીલતા as an already-proven verdict on ત્રિભુવનદાસ પટેલ or ડૉ. વર્ગીસ કુરિયન. This topic's own `original_chunk` names these qualities only as a preview ('...પ્રતિભાના અનેક અંશો જેવા કે કાર્યદક્ષતા, સંગઠનક્ષમતા, સેવાપરાયણતા, સંવેદનશીલતા-માર્મિક પ્રસંગો દ્વારા ઉપસી આવે છે'), with no act attached anywhere in this chunk — `explanation` may name them only as qualities the chapter's coming પ્રસંગો will show, never as a settled conclusion.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક શરૂઆતના ફકરાના ગુણ-શબ્દો (કાર્યદક્ષતા, સંગઠનક્ષમતા વગેરે) વાંચીને એમ માની લે છે કે બંને વ્યક્તિ 'મહાન' હતા એ જ પાઠનો સાર છે, અને પછીના પ્રસંગો તરફ ધ્યાન આપ્યા વિના જ આ પરિચય-ફકરાને આખા ચરિત્રનો નિષ્કર્ષ ગણી લે છે.",
+      "correction": "explanation સ્પષ્ટ કરે કે આ ફકરો ફક્ત ઓળખાણ અને ચરિત્રનો હેતુ આપે છે — 'સ્વપ્નદૃષ્ટા' અને 'સ્વપ્નશિલ્પી' બે અલગ ભૂમિકા છે, અને ગુણો તો હવે પછીના પ્રસંગોમાં જ સાબિત થવાના છે; objective O1 મુજબ પહેલા વાક્યમાં જ ગુણનો ચુકાદો ન અપાય."
+    },
+    {
+      "topic_id": "M2.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "Every occurrence of `હું`/`મારો`/`મેં` in an authored field (from this topic's quoted memoir — `મારો વારો આવ્યો`, `મારા કાકાના દીકરા`, `મેં વાંચેલો`) stays inside quotation marks and is explicitly attributed to ત્રિભુવનદાસ પટેલ himself, never to the chapter's narrator or to writer રમેશચંદ્ર ડી. પંડ્યા — even though this topic's own `original_chunk` gives the quote with no attribution sentence inside it; that attribution ('...ત્રિભુવનદાસ પટેલના સ્વમુખે રજૂ થયેલ છે') is printed only at the start of the NEXT topic (M2.S3.T3).",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "આ ટોપિકનો પોતાનો original_chunk કોને 'હું' કહે છે તે જણાવ્યા વિના જ ટાંકેલો સંસ્મરણ-ખંડ શરૂ કરે છે (એ ઓળખ તો પછીના ટોપિકના પહેલા વાક્યમાં જ મળે છે), એટલે બાળક એમ ધારી લે કે આ 'હું' ચરિત્ર લખનારનું પોતાનું બાળપણ છે, અથવા ચરિત્રનો કથક પોતે બોલી રહ્યો છે.",
+      "correction": "explanation પહેલા જ વાક્યમાં કહે કે આ ત્રિભુવનદાસ પટેલના પોતાના શબ્દોમાં કહેવાયેલી શાળા-જીવનની યાદ છે, અને અવતરણચિહ્નો જાળવી રાખે — જેથી 'હું' ક્યારેય લેખક કે કથક સાથે ભળી ન જાય."
+    },
+    {
+      "topic_id": "M2.S3.T3",
+      "avoid_checks": [
+        {
+          "check": "The cooperative's name in any authored field matches exactly what THIS topic's own `original_chunk` prints — 'ખેડા દૂધ ઉત્પાદક સહકારી મંડળી લિમિટેડ' or 'ખેડા જિલ્લા દૂધ ઉત્પાદક સહકારી મંડળી લિમિટેડ' — never the different forms printed only in other topics ('ખેડા ડિસ્ટ્રિક્ટ મિલ્ક પ્રોડ્યુસર્સ યુનિયન લિમિટેડ' in M3.S4.T7, 'ખેડા જિલ્લા સહકારી દૂધ ઉત્પાદક મંડળી' in M3.S5.T8); the printed forms are not silently harmonized.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation` or recall `answer` reduces this topic to a bare year-list. Every year printed here (22-10-1903, 1930, 1940-41, 1940, 1950, 3 જૂન 1994) may appear, but only inside a પરિસ્થિતિ ('પોલસન' કંપનીનો ત્રાસ) → કૃત્ય (સહકારી મંડળીની સ્થાપના) → પરિણામ (કુરિયનનો સાથ, ડેરીનો વિકાસ) sequence, never as a bare chronology.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક આ ટોપિકને ફક્ત તારીખો અને સંસ્થાના નામોની યાદી તરીકે વાંચે છે — 1903, 1930, 1940, 1950 — અને 'પોલસન' કંપની ખેડૂતો પાસેથી ઓછા ભાવે દૂધ ખરીદી મુંબઈમાં ઊંચા ભાવે વેચતી હતી એ અન્યાય, અને એની સામે સહકારી મંડળી ઊભી કરવાનો નિર્ણય — આ કારણ-પરિણામની કડી ચૂકી જાય છે.",
+      "correction": "explanation પોલસનના ત્રાસને પહેલાં કહે, પછી ખેડૂતોએ ભેગા મળીને મંડળી ઊભી કરી એ કૃત્ય કહે, અને છેલ્લે કુરિયનનો સાથ મળતાં શું બદલાયું એ પરિણામ કહે — સંગઠનક્ષમતા શબ્દ વાપરવો હોય તો આ ક્રમ પછી જ આવે."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "If `explanation` states ત્રિભુવનદાસની સેવાભાવના/નિઃસ્વાર્થતા, that clause comes AFTER naming the printed act — સભ્યોએ ભેગી કરેલી થેલી-ભેટમાંથી પોતે અને પત્ની મણિબહેને 'ત્રિભુવનદાસ ફાઉન્ડેશન' શરૂ કરી, જે આજે 800+ ગામોને સેવા આપે છે — never as the explanation's opening sentence.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "The retirement-gift amount ('છ લાખ એંસી હજાર રૂપિયા'), award years (1964, 1971) and village count ('આઠસોથી પણ વધુ ગામ') appear in any authored field exactly as printed in this topic's `original_chunk`, never rounded or altered.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક નિવૃત્તિ વખતે મળેલી થેલી-ભેટને ત્રિભુવનદાસ માટેનું અંગત ઈનામ સમજી લે છે, અને ચૂકી જાય કે તેમણે એ આખી રકમ પોતાના માટે નહિ પણ 800થી વધુ ગામની સ્ત્રીઓ-બાળકોના સ્વાસ્થ્ય માટે ફાઉન્ડેશન શરૂ કરવામાં વાપરી.",
+      "correction": "explanation સ્પષ્ટ કરે કે થેલી-ભેટ સભ્યોએ ભેગી કરેલી ભેટ હતી, અને ત્રિભુવનદાસે એ પોતાના માટે નહિ પણ ફાઉન્ડેશન શરૂ કરવામાં વાપરી — એ પસંદગી જ તેમની સેવાભાવનાનો પુરાવો છે, ફક્ત એવોર્ડ-યાદી નહિ."
+    },
+    {
+      "topic_id": "M3.S4.T5",
+      "avoid_checks": [
+        {
+          "check": "`explanation`'s first sentence states the act (ટિસ્કોમાં એપ્રેન્ટિસશીપ છોડી દેવાનો નિર્ણય), never the quality (અડગ, ખુદારી) — the quality-clause, if used, comes only after the quoted line 'હું માત્ર ઉપરી અમલદારનો ભાણેજ જ રહ્યો છું, જે મને મંજૂર નથી' is given.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'યુવાન ઈજનેરને તે ન ગમ્યું' વાંચીને ધારી લે કે કુરિયનને ફક્ત નોકરી/કામ પસંદ ન હતું, અને 'તે' શબ્દ ખરેખર શાનો ઉલ્લેખ કરે છે — મામા ટાટા ઈન્ડસ્ટ્રીઝના ડાયરેક્ટર હોવાને લીધે પોતાને મળતી ખાસ ઓળખ — એ જોડાણ ચૂકી જાય છે, જેના લીધે અવતરણનો ખરો અર્થ સમજાતો નથી.",
+      "correction": "explanation 'તે' શબ્દને સ્પષ્ટ કરે — મામાના ડાયરેક્ટર-પદને લીધે પોતાની ઓળખ 'ભાણેજ' પૂરતી સીમિત થઈ જવી કુરિયનને ન ગમ્યું — અને પછી જ અવતરણને એ સાથે જોડે, જેથી ખુદારીનો અર્થ સ્પષ્ટ થાય."
+    },
+    {
+      "topic_id": "M3.S4.T6",
+      "avoid_checks": [
+        {
+          "check": "Any authored field naming કુરિયનની અનુસ્નાતક પદવીનો વિષય states 'ધાતુશાસ્ત્ર અને ન્યૂક્લિયર ફિઝિક્સ' (as this topic's own `original_chunk` prints: 'અનુસ્નાતકની પદવી તો તેમણે ધાતુશાસ્ત્ર અને ન્યૂક્લિયર ફિઝિક્સના વિષયોમાં ડિસ્ટિંક્શન સાથે પાસ કરી'), never 'ડેરી એન્જિનિયરિંગ' — that phrase names only the scholarship-required coursework, not the degree actually earned.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'તેમની ડેરી એન્જિનિયરિંગના વિષયમાં પસંદગી થઈ' વાંચીને એમ માની લે કે કુરિયને દૂધ-નિષ્ણાત બનવા માટે જ ભણતર કર્યું, અને ચૂકી જાય કે તેમની ઇચ્છા ધાતુશાસ્ત્ર-ન્યૂક્લિયર ફિઝિક્સની હતી; ડેરી એન્જિનિયરિંગ તો સ્કોલરશીપની શરત તરીકે આવેલો રસ્તો હતો, ને એમાંથી જ અકસ્માતે તેઓ ભારતના દૂધ-પુરુષ બન્યા.",
+      "correction": "explanation ક્રમ જાળવે: પહેલાં ધાતુશાસ્ત્ર-ન્યૂક્લિયર ફિઝિક્સની ઇચ્છા, પછી સ્કોલરશીપની શરત તરીકે ડેરી એન્જિનિયરિંગના કોર્સ, અને છેલ્લે અનુસ્નાતક પદવી ધાતુશાસ્ત્ર-ન્યૂક્લિયર ફિઝિક્સમાં જ મળી — જેથી બાળકને આ વિરોધાભાસ દેખાય, ફ્લેટ ન થાય."
+    },
+    {
+      "topic_id": "M3.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "No authored field adds an unstated feeling to કુરિયન beyond the one exact printed interior quote ('વર્ગીસને એક દિવસ વિચાર આવ્યો, `હું અહીં કંઈ કરતો નથી. મારે કંઈક કરવું તો જોઈએ જ.`') — no ડર, ગુસ્સો કે નિરાશા-શબ્દ that is not this quote itself.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "The institution name here ('ખેડા ડિસ્ટ્રિક્ટ મિલ્ક પ્રોડ્યુસર્સ યુનિયન લિમિટેડ') is kept exactly as printed in THIS topic's own `original_chunk`, never swapped for the name M2.S3.T3 uses for the same body.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'આણંદમાં નિરાશા' અને 'ત્રિભુવનદાસ સાથે મુલાકાત' ને બે અલગ-અલગ, ન જોડાયેલી હકીકતો તરીકે વાંચે છે, અને ચૂકી જાય કે આ મુલાકાત જ કુરિયનની નિરાશાને ઉકેલતો વળાંક છે.",
+      "correction": "explanation એક જ ચાપમાં લખાય — પહેલાં નિરાશા (આઠ મહિનાથી ઉત્સાહ નહોતો), પછી ત્રિભુવનદાસ સાથે મુલાકાત જે એ નિરાશાને વળાંક આપે છે — objective O7 મુજબ, બે અલગ ફકરા તરીકે નહિ."
+    },
+    {
+      "topic_id": "M3.S5.T8",
+      "avoid_checks": [
+        {
+          "check": "No authored field states a blanket 'કુરિયને ક્યારેય પગાર ન લીધો' — this topic's own `original_chunk` distinguishes three separate roles: એન.ડી.ડી.બી. ચેરમેન (33 વર્ષ, પગાર નહિ), ગુજરાત કો-ઓપરેટિવ મિલ્ક માર્કેટિંગ ફેડરેશન ચેરમેન (વધુમાં વધુ માસિક પાંચ હજાર રૂપિયા પગાર), and 60 વર્ષ પછીનાં ચોવીસ વર્ષ (ફરી પગાર વિના). Any field naming a salary/no-salary fact names WHICH role it is about.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'પગાર ન લીધો' ને એક જ સીધી હકીકત ગણી લે છે અને ચૂકી જાય કે કુરિયન એક હોદ્દા (ફેડરેશન) પર માસિક પાંચ હજાર રૂપિયા સુધીનો પગાર લેતા હતા, જ્યારે બીજા હોદ્દા (એન.ડી.ડી.બી.) પર 33 વર્ષ કોઈ પગાર ન લીધો — બંને હકીકતોને ભેગી કરીને એક ફ્લેટ દાવો બનાવી દે છે.",
+      "correction": "explanation અલગ-અલગ હોદ્દા અલગ કહે — એન.ડી.ડી.બી.ના 33 વર્ષ પગાર વિના, ફેડરેશનમાં મર્યાદિત પગાર, ને 60 પછીનાં 24 વર્ષ ફરી પગાર વિના — જેથી ચોકસાઈ જળવાય અને છતાં તેમની ત્યાગવૃત્તિ સ્પષ્ટ દેખાય."
+    },
+    {
+      "topic_id": "M3.S6.T9",
+      "avoid_checks": [
+        {
+          "check": "No authored field attributes an unstated feeling to કુરિયન at the moment he saw the employee (ગુસ્સો, દયા, નિરાશા) — only his printed action ('કુરિયન કશું કહ્યા વિના પાછા ફરી ગયા') may be stated; the employee's fear ('હવે નોકરી જશે જ !') stays quoted and attributed only to the કર્મચારી.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક આ પ્રસંગને 'કુરિયને એક ચોરી કરતા કર્મચારીને માફ કરી દીધો' એવી માફી/દયાની વાર્તા તરીકે વાંચે છે, અને ચૂકી જાય કે કુરિયને ખરેખર શું કર્યું — દરેક કર્મચારીને અડધો લિટર દૂધ આપવાની કાયમી સૂચના આપીને આખી વ્યવસ્થાની અન્યાયી ખામી સુધારી.",
+      "correction": "explanation એ કહે કે કુરિયનનું ખરું કૃત્ય માફ કરવું નહિ પણ બીજા દિવસે આપેલી કાયમી સૂચના (અડધો લિટર દૂધ દરેકને) હતું — એ સૂચના જ ન્યાયપ્રિયતા બતાવે છે, ફક્ત મૌન કે માફી નહિ."
+    },
+    {
+      "topic_id": "M3.S6.T10",
+      "avoid_checks": [
+        {
+          "check": "Any authored field naming the film's budget keeps this topic's own approximate wording ('દસેક લાખ રૂપિયા') rather than asserting an exact sum — the `original_chunk` states an estimate, not a precise figure.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ₹1 ના ટોકનની વાતને ફિલ્મના બજેટ વિશેની એક નાની, અલગ વિગત ગણી લે છે, અને ચૂકી જાય કે આ ટોકન-ભેગું કરવાની રીત પોતે જ સહકારી-સિદ્ધાંતનું નાના પાયે ઉદાહરણ છે — ઘણા નાના ફાળા ભેગા મળીને મોટું કામ ઊભું કરે છે, જે આખા ચરિત્રનો મુદ્દો છે.",
+      "correction": "explanation એ જોડાણ સ્પષ્ટ કરે — ગામેગામથી એક-એક રૂપિયો ભેગો કરવો એ જ સહકારી મંડળીના સિદ્ધાંતનું નાનું સ્વરૂપ છે, ફિલ્મ-નિર્માણની અલગ, અસંબંધિત વિગત નહિ."
+    },
+    {
+      "topic_id": "M3.S7.T11",
+      "avoid_checks": [
+        {
+          "check": "Numbers and dates used in any authored field for this topic (પંદર માનદ્ પદવીઓ, એકાવનથી પણ વધુ પુસ્તકો, 94મો જન્મદિવસ, તા. 9-9-2012, 26 નવેમ્બર, પચાસથી પણ વધુ દેશો, વર્ષ 2015-16) match exactly what THIS topic's own `original_chunk` prints — none borrowed, rounded, or transferred from another topic's numbers (દા.ત. કુરિયનની 33 વર્ષની એન.ડી.ડી.બી. સેવા, જે M3.S5.T8 માં છે, અહીં નહિ).",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No authored field states or implies personal friendship between કુરિયન and the named leaders (સરદાર વલ્લભભાઈ પટેલ, જવાહરલાલ નહેરુ, લાલબહાદુર શાસ્ત્રી, મોરારજીભાઈ દેસાઈ, મણિબહેન પટેલ, ઈન્દિરા ગાંધી, એમ. એચ. પટેલ, ત્રિભુવનદાસ પટેલ) — this topic's own `original_chunk` states only that he 'કુનેહપૂર્વક... સંસ્થાનાં વિકાસલક્ષી કાર્યોમાં સહકાર મેળવ્યો', never personal closeness or political alliance.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક રાજકારણીઓ-નેતાઓની લાંબી નામ-યાદી વાંચીને એમ સમજી લે કે કુરિયન એ બધા સાથે અંગત મિત્રતા કે રાજકીય જોડાણ ધરાવતા હતા, જ્યારે પાઠ ફક્ત એટલું જ કહે છે કે તેમણે સંસ્થાના વિકાસકાર્યો માટે તેમનો સહકાર કુનેહપૂર્વક મેળવ્યો હતો.",
+      "correction": "explanation નામ-યાદીને સંસ્થાકીય સહકાર તરીકે જ રજૂ કરે — 'સહકાર મેળવ્યો' શબ્દ જ વાપરે, અંગત મિત્રતા કે રાજકારણનો કોઈ દાવો ઉમેરે નહિ."
+    },
+    {
+      "topic_id": "M3.S7.T12",
+      "avoid_checks": [
+        {
+          "check": "The 'મારું સ્વપ્ન' message is presented as a verbatim quotation from કુરિયનની આત્મકથા (with quotation marks), never restated as the plan's own appended બોધ; no authored field adds a further closing appeal ('આપણે પણ ... જોઈએ') beyond what this topic's `original_chunk` itself prints.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        },
+        {
+          "check": "No authored field states or implies that writer રમેશચંદ્ર ડી. પંડ્યા witnessed, met, accompanied or spoke with ડૉ. કુરિયન — the chunk's closing '(આલેખન : રમેશચંદ્ર ડી. પંડ્યા)' says only that he composed/wrote up the piece.",
+          "profile": "charitra_prasang",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક આ છેલ્લા સંદેશને એક સામાન્ય, ગમે તે ચરિત્રને છેડે લખી શકાય એવી 'મહેનત કરો, સફળ થાઓ' પ્રકારની સલાહ ગણી લે છે, અને ચૂકી જાય કે આ કુરિયનના પોતાના જીવનના ચોક્કસ નિર્ણયો (ટિસ્કોની નોકરી છોડવી, પગાર ન લેવો) સાથે સીધો જોડાયેલો, તેમના પોતાના પુસ્તકમાંથી ટાંકેલો સંદેશ છે.",
+      "correction": "explanation આ સંદેશને કુરિયનના પોતાના પુસ્તક 'મારું સ્વપ્ન' સાથે અને પાઠમાં પહેલાં દેખાયેલા તેમના પોતાના અવરોધ-પાર કરવાના નિર્ણય (જેમ કે ટિસ્કો છોડવો) સાથે જોડે, જેથી તે સામાન્ય સલાહ ન લાગે."
+    }
+  ],
+  "chapter_level": [
+    "એક જ સંસ્થા ચાર અલગ-અલગ છપાયેલાં નામે ઓળખાય છે ('ખેડા દૂધ ઉત્પાદક સહકારી મંડળી લિમિટેડ', 'ખેડા જિલ્લા દૂધ ઉત્પાદક સહકારી મંડળી લિમિટેડ', 'ખેડા ડિસ્ટ્રિક્ટ મિલ્ક પ્રોડ્યુસર્સ યુનિયન લિમિટેડ', 'ખેડા જિલ્લા સહકારી દૂધ ઉત્પાદક મંડળી') — દરેક ટોપિક પોતાના original_chunk નું જ નામ વાપરે, કોઈ એક 'સાચું' નામ પસંદ કરીને બાકીનાં સુધારે નહિ; જ્યાં જરૂરી લાગે ત્યાં explanation સ્પષ્ટ કરી શકે કે આ એક જ સંસ્થા છે, જેથી બાળકને ચાર જુદી સંસ્થાઓ હોવાનો ભ્રમ ન થાય.",
+    "ત્રિભુવનદાસ (3 ટોપિક) અને કુરિયન (8 ટોપિક) વચ્ચેની ટોપિક-સંખ્યાની અસમાનતા પાનાનું પોતાનું અસમાન વિભાજન છે, કોઈ કટની ભૂલ નથી — પણ કોઈ પણ ટોપિકનું explanation એવું ન સૂચવે કે કુરિયન 'મુખ્ય' હીરો હતા અને ત્રિભુવનદાસ ગૌણ; M1.S1.T1 ની 'સ્વપ્નદૃષ્ટા'/'સ્વપ્નશિલ્પી' બંનેની સમાન-ભાગીદારીની ફ્રેમ દરેક ટોપિકમાં જળવાય.",
+    "બંને વ્યક્તિનું છપાયેલ મૃત્યુ-વયનું આંકડું ('91 વર્ષની વયે', બંને માટે) સામાન્ય ગણતરીથી 90 આવે છે (ઑક્ટોબર જન્મ-તારીખ મૃત્યુ-તારીખ સુધીમાં આવી નથી) — આ પાઠનું પોતાનું છપાયેલ આંકડું છે; કોઈ પણ authored field એને ગણતરી કરીને 90 માં સુધારે નહિ.",
+    "કુરિયનનાં પોતાનાં લગ્ન/પત્ની/સંતાનો વિશે આખા પ્રકરણમાં ક્યાંય કંઈ છપાયું નથી (ફક્ત તેમનાં માતા-પિતા અને ભાઈ-બહેન — જન્મ-કુટુંબ — છપાયાં છે); કોઈ પણ authored field કુરિયનના અંગત/વૈવાહિક જીવન વિશે કંઈ ઉમેરે નહિ. (ત્રિભુવનદાસ માટે ફક્ત પત્નીનું નામ 'મણિબહેન' M2.S3.T4 માં છપાયું છે — એટલું જ.)",
+    "આખું પ્રકરણ ગદ્ય ચરિત્ર-પ્રસંગ/રેખાચિત્ર છે — બારેય ટોપિકમાં rhyme_scheme null અને figures_of_speech [] જ સાચો જવાબ છે; ક્યાંય કડી, પ્રાસ કે છંદ નથી.",
+    "કોઈ પણ ટોપિકના 'હું'/'મેં'/'મારા' ધરાવતા અવતરણ (M2.S2.T2, M3.S4.T5, M3.S4.T7, M3.S6.T9) ને લેખક રમેશચંદ્ર ડી. પંડ્યાના પોતાના સાક્ષી-ભાવ તરીકે ન લેવાય — તેઓ ફક્ત 'આલેખન' (લખાણ ઘડનાર) છે; પ્રકરણમાં ક્યાંય એવું છપાયું નથી કે તેમણે ત્રિભુવનદાસ કે કુરિયનને મળ્યા, જોયા કે તેમની સાથે કામ કર્યું."
+  ]
+}

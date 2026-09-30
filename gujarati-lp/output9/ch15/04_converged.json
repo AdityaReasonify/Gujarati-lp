@@ -1,0 +1,520 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch15",
+  "genre": "nibandh_atmaparak",
+  "genre_subform": "સંસ્મરણ / આત્મકથાખંડ",
+  "active_genre_profiles": ["nibandh_atmaparak.md"],
+  "explanation_unit": "એક ઘટના (એક પ્રસંગ)",
+  "teaching_lens": "સ્વર + પ્રસંગ + પોતાની જાત પરની નજર",
+  "guiding_question": "કુતમ્માની આખી રાતની વાતો સાંભળ્યા પછી લેખિકા પોતે ભણતરના 'સાચા સોના' વિશે શું સમજે છે, અને એ સમજ તેમને પોતાનાં બા કેમ યાદ અપાવે છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખિકા સુધા મૂર્તિના જન્મસ્થળ, તેમના શિક્ષણ, તેમની કૃતિઓ અને તેમને મળેલા સન્માન વિશે લેખક-પરિચયમાં અપાયેલી હકીકતો શોધીને કહેવી.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કૃતિ-પરિચયના આધારે કુતમ્મા ઐયપ્પાને કેમ ભણાવે છે અને ઐયપ્પા છેવટે પોતાની માતાની ઇચ્છા કઈ રીતે પૂરી કરે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": ["M1.S1.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગામડાંમાં અતિથિ-સત્કારની ભાવના શહેર કરતાં કેમ વધારે મજબૂત હોય છે તે લેખિકાના પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": ["M2.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શાળાના મુખ્ય શિક્ષકે લેખિકાને ઐયપ્પાના ઘરે રોકાવાની વિનંતી કયા કારણોસર કરી તે ક્રમમાં કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": ["M2.S2.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખિકાને અજાણ્યા કુટુંબ સાથે રાત રહેવાનું કેવું લાગ્યું અને શ્રી ઐયપ્પા તેમને લેવા કઈ સ્થિતિમાં આવ્યા તે વર્ણવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T5",
+      "anchor": ["M2.S2.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઐયપ્પાનું ઘર બહારથી કેવું સાદું અને અંદરથી કેવું સગવડવાળું હતું તે ઘરના જુદા જુદા ભાગોનું વર્ણન કરીને કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": ["M2.S3.T6.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ભોજન સમયે વાનગીઓનું વૈવિધ્ય જોઈને લેખિકાને પોતાનાં બા શા માટે યાદ આવ્યાં તે કારણ સાથે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T7",
+      "anchor": ["M2.S3.T7.C7"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કુતમ્માએ લેખિકાને પોતાની સાથે સૂવા કેમ કહ્યું અને એ આમંત્રણ પરથી બંને વચ્ચે કેવો સ્નેહ-સંબંધ બંધાયો તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S4.T8",
+      "anchor": ["M3.S4.T8.C8"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કુતમ્માએ પોતાની ગરીબી અને નાની ઉંમરે થયેલાં લગ્નની વાત કરતાં ઐયપ્પાને ભણાવવાની કઈ ગાંઠ મનમાં વાળી હતી તે તેમના જ શબ્દોમાં કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M3.S4.T9",
+      "anchor": ["M3.S4.T9.C9"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O10",
+      "legacy_id": "L10",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઐયપ્પાને સાપ કરડ્યા પછીની સ્થિતિમાં કુતમ્માએ પોતાના પતિને કયું વચન આપ્યું અને એ વચનનો શો અર્થ થાય તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S4.T10",
+      "anchor": ["M3.S4.T10.C10"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O11",
+      "legacy_id": "L11",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઐયપ્પાએ મુંબઈમાં નાનું કામ કરતાં કરતાં કયા ક્રમમાં ભણતર પૂરું કરી પોતાનો ધંધો ઊભો કર્યો તે ક્રમમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S5.T11",
+      "anchor": ["M3.S5.T11.C11"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O12",
+      "legacy_id": "L12",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઐયપ્પા મુંબઈની હોટેલો છોડી ગામડે કેમ પાછા આવ્યા અને દાદાનો શ્લોક કુતમ્માની આ ઇચ્છાને કઈ રીતે સમર્થન આપે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T12",
+      "anchor": ["M3.S5.T12.C12"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O13",
+      "legacy_id": "L13",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પોતાની માતાના ત્યાગનો આભાર માનતાં ઐયપ્પાએ કયાં વાક્યોમાં ગમે તેટલા દાગીના ઘડાવવાનું કહ્યું તે ટાંકીને કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M4.S6.T13",
+      "anchor": ["M4.S6.T13.C13"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O14",
+      "legacy_id": "L14",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કુતમ્માએ 'સો ટચનું સોનું' કોને ગણાવ્યું અને દાગીનાને બદલે દીકરાને શું કરવાનું કહ્યું તે તેમના જ શબ્દોમાં કહી, એનું કારણ સમજાવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M4.S6.T14",
+      "anchor": ["M4.S6.T14.C14"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O15",
+      "legacy_id": "L15",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કુતમ્માના મોં પરના આનંદ પરથી લેખિકા છેવટે ભણેલી સ્ત્રી અને પોતાના કુટુંબ વિશે શું તારણ કાઢે છે તે તેમના જ છેલ્લા વાક્ય પરથી કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M4.S7.T15",
+      "anchor": ["M4.S7.T15.C15"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1", "L2": "O2", "L3": "O3", "L4": "O4", "L5": "O5",
+    "L6": "O6", "L7": "O7", "L8": "O8", "L9": "O9", "L10": "O10",
+    "L11": "O11", "L12": "O12", "L13": "O13", "L14": "O14", "L15": "O15"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "લેખિકા અને કૃતિનો પરિચય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "સુધા મૂર્તિ અને કૃતિનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "લેખિકા સુધા મૂર્તિનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "સુધા મૂર્તિનો જન્મ, શિક્ષણ અને સાહિત્યિક પ્રદાન"
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "કૃતિ-પરિચય : કુતમ્મા અને ઐયપ્પાની વાત",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "કુતમ્મા-ઐયપ્પાની ભણતર અને 'સો ટચનું સોનું'ની વાર્તા"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "ગામડાનું અતિથ્ય અને ઐયપ્પાના ઘરે રાત્રિ-નિવાસ",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ગામમાં આગમન અને ઐયપ્પાના ઘરે પ્રયાણ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "ગામડાંમાં અતિથિ-સત્કારની ભાવના વિશે લેખિકાનો વિચાર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "ગામડાંમાં અતિથિ-સત્કારની સાચી ભાવના"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "ગામમાં આગમન અને શાળાના મુખ્ય શિક્ષકની વિનંતી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C4",
+                  "concept_name": "કનારા જિલ્લાના ગામમાં આગમન અને મુખ્ય શિક્ષકની વિનંતી"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T5",
+              "topic_name": "ઐયપ્પાના ઘરે પ્રયાણ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T5.C5",
+                  "concept_name": "શ્રી ઐયપ્પા છત્રી-લુંગી સાથે લેવા આવ્યા"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "ઐયપ્પાનું ઘર અને ભોજન",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "ઐયપ્પાના ઘરનું વર્ણન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C6",
+                  "concept_name": "ઐયપ્પાના સાદા છતાં સગવડવાળા ઘરનું વર્ણન"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T7",
+              "topic_name": "ઐયપ્પાનાં પત્ની અને ભોજનની તૈયારી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O7"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T7.C7",
+                  "concept_name": "ઐયપ્પાનાં પત્નીનું સ્વાગત, ભોજન અને લેખિકાને પોતાનાં બા યાદ આવવાં"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "કુતમ્માની પોતાની વાત અને ઐયપ્પાની ચઢતી",
+      "segments": [
+        {
+          "segment_id": "M3.S4",
+          "segment_name": "રાત્રે કુતમ્માની ગરીબી અને પ્રતિજ્ઞાની વાત",
+          "topics": [
+            {
+              "topic_id": "M3.S4.T8",
+              "topic_name": "રાત્રે કુતમ્મા સાથે વાતચીતની શરૂઆત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O8"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T8.C8",
+                  "concept_name": "કુતમ્મા સાથે સૂવા જવું અને વાતોની શરૂઆત"
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S4.T9",
+              "topic_name": "કુતમ્માની ગરીબી અને ભણાવવાની પ્રતિજ્ઞા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M3.S4.T8"],
+              "objective_ids": ["O9"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T9.C9",
+                  "concept_name": "કુતમ્માની ગરીબી, નાની ઉંમરે લગ્ન અને ભણાવવાની ગાંઠ"
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S4.T10",
+              "topic_name": "ઐયપ્પાને સાપ કરડવો અને કુતમ્માની પ્રતિજ્ઞા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M3.S4.T9"],
+              "objective_ids": ["O10"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T10.C10",
+                  "concept_name": "ઐયપ્પાને સાપ કરડવો અને કુતમ્માનું વચન"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "ઐયપ્પાની ચઢતી અને ગામમાં પુનરાગમન",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T11",
+              "topic_name": "ઐયપ્પાનું મુંબઈગમન અને ઘડતર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M3.S4.T10"],
+              "objective_ids": ["O11"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T11.C11",
+                  "concept_name": "ઐયપ્પાનું મુંબઈગમન, નોકરી અને રાત્રિશાળાનું ભણતર"
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S5.T12",
+              "topic_name": "ઐયપ્પાનું ગામમાં પુનરાગમન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": ["M3.S5.T11"],
+              "objective_ids": ["O12"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T12.C12",
+                  "concept_name": "ઐયપ્પાનું ગામમાં પુનરાગમન અને દાદાનો શ્લોક"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M4",
+      "module_name": "સાચા સોનાનો સંદેશ અને વિદાય",
+      "segments": [
+        {
+          "segment_id": "M4.S6",
+          "segment_name": "દાગીનાની ઑફર અને કુતમ્માનો ઉત્તર",
+          "topics": [
+            {
+              "topic_id": "M4.S6.T13",
+              "topic_name": "દીકરાની ઉદારતા અને દાગીનાની વાત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O13"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M4.S6.T13.C13",
+                  "concept_name": "ઐયપ્પાનો આભાર અને દાગીના ઘડાવવાની ઑફર"
+                }
+              ]
+            },
+            {
+              "topic_id": "M4.S6.T14",
+              "topic_name": "કુતમ્માનો ઉત્તર અને ભણતરનો સંદેશ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M4.S6.T13"],
+              "objective_ids": ["O14"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M4.S6.T14.C14",
+                  "concept_name": "કુતમ્માનો ઉત્તર : ભણતર જ સો ટચનું સોનું"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M4.S7",
+          "segment_name": "લેખિકાની વિદાય",
+          "topics": [
+            {
+              "topic_id": "M4.S7.T15",
+              "topic_name": "લેખિકાની વિદાય અને ઉપસંહાર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O15"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M4.S7.T15.C15",
+                  "concept_name": "કુતમ્માનો આનંદ અને લેખિકાનું તારણ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Marker count check: 00_chapter_normalized.md carries exactly 13 [[ઘટના: ...]] markers plus [[લેખક-પરિચય]] and [[કૃતિ-પરિચય]] = 15 markers, cut one-to-one into 15 topics. This matches 01_meta.json's structure_inventory.ghatna=13 exactly — no page-vs-meta mismatch to flag for Agent 4 in this chapter.",
+    "[[લેખક-પરિચય]] and [[કૃતિ-પરિચય]] are printed as two separate marker blocks (unlike std-10's single unlabelled combined paragraph that explanation_unit_map.md describes) and are cut as two separate CONCEPT topics, one marker one topic, per that file's own rule and 02_structure.md §1's 'One marker, one topic.'",
+    "topic_category 'climax' is never used anywhere in this chapter, per nibandh_atmaparak.md Avoid-gate #2 ('these chapters have પ્રસંગ, not પ્લોટ'). M4.S6.T14 (કુતમ્માનો ઉત્તર), the thematic peak carrying the chapter's title-line 'સો ટચનું સોનું - ઘરેણું તો એક જ છે : ભણતર', is tagged 'core' like its neighbours, not 'climax'.",
+    "Difficulty is set by dialect/register load for this L2 std-9 reader, per nibandh_atmaparak.md's own Language section (which names this chapter's Saurashtra-flavoured તળપદું as its central L2 difficulty signal) and profiles/students/std-9.md's difficulty table. M3.S4.T9 (બૌંવ, નોં, મૂઈ) and M3.S4.T10 (મે'નત, વરહ, એરુ, ચિંત્યા) are marked hard for dialect density; M3.S5.T12 is marked hard for the Sanskrit-તત્સમ શ્લોક line ('જનની જન્મભૂમિશ્ચ, સ્વર્ગાદપિ ગરિયસી') — matching the generic std 9-10 'medieval or તત્સમ-dense line' hard criterion. No topic is marked hard for craft-naming; this chapter's ભાષા-અભિવ્યક્તિ apparatus names devices but that apparatus is not chapter content and is not the basis for difficulty.",
+    "depends_on is set only where a topic is literally the direct answer/reaction to a quoted question or statement inside its immediate predecessor within the SAME continuing night conversation: M3.S4.T9 answers the question posed at the end of M3.S4.T8 ('તમે તો એ જમાનામાં ભણેલાં હો તેવું લાગે છે'); M3.S4.T10 continues straight from M3.S4.T9's family-planning vow into the snake-bite vow; M3.S5.T11 continues 'બા સહેજ સ્વસ્થ થઈને કહે' straight from M3.S4.T10; M3.S5.T12's question 'તો બા, ઐયપ્પા અહીં ગામડે કેમ રહે છે?' only makes sense once M3.S5.T11 has established his Mumbai success; M4.S6.T14 is Kutamma's own spoken reply to the offer Aiyappa makes inside M4.S6.T13. All other topics are left [] per the spec's 'real dependence only, [] is the normal, correct value' rule — the arrival/house/meal chain (M2.S2.T3-T5, M2.S3.T6-T7) is scene-to-scene sequence, not question-answer dependence, matching output9/ch02's sparing use of depends_on inside one continuous ઘટના chain.",
+    "Closing-gesture flag for Agent 5: the chapter's last sentence ('સો વાતની એક વાત - ભણેલી કે ગણેલી સો ટચના સોના જેવી સ્ત્રી જે કુટુંબમાં હોય, તે આખા ગામને દીપાવે.') and the right-aligned translator credit line 'અનુવાદક : સોનલ મોદી' printed immediately after it must both sit inside M4.S7.T15's original_chunk (the LAST topic), per nibandh_atmaparak.md's closing-gesture/credits rule and 01_meta.json's own extraction_notes on the translator credit.",
+    "Apparatus/exercise exclusion: [[શબ્દ-સમજૂતી]], the three [[સ્વાધ્યાય: ...]] blocks (MCQ, બે-ત્રણ વાક્યમાં, સવિસ્તાર ઉત્તર), [[વિદ્યાર્થી-પ્રવૃત્તિ]], [[ભાષા-અભિવ્યક્તિ]] and [[શિક્ષકની ભૂમિકા]] are apparatus/exercise matter — none cut as topics; all remain for Agent 10's exercise_inventory work and for key_terms/ભાષા-બોધ sourcing, per global_content_rules.md rule 7 and explanation_unit_map.md's apparatus rule.",
+    "Forward note for Agent 12 (craft, not built into any objective_text here): the chapter's own printed [[ભાષા-અભિવ્યક્તિ]] apparatus names the translator's વર્ણાનુપ્રાસ pairs 'નાનકડા, રૂપકડા' (inside M2.S2.T4's original_chunk: 'એક નાનકડા, રૂપકડા ગામે'), 'શીળું સ્મિત' (inside M3.S5.T12's original_chunk), and 'ભાવુક, ભદ્ર સન્નારી' / 'વિવિધ વ્યંજનો' (inside M2.S3.T7's original_chunk) — nibandh_atmaparak.md's Emphasise section names these as this chapter's own sentence-craft, to be named 'once, where it works.' Objectives here stay on the literary/self-reflection lens (સ્વર + પ્રસંગ + પોતાની જાત પરની નજર); the craft point is available for Agent 12's explanation without turning any topic into a vocabulary list.",
+    "First-person voice flag for Agent 12/13 (nibandh_atmaparak.md avoid-gate #1): every topic from M2.S2.T3 onward carries the narrator's own first-person forms (હું, મેં, મને, મારાં) throughout the night-visit narration; M1.S1.T1-T2 are third-person apparatus about the author/book and are exempt. Agent 12 must name લેખિકા (or 'સુધા મૂર્તિ') as the grammatical subject of at least the first sentence of every narrative topic's explanation.",
+    "Real-named-person flag (avoid-gate #8): કુતમ્મા and ઐયપ્પા are real named people per the chapter's own કૃતિ-પરિચય; no thought, feeling or motive may be attributed to them beyond what M3.S4.T8-T10, M3.S5.T11-T12 and M4.S6.T13-T14 actually print in their quoted speech — especially Kutamma's inner resolve, which the chapter narrates only through her own words, never through an added feeling-statement.",
+    "Dialect verbatim flag (avoid-gate #7): 'બૌંવ', 'નોં', 'મૂઈ' (M3.S4.T9), 'ટેમ' (M4.S6.T14), and the book's own glossed તળપદા set મે'નત/વરહ/ડિલ/એરુ/ચિંત્યા (mainly M3.S4.T10) must appear unmodified wherever quoted in original_chunk; no field may offer a 'સાચું રૂપ' correction of these printed forms.",
+    "Sensitivity flag: કુતમ્માની ગરીબી અને ખોરડું (M3.S4.T9-T10) must be taught in the chapter's own dignity register — no બિચારાં / ગરીબ-બિચારી framing — per nibandh_atmaparak.md's Sensitivity section and global_content_rules.md rule 10.",
+    "All objective_text entries are Bloom-Capitalised per phase2_contract.md; none names અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર — this chapter is prose and the craft points noted above are left for Agent 12's explanation, not named in any objective.",
+    "Module and segment names are descriptive Gujarati and carry no digits, per global_content_rules.md rule 4. Segment sizes are uneven by design (2/3/2/3/2/2/1 topics) — following the night's own natural movements (intro; arrival+house+meal; Kutamma's own story; Aiyappa's rise+return; the gold message; farewell), not an even split; flagged for Agent 13's read of pacing."
+  ]
+}

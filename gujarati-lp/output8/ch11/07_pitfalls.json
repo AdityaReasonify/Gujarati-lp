@@ -1,0 +1,214 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must name દત્તુ (or બાળક/લેખક) as its grammatical subject, doing something at the નદીકાંઠે — not an unattributed fact like 'મુસાફરીમાં નદીકાંઠે વિરામ થાય છે.'",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `summary`, `detailed_summary`, `concept_bullets` or a recall `answer` may turn બાનું વાક્ય 'નદી અપવિત્ર છે... શાસ્ત્રમાં કહ્યું છે કે, નદીમાં આવા પરપોટા હોય ત્યારે એ પાણીને અડાય પણ નહીં' into a general rule about rivers; wherever it is used it stays bound to this moment and is paired with દત્તુની દલીલ 'પણ માંહ્યલું પાણી તો સારું છે ને!' as the counter-voice.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field may name which 'શાસ્ત્ર' બા means or explain the purity rule beyond the words printed in `original_chunk` — nothing about river-purity beliefs is supplied from outside the text.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક બાના વાક્ય 'નદી અપવિત્ર છે... પરપોટા હોય ત્યારે પાણીને અડાય પણ નહીં' ને એક કાયમી, બધી નદીઓ માટેનો સાચો નિયમ સમજી લેશે — જાણે આખો પ્રસંગ 'નદીનું પાણી ખરાબ હોય છે' એવો પાઠ આપતો હોય, અને એ પ્રસંગને બદલે નિયમ યાદ રાખશે.",
+      "correction": "explanation એ પ્રસંગને બાની એ ક્ષણની પોતાની માન્યતા અને દલીલ તરીકે જ કહે — બાનું 'નદી અપવિત્ર છે' અને દત્તુનું સામું 'પણ માંહ્યલું પાણી તો સારું છે ને!' બંને સાથે મૂકીને, જેથી બાળકને દેખાય કે આ એક ચોક્કસ સંવાદ છે, સાર્વત્રિક નિયમ નથી."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must name દત્તુ as its subject (e.g. 'શાહપુર પહોંચીને દત્તુને...'), not an unattributed 'શાહપુર નવી દુનિયા હતી.'",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field about મોડકા માસ્તર may use pitying language (બિચારા or a synonym) for his 'બંને હાથે ઠૂંઠા' — every mention of 'ઠૂંઠા' in `explanation`, `real_life_example` or `concept_bullets` must sit in the same or an adjoining sentence as the text's own 'પણ ભણાવવામાં એક્કા' / 'સુરેખ અક્ષરે... ઝપાટાબંધ લખતા'.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field may invent how મોડકા માસ્તર lost his hands or how he feels about it — the chunk gives only 'કદમાં ઠીંગણા, સ્વભાવે ઉગ્ર... બંને હાથે ઠૂંઠા... ભણાવવામાં એક્કા'.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'ઠીંગણા, ઉગ્ર... ઠૂંઠા' વાંચીને બાળક વાક્યનો બીજો ભાગ — 'પણ ભણાવવામાં એક્કા' અને પગથી સુરેખ, ઝપાટાબંધ અક્ષરે લખવાની કલા — છોડી દેશે, અને મોડકા માસ્તરને ફક્ત દયા ઉપજાવે એવી વ્યક્તિ સમજી લેશે, જ્યારે લખાણ ખરેખર એમની આવડત પર અચંબો અને માન વ્યક્ત કરે છે.",
+      "correction": "explanation બંને અડધિયાં એકસાથે કહે — ઠૂંઠા હોવા છતાં પગથી કલમ પકડીને કેવા સુરેખ, ઝપાટાબંધ અક્ષરે લખતા (જાણે રિપોર્ટર) એ વિગત જ ભાર મૂકે, જેથી બાળકને દયા નહીં, અચંબો અને માન થાય."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must name દત્તુ as its subject.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field may speculate on શા માટે મોડકા માસ્તરે ચૂંટી ખણી, as motive-analysis of a 'પાત્ર'; `original_chunk` only states that he did it ('મોડકા માસ્તરે આવીને મારી જાંઘ પર પગ વતી એવી ચૂંટી ખણી'), with no reason given, and none may be added. No field may invent મામીની feeling (ગુસ્સો, ચિંતા) beyond what is stated — she is shown only carrying him ('મને ઉપાડીને કેડે બેસાડીને... નિશાળે લઈ ગઈ') and physically unable to chase him ('મામીનું શરીર કંઈ હળવું નહોતું').",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "The self-deprecating turn — દત્તુનું 'અહીં તો આપણે સલામત છીએ. જ્યાં હાથ જ નથી ત્યાં સોટીનો ભો શો?' immediately followed by the actual pinch — must stay together in `explanation`, not smoothed into flat, sequential narration that drops the boast-then-reversal shape.",
+          "profile": "nibandh_atmaparak",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "દત્તુનું વાક્ય 'અહીં તો આપણે સલામત છીએ. જ્યાં હાથ જ નથી ત્યાં સોટીનો ભો શો?' ને બાળક સાચી, ગંભીર દલીલ તરીકે વાંચી લેશે અને એના તરત પછીના પલટા — પગ વડે ચૂંટી ખાવી — ને ચૂકી જશે, જ્યારે લેખક ખરેખર પોતાની જ ભૂલભરેલી ધારણા પર હસે છે.",
+      "correction": "explanation એ પલટો બતાવે — પહેલાં દત્તુનું 'આપણે સલામત છીએ' અને પછી તરત જ ખરેખર શું થયું ('પગ વતી ચૂંટી ખણી') — બંને લગોલગ મૂકીને, જેથી બાળક જુએ કે લેખક પોતાની જ ધારણા પર પાછળથી હસે છે, કોઈ ડહાપણની વાત નથી કરતો."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must name દત્તુ (or 'છોકરાં') as its subject.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field may present મામીની વિનંતી ('અમારી આ નાની યેસુને લઈ ઘેર જા... રસ્તામાં ઠોકર ખાઈને બંને પડતાં નહીં') as a plain, sincere errand without also carrying the narrator's own framing clause 'મને ત્યાંથી યુક્તિથી હાંકી કાઢવા ખાતર' — the ploy is named wherever the request is quoted.",
+          "profile": "nibandh_atmaparak",
+          "severity": "soft"
+        },
+        {
+          "check": "No field may invent મામીની deeper feeling or reasoning beyond the stated ploy — text gives only that she acted 'યુક્તિથી' to remove him after the છાપરાનું તોફાન.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક મામીની વિનંતી 'અમારી આ નાની યેસુને લઈ ઘેર જા... સાચવજે હો' ને ફક્ત એક કામ સોંપણી તરીકે વાંચી લેશે, અને દત્તુ પોતે જ કહે છે તે 'યુક્તિથી હાંકી કાઢવા ખાતર' — એટલે કે તોફાનને લીધે એને ઘરેથી દૂર કરવાની ચાલ — ચૂકી જશે.",
+      "correction": "explanation બંને વાત સાથે કહે — છાપરાનું તોફાન અને એ પછી તરત મામીની 'યુક્તિ' (એટલે કે ચાલ) — જેથી બાળકને દેખાય કે 'સાચવજે હો' પાછળ ખરું કારણ તોફાનની સજા છે, નહીં કે ફક્ત યેસુની ચિંતા."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must name દત્તુ as its subject.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "The three printed Marathi phrases — 'બાળ, તું કોણા ચા ?', 'મી આઈ ચા', 'મી નાનાચી.' — must appear unmodified wherever any field quotes them, and must be glossed as Marathi-in-Gujarati-script with the meaning the chunk itself brackets ('બેટા, તું કોનો દીકરો ?', 'હું મારી માનો'); no field may 'correct' them into standard Gujarati or call them a mistake.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field may supply additional Marathi vocabulary or translation beyond what `original_chunk` itself brackets for these three phrases.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ગુજરાતી લિપિમાં લખાયેલા મરાઠી વાક્યો 'બાળ, તું કોણા ચા ?' અને 'મી આઈ ચા' ને તૂટેલી કે ખોટી ગુજરાતી સમજી લેશે (અથવા શબ્દશઃ ગુજરાતી અર્થ બેસાડવાની કોશિશ કરશે), અને એટલે આખો ટુચકો — દત્તુ મરાઠી સવાલનો મરાઠીમાં જ ખોટો જવાબ આપે છે — સમજી નહીં શકે.",
+      "correction": "explanation પહેલેથી જ સ્પષ્ટ કરે કે ડોશીમાનો સવાલ અને દત્તુનો જવાબ મરાઠી ભાષામાં છે, ગુજરાતી લિપિમાં લખાયેલા, અને દરેક વાક્ય પાસે એનો ગુજરાતી અર્થ (જેમ ચોપડીમાં કૌંસમાં આપ્યો છે તેમ) મૂકે — જેથી બાળકને દેખાય કે ભાષા બદલાય છે, શબ્દો ખોટા નથી."
+    },
+    {
+      "topic_id": "M3.S4.T6",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must name દત્તુ as its subject.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field may translate, explain, or philosophically interpret the quoted Sanskrit half-verse 'દદામિ બુદ્ધિયોગં તમ્' beyond noting that it is the moment a guava-saving idea occurs to દત્તુ ('એ પ્રમાણે મને યુક્તિ સૂઝી') — no meaning is supplied that `original_chunk` does not give, and the line is never presented as sincere religious guidance rather than the narrator's own playful, self-mocking exaggeration.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field may ask or answer why અણ્ણા or વિષ્ણુ 'chose' to chase the children, as motive-analysis of a પાત્ર, or name this topic's category as anything but the chase-and-outwit પ્રસંગ it is — the chapter has પ્રસંગ, not પ્લોટ.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'ભગવદ્ ગીતામાં કહ્યું છે, દદામિ બુદ્ધિયોગં તમ્ એ પ્રમાણે મને યુક્તિ સૂઝી' ને લેખકનો સાચો, ગંભીર ધાર્મિક દાવો સમજી લેશે — જાણે જામફળ બચાવવાની બચકાની યુક્તિને ખરેખર ગીતાના જ્ઞાનનું ફળ ગણાવ્યું હોય — અને લેખક પોતાની જ નાની ચાલાકીને મોટા શબ્દોમાં રમૂજથી વર્ણવે છે એ ચૂકી જશે.",
+      "correction": "explanation એ સ્પષ્ટ કરે કે આ ગીતાની પંક્તિ ફક્ત એ ક્ષણે અચાનક સૂઝેલી યુક્તિ (બચકું ભરવાની ચાલ) નું રમૂજી, મોટું નામ છે — ગીતાના અર્થ કે ઉપદેશ વિશે કંઈ સમજાવ્યા વગર, ફક્ત એટલું બતાવે કે નાનકડા દત્તુને પોતાની ચતુરાઈ પર કેટલો ગર્વ થયો."
+    },
+    {
+      "topic_id": "M3.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must name દત્તુ, કેશુ or ગોંદુ as its subject.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "Any generalized statement in `explanation`, `summary`, `detailed_summary`, `concept_bullets` or a recall `answer` about શાખ/આબરૂ and health must be the verbatim line 'સાચી શાખ તો માંદા ન પડવામાં છે' from `original_chunk`, attributed as the writer's own realization — never a paraphrased separate moral of the form 'આપણે ... જોઈએ'.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field may invent ગોંદુની feeling (પસ્તાવો, શરમ) beyond what is stated — the chunk gives only 'ગોંદુ ખરેખર માંદો પડ્યો' and the scolding દત્તુ-કેશુ give him.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'જામફળથી જે ન થાત તે આબરૂના આ ખોટા ખ્યાલથી થયું, અને ગોંદુ ખરેખર માંદો પડ્યો' વાંચીને ફક્ત એટલું જ પકડશે કે 'વધારે જામફળ ખાવાથી ગોંદુ માંદો પડ્યો', અને વાક્યનો ખરો મુદ્દો — ખોટી શાખ બેસાડવાની જીદ, ફળ પોતે નહીં — ચૂકી જશે.",
+      "correction": "explanation બંને ભાગ સાથે કહે — જામફળ પોતે નહીં પણ 'શાખ બેસાડવાની' જીદે ગોંદુને માંદો પાડ્યો — અને લેખકનું પોતાનું વાક્ય 'સાચી શાખ તો માંદા ન પડવામાં છે' ટાંકીને બતાવે કે આ સમજ લેખકે પોતે જ મેળવી છે."
+    },
+    {
+      "topic_id": "M4.S5.T8",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must name દત્તુ or ગોંદુ as its subject.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "ગોંદુની કહેવત ('બાળપણમાં કષ્ટ વેઠશો તો મોટપણે સુખી થશો... નાનપણમાં કડવું ખાશો તો મોટપણે ગળ્યું મળશે'), if quoted at all, must be attributed to ગોંદુ specifically and paired with દત્તુની અસહમતી ('નાનાની વાત તો મારે ગળે ન ઊતરી') — no field may present it as the chapter's own endorsed lesson.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field may explain 'નિષ્કામ કર્મ' as a philosophical or ગીતા-based concept beyond દત્તુ's own ironic self-description ('મારું તો શુદ્ધ નિષ્કામ કર્મ હતું') — no outside meaning is supplied.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ગોંદુની કહેવત 'નાનપણમાં કડવું ખાશો તો મોટપણે ગળ્યું મળશે' ને પાઠનો પોતાનો બોધ સમજી લેશે, અને દત્તુ પોતે જ કહે છે કે 'નાનાની વાત તો મારે ગળે ન ઊતરી' — એટલે કે એને એ વાત માન્ય જ નહોતી, ફક્ત કાયર ન કહેવાવાના ડરથી મરચું ખાધું — એ ચૂકી જશે.",
+      "correction": "explanation ગોંદુની કહેવત અને દત્તુની અસહમતી બંને સાથે કહે — 'ગોંદુને એટલું સમાધાન હતું, દત્તુ પાસે એટલું પણ ન હતું' — જેથી બાળકને દેખાય કે દત્તુ કહેવત માનીને નહીં, પણ કાયર ન ગણાવાના ડરથી મરચું ખાય છે."
+    },
+    {
+      "topic_id": "M4.S5.T9",
+      "avoid_checks": [
+        {
+          "check": "No field — `explanation`, `summary`, `detailed_summary`, `concept_bullets` or a recall `answer` — may turn 'કોણ જાણે શાથી મારામાં અને ગોંદુમાં જેટલી નીતિનિષ્ઠા હતી તેટલી કેશુમાં ન હતી... પોતાને ઘેર ગમે તે થઈ શકે' into a moral about honesty ('ચોરી ન કરવી જોઈએ', 'આપણે પ્રામાણિક રહેવું જોઈએ'); it is taught as કેશુનું પાત્ર-લક્ષણ (his generous, rule-bending loyalty to દત્તુ), exactly as the line is placed in the chapter, never as a class-wide lesson.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "The first sentence of `explanation` must name દત્તુ or કેશુ as its subject.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "No field may use judgmental language (ચોર, ખરાબ ટેવ, or a synonym) about કેશુ's act or about the family; the chapter's own light, affectionate register — 'વહાલા દત્તુ વગર ખવાય કેમ ?' — is the model.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        },
+        {
+          "check": "The chapter's actual final printed sentence — 'એ ‘કેળવણી’ને અંતે મને જલેબી ભાવતાં (ભવડાવતાં) આવડ્યું.' — must appear verbatim inside this LAST topic's `original_chunk`.",
+          "profile": "nibandh_atmaparak",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'કેશુમાં નીતિનિષ્ઠા ન હતી... પોતાને ઘેર ગમે તે થઈ શકે' વાંચીને એને 'ચોરી ખરાબ છે' એવો સીધો બોધ સમજી લેશે, જ્યારે ચોપડી પોતે જ આ વાતને લેખકના પોતાના શબ્દોમાં (01_meta.json ના genre_signals મુજબ) બોધ તરીકે નહીં, કેશુના પાત્ર-લક્ષણ તરીકે — રમૂજ અને પ્રેમથી — મૂકે છે.",
+      "correction": "explanation કેશુની 'નીતિનિષ્ઠા ન હતી' એ વાતને એના પાત્ર-લક્ષણ તરીકે જ કહે — કે એ ઘરની વસ્તુ ગમે ત્યારે ઉપાડી લાવતો, પણ 'વહાલા દત્તુ વગર ખવાય કેમ ?' કહીને દોસ્તને યાદ કરતો — કોઈ 'ચોરી ખોટી છે' પ્રકારનું વાક્ય ઉમેર્યા વગર."
+    }
+  ],
+  "chapter_level": [
+    "Two topics — M3.S4.T6 ('દદામિ બુદ્ધિયોગં તમ્') and M4.S5.T8 ('નિષ્કામ કર્મ') — quote lines with Bhagavad Gita resonance that the child-narrator uses as playful, self-mocking exaggeration for a guava trick and a chili dare. Per global_content_rules §10, neither becomes a comparative-religion or philosophy lesson in any field; both stay the narrator's own comic overstatement about himself, with no outside translation or interpretation added.",
+    "M1.S2.T2 (મોડકા માસ્તર, 'બંને હાથે ઠૂંઠા') is this chapter's one disability-sensitivity passage. Per global_content_rules §10 and this profile's gate 14, his ability ('ભણાવવામાં એક્કા', 'સુરેખ અક્ષરે... ઝપાટાબંધ') is named in the same breath as the condition in every field that mentions it, never pitied and never treated as the whole of who he is.",
+    "No topic in this chapter carries `topic_category: \"climax\"` — the printed categories are introduction, core, transition and resolution only (02_structure.json). This chapter has પ્રસંગ (a chain of remembered episodes), not પ્લોટ; no field across any topic should frame અણ્ણા, વિષ્ણુ, મોડકા માસ્તર, મામી or કેશુ's actions by inventing why they 'chose' to act, as if writing story motive.",
+    "No topic's `objective_text` or `explanation` may describe HOW to write a childhood-mischief memoir or a character sketch as a method — that belongs to exercise_solutions.json alone: block 3's પાત્ર-લેખન ('તમને ગમતા પાત્ર વિશે છ-સાત વાક્યો લખો') and the ચર્ચા-વિચારણા bullet 'મારા બાળપણનું તોફાન', both of which ask the child to do exactly what the chapter itself does.",
+    "This chapter is measured as the સંસ્મરણ/આત્મકથાખંડ sub-form, not the હાસ્ય sub-form (01_meta.json, 02_structure.json notes) — the profile's હાસ્ય-specific naming rule (avoid gate 4, 'at most one sentence talks about the humour') was not invoked for any topic here, and no field should introduce comedy-labelling ('આ રમૂજી છે', 'હસવું આવે એવું છે') that the chapter's own register does not carry."
+  ]
+}

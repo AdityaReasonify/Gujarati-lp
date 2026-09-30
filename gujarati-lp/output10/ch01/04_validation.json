@@ -1,0 +1,46 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "pad_bhajan.md explanation unit is 'one પદ, whole'. 00_chapter_normalized.md carries exactly one [[પદ 1]] marker, nesting [[ટેક]] and [[કડી 1]]..[[કડી 3]] inside it; 02_structure.json cuts it as exactly one topic (M1.S2.T2), never કડી-wise. count([[પદ]])==1 == count(topics carrying a પદ)==1.",
+        "ટેક is quoted inside the પદ topic, not split into its own topic/concept: 01_meta.json's extraction_notes confirm the refrain's words do not change across its 8 printed occurrences, so per explanation_unit_map.md rule 5 an identical ટેક is taught once, inside the single પદ topic — satisfied since the whole પદ is one topic.",
+        "duha count in structure_inventory is 0 — no દુહો marker exists in this chapter, so the 'no two દુહા share a topic' check is vacuously satisfied.",
+        "No mixed-genre chapter: 01_meta.json's extraction_notes state this chapter is single-genre with nothing appended after શિક્ષકની ભૂમિકા.",
+        "Nothing in topic_name, module_name, segment_name, or objective_text violates pad_bhajan.md's avoid list: no morality-poster closing clause (સૌએ/હંમેશાં/જીવનમાં/આપણે બધાએ...જોઈએ pattern absent), no theology/comparative-religion assertion, no biographical claim beyond the printed કવિ-પરિચય (O1 references only what the કૃતિ-પરિચય states)."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 2,
+      "topics": 2,
+      "notes": [
+        "Scene 1: the unlabeled કવિ-પરિચય + કૃતિ-પરિચય paragraph pair (printed for the student, per std-10's convention) -> M1.S1.T1 (CONCEPT, pre-reading opener, topic_category introduction).",
+        "Scene 2: the whole પદ (ટેક + કડી 1-3 + છાપ + સ્રોત-નિર્દેશ tail) -> M1.S2.T2 (POEM, topic_category core). Both topics appear in printed order.",
+        "No સ્વાધ્યાય block became a topic: cross-checked all 5 exercise_inventory entries (MCQ, એક-એક વાક્યમાં ઉત્તર, બે-ત્રણ વાક્યમાં ઉત્તર, સવિસ્તર ઉત્તર, વિદ્યાર્થી પ્રવૃત્તિ) in 01_meta.json against both topic_name values and both original_chunk plans in 02_structure.json's notes — none of the exercise group names, verbatim headings, or item text appear as a topic or a planned chunk.",
+        "Apparatus correctly excluded from the cut per 02_structure.json's own notes: શબ્દ-સમજૂતી box (and its three sub-heads), સ્વાધ્યાય-બૅનર, ભાષા-અભિવ્યક્તિ, and શિક્ષકની ભૂમિકા are all reserved for Agent 10 / key_terms / ભાષા-બોધ, never cut as topics.",
+        "No topic covers text that no marker claims: M1.S1.T1 maps to [[કવિ-પરિચય]]+[[કૃતિ-પરિચય]]; M1.S2.T2 maps to [[પદ 1]] (with its nested [[ટેક]]/[[કડી 1..3]]) plus the trailing [[સ્રોત-નિર્દેશ]] line, which 02_structure.json's notes correctly identify as belonging inside the last topic's original_chunk per pad_bhajan.md's attribution-line rule."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 2,
+      "notes": [
+        "Root objectives[] has 2 entries, objective_id O1/O2 unique across the plan.",
+        "home_topic_id (M1.S1.T1, M1.S2.T2) and every anchor[] id (M1.S1.T1.C1, M1.S2.T2.C2) resolve to nodes present in the modules tree.",
+        "strand_to_objective_map {L1:O1, L2:O2} covers every legacy_id exactly once; both objectives use strand L / ભાષા અને સાહિત્ય per the Gujarati-literature convention.",
+        "Every topic carries objective_ids resolving to the registry: M1.S1.T1 -> [O1], M1.S2.T2 -> [O2].",
+        "O1 is grounded in the printed કૃતિ-પરિચય/કવિ-પરિચય text and names મીરાંબાઈ and 'મોરલી' specifically; O2 quotes the actual ટેક line 'વૃંદાવન મોરલી વાગે છે' and asks why it returns, serving the profile's teaching_lens (ભાવ + સંબંધ + લોકભાષાની મીઠાશ) directly. Neither could be pasted into another chapter unchanged.",
+        "Id grammar matches reference/naming_conventions.md: hierarchy dotted and continuous (M1 -> M1.S1/M1.S2 -> M1.S1.T1/M1.S2.T2 -> .C1/.C2, t and c both running 1,2 continuously across the whole chapter, c equal to t since each topic carries one concept). No M1.S1.T1.P1-style objective code appears anywhere."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Two topics for a three-printed-page, one-પદ chapter is correct under pad_bhajan.md, not an under-cut — splitting કડી-wise to manufacture more topics is the specific hard-gated mistake the profile exists to prevent, and 02_structure.json's own notes state this explicitly.",
+    "original_chunk is empty in both topics in 02_structure.json by this stage's design (Agent 5 fills it from the rendered pages); this validation pass checked structure, cut boundaries, and the objective/id contract only, per this agent's scope, and did not require original_chunk content to verify Checks 1-3.",
+    "difficulty='medium' on M1.S2.T2 is a relative-within-chapter judgment (મધ્યકાલીન/તળપદાં diction thickness), not a Bloom-level cap — the objective and recall ladder for this topic still reach Analyze per the profile's recall priors. This is a non-blocking observation, not a defect."
+  ]
+}

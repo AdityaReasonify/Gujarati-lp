@@ -1,0 +1,190 @@
+{
+  "_comment": "The SECOND deliverable. Every સ્વાધ્યાય block inventoried in 01_meta.json is answered here and NOWHERE else — સ્વાધ્યાય is never a teaching topic. GSEB PDFs are image-only: prompt_verbatim is transcribed from the rendered page (verified against page-1.png / page-2.png), never from a text layer. See reference/exercise_alignment.md and agents/10_exercise_solutions.md.",
+
+  "plan_id": "gseb_eng_gujarati9_ch1_v1",
+  "chapter_id": "gseb_eng_gujarati9_ch1",
+  "subject": "Gujarati",
+  "grade": 9,
+  "chapter_name": "છપ્પા",
+
+  "exercises": [
+    {
+      "exercise_id": "EX1",
+      "exercise_group": "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો : (1)",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "એક મૂર્ખને કેવી ટેવ છે?\n(A) દરેક પથ્થરને ભગવાન માનવા લાગે છે.    (B) તુલસીનાં પાન તોડે છે.\n(C) પાણી જુએ ત્યાં સ્નાન કરવા બેસી જાય છે.    (D) ઉપરના A - B - C ત્રણેય.",
+      "answer": "(D) ઉપરના A - B - C ત્રણેય.",
+      "explanation": "પહેલા છપ્પામાં અખો એક 'મૂરખ'ની ત્રણેય ટેવો ગણાવે છે — 'પથ્થર એટલા પૂજે દેવ', 'પાણી દેખી કરે સનાન' અને 'તુલસી દેખી તોડે પાન'. એટલે (A), (B) અને (C) ત્રણેય સાચાં છે, અને સાચો વિકલ્પ (D) છે. (A), (B), (C) એકલાં-એકલાં ખોટાં નથી, પણ અધૂરાં છે — છપ્પાની પંક્તિઓ ત્રણેય ટેવ સાથે ગણાવે છે, એટલે એકને જ સાચી ગણવી એ ભૂલ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "MCQ block, sub-question (1). Checkmark glyph printed on the page is (✓) — verified against the render.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T3"]
+    },
+    {
+      "exercise_id": "EX2",
+      "exercise_group": "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો : (2)",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અખો ઈશ્વર અંગે માને છે કે....\n(A) ઈશ્વર ઘણા બધા છે.    (B) ઈશ્વર એકથી વધારે છે.\n(C) ઈશ્વર એક અને માત્ર એક જ છે.    (D) ઈશ્વર જેવું કશું નથી.",
+      "answer": "(C) ઈશ્વર એક અને માત્ર એક જ છે.",
+      "explanation": "છપ્પાની છેલ્લી પંક્તિ 'ઘણા પરમેશ્વર એ ક્યાંની વાત ?' એ પ્રશ્નથી અખો દરેક પથ્થરને દેવ માનવાની ટેવ પર કટાક્ષ કરે છે — એટલે કે ઈશ્વર અનેક નથી, એક જ છે એવું અખો કહેવા માગે છે, તેથી (C) સાચો વિકલ્પ છે. (A) અને (B) છપ્પાની પંક્તિ સાથે સીધાં વિરોધાભાસી છે; (D) છપ્પામાં ક્યાંય કહેવાયું નથી — અખો ઈશ્વરના અસ્તિત્વને નકારતા નથી, ખોટી બહુદેવ-માન્યતાને નકારે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "MCQ block, sub-question (2).",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T3"]
+    },
+    {
+      "exercise_id": "EX3",
+      "exercise_group": "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો : (3)",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "સૂર્યના પ્રકાશનો અસ્વીકાર કોણ કરે છે?\n(A) જ્ઞાની    (B) ઘુવડ    (C) કબૂતર    (D) ડાહ્યા માણસો",
+      "answer": "(B) ઘુવડ",
+      "explanation": "બીજા છપ્પામાં 'સામાસામી બેઠા ઘૂડ' અને 'કો આવી વાત સૂર્યની કરે, તે આગણ લેઈ ચાંચ જ ધરે' — સૂર્યની વાત કરનાર સામે ઘુવડ ચાંચ ધરીને (વિરોધ કરીને) જવાબ આપે છે, એટલે સાચો વિકલ્પ (B) છે. (D) 'ડાહ્યા માણસો' આકર્ષક લાગે છે કારણ કે છપ્પામાં ઘૂડ પોતાને 'ડાહ્યા' કહે છે, પણ એ શબ્દ કટાક્ષમાં વપરાયો છે — ઘુવડ ખરેખર ડાહ્યા નથી, જડ છે; (A) અને (C) છપ્પામાં આવતાં જ નથી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "MCQ block, sub-question (3). Option (D) is the tempting wrong choice because of the poem's own ironic 'ડાહ્યા' — flag this for the teacher when discussing વક્રોક્તિ.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T4"]
+    },
+    {
+      "exercise_id": "EX4",
+      "exercise_group": "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો : (4)",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "જ્યાં જોઈએ ત્યાં બધે જ શું દેખાય છે?\n(A) કૂડેકૂડ (કપટ)    (B) નિખાલસતા    (C) પ્રકાશ    (D) ડહાપણ",
+      "answer": "(A) કૂડેકૂડ (કપટ)",
+      "explanation": "છપ્પાની પહેલી પંક્તિ 'જ્યાં જોઈએ ત્યાં કૂડેકૂડ, સામાસામી બેઠા ઘૂડ' કહે છે કે ચારેકોર કપટ-છળ જ દેખાય છે, એટલે સાચો વિકલ્પ (A) છે. (B), (C), (D) છપ્પાની પંક્તિથી બરાબર ઊંધા છે — અખો કહે છે કે નિખાલસતા, પ્રકાશ કે ડહાપણ નહીં, પણ કપટ સર્વત્ર છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "MCQ block, sub-question (4).",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T4"]
+    },
+    {
+      "exercise_id": "EX5",
+      "exercise_group": "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો : (5)",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "મૂર્ખ કઈ વસ્તુ ત્યજીને પથ્થરને ઉપાડે છે?\n(A) ઘુવડ    (B) તુલસી    (C) હીરો    (D) પાણી",
+      "answer": "(C) હીરો",
+      "explanation": "છપ્પાની છેલ્લી પંક્તિ 'અખા મોટાની તો એવી જાણ, મૂકી હીરો ઉપાડે પહાણ' કહે છે કે (કહેવાતા) 'મોટા' માણસો હીરો છોડીને પથ્થર ઉપાડે છે, એટલે સાચો વિકલ્પ (C) છે. (A), (B), (D) એ જ છપ્પાના બીજા ભાગની વસ્તુઓ છે પણ આ ચોક્કસ પંક્તિમાં ત્યજાતી વસ્તુ નથી — 'હીરો' જ છે જેને છોડીને 'પહાણ' (પથ્થર) ઉપાડવામાં આવે છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "MCQ block, sub-question (5).",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T4"]
+    },
+    {
+      "exercise_id": "EX6",
+      "exercise_group": "નીચેના પ્રશ્નોના બે-ત્રણ વાક્યોમાં ઉત્તર લખો : (1)",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અખો કોને મોટો ઉત્પાત ગણાવે છે?",
+      "answer": "અખો એક મૂરખની ટેવને મોટો ઉત્પાત ગણાવે છે — જે માણસ દરેક પથ્થરને દેવ માનીને પૂજે છે, પાણી જુએ ત્યાં સ્નાન કરવા બેસી જાય છે અને તુલસીનાં પાન તોડે છે. અખો કહે છે, 'એ તો અખા બહુ ઉત્પાત, ઘણા પરમેશ્વર એ ક્યાંની વાત' — એટલે કે દરેક વસ્તુને ભગવાન માની લેવી એ જ મોટો ઉત્પાત (ખોટી માન્યતા) છે.",
+      "explanation": "છપ્પાની ત્રીજી પંક્તિ સીધો શબ્દ 'ઉત્પાત' વાપરે છે — 'એ તો અખા બહુ ઉત્પાત' — અને એ પહેલી બે પંક્તિમાં વર્ણવેલી મૂરખની અંધશ્રદ્ધાભરી ટેવ તરફ ઈશારો કરે છે.",
+      "acceptable_alternatives": [
+        "દરેક પથ્થરને દેવ માનીને પૂજવાની અંધશ્રદ્ધાભરી ટેવને અખો ઉત્પાત ગણાવે છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "બે-ત્રણ વાક્ય tier, sub-question (1). Keep the answer inside the printed tier length.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T3"]
+    },
+    {
+      "exercise_id": "EX7",
+      "exercise_group": "નીચેના પ્રશ્નોના બે-ત્રણ વાક્યોમાં ઉત્તર લખો : (2)",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "સૂર્યની વાત કરનારને ઘુવડ શો જવાબ આપે છે?",
+      "answer": "સૂર્યની વાત કરનારને ઘુવડ ચાંચ ધરીને વિરોધ કરે છે અને કહે છે, 'અમારે હજાર વર્ષ અંધારે ગયાં, તમે આવા ડાહ્યા ક્યાંથી થયા ?' એટલે કે અમે તો હજારો વર્ષથી અંધારામાં જ જીવ્યા છીએ, તમે અચાનક આટલા ડાહ્યા ક્યાંથી થઈ ગયા — એમ કહીને ઘુવડ સૂર્યના પ્રકાશની વાતને જ નકારે છે.",
+      "explanation": "ઘુવડનો જવાબ 'તે આગણ લેઈ ચાંચ જ ધરે' પંક્તિમાં જ મળે છે, અને પછીની પંક્તિ એનું બોલાયેલું વાક્ય છે — બંને ભેગાં કરીને જવાબ બને છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "બે-ત્રણ વાક્ય tier, sub-question (2). 'ડાહ્યા' is the owls' own ironic self-description — flag it as કટાક્ષ, not as genuine wisdom.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T4"]
+    },
+    {
+      "exercise_id": "EX8",
+      "exercise_group": "નીચેના પ્રશ્નોના છ-સાત વાક્યમાં ઉત્તર લખો : (1)",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "અખાના છપ્પામાંથી તમને શું જાણવા મળ્યું? વિગતે લખો.",
+      "answer": "અખાના બંને છપ્પામાંથી ઢોંગ અને જડતા વિશે ઘણું જાણવા મળ્યું. પહેલા છપ્પામાં અખો એક મૂરખની ટેવ વર્ણવે છે — તે દરેક પથ્થરને દેવ માનીને પૂજે છે, પાણી જુએ ત્યાં સ્નાન કરવા બેસી જાય છે અને તુલસીનાં પાન તોડે છે. અખો આ આંધળી ટેવને 'બહુ ઉત્પાત' કહે છે અને 'ઘણા પરમેશ્વર એ ક્યાંની વાત ?' કહીને સ્પષ્ટ કરે છે કે ઈશ્વર એક જ છે, અનેક નથી. બીજા છપ્પામાં અખો ઘુવડ અને સૂર્યના પ્રતીક વડે એવા લોકોની વાત કરે છે જે નવું જ્ઞાન સ્વીકારવા તૈયાર નથી — ઘુવડ સૂર્યની વાત કરનારને ચાંચ ધરીને વિરોધ કરે છે અને કહે છે કે 'અમારે હજાર વર્ષ અંધારે ગયાં.' છેલ્લે, 'મૂકી હીરો ઉપાડે પહાણ' પંક્તિથી અખો કહે છે કે એવા (કહેવાતા) મોટા લોકો સાચી કિંમતી વસ્તુ (હીરો) છોડીને નકામી વસ્તુ (પથ્થર) પકડી રાખે છે. બંને છપ્પા મળીને એ શીખવે છે કે અંધશ્રદ્ધા અને હઠાગ્રહ માણસને સાચા જ્ઞાનથી દૂર રાખે છે.",
+      "explanation": "આ પ્રશ્ન બંને છપ્પાનો સારાંશ માગે છે, એટલે જવાબમાં બંને છપ્પાની મુખ્ય પંક્તિઓ અને તેમનો કટાક્ષ-ભાવ — પ્રથમમાં અંધશ્રદ્ધા, બીજામાં જડતા — બંને સમાવ્યાં છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "છ-સાત વાક્ય tier, sub-question (1). Answer stays inside the SSC-shaped tier length and draws only on the two printed છપ્પા — no outside biography or invented moral beyond what the lines themselves state.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T3", "M2.S2.T4"]
+    },
+    {
+      "exercise_id": "EX9",
+      "exercise_group": "નીચેના પ્રશ્નોના છ-સાત વાક્યમાં ઉત્તર લખો : (2)",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "જ્ઞાની હોવાનો દેખાવ કરતાં અજ્ઞાનીઓ વિશે અખાના વિચારો વર્ણવો.",
+      "answer": "અખો બીજા છપ્પામાં જ્ઞાની હોવાનો દેખાવ કરતા અજ્ઞાની લોકોની આકરી ટીકા કરે છે. તેઓ કહે છે કે જ્યાં જુઓ ત્યાં કપટ-છળ (કૂડેકૂડ) જ દેખાય છે, અને આવા લોકો ઘુવડની જેમ સામસામે બેસી રહે છે. જ્યારે કોઈ સાચા જ્ઞાનની (સૂર્યની) વાત કરે છે, ત્યારે તેઓ સ્વીકારવાને બદલે વિરોધ કરે છે — 'અમારે હજાર વર્ષ અંધારે ગયાં, તમે આવા ડાહ્યા ક્યાંથી થયા ?' કહીને પોતાની અંધારભરી સ્થિતિને જ યોગ્ય ઠરાવે છે. અખો આવા લોકોને 'મોટા' કહે છે, પણ એ શબ્દ કટાક્ષમાં વાપરે છે — ખરેખર તેઓ મોટા નથી, જડ છે, કેમ કે તેઓ હીરો (સાચું જ્ઞાન) છોડીને પથ્થર (ખોટી માન્યતા) પકડી રાખે છે. આમ અખો કહેવા માગે છે કે પોતાને ડાહ્યા-જ્ઞાની ગણાવતા આવા લોકો ખરેખર સૌથી વધુ અજ્ઞાની અને હઠીલા હોય છે.",
+      "explanation": "જવાબ છપ્પાના જ શબ્દો (કૂડેકૂડ, ઘૂડ, ડાહ્યા, મોટા, હીરો, પહાણ) અને એમનો કટાક્ષ-અર્થ સાથે બાંધ્યો છે, જેથી 'ડાહ્યા' અને 'મોટા' શબ્દોને સીધા વખાણ તરીકે ન વાંચી લેવાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "છ-સાત વાક્ય tier, sub-question (2). Guards the satire-gate: 'ડાહ્યા'/'મોટા' must be read as કટાક્ષ, never as sincere praise.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T4"]
+    },
+    {
+      "exercise_id": "EX10",
+      "exercise_group": "વિદ્યાર્થી-પ્રવૃત્તિ (1)",
+      "skill": "writing",
+      "prompt_verbatim": "અખાના જીવન વિશે જાણી એના જીવનના મહત્ત્વપૂર્ણ વળાંક વિશે નોંધ તૈયાર કરો.",
+      "answer": "આ એક ખુલ્લી પ્રવૃત્તિ છે — વિદ્યાર્થીએ પુસ્તકાલય કે વડીલો પાસેથી અખાના જીવન વિશે વધુ માહિતી શોધીને પોતાની નોંધ તૈયાર કરવાની છે. નમૂનારૂપ શરૂઆત: અખો જેતલપુર (અમદાવાદ પાસે)ના વતની હતા અને 'છપ્પા' સ્વરૂપમાં તેમનું સૌથી જાણીતું સર્જન કર્યું. વિદ્યાર્થી અહીંથી આગળ પોતે શોધેલી માહિતી ઉમેરીને નોંધ પૂરી કરે.",
+      "explanation": "આ પ્રવૃત્તિ બાળકને પોતાની રીતે શોધ કરવા પ્રેરે છે એટલે એક જ 'સાચો' જવાબ નથી — તેથી નમૂના-જવાબ અપાયો છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Model answer, framed as one possible starting point, not the answer. This chapter's own printed કવિ-પરિચય gives only જેતલપુર/અમદાવાદ પાસે, બ્રહ્મલીલા, સંતપ્રિયા (Hindi poems), છપ્પા-અખેગીતા-અનુભવબિંદુ-કૈવલ્ય ગીતા-પંચીકરણ-ગુરુશિષ્યસંવાદ, જ્ઞાની કવિ, and the era line સત્તરમું શતક-પૂર્વાર્ધ — no birth/death year or biographical 'turning point' is printed anywhere in this chapter, so the model answer stops at what the chapter states and explicitly hands the research-and-fill task to the child rather than inventing a life event; teacher should verify any additional facts a child brings back against a reliable source before endorsing them as fact.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S1.T1"]
+    },
+    {
+      "exercise_id": "EX11",
+      "exercise_group": "વિદ્યાર્થી-પ્રવૃત્તિ (2)",
+      "skill": "speaking",
+      "prompt_verbatim": "અખાના છપ્પા મેળવી કંઠસ્થ કરો.",
+      "answer": "વિદ્યાર્થીએ આ પાઠમાં આપેલા બંને છપ્પા (અથવા વધુ છપ્પા મેળવીને) મોઢે યાદ કરવાના છે. યાદ કરવા માટે છપ્પાની પ્રાસ-જોડી (દેવ-પૂજે, પાન-વાત; ઘૂડ-કૂડેકૂડ, ધરે-કરે, ગયાં-થયા, જાણ-પહાણ) અને છ પદની લય પર ધ્યાન આપવું, જેથી શબ્દો સહેલાઈથી યાદ રહે.",
+      "explanation": "કંઠસ્થ કરવાની પ્રવૃત્તિમાં કોઈ એક 'સાચો' જવાબ નથી હોતો — તેથી કેવી રીતે યાદ કરવું એની રીત મોડેલ તરીકે અપાઈ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Model answer / method, framed as one possible approach — memorisation itself has no single graded answer.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M2.S2.T3", "M2.S2.T4"]
+    },
+    {
+      "exercise_id": "EX12",
+      "exercise_group": "વિદ્યાર્થી-પ્રવૃત્તિ (3)",
+      "skill": "values",
+      "prompt_verbatim": "તમને કોઈ માણસમાં જોવા મળેલી મર્યાદાઓ દૂર કરવા માટે તમે તેમને શું કરવાનું સૂચવશો તે જણાવો.",
+      "answer": "આ એક વ્યક્તિગત મંતવ્યનો પ્રશ્ન છે, એટલે એક શક્ય નમૂના-જવાબ: જો મને કોઈ વ્યક્તિમાં જડતાની (નવી વાત ન સ્વીકારવાની) મર્યાદા દેખાય, તો હું તેમને શાંતિથી સમજાવીશ અને નવી વાત સાંભળવા વિનંતી કરીશ, દલીલથી નહીં પણ ઉદાહરણ આપીને. અખાના છપ્પાની જેમ, હું તેમને એ સમજાવવાનો પ્રયત્ન કરીશ કે ફક્ત જૂની ટેવ પકડી રાખવાને બદલે નવી અને સાચી વાત તપાસવી જોઈએ.",
+      "explanation": "આ પ્રશ્ન બાળકના પોતાના અનુભવ અને મંતવ્ય પર આધારિત છે, તેથી ઉપરનો જવાબ એક શક્ય નમૂનો છે, એકમાત્ર સાચો જવાબ નથી.",
+      "acceptable_alternatives": [
+        "કોઈપણ મંતવ્ય જે નમ્રતાથી અને ઉદાહરણ સાથે સમજાવવાની વાત કરે તે સ્વીકાર્ય છે."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Personal-opinion item — model answer only, clearly marked as one possible response, per no_hallucination_policy.md.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M2.S2.T3", "M2.S2.T4"]
+    }
+  ],
+
+  "coverage_report": {
+    "blocks_found": [
+      "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો :",
+      "નીચેના પ્રશ્નોના બે-ત્રણ વાક્યોમાં ઉત્તર લખો :",
+      "નીચેના પ્રશ્નોના છ-સાત વાક્યમાં ઉત્તર લખો :",
+      "વિદ્યાર્થી-પ્રવૃત્તિ"
+    ],
+    "blocks_answered": [
+      "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો :",
+      "નીચેના પ્રશ્નોના બે-ત્રણ વાક્યોમાં ઉત્તર લખો :",
+      "નીચેના પ્રશ્નોના છ-સાત વાક્યમાં ઉત્તર લખો :",
+      "વિદ્યાર્થી-પ્રવૃત્તિ"
+    ],
+    "unanswered": [],
+    "unmapped": [],
+    "_note": "All four printed exercise_inventory blocks (5 MCQ + 2 બે-ત્રણ વાક્ય + 2 છ-સાત વાક્ય + 3 વિદ્યાર્થી-પ્રવૃત્તિ = 12 items) are answered as EX1–EX12. Every item maps to a reading scene: EX1, EX6 → M2.S2.T3 (છપ્પો 1); EX3, EX4, EX5, EX7, EX9 → M2.S2.T4 (છપ્પો 2); EX2 → M2.S2.T3 (the last line of છપ્પો 1, જેમાં 'ઘણા પરમેશ્વર' પ્રશ્ન છે); EX8 → both POEM topics (summary question spans both છપ્પા); EX10 → M1.S1.T1 (કવિ-પરિચય, the only source of any Akho life-fact in this chapter); EX11, EX12 → both POEM topics (memorise/apply tasks touch both pieces). Nothing is unmapped — this two-piece છપ્પા chapter has reading text for every exercise item. શબ્દ-સમજૂતી pre-blocks (સમાનાર્થી/શબ્દાર્થ, વિરુદ્ધાર્થી, તળપદા શબ્દો), ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are printed apparatus, not exercise blocks, per 01_meta.json's exercise_inventory (which lists only the four blocks above) and are correctly excluded here."
+  }
+}

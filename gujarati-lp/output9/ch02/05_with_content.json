@@ -1,0 +1,762 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch2",
+  "genre": "nibandh_atmaparak",
+  "genre_subform": "હાસ્યનિબંધ",
+  "active_genre_profiles": [
+    "nibandh_atmaparak.md"
+  ],
+  "explanation_unit": "એક ઘટના (એક સલાહ-પ્રસંગ)",
+  "teaching_lens": "સ્વર + પ્રસંગ + પોતાની જાત પરની નજર",
+  "guiding_question": "આંજણી મટાડવા દરેક વ્યક્તિ પોતાનો જ ઉપાય સાચો માની લેખિકાને શા માટે સલાહ આપતી રહી, અને લેખિકા આ બધી સલાહો કેમ સ્વીકારતાં ગયાં ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વિદ્યાબહેન નીલકંઠના જીવન અને લેખસંગ્રહો, ચરિત્ર તથા અનુવાદ-ગ્રંથો વિશે પાઠમાં અપાયેલી હકીકતો શોધીને કહેવી.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કૃતિ-પરિચયના આધારે આ હાસ્યનિબંધનો વિષય અને તેમાં રહેલી માનવસહજ વૃત્તિ કઈ છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "આંજણી થતાં લેખિકાએ શરૂઆતમાં શું કર્યું અને ઘરના દાક્તરે કઈ સલાહ આપી તે ક્રમમાં કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M2.S1.T3",
+      "anchor": [
+        "M2.S1.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કુટુંબના મિત્રે દાક્તર પર શા માટે ક્રોધ કર્યો અને પોતાનો કયો ઉપાય સૂચવ્યો તે તેમના જ શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S1.T4",
+      "anchor": [
+        "M2.S1.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દુકાનદારે અને ચશ્માંવાળાએ આપેલી બે અલગ સલાહો શોધીને, બંનેમાં પોતાના સ્વાર્થની વાત કઈ રીતે છુપાયેલી છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T5",
+      "anchor": [
+        "M2.S2.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "જૂના મુનીમે પોતાના સગાંવહાલાંનો દાખલો આપી કઈ સલાહ આપી અને તેને 'રામબાણ' કેમ કહી તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T6",
+      "anchor": [
+        "M2.S2.T6.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "હજામની સિંદૂરની સલાહ અને ઑફિસના સાથીના વિચિત્ર ટૂચકા વચ્ચેનો તફાવત શોધીને, બંને સલાહો કેમ હાસ્યાસ્પદ છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T7",
+      "anchor": [
+        "M2.S3.T7.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પારસી ભૈયાએ હિન્દી-મિશ્રિત બોલીમાં કઈ સલાહ આપી અને લેખિકાએ તેનો અમલ કેમ ન કર્યો તે પાઠમાંથી શોધીને કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T8",
+      "anchor": [
+        "M2.S3.T8.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "માસી, રસોઈયો, ધોબી અને પીંજારાએ એક પછી એક આપેલા ચાર જુદા ઉપાય ક્રમમાં યાદ કરીને કહેવા.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M2.S3.T9",
+      "anchor": [
+        "M2.S3.T9.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O10",
+      "legacy_id": "L10",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દણણાવાળી, ગોણ વેચનાર મારવાડી અને ગોરની સલાહો શોધીને, ગોણના શેકથી દરદ કેમ વધ્યું તે કારણ સાથે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T10",
+      "anchor": [
+        "M2.S4.T10.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O11",
+      "legacy_id": "L11",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પારસી દોસ્તદારની પારસી-ઢબની ગુજરાતી બોલીમાં અપાયેલી કાંદાની સલાહ પછી લેખિકાની સ્થિતિ કેવી થઈ તે વર્ણવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T11",
+      "anchor": [
+        "M2.S4.T11.C11"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O12",
+      "legacy_id": "L12",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વિધવા ફોઈએ પોતાનો 'પેટં' ઇલાજ કઈ રીતે વર્ણવ્યો અને લેખિકાને એ ઉપાય કેમ સૌથી વધુ ગમ્યો તે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S5.T12",
+      "anchor": [
+        "M2.S5.T12.C12"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O13",
+      "legacy_id": "L13",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખિકા છેવટે ફરી દાક્તર પાસે કેમ ગયાં અને પોતાના હિતેચ્છુઓનો આભાર માનતાં નિબંધ કઈ રીતે પૂરો કરે છે તે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S5.T13",
+      "anchor": [
+        "M2.S5.T13.C13"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9",
+    "L10": "O10",
+    "L11": "O11",
+    "L12": "O12",
+    "L13": "O13"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "લેખિકા અને કૃતિનો પરિચય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "વિદ્યાબહેન નીલકંઠ અને હાસ્યનિબંધનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "લેખિકા વિદ્યાબહેન નીલકંઠનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "વિદ્યાગૌરી રમણભાઈ નીલકંઠનો જન્મ અમદાવાદમાં થયો હતો. તેઓએ બી.એ. સુધીનું શિક્ષણ ગુજરાત કૉલેજ, અમદાવાદમાંથી પ્રાપ્ત કર્યું હતું. 'ફોરમ', 'ગૃહદીપિકા', 'નારીકુંજ', 'જ્ઞાનસુધા' તેમના લેખસંગ્રહો છે. 'પ્રો. ઘોંડો કેશવ કર્વે' ચરિત્ર તેમણે લખેલું છે. 'હાસ્યમંદિર'માં તેમના હાસ્યલેખો છે. 'સુધાહાસિની', 'હિન્દુસ્તાનમાં સ્ત્રીઓનું સામાજિક સ્થાન' એ તેમનાં અનુવાદનાં પુસ્તકો છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "લેખિકાનો જન્મ, શિક્ષણ અને સાહિત્યિક પ્રદાન"
+                }
+              ],
+              "modified_chunk": "આ ફકરો લેખિકા વિદ્યાગૌરી નીલકંઠનો પરિચય આપે છે. તેમનો જન્મ અમદાવાદમાં થયો હતો અને તેમણે ગુજરાત કૉલેજમાંથી ભણતર પ્રાપ્ત કર્યું (મેળવ્યું) હતું. તેમણે અનેક લેખસંગ્રહો (લેખોનાં પુસ્તકો), એક ચરિત્ર (કોઈના જીવનની વાત) અને હાસ્યલેખો લખ્યા છે, અને બે પુસ્તકોનો અનુવાદ (ભાષાંતર) પણ કર્યો છે.",
+              "word_count": {
+                "original": 46,
+                "modified": 44
+              },
+              "key_terms": [
+                "પ્રાપ્ત કરવું — મેળવવું",
+                "લેખસંગ્રહ — લેખોનું ભેગું કરેલું પુસ્તક",
+                "ચરિત્ર — કોઈ વ્યક્તિના જીવનની વાત",
+                "હાસ્યલેખ — હસાવે એવો લેખ",
+                "અનુવાદ — એક ભાષાનું લખાણ બીજી ભાષામાં ફેરવવું"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": []
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "કૃતિ-પરિચય : વણમાગી સલાહનો હાસ્યનિબંધ",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "આ હાસ્યનિબંધમાં પારકાની મુશ્કેલી જોઈને વણમાગી સલાહ આપનારા લોકોને કારણે સર્જાતી તકલીફોનું નર્મ-મર્મ ગદ્યમાં નિરૂપણ છે. દરદીનું અને દરદનું જે થવું હોય તે થાય પણ પોતે બતાવેલો ઉપાય જ ઉત્તમ છે અને તે કરવાથી રોગ તરત જ ભાગી જશે એવો દાવો અનેક ઓળખીતા - વણઓળખીતા લોકો કરતા જ હોય છે. આવા લોકોની સલાહને અનુસરતાં સર્જાતી વરવી સ્થિતિનું હાસ્યપૂર્ણ નિરૂપણ આ નિબંધના કેન્દ્રમાં છે. આંજણીના નિવારણ માટે અપાયેલી અનેક સલાહોનું રસપ્રદ નિરૂપણ અહીં છે. આ હાસ્યનિબંધ દ્વારા માનવ સ્વભાવમાં રહેલી શિખામણ આપવાની વૃત્તિનો પરિચય મળે છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "વણમાગી સલાહની વૃત્તિ પરનો નર્મ-મર્મ કટાક્ષ"
+                }
+              ],
+              "modified_chunk": "આ ફકરો જણાવે છે કે આ હાસ્યનિબંધ (હસાવે તેવો નિબંધ)માં શું છે. લેખિકાને આંજણી થાય છે ત્યારે ઓળખીતા-અજાણ્યા ઘણા લોકો વણમાગી (માગ્યા વગરની) સલાહ આપે છે, અને પોતાનો જ ઉપાય સાચો છે એવો દાવો કરે છે. આ સલાહો સ્વીકારવાથી સર્જાતી હાસ્યાસ્પદ સ્થિતિ આ નિબંધનું કેન્દ્ર છે, અને તેમાંથી માણસના શિખામણ આપવાના સ્વભાવ (વૃત્તિ) વિશે ખબર પડે છે.",
+              "word_count": {
+                "original": 85,
+                "modified": 57
+              },
+              "key_terms": [
+                "હાસ્યનિબંધ — હસાવે તેવો નિબંધ",
+                "વણમાગી (સલાહ) — માગ્યા વગર અપાયેલી (સલાહ)",
+                "નર્મ-મર્મ — હળવી પણ ચોટ પહોંચાડે તેવી મજાક",
+                "નિરૂપણ — રજૂઆત, વર્ણન",
+                "વૃત્તિ — સ્વભાવ, મનની ટેવ"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "વણમાગી સલાહની સાંકળ",
+      "segments": [
+        {
+          "segment_id": "M2.S1",
+          "segment_name": "ઘરના વર્તુળની સલાહ",
+          "topics": [
+            {
+              "topic_id": "M2.S1.T3",
+              "topic_name": "આંજણી થવી અને ઘરના દાક્તરની સલાહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "મને એક વાર આંજણી થઈ હતી. બે-ત્રણ દિવસ મેં કાંઈ ઈલાજ કર્યો નહીં. એમ જાણ્યું કે મટી જશે. એમાં શું ભારે દરદ છે? પરંતુ આંજણીએ બહુ પીડા કરવા માંડી એટલે અમારા ઘરના દાક્તર પાસે ગયો. તેમણે કહ્યું, ''એના પર કાંઈ લગાડવાની જરૂર નથી. પાકે એટલે મારી પાસે આવજો. હું નસ્તરથી ફોડીશ. એક થઈ છે તેમાં કાંઈ ફિકર નહીં. ફરી થશે તો પીવાની દવા હું લખી આપીશ. બહુ પીડા થાય તો શેક કરજો.''",
+              "concepts": [
+                {
+                  "concept_id": "M2.S1.T3.C3",
+                  "concept_name": "આંજણી અને ઘરના દાક્તરની રાહ જોવાની સલાહ"
+                }
+              ],
+              "modified_chunk": "લેખિકાને આંજણી (આંખની પાંપણ પર થતી ફોડલી) થાય છે, પણ શરૂઆતમાં તેઓ કંઈ ઈલાજ (ઉપાય) કરતાં નથી. જ્યારે પીડા વધે છે ત્યારે તેઓ ઘરના દાક્તર પાસે જાય છે. દાક્તર કહે છે કે કંઈ લગાડવાની જરૂર નથી, આંજણી પાકે ત્યારે તે નસ્તરથી ફોડશે, અને હાલ પૂરતું માત્ર શેક કરવાની સલાહ આપે છે.",
+              "word_count": {
+                "original": 72,
+                "modified": 51
+              },
+              "key_terms": [
+                "આંજણી — આંખની પાંપણના મૂળમાં થતી ફોડલી",
+                "ઈલાજ — ઉપાય, સારવાર",
+                "નસ્તર — વાઢકાપ કરવાનું નાનું હથિયાર",
+                "ફિકર — ચિંતા"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S1.T4",
+              "topic_name": "કુટુંબના મિત્રનો ક્રોધ અને તુવેરની દાળની સલાહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S1.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "હું ઘેર આવ્યો ત્યારે અમારા કુટુંબના એક મિત્ર મને મળવા આવેલા હતા. તેમણે કહ્યું, ''ભાઈ ક્યાં જઈ આવ્યા? આ આંખે શું થયું છે?'' મેં ઉત્તર દીધો. ''આંજણી થઈ છે, માટે દાક્તર પાસે ગયો હતો. પણ, દાક્તર કહે છે એને છેડશો નહિ. એની કાંઈ દવા નથી. બીજી થશે તો પીવાની દવા આપીશ.'' આટલું સાંભળતાં અમારા એ મિત્ર ક્રોધે ભરાઈ ગયા. ''હરામખોરો! દાક્તરોને સરકાર ગાંસડા ભરીને મફતનો પગાર ખવડાવે છે. વળી કહે છે કે એની કાંઈ દવા જ નથી ત્યારે એના ભણતરમાં શું પૂણો મૂકવાનો છે? અને કહે છે કે બીજી થાય ત્યારે આવજો. બીજીની વાટ જુઓ, ને એ ભાઈસાહેબને ત્યાંથી પીવાની દવા લાવો, કે એમનાં ગજવાં ભરાય. એમાં દવા પીધે શું થાય? તમે પણ ભલા માણસ છો. એક કોડીનું ખરચ નથી. તુવેરની દાળ ઘસીને ચોપડી દો એટલે નરમ પડી જશે.''\n\nમેં કહ્યું, ''દાક્તર દવા આપવાની ના કહે છે ને તમે કહો છો એનાં ગજવાં ભરાય. દવા તો બજારની લાવવાની છે.''\n\nઅમારા મિત્ર બોલ્યા, ''તમે છેક ભોળા છો. એ તો ગાંધી-વૈદ્યનું સહિયારું. વિલાયતના દવાવાળાઓ દાક્તરોને પગાર આપે છે. પગાર અને અહીંના વેચનાર કમિશન આપે છે.''\n\nમેં વધારે તકરાર કરી નહિ. એટલામાં પોસ્ટમેન ટપાલ લઈને આવેલો હતો તે કહે કે, ''આ શેઠ ખરું કહે છે. દાણ ચોપડજે સાહેબ, પણ જરા ગરમ કરજો.''\n\nઅમારા મિત્ર કહે, ''અરે જો જો, ગરમ ન કરશો. આંજણી ગરમીથી થાય, માટે ઠંડી દવા લગાડજો.''\n\nમેં કહ્યું, ''બહુ સારું''\n\nનોકર પાસે દાણ ઘસાવી પહેલી તો ઠંડી ચોપડી. વળી સાંજે ફરી ઘસાવી ગરમ કરી ચોપડી.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S1.T4.C4",
+                  "concept_name": "મિત્રનો દાક્તર પર ગુસ્સો અને પોતાનો ઘરગથ્થુ ઉપાય"
+                }
+              ],
+              "modified_chunk": "લેખિકાના કુટુંબના મિત્ર દાક્તરની સલાહ સાંભળીને ક્રોધે ભરાય છે અને દાક્તરોને હરામખોર કહી તેમના પર ગુસ્સો ઠાલવે છે. તેમના મતે દાક્તર અને દવાવાળા બંનેનું સહિયારું (ભાગીદારી) છે, એટલે પોતે ઘરગથ્થુ ઉપાય તરીકે તુવેરની દાળ ઘસીને ચોપડવાનું સૂચવે છે. પોસ્ટમેન અને મિત્ર બંને એ જ દાણ (દાળનો લેપ) ગરમ કરવો કે ઠંડો, એ અંગે સામસામી સલાહ આપે છે.",
+              "word_count": {
+                "original": 234,
+                "modified": 57
+              },
+              "key_terms": [
+                "ક્રોધ — ગુસ્સો",
+                "હરામખોર — સ્વાર્થી, લુચ્ચું (અહીં ગુસ્સામાં બોલાયેલો શબ્દ)",
+                "ગજવાં ભરાવાં — પૈસા કમાવા, ખિસ્સાં ભરાવાં",
+                "સહિયારું — ભાગીદારી, બે જણનું સાથે મળીને કરેલું કામ",
+                "દાણ — તુવેરની દાળનો ઘસેલો લેપ (અહીં)"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "બજારના વર્તુળની સલાહ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T5",
+              "topic_name": "દુકાનદારની જવ-સલાહ અને ચશ્માંવાળાની ગોગલ્સ-સલાહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "બીજે દહાડે બજારમાં કાંઈ લેવા હું ગયો તો દુકાનદાર કહે, ''સાહેબ આપને આંજણી થઈ છે તો જવ ઘસીને કાં ચોપડતા નથી. મફતની દવા છે, પણ જવ ઊભો ઘસવાનું ધ્યાનમાં રાખજો.'' તેને ત્યાં કોઈ બીજો ગૃહસ્થ આવેલો હતો તે કહે કે ''ઊભો નહીં આડો, મારો તો તેવો અનુભવ છે.''\n\nહું ઘરે જઈ એક વાર ઊભો જવ ઘસીને બીજી વાર આડો ઘસી ચોપડવા ધાર્યું. એમાં આપણું શું જાય, જેનાથી મટવાનું હશે તેનાથી મટશે. દુકાનમાંથી નીકળ્યો એટલામાં પાડોશની ચશ્માંની દુકાનના માલિકે મને દીઠો તે મારી પાસે આવી કહે કે ''ભાઈ સાહેબ, મારું કહ્યું માનો તો આ તમને આંજણી થઈ છે તે માટે એક ઝાંખા 'ગોગલ્સ' લઈ જાઓ. હું મારા સ્વાર્થ માટે નથી કહેતો. જોઈએ તો ખપ થઈ રહે એટલે એ જોડ પાછી મોકલાવજો. દુકાન આપની જ છે'' મેં ચશ્માંની જોડ વેચાતી લઈ પહેરી દીધી.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T5.C5",
+                  "concept_name": "જવ ઘસવાની અને ગોગલ્સ વેચાતાં લેવડાવવાની સલાહ"
+                }
+              ],
+              "modified_chunk": "બજારમાં દુકાનદાર લેખિકાને આંજણી માટે જવ (એક ધાન્ય) ઘસીને ચોપડવાનું કહે છે, પણ ત્યાં ઊભેલા બીજા ગૃહસ્થ કહે છે કે જવ ઊભો નહીં પણ આડો ઘસવો જોઈએ. પછી પાડોશની દુકાનના ચશ્માંવાળા મળે છે અને પોતાનો સ્વાર્થ નથી એમ કહીને એક ઝાંખા ગોગલ્સ પહેરવાની સલાહ આપે છે, જે લેખિકા સ્વીકારે છે.",
+              "word_count": {
+                "original": 131,
+                "modified": 50
+              },
+              "key_terms": [
+                "જવ — એક પ્રકારનું ધાન્ય (અનાજ)",
+                "ગૃહસ્થ — સજ્જન માણસ",
+                "સ્વાર્થ — પોતાનો ફાયદો",
+                "ઝાંખું — ઓછું ચોખ્ખું દેખાય તેવું (કાચ)"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T6",
+              "topic_name": "જૂના મુનીમની કેસર-સલાહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "ઘેર અમારા ઘરનો જૂનો મુનીમ આવેલો હતો તેણે પૂછ્યું, 'ચશ્માં કેમ ઘાલ્યાં છે શેઠ?' આંજણીની હકીકત જાણી તે કહે કે ''બધી વાત જવા દઈ કેસર ઘોળી ચોપડો, મારા બનેવીના બનેવીને, ભાણેજની ભાણેજને ને ફુઆને થઈ'તી તે અમે તો એ ઈલાજ કર્યો હતો. રામબાણ છે. ઘડીએકમાં મટી જશે.''\n\nકેસર મંગાવી મેં લગાડ્યું.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T6.C6",
+                  "concept_name": "સગાંવહાલાંના દાખલા સાથે અપાયેલી કેસરની 'રામબાણ' સલાહ"
+                }
+              ],
+              "modified_chunk": "ઘરના જૂના મુનીમ (હિસાબ રાખનાર માણસ) ચશ્માં જોઈને આંજણી વિશે પૂછે છે. તે પોતાના સગાં — બનેવી, ભાણેજ અને ફુઆ (ફોઈના પતિ)ને થયેલી આંજણી યાદ કરીને કેસર ઘોળીને ચોપડવાનું કહે છે અને તેને 'રામબાણ' (ચોક્કસ કામ કરે એવો) ઉપાય ગણાવે છે. લેખિકા કેસર મંગાવીને લગાડે છે.",
+              "word_count": {
+                "original": 51,
+                "modified": 46
+              },
+              "key_terms": [
+                "મુનીમ — પેઢીનો હિસાબ રાખનાર માણસ",
+                "ફુઆ — ફોઈનો પતિ",
+                "રામબાણ — ચોક્કસ કામ કરે એવો અંતિમ ઉપાય",
+                "ઘડીએકમાં — બહુ જ ઝડપથી, થોડી જ વારમાં"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "સેવકો અને સાથીઓની સલાહ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T7",
+              "topic_name": "હજામની સિંદૂર-સલાહ અને ઑફિસના સાથીનો ટૂચકો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "હજામત કરવા હજામ આવ્યો તે કહે કે 'સાહેબ, આ આંજણી પર શું લગાડો છો? સહુ કરતાં સિંદૂર મંગાવી દાબી દો તો તરત જ આંજણી દબાઈ જશે.'\n\nસિંદૂર પણ મેં દબાવ્યું.\n\nઓફિસમાં અમારી સાથે કામ કરનારામાંના એક કહે કે 'ભાઈ હમણાં આંજણીના વાયરા છે તેથી થોડા દહાડા રહીને મટશે. અહીંથી રજા લઈ એક દહાડો ઓઢી પોઢીને ઘેર સૂઈ રહો, ને તે કરતાં કાંઈ કરવું જ હોય તો એક ટૂચકો બતાવું. તમે કોઈ વાંઝણી સ્ત્રી જાણતા હો તો રાત પડે તેને ઘેર જઈ બારણાં ઠોકજો. તે પૂછે કે 'કોણ ?' તો કહેજો કે એ તો હું આંજણી રાણી. આજ મારે ઘેર ને કાલે તારે - એમ કહી ચાલ્યા આવજો. મારા સમ ટૂચકો અજમાવવા જેવો છે!'\n\nપરાયે ઘર કાંઈ કામ વગર રાતે એકલા જવાનું ઠીક ન લાગવાથી મેં ના કહી ત્યારે તેઓએ સાથે આવવા આગ્રહ કર્યો, ને તે રાતે મેં એ ઉપાય પણ અજમાવ્યો. પણ આંજણી તો જેમની તેમ રહી.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T7.C7",
+                  "concept_name": "સિંદૂર દબાવવાની સલાહ અને વાંઝણી સ્ત્રી પાસે જવાનો વિચિત્ર ટૂચકો"
+                }
+              ],
+              "modified_chunk": "હજામત કરવા આવેલો હજામ આંજણી પર સિંદૂર દાબવાની સલાહ આપે છે, અને લેખિકા તે પણ અજમાવે છે. ઑફિસના એક સાથી કહે છે કે આ તો 'આંજણીના વાયરા' (અમુક દિવસો ચાલતી અસર) છે અને એક વિચિત્ર ટૂચકો (અખતરો) બતાવે છે — રાત્રે કોઈ વાંઝણી સ્ત્રીના બારણે જઈ પોતાને 'આંજણી રાણી' કહેવાનું. લેખિકા આનાકાની છતાં એ ઉપાય પણ અજમાવે છે, પણ આંજણી એવી ને એવી જ રહે છે.",
+              "word_count": {
+                "original": 147,
+                "modified": 66
+              },
+              "key_terms": [
+                "વાયરા — હવાની અસર; અહીં 'અમુક દિવસો પૂરતી ચાલતી અસર'ના અર્થમાં",
+                "ટૂચકો — નાનો પ્રયોગ, અખતરો",
+                "વાંઝણી — સંતાન ન હોય તેવી સ્ત્રી",
+                "આગ્રહ — વારંવાર કહીને મનાવવાની કોશિશ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T8",
+              "topic_name": "પારસી મિલમાલિકના ભૈયાની ભાંગ-સલાહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O8"
+              ],
+              "original_chunk": "બીજે દહાડે મારા ઓળખાણવાળા એક શેઠની મિલનો ભૈયો કાંઈ કામસર આવ્યો. તેણે કહ્યું, 'જી ઈસમેં ક્યા બડી બાત હૈ! આઠ દિન એક છોટા કટોરા ભંગ પીના શુરૂ કરના. યાકૂતી બડી ઠંડી હૈ. આપ ઈનકા ગુન દેખ લો. ડોક્ટર કી દવાઈ મેં ક્યા પીનેકા?'\n\nમેં કહ્યું, ''ભૈયાજી હું ભાંગ કે બીજો કોઈ કેફી પદાર્થ પીતો નથી.''\n\nભૈયો કહે, 'અરે જી વો તો દવાઈ કે લિયે કહતા હૂં. થોડી-સી જરૂર પીના!' પરંતુ એની સલાહનો મેં અમલ કર્યો નહિ.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T8.C8",
+                  "concept_name": "હિન્દી-મિશ્રિત બોલીમાં અપાયેલી યાકૂતીની સલાહ અને લેખિકાનો ઇનકાર"
+                }
+              ],
+              "modified_chunk": "એક પારસી શેઠની મિલનો ભૈયો હિન્દી-મિશ્રિત બોલીમાં લેખિકાને આઠ દિવસ ભાંગ પીવાની સલાહ આપે છે અને યાકૂતી (ભાંગ-ઘીનું મિશ્રણ)ના ગુન (ફાયદા) વખાણે છે. લેખિકા સ્પષ્ટ ના પાડે છે કે તેઓ ભાંગ કે બીજો કોઈ કેફી પદાર્થ પીતાં નથી, અને છેવટે ભૈયાની આ સલાહનો અમલ કરતાં નથી.",
+              "word_count": {
+                "original": 76,
+                "modified": 46
+              },
+              "key_terms": [
+                "ભાંગ — એક પ્રકારનો નશાકારક પદાર્થ",
+                "યાકૂતી — ભાંગ અને ઘી-મસાલા ભેળવી બનાવેલું નશાકારક પીણું",
+                "કેફી પદાર્થ — નશો ચડાવે એવો પદાર્થ",
+                "ગુન — ગુણ, ફાયદો (અહીં હિન્દી-મિશ્રિત બોલીનો શબ્દ)"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T9",
+              "topic_name": "માસી, રસોઈયો, ધોબી અને પીંજારાની ચાર સલાહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O9"
+              ],
+              "original_chunk": "મારાં વૃદ્ધ માસી પૂજાનું ચંદન ઘસતાં હતાં. 'આ ચંદન લગાડી જો!' મેં તે લગાડ્યું. જમતી વખત રસોઈયો કહે, 'સૂંઠ ચોપડો.' મેં સૂંઠ પણ ચોપડી. ખેપ લઈને ધોબી આવ્યો તે કહે કે 'લવિંગ ઘસીને લગાવો', તે પણ લગાડ્યું. એટલામાં રૂ પીંજવા પીંજારો આવ્યો. તેણે કહ્યું કે, 'એક બેદું લાવી તેની સફેદી લગાડો ને જુઓ કે હું ખરો છું કે ખોટો. આપ મોટા માણસ છો એટલે હું વધારે કહી શકતો નથી.' તે ઉપાય પણ અજમાવ્યો, કેમ કે દુ:ખથી હું કંટાળી ગયો હતો, અને કાંઈ કરતે આરામ થાય છે એમ જાણી આ પરદુ:ખભંજન મનુષ્યોની સલાહ અમલમાં એક પછી એક મૂકતો હતો.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T9.C9",
+                  "concept_name": "ચંદન, સૂંઠ, લવિંગ અને બેદુંની સફેદી — ચાર ઘરગથ્થુ ઉપાય એક પછી એક"
+                }
+              ],
+              "modified_chunk": "લેખિકાનાં માસી પૂજાનું ચંદન આપીને લગાડવાનું કહે છે, રસોઈયો સૂંઠ ચોપડવાનું કહે છે, ખેપ લઈને આવેલો ધોબી લવિંગ ઘસવાનું કહે છે, અને રૂ પીંજવા આવેલો પીંજારો બેદાની (ઈંડાની) સફેદી લગાડવાનું સૂચવે છે. દુ:ખથી કંટાળેલાં લેખિકા આ ચારેય ઉપાય એક પછી એક અજમાવે છે, કેમ કે કંઈ પણ કરવાથી આરામ મળે એમ તેમને લાગે છે.",
+              "word_count": {
+                "original": 98,
+                "modified": 54
+              },
+              "key_terms": [
+                "ખેપ — ધોબીની કપડાં લેવા-મૂકવાની એક ફેરી",
+                "પીંજારો — રૂ પીંજવાનું (છૂટું પાડવાનું) કામ કરનાર",
+                "બેદું — ઈંડું (તળપદો શબ્દ)",
+                "પરદુ:ખભંજન — બીજાનું દુઃખ દૂર કરનાર"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "શેરી અને પડોશની સલાહ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T10",
+              "topic_name": "દણણાવાળીની આમલી-સલાહ અને ગોણ વેચનાર મારવાડીનો શેક",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O10"
+              ],
+              "original_chunk": "ઘરની દણણાવાળી લોટ લઈને આવી તે કહે કે 'શેઠસાહેબ, બધા ઉપાય કર્યા હશે, એક મારો અજમાવો. આમલીનો કચૂકો ઘસી તે કચૂકાનો ઘસેલો છેદો આંજણી પર વળગાડી દેવો. તે મટતાં સુધી ત્યાં ચોંટી રહેશે, અને મટશે એટલે એની મેળે ઊખડી જશે.\n\nઆ ઉપાય પછી બીજું કાંઈ લગાડાય નહિ, તેથી તે છેલ્લો અજમાવવો ધારી મેં જવાબમાં 'ઠીક' એમ કહ્યું.\n\nઓટલે હું ઊભો હતો એટલે ગોણ વેચનાર મારવાડી આવ્યો. તેણે કહ્યું, ''શેઠજી, અમારા લોકો તો આવી આંજણી થઈ હોય તેના પર ગોણનો ચપકો દે. છરીના પાના પર ગોણ મૂકી તેને તપાવી લગાડી દેવો. ગરીબ માણસનો ઉપાય છે. અમે દાક્તરના પૈસા ભરીએ તો મરી જઈએ.''\n\nગોણનો ચપકો તે શેક જેવો જ ધારી તે દીધો. પરિણામમાં દરદ વધ્યું. સાંજે અમારા ગોર કહે, 'ગોણ એકલો ગરમ, માટે એલચીને ઘીમાં ઘસી લગાવો દો. ઘીમાં સર્વ ગુણ રહેલા છે. હું તો દિવેલ પીવાને બદલે ઘી જ પીઉં છું.'",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T10.C10",
+                  "concept_name": "આમલીના કચૂકાનો છેદો, ગોણનો ગરમ ચપકો અને ગોરની એલચી-ઘીની સલાહ"
+                }
+              ],
+              "modified_chunk": "ઘરે અનાજ દળવા આવતી દણણાવાળી આમલીના કચૂકા (બીજ)નો ઘસેલો છેદો આંજણી પર ચોંટાડવાનું કહે છે, અને લેખિકા છેલ્લા ઉપાય તરીકે તે સ્વીકારે છે. પછી ગોણ (કોથળાનું કાપડ) વેચનાર મારવાડી ગોણનો ગરમ ચપકો દેવાનું સૂચવે છે, જેનાથી ઊલટાનું દરદ વધી જાય છે. સાંજે ગોર એલચીને ઘીમાં ઘસી લગાવવાની નવી સલાહ આપે છે.",
+              "word_count": {
+                "original": 140,
+                "modified": 51
+              },
+              "key_terms": [
+                "દણણાવાળી — ઘરે આવીને અનાજ દળી આપનારી સ્ત્રી",
+                "કચૂકો — આમલીનું બીજ",
+                "ગોણ — કોથળા માટે વપરાતું બરછટ કાપડ",
+                "ચપકો — ગરમ કરીને દબાવવાની ક્રિયા, શેક",
+                "ગોર — પૂજા-વિધિ કરાવનાર પુરોહિત"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T11",
+              "topic_name": "પારસી દોસ્તદારની કાંદા-સલાહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O11"
+              ],
+              "original_chunk": "એલચી ને ઘી લગાડાવતો હતો. એટલામાં મારા એક પારસી દોસ્તદાર આવી ચઢ્યા, તે કહે 'અરર! મિસ્ટર આય સું ગોજું કરી મૂક્યું છે! આંખને ઘી ગોરના લવારા કાંય ખવારોછ! એક કાંદો કાપી તેનો રસ લગાડો અને તેનાથી ન મટે તો મને ચાર તમાચા મારજો.'\n\nજેમ, તેમ કરી કાંદાની દુર્ગંધ વેઠી મેં એ પણ લગાડ્યો. હવે તો આંજણીના અંદર શા હાલ હતા તે ખબર પડે તેમ નહોતું. દવાઓનાં પડ ઉપરાઉપરી આવી આંખની બાજુ પર એક નાની ડુંગરી બની રહી હતી. તે પર છેવટે આમલીનો કચૂકો પણ લટકાવી દીધો હતો. દરદ થયા કરતું હતું તેથી ખબર પડતી હતી કે આ સર્વ ઇલાજો હજી પોતાનું કાર્ય કરી રહ્યા નહોતા. વેદનાને લીધે હું સૂઈ રહ્યો અને હવે કોઈ પૂછે તો કહેવું નહિ એવો નિશ્ચય કર્યો.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T11.C11",
+                  "concept_name": "પારસી-ઢબની ગુજરાતીમાં કાંદાના રસની સલાહ અને દવાઓની ડુંગરી"
+                }
+              ],
+              "modified_chunk": "એલચી-ઘી લગાડતી વખતે એક પારસી દોસ્તદાર આવી ચઢે છે અને પોતાની પારસી ઢબની ગુજરાતી બોલીમાં કહે છે કે ગોર-ઘીના લવારા (નકામી વાતો) સાંભળી લેખિકાએ ગોજું કરી નાખ્યું (ખરાબ હાલત કરી) છે. તે કાંદો કાપી તેનો રસ લગાડવાનું સૂચવે છે. લેખિકા કાંદાની દુર્ગંધ (ખરાબ વાસ) વેઠીને એ પણ અજમાવે છે, પણ આંજણી પર દવાઓની આખી ડુંગરી જ બની જાય છે.",
+              "word_count": {
+                "original": 120,
+                "modified": 59
+              },
+              "key_terms": [
+                "ગોજું — ખરાબ હાલત, બગાડો (પારસી ઢબની ગુજરાતી બોલીનો શબ્દ)",
+                "લવારા — બકવાસ, નકામી વાતો",
+                "ખવારોછ — ખાવ છો (પારસી ઢબની ગુજરાતી બોલી)",
+                "દુર્ગંધ — ખરાબ વાસ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S5",
+          "segment_name": "છેલ્લી સલાહ અને ઉકેલ",
+          "topics": [
+            {
+              "topic_id": "M2.S5.T12",
+              "topic_name": "વિધવા ફોઈનો 'પેટં' ઇલાજ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O12"
+              ],
+              "original_chunk": "એટલામાં મને ઠીક નથી જાણી મારાં એક વિધવા ફોઈ ખબર કાઢવા આવ્યાં. તે કહે ભાઈ તમે ઈંગ્રેજ ભણેલા તે ગણેલા નહિ. હું તો મને કાંઈ પણ થાય ત્યારે જરા લોટ ઘીમાં શેકી ખાઈ લઉં. વાત, કફ, પિત્ત, બધું મને તો એનાથી હઠે છે. જો બદામ હોય તો થોડી નાખું. નહીં તો ઘી ખાંડ ને લોટ તો ઘરમાં હોય જ. તાવ આવે, ઉધરસ થાય કે વા આવે, માથું દુખે, કે સળેખમ થાય પણ મારો તો એક 'પેટં' ઇલાજ છે. પેટમાં દુ:ખે તોપણ તે દહાડે નહીં પણ બીજે દહાડે એ ઉપાય કરવો કે દુખવાથી થયેલી અશક્તિ મટે, ફોઈનું લાલ ચણોઠી જેવું શરીર જોતાં એ ઉપાયનું વાસ્તવિકપણું મારા મનમાં ઊતર્યું, વળી શીરાનો સ્વાદ પણ કોને ન ગમે? માટે, બીજા ઉપાય કરતાં ઘણી વધારે ખુશીથી ફોઈનો ઉપાય શરૂ કર્યો અને ઘણા દિવસ ચાલુ રાખ્યો. પણ આંજણી તો કશાને ગાંઠે નહિ.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T12.C12",
+                  "concept_name": "ફોઈનો ઘી-લોટ-શીરાનો ઉપાય અને લેખિકાની સૌથી વધુ ગમતી પસંદગી"
+                }
+              ],
+              "modified_chunk": "લેખિકાની તબિયત જોવા આવેલાં વિધવા ફોઈ પોતાનો 'પેટં' (ખાસ પોતાનો) ઇલાજ જણાવે છે — તાવ, ઉધરસ કે કોઈ પણ તકલીફમાં ઘીમાં લોટ શેકીને ખાઈ લેવો. ફોઈનું તંદુરસ્ત, ચણોઠી જેવું લાલ શરીર જોઈને લેખિકાને આ ઉપાયનું વાસ્તવિકપણું (સાચાપણું) લાગે છે, અને શીરાનો સ્વાદ પણ ગમતો હોવાથી તેઓ સૌથી વધુ ખુશીથી આ ઉપાય ઘણા દિવસ સુધી ચાલુ રાખે છે. તોપણ આંજણી મટતી નથી.",
+              "word_count": {
+                "original": 136,
+                "modified": 61
+              },
+              "key_terms": [
+                "'પેટં' — 'પોતાનો' માટે વપરાયેલો બોલચાલનો શબ્દ (પોતાનો ખાસ ઇલાજ)",
+                "વાત, કફ, પિત્ત — આયુર્વેદ પ્રમાણે શરીરના ત્રણ મુખ્ય દોષ",
+                "અશક્તિ — નબળાઈ",
+                "ચણોઠી — એક લાલ રંગનું નાનું બી",
+                "વાસ્તવિકપણું — સાચાપણું, ખરાપણું"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S5.T13",
+              "topic_name": "અંતે દાક્તર પાસે અને ઉપસંહાર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "easy",
+              "depends_on": [
+                "M2.S1.T3"
+              ],
+              "objective_ids": [
+                "O13"
+              ],
+              "original_chunk": "અંતે પાછો દાક્તરને ઘેર ગયો. તેમણે આસિસ્ટંટ પાસે દવાઓનો ડુંગર સાફ કરાવ્યો. એક કલાકે અંદરની આંજણી દેખાઈ, તે પર દાક્તરે નસ્તર મૂક્યું. મને આરામ થયો. મારાં હિતેચ્છુઓએ મારી દયા ખાઈને મારા દુ:ખનો ભાર ઓછો કરવા કાળજી રાખી હતી તેમનો જાહેરમાં આભાર માનવાની આ તક લઉં છું.\n\n('હાસ્યમંદિર'માંથી)",
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T13.C13",
+                  "concept_name": "દાક્તર દ્વારા નસ્તરથી ફોડવું, આરામ અને હિતેચ્છુઓનો આભાર"
+                }
+              ],
+              "modified_chunk": "છેવટે કંટાળીને લેખિકા ફરી દાક્તર પાસે જાય છે. દાક્તર આસિસ્ટંટ (મદદનીશ) પાસે દવાઓનો ડુંગર (ઢગલો) સાફ કરાવે છે અને પછી નસ્તરથી આંજણી ફોડે છે, જેનાથી લેખિકાને આરામ થાય છે. નિબંધને અંતે લેખિકા પોતાના બધા હિતેચ્છુઓ (ભલું ઇચ્છનારાં)નો જાહેરમાં આભાર માને છે.",
+              "word_count": {
+                "original": 47,
+                "modified": 41
+              },
+              "key_terms": [
+                "આસિસ્ટંટ — મદદનીશ",
+                "ડુંગર — (અહીં) ખૂબ મોટો ઢગલો",
+                "હિતેચ્છુ — ભલું ઇચ્છનાર, શુભેચ્છક",
+                "આભાર માનવો — આભાર વ્યક્ત કરવો, ઋણ સ્વીકારવું"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "01_meta.json's structure_inventory.ghatna reports 13, but 00_chapter_normalized.md carries exactly 11 [[ઘટના: ...]] markers (lines 13,16,31,36,41,50,57,60,69,74,77). Per explanation_unit_map.md 'where the rendered page and the table disagree, the page wins' — this cut follows the 11 markers exactly, one topic per marker. Flagging the meta count mismatch for Agent 4's marker-count cross-check.",
+    "[[લેખક-પરિચય]] and [[કૃતિ-પરિચય]] are two separately marked apparatus blocks (unlike std-10's single unlabelled combined paragraph the explanation_unit_map.md describes) and are cut as two separate CONCEPT topics, one marker one topic, per the map's own rule.",
+    "M2.S1.T4 (કુટુંબના મિત્રની સલાહ) also contains three other voices inside the same ઘટના block in 00_chapter_normalized.md — the postman's aside ('દાણ ચોપડજે... પણ જરા ગરમ કરજો') and the mitra's counter ('ગરમ ન કરશો... ઠંડી દવા લગાડજો') — kept as one topic since they are one continuous exchange around the mitra's single piece of advice (તુવેરની દાળ), not a separate advice-giver of their own; the postman is not counted as a distinct ઘટના.",
+    "M2.S3.T7 groups the hajam's સિંદૂર advice and the office colleague's ટૂચકો under one marker ([[ઘટના: હજામની અને ઑફિસના સાથીની સલાહ]]) because Agent 1 marked them as a single ઘટના in the normalized file; kept as one topic per the one-marker-one-topic rule, with two concrete advice-givers noted in the concept name.",
+    "M2.S4.T10's marker ([[ઘટના: દણણાવાળી અને શેક તથા ગોણ વેચનાર મારવાડીની સલાહ]]) also contains the ગોર's એલચી-ઘી advice inline (given in reaction to the ગોણનો ચપકો causing more pain) — kept inside the same topic since it is the direct next beat of that same marker's block, not a separately marked ઘટના.",
+    "topic_category 'climax' is never used anywhere in this chapter per nibandh_atmaparak.md Avoid-gate #2 (હાસ્ય પ્રસંગ has no plot-turn climax); all core scenes are tagged 'core', the opener 'introduction', the close 'resolution'.",
+    "difficulty is set by dialect/register load for this L2 std-9 reader, per profiles/students/std-9.md's difficulty table and nibandh_atmaparak.md's language section: M2.S3.T8 (Parsi mill-hand's Hindi-mixed ભાંગ speech), M2.S4.T11 (Parsi-inflected Gujarati), and M2.S5.T12 (village-flavoured foi's long rambling speech) are the three dialect-heaviest scenes and are marked hard; the rest are easy/medium by sentence and vocabulary load, never by craft (this chapter names no અલંકાર in its apparatus for these prose topics).",
+    "M2.S5.T13 (અંતે દાક્તર પાસે) depends_on M2.S1.T3 (the first doctor visit) because the closing scene is an explicit narrative return to the same doctor set up at the chapter's opening ('અંતે પાછો દાક્તરને ઘેર ગયો'); no other topic carries real dependence and depends_on is left [].",
+    "The chapter's closing attribution line ('હાસ્યમંદિર'માંથી) sits inside M2.S5.T13's original_chunk span in 00_chapter_normalized.md (line 80) and belongs in that LAST topic's original_chunk per nibandh_atmaparak.md's closing-gesture rule; flagged here for Agent 5.",
+    "No REVIEW-type topic exists in this chapter: 00_chapter_normalized.md carries no in-text summary/wrap block between ઘટના — the essay runs as one continuous first-person chain to its own conclusion.",
+    "No સ્વાધ્યાય block, શબ્દ-સમજૂતી box, ભાષા-અભિવ્યક્તિ block or શિક્ષકની ભૂમિકા box is cut as a topic; all remain for Agent 10 / key_terms use per 01_meta.json's exercise_inventory and extraction_notes.",
+    "Objective texts are Bloom-Capitalised (Understand/Analyze/Evaluate/Remember) per phase2_contract.md; no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text — this chapter is prose and the profile's craft points (ટૂચકો escalation, કટાક્ષ) are left for Agent 12's explanation, not named in objectives.",
+    "Thin/uneven segment lengths: M1.S1 and M2.S1/M2.S2/M2.S4/M2.S5 hold two topics each, M2.S3 holds three (it groups the barber+colleague marker and the mill-hand marker and the maasi/cook/dhobi/pinjaro marker) — this follows the marker count and the 'circle of advice-givers' grouping (home / market / staff-and-colleagues / street / closing), not an even split; flagged for Agent 13's read of pacing.",
+    "All 13 topics' original_chunk transcribed verbatim from 00_chapter_normalized.md's marker blocks ([[લેખક-પરિચય]], [[કૃતિ-પરિચય]], and the 11 [[ઘટના: ...]] markers) -- one marker, one topic, matching 02_structure.json's frozen cut exactly. No marker was split or merged.",
+    "Every original_chunk cross-checked against the 150 dpi page renders (_renders/page-1.png through page-5.png, printed pages 3-7); a further 300 dpi crop of page-2's opening line was pulled to confirm 'ઊભો નહીં આડો' (with અનુસ્વાર) reads correctly in M2.S2.T5 -- matches 00_chapter_normalized.md exactly. No transcription defect found anywhere in this chapter's prose during this verification pass.",
+    "Multi-paragraph ઘટના blocks (M2.S1.T4, M2.S2.T5, M2.S2.T6, M2.S3.T7, M2.S3.T8, M2.S4.T10, M2.S4.T11, M2.S5.T13) join their printed paragraphs with a blank line ('\\n\\n') preserved between them, matching the page's own paragraph breaks -- consistent with output9/ch03's 05_with_content.json convention for this same run.",
+    "M2.S5.T13's original_chunk carries the closing attribution ('હાસ્યમંદિર'માંથી) as its final paragraph, per gujarati_verbatim.md rule 5 and nibandh_atmaparak.md's closing-gesture rule -- the source note belongs inside the LAST topic's original_chunk, which it does here.",
+    "Every colloquial/dialect form printed in the chapter -- 'ઊભો નહીં આડો', the Parsi mill-hand's Hindi-mixed speech ('જી ઈસમેં ક્યા બડી બાત હૈ...', 'ગુન', 'પીનેકા'), the Parsi dostdar's Parsi-inflected Gujarati ('ગોજું કરી મૂક્યું છે', 'ખવારોછ'), and the ફોઈની 'પેટં' -- is preserved unmodified in original_chunk and glossed (never corrected) in key_terms, per nibandh_atmaparak.md's hard gate #7 and shabd_gloss.md's કાવ્ય-રૂપ/દેશ્ય handling.",
+    "key_terms picked per reference/shabd_gloss.md's L2-recalibrated std-9 target (3-5 per topic, inside the 3-6 contract band): the printed શબ્દ-સમજૂતી box's own headwords (આંજણી, ઈલાજ/નસ્તર-adjacent, મુનીમ, ટૂચકો, પીંજારો, રામબાણ, બેદું/કચૂકો) were reused as evidence where the topic's chunk contains them, plus તત્સમ/આગત words the L2 std-9 reader stops on (ક્રોધ, હાસ્યનિબંધ, નિરૂપણ, હિતેચ્છુ) and the chapter's dialect/idiom vocabulary (ગોજું, ખવારોછ, ગુન, વાયરા). The printed રૂઢિપ્રયોગ 'પૂણો મૂકવો' (M2.S1.T4) and the MCQ-tested phrase 'ગાંધી-વૈદ્યનું સહિયારું' are deliberately NOT lifted whole into key_terms since the idiom itself belongs to Agent 10/ભાષા-બોધ per shabd_gloss.md's 'trap' section -- only the plain word 'સહિયારું' is glossed here, for comprehension of the sentence, not as the idiom answer.",
+    "modified_chunk on every topic is a plain 'શું થઈ રહ્યું છે' restatement in simple શિષ્ટ ગુજરાતી, 2-4 sentences, with the hardest words glossed inline in Gujarati (ધોરણ tier per shabd_gloss.md's gloss-density table -- no English placed in any modified_chunk); it is raw seed material for Agent 12, not the explanation itself -- no deeper reading, અલંકાર, ભાવ or real-life link is written here.",
+    "primary_content_type/available_content_types set to image for all 11 STORY_TELLING (ઘટના) topics, one image per પ્રસંગ per global_content_rules.md rule 9 and nibandh_atmaparak.md's Media prior. The two CONCEPT topics (M1.S1.T1 લેખક-પરિચય, M1.S1.T2 કૃતિ-પરિચય) carry no image: null / [], matching the same pattern used for the pre-reading CONCEPT topics in output9/ch01 and output9/ch03.",
+    "active_genre_profiles and explanation_unit are backfilled here from 01_meta.json (both declared inputs to this agent) since 02_structure.json for this chapter does not itself carry these two fields (unlike ch01/ch03's structure files, which already had them) -- values copied verbatim, nothing invented: active_genre_profiles=['nibandh_atmaparak.md'], explanation_unit='એક ઘટના (એક સલાહ-પ્રસંગ)'.",
+    "No topic's original_chunk, modified_chunk or key_terms introduces a numeral into display text, a '।' daṇḍa, Roman script, or Devanagari script, per global_content_rules.md rule 4 and gujarati_verbatim.md rules 1 and 6."
+  ],
+  "provenance": {
+    "agent": "05_verbatim_attachment",
+    "source_text": "00_chapter_normalized.md",
+    "verified_against_render": true,
+    "renders": [
+      "_renders/page-1.png",
+      "_renders/page-2.png",
+      "_renders/page-3.png",
+      "_renders/page-4.png",
+      "_renders/page-5.png"
+    ],
+    "notes": [
+      "This chapter's PDF is image-only; 00_chapter_normalized.md is Agent 1's transcription off the rendered pages. All 13 topics' original_chunk verified against the existing 150 dpi renders in output9/ch02/_renders/ (already produced by an earlier agent on this same chapter run); one line (M2.S2.T5's opening 'ઊભો નહીં આડો') was additionally re-rendered at 300 dpi into scratch/run-s9c2-05/ for a close zoom check, since it is the one spot in the chapter where two spellings of 'નહિ/નહીં' coexist on the page (the narration uses 'નહીં', the later ભાષા-અભિવ્યક્તિ block quotes the same line as 'નહિ') -- the 300 dpi crop confirms the narration instance is 'નહીં', matching 00_chapter_normalized.md exactly.",
+      "structure_inventory.ghatna in 01_meta.json reports 13, but 00_chapter_normalized.md carries exactly 11 [[ઘટના: ...]] markers plus 2 [[લેખક-પરિચય]]/[[કૃતિ-પરિચય]] apparatus markers = 13 topics total in 02_structure.json. This agent's 13 attached topics match 02_structure.json's frozen topic count exactly; the earlier ghatna=13-vs-11-markers mismatch was already flagged by Agent 2 in 02_structure.json's own notes and is not re-litigated here.",
+      "No mismatch between 00_chapter_normalized.md and the rendered pages was found anywhere in this chapter during this verification pass; nothing was reconstructed from memory or paraphrased in place of a verbatim passage."
+    ]
+  }
+}

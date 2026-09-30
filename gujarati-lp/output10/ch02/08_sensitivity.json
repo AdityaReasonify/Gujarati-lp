@@ -1,0 +1,47 @@
+{
+  "topics": [
+    {
+      "topic_id": "M2.S2.T2",
+      "areas": ["ક્ષેત્ર"],
+      "caution": "The wedding-procession terms — 'ગોતરીજ', 'રામણદીવડો', 'પૈડું સીંચાવું', 'ટોડલે થાપા' — could be explained as odd or unfamiliar customs rather than an ordinary rural Saurashtra wedding still recognisable today.",
+      "guidance": "In explanation, walk through the customs in the order the text lists them, using the key_terms glosses already supplied, and treat them as this village's normal wedding morning — never as a curiosity from 'olden times'; the real_life_example may draw on a wedding or engagement ritual the child has actually seen at home.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "areas": ["સમુદાય"],
+      "caution": "Ramzu could be introduced only as 'an old man playing a wind instrument for money', which erases both his craft (the 'અડાણો' raga, a real classical tune) and his identity as 'મીર' — a hereditary shehnai-playing family, as the chapter itself states ('કુટુંબમાં પેઢી-દર-પેઢી વારસામાં મળતી આવેલી શરણાઈ').",
+      "guidance": "In explanation, name him as the chapter does — 'રમઝુ મીર' — and treat his shehnai-playing as a skilled, inherited craft the whole village respects and depends on for weddings, not as begging or a curiosity; the crowd's own wonder at his 'સૂરશક્તિની બલિહારી' is the cue to follow.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M3.S4.T5",
+      "areas": ["સમુદાય", "વિકલાંગતા"],
+      "caution": "'નિકાહ પઢવો' could be glossed carelessly instead of named as the community's own marriage term, and the line 'વ્યવહારડાહ્યાં લોકો આ ...ધૂનને ગાંડપણમાં ખપાવતાં' (worldly-wise people wrote off his habit as madness) could be taught as a fact about Ramzu rather than as the village's own mistaken reading of a widower's grief and remembrance.",
+      "guidance": "Gloss 'નિકાહ પઢવો' as the Muslim community's own word for remarriage, exactly as the chapter uses it, without further comment on the custom; in explanation and any recall answer, make clear that the village calls his shehnai-at-the-grave habit 'ગાંડપણ' but the text itself is showing a father's private grief and love for his dead wife and daughter — never reuse 'ગાંડપણ' as a description of Ramzu in the child-facing prose.",
+      "severity": "hard"
+    },
+    {
+      "topic_id": "M4.S6.T7",
+      "areas": ["વિકલાંગતા"],
+      "caution": "The jaanaiyas' mockery — 'ડાગળી ચસકી ગયેલ છે', 'ગાંડા માણસની હાંસી', 'મગજ-મેટ થઈ ગયો', 'માગણ' — could be repeated in explanation or a recall answer as a neutral description of Ramzu, teaching the child that calling a grieving man 'મગજ-મેટ' is an accurate or acceptable thing to say.",
+      "guidance": "Keep every one of these taunts inside 'original_chunk' only, as the crowd's own cruel and mistaken words; in explanation, say what the crowd cannot see — that Ramzu is reliving his own daughter's વિદાય, not that he has genuinely lost his mind — so the child reads the mockery as the story's point of pathos, not as fact about Ramzu.",
+      "severity": "hard"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "સમુદાય",
+      "guidance": "Ramzu Mir, a Muslim shehnai player from a hereditary 'મીર' musician family, plays at a Hindu wedding (ગોતરીજ, કંકુના થાપા, ઘૂંઘટ) throughout the chapter — this cross-community presence is the ordinary, respected shape of rural Saurashtra wedding music in the text itself, so teach it exactly that way: unremarked and unremarkable, never as an example of 'tolerance' requiring commentary the chapter does not offer."
+    },
+    {
+      "area": "વિકલાંગતા",
+      "guidance": "Whenever Ramzu's grief surfaces as unusual behaviour, the village around him reaches for 'ગાંડો' / 'ડાગળી ચસકેલ' / 'ચસકેલ માણસ' — across every topic where this recurs, teaching prose must hold the narrator's own distance from that verdict: the reader is shown a father's private mourning, not confirmed mental illness, and the printed labels stay inside original_chunk, never inside explanation or a real_life_example."
+    },
+    {
+      "area": "જાતિ-ભૂમિકા",
+      "guidance": "Ramzu raises Sakina alone after his wife's death, refusing remarriage and giving her 'માતા તેમ જ પિતાના બેવડા વાત્સલ્યથી' (a mother's and a father's love together) — present this exactly as the chapter frames it, as devoted single fatherhood, without adding pity for the absent mother-figure or implying a father's care is somehow incomplete."
+    }
+  ],
+  "none_found": false
+}

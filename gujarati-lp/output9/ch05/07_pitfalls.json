@@ -1,0 +1,134 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation` may state or imply a specific cause, political movement, or party affiliation for ભોગીલાલ ગાંધીના જેલવાસ — this topic's `original_chunk` states only 'જેલવાસ દરમિયાન માર્ક્સવાદી સાહિત્યનું વાંચન', never why he was imprisoned or which movement/party he belonged to; naming a freedom-movement cause or a party label not printed is a political-framing violation.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક કવિ-પરિચયના 'જેલવાસ દરમિયાન માર્ક્સવાદી સાહિત્યનું વાંચન' વાક્ય પરથી એવું ધારી લે છે કે ભોગીલાલ ગાંધીને કોઈ ચોક્કસ રાજકીય ચળવળ કે પક્ષને કારણે જેલ થઈ હતી, જ્યારે ફકરો જેલવાસનું કારણ ક્યાંય જણાવતો જ નથી — ફક્ત એટલું કહે છે કે જેલમાં તેમણે શું વાંચ્યું.",
+      "correction": "સમજૂતીમાં ફક્ત એટલું જ કહો કે જેલવાસ દરમિયાન તેમણે માર્ક્સવાદી સાહિત્ય વાંચ્યું અને પછી 'વિશ્વમાનવ' માસિકનું સંપાદન કર્યું — જેલવાસનું કારણ કે કોઈ પક્ષનું નામ ઉમેર્યા વિના, ફકરો જે કહે છે એટલું જ કહો."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, any `concept_bullets` line or any `recall_questions[].answer` for this topic is an exhortation of the shape 'આપણે/મનુષ્યે ... જોઈએ' unless those exact words are quoted from this topic's `original_chunk` — the chunk itself states the theme as 'મનુષ્યે પણ પોતાના બળે જ આગળ વધવાનું છે', never with 'જોઈએ'.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation` or `real_life_example` may quote, paraphrase, or attribute specific lines/content to પ્રહ્લાદ પારેખનું 'આપણે ભરોસે' — this topic's `original_chunk` only names that poem for comparison ('પ્રહ્લાદ પારેખનું 'આપણે ભરોસે' કાવ્ય આ કાવ્ય સાથે સરખાવવા જેવું છે'); its own lines are not printed anywhere in this chapter, so treating them as known content is invention.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક કૃતિ-પરિચયના 'પ્રહ્લાદ પારેખનું આપણે ભરોસે કાવ્ય આ કાવ્ય સાથે સરખાવવા જેવું છે' વાક્ય પરથી ધારી લે છે કે 'આપણે ભરોસે' કાવ્યની પંક્તિઓ પણ આ પાઠમાં જ છપાયેલી છે, અને સમજૂતીમાં એ કાવ્યની કોઈ પંક્તિ કે વાત ટાંકવા લાગે છે — જ્યારે એ કાવ્ય અહીં ક્યાંય છપાયું જ નથી, ફક્ત નામ અપાયું છે.",
+      "correction": "સમજૂતીમાં 'આપણે ભરોસે'ને ફક્ત નામથી, સરખામણી માટેના બીજા કાવ્ય તરીકે જ ઉલ્લેખો — એની કોઈ પંક્તિ, વાત કે ભાવ આ પાઠના પોતાના શબ્દો તરીકે ક્યારેય ન લખો."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must name something concrete from this topic's `original_chunk` — દીવો, દિલ, તેજ, છાયા or પડછાયા — and not open on the ભાવ (સ્વાવલંબન) or a general statement about self-reliance.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `summary`, `detailed_summary`, any `concept_bullets` line, or any `recall_questions[].answer` is an exhortation of the shape 'આપણે/તારે ... જોઈએ' beyond the poem's own imperative 'તું તારા દિલનો દીવો થા' quoted verbatim from `original_chunk` — a generalised moral such as 'આપણે આપણી શક્તિ ઓળખવી જોઈએ' fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "This topic's `figures_of_speech[]` must be non-empty, or `explanation` must name this કડીની પ્રાસ (ભાયા-છાયા-પડછાયા) or its repeated 'ઓ રે ! ઓ રે !' call — `[]` with no craft sentence is half-taught.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation` or a `recall_questions[].answer` states as literal fact that the addressee must physically become a lamp — 'દીવો' is the image the poem uses for inner strength, and the reading must keep it as image, not fact.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation` replaces the printed 'રખે' with 'રહે' or treats it as a spelling mistake — it stays as printed and is glossed at point of use ('રખે — રખેને, એવું ક્યારેય ન બને કે', per `key_terms`), never corrected toward a modern form.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "L2 std-9 બાળક 'રખે કદી તું ઉછીનાં લેતો પારકાં તેજ ને છાયા' પંક્તિમાં 'રખે'ને 'રહે' (રહેવું) સમજી લે છે, એટલે આખી પંક્તિ ચેતવણીને બદલે એક સીધું વિધાન લાગે છે — જાણે કવિ કહેતા હોય કે 'તું ઉછીનું તેજ લેતો રહે', જે કવિના કહેવા કરતાં બરાબર ઊલટું છે.",
+      "correction": "સમજૂતીમાં 'રખે' શબ્દ પંક્તિની સાથે જ ગ્લોસ કરો — 'રખે — રખેને, એવું ક્યારેય ન બને કે' — અને પછી બતાવો કે આખી પંક્તિ એક ચેતવણી છે, વિધાન નહીં."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must name something concrete from this topic's `original_chunk` — કોડિયું, માટી, તેલ, દીવેલ or સળી — and not open on the ભાવ instead.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "This topic's `figures_of_speech[]` must be non-empty, naming the ઉપમા between કોડિયું and કાયા (licensed by this chapter's own printed ભાષા-અભિવ્યક્તિ line 'કાયાને માટીનું કોડિયુંની ઉપમા...'), or `explanation` must name that ઉપમા explicitly — `[]` with no craft sentence fails.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "If `figures_of_speech[]` names ઉપમા for this topic, its `lines` string must match `original_chunk` character-for-character ('કોડિયું તારું કાચી માટીનું') — the label is earned from the chapter's own apparatus wording, not asserted from literary convention or this profile's illustrative vocabulary.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation` states that the addressee literally owns or holds a physical clay lamp — 'કોડિયું', 'તેલ' and 'દીવેલ' stand for the body and its hidden strength, and the reading must keep that as image.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, or any `recall_questions[].answer` is an exhortation of the shape 'આપણે/તારે ... જોઈએ' unless quoted from this topic's `original_chunk`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'કોડિયું તારું કાચી માટીનું' પંક્તિને 'તું' અને 'કોડિયું' બે અલગ-અલગ વસ્તુ તરીકે વાંચે છે — જાણે કવિ કોઈ બહારના કોડિયાની વાત કરતા હોય — અને 'તારી કાયા જ કોડિયું છે' એ ઉપમા પકડ્યા વિના આગળ વધી જાય છે.",
+      "correction": "સમજૂતી પહેલાં કોડિયું-તેલ-દીવેલ-સળીનું ચિત્ર બતાવો, પછી સ્પષ્ટ કહો કે કવિ અહીં તારી કાયાને કોડિયા સાથે સરખાવે છે (ઉપમા) — જેમ ચિત્ર છે, ચેપ્ટરની ભાષા-અભિવ્યક્તિ પણ આ જ સરખામણી નોંધે છે."
+    },
+    {
+      "topic_id": "M2.S2.T5",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must name something concrete from this topic's `original_chunk` — આભ, સૂરજ, ચંદ્ર or તારા — and not open on the ભાવ or the poem's conclusion instead.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "This topic's `figures_of_speech[]` must be non-empty, or `explanation` must name this કડીની પ્રાસ (તેજરાયા-પરાયા) — `[]` with no craft sentence is half-taught.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation` or a `recall_questions[].answer` states as a literal, general fact that સૂરજ-ચંદ્ર-તારાનું તેજ is useless or bad — the poem's claim is only that it cannot substitute for lighting one's own આતમનો દીવો; stating it as a flat fact about celestial light is a literal reading of a figurative line.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation` corrects 'આતમ', 'વિણ' or 'પરાયા' toward 'આત્મા', 'વિના' or a modern paraphrase in place of the printed word — they stay as printed તળપદા words and are glossed (`key_terms`), never replaced.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, or any `recall_questions[].answer` is an exhortation of the shape 'આપણે/તારે ... જોઈએ' unless quoted from this topic's `original_chunk`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ત્રીજી કડીને પહેલી કડીથી અલગ, ફક્ત આકાશના વર્ણન તરીકે વાંચે છે — સૂરજ-ચંદ્ર-તારાના તેજને વખાણે છે, પણ 'તેજરાયા' અને 'પરાયા' શબ્દોને પહેલી કડીના 'પારકાં તેજ ને છાયા' સાથે જોડતો નથી, એટલે કવિની આખી દલીલ (ઉછીનું તેજ ગમે તેટલું મોટું હોય તોય પરાયું જ રહે છે) પકડાતી નથી.",
+      "correction": "સમજૂતીમાં 'તેજરાયા' અને 'પરાયા'ને પહેલી કડીના 'પારકાં તેજ ને છાયા' સાથે સ્પષ્ટ રીતે જોડો — બતાવો કે સૂરજ-ચંદ્ર-તારાનું તેજ પણ, ગમે તેટલું મોટું હોય, આતમનો દીવો પ્રગટાવવા માટે એ જ 'પરાયું' તેજ છે જેની ચેતવણી કવિએ પહેલી કડીમાં આપી હતી."
+    }
+  ],
+  "chapter_level": [
+    "No numeral appears inside any display text across this chapter's topics — 'બીજી કડીમાં', 'ત્રીજી કડીમાં', never 'કડી 2માં'/'કડી 3માં'; ordinal words only, numbers stay in ids and provenance.",
+    "This ગીતની પ્રાસ-સાંકળ (ભાયા-છાયા-પડછાયા-છુપાયા-રંગમાયા-તેજરાયા-પરાયા) અને એના તળપદા/આગત શબ્દો (રખે, આતમ, વિણ, પરાયા) ત્રણેય કડીના topics પર ફેલાયેલા છે — દરેક જગ્યાએ છપાયેલા સ્વરૂપે જ રહેવા જોઈએ, ક્યાંય માનક ગુજરાતી તરફ સુધારેલા નહીં.",
+    "Three works are named but never printed in full anywhere on this chapter's two pages — પ્રહ્લાદ પારેખનું 'આપણે ભરોસે' (કૃતિ-પરિચયમાં), અને શિક્ષકની ભૂમિકાના બે સંદર્ભો ('લાવરી અને તેનાં બચ્ચાં' અને રવીન્દ્રનાથ ટાગોરનું 'એકલો જાને રે..' તથા રઈશ મણિયારની બે પંક્તિ). No topic's `explanation`, `real_life_example`, `key_terms` or recall answer may quote or describe their content as if it were this chapter's own text."
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch18",
+  "genre": "urmikavya_geet",
+  "active_genre_profiles": ["urmikavya_geet.md"],
+  "explanation_unit": "એક કડી",
+  "teaching_lens": "ચિત્ર + ભાવ + અલંકાર",
+  "guiding_question": "દીકરીની વિદાય પછી ઘર અને શેરીમાં પડતા ખાલીપાને કવિ કયાં ચિત્રો અને રૂપકો દ્વારા બતાવે છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ-પરિચય અને કૃતિ-પરિચયના આધારે, કવિ અનિલ ચાવડા કયા વિષય પર આ ગીત રચે છે અને દીકરીની વિદાયથી ઘર-શેરીમાં કયો ભાવ પ્રસરે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1", "M1.S1.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ટેક અને પહેલી કડીમાં કવિ 'ગયો ગોખથી દીવો' અને 'ઘરનું અજવાળું' જેવાં રૂપકો વડે દીકરીની ગેરહાજરીનો ખાલીપો કઈ રીતે બતાવે છે તે શોધીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": ["M2.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બીજી કડીમાં કવિ રંગોળીની બદલાયેલી ભાત અને 'ઘરની આ મિરાત' તથા 'આંખોનું પરવાળું' જેવાં ચિત્રો વડે દીકરીની વિદાયનો કરુણ ભાવ કઈ રીતે ઘૂંટે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": ["M2.S2.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "કવિ અને કૃતિનો પરિચય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "અનિલ ચાવડા અને ગીતની ઓળખાણ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "અનિલ ચાવડાનો કવિ-પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "અનિલ ચાવડાનો કવિ-પરિચય"
+                }
+              ],
+              "note": "Marker [[કવિ-પરિચય]]. Prose printed for the student (poet-bio paragraph naming his જન્મસ્થળ, his કાવ્યસંગ્રહ/કથાસંગ્રહ/નિબંધસંગ્રહ titles, and the સાહિત્ય અકાદમી યુવા પુરસ્કાર) — CONCEPT topic per explanation_unit_map.md's rule that student-facing કવિ/લેખક-પરિચય prose is a CONCEPT topic, applied here (as in this run's ch01) because std-9 prints કવિ-પરિચય and કૃતિ-પરિચય as two SEPARATE markers rather than one unlabelled paragraph. One marker, one topic."
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "ગીતના ભાવ અને વિષયનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "ગીતના ભાવ અને વિષયનો પરિચય"
+                }
+              ],
+              "note": "Marker [[કૃતિ-પરિચય]]. Prose printed for the student (work-intro paragraph naming the theme: લગ્ન પછી દીકરીની વિદાયથી ઘરમાં અને શેરીમાં વ્યાપતો ખાલીપો, ગોખેથી દીવો ચાલ્યો જવાની ઉપમા, રંગોળીની ભાત) — CONCEPT topic, separate from T1 because the page prints two separate markers. depends_on T1 since the work-intro follows and presumes the poet has already been introduced. Sub-form is 'વિદાયગીત' per 01_meta.json's extraction_notes (inferred from title/theme, since the printed કૃતિ-પરિચય itself only says 'ગીત' three times and never the narrower label) — not asserted inside teaching text, only recorded here for Agent 12/13."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "દીકરીની વિદાયનું ગીત",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ટેક અને દીકરીની વિદાયની બે કડી",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "ઘરનું અજવાળું અને ગોખનો દીવો",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M1.S1.T2"],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "ઘરનું અજવાળું અને ગોખનો દીવો"
+                }
+              ],
+              "note": "Markers [[ટેક]] + [[કડી 1]], carried together by ONE topic. The ટેક ('આટઆટલાં વરસો જેણે રાખ્યું ઘર હૂંફાળું / મ્હેંદી મૂકી ચાલ્યું આજે ઘરનું એ અજવાળું') is printed as its own block ahead of કડી 1 in 00_chapter_normalized.md, but per 02_structure.md's rule for ઊર્મિકાવ્ય/ગીત ('the ધ્રુવપંક્તિ is quoted inside its કડી, never cut from what it asks for') and urmikavya_geet.md ('an identical ટેક is taught at first occurrence and referenced after; it never becomes a topic of its own') it is folded into the FIRST કડી's topic rather than standing as a fifth topic. The ટેક's second line then repeats verbatim (unchanged words, all three occurrences measured identical per 01_meta.json's genre_signals) at the end of કડી 1 and again at the end of કડી 2 — first occurrence taught here; T4 references it via depends_on rather than re-teaching it. This topic therefore carries TWO markers, which Agent 4 should count as: 5 printed markers total in this chapter ([[કવિ-પરિચય]], [[કૃતિ-પરિચય]], [[ટેક]], [[કડી 1]], [[કડી 2]]) mapped onto 4 topics (T1, T2, T3 carrying two, T4). Craft: the printed ભાષા-અભિવ્યક્તિ block and MCQ item 2 both name 'રૂપક' for ઘરનું અજવાળું / ગોખનો દીવો / ઘરની મિરાત, and 'અંત્યાનુપ્રાસ' for the rhyme pairs (હૂંફાળું-અજવાળું, દીવો-સીવો, રજવાડું-અજવાળું here) — std 9 is the standard where the named canon (profiles/students/std-9.md §1.3, includes રૂપક) begins, and the page itself prints both terms, so downstream agents may name exactly these two, only where the lines carry them. Set 'medium' (not 'hard'): vocabulary is glossed on-page (હૂંફાળું, ગોખ) or contextually clear, and while 'નૈં સંધાય... ગમે એટલું સીવો' is idiomatic/તળપદું it is a single turn of phrase, not medieval-dense verse."
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "રંગોળીની ભાત અને ઘરની મિરાત",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": ["M2.S2.T3"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C4",
+                  "concept_name": "રંગોળીની ભાત અને ઘરની મિરાત"
+                }
+              ],
+              "note": "Marker [[કડી 2]]. The ટેક's second line repeats identical at the end of this કડી too (third and final occurrence) — not re-taught here; depends_on M2.S2.T3, the topic that first taught it, per the identical-ટેક rule. Set 'climax' (topic_category): this is the poem's last and most emotionally dense કડી — રંગોળીની ભાત કાયમ માટે બદલાવી, ઘરની મિરાત દૂર ચાલી જવી, અને સૌની આંખો આંસુથી ભીંજાવી (metaphor 'આંખોનું પરવાળું') — the point the ખાલીપો peaks at, with only two કડી in the whole ગીત. Flag for Agent 5: 01_meta.json's extraction_notes record a genuine printed spelling inconsistency — THIS કડી's own line prints 'ઘરની આ મિરાત' with NO અનુસ્વાર, while the શબ્દ-સમજૂતી box and ભાષા-અભિવ્યક્તિ print 'મિરાંત' WITH અનુસ્વાર; Agent 5 must transcribe આ કડીની પંક્તિ ('મિરાત') exactly as printed in the કડી itself, not silently normalised to the gloss-box spelling."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut: 2 pre-reading CONCEPT topics ([[કવિ-પરિચય]], [[કૃતિ-પરિચય]]) + 2 POEM topics (T3 carrying [[ટેક]]+[[કડી 1]], T4 carrying [[કડી 2]]) = 4 topics carrying 5 printed markers, matching structure_inventory in 01_meta.json (kadi:2, tek_occurrences:3 — the tek's 3 occurrences are one FIRST teaching inside T3 plus two identical verbatim repeats, at the end of T3's and T4's original_chunk respectively, never re-taught).",
+    "genre prior agreement: 01_meta.json's active_genre_profiles ([urmikavya_geet.md]) and genre_signals match the diagnosis used here exactly (સ્વરૂપ ઊર્મિકાવ્ય-ગીત / વિદાયગીત sub-form, ટેક-કડી-કડી shape, no character, no ઘટના-chain, no છાપ inside the verse, modern named poet). No disagreement between the rendered page and the explanation_unit_map.md / urmikavya_geet.md prior to report.",
+    "કવિ-પરિચય and કૃતિ-પરિચય kept as TWO separate CONCEPT topics (not folded into one), because the rendered page carries them as two separate printed markers — same treatment as this run's ch01, consistent with explanation_unit_map.md's 'One marker, one topic.'",
+    "The ટેક is NOT given its own topic despite being printed as its own block ahead of કડી 1: it is textually identical at all three occurrences (verified in 01_meta.json's extraction_notes — 'the refrain is printed in full at every occurrence, never abbreviated', words unchanged), so per urmikavya_geet.md's hard gate ('an identical ટેક is taught at first occurrence and referenced after; it never becomes a topic of its own') it is absorbed into T3 (the first કડી's topic) and referenced via depends_on at T4. This is the single most important structural decision in this file and is flagged here explicitly for Agent 4's marker-count check and Agent 13's ટેક-handling check.",
+    "શબ્દ-સમજૂતી, all four printed સ્વાધ્યાય blocks (MCQ, બે-ત્રણ વાક્યમાં, સવિસ્તાર ઉત્તર, વિદ્યાર્થી-પ્રવૃત્તિ), ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are apparatus/exercise matter per global_content_rules.md rule 7 and explanation_unit_map.md's apparatus rule — none cut as topics; they stay for Agent 10 (per 01_meta.json's exercise_inventory) and for key_terms/ભાષા-બોધ sourcing. શિક્ષકની ભૂમિકા's four cited outside works/poets (દીકરી વ્હાલનો દરિયો; મુકેશ જોશી; અનિલ જોશી; દુલા ભાયા કાગ) are the book's own suggested references, not this chapter's poet or poem, and must never surface as facts about અનિલ ચાવડા or this ગીત in any downstream teaching field.",
+    "No segment beyond one per module was needed — this is a four-topic micro-chapter, so M1 holds the pre-reading pair and M2 holds the ટેક+કડી pair, each as a single segment. Module/segment names are descriptive and carry no digits per global_content_rules.md rule 4.",
+    "difficulty: all four topics set 'medium', relative inside this short chapter only. T1/T2 carry moderate biographical/thematic vocabulary (multiple book-genre nouns, a modern-register theme paragraph) but short prose. T3/T4 carry the chapter's named-device lines (રૂપક) and a couple of idiomatic/lightly-તત્સમ turns (નૈં સંધાય... ગમે એટલું સીવો; રજવાડું; મિરાત) but no medieval or જોડાક્ષર-dense register — per teaching_lens_map.md's std 9-10 hard criterion this stops short of 'hard'. No topic difficulty caps its objective's Bloom level (O2/O3 both reach Analyze regardless).",
+    "depends_on records real sequencing only, per 02_structure.md section 5: T2→T1 (work-intro follows poet-intro); T3→T2 (reading follows the intro pair); T4→T3 (second કડી follows the first, AND T3 is the topic that first teaches the identical ટેક T4's own printed line repeats).",
+    "Objectives: O1 covers the two pre-reading CONCEPT topics together (poet + work introduction read as one preparatory unit, mirroring this run's ch01 pattern); O2 and O3 give one sound, text-grounded objective anchor to each of the two reading-scene (POEM) topics. O2 and O3 both name રૂપક (Bloom Analyze) because the chapter's own printed apparatus (ભાષા-અભિવ્યક્તિ, MCQ item 2) names રૂપક for exactly these lines and std 9 is the standard where the named 7-અલંકાર canon (profiles/students/std-9.md §1.3) begins — no device is named beyond what the page itself names, and no છંદ or માત્રા-pattern is asserted anywhere in this file.",
+    "original_chunk left empty on every topic per spec: 'original_chunk stays empty; Agent 5 fills it.' No verbatim transcription performed here beyond what was needed to read the marker boundaries in 00_chapter_normalized.md. Agent 5 must preserve the ટેક's line exactly as printed inside each of T3's and T4's original_chunk (never expanded/abbreviated — the page here prints it in full every time, so no shorthand-expansion risk applies), and must copy T4's 'મિરાત' (no અનુસ્વાર) exactly as that કડી's own line prints it, distinct from the gloss-box's 'મિરાંત'."
+  ]
+}

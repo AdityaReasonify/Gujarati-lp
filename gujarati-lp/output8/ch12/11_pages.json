@@ -1,0 +1,6 @@
+{"textbook":"ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 8",
+ "textbook_url":"../Textbooks-pdf/std-8/ch-12-kshiti.pdf",
+ "textbook_pages":"94-107",
+ "source":"printed folio, read off renders of pdf pp. 106 and 119 of the chapter PDF (page-01.png shows folio 94, page-14.png shows folio 107); cross-checked against manifest.json row (printed_start 94, pdf_start 106, pdf_end 119) and profiles/boards/gseb_gujarati.md std-8 chapter table row 12, both of which agree",
+ "confidence":"medium",
+ "gaps":["textbook_url is a local path — the GSEB readers have no hosted URL","std-8 cover has not been read this run (profiles/boards/gseb_gujarati.md and 01_meta.json both flag this); the 'textbook' title string follows the board's standard format for std-8 but is not yet confirmed against an actual cover render"]}

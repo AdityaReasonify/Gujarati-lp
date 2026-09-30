@@ -1,0 +1,8 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9",
+  "textbook_url": "../Textbooks-pdf/std-9/ch-17-chhabi-bhitarni.pdf",
+  "textbook_pages": "83-86",
+  "source": "printed folio, read off renders of pdf pp. 87 and 90 of the chapter PDF (150 dpi for the full page, re-rendered at 250 dpi on the footer strip of pdf p. 90 to confirm the standard digit) — p.87 prints folio 83 in the number-box opener, p.90 prints folio 86 with footer 'ગુજરાતી (દ્વિતીય ભાષા), ધોરણ ૯', matching the std-9 manifest.json row (printed_start 83, pdf_start 87, pdf_end 90) exactly",
+  "confidence": "medium",
+  "gaps": ["textbook_url is a local path — the GSEB readers have no hosted URL", "textbook title carried from 01_meta.json; the std-9 cover itself has not been read/confirmed (profiles/boards/gseb_gujarati.md notes std 8 and 9 covers unconfirmed), so confidence is medium rather than high despite both end folios being read directly off renders"]
+}

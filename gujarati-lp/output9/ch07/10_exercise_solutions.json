@@ -1,0 +1,110 @@
+{
+  "_comment": "The SECOND deliverable. Every સ્વાધ્યાય block inventoried in 01_meta.json is answered here and NOWHERE else — સ્વાધ્યાય is never a teaching topic. GSEB PDFs are image-only: prompt_verbatim is transcribed from the rendered page (verified against pdftoppm -r 150 renders of Textbooks-pdf/std-9/ch-07-navsarjanni-vate.pdf, pages 30-31 printed / 1-2 in the render), never from a text layer. See reference/exercise_alignment.md and agents/10_exercise_solutions.md.",
+
+  "plan_id": "gseb_eng_gujarati9_ch7_v1",
+  "chapter_id": "gseb_eng_gujarati9_ch7",
+  "subject": "Gujarati",
+  "grade": 9,
+  "chapter_name": "નવસર્જનની વાટે",
+
+  "exercises": [
+    {
+      "exercise_id": "EX1",
+      "exercise_group": "MCQ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "નવસર્જનની વાટે વિહરતા લોકો માટે નીચેનામાંથી કયું વિધાન બંધબેસતું છે?\n(A) પ્રગતિમાં માનતા નથી. (B) તે હંમેશાં સૂતા રહે છે.\n(C) પ્રગતિના પંથના પ્રવાસી છે. (D) તે બેસી રહેનારા છે.",
+      "answer": "(C) પ્રગતિના પંથના પ્રવાસી છે.",
+      "explanation": "પહેલી કડીની પહેલી જ પંક્તિઓ કહે છે — 'નવસર્જનની વાટે વિહરતા, અમે પ્રગતિના પંથના પ્રવાસી' — એટલે (C) સાચો વિકલ્પ છે. (A) ખોટો છે, કારણ કે તેઓ ખુદ પ્રગતિના પંથના પ્રવાસી કહેવાય છે, પ્રગતિમાં અવિશ્વાસુ નહિ; (B) અને (D) ખોટા છે, કારણ કે આખું ગીત તેમને 'વિહરતા', 'ભમતા', 'વિચરતા' — સતત ગતિમાં રહેનારા બતાવે છે, સૂઈ રહેનારા કે બેસી રહેનારા નહિ.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પુસ્તકનો પ્રશ્ન ક્રમાંક 1.(1). ચારેય વિકલ્પ કડી 1ના જ શબ્દો/વિરોધી-ભાવ પર બંધાયેલા છે — વર્ગમાં કડી 1 ફરી વંચાવીને જ ચકાસવું.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T3"]
+    },
+    {
+      "exercise_id": "EX2",
+      "exercise_group": "MCQ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "ધરતીને કવિએ કેવી કહી છે?\n(A) બેહૂદી (B) કાળી (C) કદરૂપી (D) રંગીન",
+      "answer": "(D) રંગીન",
+      "explanation": "ત્રીજી કડીની પંક્તિ 'અમે રંગીન ધરાના રહેવાસી'માં કવિ ધરતીને સ્પષ્ટ રીતે 'રંગીન' કહે છે. (A) બેહૂદી, (B) કાળી અને (C) કદરૂપી — આ ત્રણેય નકારાત્મક શબ્દો ગીતમાં ક્યાંય વપરાયા નથી; કવિની આખી દૃષ્ટિ ધરતી માટે ઉત્સાહભરી અને સુંદર છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પુસ્તકનો પ્રશ્ન ક્રમાંક 1.(2). ભાષા-અભિવ્યક્તિ બ્લોક પોતે જ 'રંગીન' શબ્દને 'અલ્પમાં અધિકનું સૂચન' કરતું વિશેષણ ગણાવે છે — વર્ગમાં એ મુદ્દો પણ જોડી શકાય.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S3.T5"]
+    },
+    {
+      "exercise_id": "EX3",
+      "exercise_group": "MCQ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "નવસર્જનની વાટે વિહરનાર વ્યક્તિના હૃદયમાં શું જોવા મળે છે?\n(A) આશા (B) ઉલ્લાસ (C) નિરાશા (D) ઉપરનાં A અને B બંને.",
+      "answer": "(D) ઉપરનાં A અને B બંને.",
+      "explanation": "પહેલી કડીની પંક્તિ 'ઉર આશા ઉલ્લાસ ભરી ભમતા' બંને શબ્દો — આશા અને ઉલ્લાસ — સાથે વાપરે છે, એટલે (D) સાચો છે. (C) નિરાશા ખોટો છે, કારણ કે બીજી કડીમાં તો પ્રવાસી નિરાશાને 'હટાવશું' કહીને દૂર જ કરે છે — નિરાશા તેમના હૃદયમાં નથી, જે દૂર કરવાની છે તેમાં છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પુસ્તકનો પ્રશ્ન ક્રમાંક 1.(3). 'ઉર' શબ્દ (હૈયું) આ કડીમાં જ ગ્લોસ કરવો.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T3"]
+    },
+    {
+      "exercise_id": "EX4",
+      "exercise_group": "MCQ",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "નવસર્જનની વાટે ચાલનારને નીચેનામાંથી કઈ બાબત લાગુ પડતી નથી ?\n(A) જૂઠી કીર્તિના ભૂતને ભગાડવાની (B) અજબ આશાનાં સ્વપ્ન સજાવવાની\n(C) પૃથ્વી ઉપર નર્ક ઉતારવાની (D) મોહમાયાના ફંદને ફગાવવાની",
+      "answer": "(C) પૃથ્વી ઉપર નર્ક ઉતારવાની",
+      "explanation": "આ 'નથી' વાળો પ્રશ્ન છે, એટલે ધ્યાનથી વાંચવો પડે. ત્રીજી કડી કહે છે 'અમે પૃથ્વી પર સ્વર્ગને ઉતારશું' — નર્ક નહિ — એટલે (C) લાગુ પડતી નથી, અને એ જ સાચો ઉત્તર છે. (A), (B) અને (D) ત્રણેય ત્રીજી કડીની પોતાની પંક્તિઓ — 'જૂઠી કીર્તિના ભૂતને ભગાડશું', 'અજબ આશાનાં સ્વપ્ન સજાવશું', 'મોહમાયાના ફંદને ફગાવશું' — સાથે સીધી રીતે લાગુ પડે છે, એટલે એ ત્રણેય ખરેખર લાગુ પડતી બાબતો છે અને તેથી અહીં ખોટા વિકલ્પ ગણાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પુસ્તકનો પ્રશ્ન ક્રમાંક 1.(4) — negative-stem (01_meta.json ની extraction_notes માં પણ નોંધાયેલ ટ્રેપ-ફોર્મેટ). વર્ગમાં 'નથી' શબ્દ પર ભાર દઈને વંચાવવો. 'ભૂત' અહીં ખરેખરું ભૂત નહિ પણ ખોટી કીર્તિની ઘેલછા છે, અને 'સ્વર્ગ'/'નર્ક' બંને લાક્ષણિક (સારી/ખરાબ ધરતી) અર્થમાં છે — શાબ્દિક ભૂત-પ્રેત કે મરણોત્તર જગ્યા તરીકે ન સમજાવવું (07_pitfalls.json, M2.S3.T5).",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S3.T5"]
+    },
+    {
+      "exercise_id": "EX5",
+      "exercise_group": "બે-ત્રણ વાક્યોમાં ઉત્તર",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "કવિ પૃથ્વી ઉપર સ્વર્ગ કઈ રીતે ઉતારવા માગે છે?",
+      "answer": "કવિ મોહમાયાના ફંદને ફગાવીને અને જૂઠી કીર્તિની ઘેલછા (ભૂત)ને ભગાડીને પૃથ્વી ઉપર સ્વર્ગ ઉતારવા માગે છે. તેઓ નીંદ, આળસ, નિરાશા અને વેરઝેરને હટાવી-મિટાવીને, અજબ આશાનાં નવાં સ્વપ્નો સજાવીને નૂતન યુગના પ્રવાસી તરીકે આગળ વધવાનો સંકલ્પ કરે છે.",
+      "explanation": "કડી 2 અને કડી 3ની પોતાની પંક્તિઓ — 'નીંદ આળસ નિરાશા હટાવશું', 'વેરઝેર અમે મિથ્યા મિટાવશું', 'મોહમાયાના ફંદને ફગાવશું', 'જૂઠી કીર્તિના ભૂતને ભગાડશું', 'અજબ આશાનાં સ્વપ્ન સજાવશું' — આ first-person વચનો જ કવિનો રસ્તો બતાવે છે: જૂનું છોડવું અને નવું સજાવવું. 'ભૂત' અહીં ખરેખરું ભૂત નહિ પણ ખોટી કીર્તિની ઘેલછા છે, અને 'સ્વર્ગ' પણ મર્યા પછીની જગ્યા નહિ, આ જ ધરતી પર બનતું સુંદર જીવન છે.",
+      "acceptable_alternatives": [
+        "મોહમાયા, જૂઠી કીર્તિ, આળસ, નિરાશા અને વેરઝેર છોડીને તથા નવાં સ્વપ્નો સજાવીને."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પુસ્તકનો બ્લોક ક્રમાંક 2., ઉપ-પ્રશ્ન (1). std 9ના 'બે-ત્રણ વાક્યોમાં' પગથિયા મુજબ ઉત્તર બે-ત્રણ વાક્યોમાં જ મર્યાદિત રાખવો — સવિસ્તર ન લંબાવવો.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T4", "M2.S3.T5"]
+    },
+    {
+      "exercise_id": "EX6",
+      "exercise_group": "છ-સાત વાક્યોમાં ઉત્તર",
+      "skill": "writing",
+      "prompt_verbatim": "નૂતન યુગના પ્રવાસી કેવા હોય?",
+      "answer": "નૂતન યુગના પ્રવાસી નવસર્જનની વાટે વિહરનારા અને પ્રગતિના પંથે ચાલનારા હોય છે. તેમના ઉરમાં આશા અને ઉલ્લાસ ભરેલાં હોય છે, નિરાશા માટે ત્યાં જગ્યા નથી. તેઓ નીંદ, આળસ અને વેરઝેર જેવી બાબતોને હટાવી-મિટાવી દે છે અને વગડાના વાસીની જેમ મુક્તપણે વિચરે છે. મોહમાયાના ફંદમાં તેઓ ફસાતા નથી અને જૂઠી કીર્તિની ઘેલછાને પણ ભગાડી દે છે. તેમની પાસે અજબ આશાનાં નવાં સ્વપ્નો હોય છે, જેને તેઓ સજાવે છે. તેમનું સૌથી મોટું સ્વપ્ન છે — આ પૃથ્વી પર જ સ્વર્ગ ઉતારવું, જેથી કોઈ ઉદાસ ન રહે. આમ, નૂતન યુગના પ્રવાસી રંગીન ધરાના રહેવાસી બનીને નવસર્જનનું કામ કરનારા હોય છે.",
+      "explanation": "ત્રણેય કડીના પોતાના શબ્દોમાંથી આ ઉત્તર બંધાય છે — કડી 1 (વાટે વિહરતા, ઉર આશા ઉલ્લાસ), કડી 2 (નીંદ આળસ નિરાશા હટાવશું, વગડાના વાસી), કડી 3 (મોહમાયાના ફંદને ફગાવશું, જૂઠી કીર્તિના ભૂતને ભગાડશું, પૃથ્વી પર સ્વર્ગને ઉતારશું, રંગીન ધરાના રહેવાસી). ટેક 'અમે નૂતન યુગના પ્રવાસી' ત્રણેય કડીના અંતે એ જ ઓળખને દોહરાવે છે.",
+      "acceptable_alternatives": [
+        "એક ટૂંકી યાદી તરીકે પણ સ્વીકાર્ય: પ્રગતિના પંથના પ્રવાસી; આશા-ઉલ્લાસથી ભરેલા; આળસ-નિરાશા-વેરઝેર છોડનારા; મોહમાયા-જૂઠી કીર્તિથી દૂર રહેનારા; નવાં સ્વપ્નો સજાવનારા; પૃથ્વી પર સ્વર્ગ સર્જવાનો સંકલ્પ ધરાવનારા."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "પુસ્તકનો બ્લોક ક્રમાંક 3., ઉપ-પ્રશ્ન (1). 'છ-સાત વાક્યોમાં' પગથિયું, skill: writing — વર્ગમાં મુદ્દા તારવીને (ઓળખ → છોડવાનું → સજાવવાનું → અંતિમ સંકલ્પ) ક્રમમાં લખાવવું જેથી ઉત્તર છૂટોછવાયો ન બને.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T3", "M2.S2.T4", "M2.S3.T5"]
+    }
+  ],
+
+  "coverage_report": {
+    "blocks_found": [
+      "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો :",
+      "બે-ત્રણ વાક્યોમાં ઉત્તર લખો :",
+      "નીચેના પ્રશ્નનો છ-સાત વાક્યોમાં ઉત્તર લખો :"
+    ],
+    "blocks_answered": [
+      "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો :",
+      "બે-ત્રણ વાક્યોમાં ઉત્તર લખો :",
+      "નીચેના પ્રશ્નનો છ-સાત વાક્યોમાં ઉત્તર લખો :"
+    ],
+    "unanswered": [],
+    "unmapped": [],
+    "_note": "blocks_found matches 01_meta.json's exercise_inventory entry for entry (3 blocks, 6 items: MCQ x4, બે-ત્રણ વાક્યોમાં ઉત્તર x1, છ-સાત વાક્યોમાં ઉત્તર x1), per agents/10_exercise_solutions.md's rule not to assume a block the inventory does not record. FLAGGED GAP for Agent 1 / a correction pass: the rendered page (pdftoppm -r 150 render of Textbooks-pdf/std-9/ch-07-navsarjanni-vate.pdf, printed page 31) also prints a '[[વિદ્યાર્થી-પ્રવૃત્તિ]]' block with 2 bullets ('તમારી શાળામાં શું શું નવું કરી શકો તેનાં સૂચનોની યાદી તૈયાર કરો અને તમારા વર્ગશિક્ષકને આપો.' and 'તમારા ગામ/શહેરમાં શાનું નવસર્જન કરવા જેવું છે તેની યાદી તૈયાર કરી આચાર્યશ્રીને આપો.'), right after this ladder and before ભાષા-અભિવ્યક્તિ — the same position/shape as sibling output9/ch01, ch04 and ch05 (this run), all three of which DO record a 'વિદ્યાર્થી-પ્રવૃત્તિ' entry in their own 01_meta.json exercise_inventory and answer it in their own 10_exercise_solutions.json. This chapter's 01_meta.json extraction_notes instead groups વિદ્યાર્થી-પ્રવૃત્તિ with ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા as pure apparatus citing global_content_rules.md rule 7 — but rule 7 itself names 'પ્રવૃત્તિ' as a સ્વાધ્યાય sub-block belonging to exercise_solutions.json (unlike ભાષા-અભિવ્યક્તિ/શિક્ષકની ભૂમિકા, which reference/exercise_alignment.md's own 'What is not an exercise block' section excludes by name); reference/exercise_alignment.md's std-9 table also lists વિદ્યાર્થી-પ્રવૃત્તિ as part of the fixed ladder (22/23 chapters). This looks like an inventory omission in THIS chapter's 01_meta.json, not a genuine absence — recorded here rather than silently repaired, per the spec's rule on an Agent 1 mismatch and no_hallucination_policy.md's 'surfacing a gap is a success.' If 01_meta.json is corrected to add this block, Agent 10 should be re-run to answer it."
+  }
+}

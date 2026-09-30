@@ -1,0 +1,322 @@
+{
+  "chapter_id": "gseb_eng_gujarati10_ch3",
+  "plan_id": "gseb_eng_gujarati10_ch3_v1",
+  "genre": "નવલકથાખંડ",
+  "active_genre_profiles": [
+    "varta.md"
+  ],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "ભદ્રંભદ્રની કઈ ટેવો અને કઈ ભાષા તેમના પ્રયાણને હાસ્યાસ્પદ બનાવે છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક-પરિચય અને કૃતિ-પરિચયના ફકરા વાંચી, 'પ્રયાણ' નવલકથાખંડ 'ભદ્રંભદ્ર'નો અંશ છે અને ભદ્રંભદ્રની વિચિત્રતા-જુનવાણી ખ્યાલોમાંથી હાસ્ય જન્મે છે એ કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ભદ્રંભદ્ર પોતાના પ્રયાણને શ્રીરામ, શ્રીકૃષ્ણ અને ભીમસેનના પરાક્રમો સાથે સરખાવે છે તે પંક્તિઓ શોધી, આ સરખામણી અને 'અકથ્ય' શબ્દની પુનરાવૃત્તિ કેવી રીતે હાસ્ય સર્જે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T2",
+      "anchor": [
+        "M2.S2.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ટિકિટ-બારી પરના પ્રસંગમાં ભદ્રંભદ્રની સંસ્કૃતપ્રધાન ભાષા અને સોરાબજીની પારસી બોલી વચ્ચેનો વિરોધાભાસ તપાસી, આ ભાષા-ભેદ સંઘર્ષ અને હાસ્ય કેવી રીતે સર્જે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T3",
+      "anchor": [
+        "M2.S3.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'દુષ્ટ યવનનો સ્પર્શ થયો છે' કહી ભદ્રંભદ્ર સ્નાન કરે છે તે પ્રસંગ અને નખોદીઓ-ઘોરખોદીઓનાં નામ પાછળની વાત વાંચી, ભદ્રંભદ્રની જુનવાણી ચુસ્તતા કઈ રીતે છતી થાય છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T4",
+      "anchor": [
+        "M2.S4.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સહપ્રવાસી નામ-વહેમને શાસ્ત્ર-આધારિત તર્કથી સાચો ઠરાવવાનો પ્રયત્ન કરે છે તે સંવાદ વાંચી, જૂના ખ્યાલોને તર્કનું રૂપ આપવાની આ રીત લેખકના કટાક્ષને કેવી રીતે આગળ વધારે છે તે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S4.T5",
+      "anchor": [
+        "M2.S4.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "પરિચય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "લેખક અને કૃતિનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "લેખક-પરિચય અને કૃતિ-પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "રમણભાઈ મહિપતરામ નીલકંઠનું વતન અમદાવાદ હતું. તેઓ પંડિતયુગના અગ્રણી સાહિત્યકાર હતા. સાહિત્ય ઉપરાંત તેમની સમાજસેવા નોંધપાત્ર છે. તેમણે 'ભદ્રંભદ્ર' જેવી હાસ્યરસની વિખ્યાત નવલકથા તથા 'રાઈનો પર્વત' જેવું શિષ્ટ નાટક લખ્યું છે. 'કવિતા અને સાહિત્ય ભાગ 1થી 4'માં વિવેચનો-વ્યાખ્યાનો સંગ્રહાયાં છે. 'ધર્મ અને સમાજ' નામના બે ભાગમાં તત્ત્વચર્ચાને લગતાં વ્યાખ્યાનો ગ્રંથસ્થ છે.\n\nઆ ખંડ ગુજરાતી પ્રસિદ્ધ હાસ્યનવલકથા 'ભદ્રંભદ્ર'માંથી લેવામાં આવ્યો છે. ભદ્રંભદ્ર અને તેમના શિષ્ય અંબારામને મુંબઈ જવાનું હોય છે, તે ઘટનામાંથી ભદ્રંભદ્રની વિચિત્રતાઓ, જુનવાણી ખ્યાલો અને કૃત્રિમ, સંસ્કૃતપ્રધાન ભાષાના પ્રયોગથી હાસ્ય નીપજે છે. લેખકે ધર્મના નામે ચાલતા દંભ ઉપર કટાક્ષ કરવા સાથે મનુષ્ય પોતાના પુરાણા ખ્યાલોમાં કેવો બંધાયેલો હોય છે તેની ઘટનાઓ વર્ણવી છે. વિચિત્રતા કે આત્યંતિકતામાંથી કેવું હાસ્ય પેદા થાય છે તેના દૃષ્ટાંતરૂપ આ ખંડ છે.",
+              "modified_chunk": "રમણભાઈ નીલકંઠ અમદાવાદના સાહિત્યકાર હતા. તેમણે 'ભદ્રંભદ્ર' નામની હાસ્યરસની નવલકથા લખી છે. આ પાઠ એ જ નવલકથામાંથી લેવાયેલો એક ખંડ (ભાગ) છે, જેમાં ભદ્રંભદ્ર અને તેમના શિષ્ય અંબારામ મુંબઈ જવા નીકળે છે. ભદ્રંભદ્રના જુનવાણી (જૂના જમાનાના) ખ્યાલો અને કૃત્રિમ, સંસ્કૃત-ભારે ભાષાના ઉપયોગમાંથી હાસ્ય પેદા થાય છે.",
+              "word_count": {
+                "original": 117
+              },
+              "key_terms": [
+                "પંડિતયુગ — ગુજરાતી સાહિત્યનો એક જૂનો સમયગાળો, જ્યારે વિદ્વાન લેખકોએ સાહિત્ય રચ્યું",
+                "શિષ્ટ — સંસ્કારી, ગંભીર (અહીં નાટકનો પ્રકાર)",
+                "જુનવાણી — જૂના જમાનાના, પુરાણા વિચારોવાળું",
+                "કટાક્ષ — મજાક ઉડાવીને કરેલી ટીકા",
+                "દૃષ્ટાંતરૂપ — ઉદાહરણ તરીકે"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [],
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "રમણભાઈ નીલકંઠ અને 'ભદ્રંભદ્ર'નો પરિચય"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "સ્ટેશને ભદ્રંભદ્રનું પ્રયાણ",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ઘરેથી પ્રયાણનો ઉત્સાહ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T2",
+              "topic_name": "ઘરેથી પ્રયાણનો ઉત્સાહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "જમીને અમે સ્ટેશન પર ગયા. ઘેરથી નીકળતાં ભદ્રંભદ્રનો આનંદ અપાર હતો. કપાળે કંકુનો લેપ કરતાં મને કહે કે, 'અંબારામ, આજનો દિવસ મહોટો છે. આપણે આપણા વેદધર્મનું રક્ષણ કરવા, આર્યધર્મનો જય કરવા, સનાતન ધર્મનો પ્રચાર કરવા પ્રયાણ કરીએ છીએ. રાવણનો પરાજય કરવા નીકળતાં શ્રીરામની વૃત્તિ કેવી હશે ! કંસના વધનું કાર્ય આરંભતાં શ્રીકૃષ્ણનો ઉત્સાહ કેવો હશે ! કીચકને મર્દન કરવાની યુક્તિ રચતાં ભીમસેનનો ઉમંગ કેવો હશે !'\n\nચકિત થઈ મેં કહ્યું 'અકથ્ય, મહારાજ ! અકથ્ય.'\n\nભદ્રંભદ્ર બોલી ઊઠ્યા, 'તો મારી વૃત્તિ પણ આજ અકથ્ય છે. મારો ઉત્સાહ પણ આજ અકથ્ય છે. મારો ઉમંગ પણ આજ અકથ્ય છે અને અંબારામ ! એમ ન સમજશ કે આગગાડીમાં જાઉં છું તેથી જ મારી ગતિ આટલી ત્વરિત છે. મારો વેગ, મારો પોતાનો વેગ તને વિદિત છે ?'\n\nમેં કહ્યું, 'મહારાજ, તે દહાડે જમાલપુર દરવાજા બહાર એક શિયાળવાને વરુ ધારી આપણે પાછા ફર્યા હતા તે દહાડે તો તમે મારાથી બહુ અગાડી નીકળી ગયા હતા. તેવો વેગ કહો છો ?'\n\nભદ્રંભદ્રે ગંભીરતાથી કહ્યું, 'કંઈક તેવો, પણ તેથી સરસ.'",
+              "modified_chunk": "જમીને ભદ્રંભદ્ર અને અંબારામ સ્ટેશન તરફ નીકળે છે. ભદ્રંભદ્રને ખૂબ આનંદ છે, અને તે પોતાના પ્રયાણને શ્રીરામ, શ્રીકૃષ્ણ અને ભીમસેનનાં પરાક્રમો સાથે સરખાવે છે. પોતાનો ઉત્સાહ 'અકથ્ય' (કહી ન શકાય તેવો) છે એમ તે વારંવાર કહે છે. અંબારામ મજાકમાં યાદ કરાવે છે કે એક વાર શિયાળવાને વરુ સમજી ભાગતી વખતે ભદ્રંભદ્રનો વેગ ખરેખર વધારે હતો.",
+              "word_count": {
+                "original": 161
+              },
+              "key_terms": [
+                "અકથ્ય — કહી ન શકાય તેવું",
+                "ઉમંગ — ઉમળકો, ઉત્સાહ",
+                "વિદિત — જાણેલું, જાણમાં આવેલું",
+                "ત્વરિત — ઝડપી, વેગીલું",
+                "પ્રયાણ કરવું — પ્રસ્થાન કરવું, નીકળવું"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T2.C2",
+                  "concept_name": "ભદ્રંભદ્રનો પ્રયાણ-ઉત્સાહ અને પૌરાણિક સરખામણી"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "ટિકિટ-બારી પરનો પ્રસંગ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T3",
+              "topic_name": "ટિકિટ-બારી પર પારસી માસ્તર સાથે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S2.T2"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "ઉત્સાહની વાતો કરતા કરતા અમે સ્ટેશન પર જઈ પહોંચ્યા. અમારી બંનેની ટિકિટ કરાવવા ભદ્રંભદ્ર ગયા. હું જોડે ઊભો રહ્યો. બારીમાં ખભા સુધી ડોકું ઘાલી ભદ્રંભદ્રે કહ્યું, 'શ્રી મોહમયીની બે મૂલ્યપત્રિકા આપો.'\n\nટિકિટ માસ્તર પારસી હતો, તેણે કહ્યું 'સું બકેચ ? આય તો તીકીટ ઓફિસ છે.'\n\nભદ્રંભદ્રે ઉત્તર દીધો. 'યવન ! તેથી હું અજ્ઞ નથી. મારે મોહમયીની બે મૂલ્યપત્રિકાની આવશ્યકતા છે, તેનું વિતરણ કરવું એ તવ કર્તવ્ય છે.'\n\nટિકિટ ઓફિસમાં એક હિંદુ હતો, તેણે કહ્યું, 'સોરાબજી, એને ગ્રાંટરોડની બે ટિકિટ આપો.\n\nટિકિટ આપતાં સોરાબજી બોલ્યા કે, 'સાલો કંઈ મેદ થયેલોચ. હું તો સમજતો જ નહિ, કે એ સું બકેચ.'\n\nભદ્રંભદ્ર હવે કોપ શમાવી શક્યા નહિ. તેણે મહોટે નાદે કહ્યું, 'દુષ્ટ યવન ! તારી ભ્રષ્ટ વાસનાને લીધે તું અજ્ઞાન રહ્યો છે. મૂર્ખ –'\n\nઅગાડી બોલવાને બદલે ભદ્રંભદ્રે એકાએક ડોકું બહાર ખેંચી લીધું. ધબકારો થયો હતો અને બહાર આવી નાક પંપાળતા હતા તે પરથી મેં ધાર્યું કે પારસીએ મુક્કો માર્યો હશે, પણ મને તો એટલું જ કહ્યું કે, 'દુષ્ટ યવનનો સ્પર્શ થયો છે. માટે મારે સ્નાન કરી લેવું પડશે.'",
+              "modified_chunk": "ટિકિટ-બારી પર ભદ્રંભદ્ર સંસ્કૃત-ભારે ભાષામાં 'મોહમયી'ની (મુંબઈની) બે 'મૂલ્યપત્રિકા' (ટિકિટ) માગે છે, પણ પારસી માસ્તર સોરાબજી તેમની ભાષા સમજી શકતા નથી અને પોતાની બોલીમાં જવાબ આપે છે. ભદ્રંભદ્ર ગુસ્સે થઈ સોરાબજીને 'યવન' (વિદેશી) અને 'મૂર્ખ' કહે છે, અને સોરાબજી તેમને મુક્કો મારે છે. ભદ્રંભદ્ર આને 'દુષ્ટ યવનનો સ્પર્શ' ગણી સ્નાન કરવાનું નક્કી કરે છે.",
+              "word_count": {
+                "original": 166
+              },
+              "key_terms": [
+                "મૂલ્યપત્રિકા — ટિકિટ",
+                "અજ્ઞ — અજાણ",
+                "કર્તવ્ય — ફરજ",
+                "કોપ — ક્રોધ, ગુસ્સો",
+                "યવન — વિદેશી (અહીં) પરધર્મી/પરદેશી માટે વપરાયેલો જૂનો શબ્દ",
+                "તળપદો શબ્દ — 'બકેચ' (બોલે છે), 'સું' (શું), 'આય' (અહીં) — સોરાબજીની પારસી બોલીના ઉચ્ચાર પ્રમાણેના શબ્દરૂપ છે, ભૂલ નથી"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T3.C3",
+                  "concept_name": "સંસ્કૃતપ્રધાન ભાષા અને પારસી બોલી વચ્ચેનો ટકરાવ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "ટ્રેનમાં સહપ્રવાસીઓ સાથે",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T4",
+              "topic_name": "પ્લેટફોર્મ પર સ્નાન અને નવા સહપ્રવાસીઓ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "સ્નાન કરી રહ્યા પછી એ આગગાડીમાં જઈ બેઠા. ગાડી ઊપડવાને પંદર મિનિટની વાર હતી તેથી નીચે ઊતરી પાણી છંટાવી, ચોકો કરી તે ઉપર ઊભા રહી પાણી પીધું. ગાડી ઊપડવાની તૈયારી થઈ તેવામાં બે આદમી દોડતા દોડતા રઘવાયા થયેલા આવી બારણું ખેંચી બૂમ પાડવા લાગ્યા કે, 'માસ્તર, આ તો બંધ છે, બારણું ઉઘાડો, બારણું ઉઘાડો.' એક પોર્ટરે આવી બારણું ઉઘાડી બંનેને જોસથી અંદર ઘકેલી દીધા તે ભદ્રંભદ્ર પાસે બેસી ગયા. ભદ્રંભદ્રે સંકોચાઈને પૂછ્યું, 'ક્યાં જશો ?' 'મુંબઈ' કહ્યું, એટલે જિજ્ઞાસાથી પૂછ્યું, 'નામ શું ?' પેલા બેમાંના એકે કચવાઈને જવાબ દીધો, 'મારું નામ રામશંકર અને મારા ભાઈનું નામ શિવશંકર, પણ અમારાં ઘરનાં નામ નખોદીઓ અને ઘોરખોદીઓ છે. છોકરાં ન જીવે તેથી મા-બાપે એવાં નામ પાડેલાં.'",
+              "modified_chunk": "ભદ્રંભદ્ર 'દુષ્ટ યવનનો સ્પર્શ' થયો માની પ્લેટફોર્મ પર જ ચોકો કરી સ્નાન કરે છે, પછી ટ્રેનમાં જઈ બેસે છે. ટ્રેન ઊપડવાની તૈયારીમાં હતી ત્યારે બે ઉતાવળા મુસાફરો દોડતા આવી ડબ્બામાં ચડે છે અને ભદ્રંભદ્ર પાસે બેસે છે. પૂછતાં ખબર પડે છે કે તેમનાં અસલી નામ રામશંકર અને શિવશંકર છે, પણ છોકરાં જીવે એ માટે મા-બાપે તેમનાં ઘરનાં નામ 'નખોદીઓ' અને 'ઘોરખોદીઓ' જેવાં ખરાબ રાખેલાં છે.",
+              "word_count": {
+                "original": 113
+              },
+              "key_terms": [
+                "ચોકો કરવો — સ્નાન કે પૂજા માટે જમીન પર પાણી છાંટીને શુદ્ધ કરેલી જગ્યા બનાવવી",
+                "રઘવાયા થવું — બહુ જ ઉતાવળા થઈ જવું",
+                "જિજ્ઞાસા — જાણવાની ઇચ્છા",
+                "કચવાવું — અણગમા સાથે, નારાજગીથી બોલવું",
+                "સંકોચાવું — શરમ કે ખચકાટ અનુભવવો"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T4.C4",
+                  "concept_name": "શુદ્ધિ માટે સ્નાન અને નખોદીઓ-ઘોરખોદીઓનો પરિચય"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T5",
+              "topic_name": "સહપ્રવાસીઓની વહેમ વિશેની ચર્ચા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S4.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "એક ઉતારુ બોલ્યો કે, 'વહેમ, ઈમ કંઈ સોકરાં જીવે સે ?'\n\nબીજો ઉતારુ બોલી ઊઠ્યો, 'અમારા ગામના શંભુ પુરાણીનો ભાણેજ વલભો મુંબઈ જઈ અંગ્રેજ ભણી આવ્યો છે. તે તો કહે છે કે એ તો સુધારાવાળાએ અંગ્રેજ લોકોની દેખાદેખી શાસ્ત્ર જોયા વિના વહેમ વહેમ કરી કહાડ્યું છે. શાસ્ત્રમાં તો લખ્યું છે કે આપણા શરીરમાં નાસકમાં કઠોડાં મળે છે તેના જેવા-કોઠા છે. તેમાં વચ્ચે કમરખ જેવી દાબડી છે, તેમાં પ્રાણવાયુ ભરેલો છે. આવાં હલકાં નામ બોલીએ ત્યારે કમરખ આસપાસ કોઠામાંથી પિત્ત નીકળે, એટલે આયુષ્ય વધે. કમરખમાંથી પ્રાણવાયુની ધાર છૂટે, તે જીભને વળગી બહાર ઝરે તેની જોડે પેલું પિત્ત છૂટતું જાય, તેનું જોર નરમ પડે એટલે આયુષ્ય વધે. તેથી એ કાંઈ વહેમ નથી, ખરી વાત છે. ઘણાએ અજમાવી જોયેલું છે.'\n\n('ભદ્રંભદ્ર'માંથી)",
+              "modified_chunk": "એક ઉતારુ કહે છે કે ખરાબ નામ રાખવાથી છોકરાં જીવે એ માત્ર વહેમ છે. બીજો ઉતારુ આનો વિરોધ કરી, અંગ્રેજ ભણેલા પોતાના સગાનું નામ લઈ, શરીરની અંદરના 'કોઠા' અને 'પ્રાણવાયુ'ની બનાવટી શાસ્ત્રીય વાત કરી સાબિત કરવાનો પ્રયત્ન કરે છે કે ખરાબ નામ રાખવાથી ખરેખર આયુષ્ય વધે છે. તે પોતાની વાતને 'વહેમ નથી, ખરી વાત છે' કહી પૂરી કરે છે.",
+              "word_count": {
+                "original": 118
+              },
+              "key_terms": [
+                "વહેમ — ખોટી માન્યતા, ભ્રમ",
+                "શાસ્ત્ર — પ્રાચીન ગ્રંથોમાં લખાયેલું જ્ઞાન",
+                "પ્રાણવાયુ — શ્વાસમાં લેવાતો વાયુ (ઑક્સિજન)",
+                "આયુષ્ય — જીવવાનાં વર્ષો, ઉંમર",
+                "તળપદો શબ્દ — 'સે' (છે), 'ઈમ' (એમ), 'સોકરાં' (છોકરાં) — બોલચાલની તળપદી બોલીના શબ્દરૂપ છે, ભૂલ નથી"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ],
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T5.C5",
+                  "concept_name": "નામ-વહેમ પાછળની બનાવટી શાસ્ત્રીય દલીલ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Explanation unit = ઘટના (varta.md, નવલકથાખંડ sub-form), per 01_meta.json's explanation_unit and structure_inventory.ghatna:4. Four [[ઘટના: ...]] markers plus the un-marked-but-required [[લેખક-પરિચય]] concept topic give 5 topics total — matches Agent 1's marker count exactly; no marker was swallowed.",
+    "M2.S4 groups two ઘટના (સ્નાન, પછી સહપ્રવાસીઓ-ચર્ચા) into one segment because both occur inside the same train compartment once the journey has begun, distinct from the station-platform events of M2.S2-S3; this is a descriptive grouping choice, not a cut decision — each ઘટના marker still holds its own topic.",
+    "topic_category on M2.S3.T3 is 'climax' because the ticket-window exchange is where Bhadrambhadra's Sanskrit-laden speech collides hardest with reality and ends in the story's one physical turn (the slap) — the sharpest comic reversal in the excerpt. M2.S4.T5 is marked 'resolution' only in the sense that it is the excerpt's last printed topic; per varta.md's excerpt rule for નવલકથાખંડ the scene itself remains genuinely unresolved (it stops mid-conversation on '...ઘણાએ અજમાવી જોયેલું છે.') and no field in this file narrates what happens after.",
+    "Objectives were kept to what this chapter's own printed lines and its own ભાષા-અભિવ્યક્તિ box name as craft (the 'અકથ્ય' repetition, the Parsi-dialect mimicry) — both are explicitly discussed in the chapter's own apparatus, not imported labels. No અલંકાર name was invented; std 10 permits naming but nothing in this excerpt's rendered apparatus supplies a named અલંકાર to anchor, so none is claimed anywhere in this file.",
+    "No topic was cut from a સ્વાધ્યાય block, શબ્દ-સમજૂતી box, વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ or શિક્ષકની ભૂમિકા block — all five remain apparatus for Agent 10 per 01_meta.json's exercise_inventory and extraction_notes.",
+    "difficulty is set relative to this chapter only, per the std 9-10 row of the difficulty table in agents/02_structure.md: M2.S3.T3 (tatsam-dense speech colliding with Parsi-accented dialect, a genuinely dense line-by-line contrast) and M2.S4.T5 (a long tatsam-heavy pseudo-scientific monologue) are 'hard'; the two more straightforward narrative-and-dialogue topics are 'medium'; the short prose concept topic is 'easy'.",
+    "This chapter uses no ટેક, કડી, દુહો, પદ or other verse form (structure_inventory confirms tek_occurrences:0, kadi:0, duha:0, pad:0), so none of the verse-specific verbatim rules in gujarati_verbatim.md applied beyond the standing ones (no ।, no transliteration, attribution line kept).",
+    "original_chunk for every topic was copied verbatim from 00_chapter_normalized.md and cross-checked by this agent directly against the 150dpi renders in _renders/ (page-1.png for M1.S1.T1/M2.S2.T2/M2.S3.T3 start, page-1 into page-2 for the rest of M2.S3.T3 and M2.S4.T4, page-2 into page-3 for M2.S4.T5's opening line and attribution). No mismatch found between 00_chapter_normalized.md and the rendered pixels; 01_meta.json's own extraction_notes record a prior double-render cross-check by Agent 1 at 100dpi and 200dpi with the same result — no defect to report.",
+    "The attribution line ('ભદ્રંભદ્ર'માંથી) is kept inside M2.S4.T5's original_chunk as the excerpt's final printed line, per gujarati_verbatim.md rule 5 and varta.md's excerpt rule — it is not moved to a metadata field.",
+    "Parsi-dialect and other characters' accented speech (સોરાબજીનું 'સું બકેચ ?', સહપ્રવાસીઓનું 'સે', 'ઈમ', 'સોકરાં') and the tatsam-heavy old-fashioned forms Bhadrambhadra uses (મહોટો, અગાડી, તવ, યવન) were copied exactly as printed — none was corrected toward માનક ગુજરાતી, per gujarati_verbatim.md and varta.md's dialect-preservation hard gate.",
+    "key_terms drew first from the chapter's own શબ્દ-સમજૂતી box (સમાનાર્થી શબ્દ/શબ્દાર્થ, તળપદા શબ્દો) as evidence of what the book itself flags as hard, then were distributed per-topic inside the std-10 3-5 band per shabd_gloss.md — no topic simply copied the whole box, and the box's રૂઢિપ્રયોગ/વિરુદ્ધાર્થી/શબ્દસમૂહ-માટે-એક-શબ્દ entries were left out of key_terms as instructed (they belong to Agent 10 and bhasha_bodh fields).",
+    "primary_content_type is 'image' on all four STORY_TELLING (ઘટના) topics per varta.md's Media prior ('one image per ઘટના') and global_content_rules.md item 9; M1.S1.T1 is the author/work-introduction CONCEPT topic, not a ઘટના, and is left text-only (null / []) since no reading scene is described there to depict.",
+    "No explanation, real_life_example, summaries, recall_questions, figures_of_speech or media fields were written in this file — those are out of scope for this agent per the spec's Do-not list."
+  ]
+}

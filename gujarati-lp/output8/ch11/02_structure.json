@@ -1,0 +1,450 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch11",
+  "plan_id": "gseb_eng_gujarati8_ch11_v1",
+  "chapter_name": "જામફળ અને જલેબી",
+  "grade": 8,
+  "genre": "આત્મકથા-ખંડ (સંસ્મરણ)",
+  "active_genre_profiles": [
+    "nibandh_atmaparak.md"
+  ],
+  "explanation_unit": "એક પ્રસંગ, અથવા વિચારનો એક વળાંક",
+  "teaching_lens": "સ્વર + પ્રસંગ + પોતાની જાત પરની નજર",
+  "guiding_question": "શાહપુર-બેળગુંદીના મોસાળમાં વીતાવેલા નિશાળ-ભાગેડુપણા, જામફળની ઝપાઝપી અને જલેબીની જબરદસ્તી જેવા તોફાની પ્રસંગો યાદ કરતાં લેખક પોતાના બાળપણ વિશે શું કહી જાય છે ?",
+  "counts": {
+    "modules": 4,
+    "segments": 5,
+    "topics": 9,
+    "concepts": 10,
+    "objectives": 9,
+    "ghatna_markers_in_00": 9,
+    "topics_carrying_a_ghatna_marker": 9
+  },
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9"
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "નદીકાંઠે રસોઈ ન કરવા બાએ આપેલું કારણ શોધીને, દત્તુએ સામે કઈ દલીલ કરી હતી તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શાહપુર પહોંચીને દત્તુને કઈ કઈ નવી-અજાણી બાબતો દેખાઈ અને મોડકા માસ્તર ભણાવવાની કઈ રીત વાપરતા તે લખાણ પરથી કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": [
+        "M1.S2.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મોડકા માસ્તરની ચૂંટી પછી દત્તુએ નિશાળે કાયમ ન જવા માટે શું મનસૂબો કર્યો અને એ કેવી રીતે પાર પાડ્યો તે ક્રમમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઝૂંપડીના છાપરાના હીંચકાથી શું બન્યું અને મામીએ યુક્તિથી દત્તુને ઘરેથી શા માટે દૂર મોકલ્યો તે કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રસ્તો ભૂલેલા દત્તુએ ડોશીમાના સવાલનો મરાઠીમાં કયો જવાબ આપ્યો અને એ જવાબ પરથી પછી કેવી મજાક ઊભી થઈ તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "જામફળના પલાયન યુદ્ધમાં સૌથી નાનો હોવા છતાં દત્તુએ પોતાનું જામફળ બચાવવા કઈ યુક્તિ વાપરી અને એનું શું પરિણામ આવ્યું તે ક્રમમાં કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S4.T6",
+      "anchor": [
+        "M3.S4.T6.C6",
+        "M3.S4.T6.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "શાખ બેસાડવા વધારે જામફળ ખાવાથી ગોંદુને શું થયું અને દત્તુ-કેશુએ એને પછીના દિવસે શા માટે ઠપકો આપ્યો તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S4.T7",
+      "anchor": [
+        "M3.S4.T7.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગોંદુએ મરચું ખાવા પાછળ કયું કારણ આપ્યું અને એની વાત ગળે ન ઊતરવા છતાં દત્તુએ કેમ મરચું ખાધું તે કારણ સાથે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M4.S5.T8",
+      "anchor": [
+        "M4.S5.T8.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કેશુએ ચોરેલી જલેબી દત્તુને પરાણે કઈ રીતે ખવડાવી અને એને અંતે જલેબી ભાવતાં કેવી રીતે આવડ્યું તે લખાણમાંથી કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M4.S5.T9",
+      "anchor": [
+        "M4.S5.T9.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "શાહપુરની મુસાફરી અને નિશાળ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "નદીકાંઠે વિરામ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "બળદગાડીની મુસાફરી અને નદીકાંઠાનો વિરામ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: સતારાથી શાહપુરની બળદગાડી-મુસાફરી અને નદીકાંઠે વિરામ]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "નદીકાંઠે બાની ના અને દત્તુની દલીલ",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "મોડકા માસ્તરની નિશાળ અને છુટકારો",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "શાહપુરની નવી દુનિયા અને મોડકા માસ્તર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: શાહપુરમાં નવી દુનિયા — ભાષાભેદ અને મોડકા માસ્તરની નિશાળ]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "શાહપુરની નવી દુનિયા અને મોડકા માસ્તરની રીત",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "ચૂંટી અને નિશાળમાંથી કાયમી છુટકારો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S2.T2"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: મોડકા માસ્તરની ચૂંટી અને નિશાળમાંથી કાયમી છુટકારો]]",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "ચૂંટી પછીનો મનસૂબો અને કાયમી છુટકારો",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "બેળગુંદીની સફર",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "ઝૂંપડીનું તોફાન અને રસ્તાની ભૂલ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "ઝૂંપડીના છાપરાનો હીંચકો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: બેળગુંદીની મુલાકાત — ઝૂંપડીના હીંચકા]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "છાપરાનો હીંચકો અને મામીની યુક્તિ",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "રસ્તો ભૂલવો અને ડોશીમાની મદદ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S3.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: રસ્તો ભૂલવો અને ડોશીમાનો સવાલ — ‘મી આઈ ચા’ની મજાક]]",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "રસ્તાની ભૂલ, ડોશીમાનો સવાલ અને મરાઠી જવાબ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "જામફળની ઝપાઝપી અને ખોટી શાખ",
+      "segments": [
+        {
+          "segment_id": "M3.S4",
+          "segment_name": "પલાયન યુદ્ધ અને ગોંદુની માંદગી",
+          "topics": [
+            {
+              "topic_id": "M3.S4.T6",
+              "topic_name": "જામફળનું પલાયન યુદ્ધ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S3.T5"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: માસીના બગીચામાં જામફળનું પલાયન યુદ્ધ]]",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T6.C6",
+                  "concept_name": "સૌથી નાનો હોવાની કબૂલાત અને પલાયન યુદ્ધ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S4.T6.C7",
+                  "concept_name": "બચકાની યુક્તિ અને જીતેલી વાહવાહ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S4.T7",
+              "topic_name": "ખોટી શાખ અને ગોંદુની માંદગી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M3.S4.T6"
+              ],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: ગોંદુની ખોટી ‘શાખ’ અને ખરેખરી માંદગી]]",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T7.C8",
+                  "concept_name": "ખોટી શાખ બેસાડવાની જીદ અને ગોંદુની માંદગી",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M4",
+      "module_name": "મરચાં અને જલેબીની મજા",
+      "segments": [
+        {
+          "segment_id": "M4.S5",
+          "segment_name": "ગોંદુ સાથે મરચાં, કેશુ સાથે જલેબી",
+          "topics": [
+            {
+              "topic_id": "M4.S5.T8",
+              "topic_name": "ગોંદુ સાથે મરચાં ખાવાની હોડ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O8"
+              ],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: ગોંદુ સાથે મરચાં ખાવાની હોડ]]",
+              "concepts": [
+                {
+                  "concept_id": "M4.S5.T8.C9",
+                  "concept_name": "આબાની શિખામણ અને મરચાં ખાવાની હોડ",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M4.S5.T9",
+              "topic_name": "કેશુની જલેબીચોરી અને પરાણે જલેબી ખવડાવવી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O9"
+              ],
+              "original_chunk": "",
+              "source_marker": "[[ઘટના: કેશુની જલેબીચોરી અને દત્તુને પરાણે જલેબી ખવડાવવી]]",
+              "concepts": [
+                {
+                  "concept_id": "M4.S5.T9.C10",
+                  "concept_name": "જલેબીચોરી, પરાણે ખવડાવવું અને છેવટે ભાવતું થવું",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "MARKER PARITY — 00_chapter_normalized.md carries exactly nine [[ઘટના: …]] markers and this cut produces exactly nine topics, one per marker, in printed order. Each topic records its marker verbatim in `source_marker` so Agent 4 can count both directions. No marker was swallowed and no topic was created where no marker sits. 01_meta.json's extraction_notes calls these nine markers 'a reading, not printed structure' and explicitly frees Agent 2 to merge or re-split them; on re-reading the running prose the nine turns are genuinely where the attempt fails, the mood turns, or the writer moves to a new stretch of remembered time, so the 1:1 cut was kept rather than forced apart or fused.",
+    "APPARATUS DELIBERATELY NOT CUT — the blue પ્રવેશપેટી on printed p. 85 is itself marked in 00_chapter_normalized.md as '[[પ્રવેશપેટી (શિક્ષક માટે — વાચન-દૃશ્ય નથી)]]' — printed FOR THE TEACHER, explicitly not a reading scene, so unlike std-10's unlabelled student-facing કવિ/લેખક-પરિચય paragraph, this chapter opens with NO pre-reading CONCEPT topic. The yellow શબ્દાર્થ run-on box (p. 89), the શબ્દસમૂહ. and રૂઢિપ્રયોગ. pre-blocks, all twelve numbered/lettered સ્વાધ્યાય items (blocks 1–11 plus the unnumbered સ્ત્રી-પુરુષ નામ box), and the ચર્ચા-વિચારણા box ('મારા બાળપણનું તોફાન') are NOT topics — they stay in 01_meta.json's exercise_inventory for Agent 10. The rebus reading (block 9) and the story-from-points block (block 8) are appended/exercise reading matter and were never folded into the chapter's ઘટના chain.",
+    "TWO-CONCEPT TOPIC — only M3.S4.T6 (જામફળનું પલાયન યુદ્ધ) carries two concepts, and it genuinely does two separable things: C6 is the narrator's own admission of being smallest and weakest ('હું સૌથી નાનો. મારું ગજું શું હોય ?') inside the general chase/refusal that follows Annaa and Vishnu's demand; C7 is the resourceful bite-the-wrist trick that turns a certain loss into a won laugh. The remaining eight topics carry one concept each, so the concept counter is chapter-continuous and runs C1…C10 across the traversal — NOT equal to the topic number from T6 onward, which is the documented behaviour for a chapter with any two-concept topic (reference/phase2_contract.md, reference/naming_conventions.md).",
+    "COMIC TURN KEPT WHOLE — the profile's hard gate 11 (never cut a comic turn from its setup) governs T6: the grabbing, the brothers' chase, the refusal, and the wrist-bite trick that wins the laugh all stay inside one topic even though it is the longest single reading block in the chapter (it is also the topic where the printed quote 'લાવો, બધાં જામફળ પાછાં.' opens and is never closed — kept as printed, not repaired). Splitting it would separate the setup from its પરિણામ, which the profile forbids.",
+    "TOPIC LENGTH IS UNEVEN AND DELIBERATE — T2, T4 and T8 are comparatively short single-paragraph scenes; T5 and T6 run considerably longer because each carries a full comic turn (the getting-lost joke; the guava chase) to its own resolution. The unit is the પ્રસંગ, not the paragraph or the page, so length was not balanced across topics.",
+    "NO CLIMAX CATEGORY — profiles/genres/nibandh_atmaparak.md's 'Avoid' item 2 is a hard gate for this genre: a સંસ્મરણ has પ્રસંગ, not પ્લોટ, so no topic here carries topic_category 'climax'. The categories used are introduction, core, transition and resolution only; the closing gesture (T9, the jalebi force-feeding that ends the chapter) is marked resolution per the profile's own closing-gesture rule, and T3 (the pinch that ends the family's school-going in Shahpur for good) is marked transition as the hinge that turns the chapter from 'attending school' to 'free to roam and hear lokvarta'.",
+    "CRAFT-LABEL CEILING HELD — no objective_text names an અલંકાર, છંદ, સમાસ or the સાહિત્યપ્રકાર itself, per both global_content_rules and std-8's hard gate (profiles/students/std-8.md §1–2: 'Name it after you've met it', no craft labels below std 9). No field names કટાક્ષ or વ્યંગ either — this chapter is measured as the સંસ્મરણ/આત્મકથાખંડ sub-form (not the હાસ્ય sub-form), so the profile's હાસ્ય-specific naming rule was not invoked, and none of the humour here needed it to stay checkable.",
+    "topic_type — all nine topics are the authored value STORY_TELLING: every one is the writer's own first-person account of a remembered પ્રસંગ from his mosal childhood. There is no CONCEPT topic (the only candidate, the intro box, is explicitly teacher-only per its own marker) and no REVIEW topic (the chapter prints no in-text wrap or value summary — its final sentence, 'એ 'કેળવણી'ને અંતે મને જલેબી ભાવતાં (ભવડાવતાં) આવડ્યું,' is the essay's closing gesture and belongs inside T9's reading scene). Agents 14/15 map all nine STORY_TELLING topics to the closed server enum 'instructional'.",
+    "DIFFICULTY IS L2-READING DIFFICULTY, NOT IDEA SIZE — set relative inside this chapter per profiles/students/std-8.md, which names ch 11 specifically for its Marathi code-switching and its idiom density (nine રૂઢિપ્રયોગ, the corpus's second-highest count in this profile). hard: T5 (three Marathi phrases — 'કોણા ચા', 'મી આઈ ચા', 'મી નાનાચી' — that must be read as Marathi-in-Gujarati-script and cross-referenced to their meaning, plus two of the page's five unclosed printed quotes), T6 (the longest topic, densest with named characters — અણ્ણા, વિષ્ણુ, કેશુ, ગોંદુ — a cricket-fielding metaphor 'ક્ષેત્રપાળ (ફિલ્ડર)', a quoted Sanskrit half-verse, and one unclosed quote), T9 (idiom-dense — એળે જવું, ચીડ ચડવી — and the page's longest unclosed-quote run, from 'તને ખબર છે ?' to the chapter's last sentence). easy: T2, T4 (short, concrete, single-paragraph scenes). medium: T1, T3, T7, T8 (idiom-bearing but shorter and more literal). No topic is marked hard for a device it is not allowed to name, and difficulty caps no topic's Bloom ceiling — O5, O6 and O8 reach Analyze.",
+    "depends_on IS SPARSE ON PURPOSE — four genuine textual back-references are recorded. T3 opens 'મોડકા માસ્તરને જોયા પછી' — the master T2 introduces. T5 opens on the old woman who finds the children T4 sends off with Yesu, lost. T6 answers T5's own set-up: T5 closes 'બીજે જ દિવસે મારી લાયકી સિદ્ધ કરવાનો પ્રસંગ મને મળી આવ્યો' and T6 IS that પ્રસંગ. T7 opens 'જામફળ નિરાંતે આરોગી લીધા પછી', which is meaningless without T6's feast. Every other pair is mere printed sequence (T1→T2 is simply arrival; T7→T8 is 'ચાર દહાડા પછી' with no textual callback; T8→T9 returns to a new location, Shahpur) and carries [].",
+    "MIXED CHARACTER-DEPENDENCE ACROSS MODULES — M3.S4.T6 depends on M2.S3.T5, i.e. a module boundary is crossed by a real dependency (the redemption-episode set up at the end of the Belgundi module pays off in the guava module). This is recorded, not smoothed over, because the two modules are genuinely one remembered stretch of the mosal summer even though they cover different places.",
+    "T4/T5 BOUNDARY FLAGGED FOR AGENT 5 — the sentence 'વીરો બહેનીને લઈને ચાલ્યો તો ખરો પણ 'મામાનું ઘર કેટલે' તે યાદ ન રહ્યું... ગામની સામેની બાજુની ભાગોળ આવી તોપણ અમે ચાલ્યા જતા હતા' sits in 00_chapter_normalized.md just before the [[ઘટના: રસ્તો ભૂલવો…]] marker, i.e. inside T4's block as currently marked. Per explanation_unit_map's pre-topic-hook rule ('a line that introduces the next ઘટના opens THAT topic'), this sentence is arguably the true opening of T5 (it is already about walking away and getting lost, not about the ઝૂંપડીનો હીંચકો). Left for Agent 5 to resolve when cutting the verbatim original_chunk; either placement keeps both topics' meaning intact, so it is not a blocking disagreement, only a boundary worth a second look.",
+    "MARATHI AND SANSKRIT STAY VERBATIM — T5's three Marathi phrases ('બાળ, તું કોણા ચા ?', 'મી આઈ ચા', 'મી નાનાચી.') and T6's quoted Sanskrit half-verse ('દદામિ બુદ્ધિયોગં તમ્') are printed content inside a Gujarati-script narrative, per 01_meta.json's extraction_notes and reference/no_hallucination_policy.md. No topic name, objective_text or concept_name here translates, corrects or drops them; they are recorded as content for Agent 5 to transcribe exactly and Agent 10 to map against SWA block 4 ('મરાઠી ભાષાનાં વાક્યો શોધીને... ભાષાંતર કરો'), which hunts exactly these lines.",
+    "SPELLING VARIANT ACROSS TOPIC AND APPARATUS — the printed idiom box (p. 89) reads 'ગણે ઊતરવું' (ણ) while T8's own body text (p. 88) reads 'નાનાની વાત તો મારે ગળે ન ઊતરી' (ળ) for the same idiom, already flagged in 01_meta.json's extraction_notes. Recorded again here so Agent 5/10 know the occurrence sits inside T8 specifically, not elsewhere.",
+    "NO END CREDIT TO CARRY — the author line '- કાકા કાલેલકર' is printed at the TOP of the chapter, under the title, not after the reading text, so profile gate 13 (closing gesture + any source/translator credit printed after it) has no trailing credit line to fold into T9's original_chunk. T9's chunk should still end with the chapter's actual final printed sentence.",
+    "RENDERS NOT RE-READ FOR THE ORIGINAL CUT, ONE TARGETED RE-READ ON RE-RUN — 00_chapter_normalized.md, together with 01_meta.json's extraction_notes, answered every question the original cut needed and no PNG in _renders was opened for that pass. On this QC-driven re-run, _renders/page-2.png WAS opened once, specifically to independently re-check the village-name spelling flagged by QC (see the BEḶGUNDĪ SPELLING CORRECTED note below); no other page was re-read and no other field was touched.",
+    "BEḶGUNDĪ SPELLING CORRECTED ON RE-RUN (QC blocker, Section B) — this file's three occurrences of the mosal village name (root `guiding_question`, M2.module_name, M2.S3.T4.source_marker) previously read બેલગુંદી (લ, matching 00_chapter_normalized.md's transcription and 01_meta.json's guiding_question, both of which were themselves wrong) and are now corrected to બેળગુંદી (ળ). Independently re-verified against _renders/page-2.png this run: a 4x crop of the line 'બેળગુંદી અમારું મૂળ ગામડું.' (p. 86) shows the second consonant of the village name is the same glyph, and shape, as the ળ in 'મૂળ' three words later on the same line — visibly different from a plain લ elsewhere on the page. 00_chapter_normalized.md, 01_meta.json and every downstream file still carry the wrong લ spelling at some or all occurrences except 16_publication.json (all correct already) — this agent's mandate is its own three fields only; the source transcription, 01_meta.json and the other downstream authoring/merge files are out of scope for this agent and were left untouched. Flagged again here for whichever agent reconciles 13_merged.json against this corrected file."
+  ]
+}

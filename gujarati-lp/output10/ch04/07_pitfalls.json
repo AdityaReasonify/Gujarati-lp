@@ -1,0 +1,168 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example` or any `recall_questions[].answer` for this topic is an exhortation of the shape \"…જોઈએ\" / \"…કરવું જોઈએ\" / \"…રાખવી જોઈએ\" — this topic's `original_chunk` (the કવિ-પરિચય and કૃતિ-પરિચય paragraphs) contains no such clause, so none may be added while paraphrasing 'બીજા માટે જીવવું એ જ સાર્થક જીવન છે' into teaching prose.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "No fact about કરસનદાસ માણેક in `explanation`, `key_terms` or any `recall_questions[].answer` goes beyond what this topic's `original_chunk` states (born in કરાંચી; વતની of જામનગર જિલ્લાનું હડિયાણા; pen name 'વૈશંપાયન'; the four named કાવ્યસંગ્રહ and two named રચનાઓ) plus the byline dates already carried in `01_meta.json` (28-11-1901 / 18-01-1978) — no invented movement, award, or life event.",
+          "profile": "prarthana_kavita",
+          "severity": "soft"
+        },
+        {
+          "check": "No sentence of `explanation` for this topic names or explains the specific image-word of any later કડી (ભોજન, જળ, પુષ્પ, ઝેર/અમૃત, ચરણો, દીપક/નૈયા) beyond stating that the poem asks for something concrete — pre-explaining a later topic's own asking-image here is checked against the absence of those words from this topic's own `key_terms`.",
+          "profile": "prarthana_kavita",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "કૃતિ-પરિચય ફકરાનું વાક્ય 'બીજા માટે જીવવું એ જ સાર્થક જીવન છે' વાંચીને બાળક એને જ કાવ્યનો પૂરો સાર માની લે છે, અને પછી ચારેય કડીને એ જ એક વાતના ચાર પુનરાવર્તન તરીકે વાંચે છે — ભોજન, જળ, પુષ્પ, દીવો જેવી કડી-દર-કડી બદલાતી નક્કર માગણીઓ તરફ ધ્યાન જ જતું નથી.",
+      "correction": "આ ટોપિકનું સ્પષ્ટીકરણ એટલું જ કહે કે કવિ કંઈક નક્કર માગવાનો છે, પણ એ શું છે એ નામ ન આપે. દરેક પછીની કડીનું પોતાનું સ્પષ્ટીકરણ પોતાના જ માગણી-શબ્દ (બનજો/થાજો/પથરાજો/ધાજો/ઓલવાજો)થી શરૂ થાય, જેથી કડી-દર-કડી નવી, નક્કર માગણી બહાર આવે — એક જ વાતનું પુનરાવર્તન નહીં."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example` or any `recall_questions[].answer` is an exhortation of the shape \"…જોઈએ\" — this topic's `original_chunk` ('ભૂખ્યાં કાજે ભોજન બનજો, તરસ્યાંનું જળ થાજો; દીન-દુઃખિયાનાં આંસુ લો'તાં અંતર કદી ન ધરાજો') contains no such words, so no equivalent may be added.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "The first sentence of `explanation` names what this કડી asks for, using one of 'બનજો', 'થાજો', 'ભોજન', 'જળ' or 'અંજલિ' from this topic's `original_chunk` — an opening sentence that describes ભૂખ્યાં-તરસ્યાં as a scene, or opens on the ભાવ/બોધ, fails.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "Every concrete noun in any scene `explanation` describes as part of this કડી's own imagery is drawn from {ભૂખ્યાં, ભોજન, તરસ્યાં, જળ, દીન-દુઃખિયાં, આંસુ, અંતર, અંજલિ, જીવન} — this topic's `original_chunk`/`key_terms` — with no invented dish, river, or a specific named poor person's story supplied as the picture.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "This is the topic where the ટેક is taught for the first time: `explanation` quotes 'મારું જીવન અંજલિ થાજો !' character-for-character — paraphrasing it into something like 'ભગવાનને જીવન અર્પણ કરવું' and dropping the exact line is a fail.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "`figures_of_speech[]` is `[]`, or every `.lines` value is an exact substring of this topic's `original_chunk`; if `[]`, `explanation` names the end-rhyme 'બનજો…થાજો…ધરાજો' (the shared '-જો' ending) or the ટેક's પુનરાવર્તન — the સ્વાધ્યાય's rhyme item and the profile's 'skipping the craft' gate both point here.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'ભૂખ્યાં કાજે ભોજન બનજો, તરસ્યાંનું જળ થાજો' ને બાળક એક સામાજિક સૂચના તરીકે વાંચે છે — 'આપણે ભૂખ્યાંને ભોજન આપવું જોઈએ' — અને ચૂકી જાય છે કે કવિ પોતાના જ જીવનને ભોજન-જળ બનાવવા માગે છે, બીજાને કંઈક કરવાની સલાહ નથી આપતો.",
+      "correction": "સ્પષ્ટીકરણ પ્રથમ પુરુષમાં જ રહે — 'કવિ પોતાના જીવનને ભોજન અને જળ જેવું બનાવવા ઈચ્છે છે' — અને 'બનજો'/'થાજો' ને કવિની પોતાની ઝંખના તરીકે ટાંકે, ક્યારેય વાચકને અપાયેલી સૂચના તરીકે નહીં."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example` or any `recall_questions[].answer` is an exhortation of the shape \"…જોઈએ\" — this topic's `original_chunk` ('સતની કાંટાળી કેડી પર પુષ્પ બની પથરાજો; ઝેર જગતનાં જીરવી જીરવી અમૃત ઉરનાં પાજો') contains no such words.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "The first sentence of `explanation` names what this કડી asks for, using one of 'પથરાજો', 'પુષ્પ', 'પાજો', 'અમૃત' or 'સત' from this topic's `original_chunk` — an opening sentence that only describes thorns or hardship, without the asking-word, fails.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation` or `real_life_example` names a પુરાણકથા, દેવ, ધર્મ or સંપ્રદાય (e.g. સમુદ્રમંથન) in connection with 'ઝેર જગતનાં જીરવી જીરવી અમૃત ઉરનાં પાજો' — this topic's `original_chunk` names no myth, deity or religion, and the pair is this કડી's own metaphor for absorbing bitterness and giving back sweetness, nothing else.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "Every concrete noun in any scene `explanation` describes as part of this કડી's own imagery is drawn from {સત/સત્ય, કાંટાળી કેડી, પુષ્પ, ઝેર, જગત, અમૃત, ઉર} — no invented garden or mythological ઝેર-અમૃત tableau.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "`figures_of_speech[]` is `[]`, or every `.lines` value is an exact substring of this topic's `original_chunk`; if `[]`, `explanation` names the end-rhyme 'પથરાજો-પાજો'.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "The word 'કાંટાળી' in `explanation`/`key_terms`/any recall answer, wherever it is written out, keeps the printed ળ (કાંટાળી) and is never respelt with લ (કાંટાલી) — a Hindi-reading child's script the letter ળ does not have.",
+          "profile": "prarthana_kavita",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "'ઝેર જગતનાં જીરવી જીરવી અમૃત ઉરનાં પાજો' વાંચીને બાળક (ખાસ કરીને હિન્દી-પરિચિત) સમુદ્રમંથનની ઝેર-અમૃતની પુરાણકથા યાદ કરી લે છે અને કડીને એ કથાના સંદર્ભમાં સમજવા મંડે છે, જ્યારે પાનું કોઈ પુરાણકથા, દેવ કે ધર્મનું નામ જ નથી લેતું.",
+      "correction": "સ્પષ્ટીકરણ ઝેર-અમૃતને ફક્ત આ કડીની જ પોતાની ઉપમા તરીકે સમજાવે — જગત તરફથી મળતી કડવાશ સહન કરીને પણ પોતાના હૃદયમાંથી મીઠાશ આપવી — કોઈ પુરાણકથા, દેવ કે ધર્મનું નામ લીધા વગર."
+    },
+    {
+      "topic_id": "M1.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example` or any `recall_questions[].answer` is an exhortation of the shape \"…જોઈએ\" — this topic's `original_chunk` ('વણથાક્યાં ચરણો મારાં નિત તારી સમીપે ધાજો; હૈયાનાં પ્રત્યેક સ્પન્દને તારું નામ રટાજો') contains no such words.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "The first sentence of `explanation` names what this કડી asks for, using one of 'ધાજો', 'રટાજો', 'ચરણો', 'નામ' or 'સમીપે' from this topic's `original_chunk`.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` or `key_terms` explicitly glosses the 'વણ-' prefix in 'વણથાક્યાં' as 'વગર' (i.e. 'થાક્યા વગરનાં') and states the meaning as never tiring — a rendering of 'વણથાક્યાં ચરણો' as 'મારા થાકેલા પગ' (tired feet, the opposite sense) fails this check.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "Every concrete noun in any scene `explanation` describes as part of this કડી's own imagery is drawn from {ચરણો, સમીપ, હૈયું, સ્પન્દન, નામ} — no invented pilgrimage or journey scene beyond these words.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "`figures_of_speech[]` is `[]`, or every `.lines` value is an exact substring of this topic's `original_chunk`; if `[]`, `explanation` names the end-rhyme 'ધાજો-રટાજો'.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'વણથાક્યાં ચરણો' માં 'વણ-' ઉપસર્ગ (વગર-વાચક)ને બાળક ચૂકી જાય અને એકલા 'થાક્યાં' શબ્દ પરથી અર્થ કરી લે — એટલે 'મારા થાકેલા પગ તારી પાસે દોડે છે' એવો ઊંધો અર્થ નીકળે, જ્યારે કવિ કહે છે કે પગ ક્યારેય થાકતા જ નથી.",
+      "correction": "સ્પષ્ટીકરણ પહેલાં જ 'વણ' = 'વગર' એમ સ્પષ્ટ પાડે — 'વણથાક્યાં એટલે થાક્યા વગરનાં, ક્યારેય ન થાકે એવાં' — અને 'થાક્યાં' એકલા શબ્દથી ઊંધો અર્થ ન નીકળે એ માટે બંને રૂપ સામસામે મૂકીને બતાવે."
+    },
+    {
+      "topic_id": "M1.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example` or any `recall_questions[].answer` is an exhortation of the shape \"…જોઈએ\" — this topic's `original_chunk` ('વમળોની વચ્ચે નૈયા મુજ હાલકડોલક થાજો; શ્રદ્ધા કેરો દીપક મારો નવ કદીયે ઓલવાજો') contains no such words.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "The first sentence of `explanation` names the actual asking of this કડી — 'ઓલવાજો' (નવ કદીયે ઓલવાજો), 'શ્રદ્ધા' or 'દીપક' — not 'હાલકડોલક'/'વમળો' as if the boat's rocking were itself the wish; naming the concession as the asking fails.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` states 'વમળોની વચ્ચે નૈયા મુજ હાલકડોલક થાજો' as an accepted hardship/condition (a 'ભલે…થાય' concession), not as a separate positive request equal in kind to the other કડીઓ's 'થાજો' lines — treating the boat-rocking as something the poet wants for its own sake fails.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "Every concrete noun in any scene `explanation` describes as part of this કડી's own imagery is drawn from {વમળ, નૈયા, શ્રદ્ધા, દીપક} — no invented storm, named sea, or fisherman-character beyond these words.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        },
+        {
+          "check": "`figures_of_speech[]` is `[]`, or every `.lines` value is an exact substring of this topic's `original_chunk`; if `[]`, `explanation` names the end-rhyme 'થાજો-ઓલવાજો'.",
+          "profile": "prarthana_kavita",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'વમળોની વચ્ચે નૈયા મુજ હાલકડોલક થાજો' ને બાળક બીજી કડીઓના 'થાજો' જેવી જ સીધી, હકારાત્મક માગણી માની લે છે — જાણે કવિ પોતાની હોડી ડગમગે એવું જ ઈચ્છતો હોય — અને ખરી, ચરમસીમાની માગણી 'શ્રદ્ધા કેરો દીપક... નવ કદીયે ઓલવાજો' ને ગૌણ ગણી લે છે.",
+      "correction": "સ્પષ્ટીકરણ પહેલાં જ સ્પષ્ટ કરે કે હોડીનું ડગમગવું એ મુશ્કેલીની સ્વીકૃતિ છે ('ભલે…થાય'), અને કવિની ખરી માગણી શ્રદ્ધાનો દીવો ક્યારેય ન ઓલવાવાની છે — વાક્યનો ક્રમ 'ઓલવાજો'ને કેન્દ્રમાં રાખે, 'હાલકડોલક'ને શરત તરીકે."
+    }
+  ],
+  "chapter_level": [
+    "આ std-10 ch4 એક અભીપ્સા/ધ્રુવપંક્તિ-પ્રાર્થના છે (prarthana_kavita.md): સંબોધિત 'તું'/'તારી' આખા પાનામાં ક્યાંય કોઈ ચોક્કસ દેવ તરીકે નામાંકિત નથી, એટલે દરેક ટોપિકમાં કોઈ `explanation`, `real_life_example` કે recall-જવાબ કોઈ ધર્મ, સંપ્રદાય, શાસ્ત્ર કે દેવનું નામ ન લે, અને બે પરંપરાની સરખામણી ન કરે (profile's 'No theology, no comparative religion' hard gate) — શાળાની પ્રાર્થનાસભાની પરંપરા તરીકે જ ભણાવવું, teaching_voice_gu.md ની Sensitivity નોંધ પ્રમાણે.",
+    "દરેક કડી-ટોપિકમાં (M1.S2.T2–M1.S3.T5) કોઈ `explanation`, `real_life_example` કે recall-જવાબ એવું ન કહે કે કવિને સંબોધિતની જરૂર નથી, કવિ શંકા કરે છે, અથવા પ્રાર્થના બિનજરૂરી છે — profile's 'Reading the asking as doubt' hard gate; કાવ્ય હંમેશાં સંબંધની વધુ માગણી કરે છે, ઓછી નહીં.",
+    "કોઈપણ ટોપિકના `topic_name`, `explanation`, `real_life_example`, સારાંશ કે recall પ્રશ્ન/જવાબમાં કડીની સંખ્યા આંકડામાં ન આવે ('કડી 1', 'કડી 2માં') — 'પહેલી કડીમાં', 'બીજી કડીમાં' શબ્દોમાં જ; profile's 'No numbers in display text' hard gate, પાંચેય ટોપિક પર સરખું લાગુ.",
+    "કોઈપણ `media[].generation_prompt` કે `negative_prompt` ઈશ્વર, કોઈ દેવ-આકૃતિ કે મૂર્તિને દેખાડાયેલા વિષય તરીકે ન બતાવે — profile's 'No deity in any image' hard gate; દરેક દૃશ્ય ફક્ત માગણીની નક્કર વસ્તુ બતાવે (આંસુ લૂછતો હાથ, ન બળતો દીવો, ડોલતી હોડી, ખાલી ક્ષિતિજ) અથવા સૂચવેલી મુદ્રામાં એક જ માનવ-આકૃતિ, profile's Media prior પ્રમાણે.",
+    "પિટિશન-કટિંગ (કડી અડધી કપાવી) અને ટેક-હેન્ડલિંગના structural gate Agent 2/4ના છે, અહીં ટોપિક-સ્તરે ફરી ચેક નથી કરાયા — 04_converged.json/04_validation.json પહેલા જ પાસમાં 'pass' નોંધે છે.",
+    "std-10ના સામાન્ય L2-ભૂલ કોષ્ટકની પંક્તિ (વ્યંગ ને સચ્ચાઈ માની લેવી, શ્લેષ-યમક ગૂંચ, માત્રા યાદથી ગણવી, અનુવાદકને લેખક માની લેવો) આ પ્રકરણમાં લાગુ પડતી નથી — 'જીવન અંજલિ થાજો' કટાક્ષ નથી, છંદ-લેબલ માગતું નથી, અને કોઈ અનુવાદક નથી. આ પ્રકરણનો ખરો std-10 L2 ખતરો એનો સઘન તત્સમ-ટીપકો ભક્તિ-શબ્દકોશ છે (અંજલિ, ઉર, નિઃસ્વાર્થ, સ્પન્દન, હાલકડોલક) — શબ્દભંડોળની મુશ્કેલી, વાક્યરચનાની નહીં; ગ્લોસ-બાર નીચો અને પ્રથમ-વપરાશે જ, prarthana_kavita.md ના Language prior પ્રમાણે.",
+    "01_meta.json/05_with_content.json પહેલેથી નોંધેલાં બે છપાયેલાં રૂપ Agent 12એ 'સુધારવાં' નહીં: M1.S2.T2ના 'લો'તાં' (અપોસ્ટ્રોફી-સંક્ષેપ, 'લૂછતાં' માટે) અને M1.S3.T4ની કડીની પોતાની લીટીમાં 'સ્પન્દન' (અનુસ્વાર વગર) સામે શબ્દ-સમજૂતી બોક્સનું 'સ્પંદન' (અનુસ્વાર સાથે) — બંને પોતપોતાની જગ્યાએ છપાયા મુજબ જ સાચાં છે, gujarati_verbatim.md પ્રમાણે; આ બેમાંથી કોઈને ટાઇપો ગણી એકસરખું કરી નાખવું એ જ author.md ચેતવે છે તે L2 ફાંદો છે ('પાઠ ખોટો લાગે ત્યારે પણ સાચો હોય છે')."
+  ]
+}

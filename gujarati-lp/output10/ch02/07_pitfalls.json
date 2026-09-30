@@ -1,0 +1,166 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `detailed_summary`, `concept_bullets` or `recall_questions[].answer` for this topic states a biographical fact about ચુનીલાલ મડિયા (a birth or death date, an award other than રણજિતરામ સુવર્ણચંદ્રક, a literary movement, a personal-life detail) that this topic's `original_chunk` does not print — only ધોરાજી (રાજકોટ જિલ્લો), the named વાર્તાસંગ્રહ / નવલકથા / એકાંકીસંગ્રહ titles, and રણજિતરામ સુવર્ણચંદ્રક may be asserted as fact.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "કૃતિ-પરિચયનો ફકરો પોતે જ વાર્તાનો અંત (સકીના, ગવરીને ભેટ, કબર પાસેની છેલ્લી સુરાવટ) આપી દે છે, એટલે બાળક આ ફકરો વાંચીને એમ માની લે છે કે આખી વાર્તા હવે ‘ખબર છે’ — અને પછીના ઘટનાક્રમમાં સૂર કઈ ઘડીએ, શા માટે બદલાય છે એ ઝીણવટથી જોવાનું ટાળે છે.",
+      "correction": "explanation એ સ્પષ્ટ કરે કે કૃતિ-પરિચય માત્ર વાર્તાનો આકાર (શું થાય છે) આપે છે; ખરું વાંચન તો પછીના ટોપિકોમાં સૂર ક્યાં ને શા માટે બદલાય છે એ ઘટના-દર-ઘટના જોવામાં છે — કૃતિ-પરિચય પોતે જેને ‘હૃદયસ્પર્શી આલેખન’ કહે છે, એ આલેખન જ પછીના ટોપિકોનું કામ છે."
+    },
+    {
+      "topic_id": "M2.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "`explanation` must add more than this topic's own `modified_chunk` already states (a bare list of wedding steps). Check: it must name why the author strings માંડવો વધાવાઈ ગયો / ગોતરીજ પાસે પગલાગણું પતી ગયું / કંકુના થાપા પડ્યા / રામણદીવડો પેટવાઈ ગયો as a chain of short, subject-light sentences (the rushed tempo of a wedding morning), and it must land on the topic's own closing sentence — ‘ડોસા રમઝુ મીરે શરણાઈનો સૂર છેડ્યો’ — as the handover point where the narration passes to Ramzu. An explanation that only paraphrases the list of rituals fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `summary`, `detailed_summary` or `recall_questions[].answer` for this topic (which precedes the topic carrying `topic_category: \"climax\"`, M3.S3.T4) names સકીના, her death, or foreshadows that Ramzu's sur will later carry grief — this topic's own text gives no such hint and none may be added.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "ટૂંકાં-ટૂંકાં, કર્તા વગરનાં વાક્યો (‘વધાવાઈ ગયો’, ‘પતી ગયું’, ‘ચૂકવાઈ ગયાં’) માત્ર એક ઠંડું, રિપોર્ટ-જેવું લિસ્ટિંગ લાગે છે, ને બાળક ચૂકી જાય છે કે આ ઝડપી, ટૂંકી વાક્યરચના પોતે જ લગ્નની સવારની ઉતાવળ બતાવે છે અને છેલ્લે રમઝુ મીરની શરણાઈના પ્રવેશ પર આવીને અટકે છે.",
+      "correction": "explanation-માં આ ટૂંકાં વાક્યોની સાંકળ તરફ ધ્યાન દોરવું — કેમ આટલાં કામ આટલી ઝડપથી બતાવ્યાં છે — અને છેલ્લા વાક્ય ‘રમઝુ મીરે શરણાઈનો સૂર છેડ્યો’ને ટોપિકના કેન્દ્રમાં મૂકવું, કારણ કે અહીંથી જ વાર્તાનું ખરું પાત્ર રંગમંચ પર આવે છે."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "`explanation` must go beyond ‘the shehnai mesmerizes the crowd’ (what `modified_chunk` already says) and must name the specific craft the passage states outright: ‘અભણ રમઝુ ડોસા પાસે શબ્દો ન હતા, કેવળ સૂર હતા અને એ સૂર વડે જ આવી સૃષ્ટિ ખડી કરી જતો હતો’ — sound alone, with no words, builds the listeners' mental picture of a bride. An explanation that stops at ‘people were amazed’ fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `summary`, `detailed_summary` or `recall_questions[].answer` for this topic (which precedes M3.S3.T4's `topic_category: \"climax\"`) states or hints that this same sur will soon turn to grief, or names સકીના — ભૂધર મેરાઈનો હડસેલો at this topic's close is recorded only as an event (he pushes Ramzu to move on), never as the moment feelings change.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Where `explanation` or `real_life_example` quotes તળશી વેવાઈની લીટી, it reproduces ‘હાલો, મીર હાલો, ઝટ વહેતા થાવ.’ exactly as printed — not modernised to ‘ચાલો, ચાલો, જલદી ચાલો’.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બજારના રંગબેરંગી વર્ણનને (લાલ ફેંટા, લીલું માથાબાંધણું, પટોળું) બાળક કેવળ સુશોભન-વર્ણન ગણી લે છે અને ચૂકી જાય છે કે ફકરાનો ખરો મુદ્દો એ છે કે રમઝુ પાસે એક પણ શબ્દ નથી, છતાં કેવળ સૂરથી શ્રોતાની આંખ સામે નવોઢાનું આખું ચિત્ર ઊભું થાય છે — શબ્દ વગર ભાવ વ્યક્ત કરવાની આ જ શક્તિ વાર્તાના અંતે જુદા ભાવ માટે પાછી વપરાય છે.",
+      "correction": "explanation એ સીધું ‘અભણ રમઝુ ડોસા પાસે શબ્દો ન હતા, કેવળ સૂર હતા’ પંક્તિ તરફ ધ્યાન દોરે અને નામ આપે કે આ કેવળ-સૂરથી-ચિત્ર-ઊભું-કરવાની શક્તિ છે — રંગોનું વર્ણન એની આસપાસનું દૃશ્ય માત્ર છે, મુદ્દો નહીં."
+    },
+    {
+      "topic_id": "M3.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "`explanation` must add the motive AND the craft this topic's own text carries, not merely ‘his tune changed to sadness’ (what `modified_chunk` already says): the trigger is ભૂધર મેરાઈનો હડસેલો, but the real cause is the twenty-year-old memory of સકીનાની વિદાય surfacing (‘હૃદયમાં ઊંડે-ઊંડે ખૂંપેલું દર્દ સળવળે’); and the passage's own ઉપમા — ‘આકાશમાં પૂર્ણેન્દુ પ્રકાશ્યો હોય... ને એકાએક કાળી વાદળી આવી ચડતાં... એવી જ અસર’ — pictures the mood-shift as moonlight suddenly clouding over. An explanation naming only ‘sad music’, without this comparison and without separating trigger from cause, fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` on this topic closes on an abstract moral (‘દુ:ખ ક્યારેય ભુલાતું નથી’, ‘આપણે ભૂતકાળને વળગી ન રહેવું જોઈએ’ or a synonym) that is not a verbatim quotation from `original_chunk`. This is the story's turning point and the likeliest place for a tacked-on lesson.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ‘સૂર બદલાયો’ ને ફક્ત ભૂધર મેરાઈના હડસેલાનું સીધું પરિણામ (ધક્કો વાગ્યો એટલે ચિડાયો) સમજી લે છે, અને ચૂકી જાય છે કે ધક્કો તો કેવળ નિમિત્ત છે — ખરું કારણ વીસ વર્ષ જૂનું, અંદર દબાયેલું સકીનાની વિદાયનું સ્મરણ છે જે અચાનક સળવળી ઊઠે છે.",
+      "correction": "explanation-માં નિમિત્ત (હડસેલો) અને ખરું કારણ (સ્મરણ) બંનેને અલગ-અલગ નામ આપીને બતાવવું — ‘હૃદયમાં ઊંડે-ઊંડે ખૂંપેલું દર્દ સળવળે’ પંક્તિ ટાંકીને — જેથી બાળક સમજે કે બહારનો ધક્કો અંદરના જૂના ઘાને ખોલે છે, પોતે ઘા નથી."
+    },
+    {
+      "topic_id": "M3.S4.T5",
+      "avoid_checks": [
+        {
+          "check": "No `explanation`, `real_life_example` or `recall_questions[].answer` treats રમઝુને ‘ડાગળી ચસકેલ’ / ‘ગાંડપણ’ કે એના પર્યાય શબ્દ તરીકે નિવેદક (narrator) ના પોતાના મત તરીકે લે — text prints these as what ‘વ્યવહારડાહ્યાં લોકો’ say about him (‘ગાંડપણમાં ખપાવતાં’), and immediately follows with the narrator's own framing: ‘મનસ્વી મીરને આવા અભિપ્રાયોની ક્યાં પડી હતી ? એ તો સપનાંને સહારે જિંદગી જીવતો હતો.’ Any field that adopts the villagers' label as true, rather than attributing it to them and setting it against his devotion, fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No field on this topic closes on an abstract moral about loss or family love (‘કુટુંબનો પ્રેમ સૌથી મોટો છે’ or a synonym) that is not a verbatim quotation from `original_chunk`.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` must explain, not merely restate, the metaphor ‘શરણાઈ તેમ જ સકીના બંને... તાણાવાણાની જેમ વણાઈ ગયાં હતાં’ — naming that both were woven into one single life for this widower, not simply listing that he loved both.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક રમઝુની પોતાની મૃત પત્નીની કબર પર શરણાઈ વગાડવાની ટેવ (‘વિચિત્ર લાગતી ખાસિયત’) ને ગામલોકોની જેમ જ ‘ગાંડપણ’ કે તરંગ ગણી લે છે, જ્યારે ટેક્સ્ટ પોતે એને ઊંડી, ન રૂઝાયેલી ભક્તિ અને એકલતાના પુરાવા તરીકે બતાવે છે.",
+      "correction": "explanation સ્પષ્ટ કરે કે ‘વ્યવહારડાહ્યાં લોકો’ આને ગાંડપણ ગણે છે એ એમનો અભિપ્રાય છે, હકીકત નહીં; રમઝુ માટે શરણાઈ અને સકીના બંને એની મૃત પત્નીની હાજરીનો એકમાત્ર આધાર હતાં — ‘સપનાંને સહારે જિંદગી જીવતો હતો’ પંક્તિ ટાંકીને આ ભેદ પાડવો."
+    },
+    {
+      "topic_id": "M4.S5.T6",
+      "avoid_checks": [
+        {
+          "check": "`explanation` must add the craft this topic's own text names, not merely ‘everyone felt sad’ (what `modified_chunk` already says): ‘લાગણીના આવેશમાં માતા જે ભાવ વાચા દ્વારા વ્યક્ત નહોતી કરી શકતી એની અભિવ્યક્તિ રમઝુ પોતાના સૂર વાટે કરી રહ્યો’ — the mother cannot speak her feeling, and Ramzu's sur speaks it for her. An explanation that does not name this specific silent hand-off fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No field on this topic closes on an abstract moral about a mother's love or about the custom of vidaay that is not a verbatim quotation from `original_chunk`.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક આ ટોપિકને ‘બધા ઉદાસ હતા’ એવા સામાન્ય દુ:ખ તરીકે વાંચી લે છે, અને ચૂકી જાય છે કે અહીં ખાસ વાત એ છે કે ગવરીની મા પોતાની લાગણી શબ્દોમાં કહી શકતી નથી, ને એ જ ન-કહેવાયેલી લાગણી રમઝુ પોતાની શરણાઈના સૂરમાં — પોતાના શબ્દો વગર — વ્યક્ત કરી આપે છે.",
+      "correction": "explanation-માં નામ દઈને બતાવવું કે માતાનાં અટકેલાં આંસુ (વાચાથી ન કહેવાયેલી લાગણી) અને રમઝુનો સૂર (એ જ લાગણીની અભિવ્યક્તિ) — બે અલગ પાત્રો વચ્ચેનો આ મૂક વિનિમય જ ટોપિકનું કેન્દ્ર છે, ફક્ત ‘બધા દુ:ખી હતાં’ નહીં."
+    },
+    {
+      "topic_id": "M4.S6.T7",
+      "avoid_checks": [
+        {
+          "check": "No `explanation`, `real_life_example`, `recall_questions[].answer` or exercise answer adopts તળશી વેવાઈ અને ભૂધર મેરાઈના શબ્દો (‘ડાગળી ચસકેલ’, ‘ભૂખાવળો’, ‘લઘરા’, ‘મગજ-મેટ’) as the narrator's own judgment of Ramzu — these are printed as OTHER characters' spoken words (in quotes), and the field must show that the story treats Ramzu with sympathy even while these characters misjudge him.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No field on this topic closes on an abstract moral of the shape ‘આપણે બીજાને એના દેખાવ પરથી ન આંકવા જોઈએ’ (or a synonym) that is not a verbatim quotation from `original_chunk` — the temptation here is strongest because the villagers' misjudgment makes the lesson feel ready-made.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Where `explanation` quotes ભૂધર મેરાઈ કે તળશી વેવાઈનો સંવાદ (‘એલા ડોસલા’, ‘હાલ્યની ઝટ’, ‘કણ-વકણ’, ‘મર થાતો’), it reproduces the words exactly as printed, glossed at point of use, never replaced by માનક ગુજરાતી equivalents.",
+          "profile": "varta",
+          "severity": "soft"
+        },
+        {
+          "check": "`explanation` must name why Ramzu walks toward સીમ/કબ્રસ્તાન instead of home (‘...પુત્રીવિયોગના દુ:ખદર્દમાં એ જાણે કે દિશાશૂન્ય થઈ ગયો હતો’) — his feet carry him where his grief points, not aimlessly — rather than simply restating that he was pushed and wandered off.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "જાનૈયા અને તળશી વેવાઈ રમઝુને ‘ચસકેલ’ / ‘મગજ-મેટ’ કહીને હાંસી ઉડાવે છે એ વાંચીને બાળક પણ એને એટલું જ ગાંડપણ કે હાસ્યનું પાત્ર ગણી લે છે — અને ચૂકી જાય છે કે વાચકને (M3.S3.T4 અને M3.S4.T5 વાંચી ચૂક્યા હોવાથી) ખબર છે કે આ જ દિશાશૂન્યતા એની અંદરની વેદનાનું પરિણામ છે, ગાંડપણ નહીં.",
+      "correction": "explanation-માં આ ભેદ સ્પષ્ટ કરવો — લોકો જે કહે છે (‘ચસકેલ’, ‘મગજ-મેટ’) તે અવતરણ તરીકે જ ટાંકવું, અને તરત જ બતાવવું કે વાચક તરીકે આપણને ખબર છે કે આ ‘ગાંડપણ’ નહીં, અગાઉના ટોપિકોમાં જોયેલું દર્દ જ તેને કબ્રસ્તાન તરફ દોરી જાય છે."
+    },
+    {
+      "topic_id": "M5.S7.T8",
+      "avoid_checks": [
+        {
+          "check": "No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or `recall_questions[].answer` on this topic closes on an abstract moral (‘દરેક પ્રેમનો અંત આવે છે’, ‘સમય કોઈની રાહ જોતો નથી’ or a synonym) that is not a verbatim quotation from `original_chunk`. This is the story's resolution and the single likeliest spot in the whole chapter for a tacked-on lesson.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` must name that ‘મિલન અને વિયોગના મિશ્ર ભાવોની ગંગા-જમના ગૂંથાઈ ગઈ’ means two specific feelings blending in one sur — મિલન: nearness to his own dead wife at her grave; વિયોગ: separation from ગવરી who just left, echoing his own daughter સકીનાની વિદાય — and must connect this blend to why the story ends in કરુણ રસ. An explanation that says only ‘the ending is sad’ fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `detailed_summary`, `summary` or `recall_questions[].answer` states as fact that Ramzu died. `original_chunk` states only ‘એ પછી એ શરણાઈ કે સૂર ગામલોકોને કદી સાંભળવા મળ્યા જ નહિ’ — the teaching may note this as the story's deliberately open, ominous closing line, never narrate a death the text does not state.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક વાર્તાના અંતને ફક્ત ‘દુ:ખદ અંત’ ગણી લે છે, અને ચૂકી જાય છે કે અહીં એક જ સૂરમાં બે અલગ ભાવ — મિલન (પોતાની મૃત પત્નીની નજીક હોવાનું) અને વિયોગ (ગવરીની, ને એની સાથે સકીનાની, વિદાયનું) — ભેગા ગૂંથાયેલા છે, જે જ વાર્તાને ખાસ કરીને કરુણ રસમાં પૂરી કરે છે.",
+      "correction": "explanation-માં ‘મિલન અને વિયોગના મિશ્ર ભાવોની ગંગા-જમના ગૂંથાઈ ગઈ’ પંક્તિ ટાંકીને બંને ભાવને નામ આપી અલગ-અલગ બતાવવાં, અને છેલ્લે એ બંનેનું ભેગું હોવું જ વાર્તાના કરુણ રસનું કારણ છે એમ જોડવું."
+    }
+  ],
+  "chapter_level": [
+    "M1.S1.T1નું કૃતિ-પરિચય (છાપેલું, શબ્દશઃ ટ્રાન્સ્ક્રાઇબ થયેલું) પોતે જ વાર્તાનો અંત (સકીના, ગવરીને ભેટ, કબર પાસેની છેલ્લી સુરાવટ) જાહેર કરી દે છે — આ ટેક્સ્ટબુકની પોતાની ડિઝાઇન છે, પ્લાનની ભૂલ નથી; પણ M2.S2.T2 અને M2.S2.T3 (જે M3.S3.T4ના topic_category: climaxની પહેલાં આવે છે) નાં explanation/summary/recall એ પ્રિવ્યૂને આગળ ધપાવીને સૂરના બદલાવનું પૂર્વાભાસ ન આપે એનું ખાસ ધ્યાન રાખવું.",
+    "આ ચેપ્ટરનું સૌથી મોટું avoid-gate જોખમ પ્રોફાઇલની item 3 (સહાનુભૂતિ-પાત્રને ન્યાય તોળવો) છે — ‘ડાગળી ચસકેલ’ / ‘ગાંડપણ’ / ‘મગજ-મેટ’ શબ્દો M3.S4.T5 અને M4.S6.T7 બંનેમાં ગામલોકોના મોંએ આવે છે; કોઈ પણ ટોપિકનું explanation કે recall answer આ લેબલને હકીકત તરીકે ન લે — વાર્તા આખેઆખી રમઝુ પ્રત્યે સહાનુભૂતિથી લખાયેલી છે.",
+    "ચેપ્ટરની ભાષા ગાઢ તળપદી (સૌરાષ્ટ્રી) બોલી અને તત્સમ-ભારે, જોડાક્ષર-ભારે ગુજરાતી બંને ભેગાં કરે છે (એલા ડોસલા, હાલ્યની ઝટ, કણ-વકણ, પિતૃહૃદય, ગમગીની, દિશાશૂન્ય, વલોપાત) — std-10ના પોતાના દસ્તાવેજે નામેલા ‘જોડાક્ષર-heavy’ વાંચન-ભારને અનુરૂપ; M2.S2.T2, M2.S2.T3, M4.S5.T6નું વિદાયગીત અને M4.S6.T7ના સંવાદમાં આવતા તળપદા શબ્દો ગ્લોસ થાય, ક્યારેય માનક ગુજરાતીમાં બદલાય નહીં.",
+    "આ ચેપ્ટર સંપૂર્ણ ટૂંકીવાર્તા છે — નવલકથાખંડ નથી — તેથી પ્રોફાઇલની item 7 (excerpt-invention gate, નવલકથાખંડ માટેની) આ ચેપ્ટરને લાગુ પડતો નથી; વાર્તાનો આખો કમાન (પરિચય → ગૂંચ → સંઘર્ષ → વળાંક → પરિણામ) M1.S1.T1થી M5.S7.T8 સુધી પૂરો છે."
+  ]
+}

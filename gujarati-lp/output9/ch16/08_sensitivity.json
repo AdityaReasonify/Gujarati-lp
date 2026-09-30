@@ -1,0 +1,25 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T2",
+      "areas": ["ધર્મ"],
+      "caution": "Explaining the 'કાવ્યરૂપ પત્ર' framing risks turning રાધા-કૃષ્ણનો પ્રેમ into a devotional or theological account (Krishna-lore as belief to be taught) rather than the poem's literary conceit, and risks moralising the romance for the child's real_life_example.",
+      "guidance": "Explain the letter as a poetic device — written on a કદંબ leaf, 'in the language of eyelashes' — and keep Radha-Krishna's love as this poem's literary subject, not bhakti instruction; anchor real_life_example to a child's own experience of missing someone and wanting to write to them, never to a devotional practice or a modern romantic-relationship lesson.",
+      "severity": "soft"
+    },
+    {
+      "topic_id": "M2.S3.T7",
+      "areas": ["ધર્મ"],
+      "caution": "Explaining 'સમરાંગણ તમને તો શોભે હો શ્યામ, વગર હથિયારે ત્યાં જ તમે ફાવશો' invites adding unstated Mahabharata detail — e.g. narrating Krishna's role as charioteer, the Gita, or the war's events — none of which the chapter prints.",
+      "guidance": "Stay with exactly what the line says — Krishna succeeds on the battlefield without needing a weapon, unlike here where he needs none either — and do not add biographical or scriptural fact about the Mahabharata beyond original_chunk and key_terms.",
+      "severity": "soft"
+    }
+  ],
+  "chapter_level": [
+    {
+      "area": "ધર્મ",
+      "guidance": "Radha and Krishna are living devotional figures for many students in the class. Teach the whole ગીત as literature — its ચિત્ર, વિરહ-ભાવ, and પત્ર-કલ્પન — never as krishna-bhakti instruction or comparative mythology, and never as an occasion to add a biographical or mythological fact the chapter itself does not print. Keep the poem's 'હળવી રીસ' as craft — a lover's playful complaint inside the letter — not a life-lesson on romantic relationships for the real_life_example; anchor that field in a child's own experience of missing and writing to someone, not in a modern boyfriend-girlfriend framing."
+    }
+  ],
+  "none_found": false
+}

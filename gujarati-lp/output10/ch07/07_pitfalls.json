@@ -1,0 +1,86 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Any mention of છંદ in `explanation`, `key_terms`, `concept_bullets` or any `recall_questions[].answer` for this topic names only 'મંદાક્રાન્તા', quoted from this topic's own `original_chunક` ('...કવિએ આ સોનેટમાં મંદાક્રાન્તા છંદમાં પ્રગટ કર્યો છે'); no other છંદ name (પૃથ્વી, શિખરિણી, અનુષ્ટુપ, ઇન્દ્રવજ્રા, વંશસ્થ, હરિણી, દોહરો, સોરઠો, ચોપાઈ) appears anywhere in this topic's fields, and no field counts માત્રા or ગણ.",
+          "profile": "sonnet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'જીવમાં જીવ આવ્યો'ને શબ્દશઃ વાંચે છે — કંઈક ખરેખર મરેલું હતું ને હવે જીવતું થયું, એમ સમજી લે છે — અને `key_terms` પોતે જ ગ્લોસ કરે છે તેમ, રૂઢિપ્રયોગનો સીધો શબ્દાર્થ પૂરતો નથી હોતો એ વાત ચૂકી જાય છે.",
+      "correction": "explanation એ સ્પષ્ટ કરે કે આ શબ્દસમૂહનો સીધો શબ્દાર્થ પૂરતો નથી, અને પછીની પંક્તિઓ (ડમરી શમવી, ફોરાં ઝરવાં, રાફડો ચાલવો, વગડો ટહુકવો) જ બતાવશે કે રૂઢિપ્રયોગ ખરેખર શું કહેવા માગે છે — વ્યાખ્યા આપવાને બદલે કવિતાનાં ચિત્રો તરફ દોરી જવું."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "No field 'corrects' this topic's own printed form 'થૈ' (`વંટોળાતી પવન-ડમરી થૈ ઠરીઠામ અંતે`) to 'થઈ'; `explanation`/`key_terms` gloss it as the poem's own spoken/કાવ્ય-રૂપ — this chapter's own ભાષા-અભિવ્યક્તિ box itself confirms 'થૈ' is a રૂપ of 'થઈ' — and it is never flagged as a spelling slip.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "`figures_of_speech` for this topic does not name સજીવારોપણ (or any other device) on 'હાંફી હાંફી વ્યથિત સઘળાં નીડ ઝૂલ્યાં' — this chapter's one designated, text-grounded સજીવારોપણ evidence (વગડો/સ્મરણ/દૂધ) belongs to M1.S2.T4 per 04_converged.json's own notes; naming a second instance here turns the chapter's 'one or two, quoted, never a catalogue' craft-naming allowance into a catalogue.",
+          "profile": "sonnet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક પંક્તિ 1-2 (ડમરી શમવી, ફોરાં ઝરવાં) અને પંક્તિ 3-4 (નીડ હાંફવાં, પર્ણનો રંગ બદલાવો)ને બે અલગ-અલગ, છૂટાં ચિત્રો તરીકે વાંચે છે અને ચૂકી જાય છે કે ચારેય પંક્તિનું એક જ વાક્ય છે — તોફાન શમ્યું ને ફોરાં ઝર્યાં એટલે જ નીડ અને પર્ણ પર અસર દેખાઈ.",
+      "correction": "explanation ચારેય પંક્તિને એક જ વાક્ય તરીકે બતાવે — 'ડમરી શમી ને ફોરાં ઝર્યાં, એટલે નીડ હાંફતાં હાંફતાં ઝૂલ્યાં ને પર્ણનો રંગ બદલાયો' — જેથી બાળક જુએ કે વાક્ય એક પંક્તિમાં પૂરું થતું નથી, આગળ વધે છે."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "No field renders this topic's key phrase as 'ફૂટ્યું ફૂટ્યું ફરફર' — 01_meta.json's own `extraction_notes` records this as a rejected early misread, cross-checked against this chapter's own ભાષા-અભિવ્યક્તિ box; `explanation`/`key_terms`/any `recall_questions[].answer` must use this topic's own `original_chunક` form 'ફૂટું ફૂટું ફરફર થતું રૂપ ખીલ્યું ધરાનું' exactly, glossed as an ongoing/about-to-happen action, never as a completed past-tense event.",
+          "profile": "sonnet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક રાફડા અને તડકાના ઝીણા વર્ણનને ગૌણ શણગાર અથવા પુનરાવર્તન ગણી કાઢે છે, કેમ કે 'જીવમાં જીવ આવ્યો' પંક્તિ 2માં પહેલેથી જ કહેવાઈ ચૂક્યું છે, અને ચૂકી જાય છે કે સોનેટની ચૌદ પંક્તિની હદમાં કોઈ પંક્તિ નકામી નથી.",
+      "correction": "explanation રાફડાની ધીમી ચાલ અને તડકાના આછા ઢળવાને 'ધરાનું ફૂટવા આવેલું રૂપ' સાથે સીધું જોડે — આ નાની વિગતો પણ એ જ બદલાવનું નજીકથી લીધેલું ચિત્ર છે, અને સોનેટમાં કોઈ પંક્તિ ખાલી શણગાર નથી."
+    },
+    {
+      "topic_id": "M1.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "`figures_of_speech[].lines` for this topic, if naming સજીવારોપણ, quotes only from this topic's own `original_chunક` (e.g. 'ટ્હૌકી ઊઠ્યો તરત વગડો', 'ક્યાંથી મ્હોર્યાં સ્મરણ નમણાં', 'ભાંભર્યાં દૂધ ક્યાંથી'), and no `figures_of_speech[].device` value is સૉનેટ, ચોટ, વળાંક, ભાવપલટો, અષ્ટક, ષટ્ક or છંદ.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "No field 'corrects' this topic's own printed form 'ટ્હૌકી' (`ટ્હૌકી ઊઠ્યો તરત વગડો`) to 'ટહુકી'; `explanation`/`key_terms` gloss it as the poem's own spoken/કાવ્ય-રૂપ — as this chapter's own ભાષા-અભિવ્યક્તિ box itself confirms — never flagged as a misprint.",
+          "profile": "sonnet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'વગડો ટહુકે, સીમ સોને જાય, સ્મરણ મ્હોરે, દૂધ ભાંભરે'ને માત્ર અતિશયોક્તિભરી ભાષા ગણી લે છે અને ઓળખતું નથી કે અહીં કોઈ 'જેવું'/'જાણે' સરખામણી નથી — નિર્જીવ (વગડો, સીમ) અને અમૂર્ત (સ્મરણ)ને સીધી જ સજીવ ક્રિયા (ટહુકવું, મ્હોરવું, ભાંભરવું) અપાઈ છે.",
+      "correction": "explanation બતાવે કે અહીં 'જેવું' કે 'જાણે' શબ્દ ક્યાંય નથી — ક્રિયાઓ સીધી જ વગડા, સ્મરણ અને દૂધને અપાઈ છે, એટલે આ સજીવારોપણ છે, ઉપમા નહીં — અને એની અસર કહે કે આખો પ્રદેશ જ જાગી ઊઠ્યો હોય એવું લાગે છે."
+    },
+    {
+      "topic_id": "M1.S2.T5",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `summary`/`brief_summary`/`detailed_summary`, any `concept_bullets`/`important_points` line, or any `recall_questions[].answer` converts 'ફોરાં જ્યાં બે ઝરમર ઝર્યાં, જીવમાં જીવ આવ્યો' into an instruction of the shape 'આપણે … જોઈએ' (e.g. 'આપણે પ્રકૃતિની કદર કરવી જોઈએ') unless those exact words are quoted from this topic's own `original_chunક` — the ચોટ names what changed, not a life-instruction.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "No field describes this topic's closing return of the title line 'જીવમાં જીવ આવ્યો' as a ટેક, ધ્રુવપંક્તિ or refrain; it is described as the poem returning to answer its own opening line (circular closure), matching M1.S2.T2's first statement of the same words.",
+          "profile": "sonnet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'આઘે-ઓરે, અડખે-પડખે એનું એ સૌ છતાંયે' અને 'જીવમાં જીવ આવ્યો'ને એકબીજા સાથે વિરોધાભાસ/ભૂલ ગણી એકને છોડી બીજાને પકડી લે છે — કાં તો 'કંઈ બદલાયું નથી' કાં તો 'બધું બદલાઈ ગયું' એમ માની લે — બંને પંક્તિ સાથે જ સોનેટની ચોટ બને છે એ ચૂકી જાય છે.",
+      "correction": "explanation બંને અડધિયાં એક સાથે પકડી રાખે — બહારથી કંઈ જુદું દેખાતું નથી, છતાં ફોરાં ઝરતાં જ કંઈક અંદરથી બદલાઈ ગયું — અને એ જ શીર્ષક 'જીવમાં જીવ આવ્યો'ને સાચું ઠરાવે છે, જેથી સ્વાધ્યાયના શીર્ષકની યથાર્થતા પ્રશ્નનો પાયો અહીં જ બંધાય."
+    }
+  ],
+  "chapter_level": [
+    "કડી/યુગ્મ-numbering ban across all four poem topics (M1.S2.T2–T5): no field says 'પહેલી કડી', 'પહેલા યુગ્મમાં', 'ત્રીજા યુગ્મમાં' or any numbered couplet/stanza reference — the page prints seven typeset યુગ્મ (couplets) but sonnet.md is explicit these are typesetting, not the reading unit; topics are cut by ભાવ-ખંડ, so refer to the picture instead ('વરસાદ ઝરવાની પંક્તિઓમાં', 'રાફડા-તડકાની પંક્તિઓમાં') or say 'પહેલી પંક્તિઓમાં' / 'છેલ્લી બે પંક્તિમાં' without a number.",
+    "છંદ ceiling: 'મંદાક્રાન્તા' — as printed in M1.S1.T1's own original_chunક — is the only છંદ name that may appear anywhere in this chapter's authored fields; no other છંદ name (પૃથ્વી, શિખરિણી, અનુષ્ટુપ, ઇન્દ્રવજ્રા, વંશસ્થ, હરિણી, દોહરો, સોરઠો, ચોપાઈ) and no માત્રા/ગણ count in any topic, including the poem topics M1.S2.T2–T5.",
+    "Poet-bio ceiling: M1.S1.T1's original_chunક prints only વતન બોટાદ, સચિવાલયમાં અધિકારી-તરીકેની સેવા, and six named books (સૂરજ કદાચ ઊગે, અડવાપચ્ચીસી, કોઈનું કંઈ ખોવાય છે, ગુલાબી આરસની લગ્ગી, મોર બંગલો, નગર વસે છે) — no birth/death date, award, literary movement or personal-life detail about હરિકૃષ્ણ પાઠક enters any field anywhere in the chapter; this chapter's own કૃતિ-પરિચય prints no birth or death date at all, unlike sonnet.md's other measured chapter.",
+    "The કૃતિ-પરિચય names a companion poem, સ્વપ્નસ્થનું 'મેહુલા' ('આ કાવ્ય સાથે સ્વપ્નસ્થનું 'મેહુલા' કાવ્ય મૂકવાથી...'), only as a suggested pairing — 01_meta.json's own extraction_notes confirms 'મેહુલા' is not printed anywhere in this chapter's three pages. No field anywhere compares this સોનેટની પંક્તિઓ to 'મેહુલા', quotes it, or states what 'મેહુલા' says — there is no content in front of the child to teach from a poem this chapter does not print.",
+    "This is a public/collective-relief chapter (a village's relief at the first rain), not a private-loss one; per sonnet.md's sensitivity guidance the focus stays on the land, the work and the people — no field names a government scheme, department or campaign (e.g. જળસંચય અભિયાન) that the printed text itself does not name, and the ચોટ is never inflated into a water-conservation or monsoon-awareness appeal."
+  ]
+}

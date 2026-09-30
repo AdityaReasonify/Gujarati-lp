@@ -1,0 +1,22 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch10",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S2.T2",
+    "M1.S2.T3",
+    "M2.S3.T4",
+    "M2.S3.T5",
+    "M2.S4.T6",
+    "M2.S4.T7",
+    "M2.S4.T8",
+    "M3.S5.T9",
+    "M3.S5.T10",
+    "M3.S6.T11",
+    "M3.S6.T12"
+  ],
+  "source": "printed page 81 read off the render (_renders/page-1.png); all twelve couplets of the poem are printed on a single page in one column, top to bottom",
+  "notes": [
+    "Equals the logical traversal order of 02_structure.json exactly (T1..T12, one per printed reading marker). Emitted anyway so Agent 15 has an explicit index rather than an assumption, and so its human_confirmation_required flag is raised on a comparison that actually happened.",
+    "Order is the order of the teaching text only. Nothing else on printed pages 81-84 enters this list: the intro box, the gloss box, the one-word-for-a-phrase pre-block, all twelve exercise blocks (including the three that embed lines by other named poets), and the closing teacher-discussion box are all excluded. No grammar unit, supplementary-reading piece or pre-next-chapter revision unit falls inside this chapter's printed range."
+  ]
+}

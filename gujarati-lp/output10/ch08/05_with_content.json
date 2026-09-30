@@ -1,0 +1,360 @@
+{
+  "chapter_id": "gseb_eng_gujarati10_ch8",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક વિનોદ ભટ્ટના હાસ્યસાહિત્યના પ્રદાનની અને 'સૂરજ તો બધે જ સરખો' નિબંધમાં ખાણી-પીણી-ઘેલા પ્રવાસીની ટેવ પરના કટાક્ષની ઓળખ કરવી.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સર્વજ્ઞભાઈ તાજમહેલમાં અંદર જઈને ક્યારેય જોયો જ નથી છતાં દાળવડાંનાં વખાણ કરે છે અને તાજને 'એક કબર' ગણાવે છે એમાં રહેલો કટાક્ષ સમજાવવો.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T2",
+      "anchor": [
+        "M2.S2.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "માથેરાનમાં પુરોહિતવાળી હોટલનાં દાળભાત અને પેનોરમા પોઈન્ટ પરના નારિયેળ-પાણી સિવાય સર્વજ્ઞભાઈને બીજું કંઈ યાદ નથી રહેતું એ પરથી તેમની પ્રવાસ-ટેવ તારવવી.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": [
+        "M2.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દાર્જિલિંગના ઝરણામાં પગ બોળવાને બદલે દહીંવડાં ખાવાનું પસંદ કરતા સર્વજ્ઞભાઈ કશ્મીર વિશે જે બેપરવા ટીકા કરે છે તેમાં રહેલો કટાક્ષ પારખવો.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": [
+        "M2.S2.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મહાબળેશ્વરના સૂર્યોદય કરતાં ઊંઘ વધારે વહાલી ગણી 'સૂરજ તો બધે જ સરખો' કહેતા સર્વજ્ઞભાઈ સસ્તા આબુમાં જ અમદાવાદીઓ ભટકાવાની ફરિયાદ કેમ કરે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T5",
+      "anchor": [
+        "M2.S2.T5.C5",
+        "M2.S2.T5.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "છેલ્લે ક્યાંય પ્રવાસ ન કરવાનું નક્કી કરી ધાબા પર આઈસ્ક્રીમ ખાવાની મજાને 'પૃથ્વીનો છેડો ઘર' કહેતા સર્વજ્ઞભાઈના શબ્દોમાં લેખકનો કટાક્ષ કઈ રીતે પૂરો થાય છે તે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": [
+        "M2.S3.T6.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "લેખકનો પરિચય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "લેખક અને નિબંધનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "લેખકનો પરિચય અને નિબંધનો કૃતિ-પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "વિનોદ જશવંતલાલ ભટ્ટ અમદાવાદના વતની છે. મધુર વ્યંગ એમનાં લખાણોનું પીઠબળ છે. એમણે હાસ્ય સાહિત્યના મોટાભાગના પ્રકારોમાં પ્રદાન કરેલું છે. 'ઈદમ તૃતીયમ્', 'વિનોદની નજરે', 'આંખ આડા કાન', 'હાસ્યોપચાર', 'ભૂલચૂક લેવીદેવી', 'વિનોદ ભટ્ટના પ્રેમપત્રો' વગેરે હાસ્યરસથી સભર પુસ્તકો તેમણે આપ્યાં છે. તેમણે નર્મદ, મુનશી, જ્યોતીન્દ્ર દવે, ચાર્લી ચેપ્લિન, બર્નાડ શો, એન્ટની ચેખવ વગેરેનાં ચરિત્રો લખેલાં છે. તેમને રણજિતરામ સુવર્ણચંદ્રક પ્રાપ્ત થયેલો છે. હાસ્યલેખન માટે સાહિત્ય પરિષદને અને ગુજરાત સાહિત્ય અકાદમીના એવોર્ડ મળ્યા છે.\n\nઆ લેખ હળવી શૈલીમાં આપણી વિચિત્રતાઓ અને ટેવો વિશે ધ્યાન દોરે છે. માણસ વિખ્યાત જગ્યાએ પ્રવાસમાં જઈને પણ ત્યાં વાત તો ખાણીપીણીની જ કરે, જોવા લાયક સ્થળની ખાસિયતની નહિ, એ ટેવ વિશે લેખક કટાક્ષ કરે છે. જેમ સૂરજ બધે સરખો જ હોય તેમ આવા માણસો માટે બધાં સ્થાન સરખાં જ હોય છે. 'સર્વજ્ઞભાઈ' નામ પણ જાણે માત્ર ખાણીપીણીનું જ-એ લેખકનો વ્યંગ માણવો ગમે તેવો છે. વ્યંગાત્મક રીતે રજૂ થયેલ મનુષ્ય સ્વભાવ હાસ્ય નિપજાવે છે, એને મમળાવવું ગમે છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "લેખક વિનોદ ભટ્ટનો પરિચય અને નિબંધનો કૃતિ-પરિચય"
+                }
+              ],
+              "modified_chunk": "વિનોદ ભટ્ટ અમદાવાદના હાસ્યલેખક છે અને તેમણે ઘણાં હાસ્યસાહિત્ય પુસ્તકો તથા જાણીતા લોકોનાં ચરિત્રો લખ્યાં છે. તેમને રણજિતરામ સુવર્ણચંદ્રક જેવાં સન્માન મળ્યાં છે. આ નિબંધમાં લેખક કટાક્ષ (મર્મમાં કહેલી ટીકા) કરે છે કે લોકો પ્રખ્યાત જગ્યાએ ફરવા જઈને પણ ત્યાંનું સૌંદર્ય જોવાને બદલે ખાણી-પીણીની જ વાત કરે છે.",
+              "word_count": {
+                "original": 150
+              },
+              "key_terms": [
+                "વ્યંગ — કટાક્ષ, મર્મમાં કહેલી મજાકિયા ટીકા",
+                "કટાક્ષ — મર્મવેધક ટીકા, ટોણો",
+                "પ્રદાન — યોગદાન, આપેલું કામ",
+                "મમળાવવું — વાગોળવું, ફરી ફરી માણવું"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "સર્વજ્ઞભાઈની પ્રવાસ-વાતો",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "સ્થળોની વાતોમાં પુનરાવર્તાતી ખાણી-પીણીની ટેવ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T2",
+              "topic_name": "આગ્રાના તાજમહેલ અને દાળવડાંની વાત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "'આ વખતે રજાઓમાં કઈ તરફ ઉપડવા વિચારો છો, બાપુ ?'\n\n'હજી કંઈ નક્કી નથી કર્યું. છોકરાં આગ્રા જવાનું કહે છે. તાજમહેલ જોવાની એમની બહુ ઇચ્છા છે.\n\n'વાહ, સરસ. ટેસ્ટી.'\n\n'તાજમહેલ અને ટેસ્ટી ?'\n\n'એમ નહિ, ત્યાં તાજમહલની ઉત્તરે ખાડામાં એક દાળવડાંવાળો ઊભો રહે છે. સાલો શું બ્યુટિફૂલ દાળવડાં બનાવે છે ! સુપર્બ... અમે તો જ્યારે જ્યારે આગ્રા જઈએ ત્યારે ત્યારે હું તો તાજની બહાર બેસીને દાળવડાં ખાઈ લઉં છું.'\n\n'બાકી તાજમહેલ અદ્ભુત છે, નહિ ?'\n\n'સાચું પૂછો તો બોસ, મેં અંદર જઈને તાજમહેલ જોયો જ નથી.'\n\n'ગજબ કહેવાય, સર્વજ્ઞભાઈ...'\n\n'એમાં ગજબ શું છે, યાર ! એક માણસ ચૌદમી ડિલિવરીમાં મરી ગયેલી પોતાની બૈરી પાછળ આ રીતે પૈસા બરબાદ કરે એ વાત જ આપણને પસંદ નથી. બીજો કોઈ સમજુ માણસ હોય તો બૈરી પાછળ આખું આગ્રા શહેર જમાડે કે પછી તેની યાદમાં તાજમહેલ જેવી કોઈ મોટી હોટેલ બાંધે... લાખ્ખો રૂપિયા ખરચીને તેણે બાંધી તો એક કબર જ ને !'",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T2.C2",
+                  "concept_name": "તાજમહેલ ન જોયો છતાં દાળવડાંનાં વખાણ કરતા સર્વજ્ઞભાઈ"
+                }
+              ],
+              "modified_chunk": "સર્વજ્ઞભાઈ કહે છે કે આગ્રામાં તાજમહેલ પાસે એક દાળવડાંવાળો બહુ સરસ (ટેસ્ટી) દાળવડાં બનાવે છે, અને એ પોતે તાજની બહાર બેસીને એ જ ખાય છે. તેમણે તાજમહેલ અંદર જઈને ક્યારેય જોયો જ નથી, છતાં એ કહે છે કે એક માણસે પોતાની પત્નીની યાદમાં આટલા પૈસા ખર્ચીને ફક્ત એક કબર બંધાવી. આમ સર્વજ્ઞભાઈ માટે તાજમહેલનું સૌંદર્ય નહિ, દાળવડાંનો સ્વાદ મહત્ત્વનો છે.",
+              "word_count": {
+                "original": 148
+              },
+              "key_terms": [
+                "ટેસ્ટી — સ્વાદિષ્ટ (અંગ્રેજી શબ્દ)",
+                "બ્યુટિફૂલ — સુંદર (અંગ્રેજી શબ્દ)",
+                "અદ્ભુત — અજાયબ, નવાઈ પમાડે તેવું",
+                "બરબાદ — વેડફાઈ ગયેલું, નાશ પામેલું",
+                "ડિલિવરી — (અહીં) બાળકના જન્મ વખતે, પ્રસૂતિ (અંગ્રેજી શબ્દ)"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "માથેરાનનાં દાળભાત અને નારિયેળ-પાણીની વાત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "'સર્વજ્ઞભાઈ, માથેરાન જવા જેવું ખરું ?'\n\n'દાદાગીરી બોસ, માથેરાન એટલે માથેરાન. આપણા પુરોહિતવાળાની જ ત્યાં એક હોટલ છે. એ હોટલનાં દાળભાત ! આંગળાં કરડ્યા કરીએ. ફેન્ટાસ્ટિક !'\n\n'ત્યાં જોવા જેવી કોઈ ખાસ જગ્યા ?'\n\n'છે ને... ઘણાં પોઈન્ટ્સ સનસેટ પોઈન્ટ, એકો પોઈન્ટ, પેનોરમા પોઈન્ટ. પેનોરમા પોઈન્ટ પર એક નારિયેળવાળો બેસે છે. અમે તો ઘણીવાર નારિયેળનું પાણી પીવા માટે જ પેનોરમા પોઈન્ટ પર જતાં. બીજા કશા ખાતર નહિ, તો નારિયેળ-પાણી ખાતરેય તમારે માથેરાન તો જવું.'",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "માથેરાનનાં દાળભાત અને પેનોરમા પોઈન્ટના નારિયેળ-પાણીની ટેવ"
+                }
+              ],
+              "modified_chunk": "માથેરાન વિશે પુછાતાં સર્વજ્ઞભાઈ તરત જ ત્યાંની એક હોટલનાં દાળભાતનાં વખાણ કરે છે. માથેરાનમાં સનસેટ પોઈન્ટ, એકો પોઈન્ટ જેવાં ઘણાં જોવાલાયક સ્થળો છે, પણ સર્વજ્ઞભાઈને તો પેનોરમા પોઈન્ટ પરના નારિયેળ-પાણી સિવાય બીજું કંઈ યાદ નથી. અહીં પણ તેમની આખી વાત ખાવા-પીવાની આસપાસ જ ફરે છે.",
+              "word_count": {
+                "original": 74
+              },
+              "key_terms": [
+                "દાદાગીરી — (અહીં) જોરદાર, ધમાકેદાર; સામાન્ય રીતે દાદાગીરી એટલે દબદબો બતાવવો",
+                "ફેન્ટાસ્ટિક — સરસ, ઉત્તમ (અંગ્રેજી શબ્દ)",
+                "પુરોહિત — પૂજા-વિધિ કરાવનાર બ્રાહ્મણ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "દાર્જિલિંગનાં દહીંવડાં અને કશ્મીર વિશેની ટીકા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "'દાર્જિલિંગ આ સિઝનમાં મોંઘું પડે ?'\n\n'સહેજ પણ મોંઘું નહિ; શેઠિયા, તમારે એમ કરવાનું, એક ટંક જમવાનું ને સાંજે નાસ્તાથી ચલાવી લેવાનું. ત્યાં દિલ્હી ચાટસેન્ટરની બાજુમાં એક દહીંવડાંવાળો બેસે છે. જુઓ શું ફક્કડ દહીંવડાં બનાવે છે ! બસ ખાધા જ કરીએ....'\n\n'કહે છે કે ત્યાંના ખળખળ વહેતા ઝરણામાં પગ બોળીને બેસી રહેવાની મજા આવે છે. એ એક લહાવો છે.'\n\n'અરે સાવ હમ્બગ યાર, એક વાર પેલા ઉલ્લુના પઠ્ઠા જગદીશિયા સાથે ઝરણામાં પગ બોળીને બેસી રહ્યા એમાં તો સાલી હોટેલ બંધ થઈ ગઈ ને ફૂટની દાળઢોકળી ગુમાવવી પડી. ત્યારથી પ્રતિજ્ઞા કરી નાખી છે કે ખાધા વગર હોટેલની બહાર પગ ન મૂકવો અને હવે તો આતંકવાદીઓને કારણે સાલી કશ્મીરમાંય ગરમી પડે છે.'",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C4",
+                  "concept_name": "દાર્જિલિંગનાં દહીંવડાં, ઝરણાની અવગણના અને કશ્મીર વિશેની ટીકા"
+                }
+              ],
+              "modified_chunk": "દાર્જિલિંગ વિશે સર્વજ્ઞભાઈ કહે છે કે ત્યાં એક ટંક જમીને સાંજે નાસ્તાથી ચલાવી લેવું અને દિલ્હી ચાટસેન્ટર પાસેના દહીંવડાં ખાધા કરવાં, એટલે મોંઘું ન પડે. ઝરણામાં પગ બોળીને બેસવાની મજા વિશે પુછાતાં તેઓ એને હમ્બગ (તદ્દન ખોટી વાત) ગણાવે છે, કેમ કે એક વાર એમ કરવા જતાં તેમની હોટલ બંધ થઈ ગઈ હતી અને ખાવાનું રહી ગયું હતું. છેલ્લે તેઓ કશ્મીર વિશે પણ બેપરવાઈથી એક કડવી ટીકા કરી નાખે છે.",
+              "word_count": {
+                "original": 110
+              },
+              "key_terms": [
+                "હમ્બગ — તદ્દન ખોટી વાત (અંગ્રેજી શબ્દ)",
+                "પ્રતિજ્ઞા — સંકલ્પ, દૃઢ નિર્ણય",
+                "લહાવો — આનંદદાયક લાભ, મજાનો અનુભવ",
+                "ઝરણું — સરવાણી, પહાડ પરથી વહેતું નાનું પાણીનું વહેણ",
+                "ફક્કડ — મસ્ત, બહુ સરસ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T5",
+              "topic_name": "મહાબળેશ્વરની ભલામણ અને આબુની સોંઘી સહેલ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "'તો મહાબળેશ્વર કેમ રહે ?'\n\n'અરે ડોન્ટ મિસ ઈટ બાબા, પણ મહાબળેશ્વર જવું હોય તો કોઈ ટ્રાવેલ ટુરમાં જ જવું. સાલી પછી કોઈ ઝંઝટ જ નહિ. બે ટાઈમ ખાવાનું ત્રણ ટાઈમ ચા-નાસ્તો પ્રહ્લાદ ટ્રાવેલ્સવાળા આપે છે. તમે કહો એ નાસ્તો આપે, બટાટાપૌંઆ, સેવ-ખમણી, બ્રેડનાં ભજિયાં - જે માગો એ નાસ્તો તૈયાર.'\n\n'વહેલી સવારે પોણા ચાર વાગ્યે મહાબળેશ્વરમાં સૂર્યોદય ગાંડા કરી મૂકે એવો હોય એ વાત ખરી ?'\n\n'પણ એવા ગાંડપણમાં ન પડવું મારા ભૈ. સૂરજ તો નવરો છે તે વહેલો ઊગી જાય. એને માટે થઈને આપણે શા માટે ઉજાગરો વેઠવો !' સૂરજ તો બધે જ સરખો. માટે એવી કોઈ બબાલમાં પડવું નહિ. પણ વેકેશનમાં મહાબળેશ્વરમાં હાડમારી બહુ પડશે, એના કરતાં સસ્તું ભાડું ને સિદ્ધપુરની જાત્રા જેવું કરવું હોય તો આબુ ઊપડી જાઓ. કહેતા હો તો રમેશ દાણી પાસે ચિઠ્ઠી લખાવી દઉં. એક બ્લોક કાઢી આપશે. રાંધવાનાં વાસણો પણ મળે. એક વાર રાંધવાનું ને બે વખત ખાવાનું. બીજી કોઈ ઝંઝટ જ નહિ. ખાઈને સાંજ સુધી ઘોર્યા કરવાનું. સાંજે નખી લેક પર ચક્કર લગાવવાનાં. નખી લેકની ત્રાંસમાં એક રબડીવાળો બેસે છે. તેને ત્યાંથી અઢીસોત્રણસો ગ્રામ રબડી લઈને ઝાપટી જવાની. પણ આબુમાં સાલી એક તકલીફ રહેવાની. તમને અડધું અમદાવાદ ત્યાં જોવા મળશે. અમદાવાદમાં જે લોકોને ટાળવા આપણે પોળની ગલીમાં છુપાઈ જવા મથીએ એ બધાં ત્યાં સામે ભટકાવાનાં. ત્યાંના પાછા રસ્તાય થોડા પહોળા એટલે ભાગીનેય ક્યાં ભગાય ! એ વખતે સાલું એમ થાય કે આટલા પૈસા ખરચીને આબુ આવ્યા એ કરતાં અમદાવાદમાં જ રહ્યા હોત તો વધુ સારું થાત.'",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T5.C5",
+                  "concept_name": "મહાબળેશ્વરની ટ્રાવેલ-ટુર ભલામણ અને સૂર્યોદયની અવગણના"
+                },
+                {
+                  "concept_id": "M2.S2.T5.C6",
+                  "concept_name": "સોંઘા આબુની ભલામણ અને અમદાવાદીઓ ભટકાવાની ફરિયાદ"
+                }
+              ],
+              "modified_chunk": "મહાબળેશ્વર માટે સર્વજ્ઞભાઈ કોઈ ટ્રાવેલ ટુરમાં જવાની સલાહ આપે છે, જ્યાં જમવા-નાસ્તાની કોઈ ઝંઝટ (માથાકૂટ) ન રહે. વહેલી સવારના સૂર્યોદય માટે ઉજાગરો કરવાને બદલે તેઓ કહે છે, 'સૂરજ તો બધે જ સરખો' — એટલે એને જોવા ઊંઘ બગાડવાની જરૂર નથી. તેના બદલે તેઓ સસ્તા આબુ જવાની ભલામણ કરે છે, પણ ત્યાં પણ ફરિયાદ કરે છે કે આખું અમદાવાદ જ સામે મળી જાય છે.",
+              "word_count": {
+                "original": 235
+              },
+              "key_terms": [
+                "હાડમારી — હેરાનગતિ, મુશ્કેલી",
+                "જાત્રા — યાત્રા (તળપદો શબ્દ)",
+                "બબાલ — મુસીબત, આફત",
+                "પોળ — અમદાવાદના જૂના મહોલ્લાની શેરી, જ્યાં એક જ પ્રવેશદ્વારેથી ઘણાં ઘર જોડાયેલાં હોય",
+                "ભટકાવું — અચાનક સામે મળી જવું, આંટા મારવા"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "અંતિમ નિર્ણય",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "અમદાવાદમાં જ રહેવાનો નિર્ણય",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S2.T5"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "'આઈડિયા ખોટો નથી, થાય છે કે આ વખતે ક્યાંય જવું નહિ. સાંજે છ વાગ્યે ધાબામાં પાણી છાંટીને ઠંડકમાં પથારી કરી લેટી જવું. અમદાવાદની સાંજ આમેય ઠંડકવાળી હોય છે.'\n\n'વાહ એ તો ઉત્તમ. ધાબામાં બેસીને પટેલનો આઈસ્ક્રીમ ખાતાં ખાતાં ગપ્પાં મારવાની જે મજા છે તે સાલી બીજે ક્યાંય નથી. એટલે તો કહું છું કે પૃથ્વીનો છેડો ઘર. એટલે બાપુ, આપણી તો એ જ સલાહ છે કે... સમજી ગયા ને !'\n\n('વગેરે, વગેરે, વગેરે...' માંથી)",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C7",
+                  "concept_name": "ધાબે સૂઈ રહેવાનો અને ક્યાંય ન જવાનો નિર્ણય"
+                }
+              ],
+              "modified_chunk": "છેલ્લે સર્વજ્ઞભાઈ નક્કી કરે છે કે આ વખતે ક્યાંય પ્રવાસ કરવો જ નથી; સાંજે ધાબા પર ઠંડકમાં પથારી કરીને સૂઈ જવું અને આઈસ્ક્રીમ ખાતાં ખાતાં ગપ્પાં (વાતો) મારવાં એ જ સૌથી મોટી મજા છે. તેઓ કહે છે, 'પૃથ્વીનો છેડો ઘર' — એટલે કે છેવટે ઘર જેવું ક્યાંય નથી. આમ આખા નિબંધનો કટાક્ષ છેલ્લે ઘરમાં જ ટકી જવાના નિર્ણય પર પૂરો થાય છે.",
+              "word_count": {
+                "original": 73
+              },
+              "key_terms": [
+                "ગપ્પાં — નવરાશની આડીઅવળી વાતો, વાતોડિયાપણું",
+                "લેટી જવું — સૂઈ જવું (તળપદો શબ્દપ્રયોગ)",
+                "ધાબું — ઘરની અગાસી, છત પરની ખુલ્લી જગ્યા"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut rationale: nibandh_atmaparak.md's unit is 'એક પ્રસંગ, અથવા વિચારનો એક વળાંક', boundary at the writer's own turn. Agent 1 already marked the boundary on the rendered page with one [[લેખક-પરિચય]] marker plus five [[ઘટના: ...]] markers (01_meta.json's structure_inventory.ghatna: 5). Six markers map to exactly six topics here — no marker silently swallowed, no topic invented where no marker sits, per agents/02_structure.md's Agent-4 check.",
+    "[[લેખક-પરિચય]] covers both the author-bio paragraph AND the unmarked કૃતિ-પરિચય paragraph that immediately follows it with no marker of its own (00_chapter_normalized.md lines 3-10): this matches profiles/students/std-10.md §1.4's measured finding that std-10 chapters open with an unlabeled bio + કૃતિ-પરિચય pair separated only by a rule, and agents/02_structure.md's own instruction that this pair is ONE CONCEPT topic (singular), not two. Folded into M1.S1.T1.",
+    "Two of the five printed [[ઘટના: ...]] markers each name two places and run two question-answer exchanges on the page. For M2.S2.T4 (Darjeeling+Kashmir) the Kashmir line is a one-clause coda to the same running joke (food over the ઝરણું) — the ભાવ never actually moves to a new subject, so it stays ONE concept. For M2.S2.T5 (Mahabaleshwar+Abu) the ભાવ genuinely moves — from 'enjoy મહાબળેશ્વર cheaply via a travel package, skip the sunrise' (carrying the chapter's own title line) to 'go to cheaper આબુ instead', which then backfires into the very complaint that seeds the closing topic — so M2.S2.T5 gets two concepts (C5, C6), never a third, per the profile's 'litany inside one movement' test. Both stay ONE topic each either way, honouring 'one marker, one topic'.",
+    "topic_type: CONCEPT for the opener; STORY_TELLING for all five ઘટના topics, each holding a narrated પ્રસંગ — the authored-enum value explanation_unit_map.md assigns to 'a narrative ઘટના'.",
+    "No topic carries topic_category: 'climax' — nibandh_atmaparak.md's hard gate #2 forbids it for this genre ('these chapters have પ્રસંગ, not પ્લોટ'). M2.S2.T5, which carries the chapter's title-line and its densest content, is marked 'transition': it is the hinge between the string of far-off destinations and the final decision to stay home, not a plot peak. M2.S3.T6 is 'resolution' per the profile's explicit instruction for the closing gesture; T2-T4 are 'core', T1 is 'introduction'.",
+    "Third-person caveat, carried forward from 01_meta.json's own extraction_notes: this chapter's original_chunk will carry NO first-person 'હું' anywhere — both voices are unlabeled, and the humour is built entirely from the caricature 'સર્વજ્ઞભાઈ''s own words, framed from outside by the printed intro's third-person 'લેખક કટાક્ષ કરે છે'. No objective_text or topic_name here attributes a self-deprecating admission to a first-person narrator — the same shape nibandh_atmaparak.md documents for std-7 ch6, held for its unit and its gate only. Agents 5/12 must not invent a 'હું' confession this chapter does not carry.",
+    "Difficulty set per agents/02_structure.md's std 9-10 row ('a સંવાદ carrying the argument's turn'): the whole chapter is unattributed two-voice dialogue with no 'કહ્યું' tags. M2.S2.T4 and M2.S2.T5 are 'hard' — both run the longest unattributed exchanges and both carry a pun-or-idiom-dependent punchline (the 'ગરમી પડે છે' double meaning on કશ્મીર; the title-line plus a second location-switch inside one speech turn) that a literal reading misses. M1.S1.T1 is 'easy' (one expository paragraph, no dialogue). M2.S2.T2 is 'medium' — the joke pattern's first appearance. M2.S2.T3 drops to 'easy' — the pattern is already learned by this point and this is its shortest, plainest repeat. M2.S3.T6 is 'medium' — shorter than T4/T5 but needs the whole essay held in mind to read 'પૃથ્વીનો છેડો ઘર' as the punchline.",
+    "depends_on: only M2.S3.T6 carries a real dependency, on M2.S2.T5 — the decision to stay in Ahmedabad answers directly the twist that closes T5 (meeting fellow અમદાવાદીઓ in આબુ). Every other topic is an independently self-contained iteration of the same repetition-with-escalation joke (a new place, the same food-over-sightseeing habit), so their depends_on stays [].",
+    "No અલંકાર, છંદ, or સાહિત્યપ્રકાર label appears in any objective_text, topic_name, module_name or segment_name. 'કટાક્ષ'/'વ્યંગ' are used freely as tone-words because 01_meta.json's own ભાષા-અભિવ્યક્તિ record never applies a formal device-name to this chapter either — the craft-naming gate (profiles/students/std-10.md §1.4) targets formal અલંકાર/છंद labels, not this genre's own vocabulary for its tone.",
+    "Apparatus and exercise exclusion: the શબ્દ-સમજૂતી box (સમાનાર્થી/શબ્દાર્થ, તળપદા શબ્દો, વિરુદ્ધાર્થી), the single કહેવત block, all four સ્વાધ્યાય tiers, વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are apparatus/exercise territory already recorded in 01_meta.json's exercise_inventory and extraction_notes — none of it is cut as a topic here, per global_content_rules.md #7 and explanation_unit_map.md's apparatus rule.",
+    "Sensitivity flag for Agent 8/12, not a structural decision: M2.S2.T4's original_chunk will carry સર્વજ્ઞભાઈ's line about કश्मीर and આતંકવાદીઓ — a callous pun on ગરમ. The topic is cut here because that is where the printed page puts the line; downstream agents must keep it verbatim, name it as કટાક્ષ once, and never extend or normalise the remark (nibandh_atmaparak.md's humour-sensitivity rule; global_content_rules.md #10).",
+    "original_chunk is left empty in every topic per this agent's mandate — Agent 5 fills it from the rendered pages, not this file.",
+    "Bloom spread across the six objectives (Understand x2, Analyze x3, Evaluate x1) climbs toward Evaluate at the closing topic, matching std-10's evaluation/transfer emphasis (profiles/students/std-10.md §1.3) without capping any topic's later recall ladder — that ceiling is Agent 12's job, not this file's.",
+    "Agent 5: original_chunk, modified_chunk, word_count, key_terms and the four content-type fields attached on all 6 topics. Chapter rendered fresh at 150dpi (scratch/run-s10c8-05/page-1..4.png, std-10 manifest folios 42-45) and read in full; every topic's original_chunk cross-checked line by line against 00_chapter_normalized.md, with the first and last line of every chunk plus every unusual/colloquial form re-verified at 300-600dpi zoom. Confirmed as printed and kept exactly as in 00_chapter_normalized.md: the missing closing quote on M2.S2.T2's second turn ('હજી કંઈ નક્કી નથી કર્યું...છે.' with no closing '), the ળ in M2.S2.T3's 'આંગળાં કરડ્યા કરીએ', the બ in M2.S2.T5's 'બ્રેડનાં ભજિયાં', and M2.S2.T4's 'ફૂટની દાળઢોકળી' (vs the unrelated ભાષા-અભિવ્યક્તિ apparatus box's own 'ફૂટ્સની' variant, which is not part of any topic's original_chunk). FLAG for Agent 1's file owner / a QC pass, not patched here per this agent's own mandate ('a mismatch is Agent 1's defect, not yours to patch. Note it, stop, and say so.'): 00_chapter_normalized.md line 42 (inside M2.S2.T4) transcribes '...દહીંવડાંવાળો બેસે છે. જુઓ શું ફક્કડ દહીંવડાં બનાવે છે !...'. Independent re-verification of this exact word against the render (150dpi, then 600dpi crops with column-projection character segmentation) does not support 'જુઓ': the first glyph is a plain vertical stem with a curved top-right arm matching પ as seen in 'પોઈન્ટ' earlier on the same page, not જ's looped-tail shape; the second is a single closed round loop matching ઠ as seen in this chapter's own printed શબ્દ-સમજૂતી box entry 'પઠ્ઠો — પહેલવાન' (and visually distinct from ણ's open hook-and-stem shape seen in the facing page's 'કારણે'), with no second subscript loop indicating the conjunct ઠ્ઠ; the third is the ો o-matra. The word therefore reads as 'પઠો', not 'જુઓ' — a single-ઠ colloquial form distinct from this chapter's own 'પઠ્ઠો' (used two lines later for 'ઉલ્લુના પઠ્ઠા'), and plausibly a variant of the epithet register the essay already uses once for a food vendor ('સાલો શું બ્યુટિફૂલ દાળવડાં બનાવે છે !' for the Agra vendor). Per gujarati_verbatim.md ('the rendered printed page is the only authority, not any prior transcription') and this agent's mandate not to silently repair Agent 1's file, M2.S2.T4's original_chunk below is copied VERBATIM from 00_chapter_normalized.md as 'જુઓ', unchanged — this note surfaces the discrepancy for upstream correction rather than resolving it silently in this agent's own output.",
+    "The chapter's closing source note (\"('વગેરે, વગેરે, વગેરે...' માંથી)\") sits inside M2.S3.T6's original_chunk, the last topic, per gujarati_verbatim.md's rule that the attribution/source line belongs to the final topic of the piece.",
+    "primary_content_type 'image' / available_content_types ['image'] set on all five STORY_TELLING ઘટના topics (M2.S2.T2 through M2.S3.T6) per global_content_rules.md #9 and author.md's 'one image per reading scene'; the CONCEPT intro topic M1.S1.T1 (લેખક-પરિચય + કૃતિ-પરિચય, not a પ્રસંગ) is left null/[], matching this pack's own precedent for the equivalent intro topic in other std-10 chapters (e.g. output10/ch06 M1.S1.T1).",
+    "key_terms stay inside std-10's 3-5 band (reference/shabd_gloss.md) and lead with words the L2 reader will meet again across the chapter's repeating joke-pattern (વ્યંગ, કટાક્ષ) or that name a real Gujarat cultural referent worth holding onto (પોળ). Every key_terms headword was checked to appear verbatim inside its own topic's original_chunk (script-verified, no misses). Entries already sitting in the chapter's own printed શબ્દ-સમજૂતી/કહેવત boxes (ટેસ્ટી, બ્યૂટીફુલ, ઝરણું, હમ્બગ, પ્રતિજ્ઞા, હાડમારી, બબાલ, જાત્રા, લેટી જવું) are reused only where they are the load-bearing word at that specific topic's own point of use, per shabd_gloss.md's own instruction that the box is evidence of difficulty, not a list to empty wholesale; several terms (વ્યંગ, કટાક્ષ, પ્રદાન, મમળાવવું, અદ્ભુત, બરબાદ, ડિલિવરી, દાદાગીરી, ફેન્ટાસ્ટિક, પુરોહિત, લહાવો, ફક્કડ, પોળ, ભટકાવું, ગપ્પાં, ધાબું) are picked beyond the box per shabd_gloss.md's warning that the box is written for a class that already speaks the language and leaves out exactly the Ring-2 words that stop an L2 std-10 reader. The single printed કહેવત ('સસ્તું ભાડું ને સિદ્ધપુરની જાત્રા') and the box's રૂઢિપ્રયોગ-adjacent idiom 'આંગળાં કરડ્યા કરીએ' are left out of key_terms per shabd_gloss.md/global_content_rules.md #7 — they belong to Agent 10 and the ભાષા-બોધ fields, not here.",
+    "modified_chunk on every topic stays at the 'what is happening' restatement level (2-4 sentences, hard words glossed inline in parentheses) with no explanation, ભાવ, judgement of સર્વજ્ઞભાઈ, or real-life anchor beyond what the chapter's own sentences already state — reserved for Agent 12. No modified_chunk moralises the food-over-sightseeing habit or names a value the text itself does not state, per teaching_voice_gu.md's ban on ઉપદેશ and this genre's avoid-list.",
+    "The third-person caveat carried in 01_meta.json/02_structure.json/04_validation.json is honoured throughout: no modified_chunk invents a first-person 'હું' confession — every restatement keeps 'સર્વજ્ઞભાઈ' and the unnamed questioner as the two dialogue voices the text actually has."
+  ]
+}

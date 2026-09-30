@@ -16,6 +16,11 @@ G=/Users/aditya/Downloads/Gujarati-lp/gujarati-lp
 LOG=$G/supervisor.log
 DETAIL=$G/supervisor-agents.log
 STDS="${1:-6 7 8}"
+# args_for.py takes a SINGLE std, but STDS may be a list ("6 7 8"). Passing the list made
+# it parse as std=6 concurrency=7 and return zero chapters — recovery stopped every
+# workflow and relaunched nothing. Resolve the active std (last entry) for recovery.
+# STOP-AFTER-8 (2026-08-29): never put 9 or 10 in STDS without an explicit instruction.
+RSTD="${STDS##* }"
 STALL_MIN=${2:-25}
 POLL=${3:-60}
 MAXH=${4:-12}
@@ -229,7 +234,7 @@ PY
       # rather than waiting: a wedged agent blocks its whole chapter, because wave 3 awaits
       # every branch. One small session per incident — rare by construction.
       echo "$(date '+%F %T') | ACTING: spawning recovery session" >> "$LOG"
-      "$CLAUDE" --bg "A gujarati-lp workflow has a wedged agent. Detector: $R. Do these steps IN ORDER and stop if any fails. STEP 1: TaskList to find every running local_workflow task. STEP 2: TaskStop EVERY one of them. STEP 3: VERIFY nothing is still running — re-run TaskList and also check that no agent transcript under ~/.claude/projects/*/subagents/workflows/wf_*/ has been modified in the last 2 minutes. If ANY workflow is still alive, STOP HERE, append 'recovery aborted: old run still alive' to $LOG, and do nothing else. Launching a second workflow over a live one makes two sets of agents write the same chapter files. STEP 4 (only if step 3 is clean): run python3 scratch/args_for.py $STDS 3 and relaunch scratch/chapter-runner-optimized.js with exactly those args via the Workflow tool. Do not hand-write args. Do not read RESUME.md. Keep output under 20 lines." \
+      "$CLAUDE" --bg "A gujarati-lp workflow has a wedged agent. Detector: $R. Do these steps IN ORDER and stop if any fails. STEP 1: TaskList to find every running local_workflow task. STEP 2: TaskStop EVERY one of them. STEP 3: VERIFY nothing is still running — re-run TaskList and also check that no agent transcript under ~/.claude/projects/*/subagents/workflows/wf_*/ has been modified in the last 2 minutes. If ANY workflow is still alive, STOP HERE, append 'recovery aborted: old run still alive' to $LOG, and do nothing else. Launching a second workflow over a live one makes two sets of agents write the same chapter files. STEP 4 (only if step 3 is clean): run python3 scratch/args_for.py $RSTD 3 and relaunch scratch/chapter-runner-optimized.js with exactly those args via the Workflow tool. Do not hand-write args. Do not read RESUME.md. Keep output under 20 lines." \
         --permission-mode acceptEdits --allowedTools "$ALLOW" >> "$LOG" 2>&1
       echo "$(date '+%F %T') | recovery session dispatched — supervisor exiting" >> "$LOG"
     fi

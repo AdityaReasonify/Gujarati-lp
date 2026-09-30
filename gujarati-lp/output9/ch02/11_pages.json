@@ -1,0 +1,11 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9",
+  "textbook_url": "../Textbooks-pdf/std-9/ch-02-paropkari-manushyo.pdf",
+  "textbook_pages": "3–7",
+  "source": "printed folio, read off renders of page-1.png (folio '3') and page-5.png (folio '7') of the chapter PDF; agrees with manifest.json row (printed_start 3, pdf_start 7, pdf_end 11 → 5 pages) and the board profile's std-9 offset (N+4)",
+  "confidence": "medium",
+  "gaps": [
+    "textbook_url is a local path — the GSEB readers have no hosted URL",
+    "textbook title carried from 01_meta.json; the std-9 cover has not itself been read/confirmed per profiles/boards/gseb_gujarati.md ('std 8 and 9 covers have not been read') — confidence graded medium for this reason, not because of the page range, which was read directly off both end-page renders"
+  ]
+}

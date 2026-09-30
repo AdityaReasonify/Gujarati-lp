@@ -1,0 +1,405 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati8_ch14",
+  "plan_id": "gseb_eng_gujarati8_ch14_v1",
+  "grade": 8,
+  "chapter_name": "નિયમો કોના માટે ?",
+  "genre": "varta",
+  "active_genre_profiles": ["varta.md"],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "ટ્રાફિકના નિયમો ન પાળવાથી આ પાંચ દૃશ્યોમાં પાત્રોને શું ભોગવવું પડે છે, અને નિયમો પાળવા એ દેશભક્તિ કેમ ગણાય છે ?",
+  "explanation_unit": "એક ઘટના/દૃશ્ય — છાપેલા 'દૃશ્ય એક/બીજું/ત્રીજું/ચોથું/પાંચ' મથાળાની સીમાએ કટ; ફ્રેમ-ઓપનિંગ અને ફ્રેમ-ક્લોઝિંગ પોતાના સ્વતંત્ર ઘટના-ટોપિક તરીકે (varta.md ના frame-story નિયમ મુજબ — 'the classroom frame and the embedded કથા are different ઘટના and different topics').",
+
+  "cut_summary": {
+    "reading_markers_in_normalized": [
+      "[[ઘટના: ફ્રેમ-કથનનો આરંભ — સોસાયટીની રાત્રિબેઠક અને અજાણ્યા અતિથિનો પ્રવેશ]]",
+      "દૃશ્ય એક :",
+      "દૃશ્ય બીજું :",
+      "દૃશ્ય ત્રીજું :",
+      "દૃશ્ય ચોથું :",
+      "દૃશ્ય પાંચ :",
+      "[[ઘટના: ફ્રેમ-કથનનું સમાપન — અતિથિનું ચિંતન, ચોપડી-ભેટ, સૂત્રો અને દાસકાકાની દેશભક્તિ-વાત]]"
+    ],
+    "reading_markers_count": 7,
+    "reading_markers_breakdown": "2 bracket [[ઘટના: ...]] markers (line 38 ફ્રેમ-આરંભ, line 130 ફ્રેમ-સમાપન) + 5 UN-bracketed printed દૃશ્ય-મથાળાં (lines 43, 46, 61, 88, 113) જે પોતે જ કટ-સીમા છે — જુઓ નોંધ 2 નીચે.",
+    "topics": 7,
+    "segments": 4,
+    "modules": 3,
+    "concepts": 13,
+    "objectives": 7,
+    "non_topic_markers": [
+      "[[શીર્ષક-પટ્ટી]]",
+      "[[લેખક-સ્લોટ]]",
+      "[[પ્રવેશપેટી — વાદળી પેટી, શિક્ષક-સંબોધિત; વાચન-દૃશ્ય નથી, સ્વાધ્યાય નથી]]",
+      "[[ચિત્ર: છાપેલા પાના 114ના તળિયે — શહેરના ટ્રાફિક-જામ અને અકસ્માતનું દૃશ્ય]]",
+      "[[ચિત્ર: છાપેલા પાના 116ના તળિયે — ઑટોરિક્ષા, કાર, બાઈક-ચાલક અને પડેલી યુવતીનું દૃશ્ય]]",
+      "[[શબ્દાર્થ-પેટી — પીળી પેટી; વાચન-દૃશ્ય નથી]]",
+      "[[સ્વાધ્યાય: ...]] × 12 (પ્રી-બ્લૉક 'શબ્દસમૂહ માટે એક શબ્દ' + ક્રમાંકિત ગુલાબી શીર્ષક 1-5, 7-11)",
+      "[[છબિ: ...]] × 3 (સ્વાધ્યાય 5 ની અંદરનાં ચેતવણી-પાટિયાં) અને [[જાહેરાત-પેટી ...]]/[[/જાહેરાત-પેટી]] (સ્વાધ્યાય 10 ની અંદરની જાહેરાત) — બંને સ્વાધ્યાય-જડિત સામગ્રી",
+      "[[ચર્ચા-વિચારણા — વાદળી-પીળી પેટી, પ્રકરણનું સમાપન; સ્વાધ્યાય નથી, વાચન-દૃશ્ય નથી]]"
+    ],
+    "tek_occurrences": 0,
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0
+  },
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સોસાયટીની બેઠકમાં આવેલા અજાણ્યા અતિથિએ પોતાની ડાયરીમાંથી શું વાંચી સંભળાવવાનું નક્કી કર્યું અને શા માટે, તે પાઠના પહેલા ફકરામાંથી શોધીને કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ટ્રાફિકના નિયમો ન પાળવાથી દ્વિચક્રી વાહનવાળા છોકરાને કયો અકસ્માત નડ્યો અને પોલીસના સવાલ સામે એ કેમ લાચારીથી જોઈ રહ્યો, તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T2",
+      "anchor": ["M2.S2.T2.C2", "M2.S2.T2.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ત્રણ સવારીમાં સ્કૂટર પર નીકળેલાં સુરેશભાઈ-જાનકીબહેન-સરોજબહેનને વાંદરા આડા ઊતરતાં શું થયું, અને જાનકીબહેને ભગવાનને શી પ્રાર્થના કરી તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": ["M2.S2.T3.C4", "M2.S2.T3.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પ્રશાંતે રાહુલને બીકણ કેમ ગણ્યો, અને ચાલુ વાહને ફોન પર વાત કરવાના પોતાના જ વર્તનનો અકસ્માત પછી એને કેવો ખ્યાલ આવ્યો તે તારવીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": ["M2.S2.T4.C6", "M2.S2.T4.C7"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પપ્પા ગાડીનાં બધાં ડોક્યુમેન્ટ્સ કેમ ચેક કરાવે છે અને ટ્રાફિકના નિયમો ન પાળનારને દેશભક્ત કેમ ન ગણે, એ સાંભળીને વિનયના મનમાં કયો ફેરફાર થાય છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": ["M2.S3.T5.C8", "M2.S3.T5.C9"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દસ મિનિટ બચાવવા હેત્વી રોજ રોંગ સાઈડે મોપેડ કેમ લઈ જતી, અને દાદાની વાત સાંભળ્યા પછી એણે શી પ્રતિજ્ઞા લીધી તે કહીને એ યોગ્ય છે કે નહિ તે જણાવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": ["M2.S3.T6.C10", "M2.S3.T6.C11"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દાસકાકાના મતે સાચો દેશપ્રેમ શેમાં છે, અને પાંચ ઘટનાઓ સાંભળ્યા પછી ટ્રાફિકના નિયમો પાળવા એ દેશભક્તિ કેમ ગણાય એ પોતાના શબ્દોમાં સમજાવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S4.T7",
+      "anchor": ["M3.S4.T7.C12", "M3.S4.T7.C13"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7"
+  },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "ફ્રેમ-કથનનો આરંભ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "અતિથિનું આગમન અને ડાયરીમાંથી વાચનનો આરંભ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "અતિથિની ડાયરીમાંથી વાચનનો આરંભ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: ફ્રેમ-કથનનો આરંભ — સોસાયટીની રાત્રિબેઠક અને અજાણ્યા અતિથિનો પ્રવેશ]]"],
+              "source_lines_00_normalized": "39",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "ઘટનાઓ સંભળાવવા તૈયાર થયેલા અજાણ્યા અતિથિ",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "ટ્રાફિક-નિયમ ભંગનાં પરિણામ",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "અકસ્માતોમાં છતી થયેલી બેદરકારી",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T2",
+              "topic_name": "લાલ લાઈટ કૂદાવીને થયેલો અકસ્માત અને લાઇસન્સનો સવાલ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "markers": ["દૃશ્ય એક :"],
+              "source_lines_00_normalized": "43-44",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T2.C2",
+                  "concept_name": "લાલ લાઈટ કૂદાવીને દ્વિચક્રી વાહનનું કારને અથડાવું",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S2.T2.C3",
+                  "concept_name": "હેલ્મેટ છતાં ભાંગેલો પગ અને લાઇસન્સ વગરની લાચારી",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "વધારે સવારીથી લદાયેલા સ્કૂટરની દુર્ઘટના",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "markers": ["દૃશ્ય બીજું :"],
+              "source_lines_00_normalized": "46-59",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C4",
+                  "concept_name": "શરમના માર્યે ના ન પાડી શકતા સુરેશભાઈની વધારાની સવારી",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S2.T3.C5",
+                  "concept_name": "વાંદરા આડા ઊતરતાં થયેલું પડવું અને સરોજબહેન માટેની પ્રાર્થના",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "ફોન પર વાત કરતાં પ્રશાંતને મળેલો બોધપાઠ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "markers": ["દૃશ્ય ત્રીજું :"],
+              "source_lines_00_normalized": "61-84",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C6",
+                  "concept_name": "ચાલુ બાઈકે ફોન પર વાત ન કરવા બદલ રાહુલને બીકણ ગણતો પ્રશાંત",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S2.T4.C7",
+                  "concept_name": "એ જ ભૂલથી થયેલો અકસ્માત જોઈને પ્રશાંતની માફી અને પ્રતિજ્ઞા",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "સમજણે આપેલો વળાંક",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "પપ્પાની ચોકસાઈ અને વિનયને સમજાયેલી વાત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "markers": ["દૃશ્ય ચોથું :"],
+              "source_lines_00_normalized": "88-111",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C8",
+                  "concept_name": "ગાડીનાં બધાં ડોક્યુમેન્ટ્સ ચેક કરાવવાની પપ્પાની જીદ",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T5.C9",
+                  "concept_name": "બીકણ નહિ, સાચો નાગરિક — પપ્પાની વાત વિનયને સમજાય છે",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "રોંગ સાઈડનો રસ્તો અને હેત્વીની પ્રતિજ્ઞા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "markers": ["દૃશ્ય પાંચ :"],
+              "source_lines_00_normalized": "113-128",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C10",
+                  "concept_name": "સમય બચાવવા રોજ રોંગ સાઈડે જતી હેત્વી",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T6.C11",
+                  "concept_name": "દાદાની ટકોર પછી હેત્વીની કદી રોંગ સાઈડે ન જવાની પ્રતિજ્ઞા",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "ફ્રેમ-કથનનું સમાપન",
+      "segments": [
+        {
+          "segment_id": "M3.S4",
+          "segment_name": "અતિથિનું ચિંતન અને દેશભક્તિની વાત",
+          "topics": [
+            {
+              "topic_id": "M3.S4.T7",
+              "topic_name": "ચોપડી, સૂત્રો અને દેશના કાયદાના પાલનમાં દેશપ્રેમ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": ["M2.S2.T2", "M2.S2.T3", "M2.S2.T4", "M2.S3.T5", "M2.S3.T6"],
+              "objective_ids": ["O7"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: ફ્રેમ-કથનનું સમાપન — અતિથિનું ચિંતન, ચોપડી-ભેટ, સૂત્રો અને દાસકાકાની દેશભક્તિ-વાત]]"],
+              "source_lines_00_normalized": "131",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T7.C12",
+                  "concept_name": "સલામતી બાબતે આપણે કેમ સિરિયસ નથી થતા — અતિથિનું ચિંતન",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S4.T7.C13",
+                  "concept_name": "ચોપડી, સૂત્રો અને દેશના કાયદા-કાનૂનના પાલનમાં જ સાચો દેશપ્રેમ",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "not_cut_as_topics": [
+    "[[શીર્ષક-પટ્ટી]] ('14' + 'નિયમો કોના માટે ?') અને [[લેખક-સ્લોટ]] ('- સંકલિત') — છાપેલી header furniture, વાચન-દૃશ્ય નથી (explanation_unit_map.md, 'Header furniture is not text').",
+    "[[પ્રવેશપેટી]] — વાદળી, શિક્ષક-સંબોધિત પેટી. કોઈ સ્વરૂપ-શબ્દ છાપતી નથી, ફક્ત પદ્ધતિ ('પાંચ ઘટનાઓ રજૂ થઈ છે... જરૂરી સંવાદ કરાવી શકાશે') જણાવે છે. અપરાટસ — key_terms અને ભાષા-બોધને ખવડાવે છે, topic બનતી નથી.",
+    "[[શબ્દાર્થ-પેટી]] (છાપેલું પાનું 118) — ઉપસ્થિતિ, અતિથિ, લાચારી, બીકણ, મનસ્વી, મુખમુદ્રા, સ્પર્ધા, લાઈસન્સ, સિરિયસ. અપરાટસ — key_terms અને point-of-use ગ્લોસનું સ્રોત, topic નહીં.",
+    "'[[સ્વાધ્યાય: શબ્દસમૂહ માટે એક શબ્દ.]]' અને ક્રમાંકિત ગુલાબી શીર્ષક 1-5, 7-11 (કોઈ '6.' છપાયેલો નથી — પ્રિન્ટ-ડિફેક્ટ, 01_meta.json માં નોંધાયેલ) — બધા exercise_inventory માં જ રહે છે, Agent 10 નું કામ (global_content_rules.md નિયમ 7). કોઈને topic તરીકે કાપ્યો નથી.",
+    "સ્વાધ્યાય 5 ની અંદરનાં ત્રણ [[છબિ: ...]] (ચેતવણી-પાટિયાં) અને સ્વાધ્યાય 10 ની અંદરનું આખું [[જાહેરાત-પેટી ... /જાહેરાત-પેટી]] (માર્ગ સુરક્ષા સલાહકારની જાહેરાત) — બંને સ્વાધ્યાય-જડિત વાચન-સામગ્રી છે, આ પ્રકરણની ઘટના-શૃંખલામાં ક્યાંય ભળતાં નથી (explanation_unit_map.md નિયમ 4, 'Appended reading matter'; 'block that looks like reading matter and is an exercise'). Agent 10 નાં.",
+    "વાચન-લખાણમાંનાં બે [[ચિત્ર]] (છાપેલાં પાનાં 114 અને 116) — કૅપ્શન વગરનાં છાપેલાં ચિત્રો. topic નથી; Agent 9 માટે દૃશ્ય-પુરાવો છે. પહેલું T1 અને T2 વચ્ચે (પાનું 114ના તળિયે, દૃશ્ય એક ની ઉપર), બીજું T4 અને T5 વચ્ચે (પાનું 116ના તળિયે, દૃશ્ય ત્રીજું ની નીચે, દૃશ્ય ચોથું ની ઉપર) છપાયેલાં છે — એટલે કોઈ topic નું verbatim ચિત્રથી તૂટતું નથી.",
+    "[[ચર્ચા-વિચારણા]] — પ્રકરણ-અંતની વાદળી-પીળી પેટી ('દેશભક્ત કોને કહેવાય ?'). ન સ્વાધ્યાય, ન વાચન-દૃશ્ય; વર્ગ-ચર્ચાનો સંકેત. topic તરીકે કાપ્યું નથી, અને એનો સવાલ કોઈ explanation ના અંતે તૈયાર જવાબ તરીકે ન વપરાય."
+  ],
+
+  "notes": [
+    "GENRE ROUટિંગ — 01_meta.json નું genre_confidence 'low' છે અને આ ચૅપ્ટરને reference/genre_diagnosis.md 'unrouted' conflict (varta vs mahitiprad_gadya) તરીકે નામ આપે છે. Agent 1 એ છતાં active_genre_profiles: ['varta.md'] પસંદ કરીને લખ્યું છે — Agent 2 નું કામ Agent 1 ના routing નિર્ણયને ફરીથી ખોલવાનું નથી, એના પરથી કાપવાનું છે (agents/02_structure.md §1: 'Take the unit from 01_meta.json ... Not from habit'). એટલે આખો કાપ varta.md ના ઘટના-એકમથી કર્યો છે. જો QC આ routing ને mahitiprad_gadya તરફ ફેરવે, તો explanation_unit માહિતી-ખંડ બનશે અને આ ફાઇલના topic_type/lens ફરી તપાસવા પડશે — એ Agent 4/13 નું નિર્ણય-ક્ષેત્ર છે, અહીં નહીં.",
+    "માર્કર-ગણતરી — મહત્ત્વની ચોખવટ: 00_chapter_normalized.md માં ખરેખર માત્ર 2 bracket [[ઘટના: ...]] માર્કર છે (લીટી 38 ફ્રેમ-આરંભ, લીટી 130 ફ્રેમ-સમાપન). પાંચ 'દૃશ્ય' વિભાગોને પોતાનો કોઈ bracket marker નથી — એ ફક્ત છપાયેલા 'દૃશ્ય એક :' ... 'દૃશ્ય પાંચ :' મથાળાથી જ સીમાબદ્ધ છે (લીટી 43, 46, 61, 88, 113). આ 01_meta.json ના extraction_notes ના શબ્દો ('[[ઘટના: ...]] for the frame-open, each of the five printed દૃશ્ય, and the frame-close') સાથે શબ્દશઃ મેળ ખાતું નથી — એ વાક્ય 7 bracket marker સૂચવે એવું વંચાય, પણ ફાઇલમાં ખરેખર 2 જ છે. reference/explanation_unit_map.md પોતે જ આ બરાબર chapter ને ટાંકે છે: 'Printed labels hand you the cut for free: દૃશ્ય એક : … દૃશ્ય પાંચ : (std-8 ch 14, five ઘટના)' — એટલે છપાયેલું મથાળું પોતે જ માર્કરનું કામ કરે છે, bracket wrapper ની જરૂર નથી. મેં ફાઇલમાં ખરેખર જે છે (00_chapter_normalized.md, source of truth) એને અનુસર્યું છે અને પાંચેય દૃશ્ય-ટોપિકના 'markers' ફીલ્ડમાં એ જ છપાયેલું મથાળું ટાંક્યું છે (bracket વગર). Agent 4 માટે: આ 5 topic 'marker વગર બનાવેલા' નથી — એમનો marker bracket ને બદલે છપાયેલું body-લખાણ છે, જે explanation_unit_map.md ની જ સ્પષ્ટ સૂચના પ્રમાણે છે.",
+    "ફ્રેમ-ઓપનિંગ અને ફ્રેમ-ક્લોઝિંગ પોતાના સ્વતંત્ર topic બન્યાં, નજીકના દૃશ્ય સાથે જોડાયાં નથી — 01_meta.json નું explanation_unit ફીલ્ડ આ નિર્ણય Agent 2 પર છોડે છે, અને varta.md ના frame-story નિયમ ('the classroom frame and the embedded કથા are different ઘટના and different topics... topic_category marks the handover as transition') મુજબ સ્વતંત્ર રાખ્યાં છે. ફ્રેમ-આરંભ ટૂંકો, plain narration છે (topic_category 'introduction'); ફ્રેમ-સમાપન લાંબું, ચિંતનશીલ અને ચૅપ્ટરનો thesis-line ધરાવે છે (topic_category 'resolution' — આખા ચૅપ્ટરની guiding_question નો જવાબ અહીં જ છપાયેલો છે).",
+    "મોડ્યુલ-માળખું ચૅપ્ટરના પોતાના ફ્રેમ-બોડી-ફ્રેમ સ્તર પ્રમાણે 3 મોટી ગતિ છે: M1 ફ્રેમ ખોલે છે (અતિથિનું આગમન), M2 પાંચ ચેતવણી-દૃશ્યો ધરાવે છે, M3 ફ્રેમ બંધ કરે છે (ચિંતન + ભેટ + દેશભક્તિ-વાત). M2 ની અંદર બે segment: S2 ત્રણ દૃશ્ય જ્યાં પાનું ખરેખર એક અકસ્માત/ટક્કર બતાવે છે (દૃશ્ય એક, બીજું, ત્રીજું — ત્રણેયમાં વાહન-ટક્કર છપાયેલી છે), S3 બે દૃશ્ય જ્યાં કોઈ ટક્કર છપાયેલી નથી, ફક્ત સંવાદ અને પાત્રનો સ્વીકાર/પ્રતિજ્ઞા છે (દૃશ્ય ચોથું — વિનયનું સમજવું; દૃશ્ય પાંચ — હેત્વીની પ્રતિજ્ઞા). આ ભાગલો છપાયેલા લખાણ પરથી ચકાસી શકાય એવો છે (ટક્કર છપાયેલી છે કે નહીં), અર્થઘટન પરથી નહીં.",
+    "Topic-ગણતરી માર્કર-ગણતરી સાથે 1:1 છે: 7 ઘટના-એકમ (2 bracket + 5 છપાયેલ-મથાળું) = 7 topic. Segment અને topic ના ક્રમાંક આખા પ્રકરણમાં ચાલે છે અને ફરી શરૂ થતા નથી (M1.S1 → M2.S2 → M2.S3 → M3.S4; T1 → T7, S1 પછી સીધું S2 — S1 એકલો topic ધરાવે છે).",
+    "છ topic (T2-T7) બે-બે concept ધરાવે છે, T1 એક જ. કારણ: T1 (ફ્રેમ-આરંભ) એક જ નાનું, એક-કામનું ફકરો છે. T2-T6 દરેકમાં પાનું બે અલગ કામ કરે છે — સમસ્યા/પસંદગી અને એનું પરિણામ/વળાંક (દા.ત. T4: પ્રશાંતનું રાહુલને બીકણ ગણવું, પછી પોતાની જ ભૂલથી અકસ્માત જોઈને માફી). T7 (ફ્રેમ-સમાપન) બે અલગ ભાગ ધરાવે છે — અતિથિનું ચિંતન (કેમ આપણે સિરિયસ નથી), અને ભેટ+સૂત્રો+દાસકાકાની દેશભક્તિ-વાત. ક્યાંય ત્રીજા concept ની જરૂર પડી નથી.",
+    "Concept counter chapter-continuous છે: C1 (T1), C2-C3 (T2), C4-C5 (T3), C6-C7 (T4), C8-C9 (T5), C10-C11 (T6), C12-C13 (T7). T1 પછી concept-ક્રમાંક topic-ક્રમાંક સાથે મળતો બંધ થાય છે — એ contract છે, ખામી નથી (ch02 નું 02_structure.json, એ જ varta.md-routed sibling chapter, આ જ પેટર્ન વાપરે છે — જુઓ GAP-નોંધ નીચે).",
+    "topic_type બધા સાત માટે STORY_TELLING છે. ધોરણ 8 માં બાળક-સંબોધિત લેખક-પરિચય ફકરો છપાતો નથી, એટલે કોઈ CONCEPT topic નથી. T7 (ફ્રેમ-સમાપન) ચિંતનશીલ સ્વર ધરાવે છે પણ એ કથન ચાલુ જ રહે છે (અતિથિ પોતે બોલે છે, ભેટ આપે છે, દાસકાકા બોલે છે) — શુદ્ધ REVIEW/wrap નથી, STORY_TELLING જ રાખ્યું છે, topic_category 'resolution' એનું wrap-કામ પકડે છે.",
+    "difficulty ચૅપ્ટરની અંદર સાપેક્ષ છે, ધોરણ 8 ના L2 વાચકને પાના પર શું અટકાવે છે એના પરથી (કોઈ કૌશલ્ય-લેબલ પરથી નહીં — profiles/students/std-8.md અપાયું નહોતું, જુઓ GAP-નોંધ, પણ agents/02_structure.md નું પોતાનું કોષ્ટક જ 'craft — no topic is hard for a device it is not allowed to name' કહે છે). easy: T1 (ટૂંકું, સાદું), T5 (સંવાદ-આધારિત, સાદા શબ્દો), T6 (સંવાદ-આધારિત, અંગ્રેજી ઉછીના શબ્દો 'ડોન્ટ વરી', 'વ્હોટ', 'સ્યોર' L2 વાચક માટે ઓળખીતા). medium: T2 (દ્વિચક્રી, ડિવાઈડર, પીડાગ્રસ્ત, લાચારીથી), T3 (તળપદો ઉદ્ગાર 'ભલા'દમી!'), T4 (ફોન-સંવાદની ઝડપ, 'બીકણ', 'ચીકણા'). hard: T7 — સૌથી લાંબો, અતૂટ ફકરો, તત્સમ-ગાઢ શબ્દો (શહેરીકરણ, ઓવરબ્રિજ, અન્ડરબ્રિજ, દેશપ્રેમ, કાયદા-કાનૂન), કોઈ સંવાદ-વિરામ વગર.",
+    "depends_on માત્ર સાચી નિર્ભરતા નોંધે છે. પાંચેય દૃશ્ય (T2-T6) સ્વતંત્ર છે — અલગ-અલગ પાત્રો, અલગ ઘટના, એકબીજા પર કથાનાત્મક રીતે આધારિત નથી (ફક્ત અતિથિની ડાયરીમાં ક્રમમાં આવે છે). T7 (ફ્રેમ-સમાપન) પાંચેય પર આધારિત છે કારણ કે અતિથિ પોતે કહે છે 'આ પાંચ ઘટનાઓ વિશે તમે સાંભળ્યું' અને એનું ચિંતન એ પાંચેય ઘટના પરથી જ ઊભું થાય છે. T1 [] ધરાવે છે.",
+    "કૌશલ્ય-લેબલની ટોચમર્યાદા પળાઈ છે: આ ફાઇલના કોઈ objective, module, segment, topic કે concept ના નામમાં અલંકાર, છંદ, સમાસ કે સાહિત્યપ્રકારનું લેબલ નથી (દા.ત. 'દૃષ્ટાંતકથા-શ્રેણી' શબ્દ ફક્ત 01_meta.json ના genre-ફીલ્ડમાં જ છે, top-level 'genre' અહીં ટૂંકો slug 'varta' છે, કોઈ બાળક-સંબોધિત નામમાં નથી). કોઈ પણ નામમાં અંક-આંકડો નથી (global_content_rules.md નિયમ 4) — 'ત્રણ સવારી' અને 'દસ મિનિટ' જેવા ગણતરી-શબ્દો objective_text માં જ રાખ્યા છે (પાઠના પોતાના વાક્યો 'પણ ત્રણ સવારી ?' અને 'દસ મિનિટ બચી જાય છે' પરથી સીધા લીધેલા, ch02 ના 'ત્રણેય લોકને' જેવા દાખલા સાથે સુસંગત), પણ કોઈ topic/segment/module/concept નામમાં ઇરાદાપૂર્વક ટાળ્યા છે.",
+    "varta.md ના avoid-gate 3 (સહાનુભૂતિપૂર્વક ચિતરાયેલા પાત્રને ન વખોડવું) અંગે Agent 12/13 માટે ખાસ નોંધ: આ ચૅપ્ટરનું આખું એન્જિન જ પાત્રોની ભૂલ બતાવવાનું છે (guiding_question પોતે 'પાત્રોને શું ભોગવવું પડે છે' પૂછે છે) — પાનું પોતે જ છોકરાની લાચારી, પ્રશાંતની 'સોરી સર', હેત્વીની પ્રતિજ્ઞા દ્વારા ભૂલ તરફ ઈશારો કરે છે. આ std-7 ch12 ના આનંદીના પિતા (ગરીબી છતાં પ્રામાણિકતા, સહાનુભૂતિપાત્ર ગુણ) જેવો કેસ નથી — અહીં પાત્રોની બેદરકારી પોતે જ પાઠનો બોધપાઠ છે, એટલે ટીકા સાવ ટાળવી શક્ય નથી. છતાં ટોન પાનું જે રાખે છે એ જ (રોજિંદી, વાસ્તવિક ભૂલ — 'ગાંડો', 'મૂરખ', 'ગુનેગાર' જેવા ભારે લેબલ નહીં) જાળવવો; અકસ્માતોનાં પરિણામ (ભાંગેલો પગ, બેભાન સરોજબહેન, ફંગોળાયેલી યુવતી) વાસ્તવિક પણ સંયમિત રીતે ભણાવવાં, ડરાવવા માટે નહીં.",
+    "છપાયેલી ઉંમર-વિસંગતતા (01_meta.json માં નોંધાયેલ): T2 નું original_chunk (Agent 5) 'સત્તર વર્ષનો' જ ઉતારશે, જ્યારે સ્વાધ્યાય 2.4 (Agent 10 નું ક્ષેત્ર) એ જ છોકરાને 'સોળ વર્ષનો' કહે છે — બંને છપાયા મુજબ જ રહે છે, અહીં મેળવ્યાં નથી.",
+    "GAP — CONTEXT ROUTING: agents/02_structure.md ના inputs reference/naming_conventions.md, reference/phase2_contract.md અને profiles/students/std-8.md ટાંકે છે, પણ આ રનમાં 'Policy documents your spec requires' તરીકે ફક્ત no_hallucination_policy.md, global_content_rules.md, explanation_unit_map.md અને teaching_lens_map.md અપાયાં હતાં — આ ત્રણેય ફાઇલ મને અપાઈ નહોતી, અને મેં એમની સામગ્રી અનુમાનથી ધારી નથી. ID-પેટર્ન (M{m}, M{m}.S{s}.T{t}, C-કાઉન્ટર chapter-continuous) અને phase2 objective-shape agents/02_structure.md ના પોતાના પ્રોઝમાં જ ઉદાહરણ સાથે અપાયેલ છે, અને એની સામે ચકાસવા મેં output8/ch02/02_structure.json (એ જ varta.md-routed, પહેલેથી પૂરું થયેલું sibling chapter) ને empirical schema-સંદર્ભ તરીકે વાંચ્યું — એની સામગ્રી copy નથી કરી, ફક્ત field-shape (key names, nesting) સરખાવ્યો છે. profiles/students/std-8.md ન મળવાથી difficulty-નિર્ણય agents/02_structure.md ના પોતાના કોષ્ટક (§5) અને teaching_lens_map.md ના craft-naming gate પરથી જ કર્યો છે.",
+    "અહીં કોઈ teaching prose લખાઈ નથી — explanation અને real_life_example Agent 12 નાં છે, original_chunk Agent 5 નું છે અને આ ફાઇલમાં ખાલી રહે છે, key_terms અને content ખાલી shell તરીકે મુકાયાં છે."
+  ]
+}

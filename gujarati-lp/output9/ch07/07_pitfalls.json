@@ -1,0 +1,120 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `summary`, `detailed_summary`, any `concept_bullets`/`important_points` line, or `recall_questions[].answer` may turn the poet's biography into an exhortation of the shape 'આપણે … જોઈએ' (e.g. 'આપણે પણ પ્રૂફરીડર જેવી ચીવટ રાખવી જોઈએ') — the poet's work named in this topic's `original_chunk` ('નવજીવન'માં પ્રૂફરીડર, 'ધ્રુવાખ્યાન', 'પરિક્રમા', 'કુંતલ', 'સોનચંપો', 'અલ્લકદલ્લક', 'ઝરમરિયાં') is stated as biographical fact, never as advice.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` and `key_terms` may state only the facts printed in this topic's `original_chunk` — વડોદરા જિલ્લાનું મસ્તુપુરા, 'નવજીવન'માં પ્રૂફરીડર, 'ધ્રુવાખ્યાન', 'પરિક્રમા', 'કુંતલ', 'સોનચંપો', 'અલ્લકદલ્લક', 'ઝરમરિયાં'; a birth year, death year, award or literary-movement name (e.g. the 7-3-1916 / 28-2-1993 dates that surface only in `01_meta.json`'s `genre_signals`, never inside this topic's own `original_chunk`) is an invented કવિ-fact and fails.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "તત્સમ-ભારે શબ્દોમાં (પ્રૂફરીડર, આખ્યાનની ઢબમાં, ધ્યાનપાત્ર, ચિરસ્થાયી) અટકીને બાળક પાંચેય કૃતિઓ — ધ્રુવાખ્યાન, પરિક્રમા, કુંતલ, સોનચંપો, અલ્લકદલ્લક, ઝરમરિયાં — ને એક જ પ્રકારનું લખાણ ગણી લે છે, અને કવિ કયા પ્રકારની (આખ્યાન, કાવ્યસંગ્રહ, બાળગીત) કૃતિઓ લખતા હતા તે ગૂંચવાઈ જાય છે.",
+      "correction": "`explanation` ત્રણ પ્રકારને અલગ પાડીને નામ આપે — 'ધ્રુવાખ્યાન' આખ્યાનની ઢબની કૃતિ, 'પરિક્રમા'-'કુંતલ' કાવ્યસંગ્રહો, 'સોનચંપો'-'અલ્લકદલ્લક'-'ઝરમરિયાં' બાળગીતોના સંગ્રહો — બધાં નામ એક જ વાક્યમાં ભેગાં પીરસવાને બદલે."
+    },
+    {
+      "topic_id": "M1.S1.T2",
+      "avoid_checks": [
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `summary`, `detailed_summary`, any bullet, or `recall_questions[].answer` is an 'આપણે … જોઈએ' exhortation drawn from 'મોહમાયા ફગાવી', 'જૂઠી કીર્તિના મોહમાં પડ્યા વગર' or 'આળસ-નિરાશાને હટાવી' (e.g. 'આપણે મોહમાયા છોડવી જોઈએ') — none of those words are phrased as advice-to-the-reader in this topic's `original_chunk`; they describe what the ગીત expresses.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation` or `real_life_example` attaches a government, party, scheme, campaign or border to 'નવસર્જન' / 'ચિરસ્થાયી ... રચી જવાનો ઉત્સાહ' — this topic's `original_chunk` names only a personal/collective ઉત્સાહ, never a state programme.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "કૃતિ-પરિચયનું 'આ પૃથ્વી ઉપર કશુંક નવું, ચિરસ્થાયી રચી જવાનો ઉત્સાહ' વાક્ય વાંચીને બાળક માની લે છે કે આખા ગીતનો ભાવ આટલામાં જ પૂરો થઈ ગયો, અને પછીની કડીઓમાં આ ભાવ ખરેખર કયાં ચિત્રો (પ્રવાસી, વાટ, વગડો, રંગીન ધરા) દ્વારા બંધાય છે એ જોવાનું જ ટાળી દે છે.",
+      "correction": "`explanation` નો છેલ્લો ભાગ બાળકને આગળ જોવા મોકલે — 'હવે કડીઓમાં જુઓ, આ પ્રવાસી કોણ છે અને શું છોડે-શું બાંધે છે' પ્રકારના વાક્યથી — ભાવને ફરી પુનરાવર્તન કરવાને બદલે."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "First sentence of `explanation` must name something in this કડી that can be seen or felt, using a word from its `original_chunk` — વાટ, પ્રવાસી, ઉર, આશા, ઉલ્લાસ — not open by restating the earlier કૃતિ-પરિચયનો ભાવ ('નવસર્જનનો ઉત્સાહ') before the picture is shown.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "This topic carries either a non-empty `figures_of_speech[]` naming the વર્ણાનુપ્રાસ in 'વાટે વિહરતા' and 'પ્રગતિના પંથના પ્રવાસી' (the device this chapter's own ભાષા-અભિવ્યક્તિ block names for this કડી) or an `explanation` sentence naming it; every `figures_of_speech[].lines` string must then appear character-for-character inside this topic's `original_chunk` — `[]` with no craft sentence, or a device not quoted from this કડી (ઉપમા, રૂપક…), both fail.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation` treats 'વાટ' (in 'નવસર્જનની વાટે વિહરતા') as a misspelling or an error — it is glossed at point of use as the તળપદો શબ્દ for 'રસ્તો', per this chapter's own શબ્દ-સમજૂતી entry 'વાટ — રસ્તો', never silently replaced or corrected.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`/`real_life_example`/`recall_questions[].answer` turns 'અમે નૂતન યુગના પ્રવાસી' or 'ઉર આશા ઉલ્લાસ ભરી ભમતા' into an 'આપણે … જોઈએ' call to the child (e.g. 'આપણે પણ પ્રવાસી બનવું જોઈએ') — the line is the પ્રવાસીનું પોતાનું self-description, not an instruction.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "કૃતિ-પરિચયમાં પહેલેથી કહેલો ભાવ ('નવસર્જનનો ઉત્સાહ') યાદ કરીને બાળક આ કડીના પોતાના શબ્દો — વાટ, પ્રવાસી, ઉર, આશા, ઉલ્લાસ — જોયા વગર જ સીધો એ જ ભાવ ફરી બોલી નાખે છે.",
+      "correction": "`explanation` પહેલા વાક્યમાં કડીનું ચિત્ર બતાવે — 'વાટે વિહરતો પ્રવાસી, જેના ઉરમાં આશા-ઉલ્લાસ ભરેલાં છે' — અને 'વાટ'ને તળપદો શબ્દ તરીકે ત્યાં જ ગ્લોસ કરે; ભાવનું નામ ('પ્રગતિ') ચિત્ર પછી જ મૂકે."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "First sentence of `explanation` must name something concrete in this કડી using a word from its `original_chunk` — નીંદ, આળસ, નિરાશા, વેરઝેર, વગડો, વાસી — not open by naming the resolve/ભાવ ('દ્વેષ છોડવાનો સંકલ્પ') before the picture.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "This topic carries either a non-empty `figures_of_speech[]` naming the વર્ણાનુપ્રાસ continuing from the first કડી in 'અમે વિચરતા વગડાના વાસી' (named in this chapter's own ભાષા-અભિવ્યક્તિ block) or an `explanation` sentence naming it; every `figures_of_speech[].lines` string must then appear character-for-character inside this topic's `original_chunk` — `[]` with no craft sentence, or an unquoted device, both fail.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`/`real_life_example`/`summary`/`recall_questions[].answer` turns 'નીંદ આળસ નિરાશા હટાવશું' or 'વેરઝેર અમે મિથ્યા મિટાવશું' into an external 'આપણે આળસ છોડવી જોઈએ' / 'વેર ન રાખવું જોઈએ' rule addressed at the child — these are the પ્રવાસીના પોતાના first-person resolve, quoted as 'હટાવશું'/'મિટાવશું', never restated as generic advice.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'નીંદ આળસ નિરાશા હટાવશું, વેરઝેર... મિટાવશું'ને પ્રવાસીના પોતાના સંકલ્પને બદલે 'આળસ-વેર છોડવાં જોઈએ' જેવા સીધા બોધવાક્યમાં ફેરવી નાખે છે, અને 'વગડાના વાસી' બનવાનું ચિત્ર ચૂકી જાય છે.",
+      "correction": "`explanation` 'હટાવશું'/'મિટાવશું'ને પ્રવાસીના પોતાના first-person વચન તરીકે જ રાખે (કોઈ 'જોઈએ' શબ્દ ઉમેર્યા વગર), અને 'વગડાના વાસી'ના ચિત્રને સ્પષ્ટ નામ આપે — ખુલ્લા મેદાનમાં મુક્તપણે ફરનાર, ઘરમાં બંધ નહિ."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "First sentence of `explanation` must name something concrete in this કડી using a word from its `original_chunk` — ફંદ, ભૂત, સ્વપ્ન, ધરા, રહેવાસી — not open by naming the resolve/ભાવ before the picture.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "This topic carries either a non-empty `figures_of_speech[]` naming the single adjective 'રંગીન' (this chapter's own ભાષા-અભિવ્યક્તિ block glosses it as standing for a many-coloured, flower-fruit-and-creature-filled earth) or the continuing વર્ણાનુપ્રાસ in 'અજબ આશાનાં સ્વપ્ન સજાવશું', or an `explanation` sentence naming one of these; every `figures_of_speech[].lines` string must then appear character-for-character inside this topic's `original_chunk` — `[]` with no craft sentence, or an unquoted device, both fail.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `summary` or `recall_questions[].answer` treats 'ભૂત' (in 'જૂઠી કીર્તિના ભૂતને ભગાડશું') as a literal ghost, or 'સ્વર્ગ' (in 'અમે પૃથ્વી પર સ્વર્ગને ઉતારશું') as a literal afterlife-place being brought down — this topic's own `key_terms` already gloss 'ભૂત' as 'ખોટી કીર્તિની ઘેલછા', and 'સ્વર્ગ' stands for a bettered, રંગીન ધરતી here, not a theological claim.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`/`real_life_example`/`recall_questions[].answer` turns 'અમે પૃથ્વી પર સ્વર્ગને ઉતારશું' into an 'આપણે પણ પૃથ્વી પર સ્વર્ગ સર્જવું જોઈએ' instruction to the child — the line is the પ્રવાસીઓનું પોતાનું first-person વચન ('ઉતારશું'), not an exhortation.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'ભૂત'ને ખરેખરું ભૂત અને 'સ્વર્ગ'ને મર્યા પછી મળતી જગ્યા સમજી લે છે, એટલે આખી કડી ભૂત-પ્રેત અથવા મરણોત્તર જીવનની વાત જેવી લાગવા માંડે છે.",
+      "correction": "`explanation` બંને શબ્દોને આ કડીના પોતાના `key_terms` પ્રમાણે જ ગ્લોસ કરે — 'ભૂત — અહીં ખરેખરું ભૂત નહિ, ખોટી કીર્તિની ઘેલછા' અને 'સ્વર્ગ — અહીં જ, આ ધરતી પર બનતું સુંદર, રંગીન જીવન' — બંનેને એક જ વાક્યમાં લાક્ષણિક (figurative) અર્થ તરીકે સ્પષ્ટ કરે."
+    }
+  ],
+  "chapter_level": [
+    "આખા ગીતમાં ટેક 'અમે નૂતન યુગના પ્રવાસી.' ત્રણેય કડીમાં અક્ષરશ: સરખું આવે છે (ત્રીજી અને છેલ્લી વાર M2.S3.T5માં) — urmikavya_geet.md ના identical-ટેક નિયમ પ્રમાણે M2.S2.T3માં જ પૂરેપૂરું શીખવાય; M2.S2.T4 અને M2.S3.T5 તેને `depends_on` થી જ સંદર્ભે, ફરી નવેસરથી ન શીખવે.",
+    "'નવસર્જન'/'નૂતન યુગ'/'પ્રગતિ' જેવા સામૂહિક-ઉત્સાહી શબ્દો કૂચગીત-નજીકના આ ગીતમાં Political-framing ગેટને સૌથી વધુ લલચાવે છે — પાંચેય ટોપિકના `explanation`/`real_life_example`માંથી કોઈ પણ સરકાર, પક્ષ, યોજના, અભિયાન, સેના કે સીમાનું નામ ન લે; ધરતી, કામ અને લોકોની જ વાત રહે.",
+    "કવિ આધુનિક છે, નામ-જન્મ-અવસાનની તારીખો સાથે મુદ્રિત (કોઈ છાપ નથી) — 'Never modernise the poet' ગેટ અહીં ફક્ત 'વાટ' (M2.S2.T3, ચેપ્ટરની એકમાત્ર છાપેલી તળપદા-શબ્દોની એન્ટ્રી) પૂરતું જ ખરેખર લાગુ પડે છે; બાકીની ભાષા આધુનિક છે, તળપદી નથી.",
+    "ચિરસ્થાયી, નેમ, મોહમાયા, ફંદ, વગડો, રંગીન, ધરા, રહેવાસી જેવા તત્સમ/અમૂર્ત શબ્દોની ઘનતા આખા ગીતમાં ફેલાયેલી છે — std 9ના L2 વાચક માટે glossing bar (Dial 2) દરેક ટોપિકમાં નીચો જ રાખવો, ફક્ત છાપેલા શબ્દાર્થ બોક્સના શબ્દો પૂરતો સીમિત નહિ."
+  ]
+}

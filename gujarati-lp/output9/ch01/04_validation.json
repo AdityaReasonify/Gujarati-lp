@@ -1,0 +1,46 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "duha_chhappa profile's explanation unit is piece-wise: one printed છપ્પો = one topic. Both [[છપ્પો 1]] and [[છપ્પો 2]] markers in 00_chapter_normalized.md are each carried by exactly one topic (M2.S2.T3, M2.S2.T4) — count(markers)=2 equals count(topics carrying them)=2. No topic's plan merges the two pieces.",
+        "No દુહો, પદ or ટેક markers exist in this chapter (01_meta.json structure_inventory: duha=0, pad=0, tek_occurrences=0) — those sub-checks are not applicable.",
+        "Not a mixed chapter; single genre (છપ્પો) throughout, one unit rule applied to all reading-scene topics.",
+        "No objective or topic name violates the profile's avoid list: O2/O3 objective_text is text-grounded (names પથ્થરપૂજા, ઘુવડ/સૂર્ય, હીરો/પથ્થર, વક્રોક્તિ — all printed in the chapter's own verse or ભાષા-અભિવ્યક્તિ) and carries no જોઈએ/સૌએ/હંમેશાં moralising language. original_chunk is still empty at this stage (Agent 5's job), so the avoid list's explanation-level checks (દૃષ્ટાંત-before-શિખામણ, single moral sentence) are out of scope for Agent 4 and correctly deferred to Agent 13."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 4,
+      "topics": 4,
+      "notes": [
+        "All markers in 00_chapter_normalized.md accounted for: [[કવિ-પરિચય]]->M1.S1.T1, [[કૃતિ-પરિચય]]->M1.S1.T2, [[છપ્પો 1]]->M2.S2.T3, [[છપ્પો 2]]->M2.S2.T4, all in printed order.",
+        "Pre-reading opener (કવિ-પરિચય) is topic 1, as required. No in-text wrap exists in this short chapter (none to omit).",
+        "No સ્વાધ્યાય block became a topic: cross-checked all 4 exercise_inventory verbatim_heading entries (MCQ, બે-ત્રણ વાક્યોમાં, છ-સાત વાક્યમાં, વિદ્યાર્થી-પ્રવૃત્તિ) against every topic_name in 02_structure.json — zero overlap.",
+        "શબ્દ-સમજૂતી, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા markers also correctly excluded from the topic tree (apparatus, not reading scenes) per explanation_unit_map.md.",
+        "No topic covers text that no marker claims — each of the 4 topics maps 1:1 to its own marker block."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 3,
+      "notes": [
+        "Root objectives[] has 3 entries (O1, O2, O3), all objective_id values unique.",
+        "Every home_topic_id (M1.S1.T1, M2.S2.T3, M2.S2.T4) and every anchor[] concept id (M1.S1.T1.C1, M1.S1.T2.C2, M2.S2.T3.C3, M2.S2.T4.C4) resolves to a node in the tree — verified programmatically.",
+        "strand_to_objective_map covers L1->O1, L2->O2, L3->O3, exactly matching the three objectives' legacy_id values, one each.",
+        "Every topic carries objective_ids resolving to the registry: T1/T2->O1, T3->O2, T4->O3.",
+        "Each objective is text-grounded and chapter-specific: O1 names અખો and 'છપ્પા' plus the printed કૃતિ-પરિચય's own framing; O2 names પથ્થરપૂજા/દેખાડાનું ધર્માચરણ (piece 1's specific imagery); O3 names ઘુવડ/સૂર્ય and હીરો/પથ્થર plus વક્રોક્તિ, the exact craft term the chapter's own ભાષા-અભિવ્યક્તિ applies to 'મોટા'. None could be pasted into another chapter. All three serve teaching_lens ('અનુભવની શિખામણ + દૃષ્ટાંત, અહીં કટાક્ષ-પ્રધાન') — O2 and O3 explicitly invoke કટાક્ષ.",
+        "Id grammar verified against naming_conventions.md: M1/M2 modules, M1.S1/M2.S2 segments (s continuous, never restarts), M1.S1.T1..M2.S2.T4 topics (t continuous 1-4 across the whole chapter), concept ids C1-C4 chapter-continuous and equal to their topic's t-number (T1.C1, T2.C2, T3.C3, T4.C4) as the one-concept-per-topic rule requires. No M1.S1.T1.P1-style objective code anywhere — objectives live only as root O{n}."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "This is a 2-piece micro-chapter (2 છપ્પા, no દુહો/પદ/ટેક) — the smallest shape this profile covers. Coverage and સ્વરૂપ checks scaled correctly to 4 topics total (2 pre-reading CONCEPT + 2 POEM).",
+    "કવિ-પરિચય and કૃતિ-પરિચય were kept as two separate CONCEPT topics rather than folded into one, because the rendered page carries them as two separate markers, unlike std-10's single unlabelled paragraph. This follows explanation_unit_map.md's rule that student-facing પરિચય prose is a CONCEPT topic and Agent 2's 'one marker, one topic' — not a fidelity issue, recorded as a note in 02_structure.json and reconfirmed here.",
+    "original_chunk is empty on every topic at this stage per the Agent 2 contract (Agent 5 fills it) — verbatim-text checks (છાપ retention, તળપદા preservation, attribution placement) could not run at Agent 4 and are correctly deferred to Agent 5/13 gates.",
+    "No PNG render was consulted — 00_chapter_normalized.md and 01_meta.json's extraction_notes answered every question this check needed (marker positions, exercise headings, structure_inventory counts)."
+  ]
+}

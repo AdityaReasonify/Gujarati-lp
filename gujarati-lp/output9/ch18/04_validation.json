@@ -1,0 +1,46 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "explanation_unit is 'એક કડી' (urmikavya_geet.md). [[કડી …]] markers = 2 (કડી 1, કડી 2); topics carrying a કડી marker = 2 (M2.S2.T3, M2.S2.T4). Equal — check holds.",
+        "0 દુહા, 0 પદ in this chapter (structure_inventory kadi:2, duha:0, pad:0) — the 'no two દુહા share a topic' and 'no પદ split' rules are not applicable.",
+        "Not a mixed chapter (genre urmikavya_geet throughout, high confidence, no disagreement recorded between Agent 1 and the corpus prior) — the mixed-chapter rule is not applicable.",
+        "ટેક handling (the profile's structural gate, checked here): exactly one [[ટેક]] marker is printed in 00_chapter_normalized.md and its wording is identical at all 3 occurrences (verified in 01_meta.json genre_signals — 'શબ્દો બદલાયા વિના'). Per urmikavya_geet.md's hard gate for an identical ટેક, exactly one topic must carry it and every later કડી topic must list that topic in depends_on. M2.S2.T3 carries [[ટેક]]+[[કડી 1]] (the only topic carrying the ટેક marker); M2.S2.T4 lists M2.S2.T3 in depends_on. Gate holds.",
+        "Avoid-list scan (urmikavya_geet.md): no slogan-shaped sentence ('… જોઈએ') in any objective_text; no invented craft — the two named devices (રૂપક for 'ગયો ગોખથી દીવો' / 'ઘરનું અજવાળું' / 'ઘરની આ મિરાત'; અંત્યાનુપ્રાસ) are quoted from lines the page itself names via MCQ item 2 and the ભાષા-અભિવ્યક્તિ block, not invented; no છંદ or માત્રા claim anywhere; no political or scientific-mechanism framing. Clean."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 5,
+      "topics": 4,
+      "notes": [
+        "5 reading-scene markers in 00_chapter_normalized.md — [[કવિ-પરિચય]], [[કૃતિ-પરિચય]], [[ટેક]], [[કડી 1]], [[કડી 2]] — became 4 topics in the printed order: M1.S1.T1 (કવિ-પરિચય), M1.S1.T2 (કૃતિ-પરિચય), M2.S2.T3 (ટેક+કડી 1), M2.S2.T4 (કડી 2). The ટેક and કડી 1 are one topic per the ટેક gate above, accounting for 5 markers over 4 topics.",
+        "Pre-reading opener (કવિ-પરિચય/કૃતિ-પરિચય) is topics T1+T2. No in-text wrap is printed in this chapter (the poem ends on કડી 2 with no separate summary/wrap marker) — not applicable, nothing omitted.",
+        "All 4 exercise_inventory entries in 01_meta.json (MCQ, બે-ત્રણ વાક્યમાં ઉત્તર, સવિસ્તાર ઉત્તર, વિદ્યાર્થી-પ્રવૃત્તિ) cross-checked against every topic_name in 02_structure.json — none of the four match or overlap a topic. Zero સ્વાધ્યાય topics.",
+        "શબ્દ-સમજૂતી, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are also correctly held out of the topic tree as apparatus (per 02_structure.json's own notes), consistent with global_content_rules.md rule 7 and the profile's apparatus rule.",
+        "No topic claims text no marker covers: original_chunk is empty on every topic at this stage (Agent 5's job, not yet run), so there is no over-reach to check yet; the marker-to-topic mapping itself is exhaustive and non-overlapping."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 3,
+      "notes": [
+        "objective_id set {O1,O2,O3} is unique; strand_to_objective_map {L1:O1, L2:O2, L3:O3} covers every legacy_id exactly once.",
+        "Every home_topic_id (M1.S1.T1, M2.S2.T3, M2.S2.T4) and every anchor[] concept id (M1.S1.T1.C1, M1.S1.T2.C2, M2.S2.T3.C3, M2.S2.T4.C4) resolves to a real node in the tree.",
+        "Every topic carries objective_ids resolving to the registry: T1→O1, T2→O1, T3→O2, T4→O3.",
+        "Each objective is text-grounded and chapter-specific: O1 names 'અનિલ ચાવડા' and 'દીકરીની વિદાય'; O2 quotes 'ગયો ગોખથી દીવો' and 'ઘરનું અજવાળું' verbatim from કડી 1; O3 quotes 'ઘરની આ મિરાત' and 'આંખોનું પરવાળું' verbatim from કડી 2. None could be pasted into another chapter. All three serve the registered teaching_lens ચિત્ર + ભાવ + અલંકાર (O2/O3 explicitly target the રૂપક craft the page itself names).",
+        "Id grammar matches naming_conventions.md: M1,M2 / S1,S2 / T1..T4 / C1..C4 all chapter-continuous with no restart per module or segment; one concept per topic so C{n}=T{n} throughout (T1↔C1 … T4↔C4). No M1.S1.T1.P1-style objective code anywhere — only the O{n} root registry is used.",
+        "No Arabic-numeral display text found in any objective_text, topic_name, module_name, segment_name or concept_name; O3's 'બીજી કડીમાં' is the correctly spelled-out ordinal form global_content_rules.md rule 4 asks for."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "On pass, 02_structure.json copied verbatim to 04_converged.json — ids frozen from this point per loop_protocol.md.",
+    "Carried forward for Agent 5/13 (already flagged by Agent 2/1, not a blocking item here): કડી 2's own printed line reads 'ઘરની આ મિરાત' with no અનુસ્વાર, while the શબ્દ-સમજૂતી box and ભાષા-અભિવ્યક્તિ print 'મિરાંત' with અનુસ્વાર — Agent 5 must transcribe original_chunk exactly as the કડી itself prints it ('મિરાત'), never silently normalised to the gloss-box spelling.",
+    "The 12–30 word objective_text band (teaching_voice_gu.md, VERIFY-4 provisional) is met by all three objectives (O1 ~24 words, O2 and O3 similarly in-band) — recorded as an observation, not a Check-3 blocking criterion under this agent's spec."
+  ]
+}

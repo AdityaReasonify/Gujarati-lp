@@ -1,0 +1,56 @@
+{
+  "board": "gseb",
+  "grade": 10,
+  "subject": "Gujarati",
+  "level": "standard",
+  "version": 1,
+  "chapter_id": "gseb_eng_gujarati10_ch2",
+  "plan_id": "gseb_eng_gujarati10_ch2_v1",
+  "chapter_name": "શરણાઈના સૂર",
+  "unit_title": "શરણાઈના સૂર",
+  "unit_number": 2,
+  "topic_number": 2,
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા) ધોરણ 10",
+  "textbook_url": "../Textbooks-pdf/std-10/ch-02-sharnai-na-sur.pdf",
+  "textbook_pages": "4-11",
+  "chapter_master_id": null,
+  "subject_ref_id": null,
+  "genre": "વાર્તા",
+  "genre_signals": {
+    "structure": "ગદ્ય; ત્રીજા પુરુષમાં કથન, ઘટનાઓની સાંકળ (લગ્નની તૈયારીથી માંડી કબ્રસ્તાનમાંની અંતિમ સુરાવટ સુધી), પાત્રો વચ્ચે ''...'' અવતરણચિહ્નમાં સંવાદ, વચ્ચે-વચ્ચે અવતરિત લગ્નગીત-વિદાયગીતની કડીઓ (કેન્દ્રિત મુદ્રણ). કૃતિ-પરિચય પોતે તેને 'વાર્તા' કહે છે: 'આ વાર્તામાં વર્ણન લગ્નપ્રસંગનું છે...' — ફ્રેમ (લગ્નપ્રસંગ) કાઢી નાખો તો આખી કૃતિ જ ન રહે, જે વાર્તા-સ્વરૂપની ચકાસણી પાર ઊતરે છે.",
+    "theme": "કરુણ રસ — પિતાની વેદના, પુત્રીવિયોગ, ગ્રામીણ સૌરાષ્ટ્રનું લગ્નજીવન અને શરણાઈવાદનની પરંપરા",
+    "exercises": "MCQ 'શરણાઈના સૂર કૃતિમાં કોના વાત્સલ્યભાવની વાત કરવામાં આવી છે?' અને પ્રશ્ન 4 'પિતાની વેદનાનું વર્ણન કરો' / 'રમઝુ મીરનું શબ્દ-ચિત્ર આલેખો' પાત્ર અને ભાવ-કેન્દ્રી છે, કોઈ પ્રક્રિયા કે તથ્ય-કેન્દ્રી પ્રશ્ન નથી — વાર્તા-સ્વરૂપને સમર્થન આપે છે",
+    "purpose": "લગ્નપ્રસંગના વર્ણનની આડમાં એક પિતાની મૂક વેદનાને શરણાઈના સૂર દ્વારા વ્યક્ત કરવી; કૃતિ-પરિચય: 'મૃત પત્નીની કબર પાસે રમઝુ મીરની શરણાઈની એ છેલ્લી સુરાવટ હતી, ત્યાં અંત પામતી વાર્તા કરુણ રસની વાર્તા બની રહે છે.'"
+  },
+  "genre_confidence": "high",
+  "active_genre_profiles": ["varta.md"],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "ગવરીની જાનમાં વાગતી રમઝુ મીરની શરણાઈનો સૂર કઈ ઘડીએ બદલાઈ જાય છે, અને એ બદલાવ આપણને રમઝુ વિશે શું કહી જાય છે ?",
+  "explanation_unit": "એક ઘટના",
+  "structure_inventory": {
+    "ghatna": 7,
+    "duha": 0,
+    "pad": 0,
+    "kadi": 0,
+    "tek_occurrences": 0
+  },
+  "exercise_inventory": [
+    {"group": "MCQ", "items": 2, "verbatim_heading": "નીચેના પ્રશ્નો સાથે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો."},
+    {"group": "એક-એક વાક્યમાં ઉત્તર", "items": 2, "verbatim_heading": "નીચેના પ્રશ્નોના એક-એક વાક્યમાં ઉત્તર લખો."},
+    {"group": "બે-ત્રણ વાક્યમાં ઉત્તર", "items": 2, "verbatim_heading": "નીચેના પ્રશ્નોના બે-ત્રણ વાક્યમાં ઉત્તર લખો."},
+    {"group": "સવિસ્તર ઉત્તર", "items": 2, "verbatim_heading": "નીચેના પ્રશ્નોના સવિસ્તર ઉત્તર લખો."}
+  ],
+  "extraction_notes": [
+    "Author's middle name transcribed at 300dpi to resolve a low-dpi ambiguity: 'ચુનીલાલ કાણિદાસ મડિયા' (father's name કાણિદાસ) — confirmed by direct pixel-level re-render, not carried from any manifest or memory.",
+    "લેખક-પરિચય (1 paragraph, before the story) and કૃતિ-પરિચય (1 paragraph, after) both precede the text, per the std-9/10 page layout described in the board profile; both kept in the normalized file above the [[ઘટના: લગ્નની તૈયારી]] marker.",
+    "કૃતિ-પરિચય paragraph itself names the સ્વરૂપ as 'વાર્તા' ('આ વાર્તામાં વર્ણન લગ્નપ્રસંગનું છે...') — quoted verbatim into genre_signals.structure/purpose above. This is the strongest signal on the page and it is confirmed, not contradicted, by structure/exercises/purpose.",
+    "The chapter embeds four short લગ્નગીત/વિદાયગીત excerpts inside the narration (''આ દશ આ દશ પીપળો...'', ''ખોલો ગવરીબાઈ ઘૂંઘટો...'', ''આછલાં કંકુ ઘોળ રે લાડી...'', ''દાદાને આંગણે આંબલો...'', plus the closing ''એક આવ્યો'તો પરદેશી પોપટો...''). These are NOT treated as a separate mixed-genre part: per genre_diagnosis.md and the master index, an embedded song quoted inside running prose where the outer form (વાર્તા) still decides the cut, the lens and the writing task stays inside the dominant genre's own topic — recorded here in genre_signals.structure, never cut as a separate topic or profile. This chapter is explicitly not listed among the corpus's measured 'mixed chapter' examples.",
+    "Structural inventory is cut by ઘટના (varta.md's HARD unit), not by printed paragraph or page: (1) લગ્નની તૈયારી, (2) રમઝુ મીરની શરણાઈની જાદુઈ અસર, (3) સ્મરણનો સણકો — સૂર બદલાય છે, (4) રમઝુ અને સકીનાની પાર્શ્વભૂમિ, (5) ગવરીની વિદાય, (6) તળશીભાઈની અકળામણ અને ભૂધર મેરાઈનો ઠપકો, (7) કબ્રસ્તાનમાં અંતિમ સુરાવટ. This is Agent 1's own cut for inventory purposes; Agent 2 owns the final topic cut and may refine boundaries.",
+    "'tek_occurrences' is 0 and 'kadi'/'pad'/'duha' are 0 because this is prose, not verse — the embedded song lines are quoted lyric fragments inside narration, not a printed ટેક/કડી/પદ/દુહો structure of the chapter itself; recorded as 0, not omitted, to make the empty verse-structure fields an honest measured fact.",
+    "શબ્દ-સમજૂતી box carries five sub-heads (સમાનાર્થી શબ્દ/શબ્દાર્થ, તળપદા શબ્દો, વિરુદ્ધાર્થી શબ્દો, રૂઢિપ્રયોગો, શબ્દસમૂહ માટે એક શબ્દ) — all transcribed into 00_chapter_normalized.md under [[શબ્દ-સમજૂતી: ...]] markers; these are apparatus (gloss box), never a topic and never counted in exercise_inventory, per global_content_rules and genre_diagnosis.md.",
+    "વિદ્યાર્થી પ્રવૃત્તિ (7 bullets), ભાષા-અભિવ્યક્તિ (3 bullets) and શિક્ષકની ભૂમિકા (3 bullets) blocks on the final page are teacher/apparatus material, never exercises and never topics — recorded verbatim in 00_chapter_normalized.md for downstream agents but NOT added to exercise_inventory, per reference/genre_diagnosis.md 'Not a genre' section and the board profile's apparatus rules.",
+    "This chapter is a large single continuous prose narrative with no printed sub-chapter numbering beyond the four સ્વાધ્યાય tiers — no numbering defects observed on the render, matching reference/corpus/std-10_inventory.md's own record for this chapter.",
+    "QR badge 'S6Q5W1' at top-left of page 1 recorded as furniture only; its 6-character code was never transcribed as content, per instructions.",
+    "Double-render cross-check performed at 220dpi (pages corresponding to printed pp.6 and 9) and 300dpi (printed p.4, author-name region) against the initial 100dpi transcription; all body text matched except the one author-name correction noted above. Temporary high-dpi renders were deleted after the check, per instructions."
+  ]
+}

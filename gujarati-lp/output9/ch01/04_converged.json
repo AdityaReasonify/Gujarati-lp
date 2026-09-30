@@ -1,0 +1,11 @@
+{
+  "converged": true,
+  "source": "02_structure.json",
+  "sha256": "13259c6ea03fd3abc7131184cd76701326b81d7ff988e50773da736efb492eb9",
+  "verdict": "pass",
+  "notes": [
+    "Ids frozen from this point: M1, M2 modules; M1.S1, M2.S2 segments; M1.S1.T1, M1.S1.T2, M2.S2.T3, M2.S2.T4 topics; M1.S1.T1.C1, M1.S1.T2.C2, M2.S2.T3.C3, M2.S2.T4.C4 concepts; O1, O2, O3 objectives.",
+    "Downstream agents read 02_structure.json directly for the structure payload; this file exists only to record the convergence verdict and the hash of the structure it validated.",
+    "See 04_validation.json for the full per-check record (genre_fidelity, coverage, objectives) — all three passed on the first run, no re-run of A1 or A2 was needed."
+  ]
+}

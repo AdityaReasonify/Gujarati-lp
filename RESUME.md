@@ -7,6 +7,20 @@ Run `./scratch/resume.sh` for a live snapshot before reading further.
 
 ---
 
+## 0. SCOPE — STOP AFTER STD-8
+
+**std-9 and std-10 are OUT OF SCOPE.** User directive, 2026-08-29: the pipeline finishes
+std-6, std-7, std-8 and then stops. Do **not** start std-9 or std-10, and do not "helpfully"
+continue into them when std-8 completes.
+
+Enforced in `scratch/auto-resume.sh` (`AUTO_STDS="6 7 8"`). When std-8 is done the loop logs
+*"std-6..8 COMPLETE — stopping as instructed"* and exits instead of rolling over. `resume.sh`
+still *reports* std-9/10 status; reporting is not permission to run them.
+
+Only an explicit new instruction from the user re-opens std-9/10.
+
+---
+
 ## 1. Resume in three steps
 
 ```bash

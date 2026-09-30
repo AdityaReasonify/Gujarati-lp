@@ -1,0 +1,383 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati8_ch13",
+  "plan_id": "gseb_eng_gujarati8_ch13_v1",
+  "grade": 8,
+  "chapter_name": "લીલી નજર",
+  "genre": "varta",
+  "active_genre_profiles": [
+    "varta.md"
+  ],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "એક ગરીબ વૃદ્ધ પોતાના મૃત દીકરાની યાદમાં વાવેલાં વૃક્ષો કઈ રીતે એની 'લીલી નજર' બનીને પશુ-પંખી અને વટેમાર્ગુ સૌનું ભલું કરે છે ?",
+  "explanation_unit": "એક ઘટના",
+  "cut_summary": {
+    "reading_markers_in_normalized": [
+      "[[ઘટના: વહેળાનાં પાણી ખૂટવાં]]",
+      "[[ઘટના: વૃદ્ધનું ડૉકટર પાસે પાણી માગવા આવવું]]",
+      "[[ઘટના: ડૉકટરનો સવાલ — આટલે દૂર ઝાડ કેમ વાવ્યાં]]",
+      "[[ઘટના: વૃદ્ધનું પોતાના દીકરાની સ્મૃતિમાં વૃક્ષો વાવવાનું કારણ કહેવું]]",
+      "[[ઘટના: ડૉકટરનું જવાબદારી સ્વીકારવી]]",
+      "[[ઘટના: વૃદ્ધનું બીજા વર્ષે ન દેખાવું અને વૃક્ષોનું જીવંત સ્મારક બનવું]]"
+    ],
+    "reading_markers_count": 6,
+    "topics": 6,
+    "segments": 3,
+    "modules": 3,
+    "concepts": 9,
+    "objectives": 6,
+    "non_topic_markers": [
+      "શીર્ષક-પટ્ટી ('13' + 'લીલી નજર') અને લેખક-સ્લોટ ('- મકરંદ દવે') — છાપેલી header furniture, વાચન-દૃશ્ય નથી. QR બૅજનો 6-અક્ષરી કોડ પણ furniture છે, transcribe કરાયો નથી (00_chapter_normalized.md લીટી 1-5).",
+      "[પ્રવેશપેટી — વાદળી બૉક્સ, શિક્ષક-સંબોધિત, apparatus] — 00_chapter_normalized.md માં જ સ્પષ્ટ 'apparatus' તરીકે નોંધાયેલ છે. આ સૌથી મજબૂત સ્વરૂપ-પુરાવો છે ('આ એક પ્રેરણાદાયી સંવેદનકથા છે') પણ શિક્ષક-સંબોધિત છે, બાળક-સંબોધિત નથી — તેથી CONCEPT topic બનતી નથી (std 10 ના unlabeled કૃતિ-પરિચયથી અલગ).",
+      "### શબ્દાર્થ [apparatus — ગ્લોસરી બૉક્સ] — 19 શબ્દોની ગ્લોસરી. key_terms અને point-of-use ગ્લોસનું સ્રોત, topic નહીં.",
+      "### શબ્દસમૂહ માટે એક શબ્દ. — pre-block, જવાબો છાપેલા જ છે (3 items: લૂ, કિલકાર, પાણોતિયો). Agent 1 ના exercise_inventory માં ગણાયેલ નથી, છતાં ભાષા-બોધનું સ્રોત છે — Agent 10/12 નું કામ.",
+      "### રૂઢિપ્રયોગ. — pre-block, જવાબો છાપેલા જ છે (5 items: મન ઠરવું, નિ:સાસો નાખવો, ભાંગી પડવું, હાંક મારવી, ઝળઝળિયાં આવી જવાં). Agent 1 ના exercise_inventory માં ગણાયેલ નથી; Agent 10/12 નું કામ.",
+      "[[સ્વાધ્યાય: …]] × 12 — 01_meta.json ના exercise_inventory ના 12 જૂથ સાથે 1:1 મેળ ખાય છે (વાતચીત, પ્રશ્નોત્તર, વક્તા-ઓળખ, ફકરા-સુધારણા, ઘટનાક્રમ, MCQ, જોડકાં, અહેવાલ-લેખન, પ્રશ્ન-રચના, વાક્ય-રચના, શબ્દ-બદલી, અનુવાદ). બધાં Agent 10 નું કામ, કોઈ topic તરીકે કાપ્યાં નથી (global_content_rules.md નિયમ 7).",
+      "### ચર્ચા-વિચારણા [apparatus — શિક્ષક-સંબોધિત] — 'વૃક્ષો બોલવા માંડશે તો શું કહેશે…' — વર્ગ-ચર્ચાનો સંકેત, topic નહીં, અને કોઈ explanation ના અંતે તૈયાર બોધ તરીકે ન વપરાય (varta.md avoid-gate 2)."
+    ],
+    "tek_occurrences": 0,
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વહેળાનાં પાણી ખૂટ્યાં ત્યારે વૃદ્ધ પાણી માટે ક્યાં અને શા માટે વાડી તરફ વળ્યા તે વાર્તાના આરંભ પરથી વિદ્યાર્થી કહી શકે.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વૃદ્ધ ડૉકટર પાસે પાણી માગતી વખતે 'પૂછ્યા વિના લઉં તો ચોરી કહેવાય' કેમ કહે છે તે શોધીને, એમના સ્વભાવ વિશે વિદ્યાર્થી કહી શકે.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": [
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ડૉકટરે વૃદ્ધને આટલે દૂર ઝાડ કેમ વાવ્યાં એવું કેમ પૂછ્યું, અને એ પ્રશ્નથી વાર્તામાં કયો કોયડો ઊભો થાય છે તે વિદ્યાર્થી સમજી શકે.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": [
+        "M2.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વૃદ્ધે પોતાના મૃત દીકરાની યાદમાં ઝાડ વાવ્યાં અને ગરીબ હોવા છતાં પશુ-પંખી માટે છાંયો-આહાર ઇચ્છ્યાં એ બંને કારણો વિદ્યાર્થી તારવી શકે.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": [
+        "M2.S2.T4.C4",
+        "M2.S2.T4.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વૃદ્ધની ગરિમા અને હિંમત જોઈને ડૉકટરે ઝાડવાંની જવાબદારી પોતાના માથે લીધી એ પસંદગી વાર્તાને કઈ રીતે વળાંક આપે છે તે વિદ્યાર્થી કહી શકે.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S3.T5",
+      "anchor": [
+        "M3.S3.T5.C6",
+        "M3.S3.T5.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "વૃદ્ધ બીજા વર્ષે ન દેખાયા છતાં એમનાં વાવેલાં વૃક્ષો પશુ-પંખી-વટેમાર્ગુ માટે કઈ રીતે એની 'લીલી નજર' બની રહ્યાં તે વિદ્યાર્થી કહી શકે.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S3.T6",
+      "anchor": [
+        "M3.S3.T6.C8",
+        "M3.S3.T6.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "સુકાયેલો વહેળો અને વૃદ્ધનું આગમન",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "પાણી ખૂટવું અને વૃદ્ધની નમ્ર વિનંતી",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "વહેળાનાં પાણી ખૂટવાં",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: વહેળાનાં પાણી ખૂટવાં]]"
+              ],
+              "source_lines_00_normalized": "16",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "વાડી પાસેના વહેળાનું સુકાવું અને વૃદ્ધનું પાણી પાવાનું અટકવું",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "વૃદ્ધનું ડૉકટર પાસે પાણી માગવા આવવું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: વૃદ્ધનું ડૉકટર પાસે પાણી માગવા આવવું]]"
+              ],
+              "source_lines_00_normalized": "22",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "પૂછ્યા વિના ન લેવાની નમ્રતા અને ઝાડવાંને પાવાનું કારણ",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "દૂરના ઝાડવાંનું રહસ્ય અને વૃદ્ધનો ખુલાસો",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ડૉકટરનો પ્રશ્ન અને દીકરાની સ્મૃતિનું રહસ્ય",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "ડૉકટરનો સવાલ — આટલે દૂર ઝાડ કેમ વાવ્યાં",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [
+                "M1.S1.T2"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: ડૉકટરનો સવાલ — આટલે દૂર ઝાડ કેમ વાવ્યાં]]"
+              ],
+              "source_lines_00_normalized": "35",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "ડૉકટરનો પ્રશ્ન અને રસ્તામાં ઝાડ ન હોવાથી અહીં જ મન ઠરવું",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "વૃદ્ધનું પોતાના દીકરાની સ્મૃતિમાં વૃક્ષો વાવવાનું કારણ કહેવું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S2.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: વૃદ્ધનું પોતાના દીકરાની સ્મૃતિમાં વૃક્ષો વાવવાનું કારણ કહેવું]]"
+              ],
+              "source_lines_00_normalized": "44",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C4",
+                  "concept_name": "દીકરાના મૃત્યુની સ્મૃતિમાં વૃક્ષ વાવ્યાનું કારણ",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S2.T4.C5",
+                  "concept_name": "ગરીબ છતાં પશુ-પંખી માટે છાંયો, માળા અને આહારની ઉદાર ભાવના",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "જવાબદારીનો સ્વીકાર અને જીવંત સ્મારક",
+      "segments": [
+        {
+          "segment_id": "M3.S3",
+          "segment_name": "ડૉકટરની જવાબદારી અને વૃદ્ધની લીલી નજર",
+          "topics": [
+            {
+              "topic_id": "M3.S3.T5",
+              "topic_name": "ડૉકટરનું જવાબદારી સ્વીકારવી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S2.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: ડૉકટરનું જવાબદારી સ્વીકારવી]]"
+              ],
+              "source_lines_00_normalized": "52",
+              "concepts": [
+                {
+                  "concept_id": "M3.S3.T5.C6",
+                  "concept_name": "નિ:સાસા છતાં ન ભાંગી પડતી, આશાભરી વૃદ્ધની નજર",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S3.T5.C7",
+                  "concept_name": "ડૉકટરના હાથ જોડાવા અને ઝાડવાંની જવાબદારી સ્વીકારવી",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S3.T6",
+              "topic_name": "વૃદ્ધનું બીજા વર્ષે ન દેખાવું અને વૃક્ષોનું જીવંત સ્મારક બનવું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": [
+                "M3.S3.T5"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "",
+              "markers": [
+                "[[ઘટના: વૃદ્ધનું બીજા વર્ષે ન દેખાવું અને વૃક્ષોનું જીવંત સ્મારક બનવું]]"
+              ],
+              "source_lines_00_normalized": "61",
+              "concepts": [
+                {
+                  "concept_id": "M3.S3.T6.C8",
+                  "concept_name": "વૃદ્ધનું ચોમાસા સુધી આવવું પણ બીજા વર્ષે ન દેખાવું",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M3.S3.T6.C9",
+                  "concept_name": "આથમતા સૂરજનાં કિરણોમાં વૃક્ષો દ્વારા જીવંત રહેતી વૃદ્ધની 'લીલી નજર'",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "not_cut_as_topics": [
+    "શીર્ષક-પટ્ટી ('13' + 'લીલી નજર') અને લેખક-સ્લોટ ('- મકરંદ દવે') — છાપેલી header furniture, વાચન-દૃશ્ય નથી (reference/explanation_unit_map.md, 'Header furniture is not text'). QR બૅજનો 6-અક્ષરી કોડ furniture છે, transcribe કરાયો નથી.",
+    "[પ્રવેશપેટી — વાદળી બૉક્સ] — 00_chapter_normalized.md માં Agent 1 એ પોતે 'શિક્ષક-સંબોધિત, apparatus' તરીકે નોંધ્યું છે. આ પાના પરનો સૌથી મજબૂત સ્વરૂપ-પુરાવો છે ('આ એક પ્રેરણાદાયી સંવેદનકથા છે') પણ શિક્ષકને સંબોધેલ છે, બાળકને નહીં — તેથી std 10 ના unlabeled કૃતિ-પરિચય જેવો CONCEPT topic બનતો નથી. એની કોઈ પંક્તિ કોઈ explanation ના અંતે તૈયાર બોધ તરીકે ન વપરાય (varta.md avoid-gate 2).",
+    "### શબ્દાર્થ [apparatus] — 19-શબ્દની ગ્લોસરી બૉક્સ. key_terms અને point-of-use ગ્લોસનું સ્રોત, topic નહીં.",
+    "### શબ્દસમૂહ માટે એક શબ્દ. અને ### રૂઢિપ્રયોગ. — શબ્દાર્થ પછીના બે ક્રમાંક વગરના pre-block, જવાબો છાપેલા જ છે (3 + 5 items). Agent 1 ના exercise_inventory માં ગણાયેલ નથી (extraction_notes મુજબ), છતાં Agent 10/12 નું ભાષા-બોધ-સામગ્રી-સ્રોત છે.",
+    "12 [[સ્વાધ્યાય: …]] બ્લૉક — 01_meta.json ના exercise_inventory ના 12 જૂથ (વાતચીત, પ્રશ્નોત્તર, વક્તા-ઓળખ, ફકરા-સુધારણા, ઘટનાક્રમ, MCQ, જોડકાં, અહેવાલ-લેખન, પ્રશ્ન-રચના, વાક્ય-રચના, શબ્દ-બદલી, અનુવાદ) સાથે 1:1 મેળ ખાય છે. બધાં Agent 10 નું કામ (global_content_rules.md નિયમ 7); ઘટનાક્રમ-બ્લૉકના 8 વાક્યો આ પ્રકરણના ઘટના-કાપ માટે પુરાવો છે, કાપ પોતે નહીં (varta.md, 'The event list … is evidence for the arc, never the cut').",
+    "### ચર્ચા-વિચારણા [apparatus — શિક્ષક-સંબોધિત] — 'વૃક્ષો બોલવા માંડશે તો શું કહેશે…' — વર્ગ-ચર્ચાનો સંકેત, પ્રકરણનું in-text wrap નથી, topic તરીકે કાપ્યું નથી."
+  ],
+  "notes": [
+    "CONTEXT ROUTING gap: આ agent ના spec (agents/02_structure.md) એ reference/naming_conventions.md, reference/phase2_contract.md અને profiles/students/std-8.md ને inputs તરીકે ટાંક્યાં છે, પણ આ run માં એ ત્રણ ફાઇલ 'Policy documents your spec requires' તરીકે અપાયેલ ન હતી. એ ફાઇલોની સામગ્રી અંગે અનુમાન કર્યું નથી (no_hallucination_policy.md નિયમ 1). એને બદલે: (a) agents/02_structure.md ના §2/§4 માં જ inline અપાયેલ id-શેપ (M{m}.S{s}.T{t}.C{c}) અને objectives[]/strand_to_objective_map ના JSON-શેપનો સીધો ઉપયોગ કર્યો, અને (b) આ જ std-8, વાર્તા-genre ના પહેલેથી-બનેલા output8/ch02/02_structure.json (ત્યાગવીર દધીચિ) સામે ફીલ્ડ-શેપ ક્રોસ-ચેક કરી schema-સુસંગતતા ચકાસી — એ policy-પ્રોઝનું અનુમાન નથી, પહેલેથી ઉત્પન્ન થયેલી, આ જ pipeline ની આઉટપુટ-આર્ટિફેક્ટ છે. profiles/students/std-8.md ના craft-label ceiling (§1) ને teaching_lens_map.md ('Std 6–8 — the form is experienced, never labelled') અને agents/02_structure.md §4 (std 6-8 નું ઉદાહરણ) પરથી જ લાગુ કર્યું છે — એ બંને મને અપાયેલાં હતાં.",
+    "એકમથી કાપ્યું છે, ટેવથી નહીં: 01_meta.json નું explanation_unit 'એક ઘટના' છે, structure_inventory.ghatna = 6, અને varta.md કહે છે 'One plot beat per topic … follow the story's turns, not paragraph counts.' 00_chapter_normalized.md માં બરાબર છ [[ઘટના: …]] માર્કર છપાયેલા વાચન-લખાણ પર છે (લીટી 16, 22, 35, 44, 52, 61), અને આ ફાઇલમાં છ topic છે, દરેક પોતાનો માર્કર ધરાવે છે — 1:1 મેળ, કોઈ વિસંગતિ નથી. કોઈ [[સંવાદ: …]] માર્કર નથી — વાણી ફકરાની અંદર ''…'' અવતરણમાં ચાલે છે, ડાબે-લખેલા વક્તા-લેબલ વગર. રેન્ડર થયેલું પાનું profile prior સાથે સંમત છે; agents/02_structure.md ના કોષ્ટક સાથે કોઈ મતભેદ નોંધવાનો નથી.",
+    "મોડ્યુલ વાર્તાની ત્રણ મોટી ગતિ છે: M1 સંકટ ઊભું કરે છે (વહેળો સુકાય છે, વૃદ્ધ ડૉકટર પાસે આવે છે); M2 કોયડો અને એનો ખુલાસો ધરાવે છે (કેમ આટલે દૂર ઝાડ વાવ્યાં, અને દીકરાની સ્મૃતિ); M3 વળાંક અને પરિણામ ધરાવે છે (ડૉકટરની જવાબદારી, વૃદ્ધની વિદાય અને જીવંત સ્મારક). Segment અને topic ના ક્રમાંક આખા પ્રકરણમાં ચાલે છે અને ફરી શરૂ થતા નથી (M1.S1 → M2.S2 → M3.S3; T1 → T6). દરેક module માં એક જ segment છે કારણ કે દરેક ગતિની અંદર બે ઘટના એક જ નાના પ્રવાહનો ભાગ છે — વધારાનું વિભાજન કૃત્રિમ બનત.",
+    "ત્રણ topic બે-બે concept ધરાવે છે, ત્રણ એક-એક. M2.S2.T4 ખરેખર બે અલગ કામ કરે છે — દીકરાના મૃત્યુની સ્મૃતિમાં વૃક્ષ વાવ્યાનું કારણ, અને ગરીબ છતાં પશુ-પંખી માટેની ઉદાર ભાવના (છાંયો-માળા-આહાર); બંને વૃદ્ધના એક જ સળંગ કથનમાં છે પણ બે અલગ દાવા કરે છે. M3.S3.T5 (વળાંક) બે અલગ કામ કરે છે — કથક પોતે વૃદ્ધની ગરિમા-આશા વર્ણવે છે, અને પછી ડૉકટરની ક્રિયા (હાથ જોડાવા, જવાબદારી સ્વીકારવી, સોમાને સૂચના). M3.S3.T6 (પરિણામ) બે અલગ કામ કરે છે — વૃદ્ધનું ધીમે ધીમે ન દેખાવું (કથાકીય હકીકત), અને આથમતા સૂરજમાં વૃક્ષો દ્વારા 'લીલી નજર' જીવંત રહેવી (કાવ્યાત્મક સમાપન, શીર્ષકનું ફળીભૂત થવું). ક્યાંય ત્રીજા concept ની જરૂર જણાઈ નથી. M1.S1.T1, M1.S1.T2 અને M2.S2.T3 એક-એક સળંગ દૃશ્ય છે, બે અલગ દાવા નથી કરતાં.",
+    "Concept counter reference માં અપાયેલા shape મુજબ આખા પ્રકરણમાં સળંગ છે: C1 (T1), C2 (T2), C3 (T3), C4+C5 (T4), C6+C7 (T5), C8+C9 (T6) — 9 concepts કુલ.",
+    "topic_type બધા છ માટે STORY_TELLING છે (explanation_unit_map.md: 'a narrative ઘટના'). ધોરણ 8 માં બાળક-સંબોધિત કૃતિ-પરિચય ફકરો છપાતો નથી (એ ધોરણ 10 ની ભાત છે) અને પ્રવેશપેટી શિક્ષક-સંબોધિત apparatus છે, એટલે કોઈ CONCEPT topic નથી; પ્રકરણમાં વચ્ચે કોઈ સમાપન કે મૂલ્ય-સારાંશ છપાયો નથી, એટલે REVIEW topic પણ નથી.",
+    "difficulty આ પ્રકરણની અંદર સાપેક્ષ છે, પાના પર std 8 ના L2 વાચકને શું અટકાવે છે એના પરથી નક્કી કરી છે (agents/02_structure.md §5 નું std 8 ધોરણ), ક્યાંય કૌશલ્ય-લેબલ પરથી નહીં. hard: M1.S1.T2 (સૌથી ગાઢ તળપદા-ફકરો — 'તમતમારે ભરી લ્યો ને', 'જોવે ને', 'ટોઉં', 'ભેણાં', 'પછે ફકર નહીં' — જેમાંથી 'ટોઉં' અને 'ભેણાં' શબ્દાર્થ બોક્સમાં ગ્લોસ થયેલા જ નથી, Agent 5/12 માટે ખાસ ફ્લેગ), M3.S3.T5 (કથકનું ઘનિષ્ઠ, નકારાત્મક-બંધારણવાળું સાહિત્યિક ગદ્ય — 'નથી ભાંગી પડ્યો કે નથી ભીખ માગતો', રૂપકાત્મક 'આંખોમાં ઘટાદાર વૃક્ષો વસ્યાં છે'), M3.S3.T6 (એક જ સંકુલ સમાપન-વાક્ય, 'સ્મશાનને કાંઠેથી' જેવો ગર્ભિત સંદર્ભ જે વાચકે પોતે તારવવો પડે). easy: M2.S2.T3 (ટૂંકો, સીધો પ્રશ્નોત્તર, ઓછા તળપદા શબ્દો). medium: M1.S1.T1 (નવો દૃશ્ય-શબ્દભંડોળ — વહેળો, ઠૂંઠાં — પણ ગ્લોસ થયેલ) અને M2.S2.T4 (લાગણીસભર પણ મોટે ભાગે સીધું કથન, 'કંધોતર' એકલો ગ્લોસ-શબ્દ).",
+    "depends_on માત્ર સાચી નિર્ભરતા નોંધે છે, અને આ પ્રકરણમાં Agent 1 ના પોતાના genre_signals.structure તીરમાં જ આખી સાંકળ છપાયેલી છે ('વહેળો સુકાવો → વૃદ્ધનું ડૉકટર પાસે પાણી માગવા આવવું → ડૉકટરનો સવાલ → વૃદ્ધનું … કારણ કહેવું → ડૉકટરનું જવાબદારી સ્વીકારવી (વળાંક) → વૃદ્ધનું બીજા વર્ષે ન દેખાવું'). T2 એ T1 પર આધારિત છે કારણ કે વહેળો સુકાયો એટલે જ વૃદ્ધ ડૉકટર પાસે આવ્યો; T3 એ T2 માં વૃદ્ધે ઝાડવાં માટે પાણી માગ્યું એ ખુલાસા પરથી જ ઊભો થતો સવાલ છે; T4 એ T3 ના 'શું કામ ?' પ્રશ્નનો સીધો જવાબ છે; T5 (વળાંક) એ T4 માં ખૂલેલા કારણ પરથી જ જન્મે છે (agents/02_structure.md §5: 'a વળાંક depends on the ઘટના that set it up'); T6 (પરિણામ) એ T5 માં ડૉકટરે જવાબદારી લીધા પછીનું પરિણામ છે.",
+    "કૌશલ્ય-લેબલની ટોચમર્યાદા પળાઈ છે: આ ફાઇલના કોઈ objective, module, segment, topic કે concept ના નામમાં અલંકાર, છંદ, સમાસ કે સાહિત્યપ્રકારનું લેબલ નથી (teaching_lens_map.md, 'Std 6–8 — the form is experienced, never labelled'). O5 ડૉકટરની પસંદગીનું મૂલ્યાંકન કરવાનું કહે છે, કોઈ સાહિત્યિક ઉપકરણને નામ આપવાનું નહીં.",
+    "કોઈ પણ નામમાં આંકડો નથી (global_content_rules.md નિયમ 4). ઘટનાઓને 'પહેલી ઘટના / બીજી ઘટના' જેવાં નામ આપવાને બદલે વિષયવસ્તુ પરથી નામ આપ્યાં છે, marker ના શબ્દોને જ અનુસરીને (એ પોતે Agent 1 ની ચકાસેલી transcription છે, રચેલી નથી).",
+    "Sensitivity note (Agents 8/12/13 માટે): આ ગરીબ, વૃદ્ધ, દીકરો ગુમાવેલા પિતાની વાર્તા છે. કોઈ field માં વૃદ્ધની ગરીબી કે એની ઉંમરને લઈને દયામણી કે ઉપકારક ભાષા ન વપરાય, અને 'એ ગુજરી ગયા હશે' એવો સ્પષ્ટ મૃત્યુ-નિષ્કર્ષ original_chunk માં નથી — T6 નું 'બીજા વર્ષે દેખાયા નહિ' જેમનું તેમ, ખુલ્લા-અંતવાળી હકીકત તરીકે જ ટીચ કરવું, નવેસરથી મૃત્યુ-ઘટના તરીકે ન કહેવું (varta.md avoid-gate 7, 'no field narrates an event absent from … original_chunk'). પ્રવેશપેટીની 'માનવતા'ની ભાષા કોઈ explanation ના અંતે તૈયાર બોધ તરીકે કૉપી ન થાય (avoid-gate 2) — વૃદ્ધની ઉદારતા ક્રિયા અને સંવાદ દ્વારા દેખાય છે, સીધા ઉપદેશ તરીકે નહીં.",
+    "Agent 5 માટે નોંધ: વાર્તાની અંદરની વાણી બેવડાં curly quotes ('' … '') માં છપાયેલી છે (00_chapter_normalized.md માં Agent 1 એ '' … '' તરીકે નોંધ્યું છે); સ્વાધ્યાય બ્લૉક 3 ના અવતરણ એકવડાં curly quotes (' … ') વાપરે છે — બંને જેમ છે તેમ, પોતપોતાની જગ્યાએ. તળપદા સ્વરૂપો ('ટોઉં', 'ભેણાં', 'પછે ફકર નહીં', 'બે ચાર ઘડા') વાર્તાના મુખ્ય ફકરામાં જ છે અને એ જ સ્વરૂપે original_chunk માં જવાં જોઈએ; સ્વાધ્યાયના પ્રમાણિત સ્વરૂપો ('બે-ચાર ઘડા', 'પછી ફકર નહિ') સાથે harmonise ન કરવાં (varta.md avoid-gate 6 નો સિદ્ધાંત, ભલે આ std-9-10 ની 'લોકકથા dialect' જેટલો ઔપચારિક ન હોય — Agent 1 ની extraction_notes આ તફાવત પહેલેથી નોંધે છે).",
+    "Agent 13 માટે નોંધાયેલી, પણ બ્લૉક ન કરતી અસમાનતા: M1.S1.T2 (વૃદ્ધનું આગમન + વિનંતી + ખુલાસો) આખા પ્રકરણનો સૌથી લાંબો ફકરો છે (00_chapter_normalized.md લીટી 24-33), જ્યારે M2.S2.T3 ટૂંકો પ્રશ્નોત્તર છે. લંબાઈ છાપેલા વાર્તા-પગલાંને અનુસરે છે; સરખાં કરવા માટે કોઈ પગલું ચીર્યું નથી કે ભેગું કર્યું નથી.",
+    "અહીં કોઈ teaching prose લખાઈ નથી — explanation અને real_life_example Agent 12 નાં છે, original_chunk Agent 5 નું છે અને આ ફાઇલમાં ખાલી રહે છે, key_terms અને content ખાલી shell તરીકે મુકાયાં છે."
+  ]
+}

@@ -1,0 +1,6 @@
+{"textbook":"ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9",
+ "textbook_url":"../Textbooks-pdf/std-9/ch-12-to-janu.pdf",
+ "textbook_pages":"66–68",
+ "source":"printed folio, read off renders of local pdf pp. 1 and 3 of the chapter PDF (folio 66 on p.1, folio 68 on p.3); cross-checked against manifest.json row (printed_start 66, pdf_start 70, pdf_end 72, matching std-9 offset N+4) and the std-9 chapter table in profiles/boards/gseb_gujarati.md",
+ "confidence":"medium",
+ "gaps":["textbook_url is a local path — the GSEB readers have no hosted URL","std-9 cover has not been read (per profiles/boards/gseb_gujarati.md); title carried from 01_meta.json and confirmed only against the running footer on the rendered pages, not the front cover"]}

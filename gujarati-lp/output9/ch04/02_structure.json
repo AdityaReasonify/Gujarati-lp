@@ -1,0 +1,438 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch4",
+  "genre": "નવલકથાખંડ (વાર્તા)",
+  "active_genre_profiles": [
+    "varta.md"
+  ],
+  "explanation_unit": "એક ઘટના (વાર્તાનું એક પગલું) — નવલકથાખંડ, એટલે માત્ર આ છપાયેલા અંશમાં જ પૂરી થતી ઘટના-શૃંખલા પર કાપ, નવલકથાના બાકીના ભાગ પર કંઈ છોડ્યા વિના.",
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "સિંહના આકસ્મિક મૃત્યુનો શોક ગીરનાં ગામો કઈ રીતે વ્યક્ત કરે છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ધ્રુવ ભટ્ટના જીવન-કવન વિશે તથા 'સિંહનું મૃત્યુ' અંશ 'અકૂપાર' નવલકથામાંથી લેવાયેલો નવલકથાખંડ છે એ હકીકત વિશે લેખક-પરિચય અને કૃતિ-પરિચયમાં અપાયેલી માહિતી પરથી કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1",
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કથક સાસણ પહોંચ્યા ત્યારે બજારમાં દેખાયેલી સૂનકારભરી સ્થિતિ અને એહમદને પુછાયેલા પ્રશ્ન પરથી વાર્તાનું રહસ્ય કેવી રીતે ઊભું થાય છે તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": [
+        "M2.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "એહમદ પોતાની ગીર બોલીમાં 'સ્હાવજે પડતું મેલ્યું' કહીને સિંહના મૃત્યુના સમાચાર જે સાહજિકતાથી આપે છે, તેમાંથી તળપદા શબ્દોના અર્થ તારવવા.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": [
+        "M2.S2.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ડ્રાઈવરે પુલ પર સિંહને નિરાંતે ચાલતો જોઈને મિત્રને ફોન કર્યો ત્યારે મિત્રનો અવિશ્વાસ કઈ પંક્તિ પરથી દેખાય છે તે શોધવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સામેથી આવતા વાહનને ચેતવવા ડ્રાઈવરે હેડલાઈટ ચાલુ-બંધ કરી છતાં તે વાહન પુલ સુધી કેમ પહોંચી ગયું, તેનું કારણ ઘટનાક્રમ પરથી તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": [
+        "M2.S3.T6.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "એહમદ અને કથક બંનેના અવલોકનમાંથી સિંહનો નિરાંતવો, બેફિકર સ્વભાવ કઈ રીતે છતો થાય છે તે તારવીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T7",
+      "anchor": [
+        "M2.S3.T7.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સિંહે અગાઉ અનેક વાડ-દીવાલો કૂદી હોવા છતાં આ ચાર ફૂટની દીવાલ કૂદવાનું પસંદ કેમ કર્યું, તે એહમદના વર્ણન પરથી સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T8",
+      "anchor": [
+        "M2.S4.T8.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રાત્રે બંને બાજુથી અંજાયેલી આંખોને કારણે સિંહની ગણતરી કેવી રીતે ખોટી પડી અને હીરણના પથરાળ પટ પર પડતાં તેનું મૃત્યુ કેમ થયું તે વળાંક તરીકે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T9",
+      "anchor": [
+        "M2.S4.T9.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રાત્રે નિષ્ફળ ગયેલા બચાવ-પ્રયત્નો અને જાગેલા ગામને એહમદ 'ઘડીક તો અડધી રાતે દિ ઉગાડી દીધો' એમ કઈ રીતે એક જ વાક્યમાં વર્ણવે છે તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S5.T10",
+      "anchor": [
+        "M2.S5.T10.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O10",
+      "legacy_id": "L10",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સિંહના અંતિમ સંસ્કાર નિમિત્તે સાસણ ઉપરાંત આજુબાજુનાં દસેક ગામ બંધ પાળીને શોક કઈ રીતે વ્યક્ત કરે છે તે પંક્તિ ટાંકીને કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S5.T11",
+      "anchor": [
+        "M2.S5.T11.C11"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9",
+    "L10": "O10"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "પ્રસ્તાવના",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "લેખક અને કૃતિનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "ધ્રુવ ભટ્ટનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "ધ્રુવ ભટ્ટનો પરિચય"
+                }
+              ],
+              "note": "Marker [[લેખક-પરિચય]] (00_chapter_normalized.md, પાનું 11). ધ્રુવ ભટ્ટનું વતન, શિક્ષણ, નવલકથાઓ ('સમુદ્રાન્તિકે', 'અગ્નિકન્યા', 'તત્ત્વમસિ', 'અતરાપિ', 'અકૂપાર', 'કર્ણલોક', 'તિમિરપંથી'), કાવ્યસંગ્રહો, કિશોરકથા-સંગ્રહ અને પુરસ્કારો — પ્રોસ પ્રિન્ટેડ ફોર ધ સ્ટુડન્ટ, CONCEPT ટોપિક explanation_unit_map.md ના std-10 કવિ/લેખક-પરિચય નિયમ પ્રમાણે, અહીં std-9 એ બે અલગ markers ([[લેખક-પરિચય]], [[કૃતિ-પરિચય]]) છાપ્યા હોવાથી લાગુ પડે છે — 02_structure.md ('એક marker, એક topic') મુજબ. 01_meta.json ના extraction_notes એ આ બ્લોકને 'અપરાટસ/શિક્ષક-સંબોધિત' તરીકે નોંધેલ છે, પણ std-9 ch1 (આ જ પાઇપલાઇન રનમાં) એ જ પ્રકારના બે-marker પેટર્ન માટે બંનેને CONCEPT topic તરીકે કાપેલ છે — એ જ પ્રિસિડન્ટ અહીં પણ અનુસર્યો છે, disagreement Agent 4/13 માટે નોંધેલ. Difficulty easy: ટૂંકાં, સીધાં, હકીકત-આધારિત વાક્યો; સંસ્થા-નામ (સાહિત્ય અકાદમી) સિવાય કોઈ ભારે શબ્દ નથી."
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "'અકૂપાર' નવલકથાખંડનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "'અકૂપાર' નવલકથાખંડનો પરિચય"
+                }
+              ],
+              "note": "Marker [[કૃતિ-પરિચય]] (પાનું 11). કૃતિ-પરિચય પોતે જ કહી દે છે કે આ અંશ 'અકૂપાર' નવલકથામાંથી લેવાયો છે, સિંહનું અકસ્માતે મૃત્યુ ગીરના લોકોને ગમગીન બનાવે છે અને દસેક ગામ બંધ પાળીને શોક પાળે છે — સ્વાધ્યાયના MCQ 4 (સાહિત્યપ્રકાર 'નવલકથાખંડ') ને આ ટોપિક જ તૈયાર કરે છે, MCQ પોતે exercise_solutions.json માં Agent 10 નું કામ છે. depends_on T1: લેખકનો પરિચય પહેલાં, કૃતિનો પરિચય પછી — વાસ્તવિક ક્રમ-આધારિત નિર્ભરતા (ch1 ના O1/T1-T2 પ્રિસિડન્ટ સાથે સુસંગત). Difficulty medium: લાંબાં વાક્યો અને તત્સમ શબ્દો (અંતિમ સંસ્કાર, આત્મીયતા, આલેખન, વિશિષ્ટ) T1 કરતાં સહેજ વધુ ભાર મૂકે છે."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "સિંહના મૃત્યુની વાત",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "કથકનું સાસણ-આગમન અને એહમદનો ખુલાસો",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "સાસણમાં સૂમસામ બજાર અને એહમદને પ્રશ્ન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "સાસણમાં સૂમસામ બજાર અને એહમદને પ્રશ્ન"
+                }
+              ],
+              "note": "Marker [[ઘટના: સાસણમાં સૂમસામ બજાર અને એહમદને પ્રશ્ન]]. કથકના વર્તમાન-કાળના ફ્રેમની શરૂઆત (narrative_frame per 01_meta.json) — સાસણ પહોંચતાં જ સૂમસામ બજાર જોઈને એહમદને પ્રશ્ન પૂછવો; આ જ ઘટના-શૃંખલાનું પરિચય-પગલું છે (varta.md નું 'પરિચય → ગૂંચ' ચક્ર). Difficulty easy: સાદાં વાક્યો, સાદો સંવાદ; ફક્ત 'ખેરિયત' (ઉર્દૂ-મૂળ શબ્દ, શબ્દાર્થ પેટીમાં નથી, explanation માં ગ્લોસ કરવો) ધ્યાન માંગે છે."
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "એહમદ સિંહના મૃત્યુના સમાચાર આપે છે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T4.C4",
+                  "concept_name": "એહમદ સિંહના મૃત્યુના સમાચાર આપે છે"
+                }
+              ],
+              "note": "Marker [[ઘટના: એહમદ સિંહના મૃત્યુના સમાચાર આપે છે]]. એહમદનો પહેલો ગીર/સોરઠી તળપદો સંવાદ ('પરમ દિ રાત્યે આંય પુલ માથેથી સ્હાવજે પડતું મેલ્યું...') — dialect_register per 01_meta.json. gujarati_verbatim.md અને varta.md ના hard gate 6 મુજબ તળપદા રૂપો (રાત્ય, આંય, મેલ્યું, સ્હોત, સે) જેમ છપાયાં તેમ જ રખાય, પ્રમાણભાષામાં ફેરવાય નહીં — ગ્લોસ 00_chapter_normalized.md ના શબ્દ-સમજૂતી ખાનામાં જ છે. Difficulty hard: ગીચ તળપદા શબ્દોનું ઝૂમખું, પ્રથમ મુલાકાત."
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "રાત્રે પુલ પર બનેલી ઘટના",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "ડ્રાઈવરે પુલ પર સિંહને ચાલતો જોયો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S2.T4"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "ડ્રાઈવરે પુલ પર સિંહને ચાલતો જોયો"
+                }
+              ],
+              "note": "Marker [[ઘટના: ડ્રાઈવરે પુલ પર સિંહને ચાલતો જોયો]]. 'કહીને એહમદે વાત માંડી' — આ પ્રી-ટોપિક હૂક આ જ ટોપિકના original_chunk ની શરૂઆતમાં જ રહે છે (explanation_unit_map.md નિયમ 2: પ્રી-ટોપિક હૂક NEXT ટોપિકનું છે). કથકના વર્તમાન-ફ્રેમમાંથી એહમદના મુખે કહેવાયેલા ભૂતકાળના પ્રસંગ તરફની સરકતી ક્ષણ — topic_category 'transition' varta.md ના ફ્રેમ-સ્ટોરી નિયમ મુજબ ('સેન્ટન્સ કે જે ટેલર તરફ handover કરે તે embedded topic ખોલે છે; topic_category handover ને transition તરીકે ચિહ્નિત કરે'). depends_on T4: આ ટોપિક એહમદના T4 ના જ કથન 'કહીને'નું ચાલુ છે — real textual continuation, માત્ર ક્રમ નહીં. Difficulty medium: નેરેટર-વર્ણન મોટે ભાગે પ્રમાણભાષામાં, છતાં ફોન-સંવાદમાં ('આયાં પુલ માથે સ્હાવજ હાલ્યો જાય સે.', 'દોયડે બાંધીને લેતો આવ્ય.', 'તારો બાપ આ આગળ હાલ્યો જાય સે.') તળપદા છાંટા છે."
+            },
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "સામેથી આવતા વાહનને ચેતવવાનો પ્રયત્ન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C6",
+                  "concept_name": "સામેથી આવતા વાહનને ચેતવવાનો પ્રયત્ન"
+                }
+              ],
+              "note": "Marker [[ઘટના: સામેથી આવતા વાહનને ચેતવવાનો પ્રયત્ન]]. સંપૂર્ણપણે નેરેટરના પ્રમાણભાષા-વર્ણનમાં — કોઈ સંવાદ નથી. Difficulty medium: તળપદા શબ્દ નથી, પણ સાહિત્યિક/તત્સમ શબ્દભંડોળ (અપેક્ષા, ધારણા, અચરજ, મૂંઝવણ, ઘેરાયેલા) T3 કરતાં વધુ ભાર મૂકે છે."
+            },
+            {
+              "topic_id": "M2.S3.T7",
+              "topic_name": "સિંહનો સહજ સ્વભાવ અને એહમદનું અવલોકન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T7.C7",
+                  "concept_name": "સિંહનો સહજ સ્વભાવ અને એહમદનું અવલોકન"
+                }
+              ],
+              "note": "Marker [[ઘટના: સિંહનો સહજ સ્વભાવ અને એહમદનું અવલોકન]]. એહમદનો બીજો ગીચ તળપદો સંવાદ ('સ્હાવજ સીધો હાલ્યો ગ્યો હોત તો... પણ સાવજ કોને કેય સે?...') પછી કથકનું પોતાનું અવલોકન — નોંધ: extraction_notes મુજબ 'સ્હાવજ' અને 'સાવજ' બંને રૂપ એહમદના આ જ સંવાદમાં છપાયેલાં છે, બંને જેમ છપાયાં તેમ જ રખાય, એકસમાન કરાય નહીં. Difficulty hard: ગીચ તળપદા શબ્દો (નંઈ, ન્યાં, ભાળે, આઘો, તરીને) વત્તા કથકના પોતાના વર્ણનમાં તત્સમ શબ્દો (અરણ્ય, બેઝિઝક, વનરાજ, શાર્દૂલ)."
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "સિંહનું પતન અને મૃત્યુ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T8",
+              "topic_name": "સિંહ પુલ પરથી અંધારા ખેતર તરફ કૂદે છે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O7"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T8.C8",
+                  "concept_name": "સિંહ પુલ પરથી અંધારા ખેતર તરફ કૂદે છે"
+                }
+              ],
+              "note": "Marker [[ઘટના: સિંહ પુલ પરથી અંધારા ખેતર તરફ કૂદે છે]]. વાડીના વંડા અને જંગલખાતાની રક્ષણવાડ કૂદવાનો સિંહનો પૂર્વ-અનુભવ, પછી એહમદનો ત્રીજો ગીચ તળપદો સંવાદ ('દિ હોત તો તો સ્હાવજ વંડીની ઓલીકોર તળિયું નથ્ય ઈ તો ભાળી લેત...'). Difficulty hard: આ ચેપ્ટરના તળપદા શબ્દોનું સૌથી ગીચ ઝૂમખું (નથ્ય, સ્હમજ, રાત્ય, અંજાય, ઈમાં, ઈની)."
+            },
+            {
+              "topic_id": "M2.S4.T9",
+              "topic_name": "સિંહનું શાહી મિજાજ અને હીરણ નદીમાં પતન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S4.T8"
+              ],
+              "objective_ids": [
+                "O8"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T9.C9",
+                  "concept_name": "સિંહનું શાહી મિજાજ અને હીરણ નદીમાં પતન"
+                }
+              ],
+              "note": "Marker [[ઘટના: સિંહનું શાહી મિજાજ અને હીરણ નદીમાં પતન]]. વળાંક-વાક્ય 'પડતાં વેંત સિંહનું માથું ફાટી ગયું.' આ જ ટોપિકની અંદર છે — explanation_unit (01_meta.json) ની ચેતવણી મુજબ આને વહેલો ખોલવો નહીં કે બે topic વચ્ચે ચીરવો નહીં, અહીં આખું એક ટોપિક તરીકે રખાયું છે. topic_category 'climax' varta.md ('Emphasise: The turn... name it in topic_category: climax') મુજબ. depends_on T8: વળાંક એ ઘટનાનું પરિણામ છે જે T8 એ ગોઠવ્યું (સિંહનું ખેતર તરફ કૂદવું → શાહી બેફિકરાઈથી હીરણમાં પડવું) — varta.md નું 'વળાંક ઘટના પર નિર્ભર છે' ઉદાહરણ સીધું અહીં લાગુ પડે છે. Difficulty medium: તત્સમ-ભારે વર્ણન (સામ્રાજ્ય, રાજવી, અભય, મસ્તાન, રઝળપાટ, કાળમીંઢ, ગરકાવ) પણ પ્રમાણભાષામાં, છપાયેલી જોડણી પ્રમાણભૂત — Ahmed ના તળપદા સંવાદ જેટલું decoding-ભારે નથી."
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S5",
+          "segment_name": "રાત્રિ પછીની ઘટનાઓ અને ગામોનો શોક",
+          "topics": [
+            {
+              "topic_id": "M2.S5.T10",
+              "topic_name": "રાત્રે બચાવ-પ્રયત્નો અને ગામ જાગે છે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O9"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T10.C10",
+                  "concept_name": "રાત્રે બચાવ-પ્રયત્નો અને ગામ જાગે છે"
+                }
+              ],
+              "note": "Marker [[ઘટના: રાત્રે બચાવ-પ્રયત્નો અને ગામ જાગે છે]]. નિષ્ફળ બચાવ-પ્રયત્નો, ઊંઘતું ગામ જાગવું, વન ખાતાની રાત્રિ-કાર્યવાહી (સર્ચલાઈટ, જીપ, ઍમ્બ્યુલન્સ, ફોરેસ્ટર, બીટગાર્ડ), અને એહમદનું એક-વાક્ય સમાપન ('ઘડીક તો અડધી રાતે દિ ઉગાડી દીધો.') — વિરોધાભાસી શબ્દચિત્ર, ભાષા-અભિવ્યક્તિ બોક્સ (00_chapter_normalized.md) આ જ વાક્યને ઉદાહરણ તરીકે નોંધે છે. Difficulty medium: સાધન-નામોની યાદી (ફોરેસ્ટર, બીટગાર્ડ, પોસ્ટમોર્ટમ) અને એક ટૂંકું તળપદું સમાપન-વાક્ય."
+            },
+            {
+              "topic_id": "M2.S5.T11",
+              "topic_name": "સવારે અંતિમ સંસ્કાર અને ગામોનો શોક",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O10"
+              ],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S5.T11.C11",
+                  "concept_name": "સવારે અંતિમ સંસ્કાર અને ગામોનો શોક"
+                }
+              ],
+              "note": "Marker [[ઘટના: સવારે અંતિમ સંસ્કાર અને ગામોનો શોક]]. પોસ્ટમોર્ટમ, અંતિમ સંસ્કાર, અને સાસણ ઉપરાંત હરિપુરા, હીરણવેલ, ચિત્રાવણ, ચિત્રોડ, બોરવાવ, ભોજદે ગામોનો શોક — real ગામ-નામ, global_content_rules.md નિયમ 10 મુજબ ચોક્કસ નામ સાથે, સામાન્યીકરણ વિના. ('અકૂપાર'માંથી) એ સ્રોત-લીટી gujarati_verbatim.md મુજબ આ છેલ્લા ટોપિકના original_chunk ની અંદર જ રહેવી જોઈએ — Agent 5 માટે ફ્લેગ. Difficulty easy: ટૂંકાં, સ્પષ્ટ, હકીકત-આધારિત વાક્યો; ગામ-નામોની યાદી સિવાય કોઈ ભારે શબ્દ નથી."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut: 2 pre-reading CONCEPT topics ([[લેખક-પરિચય]], [[કૃતિ-પરિચય]]) + 9 STORY_TELLING topics (each of the 9 [[ઘટના: ...]] markers) = 11 topics total, matching structure_inventory.ghatna=9 in 01_meta.json exactly (Agent 4 marker count: every printed ઘટના-marker carried by exactly one topic, none merged, none split).",
+    "લેખક-પરિચય and કૃતિ-પરિચય kept as TWO separate CONCEPT topics, not folded into one, because 00_chapter_normalized.md prints them as two separate markers ([[લેખક-પરિચય]] then [[કૃતિ-પરિચય]]), unlike std-10's single unlabelled paragraph that explanation_unit_map.md describes as one CONCEPT topic. This follows 'One marker, one topic' (02_structure.md) and matches the identical precedent already set for this same std-9 run at output9/ch01/02_structure.json's T1/T2. Flagged as a disagreement note per spec: 01_meta.json's own extraction_notes label this pair 'અપરાટસ તરીકે... શિક્ષક-સંબોધિત/પ્રવેશ-અપરાટસ' (grouping them with ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા for the purpose of excluding them from exercise_inventory) — that note is read here as 'not an exercise', not as 'not a topic'; the content itself (third-person, no imperative teacher-instructions, unlike શિક્ષકની ભૂમિકા's '...વિદ્યાર્થીઓને અવગત કરાવવા' register) reads as prose printed for the student, consistent with the std-9-ch1 precedent. Surfaced for Agent 4/13 to confirm.",
+    "શબ્દ-સમજૂતી, ત્રણેય સ્વાધ્યાય બ્લોક (MCQ; બે-ત્રણ વાક્યમાં; છ-સાત વાક્યમાં), વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ અને શિક્ષકની ભૂમિકા — none cut as topics, per global_content_rules.md rule 7 and explanation_unit_map.md's apparatus rule; all left for Agent 10 (exercise_inventory already in 01_meta.json) and for key_terms/ભાષા-બોધ sourcing. શિક્ષકની ભૂમિકા is explicitly teacher-addressed ('...વિદ્યાર્થીઓને અવગત કરાવવા', '...જણાવવું') and never a topic.",
+    "નવલકથાખંડ excerpt rule (varta.md): cut only on the ઘટના actually printed in 00_chapter_normalized.md. No topic narrates anything beyond what the excerpt itself states; the excerpt's own arc (પરિચય → સમાચાર → ભૂતકાળનું ઘટના-કથન → વળાંક → પરિણામ/શોક) is complete in itself per 01_meta.json's explanation_unit note, so no unresolved thread is left open. The attribution line ('અકૂપાર'માંથી) is flagged (in T11's note) to land inside the LAST topic's original_chunk, per gujarati_verbatim.md — it is attribution, not licence to summarise the parent novel.",
+    "Dialect preserved, never standardised: એહમદ and the drivers' ગીર/સોરઠી તળપદા forms (સ્હાવજ, સાવજ, રાત્ય, આંય, સે, નથ્ય, ગ્યો, હાલ્યો, દોયડે, ઓલીકોર, નંઈ, ભાળે) stay exactly as printed in every topic that carries them (T4, T5, T7, T8, T10) — varta.md hard gate 6. No field written at this pass narrates or judges any character; that gate binds Agents 5/12 downstream, noted here for traceability.",
+    "Objective anchoring: O1 covers the two pre-reading CONCEPT topics jointly (T1+T2, both read as one preparatory unit, anchor spans both concepts) exactly as the std-9-ch1 precedent does for its own kavi/kruti-parichay pair. O2–O10 give one sound, text-grounded objective anchor to each of the nine STORY_TELLING reading scenes, per 02_structure.md section 4. Bloom spread across the ten objectives: Understand x5 (O1, O2, O3, O7, O9), Analyze x4 (O4, O5, O6, O8), Evaluate x1 (O10, the closing topic, matched to the chapter's own guiding_question about how the villages express their grief) — reaching the std-9 ceiling (analyze/evaluate) as required; no objective names an અલંકાર or સાહિત્યપ્રકાર-analysis device beyond the plain 'નવલકથાખંડ' tag the chapter's own MCQ 4 already prints as its answer (O1).",
+    "depends_on kept minimal and real, not chained by default sequence, per 02_structure.md ('[] is the normal, correct value'): T2 depends on T1 (work-intro follows author-intro, matching the ch1 precedent for the same intro-pair shape); T5 depends on T4 (T5's original_chunk opens with the pre-topic hook 'કહીને એહમદે વાત માંડી', a direct textual continuation of T4's dialogue, not mere chronological order); T9 depends on T8 (the વળાંક — the fatal fall — is the direct consequence of the jump T8 sets up, per varta.md's own worked example 'a વળાંક depends on the ઘટના that set it up'). All other topics carry depends_on: [] since their sequencing is already fully carried by the module/segment/topic tree order.",
+    "Difficulty (relative to this chapter only, per teaching_lens_map.md's std-9 criterion — dense dialect and dense તત્સમ vocabulary, not craft-naming): hard = T4, T7, T8 (એહમદના ત્રણ સૌથી ગીચ તળપદા સંવાદ, જ્યાં પ્રથમ મુલાકાતના decoding-ભારે શબ્દોનું ઝૂમખું છે); medium = T2, T5, T6, T9, T10 (કાં તો હળવા તળપદા છાંટા, કાં તો તત્સમ-ભારે પણ પ્રમાણભાષી વર્ણન); easy = T1, T3, T11 (ટૂંકાં, સીધાં, હકીકત-આધારિત વાક્યો). No topic is called hard for naming a craft device — this chapter carries no POEM topic and no અલંકાર claim at all.",
+    "topic_category uses all five values meaningfully: introduction (T1, T2, T3 — the frame's own opening scene), core (T4, T6, T7, T8, T10), transition (T5 — the frame-to-embedded-story handover, per varta.md's frame-story rule), climax (T9 — carries the printed વળાંક line verbatim), resolution (T11 — the closing mourning scene).",
+    "Genre prior agreement: 01_meta.json's active_genre_profiles ([varta.md]) matches the profile loaded for this pass; genre tag 'નવલકથાખંડ (વાર્તા)' and explanation_unit both read directly from 01_meta.json with no disagreement between the rendered page and the explanation_unit_map.md prior to report.",
+    "original_chunk left empty on every topic per spec: 'original_chunk stays empty; Agent 5 fills it.' No verbatim transcription performed here beyond what was needed to read the marker boundaries in 00_chapter_normalized.md and to judge difficulty/register per topic.",
+    "No અલંકાર, પ્રાસ, છંદ or biographical fact is asserted anywhere in this file beyond what 00_chapter_normalized.md and 01_meta.json already state — this is prose fiction with no verse content (structure_inventory: kadi=0, duha=0, pad=0, tek_occurrences=0), so no POEM-only fields (figures_of_speech, rhyme_scheme) apply to any topic here."
+  ]
+}

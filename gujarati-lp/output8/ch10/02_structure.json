@@ -1,0 +1,571 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati8_ch10",
+  "plan_id": "gseb_eng_gujarati8_ch10_v1",
+  "grade": 8,
+  "chapter_name": "હલેસે હલેસે",
+  "genre": "ગઝલ",
+  "active_genre_profiles": [
+    "gazal.md"
+  ],
+  "explanation_unit": "એક શેર",
+  "teaching_lens": "શેર + રદીફ-કાફિયા + મિજાજ",
+  "guiding_question": "કવિ દરિયાનાં આટલાં બધાં જુદાં જુદાં રૂપ વર્ણવે છે, છતાં છેલ્લે કેમ કહે છે કે દરિયો કદી પકડાતો નથી ?",
+  "marker_accounting": {
+    "reading_markers_in_source": [
+      "[[શેર 1: મત્લા]]",
+      "[[શેર 2]]",
+      "[[શેર 3]]",
+      "[[શેર 4]]",
+      "[[શેર 5]]",
+      "[[શેર 6]]",
+      "[[શેર 7]]",
+      "[[શેર 8]]",
+      "[[શેર 9]]",
+      "[[શેર 10]]",
+      "[[શેર 11]]",
+      "[[શેર 12: મક્તા]]"
+    ],
+    "reading_markers_count": 12,
+    "topics_cut": 12,
+    "topic_id_per_marker": {
+      "[[શેર 1: મત્લા]]": "M1.S1.T1",
+      "[[શેર 2]]": "M1.S2.T2",
+      "[[શેર 3]]": "M1.S2.T3",
+      "[[શેર 4]]": "M2.S3.T4",
+      "[[શેર 5]]": "M2.S3.T5",
+      "[[શેર 6]]": "M2.S4.T6",
+      "[[શેર 7]]": "M2.S4.T7",
+      "[[શેર 8]]": "M2.S4.T8",
+      "[[શેર 9]]": "M3.S5.T9",
+      "[[શેર 10]]": "M3.S5.T10",
+      "[[શેર 11]]": "M3.S6.T11",
+      "[[શેર 12: મક્તા]]": "M3.S6.T12"
+    },
+    "markers_deliberately_not_cut_as_topics": {
+      "[[પ્રવેશપેટી]]": "apparatus — teacher-addressed intro box ('આ કૃતિનું પઠન વિદ્યાર્થીઓ સમક્ષ કરવું.', '...વિદ્યાર્થીઓને તારવી બતાવવું.'). Names the genre ('આ એક ગઝલ છે') and the craft-vocabulary the teacher should draw out, but is an instruction TO the teacher, not a paragraph printed FOR the student to read as content — matches gazal.md's own reading of this exact box and 01_meta.json's note that std 6-8 carries no student-facing કવિ/કૃતિ-પરિચય. Feeds key_terms and the ભાષા-બોધ prompt list, never a reading scene.",
+      "[[શબ્દાર્થ]]": "apparatus — the yellow gloss box (હલેસવું, અફળાવું, સમંદર, સંગાથ, બુંદ, નભ, બાષ્પ, વગોવવું). Feeds key_terms / shabdarth for Agent 5 and Agent 12, never a topic.",
+      "[[સ્વાધ્યાય: …]] (12 blocks)": "exercise matter — the exact headings are carried in 01_meta.json's exercise_inventory (12 groups, matching the 12 [[સ્વાધ્યાય: …]] markers one-to-one) for Agent 10. Three of these blocks quote poems/lines by OTHER poets (રજની મહેતા under 'કાવ્યપંક્તિનો અર્થ સમજી પ્રશ્નોના જવાબ લખો'; કવિ સુંદરમ્'s 'દરિયાને તીર એક ટટળે ટિટોડી...' / 'દરિયાને તીર એક રેતીની ઓટલી' under the પઠન/ગાન block; સુરેશ દલાલ under 'આ કાવ્યપંક્તિનો અર્થ સમજાવો...') — per gazal.md these are never cut as topics and never enter any original_chunk of this chapter's શેર chain.",
+      "[[ચર્ચા-વિચારણા]]": "teacher-run class-discussion box ('ચડિયાતું કોણ ? નદી કે દરિયો ?'). Not counted in exercise_inventory per 01_meta.json's own note (citing reference/genre_diagnosis.md); still teacher-addressed apparatus, not a topic."
+    }
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પહેલી પંક્તિઓમાં 'હલેસાય' શબ્દના પુનરાવર્તનથી હલેસાંનો અવાજ કેવી રીતે સંભળાય છે અને દરિયો હોડીઓને લઈને ક્યાં વહી જાય છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "બીજી પંક્તિઓમાં દરિયાને ટીપે ઉમેરવાની અને ખોબે ઉલેચવાની વાત કેમ કરી છે, અને એનાથી દરિયાના કદ વિશે શું સમજાય છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": [
+        "M1.S2.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ત્રીજી પંક્તિઓમાં દરિયો જહાજોની સાથે કેવી રીતે ઘસડાય છે અને ખડકોની છાતીથી કેમ અફળાય છે તે શોધીને, દરિયાના આ બે વર્તન વચ્ચેનો ભેદ કહેવો.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ચોથી પંક્તિઓમાં દરિયાનો અવાજ સમયની ગુફાઓમાં પડઘાય છે અને શંખ કાને મૂકતાં પણ સંભળાય છે એ બંને પંક્તિ પરથી દરિયાનો અવાજ કેટલે દૂર સુધી પહોંચે છે તે વિચારીને કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પાંચમી પંક્તિઓમાં દરિયો તરસ્યો થાય તો શું કરે છે તે શોધીને, નદીઓની નદીઓને પી જવાની કલ્પનાથી દરિયાની તાકાત કેવી બતાવી છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "છઠ્ઠી પંક્તિઓમાં દરિયો ક્યારેક નભેથી બુંદ રૂપે ટપકે છે અને ક્યારેક બાષ્પ થઈને ઊડી જાય છે એ બે રૂપ શોધીને, દરિયાનું પાણી કેવી રીતે બદલાતું રહે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T6",
+      "anchor": [
+        "M2.S4.T6.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સાતમી પંક્તિઓમાં દરિયો રણના દિલમાં કેવી રીતે વિસ્તરે છે અને રણની આંખોમાં કેમ ડોકાય છે એ કલ્પના તપાસી, રણ અને દરિયા વચ્ચેનું આ અજબ ચિત્ર પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T7",
+      "anchor": [
+        "M2.S4.T7.C7"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "આઠમી પંક્તિઓમાં કિનારા સુધી માત્ર ફીણ આવે છે જ્યારે દરિયો પોતે દૂર ઉંડાણમાં નહાય છે એ બે વાત વચ્ચેનો તફાવત શોધીને કહેવો.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T8",
+      "anchor": [
+        "M2.S4.T8.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "નવમી પંક્તિઓમાં ડૂબનારને કોઈ રોકી શકતું નથી છતાં જગત દરિયાને નકામો કેમ કહે છે તે શોધીને, આ વગોવણી ન્યાયી છે કે નહિ તે પોતાનો વિચાર જણાવવો.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S5.T9",
+      "anchor": [
+        "M3.S5.T9.C9"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O10",
+      "legacy_id": "L10",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "દસમી પંક્તિમાં સૂર્યકિરણો સતાવે ત્યારે દરિયો કિનારાની રેતીમાં દોડીને કેમ સંતાય છે તે શોધીને કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S5.T10",
+      "anchor": [
+        "M3.S5.T10.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O11",
+      "legacy_id": "L11",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "અગિયારમી પંક્તિઓમાં ક્ષિતિજ તરફ જોતાં દરિયો ગગનમાં ભળી જતો કેમ દેખાય છે તે શોધીને, પોતે ક્ષિતિજ પર આવું દૃશ્ય ક્યારે જોયું છે તે કહેવું.",
+      "bloom_level": "Apply",
+      "home_topic_id": "M3.S6.T11",
+      "anchor": [
+        "M3.S6.T11.C11"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O12",
+      "legacy_id": "L12",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "છેલ્લી પંક્તિઓમાં કવિ પોતાનું નામ લઈને રોજ જાળ નાખવા છતાં દરિયો કદીયે કેમ પકડાતો નથી તે શોધીને, આખા કાવ્યમાં પાછો આવતા શબ્દની અસર કહેવી.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M3.S6.T12",
+      "anchor": [
+        "M3.S6.T12.C12"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9",
+    "L10": "O10",
+    "L11": "O11",
+    "L12": "O12"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "માનવ-ક્રિયા અને દરિયાનો પ્રતિભાવ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "હલેસાં અને હોડીઓ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "હલેસાં તળે વહેતો દરિયો",
+              "topic_type": "POEM",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "source_marker": "[[શેર 1: મત્લા]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "હલેસાંના પુનરાવર્તનથી ઊપસતું દરિયાનું ચિત્ર",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "ટીપાં, ખોબા અને જહાજોનું ઘસડાવું",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "ટીપે ને ખોબે દરિયો",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "source_marker": "[[શેર 2]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "ટીપા-ખોબાના પ્રમાણથી દરિયાની અસીમતા",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "જહાજ ને ખડક વચ્ચે દરિયો",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "source_marker": "[[શેર 3]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "જહાજ અને ખડક સાથે દરિયાનું બળ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "દરિયાનું પરિવર્તન અને વ્યાપ",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "સમય અને તરસનું રૂપ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "ગુફા ને શંખમાં ગુંજતો દરિયો",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O4"
+              ],
+              "source_marker": "[[શેર 4]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "સમય અને શંખમાં ગુંજતો દરિયાનો અવાજ",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "તરસ્યો થાય તો નદીઓ પીતો દરિયો",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O5"
+              ],
+              "source_marker": "[[શેર 5]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "તરસ્યા દરિયાની અમાપ તાકાત",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "બુંદથી બાષ્પ, રણથી ઊંડાણ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T6",
+              "topic_name": "બુંદ અને બાષ્પ બનતો દરિયો",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O6"
+              ],
+              "source_marker": "[[શેર 6]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T6.C6",
+                  "concept_name": "બુંદ અને બાષ્પ વચ્ચે દરિયાનું રૂપાંતર",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T7",
+              "topic_name": "રણના દિલમાં વિસ્તરતો દરિયો",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O7"
+              ],
+              "source_marker": "[[શેર 7]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T7.C7",
+                  "concept_name": "રણમાં વિસ્તરતા દરિયાની કલ્પના",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T8",
+              "topic_name": "કિનારે ફીણ, ઊંડાણમાં દરિયો",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O8"
+              ],
+              "source_marker": "[[શેર 8]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T8.C8",
+                  "concept_name": "કિનારાના ફીણ અને ઊંડાણના ભેદ",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "સંતાવું, ભળવું અને કદી ન પકડાવું",
+      "segments": [
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "વગોવાટ અને સંતાવું",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T9",
+              "topic_name": "વગોવાતો છતાં અડગ દરિયો",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O9"
+              ],
+              "source_marker": "[[શેર 9]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T9.C9",
+                  "concept_name": "વગોવણી છતાં દરિયાની લાચારી",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S5.T10",
+              "topic_name": "સૂર્યકિરણોથી સંતાતો દરિયો",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O10"
+              ],
+              "source_marker": "[[શેર 10]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T10.C10",
+                  "concept_name": "સૂર્યકિરણોથી બચવા સંતાતો દરિયો",
+                  "objective_id": "O10",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S6",
+          "segment_name": "ક્ષિતિજમાં ભળવું અને ન પકડાવું",
+          "topics": [
+            {
+              "topic_id": "M3.S6.T11",
+              "topic_name": "ગગનમાં ભળી જતો દરિયો",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O11"
+              ],
+              "source_marker": "[[શેર 11]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T11.C11",
+                  "concept_name": "ક્ષિતિજે આકાશમાં ભળી જતો દરિયો",
+                  "objective_id": "O11",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M3.S6.T12",
+              "topic_name": "કદી ન પકડાતો દરિયો",
+              "topic_type": "POEM",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O12"
+              ],
+              "source_marker": "[[શેર 12: મક્તા]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M3.S6.T12.C12",
+                  "concept_name": "કદી ન પકડાતા દરિયાનું રહસ્ય",
+                  "objective_id": "O12",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Context-routing disclosure: the run harness's explicit 'READ THESE' policy list named only no_hallucination_policy.md, global_content_rules.md, explanation_unit_map.md and teaching_lens_map.md. The agent spec (02_structure.md front matter) also lists reference/naming_conventions.md, reference/phase2_contract.md and profiles/students/std-8.md as inputs. Rather than guessing at their shape, I read the actual files on disk (they exist in reference/) since 02_structure.md's own body already quotes the id grammar and the objective/registry JSON shape inline — reading the source files confirmed the inline quotes exactly and resolved the concept-id chapter-continuity rule precisely. I also read the completed precedent output8/ch01/02_structure.json (a same-standard, same-pipeline-stage sibling chapter, પ્રાર્થનાકાવ્ય genre) to match field shape and style exactly. profiles/students/std-8.md was NOT opened — the spec's own inline difficulty table and craft-label ceiling table for std 8 were treated as sufficient and authoritative for this file.",
+    "Genre and unit confirmed from 01_meta.json + gazal.md: ગઝલ, explanation_unit 'એક શેર', 12 શેર (1 મત્લા + 10 middle + 1 મક્તા), રદીફ 'દરિયો', no ટેક. 00_chapter_normalized.md carries exactly twelve [[શેર …]] markers ([[શેર 1: મત્લા]] … [[શેર 12: મક્તા]]); twelve topics were cut, one per marker, one-to-one — no marker swallowed, no topic invented where no marker sits.",
+    "The tenth શેર is printed on the page as ONE unbroken line (per 01_meta.json's extraction_note) rather than two — it is still exactly one શેર and one topic; original_chunk (Agent 5's job) will carry it as the single printed line, not reflowed into two.",
+    "પ્રવેશપેટી, શબ્દાર્થ, all twelve સ્વાધ્યાય blocks and ચર્ચા-વિચારણા were NOT cut as topics — see marker_accounting.markers_deliberately_not_cut_as_topics for the reasoning on each. No કવિ-પરિચય/કૃતિ-પરિચય paragraph is printed for this std-8 chapter (01_meta.json confirms), so unlike std 10's opening-paragraph convention, there is no pre-reading CONCEPT topic here at all — the chapter opens directly on the મત્લા.",
+    "depends_on is [] for every one of the twelve topics. gazal.md allows (never requires) a non-મત્લા શેર to list the મત્લા topic in depends_on 'when it names the returning રદીફ/કાફિયા introduced there' — but the profile's own 'Test for a finished topic' (explanation must make complete sense read alone, with every other topic hidden) and its ban on any running-story dependency chain make [] the correct default for a form where, per the profile, 'the શેર are bound by sound, not by argument' and do not develop. Every શેર names the returning 'દરિયો' on its own printed page regardless of whether the મત્લા topic is cited, so no topic genuinely depends on reading the મત્લા first.",
+    "Craft-label ceiling honoured: no objective_text (or topic_name / concept_name / module_name / segment_name) contains ગઝલ, શેર, રદીફ, કાફિયા, મત્લા, મક્તા, તખલ્લુસ, અલંકાર, છંદ or સમાસ. gazal.md's own 'std-band rule' box states std 6-9 books print only 'પ્રાસ' as the form-word (std-8 ch-10's own exercise says 'પ્રાસવાળા શબ્દો', never 'કાફિયા'); std 10 ch-15 is the sole measured exception that names શેર/રદીફ/કાફિયા outright. Following that std-band precedent (and 02_structure.md's own hard gate against a સાહિત્યપ્રકાર label in a std-8 objective — ગઝલ IS this chapter's સાહિત્યપ્રકાર), every topic is referred to in child-facing text by its plain position ('પહેલી પંક્તિઓમાં' … 'છેલ્લી પંક્તિઓમાં', mirroring how ch01 used 'પહેલી કડીમાં') rather than by any ગઝલ-specific term. This is a judgement call flagged here for Agent 4/13 to confirm.",
+    "The મક્તા topic's objective (O12) is the one place that names the whole-poem repetition pattern ('આખા કાવ્યમાં પાછો આવતા શબ્દની અસર') rather than any single શેર's content alone — this is the one legitimate cross-શેર reference gazal.md permits ('the only legitimate cross-શેર sentence... is the one that names the return'), and it is placed at the મક્તા exactly where the profile's recall-priors section says the one allowed whole-poem question belongs. No other objective makes any cross-શેર, temporal or causal reference.",
+    "Module/segment grouping (3 modules, 6 segments) is a THEMATIC grouping by the type of imagery each adjacent pair/triple of શેર shares (human objects and effort; the sea's own transformations and reach; hiding/merging/elusiveness) — never a narrative sequence. Reading order T1→T12 is preserved unchanged and unreordered; module and segment names describe a shared picture-type, not a 'first…then…' development, to stay inside gazal.md's hard gate against a running story across શેર. Flagged for Agent 13's cross-શેર language check to confirm no module/segment name reads as narrative.",
+    "topic_category: T1 (મત્લા) = introduction; T2–T11 = core; T12 (મક્તા) = resolution. 'resolution' names the મક્તા's structural role as the poem's closing, signed-off couplet (a fact of the ગઝલ form itself), not a narrative climax — 'climax' was deliberately avoided since this form builds no dramatic arc for any single શેર to peak.",
+    "Difficulty is relative inside this chapter and set by what stops an A2+ L2 reader on the page, never by craft: hard = T4 (અમૂર્ત 'સમયની ગુફાઓ' echo-image plus ઓછું-જાણીતું 'પડઘાય'), T7 (દેન્સેસ્ટ metaphor — 'રણ સમંદરના દિલમાં' / 'રણની આંખોમાં', a desert-as-sea mirage picture) and T12 (introduces the તખલ્લુસ convention — the poet naming himself mid-line — plus the habitual-tense construction 'નાખ્યા કરો રોજ'). easy = T5, T8, T10, whose vocabulary is plain and whose picture is immediate. medium = the remaining six.",
+    "Exercise item 3.5 ('ખડકોની છાતીથી અથડાય દરિયો', root અથડાવું) quotes the poem's third શેર with a different verb than what is actually printed there ('અફળાય', root અફળાવું) — 01_meta.json already records this page-level mismatch; carried forward here as a flag for Agent 10 (who owns that exercise item) and Agent 5 (whose original_chunk for M1.S2.T3 must transcribe 'અફળાય' exactly as printed in the poem, not the exercise's wording).",
+    "One concept per topic throughout — no શેર does two separable things; every શેર is one complete, self-contained turn per gazal.md, so a second concept would mean the cut is wrong.",
+    "No page render was opened. 00_chapter_normalized.md (with 01_meta.json's genre_signals and extraction_notes) answered every question needed for the cut, including the single-line printing of the tenth શેર and the absence of any કવિ-પરિચય box."
+  ]
+}

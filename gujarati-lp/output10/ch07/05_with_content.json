@@ -1,0 +1,294 @@
+{
+  "chapter_id": "gseb_eng_gujarati10_ch7",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કૃતિ-પરિચયમાં અપાયેલી માહિતી પરથી કવિ હરિકૃષ્ણ પાઠકની ઓળખ કરવી અને કવિએ 'જીવમાં જીવ આવ્યો' રૂઢિપ્રયોગ પર જ આખું સોનેટ કેમ રચ્યું છે તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ કઈ પંક્તિઓમાં પવન-ડમરી શમી જવા અને પહેલાં ઝીણાં ફોરાં ઝરવાથી પક્ષીના નીડ અને પર્ણો પર થયેલી અસર બતાવે છે તે શોધવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": [
+        "M1.S2.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "તાતા તાપમાં ધીરે ધીરે ચાલતા રાફડા અને સોને-રૂપે જડિત તડકાનાં ચિત્રો દ્વારા કવિ ધરાના ફૂટવા આવેલા નવા રૂપને કઈ રીતે બતાવે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કવિ કઈ પંક્તિમાં વગડાને ટહુકતો, સ્મરણને મ્હોરતું અને દૂધને ભાંભરતું બતાવીને નિર્જીવ-અમૂર્તને સજીવ કરે છે તે શોધી, સજીવારોપણ અલંકાર ઓળખાવવો અને એની અસર કહેવી.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T4",
+      "anchor": [
+        "M1.S2.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "છેલ્લી બે પંક્તિમાં 'એનું એ સૌ છતાંયે' કહ્યા પછી પણ કવિ 'જીવમાં જીવ આવ્યો' કેમ કહે છે તે સમજાવવું અને શીર્ષકની યથાર્થતા ચર્ચવી.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M1.S2.T5",
+      "anchor": [
+        "M1.S2.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "જીવમાં જીવ આવ્યાનું સોનેટ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "કવિ અને કૃતિનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "કવિ હરિકૃષ્ણ પાઠક અને સોનેટનો કૃતિ-પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "હરિકૃષ્ણ રામચન્દ્ર પાઠકનું વતન બોટાદ છે. તેમણે સચિવાલયમાં અધિકારી તરીકે સેવાઓ આપી હતી. ‘સૂરજ કદાચ ઊગે’ તેમનો કાવ્યસંગ્રહ છે. ‘અડવાપચ્ચીસી’માં હાસ્ય કટાક્ષની કવિતા છે. ‘કોઈનું કંઈ ખોવાય છે’ એ બાળકાવ્યોનો સંગ્રહ છે. ‘ગુલાબી આરસની લગ્ગી’ કિશોરકથા અને ‘મોર બંગલો’ તેમનો વાર્તાસંગ્રહ છે. ‘નગર વસે છે’ તેમનું સંપાદન છે.\n\nઉનાળાની આકળ-વિકળ પછી વર્ષાનું આગમન થવાથી આખી સૃષ્ટિમાં જાણે કે નવજીવન આવી જાય છે તે ભાવને કવિએ આ સોનેટમાં મંદાક્રાન્તા છંદમાં પ્રગટ કર્યો છે. તે માટે રૂઢિપ્રયોગ યોજ્યો છે. ‘જીવમાં જીવ આવ્યો.’ બધું હતું, પણ જીવ નહોતો. ધૂળની ડમરી, પંખીના માળાઓ, પર્ણો, રાફડાની કીડીઓ, તડકાનું રૂપ, વગડો, સીમ, માણસો - બધું એનું એ છે; પરંતુ ફોરાં ઝર્યાં અને બધું બદલાઈ ગયું. જીવમાં જીવ આવી ગયો. આખી સૃષ્ટિ જાણે સજીવન થઈ ગઈ. આ બદલાયેલી સૃષ્ટિનાં મધુર ચિત્રો કવિએ આલેખ્યાં છે જે માણવાં ગમે એવાં છે. આ કાવ્ય સાથે સ્વપ્નસ્થનું ‘મેહુલા’ કાવ્ય મૂકવાથી બંને કાવ્ય વધુ ઊંડાણથી સમજી શકાશે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "હરિકૃષ્ણ પાઠકનો કવિ-પરિચય અને 'જીવમાં જીવ આવ્યો' સોનેટનો કૃતિ-પરિચય"
+                }
+              ],
+              "modified_chunk": "અહીં કવિ હરિકૃષ્ણ પાઠકનો ટૂંકો પરિચય અપાયો છે — તેમનું વતન, તેમની નોકરી અને તેમનાં પુસ્તકો (કાવ્યસંગ્રહ — કવિતાઓનું પુસ્તક; વાર્તાસંગ્રહ — વાર્તાઓનું પુસ્તક). સાથે આ સોનેટનો કૃતિ-પરિચય પણ છે: ઉનાળાના તાપ પછી વરસાદ આવતાં આખી સૃષ્ટિમાં નવજીવન આવે છે, એ ભાવ કવિએ 'જીવમાં જીવ આવ્યો' રૂઢિપ્રયોગ (ખાસ અર્થવાળો શબ્દસમૂહ) પર રચ્યો છે.",
+              "word_count": {
+                "original": 145,
+                "modified": 53
+              },
+              "key_terms": [
+                "સચિવાલય — સરકારી વહીવટ ચાલે એ મુખ્ય કચેરી",
+                "કાવ્યસંગ્રહ — કવિતાઓનું પુસ્તક",
+                "રૂઢિપ્રયોગ — ખાસ અર્થ ધરાવતો શબ્દસમૂહ, જેનો સીધો શબ્દાર્થ પૂરતો ન થાય",
+                "મંદાક્રાન્તા છંદ — કાવ્યની એક ચોક્કસ લય-ચાલ; આ સોનેટમાં કવિએ એ વાપર્યો છે",
+                "સૃષ્ટિ — સમગ્ર જગત, પ્રકૃતિ"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": []
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "વરસાદથી સૃષ્ટિમાં આવેલું નવજીવન",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "પહેલા વરસાદે નીડ અને પર્ણોમાં આણેલી ચેતના",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "વંટોળાતી પવન-ડમરી થૈ ઠરીઠામ અંતે,\nઝીણાં ફોરાં ઝરમર ઝર્યાં, જીવમાં જીવ આવ્યો.\nહાંફી હાંફી વ્યથિત સઘળાં નીડ ઝૂલ્યાં હવામાં\nઆછા હેલે, પરણ પરણે ઊજળો રંગ કાઢ્યો.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "પવન-ડમરી શમી, પહેલાં ફોરાં ઝર્યાં — નીડ અને પર્ણોની પહેલી પ્રતિક્રિયા"
+                }
+              ],
+              "modified_chunk": "પવનની ડમરી (વંટોળ) ધીરે ધીરે શાંત થાય છે અને ઝીણાં ફોરાં (વરસાદનાં ટીપાં) વરસવા લાગે છે — કવિ કહે છે, 'જીવમાં જીવ આવ્યો.' પક્ષીઓના માળા (નીડ) હવામાં હાંફતાં હાંફતાં ઝૂલે છે અને દરેક પાંદડું (પરણ) નવો ઊજળો રંગ ધારણ કરે છે.",
+              "word_count": {
+                "original": 26,
+                "modified": 41
+              },
+              "key_terms": [
+                "ડમરી — ધૂળની ચક્રાકાર વંટોળ",
+                "ઠરીઠામ — શાંત, સ્થિર થયેલું",
+                "વ્યથિત — દુઃખી, પીડિત; અહીં તાપથી હેરાન થયેલાં",
+                "નીડ — પક્ષીનો માળો, આશ્રય",
+                "પરણ — પાંદડું, પાન (તળપદો શબ્દ)"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "રાફડો, તડકો ને ધરાનું નવું રૂપ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "તાતા તાપે ખદખદી રહ્યો રાફડો સાવ ધીરે-\nધીરે ચાલ્યો થડ પર ભીનાં ઝીણી લંગાર લૈને.\nસોને-રૂપે જડિત તડકો ક્યાંક આછો ઢળ્યો, ને\nફૂટું ફૂટું ફરફર થતું રૂપ ખીલ્યું ધરાનું.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "રાફડાની ધીમી ગતિ, સોને-રૂપે તડકો અને ફૂટવા આવેલું ધરાનું રૂપ"
+                }
+              ],
+              "modified_chunk": "કડક તડકામાં રાફડો (કીડીઓનું દર) ધીરે ધીરે ખદખદીને, ભીની ઝીણી હાર (લંગાર) લઈને ઝાડના થડ પર ચડે છે. સોના-રૂપા જેવો તડકો ક્યાંક આછો ઢળી જાય છે અને ધરતીનું રૂપ જાણે ફૂટવા આતુર થઈને ફરફરે છે.",
+              "word_count": {
+                "original": 29,
+                "modified": 35
+              },
+              "key_terms": [
+                "રાફડો — કીડી, ઉધઈ વગેરેનું દર (ઘર)",
+                "ખદખદવું — ધીરે ધીરે ગરમીથી સળવળવું, ઊકળતું હોય એવો અવાજ કરવો",
+                "લંગાર — હાર, કતાર",
+                "જડિત — જડેલું, બેસાડેલું; અહીં તડકો સોના-રૂપા જેવો ચમકતો",
+                "ધરા — ધરતી"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T4",
+              "topic_name": "વગડાનો ટહુકો, સીમનો હરખ ને લોકોનું મિલન",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "ટ્હૌકી ઊઠ્યો તરત વગડો, સીમ સોને ગઈ ત્યાં,\nગાણે-ગાણે હરખ ઊઘલ્યો, ઘૂઘવ્યાં પૂર આઘાં,\nક્યાંથી મ્હોર્યાં સ્મરણ નમણાં, ભાંભર્યાં દૂધ ક્યાંથી,\nક્યાંથી આવ્યાં - મનભર મળ્યાં લોક કાચી ઘડીમાં !",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T4.C4",
+                  "concept_name": "વગડો ટહુકે, સીમ સોને જાય, સ્મરણ મ્હોરે, દૂધ ભાંભરે ને લોકો કાચી ઘડીમાં મળે"
+                }
+              ],
+              "modified_chunk": "વગડો (વેરાન-જંગલ વિસ્તાર) જાણે તરત ટહુકી ઊઠે છે અને સીમ (ખેતરોની આસપાસનો વિસ્તાર) સોનેરી બની જાય છે. દરેક ગીતમાં હરખ (આનંદ) છલકાય છે, જૂનાં સ્મરણો (યાદો) જાગે છે અને દૂધ ભાંભરે એમ લાગે છે — ને લોકો જાણે અચાનક, થોડી પળોમાં, દિલથી ભેગા મળી જાય છે.",
+              "word_count": {
+                "original": 30,
+                "modified": 46
+              },
+              "key_terms": [
+                "વગડો — જંગલ, વેરાન વગડાનો પ્રદેશ",
+                "સીમ — ગામની બહારનો ખેતરોવાળો વિસ્તાર",
+                "ઘૂઘવવું — પૂરની જેમ મોટા અવાજ સાથે ઊભરાવું",
+                "મ્હોરવું — ફૂટવું, ખીલવું; અહીં યાદો તાજી થવી",
+                "નમણાં — સુંદર, રૂપાળાં"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T5",
+              "topic_name": "બધું એનું એ, છતાં જીવમાં જીવ આવ્યો",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S2.T2"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "આઘે-ઓરે, અડખે-પડખે એનું એ સૌ છતાંયે\nફોરાં જ્યાં બે ઝરમર ઝર્યાં, જીવમાં જીવ આવ્યો !\n\n(‘સૂરજ કદાચ ઊગે’માંથી)",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T5.C5",
+                  "concept_name": "ચોટ: આઘે-ઓરે બધું એનું એ, છતાં ફોરાં ઝર્યાં ને જીવમાં જીવ આવ્યો"
+                }
+              ],
+              "modified_chunk": "દૂર-નજીક, આજુબાજુ બધું પહેલાં જેવું જ દેખાય છે, છતાં જ્યાં બે ઝીણાં ફોરાં ઝર્યાં ત્યાં જીવમાં જીવ આવી ગયો. કવિ કહે છે કે બહારથી કંઈ બદલાયેલું ન લાગે, છતાં અંદરથી બધું નવજીવન પામ્યું છે.",
+              "word_count": {
+                "original": 18,
+                "modified": 34
+              },
+              "key_terms": [
+                "આઘે-ઓરે — દૂર અને નજીક",
+                "અડખે-પડખે — આજુબાજુ, ચારેકોર",
+                "છતાંયે — છતાં પણ, તોપણ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "GENRE + UNIT: 01_meta.json diagnoses સૉનેટ with high confidence (active_genre_profiles: ['sonnet.md']) and the chapter's own કૃતિ-પરિચય names both the સોનેટ form and the મંદાક્રાન્તા છંદ. explanation_unit_map.md and sonnet.md agree the unit is ભાવ-ખંડ-wise, 'never couplet-wise', with 'two to four' movements per chapter and the ceiling at four. This file cuts the fourteen printed lines into four ભાવ-ખંડ (M1.S2.T2–T5), not seven couplets and not one single topic — see the line-range rationale below.",
+    "NO [[ભાવ-ખંડ]] MARKERS EXIST IN 00_chapter_normalized.md, and that is correct per sonnet.md itself: 'Where the page prints groups, they are evidence, not the unit' — the seven printed couplets are typesetting, not the boundary, and unlike કડી (marked by refrain shorthand) or ઘટના (marked by scene shifts), a સૉનેટ's ભાવ-ખંડ boundary is a semantic judgement Agent 2 makes by reading the sentence-syntax, not a boundary the rendered page marks for Agent 1 to flag. The chapter carries only [[કવિ-પરિચય]] and [[કૃતિ-પરિચય]] markers before the unmarked verse block, and both are accounted for (folded into M1.S1.T1, see next note) — no marker anywhere is left unaccounted, and no topic is cut where no marker sits for the two markers that do exist.",
+    "LINE-RANGE MAP for Agent 5 (original_chunk stays empty here by mandate, but the cut must be unambiguous): the printed verse runs 14 lines, punctuated with પૂર્ણવિરામ/ઉદ્ગારચિહ્ન at the ends of lines 2, 4, 6, 8, 12 and 14 — every cut below lands exactly on one of those sentence-boundaries, per sonnet.md's 'cut where the syntax closes, not where the line ends'. M1.S2.T2 = lines 1–4 ('વંટોળાતી પવન-ડમરી...' through '...ઊજળો રંગ કાઢ્યો.') — the storm settles, the first drizzle falls and the idiom 'જીવમાં જીવ આવ્યો' is stated once at line 2, then નીડ and પર્ણો react. M1.S2.T3 = lines 5–8 ('તાતા તાપે ખદખદી...' through '...રૂપ ખીલ્યું ધરાનું.') — the રાફડો's slow climb and the તડકાનું સોને-રૂપે settling, ending on ધરાનું ફૂટવા આવેલું રૂપ. M1.S2.T4 = lines 9–12 ('ટ્હૌકી ઊઠ્યો તરત વગડો...' through '...કાચી ઘડીમાં !') — વગડો, સીમ, ગાણાં, પૂર, સ્મરણ, દૂધ and લોકો, the poem's widest collective picture. M1.S2.T5 = lines 13–14 ('આઘે-ઓરે, અડખે-પડખે...' through '...જીવમાં જીવ આવ્યો !') — the ચોટ, alone, exactly as sonnet.md's hard gate requires: 'The last two printed lines appear in the same topic's original_chunk, in order, and that topic is the last verse topic of the chapter,' never merged with the eight or ten lines before it. Read in order, M1.S2.T2 through T5's original_chunk values (once Agent 5 fills them) must reconstruct the printed poem character for character with no gap and no overlap — this is the mechanical test sonnet.md sets for a finished cut. The printed attribution line ('સૂરજ કદાચ ઊગે'માંથી) belongs inside M1.S2.T5's original_chunk, per sonnet.md's 'attribution belongs to the LAST topic' rule.",
+    "WHY FOUR, NOT TWO OR THREE: the four boundaries above are the poem's own sentence-boundaries and also mark four distinct pictures — (T2) birds and leaves' first response, (T3) insects and light readying the earth, (T4) the wild, the field and the people's collective celebration, (T5) the closing paradox — which also walks straight through 01_meta.json's own guiding_question ('વગડો, સીમ અને માણસો — બધામાં કયો બદલાવ આવે છે?'): વગડો and સીમ and લોકો all land inside T4, the topic that most directly answers it. A three-topic cut (merging T2+T3, or T3+T4) was considered and rejected: T3's રાફડો/તડકો pair and T4's વગડો/સીમ/લોકો pair are different scales of the same transformation (small creatures and light, versus the whole landscape and its people) and merging them would bury one picture inside a topic double its length, which is exactly the 'burying under eight earlier lines' failure sonnet.md warns the ચોટ against — the same discipline is kept for the middle topics. One topic for the whole poem (also a legitimate answer per sonnet.md) was rejected because this poem's four sentence-groups are genuinely four separable pictures, not one unbroken move.",
+    "INTRO TOPIC MERGE: 00_chapter_normalized.md carries [[કવિ-પરિચય]] and [[કૃતિ-પરિચય]] as two markers, but per agents/02_structure.md ('Std 10's unlabelled કવિ/લેખક-પરિચય + કૃતિ-પરિચય paragraph is printed for the student and is a CONCEPT topic' — singular) and the precedent already set in output10/ch01/02_structure.json for this exact std-10 book, both markers fold into ONE CONCEPT topic, M1.S1.T1. The two markers are one continuous printed unit at std 10 (an author-bio paragraph immediately followed by a work-intro paragraph, with no separating heading on the page), not two separate reading scenes.",
+    "SHABDA-SAMAJUTI AND EXERCISE APPARATUS ARE NOT TOPICS: everything from [[શબ્દ-સમજૂતી]] onward — the સમાનાર્થી/તળપદા/વિરુદ્ધાર્થી/રૂઢિપ્રયોગ/શબ્દસમૂહ sub-blocks, the four-tier [[સ્વાધ્યાય: ...]] ladder, [[સ્વાધ્યાય: વિદ્યાર્થી-પ્રવૃત્તિ]], [[ભાષા-અભિવ્યક્તિ]] and [[શિક્ષકની ભૂમિકા]] — is apparatus/exercise territory per global_content_rules.md rule 7 and explanation_unit_map.md's apparatus rule, already recorded in 01_meta.json's exercise_inventory. None of it is cut as a topic here; it stays for Agent 10, and feeds key_terms/craft evidence for Agents 5/12 (the ભાષા-અભિવ્યક્તિ box's own repetition-series and 'વગડો ટહુકે ખરો? સ્મરણ મહોરે ખરાં? દૂધ ભાંભરે?' observation is the direct textual evidence behind O4's સજીવારોપણ naming below).",
+    "SAJIVAROPAN IN O4 IS TEXT-GROUNDED, NOT INVENTED: the chapter's own [[ભાષા-અભિવ્યક્તિ]] block asks 'વગડો ટહુકે ખરો? સ્મરણ મહોરે ખરાં? દૂધ ભાંભરે?' — pointing straight at lines 9–12 giving non-living/abstract things (વગડો, સ્મરણ, દૂધ) the actions of living beings. Std 10 permits naming અલંકાર (craft-naming gate, reference/teaching_lens_map.md), so O4 names સજીવારોપણ on this evidence, following the exact shape given in agents/02_structure.md's own std 9–10 example ('...સજીવારોપણ અલંકાર ઓળખાવવો અને એની અસર કહેવી'). No other અલંકાર or છંદ beyond the book's own printed 'મંદાક્રાન્તા' (already recorded in 01_meta.json, not repeated in any objective here) is asserted anywhere in this file.",
+    "DIFFICULTY: M1.S1.T1 is 'easy' — plain prose paragraph, no verse decoding. M1.S2.T2 is 'medium' — the opening imagery is concrete (a settling dust-storm, drizzle, nests, leaves) even though 'વંટોળાતી', 'ઠરીઠામ' and 'થૈ' need conjunct/તળપદા decoding. M1.S2.T3 and M1.S2.T4 are 'hard' — sonnet.md itself calls this the densest verse in the whole pack for an L2 reader, and these two topics carry the thickest concentration of it: compound sound-words ('ખદખદી', 'ફૂટું ફૂટું ફરફર', 'ટ્હૌકી') in T3, and the named-device line (વગડો/સ્મરણ/દૂધ personified) plus a four-line single sentence in T4. M1.S2.T5 is 'medium', not 'hard': its vocabulary (the idiom, 'આઘે-ઓરે', 'અડખે-પડખે') is dvirukt/already-introduced rather than new, even though the concessive paradox it argues is analytically demanding — that demand is carried by O5's Evaluate bloom_level and the recall ladder, never by inflating difficulty for length or exam-weight alone, per agents/02_structure.md's explicit 'exam length alone — a long answer is not a hard scene' caution. All five topics still carry objectives/recall reaching Analyze or Evaluate regardless of difficulty — difficulty is not a Bloom cap.",
+    "DEPENDS_ON: [] everywhere except M1.S2.T5, which lists M1.S2.T2 — per sonnet.md's 'depends_on runs forward, and sparingly... one link, not a chain,' the ચોટ topic is the one place real dependence exists: T5's closing line answers and completes the idiom T2 first states at line 2 ('જીવમાં જીવ આવ્યો'), now returned to after the poem's middle widens outward. M1.S1.T1 (intro) is not listed as a dependency of M1.S2.T2 — following the same reasoning already recorded in output10/ch01/02_structure.json, the poem is a complete, self-standing text; the intro precedes it in reading order (which the segment sequence already captures) without being a real prerequisite for understanding the verse.",
+    "MODULE/SEGMENT SHAPE: one module (chapter is three printed pages holding a single poem, no second large movement to justify M2) with two segments — S1 the pre-reading intro, S2 the poem's four ભાવ-ખંડ — mirroring the shape already used for this same std-10 book in output10/ch01. No third segment or extra module was invented to pad a genuinely short chapter.",
+    "No numbers appear in any module_name, segment_name, topic_name or objective_text; all id/provenance numbering lives in the id fields only, per global_content_rules.md rule 4 and reference/naming_conventions.md.",
+    "original_chunk is left empty on every topic per this agent's mandate — Agent 5 transcribes it from the rendered pages using the line-range map above, not this file."
+  ]
+}

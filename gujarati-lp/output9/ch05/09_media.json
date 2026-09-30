@@ -1,0 +1,62 @@
+{
+  "media": [
+    {
+      "topic_id": "M2.S2.T3",
+      "concept_id": "M2.S2.T3.C3",
+      "id": "M2.S2.T3.C3.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "ઉછીના તેજમાં ઊભેલો ભાયો",
+      "description": "સાંજના ઉજાસમાં એક છોકરો પડોશીના ઘરના તેજ ને પોતાના પડછાયા વચ્ચે ઊભો છે, ને હાથમાં એનું કોડિયું હજુ પ્રગટ્યું નથી.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S2.T3.C3",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "ચિત્ર બતાવતાં પહેલાં પૂછો — આ છોકરાના હાથમાંનું કોડિયું કેમ ઓલવાયેલું છે, ને એના પર પડતું અજવાળું કોનું છે? બાળકો પડોશીના બારણામાંથી આવતા ઉજાસ ને છોકરાના લંબાયેલા પડછાયાની નોંધ લેશે. પછી પંક્તિ 'રખે કદી તું ઉછીનાં લેતો પારકાં તેજ ને છાયા' કડીની સાથે વાંચી બતાવો કે આ તેજ ને પડછાયો પારકાં છે, ને બારણું બંધ થતાં એ ખૂટી જશે. ચિત્રને 'છોકરે ખરેખર દીવો બનવું જોઈએ' એવા શબ્દશઃ અર્થમાં ન સમજાવવું — દીવો અહીં ભીતરની શક્તિનું ચિત્ર છે, હકીકત નહીં.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, any lettering other than the single Gujarati narrator line, numerals anywhere in the picture, motivational poster layout, text banner with a moral, glowing halo or divine aura around the boy",
+      "generation_prompt": "A narrow lane in a Saurashtra village at dusk, low houses roofed with curved clay tiles, a raised stone ઓટલો platform running along the nearest wall, the sky overhead fading from orange to deep blue. A barefoot boy of about fourteen, in a plain half-sleeve shirt and worn shorts, stands just outside a neighbour's open doorway, warm yellow lamplight spilling out from inside and falling across his face and chest, his own long shadow thrown across the dusty lane behind him. In his cupped hands he holds a small clay diya, its wick dry and unlit. Inside the doorway an elderly neighbour's hand is just visible, beginning to pull the door shut, the spilled light narrowing. A neem tree stands at the edge of the frame, its leaves catching the last of the light. The mood is quiet and a little uncertain — light and shadow borrowed from someone else's home, about to be taken back. At the very bottom of the picture a narrow horizontal narrator bar in a soft cream tone carries exactly this Gujarati line, lettered in clean Gujarati script and nothing else: તું તારા દિલનો દીવો થા ને ! . There is no other writing anywhere in the image. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "concept_id": "M2.S2.T4.C4",
+      "id": "M2.S2.T4.C4.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "કોડિયામાં પ્રગટવાની પળ",
+      "description": "ઓટલા પર બેઠેલો છોકરો કાચી માટીના કોડિયામાં તેલ-દીવેલ ભરેલી વાટને એક નાની ઝગતી સળી અડાડવાની અણી પર છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S2.T4.C4",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "ચિત્ર બતાવતાં પૂછો — આ કોડિયામાં શું છુપાયેલું છે, ને સળી હજુ કેમ અડી નથી? બાળકો તેલ, દીવેલ ને સળીની નજીકતા નોંધશે. પછી પંક્તિ 'નાની શી સળી અડી ન અડી પ્રગટશે રંગમાયા!' વાંચી બતાવો કે કોડિયામાં જ તેલ-દીવેલ છુપાયેલાં છે, બહારથી કંઈ ઉમેરવાનું નથી, ફક્ત નાનકડી સળી અડાડવાની જ વાર છે. ચિત્રને ચેપ્ટરની ભાષા-અભિવ્યક્તિની કાયા-કોડિયું ઉપમા સાથે જોડીને સમજાવવું — કોડિયું એ છોકરાની પોતાની કાયા છે, બહારનું કોડિયું નહીં.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, any lettering other than the single Gujarati narrator line, numerals anywhere in the picture, modern matchbox or cigarette lighter, motivational poster layout, text banner with a moral, flame already fully blazing",
+      "generation_prompt": "A raised stone ઓટલો platform outside a Saurashtra village home just after sunset, the sky a deepening indigo, a curved clay-tile roofline and a neem tree visible behind. A barefoot boy of about fourteen, in a plain half-sleeve shirt and worn shorts, sits cross-legged on the ઓટલો, a small rough unfired clay diya of reddish-brown clay resting on his open palm, its inside pooled with dark oil and a thin cotton wick lying half-soaked in it. In his other hand he holds a thin dry twig, its tip glowing with a tiny ember, brought right up to the wick so that the two almost — but not quite — touch; a faint new gleam of light already flickers where they nearly meet. His face is lit from below by that first small point of light, eyes fixed on the wick. The mood is hushed anticipation, the instant just before a small flame catches. At the very bottom of the picture a narrow horizontal narrator bar in a soft cream tone carries exactly this Gujarati line, lettered in clean Gujarati script and nothing else: નાની શી સળી અડી ન અડી પ્રગટશે રંગમાયા! . There is no other writing anywhere in the image. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    },
+    {
+      "topic_id": "M2.S2.T5",
+      "concept_id": "M2.S2.T5.C5",
+      "id": "M2.S2.T5.C5.IMG1",
+      "type": "image",
+      "subtype": "illustration",
+      "title": "વિશાળ આકાશ સામે નાનકડી પ્રગટેલી જ્યોત",
+      "description": "પરોઢના વિશાળ આકાશમાં ચંદ્ર ને તારા હજુ ઝાંખા દેખાય છે ને પૂર્વમાં સૂરજનું તેજ ફૂટે છે, જ્યારે ઓટલા પર બેઠેલો છોકરો પોતાના હાથે પ્રગટાવેલી કોડિયાની નાની જ્યોત તરફ જ જુએ છે.",
+      "image_url": "",
+      "aspect_ratio": "16:9",
+      "home_concept_id": "M2.S2.T5.C5",
+      "objective_id": null,
+      "image_category": "illustration",
+      "teaching_notes": "ચિત્ર બતાવતાં પૂછો — આકાશમાં કેટલું મોટું અજવાળું છે, ને છોકરો કોના તરફ જુએ છે? બાળકો ચંદ્ર-તારા-સૂરજના વિશાળ તેજ સામે છોકરાની નાની જ્યોતનું કદ સરખાવશે. પછી પંક્તિ 'આતમનો તારો દીવો પેટાવવા, તું વિણ સર્વ પરાયા !' પહેલી કડીના 'પારકાં તેજ ને છાયા' સાથે જોડીને વાંચી બતાવો — સૂરજ-ચંદ્ર-તારાનું તેજ ગમે તેટલું મોટું હોય, આતમનો દીવો પ્રગટાવવા માટે એ પણ પરાયું જ છે. ચિત્રને 'આકાશનું તેજ ખરાબ છે' એવા અર્થમાં ન સમજાવવું — ફક્ત એટલું જ કે એ તેજ પોતાનું નથી.",
+      "negative_prompt": "photorealistic faces, anime style, western-only setting, Roman script labels, Devanagari script labels, generic Bollywood styling, north-Indian-only architecture, watermark, blurry, cluttered background, anachronistic objects, any lettering other than the single Gujarati narrator line, numerals anywhere in the picture, sun or moon drawn with a smiling face, motivational poster layout, text banner with a moral, flame extinguished or dim",
+      "generation_prompt": "An early dawn sky over a Saurashtra village, the full moon still hanging low and pale in the western sky with a scatter of fading stars around it, while along the eastern horizon the first golden light of sunrise spreads above a curved clay-tile roofline and a neem tree. On a raised stone ઓટલો platform, a barefoot boy of about fourteen, in a plain half-sleeve shirt and worn shorts, sits with a small rough clay diya cupped in both hands in his lap, its tiny flame now steadily alight and glowing warm orange against the vast pale sky above. He looks down at his own small flame rather than up at the huge moon and brightening horizon, his face calm and settled. The scale of the wide sky and the tiny cupped flame sit side by side in the same frame, the flame the only light his own two hands made. The mood is quiet certainty. At the very bottom of the picture a narrow horizontal narrator bar in a soft cream tone carries exactly this Gujarati line, lettered in clean Gujarati script and nothing else: આતમનો તારો દીવો પેટાવવા, તું વિણ સર્વ પરાયા ! . There is no other writing anywhere in the image. Soft digital watercolour, vibrant textbook illustration style, 16:9."
+    }
+  ],
+  "2d_tool": null,
+  "reuse_report": {
+    "scenes": 3,
+    "reused": 0,
+    "authored": 3,
+    "rejected": []
+  }
+}

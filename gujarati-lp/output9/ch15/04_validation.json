@@ -1,0 +1,46 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "explanation_unit in 02_structure.json ('એક ઘટના (એક પ્રસંગ)') matches 01_meta.json's explanation_unit exactly; genre slug 'nibandh_atmaparak' matches 01_meta.json's active_genre_profiles (['nibandh_atmaparak.md']).",
+        "structure_inventory.kadi/duha/pad/tek_occurrences are all 0 for this prose સંસ્મરણ — the કડી/દુહો/પદ/ટેક sub-checks of Check 1 are not applicable to this chapter; ghatna=13 matches the 13 [[ઘટના: ...]] markers exactly.",
+        "No topic_category is 'climax' anywhere across the 15 topics, matching profiles/genres/nibandh_atmaparak.md avoid-gate #2 ('these chapters have પ્રસંગ, not પ્લોટ'); the thematic peak M4.S6.T14 is tagged 'core' like its neighbours.",
+        "Not a mixed chapter — single genre throughout, so the mixed-chapter rule does not apply.",
+        "Spot-checked the cut and every objective_text against nibandh_atmaparak.md's Avoid list (hard gate): no બોધ/ઉપદેશ closing pattern, no invented interiority for કુતમ્મા/ઐયપ્પા beyond their own quoted words ('તેમના જ શબ્દોમાં' appears repeatedly by design), no dignity violation, no plot-moral framing. Content-dependent avoid items (craft-naming, register-correction, closing-credit placement) cannot be fully checked yet since original_chunk is still empty at this stage — 02_structure.json's own forward notes correctly flag these for Agent 5/12/13."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 15,
+      "topics": 15,
+      "notes": [
+        "All 15 reading-scene markers in 00_chapter_normalized.md — [[લેખક-પરિચય]], [[કૃતિ-પરિચય]] and 13 [[ઘટના: ...]] markers — map one-to-one, in order, to topics M1.S1.T1 through M4.S7.T15. Verified by direct grep line-order comparison against topic_name order in 02_structure.json.",
+        "The pre-reading apparatus (લેખક-પરિચય, કૃતિ-પરિચય) is captured as topics T1-T2; the closing ઉપસંહાર is captured as topic T15 — no in-text wrap is left uncaptured.",
+        "All four exercise_inventory groups from 01_meta.json (MCQ, બે-ત્રણ વાક્યમાં ઉત્તર, સવિસ્તાર ઉત્તર, વિદ્યાર્થી-પ્રવૃત્તિ) cross-checked against every topic_name in 02_structure.json — none became a topic. [[શબ્દ-સમજૂતી]], [[ભાષા-અભિવ્યક્તિ]] and [[શિક્ષકની ભૂમિકા]] (apparatus, not inventoried as exercises per 01_meta.json's own extraction_notes) are also correctly excluded as topics.",
+        "No topic name or concept name references text outside the marker it is paired with; the 1:1 marker-to-topic order rules out any topic covering unclaimed text."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 15,
+      "notes": [
+        "objective_id O1-O15 all unique in the root registry; legacy_id L1-L15 map one-to-one to O1-O15 via strand_to_objective_map, covering every legacy_id exactly once.",
+        "Every home_topic_id and every anchor[] concept id resolves to a real node in the tree (verified pairwise: O1->M1.S1.T1/C1 ... O15->M4.S7.T15/C15).",
+        "Every one of the 15 topics carries objective_ids resolving to the registry, one topic per objective, no orphans either direction.",
+        "Ids match reference/naming_conventions.md: M/S/T run continuous across the whole chapter (M1-M4, S1-S7, T1-T15, no restarts per module/segment); concept ids are chapter-continuous and equal their topic number (Cn = Tn) throughout, per the phase-2 contract's chapter-continuous-c rule; no M1.S1.T1.P1-style objective code appears anywhere; single strand 'L' / ભાષા અને સાહિત્ય used throughout.",
+        "Module/segment/topic names are descriptive Gujarati with no embedded digits (global_content_rules.md rule 4).",
+        "Each objective is grounded in a specific named person, event or quoted line from THIS chapter (કુતમ્મા, ઐયપ્પા, the snake-bite vow, the family-planning line, the gold-versus-education exchange) and could not be pasted into another chapter.",
+        "Non-blocking note: O3's objective_text ('ગામડાંમાં અતિથિ-સત્કારની ભાવના શહેર કરતાં કેમ વધારે મજબૂત...') is grounded in the chapter's own opening ઘટના paragraph but reads slightly more generic than its neighbours — worth a second look at Agent 7's authoring pass, not a structural block.",
+        "Non-blocking note: objectives skew toward Remember/Understand narration of plot events (O4, O5, O6, O9, O10, O11, O13); the teaching_lens's 'પોતાની જાત પરની નજર' half is carried mainly by O7, O12, O14, O15 (Analyze/Evaluate). This is acceptable at the structure stage since applying the lens to the actual prose (naming લેખિકા as grammatical subject, no invented interiority) is Agent 12/13's job per 02_structure.json's own forward notes — flagged here only so Agent 13 keeps an eye on lens balance across the finished explanations."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Single validation pass per reference/loop_protocol.md — no iteration performed, none needed.",
+    "02_structure.json promoted verbatim to 04_converged.json on this pass. Ids (M/S/T/C, O{n}) are now frozen."
+  ]
+}

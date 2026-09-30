@@ -1,0 +1,74 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "The last sentence of `explanation`, of `detailed_summary`, and of every `recall_questions[].answer` on this topic must name a person, object or act that occurs in this topic's `original_chunk` — મીરાંબાઈ, કૃષ્ણ, મોરલી, વૃંદાવન, ગોપી, દર્શન — and not a class of people or a rule of conduct. A closing clause built on સૌએ / હંમેશાં / જીવનમાં / આપણે બધાએ … જોઈએ (e.g. concluding that devotion, or love, or overlooking another's faults, is something everyone should practise) fails the check.",
+          "profile": "pad_bhajan",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `real_life_example`, `concepts[].content` or `recall_questions[].answer` on this topic may state what a religion teaches, assert or deny what કૃષ્ણ is or did beyond what this `original_chunk` reports as મીરાંબાઈની ભક્તિ, rank traditions, or compare this devotion with another's — this topic is the કવિ-પરિચય/કૃતિ-પરિચય block and carries the chapter's clearest opening for a comparative-religion aside.",
+          "profile": "pad_bhajan",
+          "severity": "hard"
+        },
+        {
+          "check": "No claim about મીરાંબાઈ's life in `explanation`, `key_terms`, `concept_bullets` or any `recall_questions[].answer` may go beyond what this topic's `original_chunk` prints (birth in સંવત 1498 near મેડતા/કુડકી in ગુજરાત, era century only — no exact birth or death date, no named guru, no named literary award or movement). Any biographical detail not traceable to this `original_chunk` fails the check.",
+          "profile": "pad_bhajan",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક `ગોપીઓ પાસે કૃષ્ણ દધિનાં દાણ માગે છે તોય ગોપીઓને કૃષ્ણ વહાલો જ લાગે છે` એ વાક્યને પદથી અલગ કરીને એક સામાન્ય નિયમ બનાવી દે છે — 'સાચો પ્રેમ ખામીઓ તરફ આંખ આડા કાન કરે છે, એટલે આપણે પણ એમ કરવું જોઈએ' — અને આ પરિચય-ફકરો ફક્ત આવનારા પદ માટેની ભૂમિકા છે એ ભૂલી જાય છે.",
+      "correction": "explanation એ વાત કૃષ્ણ અને ગોપીઓના આ ચોક્કસ પ્રસંગ સાથે જ જોડેલી રાખે — મોરલી, વૃંદાવન, દાણ, રાસ — અને એને હવે પછી વંચાનારા 'મોરલી' પદનો પરિચય-માત્ર ગણાવે, કોઈ સાર્વત્રિક નિયમ નહીં. `key_terms`માં લીલા અને નિરૂપણ જેવા શબ્દો આ જ પ્રસંગ સાથે ગ્લોસ થાય."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "The last sentence of `explanation`, of `detailed_summary`, and of every `recall_questions[].answer` on this topic must name a person, object or act that occurs in this topic's `original_chunk` — મોરલી, વૃંદાવન, ગિરિધર, દર્શન, નાદ, રાસ — and not a class of people or a rule of conduct. A closing clause of the form સૌએ / હંમેશાં / જીવનમાં / આપણે બધાએ ભક્તિ કરવી જોઈએ fails the check; this is the single most common failure with this સ્વરૂપ.",
+          "profile": "pad_bhajan",
+          "severity": "hard"
+        },
+        {
+          "check": "No `topic_id` and no `concept_id` may hold only the ટેક (`વાગે છે રે વાગે છે, વૃંદાવન મોરલી વાગે છે, / તેનો નાદ ગગનમાં ગાજે છે.`) — it must stay inside M1.S2.T2's single `original_chunk` and concept M1.S2.T2.C2, and the ટેક string must be quoted at least once inside this topic's `explanation`.",
+          "profile": "pad_bhajan",
+          "severity": "hard"
+        },
+        {
+          "check": "The છાપ line `બાઈ મીરાં કે પ્રભુ ગિરિધરના ગુણ, દર્શન થકી દુઃખ ભાંગે છે.` must occur character-for-character inside this topic's `original_chunk`, and must be quoted at least once (as verse, not as an attribution caption) inside `explanation`.",
+          "profile": "pad_bhajan",
+          "severity": "hard"
+        },
+        {
+          "check": "Every quotation of this topic's verse inside `explanation`, `key_terms`, `concept_bullets`, `figures_of_speech[].lines` or `recall_questions[].answer` must match `original_chunk` character for character — `થૈ` stays `થૈ` (never `થઈ`), `મારગ` stays `મારગ` (never `માર્ગ`), `બાઈ મીરાં કે` stays `કે` (never silently glossed to `કહે` inside the quotation itself). No modernisation of the quoted verse anywhere.",
+          "profile": "pad_bhajan",
+          "severity": "hard"
+        },
+        {
+          "check": "No `explanation`, `real_life_example`, `concepts[].content`, `recall_questions[].answer` or exercise answer drawing on this topic may state what a religion teaches, assert or deny what કૃષ્ણ is or did, rank traditions, or compare this ભક્તિ with another tradition's. Teach the પદ's ભાવ and the સંબંધ it depicts, not theology.",
+          "profile": "pad_bhajan",
+          "severity": "hard"
+        },
+        {
+          "check": "No media node on this topic may describe an idol, a halo, a devotional calendar/poster framing, or a worshipper-before-a-shrine tableau; `generation_prompt` must name at least one concrete element from this topic's `original_chunk` (કુંજગલી, મોરલી, પીતાંબર, રાસ) and at least one human relationship or action (the flute heard, the listener stopped mid-step) — never a static devotional portrait.",
+          "profile": "pad_bhajan",
+          "severity": "hard"
+        },
+        {
+          "check": "At most one sentence of `explanation` on this topic may name the emotion abstractly (e.g. 'ભક્તિભાવ', 'પ્રેમ'); the remaining sentences must work through the પદ's own words and images (મોરલી વાગવી, રાસ, પીતાંબર, નાચવું, દર્શન).",
+          "profile": "pad_bhajan",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક આખા પદને 'ભક્તિ કરવી જોઈએ' અથવા 'ઈશ્વર પર શ્રદ્ધા રાખવી જોઈએ' એવા સામાન્ય બોધમાં સંકેલી લે છે અને મોરલીનો અવાજ, રાસ, પીળાં વસ્ત્રો, કુંજગલીમાં નાચ — આ બધી નક્કર છબીઓ તથા મીરાંનો પોતાનો અવાજ (`બાઈ મીરાં કે`) છોડી દે છે.",
+      "correction": "explanation ટેકના પુનરાવર્તનથી શરૂ કરીને પદની પોતાની છબીઓ (મોરલીનો નાદ, રાસ, પીતાંબર, કુંજગલીમાં નાચ) અને છેલ્લે છાપ પંક્તિ (`બાઈ મીરાં કે પ્રભુ ગિરિધરના ગુણ, દર્શન થકી દુઃખ ભાંગે છે.`) સુધી જ પહોંચે — મીરાં પોતે બોલે છે, પોતાનું નામ મૂકે છે, અને એ સાંભળનારનું મન કેમ થંભી જાય છે એ જ સમજાવવાનું છે, નહીં કે ભક્તિ વિશેનો સામાન્ય નિયમ."
+    }
+  ],
+  "chapter_level": [
+    "L2 false friend, evidenced on the page: in the છાપ line `બાઈ મીરાં કે પ્રભુ ગિરિધરના ગુણ...` (M1.S2.T2's original_chunk), a Hindi-reading child takes `કે` for the conjunction 'કે' (that / or) and reads the line as 'મીરાં કહે છે કે પ્રભુ...' were split into two clauses joined by 'or/that', losing that `કે` is the poet's old form of `કહે` and the whole line is મીરાં herself speaking and signing her name. The gloss of `કે — કહે` (or an equivalent point-of-use note) must sit at this exact line wherever the topic quotes it, per pad_bhajan.md's language rules and shabd_gloss.md's point-of-use rule.",
+    "Chapter-wide theology gate: the whole chapter is one ભક્તિ-પદ (M1.S1.T1 the introduction to it, M1.S2.T2 the પદ itself), so the pad_bhajan.md theology/comparative-religion avoid item applies across every field in both topics, every media prompt, and every exercise answer drawn from this chapter — not only inside the પદ's own explanation.",
+    "Chapter-wide biography gate: the only printed biographical facts are in M1.S1.T1's original_chunk and the era line 'મીરાંબાઈ (જન્મ : ઈ.સ. સોળમી સદી)' from 01_meta.json's genre_signals — a century, not a date. No exercise answer, key_term or media caption anywhere in the chapter may add a birth/death date, a guru's name, or a movement/award the page does not print.",
+    "Std 10's own L2 failure mode (profiles/students/std-10.md §1.4, §1.3) — reading વ્યંગ as sincerity, mixing શ્લેષ/યમક, reciting છંદ/અલંકાર labels from memory — does not apply to this chapter: this પદ carries no સ્વાધ્યાય-printed કે registry-covered છંદ or અલંકાર label, and its ભાવ is sincere devotion, not satire. The live error at this standard for this chapter is the craft-layer poster gate above, per pad_bhajan.md's own rule that std 9–10 usually falls to the craft error once the L2 decoding floor (ળ, જોડાક્ષર) is already secure at this grade."
+  ]
+}

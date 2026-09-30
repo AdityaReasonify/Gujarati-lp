@@ -1,0 +1,68 @@
+{
+  "board": "gseb",
+  "grade": 9,
+  "subject": "Gujarati",
+  "level": "standard",
+  "version": 1,
+  "chapter_id": "gseb_eng_gujarati9_ch7",
+  "plan_id": "gseb_eng_gujarati9_ch7_v1",
+  "chapter_name": "નવસર્જનની વાટે",
+  "unit_title": "નવસર્જનની વાટે",
+  "unit_number": 7,
+  "topic_number": null,
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9",
+  "textbook_url": "../Textbooks-pdf/std-9/ch-07-navsarjanni-vate.pdf",
+  "textbook_pages": "30-31",
+  "chapter_master_id": null,
+  "subject_ref_id": null,
+  "genre": "ઊર્મિકાવ્ય-ગીત",
+  "genre_signals": {
+    "structure": "3 કડી (4 / 4 / 7 લીટીની, વૈકલ્પિક લીટીઓ ઇન્ડેન્ટ કરેલી) — સળંગ ટેક 'અમે નૂતન યુગના પ્રવાસી.' દરેક કડીના અંતે અક્ષરશ: પુનરાવર્તિત થાય છે (3 વાર, શબ્દોમાં કોઈ ફેરફાર વિના). કડી 1માં આંતરિક 'અમે પ્રગતિના પંથના પ્રવાસી,' પંક્તિ ટેકનો ભાગ નથી, એક જ વાર આવે છે. કોઈ છાપ નથી; કવિ આધુનિક, નામ અને જન્મ-અવસાનની તારીખો સાથે મુદ્રિત (બાલમુકુન્દ દવે, જન્મ 7-3-1916, અવસાન 28-2-1993) — મધ્યકાલીન ભક્ત નહીં.",
+    "theme": "નવસર્જન, પ્રગતિ અને ઉત્સાહ — આળસ-નિરાશા-વેરઝેર-જૂઠી કીર્તિનો ત્યાગ કરી, નવા યુગના 'પ્રવાસી' બની પૃથ્વી ઉપર જ સ્વર્ગ સર્જવાનો સંકલ્પ. કૃતિ-પરિચય પોતે કહે છે: 'આ પૃથ્વી ઉપર કશુંક નવું, ચિરસ્થાયી રચી જવાનો ઉત્સાહ આ ગીતમાં વ્યક્ત થયો છે.' પ્રથમ-પુરુષ બહુવચન ('અમે') સામૂહિક સંકલ્પનું ગીત છે, પ્રભુને સંબોધાયેલી યાચના નથી.",
+    "exercises": "std 9નો છાપેલો 'સ્વાધ્યાય' બેનર; MCQ (✓ નિશાની) → બે-ત્રણ વાક્યોમાં ઉત્તર → છ-સાત વાક્યોમાં ઉત્તર એ ત્રણ-પગથિયાની સીડી (std 9નું 'એક-એક વાક્યમાં' પગથિયા વગરનું ચોક્કસ સ્વરૂપ). કોઈ ઘટના-ક્રમ ગોઠવવાનો બ્લોક નથી, કોઈ સંવાદ/નાટ્યીકરણ સૂચના નથી — વાર્તા કે નાટકનો સંકેત ગેરહાજર છે. ભાષા-અભિવ્યક્તિ બ્લોક કાવ્યની જ પંક્તિઓ ટાંકીને વર્ણાનુપ્રાસ, વિશેષણ-પ્રયોગ અને લય જેવી કળા નામ દઈને સમજાવે છે — છાપેલા ગીત-કાવ્યનું લાક્ષણિક std 9-10 ચિહ્ન.",
+    "purpose": "ઉત્સાહ જગાડવો અને નવસર્જન માટે પ્રેરવું — એક સામૂહિક સંકલ્પ-ગીત. કૃતિ-પરિચય: 'મોહમાયા ફગાવી, જૂઠી કીર્તિના મોહમાં પડ્યા વગર, આળસ-નિરાશાને હટાવી અજબ આશા અને ઉત્સાહથી આ પૃથ્વી ઉપર જ સ્વર્ગ સર્જવાની નેમ આ ગીતના કેન્દ્રમાં છે.' શિક્ષકની ભૂમિકા બોક્સ પણ એ જ સૂર દોહરાવે છે: 'નવસર્જન કરવાનું કાર્ય કપરું જરૂર હશે પણ અશક્ય નથી... સતત સ્વપ્નદૃષ્ટા બનીને આત્મવિશ્વાસથી કાર્ય કરનારને સફળતા મળે છે.'"
+  },
+  "genre_confidence": "high",
+  "active_genre_profiles": ["urmikavya_geet.md"],
+  "teaching_lens": "ચિત્ર + ભાવ + અલંકાર",
+  "guiding_question": "'નૂતન યુગના પ્રવાસી' બનવા માટે કવિ કઈ કઈ વસ્તુઓ છોડી દેવાનું અને શું નવું સર્જવાનું કહે છે ?",
+  "explanation_unit": "એક કડી",
+  "structure_inventory": {
+    "kadi": 3,
+    "duha": 0,
+    "pad": 0,
+    "ghatna": 0,
+    "tek_occurrences": 3
+  },
+  "exercise_inventory": [
+    {
+      "group": "MCQ",
+      "items": 4,
+      "verbatim_heading": "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો :"
+    },
+    {
+      "group": "બે-ત્રણ વાક્યોમાં ઉત્તર",
+      "items": 1,
+      "verbatim_heading": "બે-ત્રણ વાક્યોમાં ઉત્તર લખો :"
+    },
+    {
+      "group": "છ-સાત વાક્યોમાં ઉત્તર",
+      "items": 1,
+      "verbatim_heading": "નીચેના પ્રશ્નનો છ-સાત વાક્યોમાં ઉત્તર લખો :"
+    }
+  ],
+  "extraction_notes": [
+    "Chapter identity confirmed on the render, never from the filename: page-1 number box '7', title 'નવસર્જનની વાટે', page-footer 'ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9' (checked at 400 dpi after an initial 150 dpi pass looked ambiguous on this digit), printed folio '30' — matches the std-9 ch-7 row in profiles/boards/gseb_gujarati.md and the manifest.json entry (printed_start 30, pdf_start 34, pdf_end 35) exactly.",
+    "Genre confirmed independently from all four diagnosis signals on the rendered page (structure = કડી+ટેક by a named modern poet; theme = પ્રગતિ/ઉત્સાહ; સ્વાધ્યાય = std-9 MCQ+2-3-vaakya+6-7-vaakya ladder typical of a ગીત, plus a craft-naming ભાષા-અભિવ્યક્તિ block; purpose = an inspirational anthem) — agrees with the board profile's prior 'ઊર્મિકાવ્ય-ગીત (પ્રગતિ/ઉત્સાહ ગીત)' and with std-9_inventory.md. No conflict; not a mixed chapter.",
+    "Line-count discrepancy against the prior inventory: reference/corpus/std-9_inventory.md records the third કડી as '8 lines as printed'; my own transcription, cross-checked at 150 dpi, 250 dpi and 400 dpi renders, counts 7 printed lines in that કડી (overall 4/4/7, not 4/4/8). Per genre_diagnosis.md's rule that the rendered page outranks a prior, 00_chapter_normalized.md carries the 7-line version I measured; structure_inventory.kadi stays 3 either way.",
+    "તળપદા શબ્દો box holds exactly one entry ('વાટ — રસ્તો'), confirmed on the render; not a truncation.",
+    "વિદ્યાર્થી-પ્રવૃત્તિ (2 bullets), ભાષા-અભિવ્યક્તિ (3 bullets) and શિક્ષકની ભૂમિકા (intro line + 6 bullets) are teacher/student-addressed apparatus, transcribed verbatim in 00_chapter_normalized.md under their own marker headings; none of the three is part of exercise_inventory or a reading scene, per _genre_index.md item 6 and global_content_rules.md #7.",
+    "શબ્દ-સમજૂતી box (સમાનાર્થી/શબ્દાર્થ, વિરુદ્ધાર્થી, તળપદા શબ્દો) is glossary apparatus, transcribed for downstream gloss use (shabd_gloss.md), not itself a topic or an exercise block.",
+    "The ટેક 'અમે નૂતન યુગના પ્રવાસી.' is printed identically at the close of all three કડી — no wording change across its 3 occurrences, so under urmikavya_geet.md's hard gate it is one topic-worthy refrain, taught once, not re-taught at each occurrence. કડી 1's internal echo line 'અમે પ્રગતિના પંથના પ્રવાસી,' is a separate line (named as craft in the book's own ભાષા-અભિવ્યક્તિ block, 'નૂતન યુગના'/'પ્રગતિ પંથના'ની વિશિષ્ટ ઓળખ) — it appears once only and is not counted in tek_occurrences.",
+    "No છાપ anywhere in the poem; the poet is modern, named and dated throughout — rules out pad_bhajan.md (needs a medieval ભક્ત poet + છાપ) and lok_geet.md (needs the author slot to print 'લોકગીત'/'સંકલિત' with no named poet).",
+    "MCQ item 4 is a negative-stem question ('કઈ બાબત લાગુ પડતી નથી ?') — a trap format, flagged here for Agent 10.",
+    "textbook field follows the printed page-footer title 'ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9' (read off both pages 30 and 31 of this unit), consistent with the sibling output9/ch02 record in this same run; the board profile's 'cover not read yet' caveat is about the actual front-cover spread, which this unit's render does not include, and remains open for whoever verifies it.",
+    "The source PDF is image-only (no text layer); every field above was transcribed directly from pdftoppm renders at 150 dpi, 250 dpi and 400 dpi, not extracted.",
+    "textbook_url is a local path string; there is no hosted URL yet (Agent 11's honest gap, per naming_conventions.md and gseb_gujarati.md)."
+  ]
+}

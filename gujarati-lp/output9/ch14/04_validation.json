@@ -1,0 +1,45 @@
+{
+ "status": "pass",
+ "checks": {
+  "genre_fidelity": {
+   "pass": true,
+   "notes": [
+    "explanation_unit is એક શેર (gazal.md); seven [[શેર N]] markers in 00_chapter_normalized.md are carried by exactly seven POEM topics (M2.S2.T3–T9), one marker per topic, none merged or split.",
+    "No [[ટેક]] marker present and none invented — correct for ગઝલ per gazal.md's hard gate ('no invented ટેક').",
+    "depends_on follows gazal.md's structural override exactly: empty on every શેર topic except the મક્તા (M2.S2.T9), which lists the મત્લા (M2.S2.T3) as the one permitted whole-poem reference (naming the returning રદીફ/કાફિયા). No chain of depends_on down the poem.",
+    "No topic_name or objective_text asserts a running story across શેર (no 'આગળના શેરમાં' / 'ત્યાર પછી' style link); O8 is the sole cross-શેર reference and it names the returning rhyme, which is the one exception gazal.md allows.",
+    "No mood-vocabulary (સાકી, જામ, પ્યાલો, ઇશ્ક, વગેરે) present in the chapter; no form-part (શેર/રદીફ/કાફિયા/મત્લા/મક્તા/તખલ્લુસ) is treated as an અલંકાર at this stage. No profile avoid-list item is violated by the cut or the objectives."
+   ]
+  },
+  "coverage": {
+   "pass": true,
+   "scenes": 9,
+   "topics": 9,
+   "notes": [
+    "All 9 reading-scene markers (કવિ-પરિચય, કૃતિ-પરિચય, શેર 1–7) became exactly one topic each, in printed order.",
+    "The pre-reading opener (કવિ-પરિચય + કૃતિ-પરિચય) is covered as two CONCEPT topics per two separate printed markers.",
+    "No સ્વાધ્યાય block became a topic: all four exercise_inventory entries (MCQ, બે-ત્રણ વાક્યોમાં ઉત્તર, સવિસ્તાર ઉત્તર, વિદ્યાર્થી-પ્રવૃત્તિ) are absent from topic_name/original_chunk plans, cross-checked one-to-one.",
+    "શબ્દ-સમજૂતી, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા correctly stayed out of the topic tree as apparatus/teacher-addressed matter — none is a reading scene."
+   ]
+  },
+  "objectives": {
+   "pass": true,
+   "count": 8,
+   "notes": [
+    "Root objectives[] has 8 unique objective_ids (O1–O8); every home_topic_id and every anchor[] concept id resolves to a node in this tree (programmatically verified).",
+    "strand_to_objective_map covers L1–L8 exactly once, matching each objective's legacy_id one-to-one.",
+    "Every topic carries objective_ids resolving to the registry (O1 shared by the two pre-reading CONCEPT topics; one dedicated objective per શેર topic O2–O8).",
+    "Each objective is text-grounded and chapter-specific: O2–O8 quote this chapter's own printed lines verbatim inside objective_text and could not be pasted into another ગઝલ chapter; O1 names this chapter's own ઈટ્ટા-કિટ્ટા દૃષ્ટાંત.",
+    "Ids match naming_conventions.md: M/S/T/C are dotted and chapter-continuous (t=1..9, c=1..9 matching topic number, s=1,2, m=1,2), no gaps, no M1.S1.T1.P1-style objective code anywhere."
+   ]
+  }
+ },
+ "blocking": [],
+ "owner": null,
+ "notes": [
+  "M1.S1 groups the two pre-reading CONCEPT topics under one shared objective O1 (anchor spans both concepts) rather than one objective per topic — a reasonable modelling choice for a paired કવિ-પરિચય/કૃતિ-પરિચય opener, not a defect.",
+  "All seven શેર topics are held under a single segment M2.S2 rather than split into sub-groups, per gazal.md's explicit instruction that the seven શેર are 'a ring of independent turns' and must not be grouped in a way that implies an arc — correct application of the profile, flagged here only because it departs from this run's own duha_chhappa ch01 precedent (a genre-driven difference, not an inconsistency).",
+  "Agent 2 flagged that the first authored-prose use of શેર/રદીફ/કાફિયા/મત્લા/મક્તા must carry a same-sentence Gujarati gloss (gazal.md) — left for Agent 12's explanation prose; carried forward here as a reminder, not a block.",
+  "original_chunk is empty on every topic at this stage per spec ('Agent 5 fills it') — the marker-to-topic count equality was checked structurally against 00_chapter_normalized.md's markers, and the text-level verbatim/rhyme-word checks (e.g. the રદીફ-in-explanation substring gate) apply once Agent 5/12 populate original_chunk and explanation."
+ ]
+}

@@ -1,0 +1,348 @@
+{
+ "chapter_id": "gseb_eng_gujarati9_ch14",
+ "genre": "gazal",
+ "active_genre_profiles": [
+  "gazal.md"
+ ],
+ "explanation_unit": "એક શેર",
+ "teaching_lens": "શેર + રદીફ-કાફિયા + મિજાજ",
+ "guiding_question": "કવિ પોતાનું ગમેલું બીજાને 'તારું' કરી દેવા અને વારે વારે હારવાનું પસંદ કરવા કેમ કહે છે — 'મારું' જ્યારે 'સહિયારું' બને છે ત્યારે સંબંધમાં શું ઉમેરાય છે ?",
+ "objectives": [
+  {
+   "objective_id": "O1",
+   "legacy_id": "L1",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "કવિ-પરિચય અને કૃતિ-પરિચયના ફકરા પરથી કહેવું કે આ રચના કયા કાવ્યસ્વરૂપની છે અને ઈટ્ટા-કિટ્ટાના રમતના દૃષ્ટાંતથી કવિ કઈ ભાવના તરફ ઈશારો કરે છે.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M1.S1.T1",
+   "anchor": [
+    "M1.S1.T1.C1",
+    "M1.S1.T2.C2"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O2",
+   "legacy_id": "L2",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "પ્રથમ શેરની બંને પંક્તિના છેડે આવતા 'મારું' અને 'તારું' પ્રાસ-શબ્દો ઓળખી, ગમેલી ચીજ બીજાને આપી દેવાની વાત આ પંક્તિઓ કઈ રીતે કહે છે તે સમજાવવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S2.T3",
+   "anchor": [
+    "M2.S2.T3.C3"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O3",
+   "legacy_id": "L3",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "બીજા શેરની 'લાવ, લાવ કરિયે સહિયારું' પંક્તિમાં આવતા દ્વિરુક્ત શબ્દ પરથી કહેવું કે કવિ 'મારું-તારું'ને બદલે શું ઝંખે છે.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S2.T4",
+   "anchor": [
+    "M2.S2.T4.C4"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O4",
+   "legacy_id": "L4",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ત્રીજા શેરની 'તું જીતે ને થાઉં ખુશી હું' પંક્તિ પરથી કહેવું કે કવિ વારે વારે હારવાનું કેમ પસંદ કરે છે અને એમાં કઈ ભાવના છુપાયેલી છે.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S2.T5",
+   "anchor": [
+    "M2.S2.T5.C5"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O5",
+   "legacy_id": "L5",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "ચોથા શેરની 'ઈટ્ટા-કિટ્ટા એક ઘડીના' પંક્તિમાં આવતા બાળ-રમતના દૃષ્ટાંતથી કવિ મારા-તારાના ઝઘડાને કેવો ટૂંકો ગણાવે છે તે સમજાવવું.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S2.T6",
+   "anchor": [
+    "M2.S2.T6.C6"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O6",
+   "legacy_id": "L6",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "પાંચમા શેરની 'થૂ, આંસુ તો લાગે ખારું' પંક્તિ પરથી કહેવું કે આ એક જ શબ્દ કવિનો આંસુ પ્રત્યેનો અણગમો કઈ રીતે વ્યક્ત કરે છે.",
+   "bloom_level": "Analyze",
+   "home_topic_id": "M2.S2.T7",
+   "anchor": [
+    "M2.S2.T7.C7"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O7",
+   "legacy_id": "L7",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "છઠ્ઠા શેરની 'ગીત હોય તો શીદ અબોલા' પંક્તિ પરથી કહેવું કે કવિ રિસાઈને ચૂપ રહેવાને બદલે શું કરવા તૈયાર છે.",
+   "bloom_level": "Understand",
+   "home_topic_id": "M2.S2.T8",
+   "anchor": [
+    "M2.S2.T8.C8"
+   ],
+   "status": "taught",
+   "theme_category": null
+  },
+  {
+   "objective_id": "O8",
+   "legacy_id": "L8",
+   "strand": "L",
+   "strand_name": "ભાષા અને સાહિત્ય",
+   "objective_text": "છેલ્લા શેરની 'મોજ મહીં શું મારું - તારું !' પંક્તિ અને આખી ગઝલમાં વારંવાર પાછા આવતા પ્રાસ-શબ્દો પરથી કહેવું કે આ પુનરાવર્તન કાવ્ય વાંચતાં કેવો અનુભવ કરાવે છે.",
+   "bloom_level": "Evaluate",
+   "home_topic_id": "M2.S2.T9",
+   "anchor": [
+    "M2.S2.T9.C9"
+   ],
+   "status": "taught",
+   "theme_category": null
+  }
+ ],
+ "strand_to_objective_map": {
+  "L1": "O1",
+  "L2": "O2",
+  "L3": "O3",
+  "L4": "O4",
+  "L5": "O5",
+  "L6": "O6",
+  "L7": "O7",
+  "L8": "O8"
+ },
+ "modules": [
+  {
+   "module_id": "M1",
+   "module_name": "કવિ અને ગઝલનો પરિચય",
+   "segments": [
+    {
+     "segment_id": "M1.S1",
+     "segment_name": "રાજેન્દ્ર શુક્લ અને ગઝલ સ્વરૂપની ઓળખાણ",
+     "topics": [
+      {
+       "topic_id": "M1.S1.T1",
+       "topic_name": "કવિ રાજેન્દ્ર શુક્લનો પરિચય",
+       "topic_type": "CONCEPT",
+       "topic_category": "introduction",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O1"
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T1.C1",
+         "concept_name": "કવિ રાજેન્દ્ર શુક્લનો પરિચય"
+        }
+       ],
+       "note": "Marker [[કવિ-પરિચય]]. Prose printed for the student (poet bio paragraph: birth village, works, awards) — CONCEPT per explanation_unit_map.md's kavi-parichay rule; std-9 prints કવિ-પરિચય and કૃતિ-પરિચય as two separate markers on this page (same shape this run used at ch01), so 'one marker, one topic' gives it its own topic. Marked 'medium': proper-noun and title density (જૂનાગઢ, બાંટવા, વઢવાણ, 'કોમલ રિષભ', 'અંતર ગાંધાર', 'ગઝલ સંહિતા', રણજિતરામ સુવર્ણચંદ્રક, સાહિત્ય અકાદમી) is what stops an L2 std-9 reader here, not craft-naming."
+      },
+      {
+       "topic_id": "M1.S1.T2",
+       "topic_name": "ગઝલ સ્વરૂપ અને કૃતિનો પરિચય",
+       "topic_type": "CONCEPT",
+       "topic_category": "introduction",
+       "difficulty": "medium",
+       "depends_on": [
+        "M1.S1.T1"
+       ],
+       "objective_ids": [
+        "O1"
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M1.S1.T2.C2",
+         "concept_name": "ગઝલ સ્વરૂપ અને કૃતિનો પરિચય"
+        }
+       ],
+       "note": "Marker [[કૃતિ-પરિચય]]. Prose printed for the student naming the સ્વરૂપ outright ('આ રચના ગઝલ સ્વરૂપની છે') and stating the ભાવ (સહિયારાપણું, ઈટ્ટા-કિટ્ટાનું બાળ-રમત દૃષ્ટાંત) — kept separate from T1 because the page prints two separate markers; depends_on T1 since the work is introduced after the poet. Marked 'medium': abstract vocabulary (સહિયારાપણાની ભાવના, સ્વાર્થ, મારાપણાથી દૂર રહીને) is the reader-friction here, not craft-naming."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "M2",
+   "module_name": "સહિયારાપણાના સાત શેર",
+   "segments": [
+    {
+     "segment_id": "M2.S2",
+     "segment_name": "મારું-તારુંને સહિયારું બનાવવાના સાત શેર",
+     "topics": [
+      {
+       "topic_id": "M2.S2.T3",
+       "topic_name": "ગમેલી ચીજ બીજાને આપી દેવાની વાત",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "easy",
+       "depends_on": [],
+       "objective_ids": [
+        "O2"
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M2.S2.T3.C3",
+         "concept_name": "ગમેલી ચીજ બીજાને આપી દેવાની વાત"
+        }
+       ],
+       "note": "Marker [[શેર 1]] — the મત્લા: both printed lines carry the same rhyme ('મારું' / 'તારું'), which is where this ગઝલ's કાફિયા-family is introduced (structure_inventory.radif=null in 01_meta.json — this ગઝલ has no રદીફ; the sound alone binds). Per gazal.md's explanation-unit section, depends_on is left EMPTY here even though this follows the પરિચય pair: the profile's rule 'depends_on is empty for every શેર topic except one [which lists the મત્લા]' is a genre-specific hard override of the ordinary pre-reading→first-poem dependency this run's own ch01 used, and it is honoured literally — see the chapter-level note on this. Marked 'easy': plain modern vocabulary, no તળપદા or જોડાક્ષર-dense words."
+      },
+      {
+       "topic_id": "M2.S2.T4",
+       "topic_name": "મારું-તારુંને સહિયારું બનાવવાની ઝંખના",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "easy",
+       "depends_on": [],
+       "objective_ids": [
+        "O3"
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M2.S2.T4.C4",
+         "concept_name": "મારું-તારુંને સહિયારું બનાવવાની ઝંખના"
+        }
+       ],
+       "note": "Marker [[શેર 2]]. Standalone couplet turning 'મારું, તારું ને ગમવું' into 'સહિયારું'; no cross-શેર narrative asserted. depends_on left empty per gazal.md — this is not the one topic reserved for the મત્લા-referencing exception. 'સહિયારું' is glossed on the page in શબ્દ-સમજૂતી. Marked 'easy'."
+      },
+      {
+       "topic_id": "M2.S2.T5",
+       "topic_name": "સામાની જીતમાં પોતાની ખુશીની વાત",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "easy",
+       "depends_on": [],
+       "objective_ids": [
+        "O4"
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M2.S2.T5.C5",
+         "concept_name": "સામાની જીતમાં પોતાની ખુશીની વાત"
+        }
+       ],
+       "note": "Marker [[શેર 3]]. Standalone couplet — the poet's willingness to lose repeatedly so the other side is happy. depends_on empty per gazal.md. Marked 'easy': plain modern vocabulary, no glossed words needed here."
+      },
+      {
+       "topic_id": "M2.S2.T6",
+       "topic_name": "ઈટ્ટા-કિટ્ટાના રમત જેવો ટૂંકો ઝઘડો",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "easy",
+       "depends_on": [],
+       "objective_ids": [
+        "O5"
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M2.S2.T6.C6",
+         "concept_name": "ઈટ્ટા-કિટ્ટાના રમત જેવો ટૂંકો ઝઘડો"
+        }
+       ],
+       "note": "Marker [[શેર 4]]. Standalone couplet — the ઈટ્ટા-કિટ્ટા children's-game comparison ('ઈટ્ટા-કિટ્ટા' transcribed with a long ઈ throughout, per 01_meta.json extraction_notes). depends_on empty per gazal.md. Marked 'easy': the game reference is a shared child-world image, not a reading obstacle."
+      },
+      {
+       "topic_id": "M2.S2.T7",
+       "topic_name": "હસવા-રમવાની મીઠાશ અને આંસુની ખારાશ",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "medium",
+       "depends_on": [],
+       "objective_ids": [
+        "O6"
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M2.S2.T7.C7",
+         "concept_name": "હસવા-રમવાની મીઠાશ અને આંસુની ખારાશ"
+        }
+       ],
+       "note": "Marker [[શેર 5]]. Standalone couplet — the single-syllable 'થૂ' picture and the મીઠું/ખારું contrast (gazal.md's 'one-word picture' emphasis, and the ભાષા-અભિવ્યક્તિ block's own remark on 'થૂ'). depends_on empty per gazal.md. Marked 'medium': 'થૂ' is an unusual printed interjection (glossed page-side under તળપદા શબ્દો as 'અણગમતું થૂંકી નાખવું') that an L2 std-9 reader is likelier to stop on than the surrounding words."
+      },
+      {
+       "topic_id": "M2.S2.T8",
+       "topic_name": "ગીત હોય ત્યાં અબોલા નહીં",
+       "topic_type": "POEM",
+       "topic_category": "core",
+       "difficulty": "easy",
+       "depends_on": [],
+       "objective_ids": [
+        "O7"
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M2.S2.T8.C8",
+         "concept_name": "ગીત હોય ત્યાં અબોલા નહીં"
+        }
+       ],
+       "note": "Marker [[શેર 6]]. Standalone couplet — refusing અબોલા (sulking silence) in favour of singing back and forth ('તું ઝીલી લે, હું લલકારું'). 'શીદ' is glossed page-side as તળપદો શબ્દ. depends_on empty per gazal.md. Marked 'easy': the one તળપદો શબ્દ is already glossed on the page and the sentence shape is simple."
+      },
+      {
+       "topic_id": "M2.S2.T9",
+       "topic_name": "રમકડા જેવી મોજમાં ભૂંસાતું મારું-તારું",
+       "topic_type": "POEM",
+       "topic_category": "resolution",
+       "difficulty": "medium",
+       "depends_on": [
+        "M2.S2.T3"
+       ],
+       "objective_ids": [
+        "O8"
+       ],
+       "original_chunk": "",
+       "concepts": [
+        {
+         "concept_id": "M2.S2.T9.C9",
+         "concept_name": "રમકડા જેવી મોજમાં ભૂંસાતું મારું-તારું"
+        }
+       ],
+       "note": "Marker [[શેર 7]] — the મક્તા (closing શેર). No તખલ્લુસ/છાપ is printed inside it (structure_inventory.chhap_occurrences=0 in 01_meta.json — a measured absence, not a gap to invent). This is the ONE શેર topic gazal.md permits a non-empty depends_on: it lists M2.S2.T3 (the મત્લા) because its own objective (O8) names the પ્રાસ-sound returning across the whole ગઝલ that T3 first introduced — the single legitimate cross-શેર reference the profile allows (naming the return), never a narrative one. The right-aligned source line \"('ગઝલ સંહિતા'માંથી)\" printed after the verse belongs inside THIS (last) topic's original_chunk per gazal.md's attribution-placement rule — flagged for Agent 5. 'ત્યાં લગ' is glossed page-side as તળપદો શબ્દ. Marked 'medium': the તળપદો શબ્દ plus the whole-poem callback the objective asks for is the reader-friction here."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "Marker/topic count: seven [[શેર N]] markers in 00_chapter_normalized.md, each carried by exactly one POEM topic, matching structure_inventory.sher=7 in 01_meta.json; plus two pre-reading CONCEPT topics ([[કવિ-પરિચય]], [[કૃતિ-પરિચય]]) = 9 topics total. No [[ટેક]] marker is present on the page and none was invented, per gazal.md's 'no invented ટેક' gate.",
+  "શબ્દ-સમજૂતી, all four printed exercise-labelled blocks (the (√)-MCQ, બે-ત્રણ વાક્યોમાં ઉત્તર, સવિસ્તાર ઉત્તર, and વિદ્યાર્થી-પ્રવૃત્તિ), plus ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા, are apparatus/exercise matter per global_content_rules.md rule 7 and explanation_unit_map.md's apparatus rule — none cut as topics; they stay for Agent 10 (already inventoried in 01_meta.json's exercise_inventory) and for key_terms/ભાષા-બોધ/rhyme_scheme sourcing at Agent 5/7. ભાષા-અભિવ્યક્તિ's printed પ્રાસ-family and દ્વિરુક્ત-word lists in particular feed rhyme_scheme, not a topic of their own.",
+  "Segmentation: one module for the પરિચય pair (M1.S1, T1–T2) and one module for the seven-શેર reading (M2.S2, T3–T9), the latter held as a SINGLE segment rather than split into sub-groups. gazal.md states the seven શેર 'do not develop... a ring of independent turns around one મિજાજ' — grouping them into multiple segments (e.g. an 'opening'/'middle'/'closing' split) would risk implying a movement or arc this genre explicitly does not carry, so the seven stayed together under one descriptive segment name.",
+  "depends_on: per gazal.md's explanation-unit section, every શેર topic's depends_on is EMPTY except the મક્તા topic (M2.S2.T9), which lists the મત્લા topic (M2.S2.T3) because T9's own objective (O8) is the one legitimate whole-poem/returning-sound reference the profile allows outside a શેર's own couplet. This deliberately departs from this run's own ch01 precedent (a duha_chhappa chapter, where each poem topic chained depends_on to the one before it) because gazal.md explicitly forbids exactly that chain for this genre: 'a chain of depends_on down the poem is the developing argument error wearing a different hat.' Flagged here as a reasoned, genre-driven difference for Agent 4/13, not an oversight.",
+  "Objectives: one shared pre-reading objective (O1) anchors both CONCEPT topics; one objective per શેર topic (O2–O8) gives one sound, text-grounded anchor per reading scene per 02_structure.md §4. O2 (મત્લા) and O8 (મક્તા) sit at Analyze/Evaluate because they are the two શેર the profile treats as structurally special (the કાફિયા is introduced in the first; the whole-poem callback is licensed only in the last); the middle five (O3–O7) stay at Understand/Analyze, reflecting the poem's own stated shape — each શેર is a complete, self-sufficient saying, not a rising ladder — per teaching_lens_map.md's craft-naming note that difficulty/Bloom differences here track reader friction and structural role, never a narrative progression.",
+  "No અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label is named in any objective beyond the std-9-permitted સાહિત્યપ્રકાર tag already fixed at 01_meta.json's genre field (not repeated inside objective_text). 'પ્રાસ-શબ્દો' and 'દ્વિરુક્ત શબ્દ' used in O2/O3/O8's objective_text are this chapter's own printed vocabulary (from its ભાષા-અભિવ્યક્તિ block: 'પ્રાસસભર શબ્દો', 'દ્વિરુક્ત શબ્દો'), not invented craft labels, and are distinct from the genre-structural terms શેર/મત્લા/મક્તા/કાફિયા/રદીફ. 'શેર' is used repeatedly in topic_name/objective_text as the only available word for this genre's two-line unit (parallel to how ch01 used 'છપ્પામાં' without inline gloss); gazal.md requires the FIRST use of શેર/રદીફ/કાફિયા/મત્લા/મક્તા anywhere in the chapter's authored prose to carry a same-sentence Gujarati gloss — that gloss is left to Agent 12's `explanation` prose (the natural home for a full sentence gloss), and is flagged here as a heads-up for that agent rather than attempted inside a 12–30 word objective.",
+  "Genre-profile agreement: 01_meta.json's active_genre_profiles ([gazal.md]) matches the profile loaded for this pass; no disagreement between the rendered page (00_chapter_normalized.md) and the explanation_unit_map.md / gazal.md priors to report. This chapter is one of gazal.md's own two founding measured examples, so profile and page agree by construction.",
+  "original_chunk left empty on every topic per spec: 'original_chunk stays empty; Agent 5 fills it.' No verbatim transcription performed here beyond reading marker boundaries already established in 00_chapter_normalized.md.",
+  "The attribution line \"('ગઝલ સંહિતા'માંથી)\" prints after the verse on the page and belongs inside M2.S2.T9's (the last topic's) original_chunk per gazal.md's attribution-placement rule; flagged in that topic's own note for Agent 5. No તખલ્લુસ/છાપ is printed inside the મક્તા (structure_inventory.chhap_occurrences=0) — a measured absence, not an extraction gap.",
+  "difficulty is set purely on L2 reader friction (તળપદા words, proper nouns, unusual interjections) per teaching_lens_map.md's std 9–10 criterion, never on craft-naming or Bloom ceiling — every topic's objective still reaches Understand/Analyze/Evaluate regardless of its difficulty label. No topic in this short, deliberately playful ગઝલ needed a 'hard' label; the spread runs medium (પરિચય pair; the 'થૂ' શેર; the મક્તા) against easy (the five plain-vocabulary શેર)."
+ ]
+}

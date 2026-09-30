@@ -1,0 +1,50 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "explanation_unit is 'એક પ્રસંગ, અથવા વિચારનો એક વળાંક' (nibandh_atmaparak, સંસ્મરણ sub-form) and structure_inventory shows kadi=0, duha=0, pad=0, tek_occurrences=0, ghatna=9 — so the કડી/દુહો/પદ/ટેક-specific gates in this check are vacuously satisfied; only the ઘટના cut and the avoid list apply.",
+        "9 [[ઘટના: …]] markers in 00_chapter_normalized.md, 9 STORY_TELLING topics, one marker per topic, none merged, none split (verified programmatically against 02_structure.json's source_marker fields).",
+        "No topic_category is 'climax' (categories used: introduction, core, transition, resolution only) — consistent with a સંસ્મરણ having પ્રસંગ, not પ્લોટ, and with global_content_rules.md rule 1's ban on imposing a plot-shaped lesson the text does not carry.",
+        "No objective_text or topic_name moralises the નીતિ-અનીતિ observation in the source text into a બોધ; 01_meta.json's own genre_signals already reads that line as character trait, not moral — consistent with rule 1's 'a humorous passage may not be given a બોધ it does not carry'.",
+        "GAP RECORDED, not guessed past: this agent run's context list did not include profiles/genres/nibandh_atmaparak.md (the active_genre_profiles entry) even though the agent spec lists 'the active genre profile(s)' as an input. The avoid-list sub-check was therefore verified only indirectly — via explanation_unit_map.md's nibandh_atmaparak row (given), global_content_rules.md rule 1 (given), and 02_structure.json's own notes field, which cites specific avoid-list items by number (e.g. 'Avoid item 2', 'hard gate 11', 'profile gate 13') that this agent could not independently open and confirm against the source profile text. No violation is evident in the cut or the objectives, but the profile file itself was not read by this agent — flagged per the run's CONTEXT ROUTING instruction rather than assumed."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 9,
+      "topics": 9,
+      "notes": [
+        "All 9 reading scenes (ઘટના markers) became topics in printed order — programmatic diff of marker list vs topic source_marker list is an exact ordered match.",
+        "Pre-reading opener ([[પ્રવેશપેટી (શિક્ષક માટે — વાચન-દૃશ્ય નથી)]]) is explicitly marked in 00_chapter_normalized.md as teacher-only, not a reading scene — this matches explanation_unit_map.md's own rule that teacher-addressed apparatus (intro box, શબ્દાર્થ box, etc.) is not a topic; correctly has no CONCEPT topic here, unlike a student-facing કવિ/લેખક-પરિચય paragraph elsewhere in the corpus.",
+        "No in-text wrap exists in this chapter (no REVIEW topic) — checked against 00_chapter_normalized.md; the chapter's closing sentence is the essay's own closing gesture, correctly folded into the last topic (M4.S5.T9) rather than pulled out as a separate wrap.",
+        "Every one of 01_meta.json's 14 exercise_inventory entries (શબ્દસમૂહ, રૂઢિપ્રયોગ, વાતચીત, પ્રશ્નોત્તર, પાત્ર-લેખન, મરાઠી-ભાષાંતર, નજીકનો અર્થ, ખરું વાક્ય, જોડકાં જોડો, વાર્તાલેખન, રિબસ, શબ્દ-નિર્માણ, અનુવાદ, સ્ત્રી-પુરુષ નામ) was checked by name against all 9 topic_name strings — no overlap; no સ્વાધ્યાય block became a topic. The ચર્ચા-વિચારણા box ('મારા બાળપણનું તોફાન') is likewise absent from both the topic list and exercise_inventory, consistent with it being apparatus that asks for the child's OWN experience rather than an answer from the text.",
+        "No topic covers text no marker claims — original_chunk is still empty at this stage (Agent 2/structure precedes Agent 5's verbatim fill), so nothing to cross-check there yet; the cut itself (9 markers -> 9 topics, 1:1, in order) leaves no unclaimed span."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 9,
+      "notes": [
+        "Root objectives[] has 9 entries, all objective_id values unique (O1..O9), each with a unique legacy_id (L1..L9) — verified programmatically.",
+        "Hierarchy is dotted and chapter-continuous with no gaps: M1..M4, S1..S5, T1..T9, C1..C10 (M3.S4.T6 alone carries two concepts C6+C7, so the concept counter runs ahead of the topic number from T6 onward, per naming_conventions.md's chapter-continuous rule) — verified by walking the full tree and checking every id against its expected traversal position.",
+        "Every home_topic_id and every anchor[] concept id resolves to a real node in the tree; every topic's objective_ids resolves to the root registry; every topic's depends_on resolves to an earlier topic id in the same tree — all verified programmatically, zero unresolved references.",
+        "strand_to_objective_map covers exactly the 9 legacy_ids, one each, matching the objectives[] legacy_id set exactly (no extra, none missing); single strand 'L' / 'ભાષા અને સાહિત્ય' used throughout, consistent with naming_conventions.md.",
+        "Each objective_text names specific chapter details (દત્તુ, બા, મોડકા માસ્તર, ડોશીમા, ગોંદુ, કેશુ, જામફળ, મરચું, જલેબી and the specific event of each topic) — text-grounded and chapter-specific, could not be pasted into another chapter; each serves the teaching_lens 'સ્વર + પ્રસંગ + પોતાની જાત પરની નજર' (voice, episode, self-observation).",
+        "No digits appear in any topic_name, module_name, segment_name, concept_name, objective_text, guiding_question or teaching_lens (checked by regex across the whole tree) — no 'ઘટના 2'-style numbering in display text, matching global_content_rules.md rule 4.",
+        "No M1.S1.T1.P1-style objective code and no .SR{n} segment-recall id anywhere in the file (grepped) — ids match reference/naming_conventions.md's phase-2 grammar throughout.",
+        "chapter_id 'gseb_eng_gujarati8_ch11' and plan_id 'gseb_eng_gujarati8_ch11_v1' follow the provisional gseb_eng_gujarati{grade}_ch{N} form with no _standard_ segment, consistent with naming_conventions.md (still VERIFY-1-provisional as documented there, not a defect of this file)."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Single pass per reference/loop_protocol.md — no iteration performed, none needed.",
+    "Source of truth used throughout was 00_chapter_normalized.md, 01_meta.json and 02_structure.json; no PNG in _renders was opened — nothing encountered here that the transcription and structure files could not answer.",
+    "profiles/genres/nibandh_atmaparak.md (the active genre profile) was not among the context handed to this agent run despite being a listed input in agents/04_mapping_convergence.md; recorded under checks.genre_fidelity above rather than guessed at. This did not change the verdict: no avoid-list violation is evident anywhere in the cut or the objectives.",
+    "Agent 2's own notes[] in 02_structure.json are unusually thorough (marker parity, apparatus exclusion, the T6 two-concept justification, the T4/T5 boundary flag for Agent 5, depends_on rationale, Marathi/Sanskrit verbatim-preservation note) and were read in full as part of this validation; none of them describe a coverage, fidelity or objective defect — they are documentation of deliberate, text-grounded choices.",
+    "T4/T5 boundary note (the 'ભાગોળ આવી તોપણ અમે ચાલ્યા જતા હતા' sentence arguably belonging to T5) is Agent 2's own flag for Agent 5 at verbatim-cut time, not a coverage or fidelity defect — both placements keep both topics' meaning intact and the marker-to-topic count is unaffected either way, so it is carried forward as a note, not a block."
+  ]
+}

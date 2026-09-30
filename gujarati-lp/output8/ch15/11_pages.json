@@ -1,0 +1,11 @@
+{
+  "textbook": null,
+  "textbook_url": "../Textbooks-pdf/std-8/ch-15-portarna-panjama.pdf",
+  "textbook_pages": "123–132",
+  "source": "printed folio, read off renders page-01.png and page-10.png (pdf pp. 135 and 144 of the chapter PDF): folio 123 on page-01, folio 132 on page-10; counted only across the 10 rendered pages. Cross-check: manifest.json row for ch 15 gives printed_start 123, pdf_start 135, pdf_end 144 (offset 12, matching the std-8 N+12 offset in profiles/boards/gseb_gujarati.md) - arithmetic 123 + (144-135) = 132 agrees with the folio read.",
+  "confidence": "medium",
+  "gaps": [
+    "textbook_url is a local path - the GSEB readers have no hosted URL.",
+    "textbook: 01_meta.json carries textbook as null and profiles/boards/gseb_gujarati.md explicitly flags 'std 8 cover not read yet' - carried forward as null rather than composed from the manifest or filename; confirm against the actual std-8 cover before this field is filled in."
+  ]
+}

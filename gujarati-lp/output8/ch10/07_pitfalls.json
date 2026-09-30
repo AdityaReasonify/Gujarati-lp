@@ -1,0 +1,246 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "M1.S1.T1's explanation must contain the string 'દરિયો' — this poem's રદીફ, printed at the end of both of this શેર's lines ('...હલેસાય દરિયો,' / '...વહી જાય દરિયો.') — named, not paraphrased as 'સમુદ્ર' or 'સાગર'.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of M1.S1.T1's explanation, real_life_example, concept_bullets/important_points or recall_questions[].answer treats this being the opening શેર as license to preview or connect toward the next શેર's ટીપે-ખોબે (ઉમેરાય/ઉલેચાય) picture — no 'આગળ જોઈશું', 'પછીના શેરમાં'. This શેર stands complete on 'હલેસાં', 'હલેસાય' and 'હોડીઓ' alone.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "If M1.S1.T1's explanation or key_terms is the first place anywhere in this chapter's authored prose to use 'શેર' or 'પ્રાસ', that first use must carry a same-sentence Gujarati gloss (e.g. 'શેર એટલે ગઝલની બે પંક્તિનો સ્વતંત્ર એકમ', 'પ્રાસ એટલે પંક્તિને છેડે એકસરખો સંભળાતો અવાજ') — matching the book's own std-8 exercise wording 'પ્રાસવાળા શબ્દો', never the std-10 word 'કાફિયા'.",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક પ્રવેશપેટીના 'દરિયો... વ્યક્તિત્વ પામતો હોય એવું અનુભવાય છે' એ સામાન્ય વાક્યને જ આ શેરનો અર્થ સમજી લે છે, અને 'હલેસાં', 'હલેસાય' અને 'હોડીઓ'નું ખરું ચિત્ર — હલેસાંના ધક્કાથી દરિયો હાલવો, હોડીઓનું વહી જવું — જોવાનું ચૂકી જાય છે.",
+      "correction": "સમજૂતી પ્રવેશપેટીના સામાન્ય વાક્યથી નહીં, પણ સીધી આ શેરના ચિત્રથી શરૂ થવી જોઈએ: પહેલાં હલેસાં-હોડીનું ચિત્ર બતાવવું, અને એ ચિત્ર પરથી જ — એના પુરાવા તરીકે — દરિયો જાણે હાલતો હોય એવી અસર નામ આપવી, ઊલટા ક્રમે નહીં."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "M1.S2.T2's explanation must contain the string 'દરિયો', printed at the end of both lines ('...ટીપે ઉમેરાય દરિયો,' / '...ખોબે ઉલેચાય દરિયો.').",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of M1.S2.T2's explanation, real_life_example, concept_bullets/important_points or recall_questions[].answer links 'ટીપે ઉમેરાય' / 'ખોબે ઉલેચાય' to the first શેરના 'હલેસાં-હોડી' ચિત્ર with a sequencing or causal word ('પ્રથમ શેર પ્રમાણે', 'એ પછી'), and none previews the third શેરના 'જહાજ-ખડક' ચિત્રને.",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'ઉમેરે તો ટીપે ઉમેરાય દરિયો' વાક્યમાં બાળક 'ઉમેરે તો' (શરત) ભાગ છોડીને ફક્ત 'ટીપે ઉમેરાય દરિયો' (પરિણામ) વાંચી લે છે, જાણે એ કોઈ સીધું, બિનશરતી વર્ણન હોય — અને એટલે દરિયો કેટલો વિશાળ છે એ મુદ્દો જ ચૂકી જાય છે.",
+      "correction": "સમજૂતીમાં 'જો-તો'ના બંને ભાગ સાથે રાખવા: તમે ગમે એટલું ઉમેરવા જાવ, દરિયામાં એક ટીપા જેટલો જ ફરક પડે છે — અને ઉલેચવા જાવ તો એક ખોબા જેટલો. આ પરથી દરિયો કેટલો મોટો છે એ સ્પષ્ટ કહેવું."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "M1.S2.T3's explanation must contain the string 'દરિયો', printed at the end of both lines ('...ઘસડાય દરિયો,' / '...અફળાય દરિયો.').",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of M1.S2.T3's explanation, real_life_example, concept_bullets/important_points or recall_questions[].answer links 'જહાજોની સંગાથ ઘસડાય' / 'ખડકોની છાતીથી અફળાય' to the second શેરના 'ટીપે-ખોબે' ચિત્ર ('બીજા શેર પછી', 'હવે'), and none previews the fourth શેરના 'ગુફા-શંખ' ચિત્રને.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "M1.S2.T3's original_chunk keeps 'અફળાય' (root અફળાવું) exactly as printed in the poem — 01_meta.json already logs that exercise item 3.5 quotes this same line with 'અથડાય' (root અથડાવું) instead. No field of M1.S2.T3 may silently switch to the exercise's wording; the exercise's own wording is Agent 10's to handle separately.",
+          "profile": "gazal",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક 'જહાજોની સંગાથ ઘસડાય' અને 'ખડકોની છાતીથી અફળાય' — બંનેને એક જ સપાટ વર્ણન ગણી લે છે, અને એક જ શેરમાં દરિયાનાં બે અલગ અલગ વર્તન (નરમ સાથ અને ઉગ્ર અથડામણ) બતાવ્યાં છે એ ભેદ પકડતું નથી.",
+      "correction": "સમજૂતીમાં બંને ચિત્રો અલગ અલગ બતાવવાં — પહેલી પંક્તિમાં દરિયો જહાજ સાથે નરમાશથી ઘસડાય છે, બીજી પંક્તિમાં એ જ દરિયો ખડક સાથે જોરથી અફળાય છે — અને આ ભેદ જ આ શેરનો મુદ્દો છે એમ કહેવું."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "M2.S3.T4's explanation must contain the string 'દરિયો', printed at the end of both lines ('...પડઘાય દરિયો,' / '...સંભળાય દરિયો.').",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of M2.S3.T4's explanation, real_life_example, concept_bullets/important_points or recall_questions[].answer links 'સમયની ગુફાઓમાં પડઘાય' / 'શંખ કાને... સંભળાય' to the third શેરના 'જહાજ-ખડક' ચિત્ર or previews the fifth શેરના 'તરસ્યો-નદીઓ' ચિત્રને.",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'સમયની ગુફાઓમાં પડઘાય દરિયો' વાક્યને બાળક કોઈ ખરેખરની, ભૌગોલિક ગુફા સમજી લે છે, જાણે દરિયાનો અવાજ કોઈ ચોક્કસ ગુફામાં જઈને ટકરાય છે — અને કવિની કલ્પના (દરિયાનો અવાજ સમય જેટલો જૂનો ને ઊંડો છે) ચૂકી જાય છે.",
+      "correction": "સમજૂતીમાં કહેવું કે 'સમયની ગુફાઓ' કોઈ ખરી જગ્યા નથી, એ તો કલ્પના છે — દરિયાનો ઘુઘવાટ એટલો ઊંડો ને જૂનો લાગે છે કે જાણે સમય પોતે જ એક ગુફા હોય ને એમાં એ પડઘાય. પછી શંખની રોજિંદી, જાણીતી વાત સાથે એને જોડવું."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "M2.S3.T5's explanation must contain the string 'દરિયો', printed at the end of both lines ('...કદી થાય દરિયો,' / '...પી જાય દરિયો.').",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of M2.S3.T5's explanation, real_life_example, concept_bullets/important_points or recall_questions[].answer links 'તરસ્યો... નદીઓની નદીઓને પી જાય' to the fourth શેરના 'ગુફા-શંખ' ચિત્ર or previews the sixth શેરના 'બુંદ-બાષ્પ' ચિત્રને.",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'નદીઓની નદીઓ' શબ્દ-પુનરાવર્તનને બાળક કોઈ છાપાની ભૂલ કે વિચિત્ર શબ્દ-જોડ સમજી લે છે, અને એ પુનરાવર્તનથી કવિ 'ઘણી બધી નદીઓ' (પુષ્કળતા) બતાવે છે એ સમજતું નથી — એટલે દરિયાની તાકાત કેટલી મોટી બતાવી છે એ મુદ્દો નબળો પડે છે.",
+      "correction": "સમજૂતીમાં 'નદીઓની નદીઓ'ને 'ઘરે ઘરે' જેવા બીજા જાણીતા પુનરાવર્તન-શબ્દો સાથે સરખાવીને બતાવવું કે આમ કહેવાથી 'ઘણી બધી નદીઓ' એવો અર્થ નીકળે છે, અને એ પરથી દરિયો તરસ્યો થાય તો કેટલો પી શકે એ તાકાત બતાવવી."
+    },
+    {
+      "topic_id": "M2.S4.T6",
+      "avoid_checks": [
+        {
+          "check": "M2.S4.T6's explanation must contain the string 'દરિયો', printed at the end of this શેર's second line ('...ઊડી જાય દરિયો.').",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of M2.S4.T6's explanation, real_life_example, concept_bullets/important_points or recall_questions[].answer links 'બુંદ રૂપે ટપકતો' / 'બાષ્પ થઈને ઊડી જાય' to the fifth શેરના 'તરસ્યો' ચિત્ર (e.g. 'તરસ છિપાવ્યા પછી બાષ્પ બને છે') or previews the seventh શેરના 'રણ' ચિત્રને.",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'બુંદ રૂપે ટપકવું' અને 'બાષ્પ થઈને ઊડવું'ને બે અલગ, ન સંકળાયેલી ઘટના સમજી લે છે, અને દરિયાનું પાણી બાષ્પ બનીને ઊડે છે ને પછી ટીપાં રૂપે પાછું પડે છે — એ ચક્ર (વરસાદનું વિજ્ઞાન) જોડતું નથી.",
+      "correction": "સમજૂતીમાં બંને પંક્તિને એક જ પાણીના બે રૂપ તરીકે બતાવવી — દરિયાનું પાણી બાષ્પ બનીને આકાશમાં જાય છે અને ટીપાં રૂપે પાછું પડે છે; આમ દરિયો ક્યારેય એક જ રૂપમાં રહેતો નથી એમ કહેવું, કોઈ કારણ-પરિણામ ક્રમ વગર."
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "M2.S4.T7's explanation must contain the string 'દરિયો', printed at the end of this શેર's second line ('...ડોકાય દરિયો.').",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of M2.S4.T7's explanation, real_life_example, concept_bullets/important_points or recall_questions[].answer links 'રણ સમંદરના દિલમાં વિસ્તરે' / 'રણની આંખોમાં ડોકાય' to the sixth શેરના 'બુંદ-બાષ્પ' ચિત્ર (e.g. 'બાષ્પ થઈને ઊડ્યા પછી રણમાં પહોંચે છે') or previews the eighth શેરના 'ફીણ-ઉંડાણ' ચિત્રને.",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "ગુજરાતનું બાળક 'રણ સમંદરના દિલમાં વિસ્તરે' અને 'રણની આંખોમાં ડોકાય દરિયો' વાંચીને એને કચ્છના રણ અને દરિયા વિશેની ખરી ભૂગોળની હકીકત સમજી લે એવી શક્યતા છે (ગુજરાતમાં ખરેખર રણ ને દરિયો પાસપાસે છે), જ્યારે અહીં કવિ પોતાની કલ્પનાનું ચિત્ર દોરે છે, નકશા પરની હકીકત નહીં.",
+      "correction": "સમજૂતીમાં સ્પષ્ટ કહેવું કે આ કવિની કલ્પના છે — રણ અને દરિયો જાણે એકબીજામાં ડોકિયાં કરતાં હોય એવું દૃશ્ય, ખરી ભૂગોળનું વર્ણન નહીં — અને પછી ઇચ્છા હોય તો બાળકે પોતે જોયેલા રણ કે દરિયાની યાદ સાથે (એક જ ઉદાહરણ) જોડવું."
+    },
+    {
+      "topic_id": "M2.S4.T8",
+      "avoid_checks": [
+        {
+          "check": "M2.S4.T8's explanation must contain the string 'દરિયો', printed at the end of this શેર's second line ('...નહાય દરિયો.').",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of M2.S4.T8's explanation, real_life_example, concept_bullets/important_points or recall_questions[].answer links 'કિનારા સુધી ફીણ આવે' / 'ઉંડાણમાં નહાય' to the seventh શેરના 'રણ' ચિત્ર or previews the ninth શેરના 'વગોવાય' ચિત્રને.",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક કિનારે આવતા 'ફીણ'ને જ આખો દરિયો સમજી લે છે, અને દરિયો પોતે તો ક્યાંક દૂર ઊંડાણમાં જ રહે છે — કિનારેથી દેખાય છે એ તો દરિયાનું માત્ર ઉપરનું, નાનું રૂપ છે — એ ભેદ ચૂકી જાય છે.",
+      "correction": "સમજૂતીમાં બંને પંક્તિનો ભેદ સ્પષ્ટ બતાવવો: કિનારા સુધી તો માત્ર ફીણ આવે છે, દરિયો પોતે દૂર ઊંડાણમાં જ રહે છે — એટલે કિનારેથી દેખાય છે એ આખા દરિયાનો બહુ નાનો ભાગ છે એમ કહેવું."
+    },
+    {
+      "topic_id": "M3.S5.T9",
+      "avoid_checks": [
+        {
+          "check": "M3.S5.T9's explanation must contain the string 'દરિયો', printed at the end of this શેર's second line ('...વગોવાય દરિયો.').",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of M3.S5.T9's explanation, real_life_example, concept_bullets/important_points or recall_questions[].answer links 'ડૂબનારાને ન રોકી શકે' / 'નકામો વગોવાય' to the eighth શેરના 'ફીણ-ઉંડાણ' ચિત્ર, and none previews the tenth શેરના 'સંતાય' ચિત્રને with a causal word (e.g. 'વગોવાય છે એટલે સંતાય છે').",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'જગતમાં નકામો વગોવાય દરિયો' વાંચીને એને કવિનો પોતાનો ચુકાદો સમજી લે છે — જાણે કવિ પણ કહે છે કે દરિયો ખરેખર નકામો છે — અને એ ચૂકી જાય છે કે આ તો લોકો શું કહે છે એની વાત છે, જ્યારે ડૂબનારને ન રોકી શકવું એ દરિયાના હાથમાં જ નથી.",
+      "correction": "સમજૂતીમાં બતાવવું કે આ પંક્તિ લોકોના (અન્યાયી) આરોપની વાત કરે છે, કવિના પોતાના ચુકાદાની નહીં — દરિયો ડૂબનારને રોકી શકતો નથી એટલા માત્રથી એને 'નકામો' કહેવો વાજબી છે કે નહીં એ બાળકને પોતાને પૂછવું."
+    },
+    {
+      "topic_id": "M3.S5.T10",
+      "avoid_checks": [
+        {
+          "check": "M3.S5.T10's explanation must contain the string 'દરિયો', printed at the end of this શેર's single printed line ('...સંતાય દરિયો.').",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of M3.S5.T10's explanation, real_life_example, concept_bullets/important_points or recall_questions[].answer causally links 'નકામો વગોવાય' (ninth શેર) to 'સૂર્યકિરણો સતાવે... સંતાય' (this શેર) — as though the sea hides out of shame at being maligned. This શેર's own cause for સંતાવું is only 'સૂર્યકિરણો'; the ninth શેરની વગોવણી is a separate, independent shER. None previews the eleventh શેરના 'ક્ષિતિજ' ચિત્રને either.",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક નવમા શેરની 'નકામો વગોવાય' વાત અને આ શેરના 'સંતાય' (સંતાવું)ને જોડી દઈને એવું સમજી લે છે કે દરિયો વગોવણીથી શરમાઈને સંતાય છે, જ્યારે આ શેરમાં સંતાવાનું કારણ સ્પષ્ટ ફક્ત 'સૂર્યકિરણો' છે — બંને શેર સાવ સ્વતંત્ર છે.",
+      "correction": "સમજૂતીમાં ફક્ત આ શેરના પોતાના શબ્દોથી કારણ બતાવવું — સૂર્યકિરણો સતાવે છે એટલે દરિયો કિનારાની રેતીમાં દોડીને સંતાય છે — અને પાછલા શેરની વગોવણી સાથે કોઈ સંબંધ ન બાંધવો."
+    },
+    {
+      "topic_id": "M3.S6.T11",
+      "avoid_checks": [
+        {
+          "check": "M3.S6.T11's explanation must contain the string 'દરિયો', printed at the end of this શેર's second line ('...ભળી જાય દરિયો.').",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of M3.S6.T11's explanation, real_life_example, concept_bullets/important_points or recall_questions[].answer links 'ક્ષિતિજ તરફ જુઓ... ગગનમાં ભળી જાય' to the tenth શેરના 'સંતાય' ચિત્ર, or asserts a causal link forward to the twelfth (મક્તા) શેરના 'ન પકડાય' ચિત્ર (e.g. 'ગગનમાં ભળી જાય એટલે જ પકડાતો નથી') — the only permitted forward reference is naming that 'દરિયો' returns there too, with no causal claim.",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "'ગગનમાં ભળી જાય દરિયો' વાંચીને બાળક એમ સમજી લે છે કે દરિયો અને આકાશ ખરેખર એક જ પદાર્થમાં ભળી જાય છે, જ્યારે ક્ષિતિજ તો — શબ્દાર્થ પ્રમાણે જ — 'કલ્પિત રેખા' છે, એટલે કે દૂરથી એવું માત્ર દેખાય છે, ખરેખર ભળતું નથી.",
+      "correction": "સમજૂતીમાં ક્ષિતિજને 'કલ્પિત રેખા' તરીકે જ ઓળખાવવી અને કહેવું કે દૂરથી જોતાં દરિયો ને આકાશ ભળી ગયા હોય એવું ફક્ત દેખાય છે — આંખને લાગે છે, ખરેખર બનતું નથી — અને આ દૃશ્યથી દરિયો કેટલો વિશાળ છે એ બતાવવું."
+    },
+    {
+      "topic_id": "M3.S6.T12",
+      "avoid_checks": [
+        {
+          "check": "M3.S6.T12's explanation must contain the string 'દરિયો', printed at the end of this શેર's second line ('...ન પકડાય દરિયો.').",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of M3.S6.T12's explanation, summary, brief_summary, detailed_summary or recall_questions[].answer claims 'કદીયે ન પકડાય દરિયો' is the RESULT or conclusion of what the eleven earlier શેર showed (e.g. 'દરિયો આટલો બધો ફર્યો — ટીપે ઉમેરાયો, ગુફામાં પડઘાયો, રણમાં ડોકાયો — એટલે છેવટે એ પકડાતો નથી'). The only permitted cross-શેર reference is naming that 'દરિયો' — this poem's returning word — closes this, the last, શેર too, exactly as gazal.md permits for the મક્તા alone.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "'આદિલ' stays inside M3.S6.T12's original_chunk exactly as printed — single-quoted, inside the first line ('તમે જાળ નાખ્યા કરો રોજ 'આદિલ','), never moved into an attribution/byline field, never expanded to 'આદિલ મન્સૂરી' inside original_chunk, and never described as a printing anomaly. Conversely the separately printed byline '- આદિલ મન્સૂરી' and any source line are not treated as part of this શેરના argument.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "M3.S6.T12's explanation or key_terms glosses 'કદીયે' as the emphatic તળપદું form of 'કદી' (as key_terms already states: ''કદીયે — ક્યારેય પણ; 'કદી'નું ભારયુક્ત તળપદું રૂપ''), and no field silently 'corrects' the printed word to 'ક્યારેય' or 'કદી', or calls it non-standard.",
+          "profile": "gazal",
+          "severity": "hard"
+        },
+        {
+          "check": "The word 'તખલ્લુસ' — already used inside M3.S6.T12's key_terms (''આદિલ' — કવિનું તખલ્લુસ...') — must carry its Gujarati gloss at its first appearance anywhere in the chapter's authored prose. Since M3.S6.T12 is the only topic where 'આદિલ' occurs, it is also the chapter's first and only legitimate place to introduce 'તખલ્લુસ.'",
+          "profile": "gazal",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક છેલ્લા શેરના 'કદીયે ન પકડાય દરિયો'ને આખી ગઝલનો બોધ/સાર સમજી લે છે — જાણે અગિયાર શેરમાં બતાવેલી દરેક વાત (ટીપે ઉમેરાવું, ગુફામાં પડઘાવું, રણમાં ડોકાવું...) છેવટે આ એક 'પાઠ' તરફ દોરી જાય છે — જ્યારે આ શેર પણ બીજા બધા શેર જેટલો જ સ્વતંત્ર છે, ફક્ત છેલ્લો છે.",
+      "correction": "સમજૂતીમાં આ શેરને એક પોતાનું, પૂરું ચિત્ર તરીકે જ સમજાવવું — કવિ પોતે 'આદિલ' કહીને પોતાની જાતને સંબોધે છે અને કહે છે કે રોજ જાળ નાખો તોય દરિયો પકડાતો નથી — અને એટલું જ ઉમેરવું કે 'દરિયો' શબ્દ છેલ્લે અહીં પણ પાછો આવે છે, જેમ દરેક શેરમાં આવ્યો હતો; આખી ગઝલનો કોઈ સામાન્ય 'બોધ' કાઢવો નહીં."
+    }
+  ],
+  "chapter_level": [
+    "Mood-vocabulary gate (gazal.md's Avoid list) is checked and inapplicable to this chapter: none of સાકી, જામ, પ્યાલો, મયખાનું, શરાબ, મદિરા, ઇશ્ક, મહેબૂબ, વિરહ, દર્દ, જખમ, કત્લ occurs anywhere in the twelve topics' original_chunk. No such word may be introduced by Agent 12 into any authored field; the gate binds forward, not backward.",
+    "No invented ટેક. No [[ટેક]] marker exists in 00_chapter_normalized.md for this ગઝલ; no authored field (explanation, key_terms, summary, recall) may call any of the twelve શેરની lines a ટેક or ધ્રુવપંક્તિ — the printed 'દરિયો' is a line-ending રદીફ, not a refrain.",
+    "No form-part named as an અલંકાર. In every topic's figures_of_speech[], device must never be રદીફ, કાફિયા, મત્લા, મક્તા, તખલ્લુસ, છાપ, પ્રાસ or ગઝલ. A real અલંકાર may be named only if its lines string appears character-for-character in that topic's own original_chunk; otherwise figures_of_speech: [] is correct for all twelve topics — std 8's own craft-label ceiling (profiles/students/std-8.md: no અલંકાર/છંદ/સમાસ labels) means [] is the expected default throughout.",
+    "Exercise-embedded poems are never chapter text. The lines quoted under 'કાવ્યપંક્તિનો અર્થ સમજી પ્રશ્નોના જવાબ લખો' (રજની મહેતા), the સુંદરમ્ પઠન/ગાન block ('દરિયાને તીર એક ટટળે ટિટોડી...' / 'દરિયાને તીર એક રેતીની ઓટલી'), and the 'આ કાવ્યપંક્તિનો અર્થ સમજાવો...' block (સુરેશ દલાલ) must never appear inside any of the twelve topics' original_chunk, figures_of_speech[].lines, explanation, or recall_questions — they belong to Agent 10's exercise_solutions.json alone.",
+    "Never romanticise — a standing caution, not currently invited by any topic's content. No real_life_example, explanation or recall answer may place a std-8 child in an adult romantic or intoxication scene, and none of drinking, longing for a beloved, or self-harm may be presented as beautiful or admirable. This chapter's own imagery (oars, drops, caves, deserts, foam, being maligned, hiding from the sun, the horizon) gives no occasion to need this gate, and Agent 12 should not import one.",
+    "No numbers in display text. explanation, topic_name, summaries, concept_bullets/important_points and recall prompts/answers use ordinal words only (પહેલી, બીજી, ત્રીજી … છેલ્લી શેર/પંક્તિઓ), never 'શેર 2માં' or a bare numeral — numbers live only in ids (M2.S4.T7 etc.) and provenance fields.",
+    "Un-glossed form-words. The first appearance anywhere in this chapter's authored prose of શેર, રદીફ, કાફિયા, મત્લા, મક્તા or તખલ્લુસ must carry a same-sentence Gujarati gloss. gazal.md's instruction to 'use the form-words' most naturally lands at M1.S1.T1 (if 'શેર' or 'પ્રાસ' is introduced, matching the book's own exercise wording 'પ્રાસવાળા શબ્દો') and at M3.S6.T12 (તખલ્લુસ, the only topic carrying 'આદિલ' — already glossed in that topic's key_terms as of 05_with_content.json, and must stay glossed through Agent 12's pass). Extra caution: 'શેર' is also the everyday Gujarati/Hindi word for lion/tiger (સિંહ, વાઘ) — a genuine homophone risk for an L2 reader if the couplet-sense is left unglossed, even though 'શેર' itself never appears in this chapter's printed original_chunk.",
+    "Sensitivity / આગત layer. ગઝલ and શેર are ફારસી-અરબી loanwords, ordinary and centuries-old in Gujarati; no explanation, real_life_example or recall answer may turn the poem's form, vocabulary or આદિલ મન્સૂરીના નામને community or religion વિશેનું વિધાન — no comparative-religion turn, per agents/08_sensitivity_safety.md and gazal.md's own Sensitivity prior.",
+    "At most one whole-poem recall question in the entire chapter (gazal.md's recall-priors), and its home is M3.S6.T12's third recall question, on the returning 'દરિયો'. A second whole-poem question anywhere else — most temptingly at M1.S1.T1 (the મત્લા, where રદીફ is first introduced) or restated within M3.S6.T12 itself as an added 'ગઝલનો સાર' question — is the running-story error entering through the recall ladder; M3.S6.T12 is the topic most likely to collapse this way (see its own misconception/correction above).",
+    "Module/segment names are a thematic grouping by shared imagery (M1: human effort and the sea's reply; M2: the sea's changing forms and reach; M3: hiding, merging, never being caught), never a narrative sequence — 05_with_content.json's own generation notes flag this as an open watch-item for Agent 13's cross-શેર language check. No explanation, summary or recall answer may read a module or segment as 'first X happens, then Y follows.'",
+    "Genre confirmed high-confidence ગઝલ (01_meta.json) with active_genre_profiles ['gazal.md'] and no ટેક anywhere; there is no mixed-genre boundary to draw in this chapter, so gazal.md's avoid-list applies to all twelve topics uniformly, with no chapter-part exception needed."
+  ]
+}

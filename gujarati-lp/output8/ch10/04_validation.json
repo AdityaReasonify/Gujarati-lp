@@ -1,0 +1,44 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "explanation_unit_map.md's ગઝલ row (a doc supplied to this run) names the unit 'શેર-wise | one શેર', names the મક્તા as its own topic, and cites this exact chapter as its measured example ('std-8 ch 10 હલેસે હલેસે, છાપ 'આદિલ''). 02_structure.json's cut matches this exactly: 12 [[શેર …]] markers in 00_chapter_normalized.md == 12 topics, one-to-one, T12 is the મક્તા carrying છાપ 'આદિલ'.",
+        "01_meta.json's genre_signals records tek_occurrences: 0 and 'ક્યાંય ટેક કે કડી-પુનરાવર્તન નથી' — the ટેક-repetition rule (topic at each changed occurrence) does not apply to this chapter; verified vacuously true.",
+        "Not a mixed chapter (single ગઝલ genre throughout); the દુહો/પદ-splitting rules do not apply to this સ્વરૂપ.",
+        "GAP under CONTEXT ROUTING: this run's 'READ THESE' list did not include profiles/genres/gazal.md, the active genre profile itself, though the agent spec lists 'the active genre profile(s)' as a required input. Per the run's context-routing instruction, this gap is flagged rather than guessed at — gazal.md's own avoid list was not read directly by this agent. In its place: (a) explanation_unit_map.md (supplied) independently confirms the shape as above; (b) an independent grep of every topic_name/objective_text/module_name/segment_name/concept_name in 02_structure.json found zero literal Arabic digits and zero occurrences of the craft-label words ગઝલ, શેર, રદીફ, કાફિયા, મત્લા, મક્તા, તખલ્લુસ, અલંકાર, છંદ, સમાસ — matching the ceiling A2's own notes claim to have honoured. No evidence of an avoid-list violation was found; the only gap is that the primary profile document was not independently read this pass."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 12,
+      "topics": 12,
+      "notes": [
+        "All 12 [[શેર …]] reading markers in 00_chapter_normalized.md became topics in the same order (T1..T12, verified programmatically: topic and segment numbering is continuous 1..12 and 1..6 respectively).",
+        "No pre-reading opener topic exists, correctly: 01_meta.json states no કવિ-પરિચય/કૃતિ-પરિચય box is printed for this std-8 chapter, only the પ્રવેશપેટી, which explanation_unit_map.md classifies as teacher-addressed apparatus (not a student reading passage) when no student-facing intro paragraph is printed. No in-text wrap/REVIEW topic exists and none is needed (no summary paragraph appears mid-chapter).",
+        "All 12 [[સ્વાધ્યાય: …]] markers in the source (matching all 12 exercise_inventory groups in 01_meta.json, one-to-one) were excluded from the topic cut per 02_structure.json's marker_accounting.markers_deliberately_not_cut_as_topics. Zero સ્વાધ્યાય topics. શબ્દાર્થ and ચર્ચા-વિચારણા were likewise correctly excluded as apparatus.",
+        "Every topic's source_marker resolves to an actual marker present in 00_chapter_normalized.md; no topic covers unmarked text."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 12,
+      "notes": [
+        "Root objectives[] holds 12 unique objective_id values O1..O12; every home_topic_id and every anchor[] concept id resolves to an actual node in the modules tree (verified programmatically, zero mismatches).",
+        "strand_to_objective_map covers legacy ids L1..L12 exactly once, matching the 12 objectives one-to-one.",
+        "Every topic carries objective_ids that resolve to the root registry; one objective per topic throughout.",
+        "Id grammar verified against naming_conventions.md: M/S/T numbering is dotted and chapter-continuous (segments 1..6 never restart per module; topics 1..12 never restart per segment); concept numbering is chapter-continuous and equals its topic's number in every case (C1..C12 against T1..T12); no M1.S1.T1.P1-style code anywhere.",
+        "Each objective_text is grounded in a specific, distinct chapter image (હલેસાં-પુનરાવર્તન, ટીપે/ખોબે, જહાજ/ખડક, ગુફા/શંખ, તરસ્યો દરિયો, બુંદ/બાષ્પ, રણના દિલમાં/આંખોમાં, ફીણ/ઉંડાણ, વગોવાટ, સૂર્યકિરણોથી સંતાવું, ક્ષિતિજમાં ભળવું, 'આદિલ'ની જાળ) and could not be pasted into another chapter; O12 is the one legitimate whole-poem (રદીફ-repetition) reference, placed correctly at the મક્તા."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Single validation pass per loop_protocol.md — no iteration performed.",
+    "Source of truth used throughout: output8/ch10/00_chapter_normalized.md (per run instructions); no page render in _renders/ was opened, none was needed to resolve any question in this check.",
+    "profiles/genres/gazal.md exists on disk but was not part of this run's supplied policy documents despite being named as an input by the agent spec ('the active genre profile(s)'); flagged under checks.genre_fidelity rather than read directly, per the run's context-routing instruction. This did not block the pass: every check computable from the supplied documents (explanation_unit_map.md, naming_conventions.md, phase2_contract.md, global_content_rules.md, no_hallucination_policy.md) and from direct inspection of 00_chapter_normalized.md / 01_meta.json / 02_structure.json came back clean, with no evidence of any avoid-list violation.",
+    "02_structure.json's own original_chunk fields are still empty placeholders (\"\") throughout — expected at this pipeline stage, since verbatim transcription into original_chunk is Agent 5's job, not Agent 2/4's; structure-level ids and the cut itself were validated, not topic content."
+  ]
+}

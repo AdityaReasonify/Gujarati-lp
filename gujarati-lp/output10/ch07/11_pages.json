@@ -1,0 +1,8 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 10",
+  "textbook_url": "../Textbooks-pdf/std-10/ch-07-jivma-jiv-avyo.pdf",
+  "textbook_pages": "39–41",
+  "source": "printed folio, read off renders of pdf pp. 1 and 3 of the chapter PDF (folios 39 and 41 respectively); manifest.json row (printed_start 39, pdf_start 44, pdf_end 46) and the std-10 offset (N+5, 44−5=39) agree",
+  "confidence": "high",
+  "gaps": ["textbook_url is a local path — the GSEB readers have no hosted URL"]
+}

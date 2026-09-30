@@ -1,0 +1,11 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9",
+  "textbook_url": "../Textbooks-pdf/std-9/ch-13-ghadvaiya.pdf",
+  "textbook_pages": "69–72",
+  "source": "printed folio, read off renders of pdf pp. 1 and 4 of the chapter PDF (pg-1.png shows the chapter-13 opener 'ઘડવૈયા' with folio 69; pg-4.png shows the closing શિક્ષકની ભૂમિકા page with folio 72 and footer 'ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9'); cross-checked against manifest.json (printed_start 69, pdf_start 73, pdf_end 76 → 69–72) and profiles/boards/gseb_gujarati.md row 395 (printed pp 69–72), both of which agree",
+  "confidence": "medium",
+  "gaps": [
+    "textbook_url is a local path — the GSEB readers have no hosted URL",
+    "std 9 cover has not been read/confirmed yet (profiles/boards/gseb_gujarati.md line 29); the title above is carried from 01_meta.json and confirmed only by the running page footer 'ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 9', not by a read cover — confidence held at medium per the grading rule even though both end folios were read directly off renders"
+  ]
+}

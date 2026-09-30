@@ -1,0 +1,417 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch6",
+  "genre": "samvad_nibandh",
+  "genre_subform": "ચિંતનાત્મક નિબંધ (સંવાદ-નિબંધનું એક-અવાજી અંગ)",
+  "active_genre_profiles": ["samvad_nibandh.md"],
+  "explanation_unit": "તર્કનો એક તંતુ (એક લંડન-મુલાકાત-ઘટના, અથવા દલીલનું એક પગલું — સ્થાપના/પડકાર/પુરાવો/માગણી)",
+  "teaching_lens": "તર્ક + દૃષ્ટિકોણ + જવાબદારી",
+  "guiding_question": "ભાષા જવાની સાથે ખરેખર બીજું શું શું જાય છે, અને એ જાણ્યા પછી પરદેશ જવા-રહેવાનો નિર્ણય લેતાં પહેલાં ફાધર વાલેસ આપણી પાસેથી શું માગે છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ફાધર વાલેસનું મૂળ નામ, વતન અને અમદાવાદમાંનું અધ્યાપન કાર્ય તથા તેમના નિબંધસંગ્રહો પાઠમાં અપાયેલી હકીકતોના આધારે કહેવાં.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કૃતિ-પરિચયના આધારે આ નિબંધમાં ફાધર વાલેસ ગુજરાતી ભાષાનું કયું મહત્ત્વ સ્થાપે છે અને કયો મુખ્ય વિચાર રજૂ કરે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T2",
+      "anchor": ["M1.S1.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લંડનમાં પિતાને ગુજરાતીમાં વાત કરતા સાંભળીને દીકરાએ કઈ પ્રતિક્રિયા આપી અને એ પ્રતિક્રિયા શું સૂચવે છે તે પાઠના શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": ["M2.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "મમ્મીની સાડી સામે દીકરાએ કયો વાંધો ઉઠાવ્યો અને મમ્મીએ એનો શો જવાબ આપ્યો તે ઘટના પરથી કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T4",
+      "anchor": ["M2.S2.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'અસત્યો માંહેથી' પ્રાર્થના પરદેશનાં યુવાન ગુજરાતીઓને કેમ મોઢે ન હતી, અને ગુજરાતની શાળાનાં બાળકો સાથે એની શી સરખામણી લેખક કરે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T5",
+      "anchor": ["M2.S2.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સાડી પરદેશમાં પણ પ્રતિષ્ઠિત ગણાય છે છતાં દીકરાને પોતાની મમ્મી સાડી પહેરે એ કેમ ગમતું નથી, એ વિરોધાભાસ પાઠમાંથી શોધીને સમજાવવો.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S3.T6",
+      "anchor": ["M3.S3.T6.C6"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પિતાના ગુજરાતી બોલવા પર ગુસ્સે થતા દીકરાનું ગુજરાતી બોલવા-વાંચવા-વાપરવા અંગેનું ભવિષ્ય લેખક પોતે કયા પ્રશ્નોથી તપાસે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S3.T7",
+      "anchor": ["M3.S3.T7.C7"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "આફ્રિકાના ગુજરાતીઓએ ભાષા ટકાવવા કરેલા સરળ-જોડણી પ્રયોગનું વર્ણન કરીને, લેખક એ પ્રયોગને શા માટે નકામો ગણાવે છે તે કારણ સહિત કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S4.T8",
+      "anchor": ["M3.S4.T8.C8"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પરદેશના ગુજરાતીઓને અગાઉ ખોટું આશ્વાસન આપતા લેખક હવે કઈ પ્રામાણિક વાત સીધી કહે છે, અને આ વળાંક શું બતાવે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S4.T9",
+      "anchor": ["M3.S4.T9.C9"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O10",
+      "legacy_id": "L10",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગુજરાતી સાક્ષર અને લેખક વચ્ચેની વાતચીતમાં પરદેશમાં જન્મેલાં યુવાનો નરસિંહ-મીરાં અને સુન્દરમ્-રાજેન્દ્ર-મકરંદ વિશે શું જાણશે એ બંનેના મત તપાસીને કહેવા.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S5.T10",
+      "anchor": ["M3.S5.T10.C10"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O11",
+      "legacy_id": "L11",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'ભાષા જાય તો ભલે જાય' એવા સંભવિત વાંધાનો લેખક શો જવાબ આપે છે, અને ભાષાની સાથે ખરેખર બીજું શું શું જાય છે તે યાદી પરથી કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T11",
+      "anchor": ["M3.S5.T11.C11"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O12",
+      "legacy_id": "L12",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ગીતાજીનાં સ્થિતપ્રજ્ઞનાં લક્ષણો ગુજરાતીમાં અને અંગ્રેજીમાં બોલવાના અનુભવની સરખામણી પરથી, ભાષા અને સંસ્કૃતિ કેવી રીતે એકબીજા સાથે જોડાયેલાં છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T12",
+      "anchor": ["M3.S5.T12.C12"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O13",
+      "legacy_id": "L13",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "પરદેશ જવા-રહેવાનો નિર્ણય લેતાં પહેલાં કયો ફાયદો અને કયો ભોગ તપાસવા લેખક પોતાની અંતિમ વાતમાં કહે છે તે પાઠના શબ્દોમાં તારવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M4.S6.T13",
+      "anchor": ["M4.S6.T13.C13"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1", "L2": "O2", "L3": "O3", "L4": "O4", "L5": "O5", "L6": "O6",
+    "L7": "O7", "L8": "O8", "L9": "O9", "L10": "O10", "L11": "O11",
+    "L12": "O12", "L13": "O13"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "લેખક અને કૃતિની ઓળખ",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "ફાધર વાલેસ અને નિબંધનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "લેખક ફાધર વાલેસનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {"concept_id": "M1.S1.T1.C1", "concept_name": "ફાધર વાલેસનું નામ, વતન અને ગુજરાત સાથેનો નાતો"}
+              ]
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "કૃતિ-પરિચય — ભાષા બચે તો સંસ્કૃતિ બચે",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "concepts": [
+                {"concept_id": "M1.S1.T2.C2", "concept_name": "નિબંધનો મુખ્ય વિચાર — ભાષા બચે તો સંસ્કૃતિ બચે"}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "લંડનની મુલાકાતોની ત્રણ ઘટના",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ભાષા અને પોશાક પરત્વે બદલાયેલું વલણ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "પિતાના ગુજરાતી બોલવા સામે દીકરાનો ગુસ્સો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "concepts": [
+                {"concept_id": "M2.S2.T3.C3", "concept_name": "પિતાના ગુજરાતી બોલવા સામે દીકરાનો ગુસ્સો અને પીઠ ફેરવવી"}
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T4",
+              "topic_name": "મમ્મીની સાડી સામે દીકરાનો વાંધો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "concepts": [
+                {"concept_id": "M2.S2.T4.C4", "concept_name": "મમ્મીની સાડી સામે દીકરાનો વાંધો અને મમ્મીનો મૂક જવાબ"}
+              ]
+            },
+            {
+              "topic_id": "M2.S2.T5",
+              "topic_name": "યુવાનોને ન આવડતી ઉપનિષદની પ્રાર્થના",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "concepts": [
+                {"concept_id": "M2.S2.T5.C5", "concept_name": "યુવાનોને ન આવડતી ઉપનિષદની વિશ્વવિખ્યાત પ્રાર્થના"}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "ભાષા જવાની દલીલ",
+      "segments": [
+        {
+          "segment_id": "M3.S3",
+          "segment_name": "સાડી અને ભાષા પરનું ચિંતન",
+          "topics": [
+            {
+              "topic_id": "M3.S3.T6",
+              "topic_name": "સાડીનું માન અને પોતાની મમ્મી પરત્વેનો વિરોધાભાસ",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M2.S2.T4"],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "concepts": [
+                {"concept_id": "M3.S3.T6.C6", "concept_name": "સાડીની પ્રતિષ્ઠા અને પોતાની મમ્મી પરત્વેના વલણ વચ્ચેનો ફેર"}
+              ]
+            },
+            {
+              "topic_id": "M3.S3.T7",
+              "topic_name": "દીકરો ગુજરાતી બોલશે, વાંચશે કે વાપરશે ખરો ?",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M2.S2.T3"],
+              "objective_ids": ["O7"],
+              "original_chunk": "",
+              "concepts": [
+                {"concept_id": "M3.S3.T7.C7", "concept_name": "ગુજરાતી બોલવા-વાંચવા-વાપરવા અંગેની અનિશ્ચિતતા"}
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S4",
+          "segment_name": "પ્રયોગ અને પ્રામાણિકતા",
+          "topics": [
+            {
+              "topic_id": "M3.S4.T8",
+              "topic_name": "આફ્રિકાનો સરળ-જોડણી પ્રયોગ અને એની મર્યાદા",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O8"],
+              "original_chunk": "",
+              "concepts": [
+                {"concept_id": "M3.S4.T8.C8", "concept_name": "આફ્રિકાનો સરળ-જોડણી પ્રયોગ અને એની મર્યાદા"}
+              ]
+            },
+            {
+              "topic_id": "M3.S4.T9",
+              "topic_name": "લેખકનો પરદેશ-અનુભવ અને પ્રામાણિક કબૂલાત-વળાંક",
+              "topic_type": "CONCEPT",
+              "topic_category": "transition",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O9"],
+              "original_chunk": "",
+              "concepts": [
+                {"concept_id": "M3.S4.T9.C9", "concept_name": "લેખકનું ખોટા આશ્વાસનમાંથી પ્રામાણિક કબૂલાત તરફનું વળવું"}
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "સાહિત્ય, વાંધો અને સંસ્કૃતિનું અતૂટ જોડાણ",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T10",
+              "topic_name": "સાક્ષર સાથેની વાતચીત — નરસિંહ-મીરાંથી સુન્દરમ્-રાજેન્દ્ર-મકરંદ સુધી",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O10"],
+              "original_chunk": "",
+              "concepts": [
+                {"concept_id": "M3.S5.T10.C10", "concept_name": "સાક્ષર સાથેની ચર્ચા — ભવિષ્યની પેઢી નરસિંહ-મીરાં અને સુન્દરમ્-રાજેન્દ્ર-મકરંદને વાંચશે ?"}
+              ]
+            },
+            {
+              "topic_id": "M3.S5.T11",
+              "topic_name": "'ભાષા જાય તો ભલે જાય' વાંધો અને એનો જવાબ",
+              "topic_type": "CONCEPT",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O11"],
+              "original_chunk": "",
+              "concepts": [
+                {"concept_id": "M3.S5.T11.C11", "concept_name": "'ભાષા જાય તો ભલે જાય' વાંધો અને ભાષા સાથે જે જે જાય છે તેની યાદી"}
+              ]
+            },
+            {
+              "topic_id": "M3.S5.T12",
+              "topic_name": "ભાષા અને સંસ્કૃતિનું અતૂટ જોડાણ — ગીતાજીનો પ્રયોગ",
+              "topic_type": "CONCEPT",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O12"],
+              "original_chunk": "",
+              "concepts": [
+                {"concept_id": "M3.S5.T12.C12", "concept_name": "ગીતાજીના પ્રયોગ દ્વારા ભાષા-સંસ્કૃતિનું અતૂટ જોડાણ"}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M4",
+      "module_name": "નિર્ણય લેતાં પહેલાં",
+      "segments": [
+        {
+          "segment_id": "M4.S6",
+          "segment_name": "લેખકની અંતિમ માગણી",
+          "topics": [
+            {
+              "topic_id": "M4.S6.T13",
+              "topic_name": "પૂરો વિચાર કરીને નિર્ણય લેવાની અંતિમ માગણી",
+              "topic_type": "CONCEPT",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": ["M3.S5.T12"],
+              "objective_ids": ["O13"],
+              "original_chunk": "",
+              "concepts": [
+                {"concept_id": "M4.S6.T13.C13", "concept_name": "લાભ-ભોગ તપાસીને પૂરો વિચાર કરીને નિર્ણય લેવાની અંતિમ માગણી"}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Marker-count cross-check: 01_meta.json's structure_inventory reports ghatna:3, tark_khand:7, samvad_exchanges:1 (=11), plus the two apparatus-parichay markers [[લેખક-પરિચય]] and [[કૃતિ-પરિચય]] in 00_chapter_normalized.md = 13 markers total, matching the 13 topics cut here exactly. One marker, one topic, throughout — no discrepancy to flag for Agent 4.",
+    "genre / active_genre_profiles: only samvad_nibandh.md is listed in 01_meta.json's active_genre_profiles (single-voice half of the profile — a ચિંતનાત્મક નિબંધ, not the two-voice std-6 ch-6 anchor). genre_subform records 01_meta.json's own descriptive genre string to keep that distinction visible downstream. This chapter is itself the profile's own cited single-voice anchor (samvad_nibandh.md's provenance box), so its Explanation-unit wording ('three London visit-anecdotes followed by the તર્ક they support') is followed literally in this cut.",
+    "topic_type rationale: the three [[ઘટના: ...]] markers are recounted personal incidents and are cut STORY_TELLING per explanation_unit_map.md's definition ('a narrative ઘટના or a remembered સ્મૃતિ') — consistent with output9/ch02 (nibandh_atmaparak), where narrated incidents inside an essay get STORY_TELLING. The seven [[તર્ક: ...]] markers and the one [[સંવાદ: ...]] marker carry no narrated incident of their own — pure reasoning/argument moves — and are cut CONCEPT, following output6/ch06's precedent (a samvad_nibandh-tagged chapter where every argument/informational move, including its સંવાદ-labelled ones, was cut CONCEPT; the authored enum has no bespoke 'argument' type).",
+    "M3.S5.T10 ([[સંવાદ: ...]]) is this chapter's one genuine two-voice exchange (લેખક + આત્મીય ગુજરાતી સાક્ષર, both quoted with attribution) inside an otherwise single-voice નિબંધ. Flagging for Agent 7/13 to apply gate G1 (both speakers named and reported in explanation) and G4 (dialogue stays dialogue — quotation marks and attribution clauses kept verbatim) specifically to this topic.",
+    "G6 wrong-route check (Agent 4): 00_chapter_normalized.md carries no line matching a printed speaker-label in margin position (`નામ :`) and no parenthetical stage direction anywhere in the chapter — confirms samvad_nibandh.md (single-voice નિબંધ half) is the correct route, not natak_ekanki.md. Matches 01_meta.json's genre_confidence: high.",
+    "Refrain-analogue (profile's own vocabulary): the repeated 'જાય...જાય...' construction that the book's own ભાષા-અભિવ્યક્તિ box names as craft lands inside M3.S5.T11's second paragraph ('ભાષા જાય એનું દુ:ખ છે...'); it echoes again in M3.S5.T12's closing line ('ગુજરાતી ભાષા જાય તો સંસ્કૃતિને પણ સાથે લઈ જાય') and once more in M4.S6.T13's closing three sentences ('મમ્મીની સાડી જશે. પપ્પાની ભાષા જશે. ઉપનિષદની પ્રાર્થના પણ જશે.', tying back to all three M2.S2 ઘટના). Quoted inside each landing topic where it occurs; never cut as a topic of its own, per samvad_nibandh.md's Refrain-analogue rule.",
+    "Difficulty (profiles/students/std-9.md's std 9-10 hard criteria — medieval/તત્સમ-dense vocabulary, a named-device line, or a સંવાદ/argument turn carrying the chapter's case — never exam length or craft-naming alone): M3.S4.T8 is hard for the dense jodani/technical vocabulary (દીર્ઘ, હ્રસ્વ, અનુસ્વાર, જોડાક્ષર); M3.S4.T9 is hard as the chapter's pivotal multi-negation confession-turn ('આ બધું સારું છે, પણ નકામું છે... નહિ ટકવાનું... નહિ સચવાવાનું... નહિ મળવાના'); M3.S5.T12 is hard for its dense તત્સમ abstractions (ઓતપ્રોત, તટસ્થ, સ્થિતપ્રજ્ઞ, સાત્ત્વિકતા). All other topics are easy/medium by concrete narrative or plain reflective diction.",
+    "depends_on: M3.S3.T6 and M3.S3.T7 are real reflections that explicitly reprise the સાડી (M2.S2.T4) and પિતાના ગુજરાતી બોલવા (M2.S2.T3) anecdotes respectively — recorded as real dependence. M4.S6.T13 depends_on M3.S5.T12 because its opening line ('મારી મૂળ વાત ફરી એક વાર સ્પષ્ટ કહું') explicitly restates the thesis M3.S5.T12 just landed. Every other topic carries an independent reasoning move or a fresh scene and depends_on: [].",
+    "No REVIEW-type topic exists: 00_chapter_normalized.md carries no in-text summary/wrap block between તર્ક strands — the essay runs as one continuous first-person case to its own conclusion.",
+    "Apparatus/exercise exclusion: the શબ્દ-સમજૂતી box (સમાનાર્થી/શબ્દાર્થ + વિરુદ્ધાર્થી sub-heads only, per 01_meta.json — no તળપદા શબ્દો sub-head in this chapter), all three સ્વાધ્યાય blocks, વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા are NOT cut as topics — left for Agent 10 / key_terms per 01_meta.json's exercise_inventory and extraction_notes.",
+    "Segment/module grouping is uneven by design, not by even split: M1 and M4 hold one segment each (2 and 1 topics), M2 holds the three ઘટના as one segment, M3 holds three segments (2/2/3 topics) grouped by the argument's own internal turns (સાડી+ભાષા reflection → પ્રયોગ+કબૂલાત-વળાંક → સાહિત્ય-વાંધો-થિસિસ). Flagged for Agent 13's pacing read, per the same kind of note recorded in output9/ch02.",
+    "No અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text — this chapter is prose argument and the profile's craft points (the 'જાય' repetition, the સાડી/ભાષા parallel) are left for Agent 12's explanation, not named here. Bloom levels reach Remember through Evaluate across the ladder (O1 Remember; O2/O3/O4/O10 Understand; O5/O6/O7/O8/O9/O11/O12 Analyze; O13 Evaluate), never capped by topic difficulty per author.md's rule that difficulty is not a Bloom cap."
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "_comment": "The SECOND deliverable. Every સ્વાધ્યાય block inventoried in 01_meta.json is answered here and NOWHERE else — સ્વાધ્યાય is never a teaching topic. GSEB PDFs are image-only: prompt_verbatim is transcribed from the rendered page (verified against page-1.png / page-2.png at 150 dpi, cross-checked word-for-word with 00_chapter_normalized.md and 01_meta.json's own exercise_inventory, which Agent 1 had already double-render-verified at 300 dpi), never from a text layer. See reference/exercise_alignment.md and agents/10_exercise_solutions.md.",
+
+  "plan_id": "gseb_eng_gujarati9_ch5_v1",
+  "chapter_id": "gseb_eng_gujarati9_ch5",
+  "subject": "Gujarati",
+  "grade": 9,
+  "chapter_name": "તું તારા દિલનો દીવો",
+
+  "exercises": [
+    {
+      "exercise_id": "EX1",
+      "exercise_group": "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો : (1)",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "આત્માના દીવા પાસે કોનું તેજ પરાયું લાગે છે?\n(A) સૂર્ય, ચંદ્ર, તારા    (B) દીવો, સૂર્ય, ગ્રહો\n(C) અગ્નિ, તારા, ગ્રહો    (D) સૂર્ય, દીવો, ગ્રહો",
+      "answer": "(A) સૂર્ય, ચંદ્ર, તારા",
+      "explanation": "ત્રીજી કડીમાં કવિ કહે છે, ‘આભમાં સૂરજ ચંદ્ર ને તારા મોટા મોટા તેજરાયા, આતમનો તારો દીવો પેટાવવા, તું વિણ સર્વ પરાયા!’ — સૂરજ, ચંદ્ર અને તારા ભલે આકાશના મોટા ‘તેજરાયા’ (તેજના રાજા) હોય, પણ પોતાનો આતમનો દીવો પ્રગટાવવા માટે એ ત્રણેયનું તેજ પણ ‘પરાયું’ જ ગણાય છે, એટલે સાચો વિકલ્પ (A) છે. (B), (C) અને (D) માં આવતા ‘દીવો’, ‘અગ્નિ’ અને ‘ગ્રહો’ આ પંક્તિમાં ક્યાંય નથી — કડીમાં ફક્ત સૂરજ, ચંદ્ર અને તારાનું જ નામ છે; દીવો તો પોતાનો (આતમનો) છે, પરાયો નહીં.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "MCQ block, sub-question (1). Checkmark glyph printed on the page is (✓), matching 01_meta.json's already double-render-verified transcription.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T5"]
+    },
+    {
+      "exercise_id": "EX2",
+      "exercise_group": "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો : (2)",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "‘દિલનો દીવો’ કાવ્યમાં ‘કોડિયું તારું કાચી માટીનું’ એટલે શું?\n(A) કોડિયું ગારાનું બનેલું નથી.    (B) માણસના શરીરની વાત છે.\n(C) દિવાળીના કોડિયાની વાત છે.    (D) માત્ર કાચી માટીની જ વાત છે.",
+      "answer": "(B) માણસના શરીરની વાત છે.",
+      "explanation": "ચેપ્ટરની ભાષા-અભિવ્યક્તિમાં કવિ પોતે જ સ્પષ્ટ કરે છે — ‘કાયાને માટીનું કોડિયુંની ઉપમા સાહિત્યમાં વારંવાર અપાતી રહી છે.’ એટલે ‘કોડિયું તારું કાચી માટીનું’ પંક્તિમાં ‘કોડિયું’ કોઈ સાચા દીવાની વાત નથી, પણ માણસના શરીર (કાયા)ની ઉપમા છે — સાચો વિકલ્પ (B) છે. (A) સીધું ખોટું છે — કડીમાં જ છપાયું છે કે કોડિયું ‘કાચી માટીનું’ છે, ‘ગારાનું બનેલું નથી’ એવું નહીં; (C) અને (D) પંક્તિને શબ્દશઃ, ફક્ત કોડિયાની વાત તરીકે વાંચે છે અને એની પાછળની ઉપમા ચૂકી જાય છે — તેલ-દીવેલ-સળીની આખી કડી શરીરની ભીતર છુપાયેલી શક્તિ વિશે છે, સાચા દીવા વિશે નહીં.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "MCQ block, sub-question (2). This is exactly the ઉપમા the chapter's own ભાષા-અભિવ્યક્તિ names — 07_pitfalls.json's M2.S2.T4 misconception (reading કોડિયું as a literal, separate object) is the wrong answer this item is built to catch.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T4"]
+    },
+    {
+      "exercise_id": "EX3",
+      "exercise_group": "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો : (3)",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "આ કાવ્યમાં કવિ કયો સંદેશ આપે છે?\n(A) પોતાના દિલનો જ દીવો થવાનું કહે છે.    (B) બીજાના દિલનો દીવો થવાનું કહે છે.\n(C) કોડિયાનો દીવો થવાનું કહે છે.    (D) દિવાળીના દીવાની વાત કરે છે.",
+      "answer": "(A) પોતાના દિલનો જ દીવો થવાનું કહે છે.",
+      "explanation": "કાવ્યની પહેલી પંક્તિ અને ટેક બંને આ જ કહે છે — ‘તું તારા દિલનો દીવો થા ને !’ કવિ આખા કાવ્યમાં માણસને પોતાની ભીતરની શક્તિ ઓળખવા અને પોતાના બળે પ્રગટવા કહે છે, એટલે સાચો વિકલ્પ (A) છે. (B) કાવ્યથી બરાબર ઊંધું છે — કવિ બીજાનો નહીં, પોતાનો દીવો થવાનું કહે છે; (C) અને (D) કોડિયા અને દિવાળીના દીવાને શબ્દશઃ લે છે, જ્યારે કાવ્યમાં કોડિયું અને દીવો બંને આતમશક્તિની ઉપમા છે, સાચા દીવાની વાત નથી.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "MCQ block, sub-question (3). Answer draws on the poem's own opening line / ટેક, not a paraphrase.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T3"]
+    },
+    {
+      "exercise_id": "EX4",
+      "exercise_group": "નીચેના પ્રશ્નોના બે-ત્રણ વાક્યમાં ઉત્તર લખો : (1)",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "પારકાં તેજ અને છાયા ઉછીનાં લેવાની કવિ કેમ ના પાડે છે?",
+      "answer": "કવિ પહેલી કડીમાં કહે છે, ‘રખે કદી તું ઉછીનાં લેતો પારકાં તેજ ને છાયા, એ રે ઉછીનાં ખૂટી જશે ને ઊડી જશે પડછાયા!’ ઉછીનું તેજ અને છાયા કાયમ ટકતાં નથી — વહેલાં-મોડાં ખૂટી જાય છે અને પડછાયાની જેમ ઊડી જાય છે. એટલે કવિ કહે છે કે એના પર આધાર રાખવો યોગ્ય નથી.",
+      "explanation": "‘રખે’ શબ્દ અહીં ચેતવણીસૂચક છે (રખેને, એવું ક્યારેય ન બને કે); આખી પંક્તિ ઉછીના તેજની કાયમી મર્યાદા — એ ‘ખૂટી જશે’ અને ‘ઊડી જશે’ — તરફ સીધો ઈશારો કરે છે, જે જવાબનો આધાર છે.",
+      "acceptable_alternatives": [
+        "ઉછીનું તેજ ને છાયા કાયમ રહેતાં નથી, વહેલાં-મોડાં ખૂટી જાય છે, એટલે એના પર ભરોસો ન રખાય."
+      ],
+      "values_filled_for_teaching": null,
+      "teacher_note": "બે-ત્રણ વાક્ય tier, sub-question (1). ‘રખે’ stays as printed and is glossed at point of use, never corrected toward ‘રહે’, per 07_pitfalls.json's M2.S2.T3 avoid-check.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T3"]
+    },
+    {
+      "exercise_id": "EX5",
+      "exercise_group": "નીચેના પ્રશ્નોના બે-ત્રણ વાક્યમાં ઉત્તર લખો : (2)",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "કવિ આત્માનો દીવો પ્રગટાવવાની વાત કેમ કરે છે?",
+      "answer": "ત્રીજી કડીમાં કવિ કહે છે કે આકાશમાં સૂરજ, ચંદ્ર અને તારાનું તેજ (‘તેજરાયા’) ગમે તેટલું મોટું હોય, પણ આતમનો દીવો પેટાવવા માટે એ તેજ પણ પહેલી કડીના ‘પારકાં તેજ ને છાયા’ જેવું જ ‘પરાયું’ રહે છે (‘તું વિણ સર્વ પરાયા’). બહારનું ગમે તેવું મોટું તેજ હોય, એ ભીતરના અંધારાને કાયમ માટે ઉજાળી શકતું નથી — ફક્ત પોતાનો આતમનો દીવો પ્રગટે ત્યારે જ સાચો, પોતીકો પ્રકાશ મળે છે. એટલે કવિ આત્માનો દીવો પ્રગટાવવાની વાત કરે છે.",
+      "explanation": "જવાબ ત્રીજી કડીની બંને પંક્તિઓ પર આધારિત છે — પહેલી પંક્તિ આકાશના મોટા તેજને ગણાવે છે, બીજી પંક્તિ ‘વિણ સર્વ પરાયા’ કહીને એ તેજને પણ પરાયું ઠરાવે છે, અને એ પહેલી કડીના ‘પારકાં તેજ ને છાયા’ સાથે જોડાયેલું છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "બે-ત્રણ વાક્ય tier, sub-question (2). Explicitly links ત્રીજી કડીના ‘તેજરાયા’/‘પરાયા’ ને પહેલી કડીના ‘પારકાં તેજ ને છાયા’ સાથે, per 07_pitfalls.json's M2.S2.T5 misconception guard. Sun/moon/star light is framed as ‘પરાયું for lighting one's own lamp’, never as a flat claim that celestial light is useless.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T3", "M2.S2.T5"]
+    },
+    {
+      "exercise_id": "EX6",
+      "exercise_group": "નીચેના પ્રશ્નનો છ-સાત વાક્યમાં ઉત્તર લખો : (1)",
+      "skill": "reading comprehension",
+      "prompt_verbatim": "માણસમાં રહેલી અસીમ શક્યતાઓને કાવ્યના આધારે વ્યક્ત કરો.",
+      "answer": "આ કાવ્યમાં કવિ ભોગીલાલ ગાંધી માણસની ભીતર છુપાયેલી અસીમ શક્તિઓની વાત કરે છે. પહેલી કડીમાં કવિ કહે છે, ‘તું તારા દિલનો દીવો થા ને’ — એટલે કે માણસે ‘પારકાં તેજ ને છાયા’ ઉછીનાં લેવાની જરૂર નથી, કારણ કે ઉછીનું તેજ વહેલું-મોડું ખૂટી જાય છે. બીજી કડીમાં કવિ કાયાને ‘કાચી માટીના કોડિયા’ સાથે સરખાવે છે, જેમાં તેલ અને દીવેલ પહેલેથી જ છુપાયેલાં છે — ફક્ત ‘નાની શી સળી’ અડવાની જ વાર છે, ને ભીતરની ‘રંગમાયા’ પ્રગટી ઊઠશે. આ ચિત્ર બતાવે છે કે માણસમાં શક્તિ પહેલેથી જ હાજર છે, ફક્ત એને ઓળખવાની અને પ્રગટાવવાની જ વાર છે. ત્રીજી કડીમાં કવિ આકાશના સૂરજ-ચંદ્ર-તારાના મોટા ‘તેજરાયા’ને પણ આતમનો દીવો પેટાવવા માટે ‘પરાયા’ (‘તું વિણ સર્વ પરાયા’) ગણાવે છે — ગમે તેટલું મોટું બહારનું તેજ હોય, એ માણસની પોતાની ભીતરની શક્તિની જગ્યા લઈ શકતું નથી. આમ ત્રણેય કડી મળીને એ વાત વ્યક્ત કરે છે કે માણસમાં પોતાનું જ, ક્યારેય ન ખૂટે એવું અસીમ તેજ ભરેલું છે, અને એને ઓળખીને પ્રગટાવવાથી જ સાચો પ્રકાશ મળે છે.",
+      "explanation": "જવાબ ત્રણેય કડીના પોતાના ચિત્રો (ઉછીનું તેજ, કોડિયું-તેલ-સળી, આકાશી તેજરાયા) ને ક્રમમાં જોડીને કાવ્યની આખી દલીલ ઊભી કરે છે, જેથી 'અસીમ શક્યતાઓ' કોઈ સામાન્ય વાત નહીં પણ કાવ્યની પોતાની પંક્તિઓ પરથી જ સાબિત થાય.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "છ-સાત વાક્ય tier, sub-question — the book prints this block's heading in the singular ‘પ્રશ્નનો’ (only one question), noted already in 01_meta.json's extraction_notes. Answer stays inside the SSC-shaped tier length and draws only on this chapter's own three કડી — no outside biography or invented moral beyond what the lines themselves state.",
+      "is_model_answer": false,
+      "covered_by_topics": ["M2.S2.T3", "M2.S2.T4", "M2.S2.T5"]
+    },
+    {
+      "exercise_id": "EX7",
+      "exercise_group": "વિદ્યાર્થી-પ્રવૃત્તિ (1)",
+      "skill": "speaking",
+      "prompt_verbatim": "આ કાવ્યનું ભાવવાહી સ્વરે ગાન કરો.",
+      "answer": "આ એક ગાન-પ્રવૃત્તિ છે, જેનો કોઈ એક ‘સાચો’ જવાબ નથી. વિદ્યાર્થીએ ત્રણેય કડી અને દરેક કડીના અંતે આવતી સરખી ટેક (‘ઓ રે ! ઓ રે ઓ ભાયા ! તું.’) ને લયબદ્ધ, ભાવવાહી સ્વરે ગાવાની છે. પહેલી કડીમાં ચેતવણીનો ભાવ, બીજીમાં આશાનો ભાવ અને ત્રીજીમાં દૃઢ નિર્ધારનો ભાવ — સ્વરમાં આ ફેરફાર લાવીને ગાવાથી કાવ્ય વધુ અસરકારક લાગશે.",
+      "explanation": "ગાનની પ્રવૃત્તિમાં કોઈ એક ‘સાચો’ જવાબ હોતો નથી, તેથી કેવી રીતે ગાવું એની રીત મોડેલ તરીકે અપાઈ છે — ત્રણેય કડીની ટેક બિલકુલ સરખી છપાયેલી છે, જ્યારે દરેક કડીનો ભાવ જુદો છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Model answer / method, framed as one possible approach — a singing task has no single graded answer.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M2.S2.T3", "M2.S2.T4", "M2.S2.T5"]
+    },
+    {
+      "exercise_id": "EX8",
+      "exercise_group": "વિદ્યાર્થી-પ્રવૃત્તિ (2)",
+      "skill": "speaking",
+      "prompt_verbatim": "શ્રી પ્રહ્લાદ પારેખનું ‘આપણે ભરોસે’ ગીત મેળવી એનું ગાન કરો.",
+      "answer": "આ પ્રવૃત્તિ માટે વિદ્યાર્થીએ પુસ્તકાલયમાંથી કે શિક્ષકની મદદથી કવિ પ્રહ્લાદ પારેખનું ‘આપણે ભરોસે’ ગીત શોધવાનું છે — આ ગીત આ પાઠમાં છપાયેલું નથી, ફક્ત કૃતિ-પરિચયમાં સરખામણી માટે નામ અપાયું છે. ગીત મળ્યા પછી વિદ્યાર્થીએ એને પણ ભાવવાહી સ્વરે ગાવાનું છે અને બંને ગીતોમાં આવતા સ્વાવલંબનના ભાવની સરખામણી કરવી.",
+      "explanation": "આ એક શોધ-અને-ગાન પ્રવૃત્તિ છે, જેનું કોઈ એક નિશ્ચિત જવાબ નથી; તેથી કેવી રીતે આગળ વધવું એની રીત મોડેલ તરીકે અપાઈ છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Locate-and-perform task: પ્રહ્લાદ પારેખનું ‘આપણે ભરોસે’ આ ચેપ્ટરના કૃતિ-પરિચયમાં ફક્ત નામ અપાયું છે, ક્યાંય છપાયું નથી — તેથી આ જવાબમાં એ ગીતની કોઈ પંક્તિ, વાત કે ભાવ આ પાઠના પોતાના શબ્દો તરીકે ક્યાંય લખવામાં આવ્યાં નથી, per 01_meta.json અને 07_pitfalls.json's caution.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M1.S1.T2"]
+    },
+    {
+      "exercise_id": "EX9",
+      "exercise_group": "વિદ્યાર્થી-પ્રવૃત્તિ (3)",
+      "skill": "writing",
+      "prompt_verbatim": "પ્રેરણાગીતોનો એક હસ્તલિખિત અંક તૈયાર કરો.",
+      "answer": "આ એક સર્જનાત્મક પ્રવૃત્તિ છે. વિદ્યાર્થીએ આ કાવ્ય જેવાં જ સ્વાવલંબન કે પ્રેરણા આપતાં બીજાં ગીતો કે કાવ્યો શોધીને (પુસ્તકાલયમાંથી, વડીલો પાસેથી કે શિક્ષક પાસેથી) એક હસ્તલિખિત નોટબુક કે અંક તૈયાર કરવાનો છે, જેમાં દરેક ગીત નકલ કરીને એની સાથે એક-બે વાક્યમાં પોતાનો વિચાર પણ લખી શકાય.",
+      "explanation": "આ પ્રવૃત્તિ બાળકને પોતાની રીતે શોધ કરવા પ્રેરે છે, એટલે એક જ ‘સાચો’ જવાબ નથી — તેથી નમૂનારૂપ રીત અપાઈ છે, જે આ ચેપ્ટરના પોતાના પ્રેરણાગીતના અનુભવ પરથી ઊભી થાય છે.",
+      "acceptable_alternatives": [],
+      "values_filled_for_teaching": null,
+      "teacher_note": "Open creative activity — model approach only, framed as one possible way to proceed, not the answer.",
+      "is_model_answer": true,
+      "covered_by_topics": ["M2.S2.T3", "M2.S2.T4", "M2.S2.T5"]
+    }
+  ],
+
+  "coverage_report": {
+    "blocks_found": [
+      "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો :",
+      "નીચેના પ્રશ્નોના બે-ત્રણ વાક્યમાં ઉત્તર લખો :",
+      "નીચેના પ્રશ્નનો છ-સાત વાક્યમાં ઉત્તર લખો :",
+      "વિદ્યાર્થી-પ્રવૃત્તિ"
+    ],
+    "blocks_answered": [
+      "પ્રશ્નની નીચે આપેલા વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરી ખરાની (✓) નિશાની કરો :",
+      "નીચેના પ્રશ્નોના બે-ત્રણ વાક્યમાં ઉત્તર લખો :",
+      "નીચેના પ્રશ્નનો છ-સાત વાક્યમાં ઉત્તર લખો :",
+      "વિદ્યાર્થી-પ્રવૃત્તિ"
+    ],
+    "unanswered": [],
+    "unmapped": [],
+    "_note": "All four printed exercise_inventory blocks (3 MCQ + 2 બે-ત્રણ વાક્ય + 1 છ-સાત વાક્ય + 3 વિદ્યાર્થી-પ્રવૃત્તિ = 9 items) are answered as EX1–EX9. Every item maps to a reading scene, none to nothing: EX1 → M2.S2.T5 (ત્રીજી કડી, જ્યાં સૂરજ-ચંદ્ર-તારાનું નામ છપાયું છે); EX2 → M2.S2.T4 (બીજી કડીની કોડિયું-ઉપમા); EX3, EX4 → M2.S2.T3 (પહેલી કડી અને ટેક); EX5 → M2.S2.T3 + M2.S2.T5 (પહેલી કડીના ‘પારકાં તેજ’ ને ત્રીજી કડીના ‘પરાયા’ સાથે જોડતો પ્રશ્ન); EX6, EX7, EX9 → ત્રણેય POEM topics (M2.S2.T3, M2.S2.T4, M2.S2.T5 — સંપૂર્ણ કાવ્યનો સારાંશ / ગાન / પ્રેરણાગીત-સર્જન); EX8 → M1.S1.T2 (કૃતિ-પરિચય, જ્યાં ‘આપણે ભરોસે’ સરખામણી માટે નામ અપાયું છે). શબ્દ-સમજૂતી pre-blocks, ભાષા-અભિવ્યક્તિ અને શિક્ષકની ભૂમિકા printed apparatus છે, exercise_inventory-માં નથી (01_meta.json પ્રમાણે), એટલે અહીં exercise તરીકે ગણવામાં આવ્યાં નથી. શિક્ષકની ભૂમિકાના ત્રણ બાહ્ય સંદર્ભો (લાવરી અને તેનાં બચ્ચાં, ‘એકલો જાને રે..’, રઈશ મણિયારની પંક્તિઓ) અને EX8ના ‘આપણે ભરોસે’ કોઈની પણ સામગ્રી આ ફાઇલમાં ક્યાંય પોતાના પાઠના શબ્દો તરીકે ટાંકવામાં આવી નથી — ફક્ત નામ-આધારિત સંદર્ભ તરીકે."
+  }
+}

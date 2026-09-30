@@ -1,0 +1,363 @@
+{
+  "chapter_id": "gseb_eng_gujarati9_ch11",
+  "genre": "લઘુકથા (વાર્તા)",
+  "active_genre_profiles": [
+    "varta.md"
+  ],
+  "explanation_unit": "એક ઘટના (વાર્તાનું એક પગલું) — આ કૃતિ પોતે લઘુકથા છે અને દોઢ પાનાની જ છે, એટલે 00_chapter_normalized.md માં છપાયેલાં ચારેય [[ઘટના: ...]] માર્કરને, ફકરા-ગણતરી કર્યા વિના, જેમ છપાયાં તેમ ચાર અલગ ટોપિક તરીકે લેવાયાં છે (01_meta.json ના explanation_unit ની સીધી સૂચના). ચોટ-વાક્ય 'હું રામશંકરનો દીકરો છું.' પોતાનો સ્વતંત્ર ટોપિક છે (વળાંક અને પરિણામ બંને એમાં સાથે) અને એ વહેલો ખોલાયો નથી — એની પહેલાંના કોઈ ટોપિકમાં દસ્તાવેજ સાચો નીકળવાની કે મોહનની ઓળખની વાત આવતી નથી.",
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "સ્વજનોના દબાણ છતાં મોહન મગનની જમીનનો દસ્તાવેજ કેમ કરી આપે છે, અને એમાં પિતા રામશંકરનો કયો વારસો છતો થાય છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક દુર્ગેશ ઓઝાના જીવન-કવન વિશે તથા 'વારસાગત' એ લાઘવ અને ચોટ પર રચાયેલી લઘુકથા છે એ હકીકત વિશે લેખક-પરિચય અને કૃતિ-પરિચયમાં અપાયેલી માહિતી પરથી કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1",
+        "M1.S1.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રામશંકરે મગનને જમીનનો ટુકડો મૌખિક રીતે આપ્યો પણ પાકું લખાણ થાય એ પહેલાં જ અવસાન પામ્યા — આ અધૂરી ઇચ્છા વાર્તાના સંઘર્ષનું બીજ કેવી રીતે રોપે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S2.T3",
+      "anchor": [
+        "M2.S2.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સ્વજનો 'આંકડે માખો વગરનું મધ છે' કહી પુરાવાના અભાવનો લાભ લેવા મોહનને કઈ સલાહ આપે છે, અને મગન કેટલી નિર્દોષતાથી એમને આવકારે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'દોસ્ત સમી જમીન જમીનદોસ્ત થતી લાગી' પંક્તિમાં ઉપમા અને યમક અલંકારનો મિશ્ર પ્રયોગ મગનની ડગમગતી સ્થિતિ કેવી રીતે વ્યક્ત કરે છે તે ઓળખવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ચોટ-વાક્ય 'હું રામશંકરનો દીકરો છું'માં 'મોહને' અને 'મોહ'ને વચ્ચેના યમક અલંકાર દ્વારા લેખક મોહનનો પિતાનો વારસો કેવી રીતે વ્યક્ત કરે છે તે તારવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S4.T6",
+      "anchor": [
+        "M2.S4.T6.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "પ્રસ્તાવના",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "લેખક અને કૃતિનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "લેખક દુર્ગેશ ઓઝાનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "દુર્ગેશ ભાસ્કરરાય ઓઝાનું જન્મસ્થળ પોરબંદર છે. હાલ તેઓ સિન્ડિકેટ બેન્ક, પોરબંદરમાં કાર્યરત છે. વિવિધ સામયિકો અને વર્તમાનપત્રોમાં તેમના લેખો પ્રકાશિત થયેલા છે. ‘અક્ષત’ તેમનો લઘુકથા સંગ્રહ છે અને ‘ખેલ’ વાર્તાસંગ્રહ પણ પ્રકાશિત થયેલો છે. ટીવી સિરિયલોમાં અભિનેતા તરીકે અને સંગીતના કાર્યક્રમોમાં ગાયક તરીકે જાણીતા છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "લેખક દુર્ગેશ ઓઝાનો પરિચય"
+                }
+              ],
+              "note": "Marker [[લેખક-પરિચય]] (00_chapter_normalized.md, પાનું 1/47). દુર્ગેશ ઓઝાનું જન્મસ્થળ (પોરબંદર), વ્યવસાય (સિન્ડિકેટ બેન્ક), પ્રકાશનો ('અક્ષત' લઘુકથા સંગ્રહ, 'ખેલ' વાર્તાસંગ્રહ), ટીવી-અભિનેતા/ગાયક તરીકેની ઓળખ — પ્રોસ પ્રિન્ટેડ ફોર ધ સ્ટુડન્ટ, 'One marker, one topic' મુજબ CONCEPT topic. 01_meta.json ના extraction_notes આ બ્લોકને apparatus/પ્રવેશ-અપરાટસ તરીકે નોંધે છે (exercise_inventory માંથી બાકાત રાખવા માટે) — એ 'not an exercise' છે, 'not a topic' નહીં; ત્રીજા પુરુષમાં, વિદ્યાર્થી-સંબોધિત આજ્ઞા વિનાનું લખાણ છે (શિક્ષકની ભૂમિકાથી વિપરીત), એ જ output9 ch01/ch04 પ્રિસિડન્ટ પ્રમાણે લેવાયું છે — disagreement Agent 4/13 માટે નોંધેલ. Difficulty easy: ટૂંકાં, સીધાં, હકીકત-આધારિત વાક્યો.",
+              "modified_chunk": "અહીં લેખક દુર્ગેશ ઓઝાનો પરિચય અપાયો છે — તેમનું જન્મસ્થળ પોરબંદર છે અને તેઓ બેન્કમાં નોકરી કરે છે. તેમણે ‘અક્ષત’ નામનો લઘુકથા સંગ્રહ (ટૂંકી વાર્તાઓનું પુસ્તક) અને ‘ખેલ’ નામનો વાર્તાસંગ્રહ લખ્યાં છે. તેઓ ટીવી પર અભિનેતા અને ગાયક તરીકે પણ કામ કરે છે.",
+              "word_count": {
+                "original": 45,
+                "modified": 43
+              },
+              "key_terms": [
+                "સામયિક — નિયમિત (અઠવાડિયે કે મહિને) છપાતું મૅગેઝિન",
+                "વર્તમાનપત્ર — રોજ છપાતું છાપું",
+                "સંગ્રહ — એકસાથે ભેગી કરેલી રચનાઓનું પુસ્તક",
+                "કાર્યરત — કામ પર હોવું, નોકરી કરવી"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": []
+            },
+            {
+              "topic_id": "M1.S1.T2",
+              "topic_name": "'વારસાગત' લઘુકથાનો પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "લઘુકથા સાહિત્યપ્રકારમાં લાઘવ અને અંતે આવતી ચોટનું અત્યંત મહત્વ છે. આ લઘુકથામાં વારસાગત રીતે આવતા હકારાત્મક મૂલ્યની લેખકે સુંદર રીતે ગૂંથણી કરી છે. મગનને આપેલી જમીન પાછી પડાવી લેવા માટે મોહનને તેનાં સગાંઓ ચઢાવે છે. મોહન તૈયાર થાય છે; પરંતુ અંતે સ્ફોટ થાય છે કે તેણે હવે એ જમીન ખરેખર મગનને નામે કરી આપી છે. પિતા રામશંકરનો ઉદાર સ્વભાવનો વારસો મોહને પણ જાણવ્યો છે તે અહીં આકર્ષક રીતે મુકાયું છે.",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T2.C2",
+                  "concept_name": "'વારસાગત' લઘુકથાનો પરિચય"
+                }
+              ],
+              "note": "Marker [[કૃતિ-પરિચય]]. લઘુકથા સાહિત્યપ્રકારની ઓળખ (લાઘવ, અંતે આવતી ચોટ), કૃતિની થીમ (વારસાગત રીતે આવતું હકારાત્મક મૂલ્ય) અને ટૂંકસાર (મગનની જમીન, મોહનનું કાવતરું, અંતિમ સ્ફોટ) — CONCEPT topic, T1 જેવો જ તર્ક. depends_on T1: કૃતિ-પરિચય લેખક-પરિચય પછી જ છપાયેલો છે અને એને અનુસરે છે. Difficulty medium: std9 વાચક માટે નવી અમૂર્ત સાહિત્યિક પરિભાષા (લાઘવ, ચોટ, વારસાગત મૂલ્ય).",
+              "modified_chunk": "અહીં ‘વારસાગત’ લઘુકથાનો પરિચય અપાયો છે — લઘુકથા એટલે લાઘવ (ટૂંકાણ) અને છેલ્લે આવતી ચોટ (અચાનક વળાંક) વાળી ટૂંકી વાર્તા. આ વાર્તામાં મગનની જમીન પાછી લેવા મોહનનાં સગાંઓ તેને ઉશ્કેરે છે, પણ છેલ્લે ખબર પડે છે કે મોહને એ જમીન ખરેખર મગનને નામે કરી આપી છે — પિતા રામશંકરનો ઉદાર સ્વભાવ મોહનમાં પણ વારસામાં ઊતર્યો છે.",
+              "word_count": {
+                "original": 70,
+                "modified": 56
+              },
+              "key_terms": [
+                "લઘુકથા — બહુ ટૂંકી, ચોટ સાથે પૂરી થતી વાર્તા",
+                "લાઘવ — ટૂંકાણ, ઓછા શબ્દોમાં કહેવાની કળા",
+                "ચોટ — વાર્તાના અંતે આવતો ચમકાવનારો વળાંક",
+                "વારસાગત — વડીલો પાસેથી સંતાનોને મળતું (ગુણ, મિલકત વગેરે)",
+                "સ્ફોટ — અચાનક ખૂલી પડતી વાત, ખુલાસો"
+              ],
+              "primary_content_type": null,
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "મગનની જમીન અને મોહનની કસોટી",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "રામશંકરની ઉદારતા",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T3",
+              "topic_name": "રામશંકરની ઉદારતા અને એનું અધૂરું રહી જવું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "છેલ્લાં દસ વર્ષથી રામશંકરના કુટુંબ અને તેમની જમીનનું જતન કરી રહેલા મગનને ફળદ્રુપ ખેતર જોઈ રાજીપો વ્યક્ત કર્યો. ટાઢ, તડકો કે વરસાદ કશુંય ગણકાર્યા વિના તેણે દર વર્ષે ફળો, શાકભાજી અને અનાજનો મબલક પાક ઉપજાવી અઢળક કમાણી કરાવી આપી હતી. તેની આ મહેનતનો બદલો વાળવાનો શુભ વિચાર રામશંકરને આવતાં એમણે જમીનનો એક કટકો મગનને કાઢી આપ્યો ને કહ્યું, ‘મગન, આજથી આ જમીન તારી. આમાં તું તારું મકાન અને ખેતર બંને બનાવજે !’ પરંતુ પાકું લખાણ થાય એ પહેલાં જ રામશંકરે દેહ છોડ્યો ને બન્યું એવું કે મગનની જમીનમાં મબલક પાક પાક્યો અને રામશંકરના દીકરા મોહનનાં ખેતરોમાં પાક નિષ્ફળ ગયો.",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T3.C3",
+                  "concept_name": "રામશંકરની ઉદારતા અને એનું અધૂરું રહી જવું"
+                }
+              ],
+              "note": "Marker [[ઘટના: રામશંકરની ઉદારતા અને એનું અધૂરું રહી જવું]]. મગનની દસ વર્ષની મહેનત, રામશંકરની ઉદારતા (જમીનનો ટુકડો મૌખિક રીતે અપાયો), પાકું લખાણ થાય એ પહેલાં જ રામશંકરનું અવસાન, ને પાક-વિપરીત યોગાનુયોગ (મગનની જમીનમાં પાક ફળ્યો, મોહનના ખેતરમાં નિષ્ફળ ગયો) — વાર્તાના સંઘર્ષનું બીજ અહીં રોપાય છે. Difficulty medium: માહિતી-ઘનતા (સમય-ગાળો, કારણ-પરિણામની સાંકળ) છે પણ કોઈ નામી-ક્રાફ્ટ લીટી કે ગીચ સંવાદ નથી.",
+              "modified_chunk": "દસ વર્ષથી રામશંકરની જમીન સંભાળતા મગનની મહેનતથી ખુશ થઈને રામશંકરે તેને જમીનનો એક ટુકડો મૌખિક રીતે (બોલીને, લખાણ વગર) આપી દીધો. પણ પાકું લખાણ (દસ્તાવેજ) થાય એ પહેલાં જ રામશંકરનું અવસાન થયું. પછી મગનની જમીનમાં સારો પાક થયો, જ્યારે રામશંકરના દીકરા મોહનના ખેતરમાં પાક નિષ્ફળ ગયો.",
+              "word_count": {
+                "original": 99,
+                "modified": 46
+              },
+              "key_terms": [
+                "જતન — સંભાળ, જાળવણી",
+                "રાજીપો — ખુશી, સંતોષ",
+                "ફળદ્રુપ — જ્યાં સારો પાક થાય એવી (જમીન)",
+                "મબલક — પુષ્કળ, ખૂબ વધારે",
+                "દેહ છોડ્યો — મૃત્યુ પામ્યા (માનવાચક રીતે કહેવાની રીત)"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "સ્વજનોનું કાવતરું અને મગન પર દબાણ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "સ્વજનોનું કાવતરું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "સ્વજનોએ સલાહ આપી : ‘તારા બાપે આ જમીન મગનને આપી એ સાચું, પણ એનો પુરાવો ક્યાં છે? વહેવારુ બન. આંકડે માખો વગરનું મધ છે. ચાર-પાંચ આગેવાનોની ત્યારે હાજરી હતી પણ એને તો આપણે ફોડી લેશું:’\n\nમગન તો હરખભેર આવકારી રહ્યો. ‘આવો આવો નાના શેઠ, તમારા પ્રતાપે ને તમારા બાપુની કૃપાથી આ મારી જમીનમાં સોનાનો સૂરજ....’\n\n‘મારી જમીન એમ? આ જમીન તારી છે એનો કોઈ આધાર, કોઈ લખાણ છે તારી પાસે?’\n\n‘રામશંકર બાપાના બોલ એ જ મારે મન ભગવાનનો....’\n\n‘એ ન ચાલે. આ જમીન તારી નથી, શું સમજ્યો? લે આ કાગળો ને કર સહી એટલે છેડો ફાટે.’",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "સ્વજનોનું કાવતરું"
+                }
+              ],
+              "note": "Marker [[ઘટના: સ્વજનોનું કાવતરું]]. સ્વજનોની સલાહ (રૂઢિપ્રયોગ 'આંકડે માખો વગરનું મધ છે' સહિત, જે શબ્દ-સમજૂતી બોક્સમાં ગ્લોસ થયેલ છે), મગનનું નિર્દોષ, હરખભેર સ્વાગત, ને મોહન-મગન વચ્ચેનો પુરાવા અંગેનો સંવાદ (કાગળો પર સહી કરવાની માંગ સુધી). Difficulty hard: આ સંવાદ કાવતરાનો તર્ક-વળાંક વહન કરે છે (profiles/students/std-9.md નો hard criterion 'a સંવાદ carrying the argument's turn'), ને રૂઢિપ્રયોગ L2 વાચકને રોકે એવો છે.",
+              "modified_chunk": "રામશંકરના સ્વજનો મોહનને સલાહ આપે છે કે મગન પાસે જમીન પોતાની હોવાનો કોઈ પુરાવો (લખાણ) નથી, એટલે એ પાછી પડાવી શકાય. મગન કંઈ સમજ્યા વગર, હરખભેર (ખુશીથી) મોહનનું સ્વાગત કરે છે. મોહન મગન પાસે પુરાવો માંગે છે અને છેવટે તેને કાગળો પર સહી કરવાનું કહે છે.",
+              "word_count": {
+                "original": 96,
+                "modified": 46
+              },
+              "key_terms": [
+                "સ્વજનો — પોતાનાં સગાં-સંબંધીઓ",
+                "વહેવારુ — વ્યવહાર-કુશળ; અહીં પોતાના સ્વાર્થ માટે હોશિયારીથી કામ કાઢી લેવાનો સૂચિતાર્થ",
+                "હરખભેર — ખુશીથી, હરખાઈને",
+                "પ્રતાપ — પ્રભાવ, કૃપા; અહીં આદરથી બોલવાની રીત",
+                "આધાર — પુરાવો, ટેકો આપતું લખાણ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "મોહનનું દબાણ અને મગનની સહી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S3.T4"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "મોહનના આ શબ્દોથી મગનને પગ નીચેની જમીન સરી જતી લાગી. દોસ્ત સમી જમીન જમીનદોસ્ત થતી લાગી. મગને ધ્રૂજતા હાથે સહી કરી. મોહને કાગળો આંચકી લીધા અને સ્વજનો અટ્ટહાસ્ય કરી રહ્યા. મોહન બોલી ઊઠ્યો : ‘હવે કામ પૂરું. હવે તારી પાસે કોઈ સાબિતી નહિ માગે.... મૂરખ, આજથી આ જમીન કાયદેસરની તારી થઈ ગઈ. લે સાચવ, આ તારો દસ્તાવેજ.’",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "મોહનનું દબાણ અને મગનની સહી"
+                }
+              ],
+              "note": "Marker [[ઘટના: મોહનનું દબાણ અને મગનની સહી]]. મગનની ડગમગતી લાગણી ('પગ નીચેની જમીન સરી જતી લાગી. દોસ્ત સમી જમીન જમીનદોસ્ત થતી લાગી.' — ઉપમા+યમકનો મિશ્ર પ્રયોગ, ભાષા-અભિવ્યક્તિ બોક્સ પાનું 48-49 એ નામ દઈને સમજાવેલ), ધ્રૂજતા હાથે સહી, સ્વજનોનું અટ્ટહાસ્ય, ને મોહનની 'હવે તારી પાસે કોઈ સાબિતી નહિ માગે' ટિપ્પણી. depends_on T4: આ ટોપિક 'મોહનના આ શબ્દોથી...' કહી સીધું T4ના અંતિમ સંવાદનો સંદર્ભ લે છે (pre-topic hook ની ઊલટી બાજુ — સીધો ટેક્સ્ટ-સાતત્ય). Difficulty hard: નામી-ક્રાફ્ટ પંક્તિ (std9-10 hard criterion) અને ભાવની તીવ્રતા.",
+              "modified_chunk": "મોહનના શબ્દોથી મગનને લાગે છે કે તેની જમીન હાથમાંથી સરકી રહી છે. ધ્રૂજતા હાથે તે કાગળો પર સહી કરી આપે છે, અને મોહન તથા સ્વજનો ખુશ થઈ અટ્ટહાસ્ય (જોર-જોરથી હસવું) કરે છે. મોહન કહે છે કે હવે મગન પાસે કોઈ પુરાવો નહિ માંગે અને જમીન કાયદેસર તેની થઈ ગઈ છે.",
+              "word_count": {
+                "original": 57,
+                "modified": 50
+              },
+              "key_terms": [
+                "ધ્રૂજવું — કંપવું, ડરથી કે લાગણીના આવેગમાં હાથ-પગ કાંપવા",
+                "જમીનદોસ્ત — સંપૂર્ણ પાયમાલ, ધ્વસ્ત થઈ ગયેલું; અહીં લેખકે ‘જમીન’ શબ્દ સાથે અવાજની રમત સાધી છે",
+                "અટ્ટહાસ્ય — જોર-જોરથી હસવું",
+                "સાબિતી — પુરાવો",
+                "દસ્તાવેજ — સહી કરેલું સત્તાવાર લખાણ, કાગળિયું"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "ચોટ અને મોહનની સાચી ઓળખ",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T6",
+              "topic_name": "ચોટ — સાચો દસ્તાવેજ અને મોહનની ઓળખ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S3.T5"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "સ્તબ્ધ સ્વજનોએ પ્રશ્નસૂચક નજર માંડી એટલે મોહને ‘મોહ’ને હડસેલતા કહ્યું, ‘હું રામશંકરનો દીકરો છું.’\n\n(‘અક્ષત’માંથી)",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T6.C6",
+                  "concept_name": "ચોટ — સાચો દસ્તાવેજ અને મોહનની ઓળખ"
+                }
+              ],
+              "note": "Marker [[ઘટના: ચોટ — સાચો દસ્તાવેજ અને મોહનની ઓળખ]]. કાગળ ખરેખર જમીન કાયદેસર મગનને નામે કરી આપતો દસ્તાવેજ નીકળે છે; સ્તબ્ધ સ્વજનોની સામે મોહન 'મોહ'ને હડસેલતાં 'હું રામશંકરનો દીકરો છું' કહી પોતાની ઓળખ આપે છે (યમક 'મોહને'/'મોહ'ને, ભાષા-અભિવ્યક્તિ બોક્સ પાનું 49 એ નામ દઈને સમજાવેલ) — varta.md ના લઘુકથા-નિયમ મુજબ વળાંક અને પરિણામ બંને આ એક જ ટોપિકમાં સાથે છે, વહેલાં ખોલાયાં નથી. ('અક્ષત'માંથી) સ્રોત-લીટી આ ટોપિકના original_chunk ની અંદર જ રહેશે (Agent 5 માટે, gujarati_verbatim.md મુજબ) — 01_meta.json ના extraction_notes એ જ ક્રમ નોંધે છે. depends_on T5: 'સ્તબ્ધ સ્વજનો'ની પ્રતિક્રિયા સીધી T5ના પરિણામ (સહી થયેલા કાગળો) પર આધારિત છે. Difficulty hard: ટૂંકું છતાં નામી-ક્રાફ્ટ (યમક) અને ચોટ ધરાવતું વાક્ય — લંબાઈ નહીં, ઘનતા hard બનાવે છે.",
+              "modified_chunk": "સ્તબ્ધ (આશ્ચર્યચકિત) સ્વજનો સામે જોતાં મોહન ‘મોહ’ (લોભ)ને હડસેલીને કહે છે, ‘હું રામશંકરનો દીકરો છું.’ આ કાગળ ખરેખર જમીન કાયદેસર મગનને નામે કરી આપતો દસ્તાવેજ નીકળે છે — મોહને પોતાના પિતાનો ઉદાર સ્વભાવ જ વારસામાં નિભાવ્યો હતો.",
+              "word_count": {
+                "original": 15,
+                "modified": 37
+              },
+              "key_terms": [
+                "સ્તબ્ધ — આશ્ચર્યચકિત, જડ થઈ ગયેલા",
+                "પ્રશ્નસૂચક — પ્રશ્ન પૂછતી હોય એવી (નજર)",
+                "હડસેલવું — ધક્કો મારીને દૂર કરવું",
+                "મોહ — લોભ, વધારે પડતી લાલચ"
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Cut: 2 pre-reading CONCEPT topics ([[લેખક-પરિચય]], [[કૃતિ-પરિચય]]) + 4 STORY_TELLING topics (દરેક [[ઘટના: ...]] માર્કર માટે એક) = 6 topics total, structure_inventory.ghatna=4 (01_meta.json) સાથે બરાબર મળે છે. એક માર્કર, એક ટોપિક — કોઈ merge નહીં, કોઈ split નહીં.",
+    "લેખક-પરિચય અને કૃતિ-પરિચય બે અલગ CONCEPT topics રખાયાં છે (એક નહીં), કેમ કે 00_chapter_normalized.md બે અલગ markers છાપે છે. 01_meta.json ના extraction_notes આ જોડીને 'apparatus/પ્રવેશ-અપરાટસ' કહે છે — તે exercise_inventory માંથી બાકાત રાખવા પૂરતું છે, 'topic નથી' એમ નહીં; આ પ્રોસ ત્રીજા પુરુષમાં, વિદ્યાર્થી માટે છપાયેલી છે (શિક્ષકની ભૂમિકાના આજ્ઞાર્થ સ્વરથી અલગ), એ જ output9 ch01 અને ch04 નો પ્રિસિડન્ટ છે. Agent 4/13 માટે disagreement-નોંધ.",
+    "01_meta.json ના explanation_unit ની સ્પષ્ટ સૂચના પ્રમાણે ચારેય છપાયેલાં ઘટના-ચિહ્નો ફકરા-ગણતરીથી તોડ્યાં નથી (દરેક માર્કર બરાબર એક ટોપિક), અને ચોટ (T6) વહેલી ખોલી નથી — T3-T5 માંથી કોઈમાં દસ્તાવેજ સાચો નીકળવાની કે મોહનની ઓળખની વાત આવતી નથી (varta.md hard gate 4, 'spoiling the turn early').",
+    "Difficulty ગ્રેડિયન્ટ: easy(T1) → medium(T2, T3) → hard(T4, T5, T6). T4-T6 hard એટલા માટે કે એ ત્રણેય profiles/students/std-9.md ના hard criteria (એક રૂઢિપ્રયોગ-ભારેલો સંવાદ-તર્કનો વળાંક T4માં; નામી-ક્રાફ્ટ પંક્તિ — ઉપમા+યમક T5માં, યમક T6માં) સીધા ધારણ કરે છે — લંબાઈ કે પરીક્ષા-કઠિનતાના આધારે hard નથી ગણ્યાં.",
+    "O4 અને O5 ઉપમા/યમક અલંકાર નામ દે છે — બંને ચોટ-કૃતિની પોતાની ભાષા-અભિવ્યક્તિ બોક્સ (પાનું 48-49) માં જ છપાયેલા છે ('ઉપમા અને યમક અલંકારનો મિશ્ર અર્થ', 'યમક અલંકાર') — std 9 નો નામી canon લાગુ પડે છે, કંઈ ઉમેર્યું નથી (no_hallucination_policy.md; teaching_lens_map.md ક્રાફ્ટ-naming gate).",
+    "depends_on: T2→T1 (કૃતિ-પરિચય લેખક-પરિચય પછી છપાયેલ), T5→T4 (T5 નું original_chunk 'મોહનના આ શબ્દોથી...' કહી T4ના સંવાદનો સીધો સંદર્ભ લે છે), T6→T5 (સ્તબ્ધ સ્વજનોની પ્રતિક્રિયા T5ના પરિણામ પર આધારિત). બાકી બધે [] — sequencing module/segment/topic tree ના ક્રમથી જ સ્પષ્ટ છે.",
+    "genre_confidence/active_genre_profiles 01_meta.json સાથે કોઈ disagreement વિના મળે છે — explanation_unit_map.md નો varta prior અને રેન્ડર કરેલું પાનું બંને ઘટના-wise કટને સમર્થન આપે છે.",
+    "કોઈ POEM-only ફિલ્ડ (figures_of_speech, rhyme_scheme) લાગુ પડતાં નથી — આ શુદ્ધ ગદ્ય લઘુકથા છે (structure_inventory: kadi=0, duha=0, pad=0, tek_occurrences=0).",
+    "original_chunk દરેક ટોપિકમાં ખાલી રખાયેલ છે, સ્પેક પ્રમાણે ('Agent 5 fills it'); Agent 5 એ '('અક્ષત'માંથી)' સ્રોત-લીટી છેલ્લા ટોપિક (T6)ના original_chunk ની અંદર જ મૂકવી, gujarati_verbatim.md અને 01_meta.json ના extraction_notes મુજબ.",
+    "01_meta.json એ નોંધેલો છપાયેલો typo/asymmetry (પાનું 47 'હડસેલતા કહ્યું' vs પાનું 49 ભાષા-અભિવ્યક્તિ બોક્સનું 'હડસલતા કલ્યું' અને 'યમક અંલકાર') આ agent એ સુધાર્યો નથી — Agent 5/7/12 માટે traceability ખાતર ફરી નોંધ્યો, T5/T6 ના note ફિલ્ડમાં.",
+    "Agent 5 (05_verbatim_attachment): original_chunk, modified_chunk, word_count, key_terms and the four content-type fields attached on all six topics, transcribed from 00_chapter_normalized.md and cross-checked line-by-line against the 150 dpi renders of pages 47-49 (scratch/run-s9c11-agent5/page-1.png through page-3.png; the entire narrative — all four ઘટના plus લેખક-પરિચય and કૃતિ-પરિચય — sits on page 1/page-1.png). No mismatch was found between 00_chapter_normalized.md and the render, including the printed colon-before-quote in T4 ('...ફોડી લેશું:'') and the ધ્રૂજતા spelling in T5; both are kept as printed. The ‘અક્ષત’માંથી source line is placed inside T6's original_chunk as instructed by 04_converged.json's notes and gujarati_verbatim.md. The byline 'દુર્ગેશ ઓઝા (જન્મ : 6-3-1965)' printed above the [[લેખક-પરિચય]] marker (chapter masthead, not under the marker) is left out of T1's original_chunk, matching the marker's own scope as described in 04_converged.json's T1 note. રૂઢિપ્રયોગ 'આંકડે માખો વગરનું મધ છે' inside T4's original_chunk is copied verbatim but excluded from key_terms per global_content_rules.md #7 and shabd_gloss.md's idiom exclusion — it belongs to Agent 10's exercise_solutions.json. key_terms stay inside the std-9 3-5 band (shabd_gloss.md) except T2 (5, all genuinely new literary-genre vocabulary the chapter itself introduces: લઘુકથા, લાઘવ, ચોટ, વારસાગત, સ્ફોટ) and T3/T5 (5 each, given the information-density and craft-line vocabulary 04_converged.json's own notes flag as std-9 hard criteria). Content types: the two CONCEPT topics (T1 લેખક-પરિચય, T2 કૃતિ-પરિચય) are text-only (null/[]), matching the ch01/ch02 precedent for pre-reading apparatus-adjacent CONCEPT topics in this same output9 run; all four STORY_TELLING topics (T3-T6) are narrative reading scenes and are set to image/['image'], one per ઘટના, per global_content_rules.md #9 — actual prompt authoring is Agent 9's job, not this one's. Ids, names, objectives, structure, concepts and the pre-existing per-topic 'note' fields are passed through untouched from 04_converged.json."
+  ]
+}

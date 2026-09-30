@@ -26,6 +26,8 @@ PY
 done
 echo
 echo "------------------------------------------------------------------"
+echo " SCOPE: std-6, 7, 8 ONLY — std-9 and std-10 are OUT OF SCOPE (user directive"
+echo "        2026-08-29). Status for 9/10 is shown above for information only."
 echo " TO RESUME A STANDARD (run these two steps):"
 echo "------------------------------------------------------------------"
 echo "  1. python3 $S/args_for.py <STD> 6      # prints args, skips finished chapters"

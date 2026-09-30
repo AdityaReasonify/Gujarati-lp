@@ -1,0 +1,48 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "Genre is આત્મકથાખંડ (અનુભવકથા), profile nibandh_atmaparak.md, explanation_unit 'એક પ્રસંગ' — matches the profile's own 'one પ્રસંગ, અથવા વિચારનો એક વળાંક' unit definition; no કડી/દુહો/પદ counting applies (structure_inventory: duha 0, pad 0, kadi 0, tek_occurrences 0).",
+        "No topic carries topic_category 'climax' (introduction, introduction, core, core, core, transition, resolution) — satisfies the profile's Avoid item 2 (પ્રસંગ, not પ્લોટ).",
+        "No topic is cut by page/paragraph/person-name alone (Avoid item 10): every topic_name names the પ્રસંગ or movement of feeling it holds.",
+        "No objective_text describes how to write a transfer composition (Avoid item 12) and none names a saahityaprakar tag, અલંકાર, છંદ or સમાસ, correctly, since this is prose.",
+        "Content-level Avoid items (1,3,4,5,6,7,8,9,14,15 — voice-flattening, tacked-on બોધ, joke-explaining, irony-inversion, invented interiority, outside facts, register-correction, pity/judgment, false અલંકાર) are not yet checkable: original_chunk and explanation are still empty pending Agent 5/6/7. Carried forward for Agent 13's final QC pass."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 7,
+      "topics": 7,
+      "notes": [
+        "00_chapter_normalized.md carries exactly one [[લેખક-પરિચય]] marker and six [[ઘટના: ...]] markers (verified by count), matching 01_meta.json's structure_inventory.ghatna: 6 plus the one pre-reading opener.",
+        "02_structure.json's 7 topics (M1.S1.T1 ... M3.S4.T7) reproduce these 7 markers one-to-one, in the same printed order, with no marker merged, split, or invented.",
+        "The pre-reading લેખક-પરિચય + કૃતિ-પરિચય block is topic M1.S1.T1 (CONCEPT), per explanation_unit_map.md's rule that std-10's unlabelled intro block printed for the student is a CONCEPT topic, not apparatus.",
+        "Cross-checked all 4 exercise_inventory group labels (MCQ, એક-એક વાક્યમાં ઉત્તર, બે-ત્રણ વાક્યમાં ઉત્તર, સવિસ્તાર ઉત્તર) against all 7 topic_name values programmatically: no overlap. The 4 [[સ્વાધ્યાય: ...]] markers and the શબ્દ-સમજૂતી / વિદ્યાર્થી-પ્રવૃત્તિ / ભાષા-અભિવ્યક્તિ / શિક્ષકની ભૂમિકા apparatus blocks correctly produced zero topics.",
+        "No topic covers text no marker claims — the seven topics' scope matches the seven marked reading-scene blocks exactly."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 7,
+      "notes": [
+        "Root objectives[] has 7 entries, O1-O7, all objective_id unique.",
+        "Every home_topic_id (M1.S1.T1 ... M3.S4.T7) and every anchor[] concept id (C1-C9) resolves to a node in the tree — verified programmatically against all topic_ids and concept_ids in the tree.",
+        "strand_to_objective_map covers L1-L7 exactly once each, matching O1-O7 exactly — no gaps, no extras.",
+        "Every topic carries objective_ids resolving to the registry: T1->O1, T2->O2, T3->O3, T4->O4, T5->O5, T6->O6, T7->O7 (one-to-one).",
+        "Ids are chapter-continuous and dotted per naming_conventions.md: M1-M3, S1-S4 (never restarting per module), T1-T7, C1-C9 (chapter-continuous concept counter, no restart inside any topic) — no M1.S1.T1.P1-style objective code appears anywhere; objective codes are O{n} only.",
+        "Each objective is text-grounded and chapter-specific: O1 names વિકાસ શર્મા and the buyer's-right-to-waste point; O2 names the 'મોજશોખવાળા જીવન' misconception about Germany; O3 names the young couple's plain meal and the old women's careful eating; O4 names the group's own hunger-driven over-order and the one-third leftover; O5 quotes 'તમારે શી નિસ્બત ?' and the resulting fine; O6 quotes the officer's 'સાધન-સામગ્રી તો સમાજની છે' argument; O7 names the fine-ticket kept on the wall. None could be pasted into another chapter, and all serve the teaching_lens ('સ્વર + પ્રસંગ + પોતાની જાત પરની નજર') by moving from voice/context through episode to self-scrutiny.",
+        "Objective word counts spot-checked at 19-22 Gujarati words, within the 12-30 band; no digit-numbers appear in any objective_text (global_content_rules.md #4)."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "This is a single-pass run per reference/loop_protocol.md — no iteration needed since all three checks passed on the first read.",
+    "01_meta.json's own extraction_notes already flag the printed source-credit inconsistency (અંગ્રેજ સામયિકમાંથી vs. ('ભૂમિપુત્ર'માંથી)) and the provisional 'eng' medium slot (VERIFY-1) and null chapter_master_id/subject_ref_id (VERIFY-2) — these are Agent 1's carried notes, not this agent's concern, and are not blocking here.",
+    "02_structure.json's own notes explain why M2.S2.T3 and M2.S3.T5 each carry two concepts (two separable observations/beats inside one printed ઘટના block) — reviewed and found sound; no topic carries three concepts.",
+    "original_chunk is empty on all 7 topics at this stage (Agent 5 has not yet run for this chapter) — expected per this agent's input list (02_structure.json, 01_meta.json, 00_chapter_normalized.md only), and does not block the structural/coverage/objective checks this agent runs."
+  ]
+}

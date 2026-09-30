@@ -1,0 +1,49 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "Genre વાર્તા, active profile varta.md, explanation unit = ઘટના-wise, per 01_meta.json and explanation_unit_map.md.",
+        "7 [[ઘટના: ...]] markers in 00_chapter_normalized.md, each with a distinct topic_name matching the marker text verbatim, one-to-one, in printed order: લગ્નની તૈયારી (M2.S2.T2), રમઝુ મીરની શરણાઈની જાદુઈ અસર (M2.S2.T3), સ્મરણનો સણકો — સૂર બદલાય છે (M3.S3.T4), રમઝુ અને સકીનાની પાર્શ્વભૂમિ (M3.S4.T5), ગવરીની વિદાય (M4.S5.T6), તળશીભાઈની અકળામણ અને ભૂધર મેરાઈનો ઠપકો (M4.S6.T7), કબ્રસ્તાનમાં અંતિમ સુરાવટ (M5.S7.T8). No marker was merged with another and none was dropped.",
+        "M2.S2.T2's original marker block (લગ્નની તૈયારી, lines 12-45 of the normalized file) internally divides at a within-marker sentence boundary into a short તૈયારી portion (T2) and a rising-action shrenaai-effect portion that leads directly into the next marker's own content (T3, itself the full separate marker રમઝુ મીરની શરણાઈની જાદુઈ અસર). This is a within-marker content split for teaching clarity, permitted by explanation_unit_map.md's rule 3 ('if a કડી does two clearly different things it may split') applied by analogy to ઘટના, since ઘટના carries no hard never-split rule the way દુહો and પદ do. Not a Check-1 violation.",
+        "No દુહો, પદ, કડી or ટેક exists in this chapter (prose વાર્તા; structure_inventory confirms duha:0, pad:0, kadi:0, tek_occurrences:0) so those hard rules do not apply here.",
+        "The four embedded લગ્નગીત/વિદાયગીત couplets and the closing 'એક આવ્યો'તો પરદેશી પોપટો...' stay verbatim inside their surrounding ઘટના topics per varta.md's rule (cited in 02_structure.json notes) that verse quoted inside a prose scene is never cut as a separate poem topic — correctly not split out.",
+        "Avoid-list / spoiler check: no topic before M3.S3.T4 names Ramzu's grief-cause or Sakina; the backstory topic (M3.S4.T5) is placed AFTER the turn, matching the chapter's own printed (flashback) order. No evaluative label (ગાંડો, ડાગળી ચસકેલ, મગજ-મેટ) is adopted in the plan's own topic_name, concept_name or objective_text — verified by direct scan, none present outside quoted dialogue (which lives in original_chunk, Agent 5's territory).",
+        "No numbers found in any topic_name, concept_name or objective_text (Rule 4 scan run programmatically, zero hits)."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 7,
+      "topics": 8,
+      "notes": [
+        "7 reading scenes (ઘટના) + 1 required pre-reading opener (લેખક-પરિચય/કૃતિ-પરિચય, CONCEPT, M1.S1.T1, per std-10's unlabeled kavi/lekhak-parichay + kruti-parichay rule in explanation_unit_map.md) = 8 topics total. Matches Agent 1's structure_inventory.ghatna:7 exactly.",
+        "All 7 ઘટના markers became topics in printed order (verified against normalized-file line numbers 12, 47, 66, 83, 98, 117, 166).",
+        "No in-text wrap/REVIEW block exists in this chapter's narration (none printed), so nothing was missed there.",
+        "Cross-checked all 4 exercise_inventory groups from 01_meta.json (MCQ, એક-એક વાક્યમાં ઉત્તર, બે-ત્રણ વાક્યમાં ઉત્તર, સવિસ્તર ઉત્તર) against every topic_name and concept_name in 02_structure.json: zero matches. No સ્વાધ્યાય block became a topic.",
+        "The 5 શબ્દ-સમજૂતી sub-boxes, વિદ્યાર્થી પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ and શિક્ષકની ભૂમિકા blocks (all apparatus per 01_meta.json's extraction_notes) are correctly absent from the topic tree.",
+        "No topic covers text that no marker claims — every topic's concept traces to a printed marker or the required pre-reading opener."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 8,
+      "notes": [
+        "Root objectives[] exists with 8 entries (O1-O8), all objective_id values unique (programmatically verified).",
+        "Every home_topic_id and every anchor[] concept id resolves to a node in the topic tree (programmatically verified against topic_ids and concept_ids extracted from modules[]).",
+        "strand_to_objective_map covers every legacy_id (L1-L8) exactly once, one-to-one with O1-O8 (programmatically verified).",
+        "Every topic carries objective_ids resolving to the root registry; each topic has exactly one objective_id, matching the one-concept-per-topic shape of this chapter.",
+        "Each objective is text-grounded and chapter-specific: every objective_text names a concrete character (રમઝુ, સકીના, ભૂધર મેરાઈ, તળશીભાઈ, ગવરી), term (અડાણા સૂર, ડાગળી ચસકેલ) or moment (હડસેલા પછી સૂર બદલાવો, કબ્રસ્તાનમાં છેલ્લી સુરાવટ) unique to this chapter and could not be pasted into another chapter. Each serves the teaching_lens 'ઘટના + પાત્ર + વળાંક' (event + character + turn).",
+        "Id grammar verified programmatically: module/segment/topic hierarchy is dotted and chapter-continuous with no gaps (M1-M5, S1-S7, T1-T8); concept counter is chapter-continuous and equals its topic's number in every case (one concept per topic); no M1.S1.T1.P1-style objective code found anywhere in the file (regex scan, zero hits)."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "All three checks pass on the first (and only) validation pass — no re-run of A1 or A2 was needed.",
+    "This agent read only 00_chapter_normalized.md, 01_meta.json and 02_structure.json; no PNG render was opened because the normalized transcription and structure file answered every question this validation required.",
+    "Two minor non-blocking observations carried forward as notes for Agent 13: (1) M2.S2 holds two topics (T2, T3) under one segment while every other segment holds a single topic — this is a within-marker content split, not a coverage or fidelity defect, but is worth a human glance since it is the one place in this chapter's cut that departs from strict 1-marker-1-topic; (2) topic M2.S2.T3's original marker (રમઝુ મીરની શરણાઈની જાદુઈ અસર) begins mid-sentence relative to the printed page ('...શરણાઈની એવી તો' / 'રમઝટ જમાવી હતી કે...' splits across the page-marker boundary) — Agent 5 must ensure the combined original_chunk of M2.S2.T2 + M2.S2.T3 reproduces both markers' full printed text with nothing dropped or duplicated at the join."
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "Explanation unit correctly 'એક પ્રસંગ, અથવા વિચારનો એક વળાંક' per profiles/genres/nibandh_atmaparak.md, matching genre 'આત્મકથાત્મક પ્રસંગ (હાસ્યપ્રસંગ / સંસ્મરણ)' and active_genre_profiles ['nibandh_atmaparak.md'] — person test passes (હું = લેખક પન્નાલાલ પટેલ).",
+        "દુહો/પદ/ટેક checks are N/A (structure_inventory duha=0, pad=0, tek_occurrences=0); not a mixed chapter.",
+        "No topic carries topic_category 'climax' — Avoid gate 2 of the profile (hard structural gate) holds; categories used are introduction/core/transition/resolution only, matching the profile's own closing-gesture rule for the resolution topic (M2.S3.T6).",
+        "The 6-vs-7 ghatna-marker discrepancy flagged in 02_structure.json's own notes is resolved correctly, not silently: 00_chapter_normalized.md (authoritative per this run's routing note) carries exactly 6 [[ઘટના: …]] markers, and the cut produces exactly 6 topics, one per marker, in order. The extra 'movement' 01_meta.json's structure_inventory counted as ghatna:7 is handled inside M2.S2.T5 as a genuine two-concept topic (C5 + C6), which is exactly the mechanism profiles/genres/nibandh_atmaparak.md prescribes ('Where one પ્રસંગ genuinely does two separable things, that is what concepts[] is for — two concepts in one topic, never a third') rather than manufacturing a seventh topic with no marker of its own. Correctly not a split violation.",
+        "No topic_name, module_name, segment_name, concept_name or objective_text contains a raw number (global_content_rules.md #4)."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 6,
+      "topics": 6,
+      "notes": [
+        "All 6 [[ઘટના: …]] markers in 00_chapter_normalized.md became exactly 6 topics, in printed order (M1.S1.T1 → M1.S1.T2 → M2.S2.T3 → M2.S2.T4 → M2.S2.T5 → M2.S3.T6), each carrying its marker verbatim in source_marker.",
+        "No pre-reading opener topic exists, correctly: the chapter opens on [[પ્રવેશપેટી]], which ends on a teacher-addressed instruction ('...એની સમજ યથોચિત રીતે આપવી'), not student-facing reading text — apparatus per reference/explanation_unit_map.md, not std-10's unlabelled student-facing પરિચય paragraph. No in-text wrap exists either; the chapter runs straight through to its own closing gesture, which M2.S3.T6 (topic_category: resolution) correctly serves — no separate REVIEW topic was needed or invented.",
+        "Cross-checked all 15 exercise_inventory entries in 01_meta.json (શબ્દસમૂહ માટે એક શબ્દ, રૂઢિપ્રયોગ, કહેવત, વાતચીત, પ્રશ્નોત્તર, શબ્દ-વિચાર, વાક્યપ્રયોગ-ભાવાર્થ MCQ, વાચન-કૌશલ્ય સારણી, વાક્યસંયોજન, પાત્રલેખન, નજીકનો અર્થ, ચિત્ર-લેખન, ખાલી જગ્યા પૂરો, નામ-વર્ગીકરણ, અનુવાદ) against every topic_name and source_marker in 02_structure.json — zero overlap. No સ્વાધ્યાય block became a topic.",
+        "No topic's source_marker is absent from 00_chapter_normalized.md's marker list; no topic covers text no marker claims."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 6,
+      "notes": [
+        "Root objectives[] has 6 entries, objective_id O1–O6 all unique.",
+        "Every home_topic_id (M1.S1.T1, M1.S1.T2, M2.S2.T3, M2.S2.T4, M2.S2.T5, M2.S3.T6) resolves to a real topic node; every anchor[] concept id (C1, C2, C3, C4, C5+C6, C7) resolves to a real concept under that topic.",
+        "strand_to_objective_map covers L1–L6 exactly once each, mapping onto O1–O6 with no gaps or duplicates.",
+        "Every topic carries objective_ids resolving to the registry (T1:O1, T2:O2, T3:O3, T4:O4, T5:O5, T6:O6); every concept's objective_id matches its parent topic's objective (C5 and C6 both O5, correctly — one objective per topic, not a per-concept split).",
+        "Each objective_text is grounded in a specific, chapter-only detail (તલોદનો ઝાંપો, ચા-નાસ્તાનો આગ્રહ, 'લાવ છોકરા, ટિકિટ !', પોલીસના હવાલાની ધમકી, ગાડીવાળાની સાક્ષી) and could not be pasted into another chapter; all serve the teaching_lens 'સ્વર + પ્રસંગ + પોતાની જાત પરની નજર' (O1/O2 are self-admission of a torn mind, O3–O5 are the પ્રસંગ unfolding, O6 is the evaluative close matching the guiding_question).",
+        "Id grammar matches reference/naming_conventions.md: M/S/T dotted and chapter-continuous (M1→M2, S1→S2→S3 never restarting, T1→T6 never restarting); concept counter C1–C7 is chapter-continuous and correctly diverges from the topic number from T5 onward (M2.S3.T6 carries C7, not C6), matching the documented two-concept-topic behaviour. No M1.S1.T1.P1-style objective code anywhere; objectives use O{n} only."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Structural-only pass, as expected at this stage: every topic's original_chunk is deliberately empty in 02_structure.json (Agent 5's job, per that file's own 'FOR AGENT 5' note pinning the six marker-delimited boundaries). Content-level Avoid-list items that check the `explanation`/`summary`/`concept_bullets`/recall-answer fields (profile items 1, 3–9, 13, 14) are therefore not yet checkable and are not blocked here; only the structural Avoid items (climax category absent, no સ્વાધ્યાય-as-topic, no transfer-composition topic, comic-turn-from-setup N/A since this is not a courier-chain હાસ્ય cut) were checked, and all pass.",
+    "The chapter's dominant register reads as tension/fear (police threat, tears) rather than overt joke-telling; 02_structure.json's own notes correctly withhold forcing the profile's હાસ્ય sub-form gates onto any topic_category or objective, leaving that tonal call to downstream agents reading the actual passage — recorded as a carried-forward open question, not a defect.",
+    "Verified via 00_chapter_normalized.md only; no PNG in _renders was opened for this pass — none of the open questions were layout or figure questions the transcription could not answer."
+  ]
+}

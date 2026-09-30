@@ -1,0 +1,206 @@
+{
+  "chapter_id": "gseb_eng_gujarati10_ch3",
+  "plan_id": "gseb_eng_gujarati10_ch3_v1",
+  "genre": "નવલકથાખંડ",
+  "active_genre_profiles": ["varta.md"],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "ભદ્રંભદ્રની કઈ ટેવો અને કઈ ભાષા તેમના પ્રયાણને હાસ્યાસ્પદ બનાવે છે ?",
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "લેખક-પરિચય અને કૃતિ-પરિચયના ફકરા વાંચી, 'પ્રયાણ' નવલકથાખંડ 'ભદ્રંભદ્ર'નો અંશ છે અને ભદ્રંભદ્રની વિચિત્રતા-જુનવાણી ખ્યાલોમાંથી હાસ્ય જન્મે છે એ કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ભદ્રંભદ્ર પોતાના પ્રયાણને શ્રીરામ, શ્રીકૃષ્ણ અને ભીમસેનના પરાક્રમો સાથે સરખાવે છે તે પંક્તિઓ શોધી, આ સરખામણી અને 'અકથ્ય' શબ્દની પુનરાવૃત્તિ કેવી રીતે હાસ્ય સર્જે છે તે કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S2.T2",
+      "anchor": ["M2.S2.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ટિકિટ-બારી પરના પ્રસંગમાં ભદ્રંભદ્રની સંસ્કૃતપ્રધાન ભાષા અને સોરાબજીની પારસી બોલી વચ્ચેનો વિરોધાભાસ તપાસી, આ ભાષા-ભેદ સંઘર્ષ અને હાસ્ય કેવી રીતે સર્જે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T3",
+      "anchor": ["M2.S3.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'દુષ્ટ યવનનો સ્પર્શ થયો છે' કહી ભદ્રંભદ્ર સ્નાન કરે છે તે પ્રસંગ અને નખોદીઓ-ઘોરખોદીઓનાં નામ પાછળની વાત વાંચી, ભદ્રંભદ્રની જુનવાણી ચુસ્તતા કઈ રીતે છતી થાય છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T4",
+      "anchor": ["M2.S4.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સહપ્રવાસી નામ-વહેમને શાસ્ત્ર-આધારિત તર્કથી સાચો ઠરાવવાનો પ્રયત્ન કરે છે તે સંવાદ વાંચી, જૂના ખ્યાલોને તર્કનું રૂપ આપવાની આ રીત લેખકના કટાક્ષને કેવી રીતે આગળ વધારે છે તે કહેવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S4.T5",
+      "anchor": ["M2.S4.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "પરિચય",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "લેખક અને કૃતિનો પરિચય",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "લેખક-પરિચય અને કૃતિ-પરિચય",
+              "topic_type": "CONCEPT",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "રમણભાઈ નીલકંઠ અને 'ભદ્રંભદ્ર'નો પરિચય"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "સ્ટેશને ભદ્રંભદ્રનું પ્રયાણ",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ઘરેથી પ્રયાણનો ઉત્સાહ",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T2",
+              "topic_name": "ઘરેથી પ્રયાણનો ઉત્સાહ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T2.C2",
+                  "concept_name": "ભદ્રંભદ્રનો પ્રયાણ-ઉત્સાહ અને પૌરાણિક સરખામણી"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "ટિકિટ-બારી પરનો પ્રસંગ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T3",
+              "topic_name": "ટિકિટ-બારી પર પારસી માસ્તર સાથે",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": ["M2.S2.T2"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T3.C3",
+                  "concept_name": "સંસ્કૃતપ્રધાન ભાષા અને પારસી બોલી વચ્ચેનો ટકરાવ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "ટ્રેનમાં સહપ્રવાસીઓ સાથે",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T4",
+              "topic_name": "પ્લેટફોર્મ પર સ્નાન અને નવા સહપ્રવાસીઓ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": ["M2.S3.T3"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T4.C4",
+                  "concept_name": "શુદ્ધિ માટે સ્નાન અને નખોદીઓ-ઘોરખોદીઓનો પરિચય"
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T5",
+              "topic_name": "સહપ્રવાસીઓની વહેમ વિશેની ચર્ચા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": ["M2.S4.T4"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T5.C5",
+                  "concept_name": "નામ-વહેમ પાછળની બનાવટી શાસ્ત્રીય દલીલ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Explanation unit = ઘટના (varta.md, નવલકથાખંડ sub-form), per 01_meta.json's explanation_unit and structure_inventory.ghatna:4. Four [[ઘટના: ...]] markers plus the un-marked-but-required [[લેખક-પરિચય]] concept topic (printed for the student per explanation_unit_map.md's std-10 rule) give 5 topics total — matches Agent 1's marker count exactly; no marker was swallowed.",
+    "M2.S4 groups two ઘટના (સ્નાન, પછી સહપ્રવાસીઓ-ચર્ચા) into one segment because both occur inside the same train compartment once the journey has begun, distinct from the station-platform events of M2.S2-S3; this is a descriptive grouping choice, not a cut decision — each ઘટના marker still holds its own topic.",
+    "topic_category on M2.S3.T3 is 'climax' because the ticket-window exchange is where Bhadrambhadra's Sanskrit-laden speech collides hardest with reality and ends in the story's one physical turn (the slap) — the sharpest comic reversal in the excerpt. M2.S4.T5 is marked 'resolution' only in the sense that it is the excerpt's last printed topic; per varta.md's excerpt rule for નવલકથાખંડ the scene itself remains genuinely unresolved (it stops mid-conversation on '...ઘણાએ અજમાવી જોયેલું છે.') and no topic or downstream field may narrate what happens after.",
+    "Objectives were kept to what this chapter's own printed lines and its own ભાષા-અભિવ્યક્તિ box name as craft (the 'અકથ્ય' repetition, the Parsi-dialect mimicry) — both are explicitly discussed in the chapter's own apparatus, not imported labels. No અલંકાર name was invented; std 10 permits naming but nothing in this excerpt's rendered apparatus supplies a named અલંકાર to anchor, so none is claimed in objective_text.",
+    "O5's bloom_level is Evaluate, matching varta.md's guidance that a comic-satire novelette excerpt like this one rewards judging how the author's craft (pseudo-scientific reasoning dressed as tradition) serves the theme named in genre_signals.theme ('ધર્મના નામે ચાલતો દંભ') — this stays inside the excerpt's own printed argument, invents no outside moral.",
+    "No topic was cut from a સ્વાધ્યાય block, શબ્દ-સમજૂતી box, વિદ્યાર્થી-પ્રવૃત્તિ, ભાષા-અભિવ્યક્તિ or શિક્ષકની ભૂમિકા block — all five remain apparatus for Agent 10 per 01_meta.json's exercise_inventory and extraction_notes.",
+    "original_chunk left empty in every topic and concepts[] carry only concept_name shells, per this agent's spec (Agent 5 fills original_chunk; Agent 12 fills explanation/real_life_example).",
+    "difficulty is set relative to this chapter only, per the std 9-10 row of the difficulty table in agents/02_structure.md: M2.S3.T3 (tatsam-dense speech colliding with Parsi-accented dialect, a genuinely dense line-by-line contrast) and M2.S4.T5 (a long tatsam-heavy pseudo-scientific monologue) are 'hard'; the two more straightforward narrative-and-dialogue topics are 'medium'; the short prose concept topic is 'easy'. No difficulty rating reflects craft-labelling, only what stops a second-language reader on the page.",
+    "This chapter uses no ટેક, કડી, દુહો, પદ or other verse form (structure_inventory confirms tek_occurrences:0, kadi:0, duha:0, pad:0), so none of the verse-specific cutting rules in explanation_unit_map.md applied; the pure ઘટના-wise cut of varta.md governed throughout."
+  ]
+}

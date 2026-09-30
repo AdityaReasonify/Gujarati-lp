@@ -1,0 +1,146 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "This topic's own original_chunk carries the કૃતિ-પરિચય's paraphrase 'અમે તો આકાશો ભણી પીઠ કરી'તી ને ભીંત ચણી હતી' as a summary sentence inside prose — this is NOT the poem's printed line. No field of M1.S1.T1, or of any later field anywhere in the plan, quotes this paraphrase as if it were the verbatim opening line of 'આભાર'; the verbatim (M2.S2.T2's original_chunk) reads 'અમે તો આકાશો ભણી પીઠ કરી'તી ભીંત ચણી,' — without 'ને' and without 'હતી'. Any quoted opening line must match M2.S2.T2's original_chunk exactly, never this paraphrase.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of explanation, key_terms or concept_bullets on M1.S1.T1 names a છંદ (દા.ત. મંદાક્રાન્તા, પૃથ્વી, શિખરિણી, અનુષ્ટુપ) for 'આભાર' — this topic's own original_chunk quotes the કૃતિ-પરિચય's definition of સોનેટ ('ચૌદ પંક્તિની મર્યાદામાં...ચોટ') and never names a મીટર, and 01_meta.json's structure_inventory.meter_named_on_page is false.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "No figures_of_speech[].device attached anywhere in this plan is સૉનેટ, ચોટ, વળાંક, ભાવપલટો, અષ્ટક or ષટ્ક — these are the form's own parts, defined in this very topic's original_chunk ('ચૌદ પંક્તિની મર્યાદામાં...અસરકારક ચોટ'), and naming them as અલંકાર is sonnet.md's explicit hard fail.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "explanation and key_terms on M1.S1.T1 name only the awards and titles printed in this topic's original_chunk (રણજિતરામ સુવર્ણચંદ્રક, ગુજરાત સાહિત્ય અકાદમી, સાહિત્ય અકાદમી-દિલ્હી; the book list 'પ્રસૂન' through 'શિશુલોક') — no birth-place elaboration, literary-movement label, or biographical claim beyond what this printed paragraph states.",
+          "profile": "sonnet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'સોનેટ = ચૌદ પંક્તિનું કાવ્ય, છેલ્લી બે પંક્તિમાં ચોટ' એ વ્યાખ્યા ગોખી લે છે, પણ 'આભાર' કાવ્ય પોતે કઈ પંક્તિથી શરૂ થાય છે અને એની ચોટ ક્યાં આવે છે એ તરફ ધ્યાન જ નથી આપતું — સોનેટ શબ્દ એક લેબલ બની જાય છે, આ કવિતા પર ચકાસવાની વસ્તુ નહીં.",
+      "correction": "સમજૂતીમાં વ્યાખ્યાને 'આભાર' સાથે જોડો: કહો કે આ કાવ્ય 'અમે તો આકાશો ભણી પીઠ કરી'તી ભીંત ચણી,' થી શરૂ થાય છે અને એની ચોટ છેલ્લી બે છપાયેલી પંક્તિઓમાં આવે છે — જેથી બાળક વ્યાખ્યાને આ ચોક્કસ કવિતા પર ચકાસતાં શીખે, ફક્ત ગોખે નહીં."
+    },
+    {
+      "topic_id": "M2.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "explanation and key_terms keep 'કરી'તી' exactly as printed in this topic's original_chunk and gloss it as a poetic-rhythm contraction of 'કરી હતી' — no field 'corrects' it inside original_chunk, and no field suggests the poet made an error or used incorrect grammar.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of explanation, real_life_example or recall_questions[].answer converts this topic's line 'અમો સૌનાં ઋણી : નભતી ઘરમાં જેથી નભતા,' into an instruction of the shape 'આપણે પંખીઓનું ઋણ ચૂકવવું જોઈએ' or 'આપણે પક્ષીઓ માટે માળા બનાવવાં જોઈએ' unless those exact words are quoted from this topic's original_chunk — the line states a felt debt (ઋણી), not a duty.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "Any figures_of_speech[].lines value attached to M2.S2.T2 is a character-for-character substring of this topic's own original_chunk ('અમે તો આકાશો ભણી પીઠ કરી'તી ભીંત ચણી,' through 'અમો સૌનાં ઋણી : નભતી ઘરમાં જેથી નભતા,') — [] remains a correct and complete answer.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "No field describing M2.S2.T2 calls these six printed lines a 'કડી' (e.g. 'પહેલી કડી') — 01_meta.json records stanza_breaks=0 for the whole chapter, so this ભાવ-ખંડ is described as 'આ પંક્તિઓમાં', never as a stanza.",
+          "profile": "sonnet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક છપાયેલી પહેલી પંક્તિ 'અમે તો આકાશો ભણી પીઠ કરી'તી ભીંત ચણી,'ને પોતે જ પૂરું વાક્ય સમજી લે છે (અલ્પવિરામે અટકી જાય છે) અને પછીની પંક્તિઓ સાથે એનું જોડાણ ચૂકી જાય છે — વાક્ય ખરેખર 'ગૂંથે છે માળાઓ...' થઈને છેક 'અમો સૌનાં ઋણી' સુધી ચાલે છે એ ખ્યાલ આવતો નથી.",
+      "correction": "સમજૂતીમાં આ છ પંક્તિઓ એક જ સળંગ વાક્ય છે એમ સ્પષ્ટ કરો — ભીંત ચણવાની વાતથી શરૂ કરી, પંખીઓ માળા બાંધે છે ત્યાં થઈને, છેક 'અમો સૌનાં ઋણી' સુધી હાથ પકડીને લઈ જાઓ, જેથી બાળક પંક્તિ-તૂટ પર અટકવાને બદલે વાક્યની ચાલ પકડતાં શીખે."
+    },
+    {
+      "topic_id": "M2.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "No field spells this topic's bird-sound word as 'ટહુકા' (the કૃતિ-પરિચય's plainer paraphrase spelling) — original_chunk and key_terms keep the printed 'ટ્હૌકા' (ટ + હલંત + હ) exactly, per 01_meta.json's extraction_notes double-check against that paraphrase.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "No field modernises this topic's 'પરણ' (તળપદું for પર્ણ) to 'પર્ણ' inside original_chunk — key_terms glosses it as printed ('પરણ — પાન, પર્ણ, તળપદો શબ્દ') without altering the verse's own word.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "Any figures_of_speech attached to M2.S2.T3 quotes only from this topic's own four lines ('હજી સારું છે કે શિર પર રસોડે તણખલાં,' through 'હવામાં આઘેનું પરણ મનમાં છેક ખરતું,'); [] remains correct, and no device (e.g. ઉત્પ્રેક્ષા) is asserted on 'હવામાં આઘેનું પરણ મનમાં છેક ખરતું' — the line carries no 'જાણે'-type marker that would license a formal comparison label.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "No field calls M2.S2.T3's four lines a 'ત્રીજી કડી' or similar stanza label — say 'આ પંક્તિઓમાં', consistent with the chapter's zero stanza-break print.",
+          "profile": "sonnet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'ટ્હૌકા'ના જોડાક્ષર (ટ+હલંત+હ) પર, અને 'પરીકથા'-'પરણ' જેવા શબ્દો પર અટકી જાય છે, અને આખું ચિત્ર ગુમાવે છે — રસોડા પરનાં તણખલાં, ચીં ચીં, ટ્હૌકા અને ખરતાં પીંછાં કવિને વનની વાર્તા કેમ યાદ અપાવે છે એ જોડાણ સમજાતું નથી.",
+      "correction": "'ટ્હૌકા', 'પરીકથા' અને 'પરણ'ને વાક્યની અંદર જ સાદી ગુજરાતીમાં ગ્લોસ કરો (key_terms માં પહેલેથી છે), અને પછી આખું વાક્ય સાદા શબ્દોમાં ફરી કહો — અવાજ-થી-યાદ-થી-વન એ સાંકળ બતાવીને, જેથી બાળક જોડાક્ષર પર જ ન અટકી રહે."
+    },
+    {
+      "topic_id": "M2.S2.T4",
+      "avoid_checks": [
+        {
+          "check": "No field alters 'ગાછ્યા' or 'ફુક્ક' from this topic's original_chunk, and neither is glossed as a mistake, slang or 'informal/wrong' spelling — key_terms already treats both as the poet's own printed forms (the idiom 'પૂછ્યા-ગાછ્યા વગર' and the coined child-sound 'ફુક્ક').",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of explanation or recall_questions[].answer converts this topic's grass-through-the-crack image into an instruction such as 'આપણે કુદરતને રોકવી ન જોઈએ' or 'ભીંતો ન બાંધવી જોઈએ' — the topic's own words state only that ઘાસ 'વિના પૂછ્યા-ગાછ્યા' ફૂટે છે, an observation of what nature does, not a command to the reader.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "No figures_of_speech entry names સજીવારોપણ (or any other device) on M2.S2.T4's two lines unless it also appears character-for-character inside this topic's original_chunk with a device this chapter's own ભાષા-અભિવ્યક્તિ apparatus actually names — 01_meta.json's extraction_notes records that apparatus as covering only the 'હજી' repetition and the 'ફુક્ક' sound-word, not સજીવારોપણ; [] remains correct for this field.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "No field calls M2.S2.T4's two lines a stanza or 'કડી' — this is the shortest ભાવ-ખંડ (two printed lines), described as 'આ બે પંક્તિઓમાં', never numbered.",
+          "profile": "sonnet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'ફુક્ક' અને 'ગાછ્યા' જેવા શબ્દોને છાપભૂલ કે અભણ બોલી સમજી લે છે, કવિનો ઈરાદાપૂર્વકનો શબ્દ-પ્રયોગ સમજતું નથી — 'ફુક્ક' ઘાસ ફૂટવાનો બાળસહજ અવાજ-શબ્દ છે અને 'ગાછ્યા' જૂના રૂઢિપ્રયોગ 'પૂછ્યા-ગાછ્યા વગર'નો ભાગ છે, ભૂલ નથી.",
+      "correction": "સમજૂતીમાં સ્પષ્ટ કહો કે 'ફુક્ક' કવિએ ખાસ બનાવેલો અવાજ-શબ્દ છે (ઘાસ ફૂટવાનો અવાજ બતાવવા) અને 'ગાછ્યા' 'પૂછ્યા-ગાછ્યા વગર' એ જૂના રૂઢિપ્રયોગનો ભાગ છે — બંને કવિની પોતાની ભાષા-પસંદગી છે, ભૂલ નહીં."
+    },
+    {
+      "topic_id": "M2.S2.T5",
+      "avoid_checks": [
+        {
+          "check": "No sentence of explanation, real_life_example, summary, brief_summary, detailed_summary, any concept_bullets/important_points line, or any recall_questions[].answer converts this topic's closing line 'હજી વાડા-છોડે નથી ઊઘડતાં પ્લાસ્ટિક ફૂલો.' into an instruction such as 'આપણે પ્લાસ્ટિકનો ઉપયોગ ટાળવો જોઈએ' or 'આપણે વૃક્ષો વાવવાં જોઈએ' unless those exact words are quoted from this topic's original_chunk — the line states relief that this has NOT yet happened, not a call to prevent it; sonnet.md names exactly this chapter's irony as the standing hard-gate temptation.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "explanation and key_terms keep 'મિટ્ટીમાં', 'તણાં' and 'મૂળો' (ળ, not લ) exactly as this topic's original_chunk prints them — per 01_meta.json's extraction_notes, the rendered page and an independent MCQ item both spell 'મૂળો' with ળ; no field writes 'મૂલો', 'માટીમાં' or 'નાં' in place of the printed forms.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "No figures_of_speech entry labels the roots-versus-plastic-flowers contrast as વ્યતિરેક or any other formal અલંકાર — this topic's two lines state the contrast in plain connective words ('ભલું કે...હજી...', 'હજી...નથી...') with no ઉપમા-ઉપમેય marker (કરતાં, જાણે, જેવું) that would license a formal comparison label; 04_converged.json's own note already defers this exact determination to this pass, and figures_of_speech: [] is the correct answer for this contrast.",
+          "profile": "sonnet",
+          "severity": "hard"
+        },
+        {
+          "check": "No figures_of_speech[].device on M2.S2.T5 is સૉનેટ, ચોટ, વળાંક, ભાવપલટો, અષ્ટક or ષટ્ક — this topic IS the ચોટ, which makes naming the form's own part as a figure the single most likely slip in the chapter; 'ચોટ' may appear inside explanation as a structural term, never inside figures_of_speech.",
+          "profile": "sonnet",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક ચોટને સીધું 'કુદરત બચાવવી જોઈએ' જેવા સામાન્ય બોધમાં ફેરવી નાખે છે, અને 'આદિમ મૂળો' તથા 'પ્લાસ્ટિક ફૂલો' — આ બે ચોક્કસ ચિત્રો વચ્ચેનો વિરોધાભાસ જ વાંચ્યા વગર છોડી દે છે.",
+      "correction": "સમજૂતી અને recall બંનેમાં બંને પંક્તિ ટાંકીને વિરોધાભાસ બતાવો — માટીમાં હજી જૂનાં મૂળો સચવાયાં છે, ને હજી પ્લાસ્ટિકનાં નકલી ફૂલો ઊઘડ્યાં નથી — અને 'કઈ પંક્તિ પરથી કહો છો?' પૂછીને ચોટને પંક્તિ સાથે બાંધી રાખો, સામાન્ય સૂત્રમાં ફેરવ્યા વગર."
+    }
+  ],
+  "chapter_level": [
+    "સોનેટની ચોટ સહિત ત્રણેય 'હજી...સારું છે' દાવા (M2.S2.T2, T3, T4) — આખા chapter માં ક્યાંય કોઈ explanation, real_life_example, summary કે recall-ઉત્તર 'આપણે વૃક્ષો વાવવાં જોઈએ' / 'આપણે પ્લાસ્ટિક વાપરવું ન જોઈએ' જેવા બોધ-વાક્યમાં ફેરવાવો ન જોઈએ — sonnet.md આ ચોક્કસ chapter ને standing temptation ગણાવે છે; per-topic checks M2.S2.T4 અને M2.S2.T5 પર છે, પણ સિદ્ધાંત ચારેય verse topics ને લાગુ પડે છે.",
+    "01_meta.json's structure_inventory.meter_named_on_page = false — આખા chapter માં ક્યાંય કોઈ પણ topic ના કોઈ પણ field માં કોઈ છંદનું નામ (મંદાક્રાન્તા, પૃથ્વી, શિખરિણી, અનુષ્ટુપ વગેરે) ન આવવું જોઈએ; std-9 ceiling છંદને std-10 પૂરતું જ રાખે છે.",
+    "સૉનેટના પોતાના ભાગોનાં નામ — સૉનેટ, ચોટ, વળાંક, ભાવપલટો, અષ્ટક, ષટ્ક — ચારેય verse topics અને intro topic માંથી કોઈમાં પણ figures_of_speech.device તરીકે ન નોંધાવાં જોઈએ; આ શબ્દો explanation માં કાવ્ય-સ્વરૂપના ભાગ તરીકે વાપરી શકાય, અલંકાર તરીકે નહીં.",
+    "કવિનાં જૂનાં/બોલીનાં/ઘડેલાં રૂપો — 'કરી'તી', 'ટ્હૌકા', 'પરણ', 'ગાછ્યા', 'ફુક્ક', 'મિટ્ટી', 'તણાં', 'ભણી', 'મૂળો' (ળ) — કોઈ પણ topic ના પોતાના field ઉપરાંત, પાછળના કોઈ પણ recall-ઉત્તર કે summary માં ટાંકાય ત્યારે પણ એ જ છપાયેલા સ્વરૂપે જ રહેવાં જોઈએ, ક્યાંય 'સુધારેલા' રૂપે નહીં.",
+    "std-9 નો L2 ગૂંચવાડો: chapter ની પોતાની MCQ (4) સોનેટને ગઝલ, ઊર્મિકાવ્ય અને પદ સામે મૂકે છે — આ ચાર સ્વરૂપોની ગૂંચ ફક્ત M1.S1.T1 પૂરતી મર્યાદિત નથી; chapter ના કોઈ પણ field માં 'આભાર'ને ગઝલ, ઊર્મિકાવ્ય કે પદ તરીકે વર્ણવવામાં ન આવે."
+  ]
+}

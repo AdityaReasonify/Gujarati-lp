@@ -1,0 +1,46 @@
+{
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "genre=varta (01_meta.json active_genre_profiles=['varta.md']); explanation_unit='એક ઘટના' matches profiles/genres/varta.md's 'one ઘટના = one topic' rule.",
+        "00_chapter_normalized.md carries exactly six [[ઘટના: …]] markers on reading text (lines 16, 22, 35, 44, 52, 61); 02_structure.json carries exactly six topics (T1–T6), each carrying exactly one of those markers, 1:1, in the same order. No marker is split across two topics and no two markers share one topic.",
+        "દુહો/પદ/ટેક checks are not applicable — structure_inventory in 01_meta.json and cut_summary in 02_structure.json both record kadi=0, duha=0, pad=0, tek_occurrences=0; this is prose narrative, no verse unit to violate.",
+        "Not a mixed chapter — genre is uniformly varta end to end, no genre:'mixed' routing needed.",
+        "Avoid-list check against profiles/genres/varta.md's 8 hard/soft gates, applied to the cut and to objectives[] (original_chunk/explanation are still empty shells at this stage, owned by Agents 5/12): no objective_text uses an evaluative label on the sympathetic old man or the doctor (gate 3); no objective_text closes on an appended બોધ sentence ('આ વાર્તા આપણને શીખવે છે…' pattern absent, gate 2); O1–O4 (all topics before the climax topic M3.S3.T5) do not name the doctor's decision or its outcome — the turn is not spoilt early (gate 4); O6/topic M3.S3.T6 states only 'બીજા વર્ષે દેખાયા નહિ' as an open fact, inventing no death event the text does not state (gate 7, and 02_structure.json's own notes flag this explicitly for downstream agents); gates 5 (પૌરાણિક debunking) and 6 (લોકકથા dialect standardisation) and 8 (translator credit) are not applicable to this chapter's sub-form."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 6,
+      "topics": 6,
+      "notes": [
+        "All six reading scenes (ઘટના) became topics, in original page order (source_lines_00_normalized 16→22→35→44→52→61 maps onto M1.S1.T1→T2→M2.S2.T3→T4→M3.S3.T5→T6 without reordering).",
+        "The પ્રવેશપેટી (blue intro box) is explicitly transcribed in 00_chapter_normalized.md itself as '[પ્રવેશપેટી — વાદળી બૉક્સ, શિક્ષક-સંબોધિત, apparatus]' — teacher-addressed, not child-facing. Per reference/explanation_unit_map.md this is the std-10-only pattern (unlabeled કૃતિ-પરિચય printed FOR the student) that becomes a CONCEPT topic; std-8's labelled, teacher-addressed intro box is apparatus per global_content_rules.md and correctly generates no pre-reading topic here. No in-text wrap/summary block is printed mid-chapter either, so no REVIEW topic is expected or missing.",
+        "No સ્વાધ્યાય block became a topic: 01_meta.json's exercise_inventory lists exactly 12 groups (વાતચીત, પ્રશ્નોત્તર, વક્તા-ઓળખ, ફકરા-સુધારણા, ઘટનાક્રમ, MCQ, જોડકાં, અહેવાલ-લેખન, પ્રશ્ન-રચના, વાક્ય-રચના, શબ્દ-બદલી, અનુવાદ); 02_structure.json's not_cut_as_topics lists the same 12 [[સ્વાધ્યાય: …]] markers 1:1 and none of the six topic_name/original_chunk-plan entries duplicates or absorbs one. All six topics carry topic_type STORY_TELLING, none EXERCISE.",
+        "No topic covers text no marker claims — each topic's markers[] array names exactly the one [[ઘટના: …]] string it corresponds to, verified present verbatim in 00_chapter_normalized.md.",
+        "Non-topic apparatus (header furniture, શબ્દાર્થ glossary box, શબ્દસમૂહ માટે એક શબ્દ pre-block, રૂઢિપ્રયોગ pre-block, ચર્ચા-વિચારણા box) is enumerated and correctly excluded, matching global_content_rules.md rule 7 and explanation_unit_map.md's apparatus list."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 6,
+      "notes": [
+        "Root objectives[] holds O1–O6, all objective_id values unique; strand_to_objective_map covers L1–L6 exactly once each, one-to-one onto O1–O6.",
+        "Every home_topic_id (M1.S1.T1, M1.S1.T2, M2.S2.T3, M2.S2.T4, M3.S3.T5, M3.S3.T6) and every anchor[] concept id (C1..C9) resolves to an actual node in modules[]/segments[]/topics[]/concepts[] — verified programmatically, no dangling reference.",
+        "Every topic carries objective_ids and each resolves to the root registry (T1→O1 … T6→O6); no topic is missing objective_ids and none references an unregistered O-id.",
+        "Each objective_text is grounded in this chapter's specific lines (e.g. O2 quotes 'પૂછ્યા વિના લઉં તો ચોરી કહેવાય', O6 ties to the chapter's own title 'લીલી નજર') and could not be pasted into another chapter; together they serve the teaching_lens 'ઘટના + પાત્ર + વળાંક' — O1/O3/O4/O6 carry ઘટના, O2 carries પાત્ર (the old man's nature), O5 carries વળાંક (bloom_level Evaluate on the doctor's choice).",
+        "Id grammar matches reference/naming_conventions.md: M/S/T run chapter-continuous and never restart per module (T1,T2 | T3,T4 | T5,T6); concept counter C is chapter-continuous, not per-topic (C1..C9 across six topics, three topics with 2 concepts, three with 1, matching the stated one-concept-equals-topic-number rule only where a topic has exactly one concept, e.g. T1↔C1, T2↔C2, T3↔C3). No M1.S1.T1.P1-style objective code anywhere. No digit characters found in any topic_name/module_name/segment_name/objective_text/concept_name/chapter_name/guiding_question/teaching_lens field (checked programmatically) — global_content_rules.md rule 4 holds."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Non-blocking (travels to Agent 13, per loop_protocol.md): 02_structure.json's own notes already flag that M1.S1.T2 is the chapter's longest printed passage while M2.S2.T3 is a short exchange — length follows the printed story beats and no beat was split or merged to even it out.",
+    "Non-blocking: 02_structure.json flags M1.S1.T2 as difficulty=hard partly because 'ટોઉં' and 'ભેણાં' (dialectal forms inside the story's main paragraph) are not glossed in the printed શબ્દાર્થ box — a genuine gap in the source page, recorded for Agent 5/12, not a structure defect.",
+    "Sensitivity note carried forward unchanged from 02_structure.json: T6 ('વૃદ્ધનું બીજા વર્ષે ન દેખાવું') must stay taught as the open-ended printed fact it is, never re-narrated as an explicit death — already correctly honoured in objective O6's text.",
+    "No PNG render was consulted for this validation; 00_chapter_normalized.md's own explicit apparatus/topic labelling and the marker counts were sufficient to resolve every check."
+  ]
+}
