@@ -17,3 +17,4 @@
 | 15 | complete | pass | true |
 | 12 | complete | pass | true |
 | 11 | qc-failed | qc fail | true |
+| purak01 | qc-failed | qc fail | true |
