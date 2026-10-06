@@ -15,6 +15,7 @@
   "notes": [
     "Equals the logical traversal order of 02_structure.json exactly (topic ids in strictly increasing printed position, re-checked: the nine chunks tile the printed reading text in order with no gap and no overlap). Emitted anyway so Agent 15 has an explicit index rather than an assumption, and so its human_confirmation_required flag is raised on a comparison that actually happened. For this form logical order and printed order are the same, always (patra_pravas.md).",
     "Order is the order of the teaching text only. The title furniture and the '- સંકલિત' credit, the teacher-addressed intro box, the two photographs, the શબ્દાર્થ box and the two unnumbered pre-blocks ('શબ્દસમૂહ માટે એક શબ્દ આપો.', 'રૂઢિપ્રયોગ :') are printed on the same pages but are not this unit's teaching topics and never enter this list.",
-    "This is a પૂરક વાચન unit presented as chapter ch18 (purak lesson 3); no વ્યાકરણ એકમ or 'આગળ વધતાં પહેલાં' unit falls inside printed pages 141 to 145."
+    "This is a પૂરક વાચન unit presented as chapter ch18 (purak lesson 3); no વ્યાકરણ એકમ or 'આગળ વધતાં પહેલાં' unit falls inside printed pages 141 to 145.",
+    "Re-emitted in the QC re-run (blockers D-1 and D-2). The order was compared again with the topic ids of 04_converged.json (byte-identical to 02_structure.json after the two text-only topic renames): the nine ids, in the same order, equal the printed order above. No id, and so no position, changed; the renames of M2.S3.T5 and M2.S3.T6 touch names only."
   ]
 }

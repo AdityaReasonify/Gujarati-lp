@@ -1,5 +1,5 @@
 {
-  "in_progress": "purak03",
+  "in_progress": null,
   "done": [
     {
       "chapter": 12,
@@ -60,6 +60,10 @@
     {
       "chapter": 13,
       "status": "complete-lp2-pending"
+    },
+    {
+      "unit": "purak03",
+      "status": "complete"
     }
   ]
 }

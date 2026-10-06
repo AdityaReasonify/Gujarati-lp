@@ -1,1 +1,571 @@
-{"converged":true,"source":"02_structure.json","sha256":"4680a4011d8ae62f4e63f51e2dbc9c56b6b623c363483e39fa34be0168ec2b19","verdict":"pass","notes":["Convergence record, not a copy: the structure payload stays only in 02_structure.json and downstream agents read it from there.","04_validation.json ran all three Agent-4 checks (સ્વરૂપ fidelity, coverage, objectives and the phase-2 id contract) once against 02_structure.json, 01_meta.json and 00_chapter_normalized.md for gseb_eng_gujarati8_ch18 (પૂરક વાચન 3, સોમનાથ, સાસણ ને સાવજ !, std 8): status pass, no blocking finding, owner null. Unit is one પડાવ, per 01_meta.json and patra_pravas.md. Five [[પડાવ]] reading markers and nine topics, in printed order, with no unclaimed text and no સ્વાધ્યાય block cut; nine objectives O1 to O9, all resolving, every quotation in them found verbatim in the transcription.","Ids are frozen from this record, text-only edits aside: M1 to M2, S1 to S4, T1 to T9, C1 to C14 and O1 to O9 are the chapter's identity until Agent 14's consecutive renumbering. O{n} and strand_to_objective_map are never renumbered.","Downstream, non-blocking, all detailed in 04_validation.json notes: the word 'આંગણે' in two topic names is not printed in the chapter (Agent 12 and 13); M1.S2.T3 ends at 'લીધો' with no printed full stop and M2.S4.T8 holds a closing quotation mark that no mark opened, both to be copied as printed (Agent 5); the printed '- સંકલિત' is in no topic and is Agent 5's call; the three short topics must stay inside what they print (Agent 12)."]}
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati8_ch18",
+  "plan_id": "gseb_eng_gujarati8_ch18_v1",
+  "grade": 8,
+  "chapter_name": "સોમનાથ, સાસણ ને સાવજ !",
+  "genre": "પ્રવાસવર્ણન / પ્રવાસ-નિબંધ (કાલ્પનિક પ્રવાસ)",
+  "active_genre_profiles": [
+    "patra_pravas.md"
+  ],
+  "explanation_unit": "એક પડાવ",
+  "teaching_lens": "પડાવ + દૃષ્ટિ + સંબોધન",
+  "guiding_question": "અનેરી અને આરવ દાદા સાથે સોમનાથથી ગીર સુધી જ્યાં જ્યાં થોભે છે, ત્યાં ત્યાં તેમને ગુજરાતનું કયું નવું રૂપ જોવા-જાણવા મળે છે ?",
+  "marker_accounting": {
+    "reading_markers_in_source": [
+      "[[પડાવ: અમદાવાદથી સોમનાથ સુધીની ગાડીયાત્રા — અનેરી-આરવનો આનંદ, દાદા સાથેની વાતો]]",
+      "[[પડાવ: સોમનાથ — સાગરદર્શન અતિથિગૃહ (ફકરાને અંતે દાદા ભાલકાતીર્થની વાત કાઢે છે)]]",
+      "[[પડાવ: ભાલકાતીર્થ, ગીતામંદિર અને ત્રિવેણીસંગમ]]",
+      "[[પડાવ: સોમનાથમાં સાંજની આરતી, પછી સાસણ નજીક ભોજદે ગામનું રિસૉર્ટ અને શંકરદાનનું ઘર (આ એક જ છપાયેલો ફકરો ત્રણ સ્થળ આવરે છે)]]",
+      "[[પડાવ: જંગલ સફારી — સાસણના કાઉન્ટરથી ગાઈડ મકદુમભાઈ સાથે]]"
+    ],
+    "reading_markers_count": 5,
+    "topics_cut": 9,
+    "unit": "એક પડાવ (profiles/genres/patra_pravas.md) — Agent 4's કડી/દુહો/પદ equality rule does not apply to a પડાવ cut; the checks that apply are 'every marked scene became a topic, in order' and 'no topic covers text no marker claims'.",
+    "topic_ids_per_marker": {
+      "[[પડાવ: અમદાવાદથી સોમનાથ સુધીની ગાડીયાત્રા — અનેરી-આરવનો આનંદ, દાદા સાથેની વાતો]]": [
+        "M1.S1.T1"
+      ],
+      "[[પડાવ: સોમનાથ — સાગરદર્શન અતિથિગૃહ (ફકરાને અંતે દાદા ભાલકાતીર્થની વાત કાઢે છે)]]": [
+        "M1.S2.T2"
+      ],
+      "[[પડાવ: ભાલકાતીર્થ, ગીતામંદિર અને ત્રિવેણીસંગમ]]": [
+        "M1.S2.T3"
+      ],
+      "[[પડાવ: સોમનાથમાં સાંજની આરતી, પછી સાસણ નજીક ભોજદે ગામનું રિસૉર્ટ અને શંકરદાનનું ઘર (આ એક જ છપાયેલો ફકરો ત્રણ સ્થળ આવરે છે)]]": [
+        "M1.S2.T3 (only its first two printed sentences, the evening ત્રિવેણી-return and આરતી)",
+        "M2.S3.T4",
+        "M2.S3.T5",
+        "M2.S3.T6"
+      ],
+      "[[પડાવ: જંગલ સફારી — સાસણના કાઉન્ટરથી ગાઈડ મકદુમભાઈ સાથે]]": [
+        "M2.S4.T7",
+        "M2.S4.T8",
+        "M2.S4.T9"
+      ]
+    },
+    "fine_cut_reason": "01_meta.json structure_inventory records that a [[પડાવ]] marker can only sit at a printed paragraph boundary, so five markers stand for more than five stops: padav_provisional is 8 and Agent 1 left the fine cut to Agent 2. The marker D label itself says the one printed paragraph covers three places. Every topic below lies wholly inside the span of the marker it names (T3 additionally holds the first two sentences of marker D's paragraph), so no text is unclaimed and no marker is without a topic.",
+    "topic_spans": [
+      {
+        "topic_id": "M1.S1.T1",
+        "source_marker": "[[પડાવ: અમદાવાદથી સોમનાથ સુધીની ગાડીયાત્રા — અનેરી-આરવનો આનંદ, દાદા સાથેની વાતો]]",
+        "chunk_opens_at": "અનેરી અને આરવના આનંદનો આજે પાર ન હતો.",
+        "chunk_closes_at": "ત્રણ વાગ્યે તો તેઓ સોમનાથ પહોંચી ગયાં.",
+        "opens_on_a_printed_marker_line": true,
+        "approx_words": 147
+      },
+      {
+        "topic_id": "M1.S2.T2",
+        "source_marker": "[[પડાવ: સોમનાથ — સાગરદર્શન અતિથિગૃહ (ફકરાને અંતે દાદા ભાલકાતીર્થની વાત કાઢે છે)]]",
+        "chunk_opens_at": "અનેરી - આરવના પપ્પા રાજેશભાઈએ ચાલકને કહ્યું",
+        "chunk_closes_at": "શ્રીકૃષ્ણે તેને ક્ષમા આપેલી.’’",
+        "opens_on_a_printed_marker_line": true,
+        "approx_words": 110
+      },
+      {
+        "topic_id": "M1.S2.T3",
+        "source_marker": "[[પડાવ: ભાલકાતીર્થ, ગીતામંદિર અને ત્રિવેણીસંગમ]]",
+        "chunk_opens_at": "થોડીવારમાં સૌ ભાલકાતીર્થ પહોંચ્યાં",
+        "chunk_closes_at": "સોમનાથદાદાની સાંજની આરતીનો લાભ લીધો",
+        "opens_on_a_printed_marker_line": true,
+        "approx_words": 73
+      },
+      {
+        "topic_id": "M2.S3.T4",
+        "source_marker": "[[પડાવ: સોમનાથમાં સાંજની આરતી, પછી સાસણ નજીક ભોજદે ગામનું રિસૉર્ટ અને શંકરદાનનું ઘર (આ એક જ છપાયેલો ફકરો ત્રણ સ્થળ આવરે છે)]]",
+        "chunk_opens_at": "બીજે દિવસે સવારે એકાદ કલાકની મુસાફરી કરીને",
+        "chunk_closes_at": "આઠ-દસ કિલોમીટર કાપતાં તો એકાદ કલાક વીતી ગયો.",
+        "opens_on_a_printed_marker_line": false,
+        "approx_words": 69
+      },
+      {
+        "topic_id": "M2.S3.T5",
+        "source_marker": "[[પડાવ: સોમનાથમાં સાંજની આરતી, પછી સાસણ નજીક ભોજદે ગામનું રિસૉર્ટ અને શંકરદાનનું ઘર (આ એક જ છપાયેલો ફકરો ત્રણ સ્થળ આવરે છે)]]",
+        "chunk_opens_at": "એક જગ્યાએ શંકરદાન મોટરસાઈકલ ઊભી રાખીને બોલ્યા",
+        "chunk_closes_at": "બધા સાંભળવામાં મગ્ન હતાં.",
+        "opens_on_a_printed_marker_line": false,
+        "approx_words": 212
+      },
+      {
+        "topic_id": "M2.S3.T6",
+        "source_marker": "[[પડાવ: સોમનાથમાં સાંજની આરતી, પછી સાસણ નજીક ભોજદે ગામનું રિસૉર્ટ અને શંકરદાનનું ઘર (આ એક જ છપાયેલો ફકરો ત્રણ સ્થળ આવરે છે)]]",
+        "chunk_opens_at": "ત્યાં પાસેના ઝાડ પરનાં વાંદરાં કૂદાકૂદ કરી રહ્યા.",
+        "chunk_closes_at": "સવારે વહેલાં જવાનું હતું એટલે બધાં જલદી સૂઈ ગયાં.",
+        "opens_on_a_printed_marker_line": false,
+        "approx_words": 269
+      },
+      {
+        "topic_id": "M2.S4.T7",
+        "source_marker": "[[પડાવ: જંગલ સફારી — સાસણના કાઉન્ટરથી ગાઈડ મકદુમભાઈ સાથે]]",
+        "chunk_opens_at": "વહેલી સવારે સૌ જંગલ સફારી માટે નીકળ્યાં.",
+        "chunk_closes_at": "પણ હવે તો આ ભૂમિ જ અમારું વતન !’’",
+        "opens_on_a_printed_marker_line": true,
+        "approx_words": 100
+      },
+      {
+        "topic_id": "M2.S4.T8",
+        "source_marker": "[[પડાવ: જંગલ સફારી — સાસણના કાઉન્ટરથી ગાઈડ મકદુમભાઈ સાથે]]",
+        "chunk_opens_at": "અનેરી અને આરવને જુદાં જુદાં પ્રાણીપક્ષીઓ જોવામાં",
+        "chunk_closes_at": "એકમેકને નડ્યા વગર રહે છે તે પણ સમજાવ્યું.",
+        "opens_on_a_printed_marker_line": false,
+        "approx_words": 246
+      },
+      {
+        "topic_id": "M2.S4.T9",
+        "source_marker": "[[પડાવ: જંગલ સફારી — સાસણના કાઉન્ટરથી ગાઈડ મકદુમભાઈ સાથે]]",
+        "chunk_opens_at": "જંગલ સફારી પૂરી કરી સૌ પાછાં ઉતારે આવ્યાં.",
+        "chunk_closes_at": "સૌ અમદાવાદ આવવા નીકળી ગયાં.",
+        "opens_on_a_printed_marker_line": false,
+        "approx_words": 30
+      }
+    ],
+    "page_matter_inside_a_span_never_opens_a_topic": {
+      "M1.S1.T1": "full-width photograph printed on p.141 after the line that ends 'કેમ ?' — sits inside this topic's span, is not text, never in original_chunk.",
+      "M2.S3.T6": "full-width photograph printed on p.143 between 'હીરુબાઈએ કહ્યું.' and 'પણ સિંહ વાડામાં આવી જાય…' — sits inside this topic's span, is not text, never in original_chunk."
+    },
+    "markers_deliberately_not_cut_as_topics": {
+      "[[શીર્ષક]] and [[કર્તા-નિર્દેશ]] ('- સંકલિત')": "header furniture under the unit title. The '- સંકલિત' slot is printed below the title, not at the end of the piece, so it is not placed in any topic's original_chunk; whether it is carried as chapter-level provenance is Agent 5's call under reference/gujarati_verbatim.md rule 5. Not decided here.",
+      "[[પ્રવેશપેટી (શિક્ષક માટે — વાચન-દૃશ્ય નથી)]]": "apparatus — teacher-addressed intro box (it speaks of what the unit will do for 'બાળકો' in the third person). It is the std 6–8 convention's intro box, not a std-10-style unlabelled પરિચય printed for the student, so no CONCEPT topic. It feeds the genre evidence and key_terms only.",
+      "[[છબિ: પૃષ્ઠ 141 …]] and [[છબિ: પૃષ્ઠ 143 …]]": "two uncaptioned real photographs, page matter. Neither opens a topic (patra_pravas.md); both sit mid-span inside M1.S1.T1 and M2.S3.T6.",
+      "[[શબ્દાર્થ]]": "apparatus — fifteen-headword gloss box; feeds key_terms and point-of-use gloss, never a reading scene.",
+      "[[સ્વાધ્યાય: શબ્દસમૂહ માટે એક શબ્દ આપો.]] and [[સ્વાધ્યાય: રૂઢિપ્રયોગ :]]": "the two unnumbered pre-blocks recorded in 01_meta.json exercise_inventory (eight items; one item). Agent 10's alone; no topic name or chunk touches them."
+    }
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'મને તો સપનામાં પણ સિંહ જ દેખાયો !' અને 'મારા કાનમાં તો દરિયો જ ઘૂઘવતો હતો !' પરથી અનેરી અને આરવ શરૂઆતમાં મનમાં શું જોઈ-સાંભળી રહ્યાં છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'રૂમની ગૅલેરીમાંથી જ ઘૂઘવતો દરિયો દેખાય !' અને 'આખરે તો આ શ્રીકૃષ્ણની ભૂમિ છે' પરથી અતિથિગૃહથી દાદા બાળકોને કઈ જગ્યાએ જવાનું સૂચવે છે અને શા માટે તે સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": [
+        "M1.S2.T2.C2",
+        "M1.S2.T2.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ભાલકાતીર્થથી ત્રિવેણીસંગમ અને સાંજની આરતી સુધી સૌ ક્યાં ક્યાં ગયાં તે ક્રમમાં કહી, 'નદીમાં સ્નાન કરવાનો આ પહેલો જ પ્રસંગ હતો' વાક્ય પરથી બાળકોનો આનંદ સમજાવવો.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": [
+        "M1.S2.T3.C4",
+        "M1.S2.T3.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'ઝરણું કલકલ નાદે વહેતું હતું' અને 'વારંવાર ચડાવ અને ઢોળાવ આવે' વાક્યો પરથી ભોજદેના રિસૉર્ટ અને જંગલના રસ્તાનું ચિત્ર આંખ સામે ઊભું કરી પોતાના શબ્દોમાં વર્ણવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'ઢોલિયો એટલે ખાટલો' અને 'અમારે ત્યાં હંધાય હારું ગાય દાદા !' પરથી શંકરદાનના ઘરે મહેમાનોને શું નવું જોવા-સાંભળવા મળ્યું અને ત્યાંની બોલી કેવી જુદી છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": [
+        "M2.S3.T5.C7",
+        "M2.S3.T5.C8"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'વાંદરાં જ ગાયોભેંસોને ચેતવી દે' અને 'અંદરના ભાગમાં ગાયો અને બહારના ભાગમાં ભેંસો' પરથી ગીરના લોકો સિંહની વચ્ચે નિરાંતે કેવી રીતે રહે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T6",
+      "anchor": [
+        "M2.S3.T6.C9",
+        "M2.S3.T6.C10"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O7",
+      "legacy_id": "L7",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'ક્યાંય પ્લાસ્ટિક ફેંકવાનું નથી' અને 'અમે સીદી છીએ. પણ હવે તો આ ભૂમિ જ અમારું વતન !' પરથી ગાઈડ મકદુમભાઈ નિયમ અને ઓળખ વિશે શું કહે છે તે કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S4.T7",
+      "anchor": [
+        "M2.S4.T7.C11"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O8",
+      "legacy_id": "L8",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "સફારીમાં જોયેલું (ડૅમ, સિંહ અને સિંહણ), સાંભળેલું ('સિંહની ત્રાડ') અને ગાઈડે સમજાવેલું ('ટેન્કર દ્વારા પાણી') એમ ત્રણ ભાગમાં વહેંચીને જંગલ સફારીનું વર્ણન કરવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S4.T8",
+      "anchor": [
+        "M2.S4.T8.C12",
+        "M2.S4.T8.C13"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O9",
+      "legacy_id": "L9",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'મનમાં દરિયાનો ઘૂઘવાટ અને સિંહની ડણક સંઘરીને' પરથી સૌ શું લઈને પાછાં ફરે છે અને શરૂઆતના સપનાના સિંહ તથા કાનના દરિયા સાથે એ કેવો મળતો આવે છે તે મૂલવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S4.T9",
+      "anchor": [
+        "M2.S4.T9.C14"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6",
+    "L7": "O7",
+    "L8": "O8",
+    "L9": "O9"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "સોમનાથનો દરિયો, તીર્થ ને સાંજની આરતી",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "અમદાવાદથી સોમનાથની ગાડીયાત્રા",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "અનેરી-આરવનો ઉમંગ અને સોમનાથ સુધીની ગાડીયાત્રા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "source_marker": "[[પડાવ: અમદાવાદથી સોમનાથ સુધીની ગાડીયાત્રા — અનેરી-આરવનો આનંદ, દાદા સાથેની વાતો]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "સપનામાં સિંહ ને કાનમાં દરિયો — દાદા સાથેની ગાડીની વાતો",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "સોમનાથનો દિવસ",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "સાગરદર્શન અતિથિગૃહ અને દાદાની ભાલકાતીર્થની વાત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O2"
+              ],
+              "source_marker": "[[પડાવ: સોમનાથ — સાગરદર્શન અતિથિગૃહ (ફકરાને અંતે દાદા ભાલકાતીર્થની વાત કાઢે છે)]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "અતિથિગૃહની ગૅલેરીમાંથી ઘૂઘવતો દરિયો",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S2.T2.C3",
+                  "concept_name": "દાદાની ભાલકાતીર્થની વાત — શ્રીકૃષ્ણ ને જરા",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "ભાલકાતીર્થ, ગીતામંદિર, ત્રિવેણીસંગમ અને સાંજની આરતી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": [
+                "O3"
+              ],
+              "source_marker": "[[પડાવ: ભાલકાતીર્થ, ગીતામંદિર અને ત્રિવેણીસંગમ]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C4",
+                  "concept_name": "ભાલકાતીર્થ, ગીતામંદિર ને ત્રિવેણીસંગમમાં પહેલું નદી-સ્નાન",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M1.S2.T3.C5",
+                  "concept_name": "સોમનાથદાદાની સાંજની આરતી",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "ગીરના ગામડે આવકાર, સિંહ-પરિવાર ને જંગલ સફારી",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "સાસણ પાસે ભોજદે અને શંકરદાનનું ઘર",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "ભોજદેનું રિસૉર્ટ અને જંગલનો ઉબડખાબડ રસ્તો",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O4"
+              ],
+              "source_marker": "[[પડાવ: સોમનાથમાં સાંજની આરતી, પછી સાસણ નજીક ભોજદે ગામનું રિસૉર્ટ અને શંકરદાનનું ઘર (આ એક જ છપાયેલો ફકરો ત્રણ સ્થળ આવરે છે)]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C6",
+                  "concept_name": "આંબાવાડિયું, તંબુ, ઝરણું ને મોટરસાઈકલ પાછળનો જંગલ-રસ્તો",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "શંકરદાનના ઘરે ઢોલિયો, દૂધ ને ગાન",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O5"
+              ],
+              "source_marker": "[[પડાવ: સોમનાથમાં સાંજની આરતી, પછી સાસણ નજીક ભોજદે ગામનું રિસૉર્ટ અને શંકરદાનનું ઘર (આ એક જ છપાયેલો ફકરો ત્રણ સ્થળ આવરે છે)]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C7",
+                  "concept_name": "ઢોલિયે આવકાર, કળશિયાનું પાણી ને અહીંની કળા",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T5.C8",
+                  "concept_name": "તાંસળે શેડકઢું દૂધ ને સામસામેનું ગાન",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T6",
+              "topic_name": "સિંહ-પરિવાર અને સિંહ સાથેની નિરાંત",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O6"
+              ],
+              "source_marker": "[[પડાવ: સોમનાથમાં સાંજની આરતી, પછી સાસણ નજીક ભોજદે ગામનું રિસૉર્ટ અને શંકરદાનનું ઘર (આ એક જ છપાયેલો ફકરો ત્રણ સ્થળ આવરે છે)]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T6.C9",
+                  "concept_name": "વાંદરાંની ચેતવણી ને સિંહ-પરિવારનું આવવું",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S3.T6.C10",
+                  "concept_name": "ગાય-ભેંસ રાખવાની રીત ને સાવજની વાતોનું વાળુ",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "જંગલ સફારી અને ઘર તરફ વાપસી",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T7",
+              "topic_name": "સાસણનું કાઉન્ટર અને ગાઈડ મકદુમભાઈ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O7"
+              ],
+              "source_marker": "[[પડાવ: જંગલ સફારી — સાસણના કાઉન્ટરથી ગાઈડ મકદુમભાઈ સાથે]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T7.C11",
+                  "concept_name": "ગાઈડ મકદુમભાઈના નિયમો ને એમની ઓળખ",
+                  "objective_id": "O7",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T8",
+              "topic_name": "સફારીનો માર્ગ — ડૅમ, સિંહ-સિંહણ, જળકુંડ ને ત્રાડ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": [
+                "O8"
+              ],
+              "source_marker": "[[પડાવ: જંગલ સફારી — સાસણના કાઉન્ટરથી ગાઈડ મકદુમભાઈ સાથે]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T8.C12",
+                  "concept_name": "કમલેશ્વર ડૅમ, રસ્તા પાસે સિંહ-સિંહણ ને વહેતું ઝરણું",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                },
+                {
+                  "concept_id": "M2.S4.T8.C13",
+                  "concept_name": "ઉનાળાનાં જળકુંડ, સિંહની ત્રાડ ને ગાઈડની માહિતી",
+                  "objective_id": "O8",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S4.T9",
+              "topic_name": "ઉતારે પાછાં અને ઘૂઘવાટ-ડણક સાથે અમદાવાદની વાપસી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "easy",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O9"
+              ],
+              "source_marker": "[[પડાવ: જંગલ સફારી — સાસણના કાઉન્ટરથી ગાઈડ મકદુમભાઈ સાથે]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T9.C14",
+                  "concept_name": "નાસ્તો કરી મનમાં દરિયો ને સિંહ સંઘરીને પાછાં ફરવું",
+                  "objective_id": "O9",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "CONTEXT ROUTING GAP (flagged per the harness instruction, not guessed past): 02_structure.md's frontmatter lists reference/naming_conventions.md, reference/phase2_contract.md and profiles/students/std-8.md as inputs, but the run supplied only no_hallucination_policy.md, global_content_rules.md, explanation_unit_map.md and teaching_lens_map.md (the genre profile patra_pravas.md was named separately and read). Those three exist on disk, so they were read directly rather than guessed at; they supplied the id grammar, the chapter-continuous concept counter, the root objectives[] shape and the std-8 craft-label ceiling. agents/04_mapping_convergence.md was also read, only to learn what Agent 4 counts against this cut. The same gap was handled the same way in output8/purak01/02_structure.json. Surfacing it for the orchestrator.",
+    "UNIT: 01_meta.json sets 'એક પડાવ' and patra_pravas.md sets the same; the page agrees (the order of the text is the itinerary, so it fails the reorder test). The one disagreement with the profile's wording is mild: its prose says std-8 P3 is cut 'સાસણગીર, then સોમનાથ', whereas the page prints સોમનાથ first and સાસણ after. Printed order wins and nothing is reordered (Avoid 1).",
+    "MARKER ACCOUNTING for Agent 4: five printed [[પડાવ]] markers, nine topics. Agent 1's own note says a marker can only sit at a printed paragraph boundary and that padav_provisional is 8, with the fine cut left to Agent 2; marker D's label says its single paragraph covers three places. So several topics open inside a paragraph. marker_accounting.topic_spans gives, for every topic, the marker it sits under and the verbatim opening and closing words (each checked to occur exactly once in 00_chapter_normalized.md, in printed order). No marker is without a topic and no text is unclaimed. Only M1.S2.T3 straddles two markers: it takes marker C and the first two sentences of marker D (the return to સોમનાથ and the evening આરતી), ending at 'લીધો', where the page prints no full stop and the date changes.",
+    "HOW THE NINE DIFFER FROM AGENT 1'S EIGHT (page-driven, deliberate): (a) the evening આરતી is two printed sentences with no place-description of its own; as a standalone topic it would leave Agent 12 an 11-word chunk and a recall ladder with no 'why' to ask, so it rides as the second concept of the ભાલકાતીર્થ topic, where the sentence 'એ પછી સૌ સોમનાથ પાછાં ફર્યાં.' continues the same evening. Agent 1 had already grouped ભાલકાતીર્થ, ગીતામંદિર and ત્રિવેણીસંગમ into one stop. If Agent 4 or 13 holds that a place is always its own topic, the alternative is a separate topic there, at the cost of a very thin one. (b) શંકરદાનનું ઘર is cut in two at 'ત્યાં પાસેના ઝાડ પરનાં વાંદરાં કૂદાકૂદ કરી રહ્યા.' — the writer turns from the welcome (ઢોલિયો, કળશિયો, કળા, દૂધ, ગાન) to the lion-family's arrival and how the hosts live with it. That is a change of matter at one place, not a quote or paragraph break. (c) The safari is cut in two where the guide's rules and identity give way to the drive's sights, and the return is its own closing topic.",
+    "HOOK AND BOUNDARY JUDGEMENTS, stated so Agent 4 can overrule them: (1) M1.S2.T2 keeps the whole of marker B including દાદા's 'ભાલકાતીર્થ નજીકમાં જ છે ત્યાં જઈશું ?' and the exchange about શ્રીકૃષ્ણ and જરા. The hook rule would give that line to the next topic, but it sits mid-sentence ('…કેદ કરવાનું ચાલતું હતું ત્યાં જ દાદાજી બોલ્યા : …'), so a cut there leaves a sentence fragment at the end of one chunk and the start of the next; the exchange is also a finished conversation held at the guesthouse, and the move to ભાલકાતીર્થ itself happens at 'થોડીવારમાં સૌ ભાલકાતીર્થ પહોંચ્યાં'. (2) M2.S3.T6 keeps 'સવારે વહેલાં જવાનું હતું એટલે બધાં જલદી સૂઈ ગયાં.' as the evening's close; marker E opens after it. (3) M2.S4.T8 opens on 'અનેરી અને આરવને જુદાં જુદાં પ્રાણીપક્ષીઓ જોવામાં…', the line that introduces the sightseeing, so the hook rule is applied there and M2.S4.T7 ends at the guide's reply.",
+    "Quoted dialogue creates no boundary anywhere: the family's speech, the hosts' speech and the guide's speech all sit inside the stop they are spoken at. Several turns of speech inside one topic is the normal state for this unit (patra_pravas.md).",
+    "UNEVEN LENGTH (a note, never a block): approximate printed words per topic are in topic_spans. M2.S4.T9 (about 30), M1.S2.T3 (about 73) and M2.S4.T7 (about 100) are short; M2.S3.T6 (about 270) and M2.S4.T8 (about 246) are the longest. Agent 12 must stay inside what the short topics print — no Somnath history, no facts about the Gir or the Sidi community that the chapter does not print (patra_pravas.md Avoid 4 and 5).",
+    "CONCEPTS: one is normal and is used for M1.S1.T1, M2.S3.T4, M2.S4.T7 and M2.S4.T9. Two are used for M1.S2.T2, M1.S2.T3, M2.S3.T5, M2.S3.T6 and M2.S4.T8, each time because the topic does two separable things at one stop; no topic has three. The counter runs across the chapter (C1 to C14). A topic's objective anchors both of its concepts, and both concepts carry that objective_id.",
+    "CATEGORY AND TYPE: every topic is STORY_TELLING (a narrated stop; nothing in this unit is a taught idea or an in-text wrap by the writer, so no CONCEPT or REVIEW topic exists). 'climax' is deliberately unused: 01_meta.json records no વળાંક or ચરમબિંદુ, and the lion-family's appearance while the guests sit with the hosts is an event inside a stop, not a turn in a plot (the page never says where the lions came; see the RENAME note). introduction = M1.S1.T1; transition = M2.S3.T4 (the move from the coast to the Gir); resolution = M2.S4.T9.",
+    "DIFFICULTY (relative inside this chapter; std 8 prose, set by what stops an A2+ reader on the page, never by a craft device): easy = M1.S1.T1, M1.S2.T3, M2.S4.T9; medium = M1.S2.T2, M2.S3.T4, M2.S4.T7; hard = M2.S3.T5 (the densest તળપદા stretch: ઢોલિયો, ઓસરી, કળશિયો, તાંસળું, શેડકઢું, હંધાય, હારું, and the villagers' sung exchange), M2.S3.T6 (Saurashtra speech with a printed unquoted paragraph and the cattle-placement reasoning) and M2.S4.T8 (અંતરિયાળ, અદ્યતન, રિહેબિલિટેશન સેન્ટર, and a quotation that closes on p.145 without ever opening — see below).",
+    "depends_on is [] everywhere except M2.S4.T9, which depends on M1.S1.T1: the closing 'મનમાં દરિયાનો ઘૂઘવાટ અને સિંહની ડણક સંઘરીને' is the return of the two images the children state in the opening (the dream of the lion, the sea in the ear), and the objective asks the child to set them side by side. That is the one real dependence in a plotless itinerary.",
+    "OBJECTIVES: nine, one per reading scene, each anchored on printed words (every quoted fragment was checked as an exact substring of 00_chapter_normalized.md), 12 to 30 words, Gujarati, no digits, and none names an અલંકાર, છંદ, સમાસ or the સાહિત્યપ્રકાર — std 8 notices and never names (profiles/students/std-8.md; teaching_lens_map.md craft-naming gate). They serve the lens 'પડાવ + દૃષ્ટિ + સંબોધન': where the family has stopped, what they see and hear there, and who is telling whom (દાદા to અનેરી અને આરવ). The objective for the home stop deliberately does not quote the printed word 'દુહાછંદ': it contains the banned substring 'છંદ' and would trip a mechanical craft-label check. The word stays verbatim in the chunk; Agent 12 should gloss it at point of use as what the two men sing, without naming it as a form.",
+    "FOR AGENT 12 (not decided here): the chapter prints no writer who says 'I', no addressee outside the story and no sign-off, so patra_pravas.md Avoid 3 has to be met with what the page gives — the first topic's explanation should name દાદા speaking to his grandchildren અનેરી અને આરવ (the book's 'દાદુ' is the child's own word for him) and the register that closeness produces. The ભાષા-લક્ષ્ય here comes from the chapter's own words: the તળપદા of the Gir hosts (ઢોલિયો, કળશિયો, તાંસળું, હંધાય, હારું, હાવજ) and the English loans printed in Gujarati script (ફોરેસ્ટ, રિહેબિલિટેશન સેન્ટર, ગ્રેટ આઈડિયા). The guide's self-description 'સીદી' and the ભાલકાતીર્થ and સોમનાથ passages go to Agent 8 as 01_meta.json already notes; the cut makes no sensitivity decision.",
+    "PRINTED DEFECTS THAT FALL NEAR A CUT, for Agent 5 (kept as printed, never repaired): no full stop after 'લીધો' where M1.S2.T3 ends; inside M2.S4.T8 a closing ’’ after 'પહોંચાડે.' has no opening mark, and the sentence 'ફોરેસ્ટ વિભાગના / લોકો…' crosses from p.144 to p.145. The full list of defects is in 01_meta.json extraction_notes.",
+    "Names carry no digits; module, segment and topic names are Gujarati and descriptive. original_chunk is empty in every topic, concepts[] are shells with key_terms [] and content [] — Agent 5 and Agent 12 fill them. chapter_id gseb_eng_gujarati8_ch18 is as 01_meta.json records it: purak lesson 3 presented as ch18, a numbering required by the LP2 id regex, provenance in 01_meta.json extraction_notes.",
+    "No page render was opened. 00_chapter_normalized.md, with Agent 1's own extraction_notes on the printed defects and on which marker sits where, answered every question this cut needed; no layout question remained that required a PNG from _renders.",
+    "RENAME (QC re-run, blocker D-1; text-only, ids frozen): two topic_name values carried the Gujarati locative of 'courtyard' (the word the QC verdict quotes), which is printed nowhere in 00_chapter_normalized.md (checked: zero occurrences). The M2.S3.T6 name that opened with it read as the lions standing in the yard, but the page only has ચેતનાબેન's what-if 'સિંહ વાડામાં આવી જાય તો' and the hosts' 'આ પા આવતું હશે', so no name may say where the lions came. Now M2.S3.T5 = 'શંકરદાનના ઘરે ઢોલિયો, દૂધ ને ગાન' ('ઘરે' inflects the printed 'આ આપણું ઘર !' and the marker's 'શંકરદાનનું ઘર') and M2.S3.T6 = 'સિંહ-પરિવાર અને સિંહ સાથેની નિરાંત'. Nothing else changed: every id, type, category, difficulty, depends_on, objective, concept name, source_marker and the marker accounting are as before. Agent 4 and Agent 5 must copy the two new names; the old names survive in downstream files until those agents re-run.",
+    "SCOPE OF THIS RE-RUN: the blocker list handed to this agent also names D-2 (Agent 5's key_terms and modified_chunk fields in 05_with_content.json) and D-3 (Agent 9's M2.S4.T9.C14.IMG1 description and generation_prompt in 09_media.json). Those are other agents' declared outputs, not 02_structure.json, so they are untouched here; the QC verdict itself names 05_verbatim_attachment.md and 09_media_planning.md as their owners. Neither blocker touches the cut, the objectives or any name in this file."
+  ]
+}

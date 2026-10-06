@@ -62,8 +62,12 @@
     },
     {
       "unit": "purak01",
+      "status": "complete"
+    },
+    {
+      "unit": "purak03",
       "status": "qc-failed"
     }
   ],
-  "in_progress": "purak01"
+  "in_progress": null
 }
