@@ -1,0 +1,16 @@
+{
+  "chapter_id": "gseb_eng_gujarati7_ch18",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M2.S2.T2",
+    "M2.S3.T3",
+    "M2.S3.T4",
+    "M3.S4.T5",
+    "M3.S5.T6"
+  ],
+  "source": "printed pages 115-118 read off the renders (_renders/page-1.png to page-4.png); the teaching text runs in one continuous column from the title box on page 115 to the closing line at the top of page 118, with the two illustrations on pages 115 and 116 and the two apparatus boxes (શબ્દાર્થ, કહેવતો / રૂઢિપ્રયોગ) after the last line of text on page 118",
+  "notes": [
+    "Equals the logical traversal order of 02_structure.json exactly (M1.S1.T1, M2.S2.T2, M2.S3.T3, M2.S3.T4, M3.S4.T5, M3.S5.T6): the story is told once, forwards, with the Sita-Rama કથા embedded in place by the crow and no printed section out of sequence. Emitted anyway so Agent 15 has an explicit index rather than an assumption.",
+    "Order is the order of the teaching text only. The પ્રવેશપેટી, the શબ્દાર્થ box and the કહેવતો / રૂઢિપ્રયોગ box are excluded as apparatus; this પૂરક વાચન unit prints no સ્વાધ્યાય, વ્યાકરણ એકમ or 'આગળ વધતાં પહેલાં' revision unit, so nothing else competes for a place in the list."
+  ]
+}

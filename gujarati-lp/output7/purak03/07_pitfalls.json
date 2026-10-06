@@ -1,0 +1,180 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Gate 1 (summary-only teaching), bound to this topic: `explanation` must add what this topic's `modified_chunk` leaves out - that the crow's reply is built from the song's own two claims. The song sings 'ધન્ય રાજા, તમારા રાજ્યમાં સૌ સુખી.' and 'માગતાં વરસતી મેઘવૃષ્ટિ !', and the crow answers 'અહીં નથી માગ્યા મેહ વરસતા કે અહીં નથી સૌ સુખી !'. At least one printed claim of the song must be set beside the crow's matching denial. If every sentence of `explanation` can be replaced by `modified_chunk` with no loss, the topic fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 4 (spoiling the turn), bound to this topic: M2.S3.T4 carries `topic_category: \"climax\"` and this topic precedes it. None of `explanation`, `summary`, `detailed_summary` or any recall `answer` here may name anything that this topic's `original_chunk` does not contain from later in the story: no મોતી, થાળ, ઘંટ, અઢાર, હાર, ઝવેરી, પ્રધાન, રાણી; no ચોરી / ચોર / લૂંટ / છુપાવવું; no સીતા, પ્રતિહારી, કાકભુશુંડી; no લોભ, અદૃશ્ય; and no hint that the four chosen men will fail the test. The topic ends where the chunk ends, on the crow's request 'આપના દરબારમાંથી ચાર ઉત્તમ પુરુષોને મારી સાથે મોકલો !'.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 5 (debunking a પૌરાણિક કથા), bound to the speaking crow: the કાગડો who cries 'જૂઠાને માથે છી !', answers the king and asks for 'ચાર ઉત્તમ પુરુષો' is taken at face value. No field says કાગડો ખરેખર બોલતો નથી, that this is કલ્પના or 'વાર્તામાં જ બને', or explains his speech away (a dream, a trick, a puppet); no field asserts that such a crow exists. The plain register is 'કાગડો કહે છે'.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "The crow gets only the motive the page prints: no sentence of `explanation` or a recall `answer` gives him personal anger, revenge or mischief towards the કલાકાર or the king. His reason is his own line 'જીભે કહ્યું એ શા કામનું ? નજરે જ દેખાડું !' - a test of seeing against saying - and a recall `answer` to why the crow acts quotes it.",
+          "profile": "varta",
+          "severity": "soft"
+        },
+        {
+          "check": "The પાઘડી scene is shown, not judged: no sentence of `explanation`, `real_life_example` or a recall `answer` calls the કલાકાર જૂઠો, ખુશામતખોર or ચાપલૂસ in the teaching voice, because the page says only 'રાજાની પ્રશંસાનું ગીત'. 'જૂઠાને માથે છી !' appears only as the crow's own cry, quoted exactly as printed and glossed with the book's words 'ખોટી વ્યક્તિને સજા'.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક ગીતની `રામલખમણ તણી જોડ જાણે` અને `અવધનો રામ દરબાર જાણે` માંના `જાણે` ને `જાણવું` (ખબર હોવી) નું રૂપ સમજે છે, એટલે ગીતમાં 'રાજા રામ-લક્ષ્મણની જોડ જાણે છે' જેવો ગૂંચવાયેલો અર્થ બને છે અને `જેવું` નો ભાવ જતો રહે છે. પછી કાગડાનું `તમે નથી રામ, તમારું રાજ્ય નથી રામરાજ્ય` કોઈ દાવાની સામે ઊભું જ રહેતું નથી, અને બાળકને લાગે છે કે કાગડો અમથું અપમાન કરે છે.",
+      "correction": "`explanation` ના પહેલા ભાગમાં `જાણે — જેવું, એવું લાગે કે` ગ્લોસ કરો અને ગીતની પહેલી કડી એક સાદા વાક્યમાં ફરી કહો : રાજા અને તેમના ભાઈ રામ-લક્ષ્મણની જોડી જેવા, અને આ દરબાર અવધના રામના દરબાર જેવો. ત્યાર પછી જ કાગડાનું `તમે નથી રામ` મૂકો, જેથી એ જવાબ ગીતના દાવાની સામે દેખાય. `જાણે` ને `key_terms` માં `તણી, તુજ` ની બાજુમાં ઉમેરો. ગીતની પંક્તિઓ છાપ્યા મુજબ જ ટાંકો અને કોઈ અલંકારનું નામ ન આપો."
+    },
+    {
+      "topic_id": "M2.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "Gate 1 (summary-only teaching), bound to this topic: `explanation` must add what `modified_chunk` leaves out - the crow's instruction 'ઉપાડો થાળ ! આપણે એ રાજાની કચેરીમાં રજૂ કરવાનો છે.' and the sentence that follows it at once, 'ચારે જણાએ અંદરોઅદર ઈશારે વાત કરી લઈ એકેક મોતી ઉપાડી પોતાના પહેરવેશમાં છુપાવી દીધું'. One sentence of `explanation` must set the two side by side: the plate is to be handed over, and each man takes a pearl out of it first, by signal and in secret. An `explanation` that only retells the ride, the dig and the find fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 4 (spoiling the turn), bound to this topic: M2.S3.T4 carries `topic_category: \"climax\"` and this topic precedes it. None of `explanation`, `summary`, `detailed_summary` or any recall `answer` here may name anything this topic's `original_chunk` does not contain: no ચૌદ, no mention that the plate will hold fewer pearls when it is shown; no રાજાનો ભાઈ, પ્રધાન or રાણી taking a pearl, no ઝવેરી or હાર; no સીતા, પ્રતિહારી, પુત્રવધૂ or કાકભુશુંડી; no word on who put the ઘંટ there or why the plate lay buried (that is the crow's tale in M3.S4.T5); no લોભ, લાલચ, અદૃશ્ય, પર્દાફાશ; and no forward sentence such as 'પછી રાજાને ખબર પડે છે'.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "The four are one act, not four types: no sentence of `explanation`, `real_life_example` or a recall `answer` singles out the રાજ પુરોહિત, સેનાપતિ, નગરશેઠ or રાજસેવક as worse or different from the others, or reasons from a role to a community, because the page gives them a single deed - 'ચારે જણાએ'. The નગરશેઠ here is one of the four and is not the tale's નગરશેઠ of M3.S4.T5.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક `ઉત્તમ પુરુષો` ને સારા માણસોની ઓળખ સમજીને `એકેક મોતી ઉપાડી ... છુપાવી દીધું` ને સાચવવા માટે લીધેલું ગણે છે, અથવા એ એક જ સાદા વાક્યને ઝડપથી વટાવી જાય છે અને જવાબ આપે છે કે 'ચારે જણ થાળ લઈને ગયા'. પાઠમાં કાગડાએ થાળ રાજાની કચેરીમાં રજૂ કરવા કહ્યું છે અને ચારે જણે ઈશારે વાત કરીને ચૂપચાપ પોતાનું મોતી લઈ લીધું છે; સલામતીનું કોઈ કારણ પાઠમાં નથી.",
+      "correction": "`explanation` માં કાગડાનું `ઉપાડો થાળ ! આપણે એ રાજાની કચેરીમાં રજૂ કરવાનો છે.` અને તરત પછીનું `ચારે જણાએ અંદરોઅદર ઈશારે વાત કરી લઈ એકેક મોતી ઉપાડી પોતાના પહેરવેશમાં છુપાવી દીધું` બાજુ બાજુમાં મૂકો, અને એક વાક્યમાં કહો કે આ કામ ઈશારે અને છુપાવીને થયું. `છુપાવી દીધું` ની જગ્યાએ `સાચવ્યું` જેવો નરમ શબ્દ ન વાપરો, અને કોઈ ચુકાદો ન ઉમેરો — પાઠના શબ્દો જ બતાવે."
+    },
+    {
+      "topic_id": "M2.S3.T3",
+      "avoid_checks": [
+        {
+          "check": "Gate 1 (summary-only teaching), bound to this topic: `explanation` must name what `modified_chunk` drops - the three questions the king does not ask when the plate is set before him, 'થાળ કોનો છે, ક્યાંથી આવ્યો, શા માટે છે ?', and what he does instead: 'રાજાની આંખો ચમકી', then 'સીધો હુકમ'. The three questions (કોનો, ક્યાંથી, શા માટે) must appear as the king's unasked questions; if `explanation` can be replaced by `modified_chunk` with no loss, the topic fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 4 (spoiling the turn), bound to this topic: M2.S3.T4 carries `topic_category: \"climax\"` and this topic precedes it. None of `explanation`, `summary`, `detailed_summary` or any recall `answer` here may name the reconciliation of the count (ચૌદ, 'છ મોતી', 'ચાર ખૂટે'), the pearls being handed back, the word પર્દાફાશ, or the crow's verdict 'આ તમે પોતે'; none may call the king લોભી, ચોર or ગુનેગાર, because the king's unasked questions are reported as what he did, not judged; none may name સીતા, પ્રતિહારી, કાકભુશુંડી, લોભ or અદૃશ્ય. The topic stops on the ઝવેરી's 'હાર માટે પૂરાં અઢાર મોતી જોઈએ.' and says nothing of what that causes.",
+          "profile": "varta",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક એક જ થાળ ત્રણ જણના હાથમાં ફરે છે ત્યારે `ચાર`, `બે` અને `બાકીનાં આઠ` કોની પાસે ગયાં તે ગૂંચવે છે — ખાસ કરીને `એને` (રાજાના ભાઈને) અને ખિસ્સામાં `સેરવી` દીધેલાં બે (પ્રધાનનાં પોતાનાં) — એટલે ઝવેરીના `પૂરાં અઢાર` સામે રાણી પાસે કેટલાં રહ્યાં તે પકડાતું નથી.",
+      "correction": "`explanation` માં ત્રણ વખત થાળ કોના હાથે કેવી રીતે હલકો થાય છે તે ક્રમમાં, છાપેલા આંકડા શબ્દોમાં કહો : રાજાનો ભાઈ તલવારની ધમકીથી ચાર; પ્રધાન ચૂપચાપ ખિસ્સામાં બે; રાણી હુકમથી થાળ સમેત બાકીનાં આઠ. દરેક વખતે કોણ, કોને, કઈ રીતે — એક જ વાક્યમાં રાખો, અને અંતે ઝવેરીનું `પૂરાં અઢાર` મૂકો. કોઈ આંકડો અંકમાં ન લખો અને કુલ ગણતરીનો કોઈ નવો આંકડો ઉમેરશો નહીં."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "Gate 1 (summary-only teaching), bound to this topic: `modified_chunk` says each man 'આપી દે છે'; `explanation` must add why, from the cue printed at each hand-back - the brother speaks up because 'મારા માથે છ મોતીનો આરોપ આવે છે, એટલે'; the minister gives his two only after 'રાજાએ પ્રધાન સામે જોઈ કરડી આંખ કરી' and 'ચાર કે છ ?'; the four act 'બીતાં બીતાં'; and the queen's 'વાહ, અઢાર મોતી થઈ ગયાં ! મારો હાર સરસ થશે !' shows no shame. No sentence gives પસ્તાવો, શરમ, ભૂલ સમજાઈ or અંતરાત્મા as a reason for any hand-back.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 2 (a tacked-on બોધ), at the climax where it is most tempting: none of `explanation`, `summary`, `detailed_summary`, `concept_bullets` or a recall `answer` of this topic ends on a sentence of the form 'લોભ ન કરવો જોઈએ', 'આપણે પણ … જોઈએ' or 'આ વાર્તા આપણને શીખવે છે…', or on a virtue word such as પ્રામાણિકતા or સત્ય. A recall `answer` about why a hand-back happened ends on a cue printed in this topic (આરોપ, કરડી આંખ, બીતાં બીતાં).",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "The idiom in 'હવે એ ઉત્તમ પુરુષોને જોયા હોય તો કાપો તો લોહી ના નીકળે !' is glossed where it first appears in `explanation` or `key_terms` with the book's own words 'ભોંઠા પડી જવું, છોભીલા થઈ જવું' (printed in the idiom box as 'કાપો તો લોહી ન નીકળવું'), and no sentence reads it as something that happened to the men's bodies (કપાયા, લોહી ન નીકળ્યું).",
+          "profile": "varta",
+          "severity": "soft"
+        },
+        {
+          "check": "`explanation` stops where the topic stops: on the crow's 'આ તમે પોતે !' and the king's own question 'આ હું પોતે એટલે ? કેમ, હું કેવો છું ?'. It does not answer that question about the king (no 'રાજા પણ લોભી / ચોર છે') and does not name the later ending (અદૃશ્ય, લોભનો સ્પર્શ, થાળ ગાયબ); those belong to M3.S5.T6, the topic the structure marks 'અંતિમ ચોટ'.",
+          "profile": "varta",
+          "severity": "soft"
+        },
+        {
+          "check": "No sentence says how the કાગડો knew the four men had held pearls back (કાગડાએ જોઈ લીધું, અંતર્યામી, જાદુ). The page gives only his words 'એ પણ મળી રહેશે !' and 'પણ આપના પહેલાં આપના ચાર ઉત્તમ પુરુષોએ એ ગણ્યાં હતાં - એ અઢાર હતાં !'; `explanation` reports those words and supplies no source for them.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક `એ પણ મળી રહેશે` ને કાગડાની કોઈ જાદુઈ શક્તિ કે આગાહી સમજે છે, કારણ કે ગણતરી — રાજાનાં `ચૌદ`, રાણીનાં `આઠ`, ભાઈનાં `ચાર` અને પ્રધાનનાં `બે` — એ પકડતું નથી. એટલે ખૂટતાં ચાર મોતી ચારે ઉત્તમ પુરુષોનાં કપડાંમાં છે, જે વાત પાઠમાં પહેલાં જ છાપેલી છે, તે હાથમાંથી જતી રહે છે.",
+      "correction": "`explanation` માં ગણતરી એક વાર સીધી બતાવો : રાણી પાસે આઠ, રાજાના ભાઈનાં ચાર, પ્રધાનનાં બે — એટલે રાજાએ ગણેલાં `ચૌદ` પૂરાં; બાકીનાં ચાર ચારે જણનું `પોતાનાં કપડાંમા સંતાડેલું એક એક મોતી` છે, જે થાળમાંથી રાજા સુધી પહોંચ્યાં જ નહોતાં. `એ પણ મળી રહેશે` ને કાગડાની શક્તિ ન કહો, અને કાગડાને એ કેવી રીતે ખબર પડી તે ન જણાવો."
+    },
+    {
+      "topic_id": "M3.S4.T5",
+      "avoid_checks": [
+        {
+          "check": "Gate 1 (summary-only teaching), bound to this topic: `explanation` must tie the tale to the court scene by the printed objects - 'સોનાના થાળમાં અઢાર મોતી', 'એક મોટો ઘંટ', 'એક વિશાળ વડનું ઝાડ ઊભું છે' - so the child can say this is the plate the four men dug up in M2.S2.T2 ('ઘંટ', 'સોનાનો થાળ', 'પૂરાં અઢાર'). If `explanation` only retells the tale in the order of `modified_chunk`, the topic fails.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 3 (judging a character the story treats with sympathy): no `explanation`, `real_life_example` or recall `answer` applies an evaluative label (જીદ્દી, બગડેલી, ગાંડી, મૂરખ, બેદરકાર, ડરપોક or a synonym) to the નગરશેઠની પુત્રવધૂ, to the tale's નગરશેઠ or to the પ્રતિહારી. 'ગાંડી હઠ' occurs only inside the શેઠ's printed words 'મારી પુત્રવધૂ આવી ગાંડી હઠ લઈને બેઠી છે, શું કરું ?', and `હઠ` is glossed with the book's 'જીદ, ખોટો આગ્રહ' without becoming a verdict. The પ્રતિહારી covers the plate with a ઘંટ because it 'વચમાં નડ્યો'; no field calls that carelessness, or calls the passers-by who 'અડક્યું સુધ્ધાં નહીં' foolish.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 5 (debunking or verifying a પૌરાણિક કથા), bound to this topic: the episode of સીતામાતાજી, the પુત્રવધૂ's વ્રત and the buried થાળ is taught as the crow's tale. No field says whether it happened, whether it is told in the રામાયણ or any other book, or that the વડનું ઝાડ of 'આજે એક વિશાળ વડનું ઝાડ ઊભું છે' can be found at a real place today; 'આજે' stays the crow's own word.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "No field adds a fact about રામ, સીતા or અયોધ્યા that this topic's `original_chunk` does not carry (for example વનવાસ, રાવણ, લવ-કુશ, જનક, or a named source book). The chunk gives only 'અયોધ્યામાં રાજા રામ રાજ્ય કરતા હતા' and the printed forms 'સીતામાતાજી' / 'સીતાજી'; where the child needs more, `explanation` points back at the chunk's own sentence.",
+          "profile": "varta",
+          "severity": "soft"
+        },
+        {
+          "check": "`explanation` attributes the whole tale to the કાગડો (કાગડો કહે છે / કાગડાની કથા), including the paragraph that follows the closing quotation mark after 'કોઈ એ થાળને અડક્યું સુધ્ધાં નહીં.' - 'રાત્રે પ્રતિહારી આંગણામાં આંટા મારતો હતો…' - and does not present the પ્રતિહારી scene as the textbook's own narration or as part of the court scene.",
+          "profile": "varta",
+          "severity": "soft"
+        },
+        {
+          "check": "`explanation`, `summary` and every recall `answer` stop where this topic's chunk stops, on 'એ જગ્યાએ આજે એક વિશાળ વડનું ઝાડ ઊભું છે.'. None names the ending that belongs to M3.S5.T6, the topic the structure marks 'અંતિમ ચોટ' - the pearls and plate vanishing, 'લોભનો સ્પર્શ', અદૃશ્ય - or the crow's claim to be of the line of કાકભુશુંડી.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક સીતાજીના `દીકરીના ઘરનું મારાથી કાંઈ લેવાય નહીં !` નું કારણ પોતાની રીતે બાંધે છે — 'મોતી ગમ્યાં નહીં', 'સીતાજીને ધનની જરૂર નહોતી', 'લાંચ જેવું લાગ્યું' — અને `દીકરી` ને સીતાજીની પોતાની દીકરી સમજી લે છે. પાઠનું પોતાનું કારણ, એટલે સીતાજી પુત્રવધૂને `દીકરી` કહીને ખવડાવે છે, તે ચૂકી જાય છે.",
+      "correction": "`explanation` માં સીતાજીનાં બંને છાપેલાં વાક્યો જોડો : પહેલાં `દીકરી માની પાસે લાડ નહીં માંગે તો કોની પાસે માગશે ?` — એટલે એમણે નગરશેઠની પુત્રવધૂને `દીકરી` ગણીને જાતે કોળિયા કરી કરીને ખવડાવી; પછી `દીકરીના ઘરનું મારાથી કાંઈ લેવાય નહીં !` — એટલે એ જ દીકરીના ઘરેથી થાળ લેવાય નહીં. `દીકરી — નગરશેઠની પુત્રવધૂ, જેને સીતાજી માની જેમ ખવડાવે છે` એમ ગ્લોસ કરો. ઇનકારનું કોઈ બીજું કારણ ન ઉમેરો."
+    },
+    {
+      "topic_id": "M3.S5.T6",
+      "avoid_checks": [
+        {
+          "check": "Gate 1 (summary-only teaching), bound to this topic: `modified_chunk` omits the crow's yardstick sentence, so `explanation` must carry it - 'દુનિયા આગળ વધી છે કે પાછળ લથડી છે તેમાં અમારો આ ગજ છે' - and say in simple Gujarati what he measures with: the plate that, in રામનું રાજ્ય, 'કોઈ એની સામે જોતું નથી', with the 'પ્રતિહારી જેવો સામાન્ય માણસ' who is not tempted set against the 'ચાર ઉત્તમ પુરુષો' who are. `ગજ` is glossed as a measure (the book's શબ્દાર્થ: 'લંબાઈ ભરવાનું પ્રમાણ') and is never left to be read as હાથી.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 2 (a tacked-on બોધ), bound to this topic: the chapter states its own moral and the check is on how it is carried. The crow's 'રાજા, એ રામરાજ્યનાં મોતી હતાં. લોભનો સ્પર્શ થયો એટલે એ અદૃશ્ય થઈ ગયાં !' is quoted exactly as printed and taught as the crow's move. No sentence of `explanation`, `summary`, `detailed_summary`, `concept_bullets` or a recall `answer` follows it with 'આપણે પણ … જોઈએ' / 'બોધ એ છે કે…', and none closes on the teacher-addressed aim of the પ્રવેશપેટી (સમાનતા, બંધુતા, ન્યાયપ્રિયતા). The crow's other printed saying, 'બોલતા માણસે મૂંગાં પશુપંખી પાસેથી પણ ઘણું જાણવા, શીખવાનું છે', may be quoted as his speech and is not rephrased as the child's duty.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 5 (debunking or verifying a પૌરાણિક કથા), at the vanishing: 'રાજાએ જોયું તો મોતી કે થાળ કશું જ ત્યાં નહોતું' is taught as the tale's own event. No field supplies an agent or a mechanism the page does not print (કાગડાએ લઈ લીધાં, જાદુ, ભ્રમ, રાજાનું સપનું, કોઈએ સંતાડ્યાં), and none says the pearls 'ખરેખર' did or did not vanish. The only cause in the topic is the crow's printed 'લોભનો સ્પર્શ થયો એટલે'.",
+          "profile": "varta",
+          "severity": "hard"
+        },
+        {
+          "check": "Nothing is added about કાકભુશુંડી beyond the chunk's 'મહાયોગી કાકભુશુંડીના વંશનો છું' and the book's own શબ્દાર્થ 'કાક – કાગડો': no scripture, no story and no title (for example who he told the રામાયણ to) in `explanation`, `key_terms`, `concept_bullets` or a recall `answer`.",
+          "profile": "varta",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક થાળ અને મોતી અદૃશ્ય થવાનું કારણ પોતાની રીતે શોધે છે — કાગડાએ ચૂપચાપ લઈ લીધાં, કે એ કોઈ જાદુ હતો, કે રાજાએ સંતાડ્યાં — કારણ કે પાઠ કારણ એક જ ટૂંકા વાક્યમાં આપે છે. એટલે `લોભનો સ્પર્શ થયો એટલે` નો અર્થ, જે પાઠની જ અગાઉની કથા સાથે જોડાય છે, હાથમાંથી જતો રહે છે.",
+      "correction": "`explanation` માં કારણ માટે કાગડાનું પોતાનું વાક્ય `લોભનો સ્પર્શ થયો એટલે એ અદૃશ્ય થઈ ગયાં !` જ ટાંકો, અને એની બાજુમાં અગાઉની કથાનું `કોઈ એ થાળને અડક્યું સુધ્ધાં નહીં` મૂકો : રામના રાજ્યમાં કોઈએ થાળને અડક્યું નહોતું, અહીં સૌએ મોતી લઈ લીધાં કે જમા કરાવ્યાં — જેથી `સ્પર્શ` નો અર્થ પાઠમાંથી જ મળે. કાગડાએ લઈ લીધાં, જાદુ થયો કે કોઈએ સંતાડ્યાં એવું કોઈ કારણ ન ઉમેરો."
+    }
+  ],
+  "chapter_level": [
+    "Spoiler gate scope: the one topic carrying `topic_category: \"climax\"` is M2.S3.T4 (the count that does not tally and the four hidden pearls handed back). Every topic printed before it - M1.S1.T1, M2.S2.T2, M2.S3.T3 - is bound by varta gate 4, and each carries its own banned-word list above. The final ચોટ (the pearls and plate vanishing, M3.S5.T6, which the structure marks 'અંતિમ ચોટ') sits after the tagged climax, so gate 4 does not reach it; M2.S3.T4 and M3.S4.T5 are held to it only by their soft stop-line checks, which Agent 13 reports but does not block on.",
+    "The પ્રવેશપેટી states the unit's aim in the book's own voice, to the teacher: 'સમાનતા, બંધુતા અને ન્યાયપ્રિયતા એ ઉત્તમ રાજ્યવ્યવસ્થાનાં લક્ષણો છે…'. It is not a line of the story. Varta gate 2 keeps it from becoming the closing sentence of any child-facing field (`explanation`, `summary`, `detailed_summary`, `concept_bullets`, recall `answer`). The story's own printed moral is the crow's 'લોભનો સ્પર્શ થયો એટલે એ અદૃશ્ય થઈ ગયાં !', quoted in M3.S5.T6 and never paraphrased into an 'આપણે … જોઈએ'.",
+    "Varta gates 6, 7 and 8 name sub-forms this unit is not (a લોકકથા's oral dialect, a નવલકથાખંડ excerpt, a translated story), so none is instantiated per topic. The unit is a complete tale with no byline, no translator line and no source line printed anywhere, so no field may supply an author, a translator or a source book (રામાયણ, રામચરિતમાનસ or otherwise). Its old or poetic forms (તણી, તુજ, અવધ, લલકાર્યું, મેહ, પટ્ટણનું દટ્ટણ) are covered by gloss at the point of use, not by a gate.",
+    "Std-7 craft ceiling (author.md, commitment 4: below std 9 the craft is noticed, not labelled; and the std-7 row of the L2 table in the spec): no child-facing field names a device or a sub-form - no ઉપમા, રૂપક, વ્યંગ, કટાક્ષ, કથામાં-કથા. The artist's praise-song is quoted verse inside a prose tale; it is explained as what the artist says and is not analysed for પ્રાસ or છંદ, and its `જાણે` comparison is noticed, not named.",
+    "The chapter's L2 stalls are function-word and idiom, not tatsama vocabulary. Three of the four idioms in the book's કહેવતો/રૂઢિપ્રયોગ box are absent from the seeds - 'જૂઠાને માથે છી !' and 'માગ્યા મેહ વરસવા' (M1.S1.T1), 'કાપો તો લોહી ન નીકળવું' (M2.S3.T4); 'પટ્ટણનું દટ્ટણ થઈ જવું' (M3.S4.T5) is already glossed inline in `modified_chunk`. Each is glossed at its first use with the book's own words (ખોટી વ્યક્તિને સજા; જે માંગે તે મળવું; ભોંઠા પડી જવું, છોભીલા થઈ જવું; ખંડેર થઈ જવું), quoted in the printed form and never read literally; they are first candidates for `key_terms`.",
+    "The pearl counts are the plot (અઢાર, ચાર, બે, આઠ, ચૌદ). Every number in every display field is written in Gujarati words, never digits (global rule 4), and every count a field quotes matches the count printed in that topic's own `original_chunk`.",
+    "Sensitivity (global rule 10): રામ, સીતા and કાકભુશુંડી are figures of a living tradition, named only as the chunks name them - રાજા રામ, સીતામાતાજી / સીતાજી, મહાયોગી કાકભુશુંડી - taught as the tale's own world, never compared with other religions or tested against history. The four chosen men (રાજ પુરોહિત, સેનાપતિ, નગરશેઠ, રાજસેવક) all do the same act and no field generalises from one role to a community; the નગરશેઠ among the four (M2.S2.T2) and the નગરશેઠ of the crow's tale (M3.S4.T5) are different men and are never merged into one type."
+  ]
+}

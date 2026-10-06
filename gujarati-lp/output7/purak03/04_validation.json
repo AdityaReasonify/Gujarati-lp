@@ -1,0 +1,50 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati7_ch18",
+  "status": "pass",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "Explanation unit matches the profile: genre 'varta' (પૌરાણિક કથા / દૃષ્ટાંતકથા sub-form) takes the ઘટના-wise unit per reference/explanation_unit_map.md's વાર્તા row ('ઘટના-wise … one plot beat … follow the story's turns, not paragraph counts'); 01_meta.json and 02_structure.json both declare explanation_unit='એક ઘટના'. No કડી/દુહો/પદ/ટેક markers exist in this chapter (structure_inventory kadi=duha=pad=tek_occurrences=0, confirmed by scanning 00_chapter_normalized.md — only [[ઘટના: …]], [[પૂરક ક્રમાંક]], [[પ્રવેશપેટી]], [[શબ્દાર્થ]], [[કહેવતો/રૂઢિપ્રયોગ]] markers are present), so the કડી/દુહો/પદ/ટેક bullets of this check are not applicable.",
+        "Not a mixed chapter. Two embedded pieces were checked: (a) the bard's two-stanza praise song (lines 11-14, 18-20) stays quoted inside M1.S1.T1 rather than becoming its own POEM topic — defensible by direct precedent in explanation_unit_map.md's charitra_prasang row ('medieval verse quoted inside the prose … stays inside its prose topic, it does not become a પદ topic'), since the song is narrative colour (the bard's flattery that sets up the crow's challenge) rather than a standalone taught work; (b) the embedded સીતા-રામરાજ્ય કથા the crow narrates (M3.S4.T5/M3.S5.T6) is itself prose narrative, not a different literary form, so it stays inside the SAME ઘટના-wise વાર્તા unit rather than triggering genre:'mixed' — matching the frame-story precedent cited in 02_structure.json's own notes (output6/ch13).",
+        "Marker-2/marker-3 granularity (flagged by 02_structure.json itself for this agent's review — whether the four messengers' shared pocketing-sentence and the palace chain of brother/minister/queen should split into more topics under varta.md's 'repetition with escalation is a chain of beats' line): checked directly against 00_chapter_normalized.md lines 34-40 and 41-55. Both spans read as one continuous, unbroken turn of action each (one shared sentence for the four messengers with no printed paragraph break to cut on; one continuous court scene from the king's blind order through the queen's demand for a necklace, broken only by the scene-ending jeweller line) — a defensible ઘટના-wise read on 'follow the story's turns, not paragraph counts' grounds. NOT independently verified against the exact wording of profiles/genres/varta.md itself — see routing gap below.",
+        "No craft-naming violation: none of the six objective_text strings name an અલંકાર, છंद, સમાસ or literary device — all ask the child to find/trace/explain an event or a printed line.",
+        "No invented બોધ: O6 quotes the chapter's own stated moral line verbatim ('લોભનો સ્પર્શ થયો એટલે એ અદૃશ્ય થઈ ગયાં !') rather than appending an invented one, per no_hallucination_policy.md/global_content_rules.md rule 1.",
+        "ROUTING GAP (not treated as a blocking failure): this agent's own spec (agents/04_mapping_convergence.md) lists 'the active genre profile(s)' among its inputs, and 01_meta.json's active_genre_profiles names profiles/genres/varta.md — but that file was NOT among the policy documents handed to this run (only no_hallucination_policy.md, global_content_rules.md, loop_protocol.md, explanation_unit_map.md, naming_conventions.md, phase2_contract.md were). Per the run's own CONTEXT ROUTING instruction, this is recorded here rather than guessed at: the profile's literal avoid-list, and the exact wording of the 'repetition with escalation' / 'couplets quoted inside a scene' lines 02_structure.json attributes to varta.md, could not be independently verified against the source file. Everything above was instead checked against reference/explanation_unit_map.md (which documents the varta.md explanation unit and several of its precedents directly), global_content_rules.md, no_hallucination_policy.md, and a direct re-read of 00_chapter_normalized.md — no violation was found in any of it."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 6,
+      "topics": 6,
+      "notes": [
+        "All six [[ઘટના: …]] markers (00_chapter_normalized.md lines 8, 34, 41, 56, 93, 98) map 1:1, in order, to the six topics M1.S1.T1 / M2.S2.T2 / M2.S3.T3 / M2.S3.T4 / M3.S4.T5 / M3.S5.T6.",
+        "source_lines_00_normalized ranges (8-33, 34-40, 41-55, 56-92, 93-97, 98-108) are contiguous and exhaustive across the whole reading text with no gap and no overlap; lines 1-7 (title/પૂરક ક્રમાંક/પ્રવેશપેટી) and 109-131 (શબ્દાર્થ, કહેવતો/રૂઢિપ્રયોગ) are correctly excluded as apparatus — no topic covers text no marker claims, and nothing is left uncovered.",
+        "[[પ્રવેશપેટી]] correctly excluded as the 'pre-reading opener' bullet's exception, not a violation of it: the box's own closing sentence ('આ એકમ ભણાવતી વખતે બીજી પૌરાણિક પ્રેરક કથાઓનો સંદર્ભ આપી શકાશે') is explicitly teacher-addressed ('while TEACHING this unit...'), matching explanation_unit_map.md rule 4's 'the blue intro box ... is teacher-addressed matter ... not a topic' — not the std-10 કવિ-પરિચય shape ('prose printed FOR THE STUDENT') that would require a CONCEPT topic. Verified by reading the full box text in 00_chapter_normalized.md, not assumed.",
+        "No in-text wrap exists in this chapter to check (continuous narrative, no mid-chapter REVIEW block).",
+        "exercise_inventory in 01_meta.json is [] — a measured fact for this પૂરક વાચન unit (no numbered સ્વાધ્યાય anywhere on the four rendered pages). Cross-checked: zero exercise_inventory entries, zero topics named/shaped as an exercise block. No સ્વાધ્યાય became a topic."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 6,
+      "notes": [
+        "objectives[] has 6 entries, O1-O6, all objective_id unique.",
+        "Every home_topic_id (M1.S1.T1, M2.S2.T2, M2.S3.T3, M2.S3.T4, M3.S4.T5, M3.S5.T6) and every anchor[] concept id (…C1 … …C6) resolves to a node in the tree — checked against the modules/segments/topics/concepts arrays directly.",
+        "strand_to_objective_map {L1:O1 … L6:O6} covers exactly the six legacy_id values used by the six objectives, each once, no gaps, no duplicates.",
+        "Every topic carries objective_ids pointing at exactly one objective, matching its home_topic_id 1:1 — no orphan objective, no topic without an objective.",
+        "All six objective_text strings are text-grounded and chapter-specific (name the bard's song, the crow's dropping, the 18 pearls, the banyan tree, the named culprits in sequence, Sita's refusal, the quoted moral line) — none could be pasted into another chapter — and each serves teaching_lens 'ઘટના + પાત્ર + વળાંક'.",
+        "Id grammar matches reference/naming_conventions.md and reference/phase2_contract.md exactly: M1-M3 continuous; S1-S5 continuous across the whole chapter (not restarting per module); T1-T6 continuous; concept number equals topic number for every topic (C1..C6, one concept per topic) — the validator's exact-match rule. No M1.S1.T1.P1-style objective code anywhere. chapter_id='gseb_eng_gujarati7_ch18' matches {board}_{medium}_{subject}{grade}_ch{N}; plan_id='gseb_eng_gujarati7_ch18_v1' matches {chapter_id}_v{version}; unit_number=topic_number=18 and chapter_master_id=null, exactly as RUN CONTEXT required."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "Single validation pass per reference/loop_protocol.md — no loop, no iteration.",
+    "00_chapter_normalized.md was read in full as the source of truth; no render PNG was opened — nothing arose that the transcription could not answer.",
+    "ROUTING GAP recorded: profiles/genres/varta.md (the active genre profile cited by this agent's own spec as a required input) was not among the documents provided to this run. Everything checkable without it was checked and passed; the profile's own avoid-list wording and the specific quotes 02_structure.json attributes to it were not independently verified against the source file — see checks.genre_fidelity.notes for exactly what was and was not covered.",
+    "This is agent 04's run-context-provided numbering: ch18 for purak lesson 3, per RUN CONTEXT and 01_meta.json/02_structure.json's own extraction_notes/unit_type_note. Not re-derived here."
+  ]
+}

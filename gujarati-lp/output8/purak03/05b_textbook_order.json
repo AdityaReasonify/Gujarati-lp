@@ -1,0 +1,20 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch18",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S2.T2",
+    "M1.S2.T3",
+    "M2.S3.T4",
+    "M2.S3.T5",
+    "M2.S3.T6",
+    "M2.S4.T7",
+    "M2.S4.T8",
+    "M2.S4.T9"
+  ],
+  "source": "printed pages 141 to 145 (folios read off the printed page-number bars; _renders/page-1.png to page-5.png) read off the render: the reading text runs from the opening paragraph on p.141 to the last paragraph on p.145 in one continuous sequence, followed on p.145 by the શબ્દાર્થ box and two unnumbered pre-blocks",
+  "notes": [
+    "Equals the logical traversal order of 02_structure.json exactly (topic ids in strictly increasing printed position, re-checked: the nine chunks tile the printed reading text in order with no gap and no overlap). Emitted anyway so Agent 15 has an explicit index rather than an assumption, and so its human_confirmation_required flag is raised on a comparison that actually happened. For this form logical order and printed order are the same, always (patra_pravas.md).",
+    "Order is the order of the teaching text only. The title furniture and the '- સંકલિત' credit, the teacher-addressed intro box, the two photographs, the શબ્દાર્થ box and the two unnumbered pre-blocks ('શબ્દસમૂહ માટે એક શબ્દ આપો.', 'રૂઢિપ્રયોગ :') are printed on the same pages but are not this unit's teaching topics and never enter this list.",
+    "This is a પૂરક વાચન unit presented as chapter ch18 (purak lesson 3); no વ્યાકરણ એકમ or 'આગળ વધતાં પહેલાં' unit falls inside printed pages 141 to 145."
+  ]
+}

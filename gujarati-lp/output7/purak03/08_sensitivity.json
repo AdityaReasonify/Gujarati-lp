@@ -1,0 +1,22 @@
+{"topics":[
+{"topic_id":"M1.S1.T1","areas":["ધર્મ"],
+ "caution":"The explanation turns the artist's line 'અવધનો રામ દરબાર જાણે' into a lecture on Ram or on what a true રામરાજ્ય is before the story has shown it, or treats the crow's 'જૂઠાને માથે છી !' as a verdict on the artist as a person.",
+ "guidance":"In `explanation` teach the stuti as praise that the court applauds and the crow's blunt act as the challenge that sets the story moving; keep 'જૂઠાને માથે છી !' verbatim and glossed as the book's own idiom, and keep any `real_life_example` in the child's world (a school function where praise is cheered), not a temple or devotional instruction.",
+ "severity":"soft"},
+{"topic_id":"M2.S3.T3","areas":["સુરક્ષા"],
+ "caution":"The king's brother demands pearls with 'નહિતર આ તલવાર છે અને તમારું માથું છે', and an explanation or image prompt could make the drawn sword the centre of the scene or treat the threat as clever.",
+ "guidance":"In `explanation` name the threat only as one link in the chain of grabbing, and in any image prompt keep the sword sheathed or out of frame; if a recall answer touches it, say plainly that taking things by force is what the story shows going wrong, with nothing that invites a child to copy a threat.",
+ "severity":"soft"},
+{"topic_id":"M3.S4.T5","areas":["ધર્મ","જાતિ-ભૂમિકા"],
+ "caution":"The embedded કથા shows સીતામાતાજી acting with a mother's affection ('દીકરી માની પાસે લાડ નહીં માંગે તો કોની પાસે માગશે ?') and refusing the pearls; an explanation could debunk it, turn it into theology about Sita, or label the નગરશેઠની પુત્રવધૂ's 'ગાંડી હઠ' as foolish or stubborn.",
+ "guidance":"Teach it as a tale told by the crow, in the book's own order and register, with no claim that it did or did not happen; present Sita's gesture and the refusal ('દીકરીના ઘરનું મારાથી કાંઈ લેવાય નહીં') as her choice and the reason the thaal sat untouched, quote 'ગાંડી હઠ' only as the શેઠ's words and never reuse it as a judgement in `explanation`, `real_life_example` or a recall answer, and keep the example to a family doting on a child, not a vrata instruction.",
+ "severity":"hard"},
+{"topic_id":"M3.S5.T6","areas":["ધર્મ"],
+ "caution":"The crow claims descent from 'મહાયોગી કાકભુશુંડી' and the pearls vanish at 'લોભનો સ્પર્શ'; an explanation could ask whether a talking crow or a vanishing thaal is possible, or add a separate moral beyond what the chapter says.",
+ "guidance":"Take the crow's lineage and the disappearance at face value as the tale's own logic in `explanation`, quote 'લોભનો સ્પર્શ થયો એટલે એ અદૃશ્ય થઈ ગયાં !' verbatim as the author's closing move without a tacked-on moral, and keep any recall answer grounded in what the king and court saw in the chunk.",
+ "severity":"hard"}
+],
+"chapter_level":[
+{"area":"ધર્મ","guidance":"The whole unit is a પૌરાણિક દૃષ્ટાંતકથા about રામરાજ્ય; teach it as literature with a living tradition behind it, taking Ram, Sita and Kakbhushundi as the tale's own world, with no debunking, no comparative religion and no devotional instruction, and state the intro box's aims (સમાનતા, બંધુતા, ન્યાયપ્રિયતા) only as the book states them."}
+],
+"none_found": false}

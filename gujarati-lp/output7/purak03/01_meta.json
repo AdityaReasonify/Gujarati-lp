@@ -1,0 +1,52 @@
+{
+  "board": "gseb",
+  "grade": 7,
+  "subject": "Gujarati",
+  "level": "standard",
+  "version": 1,
+  "chapter_id": "gseb_eng_gujarati7_ch18",
+  "plan_id": "gseb_eng_gujarati7_ch18_v1",
+  "chapter_name": "રામરાજ્યનાં મોતી",
+  "unit_title": "રામરાજ્યનાં મોતી",
+  "unit_number": 18,
+  "topic_number": 18,
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 7",
+  "textbook_url": "../Textbooks-pdf/std-7/purak-03-ramrajyana-moti.pdf",
+  "textbook_pages": "115–118",
+  "chapter_master_id": null,
+  "subject_ref_id": null,
+  "genre": "પૌરાણિક વાર્તા (દૃષ્ટાંતકથા)",
+  "genre_signals": {
+    "structure": "ગદ્ય; ત્રણ મુખ્ય પાત્રજૂથો (રાજા, કાગડો, ચાર ઉત્તમ પુરુષો) વાળી ફ્રેમ-વાર્તા, જેની અંદર કાગડાએ કહેલી એક સંપૂર્ણ પૌરાણિક કથા (સીતાજી અને રામરાજ્યનાં મોતીની વાત) જડેલી છે — કથામાં-કથા બંધારણ. શરૂઆતમાં કલાકારનું બે-કડીનું સ્તુતિગીત દાખલ થાય છે, જે સ્વતંત્ર એકમ નથી પણ ફ્રેમ-વાર્તાના પહેલા ઘટનાનો ભાગ છે.",
+    "theme": "આદર્શ રાજ્યવ્યવસ્થા, ન્યાય અને પ્રામાણિકતાનું મૂલ્ય — પ્રવેશપેટી પોતે કહે છે: 'સમાનતા, બંધુતા અને ન્યાયપ્રિયતા એ ઉત્તમ રાજ્યવ્યવસ્થાનાં લક્ષણો છે.'",
+    "exercises": "કોઈ ક્રમાંકિત સ્વાધ્યાય નથી — પૂરક વાચન એકમ હોવાથી ફક્ત શબ્દાર્થ અને કહેવતો/રૂઢિપ્રયોગ બોક્સ છે; આ Agent 10 માટે છે, ટોપિક નથી.",
+    "purpose": "એક દૃષ્ટાંત દ્વારા બાળકોને સાચા રામરાજ્યનો અર્થ સમજાવવો. પ્રવેશપેટીની પોતાની ઓળખ: 'આ એક પૌરાણિક વાર્તા છે, જેમાં આદર્શ રાજ્ય કેવું હોય એનું સરસ દૃષ્ટાંત આપવામાં આવ્યું છે... બાળકોમાં આવી સમજ દૃઢ થાય એવો આશય આ એકમનો છે.'"
+  },
+  "genre_confidence": "high",
+  "active_genre_profiles": [
+    "varta.md"
+  ],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "સાચું રામરાજ્ય એટલે શું, અને આ રાજાનું રાજ્ય એના જેવું કેમ નથી — એ કાગડો કેવી રીતે સાબિત કરે છે ?",
+  "explanation_unit": "એક ઘટના",
+  "structure_inventory": {
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0,
+    "ghatna": 6,
+    "tek_occurrences": 0,
+    "embedded_katha": 1
+  },
+  "exercise_inventory": [],
+  "extraction_notes": [
+    "ch18 numbering is a schema/provenance requirement from the orchestrator's run-context, not a number printed in the book: the page's own number box prints a plain '3.' (this is the third પૂરક વાચન piece in std-7, printed pp. 115-118, file purak-03-ramrajyana-moti.pdf). Per the run-context instruction, પૂરક વાચન units continue std-7's numbering after its 15 numbered teaching chapters (P1→ch16, P2→ch17, this P3→ch18, P4→ch19); naming_conventions.md requires chapter_id to match {board}_{medium}_{subject}{grade}_ch{N}, so ch18 is required for LP2 validation even though it is not the printed figure.",
+    "exercise_inventory is empty as a measured fact, not a gap: all four rendered pages (115-118) carry no numbered સ્વાધ્યાય, no વિદ્યાર્થી-પ્રવૃત્તિ, no ભાષા-અભિવ્યક્તિ — only a શબ્દાર્થ (glossary) box and a કહેવતો/રૂઢિપ્રયોગ (idiom) box on page 118, both reference apparatus that ask the child nothing. Matches the board profile's std-7 પૂરક વાચન convention and genre_index.md's rule that પૂરક વાચન units are reading matter with no numbered exercises.",
+    "Single-render transcription: per harness instruction, the already-rasterised PNGs (one render per page, 1300x1831px) were read directly and pdftoppm was not re-run, so the spec's literal 'render a second time at higher dpi' cross-check could not be performed as a second independent render. In its place, every ambiguous glyph was cross-checked by re-reading multiple zoomed crops (up to 8x) of the SAME render. Two genuine confusions were caught and resolved this way: (a) 'ગાળિયો' (ળ — a noose/rope the minister takes off his own head as a submission gesture after being caught) was first misread as 'ગાણિયો' (ણ); resolved against the શબ્દાર્થ box's own gloss 'ગાળિયો – ગાંઠવાળું ગોળાકાર દોરડું'. (b) 'પટ્ટણનું દટ્ટણ થઈ ગયું' (ટ્ટ doubled-ta conjunct) was first misread with a ઝ-like glyph; resolved against the કહેવતો/રૂઢિપ્રયોગ box's own gloss 'પટ્ટણનું દટ્ટણ થઈ જવું – ખંડેર થઈ જવું', which glosses this exact narrative phrase.",
+    "Printed quirk preserved verbatim, not corrected: immediately after સીતાજીની line 'દીકરીના ઘરનું મારાથી કાંઈ લેવાય નહીં !' the page prints a second opening single-quote mark before the narration 'આમ કહી એ રથમાં બેસી ચાલ્યાં ગયાં.' with no matching close anywhere nearby — kept exactly as printed per gujarati_verbatim.md.",
+    "The embedded પૌરાણિક કથા the crow narrates opens in double quotes on page 3 ('અયોધ્યામાં રાજા રામ રાજ્ય કરતા હતા...') and runs across the page-3/page-4 boundary to '...આજે એક વિશાળ વડનું ઝાડ ઊભું છે.' before the frame story resumes; transcribed as one continuous block per the page's own quoting, not split at the physical page boundary.",
+    "The bard's two-stanza praise song near the opening is quoted content inside the dominant prose frame, kept inside the frame story's own topic per genre_index.md's rule that an embedded verse stays inside the outer form's topic when the outer form still decides the cut — not treated as a separate mixed-genre part or its own topic.",
+    "structure_inventory.ghatna (6) is Agent 1's own reading-level inventory for diagnosis, not the final topic cut — Agent 2 owns the actual topic boundaries and may split or merge differently. The embedded સીતા-રામરાજ્ય કથા is counted as one of the six ઘટના here, not pre-split into its own sub-events.",
+    "Board profile's std-7 purak table prior already reads 'પૌરાણિક વાર્તા (દૃષ્ટાંતકથા)' for this unit; the rendered page's own intro box independently confirms the same words ('આ એક પૌરાણિક વાર્તા છે... સરસ દૃષ્ટાંત'), so prior and page agree and genre_confidence is high.",
+    "chapter_master_id and subject_ref_id stay null — no GSEB DB record has been fetched yet (VERIFY-1/VERIFY-2 pending per the board profile); the 'gseb'/'eng' segments of chapter_id are themselves provisional pending VERIFY-1 and are not re-derived here."
+  ]
+}

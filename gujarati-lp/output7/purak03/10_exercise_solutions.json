@@ -1,0 +1,19 @@
+{
+  "_comment": "The SECOND deliverable. Every સ્વાધ્યાય block inventoried in 01_meta.json is answered here and NOWHERE else — સ્વાધ્યાય is never a teaching topic. GSEB PDFs are image-only: prompt_verbatim is transcribed from the rendered page, never from a text layer. See reference/exercise_alignment.md and agents/10_exercise_solutions.md. THIS UNIT: std-7 પૂરક વાચન 3 (presented as ch18) prints no સ્વાધ્યાય at all, so exercise_inventory in 01_meta.json is [] and exercises[] is correctly empty. This is a measured fact, not a gap: no exercise was invented to fill the file.",
+
+  "plan_id": "gseb_eng_gujarati7_ch18_v1",
+  "chapter_id": "gseb_eng_gujarati7_ch18",
+  "subject": "Gujarati",
+  "grade": 7,
+  "chapter_name": "રામરાજ્યનાં મોતી",
+
+  "exercises": [],
+
+  "coverage_report": {
+    "blocks_found": [],
+    "blocks_answered": [],
+    "unanswered": [],
+    "unmapped": [],
+    "_note": "blocks_found mirrors 01_meta.json exercise_inventory entry for entry: that inventory is [] (0 entries), so blocks_found is [] (0 entries) and blocks_answered is []. The printed unit has only a પ્રવેશપેટી (intro box), the story, a શબ્દાર્થ box and a કહેવતો / રૂઢિપ્રયોગ box on the last page (folio 118) — all printed apparatus that ask the child to do nothing, kept out of exercises[] per the spec. unmapped is [] because there is no exercise to map; this unit HAS reading text (six ઘટના in 02_structure.json), so the empty list is not the 'no reading text at all' case of rule 7 and nothing is being hidden by it."
+  }
+}

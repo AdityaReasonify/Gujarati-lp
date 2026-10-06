@@ -1,0 +1,233 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "Gate 3 (addressee and relationship), in the story-internal form this third-person unit allows. The first sentence or two of `explanation` must name who is travelling and with whom in the chunk's own words — અનેરી અને આરવ with their દાદા ('દાદાને તો આરવની આંખોમાં…', 'હા દાદુ !') — and must say that no writer is addressing the child here. At least one of `explanation`, `concept_bullets` or a `key_terms` entry in 'શબ્દ — અર્થ' form must account for a register feature this relationship produces, taken from the chunk: આરવનું 'દાદુ' (the form he uses for દાદા, said 'ઉમળકાથી') or the closing 'કેમ ?' with which દાદા hands the turn back to him. This chunk names no one else in the car (the father first appears by name in the next topic), so no field of this topic names a relative other than દાદા.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 12 (no device that is not there) at the std-8 ceiling, which allows no label at all. `figures_of_speech` is `[]`. 'અને મારા કાનમાં તો દરિયો જ ઘૂઘવતો હતો !' and 'દાદાને તો આરવની આંખોમાં દરિયો ઊછળતો હોય એવું લાગ્યું' invite a label; no field of this topic contains ઉપમા, ઉત્પ્રેક્ષા, રૂપક, અતિશયોક્તિ, સજીવારોપણ or અલંકાર. The line is noticed, not named: `explanation` or a recall prompt asks which printed words show આરવનો ઉમંગ, quoting 'ઘૂઘવતો' or 'ઊછળતો'.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gates 11 and 8 on દાદાનું વાક્ય. 'કુદરતનાં તત્ત્વોનું આકર્ષણ થાય જ ! પછી એ દરિયો હોય, પર્વત હોય કે રણ હોય !' is દાદા's answer to આરવ, not the pack's statement about children or about nature: every field that carries it says 'દાદા કહે છે કે…' (or names દાદા as the speaker). The last sentence of `explanation`, of `detailed_summary` and of every `recall_questions[].answer` must name a person, object or act that occurs in this chunk — અનેરી, આરવ, દાદા, ગાડી, સિંહ, દરિયો, સોમનાથ, ત્રણ વાગ્યે — and not a class of people or a rule; no closing clause of the form 'બાળકોને કુદરત ગમે જ' / 'આપણે કુદરતને ચાહવી જોઈએ'.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Printed quote defect, which makes the speaker easy to lose. The chunk opens a quotation at '‘‘હા દાદુ !' and closes it only after 'સિંહ જોયા છે કે નહીં ?’’', with the narrator's 'આરવે ઉમળકાથી કહ્યું.' sitting inside it. Every field that reports 'દર વખતે બધા ફ્રેન્ડ્સ પૂછે છે કે ગુજરાતમાં રહે છે તો સિંહ જોયા છે કે નહીં ?' gives it to આરવ (not to દાદા), and a field that quotes the passage quotes it as printed, with no closing mark added after 'દાદુ !'. No field says where the family or the friends live beyond the printed words 'અમદાવાદ', 'ગુજરાતમાં રહે છે' and 'દિલ્હી જઈશું'.",
+          "profile": "patra_pravas",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક આરવના 'અને મારા કાનમાં તો દરિયો જ ઘૂઘવતો હતો !' ને સાચેસાચી બનેલી વાત સમજે છે — જાણે ગાડીમાં બેઠાં બેઠાં દરિયો સાંભળ્યો હોય — કારણ કે `ઘૂઘવતો` શબ્દ એને અજાણ્યો છે. એટલે એ ચૂકી જાય છે કે આ આરવના ઉમંગ અને કલ્પનાની વાત છે ('અનેરી - આરવની કલ્પનાઓ પણ દોડી રહી હતી'), અને દરિયો હજી આવ્યો નથી.",
+      "correction": "`ઘૂઘવતો` પહેલી વાર આવે ત્યાં જ `explanation`માં ગ્લોસ કરો — 'ઘૂઘવતો — દરિયાનાં મોજાંનો ગર્જના જેવો અવાજ કરતો' — પછી છાપેલું વાક્ય 'ગાડી ગતિમાં હતી અને અનેરી - આરવની કલ્પનાઓ પણ દોડી રહી હતી' ટાંકીને કહો કે અનેરીને સપનામાં સિંહ દેખાયો ને આરવના કાનમાં દરિયો ઘૂઘવે છે, જ્યારે બંને હજી ગાડીમાં છે. કઈ લીટી આરવનો ઉમંગ બતાવે છે એ પૂછીને ઓળખાવો, એને કોઈ નામ આપ્યા વિના. આ જ શબ્દ પછી સાચા દરિયા માટે ફરી આવશે, એટલે અહીં એને એક જ સરળ અર્થમાં બાંધો."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "Gate 1 (the place reached), where the topic boundary is not a change of place. The chunk stays inside the સાગરદર્શન અતિથિગૃહ scene and ends with દાદા's telling of ભાલકાતીર્થ. The first sentence of `explanation` names the 'સાગરદર્શન અતિથિગૃહ' (or its ગૅલેરી) as where the family is; ભાલકાતીર્થ appears only as the place where દાદા asks 'અહીંથી ભાલકાતીર્થ નજીકમાં જ છે ત્યાં જઈશું ?'. No field of this topic says the family reached ભાલકાતીર્થ, saw the ગીતામંદિર or bathed — the chunk of the next topic prints that.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gates 4 and 5 on ભાલકાતીર્થ and the guesthouse. Every proper noun and event in the fields stands in this chunk: સાગરદર્શન અતિથિગૃહ, ભાલકાતીર્થ, શ્રીકૃષ્ણ, જરા, 'સિરિયલ', 'બાણ', 'પગમાં', 'દેહત્યાગ', 'ક્ષમા'. No field gives a date or a year, the name of the serial, which foot or what tree, any account of શ્રીકૃષ્ણનું જીવન beyond the three printed sentences, what ભાલકાતીર્થ looks like, how far it is beyond 'નજીકમાં જ', or the guesthouse's price, rating or room count. 'આખરે તો આ શ્રીકૃષ્ણની ભૂમિ છે' is દાદાનું કથન and is attributed to him.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gates 10 and 8 on 'જરાને બહુ પસ્તાવો થયેલો. શ્રીકૃષ્ણે તેને ક્ષમા આપેલી.' The episode is told as દાદા tells it, in no more than the printed words. No field closes on a lesson of the form 'આપણે પણ ભૂલ થાય તો ક્ષમા માગવી / ક્ષમા આપવી જોઈએ', and `real_life_example` is a child-scale moment of saying sorry or being forgiven — not a rite or festival of another faith (no પર્યુષણ, મિચ્છા મિ દુક્કડં, ઈદ) set beside this passage. ભાલકાતીર્થ is taught as the chapter frames it, a place the family goes to; no retelling of its legend beyond the chunk and no theology.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક 'હા, જરા નામના શિકારીનું બાણ વાગેલું. જરાને બહુ પસ્તાવો થયેલો.' માં `જરા` ને 'થોડું' જેવો રોજિંદો શબ્દ સમજી લે છે; એટલે 'જરાને બહુ પસ્તાવો' નો અર્થ બેસતો નથી અને પસ્તાવો કોને થયો ને ક્ષમા કોણે કોને આપી એ પકડાતું નથી.",
+      "correction": "`explanation`માં `જરા` પહેલી વાર આવે ત્યાં જ સ્પષ્ટ કહો — 'જરા — શિકારીનું નામ' (છાપેલો શબ્દ 'નામના' આ બતાવે છે) — અને `key_terms`માં 'જરા — અહીં શિકારીનું નામ, 'થોડું' નહીં' રાખો. પછી ત્રણ વાતો કર્તા સાથે, નામથી, 'તે' લખ્યા વિના કહો: જરાનું બાણ, જરાનો પસ્તાવો, શ્રીકૃષ્ણની ક્ષમા. વાત દાદા કહે છે એમ લખો, ને છાપેલા ત્રણ વાક્યથી આગળ ન જાઓ."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "Gates 4 and 5 on the three rivers and the shrines. The three names stand exactly as printed — 'હિરણ્ય, કપિલા અને સરસ્વતી' — and ત્રિવેણીસંગમ is explained only by રાજેશભાઈના printed sentence 'અહીં જુદી જુદી ત્રણ નદીઓનો સંગમ થાય છે.' No field adds ગંગા, યમુના or પ્રયાગ, says which river is hidden or visible, where the rivers end, or gives any history of ભાલકાતીર્થ, ગીતામંદિર or સોમનાથ; no field says what the bathing is for or does.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gates 10 and 8 on the places of worship. ભાલકાતીર્થ, ગીતામંદિર, ત્રિવેણીસંગમ and 'સોમનાથદાદાની સાંજની આરતી' are taught as the chunk states them — places the family goes to and does દર્શન at, 'આ શાંત અને પવિત્ર જગ્યા બધાંને ગમી ગઈ' — under the printed names. No field explains the deity, the ritual of આરતી or of સ્નાન beyond the chunk, compares it with another faith's practice, or presents the family's bathing as a custom to copy; `real_life_example` is a feeling the child owns (a first time doing something with the family), with no rite of another faith. No `explanation`, summary or recall `answer` closes on 'આપણે પણ તીર્થયાત્રા કરવી જોઈએ' or any rule; the closing sentence names something in this chunk (ભાલકાતીર્થ, ગીતામંદિર, ત્રિવેણીસંગમ, રાજેશભાઈ, આરતી).",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Narrowed or look-alike words, this topic only. In 'સોમનાથદાદાની સાંજની આરતીનો લાભ લીધો' the `explanation` glosses 'આરતીનો લાભ લીધો' as 'આરતીમાં હાજર રહીને ભાગ લીધો' (not as profit or gain), and reads 'સોમનાથદાદા' as the chunk's respectful name for the Somnath shrine's deity — the same word 'દાદા' as the family's grandfather but not him — adding nothing about the deity beyond the name. The chunk's 'લીધો' ends without a full stop; a quotation of it is given as printed.",
+          "profile": "patra_pravas",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક 'ગીતામંદિરનાં દર્શન કર્યાં. ત્રિવેણીસંગમમાં સ્નાન કર્યું.' માં ત્રિવેણીસંગમને ભાલકાતીર્થ અને ગીતામંદિરની જેમ ત્રીજું મંદિર કે ત્રીજી જગ્યાનું નામ સમજે છે, અને રાજેશભાઈનું 'જુદી જુદી ત્રણ નદીઓનો સંગમ' વાક્ય — જે સ્નાન પછી આવે છે — એ શબ્દનો અર્થ આપે છે એ ચૂકી જાય છે.",
+      "correction": "`explanation`ના પહેલા જ વાક્યમાં સ્થળ કહો — સૌ ભાલકાતીર્થ પહોંચ્યાં. ત્રિવેણીસંગમ આવે ત્યાં તરત રાજેશભાઈનું છાપેલું વાક્ય ટાંકો — 'અહીં જુદી જુદી ત્રણ નદીઓનો સંગમ થાય છે' — અને `સંગમ — નદીઓ ભેગી થાય તે જગા` એમ ગ્લોસ કરો. પછી 'હિરણ્ય, કપિલા અને સરસ્વતી' ને ત્રણ નદીઓનાં નામ તરીકે, કશું ઉમેર્યા વિના, ગણાવો. સાંજની આરતી બીજા ભાગ તરીકે અલગ વાક્યમાં રાખો."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "Gate 4 on who શંકરદાનભાઈ is. The chunk says only that he 'આવ્યા' and that 'ગીરદર્શન-સિંહદર્શન શંકરદાનભાઈ કરાવવાના હતા'; the next topic adds that this is his ઘર. No field gives him a job, a title or a community: not ભોમિયો (a શબ્દાર્થ-box word that no reading sentence uses), not ગાઈડ (the printed ગાઈડ is મકદુમભાઈ, later), and no community or occupation name — the chunk prints none. No field says how the family knew him or how the visit was arranged.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gates 4 and 5 on place and distance. Printed: 'બીજે દિવસે સવારે એકાદ કલાકની મુસાફરી', 'સાસણ નજીક', 'ભોજદે ગામના એક રિસૉર્ટ', 'આંબાવાડિયું', 'નાના નાના તંબુ', 'આઠ-દસ કિલોમીટર', 'એકાદ કલાક'. No field gives the distance from સોમનાથ to સાસણ in kilometres, the resort's name, its rates or the number of tents, or says what ભોજદે is known for; the road is described only as 'ઉબડખાબડ' with 'ચડાવ અને ઢોળાવ', and the two figures keep the page's own words.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Printed run-on at the day boundary. The previous topic ends at 'આરતીનો લાભ લીધો' with no full stop, and this chunk opens 'બીજે દિવસે સવારે…'. The first sentence of `explanation` contains 'બીજે દિવસે' so the child does not read the evening આરતી and the next morning's drive as one event.",
+          "profile": "patra_pravas",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક 'આગળ એમની મોટરસાઈકલ ને પાછળ રાજેશભાઈની ગાડી જંગલના ઉબડખાબડ રસ્તા પર !' માં `ને` ને હિન્દીના 'को' ની જેમ 'મોટરસાઈકલને' સમજે છે, અને ક્રિયાપદ વિનાના આ વાક્યનો બીજો અડધો ભાગ — 'પાછળ રાજેશભાઈની ગાડી' — છોડી દે છે; એટલે કોણ આગળ ને કોણ પાછળ તે ખૂલતું નથી.",
+      "correction": "`explanation`માં આ વાક્ય સરળ પૂરા વાક્યમાં ફરીથી કહો — 'આગળ શંકરદાનભાઈની મોટરસાઈકલ ચાલે છે અને પાછળ રાજેશભાઈની ગાડી' — અને ગ્લોસ કરો કે `ને` અહીં `અને` છે: બે વાહનો, એક આગળ ને એક પાછળ. `key_terms`માં 'ને — અહીં 'અને'' રાખો, અને એ જ વાક્યના અડધા ભાગોને આગળ-પાછળ એમ જુદા બતાવો."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "Gate 10 on the hosts. શંકરદાન (this chunk prints 'શંકરદાન' and, once, 'શંકરભાઈ'; the previous topic prints 'શંકરદાનભાઈ'), શંકરદાનનાં પત્ની હીરુબાઈ and વિક્રમભાઈ are named only by the names the chunk prints, and never by a generic or invented label: no 'ગામડિયા', no 'આ લોકો', no community, caste or occupation name (the chunk prints none); the fields use 'શંકરદાન' and introduce no second host. 'આ લોકોનાં કપડાં પણ આર્ટિસ્ટિક છે, દાદા !' is અનેરીનું પોતાનું વાક્ય: it appears only inside a quotation attributed to her, and `explanation` says what she admires — the કપડાં and the ભરતકામ — instead of repeating 'આ લોકો' as the pack's description of the hosts.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 4 on what the page leaves unsaid. The chunk has દાદા say 'આ ચિત્રો જોયાં ? આ અહીંની કળા છે.' and says 'આ પ્રદેશના ભરતકામની વાતો ચાલતી હતી'; it does not say what the ચિત્રો show, where they hang, whose they are or what craft they belong to, and no field supplies any of that or names a craft tradition. 'આ અહીંની કળા છે' is attributed to દાદા. વિક્રમભાઈ's relation to શંકરદાન is not printed, so no field makes him a brother, neighbour or son; the vessels are named as printed (કળશિયા, તાંસળું) with no material; the milk is 'ફીણવાળું શેડકઢું દૂધ' and no field adds the animal's breed.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gates 12 and 5 on 'દુહાછંદ' and 'અમૃત જેવું દૂધ'. No verse is printed, so no field quotes, paraphrases or invents a દુહો or what the two men sang about, explains દુહો or છંદ as a form, or counts lines. 'દુહાછંદ' appears only inside the printed phrases 'દુહાછંદનું ગાન' and 'દુહાછંદની રમઝટ', glossed by what the page shows — the two sing 'સામ સામે' and the others are 'સાંભળવામાં મગ્ન'. `figures_of_speech` is `[]`; દાદા's 'અમૃત જેવું દૂધ છે ભાઈ' is noticed ('દાદા દૂધને શાની સાથે સરખાવે છે ?'), never labelled ઉપમા or અલંકાર.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 7 where a teaching field quotes the hosts' speech. 'આ આપણું ઘર ! હાલ્યા આવો !', 'એ મે’માનો આંઈ ઢોલિયે આવી જાઓ', 'અમારે ત્યાં હંધાય હારું ગાય દાદા !' and 'લ્યો તમે કહો તો અમે ગાઈએ !' are quoted character for character, including the typographic apostrophe in 'મે’માનો'; no field writes them in standard spelling inside the quotation marks, and a gloss follows the printed form ('ઢોલિયો — ખાટલો', which દાદા himself gives; 'હંધાય — બધાંય', which the શબ્દાર્થ box gives) instead of replacing it.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક યજમાનોના બોલ — 'હાલ્યા આવો', 'આંઈ ઢોલિયે', 'હંધાય હારું' — ને ખોટું કે બગડેલું ગુજરાતી સમજે છે; તો હૂંફાળા આવકારનું આખું દૃશ્ય 'જુદું બોલતા માણસો'ની વાત બની જાય છે. પાઠમાં તો અનેરી-આરવને પણ ઢોલિયો ઝટ સમજાતો નથી, અને દાદા સ્મિત કરીને ભૂલ સુધારતા નથી, ફક્ત અર્થ કહે છે.",
+      "correction": "`explanation`ના પહેલા વાક્યમાં શંકરદાનનું ઘર કહો, ને દાદાનો પોતાનો ખુલાસો ટાંકો — 'ઢોલિયો એટલે ખાટલો' — અને કહો કે દાદા ભૂલ સુધારતા નથી, અર્થ આપે છે. `હંધાય — બધાંય` (શબ્દાર્થ પેટીમાં છાપેલું) ગ્લોસ કરો અને કહો કે આ યજમાનોની પોતાની બોલી છે; ખોટું-સાચું કે શુદ્ધ-અશુદ્ધ જેવા શબ્દો ન વાપરો. પછી સ્વાગતનાં કામ છાપેલા ક્રમે લખો — ઓસરીમાં ખાટલા, કળશિયામાં પાણી, તાંસળામાં દૂધ, પછી સામસામેનું ગાન."
+    },
+    {
+      "topic_id": "M2.S3.T6",
+      "avoid_checks": [
+        {
+          "check": "Gates 1 and 4 on place and on the word 'આંગણે'. The place does not change from the previous topic — the guests are still at શંકરદાનનું ઘર, on the ઢોલિયો — so the first sentence of `explanation` names that place together with what has turned ('ઢોલિયે ચડીને સિંહપરિવારને જોવા લાગ્યા'). 'આંગણે' (it stands in the topic_name) is printed nowhere in the chapter, and the chunk never says the lions came into the વાડો, the ઓસરી or the house: ચેતનાબેન's 'સિંહ વાડામાં આવી જાય તો…' is a what-if. No field writes that the lions entered the yard or the house; the printed words 'આ પા આવતું હશે', 'સિંહણને બે બચ્ચાં પણ છે સાથે' and 'આવી ગયો' are quoted as the speakers' words.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gates 11 and 5 on the hosts' reassurance. 'દિવસે તો લગભગ ન આવે ! રાતના કોઈ વાર આવી જાય ! … માણસને ન વતાવે … અમારી ભેંસો સિંહને ગાયો સુધી પહોંચવા જ ના દે !' is printed with no speaker tag, in the first person plural ('અમારે', 'અમારી', 'અમે … રાખીએ છીએ'). Every field that carries it attributes it with the chunk's own pronoun to those who live there, not to a named person (the page does not say whether it is હીરુબાઈ, વિક્રમભાઈ or શંકરદાન), and keeps the hedges 'લગભગ', 'કોઈ વાર' and 'ક્યારેય … ઉપાડી જાય'. No field turns it into a fact about lions ('સિંહ માણસને ક્યારેય નુકસાન કરતા નથી') or adds lion behaviour, hours or safety advice from outside the chunk. 'ચેતનાબેન' is never given a relation to the children — the chunk never introduces her.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 8 on how the scene closes. The chunk ends 'બધાં જલદી સૂઈ ગયાં.' No `explanation`, `summary`, `detailed_summary`, `concept_bullets` line or recall `answer` closes on 'સિંહથી સાવધાન રહેવું જોઈએ', 'પ્રાણીઓ સાથે પ્રેમથી રહેવું જોઈએ' or 'આ આપણને શીખવે છે…'. ચેતનાબેનનો ગભરાટ ('ચેતનાબેનના અવાજમાં ગભરાટ હતો') and the hosts' calm are both given as printed, side by side, with no verdict; the closing sentence names something in this chunk (ઢોલિયો, વાંદરાં, ભેંસો, ગાયો, વાળુ, શંકરદાન).",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "A single-line joke that a second-language reader loses. 'મહેમાનો કાલે દર્શન કરવા જવાના હતા. સિંહ આજે જ મહેમાનોનાં દર્શને આવી ગયો !' is printed right after 'વિક્રમભાઈ હસીને બોલ્યા'. `explanation` or a recall prompt quotes it and says it is a smiling joke that turns the plan round (the guests were to go to see the lion, and the lion has come to see the guests); it does not read it as the lion meaning to visit, and it carries no label (no વક્રોક્તિ, શ્લેષ, વ્યંગ or અલંકાર).",
+          "profile": "patra_pravas",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક યજમાનોના 'માણસને ન વતાવે' ને પાકો નિયમ સમજી લે છે કે સિંહ ક્યારેય માણસને કંઈ કરતા નથી, અને ચેતનાબેનના ગભરાટને ખોટો ઠેરવે છે. પણ છાપેલા જવાબમાં જ 'લગભગ', 'કોઈ વાર', 'ક્યારેય … ઉપાડી જાય' જેવા છૂટછાટના શબ્દો છે, અને એ યજમાનોનો પોતાનો અનુભવ છે — એક પ્રસંગમાંથી જીવનનો નિયમ બની જાય છે.",
+      "correction": "`explanation`માં યજમાનોની વાત 'એ કહે છે કે…' રૂપે લખો અને એમના છૂટછાટના શબ્દો — 'લગભગ', 'કોઈ વાર' — જેમ છે તેમ રાખો; બાજુમાં ચેતનાબેનનો છાપેલો ગભરાટ મૂકો, જેથી બંને અવાજ દેખાય. કોઈ ચુકાદો ન આપો. `recall_questions`ના એક પ્રશ્નમાં બાળકને પોતાના શબ્દોમાં કહેવા દો કે ચેતનાબેનની વાતમાં ને યજમાનોની વાતમાં શું જુદું છે, અને ગાયો-ભેંસોની ગોઠવણ યજમાનો કયા કારણથી કરે છે એમ તેઓ કહે છે."
+    },
+    {
+      "topic_id": "M2.S4.T7",
+      "avoid_checks": [
+        {
+          "check": "Gates 10, 4 and 11 on 'સીદી'. The community is named exactly as the guide names it — 'અમે સીદી છીએ' — and every field that carries it says it is મકદુમભાઈનું પોતાનું કથન ('મકદુમભાઈ કહે છે કે…'). The chunk gives only this: his પૂર્વજો 'વર્ષો પૂર્વે આફ્રિકાથી અહીં આવીને વસ્યા હતા' and 'હવે તો આ ભૂમિ જ અમારું વતન'. No field adds when or why they came, how many live in the Gir, their language or customs, or which part of Africa; no field uses a generic label ('આફ્રિકન', 'વિદેશી', 'બહારના', 'આ લોકો'). રાજેશભાઈને 'આફ્રિકાના હોય એવું લાગ્યું' is his impression, attributed to him, and never generalised into how સીદી people look.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 5 on the counter. The chunk prints only 'ઓળખપત્ર જમા કરાવ્યાં', 'નિયત ફી ભરી' and 'છ જણનો પરિવાર ગાડીમાં ગોઠવાયો'. No field gives the amount, the safari's timing, how or where to book, which ID is accepted, the permit rules or the number of vehicles; and no field says who the six are or names the sixth member (the chunk names none).",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 8 on the guide's two rules. 'મોટા અવાજે બોલવાનું નથી, જંગલમાં ક્યાંય પ્લાસ્ટિક ફેંકવાનું નથી' are મકદુમભાઈ's rules for this જંગલ સફારી, quoted and attributed to him. The last sentence of `explanation`, of `detailed_summary` and of every `recall_questions[].answer` must name a person, object or act that occurs in this chunk — મકદુમભાઈ, સીદી, વતન, ઓળખપત્ર, ગાઈડ, ગાડી — and not a rule of conduct: no 'આપણે જંગલ-પર્યાવરણ સાચવવું જોઈએ', no 'પ્રવાસીએ નિયમો પાળવા જોઈએ'.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        }
+      ],
+      "misconception": "બાળક મકદુમભાઈના જવાબનો પહેલો અડધો ભાગ — 'પૂર્વજો આફ્રિકાથી અહીં આવીને વસ્યા' — પકડે છે અને બીજો — 'પણ હવે તો આ ભૂમિ જ અમારું વતન !' — છોડી દે છે; એટલે 'આપ ક્યાંના છો મકદુમભાઈ ?' નો જવાબ 'આફ્રિકાના' બની જાય છે, જ્યારે જવાબ એ છે કે એમનું વતન હવે આ ભૂમિ છે.",
+      "correction": "`explanation`માં પ્રશ્ન ('આપ ક્યાંના છો મકદુમભાઈ ?') અને જવાબ બંને ટાંકો, અને જવાબના બે ભાગ અલગ વાક્યોમાં લખો — પૂર્વજો ક્યાંથી આવ્યા, અને 'પણ' પછી એમનું વતન કયું. `પણ` ને 'છતાં, પરંતુ'ના અર્થમાં ગ્લોસ કરો; `key_terms`માં 'વતન — જે ભૂમિને માણસ પોતાની ગણે' રાખો, ને સમજૂતી એ જ વાક્ય પર પૂરી કરો. સીદી સમુદાય વિશે બીજું કશું ઉમેરશો નહીં."
+    },
+    {
+      "topic_id": "M2.S4.T8",
+      "avoid_checks": [
+        {
+          "check": "Gates 4 and 5 on the drive. Names and figures stand as printed: 'કમલેશ્વર ડૅમ', 'ચારપાંચ ગાડીઓ', 'ગઈકાલે ચાર સિંહ', 'જળકુંડ', 'ટેન્કર', 'ફોરેસ્ટ વિભાગ', 'રિહેબિલિટેશન સેન્ટર'. No field gives the dam's river, height, year or capacity, the number or place of જળકુંડ, or the number of such centres; none supplies the Gir's lion count or area. 'ગઈકાલે ચાર સિંહ જોયા' is quoted as the chunk gives it and is not equated with the family of the previous evening or counted into a 'સિંહ પરિવાર'.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 11 on unmarked speech. The reply to 'આ ઝરણાં બારેમાસ વહે છે ?' ('ઉનાળામાં નદીઓ અને ઝરણાં સુકાઈ જાય. … ટેન્કર દ્વારા પાણી પહોંચાડે.’’') is printed with a closing quotation mark that no mark opened and with no speaker tag; the question was put to મકદુમભાઈ, so every field reports the reply as his answer ('મકદુમભાઈ જવાબમાં કહે છે'), never as the narrator's own statement or as a fact of nature. 'એ સિંહની ત્રાડ છે. બે સાવજ સામસામે ઘૂરકતા હોય એવું લાગે છે.' is the guide's reading of a sound they only hear, so 'એવું લાગે છે' stays in the field — no field says two lions were seen fighting.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gate 8 on the closing sentences. 'ગીરમાં રહેતાં લોકો અને સિંહ એકમેકને નડ્યા વગર રહે છે તે પણ સમજાવ્યું' is the chunk's last sentence and reports what the guide explained. No field turns it into 'માણસ ને પ્રાણીએ સાથે રહેવું જોઈએ' or 'આપણે જંગલ-પ્રાણીઓની કાળજી રાખવી જોઈએ', and none praises or judges the 'સરકાર' for the જળકુંડ: the chunk reports a fact in the guide's words, with no verdict. The closing sentence of `explanation` and of every recall `answer` names something in this chunk (કમલેશ્વર ડૅમ, ઝરણું, જળકુંડ, ત્રાડ, મકદુમભાઈ, સિંહ-સિંહણ).",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Look-alike and gloss-source words, this topic only. 'અનેરો આનંદ' stands beside the girl's name અનેરી in the first sentence; `key_terms` carries 'અનેરો — અનોખો' and the `explanation` does not read 'અનેરો' as her name. 'રિહેબિલિટેશન સેન્ટર' is glossed from its own sentence ('ઘાયલ બીમાર કે પ્રાણીઓની સારવાર માટે અદ્યતન સુવિધાવાળાં'): a place that looks after hurt or ill animals. The શબ્દાર્થ box's stray 'પુનર્વસવાટ' is printed under ભોમિયો with no headword of its own, so it is no evidence for this word and no `key_terms` entry presents 'રિહેબિલિટેશન — પુનર્વસવાટ' as the book's gloss.",
+          "profile": "patra_pravas",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક રાજેશભાઈના પ્રશ્ન 'આ ઝરણાં બારેમાસ વહે છે ?' નો સીધો હા-ના જવાબ શોધે છે; છાપેલા જવાબમાં એવો કોઈ શબ્દ નથી, એટલે કાં તો 'હા' માની લે છે, કાં તો જવાબ સમજાયો જ નહીં એમ છોડી દે છે. જવાબ આડકતરો છે: 'ઉનાળામાં નદીઓ અને ઝરણાં સુકાઈ જાય.'",
+      "correction": "`explanation`માં પ્રશ્ન પહેલાં ટાંકો, પછી કહો કે મકદુમભાઈ સીધું 'ના' કહેતા નથી — 'ઉનાળામાં નદીઓ અને ઝરણાં સુકાઈ જાય' એમ કહીને જ ના પાડે છે, એટલે ઝરણાં બારેમાસ નથી વહેતાં. પછી એ સુકાય ત્યારે શું થાય છે તે એમના શબ્દોમાં જણાવો — જળકુંડ બનાવ્યા છે ને ટેન્કરથી પાણી પહોંચે છે (`જળકુંડ — પાણીનો કુંડ`, શબ્દાર્થ પેટીમાં છાપેલું). ત્રાડવાળો ભાગ અલગ વાક્યમાં રાખો, 'એવું લાગે છે' સાથે."
+    },
+    {
+      "topic_id": "M2.S4.T9",
+      "avoid_checks": [
+        {
+          "check": "Gates 8 and 12 on the closing image. The chunk's last sentence is 'મનમાં દરિયાનો ઘૂઘવાટ અને સિંહની ડણક સંઘરીને સૌ અમદાવાદ આવવા નીકળી ગયાં.' The last sentence of `explanation`, of `detailed_summary` and of every `recall_questions[].answer` names something that occurs in this chunk — ઉતારે, દહીં, થેપલાં, ભાખરી, ઘૂઘવાટ, ડણક, અમદાવાદ — and is not a lesson about travel or about Gujarat: no 'આપણે પણ પ્રવાસ કરવો જોઈએ', no 'આ પાઠ આપણને શીખવે છે…', no 'ગુજરાતની વિવિધતા' (that phrase stands only in the teacher's box, in no chunk). Earlier in `explanation` the two printed opening sentences of the first topic may be quoted, since this topic depends on it. `figures_of_speech` is `[]`; 'મનમાં … સંઘરીને' is read as what they carry home as memory, quoting 'મનમાં' and 'સંઘરીને', with no label.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Gates 4 and 5 on what the chunk does not say. The meal is 'દહીં, થેપલાં, ભાખરીનો નાસ્તો' and nothing more; the chunk does not say which place 'ઉતારે' is (the resort or the house), so no field names it; and the return is only 'સૌ અમદાવાદ આવવા નીકળી ગયાં', with no route, hour or distance.",
+          "profile": "patra_pravas",
+          "severity": "hard"
+        },
+        {
+          "check": "Narrowed sense, this topic only. In 'પાછાં ઉતારે આવ્યાં' the word 'ઉતારે' is where the travellers are staying (ઉતારો), not an action — glossed first and concretely, with no gloss taken from the શબ્દાર્થ box, which does not carry it; and the morning meal here is the 'નાસ્તો', not the 'વાળુ' of the evening before.",
+          "profile": "patra_pravas",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક છેલ્લું વાક્ય 'મનમાં દરિયાનો ઘૂઘવાટ અને સિંહની ડણક સંઘરીને' ને માત્ર પ્રવાસ પૂરો થવાની નોંધ ગણે છે, અને એ ચૂકી જાય છે કે દરિયો અને સિંહ એ જ બે વાત છે જે શરૂઆતમાં અનેરી-આરવે કલ્પનામાં કહી હતી ('સપનામાં પણ સિંહ', 'કાનમાં તો દરિયો જ ઘૂઘવતો') — હવે એ સાચા અનુભવ બનીને મનમાં સચવાયા છે.",
+      "correction": "`explanation`માં છેલ્લા વાક્યને શરૂઆતનાં બે છાપેલાં વાક્ય સાથે જોડો — 'મને તો સપનામાં પણ સિંહ જ દેખાયો' અને 'મારા કાનમાં તો દરિયો જ ઘૂઘવતો હતો' — અને કહો કે પહેલાં એ કલ્પના હતી, હવે દરિયાનો ઘૂઘવાટ અને સિંહની ડણક સાંભળેલા અનુભવ છે. `ઘૂઘવાટ` અને `ડણક` ને એક-એક વાર ગ્લોસ કરો (શબ્દાર્થ પેટીમાં: ઘૂઘવાટ — ઘૂઘવવું, ગર્જવું; ડણક — સિંહની ગર્જના). છેલ્લું વાક્ય આ ખંડનું જ રાખો, ઉપદેશ ન ઉમેરો."
+    }
+  ],
+  "chapter_level": [
+    "Letter-shape gates of `patra_pravas` do not apply as written. This unit is a third-person, fictional travel account: no sender block, no સંબોધન and no sign-off (gate 2), and the printed '- સંકલિત' under the title is a credit, not a signature. Gate 3 is met in its story-internal form in the first topic only (દાદા with અનેરી and આરવ). Gates 6 and 9 belong to std-6 ch 8's artists and have no object here. The sensitivity areas this chapter does carry are ધર્મ (ભાલકાતીર્થ, ગીતામંદિર, સોમનાથ) and સમુદાય (the Gir hosts, the guide's 'સીદી'). No agent may invent a writer, a 'પ્રિય' frame or a letter voice to satisfy a letter gate.",
+    "The teacher's box calls the trip કાલ્પનિક, but its places are real and named. Every claim about life in the Gir — what the hosts do with their cattle, what the guide says of the streams, the centres and his own people — belongs to a character of the account and is reported as that character's words, never upgraded into a fact about the real Gir, real lion behaviour or the real સીદી community (gates 4, 5 and 11). Where the page prints no speaker tag — the reassurance in M2.S3.T6 and the answer on the streams in M2.S4.T8 — say so; do not pick a name.",
+    "Std-8 label ceiling, chapter-wide: no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર term in any authored field (including 'દુહો' or 'છંદ' as a named form, and 'પ્રવાસનિબંધ' as a tag), and `figures_of_speech` stays `[]` on every topic. Four lines invite a label and are noticed in plain words instead: 'દરિયો ઊછળતો હોય એવું લાગ્યું' (M1.S1.T1), 'અમૃત જેવું દૂધ છે ભાઈ' (M2.S3.T5), 'સિંહ આજે જ મહેમાનોનાં દર્શને આવી ગયો !' (M2.S3.T6) and 'મનમાં દરિયાનો ઘૂઘવાટ અને સિંહની ડણક સંઘરીને' (M2.S4.T9).",
+    "The hosts' speech — 'હાલ્યા આવો', 'આંઈ ઢોલિયે', 'હંધાય હારું ગાય', 'હાવજ', 'આ પા', 'હાલો', 'વતાવે' — is their own બોલી and stays as printed. Gloss after the printed form, name it as their way of speaking, and never as ખોટું, અશુદ્ધ, બગડેલું or અભણ (gate 10). Gloss only what the page or its શબ્દાર્થ box gives or what the sentence itself shows (ઢોલિયો — ખાટલો is દાદા's own gloss; હંધાય — બધાંય is the box's), and name no regional dialect the page does not name.",
+    "Sound words carry this chapter, and two of them are its frame: ઘૂઘવતો (M1.S1.T1, the sea in આરવ's ears), ઘૂઘવતો again (M1.S2.T2, the real sea from the ગૅલેરી), કલકલ નાદે (M2.S3.T4, the stream), ભાંભરવા (M2.S3.T6, the cattle), ત્રાડ and ઘૂરકતા (M2.S4.T8, the lions), ઘૂઘવાટ and ડણક (M2.S4.T9, carried home). Gloss each as a sound at its own first use and recycle the sea word in the same meaning each time. Keep ઘૂઘવ- (the sea) apart from ઘૂરક- (the lions' growl): both begin with ઘૂ, and ઘ is not ધ.",
+    "દર્શન is one word met four times: સાગરદર્શન (M1.S2.T2, a guesthouse name), 'ગીતામંદિરનાં દર્શન' (M1.S2.T3), 'ગીરદર્શન-સિંહદર્શન' (M2.S3.T4) and 'કાલે દર્શન કરવા જવાના હતા … દર્શને આવી ગયો' (M2.S3.T6). It is glossed once, in the sense the sentence gives — seeing, with respect or wonder — then recycled in that one sense; no field gives it a different meaning at each place.",
+    "Words in a narrowed or look-alike sense are glossed first and concretely, in the sentence's own sense: વાળુ (M2.S3.T6, the night meal), ઉતારે (M2.S4.T9, where the travellers are staying), ઢોલિયો (M2.S3.T5), અનેરો (M2.S4.T8, beside the girl's name અનેરી) and the name જરા (M1.S2.T2, a hunter's name, beside the common word for 'a little'). The printed શબ્દાર્થ box is evidence of difficulty, never the source of a gloss.",
+    "The શબ્દાર્થ box and the two unnumbered pre-blocks hold words no reading sentence uses: ભોમિયો, બેલડી, સ્થંભ, લટાર (box) and વામકુક્ષિ, જીર્ણોદ્ધાર, ક્ષિતિજ, જીવાદોરી (pre-block answers) occur in no `original_chunk`. None goes into a topic's `key_terms`, `explanation` or recall `answer`; the pre-blocks belong to Agent 10 alone (gate 13).",
+    "The two printed photographs are uncaptioned page matter: a golden-stone temple (p.141, inside the span of M1.S1.T1) and a maned lion with a lioness and cubs (p.143, inside the span of M2.S3.T6). No topic field states what either picture shows, names the temple in it, or takes a count of animals from it; the count that stands is the page's own words 'સિંહણને બે બચ્ચાં પણ છે સાથે'. Media planning authors its own scene and never copies the photograph."
+  ]
+}

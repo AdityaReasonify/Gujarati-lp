@@ -1,0 +1,248 @@
+{
+  "topics": [
+    {
+      "topic_id": "M1.S1.T1",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must itself contain at least one of the four things the કડી sets beside a daily act — `ધરુવાડિયાં`, `વાદળ`, `તડકા-લચકા`, `ઝાકળ` — and must not rest on the blue પ્રવેશપેટી: a first sentence built from `કુદરતે આપણને કેટલું બધું આપ્યું છે` or `ઘર-ઘરને નંદનવન`, or one that states the ભાવ before any of the four things is named, is a fail.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer` is an exhortation of the shape `કુદરતનું જતન કરવું જોઈએ`, `કુદરતની કદર કરવી જોઈએ`, `પર્યાવરણ બચાવવું જોઈએ` or `આપણે … જોઈએ`: none of those words occur in this topic's `original_chunk`, and the પ્રવેશપેટી's gratitude for nature pulls straight toward them. The last sentence of `explanation`, of `detailed_summary` and of every `recall_questions[].answer` must name one of `ધરુવાડિયાં`, `વાદળ`, `તડકા-લચકા`, `ઝાકળ`, or one of the acts `સૂવા`, `ફરવા`, `ખાવા`, `પીવા` — never a class of people or a rule of conduct.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "At least one sentence of `explanation` names this કડી's sound in plain words: either that the two line-ending words `વાદળ` and `ઝાકળ` both close on `ળ`, or that the four acts `સૂવા`, `ફરવા`, `ખાવા`, `પીવા` all end in `વા` and each is answered at once by one thing. `figures_of_speech` stays `[]` and no label (`અનુપ્રાસ`, `રૂપક`, `પુનરુક્તિ`) appears. A pattern claim must be exact: `માટે` follows `સૂવા`, `ફરવા` and `પીવા` but not `ખાવા`, so a sentence saying `માટે` comes in every pair is false.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Every sentence of `explanation` that restates `સૂવા માટે ધરુવાડિયાં`, `ફરવા માટે વાદળ`, `ખાવા કૂણા તડકા-લચકા` or `પીવા માટે ઝાકળ` frames it as the poet's picture — `કવિ`, `જાણે`, `કલ્પના` — and none says as plain fact that a person eats sunshine, drinks dew, roams on a cloud or sleeps in a nursery of seedlings. The lines are a playful list, not a description of how people live.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` and `real_life_example` use none of `બાષ્પીભવન`, `ઘનીભવન`, `જલચક્ર`, `પ્રકાશસંશ્લેષણ`, `અંકુરણ`, `વિટામિન`: none occurs in the chapter text or its printed શબ્દાર્થ box. `ઝાકળ`, `વાદળ` and `તડકો` stay what the line shows; a list of gifts is not a lesson on how dew forms or why sunlight matters.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "`ધરુવાડિયાં` is glossed in `explanation` and `key_terms` exactly as the printed શબ્દાર્થ box has it — `રોપા ઉછેરવા માટેનું ખેતર` — with no added quality (`નરમ`, `ભેજવાળું`, `લીલું`, `પોચું`): the page prints none, and an earlier pass on this unit was already pulled back for adding some.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક `સૂવા માટે ધરુવાડિયાં, ફરવા માટે વાદળ, ખાવા કૂણા તડકા-લચકા, પીવા માટે ઝાકળ` ને સીધી હકીકત જેવું વાંચે છે — જાણે માણસ ખરેખર તડકો ખાય ને ઝાકળ પીએ — અને `ધરુવાડિયાં` ન ઉકલતાં આખી કડીનો જવાબ પ્રવેશપેટીના વાક્ય `કુદરતે આપણને કેટલું બધું આપ્યું છે` પરથી આપી દે છે. ચાર ચિત્રો ક્યાંય નજરે પડતાં નથી.",
+      "correction": "`explanation`ના પહેલા વાક્યમાં `ધરુવાડિયાં — રોપા ઉછેરવા માટેનું ખેતર` ગ્લોસ સાથે કવિની પહેલી જોડ — `સૂવા માટે ધરુવાડિયાં` — કહો. પછીનાં વાક્યોમાં `કવિ જાણે ગણાવે છે` ઢાંચામાં બાકીની ત્રણ જોડ — `ફરવા માટે વાદળ`, `ખાવા કૂણા તડકા-લચકા`, `પીવા માટે ઝાકળ` — એક પછી એક ઉમેરો, અને દરેક જરૂરિયાત (સૂવા, ફરવા, ખાવા, પીવા) સામે કવિએ શું મૂક્યું તે નામથી કહો. પ્રવેશપેટીનું વાક્ય `explanation`ના પાયામાં ન આવે."
+    },
+    {
+      "topic_id": "M1.S2.T2",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must itself contain `આગિયા`, `નિશા-ફૂલ` or `હોડી` — something the કડી lets a child see. A first sentence with none of these words that states the ભાવ instead (for example `કવિ રાતે કલ્પનાની સફર કરે છે`) is a fail.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer` is an exhortation of the shape `જીવનમાં હંમેશાં આગળ વધવું જોઈએ`, `આગળ વધતા રહેવું જોઈએ` or `કલ્પના કરતા રહેવું જોઈએ`: `આગળ... આગળ !` makes the progress-slogan the easy exit, and no `જોઈએ` is printed in this `original_chunk`. The last sentence of `explanation`, of `detailed_summary` and of every `recall_questions[].answer` must name `આગિયા`, `નિશા-ફૂલ` or `હોડી`, not a rule.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "At least one sentence of `explanation` names this કડી's sound or repetition in plain words: the two line-ending words `પાછળ` and `આગળ` both close on `ળ`, or the word `આગળ` is said twice, `આગળ... આગળ`, with a pause between, so that the boat keeps moving on. `figures_of_speech` stays `[]` and no label appears.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Wherever `explanation` quotes the કડી it keeps `તણી` and `જશું` exactly as printed (`જશું આગિયા પાછળ`, `બીજ તણી બંકિમ હોડીમાં`) — never `જઈશું` or `બીજની` inside the quotation — and says that `તણી` is an older form of `ની` kept for the song's લય, not a mistake. A restatement in modern words comes after the printed words, never in place of them.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` and `real_life_example` use none of `જૈવપ્રકાશ`, `પરાગનયન`, `પરાગરજ`, `ચંદ્રકળા`: the printed શબ્દાર્થ box gives `આગિયા` only as `એક જંતુ`, and how it glows, how a flower makes its રસ, or how the moon changes shape is not this કડી's business.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "The page prints `બીજ તણી બંકિમ હોડી`, does not gloss `બીજ`, and its picture shows no crescent, so `explanation` may not state as the fact of this line that `બીજ` is the moon (`બીજનો ચાંદ`, `ચંદ્ર`, `ચાંદની`) or that it is a seed. It may give the printed `બંકિમ — વાંકું` (a curved boat), or name both ordinary meanings of `બીજ` and say the line does not choose between them. The frozen `topic_name`'s word `ચાંદની` is not carried into any sentence that describes the boat.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        },
+        {
+          "check": "`નિશા — રાત` is glossed (the printed box's own wording) at the first place `નિશા-ફૂલ` appears in `explanation`, and `નિશા-ફૂલ` is explained as a flower of the night without naming any particular flower (`રાતરાણી`, `પારિજાત`, `બ્રહ્મકમળ`) as what the poet means — the page names none.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "ઘણાં બાળકો `નિશા` ને છોકરીનું નામ અને `મધુ` ને પણ નામ તરીકે ઓળખે છે, એટલે `નિશા-ફૂલનું મધુ શોધતાં` નામોની ભેળસેળ બની જાય છે અને પહેલી પંક્તિનો અર્થ — રાતના ફૂલનો મીઠો રસ શોધતાં આગિયાની પાછળ જવું — હાથમાંથી છટકી જાય છે.",
+      "correction": "પહેલું વાક્ય `આગિયા` જેવી જોઈ શકાય એવી વસ્તુથી બાંધો. `નિશા-ફૂલ` જ્યાં પહેલી વાર આવે ત્યાં જ `નિશા — રાત` (છપાયેલા શબ્દાર્થ મુજબ) અને `મધુ — મધ જેવો મીઠો રસ, ફૂલનો રસ` ગ્લોસ કરો, અને પંક્તિ આ રીતે ફરી કહો: રાતના ફૂલનો મીઠો રસ શોધતાં આગિયાની પાછળ જવું. કોઈ ખાસ ફૂલનું નામ ન આપો."
+    },
+    {
+      "topic_id": "M1.S2.T3",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must itself contain `પતંગ-પાંખો`, `તમરાં-સૂરની સાંકળ`, `ઘોડો` or `હાવળ` — what is worn, held or heard. A first sentence with none of these words that opens on `સપનાં`, `કલ્પના`, `ઊડાન` or any statement of the ભાવ is a fail.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer` is an exhortation of the shape `ઊંચાં સપનાં જોવાં જોઈએ`, `આકાશને આંબવું જોઈએ` or `હિંમતથી ઊડવું જોઈએ`; no `જોઈએ` is printed in this `original_chunk`. The last sentence of `explanation`, of `detailed_summary` and of every `recall_questions[].answer` must name `પતંગ-પાંખો`, `સાંકળ`, `ઘોડો` or `હાવળ`, not a rule.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "At least one sentence of `explanation` names this કડી's sound in plain words: the two line-ending words `સાંકળ` and `હાવળ` both close on `ળ`, or the કડી is built from sound — `તમરાં-સૂરની સાંકળ` is a chain made of sound, and the line ends on a horse's `હાવળ`. `figures_of_speech` stays `[]` and no label appears.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Every sentence of `explanation` that restates `પતંગ-પાંખો પહેરી`, `તમરાં-સૂરની સાંકળ` or `થશું સવાર જ્યાં ધૂમકેતુની ઘોડો દેતો હાવળ` frames it as the poet's wished picture — `કવિ`, `જાણે`, `અમે … થશું` — and none says as fact that wings are put on, that a sound can be held in the hand, or that someone rides a comet.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Wherever `explanation` quotes line two it keeps `ધૂમકેતુની ઘોડો` exactly as printed — `ની` before a masculine noun — and never repairs it to `ધૂમકેતુનો ઘોડો`, `ધૂમકેતુની ઘોડી` or `ધૂમકેતુના ઘોડા`. The irregularity is the page's, not the explanation's to fix; if it is mentioned at all it is mentioned as printed, with no grammar rule offered as a correction.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` and `real_life_example` use none of `સૌરમંડળ`, `કક્ષા`, `ગુરુત્વાકર્ષણ`, `ઉલ્કા`, `ગ્રહ`: `ધૂમકેતુ` stays the printed `પૂંછડિયો તારો`, and no sentence says how a ધૂમકેતુ moves or how `તમરાં` make their sound.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Every `સવાર` in `explanation`, the summaries, `concept_bullets` and recall answers means the rider (`સવારી કરનાર`), as the key_term says; none restates the line as `સવાર થશે`, `સવાર પડે`, `સવાર સુધી` or `સવારનો સમય`. An earlier seed of this unit read `થશું સવાર` as the morning (see the notes in 05_with_content.json), so the slip is already known.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક `થશું સવાર` ને રોજિંદા બોલવાના અર્થમાં — ‘સવાર થશે’ — વાંચે છે, એટલે કડી ‘પાંખો પહેર્યા પછી સવાર પડશે’ જેવી બની જાય છે અને `ધૂમકેતુની ઘોડો દેતો હાવળ` સુધી પહોંચતી સવારીનું ચિત્ર ખોવાઈ જાય છે.",
+      "correction": "`થશું સવાર` પહેલી વાર આવે ત્યાં જ `સવાર — (અહીં) સવારી કરનાર` ગ્લોસ કરો અને વાક્ય ‘સવારી કરનારા બનીશું’ તરીકે ફરી કહો, સવારનો સમય નહિ. પછી છપાયેલા ગ્લોસ `હાવળ — ઘોડાનો હણહણાટ` અને `ધૂમકેતુ — પૂંછડિયો તારો` જ વાપરીને `જ્યાં ધૂમકેતુની ઘોડો દેતો હાવળ` — છપાયેલા શબ્દોમાં — ક્યાં સવારી થશે તે કહો. `પતંગ-પાંખો` જેમ છપાયું છે તેમ જ રાખો; તેને પતંગ કે પતંગિયાની પાંખ ઠરાવશો નહિ."
+    },
+    {
+      "topic_id": "M2.S3.T4",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must itself contain `પારિજાત`, `ગુલાબ` or `આવળ-બાવળ` — the friends the line lists — and must not open on `જગતનું કલ્યાણ` (the પ્રવેશપેટી's own phrase), on `અરજ` as a moral, or on any statement of the ભાવ.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer` is an exhortation of the shape `સૌનું ભલું ઇચ્છવું જોઈએ`, `કોઈને દુઃખ ન આપવું જોઈએ`, `પ્રકૃતિને મિત્ર માનવી જોઈએ` or `સૌ સાથે મિત્રતા રાખવી જોઈએ`; no `જોઈએ` is printed in this `original_chunk`, and the પ્રવેશપેટી's `જગતના કલ્યાણનો` hands over the rule ready-made. The request is reported as what is asked of `પ્રભુ` (`અરજ પ્રભુને`), never as what the child must do. The last sentence of `explanation`, of `detailed_summary` and of every `recall_questions[].answer` must name `પારિજાત`, `ગુલાબ`, `આવળ-બાવળ`, `અરજ` or `કાસળ`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "At least one sentence of `explanation` names this કડી's sound in plain words: `આવળ-બાવળ` is a rhyming pair inside the line, and the line-ending words `બાવળ` and `કાસળ` close on `ળ`. `figures_of_speech` stays `[]` and no label appears.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Wherever `explanation` quotes line two it keeps `કો'નું` with its apostrophe and `ન નીકળો` exactly as printed — never `કોનું`, `કોઈનું` or `ન નીકળે` inside the quotation. `કો'નું` is glossed as `કોઈનું`, with the apostrophe named as a mark for a dropped letter kept for લય, and `નીકળો` as a wish-form, not a command and not a mistake. `અમ` in `સૌ ભેરુ અમ...` also stays as printed.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "`કાસળ` is glossed only as the printed `નડતર, પીડા`; `પારિજાત` only as the printed `એક ફૂલ`; `આવળ-બાવળ` is named as part of the poet's list of `ભેરુ` with no description at all (no `કાંટાળાં`, `ઝાડ`, `પીળાં ફૂલ`, `સુગંધી`), because the printed શબ્દાર્થ box glosses neither `આવળ` nor `બાવળ`. The four friends are not summed up as `ફૂલ-વેલીઓ` — the page prints no `વેલી` and does not call all four flowers; the frozen `topic_name`'s `ફૂલ-વેલી` is not carried into `explanation`.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        },
+        {
+          "check": "`અરજ પ્રભુને` is reported as the poet's own request in the poet's voice (`કવિ પ્રભુને અરજ કરે છે`); `explanation` does not assert that પ્રભુ grants it, does not name or compare any religion, and does not tell the child to pray. The line is literature with a living tradition behind it, taught for its ભાવ and craft.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક `કો'નું` ના અક્ષરો વચ્ચેનું (') ચિહ્ન છોડીને `કોનું` વાંચે છે, એટલે `જગમાં કો'નું કદી ન નીકળો કાસળ` સવાલ જેવું બની જાય છે અને ‘કોઈનું પણ નહિ’ — આખા જગત માટેની અરજ — પકડાતી નથી.",
+      "correction": "`કો'નું` પહેલી વાર આવે ત્યાં જ `કો'નું — કોઈનું` ગ્લોસ કરો અને કહો કે (') ચિહ્ન લય માટે ખૂટતો અક્ષર બતાવે છે, ભૂલ નથી. પછી પંક્તિ ‘જગતમાં કોઈનું પણ કદી કાસળ ન નીકળો’ — એટલે એવું કદી ન થાય — તરીકે ફરી કહો, અને `નીકળો` ને ઇચ્છા બતાવતું રૂપ ગણાવો, આજ્ઞા નહિ."
+    },
+    {
+      "topic_id": "M2.S3.T5",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must itself contain `મોરપીંછ`, `બંસી` or `લાકડી-કામળ` — things one can hold or wear — and must not open on `સાદગી`, `સંતોષ`, `ભક્તિ`, or on `ઘર-ઘરમાં` as a moral.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer` is an exhortation of the shape `સાદગીથી જીવવું જોઈએ`, `ઓછામાં સંતોષ માનવો જોઈએ`, `ઘરમાં સંસ્કાર હોવા જોઈએ` or `ભગવાનને યાદ કરવા જોઈએ`; no `જોઈએ` is printed in this `original_chunk`, and a `સાદી માગણી` reading pulls toward the first. The last sentence of `explanation`, of `detailed_summary` and of every `recall_questions[].answer` must name `મોરપીંછ`, `બંસી`, `લાકડી-કામળ`, `ઘર-ઘરમાં` or `નંદ-યશોદા-શામળ`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "At least one sentence of `explanation` names this કડી's sound or repetition in plain words: the same asking verb comes back, `માગીશું...` in line one and `માગશું...` in line two, each followed by a printed pause, and the line-ending words `કામળ` and `શામળ` both close on `ળ`. `figures_of_speech` stays `[]` and no label appears.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Wherever `explanation` quotes the કડી it keeps both printed forms, `માગીશું...` and `માગશું...`, with their dots and never unified to one spelling; it explains them as the same asking verb written for the song's લય, not as a mistake, and keeps `મોરપીંછ` and `બંસી` with their અનુસ્વાર as printed.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` keeps the two lines' asks apart: line one asks for things held and worn (`મોરપીંછ`, `બંસી`, `લાકડી-કામળ`, with `કામળ — ઊનની ધાબળી` as printed), line two asks about the house (`ઘર-ઘરમાં હો`); `નંદ-યશોદા-શામળ` is never listed as a further thing asked for beside the objects.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        },
+        {
+          "check": "`નંદ-યશોદા — શ્રીકૃષ્ણને ઉછેરનારાં માતા-પિતા` and `શામળ — શ્રીકૃષ્ણનું નામ` are glossed once, as meaning only; `explanation` does not retell the ગોકુળ story (`માખણ`, `ગોપી`, `ગોવર્ધન`, `કંસ`), does not say as fact that Krishna lives in homes, does not compare traditions, and reports `ઘર-ઘરમાં હો` as what `અમે` ask for, not as what the child's own home should do.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક બંને પંક્તિઓને એક જ યાદી ગણે છે — ‘મોરપીંછ, બંસી, લાકડી-કામળ, અને નંદ-યશોદા-શામળ પણ માગીશું’ — અને `નંદ-યશોદા-શામળ` કોણ છે તે ન ઉકલતાં બીજી પંક્તિની માગણી, `ઘર-ઘરમાં હો`, હાથમાંથી જતી રહે છે.",
+      "correction": "`explanation`ના પહેલા વાક્યમાં પહેલી પંક્તિની હાથમાં પકડાય-પહેરાય એવી વસ્તુઓ — `મોરપીંછ`, `બંસી`, `લાકડી-કામળ` (`કામળ — ઊનની ધાબળી`) — કહો. પછી બીજી પંક્તિ અલગ વાક્યમાં કહો: `અમે માગશું...` પછી શું માગે છે — `ઘર-ઘરમાં હો` — અને `નંદ-યશોદા — શ્રીકૃષ્ણને ઉછેરનારાં માતા-પિતા`, `શામળ — શ્યામ; શ્રીકૃષ્ણનું જાણીતું નામ` ફક્ત અર્થ તરીકે ગ્લોસ કરો, વાર્તા કહ્યા વિના."
+    },
+    {
+      "topic_id": "M2.S4.T6",
+      "avoid_checks": [
+        {
+          "check": "The first sentence of `explanation` must itself contain `કાજળ`, `આંખે`, `સૂર્ય-ચંદ્ર` or `શબ્દો-કાગળ` — something seen or touched — and must not open on the title as a theme (`ભુલભુલામણી એટલે …`), on `કવિતા પોતે`, or on any statement of the ભાવ.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "No sentence of `explanation`, `real_life_example`, `brief_summary`, `summary`, `detailed_summary`, any `concept_bullets` / `important_points` line or any `recall_questions[].answer` is an exhortation of the shape `શબ્દો સાથે રમવું જોઈએ`, `વાંચન-લેખનની ટેવ પાડવી જોઈએ` or `કલ્પનાની દુનિયામાં જીવવું જોઈએ`: `શબ્દો-કાગળ` pulls toward a reading-habit slogan, and no `જોઈએ` is printed in this `original_chunk`. The last sentence of `explanation`, of `detailed_summary` and of every `recall_questions[].answer` must name `કાજળ`, `સૂર્ય-ચંદ્ર`, `શબ્દો-કાગળ` or `ભુલભુલામણી`.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "At least one sentence of `explanation` names this કડી's sound or echo in plain words: the two line-ending words `કાજળ` and `કાગળ` both close on `ળ`, and/or the title word `ભુલભુલામણી`, which names the whole poem, comes back inside this last line. `figures_of_speech` stays `[]` and no label appears.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "Every sentence of `explanation` that restates `સૂર્ય-ચંદ્રની આંખે આંજી અંધારાનું કાજળ` frames it as the poet's picture — `કવિ`, `જાણે` — and none says as fact that the sun and moon have eyes, are darkened, hidden or eclipsed, or that night is being explained. The page prints the act only.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` and `real_life_example` use none of `ગ્રહણ`, `પરિભ્રમણ`, `પ્રકાશનો અભાવ`, `ઉપગ્રહ`: `અંધારું` stays the printed `અંધારાનું કાજળ`, a black for the eyes, not a lesson on why it is dark.",
+          "profile": "urmikavya_geet",
+          "severity": "hard"
+        },
+        {
+          "check": "`explanation` states only what the page prints about the last line — the game is `ભુલભુલામણી`, it is played with `શબ્દો-કાગળ`, and the word is the poem's own title — and gives no reason the poet does not give for the kohl on the sun's and moon's eyes (`આંખે પાટા`, `સંતાકૂકડી`, `રાત પડશે`). That the poem itself is the maze is left to the child as a question in their own words (a `recall_questions` item), never stated as the poet's meaning.",
+          "profile": "urmikavya_geet",
+          "severity": "soft"
+        }
+      ],
+      "misconception": "બાળક પહેલી પંક્તિની અઘરી છબી — `સૂર્ય-ચંદ્રની આંખે આંજી અંધારાનું કાજળ` — માં અટકી જાય છે અને `આંજી` ને જ મુખ્ય ક્રિયા ગણે છે; વાક્યનો બીજો અડધો ભાગ — `ભુલભુલામણી રમશું... લઈને થોડા શબ્દો-કાગળ`, જેમાં મુખ્ય ક્રિયાપદ `રમશું` છે અને કવિતાનું શીર્ષક પોતે આવે છે — રહી જાય છે.",
+      "correction": "`explanation`માં બંને પંક્તિ એક જ વાક્યના બે અડધા ભાગ તરીકે કહો: પહેલી પંક્તિમાં `આંજી` — ‘આંજીને’, એટલે પહેલાં થતી ક્રિયા — અને બીજી પંક્તિમાં મુખ્ય ક્રિયાપદ `રમશું`, જેની સાથે `લઈને થોડા શબ્દો-કાગળ` જોડાયેલું છે. અલગ વાક્યમાં કહો કે `ભુલભુલામણી` એ આ કવિતાનું શીર્ષક છે, અહીં રમવાની રમત તરીકે આવે છે, અને તે `શબ્દો-કાગળ` લઈને રમાય છે."
+    }
+  ],
+  "chapter_level": [
+    "The blue પ્રવેશપેટી hands over ready-made theme lines — `કુદરતે આપણને કેટલું બધું આપ્યું છે`, `ઘર-ઘરને નંદનવન બનાવવાનો`, `જગતના કલ્યાણનો`, `જે જે મળ્યું તે તે સુખ અનુભવતાં મનને બીજું જોઈએ શું` — and an L2 child (and an authoring agent in a hurry) will answer from the box instead of from the કડી. The box is apparatus: it may feed `key_terms` and provenance, but every topic's `explanation`, summaries and recall answers must be derivable from that topic's own `original_chunk`.",
+    "Std-8 ceiling over the whole chapter: `figures_of_speech` stays `[]` in all six topics (the printed unit names no device and std 8 attaches no labels), and no અલંકાર, છંદ or સમાસ label — `રૂપક`, `ઉપમા`, `ઉત્પ્રેક્ષા`, `સજીવારોપણ`, `અતિશયોક્તિ`, `અનુપ્રાસ`, `અંત્યાનુપ્રાસ`, `યમક`, `શ્લેષ`, `પુનરુક્તિ`, `છંદ`, `માત્રા`, `સમાસ` — appears in any authored field. The craft is carried by plain words — `પ્રાસ`, `લય`, `પુનરાવર્તન`, `અવાજ` — each tied to words in that topic's own lines.",
+    "One end-rhyme runs through the whole poem and is printed fact, not a scheme to be extended: the line-ending words of every કડી close on `ળ` — `વાદળ–ઝાકળ`, `પાછળ–આગળ`, `સાંકળ–હાવળ`, `બાવળ–કાસળ`, `કામળ–શામળ`, `કાજળ–કાગળ`. A craft sentence may state that and no more (no rhyme-scheme letters, no count of માત્રા). Script hazard for the L2 reader: `ળ` read as `લ` loses the rhyme and the word (`કાળ` ≠ `કાલ`), and `ધરુવાડિયાં` read with `ઘ` for `ધ` is a slip this very unit has already made in a derived field (01_meta.json extraction_notes). Glosses and `key_terms` reproduce the printed spelling exactly.",
+    "In the કડી opening `નિશા-ફૂલનું`, `પતંગ-પાંખો` and `સૂર્ય-ચંદ્રની` one sentence runs across both lines: a clause ending in `શોધતાં`, `પહેરી` / `લઈને` or `આંજી` is tied to a main verb (`જશું` / `તરશું`, `થશું`, `રમશું`), and in the last two a further clause follows it (`જ્યાં ધૂમકેતુની ઘોડો દેતો હાવળ`, `લઈને થોડા શબ્દો-કાગળ`). A reader who meets Gujarati as a second language stops at the first clause and drops the rest; every `explanation` for these restates the couplet as one sentence in the poet's order, with both halves.",
+    "Two printed words are left open by the page and by this plan: `બીજ` (second કડી) and `પતંગ` in `પતંગ-પાંખો` (third કડી). The શબ્દાર્થ box glosses neither and the picture settles neither (05_with_content.json notes). No field of any topic — and no `media[].generation_prompt` — may settle them: no crescent drawn or described for `બીજ`, no kite or butterfly drawn or described for `પતંગ-પાંખો`.",
+    "Devotional material runs under two topics — `અરજ પ્રભુને` and `નંદ-યશોદા-શામળ`. Teach it as the poet's wish in the poet's voice, with a living tradition behind it: no belief is asserted as fact, no tradition is compared with another, no recall question asks the child to say what they believe or to pray, and no `media[]` prompt depicts a deity as its subject.",
+    "The page prints one fact about the poet — the byline `- યોગેન્દ્ર વી. ભટ્ટ` — and no કવિ-પરિચય. No field states anything about him beyond that name (no birth year, no other works, no award, no `બાળકાવ્યના કવિ`).",
+    "The topics on the comet ride and on the sun and moon invite a news-item anchor. No `explanation`, `real_life_example` or recall answer names ઇસરો, `ચંદ્રયાન`, a રોકેટ, a મિશન or any space programme: none is printed, and it turns an imagined ride into a headline.",
+    "No numbers in display text anywhere in this plan. The unit is cut કડી by કડી, so `કડી 3 માં` is the slip waiting to happen: write `પહેલી કડીમાં`, `છેલ્લી કડીમાં`, `બીજી પંક્તિમાં`. Numbers live only in ids and provenance fields.",
+    "There is no ટેક: the dots inside the lines — `શોધતાં...`, `આગળ... આગળ`, `અમ...`, `માગીશું...`, `માગશું...`, `રમશું...` — are printed pauses, not refrain shorthand, and they stay in `original_chunk` exactly as printed and are never expanded. No topic carries a ટેક marker, and none lists another in `depends_on` on the strength of a returning refrain; the ળ end-rhyme is a rhyme, not a refrain."
+  ]
+}

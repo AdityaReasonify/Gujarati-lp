@@ -1,0 +1,12 @@
+{
+  "textbook": null,
+  "textbook_url": "../Textbooks-pdf/std-8/purak-01-bhulbhulamani.pdf",
+  "textbook_pages": "138",
+  "source": "printed folio read off the rendered page-1.png (single-page unit): the number '138' prints inside the pink footer band at the foot of the page. Cross-checked against std-8 manifest.json row P1 (printed_start 138, pdf_start 150, pdf_end 150) and profiles/boards/gseb_gujarati.md's std-8 table row P1 (138 | purak-01-bhulbhulamani.pdf | 150-150) - both agree, no arithmetic needed since it is a single printed page.",
+  "confidence": "medium",
+  "gaps": [
+    "textbook_url is a local path - the GSEB readers have no hosted URL",
+    "textbook is written null: profiles/boards/gseb_gujarati.md records the std-8 cover as not read yet ('cover not read yet; confirm before writing it into textbook'), so the title cannot be confirmed from a cover render - carried as null consistent with 01_meta.json and other std-8 chapters already run in this pipeline",
+    "only page-1.png was supplied for this unit (the source pdf is genuinely one printed page, pdf p. 150 of 150), so the folio was read once rather than cross-read at both ends of a range; the manifest/profile agreement is corroboration, not a second independent folio reading"
+  ]
+}

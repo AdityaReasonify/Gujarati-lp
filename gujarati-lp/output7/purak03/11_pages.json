@@ -1,0 +1,8 @@
+{
+  "textbook": "ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 7",
+  "textbook_url": "../Textbooks-pdf/std-7/purak-03-ramrajyana-moti.pdf",
+  "textbook_pages": "115–118",
+  "source": "printed folio read off renders of pdf pp. 1 and 4 of the chapter PDF (page-1.png shows folio 115, page-4.png shows folio 118, all 4 rendered pages read); cross-checked against std-7 manifest.json row (printed_start 115, pdf_start 128, pdf_end 131 — 4 pages) and board profile's std-7 purak table (P3 row: 115–118), both of which agree with the folios read",
+  "confidence": "high",
+  "gaps": ["textbook_url is a local path — the GSEB readers have no hosted URL"]
+}

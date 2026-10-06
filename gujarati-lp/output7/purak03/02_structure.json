@@ -1,0 +1,321 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati7_ch18",
+  "plan_id": "gseb_eng_gujarati7_ch18_v1",
+  "grade": 7,
+  "chapter_name": "રામરાજ્યનાં મોતી",
+  "genre": "varta",
+  "genre_subform": "પૌરાણિક કથા (દૃષ્ટાંતકથા)",
+  "active_genre_profiles": ["varta.md"],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "સાચું રામરાજ્ય એટલે શું, અને આ રાજાનું રાજ્ય એના જેવું કેમ નથી — એ કાગડો કેવી રીતે સાબિત કરે છે ?",
+  "explanation_unit": "એક ઘટના",
+  "unit_type_note": "પૂરક વાચન (purak03, printed internal sequence '3.'), re-keyed to chapter_id/unit_number/topic_number 18 per RUN CONTEXT — પૂરક units continue std-7's numbering after the book's 15 numbered teaching chapters (P1→ch16, P2→ch17, this P3→ch18, P4→ch19); chapter_master_id stays null. Restated briefly from 01_meta.json's own extraction_notes.",
+
+  "cut_summary": {
+    "reading_markers_in_normalized": [
+      "[[ઘટના: કલાકારનું સ્તુતિગીત અને કાગડાનો પડકાર]]",
+      "[[ઘટના: ચાર ઉત્તમ પુરુષોની શોધયાત્રા અને મોતીપ્રાપ્તિ]]",
+      "[[ઘટના: દરબારમાં મોતીની ચોરીની સાંકળ]]",
+      "[[ઘટના: રાણીની શંકા અને સત્યનો પર્દાફાશ]]",
+      "[[ઘટના: કાગડાએ કહેલી સીતા-રામરાજ્યની કથા]]",
+      "[[ઘટના: અંતિમ ચોટ — મોતી અને થાળ અદૃશ્ય]]"
+    ],
+    "reading_markers_count": 6,
+    "topics": 6,
+    "segments": 5,
+    "modules": 3,
+    "concepts": 6,
+    "objectives": 6,
+    "ghatna": 6,
+    "embedded_katha": 1,
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0,
+    "tek_occurrences": 0,
+    "marker_to_topic_mapping": "Clean 1:1 — each of Agent 1's six [[ઘટના: …]] markers heads exactly one topic in printed order (T1…T6), matching 01_meta.json's structure_inventory.ghatna=6 exactly. No marker is swallowed and no topic is invented where no marker sits. One deliberate non-split is flagged here for Agent 4's review: marker 3's own Gujarati name ends '…ની સાંકળ' (the CHAIN of theft) — Agent 1 itself named the king's unquestioning order, the brother's extortion of 4, the minister's skim of 2 and the queen's seizure of 8 as ONE scene, not four. profiles/genres/varta.md's own line — 'Repetition with escalation is a chain of beats, not one beat: in std-7 P3 each of the four \"ઉત્તમ પુરુષો\" who pockets a મોતી is a beat of the same test' — was read and weighed against this. That line is read here as describing the FOUR ORIGINAL messengers (ઉત્તમ પુરુષો) of marker 2, who pocket their pearl in one shared, undramatized sentence ('ચારે જણાએ અંદરોઅંદર ઈશારે વાત કરી લઈ એકેક મોતી ઉપાડી … છુપાવી દીધું') with no printed paragraph boundary inside it to split on — not the palace actors (પ્રધાન/ભાઈ/રાણી) of marker 3, who are named SEPARATELY and by name when the crow lists the culprits at the climax ('આ તમારા પ્રધાન ! આ તમારા ભાઈ ! આ તમારાં રાણી !'), precisely because they are different people playing different roles, not four repetitions of one role. Both markers 2 and 3 are therefore kept as single topics; Agent 4 should re-check this reading against the rendered page if in doubt."
+  },
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કલાકારના વખાણના ગીત પછી કાગડો કેમ ચરકીને રાજાને કહે છે કે આ રામરાજ્ય નથી, અને એ સાબિત કરવા રાજાના દરબારમાંથી કેવા ચાર પુરુષો માગે છે તે શોધવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ચાર ઉત્તમ પુરુષો વડના ઝાડ નીચેથી અઢાર મોતીવાળો થાળ શોધ્યા પછી રાજાની કચેરીમાં લઈ જતાં પહેલાં પોતે શું છુપાવે છે તે કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M2.S2.T2",
+      "anchor": ["M2.S2.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રાજા થાળ વિશે કંઈ પણ પૂછ્યા વિના હુકમ કરે પછી પ્રધાન, રાજાનો ભાઈ અને રાણી વારાફરતી કેટલાં મોતી પોતાની પાસે રાખે છે તે શોધીને સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T3",
+      "anchor": ["M2.S3.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઝવેરીને હાર માટે અઢાર મોતી ખૂટે છે એમ જાણ થતાં રાણીની શંકાથી શરૂ થયેલી પૂછપરછ પ્રધાન, ભાઈ, રાણી અને ચાર ઉત્તમ પુરુષો સુધી કેવી રીતે પહોંચે છે તે ક્રમમાં કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": ["M2.S3.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કાગડાએ કહેલી કથામાં સીતાજી નગરશેઠના અઢાર મોતીવાળા થાળનો અસ્વીકાર કેમ કરે છે, અને એ થાળ વરસો સુધી કોઈએ કેમ ન અડક્યું તે શોધીને કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S4.T5",
+      "anchor": ["M3.S4.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કાગડો રાજા, પ્રધાન, ભાઈ, રાણી અને ઉત્તમ પુરુષોની ચોરી યાદ કરાવે પછી મોતી-થાળ અદૃશ્ય થાય છે; 'લોભનો સ્પર્શ થયો એટલે એ અદૃશ્ય થઈ ગયાં !' એ કાગડાના વાક્યનો અર્થ કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T6",
+      "anchor": ["M3.S5.T6.C6"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6"
+  },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "કાગડાનો પડકાર",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "કલાકારનું ગીત અને કાગડાનો પડકાર",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "કલાકારનું ગીત અને કાગડાનો પડકાર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: કલાકારનું સ્તુતિગીત અને કાગડાનો પડકાર]]"],
+              "source_lines_00_normalized": "8-33",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "કલાકારનું ગીત અને કાગડાનો પડકાર",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "મોતીની શોધ અને દરબારની ચોરીની સાંકળ",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ચાર ઉત્તમ પુરુષોની શોધયાત્રા અને મોતીની ચોરી",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T2",
+              "topic_name": "ચાર ઉત્તમ પુરુષોની શોધયાત્રા અને મોતીની ચોરી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": ["M1.S1.T1"],
+              "objective_ids": ["O2"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: ચાર ઉત્તમ પુરુષોની શોધયાત્રા અને મોતીપ્રાપ્તિ]]"],
+              "source_lines_00_normalized": "34-40",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T2.C2",
+                  "concept_name": "ચાર ઉત્તમ પુરુષોની શોધયાત્રા અને મોતીની ચોરી",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "દરબારમાં ચોરીની સાંકળ અને સત્યનો પર્દાફાશ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T3",
+              "topic_name": "દરબારમાં મોતીની ચોરીની સાંકળ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": ["M2.S2.T2"],
+              "objective_ids": ["O3"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: દરબારમાં મોતીની ચોરીની સાંકળ]]"],
+              "source_lines_00_normalized": "41-55",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T3.C3",
+                  "concept_name": "દરબારમાં મોતીની ચોરીની સાંકળ",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "રાણીની શંકા અને સત્યનો પર્દાફાશ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": ["M2.S3.T3"],
+              "objective_ids": ["O4"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: રાણીની શંકા અને સત્યનો પર્દાફાશ]]"],
+              "source_lines_00_normalized": "56-92",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "રાણીની શંકા અને સત્યનો પર્દાફાશ",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "સાચા રામરાજ્યનો પુરાવો અને લોભનો અંત",
+      "segments": [
+        {
+          "segment_id": "M3.S4",
+          "segment_name": "કાગડાએ કહેલી સીતા-રામરાજ્યની કથા",
+          "topics": [
+            {
+              "topic_id": "M3.S4.T5",
+              "topic_name": "કાગડાએ કહેલી સીતા-રામરાજ્યની કથા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "hard",
+              "depends_on": ["M2.S3.T4"],
+              "objective_ids": ["O5"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: કાગડાએ કહેલી સીતા-રામરાજ્યની કથા]]"],
+              "source_lines_00_normalized": "93-97",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T5.C5",
+                  "concept_name": "કાગડાએ કહેલી સીતા-રામરાજ્યની કથા",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "કાગડાની ઓળખ અને મોતી-થાળનું અદૃશ્ય થવું",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T6",
+              "topic_name": "કાગડાની ઓળખ અને મોતી-થાળનું અદૃશ્ય થવું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": ["M2.S3.T4", "M3.S4.T5"],
+              "objective_ids": ["O6"],
+              "original_chunk": "",
+              "markers": ["[[ઘટના: અંતિમ ચોટ — મોતી અને થાળ અદૃશ્ય]]"],
+              "source_lines_00_normalized": "98-108",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T6.C6",
+                  "concept_name": "કાગડાની ઓળખ અને મોતી-થાળનું અદૃશ્ય થવું",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "not_cut_as_topics": [
+    "[[પૂરક ક્રમાંક: 3.]] (line 3) — pagination/sequence box; not reading text.",
+    "[[પ્રવેશપેટી]] (line 5) — teacher-addressed intro box ('આ એકમ ભણાવતી વખતે બીજી પૌરાણિક પ્રેરક કથાઓનો સંદર્ભ આપી શકાશે' addresses the TEACHER, not the child); feeds notes/key_terms only. Contrast std-10's unlabelled કવિ/લેખક-પરિચય, which IS printed for the student and becomes a CONCEPT topic there — this box is not that shape.",
+    "[[શબ્દાર્થ]] (line 109) — glossary box, 18 entries; apparatus, feeds key_terms for Agent 10/12, not a topic.",
+    "[[કહેવતો/રૂઢિપ્રયોગ]] (line 127) — idiom/proverb box, 4 entries; apparatus, feeds key_terms/ભાષા-બોધ, not a topic.",
+    "exercise_inventory is [] in 01_meta.json — measured fact for a પૂરક વાચન unit with no numbered સ્વાધ્યાય at all (per 01_meta.json's own extraction_notes), not a gap; nothing excluded here because nothing exists to exclude."
+  ],
+
+  "notes": [
+    "Frame-story topic_category, checked against a worked precedent: markers 5 and 6 are the embedded કથા and the frame's return, per profiles/genres/varta.md and reference/explanation_unit_map.md's frame-story rule ('the classroom frame and the embedded કથા are different ઘટના and different topics … topic_category marks the handover as transition'). Read against output6/ch13/02_structure.json's own frame-story cut (the only other frame story in the measured corpus): its embedded-tale-OPENING topics are tagged 'transition' (T3, T5), while its frame-RETURN topic is tagged 'resolution', not 'transition' (T8). Mirrored exactly here: M3.S4.T5 (entering the Sita-Rama તale) is 'transition'; M3.S5.T6 (frame resumes + disappearance + moral) is 'resolution'.",
+    "Hand-over sentence, flagged for Agent 5 (original_chunk stays empty at this stage): the sentence 'કાગડાએ કહ્યું : \"એ જાણવા માટે આ મોતીની વાત મારે તમને કહેવી પડશે. તો સાંભળો !\"' sits physically at the END of marker 4's text block in 00_chapter_normalized.md (just before line 93's marker-5 label) — but per the pre-topic-hook rule ('a line that introduces the next ઘટના opens THAT topic; it is not the tail of the previous one'), it is the handover INTO the embedded tale and belongs at the OPENING of M3.S4.T5's original_chunk, not at the close of M2.S3.T4's.",
+    "Embedded verse: the artist's two-stanza praise song ('ધન્ય રાજા તને, ધન્ય તુજ બંધુને…' / 'ધન્ય આ બ્રાહ્મણો…') is quoted content inside the dominant prose frame. Per varta.md/explanation_unit_map.md ('couplets quoted inside a scene stay verbatim inside that scene's topic'), it stays inside M1.S1.T1 and is NOT a separate POEM topic — matching 01_meta.json's own extraction_notes, which already records this reading.",
+    "Markers 2 and 3 kept as single topics despite varta.md's 'repetition with escalation is a chain of beats' line naming this exact chapter — full reasoning is in cut_summary.marker_to_topic_mapping above; flagged there for Agent 4's review, not repeated here.",
+    "Avoid-gate #2 (varta.md hard gate 2 — no tacked-on બોધ): the chapter states its OWN moral verbatim ('લોભનો સ્પર્શ થયો એટલે એ અદૃશ્ય થઈ ગયાં !'), which varta.md itself names as the exemplar for 'quote it and teach it as the author's move' rather than append an invented one. O6 / M3.S5.T6 is written to quote this line directly so Agent 12's explanation has a non-invented, text-grounded anchor; Agent 12 must not add a second, different moral sentence of its own.",
+    "Craft-label ceiling honoured: no અલંકાર, છंद, સમાસ or સાહિત્યપ્રકાર is named in any objective_text (profiles/students/std-7.md §2's hard genre gate; teaching_lens_map.md's craft-naming gate). All six objectives ask the child to find, trace or explain an event or a printed line, never to name a device. figures_of_speech[] is expected to stay [] for every topic at std 7 — that call belongs to Agent 5/7, not asserted here.",
+    "Difficulty basis (std 6-7 row of the spec's table — what stops an A2 reader on the page, never craft or idea-size): M2.S3.T4 and M3.S4.T5 are rated 'hard' because 01_meta.json's own extraction_notes flag a genuinely જોડાક્ષર-confusing word inside each — 'ગાળિયો' (ળ vs ણ, inside T4's span) and 'પટ્ટણનું દટ્ટણ થઈ ગયું' (doubled ટ્ટ conjunct, inside T5's span) — words the TRANSCRIBING agent itself first misread. M1.S1.T1 is 'medium' for the bard's praise-song register (અવધ, બંધુ, ધન્ય — all glossed). M2.S2.T2 is 'easy' (concrete action — digging, finding, hiding — in plain words). M2.S3.T3 is 'medium': simple vocabulary, but a fast multi-speaker numeric chain (4, then 2, then 8 મોતી) an L2 reader must track. M3.S5.T6 is 'medium': the mythological name 'કાકભુશુંડી' and an abstract closing line, without the જોડાક્ષર-density of T4/T5.",
+    "Module/segment cut rationale: three modules by the story's large movements — M1 the crow's challenge (1 segment, 1 topic), M2 the test and its unravelling at court (2 segments, 3 topics — a location shift from the banyan-tree search near Ayodhya to the Hastinapur court splits S2 from S3), M3 the exemplum and resolution (2 segments, 2 topics). This tree is smaller than a full std-7 વાર્તા chapter's (e.g. output7/ch03's 3 modules / 6 segments / 13 topics) only because this પૂરક વાચન piece runs 4 printed pages against a full chapter's dozen-plus — flagged so Agent 4 does not expect a larger tree.",
+    "No render PNG was opened; only 00_chapter_normalized.md and 01_meta.json were read, since the transcription and its extensive extraction_notes (marker positions, genre signals, two self-flagged transcription corrections) answered every structural question this cut needed. Per RUN CONTEXT a render would only be opened for a layout/figure question the transcription could not answer, and none arose. No [[ચિત્ર: …]] marker appears anywhere in 00_chapter_normalized.md for this unit — flagged for Agent 9's attention, outside this agent's own scope.",
+    "CONTEXT ROUTING: RUN CONTEXT named four files as 'policy documents your spec requires' (reference/no_hallucination_policy.md, reference/global_content_rules.md, reference/explanation_unit_map.md, reference/teaching_lens_map.md) and separately instructed reading 00_chapter_normalized.md + 01_meta.json + 'the resolved genre profile(s)' — read as profiles/genres/varta.md, the sole entry in 01_meta.json's active_genre_profiles. This agent's own spec (agents/02_structure.md) additionally lists reference/naming_conventions.md, reference/phase2_contract.md and profiles/students/std-7.md among its inputs; all three were directly readable in the repo with no access restriction — the same situation already recorded in output7/purak04/02_structure.json's own notes — and were read in full before writing this file as the spec's own declared id-grammar/pedagogy inputs, not as additional policy documents outside the routed set. No document cited by the spec was missing from the repo.",
+    "genre_confidence stays high and unchanged — no page-vs-profile conflict to flag: varta.md's own provenance list already names this exact chapter ('std-7 P3 રામરાજ્યનાં મોતી') under both the પૌરાણિક કથા and દૃષ્ટાંતકથા/બોધકથા sub-form rows, matching 01_meta.json's genre field and the page's own intro-box wording exactly."
+  ]
+}

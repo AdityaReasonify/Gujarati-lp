@@ -1,0 +1,17 @@
+{
+  "chapter_id": "gseb_eng_gujarati8_ch16",
+  "textbook_order": [
+    "M1.S1.T1",
+    "M1.S2.T2",
+    "M1.S2.T3",
+    "M2.S3.T4",
+    "M2.S3.T5",
+    "M2.S4.T6"
+  ],
+  "source": "printed page 138 read off the render (_renders/page-1.png); the whole poem (title, author line, પ્રવેશપેટી, all six કડી and the શબ્દાર્થ box) is printed on this single page, the six કડી in one unbroken column from top to bottom",
+  "notes": [
+    "Equals the logical traversal order of 02_structure.json exactly (re-checked on this resume pass: the structure's ids are frozen, only text fields changed). Emitted anyway so Agent 15 has an explicit index rather than an assumption, and so its human_confirmation_required flag is raised on a comparison that actually happened.",
+    "Order is the order of the teaching text only. The પ્રવેશપેટી and the શબ્દાર્થ box on the same printed page are excluded, consistent with 02_structure.json's marker_accounting, which records both as apparatus, never a reading scene.",
+    "This is a પૂરક વાચન unit: no numbered સ્વાધ્યાય block is printed on the page (01_meta.json's exercise_inventory is empty), so nothing beyond the six કડી competes for a place in this list. No વ્યાકરણ એકમ or 'આગળ વધતાં પહેલાં' revision unit falls inside this single printed page."
+  ]
+}

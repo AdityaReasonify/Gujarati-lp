@@ -1,0 +1,56 @@
+{
+  "board": "gseb",
+  "grade": 8,
+  "subject": "Gujarati",
+  "level": "standard",
+  "version": 1,
+  "chapter_id": "gseb_eng_gujarati8_ch16",
+  "plan_id": "gseb_eng_gujarati8_ch16_v1",
+  "chapter_name": "ભુલભુલામણી",
+  "unit_title": "ભુલભુલામણી",
+  "unit_number": 16,
+  "topic_number": 16,
+  "textbook": null,
+  "textbook_url": "../Textbooks-pdf/std-8/purak-01-bhulbhulamani.pdf",
+  "textbook_pages": "138",
+  "chapter_master_id": null,
+  "subject_ref_id": null,
+  "genre": "ઊર્મિકાવ્ય-ગીત (બાળકાવ્ય)",
+  "genre_signals": {
+    "structure": "પદ્ય. ટેક નથી; છ કડી, દરેક બે પંક્તિની, કડીઓ વચ્ચે કોઈ પુનરાવર્તિત પંક્તિ નથી. દરેક કડીની બંને પંક્તિઓ 'ળ' અંત્યાનુપ્રાસમાં બંધાયેલી છે (વાદળ–ઝાકળ, પાછળ–આગળ, સાંકળ–હાવળ, બાવળ–કાસળ, કામળ–શામળ, કાજળ–કાગળ). છ કડી ક્રમશઃ કુદરતની એક-એક સાદી ભેટ (ઊંઘ, ભ્રમણ, ખોરાક, પાણી) થી શરૂ થઈને કલ્પનાની ઊડાન (આગિયા પાછળ જવું, 'બીજ તણી બંકિમ હોડી'માં તરવું, 'ધૂમકેતુની ઘોડો' દેતો હાવળ, પ્રભુને અરજ, મોરપીંછ-બંસીની માગણી) તરફ આગળ વધે છે અને છેલ્લી કડીમાં શીર્ષક 'ભુલભુલામણી' પોતે પંક્તિમાં ઝિલાય છે. ચૌદ પંક્તિ નથી, શેર નથી, છાપ નથી, કોઈ પાત્ર બોલતું નથી, કોઈ ઘટનાક્રમ નથી.",
+    "theme": "કુદરતે આપેલી સાદી-સામાન્ય વસ્તુઓ (ધરુવાડિયાં, વાદળ, તડકો, ઝાકળ) ને બાળકની કલ્પના કેવી અદ્ભુત, જાદુઈ વસ્તુઓમાં ફેરવી શકે છે એની રમતિયાળ યાદી — કલ્પના અને પ્રકૃતિ.",
+    "exercises": "પૂરક વાચન — કોઈ ક્રમાંકિત સ્વાધ્યાય બ્લોક છપાયો નથી; શબ્દાર્થ પેટી સિવાય પાના પર બીજું કંઈ નથી (ન વિદ્યાર્થી-પ્રવૃત્તિ, ન ભાષા-અભિવ્યક્તિ, ન શિક્ષકની ભૂમિકા). એટલે સંકેત C (સ્વાધ્યાય) આ એકમ માટે ઉપલબ્ધ નથી — profiles/boards/gseb_gujarati.md મુજબ પૂરક વાચન એકમોમાં આ અપેક્ષિત સ્થિતિ છે.",
+    "purpose": "બાળકની કલ્પનાને શબ્દો વડે રમાડવાનું ગીત. કડીઓ નાની-નાની રોજિંદી જરૂરિયાત (ઊંઘ, ફરવું, ખાવું, પીવું) થી શરૂ થઈને મોટી કલ્પના (નિશા, ધૂમકેતુ, પ્રભુને અરજ, મોરપીંછ-બંસી, સૂર્ય-ચંદ્ર) સુધી પહોંચે છે, અને છેલ્લે કવિ પોતે કહે છે કે થોડા શબ્દો-કાગળ લઈને 'ભુલભુલામણી' રમવાની છે — કવિતા પોતે જ શબ્દોની ભુલભુલામણી બની રહે છે. પ્રવેશપેટીમાં સ્વરૂપનું નામ છપાયું નથી (એ ફક્ત કુદરતની ભેટ માટેની કૃતજ્ઞતા અને જગતકલ્યાણની વાત કરે છે, કાવ્ય-સ્વરૂપનો કોઈ દાવો કરતી નથી)."
+  },
+  "genre_confidence": "high",
+  "active_genre_profiles": [
+    "urmikavya_geet.md"
+  ],
+  "teaching_lens": "ચિત્ર + ભાવ + અલંકાર",
+  "guiding_question": "ધરુવાડિયાં, વાદળ, તડકો ને ઝાકળ જેવી સાવ સાદી વસ્તુઓમાંથી કવિ કલ્પનાની કેવી અનોખી ભુલભુલામણી રચે છે ?",
+  "explanation_unit": "એક કડી",
+  "structure_inventory": {
+    "kadi": 6,
+    "duha": 0,
+    "pad": 0,
+    "ghatna": 0,
+    "tek_occurrences": 0
+  },
+  "exercise_inventory": [],
+  "extraction_notes": [
+    "Chapter identity confirmed from the render, not the filename: page-1.png prints the number box '1', the title 'ભુલભુલામણી' and the author slot '- યોગેન્દ્ર વી. ભટ્ટ', with printed folio '138' at the foot of the page — matching profiles/boards/gseb_gujarati.md's std-8 table row P1 (printed pp 138, pdf pp 150–150, file purak-01-bhulbhulamani.pdf).",
+    "PROVENANCE (per orchestrator RUN CONTEXT, required and not cosmetic): this is a પૂરક વાચન (supplementary reading) unit, not a numbered teaching chapter — the book itself still prints a small '1' number-box on the page, but that is the book's own પૂરક-numbering, not a chapter number. Because LP2's validator rejects any chapter_id that does not match {board}_{medium}_{subject}{grade}_ch{N}, this પૂરક lesson 1 is recorded here as chapter_id 'gseb_eng_gujarati8_ch16', unit_number 16 and topic_number 16 — continuing the numbering immediately after std-8's 15 numbered teaching chapters (ch01–ch15). chapter_master_id is left null; no real GSEB master-id exists for a પૂરક unit under this synthetic ch16 identity.",
+    "Only ONE render was supplied (_renders/page-1.png) because the source pdf is genuinely a single printed page (pdf p. 150 only, per pdfinfo and the board profile). The orchestrator's RUN CONTEXT states renders are pre-supplied and must not be re-generated, so the canonical multi-page 'render low, re-render high, compare' cross-check could not be run. In its place, the single supplied 1300×1713 PNG was cropped into 2x–10x LANCZOS-upscaled regions and every line was re-read against the enlargement, word by word, including the known 100-dpi confusion pairs.",
+    "ધ/ઘ check (named confusion in agents/01_ingestion_genre_diagnosis.md): કડી 1's first content word read as 'ઘરુવાડિયાં' at normal viewing size. A tight 6x crop resolved it to 'ધરુવાડિયાં' (ધ, not ઘ) — confirmed independently against the શબ્દાર્થ box's gloss entry 'ધરુવાડિયું', which the render also prints with ધ.",
+    "ળ/ણ check: કડી 4's closing word, and its own શબ્દાર્થ-box gloss entry, both looked momentarily like 'કાસણ' (ણ) at low zoom. Two separate 8x crops — one on the verse line, one on the gloss line — both resolved cleanly to 'કાસળ' (ળ), consistent with the poem's own ળ end-rhyme scheme running through every કડી. No discrepancy between verse and gloss survives; the initial ણ-reading was an artifact of insufficient zoom, not a printed fact.",
+    "'બંસી' (કડી 5) was confirmed to carry an અનુસ્વાર (ં) at 10x zoom — distinguishing it from a misread 'બસી'. 'બંસી' (flute) and 'મોરપીંછ' (peacock feather) in the same line are both conventional Krishna attributes, consistent with the following line's 'નંદ-યશોદા-શામળ'.",
+    "Printed grammatical irregularity kept exactly as printed, not corrected: કડી 3's line 2 reads 'ધૂમકેતુની ઘોડો' — the feminine postposition 'ની' modifying the masculine noun 'ઘોડો'. The rendered page is the sole authority and 'a printed typo stays' per reference/no_hallucination_policy.md and agents/01_ingestion_genre_diagnosis.md's Do-not list.",
+    "'textbook' is written null on purpose, consistent with the other std-8 chapters already run in this pipeline (output8/ch01, output8/ch02): profiles/boards/gseb_gujarati.md records the std-8 cover as 'not read yet; confirm before writing it into textbook', and this unit's single render is the chapter page only, not the cover spread.",
+    "genre_confidence resolved to 'high', one notch above the board profile's own prior of 'medium-high' for this unit: the rendered page gives a clean, non-conflicting read on every available signal — a modern, named, non-devotional poet (યોગેન્દ્ર વી. ભટ્ટ, no છાપ inside the verse), six કડી of matching length with no ટેક, a consistent ળ end-rhyme, and an imaginative ચિત્ર+ભાવ theme (nature's gifts re-imagined) — all of which route cleanly to urmikavya_geet.md's બાળકાવ્ય sub-form with nothing in the four signals pulling toward a different profile. Signal C (સ્વાધ્યાય) is simply absent, as expected for a પૂરક વાચન unit, and does not weaken the other three.",
+    "exercise_inventory is empty as a MEASURED FACT, not a gap: the single page carries the title, author line, પ્રવેશપેટી, six કડી and one શબ્દાર્થ box, and nothing else — no numbered સ્વાધ્યાય block, no વિદ્યાર્થી-પ્રવૃત્તિ, no ભાષા-અભિવ્યક્તિ, no ચર્ચા-વિચારણા, no શિક્ષકની ભૂમિકા. This matches profiles/boards/gseb_gujarati.md's standing rule that પૂરક વાચન units carry reading matter and, at most, a શબ્દાર્થ box, with no exercises.",
+    "The પ્રવેશપેટી (blue intro box) on this page does NOT name a સ્વરૂપ outright, unlike the std 6–8 convention described in reference/genre_diagnosis.md ('આ એક સુંદર લોકગીત છે' and similar) — it is purely thematic (gratitude for what nature provides, and the wish that this bring the world good), with no genre claim to quote verbatim into genre_signals. The diagnosis above therefore rests on signals A (structure), B (theme) and D (purpose) alone; this absence is recorded here rather than silently treated as a signal that was checked and found empty.",
+    "Structural markers used in 00_chapter_normalized.md: the canonical [[કડી n]] from reference/gujarati_verbatim.md, plus two descriptive apparatus markers the canonical list does not cover — [[પ્રવેશપેટી]] and [[શબ્દાર્થ]] — following the same convention already established in output8/ch01/00_chapter_normalized.md. No [[સ્વાધ્યાય: …]] marker appears, because none is printed.",
+    "QR badge (code E3T2J9) sits at the top-right of the page, above the author line; it does not overlap any body text and its 6-character code is not transcribed, per reference/01_ingestion_genre_diagnosis.md.",
+    "RESUME CORRECTION (A1 re-run after downstream QC blocker B-1): 00_chapter_normalized.md was re-read line by line against fresh 2x-3x LANCZOS crops of the single supplied render (title and author, intro box, all six કડી, શબ્દાર્થ box) and found correct; it is unchanged. In this file only the following were changed. (1) 'ઘરુવાડિયાં' (ઘ, not a word) corrected to the printed 'ધરુવાડિયાં' in guiding_question and genre_signals.theme; the earlier ધ/ઘ note above had resolved the verse to ધ but the derived fields had kept ઘ. (2) Readings the page does not print were pulled back to the printed words in the working fields genre_signals.structure and genre_signals.purpose: 'બીજના ચાંદની વાંકી હોડી' is now the printed 'બીજ તણી બંકિમ હોડી' (the page does not say whether બીજ is the crescent moon or a seed, so no reading is asserted), 'ચાંદ' (never printed) is dropped, and 'આગિયા પાછળ દોડવું' is now 'આગિયા પાછળ જવું' (printed: 'જશું આગિયા પાછળ'). (3) A wrong path in the ધ/ઘ note ('reference/01_…') now reads 'agents/01_…'. No diagnosis, count, id or inventory field changed: genre, genre_confidence, active_genre_profiles, structure_inventory (six કડી, no ટેક) and exercise_inventory ([] as a measured fact) stand. Copies of the earlier guiding_question and theme in 02_structure.json and 05_with_content.json (and anything derived from them) were written by other agents and are not touched here."
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "agent": "02_structure",
+  "chapter_id": "gseb_eng_gujarati8_ch16",
+  "plan_id": "gseb_eng_gujarati8_ch16_v1",
+  "grade": 8,
+  "chapter_name": "ભુલભુલામણી",
+  "genre": "ઊર્મિકાવ્ય-ગીત (બાળકાવ્ય)",
+  "active_genre_profiles": ["urmikavya_geet.md"],
+  "explanation_unit": "એક કડી",
+  "teaching_lens": "ચિત્ર + ભાવ + અલંકાર",
+  "guiding_question": "ધરુવાડિયાં, વાદળ, તડકો ને ઝાકળ જેવી સાવ સાદી વસ્તુઓમાંથી કવિ કલ્પનાની કેવી અનોખી ભુલભુલામણી રચે છે ?",
+
+  "marker_accounting": {
+    "reading_markers_in_source": ["[[કડી 1]]", "[[કડી 2]]", "[[કડી 3]]", "[[કડી 4]]", "[[કડી 5]]", "[[કડી 6]]"],
+    "reading_markers_count": 6,
+    "topics_cut": 6,
+    "topic_id_per_marker": {
+      "[[કડી 1]]": "M1.S1.T1",
+      "[[કડી 2]]": "M1.S2.T2",
+      "[[કડી 3]]": "M1.S2.T3",
+      "[[કડી 4]]": "M2.S3.T4",
+      "[[કડી 5]]": "M2.S3.T5",
+      "[[કડી 6]]": "M2.S4.T6"
+    },
+    "markers_deliberately_not_cut_as_topics": {
+      "[[પ્રવેશપેટી]]": "apparatus — the blue intro box ('કુદરતે આપણને કેટલું બધું આપ્યું છે !... જે જે મળ્યું તે તે સુખ અનુભવતાં મનને બીજું જોઈએ શું ?'). 01_meta.json's own extraction_notes already judged it purely thematic with no સ્વરૂપ claim, but it is still the std 6–8 convention's teacher-addressed intro box, not a std-10-style unlabelled કવિ-પરિચય/કૃતિ-પરિચય paragraph printed for the student. Feeds key_terms and ભાષા-બોધ, never a reading scene.",
+      "[[શબ્દાર્થ]]": "apparatus — the gloss box (ધરુવાડિયું, નિશા, આગિયા, સૂર, બંકિમ, હાવળ, ધૂમકેતુ, પારિજાત, કાસળ, કામળ). Feeds key_terms / shabdarth, same as every other chapter's શબ્દાર્થ box."
+    }
+  },
+
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'સૂવા માટે ધરુવાડિયાં, ફરવા માટે વાદળ' પંક્તિમાં કવિ રોજની કઈ-કઈ જરૂરિયાત માટે કુદરત પાસેથી કઈ સાદી ભેટ મેળવે છે તે શોધીને કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": ["M1.S1.T1.C1"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'જશું આગિયા પાછળ' અને 'બીજ તણી બંકિમ હોડીમાં તરશું' પંક્તિઓ પરથી કવિ રાતે કેવી કલ્પનાની સફર કરવા ઇચ્છે છે તે પોતાના શબ્દોમાં કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S2.T2",
+      "anchor": ["M1.S2.T2.C2"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'પતંગ-પાંખો પહેરી' અને 'થશું સવાર જ્યાં ધૂમકેતુની ઘોડો દેતો હાવળ' પંક્તિઓ પરથી કવિ શું પહેરીને, ક્યાં સવારી કરવાની કલ્પના બાંધે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M1.S2.T3",
+      "anchor": ["M1.S2.T3.C3"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'સૌ ભેરુ અમ... પારિજાત ને ગુલાબ, આવળ-બાવળ' અને 'જગમાં કો'નું કદી ન નીકળો કાસળ' પંક્તિઓ પરથી કવિ ફૂલ-વેલીઓની મિત્રતા અને જગતકલ્યાણની અરજને કઈ રીતે જોડે છે તે સમજાવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": ["M2.S3.T4.C4"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'મોરપીંછ, બંસી માગીશું' અને 'ઘર-ઘરમાં હો નંદ-યશોદા-શામળ' પંક્તિઓ પરથી કવિ સાદી માગણી અને ઘરે-ઘરે પ્રભુ-હાજરીની ઝંખનાને કઈ રીતે જોડે છે તે તારવવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T5",
+      "anchor": ["M2.S3.T5.C5"],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "'સૂર્ય-ચંદ્રની આંખે આંજી અંધારાનું કાજળ' અને 'ભુલભુલામણી રમશું... લઈને થોડા શબ્દો-કાગળ' પંક્તિઓ કવિતાના શીર્ષકને કઈ રીતે પૂરું કરે છે તે મૂલવવું.",
+      "bloom_level": "Evaluate",
+      "home_topic_id": "M2.S4.T6",
+      "anchor": ["M2.S4.T6.C6"],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6"
+  },
+
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "સાદી જરૂરિયાતથી રાતની ઊડાન સુધી",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "કુદરતની રોજની ભેટ",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "ધરુવાડિયાં, વાદળ, તડકો ને ઝાકળની ભેટ",
+              "topic_type": "POEM",
+              "topic_category": "introduction",
+              "difficulty": "easy",
+              "depends_on": [],
+              "objective_ids": ["O1"],
+              "source_marker": "[[કડી 1]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "સૂવા-ફરવા-ખાવા-પીવા માટે કુદરતની સાદી ભેટ",
+                  "objective_id": "O1",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M1.S2",
+          "segment_name": "રાતના આકાશમાં કલ્પનાની સફર",
+          "topics": [
+            {
+              "topic_id": "M1.S2.T2",
+              "topic_name": "આગિયા પાછળ અને ચાંદની હોડીમાં સફર",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O2"],
+              "source_marker": "[[કડી 2]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T2.C2",
+                  "concept_name": "આગિયા અને ચાંદની હોડીની રાતી કલ્પના",
+                  "objective_id": "O2",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M1.S2.T3",
+              "topic_name": "પતંગ-પાંખે ઊડીને ધૂમકેતુના હાવળ સુધી",
+              "topic_type": "POEM",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O3"],
+              "source_marker": "[[કડી 3]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M1.S2.T3.C3",
+                  "concept_name": "પતંગ-પાંખ અને ધૂમકેતુ-ઘોડા સુધીની ઊડાન",
+                  "objective_id": "O3",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "સૌના ભલા માટેની અરજ અને શબ્દોની ભુલભુલામણી",
+      "segments": [
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "સૌનું ભલું થાય એવી ઝંખના",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "ફૂલ-વેલીના ભેરુ અને જગતકલ્યાણની અરજ",
+              "topic_type": "POEM",
+              "topic_category": "transition",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O4"],
+              "source_marker": "[[કડી 4]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "ફૂલ-વેલીની મિત્રતા અને જગતકલ્યાણની અરજ",
+                  "objective_id": "O4",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T5",
+              "topic_name": "મોરપીંછ-બંસીની માગણી અને ઘરે-ઘરે શામળ",
+              "topic_type": "POEM",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": ["O5"],
+              "source_marker": "[[કડી 5]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T5.C5",
+                  "concept_name": "મોરપીંછ-બંસી-કામળની માગણી અને ઘરે-ઘરે શામળની ઝંખના",
+                  "objective_id": "O5",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S4",
+          "segment_name": "શબ્દોની ભુલભુલામણી",
+          "topics": [
+            {
+              "topic_id": "M2.S4.T6",
+              "topic_name": "સૂર્ય-ચંદ્રની આંખે કાજળ અને શબ્દોની ભુલભુલામણી",
+              "topic_type": "POEM",
+              "topic_category": "resolution",
+              "difficulty": "hard",
+              "depends_on": [],
+              "objective_ids": ["O6"],
+              "source_marker": "[[કડી 6]]",
+              "original_chunk": "",
+              "concepts": [
+                {
+                  "concept_id": "M2.S4.T6.C6",
+                  "concept_name": "અંધારાનું કાજળ અને શબ્દોની ભુલભુલામણી",
+                  "objective_id": "O6",
+                  "key_terms": [],
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "notes": [
+    "CONTEXT ROUTING GAP (flagged, not guessed past), restated for this resume pass: 02_structure.md's own frontmatter lists reference/naming_conventions.md, reference/phase2_contract.md and profiles/students/std-<N>.md as required inputs, but the RUN CONTEXT's 'Policy documents your spec requires' list supplied only no_hallucination_policy.md, global_content_rules.md, explanation_unit_map.md and teaching_lens_map.md (urmikavya_geet.md was named separately and was read). The first A2 pass on this unit recorded that it read the three missing documents from the repository and cross-checked the id grammar, the root objectives[] + strand_to_objective_map shape and the std-8 craft-label ceiling against them and against output8/ch01/02_structure.json; A4 then validated the result (04_validation.json status pass). THIS pass did NOT re-read those three documents. It is a targeted text correction inside that already-validated shape: no id, key, counter, topic_type, topic_category, difficulty, depends_on, objective_ids, home_topic_id, anchor, segment or module grouping was changed, and no field was added or removed. Nothing about the missing documents' contents was guessed. The orchestrator should confirm the routing list for A2 includes those three documents on any future full re-cut.",
+    "RESUME CORRECTIONS (QC blockers B-1 and B-2, text only, ids frozen). (1) B-1: root guiding_question's first word had its first letter as ઘ; it is now the printed ધરુવાડિયાં (ધ), identical to A1's corrected 01_meta.json guiding_question; the printed verse and the printed શબ્દાર્થ box both carry ધ. (2) B-2: objective O3 objective_text no longer says કવિ 'સવાર સુધીની ઊડાનની કલ્પના' (which read સવાર as the morning). The printed line is 'થશું સવાર જ્યાં ધૂમકેતુની ઘોડો દેતો હાવળ !': થશું is 'we shall become', સવાર is the rider, and the page's own શબ્દાર્થ box glosses હાવળ as ઘોડાનો હણહણાટ. O3 now quotes that whole printed line and asks what the poet puts on and where he imagines riding ('શું પહેરીને, ક્યાં સવારી કરવાની કલ્પના'), with 'સવારી' chosen on purpose so the word cannot be read as the morning. It names no અલંકાર/છંદ/સમાસ, quotes only printed words, does not gloss 'પતંગ-પાંખો', and stays Analyze. The module-grouping note below was corrected to the same reading ('climaxes in that ride', not 'at dawn'). O3 is the only objective that changed. A4 must re-validate: 04_converged.json's sha256 was taken against the pre-correction file and will no longer match. Then A5 re-attaches the registry from this file, and the inline learning_objectives mirror and modified_chunk in 05_with_content.json (which still say સવાર સુધી / સવાર પડે ત્યાં સુધી) are A5's to re-derive; this agent does not touch 05.",
+    "OBSERVED, NOT CHANGED (outside the QC blocker list; text is frozen with downstream copies): M1.S2.T2's topic_name says 'ચાંદની હોડી' and its concept_name says 'ચાંદની હોડીની રાતી કલ્પના', but the printed words are 'બીજ તણી બંકિમ હોડી' and the page does not say whether બીજ is the moon or a seed (A1's own correction note refuses to assert it). 'રાતી' in that concept_name also looks like a slip for 'રાતની'. Both are child-facing names that downstream agents copied. They are left exactly as validated so 02 does not drift from 05/12/13/16; A13 or the orchestrator should decide whether a coordinated rename (e.g. 'બંકિમ હોડી') is wanted.",
+    "Cut by the સ્વરૂપ's unit, not habit: 01_meta.json sets explanation_unit 'એક કડી' and urmikavya_geet.md sets the same ('one કડી'). The page (via 00_chapter_normalized.md) agrees with the profile prior — no disagreement to report on the unit itself.",
+    "Six reading markers in 00_chapter_normalized.md ([[કડી 1]] through [[કડી 6]]), six topics, one marker each. No marker swallowed, no topic invented where no marker sits.",
+    "ટેક: 01_meta.json's structure_inventory records tek_occurrences: 0 and genre_signals.structure states explicitly 'ટેક નથી' — confirmed again against 00_chapter_normalized.md, which carries no [[ટેક]] marker at all. urmikavya_geet.md's ટેક-handling checks (Agent 4) therefore have nothing to apply to: there is no returning refrain, changed or identical, anywhere in this poem.",
+    "depends_on is [] for all six topics, and this is the normal, correct value here, not an oversight: this is a cumulative LIST poem (each કડી names a fresh, independent gift or wish) rather than a refrain poem or a story with turns. No કડી's words are a changed-return of an earlier printed line (ruling out the ટેક-style dependency), and no કડી sets up a વળાંક that a later કડી is structurally built on the way a story's turn would. The poem's genuine thematic progression — small daily need → night-flight of imagination → outward prayer for the world → closing title-echo — is captured in the module/segment grouping itself, which is the right place for it, not in a manufactured depends_on link.",
+    "Module/segment grouping rationale, following 01_meta.json's own genre_signals.structure account: M1 (કડી 1–3) runs from the simplest daily needs (ઊંઘ, ભ્રમણ, ખોરાક, પાણી) into the night's imaginative flight, which in કડી 3 becomes a ride — printed 'થશું સવાર જ્યાં ધૂમકેતુની ઘોડો દેતો હાવળ', where થશું is 'we shall become' and સવાર is the rider (the શબ્દાર્થ box glosses હાવળ as ઘોડાનો હણહણાટ), not the morning — hence M1.S1 (કડી 1 alone, the base-need list) and M1.S2 (કડી 2–3, the night journey that follows from it and climaxes in that ride). M2 (કડી 4–6) turns outward: કડી 4 and 5 both ask something FOR others or FROM a higher presence (જગતકલ્યાણની અરજ; ઘરે-ઘરે શામળ હોવાની ઝંખના) — hence M2.S3 groups them — and કડી 6 stands alone in M2.S4 because it is where the poem turns self-referential and the title 'ભુલભુલામણી' itself is finally named inside a line, which is a distinct closing move from the asking that came before it.",
+    "Difficulty is relative inside this chapter and is set by what stops an A2+ std-8 reader on THIS page — but the usual std-8 pattern-work signal (પ્રાસ, refrain shape) does not differentiate here, because the ળ end-rhyme is uniformly carried by every single કડી (વાદળ–ઝાકળ, પાછળ–આગળ, સાંકળ–હાવળ, બાવળ–કાસળ, કામળ–શામળ, કાજળ–કાગળ) with no ટેક to vary it. Difficulty is therefore set by vocabulary/image density and cultural-allusion load instead, never by naming a craft device: easy = M1.S1.T1 (parallel 'X માટે Y' structure, the chapter's plainest vocabulary, all covered by the printed શબ્દાર્થ box); medium = M1.S2.T2 (તત્સમ-dense નિશા/મધુ/બંકિમ plus the archaic genitive 'તણી'), M2.S3.T4 (અરજ/કાસળ, a direct petition structure) and M2.S3.T5 (the નંદ-યશોદા-શામળ allusion needs outside cultural knowledge the page itself does not supply, even though its individual words — મોરપીંછ, બંસી, લાકડી, કામળ — are simple); hard = M1.S2.T3 (the stretched sound-metaphor 'તમરાં-સૂરની સાંકળ', plus the printed grammatical irregularity 'ધૂમકેતુની ઘોડો' that 01_meta.json's extraction_notes records as kept exactly as printed — a real stop for a learner, not a typo to silently fix) and M2.S4.T6 (the compressed 'સૂર્ય-ચંદ્રની આંખે અંધારાનું કાજળ આંજવું' image, plus the meta-cognitive turn where the poem names itself as the very ભુલભુલામણી it has been building).",
+    "No અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text — std 8 experiences the form and never names it (profiles/students/std-8.md: 'Name it after you've met it'; teaching_lens_map.md's craft-naming gate). Every objective asks the child to notice and connect lines, never to label a device.",
+    "Every objective is grounded in phrases actually printed in this chapter and could belong to no other chapter: ધરુવાડિયાં/વાદળ/તડકા/ઝાકળ (O1); આગિયા/ચાંદની હોડી (O2); પતંગ-પાંખ/ધૂમકેતુ (O3); પારિજાત/ગુલાબ/આવળ-બાવળ/કાસળ (O4); મોરપીંછ/બંસી/નંદ-યશોદા-શામળ (O5); સૂર્ય-ચંદ્ર/કાજળ/ભુલભુલામણી (O6). No number appears in any display text; quoted printed lines are used in place of ordinal 'કડી 2'-style references.",
+    "No CONCEPT or REVIEW topic exists on this page. The [[પ્રવેશપેટી]] is purely thematic (01_meta.json's extraction_notes already judged it names no સ્વરૂપ) but it is still the std 6–8 convention's teacher-addressed intro box — not a std-10-style unlabelled કવિ-પરિચય/કૃતિ-પરિચય paragraph printed for the student — so it is apparatus, as ch01's own પ્રવેશપેટી was treated in output8/ch01/02_structure.json. The [[શબ્દાર્થ]] box is likewise apparatus. There is no in-text wrap. exercise_inventory in 01_meta.json is empty: this પૂરક વાચન unit carries no સ્વાધ્યાય at all, which urmikavya_geet.md records as the expected state for પૂરકવાચન poems ('પૂરકવાચન poems have no સ્વાધ્યાય at all, and their absence is recorded, not filled in').",
+    "One concept per topic throughout. No કડી here does two separable things — each is one picture/one ask that closes on its own line, so a second concept would have meant a wrong cut.",
+    "No page render was opened. 00_chapter_normalized.md (carrying Agent 1's own extraction_notes resolving the ધ/ઘ, ળ/ણ and અનુસ્વાર ambiguities, plus the kept-as-printed ની/નો irregularity) answered every question needed for this cut; no layout question remained that required _renders/page-1.png."
+  ]
+}

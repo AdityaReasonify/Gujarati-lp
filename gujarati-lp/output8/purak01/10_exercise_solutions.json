@@ -1,0 +1,16 @@
+{
+  "_comment": "The SECOND deliverable. Every સ્વાધ્યાય block inventoried in 01_meta.json is answered here and NOWHERE else. This unit is a પૂરક વાચન (supplementary reading) piece, presented as chapter 16 of std 8 (પૂરક lesson 1 continuing the numbering after the book's fifteen numbered chapters), and it prints no સ્વાધ્યાય at all, so there is nothing to answer. exercises[] is [] and every coverage_report list is [] as a measured fact about the rendered page, not a gap.",
+  "plan_id": "gseb_eng_gujarati8_ch16_v1",
+  "chapter_id": "gseb_eng_gujarati8_ch16",
+  "subject": "Gujarati",
+  "grade": 8,
+  "chapter_name": "ભુલભુલામણી",
+  "exercises": [],
+  "coverage_report": {
+    "blocks_found": [],
+    "blocks_answered": [],
+    "unanswered": [],
+    "unmapped": [],
+    "_note": "01_meta.json exercise_inventory is [] (zero entries), so blocks_found has zero entries and equals the inventory length. Checked three ways. (1) 01_meta.json records the empty inventory as a measured fact in its extraction_notes. (2) 00_chapter_normalized.md carries only the title, the author line, the [[પ્રવેશપેટી]] box, six [[કડી n]] markers and the [[શબ્દાર્થ]] box, with no [[સ્વાધ્યાય: ...]] marker. (3) The single supplied render (_renders/page-1.png, printed page 138) was viewed directly and shows the pink title bar with the number box, the author line, the blue intro box, six two-line કડી set beside the illustration, and the yellow શબ્દાર્થ box at the foot of the page. There is no વાતચીત block, no numbered question block, no અનુવાદ block and no ચર્ચા-વિચારણા box on it. The blue intro box and the શબ્દાર્થ box are printed apparatus and are excluded from exercises[] by agents/10_exercise_solutions.md and global_content_rules.md rule 7, so nothing is answered from them. Nothing is invented: the standing rule for પૂરક poems is that their absence of exercises is recorded, not filled in. The covered_by_topics mapping is vacuous because there are no exercise items to carry ids. unmapped is empty because it lists exercise items that map to no scene, and there are none; the six reading scenes of this unit are not affected."
+  }
+}

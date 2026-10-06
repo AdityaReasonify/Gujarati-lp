@@ -1,0 +1,523 @@
+{
+  "agent": "05_verbatim_attachment",
+  "chapter_id": "gseb_eng_gujarati7_ch18",
+  "plan_id": "gseb_eng_gujarati7_ch18_v1",
+  "grade": 7,
+  "chapter_name": "રામરાજ્યનાં મોતી",
+  "genre": "varta",
+  "genre_subform": "પૌરાણિક કથા (દૃષ્ટાંતકથા)",
+  "active_genre_profiles": [
+    "varta.md"
+  ],
+  "teaching_lens": "ઘટના + પાત્ર + વળાંક",
+  "guiding_question": "સાચું રામરાજ્ય એટલે શું, અને આ રાજાનું રાજ્ય એના જેવું કેમ નથી — એ કાગડો કેવી રીતે સાબિત કરે છે ?",
+  "explanation_unit": "એક ઘટના",
+  "unit_type_note": "પૂરક વાચન (purak03, printed internal sequence '3.'), re-keyed to chapter_id/unit_number/topic_number 18 per RUN CONTEXT — પૂરક units continue std-7's numbering after the book's 15 numbered teaching chapters (P1→ch16, P2→ch17, this P3→ch18, P4→ch19); chapter_master_id stays null. Restated briefly from 01_meta.json's own extraction_notes.",
+  "cut_summary": {
+    "reading_markers_in_normalized": [
+      "[[ઘટના: કલાકારનું સ્તુતિગીત અને કાગડાનો પડકાર]]",
+      "[[ઘટના: ચાર ઉત્તમ પુરુષોની શોધયાત્રા અને મોતીપ્રાપ્તિ]]",
+      "[[ઘટના: દરબારમાં મોતીની ચોરીની સાંકળ]]",
+      "[[ઘટના: રાણીની શંકા અને સત્યનો પર્દાફાશ]]",
+      "[[ઘટના: કાગડાએ કહેલી સીતા-રામરાજ્યની કથા]]",
+      "[[ઘટના: અંતિમ ચોટ — મોતી અને થાળ અદૃશ્ય]]"
+    ],
+    "reading_markers_count": 6,
+    "topics": 6,
+    "segments": 5,
+    "modules": 3,
+    "concepts": 6,
+    "objectives": 6,
+    "ghatna": 6,
+    "embedded_katha": 1,
+    "kadi": 0,
+    "duha": 0,
+    "pad": 0,
+    "tek_occurrences": 0,
+    "marker_to_topic_mapping": "Clean 1:1 — each of Agent 1's six [[ઘટના: …]] markers heads exactly one topic in printed order (T1…T6), matching 01_meta.json's structure_inventory.ghatna=6 exactly. No marker is swallowed and no topic is invented where no marker sits. One deliberate non-split is flagged here for Agent 4's review: marker 3's own Gujarati name ends '…ની સાંકળ' (the CHAIN of theft) — Agent 1 itself named the king's unquestioning order, the brother's extortion of 4, the minister's skim of 2 and the queen's seizure of 8 as ONE scene, not four. profiles/genres/varta.md's own line — 'Repetition with escalation is a chain of beats, not one beat: in std-7 P3 each of the four \"ઉત્તમ પુરુષો\" who pockets a મોતી is a beat of the same test' — was read and weighed against this. That line is read here as describing the FOUR ORIGINAL messengers (ઉત્તમ પુરુષો) of marker 2, who pocket their pearl in one shared, undramatized sentence ('ચારે જણાએ અંદરોઅંદર ઈશારે વાત કરી લઈ એકેક મોતી ઉપાડી … છુપાવી દીધું') with no printed paragraph boundary inside it to split on — not the palace actors (પ્રધાન/ભાઈ/રાણી) of marker 3, who are named SEPARATELY and by name when the crow lists the culprits at the climax ('આ તમારા પ્રધાન ! આ તમારા ભાઈ ! આ તમારાં રાણી !'), precisely because they are different people playing different roles, not four repetitions of one role. Both markers 2 and 3 are therefore kept as single topics; Agent 4 should re-check this reading against the rendered page if in doubt."
+  },
+  "objectives": [
+    {
+      "objective_id": "O1",
+      "legacy_id": "L1",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કલાકારના વખાણના ગીત પછી કાગડો કેમ ચરકીને રાજાને કહે છે કે આ રામરાજ્ય નથી, અને એ સાબિત કરવા રાજાના દરબારમાંથી કેવા ચાર પુરુષો માગે છે તે શોધવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M1.S1.T1",
+      "anchor": [
+        "M1.S1.T1.C1"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O2",
+      "legacy_id": "L2",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ચાર ઉત્તમ પુરુષો વડના ઝાડ નીચેથી અઢાર મોતીવાળો થાળ શોધ્યા પછી રાજાની કચેરીમાં લઈ જતાં પહેલાં પોતે શું છુપાવે છે તે કહેવું.",
+      "bloom_level": "Remember",
+      "home_topic_id": "M2.S2.T2",
+      "anchor": [
+        "M2.S2.T2.C2"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O3",
+      "legacy_id": "L3",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "રાજા થાળ વિશે કંઈ પણ પૂછ્યા વિના હુકમ કરે પછી પ્રધાન, રાજાનો ભાઈ અને રાણી વારાફરતી કેટલાં મોતી પોતાની પાસે રાખે છે તે શોધીને સમજાવવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M2.S3.T3",
+      "anchor": [
+        "M2.S3.T3.C3"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O4",
+      "legacy_id": "L4",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "ઝવેરીને હાર માટે અઢાર મોતી ખૂટે છે એમ જાણ થતાં રાણીની શંકાથી શરૂ થયેલી પૂછપરછ પ્રધાન, ભાઈ, રાણી અને ચાર ઉત્તમ પુરુષો સુધી કેવી રીતે પહોંચે છે તે ક્રમમાં કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M2.S3.T4",
+      "anchor": [
+        "M2.S3.T4.C4"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O5",
+      "legacy_id": "L5",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કાગડાએ કહેલી કથામાં સીતાજી નગરશેઠના અઢાર મોતીવાળા થાળનો અસ્વીકાર કેમ કરે છે, અને એ થાળ વરસો સુધી કોઈએ કેમ ન અડક્યું તે શોધીને કહેવું.",
+      "bloom_level": "Understand",
+      "home_topic_id": "M3.S4.T5",
+      "anchor": [
+        "M3.S4.T5.C5"
+      ],
+      "status": "taught",
+      "theme_category": null
+    },
+    {
+      "objective_id": "O6",
+      "legacy_id": "L6",
+      "strand": "L",
+      "strand_name": "ભાષા અને સાહિત્ય",
+      "objective_text": "કાગડો રાજા, પ્રધાન, ભાઈ, રાણી અને ઉત્તમ પુરુષોની ચોરી યાદ કરાવે પછી મોતી-થાળ અદૃશ્ય થાય છે; 'લોભનો સ્પર્શ થયો એટલે એ અદૃશ્ય થઈ ગયાં !' એ કાગડાના વાક્યનો અર્થ કહેવું.",
+      "bloom_level": "Analyze",
+      "home_topic_id": "M3.S5.T6",
+      "anchor": [
+        "M3.S5.T6.C6"
+      ],
+      "status": "taught",
+      "theme_category": null
+    }
+  ],
+  "strand_to_objective_map": {
+    "L1": "O1",
+    "L2": "O2",
+    "L3": "O3",
+    "L4": "O4",
+    "L5": "O5",
+    "L6": "O6"
+  },
+  "modules": [
+    {
+      "module_id": "M1",
+      "module_name": "કાગડાનો પડકાર",
+      "segments": [
+        {
+          "segment_id": "M1.S1",
+          "segment_name": "કલાકારનું ગીત અને કાગડાનો પડકાર",
+          "topics": [
+            {
+              "topic_id": "M1.S1.T1",
+              "topic_name": "કલાકારનું ગીત અને કાગડાનો પડકાર",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "introduction",
+              "difficulty": "medium",
+              "depends_on": [],
+              "objective_ids": [
+                "O1"
+              ],
+              "original_chunk": "હસ્તિનાપુરના રાજા દરબાર ભરીને બેઠા હતા, ત્યાં એક કલાકાર આવ્યો. તેણે રાજાની પ્રશંસાનું ગીત લલકાર્યું.\n\n\"ધન્ય રાજા તને, ધન્ય તુજ બંધુને\nરામલખમણ તણી જોડ જાણે !\nધન્ય દરબાર આ, ધન્ય દરબારીઓ\nઅવધનો રામ દરબાર જાણે !\"\n\nબધા ખુશખુશ થઈ ગયા. કલાકારે આગળ ચલાવ્યું :\n\n\"ધન્ય આ બ્રાહ્મણો, ધન્ય આ ક્ષત્રિયો, ધન્ય પૃથ્વી પટે આવી સૃષ્ટિ !\nધન્ય રાજા, તમારા રાજ્યમાં સૌ સુખી.\nમાગતાં વરસતી મેઘવૃષ્ટિ !\"\n\nબધા 'વાહ વાહ ! વાહ વાહ !' કરવા લાગ્યા.\n\nત્યાં ક્યાંકથી એક કાગડો ઊડી આવ્યો અને કલાકારની પાઘડી પર ચરકીને બોલ્યો : 'જૂઠાને માથે છી !'\n\nકાગડો કહે : \"હે રાજા, તમે નથી રામ, તમારું રાજ્ય નથી રામરાજ્ય, અહીં નથી માગ્યા મેહ વરસતા કે અહીં નથી સૌ સુખી !\"\n\nકલાકારે કહ્યું : \"કાગડો કવિતામાં ન સમજે, પણ રામરાજ્યમાં સમજે છે.\"\n\nરાજાએ કહ્યું : \"શું સમજે છે ?\"\n\nકાગડાએ : \"જીભે કહ્યું એ શા કામનું ? નજરે જ દેખાડું ! આપના દરબારમાંથી ચાર ઉત્તમ પુરુષોને મારી સાથે મોકલો !\"",
+              "markers": [
+                "[[ઘટના: કલાકારનું સ્તુતિગીત અને કાગડાનો પડકાર]]"
+              ],
+              "source_lines_00_normalized": "8-33",
+              "concepts": [
+                {
+                  "concept_id": "M1.S1.T1.C1",
+                  "concept_name": "કલાકારનું ગીત અને કાગડાનો પડકાર",
+                  "objective_id": "O1",
+                  "key_terms": [
+                    "બંધુ — ભાઈ; અહીં રાજાનો ભાઈ.",
+                    "અવધ — અયોધ્યાનગરી; 'અવધનો રામ દરબાર' એટલે અયોધ્યામાં રામનો દરબાર.",
+                    "દરબાર — રાજાની સભા, જ્યાં રાજા પોતાના દરબારીઓ સાથે બેસે છે.",
+                    "લલકાર્યું — ઊંચા સૂરે, લહેકાથી ગાયું.",
+                    "મેઘવૃષ્ટિ — વરસાદ; 'મેઘ' એટલે વાદળ અને 'વૃષ્ટિ' એટલે વરસવું.",
+                    "તણી, તુજ — જૂનાં કાવ્ય-રૂપ: 'તણી' એટલે 'ની' અને 'તુજ' એટલે 'તારા'; ગીતના લય માટે વપરાયાં છે, ભૂલ નથી."
+                  ],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "હસ્તિનાપુરના રાજા દરબાર (રાજાની સભા) ભરીને બેઠા છે ત્યાં એક કલાકાર આવે છે અને ગીત લલકારીને (ઊંચા સૂરે ગાઈને) રાજાને અને તેમના બંધુ (ભાઈ)ને રામ-લક્ષ્મણની જોડ જેવા કહીને વખાણે છે. બધા ખુશ થઈને 'વાહ વાહ' કરે છે. ત્યાં જ એક કાગડો ઊડી આવીને કલાકારની પાઘડી પર ચરકે છે અને રાજાને કહે છે કે તમે રામ નથી અને આ રાજ્ય રામરાજ્ય નથી. કાગડો કહે છે કે જીભે કહેલું શા કામનું, એ નજરે દેખાડશે; એટલે રાજા પોતાના દરબારમાંથી ચાર ઉત્તમ પુરુષોને એની સાથે મોકલે.",
+              "word_count": {
+                "original": 154
+              },
+              "key_terms": [
+                "બંધુ — ભાઈ; અહીં રાજાનો ભાઈ.",
+                "અવધ — અયોધ્યાનગરી; 'અવધનો રામ દરબાર' એટલે અયોધ્યામાં રામનો દરબાર.",
+                "દરબાર — રાજાની સભા, જ્યાં રાજા પોતાના દરબારીઓ સાથે બેસે છે.",
+                "લલકાર્યું — ઊંચા સૂરે, લહેકાથી ગાયું.",
+                "મેઘવૃષ્ટિ — વરસાદ; 'મેઘ' એટલે વાદળ અને 'વૃષ્ટિ' એટલે વરસવું.",
+                "તણી, તુજ — જૂનાં કાવ્ય-રૂપ: 'તણી' એટલે 'ની' અને 'તુજ' એટલે 'તારા'; ગીતના લય માટે વપરાયાં છે, ભૂલ નથી."
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M2",
+      "module_name": "મોતીની શોધ અને દરબારની ચોરીની સાંકળ",
+      "segments": [
+        {
+          "segment_id": "M2.S2",
+          "segment_name": "ચાર ઉત્તમ પુરુષોની શોધયાત્રા અને મોતીની ચોરી",
+          "topics": [
+            {
+              "topic_id": "M2.S2.T2",
+              "topic_name": "ચાર ઉત્તમ પુરુષોની શોધયાત્રા અને મોતીની ચોરી",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "easy",
+              "depends_on": [
+                "M1.S1.T1"
+              ],
+              "objective_ids": [
+                "O2"
+              ],
+              "original_chunk": "રાજાએ રાજ પુરોહિત, સેનાપતિ, નગરશેઠ અને રાજસેવક એમ ચાર જણને પસંદ કરીને તેમને કાગડાની સાથે જવા કહ્યું, ચારે જણા ઘોડેસવાર થઈ કાગડાની પાછળ ચાલ્યા. કેટલાક દિવસની મજલ પછી તેઓ સરયૂ નદીના કિનારે અયોધ્યાનગરી પાસે આવ્યા. ત્યાં એક નિર્જન ટેકરી પર વિશાળ વડનું ઝાડ હતું. કાગડાએ ત્યાં એક સ્થળ દેખાડી કહ્યું : \"હે સજ્જનો, અહીં ખોદો !\"\n\nખોદતાં ખોદતાં જમીનમાં ઘંટ દેખાયો. ચારે જણે જોર કરી ઘંટ ઉપાડ્યો તો એની નીચે સોનાનો થાળ અને થાળમાં બોર બોર જેવડાં મોતી ! ગણ્યાં તો પૂરાં અઢાર ! કાગડો કહે : \"ઉપાડો થાળ ! આપણે એ રાજાની કચેરીમાં રજૂ કરવાનો છે.\"\n\nચારે જણાએ અંદરોઅદર ઈશારે વાત કરી લઈ એકેક મોતી ઉપાડી પોતાના પહેરવેશમાં છુપાવી દીધું. પછી થાળ લઈને એ કાગડાની પાછળ ચાલ્યા.",
+              "markers": [
+                "[[ઘટના: ચાર ઉત્તમ પુરુષોની શોધયાત્રા અને મોતીપ્રાપ્તિ]]"
+              ],
+              "source_lines_00_normalized": "34-40",
+              "concepts": [
+                {
+                  "concept_id": "M2.S2.T2.C2",
+                  "concept_name": "ચાર ઉત્તમ પુરુષોની શોધયાત્રા અને મોતીની ચોરી",
+                  "objective_id": "O2",
+                  "key_terms": [
+                    "પુરોહિત — રાજા અને રાજ્યનાં ધાર્મિક કામ, પૂજા-વિધિ કરાવનાર બ્રાહ્મણ.",
+                    "નગરશેઠ — શહેરનો સૌથી માનીતો અને મોટો વેપારી.",
+                    "મજલ — એક દિવસની મુસાફરી જેટલું અંતર; અહીં કેટલાક દિવસની લાંબી મુસાફરી.",
+                    "નિર્જન — જ્યાં માણસો ન હોય તેવું; ઉજ્જડ, સૂમસામ.",
+                    "અંદરોઅદર — અંદરોઅંદર, એટલે પોતાની વચ્ચે, બીજા જાણે નહિ એમ.",
+                    "કચેરી — રાજાની સભા કે દરબાર, જ્યાં રાજા રાજનું કામ કરે છે."
+                  ],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "રાજા પુરોહિત (પૂજા-વિધિ કરાવનાર બ્રાહ્મણ), સેનાપતિ, નગરશેઠ (શહેરના મોટા વેપારી) અને રાજસેવક એમ ચાર જણને પસંદ કરીને કાગડાની સાથે મોકલે છે. કેટલાક દિવસની મજલ (મુસાફરી) પછી તેઓ સરયૂ નદીના કિનારે અયોધ્યા પાસેની નિર્જન (જ્યાં માણસો ન હોય એવી) ટેકરી પરના વડ પાસે પહોંચે છે, અને કાગડાના કહેવાથી ખોદતાં ઘંટ નીચે સોનાના થાળમાં અઢાર મોતી મળે છે. ચારે જણ અંદરોઅંદર ઈશારે વાત કરીને દરેક એક એક મોતી પોતાના કપડામાં છુપાવી દે છે, અને પછી થાળ લઈને કાગડાની પાછળ ચાલે છે.",
+              "word_count": {
+                "original": 118
+              },
+              "key_terms": [
+                "પુરોહિત — રાજા અને રાજ્યનાં ધાર્મિક કામ, પૂજા-વિધિ કરાવનાર બ્રાહ્મણ.",
+                "નગરશેઠ — શહેરનો સૌથી માનીતો અને મોટો વેપારી.",
+                "મજલ — એક દિવસની મુસાફરી જેટલું અંતર; અહીં કેટલાક દિવસની લાંબી મુસાફરી.",
+                "નિર્જન — જ્યાં માણસો ન હોય તેવું; ઉજ્જડ, સૂમસામ.",
+                "અંદરોઅદર — અંદરોઅંદર, એટલે પોતાની વચ્ચે, બીજા જાણે નહિ એમ.",
+                "કચેરી — રાજાની સભા કે દરબાર, જ્યાં રાજા રાજનું કામ કરે છે."
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M2.S3",
+          "segment_name": "દરબારમાં ચોરીની સાંકળ અને સત્યનો પર્દાફાશ",
+          "topics": [
+            {
+              "topic_id": "M2.S3.T3",
+              "topic_name": "દરબારમાં મોતીની ચોરીની સાંકળ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "core",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S2.T2"
+              ],
+              "objective_ids": [
+                "O3"
+              ],
+              "original_chunk": "હસ્તિનાપુરમાં રાજા દરબાર ભરીને બેઠા હતા, ત્યાં આ ચાર જણાએ મોતીવાળો સોનાનો થાળ તેની સામે ધર્યો. જોઈને રાજાની આંખો ચમકી, થાળ કોનો છે, ક્યાંથી આવ્યો, શા માટે છે ?\n\nએવું કંઈ પણ પૂછ્યા વગર રાજાએ થાળ જોઈ સીધો હુકમ કર્યો : \"પ્રધાનજી, મોતીનો આ થાળ મારી ખાનગી તિજોરીમાં મૂકી દો !\"\n\nપ્રધાન થાળ લઈને ચાલ્યો, ત્યાં રાજાનો ભાઈ દરબારમાંથી ઊઠી તેની સામે આવ્યો ને બોલ્યો : \"ચાર મોતી મને દઈ દો ! નહિતર આ તલવાર છે અને તમારું માથું છે.\"\n\nપ્રધાને તરત ચાર મોતી એને દઈ દીધાં. સાથે સાથે બે મોતી પોતાના ખિસ્સામાં સેરવી દીધાં.\n\nએટલામાં રાણીની નજર આ મોતી પર પડી. તેણે હુકમ કર્યો : \"થાળ સમેત મોતી મને આપો!\"\n\nપ્રધાને બાકીનાં આઠે મોતી સાથેનો થાળ રાણીને દઈ દીધો. પછી એ કચેરીમાં જઈને બેઠો.\n\nરાણીને મોતી એવાં ગમી ગયાં કે તેણે તે જ ઘડીએ ઝવેરીને બોલાવી તેનો હાર બનાવી આપવા કહ્યું. ઝવેરીએ કહ્યું : \"હાર માટે પૂરાં અઢાર મોતી જોઈએ.\"",
+              "markers": [
+                "[[ઘટના: દરબારમાં મોતીની ચોરીની સાંકળ]]"
+              ],
+              "source_lines_00_normalized": "41-55",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T3.C3",
+                  "concept_name": "દરબારમાં મોતીની ચોરીની સાંકળ",
+                  "objective_id": "O3",
+                  "key_terms": [
+                    "હુકમ — આદેશ; મોટા માણસનું 'આમ કરો' એવું કહેવું.",
+                    "ખાનગી — બીજાને ન બતાવવાનું, પોતાનું અલગ.",
+                    "તિજોરી — કીમતી વસ્તુઓ તાળામાં સાચવવાની મજબૂત પેટી કે ઓરડો.",
+                    "સેરવી દીધાં — ચૂપચાપ સરકાવી દીધાં; બીજા ન જુએ એમ મૂકી દીધાં.",
+                    "સમેત — સહિત, સાથે.",
+                    "ઝવેરી — મોતી-દાગીનાનો વેપારી."
+                  ],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "રાજાની સામે ચાર જણ મોતીવાળો થાળ ધરે છે, અને રાજા કંઈ પણ પૂછ્યા વગર હુકમ (આદેશ) કરે છે કે આ થાળ મારી ખાનગી તિજોરીમાં (પોતાની કીમતી વસ્તુઓ રાખવાની જગ્યામાં) મૂકી દો. પ્રધાન થાળ લઈને ચાલે છે ત્યારે રાજાનો ભાઈ તલવારની ધમકી આપીને ચાર મોતી લઈ લે છે, અને પ્રધાન સાથે સાથે બે મોતી પોતાના ખિસ્સામાં સેરવી (ચૂપચાપ સરકાવી) દે છે. પછી રાણી થાળ સમેત (સહિત) બાકીનાં આઠ મોતી લઈ લે છે અને ઝવેરીને (મોતી-દાગીનાના વેપારીને) એનો હાર બનાવવા કહે છે, ત્યારે ઝવેરી કહે છે કે હાર માટે પૂરાં અઢાર મોતી જોઈએ.",
+              "word_count": {
+                "original": 151
+              },
+              "key_terms": [
+                "હુકમ — આદેશ; મોટા માણસનું 'આમ કરો' એવું કહેવું.",
+                "ખાનગી — બીજાને ન બતાવવાનું, પોતાનું અલગ.",
+                "તિજોરી — કીમતી વસ્તુઓ તાળામાં સાચવવાની મજબૂત પેટી કે ઓરડો.",
+                "સેરવી દીધાં — ચૂપચાપ સરકાવી દીધાં; બીજા ન જુએ એમ મૂકી દીધાં.",
+                "સમેત — સહિત, સાથે.",
+                "ઝવેરી — મોતી-દાગીનાનો વેપારી."
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            },
+            {
+              "topic_id": "M2.S3.T4",
+              "topic_name": "રાણીની શંકા અને સત્યનો પર્દાફાશ",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "climax",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S3.T3"
+              ],
+              "objective_ids": [
+                "O4"
+              ],
+              "original_chunk": "રાણીએ તે જ ઘડીએ કચેરીમાં આવી રાજાને કહ્યું : \"જ્યાંથી આ આઠ મોતી આવ્યાં હોય ત્યાંથી બીજાં દસ મંગાવી આપો, મારે એનો હાર બનાવવો છે.\"\n\nરાજાએ નવાઈ પામી કહ્યું : \"મોતી આઠ કેમ ? થાળમાં ચૌદ મોતી હતાં.\"\n\nરાણીએ કહ્યું : \"આઠ જ હતાં !\"\n\nત્યારે રાજાએ પ્રધાનને પૂછ્યું : \"બીજાં છ મોતી ક્યાં ગયાં ?\"\n\nપ્રધાને પોતાના માથેથી ગાળિયો ઉતારતાં કહ્યું : આપના ભાઈએ મારી સામે આવીને તલવાર તાણી-\n\nરાજાના ભાઈએ જોયું કે મારા માથે છ મોતીનો આરોપ આવે છે, એટલે એ બોલી ઊઠ્યો : \"મેં માત્ર ચાર મોતી લીધાં છે ! આ રહ્યાં !\"\n\nહવે રાજાએ પ્રધાન સામે જોઈ કરડી આંખ કરી કહ્યું : \"ચાર કે છ ?\"\n\nતરત પ્રધાને પોતાની પાસેથી બે મોતી કાઢી દઈ કહ્યું : ચાર અને આ બે!\n\nરાણી કહે : \"હવે માત્ર ચાર ખૂટે!\"\n\nકાગડો કહે : \"એ પણ મળી રહેશે !\"\n\nરાજાએ કહ્યું : \"કેમ કરી મળી રહેશે ? થાળમાં પહેલેથી જ ચૌદ મોતી હતાં. મેં બરાબર ગણ્યાં હતાં.\"\n\nકાગડાએ કહ્યું : \"પણ આપના પહેલાં આપના ચાર ઉત્તમ પુરુષોએ એ ગણ્યાં હતાં - એ અઢાર હતાં !\"\n\nહવે એ ઉત્તમ પુરુષોને જોયા હોય તો કાપો તો લોહી ના નીકળે !\n\nરાજાએ કરડી આંખે એમની સામે જોયું. ચારે જણે બીતાં બીતાં પોતાનાં કપડાંમા સંતાડેલું એક એક મોતી કાઢીને રાજાને દઈ દીધું.\n\nરાણી કહે : \"વાહ, અઢાર મોતી થઈ ગયાં ! મારો હાર સરસ થશે !\"\n\nકાગડાએ કહ્યું : \"મહારાજ, જોયું ? આ તમારા ઉત્તમ પુરુષો ! આ તમારા પ્રધાન ! આ તમારા ભાઈ ! આ તમારાં રાણી અને આ તમે પોતે !\"\n\nરાજાએ કહ્યું : \"આ હું પોતે એટલે ? કેમ, હું કેવો છું ?\"",
+              "markers": [
+                "[[ઘટના: રાણીની શંકા અને સત્યનો પર્દાફાશ]]"
+              ],
+              "source_lines_00_normalized": "56-92",
+              "concepts": [
+                {
+                  "concept_id": "M2.S3.T4.C4",
+                  "concept_name": "રાણીની શંકા અને સત્યનો પર્દાફાશ",
+                  "objective_id": "O4",
+                  "key_terms": [
+                    "નવાઈ — આશ્ચર્ય; કંઈક અજુગતું લાગવું.",
+                    "આરોપ — કોઈના પર 'તમે આ ખોટું કર્યું' એવો દોષ મૂકવો.",
+                    "તાણી — ખેંચીને બહાર કાઢી; 'તલવાર તાણવી' એટલે તલવાર ખેંચીને ધમકી આપવી.",
+                    "ખૂટે — ઓછાં પડે, ઘટે.",
+                    "કરડી આંખ — ગુસ્સો દર્શાવતી આંખ; ગુસ્સાભરી નજર.",
+                    "ગાળિયો — ગાંઠવાળું ગોળાકાર દોરડું (પુસ્તકના શબ્દાર્થમાં આપ્યા મુજબ)."
+                  ],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "રાણી કચેરીમાં આવીને કહે છે કે આ આઠ મોતી જ્યાંથી આવ્યાં ત્યાંથી બીજાં દસ મંગાવી આપો, ત્યારે રાજા નવાઈ પામે છે (નવાઈ લાગે છે), કેમ કે એમણે થાળમાં ચૌદ મોતી ગણ્યાં હતાં. રાજા પૂછે છે કે બીજાં છ મોતી ક્યાં ગયાં, એટલે પ્રધાન કહે છે કે રાજાના ભાઈએ તલવાર તાણી (ખેંચી) હતી; ભાઈ ચાર મોતી આપી દે છે, અને રાજાની કરડી આંખ (ગુસ્સાભરી નજર) જોઈને પ્રધાન પોતાની પાસેથી બે મોતી પણ કાઢી આપે છે. રાણી કહે છે કે હવે ચાર જ ખૂટે (ઓછાં પડે) છે, ત્યારે કાગડો કહે છે કે એ પણ મળી રહેશે, કેમ કે રાજા ગણે એ પહેલાં ચાર ઉત્તમ પુરુષોએ થાળમાં અઢાર મોતી ગણ્યાં હતાં. ચારે જણ બીતાં બીતાં પોતાનાં સંતાડેલાં મોતી રાજાને આપી દે છે, અને કાગડો રાજાને કહે છે કે આ તમારા ઉત્તમ પુરુષો, આ પ્રધાન, આ ભાઈ, આ રાણી અને આ તમે પોતે.",
+              "word_count": {
+                "original": 262
+              },
+              "key_terms": [
+                "નવાઈ — આશ્ચર્ય; કંઈક અજુગતું લાગવું.",
+                "આરોપ — કોઈના પર 'તમે આ ખોટું કર્યું' એવો દોષ મૂકવો.",
+                "તાણી — ખેંચીને બહાર કાઢી; 'તલવાર તાણવી' એટલે તલવાર ખેંચીને ધમકી આપવી.",
+                "ખૂટે — ઓછાં પડે, ઘટે.",
+                "કરડી આંખ — ગુસ્સો દર્શાવતી આંખ; ગુસ્સાભરી નજર.",
+                "ગાળિયો — ગાંઠવાળું ગોળાકાર દોરડું (પુસ્તકના શબ્દાર્થમાં આપ્યા મુજબ)."
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": "M3",
+      "module_name": "સાચા રામરાજ્યનો પુરાવો અને લોભનો અંત",
+      "segments": [
+        {
+          "segment_id": "M3.S4",
+          "segment_name": "કાગડાએ કહેલી સીતા-રામરાજ્યની કથા",
+          "topics": [
+            {
+              "topic_id": "M3.S4.T5",
+              "topic_name": "કાગડાએ કહેલી સીતા-રામરાજ્યની કથા",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "transition",
+              "difficulty": "hard",
+              "depends_on": [
+                "M2.S3.T4"
+              ],
+              "objective_ids": [
+                "O5"
+              ],
+              "original_chunk": "કાગડાએ કહ્યું : \"એ જાણવા માટે આ મોતીની વાત મારે તમને કહેવી પડશે. તો સાંભળો !\"\n\"અયોધ્યામાં રાજા રામ રાજ્ય કરતા હતા તે વખતની વાત છે. એકવાર ગામના નગરશેઠની પુત્રવધૂએ કંઈક વ્રત કર્યું. વ્રતના ઉપવાસનાં પારણાં કરતી વખતે તેણે હઠ કરી કે સીતામાતાજી પોતાના હાથે મને જમાડે તો જ હું જમું ! નગરશેઠે સીતાજીને વિનંતી કરી કે મારી પુત્રવધૂ આવી ગાંડી હઠ લઈને બેઠી છે, શું કરું ? આ સાંભળતાં જ સીતામાતાજી બોલ્યાં : 'દીકરી માની પાસે લાડ નહીં માંગે તો કોની પાસે માગશે ? ચાલો હું આવું છું.' કહી તરત એ ઊભાં થયાં. નગરશેઠને ઘેર જઈ એમણે શેઠની પુત્રવધૂને ખોળામાં લઈ કોળિયા કરી કરીને એને ખવડાવ્યું. પછી એ પાછાં ફરતાં હતાં ત્યાં નગરશેઠ સોનાના થાળમાં અઢાર મોતી લઈને તેમને અર્પણ કરવા આવ્યો. પણ સીતાજી કહે : 'દીકરીના ઘરનું મારાથી કાંઈ લેવાય નહીં !' 'આમ કહી એ રથમાં બેસી ચાલ્યાં ગયાં. નગરશેઠ હાથમાં થાળ લઈને માતાજી ! માતાજી ! કરતો એમની પાછળ ગયો, પણ માતાજીના ઘરનાં બારણાં બંધ હતાં, એટલે મોતીવાળો થાળ ઘરઆગળ ચોકમાં મૂકી એ પાછો ફરી ગયો. એ પછી કંઈક કેટલાયે માણસો ત્યાં થઈને પસાર થયા પણ કોઈ એ થાળને અડક્યું સુધ્ધાં નહીં.\"\n\nરાત્રે પ્રતિહારી આંગણામાં આંટા મારતો હતો. ત્યાં એને આ થાળ વચમાં નડ્યો, એટલે એણે એક મોટો ઘંટ લાવી એનાથી થાળને ઢાંકી દીધો. બસ, તે દિવસથી એ મોતીનો થાળ ઘંટની નીચે દટાયેલો જ રહ્યો. ના કોઈએ ઘંટ ઊંચો કરીને જોયું કે નીચે શું છે કે ના કોઈએ એની પૃચ્છા કરી ' વર્ષો વીત્યાં, યુગો વીત્યા, પટ્ટણનું દટ્ટણ થઈ ગયું ! એ જગ્યાએ આજે એક વિશાળ વડનું ઝાડ ઊભું છે.",
+              "markers": [
+                "[[ઘટના: કાગડાએ કહેલી સીતા-રામરાજ્યની કથા]]"
+              ],
+              "source_lines_00_normalized": "93-97",
+              "concepts": [
+                {
+                  "concept_id": "M3.S4.T5.C5",
+                  "concept_name": "કાગડાએ કહેલી સીતા-રામરાજ્યની કથા",
+                  "objective_id": "O5",
+                  "key_terms": [
+                    "પુત્રવધૂ — દીકરાની પત્ની, વહુ.",
+                    "વ્રત — કોઈ ખાસ હેતુથી ઉપવાસ-પૂજા જેવો નિયમ પાળવાનો સંકલ્પ.",
+                    "પારણાં — ઉપવાસ છોડીને પહેલું ભોજન લેવું.",
+                    "હઠ — જીદ, ખોટો આગ્રહ.",
+                    "અર્પણ — માનથી ભેટ તરીકે આપવું.",
+                    "પ્રતિહારી — ચોકી પહેરો કરનાર, દરવાન."
+                  ],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "રાજાના સવાલ પછી કાગડો જૂની કથા કહે છે : રામના રાજ્યમાં નગરશેઠની પુત્રવધૂ (દીકરાની પત્ની) વ્રતનાં પારણાં (ઉપવાસ છોડવા) વખતે હઠ (જીદ) કરે છે કે સીતામાતા પોતાના હાથે મને જમાડે, અને સીતાજી એને ખોળામાં લઈને કોળિયા કરી કરીને ખવડાવે છે. પાછા ફરતાં નગરશેઠ અઢાર મોતીવાળો સોનાનો થાળ અર્પણ (ભેટ) કરવા આવે છે, પણ સીતાજી 'દીકરીના ઘરનું મારાથી કાંઈ લેવાય નહીં !' કહીને રથમાં ચાલ્યાં જાય છે, અને નગરશેઠ થાળ ઘર આગળ ચોકમાં મૂકીને પાછો ફરે છે. ઘણા માણસો ત્યાંથી પસાર થાય છે પણ કોઈ થાળને અડકતું નથી, રાત્રે પ્રતિહારી (દરવાન) થાળ નડતાં એના પર મોટો ઘંટ ઢાંકી દે છે, અને પછી કોઈ ઘંટ ઊંચો કરીને જોતું નથી કે એની પૃચ્છા (પૂછપરછ) કરતું નથી; વર્ષો-યુગો વીતતાં પટ્ટણનું દટ્ટણ થઈ જાય છે (નગર ખંડેર થઈ જાય છે) અને એ જગ્યાએ આજે વિશાળ વડનું ઝાડ ઊભું છે.",
+              "word_count": {
+                "original": 253
+              },
+              "key_terms": [
+                "પુત્રવધૂ — દીકરાની પત્ની, વહુ.",
+                "વ્રત — કોઈ ખાસ હેતુથી ઉપવાસ-પૂજા જેવો નિયમ પાળવાનો સંકલ્પ.",
+                "પારણાં — ઉપવાસ છોડીને પહેલું ભોજન લેવું.",
+                "હઠ — જીદ, ખોટો આગ્રહ.",
+                "અર્પણ — માનથી ભેટ તરીકે આપવું.",
+                "પ્રતિહારી — ચોકી પહેરો કરનાર, દરવાન."
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "segment_id": "M3.S5",
+          "segment_name": "કાગડાની ઓળખ અને મોતી-થાળનું અદૃશ્ય થવું",
+          "topics": [
+            {
+              "topic_id": "M3.S5.T6",
+              "topic_name": "કાગડાની ઓળખ અને મોતી-થાળનું અદૃશ્ય થવું",
+              "topic_type": "STORY_TELLING",
+              "topic_category": "resolution",
+              "difficulty": "medium",
+              "depends_on": [
+                "M2.S3.T4",
+                "M3.S4.T5"
+              ],
+              "objective_ids": [
+                "O6"
+              ],
+              "original_chunk": "રાજાએ કહ્યું : \"એ ખરું પણ તું આ ક્યાંથી જાણે ? તું તો માત્ર કાગડો છે !\"\n\nકાગડાએ હસીને કહ્યું, \"મહારાજ, બોલતા માણસે મૂંગાં પશુપંખી પાસેથી પણ ઘણું જાણવા, શીખવાનું છે. કાકભુશુંડીનું નામ તો તમે સાંભળ્યું છે ને ? હું એ મહાયોગી કાકભુશુંડીના વંશનો છું. મારા કુળમાં હજારો વર્ષથી રામ રાજ્યનાં મોતીની આ વાત સૌ જાણે છે.\"\n\n\"દુનિયા આગળ વધી છે કે પાછળ લથડી છે તેમાં અમારો આ ગજ છે. જુઓને, રામના રાજ્યમાં મોતીનો આ થાળ પડ્યો છે, પણ કોઈ એની સામે જોતું નથી ! પ્રતિહારી જેવો સામાન્ય માણસ પણ તેના લોભમાં પડતો નથી અને અહીં તમારા ચાર ઉત્તમ પુરુષો તેમાંથી એક એક મોતી ચોરી લે છે. પ્રધાનજી બે મોતી ચોરે છે તમારા ભાઈ તલવાર તાણી ચાર મોતી લૂંટે છે.\n\nતમારી રાણી આઠ મોતી પડાવે છે ને બીજા દશની રઢ લે છે તમે ? તમે પણ મોતી કોનાં છે ને કેમ છે? એવું કંઈ પૂછ્યા વિના સીધાં જ એ તમારી ખાનગી તિજોરીમાં જમા કરાવી દો છો ! પછી કલાકારની સામે જોઈ તેણે કહ્યું : \"બોલો કવિ, આ રામરાજ્ય છે ? આ રામનો દરબાર છે ?\"\n\nકોઈ કંઈ જ બોલ્યું નહીં. રાજાએ જોયું તો મોતી કે થાળ કશું જ ત્યાં નહોતું. એ બોલી ઊઠ્યો : 'હેં, થાળ ક્યાં ગયો ? મોતી ક્યાં ગયાં ? કાગડો હસી પડ્યો કહે : \"રાજા, એ રામરાજ્યનાં મોતી હતાં. લોભનો સ્પર્શ થયો એટલે એ અદૃશ્ય થઈ ગયાં !\" આટલું કહી કાગડો ઊડી ગયો.",
+              "markers": [
+                "[[ઘટના: અંતિમ ચોટ — મોતી અને થાળ અદૃશ્ય]]"
+              ],
+              "source_lines_00_normalized": "98-108",
+              "concepts": [
+                {
+                  "concept_id": "M3.S5.T6.C6",
+                  "concept_name": "કાગડાની ઓળખ અને મોતી-થાળનું અદૃશ્ય થવું",
+                  "objective_id": "O6",
+                  "key_terms": [
+                    "કાકભુશુંડી — કથામાં આવતા મહાયોગી (મોટા સાધક); 'કાક' એટલે કાગડો, અને કાગડો પોતાને એમના વંશનો કહે છે.",
+                    "વંશ — પેઢી દર પેઢી ચાલતું કુળ; 'એમના વંશનો' એટલે એમના કુળનો.",
+                    "ગજ — કાપડ માપવાની પટ્ટી; (અહીં) માપવાનું પ્રમાણ, એટલે કાગડો આ વાતથી દુનિયાને માપે છે.",
+                    "લોભ — ખૂબ લાલચ; વધારે ને વધારે મેળવવાની ઇચ્છા.",
+                    "રઢ — ધૂન; કંઈક મેળવવાની પાકી ઇચ્છા, જીદ.",
+                    "અદૃશ્ય — નજરે ન દેખાય એવું, દેખાતું બંધ થઈ ગયેલું."
+                  ],
+                  "content": []
+                }
+              ],
+              "modified_chunk": "રાજાના પ્રશ્ન પર કાગડો હસીને કહે છે કે એ મહાયોગી (મોટા સાધક-સંત) કાકભુશુંડીના વંશનો (કુળનો) છે, અને એના કુળમાં રામરાજ્યનાં મોતીની આ વાત હજારો વર્ષથી બધા જાણે છે. એ કહે છે કે રામના રાજ્યમાં પ્રતિહારી જેવો સામાન્ય માણસ પણ થાળના લોભમાં પડતો નથી, જ્યારે અહીં ચાર ઉત્તમ પુરુષો, પ્રધાન, રાજાનો ભાઈ અને રાણી મોતી લઈ લે છે અને રાજા પણ કંઈ પૂછ્યા વિના થાળ પોતાની તિજોરીમાં જમા કરાવી દે છે; પછી એ કલાકારને પૂછે છે કે શું આ રામરાજ્ય છે. કોઈ કંઈ બોલતું નથી, અને રાજા જુએ છે તો મોતી અને થાળ ત્યાં નથી; કાગડો હસીને કહે છે કે એ રામરાજ્યનાં મોતી હતાં, લોભનો સ્પર્શ (અડકવું) થયો એટલે એ અદૃશ્ય (નજરે ન દેખાય એવાં) થઈ ગયાં, અને પછી ઊડી જાય છે.",
+              "word_count": {
+                "original": 227
+              },
+              "key_terms": [
+                "કાકભુશુંડી — કથામાં આવતા મહાયોગી (મોટા સાધક); 'કાક' એટલે કાગડો, અને કાગડો પોતાને એમના વંશનો કહે છે.",
+                "વંશ — પેઢી દર પેઢી ચાલતું કુળ; 'એમના વંશનો' એટલે એમના કુળનો.",
+                "ગજ — કાપડ માપવાની પટ્ટી; (અહીં) માપવાનું પ્રમાણ, એટલે કાગડો આ વાતથી દુનિયાને માપે છે.",
+                "લોભ — ખૂબ લાલચ; વધારે ને વધારે મેળવવાની ઇચ્છા.",
+                "રઢ — ધૂન; કંઈક મેળવવાની પાકી ઇચ્છા, જીદ.",
+                "અદૃશ્ય — નજરે ન દેખાય એવું, દેખાતું બંધ થઈ ગયેલું."
+              ],
+              "primary_content_type": "image",
+              "secondary_content_type": null,
+              "tertiary_content_type": null,
+              "available_content_types": [
+                "image"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "not_cut_as_topics": [
+    "[[પૂરક ક્રમાંક: 3.]] (line 3) — pagination/sequence box; not reading text.",
+    "[[પ્રવેશપેટી]] (line 5) — teacher-addressed intro box ('આ એકમ ભણાવતી વખતે બીજી પૌરાણિક પ્રેરક કથાઓનો સંદર્ભ આપી શકાશે' addresses the TEACHER, not the child); feeds notes/key_terms only. Contrast std-10's unlabelled કવિ/લેખક-પરિચય, which IS printed for the student and becomes a CONCEPT topic there — this box is not that shape.",
+    "[[શબ્દાર્થ]] (line 109) — glossary box, 18 entries; apparatus, feeds key_terms for Agent 10/12, not a topic.",
+    "[[કહેવતો/રૂઢિપ્રયોગ]] (line 127) — idiom/proverb box, 4 entries; apparatus, feeds key_terms/ભાષા-બોધ, not a topic.",
+    "exercise_inventory is [] in 01_meta.json — measured fact for a પૂરક વાચન unit with no numbered સ્વાધ્યાય at all (per 01_meta.json's own extraction_notes), not a gap; nothing excluded here because nothing exists to exclude."
+  ],
+  "notes": [
+    "02_structure.json's own notes array is not copied into this file (it stays in 02_structure.json). Reason: its craft-label-ceiling note spells the word for 'metre' (Gujarati chha followed by the letters da and anusvara) with Devanagari-script letters in place of Gujarati ones, a mixed-script slip in English mechanism prose, not child-facing text. The spec forbids this agent from introducing Devanagari anywhere, and editing another agent's file is not allowed, so it is reported here for Agent 2's owner to fix and is simply not re-emitted.",
+    "Agent 5 attached original_chunk, modified_chunk, word_count, key_terms and the four content-type fields to all six topics. Ids, names, objectives, structure, difficulty, depends_on, markers and source_lines_00_normalized are passed through from 02_structure.json untouched (its sha256 was re-checked against 04_converged.json before use and matches); only concepts[].key_terms, empty in the frozen structure, was filled by mirroring the topic-level list, since every topic carries exactly one concept (same handling as output8/purak01).",
+    "key_terms: six per topic at the std-7 band (4-6), chosen for words the child stops on or will meet again. The printed શબ્દાર્થ box (sixteen entries) was used as evidence of difficulty, not emptied into the field: its entries બંધુ, અવધ, મજલ, નિર્જન, સમેત, ઝવેરી, ગાળિયો, કરડી આંખ, હઠ, પ્રતિહારી, ગજ were used where they fall in a topic, and Ring-2 words the box leaves out (પુરોહિત, નગરશેઠ, કચેરી, હુકમ, ખાનગી, તિજોરી, સેરવી, નવાઈ, આરોપ, તાણી, ખૂટે, પુત્રવધૂ, વ્રત, અર્પણ, વંશ, લોભ, રઢ, અદૃશ્ય, કાકભુશુંડી) were added. The four items of the printed કહેવતો / રૂઢિપ્રયોગ box are not key_terms (they belong to Agent 10 and the ભાષા-બોધ fields); their book-given meanings are used only as inline glosses inside modified_chunk where the phrase occurs (કરડી આંખ, પટ્ટણનું દટ્ટણ).",
+    "Content types: every topic is a reading scene with one image planned (profile varta.md: one image per ઘટના), so primary_content_type is 'image' and available_content_types is ['image'] on all six; secondary and tertiary are null. The printed book carries only two illustrations (court scene on the first page, digging scene on the second); no [[ચિત્ર: ...]] marker exists in the normalized file, so image planning is left entirely to Agent 9.",
+    "modified_chunk is a plain 'what is happening' seed in simple Gujarati with inline glosses. It adds no reading of the story, no craft label and no moral of its own; the only moral-bearing sentence it carries is the crow's own printed line, restated as the crow's words. Digits are not used in display text (counts are written as words)."
+  ],
+  "converged_source": {
+    "file": "02_structure.json",
+    "sha256": "87dc3a9e9810ceeff33c064528501af0697b1d4630919a9dca387f46ff43f881",
+    "verdict": "pass"
+  },
+  "verbatim_notes": [
+    "TRANSCRIPTION CHECK: all four pages (printed 115-118) were read off the supplied PNGs and compared line by line with 00_chapter_normalized.md. Beyond the full-page read, zoomed crops (2x-3x) of the same renders were examined for the words most likely to carry a defect: અંદરોઅદર (page 2), કપડાંમા, પૃચ્છા કરી ' વર્ષો વીત્યાં, યુગો વીત્યા, પટ્ટણનું દટ્ટણ થઈ ગયું and અડક્યું સુધ્ધાં (page 3), and the closing page-4 lines (ચાર ઉત્તમ પુરુષો ... લૂંટે છે, તમારી રાણી ... રામનો દરબાર છે, કોઈ કંઈ જ બોલ્યું નહીં ... ઊડી ગયો). No mismatch of a word, માત્રા, અનુસ્વાર, ળ/લ, શ/ષ/સ or conjunct was found; no passage was unreadable. NO TRANSCRIPTION DEFECT REPORTED. The two earlier self-corrections recorded by Agent 1 (ગાળિયો with ળ, પટ્ટણનું દટ્ટણ with the doubled ટ્ટ) were re-read against the render and stand.",
+    "PRINTED QUIRKS KEPT EXACTLY, not corrected: (a) a stray single quote in place of a full stop after 'એની પૃચ્છા કરી '; (b) an opening single quote before 'આમ કહી એ રથમાં બેસી...' with no close; (c) an opening single quote before 'હેં, થાળ ક્યાં ગયો ?' with no close; (d) the minister's two lines 'આપના ભાઈએ મારી સામે આવીને તલવાર તાણી-' (ends in a hyphen) and 'ચાર અને આ બે!' are printed without any quotation marks; (e) spelling as printed: અંદરોઅદર, કપડાંમા (no અનુસ્વાર), ઘરઆગળ, રામ રાજ્યનાં (written apart in the crow's last speech), વીત્યા beside વીત્યાં, માંગે beside માગશે; (f) spacing before ? and ! as printed, which is not uniform (for example 'આપો!', 'ખૂટે!', 'બે!', 'કેમ છે?' have no space, most others do). The printed page sets a double space before કવિ in 'બોલો  કવિ'; the normalized file keeps one space, which is whitespace only and was copied as in the normalized file.",
+    "QUOTATION-MARK GLYPHS (observation for the pipeline owner, not a word-level defect): the book prints double quotation as a pair of curly single marks (‘‘ ... ’’) and single quotation as ‘ ... ’. 00_chapter_normalized.md for this unit records them as straight ASCII marks, \" for the printed double pair and ' for the printed single mark, and the original_chunk values copy that file as it stands. I checked every position and every single-versus-double distinction against the render and they agree; only the glyph shape differs. This is the same ASCII convention several other std-7 chapters were already run with (ch02, ch07, ch08, ch10, ch12, ch13), whereas ch03, ch04, ch06 and ch11 keep the printed curly glyphs. Left unchanged because the repair belongs to Agent 1, not to this agent; if glyph-exact quotation marks are wanted, re-run Agent 1 for this unit.",
+    "HAND-OVER SENTENCE MOVED BETWEEN CHUNKS (as 02_structure.json's own notes ask of Agent 5): the crow's line 'કાગડાએ કહ્યું : \"એ જાણવા માટે આ મોતીની વાત મારે તમને કહેવી પડશે. તો સાંભળો !\"' (normalized line 91) sits at the foot of marker 4's text block but is the hand-over into the embedded કથા, so per the pre-topic-hook rule and varta.md ('the sentence that hands over to the teller opens the embedded topic') it opens M3.S4.T5's original_chunk and is not at the close of M2.S3.T4's. Effective copied lines are therefore M2.S3.T4 = normalized lines 57-89 and M3.S4.T5 = lines 91 and 94-96. The frozen source_lines_00_normalized strings in the tree still read '56-92' for T4 and '93-97' for T5 and were deliberately not edited; Agent 4/13 should read these two ranges against this note. Every other chunk equals its frozen range with the marker line stripped: T1 = lines 9-32, T2 = 35-39, T3 = 42-54, T6 = 99-107. Taken together the six chunks cover every non-marker, non-blank line from 9 to 107 exactly once and in printed order.",
+    "PROSE STRUCTURE: paragraph breaks are kept as blank lines (printed paragraph = one block, dialogue turns printed on their own lines stay on their own lines), and the bard's two printed stanzas keep their four-line and three-line breaks. The embedded Sita-Rama કથા is one block of printed prose across the page 3/4 boundary and is not reflowed. Printed paragraph 'રાત્રે પ્રતિહારી ... ઊભું છે.' and the following 'રાજાએ કહ્યું : \"એ ખરું ...' sit inside ONE printed paragraph on page 3 (no indent between them); the topic cut at that sentence boundary is Agent 2's marker, and the chunk edge simply follows it.",
+    "ATTRIBUTION / SOURCE LINE: this unit prints no author byline and no source note anywhere (the title box carries only the unit number and title), so there is nothing to attach to the last topic and nothing was dropped. The પ્રવેશપેટી, the શબ્દાર્થ box and the કહેવતો / રૂઢિપ્રયોગ box are apparatus, never part of a topic's original_chunk; there is no સ્વાધ્યાય in this unit.",
+    "ગાળિયો: copied as printed ('પ્રધાને પોતાના માથેથી ગાળિયો ઉતારતાં'); the book's own શબ્દાર્થ box glosses ગાળિયો as 'ગાંઠવાળું ગોળાકાર દોરડું', and key_terms quotes that gloss with its source rather than guessing the object or adding an interpretation. Downstream agents should not build a reading on it beyond what the box says.",
+    "SPELLING IN GLOSSES: અંદરોઅદર is kept as printed in original_chunk; modified_chunk and the key_terms gloss give the current માનક form અંદરોઅંદર, which is the teaching target per shabd_gloss.md (glossing toward the standard form, never rewriting the text)."
+  ]
+}

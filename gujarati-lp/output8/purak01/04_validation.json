@@ -1,0 +1,58 @@
+{
+  "agent": "04_mapping_convergence",
+  "chapter_id": "gseb_eng_gujarati8_ch16",
+  "status": "pass",
+  "validated_file": "02_structure.json",
+  "validated_sha256": "1df3e75590571641a01369db1087ce7461cc2c511f6a63b7383c517fa27f4193",
+  "pass_kind": "re-validation after the A1/A2 resume corrections (QC blockers B-1 and B-2). It supersedes the earlier 04_validation.json, whose 04_converged.json sha256 (b6d5f5dc...) was taken against the pre-correction 02_structure.json and no longer matched. Every check below was re-run against the file as it is now on disk, not carried over from the earlier pass.",
+  "checks": {
+    "genre_fidelity": {
+      "pass": true,
+      "notes": [
+        "Explanation unit: 01_meta.json says 'એક કડી' and profiles/genres/urmikavya_geet.md says 'one કડી'; 02_structure.json carries the same unit. 00_chapter_normalized.md has exactly six [[કડી n]] markers (1 to 6) and 02_structure.json cuts exactly six topics, each with a distinct source_marker, in printed order (script-checked): 6 markers == 6 topics.",
+        "દુહા: 0 [[દુહો]] markers, 0 topics carrying one, so no two દુહા can share a topic (trivially holds). પદ: 0 [[પદ]] markers, so no પદ is split (trivially holds). structure_inventory in 01_meta.json agrees (duha 0, pad 0, ghatna 0).",
+        "ટેક: 0 [[ટેક]] markers in 00_chapter_normalized.md and tek_occurrences 0 in 01_meta.json, so there is no returning refrain, changed or identical. The profile's structural ટેક rule (topics carrying a ટેક equal the distinct ટેક wordings, or one topic plus depends_on) has nothing to apply to. depends_on [] on all six topics is correct for a cumulative list poem.",
+        "Not a mixed chapter: one genre, genre_confidence high, active_genre_profiles ['urmikavya_geet.md'] only. The profile file was supplied in this run's context and was read in full.",
+        "Avoid list, structural scope (the content-level items belong to Agents 7 and 13): no digit (Latin or Gujarati) in any module_name, segment_name, topic_name, concept_name, objective_text or guiding_question (script-checked); no exhortation of the 'આપણે ... જોઈએ' shape in any objective; no scientific-mechanism word; no political framing; every objective opens on a quoted printed line, so none opens on the ભાવ or the બોધ. original_chunk is '' and concepts[].content is [] on all six topics, as expected before Agent 5."
+      ]
+    },
+    "coverage": {
+      "pass": true,
+      "scenes": 6,
+      "topics": 6,
+      "notes": [
+        "All six reading scenes became topics, in order: M1.S1.T1 = first કડી, M1.S2.T2 = second, M1.S2.T3 = third, M2.S3.T4 = fourth, M2.S3.T5 = fifth, M2.S4.T6 = sixth. Every topic is topic_type POEM and sits on one printed [[કડી n]] marker; no topic sits on text that no marker claims.",
+        "Pre-reading opener: the only candidate is [[પ્રવેશપેટી]], the blue box under the title. It is filed as apparatus in 02_structure.json (marker_accounting.markers_deliberately_not_cut_as_topics). That follows reference/explanation_unit_map.md hard rule 4 ('the blue intro box ... not topics') and matches how the sibling std 6 to 8 chapters treat it (none of output8/ch01 to ch15 or the other purak units cuts it). See the judgement note in notes[] below.",
+        "No in-text wrap exists on this one-page unit, so no REVIEW topic is owed. [[શબ્દાર્થ]] is apparatus and was not cut.",
+        "exercise_inventory in 01_meta.json is [] and the render confirms it: the page carries the title, author line, intro box, six કડી, the શબ્દાર્થ box and a decorative illustration, with no સ્વાધ્યાય block of any kind. Cross-checked against all six topic_name values and source_marker values: none is a સ્વાધ્યાય block."
+      ]
+    },
+    "objectives": {
+      "pass": true,
+      "count": 6,
+      "notes": [
+        "Root objectives[] exists with O1 to O6, all objective_id values unique, all strand 'L' / 'ભાષા અને સાહિત્ય'. objective_text runs 21 to 28 words, inside the 12 to 30 range.",
+        "Every home_topic_id resolves to a topic in the tree (O1 to M1.S1.T1, O2 to M1.S2.T2, O3 to M1.S2.T3, O4 to M2.S3.T4, O5 to M2.S3.T5, O6 to M2.S4.T6). Every anchor[] id resolves to a concept that exists under that same home topic.",
+        "strand_to_objective_map covers every legacy_id exactly once (L1:O1 to L6:O6), one-for-one with objectives[].legacy_id. Every topic carries objective_ids that resolve to the registry, and each topic's concept objective_id sits inside its topic's objective_ids.",
+        "Text-grounded and chapter-specific: every quoted phrase in every objective_text (11 quotes) was matched character for character against 00_chapter_normalized.md and all 11 are found (script-checked). None could be pasted into another chapter. Each asks the child to find a picture in a printed line and say what it shows, which serves the lens 'ચિત્ર + ભાવ + અલંકાર'.",
+        "Craft-label ceiling at std 8: no અલંકાર, છંદ, સમાસ or સાહિત્યપ્રકાર label appears in any objective_text. (The only hit on the label scan is the poem's own title word 'ભુલભુલામણી' in O6, which is printed text, not a label.)",
+        "B-2 re-check: O3 now reads 'પતંગ-પાંખો પહેરી' + 'થશું સવાર જ્યાં ધૂમકેતુની ઘોડો દેતો હાવળ' and asks 'શું પહેરીને, ક્યાં સવારી કરવાની કલ્પના'. That takes સવાર as the rider, which agrees with the printed થશું and the printed શબ્દાર્થ gloss of હાવળ (ઘોડાનો હણહણાટ). The stale 'સવાર સુધી' / 'સવાર પડે' wording is gone from every display field; it survives only inside 02_structure.json's own notes[], quoted as the wording that was removed.",
+        "B-1 re-check: guiding_question in 02_structure.json is character-identical to 01_meta.json's and begins with the printed 'ધરુવાડિયાં' (ધ). The misspelling 'ઘરુવાડિયા' occurs nowhere in 02_structure.json.",
+        "Id grammar per reference/naming_conventions.md: M1 to M2, S1 to S4 and T1 to T6 are dotted, continuous and never restart (M2 continues at S3); C1 to C6 are chapter-continuous and each concept number equals its topic number. No M1.S1.T1.P1-style objective code anywhere. chapter_id 'gseb_eng_gujarati8_ch16' matches {board}_{medium}_{subject}{grade}_ch{N}; plan_id 'gseb_eng_gujarati8_ch16_v1' matches {chapter_id}_v{n}; 01_meta.json carries unit_number 16, topic_number 16, chapter_master_id null, with the purak-lesson-1-as-ch16 provenance recorded in extraction_notes."
+      ]
+    }
+  },
+  "blocking": [],
+  "owner": null,
+  "notes": [
+    "INTEGRITY: 04_converged.json written in this pass records the sha256 of 02_structure.json as it stands now (1df3e755...f4193). The sha256 in the earlier 04_converged.json (b6d5f5dc...) predated the O3, guiding_question and grouping-note corrections and was stale. A5 should re-attach the registry from this file, and re-derive the inline learning_objectives mirror and modified_chunk for M1.S2.T3, which still carry the old reading in 05_with_content.json.",
+    "CONTEXT ROUTING: this run's context supplied every document the spec lists (the six policy documents and the active genre profile). No routing gap for Agent 4. 02_structure.json's own note says A2's correction pass did not re-read naming_conventions.md, phase2_contract.md or the std-8 student profile; this pass re-checked the id grammar and the objectives shape against the first two directly (script plus reading), so that gap is closed for the structure's shape. profiles/students/std-8.md was not among my inputs and was not used.",
+    "RENDER OPENED, with the reason: _renders/page-1.png was opened once, for a figure and layout question the transcription cannot answer (is the બીજ image shown, and is the intro box a teacher box or student prose). The six verse couplets and the શબ્દાર્થ box on the render read the same as 00_chapter_normalized.md, including 'ધરુવાડિયાં', 'કાસળ' and the printed 'ધૂમકેતુની ઘોડો'. The page's illustration shows a winged child holding a kite string and a boy rowing an ordinary wooden boat on water; no crescent or moon is drawn.",
+    "JUDGEMENT FOR ORCHESTRATOR (not a defect, no action taken): the [[પ્રવેશપેટી]] on this unit is thematic and student-facing in tone (gratitude for nature's gifts, 'મનને બીજું જોઈએ શું ?'), unlike ch01's box which instructs the teacher ('ગાન કરવું અને કરાવવું'). It is still the book's blue intro box, and the pack's rule files that box as apparatus, as the sibling std 6 to 8 chapters do and as QC accepted. If a human decides this thematic lead-in should be a CONCEPT opener, that is an A2 re-cut and a policy change across the std 6 to 8 corpus, not a fix local to this chapter.",
+    "NOTE (non-blocking, for A13 or the orchestrator): M1.S2.T2's topic_name ('આગિયા પાછળ અને ચાંદની હોડીમાં સફર') and concept_name ('આગિયા અને ચાંદની હોડીની રાતી કલ્પના') say 'ચાંદની' (moonlight). The page prints 'બીજ તણી બંકિમ હોડી', does not gloss બીજ, and the illustration does not show a moon, so 'ચાંદની' is a reading the page does not carry (A1's own correction note refuses to assert it). 'રાતી' in the concept_name is probably a slip for 'રાતની'. The objective O2 itself quotes only printed words and is clean. 12_authoring.json and 13_merged.json copy the 'ચાંદની હોડી' wording, so a rename (for example to 'બંકિમ હોડી') is a coordinated change. QC recorded 'બીજ as બીજનો ચાંદ' as plausible but unprinted and did not block it; this pass agrees it is a naming note, not a block.",
+    "NOTE (non-blocking, same family): O4 ('ફૂલ-વેલીઓની મિત્રતા'), M2.S3.T4's topic_name ('ફૂલ-વેલીના ભેરુ ...') and concept_name call the friends ફૂલ-વેલી. The printed line names પારિજાત, ગુલાબ, આવળ and બાવળ, and the શબ્દાર્થ box glosses only પારિજાત (એક ફૂલ). The page does not call આવળ or બાવળ a flower or a creeper, and બાવળ is neither. O4 stays text-grounded because it quotes the printed line, so this is not a block, but a neutral wording such as 'પારિજાત, ગુલાબ, આવળ, બાવળ જેવા ભેરુ' would avoid teaching a class the page does not state. It is close kin to QC's B-3 caution about unsourced botanical glosses.",
+    "NOTE: O3 is labelled bloom_level Analyze, but its task (say what the poet puts on and where he imagines riding) is closer to Understand. The std 8 on-ramp can stay as it is; flagged only so the label is not read as a measured ceiling.",
+    "NOTE: M1.S1 holds a single topic and M2.S4 holds a single topic. The grouping rationale is in 02_structure.json's notes (base needs, then the night ride, then the outward ask, then the title echo) and is defensible; recorded as uneven segment size, not as a defect.",
+    "NOTE: this chapter's printed number box shows '1' (the book's own purak numbering). The ch16 identity is the orchestrator's required provenance mapping and is recorded in 01_meta.json; chapter_master_id is null by instruction. Nothing here was inferred."
+  ]
+}
