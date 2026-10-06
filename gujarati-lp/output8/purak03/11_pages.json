@@ -1,0 +1,11 @@
+{"textbook": null,
+ "textbook_url": "../Textbooks-pdf/std-8/purak-03-somnath-sasan-ne-savaj.pdf",
+ "textbook_pages": "141–145",
+ "source": "printed folio, read off renders of page-1 (folio 141, chapter opener with title and Somnath photograph) and page-5 (folio 145, શબ્દાર્થ box and word-exercise page) of the 5-page chapter PDF; 141 to 145 is 5 pages, matching the 5-page PDF and the board-profile row (141–145, pdf pp. 153–157, offset N+12)",
+ "confidence": "medium",
+ "gaps": [
+  "textbook_url is a local path — the GSEB readers have no hosted URL",
+  "textbook title is null in 01_meta.json because the std 8 cover has not been read; not composed here. The board profile lists 'ગુજરાતી (દ્વિતીય ભાષા), ધોરણ 8' but marks it unconfirmed",
+  "confidence is medium rather than high only because the std 8 cover title is unconfirmed; both end folios were read off renders",
+  "page 1 prints the unit number 3 in its title box, a purak-section number, consistent with this unit being presented as ch18"
+ ]}
